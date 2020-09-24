@@ -1,0 +1,335 @@
+Stage,Round,Date,Team 1,FT,Team 2
+Apertura,1,Fri Jul 20 2018,Tiburones Rojos Veracruz,0-2,Pumas UNAM
+Apertura,1,Fri Jul 20 2018,Club Atlas,0-0,Querétaro FC
+Apertura,1,Sat Jul 21 2018,Cruz Azul,3-0,Club Puebla
+Apertura,1,Sat Jul 21 2018,CF Pachuca,0-1,CF Monterrey
+Apertura,1,Sat Jul 21 2018,Club Tijuana,2-1,CD Guadalajara Chivas
+Apertura,1,Sat Jul 21 2018,Tigres UANL,2-0,Club León
+Apertura,1,Sun Jul 22 2018,Club Necaxa,2-1,Club América
+Apertura,1,Sun Jul 22 2018,Santos Laguna,2-1,Lobos BUAP
+Apertura,1,Sun Jul 22 2018,Deportivo Toluca FC,2-0,Monarcas Morelia
+Apertura,2,Fri Jul 27 2018,Monarcas Morelia,3-1,Santos Laguna
+Apertura,2,Fri Jul 27 2018,Club Puebla,2-1,Deportivo Toluca FC
+Apertura,2,Sat Jul 28 2018,CD Guadalajara Chivas,0-1,Cruz Azul
+Apertura,2,Sat Jul 28 2018,Club América,3-0,Club Atlas
+Apertura,2,Sat Jul 28 2018,Querétaro FC,1-0,CF Pachuca
+Apertura,2,Sun Jul 29 2018,Pumas UNAM,5-3,Club Necaxa
+Apertura,2,Sun Jul 29 2018,Lobos BUAP,2-0,Tiburones Rojos Veracruz
+Apertura,2,Sun Jul 29 2018,Club León,0-2,CF Monterrey
+Apertura,2,Sun Jul 29 2018,Tigres UANL,1-0,Club Tijuana
+Apertura,3,Fri Aug 3 2018,Club Atlas,0-3,Pumas UNAM
+Apertura,3,Fri Aug 3 2018,Tiburones Rojos Veracruz,2-2,Monarcas Morelia
+Apertura,3,Sat Aug 4 2018,Club Necaxa,1-0,Lobos BUAP
+Apertura,3,Sat Aug 4 2018,CF Pachuca,1-3,Club América
+Apertura,3,Sat Aug 4 2018,CF Monterrey,2-1,Querétaro FC
+Apertura,3,Sat Aug 4 2018,Cruz Azul,1-0,Tigres UANL
+Apertura,3,Sun Aug 5 2018,Deportivo Toluca FC,2-2,CD Guadalajara Chivas
+Apertura,3,Sun Aug 5 2018,Santos Laguna,2-0,Club Puebla
+Apertura,3,Sun Aug 5 2018,Club Tijuana,1-1,Club León
+Apertura,4,Fri Aug 10 2018,Club Puebla,1-2,Tiburones Rojos Veracruz
+Apertura,4,Fri Aug 10 2018,Monarcas Morelia,2-1,Club Necaxa
+Apertura,4,Sat Aug 11 2018,Club América,3-0,CF Monterrey
+Apertura,4,Sat Aug 11 2018,Club León,4-0,Querétaro FC
+Apertura,4,Sat Aug 11 2018,Tigres UANL,1-2,Deportivo Toluca FC
+Apertura,4,Sat Aug 11 2018,Lobos BUAP,0-0,Club Atlas
+Apertura,4,Sun Aug 12 2018,Pumas UNAM,0-0,CF Pachuca
+Apertura,4,Sun Aug 12 2018,Club Tijuana,1-1,Cruz Azul
+Apertura,4,Sun Aug 12 2018,CD Guadalajara Chivas,1-2,Santos Laguna
+Apertura,5,Fri Aug 17 2018,Tiburones Rojos Veracruz,0-2,CD Guadalajara Chivas
+Apertura,5,Fri Aug 17 2018,Club Atlas,0-1,Monarcas Morelia
+Apertura,5,Sat Aug 18 2018,CF Pachuca,3-0,Lobos BUAP
+Apertura,5,Sat Aug 18 2018,Cruz Azul,3-0,Club León
+Apertura,5,Sat Aug 18 2018,CF Monterrey,1-0,Pumas UNAM
+Apertura,5,Sat Aug 18 2018,Querétaro FC,1-1,Club América
+Apertura,5,Sat Aug 18 2018,Club Necaxa,2-2,Club Puebla
+Apertura,5,Sun Aug 19 2018,Santos Laguna,3-1,Tigres UANL
+Apertura,5,Sun Aug 19 2018,Deportivo Toluca FC,3-0,Club Tijuana
+Apertura,6,Tue Aug 21 2018,Monarcas Morelia,1-1,CF Pachuca
+Apertura,6,Tue Aug 21 2018,Pumas UNAM,0-1,Querétaro FC
+Apertura,6,Tue Aug 21 2018,Club Puebla,2-0,Club Atlas
+Apertura,6,Tue Aug 21 2018,CD Guadalajara Chivas,1-0,Club Necaxa
+Apertura,6,Wed Aug 22 2018,Cruz Azul,1-0,Deportivo Toluca FC
+Apertura,6,Wed Aug 22 2018,Club León,2-0,Club América
+Apertura,6,Wed Aug 22 2018,Tigres UANL,4-0,Tiburones Rojos Veracruz
+Apertura,6,Wed Aug 22 2018,Club Tijuana,2-2,Santos Laguna
+Apertura,6,Wed Aug 22 2018,Lobos BUAP,1-2,CF Monterrey
+Apertura,7,Fri Aug 24 2018,Club Atlas,0-1,CD Guadalajara Chivas
+Apertura,7,Sat Aug 25 2018,Club América,2-2,Pumas UNAM
+Apertura,7,Sat Aug 25 2018,CF Monterrey,2-2,Monarcas Morelia
+Apertura,7,Sat Aug 25 2018,Tiburones Rojos Veracruz,1-0,Club Tijuana
+Apertura,7,Sat Aug 25 2018,Club Necaxa,1-1,Tigres UANL
+Apertura,7,Sat Aug 25 2018,CF Pachuca,2-0,Club Puebla
+Apertura,7,Sun Aug 26 2018,Querétaro FC,2-0,Lobos BUAP
+Apertura,7,Sun Aug 26 2018,Deportivo Toluca FC,1-2,Club León
+Apertura,7,Sun Aug 26 2018,Santos Laguna,1-1,Cruz Azul
+Apertura,8,Fri Aug 31 2018,Monarcas Morelia,1-4,Querétaro FC
+Apertura,8,Fri Aug 31 2018,Club Puebla,2-1,CF Monterrey
+Apertura,8,Fri Aug 31 2018,Club Tijuana,1-0,Club Necaxa
+Apertura,8,Sat Sep 1 2018,Cruz Azul,4-1,Tiburones Rojos Veracruz
+Apertura,8,Sat Sep 1 2018,Club León,1-2,Pumas UNAM
+Apertura,8,Sat Sep 1 2018,CD Guadalajara Chivas,1-3,CF Pachuca
+Apertura,8,Sat Sep 1 2018,Tigres UANL,3-1,Club Atlas
+Apertura,8,Sun Sep 2 2018,Deportivo Toluca FC,2-1,Santos Laguna
+Apertura,8,Sun Sep 2 2018,Lobos BUAP,0-2,Club América
+Apertura,9,Fri Sep 14 2018,Tiburones Rojos Veracruz,2-3,Deportivo Toluca FC
+Apertura,9,Sat Sep 15 2018,CF Pachuca,1-1,Tigres UANL
+Apertura,9,Sat Sep 15 2018,Querétaro FC,0-1,Club Puebla
+Apertura,9,Sat Sep 15 2018,Club América,2-1,Monarcas Morelia
+Apertura,9,Sat Sep 15 2018,CF Monterrey,2-4,CD Guadalajara Chivas
+Apertura,9,Sat Sep 15 2018,Club Necaxa,2-0,Cruz Azul
+Apertura,9,Sun Sep 16 2018,Pumas UNAM,4-2,Lobos BUAP
+Apertura,9,Sun Sep 16 2018,Santos Laguna,3-0,Club León
+Apertura,9,Sun Sep 16 2018,Club Atlas,0-1,Club Tijuana
+Apertura,10,Fri Sep 21 2018,Monarcas Morelia,0-0,Pumas UNAM
+Apertura,10,Fri Sep 21 2018,Club Puebla,2-3,Club América
+Apertura,10,Sat Sep 22 2018,Deportivo Toluca FC,3-2,Club Necaxa
+Apertura,10,Sat Sep 22 2018,Club Tijuana,1-0,CF Pachuca
+Apertura,10,Sat Sep 22 2018,Cruz Azul,2-0,Club Atlas
+Apertura,10,Sat Sep 22 2018,Club León,0-1,Lobos BUAP
+Apertura,10,Sun Sep 23 2018,CD Guadalajara Chivas,1-1,Querétaro FC
+Apertura,10,Sun Sep 23 2018,Santos Laguna,1-1,Tiburones Rojos Veracruz
+Apertura,10,Sun Sep 23 2018,Tigres UANL,0-0,CF Monterrey
+Apertura,11,Fri Sep 28 2018,Tiburones Rojos Veracruz,0-4,Club León
+Apertura,11,Fri Sep 28 2018,Club Atlas,2-0,Deportivo Toluca FC
+Apertura,11,Sat Sep 29 2018,CF Monterrey,3-0,Club Tijuana
+Apertura,11,Sat Sep 29 2018,CF Pachuca,3-1,Cruz Azul
+Apertura,11,Sat Sep 29 2018,Club Necaxa,0-1,Santos Laguna
+Apertura,11,Sat Sep 29 2018,Querétaro FC,0-2,Tigres UANL
+Apertura,11,Sun Sep 30 2018,Pumas UNAM,2-2,Club Puebla
+Apertura,11,Sun Sep 30 2018,Club América,1-1,CD Guadalajara Chivas
+Apertura,11,Sun Sep 30 2018,Lobos BUAP,3-1,Monarcas Morelia
+Apertura,12,Fri Oct 5 2018,Santos Laguna,3-1,Club Atlas
+Apertura,12,Fri Oct 5 2018,Tiburones Rojos Veracruz,0-0,Club Necaxa
+Apertura,12,Sat Oct 6 2018,Club León,1-2,Monarcas Morelia
+Apertura,12,Sat Oct 6 2018,Cruz Azul,2-1,CF Monterrey
+Apertura,12,Sat Oct 6 2018,Club Tijuana,1-1,Querétaro FC
+Apertura,12,Sat Oct 6 2018,CD Guadalajara Chivas,1-2,Pumas UNAM
+Apertura,12,Sat Oct 6 2018,Tigres UANL,2-3,Club América
+Apertura,12,Sun Oct 7 2018,Deportivo Toluca FC,2-1,CF Pachuca
+Apertura,12,Sun Oct 7 2018,Club Puebla,2-2,Lobos BUAP
+Apertura,13,Fri Oct 19 2018,Club Atlas,4-3,Tiburones Rojos Veracruz
+Apertura,13,Sat Oct 20 2018,Querétaro FC,2-0,Cruz Azul
+Apertura,13,Sat Oct 20 2018,CF Pachuca,1-1,Santos Laguna
+Apertura,13,Sat Oct 20 2018,Club América,3-0,Club Tijuana
+Apertura,13,Sat Oct 20 2018,Club Necaxa,0-2,Club León
+Apertura,13,Sat Oct 20 2018,CF Monterrey,2-1,Deportivo Toluca FC
+Apertura,13,Sun Oct 21 2018,Lobos BUAP,1-1,CD Guadalajara Chivas
+Apertura,13,Sun Oct 21 2018,Pumas UNAM,3-3,Tigres UANL
+Apertura,13,Sun Oct 21 2018,Monarcas Morelia,2-0,Club Puebla
+Apertura,14,Fri Oct 26 2018,Tiburones Rojos Veracruz,2-3,CF Pachuca
+Apertura,14,Fri Oct 26 2018,Santos Laguna,1-0,CF Monterrey
+Apertura,14,Sat Oct 27 2018,Club Necaxa,2-2,Club Atlas
+Apertura,14,Sat Oct 27 2018,Tigres UANL,2-2,Lobos BUAP
+Apertura,14,Sat Oct 27 2018,CD Guadalajara Chivas,1-2,Monarcas Morelia
+Apertura,14,Sat Oct 27 2018,Cruz Azul,0-0,Club América
+Apertura,14,Sat Oct 27 2018,Club Tijuana,0-1,Pumas UNAM
+Apertura,14,Sun Oct 28 2018,Deportivo Toluca FC,4-0,Querétaro FC
+Apertura,14,Sun Oct 28 2018,Club León,0-4,Club Puebla
+Apertura,15,Fri Nov 2 2018,Monarcas Morelia,0-2,Tigres UANL
+Apertura,15,Fri Nov 2 2018,Club Puebla,2-2,CD Guadalajara Chivas
+Apertura,15,Sat Nov 3 2018,CF Pachuca,6-2,Club Necaxa
+Apertura,15,Sat Nov 3 2018,Club América,1-1,Deportivo Toluca FC
+Apertura,15,Sat Nov 3 2018,CF Monterrey,2-0,Tiburones Rojos Veracruz
+Apertura,15,Sat Nov 3 2018,Lobos BUAP,3-1,Club Tijuana
+Apertura,15,Sun Nov 4 2018,Pumas UNAM,1-2,Cruz Azul
+Apertura,15,Sun Nov 4 2018,Querétaro FC,2-1,Santos Laguna
+Apertura,15,Sun Nov 4 2018,Club Atlas,0-0,Club León
+Apertura,16,Fri Nov 9 2018,Tiburones Rojos Veracruz,2-2,Querétaro FC
+Apertura,16,Fri Nov 9 2018,Club Atlas,0-0,CF Pachuca
+Apertura,16,Sat Nov 10 2018,Club León,0-1,CD Guadalajara Chivas
+Apertura,16,Sat Nov 10 2018,Cruz Azul,2-1,Lobos BUAP
+Apertura,16,Sat Nov 10 2018,Club Tijuana,2-3,Monarcas Morelia
+Apertura,16,Sat Nov 10 2018,Club Necaxa,1-1,CF Monterrey
+Apertura,16,Sat Nov 10 2018,Tigres UANL,6-1,Club Puebla
+Apertura,16,Sun Nov 11 2018,Deportivo Toluca FC,0-1,Pumas UNAM
+Apertura,16,Sun Nov 11 2018,Santos Laguna,1-1,Club América
+Apertura,17,Fri Nov 23 2018,Monarcas Morelia,0-2,Cruz Azul
+Apertura,17,Fri Nov 23 2018,Club Puebla,0-0,Club Tijuana
+Apertura,17,Sat Nov 24 2018,Querétaro FC,1-0,Club Necaxa
+Apertura,17,Sat Nov 24 2018,CF Pachuca,1-1,Club León
+Apertura,17,Sat Nov 24 2018,CF Monterrey,3-1,Club Atlas
+Apertura,17,Sat Nov 24 2018,CD Guadalajara Chivas,0-1,Tigres UANL
+Apertura,17,Sat Nov 24 2018,Club América,4-1,Tiburones Rojos Veracruz
+Apertura,17,Sun Nov 25 2018,Pumas UNAM,1-1,Santos Laguna
+Apertura,17,Sun Nov 25 2018,Lobos BUAP,2-0,Deportivo Toluca FC
+Apertura - Liguilla,Cuartos de Final,Wed Nov 28 2018,CF Monterrey,1-0,Santos Laguna
+Apertura - Liguilla,Cuartos de Final,Wed Nov 28 2018,Querétaro FC,0-2,Cruz Azul
+Apertura - Liguilla,Cuartos de Final,Thu Nov 29 2018,Tigres UANL,2-1,Pumas UNAM
+Apertura - Liguilla,Cuartos de Final,Thu Nov 29 2018,Deportivo Toluca FC,2-2,Club América
+Apertura - Liguilla,Cuartos de Final,Sat Dec 1 2018,Cruz Azul,1-1,Querétaro FC
+Apertura - Liguilla,Cuartos de Final,Sat Dec 1 2018,Santos Laguna,0-2,CF Monterrey
+Apertura - Liguilla,Cuartos de Final,Sun Dec 2 2018,Club América,3-2,Deportivo Toluca FC
+Apertura - Liguilla,Cuartos de Final,Sun Dec 2 2018,Pumas UNAM,3-1,Tigres UANL
+Apertura - Liguilla,Semifinales,Wed Dec 5 2018,CF Monterrey,1-0,Cruz Azul
+Apertura - Liguilla,Semifinales,Thu Dec 6 2018,Pumas UNAM,1-1,Club América
+Apertura - Liguilla,Semifinales,Sat Dec 8 2018,Cruz Azul,1-0,CF Monterrey
+Apertura - Liguilla,Semifinales,Sun Dec 9 2018,Club América,6-1,Pumas UNAM
+Apertura - Liguilla,Final,Thu Dec 13 2018,Club América,0-0,Cruz Azul
+Apertura - Liguilla,Final,Sun Dec 16 2018,Cruz Azul,0-2,Club América
+Clausura,1,Fri Jan 4 2019,Club Puebla,1-1,Cruz Azul
+Clausura,1,Fri Jan 4 2019,Monarcas Morelia,1-3,Deportivo Toluca FC
+Clausura,1,Sat Jan 5 2019,Querétaro FC,1-2,Club Atlas
+Clausura,1,Sat Jan 5 2019,CF Monterrey,5-0,CF Pachuca
+Clausura,1,Sat Jan 5 2019,CD Guadalajara Chivas,2-0,Club Tijuana
+Clausura,1,Sat Jan 5 2019,Club León,2-2,Tigres UANL
+Clausura,1,Sun Jan 6 2019,Lobos BUAP,2-0,Santos Laguna
+Clausura,1,Sun Jan 6 2019,Pumas UNAM,0-0,Tiburones Rojos Veracruz
+Clausura,2,Fri Jan 11 2019,Club Atlas,1-2,Club América
+Clausura,2,Fri Jan 11 2019,Tiburones Rojos Veracruz,0-1,Lobos BUAP
+Clausura,2,Sat Jan 12 2019,Club Tijuana,0-3,Tigres UANL
+Clausura,2,Sat Jan 12 2019,Club Necaxa,2-1,Pumas UNAM
+Clausura,2,Sat Jan 12 2019,Cruz Azul,0-1,CD Guadalajara Chivas
+Clausura,2,Sat Jan 12 2019,CF Pachuca,3-0,Querétaro FC
+Clausura,2,Sat Jan 12 2019,CF Monterrey,2-2,Club León
+Clausura,2,Sun Jan 13 2019,Santos Laguna,1-0,Monarcas Morelia
+Clausura,2,Sun Jan 13 2019,Deportivo Toluca FC,2-0,Club Puebla
+Clausura,3,Fri Jan 18 2019,Monarcas Morelia,2-0,Tiburones Rojos Veracruz
+Clausura,3,Fri Jan 18 2019,Club Puebla,1-1,Santos Laguna
+Clausura,3,Sat Jan 19 2019,Club América,3-0,CF Pachuca
+Clausura,3,Sat Jan 19 2019,Querétaro FC,1-2,CF Monterrey
+Clausura,3,Sat Jan 19 2019,Tigres UANL,0-1,Cruz Azul
+Clausura,3,Sun Jan 20 2019,Club León,0-1,Club Tijuana
+Clausura,3,Sun Jan 20 2019,Pumas UNAM,2-2,Club Atlas
+Clausura,3,Sun Jan 20 2019,Lobos BUAP,2-3,Club Necaxa
+Clausura,3,Sun Jan 20 2019,CD Guadalajara Chivas,1-0,Deportivo Toluca FC
+Clausura,4,Fri Jan 25 2019,Club Atlas,3-1,Lobos BUAP
+Clausura,4,Fri Jan 25 2019,Tiburones Rojos Veracruz,0-1,Club Puebla
+Clausura,4,Sat Jan 26 2019,Club Necaxa,0-0,Monarcas Morelia
+Clausura,4,Sat Jan 26 2019,Cruz Azul,1-0,Club Tijuana
+Clausura,4,Sat Jan 26 2019,CF Monterrey,3-2,Club América
+Clausura,4,Sat Jan 26 2019,CF Pachuca,1-0,Pumas UNAM
+Clausura,4,Sun Jan 27 2019,Querétaro FC,0-4,Club León
+Clausura,4,Sun Jan 27 2019,Deportivo Toluca FC,0-1,Tigres UANL
+Clausura,4,Sun Jan 27 2019,Santos Laguna,1-0,CD Guadalajara Chivas
+Clausura,5,Fri Feb 1 2019,Monarcas Morelia,1-2,Club Atlas
+Clausura,5,Fri Feb 1 2019,Club Puebla,1-4,Club Necaxa
+Clausura,5,Sat Feb 2 2019,Club Tijuana,2-0,Deportivo Toluca FC
+Clausura,5,Sat Feb 2 2019,Club América,2-0,Querétaro FC
+Clausura,5,Sat Feb 2 2019,Club León,2-0,Cruz Azul
+Clausura,5,Sat Feb 2 2019,Tigres UANL,2-1,Santos Laguna
+Clausura,5,Sun Feb 3 2019,Lobos BUAP,1-1,CF Pachuca
+Clausura,5,Sun Feb 3 2019,Pumas UNAM,1-1,CF Monterrey
+Clausura,5,Mon Feb 4 2019,CD Guadalajara Chivas,0-0,Tiburones Rojos Veracruz
+Clausura,6,Fri Feb 8 2019,Tiburones Rojos Veracruz,0-2,Tigres UANL
+Clausura,6,Fri Feb 8 2019,Club Atlas,1-2,Club Puebla
+Clausura,6,Sat Feb 9 2019,CF Monterrey,4-0,Lobos BUAP
+Clausura,6,Sat Feb 9 2019,Querétaro FC,0-2,Pumas UNAM
+Clausura,6,Sat Feb 9 2019,Club Necaxa,3-3,CD Guadalajara Chivas
+Clausura,6,Sat Feb 9 2019,Club América,0-3,Club León
+Clausura,6,Sat Feb 9 2019,CF Pachuca,2-0,Monarcas Morelia
+Clausura,6,Sun Feb 10 2019,Deportivo Toluca FC,1-1,Cruz Azul
+Clausura,6,Sun Feb 10 2019,Santos Laguna,1-1,Club Tijuana
+Clausura,7,Fri Feb 15 2019,Monarcas Morelia,2-3,CF Monterrey
+Clausura,7,Fri Feb 15 2019,Club Puebla,1-1,CF Pachuca
+Clausura,7,Fri Feb 15 2019,Club Tijuana,3-0,Tiburones Rojos Veracruz
+Clausura,7,Sat Feb 16 2019,Cruz Azul,1-2,Santos Laguna
+Clausura,7,Sat Feb 16 2019,CD Guadalajara Chivas,3-0,Club Atlas
+Clausura,7,Sat Feb 16 2019,Club León,3-0,Deportivo Toluca FC
+Clausura,7,Sat Feb 16 2019,Tigres UANL,3-2,Club Necaxa
+Clausura,7,Sun Feb 17 2019,Lobos BUAP,3-1,Querétaro FC
+Clausura,7,Sun Feb 17 2019,Pumas UNAM,1-0,Club América
+Clausura,8,Fri Feb 22 2019,Club Atlas,0-1,Tigres UANL
+Clausura,8,Fri Feb 22 2019,Tiburones Rojos Veracruz,1-1,Cruz Azul
+Clausura,8,Sat Feb 23 2019,Querétaro FC,3-0,Monarcas Morelia
+Clausura,8,Sat Feb 23 2019,Club Necaxa,1-2,Club Tijuana
+Clausura,8,Sat Feb 23 2019,Club América,3-0,Lobos BUAP
+Clausura,8,Sat Feb 23 2019,CF Monterrey,0-0,Club Puebla
+Clausura,8,Sat Feb 23 2019,CF Pachuca,3-1,CD Guadalajara Chivas
+Clausura,8,Sun Feb 24 2019,Santos Laguna,4-0,Deportivo Toluca FC
+Clausura,8,Sun Feb 24 2019,Pumas UNAM,1-3,Club León
+Clausura,9,Fri Mar 1 2019,Monarcas Morelia,2-2,Club América
+Clausura,9,Fri Mar 1 2019,Club Tijuana,3-1,Club Atlas
+Clausura,9,Sat Mar 2 2019,Cruz Azul,2-1,Club Necaxa
+Clausura,9,Sat Mar 2 2019,CD Guadalajara Chivas,0-2,CF Monterrey
+Clausura,9,Sat Mar 2 2019,Tigres UANL,3-0,CF Pachuca
+Clausura,9,Sat Mar 2 2019,Club León,3-0,Santos Laguna
+Clausura,9,Sun Mar 3 2019,Deportivo Toluca FC,3-1,Tiburones Rojos Veracruz
+Clausura,9,Sun Mar 3 2019,Lobos BUAP,2-1,Pumas UNAM
+Clausura,9,Mon Mar 4 2019,Club Puebla,1-0,Querétaro FC
+Clausura,1,Tue Mar 5 2019,Club América,1-3,Club Necaxa
+Clausura,10,Fri Mar 8 2019,Tiburones Rojos Veracruz,2-2,Santos Laguna
+Clausura,10,Fri Mar 8 2019,Club Atlas,0-2,Cruz Azul
+Clausura,10,Sat Mar 9 2019,Querétaro FC,0-0,CD Guadalajara Chivas
+Clausura,10,Sat Mar 9 2019,CF Pachuca,4-0,Club Tijuana
+Clausura,10,Sat Mar 9 2019,CF Monterrey,1-1,Tigres UANL
+Clausura,10,Sat Mar 9 2019,Club Necaxa,1-1,Deportivo Toluca FC
+Clausura,10,Sat Mar 9 2019,Club América,1-0,Club Puebla
+Clausura,10,Sun Mar 10 2019,Pumas UNAM,2-2,Monarcas Morelia
+Clausura,10,Sun Mar 10 2019,Lobos BUAP,0-1,Club León
+Clausura,11,Fri Mar 15 2019,Monarcas Morelia,1-1,Lobos BUAP
+Clausura,11,Fri Mar 15 2019,Club Puebla,1-0,Pumas UNAM
+Clausura,11,Sat Mar 16 2019,Cruz Azul,4-1,CF Pachuca
+Clausura,11,Sat Mar 16 2019,Club Tijuana,1-0,CF Monterrey
+Clausura,11,Sat Mar 16 2019,Tigres UANL,4-1,Querétaro FC
+Clausura,11,Sat Mar 16 2019,CD Guadalajara Chivas,0-2,Club América
+Clausura,11,Sun Mar 17 2019,Deportivo Toluca FC,2-0,Club Atlas
+Clausura,11,Sun Mar 17 2019,Club León,2-0,Tiburones Rojos Veracruz
+Clausura,11,Sun Mar 17 2019,Santos Laguna,1-2,Club Necaxa
+Clausura,12,Fri Mar 29 2019,Monarcas Morelia,2-3,Club León
+Clausura,12,Fri Mar 29 2019,Club Atlas,1-0,Santos Laguna
+Clausura,12,Sat Mar 30 2019,Club América,3-0,Tigres UANL
+Clausura,12,Sat Mar 30 2019,Querétaro FC,1-0,Club Tijuana
+Clausura,12,Sat Mar 30 2019,Club Necaxa,2-0,Tiburones Rojos Veracruz
+Clausura,12,Sat Mar 30 2019,CF Monterrey,2-2,Cruz Azul
+Clausura,12,Sat Mar 30 2019,CF Pachuca,3-2,Deportivo Toluca FC
+Clausura,12,Sun Mar 31 2019,Pumas UNAM,2-1,CD Guadalajara Chivas
+Clausura,12,Sun Mar 31 2019,Lobos BUAP,0-4,Club Puebla
+Clausura,13,Fri Apr 5 2019,Tiburones Rojos Veracruz,0-1,Club Atlas
+Clausura,13,Fri Apr 5 2019,Club Puebla,1-1,Monarcas Morelia
+Clausura,13,Sat Apr 6 2019,Club León,2-1,Club Necaxa
+Clausura,13,Sat Apr 6 2019,Cruz Azul,3-0,Querétaro FC
+Clausura,13,Sat Apr 6 2019,Tigres UANL,2-0,Pumas UNAM
+Clausura,13,Sat Apr 6 2019,Club Tijuana,3-2,Club América
+Clausura,13,Sat Apr 6 2019,CD Guadalajara Chivas,0-1,Lobos BUAP
+Clausura,13,Sun Apr 7 2019,Deportivo Toluca FC,5-1,CF Monterrey
+Clausura,13,Sun Apr 7 2019,Santos Laguna,0-0,CF Pachuca
+Clausura,14,Fri Apr 12 2019,Club Atlas,1-2,Club Necaxa
+Clausura,14,Fri Apr 12 2019,Club Puebla,0-3,Club León
+Clausura,14,Sat Apr 13 2019,Querétaro FC,0-0,Deportivo Toluca FC
+Clausura,14,Sat Apr 13 2019,CF Pachuca,9-2,Tiburones Rojos Veracruz
+Clausura,14,Sat Apr 13 2019,Monarcas Morelia,1-0,CD Guadalajara Chivas
+Clausura,14,Sun Apr 14 2019,Pumas UNAM,1-0,Club Tijuana
+Clausura,14,Sun Apr 14 2019,CF Monterrey,4-0,Santos Laguna
+Clausura,14,Sun Apr 14 2019,Club América,0-0,Cruz Azul
+Clausura,14,Sun Apr 14 2019,Lobos BUAP,0-3,Tigres UANL
+Clausura,15,Fri Apr 19 2019,Tiburones Rojos Veracruz,0-1,CF Monterrey
+Clausura,15,Fri Apr 19 2019,Club Tijuana,1-2,Lobos BUAP
+Clausura,15,Sat Apr 20 2019,Club Necaxa,2-2,CF Pachuca
+Clausura,15,Sat Apr 20 2019,Club León,5-2,Club Atlas
+Clausura,15,Sat Apr 20 2019,Cruz Azul,2-1,Pumas UNAM
+Clausura,15,Sat Apr 20 2019,CD Guadalajara Chivas,1-3,Club Puebla
+Clausura,15,Sat Apr 20 2019,Tigres UANL,3-3,Monarcas Morelia
+Clausura,15,Sun Apr 21 2019,Deportivo Toluca FC,3-2,Club América
+Clausura,15,Sun Apr 21 2019,Santos Laguna,2-1,Querétaro FC
+Clausura,16,Fri Apr 26 2019,Club Puebla,1-1,Tigres UANL
+Clausura,16,Fri Apr 26 2019,Monarcas Morelia,1-4,Club Tijuana
+Clausura,16,Sat Apr 27 2019,CF Pachuca,1-0,Club Atlas
+Clausura,16,Sat Apr 27 2019,CD Guadalajara Chivas,2-1,Club León
+Clausura,16,Sat Apr 27 2019,CF Monterrey,2-2,Club Necaxa
+Clausura,16,Sat Apr 27 2019,Club América,1-0,Santos Laguna
+Clausura,16,Sun Apr 28 2019,Pumas UNAM,2-2,Deportivo Toluca FC
+Clausura,16,Sun Apr 28 2019,Lobos BUAP,1-4,Cruz Azul
+Clausura,16,Sun Apr 28 2019,Querétaro FC,2-1,Tiburones Rojos Veracruz
+Clausura,17,Fri May 3 2019,Tiburones Rojos Veracruz,0-2,Club América
+Clausura,17,Sat May 4 2019,Cruz Azul,1-1,Monarcas Morelia
+Clausura,17,Sat May 4 2019,Club León,2-1,CF Pachuca
+Clausura,17,Sat May 4 2019,Club Tijuana,4-0,Club Puebla
+Clausura,17,Sat May 4 2019,Club Necaxa,1-0,Querétaro FC
+Clausura,17,Sat May 4 2019,Tigres UANL,2-1,CD Guadalajara Chivas
+Clausura,17,Sun May 5 2019,Deportivo Toluca FC,4-0,Lobos BUAP
+Clausura,17,Sun May 5 2019,Club Atlas,2-0,CF Monterrey
+Clausura,17,Sun May 5 2019,Santos Laguna,5-2,Pumas UNAM
+Clausura - Liguilla,Cuartos de Final,Wed May 8 2019,CF Pachuca,1-1,Tigres UANL
+Clausura - Liguilla,Cuartos de Final,Wed May 8 2019,Club Tijuana,1-3,Club León
+Clausura - Liguilla,Cuartos de Final,Thu May 9 2019,Club Necaxa,1-0,CF Monterrey
+Clausura - Liguilla,Cuartos de Final,Thu May 9 2019,Club América,3-1,Cruz Azul
+Clausura - Liguilla,Cuartos de Final,Sat May 11 2019,Tigres UANL,1-1,CF Pachuca
+Clausura - Liguilla,Cuartos de Final,Sat May 11 2019,Club León,2-1,Club Tijuana
+Clausura - Liguilla,Cuartos de Final,Sun May 12 2019,Cruz Azul,1-0,Club América
+Clausura - Liguilla,Cuartos de Final,Sun May 12 2019,CF Monterrey,1-0,Club Necaxa
+Clausura - Liguilla,Semifinales,Wed May 15 2019,CF Monterrey,1-0,Tigres UANL
+Clausura - Liguilla,Semifinales,Thu May 16 2019,Club América,0-1,Club León
+Clausura - Liguilla,Semifinales,Sat May 18 2019,Tigres UANL,1-0,CF Monterrey
+Clausura - Liguilla,Semifinales,Sun May 19 2019,Club León,0-1,Club América
+Clausura - Liguilla,Final,Thu May 23 2019,Tigres UANL,1-0,Club León
+Clausura - Liguilla,Final,Sun May 26 2019,Club León,0-0,Tigres UANL
