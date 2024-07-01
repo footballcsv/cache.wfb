@@ -1,8 +1,6 @@
 # cache.wfb
 
-
-cached match data in the comma-separated values (csv) from worldfootball / weltfußball
-
+cached worldfootball / weltfußball match data in the comma-separated values (csv) format 
 
 
 ## Questions? Comments?
