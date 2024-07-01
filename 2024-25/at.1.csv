@@ -1,0 +1,133 @@
+Stage,Round,Date,Time,Team 1,FT,Team 2
+Grunddurchgang,1,Fri Aug 2 2024,20:30,Grazer AK,,RB Salzburg
+Grunddurchgang,1,Sat Aug 3 2024,17:00,TSV Hartberg,,LASK
+Grunddurchgang,1,Sat Aug 3 2024,19:30,Wolfsberger AC,,SK Austria Klagenfurt
+Grunddurchgang,1,Sat Aug 3 2024,17:00,SCR Altach,,WSG Tirol
+Grunddurchgang,1,Sun Aug 4 2024,17:00,FC Blau Weiß Linz,,Austria Wien
+Grunddurchgang,1,Sun Aug 4 2024,17:00,Rapid Wien,,Sturm Graz
+Grunddurchgang,2,Sat Aug 10 2024,17:00,LASK,,SCR Altach
+Grunddurchgang,2,Sat Aug 10 2024,17:00,WSG Tirol,,Grazer AK
+Grunddurchgang,2,Sat Aug 10 2024,19:30,RB Salzburg,,FC Blau Weiß Linz
+Grunddurchgang,2,Sun Aug 11 2024,17:00,Sturm Graz,,TSV Hartberg
+Grunddurchgang,2,Sun Aug 11 2024,17:00,SK Austria Klagenfurt,,Rapid Wien
+Grunddurchgang,2,Sun Aug 11 2024,17:00,Austria Wien,,Wolfsberger AC
+Grunddurchgang,3,Sat Aug 17 2024,17:00,SK Austria Klagenfurt,,Sturm Graz
+Grunddurchgang,3,Sat Aug 17 2024,19:30,LASK,,RB Salzburg
+Grunddurchgang,3,Sat Aug 17 2024,17:00,Grazer AK,,FC Blau Weiß Linz
+Grunddurchgang,3,Sun Aug 18 2024,17:00,Rapid Wien,,WSG Tirol
+Grunddurchgang,3,Sun Aug 18 2024,17:00,SCR Altach,,Wolfsberger AC
+Grunddurchgang,3,Sun Aug 18 2024,17:00,TSV Hartberg,,Austria Wien
+Grunddurchgang,4,Sat Aug 24 2024,17:00,WSG Tirol,,SK Austria Klagenfurt
+Grunddurchgang,4,Sat Aug 24 2024,19:30,Sturm Graz,,SCR Altach
+Grunddurchgang,4,Sat Aug 24 2024,17:00,RB Salzburg,,TSV Hartberg
+Grunddurchgang,4,Sun Aug 25 2024,17:00,Austria Wien,,LASK
+Grunddurchgang,4,Sun Aug 25 2024,17:00,FC Blau Weiß Linz,,Rapid Wien
+Grunddurchgang,4,Sun Aug 25 2024,17:00,Wolfsberger AC,,Grazer AK
+Grunddurchgang,5,Sat Aug 31 2024,17:00,SK Austria Klagenfurt,,FC Blau Weiß Linz
+Grunddurchgang,5,Sat Aug 31 2024,17:00,TSV Hartberg,,Grazer AK
+Grunddurchgang,5,Sat Aug 31 2024,19:30,Sturm Graz,,WSG Tirol
+Grunddurchgang,5,Sun Sep 1 2024,17:00,Rapid Wien,,RB Salzburg
+Grunddurchgang,5,Sun Sep 1 2024,17:00,SCR Altach,,Austria Wien
+Grunddurchgang,5,Sun Sep 1 2024,17:00,LASK,,Wolfsberger AC
+Grunddurchgang,6,Sat Sep 14 2024,,RB Salzburg,,SK Austria Klagenfurt
+Grunddurchgang,6,Sat Sep 14 2024,,Wolfsberger AC,,Rapid Wien
+Grunddurchgang,6,Sat Sep 14 2024,,Austria Wien,,Sturm Graz
+Grunddurchgang,6,Sat Sep 14 2024,,FC Blau Weiß Linz,,LASK
+Grunddurchgang,6,Sat Sep 14 2024,,Grazer AK,,SCR Altach
+Grunddurchgang,6,Sat Sep 14 2024,,TSV Hartberg,,WSG Tirol
+Grunddurchgang,7,Sat Sep 21 2024,,Sturm Graz,,Wolfsberger AC
+Grunddurchgang,7,Sat Sep 21 2024,,SK Austria Klagenfurt,,TSV Hartberg
+Grunddurchgang,7,Sat Sep 21 2024,,Rapid Wien,,Austria Wien
+Grunddurchgang,7,Sat Sep 21 2024,,SCR Altach,,FC Blau Weiß Linz
+Grunddurchgang,7,Sat Sep 21 2024,,WSG Tirol,,RB Salzburg
+Grunddurchgang,7,Sat Sep 21 2024,,LASK,,Grazer AK
+Grunddurchgang,8,Sat Sep 28 2024,,RB Salzburg,,Austria Wien
+Grunddurchgang,8,Sat Sep 28 2024,,Wolfsberger AC,,WSG Tirol
+Grunddurchgang,8,Sat Sep 28 2024,,Rapid Wien,,LASK
+Grunddurchgang,8,Sat Sep 28 2024,,FC Blau Weiß Linz,,Sturm Graz
+Grunddurchgang,8,Sat Sep 28 2024,,Grazer AK,,SK Austria Klagenfurt
+Grunddurchgang,8,Sat Sep 28 2024,,TSV Hartberg,,SCR Altach
+Grunddurchgang,9,Sat Oct 5 2024,,LASK,,SK Austria Klagenfurt
+Grunddurchgang,9,Sat Oct 5 2024,,Wolfsberger AC,,TSV Hartberg
+Grunddurchgang,9,Sat Oct 5 2024,,Austria Wien,,Grazer AK
+Grunddurchgang,9,Sat Oct 5 2024,,Sturm Graz,,RB Salzburg
+Grunddurchgang,9,Sat Oct 5 2024,,SCR Altach,,Rapid Wien
+Grunddurchgang,9,Sat Oct 5 2024,,WSG Tirol,,FC Blau Weiß Linz
+Grunddurchgang,10,Sat Oct 19 2024,,Sturm Graz,,Grazer AK
+Grunddurchgang,10,Sat Oct 19 2024,,SK Austria Klagenfurt,,Austria Wien
+Grunddurchgang,10,Sat Oct 19 2024,,Rapid Wien,,TSV Hartberg
+Grunddurchgang,10,Sat Oct 19 2024,,FC Blau Weiß Linz,,Wolfsberger AC
+Grunddurchgang,10,Sat Oct 19 2024,,WSG Tirol,,LASK
+Grunddurchgang,10,Sat Oct 19 2024,,RB Salzburg,,SCR Altach
+Grunddurchgang,11,Sat Oct 26 2024,,LASK,,Sturm Graz
+Grunddurchgang,11,Sat Oct 26 2024,,Wolfsberger AC,,RB Salzburg
+Grunddurchgang,11,Sat Oct 26 2024,,Austria Wien,,WSG Tirol
+Grunddurchgang,11,Sat Oct 26 2024,,SCR Altach,,SK Austria Klagenfurt
+Grunddurchgang,11,Sat Oct 26 2024,,Grazer AK,,Rapid Wien
+Grunddurchgang,11,Sat Oct 26 2024,,TSV Hartberg,,FC Blau Weiß Linz
+Grunddurchgang,12,Sat Nov 2 2024,,RB Salzburg,,Grazer AK
+Grunddurchgang,12,Sat Nov 2 2024,,WSG Tirol,,SCR Altach
+Grunddurchgang,12,Sat Nov 2 2024,,LASK,,TSV Hartberg
+Grunddurchgang,12,Sat Nov 2 2024,,SK Austria Klagenfurt,,Wolfsberger AC
+Grunddurchgang,12,Sat Nov 2 2024,,Sturm Graz,,Rapid Wien
+Grunddurchgang,12,Sat Nov 2 2024,,Austria Wien,,FC Blau Weiß Linz
+Grunddurchgang,13,Sat Nov 9 2024,,Grazer AK,,WSG Tirol
+Grunddurchgang,13,Sat Nov 9 2024,,FC Blau Weiß Linz,,RB Salzburg
+Grunddurchgang,13,Sat Nov 9 2024,,Wolfsberger AC,,Austria Wien
+Grunddurchgang,13,Sat Nov 9 2024,,TSV Hartberg,,Sturm Graz
+Grunddurchgang,13,Sat Nov 9 2024,,Rapid Wien,,SK Austria Klagenfurt
+Grunddurchgang,13,Sat Nov 9 2024,,SCR Altach,,LASK
+Grunddurchgang,14,Sat Nov 23 2024,,FC Blau Weiß Linz,,Grazer AK
+Grunddurchgang,14,Sat Nov 23 2024,,Sturm Graz,,SK Austria Klagenfurt
+Grunddurchgang,14,Sat Nov 23 2024,,RB Salzburg,,LASK
+Grunddurchgang,14,Sat Nov 23 2024,,WSG Tirol,,Rapid Wien
+Grunddurchgang,14,Sat Nov 23 2024,,Wolfsberger AC,,SCR Altach
+Grunddurchgang,14,Sat Nov 23 2024,,Austria Wien,,TSV Hartberg
+Grunddurchgang,15,Sat Nov 30 2024,,TSV Hartberg,,RB Salzburg
+Grunddurchgang,15,Sat Nov 30 2024,,SK Austria Klagenfurt,,WSG Tirol
+Grunddurchgang,15,Sat Nov 30 2024,,SCR Altach,,Sturm Graz
+Grunddurchgang,15,Sat Nov 30 2024,,Grazer AK,,Wolfsberger AC
+Grunddurchgang,15,Sat Nov 30 2024,,LASK,,Austria Wien
+Grunddurchgang,15,Sat Nov 30 2024,,Rapid Wien,,FC Blau Weiß Linz
+Grunddurchgang,16,Sat Dec 7 2024,,Grazer AK,,TSV Hartberg
+Grunddurchgang,16,Sat Dec 7 2024,,WSG Tirol,,Sturm Graz
+Grunddurchgang,16,Sat Dec 7 2024,,Wolfsberger AC,,LASK
+Grunddurchgang,16,Sat Dec 7 2024,,RB Salzburg,,Rapid Wien
+Grunddurchgang,16,Sat Dec 7 2024,,Austria Wien,,SCR Altach
+Grunddurchgang,16,Sat Dec 7 2024,,FC Blau Weiß Linz,,SK Austria Klagenfurt
+Grunddurchgang,17,Fri Feb 7 2025,,SK Austria Klagenfurt,,RB Salzburg
+Grunddurchgang,17,Fri Feb 7 2025,,Rapid Wien,,Wolfsberger AC
+Grunddurchgang,17,Fri Feb 7 2025,,Sturm Graz,,Austria Wien
+Grunddurchgang,17,Fri Feb 7 2025,,LASK,,FC Blau Weiß Linz
+Grunddurchgang,17,Fri Feb 7 2025,,SCR Altach,,Grazer AK
+Grunddurchgang,17,Fri Feb 7 2025,,WSG Tirol,,TSV Hartberg
+Grunddurchgang,18,Sat Feb 15 2025,,Grazer AK,,LASK
+Grunddurchgang,18,Sat Feb 15 2025,,Wolfsberger AC,,Sturm Graz
+Grunddurchgang,18,Sat Feb 15 2025,,TSV Hartberg,,SK Austria Klagenfurt
+Grunddurchgang,18,Sat Feb 15 2025,,Austria Wien,,Rapid Wien
+Grunddurchgang,18,Sat Feb 15 2025,,FC Blau Weiß Linz,,SCR Altach
+Grunddurchgang,18,Sat Feb 15 2025,,RB Salzburg,,WSG Tirol
+Grunddurchgang,19,Sat Feb 22 2025,,WSG Tirol,,Wolfsberger AC
+Grunddurchgang,19,Sat Feb 22 2025,,LASK,,Rapid Wien
+Grunddurchgang,19,Sat Feb 22 2025,,Sturm Graz,,FC Blau Weiß Linz
+Grunddurchgang,19,Sat Feb 22 2025,,SK Austria Klagenfurt,,Grazer AK
+Grunddurchgang,19,Sat Feb 22 2025,,SCR Altach,,TSV Hartberg
+Grunddurchgang,19,Sat Feb 22 2025,,Austria Wien,,RB Salzburg
+Grunddurchgang,20,Sat Mar 1 2025,,SK Austria Klagenfurt,,LASK
+Grunddurchgang,20,Sat Mar 1 2025,,TSV Hartberg,,Wolfsberger AC
+Grunddurchgang,20,Sat Mar 1 2025,,Grazer AK,,Austria Wien
+Grunddurchgang,20,Sat Mar 1 2025,,RB Salzburg,,Sturm Graz
+Grunddurchgang,20,Sat Mar 1 2025,,Rapid Wien,,SCR Altach
+Grunddurchgang,20,Sat Mar 1 2025,,FC Blau Weiß Linz,,WSG Tirol
+Grunddurchgang,21,Sat Mar 8 2025,,SCR Altach,,RB Salzburg
+Grunddurchgang,21,Sat Mar 8 2025,,Grazer AK,,Sturm Graz
+Grunddurchgang,21,Sat Mar 8 2025,,Austria Wien,,SK Austria Klagenfurt
+Grunddurchgang,21,Sat Mar 8 2025,,TSV Hartberg,,Rapid Wien
+Grunddurchgang,21,Sat Mar 8 2025,,Wolfsberger AC,,FC Blau Weiß Linz
+Grunddurchgang,21,Sat Mar 8 2025,,LASK,,WSG Tirol
+Grunddurchgang,22,Sat Mar 15 2025,,Sturm Graz,,LASK
+Grunddurchgang,22,Sat Mar 15 2025,,SK Austria Klagenfurt,,SCR Altach
+Grunddurchgang,22,Sat Mar 15 2025,,Rapid Wien,,Grazer AK
+Grunddurchgang,22,Sat Mar 15 2025,,FC Blau Weiß Linz,,TSV Hartberg
+Grunddurchgang,22,Sat Mar 15 2025,,WSG Tirol,,Austria Wien
+Grunddurchgang,22,Sat Mar 15 2025,,RB Salzburg,,Wolfsberger AC

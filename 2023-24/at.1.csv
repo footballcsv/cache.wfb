@@ -1,0 +1,196 @@
+Stage,Round,Date,Time,Team 1,FT,HT,Team 2
+Grunddurchgang,1,Fri Jul 28 2023,20:30,LASK,1-1,0-1,Rapid Wien
+Grunddurchgang,1,Sat Jul 29 2023,17:00,TSV Hartberg,2-2,1-0,Austria Lustenau
+Grunddurchgang,1,Sat Jul 29 2023,17:00,WSG Tirol,1-3,0-1,SK Austria Klagenfurt
+Grunddurchgang,1,Sat Jul 29 2023,19:30,SCR Altach,0-2,0-1,RB Salzburg
+Grunddurchgang,1,Sat Jul 29 2023,17:00,Wolfsberger AC,2-1,1-0,FC Blau Weiß Linz
+Grunddurchgang,1,Sun Jul 30 2023,17:00,Austria Wien,0-3,0-2,Sturm Graz
+Grunddurchgang,2,Sat Aug 5 2023,17:00,Rapid Wien,4-0,2-0,SCR Altach
+Grunddurchgang,2,Sat Aug 5 2023,19:30,Sturm Graz,2-0,1-0,LASK
+Grunddurchgang,2,Sun Aug 6 2023,17:00,RB Salzburg,3-0,0-0,WSG Tirol
+Grunddurchgang,2,Sun Aug 6 2023,17:00,FC Blau Weiß Linz,3-3,1-2,TSV Hartberg
+Grunddurchgang,2,Sun Aug 6 2023,17:00,Austria Lustenau,0-2,0-1,Austria Wien
+Grunddurchgang,2,Wed Aug 9 2023,20:30,SK Austria Klagenfurt,2-2,1-0,Wolfsberger AC
+Grunddurchgang,3,Sat Aug 12 2023,17:00,Sturm Graz,0-0,0-0,SK Austria Klagenfurt
+Grunddurchgang,3,Sat Aug 12 2023,17:00,Wolfsberger AC,1-1,0-0,Austria Lustenau
+Grunddurchgang,3,Sat Aug 12 2023,19:30,LASK,2-0,1-0,FC Blau Weiß Linz
+Grunddurchgang,3,Sun Aug 13 2023,17:00,Rapid Wien,0-1,0-0,TSV Hartberg
+Grunddurchgang,3,Sun Aug 13 2023,17:00,SCR Altach,1-0,0-0,WSG Tirol
+Grunddurchgang,3,Sun Aug 13 2023,17:00,RB Salzburg,2-0,0-0,Austria Wien
+Grunddurchgang,4,Sat Aug 19 2023,17:00,WSG Tirol,1-1,1-0,LASK
+Grunddurchgang,4,Sat Aug 19 2023,17:00,Austria Lustenau,0-1,0-1,Sturm Graz
+Grunddurchgang,4,Sat Aug 19 2023,19:30,SK Austria Klagenfurt,1-1,0-0,SCR Altach
+Grunddurchgang,4,Sun Aug 20 2023,17:00,FC Blau Weiß Linz,0-5,0-2,Rapid Wien
+Grunddurchgang,4,Sun Aug 20 2023,17:00,TSV Hartberg,1-5,1-1,RB Salzburg
+Grunddurchgang,4,Sun Aug 20 2023,17:00,Austria Wien,0-0,0-0,Wolfsberger AC
+Grunddurchgang,5,Sat Aug 26 2023,17:00,Sturm Graz,4-1,2-0,FC Blau Weiß Linz
+Grunddurchgang,5,Sat Aug 26 2023,17:00,Wolfsberger AC,1-2,1-0,RB Salzburg
+Grunddurchgang,5,Sat Aug 26 2023,19:30,Austria Lustenau,0-3,0-2,SCR Altach
+Grunddurchgang,5,Sun Aug 27 2023,17:00,Rapid Wien,1-1,0-1,WSG Tirol
+Grunddurchgang,5,Sun Aug 27 2023,17:00,TSV Hartberg,0-3,0-1,SK Austria Klagenfurt
+Grunddurchgang,5,Sun Aug 27 2023,17:00,LASK,2-0,1-0,Austria Wien
+Grunddurchgang,6,Sat Sep 2 2023,17:00,Wolfsberger AC,0-3,0-1,TSV Hartberg
+Grunddurchgang,6,Sat Sep 2 2023,17:00,WSG Tirol,2-4,1-2,FC Blau Weiß Linz
+Grunddurchgang,6,Sat Sep 2 2023,19:30,SCR Altach,1-2,0-0,Sturm Graz
+Grunddurchgang,6,Sun Sep 3 2023,17:00,LASK,2-0,0-0,Austria Lustenau
+Grunddurchgang,6,Sun Sep 3 2023,17:00,Austria Wien,2-2,1-1,SK Austria Klagenfurt
+Grunddurchgang,6,Sun Sep 3 2023,17:00,RB Salzburg,2-0,2-0,Rapid Wien
+Grunddurchgang,7,Sat Sep 16 2023,17:00,SK Austria Klagenfurt,1-3,0-3,LASK
+Grunddurchgang,7,Sat Sep 16 2023,17:00,FC Blau Weiß Linz,1-1,1-1,SCR Altach
+Grunddurchgang,7,Sat Sep 16 2023,19:30,Sturm Graz,2-2,0-1,RB Salzburg
+Grunddurchgang,7,Sun Sep 17 2023,14:30,TSV Hartberg,2-1,1-1,Austria Wien
+Grunddurchgang,7,Sun Sep 17 2023,17:00,Rapid Wien,3-3,2-0,Wolfsberger AC
+Grunddurchgang,7,Sun Sep 17 2023,14:30,Austria Lustenau,2-3,0-2,WSG Tirol
+Grunddurchgang,8,Sat Sep 23 2023,17:00,RB Salzburg,0-1,0-0,FC Blau Weiß Linz
+Grunddurchgang,8,Sat Sep 23 2023,17:00,SK Austria Klagenfurt,1-0,1-0,Austria Lustenau
+Grunddurchgang,8,Sat Sep 23 2023,17:00,WSG Tirol,2-3,0-1,Wolfsberger AC
+Grunddurchgang,8,Sun Sep 24 2023,14:30,SCR Altach,2-1,2-1,Austria Wien
+Grunddurchgang,8,Sun Sep 24 2023,17:00,Rapid Wien,1-1,1-1,Sturm Graz
+Grunddurchgang,8,Sun Sep 24 2023,14:30,LASK,0-0,0-0,TSV Hartberg
+Grunddurchgang,9,Sat Sep 30 2023,17:00,Wolfsberger AC,2-1,2-0,LASK
+Grunddurchgang,9,Sat Sep 30 2023,17:00,FC Blau Weiß Linz,0-0,0-0,SK Austria Klagenfurt
+Grunddurchgang,9,Sat Sep 30 2023,17:00,Austria Lustenau,0-4,0-3,RB Salzburg
+Grunddurchgang,9,Sun Oct 1 2023,14:30,TSV Hartberg,0-0,0-0,SCR Altach
+Grunddurchgang,9,Sun Oct 1 2023,17:00,Austria Wien,0-0,0-0,Rapid Wien
+Grunddurchgang,9,Sun Oct 1 2023,14:30,Sturm Graz,1-0,1-0,WSG Tirol
+Grunddurchgang,10,Sat Oct 7 2023,17:00,Austria Wien,4-0,2-0,FC Blau Weiß Linz
+Grunddurchgang,10,Sat Oct 7 2023,17:00,Austria Lustenau,0-5,0-3,Rapid Wien
+Grunddurchgang,10,Sat Oct 7 2023,17:00,TSV Hartberg,3-0,0-0,WSG Tirol
+Grunddurchgang,10,Sun Oct 8 2023,14:30,Wolfsberger AC,1-2,1-0,Sturm Graz
+Grunddurchgang,10,Sun Oct 8 2023,17:00,SK Austria Klagenfurt,2-2,1-2,RB Salzburg
+Grunddurchgang,10,Sun Oct 8 2023,14:30,LASK,1-0,0-0,SCR Altach
+Grunddurchgang,11,Sat Oct 21 2023,17:00,RB Salzburg,0-1,0-1,LASK
+Grunddurchgang,11,Sat Oct 21 2023,17:00,Sturm Graz,2-1,2-1,TSV Hartberg
+Grunddurchgang,11,Sat Oct 21 2023,17:00,FC Blau Weiß Linz,0-0,0-0,Austria Lustenau
+Grunddurchgang,11,Sun Oct 22 2023,14:30,WSG Tirol,0-2,0-1,Austria Wien
+Grunddurchgang,11,Sun Oct 22 2023,17:00,Rapid Wien,2-3,1-0,SK Austria Klagenfurt
+Grunddurchgang,11,Sun Oct 22 2023,14:30,SCR Altach,0-0,0-0,Wolfsberger AC
+Grunddurchgang,12,Sat Oct 28 2023,17:00,FC Blau Weiß Linz,2-0,1-0,Wolfsberger AC
+Grunddurchgang,12,Sat Oct 28 2023,17:00,SK Austria Klagenfurt,1-0,1-0,WSG Tirol
+Grunddurchgang,12,Sat Oct 28 2023,17:00,RB Salzburg,3-0,1-0,SCR Altach
+Grunddurchgang,12,Sun Oct 29 2023,14:30,Sturm Graz,0-1,0-1,Austria Wien
+Grunddurchgang,12,Sun Oct 29 2023,17:00,Rapid Wien,3-3,1-1,LASK
+Grunddurchgang,12,Sun Oct 29 2023,14:30,Austria Lustenau,0-4,0-1,TSV Hartberg
+Grunddurchgang,13,Sat Nov 4 2023,17:00,Wolfsberger AC,4-0,2-0,SK Austria Klagenfurt
+Grunddurchgang,13,Sat Nov 4 2023,17:00,Austria Wien,1-0,0-0,Austria Lustenau
+Grunddurchgang,13,Sat Nov 4 2023,17:00,WSG Tirol,0-2,0-1,RB Salzburg
+Grunddurchgang,13,Sun Nov 5 2023,14:30,TSV Hartberg,3-2,1-2,FC Blau Weiß Linz
+Grunddurchgang,13,Sun Nov 5 2023,17:00,LASK,3-1,2-0,Sturm Graz
+Grunddurchgang,13,Sun Nov 5 2023,14:30,SCR Altach,0-2,0-0,Rapid Wien
+Grunddurchgang,14,Sat Nov 11 2023,17:00,Austria Lustenau,2-3,0-1,Wolfsberger AC
+Grunddurchgang,14,Sat Nov 11 2023,17:00,TSV Hartberg,1-0,1-0,Rapid Wien
+Grunddurchgang,14,Sat Nov 11 2023,17:00,WSG Tirol,5-1,3-0,SCR Altach
+Grunddurchgang,14,Sun Nov 12 2023,14:30,FC Blau Weiß Linz,2-0,1-0,LASK
+Grunddurchgang,14,Sun Nov 12 2023,17:00,Austria Wien,0-0,0-0,RB Salzburg
+Grunddurchgang,14,Sun Nov 12 2023,14:30,SK Austria Klagenfurt,0-3,0-2,Sturm Graz
+Grunddurchgang,15,Sat Nov 25 2023,17:00,LASK,1-0,1-0,WSG Tirol
+Grunddurchgang,15,Sat Nov 25 2023,17:00,Sturm Graz,2-0,0-0,Austria Lustenau
+Grunddurchgang,15,Sat Nov 25 2023,17:00,RB Salzburg,3-2,1-1,TSV Hartberg
+Grunddurchgang,15,Sun Nov 26 2023,14:30,Wolfsberger AC,1-0,1-0,Austria Wien
+Grunddurchgang,15,Sun Nov 26 2023,17:00,Rapid Wien,1-0,0-0,FC Blau Weiß Linz
+Grunddurchgang,15,Sun Nov 26 2023,14:30,SCR Altach,0-1,0-1,SK Austria Klagenfurt
+Grunddurchgang,16,Sun Dec 3 2023,14:30,FC Blau Weiß Linz,1-1,1-0,Sturm Graz
+Grunddurchgang,16,Sun Dec 3 2023,14:30,RB Salzburg,1-0,1-0,Wolfsberger AC
+Grunddurchgang,16,Sun Dec 3 2023,17:00,Austria Wien,0-0,0-0,LASK
+Grunddurchgang,16,Mon Dec 4 2023,19:00,SK Austria Klagenfurt,1-1,0-0,TSV Hartberg
+Grunddurchgang,16,Tue Dec 5 2023,19:00,WSG Tirol,1-2,0-0,Rapid Wien
+Grunddurchgang,16,Tue Dec 5 2023,19:00,SCR Altach,3-0,1-0,Austria Lustenau
+Grunddurchgang,17,Sat Dec 9 2023,14:30,Rapid Wien,0-1,0-1,RB Salzburg
+Grunddurchgang,17,Sat Dec 9 2023,17:00,Austria Lustenau,1-3,1-0,LASK
+Grunddurchgang,17,Sat Dec 9 2023,17:00,SK Austria Klagenfurt,2-2,0-0,Austria Wien
+Grunddurchgang,17,Sun Dec 10 2023,14:30,FC Blau Weiß Linz,1-2,1-1,WSG Tirol
+Grunddurchgang,17,Sun Dec 10 2023,17:00,Sturm Graz,1-0,1-0,SCR Altach
+Grunddurchgang,17,Sun Dec 10 2023,14:30,TSV Hartberg,2-0,1-0,Wolfsberger AC
+Grunddurchgang,18,Fri Feb 9 2024,20:30,RB Salzburg,1-1,1-0,Sturm Graz
+Grunddurchgang,18,Sat Feb 10 2024,17:00,SCR Altach,1-1,0-1,FC Blau Weiß Linz
+Grunddurchgang,18,Sat Feb 10 2024,17:00,Austria Wien,3-1,1-1,TSV Hartberg
+Grunddurchgang,18,Sun Feb 11 2024,14:30,WSG Tirol,0-2,0-0,Austria Lustenau
+Grunddurchgang,18,Sun Feb 11 2024,17:00,LASK,2-2,1-1,SK Austria Klagenfurt
+Grunddurchgang,18,Sun Feb 11 2024,14:30,Wolfsberger AC,0-2,0-1,Rapid Wien
+Grunddurchgang,19,Sat Feb 17 2024,17:00,FC Blau Weiß Linz,1-1,1-1,RB Salzburg
+Grunddurchgang,19,Sat Feb 17 2024,17:00,Austria Wien,2-1,2-0,SCR Altach
+Grunddurchgang,19,Sat Feb 17 2024,17:00,Wolfsberger AC,4-1,2-0,WSG Tirol
+Grunddurchgang,19,Sun Feb 18 2024,14:30,Austria Lustenau,0-1,0-1,SK Austria Klagenfurt
+Grunddurchgang,19,Sun Feb 18 2024,17:00,Sturm Graz,1-1,1-1,Rapid Wien
+Grunddurchgang,19,Sun Feb 18 2024,14:30,TSV Hartberg,0-0,0-0,LASK
+Grunddurchgang,20,Sat Feb 24 2024,17:00,RB Salzburg,7-0,4-0,Austria Lustenau
+Grunddurchgang,20,Sat Feb 24 2024,17:00,SCR Altach,1-2,1-0,TSV Hartberg
+Grunddurchgang,20,Sat Feb 24 2024,17:00,LASK,0-1,0-1,Wolfsberger AC
+Grunddurchgang,20,Sun Feb 25 2024,14:30,WSG Tirol,0-2,0-2,Sturm Graz
+Grunddurchgang,20,Sun Feb 25 2024,14:30,SK Austria Klagenfurt,2-0,1-0,FC Blau Weiß Linz
+Grunddurchgang,20,Sun Feb 25 2024,17:00,Rapid Wien,3-0,3-0,Austria Wien
+Grunddurchgang,21,Sun Mar 3 2024,17:00,Sturm Graz,4-0,0-0,Wolfsberger AC
+Grunddurchgang,21,Sun Mar 3 2024,17:00,FC Blau Weiß Linz,1-2,1-2,Austria Wien
+Grunddurchgang,21,Sun Mar 3 2024,17:00,RB Salzburg,1-0,0-0,SK Austria Klagenfurt
+Grunddurchgang,21,Sun Mar 3 2024,17:00,Rapid Wien,1-1,0-0,Austria Lustenau
+Grunddurchgang,21,Sun Mar 3 2024,17:00,WSG Tirol,1-0,1-0,TSV Hartberg
+Grunddurchgang,21,Sun Mar 3 2024,17:00,SCR Altach,0-0,0-0,LASK
+Grunddurchgang,22,Sat Mar 9 2024,17:00,LASK,0-1,0-1,RB Salzburg
+Grunddurchgang,22,Sun Mar 10 2024,17:00,TSV Hartberg,1-1,0-1,Sturm Graz
+Grunddurchgang,22,Sun Mar 10 2024,17:00,SK Austria Klagenfurt,1-1,0-1,Rapid Wien
+Grunddurchgang,22,Sun Mar 10 2024,17:00,Austria Lustenau,2-0,0-0,FC Blau Weiß Linz
+Grunddurchgang,22,Sun Mar 10 2024,17:00,Wolfsberger AC,1-1,1-1,SCR Altach
+Grunddurchgang,22,Sun Mar 10 2024,17:00,Austria Wien,2-0,1-0,WSG Tirol
+Finaldurchgang - Meister,23,Fri Mar 15 2024,19:30,Rapid Wien,0-0,0-0,LASK
+Finaldurchgang - Qualifikation,23,Sat Mar 16 2024,17:00,SCR Altach,1-1,0-1,Austria Wien
+Finaldurchgang - Qualifikation,23,Sat Mar 16 2024,17:00,WSG Tirol,1-1,0-0,Wolfsberger AC
+Finaldurchgang - Qualifikation,23,Sat Mar 16 2024,17:00,FC Blau Weiß Linz,0-0,0-0,Austria Lustenau
+Finaldurchgang - Meister,23,Sun Mar 17 2024,17:00,RB Salzburg,5-1,2-0,TSV Hartberg
+Finaldurchgang - Meister,23,Sun Mar 17 2024,14:30,SK Austria Klagenfurt,0-4,0-4,Sturm Graz
+Finaldurchgang - Qualifikation,24,Fri Mar 29 2024,19:30,Austria Wien,0-0,0-0,FC Blau Weiß Linz
+Finaldurchgang - Qualifikation,24,Sat Mar 30 2024,17:00,Wolfsberger AC,0-0,0-0,SCR Altach
+Finaldurchgang - Qualifikation,24,Sat Mar 30 2024,17:00,Austria Lustenau,1-2,0-1,WSG Tirol
+Finaldurchgang - Meister,24,Sun Mar 31 2024,14:30,TSV Hartberg,0-3,0-2,Rapid Wien
+Finaldurchgang - Meister,24,Sun Mar 31 2024,17:00,Sturm Graz,0-1,0-0,RB Salzburg
+Finaldurchgang - Meister,24,Sun Mar 31 2024,14:30,LASK,1-0,0-0,SK Austria Klagenfurt
+Finaldurchgang - Qualifikation,25,Fri Apr 5 2024,19:30,SCR Altach,0-0,0-0,WSG Tirol
+Finaldurchgang - Qualifikation,25,Sat Apr 6 2024,17:00,Austria Wien,1-1,0-0,Austria Lustenau
+Finaldurchgang - Qualifikation,25,Sat Apr 6 2024,19:30,FC Blau Weiß Linz,0-0,0-0,Wolfsberger AC
+Finaldurchgang - Meister,25,Sun Apr 7 2024,14:30,SK Austria Klagenfurt,2-2,1-2,TSV Hartberg
+Finaldurchgang - Meister,25,Sun Apr 7 2024,17:00,RB Salzburg,1-1,0-0,Rapid Wien
+Finaldurchgang - Meister,25,Sun Apr 7 2024,14:30,Sturm Graz,1-0,1-0,LASK
+Finaldurchgang - Meister,26,Fri Apr 12 2024,19:30,LASK,3-1,2-0,RB Salzburg
+Finaldurchgang - Qualifikation,26,Sat Apr 13 2024,17:00,Austria Lustenau,0-1,0-0,SCR Altach
+Finaldurchgang - Qualifikation,26,Sat Apr 13 2024,17:00,WSG Tirol,2-1,1-0,FC Blau Weiß Linz
+Finaldurchgang - Qualifikation,26,Sat Apr 13 2024,17:00,Wolfsberger AC,0-1,0-1,Austria Wien
+Finaldurchgang - Meister,26,Sun Apr 14 2024,17:00,Rapid Wien,1-1,1-0,SK Austria Klagenfurt
+Finaldurchgang - Meister,26,Sun Apr 14 2024,14:30,TSV Hartberg,1-3,0-1,Sturm Graz
+Finaldurchgang - Meister,27,Fri Apr 19 2024,19:30,Sturm Graz,1-0,0-0,Rapid Wien
+Finaldurchgang - Qualifikation,27,Sat Apr 20 2024,17:00,Austria Wien,3-0,2-0,WSG Tirol
+Finaldurchgang - Qualifikation,27,Sat Apr 20 2024,17:00,Wolfsberger AC,1-1,1-1,Austria Lustenau
+Finaldurchgang - Qualifikation,27,Sat Apr 20 2024,17:00,SCR Altach,2-2,1-1,FC Blau Weiß Linz
+Finaldurchgang - Meister,27,Sun Apr 21 2024,17:00,RB Salzburg,4-2,4-1,SK Austria Klagenfurt
+Finaldurchgang - Meister,27,Sun Apr 21 2024,14:30,LASK,1-3,0-2,TSV Hartberg
+Finaldurchgang - Qualifikation,28,Tue Apr 23 2024,18:30,Austria Lustenau,1-2,0-0,Wolfsberger AC
+Finaldurchgang - Qualifikation,28,Tue Apr 23 2024,18:30,WSG Tirol,1-0,0-0,Austria Wien
+Finaldurchgang - Qualifikation,28,Tue Apr 23 2024,20:30,FC Blau Weiß Linz,2-1,0-1,SCR Altach
+Finaldurchgang - Meister,28,Wed Apr 24 2024,20:30,Rapid Wien,1-3,1-3,Sturm Graz
+Finaldurchgang - Meister,28,Wed Apr 24 2024,18:30,SK Austria Klagenfurt,4-3,0-2,RB Salzburg
+Finaldurchgang - Meister,28,Wed Apr 24 2024,18:30,TSV Hartberg,1-2,1-1,LASK
+Finaldurchgang - Qualifikation,29,Fri Apr 26 2024,19:30,Austria Wien,2-2,1-1,SCR Altach
+Finaldurchgang - Qualifikation,29,Sat Apr 27 2024,17:00,Wolfsberger AC,0-2,0-1,FC Blau Weiß Linz
+Finaldurchgang - Qualifikation,29,Sat Apr 27 2024,17:00,WSG Tirol,0-0,0-0,Austria Lustenau
+Finaldurchgang - Meister,29,Sun Apr 28 2024,17:00,RB Salzburg,2-2,0-2,Sturm Graz
+Finaldurchgang - Meister,29,Sun Apr 28 2024,14:30,LASK,5-0,3-0,Rapid Wien
+Finaldurchgang - Meister,29,Sun Apr 28 2024,14:30,TSV Hartberg,3-2,3-0,SK Austria Klagenfurt
+Finaldurchgang - Qualifikation,30,Fri May 3 2024,19:30,Austria Lustenau,2-0,2-0,Austria Wien
+Finaldurchgang - Qualifikation,30,Sat May 4 2024,17:00,FC Blau Weiß Linz,3-2,2-1,WSG Tirol
+Finaldurchgang - Qualifikation,30,Sat May 4 2024,17:00,SCR Altach,0-1,0-1,Wolfsberger AC
+Finaldurchgang - Meister,30,Sun May 5 2024,14:30,Sturm Graz,1-1,0-1,TSV Hartberg
+Finaldurchgang - Meister,30,Sun May 5 2024,17:00,Rapid Wien,2-0,0-0,RB Salzburg
+Finaldurchgang - Meister,30,Sun May 5 2024,14:30,SK Austria Klagenfurt,0-2,0-1,LASK
+Finaldurchgang - Qualifikation,31,Sat May 11 2024,17:00,Austria Lustenau,1-0,1-0,FC Blau Weiß Linz
+Finaldurchgang - Qualifikation,31,Sat May 11 2024,17:00,WSG Tirol,0-1,0-1,SCR Altach
+Finaldurchgang - Qualifikation,31,Sat May 11 2024,17:00,Austria Wien,0-4,0-1,Wolfsberger AC
+Finaldurchgang - Meister,31,Sun May 12 2024,17:00,LASK,2-2,1-1,Sturm Graz
+Finaldurchgang - Meister,31,Sun May 12 2024,17:00,TSV Hartberg,1-5,1-3,RB Salzburg
+Finaldurchgang - Meister,31,Sun May 12 2024,17:00,SK Austria Klagenfurt,0-1,0-0,Rapid Wien
+Finaldurchgang - Qualifikation,32,Sat May 18 2024,17:00,SCR Altach,2-2,1-1,Austria Lustenau
+Finaldurchgang - Qualifikation,32,Sat May 18 2024,17:00,FC Blau Weiß Linz,1-2,0-1,Austria Wien
+Finaldurchgang - Qualifikation,32,Sat May 18 2024,17:00,Wolfsberger AC,3-1,0-1,WSG Tirol
+Finaldurchgang - Meister,32,Sun May 19 2024,17:00,Sturm Graz,2-0,0-0,SK Austria Klagenfurt
+Finaldurchgang - Meister,32,Sun May 19 2024,17:00,RB Salzburg,7-1,3-1,LASK
+Finaldurchgang - Meister,32,Sun May 19 2024,17:00,Rapid Wien,0-3,0-1,TSV Hartberg
+Europa League Play-off,Halbfinale,Tue May 21 2024,19:00,Wolfsberger AC,1-2,0-1,Austria Wien
+Europa League Play-off,Finale,Fri May 24 2024,19:30,Austria Wien,2-1,0-0,TSV Hartberg
+Europa League Play-off,Finale,Tue May 28 2024,19:00,TSV Hartberg,0-1,0-1,Austria Wien

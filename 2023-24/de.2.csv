@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 28 2023,20:30,Hamburger SV,5-3,1-2,FC Schalke 04
+1,Sat Jul 29 2023,13:00,1. FC Kaiserslautern,1-2,0-0,FC St. Pauli
+1,Sat Jul 29 2023,13:00,Hannover 96,2-2,1-2,SV 07 Elversberg
+1,Sat Jul 29 2023,13:00,VfL Osnabrück,2-3,1-2,Karlsruher SC
+1,Sat Jul 29 2023,13:00,SV Wehen Wiesbaden,1-1,0-1,1. FC Magdeburg
+1,Sat Jul 29 2023,20:30,Fortuna Düsseldorf,1-0,0-0,Hertha BSC
+1,Sun Jul 30 2023,13:30,Hansa Rostock,2-0,1-0,1. FC Nürnberg
+1,Sun Jul 30 2023,13:30,Eintracht Braunschweig,0-1,0-0,Holstein Kiel
+1,Sun Jul 30 2023,13:30,SpVgg Greuther Fürth,5-0,3-0,SC Paderborn 07
+2,Fri Aug 4 2023,18:30,Hertha BSC,0-1,0-0,SV Wehen Wiesbaden
+2,Fri Aug 4 2023,18:30,SC Paderborn 07,1-1,0-0,VfL Osnabrück
+2,Sat Aug 5 2023,13:00,Holstein Kiel,2-1,0-0,SpVgg Greuther Fürth
+2,Sat Aug 5 2023,13:00,SV 07 Elversberg,1-2,0-0,Hansa Rostock
+2,Sat Aug 5 2023,20:30,FC Schalke 04,3-0,1-0,1. FC Kaiserslautern
+2,Sat Aug 5 2023,13:00,FC St. Pauli,0-0,0-0,Fortuna Düsseldorf
+2,Sun Aug 6 2023,13:30,1. FC Magdeburg,2-1,2-0,Eintracht Braunschweig
+2,Sun Aug 6 2023,13:30,1. FC Nürnberg,2-2,0-2,Hannover 96
+2,Sun Aug 6 2023,13:30,Karlsruher SC,2-2,1-0,Hamburger SV
+3,Fri Aug 18 2023,18:30,1. FC Kaiserslautern,3-2,1-0,SV 07 Elversberg
+3,Fri Aug 18 2023,18:30,SV Wehen Wiesbaden,1-0,1-0,Karlsruher SC
+3,Sat Aug 19 2023,13:00,SpVgg Greuther Fürth,0-0,0-0,FC St. Pauli
+3,Sat Aug 19 2023,13:00,Hansa Rostock,1-2,0-1,Hannover 96
+3,Sat Aug 19 2023,20:30,Hamburger SV,3-0,2-0,Hertha BSC
+3,Sat Aug 19 2023,13:00,Fortuna Düsseldorf,1-2,0-1,SC Paderborn 07
+3,Sun Aug 20 2023,13:30,Eintracht Braunschweig,1-0,1-0,FC Schalke 04
+3,Sun Aug 20 2023,13:30,VfL Osnabrück,2-3,0-1,1. FC Nürnberg
+3,Sun Aug 20 2023,13:30,Holstein Kiel,2-4,1-2,1. FC Magdeburg
+4,Fri Aug 25 2023,18:30,FC Schalke 04,0-2,0-1,Holstein Kiel
+4,Fri Aug 25 2023,18:30,SC Paderborn 07,1-2,0-0,1. FC Kaiserslautern
+4,Sat Aug 26 2023,13:00,Hansa Rostock,2-1,1-1,VfL Osnabrück
+4,Sat Aug 26 2023,13:00,SV 07 Elversberg,0-5,0-3,Fortuna Düsseldorf
+4,Sat Aug 26 2023,20:30,Hannover 96,0-1,0-0,Hamburger SV
+4,Sat Aug 26 2023,13:00,Hertha BSC,5-0,2-0,SpVgg Greuther Fürth
+4,Sun Aug 27 2023,13:30,Karlsruher SC,2-0,1-0,Eintracht Braunschweig
+4,Sun Aug 27 2023,13:30,1. FC Nürnberg,2-1,0-0,SV Wehen Wiesbaden
+4,Sun Aug 27 2023,13:30,FC St. Pauli,0-0,0-0,1. FC Magdeburg
+5,Fri Sep 1 2023,18:30,Fortuna Düsseldorf,3-1,1-1,Karlsruher SC
+5,Fri Sep 1 2023,18:30,Eintracht Braunschweig,1-1,0-0,FC St. Pauli
+5,Sat Sep 2 2023,13:00,1. FC Magdeburg,6-4,2-3,Hertha BSC
+5,Sat Sep 2 2023,13:00,SV Wehen Wiesbaden,1-1,0-0,FC Schalke 04
+5,Sat Sep 2 2023,20:30,1. FC Kaiserslautern,3-1,3-1,1. FC Nürnberg
+5,Sat Sep 2 2023,13:00,Holstein Kiel,2-1,1-1,SC Paderborn 07
+5,Sun Sep 3 2023,13:30,Hamburger SV,2-0,1-0,Hansa Rostock
+5,Sun Sep 3 2023,13:30,SpVgg Greuther Fürth,1-3,0-2,Hannover 96
+5,Sun Sep 3 2023,13:30,VfL Osnabrück,0-1,0-0,SV 07 Elversberg
+6,Fri Sep 15 2023,18:30,1. FC Nürnberg,1-1,1-1,SpVgg Greuther Fürth
+6,Fri Sep 15 2023,18:30,SC Paderborn 07,2-1,0-1,SV Wehen Wiesbaden
+6,Sat Sep 16 2023,13:00,Karlsruher SC,1-1,1-1,1. FC Kaiserslautern
+6,Sat Sep 16 2023,13:00,Hansa Rostock,1-3,1-2,Fortuna Düsseldorf
+6,Sat Sep 16 2023,13:00,SV 07 Elversberg,2-1,1-0,Hamburger SV
+6,Sat Sep 16 2023,20:30,FC Schalke 04,4-3,1-2,1. FC Magdeburg
+6,Sun Sep 17 2023,13:30,FC St. Pauli,5-1,3-0,Holstein Kiel
+6,Sun Sep 17 2023,13:30,Hannover 96,7-0,2-0,VfL Osnabrück
+6,Sun Sep 17 2023,13:30,Hertha BSC,3-0,2-0,Eintracht Braunschweig
+7,Fri Sep 22 2023,18:30,VfL Osnabrück,2-1,2-1,Hamburger SV
+7,Fri Sep 22 2023,18:30,1. FC Magdeburg,1-1,0-1,SC Paderborn 07
+7,Sat Sep 23 2023,13:00,SpVgg Greuther Fürth,4-3,3-3,Karlsruher SC
+7,Sat Sep 23 2023,13:00,Eintracht Braunschweig,2-2,1-2,1. FC Nürnberg
+7,Sat Sep 23 2023,13:00,SV Wehen Wiesbaden,0-2,0-1,SV 07 Elversberg
+7,Sat Sep 23 2023,20:30,FC St. Pauli,3-1,1-1,FC Schalke 04
+7,Sun Sep 24 2023,13:30,Holstein Kiel,2-3,0-2,Hertha BSC
+7,Sun Sep 24 2023,13:30,1. FC Kaiserslautern,3-1,2-1,Hansa Rostock
+7,Sun Sep 24 2023,13:30,Fortuna Düsseldorf,1-1,0-1,Hannover 96
+8,Fri Sep 29 2023,18:30,SC Paderborn 07,3-1,1-0,FC Schalke 04
+8,Fri Sep 29 2023,18:30,Hamburger SV,1-0,0-0,Fortuna Düsseldorf
+8,Sat Sep 30 2023,13:00,Karlsruher SC,0-2,0-2,Holstein Kiel
+8,Sat Sep 30 2023,13:00,Hannover 96,2-0,1-0,SV Wehen Wiesbaden
+8,Sat Sep 30 2023,13:00,Hansa Rostock,1-0,0-0,Eintracht Braunschweig
+8,Sat Sep 30 2023,20:30,Hertha BSC,1-2,0-1,FC St. Pauli
+8,Sun Oct 1 2023,13:30,SV 07 Elversberg,1-1,1-1,SpVgg Greuther Fürth
+8,Sun Oct 1 2023,13:30,VfL Osnabrück,2-2,2-1,1. FC Kaiserslautern
+8,Sun Oct 1 2023,13:30,1. FC Nürnberg,1-0,0-0,1. FC Magdeburg
+9,Fri Oct 6 2023,18:30,1. FC Kaiserslautern,3-1,1-1,Hannover 96
+9,Fri Oct 6 2023,18:30,Fortuna Düsseldorf,1-1,0-0,VfL Osnabrück
+9,Sat Oct 7 2023,13:00,1. FC Magdeburg,1-1,0-1,Karlsruher SC
+9,Sat Oct 7 2023,13:00,SpVgg Greuther Fürth,1-0,1-0,Hansa Rostock
+9,Sat Oct 7 2023,13:00,SV Wehen Wiesbaden,1-1,0-0,Hamburger SV
+9,Sat Oct 7 2023,20:30,FC St. Pauli,5-1,1-1,1. FC Nürnberg
+9,Sun Oct 8 2023,13:30,Holstein Kiel,1-1,1-0,SV 07 Elversberg
+9,Sun Oct 8 2023,13:30,Eintracht Braunschweig,1-3,1-2,SC Paderborn 07
+9,Sun Oct 8 2023,13:30,FC Schalke 04,1-2,0-1,Hertha BSC
+10,Fri Oct 20 2023,18:30,Hannover 96,2-1,1-0,1. FC Magdeburg
+10,Fri Oct 20 2023,18:30,SV 07 Elversberg,3-0,2-0,Eintracht Braunschweig
+10,Sat Oct 21 2023,13:00,SC Paderborn 07,2-2,1-0,FC St. Pauli
+10,Sat Oct 21 2023,13:00,VfL Osnabrück,0-2,0-1,SV Wehen Wiesbaden
+10,Sat Oct 21 2023,20:30,Fortuna Düsseldorf,4-3,1-3,1. FC Kaiserslautern
+10,Sat Oct 21 2023,13:00,Hamburger SV,2-0,2-0,SpVgg Greuther Fürth
+10,Sun Oct 22 2023,13:30,Karlsruher SC,3-0,2-0,FC Schalke 04
+10,Sun Oct 22 2023,13:30,Hansa Rostock,1-3,1-1,Holstein Kiel
+10,Sun Oct 22 2023,13:30,1. FC Nürnberg,3-1,0-1,Hertha BSC
+11,Fri Oct 27 2023,18:45,Eintracht Braunschweig,1-4,0-2,Fortuna Düsseldorf
+11,Fri Oct 27 2023,18:30,SpVgg Greuther Fürth,4-0,1-0,VfL Osnabrück
+11,Sat Oct 28 2023,13:00,Hertha BSC,3-1,2-0,SC Paderborn 07
+11,Sat Oct 28 2023,13:00,FC St. Pauli,2-1,0-1,Karlsruher SC
+11,Sat Oct 28 2023,20:30,1. FC Kaiserslautern,3-3,2-1,Hamburger SV
+11,Sat Oct 28 2023,13:00,FC Schalke 04,3-2,1-0,Hannover 96
+11,Sun Oct 29 2023,13:30,Holstein Kiel,0-2,0-0,1. FC Nürnberg
+11,Sun Oct 29 2023,13:30,1. FC Magdeburg,1-2,0-2,SV 07 Elversberg
+11,Sun Oct 29 2023,13:30,SV Wehen Wiesbaden,1-0,0-0,Hansa Rostock
+12,Fri Nov 3 2023,18:30,SV 07 Elversberg,0-2,0-2,FC St. Pauli
+12,Fri Nov 3 2023,18:30,Fortuna Düsseldorf,1-3,0-3,SV Wehen Wiesbaden
+12,Sat Nov 4 2023,13:00,1. FC Nürnberg,1-2,0-1,FC Schalke 04
+12,Sat Nov 4 2023,13:00,VfL Osnabrück,1-1,0-0,Holstein Kiel
+12,Sat Nov 4 2023,20:30,Hamburger SV,2-0,1-0,1. FC Magdeburg
+12,Sat Nov 4 2023,13:00,1. FC Kaiserslautern,0-2,0-1,SpVgg Greuther Fürth
+12,Sun Nov 5 2023,13:30,Karlsruher SC,0-3,0-1,SC Paderborn 07
+12,Sun Nov 5 2023,13:30,Hannover 96,2-0,2-0,Eintracht Braunschweig
+12,Sun Nov 5 2023,13:30,Hansa Rostock,0-0,0-0,Hertha BSC
+13,Fri Nov 10 2023,18:30,FC St. Pauli,0-0,0-0,Hannover 96
+13,Fri Nov 10 2023,18:30,FC Schalke 04,1-2,1-2,SV 07 Elversberg
+13,Sat Nov 11 2023,13:00,Holstein Kiel,4-2,1-0,Hamburger SV
+13,Sat Nov 11 2023,13:00,Eintracht Braunschweig,3-2,1-1,VfL Osnabrück
+13,Sat Nov 11 2023,20:30,Hertha BSC,2-2,2-1,Karlsruher SC
+13,Sat Nov 11 2023,13:00,SC Paderborn 07,1-3,0-3,1. FC Nürnberg
+13,Sun Nov 12 2023,13:30,1. FC Magdeburg,1-2,1-0,Hansa Rostock
+13,Sun Nov 12 2023,13:30,SpVgg Greuther Fürth,1-0,0-0,Fortuna Düsseldorf
+13,Sun Nov 12 2023,13:30,SV Wehen Wiesbaden,2-1,0-1,1. FC Kaiserslautern
+14,Fri Nov 24 2023,18:30,Hannover 96,2-2,0-2,Hertha BSC
+14,Fri Nov 24 2023,18:30,Hamburger SV,2-1,2-0,Eintracht Braunschweig
+14,Sat Nov 25 2023,13:00,Hansa Rostock,2-3,1-3,FC St. Pauli
+14,Sat Nov 25 2023,13:00,SV 07 Elversberg,4-1,1-1,SC Paderborn 07
+14,Sat Nov 25 2023,13:00,VfL Osnabrück,0-2,0-0,1. FC Magdeburg
+14,Sat Nov 25 2023,20:30,Fortuna Düsseldorf,5-3,3-0,FC Schalke 04
+14,Sun Nov 26 2023,13:30,1. FC Kaiserslautern,0-3,0-2,Holstein Kiel
+14,Sun Nov 26 2023,13:30,SpVgg Greuther Fürth,2-0,1-0,SV Wehen Wiesbaden
+14,Sun Nov 26 2023,13:30,Karlsruher SC,4-1,1-0,1. FC Nürnberg
+15,Fri Dec 1 2023,18:30,FC Schalke 04,4-0,1-0,VfL Osnabrück
+15,Fri Dec 1 2023,18:30,FC St. Pauli,2-2,2-0,Hamburger SV
+15,Sat Dec 2 2023,13:00,1. FC Nürnberg,0-5,0-3,Fortuna Düsseldorf
+15,Sat Dec 2 2023,13:00,Eintracht Braunschweig,0-1,0-1,SpVgg Greuther Fürth
+15,Sat Dec 2 2023,20:30,1. FC Magdeburg,4-1,1-1,1. FC Kaiserslautern
+15,Sat Dec 2 2023,13:00,Holstein Kiel,3-2,2-0,SV Wehen Wiesbaden
+15,Sun Dec 3 2023,13:30,SC Paderborn 07,1-0,0-0,Hannover 96
+15,Sun Dec 3 2023,13:30,Karlsruher SC,2-2,1-2,Hansa Rostock
+15,Sun Dec 3 2023,13:30,Hertha BSC,5-1,2-1,SV 07 Elversberg
+16,Fri Dec 8 2023,18:30,Hannover 96,2-2,0-1,Karlsruher SC
+16,Fri Dec 8 2023,18:30,SV Wehen Wiesbaden,1-3,1-0,Eintracht Braunschweig
+16,Sat Dec 9 2023,13:00,1. FC Kaiserslautern,1-2,1-0,Hertha BSC
+16,Sat Dec 9 2023,13:00,SpVgg Greuther Fürth,1-1,0-0,1. FC Magdeburg
+16,Sat Dec 9 2023,20:30,VfL Osnabrück,1-1,0-1,FC St. Pauli
+16,Sat Dec 9 2023,13:00,Hamburger SV,1-2,1-1,SC Paderborn 07
+16,Sun Dec 10 2023,13:30,Hansa Rostock,0-2,0-0,FC Schalke 04
+16,Sun Dec 10 2023,13:30,SV 07 Elversberg,0-1,0-0,1. FC Nürnberg
+16,Sun Dec 10 2023,13:30,Fortuna Düsseldorf,0-1,0-1,Holstein Kiel
+17,Fri Dec 15 2023,18:30,FC Schalke 04,2-2,1-0,SpVgg Greuther Fürth
+17,Fri Dec 15 2023,18:30,SC Paderborn 07,3-0,1-0,Hansa Rostock
+17,Sat Dec 16 2023,13:00,1. FC Magdeburg,2-3,2-0,Fortuna Düsseldorf
+17,Sat Dec 16 2023,13:00,1. FC Nürnberg,0-2,0-0,Hamburger SV
+17,Sat Dec 16 2023,20:30,Holstein Kiel,3-0,3-0,Hannover 96
+17,Sat Dec 16 2023,13:00,Hertha BSC,0-0,0-0,VfL Osnabrück
+17,Sun Dec 17 2023,13:30,Karlsruher SC,3-2,2-1,SV 07 Elversberg
+17,Sun Dec 17 2023,13:30,Eintracht Braunschweig,2-1,1-1,1. FC Kaiserslautern
+17,Sun Dec 17 2023,13:30,FC St. Pauli,1-1,0-0,SV Wehen Wiesbaden
+18,Fri Jan 19 2024,18:30,Holstein Kiel,1-2,1-1,Eintracht Braunschweig
+18,Fri Jan 19 2024,18:30,Karlsruher SC,2-1,1-1,VfL Osnabrück
+18,Sat Jan 20 2024,13:00,SV 07 Elversberg,2-2,0-1,Hannover 96
+18,Sat Jan 20 2024,13:00,1. FC Nürnberg,3-0,2-0,Hansa Rostock
+18,Sat Jan 20 2024,20:30,FC Schalke 04,0-2,0-2,Hamburger SV
+18,Sat Jan 20 2024,13:00,FC St. Pauli,2-0,1-0,1. FC Kaiserslautern
+18,Sun Jan 21 2024,13:30,Hertha BSC,2-2,2-1,Fortuna Düsseldorf
+18,Sun Jan 21 2024,13:30,SC Paderborn 07,0-1,0-1,SpVgg Greuther Fürth
+18,Sun Jan 21 2024,13:30,1. FC Magdeburg,1-0,0-0,SV Wehen Wiesbaden
+19,Fri Jan 26 2024,18:30,Hannover 96,3-0,2-0,1. FC Nürnberg
+19,Fri Jan 26 2024,18:30,1. FC Kaiserslautern,4-1,1-0,FC Schalke 04
+19,Sat Jan 27 2024,13:00,SV Wehen Wiesbaden,3-1,1-0,Hertha BSC
+19,Sat Jan 27 2024,13:00,VfL Osnabrück,0-0,0-0,SC Paderborn 07
+19,Sat Jan 27 2024,13:00,Hansa Rostock,2-1,0-1,SV 07 Elversberg
+19,Sat Jan 27 2024,20:30,Fortuna Düsseldorf,1-2,0-2,FC St. Pauli
+19,Sun Jan 28 2024,13:30,SpVgg Greuther Fürth,2-1,0-0,Holstein Kiel
+19,Sun Jan 28 2024,13:30,Eintracht Braunschweig,1-0,1-0,1. FC Magdeburg
+19,Sun Jan 28 2024,13:30,Hamburger SV,3-4,2-2,Karlsruher SC
+20,Fri Feb 2 2024,18:30,Karlsruher SC,2-2,1-0,SV Wehen Wiesbaden
+20,Fri Feb 2 2024,18:30,1. FC Magdeburg,1-1,0-1,Holstein Kiel
+20,Sat Feb 3 2024,13:00,FC St. Pauli,3-2,2-1,SpVgg Greuther Fürth
+20,Sat Feb 3 2024,13:00,FC Schalke 04,1-0,0-0,Eintracht Braunschweig
+20,Sat Feb 3 2024,13:00,1. FC Nürnberg,2-2,1-1,VfL Osnabrück
+20,Sat Feb 3 2024,20:30,Hertha BSC,1-2,0-0,Hamburger SV
+20,Sun Feb 4 2024,13:30,SV 07 Elversberg,2-1,1-1,1. FC Kaiserslautern
+20,Sun Feb 4 2024,13:30,Hannover 96,2-1,1-1,Hansa Rostock
+20,Sun Feb 4 2024,13:30,SC Paderborn 07,4-3,3-0,Fortuna Düsseldorf
+21,Fri Feb 9 2024,18:30,SV Wehen Wiesbaden,1-1,0-0,1. FC Nürnberg
+21,Fri Feb 9 2024,18:30,Hamburger SV,3-4,1-3,Hannover 96
+21,Sat Feb 10 2024,13:00,1. FC Magdeburg,1-0,0-0,FC St. Pauli
+21,Sat Feb 10 2024,13:00,Eintracht Braunschweig,2-0,1-0,Karlsruher SC
+21,Sat Feb 10 2024,13:00,Fortuna Düsseldorf,1-1,1-0,SV 07 Elversberg
+21,Sat Feb 10 2024,20:30,1. FC Kaiserslautern,1-2,1-0,SC Paderborn 07
+21,Sun Feb 11 2024,13:30,SpVgg Greuther Fürth,1-2,0-1,Hertha BSC
+21,Sun Feb 11 2024,13:30,VfL Osnabrück,0-0,0-0,Hansa Rostock
+21,Sun Feb 11 2024,13:30,Holstein Kiel,1-0,0-0,FC Schalke 04
+22,Fri Feb 16 2024,18:30,Hannover 96,2-1,0-1,SpVgg Greuther Fürth
+22,Fri Feb 16 2024,18:30,Hertha BSC,3-2,2-1,1. FC Magdeburg
+22,Sat Feb 17 2024,13:00,Hansa Rostock,2-2,0-1,Hamburger SV
+22,Sat Feb 17 2024,13:00,SC Paderborn 07,0-4,0-2,Holstein Kiel
+22,Sat Feb 17 2024,13:00,FC Schalke 04,1-0,0-0,SV Wehen Wiesbaden
+22,Sat Feb 17 2024,20:30,Karlsruher SC,2-2,0-1,Fortuna Düsseldorf
+22,Sun Feb 18 2024,13:30,FC St. Pauli,1-0,1-0,Eintracht Braunschweig
+22,Sun Feb 18 2024,13:30,SV 07 Elversberg,3-1,3-0,VfL Osnabrück
+22,Sun Feb 18 2024,13:30,1. FC Nürnberg,1-1,0-1,1. FC Kaiserslautern
+23,Fri Feb 23 2024,18:30,SV Wehen Wiesbaden,1-2,1-1,SC Paderborn 07
+23,Fri Feb 23 2024,18:30,Holstein Kiel,3-4,0-3,FC St. Pauli
+23,Sat Feb 24 2024,13:00,Eintracht Braunschweig,1-1,1-0,Hertha BSC
+23,Sat Feb 24 2024,13:00,1. FC Kaiserslautern,0-4,0-0,Karlsruher SC
+23,Sat Feb 24 2024,13:00,VfL Osnabrück,1-0,0-0,Hannover 96
+23,Sat Feb 24 2024,20:30,1. FC Magdeburg,3-0,3-0,FC Schalke 04
+23,Sun Feb 25 2024,13:30,SpVgg Greuther Fürth,2-1,1-1,1. FC Nürnberg
+23,Sun Feb 25 2024,13:30,Hamburger SV,1-0,0-0,SV 07 Elversberg
+23,Sun Feb 25 2024,13:30,Fortuna Düsseldorf,2-0,2-0,Hansa Rostock
+24,Fri Mar 1 2024,18:30,Hertha BSC,2-2,2-0,Holstein Kiel
+24,Fri Mar 1 2024,18:30,FC Schalke 04,3-1,1-0,FC St. Pauli
+24,Sat Mar 2 2024,13:00,Hannover 96,2-2,0-2,Fortuna Düsseldorf
+24,Sat Mar 2 2024,13:00,Hansa Rostock,0-3,0-1,1. FC Kaiserslautern
+24,Sat Mar 2 2024,13:00,1. FC Nürnberg,2-1,2-0,Eintracht Braunschweig
+24,Sat Mar 2 2024,20:30,Karlsruher SC,4-0,1-0,SpVgg Greuther Fürth
+24,Sun Mar 3 2024,13:30,Hamburger SV,1-2,1-1,VfL Osnabrück
+24,Sun Mar 3 2024,13:30,SV 07 Elversberg,0-3,0-1,SV Wehen Wiesbaden
+24,Sun Mar 3 2024,13:30,SC Paderborn 07,0-0,0-0,1. FC Magdeburg
+25,Fri Mar 8 2024,18:30,Eintracht Braunschweig,0-1,0-0,Hansa Rostock
+25,Fri Mar 8 2024,18:30,Fortuna Düsseldorf,2-0,1-0,Hamburger SV
+25,Sat Mar 9 2024,13:00,FC Schalke 04,3-3,1-0,SC Paderborn 07
+25,Sat Mar 9 2024,13:00,Holstein Kiel,1-0,0-0,Karlsruher SC
+25,Sat Mar 9 2024,13:00,SV Wehen Wiesbaden,1-1,1-0,Hannover 96
+25,Sat Mar 9 2024,20:30,1. FC Magdeburg,0-1,0-0,1. FC Nürnberg
+25,Sun Mar 10 2024,13:30,SpVgg Greuther Fürth,1-4,0-1,SV 07 Elversberg
+25,Sun Mar 10 2024,13:30,1. FC Kaiserslautern,3-2,0-0,VfL Osnabrück
+25,Sun Mar 10 2024,13:30,FC St. Pauli,2-0,2-0,Hertha BSC
+26,Fri Mar 15 2024,18:30,SC Paderborn 07,1-2,0-0,Eintracht Braunschweig
+26,Fri Mar 15 2024,18:30,VfL Osnabrück,0-4,0-1,Fortuna Düsseldorf
+26,Sat Mar 16 2024,13:00,1. FC Nürnberg,0-2,0-1,FC St. Pauli
+26,Sat Mar 16 2024,13:00,SV 07 Elversberg,0-2,0-1,Holstein Kiel
+26,Sat Mar 16 2024,13:00,Hansa Rostock,1-0,1-0,SpVgg Greuther Fürth
+26,Sat Mar 16 2024,20:30,Hannover 96,1-1,0-0,1. FC Kaiserslautern
+26,Sun Mar 17 2024,13:30,Karlsruher SC,7-0,4-0,1. FC Magdeburg
+26,Sun Mar 17 2024,13:30,Hamburger SV,3-0,1-0,SV Wehen Wiesbaden
+26,Sun Mar 17 2024,13:30,Hertha BSC,5-2,3-2,FC Schalke 04
+27,Sat Mar 30 2024,13:00,Holstein Kiel,2-0,1-0,Hansa Rostock
+27,Sat Mar 30 2024,13:00,Eintracht Braunschweig,5-0,2-0,SV 07 Elversberg
+27,Sat Mar 30 2024,20:30,Hertha BSC,3-3,1-2,1. FC Nürnberg
+27,Sat Mar 30 2024,13:00,1. FC Kaiserslautern,1-3,1-0,Fortuna Düsseldorf
+27,Sun Mar 31 2024,13:30,SpVgg Greuther Fürth,1-1,0-0,Hamburger SV
+27,Sun Mar 31 2024,13:30,FC St. Pauli,2-1,1-0,SC Paderborn 07
+27,Sun Mar 31 2024,13:30,FC Schalke 04,0-0,0-0,Karlsruher SC
+27,Sun Mar 31 2024,13:30,1. FC Magdeburg,0-3,0-1,Hannover 96
+27,Sun Mar 31 2024,13:30,SV Wehen Wiesbaden,0-1,0-1,VfL Osnabrück
+28,Fri Apr 5 2024,18:30,Hansa Rostock,3-1,0-0,SV Wehen Wiesbaden
+28,Fri Apr 5 2024,18:30,SC Paderborn 07,2-3,1-1,Hertha BSC
+28,Sat Apr 6 2024,13:00,Hamburger SV,2-1,1-1,1. FC Kaiserslautern
+28,Sat Apr 6 2024,13:00,SV 07 Elversberg,0-0,0-0,1. FC Magdeburg
+28,Sat Apr 6 2024,20:30,Karlsruher SC,2-1,1-1,FC St. Pauli
+28,Sat Apr 6 2024,13:00,1. FC Nürnberg,0-4,0-3,Holstein Kiel
+28,Sun Apr 7 2024,13:30,Hannover 96,1-1,0-1,FC Schalke 04
+28,Sun Apr 7 2024,13:30,VfL Osnabrück,2-0,2-0,SpVgg Greuther Fürth
+28,Sun Apr 7 2024,13:30,Fortuna Düsseldorf,2-0,1-0,Eintracht Braunschweig
+29,Fri Apr 12 2024,18:30,Hertha BSC,4-0,2-0,Hansa Rostock
+29,Fri Apr 12 2024,18:30,SpVgg Greuther Fürth,2-1,0-1,1. FC Kaiserslautern
+29,Sat Apr 13 2024,13:00,SC Paderborn 07,1-1,1-1,Karlsruher SC
+29,Sat Apr 13 2024,13:00,Holstein Kiel,4-0,2-0,VfL Osnabrück
+29,Sat Apr 13 2024,20:30,FC Schalke 04,2-0,1-0,1. FC Nürnberg
+29,Sat Apr 13 2024,13:00,SV Wehen Wiesbaden,0-2,0-1,Fortuna Düsseldorf
+29,Sun Apr 14 2024,13:30,1. FC Magdeburg,2-2,2-0,Hamburger SV
+29,Sun Apr 14 2024,13:30,Eintracht Braunschweig,0-0,0-0,Hannover 96
+29,Sun Apr 14 2024,13:30,FC St. Pauli,3-4,1-0,SV 07 Elversberg
+30,Fri Apr 19 2024,18:30,1. FC Nürnberg,0-2,0-1,SC Paderborn 07
+30,Fri Apr 19 2024,18:30,SV 07 Elversberg,1-1,1-0,FC Schalke 04
+30,Sat Apr 20 2024,13:00,VfL Osnabrück,0-3,0-2,Eintracht Braunschweig
+30,Sat Apr 20 2024,13:00,1. FC Kaiserslautern,1-1,1-0,SV Wehen Wiesbaden
+30,Sat Apr 20 2024,20:30,Hamburger SV,0-1,0-0,Holstein Kiel
+30,Sat Apr 20 2024,13:00,Fortuna Düsseldorf,1-0,0-0,SpVgg Greuther Fürth
+30,Sun Apr 21 2024,13:30,Karlsruher SC,3-2,2-1,Hertha BSC
+30,Sun Apr 21 2024,13:30,Hannover 96,1-2,1-1,FC St. Pauli
+30,Sun Apr 21 2024,13:30,Hansa Rostock,0-2,0-2,1. FC Magdeburg
+31,Fri Apr 26 2024,18:30,FC St. Pauli,1-0,0-0,Hansa Rostock
+31,Fri Apr 26 2024,18:30,Hertha BSC,1-1,1-0,Hannover 96
+31,Sat Apr 27 2024,13:00,Eintracht Braunschweig,0-4,0-2,Hamburger SV
+31,Sat Apr 27 2024,13:00,Holstein Kiel,1-3,1-2,1. FC Kaiserslautern
+31,Sat Apr 27 2024,13:00,SC Paderborn 07,3-1,0-0,SV 07 Elversberg
+31,Sat Apr 27 2024,20:30,FC Schalke 04,1-1,0-0,Fortuna Düsseldorf
+31,Sun Apr 28 2024,13:30,SV Wehen Wiesbaden,3-5,2-3,SpVgg Greuther Fürth
+31,Sun Apr 28 2024,13:30,1. FC Magdeburg,1-1,1-1,VfL Osnabrück
+31,Sun Apr 28 2024,13:30,1. FC Nürnberg,0-1,0-1,Karlsruher SC
+32,Fri May 3 2024,18:30,Hamburger SV,1-0,0-0,FC St. Pauli
+32,Fri May 3 2024,18:30,Fortuna Düsseldorf,3-1,2-0,1. FC Nürnberg
+32,Sat May 4 2024,13:00,SpVgg Greuther Fürth,3-3,1-2,Eintracht Braunschweig
+32,Sat May 4 2024,20:30,1. FC Kaiserslautern,4-1,2-0,1. FC Magdeburg
+32,Sat May 4 2024,13:00,Hansa Rostock,1-2,1-0,Karlsruher SC
+32,Sun May 5 2024,13:30,Hannover 96,3-2,3-2,SC Paderborn 07
+32,Sun May 5 2024,13:30,SV Wehen Wiesbaden,0-1,0-0,Holstein Kiel
+32,Sun May 5 2024,13:30,SV 07 Elversberg,4-2,1-1,Hertha BSC
+32,Tue May 7 2024,18:30,VfL Osnabrück,0-4,0-2,FC Schalke 04
+33,Fri May 10 2024,18:30,SC Paderborn 07,1-0,1-0,Hamburger SV
+33,Fri May 10 2024,18:30,1. FC Magdeburg,0-0,0-0,SpVgg Greuther Fürth
+33,Sat May 11 2024,13:00,FC Schalke 04,2-1,2-1,Hansa Rostock
+33,Sat May 11 2024,13:00,1. FC Nürnberg,3-0,1-0,SV 07 Elversberg
+33,Sat May 11 2024,20:30,Holstein Kiel,1-1,1-0,Fortuna Düsseldorf
+33,Sat May 11 2024,13:00,Hertha BSC,3-1,2-1,1. FC Kaiserslautern
+33,Sun May 12 2024,13:30,FC St. Pauli,3-1,1-0,VfL Osnabrück
+33,Sun May 12 2024,13:30,Eintracht Braunschweig,1-0,1-0,SV Wehen Wiesbaden
+33,Sun May 12 2024,13:30,Karlsruher SC,1-2,1-1,Hannover 96
+34,Sun May 19 2024,15:30,SpVgg Greuther Fürth,2-0,0-0,FC Schalke 04
+34,Sun May 19 2024,15:30,VfL Osnabrück,2-1,1-1,Hertha BSC
+34,Sun May 19 2024,15:30,SV Wehen Wiesbaden,1-2,1-0,FC St. Pauli
+34,Sun May 19 2024,15:30,Hansa Rostock,1-2,0-0,SC Paderborn 07
+34,Sun May 19 2024,15:30,SV 07 Elversberg,0-3,0-0,Karlsruher SC
+34,Sun May 19 2024,15:30,Hannover 96,1-2,0-2,Holstein Kiel
+34,Sun May 19 2024,15:30,Fortuna Düsseldorf,3-2,2-1,1. FC Magdeburg
+34,Sun May 19 2024,15:30,Hamburger SV,4-1,3-1,1. FC Nürnberg
+34,Sun May 19 2024,15:30,1. FC Kaiserslautern,5-0,1-0,Eintracht Braunschweig

@@ -1,0 +1,241 @@
+Round,Date,Team 1,FT,Team 2
+1,Fri Aug 2 2024,ASK Voitsberg,,SKU Amstetten
+1,Fri Aug 2 2024,SV Stripfing/Weiden,,SV Ried
+1,Fri Aug 2 2024,SV Horn,,Rapid Wien II
+1,Fri Aug 2 2024,Floridsdorfer AC,,SKN St. Pölten
+1,Fri Aug 2 2024,Austria Lustenau,,SV Lafnitz
+1,Fri Aug 2 2024,FC Admira Wacker,,Kapfenberger SV
+1,Fri Aug 2 2024,Sturm Graz II,,Schwarz-Weiß Bregenz
+1,Fri Aug 2 2024,FC Liefering,,First Vienna FC
+2,Fri Aug 9 2024,SKU Amstetten,,SV Stripfing/Weiden
+2,Fri Aug 9 2024,SV Lafnitz,,FC Liefering
+2,Fri Aug 9 2024,Schwarz-Weiß Bregenz,,ASK Voitsberg
+2,Fri Aug 9 2024,Rapid Wien II,,Sturm Graz II
+2,Fri Aug 9 2024,Kapfenberger SV,,Floridsdorfer AC
+2,Fri Aug 9 2024,SV Ried,,SV Horn
+2,Fri Aug 9 2024,SKN St. Pölten,,Austria Lustenau
+2,Fri Aug 9 2024,First Vienna FC,,FC Admira Wacker
+3,Fri Aug 16 2024,ASK Voitsberg,,SV Horn
+3,Fri Aug 16 2024,SV Stripfing/Weiden,,First Vienna FC
+3,Fri Aug 16 2024,Floridsdorfer AC,,SV Ried
+3,Fri Aug 16 2024,Austria Lustenau,,Rapid Wien II
+3,Fri Aug 16 2024,SKN St. Pölten,,SKU Amstetten
+3,Fri Aug 16 2024,FC Admira Wacker,,SV Lafnitz
+3,Fri Aug 16 2024,Sturm Graz II,,Kapfenberger SV
+3,Fri Aug 16 2024,FC Liefering,,Schwarz-Weiß Bregenz
+4,Fri Aug 23 2024,SKU Amstetten,,Sturm Graz II
+4,Fri Aug 23 2024,SV Lafnitz,,SV Stripfing/Weiden
+4,Fri Aug 23 2024,Schwarz-Weiß Bregenz,,FC Admira Wacker
+4,Fri Aug 23 2024,Rapid Wien II,,ASK Voitsberg
+4,Fri Aug 23 2024,SV Horn,,Austria Lustenau
+4,Fri Aug 23 2024,Kapfenberger SV,,SKN St. Pölten
+4,Fri Aug 23 2024,SV Ried,,FC Liefering
+4,Fri Aug 23 2024,First Vienna FC,,Floridsdorfer AC
+5,Fri Aug 30 2024,ASK Voitsberg,,Kapfenberger SV
+5,Fri Aug 30 2024,SKU Amstetten,,Schwarz-Weiß Bregenz
+5,Fri Aug 30 2024,SV Stripfing/Weiden,,SV Horn
+5,Fri Aug 30 2024,SV Lafnitz,,SV Ried
+5,Fri Aug 30 2024,Austria Lustenau,,Floridsdorfer AC
+5,Fri Aug 30 2024,FC Admira Wacker,,Rapid Wien II
+5,Fri Aug 30 2024,First Vienna FC,,SKN St. Pölten
+5,Fri Aug 30 2024,FC Liefering,,Sturm Graz II
+6,Fri Sep 13 2024,Schwarz-Weiß Bregenz,,SV Lafnitz
+6,Fri Sep 13 2024,Rapid Wien II,,SKU Amstetten
+6,Fri Sep 13 2024,SV Horn,,First Vienna FC
+6,Fri Sep 13 2024,Floridsdorfer AC,,FC Liefering
+6,Fri Sep 13 2024,Kapfenberger SV,,Austria Lustenau
+6,Fri Sep 13 2024,SV Ried,,ASK Voitsberg
+6,Fri Sep 13 2024,SKN St. Pölten,,FC Admira Wacker
+6,Fri Sep 13 2024,Sturm Graz II,,SV Stripfing/Weiden
+7,Fri Sep 20 2024,ASK Voitsberg,,SKN St. Pölten
+7,Fri Sep 20 2024,SKU Amstetten,,SV Ried
+7,Fri Sep 20 2024,SV Stripfing/Weiden,,Schwarz-Weiß Bregenz
+7,Fri Sep 20 2024,SV Lafnitz,,Kapfenberger SV
+7,Fri Sep 20 2024,Austria Lustenau,,Sturm Graz II
+7,Fri Sep 20 2024,FC Admira Wacker,,Floridsdorfer AC
+7,Fri Sep 20 2024,First Vienna FC,,Rapid Wien II
+7,Fri Sep 20 2024,FC Liefering,,SV Horn
+8,Fri Sep 27 2024,Schwarz-Weiß Bregenz,,First Vienna FC
+8,Fri Sep 27 2024,SV Horn,,SKU Amstetten
+8,Fri Sep 27 2024,Floridsdorfer AC,,SV Lafnitz
+8,Fri Sep 27 2024,Kapfenberger SV,,FC Liefering
+8,Fri Sep 27 2024,SV Ried,,Rapid Wien II
+8,Fri Sep 27 2024,SKN St. Pölten,,SV Stripfing/Weiden
+8,Fri Sep 27 2024,FC Admira Wacker,,Austria Lustenau
+8,Fri Sep 27 2024,Sturm Graz II,,ASK Voitsberg
+9,Fri Oct 4 2024,ASK Voitsberg,,SV Lafnitz
+9,Fri Oct 4 2024,SKU Amstetten,,Kapfenberger SV
+9,Fri Oct 4 2024,SV Stripfing/Weiden,,FC Admira Wacker
+9,Fri Oct 4 2024,Schwarz-Weiß Bregenz,,SV Horn
+9,Fri Oct 4 2024,Rapid Wien II,,Floridsdorfer AC
+9,Fri Oct 4 2024,SV Ried,,SKN St. Pölten
+9,Fri Oct 4 2024,First Vienna FC,,Sturm Graz II
+9,Fri Oct 4 2024,FC Liefering,,Austria Lustenau
+10,Fri Oct 18 2024,SV Stripfing/Weiden,,ASK Voitsberg
+10,Fri Oct 18 2024,SV Lafnitz,,First Vienna FC
+10,Fri Oct 18 2024,SV Horn,,Sturm Graz II
+10,Fri Oct 18 2024,Floridsdorfer AC,,Schwarz-Weiß Bregenz
+10,Fri Oct 18 2024,Austria Lustenau,,SV Ried
+10,Fri Oct 18 2024,Kapfenberger SV,,Rapid Wien II
+10,Fri Oct 18 2024,SKN St. Pölten,,FC Liefering
+10,Fri Oct 18 2024,FC Admira Wacker,,SKU Amstetten
+11,Fri Oct 25 2024,SKU Amstetten,,Floridsdorfer AC
+11,Fri Oct 25 2024,Schwarz-Weiß Bregenz,,Austria Lustenau
+11,Fri Oct 25 2024,Rapid Wien II,,SV Lafnitz
+11,Fri Oct 25 2024,SV Horn,,SKN St. Pölten
+11,Fri Oct 25 2024,First Vienna FC,,ASK Voitsberg
+11,Fri Oct 25 2024,Sturm Graz II,,FC Admira Wacker
+11,Fri Oct 25 2024,SV Ried,,Kapfenberger SV
+11,Fri Oct 25 2024,FC Liefering,,SV Stripfing/Weiden
+12,Fri Nov 1 2024,ASK Voitsberg,,FC Liefering
+12,Fri Nov 1 2024,SV Lafnitz,,SV Horn
+12,Fri Nov 1 2024,Rapid Wien II,,Schwarz-Weiß Bregenz
+12,Fri Nov 1 2024,Floridsdorfer AC,,SV Stripfing/Weiden
+12,Fri Nov 1 2024,Austria Lustenau,,SKU Amstetten
+12,Fri Nov 1 2024,Kapfenberger SV,,First Vienna FC
+12,Fri Nov 1 2024,SKN St. Pölten,,Sturm Graz II
+12,Fri Nov 1 2024,FC Admira Wacker,,SV Ried
+13,Fri Nov 8 2024,ASK Voitsberg,,FC Admira Wacker
+13,Fri Nov 8 2024,SKU Amstetten,,SV Lafnitz
+13,Fri Nov 8 2024,SV Stripfing/Weiden,,Kapfenberger SV
+13,Fri Nov 8 2024,Schwarz-Weiß Bregenz,,SKN St. Pölten
+13,Fri Nov 8 2024,SV Horn,,Floridsdorfer AC
+13,Fri Nov 8 2024,First Vienna FC,,Austria Lustenau
+13,Fri Nov 8 2024,Sturm Graz II,,SV Ried
+13,Fri Nov 8 2024,FC Liefering,,Rapid Wien II
+14,Fri Nov 22 2024,SKU Amstetten,,First Vienna FC
+14,Fri Nov 22 2024,SV Lafnitz,,Sturm Graz II
+14,Fri Nov 22 2024,Rapid Wien II,,SKN St. Pölten
+14,Fri Nov 22 2024,Floridsdorfer AC,,ASK Voitsberg
+14,Fri Nov 22 2024,Austria Lustenau,,SV Stripfing/Weiden
+14,Fri Nov 22 2024,Kapfenberger SV,,SV Horn
+14,Fri Nov 22 2024,SV Ried,,Schwarz-Weiß Bregenz
+14,Fri Nov 22 2024,FC Admira Wacker,,FC Liefering
+15,Fri Nov 29 2024,ASK Voitsberg,,Austria Lustenau
+15,Fri Nov 29 2024,SV Stripfing/Weiden,,Rapid Wien II
+15,Fri Nov 29 2024,Schwarz-Weiß Bregenz,,Kapfenberger SV
+15,Fri Nov 29 2024,SV Horn,,FC Admira Wacker
+15,Fri Nov 29 2024,SKN St. Pölten,,SV Lafnitz
+15,Fri Nov 29 2024,First Vienna FC,,SV Ried
+15,Fri Nov 29 2024,Sturm Graz II,,Floridsdorfer AC
+15,Fri Nov 29 2024,FC Liefering,,SKU Amstetten
+16,Fri Dec 6 2024,First Vienna FC,,FC Liefering
+16,Fri Dec 6 2024,SKU Amstetten,,ASK Voitsberg
+16,Fri Dec 6 2024,SV Ried,,SV Stripfing/Weiden
+16,Fri Dec 6 2024,Rapid Wien II,,SV Horn
+16,Fri Dec 6 2024,SKN St. Pölten,,Floridsdorfer AC
+16,Fri Dec 6 2024,SV Lafnitz,,Austria Lustenau
+16,Fri Dec 6 2024,Kapfenberger SV,,FC Admira Wacker
+16,Fri Dec 6 2024,Schwarz-Weiß Bregenz,,Sturm Graz II
+17,Sun Feb 23 2025,FC Liefering,,SV Lafnitz
+17,Sun Feb 23 2025,ASK Voitsberg,,Schwarz-Weiß Bregenz
+17,Sun Feb 23 2025,Sturm Graz II,,Rapid Wien II
+17,Sun Feb 23 2025,Floridsdorfer AC,,Kapfenberger SV
+17,Sun Feb 23 2025,SV Horn,,SV Ried
+17,Sun Feb 23 2025,Austria Lustenau,,SKN St. Pölten
+17,Sun Feb 23 2025,FC Admira Wacker,,First Vienna FC
+17,Sun Feb 23 2025,SV Stripfing/Weiden,,SKU Amstetten
+18,Fri Feb 28 2025,Schwarz-Weiß Bregenz,,FC Liefering
+18,Fri Feb 28 2025,SV Horn,,ASK Voitsberg
+18,Fri Feb 28 2025,First Vienna FC,,SV Stripfing/Weiden
+18,Fri Feb 28 2025,SV Ried,,Floridsdorfer AC
+18,Fri Feb 28 2025,Rapid Wien II,,Austria Lustenau
+18,Fri Feb 28 2025,SKU Amstetten,,SKN St. Pölten
+18,Fri Feb 28 2025,SV Lafnitz,,FC Admira Wacker
+18,Fri Feb 28 2025,Kapfenberger SV,,Sturm Graz II
+19,Fri Mar 7 2025,SV Stripfing/Weiden,,SV Lafnitz
+19,Fri Mar 7 2025,FC Admira Wacker,,Schwarz-Weiß Bregenz
+19,Fri Mar 7 2025,ASK Voitsberg,,Rapid Wien II
+19,Fri Mar 7 2025,Austria Lustenau,,SV Horn
+19,Fri Mar 7 2025,SKN St. Pölten,,Kapfenberger SV
+19,Fri Mar 7 2025,FC Liefering,,SV Ried
+19,Fri Mar 7 2025,Floridsdorfer AC,,First Vienna FC
+19,Fri Mar 7 2025,Sturm Graz II,,SKU Amstetten
+20,Fri Mar 14 2025,Sturm Graz II,,FC Liefering
+20,Fri Mar 14 2025,Kapfenberger SV,,ASK Voitsberg
+20,Fri Mar 14 2025,Schwarz-Weiß Bregenz,,SKU Amstetten
+20,Fri Mar 14 2025,SV Horn,,SV Stripfing/Weiden
+20,Fri Mar 14 2025,SV Ried,,SV Lafnitz
+20,Fri Mar 14 2025,Floridsdorfer AC,,Austria Lustenau
+20,Fri Mar 14 2025,Rapid Wien II,,FC Admira Wacker
+20,Fri Mar 14 2025,SKN St. Pölten,,First Vienna FC
+21,Fri Mar 28 2025,SKU Amstetten,,Rapid Wien II
+21,Fri Mar 28 2025,First Vienna FC,,SV Horn
+21,Fri Mar 28 2025,FC Liefering,,Floridsdorfer AC
+21,Fri Mar 28 2025,Austria Lustenau,,Kapfenberger SV
+21,Fri Mar 28 2025,ASK Voitsberg,,SV Ried
+21,Fri Mar 28 2025,FC Admira Wacker,,SKN St. Pölten
+21,Fri Mar 28 2025,SV Stripfing/Weiden,,Sturm Graz II
+21,Fri Mar 28 2025,SV Lafnitz,,Schwarz-Weiß Bregenz
+22,Fri Apr 4 2025,SKN St. Pölten,,ASK Voitsberg
+22,Fri Apr 4 2025,SV Ried,,SKU Amstetten
+22,Fri Apr 4 2025,Schwarz-Weiß Bregenz,,SV Stripfing/Weiden
+22,Fri Apr 4 2025,Kapfenberger SV,,SV Lafnitz
+22,Fri Apr 4 2025,Sturm Graz II,,Austria Lustenau
+22,Fri Apr 4 2025,Floridsdorfer AC,,FC Admira Wacker
+22,Fri Apr 4 2025,Rapid Wien II,,First Vienna FC
+22,Fri Apr 4 2025,SV Horn,,FC Liefering
+23,Fri Apr 11 2025,SKU Amstetten,,SV Horn
+23,Fri Apr 11 2025,SV Lafnitz,,Floridsdorfer AC
+23,Fri Apr 11 2025,FC Liefering,,Kapfenberger SV
+23,Fri Apr 11 2025,Rapid Wien II,,SV Ried
+23,Fri Apr 11 2025,SV Stripfing/Weiden,,SKN St. Pölten
+23,Fri Apr 11 2025,Austria Lustenau,,FC Admira Wacker
+23,Fri Apr 11 2025,ASK Voitsberg,,Sturm Graz II
+23,Fri Apr 11 2025,First Vienna FC,,Schwarz-Weiß Bregenz
+24,Fri Apr 18 2025,Austria Lustenau,,FC Liefering
+24,Fri Apr 18 2025,SV Lafnitz,,ASK Voitsberg
+24,Fri Apr 18 2025,Kapfenberger SV,,SKU Amstetten
+24,Fri Apr 18 2025,FC Admira Wacker,,SV Stripfing/Weiden
+24,Fri Apr 18 2025,SV Horn,,Schwarz-Weiß Bregenz
+24,Fri Apr 18 2025,Floridsdorfer AC,,Rapid Wien II
+24,Fri Apr 18 2025,SKN St. Pölten,,SV Ried
+24,Fri Apr 18 2025,Sturm Graz II,,First Vienna FC
+25,Mon Apr 21 2025,First Vienna FC,,SV Lafnitz
+25,Mon Apr 21 2025,Sturm Graz II,,SV Horn
+25,Mon Apr 21 2025,Schwarz-Weiß Bregenz,,Floridsdorfer AC
+25,Mon Apr 21 2025,SV Ried,,Austria Lustenau
+25,Mon Apr 21 2025,Rapid Wien II,,Kapfenberger SV
+25,Mon Apr 21 2025,FC Liefering,,SKN St. Pölten
+25,Mon Apr 21 2025,SKU Amstetten,,FC Admira Wacker
+25,Mon Apr 21 2025,ASK Voitsberg,,SV Stripfing/Weiden
+26,Fri Apr 25 2025,SV Stripfing/Weiden,,FC Liefering
+26,Fri Apr 25 2025,Floridsdorfer AC,,SKU Amstetten
+26,Fri Apr 25 2025,Austria Lustenau,,Schwarz-Weiß Bregenz
+26,Fri Apr 25 2025,SV Lafnitz,,Rapid Wien II
+26,Fri Apr 25 2025,SKN St. Pölten,,SV Horn
+26,Fri Apr 25 2025,ASK Voitsberg,,First Vienna FC
+26,Fri Apr 25 2025,FC Admira Wacker,,Sturm Graz II
+26,Fri Apr 25 2025,Kapfenberger SV,,SV Ried
+27,Fri May 2 2025,SV Horn,,SV Lafnitz
+27,Fri May 2 2025,Schwarz-Weiß Bregenz,,Rapid Wien II
+27,Fri May 2 2025,SV Stripfing/Weiden,,Floridsdorfer AC
+27,Fri May 2 2025,SKU Amstetten,,Austria Lustenau
+27,Fri May 2 2025,First Vienna FC,,Kapfenberger SV
+27,Fri May 2 2025,Sturm Graz II,,SKN St. Pölten
+27,Fri May 2 2025,SV Ried,,FC Admira Wacker
+27,Fri May 2 2025,FC Liefering,,ASK Voitsberg
+28,Fri May 9 2025,Rapid Wien II,,FC Liefering
+28,Fri May 9 2025,FC Admira Wacker,,ASK Voitsberg
+28,Fri May 9 2025,SV Lafnitz,,SKU Amstetten
+28,Fri May 9 2025,Kapfenberger SV,,SV Stripfing/Weiden
+28,Fri May 9 2025,SKN St. Pölten,,Schwarz-Weiß Bregenz
+28,Fri May 9 2025,Floridsdorfer AC,,SV Horn
+28,Fri May 9 2025,Austria Lustenau,,First Vienna FC
+28,Fri May 9 2025,SV Ried,,Sturm Graz II
+29,Fri May 16 2025,Sturm Graz II,,SV Lafnitz
+29,Fri May 16 2025,SKN St. Pölten,,Rapid Wien II
+29,Fri May 16 2025,ASK Voitsberg,,Floridsdorfer AC
+29,Fri May 16 2025,SV Stripfing/Weiden,,Austria Lustenau
+29,Fri May 16 2025,SV Horn,,Kapfenberger SV
+29,Fri May 16 2025,Schwarz-Weiß Bregenz,,SV Ried
+29,Fri May 16 2025,FC Liefering,,FC Admira Wacker
+29,Fri May 16 2025,First Vienna FC,,SKU Amstetten
+30,Sun May 25 2025,SKU Amstetten,,FC Liefering
+30,Sun May 25 2025,Austria Lustenau,,ASK Voitsberg
+30,Sun May 25 2025,Rapid Wien II,,SV Stripfing/Weiden
+30,Sun May 25 2025,Kapfenberger SV,,Schwarz-Weiß Bregenz
+30,Sun May 25 2025,FC Admira Wacker,,SV Horn
+30,Sun May 25 2025,SV Lafnitz,,SKN St. Pölten
+30,Sun May 25 2025,SV Ried,,First Vienna FC
+30,Sun May 25 2025,Floridsdorfer AC,,Sturm Graz II
