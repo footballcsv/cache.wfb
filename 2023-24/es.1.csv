@@ -1,0 +1,381 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 11 2023,21:00,Sevilla FC,1-2,0-0,Valencia CF
+1,Fri Aug 11 2023,18:30,UD Almería,0-2,0-2,Rayo Vallecano
+1,Sat Aug 12 2023,18:30,UD Las Palmas,1-1,1-0,RCD Mallorca
+1,Sat Aug 12 2023,20:30,Athletic Bilbao,0-2,0-2,Real Madrid
+1,Sat Aug 12 2023,16:00,Real Sociedad,1-1,1-0,Girona FC
+1,Sun Aug 13 2023,16:00,RC Celta,0-2,0-1,CA Osasuna
+1,Sun Aug 13 2023,18:30,Villarreal CF,1-2,0-1,Real Betis
+1,Sun Aug 13 2023,20:30,Getafe CF,0-0,0-0,FC Barcelona
+1,Mon Aug 14 2023,20:30,Atlético Madrid,3-1,1-0,Granada CF
+1,Mon Aug 14 2023,18:30,Cádiz CF,1-0,1-0,CD Alavés
+2,Fri Aug 18 2023,18:30,RCD Mallorca,0-1,0-0,Villarreal CF
+2,Fri Aug 18 2023,20:30,Valencia CF,1-0,0-0,UD Las Palmas
+2,Sat Aug 19 2023,18:30,UD Almería,1-3,1-1,Real Madrid
+2,Sat Aug 19 2023,20:30,CA Osasuna,0-2,0-2,Athletic Bilbao
+2,Sat Aug 19 2023,16:00,Real Sociedad,1-1,1-0,RC Celta
+2,Sun Aug 20 2023,18:00,Girona FC,3-0,1-0,Getafe CF
+2,Sun Aug 20 2023,18:30,FC Barcelona,2-0,0-0,Cádiz CF
+2,Sun Aug 20 2023,20:30,Real Betis,0-0,0-0,Atlético Madrid
+2,Mon Aug 21 2023,20:30,Granada CF,0-2,0-0,Rayo Vallecano
+2,Mon Aug 21 2023,18:00,CD Alavés,4-3,2-2,Sevilla FC
+3,Fri Aug 25 2023,20:30,RC Celta,0-1,0-0,Real Madrid
+3,Fri Aug 25 2023,18:30,UD Las Palmas,0-0,0-0,Real Sociedad
+3,Sat Aug 26 2023,18:00,Cádiz CF,1-1,0-0,UD Almería
+3,Sat Aug 26 2023,18:30,Granada CF,3-2,1-1,RCD Mallorca
+3,Sat Aug 26 2023,20:30,Sevilla FC,1-2,1-1,Girona FC
+3,Sun Aug 27 2023,18:30,Valencia CF,1-2,0-1,CA Osasuna
+3,Sun Aug 27 2023,20:30,Athletic Bilbao,4-2,3-2,Real Betis
+3,Sun Aug 27 2023,16:30,Villarreal CF,3-4,2-2,FC Barcelona
+3,Mon Aug 28 2023,20:30,Rayo Vallecano,0-7,0-3,Atlético Madrid
+3,Mon Aug 28 2023,18:30,Getafe CF,1-0,0-0,CD Alavés
+4,Fri Sep 1 2023,21:00,UD Almería,2-3,0-2,RC Celta
+4,Fri Sep 1 2023,18:30,Cádiz CF,3-1,2-1,Villarreal CF
+4,Sat Sep 2 2023,13:00,Real Sociedad,5-3,2-1,Granada CF
+4,Sat Sep 2 2023,15:15,Real Madrid,2-1,0-1,Getafe CF
+4,Sat Sep 2 2023,17:30,CD Alavés,1-0,1-0,Valencia CF
+4,Sat Sep 2 2023,20:00,Real Betis,1-0,0-0,Rayo Vallecano
+4,Sun Sep 3 2023,15:15,RCD Mallorca,0-0,0-0,Athletic Bilbao
+4,Sun Sep 3 2023,20:00,CA Osasuna,1-2,0-1,FC Barcelona
+4,Sun Sep 3 2023,13:00,Girona FC,1-0,0-0,UD Las Palmas
+5,Fri Sep 15 2023,20:00,Rayo Vallecano,2-0,1-0,CD Alavés
+5,Sat Sep 16 2023,13:00,Athletic Bilbao,3-0,0-0,Cádiz CF
+5,Sat Sep 16 2023,15:15,Valencia CF,3-0,2-0,Atlético Madrid
+5,Sat Sep 16 2023,17:30,RC Celta,0-1,0-0,RCD Mallorca
+5,Sat Sep 16 2023,20:00,FC Barcelona,5-0,2-0,Real Betis
+5,Sun Sep 17 2023,20:00,Real Madrid,2-1,0-1,Real Sociedad
+5,Sun Sep 17 2023,13:00,Getafe CF,3-2,1-1,CA Osasuna
+5,Sun Sep 17 2023,15:15,Villarreal CF,2-1,1-1,UD Almería
+5,Sun Sep 17 2023,17:30,Sevilla FC,1-0,0-0,UD Las Palmas
+5,Mon Sep 18 2023,20:00,Granada CF,2-4,0-3,Girona FC
+6,Fri Sep 22 2023,20:00,CD Alavés,0-2,0-1,Athletic Bilbao
+6,Sat Sep 23 2023,13:00,Girona FC,5-3,4-1,RCD Mallorca
+6,Sat Sep 23 2023,15:15,CA Osasuna,0-0,0-0,Sevilla FC
+6,Sat Sep 23 2023,17:30,FC Barcelona,3-2,0-1,RC Celta
+6,Sat Sep 23 2023,20:00,UD Almería,2-2,0-1,Valencia CF
+6,Sun Sep 24 2023,20:00,Atlético Madrid,3-1,2-1,Real Madrid
+6,Sun Sep 24 2023,13:00,Real Sociedad,4-3,1-2,Getafe CF
+6,Sun Sep 24 2023,15:15,Rayo Vallecano,1-1,1-1,Villarreal CF
+6,Sun Sep 24 2023,17:30,Real Betis,1-1,0-1,Cádiz CF
+6,Sun Sep 24 2023,17:30,UD Las Palmas,1-0,0-0,Granada CF
+7,Tue Sep 26 2023,18:00,Sevilla FC,5-1,3-0,UD Almería
+7,Tue Sep 26 2023,20:30,RCD Mallorca,2-2,2-1,FC Barcelona
+7,Wed Sep 27 2023,18:00,Athletic Bilbao,2-2,1-0,Getafe CF
+7,Wed Sep 27 2023,18:00,Villarreal CF,1-2,0-0,Girona FC
+7,Wed Sep 27 2023,18:00,Real Madrid,2-0,1-0,UD Las Palmas
+7,Wed Sep 27 2023,20:30,Cádiz CF,0-0,0-0,Rayo Vallecano
+7,Wed Sep 27 2023,20:30,Valencia CF,0-1,0-1,Real Sociedad
+7,Thu Sep 28 2023,20:30,CA Osasuna,0-2,0-1,Atlético Madrid
+7,Thu Sep 28 2023,18:00,RC Celta,1-1,1-0,CD Alavés
+7,Thu Sep 28 2023,18:00,Granada CF,1-1,0-0,Real Betis
+8,Fri Sep 29 2023,20:00,FC Barcelona,1-0,0-0,Sevilla FC
+8,Sat Sep 30 2023,13:00,Getafe CF,0-0,0-0,Villarreal CF
+8,Sat Sep 30 2023,20:00,Real Sociedad,3-0,1-0,Athletic Bilbao
+8,Sat Sep 30 2023,15:15,Rayo Vallecano,2-2,1-1,RCD Mallorca
+8,Sat Sep 30 2023,17:30,Girona FC,0-3,0-2,Real Madrid
+8,Sun Oct 1 2023,13:00,UD Almería,3-3,3-0,Granada CF
+8,Sun Oct 1 2023,15:15,CD Alavés,0-2,0-1,CA Osasuna
+8,Sun Oct 1 2023,20:00,Atlético Madrid,3-2,1-2,Cádiz CF
+8,Sun Oct 1 2023,20:00,Real Betis,3-0,1-0,Valencia CF
+8,Mon Oct 2 2023,20:00,UD Las Palmas,2-1,0-0,RC Celta
+9,Fri Oct 6 2023,20:00,Athletic Bilbao,3-0,1-0,UD Almería
+9,Sat Oct 7 2023,15:15,Real Madrid,4-0,1-0,CA Osasuna
+9,Sat Oct 7 2023,13:00,Cádiz CF,0-1,0-0,Girona FC
+9,Sat Oct 7 2023,17:30,RCD Mallorca,1-1,1-1,Valencia CF
+9,Sat Oct 7 2023,20:00,Sevilla FC,2-2,0-2,Rayo Vallecano
+9,Sun Oct 8 2023,20:00,Granada CF,2-2,2-1,FC Barcelona
+9,Sun Oct 8 2023,13:00,Villarreal CF,1-2,0-1,UD Las Palmas
+9,Sun Oct 8 2023,15:15,Atlético Madrid,2-1,1-0,Real Sociedad
+9,Sun Oct 8 2023,17:30,RC Celta,2-2,2-2,Getafe CF
+9,Sun Oct 8 2023,17:30,CD Alavés,1-1,1-1,Real Betis
+10,Fri Oct 20 2023,20:00,CA Osasuna,2-0,1-0,Granada CF
+10,Sat Oct 21 2023,20:00,RC Celta,0-3,0-1,Atlético Madrid
+10,Sat Oct 21 2023,13:00,Real Sociedad,1-0,0-0,RCD Mallorca
+10,Sat Oct 21 2023,15:15,Getafe CF,1-1,1-1,Real Betis
+10,Sat Oct 21 2023,17:30,Sevilla FC,1-1,0-0,Real Madrid
+10,Sun Oct 22 2023,20:00,FC Barcelona,1-0,0-0,Athletic Bilbao
+10,Sun Oct 22 2023,13:00,UD Las Palmas,0-1,0-0,Rayo Vallecano
+10,Sun Oct 22 2023,15:15,Girona FC,5-2,3-2,UD Almería
+10,Sun Oct 22 2023,17:30,Villarreal CF,1-1,0-0,CD Alavés
+10,Mon Oct 23 2023,20:00,Valencia CF,2-0,2-0,Cádiz CF
+11,Fri Oct 27 2023,20:00,Girona FC,1-0,0-0,RC Celta
+11,Sat Oct 28 2023,13:00,UD Almería,1-2,0-1,UD Las Palmas
+11,Sat Oct 28 2023,15:15,FC Barcelona,1-2,1-0,Real Madrid
+11,Sat Oct 28 2023,17:30,RCD Mallorca,0-0,0-0,Getafe CF
+11,Sat Oct 28 2023,20:00,Cádiz CF,2-2,2-1,Sevilla FC
+11,Sun Oct 29 2023,20:00,Atlético Madrid,2-1,2-0,CD Alavés
+11,Sun Oct 29 2023,13:00,Real Betis,2-1,1-0,CA Osasuna
+11,Sun Oct 29 2023,15:15,Rayo Vallecano,2-2,1-1,Real Sociedad
+11,Sun Oct 29 2023,17:30,Athletic Bilbao,2-2,1-0,Valencia CF
+11,Mon Oct 30 2023,20:00,Granada CF,2-3,2-3,Villarreal CF
+12,Fri Nov 3 2023,20:00,UD Las Palmas,2-1,0-0,Atlético Madrid
+12,Sat Nov 4 2023,13:00,CA Osasuna,2-4,1-1,Girona FC
+12,Sat Nov 4 2023,15:15,Real Betis,2-0,1-0,RCD Mallorca
+12,Sat Nov 4 2023,17:30,RC Celta,1-1,1-0,Sevilla FC
+12,Sat Nov 4 2023,20:00,Real Sociedad,0-1,0-0,FC Barcelona
+12,Sun Nov 5 2023,20:00,Real Madrid,0-0,0-0,Rayo Vallecano
+12,Sun Nov 5 2023,13:00,CD Alavés,1-0,0-0,UD Almería
+12,Sun Nov 5 2023,15:15,Valencia CF,1-0,1-0,Granada CF
+12,Sun Nov 5 2023,17:30,Villarreal CF,2-3,0-3,Athletic Bilbao
+12,Mon Nov 6 2023,20:00,Getafe CF,1-0,0-0,Cádiz CF
+13,Fri Nov 10 2023,20:00,Athletic Bilbao,4-3,2-2,RC Celta
+13,Sat Nov 11 2023,13:00,Rayo Vallecano,1-2,1-1,Girona FC
+13,Sat Nov 11 2023,15:15,UD Almería,1-3,0-0,Real Sociedad
+13,Sat Nov 11 2023,17:30,CA Osasuna,1-1,0-0,UD Las Palmas
+13,Sat Nov 11 2023,17:30,Granada CF,1-1,1-1,Getafe CF
+13,Sat Nov 11 2023,20:00,Real Madrid,5-1,2-0,Valencia CF
+13,Sun Nov 12 2023,20:00,Atlético Madrid,3-1,1-1,Villarreal CF
+13,Sun Nov 12 2023,15:15,FC Barcelona,2-1,0-1,CD Alavés
+13,Sun Nov 12 2023,17:30,Sevilla FC,1-1,0-0,Real Betis
+14,Fri Nov 24 2023,20:00,CD Alavés,3-1,2-0,Granada CF
+14,Sat Nov 25 2023,17:30,Getafe CF,2-1,2-1,UD Almería
+14,Sat Nov 25 2023,13:00,Rayo Vallecano,1-1,1-0,FC Barcelona
+14,Sat Nov 25 2023,15:15,Valencia CF,0-0,0-0,RC Celta
+14,Sat Nov 25 2023,20:00,Atlético Madrid,1-0,0-0,RCD Mallorca
+14,Sun Nov 26 2023,20:00,Real Betis,1-0,1-0,UD Las Palmas
+14,Sun Nov 26 2023,17:30,Cádiz CF,0-3,0-1,Real Madrid
+14,Sun Nov 26 2023,13:00,Villarreal CF,3-1,0-0,CA Osasuna
+14,Sun Nov 26 2023,15:15,Real Sociedad,2-1,2-0,Sevilla FC
+14,Mon Nov 27 2023,20:00,Girona FC,1-1,0-0,Athletic Bilbao
+13,Wed Nov 29 2023,20:00,RCD Mallorca,1-1,1-1,Cádiz CF
+15,Fri Dec 1 2023,20:00,UD Las Palmas,2-0,1-0,Getafe CF
+15,Sat Dec 2 2023,20:00,CA Osasuna,1-1,1-1,Real Sociedad
+15,Sat Dec 2 2023,13:00,Girona FC,2-1,0-0,Valencia CF
+15,Sat Dec 2 2023,15:15,Athletic Bilbao,4-0,1-0,Rayo Vallecano
+15,Sat Dec 2 2023,17:30,Real Madrid,2-0,1-0,Granada CF
+15,Sun Dec 3 2023,13:00,RCD Mallorca,0-0,0-0,CD Alavés
+15,Sun Dec 3 2023,15:15,UD Almería,0-0,0-0,Real Betis
+15,Sun Dec 3 2023,17:30,Sevilla FC,1-1,0-0,Villarreal CF
+15,Sun Dec 3 2023,20:00,FC Barcelona,1-0,1-0,Atlético Madrid
+15,Mon Dec 4 2023,20:00,RC Celta,1-1,0-1,Cádiz CF
+16,Fri Dec 8 2023,20:00,Getafe CF,1-0,0-0,Valencia CF
+16,Sat Dec 9 2023,15:15,Real Betis,1-1,0-0,Real Madrid
+16,Sat Dec 9 2023,13:00,CD Alavés,0-1,0-1,UD Las Palmas
+16,Sat Dec 9 2023,20:00,RCD Mallorca,1-0,1-0,Sevilla FC
+16,Sat Dec 9 2023,17:30,Villarreal CF,0-3,0-3,Real Sociedad
+16,Sun Dec 10 2023,13:00,Atlético Madrid,2-1,2-0,UD Almería
+16,Sun Dec 10 2023,17:30,Cádiz CF,1-1,1-0,CA Osasuna
+16,Sun Dec 10 2023,20:00,FC Barcelona,2-4,1-2,Girona FC
+16,Mon Dec 11 2023,20:00,Rayo Vallecano,0-0,0-0,RC Celta
+16,Mon Dec 11 2023,20:00,Granada CF,1-1,0-1,Athletic Bilbao
+17,Fri Dec 15 2023,20:00,CA Osasuna,1-0,0-0,Rayo Vallecano
+17,Sat Dec 16 2023,15:15,Athletic Bilbao,2-0,0-0,Atlético Madrid
+17,Sat Dec 16 2023,13:00,RC Celta,1-0,1-0,Granada CF
+17,Sat Dec 16 2023,20:00,Valencia CF,1-1,0-0,FC Barcelona
+17,Sat Dec 16 2023,17:30,Sevilla FC,0-3,0-2,Getafe CF
+17,Sun Dec 17 2023,13:00,UD Almería,0-0,0-0,RCD Mallorca
+17,Sun Dec 17 2023,15:15,Real Sociedad,0-0,0-0,Real Betis
+17,Sun Dec 17 2023,17:30,UD Las Palmas,1-1,1-0,Cádiz CF
+17,Sun Dec 17 2023,20:00,Real Madrid,4-1,2-0,Villarreal CF
+17,Mon Dec 18 2023,20:00,Girona FC,3-0,2-0,CD Alavés
+18,Tue Dec 19 2023,18:00,Rayo Vallecano,0-1,0-0,Valencia CF
+18,Tue Dec 19 2023,20:30,Atlético Madrid,3-3,1-0,Getafe CF
+18,Tue Dec 19 2023,20:30,Granada CF,0-3,0-2,Sevilla FC
+18,Wed Dec 20 2023,20:30,Villarreal CF,3-2,2-0,RC Celta
+18,Wed Dec 20 2023,18:00,FC Barcelona,3-2,1-1,UD Almería
+18,Wed Dec 20 2023,20:30,Athletic Bilbao,1-0,0-0,UD Las Palmas
+18,Thu Dec 21 2023,20:30,RCD Mallorca,3-2,1-1,CA Osasuna
+18,Thu Dec 21 2023,18:00,Real Betis,1-1,0-1,Girona FC
+18,Thu Dec 21 2023,18:00,Cádiz CF,0-0,0-0,Real Sociedad
+18,Thu Dec 21 2023,20:30,CD Alavés,0-1,0-0,Real Madrid
+4,Sat Dec 23 2023,15:15,Atlético Madrid,1-0,0-0,Sevilla FC
+19,Tue Jan 2 2024,18:15,Real Sociedad,1-1,0-0,CD Alavés
+19,Tue Jan 2 2024,20:30,Valencia CF,3-1,2-0,Villarreal CF
+19,Tue Jan 2 2024,16:00,Getafe CF,0-2,0-1,Rayo Vallecano
+19,Wed Jan 3 2024,16:00,Granada CF,2-0,1-0,Cádiz CF
+19,Wed Jan 3 2024,18:15,RC Celta,2-1,1-1,Real Betis
+19,Wed Jan 3 2024,18:15,Real Madrid,1-0,0-0,RCD Mallorca
+19,Wed Jan 3 2024,20:30,Girona FC,4-3,3-2,Atlético Madrid
+19,Thu Jan 4 2024,18:15,Sevilla FC,0-2,0-1,Athletic Bilbao
+19,Thu Jan 4 2024,20:30,UD Las Palmas,1-2,1-0,FC Barcelona
+19,Thu Jan 4 2024,16:00,CA Osasuna,1-0,1-0,UD Almería
+20,Fri Jan 12 2024,20:00,Sevilla FC,2-3,0-2,CD Alavés
+20,Sat Jan 13 2024,15:15,RCD Mallorca,1-1,1-1,RC Celta
+20,Sat Jan 13 2024,17:30,Athletic Bilbao,2-1,2-0,Real Sociedad
+20,Sat Jan 13 2024,20:00,Real Betis,1-0,0-0,Granada CF
+20,Sat Jan 13 2024,13:00,UD Las Palmas,3-0,1-0,Villarreal CF
+20,Sun Jan 14 2024,13:00,UD Almería,0-0,0-0,Girona FC
+20,Sun Jan 14 2024,15:15,Cádiz CF,1-4,1-1,Valencia CF
+21,Fri Jan 19 2024,20:00,CD Alavés,1-0,0-0,Cádiz CF
+21,Sat Jan 20 2024,15:15,Villarreal CF,1-1,1-0,RCD Mallorca
+21,Sat Jan 20 2024,17:30,Valencia CF,1-0,0-0,Athletic Bilbao
+21,Sat Jan 20 2024,20:00,RC Celta,0-1,0-1,Real Sociedad
+21,Sat Jan 20 2024,13:00,Rayo Vallecano,0-2,0-1,UD Las Palmas
+21,Sun Jan 21 2024,17:30,Real Betis,2-4,0-1,FC Barcelona
+21,Sun Jan 21 2024,20:00,Girona FC,5-1,3-1,Sevilla FC
+21,Sun Jan 21 2024,13:00,CA Osasuna,3-2,2-0,Getafe CF
+21,Sun Jan 21 2024,15:15,Real Madrid,3-2,0-2,UD Almería
+21,Mon Jan 22 2024,20:00,Granada CF,0-1,0-0,Atlético Madrid
+22,Fri Jan 26 2024,20:00,UD Almería,0-3,0-1,CD Alavés
+22,Sat Jan 27 2024,17:30,FC Barcelona,3-5,0-1,Villarreal CF
+22,Sat Jan 27 2024,15:15,UD Las Palmas,1-2,0-0,Real Madrid
+22,Sat Jan 27 2024,20:00,RCD Mallorca,0-1,0-1,Real Betis
+22,Sat Jan 27 2024,13:00,Real Sociedad,0-0,0-0,Rayo Vallecano
+22,Sun Jan 28 2024,20:00,Atlético Madrid,2-0,1-0,Valencia CF
+22,Sun Jan 28 2024,17:30,Sevilla FC,1-1,1-0,CA Osasuna
+22,Sun Jan 28 2024,13:00,RC Celta,0-1,0-1,Girona FC
+22,Sun Jan 28 2024,15:15,Cádiz CF,0-0,0-0,Athletic Bilbao
+22,Mon Jan 29 2024,20:00,Getafe CF,2-0,2-0,Granada CF
+20,Wed Jan 31 2024,18:00,FC Barcelona,1-0,0-0,CA Osasuna
+20,Wed Jan 31 2024,20:00,Atlético Madrid,2-1,1-1,Rayo Vallecano
+20,Thu Feb 1 2024,20:00,Getafe CF,0-2,0-1,Real Madrid
+23,Fri Feb 2 2024,20:00,Athletic Bilbao,4-0,2-0,RCD Mallorca
+23,Sat Feb 3 2024,13:00,Valencia CF,2-1,2-0,UD Almería
+23,Sat Feb 3 2024,15:15,Granada CF,1-1,1-0,UD Las Palmas
+23,Sat Feb 3 2024,17:30,CD Alavés,1-3,0-1,FC Barcelona
+23,Sat Feb 3 2024,20:00,Girona FC,0-0,0-0,Real Sociedad
+23,Sun Feb 4 2024,15:15,CA Osasuna,0-3,0-2,RC Celta
+23,Sun Feb 4 2024,17:30,Real Betis,1-1,1-1,Getafe CF
+23,Sun Feb 4 2024,20:00,Real Madrid,1-1,1-0,Atlético Madrid
+23,Sun Feb 4 2024,13:00,Villarreal CF,0-0,0-0,Cádiz CF
+23,Mon Feb 5 2024,20:00,Rayo Vallecano,1-2,1-2,Sevilla FC
+24,Fri Feb 9 2024,20:00,Cádiz CF,0-2,0-1,Real Betis
+24,Sat Feb 10 2024,15:15,Real Sociedad,0-1,0-0,CA Osasuna
+24,Sat Feb 10 2024,17:30,Real Madrid,4-0,2-0,Girona FC
+24,Sat Feb 10 2024,20:00,UD Las Palmas,2-0,0-0,Valencia CF
+24,Sat Feb 10 2024,13:00,CD Alavés,1-1,1-1,Villarreal CF
+24,Sun Feb 11 2024,13:00,Getafe CF,3-2,2-0,RC Celta
+24,Sun Feb 11 2024,15:15,RCD Mallorca,2-1,0-0,Rayo Vallecano
+24,Sun Feb 11 2024,17:30,Sevilla FC,1-0,1-0,Atlético Madrid
+24,Sun Feb 11 2024,20:00,FC Barcelona,3-3,1-1,Granada CF
+24,Mon Feb 12 2024,20:00,UD Almería,0-0,0-0,Athletic Bilbao
+25,Fri Feb 16 2024,20:00,Villarreal CF,1-1,0-1,Getafe CF
+25,Sat Feb 17 2024,13:00,Atlético Madrid,5-0,2-0,UD Las Palmas
+25,Sat Feb 17 2024,15:15,CA Osasuna,2-0,0-0,Cádiz CF
+25,Sat Feb 17 2024,17:30,RC Celta,1-2,0-1,FC Barcelona
+25,Sat Feb 17 2024,20:00,Valencia CF,0-0,0-0,Sevilla FC
+25,Sun Feb 18 2024,15:15,Granada CF,1-1,0-1,UD Almería
+25,Sun Feb 18 2024,17:30,RCD Mallorca,1-2,1-1,Real Sociedad
+25,Sun Feb 18 2024,20:00,Real Betis,0-0,0-0,CD Alavés
+25,Sun Feb 18 2024,13:00,Rayo Vallecano,1-1,1-1,Real Madrid
+25,Mon Feb 19 2024,20:00,Athletic Bilbao,3-2,1-0,Girona FC
+26,Fri Feb 23 2024,20:00,Real Sociedad,1-3,0-1,Villarreal CF
+26,Sat Feb 24 2024,17:30,CD Alavés,1-1,0-0,RCD Mallorca
+26,Sat Feb 24 2024,20:00,UD Almería,2-2,1-1,Atlético Madrid
+26,Sat Feb 24 2024,15:15,FC Barcelona,4-0,1-0,Getafe CF
+26,Sun Feb 25 2024,13:00,Cádiz CF,2-2,0-1,RC Celta
+26,Sun Feb 25 2024,15:15,Real Betis,3-1,2-1,Athletic Bilbao
+26,Sun Feb 25 2024,17:30,UD Las Palmas,1-1,0-0,CA Osasuna
+26,Sun Feb 25 2024,20:00,Real Madrid,1-0,0-0,Sevilla FC
+26,Mon Feb 26 2024,20:00,Girona FC,3-0,0-0,Rayo Vallecano
+27,Fri Mar 1 2024,20:00,RC Celta,1-0,0-0,UD Almería
+27,Sat Mar 2 2024,20:00,Valencia CF,2-2,2-1,Real Madrid
+27,Sat Mar 2 2024,13:00,Sevilla FC,3-2,2-1,Real Sociedad
+27,Sat Mar 2 2024,15:15,Rayo Vallecano,1-1,0-0,Cádiz CF
+27,Sat Mar 2 2024,17:30,Getafe CF,3-3,3-1,UD Las Palmas
+27,Sun Mar 3 2024,13:00,Villarreal CF,5-1,3-0,Granada CF
+27,Sun Mar 3 2024,15:15,Atlético Madrid,2-1,2-0,Real Betis
+27,Sun Mar 3 2024,17:30,RCD Mallorca,1-0,1-0,Girona FC
+27,Sun Mar 3 2024,20:00,Athletic Bilbao,0-0,0-0,FC Barcelona
+27,Mon Mar 4 2024,20:00,CA Osasuna,1-0,0-0,CD Alavés
+28,Fri Mar 8 2024,20:00,FC Barcelona,1-0,0-0,RCD Mallorca
+28,Sat Mar 9 2024,20:00,Girona FC,2-0,1-0,CA Osasuna
+28,Sat Mar 9 2024,13:00,Valencia CF,1-0,1-0,Getafe CF
+28,Sat Mar 9 2024,15:15,Cádiz CF,2-0,1-0,Atlético Madrid
+28,Sat Mar 9 2024,17:30,Granada CF,2-3,2-1,Real Sociedad
+28,Sun Mar 10 2024,13:00,CD Alavés,1-0,1-0,Rayo Vallecano
+28,Sun Mar 10 2024,15:15,UD Las Palmas,0-2,0-1,Athletic Bilbao
+28,Sun Mar 10 2024,17:30,Real Madrid,4-0,1-0,RC Celta
+28,Sun Mar 10 2024,20:00,Real Betis,2-3,2-1,Villarreal CF
+28,Mon Mar 11 2024,20:00,UD Almería,2-2,1-0,Sevilla FC
+29,Fri Mar 15 2024,20:00,Real Sociedad,2-0,1-0,Cádiz CF
+29,Sat Mar 16 2024,20:00,Athletic Bilbao,2-0,2-0,CD Alavés
+29,Sat Mar 16 2024,13:00,RCD Mallorca,1-0,0-0,Granada CF
+29,Sat Mar 16 2024,15:15,CA Osasuna,2-4,1-2,Real Madrid
+29,Sat Mar 16 2024,17:30,Getafe CF,1-0,1-0,Girona FC
+29,Sun Mar 17 2024,20:00,Atlético Madrid,0-3,0-1,FC Barcelona
+29,Sun Mar 17 2024,13:00,Sevilla FC,1-2,1-0,RC Celta
+29,Sun Mar 17 2024,15:15,Villarreal CF,1-0,0-0,Valencia CF
+29,Sun Mar 17 2024,15:15,UD Las Palmas,0-1,0-1,UD Almería
+29,Sun Mar 17 2024,17:30,Rayo Vallecano,2-0,1-0,Real Betis
+30,Fri Mar 29 2024,20:00,Cádiz CF,1-0,0-0,Granada CF
+30,Sat Mar 30 2024,13:00,Getafe CF,0-1,0-1,Sevilla FC
+30,Sat Mar 30 2024,15:15,UD Almería,0-3,0-2,CA Osasuna
+30,Sat Mar 30 2024,17:30,Valencia CF,0-0,0-0,RCD Mallorca
+30,Sat Mar 30 2024,20:00,FC Barcelona,1-0,0-0,UD Las Palmas
+30,Sun Mar 31 2024,20:00,Real Madrid,2-0,1-0,Athletic Bilbao
+30,Sun Mar 31 2024,13:00,RC Celta,0-0,0-0,Rayo Vallecano
+30,Sun Mar 31 2024,15:15,Girona FC,3-2,1-1,Real Betis
+30,Sun Mar 31 2024,17:30,CD Alavés,0-1,0-0,Real Sociedad
+30,Mon Apr 1 2024,20:00,Villarreal CF,1-2,0-1,Atlético Madrid
+26,Thu Apr 4 2024,19:00,Granada CF,0-1,0-0,Valencia CF
+31,Fri Apr 12 2024,20:00,Real Betis,2-1,0-0,RC Celta
+31,Sat Apr 13 2024,15:15,Rayo Vallecano,0-0,0-0,Getafe CF
+31,Sat Apr 13 2024,17:30,RCD Mallorca,0-1,0-0,Real Madrid
+31,Sat Apr 13 2024,20:00,Cádiz CF,0-1,0-1,FC Barcelona
+31,Sat Apr 13 2024,13:00,Atlético Madrid,3-1,2-1,Girona FC
+31,Sun Apr 14 2024,13:00,UD Las Palmas,0-2,0-1,Sevilla FC
+31,Sun Apr 14 2024,15:15,Granada CF,2-0,2-0,CD Alavés
+31,Sun Apr 14 2024,17:30,Athletic Bilbao,1-1,0-0,Villarreal CF
+31,Sun Apr 14 2024,20:00,Real Sociedad,2-2,1-1,UD Almería
+31,Mon Apr 15 2024,20:00,CA Osasuna,0-1,0-1,Valencia CF
+32,Fri Apr 19 2024,20:00,Athletic Bilbao,1-1,1-1,Granada CF
+32,Sat Apr 20 2024,15:15,Rayo Vallecano,2-1,0-1,CA Osasuna
+32,Sat Apr 20 2024,17:30,Valencia CF,1-2,0-1,Real Betis
+32,Sat Apr 20 2024,20:00,Girona FC,4-1,2-0,Cádiz CF
+32,Sat Apr 20 2024,13:00,RC Celta,4-1,2-1,UD Las Palmas
+32,Sun Apr 21 2024,13:00,Getafe CF,1-1,1-1,Real Sociedad
+32,Sun Apr 21 2024,15:15,UD Almería,1-2,1-1,Villarreal CF
+32,Sun Apr 21 2024,17:30,CD Alavés,2-0,1-0,Atlético Madrid
+32,Sun Apr 21 2024,20:00,Real Madrid,3-2,1-1,FC Barcelona
+32,Mon Apr 22 2024,20:00,Sevilla FC,2-1,0-0,RCD Mallorca
+33,Fri Apr 26 2024,20:00,Real Sociedad,0-1,0-1,Real Madrid
+33,Sat Apr 27 2024,13:00,UD Las Palmas,0-2,0-1,Girona FC
+33,Sat Apr 27 2024,15:15,UD Almería,1-3,1-1,Getafe CF
+33,Sat Apr 27 2024,17:30,CD Alavés,3-0,0-0,RC Celta
+33,Sat Apr 27 2024,20:00,Atlético Madrid,3-1,1-1,Athletic Bilbao
+33,Sun Apr 28 2024,15:15,Granada CF,3-0,1-0,CA Osasuna
+33,Sun Apr 28 2024,17:30,Villarreal CF,3-0,1-0,Rayo Vallecano
+33,Sun Apr 28 2024,20:00,Real Betis,1-1,1-0,Sevilla FC
+33,Sun Apr 28 2024,13:00,Cádiz CF,1-1,0-1,RCD Mallorca
+33,Mon Apr 29 2024,20:00,FC Barcelona,4-2,1-2,Valencia CF
+34,Fri May 3 2024,20:00,Getafe CF,0-2,0-1,Athletic Bilbao
+34,Sat May 4 2024,13:00,Real Sociedad,2-0,2-0,UD Las Palmas
+34,Sat May 4 2024,15:15,Real Madrid,3-0,0-0,Cádiz CF
+34,Sat May 4 2024,17:30,Girona FC,4-2,1-2,FC Barcelona
+34,Sat May 4 2024,20:00,RCD Mallorca,0-1,0-1,Atlético Madrid
+34,Sun May 5 2024,15:15,RC Celta,3-2,2-1,Villarreal CF
+34,Sun May 5 2024,17:30,Valencia CF,0-1,0-0,CD Alavés
+34,Sun May 5 2024,20:00,Sevilla FC,3-0,1-0,Granada CF
+34,Sun May 5 2024,20:00,Rayo Vallecano,0-1,0-1,UD Almería
+34,Sun May 5 2024,13:00,CA Osasuna,0-2,0-2,Real Betis
+35,Fri May 10 2024,20:00,CD Alavés,2-2,1-2,Girona FC
+35,Sat May 11 2024,15:15,Villarreal CF,3-2,1-2,Sevilla FC
+35,Sat May 11 2024,17:30,Granada CF,0-4,0-2,Real Madrid
+35,Sat May 11 2024,20:00,Athletic Bilbao,2-2,0-1,CA Osasuna
+35,Sat May 11 2024,13:00,RCD Mallorca,1-0,1-0,UD Las Palmas
+35,Sun May 12 2024,13:00,Cádiz CF,1-0,1-0,Getafe CF
+35,Sun May 12 2024,15:15,Atlético Madrid,1-0,0-0,RC Celta
+35,Sun May 12 2024,17:30,Valencia CF,0-0,0-0,Rayo Vallecano
+35,Sun May 12 2024,20:00,Real Betis,3-2,2-1,UD Almería
+35,Mon May 13 2024,20:00,FC Barcelona,2-0,1-0,Real Sociedad
+36,Tue May 14 2024,20:30,Real Madrid,5-0,3-0,CD Alavés
+36,Tue May 14 2024,21:00,Girona FC,0-1,0-0,Villarreal CF
+36,Tue May 14 2024,18:30,CA Osasuna,1-1,1-0,RCD Mallorca
+36,Wed May 15 2024,18:30,Rayo Vallecano,2-1,1-0,Granada CF
+36,Wed May 15 2024,21:00,RC Celta,2-1,0-1,Athletic Bilbao
+36,Wed May 15 2024,21:00,Getafe CF,0-3,0-2,Atlético Madrid
+36,Wed May 15 2024,18:30,Sevilla FC,0-1,0-0,Cádiz CF
+36,Thu May 16 2024,18:30,UD Las Palmas,2-2,1-1,Real Betis
+36,Thu May 16 2024,20:30,UD Almería,0-2,0-1,FC Barcelona
+36,Thu May 16 2024,21:00,Real Sociedad,1-0,1-0,Valencia CF
+37,Sat May 18 2024,20:00,CD Alavés,1-0,1-0,Getafe CF
+37,Sun May 19 2024,18:00,Athletic Bilbao,2-0,2-0,Sevilla FC
+37,Sun May 19 2024,18:00,Atlético Madrid,1-4,0-1,CA Osasuna
+37,Sun May 19 2024,18:00,Real Betis,0-2,0-2,Real Sociedad
+37,Sun May 19 2024,18:00,FC Barcelona,3-0,1-0,Rayo Vallecano
+37,Sun May 19 2024,18:00,Cádiz CF,0-0,0-0,UD Las Palmas
+37,Sun May 19 2024,18:00,Granada CF,1-2,0-0,RC Celta
+37,Sun May 19 2024,18:00,Valencia CF,1-3,0-1,Girona FC
+37,Sun May 19 2024,18:00,Villarreal CF,4-4,1-4,Real Madrid
+37,Sun May 19 2024,18:00,RCD Mallorca,2-2,1-1,UD Almería
+38,Fri May 24 2024,20:00,Girona FC,7-0,3-0,Granada CF
+38,Sat May 25 2024,13:00,CA Osasuna,1-1,1-0,Villarreal CF
+38,Sat May 25 2024,15:15,Real Sociedad,0-2,0-1,Atlético Madrid
+38,Sat May 25 2024,17:30,Rayo Vallecano,0-1,0-0,Athletic Bilbao
+38,Sat May 25 2024,17:30,UD Almería,6-1,0-1,Cádiz CF
+38,Sat May 25 2024,20:00,Real Madrid,0-0,0-0,Real Betis
+38,Sun May 26 2024,15:15,RC Celta,2-2,0-1,Valencia CF
+38,Sun May 26 2024,15:15,UD Las Palmas,1-1,0-0,CD Alavés
+38,Sun May 26 2024,20:00,Sevilla FC,1-2,1-1,FC Barcelona
+38,Sun May 26 2024,13:00,Getafe CF,1-2,0-0,RCD Mallorca
