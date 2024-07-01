@@ -1,181 +1,91 @@
-Round,Date,Time,Team 1,FT,HT,Team 2,Comments
-1,Fri Feb 14 2020,20:45,Cork City,0-1,0-0,Shelbourne FC,
-1,Fri Feb 14 2020,20:45,Dundalk FC,1-0,0-0,Derry City,
-1,Fri Feb 14 2020,20:45,St Patrick's Athletic,0-1,0-0,Waterford FC,
-1,Fri Feb 14 2020,21:00,Finn Harps,1-0,0-0,Sligo Rovers,
-1,Sat Feb 15 2020,15:00,Bohemian FC,0-1,0-0,Shamrock Rovers,
-2,Fri Feb 21 2020,20:45,Derry City,1-1,0-1,Finn Harps,
-2,Fri Feb 21 2020,21:00,Shamrock Rovers,6-0,2-0,Cork City,
-2,Fri Feb 21 2020,20:45,Sligo Rovers,0-2,0-2,St Patrick's Athletic,
-2,Fri Feb 21 2020,20:45,Waterford FC,0-2,0-2,Bohemian FC,
-2,Fri Feb 21 2020,20:45,Shelbourne FC,1-2,0-2,Dundalk FC,
-3,Mon Feb 24 2020,20:00,Waterford FC,0-2,0-2,Shamrock Rovers,
-3,Mon Feb 24 2020,20:45,Bohemian FC,2-0,1-0,Sligo Rovers,
-3,Mon Feb 24 2020,20:45,Dundalk FC,3-0,1-0,Cork City,
-4,Fri Feb 28 2020,20:45,Shamrock Rovers,3-2,1-1,Dundalk FC,
-4,Fri Feb 28 2020,20:45,Shelbourne FC,1-0,1-0,St Patrick's Athletic,
-4,Fri Feb 28 2020,20:45,Cork City,1-0,0-0,Finn Harps,
-4,Fri Feb 28 2020,20:45,Derry City,2-0,0-0,Bohemian FC,
-5,Fri Mar 6 2020,21:00,Bohemian FC,2-0,0-0,Shelbourne FC,
-5,Fri Mar 6 2020,20:45,St Patrick's Athletic,1-0,0-0,Cork City,
-5,Fri Mar 6 2020,20:45,Waterford FC,2-1,1-1,Derry City,
-5,Fri Mar 6 2020,21:00,Finn Harps,0-4,0-2,Dundalk FC,
-5,Sat Mar 7 2020,21:00,Sligo Rovers,2-3,1-1,Shamrock Rovers,
-25,Mon May 25 2020,,Derry City,(*),,Shamrock Rovers,cancelled
-25,Mon May 25 2020,,Bohemian FC,(*),,Dundalk FC,cancelled
-19,Fri May 29 2020,,St Patrick's Athletic,(*),,Waterford FC,cancelled
-19,Fri May 29 2020,,Finn Harps,(*),,Sligo Rovers,cancelled
-19,Fri May 29 2020,,Dundalk FC,(*),,Derry City,cancelled
-19,Fri May 29 2020,,Bohemian FC,(*),,Shamrock Rovers,cancelled
-19,Fri May 29 2020,,Cork City,(*),,Shelbourne FC,cancelled
-20,Fri Jun 5 2020,,Shamrock Rovers,(*),,Cork City,cancelled
-20,Fri Jun 5 2020,,Derry City,(*),,Finn Harps,cancelled
-20,Fri Jun 5 2020,,Waterford FC,(*),,Bohemian FC,cancelled
-20,Fri Jun 5 2020,,Shelbourne FC,(*),,Dundalk FC,cancelled
-20,Sat Jun 6 2020,,Sligo Rovers,(*),,St Patrick's Athletic,cancelled
-21,Fri Jun 12 2020,,Waterford FC,(*),,Shamrock Rovers,cancelled
-21,Fri Jun 12 2020,,Bohemian FC,(*),,Sligo Rovers,cancelled
-21,Fri Jun 12 2020,,Dundalk FC,(*),,Cork City,cancelled
-21,Fri Jun 12 2020,,St Patrick's Athletic,(*),,Derry City,cancelled
-21,Fri Jun 12 2020,,Finn Harps,(*),,Shelbourne FC,cancelled
-22,Fri Jun 26 2020,,Sligo Rovers,(*),,Waterford FC,cancelled
-22,Fri Jun 26 2020,,Cork City,(*),,Finn Harps,cancelled
-22,Fri Jun 26 2020,,Derry City,(*),,Bohemian FC,cancelled
-22,Fri Jun 26 2020,,Shelbourne FC,(*),,St Patrick's Athletic,cancelled
-22,Fri Jun 26 2020,,Shamrock Rovers,(*),,Dundalk FC,cancelled
-23,Mon Jun 29 2020,,Bohemian FC,(*),,Shelbourne FC,cancelled
-23,Mon Jun 29 2020,,St Patrick's Athletic,(*),,Cork City,cancelled
-23,Mon Jun 29 2020,,Finn Harps,(*),,Dundalk FC,cancelled
-23,Mon Jun 29 2020,,Waterford FC,(*),,Derry City,cancelled
-23,Mon Jun 29 2020,,Sligo Rovers,(*),,Shamrock Rovers,cancelled
-24,Fri Jul 3 2020,,Cork City,(*),,Bohemian FC,cancelled
-24,Fri Jul 3 2020,,Derry City,(*),,Sligo Rovers,cancelled
-24,Fri Jul 3 2020,,Dundalk FC,(*),,St Patrick's Athletic,cancelled
-24,Fri Jul 3 2020,,Shelbourne FC,(*),,Waterford FC,cancelled
-24,Fri Jul 3 2020,,Shamrock Rovers,(*),,Finn Harps,cancelled
-25,Fri Jul 10 2020,,St Patrick's Athletic,(*),,Finn Harps,cancelled
-25,Fri Jul 10 2020,,Waterford FC,(*),,Cork City,cancelled
-25,Sat Jul 11 2020,,Sligo Rovers,(*),,Shelbourne FC,cancelled
-26,Fri Jul 17 2020,,Shelbourne FC,(*),,Derry City,cancelled
-26,Fri Jul 17 2020,,St Patrick's Athletic,(*),,Shamrock Rovers,cancelled
-26,Fri Jul 17 2020,,Finn Harps,(*),,Bohemian FC,cancelled
-26,Fri Jul 17 2020,,Dundalk FC,(*),,Waterford FC,cancelled
-26,Fri Jul 17 2020,,Cork City,(*),,Sligo Rovers,cancelled
-27,Fri Jul 24 2020,,Shamrock Rovers,(*),,Shelbourne FC,cancelled
-27,Fri Jul 24 2020,,Bohemian FC,(*),,St Patrick's Athletic,cancelled
-27,Fri Jul 24 2020,,Derry City,(*),,Cork City,cancelled
-27,Fri Jul 24 2020,,Waterford FC,(*),,Finn Harps,cancelled
-27,Sat Jul 25 2020,,Sligo Rovers,(*),,Dundalk FC,cancelled
-28,Fri Jul 31 2020,,Waterford FC,(*),,St Patrick's Athletic,cancelled
-28,Fri Jul 31 2020,,Shelbourne FC,(*),,Cork City,cancelled
-6,Fri Jul 31 2020,20:45,Dundalk FC,1-1,1-1,St Patrick's Athletic,
-28,Fri Jul 31 2020,,Shamrock Rovers,(*),,Bohemian FC,cancelled
-6,Fri Jul 31 2020,18:45,Derry City,0-2,0-1,Sligo Rovers,
-28,Fri Jul 31 2020,,Derry City,(*),,Dundalk FC,cancelled
-28,Sat Aug 1 2020,,Sligo Rovers,(*),,Finn Harps,cancelled
-6,Sat Aug 1 2020,18:00,Shamrock Rovers,3-1,3-1,Finn Harps,
-6,Sat Aug 1 2020,15:00,Shelbourne FC,0-1,0-1,Waterford FC,
-6,Sun Aug 2 2020,18:00,Cork City,0-1,0-1,Bohemian FC,
-3,Mon Aug 3 2020,20:45,St Patrick's Athletic,0-2,0-0,Derry City,
-4,Tue Aug 4 2020,,Sligo Rovers,,,Waterford FC,postponed
-3,Tue Aug 4 2020,18:45,Finn Harps,0-1,0-1,Shelbourne FC,
-7,Fri Aug 7 2020,18:45,Bohemian FC,2-1,2-1,Dundalk FC,
-7,Fri Aug 7 2020,20:45,St Patrick's Athletic,2-0,2-0,Finn Harps,
-7,Sat Aug 8 2020,15:00,Waterford FC,0-0,0-0,Cork City,
-7,Sat Aug 8 2020,18:00,Sligo Rovers,,,Shelbourne FC,
-7,Sun Aug 9 2020,18:00,Derry City,,,Shamrock Rovers,
-29,Fri Aug 14 2020,,Finn Harps,(*),,Derry City,cancelled
-29,Fri Aug 14 2020,,Cork City,(*),,Shamrock Rovers,cancelled
-29,Fri Aug 14 2020,,Dundalk FC,(*),,Shelbourne FC,cancelled
-29,Fri Aug 14 2020,,Bohemian FC,(*),,Waterford FC,cancelled
-8,Fri Aug 14 2020,20:45,Cork City,,,Sligo Rovers,
-29,Fri Aug 14 2020,,St Patrick's Athletic,(*),,Sligo Rovers,cancelled
-8,Fri Aug 14 2020,18:45,Dundalk FC,,,Waterford FC,
-8,Sat Aug 15 2020,18:00,Shelbourne FC,,,Derry City,
-8,Sat Aug 15 2020,15:00,Finn Harps,,,Bohemian FC,
-8,Sun Aug 16 2020,18:00,St Patrick's Athletic,,,Shamrock Rovers,
-9,Fri Aug 21 2020,20:45,Shamrock Rovers,,,Shelbourne FC,
-9,Fri Aug 21 2020,18:45,Derry City,,,Cork City,
-9,Sat Aug 22 2020,15:00,Bohemian FC,,,St Patrick's Athletic,
-9,Sat Aug 22 2020,18:00,Sligo Rovers,,,Dundalk FC,
-9,Sun Aug 23 2020,18:00,Waterford FC,,,Finn Harps,
-30,Fri Aug 28 2020,,Shamrock Rovers,(*),,Waterford FC,cancelled
-30,Fri Aug 28 2020,,Shelbourne FC,(*),,Finn Harps,cancelled
-30,Fri Aug 28 2020,,Cork City,(*),,Dundalk FC,cancelled
-30,Fri Aug 28 2020,,Derry City,(*),,St Patrick's Athletic,cancelled
-30,Sat Aug 29 2020,,Sligo Rovers,(*),,Bohemian FC,cancelled
-10,Fri Sep 4 2020,20:45,Derry City,,,Dundalk FC,
-10,Fri Sep 4 2020,18:45,Waterford FC,,,St Patrick's Athletic,
-10,Sat Sep 5 2020,21:00,Shamrock Rovers,,,Bohemian FC,
-10,Sat Sep 5 2020,18:00,Shelbourne FC,,,Cork City,
-10,Mon Sep 7 2020,20:45,Sligo Rovers,,,Finn Harps,
-31,Fri Sep 11 2020,,St Patrick's Athletic,(*),,Shelbourne FC,cancelled
-11,Fri Sep 11 2020,21:00,Dundalk FC,,,Shelbourne FC,
-11,Fri Sep 11 2020,18:45,Bohemian FC,,,Waterford FC,
-31,Fri Sep 11 2020,,Dundalk FC,(*),,Shamrock Rovers,cancelled
-31,Fri Sep 11 2020,,Waterford FC,(*),,Sligo Rovers,cancelled
-31,Fri Sep 11 2020,,Finn Harps,(*),,Cork City,cancelled
-31,Fri Sep 11 2020,,Bohemian FC,(*),,Derry City,cancelled
-11,Sat Sep 12 2020,15:00,Cork City,,,Shamrock Rovers,
-11,Sat Sep 12 2020,18:00,St Patrick's Athletic,,,Sligo Rovers,
-11,Sun Sep 13 2020,18:00,Finn Harps,,,Derry City,
-32,Fri Sep 18 2020,,Cork City,(*),,St Patrick's Athletic,cancelled
-32,Fri Sep 18 2020,,Derry City,(*),,Waterford FC,cancelled
-32,Fri Sep 18 2020,,Dundalk FC,(*),,Finn Harps,cancelled
-12,Fri Sep 18 2020,20:45,Cork City,,,Dundalk FC,
-12,Fri Sep 18 2020,20:45,Shelbourne FC,,,Finn Harps,
-12,Fri Sep 18 2020,20:45,Derry City,,,St Patrick's Athletic,
-32,Fri Sep 18 2020,,Shamrock Rovers,(*),,Sligo Rovers,cancelled
-32,Fri Sep 18 2020,,Shelbourne FC,(*),,Bohemian FC,cancelled
-12,Fri Sep 18 2020,21:00,Shamrock Rovers,,,Waterford FC,
-12,Sat Sep 19 2020,20:45,Sligo Rovers,,,Bohemian FC,
-13,Fri Sep 25 2020,20:45,St Patrick's Athletic,,,Shelbourne FC,
-13,Fri Sep 25 2020,20:45,Dundalk FC,,,Shamrock Rovers,
-13,Fri Sep 25 2020,20:45,Bohemian FC,,,Derry City,
-13,Fri Sep 25 2020,21:00,Finn Harps,,,Cork City,
-13,Fri Sep 25 2020,20:45,Waterford FC,,,Sligo Rovers,
-14,Fri Oct 2 2020,21:00,Shamrock Rovers,,,Sligo Rovers,
-14,Fri Oct 2 2020,20:45,Dundalk FC,,,Finn Harps,
-14,Fri Oct 2 2020,20:45,Derry City,,,Waterford FC,
-14,Fri Oct 2 2020,20:45,Shelbourne FC,,,Bohemian FC,
-33,Fri Oct 2 2020,,Bohemian FC,(*),,Cork City,cancelled
-14,Fri Oct 2 2020,20:45,Cork City,,,St Patrick's Athletic,
-33,Fri Oct 2 2020,,Waterford FC,(*),,Shelbourne FC,cancelled
-33,Fri Oct 2 2020,,Finn Harps,(*),,Shamrock Rovers,cancelled
-33,Fri Oct 2 2020,,St Patrick's Athletic,(*),,Dundalk FC,cancelled
-33,Sat Oct 3 2020,,Sligo Rovers,(*),,Derry City,cancelled
-15,Fri Oct 9 2020,21:00,Finn Harps,,,Shamrock Rovers,
-15,Fri Oct 9 2020,20:45,St Patrick's Athletic,,,Dundalk FC,
-15,Fri Oct 9 2020,20:45,Waterford FC,,,Shelbourne FC,
-34,Fri Oct 9 2020,,Cork City,(*),,Waterford FC,cancelled
-34,Fri Oct 9 2020,,Dundalk FC,(*),,Bohemian FC,cancelled
-34,Fri Oct 9 2020,,Shelbourne FC,(*),,Sligo Rovers,cancelled
-34,Fri Oct 9 2020,,Shamrock Rovers,(*),,Derry City,cancelled
-15,Fri Oct 9 2020,20:45,Bohemian FC,,,Cork City,
-34,Fri Oct 9 2020,,Finn Harps,(*),,St Patrick's Athletic,cancelled
-15,Sat Oct 10 2020,20:45,Sligo Rovers,,,Derry City,
-35,Fri Oct 16 2020,,Bohemian FC,(*),,Finn Harps,cancelled
-35,Fri Oct 16 2020,,Waterford FC,(*),,Dundalk FC,cancelled
-35,Fri Oct 16 2020,,Shamrock Rovers,(*),,St Patrick's Athletic,cancelled
-35,Fri Oct 16 2020,,Derry City,(*),,Shelbourne FC,cancelled
-16,Fri Oct 16 2020,21:00,Shamrock Rovers,,,Derry City,
-16,Fri Oct 16 2020,21:00,Finn Harps,,,St Patrick's Athletic,
-16,Fri Oct 16 2020,20:45,Shelbourne FC,,,Sligo Rovers,
-16,Fri Oct 16 2020,20:45,Dundalk FC,,,Bohemian FC,
-16,Fri Oct 16 2020,20:45,Cork City,,,Waterford FC,
-35,Sat Oct 17 2020,,Sligo Rovers,(*),,Cork City,cancelled
-36,Fri Oct 23 2020,,St Patrick's Athletic,(*),,Bohemian FC,cancelled
-17,Fri Oct 23 2020,20:45,Waterford FC,,,Dundalk FC,
-17,Fri Oct 23 2020,21:00,Shamrock Rovers,,,St Patrick's Athletic,
-17,Fri Oct 23 2020,20:45,Derry City,,,Shelbourne FC,
-36,Fri Oct 23 2020,,Finn Harps,(*),,Waterford FC,cancelled
-36,Fri Oct 23 2020,,Dundalk FC,(*),,Sligo Rovers,cancelled
-36,Fri Oct 23 2020,,Cork City,(*),,Derry City,cancelled
-17,Fri Oct 23 2020,20:45,Bohemian FC,,,Finn Harps,
-36,Fri Oct 23 2020,,Shelbourne FC,(*),,Shamrock Rovers,cancelled
-17,Sat Oct 24 2020,20:45,Sligo Rovers,,,Cork City,
-18,Fri Oct 30 2020,20:45,Cork City,,,Derry City,
-18,Fri Oct 30 2020,20:45,Dundalk FC,,,Sligo Rovers,
-18,Fri Oct 30 2020,20:45,St Patrick's Athletic,,,Bohemian FC,
-18,Fri Oct 30 2020,20:45,Finn Harps,,,Waterford FC,
-18,Fri Oct 30 2020,20:45,Shelbourne FC,,,Shamrock Rovers,
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Feb 14 2020,20:45,Dundalk FC,1-0,0-0,Derry City
+1,Fri Feb 14 2020,20:45,St Patrick's Athletic,0-1,0-0,Waterford FC
+1,Fri Feb 14 2020,21:00,Finn Harps,1-0,0-0,Sligo Rovers
+1,Fri Feb 14 2020,20:45,Cork City,0-1,0-0,Shelbourne FC
+1,Sat Feb 15 2020,15:00,Bohemian FC,0-1,0-0,Shamrock Rovers
+2,Fri Feb 21 2020,20:45,Derry City,1-1,0-1,Finn Harps
+2,Fri Feb 21 2020,20:45,Shelbourne FC,1-2,0-2,Dundalk FC
+2,Fri Feb 21 2020,20:45,Sligo Rovers,0-2,0-2,St Patrick's Athletic
+2,Fri Feb 21 2020,20:45,Waterford FC,0-2,0-2,Bohemian FC
+2,Fri Feb 21 2020,21:00,Shamrock Rovers,6-0,2-0,Cork City
+3,Mon Feb 24 2020,20:45,Bohemian FC,2-0,1-0,Sligo Rovers
+3,Mon Feb 24 2020,20:45,Dundalk FC,3-0,1-0,Cork City
+3,Mon Feb 24 2020,20:00,Waterford FC,0-2,0-2,Shamrock Rovers
+4,Fri Feb 28 2020,20:45,Shelbourne FC,1-0,1-0,St Patrick's Athletic
+4,Fri Feb 28 2020,20:45,Shamrock Rovers,3-2,1-1,Dundalk FC
+4,Fri Feb 28 2020,20:45,Cork City,1-0,0-0,Finn Harps
+4,Fri Feb 28 2020,20:45,Derry City,2-0,0-0,Bohemian FC
+5,Fri Mar 6 2020,21:00,Bohemian FC,2-0,0-0,Shelbourne FC
+5,Fri Mar 6 2020,21:00,Finn Harps,0-4,0-2,Dundalk FC
+5,Fri Mar 6 2020,20:45,Waterford FC,2-1,1-1,Derry City
+5,Fri Mar 6 2020,20:45,St Patrick's Athletic,1-0,0-0,Cork City
+5,Sat Mar 7 2020,21:00,Sligo Rovers,2-3,1-1,Shamrock Rovers
+6,Fri Jul 31 2020,18:45,Derry City,0-2,0-1,Sligo Rovers
+6,Fri Jul 31 2020,20:45,Dundalk FC,1-1,1-1,St Patrick's Athletic
+6,Sat Aug 1 2020,18:00,Shamrock Rovers,3-1,3-1,Finn Harps
+6,Sat Aug 1 2020,15:00,Shelbourne FC,0-1,0-1,Waterford FC
+6,Sun Aug 2 2020,18:00,Cork City,0-1,0-1,Bohemian FC
+3,Mon Aug 3 2020,20:45,St Patrick's Athletic,0-2,0-0,Derry City
+3,Tue Aug 4 2020,18:45,Finn Harps,0-1,0-1,Shelbourne FC
+7,Fri Aug 7 2020,18:45,Bohemian FC,2-1,2-1,Dundalk FC
+7,Fri Aug 7 2020,20:45,St Patrick's Athletic,2-0,2-0,Finn Harps
+7,Sat Aug 8 2020,18:00,Sligo Rovers,2-1,1-0,Shelbourne FC
+7,Sat Aug 8 2020,15:00,Waterford FC,0-0,0-0,Cork City
+7,Sun Aug 9 2020,18:00,Derry City,1-2,1-0,Shamrock Rovers
+8,Fri Aug 14 2020,18:45,Dundalk FC,2-2,0-1,Waterford FC
+8,Fri Aug 14 2020,20:45,Cork City,3-0,1-0,Sligo Rovers
+8,Sat Aug 15 2020,15:00,Finn Harps,0-1,0-1,Bohemian FC
+8,Sat Aug 15 2020,18:00,Shelbourne FC,1-1,0-1,Derry City
+8,Sun Aug 16 2020,18:00,St Patrick's Athletic,0-0,0-0,Shamrock Rovers
+4,Tue Aug 18 2020,18:45,Sligo Rovers,2-1,0-1,Waterford FC
+9,Fri Aug 21 2020,20:45,Shamrock Rovers,0-0,0-0,Shelbourne FC
+9,Fri Aug 21 2020,18:45,Derry City,3-1,0-1,Cork City
+9,Sat Aug 22 2020,18:00,Sligo Rovers,3-1,1-0,Dundalk FC
+9,Sat Aug 22 2020,15:00,Bohemian FC,2-0,2-0,St Patrick's Athletic
+9,Sun Aug 23 2020,15:00,Waterford FC,2-3,1-0,Finn Harps
+10,Fri Sep 4 2020,20:45,Waterford FC,3-0,2-0,St Patrick's Athletic
+10,Sat Sep 5 2020,18:00,Shelbourne FC,1-1,1-0,Cork City
+10,Sat Sep 5 2020,15:00,Shamrock Rovers,1-0,1-0,Bohemian FC
+10,Mon Sep 7 2020,20:45,Sligo Rovers,3-1,1-0,Finn Harps
+11,Fri Sep 11 2020,21:00,Dundalk FC,3-2,2-2,Shelbourne FC
+11,Fri Sep 11 2020,18:45,Bohemian FC,0-2,0-2,Waterford FC
+11,Sat Sep 12 2020,15:00,Cork City,0-3,0-2,Shamrock Rovers
+11,Sat Sep 12 2020,18:00,St Patrick's Athletic,0-0,0-0,Sligo Rovers
+11,Sun Sep 13 2020,18:00,Finn Harps,0-0,0-0,Derry City
+12,Fri Sep 18 2020,20:45,Sligo Rovers,0-1,0-0,Bohemian FC
+12,Fri Sep 18 2020,18:45,Derry City,0-0,0-0,St Patrick's Athletic
+12,Sat Sep 19 2020,20:30,Shelbourne FC,1-1,1-0,Finn Harps
+12,Mon Sep 21 2020,20:00,Shamrock Rovers,6-1,3-0,Waterford FC
+13,Fri Sep 25 2020,20:45,Bohemian FC,2-1,0-1,Derry City
+13,Sat Sep 26 2020,20:30,St Patrick's Athletic,2-0,1-0,Shelbourne FC
+13,Sat Sep 26 2020,18:00,Waterford FC,1-0,1-0,Sligo Rovers
+13,Sun Sep 27 2020,18:00,Finn Harps,1-1,0-0,Cork City
+13,Sun Sep 27 2020,20:30,Dundalk FC,0-4,0-3,Shamrock Rovers
+15,Tue Sep 29 2020,20:45,Sligo Rovers,1-0,0-0,Derry City
+14,Fri Oct 2 2020,18:45,Derry City,2-0,1-0,Waterford FC
+14,Fri Oct 2 2020,20:45,Shamrock Rovers,4-0,2-0,Sligo Rovers
+14,Sat Oct 3 2020,20:30,Shelbourne FC,1-3,0-1,Bohemian FC
+14,Sat Oct 3 2020,18:00,Cork City,1-2,1-2,St Patrick's Athletic
+14,Sun Oct 4 2020,18:00,Dundalk FC,0-0,0-0,Finn Harps
+15,Fri Oct 9 2020,18:45,Bohemian FC,3-0,2-0,Cork City
+15,Sat Oct 10 2020,18:00,Waterford FC,0-1,0-0,Shelbourne FC
+12,Tue Oct 13 2020,20:45,Cork City,0-2,0-0,Dundalk FC
+16,Fri Oct 16 2020,18:45,Dundalk FC,0-0,0-0,Bohemian FC
+16,Sat Oct 17 2020,18:00,Cork City,0-0,0-0,Waterford FC
+16,Sun Oct 18 2020,18:00,Shelbourne FC,1-0,1-0,Sligo Rovers
+10,Mon Oct 19 2020,18:45,Derry City,1-2,1-2,Dundalk FC
+17,Fri Oct 23 2020,20:45,Derry City,2-0,1-0,Shelbourne FC
+17,Sat Oct 24 2020,18:00,Sligo Rovers,2-1,1-0,Cork City
+17,Sat Oct 24 2020,20:30,Bohemian FC,0-2,0-1,Finn Harps
+17,Sun Oct 25 2020,15:00,Waterford FC,1-0,0-0,Dundalk FC
+16,Wed Oct 28 2020,20:45,Finn Harps,3-2,2-1,St Patrick's Athletic
+15,Sun Nov 1 2020,18:45,St Patrick's Athletic,1-1,0-1,Dundalk FC
+15,Sun Nov 1 2020,20:45,Finn Harps,0-2,0-1,Shamrock Rovers
+17,Wed Nov 4 2020,20:45,Shamrock Rovers,0-0,0-0,St Patrick's Athletic
+16,Sat Nov 7 2020,16:00,Shamrock Rovers,2-0,0-0,Derry City
+18,Mon Nov 9 2020,20:30,Dundalk FC,0-2,0-1,Sligo Rovers
+18,Mon Nov 9 2020,20:30,St Patrick's Athletic,1-2,1-1,Bohemian FC
+18,Mon Nov 9 2020,20:30,Shelbourne FC,0-2,0-1,Shamrock Rovers
+18,Mon Nov 9 2020,20:30,Finn Harps,1-0,1-0,Waterford FC
+18,Mon Nov 9 2020,20:30,Cork City,1-1,0-0,Derry City
