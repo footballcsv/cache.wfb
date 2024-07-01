@@ -1,0 +1,553 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 4 2018,16:00,Bury FC,1-0,0-0,Yeovil Town
+1,Sat Aug 4 2018,16:00,Cheltenham Town,0-1,0-0,Crawley Town
+1,Sat Aug 4 2018,16:00,Crewe Alexandra,6-0,2-0,Morecambe FC
+1,Sat Aug 4 2018,16:00,Exeter City,3-1,2-1,Carlisle United
+1,Sat Aug 4 2018,16:00,Grimsby Town,1-4,1-0,Forest Green Rovers
+1,Sat Aug 4 2018,16:00,Mansfield Town,3-0,1-0,Newport County
+1,Sat Aug 4 2018,16:00,Northampton Town,0-1,0-0,Lincoln City
+1,Sat Aug 4 2018,16:00,Notts County,0-0,0-0,Colchester United
+1,Sat Aug 4 2018,16:00,Oldham Athletic,1-2,1-2,Milton Keynes Dons
+1,Sat Aug 4 2018,16:00,Port Vale FC,3-0,1-0,Cambridge United
+1,Sat Aug 4 2018,16:00,Stevenage FC,2-2,2-1,Tranmere Rovers
+1,Sat Aug 4 2018,16:00,Swindon Town,3-2,0-0,Macclesfield Town
+2,Sat Aug 11 2018,16:00,Cambridge United,3-2,0-1,Notts County
+2,Sat Aug 11 2018,16:00,Carlisle United,2-2,1-1,Northampton Town
+2,Sat Aug 11 2018,16:00,Colchester United,2-0,2-0,Port Vale FC
+2,Sat Aug 11 2018,16:00,Crawley Town,1-3,0-0,Stevenage FC
+2,Sat Aug 11 2018,16:00,Forest Green Rovers,1-1,1-0,Oldham Athletic
+2,Sat Aug 11 2018,16:00,Yeovil Town,2-2,2-2,Mansfield Town
+2,Sat Aug 11 2018,16:00,Macclesfield Town,0-2,0-1,Grimsby Town
+2,Sat Aug 11 2018,16:00,Milton Keynes Dons,1-0,0-0,Bury FC
+2,Sat Aug 11 2018,16:00,Morecambe FC,0-2,0-1,Exeter City
+2,Sat Aug 11 2018,16:00,Newport County,1-0,1-0,Crewe Alexandra
+2,Sat Aug 11 2018,16:00,Tranmere Rovers,1-0,1-0,Cheltenham Town
+2,Sat Aug 11 2018,16:00,Lincoln City,4-1,2-1,Swindon Town
+3,Fri Aug 17 2018,20:45,Notts County,0-4,0-2,Yeovil Town
+3,Sat Aug 18 2018,16:00,Exeter City,1-1,1-0,Newport County
+3,Sat Aug 18 2018,16:00,Bury FC,1-1,0-1,Forest Green Rovers
+3,Sat Aug 18 2018,16:00,Cheltenham Town,0-1,0-1,Carlisle United
+3,Sat Aug 18 2018,16:00,Crewe Alexandra,0-0,0-0,Milton Keynes Dons
+3,Sat Aug 18 2018,14:00,Grimsby Town,1-1,1-0,Lincoln City
+3,Sat Aug 18 2018,16:00,Mansfield Town,1-1,0-0,Colchester United
+3,Sat Aug 18 2018,16:00,Northampton Town,2-2,0-0,Cambridge United
+3,Sat Aug 18 2018,16:00,Oldham Athletic,3-1,1-0,Macclesfield Town
+3,Sat Aug 18 2018,16:00,Port Vale FC,1-0,1-0,Crawley Town
+3,Sat Aug 18 2018,16:00,Stevenage FC,1-0,1-0,Morecambe FC
+3,Sat Aug 18 2018,16:00,Swindon Town,3-2,1-2,Tranmere Rovers
+4,Tue Aug 21 2018,20:45,Cambridge United,0-2,0-2,Exeter City
+4,Tue Aug 21 2018,20:45,Carlisle United,2-1,1-0,Port Vale FC
+4,Tue Aug 21 2018,20:45,Colchester United,6-0,3-0,Crewe Alexandra
+4,Tue Aug 21 2018,20:45,Crawley Town,2-2,0-2,Swindon Town
+4,Tue Aug 21 2018,20:45,Forest Green Rovers,0-0,0-0,Stevenage FC
+4,Tue Aug 21 2018,20:45,Lincoln City,2-1,0-1,Bury FC
+4,Tue Aug 21 2018,20:45,Macclesfield Town,1-1,1-0,Cheltenham Town
+4,Tue Aug 21 2018,20:45,Milton Keynes Dons,1-1,0-1,Grimsby Town
+4,Tue Aug 21 2018,20:45,Morecambe FC,1-0,1-0,Northampton Town
+4,Tue Aug 21 2018,20:45,Newport County,3-2,2-1,Notts County
+4,Tue Aug 21 2018,20:45,Tranmere Rovers,0-0,0-0,Mansfield Town
+4,Tue Aug 21 2018,20:45,Yeovil Town,0-0,0-0,Oldham Athletic
+5,Sat Aug 25 2018,16:00,Cambridge United,0-1,0-0,Cheltenham Town
+5,Sat Aug 25 2018,16:00,Carlisle United,1-0,0-0,Crewe Alexandra
+5,Sat Aug 25 2018,16:00,Colchester United,1-2,0-0,Northampton Town
+5,Sat Aug 25 2018,16:00,Crawley Town,3-2,1-0,Bury FC
+5,Sat Aug 25 2018,16:00,Forest Green Rovers,1-1,1-1,Swindon Town
+5,Sat Aug 25 2018,16:00,Yeovil Town,2-0,2-0,Stevenage FC
+5,Sat Aug 25 2018,16:00,Macclesfield Town,1-1,0-1,Mansfield Town
+5,Sat Aug 25 2018,16:00,Milton Keynes Dons,1-0,0-0,Exeter City
+5,Sat Aug 25 2018,16:00,Morecambe FC,0-2,0-2,Oldham Athletic
+5,Sat Aug 25 2018,16:00,Newport County,1-0,1-0,Grimsby Town
+5,Sat Aug 25 2018,16:00,Tranmere Rovers,1-0,0-0,Port Vale FC
+5,Sat Aug 25 2018,16:00,Lincoln City,3-1,2-1,Notts County
+6,Sat Sep 1 2018,16:00,Bury FC,3-2,2-1,Morecambe FC
+6,Sat Sep 1 2018,16:00,Cheltenham Town,1-3,0-2,Colchester United
+6,Sat Sep 1 2018,16:00,Crewe Alexandra,3-0,2-0,Macclesfield Town
+6,Sat Sep 1 2018,16:00,Exeter City,0-3,0-2,Lincoln City
+6,Sat Sep 1 2018,16:00,Grimsby Town,0-1,0-0,Yeovil Town
+6,Sat Sep 1 2018,16:00,Mansfield Town,1-0,0-0,Carlisle United
+6,Sat Sep 1 2018,16:00,Northampton Town,1-1,0-0,Tranmere Rovers
+6,Sat Sep 1 2018,16:00,Notts County,1-3,0-1,Forest Green Rovers
+6,Sat Sep 1 2018,16:00,Oldham Athletic,2-1,1-1,Crawley Town
+6,Sat Sep 1 2018,16:00,Port Vale FC,1-2,1-1,Newport County
+6,Sat Sep 1 2018,16:00,Stevenage FC,0-1,0-1,Cambridge United
+6,Sat Sep 1 2018,16:00,Swindon Town,1-1,0-1,Milton Keynes Dons
+7,Sat Sep 8 2018,16:00,Bury FC,4-0,2-0,Grimsby Town
+7,Sat Sep 8 2018,16:00,Cambridge United,1-2,1-1,Carlisle United
+7,Sat Sep 8 2018,16:00,Exeter City,5-1,2-1,Notts County
+7,Sat Sep 8 2018,16:00,Forest Green Rovers,1-1,1-0,Port Vale FC
+7,Sat Sep 8 2018,16:00,Lincoln City,0-1,0-1,Crawley Town
+7,Sat Sep 8 2018,16:00,Morecambe FC,0-1,0-1,Swindon Town
+7,Sat Sep 8 2018,16:00,Northampton Town,1-3,0-1,Cheltenham Town
+7,Sat Sep 8 2018,16:00,Oldham Athletic,0-1,0-0,Newport County
+7,Sat Sep 8 2018,16:00,Stevenage FC,1-0,1-0,Macclesfield Town
+7,Sat Sep 8 2018,16:00,Tranmere Rovers,1-1,1-0,Colchester United
+8,Sat Sep 15 2018,16:00,Swindon Town,1-2,0-1,Bury FC
+8,Sat Sep 15 2018,16:00,Port Vale FC,2-0,1-0,Northampton Town
+8,Sat Sep 15 2018,16:00,Carlisle United,0-2,0-0,Tranmere Rovers
+8,Sat Sep 15 2018,16:00,Cheltenham Town,0-0,0-0,Crewe Alexandra
+8,Sat Sep 15 2018,16:00,Colchester United,3-0,2-0,Cambridge United
+8,Sat Sep 15 2018,16:00,Crawley Town,2-0,0-0,Morecambe FC
+8,Sat Sep 15 2018,16:00,Notts County,3-3,2-2,Stevenage FC
+8,Sat Sep 15 2018,16:00,Macclesfield Town,1-2,0-1,Lincoln City
+8,Sat Sep 15 2018,16:00,Mansfield Town,1-2,0-1,Exeter City
+8,Sat Sep 15 2018,16:00,Milton Keynes Dons,1-1,1-0,Forest Green Rovers
+8,Sat Sep 15 2018,16:00,Newport County,0-6,0-3,Yeovil Town
+8,Sat Sep 15 2018,16:00,Grimsby Town,0-3,0-0,Oldham Athletic
+9,Sat Sep 22 2018,16:00,Tranmere Rovers,0-1,0-1,Newport County
+9,Sat Sep 22 2018,16:00,Stevenage FC,1-0,0-0,Grimsby Town
+9,Sat Sep 22 2018,16:00,Bury FC,0-1,0-0,Carlisle United
+9,Sat Sep 22 2018,16:00,Cambridge United,1-1,0-1,Mansfield Town
+9,Sat Sep 22 2018,16:00,Crewe Alexandra,0-1,0-0,Port Vale FC
+9,Sat Sep 22 2018,16:00,Exeter City,3-1,0-1,Cheltenham Town
+9,Sat Sep 22 2018,16:00,Forest Green Rovers,1-0,0-0,Crawley Town
+9,Sat Sep 22 2018,16:00,Lincoln City,2-1,0-0,Milton Keynes Dons
+9,Sat Sep 22 2018,16:00,Morecambe FC,2-1,0-0,Macclesfield Town
+9,Sat Sep 22 2018,16:00,Northampton Town,0-0,0-0,Notts County
+9,Sat Sep 22 2018,16:00,Oldham Athletic,3-3,0-1,Colchester United
+9,Sat Sep 22 2018,16:00,Yeovil Town,0-3,0-0,Swindon Town
+7,Tue Sep 25 2018,20:45,Yeovil Town,1-1,0-1,Milton Keynes Dons
+10,Sat Sep 29 2018,16:00,Grimsby Town,1-2,1-0,Morecambe FC
+10,Sat Sep 29 2018,16:00,Carlisle United,0-1,0-0,Stevenage FC
+10,Sat Sep 29 2018,16:00,Cheltenham Town,0-2,0-0,Lincoln City
+10,Sat Sep 29 2018,16:00,Colchester United,1-2,0-1,Bury FC
+10,Sat Sep 29 2018,16:00,Crawley Town,3-1,1-1,Yeovil Town
+10,Sat Sep 29 2018,16:00,Port Vale FC,1-1,0-0,Exeter City
+10,Sat Sep 29 2018,16:00,Macclesfield Town,1-1,0-0,Forest Green Rovers
+10,Sat Sep 29 2018,16:00,Mansfield Town,4-0,1-0,Northampton Town
+10,Sat Sep 29 2018,16:00,Milton Keynes Dons,1-1,1-1,Tranmere Rovers
+10,Sat Sep 29 2018,16:00,Newport County,4-2,1-2,Cambridge United
+10,Sat Sep 29 2018,16:00,Notts County,2-1,1-1,Crewe Alexandra
+10,Sat Sep 29 2018,16:00,Swindon Town,0-0,0-0,Oldham Athletic
+11,Tue Oct 2 2018,20:45,Crewe Alexandra,1-0,1-0,Swindon Town
+11,Tue Oct 2 2018,20:45,Cambridge United,1-3,1-1,Forest Green Rovers
+11,Tue Oct 2 2018,20:45,Carlisle United,0-1,0-1,Grimsby Town
+11,Tue Oct 2 2018,20:45,Cheltenham Town,2-2,1-1,Morecambe FC
+11,Tue Oct 2 2018,20:45,Colchester United,3-1,1-0,Yeovil Town
+11,Tue Oct 2 2018,20:45,Tranmere Rovers,1-0,0-0,Lincoln City
+11,Tue Oct 2 2018,20:45,Exeter City,1-0,1-0,Stevenage FC
+11,Tue Oct 2 2018,20:45,Mansfield Town,0-0,0-0,Oldham Athletic
+11,Tue Oct 2 2018,20:45,Newport County,3-3,1-2,Macclesfield Town
+11,Tue Oct 2 2018,20:45,Northampton Town,0-0,0-0,Bury FC
+11,Tue Oct 2 2018,20:45,Notts County,3-1,2-0,Crawley Town
+11,Tue Oct 2 2018,20:45,Port Vale FC,0-2,0-2,Milton Keynes Dons
+12,Sat Oct 6 2018,16:00,Yeovil Town,2-2,0-1,Exeter City
+12,Sat Oct 6 2018,16:00,Bury FC,2-2,0-1,Mansfield Town
+12,Sat Oct 6 2018,16:00,Crawley Town,2-0,0-0,Cambridge United
+12,Sat Oct 6 2018,16:00,Forest Green Rovers,1-1,1-1,Newport County
+12,Sat Oct 6 2018,16:00,Grimsby Town,2-0,1-0,Port Vale FC
+12,Sat Oct 6 2018,16:00,Lincoln City,1-0,0-0,Crewe Alexandra
+12,Sat Oct 6 2018,16:00,Macclesfield Town,0-1,0-0,Notts County
+12,Sat Oct 6 2018,16:00,Milton Keynes Dons,3-0,1-0,Cheltenham Town
+12,Sat Oct 6 2018,16:00,Morecambe FC,3-4,1-2,Tranmere Rovers
+12,Sat Oct 6 2018,16:00,Oldham Athletic,1-3,0-1,Carlisle United
+12,Sat Oct 6 2018,16:00,Swindon Town,1-1,0-0,Northampton Town
+12,Sat Oct 6 2018,16:00,Stevenage FC,3-1,1-1,Colchester United
+13,Fri Oct 12 2018,20:45,Tranmere Rovers,1-0,0-0,Macclesfield Town
+13,Sat Oct 13 2018,16:00,Carlisle United,0-2,0-2,Morecambe FC
+13,Sat Oct 13 2018,15:00,Northampton Town,2-1,0-1,Forest Green Rovers
+13,Sat Oct 13 2018,16:00,Cambridge United,0-1,0-1,Milton Keynes Dons
+13,Sat Oct 13 2018,16:00,Port Vale FC,2-6,0-3,Lincoln City
+13,Sat Oct 13 2018,16:00,Colchester United,3-1,1-1,Crawley Town
+13,Sat Oct 13 2018,16:00,Crewe Alexandra,1-1,1-0,Bury FC
+13,Sat Oct 13 2018,16:00,Exeter City,2-0,1-0,Swindon Town
+13,Sat Oct 13 2018,16:00,Newport County,2-1,1-1,Stevenage FC
+14,Sat Oct 20 2018,16:00,Yeovil Town,0-0,0-0,Tranmere Rovers
+14,Sat Oct 20 2018,16:00,Stevenage FC,0-1,0-0,Crewe Alexandra
+14,Sat Oct 20 2018,16:00,Swindon Town,0-0,0-0,Mansfield Town
+14,Sat Oct 20 2018,16:00,Oldham Athletic,0-1,0-1,Port Vale FC
+14,Sat Oct 20 2018,16:00,Bury FC,4-0,2-0,Notts County
+14,Sat Oct 20 2018,16:00,Crawley Town,4-1,1-0,Newport County
+14,Sat Oct 20 2018,16:00,Forest Green Rovers,1-1,0-1,Cheltenham Town
+14,Sat Oct 20 2018,16:00,Grimsby Town,0-0,0-0,Exeter City
+14,Sat Oct 20 2018,16:00,Lincoln City,1-1,1-1,Cambridge United
+14,Sat Oct 20 2018,16:00,Macclesfield Town,2-1,0-0,Carlisle United
+14,Sat Oct 20 2018,16:00,Milton Keynes Dons,1-0,1-0,Northampton Town
+14,Sat Oct 20 2018,16:00,Morecambe FC,0-1,0-1,Colchester United
+15,Tue Oct 23 2018,20:45,Swindon Town,0-2,0-2,Cambridge United
+15,Tue Oct 23 2018,20:45,Oldham Athletic,2-0,0-0,Cheltenham Town
+15,Tue Oct 23 2018,20:45,Yeovil Town,1-1,1-1,Crewe Alexandra
+15,Tue Oct 23 2018,20:45,Stevenage FC,0-0,0-0,Port Vale FC
+15,Tue Oct 23 2018,20:45,Bury FC,1-1,1-0,Newport County
+15,Tue Oct 23 2018,20:45,Crawley Town,1-1,0-0,Exeter City
+15,Tue Oct 23 2018,20:45,Forest Green Rovers,3-1,2-0,Tranmere Rovers
+15,Tue Oct 23 2018,20:45,Grimsby Town,1-0,0-0,Colchester United
+15,Tue Oct 23 2018,20:45,Lincoln City,2-2,2-2,Carlisle United
+15,Tue Oct 23 2018,20:45,Macclesfield Town,0-5,0-4,Northampton Town
+15,Tue Oct 23 2018,20:45,Milton Keynes Dons,2-1,0-1,Notts County
+15,Tue Oct 23 2018,20:45,Morecambe FC,0-1,0-1,Mansfield Town
+16,Sat Oct 27 2018,16:00,Notts County,1-2,1-0,Swindon Town
+16,Sat Oct 27 2018,16:00,Tranmere Rovers,5-1,2-0,Crawley Town
+16,Sat Oct 27 2018,16:00,Northampton Town,2-1,2-0,Oldham Athletic
+16,Sat Oct 27 2018,16:00,Port Vale FC,1-0,0-0,Bury FC
+16,Sat Oct 27 2018,16:00,Cambridge United,1-0,0-0,Macclesfield Town
+16,Sat Oct 27 2018,16:00,Carlisle United,0-1,0-0,Yeovil Town
+16,Sat Oct 27 2018,16:00,Cheltenham Town,0-2,0-2,Stevenage FC
+16,Sat Oct 27 2018,16:00,Colchester United,1-0,1-0,Lincoln City
+16,Sat Oct 27 2018,16:00,Crewe Alexandra,2-0,0-0,Grimsby Town
+16,Sat Oct 27 2018,16:00,Exeter City,1-2,0-0,Forest Green Rovers
+16,Sat Oct 27 2018,16:00,Mansfield Town,1-1,1-1,Milton Keynes Dons
+16,Sat Oct 27 2018,16:00,Newport County,1-1,1-0,Morecambe FC
+7,Tue Oct 30 2018,20:45,Crewe Alexandra,0-3,0-2,Mansfield Town
+17,Sat Nov 3 2018,16:00,Port Vale FC,2-2,1-1,Notts County
+17,Sat Nov 3 2018,16:00,Stevenage FC,3-2,1-1,Oldham Athletic
+17,Sat Nov 3 2018,16:00,Tranmere Rovers,2-0,1-0,Exeter City
+17,Sat Nov 3 2018,16:00,Cambridge United,1-0,0-0,Grimsby Town
+17,Sat Nov 3 2018,16:00,Carlisle United,3-2,2-1,Newport County
+17,Sat Nov 3 2018,16:00,Cheltenham Town,2-2,2-1,Mansfield Town
+17,Sat Nov 3 2018,16:00,Colchester United,1-0,1-0,Swindon Town
+17,Sat Nov 3 2018,16:00,Northampton Town,2-0,1-0,Crewe Alexandra
+17,Sat Nov 3 2018,16:00,Lincoln City,2-1,1-1,Forest Green Rovers
+17,Sat Nov 3 2018,16:00,Macclesfield Town,1-4,1-3,Bury FC
+17,Sat Nov 3 2018,16:00,Morecambe FC,2-1,1-0,Yeovil Town
+17,Sat Nov 3 2018,16:00,Crawley Town,0-4,0-3,Milton Keynes Dons
+13,Tue Nov 6 2018,20:45,Mansfield Town,2-1,0-1,Grimsby Town
+13,Tue Nov 6 2018,20:45,Notts County,0-0,0-0,Oldham Athletic
+18,Sat Nov 17 2018,16:00,Swindon Town,0-4,0-1,Carlisle United
+18,Sat Nov 17 2018,16:00,Bury FC,4-0,0-0,Stevenage FC
+18,Sat Nov 17 2018,16:00,Crewe Alexandra,3-2,1-1,Tranmere Rovers
+18,Sat Nov 17 2018,16:00,Exeter City,2-2,2-1,Northampton Town
+18,Sat Nov 17 2018,16:00,Forest Green Rovers,0-1,0-0,Morecambe FC
+18,Sat Nov 17 2018,16:00,Grimsby Town,1-0,0-0,Crawley Town
+18,Sat Nov 17 2018,16:00,Mansfield Town,1-0,1-0,Port Vale FC
+18,Sat Nov 17 2018,16:00,Milton Keynes Dons,2-0,0-0,Macclesfield Town
+18,Sat Nov 17 2018,16:00,Newport County,2-0,0-0,Colchester United
+18,Sat Nov 17 2018,16:00,Oldham Athletic,3-1,0-1,Cambridge United
+18,Sat Nov 17 2018,16:00,Notts County,0-3,0-1,Cheltenham Town
+19,Sat Nov 24 2018,16:00,Port Vale FC,0-1,0-1,Swindon Town
+19,Sat Nov 24 2018,16:00,Tranmere Rovers,1-1,0-1,Oldham Athletic
+19,Sat Nov 24 2018,14:00,Lincoln City,1-1,0-0,Mansfield Town
+19,Sat Nov 24 2018,16:00,Cambridge United,2-2,1-2,Bury FC
+19,Sat Nov 24 2018,16:00,Carlisle United,1-2,0-1,Forest Green Rovers
+19,Sat Nov 24 2018,16:00,Cheltenham Town,2-1,2-0,Newport County
+19,Sat Nov 24 2018,16:00,Colchester United,1-1,0-0,Exeter City
+19,Sat Nov 24 2018,16:00,Crawley Town,3-0,1-0,Crewe Alexandra
+19,Sat Nov 24 2018,16:00,Macclesfield Town,1-0,0-0,Yeovil Town
+19,Sat Nov 24 2018,16:00,Morecambe FC,1-1,0-0,Notts County
+19,Sat Nov 24 2018,16:00,Northampton Town,2-2,1-1,Grimsby Town
+19,Sat Nov 24 2018,16:00,Stevenage FC,3-2,1-1,Milton Keynes Dons
+20,Tue Nov 27 2018,20:45,Forest Green Rovers,0-1,0-1,Colchester United
+20,Tue Nov 27 2018,20:45,Yeovil Town,0-3,0-2,Port Vale FC
+20,Tue Nov 27 2018,20:45,Bury FC,4-1,2-1,Cheltenham Town
+20,Tue Nov 27 2018,20:45,Crewe Alexandra,2-0,1-0,Cambridge United
+20,Tue Nov 27 2018,20:45,Exeter City,0-1,0-0,Macclesfield Town
+20,Tue Nov 27 2018,20:45,Swindon Town,3-2,3-1,Stevenage FC
+20,Tue Nov 27 2018,20:45,Grimsby Town,5-2,2-1,Tranmere Rovers
+20,Tue Nov 27 2018,20:45,Milton Keynes Dons,2-0,0-0,Morecambe FC
+20,Tue Nov 27 2018,20:45,Newport County,3-1,3-1,Northampton Town
+20,Tue Nov 27 2018,20:45,Notts County,1-1,0-0,Carlisle United
+20,Tue Nov 27 2018,20:45,Oldham Athletic,1-1,0-0,Lincoln City
+21,Sat Dec 8 2018,16:00,Stevenage FC,0-1,0-1,Lincoln City
+21,Sat Dec 8 2018,16:00,Yeovil Town,1-2,0-0,Forest Green Rovers
+21,Sat Dec 8 2018,16:00,Tranmere Rovers,1-0,0-0,Cambridge United
+21,Sat Dec 8 2018,14:00,Mansfield Town,2-0,1-0,Notts County
+21,Sat Dec 8 2018,16:00,Bury FC,2-0,1-0,Exeter City
+21,Sat Dec 8 2018,16:00,Swindon Town,2-1,1-0,Newport County
+21,Sat Dec 8 2018,16:00,Colchester United,1-0,1-0,Macclesfield Town
+21,Sat Dec 8 2018,16:00,Crawley Town,0-1,0-0,Northampton Town
+21,Sat Dec 8 2018,16:00,Crewe Alexandra,0-2,0-2,Oldham Athletic
+21,Sat Dec 8 2018,16:00,Milton Keynes Dons,2-0,0-0,Carlisle United
+21,Sat Dec 8 2018,16:00,Morecambe FC,2-2,2-0,Port Vale FC
+21,Sat Dec 8 2018,16:00,Cheltenham Town,2-1,1-0,Grimsby Town
+22,Sat Dec 15 2018,16:00,Oldham Athletic,4-2,3-0,Bury FC
+22,Sat Dec 15 2018,16:00,Port Vale FC,2-2,1-1,Cheltenham Town
+22,Sat Dec 15 2018,16:00,Notts County,3-2,2-1,Tranmere Rovers
+22,Sat Dec 15 2018,16:00,Cambridge United,0-0,0-0,Yeovil Town
+22,Sat Dec 15 2018,16:00,Carlisle United,4-0,1-0,Colchester United
+22,Sat Dec 15 2018,16:00,Exeter City,1-0,1-0,Crewe Alexandra
+22,Sat Dec 15 2018,16:00,Grimsby Town,2-1,1-1,Swindon Town
+22,Sat Dec 15 2018,16:00,Lincoln City,3-1,3-0,Morecambe FC
+22,Sat Dec 15 2018,16:00,Macclesfield Town,2-0,1-0,Crawley Town
+22,Sat Dec 15 2018,16:00,Northampton Town,1-1,1-0,Stevenage FC
+23,Sat Dec 22 2018,16:00,Stevenage FC,1-3,1-0,Mansfield Town
+23,Sat Dec 22 2018,16:00,Yeovil Town,1-1,0-0,Northampton Town
+23,Sat Dec 22 2018,16:00,Swindon Town,0-0,0-0,Cheltenham Town
+23,Sat Dec 22 2018,16:00,Oldham Athletic,2-3,1-1,Exeter City
+23,Sat Dec 22 2018,16:00,Morecambe FC,3-0,0-0,Cambridge United
+23,Sat Dec 22 2018,16:00,Bury FC,2-1,0-0,Tranmere Rovers
+23,Sat Dec 22 2018,16:00,Crawley Town,2-3,2-2,Carlisle United
+23,Sat Dec 22 2018,16:00,Forest Green Rovers,1-0,1-0,Crewe Alexandra
+23,Sat Dec 22 2018,16:00,Grimsby Town,4-0,2-0,Notts County
+23,Sat Dec 22 2018,16:00,Lincoln City,3-2,2-1,Newport County
+23,Sat Dec 22 2018,16:00,Macclesfield Town,0-0,0-0,Port Vale FC
+23,Sat Dec 22 2018,16:00,Milton Keynes Dons,0-1,0-1,Colchester United
+24,Wed Dec 26 2018,16:15,Colchester United,1-2,0-2,Stevenage FC
+24,Wed Dec 26 2018,16:00,Notts County,1-2,0-1,Macclesfield Town
+24,Wed Dec 26 2018,16:00,Northampton Town,1-1,1-0,Swindon Town
+24,Wed Dec 26 2018,16:00,Port Vale FC,0-1,0-0,Grimsby Town
+24,Wed Dec 26 2018,16:00,Tranmere Rovers,3-1,3-0,Morecambe FC
+24,Wed Dec 26 2018,16:00,Newport County,1-4,1-2,Forest Green Rovers
+24,Wed Dec 26 2018,14:00,Exeter City,2-1,1-0,Yeovil Town
+24,Wed Dec 26 2018,16:00,Carlisle United,6-0,2-0,Oldham Athletic
+24,Wed Dec 26 2018,16:00,Cheltenham Town,3-1,2-1,Milton Keynes Dons
+24,Wed Dec 26 2018,16:00,Crewe Alexandra,2-1,0-0,Lincoln City
+24,Wed Dec 26 2018,16:00,Mansfield Town,2-1,0-0,Bury FC
+24,Wed Dec 26 2018,14:00,Cambridge United,2-1,1-1,Crawley Town
+25,Sat Dec 29 2018,16:00,Port Vale FC,1-4,1-1,Oldham Athletic
+25,Sat Dec 29 2018,16:00,Tranmere Rovers,0-0,0-0,Yeovil Town
+25,Sat Dec 29 2018,16:00,Notts County,0-0,0-0,Bury FC
+25,Sat Dec 29 2018,16:00,Northampton Town,2-2,0-1,Milton Keynes Dons
+25,Sat Dec 29 2018,16:00,Mansfield Town,0-0,0-0,Swindon Town
+25,Sat Dec 29 2018,16:00,Cambridge United,1-2,1-0,Lincoln City
+25,Sat Dec 29 2018,16:00,Carlisle United,2-1,1-1,Macclesfield Town
+25,Sat Dec 29 2018,16:00,Cheltenham Town,2-2,0-0,Forest Green Rovers
+25,Sat Dec 29 2018,16:00,Colchester United,0-0,0-0,Morecambe FC
+25,Sat Dec 29 2018,16:00,Crewe Alexandra,1-0,1-0,Stevenage FC
+25,Sat Dec 29 2018,16:00,Exeter City,1-2,0-1,Grimsby Town
+25,Sat Dec 29 2018,16:00,Newport County,0-0,0-0,Crawley Town
+26,Tue Jan 1 2019,16:00,Oldham Athletic,2-0,1-0,Notts County
+26,Tue Jan 1 2019,16:00,Stevenage FC,1-0,0-0,Newport County
+26,Tue Jan 1 2019,16:00,Swindon Town,0-2,0-1,Exeter City
+26,Tue Jan 1 2019,16:00,Morecambe FC,0-2,0-1,Carlisle United
+26,Tue Jan 1 2019,16:00,Yeovil Town,1-4,0-2,Cheltenham Town
+26,Tue Jan 1 2019,14:00,Grimsby Town,0-1,0-1,Mansfield Town
+26,Tue Jan 1 2019,16:00,Bury FC,3-1,0-1,Crewe Alexandra
+26,Tue Jan 1 2019,16:00,Crawley Town,2-0,0-0,Colchester United
+26,Tue Jan 1 2019,16:00,Forest Green Rovers,2-1,1-0,Northampton Town
+26,Tue Jan 1 2019,16:00,Lincoln City,1-1,0-0,Port Vale FC
+26,Tue Jan 1 2019,16:00,Macclesfield Town,1-1,1-1,Tranmere Rovers
+26,Tue Jan 1 2019,16:00,Milton Keynes Dons,6-0,3-0,Cambridge United
+27,Sat Jan 5 2019,16:00,Cambridge United,2-0,2-0,Stevenage FC
+27,Sat Jan 5 2019,16:00,Crawley Town,1-0,1-0,Cheltenham Town
+27,Sat Jan 5 2019,16:00,Macclesfield Town,1-2,1-1,Swindon Town
+27,Sat Jan 5 2019,16:00,Morecambe FC,2-2,0-1,Crewe Alexandra
+27,Sat Jan 5 2019,16:00,Yeovil Town,0-1,0-1,Bury FC
+27,Sat Jan 5 2019,16:00,Colchester United,3-3,2-3,Notts County
+27,Sat Jan 5 2019,16:00,Carlisle United,3-2,2-0,Mansfield Town
+28,Sat Jan 12 2019,16:00,Mansfield Town,0-1,0-1,Yeovil Town
+28,Sat Jan 12 2019,16:00,Grimsby Town,0-2,0-2,Macclesfield Town
+28,Sat Jan 12 2019,16:00,Swindon Town,2-2,0-2,Lincoln City
+28,Sat Jan 12 2019,16:00,Crewe Alexandra,3-2,1-0,Newport County
+28,Sat Jan 12 2019,16:00,Stevenage FC,2-1,2-1,Crawley Town
+28,Sat Jan 12 2019,16:00,Port Vale FC,0-3,0-2,Colchester United
+28,Sat Jan 12 2019,16:00,Oldham Athletic,0-0,0-0,Forest Green Rovers
+28,Sat Jan 12 2019,16:00,Cheltenham Town,1-3,1-0,Tranmere Rovers
+28,Sat Jan 12 2019,16:00,Northampton Town,3-0,0-0,Carlisle United
+28,Sat Jan 12 2019,16:00,Exeter City,0-0,0-0,Morecambe FC
+28,Sat Jan 12 2019,16:00,Bury FC,4-3,1-2,Milton Keynes Dons
+28,Sat Jan 12 2019,16:00,Notts County,0-1,0-1,Cambridge United
+20,Tue Jan 15 2019,20:45,Mansfield Town,1-0,0-0,Crawley Town
+29,Sat Jan 19 2019,16:00,Tranmere Rovers,1-2,0-2,Swindon Town
+29,Sat Jan 19 2019,16:00,Macclesfield Town,2-1,1-1,Oldham Athletic
+29,Sat Jan 19 2019,16:00,Forest Green Rovers,1-2,1-0,Bury FC
+29,Sat Jan 19 2019,16:00,Milton Keynes Dons,0-1,0-1,Crewe Alexandra
+29,Sat Jan 19 2019,16:00,Morecambe FC,1-2,0-1,Stevenage FC
+29,Sat Jan 19 2019,16:00,Newport County,1-0,0-0,Exeter City
+29,Sat Jan 19 2019,16:00,Crawley Town,0-1,0-1,Port Vale FC
+29,Sat Jan 19 2019,16:00,Carlisle United,2-0,0-0,Cheltenham Town
+29,Sat Jan 19 2019,16:00,Colchester United,2-3,2-0,Mansfield Town
+29,Sat Jan 19 2019,14:00,Lincoln City,1-0,1-0,Grimsby Town
+29,Sat Jan 19 2019,16:00,Cambridge United,3-2,1-1,Northampton Town
+29,Sat Jan 19 2019,16:00,Yeovil Town,2-0,1-0,Notts County
+18,Tue Jan 22 2019,20:45,Yeovil Town,0-2,0-2,Lincoln City
+27,Tue Jan 22 2019,20:45,Forest Green Rovers,3-0,2-0,Grimsby Town
+30,Sat Jan 26 2019,16:00,Crewe Alexandra,2-1,0-1,Colchester United
+30,Sat Jan 26 2019,16:00,Grimsby Town,1-0,1-0,Milton Keynes Dons
+30,Sat Jan 26 2019,18:30,Bury FC,3-3,2-2,Lincoln City
+30,Sat Jan 26 2019,16:00,Swindon Town,0-1,0-1,Crawley Town
+30,Sat Jan 26 2019,16:00,Stevenage FC,0-2,0-1,Forest Green Rovers
+30,Sat Jan 26 2019,16:00,Port Vale FC,0-1,0-0,Carlisle United
+30,Sat Jan 26 2019,16:00,Mansfield Town,3-0,1-0,Tranmere Rovers
+30,Sat Jan 26 2019,15:00,Northampton Town,1-1,1-0,Morecambe FC
+30,Sat Jan 26 2019,16:00,Cheltenham Town,3-2,0-2,Macclesfield Town
+30,Sat Jan 26 2019,16:00,Exeter City,1-0,0-0,Cambridge United
+27,Tue Jan 29 2019,20:45,Milton Keynes Dons,2-1,1-0,Oldham Athletic
+27,Tue Jan 29 2019,20:45,Newport County,0-0,0-0,Port Vale FC
+22,Tue Jan 29 2019,20:45,Forest Green Rovers,1-1,0-1,Mansfield Town
+31,Sat Feb 2 2019,16:00,Notts County,1-1,1-1,Lincoln City
+31,Sat Feb 2 2019,16:00,Exeter City,3-1,2-0,Milton Keynes Dons
+31,Sat Feb 2 2019,16:00,Bury FC,1-1,0-0,Crawley Town
+31,Sat Feb 2 2019,16:00,Stevenage FC,1-0,0-0,Yeovil Town
+31,Sat Feb 2 2019,16:00,Northampton Town,0-4,0-1,Colchester United
+31,Sat Feb 2 2019,16:00,Mansfield Town,3-1,1-1,Macclesfield Town
+31,Sat Feb 2 2019,16:00,Grimsby Town,3-0,1-0,Newport County
+13,Tue Feb 5 2019,20:45,Cheltenham Town,1-0,0-0,Yeovil Town
+27,Tue Feb 5 2019,20:45,Tranmere Rovers,1-2,1-2,Northampton Town
+32,Sat Feb 9 2019,16:00,Newport County,1-0,1-0,Mansfield Town
+32,Sat Feb 9 2019,16:00,Morecambe FC,2-3,0-2,Bury FC
+32,Sat Feb 9 2019,16:00,Tranmere Rovers,2-0,1-0,Stevenage FC
+32,Sat Feb 9 2019,16:00,Yeovil Town,1-3,0-2,Grimsby Town
+32,Sat Feb 9 2019,16:00,Milton Keynes Dons,2-3,0-1,Swindon Town
+32,Sat Feb 9 2019,16:00,Macclesfield Town,3-3,1-2,Crewe Alexandra
+32,Sat Feb 9 2019,16:00,Lincoln City,1-1,1-1,Northampton Town
+32,Sat Feb 9 2019,16:00,Forest Green Rovers,1-2,0-0,Notts County
+32,Sat Feb 9 2019,16:00,Crawley Town,0-3,0-0,Oldham Athletic
+32,Sat Feb 9 2019,16:00,Cambridge United,1-0,1-0,Port Vale FC
+32,Sat Feb 9 2019,16:00,Carlisle United,1-1,0-1,Exeter City
+32,Sat Feb 9 2019,16:00,Colchester United,3-0,2-0,Cheltenham Town
+22,Tue Feb 12 2019,20:45,Newport County,0-1,0-0,Milton Keynes Dons
+31,Tue Feb 12 2019,20:45,Swindon Town,2-0,2-0,Forest Green Rovers
+30,Tue Feb 12 2019,20:45,Oldham Athletic,4-1,1-0,Yeovil Town
+31,Tue Feb 12 2019,20:45,Crewe Alexandra,2-1,1-1,Carlisle United
+33,Sat Feb 16 2019,16:00,Macclesfield Town,1-1,1-0,Colchester United
+33,Sat Feb 16 2019,16:00,Oldham Athletic,1-1,1-0,Crewe Alexandra
+33,Sat Feb 16 2019,16:00,Port Vale FC,0-1,0-0,Morecambe FC
+33,Sat Feb 16 2019,16:00,Northampton Town,0-0,0-0,Crawley Town
+33,Sat Feb 16 2019,16:00,Lincoln City,2-2,0-0,Stevenage FC
+33,Sat Feb 16 2019,14:00,Notts County,1-0,1-0,Mansfield Town
+33,Sat Feb 16 2019,16:00,Cambridge United,0-0,0-0,Tranmere Rovers
+33,Sat Feb 16 2019,16:00,Carlisle United,2-3,1-1,Milton Keynes Dons
+33,Sat Feb 16 2019,16:00,Exeter City,0-1,0-0,Bury FC
+33,Sat Feb 16 2019,16:00,Forest Green Rovers,3-0,2-0,Yeovil Town
+33,Sat Feb 16 2019,16:00,Grimsby Town,1-0,1-0,Cheltenham Town
+31,Tue Feb 19 2019,20:45,Oldham Athletic,1-2,0-1,Morecambe FC
+31,Tue Feb 19 2019,20:45,Port Vale FC,1-2,0-1,Tranmere Rovers
+31,Tue Feb 19 2019,20:45,Cheltenham Town,2-0,1-0,Cambridge United
+30,Tue Feb 19 2019,20:45,Notts County,1-4,1-3,Newport County
+34,Sat Feb 23 2019,16:00,Colchester United,1-1,0-0,Carlisle United
+34,Sat Feb 23 2019,16:00,Tranmere Rovers,1-0,0-0,Notts County
+34,Sat Feb 23 2019,16:00,Bury FC,3-1,0-1,Oldham Athletic
+34,Sat Feb 23 2019,16:00,Swindon Town,1-1,0-0,Grimsby Town
+34,Sat Feb 23 2019,16:00,Yeovil Town,1-0,1-0,Cambridge United
+34,Sat Feb 23 2019,16:00,Crawley Town,1-1,0-1,Macclesfield Town
+34,Sat Feb 23 2019,16:00,Crewe Alexandra,1-2,0-1,Exeter City
+34,Sat Feb 23 2019,16:00,Mansfield Town,1-0,0-0,Forest Green Rovers
+34,Sat Feb 23 2019,16:00,Milton Keynes Dons,2-0,0-0,Newport County
+34,Sat Feb 23 2019,16:00,Morecambe FC,0-2,0-1,Lincoln City
+34,Sat Feb 23 2019,16:00,Stevenage FC,1-2,0-1,Northampton Town
+34,Sat Feb 23 2019,16:00,Cheltenham Town,1-0,1-0,Port Vale FC
+27,Tue Feb 26 2019,20:45,Lincoln City,1-1,0-1,Exeter City
+35,Sat Mar 2 2019,16:00,Grimsby Town,0-2,0-1,Cambridge United
+35,Sat Mar 2 2019,16:00,Bury FC,3-0,1-0,Macclesfield Town
+35,Sat Mar 2 2019,16:00,Crewe Alexandra,0-2,0-2,Northampton Town
+35,Sat Mar 2 2019,16:00,Exeter City,0-1,0-1,Tranmere Rovers
+35,Sat Mar 2 2019,16:00,Forest Green Rovers,1-2,1-1,Lincoln City
+35,Sat Mar 2 2019,16:00,Yeovil Town,3-2,0-1,Morecambe FC
+35,Sat Mar 2 2019,16:00,Mansfield Town,4-2,2-0,Cheltenham Town
+35,Sat Mar 2 2019,16:00,Milton Keynes Dons,1-0,1-0,Crawley Town
+35,Sat Mar 2 2019,16:00,Newport County,2-0,1-0,Carlisle United
+35,Sat Mar 2 2019,16:00,Notts County,0-0,0-0,Port Vale FC
+35,Sat Mar 2 2019,16:00,Swindon Town,3-0,2-0,Colchester United
+35,Sat Mar 2 2019,16:00,Oldham Athletic,1-1,0-0,Stevenage FC
+37,Tue Mar 5 2019,20:45,Cheltenham Town,1-1,1-1,Bury FC
+36,Fri Mar 8 2019,20:45,Lincoln City,1-0,0-0,Yeovil Town
+36,Fri Mar 8 2019,20:45,Tranmere Rovers,1-0,0-0,Crewe Alexandra
+36,Sat Mar 9 2019,16:00,Cheltenham Town,4-1,2-0,Notts County
+36,Sat Mar 9 2019,16:00,Cambridge United,1-1,0-1,Oldham Athletic
+36,Sat Mar 9 2019,16:00,Carlisle United,2-1,1-1,Swindon Town
+36,Sat Mar 9 2019,15:00,Northampton Town,2-1,1-0,Exeter City
+36,Sat Mar 9 2019,16:00,Colchester United,3-0,2-0,Newport County
+36,Sat Mar 9 2019,16:00,Crawley Town,2-1,2-1,Grimsby Town
+36,Sat Mar 9 2019,16:00,Macclesfield Town,1-3,1-1,Milton Keynes Dons
+36,Sat Mar 9 2019,16:00,Morecambe FC,3-0,2-0,Forest Green Rovers
+36,Sat Mar 9 2019,16:00,Port Vale FC,2-1,0-0,Mansfield Town
+36,Sat Mar 9 2019,16:00,Stevenage FC,0-1,0-0,Bury FC
+37,Tue Mar 12 2019,20:45,Stevenage FC,2-0,1-0,Swindon Town
+37,Tue Mar 12 2019,20:45,Cambridge United,0-0,0-0,Crewe Alexandra
+37,Tue Mar 12 2019,20:45,Carlisle United,1-3,0-1,Notts County
+37,Tue Mar 12 2019,20:45,Colchester United,0-3,0-2,Forest Green Rovers
+37,Tue Mar 12 2019,20:45,Crawley Town,0-0,0-0,Mansfield Town
+37,Tue Mar 12 2019,20:45,Lincoln City,2-0,1-0,Oldham Athletic
+37,Tue Mar 12 2019,20:45,Tranmere Rovers,4-1,4-1,Grimsby Town
+37,Tue Mar 12 2019,20:45,Northampton Town,1-0,0-0,Newport County
+37,Tue Mar 12 2019,20:45,Port Vale FC,3-0,1-0,Yeovil Town
+37,Tue Mar 12 2019,20:45,Morecambe FC,4-2,2-0,Milton Keynes Dons
+38,Fri Mar 15 2019,20:45,Newport County,1-0,0-0,Cheltenham Town
+38,Sat Mar 16 2019,16:00,Grimsby Town,0-0,0-0,Northampton Town
+38,Sat Mar 16 2019,16:00,Swindon Town,0-0,0-0,Port Vale FC
+38,Sat Mar 16 2019,16:00,Crewe Alexandra,6-1,4-1,Crawley Town
+38,Sat Mar 16 2019,16:00,Exeter City,3-0,1-0,Colchester United
+38,Sat Mar 16 2019,16:00,Forest Green Rovers,1-1,1-0,Carlisle United
+38,Sat Mar 16 2019,16:00,Notts County,0-0,0-0,Morecambe FC
+38,Sat Mar 16 2019,16:00,Milton Keynes Dons,1-1,0-1,Stevenage FC
+38,Sat Mar 16 2019,16:00,Yeovil Town,0-2,0-2,Macclesfield Town
+38,Mon Mar 18 2019,20:45,Mansfield Town,1-1,1-0,Lincoln City
+39,Sat Mar 23 2019,16:00,Swindon Town,4-0,2-0,Morecambe FC
+39,Sat Mar 23 2019,16:00,Port Vale FC,0-2,0-0,Forest Green Rovers
+39,Sat Mar 23 2019,16:00,Notts County,0-1,0-0,Exeter City
+39,Sat Mar 23 2019,16:00,Milton Keynes Dons,2-0,1-0,Yeovil Town
+39,Sat Mar 23 2019,16:00,Carlisle United,2-2,2-1,Cambridge United
+39,Sat Mar 23 2019,16:00,Cheltenham Town,3-1,2-0,Northampton Town
+39,Sat Mar 23 2019,16:00,Colchester United,0-2,0-1,Tranmere Rovers
+39,Sat Mar 23 2019,16:00,Crawley Town,0-3,0-1,Lincoln City
+39,Sat Mar 23 2019,16:00,Grimsby Town,0-0,0-0,Bury FC
+39,Sat Mar 23 2019,16:00,Macclesfield Town,2-2,1-1,Stevenage FC
+39,Sat Mar 23 2019,16:00,Mansfield Town,1-2,0-0,Crewe Alexandra
+40,Sat Mar 30 2019,16:00,Exeter City,1-4,1-2,Mansfield Town
+40,Sat Mar 30 2019,16:00,Oldham Athletic,2-0,1-0,Grimsby Town
+40,Sat Mar 30 2019,16:00,Northampton Town,1-2,1-1,Port Vale FC
+40,Sat Mar 30 2019,16:00,Yeovil Town,1-3,0-0,Newport County
+40,Sat Mar 30 2019,16:00,Tranmere Rovers,3-0,1-0,Carlisle United
+40,Sat Mar 30 2019,16:00,Bury FC,1-3,1-1,Swindon Town
+40,Sat Mar 30 2019,16:00,Cambridge United,0-1,0-0,Colchester United
+40,Sat Mar 30 2019,16:00,Morecambe FC,1-0,0-0,Crawley Town
+40,Sat Mar 30 2019,16:00,Stevenage FC,0-3,0-3,Notts County
+40,Sat Mar 30 2019,16:00,Forest Green Rovers,1-2,0-1,Milton Keynes Dons
+40,Sat Mar 30 2019,16:00,Lincoln City,1-1,1-1,Macclesfield Town
+40,Sat Mar 30 2019,16:00,Crewe Alexandra,1-3,1-1,Cheltenham Town
+38,Tue Apr 2 2019,20:45,Oldham Athletic,2-0,1-0,Tranmere Rovers
+38,Tue Apr 2 2019,20:45,Bury FC,0-3,0-2,Cambridge United
+41,Sat Apr 6 2019,16:00,Macclesfield Town,1-1,1-1,Morecambe FC
+41,Sat Apr 6 2019,16:00,Port Vale FC,1-0,0-0,Crewe Alexandra
+41,Sat Apr 6 2019,16:00,Swindon Town,1-1,1-0,Yeovil Town
+41,Sat Apr 6 2019,16:00,Carlisle United,3-2,1-2,Bury FC
+41,Sat Apr 6 2019,16:00,Cheltenham Town,1-1,0-1,Exeter City
+41,Sat Apr 6 2019,16:00,Colchester United,0-2,0-2,Oldham Athletic
+41,Sat Apr 6 2019,16:00,Crawley Town,1-2,1-1,Forest Green Rovers
+41,Sat Apr 6 2019,16:00,Grimsby Town,0-2,0-1,Stevenage FC
+41,Sat Apr 6 2019,16:00,Notts County,2-2,1-1,Northampton Town
+41,Sat Apr 6 2019,16:00,Mansfield Town,1-0,0-0,Cambridge United
+41,Sat Apr 6 2019,16:00,Milton Keynes Dons,0-2,0-1,Lincoln City
+41,Sat Apr 6 2019,16:00,Newport County,0-0,0-0,Tranmere Rovers
+33,Tue Apr 9 2019,20:45,Newport County,0-0,0-0,Swindon Town
+37,Tue Apr 9 2019,20:45,Macclesfield Town,3-2,2-2,Exeter City
+42,Sat Apr 13 2019,16:00,Forest Green Rovers,2-0,0-0,Macclesfield Town
+42,Sat Apr 13 2019,16:00,Bury FC,2-0,0-0,Colchester United
+42,Sat Apr 13 2019,16:00,Cambridge United,0-3,0-2,Newport County
+42,Sat Apr 13 2019,16:00,Crewe Alexandra,3-0,1-0,Notts County
+42,Sat Apr 13 2019,16:00,Exeter City,2-0,1-0,Port Vale FC
+42,Sat Apr 13 2019,16:00,Tranmere Rovers,2-1,1-1,Milton Keynes Dons
+42,Sat Apr 13 2019,16:00,Lincoln City,1-1,1-0,Cheltenham Town
+42,Sat Apr 13 2019,16:00,Morecambe FC,1-1,0-0,Grimsby Town
+42,Sat Apr 13 2019,16:00,Northampton Town,1-1,0-1,Mansfield Town
+42,Sat Apr 13 2019,16:00,Oldham Athletic,2-2,1-1,Swindon Town
+42,Sat Apr 13 2019,16:00,Stevenage FC,3-0,1-0,Carlisle United
+42,Sat Apr 13 2019,16:00,Yeovil Town,0-1,0-0,Crawley Town
+43,Fri Apr 19 2019,16:00,Port Vale FC,1-4,0-1,Stevenage FC
+43,Fri Apr 19 2019,14:00,Exeter City,1-3,0-2,Crawley Town
+43,Fri Apr 19 2019,16:00,Cambridge United,0-0,0-0,Swindon Town
+43,Fri Apr 19 2019,16:00,Carlisle United,1-0,0-0,Lincoln City
+43,Fri Apr 19 2019,16:00,Cheltenham Town,0-0,0-0,Oldham Athletic
+43,Fri Apr 19 2019,16:00,Colchester United,1-0,1-0,Grimsby Town
+43,Fri Apr 19 2019,16:00,Crewe Alexandra,2-0,1-0,Yeovil Town
+43,Fri Apr 19 2019,16:00,Mansfield Town,4-0,1-0,Morecambe FC
+43,Fri Apr 19 2019,16:00,Newport County,3-1,2-1,Bury FC
+43,Fri Apr 19 2019,16:00,Northampton Town,3-1,1-1,Macclesfield Town
+43,Fri Apr 19 2019,16:00,Notts County,1-2,0-0,Milton Keynes Dons
+43,Fri Apr 19 2019,16:00,Tranmere Rovers,0-1,0-0,Forest Green Rovers
+44,Mon Apr 22 2019,16:00,Macclesfield Town,0-0,0-0,Newport County
+44,Mon Apr 22 2019,16:00,Bury FC,3-1,1-1,Northampton Town
+44,Mon Apr 22 2019,16:00,Crawley Town,1-1,1-1,Notts County
+44,Mon Apr 22 2019,16:00,Forest Green Rovers,2-1,1-0,Cambridge United
+44,Mon Apr 22 2019,16:00,Grimsby Town,1-0,0-0,Carlisle United
+44,Mon Apr 22 2019,16:00,Lincoln City,0-0,0-0,Tranmere Rovers
+44,Mon Apr 22 2019,16:00,Swindon Town,1-2,0-2,Crewe Alexandra
+44,Mon Apr 22 2019,16:00,Milton Keynes Dons,1-1,0-0,Port Vale FC
+44,Mon Apr 22 2019,16:00,Morecambe FC,4-0,0-0,Cheltenham Town
+44,Mon Apr 22 2019,16:00,Oldham Athletic,3-2,1-0,Mansfield Town
+44,Mon Apr 22 2019,16:00,Stevenage FC,1-1,1-1,Exeter City
+44,Mon Apr 22 2019,16:00,Yeovil Town,1-1,0-0,Colchester United
+45,Sat Apr 27 2019,16:00,Port Vale FC,0-1,0-0,Macclesfield Town
+45,Sat Apr 27 2019,16:00,Cambridge United,1-2,0-1,Morecambe FC
+45,Sat Apr 27 2019,16:00,Carlisle United,4-2,4-1,Crawley Town
+45,Sat Apr 27 2019,16:00,Cheltenham Town,3-2,3-0,Swindon Town
+45,Sat Apr 27 2019,16:00,Colchester United,2-0,1-0,Milton Keynes Dons
+45,Sat Apr 27 2019,16:00,Crewe Alexandra,4-3,1-1,Forest Green Rovers
+45,Sat Apr 27 2019,16:00,Exeter City,1-0,0-0,Oldham Athletic
+45,Sat Apr 27 2019,16:00,Mansfield Town,1-2,0-0,Stevenage FC
+45,Sat Apr 27 2019,16:00,Newport County,1-0,1-0,Lincoln City
+45,Sat Apr 27 2019,16:00,Northampton Town,2-2,0-2,Yeovil Town
+45,Sat Apr 27 2019,16:00,Notts County,2-1,0-0,Grimsby Town
+39,Tue Apr 30 2019,20:45,Newport County,2-0,0-0,Oldham Athletic
+45,Tue Apr 30 2019,20:45,Tranmere Rovers,1-1,1-0,Bury FC
+46,Sat May 4 2019,16:00,Macclesfield Town,1-1,0-1,Cambridge United
+46,Sat May 4 2019,16:00,Crawley Town,3-1,2-0,Tranmere Rovers
+46,Sat May 4 2019,16:00,Forest Green Rovers,0-0,0-0,Exeter City
+46,Sat May 4 2019,16:00,Grimsby Town,2-0,2-0,Crewe Alexandra
+46,Sat May 4 2019,16:00,Lincoln City,0-3,0-3,Colchester United
+46,Sat May 4 2019,16:00,Bury FC,1-1,1-1,Port Vale FC
+46,Sat May 4 2019,16:00,Milton Keynes Dons,1-0,1-0,Mansfield Town
+46,Sat May 4 2019,16:00,Morecambe FC,1-1,1-0,Newport County
+46,Sat May 4 2019,16:00,Oldham Athletic,2-5,1-3,Northampton Town
+46,Sat May 4 2019,16:00,Stevenage FC,2-0,0-0,Cheltenham Town
+46,Sat May 4 2019,16:00,Swindon Town,3-1,0-0,Notts County
+46,Sat May 4 2019,16:00,Yeovil Town,0-0,0-0,Carlisle United

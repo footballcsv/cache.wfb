@@ -1,0 +1,463 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 17 2012,19:00,FC Barcelona B,4-5,2-2,UD Almería
+1,Fri Aug 17 2012,19:00,CD Mirandés,0-1,0-1,SD Huesca
+1,Fri Aug 17 2012,21:00,Villarreal CF,2-1,1-1,Real Madrid Castilla
+1,Sat Aug 18 2012,19:00,Girona FC,0-0,0-0,CE Sabadell
+1,Sat Aug 18 2012,21:00,Xerez CD,2-0,0-0,Recreativo Huelva
+1,Sat Aug 18 2012,19:00,CD Lugo,1-0,1-0,Hércules CF
+1,Sun Aug 19 2012,19:00,Racing Santander,0-1,0-1,UD Las Palmas
+1,Sun Aug 19 2012,19:00,CD Numancia,2-0,1-0,Sporting Gijón
+1,Sun Aug 19 2012,21:00,AD Alcorcón,1-1,0-0,CD Guadalajara
+1,Sun Aug 19 2012,21:00,Elche CF,4-2,3-1,SD Ponferradina
+1,Mon Aug 20 2012,21:00,Real Murcia,0-0,0-0,Córdoba CF
+2,Fri Aug 24 2012,21:00,UD Almería,2-1,2-1,Xerez CD
+2,Sat Aug 25 2012,19:00,SD Ponferradina,2-0,0-0,AD Alcorcón
+2,Sat Aug 25 2012,19:00,CD Guadalajara,1-5,1-1,Girona FC
+2,Sat Aug 25 2012,19:00,CE Sabadell,0-0,0-0,Villarreal CF
+2,Sat Aug 25 2012,19:00,UD Las Palmas,1-1,1-1,CD Lugo
+2,Sat Aug 25 2012,21:00,Real Madrid Castilla,3-2,2-1,FC Barcelona B
+2,Sat Aug 25 2012,19:00,SD Huesca,1-1,1-1,CD Numancia
+2,Sat Aug 25 2012,19:00,Recreativo Huelva,1-0,0-0,CD Mirandés
+2,Sat Aug 25 2012,19:00,Sporting Gijón,2-3,1-1,Real Murcia
+2,Sun Aug 26 2012,20:00,Hércules CF,1-2,0-2,Elche CF
+2,Sun Aug 26 2012,22:00,Córdoba CF,2-0,1-0,Racing Santander
+3,Sat Sep 1 2012,18:00,CD Lugo,1-1,1-0,Córdoba CF
+3,Sat Sep 1 2012,18:00,Elche CF,3-1,1-0,UD Las Palmas
+3,Sat Sep 1 2012,18:00,Girona FC,1-0,1-0,SD Ponferradina
+3,Sat Sep 1 2012,18:00,Real Murcia,2-1,2-0,SD Huesca
+3,Sat Sep 1 2012,22:00,UD Almería,1-0,1-0,Real Madrid Castilla
+3,Sat Sep 1 2012,18:00,Xerez CD,0-4,0-1,CD Mirandés
+3,Sat Sep 1 2012,20:00,Villarreal CF,2-1,0-1,CD Guadalajara
+3,Sat Sep 1 2012,18:00,CD Numancia,0-0,0-0,Recreativo Huelva
+3,Sun Sep 2 2012,12:00,Racing Santander,0-0,0-0,Sporting Gijón
+3,Sun Sep 2 2012,16:00,AD Alcorcón,1-0,1-0,Hércules CF
+3,Sun Sep 2 2012,18:00,FC Barcelona B,2-0,1-0,CE Sabadell
+4,Sat Sep 8 2012,16:00,Recreativo Huelva,3-2,2-0,Real Murcia
+4,Sat Sep 8 2012,18:00,CE Sabadell,3-0,2-0,UD Almería
+4,Sat Sep 8 2012,18:00,CD Guadalajara,0-1,0-0,FC Barcelona B
+4,Sat Sep 8 2012,18:00,SD Ponferradina,0-1,0-0,Villarreal CF
+4,Sat Sep 8 2012,18:00,CD Mirandés,0-0,0-0,CD Numancia
+4,Sat Sep 8 2012,22:00,Real Madrid Castilla,3-2,2-1,Xerez CD
+4,Sat Sep 8 2012,20:00,UD Las Palmas,1-3,1-2,AD Alcorcón
+4,Sat Sep 8 2012,20:00,Hércules CF,2-1,2-1,Girona FC
+4,Sun Sep 9 2012,12:00,Córdoba CF,0-1,0-1,Elche CF
+4,Sun Sep 9 2012,18:00,SD Huesca,1-1,0-1,Racing Santander
+4,Sun Sep 9 2012,18:00,Sporting Gijón,1-1,1-1,CD Lugo
+5,Fri Sep 14 2012,21:00,Real Madrid Castilla,2-3,2-0,CE Sabadell
+5,Sat Sep 15 2012,20:00,Real Murcia,2-2,0-2,CD Mirandés
+5,Sat Sep 15 2012,18:00,FC Barcelona B,2-1,1-1,SD Ponferradina
+5,Sat Sep 15 2012,18:00,AD Alcorcón,2-1,1-0,Córdoba CF
+5,Sat Sep 15 2012,18:00,UD Almería,4-0,2-0,CD Guadalajara
+5,Sat Sep 15 2012,18:00,CD Lugo,2-4,0-1,SD Huesca
+5,Sat Sep 15 2012,18:00,Racing Santander,3-0,0-0,Recreativo Huelva
+5,Sat Sep 15 2012,18:00,Xerez CD,2-0,1-0,CD Numancia
+5,Sat Sep 15 2012,18:00,Elche CF,2-1,1-0,Sporting Gijón
+5,Sun Sep 16 2012,12:00,Girona FC,5-0,2-0,UD Las Palmas
+5,Sun Sep 16 2012,20:30,Villarreal CF,1-0,1-0,Hércules CF
+6,Sat Sep 22 2012,18:00,UD Las Palmas,2-2,0-1,Villarreal CF
+6,Sat Sep 22 2012,18:00,CE Sabadell,3-0,1-0,Xerez CD
+6,Sat Sep 22 2012,18:00,SD Ponferradina,2-2,2-1,UD Almería
+6,Sat Sep 22 2012,16:00,Hércules CF,0-3,0-0,FC Barcelona B
+6,Sat Sep 22 2012,22:00,Córdoba CF,2-0,0-0,Girona FC
+6,Sat Sep 22 2012,18:00,SD Huesca,0-0,0-0,Elche CF
+6,Sat Sep 22 2012,18:00,Recreativo Huelva,3-0,0-0,CD Lugo
+6,Sat Sep 22 2012,18:00,CD Mirandés,0-1,0-0,Racing Santander
+6,Sat Sep 22 2012,20:00,CD Guadalajara,3-4,1-1,Real Madrid Castilla
+6,Sat Sep 22 2012,18:00,Sporting Gijón,2-1,0-1,AD Alcorcón
+6,Sun Sep 23 2012,12:00,CD Numancia,1-0,0-0,Real Murcia
+7,Fri Sep 28 2012,21:00,Real Madrid Castilla,1-2,1-0,SD Ponferradina
+7,Sat Sep 29 2012,18:00,AD Alcorcón,1-0,0-0,SD Huesca
+7,Sat Sep 29 2012,18:00,FC Barcelona B,1-1,1-0,UD Las Palmas
+7,Sat Sep 29 2012,18:00,Villarreal CF,2-0,0-0,Córdoba CF
+7,Sat Sep 29 2012,16:00,Girona FC,3-1,3-0,Sporting Gijón
+7,Sat Sep 29 2012,18:00,CD Lugo,2-0,1-0,CD Mirandés
+7,Sat Sep 29 2012,18:00,Racing Santander,1-1,1-0,CD Numancia
+7,Sat Sep 29 2012,18:00,Xerez CD,0-3,0-2,Real Murcia
+7,Sat Sep 29 2012,20:00,CE Sabadell,2-1,1-0,CD Guadalajara
+7,Sat Sep 29 2012,20:00,Elche CF,3-0,3-0,Recreativo Huelva
+7,Sun Sep 30 2012,20:30,UD Almería,0-0,0-0,Hércules CF
+8,Sat Oct 6 2012,18:00,SD Huesca,0-0,0-0,Girona FC
+8,Sat Oct 6 2012,18:00,SD Ponferradina,3-1,1-0,CE Sabadell
+8,Sat Oct 6 2012,20:00,Real Murcia,1-0,0-0,Racing Santander
+8,Sat Oct 6 2012,18:00,CD Guadalajara,1-1,0-0,Xerez CD
+8,Sat Oct 6 2012,18:00,Recreativo Huelva,4-2,1-1,AD Alcorcón
+8,Sat Oct 6 2012,18:00,CD Mirandés,1-2,0-1,Elche CF
+8,Sat Oct 6 2012,18:00,CD Numancia,3-0,1-0,CD Lugo
+8,Sat Oct 6 2012,18:30,UD Las Palmas,1-2,0-0,UD Almería
+8,Sat Oct 6 2012,18:00,Córdoba CF,2-1,2-0,FC Barcelona B
+8,Sun Oct 7 2012,12:00,Sporting Gijón,2-0,1-0,Villarreal CF
+8,Mon Oct 8 2012,21:30,Hércules CF,2-4,2-1,Real Madrid Castilla
+9,Sat Oct 13 2012,18:00,FC Barcelona B,3-0,1-0,Sporting Gijón
+9,Sat Oct 13 2012,18:00,CD Guadalajara,2-0,0-0,SD Ponferradina
+9,Sat Oct 13 2012,18:00,AD Alcorcón,4-0,1-0,CD Mirandés
+9,Sat Oct 13 2012,18:00,CD Lugo,2-1,1-0,Real Murcia
+9,Sat Oct 13 2012,21:00,Villarreal CF,1-1,1-1,SD Huesca
+9,Sat Oct 13 2012,18:00,Xerez CD,1-1,1-1,Racing Santander
+9,Sun Oct 14 2012,12:00,Elche CF,4-0,2-0,CD Numancia
+9,Sun Oct 14 2012,17:00,CE Sabadell,1-2,0-2,Hércules CF
+9,Sun Oct 14 2012,20:30,UD Almería,3-0,1-0,Córdoba CF
+9,Sun Oct 14 2012,19:00,Girona FC,5-2,1-0,Recreativo Huelva
+9,Mon Oct 15 2012,21:00,Real Madrid Castilla,3-2,2-1,UD Las Palmas
+10,Sat Oct 20 2012,16:00,Córdoba CF,1-0,0-0,Real Madrid Castilla
+10,Sat Oct 20 2012,18:00,SD Ponferradina,0-1,0-0,Xerez CD
+10,Sat Oct 20 2012,18:00,CD Numancia,0-1,0-0,AD Alcorcón
+10,Sat Oct 20 2012,18:00,Sporting Gijón,2-1,0-0,UD Almería
+10,Sat Oct 20 2012,18:00,CD Mirandés,1-1,0-0,Girona FC
+10,Sat Oct 20 2012,18:00,Hércules CF,0-0,0-0,CD Guadalajara
+10,Sun Oct 21 2012,12:00,Racing Santander,0-0,0-0,CD Lugo
+10,Sun Oct 21 2012,20:30,Real Murcia,1-0,0-0,Elche CF
+10,Sun Oct 21 2012,19:00,UD Las Palmas,1-0,1-0,CE Sabadell
+10,Sun Oct 21 2012,18:00,Recreativo Huelva,2-0,0-0,Villarreal CF
+11,Fri Oct 26 2012,21:00,FC Barcelona B,2-3,1-1,Recreativo Huelva
+11,Sat Oct 27 2012,16:00,UD Almería,1-0,0-0,SD Huesca
+11,Sat Oct 27 2012,18:00,Villarreal CF,2-0,1-0,CD Mirandés
+11,Sat Oct 27 2012,18:00,CD Guadalajara,2-3,2-1,UD Las Palmas
+11,Sat Oct 27 2012,18:00,CE Sabadell,1-1,0-1,Córdoba CF
+11,Sun Oct 28 2012,18:00,Xerez CD,1-0,1-0,CD Lugo
+11,Sun Oct 28 2012,12:00,Real Madrid Castilla,2-4,1-2,Sporting Gijón
+11,Sun Oct 28 2012,18:00,SD Ponferradina,1-0,0-0,Hércules CF
+11,Sun Oct 28 2012,18:00,Elche CF,1-0,1-0,Racing Santander
+11,Sun Oct 28 2012,18:00,AD Alcorcón,1-0,1-0,Real Murcia
+11,Sun Oct 28 2012,18:00,Girona FC,3-1,0-1,CD Numancia
+10,Wed Oct 31 2012,20:00,SD Huesca,1-4,1-0,FC Barcelona B
+12,Sat Nov 3 2012,16:00,CD Numancia,1-1,0-0,Villarreal CF
+12,Sat Nov 3 2012,16:00,CD Mirandés,3-0,1-0,FC Barcelona B
+12,Sat Nov 3 2012,18:00,Real Murcia,0-1,0-0,Girona FC
+12,Sat Nov 3 2012,18:00,Racing Santander,2-1,1-0,AD Alcorcón
+12,Sun Nov 4 2012,12:00,Hércules CF,1-5,0-2,Xerez CD
+12,Sun Nov 4 2012,12:00,Córdoba CF,1-0,0-0,CD Guadalajara
+12,Sun Nov 4 2012,12:00,SD Huesca,2-2,0-1,Real Madrid Castilla
+12,Sun Nov 4 2012,20:30,Recreativo Huelva,0-2,0-1,UD Almería
+12,Sun Nov 4 2012,18:00,CD Lugo,1-0,0-0,Elche CF
+12,Sun Nov 4 2012,20:00,Sporting Gijón,0-0,0-0,CE Sabadell
+12,Sun Nov 4 2012,18:00,UD Las Palmas,1-0,0-0,SD Ponferradina
+13,Sat Nov 10 2012,16:00,Girona FC,1-0,1-0,Racing Santander
+13,Sat Nov 10 2012,18:00,CD Guadalajara,2-1,2-1,Sporting Gijón
+13,Sat Nov 10 2012,18:00,FC Barcelona B,3-3,1-0,CD Numancia
+13,Sat Nov 10 2012,20:00,CE Sabadell,1-0,1-0,SD Huesca
+13,Sat Nov 10 2012,21:30,Xerez CD,0-0,0-0,Elche CF
+13,Sun Nov 11 2012,12:00,Hércules CF,0-2,0-2,UD Las Palmas
+13,Sun Nov 11 2012,12:00,Villarreal CF,1-1,0-0,Real Murcia
+13,Sun Nov 11 2012,16:00,SD Ponferradina,3-5,1-3,Córdoba CF
+13,Sun Nov 11 2012,16:00,UD Almería,0-0,0-0,CD Mirandés
+13,Sun Nov 11 2012,16:00,AD Alcorcón,2-1,0-0,CD Lugo
+13,Mon Nov 12 2012,21:00,Real Madrid Castilla,0-1,0-0,Recreativo Huelva
+14,Fri Nov 16 2012,21:00,Sporting Gijón,2-3,2-1,SD Ponferradina
+14,Sat Nov 17 2012,19:00,UD Las Palmas,1-1,1-0,Xerez CD
+14,Sat Nov 17 2012,16:00,Racing Santander,0-3,0-2,Villarreal CF
+14,Sat Nov 17 2012,18:00,CD Lugo,1-2,0-1,Girona FC
+14,Sat Nov 17 2012,18:00,Real Murcia,1-0,1-0,FC Barcelona B
+14,Sun Nov 18 2012,12:00,Córdoba CF,1-2,1-1,Hércules CF
+14,Sun Nov 18 2012,12:00,Recreativo Huelva,2-5,1-2,CE Sabadell
+14,Sun Nov 18 2012,18:00,CD Numancia,0-0,0-0,UD Almería
+14,Sun Nov 18 2012,16:00,SD Huesca,2-1,0-1,CD Guadalajara
+14,Sun Nov 18 2012,18:00,CD Mirandés,0-0,0-0,Real Madrid Castilla
+14,Sun Nov 18 2012,12:00,Elche CF,1-0,0-0,AD Alcorcón
+15,Sat Nov 24 2012,18:00,UD Las Palmas,3-0,1-0,Córdoba CF
+15,Sat Nov 24 2012,18:00,Hércules CF,1-1,1-1,Sporting Gijón
+15,Sat Nov 24 2012,18:00,CD Guadalajara,1-0,1-0,Recreativo Huelva
+15,Sat Nov 24 2012,18:00,Girona FC,0-1,0-1,Elche CF
+15,Sat Nov 24 2012,20:00,CE Sabadell,1-1,1-1,CD Mirandés
+15,Sat Nov 24 2012,20:00,Villarreal CF,1-1,1-0,CD Lugo
+15,Sun Nov 25 2012,12:00,FC Barcelona B,4-1,3-0,Racing Santander
+15,Sun Nov 25 2012,19:00,Real Madrid Castilla,2-4,1-1,CD Numancia
+15,Sun Nov 25 2012,17:00,UD Almería,3-2,2-0,Real Murcia
+15,Sun Nov 25 2012,17:00,Xerez CD,2-4,0-1,AD Alcorcón
+15,Sun Nov 25 2012,17:00,SD Ponferradina,2-1,0-1,SD Huesca
+16,Fri Nov 30 2012,21:30,Real Murcia,0-0,0-0,Real Madrid Castilla
+16,Sat Dec 1 2012,18:00,Córdoba CF,0-0,0-0,Xerez CD
+16,Sat Dec 1 2012,18:00,CD Lugo,1-2,1-0,FC Barcelona B
+16,Sat Dec 1 2012,18:00,Sporting Gijón,1-1,0-1,UD Las Palmas
+16,Sun Dec 2 2012,12:00,Recreativo Huelva,0-2,0-1,SD Ponferradina
+16,Sun Dec 2 2012,12:00,Racing Santander,3-4,1-3,UD Almería
+16,Sun Dec 2 2012,17:00,SD Huesca,1-1,1-0,Hércules CF
+16,Sun Dec 2 2012,17:00,CD Mirandés,0-0,0-0,CD Guadalajara
+16,Sun Dec 2 2012,17:00,CD Numancia,2-1,0-1,CE Sabadell
+16,Sun Dec 2 2012,20:30,Elche CF,1-0,0-0,Villarreal CF
+16,Sun Dec 2 2012,17:00,AD Alcorcón,4-1,2-1,Girona FC
+17,Sat Dec 8 2012,18:00,UD Las Palmas,4-0,1-0,SD Huesca
+17,Sat Dec 8 2012,20:00,CE Sabadell,2-2,1-0,Real Murcia
+17,Sat Dec 8 2012,18:00,UD Almería,0-1,0-0,CD Lugo
+17,Sat Dec 8 2012,18:00,FC Barcelona B,1-1,1-0,Elche CF
+17,Sat Dec 8 2012,18:00,CD Guadalajara,5-1,2-0,CD Numancia
+17,Sun Dec 9 2012,12:00,Córdoba CF,1-1,1-0,Sporting Gijón
+17,Sun Dec 9 2012,12:00,Hércules CF,1-1,0-0,Recreativo Huelva
+17,Sun Dec 9 2012,17:00,SD Ponferradina,3-1,1-1,CD Mirandés
+17,Sun Dec 9 2012,17:00,Villarreal CF,4-0,0-0,AD Alcorcón
+17,Sun Dec 9 2012,17:00,Xerez CD,0-2,0-1,Girona FC
+17,Sun Dec 9 2012,19:00,Real Madrid Castilla,4-0,2-0,Racing Santander
+18,Fri Dec 14 2012,21:00,CD Lugo,3-2,2-2,Real Madrid Castilla
+18,Sat Dec 15 2012,20:00,Girona FC,2-0,0-0,Villarreal CF
+18,Sat Dec 15 2012,18:00,SD Huesca,1-3,1-1,Córdoba CF
+18,Sat Dec 15 2012,20:00,Real Murcia,0-1,0-0,CD Guadalajara
+18,Sat Dec 15 2012,18:00,AD Alcorcón,1-1,1-0,FC Barcelona B
+18,Sun Dec 16 2012,12:00,Racing Santander,0-1,0-1,CE Sabadell
+18,Sun Dec 16 2012,12:00,Elche CF,1-0,0-0,UD Almería
+18,Sun Dec 16 2012,17:00,CD Numancia,0-1,0-1,SD Ponferradina
+18,Sun Dec 16 2012,17:00,Recreativo Huelva,0-0,0-0,UD Las Palmas
+18,Sun Dec 16 2012,17:00,CD Mirandés,3-2,3-0,Hércules CF
+18,Sun Dec 16 2012,17:00,Sporting Gijón,3-0,0-0,Xerez CD
+19,Thu Dec 20 2012,20:00,Xerez CD,0-0,0-0,Villarreal CF
+19,Fri Dec 21 2012,20:00,Real Madrid Castilla,0-1,0-0,Elche CF
+19,Fri Dec 21 2012,22:00,UD Almería,0-1,0-1,AD Alcorcón
+19,Sat Dec 22 2012,18:00,Sporting Gijón,1-0,0-0,SD Huesca
+19,Sat Dec 22 2012,16:00,FC Barcelona B,4-4,1-0,Girona FC
+19,Sat Dec 22 2012,16:00,Córdoba CF,0-2,0-1,Recreativo Huelva
+19,Sat Dec 22 2012,18:00,UD Las Palmas,2-0,1-0,CD Mirandés
+19,Sat Dec 22 2012,18:00,Hércules CF,1-3,1-3,CD Numancia
+19,Sat Dec 22 2012,18:00,SD Ponferradina,1-0,0-0,Real Murcia
+19,Sat Dec 22 2012,18:00,CE Sabadell,0-1,0-1,CD Lugo
+19,Sat Dec 22 2012,18:00,CD Guadalajara,1-1,1-1,Racing Santander
+20,Sat Jan 5 2013,18:00,Recreativo Huelva,1-1,0-1,Sporting Gijón
+20,Sat Jan 5 2013,18:00,Racing Santander,2-1,1-1,SD Ponferradina
+20,Sat Jan 5 2013,18:00,Villarreal CF,1-3,0-1,FC Barcelona B
+20,Sat Jan 5 2013,20:00,AD Alcorcón,3-2,1-2,Real Madrid Castilla
+20,Sun Jan 6 2013,12:00,Girona FC,0-1,0-0,UD Almería
+20,Sun Jan 6 2013,12:00,Real Murcia,2-1,1-1,Hércules CF
+20,Sun Jan 6 2013,17:00,Elche CF,3-2,3-2,CE Sabadell
+20,Sun Jan 6 2013,17:00,CD Mirandés,0-0,0-0,Córdoba CF
+20,Sun Jan 6 2013,17:00,CD Numancia,3-0,0-0,UD Las Palmas
+20,Sun Jan 6 2013,17:00,CD Lugo,0-0,0-0,CD Guadalajara
+20,Sun Jan 6 2013,17:00,Xerez CD,1-1,1-0,SD Huesca
+21,Sat Jan 12 2013,18:00,CD Guadalajara,0-0,0-0,Elche CF
+21,Sat Jan 12 2013,20:00,UD Almería,1-1,0-0,Villarreal CF
+21,Sat Jan 12 2013,18:00,FC Barcelona B,4-2,1-0,Xerez CD
+21,Sun Jan 13 2013,12:00,Sporting Gijón,1-1,1-1,CD Mirandés
+21,Sun Jan 13 2013,12:00,Hércules CF,2-0,1-0,Racing Santander
+21,Sun Jan 13 2013,12:00,Real Madrid Castilla,0-0,0-0,Girona FC
+21,Sun Jan 13 2013,17:00,SD Huesca,3-1,0-1,Recreativo Huelva
+21,Sun Jan 13 2013,17:00,SD Ponferradina,0-1,0-0,CD Lugo
+21,Sun Jan 13 2013,19:00,UD Las Palmas,3-2,2-1,Real Murcia
+21,Sun Jan 13 2013,19:00,Córdoba CF,1-0,1-0,CD Numancia
+21,Sun Jan 13 2013,17:00,CE Sabadell,2-0,1-0,AD Alcorcón
+22,Sat Jan 19 2013,20:00,Real Madrid Castilla,5-0,2-0,Villarreal CF
+22,Sat Jan 19 2013,18:00,CD Guadalajara,3-0,1-0,AD Alcorcón
+22,Sat Jan 19 2013,18:00,UD Las Palmas,1-0,1-0,Racing Santander
+22,Sat Jan 19 2013,18:00,CE Sabadell,4-1,2-0,Girona FC
+22,Sun Jan 20 2013,12:00,Hércules CF,3-0,2-0,CD Lugo
+22,Sun Jan 20 2013,12:00,Córdoba CF,5-0,2-0,Real Murcia
+22,Sun Jan 20 2013,12:00,Sporting Gijón,1-1,0-1,CD Numancia
+22,Sun Jan 20 2013,12:00,Recreativo Huelva,2-0,2-0,Xerez CD
+22,Sun Jan 20 2013,17:00,UD Almería,2-2,1-1,FC Barcelona B
+22,Sun Jan 20 2013,17:00,SD Huesca,0-1,0-0,CD Mirandés
+22,Sun Jan 20 2013,19:00,SD Ponferradina,1-1,1-1,Elche CF
+23,Fri Jan 25 2013,21:00,Villarreal CF,3-0,1-0,CE Sabadell
+23,Sat Jan 26 2013,18:00,CD Lugo,3-1,2-1,UD Las Palmas
+23,Sat Jan 26 2013,16:00,Girona FC,2-0,0-0,CD Guadalajara
+23,Sat Jan 26 2013,18:00,Racing Santander,1-3,1-1,Córdoba CF
+23,Sat Jan 26 2013,20:00,Elche CF,2-0,1-0,Hércules CF
+23,Sat Jan 26 2013,18:00,Real Murcia,1-1,0-0,Sporting Gijón
+23,Sun Jan 27 2013,17:00,Xerez CD,0-2,0-2,UD Almería
+23,Sun Jan 27 2013,17:00,FC Barcelona B,3-1,0-1,Real Madrid Castilla
+23,Sun Jan 27 2013,17:00,AD Alcorcón,1-0,0-0,SD Ponferradina
+23,Sun Jan 27 2013,17:00,CD Numancia,1-2,0-0,SD Huesca
+23,Sun Jan 27 2013,17:00,CD Mirandés,2-1,2-1,Recreativo Huelva
+24,Sat Feb 2 2013,20:00,Hércules CF,3-0,2-0,AD Alcorcón
+24,Sat Feb 2 2013,18:00,CD Guadalajara,0-0,0-0,Villarreal CF
+24,Sat Feb 2 2013,18:00,UD Las Palmas,0-0,0-0,Elche CF
+24,Sat Feb 2 2013,18:00,Sporting Gijón,1-2,1-0,Racing Santander
+24,Sat Feb 2 2013,18:00,CE Sabadell,3-2,1-2,FC Barcelona B
+24,Sun Feb 3 2013,12:00,SD Ponferradina,2-0,1-0,Girona FC
+24,Sun Feb 3 2013,12:00,Recreativo Huelva,2-0,0-0,CD Numancia
+24,Sun Feb 3 2013,17:00,Córdoba CF,1-0,1-0,CD Lugo
+24,Sun Feb 3 2013,17:00,CD Mirandés,1-0,0-0,Xerez CD
+24,Sun Feb 3 2013,17:00,SD Huesca,2-0,1-0,Real Murcia
+24,Mon Feb 4 2013,21:00,Real Madrid Castilla,2-1,1-1,UD Almería
+25,Fri Feb 8 2013,21:00,UD Almería,5-1,2-0,CE Sabadell
+25,Sat Feb 9 2013,20:00,Elche CF,0-0,0-0,Córdoba CF
+25,Sat Feb 9 2013,18:00,Villarreal CF,3-0,2-0,SD Ponferradina
+25,Sat Feb 9 2013,18:00,Girona FC,1-1,1-0,Hércules CF
+25,Sat Feb 9 2013,18:00,CD Lugo,1-2,0-1,Sporting Gijón
+25,Sat Feb 9 2013,18:00,Racing Santander,1-0,1-0,SD Huesca
+25,Sat Feb 9 2013,18:00,Real Murcia,1-2,0-0,Recreativo Huelva
+25,Sat Feb 9 2013,18:00,Xerez CD,0-1,0-0,Real Madrid Castilla
+25,Sat Feb 9 2013,16:00,FC Barcelona B,0-1,0-0,CD Guadalajara
+25,Sun Feb 10 2013,17:00,CD Numancia,0-0,0-0,CD Mirandés
+25,Sun Feb 10 2013,20:30,AD Alcorcón,3-1,2-0,UD Las Palmas
+26,Sat Feb 16 2013,18:00,CD Guadalajara,2-2,2-1,UD Almería
+26,Sat Feb 16 2013,18:00,SD Ponferradina,3-2,1-1,FC Barcelona B
+26,Sat Feb 16 2013,20:00,CE Sabadell,3-1,1-0,Real Madrid Castilla
+26,Sun Feb 17 2013,12:00,Recreativo Huelva,1-0,1-0,Racing Santander
+26,Sun Feb 17 2013,12:00,Sporting Gijón,0-2,0-1,Elche CF
+26,Sun Feb 17 2013,17:00,UD Las Palmas,5-2,2-0,Girona FC
+26,Sun Feb 17 2013,17:00,Córdoba CF,1-1,0-0,AD Alcorcón
+26,Sun Feb 17 2013,17:00,SD Huesca,3-0,2-0,CD Lugo
+26,Sun Feb 17 2013,17:00,CD Mirandés,0-1,0-1,Real Murcia
+26,Sun Feb 17 2013,19:00,Hércules CF,1-1,0-1,Villarreal CF
+26,Sun Feb 17 2013,17:00,CD Numancia,3-0,2-0,Xerez CD
+27,Sat Feb 23 2013,18:00,AD Alcorcón,0-1,0-1,Sporting Gijón
+27,Sat Feb 23 2013,18:00,CD Lugo,2-0,1-0,Recreativo Huelva
+27,Sat Feb 23 2013,18:00,Real Murcia,0-0,0-0,CD Numancia
+27,Sat Feb 23 2013,20:00,FC Barcelona B,1-0,0-0,Hércules CF
+27,Sat Feb 23 2013,21:00,Racing Santander,2-0,1-0,CD Mirandés
+27,Sun Feb 24 2013,12:00,Real Madrid Castilla,2-1,1-0,CD Guadalajara
+27,Sun Feb 24 2013,17:00,UD Almería,4-1,2-1,SD Ponferradina
+27,Sun Feb 24 2013,21:00,Xerez CD,0-1,0-0,CE Sabadell
+27,Sun Feb 24 2013,19:00,Elche CF,3-1,1-1,SD Huesca
+27,Sun Feb 24 2013,20:00,Villarreal CF,1-1,1-0,UD Las Palmas
+27,Sun Feb 24 2013,17:00,Girona FC,2-0,0-0,Córdoba CF
+28,Sat Mar 2 2013,20:00,UD Las Palmas,3-3,1-1,FC Barcelona B
+28,Sat Mar 2 2013,21:00,Recreativo Huelva,1-2,0-1,Elche CF
+28,Sun Mar 3 2013,17:00,CD Mirandés,1-0,0-0,CD Lugo
+28,Sun Mar 3 2013,16:00,Hércules CF,0-2,0-0,UD Almería
+28,Sun Mar 3 2013,17:00,CD Guadalajara,1-1,1-1,CE Sabadell
+28,Sun Mar 3 2013,12:00,SD Huesca,0-1,0-0,AD Alcorcón
+28,Sun Mar 3 2013,17:00,CD Numancia,2-0,1-0,Racing Santander
+28,Sun Mar 3 2013,17:00,Real Murcia,3-1,0-0,Xerez CD
+28,Sun Mar 3 2013,21:00,Córdoba CF,0-2,0-2,Villarreal CF
+28,Sun Mar 3 2013,20:00,Sporting Gijón,4-0,2-0,Girona FC
+28,Sun Mar 3 2013,18:00,SD Ponferradina,2-0,1-0,Real Madrid Castilla
+29,Sat Mar 9 2013,18:00,FC Barcelona B,4-3,1-0,Córdoba CF
+29,Sat Mar 9 2013,18:00,Elche CF,0-1,0-1,CD Mirandés
+29,Sat Mar 9 2013,18:00,CD Lugo,0-0,0-0,CD Numancia
+29,Sat Mar 9 2013,20:00,Xerez CD,0-1,0-0,CD Guadalajara
+29,Sat Mar 9 2013,20:00,CE Sabadell,0-3,0-1,SD Ponferradina
+29,Sat Mar 9 2013,20:00,UD Almería,2-3,0-2,UD Las Palmas
+29,Sun Mar 10 2013,12:00,Villarreal CF,2-1,1-0,Sporting Gijón
+29,Sun Mar 10 2013,17:00,Girona FC,2-1,2-1,SD Huesca
+29,Sun Mar 10 2013,17:00,Racing Santander,2-1,0-0,Real Murcia
+29,Sun Mar 10 2013,20:00,AD Alcorcón,2-1,0-1,Recreativo Huelva
+29,Mon Mar 11 2013,21:00,Real Madrid Castilla,1-1,0-1,Hércules CF
+30,Sat Mar 16 2013,18:00,UD Las Palmas,2-0,1-0,Real Madrid Castilla
+30,Sat Mar 16 2013,18:00,Sporting Gijón,5-2,2-1,FC Barcelona B
+30,Sat Mar 16 2013,20:00,SD Huesca,0-1,0-0,Villarreal CF
+30,Sat Mar 16 2013,18:00,Recreativo Huelva,1-3,0-2,Girona FC
+30,Sun Mar 17 2013,12:00,Córdoba CF,4-1,2-1,UD Almería
+30,Sun Mar 17 2013,20:00,CD Mirandés,0-2,0-2,AD Alcorcón
+30,Sun Mar 17 2013,12:00,Racing Santander,1-1,0-1,Xerez CD
+30,Sun Mar 17 2013,17:00,SD Ponferradina,2-2,1-2,CD Guadalajara
+30,Sun Mar 17 2013,17:00,Hércules CF,3-1,1-1,CE Sabadell
+30,Sun Mar 17 2013,19:00,CD Numancia,3-1,0-0,Elche CF
+30,Sun Mar 17 2013,12:00,Real Murcia,0-1,0-1,CD Lugo
+31,Sat Mar 23 2013,18:00,FC Barcelona B,0-1,0-1,SD Huesca
+31,Sat Mar 23 2013,18:00,CD Lugo,3-2,1-1,Racing Santander
+31,Sat Mar 23 2013,20:00,Girona FC,4-0,1-0,CD Mirandés
+31,Sat Mar 23 2013,21:00,Xerez CD,1-2,0-1,SD Ponferradina
+31,Sun Mar 24 2013,17:00,CD Guadalajara,0-2,0-1,Hércules CF
+31,Sun Mar 24 2013,12:00,Real Madrid Castilla,4-0,3-0,Córdoba CF
+31,Sun Mar 24 2013,17:00,UD Almería,0-1,0-1,Sporting Gijón
+31,Sun Mar 24 2013,19:00,CE Sabadell,0-4,0-2,UD Las Palmas
+31,Sun Mar 24 2013,19:00,Villarreal CF,1-1,0-0,Recreativo Huelva
+31,Sun Mar 24 2013,20:00,Elche CF,1-0,1-0,Real Murcia
+31,Sun Mar 24 2013,21:00,AD Alcorcón,1-1,0-1,CD Numancia
+32,Sat Mar 30 2013,18:00,UD Las Palmas,0-1,0-0,CD Guadalajara
+32,Sat Mar 30 2013,18:00,Sporting Gijón,1-0,1-0,Real Madrid Castilla
+32,Sat Mar 30 2013,18:00,CD Lugo,4-0,2-0,Xerez CD
+32,Sat Mar 30 2013,21:00,Córdoba CF,3-0,1-0,CE Sabadell
+32,Sun Mar 31 2013,12:00,SD Huesca,1-2,0-1,UD Almería
+32,Sun Mar 31 2013,12:00,Hércules CF,1-1,1-1,SD Ponferradina
+32,Sun Mar 31 2013,12:00,Racing Santander,0-0,0-0,Elche CF
+32,Sun Mar 31 2013,21:00,CD Numancia,2-1,1-0,Girona FC
+32,Sun Mar 31 2013,17:00,CD Mirandés,1-5,1-2,Villarreal CF
+32,Sun Mar 31 2013,19:00,Real Murcia,1-1,1-1,AD Alcorcón
+32,Sun Mar 31 2013,17:00,Recreativo Huelva,2-0,1-0,FC Barcelona B
+33,Sat Apr 6 2013,18:00,SD Ponferradina,0-1,0-0,UD Las Palmas
+33,Sat Apr 6 2013,18:00,FC Barcelona B,1-1,0-0,CD Mirandés
+33,Sat Apr 6 2013,20:00,Elche CF,0-0,0-0,CD Lugo
+33,Sat Apr 6 2013,21:00,AD Alcorcón,0-1,0-1,Racing Santander
+33,Sun Apr 7 2013,17:00,CD Guadalajara,3-1,1-0,Córdoba CF
+33,Sun Apr 7 2013,17:00,Xerez CD,0-0,0-0,Hércules CF
+33,Sun Apr 7 2013,17:00,Villarreal CF,6-1,2-1,CD Numancia
+33,Sun Apr 7 2013,17:00,Girona FC,5-2,2-1,Real Murcia
+33,Sun Apr 7 2013,21:00,Real Madrid Castilla,5-1,2-0,SD Huesca
+33,Sun Apr 7 2013,20:00,CE Sabadell,4-3,3-2,Sporting Gijón
+33,Sun Apr 7 2013,19:00,UD Almería,2-1,1-0,Recreativo Huelva
+34,Sat Apr 13 2013,18:00,UD Las Palmas,0-0,0-0,Hércules CF
+34,Sat Apr 13 2013,18:00,Sporting Gijón,3-0,1-0,CD Guadalajara
+34,Sat Apr 13 2013,18:00,CD Mirandés,1-0,1-0,UD Almería
+34,Sat Apr 13 2013,18:00,Racing Santander,0-1,0-0,Girona FC
+34,Sat Apr 13 2013,18:00,CD Lugo,0-1,0-1,AD Alcorcón
+34,Sat Apr 13 2013,21:00,CD Numancia,0-1,0-0,FC Barcelona B
+34,Sat Apr 13 2013,20:00,Recreativo Huelva,1-3,0-0,Real Madrid Castilla
+34,Sun Apr 14 2013,12:00,Córdoba CF,0-1,0-0,SD Ponferradina
+34,Sun Apr 14 2013,12:00,Real Murcia,1-1,1-0,Villarreal CF
+34,Sun Apr 14 2013,17:00,Elche CF,2-1,0-1,Xerez CD
+34,Sun Apr 14 2013,21:00,SD Huesca,4-3,2-0,CE Sabadell
+35,Fri Apr 19 2013,21:00,CE Sabadell,1-1,1-1,Recreativo Huelva
+35,Sat Apr 20 2013,17:00,Girona FC,4-0,2-0,CD Lugo
+35,Sat Apr 20 2013,18:00,Xerez CD,1-2,1-1,UD Las Palmas
+35,Sat Apr 20 2013,21:00,CD Guadalajara,1-0,1-0,SD Huesca
+35,Sat Apr 20 2013,18:00,SD Ponferradina,1-0,0-0,Sporting Gijón
+35,Sun Apr 21 2013,21:00,Real Madrid Castilla,6-1,1-0,CD Mirandés
+35,Sun Apr 21 2013,17:00,Hércules CF,1-0,1-0,Córdoba CF
+35,Sun Apr 21 2013,17:00,UD Almería,1-1,1-1,CD Numancia
+35,Sun Apr 21 2013,17:00,FC Barcelona B,1-1,1-0,Real Murcia
+35,Sun Apr 21 2013,19:00,Villarreal CF,1-0,0-0,Racing Santander
+35,Sun Apr 21 2013,12:00,AD Alcorcón,1-0,0-0,Elche CF
+36,Fri Apr 26 2013,21:00,CD Mirandés,2-0,2-0,CE Sabadell
+36,Fri Apr 26 2013,21:00,Racing Santander,1-2,1-1,FC Barcelona B
+36,Sat Apr 27 2013,18:00,Córdoba CF,5-1,2-0,UD Las Palmas
+36,Sat Apr 27 2013,17:00,CD Lugo,0-0,0-0,Villarreal CF
+36,Sat Apr 27 2013,18:00,Sporting Gijón,0-1,0-0,Hércules CF
+36,Sat Apr 27 2013,21:00,SD Huesca,1-1,1-0,SD Ponferradina
+36,Sat Apr 27 2013,18:00,AD Alcorcón,2-1,1-0,Xerez CD
+36,Sun Apr 28 2013,12:00,Elche CF,0-0,0-0,Girona FC
+36,Sun Apr 28 2013,17:00,Real Murcia,1-0,1-0,UD Almería
+36,Sun Apr 28 2013,19:00,Recreativo Huelva,1-0,0-0,CD Guadalajara
+36,Sun Apr 28 2013,21:00,CD Numancia,3-3,2-2,Real Madrid Castilla
+37,Fri May 3 2013,21:00,Xerez CD,1-3,1-0,Córdoba CF
+37,Sat May 4 2013,18:00,UD Las Palmas,4-2,1-1,Sporting Gijón
+37,Sat May 4 2013,18:00,FC Barcelona B,2-2,2-1,CD Lugo
+37,Sat May 4 2013,20:00,SD Ponferradina,1-0,1-0,Recreativo Huelva
+37,Sat May 4 2013,20:00,Girona FC,3-2,0-2,AD Alcorcón
+37,Sat May 4 2013,21:00,CD Guadalajara,1-1,1-0,CD Mirandés
+37,Sun May 5 2013,12:00,Hércules CF,2-1,1-1,SD Huesca
+37,Sun May 5 2013,12:00,Villarreal CF,2-3,1-0,Elche CF
+37,Sun May 5 2013,17:00,Real Madrid Castilla,2-0,0-0,Real Murcia
+37,Sun May 5 2013,19:00,UD Almería,2-1,1-1,Racing Santander
+37,Sun May 5 2013,21:00,CE Sabadell,2-1,1-0,CD Numancia
+38,Fri May 10 2013,21:00,Elche CF,1-1,1-0,FC Barcelona B
+38,Sat May 11 2013,18:00,Sporting Gijón,3-0,2-0,Córdoba CF
+38,Sat May 11 2013,18:00,CD Numancia,2-2,1-1,CD Guadalajara
+38,Sat May 11 2013,18:00,CD Lugo,3-5,1-1,UD Almería
+38,Sat May 11 2013,18:00,Girona FC,2-4,1-3,Xerez CD
+38,Sat May 11 2013,21:00,CD Mirandés,0-0,0-0,SD Ponferradina
+38,Sat May 11 2013,20:00,Real Murcia,1-1,0-1,CE Sabadell
+38,Sat May 11 2013,20:00,SD Huesca,0-0,0-0,UD Las Palmas
+38,Sun May 12 2013,12:00,AD Alcorcón,1-3,0-2,Villarreal CF
+38,Sun May 12 2013,17:00,Racing Santander,1-0,0-0,Real Madrid Castilla
+38,Mon May 13 2013,21:00,Recreativo Huelva,0-2,0-1,Hércules CF
+39,Sat May 18 2013,18:00,Real Madrid Castilla,3-1,2-1,CD Lugo
+39,Sat May 18 2013,18:00,UD Las Palmas,0-0,0-0,Recreativo Huelva
+39,Sat May 18 2013,18:00,Xerez CD,0-2,0-1,Sporting Gijón
+39,Sat May 18 2013,18:00,FC Barcelona B,1-1,1-0,AD Alcorcón
+39,Sat May 18 2013,20:00,SD Ponferradina,1-1,0-0,CD Numancia
+39,Sat May 18 2013,22:00,Córdoba CF,2-2,1-0,SD Huesca
+39,Sat May 18 2013,20:00,Villarreal CF,4-1,1-0,Girona FC
+39,Sun May 19 2013,12:00,UD Almería,2-1,2-1,Elche CF
+39,Sun May 19 2013,17:00,Hércules CF,1-0,0-0,CD Mirandés
+39,Sun May 19 2013,21:00,CE Sabadell,0-2,0-1,Racing Santander
+39,Mon May 20 2013,21:00,CD Guadalajara,3-1,1-0,Real Murcia
+40,Sat May 25 2013,16:00,SD Huesca,2-1,1-1,Sporting Gijón
+40,Sat May 25 2013,16:00,CD Mirandés,1-0,1-0,UD Las Palmas
+40,Sat May 25 2013,16:00,AD Alcorcón,0-3,0-1,UD Almería
+40,Sun May 26 2013,12:00,Recreativo Huelva,2-1,1-1,Córdoba CF
+40,Sun May 26 2013,12:00,Girona FC,1-0,1-0,FC Barcelona B
+40,Sun May 26 2013,17:00,Real Murcia,0-2,0-0,SD Ponferradina
+40,Sun May 26 2013,21:00,CD Numancia,3-2,1-1,Hércules CF
+40,Sun May 26 2013,18:00,CD Lugo,2-0,0-0,CE Sabadell
+40,Sun May 26 2013,19:00,Racing Santander,0-0,0-0,CD Guadalajara
+40,Sun May 26 2013,17:00,Elche CF,1-1,0-1,Real Madrid Castilla
+40,Mon May 27 2013,21:00,Villarreal CF,3-2,1-0,Xerez CD
+41,Sat Jun 1 2013,21:00,CE Sabadell,0-0,0-0,Elche CF
+41,Sun Jun 2 2013,18:00,UD Las Palmas,2-1,2-0,CD Numancia
+41,Sun Jun 2 2013,18:00,Sporting Gijón,0-0,0-0,Recreativo Huelva
+41,Sun Jun 2 2013,18:00,Córdoba CF,1-2,0-1,CD Mirandés
+41,Sun Jun 2 2013,18:00,SD Huesca,3-1,2-1,Xerez CD
+41,Sun Jun 2 2013,18:00,Hércules CF,0-2,0-1,Real Murcia
+41,Sun Jun 2 2013,18:00,SD Ponferradina,2-2,0-1,Racing Santander
+41,Sun Jun 2 2013,18:00,CD Guadalajara,0-1,0-0,CD Lugo
+41,Sun Jun 2 2013,18:00,Real Madrid Castilla,4-0,2-0,AD Alcorcón
+41,Sun Jun 2 2013,18:00,UD Almería,2-1,1-1,Girona FC
+41,Sun Jun 2 2013,18:00,FC Barcelona B,0-3,0-1,Villarreal CF
+42,Sat Jun 8 2013,19:00,Recreativo Huelva,0-0,0-0,SD Huesca
+42,Sat Jun 8 2013,19:00,CD Mirandés,2-1,1-0,Sporting Gijón
+42,Sat Jun 8 2013,19:00,Real Murcia,1-0,0-0,UD Las Palmas
+42,Sat Jun 8 2013,19:00,Racing Santander,3-0,0-0,Hércules CF
+42,Sat Jun 8 2013,19:00,CD Lugo,2-2,2-0,SD Ponferradina
+42,Sat Jun 8 2013,19:00,Xerez CD,2-1,1-1,FC Barcelona B
+42,Sat Jun 8 2013,19:00,AD Alcorcón,4-0,3-0,CE Sabadell
+42,Sat Jun 8 2013,19:00,Girona FC,1-1,0-0,Real Madrid Castilla
+42,Sat Jun 8 2013,19:00,Villarreal CF,1-0,0-0,UD Almería
+42,Sat Jun 8 2013,19:00,Elche CF,3-1,0-1,CD Guadalajara
+42,Sun Jun 9 2013,19:00,CD Numancia,1-0,0-0,Córdoba CF

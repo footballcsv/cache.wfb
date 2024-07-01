@@ -1,0 +1,181 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Mon Jul 12 2010,18:30,SKN St. Pölten,1-4,1-2,FC Admira Wacker
+1,Tue Jul 13 2010,18:30,SV Grödig,3-2,2-0,Austria Lustenau
+1,Tue Jul 13 2010,18:30,WAC/St. Andrä,4-1,2-1,FC Gratkorn
+1,Tue Jul 13 2010,18:30,SCR Altach,4-0,3-0,TSV Hartberg
+1,Tue Jul 13 2010,18:30,FC Lustenau,0-4,0-1,First Vienna FC
+2,Fri Jul 16 2010,18:30,FC Admira Wacker,1-1,1-0,FC Lustenau
+2,Fri Jul 16 2010,18:30,TSV Hartberg,2-2,2-0,SKN St. Pölten
+2,Fri Jul 16 2010,20:30,FC Gratkorn,0-5,0-0,SCR Altach
+2,Fri Jul 16 2010,18:30,First Vienna FC,3-2,2-1,SV Grödig
+2,Fri Jul 16 2010,18:30,Austria Lustenau,0-1,0-1,WAC/St. Andrä
+3,Fri Jul 23 2010,18:30,SKN St. Pölten,3-1,1-0,FC Gratkorn
+3,Fri Jul 23 2010,18:30,FC Admira Wacker,5-1,1-1,TSV Hartberg
+3,Fri Jul 23 2010,20:30,SCR Altach,2-0,1-0,Austria Lustenau
+3,Fri Jul 23 2010,18:30,FC Lustenau,1-1,0-0,SV Grödig
+3,Fri Jul 23 2010,18:30,WAC/St. Andrä,2-0,0-0,First Vienna FC
+4,Fri Jul 30 2010,18:30,TSV Hartberg,1-2,1-1,FC Lustenau
+4,Fri Jul 30 2010,18:30,FC Gratkorn,0-3,0-1,FC Admira Wacker
+4,Fri Jul 30 2010,18:30,Austria Lustenau,4-0,2-0,SKN St. Pölten
+4,Fri Jul 30 2010,18:30,SV Grödig,4-0,1-0,WAC/St. Andrä
+4,Fri Jul 30 2010,20:30,First Vienna FC,1-2,0-1,SCR Altach
+5,Mon Aug 2 2010,18:30,FC Admira Wacker,2-0,0-0,Austria Lustenau
+5,Tue Aug 3 2010,18:30,TSV Hartberg,1-2,1-0,FC Gratkorn
+5,Tue Aug 3 2010,18:30,SKN St. Pölten,3-2,0-1,First Vienna FC
+5,Tue Aug 3 2010,18:30,SCR Altach,4-0,1-0,SV Grödig
+5,Tue Aug 3 2010,18:30,FC Lustenau,2-2,1-2,WAC/St. Andrä
+6,Fri Aug 6 2010,18:30,FC Gratkorn,0-2,0-0,FC Lustenau
+6,Fri Aug 6 2010,18:30,Austria Lustenau,1-0,0-0,TSV Hartberg
+6,Fri Aug 6 2010,18:30,First Vienna FC,1-3,1-1,FC Admira Wacker
+6,Fri Aug 6 2010,18:30,WAC/St. Andrä,3-1,2-0,SCR Altach
+6,Fri Aug 6 2010,20:30,SV Grödig,1-1,1-0,SKN St. Pölten
+7,Mon Aug 16 2010,18:30,FC Lustenau,3-3,1-1,SCR Altach
+7,Tue Aug 17 2010,18:30,FC Gratkorn,2-2,1-0,Austria Lustenau
+7,Tue Aug 17 2010,18:30,SKN St. Pölten,0-0,0-0,WAC/St. Andrä
+7,Tue Aug 17 2010,18:30,TSV Hartberg,3-1,2-1,First Vienna FC
+7,Tue Aug 17 2010,18:30,FC Admira Wacker,3-0,2-0,SV Grödig
+8,Fri Aug 20 2010,18:30,Austria Lustenau,1-2,1-1,FC Lustenau
+8,Fri Aug 20 2010,18:30,First Vienna FC,1-1,1-1,FC Gratkorn
+8,Fri Aug 20 2010,20:30,WAC/St. Andrä,1-2,0-0,FC Admira Wacker
+8,Fri Aug 20 2010,18:30,SCR Altach,2-1,0-0,SKN St. Pölten
+8,Fri Aug 20 2010,18:30,SV Grödig,3-2,2-0,TSV Hartberg
+9,Fri Aug 27 2010,18:30,SKN St. Pölten,1-0,0-0,FC Lustenau
+9,Fri Aug 27 2010,18:30,TSV Hartberg,0-2,0-1,WAC/St. Andrä
+9,Fri Aug 27 2010,18:30,FC Gratkorn,0-2,0-1,SV Grödig
+9,Fri Aug 27 2010,18:30,Austria Lustenau,3-1,3-0,First Vienna FC
+9,Fri Aug 27 2010,20:30,FC Admira Wacker,3-2,1-1,SCR Altach
+10,Fri Sep 10 2010,18:30,First Vienna FC,0-2,0-1,Austria Lustenau
+10,Fri Sep 10 2010,20:30,SCR Altach,3-3,2-2,FC Admira Wacker
+10,Fri Sep 10 2010,18:30,WAC/St. Andrä,2-0,1-0,TSV Hartberg
+10,Fri Sep 10 2010,18:30,FC Lustenau,3-1,2-1,SKN St. Pölten
+10,Fri Sep 10 2010,18:30,SV Grödig,1-4,1-2,FC Gratkorn
+11,Mon Sep 13 2010,18:30,TSV Hartberg,0-2,0-1,SCR Altach
+11,Tue Sep 14 2010,18:30,FC Admira Wacker,3-2,2-1,SKN St. Pölten
+11,Tue Sep 14 2010,18:30,FC Gratkorn,3-2,1-2,WAC/St. Andrä
+11,Tue Sep 14 2010,18:30,Austria Lustenau,2-1,2-0,SV Grödig
+11,Tue Sep 14 2010,18:30,First Vienna FC,4-1,1-1,FC Lustenau
+12,Fri Sep 24 2010,18:30,SKN St. Pölten,1-1,1-0,TSV Hartberg
+12,Fri Sep 24 2010,18:30,SV Grödig,4-1,2-1,First Vienna FC
+12,Fri Sep 24 2010,20:30,WAC/St. Andrä,0-0,0-0,Austria Lustenau
+12,Fri Sep 24 2010,18:30,FC Lustenau,0-3,0-2,FC Admira Wacker
+12,Fri Sep 24 2010,18:30,SCR Altach,1-0,1-0,FC Gratkorn
+13,Fri Oct 1 2010,18:30,TSV Hartberg,1-2,0-1,FC Admira Wacker
+13,Fri Oct 1 2010,18:30,FC Gratkorn,1-5,0-1,SKN St. Pölten
+13,Fri Oct 1 2010,20:30,Austria Lustenau,2-0,1-0,SCR Altach
+13,Fri Oct 1 2010,18:30,SV Grödig,0-6,0-3,FC Lustenau
+13,Fri Oct 1 2010,18:30,First Vienna FC,1-0,0-0,WAC/St. Andrä
+14,Fri Oct 15 2010,18:30,SKN St. Pölten,1-0,0-0,Austria Lustenau
+14,Fri Oct 15 2010,18:30,WAC/St. Andrä,2-0,1-0,SV Grödig
+14,Fri Oct 15 2010,18:30,SCR Altach,4-2,4-0,First Vienna FC
+14,Fri Oct 15 2010,18:30,FC Lustenau,2-2,1-1,TSV Hartberg
+14,Fri Oct 15 2010,20:30,FC Admira Wacker,3-0,2-0,FC Gratkorn
+15,Fri Oct 22 2010,18:30,Austria Lustenau,2-1,2-1,FC Admira Wacker
+15,Fri Oct 22 2010,20:30,FC Gratkorn,3-1,1-0,TSV Hartberg
+15,Fri Oct 22 2010,18:30,SV Grödig,0-2,0-0,SCR Altach
+15,Fri Oct 22 2010,18:30,WAC/St. Andrä,1-3,1-1,FC Lustenau
+15,Fri Oct 22 2010,18:30,First Vienna FC,3-4,0-2,SKN St. Pölten
+16,Mon Oct 25 2010,18:30,SCR Altach,3-1,0-1,WAC/St. Andrä
+16,Tue Oct 26 2010,18:30,SKN St. Pölten,1-1,1-1,SV Grödig
+16,Tue Oct 26 2010,18:30,FC Admira Wacker,4-1,2-0,First Vienna FC
+16,Tue Oct 26 2010,18:30,TSV Hartberg,2-1,2-0,Austria Lustenau
+16,Tue Oct 26 2010,18:30,FC Lustenau,1-0,0-0,FC Gratkorn
+17,Fri Oct 29 2010,18:30,Austria Lustenau,2-1,0-0,FC Gratkorn
+17,Fri Oct 29 2010,18:30,First Vienna FC,0-1,0-0,TSV Hartberg
+17,Fri Oct 29 2010,18:30,SV Grödig,1-1,0-0,FC Admira Wacker
+17,Fri Oct 29 2010,18:30,WAC/St. Andrä,1-3,0-1,SKN St. Pölten
+17,Fri Oct 29 2010,20:30,SCR Altach,2-1,0-1,FC Lustenau
+18,Fri Nov 5 2010,18:30,SKN St. Pölten,0-0,0-0,SCR Altach
+18,Fri Nov 5 2010,18:30,FC Admira Wacker,2-0,1-0,WAC/St. Andrä
+18,Fri Nov 5 2010,18:30,TSV Hartberg,2-1,2-1,SV Grödig
+18,Fri Nov 5 2010,18:30,FC Gratkorn,4-0,3-0,First Vienna FC
+18,Fri Nov 5 2010,20:30,FC Lustenau,0-3,0-2,Austria Lustenau
+19,Fri Nov 12 2010,20:30,First Vienna FC,1-1,0-0,FC Lustenau
+19,Fri Nov 12 2010,18:30,Austria Lustenau,2-1,0-1,SV Grödig
+19,Fri Nov 12 2010,18:30,FC Admira Wacker,0-1,0-0,WAC/St. Andrä
+19,Fri Nov 12 2010,18:30,FC Gratkorn,2-2,2-1,SKN St. Pölten
+19,Sat Nov 13 2010,16:00,TSV Hartberg,1-2,1-1,SCR Altach
+20,Fri Nov 19 2010,18:30,FC Lustenau,1-3,0-1,FC Gratkorn
+20,Fri Nov 19 2010,18:30,SKN St. Pölten,3-0,1-0,TSV Hartberg
+20,Fri Nov 19 2010,18:30,WAC/St. Andrä,4-2,2-1,Austria Lustenau
+20,Fri Nov 19 2010,18:30,SV Grödig,3-2,1-1,First Vienna FC
+20,Fri Nov 19 2010,20:30,SCR Altach,4-0,2-0,FC Admira Wacker
+21,Fri Nov 26 2010,18:30,TSV Hartberg,2-0,1-0,FC Gratkorn
+21,Fri Nov 26 2010,20:30,FC Admira Wacker,5-1,2-0,SKN St. Pölten
+21,Fri Nov 26 2010,18:30,Austria Lustenau,2-1,2-1,SCR Altach
+21,Fri Nov 26 2010,18:30,SV Grödig,2-1,1-0,FC Lustenau
+21,Fri Nov 26 2010,18:30,First Vienna FC,0-4,0-0,WAC/St. Andrä
+22,Fri Feb 25 2011,18:30,FC Lustenau,1-3,0-2,TSV Hartberg
+22,Fri Feb 25 2011,20:30,FC Gratkorn,0-6,0-2,FC Admira Wacker
+22,Fri Feb 25 2011,18:30,WAC/St. Andrä,2-1,1-1,SV Grödig
+22,Fri Feb 25 2011,18:30,SKN St. Pölten,1-1,0-0,Austria Lustenau
+23,Fri Mar 4 2011,20:30,SV Grödig,0-1,0-1,SCR Altach
+23,Fri Mar 4 2011,18:30,First Vienna FC,2-0,2-0,SKN St. Pölten
+23,Fri Mar 4 2011,18:30,Austria Lustenau,2-1,1-1,FC Gratkorn
+23,Fri Mar 4 2011,18:30,FC Admira Wacker,3-1,2-1,TSV Hartberg
+23,Fri Mar 4 2011,18:30,WAC/St. Andrä,1-2,1-1,FC Lustenau
+22,Tue Mar 8 2011,18:30,SCR Altach,1-0,1-0,First Vienna FC
+24,Fri Mar 11 2011,18:30,FC Lustenau,0-1,0-0,FC Admira Wacker
+24,Fri Mar 11 2011,20:30,SCR Altach,3-3,1-1,WAC/St. Andrä
+24,Fri Mar 11 2011,18:30,FC Gratkorn,1-1,0-0,First Vienna FC
+24,Fri Mar 11 2011,18:30,SKN St. Pölten,1-2,0-1,SV Grödig
+24,Fri Mar 11 2011,18:30,TSV Hartberg,1-1,0-0,Austria Lustenau
+25,Fri Mar 18 2011,18:30,WAC/St. Andrä,3-1,1-0,SKN St. Pölten
+25,Fri Mar 18 2011,18:30,SV Grödig,0-0,0-0,FC Gratkorn
+25,Fri Mar 18 2011,18:30,Austria Lustenau,0-1,0-0,FC Admira Wacker
+25,Fri Mar 18 2011,18:30,SCR Altach,2-2,2-1,FC Lustenau
+25,Mon Mar 21 2011,18:30,First Vienna FC,1-4,0-2,TSV Hartberg
+26,Fri Apr 1 2011,18:30,FC Admira Wacker,1-3,1-2,First Vienna FC
+26,Fri Apr 1 2011,18:30,TSV Hartberg,1-1,0-1,SV Grödig
+26,Fri Apr 1 2011,18:30,FC Gratkorn,3-2,0-1,WAC/St. Andrä
+26,Fri Apr 1 2011,18:30,SKN St. Pölten,1-0,0-0,SCR Altach
+26,Fri Apr 1 2011,20:30,FC Lustenau,1-2,0-1,Austria Lustenau
+27,Fri Apr 8 2011,18:30,FC Lustenau,3-1,2-1,SKN St. Pölten
+27,Fri Apr 8 2011,18:30,SCR Altach,3-1,1-0,FC Gratkorn
+27,Fri Apr 8 2011,18:30,WAC/St. Andrä,0-0,0-0,TSV Hartberg
+27,Fri Apr 8 2011,18:30,First Vienna FC,3-0,0-0,Austria Lustenau
+27,Fri Apr 8 2011,20:30,SV Grödig,3-1,1-1,FC Admira Wacker
+28,Mon Apr 11 2011,18:30,FC Gratkorn,0-2,0-1,SCR Altach
+28,Tue Apr 12 2011,18:30,SKN St. Pölten,1-0,0-0,FC Lustenau
+28,Tue Apr 12 2011,18:30,Austria Lustenau,3-2,1-2,First Vienna FC
+28,Tue Apr 12 2011,18:30,TSV Hartberg,2-0,2-0,WAC/St. Andrä
+28,Tue Apr 12 2011,18:30,FC Admira Wacker,1-1,0-0,SV Grödig
+29,Fri Apr 15 2011,18:30,SKN St. Pölten,0-0,0-0,FC Gratkorn
+29,Fri Apr 15 2011,18:30,SCR Altach,1-2,0-1,TSV Hartberg
+29,Fri Apr 15 2011,18:30,SV Grödig,2-2,1-1,Austria Lustenau
+29,Fri Apr 15 2011,18:30,FC Lustenau,0-1,0-0,First Vienna FC
+29,Fri Apr 15 2011,20:30,WAC/St. Andrä,5-0,4-0,FC Admira Wacker
+30,Mon Apr 25 2011,18:30,FC Admira Wacker,1-1,0-0,SCR Altach
+30,Tue Apr 26 2011,18:30,FC Gratkorn,3-4,1-2,FC Lustenau
+30,Tue Apr 26 2011,18:30,TSV Hartberg,0-0,0-0,SKN St. Pölten
+30,Tue Apr 26 2011,18:30,Austria Lustenau,3-0,0-0,WAC/St. Andrä
+30,Tue Apr 26 2011,18:30,First Vienna FC,0-0,0-0,SV Grödig
+31,Fri Apr 29 2011,18:30,FC Gratkorn,3-1,1-0,TSV Hartberg
+31,Fri Apr 29 2011,18:30,SCR Altach,2-1,2-1,Austria Lustenau
+31,Fri Apr 29 2011,20:30,SKN St. Pölten,1-0,0-0,FC Admira Wacker
+31,Fri Apr 29 2011,18:30,FC Lustenau,2-0,1-0,SV Grödig
+31,Fri Apr 29 2011,18:30,WAC/St. Andrä,1-0,0-0,First Vienna FC
+32,Fri May 6 2011,18:30,Austria Lustenau,0-3,0-1,SKN St. Pölten
+32,Fri May 6 2011,18:30,FC Admira Wacker,7-3,2-1,FC Gratkorn
+32,Fri May 6 2011,18:30,SV Grödig,2-1,1-0,WAC/St. Andrä
+32,Fri May 6 2011,18:30,First Vienna FC,1-1,1-0,SCR Altach
+32,Fri May 6 2011,20:30,TSV Hartberg,1-1,1-0,FC Lustenau
+33,Fri May 13 2011,20:30,SCR Altach,3-0,1-0,SV Grödig
+33,Fri May 13 2011,18:30,FC Gratkorn,2-1,0-1,Austria Lustenau
+33,Fri May 13 2011,18:30,SKN St. Pölten,1-1,0-0,First Vienna FC
+33,Fri May 13 2011,18:30,FC Lustenau,0-0,0-0,WAC/St. Andrä
+33,Fri May 13 2011,18:30,TSV Hartberg,1-2,1-2,FC Admira Wacker
+34,Mon May 16 2011,18:30,First Vienna FC,3-1,2-0,FC Gratkorn
+34,Tue May 17 2011,18:30,SV Grödig,2-2,1-1,SKN St. Pölten
+34,Tue May 17 2011,18:30,Austria Lustenau,2-2,2-1,TSV Hartberg
+34,Tue May 17 2011,18:30,WAC/St. Andrä,0-0,0-0,SCR Altach
+34,Tue May 17 2011,18:30,FC Admira Wacker,3-0,2-0,FC Lustenau
+35,Fri May 20 2011,20:30,FC Admira Wacker,5-3,1-0,Austria Lustenau
+35,Fri May 20 2011,20:30,TSV Hartberg,2-0,1-0,First Vienna FC
+35,Fri May 20 2011,20:30,FC Lustenau,2-4,1-1,SCR Altach
+35,Fri May 20 2011,20:30,SKN St. Pölten,6-2,4-2,WAC/St. Andrä
+35,Fri May 20 2011,20:30,FC Gratkorn,1-3,0-1,SV Grödig
+36,Tue May 24 2011,18:30,SCR Altach,3-0,0-0,SKN St. Pölten
+36,Tue May 24 2011,18:30,WAC/St. Andrä,3-0,2-0,FC Gratkorn
+36,Tue May 24 2011,18:30,SV Grödig,3-0,1-0,TSV Hartberg
+36,Tue May 24 2011,18:30,First Vienna FC,0-0,0-0,FC Admira Wacker
+36,Tue May 24 2011,18:30,Austria Lustenau,1-0,0-0,FC Lustenau

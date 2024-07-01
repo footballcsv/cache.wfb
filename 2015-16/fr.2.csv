@@ -1,0 +1,381 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 31 2015,20:00,AC Ajaccio,0-0,0-0,Dijon FCO
+1,Fri Jul 31 2015,20:00,AJ Auxerre,0-0,0-0,Stade Brest
+1,Fri Jul 31 2015,20:00,Chamois Niortais,0-1,0-1,Valenciennes FC
+1,Fri Jul 31 2015,20:00,Clermont Foot,0-0,0-0,FC Sochaux
+1,Fri Jul 31 2015,20:00,FC Bourg-Péronnas,1-3,1-1,Le Havre AC
+1,Fri Jul 31 2015,20:00,Nîmes Olympique,0-0,0-0,Évian Thonon Gaillard
+1,Fri Jul 31 2015,20:00,Paris FC,1-1,0-0,Stade Laval
+1,Fri Jul 31 2015,20:00,Red Star FC,0-1,0-0,US Créteil-Lusitanos
+1,Sat Aug 1 2015,14:00,FC Metz,0-0,0-0,RC Lens
+1,Mon Aug 3 2015,20:30,AS Nancy,0-0,0-0,Tours FC
+2,Fri Aug 7 2015,20:00,Dijon FCO,3-0,1-0,Chamois Niortais
+2,Fri Aug 7 2015,20:00,Évian Thonon Gaillard,2-2,1-1,Clermont Foot
+2,Fri Aug 7 2015,20:00,FC Sochaux,0-1,0-1,FC Metz
+2,Fri Aug 7 2015,20:00,Le Havre AC,1-0,0-0,AC Ajaccio
+2,Fri Aug 7 2015,20:00,Stade Brest,2-0,1-0,Nîmes Olympique
+2,Fri Aug 7 2015,20:00,Stade Laval,0-1,0-0,AS Nancy
+2,Fri Aug 7 2015,20:00,Tours FC,0-0,0-0,Paris FC
+2,Fri Aug 7 2015,20:00,US Créteil-Lusitanos,2-1,1-0,FC Bourg-Péronnas
+2,Fri Aug 7 2015,20:00,Valenciennes FC,0-0,0-0,AJ Auxerre
+2,Sat Aug 8 2015,14:00,RC Lens,1-1,0-1,Red Star FC
+3,Fri Aug 14 2015,20:00,AC Ajaccio,1-1,1-1,Évian Thonon Gaillard
+3,Fri Aug 14 2015,20:00,AJ Auxerre,2-3,0-0,Stade Laval
+3,Fri Aug 14 2015,20:00,Chamois Niortais,1-1,0-1,FC Sochaux
+3,Fri Aug 14 2015,20:00,Clermont Foot,1-0,0-0,Nîmes Olympique
+3,Fri Aug 14 2015,20:00,FC Bourg-Péronnas,2-1,1-0,Dijon FCO
+3,Fri Aug 14 2015,20:00,Paris FC,3-0,1-0,Le Havre AC
+3,Fri Aug 14 2015,20:00,RC Lens,1-1,1-0,US Créteil-Lusitanos
+3,Fri Aug 14 2015,20:00,Red Star FC,1-1,1-0,Tours FC
+3,Sat Aug 15 2015,14:00,AS Nancy,3-0,3-0,Stade Brest
+3,Mon Aug 17 2015,20:30,FC Metz,2-0,0-0,Valenciennes FC
+4,Fri Aug 21 2015,20:00,Dijon FCO,2-0,1-0,RC Lens
+4,Fri Aug 21 2015,20:00,Évian Thonon Gaillard,0-0,0-0,Chamois Niortais
+4,Fri Aug 21 2015,20:00,FC Sochaux,1-1,0-0,Paris FC
+4,Fri Aug 21 2015,20:00,Le Havre AC,0-1,0-1,Clermont Foot
+4,Fri Aug 21 2015,20:00,Stade Brest,1-0,0-0,AC Ajaccio
+4,Fri Aug 21 2015,20:00,Stade Laval,2-1,0-1,Red Star FC
+4,Fri Aug 21 2015,20:00,Tours FC,3-1,1-0,AJ Auxerre
+4,Fri Aug 21 2015,20:00,US Créteil-Lusitanos,1-2,1-0,FC Metz
+4,Fri Aug 21 2015,20:00,Valenciennes FC,1-1,1-1,FC Bourg-Péronnas
+4,Sat Aug 22 2015,14:00,Nîmes Olympique,2-2,1-1,AS Nancy
+5,Fri Aug 28 2015,20:00,AC Ajaccio,1-2,1-0,Tours FC
+5,Fri Aug 28 2015,20:00,AJ Auxerre,1-0,1-0,Nîmes Olympique
+5,Fri Aug 28 2015,20:00,Chamois Niortais,0-1,0-0,Stade Laval
+5,Fri Aug 28 2015,20:00,Clermont Foot,1-2,0-0,AS Nancy
+5,Fri Aug 28 2015,20:00,Dijon FCO,4-1,2-0,US Créteil-Lusitanos
+5,Fri Aug 28 2015,20:00,FC Bourg-Péronnas,2-1,1-1,FC Sochaux
+5,Fri Aug 28 2015,20:00,Paris FC,1-1,0-1,Stade Brest
+5,Fri Aug 28 2015,20:00,Red Star FC,1-5,0-1,Valenciennes FC
+5,Sat Aug 29 2015,14:00,FC Metz,2-1,1-0,Évian Thonon Gaillard
+5,Mon Aug 31 2015,20:30,RC Lens,0-4,0-3,Le Havre AC
+6,Fri Sep 11 2015,20:00,AS Nancy,1-1,0-0,Chamois Niortais
+6,Fri Sep 11 2015,20:00,Clermont Foot,1-1,0-1,Paris FC
+6,Fri Sep 11 2015,20:00,Évian Thonon Gaillard,4-0,1-0,AJ Auxerre
+6,Fri Sep 11 2015,20:00,FC Sochaux,0-3,0-2,US Créteil-Lusitanos
+6,Fri Sep 11 2015,20:00,Le Havre AC,0-2,0-1,Red Star FC
+6,Fri Sep 11 2015,20:00,Nîmes Olympique,0-0,0-0,AC Ajaccio
+6,Fri Sep 11 2015,20:00,Stade Laval,0-1,0-0,FC Metz
+6,Fri Sep 11 2015,20:00,Tours FC,0-1,0-0,FC Bourg-Péronnas
+6,Sat Sep 12 2015,14:00,Valenciennes FC,1-3,0-2,Dijon FCO
+6,Mon Sep 14 2015,20:30,Stade Brest,2-1,1-0,RC Lens
+7,Fri Sep 18 2015,20:00,AC Ajaccio,0-0,0-0,Stade Laval
+7,Fri Sep 18 2015,20:00,AJ Auxerre,1-0,0-0,Clermont Foot
+7,Fri Sep 18 2015,20:00,Chamois Niortais,1-0,0-0,Nîmes Olympique
+7,Fri Sep 18 2015,20:00,Dijon FCO,2-1,0-1,Le Havre AC
+7,Fri Sep 18 2015,20:00,FC Bourg-Péronnas,3-1,1-0,Stade Brest
+7,Fri Sep 18 2015,20:00,FC Metz,0-0,0-0,AS Nancy
+7,Fri Sep 18 2015,20:00,RC Lens,1-1,1-0,Tours FC
+7,Fri Sep 18 2015,20:00,Red Star FC,0-0,0-0,FC Sochaux
+7,Fri Sep 18 2015,20:00,US Créteil-Lusitanos,0-1,0-0,Valenciennes FC
+7,Sat Sep 19 2015,14:00,Paris FC,0-0,0-0,Évian Thonon Gaillard
+8,Mon Sep 21 2015,20:30,Valenciennes FC,0-1,0-1,RC Lens
+8,Tue Sep 22 2015,21:00,AS Nancy,0-1,0-0,AJ Auxerre
+8,Tue Sep 22 2015,21:00,Clermont Foot,2-1,2-0,AC Ajaccio
+8,Tue Sep 22 2015,21:00,Évian Thonon Gaillard,0-1,0-0,Red Star FC
+8,Tue Sep 22 2015,21:00,FC Sochaux,0-1,0-0,Dijon FCO
+8,Tue Sep 22 2015,21:00,Le Havre AC,1-1,1-1,FC Metz
+8,Tue Sep 22 2015,21:00,Nîmes Olympique,1-1,0-1,Paris FC
+8,Tue Sep 22 2015,21:00,Stade Brest,1-1,1-1,Chamois Niortais
+8,Tue Sep 22 2015,21:00,Stade Laval,1-3,0-2,FC Bourg-Péronnas
+8,Tue Sep 22 2015,21:00,Tours FC,1-2,0-1,US Créteil-Lusitanos
+9,Fri Sep 25 2015,20:00,AC Ajaccio,1-0,1-0,AJ Auxerre
+9,Fri Sep 25 2015,20:00,Chamois Niortais,1-1,0-0,Clermont Foot
+9,Fri Sep 25 2015,20:00,FC Bourg-Péronnas,0-2,0-0,Évian Thonon Gaillard
+9,Fri Sep 25 2015,20:00,FC Metz,1-2,1-0,Nîmes Olympique
+9,Fri Sep 25 2015,20:00,RC Lens,1-0,0-0,FC Sochaux
+9,Fri Sep 25 2015,20:00,Red Star FC,1-0,0-0,Stade Brest
+9,Fri Sep 25 2015,20:00,US Créteil-Lusitanos,2-1,1-0,Le Havre AC
+9,Fri Sep 25 2015,20:00,Valenciennes FC,0-0,0-0,Tours FC
+9,Sat Sep 26 2015,14:00,Dijon FCO,2-0,2-0,Stade Laval
+9,Mon Sep 28 2015,20:30,Paris FC,1-1,1-0,AS Nancy
+10,Fri Oct 2 2015,20:00,AJ Auxerre,2-0,1-0,Paris FC
+10,Fri Oct 2 2015,20:00,AS Nancy,3-0,1-0,AC Ajaccio
+10,Fri Oct 2 2015,20:00,Clermont Foot,3-2,1-0,FC Bourg-Péronnas
+10,Fri Oct 2 2015,20:00,Évian Thonon Gaillard,2-1,2-0,RC Lens
+10,Fri Oct 2 2015,20:00,FC Sochaux,1-0,0-0,Valenciennes FC
+10,Fri Oct 2 2015,20:00,Le Havre AC,0-0,0-0,Chamois Niortais
+10,Fri Oct 2 2015,20:00,Nîmes Olympique,1-1,0-0,Red Star FC
+10,Fri Oct 2 2015,20:00,Stade Laval,3-2,2-0,US Créteil-Lusitanos
+10,Sat Oct 3 2015,14:00,Stade Brest,1-1,1-0,FC Metz
+10,Mon Oct 5 2015,20:30,Tours FC,1-0,0-0,Dijon FCO
+11,Fri Oct 16 2015,20:00,Chamois Niortais,2-3,1-3,AJ Auxerre
+11,Fri Oct 16 2015,20:00,FC Bourg-Péronnas,4-2,1-0,Nîmes Olympique
+11,Fri Oct 16 2015,20:00,FC Metz,2-2,0-2,Clermont Foot
+11,Fri Oct 16 2015,20:00,FC Sochaux,0-0,0-0,Tours FC
+11,Fri Oct 16 2015,20:00,Paris FC,0-0,0-0,AC Ajaccio
+11,Fri Oct 16 2015,20:00,Red Star FC,0-1,0-1,AS Nancy
+11,Fri Oct 16 2015,20:00,US Créteil-Lusitanos,0-2,0-1,Stade Brest
+11,Fri Oct 16 2015,20:00,Valenciennes FC,0-1,0-1,Le Havre AC
+11,Sat Oct 17 2015,14:00,Dijon FCO,1-3,1-1,Évian Thonon Gaillard
+11,Mon Oct 19 2015,20:00,RC Lens,1-1,0-1,Stade Laval
+12,Fri Oct 23 2015,20:00,AC Ajaccio,0-1,0-0,FC Metz
+12,Fri Oct 23 2015,20:00,AJ Auxerre,0-1,0-1,Red Star FC
+12,Fri Oct 23 2015,20:00,AS Nancy,3-1,1-1,FC Bourg-Péronnas
+12,Fri Oct 23 2015,20:00,Évian Thonon Gaillard,1-2,1-1,US Créteil-Lusitanos
+12,Fri Oct 23 2015,20:00,Le Havre AC,2-1,1-1,FC Sochaux
+12,Fri Oct 23 2015,20:00,Paris FC,1-1,0-0,Chamois Niortais
+12,Fri Oct 23 2015,20:00,Stade Brest,1-2,0-2,Valenciennes FC
+12,Fri Oct 23 2015,20:00,Stade Laval,1-1,1-0,Tours FC
+12,Sat Oct 24 2015,14:00,Nîmes Olympique,1-1,1-1,Dijon FCO
+12,Mon Oct 26 2015,20:30,Clermont Foot,2-2,0-1,RC Lens
+13,Fri Oct 30 2015,20:00,Chamois Niortais,3-1,1-1,AC Ajaccio
+13,Fri Oct 30 2015,20:00,FC Metz,2-1,2-1,Paris FC
+13,Fri Oct 30 2015,20:00,FC Sochaux,1-0,1-0,Évian Thonon Gaillard
+13,Fri Oct 30 2015,20:00,Red Star FC,2-1,0-0,Clermont Foot
+13,Fri Oct 30 2015,20:00,Tours FC,0-1,0-1,Le Havre AC
+13,Fri Oct 30 2015,20:00,US Créteil-Lusitanos,1-2,0-0,Nîmes Olympique
+13,Fri Oct 30 2015,20:00,Valenciennes FC,0-0,0-0,Stade Laval
+13,Sat Oct 31 2015,14:00,Dijon FCO,3-1,0-1,Stade Brest
+13,Sat Oct 31 2015,14:00,FC Bourg-Péronnas,1-1,1-0,AJ Auxerre
+13,Mon Nov 2 2015,20:30,RC Lens,1-0,0-0,AS Nancy
+14,Fri Nov 6 2015,20:00,AC Ajaccio,2-0,2-0,FC Bourg-Péronnas
+14,Fri Nov 6 2015,20:00,AJ Auxerre,1-2,0-0,RC Lens
+14,Fri Nov 6 2015,20:00,Chamois Niortais,1-1,0-1,FC Metz
+14,Fri Nov 6 2015,20:00,Clermont Foot,1-0,0-0,US Créteil-Lusitanos
+14,Fri Nov 6 2015,20:00,Évian Thonon Gaillard,4-0,2-0,Valenciennes FC
+14,Fri Nov 6 2015,20:00,Nîmes Olympique,0-2,0-0,FC Sochaux
+14,Fri Nov 6 2015,20:00,Stade Brest,3-0,1-0,Tours FC
+14,Fri Nov 6 2015,20:00,Stade Laval,0-1,0-0,Le Havre AC
+14,Sat Nov 7 2015,14:00,Paris FC,0-1,0-0,Red Star FC
+14,Mon Nov 9 2015,20:30,AS Nancy,3-1,2-0,Dijon FCO
+15,Fri Nov 20 2015,20:00,Dijon FCO,4-1,4-0,Clermont Foot
+15,Fri Nov 20 2015,20:00,Tours FC,2-1,1-0,Évian Thonon Gaillard
+15,Fri Nov 20 2015,20:00,US Créteil-Lusitanos,0-3,0-1,AS Nancy
+15,Sat Nov 21 2015,14:00,FC Metz,0-1,0-1,AJ Auxerre
+15,Mon Nov 23 2015,20:30,Le Havre AC,0-0,0-0,Stade Brest
+15,Tue Nov 24 2015,20:00,FC Bourg-Péronnas,4-1,2-0,Paris FC
+15,Tue Nov 24 2015,20:00,FC Sochaux,0-0,0-0,Stade Laval
+15,Tue Nov 24 2015,20:00,RC Lens,1-1,0-1,Chamois Niortais
+15,Tue Nov 24 2015,20:00,Red Star FC,1-1,0-1,AC Ajaccio
+15,Tue Nov 24 2015,20:00,Valenciennes FC,2-2,0-1,Nîmes Olympique
+16,Fri Nov 27 2015,20:00,AC Ajaccio,1-1,0-0,RC Lens
+16,Fri Nov 27 2015,20:00,AJ Auxerre,3-1,1-1,US Créteil-Lusitanos
+16,Fri Nov 27 2015,20:00,Chamois Niortais,0-0,0-0,Red Star FC
+16,Fri Nov 27 2015,20:00,Clermont Foot,2-0,2-0,Valenciennes FC
+16,Fri Nov 27 2015,20:00,Évian Thonon Gaillard,0-0,0-0,Stade Laval
+16,Fri Nov 27 2015,20:00,FC Metz,5-0,2-0,FC Bourg-Péronnas
+16,Fri Nov 27 2015,20:00,Nîmes Olympique,2-1,0-1,Tours FC
+16,Fri Nov 27 2015,20:00,Paris FC,0-3,0-2,Dijon FCO
+16,Fri Nov 27 2015,20:00,Stade Brest,1-0,1-0,FC Sochaux
+16,Sat Nov 28 2015,14:00,AS Nancy,3-1,1-1,Le Havre AC
+17,Mon Nov 30 2015,20:30,RC Lens,1-0,0-0,Nîmes Olympique
+17,Tue Dec 1 2015,21:00,Dijon FCO,0-0,0-0,AJ Auxerre
+17,Tue Dec 1 2015,21:00,FC Bourg-Péronnas,2-1,1-0,Chamois Niortais
+17,Tue Dec 1 2015,21:00,FC Sochaux,2-2,0-1,AS Nancy
+17,Tue Dec 1 2015,21:00,Le Havre AC,3-2,1-1,Évian Thonon Gaillard
+17,Tue Dec 1 2015,21:00,Red Star FC,3-1,0-0,FC Metz
+17,Tue Dec 1 2015,21:00,Stade Laval,2-0,1-0,Stade Brest
+17,Tue Dec 1 2015,21:00,Tours FC,1-1,0-1,Clermont Foot
+17,Tue Dec 1 2015,21:00,US Créteil-Lusitanos,0-0,0-0,Paris FC
+17,Tue Dec 1 2015,21:00,Valenciennes FC,1-1,0-1,AC Ajaccio
+18,Fri Dec 11 2015,20:00,AC Ajaccio,3-0,1-0,US Créteil-Lusitanos
+18,Fri Dec 11 2015,20:00,AJ Auxerre,2-1,0-1,FC Sochaux
+18,Fri Dec 11 2015,20:00,Chamois Niortais,0-0,0-0,Tours FC
+18,Fri Dec 11 2015,20:00,Clermont Foot,4-1,1-0,Stade Laval
+18,Fri Dec 11 2015,20:00,Évian Thonon Gaillard,0-2,0-1,Stade Brest
+18,Fri Dec 11 2015,20:00,FC Bourg-Péronnas,0-1,0-0,Red Star FC
+18,Fri Dec 11 2015,20:00,Nîmes Olympique,2-2,0-1,Le Havre AC
+18,Fri Dec 11 2015,20:00,Paris FC,0-1,0-1,RC Lens
+18,Sat Dec 12 2015,14:00,FC Metz,1-2,0-1,Dijon FCO
+18,Mon Dec 14 2015,20:30,AS Nancy,1-0,0-0,Valenciennes FC
+19,Thu Dec 17 2015,20:30,Évian Thonon Gaillard,0-1,0-0,AS Nancy
+19,Fri Dec 18 2015,20:00,Dijon FCO,0-0,0-0,Red Star FC
+19,Fri Dec 18 2015,20:00,FC Sochaux,3-0,0-0,AC Ajaccio
+19,Fri Dec 18 2015,20:00,Le Havre AC,1-0,0-0,AJ Auxerre
+19,Fri Dec 18 2015,20:00,Stade Brest,1-2,1-0,Clermont Foot
+19,Fri Dec 18 2015,20:00,Stade Laval,3-2,1-1,Nîmes Olympique
+19,Fri Dec 18 2015,20:00,US Créteil-Lusitanos,2-3,1-1,Chamois Niortais
+19,Fri Dec 18 2015,20:00,Valenciennes FC,1-1,1-1,Paris FC
+19,Sat Dec 19 2015,14:00,RC Lens,2-0,2-0,FC Bourg-Péronnas
+19,Sat Dec 19 2015,14:00,Tours FC,2-0,1-0,FC Metz
+20,Fri Jan 8 2016,20:00,Chamois Niortais,2-2,1-1,Dijon FCO
+20,Fri Jan 8 2016,20:00,Clermont Foot,4-1,4-0,Évian Thonon Gaillard
+20,Fri Jan 8 2016,20:00,AC Ajaccio,1-1,1-0,Le Havre AC
+20,Fri Jan 8 2016,20:00,Nîmes Olympique,2-0,0-0,Stade Brest
+20,Fri Jan 8 2016,20:00,AS Nancy,1-0,1-0,Stade Laval
+20,Fri Jan 8 2016,20:00,Paris FC,1-3,0-1,Tours FC
+20,Fri Jan 8 2016,20:00,FC Bourg-Péronnas,5-1,1-1,US Créteil-Lusitanos
+20,Fri Jan 8 2016,20:00,AJ Auxerre,1-1,0-0,Valenciennes FC
+20,Sat Jan 9 2016,14:00,Red Star FC,1-2,0-0,RC Lens
+20,Mon Jan 11 2016,20:30,FC Metz,1-0,0-0,FC Sochaux
+21,Fri Jan 15 2016,20:00,Évian Thonon Gaillard,0-2,0-1,AC Ajaccio
+21,Fri Jan 15 2016,20:00,Stade Laval,4-1,0-1,AJ Auxerre
+21,Fri Jan 15 2016,20:00,FC Sochaux,2-3,2-1,Chamois Niortais
+21,Fri Jan 15 2016,20:00,Nîmes Olympique,6-2,3-2,Clermont Foot
+21,Fri Jan 15 2016,20:00,Dijon FCO,3-0,2-0,FC Bourg-Péronnas
+21,Fri Jan 15 2016,20:00,Le Havre AC,2-1,1-0,Paris FC
+21,Fri Jan 15 2016,20:00,US Créteil-Lusitanos,1-1,0-0,RC Lens
+21,Fri Jan 15 2016,20:00,Tours FC,0-0,0-0,Red Star FC
+21,Sat Jan 16 2016,14:00,Stade Brest,1-1,1-0,AS Nancy
+21,Mon Jan 18 2016,20:30,Valenciennes FC,2-1,1-1,FC Metz
+22,Fri Jan 22 2016,20:00,Paris FC,0-0,0-0,FC Sochaux
+22,Fri Jan 22 2016,20:00,AS Nancy,3-4,2-2,Nîmes Olympique
+22,Fri Jan 22 2016,20:00,AJ Auxerre,2-1,1-0,Tours FC
+22,Fri Jan 22 2016,20:00,FC Metz,2-1,0-1,US Créteil-Lusitanos
+22,Fri Jan 22 2016,20:00,FC Bourg-Péronnas,0-0,0-0,Valenciennes FC
+22,Sat Jan 23 2016,14:00,RC Lens,1-1,1-1,Dijon FCO
+22,Sat Jan 23 2016,14:00,Chamois Niortais,0-3,0-1,Évian Thonon Gaillard
+22,Sat Jan 23 2016,14:00,Red Star FC,2-0,1-0,Stade Laval
+22,Mon Jan 25 2016,20:00,AC Ajaccio,2-1,1-1,Stade Brest
+22,Mon Jan 25 2016,20:30,Clermont Foot,2-1,0-0,Le Havre AC
+23,Fri Jan 29 2016,20:00,Tours FC,1-1,0-1,AC Ajaccio
+23,Fri Jan 29 2016,20:00,Nîmes Olympique,2-1,1-0,AJ Auxerre
+23,Fri Jan 29 2016,20:00,Stade Laval,0-0,0-0,Chamois Niortais
+23,Fri Jan 29 2016,20:00,AS Nancy,3-1,0-0,Clermont Foot
+23,Fri Jan 29 2016,20:00,US Créteil-Lusitanos,0-1,0-0,Dijon FCO
+23,Fri Jan 29 2016,20:00,FC Sochaux,1-1,1-1,FC Bourg-Péronnas
+23,Fri Jan 29 2016,20:00,Évian Thonon Gaillard,0-1,0-1,FC Metz
+23,Fri Jan 29 2016,20:00,Stade Brest,1-0,1-0,Paris FC
+23,Fri Jan 29 2016,20:00,Valenciennes FC,0-0,0-0,Red Star FC
+23,Sat Jan 30 2016,14:30,Le Havre AC,2-0,1-0,RC Lens
+24,Mon Feb 1 2016,20:30,Paris FC,0-0,0-0,Clermont Foot
+24,Tue Feb 2 2016,21:00,Chamois Niortais,0-0,0-0,AS Nancy
+24,Tue Feb 2 2016,21:00,AJ Auxerre,3-1,2-0,Évian Thonon Gaillard
+24,Tue Feb 2 2016,21:00,US Créteil-Lusitanos,1-1,0-0,FC Sochaux
+24,Tue Feb 2 2016,21:00,Red Star FC,2-1,1-0,Le Havre AC
+24,Tue Feb 2 2016,21:00,AC Ajaccio,2-0,1-0,Nîmes Olympique
+24,Tue Feb 2 2016,21:00,RC Lens,2-0,1-0,Stade Brest
+24,Tue Feb 2 2016,21:00,FC Metz,1-0,1-0,Stade Laval
+24,Tue Feb 2 2016,21:00,FC Bourg-Péronnas,0-2,0-1,Tours FC
+24,Tue Feb 2 2016,21:00,Dijon FCO,1-0,1-0,Valenciennes FC
+25,Fri Feb 5 2016,20:00,Stade Laval,0-0,0-0,AC Ajaccio
+25,Fri Feb 5 2016,20:00,Clermont Foot,1-2,0-0,AJ Auxerre
+25,Fri Feb 5 2016,20:00,Nîmes Olympique,1-0,0-0,Chamois Niortais
+25,Fri Feb 5 2016,20:00,Stade Brest,2-1,1-0,FC Bourg-Péronnas
+25,Fri Feb 5 2016,20:00,AS Nancy,2-2,1-1,FC Metz
+25,Fri Feb 5 2016,20:00,Évian Thonon Gaillard,1-0,1-0,Paris FC
+25,Fri Feb 5 2016,20:00,Tours FC,0-1,0-0,RC Lens
+25,Fri Feb 5 2016,20:00,FC Sochaux,1-2,1-0,Red Star FC
+25,Fri Feb 5 2016,20:00,Valenciennes FC,2-2,2-1,US Créteil-Lusitanos
+25,Mon Feb 8 2016,20:30,Le Havre AC,0-2,0-0,Dijon FCO
+26,Fri Feb 12 2016,20:00,AJ Auxerre,2-2,0-2,AS Nancy
+26,Fri Feb 12 2016,20:00,AC Ajaccio,3-1,2-0,Clermont Foot
+26,Fri Feb 12 2016,20:00,Red Star FC,2-2,0-0,Évian Thonon Gaillard
+26,Fri Feb 12 2016,20:00,Dijon FCO,2-2,0-1,FC Sochaux
+26,Fri Feb 12 2016,20:00,Paris FC,0-0,0-0,Nîmes Olympique
+26,Fri Feb 12 2016,20:00,Chamois Niortais,1-2,1-1,Stade Brest
+26,Fri Feb 12 2016,20:00,FC Bourg-Péronnas,0-0,0-0,Stade Laval
+26,Fri Feb 12 2016,20:00,US Créteil-Lusitanos,2-2,0-2,Tours FC
+26,Sat Feb 13 2016,14:00,FC Metz,0-1,0-0,Le Havre AC
+26,Mon Feb 15 2016,20:30,RC Lens,0-1,0-1,Valenciennes FC
+27,Fri Feb 19 2016,20:00,AJ Auxerre,0-0,0-0,AC Ajaccio
+27,Fri Feb 19 2016,20:00,Clermont Foot,2-1,0-0,Chamois Niortais
+27,Fri Feb 19 2016,20:00,Stade Laval,2-2,0-2,Dijon FCO
+27,Fri Feb 19 2016,20:00,Évian Thonon Gaillard,1-1,1-1,FC Bourg-Péronnas
+27,Fri Feb 19 2016,20:00,AS Nancy,3-2,0-1,Paris FC
+27,Fri Feb 19 2016,20:00,FC Sochaux,0-0,0-0,RC Lens
+27,Fri Feb 19 2016,20:00,Stade Brest,0-1,0-0,Red Star FC
+27,Fri Feb 19 2016,20:00,Tours FC,1-0,1-0,Valenciennes FC
+27,Sat Feb 20 2016,14:00,Le Havre AC,1-0,1-0,US Créteil-Lusitanos
+27,Mon Feb 22 2016,20:30,Nîmes Olympique,2-1,1-0,FC Metz
+28,Fri Feb 26 2016,20:00,Paris FC,2-2,0-1,AJ Auxerre
+28,Fri Feb 26 2016,20:00,AC Ajaccio,2-1,1-1,AS Nancy
+28,Fri Feb 26 2016,20:00,FC Bourg-Péronnas,1-2,1-1,Clermont Foot
+28,Fri Feb 26 2016,20:00,Valenciennes FC,2-2,1-1,FC Sochaux
+28,Fri Feb 26 2016,20:00,Chamois Niortais,0-0,0-0,Le Havre AC
+28,Fri Feb 26 2016,20:00,FC Metz,2-2,2-2,Stade Brest
+28,Fri Feb 26 2016,20:00,US Créteil-Lusitanos,0-0,0-0,Stade Laval
+28,Fri Feb 26 2016,20:00,Dijon FCO,3-0,1-0,Tours FC
+28,Sat Feb 27 2016,14:00,Red Star FC,1-0,0-0,Nîmes Olympique
+28,Mon Feb 29 2016,20:30,RC Lens,1-0,1-0,Évian Thonon Gaillard
+29,Fri Mar 4 2016,20:00,AJ Auxerre,1-1,1-1,Chamois Niortais
+29,Fri Mar 4 2016,20:00,Évian Thonon Gaillard,1-2,0-2,Dijon FCO
+29,Fri Mar 4 2016,20:00,Nîmes Olympique,1-1,1-1,FC Bourg-Péronnas
+29,Fri Mar 4 2016,20:00,AC Ajaccio,0-0,0-0,Paris FC
+29,Fri Mar 4 2016,20:00,Stade Laval,1-1,0-1,RC Lens
+29,Fri Mar 4 2016,20:00,Stade Brest,2-1,1-1,US Créteil-Lusitanos
+29,Fri Mar 4 2016,20:00,Le Havre AC,3-2,2-1,Valenciennes FC
+29,Sat Mar 5 2016,14:00,Tours FC,1-0,0-0,FC Sochaux
+29,Sat Mar 5 2016,14:00,AS Nancy,2-0,1-0,Red Star FC
+29,Mon Mar 7 2016,20:30,Clermont Foot,2-1,1-1,FC Metz
+30,Fri Mar 11 2016,20:00,FC Metz,3-2,1-2,AC Ajaccio
+30,Fri Mar 11 2016,20:00,FC Bourg-Péronnas,2-0,1-0,AS Nancy
+30,Fri Mar 11 2016,20:00,RC Lens,1-1,0-0,Clermont Foot
+30,Fri Mar 11 2016,20:00,US Créteil-Lusitanos,0-0,0-0,Évian Thonon Gaillard
+30,Fri Mar 11 2016,20:00,FC Sochaux,1-0,0-0,Le Havre AC
+30,Fri Mar 11 2016,20:00,Chamois Niortais,2-1,0-1,Paris FC
+30,Fri Mar 11 2016,20:00,Valenciennes FC,0-1,0-0,Stade Brest
+30,Fri Mar 11 2016,20:00,Tours FC,1-1,0-0,Stade Laval
+30,Sat Mar 12 2016,14:00,Dijon FCO,0-1,0-1,Nîmes Olympique
+30,Mon Mar 14 2016,20:30,Red Star FC,0-2,0-1,AJ Auxerre
+31,Fri Mar 18 2016,20:00,AC Ajaccio,2-0,0-0,Chamois Niortais
+31,Fri Mar 18 2016,20:00,Stade Brest,0-0,0-0,Dijon FCO
+31,Fri Mar 18 2016,20:00,AJ Auxerre,1-2,0-0,FC Bourg-Péronnas
+31,Fri Mar 18 2016,20:00,Paris FC,1-2,0-0,FC Metz
+31,Fri Mar 18 2016,20:00,Évian Thonon Gaillard,0-0,0-0,FC Sochaux
+31,Fri Mar 18 2016,20:00,Le Havre AC,2-0,2-0,Tours FC
+31,Fri Mar 18 2016,20:00,Nîmes Olympique,1-3,0-0,US Créteil-Lusitanos
+31,Fri Mar 18 2016,20:00,Stade Laval,0-3,0-1,Valenciennes FC
+31,Sat Mar 19 2016,14:00,AS Nancy,1-0,0-0,RC Lens
+31,Mon Mar 21 2016,20:30,Clermont Foot,0-2,0-0,Red Star FC
+32,Fri Apr 1 2016,20:00,FC Bourg-Péronnas,3-0,0-0,AC Ajaccio
+32,Fri Apr 1 2016,20:00,RC Lens,3-0,1-0,AJ Auxerre
+32,Fri Apr 1 2016,20:00,FC Metz,2-0,1-0,Chamois Niortais
+32,Fri Apr 1 2016,20:00,US Créteil-Lusitanos,0-3,0-1,Clermont Foot
+32,Fri Apr 1 2016,20:00,Valenciennes FC,1-0,0-0,Évian Thonon Gaillard
+32,Fri Apr 1 2016,20:00,FC Sochaux,0-0,0-0,Nîmes Olympique
+32,Fri Apr 1 2016,20:00,Tours FC,2-1,0-0,Stade Brest
+32,Fri Apr 1 2016,20:00,Le Havre AC,2-0,0-0,Stade Laval
+32,Sat Apr 2 2016,14:00,Dijon FCO,0-0,0-0,AS Nancy
+32,Mon Apr 4 2016,20:30,Red Star FC,2-4,1-2,Paris FC
+33,Fri Apr 8 2016,20:00,Paris FC,2-0,2-0,FC Bourg-Péronnas
+33,Fri Apr 8 2016,20:00,AJ Auxerre,4-0,1-0,FC Metz
+33,Fri Apr 8 2016,20:00,Stade Laval,1-2,0-1,FC Sochaux
+33,Fri Apr 8 2016,20:00,Stade Brest,0-0,0-0,Le Havre AC
+33,Fri Apr 8 2016,20:00,Chamois Niortais,0-1,0-0,RC Lens
+33,Fri Apr 8 2016,20:00,AC Ajaccio,1-2,1-0,Red Star FC
+33,Fri Apr 8 2016,20:00,Évian Thonon Gaillard,0-0,0-0,Tours FC
+33,Fri Apr 8 2016,20:00,Nîmes Olympique,2-0,0-0,Valenciennes FC
+33,Sat Apr 9 2016,14:00,Clermont Foot,2-3,1-0,Dijon FCO
+33,Mon Apr 11 2016,20:30,AS Nancy,1-0,0-0,US Créteil-Lusitanos
+34,Fri Apr 15 2016,20:00,RC Lens,2-0,0-0,AC Ajaccio
+34,Fri Apr 15 2016,20:00,US Créteil-Lusitanos,1-0,1-0,AJ Auxerre
+34,Fri Apr 15 2016,20:00,Red Star FC,0-2,0-1,Chamois Niortais
+34,Fri Apr 15 2016,20:00,Valenciennes FC,1-2,1-1,Clermont Foot
+34,Fri Apr 15 2016,20:00,Stade Laval,2-1,0-0,Évian Thonon Gaillard
+34,Fri Apr 15 2016,20:00,FC Bourg-Péronnas,0-3,0-2,FC Metz
+34,Fri Apr 15 2016,20:00,Tours FC,1-2,1-1,Nîmes Olympique
+34,Fri Apr 15 2016,20:00,FC Sochaux,2-1,2-1,Stade Brest
+34,Sat Apr 16 2016,14:00,Le Havre AC,1-3,1-0,AS Nancy
+34,Mon Apr 18 2016,20:30,Dijon FCO,3-0,0-0,Paris FC
+35,Fri Apr 22 2016,20:00,Chamois Niortais,0-0,0-0,FC Bourg-Péronnas
+35,Fri Apr 22 2016,20:00,Évian Thonon Gaillard,1-1,1-0,Le Havre AC
+35,Fri Apr 22 2016,20:00,Nîmes Olympique,4-2,1-0,RC Lens
+35,Fri Apr 22 2016,20:00,FC Metz,2-0,0-0,Red Star FC
+35,Fri Apr 22 2016,20:00,Stade Brest,0-0,0-0,Stade Laval
+35,Fri Apr 22 2016,20:00,Clermont Foot,0-1,0-1,Tours FC
+35,Fri Apr 22 2016,20:00,Paris FC,2-2,1-1,US Créteil-Lusitanos
+35,Fri Apr 22 2016,20:00,AC Ajaccio,1-1,0-1,Valenciennes FC
+35,Sat Apr 23 2016,14:00,AJ Auxerre,2-0,1-0,Dijon FCO
+35,Mon Apr 25 2016,20:30,AS Nancy,1-0,1-0,FC Sochaux
+36,Fri Apr 29 2016,20:00,US Créteil-Lusitanos,2-2,2-1,AC Ajaccio
+36,Fri Apr 29 2016,20:00,FC Sochaux,2-3,1-0,AJ Auxerre
+36,Fri Apr 29 2016,20:00,Tours FC,1-2,1-0,Chamois Niortais
+36,Fri Apr 29 2016,20:00,Stade Laval,1-1,1-0,Clermont Foot
+36,Fri Apr 29 2016,20:00,Stade Brest,0-2,0-1,Évian Thonon Gaillard
+36,Fri Apr 29 2016,20:00,Red Star FC,1-0,0-0,FC Bourg-Péronnas
+36,Fri Apr 29 2016,20:00,Le Havre AC,3-1,2-0,Nîmes Olympique
+36,Fri Apr 29 2016,20:00,RC Lens,0-1,0-1,Paris FC
+36,Sun May 1 2016,14:00,Dijon FCO,0-4,0-1,FC Metz
+36,Mon May 2 2016,20:30,Valenciennes FC,1-0,1-0,AS Nancy
+37,Fri May 6 2016,20:45,Red Star FC,3-2,2-1,Dijon FCO
+37,Fri May 6 2016,20:45,AS Nancy,1-0,0-0,Évian Thonon Gaillard
+37,Fri May 6 2016,20:45,AC Ajaccio,0-2,0-1,FC Sochaux
+37,Fri May 6 2016,20:45,AJ Auxerre,1-3,1-1,Le Havre AC
+37,Fri May 6 2016,20:45,FC Bourg-Péronnas,2-1,1-0,RC Lens
+37,Fri May 6 2016,20:45,Clermont Foot,2-0,0-0,Stade Brest
+37,Fri May 6 2016,20:45,Nîmes Olympique,1-1,0-1,Stade Laval
+37,Fri May 6 2016,20:45,FC Metz,2-1,1-1,Tours FC
+37,Fri May 6 2016,20:45,Chamois Niortais,4-2,3-2,US Créteil-Lusitanos
+37,Fri May 6 2016,20:45,Paris FC,1-4,1-0,Valenciennes FC
+38,Fri May 13 2016,20:45,Dijon FCO,2-0,1-0,AC Ajaccio
+38,Fri May 13 2016,20:45,Stade Brest,0-0,0-0,AJ Auxerre
+38,Fri May 13 2016,20:45,Tours FC,2-5,1-3,AS Nancy
+38,Fri May 13 2016,20:45,Valenciennes FC,3-3,2-2,Chamois Niortais
+38,Fri May 13 2016,20:45,FC Sochaux,2-0,1-0,Clermont Foot
+38,Fri May 13 2016,20:45,Le Havre AC,5-0,3-0,FC Bourg-Péronnas
+38,Fri May 13 2016,20:45,RC Lens,1-0,1-0,FC Metz
+38,Fri May 13 2016,20:45,Évian Thonon Gaillard,4-1,1-1,Nîmes Olympique
+38,Fri May 13 2016,20:45,Stade Laval,3-1,1-0,Paris FC
+38,Fri May 13 2016,20:45,US Créteil-Lusitanos,2-4,1-3,Red Star FC

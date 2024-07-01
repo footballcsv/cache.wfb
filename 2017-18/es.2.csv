@@ -1,0 +1,463 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 18 2017,20:00,Lorca FC,2-0,1-0,CD Leonesa
+1,Fri Aug 18 2017,22:00,CD Tenerife,1-0,0-0,Real Zaragoza
+1,Sat Aug 19 2017,19:00,CA Osasuna,1-1,0-0,Sevilla Atlético
+1,Sat Aug 19 2017,19:00,AD Alcorcón,0-0,0-0,Sporting Gijón
+1,Sat Aug 19 2017,22:00,Real Valladolid,1-2,0-2,FC Barcelona B
+1,Sat Aug 19 2017,20:30,CD Numancia,1-0,0-0,SD Huesca
+1,Sat Aug 19 2017,20:30,Córdoba CF,1-2,0-2,Cádiz CF
+1,Sun Aug 20 2017,19:00,Real Oviedo,2-3,1-2,Rayo Vallecano
+1,Sun Aug 20 2017,22:00,Granada CF,0-0,0-0,Albacete
+1,Sun Aug 20 2017,20:30,Gimnàstic,0-1,0-1,UD Almería
+1,Mon Aug 21 2017,20:00,CD Lugo,0-0,0-0,CF Reus Deportiu
+2,Fri Aug 25 2017,20:00,Albacete,0-3,0-1,Córdoba CF
+2,Sat Aug 26 2017,19:00,CD Leonesa,2-1,0-1,CA Osasuna
+2,Sat Aug 26 2017,19:00,SD Huesca,2-0,2-0,Lorca FC
+2,Sat Aug 26 2017,20:30,Rayo Vallecano,2-2,2-0,CD Numancia
+2,Sat Aug 26 2017,22:00,UD Almería,1-1,0-0,Real Oviedo
+2,Sat Aug 26 2017,20:30,Sevilla Atlético,1-2,0-2,Real Valladolid
+2,Sun Aug 27 2017,19:00,Sporting Gijón,2-0,0-0,CD Lugo
+2,Sun Aug 27 2017,19:00,Real Zaragoza,1-1,0-1,Granada CF
+2,Sun Aug 27 2017,20:30,CF Reus Deportiu,1-1,1-0,Gimnàstic
+2,Sun Aug 27 2017,20:30,Cádiz CF,0-0,0-0,AD Alcorcón
+2,Mon Aug 28 2017,21:00,FC Barcelona B,0-3,0-2,CD Tenerife
+3,Fri Sep 1 2017,21:30,Granada CF,2-2,1-1,FC Barcelona B
+3,Sat Sep 2 2017,16:00,CD Lugo,0-1,0-0,Cádiz CF
+3,Sat Sep 2 2017,18:00,CA Osasuna,1-1,0-0,SD Huesca
+3,Sat Sep 2 2017,18:00,Gimnàstic,0-4,0-3,Sporting Gijón
+3,Sat Sep 2 2017,18:00,Lorca FC,0-0,0-0,Rayo Vallecano
+3,Sat Sep 2 2017,16:00,CD Numancia,1-0,0-0,UD Almería
+3,Sun Sep 3 2017,18:00,Real Oviedo,3-0,1-0,CF Reus Deportiu
+3,Sun Sep 3 2017,21:30,Córdoba CF,1-2,1-1,Real Zaragoza
+3,Sun Sep 3 2017,20:30,Real Valladolid,2-0,1-0,CD Tenerife
+3,Sun Sep 3 2017,20:00,Sevilla Atlético,1-2,0-0,CD Leonesa
+3,Mon Sep 4 2017,20:30,AD Alcorcón,1-0,0-0,Albacete
+4,Fri Sep 8 2017,21:00,Cádiz CF,2-0,0-0,Gimnàstic
+4,Sat Sep 9 2017,16:00,SD Huesca,0-0,0-0,Sevilla Atlético
+4,Sat Sep 9 2017,18:00,FC Barcelona B,4-0,3-0,Córdoba CF
+4,Sat Sep 9 2017,18:00,Sporting Gijón,1-1,1-0,Real Oviedo
+4,Sat Sep 9 2017,20:00,UD Almería,2-1,0-0,Lorca FC
+4,Sun Sep 10 2017,13:00,CD Tenerife,2-2,0-1,Granada CF
+4,Sun Sep 10 2017,16:00,Real Zaragoza,0-1,0-1,AD Alcorcón
+4,Sun Sep 10 2017,20:30,Rayo Vallecano,0-3,0-1,CA Osasuna
+4,Sun Sep 10 2017,20:00,Albacete,0-1,0-0,CD Lugo
+4,Sun Sep 10 2017,18:00,CD Leonesa,4-4,1-1,Real Valladolid
+4,Mon Sep 11 2017,20:30,CF Reus Deportiu,1-0,1-0,CD Numancia
+5,Fri Sep 15 2017,21:00,CD Lugo,2-1,0-1,Real Zaragoza
+5,Sat Sep 16 2017,18:00,Lorca FC,1-1,1-0,CF Reus Deportiu
+5,Sat Sep 16 2017,20:30,CD Numancia,3-0,2-0,Sporting Gijón
+5,Sat Sep 16 2017,18:00,Sevilla Atlético,0-0,0-0,Rayo Vallecano
+5,Sat Sep 16 2017,20:00,CA Osasuna,2-1,0-1,UD Almería
+5,Sat Sep 16 2017,16:00,Real Valladolid,2-1,1-0,Granada CF
+5,Sun Sep 17 2017,12:00,CD Leonesa,3-2,2-1,SD Huesca
+5,Sun Sep 17 2017,16:00,AD Alcorcón,1-1,0-0,FC Barcelona B
+5,Sun Sep 17 2017,18:00,Gimnàstic,3-1,2-1,Albacete
+5,Sun Sep 17 2017,18:00,Real Oviedo,1-0,0-0,Cádiz CF
+5,Sun Sep 17 2017,20:00,Córdoba CF,2-0,0-0,CD Tenerife
+6,Fri Sep 22 2017,21:00,UD Almería,3-0,1-0,Sevilla Atlético
+6,Sat Sep 23 2017,18:00,Sporting Gijón,1-0,1-0,Lorca FC
+6,Sat Sep 23 2017,16:00,CF Reus Deportiu,0-0,0-0,CA Osasuna
+6,Sat Sep 23 2017,18:00,Granada CF,3-1,1-0,Córdoba CF
+6,Sat Sep 23 2017,20:00,CD Tenerife,4-0,2-0,AD Alcorcón
+6,Sun Sep 24 2017,12:00,SD Huesca,1-0,1-0,Real Valladolid
+6,Sun Sep 24 2017,16:00,Rayo Vallecano,3-1,1-1,CD Leonesa
+6,Sun Sep 24 2017,18:00,Albacete,2-1,0-0,Real Oviedo
+6,Sun Sep 24 2017,20:00,Cádiz CF,0-0,0-0,CD Numancia
+6,Sun Sep 24 2017,20:30,Real Zaragoza,1-1,1-0,Gimnàstic
+6,Mon Sep 25 2017,20:30,FC Barcelona B,1-2,1-1,CD Lugo
+7,Fri Sep 29 2017,20:30,CD Leonesa,0-0,0-0,UD Almería
+7,Sat Sep 30 2017,20:00,Lorca FC,3-0,1-0,Cádiz CF
+7,Sat Sep 30 2017,18:00,CD Numancia,5-1,1-1,Albacete
+7,Sat Sep 30 2017,16:00,Real Valladolid,4-1,3-0,Córdoba CF
+7,Sun Oct 1 2017,12:00,AD Alcorcón,1-2,1-1,Granada CF
+7,Sun Oct 1 2017,16:00,SD Huesca,2-1,1-1,Rayo Vallecano
+7,Sun Oct 1 2017,18:00,CA Osasuna,2-0,1-0,Sporting Gijón
+7,Sun Oct 1 2017,18:00,CD Lugo,1-0,0-0,CD Tenerife
+7,Sun Oct 1 2017,20:00,Sevilla Atlético,0-1,0-1,CF Reus Deportiu
+7,Mon Oct 2 2017,21:00,Real Oviedo,2-2,2-2,Real Zaragoza
+8,Sat Oct 7 2017,20:00,CD Tenerife,2-0,0-0,Gimnàstic
+8,Sat Oct 7 2017,16:00,Sporting Gijón,3-0,1-0,Sevilla Atlético
+8,Sat Oct 7 2017,18:00,UD Almería,0-3,0-2,SD Huesca
+8,Sat Oct 7 2017,18:00,CF Reus Deportiu,1-1,1-1,CD Leonesa
+8,Sat Oct 7 2017,20:30,Cádiz CF,0-2,0-0,CA Osasuna
+8,Sun Oct 8 2017,20:30,Real Zaragoza,3-0,1-0,CD Numancia
+8,Sun Oct 8 2017,12:00,Albacete,2-1,1-0,Lorca FC
+8,Sun Oct 8 2017,16:00,Rayo Vallecano,4-1,3-0,Real Valladolid
+8,Sun Oct 8 2017,20:00,Granada CF,2-0,1-0,CD Lugo
+8,Sun Oct 8 2017,18:00,Córdoba CF,3-0,0-0,AD Alcorcón
+8,Sun Oct 8 2017,18:00,FC Barcelona B,1-1,1-0,Real Oviedo
+9,Tue Oct 10 2017,20:00,SD Huesca,1-1,0-0,CF Reus Deportiu
+9,Tue Oct 10 2017,21:00,CD Leonesa,0-2,0-0,Sporting Gijón
+9,Wed Oct 11 2017,22:00,Sevilla Atlético,0-0,0-0,Cádiz CF
+9,Wed Oct 11 2017,20:00,Gimnàstic,2-0,2-0,Granada CF
+9,Wed Oct 11 2017,20:00,CD Numancia,1-0,0-0,FC Barcelona B
+9,Wed Oct 11 2017,21:00,Real Oviedo,1-1,1-0,CD Tenerife
+9,Wed Oct 11 2017,22:00,Lorca FC,0-2,0-0,Real Zaragoza
+9,Thu Oct 12 2017,16:00,CD Lugo,2-0,0-0,Córdoba CF
+9,Thu Oct 12 2017,21:00,Rayo Vallecano,1-0,0-0,UD Almería
+9,Thu Oct 12 2017,18:00,Real Valladolid,4-0,1-0,AD Alcorcón
+9,Thu Oct 12 2017,20:00,CA Osasuna,1-0,1-0,Albacete
+10,Fri Oct 13 2017,21:00,Sporting Gijón,1-1,0-0,SD Huesca
+10,Sat Oct 14 2017,20:00,CD Tenerife,1-1,1-1,CD Numancia
+10,Sat Oct 14 2017,16:00,Cádiz CF,2-2,2-0,CD Leonesa
+10,Sat Oct 14 2017,18:00,FC Barcelona B,1-0,0-0,Lorca FC
+10,Sat Oct 14 2017,18:00,Granada CF,2-0,1-0,Real Oviedo
+10,Sun Oct 15 2017,20:30,Real Zaragoza,1-1,1-0,CA Osasuna
+10,Sun Oct 15 2017,12:00,CF Reus Deportiu,0-2,0-1,Rayo Vallecano
+10,Sun Oct 15 2017,16:00,Albacete,2-1,2-0,Sevilla Atlético
+10,Sun Oct 15 2017,20:00,Córdoba CF,1-5,1-2,Gimnàstic
+10,Sun Oct 15 2017,18:00,UD Almería,1-1,1-1,Real Valladolid
+10,Mon Oct 16 2017,21:00,AD Alcorcón,0-1,0-0,CD Lugo
+11,Fri Oct 20 2017,21:00,CA Osasuna,2-2,1-2,FC Barcelona B
+11,Sat Oct 21 2017,20:30,Sevilla Atlético,2-2,1-1,Real Zaragoza
+11,Sat Oct 21 2017,16:00,SD Huesca,1-0,1-0,Cádiz CF
+11,Sat Oct 21 2017,18:00,CD Numancia,1-3,0-2,Granada CF
+11,Sat Oct 21 2017,20:00,Lorca FC,2-2,2-1,CD Tenerife
+11,Sun Oct 22 2017,20:00,UD Almería,0-1,0-1,CF Reus Deportiu
+11,Sun Oct 22 2017,18:00,Gimnàstic,0-3,0-2,AD Alcorcón
+11,Sun Oct 22 2017,16:00,Real Valladolid,2-2,0-2,CD Lugo
+11,Sun Oct 22 2017,18:00,Rayo Vallecano,1-1,1-1,Sporting Gijón
+11,Sun Oct 22 2017,12:00,Real Oviedo,2-0,0-0,Córdoba CF
+11,Mon Oct 23 2017,20:30,CD Leonesa,0-0,0-0,Albacete
+12,Fri Oct 27 2017,21:00,Real Zaragoza,0-0,0-0,CD Leonesa
+12,Sat Oct 28 2017,16:00,CD Lugo,1-0,1-0,Gimnàstic
+12,Sat Oct 28 2017,20:00,Sporting Gijón,2-0,2-0,UD Almería
+12,Sat Oct 28 2017,18:00,Albacete,0-0,0-0,SD Huesca
+12,Sat Oct 28 2017,18:00,Cádiz CF,0-0,0-0,Rayo Vallecano
+12,Sun Oct 29 2017,16:00,Córdoba CF,1-1,1-1,CD Numancia
+12,Sun Oct 29 2017,12:00,FC Barcelona B,1-1,1-0,Sevilla Atlético
+12,Sun Oct 29 2017,20:30,CD Tenerife,0-0,0-0,CA Osasuna
+12,Sun Oct 29 2017,20:00,CF Reus Deportiu,2-2,1-1,Real Valladolid
+12,Sun Oct 29 2017,18:00,AD Alcorcón,2-0,1-0,Real Oviedo
+12,Mon Oct 30 2017,20:30,Granada CF,4-1,2-0,Lorca FC
+7,Wed Nov 1 2017,18:00,Gimnàstic,0-0,0-0,FC Barcelona B
+13,Fri Nov 3 2017,20:30,CD Numancia,1-0,0-0,AD Alcorcón
+13,Sat Nov 4 2017,18:00,Sevilla Atlético,1-1,0-1,CD Tenerife
+13,Sat Nov 4 2017,20:30,CF Reus Deportiu,1-0,0-0,Sporting Gijón
+13,Sat Nov 4 2017,20:00,Lorca FC,1-0,0-0,Córdoba CF
+13,Sat Nov 4 2017,16:00,Rayo Vallecano,1-1,0-0,Albacete
+13,Sun Nov 5 2017,12:00,Real Oviedo,3-2,0-1,CD Lugo
+13,Sun Nov 5 2017,16:00,CD Leonesa,1-1,0-1,FC Barcelona B
+13,Sun Nov 5 2017,18:00,CA Osasuna,0-0,0-0,Granada CF
+13,Sun Nov 5 2017,18:00,Real Valladolid,0-3,0-1,Gimnàstic
+13,Sun Nov 5 2017,20:00,UD Almería,0-2,0-1,Cádiz CF
+13,Mon Nov 6 2017,21:00,SD Huesca,3-1,1-0,Real Zaragoza
+14,Fri Nov 10 2017,21:00,Córdoba CF,0-1,0-0,CA Osasuna
+14,Sat Nov 11 2017,16:00,Albacete,2-0,1-0,UD Almería
+14,Sat Nov 11 2017,13:00,AD Alcorcón,1-1,1-0,Lorca FC
+14,Sat Nov 11 2017,18:00,CD Tenerife,2-0,2-0,CD Leonesa
+14,Sat Nov 11 2017,19:30,FC Barcelona B,0-2,0-0,SD Huesca
+14,Sat Nov 11 2017,18:00,Real Zaragoza,3-2,2-0,Rayo Vallecano
+14,Sun Nov 12 2017,12:00,Granada CF,1-2,0-1,Sevilla Atlético
+14,Sun Nov 12 2017,16:00,Gimnàstic,1-2,1-0,Real Oviedo
+14,Sun Nov 12 2017,18:00,CD Lugo,0-1,0-1,CD Numancia
+14,Sun Nov 12 2017,20:30,Sporting Gijón,1-1,1-0,Real Valladolid
+14,Mon Nov 13 2017,21:00,Cádiz CF,1-0,1-0,CF Reus Deportiu
+15,Fri Nov 17 2017,21:00,UD Almería,3-0,1-0,Real Zaragoza
+15,Sat Nov 18 2017,20:00,CF Reus Deportiu,1-1,0-1,Albacete
+15,Sat Nov 18 2017,16:00,SD Huesca,3-0,2-0,CD Tenerife
+15,Sat Nov 18 2017,18:00,Real Valladolid,3-1,1-0,Real Oviedo
+15,Sat Nov 18 2017,18:00,Lorca FC,1-2,1-1,CD Lugo
+15,Sun Nov 19 2017,12:00,CD Numancia,1-2,1-1,Gimnàstic
+15,Sun Nov 19 2017,16:00,Rayo Vallecano,1-0,0-0,FC Barcelona B
+15,Sun Nov 19 2017,18:00,Sevilla Atlético,1-1,0-0,Córdoba CF
+15,Sun Nov 19 2017,20:30,Sporting Gijón,0-3,0-1,Cádiz CF
+15,Sun Nov 19 2017,20:00,CD Leonesa,1-1,1-0,Granada CF
+15,Sun Nov 19 2017,18:00,CA Osasuna,2-3,1-0,AD Alcorcón
+16,Fri Nov 24 2017,21:00,CD Tenerife,2-2,0-1,Rayo Vallecano
+16,Sat Nov 25 2017,16:00,Cádiz CF,1-0,1-0,Real Valladolid
+16,Sat Nov 25 2017,18:00,Real Oviedo,3-1,1-1,CD Numancia
+16,Sat Nov 25 2017,18:00,Gimnàstic,0-2,0-0,Lorca FC
+16,Sat Nov 25 2017,20:00,AD Alcorcón,0-0,0-0,Sevilla Atlético
+16,Sat Nov 25 2017,20:30,Real Zaragoza,0-0,0-0,CF Reus Deportiu
+16,Sun Nov 26 2017,12:00,FC Barcelona B,1-1,0-0,UD Almería
+16,Sun Nov 26 2017,16:00,Granada CF,2-0,2-0,SD Huesca
+16,Sun Nov 26 2017,18:00,Córdoba CF,2-2,2-0,CD Leonesa
+16,Sun Nov 26 2017,20:00,Albacete,2-2,1-0,Sporting Gijón
+16,Sun Nov 26 2017,18:00,CD Lugo,1-0,0-0,CA Osasuna
+17,Sat Dec 2 2017,16:00,SD Huesca,3-1,2-0,Córdoba CF
+17,Sat Dec 2 2017,18:00,Rayo Vallecano,1-0,0-0,Granada CF
+17,Sat Dec 2 2017,18:00,CF Reus Deportiu,2-1,1-1,FC Barcelona B
+17,Sat Dec 2 2017,20:00,Lorca FC,0-2,0-2,Real Oviedo
+17,Sun Dec 3 2017,12:00,CD Leonesa,2-2,1-1,AD Alcorcón
+17,Sun Dec 3 2017,16:00,Real Valladolid,2-3,2-0,CD Numancia
+17,Sun Dec 3 2017,18:00,Sevilla Atlético,1-1,1-0,CD Lugo
+17,Sun Dec 3 2017,20:30,Sporting Gijón,0-1,0-0,Real Zaragoza
+17,Sun Dec 3 2017,20:00,UD Almería,2-1,1-0,CD Tenerife
+17,Sun Dec 3 2017,18:00,Cádiz CF,2-0,1-0,Albacete
+18,Fri Dec 8 2017,21:00,FC Barcelona B,2-1,2-0,Sporting Gijón
+18,Fri Dec 8 2017,18:00,Granada CF,3-2,1-0,UD Almería
+18,Sat Dec 9 2017,20:30,Real Zaragoza,0-2,0-0,Cádiz CF
+18,Sat Dec 9 2017,20:00,CD Numancia,1-0,1-0,Lorca FC
+18,Sat Dec 9 2017,18:00,AD Alcorcón,1-1,1-1,SD Huesca
+18,Sat Dec 9 2017,16:00,Albacete,2-1,1-0,Real Valladolid
+18,Sun Dec 10 2017,20:00,CD Tenerife,3-0,1-0,CF Reus Deportiu
+18,Sun Dec 10 2017,12:00,Córdoba CF,2-2,2-0,Rayo Vallecano
+18,Sun Dec 10 2017,16:00,CD Lugo,3-1,0-0,CD Leonesa
+18,Sun Dec 10 2017,18:00,Real Oviedo,1-0,1-0,CA Osasuna
+18,Sun Dec 10 2017,18:00,Gimnàstic,2-1,2-0,Sevilla Atlético
+19,Fri Dec 15 2017,21:00,Cádiz CF,3-1,0-0,FC Barcelona B
+19,Sat Dec 16 2017,20:00,UD Almería,1-0,0-0,Córdoba CF
+19,Sat Dec 16 2017,16:00,CA Osasuna,2-2,2-1,CD Numancia
+19,Sat Dec 16 2017,18:00,CF Reus Deportiu,0-0,0-0,Granada CF
+19,Sat Dec 16 2017,18:00,Real Valladolid,3-0,1-0,Lorca FC
+19,Sat Dec 16 2017,20:30,Albacete,0-0,0-0,Real Zaragoza
+19,Sun Dec 17 2017,18:00,Sporting Gijón,3-0,2-0,CD Tenerife
+19,Sun Dec 17 2017,12:00,Sevilla Atlético,0-1,0-1,Real Oviedo
+19,Sun Dec 17 2017,16:00,SD Huesca,3-0,2-0,CD Lugo
+19,Sun Dec 17 2017,20:00,Rayo Vallecano,2-1,0-0,AD Alcorcón
+19,Sun Dec 17 2017,18:00,CD Leonesa,2-0,0-0,Gimnàstic
+20,Tue Dec 19 2017,20:00,FC Barcelona B,0-1,0-1,Albacete
+20,Tue Dec 19 2017,21:00,Real Valladolid,3-2,3-1,Real Zaragoza
+20,Wed Dec 20 2017,21:00,Córdoba CF,5-0,2-0,CF Reus Deportiu
+20,Wed Dec 20 2017,20:00,Lorca FC,0-1,0-1,CA Osasuna
+20,Wed Dec 20 2017,21:00,Granada CF,2-1,0-0,Sporting Gijón
+20,Thu Dec 21 2017,21:00,CD Tenerife,1-1,0-1,Cádiz CF
+20,Thu Dec 21 2017,20:00,CD Numancia,3-0,0-0,Sevilla Atlético
+20,Fri Dec 22 2017,20:00,CD Lugo,1-2,0-1,Rayo Vallecano
+20,Fri Dec 22 2017,21:00,AD Alcorcón,2-0,1-0,UD Almería
+20,Sat Dec 23 2017,18:00,Real Oviedo,3-0,1-0,CD Leonesa
+20,Sat Dec 23 2017,16:00,Gimnàstic,1-2,0-1,SD Huesca
+21,Sat Jan 6 2018,16:00,Sporting Gijón,3-2,2-0,Córdoba CF
+21,Sat Jan 6 2018,20:30,Real Zaragoza,1-1,0-0,FC Barcelona B
+21,Sat Jan 6 2018,18:00,Rayo Vallecano,2-3,1-2,Gimnàstic
+21,Sat Jan 6 2018,18:00,Cádiz CF,1-0,1-0,Granada CF
+21,Sat Jan 6 2018,20:00,CF Reus Deportiu,1-1,0-1,AD Alcorcón
+21,Sun Jan 7 2018,20:00,UD Almería,1-0,0-0,CD Lugo
+21,Sun Jan 7 2018,12:00,Sevilla Atlético,3-2,2-2,Lorca FC
+21,Sun Jan 7 2018,12:00,CA Osasuna,4-2,1-2,Real Valladolid
+21,Sun Jan 7 2018,16:00,Albacete,1-2,0-0,CD Tenerife
+21,Sun Jan 7 2018,18:00,SD Huesca,1-1,1-0,Real Oviedo
+21,Sun Jan 7 2018,18:00,CD Leonesa,2-2,0-0,CD Numancia
+22,Fri Jan 12 2018,21:00,Rayo Vallecano,2-2,1-1,Real Oviedo
+22,Sat Jan 13 2018,20:30,Real Zaragoza,1-0,1-0,CD Tenerife
+22,Sat Jan 13 2018,16:00,FC Barcelona B,0-1,0-0,Real Valladolid
+22,Sat Jan 13 2018,18:00,Sporting Gijón,3-0,1-0,AD Alcorcón
+22,Sat Jan 13 2018,18:00,UD Almería,1-1,0-0,Gimnàstic
+22,Sat Jan 13 2018,20:00,CF Reus Deportiu,0-1,0-1,CD Lugo
+22,Sun Jan 14 2018,18:00,CD Leonesa,2-1,0-0,Lorca FC
+22,Sun Jan 14 2018,12:00,SD Huesca,2-1,0-0,CD Numancia
+22,Sun Jan 14 2018,16:00,Cádiz CF,2-0,1-0,Córdoba CF
+22,Sun Jan 14 2018,20:00,Sevilla Atlético,0-1,0-0,CA Osasuna
+22,Sun Jan 14 2018,18:00,Albacete,2-1,1-0,Granada CF
+17,Thu Jan 18 2018,19:00,CA Osasuna,0-2,0-1,Gimnàstic
+23,Fri Jan 19 2018,21:00,Granada CF,2-1,2-1,Real Zaragoza
+23,Sat Jan 20 2018,18:00,Real Oviedo,2-1,0-0,UD Almería
+23,Sat Jan 20 2018,16:00,Real Valladolid,1-0,0-0,Sevilla Atlético
+23,Sat Jan 20 2018,18:00,Córdoba CF,1-0,0-0,Albacete
+23,Sat Jan 20 2018,20:00,Lorca FC,2-3,2-1,SD Huesca
+23,Sat Jan 20 2018,20:30,CD Lugo,3-1,1-0,Sporting Gijón
+23,Sun Jan 21 2018,12:00,AD Alcorcón,1-0,1-0,Cádiz CF
+23,Sun Jan 21 2018,16:00,CA Osasuna,2-1,1-0,CD Leonesa
+23,Sun Jan 21 2018,18:00,Gimnàstic,1-2,0-1,CF Reus Deportiu
+23,Sun Jan 21 2018,18:00,CD Numancia,0-0,0-0,Rayo Vallecano
+23,Sun Jan 21 2018,20:00,CD Tenerife,1-3,0-3,FC Barcelona B
+24,Fri Jan 26 2018,21:00,Real Zaragoza,1-0,1-0,Córdoba CF
+24,Sat Jan 27 2018,16:00,FC Barcelona B,3-0,1-0,Granada CF
+24,Sat Jan 27 2018,20:30,Cádiz CF,1-1,0-0,CD Lugo
+24,Sat Jan 27 2018,18:00,Rayo Vallecano,5-1,2-0,Lorca FC
+24,Sat Jan 27 2018,20:00,Albacete,2-0,1-0,AD Alcorcón
+24,Sat Jan 27 2018,18:00,CF Reus Deportiu,0-0,0-0,Real Oviedo
+24,Sun Jan 28 2018,12:00,CD Leonesa,2-1,0-1,Sevilla Atlético
+24,Sun Jan 28 2018,16:00,Sporting Gijón,2-0,1-0,Gimnàstic
+24,Sun Jan 28 2018,20:00,CD Tenerife,0-0,0-0,Real Valladolid
+24,Sun Jan 28 2018,18:00,SD Huesca,1-0,1-0,CA Osasuna
+24,Sun Jan 28 2018,18:00,UD Almería,0-0,0-0,CD Numancia
+25,Fri Feb 2 2018,21:00,CA Osasuna,1-1,0-1,Rayo Vallecano
+25,Sat Feb 3 2018,16:00,Gimnàstic,0-0,0-0,Cádiz CF
+25,Sat Feb 3 2018,18:00,Real Valladolid,3-2,2-2,CD Leonesa
+25,Sat Feb 3 2018,18:00,AD Alcorcón,1-1,1-1,Real Zaragoza
+25,Sat Feb 3 2018,20:00,Lorca FC,1-2,1-0,UD Almería
+25,Sat Feb 3 2018,20:30,Granada CF,2-1,2-0,CD Tenerife
+25,Sun Feb 4 2018,12:00,CD Lugo,1-1,0-0,Albacete
+25,Sun Feb 4 2018,20:00,Córdoba CF,1-2,1-0,FC Barcelona B
+25,Sun Feb 4 2018,18:00,CD Numancia,1-0,0-0,CF Reus Deportiu
+25,Sun Feb 4 2018,18:00,Real Oviedo,2-1,1-1,Sporting Gijón
+25,Sun Feb 4 2018,16:00,Sevilla Atlético,0-1,0-0,SD Huesca
+26,Fri Feb 9 2018,21:00,Granada CF,1-0,1-0,Real Valladolid
+26,Sat Feb 10 2018,20:00,UD Almería,0-1,0-0,CA Osasuna
+26,Sat Feb 10 2018,16:00,Sporting Gijón,2-0,0-0,CD Numancia
+26,Sat Feb 10 2018,18:00,Cádiz CF,2-1,0-0,Real Oviedo
+26,Sat Feb 10 2018,18:00,FC Barcelona B,0-1,0-0,AD Alcorcón
+26,Sun Feb 11 2018,12:00,Albacete,0-1,0-1,Gimnàstic
+26,Sun Feb 11 2018,16:00,SD Huesca,1-0,0-0,CD Leonesa
+26,Sun Feb 11 2018,18:00,CF Reus Deportiu,3-0,0-0,Lorca FC
+26,Sun Feb 11 2018,18:00,Rayo Vallecano,2-0,0-0,Sevilla Atlético
+26,Sun Feb 11 2018,20:00,CD Tenerife,5-1,2-1,Córdoba CF
+26,Sun Feb 11 2018,20:30,Real Zaragoza,2-0,1-0,CD Lugo
+27,Fri Feb 16 2018,21:00,Real Valladolid,3-2,2-0,SD Huesca
+27,Sat Feb 17 2018,18:00,Real Oviedo,0-0,0-0,Albacete
+27,Sat Feb 17 2018,16:00,CA Osasuna,0-0,0-0,CF Reus Deportiu
+27,Sat Feb 17 2018,18:00,AD Alcorcón,1-1,1-1,CD Tenerife
+27,Sat Feb 17 2018,20:30,Gimnàstic,0-2,0-1,Real Zaragoza
+27,Sat Feb 17 2018,20:00,Lorca FC,0-0,0-0,Sporting Gijón
+27,Sun Feb 18 2018,12:00,Sevilla Atlético,0-3,0-1,UD Almería
+27,Sun Feb 18 2018,16:00,Córdoba CF,1-2,1-0,Granada CF
+27,Sun Feb 18 2018,18:00,CD Numancia,1-0,0-0,Cádiz CF
+27,Sun Feb 18 2018,18:00,CD Leonesa,2-3,0-2,Rayo Vallecano
+27,Sun Feb 18 2018,20:00,CD Lugo,1-2,1-0,FC Barcelona B
+28,Fri Feb 23 2018,21:00,Sporting Gijón,2-0,1-0,CA Osasuna
+28,Sat Feb 24 2018,20:00,Cádiz CF,0-0,0-0,Lorca FC
+28,Sat Feb 24 2018,16:00,FC Barcelona B,1-1,0-0,Gimnàstic
+28,Sat Feb 24 2018,18:00,Rayo Vallecano,3-0,3-0,SD Huesca
+28,Sat Feb 24 2018,18:00,UD Almería,2-1,2-0,CD Leonesa
+28,Sun Feb 25 2018,12:00,Córdoba CF,2-1,0-1,Real Valladolid
+28,Sun Feb 25 2018,16:00,Real Zaragoza,2-1,0-0,Real Oviedo
+28,Sun Feb 25 2018,18:00,Albacete,1-0,1-0,CD Numancia
+28,Sun Feb 25 2018,18:00,CF Reus Deportiu,2-0,0-0,Sevilla Atlético
+28,Sun Feb 25 2018,18:00,Granada CF,2-0,0-0,AD Alcorcón
+28,Mon Feb 26 2018,20:00,CD Tenerife,3-1,2-1,CD Lugo
+29,Fri Mar 2 2018,21:00,Real Oviedo,0-0,0-0,FC Barcelona B
+29,Sat Mar 3 2018,18:00,CA Osasuna,1-0,1-0,Cádiz CF
+29,Sat Mar 3 2018,16:00,CD Numancia,1-2,1-1,Real Zaragoza
+29,Sat Mar 3 2018,18:00,CD Leonesa,2-0,2-0,CF Reus Deportiu
+29,Sat Mar 3 2018,20:00,CD Lugo,2-1,1-1,Granada CF
+29,Sun Mar 4 2018,12:00,Lorca FC,1-2,1-0,Albacete
+29,Sun Mar 4 2018,16:00,Gimnàstic,1-2,1-2,CD Tenerife
+29,Sun Mar 4 2018,20:00,SD Huesca,2-2,1-1,UD Almería
+29,Sun Mar 4 2018,18:00,AD Alcorcón,1-2,1-1,Córdoba CF
+29,Sun Mar 4 2018,18:00,Real Valladolid,1-1,0-0,Rayo Vallecano
+29,Sun Mar 4 2018,18:00,Sevilla Atlético,0-1,0-1,Sporting Gijón
+30,Fri Mar 9 2018,21:00,CD Tenerife,3-1,2-0,Real Oviedo
+30,Sat Mar 10 2018,20:00,Cádiz CF,4-1,2-0,Sevilla Atlético
+30,Sat Mar 10 2018,16:00,Granada CF,0-1,0-1,Gimnàstic
+30,Sat Mar 10 2018,18:00,UD Almería,0-1,0-1,Rayo Vallecano
+30,Sat Mar 10 2018,18:00,AD Alcorcón,0-0,0-0,Real Valladolid
+30,Sun Mar 11 2018,12:00,Real Zaragoza,3-1,2-0,Lorca FC
+30,Sun Mar 11 2018,16:00,FC Barcelona B,2-2,1-0,CD Numancia
+30,Sun Mar 11 2018,18:00,Albacete,0-0,0-0,CA Osasuna
+30,Sun Mar 11 2018,18:00,Córdoba CF,1-0,0-0,CD Lugo
+30,Sun Mar 11 2018,18:00,Sporting Gijón,4-0,1-0,CD Leonesa
+30,Sun Mar 11 2018,20:00,CF Reus Deportiu,0-0,0-0,SD Huesca
+31,Fri Mar 16 2018,21:00,Sevilla Atlético,1-2,1-1,Albacete
+31,Sat Mar 17 2018,18:00,CD Lugo,2-1,0-1,AD Alcorcón
+31,Sat Mar 17 2018,20:00,CD Leonesa,0-1,0-0,Cádiz CF
+31,Sat Mar 17 2018,18:00,Lorca FC,1-1,1-0,FC Barcelona B
+31,Sat Mar 17 2018,16:00,CA Osasuna,1-2,0-0,Real Zaragoza
+31,Sun Mar 18 2018,12:00,Real Valladolid,2-1,0-1,UD Almería
+31,Sun Mar 18 2018,16:00,Rayo Vallecano,3-2,2-1,CF Reus Deportiu
+31,Sun Mar 18 2018,20:00,CD Numancia,2-0,0-0,CD Tenerife
+31,Sun Mar 18 2018,18:00,Gimnàstic,0-2,0-1,Córdoba CF
+31,Sun Mar 18 2018,18:00,Real Oviedo,2-1,1-1,Granada CF
+31,Mon Mar 19 2018,21:00,SD Huesca,0-2,0-1,Sporting Gijón
+32,Sat Mar 24 2018,13:00,Albacete,0-0,0-0,CD Leonesa
+32,Sat Mar 24 2018,16:00,CD Lugo,0-0,0-0,Real Valladolid
+32,Sat Mar 24 2018,18:00,Córdoba CF,1-1,0-1,Real Oviedo
+32,Sat Mar 24 2018,20:00,CF Reus Deportiu,1-0,1-0,UD Almería
+32,Sat Mar 24 2018,20:45,Sporting Gijón,1-0,0-0,Rayo Vallecano
+32,Sun Mar 25 2018,20:30,Granada CF,1-0,0-0,CD Numancia
+32,Sun Mar 25 2018,16:00,Real Zaragoza,0-1,0-1,Sevilla Atlético
+32,Sun Mar 25 2018,18:00,FC Barcelona B,0-2,0-1,CA Osasuna
+32,Sun Mar 25 2018,20:00,CD Tenerife,2-0,1-0,Lorca FC
+32,Sun Mar 25 2018,12:00,AD Alcorcón,1-0,1-0,Gimnàstic
+32,Mon Mar 26 2018,21:00,Cádiz CF,1-1,0-1,SD Huesca
+33,Sat Mar 31 2018,16:00,CD Leonesa,0-1,0-1,Real Zaragoza
+33,Sat Mar 31 2018,16:00,CD Numancia,2-1,2-1,Córdoba CF
+33,Sat Mar 31 2018,18:00,Real Oviedo,0-1,0-0,AD Alcorcón
+33,Sat Mar 31 2018,18:00,Real Valladolid,1-0,1-0,CF Reus Deportiu
+33,Sun Apr 1 2018,12:00,Sevilla Atlético,3-1,0-0,FC Barcelona B
+33,Sun Apr 1 2018,16:00,Lorca FC,3-2,1-0,Granada CF
+33,Sun Apr 1 2018,16:00,CA Osasuna,0-1,0-0,CD Tenerife
+33,Sun Apr 1 2018,20:00,Gimnàstic,3-0,1-0,CD Lugo
+33,Sun Apr 1 2018,18:00,Rayo Vallecano,1-1,1-1,Cádiz CF
+33,Sun Apr 1 2018,18:00,UD Almería,1-3,0-1,Sporting Gijón
+34,Fri Apr 6 2018,21:00,Cádiz CF,0-0,0-0,UD Almería
+34,Sat Apr 7 2018,16:00,FC Barcelona B,0-1,0-1,CD Leonesa
+34,Sat Apr 7 2018,20:00,Albacete,0-1,0-0,Rayo Vallecano
+34,Sat Apr 7 2018,16:00,Granada CF,1-1,0-0,CA Osasuna
+34,Sat Apr 7 2018,18:00,AD Alcorcón,0-1,0-0,CD Numancia
+34,Sat Apr 7 2018,18:00,Real Zaragoza,1-0,0-0,SD Huesca
+34,Sun Apr 8 2018,18:00,Sporting Gijón,2-1,2-0,CF Reus Deportiu
+34,Sun Apr 8 2018,12:00,Gimnàstic,1-0,0-0,Real Valladolid
+34,Sun Apr 8 2018,16:00,CD Lugo,0-1,0-0,Real Oviedo
+34,Sun Apr 8 2018,18:00,Córdoba CF,1-0,0-0,Lorca FC
+34,Sun Apr 8 2018,20:00,CD Tenerife,2-0,0-0,Sevilla Atlético
+33,Thu Apr 12 2018,20:00,SD Huesca,0-0,0-0,Albacete
+35,Sat Apr 14 2018,16:00,CF Reus Deportiu,1-0,0-0,Cádiz CF
+35,Sat Apr 14 2018,20:00,CD Leonesa,3-2,3-1,CD Tenerife
+35,Sat Apr 14 2018,18:00,Lorca FC,1-1,1-1,AD Alcorcón
+35,Sat Apr 14 2018,18:00,CD Numancia,2-0,0-0,CD Lugo
+35,Sun Apr 15 2018,20:00,Real Oviedo,1-0,1-0,Gimnàstic
+35,Sun Apr 15 2018,16:00,Real Valladolid,0-1,0-1,Sporting Gijón
+35,Sun Apr 15 2018,16:00,UD Almería,1-1,0-1,Albacete
+35,Sun Apr 15 2018,18:00,Rayo Vallecano,2-1,0-0,Real Zaragoza
+35,Sun Apr 15 2018,18:00,Sevilla Atlético,0-0,0-0,Granada CF
+35,Sun Apr 15 2018,12:00,CA Osasuna,1-1,0-1,Córdoba CF
+35,Mon Apr 16 2018,21:00,SD Huesca,2-1,0-0,FC Barcelona B
+36,Fri Apr 20 2018,21:00,Real Oviedo,1-2,0-0,Real Valladolid
+36,Fri Apr 20 2018,21:00,Córdoba CF,3-0,2-0,Sevilla Atlético
+36,Sat Apr 21 2018,16:00,Real Zaragoza,2-1,0-0,UD Almería
+36,Sat Apr 21 2018,16:00,Gimnàstic,0-0,0-0,CD Numancia
+36,Sat Apr 21 2018,18:00,CD Tenerife,2-4,2-1,SD Huesca
+36,Sat Apr 21 2018,18:00,Albacete,0-1,0-0,CF Reus Deportiu
+36,Sun Apr 22 2018,12:00,AD Alcorcón,0-0,0-0,CA Osasuna
+36,Sun Apr 22 2018,16:00,FC Barcelona B,2-3,0-1,Rayo Vallecano
+36,Sun Apr 22 2018,18:00,Cádiz CF,0-0,0-0,Sporting Gijón
+36,Sun Apr 22 2018,18:00,CD Lugo,1-1,0-0,Lorca FC
+36,Sun Apr 22 2018,20:00,Granada CF,3-3,1-0,CD Leonesa
+37,Fri Apr 27 2018,21:00,CF Reus Deportiu,1-1,0-1,Real Zaragoza
+37,Sat Apr 28 2018,16:00,Real Valladolid,1-1,0-0,Cádiz CF
+37,Sat Apr 28 2018,16:00,UD Almería,1-0,0-0,FC Barcelona B
+37,Sat Apr 28 2018,18:00,CA Osasuna,1-1,0-0,CD Lugo
+37,Sat Apr 28 2018,18:00,Sevilla Atlético,1-0,0-0,AD Alcorcón
+37,Sat Apr 28 2018,20:00,SD Huesca,2-1,2-1,Granada CF
+37,Sun Apr 29 2018,12:00,CD Numancia,3-0,2-0,Real Oviedo
+37,Sun Apr 29 2018,16:00,Sporting Gijón,2-1,1-1,Albacete
+37,Sun Apr 29 2018,18:00,CD Leonesa,2-1,1-0,Córdoba CF
+37,Sun Apr 29 2018,18:00,Rayo Vallecano,3-1,1-1,CD Tenerife
+37,Sun Apr 29 2018,20:00,Lorca FC,1-0,0-0,Gimnàstic
+38,Fri May 4 2018,21:00,AD Alcorcón,0-0,0-0,CD Leonesa
+38,Sat May 5 2018,16:00,Córdoba CF,2-4,0-2,SD Huesca
+38,Sat May 5 2018,16:00,CD Numancia,0-1,0-0,Real Valladolid
+38,Sat May 5 2018,18:00,FC Barcelona B,0-1,0-1,CF Reus Deportiu
+38,Sat May 5 2018,20:00,CD Tenerife,0-0,0-0,UD Almería
+38,Sat May 5 2018,18:00,Real Zaragoza,2-1,2-0,Sporting Gijón
+38,Sun May 6 2018,12:00,Gimnàstic,0-2,0-2,CA Osasuna
+38,Sun May 6 2018,18:00,CD Lugo,1-0,1-0,Sevilla Atlético
+38,Sun May 6 2018,18:00,Albacete,1-1,1-1,Cádiz CF
+38,Sun May 6 2018,16:00,Real Oviedo,2-0,1-0,Lorca FC
+38,Mon May 7 2018,21:00,Granada CF,0-2,0-0,Rayo Vallecano
+39,Fri May 11 2018,21:00,Lorca FC,2-1,1-0,CD Numancia
+39,Sat May 12 2018,16:00,Real Valladolid,3-2,1-1,Albacete
+39,Sat May 12 2018,16:00,Sporting Gijón,2-3,1-2,FC Barcelona B
+39,Sat May 12 2018,20:30,CF Reus Deportiu,1-1,1-1,CD Tenerife
+39,Sat May 12 2018,20:30,CA Osasuna,2-1,0-1,Real Oviedo
+39,Sun May 13 2018,12:00,CD Leonesa,1-1,1-0,CD Lugo
+39,Sun May 13 2018,16:00,SD Huesca,1-1,0-1,AD Alcorcón
+39,Sun May 13 2018,18:00,Sevilla Atlético,1-0,0-0,Gimnàstic
+39,Sun May 13 2018,18:00,Rayo Vallecano,1-2,1-0,Córdoba CF
+39,Sun May 13 2018,20:00,UD Almería,2-0,1-0,Granada CF
+39,Mon May 14 2018,21:00,Cádiz CF,2-0,1-0,Real Zaragoza
+40,Fri May 18 2018,21:00,CD Tenerife,1-0,0-0,Sporting Gijón
+40,Sat May 19 2018,16:00,Real Oviedo,2-1,1-0,Sevilla Atlético
+40,Sat May 19 2018,20:30,Granada CF,1-0,1-0,CF Reus Deportiu
+40,Sat May 19 2018,20:30,Lorca FC,1-5,1-1,Real Valladolid
+40,Sat May 19 2018,16:00,Gimnàstic,5-3,0-2,CD Leonesa
+40,Sun May 20 2018,20:00,Córdoba CF,2-0,1-0,UD Almería
+40,Sun May 20 2018,16:00,CD Numancia,1-1,0-0,CA Osasuna
+40,Sun May 20 2018,18:00,AD Alcorcón,4-0,1-0,Rayo Vallecano
+40,Sun May 20 2018,18:00,Real Zaragoza,4-1,3-1,Albacete
+40,Sun May 20 2018,12:00,FC Barcelona B,3-1,3-0,Cádiz CF
+40,Mon May 21 2018,21:00,CD Lugo,0-2,0-2,SD Huesca
+41,Sun May 27 2018,20:30,CF Reus Deportiu,1-2,0-1,Córdoba CF
+41,Sun May 27 2018,20:30,CA Osasuna,1-0,0-0,Lorca FC
+41,Sun May 27 2018,20:30,Real Zaragoza,3-2,1-0,Real Valladolid
+41,Sun May 27 2018,20:30,CD Leonesa,2-0,1-0,Real Oviedo
+41,Sun May 27 2018,20:30,Rayo Vallecano,1-0,1-0,CD Lugo
+41,Sun May 27 2018,20:30,Sevilla Atlético,2-1,1-0,CD Numancia
+41,Sun May 27 2018,20:30,Albacete,0-0,0-0,FC Barcelona B
+41,Sun May 27 2018,20:30,UD Almería,0-0,0-0,AD Alcorcón
+41,Sun May 27 2018,20:30,Cádiz CF,1-1,0-0,CD Tenerife
+41,Sun May 27 2018,20:30,SD Huesca,0-1,0-0,Gimnàstic
+41,Sun May 27 2018,20:30,Sporting Gijón,2-1,1-0,Granada CF
+42,Fri Jun 1 2018,21:00,Lorca FC,2-1,1-0,Sevilla Atlético
+42,Sat Jun 2 2018,20:30,Gimnàstic,2-0,2-0,Rayo Vallecano
+42,Sat Jun 2 2018,20:30,Córdoba CF,3-0,2-0,Sporting Gijón
+42,Sat Jun 2 2018,20:30,CD Tenerife,1-1,0-1,Albacete
+42,Sat Jun 2 2018,20:30,CD Lugo,1-1,0-0,UD Almería
+42,Sat Jun 2 2018,20:30,Granada CF,2-1,1-0,Cádiz CF
+42,Sat Jun 2 2018,20:30,Real Valladolid,2-0,1-0,CA Osasuna
+42,Sat Jun 2 2018,20:30,Real Oviedo,2-1,1-0,SD Huesca
+42,Sat Jun 2 2018,20:30,AD Alcorcón,3-0,2-0,CF Reus Deportiu
+42,Sat Jun 2 2018,20:30,CD Numancia,2-1,1-0,CD Leonesa
+42,Sat Jun 2 2018,20:30,FC Barcelona B,0-2,0-1,Real Zaragoza

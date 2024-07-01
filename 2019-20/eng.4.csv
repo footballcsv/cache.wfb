@@ -1,0 +1,553 @@
+Round,Date,Time,Team 1,FT,HT,Team 2,Comments
+1,Sat Aug 3 2019,13:30,Salford City,2-0,1-0,Stevenage FC,
+1,Sat Aug 3 2019,16:00,Bradford City,0-0,0-0,Cambridge United,
+1,Sat Aug 3 2019,16:00,Carlisle United,2-1,2-1,Crawley Town,
+1,Sat Aug 3 2019,16:00,Colchester United,1-1,1-1,Port Vale FC,
+1,Sat Aug 3 2019,16:00,Crewe Alexandra,0-3,0-2,Plymouth Argyle,
+1,Sat Aug 3 2019,16:00,Exeter City,1-0,0-0,Macclesfield Town,
+1,Sat Aug 3 2019,16:00,Forest Green Rovers,1-0,0-0,Oldham Athletic,
+1,Sat Aug 3 2019,16:00,Leyton Orient,1-0,0-0,Cheltenham Town,
+1,Sat Aug 3 2019,16:00,Morecambe FC,0-2,0-0,Grimsby Town,
+1,Sat Aug 3 2019,16:00,Newport County,2-2,2-0,Mansfield Town,
+1,Sat Aug 3 2019,16:00,Northampton Town,0-1,0-1,Walsall FC,
+1,Sat Aug 3 2019,16:00,Scunthorpe United,0-2,0-0,Swindon Town,
+2,Sat Aug 10 2019,14:00,Grimsby Town,1-1,0-0,Bradford City,
+2,Sat Aug 10 2019,16:00,Cambridge United,0-0,0-0,Newport County,
+2,Sat Aug 10 2019,16:00,Cheltenham Town,4-1,0-0,Scunthorpe United,
+2,Sat Aug 10 2019,16:00,Crawley Town,2-0,1-0,Salford City,
+2,Sat Aug 10 2019,16:00,Macclesfield Town,3-0,1-0,Leyton Orient,
+2,Sat Aug 10 2019,16:00,Walsall FC,1-1,0-1,Forest Green Rovers,
+2,Sat Aug 10 2019,16:00,Oldham Athletic,1-2,1-2,Crewe Alexandra,
+2,Sat Aug 10 2019,16:00,Plymouth Argyle,1-0,0-0,Colchester United,
+2,Sat Aug 10 2019,16:00,Port Vale FC,1-1,1-1,Northampton Town,
+2,Sat Aug 10 2019,16:00,Stevenage FC,0-1,0-0,Exeter City,
+2,Sat Aug 10 2019,16:00,Swindon Town,3-2,0-0,Carlisle United,
+2,Sat Aug 10 2019,16:00,Mansfield Town,2-2,1-2,Morecambe FC,
+3,Sat Aug 17 2019,16:00,Bradford City,3-0,2-0,Oldham Athletic,
+3,Sat Aug 17 2019,16:00,Carlisle United,0-2,0-2,Mansfield Town,
+3,Sat Aug 17 2019,16:00,Colchester United,1-2,1-0,Cambridge United,
+3,Sat Aug 17 2019,16:00,Crewe Alexandra,1-0,0-0,Walsall FC,
+3,Sat Aug 17 2019,16:00,Exeter City,1-1,0-0,Swindon Town,
+3,Sat Aug 17 2019,16:00,Forest Green Rovers,1-0,0-0,Grimsby Town,
+3,Sat Aug 17 2019,16:00,Leyton Orient,0-0,0-0,Stevenage FC,
+3,Sat Aug 17 2019,16:00,Morecambe FC,0-0,0-0,Cheltenham Town,
+3,Sat Aug 17 2019,16:00,Newport County,1-0,0-0,Plymouth Argyle,
+3,Sat Aug 17 2019,16:00,Northampton Town,1-2,0-1,Macclesfield Town,
+3,Sat Aug 17 2019,16:00,Salford City,1-1,0-0,Port Vale FC,
+3,Sat Aug 17 2019,16:00,Scunthorpe United,2-2,1-1,Crawley Town,
+4,Tue Aug 20 2019,20:45,Cambridge United,3-2,0-1,Scunthorpe United,
+4,Tue Aug 20 2019,20:45,Cheltenham Town,2-0,2-0,Carlisle United,
+4,Tue Aug 20 2019,20:45,Crawley Town,1-2,1-1,Crewe Alexandra,
+4,Tue Aug 20 2019,20:45,Grimsby Town,2-2,0-2,Colchester United,
+4,Tue Aug 20 2019,20:45,Macclesfield Town,0-1,0-0,Morecambe FC,
+4,Tue Aug 20 2019,20:45,Mansfield Town,2-3,2-0,Leyton Orient,
+4,Tue Aug 20 2019,20:45,Oldham Athletic,0-0,0-0,Exeter City,
+4,Tue Aug 20 2019,20:45,Plymouth Argyle,2-2,1-1,Salford City,
+4,Tue Aug 20 2019,20:45,Port Vale FC,2-1,2-1,Forest Green Rovers,
+4,Tue Aug 20 2019,20:45,Stevenage FC,0-1,0-1,Bradford City,
+4,Tue Aug 20 2019,20:45,Swindon Town,0-1,0-0,Northampton Town,
+4,Tue Aug 20 2019,20:45,Walsall FC,0-0,0-0,Newport County,
+5,Sat Aug 24 2019,16:00,Bradford City,0-1,0-0,Forest Green Rovers,
+5,Sat Aug 24 2019,16:00,Cambridge United,1-2,1-1,Oldham Athletic,
+5,Sat Aug 24 2019,16:00,Carlisle United,2-2,2-2,Salford City,
+5,Sat Aug 24 2019,16:00,Cheltenham Town,2-2,2-2,Swindon Town,
+5,Sat Aug 24 2019,16:00,Colchester United,1-0,0-0,Northampton Town,
+5,Sat Aug 24 2019,16:00,Plymouth Argyle,3-0,1-0,Walsall FC,
+5,Sat Aug 24 2019,16:00,Leyton Orient,2-3,1-1,Crawley Town,
+5,Sat Aug 24 2019,16:00,Macclesfield Town,1-0,0-0,Scunthorpe United,
+5,Sat Aug 24 2019,16:00,Mansfield Town,0-0,0-0,Stevenage FC,
+5,Sat Aug 24 2019,16:00,Morecambe FC,2-3,1-2,Exeter City,
+5,Sat Aug 24 2019,16:00,Newport County,1-0,0-0,Crewe Alexandra,
+5,Sat Aug 24 2019,16:00,Grimsby Town,5-2,1-1,Port Vale FC,
+6,Sat Aug 31 2019,16:00,Crawley Town,1-0,0-0,Cheltenham Town,
+6,Sat Aug 31 2019,16:00,Crewe Alexandra,2-1,1-1,Bradford City,
+6,Sat Aug 31 2019,16:00,Exeter City,1-0,1-0,Mansfield Town,
+6,Sat Aug 31 2019,16:00,Forest Green Rovers,0-2,0-1,Newport County,
+6,Sat Aug 31 2019,16:00,Northampton Town,3-1,3-1,Plymouth Argyle,
+6,Sat Aug 31 2019,16:00,Oldham Athletic,0-1,0-1,Colchester United,
+6,Sat Aug 31 2019,16:00,Port Vale FC,1-0,0-0,Cambridge United,
+6,Sat Aug 31 2019,16:00,Salford City,1-1,1-0,Leyton Orient,
+6,Sat Aug 31 2019,16:00,Scunthorpe United,0-1,0-0,Carlisle United,
+6,Sat Aug 31 2019,16:00,Stevenage FC,2-2,0-1,Macclesfield Town,
+6,Sat Aug 31 2019,16:00,Swindon Town,3-1,3-1,Morecambe FC,
+6,Sat Aug 31 2019,16:00,Walsall FC,1-3,1-1,Grimsby Town,
+7,Sat Sep 7 2019,16:00,Bradford City,2-1,0-1,Northampton Town,
+7,Sat Sep 7 2019,16:00,Cambridge United,0-1,0-0,Forest Green Rovers,
+7,Sat Sep 7 2019,16:00,Carlisle United,1-3,0-1,Exeter City,
+7,Sat Sep 7 2019,16:00,Cheltenham Town,4-2,1-0,Stevenage FC,
+7,Sat Sep 7 2019,16:00,Colchester United,0-0,0-0,Walsall FC,
+7,Sat Sep 7 2019,16:00,Grimsby Town,0-2,0-0,Crewe Alexandra,
+7,Sat Sep 7 2019,16:00,Leyton Orient,1-3,0-3,Swindon Town,
+7,Sat Sep 7 2019,16:00,Macclesfield Town,1-1,1-0,Crawley Town,
+7,Sat Sep 7 2019,16:00,Mansfield Town,2-0,1-0,Scunthorpe United,
+7,Sat Sep 7 2019,16:00,Morecambe FC,2-2,0-1,Salford City,
+7,Sat Sep 7 2019,16:00,Newport County,1-0,0-0,Port Vale FC,
+7,Sat Sep 7 2019,16:00,Plymouth Argyle,2-2,1-1,Oldham Athletic,
+8,Sat Sep 14 2019,16:00,Crawley Town,1-0,0-0,Mansfield Town,
+8,Sat Sep 14 2019,16:00,Crewe Alexandra,2-3,0-1,Cambridge United,
+8,Sat Sep 14 2019,16:00,Exeter City,2-2,1-1,Leyton Orient,
+8,Sat Sep 14 2019,16:00,Forest Green Rovers,1-0,1-0,Colchester United,
+8,Sat Sep 14 2019,16:00,Northampton Town,2-0,1-0,Newport County,
+8,Sat Sep 14 2019,16:00,Walsall FC,0-1,0-0,Bradford City,
+8,Sat Sep 14 2019,16:00,Port Vale FC,1-0,0-0,Plymouth Argyle,
+8,Sat Sep 14 2019,16:00,Salford City,0-2,0-1,Cheltenham Town,
+8,Sat Sep 14 2019,16:00,Scunthorpe United,3-0,3-0,Morecambe FC,
+8,Sat Sep 14 2019,16:00,Stevenage FC,2-3,1-1,Carlisle United,
+8,Sat Sep 14 2019,16:00,Swindon Town,3-0,2-0,Macclesfield Town,
+8,Sat Sep 14 2019,16:00,Oldham Athletic,2-2,1-0,Grimsby Town,
+9,Tue Sep 17 2019,20:45,Carlisle United,0-0,0-0,Forest Green Rovers,
+9,Tue Sep 17 2019,20:45,Cheltenham Town,3-2,0-0,Bradford City,
+9,Tue Sep 17 2019,20:45,Crawley Town,2-2,1-0,Plymouth Argyle,
+9,Tue Sep 17 2019,20:45,Exeter City,2-0,0-0,Port Vale FC,
+9,Tue Sep 17 2019,20:45,Leyton Orient,1-2,1-1,Crewe Alexandra,
+9,Tue Sep 17 2019,20:45,Macclesfield Town,1-1,1-1,Newport County,
+9,Tue Sep 17 2019,20:45,Mansfield Town,0-4,0-0,Cambridge United,
+9,Tue Sep 17 2019,20:45,Morecambe FC,0-1,0-1,Walsall FC,
+9,Tue Sep 17 2019,20:45,Salford City,1-0,1-0,Grimsby Town,
+9,Tue Sep 17 2019,20:45,Scunthorpe United,2-2,0-0,Oldham Athletic,
+9,Tue Sep 17 2019,20:45,Stevenage FC,0-1,0-0,Northampton Town,
+9,Tue Sep 17 2019,20:45,Swindon Town,0-3,0-1,Colchester United,
+10,Sat Sep 21 2019,16:00,Bradford City,3-1,2-1,Carlisle United,
+10,Sat Sep 21 2019,16:00,Cambridge United,0-1,0-1,Swindon Town,
+10,Sat Sep 21 2019,16:00,Colchester United,2-1,2-1,Leyton Orient,
+10,Sat Sep 21 2019,16:00,Crewe Alexandra,4-1,0-1,Salford City,
+10,Sat Sep 21 2019,16:00,Forest Green Rovers,0-0,0-0,Stevenage FC,
+10,Sat Sep 21 2019,16:00,Grimsby Town,1-0,0-0,Macclesfield Town,
+10,Sat Sep 21 2019,16:00,Newport County,1-1,0-1,Exeter City,
+10,Sat Sep 21 2019,16:00,Northampton Town,2-2,1-0,Crawley Town,
+10,Sat Sep 21 2019,16:00,Oldham Athletic,3-1,1-0,Morecambe FC,
+10,Sat Sep 21 2019,16:00,Plymouth Argyle,0-2,0-1,Cheltenham Town,
+10,Sat Sep 21 2019,16:00,Port Vale FC,2-2,1-1,Mansfield Town,
+10,Sat Sep 21 2019,16:00,Walsall FC,1-0,0-0,Scunthorpe United,
+11,Sat Sep 28 2019,16:00,Carlisle United,1-0,1-0,Oldham Athletic,
+11,Sat Sep 28 2019,16:00,Cheltenham Town,1-1,1-1,Crewe Alexandra,
+11,Sat Sep 28 2019,16:00,Crawley Town,2-3,1-3,Walsall FC,
+11,Sat Sep 28 2019,16:00,Exeter City,1-3,0-1,Grimsby Town,
+11,Sat Sep 28 2019,16:00,Leyton Orient,3-3,1-2,Port Vale FC,
+11,Sat Sep 28 2019,16:00,Swindon Town,0-2,0-1,Newport County,
+11,Sat Sep 28 2019,16:00,Mansfield Town,0-1,0-1,Plymouth Argyle,
+11,Sat Sep 28 2019,16:00,Morecambe FC,2-2,0-2,Northampton Town,
+11,Sat Sep 28 2019,16:00,Salford City,0-4,0-3,Forest Green Rovers,
+11,Sat Sep 28 2019,16:00,Scunthorpe United,1-1,1-0,Bradford City,
+11,Sat Sep 28 2019,16:00,Stevenage FC,1-1,1-0,Cambridge United,
+11,Sat Sep 28 2019,16:00,Macclesfield Town,1-1,1-1,Colchester United,
+12,Sat Oct 5 2019,16:00,Bradford City,2-1,0-0,Swindon Town,
+12,Sat Oct 5 2019,16:00,Cambridge United,2-2,1-0,Macclesfield Town,
+12,Sat Oct 5 2019,16:00,Colchester United,3-1,0-1,Stevenage FC,
+12,Sat Oct 5 2019,16:00,Crewe Alexandra,1-1,0-1,Exeter City,
+12,Sat Oct 5 2019,16:00,Forest Green Rovers,3-1,1-0,Crawley Town,
+12,Sat Oct 5 2019,16:00,Grimsby Town,0-1,0-0,Mansfield Town,
+12,Sat Oct 5 2019,16:00,Newport County,1-0,0-0,Carlisle United,
+12,Sat Oct 5 2019,16:00,Northampton Town,0-1,0-0,Leyton Orient,
+12,Sat Oct 5 2019,16:00,Walsall FC,0-3,0-1,Salford City,
+12,Sat Oct 5 2019,16:00,Plymouth Argyle,2-2,1-1,Scunthorpe United,
+12,Sat Oct 5 2019,16:00,Port Vale FC,3-1,0-1,Morecambe FC,
+12,Sat Oct 5 2019,16:00,Oldham Athletic,1-1,1-0,Cheltenham Town,
+13,Sat Oct 12 2019,16:00,Carlisle United,2-4,0-2,Crewe Alexandra,
+13,Sat Oct 12 2019,16:00,Crawley Town,2-1,0-1,Colchester United,
+13,Sat Oct 12 2019,16:00,Exeter City,1-0,1-0,Forest Green Rovers,
+13,Sat Oct 12 2019,16:00,Leyton Orient,3-1,0-1,Walsall FC,
+13,Sat Oct 12 2019,16:00,Macclesfield Town,2-1,1-1,Port Vale FC,
+13,Sat Oct 12 2019,16:00,Mansfield Town,6-1,3-1,Oldham Athletic,
+13,Sat Oct 12 2019,16:00,Morecambe FC,1-2,0-0,Bradford City,
+13,Sat Oct 12 2019,16:00,Salford City,1-0,0-0,Cambridge United,
+13,Sat Oct 12 2019,16:00,Scunthorpe United,3-0,3-0,Northampton Town,
+13,Sat Oct 12 2019,16:00,Stevenage FC,2-1,2-0,Grimsby Town,
+13,Sat Oct 12 2019,16:00,Swindon Town,1-1,1-0,Plymouth Argyle,
+14,Sat Oct 19 2019,16:00,Walsall FC,1-2,0-1,Cheltenham Town,
+14,Sat Oct 19 2019,16:00,Bradford City,2-1,1-0,Crawley Town,
+14,Sat Oct 19 2019,16:00,Cambridge United,4-0,1-0,Exeter City,
+14,Sat Oct 19 2019,16:00,Colchester United,0-1,0-0,Morecambe FC,
+14,Sat Oct 19 2019,16:00,Crewe Alexandra,3-1,0-1,Swindon Town,
+14,Sat Oct 19 2019,16:00,Forest Green Rovers,2-2,1-0,Mansfield Town,
+14,Sat Oct 19 2019,16:00,Port Vale FC,1-1,1-1,Stevenage FC,
+14,Sat Oct 19 2019,16:00,Newport County,2-1,1-0,Scunthorpe United,
+14,Sat Oct 19 2019,16:00,Northampton Town,2-0,1-0,Salford City,
+14,Sat Oct 19 2019,16:00,Oldham Athletic,0-1,0-0,Macclesfield Town,
+14,Sat Oct 19 2019,16:00,Plymouth Argyle,2-0,1-0,Carlisle United,
+14,Sat Oct 19 2019,16:00,Grimsby Town,0-4,0-2,Leyton Orient,
+15,Tue Oct 22 2019,20:45,Swindon Town,1-0,0-0,Stevenage FC,
+15,Tue Oct 22 2019,20:45,Bradford City,1-2,1-1,Port Vale FC,
+15,Tue Oct 22 2019,20:45,Cambridge United,0-0,0-0,Grimsby Town,
+15,Tue Oct 22 2019,20:45,Carlisle United,0-2,0-0,Northampton Town,
+15,Tue Oct 22 2019,20:45,Cheltenham Town,3-0,1-0,Macclesfield Town,
+15,Tue Oct 22 2019,20:45,Crewe Alexandra,0-0,0-0,Colchester United,
+15,Tue Oct 22 2019,20:45,Mansfield Town,1-2,0-0,Salford City,
+15,Tue Oct 22 2019,20:45,Morecambe FC,0-2,0-0,Forest Green Rovers,
+15,Tue Oct 22 2019,20:45,Scunthorpe United,3-1,2-1,Exeter City,
+15,Tue Oct 22 2019,20:45,Oldham Athletic,2-0,0-0,Walsall FC,
+15,Tue Oct 22 2019,20:45,Plymouth Argyle,4-0,4-0,Leyton Orient,
+15,Tue Oct 22 2019,20:45,Newport County,1-1,0-1,Crawley Town,
+16,Sat Oct 26 2019,14:00,Exeter City,4-0,1-0,Plymouth Argyle,
+16,Sat Oct 26 2019,16:00,Walsall FC,1-2,1-1,Mansfield Town,
+16,Sat Oct 26 2019,16:00,Colchester United,3-1,2-1,Newport County,
+16,Sat Oct 26 2019,16:00,Crawley Town,0-4,0-2,Swindon Town,
+16,Sat Oct 26 2019,16:00,Leyton Orient,1-1,1-0,Carlisle United,
+16,Sat Oct 26 2019,16:00,Northampton Town,2-0,2-0,Cambridge United,
+16,Sat Oct 26 2019,16:00,Port Vale FC,0-0,0-0,Oldham Athletic,
+16,Sat Oct 26 2019,16:00,Salford City,1-1,1-1,Scunthorpe United,
+16,Sat Oct 26 2019,16:00,Stevenage FC,1-0,0-0,Morecambe FC,
+17,Sat Nov 2 2019,16:00,Swindon Town,2-1,1-0,Walsall FC,
+17,Sat Nov 2 2019,16:00,Cambridge United,2-1,0-0,Crawley Town,
+17,Sat Nov 2 2019,16:00,Scunthorpe United,0-0,0-0,Stevenage FC,
+17,Sat Nov 2 2019,16:00,Oldham Athletic,2-2,0-1,Northampton Town,
+17,Sat Nov 2 2019,16:00,Bradford City,2-0,2-0,Exeter City,
+17,Sat Nov 2 2019,16:00,Newport County,1-2,1-1,Salford City,
+17,Sat Nov 2 2019,16:00,Carlisle United,2-1,1-1,Macclesfield Town,
+17,Sat Nov 2 2019,16:00,Cheltenham Town,1-2,0-2,Forest Green Rovers,
+17,Sat Nov 2 2019,16:00,Crewe Alexandra,0-1,0-0,Port Vale FC,
+17,Sat Nov 2 2019,16:00,Mansfield Town,2-3,1-1,Colchester United,
+17,Sat Nov 2 2019,16:00,Morecambe FC,1-0,0-0,Leyton Orient,
+18,Sat Nov 16 2019,16:00,Leyton Orient,0-2,0-1,Scunthorpe United,
+18,Sat Nov 16 2019,16:00,Northampton Town,4-1,3-1,Crewe Alexandra,
+18,Sat Nov 16 2019,16:00,Port Vale FC,2-1,0-1,Carlisle United,
+18,Sat Nov 16 2019,16:00,Salford City,2-3,1-1,Swindon Town,
+18,Sat Nov 16 2019,16:00,Macclesfield Town,0-0,0-0,Mansfield Town,
+18,Sat Nov 16 2019,16:00,Crawley Town,1-1,1-0,Morecambe FC,
+18,Sat Nov 16 2019,16:00,Exeter City,0-0,0-0,Cheltenham Town,
+18,Sat Nov 16 2019,16:00,Forest Green Rovers,0-1,0-1,Plymouth Argyle,
+18,Sat Nov 16 2019,16:00,Walsall FC,2-1,2-0,Cambridge United,
+19,Sat Nov 23 2019,16:00,Newport County,0-1,0-1,Oldham Athletic,
+19,Sat Nov 23 2019,16:00,Northampton Town,2-0,2-0,Grimsby Town,
+19,Sat Nov 23 2019,16:00,Plymouth Argyle,2-1,2-0,Bradford City,
+19,Sat Nov 23 2019,16:00,Leyton Orient,2-4,0-3,Forest Green Rovers,
+19,Sat Nov 23 2019,16:00,Walsall FC,0-0,0-0,Stevenage FC,
+19,Sat Nov 23 2019,16:00,Swindon Town,1-0,1-0,Mansfield Town,
+19,Sat Nov 23 2019,16:00,Scunthorpe United,2-1,1-1,Port Vale FC,
+19,Sat Nov 23 2019,16:00,Crewe Alexandra,5-0,3-0,Morecambe FC,
+19,Sat Nov 23 2019,16:00,Carlisle United,0-0,0-0,Cambridge United,
+19,Sat Nov 23 2019,16:00,Cheltenham Town,1-1,0-1,Colchester United,
+19,Sat Nov 23 2019,16:00,Crawley Town,0-1,0-0,Exeter City,
+19,Sat Nov 23 2019,16:00,Salford City,0-0,0-0,Macclesfield Town,
+16,Tue Nov 26 2019,20:45,Forest Green Rovers,0-0,0-0,Crewe Alexandra,
+16,Tue Nov 26 2019,20:45,Grimsby Town,0-0,0-0,Cheltenham Town,
+16,Sat Nov 30 2019,16:00,Macclesfield Town,1-1,1-0,Bradford City,
+20,Sat Dec 7 2019,16:00,Stevenage FC,0-0,0-0,Crawley Town,
+20,Sat Dec 7 2019,16:00,Mansfield Town,0-3,0-1,Cheltenham Town,
+20,Sat Dec 7 2019,16:00,Morecambe FC,1-1,0-0,Carlisle United,
+20,Sat Dec 7 2019,16:00,Oldham Athletic,1-1,1-1,Leyton Orient,
+20,Sat Dec 7 2019,16:00,Port Vale FC,0-1,0-0,Walsall FC,
+20,Sat Dec 7 2019,16:00,Bradford City,1-0,0-0,Newport County,
+20,Sat Dec 7 2019,16:00,Cambridge United,1-0,1-0,Plymouth Argyle,
+20,Sat Dec 7 2019,16:00,Colchester United,1-0,0-0,Salford City,
+20,Sat Dec 7 2019,16:00,Exeter City,3-2,1-1,Northampton Town,
+20,Sat Dec 7 2019,16:00,Forest Green Rovers,0-2,0-0,Scunthorpe United,
+20,Sat Dec 7 2019,16:00,Grimsby Town,0-3,0-2,Swindon Town,
+21,Sat Dec 14 2019,16:00,Leyton Orient,0-0,0-0,Bradford City,
+21,Sat Dec 14 2019,16:00,Northampton Town,1-0,1-0,Forest Green Rovers,
+21,Sat Dec 14 2019,16:00,Walsall FC,1-1,0-1,Macclesfield Town,
+21,Sat Dec 14 2019,16:00,Swindon Town,2-0,1-0,Oldham Athletic,
+21,Sat Dec 14 2019,16:00,Scunthorpe United,2-2,1-0,Colchester United,
+21,Sat Dec 14 2019,16:00,Salford City,0-1,0-1,Exeter City,
+21,Sat Dec 14 2019,16:00,Carlisle United,0-0,0-0,Grimsby Town,
+21,Sat Dec 14 2019,16:00,Cheltenham Town,1-1,0-1,Cambridge United,
+21,Sat Dec 14 2019,16:00,Crawley Town,0-0,0-0,Port Vale FC,
+21,Sat Dec 14 2019,16:00,Crewe Alexandra,1-1,1-1,Mansfield Town,
+21,Sat Dec 14 2019,16:00,Plymouth Argyle,3-0,2-0,Morecambe FC,
+21,Sat Dec 14 2019,16:00,Newport County,1-1,0-1,Stevenage FC,
+22,Sat Dec 21 2019,14:00,Grimsby Town,0-1,0-0,Scunthorpe United,
+22,Sat Dec 21 2019,16:00,Mansfield Town,1-1,0-0,Northampton Town,
+22,Sat Dec 21 2019,16:00,Morecambe FC,2-1,0-1,Newport County,
+22,Sat Dec 21 2019,16:00,Oldham Athletic,2-1,0-1,Crawley Town,
+22,Sat Dec 21 2019,16:00,Port Vale FC,1-1,1-1,Cheltenham Town,
+22,Sat Dec 21 2019,16:00,Stevenage FC,1-5,0-2,Crewe Alexandra,
+22,Sat Dec 21 2019,16:00,Forest Green Rovers,2-2,0-2,Swindon Town,
+22,Sat Dec 21 2019,16:00,Bradford City,1-1,0-0,Salford City,
+22,Sat Dec 21 2019,16:00,Cambridge United,2-3,0-3,Leyton Orient,
+22,Sat Dec 21 2019,16:00,Colchester United,3-0,2-0,Carlisle United,
+22,Sat Dec 21 2019,16:00,Exeter City,3-3,2-3,Walsall FC,
+23,Thu Dec 26 2019,16:00,Scunthorpe United,0-2,0-1,Walsall FC,
+23,Thu Dec 26 2019,16:00,Mansfield Town,2-2,0-0,Port Vale FC,
+23,Thu Dec 26 2019,16:00,Morecambe FC,1-2,0-1,Oldham Athletic,
+23,Thu Dec 26 2019,16:00,Salford City,3-1,2-0,Crewe Alexandra,
+23,Thu Dec 26 2019,16:00,Swindon Town,4-0,3-0,Cambridge United,
+23,Thu Dec 26 2019,16:00,Stevenage FC,0-0,0-0,Forest Green Rovers,
+23,Thu Dec 26 2019,16:00,Macclesfield Town,1-1,0-0,Grimsby Town,
+23,Thu Dec 26 2019,14:00,Leyton Orient,1-3,0-1,Colchester United,
+23,Thu Dec 26 2019,16:00,Carlisle United,0-0,0-0,Bradford City,
+23,Thu Dec 26 2019,16:00,Cheltenham Town,0-1,0-1,Plymouth Argyle,
+23,Thu Dec 26 2019,16:00,Crawley Town,4-0,1-0,Northampton Town,
+23,Thu Dec 26 2019,16:00,Exeter City,1-0,1-0,Newport County,
+24,Sun Dec 29 2019,16:00,Port Vale FC,2-0,1-0,Swindon Town,
+24,Sun Dec 29 2019,16:00,Grimsby Town,1-1,1-1,Crawley Town,
+24,Sun Dec 29 2019,16:00,Newport County,1-1,0-1,Leyton Orient,
+24,Sun Dec 29 2019,16:00,Northampton Town,1-1,1-1,Cheltenham Town,
+24,Sun Dec 29 2019,16:00,Oldham Athletic,1-4,0-3,Salford City,
+24,Sun Dec 29 2019,16:00,Plymouth Argyle,2-1,1-0,Stevenage FC,
+24,Sun Dec 29 2019,16:00,Walsall FC,1-2,0-0,Carlisle United,
+24,Sun Dec 29 2019,16:00,Forest Green Rovers,1-0,0-0,Macclesfield Town,
+24,Sun Dec 29 2019,16:00,Cambridge United,1-0,0-0,Morecambe FC,
+24,Sun Dec 29 2019,16:00,Colchester United,2-2,1-1,Exeter City,
+24,Sun Dec 29 2019,16:00,Crewe Alexandra,3-1,2-0,Scunthorpe United,
+24,Sun Dec 29 2019,16:00,Bradford City,2-0,1-0,Mansfield Town,
+25,Wed Jan 1 2020,16:00,Crewe Alexandra,4-1,4-0,Carlisle United,
+25,Wed Jan 1 2020,16:00,Walsall FC,1-0,1-0,Leyton Orient,
+25,Wed Jan 1 2020,16:00,Port Vale FC,2-2,1-0,Macclesfield Town,
+25,Wed Jan 1 2020,16:00,Plymouth Argyle,1-2,1-1,Swindon Town,
+25,Wed Jan 1 2020,16:00,Oldham Athletic,0-2,0-1,Scunthorpe United,
+25,Wed Jan 1 2020,16:00,Northampton Town,1-0,0-0,Stevenage FC,
+25,Wed Jan 1 2020,16:00,Newport County,1-1,0-0,Cheltenham Town,
+25,Wed Jan 1 2020,16:00,Bradford City,1-0,0-0,Morecambe FC,
+25,Wed Jan 1 2020,16:00,Cambridge United,2-3,2-1,Mansfield Town,
+25,Wed Jan 1 2020,16:00,Colchester United,1-1,0-0,Crawley Town,
+25,Wed Jan 1 2020,16:00,Grimsby Town,1-0,0-0,Salford City,
+25,Wed Jan 1 2020,16:00,Forest Green Rovers,0-1,0-1,Exeter City,
+26,Sat Jan 4 2020,16:00,Scunthorpe United,1-3,0-1,Plymouth Argyle,
+26,Sat Jan 4 2020,16:00,Crawley Town,1-1,1-0,Forest Green Rovers,
+26,Sat Jan 4 2020,16:00,Macclesfield Town,1-0,1-0,Cambridge United,
+26,Sat Jan 4 2020,16:00,Mansfield Town,0-1,0-0,Grimsby Town,
+26,Sat Jan 4 2020,16:00,Salford City,1-2,0-1,Walsall FC,
+26,Sat Jan 4 2020,16:00,Stevenage FC,0-0,0-0,Colchester United,
+26,Sat Jan 4 2020,16:00,Swindon Town,1-1,1-0,Bradford City,
+26,Sat Jan 4 2020,16:00,Cheltenham Town,3-0,1-0,Oldham Athletic,
+27,Sat Jan 11 2020,16:00,Stevenage FC,0-1,0-0,Port Vale FC,
+27,Sat Jan 11 2020,16:00,Leyton Orient,1-1,0-0,Grimsby Town,
+27,Sat Jan 11 2020,16:00,Cheltenham Town,3-1,1-0,Walsall FC,
+27,Sat Jan 11 2020,16:00,Swindon Town,3-1,1-0,Crewe Alexandra,
+27,Sat Jan 11 2020,16:00,Scunthorpe United,1-2,1-0,Newport County,
+27,Sat Jan 11 2020,16:00,Salford City,1-2,1-1,Northampton Town,
+27,Sat Jan 11 2020,16:00,Morecambe FC,1-1,0-1,Colchester United,
+27,Sat Jan 11 2020,16:00,Carlisle United,0-3,0-1,Plymouth Argyle,
+27,Sat Jan 11 2020,16:00,Mansfield Town,3-4,2-1,Forest Green Rovers,
+27,Sat Jan 11 2020,16:00,Macclesfield Town,1-1,0-0,Oldham Athletic,
+27,Sat Jan 11 2020,16:00,Exeter City,2-0,0-0,Cambridge United,
+27,Sat Jan 11 2020,16:00,Crawley Town,2-1,2-0,Bradford City,
+18,Tue Jan 14 2020,20:45,Stevenage FC,0-0,0-0,Oldham Athletic,
+26,Tue Jan 14 2020,20:45,Morecambe FC,2-1,2-0,Port Vale FC,
+28,Sat Jan 18 2020,16:00,Port Vale FC,1-0,0-0,Leyton Orient,
+28,Sat Jan 18 2020,16:00,Northampton Town,4-1,2-0,Morecambe FC,
+28,Sat Jan 18 2020,16:00,Oldham Athletic,1-1,1-1,Carlisle United,
+28,Sat Jan 18 2020,16:00,Forest Green Rovers,1-2,1-1,Salford City,
+28,Sat Jan 18 2020,16:00,Crewe Alexandra,1-0,0-0,Cheltenham Town,
+28,Sat Jan 18 2020,16:00,Walsall FC,2-1,0-1,Crawley Town,
+28,Sat Jan 18 2020,16:00,Plymouth Argyle,3-1,1-0,Mansfield Town,
+28,Sat Jan 18 2020,16:00,Newport County,2-0,1-0,Swindon Town,
+28,Sat Jan 18 2020,16:00,Colchester United,2-1,2-0,Macclesfield Town,
+28,Sat Jan 18 2020,16:00,Bradford City,2-2,2-1,Scunthorpe United,
+28,Sat Jan 18 2020,16:00,Cambridge United,0-4,0-1,Stevenage FC,
+28,Sat Jan 18 2020,16:00,Grimsby Town,0-1,0-0,Exeter City,
+20,Tue Jan 21 2020,20:45,Macclesfield Town,1-1,1-0,Crewe Alexandra,
+26,Tue Jan 21 2020,20:45,Leyton Orient,1-1,0-1,Northampton Town,
+18,Tue Jan 21 2020,20:45,Colchester United,0-0,0-0,Bradford City,
+29,Sat Jan 25 2020,16:00,Swindon Town,3-0,2-0,Port Vale FC,
+29,Sat Jan 25 2020,16:00,Carlisle United,2-1,2-0,Walsall FC,
+29,Sat Jan 25 2020,16:00,Stevenage FC,1-2,0-0,Plymouth Argyle,
+29,Sat Jan 25 2020,16:00,Scunthorpe United,2-2,1-0,Crewe Alexandra,
+29,Sat Jan 25 2020,16:00,Salford City,1-1,1-0,Oldham Athletic,
+29,Sat Jan 25 2020,16:00,Macclesfield Town,2-1,0-1,Forest Green Rovers,
+29,Sat Jan 25 2020,16:00,Mansfield Town,3-0,2-0,Bradford City,
+29,Sat Jan 25 2020,16:00,Crawley Town,3-2,1-2,Grimsby Town,
+29,Sat Jan 25 2020,16:00,Exeter City,0-0,0-0,Colchester United,
+29,Sat Jan 25 2020,16:00,Leyton Orient,2-1,0-0,Newport County,
+29,Sat Jan 25 2020,16:00,Morecambe FC,1-1,0-0,Cambridge United,
+30,Tue Jan 28 2020,20:45,Northampton Town,3-0,1-0,Scunthorpe United,
+30,Tue Jan 28 2020,20:45,Oldham Athletic,3-1,2-0,Mansfield Town,
+30,Tue Jan 28 2020,20:45,Port Vale FC,3-1,0-1,Exeter City,
+30,Tue Jan 28 2020,20:45,Walsall FC,0-2,0-0,Morecambe FC,
+30,Tue Jan 28 2020,21:15,Plymouth Argyle,2-2,1-1,Crawley Town,
+30,Tue Jan 28 2020,20:45,Newport County,1-0,1-0,Macclesfield Town,
+30,Tue Jan 28 2020,20:45,Grimsby Town,3-1,1-0,Stevenage FC,
+30,Tue Jan 28 2020,20:45,Bradford City,1-1,1-0,Cheltenham Town,
+30,Tue Jan 28 2020,20:45,Cambridge United,0-4,0-1,Salford City,
+30,Tue Jan 28 2020,20:45,Colchester United,3-1,0-0,Swindon Town,
+30,Tue Jan 28 2020,20:45,Crewe Alexandra,2-0,1-0,Leyton Orient,
+30,Tue Jan 28 2020,20:45,Forest Green Rovers,1-4,0-2,Carlisle United,
+31,Sat Feb 1 2020,16:00,Mansfield Town,2-2,0-0,Carlisle United,
+31,Sat Feb 1 2020,16:00,Oldham Athletic,3-0,3-0,Bradford City,
+31,Sat Feb 1 2020,16:00,Plymouth Argyle,1-0,1-0,Newport County,
+31,Sat Feb 1 2020,16:00,Walsall FC,1-2,1-0,Crewe Alexandra,
+31,Sat Feb 1 2020,16:00,Swindon Town,2-1,2-1,Exeter City,
+31,Sat Feb 1 2020,16:00,Macclesfield Town,0-1,0-0,Northampton Town,
+31,Sat Feb 1 2020,16:00,Port Vale FC,1-1,0-0,Salford City,
+31,Sat Feb 1 2020,16:00,Cambridge United,2-1,0-0,Colchester United,
+31,Sat Feb 1 2020,16:00,Cheltenham Town,2-1,2-0,Morecambe FC,
+31,Sat Feb 1 2020,16:00,Crawley Town,3-1,3-0,Scunthorpe United,
+31,Sat Feb 1 2020,16:00,Grimsby Town,2-2,1-1,Forest Green Rovers,
+31,Sat Feb 1 2020,16:00,Stevenage FC,0-3,0-1,Leyton Orient,
+32,Sat Feb 8 2020,16:00,Salford City,0-0,0-0,Crawley Town,
+32,Sat Feb 8 2020,16:00,Scunthorpe United,1-0,1-0,Cheltenham Town,
+32,Sat Feb 8 2020,16:00,Northampton Town,0-1,0-0,Port Vale FC,
+32,Sat Feb 8 2020,16:00,Newport County,0-1,0-0,Cambridge United,
+32,Sat Feb 8 2020,16:00,Morecambe FC,1-1,0-0,Mansfield Town,
+32,Sat Feb 8 2020,16:00,Leyton Orient,1-1,0-0,Macclesfield Town,
+32,Sat Feb 8 2020,16:00,Exeter City,2-1,1-0,Stevenage FC,
+32,Sat Feb 8 2020,16:00,Bradford City,1-1,0-0,Grimsby Town,
+32,Sat Feb 8 2020,16:00,Carlisle United,1-1,0-1,Swindon Town,
+32,Sat Feb 8 2020,16:00,Colchester United,3-0,3-0,Plymouth Argyle,
+32,Sat Feb 8 2020,16:00,Crewe Alexandra,2-1,0-0,Oldham Athletic,
+32,Sat Feb 8 2020,16:00,Forest Green Rovers,1-2,0-0,Walsall FC,
+33,Tue Feb 11 2020,20:45,Leyton Orient,2-1,1-0,Mansfield Town,
+33,Tue Feb 11 2020,20:45,Morecambe FC,2-0,2-0,Macclesfield Town,
+33,Tue Feb 11 2020,20:45,Newport County,0-0,0-0,Walsall FC,
+33,Tue Feb 11 2020,20:45,Northampton Town,0-1,0-0,Swindon Town,
+33,Tue Feb 11 2020,20:45,Salford City,2-3,0-1,Plymouth Argyle,
+33,Tue Feb 11 2020,20:45,Forest Green Rovers,2-3,0-2,Port Vale FC,
+33,Tue Feb 11 2020,20:45,Scunthorpe United,0-2,0-1,Cambridge United,
+33,Tue Feb 11 2020,20:45,Bradford City,3-1,0-1,Stevenage FC,
+33,Tue Feb 11 2020,20:45,Carlisle United,0-1,0-1,Cheltenham Town,
+33,Tue Feb 11 2020,20:45,Colchester United,2-3,2-1,Grimsby Town,
+33,Tue Feb 11 2020,20:45,Crewe Alexandra,2-1,0-0,Crawley Town,
+33,Tue Feb 11 2020,20:45,Exeter City,5-1,2-1,Oldham Athletic,
+34,Sat Feb 15 2020,16:00,Macclesfield Town,2-3,1-2,Exeter City,
+34,Sat Feb 15 2020,16:00,Walsall FC,3-2,0-2,Northampton Town,
+34,Sat Feb 15 2020,16:00,Stevenage FC,0-1,0-1,Salford City,
+34,Sat Feb 15 2020,16:00,Port Vale FC,3-0,1-0,Colchester United,
+34,Sat Feb 15 2020,16:00,Plymouth Argyle,2-1,0-0,Crewe Alexandra,
+34,Sat Feb 15 2020,16:00,Oldham Athletic,1-1,0-0,Forest Green Rovers,
+34,Sat Feb 15 2020,16:00,Mansfield Town,1-0,1-0,Newport County,
+34,Sat Feb 15 2020,16:00,Cambridge United,2-1,0-1,Bradford City,
+34,Sat Feb 15 2020,16:00,Cheltenham Town,2-1,1-1,Leyton Orient,
+34,Sat Feb 15 2020,16:00,Crawley Town,0-0,0-0,Carlisle United,
+34,Sat Feb 15 2020,16:00,Grimsby Town,2-1,0-0,Morecambe FC,
+22,Tue Feb 18 2020,20:45,Macclesfield Town,1-1,1-0,Plymouth Argyle,
+35,Sat Feb 22 2020,16:00,Northampton Town,2-0,1-0,Exeter City,
+35,Sat Feb 22 2020,16:00,Plymouth Argyle,0-0,0-0,Cambridge United,
+35,Sat Feb 22 2020,16:00,Leyton Orient,2-2,1-2,Oldham Athletic,
+35,Sat Feb 22 2020,16:00,Scunthorpe United,1-0,0-0,Forest Green Rovers,
+35,Sat Feb 22 2020,16:00,Swindon Town,3-1,0-0,Grimsby Town,
+35,Sat Feb 22 2020,16:00,Walsall FC,2-2,1-2,Port Vale FC,
+35,Sat Feb 22 2020,16:00,Newport County,2-1,2-1,Bradford City,
+35,Sat Feb 22 2020,16:00,Carlisle United,2-2,1-2,Morecambe FC,
+35,Sat Feb 22 2020,16:00,Cheltenham Town,1-0,0-0,Mansfield Town,
+35,Sat Feb 22 2020,16:00,Crawley Town,2-0,1-0,Stevenage FC,
+35,Sat Feb 22 2020,16:00,Crewe Alexandra,2-0,2-0,Macclesfield Town,
+35,Sat Feb 22 2020,16:00,Salford City,1-2,1-2,Colchester United,
+29,Tue Feb 25 2020,20:45,Cheltenham Town,2-1,1-1,Northampton Town,
+18,Tue Feb 25 2020,20:45,Grimsby Town,4-2,2-1,Newport County,
+36,Sat Feb 29 2020,16:00,Grimsby Town,0-3,0-2,Northampton Town,
+36,Sat Feb 29 2020,16:00,Oldham Athletic,5-0,2-0,Newport County,
+36,Sat Feb 29 2020,16:00,Morecambe FC,1-1,0-0,Crewe Alexandra,
+36,Sat Feb 29 2020,16:00,Port Vale FC,2-2,1-0,Scunthorpe United,
+36,Sat Feb 29 2020,16:00,Macclesfield Town,0-2,0-2,Salford City,
+36,Sat Feb 29 2020,16:00,Bradford City,2-1,2-0,Plymouth Argyle,
+36,Sat Feb 29 2020,16:00,Cambridge United,1-2,0-1,Carlisle United,
+36,Sat Feb 29 2020,16:00,Colchester United,0-2,0-1,Cheltenham Town,
+36,Sat Feb 29 2020,16:00,Exeter City,1-1,0-1,Crawley Town,
+34,Tue Mar 3 2020,20:45,Swindon Town,2-0,1-0,Scunthorpe United,
+17,Tue Mar 3 2020,20:45,Plymouth Argyle,3-0,3-0,Grimsby Town,
+26,Tue Mar 3 2020,20:45,Exeter City,1-1,1-0,Crewe Alexandra,
+37,Sat Mar 7 2020,16:00,Northampton Town,1-2,0-1,Mansfield Town,
+37,Sat Mar 7 2020,16:00,Walsall FC,3-1,1-0,Exeter City,
+37,Sat Mar 7 2020,16:00,Salford City,2-0,1-0,Bradford City,
+37,Sat Mar 7 2020,16:00,Plymouth Argyle,3-0,1-0,Macclesfield Town,
+37,Sat Mar 7 2020,16:00,Swindon Town,0-2,0-1,Forest Green Rovers,
+37,Sat Mar 7 2020,16:00,Newport County,1-0,0-0,Morecambe FC,
+37,Sat Mar 7 2020,16:00,Carlisle United,0-3,0-2,Colchester United,
+37,Sat Mar 7 2020,16:00,Cheltenham Town,0-0,0-0,Port Vale FC,
+37,Sat Mar 7 2020,16:00,Crawley Town,3-0,1-0,Oldham Athletic,
+37,Sat Mar 7 2020,16:00,Crewe Alexandra,3-1,1-0,Stevenage FC,
+37,Sat Mar 7 2020,16:00,Leyton Orient,2-1,2-0,Cambridge United,
+37,Sat Mar 7 2020,14:00,Scunthorpe United,0-2,0-0,Grimsby Town,
+26,Tue Mar 10 2020,20:45,Carlisle United,2-0,2-0,Newport County,
+38,Sat Mar 14 2020,,Cambridge United,(*),,Cheltenham Town,cancelled
+38,Sat Mar 14 2020,,Port Vale FC,(*),,Crawley Town,cancelled
+38,Sat Mar 14 2020,,Stevenage FC,(*),,Newport County,cancelled
+38,Sat Mar 14 2020,,Morecambe FC,(*),,Plymouth Argyle,cancelled
+38,Sat Mar 14 2020,,Bradford City,(*),,Leyton Orient,cancelled
+38,Sat Mar 14 2020,,Oldham Athletic,(*),,Swindon Town,cancelled
+38,Sat Mar 14 2020,,Colchester United,(*),,Scunthorpe United,cancelled
+38,Sat Mar 14 2020,,Exeter City,(*),,Salford City,cancelled
+38,Sat Mar 14 2020,,Forest Green Rovers,(*),,Northampton Town,cancelled
+38,Sat Mar 14 2020,,Grimsby Town,(*),,Carlisle United,cancelled
+38,Sat Mar 14 2020,,Macclesfield Town,(*),,Walsall FC,cancelled
+38,Sat Mar 14 2020,,Mansfield Town,(*),,Crewe Alexandra,cancelled
+39,Tue Mar 17 2020,,Salford City,(*),,Mansfield Town,cancelled
+39,Tue Mar 17 2020,,Walsall FC,(*),,Oldham Athletic,cancelled
+39,Tue Mar 17 2020,,Stevenage FC,(*),,Swindon Town,cancelled
+39,Tue Mar 17 2020,,Port Vale FC,(*),,Bradford City,cancelled
+39,Tue Mar 17 2020,,Colchester United,(*),,Crewe Alexandra,cancelled
+39,Tue Mar 17 2020,,Crawley Town,(*),,Newport County,cancelled
+39,Tue Mar 17 2020,,Exeter City,(*),,Scunthorpe United,cancelled
+39,Tue Mar 17 2020,,Forest Green Rovers,(*),,Morecambe FC,cancelled
+39,Tue Mar 17 2020,,Grimsby Town,(*),,Cambridge United,cancelled
+39,Tue Mar 17 2020,,Leyton Orient,(*),,Plymouth Argyle,cancelled
+39,Tue Mar 17 2020,,Macclesfield Town,(*),,Cheltenham Town,cancelled
+39,Tue Mar 17 2020,,Northampton Town,(*),,Carlisle United,cancelled
+40,Sat Mar 21 2020,,Carlisle United,(*),,Leyton Orient,cancelled
+40,Sat Mar 21 2020,,Plymouth Argyle,(*),,Exeter City,cancelled
+40,Sat Mar 21 2020,,Oldham Athletic,(*),,Port Vale FC,cancelled
+40,Sat Mar 21 2020,,Swindon Town,(*),,Crawley Town,cancelled
+40,Sat Mar 21 2020,,Bradford City,(*),,Macclesfield Town,cancelled
+40,Sat Mar 21 2020,,Cambridge United,(*),,Northampton Town,cancelled
+40,Sat Mar 21 2020,,Scunthorpe United,(*),,Salford City,cancelled
+40,Sat Mar 21 2020,,Newport County,(*),,Colchester United,cancelled
+40,Sat Mar 21 2020,,Crewe Alexandra,(*),,Forest Green Rovers,cancelled
+40,Sat Mar 21 2020,,Mansfield Town,(*),,Walsall FC,cancelled
+40,Sat Mar 21 2020,,Morecambe FC,(*),,Stevenage FC,cancelled
+40,Sat Mar 21 2020,,Cheltenham Town,(*),,Grimsby Town,cancelled
+42,Tue Mar 24 2020,,Swindon Town,(*),,Salford City,cancelled
+13,Tue Mar 24 2020,,Cheltenham Town,(*),,Newport County,cancelled
+41,Sat Mar 28 2020,,Stevenage FC,(*),,Scunthorpe United,cancelled
+41,Sat Mar 28 2020,,Walsall FC,(*),,Swindon Town,cancelled
+41,Sat Mar 28 2020,,Colchester United,(*),,Mansfield Town,cancelled
+41,Sat Mar 28 2020,,Crawley Town,(*),,Cambridge United,cancelled
+41,Sat Mar 28 2020,,Salford City,(*),,Newport County,cancelled
+41,Sat Mar 28 2020,,Forest Green Rovers,(*),,Cheltenham Town,cancelled
+41,Sat Mar 28 2020,,Grimsby Town,(*),,Plymouth Argyle,cancelled
+41,Sat Mar 28 2020,,Leyton Orient,(*),,Morecambe FC,cancelled
+41,Sat Mar 28 2020,,Macclesfield Town,(*),,Carlisle United,cancelled
+41,Sat Mar 28 2020,,Northampton Town,(*),,Oldham Athletic,cancelled
+41,Sat Mar 28 2020,,Port Vale FC,(*),,Crewe Alexandra,cancelled
+41,Sat Mar 28 2020,,Exeter City,(*),,Bradford City,cancelled
+36,Tue Mar 31 2020,,Stevenage FC,(*),,Walsall FC,cancelled
+36,Tue Mar 31 2020,,Mansfield Town,(*),,Swindon Town,cancelled
+36,Tue Mar 31 2020,,Forest Green Rovers,(*),,Leyton Orient,cancelled
+42,Sat Apr 4 2020,,Cheltenham Town,(*),,Exeter City,cancelled
+42,Sat Apr 4 2020,,Cambridge United,(*),,Walsall FC,cancelled
+42,Sat Apr 4 2020,,Carlisle United,(*),,Port Vale FC,cancelled
+42,Sat Apr 4 2020,,Bradford City,(*),,Colchester United,cancelled
+42,Sat Apr 4 2020,,Crewe Alexandra,(*),,Northampton Town,cancelled
+42,Sat Apr 4 2020,,Mansfield Town,(*),,Macclesfield Town,cancelled
+42,Sat Apr 4 2020,,Morecambe FC,(*),,Crawley Town,cancelled
+42,Sat Apr 4 2020,,Newport County,(*),,Grimsby Town,cancelled
+42,Sat Apr 4 2020,,Oldham Athletic,(*),,Stevenage FC,cancelled
+42,Sat Apr 4 2020,,Scunthorpe United,(*),,Leyton Orient,cancelled
+42,Sat Apr 4 2020,,Plymouth Argyle,(*),,Forest Green Rovers,cancelled
+43,Fri Apr 10 2020,,Crawley Town,(*),,Leyton Orient,cancelled
+43,Fri Apr 10 2020,,Crewe Alexandra,(*),,Newport County,cancelled
+43,Fri Apr 10 2020,,Exeter City,(*),,Morecambe FC,cancelled
+43,Fri Apr 10 2020,,Forest Green Rovers,(*),,Bradford City,cancelled
+43,Fri Apr 10 2020,,Walsall FC,(*),,Plymouth Argyle,cancelled
+43,Fri Apr 10 2020,,Oldham Athletic,(*),,Cambridge United,cancelled
+43,Fri Apr 10 2020,,Port Vale FC,(*),,Grimsby Town,cancelled
+43,Fri Apr 10 2020,,Salford City,(*),,Carlisle United,cancelled
+43,Fri Apr 10 2020,,Scunthorpe United,(*),,Macclesfield Town,cancelled
+43,Fri Apr 10 2020,,Stevenage FC,(*),,Mansfield Town,cancelled
+43,Fri Apr 10 2020,,Swindon Town,(*),,Cheltenham Town,cancelled
+43,Fri Apr 10 2020,,Northampton Town,(*),,Colchester United,cancelled
+44,Mon Apr 13 2020,,Bradford City,(*),,Crewe Alexandra,cancelled
+44,Mon Apr 13 2020,,Cambridge United,(*),,Port Vale FC,cancelled
+44,Mon Apr 13 2020,,Carlisle United,(*),,Scunthorpe United,cancelled
+44,Mon Apr 13 2020,,Cheltenham Town,(*),,Crawley Town,cancelled
+44,Mon Apr 13 2020,,Colchester United,(*),,Oldham Athletic,cancelled
+44,Mon Apr 13 2020,,Plymouth Argyle,(*),,Northampton Town,cancelled
+44,Mon Apr 13 2020,,Leyton Orient,(*),,Salford City,cancelled
+44,Mon Apr 13 2020,,Macclesfield Town,(*),,Stevenage FC,cancelled
+44,Mon Apr 13 2020,,Mansfield Town,(*),,Exeter City,cancelled
+44,Mon Apr 13 2020,,Morecambe FC,(*),,Swindon Town,cancelled
+44,Mon Apr 13 2020,,Newport County,(*),,Forest Green Rovers,cancelled
+44,Mon Apr 13 2020,,Grimsby Town,(*),,Walsall FC,cancelled
+45,Sat Apr 18 2020,,Crawley Town,(*),,Macclesfield Town,cancelled
+45,Sat Apr 18 2020,,Crewe Alexandra,(*),,Grimsby Town,cancelled
+45,Sat Apr 18 2020,,Exeter City,(*),,Carlisle United,cancelled
+45,Sat Apr 18 2020,,Forest Green Rovers,(*),,Cambridge United,cancelled
+45,Sat Apr 18 2020,,Northampton Town,(*),,Bradford City,cancelled
+45,Sat Apr 18 2020,,Oldham Athletic,(*),,Plymouth Argyle,cancelled
+45,Sat Apr 18 2020,,Port Vale FC,(*),,Newport County,cancelled
+45,Sat Apr 18 2020,,Salford City,(*),,Morecambe FC,cancelled
+45,Sat Apr 18 2020,,Scunthorpe United,(*),,Mansfield Town,cancelled
+45,Sat Apr 18 2020,,Stevenage FC,(*),,Cheltenham Town,cancelled
+45,Sat Apr 18 2020,,Swindon Town,(*),,Leyton Orient,cancelled
+45,Sat Apr 18 2020,,Walsall FC,(*),,Colchester United,cancelled
+46,Sat Apr 25 2020,,Bradford City,(*),,Walsall FC,cancelled
+46,Sat Apr 25 2020,,Cambridge United,(*),,Crewe Alexandra,cancelled
+46,Sat Apr 25 2020,,Carlisle United,(*),,Stevenage FC,cancelled
+46,Sat Apr 25 2020,,Cheltenham Town,(*),,Salford City,cancelled
+46,Sat Apr 25 2020,,Colchester United,(*),,Forest Green Rovers,cancelled
+46,Sat Apr 25 2020,,Grimsby Town,(*),,Oldham Athletic,cancelled
+46,Sat Apr 25 2020,,Leyton Orient,(*),,Exeter City,cancelled
+46,Sat Apr 25 2020,,Macclesfield Town,(*),,Swindon Town,cancelled
+46,Sat Apr 25 2020,,Mansfield Town,(*),,Crawley Town,cancelled
+46,Sat Apr 25 2020,,Morecambe FC,(*),,Scunthorpe United,cancelled
+46,Sat Apr 25 2020,,Newport County,(*),,Northampton Town,cancelled
+46,Sat Apr 25 2020,,Plymouth Argyle,(*),,Port Vale FC,cancelled

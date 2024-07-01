@@ -1,0 +1,381 @@
+Round,Date,Time,Team 1,FT,HT,Team 2,Comments
+1,Sun Jul 7 2019,09:00,SKA-Energia Khabarovsk,1-2,1-1,Shinnik Yaroslavl,
+1,Sun Jul 7 2019,09:00,Luch-Energia,2-5,0-3,FK Khimki,
+1,Sun Jul 7 2019,14:00,FK Nizhny Novgorod,0-2,0-0,FK Tom Tomsk,
+1,Sun Jul 7 2019,15:00,Tekstilshchik Ivanovo,0-1,0-0,Enisey Krasnoyarsk,
+1,Sun Jul 7 2019,16:00,Mordovia Saransk,0-1,0-1,FC Neftekhimik,
+1,Sun Jul 7 2019,17:00,Avangard Kursk,0-3,0-1,Rotor Volgograd,
+1,Sun Jul 7 2019,18:00,Chayka Peschanokopskoye,0-1,0-0,FK Chertanovo Moskva,
+1,Sun Jul 7 2019,18:00,Fakel Voronezh,0-1,0-0,Torpedo Moskva,
+1,Sun Jul 7 2019,19:54,Baltika Kaliningrad,0-1,0-1,Spartak Moskva 2,
+1,Tue Jul 9 2019,18:00,FK Torpedo Armavir,2-1,0-1,FK Krasnodar 2,
+2,Sat Jul 13 2019,12:00,Spartak Moskva 2,2-2,2-1,SKA-Energia Khabarovsk,
+2,Sat Jul 13 2019,14:00,FK Tom Tomsk,2-0,1-0,FK Torpedo Armavir,
+2,Sat Jul 13 2019,16:00,Fakel Voronezh,0-0,0-0,Chayka Peschanokopskoye,
+2,Sat Jul 13 2019,16:00,Torpedo Moskva,2-0,1-0,Baltika Kaliningrad,
+2,Sat Jul 13 2019,16:00,Shinnik Yaroslavl,1-0,0-0,Mordovia Saransk,
+2,Sat Jul 13 2019,16:00,FK Khimki,3-0,1-0,Avangard Kursk,
+2,Sat Jul 13 2019,17:00,FC Neftekhimik,1-1,0-0,FK Nizhny Novgorod,
+2,Sat Jul 13 2019,17:00,FK Krasnodar 2,1-2,0-0,Luch-Energia,
+2,Sat Jul 13 2019,17:00,Rotor Volgograd,3-2,1-0,Tekstilshchik Ivanovo,
+2,Sat Jul 13 2019,17:00,FK Chertanovo Moskva,2-1,2-1,Enisey Krasnoyarsk,
+3,Fri Jul 19 2019,18:00,FK Nizhny Novgorod,1-3,1-2,Shinnik Yaroslavl,
+3,Sat Jul 20 2019,09:00,Luch-Energia,1-1,0-0,FK Tom Tomsk,
+3,Sat Jul 20 2019,10:00,SKA-Energia Khabarovsk,0-1,0-1,Torpedo Moskva,
+3,Sat Jul 20 2019,10:00,Enisey Krasnoyarsk,0-3,0-1,Rotor Volgograd,
+3,Sat Jul 20 2019,15:00,Tekstilshchik Ivanovo,1-4,0-0,FK Khimki,
+3,Sat Jul 20 2019,16:00,Fakel Voronezh,0-0,0-0,FK Chertanovo Moskva,
+3,Sat Jul 20 2019,16:00,Mordovia Saransk,1-0,0-0,Spartak Moskva 2,
+3,Sat Jul 20 2019,17:00,Avangard Kursk,1-1,0-0,FK Krasnodar 2,
+3,Sat Jul 20 2019,18:00,Baltika Kaliningrad,0-1,0-0,Chayka Peschanokopskoye,
+3,Sat Jul 20 2019,18:00,FK Torpedo Armavir,0-2,0-1,FC Neftekhimik,
+4,Wed Jul 24 2019,14:00,FK Tom Tomsk,2-0,0-0,Avangard Kursk,
+4,Wed Jul 24 2019,15:00,Spartak Moskva 2,2-0,1-0,FK Nizhny Novgorod,
+4,Wed Jul 24 2019,16:00,FK Krasnodar 2,1-1,0-0,Tekstilshchik Ivanovo,
+4,Wed Jul 24 2019,17:00,FC Neftekhimik,1-1,0-1,Luch-Energia,
+4,Wed Jul 24 2019,17:30,Shinnik Yaroslavl,1-1,1-1,FK Torpedo Armavir,
+4,Wed Jul 24 2019,18:00,Fakel Voronezh,1-2,0-2,Baltika Kaliningrad,
+4,Wed Jul 24 2019,18:00,Torpedo Moskva,2-2,2-1,Mordovia Saransk,
+4,Wed Jul 24 2019,18:00,FK Khimki,4-0,2-0,Enisey Krasnoyarsk,
+4,Wed Jul 24 2019,18:00,FK Chertanovo Moskva,1-0,1-0,Rotor Volgograd,
+4,Wed Jul 24 2019,19:00,Chayka Peschanokopskoye,0-2,0-2,SKA-Energia Khabarovsk,
+5,Sun Jul 28 2019,09:00,SKA-Energia Khabarovsk,1-0,1-0,Fakel Voronezh,
+5,Sun Jul 28 2019,09:00,Luch-Energia,2-1,0-0,Shinnik Yaroslavl,
+5,Sun Jul 28 2019,10:00,Enisey Krasnoyarsk,0-1,0-0,FK Krasnodar 2,
+5,Sun Jul 28 2019,14:00,FK Tom Tomsk,2-1,1-0,Tekstilshchik Ivanovo,
+5,Sun Jul 28 2019,16:00,Mordovia Saransk,0-0,0-0,Chayka Peschanokopskoye,
+5,Sun Jul 28 2019,16:00,FK Nizhny Novgorod,2-1,1-1,Torpedo Moskva,
+5,Sun Jul 28 2019,17:00,Baltika Kaliningrad,1-2,1-1,FK Chertanovo Moskva,
+5,Sun Jul 28 2019,17:00,Avangard Kursk,1-0,1-0,FC Neftekhimik,
+5,Sun Jul 28 2019,17:00,Rotor Volgograd,1-1,0-1,FK Khimki,
+5,Mon Jul 29 2019,18:00,FK Torpedo Armavir,1-1,1-0,Spartak Moskva 2,
+6,Sat Aug 3 2019,09:00,SKA-Energia Khabarovsk,2-0,1-0,Baltika Kaliningrad,
+6,Sat Aug 3 2019,09:00,Luch-Energia,2-4,1-1,Spartak Moskva 2,
+6,Sat Aug 3 2019,14:00,FK Tom Tomsk,0-0,0-0,Enisey Krasnoyarsk,
+6,Sat Aug 3 2019,14:00,FK Chertanovo Moskva,0-0,0-0,FK Khimki,
+6,Sat Aug 3 2019,16:00,Shinnik Yaroslavl,1-3,0-1,Avangard Kursk,
+6,Sat Aug 3 2019,17:00,Fakel Voronezh,2-1,1-0,Mordovia Saransk,
+6,Sat Aug 3 2019,17:00,FC Neftekhimik,1-2,0-0,Tekstilshchik Ivanovo,
+6,Sat Aug 3 2019,17:30,FK Krasnodar 2,0-1,0-1,Rotor Volgograd,
+6,Sat Aug 3 2019,18:00,Chayka Peschanokopskoye,0-0,0-0,FK Nizhny Novgorod,
+6,Sun Aug 4 2019,17:00,Torpedo Moskva,2-1,1-1,FK Torpedo Armavir,
+7,Sat Aug 10 2019,09:00,SKA-Energia Khabarovsk,0-0,0-0,FK Chertanovo Moskva,
+7,Sat Aug 10 2019,09:00,Luch-Energia,0-1,0-0,Torpedo Moskva,
+7,Sat Aug 10 2019,12:00,Enisey Krasnoyarsk,2-2,1-2,FC Neftekhimik,
+7,Sat Aug 10 2019,14:00,FK Tom Tomsk,0-1,0-0,Rotor Volgograd,
+7,Sat Aug 10 2019,16:00,Mordovia Saransk,0-3,0-2,Baltika Kaliningrad,
+7,Sat Aug 10 2019,16:00,FK Nizhny Novgorod,2-1,1-1,Fakel Voronezh,
+7,Sat Aug 10 2019,16:00,Tekstilshchik Ivanovo,1-1,1-1,Shinnik Yaroslavl,
+7,Sat Aug 10 2019,17:00,Avangard Kursk,2-2,1-0,Spartak Moskva 2,
+7,Sat Aug 10 2019,17:00,FK Khimki,3-0,2-0,FK Krasnodar 2,
+7,Sat Aug 10 2019,18:00,FK Torpedo Armavir,2-1,1-0,Chayka Peschanokopskoye,
+8,Wed Aug 14 2019,11:00,SKA-Energia Khabarovsk,1-2,0-1,Mordovia Saransk,
+8,Wed Aug 14 2019,11:00,Luch-Energia,1-1,1-0,Chayka Peschanokopskoye,
+8,Wed Aug 14 2019,14:00,FK Tom Tomsk,0-0,0-0,FK Khimki,
+8,Wed Aug 14 2019,16:30,Spartak Moskva 2,1-2,0-1,Tekstilshchik Ivanovo,
+8,Wed Aug 14 2019,17:00,FC Neftekhimik,1-2,0-1,Rotor Volgograd,
+8,Wed Aug 14 2019,17:30,Shinnik Yaroslavl,0-0,0-0,Enisey Krasnoyarsk,
+8,Wed Aug 14 2019,18:00,Fakel Voronezh,0-2,0-0,FK Torpedo Armavir,
+8,Wed Aug 14 2019,18:00,FK Chertanovo Moskva,1-2,1-1,FK Krasnodar 2,
+8,Wed Aug 14 2019,18:30,Torpedo Moskva,3-1,0-1,Avangard Kursk,
+8,Wed Aug 14 2019,19:00,Baltika Kaliningrad,2-1,1-1,FK Nizhny Novgorod,
+9,Sun Aug 18 2019,09:00,Luch-Energia,3-0,1-0,Fakel Voronezh,
+9,Sun Aug 18 2019,16:00,Mordovia Saransk,2-3,2-2,FK Chertanovo Moskva,
+9,Sun Aug 18 2019,16:00,FK Nizhny Novgorod,1-1,0-1,SKA-Energia Khabarovsk,
+9,Sun Aug 18 2019,16:00,FK Khimki,3-2,1-1,FC Neftekhimik,
+9,Sun Aug 18 2019,17:00,Avangard Kursk,1-1,1-0,Chayka Peschanokopskoye,
+9,Sun Aug 18 2019,17:00,Tekstilshchik Ivanovo,1-3,0-1,Torpedo Moskva,
+9,Sun Aug 18 2019,17:00,Rotor Volgograd,2-3,1-2,Shinnik Yaroslavl,
+9,Sun Aug 18 2019,18:00,FK Torpedo Armavir,1-1,1-0,Baltika Kaliningrad,
+9,Sun Aug 18 2019,18:00,FK Krasnodar 2,0-1,0-1,FK Tom Tomsk,
+9,Tue Aug 20 2019,15:00,Spartak Moskva 2,2-0,2-0,Enisey Krasnoyarsk,
+10,Sun Aug 25 2019,09:00,SKA-Energia Khabarovsk,3-0,0-0,FK Torpedo Armavir,
+10,Sun Aug 25 2019,13:00,FK Chertanovo Moskva,1-1,0-0,FK Tom Tomsk,
+10,Sun Aug 25 2019,15:00,FC Neftekhimik,1-0,0-0,FK Krasnodar 2,
+10,Sun Aug 25 2019,16:00,Mordovia Saransk,0-1,0-0,FK Nizhny Novgorod,
+10,Sun Aug 25 2019,16:00,Shinnik Yaroslavl,0-1,0-0,FK Khimki,
+10,Sun Aug 25 2019,17:00,Fakel Voronezh,0-0,0-0,Avangard Kursk,
+10,Sun Aug 25 2019,17:00,Torpedo Moskva,2-0,2-0,Enisey Krasnoyarsk,
+10,Sun Aug 25 2019,18:00,Baltika Kaliningrad,0-0,0-0,Luch-Energia,
+10,Sun Aug 25 2019,18:00,Chayka Peschanokopskoye,3-0,0-0,Tekstilshchik Ivanovo,
+10,Mon Aug 26 2019,15:00,Spartak Moskva 2,0-1,0-0,Rotor Volgograd,
+11,Sat Aug 31 2019,09:00,Luch-Energia,0-2,0-0,SKA-Energia Khabarovsk,
+11,Sat Aug 31 2019,12:00,Enisey Krasnoyarsk,1-3,1-0,Chayka Peschanokopskoye,
+11,Sat Aug 31 2019,14:00,FK Nizhny Novgorod,0-0,0-0,FK Chertanovo Moskva,
+11,Sat Aug 31 2019,14:00,FK Tom Tomsk,0-1,0-1,FC Neftekhimik,
+11,Sat Aug 31 2019,15:00,Avangard Kursk,0-0,0-0,Baltika Kaliningrad,
+11,Sat Aug 31 2019,16:00,Tekstilshchik Ivanovo,1-4,0-1,Fakel Voronezh,
+11,Sat Aug 31 2019,17:00,Rotor Volgograd,0-2,0-1,Torpedo Moskva,
+11,Sat Aug 31 2019,17:00,FK Khimki,1-0,0-0,Spartak Moskva 2,
+11,Sat Aug 31 2019,17:00,FK Krasnodar 2,2-2,1-0,Shinnik Yaroslavl,
+11,Sat Aug 31 2019,18:00,FK Torpedo Armavir,0-0,0-0,Mordovia Saransk,
+12,Sat Sep 7 2019,07:00,SKA-Energia Khabarovsk,1-0,0-0,Avangard Kursk,
+12,Sat Sep 7 2019,14:00,FK Nizhny Novgorod,1-0,0-0,FK Torpedo Armavir,
+12,Sat Sep 7 2019,14:00,Shinnik Yaroslavl,2-1,1-0,FK Tom Tomsk,
+12,Sat Sep 7 2019,14:00,FK Chertanovo Moskva,2-2,1-1,FC Neftekhimik,
+12,Sat Sep 7 2019,15:00,Spartak Moskva 2,0-3,0-1,FK Krasnodar 2,
+12,Sat Sep 7 2019,16:00,Mordovia Saransk,1-2,1-0,Luch-Energia,
+12,Sat Sep 7 2019,17:00,Fakel Voronezh,1-1,1-1,Enisey Krasnoyarsk,
+12,Sat Sep 7 2019,18:00,Chayka Peschanokopskoye,2-1,2-0,Rotor Volgograd,
+12,Sun Sep 8 2019,15:00,Tekstilshchik Ivanovo,1-5,1-0,Baltika Kaliningrad,
+12,Sun Sep 8 2019,17:00,Torpedo Moskva,1-0,1-0,FK Khimki,
+13,Sat Sep 14 2019,09:00,Luch-Energia,0-0,0-0,FK Nizhny Novgorod,
+13,Sat Sep 14 2019,12:00,Enisey Krasnoyarsk,2-2,1-0,Baltika Kaliningrad,
+13,Sat Sep 14 2019,13:00,FK Tom Tomsk,2-2,0-1,Spartak Moskva 2,
+13,Sat Sep 14 2019,15:00,Tekstilshchik Ivanovo,3-1,1-0,SKA-Energia Khabarovsk,
+13,Sat Sep 14 2019,15:00,FC Neftekhimik,2-2,0-0,Shinnik Yaroslavl,
+13,Sat Sep 14 2019,16:00,Avangard Kursk,2-2,1-1,Mordovia Saransk,
+13,Sat Sep 14 2019,16:00,Rotor Volgograd,2-0,0-0,Fakel Voronezh,
+13,Sat Sep 14 2019,17:00,FK Khimki,1-0,1-0,Chayka Peschanokopskoye,
+13,Sat Sep 14 2019,17:00,Torpedo Moskva,2-1,1-0,FK Krasnodar 2,
+13,Sun Sep 15 2019,16:30,FK Torpedo Armavir,1-1,1-0,FK Chertanovo Moskva,
+14,Fri Sep 20 2019,11:00,SKA-Energia Khabarovsk,2-0,1-0,Enisey Krasnoyarsk,
+14,Sat Sep 21 2019,14:00,FK Nizhny Novgorod,1-1,1-1,Avangard Kursk,
+14,Sat Sep 21 2019,15:00,Spartak Moskva 2,0-3,0-3,FC Neftekhimik,
+14,Sat Sep 21 2019,16:00,Mordovia Saransk,1-0,1-0,Tekstilshchik Ivanovo,
+14,Sat Sep 21 2019,16:00,Chayka Peschanokopskoye,1-1,1-0,FK Krasnodar 2,
+14,Sat Sep 21 2019,16:00,Torpedo Moskva,2-1,1-0,FK Tom Tomsk,
+14,Sat Sep 21 2019,17:00,FK Torpedo Armavir,0-0,0-0,Luch-Energia,
+14,Sat Sep 21 2019,17:00,Baltika Kaliningrad,2-1,0-0,Rotor Volgograd,
+14,Sat Sep 21 2019,17:00,Fakel Voronezh,0-3,0-2,FK Khimki,
+14,Sat Sep 21 2019,17:00,FK Chertanovo Moskva,0-1,0-1,Shinnik Yaroslavl,
+15,Sun Sep 29 2019,09:00,Luch-Energia,0-1,0-1,FK Chertanovo Moskva,
+15,Sun Sep 29 2019,12:00,Enisey Krasnoyarsk,2-1,1-1,Mordovia Saransk,
+15,Sun Sep 29 2019,12:00,FK Tom Tomsk,3-1,1-1,Chayka Peschanokopskoye,
+15,Sun Sep 29 2019,14:00,Shinnik Yaroslavl,3-2,2-2,Spartak Moskva 2,
+15,Sun Sep 29 2019,15:00,Avangard Kursk,2-1,1-1,FK Torpedo Armavir,
+15,Sun Sep 29 2019,15:00,Tekstilshchik Ivanovo,0-2,0-1,FK Nizhny Novgorod,
+15,Sun Sep 29 2019,15:00,FC Neftekhimik,1-0,0-0,Torpedo Moskva,
+15,Sun Sep 29 2019,16:00,Rotor Volgograd,5-3,4-3,SKA-Energia Khabarovsk,
+15,Sun Sep 29 2019,17:00,FK Khimki,0-1,0-0,Baltika Kaliningrad,
+15,Mon Sep 30 2019,16:00,FK Krasnodar 2,0-0,0-0,Fakel Voronezh,
+16,Sat Oct 5 2019,10:00,Luch-Energia,2-2,2-1,Avangard Kursk,
+16,Sat Oct 5 2019,10:00,SKA-Energia Khabarovsk,1-1,1-1,FK Khimki,
+16,Sat Oct 5 2019,14:00,FK Nizhny Novgorod,1-3,1-2,Enisey Krasnoyarsk,
+16,Sat Oct 5 2019,14:00,FK Chertanovo Moskva,2-2,0-0,Spartak Moskva 2,
+16,Sat Oct 5 2019,16:00,FK Torpedo Armavir,2-0,2-0,Tekstilshchik Ivanovo,
+16,Sat Oct 5 2019,16:00,Mordovia Saransk,0-1,0-0,Rotor Volgograd,
+16,Sat Oct 5 2019,16:00,Fakel Voronezh,0-0,0-0,FK Tom Tomsk,
+16,Sat Oct 5 2019,17:00,Baltika Kaliningrad,4-1,2-1,FK Krasnodar 2,
+16,Sat Oct 5 2019,17:00,Chayka Peschanokopskoye,0-2,0-1,FC Neftekhimik,
+16,Sat Oct 5 2019,17:00,Torpedo Moskva,2-0,1-0,Shinnik Yaroslavl,
+17,Sat Oct 12 2019,11:00,FK Tom Tomsk,0-0,0-0,Baltika Kaliningrad,
+17,Sat Oct 12 2019,11:00,Spartak Moskva 2,2-3,1-0,Torpedo Moskva,
+17,Sat Oct 12 2019,12:00,Enisey Krasnoyarsk,1-1,0-1,FK Torpedo Armavir,
+17,Sat Oct 12 2019,14:00,Tekstilshchik Ivanovo,4-3,2-3,Luch-Energia,
+17,Sat Oct 12 2019,14:00,Rotor Volgograd,2-1,1-1,FK Nizhny Novgorod,
+17,Sat Oct 12 2019,14:00,FK Khimki,4-0,2-0,Mordovia Saransk,
+17,Sat Oct 12 2019,14:00,FK Krasnodar 2,2-2,0-1,SKA-Energia Khabarovsk,
+17,Sat Oct 12 2019,14:00,Shinnik Yaroslavl,2-3,1-0,Chayka Peschanokopskoye,
+17,Sat Oct 12 2019,15:00,Avangard Kursk,0-1,0-1,FK Chertanovo Moskva,
+17,Sat Oct 12 2019,15:00,FC Neftekhimik,1-0,1-0,Fakel Voronezh,
+18,Sat Oct 19 2019,08:00,Luch-Energia,0-1,0-0,Enisey Krasnoyarsk,
+18,Sat Oct 19 2019,08:00,SKA-Energia Khabarovsk,1-1,1-1,FK Tom Tomsk,
+18,Sat Oct 19 2019,14:00,Avangard Kursk,2-1,0-1,Tekstilshchik Ivanovo,
+18,Sat Oct 19 2019,14:00,FK Nizhny Novgorod,1-0,0-0,FK Khimki,
+18,Sat Oct 19 2019,14:00,Mordovia Saransk,0-3,0-1,FK Krasnodar 2,
+18,Sat Oct 19 2019,16:00,FK Torpedo Armavir,0-0,0-0,Rotor Volgograd,
+18,Sat Oct 19 2019,16:00,Fakel Voronezh,0-4,0-1,Shinnik Yaroslavl,
+18,Sat Oct 19 2019,16:00,Chayka Peschanokopskoye,2-1,1-1,Spartak Moskva 2,
+18,Sat Oct 19 2019,17:00,Baltika Kaliningrad,1-0,0-0,FC Neftekhimik,
+18,Sat Oct 19 2019,17:00,Torpedo Moskva,0-1,0-0,FK Chertanovo Moskva,
+19,Wed Oct 23 2019,13:30,FK Tom Tomsk,2-0,0-0,Mordovia Saransk,
+19,Wed Oct 23 2019,14:00,Enisey Krasnoyarsk,1-1,0-1,Avangard Kursk,
+19,Wed Oct 23 2019,14:00,Spartak Moskva 2,7-2,5-1,Fakel Voronezh,
+19,Wed Oct 23 2019,15:00,FK Krasnodar 2,2-2,1-2,FK Nizhny Novgorod,
+19,Wed Oct 23 2019,17:00,Rotor Volgograd,2-0,2-0,Luch-Energia,
+19,Wed Oct 23 2019,17:00,FC Neftekhimik,2-2,1-1,SKA-Energia Khabarovsk,
+19,Wed Oct 23 2019,17:30,FK Khimki,1-0,0-0,FK Torpedo Armavir,
+19,Wed Oct 23 2019,17:30,Shinnik Yaroslavl,0-2,0-1,Baltika Kaliningrad,
+19,Wed Oct 23 2019,18:00,FK Chertanovo Moskva,1-0,0-0,Tekstilshchik Ivanovo,
+19,Wed Oct 23 2019,18:00,Torpedo Moskva,2-1,1-0,Chayka Peschanokopskoye,
+20,Sun Oct 27 2019,06:00,SKA-Energia Khabarovsk,3-0,1-0,Spartak Moskva 2,
+20,Sun Oct 27 2019,07:00,Luch-Energia,1-1,0-0,FK Krasnodar 2,
+20,Sun Oct 27 2019,09:00,Enisey Krasnoyarsk,0-2,0-2,FK Chertanovo Moskva,
+20,Sun Oct 27 2019,11:00,Tekstilshchik Ivanovo,0-1,0-1,Rotor Volgograd,
+20,Sun Oct 27 2019,13:00,Mordovia Saransk,1-1,1-1,Shinnik Yaroslavl,
+20,Sun Oct 27 2019,13:00,FK Nizhny Novgorod,0-1,0-0,FC Neftekhimik,
+20,Sun Oct 27 2019,13:00,Avangard Kursk,0-3,0-1,FK Khimki,
+20,Sun Oct 27 2019,14:00,Chayka Peschanokopskoye,0-1,0-1,Fakel Voronezh,
+20,Sun Oct 27 2019,15:00,Baltika Kaliningrad,1-1,0-0,Torpedo Moskva,
+20,Sun Oct 27 2019,15:00,FK Torpedo Armavir,1-1,0-1,FK Tom Tomsk,
+21,Sun Nov 3 2019,10:00,FK Tom Tomsk,4-0,1-0,Luch-Energia,
+21,Sun Nov 3 2019,12:00,Spartak Moskva 2,2-0,1-0,Mordovia Saransk,
+21,Sun Nov 3 2019,12:00,Shinnik Yaroslavl,1-3,0-2,FK Nizhny Novgorod,
+21,Sun Nov 3 2019,12:00,FC Neftekhimik,2-1,0-0,FK Torpedo Armavir,
+21,Sun Nov 3 2019,13:00,FK Chertanovo Moskva,4-0,2-0,Fakel Voronezh,
+21,Sun Nov 3 2019,13:00,Rotor Volgograd,2-1,1-0,Enisey Krasnoyarsk,
+21,Sun Nov 3 2019,14:00,Chayka Peschanokopskoye,1-0,1-0,Baltika Kaliningrad,
+21,Sun Nov 3 2019,15:00,FK Khimki,2-1,1-0,Tekstilshchik Ivanovo,
+21,Sun Nov 3 2019,17:30,Torpedo Moskva,2-1,1-0,SKA-Energia Khabarovsk,
+21,Mon Nov 4 2019,12:00,FK Krasnodar 2,1-0,1-0,Avangard Kursk,
+22,Sat Nov 9 2019,05:00,Luch-Energia,0-2,0-0,FC Neftekhimik,
+22,Sat Nov 9 2019,06:00,SKA-Energia Khabarovsk,3-2,2-2,Chayka Peschanokopskoye,
+22,Sat Nov 9 2019,10:00,Enisey Krasnoyarsk,1-0,0-0,FK Khimki,
+22,Sat Nov 9 2019,11:00,Tekstilshchik Ivanovo,1-0,0-0,FK Krasnodar 2,
+22,Sat Nov 9 2019,13:00,Mordovia Saransk,1-1,1-1,Torpedo Moskva,
+22,Sat Nov 9 2019,13:00,FK Nizhny Novgorod,2-2,0-1,Spartak Moskva 2,
+22,Sat Nov 9 2019,13:00,Avangard Kursk,3-2,0-2,FK Tom Tomsk,
+22,Sat Nov 9 2019,13:00,Rotor Volgograd,1-1,0-1,FK Chertanovo Moskva,
+22,Sat Nov 9 2019,14:00,FK Torpedo Armavir,0-1,0-0,Shinnik Yaroslavl,
+22,Sat Nov 9 2019,15:00,Baltika Kaliningrad,3-0,1-0,Fakel Voronezh,
+23,Wed Nov 13 2019,10:30,Spartak Moskva 2,1-3,0-2,FK Torpedo Armavir,
+23,Wed Nov 13 2019,12:00,FC Neftekhimik,1-1,0-0,Avangard Kursk,
+23,Wed Nov 13 2019,13:00,FK Krasnodar 2,4-0,1-0,Enisey Krasnoyarsk,
+23,Wed Nov 13 2019,16:30,Fakel Voronezh,0-2,0-1,SKA-Energia Khabarovsk,
+23,Wed Nov 13 2019,16:30,Chayka Peschanokopskoye,3-1,0-0,Mordovia Saransk,
+23,Wed Nov 13 2019,16:30,Shinnik Yaroslavl,3-1,1-1,Luch-Energia,
+23,Wed Nov 13 2019,16:30,Tekstilshchik Ivanovo,0-2,0-0,FK Tom Tomsk,
+23,Wed Nov 13 2019,16:30,FK Khimki,0-2,0-0,Rotor Volgograd,
+23,Wed Nov 13 2019,17:00,FK Chertanovo Moskva,3-1,2-1,Baltika Kaliningrad,
+23,Wed Nov 13 2019,17:30,Torpedo Moskva,0-2,0-1,FK Nizhny Novgorod,
+24,Sun Nov 17 2019,10:00,Enisey Krasnoyarsk,3-0,0-0,FK Tom Tomsk,
+24,Sun Nov 17 2019,11:00,Tekstilshchik Ivanovo,1-2,0-2,FC Neftekhimik,
+24,Sun Nov 17 2019,11:30,Spartak Moskva 2,0-2,0-0,Luch-Energia,
+24,Sun Nov 17 2019,12:00,Avangard Kursk,2-2,2-1,Shinnik Yaroslavl,
+24,Sun Nov 17 2019,13:00,Mordovia Saransk,1-1,1-1,Fakel Voronezh,
+24,Sun Nov 17 2019,13:00,FK Nizhny Novgorod,1-2,1-1,Chayka Peschanokopskoye,
+24,Sun Nov 17 2019,13:00,Rotor Volgograd,0-0,0-0,FK Krasnodar 2,
+24,Sun Nov 17 2019,14:00,FK Torpedo Armavir,2-1,1-1,Torpedo Moskva,
+24,Sun Nov 17 2019,15:00,Baltika Kaliningrad,1-0,0-0,SKA-Energia Khabarovsk,
+24,Sun Nov 17 2019,15:00,FK Khimki,3-1,1-1,FK Chertanovo Moskva,
+25,Sat Nov 23 2019,11:00,Spartak Moskva 2,1-1,0-1,Avangard Kursk,
+25,Sat Nov 23 2019,12:00,Chayka Peschanokopskoye,1-0,1-0,FK Torpedo Armavir,
+25,Sat Nov 23 2019,12:00,Shinnik Yaroslavl,3-0,1-0,Tekstilshchik Ivanovo,
+25,Sat Nov 23 2019,12:00,FC Neftekhimik,1-0,0-0,Enisey Krasnoyarsk,
+25,Sat Nov 23 2019,13:00,FK Chertanovo Moskva,1-0,0-0,SKA-Energia Khabarovsk,
+25,Sat Nov 23 2019,13:00,Fakel Voronezh,0-2,0-0,FK Nizhny Novgorod,
+25,Sat Nov 23 2019,13:00,Rotor Volgograd,2-0,1-0,FK Tom Tomsk,
+25,Sat Nov 23 2019,14:00,FK Krasnodar 2,2-2,2-1,FK Khimki,
+25,Sat Nov 23 2019,15:00,Baltika Kaliningrad,0-2,0-0,Mordovia Saransk,
+25,Sat Nov 23 2019,17:30,Torpedo Moskva,0-2,0-0,Luch-Energia,
+26,Mon Mar 9 2020,10:00,Enisey Krasnoyarsk,1-3,0-1,Shinnik Yaroslavl,
+26,Mon Mar 9 2020,12:00,FK Khimki,3-0,1-0,FK Tom Tomsk,
+26,Mon Mar 9 2020,13:00,FK Nizhny Novgorod,0-0,0-0,Baltika Kaliningrad,
+26,Mon Mar 9 2020,13:00,Avangard Kursk,2-2,0-2,Torpedo Moskva,
+26,Mon Mar 9 2020,13:00,Rotor Volgograd,1-1,1-0,FC Neftekhimik,
+26,Mon Mar 9 2020,14:00,Mordovia Saransk,2-3,1-3,SKA-Energia Khabarovsk,
+26,Mon Mar 9 2020,15:00,FK Torpedo Armavir,1-0,1-0,Fakel Voronezh,
+26,Mon Mar 9 2020,15:00,Chayka Peschanokopskoye,1-1,0-1,Luch-Energia,
+26,Mon Mar 9 2020,15:00,Tekstilshchik Ivanovo,1-1,1-0,Spartak Moskva 2,
+26,Tue Mar 10 2020,13:00,FK Krasnodar 2,1-2,0-1,FK Chertanovo Moskva,
+27,Sun Mar 15 2020,06:00,SKA-Energia Khabarovsk,2-0,1-0,FK Nizhny Novgorod,
+27,Sun Mar 15 2020,09:00,FK Tom Tomsk,2-1,1-0,FK Krasnodar 2,
+27,Sun Mar 15 2020,10:00,Enisey Krasnoyarsk,1-0,0-0,Spartak Moskva 2,
+27,Sun Mar 15 2020,11:00,FC Neftekhimik,2-2,1-1,FK Khimki,
+27,Sun Mar 15 2020,12:00,FK Chertanovo Moskva,3-0,2-0,Mordovia Saransk,
+27,Sun Mar 15 2020,12:00,Shinnik Yaroslavl,0-1,0-0,Rotor Volgograd,
+27,Sun Mar 15 2020,13:00,Chayka Peschanokopskoye,1-1,1-1,Avangard Kursk,
+27,Sun Mar 15 2020,15:00,Baltika Kaliningrad,2-0,2-0,FK Torpedo Armavir,
+27,Sun Mar 15 2020,15:00,Fakel Voronezh,1-0,0-0,Luch-Energia,
+27,Sun Mar 15 2020,15:00,Tekstilshchik Ivanovo,0-0,0-0,Torpedo Moskva,
+28,Sun Mar 22 2020,,FK Nizhny Novgorod,(*),,Mordovia Saransk,cancelled
+28,Sun Mar 22 2020,,FK Torpedo Armavir,(*),,SKA-Energia Khabarovsk,cancelled
+28,Sun Mar 22 2020,,Luch-Energia,(*),,Baltika Kaliningrad,cancelled
+28,Sun Mar 22 2020,,Avangard Kursk,(*),,Fakel Voronezh,cancelled
+28,Sun Mar 22 2020,,Tekstilshchik Ivanovo,(*),,Chayka Peschanokopskoye,cancelled
+28,Sun Mar 22 2020,,Enisey Krasnoyarsk,(*),,Torpedo Moskva,cancelled
+28,Sun Mar 22 2020,,Rotor Volgograd,(*),,Spartak Moskva 2,cancelled
+28,Sun Mar 22 2020,,FK Khimki,(*),,Shinnik Yaroslavl,cancelled
+28,Sun Mar 22 2020,,FK Krasnodar 2,(*),,FC Neftekhimik,cancelled
+28,Sun Mar 22 2020,,FK Tom Tomsk,(*),,FK Chertanovo Moskva,cancelled
+29,Sun Mar 29 2020,,FK Chertanovo Moskva,(*),,FK Nizhny Novgorod,cancelled
+29,Sun Mar 29 2020,,Mordovia Saransk,(*),,FK Torpedo Armavir,cancelled
+29,Sun Mar 29 2020,,SKA-Energia Khabarovsk,(*),,Luch-Energia,cancelled
+29,Sun Mar 29 2020,,Baltika Kaliningrad,(*),,Avangard Kursk,cancelled
+29,Sun Mar 29 2020,,Fakel Voronezh,(*),,Tekstilshchik Ivanovo,cancelled
+29,Sun Mar 29 2020,,Chayka Peschanokopskoye,(*),,Enisey Krasnoyarsk,cancelled
+29,Sun Mar 29 2020,,Torpedo Moskva,(*),,Rotor Volgograd,cancelled
+29,Sun Mar 29 2020,,Spartak Moskva 2,(*),,FK Khimki,cancelled
+29,Sun Mar 29 2020,,Shinnik Yaroslavl,(*),,FK Krasnodar 2,cancelled
+29,Sun Mar 29 2020,,FC Neftekhimik,(*),,FK Tom Tomsk,cancelled
+30,Sat Apr 4 2020,,FK Torpedo Armavir,(*),,FK Nizhny Novgorod,cancelled
+30,Sat Apr 4 2020,,Luch-Energia,(*),,Mordovia Saransk,cancelled
+30,Sat Apr 4 2020,,Avangard Kursk,(*),,SKA-Energia Khabarovsk,cancelled
+30,Sat Apr 4 2020,,Tekstilshchik Ivanovo,(*),,Baltika Kaliningrad,cancelled
+30,Sat Apr 4 2020,,Enisey Krasnoyarsk,(*),,Fakel Voronezh,cancelled
+30,Sat Apr 4 2020,,Rotor Volgograd,(*),,Chayka Peschanokopskoye,cancelled
+30,Sat Apr 4 2020,,FK Khimki,(*),,Torpedo Moskva,cancelled
+30,Sat Apr 4 2020,,FK Krasnodar 2,(*),,Spartak Moskva 2,cancelled
+30,Sat Apr 4 2020,,FK Tom Tomsk,(*),,Shinnik Yaroslavl,cancelled
+30,Sat Apr 4 2020,,FC Neftekhimik,(*),,FK Chertanovo Moskva,cancelled
+31,Wed Apr 8 2020,,FK Chertanovo Moskva,(*),,FK Torpedo Armavir,cancelled
+31,Wed Apr 8 2020,,FK Nizhny Novgorod,(*),,Luch-Energia,cancelled
+31,Wed Apr 8 2020,,Mordovia Saransk,(*),,Avangard Kursk,cancelled
+31,Wed Apr 8 2020,,SKA-Energia Khabarovsk,(*),,Tekstilshchik Ivanovo,cancelled
+31,Wed Apr 8 2020,,Baltika Kaliningrad,(*),,Enisey Krasnoyarsk,cancelled
+31,Wed Apr 8 2020,,Fakel Voronezh,(*),,Rotor Volgograd,cancelled
+31,Wed Apr 8 2020,,Chayka Peschanokopskoye,(*),,FK Khimki,cancelled
+31,Wed Apr 8 2020,,Torpedo Moskva,(*),,FK Krasnodar 2,cancelled
+31,Wed Apr 8 2020,,Spartak Moskva 2,(*),,FK Tom Tomsk,cancelled
+31,Wed Apr 8 2020,,Shinnik Yaroslavl,(*),,FC Neftekhimik,cancelled
+32,Sun Apr 12 2020,,Luch-Energia,(*),,FK Torpedo Armavir,cancelled
+32,Sun Apr 12 2020,,Avangard Kursk,(*),,FK Nizhny Novgorod,cancelled
+32,Sun Apr 12 2020,,Tekstilshchik Ivanovo,(*),,Mordovia Saransk,cancelled
+32,Sun Apr 12 2020,,Enisey Krasnoyarsk,(*),,SKA-Energia Khabarovsk,cancelled
+32,Sun Apr 12 2020,,Rotor Volgograd,(*),,Baltika Kaliningrad,cancelled
+32,Sun Apr 12 2020,,FK Khimki,(*),,Fakel Voronezh,cancelled
+32,Sun Apr 12 2020,,FK Krasnodar 2,(*),,Chayka Peschanokopskoye,cancelled
+32,Sun Apr 12 2020,,FK Tom Tomsk,(*),,Torpedo Moskva,cancelled
+32,Sun Apr 12 2020,,FC Neftekhimik,(*),,Spartak Moskva 2,cancelled
+32,Sun Apr 12 2020,,Shinnik Yaroslavl,(*),,FK Chertanovo Moskva,cancelled
+33,Sat Apr 18 2020,,Baltika Kaliningrad,(*),,FK Khimki,cancelled
+33,Sat Apr 18 2020,,FK Chertanovo Moskva,(*),,Luch-Energia,cancelled
+33,Sat Apr 18 2020,,FK Torpedo Armavir,(*),,Avangard Kursk,cancelled
+33,Sat Apr 18 2020,,FK Nizhny Novgorod,(*),,Tekstilshchik Ivanovo,cancelled
+33,Sat Apr 18 2020,,Mordovia Saransk,(*),,Enisey Krasnoyarsk,cancelled
+33,Sat Apr 18 2020,,SKA-Energia Khabarovsk,(*),,Rotor Volgograd,cancelled
+33,Sat Apr 18 2020,,Fakel Voronezh,(*),,FK Krasnodar 2,cancelled
+33,Sat Apr 18 2020,,Chayka Peschanokopskoye,(*),,FK Tom Tomsk,cancelled
+33,Sat Apr 18 2020,,Torpedo Moskva,(*),,FC Neftekhimik,cancelled
+33,Sat Apr 18 2020,,Spartak Moskva 2,(*),,Shinnik Yaroslavl,cancelled
+34,Sun Apr 26 2020,,Avangard Kursk,(*),,Luch-Energia,cancelled
+34,Sun Apr 26 2020,,Tekstilshchik Ivanovo,(*),,FK Torpedo Armavir,cancelled
+34,Sun Apr 26 2020,,Enisey Krasnoyarsk,(*),,FK Nizhny Novgorod,cancelled
+34,Sun Apr 26 2020,,FK Khimki,(*),,SKA-Energia Khabarovsk,cancelled
+34,Sun Apr 26 2020,,FK Krasnodar 2,(*),,Baltika Kaliningrad,cancelled
+34,Sun Apr 26 2020,,FK Tom Tomsk,(*),,Fakel Voronezh,cancelled
+34,Sun Apr 26 2020,,FC Neftekhimik,(*),,Chayka Peschanokopskoye,cancelled
+34,Sun Apr 26 2020,,Rotor Volgograd,(*),,Mordovia Saransk,cancelled
+34,Sun Apr 26 2020,,Shinnik Yaroslavl,(*),,Torpedo Moskva,cancelled
+34,Sun Apr 26 2020,,Spartak Moskva 2,(*),,FK Chertanovo Moskva,cancelled
+35,Sat May 2 2020,,FK Chertanovo Moskva,(*),,Avangard Kursk,cancelled
+35,Sat May 2 2020,,Luch-Energia,(*),,Tekstilshchik Ivanovo,cancelled
+35,Sat May 2 2020,,FK Torpedo Armavir,(*),,Enisey Krasnoyarsk,cancelled
+35,Sat May 2 2020,,FK Nizhny Novgorod,(*),,Rotor Volgograd,cancelled
+35,Sat May 2 2020,,Mordovia Saransk,(*),,FK Khimki,cancelled
+35,Sat May 2 2020,,SKA-Energia Khabarovsk,(*),,FK Krasnodar 2,cancelled
+35,Sat May 2 2020,,Baltika Kaliningrad,(*),,FK Tom Tomsk,cancelled
+35,Sat May 2 2020,,Fakel Voronezh,(*),,FC Neftekhimik,cancelled
+35,Sat May 2 2020,,Chayka Peschanokopskoye,(*),,Shinnik Yaroslavl,cancelled
+35,Sat May 2 2020,,Torpedo Moskva,(*),,Spartak Moskva 2,cancelled
+36,Wed May 6 2020,,Tekstilshchik Ivanovo,(*),,Avangard Kursk,cancelled
+36,Wed May 6 2020,,Rotor Volgograd,(*),,FK Torpedo Armavir,cancelled
+36,Wed May 6 2020,,Enisey Krasnoyarsk,(*),,Luch-Energia,cancelled
+36,Wed May 6 2020,,FK Khimki,(*),,FK Nizhny Novgorod,cancelled
+36,Wed May 6 2020,,FK Krasnodar 2,(*),,Mordovia Saransk,cancelled
+36,Wed May 6 2020,,FK Tom Tomsk,(*),,SKA-Energia Khabarovsk,cancelled
+36,Wed May 6 2020,,FC Neftekhimik,(*),,Baltika Kaliningrad,cancelled
+36,Wed May 6 2020,,Shinnik Yaroslavl,(*),,Fakel Voronezh,cancelled
+36,Wed May 6 2020,,Spartak Moskva 2,(*),,Chayka Peschanokopskoye,cancelled
+36,Wed May 6 2020,,FK Chertanovo Moskva,(*),,Torpedo Moskva,cancelled
+37,Sun May 10 2020,,FK Chertanovo Moskva,(*),,Tekstilshchik Ivanovo,cancelled
+37,Sun May 10 2020,,Avangard Kursk,(*),,Enisey Krasnoyarsk,cancelled
+37,Sun May 10 2020,,Luch-Energia,(*),,Rotor Volgograd,cancelled
+37,Sun May 10 2020,,FK Torpedo Armavir,(*),,FK Khimki,cancelled
+37,Sun May 10 2020,,FK Nizhny Novgorod,(*),,FK Krasnodar 2,cancelled
+37,Sun May 10 2020,,Mordovia Saransk,(*),,FK Tom Tomsk,cancelled
+37,Sun May 10 2020,,SKA-Energia Khabarovsk,(*),,FC Neftekhimik,cancelled
+37,Sun May 10 2020,,Baltika Kaliningrad,(*),,Shinnik Yaroslavl,cancelled
+37,Sun May 10 2020,,Fakel Voronezh,(*),,Spartak Moskva 2,cancelled
+37,Sun May 10 2020,,Chayka Peschanokopskoye,(*),,Torpedo Moskva,cancelled
+38,Sat May 16 2020,,Enisey Krasnoyarsk,(*),,Tekstilshchik Ivanovo,cancelled
+38,Sat May 16 2020,,Rotor Volgograd,(*),,Avangard Kursk,cancelled
+38,Sat May 16 2020,,FK Khimki,(*),,Luch-Energia,cancelled
+38,Sat May 16 2020,,FK Krasnodar 2,(*),,FK Torpedo Armavir,cancelled
+38,Sat May 16 2020,,FK Tom Tomsk,(*),,FK Nizhny Novgorod,cancelled
+38,Sat May 16 2020,,FC Neftekhimik,(*),,Mordovia Saransk,cancelled
+38,Sat May 16 2020,,Shinnik Yaroslavl,(*),,SKA-Energia Khabarovsk,cancelled
+38,Sat May 16 2020,,Spartak Moskva 2,(*),,Baltika Kaliningrad,cancelled
+38,Sat May 16 2020,,Torpedo Moskva,(*),,Fakel Voronezh,cancelled
+38,Sat May 16 2020,,FK Chertanovo Moskva,(*),,Chayka Peschanokopskoye,cancelled

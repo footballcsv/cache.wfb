@@ -1,0 +1,199 @@
+Stage,Round,Date,Time,Team 1,FT,HT,Team 2
+Regular Season,1,Sat Aug 1 2020,13:30,Aberdeen FC,0-1,0-1,Rangers FC
+Regular Season,1,Sat Aug 1 2020,16:00,Dundee United,1-1,1-0,St. Johnstone FC
+Regular Season,1,Sat Aug 1 2020,16:00,Hibernian FC,2-1,2-1,Kilmarnock FC
+Regular Season,1,Sat Aug 1 2020,16:00,St. Mirren FC,1-0,1-0,Livingston FC
+Regular Season,1,Sun Aug 2 2020,17:30,Celtic FC,5-1,2-1,Hamilton Academical
+Regular Season,1,Mon Aug 3 2020,20:45,Ross County FC,,,Motherwell FC
+Regular Season,2,Sat Aug 8 2020,13:30,St. Johnstone FC,,,Aberdeen FC
+Regular Season,2,Sat Aug 8 2020,16:00,Hamilton Academical,,,Ross County FC
+Regular Season,2,Sat Aug 8 2020,16:00,Livingston FC,,,Hibernian FC
+Regular Season,2,Sat Aug 8 2020,16:00,Motherwell FC,,,Dundee United
+Regular Season,2,Sat Aug 8 2020,16:00,Rangers FC,,,St. Mirren FC
+Regular Season,2,Sun Aug 9 2020,17:30,Kilmarnock FC,,,Celtic FC
+Regular Season,3,Tue Aug 11 2020,19:00,Dundee United,,,Hibernian FC
+Regular Season,3,Wed Aug 12 2020,19:00,St. Mirren FC,,,Celtic FC
+Regular Season,3,Wed Aug 12 2020,20:45,Aberdeen FC,,,Hamilton Academical
+Regular Season,3,Wed Aug 12 2020,20:45,Motherwell FC,,,Livingston FC
+Regular Season,3,Wed Aug 12 2020,20:45,Rangers FC,,,St. Johnstone FC
+Regular Season,3,Wed Aug 12 2020,20:45,Ross County FC,,,Kilmarnock FC
+Regular Season,4,Sat Aug 15 2020,16:00,Celtic FC,,,Aberdeen FC
+Regular Season,4,Sat Aug 15 2020,16:00,Hamilton Academical,,,St. Mirren FC
+Regular Season,4,Sat Aug 15 2020,16:00,Kilmarnock FC,,,St. Johnstone FC
+Regular Season,4,Sat Aug 15 2020,16:00,Ross County FC,,,Dundee United
+Regular Season,4,Sat Aug 15 2020,18:30,Hibernian FC,,,Motherwell FC
+Regular Season,4,Sun Aug 16 2020,17:30,Livingston FC,,,Rangers FC
+Regular Season,5,Sat Aug 22 2020,16:00,Aberdeen FC,,,Livingston FC
+Regular Season,5,Sat Aug 22 2020,16:00,Motherwell FC,,,Hamilton Academical
+Regular Season,5,Sat Aug 22 2020,16:00,Rangers FC,,,Kilmarnock FC
+Regular Season,5,Sat Aug 22 2020,16:00,St. Mirren FC,,,Ross County FC
+Regular Season,5,Sat Aug 22 2020,18:30,Dundee United,,,Celtic FC
+Regular Season,5,Sun Aug 23 2020,17:30,St. Johnstone FC,,,Hibernian FC
+Regular Season,6,Sat Aug 29 2020,16:00,Celtic FC,,,Motherwell FC
+Regular Season,6,Sat Aug 29 2020,16:00,Kilmarnock FC,,,Dundee United
+Regular Season,6,Sat Aug 29 2020,16:00,Livingston FC,,,Ross County FC
+Regular Season,6,Sat Aug 29 2020,16:00,St. Johnstone FC,,,St. Mirren FC
+Regular Season,6,Sat Aug 29 2020,18:30,Hamilton Academical,,,Rangers FC
+Regular Season,6,Sun Aug 30 2020,17:30,Hibernian FC,,,Aberdeen FC
+Regular Season,7,Sat Sep 12 2020,16:00,Aberdeen FC,,,Kilmarnock FC
+Regular Season,7,Sat Sep 12 2020,16:00,Livingston FC,,,Hamilton Academical
+Regular Season,7,Sat Sep 12 2020,16:00,Motherwell FC,,,St. Johnstone FC
+Regular Season,7,Sat Sep 12 2020,16:00,Rangers FC,,,Dundee United
+Regular Season,7,Sat Sep 12 2020,16:00,Ross County FC,,,Celtic FC
+Regular Season,7,Sat Sep 12 2020,16:00,St. Mirren FC,,,Hibernian FC
+Regular Season,8,Sat Sep 19 2020,16:00,Aberdeen FC,,,Motherwell FC
+Regular Season,8,Sat Sep 19 2020,16:00,Celtic FC,,,Livingston FC
+Regular Season,8,Sat Sep 19 2020,16:00,Dundee United,,,St. Mirren FC
+Regular Season,8,Sat Sep 19 2020,16:00,Hibernian FC,,,Rangers FC
+Regular Season,8,Sat Sep 19 2020,16:00,Kilmarnock FC,,,Hamilton Academical
+Regular Season,8,Sat Sep 19 2020,16:00,St. Johnstone FC,,,Ross County FC
+Regular Season,9,Sat Sep 26 2020,16:00,Celtic FC,,,Hibernian FC
+Regular Season,9,Sat Sep 26 2020,16:00,Hamilton Academical,,,Dundee United
+Regular Season,9,Sat Sep 26 2020,16:00,Livingston FC,,,St. Johnstone FC
+Regular Season,9,Sat Sep 26 2020,16:00,Motherwell FC,,,Rangers FC
+Regular Season,9,Sat Sep 26 2020,16:00,Ross County FC,,,Aberdeen FC
+Regular Season,9,Sat Sep 26 2020,16:00,St. Mirren FC,,,Kilmarnock FC
+Regular Season,10,Fri Oct 2 2020,20:45,Aberdeen FC,,,St. Mirren FC
+Regular Season,10,Fri Oct 2 2020,20:45,Dundee United,,,Livingston FC
+Regular Season,10,Fri Oct 2 2020,20:45,Hibernian FC,,,Hamilton Academical
+Regular Season,10,Fri Oct 2 2020,20:45,Kilmarnock FC,,,Motherwell FC
+Regular Season,10,Fri Oct 2 2020,20:45,Rangers FC,,,Ross County FC
+Regular Season,10,Fri Oct 2 2020,20:45,St. Johnstone FC,,,Celtic FC
+Regular Season,11,Sat Oct 17 2020,16:00,Celtic FC,,,Rangers FC
+Regular Season,11,Sat Oct 17 2020,16:00,Dundee United,,,Aberdeen FC
+Regular Season,11,Sat Oct 17 2020,16:00,Hamilton Academical,,,St. Johnstone FC
+Regular Season,11,Sat Oct 17 2020,16:00,Livingston FC,,,Kilmarnock FC
+Regular Season,11,Sat Oct 17 2020,16:00,Ross County FC,,,Hibernian FC
+Regular Season,11,Sat Oct 17 2020,16:00,St. Mirren FC,,,Motherwell FC
+Regular Season,12,Sat Oct 24 2020,16:00,Aberdeen FC,,,Celtic FC
+Regular Season,12,Sat Oct 24 2020,16:00,Kilmarnock FC,,,Hibernian FC
+Regular Season,12,Sat Oct 24 2020,16:00,Motherwell FC,,,Ross County FC
+Regular Season,12,Sat Oct 24 2020,16:00,Rangers FC,,,Livingston FC
+Regular Season,12,Sat Oct 24 2020,16:00,St. Johnstone FC,,,Dundee United
+Regular Season,12,Sat Oct 24 2020,16:00,St. Mirren FC,,,Hamilton Academical
+Regular Season,13,Sat Oct 31 2020,16:00,Celtic FC,,,St. Mirren FC
+Regular Season,13,Sat Oct 31 2020,16:00,Dundee United,,,Ross County FC
+Regular Season,13,Sat Oct 31 2020,16:00,Hamilton Academical,,,Aberdeen FC
+Regular Season,13,Sat Oct 31 2020,16:00,Hibernian FC,,,St. Johnstone FC
+Regular Season,13,Sat Oct 31 2020,16:00,Kilmarnock FC,,,Rangers FC
+Regular Season,13,Sat Oct 31 2020,16:00,Livingston FC,,,Motherwell FC
+Regular Season,14,Fri Nov 6 2020,20:45,Aberdeen FC,,,Hibernian FC
+Regular Season,14,Fri Nov 6 2020,20:45,Motherwell FC,,,Celtic FC
+Regular Season,14,Fri Nov 6 2020,20:45,Rangers FC,,,Hamilton Academical
+Regular Season,14,Fri Nov 6 2020,20:45,Ross County FC,,,Livingston FC
+Regular Season,14,Fri Nov 6 2020,20:45,St. Johnstone FC,,,Kilmarnock FC
+Regular Season,14,Fri Nov 6 2020,20:45,St. Mirren FC,,,Dundee United
+Regular Season,15,Sat Nov 21 2020,16:00,Dundee United,,,Hamilton Academical
+Regular Season,15,Sat Nov 21 2020,16:00,Hibernian FC,,,Celtic FC
+Regular Season,15,Sat Nov 21 2020,16:00,Kilmarnock FC,,,Ross County FC
+Regular Season,15,Sat Nov 21 2020,16:00,Livingston FC,,,St. Mirren FC
+Regular Season,15,Sat Nov 21 2020,16:00,Rangers FC,,,Aberdeen FC
+Regular Season,15,Sat Nov 21 2020,16:00,St. Johnstone FC,,,Motherwell FC
+Regular Season,16,Sat Dec 5 2020,16:00,Celtic FC,,,St. Johnstone FC
+Regular Season,16,Sat Dec 5 2020,16:00,Hamilton Academical,,,Kilmarnock FC
+Regular Season,16,Sat Dec 5 2020,16:00,Livingston FC,,,Dundee United
+Regular Season,16,Sat Dec 5 2020,16:00,Motherwell FC,,,Hibernian FC
+Regular Season,16,Sat Dec 5 2020,16:00,Ross County FC,,,Rangers FC
+Regular Season,16,Sat Dec 5 2020,16:00,St. Mirren FC,,,Aberdeen FC
+Regular Season,17,Sat Dec 12 2020,16:00,Aberdeen FC,,,Ross County FC
+Regular Season,17,Sat Dec 12 2020,16:00,Celtic FC,,,Kilmarnock FC
+Regular Season,17,Sat Dec 12 2020,16:00,Dundee United,,,Rangers FC
+Regular Season,17,Sat Dec 12 2020,16:00,Hamilton Academical,,,Hibernian FC
+Regular Season,17,Sat Dec 12 2020,16:00,Motherwell FC,,,St. Mirren FC
+Regular Season,17,Sat Dec 12 2020,16:00,St. Johnstone FC,,,Livingston FC
+Regular Season,18,Sat Dec 19 2020,16:00,Hibernian FC,,,Dundee United
+Regular Season,18,Sat Dec 19 2020,16:00,Kilmarnock FC,,,Aberdeen FC
+Regular Season,18,Sat Dec 19 2020,16:00,Livingston FC,,,Celtic FC
+Regular Season,18,Sat Dec 19 2020,16:00,Rangers FC,,,Motherwell FC
+Regular Season,18,Sat Dec 19 2020,16:00,Ross County FC,,,Hamilton Academical
+Regular Season,18,Sat Dec 19 2020,16:00,St. Mirren FC,,,St. Johnstone FC
+Regular Season,19,Wed Dec 23 2020,20:45,Celtic FC,,,Ross County FC
+Regular Season,19,Wed Dec 23 2020,20:45,Dundee United,,,Kilmarnock FC
+Regular Season,19,Wed Dec 23 2020,20:45,Hamilton Academical,,,Livingston FC
+Regular Season,19,Wed Dec 23 2020,20:45,Hibernian FC,,,St. Mirren FC
+Regular Season,19,Wed Dec 23 2020,20:45,Motherwell FC,,,Aberdeen FC
+Regular Season,19,Wed Dec 23 2020,20:45,St. Johnstone FC,,,Rangers FC
+Regular Season,20,Sat Dec 26 2020,16:00,Aberdeen FC,,,St. Johnstone FC
+Regular Season,20,Sat Dec 26 2020,16:00,Dundee United,,,Motherwell FC
+Regular Season,20,Sat Dec 26 2020,16:00,Hamilton Academical,,,Celtic FC
+Regular Season,20,Sat Dec 26 2020,16:00,Kilmarnock FC,,,Livingston FC
+Regular Season,20,Sat Dec 26 2020,16:00,Rangers FC,,,Hibernian FC
+Regular Season,20,Sat Dec 26 2020,16:00,Ross County FC,,,St. Mirren FC
+Regular Season,21,Wed Dec 30 2020,20:45,Celtic FC,,,Dundee United
+Regular Season,21,Wed Dec 30 2020,20:45,Hibernian FC,,,Ross County FC
+Regular Season,21,Wed Dec 30 2020,20:45,Livingston FC,,,Aberdeen FC
+Regular Season,21,Wed Dec 30 2020,20:45,Motherwell FC,,,Kilmarnock FC
+Regular Season,21,Wed Dec 30 2020,20:45,St. Johnstone FC,,,Hamilton Academical
+Regular Season,21,Wed Dec 30 2020,20:45,St. Mirren FC,,,Rangers FC
+Regular Season,22,Sat Jan 2 2021,16:00,Aberdeen FC,,,Dundee United
+Regular Season,22,Sat Jan 2 2021,16:00,Hamilton Academical,,,Motherwell FC
+Regular Season,22,Sat Jan 2 2021,16:00,Hibernian FC,,,Livingston FC
+Regular Season,22,Sat Jan 2 2021,16:00,Kilmarnock FC,,,St. Mirren FC
+Regular Season,22,Sat Jan 2 2021,16:00,Rangers FC,,,Celtic FC
+Regular Season,22,Sat Jan 2 2021,16:00,Ross County FC,,,St. Johnstone FC
+Regular Season,23,Sat Jan 9 2021,16:00,Aberdeen FC,,,Rangers FC
+Regular Season,23,Sat Jan 9 2021,16:00,Celtic FC,,,Hibernian FC
+Regular Season,23,Sat Jan 9 2021,16:00,Dundee United,,,St. Johnstone FC
+Regular Season,23,Sat Jan 9 2021,16:00,Kilmarnock FC,,,Hamilton Academical
+Regular Season,23,Sat Jan 9 2021,16:00,Livingston FC,,,Ross County FC
+Regular Season,23,Sat Jan 9 2021,16:00,St. Mirren FC,,,Motherwell FC
+Regular Season,24,Sat Jan 16 2021,16:00,Celtic FC,,,Livingston FC
+Regular Season,24,Sat Jan 16 2021,16:00,Hamilton Academical,,,Dundee United
+Regular Season,24,Sat Jan 16 2021,16:00,Hibernian FC,,,Kilmarnock FC
+Regular Season,24,Sat Jan 16 2021,16:00,Motherwell FC,,,Rangers FC
+Regular Season,24,Sat Jan 16 2021,16:00,Ross County FC,,,Aberdeen FC
+Regular Season,24,Sat Jan 16 2021,16:00,St. Johnstone FC,,,St. Mirren FC
+Regular Season,25,Sat Jan 23 2021,16:00,Aberdeen FC,,,Motherwell FC
+Regular Season,25,Sat Jan 23 2021,16:00,Dundee United,,,Hibernian FC
+Regular Season,25,Sat Jan 23 2021,16:00,Kilmarnock FC,,,St. Johnstone FC
+Regular Season,25,Sat Jan 23 2021,16:00,Livingston FC,,,Hamilton Academical
+Regular Season,25,Sat Jan 23 2021,16:00,Rangers FC,,,Ross County FC
+Regular Season,25,Sat Jan 23 2021,16:00,St. Mirren FC,,,Celtic FC
+Regular Season,26,Wed Jan 27 2021,20:45,Celtic FC,,,Hamilton Academical
+Regular Season,26,Wed Jan 27 2021,20:45,Dundee United,,,St. Mirren FC
+Regular Season,26,Wed Jan 27 2021,20:45,Hibernian FC,,,Rangers FC
+Regular Season,26,Wed Jan 27 2021,20:45,Livingston FC,,,Kilmarnock FC
+Regular Season,26,Wed Jan 27 2021,20:45,Ross County FC,,,Motherwell FC
+Regular Season,26,Wed Jan 27 2021,20:45,St. Johnstone FC,,,Aberdeen FC
+Regular Season,27,Wed Feb 3 2021,20:45,Aberdeen FC,,,Livingston FC
+Regular Season,27,Wed Feb 3 2021,20:45,Hamilton Academical,,,Ross County FC
+Regular Season,27,Wed Feb 3 2021,20:45,Kilmarnock FC,,,Celtic FC
+Regular Season,27,Wed Feb 3 2021,20:45,Motherwell FC,,,Dundee United
+Regular Season,27,Wed Feb 3 2021,20:45,Rangers FC,,,St. Johnstone FC
+Regular Season,27,Wed Feb 3 2021,20:45,St. Mirren FC,,,Hibernian FC
+Regular Season,28,Sat Feb 6 2021,16:00,Celtic FC,,,Motherwell FC
+Regular Season,28,Sat Feb 6 2021,16:00,Hamilton Academical,,,Rangers FC
+Regular Season,28,Sat Feb 6 2021,16:00,Hibernian FC,,,Aberdeen FC
+Regular Season,28,Sat Feb 6 2021,16:00,Livingston FC,,,St. Johnstone FC
+Regular Season,28,Sat Feb 6 2021,16:00,Ross County FC,,,Dundee United
+Regular Season,28,Sat Feb 6 2021,16:00,St. Mirren FC,,,Kilmarnock FC
+Regular Season,29,Sat Feb 13 2021,16:00,Aberdeen FC,,,St. Mirren FC
+Regular Season,29,Sat Feb 13 2021,16:00,Dundee United,,,Livingston FC
+Regular Season,29,Sat Feb 13 2021,16:00,Motherwell FC,,,Hamilton Academical
+Regular Season,29,Sat Feb 13 2021,16:00,Rangers FC,,,Kilmarnock FC
+Regular Season,29,Sat Feb 13 2021,16:00,Ross County FC,,,Hibernian FC
+Regular Season,29,Sat Feb 13 2021,16:00,St. Johnstone FC,,,Celtic FC
+Regular Season,30,Sat Feb 27 2021,16:00,Celtic FC,,,Aberdeen FC
+Regular Season,30,Sat Feb 27 2021,16:00,Hamilton Academical,,,St. Johnstone FC
+Regular Season,30,Sat Feb 27 2021,16:00,Hibernian FC,,,Motherwell FC
+Regular Season,30,Sat Feb 27 2021,16:00,Kilmarnock FC,,,Dundee United
+Regular Season,30,Sat Feb 27 2021,16:00,Livingston FC,,,Rangers FC
+Regular Season,30,Sat Feb 27 2021,16:00,St. Mirren FC,,,Ross County FC
+Regular Season,31,Sat Mar 6 2021,16:00,Aberdeen FC,,,Hamilton Academical
+Regular Season,31,Sat Mar 6 2021,16:00,Dundee United,,,Celtic FC
+Regular Season,31,Sat Mar 6 2021,16:00,Motherwell FC,,,Livingston FC
+Regular Season,31,Sat Mar 6 2021,16:00,Rangers FC,,,St. Mirren FC
+Regular Season,31,Sat Mar 6 2021,16:00,Ross County FC,,,Kilmarnock FC
+Regular Season,31,Sat Mar 6 2021,16:00,St. Johnstone FC,,,Hibernian FC
+Regular Season,32,Sat Mar 20 2021,16:00,Celtic FC,,,Rangers FC
+Regular Season,32,Sat Mar 20 2021,16:00,Dundee United,,,Aberdeen FC
+Regular Season,32,Sat Mar 20 2021,16:00,Hamilton Academical,,,St. Mirren FC
+Regular Season,32,Sat Mar 20 2021,16:00,Kilmarnock FC,,,Motherwell FC
+Regular Season,32,Sat Mar 20 2021,16:00,Livingston FC,,,Hibernian FC
+Regular Season,32,Sat Mar 20 2021,16:00,St. Johnstone FC,,,Ross County FC
+Regular Season,33,Sat Apr 3 2021,16:00,Aberdeen FC,,,Kilmarnock FC
+Regular Season,33,Sat Apr 3 2021,16:00,Hibernian FC,,,Hamilton Academical
+Regular Season,33,Sat Apr 3 2021,16:00,Motherwell FC,,,St. Johnstone FC
+Regular Season,33,Sat Apr 3 2021,16:00,Rangers FC,,,Dundee United
+Regular Season,33,Sat Apr 3 2021,16:00,Ross County FC,,,Celtic FC
+Regular Season,33,Sat Apr 3 2021,16:00,St. Mirren FC,,,Livingston FC

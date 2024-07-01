@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 16 2019,19:30,Denizlispor,2-0,0-0,Galatasaray
+1,Sat Aug 17 2019,18:15,Gençlerbirliği,0-1,0-0,Çaykur Rizespor
+1,Sat Aug 17 2019,20:45,Kayserispor,0-1,0-0,Alanyaspor
+1,Sat Aug 17 2019,20:45,Sivasspor,3-0,1-0,Beşiktaş
+1,Sun Aug 18 2019,20:45,Yeni Malatyaspor,3-0,0-0,İstanbul Başakşehir F.K.
+1,Sun Aug 18 2019,20:45,Göztepe,0-1,0-1,Antalyaspor
+1,Sun Aug 18 2019,20:45,Kasımpaşa SK,1-1,1-1,Trabzonspor
+1,Sun Aug 18 2019,18:15,Atiker Konyaspor,0-0,0-0,MKE Ankaragücü
+1,Mon Aug 19 2019,19:00,Fenerbahçe,5-0,3-0,Gazişehir Gaziantep FK
+2,Fri Aug 23 2019,19:30,Beşiktaş,3-0,1-0,Göztepe
+2,Sat Aug 24 2019,18:15,MKE Ankaragücü,1-1,0-0,Kayserispor
+2,Sat Aug 24 2019,20:45,Alanyaspor,4-1,1-1,Kasımpaşa SK
+2,Sat Aug 24 2019,20:45,İstanbul Başakşehir F.K.,1-2,1-0,Fenerbahçe
+2,Sun Aug 25 2019,18:15,Çaykur Rizespor,2-1,0-0,Sivasspor
+2,Sun Aug 25 2019,20:45,Galatasaray,1-1,0-0,Atiker Konyaspor
+2,Sun Aug 25 2019,20:45,Antalyaspor,0-2,0-1,Denizlispor
+2,Sun Aug 25 2019,18:15,Trabzonspor,2-1,1-0,Yeni Malatyaspor
+2,Mon Aug 26 2019,19:00,Gazişehir Gaziantep FK,4-1,2-0,Gençlerbirliği
+3,Fri Aug 30 2019,19:30,Kasımpaşa SK,0-1,0-1,MKE Ankaragücü
+3,Fri Aug 30 2019,19:30,Kayserispor,2-3,1-0,Galatasaray
+3,Sat Aug 31 2019,18:15,Atiker Konyaspor,2-2,0-1,Antalyaspor
+3,Sat Aug 31 2019,20:45,Beşiktaş,1-1,0-1,Çaykur Rizespor
+3,Sat Aug 31 2019,20:45,Göztepe,0-0,0-0,Denizlispor
+3,Sun Sep 1 2019,18:15,Gençlerbirliği,1-2,1-0,İstanbul Başakşehir F.K.
+3,Sun Sep 1 2019,18:15,Sivasspor,1-1,0-1,Gazişehir Gaziantep FK
+3,Sun Sep 1 2019,20:45,Yeni Malatyaspor,2-3,0-3,Alanyaspor
+3,Sun Sep 1 2019,20:45,Fenerbahçe,1-1,1-1,Trabzonspor
+4,Fri Sep 13 2019,19:30,Galatasaray,1-0,1-0,Kasımpaşa SK
+4,Sat Sep 14 2019,16:00,İstanbul Başakşehir F.K.,1-1,0-1,Sivasspor
+4,Sat Sep 14 2019,19:00,Gazişehir Gaziantep FK,3-2,1-0,Beşiktaş
+4,Sat Sep 14 2019,19:00,Antalyaspor,2-2,1-1,Kayserispor
+4,Sun Sep 15 2019,16:00,MKE Ankaragücü,0-4,0-3,Yeni Malatyaspor
+4,Sun Sep 15 2019,16:00,Çaykur Rizespor,0-0,0-0,Göztepe
+4,Sun Sep 15 2019,19:00,Denizlispor,0-1,0-0,Atiker Konyaspor
+4,Sun Sep 15 2019,19:00,Trabzonspor,2-2,1-1,Gençlerbirliği
+4,Mon Sep 16 2019,19:00,Alanyaspor,3-1,1-1,Fenerbahçe
+5,Fri Sep 20 2019,19:30,Göztepe,1-0,0-0,Atiker Konyaspor
+5,Sat Sep 21 2019,14:00,Kasımpaşa SK,3-0,0-0,Antalyaspor
+5,Sat Sep 21 2019,16:30,Kayserispor,1-1,1-0,Denizlispor
+5,Sat Sep 21 2019,19:00,Fenerbahçe,2-1,1-1,MKE Ankaragücü
+5,Sun Sep 22 2019,13:00,Çaykur Rizespor,1-2,0-2,Gazişehir Gaziantep FK
+5,Sun Sep 22 2019,15:30,Gençlerbirliği,1-1,1-0,Alanyaspor
+5,Sun Sep 22 2019,18:00,Yeni Malatyaspor,1-1,0-1,Galatasaray
+5,Mon Sep 23 2019,19:00,Beşiktaş,1-1,0-0,İstanbul Başakşehir F.K.
+5,Mon Sep 23 2019,19:00,Sivasspor,2-1,1-1,Trabzonspor
+6,Fri Sep 27 2019,19:30,İstanbul Başakşehir F.K.,5-0,2-0,Çaykur Rizespor
+6,Sat Sep 28 2019,19:00,Galatasaray,0-0,0-0,Fenerbahçe
+6,Sat Sep 28 2019,16:30,Alanyaspor,1-1,0-1,Sivasspor
+6,Sat Sep 28 2019,14:00,Denizlispor,0-1,0-0,Kasımpaşa SK
+6,Sun Sep 29 2019,13:00,Atiker Konyaspor,2-1,1-1,Kayserispor
+6,Sun Sep 29 2019,15:30,MKE Ankaragücü,2-1,0-0,Gençlerbirliği
+6,Sun Sep 29 2019,18:00,Trabzonspor,4-1,2-0,Beşiktaş
+6,Sun Sep 29 2019,15:30,Antalyaspor,3-0,1-0,Yeni Malatyaspor
+6,Mon Sep 30 2019,19:00,Gazişehir Gaziantep FK,1-1,0-0,Göztepe
+7,Fri Oct 4 2019,19:30,Fenerbahçe,0-1,0-1,Antalyaspor
+7,Fri Oct 4 2019,19:30,Yeni Malatyaspor,5-1,2-0,Denizlispor
+7,Sat Oct 5 2019,14:00,Kasımpaşa SK,1-4,1-3,Atiker Konyaspor
+7,Sat Oct 5 2019,19:00,Gençlerbirliği,0-0,0-0,Galatasaray
+7,Sat Oct 5 2019,16:30,Göztepe,4-0,3-0,Kayserispor
+7,Sun Oct 6 2019,18:00,Çaykur Rizespor,1-2,1-0,Trabzonspor
+7,Sun Oct 6 2019,15:30,Beşiktaş,2-0,0-0,Alanyaspor
+7,Sun Oct 6 2019,18:00,Gaziantep FK,1-2,1-1,İstanbul Başakşehir F.K.
+7,Sun Oct 6 2019,13:00,Sivasspor,3-1,1-1,MKE Ankaragücü
+8,Fri Oct 18 2019,19:30,Galatasaray,3-2,2-0,Sivasspor
+8,Sat Oct 19 2019,14:00,Antalyaspor,0-6,0-5,Gençlerbirliği
+8,Sat Oct 19 2019,16:30,İstanbul Başakşehir F.K.,2-1,1-0,Göztepe
+8,Sat Oct 19 2019,16:30,Trabzonspor,4-1,2-0,Gaziantep FK
+8,Sat Oct 19 2019,19:00,MKE Ankaragücü,0-0,0-0,Beşiktaş
+8,Sun Oct 20 2019,13:00,Kayserispor,1-1,0-1,Kasımpaşa SK
+8,Sun Oct 20 2019,15:30,Alanyaspor,5-2,2-0,Çaykur Rizespor
+8,Sun Oct 20 2019,18:00,Denizlispor,1-2,0-1,Fenerbahçe
+8,Mon Oct 21 2019,19:00,Atiker Konyaspor,0-2,0-1,Yeni Malatyaspor
+9,Fri Oct 25 2019,19:30,Çaykur Rizespor,2-0,1-0,MKE Ankaragücü
+9,Sat Oct 26 2019,14:00,Sivasspor,2-1,0-0,Antalyaspor
+9,Sat Oct 26 2019,16:30,Gaziantep FK,1-1,0-1,Alanyaspor
+9,Sat Oct 26 2019,19:00,Fenerbahçe,5-1,3-1,Atiker Konyaspor
+9,Sun Oct 27 2019,17:00,Beşiktaş,1-0,0-0,Galatasaray
+9,Sun Oct 27 2019,14:30,Gençlerbirliği,0-2,0-1,Denizlispor
+9,Sun Oct 27 2019,14:30,Göztepe,1-4,1-1,Kasımpaşa SK
+9,Sun Oct 27 2019,12:00,Yeni Malatyaspor,4-0,1-0,Kayserispor
+9,Mon Oct 28 2019,18:00,İstanbul Başakşehir F.K.,2-2,0-0,Trabzonspor
+10,Fri Nov 1 2019,18:30,Galatasaray,2-0,2-0,Çaykur Rizespor
+10,Sat Nov 2 2019,13:00,Atiker Konyaspor,1-1,1-0,Gençlerbirliği
+10,Sat Nov 2 2019,15:30,Alanyaspor,0-0,0-0,İstanbul Başakşehir F.K.
+10,Sat Nov 2 2019,18:00,Antalyaspor,1-2,0-2,Beşiktaş
+10,Sat Nov 2 2019,15:30,Trabzonspor,0-1,0-1,Göztepe
+10,Sun Nov 3 2019,12:00,Denizlispor,0-2,0-1,Sivasspor
+10,Sun Nov 3 2019,14:30,Kasımpaşa SK,2-2,1-0,Yeni Malatyaspor
+10,Sun Nov 3 2019,17:00,Kayserispor,1-0,0-0,Fenerbahçe
+10,Mon Nov 4 2019,18:00,MKE Ankaragücü,1-2,0-1,Gaziantep FK
+11,Fri Nov 8 2019,18:30,Fenerbahçe,3-2,2-1,Kasımpaşa SK
+11,Sat Nov 9 2019,13:00,Gençlerbirliği,2-1,1-0,Kayserispor
+11,Sat Nov 9 2019,15:30,Çaykur Rizespor,1-0,1-0,Antalyaspor
+11,Sat Nov 9 2019,15:30,Sivasspor,2-0,0-0,Atiker Konyaspor
+11,Sat Nov 9 2019,18:00,Gaziantep FK,0-2,0-2,Galatasaray
+11,Sun Nov 10 2019,12:00,Göztepe,1-1,1-0,Yeni Malatyaspor
+11,Sun Nov 10 2019,14:30,Trabzonspor,1-0,0-0,Alanyaspor
+11,Sun Nov 10 2019,17:00,İstanbul Başakşehir F.K.,2-1,1-0,MKE Ankaragücü
+11,Sun Nov 10 2019,17:00,Beşiktaş,1-0,0-0,Denizlispor
+12,Fri Nov 22 2019,18:30,Galatasaray,0-1,0-0,İstanbul Başakşehir F.K.
+12,Sat Nov 23 2019,15:30,MKE Ankaragücü,0-3,0-1,Trabzonspor
+12,Sat Nov 23 2019,13:00,Denizlispor,2-0,0-0,Çaykur Rizespor
+12,Sat Nov 23 2019,18:00,Atiker Konyaspor,0-1,0-0,Beşiktaş
+12,Sun Nov 24 2019,12:00,Kayserispor,1-4,1-1,Sivasspor
+12,Sun Nov 24 2019,14:30,Alanyaspor,0-1,0-0,Göztepe
+12,Sun Nov 24 2019,14:30,Kasımpaşa SK,1-2,0-0,Gençlerbirliği
+12,Sun Nov 24 2019,17:00,Yeni Malatyaspor,0-0,0-0,Fenerbahçe
+12,Mon Nov 25 2019,18:00,Antalyaspor,1-1,0-1,Gaziantep FK
+13,Fri Nov 29 2019,18:30,Gençlerbirliği,3-3,0-1,Yeni Malatyaspor
+13,Sat Nov 30 2019,13:00,Çaykur Rizespor,3-1,2-1,Atiker Konyaspor
+13,Sat Nov 30 2019,13:00,Sivasspor,2-0,2-0,Kasımpaşa SK
+13,Sat Nov 30 2019,15:30,Alanyaspor,5-0,2-0,MKE Ankaragücü
+13,Sat Nov 30 2019,18:00,Göztepe,2-2,1-1,Fenerbahçe
+13,Sun Dec 1 2019,12:00,Gaziantep FK,1-2,0-0,Denizlispor
+13,Sun Dec 1 2019,14:30,İstanbul Başakşehir F.K.,2-0,0-0,Antalyaspor
+13,Sun Dec 1 2019,17:00,Trabzonspor,1-1,0-0,Galatasaray
+13,Mon Dec 2 2019,18:00,Beşiktaş,4-1,3-0,Kayserispor
+14,Fri Dec 6 2019,18:30,Fenerbahçe,5-2,3-1,Gençlerbirliği
+14,Sat Dec 7 2019,13:00,Yeni Malatyaspor,1-3,1-2,Sivasspor
+14,Sat Dec 7 2019,15:30,MKE Ankaragücü,1-3,1-1,Göztepe
+14,Sat Dec 7 2019,18:00,Galatasaray,1-0,1-0,Alanyaspor
+14,Sun Dec 8 2019,17:00,Kasımpaşa SK,2-3,1-1,Beşiktaş
+14,Sun Dec 8 2019,14:30,Antalyaspor,1-3,1-3,Trabzonspor
+14,Sun Dec 8 2019,14:30,Denizlispor,1-1,0-0,İstanbul Başakşehir F.K.
+14,Sun Dec 8 2019,12:00,Atiker Konyaspor,0-0,0-0,Gaziantep FK
+14,Mon Dec 9 2019,18:00,Kayserispor,1-0,1-0,Çaykur Rizespor
+15,Fri Dec 13 2019,18:30,Alanyaspor,0-0,0-0,Antalyaspor
+15,Sat Dec 14 2019,13:00,Çaykur Rizespor,0-3,0-2,Kasımpaşa SK
+15,Sat Dec 14 2019,15:00,Gençlerbirliği,3-1,2-1,Göztepe
+15,Sat Dec 14 2019,18:00,Galatasaray,2-2,0-0,MKE Ankaragücü
+15,Sun Dec 15 2019,12:00,Gaziantep FK,3-0,0-0,Kayserispor
+15,Sun Dec 15 2019,17:00,Beşiktaş,0-2,0-0,Yeni Malatyaspor
+15,Sun Dec 15 2019,14:30,Sivasspor,3-1,1-0,Fenerbahçe
+15,Mon Dec 16 2019,18:00,İstanbul Başakşehir F.K.,1-1,1-0,Atiker Konyaspor
+15,Mon Dec 16 2019,18:00,Trabzonspor,1-2,1-0,Denizlispor
+16,Fri Dec 20 2019,18:30,Antalyaspor,2-2,1-0,MKE Ankaragücü
+16,Sat Dec 21 2019,13:00,Yeni Malatyaspor,0-2,0-1,Çaykur Rizespor
+16,Sat Dec 21 2019,15:30,Kasımpaşa SK,3-4,1-4,Gaziantep FK
+16,Sat Dec 21 2019,18:00,Göztepe,2-1,1-1,Galatasaray
+16,Sun Dec 22 2019,12:00,Gençlerbirliği,2-2,0-1,Sivasspor
+16,Sun Dec 22 2019,17:00,Fenerbahçe,3-1,2-1,Beşiktaş
+16,Sun Dec 22 2019,14:30,Kayserispor,1-4,1-2,İstanbul Başakşehir F.K.
+16,Mon Dec 23 2019,18:00,Denizlispor,1-5,0-3,Alanyaspor
+16,Mon Dec 23 2019,18:00,Atiker Konyaspor,0-1,0-1,Trabzonspor
+17,Fri Dec 27 2019,18:30,Beşiktaş,4-1,0-1,Gençlerbirliği
+17,Sat Dec 28 2019,13:00,MKE Ankaragücü,2-2,0-2,Denizlispor
+17,Sat Dec 28 2019,15:30,İstanbul Başakşehir F.K.,5-1,4-0,Kasımpaşa SK
+17,Sat Dec 28 2019,15:30,Trabzonspor,6-2,2-1,Kayserispor
+17,Sat Dec 28 2019,18:00,Galatasaray,5-0,3-0,Antalyaspor
+17,Sun Dec 29 2019,12:00,Sivasspor,1-0,0-0,Göztepe
+17,Sun Dec 29 2019,14:30,Alanyaspor,2-1,1-1,Atiker Konyaspor
+17,Sun Dec 29 2019,14:30,Gaziantep FK,1-1,1-0,Yeni Malatyaspor
+17,Sun Dec 29 2019,17:00,Çaykur Rizespor,1-2,1-1,Fenerbahçe
+18,Fri Jan 17 2020,18:00,MKE Ankaragücü,0-1,0-0,Atiker Konyaspor
+18,Sat Jan 18 2020,12:00,Alanyaspor,5-1,1-0,Kayserispor
+18,Sat Jan 18 2020,15:00,İstanbul Başakşehir F.K.,4-1,4-0,Yeni Malatyaspor
+18,Sat Jan 18 2020,18:00,Gaziantep FK,0-2,0-0,Fenerbahçe
+18,Sun Jan 19 2020,11:30,Antalyaspor,0-3,0-3,Göztepe
+18,Sun Jan 19 2020,14:00,Galatasaray,2-1,1-0,Denizlispor
+18,Sun Jan 19 2020,17:00,Beşiktaş,1-2,1-2,Sivasspor
+18,Sun Jan 19 2020,14:00,Trabzonspor,6-0,3-0,Kasımpaşa SK
+18,Mon Jan 20 2020,18:00,Çaykur Rizespor,2-0,0-0,Gençlerbirliği
+19,Fri Jan 24 2020,18:00,Gençlerbirliği,1-0,0-0,Gaziantep FK
+19,Sat Jan 25 2020,18:00,Fenerbahçe,2-0,0-0,İstanbul Başakşehir F.K.
+19,Sat Jan 25 2020,15:00,Kasımpaşa SK,1-2,0-1,Alanyaspor
+19,Sat Jan 25 2020,12:00,Kayserispor,1-1,1-0,MKE Ankaragücü
+19,Sun Jan 26 2020,11:30,Denizlispor,0-3,0-2,Antalyaspor
+19,Sun Jan 26 2020,14:00,Göztepe,2-1,2-1,Beşiktaş
+19,Sun Jan 26 2020,17:00,Atiker Konyaspor,0-3,0-2,Galatasaray
+19,Mon Jan 27 2020,18:00,Sivasspor,1-1,0-0,Çaykur Rizespor
+20,Fri Jan 31 2020,18:00,İstanbul Başakşehir F.K.,3-1,1-1,Gençlerbirliği
+20,Sat Feb 1 2020,18:00,Trabzonspor,2-1,2-1,Fenerbahçe
+20,Sat Feb 1 2020,15:00,Çaykur Rizespor,1-2,1-1,Beşiktaş
+20,Sat Feb 1 2020,12:00,Antalyaspor,0-0,0-0,Atiker Konyaspor
+20,Sun Feb 2 2020,14:00,Gaziantep FK,5-1,3-1,Sivasspor
+20,Sun Feb 2 2020,11:30,MKE Ankaragücü,1-1,0-1,Kasımpaşa SK
+20,Sun Feb 2 2020,14:00,Alanyaspor,2-1,1-0,Yeni Malatyaspor
+20,Sun Feb 2 2020,17:00,Galatasaray,4-1,2-0,Kayserispor
+20,Mon Feb 3 2020,18:00,Denizlispor,1-1,0-1,Göztepe
+21,Fri Feb 7 2020,18:00,Yeni Malatyaspor,0-1,0-0,MKE Ankaragücü
+21,Sat Feb 8 2020,15:00,Beşiktaş,3-0,0-0,Gaziantep FK
+21,Sat Feb 8 2020,12:00,Atiker Konyaspor,0-0,0-0,Denizlispor
+21,Sat Feb 8 2020,15:00,Gençlerbirliği,0-2,0-0,Trabzonspor
+21,Sat Feb 8 2020,18:00,Fenerbahçe,1-1,0-1,Alanyaspor
+21,Sun Feb 9 2020,17:00,Kasımpaşa SK,0-3,0-3,Galatasaray
+21,Sun Feb 9 2020,11:30,Kayserispor,2-2,1-1,Antalyaspor
+21,Sun Feb 9 2020,14:00,Sivasspor,1-1,0-0,İstanbul Başakşehir F.K.
+22,Fri Feb 14 2020,18:00,İstanbul Başakşehir F.K.,1-0,0-0,Beşiktaş
+22,Sat Feb 15 2020,15:00,Atiker Konyaspor,1-3,1-1,Göztepe
+22,Sat Feb 15 2020,12:00,Denizlispor,0-1,0-0,Kayserispor
+22,Sat Feb 15 2020,18:00,MKE Ankaragücü,2-1,1-0,Fenerbahçe
+22,Sun Feb 16 2020,14:00,Trabzonspor,2-1,2-0,Sivasspor
+22,Sun Feb 16 2020,17:00,Galatasaray,1-0,1-0,Yeni Malatyaspor
+22,Sun Feb 16 2020,11:30,Alanyaspor,0-1,0-0,Gençlerbirliği
+22,Mon Feb 17 2020,18:00,Gaziantep FK,2-0,0-0,Çaykur Rizespor
+22,Mon Feb 17 2020,18:00,Antalyaspor,3-1,0-0,Kasımpaşa SK
+23,Fri Feb 21 2020,18:00,Sivasspor,1-0,1-0,Alanyaspor
+23,Sat Feb 22 2020,15:00,Göztepe,1-1,0-0,Gaziantep FK
+23,Sat Feb 22 2020,18:00,Beşiktaş,2-2,0-1,Trabzonspor
+23,Sat Feb 22 2020,12:00,Kayserispor,2-2,1-2,Atiker Konyaspor
+23,Sun Feb 23 2020,11:30,Yeni Malatyaspor,1-2,1-1,Antalyaspor
+23,Sun Feb 23 2020,14:00,Gençlerbirliği,1-0,0-0,MKE Ankaragücü
+23,Sun Feb 23 2020,17:00,Fenerbahçe,1-3,1-1,Galatasaray
+23,Mon Feb 24 2020,18:00,Çaykur Rizespor,1-2,0-1,İstanbul Başakşehir F.K.
+23,Mon Feb 24 2020,18:00,Kasımpaşa SK,2-0,1-0,Denizlispor
+24,Fri Feb 28 2020,18:00,Alanyaspor,1-2,1-0,Beşiktaş
+24,Sat Feb 29 2020,18:00,Antalyaspor,2-2,0-1,Fenerbahçe
+24,Sat Feb 29 2020,15:00,Trabzonspor,5-2,0-1,Çaykur Rizespor
+24,Sat Feb 29 2020,12:00,Atiker Konyaspor,0-0,0-0,Kasımpaşa SK
+24,Sun Mar 1 2020,11:30,Denizlispor,2-0,1-0,Yeni Malatyaspor
+24,Sun Mar 1 2020,14:00,MKE Ankaragücü,0-3,0-0,Sivasspor
+24,Sun Mar 1 2020,17:00,Galatasaray,3-0,2-0,Gençlerbirliği
+24,Mon Mar 2 2020,18:00,Kayserispor,1-0,0-0,Göztepe
+24,Mon Mar 2 2020,18:00,İstanbul Başakşehir F.K.,3-1,0-0,Gaziantep FK
+25,Fri Mar 6 2020,18:00,Beşiktaş,2-1,1-0,MKE Ankaragücü
+25,Sat Mar 7 2020,15:00,Göztepe,0-3,0-1,İstanbul Başakşehir F.K.
+25,Sat Mar 7 2020,18:00,Fenerbahçe,2-2,1-1,Denizlispor
+25,Sat Mar 7 2020,12:00,Yeni Malatyaspor,1-1,0-1,Atiker Konyaspor
+25,Sat Mar 7 2020,15:00,Gaziantep FK,1-1,0-1,Trabzonspor
+25,Sun Mar 8 2020,11:30,Kasımpaşa SK,5-1,3-0,Kayserispor
+25,Sun Mar 8 2020,14:00,Çaykur Rizespor,1-1,0-1,Alanyaspor
+25,Sun Mar 8 2020,17:00,Sivasspor,2-2,1-2,Galatasaray
+25,Mon Mar 9 2020,18:00,Gençlerbirliği,1-1,0-0,Antalyaspor
+19,Wed Mar 11 2020,18:00,Yeni Malatyaspor,1-3,1-2,Trabzonspor
+26,Fri Mar 13 2020,18:00,Kasımpaşa SK,2-0,1-0,Göztepe
+26,Fri Mar 13 2020,18:00,MKE Ankaragücü,2-1,2-1,Çaykur Rizespor
+26,Sat Mar 14 2020,18:00,Atiker Konyaspor,1-0,1-0,Fenerbahçe
+26,Sat Mar 14 2020,12:00,Denizlispor,1-0,0-0,Gençlerbirliği
+26,Sat Mar 14 2020,15:00,Alanyaspor,1-0,1-0,Gaziantep FK
+26,Sun Mar 15 2020,17:00,Galatasaray,0-0,0-0,Beşiktaş
+26,Sun Mar 15 2020,14:00,Trabzonspor,1-1,0-0,İstanbul Başakşehir F.K.
+26,Sun Mar 15 2020,11:30,Kayserispor,2-1,2-0,Yeni Malatyaspor
+26,Mon Mar 16 2020,18:00,Antalyaspor,1-0,0-0,Sivasspor
+21,Tue Mar 17 2020,18:00,Göztepe,2-0,0-0,Çaykur Rizespor
+27,Fri Jun 12 2020,20:00,Fenerbahçe,2-1,0-0,Kayserispor
+27,Fri Jun 12 2020,20:00,Göztepe,1-3,0-1,Trabzonspor
+27,Sat Jun 13 2020,20:00,Yeni Malatyaspor,1-2,1-0,Kasımpaşa SK
+27,Sat Jun 13 2020,20:00,Beşiktaş,1-2,0-2,Antalyaspor
+27,Sat Jun 13 2020,17:30,İstanbul Başakşehir F.K.,2-0,0-0,Alanyaspor
+27,Sun Jun 14 2020,17:30,Gençlerbirliği,2-1,0-0,Atiker Konyaspor
+27,Sun Jun 14 2020,20:00,Gaziantep FK,1-1,1-0,MKE Ankaragücü
+27,Sun Jun 14 2020,20:00,Çaykur Rizespor,2-0,1-0,Galatasaray
+27,Mon Jun 15 2020,20:00,Sivasspor,1-0,1-0,Denizlispor
+28,Fri Jun 19 2020,20:00,MKE Ankaragücü,1-2,1-0,İstanbul Başakşehir F.K.
+28,Sat Jun 20 2020,17:30,Kayserispor,2-0,1-0,Gençlerbirliği
+28,Sat Jun 20 2020,20:00,Denizlispor,1-5,0-1,Beşiktaş
+28,Sat Jun 20 2020,20:00,Yeni Malatyaspor,2-1,1-0,Göztepe
+28,Sun Jun 21 2020,17:30,Kasımpaşa SK,2-0,0-0,Fenerbahçe
+28,Sun Jun 21 2020,20:00,Galatasaray,3-3,2-1,Gaziantep FK
+28,Sun Jun 21 2020,20:00,Atiker Konyaspor,2-2,2-1,Sivasspor
+28,Mon Jun 22 2020,20:00,Antalyaspor,3-1,1-0,Çaykur Rizespor
+28,Mon Jun 22 2020,20:00,Alanyaspor,2-2,1-1,Trabzonspor
+29,Fri Jun 26 2020,20:00,Beşiktaş,3-0,2-0,Atiker Konyaspor
+29,Sat Jun 27 2020,20:00,Göztepe,3-3,1-2,Alanyaspor
+29,Sat Jun 27 2020,17:30,Fenerbahçe,3-2,0-0,Yeni Malatyaspor
+29,Sat Jun 27 2020,20:00,Trabzonspor,1-1,1-0,MKE Ankaragücü
+29,Sun Jun 28 2020,17:30,Çaykur Rizespor,2-2,1-2,Denizlispor
+29,Sun Jun 28 2020,17:30,Sivasspor,0-2,0-1,Kayserispor
+29,Sun Jun 28 2020,20:00,İstanbul Başakşehir F.K.,1-1,0-0,Galatasaray
+29,Sun Jun 28 2020,20:00,Gaziantep FK,1-1,0-0,Antalyaspor
+29,Mon Jun 29 2020,20:00,Gençlerbirliği,0-2,0-1,Kasımpaşa SK
+30,Fri Jul 3 2020,20:00,Denizlispor,0-1,0-1,Gaziantep FK
+30,Sat Jul 4 2020,17:30,MKE Ankaragücü,1-4,0-0,Alanyaspor
+30,Sat Jul 4 2020,17:30,Yeni Malatyaspor,0-0,0-0,Gençlerbirliği
+30,Sat Jul 4 2020,20:00,Antalyaspor,0-2,0-0,İstanbul Başakşehir F.K.
+30,Sat Jul 4 2020,20:00,Fenerbahçe,2-1,2-0,Göztepe
+30,Sun Jul 5 2020,17:30,Kasımpaşa SK,0-0,0-0,Sivasspor
+30,Sun Jul 5 2020,20:00,Galatasaray,1-3,0-1,Trabzonspor
+30,Sun Jul 5 2020,20:00,Atiker Konyaspor,1-0,0-0,Çaykur Rizespor
+30,Mon Jul 6 2020,20:00,Kayserispor,,,Beşiktaş
+31,Tue Jul 7 2020,17:30,Gençlerbirliği,,,Fenerbahçe
+31,Tue Jul 7 2020,20:00,İstanbul Başakşehir F.K.,,,Denizlispor
+31,Wed Jul 8 2020,17:30,Sivasspor,,,Yeni Malatyaspor
+31,Wed Jul 8 2020,17:30,Trabzonspor,,,Antalyaspor
+31,Wed Jul 8 2020,20:00,Göztepe,,,MKE Ankaragücü
+31,Wed Jul 8 2020,20:00,Alanyaspor,,,Galatasaray
+31,Thu Jul 9 2020,17:30,Çaykur Rizespor,,,Kayserispor
+31,Thu Jul 9 2020,20:00,Gaziantep FK,,,Atiker Konyaspor
+31,Thu Jul 9 2020,20:00,Beşiktaş,,,Kasımpaşa SK
+32,Sat Jul 11 2020,20:00,Fenerbahçe,,,Sivasspor
+32,Sat Jul 11 2020,20:00,Göztepe,,,Gençlerbirliği
+32,Sun Jul 12 2020,18:00,Atiker Konyaspor,,,İstanbul Başakşehir F.K.
+32,Sun Jul 12 2020,17:30,MKE Ankaragücü,,,Galatasaray
+32,Sun Jul 12 2020,20:00,Denizlispor,,,Trabzonspor
+32,Sun Jul 12 2020,20:00,Antalyaspor,,,Alanyaspor
+32,Sun Jul 12 2020,18:00,Yeni Malatyaspor,,,Beşiktaş
+32,Mon Jul 13 2020,17:30,Kasımpaşa SK,,,Çaykur Rizespor
+32,Mon Jul 13 2020,17:30,Kayserispor,,,Gaziantep FK
+33,Sun Jul 19 2020,18:00,Beşiktaş,,,Fenerbahçe
+33,Sun Jul 19 2020,18:00,MKE Ankaragücü,,,Antalyaspor
+33,Sun Jul 19 2020,18:00,İstanbul Başakşehir F.K.,,,Kayserispor
+33,Sun Jul 19 2020,18:00,Trabzonspor,,,Atiker Konyaspor
+33,Sun Jul 19 2020,18:00,Galatasaray,,,Göztepe
+33,Sun Jul 19 2020,18:00,Gaziantep FK,,,Kasımpaşa SK
+33,Sun Jul 19 2020,18:00,Çaykur Rizespor,,,Yeni Malatyaspor
+33,Sun Jul 19 2020,18:00,Sivasspor,,,Gençlerbirliği
+33,Sun Jul 19 2020,18:00,Alanyaspor,,,Denizlispor
+34,Sun Jul 26 2020,18:00,Antalyaspor,,,Galatasaray
+34,Sun Jul 26 2020,18:00,Denizlispor,,,MKE Ankaragücü
+34,Sun Jul 26 2020,18:00,Fenerbahçe,,,Çaykur Rizespor
+34,Sun Jul 26 2020,18:00,Gençlerbirliği,,,Beşiktaş
+34,Sun Jul 26 2020,18:00,Göztepe,,,Sivasspor
+34,Sun Jul 26 2020,18:00,Kasımpaşa SK,,,İstanbul Başakşehir F.K.
+34,Sun Jul 26 2020,18:00,Kayserispor,,,Trabzonspor
+34,Sun Jul 26 2020,18:00,Atiker Konyaspor,,,Alanyaspor
+34,Sun Jul 26 2020,18:00,Yeni Malatyaspor,,,Gaziantep FK

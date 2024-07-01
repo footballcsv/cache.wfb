@@ -1,0 +1,463 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Sep 5 2015,20:30,AC Cesena,2-0,2-0,Brescia Calcio
+1,Sun Sep 6 2015,15:00,AC Perugia Calcio,2-0,1-0,Calcio Como
+1,Sun Sep 6 2015,15:00,Modena FC,0-1,0-0,Vicenza Calcio
+1,Sun Sep 6 2015,15:00,Novara Calcio,1-1,1-0,Latina Calcio
+1,Sun Sep 6 2015,15:00,AS Livorno,4-0,3-0,Pescara Calcio
+1,Sun Sep 6 2015,15:00,Pro Vercelli,2-1,1-0,Virtus Lanciano
+1,Sun Sep 6 2015,15:00,US Salernitana 1919,3-1,1-1,US Avellino
+1,Sun Sep 6 2015,15:00,Trapani Calcio,3-0,1-0,Ternana Calcio
+1,Sun Sep 6 2015,17:30,FC Bari 1908,4-3,2-2,Spezia Calcio
+1,Mon Sep 7 2015,20:30,Cagliari Calcio,4-0,1-0,FC Crotone
+2,Fri Sep 11 2015,20:30,Pescara Calcio,2-1,1-0,AC Perugia Calcio
+2,Sat Sep 12 2015,15:00,Calcio Como,1-2,1-1,AS Livorno
+2,Sat Sep 12 2015,15:00,US Avellino,2-0,0-0,Modena FC
+2,Sat Sep 12 2015,15:00,Brescia Calcio,2-2,0-1,US Salernitana 1919
+2,Sat Sep 12 2015,15:00,Virtus Entella,2-1,1-1,AC Cesena
+2,Sat Sep 12 2015,15:00,FC Crotone,2-1,0-1,Novara Calcio
+2,Sat Sep 12 2015,15:00,Vicenza Calcio,0-0,0-0,FC Bari 1908
+2,Sat Sep 12 2015,15:00,Virtus Lanciano,2-0,1-0,Ascoli Picchio FC
+2,Sat Sep 12 2015,15:00,Ternana Calcio,1-1,0-1,Cagliari Calcio
+2,Sun Sep 13 2015,17:30,Spezia Calcio,1-1,1-1,Pro Vercelli
+2,Mon Sep 14 2015,20:30,Latina Calcio,1-1,0-0,Trapani Calcio
+1,Tue Sep 15 2015,18:00,Ascoli Picchio FC,1-0,1-0,Virtus Entella
+3,Fri Sep 18 2015,19:00,Modena FC,1-0,0-0,Ternana Calcio
+3,Fri Sep 18 2015,21:00,AS Livorno,3-1,1-1,Brescia Calcio
+3,Sat Sep 19 2015,15:00,Cagliari Calcio,2-1,1-0,US Avellino
+3,Sat Sep 19 2015,15:00,FC Bari 1908,0-0,0-0,Pescara Calcio
+3,Sat Sep 19 2015,15:00,Novara Calcio,1-0,0-0,Virtus Entella
+3,Sat Sep 19 2015,15:00,AC Perugia Calcio,0-0,0-0,FC Crotone
+3,Sat Sep 19 2015,15:00,Pro Vercelli,1-1,0-1,Latina Calcio
+3,Sat Sep 19 2015,15:00,US Salernitana 1919,0-2,0-1,Spezia Calcio
+3,Sat Sep 19 2015,15:00,Trapani Calcio,1-1,1-0,Virtus Lanciano
+3,Sat Sep 19 2015,15:00,Vicenza Calcio,3-3,2-2,Calcio Como
+3,Sat Sep 19 2015,15:00,Ascoli Picchio FC,1-3,0-0,AC Cesena
+4,Mon Sep 21 2015,20:30,Ternana Calcio,2-3,2-1,AS Livorno
+4,Tue Sep 22 2015,20:30,US Avellino,0-0,0-0,Novara Calcio
+4,Tue Sep 22 2015,20:30,Brescia Calcio,2-0,1-0,Pro Vercelli
+4,Tue Sep 22 2015,20:30,AC Cesena,2-0,1-0,Modena FC
+4,Tue Sep 22 2015,20:30,Calcio Como,0-0,0-0,Trapani Calcio
+4,Tue Sep 22 2015,20:30,FC Crotone,4-1,2-1,FC Bari 1908
+4,Tue Sep 22 2015,20:30,Latina Calcio,1-0,1-0,Ascoli Picchio FC
+4,Tue Sep 22 2015,20:30,Pescara Calcio,1-1,1-0,US Salernitana 1919
+4,Tue Sep 22 2015,20:30,Spezia Calcio,1-0,1-0,AC Perugia Calcio
+4,Tue Sep 22 2015,20:30,Virtus Entella,1-3,1-1,Cagliari Calcio
+4,Tue Sep 22 2015,20:30,Virtus Lanciano,0-0,0-0,Vicenza Calcio
+5,Sat Sep 26 2015,15:00,Cagliari Calcio,3-2,2-1,Latina Calcio
+5,Sat Sep 26 2015,15:00,AS Livorno,1-2,0-1,Spezia Calcio
+5,Sat Sep 26 2015,15:00,Modena FC,1-0,0-0,Virtus Lanciano
+5,Sat Sep 26 2015,15:00,AC Perugia Calcio,0-0,0-0,AC Cesena
+5,Sat Sep 26 2015,15:00,Ascoli Picchio FC,0-0,0-0,Brescia Calcio
+5,Sat Sep 26 2015,15:00,US Salernitana 1919,2-1,0-0,Ternana Calcio
+5,Sat Sep 26 2015,15:00,Trapani Calcio,4-2,2-1,Virtus Entella
+5,Sat Sep 26 2015,15:00,Vicenza Calcio,2-2,0-0,Pescara Calcio
+5,Sat Sep 26 2015,15:00,Pro Vercelli,0-2,0-1,FC Crotone
+5,Sun Sep 27 2015,17:30,FC Bari 1908,2-1,1-1,US Avellino
+5,Mon Sep 28 2015,20:30,Novara Calcio,0-2,0-0,Calcio Como
+6,Fri Oct 2 2015,20:30,FC Crotone,4-0,2-0,US Salernitana 1919
+6,Sat Oct 3 2015,15:00,Virtus Entella,1-0,1-0,Pro Vercelli
+6,Sat Oct 3 2015,15:00,Brescia Calcio,2-2,2-1,Modena FC
+6,Sat Oct 3 2015,15:00,US Avellino,1-4,1-3,Vicenza Calcio
+6,Sat Oct 3 2015,15:00,Calcio Como,0-4,0-2,Ascoli Picchio FC
+6,Sat Oct 3 2015,15:00,Latina Calcio,1-2,1-0,FC Bari 1908
+6,Sat Oct 3 2015,15:00,Pescara Calcio,1-0,0-0,Cagliari Calcio
+6,Sat Oct 3 2015,15:00,Ternana Calcio,2-0,0-0,Novara Calcio
+6,Sat Oct 3 2015,15:00,Virtus Lanciano,0-0,0-0,Spezia Calcio
+6,Sat Oct 3 2015,15:00,AC Cesena,1-0,0-0,AS Livorno
+6,Mon Oct 5 2015,20:30,Trapani Calcio,0-0,0-0,AC Perugia Calcio
+7,Sat Oct 10 2015,15:00,Vicenza Calcio,0-0,0-0,FC Crotone
+7,Sat Oct 10 2015,20:30,Pro Vercelli,0-1,0-1,Novara Calcio
+7,Sun Oct 11 2015,15:00,Calcio Como,1-3,1-2,Brescia Calcio
+7,Sun Oct 11 2015,15:00,FC Bari 1908,1-0,1-0,Virtus Lanciano
+7,Sun Oct 11 2015,12:30,Cagliari Calcio,3-1,1-0,AC Cesena
+7,Sun Oct 11 2015,15:00,AS Livorno,1-1,0-1,US Avellino
+7,Sun Oct 11 2015,15:00,Modena FC,0-2,0-0,Latina Calcio
+7,Sun Oct 11 2015,15:00,AC Perugia Calcio,0-0,0-0,Virtus Entella
+7,Sun Oct 11 2015,15:00,US Salernitana 1919,0-1,0-1,Trapani Calcio
+7,Sun Oct 11 2015,20:30,Ascoli Picchio FC,3-1,0-0,Pescara Calcio
+7,Sun Oct 11 2015,15:00,Spezia Calcio,1-0,1-0,Ternana Calcio
+8,Fri Oct 16 2015,20:30,US Avellino,3-3,1-1,Brescia Calcio
+8,Sat Oct 17 2015,15:00,Virtus Entella,1-0,1-0,US Salernitana 1919
+8,Sat Oct 17 2015,15:00,Modena FC,2-1,0-0,Ascoli Picchio FC
+8,Sat Oct 17 2015,15:00,Novara Calcio,1-0,1-0,Cagliari Calcio
+8,Sat Oct 17 2015,15:00,FC Crotone,3-0,1-0,AS Livorno
+8,Sat Oct 17 2015,15:00,Ternana Calcio,3-0,3-0,FC Bari 1908
+8,Sat Oct 17 2015,15:00,Trapani Calcio,0-3,0-2,Pescara Calcio
+8,Sat Oct 17 2015,15:00,Virtus Lanciano,1-0,0-0,Calcio Como
+8,Sat Oct 17 2015,15:00,Pro Vercelli,2-1,2-0,Vicenza Calcio
+8,Sun Oct 18 2015,17:30,Latina Calcio,2-1,2-1,AC Perugia Calcio
+8,Mon Oct 19 2015,20:30,AC Cesena,5-1,1-1,Spezia Calcio
+9,Fri Oct 23 2015,19:00,Pescara Calcio,1-0,0-0,Pro Vercelli
+9,Fri Oct 23 2015,21:00,Vicenza Calcio,0-2,0-1,Novara Calcio
+9,Sat Oct 24 2015,15:00,Cagliari Calcio,4-1,3-0,Trapani Calcio
+9,Sat Oct 24 2015,15:00,Ascoli Picchio FC,0-1,0-1,FC Crotone
+9,Sat Oct 24 2015,15:00,FC Bari 1908,0-0,0-0,Virtus Entella
+9,Sat Oct 24 2015,15:00,Calcio Como,1-1,0-0,Latina Calcio
+9,Sat Oct 24 2015,15:00,AS Livorno,2-0,0-0,Modena FC
+9,Sat Oct 24 2015,15:00,US Salernitana 1919,1-1,1-0,AC Cesena
+9,Sat Oct 24 2015,15:00,Spezia Calcio,1-1,0-1,US Avellino
+9,Sat Oct 24 2015,15:00,Ternana Calcio,0-1,0-0,AC Perugia Calcio
+9,Sat Oct 24 2015,15:00,Brescia Calcio,2-1,1-1,Virtus Lanciano
+10,Tue Oct 27 2015,20:30,US Avellino,3-0,2-0,Ascoli Picchio FC
+10,Tue Oct 27 2015,20:30,AC Cesena,3-1,2-0,Calcio Como
+10,Tue Oct 27 2015,20:30,FC Crotone,1-1,1-0,Brescia Calcio
+10,Tue Oct 27 2015,20:30,Latina Calcio,1-2,0-0,Ternana Calcio
+10,Tue Oct 27 2015,20:30,Modena FC,1-1,0-1,Spezia Calcio
+10,Tue Oct 27 2015,20:30,AC Perugia Calcio,0-0,0-0,Cagliari Calcio
+10,Tue Oct 27 2015,20:30,Pro Vercelli,0-1,0-0,FC Bari 1908
+10,Tue Oct 27 2015,20:30,Trapani Calcio,1-2,0-2,Vicenza Calcio
+10,Tue Oct 27 2015,20:30,Virtus Lanciano,2-2,1-2,US Salernitana 1919
+10,Tue Oct 27 2015,20:30,Virtus Entella,0-0,0-0,AS Livorno
+11,Sat Oct 31 2015,15:00,Ascoli Picchio FC,0-1,0-0,Pro Vercelli
+11,Sat Oct 31 2015,15:00,FC Bari 1908,1-1,0-1,Novara Calcio
+11,Sat Oct 31 2015,15:00,Brescia Calcio,1-0,0-0,Latina Calcio
+11,Sat Oct 31 2015,15:00,AC Cesena,2-0,1-0,Virtus Lanciano
+11,Sat Oct 31 2015,15:00,Calcio Como,1-1,0-0,Modena FC
+11,Sat Oct 31 2015,15:00,AS Livorno,2-0,1-0,Trapani Calcio
+11,Sat Oct 31 2015,15:00,Ternana Calcio,0-3,0-1,US Avellino
+11,Sat Oct 31 2015,15:00,US Salernitana 1919,1-1,1-0,AC Perugia Calcio
+11,Sat Oct 31 2015,15:00,Pescara Calcio,4-1,2-0,FC Crotone
+11,Sun Nov 1 2015,17:30,Spezia Calcio,0-0,0-0,Virtus Entella
+11,Mon Nov 2 2015,20:30,Cagliari Calcio,2-0,1-0,Vicenza Calcio
+10,Tue Nov 3 2015,18:30,Novara Calcio,1-0,0-0,Pescara Calcio
+12,Fri Nov 6 2015,20:30,FC Bari 1908,2-1,1-0,US Salernitana 1919
+12,Sat Nov 7 2015,15:00,Novara Calcio,4-0,1-0,Brescia Calcio
+12,Sat Nov 7 2015,15:00,Latina Calcio,1-0,0-0,AC Cesena
+12,Sat Nov 7 2015,15:00,Cagliari Calcio,2-1,2-1,Modena FC
+12,Sat Nov 7 2015,15:00,Pescara Calcio,1-2,1-1,Ternana Calcio
+12,Sat Nov 7 2015,15:00,Pro Vercelli,1-0,1-0,AS Livorno
+12,Sat Nov 7 2015,15:00,Trapani Calcio,5-1,3-1,Spezia Calcio
+12,Sat Nov 7 2015,15:00,Vicenza Calcio,3-0,3-0,Ascoli Picchio FC
+12,Sat Nov 7 2015,15:00,Virtus Entella,2-2,1-2,Calcio Como
+12,Sun Nov 8 2015,17:30,AC Perugia Calcio,2-0,1-0,Virtus Lanciano
+12,Mon Nov 9 2015,20:30,FC Crotone,3-1,1-0,US Avellino
+13,Sat Nov 14 2015,15:00,AS Livorno,2-2,0-0,Vicenza Calcio
+13,Sat Nov 14 2015,20:30,Modena FC,1-0,0-0,Pro Vercelli
+13,Sun Nov 15 2015,15:00,Brescia Calcio,3-0,3-0,Trapani Calcio
+13,Sun Nov 15 2015,15:00,US Avellino,3-1,2-1,Latina Calcio
+13,Sun Nov 15 2015,20:30,AC Cesena,0-2,0-1,FC Bari 1908
+13,Sun Nov 15 2015,15:00,Calcio Como,0-2,0-2,Pescara Calcio
+13,Sun Nov 15 2015,15:00,US Salernitana 1919,1-0,0-0,Novara Calcio
+13,Sun Nov 15 2015,15:00,Ternana Calcio,1-2,0-2,Virtus Entella
+13,Sun Nov 15 2015,15:00,Virtus Lanciano,1-1,0-1,FC Crotone
+13,Sun Nov 15 2015,15:00,Ascoli Picchio FC,1-0,0-0,AC Perugia Calcio
+13,Sun Nov 15 2015,12:30,Spezia Calcio,0-3,0-1,Cagliari Calcio
+14,Fri Nov 20 2015,20:30,Pescara Calcio,3-2,1-0,US Avellino
+14,Sat Nov 21 2015,15:00,AC Perugia Calcio,4-0,2-0,Brescia Calcio
+14,Sat Nov 21 2015,15:00,Latina Calcio,2-2,1-0,US Salernitana 1919
+14,Sat Nov 21 2015,15:00,Virtus Entella,1-1,0-1,Virtus Lanciano
+14,Sat Nov 21 2015,15:00,FC Crotone,3-0,0-0,Ternana Calcio
+14,Sat Nov 21 2015,15:00,Pro Vercelli,2-0,2-0,Calcio Como
+14,Sat Nov 21 2015,15:00,Trapani Calcio,2-1,1-0,Modena FC
+14,Sat Nov 21 2015,15:00,Vicenza Calcio,1-1,1-1,AC Cesena
+14,Sat Nov 21 2015,15:00,Novara Calcio,1-0,1-0,Spezia Calcio
+14,Sun Nov 22 2015,17:30,FC Bari 1908,1-0,0-0,AS Livorno
+14,Mon Nov 23 2015,20:30,Cagliari Calcio,3-0,2-0,Ascoli Picchio FC
+15,Fri Nov 27 2015,19:00,Spezia Calcio,0-1,0-1,FC Crotone
+15,Fri Nov 27 2015,21:00,AC Cesena,1-0,1-0,Pescara Calcio
+15,Fri Nov 27 2015,21:00,US Salernitana 1919,1-2,0-1,Pro Vercelli
+15,Sat Nov 28 2015,15:00,US Avellino,1-2,1-0,AC Perugia Calcio
+15,Sat Nov 28 2015,15:00,Brescia Calcio,4-0,0-0,Cagliari Calcio
+15,Sat Nov 28 2015,15:00,Calcio Como,1-1,0-0,FC Bari 1908
+15,Sat Nov 28 2015,15:00,AS Livorno,0-1,0-1,Novara Calcio
+15,Sat Nov 28 2015,15:00,Modena FC,0-1,0-0,Virtus Entella
+15,Sat Nov 28 2015,15:00,Ternana Calcio,2-0,1-0,Vicenza Calcio
+15,Sat Nov 28 2015,15:00,Virtus Lanciano,2-1,1-1,Latina Calcio
+15,Sun Nov 29 2015,17:30,Ascoli Picchio FC,0-0,0-0,Trapani Calcio
+16,Fri Dec 4 2015,19:00,Virtus Entella,0-0,0-0,Brescia Calcio
+16,Fri Dec 4 2015,21:00,AC Perugia Calcio,1-0,1-0,Modena FC
+16,Sat Dec 5 2015,15:00,FC Crotone,2-0,0-0,AC Cesena
+16,Sat Dec 5 2015,15:00,FC Bari 1908,3-0,1-0,Ascoli Picchio FC
+16,Sat Dec 5 2015,15:00,Pescara Calcio,2-2,0-0,Spezia Calcio
+16,Sat Dec 5 2015,15:00,Novara Calcio,4-1,0-0,Virtus Lanciano
+16,Sat Dec 5 2015,15:00,Pro Vercelli,1-2,1-1,Ternana Calcio
+16,Sat Dec 5 2015,15:00,Trapani Calcio,2-1,1-0,US Avellino
+16,Sat Dec 5 2015,15:00,Latina Calcio,3-1,2-1,AS Livorno
+16,Sun Dec 6 2015,17:30,Cagliari Calcio,1-1,0-0,Calcio Como
+16,Sun Dec 6 2015,15:00,Vicenza Calcio,0-0,0-0,US Salernitana 1919
+17,Tue Dec 8 2015,15:00,US Avellino,1-0,0-0,Pro Vercelli
+17,Tue Dec 8 2015,15:00,AC Cesena,0-0,0-0,Trapani Calcio
+17,Tue Dec 8 2015,15:00,Modena FC,2-1,2-0,FC Bari 1908
+17,Tue Dec 8 2015,15:00,AC Perugia Calcio,1-4,0-1,Novara Calcio
+17,Tue Dec 8 2015,15:00,Virtus Entella,1-0,0-0,Latina Calcio
+17,Tue Dec 8 2015,18:30,Brescia Calcio,2-0,2-0,Pescara Calcio
+17,Tue Dec 8 2015,15:00,Ascoli Picchio FC,1-0,1-0,Ternana Calcio
+17,Wed Dec 9 2015,18:30,Calcio Como,0-1,0-0,FC Crotone
+17,Wed Dec 9 2015,18:30,AS Livorno,0-0,0-0,US Salernitana 1919
+17,Wed Dec 9 2015,18:30,Virtus Lanciano,1-3,0-2,Cagliari Calcio
+17,Wed Dec 9 2015,18:30,Spezia Calcio,1-0,1-0,Vicenza Calcio
+18,Sat Dec 12 2015,15:00,US Avellino,3-2,0-1,Virtus Lanciano
+18,Sat Dec 12 2015,15:00,AS Livorno,1-1,0-1,Cagliari Calcio
+18,Sat Dec 12 2015,15:00,Pescara Calcio,2-0,1-0,Virtus Entella
+18,Sat Dec 12 2015,15:00,Pro Vercelli,2-0,2-0,AC Cesena
+18,Sat Dec 12 2015,15:00,US Salernitana 1919,2-0,1-0,Ascoli Picchio FC
+18,Sat Dec 12 2015,15:00,Vicenza Calcio,1-2,0-2,Brescia Calcio
+18,Sat Dec 12 2015,15:00,Ternana Calcio,4-0,2-0,Calcio Como
+18,Sat Dec 12 2015,15:00,Spezia Calcio,2-1,1-1,Latina Calcio
+18,Sun Dec 13 2015,12:30,FC Bari 1908,1-0,0-0,AC Perugia Calcio
+18,Sun Dec 13 2015,20:30,FC Crotone,1-0,0-0,Modena FC
+18,Mon Dec 14 2015,20:30,Novara Calcio,4-1,0-0,Trapani Calcio
+19,Fri Dec 18 2015,19:00,Modena FC,2-0,2-0,US Salernitana 1919
+19,Fri Dec 18 2015,21:00,AC Perugia Calcio,4-1,0-1,AS Livorno
+19,Sat Dec 19 2015,15:00,AC Cesena,4-0,1-0,Ternana Calcio
+19,Sat Dec 19 2015,15:00,Brescia Calcio,1-1,0-1,Spezia Calcio
+19,Sat Dec 19 2015,15:00,Calcio Como,0-1,0-0,US Avellino
+19,Sat Dec 19 2015,18:00,Cagliari Calcio,2-1,2-1,FC Bari 1908
+19,Sat Dec 19 2015,15:00,Trapani Calcio,1-1,1-0,Pro Vercelli
+19,Sat Dec 19 2015,15:00,Virtus Lanciano,1-2,0-1,Pescara Calcio
+19,Sat Dec 19 2015,15:00,Virtus Entella,4-1,1-1,Vicenza Calcio
+19,Sat Dec 19 2015,15:00,Ascoli Picchio FC,1-3,0-2,Novara Calcio
+19,Sat Dec 19 2015,15:00,Latina Calcio,2-2,1-0,FC Crotone
+20,Tue Dec 22 2015,20:30,US Avellino,2-0,1-0,Virtus Entella
+20,Wed Dec 23 2015,20:30,Pescara Calcio,1-0,0-0,Modena FC
+20,Wed Dec 23 2015,20:30,FC Crotone,0-0,0-0,Trapani Calcio
+20,Wed Dec 23 2015,20:30,AS Livorno,1-3,0-2,Ascoli Picchio FC
+20,Wed Dec 23 2015,20:30,Novara Calcio,0-0,0-0,AC Cesena
+20,Wed Dec 23 2015,20:30,FC Bari 1908,1-2,1-0,Brescia Calcio
+20,Wed Dec 23 2015,20:30,Pro Vercelli,0-1,0-1,AC Perugia Calcio
+20,Wed Dec 23 2015,20:30,Spezia Calcio,1-1,0-0,Calcio Como
+20,Wed Dec 23 2015,20:30,Ternana Calcio,1-1,0-0,Virtus Lanciano
+20,Wed Dec 23 2015,20:30,Vicenza Calcio,1-1,0-1,Latina Calcio
+20,Thu Dec 24 2015,13:00,US Salernitana 1919,0-2,0-1,Cagliari Calcio
+21,Sun Dec 27 2015,12:30,Latina Calcio,0-1,0-0,Pescara Calcio
+21,Sun Dec 27 2015,15:00,Brescia Calcio,0-0,0-0,Ternana Calcio
+21,Sun Dec 27 2015,15:00,Cagliari Calcio,3-0,2-0,Pro Vercelli
+21,Sun Dec 27 2015,15:00,AC Cesena,1-2,1-0,US Avellino
+21,Sun Dec 27 2015,15:00,Calcio Como,2-1,1-1,US Salernitana 1919
+21,Sun Dec 27 2015,15:00,Modena FC,3-0,1-0,Novara Calcio
+21,Sun Dec 27 2015,15:00,Trapani Calcio,1-0,0-0,FC Bari 1908
+21,Sun Dec 27 2015,15:00,Virtus Lanciano,2-1,0-0,AS Livorno
+21,Sun Dec 27 2015,15:00,Virtus Entella,1-2,1-2,FC Crotone
+21,Sun Dec 27 2015,15:00,Ascoli Picchio FC,3-0,0-0,Spezia Calcio
+22,Fri Jan 15 2016,20:30,Spezia Calcio,0-0,0-0,FC Bari 1908
+22,Sat Jan 16 2016,15:00,Virtus Lanciano,1-0,0-0,Pro Vercelli
+22,Sat Jan 16 2016,15:00,Pescara Calcio,2-1,0-0,AS Livorno
+22,Sat Jan 16 2016,15:00,Vicenza Calcio,2-1,0-1,Modena FC
+22,Sat Jan 16 2016,15:00,Latina Calcio,1-0,1-0,Novara Calcio
+22,Sat Jan 16 2016,15:00,US Avellino,1-0,0-0,US Salernitana 1919
+22,Sat Jan 16 2016,15:00,Ternana Calcio,1-0,0-0,Trapani Calcio
+22,Sat Jan 16 2016,15:00,Calcio Como,1-0,1-0,AC Perugia Calcio
+22,Sun Jan 17 2016,17:30,Brescia Calcio,2-1,0-1,AC Cesena
+22,Mon Jan 18 2016,20:30,FC Crotone,3-1,2-1,Cagliari Calcio
+22,Mon Jan 18 2016,20:30,Virtus Entella,4-0,4-0,Ascoli Picchio FC
+21,Tue Jan 19 2016,20:30,AC Perugia Calcio,0-1,0-0,Vicenza Calcio
+23,Fri Jan 22 2016,20:30,US Salernitana 1919,3-0,1-0,Brescia Calcio
+23,Sat Jan 23 2016,15:00,AC Cesena,2-0,1-0,Virtus Entella
+23,Sat Jan 23 2016,15:00,Novara Calcio,0-1,0-1,FC Crotone
+23,Sat Jan 23 2016,15:00,Trapani Calcio,1-2,1-1,Latina Calcio
+23,Sat Jan 23 2016,15:00,Modena FC,1-1,0-0,US Avellino
+23,Sat Jan 23 2016,15:00,Cagliari Calcio,1-0,0-0,Ternana Calcio
+23,Sat Jan 23 2016,15:00,Ascoli Picchio FC,1-0,0-0,Virtus Lanciano
+23,Sat Jan 23 2016,15:00,FC Bari 1908,2-1,1-0,Vicenza Calcio
+23,Sat Jan 23 2016,15:00,Pro Vercelli,0-1,0-0,Spezia Calcio
+23,Sun Jan 24 2016,17:30,AC Perugia Calcio,0-4,0-1,Pescara Calcio
+23,Mon Jan 25 2016,20:30,AS Livorno,1-1,0-0,Calcio Como
+24,Fri Jan 29 2016,20:30,US Avellino,1-2,1-1,Cagliari Calcio
+24,Sat Jan 30 2016,15:00,Ternana Calcio,2-1,1-1,Modena FC
+24,Sat Jan 30 2016,15:00,Brescia Calcio,1-3,1-1,AS Livorno
+24,Sat Jan 30 2016,15:00,Pescara Calcio,3-1,1-0,FC Bari 1908
+24,Sat Jan 30 2016,15:00,FC Crotone,1-2,1-0,AC Perugia Calcio
+24,Sat Jan 30 2016,15:00,Latina Calcio,1-0,0-0,Pro Vercelli
+24,Sat Jan 30 2016,15:00,Virtus Lanciano,0-3,0-1,Trapani Calcio
+24,Sat Jan 30 2016,15:00,Calcio Como,1-1,0-0,Vicenza Calcio
+24,Sat Jan 30 2016,15:00,AC Cesena,3-0,2-0,Ascoli Picchio FC
+24,Sun Jan 31 2016,17:30,Virtus Entella,1-0,0-0,Novara Calcio
+24,Mon Feb 1 2016,20:30,Spezia Calcio,3-1,0-0,US Salernitana 1919
+25,Fri Feb 5 2016,20:30,FC Bari 1908,2-3,0-1,FC Crotone
+25,Sat Feb 6 2016,15:00,US Salernitana 1919,2-2,1-1,Pescara Calcio
+25,Sat Feb 6 2016,15:00,Pro Vercelli,2-1,1-1,Brescia Calcio
+25,Sat Feb 6 2016,15:00,Ascoli Picchio FC,0-0,0-0,Latina Calcio
+25,Sat Feb 6 2016,15:00,Novara Calcio,4-1,4-0,US Avellino
+25,Sat Feb 6 2016,15:00,AC Perugia Calcio,0-0,0-0,Spezia Calcio
+25,Sat Feb 6 2016,15:00,AS Livorno,1-0,0-0,Ternana Calcio
+25,Sat Feb 6 2016,15:00,Vicenza Calcio,0-2,0-0,Virtus Lanciano
+25,Sat Feb 6 2016,15:00,Cagliari Calcio,1-0,0-0,Virtus Entella
+25,Sun Feb 7 2016,17:30,Modena FC,0-0,0-0,AC Cesena
+25,Mon Feb 8 2016,20:30,Trapani Calcio,2-2,0-1,Calcio Como
+26,Fri Feb 12 2016,20:30,Pescara Calcio,1-1,0-0,Vicenza Calcio
+26,Sat Feb 13 2016,15:00,Virtus Entella,4-0,1-0,Trapani Calcio
+26,Sat Feb 13 2016,15:00,Latina Calcio,1-3,0-0,Cagliari Calcio
+26,Sat Feb 13 2016,15:00,US Avellino,1-1,0-1,FC Bari 1908
+26,Sat Feb 13 2016,15:00,Calcio Como,1-1,0-0,Novara Calcio
+26,Sat Feb 13 2016,15:00,AC Cesena,2-1,0-0,AC Perugia Calcio
+26,Sat Feb 13 2016,15:00,FC Crotone,1-1,0-1,Pro Vercelli
+26,Sat Feb 13 2016,15:00,Ternana Calcio,4-0,3-0,US Salernitana 1919
+26,Sat Feb 13 2016,15:00,Virtus Lanciano,2-1,0-1,Modena FC
+26,Sun Feb 14 2016,17:30,Spezia Calcio,3-0,2-0,AS Livorno
+26,Mon Feb 15 2016,20:30,Brescia Calcio,2-2,1-1,Ascoli Picchio FC
+27,Fri Feb 19 2016,20:30,FC Bari 1908,0-0,0-0,Latina Calcio
+27,Sat Feb 20 2016,15:00,AS Livorno,1-1,1-0,AC Cesena
+27,Sat Feb 20 2016,15:00,Modena FC,1-0,0-0,Brescia Calcio
+27,Sat Feb 20 2016,15:00,Vicenza Calcio,0-0,0-0,US Avellino
+27,Sat Feb 20 2016,15:00,Pro Vercelli,2-3,2-0,Virtus Entella
+27,Sat Feb 20 2016,15:00,Cagliari Calcio,2-1,0-1,Pescara Calcio
+27,Sat Feb 20 2016,15:00,Novara Calcio,1-2,0-1,Ternana Calcio
+27,Sat Feb 20 2016,15:00,Spezia Calcio,2-0,1-0,Virtus Lanciano
+27,Sat Feb 20 2016,15:00,Ascoli Picchio FC,1-0,0-0,Calcio Como
+27,Sun Feb 21 2016,12:30,US Salernitana 1919,1-1,1-1,FC Crotone
+27,Mon Feb 22 2016,20:30,AC Perugia Calcio,0-2,0-0,Trapani Calcio
+28,Fri Feb 26 2016,19:00,Novara Calcio,1-1,1-1,Pro Vercelli
+28,Fri Feb 26 2016,21:00,AC Cesena,2-0,0-0,Cagliari Calcio
+28,Sat Feb 27 2016,15:00,US Avellino,2-1,1-0,AS Livorno
+28,Sat Feb 27 2016,15:00,Brescia Calcio,2-1,1-0,Calcio Como
+28,Sat Feb 27 2016,15:00,Virtus Lanciano,1-0,0-0,FC Bari 1908
+28,Sat Feb 27 2016,15:00,Latina Calcio,0-1,0-1,Modena FC
+28,Sat Feb 27 2016,15:00,Virtus Entella,2-1,1-0,AC Perugia Calcio
+28,Sat Feb 27 2016,15:00,Trapani Calcio,1-1,0-0,US Salernitana 1919
+28,Sat Feb 27 2016,15:00,Ternana Calcio,1-2,0-1,Spezia Calcio
+28,Sat Feb 27 2016,15:00,Pescara Calcio,2-2,0-1,Ascoli Picchio FC
+28,Sat Feb 27 2016,15:00,FC Crotone,2-0,1-0,Vicenza Calcio
+29,Mon Feb 29 2016,20:30,Cagliari Calcio,0-1,0-1,Novara Calcio
+29,Tue Mar 1 2016,20:30,Ascoli Picchio FC,2-1,1-1,Modena FC
+29,Tue Mar 1 2016,20:30,Spezia Calcio,1-1,0-1,AC Cesena
+29,Tue Mar 1 2016,20:30,US Salernitana 1919,2-2,1-1,Virtus Entella
+29,Tue Mar 1 2016,20:30,AC Perugia Calcio,2-0,1-0,Latina Calcio
+29,Tue Mar 1 2016,20:30,Brescia Calcio,1-0,1-0,US Avellino
+29,Tue Mar 1 2016,20:30,Vicenza Calcio,1-1,1-1,Pro Vercelli
+29,Tue Mar 1 2016,20:30,FC Bari 1908,4-0,1-0,Ternana Calcio
+29,Tue Mar 1 2016,20:30,Pescara Calcio,1-2,0-1,Trapani Calcio
+29,Tue Mar 1 2016,20:30,Calcio Como,1-1,1-0,Virtus Lanciano
+29,Tue Mar 1 2016,20:30,AS Livorno,0-0,0-0,FC Crotone
+30,Sat Mar 5 2016,15:00,Virtus Entella,2-0,0-0,FC Bari 1908
+30,Sat Mar 5 2016,15:00,Virtus Lanciano,1-0,1-0,Brescia Calcio
+30,Sat Mar 5 2016,15:00,Trapani Calcio,2-2,2-0,Cagliari Calcio
+30,Sat Mar 5 2016,17:00,Pro Vercelli,5-2,2-0,Pescara Calcio
+30,Sat Mar 5 2016,15:00,US Avellino,0-1,0-0,Spezia Calcio
+30,Sat Mar 5 2016,15:00,AC Perugia Calcio,1-0,0-0,Ternana Calcio
+30,Sat Mar 5 2016,15:00,Novara Calcio,4-0,0-0,Vicenza Calcio
+30,Sat Mar 5 2016,15:00,FC Crotone,2-0,1-0,Ascoli Picchio FC
+30,Sat Mar 5 2016,15:00,Latina Calcio,1-1,0-0,Calcio Como
+30,Sun Mar 6 2016,17:30,Modena FC,1-0,1-0,AS Livorno
+30,Mon Mar 7 2016,20:30,AC Cesena,1-2,1-1,US Salernitana 1919
+31,Fri Mar 11 2016,20:30,Brescia Calcio,3-0,1-0,FC Crotone
+31,Sat Mar 12 2016,15:00,Ternana Calcio,0-0,0-0,Latina Calcio
+31,Sat Mar 12 2016,15:00,Calcio Como,1-3,1-0,AC Cesena
+31,Sat Mar 12 2016,15:00,Ascoli Picchio FC,3-4,3-2,US Avellino
+31,Sat Mar 12 2016,15:00,Spezia Calcio,2-0,1-0,Modena FC
+31,Sat Mar 12 2016,15:00,Pescara Calcio,1-2,1-1,Novara Calcio
+31,Sat Mar 12 2016,15:00,FC Bari 1908,6-2,2-0,Pro Vercelli
+31,Sat Mar 12 2016,15:00,US Salernitana 1919,1-3,0-0,Virtus Lanciano
+31,Sat Mar 12 2016,15:00,AS Livorno,0-0,0-0,Virtus Entella
+31,Sun Mar 13 2016,17:30,Vicenza Calcio,1-2,1-2,Trapani Calcio
+31,Mon Mar 14 2016,20:30,Cagliari Calcio,0-2,0-1,AC Perugia Calcio
+32,Fri Mar 18 2016,20:30,Virtus Entella,2-2,1-0,Spezia Calcio
+32,Sat Mar 19 2016,15:00,Vicenza Calcio,0-2,0-0,Cagliari Calcio
+32,Sat Mar 19 2016,15:00,Latina Calcio,2-2,1-0,Brescia Calcio
+32,Sat Mar 19 2016,15:00,Novara Calcio,1-2,1-0,FC Bari 1908
+32,Sat Mar 19 2016,15:00,Virtus Lanciano,2-0,1-0,AC Cesena
+32,Sat Mar 19 2016,15:00,Pro Vercelli,1-1,1-1,Ascoli Picchio FC
+32,Sat Mar 19 2016,15:00,Trapani Calcio,1-0,0-0,AS Livorno
+32,Sat Mar 19 2016,15:00,AC Perugia Calcio,1-1,1-0,US Salernitana 1919
+32,Sat Mar 19 2016,15:00,Modena FC,1-2,0-0,Calcio Como
+32,Sun Mar 20 2016,17:30,FC Crotone,4-2,3-1,Pescara Calcio
+32,Mon Mar 21 2016,20:30,US Avellino,0-2,0-0,Ternana Calcio
+33,Sat Mar 26 2016,15:00,Ternana Calcio,1-0,0-0,Pescara Calcio
+33,Sat Mar 26 2016,15:00,US Avellino,0-0,0-0,FC Crotone
+33,Sat Mar 26 2016,15:00,AC Cesena,3-0,1-0,Latina Calcio
+33,Sat Mar 26 2016,15:00,Virtus Lanciano,0-1,0-0,AC Perugia Calcio
+33,Sat Mar 26 2016,15:00,Modena FC,1-2,0-0,Cagliari Calcio
+33,Sat Mar 26 2016,15:00,AS Livorno,0-1,0-0,Pro Vercelli
+33,Sat Mar 26 2016,15:00,Spezia Calcio,1-2,1-0,Trapani Calcio
+33,Sat Mar 26 2016,15:00,Ascoli Picchio FC,1-2,1-2,Vicenza Calcio
+33,Sat Mar 26 2016,20:30,US Salernitana 1919,3-4,1-1,FC Bari 1908
+33,Sat Mar 26 2016,18:00,Brescia Calcio,0-0,0-0,Novara Calcio
+33,Sat Mar 26 2016,15:00,Calcio Como,1-1,0-1,Virtus Entella
+34,Fri Apr 1 2016,20:30,FC Crotone,1-0,0-0,Virtus Lanciano
+34,Sat Apr 2 2016,15:00,Vicenza Calcio,2-0,1-0,AS Livorno
+34,Sat Apr 2 2016,15:00,Trapani Calcio,3-0,1-0,Brescia Calcio
+34,Sat Apr 2 2016,15:00,AC Perugia Calcio,0-2,0-1,Ascoli Picchio FC
+34,Sat Apr 2 2016,15:00,Latina Calcio,3-0,2-0,US Avellino
+34,Sat Apr 2 2016,15:00,Pro Vercelli,1-1,0-0,Modena FC
+34,Sat Apr 2 2016,15:00,Cagliari Calcio,1-2,0-0,Spezia Calcio
+34,Sat Apr 2 2016,15:00,Virtus Entella,2-2,1-0,Ternana Calcio
+34,Sat Apr 2 2016,15:00,Pescara Calcio,2-1,2-0,Calcio Como
+34,Sun Apr 3 2016,17:30,Novara Calcio,1-1,0-0,US Salernitana 1919
+34,Mon Apr 4 2016,20:30,FC Bari 1908,0-0,0-0,AC Cesena
+35,Fri Apr 8 2016,20:30,US Avellino,1-3,0-1,Pescara Calcio
+35,Sat Apr 9 2016,15:00,Ternana Calcio,1-2,0-1,FC Crotone
+35,Sat Apr 9 2016,15:00,Ascoli Picchio FC,2-1,2-0,Cagliari Calcio
+35,Sat Apr 9 2016,15:00,AS Livorno,1-2,0-0,FC Bari 1908
+35,Sat Apr 9 2016,15:00,Virtus Lanciano,1-2,1-2,Virtus Entella
+35,Sat Apr 9 2016,15:00,Spezia Calcio,1-0,1-0,Novara Calcio
+35,Sat Apr 9 2016,15:00,Modena FC,1-4,1-0,Trapani Calcio
+35,Sat Apr 9 2016,15:00,AC Cesena,1-1,0-1,Vicenza Calcio
+35,Sat Apr 9 2016,15:00,US Salernitana 1919,3-2,2-2,Latina Calcio
+35,Sun Apr 10 2016,17:30,Calcio Como,1-1,1-1,Pro Vercelli
+35,Mon Apr 11 2016,20:30,Brescia Calcio,2-2,1-2,AC Perugia Calcio
+36,Fri Apr 15 2016,19:00,FC Crotone,0-0,0-0,Spezia Calcio
+36,Fri Apr 15 2016,21:00,Pescara Calcio,1-0,0-0,AC Cesena
+36,Sat Apr 16 2016,15:00,FC Bari 1908,3-0,0-0,Calcio Como
+36,Sat Apr 16 2016,15:00,Cagliari Calcio,6-0,3-0,Brescia Calcio
+36,Sat Apr 16 2016,15:00,AC Perugia Calcio,2-0,1-0,US Avellino
+36,Sat Apr 16 2016,15:00,Novara Calcio,2-1,1-0,AS Livorno
+36,Sat Apr 16 2016,15:00,Virtus Entella,1-0,1-0,Modena FC
+36,Sat Apr 16 2016,15:00,Pro Vercelli,1-1,0-1,US Salernitana 1919
+36,Sat Apr 16 2016,15:00,Vicenza Calcio,2-1,1-0,Ternana Calcio
+36,Sat Apr 16 2016,15:00,Trapani Calcio,4-3,2-2,Ascoli Picchio FC
+36,Sat Apr 16 2016,15:00,Latina Calcio,2-2,1-0,Virtus Lanciano
+37,Mon Apr 18 2016,20:30,AC Cesena,2-1,2-0,FC Crotone
+37,Tue Apr 19 2016,20:30,Modena FC,3-0,2-0,AC Perugia Calcio
+37,Tue Apr 19 2016,20:30,Calcio Como,1-1,0-1,Cagliari Calcio
+37,Tue Apr 19 2016,20:30,AS Livorno,1-0,1-0,Latina Calcio
+37,Tue Apr 19 2016,20:30,Virtus Lanciano,2-1,2-1,Novara Calcio
+37,Tue Apr 19 2016,20:30,Ascoli Picchio FC,0-1,0-1,FC Bari 1908
+37,Tue Apr 19 2016,20:30,Ternana Calcio,2-2,0-0,Pro Vercelli
+37,Tue Apr 19 2016,20:30,US Avellino,1-3,0-1,Trapani Calcio
+37,Tue Apr 19 2016,20:30,US Salernitana 1919,0-0,0-0,Vicenza Calcio
+37,Tue Apr 19 2016,20:30,Brescia Calcio,2-0,1-0,Virtus Entella
+37,Tue Apr 19 2016,20:30,Spezia Calcio,0-1,0-1,Pescara Calcio
+38,Sat Apr 23 2016,15:00,Pro Vercelli,1-1,0-0,US Avellino
+38,Sat Apr 23 2016,15:00,Pescara Calcio,2-1,0-1,Brescia Calcio
+38,Sat Apr 23 2016,15:00,Trapani Calcio,2-1,1-0,AC Cesena
+38,Sat Apr 23 2016,15:00,FC Crotone,2-0,2-0,Calcio Como
+38,Sat Apr 23 2016,18:00,Vicenza Calcio,0-3,0-2,Spezia Calcio
+38,Sat Apr 23 2016,15:00,Cagliari Calcio,1-1,1-1,Virtus Lanciano
+38,Sat Apr 23 2016,15:00,Ternana Calcio,1-3,0-1,Ascoli Picchio FC
+38,Sat Apr 23 2016,15:00,FC Bari 1908,1-1,0-0,Modena FC
+38,Sun Apr 24 2016,15:00,US Salernitana 1919,3-1,2-1,AS Livorno
+38,Sun Apr 24 2016,17:30,Latina Calcio,0-1,0-1,Virtus Entella
+38,Mon Apr 25 2016,20:30,Novara Calcio,2-2,1-1,AC Perugia Calcio
+39,Fri Apr 29 2016,20:30,Modena FC,1-1,1-1,FC Crotone
+39,Sat Apr 30 2016,15:00,Cagliari Calcio,2-2,1-0,AS Livorno
+39,Sat Apr 30 2016,15:00,AC Perugia Calcio,0-0,0-0,FC Bari 1908
+39,Sat Apr 30 2016,15:00,Virtus Lanciano,1-2,1-2,US Avellino
+39,Sat Apr 30 2016,15:00,Brescia Calcio,0-1,0-0,Vicenza Calcio
+39,Sat Apr 30 2016,15:00,Virtus Entella,0-0,0-0,Pescara Calcio
+39,Sat Apr 30 2016,15:00,Ascoli Picchio FC,2-2,2-1,US Salernitana 1919
+39,Sat Apr 30 2016,15:00,Latina Calcio,0-0,0-0,Spezia Calcio
+39,Sat Apr 30 2016,15:00,Trapani Calcio,0-0,0-0,Novara Calcio
+39,Sun May 1 2016,17:30,Calcio Como,1-2,1-1,Ternana Calcio
+39,Mon May 2 2016,20:30,AC Cesena,2-1,1-0,Pro Vercelli
+40,Fri May 6 2016,20:30,FC Bari 1908,0-3,0-1,Cagliari Calcio
+40,Sat May 7 2016,15:00,FC Crotone,1-1,1-1,Latina Calcio
+40,Sat May 7 2016,15:00,US Avellino,1-1,1-1,Calcio Como
+40,Sat May 7 2016,15:00,Ternana Calcio,1-1,1-1,AC Cesena
+40,Sat May 7 2016,15:00,US Salernitana 1919,0-0,0-0,Modena FC
+40,Sat May 7 2016,15:00,Novara Calcio,2-0,1-0,Ascoli Picchio FC
+40,Sat May 7 2016,15:00,Pro Vercelli,1-1,0-0,Trapani Calcio
+40,Sat May 7 2016,15:00,Vicenza Calcio,2-1,0-1,Virtus Entella
+40,Sat May 7 2016,15:00,AS Livorno,1-1,1-0,AC Perugia Calcio
+40,Sun May 8 2016,17:30,Pescara Calcio,4-0,2-0,Virtus Lanciano
+40,Mon May 9 2016,20:30,Spezia Calcio,2-1,1-0,Brescia Calcio
+41,Fri May 13 2016,20:30,AC Perugia Calcio,1-2,0-1,Pro Vercelli
+41,Sat May 14 2016,15:00,Ascoli Picchio FC,1-3,0-0,AS Livorno
+41,Sat May 14 2016,15:00,Brescia Calcio,2-3,1-2,FC Bari 1908
+41,Sat May 14 2016,15:00,Trapani Calcio,3-0,1-0,FC Crotone
+41,Sat May 14 2016,15:00,Virtus Entella,4-0,3-0,US Avellino
+41,Sat May 14 2016,15:00,AC Cesena,1-0,1-0,Novara Calcio
+41,Sat May 14 2016,15:00,Modena FC,2-5,1-1,Pescara Calcio
+41,Sat May 14 2016,15:00,Cagliari Calcio,3-0,0-0,US Salernitana 1919
+41,Sat May 14 2016,15:00,Virtus Lanciano,1-1,1-0,Ternana Calcio
+41,Sat May 14 2016,15:00,Latina Calcio,2-1,1-0,Vicenza Calcio
+41,Sun May 15 2016,17:30,Calcio Como,4-0,3-0,Spezia Calcio
+42,Fri May 20 2016,20:30,Ternana Calcio,3-2,2-1,Brescia Calcio
+42,Fri May 20 2016,20:30,Pro Vercelli,1-2,1-1,Cagliari Calcio
+42,Fri May 20 2016,20:30,US Avellino,1-2,1-1,AC Cesena
+42,Fri May 20 2016,20:30,US Salernitana 1919,1-0,1-0,Calcio Como
+42,Fri May 20 2016,20:30,Pescara Calcio,1-1,1-0,Latina Calcio
+42,Fri May 20 2016,20:30,Novara Calcio,4-0,1-0,Modena FC
+42,Fri May 20 2016,20:30,Vicenza Calcio,0-0,0-0,AC Perugia Calcio
+42,Fri May 20 2016,20:30,FC Bari 1908,1-2,0-1,Trapani Calcio
+42,Fri May 20 2016,20:30,AS Livorno,2-2,2-0,Virtus Lanciano
+42,Fri May 20 2016,20:30,FC Crotone,1-0,1-0,Virtus Entella
+42,Fri May 20 2016,20:30,Spezia Calcio,0-0,0-0,Ascoli Picchio FC

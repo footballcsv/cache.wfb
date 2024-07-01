@@ -1,0 +1,463 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 22 2015,20:30,AD Alcorcón,2-0,1-0,RCD Mallorca
+1,Sat Aug 22 2015,20:30,SD Huesca,2-3,0-1,CD Alavés
+1,Sat Aug 22 2015,20:30,UE Llagostera,0-2,0-0,CA Osasuna
+1,Sat Aug 22 2015,22:30,Córdoba CF,1-0,0-0,Real Valladolid
+1,Sun Aug 23 2015,18:30,CD Mirandés,1-1,0-0,Real Zaragoza
+1,Sun Aug 23 2015,18:30,Real Oviedo,2-2,1-1,CD Lugo
+1,Sun Aug 23 2015,20:30,UD Almería,3-2,3-0,CD Leganés
+1,Sun Aug 23 2015,20:30,SD Ponferradina,2-0,0-0,Elche CF
+1,Sun Aug 23 2015,20:30,CD Numancia,6-3,1-2,CD Tenerife
+1,Sun Aug 23 2015,20:30,Gimnàstic,2-2,0-0,Albacete
+1,Mon Aug 24 2015,21:00,Athletic Bilbao B,0-1,0-0,Girona FC
+2,Sat Aug 29 2015,18:30,CD Lugo,1-0,0-0,UE Llagostera
+2,Sat Aug 29 2015,20:30,CD Leganés,3-1,2-0,Córdoba CF
+2,Sat Aug 29 2015,20:30,Albacete,1-1,1-1,SD Huesca
+2,Sat Aug 29 2015,20:30,Girona FC,2-3,1-1,CD Numancia
+2,Sat Aug 29 2015,22:30,Real Zaragoza,3-2,1-1,UD Almería
+2,Sun Aug 30 2015,20:30,Real Valladolid,2-0,0-0,AD Alcorcón
+2,Sun Aug 30 2015,18:30,CD Alavés,2-0,2-0,Real Oviedo
+2,Sun Aug 30 2015,20:30,CD Tenerife,1-2,0-0,Gimnàstic
+2,Sun Aug 30 2015,20:30,Elche CF,2-1,0-0,Athletic Bilbao B
+2,Sun Aug 30 2015,20:30,RCD Mallorca,1-0,1-0,SD Ponferradina
+2,Sun Aug 30 2015,18:30,CA Osasuna,1-0,0-0,CD Mirandés
+3,Sat Sep 5 2015,18:00,CD Mirandés,1-1,0-1,CD Lugo
+3,Sat Sep 5 2015,18:00,SD Huesca,1-1,1-1,CD Tenerife
+3,Sat Sep 5 2015,18:00,Gimnàstic,1-0,0-0,Girona FC
+3,Sat Sep 5 2015,18:00,CD Numancia,0-0,0-0,Elche CF
+3,Sun Sep 6 2015,17:00,UE Llagostera,3-0,1-0,CD Alavés
+3,Sun Sep 6 2015,12:00,Athletic Bilbao B,3-1,1-1,RCD Mallorca
+3,Sun Sep 6 2015,17:00,Real Oviedo,3-1,2-1,Albacete
+3,Sun Sep 6 2015,17:00,SD Ponferradina,3-0,1-0,Real Valladolid
+3,Sun Sep 6 2015,17:00,Córdoba CF,1-3,1-1,AD Alcorcón
+3,Sun Sep 6 2015,19:15,CD Leganés,1-1,1-0,Real Zaragoza
+3,Sun Sep 6 2015,19:15,UD Almería,2-1,0-1,CA Osasuna
+4,Sat Sep 12 2015,18:00,CA Osasuna,2-1,1-0,CD Leganés
+4,Sat Sep 12 2015,18:00,CD Alavés,2-3,0-2,CD Mirandés
+4,Sat Sep 12 2015,18:00,Elche CF,1-0,1-0,Gimnàstic
+4,Sat Sep 12 2015,18:00,Real Valladolid,1-0,1-0,Athletic Bilbao B
+4,Sat Sep 12 2015,20:15,Real Zaragoza,0-1,0-1,Córdoba CF
+4,Sun Sep 13 2015,12:00,Girona FC,0-0,0-0,SD Huesca
+4,Sun Sep 13 2015,17:00,CD Lugo,1-0,0-0,UD Almería
+4,Sun Sep 13 2015,17:00,Albacete,1-0,1-0,UE Llagostera
+4,Sun Sep 13 2015,17:00,RCD Mallorca,0-0,0-0,CD Numancia
+4,Sun Sep 13 2015,17:00,AD Alcorcón,1-0,0-0,SD Ponferradina
+4,Sun Sep 13 2015,19:15,CD Tenerife,0-2,0-1,Real Oviedo
+5,Sat Sep 19 2015,16:00,Real Oviedo,1-2,1-1,Girona FC
+5,Sat Sep 19 2015,18:15,CD Leganés,0-0,0-0,CD Lugo
+5,Sat Sep 19 2015,18:15,CD Mirandés,1-1,1-0,Albacete
+5,Sat Sep 19 2015,18:15,UE Llagostera,0-2,0-0,CD Tenerife
+5,Sat Sep 19 2015,18:15,Athletic Bilbao B,1-0,0-0,AD Alcorcón
+5,Sun Sep 20 2015,19:15,Córdoba CF,1-0,1-0,SD Ponferradina
+5,Sun Sep 20 2015,17:00,UD Almería,0-2,0-1,CD Alavés
+5,Sun Sep 20 2015,17:00,SD Huesca,1-3,0-1,Elche CF
+5,Sun Sep 20 2015,17:00,Gimnàstic,1-0,1-0,RCD Mallorca
+5,Sun Sep 20 2015,17:00,CD Numancia,2-2,0-1,Real Valladolid
+5,Sun Sep 20 2015,12:00,Real Zaragoza,0-1,0-1,CA Osasuna
+6,Sat Sep 26 2015,18:00,CD Lugo,0-0,0-0,Real Zaragoza
+6,Sat Sep 26 2015,18:00,RCD Mallorca,0-1,0-0,SD Huesca
+6,Sat Sep 26 2015,18:00,AD Alcorcón,1-1,1-1,CD Numancia
+6,Sat Sep 26 2015,18:00,SD Ponferradina,1-0,0-0,Athletic Bilbao B
+6,Sat Sep 26 2015,20:15,CA Osasuna,0-0,0-0,Córdoba CF
+6,Sun Sep 27 2015,19:15,Albacete,3-0,2-0,UD Almería
+6,Sun Sep 27 2015,17:00,CD Alavés,0-0,0-0,CD Leganés
+6,Sun Sep 27 2015,17:00,CD Tenerife,3-0,1-0,CD Mirandés
+6,Sun Sep 27 2015,17:00,Girona FC,2-2,1-0,UE Llagostera
+6,Sun Sep 27 2015,17:00,Real Valladolid,0-0,0-0,Gimnàstic
+6,Sun Sep 27 2015,12:00,Elche CF,1-1,1-0,Real Oviedo
+7,Sat Oct 3 2015,18:00,UD Almería,2-2,0-1,CD Tenerife
+7,Sat Oct 3 2015,18:00,Gimnàstic,0-2,0-0,AD Alcorcón
+7,Sat Oct 3 2015,18:00,CD Numancia,1-0,1-0,SD Ponferradina
+7,Sat Oct 3 2015,18:00,Córdoba CF,1-0,1-0,Athletic Bilbao B
+7,Sat Oct 3 2015,20:15,Real Zaragoza,1-0,1-0,CD Alavés
+7,Sun Oct 4 2015,12:00,Real Oviedo,1-1,1-1,RCD Mallorca
+7,Sun Oct 4 2015,17:00,CA Osasuna,4-0,3-0,CD Lugo
+7,Sun Oct 4 2015,17:00,CD Leganés,3-2,0-1,Albacete
+7,Sun Oct 4 2015,17:00,CD Mirandés,1-0,0-0,Girona FC
+7,Sun Oct 4 2015,17:00,UE Llagostera,4-1,2-0,Elche CF
+7,Sun Oct 4 2015,19:15,SD Huesca,1-1,0-1,Real Valladolid
+8,Sat Oct 10 2015,18:00,CD Tenerife,0-0,0-0,CD Leganés
+8,Sat Oct 10 2015,18:00,Elche CF,1-4,0-0,CD Mirandés
+8,Sat Oct 10 2015,18:00,SD Ponferradina,2-2,0-0,Gimnàstic
+8,Sat Oct 10 2015,18:00,Athletic Bilbao B,0-0,0-0,CD Numancia
+8,Sat Oct 10 2015,20:15,CD Alavés,3-0,1-0,CA Osasuna
+8,Sun Oct 11 2015,19:15,Girona FC,1-1,1-1,UD Almería
+8,Sun Oct 11 2015,17:00,CD Lugo,1-2,1-1,Córdoba CF
+8,Sun Oct 11 2015,17:00,Albacete,1-3,0-3,Real Zaragoza
+8,Sun Oct 11 2015,17:00,RCD Mallorca,1-0,0-0,UE Llagostera
+8,Sun Oct 11 2015,17:00,AD Alcorcón,0-1,0-0,SD Huesca
+8,Sun Oct 11 2015,12:00,Real Valladolid,2-3,1-2,Real Oviedo
+9,Sat Oct 17 2015,18:00,CD Leganés,2-2,1-0,Girona FC
+9,Sat Oct 17 2015,18:00,CD Mirandés,2-2,2-0,RCD Mallorca
+9,Sat Oct 17 2015,18:00,Real Oviedo,3-2,1-0,AD Alcorcón
+9,Sat Oct 17 2015,18:00,Gimnàstic,2-1,1-0,Athletic Bilbao B
+9,Sat Oct 17 2015,20:15,CA Osasuna,1-0,1-0,Albacete
+9,Sun Oct 18 2015,19:15,Real Zaragoza,2-0,1-0,CD Tenerife
+9,Sun Oct 18 2015,17:00,CD Lugo,1-0,1-0,CD Alavés
+9,Sun Oct 18 2015,17:00,UE Llagostera,3-1,1-0,Real Valladolid
+9,Sun Oct 18 2015,17:00,SD Huesca,1-1,1-0,SD Ponferradina
+9,Sun Oct 18 2015,17:00,Córdoba CF,3-2,2-1,CD Numancia
+9,Sun Oct 18 2015,12:00,UD Almería,2-3,1-1,Elche CF
+10,Sat Oct 24 2015,18:00,CD Alavés,3-2,1-2,Córdoba CF
+10,Sat Oct 24 2015,18:00,Elche CF,0-0,0-0,CD Leganés
+10,Sat Oct 24 2015,18:00,AD Alcorcón,6-1,5-0,UE Llagostera
+10,Sat Oct 24 2015,18:00,Athletic Bilbao B,0-0,0-0,SD Huesca
+10,Sat Oct 24 2015,20:15,Girona FC,0-0,0-0,Real Zaragoza
+10,Sun Oct 25 2015,12:00,RCD Mallorca,1-0,0-0,UD Almería
+10,Sun Oct 25 2015,17:00,Albacete,2-0,1-0,CD Lugo
+10,Sun Oct 25 2015,17:00,Real Valladolid,2-1,2-0,CD Mirandés
+10,Sun Oct 25 2015,17:00,SD Ponferradina,4-2,2-1,Real Oviedo
+10,Sun Oct 25 2015,17:00,CD Numancia,1-1,0-0,Gimnàstic
+10,Sun Oct 25 2015,19:15,CD Tenerife,2-2,1-1,CA Osasuna
+11,Sat Oct 31 2015,18:00,CD Lugo,2-0,2-0,CD Tenerife
+11,Sat Oct 31 2015,18:00,UE Llagostera,0-1,0-0,SD Ponferradina
+11,Sat Oct 31 2015,18:00,SD Huesca,2-0,1-0,CD Numancia
+11,Sat Oct 31 2015,18:00,Córdoba CF,2-0,2-0,Gimnàstic
+11,Sat Oct 31 2015,20:15,CD Mirandés,3-0,2-0,AD Alcorcón
+11,Sun Nov 1 2015,12:00,Real Zaragoza,2-0,0-0,Elche CF
+11,Sun Nov 1 2015,17:00,CD Alavés,1-1,1-1,Albacete
+11,Sun Nov 1 2015,19:15,UD Almería,1-1,0-0,Real Valladolid
+11,Sun Nov 1 2015,17:00,CD Leganés,0-0,0-0,RCD Mallorca
+11,Sun Nov 1 2015,17:00,Real Oviedo,0-0,0-0,Athletic Bilbao B
+11,Sun Nov 1 2015,17:00,CA Osasuna,0-1,0-1,Girona FC
+12,Sat Nov 7 2015,18:00,CD Tenerife,2-0,0-0,CD Alavés
+12,Sat Nov 7 2015,18:00,Real Valladolid,1-1,1-0,CD Leganés
+12,Sat Nov 7 2015,18:00,SD Ponferradina,2-2,1-1,CD Mirandés
+12,Sat Nov 7 2015,20:15,RCD Mallorca,0-0,0-0,Real Zaragoza
+12,Sun Nov 8 2015,17:00,Albacete,2-0,0-0,Córdoba CF
+12,Sun Nov 8 2015,12:00,Elche CF,2-1,1-1,CA Osasuna
+12,Sun Nov 8 2015,17:00,Girona FC,0-1,0-0,CD Lugo
+12,Sun Nov 8 2015,17:00,CD Numancia,1-0,0-0,Real Oviedo
+12,Sun Nov 8 2015,17:00,Gimnàstic,2-0,2-0,SD Huesca
+12,Sun Nov 8 2015,19:15,AD Alcorcón,0-0,0-0,UD Almería
+12,Mon Nov 9 2015,20:30,Athletic Bilbao B,2-0,1-0,UE Llagostera
+13,Sat Nov 14 2015,18:00,Albacete,1-2,1-1,CD Tenerife
+13,Sat Nov 14 2015,18:00,CD Alavés,1-0,1-0,Girona FC
+13,Sat Nov 14 2015,18:00,CD Leganés,3-0,2-0,AD Alcorcón
+13,Sat Nov 14 2015,18:00,CD Mirandés,3-0,2-0,Athletic Bilbao B
+13,Sat Nov 14 2015,20:15,CD Lugo,1-1,1-0,Elche CF
+13,Sun Nov 15 2015,19:15,CA Osasuna,2-1,2-1,RCD Mallorca
+13,Sun Nov 15 2015,17:00,UD Almería,1-1,1-1,SD Ponferradina
+13,Sun Nov 15 2015,17:00,UE Llagostera,2-1,2-0,CD Numancia
+13,Sun Nov 15 2015,17:00,Real Oviedo,2-0,2-0,Gimnàstic
+13,Sun Nov 15 2015,17:00,Córdoba CF,1-1,0-0,SD Huesca
+13,Sun Nov 15 2015,12:00,Real Zaragoza,0-2,0-1,Real Valladolid
+14,Sat Nov 21 2015,16:00,RCD Mallorca,1-1,0-0,CD Lugo
+14,Sat Nov 21 2015,16:00,Athletic Bilbao B,0-0,0-0,UD Almería
+14,Sat Nov 21 2015,16:00,CD Numancia,2-2,0-1,CD Mirandés
+14,Sat Nov 21 2015,16:00,SD Huesca,0-1,0-0,Real Oviedo
+14,Sat Nov 21 2015,20:15,Elche CF,0-1,0-0,CD Alavés
+14,Sun Nov 22 2015,12:00,Real Valladolid,0-1,0-0,CA Osasuna
+14,Sun Nov 22 2015,17:00,CD Tenerife,1-1,0-0,Córdoba CF
+14,Sun Nov 22 2015,19:15,AD Alcorcón,1-0,1-0,Real Zaragoza
+14,Sun Nov 22 2015,17:00,SD Ponferradina,1-0,0-0,CD Leganés
+14,Sun Nov 22 2015,17:00,Gimnàstic,2-0,1-0,UE Llagostera
+14,Sun Nov 22 2015,17:00,Girona FC,3-0,2-0,Albacete
+15,Sat Nov 28 2015,18:00,CA Osasuna,1-2,0-1,AD Alcorcón
+15,Sat Nov 28 2015,18:00,CD Leganés,1-0,1-0,Athletic Bilbao B
+15,Sat Nov 28 2015,18:00,UD Almería,1-1,1-0,CD Numancia
+15,Sat Nov 28 2015,18:00,UE Llagostera,2-0,1-0,SD Huesca
+15,Sat Nov 28 2015,20:15,CD Alavés,1-0,1-0,RCD Mallorca
+15,Sun Nov 29 2015,12:00,CD Lugo,1-1,0-0,Real Valladolid
+15,Sun Nov 29 2015,17:00,CD Tenerife,1-1,1-1,Girona FC
+15,Sun Nov 29 2015,19:15,Córdoba CF,2-1,2-1,Real Oviedo
+15,Sun Nov 29 2015,17:00,Real Zaragoza,2-0,2-0,SD Ponferradina
+15,Sun Nov 29 2015,17:00,CD Mirandés,0-1,0-0,Gimnàstic
+15,Sun Nov 29 2015,17:00,Albacete,1-0,0-0,Elche CF
+16,Sat Dec 5 2015,18:00,Elche CF,0-0,0-0,CD Tenerife
+16,Sat Dec 5 2015,18:00,Real Valladolid,1-2,0-1,CD Alavés
+16,Sat Dec 5 2015,20:15,Gimnàstic,2-2,2-1,UD Almería
+16,Sat Dec 5 2015,18:00,AD Alcorcón,1-1,0-1,CD Lugo
+16,Sun Dec 6 2015,12:00,SD Ponferradina,3-0,2-0,CA Osasuna
+16,Sun Dec 6 2015,17:00,RCD Mallorca,2-0,0-0,Albacete
+16,Sun Dec 6 2015,17:00,CD Numancia,1-2,0-1,CD Leganés
+16,Sun Dec 6 2015,17:00,SD Huesca,1-2,0-1,CD Mirandés
+16,Sun Dec 6 2015,17:00,Real Oviedo,2-1,2-1,UE Llagostera
+16,Sun Dec 6 2015,19:15,Girona FC,1-2,0-0,Córdoba CF
+16,Mon Dec 7 2015,20:30,Athletic Bilbao B,0-1,0-1,Real Zaragoza
+17,Sat Dec 12 2015,18:00,CD Alavés,1-1,0-0,AD Alcorcón
+17,Sat Dec 12 2015,18:00,Girona FC,0-1,0-1,Elche CF
+17,Sat Dec 12 2015,20:15,CD Tenerife,2-1,0-1,RCD Mallorca
+17,Sat Dec 12 2015,18:00,Córdoba CF,2-0,1-0,UE Llagostera
+17,Sat Dec 12 2015,18:00,CD Lugo,3-1,1-1,SD Ponferradina
+17,Sun Dec 13 2015,12:00,Real Zaragoza,2-2,1-0,CD Numancia
+17,Sun Dec 13 2015,17:00,Albacete,0-1,0-1,Real Valladolid
+17,Sun Dec 13 2015,17:00,CA Osasuna,1-1,0-1,Athletic Bilbao B
+17,Sun Dec 13 2015,17:00,CD Leganés,1-0,1-0,Gimnàstic
+17,Sun Dec 13 2015,17:00,UD Almería,1-2,0-2,SD Huesca
+17,Sun Dec 13 2015,19:15,CD Mirandés,1-2,1-0,Real Oviedo
+18,Fri Dec 18 2015,20:30,Elche CF,2-1,2-1,Córdoba CF
+18,Sat Dec 19 2015,18:00,SD Ponferradina,0-1,0-0,CD Alavés
+18,Sat Dec 19 2015,20:15,CD Numancia,1-3,0-0,CA Osasuna
+18,Sat Dec 19 2015,18:00,Gimnàstic,3-1,1-0,Real Zaragoza
+18,Sat Dec 19 2015,18:00,RCD Mallorca,1-1,1-0,Girona FC
+18,Sun Dec 20 2015,17:00,Real Valladolid,4-1,2-1,CD Tenerife
+18,Sun Dec 20 2015,17:00,AD Alcorcón,1-0,1-0,Albacete
+18,Sun Dec 20 2015,19:15,Real Oviedo,1-0,1-0,UD Almería
+18,Sun Dec 20 2015,17:00,UE Llagostera,0-0,0-0,CD Mirandés
+18,Sun Dec 20 2015,17:00,SD Huesca,1-1,0-0,CD Leganés
+18,Mon Dec 21 2015,20:30,Athletic Bilbao B,1-1,1-1,CD Lugo
+19,Sat Jan 2 2016,18:00,CA Osasuna,1-1,0-0,Gimnàstic
+19,Sat Jan 2 2016,18:00,CD Alavés,3-0,2-0,Athletic Bilbao B
+19,Sat Jan 2 2016,20:15,Elche CF,1-1,1-0,RCD Mallorca
+19,Sun Jan 3 2016,12:00,Córdoba CF,1-2,0-1,CD Mirandés
+19,Sun Jan 3 2016,19:15,Real Zaragoza,3-3,1-0,SD Huesca
+19,Sun Jan 3 2016,17:00,CD Lugo,2-3,1-1,CD Numancia
+19,Sun Jan 3 2016,17:00,CD Leganés,1-1,1-0,Real Oviedo
+19,Sun Jan 3 2016,17:00,UD Almería,2-1,0-0,UE Llagostera
+19,Sun Jan 3 2016,17:00,Albacete,2-2,1-0,SD Ponferradina
+19,Mon Jan 4 2016,20:30,Girona FC,1-0,0-0,Real Valladolid
+19,Mon Jan 4 2016,20:30,CD Tenerife,1-2,0-2,AD Alcorcón
+20,Sat Jan 9 2016,18:00,Real Valladolid,1-1,0-0,Elche CF
+20,Sat Jan 9 2016,18:00,AD Alcorcón,1-0,1-0,Girona FC
+20,Sat Jan 9 2016,18:00,Gimnàstic,1-2,0-0,CD Lugo
+20,Sat Jan 9 2016,18:00,CD Mirandés,1-1,0-0,UD Almería
+20,Sat Jan 9 2016,20:15,CD Numancia,0-1,0-0,CD Alavés
+20,Sun Jan 10 2016,12:00,Real Oviedo,1-0,1-0,Real Zaragoza
+20,Sun Jan 10 2016,17:00,SD Ponferradina,0-1,0-0,CD Tenerife
+20,Sun Jan 10 2016,19:15,Córdoba CF,3-1,2-0,RCD Mallorca
+20,Sun Jan 10 2016,17:00,SD Huesca,0-1,0-1,CA Osasuna
+20,Sun Jan 10 2016,17:00,UE Llagostera,0-1,0-1,CD Leganés
+20,Sun Jan 10 2016,17:00,Athletic Bilbao B,0-1,0-0,Albacete
+21,Sat Jan 16 2016,18:00,Elche CF,2-0,1-0,AD Alcorcón
+21,Sat Jan 16 2016,18:00,CD Tenerife,2-0,2-0,Athletic Bilbao B
+21,Sat Jan 16 2016,20:15,CA Osasuna,0-0,0-0,Real Oviedo
+21,Sat Jan 16 2016,18:00,Real Zaragoza,1-0,1-0,UE Llagostera
+21,Sat Jan 16 2016,18:00,Albacete,0-2,0-1,CD Numancia
+21,Sun Jan 17 2016,12:00,RCD Mallorca,0-1,0-0,Real Valladolid
+21,Sun Jan 17 2016,17:00,Girona FC,4-0,1-0,SD Ponferradina
+21,Sun Jan 17 2016,17:00,CD Alavés,1-3,0-1,Gimnàstic
+21,Sun Jan 17 2016,17:00,CD Lugo,1-1,1-0,SD Huesca
+21,Sun Jan 17 2016,17:00,CD Leganés,4-0,3-0,CD Mirandés
+21,Sun Jan 17 2016,19:15,UD Almería,0-1,0-0,Córdoba CF
+22,Sat Jan 23 2016,20:15,CD Leganés,2-1,2-0,UD Almería
+22,Sat Jan 23 2016,18:00,Girona FC,2-1,1-1,Athletic Bilbao B
+22,Sat Jan 23 2016,18:00,CD Alavés,1-0,1-0,SD Huesca
+22,Sat Jan 23 2016,18:00,CD Lugo,2-2,2-2,Real Oviedo
+22,Sat Jan 23 2016,18:00,RCD Mallorca,1-0,0-0,AD Alcorcón
+22,Sun Jan 24 2016,12:00,Real Valladolid,2-0,2-0,Córdoba CF
+22,Sun Jan 24 2016,17:00,CD Tenerife,0-0,0-0,CD Numancia
+22,Sun Jan 24 2016,17:00,Albacete,1-1,0-0,Gimnàstic
+22,Sun Jan 24 2016,17:00,CA Osasuna,3-0,1-0,UE Llagostera
+22,Sun Jan 24 2016,17:00,Real Zaragoza,1-2,1-1,CD Mirandés
+22,Sun Jan 24 2016,19:15,Elche CF,1-0,0-0,SD Ponferradina
+23,Sat Jan 30 2016,18:00,Córdoba CF,2-3,1-0,CD Leganés
+23,Sat Jan 30 2016,18:00,UE Llagostera,0-0,0-0,CD Lugo
+23,Sat Jan 30 2016,20:15,Real Oviedo,1-1,1-0,CD Alavés
+23,Sat Jan 30 2016,18:00,AD Alcorcón,0-0,0-0,Real Valladolid
+23,Sat Jan 30 2016,18:00,SD Huesca,3-1,1-0,Albacete
+23,Sun Jan 31 2016,12:00,UD Almería,2-1,0-0,Real Zaragoza
+23,Sun Jan 31 2016,17:00,Gimnàstic,2-1,2-0,CD Tenerife
+23,Sun Jan 31 2016,17:00,CD Numancia,1-1,1-0,Girona FC
+23,Sun Jan 31 2016,17:00,Athletic Bilbao B,0-1,0-0,Elche CF
+23,Sun Jan 31 2016,17:00,SD Ponferradina,0-2,0-0,RCD Mallorca
+23,Sun Jan 31 2016,19:15,CD Mirandés,4-0,0-0,CA Osasuna
+24,Sat Feb 6 2016,18:00,Real Zaragoza,1-0,0-0,CD Leganés
+24,Sat Feb 6 2016,18:00,Albacete,2-2,2-0,Real Oviedo
+24,Sat Feb 6 2016,18:00,CD Tenerife,1-1,1-0,SD Huesca
+24,Sat Feb 6 2016,18:00,Real Valladolid,0-0,0-0,SD Ponferradina
+24,Sat Feb 6 2016,20:15,Elche CF,0-0,0-0,CD Numancia
+24,Sun Feb 7 2016,12:00,AD Alcorcón,3-3,2-2,Córdoba CF
+24,Sun Feb 7 2016,17:00,CD Lugo,1-4,0-1,CD Mirandés
+24,Sun Feb 7 2016,19:15,CA Osasuna,0-0,0-0,UD Almería
+24,Sun Feb 7 2016,17:00,Girona FC,1-1,0-1,Gimnàstic
+24,Sun Feb 7 2016,17:00,RCD Mallorca,2-3,1-1,Athletic Bilbao B
+24,Sun Feb 7 2016,17:00,CD Alavés,1-0,0-0,UE Llagostera
+25,Sat Feb 13 2016,18:00,UD Almería,0-2,0-0,CD Lugo
+25,Sat Feb 13 2016,20:15,CD Mirandés,0-0,0-0,CD Alavés
+25,Sat Feb 13 2016,18:00,Athletic Bilbao B,0-1,0-1,Real Valladolid
+25,Sat Feb 13 2016,18:00,SD Ponferradina,0-0,0-0,AD Alcorcón
+25,Sat Feb 13 2016,18:00,Gimnàstic,1-0,1-0,Elche CF
+25,Sun Feb 14 2016,12:00,Córdoba CF,0-2,0-1,Real Zaragoza
+25,Sun Feb 14 2016,17:00,CD Leganés,2-0,1-0,CA Osasuna
+25,Sun Feb 14 2016,17:00,UE Llagostera,2-0,0-0,Albacete
+25,Sun Feb 14 2016,17:00,Real Oviedo,1-0,1-0,CD Tenerife
+25,Sun Feb 14 2016,17:00,SD Huesca,0-1,0-1,Girona FC
+25,Sun Feb 14 2016,19:15,CD Numancia,2-0,1-0,RCD Mallorca
+26,Sat Feb 20 2016,18:00,CD Lugo,1-2,1-1,CD Leganés
+26,Sat Feb 20 2016,18:00,Albacete,1-1,1-0,CD Mirandés
+26,Sat Feb 20 2016,20:15,SD Ponferradina,1-3,0-2,Córdoba CF
+26,Sat Feb 20 2016,18:00,AD Alcorcón,1-0,0-0,Athletic Bilbao B
+26,Sat Feb 20 2016,18:00,RCD Mallorca,2-2,0-2,Gimnàstic
+26,Sun Feb 21 2016,12:00,CD Alavés,1-1,0-1,UD Almería
+26,Sun Feb 21 2016,17:00,CD Tenerife,3-1,2-1,UE Llagostera
+26,Sun Feb 21 2016,19:15,CA Osasuna,1-1,0-1,Real Zaragoza
+26,Sun Feb 21 2016,17:00,Elche CF,1-1,0-1,SD Huesca
+26,Sun Feb 21 2016,17:00,Real Valladolid,2-2,1-1,CD Numancia
+26,Sun Feb 21 2016,17:00,Girona FC,1-1,0-0,Real Oviedo
+27,Sat Feb 27 2016,18:00,UE Llagostera,0-1,0-0,Girona FC
+27,Sat Feb 27 2016,18:00,CD Numancia,1-1,1-0,AD Alcorcón
+27,Sat Feb 27 2016,18:00,Athletic Bilbao B,4-2,2-1,SD Ponferradina
+27,Sat Feb 27 2016,20:15,Córdoba CF,0-1,0-0,CA Osasuna
+27,Sun Feb 28 2016,12:00,CD Leganés,2-0,1-0,CD Alavés
+27,Sun Feb 28 2016,17:00,Real Zaragoza,3-1,0-0,CD Lugo
+27,Sun Feb 28 2016,17:00,UD Almería,1-0,0-0,Albacete
+27,Sun Feb 28 2016,19:15,Real Oviedo,3-0,0-0,Elche CF
+27,Sun Feb 28 2016,17:00,Gimnàstic,1-1,1-1,Real Valladolid
+27,Sun Feb 28 2016,17:00,CD Mirandés,1-2,0-1,CD Tenerife
+28,Sat Mar 5 2016,20:15,CD Lugo,2-0,0-0,CA Osasuna
+28,Sat Mar 5 2016,18:00,Girona FC,2-0,0-0,CD Mirandés
+28,Sat Mar 5 2016,18:00,Elche CF,1-1,0-0,UE Llagostera
+28,Sat Mar 5 2016,18:00,RCD Mallorca,1-0,0-0,Real Oviedo
+28,Sat Mar 5 2016,18:00,Athletic Bilbao B,1-2,0-1,Córdoba CF
+28,Sun Mar 6 2016,19:15,Albacete,0-3,0-2,CD Leganés
+28,Sun Mar 6 2016,12:00,CD Alavés,0-0,0-0,Real Zaragoza
+28,Sun Mar 6 2016,17:00,CD Tenerife,0-0,0-0,UD Almería
+28,Sun Mar 6 2016,17:00,Real Valladolid,0-1,0-1,SD Huesca
+28,Sun Mar 6 2016,17:00,AD Alcorcón,1-1,0-0,Gimnàstic
+28,Sun Mar 6 2016,17:00,SD Ponferradina,1-0,0-0,CD Numancia
+29,Sat Mar 12 2016,18:00,UD Almería,1-0,1-0,Girona FC
+29,Sat Mar 12 2016,18:00,Real Zaragoza,1-0,0-0,Albacete
+29,Sat Mar 12 2016,20:15,Real Oviedo,2-4,1-3,Real Valladolid
+29,Sat Mar 12 2016,18:00,CD Mirandés,1-2,1-0,Elche CF
+29,Sat Mar 12 2016,18:00,CD Numancia,3-2,1-1,Athletic Bilbao B
+29,Sun Mar 13 2016,12:00,CA Osasuna,3-1,3-1,CD Alavés
+29,Sun Mar 13 2016,19:15,CD Leganés,0-1,0-0,CD Tenerife
+29,Sun Mar 13 2016,17:00,Córdoba CF,1-2,0-2,CD Lugo
+29,Sun Mar 13 2016,17:00,UE Llagostera,3-0,1-0,RCD Mallorca
+29,Sun Mar 13 2016,17:00,SD Huesca,1-0,1-0,AD Alcorcón
+29,Sun Mar 13 2016,17:00,Gimnàstic,1-1,0-1,SD Ponferradina
+27,Wed Mar 16 2016,18:30,SD Huesca,1-2,0-2,RCD Mallorca
+30,Sat Mar 19 2016,18:00,CD Alavés,0-0,0-0,CD Lugo
+30,Sat Mar 19 2016,18:00,Albacete,3-1,2-1,CA Osasuna
+30,Sat Mar 19 2016,18:00,Real Valladolid,3-0,1-0,UE Llagostera
+30,Sat Mar 19 2016,18:00,AD Alcorcón,1-0,0-0,Real Oviedo
+30,Sat Mar 19 2016,20:15,Elche CF,0-0,0-0,UD Almería
+30,Sun Mar 20 2016,12:00,CD Tenerife,0-0,0-0,Real Zaragoza
+30,Sun Mar 20 2016,17:00,Girona FC,1-1,0-0,CD Leganés
+30,Sun Mar 20 2016,17:00,RCD Mallorca,1-1,1-1,CD Mirandés
+30,Sun Mar 20 2016,17:00,SD Ponferradina,2-1,1-0,SD Huesca
+30,Sun Mar 20 2016,17:00,Athletic Bilbao B,0-4,0-1,Gimnàstic
+30,Sun Mar 20 2016,19:15,CD Numancia,1-1,1-1,Córdoba CF
+31,Sat Mar 26 2016,18:00,CA Osasuna,0-0,0-0,CD Tenerife
+31,Sat Mar 26 2016,18:00,CD Leganés,0-0,0-0,Elche CF
+31,Sat Mar 26 2016,20:15,Real Oviedo,3-0,2-0,SD Ponferradina
+31,Sat Mar 26 2016,18:00,Gimnàstic,1-0,0-0,CD Numancia
+31,Sat Mar 26 2016,18:00,SD Huesca,1-2,0-0,Athletic Bilbao B
+31,Sun Mar 27 2016,12:00,Córdoba CF,1-2,0-0,CD Alavés
+31,Sun Mar 27 2016,17:00,CD Lugo,2-1,1-0,Albacete
+31,Sun Mar 27 2016,17:00,UE Llagostera,4-0,3-0,AD Alcorcón
+31,Sun Mar 27 2016,17:00,UD Almería,1-1,0-0,RCD Mallorca
+31,Sun Mar 27 2016,17:00,CD Mirandés,4-1,2-0,Real Valladolid
+31,Sun Mar 27 2016,17:00,Real Zaragoza,0-3,0-2,Girona FC
+32,Sat Apr 2 2016,18:00,Elche CF,2-1,1-1,Real Zaragoza
+32,Sat Apr 2 2016,18:00,RCD Mallorca,3-0,0-0,CD Leganés
+32,Sat Apr 2 2016,18:00,AD Alcorcón,1-0,0-0,CD Mirandés
+32,Sat Apr 2 2016,18:00,SD Ponferradina,1-0,0-0,UE Llagostera
+32,Sun Apr 3 2016,12:00,Gimnàstic,4-4,2-3,Córdoba CF
+32,Sun Apr 3 2016,17:00,CD Tenerife,1-0,0-0,CD Lugo
+32,Sun Apr 3 2016,17:00,Girona FC,0-0,0-0,CA Osasuna
+32,Sun Apr 3 2016,17:00,Real Valladolid,1-1,0-0,UD Almería
+32,Sun Apr 3 2016,19:15,Albacete,0-1,0-0,CD Alavés
+32,Sun Apr 3 2016,17:00,CD Numancia,3-2,1-1,SD Huesca
+32,Mon Apr 4 2016,20:30,Athletic Bilbao B,2-1,1-1,Real Oviedo
+33,Sat Apr 9 2016,18:00,CD Lugo,1-1,1-1,Girona FC
+33,Sat Apr 9 2016,18:00,UD Almería,1-1,1-1,AD Alcorcón
+33,Sat Apr 9 2016,18:00,CD Mirandés,1-0,1-0,SD Ponferradina
+33,Sat Apr 9 2016,18:00,UE Llagostera,2-1,0-0,Athletic Bilbao B
+33,Sat Apr 9 2016,20:15,CD Leganés,4-0,2-0,Real Valladolid
+33,Sun Apr 10 2016,12:00,Real Zaragoza,2-1,1-1,RCD Mallorca
+33,Sun Apr 10 2016,17:00,Córdoba CF,2-3,0-1,Albacete
+33,Sun Apr 10 2016,19:15,CA Osasuna,0-0,0-0,Elche CF
+33,Sun Apr 10 2016,17:00,Real Oviedo,1-0,0-0,CD Numancia
+33,Sun Apr 10 2016,17:00,SD Huesca,2-0,1-0,Gimnàstic
+33,Sun Apr 10 2016,17:00,CD Alavés,2-2,1-1,CD Tenerife
+34,Sat Apr 16 2016,18:00,Girona FC,1-0,1-0,CD Alavés
+34,Sat Apr 16 2016,20:15,Real Valladolid,1-2,1-1,Real Zaragoza
+34,Sat Apr 16 2016,18:00,Athletic Bilbao B,1-1,0-0,CD Mirandés
+34,Sat Apr 16 2016,18:00,CD Numancia,1-1,0-0,UE Llagostera
+34,Sat Apr 16 2016,18:00,Elche CF,2-0,1-0,CD Lugo
+34,Sun Apr 17 2016,12:00,Gimnàstic,0-0,0-0,Real Oviedo
+34,Sun Apr 17 2016,17:00,CD Tenerife,1-0,0-0,Albacete
+34,Sun Apr 17 2016,17:00,AD Alcorcón,2-0,1-0,CD Leganés
+34,Sun Apr 17 2016,17:00,SD Ponferradina,1-3,0-2,UD Almería
+34,Sun Apr 17 2016,17:00,SD Huesca,0-2,0-1,Córdoba CF
+34,Sun Apr 17 2016,19:15,RCD Mallorca,1-1,1-0,CA Osasuna
+35,Sat Apr 23 2016,18:00,Albacete,0-3,0-1,Girona FC
+35,Sat Apr 23 2016,18:00,CD Leganés,3-0,1-0,SD Ponferradina
+35,Sat Apr 23 2016,18:00,UE Llagostera,1-1,0-0,Gimnàstic
+35,Sat Apr 23 2016,18:00,Real Oviedo,0-1,0-0,SD Huesca
+35,Sat Apr 23 2016,20:15,CD Alavés,0-0,0-0,Elche CF
+35,Sun Apr 24 2016,12:00,CA Osasuna,1-0,1-0,Real Valladolid
+35,Sun Apr 24 2016,17:00,Córdoba CF,0-0,0-0,CD Tenerife
+35,Sun Apr 24 2016,17:00,CD Lugo,2-1,1-0,RCD Mallorca
+35,Sun Apr 24 2016,17:00,UD Almería,3-2,1-1,Athletic Bilbao B
+35,Sun Apr 24 2016,19:15,Real Zaragoza,3-1,2-1,AD Alcorcón
+35,Sun Apr 24 2016,17:00,CD Mirandés,0-2,0-2,CD Numancia
+36,Sat Apr 30 2016,18:00,AD Alcorcón,0-1,0-1,CA Osasuna
+36,Sat Apr 30 2016,20:15,RCD Mallorca,0-0,0-0,CD Alavés
+36,Sat Apr 30 2016,18:00,SD Huesca,3-1,3-0,UE Llagostera
+36,Sat Apr 30 2016,18:00,CD Numancia,2-0,1-0,UD Almería
+36,Sun May 1 2016,12:00,Real Oviedo,1-0,1-0,Córdoba CF
+36,Sun May 1 2016,17:00,Girona FC,1-0,0-0,CD Tenerife
+36,Sun May 1 2016,17:00,Elche CF,1-1,0-0,Albacete
+36,Sun May 1 2016,19:15,SD Ponferradina,1-1,0-0,Real Zaragoza
+36,Sun May 1 2016,17:00,Gimnàstic,3-2,0-1,CD Mirandés
+36,Sun May 1 2016,17:00,Real Valladolid,1-1,0-0,CD Lugo
+36,Mon May 2 2016,20:30,Athletic Bilbao B,1-2,1-0,CD Leganés
+37,Sat May 7 2016,18:00,CD Lugo,1-2,1-1,AD Alcorcón
+37,Sat May 7 2016,18:00,CA Osasuna,0-0,0-0,SD Ponferradina
+37,Sat May 7 2016,18:00,UD Almería,1-2,1-1,Gimnàstic
+37,Sat May 7 2016,18:00,UE Llagostera,2-0,1-0,Real Oviedo
+37,Sat May 7 2016,20:15,CD Tenerife,1-1,0-0,Elche CF
+37,Sun May 8 2016,12:00,CD Alavés,2-1,0-0,Real Valladolid
+37,Sun May 8 2016,20:00,Córdoba CF,1-0,0-0,Girona FC
+37,Sun May 8 2016,20:00,Albacete,1-0,0-0,RCD Mallorca
+37,Sun May 8 2016,20:00,Real Zaragoza,2-0,1-0,Athletic Bilbao B
+37,Sun May 8 2016,20:00,CD Leganés,2-2,0-1,CD Numancia
+37,Sun May 8 2016,20:00,CD Mirandés,1-0,1-0,SD Huesca
+38,Sat May 14 2016,19:00,RCD Mallorca,1-0,0-0,CD Tenerife
+38,Sat May 14 2016,19:00,Real Valladolid,1-0,1-0,Albacete
+38,Sat May 14 2016,19:00,CD Numancia,2-2,1-2,Real Zaragoza
+38,Sat May 14 2016,19:00,Real Oviedo,4-1,1-0,CD Mirandés
+38,Sun May 15 2016,17:00,Elche CF,1-1,0-1,Girona FC
+38,Sun May 15 2016,12:00,Gimnàstic,0-0,0-0,CD Leganés
+38,Sun May 15 2016,17:00,AD Alcorcón,0-1,0-0,CD Alavés
+38,Sun May 15 2016,19:00,UE Llagostera,1-0,1-0,Córdoba CF
+38,Sun May 15 2016,19:00,Athletic Bilbao B,0-0,0-0,CA Osasuna
+38,Sun May 15 2016,19:00,SD Huesca,2-1,0-1,UD Almería
+38,Sun May 15 2016,17:00,SD Ponferradina,2-1,1-0,CD Lugo
+39,Sat May 21 2016,18:00,Córdoba CF,3-1,1-0,Elche CF
+39,Sat May 21 2016,18:00,Girona FC,1-0,0-0,RCD Mallorca
+39,Sat May 21 2016,18:00,CD Tenerife,3-1,2-0,Real Valladolid
+39,Sat May 21 2016,20:15,CD Leganés,2-3,1-1,SD Huesca
+39,Sat May 21 2016,18:00,Albacete,0-2,0-0,AD Alcorcón
+39,Sun May 22 2016,12:00,Real Zaragoza,0-1,0-0,Gimnàstic
+39,Sun May 22 2016,17:00,CD Alavés,2-0,2-0,SD Ponferradina
+39,Sun May 22 2016,17:00,CD Lugo,2-0,1-0,Athletic Bilbao B
+39,Sun May 22 2016,17:00,CA Osasuna,3-2,1-2,CD Numancia
+39,Sun May 22 2016,19:15,UD Almería,3-1,0-0,Real Oviedo
+39,Sun May 22 2016,17:00,CD Mirandés,0-0,0-0,UE Llagostera
+40,Tue May 24 2016,20:30,AD Alcorcón,2-1,1-0,CD Tenerife
+40,Tue May 24 2016,20:30,Real Valladolid,0-0,0-0,Girona FC
+40,Tue May 24 2016,20:30,RCD Mallorca,2-1,1-0,Elche CF
+40,Wed May 25 2016,20:30,SD Ponferradina,2-1,0-0,Albacete
+40,Wed May 25 2016,20:30,CD Numancia,1-0,1-0,CD Lugo
+40,Wed May 25 2016,20:30,CD Mirandés,0-3,0-0,Córdoba CF
+40,Wed May 25 2016,20:30,UE Llagostera,0-0,0-0,UD Almería
+40,Wed May 25 2016,20:30,Gimnàstic,1-0,0-0,CA Osasuna
+40,Thu May 26 2016,20:00,Athletic Bilbao B,2-3,0-2,CD Alavés
+40,Thu May 26 2016,20:00,SD Huesca,1-1,0-1,Real Zaragoza
+40,Thu May 26 2016,21:00,Real Oviedo,0-1,0-0,CD Leganés
+41,Sun May 29 2016,20:00,CD Tenerife,1-1,0-0,SD Ponferradina
+41,Sun May 29 2016,20:00,Elche CF,2-2,1-1,Real Valladolid
+41,Sun May 29 2016,20:00,Girona FC,2-0,1-0,AD Alcorcón
+41,Sun May 29 2016,20:00,RCD Mallorca,0-1,0-1,Córdoba CF
+41,Sun May 29 2016,20:00,Albacete,2-1,0-0,Athletic Bilbao B
+41,Sun May 29 2016,20:00,CD Alavés,2-0,2-0,CD Numancia
+41,Sun May 29 2016,20:00,CD Lugo,0-3,0-2,Gimnàstic
+41,Sun May 29 2016,20:00,CA Osasuna,2-3,1-2,SD Huesca
+41,Sun May 29 2016,20:00,Real Zaragoza,1-0,1-0,Real Oviedo
+41,Sun May 29 2016,20:00,UD Almería,2-1,1-0,CD Mirandés
+41,Sun May 29 2016,20:00,CD Leganés,2-0,1-0,UE Llagostera
+42,Sat Jun 4 2016,17:30,Athletic Bilbao B,2-0,1-0,CD Tenerife
+42,Sat Jun 4 2016,17:30,CD Numancia,2-0,0-0,Albacete
+42,Sat Jun 4 2016,17:30,SD Huesca,1-0,0-0,CD Lugo
+42,Sat Jun 4 2016,20:30,Real Valladolid,1-3,1-2,RCD Mallorca
+42,Sat Jun 4 2016,20:30,AD Alcorcón,4-1,2-0,Elche CF
+42,Sat Jun 4 2016,20:30,SD Ponferradina,0-1,0-0,Girona FC
+42,Sat Jun 4 2016,20:30,Gimnàstic,1-1,0-0,CD Alavés
+42,Sat Jun 4 2016,20:30,Real Oviedo,0-5,0-1,CA Osasuna
+42,Sat Jun 4 2016,20:30,UE Llagostera,6-2,2-0,Real Zaragoza
+42,Sat Jun 4 2016,20:30,CD Mirandés,0-1,0-0,CD Leganés
+42,Sat Jun 4 2016,20:30,Córdoba CF,1-1,0-1,UD Almería

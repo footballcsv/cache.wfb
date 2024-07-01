@@ -1,0 +1,241 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 27 2018,19:00,Vorwärts Steyr,1-1,1-1,SV Ried
+1,Fri Jul 27 2018,19:10,Kapfenberger SV,3-0,1-0,Young Violets
+1,Fri Jul 27 2018,19:10,SC Wiener Neustadt,0-2,0-1,FC Blau Weiß Linz
+1,Fri Jul 27 2018,19:10,SV Horn,1-2,0-0,FC Liefering
+1,Fri Jul 27 2018,19:10,SK Austria Klagenfurt,1-1,0-1,Austria Lustenau
+1,Sat Jul 28 2018,20:00,WSG Wattens,6-1,3-1,SV Lafnitz
+1,Sun Jul 29 2018,10:30,SKU Amstetten,3-4,0-3,Floridsdorfer AC
+1,Sun Jul 29 2018,17:00,FC Juniors OÖ,0-3,0-2,FC Wacker Innsbruck II
+2,Fri Aug 3 2018,19:10,FC Blau Weiß Linz,3-1,2-0,SK Austria Klagenfurt
+2,Fri Aug 3 2018,19:10,FC Liefering,4-0,2-0,Vorwärts Steyr
+2,Fri Aug 3 2018,19:10,SV Lafnitz,1-2,0-0,FC Juniors OÖ
+2,Fri Aug 3 2018,20:20,Floridsdorfer AC,0-2,0-1,Kapfenberger SV
+2,Fri Aug 3 2018,19:10,Young Violets,4-3,3-1,SV Horn
+2,Sat Aug 4 2018,16:30,Austria Lustenau,1-1,0-1,SC Wiener Neustadt
+2,Sun Aug 5 2018,10:30,SV Ried,2-1,1-0,WSG Wattens
+2,Sun Aug 5 2018,14:30,FC Wacker Innsbruck II,0-0,0-0,SKU Amstetten
+3,Fri Aug 10 2018,19:10,FC Liefering,3-0,0-0,Young Violets
+3,Fri Aug 10 2018,19:10,SKU Amstetten,1-1,0-1,SV Lafnitz
+3,Fri Aug 10 2018,19:10,SV Horn,0-3,0-1,Austria Lustenau
+3,Sat Aug 11 2018,20:00,WSG Wattens,1-1,0-0,SK Austria Klagenfurt
+3,Sat Aug 11 2018,14:30,FC Wacker Innsbruck II,1-3,0-2,FC Blau Weiß Linz
+3,Sat Aug 11 2018,13:00,Kapfenberger SV,1-2,0-0,SV Ried
+3,Sun Aug 12 2018,10:30,Vorwärts Steyr,0-2,0-0,SC Wiener Neustadt
+3,Sun Aug 12 2018,17:00,FC Juniors OÖ,2-2,1-1,Floridsdorfer AC
+4,Fri Aug 17 2018,19:10,SV Ried,3-0,1-0,FC Liefering
+4,Fri Aug 17 2018,19:10,FC Blau Weiß Linz,1-2,0-2,SKU Amstetten
+4,Fri Aug 17 2018,19:10,SC Wiener Neustadt,0-0,0-0,Young Violets
+4,Fri Aug 17 2018,19:10,Floridsdorfer AC,0-2,0-2,WSG Wattens
+4,Fri Aug 17 2018,19:10,SK Austria Klagenfurt,0-1,0-0,FC Wacker Innsbruck II
+4,Sat Aug 18 2018,16:30,Austria Lustenau,2-0,1-0,FC Juniors OÖ
+4,Sun Aug 19 2018,14:30,Kapfenberger SV,3-1,1-0,Vorwärts Steyr
+4,Sun Aug 19 2018,10:30,SV Lafnitz,0-2,0-0,SV Horn
+5,Fri Aug 24 2018,19:10,WSG Wattens,1-0,0-0,FC Blau Weiß Linz
+5,Fri Aug 24 2018,19:10,FC Liefering,0-0,0-0,Kapfenberger SV
+5,Fri Aug 24 2018,19:10,Young Violets,1-3,0-1,SV Lafnitz
+5,Fri Aug 24 2018,19:10,Floridsdorfer AC,1-1,0-1,Austria Lustenau
+5,Fri Aug 24 2018,19:10,SV Horn,1-2,1-0,Vorwärts Steyr
+5,Sat Aug 25 2018,14:30,FC Wacker Innsbruck II,1-3,0-2,SC Wiener Neustadt
+5,Sun Aug 26 2018,10:30,SKU Amstetten,1-1,0-1,SV Ried
+5,Sun Aug 26 2018,17:00,FC Juniors OÖ,2-1,0-1,SK Austria Klagenfurt
+6,Fri Aug 31 2018,19:10,SV Ried,3-0,3-0,SV Horn
+6,Fri Aug 31 2018,19:10,Kapfenberger SV,2-2,2-0,WSG Wattens
+6,Fri Aug 31 2018,19:10,FC Blau Weiß Linz,5-1,3-0,Floridsdorfer AC
+6,Fri Aug 31 2018,19:10,SC Wiener Neustadt,1-0,0-0,FC Juniors OÖ
+6,Fri Aug 31 2018,19:10,SV Lafnitz,0-0,0-0,FC Wacker Innsbruck II
+6,Fri Aug 31 2018,19:10,Vorwärts Steyr,1-4,1-1,SKU Amstetten
+6,Sat Sep 1 2018,16:30,Austria Lustenau,1-0,1-0,FC Liefering
+6,Sun Sep 2 2018,10:30,SK Austria Klagenfurt,1-2,1-1,Young Violets
+7,Fri Sep 14 2018,19:10,SV Lafnitz,5-1,2-1,Kapfenberger SV
+7,Fri Sep 14 2018,19:10,FC Liefering,1-0,0-0,SKU Amstetten
+7,Fri Sep 14 2018,19:10,WSG Wattens,2-0,1-0,SC Wiener Neustadt
+7,Fri Sep 14 2018,19:10,Young Violets,2-1,0-1,FC Juniors OÖ
+7,Fri Sep 14 2018,19:10,SV Horn,0-1,0-1,SK Austria Klagenfurt
+7,Fri Sep 14 2018,19:10,Floridsdorfer AC,1-0,0-0,SV Ried
+7,Sat Sep 15 2018,14:30,FC Wacker Innsbruck II,1-0,0-0,Vorwärts Steyr
+7,Sun Sep 16 2018,10:30,FC Blau Weiß Linz,1-0,1-0,Austria Lustenau
+8,Fri Sep 21 2018,19:10,FC Wacker Innsbruck II,0-1,0-0,Floridsdorfer AC
+8,Fri Sep 21 2018,19:10,Kapfenberger SV,0-2,0-0,FC Blau Weiß Linz
+8,Fri Sep 21 2018,19:10,SV Ried,1-2,1-0,Young Violets
+8,Fri Sep 21 2018,19:10,SKU Amstetten,1-2,1-1,SV Horn
+8,Fri Sep 21 2018,19:10,SK Austria Klagenfurt,1-1,0-0,SC Wiener Neustadt
+8,Fri Sep 21 2018,19:10,Vorwärts Steyr,0-2,0-2,WSG Wattens
+8,Sat Sep 22 2018,16:30,Austria Lustenau,1-3,1-0,SV Lafnitz
+8,Sun Sep 23 2018,10:30,FC Juniors OÖ,0-3,0-2,FC Liefering
+9,Fri Sep 28 2018,19:10,SV Lafnitz,0-0,0-0,Vorwärts Steyr
+9,Fri Sep 28 2018,19:10,FC Blau Weiß Linz,2-1,2-0,FC Liefering
+9,Fri Sep 28 2018,19:10,WSG Wattens,1-1,1-1,FC Wacker Innsbruck II
+9,Fri Sep 28 2018,19:10,Young Violets,0-2,0-1,SKU Amstetten
+9,Fri Sep 28 2018,19:10,SV Horn,2-2,2-1,FC Juniors OÖ
+9,Fri Sep 28 2018,19:10,Floridsdorfer AC,1-2,0-1,SK Austria Klagenfurt
+9,Sat Sep 29 2018,16:30,Austria Lustenau,2-3,1-2,Kapfenberger SV
+9,Sun Sep 30 2018,10:30,SC Wiener Neustadt,0-3,0-0,SV Ried
+10,Fri Oct 5 2018,19:10,FC Liefering,1-2,0-0,SV Lafnitz
+10,Fri Oct 5 2018,19:10,Kapfenberger SV,3-1,0-1,SK Austria Klagenfurt
+10,Fri Oct 5 2018,19:10,SV Ried,1-0,1-0,FC Wacker Innsbruck II
+10,Fri Oct 5 2018,19:10,SKU Amstetten,2-3,1-1,SC Wiener Neustadt
+10,Fri Oct 5 2018,19:10,Young Violets,1-2,0-1,WSG Wattens
+10,Fri Oct 5 2018,19:10,SV Horn,1-3,1-1,Floridsdorfer AC
+10,Fri Oct 5 2018,19:10,Vorwärts Steyr,1-5,1-2,Austria Lustenau
+10,Sun Oct 7 2018,10:30,FC Juniors OÖ,3-2,1-2,FC Blau Weiß Linz
+11,Fri Oct 19 2018,19:10,Austria Lustenau,5-2,4-1,Young Violets
+11,Fri Oct 19 2018,19:10,WSG Wattens,4-1,1-1,FC Juniors OÖ
+11,Fri Oct 19 2018,19:10,FC Blau Weiß Linz,1-1,0-0,SV Horn
+11,Fri Oct 19 2018,19:10,SC Wiener Neustadt,2-1,0-0,FC Liefering
+11,Fri Oct 19 2018,19:10,SV Lafnitz,0-0,0-0,SV Ried
+11,Fri Oct 19 2018,19:10,SK Austria Klagenfurt,2-2,0-2,SKU Amstetten
+11,Sat Oct 20 2018,14:30,FC Wacker Innsbruck II,3-0,1-0,Kapfenberger SV
+11,Sun Oct 21 2018,10:30,Floridsdorfer AC,1-2,1-1,Vorwärts Steyr
+12,Fri Oct 26 2018,19:10,SKU Amstetten,0-2,0-1,WSG Wattens
+12,Fri Oct 26 2018,19:10,SV Lafnitz,1-1,0-1,SK Austria Klagenfurt
+12,Fri Oct 26 2018,19:10,Young Violets,3-6,1-1,FC Blau Weiß Linz
+12,Fri Oct 26 2018,19:10,Vorwärts Steyr,2-1,1-0,FC Juniors OÖ
+12,Fri Oct 26 2018,19:10,SV Horn,1-1,0-0,FC Wacker Innsbruck II
+12,Sat Oct 27 2018,14:30,FC Liefering,1-3,0-0,Floridsdorfer AC
+12,Sat Oct 27 2018,20:20,Kapfenberger SV,2-0,1-0,SC Wiener Neustadt
+12,Sun Oct 28 2018,10:30,SV Ried,1-0,0-0,Austria Lustenau
+13,Fri Nov 2 2018,19:10,WSG Wattens,4-0,2-0,FC Liefering
+13,Fri Nov 2 2018,19:10,FC Blau Weiß Linz,2-0,1-0,Vorwärts Steyr
+13,Sat Nov 3 2018,14:00,Floridsdorfer AC,0-0,0-0,SV Lafnitz
+13,Sat Nov 3 2018,14:30,FC Wacker Innsbruck II,0-0,0-0,Young Violets
+13,Sat Nov 3 2018,14:30,SK Austria Klagenfurt,0-0,0-0,SV Ried
+13,Sat Nov 3 2018,16:30,Austria Lustenau,3-1,0-0,SKU Amstetten
+13,Sun Nov 4 2018,10:30,SC Wiener Neustadt,3-1,1-0,SV Horn
+13,Sun Nov 4 2018,16:00,FC Juniors OÖ,4-0,2-0,Kapfenberger SV
+14,Fri Nov 9 2018,19:10,SV Lafnitz,1-1,1-1,SC Wiener Neustadt
+14,Fri Nov 9 2018,19:10,FC Liefering,4-1,2-1,FC Wacker Innsbruck II
+14,Fri Nov 9 2018,19:10,SKU Amstetten,2-3,1-1,FC Juniors OÖ
+14,Fri Nov 9 2018,19:10,SV Horn,2-2,1-1,Kapfenberger SV
+14,Fri Nov 9 2018,20:30,SV Ried,1-3,0-1,FC Blau Weiß Linz
+14,Fri Nov 9 2018,19:10,Floridsdorfer AC,0-0,0-0,Young Violets
+14,Sat Nov 10 2018,14:30,Vorwärts Steyr,2-1,2-1,SK Austria Klagenfurt
+14,Sun Nov 11 2018,10:30,Austria Lustenau,1-1,0-0,WSG Wattens
+15,Fri Nov 23 2018,19:10,Kapfenberger SV,2-0,0-0,SKU Amstetten
+15,Fri Nov 23 2018,19:10,Young Violets,4-2,2-1,Vorwärts Steyr
+15,Fri Nov 23 2018,19:10,FC Wacker Innsbruck II,0-0,0-0,Austria Lustenau
+15,Sat Nov 24 2018,14:30,WSG Wattens,1-0,1-0,SV Horn
+15,Sat Nov 24 2018,14:30,SK Austria Klagenfurt,3-0,3-0,FC Liefering
+15,Sat Nov 24 2018,14:30,FC Blau Weiß Linz,0-1,0-1,SV Lafnitz
+15,Sun Nov 25 2018,10:30,SC Wiener Neustadt,0-0,0-0,Floridsdorfer AC
+15,Sun Nov 25 2018,10:30,FC Juniors OÖ,0-1,0-0,SV Ried
+16,Fri Feb 22 2019,19:10,Floridsdorfer AC,2-0,0-0,SKU Amstetten
+16,Fri Feb 22 2019,19:10,FC Liefering,4-0,2-0,SV Horn
+16,Fri Feb 22 2019,19:10,Young Violets,1-3,1-0,Kapfenberger SV
+16,Fri Feb 22 2019,19:10,FC Blau Weiß Linz,0-2,0-2,SC Wiener Neustadt
+16,Sat Feb 23 2019,14:30,FC Wacker Innsbruck II,3-1,1-0,FC Juniors OÖ
+16,Sat Feb 23 2019,16:30,Austria Lustenau,1-1,0-1,SK Austria Klagenfurt
+16,Sun Feb 24 2019,10:30,SV Ried,1-1,0-1,Vorwärts Steyr
+17,Fri Mar 1 2019,19:10,Vorwärts Steyr,2-2,0-1,FC Liefering
+17,Fri Mar 1 2019,19:10,WSG Wattens,0-3,0-2,SV Ried
+17,Fri Mar 1 2019,19:10,Kapfenberger SV,0-1,0-0,Floridsdorfer AC
+17,Fri Mar 1 2019,19:10,SKU Amstetten,0-0,0-0,FC Wacker Innsbruck II
+17,Fri Mar 1 2019,19:10,SV Horn,2-1,1-0,Young Violets
+17,Sat Mar 2 2019,14:30,FC Juniors OÖ,2-1,1-0,SV Lafnitz
+17,Sat Mar 2 2019,14:30,SC Wiener Neustadt,1-0,1-0,Austria Lustenau
+17,Sun Mar 3 2019,10:30,SK Austria Klagenfurt,5-0,1-0,FC Blau Weiß Linz
+16,Tue Mar 5 2019,19:10,SV Lafnitz,1-1,1-0,WSG Wattens
+18,Fri Mar 8 2019,19:10,SV Ried,0-0,0-0,Kapfenberger SV
+18,Fri Mar 8 2019,19:10,SV Lafnitz,0-1,0-1,SKU Amstetten
+18,Fri Mar 8 2019,19:10,SK Austria Klagenfurt,1-1,0-0,WSG Wattens
+18,Fri Mar 8 2019,19:10,Floridsdorfer AC,0-1,0-0,FC Juniors OÖ
+18,Fri Mar 8 2019,19:10,Young Violets,1-1,1-0,FC Liefering
+18,Sat Mar 9 2019,14:30,FC Blau Weiß Linz,0-2,0-0,FC Wacker Innsbruck II
+18,Sat Mar 9 2019,14:30,SC Wiener Neustadt,2-1,2-0,Vorwärts Steyr
+18,Sun Mar 10 2019,10:30,Austria Lustenau,2-1,1-0,SV Horn
+19,Fri Mar 15 2019,19:10,FC Wacker Innsbruck II,2-2,1-1,SK Austria Klagenfurt
+19,Fri Mar 15 2019,19:10,FC Liefering,2-6,2-1,SV Ried
+19,Fri Mar 15 2019,19:10,SKU Amstetten,2-0,2-0,FC Blau Weiß Linz
+19,Fri Mar 15 2019,19:10,FC Juniors OÖ,4-2,2-0,Austria Lustenau
+19,Fri Mar 15 2019,19:10,SV Horn,2-0,0-0,SV Lafnitz
+19,Fri Mar 15 2019,19:10,Young Violets,3-1,2-0,SC Wiener Neustadt
+19,Sun Mar 17 2019,10:30,WSG Wattens,5-1,3-1,Floridsdorfer AC
+20,Fri Mar 29 2019,19:10,Kapfenberger SV,0-3,0-0,FC Liefering
+20,Fri Mar 29 2019,19:10,Vorwärts Steyr,1-1,0-0,SV Horn
+20,Fri Mar 29 2019,19:10,SK Austria Klagenfurt,2-0,1-0,FC Juniors OÖ
+20,Fri Mar 29 2019,19:10,SV Lafnitz,2-0,0-0,Young Violets
+20,Fri Mar 29 2019,19:10,FC Blau Weiß Linz,1-1,1-1,WSG Wattens
+20,Sat Mar 30 2019,16:30,Austria Lustenau,0-0,0-0,Floridsdorfer AC
+20,Sat Mar 30 2019,14:30,SC Wiener Neustadt,1-2,0-1,FC Wacker Innsbruck II
+20,Sun Mar 31 2019,10:30,SV Ried,2-0,1-0,SKU Amstetten
+19,Tue Apr 2 2019,19:10,Vorwärts Steyr,1-1,0-0,Kapfenberger SV
+21,Fri Apr 5 2019,19:10,WSG Wattens,2-1,1-1,Kapfenberger SV
+21,Fri Apr 5 2019,19:10,FC Liefering,1-2,1-1,Austria Lustenau
+21,Fri Apr 5 2019,19:10,FC Juniors OÖ,2-1,1-0,SC Wiener Neustadt
+21,Fri Apr 5 2019,19:10,Young Violets,1-1,0-1,SK Austria Klagenfurt
+21,Fri Apr 5 2019,19:10,Floridsdorfer AC,0-2,0-1,FC Blau Weiß Linz
+21,Fri Apr 5 2019,19:10,SV Horn,0-5,0-2,SV Ried
+21,Sun Apr 7 2019,10:30,SKU Amstetten,4-0,4-0,Vorwärts Steyr
+21,Sun Apr 7 2019,14:30,FC Wacker Innsbruck II,1-0,1-0,SV Lafnitz
+22,Fri Apr 12 2019,19:10,FC Juniors OÖ,4-0,4-0,Young Violets
+22,Fri Apr 12 2019,19:10,SV Ried,3-0,1-0,Floridsdorfer AC
+22,Fri Apr 12 2019,19:10,SC Wiener Neustadt,0-0,0-0,WSG Wattens
+22,Fri Apr 12 2019,19:10,SKU Amstetten,2-1,2-1,FC Liefering
+22,Fri Apr 12 2019,19:10,SK Austria Klagenfurt,2-2,1-2,SV Horn
+22,Fri Apr 12 2019,19:10,Kapfenberger SV,3-2,1-2,SV Lafnitz
+22,Sat Apr 13 2019,16:30,Austria Lustenau,2-0,0-0,FC Blau Weiß Linz
+22,Sun Apr 14 2019,10:30,Vorwärts Steyr,3-4,1-3,FC Wacker Innsbruck II
+23,Fri Apr 19 2019,19:10,SV Lafnitz,2-3,1-0,Austria Lustenau
+23,Fri Apr 19 2019,19:10,FC Liefering,5-1,2-1,FC Juniors OÖ
+23,Fri Apr 19 2019,19:10,FC Blau Weiß Linz,0-2,0-0,Kapfenberger SV
+23,Fri Apr 19 2019,19:10,SV Horn,2-0,1-0,SKU Amstetten
+23,Fri Apr 19 2019,19:10,Floridsdorfer AC,2-2,1-1,FC Wacker Innsbruck II
+23,Fri Apr 19 2019,20:30,Young Violets,3-3,1-1,SV Ried
+23,Sat Apr 20 2019,14:30,SC Wiener Neustadt,1-3,1-1,SK Austria Klagenfurt
+23,Sun Apr 21 2019,10:30,WSG Wattens,2-0,2-0,Vorwärts Steyr
+24,Fri Apr 26 2019,19:10,SV Ried,7-0,2-0,SC Wiener Neustadt
+24,Fri Apr 26 2019,19:10,Kapfenberger SV,2-0,1-0,Austria Lustenau
+24,Fri Apr 26 2019,19:10,FC Liefering,2-4,1-2,FC Blau Weiß Linz
+24,Fri Apr 26 2019,19:10,SKU Amstetten,1-1,0-0,Young Violets
+24,Fri Apr 26 2019,19:10,SK Austria Klagenfurt,1-1,0-1,Floridsdorfer AC
+24,Fri Apr 26 2019,19:10,FC Juniors OÖ,6-1,3-0,SV Horn
+24,Fri Apr 26 2019,19:10,Vorwärts Steyr,0-3,0-1,SV Lafnitz
+24,Sun Apr 28 2019,10:30,FC Wacker Innsbruck II,3-2,1-1,WSG Wattens
+25,Fri May 3 2019,19:10,WSG Wattens,2-1,1-1,Young Violets
+25,Fri May 3 2019,19:10,FC Wacker Innsbruck II,3-4,2-2,SV Ried
+25,Fri May 3 2019,19:10,Floridsdorfer AC,1-0,1-0,SV Horn
+25,Fri May 3 2019,19:10,SK Austria Klagenfurt,1-0,0-0,Kapfenberger SV
+25,Fri May 3 2019,19:10,SV Lafnitz,2-3,1-3,FC Liefering
+25,Sat May 4 2019,14:30,SC Wiener Neustadt,1-0,0-0,SKU Amstetten
+25,Sat May 4 2019,16:30,Austria Lustenau,2-0,0-0,Vorwärts Steyr
+25,Sun May 5 2019,10:30,FC Blau Weiß Linz,0-2,0-2,FC Juniors OÖ
+26,Fri May 10 2019,19:10,FC Liefering,2-5,1-2,SC Wiener Neustadt
+26,Fri May 10 2019,19:10,Kapfenberger SV,4-1,2-1,FC Wacker Innsbruck II
+26,Fri May 10 2019,18:00,FC Juniors OÖ,1-2,1-2,WSG Wattens
+26,Fri May 10 2019,19:10,Young Violets,2-5,2-2,Austria Lustenau
+26,Fri May 10 2019,19:10,Vorwärts Steyr,3-2,2-1,Floridsdorfer AC
+26,Fri May 10 2019,19:10,SV Horn,3-0,1-0,FC Blau Weiß Linz
+26,Sat May 11 2019,14:30,SV Ried,2-0,0-0,SV Lafnitz
+26,Sun May 12 2019,10:30,SKU Amstetten,3-1,2-1,SK Austria Klagenfurt
+27,Fri May 17 2019,19:10,SC Wiener Neustadt,0-0,0-0,Kapfenberger SV
+27,Fri May 17 2019,19:10,FC Blau Weiß Linz,0-5,0-3,Young Violets
+27,Fri May 17 2019,19:10,Austria Lustenau,0-0,0-0,SV Ried
+27,Fri May 17 2019,19:10,Floridsdorfer AC,3-0,3-0,FC Liefering
+27,Fri May 17 2019,19:10,SK Austria Klagenfurt,2-0,2-0,SV Lafnitz
+27,Fri May 17 2019,19:10,FC Juniors OÖ,4-1,1-0,Vorwärts Steyr
+27,Fri May 17 2019,19:10,FC Wacker Innsbruck II,1-1,0-0,SV Horn
+27,Sun May 19 2019,10:30,WSG Wattens,3-1,1-1,SKU Amstetten
+28,Fri May 24 2019,19:10,Kapfenberger SV,1-1,1-1,FC Juniors OÖ
+28,Fri May 24 2019,19:10,FC Liefering,1-2,1-0,WSG Wattens
+28,Fri May 24 2019,19:10,SV Lafnitz,1-0,1-0,Floridsdorfer AC
+28,Fri May 24 2019,19:10,SV Horn,0-4,0-3,SC Wiener Neustadt
+28,Fri May 24 2019,19:10,Young Violets,2-1,1-0,FC Wacker Innsbruck II
+28,Fri May 24 2019,19:10,SKU Amstetten,2-3,0-2,Austria Lustenau
+28,Sun May 26 2019,10:30,SV Ried,1-1,0-0,SK Austria Klagenfurt
+28,Sun May 26 2019,10:30,Vorwärts Steyr,2-3,1-1,FC Blau Weiß Linz
+29,Wed May 29 2019,19:10,WSG Wattens,1-0,0-0,Austria Lustenau
+29,Wed May 29 2019,19:10,Kapfenberger SV,3-0,0-0,SV Horn
+29,Wed May 29 2019,19:10,FC Blau Weiß Linz,0-1,0-0,SV Ried
+29,Wed May 29 2019,19:10,Young Violets,1-2,1-1,Floridsdorfer AC
+29,Wed May 29 2019,19:10,FC Wacker Innsbruck II,1-1,0-1,FC Liefering
+29,Wed May 29 2019,19:10,SK Austria Klagenfurt,2-1,2-0,Vorwärts Steyr
+29,Wed May 29 2019,19:10,FC Juniors OÖ,1-5,1-0,SKU Amstetten
+29,Wed May 29 2019,19:10,SC Wiener Neustadt,2-2,0-2,SV Lafnitz
+30,Sat Jun 1 2019,17:00,SV Ried,3-1,2-0,FC Juniors OÖ
+30,Sat Jun 1 2019,17:00,Austria Lustenau,7-1,5-0,FC Wacker Innsbruck II
+30,Sat Jun 1 2019,17:00,FC Liefering,1-1,1-1,SK Austria Klagenfurt
+30,Sat Jun 1 2019,17:00,SV Lafnitz,1-3,1-2,FC Blau Weiß Linz
+30,Sat Jun 1 2019,17:00,SKU Amstetten,3-0,2-0,Kapfenberger SV
+30,Sat Jun 1 2019,17:00,Vorwärts Steyr,2-3,1-2,Young Violets
+30,Sat Jun 1 2019,17:00,SV Horn,1-3,1-2,WSG Wattens
+30,Sat Jun 1 2019,17:00,Floridsdorfer AC,2-1,1-0,SC Wiener Neustadt

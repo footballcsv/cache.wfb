@@ -1,0 +1,381 @@
+Round,Date,Time,Team 1,FT,HT,Team 2,Comments
+1,Fri Jul 26 2019,20:00,AC Ajaccio,2-2,1-0,Le Havre AC,
+1,Fri Jul 26 2019,20:00,AS Nancy,0-0,0-0,US Orléans,
+1,Fri Jul 26 2019,20:00,Clermont Foot,3-0,1-0,LB Châteauroux,
+1,Fri Jul 26 2019,20:00,EA Guingamp,3-3,2-0,Grenoble Foot 38,
+1,Fri Jul 26 2019,20:00,FC Chambly,1-0,0-0,Valenciennes FC,
+1,Fri Jul 26 2019,20:00,Chamois Niortais,0-2,0-1,ESTAC Troyes,
+1,Fri Jul 26 2019,20:00,FC Sochaux,0-0,0-0,SM Caen,
+1,Fri Jul 26 2019,20:00,Rodez AF,2-0,2-0,AJ Auxerre,
+1,Sat Jul 27 2019,15:00,Le Mans FC,1-2,1-0,RC Lens,
+1,Mon Jul 29 2019,20:45,FC Lorient,3-0,1-0,Paris FC,
+2,Fri Aug 2 2019,20:00,Le Havre AC,1-1,0-1,Chamois Niortais,
+2,Fri Aug 2 2019,20:00,AJ Auxerre,2-0,0-0,Le Mans FC,
+2,Fri Aug 2 2019,20:00,ESTAC Troyes,1-2,1-0,Clermont Foot,
+2,Fri Aug 2 2019,20:00,Paris FC,1-1,1-0,FC Sochaux,
+2,Fri Aug 2 2019,20:00,Valenciennes FC,1-1,1-0,AS Nancy,
+2,Fri Aug 2 2019,20:00,Grenoble Foot 38,0-1,0-0,AC Ajaccio,
+2,Fri Aug 2 2019,20:00,LB Châteauroux,0-0,0-0,Rodez AF,
+2,Fri Aug 2 2019,20:00,US Orléans,0-1,0-1,FC Chambly,
+2,Sat Aug 3 2019,16:30,RC Lens,2-0,0-0,EA Guingamp,
+2,Mon Aug 5 2019,20:45,SM Caen,1-2,0-2,FC Lorient,
+3,Fri Aug 9 2019,20:00,AC Ajaccio,1-2,0-2,SM Caen,
+3,Fri Aug 9 2019,20:00,AS Nancy,1-1,0-0,FC Lorient,
+3,Fri Aug 9 2019,20:00,EA Guingamp,1-0,1-0,US Orléans,
+3,Fri Aug 9 2019,20:00,ESTAC Troyes,1-2,0-1,Le Havre AC,
+3,Fri Aug 9 2019,20:00,FC Chambly,0-0,0-0,Grenoble Foot 38,
+3,Fri Aug 9 2019,20:00,Chamois Niortais,3-0,1-0,LB Châteauroux,
+3,Fri Aug 9 2019,20:00,FC Sochaux,1-0,0-0,AJ Auxerre,
+3,Fri Aug 9 2019,20:00,Le Mans FC,1-2,0-0,Valenciennes FC,
+3,Fri Aug 9 2019,20:00,Rodez AF,2-1,1-1,Paris FC,
+3,Sat Aug 10 2019,15:00,Clermont Foot,1-1,0-0,RC Lens,
+4,Fri Aug 16 2019,20:00,AS Nancy,2-1,1-0,Le Mans FC,
+4,Fri Aug 16 2019,20:00,FC Lorient,1-0,0-0,FC Sochaux,
+4,Fri Aug 16 2019,20:00,Paris FC,0-1,0-0,Chamois Niortais,
+4,Fri Aug 16 2019,20:00,Valenciennes FC,1-0,0-0,Rodez AF,
+4,Fri Aug 16 2019,20:00,Grenoble Foot 38,1-1,0-0,ESTAC Troyes,
+4,Fri Aug 16 2019,20:00,LB Châteauroux,0-1,0-1,AC Ajaccio,
+4,Fri Aug 16 2019,20:00,SM Caen,0-0,0-0,FC Chambly,
+4,Fri Aug 16 2019,20:00,US Orléans,0-1,0-1,Clermont Foot,
+4,Sat Aug 17 2019,15:00,RC Lens,1-3,0-0,Le Havre AC,
+4,Mon Aug 19 2019,20:45,AJ Auxerre,2-2,0-2,EA Guingamp,
+5,Fri Aug 23 2019,20:00,AC Ajaccio,1-0,0-0,Paris FC,
+5,Fri Aug 23 2019,20:00,Le Havre AC,3-1,2-1,Grenoble Foot 38,
+5,Fri Aug 23 2019,20:00,Clermont Foot,1-1,1-0,AJ Auxerre,
+5,Fri Aug 23 2019,20:00,FC Chambly,0-0,0-0,LB Châteauroux,
+5,Fri Aug 23 2019,20:00,Chamois Niortais,1-1,0-1,SM Caen,
+5,Fri Aug 23 2019,20:00,FC Sochaux,3-0,1-0,AS Nancy,
+5,Fri Aug 23 2019,20:00,Le Mans FC,1-2,0-2,FC Lorient,
+5,Fri Aug 23 2019,20:00,Rodez AF,3-3,1-1,US Orléans,
+5,Sat Aug 24 2019,15:00,ESTAC Troyes,2-0,1-0,RC Lens,
+5,Mon Aug 26 2019,20:45,EA Guingamp,0-1,0-1,Valenciennes FC,
+6,Fri Aug 30 2019,20:00,AJ Auxerre,3-1,0-0,AC Ajaccio,
+6,Fri Aug 30 2019,20:00,AS Nancy,1-1,0-1,Rodez AF,
+6,Fri Aug 30 2019,20:00,Valenciennes FC,1-0,0-0,Clermont Foot,
+6,Fri Aug 30 2019,20:00,LB Châteauroux,0-1,0-1,ESTAC Troyes,
+6,Fri Aug 30 2019,20:00,Le Mans FC,2-0,1-0,FC Sochaux,
+6,Fri Aug 30 2019,20:00,SM Caen,0-3,0-1,Le Havre AC,
+6,Fri Aug 30 2019,20:00,US Orléans,0-1,0-0,Chamois Niortais,
+6,Sat Aug 31 2019,15:00,FC Lorient,0-1,0-0,EA Guingamp,
+6,Mon Sep 2 2019,19:00,Paris FC,0-3,0-2,FC Chambly,
+6,Mon Sep 2 2019,20:45,Grenoble Foot 38,2-2,1-1,RC Lens,
+7,Fri Sep 13 2019,20:00,AC Ajaccio,0-0,0-0,US Orléans,
+7,Fri Sep 13 2019,20:00,Le Havre AC,0-0,0-0,Paris FC,
+7,Fri Sep 13 2019,20:00,EA Guingamp,1-1,1-1,AS Nancy,
+7,Fri Sep 13 2019,20:00,ESTAC Troyes,2-1,1-0,SM Caen,
+7,Fri Sep 13 2019,20:00,FC Chambly,1-4,0-0,AJ Auxerre,
+7,Fri Sep 13 2019,20:00,Chamois Niortais,0-1,0-0,Grenoble Foot 38,
+7,Fri Sep 13 2019,20:00,FC Sochaux,0-0,0-0,Valenciennes FC,
+7,Fri Sep 13 2019,20:00,Rodez AF,4-1,2-0,Le Mans FC,
+7,Sat Sep 14 2019,14:45,Clermont Foot,0-2,0-2,FC Lorient,
+7,Mon Sep 16 2019,20:45,RC Lens,1-0,0-0,LB Châteauroux,
+8,Fri Sep 20 2019,20:00,AJ Auxerre,1-2,1-1,ESTAC Troyes,
+8,Fri Sep 20 2019,20:00,AS Nancy,3-0,1-0,FC Chambly,
+8,Fri Sep 20 2019,20:00,Paris FC,0-2,0-2,Clermont Foot,
+8,Fri Sep 20 2019,20:00,FC Sochaux,3-1,2-1,EA Guingamp,
+8,Fri Sep 20 2019,20:00,Valenciennes FC,1-1,1-1,Chamois Niortais,
+8,Fri Sep 20 2019,20:00,LB Châteauroux,1-1,1-0,Grenoble Foot 38,
+8,Fri Sep 20 2019,20:00,Le Mans FC,2-4,0-0,AC Ajaccio,
+8,Fri Sep 20 2019,20:00,US Orléans,2-2,1-1,Le Havre AC,
+8,Sat Sep 21 2019,15:00,SM Caen,0-2,0-1,RC Lens,
+8,Mon Sep 23 2019,20:45,FC Lorient,2-1,0-0,Rodez AF,
+9,Fri Sep 27 2019,20:00,AC Ajaccio,2-0,2-0,Valenciennes FC,
+9,Fri Sep 27 2019,20:00,Le Havre AC,0-1,0-0,LB Châteauroux,
+9,Fri Sep 27 2019,20:00,Clermont Foot,2-2,2-2,AS Nancy,
+9,Fri Sep 27 2019,20:00,ESTAC Troyes,1-2,1-1,US Orléans,
+9,Fri Sep 27 2019,20:00,FC Chambly,0-1,0-0,FC Lorient,
+9,Fri Sep 27 2019,20:00,Chamois Niortais,2-2,1-0,AJ Auxerre,
+9,Fri Sep 27 2019,20:00,Grenoble Foot 38,1-0,1-0,SM Caen,
+9,Fri Sep 27 2019,20:00,Rodez AF,0-2,0-1,FC Sochaux,
+9,Sat Sep 28 2019,14:45,RC Lens,2-1,2-0,Paris FC,
+9,Mon Sep 30 2019,20:45,EA Guingamp,3-0,1-0,Le Mans FC,
+10,Fri Oct 4 2019,20:00,AS Nancy,2-1,0-1,Chamois Niortais,
+10,Fri Oct 4 2019,20:00,EA Guingamp,4-1,2-1,Rodez AF,
+10,Fri Oct 4 2019,20:00,FC Lorient,0-0,0-0,AC Ajaccio,
+10,Fri Oct 4 2019,20:00,Paris FC,1-0,1-0,ESTAC Troyes,
+10,Fri Oct 4 2019,20:00,FC Sochaux,4-0,1-0,Clermont Foot,
+10,Fri Oct 4 2019,20:00,Valenciennes FC,0-2,0-1,Grenoble Foot 38,
+10,Fri Oct 4 2019,20:00,Le Mans FC,1-0,0-0,FC Chambly,
+10,Fri Oct 4 2019,20:00,SM Caen,1-1,0-0,LB Châteauroux,
+10,Sat Oct 5 2019,14:45,AJ Auxerre,2-0,2-0,Le Havre AC,
+10,Mon Oct 7 2019,20:45,US Orléans,1-4,1-0,RC Lens,
+11,Fri Oct 18 2019,20:00,AC Ajaccio,0-0,0-0,AS Nancy,
+11,Fri Oct 18 2019,20:00,Clermont Foot,0-1,0-0,Rodez AF,
+11,Fri Oct 18 2019,20:00,ESTAC Troyes,2-1,1-1,Le Mans FC,
+11,Fri Oct 18 2019,20:00,FC Chambly,0-0,0-0,FC Sochaux,
+11,Fri Oct 18 2019,20:00,Chamois Niortais,0-0,0-0,EA Guingamp,
+11,Fri Oct 18 2019,20:00,Grenoble Foot 38,0-0,0-0,US Orléans,
+11,Fri Oct 18 2019,20:00,LB Châteauroux,0-1,0-1,Paris FC,
+11,Fri Oct 18 2019,20:00,SM Caen,0-0,0-0,Valenciennes FC,
+11,Sat Oct 19 2019,15:00,Le Havre AC,2-2,1-2,FC Lorient,
+11,Mon Oct 21 2019,20:45,RC Lens,0-0,0-0,AJ Auxerre,
+12,Fri Oct 25 2019,20:00,AJ Auxerre,0-1,0-1,Grenoble Foot 38,
+12,Fri Oct 25 2019,20:00,AS Nancy,0-0,0-0,RC Lens,
+12,Fri Oct 25 2019,20:00,EA Guingamp,1-2,0-2,Clermont Foot,
+12,Fri Oct 25 2019,20:00,Paris FC,2-4,0-1,SM Caen,
+12,Fri Oct 25 2019,20:00,FC Sochaux,0-2,0-1,AC Ajaccio,
+12,Fri Oct 25 2019,20:00,Le Mans FC,1-0,0-0,Chamois Niortais,
+12,Fri Oct 25 2019,20:00,US Orléans,1-1,1-0,LB Châteauroux,
+12,Fri Oct 25 2019,20:30,Rodez AF,2-0,1-0,FC Chambly,
+12,Sat Oct 26 2019,15:00,FC Lorient,0-1,0-0,ESTAC Troyes,
+12,Mon Oct 28 2019,20:45,Valenciennes FC,0-0,0-0,Le Havre AC,
+13,Fri Nov 1 2019,20:00,AC Ajaccio,1-0,0-0,Rodez AF,
+13,Fri Nov 1 2019,20:00,ESTAC Troyes,1-0,0-0,Valenciennes FC,
+13,Fri Nov 1 2019,20:00,FC Chambly,1-5,1-2,EA Guingamp,
+13,Fri Nov 1 2019,20:00,LB Châteauroux,1-0,0-0,AJ Auxerre,
+13,Fri Nov 1 2019,20:00,SM Caen,2-1,1-0,US Orléans,
+13,Sat Nov 2 2019,15:00,Clermont Foot,0-1,0-1,Le Mans FC,
+13,Sat Nov 2 2019,15:00,Chamois Niortais,0-2,0-0,FC Sochaux,
+13,Sat Nov 2 2019,15:00,Grenoble Foot 38,0-0,0-0,Paris FC,
+13,Sat Nov 2 2019,15:00,RC Lens,1-0,0-0,FC Lorient,
+13,Mon Nov 4 2019,20:45,Le Havre AC,1-1,1-0,AS Nancy,
+14,Fri Nov 8 2019,20:00,AJ Auxerre,1-1,0-0,SM Caen,
+14,Fri Nov 8 2019,20:00,AS Nancy,0-0,0-0,ESTAC Troyes,
+14,Fri Nov 8 2019,20:00,FC Chambly,0-1,0-0,Clermont Foot,
+14,Fri Nov 8 2019,20:00,FC Lorient,4-1,4-1,Chamois Niortais,
+14,Fri Nov 8 2019,20:00,FC Sochaux,2-0,1-0,Le Havre AC,
+14,Fri Nov 8 2019,20:00,Valenciennes FC,0-1,0-0,LB Châteauroux,
+14,Fri Nov 8 2019,20:00,Le Mans FC,0-0,0-0,Grenoble Foot 38,
+14,Fri Nov 8 2019,20:00,US Orléans,0-1,0-1,Paris FC,
+14,Sat Nov 9 2019,14:45,EA Guingamp,1-1,0-1,AC Ajaccio,
+14,Mon Nov 11 2019,20:45,Rodez AF,1-2,1-1,RC Lens,
+15,Fri Nov 22 2019,20:00,AC Ajaccio,1-1,1-0,Clermont Foot,
+15,Fri Nov 22 2019,20:00,ESTAC Troyes,0-4,0-2,FC Chambly,
+15,Fri Nov 22 2019,20:00,Chamois Niortais,2-1,0-0,Rodez AF,
+15,Fri Nov 22 2019,20:00,Paris FC,2-0,0-0,AJ Auxerre,
+15,Fri Nov 22 2019,20:00,Grenoble Foot 38,1-1,0-0,AS Nancy,
+15,Fri Nov 22 2019,20:00,LB Châteauroux,1-3,1-0,FC Lorient,
+15,Fri Nov 22 2019,20:00,SM Caen,3-3,2-1,Le Mans FC,
+15,Fri Nov 22 2019,20:00,US Orléans,0-1,0-1,Valenciennes FC,
+15,Sat Nov 23 2019,15:00,RC Lens,4-0,2-0,FC Sochaux,
+15,Mon Nov 25 2019,20:45,Le Havre AC,4-0,0-0,EA Guingamp,
+16,Fri Nov 29 2019,20:00,AJ Auxerre,2-2,1-1,US Orléans,
+16,Fri Nov 29 2019,20:00,AS Nancy,2-0,1-0,Paris FC,
+16,Fri Nov 29 2019,20:00,Clermont Foot,1-0,1-0,Chamois Niortais,
+16,Fri Nov 29 2019,20:00,EA Guingamp,1-1,1-0,SM Caen,
+16,Fri Nov 29 2019,20:00,FC Chambly,0-2,0-1,AC Ajaccio,
+16,Fri Nov 29 2019,20:00,FC Lorient,2-1,2-0,Grenoble Foot 38,
+16,Fri Nov 29 2019,20:00,Valenciennes FC,2-0,1-0,RC Lens,
+16,Fri Nov 29 2019,20:00,Le Mans FC,1-2,1-0,LB Châteauroux,
+16,Fri Nov 29 2019,20:00,Rodez AF,1-2,1-0,Le Havre AC,
+16,Sat Nov 30 2019,14:30,FC Sochaux,0-1,0-0,ESTAC Troyes,
+17,Mon Dec 2 2019,20:45,SM Caen,1-0,0-0,AS Nancy,
+17,Tue Dec 3 2019,21:05,Le Havre AC,2-0,1-0,Le Mans FC,
+17,Tue Dec 3 2019,21:05,AJ Auxerre,1-1,1-0,Valenciennes FC,
+17,Tue Dec 3 2019,21:05,ESTAC Troyes,1-0,1-0,Rodez AF,
+17,Tue Dec 3 2019,21:05,Chamois Niortais,0-1,0-1,AC Ajaccio,
+17,Tue Dec 3 2019,21:05,Paris FC,0-3,0-1,EA Guingamp,
+17,Tue Dec 3 2019,21:05,Grenoble Foot 38,1-1,1-0,Clermont Foot,
+17,Tue Dec 3 2019,21:05,LB Châteauroux,1-1,0-1,FC Sochaux,
+17,Tue Dec 3 2019,21:05,RC Lens,3-0,1-0,FC Chambly,
+17,Tue Dec 3 2019,21:05,US Orléans,0-4,0-2,FC Lorient,
+18,Fri Dec 13 2019,20:00,AS Nancy,2-1,0-1,LB Châteauroux,
+18,Fri Dec 13 2019,20:00,Clermont Foot,2-1,1-1,Le Havre AC,
+18,Fri Dec 13 2019,20:00,FC Chambly,3-2,2-2,Chamois Niortais,
+18,Fri Dec 13 2019,20:00,FC Lorient,1-0,0-0,AJ Auxerre,
+18,Fri Dec 13 2019,20:00,FC Sochaux,1-1,0-0,Grenoble Foot 38,
+18,Fri Dec 13 2019,20:00,Valenciennes FC,1-0,0-0,Paris FC,
+18,Fri Dec 13 2019,20:00,Le Mans FC,3-2,1-2,US Orléans,
+18,Fri Dec 13 2019,20:00,Rodez AF,2-1,0-0,SM Caen,
+18,Sat Dec 14 2019,16:00,AC Ajaccio,1-2,1-0,RC Lens,
+18,Mon Dec 16 2019,20:45,EA Guingamp,0-1,0-0,ESTAC Troyes,
+19,Fri Dec 20 2019,20:00,Le Havre AC,1-1,1-1,FC Chambly,
+19,Fri Dec 20 2019,20:00,AJ Auxerre,0-0,0-0,AS Nancy,
+19,Fri Dec 20 2019,20:00,Valenciennes FC,3-0,1-0,FC Lorient,
+19,Fri Dec 20 2019,20:00,Grenoble Foot 38,2-1,1-0,Rodez AF,
+19,Fri Dec 20 2019,20:00,LB Châteauroux,1-5,0-2,EA Guingamp,
+19,Fri Dec 20 2019,20:00,SM Caen,0-0,0-0,Clermont Foot,
+19,Fri Dec 20 2019,20:00,US Orléans,1-0,0-0,FC Sochaux,
+19,Sat Dec 21 2019,15:00,Paris FC,0-3,0-0,Le Mans FC,
+19,Sat Dec 21 2019,15:00,RC Lens,1-0,0-0,Chamois Niortais,
+19,Sat Dec 21 2019,16:00,ESTAC Troyes,2-1,1-0,AC Ajaccio,
+20,Fri Jan 10 2020,20:00,AC Ajaccio,3-1,1-1,Grenoble Foot 38,
+20,Fri Jan 10 2020,20:00,AS Nancy,1-0,1-0,Valenciennes FC,
+20,Fri Jan 10 2020,20:00,Clermont Foot,3-2,2-1,ESTAC Troyes,
+20,Fri Jan 10 2020,20:00,FC Chambly,1-0,1-0,US Orléans,
+20,Fri Jan 10 2020,20:00,Chamois Niortais,0-1,0-1,Le Havre AC,
+20,Fri Jan 10 2020,20:00,FC Sochaux,1-1,0-1,Paris FC,
+20,Fri Jan 10 2020,20:00,Le Mans FC,0-1,0-1,AJ Auxerre,
+20,Fri Jan 10 2020,20:00,Rodez AF,1-2,0-1,LB Châteauroux,
+20,Mon Jan 13 2020,20:45,FC Lorient,2-1,1-1,SM Caen,
+20,Sat Jan 18 2020,18:30,EA Guingamp,1-1,0-0,RC Lens,
+21,Fri Jan 24 2020,20:00,AJ Auxerre,2-1,1-1,FC Sochaux,
+21,Fri Jan 24 2020,20:00,FC Lorient,2-1,1-0,AS Nancy,
+21,Fri Jan 24 2020,20:00,Paris FC,0-0,0-0,Rodez AF,
+21,Fri Jan 24 2020,20:00,Valenciennes FC,1-0,1-0,Le Mans FC,
+21,Fri Jan 24 2020,20:00,Grenoble Foot 38,0-0,0-0,FC Chambly,
+21,Fri Jan 24 2020,20:00,LB Châteauroux,1-1,1-1,Chamois Niortais,
+21,Fri Jan 24 2020,20:00,SM Caen,0-1,0-0,AC Ajaccio,
+21,Fri Jan 24 2020,20:00,US Orléans,2-0,2-0,EA Guingamp,
+21,Sat Jan 25 2020,15:00,RC Lens,1-1,0-0,Clermont Foot,
+21,Mon Jan 27 2020,20:45,Le Havre AC,1-0,1-0,ESTAC Troyes,
+22,Fri Jan 31 2020,20:00,AC Ajaccio,0-1,0-1,LB Châteauroux,
+22,Fri Jan 31 2020,20:00,Le Havre AC,0-0,0-0,RC Lens,
+22,Fri Jan 31 2020,20:00,Clermont Foot,3-1,0-0,US Orléans,
+22,Fri Jan 31 2020,20:00,EA Guingamp,1-0,0-0,AJ Auxerre,
+22,Fri Jan 31 2020,20:00,ESTAC Troyes,1-2,0-1,Grenoble Foot 38,
+22,Fri Jan 31 2020,20:00,FC Chambly,0-1,0-0,SM Caen,
+22,Fri Jan 31 2020,20:00,Chamois Niortais,4-4,3-2,Paris FC,
+22,Fri Jan 31 2020,20:00,Le Mans FC,1-1,0-0,AS Nancy,
+22,Fri Jan 31 2020,20:00,Rodez AF,1-1,1-0,Valenciennes FC,
+22,Sat Feb 1 2020,15:30,FC Sochaux,0-4,0-2,FC Lorient,
+23,Mon Feb 3 2020,20:45,Grenoble Foot 38,1-1,0-0,Le Havre AC,
+23,Tue Feb 4 2020,21:05,AJ Auxerre,0-0,0-0,Clermont Foot,
+23,Tue Feb 4 2020,21:05,AS Nancy,1-1,1-0,FC Sochaux,
+23,Tue Feb 4 2020,21:05,FC Lorient,4-2,1-1,Le Mans FC,
+23,Tue Feb 4 2020,21:05,Paris FC,2-3,2-2,AC Ajaccio,
+23,Tue Feb 4 2020,21:05,Valenciennes FC,0-0,0-0,EA Guingamp,
+23,Tue Feb 4 2020,21:05,LB Châteauroux,0-3,0-1,FC Chambly,
+23,Tue Feb 4 2020,21:05,RC Lens,1-0,0-0,ESTAC Troyes,
+23,Tue Feb 4 2020,21:05,SM Caen,4-3,0-1,Chamois Niortais,
+23,Tue Feb 4 2020,21:05,US Orléans,1-2,0-0,Rodez AF,
+24,Fri Feb 7 2020,20:00,AC Ajaccio,2-3,2-3,AJ Auxerre,
+24,Fri Feb 7 2020,20:00,Le Havre AC,1-1,1-0,SM Caen,
+24,Fri Feb 7 2020,20:00,Clermont Foot,3-1,2-1,Valenciennes FC,
+24,Fri Feb 7 2020,20:00,ESTAC Troyes,2-0,2-0,LB Châteauroux,
+24,Fri Feb 7 2020,20:00,FC Chambly,1-2,0-1,Paris FC,
+24,Fri Feb 7 2020,20:00,Chamois Niortais,2-0,0-0,US Orléans,
+24,Fri Feb 7 2020,20:00,FC Sochaux,1-0,1-0,Le Mans FC,
+24,Fri Feb 7 2020,20:00,Rodez AF,1-1,0-1,AS Nancy,
+24,Sat Feb 8 2020,15:00,EA Guingamp,2-1,1-1,FC Lorient,
+24,Mon Feb 10 2020,20:45,RC Lens,0-0,0-0,Grenoble Foot 38,
+25,Fri Feb 14 2020,20:00,AJ Auxerre,0-0,0-0,FC Chambly,
+25,Fri Feb 14 2020,20:00,Paris FC,1-0,1-0,Le Havre AC,
+25,Fri Feb 14 2020,20:00,Valenciennes FC,3-2,0-2,FC Sochaux,
+25,Fri Feb 14 2020,20:00,Grenoble Foot 38,3-1,1-0,Chamois Niortais,
+25,Fri Feb 14 2020,20:00,Le Mans FC,0-0,0-0,Rodez AF,
+25,Fri Feb 14 2020,20:00,SM Caen,0-1,0-0,ESTAC Troyes,
+25,Fri Feb 14 2020,20:00,US Orléans,0-3,0-1,AC Ajaccio,
+25,Sat Feb 15 2020,15:00,AS Nancy,0-1,0-0,EA Guingamp,
+25,Sat Feb 15 2020,15:00,FC Lorient,0-1,0-0,Clermont Foot,
+25,Mon Feb 17 2020,20:45,LB Châteauroux,3-2,1-0,RC Lens,
+26,Fri Feb 21 2020,20:00,AC Ajaccio,2-0,1-0,Le Mans FC,
+26,Fri Feb 21 2020,20:00,Le Havre AC,1-2,1-1,US Orléans,
+26,Fri Feb 21 2020,20:00,Clermont Foot,0-1,0-0,Paris FC,
+26,Fri Feb 21 2020,20:00,EA Guingamp,1-1,0-1,FC Sochaux,
+26,Fri Feb 21 2020,20:00,FC Chambly,2-1,0-1,AS Nancy,
+26,Fri Feb 21 2020,20:00,Chamois Niortais,1-0,0-0,Valenciennes FC,
+26,Fri Feb 21 2020,20:00,Grenoble Foot 38,0-1,0-0,LB Châteauroux,
+26,Fri Feb 21 2020,20:00,Rodez AF,0-1,0-1,FC Lorient,
+26,Sat Feb 22 2020,15:00,RC Lens,1-4,1-2,SM Caen,
+26,Mon Feb 24 2020,20:45,ESTAC Troyes,3-1,2-1,AJ Auxerre,
+27,Fri Feb 28 2020,20:00,AJ Auxerre,3-1,1-0,Chamois Niortais,
+27,Fri Feb 28 2020,20:00,AS Nancy,1-2,0-0,Clermont Foot,
+27,Fri Feb 28 2020,20:00,FC Sochaux,1-1,0-0,Rodez AF,
+27,Fri Feb 28 2020,20:00,Valenciennes FC,0-0,0-0,AC Ajaccio,
+27,Fri Feb 28 2020,20:00,LB Châteauroux,0-3,0-2,Le Havre AC,
+27,Fri Feb 28 2020,20:00,Le Mans FC,2-1,1-0,EA Guingamp,
+27,Fri Feb 28 2020,20:00,SM Caen,2-0,2-0,Grenoble Foot 38,
+27,Fri Feb 28 2020,20:00,US Orléans,0-2,0-1,ESTAC Troyes,
+27,Sat Feb 29 2020,15:00,FC Lorient,1-2,1-2,FC Chambly,
+27,Mon Mar 2 2020,20:45,Paris FC,0-2,0-1,RC Lens,
+28,Fri Mar 6 2020,20:00,Le Havre AC,1-0,0-0,AJ Auxerre,
+28,Fri Mar 6 2020,20:00,Clermont Foot,2-0,1-0,FC Sochaux,
+28,Fri Mar 6 2020,20:00,ESTAC Troyes,1-1,1-1,Paris FC,
+28,Fri Mar 6 2020,20:00,FC Chambly,2-2,0-1,Le Mans FC,
+28,Fri Mar 6 2020,20:00,Chamois Niortais,1-1,1-0,AS Nancy,
+28,Fri Mar 6 2020,20:00,Grenoble Foot 38,1-3,0-2,Valenciennes FC,
+28,Fri Mar 6 2020,20:00,LB Châteauroux,2-1,1-1,SM Caen,
+28,Fri Mar 6 2020,20:00,Rodez AF,2-1,1-0,EA Guingamp,
+28,Sat Mar 7 2020,15:00,AC Ajaccio,1-0,0-0,FC Lorient,
+28,Mon Mar 9 2020,20:45,RC Lens,1-0,0-0,US Orléans,
+29,Fri Mar 13 2020,,AS Nancy,(*),,AC Ajaccio,cancelled
+29,Fri Mar 13 2020,,EA Guingamp,(*),,Chamois Niortais,cancelled
+29,Fri Mar 13 2020,,Paris FC,(*),,LB Châteauroux,cancelled
+29,Fri Mar 13 2020,,FC Sochaux,(*),,FC Chambly,cancelled
+29,Fri Mar 13 2020,,Valenciennes FC,(*),,SM Caen,cancelled
+29,Fri Mar 13 2020,,Le Mans FC,(*),,ESTAC Troyes,cancelled
+29,Fri Mar 13 2020,,Rodez AF,(*),,Clermont Foot,cancelled
+29,Fri Mar 13 2020,,US Orléans,(*),,Grenoble Foot 38,cancelled
+29,Sat Mar 14 2020,,AJ Auxerre,(*),,RC Lens,cancelled
+29,Mon Mar 16 2020,,FC Lorient,(*),,Le Havre AC,cancelled
+30,Fri Mar 20 2020,,AC Ajaccio,(*),,FC Sochaux,cancelled
+30,Fri Mar 20 2020,,Le Havre AC,(*),,Valenciennes FC,cancelled
+30,Fri Mar 20 2020,,Clermont Foot,(*),,EA Guingamp,cancelled
+30,Fri Mar 20 2020,,FC Chambly,(*),,Rodez AF,cancelled
+30,Fri Mar 20 2020,,Chamois Niortais,(*),,Le Mans FC,cancelled
+30,Fri Mar 20 2020,,Grenoble Foot 38,(*),,AJ Auxerre,cancelled
+30,Fri Mar 20 2020,,LB Châteauroux,(*),,US Orléans,cancelled
+30,Fri Mar 20 2020,,SM Caen,(*),,Paris FC,cancelled
+30,Sat Mar 21 2020,,ESTAC Troyes,(*),,FC Lorient,cancelled
+30,Mon Mar 23 2020,,RC Lens,(*),,AS Nancy,cancelled
+31,Fri Apr 3 2020,,AJ Auxerre,(*),,LB Châteauroux,cancelled
+31,Fri Apr 3 2020,,AS Nancy,(*),,Le Havre AC,cancelled
+31,Fri Apr 3 2020,,EA Guingamp,(*),,FC Chambly,cancelled
+31,Fri Apr 3 2020,,FC Lorient,(*),,RC Lens,cancelled
+31,Fri Apr 3 2020,,Paris FC,(*),,Grenoble Foot 38,cancelled
+31,Fri Apr 3 2020,,FC Sochaux,(*),,Chamois Niortais,cancelled
+31,Fri Apr 3 2020,,Valenciennes FC,(*),,ESTAC Troyes,cancelled
+31,Fri Apr 3 2020,,Le Mans FC,(*),,Clermont Foot,cancelled
+31,Fri Apr 3 2020,,Rodez AF,(*),,AC Ajaccio,cancelled
+31,Fri Apr 3 2020,,US Orléans,(*),,SM Caen,cancelled
+32,Fri Apr 10 2020,,AC Ajaccio,(*),,EA Guingamp,cancelled
+32,Fri Apr 10 2020,,Le Havre AC,(*),,FC Sochaux,cancelled
+32,Fri Apr 10 2020,,Clermont Foot,(*),,FC Chambly,cancelled
+32,Fri Apr 10 2020,,ESTAC Troyes,(*),,AS Nancy,cancelled
+32,Fri Apr 10 2020,,Chamois Niortais,(*),,FC Lorient,cancelled
+32,Fri Apr 10 2020,,Paris FC,(*),,US Orléans,cancelled
+32,Fri Apr 10 2020,,Grenoble Foot 38,(*),,Le Mans FC,cancelled
+32,Fri Apr 10 2020,,LB Châteauroux,(*),,Valenciennes FC,cancelled
+32,Fri Apr 10 2020,,RC Lens,(*),,Rodez AF,cancelled
+32,Fri Apr 10 2020,,SM Caen,(*),,AJ Auxerre,cancelled
+33,Fri Apr 17 2020,,AJ Auxerre,(*),,Paris FC,cancelled
+33,Fri Apr 17 2020,,AS Nancy,(*),,Grenoble Foot 38,cancelled
+33,Fri Apr 17 2020,,Clermont Foot,(*),,AC Ajaccio,cancelled
+33,Fri Apr 17 2020,,EA Guingamp,(*),,Le Havre AC,cancelled
+33,Fri Apr 17 2020,,FC Chambly,(*),,ESTAC Troyes,cancelled
+33,Fri Apr 17 2020,,FC Lorient,(*),,LB Châteauroux,cancelled
+33,Fri Apr 17 2020,,FC Sochaux,(*),,RC Lens,cancelled
+33,Fri Apr 17 2020,,Valenciennes FC,(*),,US Orléans,cancelled
+33,Fri Apr 17 2020,,Le Mans FC,(*),,SM Caen,cancelled
+33,Fri Apr 17 2020,,Rodez AF,(*),,Chamois Niortais,cancelled
+34,Tue Apr 21 2020,,AC Ajaccio,(*),,FC Chambly,cancelled
+34,Tue Apr 21 2020,,Le Havre AC,(*),,Rodez AF,cancelled
+34,Tue Apr 21 2020,,ESTAC Troyes,(*),,FC Sochaux,cancelled
+34,Tue Apr 21 2020,,Chamois Niortais,(*),,Clermont Foot,cancelled
+34,Tue Apr 21 2020,,Paris FC,(*),,AS Nancy,cancelled
+34,Tue Apr 21 2020,,Grenoble Foot 38,(*),,FC Lorient,cancelled
+34,Tue Apr 21 2020,,LB Châteauroux,(*),,Le Mans FC,cancelled
+34,Tue Apr 21 2020,,RC Lens,(*),,Valenciennes FC,cancelled
+34,Tue Apr 21 2020,,SM Caen,(*),,EA Guingamp,cancelled
+34,Tue Apr 21 2020,,US Orléans,(*),,AJ Auxerre,cancelled
+35,Fri Apr 24 2020,,AC Ajaccio,(*),,Chamois Niortais,cancelled
+35,Fri Apr 24 2020,,AS Nancy,(*),,SM Caen,cancelled
+35,Fri Apr 24 2020,,Clermont Foot,(*),,Grenoble Foot 38,cancelled
+35,Fri Apr 24 2020,,EA Guingamp,(*),,Paris FC,cancelled
+35,Fri Apr 24 2020,,FC Chambly,(*),,RC Lens,cancelled
+35,Fri Apr 24 2020,,FC Lorient,(*),,US Orléans,cancelled
+35,Fri Apr 24 2020,,FC Sochaux,(*),,LB Châteauroux,cancelled
+35,Fri Apr 24 2020,,Valenciennes FC,(*),,AJ Auxerre,cancelled
+35,Fri Apr 24 2020,,Le Mans FC,(*),,Le Havre AC,cancelled
+35,Fri Apr 24 2020,,Rodez AF,(*),,ESTAC Troyes,cancelled
+36,Fri May 1 2020,,Le Havre AC,(*),,Clermont Foot,cancelled
+36,Fri May 1 2020,,AJ Auxerre,(*),,FC Lorient,cancelled
+36,Fri May 1 2020,,ESTAC Troyes,(*),,EA Guingamp,cancelled
+36,Fri May 1 2020,,Chamois Niortais,(*),,FC Chambly,cancelled
+36,Fri May 1 2020,,Paris FC,(*),,Valenciennes FC,cancelled
+36,Fri May 1 2020,,Grenoble Foot 38,(*),,FC Sochaux,cancelled
+36,Fri May 1 2020,,LB Châteauroux,(*),,AS Nancy,cancelled
+36,Fri May 1 2020,,RC Lens,(*),,AC Ajaccio,cancelled
+36,Fri May 1 2020,,SM Caen,(*),,Rodez AF,cancelled
+36,Fri May 1 2020,,US Orléans,(*),,Le Mans FC,cancelled
+37,Fri May 8 2020,,AC Ajaccio,(*),,ESTAC Troyes,cancelled
+37,Fri May 8 2020,,AS Nancy,(*),,AJ Auxerre,cancelled
+37,Fri May 8 2020,,Clermont Foot,(*),,SM Caen,cancelled
+37,Fri May 8 2020,,EA Guingamp,(*),,LB Châteauroux,cancelled
+37,Fri May 8 2020,,FC Chambly,(*),,Le Havre AC,cancelled
+37,Fri May 8 2020,,Chamois Niortais,(*),,RC Lens,cancelled
+37,Fri May 8 2020,,FC Lorient,(*),,Valenciennes FC,cancelled
+37,Fri May 8 2020,,FC Sochaux,(*),,US Orléans,cancelled
+37,Fri May 8 2020,,Le Mans FC,(*),,Paris FC,cancelled
+37,Fri May 8 2020,,Rodez AF,(*),,Grenoble Foot 38,cancelled
+38,Fri May 15 2020,,Le Havre AC,(*),,AC Ajaccio,cancelled
+38,Fri May 15 2020,,AJ Auxerre,(*),,Rodez AF,cancelled
+38,Fri May 15 2020,,ESTAC Troyes,(*),,Chamois Niortais,cancelled
+38,Fri May 15 2020,,Paris FC,(*),,FC Lorient,cancelled
+38,Fri May 15 2020,,Valenciennes FC,(*),,FC Chambly,cancelled
+38,Fri May 15 2020,,Grenoble Foot 38,(*),,EA Guingamp,cancelled
+38,Fri May 15 2020,,LB Châteauroux,(*),,Clermont Foot,cancelled
+38,Fri May 15 2020,,RC Lens,(*),,Le Mans FC,cancelled
+38,Fri May 15 2020,,SM Caen,(*),,FC Sochaux,cancelled
+38,Fri May 15 2020,,US Orléans,(*),,AS Nancy,cancelled

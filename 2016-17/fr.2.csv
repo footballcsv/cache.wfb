@@ -1,0 +1,381 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 29 2016,20:00,FC Bourg-Péronnas,0-0,0-0,RC Strasbourg
+1,Fri Jul 29 2016,20:00,GFC Ajaccio,0-0,0-0,Stade Brest
+1,Fri Jul 29 2016,20:00,Nîmes Olympique,0-0,0-0,Stade Laval
+1,Fri Jul 29 2016,20:00,Chamois Niortais,0-0,0-0,RC Lens
+1,Fri Jul 29 2016,20:00,Valenciennes FC,2-0,1-0,Clermont Foot
+1,Fri Jul 29 2016,20:00,Tours FC,0-0,0-0,AC Ajaccio
+1,Fri Jul 29 2016,20:00,ESTAC Troyes,1-3,0-0,FC Sochaux
+1,Fri Jul 29 2016,20:00,US Orléans,0-1,0-1,Le Havre AC
+1,Sat Jul 30 2016,15:00,Red Star FC,0-0,0-0,AJ Auxerre
+1,Mon Aug 1 2016,20:30,Amiens SC,1-1,0-0,Stade Reims
+2,Fri Aug 5 2016,20:00,AC Ajaccio,2-1,2-1,ESTAC Troyes
+2,Fri Aug 5 2016,20:00,AJ Auxerre,1-2,1-1,GFC Ajaccio
+2,Fri Aug 5 2016,20:00,Stade Brest,2-1,1-1,US Orléans
+2,Fri Aug 5 2016,20:00,FC Sochaux,0-0,0-0,Valenciennes FC
+2,Fri Aug 5 2016,20:00,Stade Laval,1-1,0-0,Chamois Niortais
+2,Fri Aug 5 2016,20:00,Le Havre AC,1-0,1-0,Nîmes Olympique
+2,Fri Aug 5 2016,20:00,RC Lens,2-2,1-1,Tours FC
+2,Fri Aug 5 2016,20:00,Stade Reims,1-0,1-0,FC Bourg-Péronnas
+2,Fri Aug 5 2016,20:00,Clermont Foot,0-0,0-0,Red Star FC
+2,Sat Aug 6 2016,15:00,RC Strasbourg,1-0,1-0,Amiens SC
+3,Fri Aug 12 2016,20:00,GFC Ajaccio,1-1,0-1,Le Havre AC
+3,Fri Aug 12 2016,20:00,FC Bourg-Péronnas,2-4,0-2,AJ Auxerre
+3,Fri Aug 12 2016,20:00,Clermont Foot,1-2,1-1,FC Sochaux
+3,Fri Aug 12 2016,20:00,Amiens SC,2-0,1-0,Chamois Niortais
+3,Fri Aug 12 2016,20:00,ESTAC Troyes,1-0,1-0,Stade Laval
+3,Fri Aug 12 2016,20:00,Red Star FC,0-3,0-2,Stade Brest
+3,Fri Aug 12 2016,20:00,Tours FC,1-3,0-1,RC Strasbourg
+3,Fri Aug 12 2016,20:00,US Orléans,2-0,0-0,AC Ajaccio
+3,Sat Aug 13 2016,15:00,Valenciennes FC,0-0,0-0,Stade Reims
+3,Mon Aug 15 2016,20:30,Nîmes Olympique,0-2,0-1,RC Lens
+4,Fri Aug 19 2016,20:00,Stade Laval,0-1,0-0,GFC Ajaccio
+4,Fri Aug 19 2016,20:00,AJ Auxerre,0-1,0-0,Clermont Foot
+4,Fri Aug 19 2016,20:00,Stade Brest,3-2,1-1,Valenciennes FC
+4,Fri Aug 19 2016,20:00,AC Ajaccio,3-1,1-1,FC Bourg-Péronnas
+4,Fri Aug 19 2016,20:00,Le Havre AC,1-3,1-2,ESTAC Troyes
+4,Fri Aug 19 2016,20:00,Chamois Niortais,1-4,1-4,Tours FC
+4,Fri Aug 19 2016,20:00,FC Sochaux,0-0,0-0,US Orléans
+4,Fri Aug 19 2016,20:00,RC Strasbourg,1-1,0-0,Nîmes Olympique
+4,Sat Aug 20 2016,15:00,RC Lens,0-1,0-1,Amiens SC
+4,Mon Aug 22 2016,20:30,Stade Reims,2-1,1-0,Red Star FC
+5,Fri Aug 26 2016,20:00,FC Bourg-Péronnas,2-2,0-1,Chamois Niortais
+5,Fri Aug 26 2016,20:00,Clermont Foot,2-1,0-1,AC Ajaccio
+5,Fri Aug 26 2016,20:00,GFC Ajaccio,1-1,0-0,RC Strasbourg
+5,Fri Aug 26 2016,20:00,Nîmes Olympique,2-3,2-1,Amiens SC
+5,Fri Aug 26 2016,20:00,Valenciennes FC,2-0,0-0,Stade Laval
+5,Fri Aug 26 2016,20:00,Tours FC,1-1,0-0,Stade Reims
+5,Fri Aug 26 2016,20:00,ESTAC Troyes,1-1,0-1,RC Lens
+5,Fri Aug 26 2016,20:00,US Orléans,0-0,0-0,AJ Auxerre
+5,Sat Aug 27 2016,15:00,Red Star FC,0-0,0-0,Le Havre AC
+5,Mon Aug 29 2016,20:30,FC Sochaux,2-2,1-0,Stade Brest
+6,Fri Sep 9 2016,20:00,AC Ajaccio,1-2,1-0,Red Star FC
+6,Fri Sep 9 2016,20:00,Amiens SC,3-1,2-0,Tours FC
+6,Fri Sep 9 2016,20:00,AJ Auxerre,0-0,0-0,FC Sochaux
+6,Fri Sep 9 2016,20:00,Stade Brest,0-2,0-1,Clermont Foot
+6,Fri Sep 9 2016,20:00,Stade Laval,3-1,1-1,US Orléans
+6,Fri Sep 9 2016,20:00,RC Lens,1-1,0-0,FC Bourg-Péronnas
+6,Fri Sep 9 2016,20:00,Chamois Niortais,1-3,0-2,Nîmes Olympique
+6,Fri Sep 9 2016,20:00,Stade Reims,2-0,1-0,GFC Ajaccio
+6,Sat Sep 10 2016,15:00,Le Havre AC,2-2,1-2,Valenciennes FC
+6,Mon Sep 12 2016,20:30,RC Strasbourg,2-0,1-0,ESTAC Troyes
+7,Fri Sep 16 2016,20:00,Red Star FC,1-0,0-0,Stade Laval
+7,Fri Sep 16 2016,20:00,Clermont Foot,1-1,0-0,RC Lens
+7,Fri Sep 16 2016,20:00,US Orléans,3-1,1-0,RC Strasbourg
+7,Fri Sep 16 2016,20:00,FC Bourg-Péronnas,2-1,1-1,Le Havre AC
+7,Fri Sep 16 2016,20:00,Valenciennes FC,1-1,1-0,AC Ajaccio
+7,Fri Sep 16 2016,20:00,Tours FC,1-3,1-2,Nîmes Olympique
+7,Fri Sep 16 2016,20:00,ESTAC Troyes,1-1,0-1,Chamois Niortais
+7,Fri Sep 16 2016,20:00,FC Sochaux,1-1,0-1,Stade Reims
+7,Sat Sep 17 2016,16:15,Stade Brest,1-0,0-0,AJ Auxerre
+8,Mon Sep 19 2016,20:30,RC Strasbourg,0-0,0-0,Red Star FC
+8,Tue Sep 20 2016,21:00,Stade Laval,1-1,0-0,FC Sochaux
+8,Tue Sep 20 2016,21:00,AC Ajaccio,2-0,1-0,AJ Auxerre
+8,Tue Sep 20 2016,21:00,Amiens SC,0-0,0-0,Valenciennes FC
+8,Tue Sep 20 2016,21:00,Tours FC,0-2,0-0,FC Bourg-Péronnas
+8,Tue Sep 20 2016,21:00,Stade Reims,2-1,0-0,Clermont Foot
+8,Tue Sep 20 2016,21:00,RC Lens,4-2,1-2,US Orléans
+8,Tue Sep 20 2016,21:00,Nîmes Olympique,2-2,0-0,ESTAC Troyes
+8,Tue Sep 20 2016,21:00,Chamois Niortais,0-0,0-0,GFC Ajaccio
+8,Tue Sep 20 2016,21:00,Le Havre AC,1-1,0-1,Stade Brest
+9,Fri Sep 23 2016,20:00,US Orléans,1-2,0-1,Amiens SC
+9,Fri Sep 23 2016,20:00,AJ Auxerre,0-1,0-0,Le Havre AC
+9,Fri Sep 23 2016,20:00,FC Bourg-Péronnas,0-0,0-0,Stade Laval
+9,Fri Sep 23 2016,20:00,Clermont Foot,0-0,0-0,RC Strasbourg
+9,Fri Sep 23 2016,20:00,GFC Ajaccio,0-2,0-2,Nîmes Olympique
+9,Fri Sep 23 2016,20:00,FC Sochaux,1-0,1-0,AC Ajaccio
+9,Fri Sep 23 2016,20:00,Red Star FC,0-1,0-0,Chamois Niortais
+9,Fri Sep 23 2016,20:00,ESTAC Troyes,3-1,2-1,Tours FC
+9,Sat Sep 24 2016,15:00,Valenciennes FC,1-2,1-1,RC Lens
+9,Mon Sep 26 2016,20:30,Stade Brest,2-1,0-0,Stade Reims
+7,Tue Sep 27 2016,18:30,GFC Ajaccio,1-1,0-0,Amiens SC
+10,Fri Sep 30 2016,20:00,AC Ajaccio,1-1,0-0,Stade Brest
+10,Fri Sep 30 2016,20:00,Amiens SC,0-1,0-0,ESTAC Troyes
+10,Fri Sep 30 2016,20:00,Stade Laval,1-1,0-1,Clermont Foot
+10,Fri Sep 30 2016,20:00,RC Lens,2-0,1-0,Red Star FC
+10,Fri Sep 30 2016,20:00,Nîmes Olympique,0-0,0-0,FC Bourg-Péronnas
+10,Fri Sep 30 2016,20:00,Chamois Niortais,1-0,1-0,US Orléans
+10,Fri Sep 30 2016,20:00,Stade Reims,3-0,1-0,AJ Auxerre
+10,Fri Sep 30 2016,20:00,Tours FC,0-3,0-1,GFC Ajaccio
+10,Sat Oct 1 2016,15:00,RC Strasbourg,2-4,1-2,Valenciennes FC
+10,Mon Oct 3 2016,20:30,Le Havre AC,2-1,0-0,FC Sochaux
+11,Fri Oct 14 2016,20:00,Clermont Foot,1-3,0-1,Le Havre AC
+11,Fri Oct 14 2016,20:00,AJ Auxerre,2-0,1-0,Stade Laval
+11,Fri Oct 14 2016,20:00,FC Bourg-Péronnas,2-4,1-1,Amiens SC
+11,Fri Oct 14 2016,20:00,AC Ajaccio,1-0,1-0,Stade Reims
+11,Fri Oct 14 2016,20:00,US Orléans,0-0,0-0,Tours FC
+11,Fri Oct 14 2016,20:00,Red Star FC,3-3,2-2,Nîmes Olympique
+11,Fri Oct 14 2016,20:00,ESTAC Troyes,1-0,1-0,GFC Ajaccio
+11,Fri Oct 14 2016,20:00,Valenciennes FC,3-1,0-0,Chamois Niortais
+11,Sat Oct 15 2016,15:00,Stade Brest,2-1,1-1,RC Strasbourg
+11,Mon Oct 17 2016,20:30,FC Sochaux,1-0,1-0,RC Lens
+12,Fri Oct 21 2016,20:00,Nîmes Olympique,0-0,0-0,FC Sochaux
+12,Fri Oct 21 2016,20:00,Stade Laval,0-1,0-0,Stade Brest
+12,Fri Oct 21 2016,20:00,ESTAC Troyes,1-0,0-0,FC Bourg-Péronnas
+12,Fri Oct 21 2016,20:00,GFC Ajaccio,2-0,1-0,US Orléans
+12,Fri Oct 21 2016,20:00,Chamois Niortais,2-1,2-0,Clermont Foot
+12,Fri Oct 21 2016,20:00,RC Strasbourg,2-1,1-0,AJ Auxerre
+12,Fri Oct 21 2016,20:00,Tours FC,4-1,3-1,Valenciennes FC
+12,Fri Oct 21 2016,20:00,Le Havre AC,2-0,1-0,AC Ajaccio
+12,Sat Oct 22 2016,15:00,RC Lens,1-1,0-0,Stade Reims
+12,Mon Oct 24 2016,20:30,Amiens SC,0-0,0-0,Red Star FC
+13,Fri Oct 28 2016,20:00,FC Bourg-Péronnas,1-0,1-0,GFC Ajaccio
+13,Fri Oct 28 2016,20:00,AC Ajaccio,1-3,1-1,Stade Laval
+13,Fri Oct 28 2016,20:00,US Orléans,1-1,0-1,ESTAC Troyes
+13,Fri Oct 28 2016,20:00,Valenciennes FC,2-3,1-0,Nîmes Olympique
+13,Fri Oct 28 2016,20:00,Stade Reims,1-0,1-0,Le Havre AC
+13,Fri Oct 28 2016,20:00,Red Star FC,3-1,3-0,Tours FC
+13,Sat Oct 29 2016,15:00,AJ Auxerre,0-4,0-1,Chamois Niortais
+13,Sat Oct 29 2016,15:00,Clermont Foot,1-0,0-0,Amiens SC
+13,Sat Oct 29 2016,15:00,FC Sochaux,1-2,0-1,RC Strasbourg
+13,Mon Oct 31 2016,20:30,Stade Brest,1-2,1-1,RC Lens
+14,Fri Nov 4 2016,20:00,FC Bourg-Péronnas,0-0,0-0,US Orléans
+14,Fri Nov 4 2016,20:00,Amiens SC,0-0,0-0,AJ Auxerre
+14,Fri Nov 4 2016,20:00,GFC Ajaccio,2-1,1-0,Red Star FC
+14,Fri Nov 4 2016,20:00,Stade Laval,0-2,0-0,Le Havre AC
+14,Fri Nov 4 2016,20:00,Nîmes Olympique,1-1,1-0,Clermont Foot
+14,Fri Nov 4 2016,20:00,Chamois Niortais,2-0,2-0,FC Sochaux
+14,Fri Nov 4 2016,20:00,Tours FC,0-1,0-1,Stade Brest
+14,Fri Nov 4 2016,20:00,ESTAC Troyes,2-0,1-0,Valenciennes FC
+14,Sat Nov 5 2016,15:00,RC Strasbourg,1-2,0-1,Stade Reims
+14,Mon Nov 7 2016,20:30,RC Lens,1-1,0-0,AC Ajaccio
+15,Fri Nov 18 2016,20:00,US Orléans,2-1,0-1,Nîmes Olympique
+15,Fri Nov 18 2016,20:00,AJ Auxerre,1-1,0-1,RC Lens
+15,Fri Nov 18 2016,20:00,Clermont Foot,3-1,1-1,GFC Ajaccio
+15,Fri Nov 18 2016,20:00,AC Ajaccio,2-0,1-0,RC Strasbourg
+15,Fri Nov 18 2016,20:00,Red Star FC,1-2,0-1,ESTAC Troyes
+15,Fri Nov 18 2016,20:00,Stade Reims,0-2,0-1,Stade Laval
+15,Fri Nov 18 2016,20:00,FC Sochaux,2-1,1-0,Tours FC
+15,Fri Nov 18 2016,20:00,Valenciennes FC,3-3,1-1,FC Bourg-Péronnas
+15,Sat Nov 19 2016,15:00,Le Havre AC,0-0,0-0,Amiens SC
+15,Mon Nov 21 2016,20:30,Stade Brest,2-3,1-3,Chamois Niortais
+16,Fri Nov 25 2016,20:00,Chamois Niortais,1-1,1-0,AC Ajaccio
+16,Fri Nov 25 2016,20:00,GFC Ajaccio,0-1,0-0,FC Sochaux
+16,Fri Nov 25 2016,20:00,RC Lens,1-0,0-0,Le Havre AC
+16,Fri Nov 25 2016,20:00,Nîmes Olympique,3-0,2-0,Stade Reims
+16,Fri Nov 25 2016,20:00,FC Bourg-Péronnas,4-1,1-0,Red Star FC
+16,Fri Nov 25 2016,20:00,US Orléans,0-2,0-0,Valenciennes FC
+16,Fri Nov 25 2016,20:00,RC Strasbourg,1-0,0-0,Stade Laval
+16,Fri Nov 25 2016,20:00,ESTAC Troyes,1-0,1-0,Clermont Foot
+16,Fri Nov 25 2016,20:00,Tours FC,2-1,0-0,AJ Auxerre
+16,Sat Nov 26 2016,15:10,Amiens SC,3-0,1-0,Stade Brest
+17,Mon Nov 28 2016,20:30,Stade Reims,1-0,0-0,Chamois Niortais
+17,Tue Nov 29 2016,21:00,Clermont Foot,0-0,0-0,Tours FC
+17,Tue Nov 29 2016,21:00,AJ Auxerre,2-0,1-0,Nîmes Olympique
+17,Tue Nov 29 2016,21:00,Valenciennes FC,0-0,0-0,GFC Ajaccio
+17,Tue Nov 29 2016,21:00,AC Ajaccio,1-1,0-0,Amiens SC
+17,Tue Nov 29 2016,21:00,Stade Laval,0-1,0-1,RC Lens
+17,Tue Nov 29 2016,21:00,Le Havre AC,0-1,0-0,RC Strasbourg
+17,Tue Nov 29 2016,21:00,Red Star FC,1-0,1-0,US Orléans
+17,Tue Nov 29 2016,21:00,FC Sochaux,1-1,0-1,FC Bourg-Péronnas
+17,Tue Nov 29 2016,21:00,Stade Brest,2-1,1-1,ESTAC Troyes
+18,Fri Dec 9 2016,20:00,Amiens SC,0-1,0-1,FC Sochaux
+18,Fri Dec 9 2016,20:00,FC Bourg-Péronnas,1-1,0-1,Clermont Foot
+18,Fri Dec 9 2016,20:00,GFC Ajaccio,4-1,2-0,AC Ajaccio
+18,Fri Dec 9 2016,20:00,ESTAC Troyes,1-1,0-1,AJ Auxerre
+18,Fri Dec 9 2016,20:00,Chamois Niortais,1-1,1-1,Le Havre AC
+18,Fri Dec 9 2016,20:00,Red Star FC,2-2,2-0,Valenciennes FC
+18,Fri Dec 9 2016,20:00,Tours FC,1-1,0-0,Stade Laval
+18,Fri Dec 9 2016,20:00,Nîmes Olympique,1-2,1-2,Stade Brest
+18,Sat Dec 10 2016,15:00,RC Strasbourg,3-1,2-0,RC Lens
+18,Mon Dec 12 2016,20:30,US Orléans,2-2,0-0,Stade Reims
+19,Fri Dec 16 2016,20:00,Stade Brest,0-0,0-0,FC Bourg-Péronnas
+19,Fri Dec 16 2016,20:00,AJ Auxerre,1-1,0-0,Valenciennes FC
+19,Fri Dec 16 2016,20:00,AC Ajaccio,1-2,0-1,Nîmes Olympique
+19,Fri Dec 16 2016,20:00,Clermont Foot,3-0,0-0,US Orléans
+19,Fri Dec 16 2016,20:00,Stade Laval,2-2,0-1,Amiens SC
+19,Fri Dec 16 2016,20:00,Le Havre AC,0-2,0-2,Tours FC
+19,Fri Dec 16 2016,20:00,FC Sochaux,2-0,1-0,Red Star FC
+19,Fri Dec 16 2016,20:00,RC Strasbourg,3-0,0-0,Chamois Niortais
+19,Sat Dec 17 2016,15:00,RC Lens,2-1,1-1,GFC Ajaccio
+19,Mon Dec 19 2016,20:30,Stade Reims,2-0,2-0,ESTAC Troyes
+20,Fri Jan 13 2017,20:00,Nîmes Olympique,0-0,0-0,Le Havre AC
+20,Fri Jan 13 2017,20:00,GFC Ajaccio,2-0,1-0,AJ Auxerre
+20,Fri Jan 13 2017,20:00,ESTAC Troyes,1-2,1-1,AC Ajaccio
+20,Fri Jan 13 2017,20:00,Chamois Niortais,2-2,1-2,Stade Laval
+20,Fri Jan 13 2017,20:00,US Orléans,0-1,0-0,Stade Brest
+20,Fri Jan 13 2017,20:00,Red Star FC,1-3,1-2,Clermont Foot
+20,Fri Jan 13 2017,20:00,Tours FC,2-3,0-2,RC Lens
+20,Fri Jan 13 2017,20:00,FC Bourg-Péronnas,1-0,0-0,Stade Reims
+20,Sat Jan 14 2017,15:00,Amiens SC,4-3,3-3,RC Strasbourg
+20,Mon Jan 16 2017,20:45,Valenciennes FC,2-1,0-0,FC Sochaux
+21,Fri Jan 20 2017,20:00,Stade Laval,1-0,0-0,ESTAC Troyes
+21,Fri Jan 20 2017,20:00,AJ Auxerre,0-2,0-2,FC Bourg-Péronnas
+21,Fri Jan 20 2017,20:00,AC Ajaccio,1-0,0-0,US Orléans
+21,Fri Jan 20 2017,20:00,Le Havre AC,1-2,0-1,GFC Ajaccio
+21,Fri Jan 20 2017,20:00,Chamois Niortais,2-1,2-0,Amiens SC
+21,Fri Jan 20 2017,20:00,Stade Reims,0-0,0-0,Valenciennes FC
+21,Fri Jan 20 2017,20:00,FC Sochaux,3-3,2-0,Clermont Foot
+21,Sat Jan 21 2017,15:00,RC Lens,1-3,0-2,Nîmes Olympique
+21,Mon Jan 23 2017,20:45,Stade Brest,0-1,0-0,Red Star FC
+22,Fri Jan 27 2017,20:00,ESTAC Troyes,2-1,2-0,Le Havre AC
+22,Fri Jan 27 2017,20:00,FC Bourg-Péronnas,3-2,1-0,AC Ajaccio
+22,Fri Jan 27 2017,20:00,Clermont Foot,0-1,0-0,AJ Auxerre
+22,Fri Jan 27 2017,20:00,Valenciennes FC,0-1,0-0,Stade Brest
+22,Fri Jan 27 2017,20:00,Nîmes Olympique,2-2,1-0,RC Strasbourg
+22,Fri Jan 27 2017,20:00,US Orléans,1-0,1-0,FC Sochaux
+22,Fri Jan 27 2017,20:00,Tours FC,0-0,0-0,Chamois Niortais
+22,Fri Jan 27 2017,20:00,GFC Ajaccio,1-1,0-0,Stade Laval
+22,Sat Jan 28 2017,15:00,Amiens SC,2-1,0-1,RC Lens
+22,Mon Jan 30 2017,20:45,Red Star FC,0-1,0-1,Stade Reims
+23,Fri Feb 3 2017,20:00,Stade Reims,1-1,0-0,Tours FC
+23,Fri Feb 3 2017,20:00,AC Ajaccio,2-1,1-0,Clermont Foot
+23,Fri Feb 3 2017,20:00,RC Strasbourg,2-0,0-0,GFC Ajaccio
+23,Fri Feb 3 2017,20:00,Stade Laval,0-0,0-0,Valenciennes FC
+23,Fri Feb 3 2017,20:00,Le Havre AC,1-1,1-0,Red Star FC
+23,Fri Feb 3 2017,20:00,RC Lens,0-0,0-0,ESTAC Troyes
+23,Fri Feb 3 2017,20:00,Chamois Niortais,3-2,0-1,FC Bourg-Péronnas
+23,Fri Feb 3 2017,20:00,Amiens SC,1-2,1-1,Nîmes Olympique
+23,Sat Feb 4 2017,15:00,AJ Auxerre,0-2,0-0,US Orléans
+23,Sat Feb 4 2017,15:00,Stade Brest,2-0,1-0,FC Sochaux
+24,Mon Feb 6 2017,20:45,Valenciennes FC,0-0,0-0,Le Havre AC
+24,Mon Feb 6 2017,19:00,Red Star FC,2-0,1-0,AC Ajaccio
+24,Tue Feb 7 2017,21:00,Clermont Foot,1-1,0-0,Stade Brest
+24,Tue Feb 7 2017,21:00,FC Bourg-Péronnas,0-0,0-0,RC Lens
+24,Tue Feb 7 2017,21:00,US Orléans,2-1,0-0,Stade Laval
+24,Tue Feb 7 2017,21:00,GFC Ajaccio,1-1,0-1,Stade Reims
+24,Tue Feb 7 2017,21:00,Nîmes Olympique,3-0,1-0,Chamois Niortais
+24,Tue Feb 7 2017,21:00,ESTAC Troyes,4-0,0-0,RC Strasbourg
+24,Tue Feb 7 2017,21:00,FC Sochaux,0-1,0-1,AJ Auxerre
+24,Tue Feb 7 2017,21:00,Tours FC,0-3,0-1,Amiens SC
+25,Fri Feb 10 2017,20:00,Chamois Niortais,3-2,1-1,ESTAC Troyes
+25,Fri Feb 10 2017,20:00,AC Ajaccio,3-2,2-0,Valenciennes FC
+25,Fri Feb 10 2017,20:00,Amiens SC,4-0,0-0,GFC Ajaccio
+25,Fri Feb 10 2017,20:00,AJ Auxerre,3-1,0-0,Stade Brest
+25,Fri Feb 10 2017,20:00,Nîmes Olympique,1-1,1-0,Tours FC
+25,Fri Feb 10 2017,20:00,Le Havre AC,3-0,3-0,FC Bourg-Péronnas
+25,Fri Feb 10 2017,20:00,Stade Laval,1-1,1-0,Red Star FC
+25,Sat Feb 11 2017,15:00,Stade Reims,0-1,0-1,FC Sochaux
+25,Mon Feb 13 2017,20:45,RC Lens,3-1,0-0,Clermont Foot
+25,Mon Feb 13 2017,19:00,RC Strasbourg,3-2,2-0,US Orléans
+26,Fri Feb 17 2017,20:00,FC Bourg-Péronnas,3-2,1-2,Tours FC
+26,Fri Feb 17 2017,20:00,AJ Auxerre,1-0,1-0,AC Ajaccio
+26,Fri Feb 17 2017,20:00,ESTAC Troyes,0-0,0-0,Nîmes Olympique
+26,Fri Feb 17 2017,20:00,Valenciennes FC,1-1,1-0,Amiens SC
+26,Fri Feb 17 2017,20:00,GFC Ajaccio,1-0,1-0,Chamois Niortais
+26,Fri Feb 17 2017,20:00,Red Star FC,1-1,1-0,RC Strasbourg
+26,Fri Feb 17 2017,20:00,FC Sochaux,1-1,0-1,Stade Laval
+26,Fri Feb 17 2017,20:00,Clermont Foot,0-1,0-0,Stade Reims
+26,Sat Feb 18 2017,15:00,Stade Brest,2-0,1-0,Le Havre AC
+26,Mon Feb 20 2017,20:45,US Orléans,2-1,0-0,RC Lens
+21,Tue Feb 21 2017,18:30,RC Strasbourg,4-2,1-2,Tours FC
+27,Fri Feb 24 2017,20:00,AC Ajaccio,0-0,0-0,FC Sochaux
+27,Fri Feb 24 2017,20:00,Amiens SC,0-2,0-1,US Orléans
+27,Fri Feb 24 2017,20:00,Stade Laval,2-4,1-0,FC Bourg-Péronnas
+27,Fri Feb 24 2017,20:00,Le Havre AC,1-0,0-0,AJ Auxerre
+27,Fri Feb 24 2017,20:00,Nîmes Olympique,1-1,0-1,GFC Ajaccio
+27,Fri Feb 24 2017,20:00,Chamois Niortais,2-3,1-2,Red Star FC
+27,Fri Feb 24 2017,20:00,RC Strasbourg,0-2,0-1,Clermont Foot
+27,Fri Feb 24 2017,20:00,Tours FC,0-0,0-0,ESTAC Troyes
+27,Sat Feb 25 2017,15:00,RC Lens,2-0,0-0,Valenciennes FC
+27,Mon Feb 27 2017,20:45,Stade Reims,1-1,0-1,Stade Brest
+28,Fri Mar 3 2017,20:00,Stade Brest,1-2,0-2,AC Ajaccio
+28,Fri Mar 3 2017,20:00,FC Bourg-Péronnas,0-1,0-0,Nîmes Olympique
+28,Fri Mar 3 2017,20:00,AJ Auxerre,1-2,0-0,Stade Reims
+28,Fri Mar 3 2017,20:00,FC Sochaux,0-1,0-1,Le Havre AC
+28,Fri Mar 3 2017,20:00,GFC Ajaccio,2-2,1-2,Tours FC
+28,Fri Mar 3 2017,20:00,Red Star FC,2-3,1-0,RC Lens
+28,Fri Mar 3 2017,20:00,Clermont Foot,1-1,0-1,Stade Laval
+28,Sat Mar 4 2017,15:00,US Orléans,1-1,1-1,Chamois Niortais
+28,Sat Mar 4 2017,15:00,ESTAC Troyes,4-0,2-0,Amiens SC
+28,Mon Mar 6 2017,20:45,Valenciennes FC,2-1,0-0,RC Strasbourg
+29,Fri Mar 10 2017,20:00,Amiens SC,2-1,1-1,FC Bourg-Péronnas
+29,Fri Mar 10 2017,20:00,GFC Ajaccio,3-1,3-0,ESTAC Troyes
+29,Fri Mar 10 2017,20:00,Stade Laval,0-0,0-0,AJ Auxerre
+29,Fri Mar 10 2017,20:00,Le Havre AC,0-1,0-0,Clermont Foot
+29,Fri Mar 10 2017,20:00,Tours FC,3-1,1-0,US Orléans
+29,Fri Mar 10 2017,20:00,Chamois Niortais,2-1,2-0,Valenciennes FC
+29,Fri Mar 10 2017,20:00,Stade Reims,3-0,1-0,AC Ajaccio
+29,Fri Mar 10 2017,20:00,Nîmes Olympique,2-0,0-0,Red Star FC
+29,Sat Mar 11 2017,15:00,RC Strasbourg,4-1,1-0,Stade Brest
+29,Mon Mar 13 2017,20:45,RC Lens,2-1,0-0,FC Sochaux
+30,Fri Mar 17 2017,20:00,AC Ajaccio,0-0,0-0,Le Havre AC
+30,Fri Mar 17 2017,20:00,FC Bourg-Péronnas,2-4,1-3,ESTAC Troyes
+30,Fri Mar 17 2017,20:00,Stade Brest,3-0,2-0,Stade Laval
+30,Fri Mar 17 2017,20:00,Clermont Foot,0-1,0-0,Chamois Niortais
+30,Fri Mar 17 2017,20:00,US Orléans,1-1,1-1,GFC Ajaccio
+30,Fri Mar 17 2017,20:00,Red Star FC,0-1,0-0,Amiens SC
+30,Fri Mar 17 2017,20:00,FC Sochaux,2-1,0-0,Nîmes Olympique
+30,Fri Mar 17 2017,20:00,Valenciennes FC,0-4,0-2,Tours FC
+30,Sat Mar 18 2017,15:00,Stade Reims,0-2,0-0,RC Lens
+30,Mon Mar 20 2017,20:45,AJ Auxerre,0-2,0-0,RC Strasbourg
+31,Fri Mar 31 2017,20:00,ESTAC Troyes,4-2,4-0,US Orléans
+31,Fri Mar 31 2017,20:00,GFC Ajaccio,2-3,1-0,FC Bourg-Péronnas
+31,Fri Mar 31 2017,20:00,Stade Laval,1-1,1-1,AC Ajaccio
+31,Fri Mar 31 2017,20:00,Amiens SC,0-1,0-0,Clermont Foot
+31,Fri Mar 31 2017,20:00,Nîmes Olympique,1-0,1-0,Valenciennes FC
+31,Fri Mar 31 2017,20:00,Chamois Niortais,1-0,0-0,AJ Auxerre
+31,Fri Mar 31 2017,20:00,Tours FC,3-1,2-1,Red Star FC
+31,Fri Mar 31 2017,20:00,Le Havre AC,1-1,1-0,Stade Reims
+31,Sat Apr 1 2017,15:00,RC Lens,0-2,0-1,Stade Brest
+31,Mon Apr 3 2017,20:45,RC Strasbourg,2-0,2-0,FC Sochaux
+32,Fri Apr 7 2017,20:00,Clermont Foot,2-3,0-2,Nîmes Olympique
+32,Fri Apr 7 2017,20:00,Stade Brest,1-1,1-1,Tours FC
+32,Fri Apr 7 2017,20:00,AJ Auxerre,1-0,1-0,Amiens SC
+32,Fri Apr 7 2017,20:00,Valenciennes FC,2-0,1-0,ESTAC Troyes
+32,Fri Apr 7 2017,20:00,US Orléans,1-0,0-0,FC Bourg-Péronnas
+32,Fri Apr 7 2017,20:00,FC Sochaux,2-2,1-1,Chamois Niortais
+32,Fri Apr 7 2017,20:00,Le Havre AC,2-0,0-0,Stade Laval
+32,Sat Apr 8 2017,15:00,Red Star FC,0-3,0-1,GFC Ajaccio
+32,Sat Apr 8 2017,15:00,Stade Reims,1-1,1-1,RC Strasbourg
+32,Mon Apr 10 2017,20:45,AC Ajaccio,3-6,3-5,RC Lens
+33,Fri Apr 14 2017,20:00,GFC Ajaccio,4-4,3-1,Clermont Foot
+33,Fri Apr 14 2017,20:00,FC Bourg-Péronnas,0-2,0-0,Valenciennes FC
+33,Fri Apr 14 2017,20:00,Amiens SC,2-0,1-0,Le Havre AC
+33,Fri Apr 14 2017,20:00,Stade Laval,5-2,1-2,Stade Reims
+33,Fri Apr 14 2017,20:00,Nîmes Olympique,2-0,0-0,US Orléans
+33,Fri Apr 14 2017,20:00,Chamois Niortais,0-3,0-0,Stade Brest
+33,Fri Apr 14 2017,20:00,Tours FC,3-1,2-1,FC Sochaux
+33,Fri Apr 14 2017,20:00,ESTAC Troyes,3-2,1-0,Red Star FC
+33,Sat Apr 15 2017,15:00,RC Lens,0-1,0-1,AJ Auxerre
+33,Mon Apr 17 2017,20:45,RC Strasbourg,4-2,2-1,AC Ajaccio
+34,Fri Apr 21 2017,20:00,Clermont Foot,1-1,0-1,ESTAC Troyes
+34,Fri Apr 21 2017,20:00,AJ Auxerre,1-1,1-1,Tours FC
+34,Fri Apr 21 2017,20:00,AC Ajaccio,3-1,3-1,Chamois Niortais
+34,Fri Apr 21 2017,20:00,Stade Laval,1-2,1-0,RC Strasbourg
+34,Fri Apr 21 2017,20:00,Red Star FC,4-1,2-1,FC Bourg-Péronnas
+34,Fri Apr 21 2017,20:00,Valenciennes FC,4-0,1-0,US Orléans
+34,Fri Apr 21 2017,20:00,FC Sochaux,1-2,1-0,GFC Ajaccio
+34,Fri Apr 21 2017,20:00,Stade Reims,1-1,1-0,Nîmes Olympique
+34,Sat Apr 22 2017,15:00,Stade Brest,2-3,1-1,Amiens SC
+34,Mon Apr 24 2017,20:45,Le Havre AC,1-0,1-0,RC Lens
+35,Fri Apr 28 2017,20:00,Nîmes Olympique,0-1,0-0,AJ Auxerre
+35,Fri Apr 28 2017,20:00,FC Bourg-Péronnas,0-1,0-1,FC Sochaux
+35,Fri Apr 28 2017,20:00,GFC Ajaccio,1-0,1-0,Valenciennes FC
+35,Fri Apr 28 2017,20:00,Amiens SC,2-1,0-0,AC Ajaccio
+35,Fri Apr 28 2017,20:00,Chamois Niortais,0-3,0-2,Stade Reims
+35,Fri Apr 28 2017,20:00,US Orléans,4-0,2-0,Red Star FC
+35,Fri Apr 28 2017,20:00,RC Strasbourg,2-0,1-0,Le Havre AC
+35,Fri Apr 28 2017,20:00,Tours FC,3-0,2-0,Clermont Foot
+35,Sat Apr 29 2017,15:00,ESTAC Troyes,1-0,1-0,Stade Brest
+35,Mon May 1 2017,20:45,RC Lens,2-0,0-0,Stade Laval
+36,Fri May 5 2017,20:00,AJ Auxerre,2-3,2-1,ESTAC Troyes
+36,Fri May 5 2017,20:00,Clermont Foot,2-3,0-1,FC Bourg-Péronnas
+36,Fri May 5 2017,20:00,Stade Laval,1-3,0-2,Tours FC
+36,Fri May 5 2017,20:00,Le Havre AC,0-0,0-0,Chamois Niortais
+36,Fri May 5 2017,20:00,Valenciennes FC,0-0,0-0,Red Star FC
+36,Fri May 5 2017,20:00,FC Sochaux,1-2,1-1,Amiens SC
+36,Fri May 5 2017,20:00,Stade Reims,0-2,0-1,US Orléans
+36,Sat May 6 2017,15:00,Stade Brest,2-3,1-1,Nîmes Olympique
+36,Mon May 8 2017,19:00,AC Ajaccio,1-0,0-0,GFC Ajaccio
+36,Mon May 8 2017,20:45,RC Lens,1-1,0-0,RC Strasbourg
+37,Fri May 12 2017,20:30,Amiens SC,3-0,2-0,Stade Laval
+37,Fri May 12 2017,20:30,FC Bourg-Péronnas,1-2,0-1,Stade Brest
+37,Fri May 12 2017,20:30,GFC Ajaccio,0-4,0-2,RC Lens
+37,Fri May 12 2017,20:30,Nîmes Olympique,3-1,1-1,AC Ajaccio
+37,Fri May 12 2017,20:30,Chamois Niortais,2-2,1-1,RC Strasbourg
+37,Fri May 12 2017,20:30,US Orléans,2-2,2-2,Clermont Foot
+37,Fri May 12 2017,20:30,Red Star FC,1-1,0-1,FC Sochaux
+37,Fri May 12 2017,20:30,Tours FC,0-4,0-2,Le Havre AC
+37,Fri May 12 2017,20:30,ESTAC Troyes,2-0,2-0,Stade Reims
+37,Fri May 12 2017,20:30,Valenciennes FC,0-0,0-0,AJ Auxerre
+38,Fri May 19 2017,20:30,AC Ajaccio,3-2,1-0,Tours FC
+38,Fri May 19 2017,20:30,AJ Auxerre,1-0,0-0,Red Star FC
+38,Fri May 19 2017,20:30,Stade Brest,6-2,3-0,GFC Ajaccio
+38,Fri May 19 2017,20:30,Clermont Foot,1-0,0-0,Valenciennes FC
+38,Fri May 19 2017,20:30,Stade Laval,1-2,1-0,Nîmes Olympique
+38,Fri May 19 2017,20:30,Le Havre AC,4-1,2-1,US Orléans
+38,Fri May 19 2017,20:30,RC Lens,3-1,2-0,Chamois Niortais
+38,Fri May 19 2017,20:30,Stade Reims,1-2,0-1,Amiens SC
+38,Fri May 19 2017,20:30,FC Sochaux,2-3,2-0,ESTAC Troyes
+38,Fri May 19 2017,20:30,RC Strasbourg,2-1,2-0,FC Bourg-Péronnas

@@ -1,0 +1,463 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 29 2014,20:30,AC Perugia Calcio,2-1,0-0,Bologna FC
+1,Sat Aug 30 2014,20:30,AS Avellino,1-0,0-0,Pro Vercelli
+1,Sat Aug 30 2014,20:30,Calcio Catania,3-3,1-0,Virtus Lanciano
+1,Sat Aug 30 2014,20:30,FC Crotone,0-2,0-1,Ternana Calcio
+1,Sat Aug 30 2014,20:30,Frosinone Calcio,1-0,0-0,Brescia Calcio
+1,Sat Aug 30 2014,20:30,AS Livorno,1-1,1-0,Carpi FC
+1,Sat Aug 30 2014,20:30,Virtus Entella,0-2,0-0,FC Bari 1908
+1,Sat Aug 30 2014,20:30,AS Varese 1910,2-1,0-0,Spezia Calcio
+1,Sat Aug 30 2014,20:30,Pescara Calcio,0-0,0-0,Trapani Calcio
+1,Mon Sep 1 2014,20:30,Modena FC,1-1,0-1,AS Cittadella
+2,Sat Sep 6 2014,20:30,Brescia Calcio,0-1,0-0,AS Livorno
+2,Sat Sep 6 2014,18:00,Latina Calcio,1-0,0-0,FC Crotone
+2,Sun Sep 7 2014,20:30,FC Bari 1908,0-2,0-1,AC Perugia Calcio
+2,Sun Sep 7 2014,15:00,Bologna FC,1-1,0-1,Virtus Entella
+2,Sun Sep 7 2014,15:00,Carpi FC,4-2,1-2,AS Varese 1910
+2,Sun Sep 7 2014,18:00,Pro Vercelli,3-2,0-1,Calcio Catania
+2,Sun Sep 7 2014,15:00,Spezia Calcio,2-1,2-1,Frosinone Calcio
+2,Sun Sep 7 2014,15:00,Ternana Calcio,1-1,1-0,Pescara Calcio
+2,Sun Sep 7 2014,15:00,Virtus Lanciano,2-0,1-0,Modena FC
+2,Sun Sep 7 2014,15:00,Trapani Calcio,2-1,1-0,Vicenza Calcio
+2,Sun Sep 7 2014,15:00,AS Cittadella,3-1,2-1,AS Avellino
+1,Wed Sep 10 2014,20:30,Vicenza Calcio,0-0,0-0,Latina Calcio
+3,Fri Sep 12 2014,20:30,Pescara Calcio,2-3,0-3,Bologna FC
+3,Sat Sep 13 2014,15:00,Modena FC,1-0,0-0,Pro Vercelli
+3,Sat Sep 13 2014,15:00,FC Crotone,1-1,1-0,Carpi FC
+3,Sat Sep 13 2014,15:00,Frosinone Calcio,1-1,0-1,FC Bari 1908
+3,Sat Sep 13 2014,15:00,AS Avellino,0-0,0-0,Spezia Calcio
+3,Sat Sep 13 2014,15:00,AC Perugia Calcio,1-0,0-0,Calcio Catania
+3,Sat Sep 13 2014,15:00,Trapani Calcio,2-1,1-1,AS Cittadella
+3,Sat Sep 13 2014,15:00,AS Varese 1910,1-1,0-1,Virtus Lanciano
+3,Sat Sep 13 2014,15:00,Virtus Entella,0-1,0-0,Brescia Calcio
+3,Sun Sep 14 2014,18:00,Vicenza Calcio,0-1,0-1,Ternana Calcio
+3,Mon Sep 15 2014,20:30,AS Livorno,1-1,0-0,Latina Calcio
+4,Fri Sep 19 2014,19:00,Carpi FC,2-2,2-1,Trapani Calcio
+4,Fri Sep 19 2014,21:00,Spezia Calcio,1-0,1-0,Virtus Entella
+4,Sat Sep 20 2014,15:00,Brescia Calcio,0-0,0-0,Ternana Calcio
+4,Sat Sep 20 2014,15:00,Bologna FC,0-2,0-0,FC Crotone
+4,Sat Sep 20 2014,15:00,FC Bari 1908,2-0,1-0,AS Livorno
+4,Sat Sep 20 2014,15:00,Calcio Catania,0-0,0-0,Modena FC
+4,Sat Sep 20 2014,15:00,AS Cittadella,3-2,1-1,Pescara Calcio
+4,Sat Sep 20 2014,15:00,Latina Calcio,1-2,1-1,AS Avellino
+4,Sat Sep 20 2014,15:00,Pro Vercelli,4-0,2-0,AS Varese 1910
+4,Sat Sep 20 2014,15:00,Virtus Lanciano,1-5,0-3,Frosinone Calcio
+4,Sat Sep 20 2014,15:00,AC Perugia Calcio,2-2,1-2,Vicenza Calcio
+5,Mon Sep 22 2014,20:30,Spezia Calcio,1-2,0-1,Carpi FC
+5,Tue Sep 23 2014,20:30,AS Livorno,1-0,1-0,AS Varese 1910
+5,Tue Sep 23 2014,20:30,AS Cittadella,1-2,1-1,Pro Vercelli
+5,Tue Sep 23 2014,20:30,Vicenza Calcio,1-0,0-0,FC Bari 1908
+5,Tue Sep 23 2014,20:30,Frosinone Calcio,0-0,0-0,AS Avellino
+5,Tue Sep 23 2014,20:30,Brescia Calcio,1-1,1-0,Virtus Lanciano
+5,Tue Sep 23 2014,20:30,Modena FC,0-0,0-0,AC Perugia Calcio
+5,Tue Sep 23 2014,20:30,Pescara Calcio,1-1,1-1,Latina Calcio
+5,Tue Sep 23 2014,20:30,Ternana Calcio,0-1,0-0,Bologna FC
+5,Tue Sep 23 2014,20:30,Trapani Calcio,2-2,0-1,Virtus Entella
+5,Tue Sep 23 2014,20:30,FC Crotone,1-1,0-1,Calcio Catania
+6,Sat Sep 27 2014,15:00,AS Avellino,2-1,0-1,AS Livorno
+6,Sat Sep 27 2014,15:00,Bologna FC,1-0,1-0,AS Cittadella
+6,Sat Sep 27 2014,15:00,Latina Calcio,1-1,0-0,Ternana Calcio
+6,Sat Sep 27 2014,15:00,Modena FC,2-0,0-0,Spezia Calcio
+6,Sat Sep 27 2014,15:00,FC Crotone,0-0,0-0,Vicenza Calcio
+6,Sat Sep 27 2014,15:00,Pro Vercelli,1-1,0-1,Frosinone Calcio
+6,Sat Sep 27 2014,15:00,AS Varese 1910,5-2,4-0,Trapani Calcio
+6,Sat Sep 27 2014,15:00,Virtus Entella,2-0,1-0,Carpi FC
+6,Sat Sep 27 2014,15:00,AC Perugia Calcio,1-0,0-0,Brescia Calcio
+6,Sun Sep 28 2014,18:00,Calcio Catania,2-1,1-1,Pescara Calcio
+6,Mon Sep 29 2014,20:30,Virtus Lanciano,1-1,1-0,FC Bari 1908
+7,Fri Oct 3 2014,20:30,AS Livorno,1-0,0-0,FC Crotone
+7,Sat Oct 4 2014,15:00,Carpi FC,1-0,1-0,Pro Vercelli
+7,Sat Oct 4 2014,15:00,Brescia Calcio,1-1,0-0,AS Varese 1910
+7,Sat Oct 4 2014,15:00,FC Bari 1908,1-1,1-1,Modena FC
+7,Sat Oct 4 2014,15:00,AS Cittadella,2-3,1-2,Virtus Lanciano
+7,Sat Oct 4 2014,15:00,Frosinone Calcio,1-0,0-0,Calcio Catania
+7,Sat Oct 4 2014,15:00,Pescara Calcio,4-0,1-0,Virtus Entella
+7,Sat Oct 4 2014,15:00,Spezia Calcio,2-0,1-0,AC Perugia Calcio
+7,Sat Oct 4 2014,15:00,Vicenza Calcio,0-0,0-0,Bologna FC
+7,Sat Oct 4 2014,15:00,Trapani Calcio,1-0,0-0,Latina Calcio
+7,Mon Oct 6 2014,20:30,Ternana Calcio,2-2,1-0,AS Avellino
+8,Sat Oct 11 2014,18:00,Pro Vercelli,1-0,0-0,Spezia Calcio
+8,Sat Oct 11 2014,20:30,Modena FC,1-1,0-1,Brescia Calcio
+8,Sun Oct 12 2014,15:00,AS Avellino,1-0,1-0,Carpi FC
+8,Sun Oct 12 2014,20:30,AC Perugia Calcio,0-1,0-0,Frosinone Calcio
+8,Sun Oct 12 2014,15:00,FC Crotone,1-4,0-2,Pescara Calcio
+8,Sun Oct 12 2014,15:00,Latina Calcio,1-2,0-2,Bologna FC
+8,Sun Oct 12 2014,15:00,AS Livorno,6-0,3-0,Trapani Calcio
+8,Sun Oct 12 2014,15:00,Virtus Lanciano,4-0,1-0,Vicenza Calcio
+8,Sun Oct 12 2014,12:30,Calcio Catania,2-3,1-2,FC Bari 1908
+8,Mon Oct 13 2014,20:30,AS Varese 1910,2-2,2-0,AS Cittadella
+9,Fri Oct 17 2014,20:30,Vicenza Calcio,2-1,1-0,Pescara Calcio
+9,Sat Oct 18 2014,15:00,Brescia Calcio,2-1,0-0,Pro Vercelli
+9,Sat Oct 18 2014,15:00,Bologna FC,3-0,1-0,AS Varese 1910
+9,Sat Oct 18 2014,15:00,Virtus Lanciano,1-1,0-0,AC Perugia Calcio
+9,Sat Oct 18 2014,15:00,Trapani Calcio,3-1,1-0,FC Crotone
+9,Sat Oct 18 2014,15:00,Frosinone Calcio,2-0,0-0,Modena FC
+9,Sat Oct 18 2014,15:00,Spezia Calcio,3-0,2-0,Calcio Catania
+9,Sat Oct 18 2014,15:00,Ternana Calcio,0-4,0-2,AS Livorno
+9,Sat Oct 18 2014,15:00,Carpi FC,2-1,2-1,Latina Calcio
+9,Sun Oct 19 2014,18:00,FC Bari 1908,4-2,2-1,AS Avellino
+9,Mon Oct 20 2014,20:30,AS Cittadella,0-1,0-1,Virtus Entella
+10,Fri Oct 24 2014,21:00,Modena FC,0-0,0-0,Bologna FC
+10,Fri Oct 24 2014,19:00,Ternana Calcio,1-2,1-1,Trapani Calcio
+10,Sat Oct 25 2014,15:00,Latina Calcio,1-1,1-0,Brescia Calcio
+10,Sat Oct 25 2014,15:00,AS Avellino,1-1,0-0,Virtus Lanciano
+10,Sat Oct 25 2014,15:00,FC Crotone,2-2,1-1,AS Cittadella
+10,Sat Oct 25 2014,15:00,AS Varese 1910,2-1,1-0,FC Bari 1908
+10,Sat Oct 25 2014,15:00,AS Livorno,0-1,0-0,Spezia Calcio
+10,Sat Oct 25 2014,15:00,Virtus Entella,1-0,0-0,Frosinone Calcio
+10,Sat Oct 25 2014,15:00,Pro Vercelli,0-0,0-0,AC Perugia Calcio
+10,Sat Oct 25 2014,15:00,Calcio Catania,3-1,0-0,Vicenza Calcio
+10,Sat Oct 25 2014,15:00,Pescara Calcio,0-5,0-2,Carpi FC
+11,Mon Oct 27 2014,20:30,Bologna FC,2-1,1-1,Trapani Calcio
+11,Tue Oct 28 2014,20:30,Vicenza Calcio,0-2,0-1,Modena FC
+11,Tue Oct 28 2014,20:30,FC Bari 1908,1-1,0-1,Pescara Calcio
+11,Tue Oct 28 2014,20:30,Brescia Calcio,2-1,2-1,FC Crotone
+11,Tue Oct 28 2014,20:30,Carpi FC,3-1,3-0,Ternana Calcio
+11,Tue Oct 28 2014,20:30,Calcio Catania,5-1,1-0,Virtus Entella
+11,Tue Oct 28 2014,20:30,AS Cittadella,1-1,0-0,AS Livorno
+11,Tue Oct 28 2014,20:30,Frosinone Calcio,1-1,1-0,AS Varese 1910
+11,Tue Oct 28 2014,20:30,AC Perugia Calcio,0-0,0-0,AS Avellino
+11,Tue Oct 28 2014,20:30,Spezia Calcio,1-1,0-1,Latina Calcio
+11,Tue Oct 28 2014,20:30,Virtus Lanciano,2-0,2-0,Pro Vercelli
+12,Sat Nov 1 2014,15:00,Pro Vercelli,3-0,2-0,FC Bari 1908
+12,Sat Nov 1 2014,15:00,AS Avellino,1-0,1-0,Calcio Catania
+12,Sat Nov 1 2014,15:00,FC Crotone,2-1,0-1,AC Perugia Calcio
+12,Sat Nov 1 2014,15:00,AS Livorno,3-2,0-0,Bologna FC
+12,Sat Nov 1 2014,15:00,Pescara Calcio,1-2,0-1,Spezia Calcio
+12,Sat Nov 1 2014,15:00,Carpi FC,1-0,0-0,Vicenza Calcio
+12,Sat Nov 1 2014,15:00,Ternana Calcio,1-1,1-1,AS Cittadella
+12,Sat Nov 1 2014,15:00,Trapani Calcio,3-2,0-1,Brescia Calcio
+12,Sat Nov 1 2014,15:00,Virtus Entella,0-0,0-0,Virtus Lanciano
+12,Sun Nov 2 2014,12:30,Latina Calcio,1-4,0-2,Frosinone Calcio
+12,Sun Nov 2 2014,18:00,AS Varese 1910,2-1,1-1,Modena FC
+8,Tue Nov 4 2014,18:00,Virtus Entella,2-1,1-0,Ternana Calcio
+13,Fri Nov 7 2014,20:30,Spezia Calcio,2-1,1-0,FC Crotone
+13,Sat Nov 8 2014,15:00,Vicenza Calcio,2-1,1-1,Pro Vercelli
+13,Sat Nov 8 2014,15:00,Brescia Calcio,1-3,1-0,Pescara Calcio
+13,Sat Nov 8 2014,15:00,Calcio Catania,2-1,2-0,AS Varese 1910
+13,Sat Nov 8 2014,15:00,Bologna FC,0-0,0-0,Carpi FC
+13,Sat Nov 8 2014,15:00,Frosinone Calcio,4-1,1-0,Trapani Calcio
+13,Sat Nov 8 2014,15:00,Modena FC,1-2,0-2,AS Avellino
+13,Sat Nov 8 2014,15:00,AC Perugia Calcio,2-1,2-1,Virtus Entella
+13,Sat Nov 8 2014,15:00,Virtus Lanciano,1-0,0-0,AS Livorno
+13,Sat Nov 8 2014,15:00,AS Cittadella,1-1,1-0,Latina Calcio
+13,Mon Nov 10 2014,20:30,FC Bari 1908,0-1,0-1,Ternana Calcio
+14,Sat Nov 15 2014,18:00,Carpi FC,5-2,4-1,AS Cittadella
+14,Sat Nov 15 2014,20:30,Bologna FC,1-2,1-0,Brescia Calcio
+14,Sun Nov 16 2014,15:00,Latina Calcio,1-0,0-0,Virtus Lanciano
+14,Sun Nov 16 2014,15:00,FC Crotone,3-0,1-0,FC Bari 1908
+14,Sun Nov 16 2014,12:30,Trapani Calcio,2-2,2-0,Calcio Catania
+14,Sun Nov 16 2014,15:00,AS Livorno,3-1,0-1,Pro Vercelli
+14,Sun Nov 16 2014,15:00,Pescara Calcio,3-0,0-0,Frosinone Calcio
+14,Sun Nov 16 2014,15:00,Ternana Calcio,0-0,0-0,Spezia Calcio
+14,Sun Nov 16 2014,18:00,AS Avellino,0-1,0-1,Vicenza Calcio
+14,Sun Nov 16 2014,15:00,AS Varese 1910,1-1,0-0,AC Perugia Calcio
+15,Fri Nov 21 2014,20:30,Frosinone Calcio,5-1,2-1,AS Livorno
+15,Sat Nov 22 2014,15:00,Modena FC,2-0,0-0,Pescara Calcio
+15,Sat Nov 22 2014,15:00,AS Avellino,0-0,0-0,AS Varese 1910
+15,Sat Nov 22 2014,15:00,FC Bari 1908,2-1,1-0,Trapani Calcio
+15,Sat Nov 22 2014,15:00,Brescia Calcio,3-3,1-1,Carpi FC
+15,Sat Nov 22 2014,15:00,AC Perugia Calcio,2-2,1-1,Ternana Calcio
+15,Sat Nov 22 2014,15:00,Vicenza Calcio,1-1,0-1,AS Cittadella
+15,Sat Nov 22 2014,15:00,Pro Vercelli,2-0,1-0,Virtus Entella
+15,Sat Nov 22 2014,15:00,Spezia Calcio,1-1,0-0,Bologna FC
+15,Sat Nov 22 2014,15:00,Virtus Lanciano,1-1,1-1,FC Crotone
+15,Sun Nov 23 2014,18:00,Calcio Catania,1-0,1-0,Latina Calcio
+16,Fri Nov 28 2014,20:30,Pescara Calcio,1-1,0-0,Virtus Lanciano
+16,Sat Nov 29 2014,15:00,FC Crotone,1-4,0-1,Modena FC
+16,Sat Nov 29 2014,15:00,Carpi FC,0-0,0-0,Frosinone Calcio
+16,Sat Nov 29 2014,15:00,AS Cittadella,1-1,1-1,Brescia Calcio
+16,Sat Nov 29 2014,15:00,AS Varese 1910,2-3,1-1,Vicenza Calcio
+16,Sat Nov 29 2014,15:00,Latina Calcio,1-1,0-0,Pro Vercelli
+16,Sat Nov 29 2014,15:00,AS Livorno,0-0,0-0,AC Perugia Calcio
+16,Sat Nov 29 2014,15:00,Virtus Entella,0-0,0-0,AS Avellino
+16,Sat Nov 29 2014,15:00,Trapani Calcio,3-2,0-0,Spezia Calcio
+16,Sat Nov 29 2014,15:00,Ternana Calcio,1-0,0-0,Calcio Catania
+16,Sun Nov 30 2014,12:30,Bologna FC,2-0,1-0,FC Bari 1908
+17,Fri Dec 5 2014,20:30,Frosinone Calcio,0-1,0-1,Ternana Calcio
+17,Sat Dec 6 2014,15:00,Virtus Lanciano,2-2,2-1,Trapani Calcio
+17,Sat Dec 6 2014,15:00,AS Avellino,1-2,1-1,FC Crotone
+17,Sat Dec 6 2014,15:00,FC Bari 1908,0-1,0-0,Carpi FC
+17,Sat Dec 6 2014,15:00,AS Varese 1910,2-2,1-2,Virtus Entella
+17,Sat Dec 6 2014,15:00,AC Perugia Calcio,0-0,0-0,Latina Calcio
+17,Sat Dec 6 2014,15:00,Pro Vercelli,0-4,0-1,Pescara Calcio
+17,Sat Dec 6 2014,15:00,Spezia Calcio,0-0,0-0,AS Cittadella
+17,Sat Dec 6 2014,15:00,Calcio Catania,2-2,0-1,Bologna FC
+17,Mon Dec 8 2014,15:00,Modena FC,0-0,0-0,AS Livorno
+17,Mon Dec 8 2014,17:30,Vicenza Calcio,2-0,1-0,Brescia Calcio
+18,Fri Dec 12 2014,20:30,Trapani Calcio,2-2,2-0,AC Perugia Calcio
+18,Sat Dec 13 2014,15:00,Brescia Calcio,0-1,0-1,Spezia Calcio
+18,Sat Dec 13 2014,15:00,Bologna FC,2-2,0-1,Frosinone Calcio
+18,Sat Dec 13 2014,15:00,Virtus Entella,2-1,1-0,Vicenza Calcio
+18,Sat Dec 13 2014,15:00,Ternana Calcio,0-1,0-0,Virtus Lanciano
+18,Sat Dec 13 2014,15:00,AS Cittadella,0-1,0-0,FC Bari 1908
+18,Sat Dec 13 2014,15:00,FC Crotone,0-1,0-0,Pro Vercelli
+18,Sat Dec 13 2014,15:00,AS Livorno,4-2,1-1,Calcio Catania
+18,Sat Dec 13 2014,15:00,Pescara Calcio,0-0,0-0,AS Avellino
+18,Sat Dec 13 2014,15:00,Carpi FC,1-0,0-0,Modena FC
+18,Mon Dec 15 2014,20:30,Latina Calcio,1-0,0-0,AS Varese 1910
+14,Tue Dec 16 2014,20:30,Virtus Entella,1-1,1-1,Modena FC
+19,Fri Dec 19 2014,19:00,Virtus Lanciano,1-1,1-1,Carpi FC
+19,Fri Dec 19 2014,21:00,AS Avellino,1-0,0-0,Bologna FC
+19,Sat Dec 20 2014,15:00,Modena FC,2-1,0-1,Trapani Calcio
+19,Sat Dec 20 2014,15:00,Vicenza Calcio,1-0,0-0,Spezia Calcio
+19,Sat Dec 20 2014,15:00,Frosinone Calcio,1-1,0-0,AS Cittadella
+19,Sat Dec 20 2014,15:00,FC Bari 1908,1-0,0-0,Latina Calcio
+19,Sat Dec 20 2014,15:00,AC Perugia Calcio,2-2,1-1,Pescara Calcio
+19,Sat Dec 20 2014,15:00,Pro Vercelli,2-1,0-1,Ternana Calcio
+19,Sat Dec 20 2014,15:00,AS Varese 1910,1-0,1-0,FC Crotone
+19,Sat Dec 20 2014,15:00,Virtus Entella,1-1,0-0,AS Livorno
+19,Sat Dec 20 2014,15:00,Calcio Catania,2-2,1-1,Brescia Calcio
+20,Wed Dec 24 2014,12:30,FC Crotone,2-0,1-0,Frosinone Calcio
+20,Wed Dec 24 2014,15:00,Bologna FC,3-0,2-0,Pro Vercelli
+20,Wed Dec 24 2014,15:00,Vicenza Calcio,0-0,0-0,AS Livorno
+20,Wed Dec 24 2014,15:00,Carpi FC,4-0,1-0,AC Perugia Calcio
+20,Wed Dec 24 2014,15:00,AS Cittadella,3-2,1-0,Calcio Catania
+20,Wed Dec 24 2014,15:00,Latina Calcio,1-1,1-1,Virtus Entella
+20,Wed Dec 24 2014,15:00,Pescara Calcio,2-0,1-0,AS Varese 1910
+20,Wed Dec 24 2014,15:00,Spezia Calcio,3-3,3-2,Virtus Lanciano
+20,Wed Dec 24 2014,15:00,Ternana Calcio,1-0,0-0,Modena FC
+20,Wed Dec 24 2014,15:00,Trapani Calcio,4-1,1-1,AS Avellino
+20,Wed Dec 24 2014,15:00,Brescia Calcio,2-1,1-0,FC Bari 1908
+21,Sun Dec 28 2014,12:30,FC Bari 1908,0-3,0-0,Spezia Calcio
+21,Sun Dec 28 2014,15:00,AS Avellino,2-0,1-0,Brescia Calcio
+21,Sun Dec 28 2014,15:00,Calcio Catania,0-2,0-0,Carpi FC
+21,Sun Dec 28 2014,15:00,Modena FC,0-0,0-0,Latina Calcio
+21,Sun Dec 28 2014,15:00,AC Perugia Calcio,3-1,1-0,AS Cittadella
+21,Sun Dec 28 2014,15:00,Pro Vercelli,1-0,1-0,Trapani Calcio
+21,Sun Dec 28 2014,15:00,AS Varese 1910,2-0,1-0,Ternana Calcio
+21,Sun Dec 28 2014,15:00,Virtus Entella,1-1,1-0,FC Crotone
+21,Sun Dec 28 2014,15:00,Virtus Lanciano,1-2,0-0,Bologna FC
+21,Sun Dec 28 2014,18:00,AS Livorno,1-2,1-1,Pescara Calcio
+21,Sun Dec 28 2014,15:00,Frosinone Calcio,1-0,0-0,Vicenza Calcio
+22,Sat Jan 17 2015,15:00,Latina Calcio,0-0,0-0,Vicenza Calcio
+22,Sat Jan 17 2015,15:00,Virtus Lanciano,3-0,1-0,Calcio Catania
+22,Sat Jan 17 2015,15:00,Ternana Calcio,2-1,1-0,FC Crotone
+22,Sat Jan 17 2015,15:00,Brescia Calcio,3-1,1-0,Frosinone Calcio
+22,Sat Jan 17 2015,15:00,AS Cittadella,1-1,0-1,Modena FC
+22,Sat Jan 17 2015,15:00,Trapani Calcio,2-4,1-2,Pescara Calcio
+22,Sat Jan 17 2015,15:00,Spezia Calcio,1-1,0-0,AS Varese 1910
+22,Sat Jan 17 2015,15:00,FC Bari 1908,0-0,0-0,Virtus Entella
+22,Sat Jan 17 2015,15:00,Pro Vercelli,1-1,0-0,AS Avellino
+22,Sun Jan 18 2015,18:00,Carpi FC,1-2,0-1,AS Livorno
+22,Mon Jan 19 2015,20:30,Bologna FC,2-1,1-0,AC Perugia Calcio
+23,Fri Jan 23 2015,20:30,Calcio Catania,4-0,3-0,Pro Vercelli
+23,Sat Jan 24 2015,15:00,AS Livorno,4-2,2-1,Brescia Calcio
+23,Sat Jan 24 2015,15:00,Virtus Entella,1-2,1-1,Bologna FC
+23,Sat Jan 24 2015,15:00,AC Perugia Calcio,1-1,0-1,FC Bari 1908
+23,Sat Jan 24 2015,15:00,AS Varese 1910,0-1,0-1,Carpi FC
+23,Sat Jan 24 2015,15:00,AS Avellino,1-2,1-2,AS Cittadella
+23,Sat Jan 24 2015,15:00,FC Crotone,2-1,1-1,Latina Calcio
+23,Sat Jan 24 2015,15:00,Frosinone Calcio,1-1,1-0,Spezia Calcio
+23,Sat Jan 24 2015,15:00,Pescara Calcio,1-2,1-1,Ternana Calcio
+23,Sat Jan 24 2015,15:00,Vicenza Calcio,3-0,2-0,Trapani Calcio
+23,Sun Jan 25 2015,12:30,Modena FC,1-1,0-0,Virtus Lanciano
+24,Fri Jan 30 2015,20:30,FC Bari 1908,4-0,2-0,Frosinone Calcio
+24,Sat Jan 31 2015,15:00,Calcio Catania,2-0,1-0,AC Perugia Calcio
+24,Sat Jan 31 2015,15:00,Latina Calcio,3-2,1-1,AS Livorno
+24,Sat Jan 31 2015,15:00,Ternana Calcio,0-2,0-1,Vicenza Calcio
+24,Sat Jan 31 2015,15:00,Carpi FC,2-1,0-1,FC Crotone
+24,Sat Jan 31 2015,15:00,Bologna FC,0-0,0-0,Pescara Calcio
+24,Sat Jan 31 2015,15:00,AS Cittadella,1-0,1-0,Trapani Calcio
+24,Sat Jan 31 2015,15:00,Virtus Lanciano,1-2,0-1,AS Varese 1910
+24,Sat Jan 31 2015,15:00,Brescia Calcio,3-0,1-0,Virtus Entella
+24,Sat Jan 31 2015,15:00,Pro Vercelli,1-1,1-1,Modena FC
+24,Mon Feb 2 2015,20:30,Spezia Calcio,0-1,0-1,AS Avellino
+25,Fri Feb 6 2015,20:30,Trapani Calcio,0-0,0-0,Carpi FC
+25,Sat Feb 7 2015,15:00,Vicenza Calcio,3-1,0-1,AC Perugia Calcio
+25,Sat Feb 7 2015,15:00,FC Crotone,0-2,0-1,Bologna FC
+25,Sat Feb 7 2015,15:00,AS Livorno,5-2,2-0,FC Bari 1908
+25,Sat Feb 7 2015,15:00,AS Avellino,1-0,0-0,Latina Calcio
+25,Sat Feb 7 2015,15:00,AS Varese 1910,1-1,0-0,Pro Vercelli
+25,Sat Feb 7 2015,15:00,Virtus Entella,2-0,0-0,Spezia Calcio
+25,Sat Feb 7 2015,15:00,Frosinone Calcio,2-1,0-1,Virtus Lanciano
+25,Sat Feb 7 2015,15:00,Pescara Calcio,1-1,0-1,AS Cittadella
+25,Sun Feb 8 2015,18:00,Ternana Calcio,2-1,0-1,Brescia Calcio
+26,Fri Feb 13 2015,20:30,AC Perugia Calcio,2-0,1-0,Modena FC
+26,Sat Feb 14 2015,15:00,AS Avellino,3-0,1-0,Frosinone Calcio
+26,Sat Feb 14 2015,15:00,Virtus Lanciano,2-0,0-0,Brescia Calcio
+26,Sat Feb 14 2015,15:00,Pro Vercelli,0-1,0-0,AS Cittadella
+26,Sat Feb 14 2015,15:00,Virtus Entella,1-1,0-1,Trapani Calcio
+26,Sat Feb 14 2015,15:00,AS Varese 1910,0-1,0-0,AS Livorno
+26,Sat Feb 14 2015,15:00,Latina Calcio,2-0,0-0,Pescara Calcio
+26,Sat Feb 14 2015,15:00,Carpi FC,0-0,0-0,Spezia Calcio
+26,Sat Feb 14 2015,15:00,Bologna FC,0-0,0-0,Ternana Calcio
+26,Sat Feb 14 2015,15:00,FC Bari 1908,0-1,0-0,Vicenza Calcio
+26,Mon Feb 16 2015,20:30,Calcio Catania,1-1,0-1,FC Crotone
+27,Sat Feb 21 2015,15:00,Spezia Calcio,3-2,1-1,Modena FC
+27,Sat Feb 21 2015,15:00,AS Cittadella,0-1,0-1,Bologna FC
+27,Sat Feb 21 2015,15:00,Ternana Calcio,0-2,0-1,Latina Calcio
+27,Sat Feb 21 2015,18:00,FC Bari 1908,2-0,2-0,Virtus Lanciano
+27,Sat Feb 21 2015,15:00,Vicenza Calcio,1-0,0-0,FC Crotone
+27,Sat Feb 21 2015,15:00,Frosinone Calcio,3-2,2-0,Pro Vercelli
+27,Sat Feb 21 2015,15:00,Trapani Calcio,0-0,0-0,AS Varese 1910
+27,Sat Feb 21 2015,15:00,Carpi FC,0-0,0-0,Virtus Entella
+27,Sat Feb 21 2015,15:00,Brescia Calcio,1-2,1-0,AC Perugia Calcio
+27,Sun Feb 22 2015,15:00,Pescara Calcio,1-0,0-0,Calcio Catania
+27,Sun Feb 22 2015,12:30,AS Livorno,0-1,0-0,AS Avellino
+28,Fri Feb 27 2015,19:00,Latina Calcio,1-0,0-0,Trapani Calcio
+28,Fri Feb 27 2015,21:00,Bologna FC,0-2,0-1,Vicenza Calcio
+28,Sat Feb 28 2015,15:00,Pro Vercelli,0-0,0-0,Carpi FC
+28,Sat Feb 28 2015,15:00,Modena FC,0-1,0-1,FC Bari 1908
+28,Sat Feb 28 2015,15:00,AS Varese 1910,1-2,1-1,Brescia Calcio
+28,Sat Feb 28 2015,15:00,AS Avellino,1-1,1-1,Ternana Calcio
+28,Sat Feb 28 2015,15:00,Virtus Lanciano,2-2,2-2,AS Cittadella
+28,Sat Feb 28 2015,15:00,Calcio Catania,1-2,1-0,Frosinone Calcio
+28,Sat Feb 28 2015,15:00,FC Crotone,1-0,1-0,AS Livorno
+28,Sat Feb 28 2015,15:00,Virtus Entella,2-5,1-3,Pescara Calcio
+28,Sat Feb 28 2015,15:00,AC Perugia Calcio,2-1,2-0,Spezia Calcio
+29,Tue Mar 3 2015,20:30,Trapani Calcio,0-0,0-0,AS Livorno
+29,Tue Mar 3 2015,20:30,Carpi FC,2-0,1-0,AS Avellino
+29,Tue Mar 3 2015,20:30,FC Bari 1908,1-1,0-0,Calcio Catania
+29,Tue Mar 3 2015,20:30,Pescara Calcio,2-1,0-0,FC Crotone
+29,Tue Mar 3 2015,20:30,Bologna FC,0-0,0-0,Latina Calcio
+29,Tue Mar 3 2015,20:30,Vicenza Calcio,2-2,0-1,Virtus Lanciano
+29,Tue Mar 3 2015,20:30,Brescia Calcio,0-1,0-1,Modena FC
+29,Tue Mar 3 2015,20:30,Frosinone Calcio,2-1,1-0,AC Perugia Calcio
+29,Tue Mar 3 2015,20:30,Spezia Calcio,5-2,2-2,Pro Vercelli
+29,Tue Mar 3 2015,20:30,AS Cittadella,3-0,3-0,AS Varese 1910
+29,Tue Mar 3 2015,20:30,Ternana Calcio,0-1,0-1,Virtus Entella
+30,Sat Mar 7 2015,15:00,Calcio Catania,2-2,0-0,Spezia Calcio
+30,Sat Mar 7 2015,15:00,AS Varese 1910,1-3,1-0,Bologna FC
+30,Sat Mar 7 2015,15:00,Pro Vercelli,0-0,0-0,Brescia Calcio
+30,Sat Mar 7 2015,15:00,Latina Calcio,0-1,0-1,Carpi FC
+30,Sat Mar 7 2015,15:00,Modena FC,1-0,1-0,Frosinone Calcio
+30,Sat Mar 7 2015,18:00,AS Avellino,2-0,1-0,FC Bari 1908
+30,Sat Mar 7 2015,15:00,Pescara Calcio,2-2,0-0,Vicenza Calcio
+30,Sat Mar 7 2015,15:00,FC Crotone,1-0,0-0,Trapani Calcio
+30,Sat Mar 7 2015,15:00,AC Perugia Calcio,0-0,0-0,Virtus Lanciano
+30,Sat Mar 7 2015,15:00,AS Livorno,3-1,2-1,Ternana Calcio
+30,Mon Mar 9 2015,20:30,Virtus Entella,2-1,1-0,AS Cittadella
+25,Tue Mar 10 2015,18:30,Modena FC,0-0,0-0,Calcio Catania
+31,Fri Mar 13 2015,20:30,Spezia Calcio,3-0,0-0,AS Livorno
+31,Sat Mar 14 2015,15:00,Virtus Lanciano,1-0,1-0,AS Avellino
+31,Sat Mar 14 2015,15:00,AS Cittadella,0-0,0-0,FC Crotone
+31,Sat Mar 14 2015,15:00,Brescia Calcio,1-2,0-1,Latina Calcio
+31,Sat Mar 14 2015,15:00,Carpi FC,1-2,0-0,Pescara Calcio
+31,Sat Mar 14 2015,15:00,Frosinone Calcio,3-3,2-2,Virtus Entella
+31,Sat Mar 14 2015,15:00,Trapani Calcio,4-2,3-2,Ternana Calcio
+31,Sat Mar 14 2015,15:00,FC Bari 1908,3-0,1-0,AS Varese 1910
+31,Sat Mar 14 2015,15:00,AC Perugia Calcio,3-2,1-0,Pro Vercelli
+31,Sun Mar 15 2015,15:00,Bologna FC,0-0,0-0,Modena FC
+31,Mon Mar 16 2015,20:30,Vicenza Calcio,0-0,0-0,Calcio Catania
+32,Fri Mar 20 2015,20:30,Pescara Calcio,0-0,0-0,FC Bari 1908
+32,Sat Mar 21 2015,15:00,AS Livorno,0-1,0-1,AS Cittadella
+32,Sat Mar 21 2015,15:00,FC Crotone,2-1,0-0,Brescia Calcio
+32,Sat Mar 21 2015,15:00,Ternana Calcio,0-1,0-1,Carpi FC
+32,Sat Mar 21 2015,15:00,Virtus Entella,2-0,2-0,Calcio Catania
+32,Sat Mar 21 2015,15:00,Trapani Calcio,0-0,0-0,Bologna FC
+32,Sat Mar 21 2015,15:00,AS Avellino,1-2,1-0,AC Perugia Calcio
+32,Sat Mar 21 2015,15:00,Latina Calcio,1-2,0-1,Spezia Calcio
+32,Sat Mar 21 2015,15:00,Pro Vercelli,2-1,2-1,Virtus Lanciano
+32,Sat Mar 21 2015,15:00,Modena FC,1-2,1-1,Vicenza Calcio
+32,Mon Mar 23 2015,20:30,AS Varese 1910,1-4,1-2,Frosinone Calcio
+33,Sat Mar 28 2015,15:00,Bologna FC,2-0,0-0,AS Livorno
+33,Sat Mar 28 2015,15:00,Spezia Calcio,2-2,1-1,Pescara Calcio
+33,Sat Mar 28 2015,18:00,Vicenza Calcio,1-2,0-2,Carpi FC
+33,Sun Mar 29 2015,15:00,Calcio Catania,1-0,1-0,AS Avellino
+33,Sun Mar 29 2015,12:30,AC Perugia Calcio,0-0,0-0,FC Crotone
+33,Sun Mar 29 2015,20:30,Brescia Calcio,1-1,0-0,Trapani Calcio
+33,Sun Mar 29 2015,15:00,AS Cittadella,0-0,0-0,Ternana Calcio
+33,Sun Mar 29 2015,15:00,Modena FC,1-1,0-1,AS Varese 1910
+33,Sun Mar 29 2015,15:00,Virtus Lanciano,1-0,0-0,Virtus Entella
+33,Sun Mar 29 2015,15:00,FC Bari 1908,1-0,0-0,Pro Vercelli
+34,Wed Apr 1 2015,20:30,Carpi FC,3-0,1-0,Bologna FC
+34,Thu Apr 2 2015,20:30,Pro Vercelli,1-1,0-0,Vicenza Calcio
+34,Thu Apr 2 2015,20:30,Ternana Calcio,2-0,0-0,FC Bari 1908
+34,Thu Apr 2 2015,20:30,Pescara Calcio,2-3,2-1,Brescia Calcio
+34,Thu Apr 2 2015,20:30,AS Varese 1910,0-3,0-2,Calcio Catania
+34,Thu Apr 2 2015,20:30,AS Livorno,1-0,1-0,Virtus Lanciano
+34,Thu Apr 2 2015,20:30,Trapani Calcio,3-1,1-0,Frosinone Calcio
+34,Thu Apr 2 2015,20:30,AS Avellino,1-0,1-0,Modena FC
+34,Thu Apr 2 2015,20:30,Virtus Entella,0-2,0-1,AC Perugia Calcio
+34,Thu Apr 2 2015,20:30,FC Crotone,2-0,1-0,Spezia Calcio
+34,Thu Apr 2 2015,20:30,Latina Calcio,3-2,0-1,AS Cittadella
+35,Fri Apr 10 2015,20:30,Vicenza Calcio,1-0,1-0,AS Avellino
+35,Sat Apr 11 2015,15:00,FC Bari 1908,1-1,0-1,FC Crotone
+35,Sat Apr 11 2015,15:00,Brescia Calcio,1-1,1-1,Bologna FC
+35,Sat Apr 11 2015,15:00,AS Cittadella,0-1,0-1,Carpi FC
+35,Sat Apr 11 2015,15:00,Modena FC,2-0,2-0,Virtus Entella
+35,Sat Apr 11 2015,15:00,Virtus Lanciano,1-1,0-0,Latina Calcio
+35,Sat Apr 11 2015,15:00,Calcio Catania,4-1,0-1,Trapani Calcio
+35,Sat Apr 11 2015,15:00,Frosinone Calcio,2-1,1-0,Pescara Calcio
+35,Sat Apr 11 2015,15:00,Spezia Calcio,0-1,0-0,Ternana Calcio
+35,Sat Apr 11 2015,15:00,Pro Vercelli,3-3,2-2,AS Livorno
+35,Mon Apr 13 2015,20:30,AC Perugia Calcio,2-0,1-0,AS Varese 1910
+33,Tue Apr 14 2015,18:00,Frosinone Calcio,1-0,1-0,Latina Calcio
+36,Fri Apr 17 2015,20:30,AS Cittadella,0-1,0-0,Vicenza Calcio
+36,Sat Apr 18 2015,15:00,Carpi FC,3-0,2-0,Brescia Calcio
+36,Sat Apr 18 2015,15:00,Trapani Calcio,1-1,0-0,FC Bari 1908
+36,Sat Apr 18 2015,15:00,Pescara Calcio,1-0,0-0,Modena FC
+36,Sat Apr 18 2015,15:00,FC Crotone,1-1,0-0,Virtus Lanciano
+36,Sat Apr 18 2015,15:00,Bologna FC,0-0,0-0,Spezia Calcio
+36,Sat Apr 18 2015,15:00,Ternana Calcio,0-0,0-0,AC Perugia Calcio
+36,Sun Apr 19 2015,15:00,AS Varese 1910,1-1,0-1,AS Avellino
+36,Sun Apr 19 2015,15:00,Latina Calcio,1-2,0-1,Calcio Catania
+36,Sun Apr 19 2015,15:00,AS Livorno,0-0,0-0,Frosinone Calcio
+36,Mon Apr 20 2015,20:30,Virtus Entella,0-0,0-0,Pro Vercelli
+37,Fri Apr 24 2015,19:00,Calcio Catania,2-0,1-0,Ternana Calcio
+37,Fri Apr 24 2015,21:00,FC Bari 1908,1-1,1-1,Bologna FC
+37,Sat Apr 25 2015,15:00,Pro Vercelli,1-1,0-1,Latina Calcio
+37,Sat Apr 25 2015,15:00,Brescia Calcio,0-0,0-0,AS Cittadella
+37,Sat Apr 25 2015,15:00,Modena FC,3-0,2-0,FC Crotone
+37,Sat Apr 25 2015,15:00,Frosinone Calcio,1-0,1-0,Carpi FC
+37,Sat Apr 25 2015,15:00,AC Perugia Calcio,1-1,0-1,AS Livorno
+37,Sat Apr 25 2015,15:00,Virtus Lanciano,0-1,0-0,Pescara Calcio
+37,Sat Apr 25 2015,15:00,Spezia Calcio,3-0,2-0,Trapani Calcio
+37,Sat Apr 25 2015,15:00,AS Avellino,1-1,1-0,Virtus Entella
+37,Sat Apr 25 2015,15:00,Vicenza Calcio,1-0,0-0,AS Varese 1910
+38,Mon Apr 27 2015,20:30,Bologna FC,2-0,1-0,Calcio Catania
+38,Tue Apr 28 2015,20:30,FC Crotone,2-0,1-0,AS Avellino
+38,Tue Apr 28 2015,20:30,Carpi FC,0-0,0-0,FC Bari 1908
+38,Tue Apr 28 2015,20:30,Ternana Calcio,0-1,0-1,Frosinone Calcio
+38,Tue Apr 28 2015,20:30,AS Livorno,1-1,0-1,Modena FC
+38,Tue Apr 28 2015,20:30,Latina Calcio,0-0,0-0,AC Perugia Calcio
+38,Tue Apr 28 2015,20:30,Pescara Calcio,1-0,1-0,Pro Vercelli
+38,Tue Apr 28 2015,20:30,AS Cittadella,1-3,1-0,Spezia Calcio
+38,Tue Apr 28 2015,20:30,Virtus Entella,0-1,0-0,AS Varese 1910
+38,Tue Apr 28 2015,20:30,Trapani Calcio,1-0,1-0,Virtus Lanciano
+38,Tue Apr 28 2015,20:30,Brescia Calcio,3-0,2-0,Vicenza Calcio
+39,Sat May 2 2015,15:00,Frosinone Calcio,2-1,2-1,Bologna FC
+39,Sat May 2 2015,15:00,Spezia Calcio,4-1,2-1,Brescia Calcio
+39,Sat May 2 2015,15:00,FC Bari 1908,1-0,0-0,AS Cittadella
+39,Sat May 2 2015,15:00,Pro Vercelli,3-2,2-2,FC Crotone
+39,Sat May 2 2015,15:00,AS Varese 1910,1-2,1-1,Latina Calcio
+39,Sat May 2 2015,15:00,Vicenza Calcio,0-0,0-0,Virtus Entella
+39,Sat May 2 2015,15:00,Virtus Lanciano,1-1,1-1,Ternana Calcio
+39,Sat May 2 2015,15:00,AC Perugia Calcio,1-0,1-0,Trapani Calcio
+39,Sat May 2 2015,15:00,Calcio Catania,1-1,1-0,AS Livorno
+39,Sun May 3 2015,15:00,AS Avellino,3-2,0-1,Pescara Calcio
+39,Sun May 3 2015,18:00,Modena FC,1-2,0-0,Carpi FC
+40,Fri May 8 2015,20:30,AS Livorno,2-1,0-0,Virtus Entella
+40,Sat May 9 2015,15:00,Brescia Calcio,4-2,2-0,Calcio Catania
+40,Sat May 9 2015,15:00,Latina Calcio,2-0,1-0,FC Bari 1908
+40,Sat May 9 2015,15:00,Bologna FC,1-1,0-1,AS Avellino
+40,Sat May 9 2015,15:00,AS Cittadella,1-1,0-1,Frosinone Calcio
+40,Sat May 9 2015,15:00,Trapani Calcio,3-0,2-0,Modena FC
+40,Sat May 9 2015,15:00,Spezia Calcio,0-0,0-0,Vicenza Calcio
+40,Sat May 9 2015,15:00,Ternana Calcio,0-1,0-1,Pro Vercelli
+40,Sat May 9 2015,15:00,Carpi FC,0-0,0-0,Virtus Lanciano
+40,Sat May 9 2015,15:00,Pescara Calcio,2-2,0-0,AC Perugia Calcio
+40,Sun May 10 2015,18:00,FC Crotone,1-0,1-0,AS Varese 1910
+41,Fri May 15 2015,20:30,AC Perugia Calcio,2-0,2-0,Carpi FC
+41,Sat May 16 2015,15:00,Virtus Entella,2-0,1-0,Latina Calcio
+41,Sat May 16 2015,15:00,Calcio Catania,2-3,1-1,AS Cittadella
+41,Sat May 16 2015,15:00,Frosinone Calcio,3-1,2-0,FC Crotone
+41,Sat May 16 2015,15:00,Pro Vercelli,1-1,0-0,Bologna FC
+41,Sat May 16 2015,15:00,AS Varese 1910,2-1,1-0,Pescara Calcio
+41,Sat May 16 2015,15:00,Virtus Lanciano,0-2,0-1,Spezia Calcio
+41,Sat May 16 2015,15:00,Modena FC,1-2,1-1,Ternana Calcio
+41,Sat May 16 2015,15:00,AS Avellino,1-1,0-0,Trapani Calcio
+41,Sat May 16 2015,15:00,AS Livorno,1-1,1-0,Vicenza Calcio
+41,Sat May 16 2015,18:00,FC Bari 1908,3-2,2-0,Brescia Calcio
+42,Fri May 22 2015,20:30,Brescia Calcio,3-2,2-1,AS Avellino
+42,Fri May 22 2015,20:30,Spezia Calcio,1-0,0-0,FC Bari 1908
+42,Fri May 22 2015,20:30,Carpi FC,0-0,0-0,Calcio Catania
+42,Fri May 22 2015,20:30,Pescara Calcio,3-0,1-0,AS Livorno
+42,Fri May 22 2015,20:30,Latina Calcio,1-1,1-1,Modena FC
+42,Fri May 22 2015,20:30,AS Cittadella,0-2,0-0,AC Perugia Calcio
+42,Fri May 22 2015,20:30,Trapani Calcio,2-1,1-0,Pro Vercelli
+42,Fri May 22 2015,20:30,Ternana Calcio,2-0,1-0,AS Varese 1910
+42,Fri May 22 2015,20:30,FC Crotone,0-0,0-0,Virtus Entella
+42,Fri May 22 2015,20:30,Bologna FC,1-0,1-0,Virtus Lanciano
+42,Fri May 22 2015,20:30,Vicenza Calcio,2-1,0-0,Frosinone Calcio

@@ -1,0 +1,241 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Mar 30 2019,13:30,IF Brommapojkarna,1-2,1-1,Västerås SK
+1,Sat Mar 30 2019,16:00,Mjällby AIF,0-1,0-0,Varbergs BoIS
+1,Sat Mar 30 2019,16:00,Örgryte IS,1-1,1-0,Norrby IF
+1,Sat Mar 30 2019,16:00,Trelleborgs FF,2-2,2-2,GAIS Göteborg
+1,Sun Mar 31 2019,15:00,Östers IF,0-0,0-0,Dalkurd FF
+1,Sun Mar 31 2019,17:30,Syrianska FC,1-4,1-3,Degerfors IF
+1,Mon Apr 1 2019,19:00,IK Brage,2-0,0-0,IK Frej
+1,Tue Apr 2 2019,19:00,Jönköpings Södra IF,0-1,0-0,Halmstads BK
+2,Fri Apr 5 2019,19:00,GAIS Göteborg,1-1,0-1,Östers IF
+2,Sat Apr 6 2019,13:30,Degerfors IF,2-1,2-1,Jönköpings Södra IF
+2,Sat Apr 6 2019,16:00,Halmstads BK,1-3,0-3,Örgryte IS
+2,Sun Apr 7 2019,17:30,IK Frej,0-3,0-1,Syrianska FC
+2,Sun Apr 7 2019,15:00,Varbergs BoIS,3-1,3-1,Trelleborgs FF
+2,Sun Apr 7 2019,15:00,Dalkurd FF,0-4,0-1,IF Brommapojkarna
+2,Mon Apr 8 2019,19:00,Norrby IF,2-1,2-1,Mjällby AIF
+2,Tue Apr 9 2019,19:00,Västerås SK,1-1,1-0,IK Brage
+3,Fri Apr 12 2019,19:00,Jönköpings Södra IF,1-0,0-0,Dalkurd FF
+3,Sat Apr 13 2019,13:30,Mjällby AIF,2-1,1-0,Västerås SK
+3,Sat Apr 13 2019,16:00,IK Brage,2-0,0-0,Halmstads BK
+3,Sun Apr 14 2019,17:30,Syrianska FC,1-5,0-2,Varbergs BoIS
+3,Sun Apr 14 2019,15:00,IF Brommapojkarna,1-2,0-1,GAIS Göteborg
+3,Mon Apr 15 2019,19:00,Örgryte IS,2-0,0-0,IK Frej
+3,Mon Apr 15 2019,19:00,Trelleborgs FF,1-1,0-1,Norrby IF
+3,Tue Apr 16 2019,19:00,Östers IF,1-1,1-1,Degerfors IF
+4,Fri Apr 19 2019,16:00,GAIS Göteborg,0-3,0-1,IK Brage
+4,Sat Apr 20 2019,13:30,Degerfors IF,1-2,0-1,Örgryte IS
+4,Sun Apr 21 2019,15:00,Norrby IF,1-7,0-3,Jönköpings Södra IF
+4,Sun Apr 21 2019,17:30,Dalkurd FF,2-1,1-0,Mjällby AIF
+4,Mon Apr 22 2019,15:00,Västerås SK,0-0,0-0,Trelleborgs FF
+4,Mon Apr 22 2019,17:30,IK Frej,3-2,1-1,Östers IF
+4,Mon Apr 22 2019,17:30,Halmstads BK,2-2,2-1,Syrianska FC
+4,Mon Apr 22 2019,17:30,Varbergs BoIS,3-0,0-0,IF Brommapojkarna
+5,Fri Apr 26 2019,19:00,Örgryte IS,0-2,0-1,Västerås SK
+5,Sat Apr 27 2019,13:30,Mjällby AIF,1-0,1-0,Degerfors IF
+5,Sat Apr 27 2019,16:00,Jönköpings Södra IF,1-1,1-0,IK Frej
+5,Sat Apr 27 2019,16:00,IF Brommapojkarna,2-1,0-1,Halmstads BK
+5,Sun Apr 28 2019,15:00,IK Brage,1-2,1-1,Varbergs BoIS
+5,Sun Apr 28 2019,15:00,Trelleborgs FF,2-0,0-0,Dalkurd FF
+5,Sun Apr 28 2019,17:30,Syrianska FC,0-0,0-0,GAIS Göteborg
+5,Mon Apr 29 2019,19:00,Östers IF,0-1,0-0,Norrby IF
+6,Fri May 3 2019,19:00,Norrby IF,2-0,0-0,IF Brommapojkarna
+6,Sat May 4 2019,16:00,Mjällby AIF,2-1,1-0,Örgryte IS
+6,Sat May 4 2019,16:00,Västerås SK,1-2,1-1,Varbergs BoIS
+6,Sun May 5 2019,17:30,Halmstads BK,0-1,0-0,Östers IF
+6,Sun May 5 2019,15:00,GAIS Göteborg,1-0,1-0,Jönköpings Södra IF
+6,Mon May 6 2019,19:00,Dalkurd FF,4-1,1-1,Syrianska FC
+6,Mon May 6 2019,19:00,IK Frej,3-3,1-2,Trelleborgs FF
+6,Tue May 7 2019,19:00,Degerfors IF,1-0,0-0,IK Brage
+7,Fri May 10 2019,19:00,GAIS Göteborg,0-1,0-1,IK Frej
+7,Sat May 11 2019,13:30,Trelleborgs FF,0-1,0-0,Halmstads BK
+7,Sat May 11 2019,16:00,Varbergs BoIS,2-0,1-0,Dalkurd FF
+7,Sat May 11 2019,18:00,Örgryte IS,1-1,1-1,Jönköpings Södra IF
+7,Sat May 11 2019,16:00,IF Brommapojkarna,2-3,1-0,Degerfors IF
+7,Sun May 12 2019,15:00,Östers IF,0-0,0-0,Västerås SK
+7,Sun May 12 2019,17:30,IK Brage,0-0,0-0,Norrby IF
+7,Sun May 12 2019,17:30,Syrianska FC,1-2,1-1,Mjällby AIF
+8,Tue May 14 2019,19:00,Halmstads BK,1-2,1-2,GAIS Göteborg
+8,Wed May 15 2019,19:00,IK Frej,1-1,0-1,IF Brommapojkarna
+8,Wed May 15 2019,19:00,Mjällby AIF,2-1,0-1,Trelleborgs FF
+8,Wed May 15 2019,19:00,Örgryte IS,1-1,0-1,Varbergs BoIS
+8,Thu May 16 2019,19:00,Dalkurd FF,1-3,1-3,IK Brage
+8,Thu May 16 2019,19:00,Västerås SK,0-0,0-0,Syrianska FC
+8,Thu May 16 2019,19:00,Jönköpings Södra IF,2-0,2-0,Östers IF
+8,Thu May 16 2019,19:00,Degerfors IF,0-0,0-0,Norrby IF
+9,Sat May 18 2019,16:00,Varbergs BoIS,1-0,0-0,Halmstads BK
+9,Sun May 19 2019,15:00,Norrby IF,3-0,1-0,IK Frej
+9,Sun May 19 2019,17:30,Östers IF,0-1,0-1,Mjällby AIF
+9,Sun May 19 2019,15:00,Trelleborgs FF,2-1,1-0,Örgryte IS
+9,Mon May 20 2019,19:00,IK Brage,1-0,0-0,Syrianska FC
+9,Mon May 20 2019,19:00,IF Brommapojkarna,0-2,0-1,Jönköpings Södra IF
+9,Tue May 21 2019,19:00,Degerfors IF,1-2,0-2,Dalkurd FF
+9,Tue May 21 2019,19:00,GAIS Göteborg,1-1,1-1,Västerås SK
+10,Sat May 25 2019,16:00,IK Frej,1-1,0-0,Varbergs BoIS
+10,Sat May 25 2019,18:00,Jönköpings Södra IF,2-0,0-0,IK Brage
+10,Sat May 25 2019,16:00,Syrianska FC,1-0,0-0,IF Brommapojkarna
+10,Sat May 25 2019,16:00,Halmstads BK,3-0,2-0,Degerfors IF
+10,Sun May 26 2019,15:00,Mjällby AIF,2-0,1-0,GAIS Göteborg
+10,Sun May 26 2019,17:30,Trelleborgs FF,1-1,0-1,Östers IF
+10,Mon May 27 2019,19:00,Västerås SK,1-3,0-1,Norrby IF
+10,Tue May 28 2019,19:00,Dalkurd FF,3-2,0-2,Örgryte IS
+11,Sat Jun 1 2019,16:00,Degerfors IF,2-3,1-1,IK Frej
+11,Sat Jun 1 2019,16:00,Halmstads BK,0-0,0-0,Västerås SK
+11,Sat Jun 1 2019,16:00,Norrby IF,0-0,0-0,Dalkurd FF
+11,Sat Jun 1 2019,16:00,Mjällby AIF,1-0,0-0,Jönköpings Södra IF
+11,Sun Jun 2 2019,15:00,Varbergs BoIS,2-1,1-0,GAIS Göteborg
+11,Sun Jun 2 2019,17:30,IF Brommapojkarna,2-3,0-1,Trelleborgs FF
+11,Mon Jun 3 2019,19:00,Östers IF,2-2,0-1,IK Brage
+11,Tue Jun 4 2019,19:00,Örgryte IS,2-0,1-0,Syrianska FC
+12,Sat Jun 8 2019,16:00,IF Brommapojkarna,1-1,0-0,Mjällby AIF
+12,Sat Jun 8 2019,16:00,Västerås SK,2-0,1-0,IK Frej
+12,Sat Jun 8 2019,16:00,Trelleborgs FF,0-0,0-0,Degerfors IF
+12,Sun Jun 9 2019,17:30,Dalkurd FF,1-0,0-0,Halmstads BK
+12,Tue Jun 11 2019,18:30,IK Brage,0-1,0-1,Örgryte IS
+13,Fri Jun 14 2019,19:00,Syrianska FC,2-1,1-0,Jönköpings Södra IF
+13,Sat Jun 15 2019,16:00,Östers IF,2-2,1-0,IF Brommapojkarna
+13,Sat Jun 15 2019,16:00,Varbergs BoIS,3-2,1-0,Norrby IF
+13,Sat Jun 15 2019,18:00,Degerfors IF,3-2,0-1,Västerås SK
+13,Sat Jun 15 2019,16:00,IK Frej,1-3,0-2,Dalkurd FF
+13,Sat Jun 15 2019,16:00,IK Brage,2-0,1-0,Trelleborgs FF
+13,Sun Jun 16 2019,17:30,Halmstads BK,2-0,2-0,Mjällby AIF
+13,Mon Jun 17 2019,19:00,Örgryte IS,1-0,0-0,GAIS Göteborg
+12,Wed Jun 19 2019,18:30,Jönköpings Södra IF,3-1,1-0,Varbergs BoIS
+14,Sun Jun 23 2019,17:30,IF Brommapojkarna,0-0,0-0,Örgryte IS
+14,Sun Jun 23 2019,17:30,Halmstads BK,4-1,2-0,IK Frej
+14,Sun Jun 23 2019,15:00,Jönköpings Södra IF,2-0,0-0,Trelleborgs FF
+14,Sun Jun 23 2019,15:00,Mjällby AIF,1-2,1-0,IK Brage
+14,Mon Jun 24 2019,19:00,Östers IF,1-1,1-0,Varbergs BoIS
+14,Mon Jun 24 2019,19:00,Norrby IF,3-2,3-1,Syrianska FC
+14,Mon Jun 24 2019,19:00,GAIS Göteborg,0-3,0-2,Degerfors IF
+14,Tue Jun 25 2019,19:00,Dalkurd FF,1-6,1-1,Västerås SK
+15,Wed Jul 10 2019,19:00,Varbergs BoIS,1-0,1-0,Degerfors IF
+15,Sat Jul 13 2019,16:00,Örgryte IS,2-0,0-0,Östers IF
+15,Sat Jul 13 2019,16:00,Trelleborgs FF,1-2,0-1,Syrianska FC
+15,Sat Jul 13 2019,18:00,IK Brage,3-1,2-1,IF Brommapojkarna
+15,Sat Jul 13 2019,16:00,IK Frej,1-2,0-0,Mjällby AIF
+15,Sun Jul 14 2019,17:30,Norrby IF,0-1,0-1,Halmstads BK
+15,Sun Jul 14 2019,15:00,GAIS Göteborg,1-5,1-2,Dalkurd FF
+15,Tue Jul 16 2019,19:00,Västerås SK,2-2,1-1,Jönköpings Södra IF
+16,Sat Jul 20 2019,16:00,Syrianska FC,0-2,0-0,IK Brage
+16,Sat Jul 20 2019,18:00,IK Frej,1-1,0-1,Örgryte IS
+16,Sat Jul 20 2019,16:00,Degerfors IF,0-1,0-1,GAIS Göteborg
+16,Sat Jul 20 2019,16:00,Dalkurd FF,1-0,1-0,Varbergs BoIS
+16,Sat Jul 20 2019,16:00,IF Brommapojkarna,3-1,0-0,Norrby IF
+16,Sun Jul 21 2019,15:00,Mjällby AIF,2-0,1-0,Halmstads BK
+16,Sun Jul 21 2019,17:30,Östers IF,0-2,0-1,Trelleborgs FF
+16,Tue Jul 23 2019,19:00,Jönköpings Södra IF,2-1,1-0,Västerås SK
+12,Wed Jul 24 2019,19:00,GAIS Göteborg,1-0,1-0,Norrby IF
+17,Thu Jul 25 2019,19:00,Halmstads BK,2-2,1-1,IF Brommapojkarna
+17,Sat Jul 27 2019,16:00,Norrby IF,3-1,1-0,Östers IF
+17,Sat Jul 27 2019,16:00,Trelleborgs FF,1-0,0-0,IK Frej
+17,Sat Jul 27 2019,16:00,GAIS Göteborg,0-1,0-0,Syrianska FC
+17,Sat Jul 27 2019,18:00,Jönköpings Södra IF,1-1,0-1,Degerfors IF
+17,Sat Jul 27 2019,16:00,IK Brage,1-2,0-1,Mjällby AIF
+17,Sun Jul 28 2019,17:30,Varbergs BoIS,1-2,1-0,Örgryte IS
+17,Sun Jul 28 2019,15:00,Västerås SK,1-1,0-1,Dalkurd FF
+12,Wed Jul 31 2019,19:00,Syrianska FC,1-1,0-1,Östers IF
+18,Thu Aug 1 2019,19:00,Mjällby AIF,1-1,1-1,Norrby IF
+18,Sat Aug 3 2019,18:00,IF Brommapojkarna,1-2,1-1,IK Brage
+18,Sat Aug 3 2019,16:00,Degerfors IF,3-1,3-0,Varbergs BoIS
+18,Sat Aug 3 2019,16:00,Dalkurd FF,0-2,0-1,Jönköpings Södra IF
+18,Sun Aug 4 2019,15:00,IK Frej,1-1,1-0,Västerås SK
+18,Sun Aug 4 2019,15:00,Syrianska FC,2-2,0-2,Trelleborgs FF
+18,Sun Aug 4 2019,17:30,Östers IF,2-1,1-1,GAIS Göteborg
+18,Tue Aug 6 2019,19:00,Örgryte IS,3-1,3-1,Halmstads BK
+19,Fri Aug 9 2019,19:00,Varbergs BoIS,2-2,0-1,IK Frej
+19,Sat Aug 10 2019,16:00,Halmstads BK,2-0,2-0,Dalkurd FF
+19,Sat Aug 10 2019,18:00,Norrby IF,1-0,0-0,Degerfors IF
+19,Sun Aug 11 2019,15:00,IK Brage,5-1,1-1,Östers IF
+19,Sun Aug 11 2019,15:00,Trelleborgs FF,1-1,0-0,IF Brommapojkarna
+19,Sun Aug 11 2019,17:30,Västerås SK,2-0,1-0,Örgryte IS
+19,Sun Aug 11 2019,17:30,GAIS Göteborg,1-2,0-0,Mjällby AIF
+19,Mon Aug 12 2019,19:00,Jönköpings Södra IF,3-1,3-0,Syrianska FC
+20,Fri Aug 16 2019,19:00,IK Frej,1-3,0-0,Jönköpings Södra IF
+20,Sat Aug 17 2019,13:30,Västerås SK,2-3,0-2,Halmstads BK
+20,Sat Aug 17 2019,16:00,Örgryte IS,1-1,0-1,Mjällby AIF
+20,Sat Aug 17 2019,16:00,Syrianska FC,4-4,1-1,Norrby IF
+20,Sat Aug 17 2019,18:00,Degerfors IF,2-2,1-1,Trelleborgs FF
+20,Sun Aug 18 2019,15:00,Dalkurd FF,3-0,2-0,GAIS Göteborg
+20,Sun Aug 18 2019,17:30,IF Brommapojkarna,1-1,1-0,Östers IF
+20,Mon Aug 19 2019,19:00,Varbergs BoIS,0-0,0-0,IK Brage
+21,Sat Aug 24 2019,16:00,Syrianska FC,1-2,0-1,Västerås SK
+21,Sun Aug 25 2019,13:00,IK Frej,2-3,2-1,Degerfors IF
+21,Sun Aug 25 2019,15:00,Mjällby AIF,3-2,0-0,Dalkurd FF
+21,Sun Aug 25 2019,15:00,Östers IF,1-3,0-1,Örgryte IS
+21,Sun Aug 25 2019,17:30,GAIS Göteborg,2-0,1-0,IF Brommapojkarna
+21,Mon Aug 26 2019,19:00,Norrby IF,1-3,1-0,IK Brage
+21,Mon Aug 26 2019,19:00,Trelleborgs FF,0-1,0-0,Varbergs BoIS
+21,Tue Aug 27 2019,19:00,Halmstads BK,1-2,0-1,Jönköpings Södra IF
+22,Fri Aug 30 2019,19:00,IK Brage,1-1,1-1,GAIS Göteborg
+22,Sat Aug 31 2019,13:30,Degerfors IF,2-1,2-0,Halmstads BK
+22,Sat Aug 31 2019,16:00,Mjällby AIF,2-1,0-0,IK Frej
+22,Sat Aug 31 2019,18:00,Varbergs BoIS,0-0,0-0,Östers IF
+22,Sun Sep 1 2019,15:00,IF Brommapojkarna,1-1,1-1,Syrianska FC
+22,Sun Sep 1 2019,15:00,Jönköpings Södra IF,5-2,2-2,Örgryte IS
+22,Sun Sep 1 2019,17:30,Trelleborgs FF,2-1,2-0,Västerås SK
+22,Sun Sep 1 2019,17:30,Dalkurd FF,3-1,0-1,Norrby IF
+23,Fri Sep 13 2019,19:00,GAIS Göteborg,1-1,0-0,Halmstads BK
+23,Sat Sep 14 2019,13:30,Örgryte IS,0-1,0-1,Trelleborgs FF
+23,Sat Sep 14 2019,16:00,Syrianska FC,0-3,0-1,IK Frej
+23,Sat Sep 14 2019,16:00,Östers IF,0-2,0-1,Jönköpings Södra IF
+23,Sun Sep 15 2019,15:00,IK Brage,3-1,1-1,Dalkurd FF
+23,Sun Sep 15 2019,17:30,Norrby IF,1-1,1-0,Varbergs BoIS
+23,Mon Sep 16 2019,19:00,Västerås SK,1-2,1-1,IF Brommapojkarna
+23,Tue Sep 17 2019,19:00,Degerfors IF,2-1,2-0,Mjällby AIF
+24,Fri Sep 20 2019,19:00,IK Frej,1-0,1-0,GAIS Göteborg
+24,Fri Sep 20 2019,19:00,Örgryte IS,3-2,2-0,IK Brage
+24,Sat Sep 21 2019,16:00,Jönköpings Södra IF,0-2,0-1,Norrby IF
+24,Sat Sep 21 2019,16:00,Dalkurd FF,2-1,1-0,Östers IF
+24,Sat Sep 21 2019,13:30,Varbergs BoIS,5-0,2-0,Syrianska FC
+24,Sun Sep 22 2019,15:00,Mjällby AIF,0-2,0-0,IF Brommapojkarna
+24,Sun Sep 22 2019,17:30,Halmstads BK,3-0,2-0,Trelleborgs FF
+24,Sun Sep 22 2019,15:00,Västerås SK,1-0,0-0,Degerfors IF
+25,Tue Sep 24 2019,19:00,GAIS Göteborg,0-0,0-0,Örgryte IS
+25,Tue Sep 24 2019,19:00,Varbergs BoIS,0-0,0-0,Jönköpings Södra IF
+25,Wed Sep 25 2019,19:00,Norrby IF,1-0,1-0,Västerås SK
+25,Wed Sep 25 2019,19:00,IF Brommapojkarna,0-3,0-2,IK Frej
+25,Wed Sep 25 2019,19:00,Östers IF,1-0,1-0,Halmstads BK
+25,Wed Sep 25 2019,19:00,Syrianska FC,1-2,0-1,Dalkurd FF
+25,Wed Sep 25 2019,19:00,Trelleborgs FF,0-3,0-3,Mjällby AIF
+25,Thu Sep 26 2019,19:00,IK Brage,1-2,0-0,Degerfors IF
+26,Sat Sep 28 2019,16:00,Örgryte IS,3-2,1-1,IF Brommapojkarna
+26,Sun Sep 29 2019,15:00,Dalkurd FF,3-2,1-1,Trelleborgs FF
+26,Sun Sep 29 2019,15:00,Halmstads BK,3-2,2-0,Varbergs BoIS
+26,Sun Sep 29 2019,17:30,Västerås SK,1-2,0-0,Östers IF
+26,Mon Sep 30 2019,19:00,Degerfors IF,2-0,1-0,Syrianska FC
+26,Mon Sep 30 2019,19:00,IK Frej,2-3,0-1,IK Brage
+26,Tue Oct 1 2019,19:00,Jönköpings Södra IF,0-0,0-0,Mjällby AIF
+26,Tue Oct 1 2019,19:00,Norrby IF,0-1,0-1,GAIS Göteborg
+27,Sat Oct 5 2019,13:30,Varbergs BoIS,4-0,0-0,Västerås SK
+27,Sat Oct 5 2019,16:00,Mjällby AIF,3-2,1-1,Östers IF
+27,Sat Oct 5 2019,18:00,Degerfors IF,2-1,1-0,IF Brommapojkarna
+27,Sun Oct 6 2019,17:30,Trelleborgs FF,2-2,0-0,IK Brage
+27,Sun Oct 6 2019,15:00,Halmstads BK,3-0,1-0,Norrby IF
+27,Sun Oct 6 2019,15:00,Syrianska FC,1-0,1-0,Örgryte IS
+27,Sun Oct 6 2019,17:30,Jönköpings Södra IF,1-2,0-0,GAIS Göteborg
+27,Sun Oct 6 2019,15:00,Dalkurd FF,1-1,1-0,IK Frej
+28,Fri Oct 18 2019,19:00,IK Frej,0-3,0-3,Halmstads BK
+28,Sat Oct 19 2019,13:30,GAIS Göteborg,0-1,0-0,Varbergs BoIS
+28,Sat Oct 19 2019,16:00,IF Brommapojkarna,2-1,0-1,Dalkurd FF
+28,Sat Oct 19 2019,16:00,Västerås SK,2-2,1-0,Mjällby AIF
+28,Sun Oct 20 2019,15:00,IK Brage,3-1,1-0,Jönköpings Södra IF
+28,Sun Oct 20 2019,17:30,Norrby IF,4-0,2-0,Trelleborgs FF
+28,Mon Oct 21 2019,19:00,Östers IF,4-0,1-0,Syrianska FC
+28,Tue Oct 22 2019,19:00,Örgryte IS,1-1,0-1,Degerfors IF
+29,Fri Oct 25 2019,19:00,IK Frej,1-0,0-0,Norrby IF
+29,Sat Oct 26 2019,13:30,Trelleborgs FF,2-3,2-1,Jönköpings Södra IF
+29,Sat Oct 26 2019,16:00,Västerås SK,4-1,1-0,GAIS Göteborg
+29,Sat Oct 26 2019,16:00,Degerfors IF,2-0,1-0,Östers IF
+29,Sun Oct 27 2019,17:30,IF Brommapojkarna,1-1,0-0,Varbergs BoIS
+29,Sun Oct 27 2019,15:00,Halmstads BK,3-2,2-2,IK Brage
+29,Mon Oct 28 2019,19:00,Mjällby AIF,2-0,2-0,Syrianska FC
+29,Mon Oct 28 2019,19:00,Örgryte IS,0-0,0-0,Dalkurd FF
+30,Sun Nov 3 2019,15:00,Jönköpings Södra IF,2-2,0-1,IF Brommapojkarna
+30,Sun Nov 3 2019,15:00,Dalkurd FF,1-3,0-0,Degerfors IF
+30,Sun Nov 3 2019,15:00,GAIS Göteborg,0-0,0-0,Trelleborgs FF
+30,Sun Nov 3 2019,15:00,IK Brage,2-1,2-1,Västerås SK
+30,Sun Nov 3 2019,15:00,Norrby IF,4-4,2-2,Örgryte IS
+30,Sun Nov 3 2019,15:00,Östers IF,4-0,2-0,IK Frej
+30,Sun Nov 3 2019,15:00,Syrianska FC,0-2,0-0,Halmstads BK
+30,Sun Nov 3 2019,15:00,Varbergs BoIS,1-1,1-1,Mjällby AIF

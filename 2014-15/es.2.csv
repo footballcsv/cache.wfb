@@ -1,0 +1,463 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 23 2014,19:00,CA Osasuna,2-0,1-0,FC Barcelona B
+1,Sat Aug 23 2014,19:00,Recreativo Huelva,0-0,0-0,Real Zaragoza
+1,Sat Aug 23 2014,19:00,Real Valladolid,2-1,1-0,RCD Mallorca
+1,Sat Aug 23 2014,21:00,UD Las Palmas,2-0,1-0,UE Llagostera
+1,Sat Aug 23 2014,21:00,CD Numancia,1-2,0-0,Sporting Gijón
+1,Sun Aug 24 2014,19:00,CD Leganés,1-1,1-0,CD Alavés
+1,Sun Aug 24 2014,19:00,CD Mirandés,0-0,0-0,CD Lugo
+1,Sun Aug 24 2014,19:00,CE Sabadell,2-3,0-2,Real Betis
+1,Sun Aug 24 2014,21:00,SD Ponferradina,1-0,1-0,CD Tenerife
+1,Sun Aug 24 2014,21:00,Albacete,2-3,1-1,AD Alcorcón
+1,Sun Aug 24 2014,21:00,Girona FC,1-0,1-0,Racing Santander
+2,Sat Aug 30 2014,19:00,FC Barcelona B,3-1,1-1,CE Sabadell
+2,Sat Aug 30 2014,19:00,Real Zaragoza,1-1,1-0,CA Osasuna
+2,Sat Aug 30 2014,19:00,CD Lugo,1-0,0-0,Real Valladolid
+2,Sat Aug 30 2014,21:00,AD Alcorcón,1-2,0-0,Girona FC
+2,Sat Aug 30 2014,23:00,Racing Santander,1-2,0-1,CD Mirandés
+2,Sat Aug 30 2014,23:00,CD Tenerife,1-1,0-1,Albacete
+2,Sun Aug 31 2014,19:00,UE Llagostera,2-0,1-0,CD Leganés
+2,Sun Aug 31 2014,19:00,Sporting Gijón,2-1,0-0,SD Ponferradina
+2,Sun Aug 31 2014,19:00,Real Betis,2-1,1-1,CD Numancia
+2,Sun Aug 31 2014,21:00,CD Alavés,0-0,0-0,Recreativo Huelva
+2,Sun Aug 31 2014,21:00,RCD Mallorca,1-1,1-1,UD Las Palmas
+3,Sat Sep 6 2014,16:00,Recreativo Huelva,2-0,1-0,UE Llagostera
+3,Sat Sep 6 2014,18:00,Albacete,1-1,1-0,Sporting Gijón
+3,Sat Sep 6 2014,21:00,Girona FC,2-0,1-0,CD Tenerife
+3,Sat Sep 6 2014,19:00,CE Sabadell,0-3,0-2,CD Numancia
+3,Sat Sep 6 2014,18:15,CA Osasuna,1-3,0-1,CD Alavés
+3,Sun Sep 7 2014,12:00,SD Ponferradina,4-1,0-1,Real Betis
+3,Sun Sep 7 2014,17:00,CD Mirandés,1-2,0-2,AD Alcorcón
+3,Sun Sep 7 2014,18:15,Real Valladolid,3-1,1-0,Racing Santander
+3,Sun Sep 7 2014,19:00,FC Barcelona B,4-1,1-1,Real Zaragoza
+3,Sun Sep 7 2014,21:00,CD Leganés,3-1,0-1,RCD Mallorca
+3,Sun Sep 7 2014,21:00,UD Las Palmas,3-0,0-0,CD Lugo
+4,Sat Sep 13 2014,16:00,CD Numancia,1-3,1-1,SD Ponferradina
+4,Sat Sep 13 2014,18:15,RCD Mallorca,1-2,0-1,Recreativo Huelva
+4,Sat Sep 13 2014,18:30,CD Alavés,2-3,0-3,FC Barcelona B
+4,Sat Sep 13 2014,20:00,Racing Santander,1-2,1-0,UD Las Palmas
+4,Sat Sep 13 2014,20:30,UE Llagostera,0-0,0-0,CA Osasuna
+4,Sun Sep 14 2014,12:00,Sporting Gijón,1-1,1-0,Girona FC
+4,Sun Sep 14 2014,17:00,Real Zaragoza,1-1,1-0,CE Sabadell
+4,Sun Sep 14 2014,17:00,CD Lugo,0-0,0-0,CD Leganés
+4,Sun Sep 14 2014,21:00,CD Tenerife,1-0,1-0,CD Mirandés
+4,Sun Sep 14 2014,21:00,AD Alcorcón,0-1,0-1,Real Valladolid
+4,Sun Sep 14 2014,18:15,Real Betis,0-1,0-0,Albacete
+5,Sat Sep 20 2014,16:00,Recreativo Huelva,0-0,0-0,CD Lugo
+5,Sat Sep 20 2014,18:00,FC Barcelona B,0-1,0-1,UE Llagostera
+5,Sat Sep 20 2014,18:00,CD Mirandés,0-2,0-1,Sporting Gijón
+5,Sat Sep 20 2014,18:15,Real Zaragoza,1-0,1-0,CD Alavés
+5,Sat Sep 20 2014,20:00,CE Sabadell,1-0,0-0,SD Ponferradina
+5,Sat Sep 20 2014,20:00,UD Las Palmas,4-1,1-0,AD Alcorcón
+5,Sun Sep 21 2014,12:00,CA Osasuna,6-4,1-1,RCD Mallorca
+5,Sun Sep 21 2014,17:00,Girona FC,1-3,1-2,Real Betis
+5,Sun Sep 21 2014,18:15,CD Leganés,2-2,0-2,Racing Santander
+5,Sun Sep 21 2014,20:00,Real Valladolid,2-1,1-0,CD Tenerife
+5,Sun Sep 21 2014,21:00,Albacete,0-1,0-1,CD Numancia
+6,Sat Sep 27 2014,16:00,UE Llagostera,0-1,0-1,Real Zaragoza
+6,Sat Sep 27 2014,16:00,CD Lugo,4-3,2-2,CA Osasuna
+6,Sat Sep 27 2014,18:15,Racing Santander,3-0,2-0,Recreativo Huelva
+6,Sat Sep 27 2014,18:00,CD Alavés,3-1,2-0,CE Sabadell
+6,Sun Sep 28 2014,18:15,Real Betis,2-0,1-0,CD Mirandés
+6,Sun Sep 28 2014,17:00,RCD Mallorca,3-3,2-2,FC Barcelona B
+6,Sun Sep 28 2014,17:00,Sporting Gijón,1-1,0-0,Real Valladolid
+6,Sun Sep 28 2014,17:00,CD Numancia,2-2,1-0,Girona FC
+6,Sun Sep 28 2014,18:00,AD Alcorcón,1-0,0-0,CD Leganés
+6,Sun Sep 28 2014,12:00,CD Tenerife,2-1,1-1,UD Las Palmas
+6,Mon Sep 29 2014,20:30,SD Ponferradina,1-0,1-0,Albacete
+7,Sat Oct 4 2014,16:00,CD Alavés,0-0,0-0,UE Llagostera
+7,Sat Oct 4 2014,16:00,FC Barcelona B,0-1,0-0,CD Lugo
+7,Sat Oct 4 2014,18:00,Girona FC,3-0,1-0,SD Ponferradina
+7,Sat Oct 4 2014,18:15,CA Osasuna,0-2,0-1,Racing Santander
+7,Sat Oct 4 2014,20:00,UD Las Palmas,1-1,0-1,Sporting Gijón
+7,Sun Oct 5 2014,12:00,Real Valladolid,0-0,0-0,Real Betis
+7,Sun Oct 5 2014,17:00,Recreativo Huelva,2-1,2-0,AD Alcorcón
+7,Sun Oct 5 2014,17:00,CE Sabadell,6-1,2-0,Albacete
+7,Sun Oct 5 2014,21:00,CD Mirandés,2-0,1-0,CD Numancia
+7,Sun Oct 5 2014,19:00,CD Leganés,2-0,1-0,CD Tenerife
+7,Sun Oct 5 2014,18:15,Real Zaragoza,2-0,0-0,RCD Mallorca
+8,Sat Oct 11 2014,16:00,RCD Mallorca,2-0,0-0,CD Alavés
+8,Sat Oct 11 2014,16:00,SD Ponferradina,1-0,0-0,CD Mirandés
+8,Sat Oct 11 2014,21:00,CD Numancia,0-1,0-1,Real Valladolid
+8,Sat Oct 11 2014,18:15,AD Alcorcón,2-0,2-0,CA Osasuna
+8,Sat Oct 11 2014,20:00,Albacete,0-1,0-1,Girona FC
+8,Sat Oct 11 2014,21:00,CD Tenerife,0-2,0-1,Recreativo Huelva
+8,Sat Oct 11 2014,18:00,Racing Santander,0-0,0-0,FC Barcelona B
+8,Sun Oct 12 2014,12:00,Real Betis,0-0,0-0,UD Las Palmas
+8,Sun Oct 12 2014,17:00,Sporting Gijón,2-1,0-0,CD Leganés
+8,Sun Oct 12 2014,18:15,CD Lugo,3-3,1-2,Real Zaragoza
+8,Sun Oct 12 2014,18:45,UE Llagostera,0-1,0-0,CE Sabadell
+9,Sat Oct 18 2014,16:00,Real Valladolid,0-0,0-0,SD Ponferradina
+9,Sat Oct 18 2014,18:00,CD Alavés,1-0,0-0,CD Lugo
+9,Sat Oct 18 2014,18:00,CD Mirandés,3-2,1-2,Albacete
+9,Sat Oct 18 2014,18:15,Real Zaragoza,2-1,1-1,Racing Santander
+9,Sat Oct 18 2014,20:00,CE Sabadell,0-2,0-2,Girona FC
+9,Sat Oct 18 2014,20:00,CA Osasuna,3-2,1-1,CD Tenerife
+9,Sun Oct 19 2014,12:00,Recreativo Huelva,1-1,1-1,Sporting Gijón
+9,Sun Oct 19 2014,17:00,UE Llagostera,1-4,0-1,RCD Mallorca
+9,Sun Oct 19 2014,18:15,CD Leganés,1-0,0-0,Real Betis
+9,Sun Oct 19 2014,19:00,UD Las Palmas,2-0,1-0,CD Numancia
+9,Sun Oct 19 2014,21:00,FC Barcelona B,4-1,3-1,AD Alcorcón
+10,Sat Oct 25 2014,16:00,RCD Mallorca,1-0,0-0,CE Sabadell
+10,Sat Oct 25 2014,18:00,Racing Santander,1-1,1-0,CD Alavés
+10,Sat Oct 25 2014,20:00,SD Ponferradina,2-2,1-0,UD Las Palmas
+10,Sat Oct 25 2014,18:15,Real Betis,3-2,2-1,Recreativo Huelva
+10,Sun Oct 26 2014,12:00,Albacete,3-4,1-3,Real Valladolid
+10,Sun Oct 26 2014,17:00,CD Lugo,1-1,0-0,UE Llagostera
+10,Sun Oct 26 2014,17:00,Sporting Gijón,2-0,1-0,CA Osasuna
+10,Sun Oct 26 2014,21:00,CD Numancia,1-1,1-1,CD Leganés
+10,Sun Oct 26 2014,18:15,AD Alcorcón,1-3,1-1,Real Zaragoza
+10,Sun Oct 26 2014,19:00,CD Tenerife,2-0,1-0,FC Barcelona B
+10,Sun Oct 26 2014,17:00,Girona FC,3-0,1-0,CD Mirandés
+11,Sat Nov 1 2014,16:00,RCD Mallorca,2-1,0-0,CD Lugo
+11,Sat Nov 1 2014,18:00,CD Alavés,1-1,0-0,AD Alcorcón
+11,Sat Nov 1 2014,18:00,FC Barcelona B,0-0,0-0,Sporting Gijón
+11,Sat Nov 1 2014,18:15,UE Llagostera,0-2,0-1,Racing Santander
+11,Sat Nov 1 2014,20:00,CE Sabadell,3-2,1-2,CD Mirandés
+11,Sat Nov 1 2014,20:00,UD Las Palmas,2-1,1-0,Albacete
+11,Sun Nov 2 2014,12:00,CA Osasuna,3-2,0-2,Real Betis
+11,Sun Nov 2 2014,21:00,CD Leganés,1-1,1-1,SD Ponferradina
+11,Sun Nov 2 2014,18:15,Recreativo Huelva,0-3,0-2,CD Numancia
+11,Sun Nov 2 2014,17:00,Real Valladolid,2-1,1-0,Girona FC
+11,Mon Nov 3 2014,21:00,Real Zaragoza,2-3,1-1,CD Tenerife
+12,Sat Nov 8 2014,16:00,CD Mirandés,0-0,0-0,Real Valladolid
+12,Sat Nov 8 2014,18:00,Real Betis,1-0,0-0,FC Barcelona B
+12,Sat Nov 8 2014,18:00,Albacete,1-0,0-0,CD Leganés
+12,Sat Nov 8 2014,18:15,CD Numancia,0-0,0-0,CA Osasuna
+12,Sat Nov 8 2014,21:00,AD Alcorcón,2-0,1-0,UE Llagostera
+12,Sat Nov 8 2014,20:00,Girona FC,1-2,1-2,UD Las Palmas
+12,Sun Nov 9 2014,12:00,Sporting Gijón,3-1,1-1,Real Zaragoza
+12,Sun Nov 9 2014,17:00,CD Lugo,2-1,1-0,CE Sabadell
+12,Sun Nov 9 2014,19:00,CD Tenerife,1-1,0-1,CD Alavés
+12,Sun Nov 9 2014,18:15,Racing Santander,0-1,0-1,RCD Mallorca
+12,Sun Nov 9 2014,17:00,SD Ponferradina,3-3,1-1,Recreativo Huelva
+13,Sat Nov 15 2014,16:00,RCD Mallorca,1-1,1-1,AD Alcorcón
+13,Sat Nov 15 2014,16:00,CD Leganés,1-2,1-1,Girona FC
+13,Sat Nov 15 2014,18:00,CD Alavés,0-0,0-0,Sporting Gijón
+13,Sat Nov 15 2014,18:00,FC Barcelona B,1-1,0-0,CD Numancia
+13,Sat Nov 15 2014,18:30,UD Las Palmas,0-0,0-0,CD Mirandés
+13,Sat Nov 15 2014,18:15,CA Osasuna,0-1,0-1,SD Ponferradina
+13,Sat Nov 15 2014,18:00,CE Sabadell,0-0,0-0,Real Valladolid
+13,Sun Nov 16 2014,17:00,CD Lugo,0-0,0-0,Racing Santander
+13,Sun Nov 16 2014,18:15,Recreativo Huelva,4-1,2-1,Albacete
+13,Sun Nov 16 2014,19:00,UE Llagostera,2-0,0-0,CD Tenerife
+13,Sun Nov 16 2014,20:00,Real Zaragoza,2-2,0-1,Real Betis
+14,Sat Nov 22 2014,16:00,Racing Santander,3-1,2-1,CE Sabadell
+14,Sat Nov 22 2014,16:00,SD Ponferradina,4-4,1-3,FC Barcelona B
+14,Sat Nov 22 2014,18:00,Sporting Gijón,0-0,0-0,UE Llagostera
+14,Sat Nov 22 2014,20:00,CD Tenerife,0-0,0-0,RCD Mallorca
+14,Sat Nov 22 2014,18:15,CD Numancia,2-0,1-0,Real Zaragoza
+14,Sun Nov 23 2014,12:00,Real Valladolid,1-2,1-0,UD Las Palmas
+14,Sun Nov 23 2014,21:00,AD Alcorcón,1-0,0-0,CD Lugo
+14,Sun Nov 23 2014,17:00,CD Mirandés,1-0,0-0,CD Leganés
+14,Sun Nov 23 2014,18:15,Real Betis,1-2,0-2,CD Alavés
+14,Sun Nov 23 2014,19:00,Albacete,2-0,1-0,CA Osasuna
+14,Sun Nov 23 2014,17:00,Girona FC,2-0,2-0,Recreativo Huelva
+15,Sat Nov 29 2014,18:00,CD Alavés,0-2,0-0,CD Numancia
+15,Sat Nov 29 2014,18:00,CA Osasuna,0-0,0-0,Girona FC
+15,Sat Nov 29 2014,18:15,UE Llagostera,0-2,0-0,Real Betis
+15,Sat Nov 29 2014,21:30,CD Leganés,1-0,0-0,Real Valladolid
+15,Sun Nov 30 2014,12:00,RCD Mallorca,0-1,0-0,Sporting Gijón
+15,Sun Nov 30 2014,12:15,Racing Santander,0-1,0-1,AD Alcorcón
+15,Sun Nov 30 2014,19:00,CD Lugo,1-0,0-0,CD Tenerife
+15,Sun Nov 30 2014,17:00,Recreativo Huelva,0-1,0-0,CD Mirandés
+15,Sun Nov 30 2014,18:15,Real Zaragoza,4-1,3-0,SD Ponferradina
+15,Sun Nov 30 2014,17:00,FC Barcelona B,1-2,1-0,Albacete
+16,Sat Dec 6 2014,20:00,UD Las Palmas,1-0,0-0,CD Leganés
+16,Sat Dec 6 2014,16:00,CD Numancia,3-2,0-0,UE Llagostera
+16,Sat Dec 6 2014,20:00,SD Ponferradina,2-1,0-1,CD Alavés
+16,Sat Dec 6 2014,18:00,CD Mirandés,1-0,0-0,CA Osasuna
+16,Sun Dec 7 2014,19:00,CD Tenerife,1-0,0-0,Racing Santander
+16,Sun Dec 7 2014,12:00,Girona FC,0-1,0-0,FC Barcelona B
+16,Sun Dec 7 2014,17:00,AD Alcorcón,3-2,3-1,CE Sabadell
+16,Sun Dec 7 2014,18:15,Real Valladolid,1-0,1-0,Recreativo Huelva
+16,Sun Dec 7 2014,17:00,Sporting Gijón,2-1,1-1,CD Lugo
+16,Mon Dec 8 2014,20:30,Albacete,2-2,1-1,Real Zaragoza
+16,Mon Dec 8 2014,18:15,Real Betis,1-0,0-0,RCD Mallorca
+15,Wed Dec 10 2014,20:00,CE Sabadell,2-2,1-1,UD Las Palmas
+17,Sat Dec 13 2014,18:00,Racing Santander,1-1,0-1,Sporting Gijón
+17,Sat Dec 13 2014,20:00,Recreativo Huelva,2-4,0-3,UD Las Palmas
+17,Sat Dec 13 2014,18:15,CD Lugo,0-1,0-0,Real Betis
+17,Sat Dec 13 2014,18:00,FC Barcelona B,1-3,0-1,CD Mirandés
+17,Sun Dec 14 2014,12:00,CA Osasuna,2-1,2-1,Real Valladolid
+17,Sun Dec 14 2014,12:15,RCD Mallorca,1-1,0-1,CD Numancia
+17,Sun Dec 14 2014,17:00,UE Llagostera,3-1,0-0,SD Ponferradina
+17,Sun Dec 14 2014,17:00,Real Zaragoza,2-1,0-1,Girona FC
+17,Sun Dec 14 2014,18:15,CD Alavés,2-1,1-1,Albacete
+17,Sun Dec 14 2014,21:00,CE Sabadell,1-2,0-2,CD Leganés
+17,Sun Dec 14 2014,19:00,AD Alcorcón,0-0,0-0,CD Tenerife
+18,Sat Dec 20 2014,16:00,Girona FC,2-2,1-1,CD Alavés
+18,Sat Dec 20 2014,21:00,CD Numancia,6-6,1-1,CD Lugo
+18,Sat Dec 20 2014,18:15,CD Mirandés,1-1,0-0,Real Zaragoza
+18,Sat Dec 20 2014,20:00,CD Tenerife,1-0,1-0,CE Sabadell
+18,Sat Dec 20 2014,17:00,SD Ponferradina,3-1,1-0,RCD Mallorca
+18,Sun Dec 21 2014,12:00,Real Betis,2-0,1-0,Racing Santander
+18,Sun Dec 21 2014,12:15,Albacete,0-2,0-1,UE Llagostera
+18,Sun Dec 21 2014,19:00,UD Las Palmas,1-2,1-0,CA Osasuna
+18,Sun Dec 21 2014,18:15,CD Leganés,2-0,1-0,Recreativo Huelva
+18,Sun Dec 21 2014,19:00,Real Valladolid,7-0,4-0,FC Barcelona B
+18,Sun Dec 21 2014,17:00,Sporting Gijón,2-1,2-0,AD Alcorcón
+19,Sat Jan 3 2015,16:00,CD Alavés,1-3,0-2,CD Mirandés
+19,Sat Jan 3 2015,18:00,RCD Mallorca,2-0,0-0,Albacete
+19,Sat Jan 3 2015,18:00,UE Llagostera,1-2,1-2,Girona FC
+19,Sat Jan 3 2015,18:15,CA Osasuna,2-1,0-0,CD Leganés
+19,Sat Jan 3 2015,20:00,FC Barcelona B,0-2,0-1,UD Las Palmas
+19,Sun Jan 4 2015,12:00,Real Zaragoza,0-2,0-2,Real Valladolid
+19,Sun Jan 4 2015,12:15,CD Lugo,0-0,0-0,SD Ponferradina
+19,Sun Jan 4 2015,17:00,CE Sabadell,1-0,0-0,Recreativo Huelva
+19,Sun Jan 4 2015,18:15,AD Alcorcón,0-0,0-0,Real Betis
+19,Sun Jan 4 2015,21:00,Racing Santander,1-1,0-1,CD Numancia
+19,Sun Jan 4 2015,19:00,CD Tenerife,1-1,1-0,Sporting Gijón
+20,Sat Jan 10 2015,16:00,CD Leganés,2-0,1-0,FC Barcelona B
+20,Sat Jan 10 2015,18:00,Albacete,3-0,1-0,CD Lugo
+20,Sat Jan 10 2015,18:00,Girona FC,0-0,0-0,RCD Mallorca
+20,Sat Jan 10 2015,18:15,Recreativo Huelva,1-1,0-0,CA Osasuna
+20,Sat Jan 10 2015,20:00,Real Betis,3-1,1-0,CD Tenerife
+20,Sun Jan 11 2015,12:00,UD Las Palmas,5-3,1-1,Real Zaragoza
+20,Sun Jan 11 2015,12:15,CD Numancia,2-2,1-1,AD Alcorcón
+20,Sun Jan 11 2015,21:00,SD Ponferradina,1-1,0-0,Racing Santander
+20,Sun Jan 11 2015,17:00,CD Mirandés,1-0,0-0,UE Llagostera
+20,Sun Jan 11 2015,18:15,Real Valladolid,2-0,1-0,CD Alavés
+20,Sun Jan 11 2015,17:00,CE Sabadell,2-2,1-2,Sporting Gijón
+21,Sat Jan 17 2015,16:00,CA Osasuna,0-0,0-0,CE Sabadell
+21,Sat Jan 17 2015,20:00,CD Alavés,1-1,0-0,UD Las Palmas
+21,Sat Jan 17 2015,18:15,Racing Santander,1-0,1-0,Albacete
+21,Sat Jan 17 2015,18:00,CD Lugo,1-2,1-2,Girona FC
+21,Sun Jan 18 2015,12:00,Sporting Gijón,1-2,1-0,Real Betis
+21,Sun Jan 18 2015,17:00,RCD Mallorca,2-0,0-0,CD Mirandés
+21,Sun Jan 18 2015,17:00,UE Llagostera,2-0,0-0,Real Valladolid
+21,Sun Jan 18 2015,17:00,FC Barcelona B,3-1,0-0,Recreativo Huelva
+21,Sun Jan 18 2015,18:15,Real Zaragoza,2-0,1-0,CD Leganés
+21,Sun Jan 18 2015,21:00,AD Alcorcón,1-1,1-1,SD Ponferradina
+21,Sun Jan 18 2015,19:00,CD Tenerife,0-0,0-0,CD Numancia
+22,Sat Jan 24 2015,20:00,CD Tenerife,0-1,0-1,SD Ponferradina
+22,Sat Jan 24 2015,18:00,Real Betis,2-0,2-0,CE Sabadell
+22,Sat Jan 24 2015,18:15,Real Zaragoza,2-0,0-0,Recreativo Huelva
+22,Sat Jan 24 2015,16:00,CD Alavés,2-0,1-0,CD Leganés
+22,Sun Jan 25 2015,12:00,RCD Mallorca,1-5,1-3,Real Valladolid
+22,Sun Jan 25 2015,17:00,FC Barcelona B,0-1,0-1,CA Osasuna
+22,Sun Jan 25 2015,17:00,Sporting Gijón,3-0,0-0,CD Numancia
+22,Sun Jan 25 2015,18:00,AD Alcorcón,2-3,1-2,Albacete
+22,Sun Jan 25 2015,18:15,Racing Santander,0-1,0-1,Girona FC
+22,Sun Jan 25 2015,19:00,UE Llagostera,0-0,0-0,UD Las Palmas
+22,Sun Jan 25 2015,21:00,CD Lugo,1-1,0-1,CD Mirandés
+23,Sat Jan 31 2015,18:00,CE Sabadell,1-4,1-3,FC Barcelona B
+23,Sat Jan 31 2015,21:00,UD Las Palmas,2-1,0-1,RCD Mallorca
+23,Sat Jan 31 2015,18:00,SD Ponferradina,0-2,0-1,Sporting Gijón
+23,Sat Jan 31 2015,18:15,CD Numancia,1-1,1-1,Real Betis
+23,Sat Jan 31 2015,20:00,CD Leganés,2-0,0-0,UE Llagostera
+23,Sat Jan 31 2015,20:00,CD Mirandés,0-2,0-0,Racing Santander
+23,Sat Jan 31 2015,18:00,Albacete,3-2,1-1,CD Tenerife
+23,Sun Feb 1 2015,17:00,Recreativo Huelva,0-0,0-0,CD Alavés
+23,Sun Feb 1 2015,18:15,Real Valladolid,0-0,0-0,CD Lugo
+23,Sun Feb 1 2015,17:00,Girona FC,3-0,0-0,AD Alcorcón
+24,Sat Feb 7 2015,18:00,Real Zaragoza,4-0,3-0,FC Barcelona B
+24,Sat Feb 7 2015,21:00,AD Alcorcón,2-2,0-1,CD Mirandés
+24,Sat Feb 7 2015,18:15,Racing Santander,1-4,0-1,Real Valladolid
+24,Sat Feb 7 2015,20:00,UE Llagostera,1-0,0-0,Recreativo Huelva
+24,Sun Feb 8 2015,12:00,CD Lugo,2-1,0-1,UD Las Palmas
+24,Sun Feb 8 2015,17:00,Sporting Gijón,2-1,0-0,Albacete
+24,Sun Feb 8 2015,17:00,RCD Mallorca,0-2,0-2,CD Leganés
+24,Sun Feb 8 2015,19:00,CD Tenerife,0-1,0-1,Girona FC
+24,Sun Feb 8 2015,17:00,CD Numancia,3-0,1-0,CE Sabadell
+24,Sun Feb 8 2015,18:15,Real Betis,1-1,1-0,SD Ponferradina
+23,Tue Feb 10 2015,19:00,CA Osasuna,0-1,0-1,Real Zaragoza
+25,Sat Feb 14 2015,21:00,CD Mirandés,1-1,0-1,CD Tenerife
+25,Sat Feb 14 2015,18:00,CA Osasuna,0-1,0-0,UE Llagostera
+25,Sat Feb 14 2015,20:00,FC Barcelona B,0-0,0-0,CD Alavés
+25,Sat Feb 14 2015,18:15,Recreativo Huelva,0-0,0-0,RCD Mallorca
+25,Sun Feb 15 2015,18:15,Albacete,0-0,0-0,Real Betis
+25,Sun Feb 15 2015,12:00,Girona FC,0-0,0-0,Sporting Gijón
+25,Sun Feb 15 2015,16:00,Real Valladolid,1-0,1-0,AD Alcorcón
+25,Sun Feb 15 2015,16:00,SD Ponferradina,1-2,1-0,CD Numancia
+25,Sun Feb 15 2015,17:00,CE Sabadell,0-0,0-0,Real Zaragoza
+25,Sun Feb 15 2015,21:00,CD Leganés,2-0,0-0,CD Lugo
+25,Sun Feb 15 2015,19:00,UD Las Palmas,1-0,1-0,Racing Santander
+26,Sat Feb 21 2015,20:00,Real Betis,2-1,0-0,Girona FC
+26,Sat Feb 21 2015,18:00,Racing Santander,1-2,1-1,CD Leganés
+26,Sat Feb 21 2015,18:15,RCD Mallorca,3-0,2-0,CA Osasuna
+26,Sat Feb 21 2015,19:00,AD Alcorcón,0-0,0-0,UD Las Palmas
+26,Sun Feb 22 2015,17:00,UE Llagostera,1-0,1-0,FC Barcelona B
+26,Sun Feb 22 2015,16:00,CD Lugo,2-1,1-0,Recreativo Huelva
+26,Sun Feb 22 2015,16:00,SD Ponferradina,3-0,1-0,CE Sabadell
+26,Sun Feb 22 2015,21:00,CD Numancia,1-1,0-0,Albacete
+26,Sun Feb 22 2015,17:00,Sporting Gijón,4-1,2-0,CD Mirandés
+26,Sun Feb 22 2015,18:15,CD Alavés,4-0,1-0,Real Zaragoza
+26,Sun Feb 22 2015,19:00,CD Tenerife,2-0,0-0,Real Valladolid
+27,Sat Feb 28 2015,18:15,FC Barcelona B,2-4,1-2,RCD Mallorca
+27,Sat Feb 28 2015,16:00,CA Osasuna,0-2,0-2,CD Lugo
+27,Sat Feb 28 2015,18:00,CE Sabadell,2-1,1-0,CD Alavés
+27,Sat Feb 28 2015,18:00,Real Valladolid,3-0,2-0,Sporting Gijón
+27,Sun Mar 1 2015,21:00,CD Leganés,1-2,0-1,AD Alcorcón
+27,Sun Mar 1 2015,13:00,UD Las Palmas,1-1,0-0,CD Tenerife
+27,Sun Mar 1 2015,16:00,Recreativo Huelva,1-0,0-0,Racing Santander
+27,Sun Mar 1 2015,16:00,Albacete,2-1,1-1,SD Ponferradina
+27,Sun Mar 1 2015,19:00,Real Zaragoza,2-2,1-1,UE Llagostera
+27,Sun Mar 1 2015,18:15,CD Mirandés,0-0,0-0,Real Betis
+27,Sun Mar 1 2015,17:00,Girona FC,2-1,1-1,CD Numancia
+28,Sat Mar 7 2015,20:00,Albacete,0-0,0-0,CE Sabadell
+28,Sat Mar 7 2015,16:00,CD Numancia,1-0,0-0,CD Mirandés
+28,Sat Mar 7 2015,18:00,CD Lugo,3-2,1-1,FC Barcelona B
+28,Sat Mar 7 2015,18:15,Racing Santander,2-0,1-0,CA Osasuna
+28,Sat Mar 7 2015,20:00,CD Tenerife,1-0,1-0,CD Leganés
+28,Sun Mar 8 2015,21:00,AD Alcorcón,1-1,1-0,Recreativo Huelva
+28,Sun Mar 8 2015,12:00,Real Betis,4-0,1-0,Real Valladolid
+28,Sun Mar 8 2015,16:00,UE Llagostera,3-1,3-0,CD Alavés
+28,Sun Mar 8 2015,17:00,SD Ponferradina,3-0,2-0,Girona FC
+28,Sun Mar 8 2015,18:15,RCD Mallorca,3-2,2-2,Real Zaragoza
+28,Sun Mar 8 2015,19:00,Sporting Gijón,1-1,0-0,UD Las Palmas
+29,Sat Mar 14 2015,18:00,CE Sabadell,1-1,0-1,UE Llagostera
+29,Sat Mar 14 2015,16:00,CA Osasuna,1-1,1-0,AD Alcorcón
+29,Sat Mar 14 2015,21:30,Real Valladolid,4-0,3-0,CD Numancia
+29,Sat Mar 14 2015,18:00,CD Alavés,2-0,1-0,RCD Mallorca
+29,Sat Mar 14 2015,18:00,CD Leganés,0-1,0-1,Sporting Gijón
+29,Sat Mar 14 2015,18:15,Real Zaragoza,0-0,0-0,CD Lugo
+29,Sat Mar 14 2015,20:00,Recreativo Huelva,1-1,1-1,CD Tenerife
+29,Sun Mar 15 2015,18:15,FC Barcelona B,1-1,0-0,Racing Santander
+29,Sun Mar 15 2015,12:00,UD Las Palmas,0-3,0-0,Real Betis
+29,Sun Mar 15 2015,16:00,CD Mirandés,2-1,0-0,SD Ponferradina
+29,Sun Mar 15 2015,18:00,Girona FC,2-2,1-0,Albacete
+24,Wed Mar 18 2015,21:00,CD Alavés,3-0,1-0,CA Osasuna
+30,Sat Mar 21 2015,16:00,RCD Mallorca,0-1,0-0,UE Llagostera
+30,Sat Mar 21 2015,18:00,AD Alcorcón,3-1,2-1,FC Barcelona B
+30,Sat Mar 21 2015,18:15,Real Betis,1-3,0-2,CD Leganés
+30,Sat Mar 21 2015,20:00,CD Numancia,4-2,3-1,UD Las Palmas
+30,Sat Mar 21 2015,20:00,Albacete,0-0,0-0,CD Mirandés
+30,Sun Mar 22 2015,12:00,Racing Santander,0-2,0-0,Real Zaragoza
+30,Sun Mar 22 2015,16:00,CD Lugo,3-2,1-0,CD Alavés
+30,Sun Mar 22 2015,17:00,Sporting Gijón,1-1,1-1,Recreativo Huelva
+30,Sun Mar 22 2015,17:00,Girona FC,0-0,0-0,CE Sabadell
+30,Sun Mar 22 2015,18:00,SD Ponferradina,2-0,1-0,Real Valladolid
+30,Sun Mar 22 2015,19:00,CD Tenerife,2-1,1-0,CA Osasuna
+31,Sat Mar 28 2015,16:00,CD Leganés,0-0,0-0,CD Numancia
+31,Sat Mar 28 2015,18:00,UE Llagostera,3-2,2-1,CD Lugo
+31,Sat Mar 28 2015,21:00,UD Las Palmas,4-2,2-1,SD Ponferradina
+31,Sat Mar 28 2015,18:00,Real Valladolid,0-1,0-1,Albacete
+31,Sat Mar 28 2015,18:15,Recreativo Huelva,0-1,0-0,Real Betis
+31,Sat Mar 28 2015,18:00,CD Alavés,2-1,1-1,Racing Santander
+31,Sun Mar 29 2015,12:00,CA Osasuna,0-0,0-0,Sporting Gijón
+31,Sun Mar 29 2015,21:00,CE Sabadell,1-1,1-0,RCD Mallorca
+31,Sun Mar 29 2015,18:15,Real Zaragoza,1-1,1-0,AD Alcorcón
+31,Sun Mar 29 2015,19:00,FC Barcelona B,2-2,2-1,CD Tenerife
+31,Sun Mar 29 2015,17:00,CD Mirandés,0-1,0-1,Girona FC
+32,Sat Apr 4 2015,16:00,CD Mirandés,0-0,0-0,CE Sabadell
+32,Sat Apr 4 2015,18:00,Girona FC,2-1,1-1,Real Valladolid
+32,Sat Apr 4 2015,18:15,CD Lugo,4-0,3-0,RCD Mallorca
+32,Sat Apr 4 2015,21:30,Albacete,1-0,0-0,UD Las Palmas
+32,Sun Apr 5 2015,16:00,SD Ponferradina,1-1,0-1,CD Leganés
+32,Sun Apr 5 2015,12:00,Real Betis,3-0,0-0,CA Osasuna
+32,Sun Apr 5 2015,17:00,Sporting Gijón,0-0,0-0,FC Barcelona B
+32,Sun Apr 5 2015,21:00,AD Alcorcón,0-1,0-0,CD Alavés
+32,Sun Apr 5 2015,19:00,Racing Santander,0-2,0-1,UE Llagostera
+32,Sun Apr 5 2015,19:00,CD Tenerife,1-1,1-0,Real Zaragoza
+32,Sun Apr 5 2015,18:15,CD Numancia,1-2,1-1,Recreativo Huelva
+33,Sat Apr 11 2015,16:00,RCD Mallorca,2-3,0-1,Racing Santander
+33,Sat Apr 11 2015,18:00,CE Sabadell,2-1,1-1,CD Lugo
+33,Sat Apr 11 2015,18:00,Real Zaragoza,1-1,0-0,Sporting Gijón
+33,Sat Apr 11 2015,18:15,Real Valladolid,2-1,2-0,CD Mirandés
+33,Sat Apr 11 2015,20:00,UE Llagostera,0-0,0-0,AD Alcorcón
+33,Sat Apr 11 2015,20:00,CD Alavés,1-0,1-0,CD Tenerife
+33,Sun Apr 12 2015,12:00,UD Las Palmas,2-0,1-0,Girona FC
+33,Sun Apr 12 2015,16:00,Recreativo Huelva,0-1,0-0,SD Ponferradina
+33,Sun Apr 12 2015,21:00,CD Leganés,2-0,2-0,Albacete
+33,Sun Apr 12 2015,18:15,CA Osasuna,1-1,0-1,CD Numancia
+33,Sun Apr 12 2015,17:00,FC Barcelona B,1-2,1-1,Real Betis
+34,Sat Apr 18 2015,16:00,Girona FC,2-1,0-0,CD Leganés
+34,Sat Apr 18 2015,18:00,Sporting Gijón,1-0,0-0,CD Alavés
+34,Sat Apr 18 2015,18:15,SD Ponferradina,1-0,1-0,CA Osasuna
+34,Sat Apr 18 2015,20:00,CD Mirandés,2-1,1-0,UD Las Palmas
+34,Sat Apr 18 2015,21:30,Racing Santander,1-0,0-0,CD Lugo
+34,Sat Apr 18 2015,21:30,Albacete,3-1,2-0,Recreativo Huelva
+34,Sun Apr 19 2015,12:00,Real Betis,4-0,1-0,Real Zaragoza
+34,Sun Apr 19 2015,16:00,AD Alcorcón,0-0,0-0,RCD Mallorca
+34,Sun Apr 19 2015,17:00,CD Numancia,1-0,1-0,FC Barcelona B
+34,Sun Apr 19 2015,18:15,Real Valladolid,0-0,0-0,CE Sabadell
+34,Sun Apr 19 2015,19:00,CD Tenerife,0-0,0-0,UE Llagostera
+35,Sat Apr 25 2015,16:00,CD Lugo,0-0,0-0,AD Alcorcón
+35,Sat Apr 25 2015,18:00,CA Osasuna,2-1,1-0,Albacete
+35,Sat Apr 25 2015,20:00,RCD Mallorca,2-1,0-1,CD Tenerife
+35,Sat Apr 25 2015,18:30,FC Barcelona B,2-1,0-0,SD Ponferradina
+35,Sat Apr 25 2015,18:15,CD Alavés,1-2,0-1,Real Betis
+35,Sun Apr 26 2015,12:00,UD Las Palmas,1-1,0-0,Real Valladolid
+35,Sun Apr 26 2015,16:00,CE Sabadell,3-2,1-1,Racing Santander
+35,Sun Apr 26 2015,16:30,UE Llagostera,0-0,0-0,Sporting Gijón
+35,Sun Apr 26 2015,21:00,CD Leganés,0-0,0-0,CD Mirandés
+35,Sun Apr 26 2015,18:15,Real Zaragoza,1-0,1-0,CD Numancia
+35,Sun Apr 26 2015,18:00,Recreativo Huelva,0-3,0-2,Girona FC
+36,Sat May 2 2015,16:00,AD Alcorcón,2-0,1-0,Racing Santander
+36,Sat May 2 2015,16:00,CD Numancia,1-0,0-0,CD Alavés
+36,Sat May 2 2015,18:15,Real Betis,2-2,0-1,UE Llagostera
+36,Sat May 2 2015,18:30,Girona FC,3-0,1-0,CA Osasuna
+36,Sat May 2 2015,20:00,UD Las Palmas,2-0,0-0,CE Sabadell
+36,Sun May 3 2015,12:00,SD Ponferradina,1-1,0-0,Real Zaragoza
+36,Sun May 3 2015,17:00,Sporting Gijón,1-0,1-0,RCD Mallorca
+36,Sun May 3 2015,21:00,CD Mirandés,2-1,1-0,Recreativo Huelva
+36,Sun May 3 2015,19:00,CD Tenerife,1-1,0-0,CD Lugo
+36,Sun May 3 2015,19:00,Albacete,2-1,0-0,FC Barcelona B
+36,Sun May 3 2015,18:15,Real Valladolid,2-0,1-0,CD Leganés
+37,Sat May 9 2015,16:00,FC Barcelona B,2-4,1-1,Girona FC
+37,Sat May 9 2015,18:00,CE Sabadell,0-1,0-1,AD Alcorcón
+37,Sat May 9 2015,18:00,CD Lugo,1-2,0-2,Sporting Gijón
+37,Sat May 9 2015,20:00,CD Leganés,2-1,0-0,UD Las Palmas
+37,Sat May 9 2015,18:00,Recreativo Huelva,0-3,0-3,Real Valladolid
+37,Sun May 10 2015,12:00,RCD Mallorca,1-2,1-2,Real Betis
+37,Sun May 10 2015,16:00,UE Llagostera,0-0,0-0,CD Numancia
+37,Sun May 10 2015,18:00,CA Osasuna,2-0,1-0,CD Mirandés
+37,Sun May 10 2015,18:15,Real Zaragoza,3-1,2-0,Albacete
+37,Sun May 10 2015,19:00,Racing Santander,1-0,1-0,CD Tenerife
+37,Sun May 10 2015,21:00,CD Alavés,2-1,1-1,SD Ponferradina
+38,Sat May 16 2015,20:00,UD Las Palmas,3-0,2-0,Recreativo Huelva
+38,Sat May 16 2015,16:00,CD Leganés,1-1,1-0,CE Sabadell
+38,Sat May 16 2015,18:00,Sporting Gijón,3-1,1-1,Racing Santander
+38,Sat May 16 2015,18:15,Real Valladolid,1-1,0-0,CA Osasuna
+38,Sat May 16 2015,20:00,CD Numancia,1-2,1-1,RCD Mallorca
+38,Sat May 16 2015,20:00,CD Mirandés,2-3,1-1,FC Barcelona B
+38,Sat May 16 2015,16:00,Albacete,2-3,1-1,CD Alavés
+38,Sun May 17 2015,12:00,Girona FC,1-1,0-1,Real Zaragoza
+38,Sun May 17 2015,16:00,SD Ponferradina,0-1,0-0,UE Llagostera
+38,Sun May 17 2015,18:15,Real Betis,5-1,2-1,CD Lugo
+38,Sun May 17 2015,21:00,CD Tenerife,1-1,1-1,AD Alcorcón
+39,Tue May 19 2015,21:00,FC Barcelona B,1-3,0-1,Real Valladolid
+39,Tue May 19 2015,22:00,CA Osasuna,1-2,1-2,UD Las Palmas
+39,Wed May 20 2015,20:00,AD Alcorcón,0-0,0-0,Sporting Gijón
+39,Wed May 20 2015,20:00,RCD Mallorca,1-0,0-0,SD Ponferradina
+39,Wed May 20 2015,20:00,Recreativo Huelva,1-0,0-0,CD Leganés
+39,Wed May 20 2015,21:00,CD Lugo,1-1,0-1,CD Numancia
+39,Wed May 20 2015,21:00,CD Alavés,0-3,0-1,Girona FC
+39,Wed May 20 2015,22:00,CE Sabadell,1-3,0-3,CD Tenerife
+39,Wed May 20 2015,22:00,Real Zaragoza,0-1,0-1,CD Mirandés
+39,Thu May 21 2015,20:00,Racing Santander,2-4,1-2,Real Betis
+39,Thu May 21 2015,21:00,UE Llagostera,2-3,1-2,Albacete
+40,Sat May 23 2015,16:00,Recreativo Huelva,3-1,1-0,CE Sabadell
+40,Sat May 23 2015,16:00,CD Mirandés,3-0,2-0,CD Alavés
+40,Sat May 23 2015,18:00,SD Ponferradina,1-0,1-0,CD Lugo
+40,Sat May 23 2015,18:15,CD Leganés,1-1,0-1,CA Osasuna
+40,Sat May 23 2015,21:30,UD Las Palmas,4-3,2-0,FC Barcelona B
+40,Sun May 24 2015,16:15,Girona FC,1-0,0-0,UE Llagostera
+40,Sun May 24 2015,18:00,Sporting Gijón,2-0,1-0,CD Tenerife
+40,Sun May 24 2015,18:00,CD Numancia,0-2,0-1,Racing Santander
+40,Sun May 24 2015,18:00,Real Valladolid,1-3,1-0,Real Zaragoza
+40,Sun May 24 2015,21:00,Albacete,4-2,2-2,RCD Mallorca
+40,Sun May 24 2015,20:00,Real Betis,3-0,1-0,AD Alcorcón
+41,Sun May 31 2015,18:00,Sporting Gijón,2-0,2-0,CE Sabadell
+41,Sun May 31 2015,18:00,CD Tenerife,2-0,0-0,Real Betis
+41,Sun May 31 2015,18:00,AD Alcorcón,1-1,1-0,CD Numancia
+41,Sun May 31 2015,18:00,Racing Santander,0-1,0-0,SD Ponferradina
+41,Sun May 31 2015,18:00,CD Lugo,1-1,1-0,Albacete
+41,Sun May 31 2015,18:00,RCD Mallorca,0-1,0-0,Girona FC
+41,Sun May 31 2015,18:00,UE Llagostera,0-1,0-0,CD Mirandés
+41,Sun May 31 2015,18:00,CD Alavés,0-2,0-0,Real Valladolid
+41,Sun May 31 2015,18:00,Real Zaragoza,0-2,0-2,UD Las Palmas
+41,Sun May 31 2015,18:00,FC Barcelona B,2-5,1-1,CD Leganés
+41,Sun May 31 2015,18:00,CA Osasuna,2-0,2-0,Recreativo Huelva
+42,Sun Jun 7 2015,18:00,Real Betis,0-3,0-1,Sporting Gijón
+42,Sun Jun 7 2015,18:00,SD Ponferradina,1-1,1-1,AD Alcorcón
+42,Sun Jun 7 2015,18:00,Albacete,0-1,0-1,Racing Santander
+42,Sun Jun 7 2015,18:00,Girona FC,1-1,1-0,CD Lugo
+42,Sun Jun 7 2015,18:00,CD Mirandés,2-0,1-0,RCD Mallorca
+42,Sun Jun 7 2015,18:00,Real Valladolid,2-4,1-2,UE Llagostera
+42,Sun Jun 7 2015,18:00,UD Las Palmas,3-2,2-0,CD Alavés
+42,Sun Jun 7 2015,18:00,CD Leganés,2-2,2-2,Real Zaragoza
+42,Sun Jun 7 2015,18:00,Recreativo Huelva,2-0,2-0,FC Barcelona B
+42,Sun Jun 7 2015,18:00,CE Sabadell,2-2,2-0,CA Osasuna
+42,Sun Jun 7 2015,20:00,CD Numancia,3-3,1-1,CD Tenerife
