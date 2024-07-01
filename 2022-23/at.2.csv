@@ -1,0 +1,241 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 22 2022,18:10,Vorwärts Steyr,2-2,2-2,Rapid Wien II
+1,Fri Jul 22 2022,18:10,SV Horn,2-1,1-1,Sturm Graz II
+1,Fri Jul 22 2022,18:10,Young Violets,2-2,0-0,FC Liefering
+1,Fri Jul 22 2022,18:10,SKU Amstetten,3-0,0-0,Kapfenberger SV
+1,Fri Jul 22 2022,18:00,First Vienna FC,2-0,2-0,FC Blau Weiß Linz
+1,Sat Jul 23 2022,17:00,Grazer AK,0-0,0-0,Floridsdorfer AC
+1,Sat Jul 23 2022,17:00,SKN St. Pölten,2-0,1-0,FC Dornbirn
+1,Sun Jul 24 2022,10:30,SV Lafnitz,2-1,2-1,FC Admira Wacker
+2,Fri Jul 29 2022,18:10,FC Blau Weiß Linz,4-2,2-0,Young Violets
+2,Fri Jul 29 2022,18:10,FC Dornbirn,1-3,1-1,SKU Amstetten
+2,Fri Jul 29 2022,18:10,Kapfenberger SV,0-1,0-0,SV Horn
+2,Fri Jul 29 2022,18:10,Rapid Wien II,1-5,0-2,SKN St. Pölten
+2,Fri Jul 29 2022,20:30,FC Admira Wacker,4-3,3-2,Grazer AK
+2,Sun Jul 31 2022,10:30,Sturm Graz II,2-0,2-0,SV Lafnitz
+2,Sun Jul 31 2022,10:30,Floridsdorfer AC,0-1,0-1,First Vienna FC
+2,Tue Aug 2 2022,18:30,FC Liefering,4-3,1-1,Vorwärts Steyr
+3,Fri Aug 5 2022,18:10,Young Violets,2-2,0-1,Kapfenberger SV
+3,Fri Aug 5 2022,18:10,SKU Amstetten,1-1,0-0,FC Admira Wacker
+3,Fri Aug 5 2022,18:10,SV Horn,2-1,0-1,FC Blau Weiß Linz
+3,Fri Aug 5 2022,18:10,First Vienna FC,1-1,1-0,SKN St. Pölten
+3,Fri Aug 5 2022,20:30,SV Lafnitz,0-4,0-1,Floridsdorfer AC
+3,Sat Aug 6 2022,14:30,Grazer AK,1-0,1-0,FC Liefering
+3,Sat Aug 6 2022,14:30,Vorwärts Steyr,2-1,0-1,FC Dornbirn
+3,Sun Aug 7 2022,10:30,Sturm Graz II,1-1,0-0,Rapid Wien II
+4,Fri Aug 12 2022,18:10,FC Liefering,1-1,0-1,First Vienna FC
+4,Fri Aug 12 2022,18:10,FC Dornbirn,0-1,0-0,SV Horn
+4,Fri Aug 12 2022,18:10,Floridsdorfer AC,2-1,2-0,Vorwärts Steyr
+4,Fri Aug 12 2022,18:10,SKN St. Pölten,2-5,1-1,Sturm Graz II
+4,Fri Aug 12 2022,18:10,FC Admira Wacker,3-2,2-1,Young Violets
+4,Fri Aug 12 2022,20:30,FC Blau Weiß Linz,1-1,1-0,Grazer AK
+4,Sat Aug 13 2022,20:00,Rapid Wien II,2-2,1-0,SKU Amstetten
+4,Sun Aug 14 2022,10:30,Kapfenberger SV,1-5,0-3,SV Lafnitz
+5,Fri Aug 19 2022,18:10,Young Violets,3-3,1-1,Rapid Wien II
+5,Fri Aug 19 2022,18:10,SKU Amstetten,1-0,0-0,FC Liefering
+5,Fri Aug 19 2022,18:10,SV Horn,1-1,0-1,Floridsdorfer AC
+5,Fri Aug 19 2022,18:10,SKN St. Pölten,2-0,1-0,Kapfenberger SV
+5,Fri Aug 19 2022,20:30,First Vienna FC,1-1,0-0,FC Admira Wacker
+5,Sat Aug 20 2022,14:30,SV Lafnitz,1-1,0-0,FC Dornbirn
+5,Sun Aug 21 2022,10:30,Sturm Graz II,0-2,0-2,FC Blau Weiß Linz
+5,Sun Aug 21 2022,10:30,Vorwärts Steyr,1-1,0-0,Grazer AK
+6,Fri Aug 26 2022,18:10,FC Liefering,4-2,2-0,Sturm Graz II
+6,Fri Aug 26 2022,18:10,Young Violets,1-1,1-1,SV Horn
+6,Fri Aug 26 2022,18:10,Floridsdorfer AC,2-3,1-2,SKU Amstetten
+6,Fri Aug 26 2022,18:10,Kapfenberger SV,1-1,0-1,Vorwärts Steyr
+6,Fri Aug 26 2022,20:30,FC Admira Wacker,1-0,1-0,SKN St. Pölten
+6,Sat Aug 27 2022,14:30,Grazer AK,3-1,2-0,SV Lafnitz
+6,Sat Aug 27 2022,14:30,FC Dornbirn,0-0,0-0,First Vienna FC
+6,Sun Aug 28 2022,10:30,FC Blau Weiß Linz,4-1,2-0,Rapid Wien II
+7,Fri Sep 2 2022,18:10,SV Lafnitz,3-0,2-0,First Vienna FC
+7,Fri Sep 2 2022,18:10,SV Horn,3-1,1-0,FC Liefering
+7,Fri Sep 2 2022,20:30,Vorwärts Steyr,2-1,0-1,FC Admira Wacker
+7,Sat Sep 3 2022,20:00,Rapid Wien II,0-1,0-1,FC Dornbirn
+7,Sat Sep 3 2022,20:00,Sturm Graz II,1-2,0-0,Young Violets
+7,Sat Sep 3 2022,20:00,SKU Amstetten,1-0,0-0,FC Blau Weiß Linz
+7,Sun Sep 4 2022,12:30,Kapfenberger SV,1-5,1-2,Grazer AK
+7,Sun Sep 4 2022,10:30,SKN St. Pölten,1-2,1-0,Floridsdorfer AC
+8,Fri Sep 9 2022,18:10,Young Violets,3-0,1-0,Vorwärts Steyr
+8,Fri Sep 9 2022,18:10,FC Blau Weiß Linz,1-0,0-0,SV Lafnitz
+8,Fri Sep 9 2022,18:10,FC Dornbirn,2-1,1-1,Kapfenberger SV
+8,Fri Sep 9 2022,18:10,FC Admira Wacker,1-2,1-1,Sturm Graz II
+8,Fri Sep 9 2022,20:30,Floridsdorfer AC,4-1,2-1,Rapid Wien II
+8,Sat Sep 10 2022,14:30,Grazer AK,2-0,0-0,SV Horn
+8,Sat Sep 10 2022,14:30,FC Liefering,1-2,0-2,SKN St. Pölten
+8,Sun Sep 11 2022,10:30,First Vienna FC,2-0,1-0,SKU Amstetten
+9,Fri Sep 16 2022,18:10,SV Lafnitz,2-0,0-0,Young Violets
+9,Fri Sep 16 2022,18:10,FC Blau Weiß Linz,0-1,0-0,SKN St. Pölten
+9,Fri Sep 16 2022,18:10,SV Horn,0-3,0-2,First Vienna FC
+9,Fri Sep 16 2022,18:10,Kapfenberger SV,2-4,1-2,FC Admira Wacker
+9,Fri Sep 16 2022,20:30,SKU Amstetten,1-1,0-0,Vorwärts Steyr
+9,Sat Sep 17 2022,14:30,Rapid Wien II,3-0,0-0,Grazer AK
+9,Sun Sep 18 2022,10:30,Sturm Graz II,0-0,0-0,Floridsdorfer AC
+9,Sun Sep 18 2022,10:30,FC Liefering,0-6,0-2,FC Dornbirn
+10,Fri Sep 30 2022,18:10,Vorwärts Steyr,1-3,1-1,SV Horn
+10,Fri Sep 30 2022,18:10,FC Dornbirn,3-1,1-0,Young Violets
+10,Fri Sep 30 2022,18:10,First Vienna FC,1-0,0-0,Kapfenberger SV
+10,Fri Sep 30 2022,20:30,SKN St. Pölten,2-3,1-1,SKU Amstetten
+10,Sat Oct 1 2022,14:30,Rapid Wien II,0-1,0-0,SV Lafnitz
+10,Sat Oct 1 2022,14:30,FC Admira Wacker,3-1,2-0,FC Liefering
+10,Sat Oct 1 2022,14:30,Grazer AK,1-1,1-1,Sturm Graz II
+10,Sun Oct 2 2022,10:30,Floridsdorfer AC,2-1,1-0,FC Blau Weiß Linz
+11,Fri Oct 7 2022,18:10,Young Violets,1-1,1-0,Grazer AK
+11,Fri Oct 7 2022,18:10,SKU Amstetten,0-1,0-0,SV Lafnitz
+11,Fri Oct 7 2022,18:10,Vorwärts Steyr,0-1,0-1,SKN St. Pölten
+11,Fri Oct 7 2022,18:10,Kapfenberger SV,0-2,0-1,Rapid Wien II
+11,Fri Oct 7 2022,20:30,FC Dornbirn,2-5,0-2,FC Blau Weiß Linz
+11,Sat Oct 8 2022,14:30,FC Liefering,1-2,1-0,Floridsdorfer AC
+11,Sun Oct 9 2022,10:30,Sturm Graz II,0-1,0-1,First Vienna FC
+11,Sun Oct 9 2022,10:30,SV Horn,2-1,1-1,FC Admira Wacker
+12,Fri Oct 14 2022,18:10,Floridsdorfer AC,1-1,0-0,Kapfenberger SV
+12,Fri Oct 14 2022,18:10,SKN St. Pölten,0-0,0-0,Grazer AK
+12,Fri Oct 14 2022,20:30,Rapid Wien II,0-1,0-0,SV Horn
+12,Sat Oct 15 2022,14:30,FC Blau Weiß Linz,4-1,1-0,Vorwärts Steyr
+12,Sat Oct 15 2022,14:30,FC Admira Wacker,1-0,0-0,FC Dornbirn
+12,Sat Oct 15 2022,14:30,SV Lafnitz,0-3,0-2,FC Liefering
+12,Sun Oct 16 2022,10:30,Sturm Graz II,3-1,0-0,SKU Amstetten
+12,Sun Oct 16 2022,10:30,First Vienna FC,0-1,0-1,Young Violets
+13,Fri Oct 21 2022,18:10,FC Liefering,6-1,3-1,Rapid Wien II
+13,Fri Oct 21 2022,18:10,Young Violets,1-5,1-1,SKU Amstetten
+13,Fri Oct 21 2022,20:30,Vorwärts Steyr,2-1,1-1,SV Lafnitz
+13,Sat Oct 22 2022,14:30,SV Horn,0-1,0-0,SKN St. Pölten
+13,Sat Oct 22 2022,14:30,Kapfenberger SV,2-4,1-1,FC Blau Weiß Linz
+13,Sat Oct 22 2022,14:30,FC Dornbirn,3-1,1-0,Sturm Graz II
+13,Sun Oct 23 2022,12:30,FC Admira Wacker,1-1,0-1,Floridsdorfer AC
+13,Sun Oct 23 2022,10:30,Grazer AK,1-0,0-0,First Vienna FC
+14,Fri Oct 28 2022,18:10,SKU Amstetten,2-2,2-0,Grazer AK
+14,Fri Oct 28 2022,18:10,SKN St. Pölten,5-0,4-0,Young Violets
+14,Fri Oct 28 2022,18:10,First Vienna FC,4-0,2-0,Vorwärts Steyr
+14,Sat Oct 29 2022,14:00,Floridsdorfer AC,0-3,0-1,FC Dornbirn
+14,Sat Oct 29 2022,14:00,Rapid Wien II,2-1,2-0,FC Admira Wacker
+14,Sat Oct 29 2022,14:00,FC Blau Weiß Linz,4-0,2-0,FC Liefering
+14,Sun Oct 30 2022,12:30,Sturm Graz II,0-1,0-1,Kapfenberger SV
+14,Sun Oct 30 2022,10:30,SV Lafnitz,1-1,1-0,SV Horn
+15,Fri Nov 4 2022,18:10,Young Violets,0-0,0-0,Floridsdorfer AC
+15,Fri Nov 4 2022,18:10,SKN St. Pölten,2-1,1-1,SV Lafnitz
+15,Fri Nov 4 2022,18:10,First Vienna FC,2-2,0-1,Rapid Wien II
+15,Fri Nov 4 2022,20:30,FC Admira Wacker,0-4,0-1,FC Blau Weiß Linz
+15,Sat Nov 5 2022,14:30,Grazer AK,2-0,1-0,FC Dornbirn
+15,Sat Nov 5 2022,14:30,Kapfenberger SV,3-2,1-1,FC Liefering
+15,Sat Nov 5 2022,14:30,Vorwärts Steyr,1-3,1-1,Sturm Graz II
+15,Sun Nov 6 2022,10:30,SV Horn,2-1,1-1,SKU Amstetten
+16,Fri Nov 11 2022,18:10,Floridsdorfer AC,2-1,2-1,SV Horn
+16,Fri Nov 11 2022,18:10,FC Dornbirn,0-2,0-0,Vorwärts Steyr
+16,Fri Nov 11 2022,18:10,SV Lafnitz,5-1,2-0,Sturm Graz II
+16,Fri Nov 11 2022,18:10,FC Liefering,1-0,0-0,FC Admira Wacker
+16,Fri Nov 11 2022,20:30,SKU Amstetten,0-4,0-3,SKN St. Pölten
+16,Sat Nov 12 2022,14:30,Grazer AK,3-1,2-0,Kapfenberger SV
+16,Sat Nov 12 2022,14:30,FC Blau Weiß Linz,3-0,1-0,First Vienna FC
+16,Sun Nov 13 2022,10:30,Rapid Wien II,2-0,2-0,Young Violets
+17,Fri Feb 24 2023,18:10,SV Horn,2-1,0-0,Grazer AK
+17,Fri Feb 24 2023,18:10,Rapid Wien II,1-0,0-0,Floridsdorfer AC
+17,Fri Feb 24 2023,18:10,FC Admira Wacker,1-2,0-0,SV Lafnitz
+17,Fri Feb 24 2023,18:10,First Vienna FC,0-2,0-0,FC Liefering
+17,Fri Feb 24 2023,20:30,Vorwärts Steyr,0-4,0-3,FC Blau Weiß Linz
+17,Sat Feb 25 2023,14:30,Kapfenberger SV,4-2,2-1,Young Violets
+17,Sat Feb 25 2023,14:30,SKU Amstetten,3-3,1-2,FC Dornbirn
+17,Sun Feb 26 2023,13:30,Sturm Graz II,0-2,0-0,SKN St. Pölten
+18,Fri Mar 3 2023,18:10,Young Violets,0-2,0-2,First Vienna FC
+18,Fri Mar 3 2023,18:10,SV Lafnitz,1-1,1-1,Vorwärts Steyr
+18,Fri Mar 3 2023,18:10,Floridsdorfer AC,0-1,0-0,Sturm Graz II
+18,Fri Mar 3 2023,20:30,SKN St. Pölten,0-2,0-0,SV Horn
+18,Sat Mar 4 2023,14:30,FC Dornbirn,1-2,0-1,Rapid Wien II
+18,Sat Mar 4 2023,14:00,FC Blau Weiß Linz,2-0,1-0,Kapfenberger SV
+18,Sun Mar 5 2023,12:30,FC Liefering,4-0,0-0,SKU Amstetten
+18,Sun Mar 5 2023,10:30,Grazer AK,1-0,1-0,FC Admira Wacker
+19,Fri Mar 10 2023,18:10,FC Liefering,3-1,1-0,SV Horn
+19,Fri Mar 10 2023,18:10,Young Violets,0-2,0-1,SKN St. Pölten
+19,Fri Mar 10 2023,18:10,SKU Amstetten,1-0,0-0,Floridsdorfer AC
+19,Fri Mar 10 2023,18:10,Vorwärts Steyr,1-1,0-0,Kapfenberger SV
+19,Fri Mar 10 2023,18:10,SV Lafnitz,1-1,0-1,FC Blau Weiß Linz
+19,Fri Mar 10 2023,20:30,First Vienna FC,0-2,0-2,Grazer AK
+19,Sun Mar 12 2023,12:30,Sturm Graz II,0-4,0-0,FC Dornbirn
+19,Sun Mar 12 2023,10:30,FC Admira Wacker,3-1,0-0,Rapid Wien II
+20,Fri Mar 17 2023,18:10,SV Horn,2-2,1-1,Vorwärts Steyr
+20,Fri Mar 17 2023,18:10,Kapfenberger SV,3-1,2-1,Sturm Graz II
+20,Fri Mar 17 2023,18:10,SKN St. Pölten,2-0,0-0,FC Liefering
+20,Fri Mar 17 2023,20:30,Floridsdorfer AC,0-0,0-0,FC Admira Wacker
+20,Sat Mar 18 2023,14:30,Grazer AK,3-0,1-0,Young Violets
+20,Sat Mar 18 2023,14:30,Rapid Wien II,2-2,0-2,First Vienna FC
+20,Sat Mar 18 2023,14:30,FC Dornbirn,2-1,1-0,SV Lafnitz
+20,Sun Mar 19 2023,10:30,FC Blau Weiß Linz,2-1,1-1,SKU Amstetten
+21,Fri Mar 31 2023,18:10,Young Violets,2-1,1-0,FC Blau Weiß Linz
+21,Fri Mar 31 2023,18:10,SKU Amstetten,0-0,0-0,Rapid Wien II
+21,Fri Mar 31 2023,18:10,Vorwärts Steyr,1-0,1-0,Floridsdorfer AC
+21,Fri Mar 31 2023,18:10,Sturm Graz II,2-3,1-2,Grazer AK
+21,Fri Mar 31 2023,20:30,SV Lafnitz,2-2,0-0,SKN St. Pölten
+21,Sat Apr 1 2023,14:30,First Vienna FC,3-2,2-2,FC Dornbirn
+21,Sat Apr 1 2023,14:30,FC Liefering,1-3,1-2,Kapfenberger SV
+21,Sun Apr 2 2023,10:30,FC Admira Wacker,0-0,0-0,SV Horn
+22,Fri Apr 7 2023,18:10,SV Horn,1-2,1-2,SV Lafnitz
+22,Fri Apr 7 2023,18:10,Floridsdorfer AC,1-2,0-2,Young Violets
+22,Fri Apr 7 2023,18:10,Kapfenberger SV,1-1,1-0,SKU Amstetten
+22,Fri Apr 7 2023,18:10,Rapid Wien II,0-4,0-2,Sturm Graz II
+22,Fri Apr 7 2023,18:10,SKN St. Pölten,3-1,0-0,First Vienna FC
+22,Sat Apr 8 2023,14:30,Grazer AK,3-2,2-1,Vorwärts Steyr
+22,Sat Apr 8 2023,14:30,FC Blau Weiß Linz,3-1,2-1,FC Admira Wacker
+22,Sun Apr 9 2023,10:30,FC Dornbirn,0-2,0-2,FC Liefering
+23,Fri Apr 14 2023,18:10,FC Liefering,2-2,0-1,FC Blau Weiß Linz
+23,Fri Apr 14 2023,18:10,SV Lafnitz,2-0,0-0,Rapid Wien II
+23,Fri Apr 14 2023,20:30,Grazer AK,0-0,0-0,SKN St. Pölten
+23,Sat Apr 15 2023,14:30,Young Violets,2-3,2-2,FC Dornbirn
+23,Sun Apr 16 2023,10:30,Sturm Graz II,2-2,1-1,SV Horn
+23,Sun Apr 16 2023,10:30,First Vienna FC,0-3,0-1,Floridsdorfer AC
+23,Tue Apr 18 2023,18:30,FC Admira Wacker,0-2,0-0,Kapfenberger SV
+24,Fri Apr 21 2023,18:10,SKU Amstetten,5-0,2-0,Sturm Graz II
+24,Fri Apr 21 2023,18:10,SV Horn,1-2,1-0,Young Violets
+24,Fri Apr 21 2023,18:10,Floridsdorfer AC,3-1,1-1,FC Liefering
+24,Fri Apr 21 2023,20:30,SKN St. Pölten,2-0,1-0,FC Admira Wacker
+24,Fri Apr 21 2023,18:10,Rapid Wien II,2-1,1-0,Vorwärts Steyr
+24,Fri Apr 21 2023,18:10,Kapfenberger SV,3-0,0-0,First Vienna FC
+24,Sat Apr 22 2023,14:30,FC Blau Weiß Linz,1-0,0-0,FC Dornbirn
+24,Sun Apr 23 2023,10:30,SV Lafnitz,2-3,1-2,Grazer AK
+23,Tue Apr 25 2023,18:30,Vorwärts Steyr,2-3,1-0,SKU Amstetten
+25,Fri Apr 28 2023,18:10,Young Violets,0-1,0-1,Sturm Graz II
+25,Fri Apr 28 2023,18:10,Floridsdorfer AC,4-3,1-0,SV Lafnitz
+25,Fri Apr 28 2023,18:10,Rapid Wien II,2-2,1-1,Kapfenberger SV
+25,Fri Apr 28 2023,18:10,FC Admira Wacker,0-1,0-0,SKU Amstetten
+25,Fri Apr 28 2023,18:10,First Vienna FC,0-0,0-0,SV Horn
+25,Fri Apr 28 2023,20:30,Grazer AK,0-3,0-3,FC Blau Weiß Linz
+25,Sat Apr 29 2023,14:30,FC Dornbirn,0-3,0-1,SKN St. Pölten
+25,Sun Apr 30 2023,10:30,Vorwärts Steyr,2-0,2-0,FC Liefering
+26,Fri May 5 2023,18:10,Young Violets,1-0,0-0,SV Lafnitz
+26,Fri May 5 2023,18:10,SKU Amstetten,0-4,0-1,First Vienna FC
+26,Fri May 5 2023,18:10,FC Blau Weiß Linz,1-1,1-0,Floridsdorfer AC
+26,Fri May 5 2023,18:10,SV Horn,3-0,1-0,Rapid Wien II
+26,Fri May 5 2023,20:30,FC Liefering,0-2,0-0,Grazer AK
+26,Sat May 6 2023,14:30,Kapfenberger SV,2-1,0-1,FC Dornbirn
+26,Sun May 7 2023,10:30,Sturm Graz II,2-5,2-2,FC Admira Wacker
+26,Sun May 7 2023,10:30,SKN St. Pölten,1-1,1-0,Vorwärts Steyr
+27,Fri May 12 2023,18:10,Vorwärts Steyr,2-0,0-0,Young Violets
+27,Fri May 12 2023,18:10,SV Lafnitz,2-3,1-1,SKU Amstetten
+27,Fri May 12 2023,18:10,SV Horn,0-0,0-0,Kapfenberger SV
+27,Fri May 12 2023,18:10,First Vienna FC,1-0,0-0,Sturm Graz II
+27,Fri May 12 2023,20:30,SKN St. Pölten,0-2,0-1,FC Blau Weiß Linz
+27,Sat May 13 2023,14:30,Rapid Wien II,0-0,0-0,FC Liefering
+27,Sat May 13 2023,14:30,FC Dornbirn,1-2,1-1,FC Admira Wacker
+27,Sun May 14 2023,10:30,Floridsdorfer AC,1-2,1-1,Grazer AK
+28,Fri May 19 2023,18:10,FC Liefering,3-1,0-1,SV Lafnitz
+28,Fri May 19 2023,18:10,SKU Amstetten,2-2,0-1,Young Violets
+28,Fri May 19 2023,18:10,FC Blau Weiß Linz,0-1,0-0,SV Horn
+28,Fri May 19 2023,18:10,FC Dornbirn,0-0,0-0,Floridsdorfer AC
+28,Fri May 19 2023,18:10,FC Admira Wacker,0-1,0-1,First Vienna FC
+28,Sat May 20 2023,14:30,Grazer AK,2-0,0-0,Rapid Wien II
+28,Sun May 21 2023,12:30,Sturm Graz II,2-0,0-0,Vorwärts Steyr
+28,Sun May 21 2023,10:30,Kapfenberger SV,2-1,1-1,SKN St. Pölten
+29,Fri May 26 2023,19:15,Young Violets,0-0,0-0,FC Admira Wacker
+29,Fri May 26 2023,19:15,Vorwärts Steyr,1-0,1-0,First Vienna FC
+29,Fri May 26 2023,19:15,SV Lafnitz,3-1,2-0,Kapfenberger SV
+29,Fri May 26 2023,19:15,SV Horn,0-2,0-0,FC Dornbirn
+29,Fri May 26 2023,19:15,Floridsdorfer AC,2-1,2-0,SKN St. Pölten
+29,Fri May 26 2023,19:15,Grazer AK,3-0,0-0,SKU Amstetten
+29,Fri May 26 2023,19:15,Rapid Wien II,0-1,0-0,FC Blau Weiß Linz
+29,Fri May 26 2023,19:15,Sturm Graz II,4-2,2-1,FC Liefering
+30,Sun Jun 4 2023,14:30,SKU Amstetten,2-2,1-1,SV Horn
+30,Sun Jun 4 2023,14:30,FC Blau Weiß Linz,2-1,0-1,Sturm Graz II
+30,Sun Jun 4 2023,14:30,FC Dornbirn,1-1,0-0,Grazer AK
+30,Sun Jun 4 2023,14:30,Kapfenberger SV,0-3,0-1,Floridsdorfer AC
+30,Sun Jun 4 2023,14:30,SKN St. Pölten,1-0,1-0,Rapid Wien II
+30,Sun Jun 4 2023,14:30,FC Admira Wacker,3-0,0-0,Vorwärts Steyr
+30,Sun Jun 4 2023,14:30,First Vienna FC,1-2,1-1,SV Lafnitz
+30,Sun Jun 4 2023,14:30,FC Liefering,5-0,3-0,Young Violets
