@@ -1,0 +1,381 @@
+Round,Date,Time,Team 1,FT,Team 2
+1,Fri Aug 2 2024,19:00,TSV 1860 München,,1. FC Saarbrücken
+1,Sat Aug 3 2024,14:00,Rot-Weiss Essen,,Alemannia Aachen
+1,Sat Aug 3 2024,14:00,Erzgebirge Aue,,Hannover 96 II
+1,Sat Aug 3 2024,14:00,Borussia Dortmund II,,SpVgg Unterhaching
+1,Sat Aug 3 2024,14:00,SC Verl,,SV Wehen Wiesbaden
+1,Sat Aug 3 2024,14:00,SV Sandhausen,,VfL Osnabrück
+1,Sat Aug 3 2024,16:30,Hansa Rostock,,VfB Stuttgart II
+1,Sun Aug 4 2024,16:30,Energie Cottbus,,Arminia Bielefeld
+1,Sun Aug 4 2024,19:30,FC Ingolstadt 04,,Waldhof Mannheim
+1,Sun Aug 4 2024,13:30,Viktoria Köln,,Dynamo Dresden
+2,Fri Aug 9 2024,19:00,Dynamo Dresden,,Energie Cottbus
+2,Sat Aug 10 2024,14:00,SpVgg Unterhaching,,FC Ingolstadt 04
+2,Sat Aug 10 2024,14:00,SV Wehen Wiesbaden,,Hansa Rostock
+2,Sat Aug 10 2024,14:00,Waldhof Mannheim,,Viktoria Köln
+2,Sat Aug 10 2024,14:00,VfL Osnabrück,,Erzgebirge Aue
+2,Sat Aug 10 2024,14:00,Alemannia Aachen,,SC Verl
+2,Sat Aug 10 2024,16:30,Arminia Bielefeld,,Borussia Dortmund II
+2,Sun Aug 11 2024,16:30,VfB Stuttgart II,,TSV 1860 München
+2,Sun Aug 11 2024,19:30,1. FC Saarbrücken,,SV Sandhausen
+2,Sun Aug 11 2024,13:30,Hannover 96 II,,Rot-Weiss Essen
+3,Fri Aug 23 2024,19:00,Erzgebirge Aue,,Dynamo Dresden
+3,Sat Aug 24 2024,14:00,VfL Osnabrück,,SpVgg Unterhaching
+3,Sat Aug 24 2024,14:00,Hansa Rostock,,Borussia Dortmund II
+3,Sat Aug 24 2024,14:00,Rot-Weiss Essen,,Arminia Bielefeld
+3,Sat Aug 24 2024,14:00,1. FC Saarbrücken,,FC Ingolstadt 04
+3,Sat Aug 24 2024,14:00,SV Sandhausen,,Hannover 96 II
+3,Sat Aug 24 2024,16:30,Energie Cottbus,,Alemannia Aachen
+3,Sun Aug 25 2024,16:30,SC Verl,,Waldhof Mannheim
+3,Sun Aug 25 2024,19:30,VfB Stuttgart II,,SV Wehen Wiesbaden
+3,Sun Aug 25 2024,13:30,TSV 1860 München,,Viktoria Köln
+4,Fri Aug 30 2024,19:00,Viktoria Köln,,Hansa Rostock
+4,Sat Aug 31 2024,14:00,Alemannia Aachen,,Erzgebirge Aue
+4,Sat Aug 31 2024,14:00,Waldhof Mannheim,,1. FC Saarbrücken
+4,Sat Aug 31 2024,14:00,Dynamo Dresden,,VfB Stuttgart II
+4,Sat Aug 31 2024,14:00,Arminia Bielefeld,,SV Sandhausen
+4,Sat Aug 31 2024,14:00,FC Ingolstadt 04,,TSV 1860 München
+4,Sat Aug 31 2024,16:30,Borussia Dortmund II,,VfL Osnabrück
+4,Sun Sep 1 2024,16:30,SpVgg Unterhaching,,Rot-Weiss Essen
+4,Sun Sep 1 2024,19:30,Hannover 96 II,,SC Verl
+4,Sun Sep 1 2024,13:30,SV Wehen Wiesbaden,,Energie Cottbus
+5,Fri Sep 13 2024,19:00,SV Sandhausen,,Borussia Dortmund II
+5,Sat Sep 14 2024,14:00,Hansa Rostock,,Waldhof Mannheim
+5,Sat Sep 14 2024,14:00,VfB Stuttgart II,,FC Ingolstadt 04
+5,Sat Sep 14 2024,14:00,Rot-Weiss Essen,,SV Wehen Wiesbaden
+5,Sat Sep 14 2024,14:00,TSV 1860 München,,Dynamo Dresden
+5,Sat Sep 14 2024,14:00,1. FC Saarbrücken,,SpVgg Unterhaching
+5,Sat Sep 14 2024,16:30,VfL Osnabrück,,Hannover 96 II
+5,Sun Sep 15 2024,16:30,SC Verl,,Energie Cottbus
+5,Sun Sep 15 2024,19:30,Alemannia Aachen,,Viktoria Köln
+5,Sun Sep 15 2024,13:30,Erzgebirge Aue,,Arminia Bielefeld
+6,Fri Sep 20 2024,19:00,SpVgg Unterhaching,,Erzgebirge Aue
+6,Sat Sep 21 2024,14:00,Waldhof Mannheim,,VfL Osnabrück
+6,Sat Sep 21 2024,14:00,FC Ingolstadt 04,,Rot-Weiss Essen
+6,Sat Sep 21 2024,14:00,Energie Cottbus,,VfB Stuttgart II
+6,Sat Sep 21 2024,14:00,SV Wehen Wiesbaden,,SV Sandhausen
+6,Sat Sep 21 2024,14:00,Dynamo Dresden,,Hansa Rostock
+6,Sat Sep 21 2024,16:30,Arminia Bielefeld,,TSV 1860 München
+6,Sun Sep 22 2024,16:30,Viktoria Köln,,SC Verl
+6,Sun Sep 22 2024,19:30,Borussia Dortmund II,,Alemannia Aachen
+6,Sun Sep 22 2024,13:30,Hannover 96 II,,1. FC Saarbrücken
+7,Tue Sep 24 2024,19:00,VfB Stuttgart II,,Arminia Bielefeld
+7,Tue Sep 24 2024,19:00,Erzgebirge Aue,,SV Wehen Wiesbaden
+7,Tue Sep 24 2024,19:00,SV Sandhausen,,FC Ingolstadt 04
+7,Tue Sep 24 2024,19:00,VfL Osnabrück,,Energie Cottbus
+7,Tue Sep 24 2024,19:00,Hansa Rostock,,SpVgg Unterhaching
+7,Wed Sep 25 2024,19:00,TSV 1860 München,,Hannover 96 II
+7,Wed Sep 25 2024,19:00,SC Verl,,Dynamo Dresden
+7,Wed Sep 25 2024,19:00,Alemannia Aachen,,Waldhof Mannheim
+7,Wed Sep 25 2024,19:00,Rot-Weiss Essen,,Borussia Dortmund II
+7,Wed Sep 25 2024,19:00,1. FC Saarbrücken,,Viktoria Köln
+8,Fri Sep 27 2024,19:00,SpVgg Unterhaching,,SV Sandhausen
+8,Sat Sep 28 2024,14:00,Waldhof Mannheim,,Rot-Weiss Essen
+8,Sat Sep 28 2024,14:00,Viktoria Köln,,Erzgebirge Aue
+8,Sat Sep 28 2024,14:00,SV Wehen Wiesbaden,,VfL Osnabrück
+8,Sat Sep 28 2024,14:00,Borussia Dortmund II,,TSV 1860 München
+8,Sat Sep 28 2024,14:00,Hannover 96 II,,VfB Stuttgart II
+8,Sat Sep 28 2024,16:30,Energie Cottbus,,1. FC Saarbrücken
+8,Sun Sep 29 2024,16:30,Dynamo Dresden,,Alemannia Aachen
+8,Sun Sep 29 2024,19:30,Arminia Bielefeld,,SC Verl
+8,Sun Sep 29 2024,13:30,FC Ingolstadt 04,,Hansa Rostock
+9,Sat Oct 5 2024,,Erzgebirge Aue,,Hansa Rostock
+9,Sat Oct 5 2024,,1. FC Saarbrücken,,Arminia Bielefeld
+9,Sat Oct 5 2024,,VfL Osnabrück,,VfB Stuttgart II
+9,Sat Oct 5 2024,,Borussia Dortmund II,,Dynamo Dresden
+9,Sat Oct 5 2024,,Alemannia Aachen,,FC Ingolstadt 04
+9,Sat Oct 5 2024,,TSV 1860 München,,SV Wehen Wiesbaden
+9,Sat Oct 5 2024,,SV Sandhausen,,Waldhof Mannheim
+9,Sat Oct 5 2024,,Hannover 96 II,,Energie Cottbus
+9,Sat Oct 5 2024,,Rot-Weiss Essen,,Viktoria Köln
+9,Sat Oct 5 2024,,SC Verl,,SpVgg Unterhaching
+10,Sat Oct 19 2024,,Hansa Rostock,,Alemannia Aachen
+10,Sat Oct 19 2024,,FC Ingolstadt 04,,SC Verl
+10,Sat Oct 19 2024,,Viktoria Köln,,Borussia Dortmund II
+10,Sat Oct 19 2024,,SV Wehen Wiesbaden,,Hannover 96 II
+10,Sat Oct 19 2024,,Dynamo Dresden,,Rot-Weiss Essen
+10,Sat Oct 19 2024,,SpVgg Unterhaching,,TSV 1860 München
+10,Sat Oct 19 2024,,Arminia Bielefeld,,VfL Osnabrück
+10,Sat Oct 19 2024,,Waldhof Mannheim,,Erzgebirge Aue
+10,Sat Oct 19 2024,,VfB Stuttgart II,,1. FC Saarbrücken
+10,Sat Oct 19 2024,,Energie Cottbus,,SV Sandhausen
+11,Tue Oct 22 2024,,Hannover 96 II,,Arminia Bielefeld
+11,Tue Oct 22 2024,,SV Wehen Wiesbaden,,Dynamo Dresden
+11,Tue Oct 22 2024,,Alemannia Aachen,,SpVgg Unterhaching
+11,Tue Oct 22 2024,,Rot-Weiss Essen,,SC Verl
+11,Tue Oct 22 2024,,TSV 1860 München,,VfL Osnabrück
+11,Tue Oct 22 2024,,1. FC Saarbrücken,,Hansa Rostock
+11,Tue Oct 22 2024,,Viktoria Köln,,FC Ingolstadt 04
+11,Tue Oct 22 2024,,Erzgebirge Aue,,Energie Cottbus
+11,Tue Oct 22 2024,,Borussia Dortmund II,,Waldhof Mannheim
+11,Tue Oct 22 2024,,SV Sandhausen,,VfB Stuttgart II
+12,Sat Oct 26 2024,,Arminia Bielefeld,,Alemannia Aachen
+12,Sat Oct 26 2024,,Waldhof Mannheim,,SV Wehen Wiesbaden
+12,Sat Oct 26 2024,,VfB Stuttgart II,,Erzgebirge Aue
+12,Sat Oct 26 2024,,VfL Osnabrück,,1. FC Saarbrücken
+12,Sat Oct 26 2024,,Hansa Rostock,,Rot-Weiss Essen
+12,Sat Oct 26 2024,,SpVgg Unterhaching,,Viktoria Köln
+12,Sat Oct 26 2024,,SC Verl,,SV Sandhausen
+12,Sat Oct 26 2024,,FC Ingolstadt 04,,Borussia Dortmund II
+12,Sat Oct 26 2024,,Energie Cottbus,,TSV 1860 München
+12,Sat Oct 26 2024,,Dynamo Dresden,,Hannover 96 II
+13,Sat Nov 2 2024,,Erzgebirge Aue,,1. FC Saarbrücken
+13,Sat Nov 2 2024,,FC Ingolstadt 04,,Dynamo Dresden
+13,Sat Nov 2 2024,,SV Wehen Wiesbaden,,Arminia Bielefeld
+13,Sat Nov 2 2024,,Borussia Dortmund II,,SC Verl
+13,Sat Nov 2 2024,,SpVgg Unterhaching,,Waldhof Mannheim
+13,Sat Nov 2 2024,,Rot-Weiss Essen,,Energie Cottbus
+13,Sat Nov 2 2024,,SV Sandhausen,,TSV 1860 München
+13,Sat Nov 2 2024,,Viktoria Köln,,VfB Stuttgart II
+13,Sat Nov 2 2024,,Hansa Rostock,,VfL Osnabrück
+13,Sat Nov 2 2024,,Alemannia Aachen,,Hannover 96 II
+14,Sat Nov 9 2024,,Erzgebirge Aue,,Rot-Weiss Essen
+14,Sat Nov 9 2024,,VfB Stuttgart II,,SpVgg Unterhaching
+14,Sat Nov 9 2024,,Hannover 96 II,,FC Ingolstadt 04
+14,Sat Nov 9 2024,,VfL Osnabrück,,Dynamo Dresden
+14,Sat Nov 9 2024,,Energie Cottbus,,Borussia Dortmund II
+14,Sat Nov 9 2024,,Arminia Bielefeld,,Viktoria Köln
+14,Sat Nov 9 2024,,SV Sandhausen,,Alemannia Aachen
+14,Sat Nov 9 2024,,1. FC Saarbrücken,,SV Wehen Wiesbaden
+14,Sat Nov 9 2024,,TSV 1860 München,,Waldhof Mannheim
+14,Sat Nov 9 2024,,SC Verl,,Hansa Rostock
+15,Sat Nov 23 2024,,Hansa Rostock,,Arminia Bielefeld
+15,Sat Nov 23 2024,,FC Ingolstadt 04,,VfL Osnabrück
+15,Sat Nov 23 2024,,Viktoria Köln,,Energie Cottbus
+15,Sat Nov 23 2024,,Dynamo Dresden,,1. FC Saarbrücken
+15,Sat Nov 23 2024,,Borussia Dortmund II,,Erzgebirge Aue
+15,Sat Nov 23 2024,,SpVgg Unterhaching,,SV Wehen Wiesbaden
+15,Sat Nov 23 2024,,Rot-Weiss Essen,,SV Sandhausen
+15,Sat Nov 23 2024,,Waldhof Mannheim,,Hannover 96 II
+15,Sat Nov 23 2024,,Alemannia Aachen,,TSV 1860 München
+15,Sat Nov 23 2024,,SC Verl,,VfB Stuttgart II
+16,Sat Nov 30 2024,,1. FC Saarbrücken,,Rot-Weiss Essen
+16,Sat Nov 30 2024,,VfB Stuttgart II,,Waldhof Mannheim
+16,Sat Nov 30 2024,,VfL Osnabrück,,Alemannia Aachen
+16,Sat Nov 30 2024,,Energie Cottbus,,SpVgg Unterhaching
+16,Sat Nov 30 2024,,SV Wehen Wiesbaden,,Viktoria Köln
+16,Sat Nov 30 2024,,Arminia Bielefeld,,FC Ingolstadt 04
+16,Sat Nov 30 2024,,SV Sandhausen,,Dynamo Dresden
+16,Sat Nov 30 2024,,Hannover 96 II,,Borussia Dortmund II
+16,Sat Nov 30 2024,,Erzgebirge Aue,,SC Verl
+16,Sat Nov 30 2024,,TSV 1860 München,,Hansa Rostock
+17,Sat Dec 7 2024,,Rot-Weiss Essen,,TSV 1860 München
+17,Sat Dec 7 2024,,FC Ingolstadt 04,,Erzgebirge Aue
+17,Sat Dec 7 2024,,Hansa Rostock,,SV Sandhausen
+17,Sat Dec 7 2024,,Dynamo Dresden,,Arminia Bielefeld
+17,Sat Dec 7 2024,,Borussia Dortmund II,,SV Wehen Wiesbaden
+17,Sat Dec 7 2024,,SpVgg Unterhaching,,Hannover 96 II
+17,Sat Dec 7 2024,,Alemannia Aachen,,VfB Stuttgart II
+17,Sat Dec 7 2024,,Waldhof Mannheim,,Energie Cottbus
+17,Sat Dec 7 2024,,Viktoria Köln,,VfL Osnabrück
+17,Sat Dec 7 2024,,SC Verl,,1. FC Saarbrücken
+18,Sat Dec 14 2024,,1. FC Saarbrücken,,Alemannia Aachen
+18,Sat Dec 14 2024,,VfB Stuttgart II,,Borussia Dortmund II
+18,Sat Dec 14 2024,,Hannover 96 II,,Viktoria Köln
+18,Sat Dec 14 2024,,Energie Cottbus,,Hansa Rostock
+18,Sat Dec 14 2024,,Dynamo Dresden,,Waldhof Mannheim
+18,Sat Dec 14 2024,,Arminia Bielefeld,,SpVgg Unterhaching
+18,Sat Dec 14 2024,,SV Sandhausen,,Erzgebirge Aue
+18,Sat Dec 14 2024,,VfL Osnabrück,,Rot-Weiss Essen
+18,Sat Dec 14 2024,,SV Wehen Wiesbaden,,FC Ingolstadt 04
+18,Sat Dec 14 2024,,TSV 1860 München,,SC Verl
+19,Sat Dec 21 2024,,Erzgebirge Aue,,TSV 1860 München
+19,Sat Dec 21 2024,,Waldhof Mannheim,,Arminia Bielefeld
+19,Sat Dec 21 2024,,FC Ingolstadt 04,,Energie Cottbus
+19,Sat Dec 21 2024,,Hansa Rostock,,Hannover 96 II
+19,Sat Dec 21 2024,,Borussia Dortmund II,,1. FC Saarbrücken
+19,Sat Dec 21 2024,,Alemannia Aachen,,SV Wehen Wiesbaden
+19,Sat Dec 21 2024,,Rot-Weiss Essen,,VfB Stuttgart II
+19,Sat Dec 21 2024,,Viktoria Köln,,SV Sandhausen
+19,Sat Dec 21 2024,,SpVgg Unterhaching,,Dynamo Dresden
+19,Sat Dec 21 2024,,SC Verl,,VfL Osnabrück
+20,Sat Jan 18 2025,,1. FC Saarbrücken,,TSV 1860 München
+20,Sat Jan 18 2025,,Alemannia Aachen,,Rot-Weiss Essen
+20,Sat Jan 18 2025,,Dynamo Dresden,,Viktoria Köln
+20,Sat Jan 18 2025,,Hannover 96 II,,Erzgebirge Aue
+20,Sat Jan 18 2025,,VfB Stuttgart II,,Hansa Rostock
+20,Sat Jan 18 2025,,SpVgg Unterhaching,,Borussia Dortmund II
+20,Sat Jan 18 2025,,SV Wehen Wiesbaden,,SC Verl
+20,Sat Jan 18 2025,,Waldhof Mannheim,,FC Ingolstadt 04
+20,Sat Jan 18 2025,,Arminia Bielefeld,,Energie Cottbus
+20,Sat Jan 18 2025,,VfL Osnabrück,,SV Sandhausen
+21,Sat Jan 25 2025,,FC Ingolstadt 04,,SpVgg Unterhaching
+21,Sat Jan 25 2025,,SV Sandhausen,,1. FC Saarbrücken
+21,Sat Jan 25 2025,,TSV 1860 München,,VfB Stuttgart II
+21,Sat Jan 25 2025,,Rot-Weiss Essen,,Hannover 96 II
+21,Sat Jan 25 2025,,Hansa Rostock,,SV Wehen Wiesbaden
+21,Sat Jan 25 2025,,Energie Cottbus,,Dynamo Dresden
+21,Sat Jan 25 2025,,Borussia Dortmund II,,Arminia Bielefeld
+21,Sat Jan 25 2025,,Viktoria Köln,,Waldhof Mannheim
+21,Sat Jan 25 2025,,Erzgebirge Aue,,VfL Osnabrück
+21,Sat Jan 25 2025,,SC Verl,,Alemannia Aachen
+22,Sat Feb 1 2025,,Dynamo Dresden,,Erzgebirge Aue
+22,Sat Feb 1 2025,,SV Wehen Wiesbaden,,VfB Stuttgart II
+22,Sat Feb 1 2025,,SpVgg Unterhaching,,VfL Osnabrück
+22,Sat Feb 1 2025,,Borussia Dortmund II,,Hansa Rostock
+22,Sat Feb 1 2025,,Arminia Bielefeld,,Rot-Weiss Essen
+22,Sat Feb 1 2025,,Viktoria Köln,,TSV 1860 München
+22,Sat Feb 1 2025,,Waldhof Mannheim,,SC Verl
+22,Sat Feb 1 2025,,FC Ingolstadt 04,,1. FC Saarbrücken
+22,Sat Feb 1 2025,,Alemannia Aachen,,Energie Cottbus
+22,Sat Feb 1 2025,,Hannover 96 II,,SV Sandhausen
+23,Sat Feb 8 2025,,Erzgebirge Aue,,Alemannia Aachen
+23,Sat Feb 8 2025,,1. FC Saarbrücken,,Waldhof Mannheim
+23,Sat Feb 8 2025,,Energie Cottbus,,SV Wehen Wiesbaden
+23,Sat Feb 8 2025,,VfB Stuttgart II,,Dynamo Dresden
+23,Sat Feb 8 2025,,VfL Osnabrück,,Borussia Dortmund II
+23,Sat Feb 8 2025,,Rot-Weiss Essen,,SpVgg Unterhaching
+23,Sat Feb 8 2025,,SV Sandhausen,,Arminia Bielefeld
+23,Sat Feb 8 2025,,TSV 1860 München,,FC Ingolstadt 04
+23,Sat Feb 8 2025,,Hansa Rostock,,Viktoria Köln
+23,Sat Feb 8 2025,,SC Verl,,Hannover 96 II
+24,Sat Feb 15 2025,,Waldhof Mannheim,,Hansa Rostock
+24,Sat Feb 15 2025,,FC Ingolstadt 04,,VfB Stuttgart II
+24,Sat Feb 15 2025,,Viktoria Köln,,Alemannia Aachen
+24,Sat Feb 15 2025,,SV Wehen Wiesbaden,,Rot-Weiss Essen
+24,Sat Feb 15 2025,,Dynamo Dresden,,TSV 1860 München
+24,Sat Feb 15 2025,,Energie Cottbus,,SC Verl
+24,Sat Feb 15 2025,,Borussia Dortmund II,,SV Sandhausen
+24,Sat Feb 15 2025,,SpVgg Unterhaching,,1. FC Saarbrücken
+24,Sat Feb 15 2025,,Arminia Bielefeld,,Erzgebirge Aue
+24,Sat Feb 15 2025,,Hannover 96 II,,VfL Osnabrück
+25,Sat Feb 22 2025,,VfL Osnabrück,,Waldhof Mannheim
+25,Sat Feb 22 2025,,Rot-Weiss Essen,,FC Ingolstadt 04
+25,Sat Feb 22 2025,,VfB Stuttgart II,,Energie Cottbus
+25,Sat Feb 22 2025,,SV Sandhausen,,SV Wehen Wiesbaden
+25,Sat Feb 22 2025,,Alemannia Aachen,,Borussia Dortmund II
+25,Sat Feb 22 2025,,Erzgebirge Aue,,SpVgg Unterhaching
+25,Sat Feb 22 2025,,TSV 1860 München,,Arminia Bielefeld
+25,Sat Feb 22 2025,,SC Verl,,Viktoria Köln
+25,Sat Feb 22 2025,,1. FC Saarbrücken,,Hannover 96 II
+25,Sat Feb 22 2025,,Hansa Rostock,,Dynamo Dresden
+26,Sat Mar 1 2025,,SpVgg Unterhaching,,Hansa Rostock
+26,Sat Mar 1 2025,,Hannover 96 II,,TSV 1860 München
+26,Sat Mar 1 2025,,Dynamo Dresden,,SC Verl
+26,Sat Mar 1 2025,,Arminia Bielefeld,,VfB Stuttgart II
+26,Sat Mar 1 2025,,SV Wehen Wiesbaden,,Erzgebirge Aue
+26,Sat Mar 1 2025,,Waldhof Mannheim,,Alemannia Aachen
+26,Sat Mar 1 2025,,Borussia Dortmund II,,Rot-Weiss Essen
+26,Sat Mar 1 2025,,FC Ingolstadt 04,,SV Sandhausen
+26,Sat Mar 1 2025,,Viktoria Köln,,1. FC Saarbrücken
+26,Sat Mar 1 2025,,Energie Cottbus,,VfL Osnabrück
+27,Sat Mar 8 2025,,Rot-Weiss Essen,,Waldhof Mannheim
+27,Sat Mar 8 2025,,Erzgebirge Aue,,Viktoria Köln
+27,Sat Mar 8 2025,,1. FC Saarbrücken,,Energie Cottbus
+27,Sat Mar 8 2025,,VfL Osnabrück,,SV Wehen Wiesbaden
+27,Sat Mar 8 2025,,TSV 1860 München,,Borussia Dortmund II
+27,Sat Mar 8 2025,,SV Sandhausen,,SpVgg Unterhaching
+27,Sat Mar 8 2025,,SC Verl,,Arminia Bielefeld
+27,Sat Mar 8 2025,,Hansa Rostock,,FC Ingolstadt 04
+27,Sat Mar 8 2025,,VfB Stuttgart II,,Hannover 96 II
+27,Sat Mar 8 2025,,Alemannia Aachen,,Dynamo Dresden
+28,Tue Mar 11 2025,,Hansa Rostock,,Erzgebirge Aue
+28,Tue Mar 11 2025,,Arminia Bielefeld,,1. FC Saarbrücken
+28,Tue Mar 11 2025,,VfB Stuttgart II,,VfL Osnabrück
+28,Tue Mar 11 2025,,Dynamo Dresden,,Borussia Dortmund II
+28,Tue Mar 11 2025,,FC Ingolstadt 04,,Alemannia Aachen
+28,Tue Mar 11 2025,,SV Wehen Wiesbaden,,TSV 1860 München
+28,Tue Mar 11 2025,,Waldhof Mannheim,,SV Sandhausen
+28,Tue Mar 11 2025,,Energie Cottbus,,Hannover 96 II
+28,Tue Mar 11 2025,,Viktoria Köln,,Rot-Weiss Essen
+28,Tue Mar 11 2025,,SpVgg Unterhaching,,SC Verl
+29,Sat Mar 15 2025,,Alemannia Aachen,,Hansa Rostock
+29,Sat Mar 15 2025,,SC Verl,,FC Ingolstadt 04
+29,Sat Mar 15 2025,,Borussia Dortmund II,,Viktoria Köln
+29,Sat Mar 15 2025,,Hannover 96 II,,SV Wehen Wiesbaden
+29,Sat Mar 15 2025,,Rot-Weiss Essen,,Dynamo Dresden
+29,Sat Mar 15 2025,,TSV 1860 München,,SpVgg Unterhaching
+29,Sat Mar 15 2025,,VfL Osnabrück,,Arminia Bielefeld
+29,Sat Mar 15 2025,,Erzgebirge Aue,,Waldhof Mannheim
+29,Sat Mar 15 2025,,1. FC Saarbrücken,,VfB Stuttgart II
+29,Sat Mar 15 2025,,SV Sandhausen,,Energie Cottbus
+30,Sat Mar 29 2025,,Arminia Bielefeld,,Hannover 96 II
+30,Sat Mar 29 2025,,Dynamo Dresden,,SV Wehen Wiesbaden
+30,Sat Mar 29 2025,,SpVgg Unterhaching,,Alemannia Aachen
+30,Sat Mar 29 2025,,SC Verl,,Rot-Weiss Essen
+30,Sat Mar 29 2025,,VfL Osnabrück,,TSV 1860 München
+30,Sat Mar 29 2025,,Hansa Rostock,,1. FC Saarbrücken
+30,Sat Mar 29 2025,,FC Ingolstadt 04,,Viktoria Köln
+30,Sat Mar 29 2025,,Energie Cottbus,,Erzgebirge Aue
+30,Sat Mar 29 2025,,Waldhof Mannheim,,Borussia Dortmund II
+30,Sat Mar 29 2025,,VfB Stuttgart II,,SV Sandhausen
+31,Sat Apr 5 2025,,Alemannia Aachen,,Arminia Bielefeld
+31,Sat Apr 5 2025,,SV Wehen Wiesbaden,,Waldhof Mannheim
+31,Sat Apr 5 2025,,Erzgebirge Aue,,VfB Stuttgart II
+31,Sat Apr 5 2025,,1. FC Saarbrücken,,VfL Osnabrück
+31,Sat Apr 5 2025,,Rot-Weiss Essen,,Hansa Rostock
+31,Sat Apr 5 2025,,Viktoria Köln,,SpVgg Unterhaching
+31,Sat Apr 5 2025,,SV Sandhausen,,SC Verl
+31,Sat Apr 5 2025,,Borussia Dortmund II,,FC Ingolstadt 04
+31,Sat Apr 5 2025,,TSV 1860 München,,Energie Cottbus
+31,Sat Apr 5 2025,,Hannover 96 II,,Dynamo Dresden
+32,Tue Apr 8 2025,,1. FC Saarbrücken,,Erzgebirge Aue
+32,Tue Apr 8 2025,,Dynamo Dresden,,FC Ingolstadt 04
+32,Tue Apr 8 2025,,Arminia Bielefeld,,SV Wehen Wiesbaden
+32,Tue Apr 8 2025,,SC Verl,,Borussia Dortmund II
+32,Tue Apr 8 2025,,Waldhof Mannheim,,SpVgg Unterhaching
+32,Tue Apr 8 2025,,Energie Cottbus,,Rot-Weiss Essen
+32,Tue Apr 8 2025,,TSV 1860 München,,SV Sandhausen
+32,Tue Apr 8 2025,,VfB Stuttgart II,,Viktoria Köln
+32,Tue Apr 8 2025,,VfL Osnabrück,,Hansa Rostock
+32,Tue Apr 8 2025,,Hannover 96 II,,Alemannia Aachen
+33,Sat Apr 12 2025,,Rot-Weiss Essen,,Erzgebirge Aue
+33,Sat Apr 12 2025,,SpVgg Unterhaching,,VfB Stuttgart II
+33,Sat Apr 12 2025,,FC Ingolstadt 04,,Hannover 96 II
+33,Sat Apr 12 2025,,Dynamo Dresden,,VfL Osnabrück
+33,Sat Apr 12 2025,,Borussia Dortmund II,,Energie Cottbus
+33,Sat Apr 12 2025,,Viktoria Köln,,Arminia Bielefeld
+33,Sat Apr 12 2025,,Alemannia Aachen,,SV Sandhausen
+33,Sat Apr 12 2025,,SV Wehen Wiesbaden,,1. FC Saarbrücken
+33,Sat Apr 12 2025,,Waldhof Mannheim,,TSV 1860 München
+33,Sat Apr 12 2025,,Hansa Rostock,,SC Verl
+34,Sat Apr 19 2025,,Arminia Bielefeld,,Hansa Rostock
+34,Sat Apr 19 2025,,VfL Osnabrück,,FC Ingolstadt 04
+34,Sat Apr 19 2025,,Energie Cottbus,,Viktoria Köln
+34,Sat Apr 19 2025,,1. FC Saarbrücken,,Dynamo Dresden
+34,Sat Apr 19 2025,,Erzgebirge Aue,,Borussia Dortmund II
+34,Sat Apr 19 2025,,SV Wehen Wiesbaden,,SpVgg Unterhaching
+34,Sat Apr 19 2025,,SV Sandhausen,,Rot-Weiss Essen
+34,Sat Apr 19 2025,,Hannover 96 II,,Waldhof Mannheim
+34,Sat Apr 19 2025,,TSV 1860 München,,Alemannia Aachen
+34,Sat Apr 19 2025,,VfB Stuttgart II,,SC Verl
+35,Sat Apr 26 2025,,Rot-Weiss Essen,,1. FC Saarbrücken
+35,Sat Apr 26 2025,,Waldhof Mannheim,,VfB Stuttgart II
+35,Sat Apr 26 2025,,Alemannia Aachen,,VfL Osnabrück
+35,Sat Apr 26 2025,,SpVgg Unterhaching,,Energie Cottbus
+35,Sat Apr 26 2025,,Viktoria Köln,,SV Wehen Wiesbaden
+35,Sat Apr 26 2025,,FC Ingolstadt 04,,Arminia Bielefeld
+35,Sat Apr 26 2025,,Dynamo Dresden,,SV Sandhausen
+35,Sat Apr 26 2025,,Borussia Dortmund II,,Hannover 96 II
+35,Sat Apr 26 2025,,SC Verl,,Erzgebirge Aue
+35,Sat Apr 26 2025,,Hansa Rostock,,TSV 1860 München
+36,Sat May 3 2025,,TSV 1860 München,,Rot-Weiss Essen
+36,Sat May 3 2025,,Erzgebirge Aue,,FC Ingolstadt 04
+36,Sat May 3 2025,,SV Sandhausen,,Hansa Rostock
+36,Sat May 3 2025,,Arminia Bielefeld,,Dynamo Dresden
+36,Sat May 3 2025,,SV Wehen Wiesbaden,,Borussia Dortmund II
+36,Sat May 3 2025,,Hannover 96 II,,SpVgg Unterhaching
+36,Sat May 3 2025,,VfB Stuttgart II,,Alemannia Aachen
+36,Sat May 3 2025,,Energie Cottbus,,Waldhof Mannheim
+36,Sat May 3 2025,,VfL Osnabrück,,Viktoria Köln
+36,Sat May 3 2025,,1. FC Saarbrücken,,SC Verl
+37,Sat May 10 2025,,Alemannia Aachen,,1. FC Saarbrücken
+37,Sat May 10 2025,,Borussia Dortmund II,,VfB Stuttgart II
+37,Sat May 10 2025,,Viktoria Köln,,Hannover 96 II
+37,Sat May 10 2025,,Hansa Rostock,,Energie Cottbus
+37,Sat May 10 2025,,Waldhof Mannheim,,Dynamo Dresden
+37,Sat May 10 2025,,SpVgg Unterhaching,,Arminia Bielefeld
+37,Sat May 10 2025,,Erzgebirge Aue,,SV Sandhausen
+37,Sat May 10 2025,,Rot-Weiss Essen,,VfL Osnabrück
+37,Sat May 10 2025,,FC Ingolstadt 04,,SV Wehen Wiesbaden
+37,Sat May 10 2025,,SC Verl,,TSV 1860 München
+38,Sat May 17 2025,,TSV 1860 München,,Erzgebirge Aue
+38,Sat May 17 2025,,Arminia Bielefeld,,Waldhof Mannheim
+38,Sat May 17 2025,,Energie Cottbus,,FC Ingolstadt 04
+38,Sat May 17 2025,,Hannover 96 II,,Hansa Rostock
+38,Sat May 17 2025,,1. FC Saarbrücken,,Borussia Dortmund II
+38,Sat May 17 2025,,SV Wehen Wiesbaden,,Alemannia Aachen
+38,Sat May 17 2025,,VfB Stuttgart II,,Rot-Weiss Essen
+38,Sat May 17 2025,,SV Sandhausen,,Viktoria Köln
+38,Sat May 17 2025,,Dynamo Dresden,,SpVgg Unterhaching
+38,Sat May 17 2025,,VfL Osnabrück,,SC Verl

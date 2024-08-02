@@ -1,49 +1,49 @@
 Round,Date,Time,Team 1,FT,Team 2
 1,Fri Aug 23 2024,20:30,Bor. Mönchengladbach,,Bayer Leverkusen
-1,Sat Aug 24 2024,,RB Leipzig,,VfL Bochum
-1,Sat Aug 24 2024,,Borussia Dortmund,,Eintracht Frankfurt
-1,Sat Aug 24 2024,,1899 Hoffenheim,,Holstein Kiel
-1,Sat Aug 24 2024,,SC Freiburg,,VfB Stuttgart
-1,Sat Aug 24 2024,,FC Augsburg,,Werder Bremen
-1,Sat Aug 24 2024,,VfL Wolfsburg,,Bayern München
-1,Sat Aug 24 2024,,1. FSV Mainz 05,,1. FC Union Berlin
-1,Sat Aug 24 2024,,FC St. Pauli,,1. FC Heidenheim 1846
-2,Sat Aug 31 2024,,Bayer Leverkusen,,RB Leipzig
-2,Sat Aug 31 2024,,VfB Stuttgart,,1. FSV Mainz 05
-2,Sat Aug 31 2024,,Bayern München,,SC Freiburg
-2,Sat Aug 31 2024,,Eintracht Frankfurt,,1899 Hoffenheim
-2,Sat Aug 31 2024,,1. FC Heidenheim 1846,,FC Augsburg
-2,Sat Aug 31 2024,,Werder Bremen,,Borussia Dortmund
-2,Sat Aug 31 2024,,1. FC Union Berlin,,FC St. Pauli
-2,Sat Aug 31 2024,,VfL Bochum,,Bor. Mönchengladbach
-2,Sat Aug 31 2024,,Holstein Kiel,,VfL Wolfsburg
-3,Sat Sep 14 2024,,RB Leipzig,,1. FC Union Berlin
-3,Sat Sep 14 2024,,Borussia Dortmund,,1. FC Heidenheim 1846
-3,Sat Sep 14 2024,,1899 Hoffenheim,,Bayer Leverkusen
-3,Sat Sep 14 2024,,SC Freiburg,,VfL Bochum
-3,Sat Sep 14 2024,,FC Augsburg,,FC St. Pauli
-3,Sat Sep 14 2024,,VfL Wolfsburg,,Eintracht Frankfurt
-3,Sat Sep 14 2024,,1. FSV Mainz 05,,Werder Bremen
-3,Sat Sep 14 2024,,Bor. Mönchengladbach,,VfB Stuttgart
-3,Sat Sep 14 2024,,Holstein Kiel,,Bayern München
-4,Sat Sep 21 2024,,Bayer Leverkusen,,VfL Wolfsburg
-4,Sat Sep 21 2024,,VfB Stuttgart,,Borussia Dortmund
-4,Sat Sep 21 2024,,Eintracht Frankfurt,,Bor. Mönchengladbach
-4,Sat Sep 21 2024,,1. FC Heidenheim 1846,,SC Freiburg
-4,Sat Sep 21 2024,,Werder Bremen,,Bayern München
-4,Sat Sep 21 2024,,FC Augsburg,,1. FSV Mainz 05
-4,Sat Sep 21 2024,,1. FC Union Berlin,,1899 Hoffenheim
-4,Sat Sep 21 2024,,VfL Bochum,,Holstein Kiel
-4,Sat Sep 21 2024,,FC St. Pauli,,RB Leipzig
-5,Sat Sep 28 2024,,Bayern München,,Bayer Leverkusen
-5,Sat Sep 28 2024,,RB Leipzig,,FC Augsburg
-5,Sat Sep 28 2024,,Borussia Dortmund,,VfL Bochum
-5,Sat Sep 28 2024,,1899 Hoffenheim,,Werder Bremen
-5,Sat Sep 28 2024,,SC Freiburg,,FC St. Pauli
-5,Sat Sep 28 2024,,VfL Wolfsburg,,VfB Stuttgart
-5,Sat Sep 28 2024,,1. FSV Mainz 05,,1. FC Heidenheim 1846
-5,Sat Sep 28 2024,,Bor. Mönchengladbach,,1. FC Union Berlin
-5,Sat Sep 28 2024,,Holstein Kiel,,Eintracht Frankfurt
+1,Sat Aug 24 2024,15:30,RB Leipzig,,VfL Bochum
+1,Sat Aug 24 2024,15:30,1899 Hoffenheim,,Holstein Kiel
+1,Sat Aug 24 2024,15:30,SC Freiburg,,VfB Stuttgart
+1,Sat Aug 24 2024,15:30,FC Augsburg,,Werder Bremen
+1,Sat Aug 24 2024,15:30,1. FSV Mainz 05,,1. FC Union Berlin
+1,Sat Aug 24 2024,18:30,Borussia Dortmund,,Eintracht Frankfurt
+1,Sun Aug 25 2024,17:30,FC St. Pauli,,1. FC Heidenheim 1846
+1,Sun Aug 25 2024,15:30,VfL Wolfsburg,,Bayern München
+2,Fri Aug 30 2024,20:30,1. FC Union Berlin,,FC St. Pauli
+2,Sat Aug 31 2024,15:30,Eintracht Frankfurt,,1899 Hoffenheim
+2,Sat Aug 31 2024,15:30,Werder Bremen,,Borussia Dortmund
+2,Sat Aug 31 2024,15:30,VfL Bochum,,Bor. Mönchengladbach
+2,Sat Aug 31 2024,15:30,Holstein Kiel,,VfL Wolfsburg
+2,Sat Aug 31 2024,18:30,Bayer Leverkusen,,RB Leipzig
+2,Sat Aug 31 2024,15:30,VfB Stuttgart,,1. FSV Mainz 05
+2,Sun Sep 1 2024,17:30,Bayern München,,SC Freiburg
+2,Sun Sep 1 2024,15:30,1. FC Heidenheim 1846,,FC Augsburg
+3,Fri Sep 13 2024,20:30,Borussia Dortmund,,1. FC Heidenheim 1846
+3,Sat Sep 14 2024,15:30,1899 Hoffenheim,,Bayer Leverkusen
+3,Sat Sep 14 2024,15:30,SC Freiburg,,VfL Bochum
+3,Sat Sep 14 2024,15:30,VfL Wolfsburg,,Eintracht Frankfurt
+3,Sat Sep 14 2024,15:30,Bor. Mönchengladbach,,VfB Stuttgart
+3,Sat Sep 14 2024,18:30,Holstein Kiel,,Bayern München
+3,Sat Sep 14 2024,15:30,RB Leipzig,,1. FC Union Berlin
+3,Sun Sep 15 2024,17:30,1. FSV Mainz 05,,Werder Bremen
+3,Sun Sep 15 2024,15:30,FC Augsburg,,FC St. Pauli
+4,Fri Sep 20 2024,20:30,FC Augsburg,,1. FSV Mainz 05
+4,Sat Sep 21 2024,15:30,Werder Bremen,,Bayern München
+4,Sat Sep 21 2024,15:30,1. FC Union Berlin,,1899 Hoffenheim
+4,Sat Sep 21 2024,15:30,VfL Bochum,,Holstein Kiel
+4,Sat Sep 21 2024,18:30,Eintracht Frankfurt,,Bor. Mönchengladbach
+4,Sat Sep 21 2024,15:30,1. FC Heidenheim 1846,,SC Freiburg
+4,Sun Sep 22 2024,17:30,VfB Stuttgart,,Borussia Dortmund
+4,Sun Sep 22 2024,19:30,FC St. Pauli,,RB Leipzig
+4,Sun Sep 22 2024,15:30,Bayer Leverkusen,,VfL Wolfsburg
+5,Fri Sep 27 2024,20:30,Borussia Dortmund,,VfL Bochum
+5,Sat Sep 28 2024,15:30,SC Freiburg,,FC St. Pauli
+5,Sat Sep 28 2024,15:30,VfL Wolfsburg,,VfB Stuttgart
+5,Sat Sep 28 2024,15:30,1. FSV Mainz 05,,1. FC Heidenheim 1846
+5,Sat Sep 28 2024,15:30,Bor. Mönchengladbach,,1. FC Union Berlin
+5,Sat Sep 28 2024,18:30,Bayern München,,Bayer Leverkusen
+5,Sat Sep 28 2024,15:30,RB Leipzig,,FC Augsburg
+5,Sun Sep 29 2024,17:30,1899 Hoffenheim,,Werder Bremen
+5,Sun Sep 29 2024,15:30,Holstein Kiel,,Eintracht Frankfurt
 6,Sat Oct 5 2024,,Bayer Leverkusen,,Holstein Kiel
 6,Sat Oct 5 2024,,VfB Stuttgart,,1899 Hoffenheim
 6,Sat Oct 5 2024,,Eintracht Frankfurt,,Bayern München

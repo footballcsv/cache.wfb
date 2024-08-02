@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Thu Jul 18 2024,19:00,Wacker Burghausen,0-1,0-0,Bayern München II
+1,Fri Jul 19 2024,19:00,1. FC Schweinfurt 05,2-0,0-0,TSV Aubstadt
+1,Fri Jul 19 2024,19:00,TSV Schwaben Augsburg,2-1,1-0,Viktoria Aschaffenburg
+1,Fri Jul 19 2024,18:30,SpVgg Ansbach,1-4,1-3,1. FC Nürnberg II
+1,Sat Jul 20 2024,14:00,Eintracht Bamberg,2-0,1-0,SpVgg Hankofen-Hailing
+1,Sat Jul 20 2024,14:00,FV Illertissen,5-0,4-0,DJK Vilzing
+1,Sat Jul 20 2024,14:00,SpVgg Bayreuth,2-0,1-0,TSV Buchbach
+1,Sat Jul 20 2024,14:00,SpVgg Greuther Fürth II,2-6,0-3,FC Augsburg II
+1,Sat Jul 20 2024,14:00,Türkgücü München,2-2,0-1,Würzburger Kickers
+2,Thu Jul 25 2024,18:30,1. FC Nürnberg II,1-3,1-2,SpVgg Bayreuth
+2,Fri Jul 26 2024,18:30,TSV Aubstadt,1-3,0-0,SpVgg Greuther Fürth II
+2,Fri Jul 26 2024,19:00,Bayern München II,2-2,2-0,SpVgg Ansbach
+2,Fri Jul 26 2024,19:00,FC Augsburg II,0-0,0-0,FV Illertissen
+2,Fri Jul 26 2024,19:00,TSV Buchbach,2-1,1-1,Eintracht Bamberg
+2,Fri Jul 26 2024,19:00,Viktoria Aschaffenburg,0-4,0-2,Wacker Burghausen
+2,Fri Jul 26 2024,19:00,Würzburger Kickers,3-1,0-0,TSV Schwaben Augsburg
+2,Fri Jul 26 2024,18:30,SpVgg Hankofen-Hailing,1-3,1-1,1. FC Schweinfurt 05
+2,Sat Jul 27 2024,14:00,DJK Vilzing,3-1,1-0,Türkgücü München
+3,Fri Aug 2 2024,18:30,1. FC Nürnberg II,,,Bayern München II
+3,Fri Aug 2 2024,18:30,SpVgg Ansbach,,,Viktoria Aschaffenburg
+3,Fri Aug 2 2024,19:00,1. FC Schweinfurt 05,,,TSV Buchbach
+3,Fri Aug 2 2024,19:00,FV Illertissen,,,TSV Aubstadt
+3,Fri Aug 2 2024,19:00,SpVgg Bayreuth,,,Eintracht Bamberg
+3,Fri Aug 2 2024,19:00,Wacker Burghausen,,,Würzburger Kickers
+3,Sat Aug 3 2024,14:00,TSV Schwaben Augsburg,,,DJK Vilzing
+3,Sat Aug 3 2024,14:00,Türkgücü München,,,FC Augsburg II
+3,Sat Aug 3 2024,14:00,SpVgg Greuther Fürth II,,,SpVgg Hankofen-Hailing
+4,Fri Aug 9 2024,18:30,DJK Vilzing,,,Wacker Burghausen
+4,Fri Aug 9 2024,18:30,TSV Aubstadt,,,Türkgücü München
+4,Fri Aug 9 2024,19:00,Bayern München II,,,SpVgg Bayreuth
+4,Fri Aug 9 2024,19:00,FC Augsburg II,,,TSV Schwaben Augsburg
+4,Fri Aug 9 2024,19:00,TSV Buchbach,,,SpVgg Greuther Fürth II
+4,Fri Aug 9 2024,19:00,Würzburger Kickers,,,SpVgg Ansbach
+4,Sat Aug 10 2024,14:00,SpVgg Hankofen-Hailing,,,FV Illertissen
+4,Sat Aug 10 2024,14:00,Viktoria Aschaffenburg,,,1. FC Nürnberg II
+4,Sat Aug 10 2024,14:00,Eintracht Bamberg,,,1. FC Schweinfurt 05
+5,Fri Aug 16 2024,18:15,SpVgg Ansbach,,,DJK Vilzing
+5,Fri Aug 16 2024,19:00,Bayern München II,,,Viktoria Aschaffenburg
+5,Fri Aug 16 2024,19:00,FV Illertissen,,,TSV Buchbach
+5,Fri Aug 16 2024,19:00,SpVgg Bayreuth,,,1. FC Schweinfurt 05
+5,Fri Aug 16 2024,19:00,Wacker Burghausen,,,FC Augsburg II
+5,Sat Aug 17 2024,14:00,SpVgg Greuther Fürth II,,,Eintracht Bamberg
+5,Sat Aug 17 2024,14:00,TSV Schwaben Augsburg,,,TSV Aubstadt
+5,Sat Aug 17 2024,14:00,Türkgücü München,,,SpVgg Hankofen-Hailing
+5,Sat Aug 17 2024,14:00,1. FC Nürnberg II,,,Würzburger Kickers
+6,Fri Aug 23 2024,18:15,TSV Aubstadt,,,Wacker Burghausen
+6,Fri Aug 23 2024,19:00,FC Augsburg II,,,SpVgg Ansbach
+6,Fri Aug 23 2024,19:00,TSV Buchbach,,,Türkgücü München
+6,Fri Aug 23 2024,19:00,Viktoria Aschaffenburg,,,SpVgg Bayreuth
+6,Sat Aug 24 2024,14:00,DJK Vilzing,,,1. FC Nürnberg II
+6,Sat Aug 24 2024,14:00,Eintracht Bamberg,,,FV Illertissen
+6,Sat Aug 24 2024,14:00,SpVgg Hankofen-Hailing,,,TSV Schwaben Augsburg
+6,Sat Aug 24 2024,14:00,Würzburger Kickers,,,Bayern München II
+6,Sat Aug 24 2024,14:00,1. FC Schweinfurt 05,,,SpVgg Greuther Fürth II
+7,Fri Aug 30 2024,19:00,Bayern München II,,,DJK Vilzing
+7,Fri Aug 30 2024,19:00,FV Illertissen,,,1. FC Schweinfurt 05
+7,Fri Aug 30 2024,19:00,SpVgg Bayreuth,,,SpVgg Greuther Fürth II
+7,Fri Aug 30 2024,19:00,Viktoria Aschaffenburg,,,Würzburger Kickers
+7,Fri Aug 30 2024,19:00,Wacker Burghausen,,,SpVgg Hankofen-Hailing
+7,Sat Aug 31 2024,14:00,SpVgg Ansbach,,,TSV Aubstadt
+7,Sat Aug 31 2024,14:00,TSV Schwaben Augsburg,,,TSV Buchbach
+7,Sat Aug 31 2024,14:00,Türkgücü München,,,Eintracht Bamberg
+7,Sat Aug 31 2024,14:00,1. FC Nürnberg II,,,FC Augsburg II
+8,Fri Sep 6 2024,19:00,1. FC Schweinfurt 05,,,Türkgücü München
+8,Fri Sep 6 2024,19:00,FC Augsburg II,,,Bayern München II
+8,Fri Sep 6 2024,17:45,TSV Aubstadt,,,1. FC Nürnberg II
+8,Sat Sep 7 2024,14:00,DJK Vilzing,,,Viktoria Aschaffenburg
+8,Sat Sep 7 2024,14:00,Eintracht Bamberg,,,TSV Schwaben Augsburg
+8,Sat Sep 7 2024,14:00,SpVgg Greuther Fürth II,,,FV Illertissen
+8,Sat Sep 7 2024,14:00,SpVgg Hankofen-Hailing,,,SpVgg Ansbach
+8,Sat Sep 7 2024,14:00,TSV Buchbach,,,Wacker Burghausen
+8,Sat Sep 7 2024,14:00,Würzburger Kickers,,,SpVgg Bayreuth
+9,Fri Sep 13 2024,19:00,Bayern München II,,,TSV Aubstadt
+9,Fri Sep 13 2024,19:00,Viktoria Aschaffenburg,,,FC Augsburg II
+9,Fri Sep 13 2024,18:30,Würzburger Kickers,,,DJK Vilzing
+9,Sat Sep 14 2024,14:00,1. FC Nürnberg II,,,SpVgg Hankofen-Hailing
+9,Sat Sep 14 2024,14:00,SpVgg Ansbach,,,TSV Buchbach
+9,Sat Sep 14 2024,14:00,SpVgg Bayreuth,,,FV Illertissen
+9,Sat Sep 14 2024,14:00,TSV Schwaben Augsburg,,,1. FC Schweinfurt 05
+9,Sat Sep 14 2024,14:00,Türkgücü München,,,SpVgg Greuther Fürth II
+9,Sat Sep 14 2024,14:00,Wacker Burghausen,,,Eintracht Bamberg
+10,Fri Sep 20 2024,19:00,1. FC Schweinfurt 05,,,Wacker Burghausen
+10,Fri Sep 20 2024,19:00,FC Augsburg II,,,Würzburger Kickers
+10,Fri Sep 20 2024,19:00,FV Illertissen,,,Türkgücü München
+10,Fri Sep 20 2024,17:00,SpVgg Hankofen-Hailing,,,Bayern München II
+10,Sat Sep 21 2024,14:00,DJK Vilzing,,,SpVgg Bayreuth
+10,Sat Sep 21 2024,14:00,Eintracht Bamberg,,,SpVgg Ansbach
+10,Sat Sep 21 2024,14:00,SpVgg Greuther Fürth II,,,TSV Schwaben Augsburg
+10,Sat Sep 21 2024,14:00,TSV Aubstadt,,,Viktoria Aschaffenburg
+10,Sat Sep 21 2024,14:00,TSV Buchbach,,,1. FC Nürnberg II
+11,Fri Sep 27 2024,19:00,Bayern München II,,,TSV Buchbach
+11,Fri Sep 27 2024,19:00,SpVgg Bayreuth,,,Türkgücü München
+11,Fri Sep 27 2024,19:00,TSV Schwaben Augsburg,,,FV Illertissen
+11,Fri Sep 27 2024,19:00,Viktoria Aschaffenburg,,,SpVgg Hankofen-Hailing
+11,Fri Sep 27 2024,19:00,Wacker Burghausen,,,SpVgg Greuther Fürth II
+11,Sat Sep 28 2024,14:00,DJK Vilzing,,,FC Augsburg II
+11,Sat Sep 28 2024,14:00,SpVgg Ansbach,,,1. FC Schweinfurt 05
+11,Sat Sep 28 2024,14:00,Würzburger Kickers,,,TSV Aubstadt
+11,Sat Sep 28 2024,14:00,1. FC Nürnberg II,,,Eintracht Bamberg
+12,Wed Oct 2 2024,19:00,FV Illertissen,,,Wacker Burghausen
+12,Thu Oct 3 2024,14:00,Eintracht Bamberg,,,Bayern München II
+12,Thu Oct 3 2024,14:00,SpVgg Greuther Fürth II,,,SpVgg Ansbach
+12,Thu Oct 3 2024,14:00,SpVgg Hankofen-Hailing,,,Würzburger Kickers
+12,Thu Oct 3 2024,14:00,TSV Aubstadt,,,DJK Vilzing
+12,Thu Oct 3 2024,14:00,TSV Buchbach,,,Viktoria Aschaffenburg
+12,Thu Oct 3 2024,14:00,Türkgücü München,,,TSV Schwaben Augsburg
+12,Thu Oct 3 2024,17:00,1. FC Schweinfurt 05,,,1. FC Nürnberg II
+12,Thu Oct 3 2024,14:00,FC Augsburg II,,,SpVgg Bayreuth
+13,Sun Oct 6 2024,,1. FC Nürnberg II,,,SpVgg Greuther Fürth II
+13,Sun Oct 6 2024,,Bayern München II,,,1. FC Schweinfurt 05
+13,Sun Oct 6 2024,,DJK Vilzing,,,SpVgg Hankofen-Hailing
+13,Sun Oct 6 2024,,FC Augsburg II,,,TSV Aubstadt
+13,Sun Oct 6 2024,,SpVgg Ansbach,,,FV Illertissen
+13,Sun Oct 6 2024,,SpVgg Bayreuth,,,TSV Schwaben Augsburg
+13,Sun Oct 6 2024,,Viktoria Aschaffenburg,,,Eintracht Bamberg
+13,Sun Oct 6 2024,,Wacker Burghausen,,,Türkgücü München
+13,Sun Oct 6 2024,,Würzburger Kickers,,,TSV Buchbach
+14,Sat Oct 12 2024,,1. FC Schweinfurt 05,,,Viktoria Aschaffenburg
+14,Sat Oct 12 2024,,Eintracht Bamberg,,,Würzburger Kickers
+14,Sat Oct 12 2024,,FV Illertissen,,,1. FC Nürnberg II
+14,Sat Oct 12 2024,,SpVgg Greuther Fürth II,,,Bayern München II
+14,Sat Oct 12 2024,,SpVgg Hankofen-Hailing,,,FC Augsburg II
+14,Sat Oct 12 2024,,TSV Aubstadt,,,SpVgg Bayreuth
+14,Sat Oct 12 2024,,TSV Buchbach,,,DJK Vilzing
+14,Sat Oct 12 2024,,TSV Schwaben Augsburg,,,Wacker Burghausen
+14,Sat Oct 12 2024,,Türkgücü München,,,SpVgg Ansbach
+15,Sat Oct 19 2024,,1. FC Nürnberg II,,,Türkgücü München
+15,Sat Oct 19 2024,,Bayern München II,,,FV Illertissen
+15,Sat Oct 19 2024,,DJK Vilzing,,,Eintracht Bamberg
+15,Sat Oct 19 2024,,FC Augsburg II,,,TSV Buchbach
+15,Sat Oct 19 2024,,SpVgg Ansbach,,,TSV Schwaben Augsburg
+15,Sat Oct 19 2024,,SpVgg Bayreuth,,,Wacker Burghausen
+15,Sat Oct 19 2024,,TSV Aubstadt,,,SpVgg Hankofen-Hailing
+15,Sat Oct 19 2024,,Viktoria Aschaffenburg,,,SpVgg Greuther Fürth II
+15,Sat Oct 19 2024,,Würzburger Kickers,,,1. FC Schweinfurt 05
+16,Tue Oct 22 2024,,1. FC Schweinfurt 05,,,DJK Vilzing
+16,Tue Oct 22 2024,,Eintracht Bamberg,,,FC Augsburg II
+16,Tue Oct 22 2024,,FV Illertissen,,,Viktoria Aschaffenburg
+16,Tue Oct 22 2024,,SpVgg Bayreuth,,,SpVgg Hankofen-Hailing
+16,Tue Oct 22 2024,,SpVgg Greuther Fürth II,,,Würzburger Kickers
+16,Tue Oct 22 2024,,TSV Buchbach,,,TSV Aubstadt
+16,Tue Oct 22 2024,,TSV Schwaben Augsburg,,,1. FC Nürnberg II
+16,Tue Oct 22 2024,,Türkgücü München,,,Bayern München II
+16,Tue Oct 22 2024,,Wacker Burghausen,,,SpVgg Ansbach
+17,Sat Oct 26 2024,,1. FC Nürnberg II,,,Wacker Burghausen
+17,Sat Oct 26 2024,,Bayern München II,,,TSV Schwaben Augsburg
+17,Sat Oct 26 2024,,DJK Vilzing,,,SpVgg Greuther Fürth II
+17,Sat Oct 26 2024,,FC Augsburg II,,,1. FC Schweinfurt 05
+17,Sat Oct 26 2024,,SpVgg Ansbach,,,SpVgg Bayreuth
+17,Sat Oct 26 2024,,SpVgg Hankofen-Hailing,,,TSV Buchbach
+17,Sat Oct 26 2024,,TSV Aubstadt,,,Eintracht Bamberg
+17,Sat Oct 26 2024,,Viktoria Aschaffenburg,,,Türkgücü München
+17,Sat Oct 26 2024,,Würzburger Kickers,,,FV Illertissen
+18,Sat Nov 2 2024,,1. FC Nürnberg II,,,SpVgg Ansbach
+18,Sat Nov 2 2024,,Bayern München II,,,Wacker Burghausen
+18,Sat Nov 2 2024,,DJK Vilzing,,,FV Illertissen
+18,Sat Nov 2 2024,,FC Augsburg II,,,SpVgg Greuther Fürth II
+18,Sat Nov 2 2024,,SpVgg Hankofen-Hailing,,,Eintracht Bamberg
+18,Sat Nov 2 2024,,TSV Aubstadt,,,1. FC Schweinfurt 05
+18,Sat Nov 2 2024,,TSV Buchbach,,,SpVgg Bayreuth
+18,Sat Nov 2 2024,,Viktoria Aschaffenburg,,,TSV Schwaben Augsburg
+18,Sat Nov 2 2024,,Würzburger Kickers,,,Türkgücü München
+19,Sat Nov 9 2024,,1. FC Schweinfurt 05,,,SpVgg Hankofen-Hailing
+19,Sat Nov 9 2024,,Eintracht Bamberg,,,TSV Buchbach
+19,Sat Nov 9 2024,,FV Illertissen,,,FC Augsburg II
+19,Sat Nov 9 2024,,SpVgg Ansbach,,,Bayern München II
+19,Sat Nov 9 2024,,SpVgg Bayreuth,,,1. FC Nürnberg II
+19,Sat Nov 9 2024,,SpVgg Greuther Fürth II,,,TSV Aubstadt
+19,Sat Nov 9 2024,,TSV Schwaben Augsburg,,,Würzburger Kickers
+19,Sat Nov 9 2024,,Türkgücü München,,,DJK Vilzing
+19,Sat Nov 9 2024,,Wacker Burghausen,,,Viktoria Aschaffenburg
+20,Sat Nov 16 2024,,Bayern München II,,,1. FC Nürnberg II
+20,Sat Nov 16 2024,,DJK Vilzing,,,TSV Schwaben Augsburg
+20,Sat Nov 16 2024,,FC Augsburg II,,,Türkgücü München
+20,Sat Nov 16 2024,,Eintracht Bamberg,,,SpVgg Bayreuth
+20,Sat Nov 16 2024,,SpVgg Hankofen-Hailing,,,SpVgg Greuther Fürth II
+20,Sat Nov 16 2024,,TSV Aubstadt,,,FV Illertissen
+20,Sat Nov 16 2024,,TSV Buchbach,,,1. FC Schweinfurt 05
+20,Sat Nov 16 2024,,Viktoria Aschaffenburg,,,SpVgg Ansbach
+20,Sat Nov 16 2024,,Würzburger Kickers,,,Wacker Burghausen
+21,Sat Nov 23 2024,,1. FC Nürnberg II,,,Viktoria Aschaffenburg
+21,Sat Nov 23 2024,,1. FC Schweinfurt 05,,,Eintracht Bamberg
+21,Sat Nov 23 2024,,FV Illertissen,,,SpVgg Hankofen-Hailing
+21,Sat Nov 23 2024,,SpVgg Ansbach,,,Würzburger Kickers
+21,Sat Nov 23 2024,,SpVgg Bayreuth,,,Bayern München II
+21,Sat Nov 23 2024,,SpVgg Greuther Fürth II,,,TSV Buchbach
+21,Sat Nov 23 2024,,TSV Schwaben Augsburg,,,FC Augsburg II
+21,Sat Nov 23 2024,,Türkgücü München,,,TSV Aubstadt
+21,Sat Nov 23 2024,,Wacker Burghausen,,,DJK Vilzing
+22,Sat Nov 30 2024,,1. FC Schweinfurt 05,,,SpVgg Bayreuth
+22,Sat Nov 30 2024,,DJK Vilzing,,,SpVgg Ansbach
+22,Sat Nov 30 2024,,FC Augsburg II,,,Wacker Burghausen
+22,Sat Nov 30 2024,,Eintracht Bamberg,,,SpVgg Greuther Fürth II
+22,Sat Nov 30 2024,,SpVgg Hankofen-Hailing,,,Türkgücü München
+22,Sat Nov 30 2024,,TSV Aubstadt,,,TSV Schwaben Augsburg
+22,Sat Nov 30 2024,,TSV Buchbach,,,FV Illertissen
+22,Sat Nov 30 2024,,Viktoria Aschaffenburg,,,Bayern München II
+22,Sat Nov 30 2024,,Würzburger Kickers,,,1. FC Nürnberg II
+23,Sat Mar 1 2025,,1. FC Nürnberg II,,,DJK Vilzing
+23,Sat Mar 1 2025,,Bayern München II,,,Würzburger Kickers
+23,Sat Mar 1 2025,,FV Illertissen,,,Eintracht Bamberg
+23,Sat Mar 1 2025,,SpVgg Ansbach,,,FC Augsburg II
+23,Sat Mar 1 2025,,SpVgg Bayreuth,,,Viktoria Aschaffenburg
+23,Sat Mar 1 2025,,SpVgg Greuther Fürth II,,,1. FC Schweinfurt 05
+23,Sat Mar 1 2025,,TSV Schwaben Augsburg,,,SpVgg Hankofen-Hailing
+23,Sat Mar 1 2025,,Türkgücü München,,,TSV Buchbach
+23,Sat Mar 1 2025,,Wacker Burghausen,,,TSV Aubstadt
+24,Sat Mar 8 2025,,1. FC Schweinfurt 05,,,FV Illertissen
+24,Sat Mar 8 2025,,DJK Vilzing,,,Bayern München II
+24,Sat Mar 8 2025,,FC Augsburg II,,,1. FC Nürnberg II
+24,Sat Mar 8 2025,,Eintracht Bamberg,,,Türkgücü München
+24,Sat Mar 8 2025,,SpVgg Greuther Fürth II,,,SpVgg Bayreuth
+24,Sat Mar 8 2025,,SpVgg Hankofen-Hailing,,,Wacker Burghausen
+24,Sat Mar 8 2025,,TSV Aubstadt,,,SpVgg Ansbach
+24,Sat Mar 8 2025,,TSV Buchbach,,,TSV Schwaben Augsburg
+24,Sat Mar 8 2025,,Würzburger Kickers,,,Viktoria Aschaffenburg
+25,Sat Mar 15 2025,,1. FC Nürnberg II,,,TSV Aubstadt
+25,Sat Mar 15 2025,,Bayern München II,,,FC Augsburg II
+25,Sat Mar 15 2025,,FV Illertissen,,,SpVgg Greuther Fürth II
+25,Sat Mar 15 2025,,SpVgg Ansbach,,,SpVgg Hankofen-Hailing
+25,Sat Mar 15 2025,,SpVgg Bayreuth,,,Würzburger Kickers
+25,Sat Mar 15 2025,,TSV Schwaben Augsburg,,,Eintracht Bamberg
+25,Sat Mar 15 2025,,Türkgücü München,,,1. FC Schweinfurt 05
+25,Sat Mar 15 2025,,Viktoria Aschaffenburg,,,DJK Vilzing
+25,Sat Mar 15 2025,,Wacker Burghausen,,,TSV Buchbach
+26,Sat Mar 22 2025,,1. FC Schweinfurt 05,,,TSV Schwaben Augsburg
+26,Sat Mar 22 2025,,DJK Vilzing,,,Würzburger Kickers
+26,Sat Mar 22 2025,,FC Augsburg II,,,Viktoria Aschaffenburg
+26,Sat Mar 22 2025,,Eintracht Bamberg,,,Wacker Burghausen
+26,Sat Mar 22 2025,,FV Illertissen,,,SpVgg Bayreuth
+26,Sat Mar 22 2025,,SpVgg Greuther Fürth II,,,Türkgücü München
+26,Sat Mar 22 2025,,SpVgg Hankofen-Hailing,,,1. FC Nürnberg II
+26,Sat Mar 22 2025,,TSV Aubstadt,,,Bayern München II
+26,Sat Mar 22 2025,,TSV Buchbach,,,SpVgg Ansbach
+27,Sat Mar 29 2025,,1. FC Nürnberg II,,,TSV Buchbach
+27,Sat Mar 29 2025,,Bayern München II,,,SpVgg Hankofen-Hailing
+27,Sat Mar 29 2025,,SpVgg Ansbach,,,Eintracht Bamberg
+27,Sat Mar 29 2025,,SpVgg Bayreuth,,,DJK Vilzing
+27,Sat Mar 29 2025,,TSV Schwaben Augsburg,,,SpVgg Greuther Fürth II
+27,Sat Mar 29 2025,,Türkgücü München,,,FV Illertissen
+27,Sat Mar 29 2025,,Viktoria Aschaffenburg,,,TSV Aubstadt
+27,Sat Mar 29 2025,,Wacker Burghausen,,,1. FC Schweinfurt 05
+27,Sat Mar 29 2025,,Würzburger Kickers,,,FC Augsburg II
+28,Sat Apr 5 2025,,1. FC Schweinfurt 05,,,SpVgg Ansbach
+28,Sat Apr 5 2025,,FC Augsburg II,,,DJK Vilzing
+28,Sat Apr 5 2025,,Eintracht Bamberg,,,1. FC Nürnberg II
+28,Sat Apr 5 2025,,FV Illertissen,,,TSV Schwaben Augsburg
+28,Sat Apr 5 2025,,SpVgg Greuther Fürth II,,,Wacker Burghausen
+28,Sat Apr 5 2025,,SpVgg Hankofen-Hailing,,,Viktoria Aschaffenburg
+28,Sat Apr 5 2025,,TSV Aubstadt,,,Würzburger Kickers
+28,Sat Apr 5 2025,,TSV Buchbach,,,Bayern München II
+28,Sat Apr 5 2025,,Türkgücü München,,,SpVgg Bayreuth
+29,Sat Apr 12 2025,,1. FC Nürnberg II,,,1. FC Schweinfurt 05
+29,Sat Apr 12 2025,,Bayern München II,,,Eintracht Bamberg
+29,Sat Apr 12 2025,,DJK Vilzing,,,TSV Aubstadt
+29,Sat Apr 12 2025,,SpVgg Ansbach,,,SpVgg Greuther Fürth II
+29,Sat Apr 12 2025,,SpVgg Bayreuth,,,FC Augsburg II
+29,Sat Apr 12 2025,,TSV Schwaben Augsburg,,,Türkgücü München
+29,Sat Apr 12 2025,,Viktoria Aschaffenburg,,,TSV Buchbach
+29,Sat Apr 12 2025,,Wacker Burghausen,,,FV Illertissen
+29,Sat Apr 12 2025,,Würzburger Kickers,,,SpVgg Hankofen-Hailing
+30,Sat Apr 19 2025,,1. FC Schweinfurt 05,,,Bayern München II
+30,Sat Apr 19 2025,,Eintracht Bamberg,,,Viktoria Aschaffenburg
+30,Sat Apr 19 2025,,FV Illertissen,,,SpVgg Ansbach
+30,Sat Apr 19 2025,,SpVgg Greuther Fürth II,,,1. FC Nürnberg II
+30,Sat Apr 19 2025,,SpVgg Hankofen-Hailing,,,DJK Vilzing
+30,Sat Apr 19 2025,,TSV Aubstadt,,,FC Augsburg II
+30,Sat Apr 19 2025,,TSV Buchbach,,,Würzburger Kickers
+30,Sat Apr 19 2025,,TSV Schwaben Augsburg,,,SpVgg Bayreuth
+30,Sat Apr 19 2025,,Türkgücü München,,,Wacker Burghausen
+31,Sat Apr 26 2025,,1. FC Nürnberg II,,,FV Illertissen
+31,Sat Apr 26 2025,,Bayern München II,,,SpVgg Greuther Fürth II
+31,Sat Apr 26 2025,,DJK Vilzing,,,TSV Buchbach
+31,Sat Apr 26 2025,,FC Augsburg II,,,SpVgg Hankofen-Hailing
+31,Sat Apr 26 2025,,SpVgg Ansbach,,,Türkgücü München
+31,Sat Apr 26 2025,,SpVgg Bayreuth,,,TSV Aubstadt
+31,Sat Apr 26 2025,,Viktoria Aschaffenburg,,,1. FC Schweinfurt 05
+31,Sat Apr 26 2025,,Wacker Burghausen,,,TSV Schwaben Augsburg
+31,Sat Apr 26 2025,,Würzburger Kickers,,,Eintracht Bamberg
+32,Sat May 3 2025,,1. FC Schweinfurt 05,,,Würzburger Kickers
+32,Sat May 3 2025,,Eintracht Bamberg,,,DJK Vilzing
+32,Sat May 3 2025,,FV Illertissen,,,Bayern München II
+32,Sat May 3 2025,,SpVgg Greuther Fürth II,,,Viktoria Aschaffenburg
+32,Sat May 3 2025,,SpVgg Hankofen-Hailing,,,TSV Aubstadt
+32,Sat May 3 2025,,TSV Buchbach,,,FC Augsburg II
+32,Sat May 3 2025,,TSV Schwaben Augsburg,,,SpVgg Ansbach
+32,Sat May 3 2025,,Türkgücü München,,,1. FC Nürnberg II
+32,Sat May 3 2025,,Wacker Burghausen,,,SpVgg Bayreuth
+33,Sat May 10 2025,,1. FC Nürnberg II,,,TSV Schwaben Augsburg
+33,Sat May 10 2025,,Bayern München II,,,Türkgücü München
+33,Sat May 10 2025,,DJK Vilzing,,,1. FC Schweinfurt 05
+33,Sat May 10 2025,,FC Augsburg II,,,Eintracht Bamberg
+33,Sat May 10 2025,,SpVgg Ansbach,,,Wacker Burghausen
+33,Sat May 10 2025,,SpVgg Hankofen-Hailing,,,SpVgg Bayreuth
+33,Sat May 10 2025,,TSV Aubstadt,,,TSV Buchbach
+33,Sat May 10 2025,,Viktoria Aschaffenburg,,,FV Illertissen
+33,Sat May 10 2025,,Würzburger Kickers,,,SpVgg Greuther Fürth II
+34,Sat May 17 2025,,1. FC Schweinfurt 05,,,FC Augsburg II
+34,Sat May 17 2025,,Eintracht Bamberg,,,TSV Aubstadt
+34,Sat May 17 2025,,FV Illertissen,,,Würzburger Kickers
+34,Sat May 17 2025,,SpVgg Bayreuth,,,SpVgg Ansbach
+34,Sat May 17 2025,,SpVgg Greuther Fürth II,,,DJK Vilzing
+34,Sat May 17 2025,,TSV Buchbach,,,SpVgg Hankofen-Hailing
+34,Sat May 17 2025,,TSV Schwaben Augsburg,,,Bayern München II
+34,Sat May 17 2025,,Türkgücü München,,,Viktoria Aschaffenburg
+34,Sat May 17 2025,,Wacker Burghausen,,,1. FC Nürnberg II

@@ -1,0 +1,241 @@
+Round,Date,Time,Team 1,FT,Team 2
+1,Fri Aug 2 2024,19:00,SC Neusiedl/See 1919,,Favoritner AC
+1,Fri Aug 2 2024,19:30,TWL Elektra,,ASV Siegendorf
+1,Fri Aug 2 2024,19:30,SV Oberwart,,SV Gloggnitz
+1,Fri Aug 2 2024,19:30,Austria Wien (A),,SC Wiener Viktoria
+1,Fri Aug 2 2024,19:00,FC Marchfeld Donauauen,,SR Donaufeld
+1,Sat Aug 3 2024,17:00,Sportunion Mauer,,FC Mauerwerk
+1,Sat Aug 3 2024,18:00,Kremser SC,,Wiener Sport-Club
+1,Sat Aug 3 2024,18:00,SV Leobendorf,,FCM Traiskirchen
+2,Fri Aug 9 2024,19:00,ASV Siegendorf,,Sportunion Mauer
+2,Fri Aug 9 2024,19:30,SV Gloggnitz,,Austria Wien (A)
+2,Fri Aug 9 2024,19:30,FCM Traiskirchen,,TWL Elektra
+2,Fri Aug 9 2024,19:00,SC Neusiedl/See 1919,,FC Marchfeld Donauauen
+2,Sat Aug 10 2024,16:00,Favoritner AC,,FC Mauerwerk
+2,Sat Aug 10 2024,16:00,SC Wiener Viktoria,,SV Leobendorf
+2,Sat Aug 10 2024,17:00,Wiener Sport-Club,,SV Oberwart
+2,Sat Aug 10 2024,17:00,SR Donaufeld,,Kremser SC
+3,Fri Aug 16 2024,19:00,FC Mauerwerk,,ASV Siegendorf
+3,Fri Aug 16 2024,19:30,Kremser SC,,SC Neusiedl/See 1919
+3,Fri Aug 16 2024,19:30,TWL Elektra,,SC Wiener Viktoria
+3,Fri Aug 16 2024,19:30,SV Oberwart,,SR Donaufeld
+3,Fri Aug 16 2024,19:00,FC Marchfeld Donauauen,,Favoritner AC
+3,Sat Aug 17 2024,16:00,Austria Wien (A),,Wiener Sport-Club
+3,Sat Aug 17 2024,17:00,Sportunion Mauer,,FCM Traiskirchen
+3,Sat Aug 17 2024,18:00,SV Leobendorf,,SV Gloggnitz
+4,Fri Aug 23 2024,19:00,FC Marchfeld Donauauen,,Kremser SC
+4,Fri Aug 23 2024,19:00,SC Neusiedl/See 1919,,SV Oberwart
+4,Fri Aug 23 2024,19:30,FCM Traiskirchen,,FC Mauerwerk
+4,Fri Aug 23 2024,19:00,SV Gloggnitz,,TWL Elektra
+4,Sat Aug 24 2024,16:00,Favoritner AC,,ASV Siegendorf
+4,Sat Aug 24 2024,17:00,Wiener Sport-Club,,SV Leobendorf
+4,Sat Aug 24 2024,17:00,SR Donaufeld,,Austria Wien (A)
+4,Sat Aug 24 2024,18:00,SC Wiener Viktoria,,Sportunion Mauer
+5,Fri Aug 30 2024,19:00,ASV Siegendorf,,FCM Traiskirchen
+5,Fri Aug 30 2024,19:30,Austria Wien (A),,SC Neusiedl/See 1919
+5,Fri Aug 30 2024,19:30,SV Oberwart,,FC Marchfeld Donauauen
+5,Fri Aug 30 2024,19:30,TWL Elektra,,Wiener Sport-Club
+5,Fri Aug 30 2024,19:30,Kremser SC,,Favoritner AC
+5,Fri Aug 30 2024,19:00,FC Mauerwerk,,SC Wiener Viktoria
+5,Sat Aug 31 2024,17:00,Sportunion Mauer,,SV Gloggnitz
+5,Sat Aug 31 2024,16:30,SV Leobendorf,,SR Donaufeld
+6,Fri Sep 6 2024,18:45,Wiener Sport-Club,,Sportunion Mauer
+6,Fri Sep 6 2024,18:45,SC Neusiedl/See 1919,,SV Leobendorf
+6,Fri Sep 6 2024,18:45,Kremser SC,,SV Oberwart
+6,Fri Sep 6 2024,18:45,FC Marchfeld Donauauen,,Austria Wien (A)
+6,Fri Sep 6 2024,18:45,SV Gloggnitz,,FC Mauerwerk
+6,Sat Sep 7 2024,16:00,Favoritner AC,,FCM Traiskirchen
+6,Sat Sep 7 2024,18:00,SC Wiener Viktoria,,ASV Siegendorf
+6,Sat Sep 7 2024,16:00,SR Donaufeld,,TWL Elektra
+7,Fri Sep 13 2024,18:30,SV Leobendorf,,FC Marchfeld Donauauen
+7,Fri Sep 13 2024,19:00,ASV Siegendorf,,SV Gloggnitz
+7,Fri Sep 13 2024,19:00,FC Mauerwerk,,Wiener Sport-Club
+7,Fri Sep 13 2024,19:30,TWL Elektra,,SC Neusiedl/See 1919
+7,Fri Sep 13 2024,19:30,Austria Wien (A),,Kremser SC
+7,Fri Sep 13 2024,19:30,SV Oberwart,,Favoritner AC
+7,Fri Sep 13 2024,19:30,FCM Traiskirchen,,SC Wiener Viktoria
+7,Sat Sep 14 2024,14:00,Sportunion Mauer,,SR Donaufeld
+8,Fri Sep 20 2024,19:00,FC Marchfeld Donauauen,,TWL Elektra
+8,Fri Sep 20 2024,19:00,SV Gloggnitz,,FCM Traiskirchen
+8,Fri Sep 20 2024,19:00,SC Neusiedl/See 1919,,Sportunion Mauer
+8,Fri Sep 20 2024,19:30,SV Oberwart,,Austria Wien (A)
+8,Fri Sep 20 2024,19:30,Kremser SC,,SV Leobendorf
+8,Fri Sep 20 2024,19:30,Wiener Sport-Club,,ASV Siegendorf
+8,Sat Sep 21 2024,16:00,Favoritner AC,,SC Wiener Viktoria
+8,Sat Sep 21 2024,16:00,SR Donaufeld,,FC Mauerwerk
+9,Fri Sep 27 2024,19:00,FC Mauerwerk,,SC Neusiedl/See 1919
+9,Fri Sep 27 2024,19:00,ASV Siegendorf,,SR Donaufeld
+9,Fri Sep 27 2024,19:30,Austria Wien (A),,Favoritner AC
+9,Fri Sep 27 2024,19:30,FCM Traiskirchen,,Wiener Sport-Club
+9,Fri Sep 27 2024,19:30,TWL Elektra,,Kremser SC
+9,Sat Sep 28 2024,17:00,SV Leobendorf,,SV Oberwart
+9,Sat Sep 28 2024,18:00,SC Wiener Viktoria,,SV Gloggnitz
+9,Sat Sep 28 2024,14:00,Sportunion Mauer,,FC Marchfeld Donauauen
+10,Fri Oct 4 2024,19:00,SC Neusiedl/See 1919,,ASV Siegendorf
+10,Fri Oct 4 2024,19:00,FC Marchfeld Donauauen,,FC Mauerwerk
+10,Fri Oct 4 2024,19:30,SV Oberwart,,TWL Elektra
+10,Fri Oct 4 2024,19:30,Austria Wien (A),,SV Leobendorf
+10,Fri Oct 4 2024,19:30,Kremser SC,,Sportunion Mauer
+10,Fri Oct 4 2024,19:30,Wiener Sport-Club,,SC Wiener Viktoria
+10,Sat Oct 5 2024,16:00,Favoritner AC,,SV Gloggnitz
+10,Sat Oct 5 2024,15:30,SR Donaufeld,,FCM Traiskirchen
+11,Fri Oct 11 2024,19:00,FC Mauerwerk,,Kremser SC
+11,Fri Oct 11 2024,19:00,ASV Siegendorf,,FC Marchfeld Donauauen
+11,Fri Oct 11 2024,19:30,FCM Traiskirchen,,SC Neusiedl/See 1919
+11,Fri Oct 11 2024,19:30,TWL Elektra,,Austria Wien (A)
+11,Sat Oct 12 2024,16:00,SV Gloggnitz,,Wiener Sport-Club
+11,Sat Oct 12 2024,16:00,SC Wiener Viktoria,,SR Donaufeld
+11,Sat Oct 12 2024,16:30,SV Leobendorf,,Favoritner AC
+11,Sat Oct 12 2024,14:00,Sportunion Mauer,,SV Oberwart
+12,Fri Oct 18 2024,19:00,SC Neusiedl/See 1919,,SC Wiener Viktoria
+12,Fri Oct 18 2024,19:00,FC Marchfeld Donauauen,,FCM Traiskirchen
+12,Fri Oct 18 2024,19:30,SV Oberwart,,FC Mauerwerk
+12,Fri Oct 18 2024,19:30,Kremser SC,,ASV Siegendorf
+12,Fri Oct 18 2024,19:30,Austria Wien (A),,Sportunion Mauer
+12,Sat Oct 19 2024,16:30,SV Leobendorf,,TWL Elektra
+12,Sat Oct 19 2024,19:00,Favoritner AC,,Wiener Sport-Club
+12,Sat Oct 19 2024,15:30,SR Donaufeld,,SV Gloggnitz
+13,Fri Oct 25 2024,19:00,ASV Siegendorf,,SV Oberwart
+13,Fri Oct 25 2024,19:00,FC Mauerwerk,,Austria Wien (A)
+13,Fri Oct 25 2024,19:30,TWL Elektra,,Favoritner AC
+13,Fri Oct 25 2024,19:30,Wiener Sport-Club,,SR Donaufeld
+13,Fri Oct 25 2024,19:30,FCM Traiskirchen,,Kremser SC
+13,Sat Oct 26 2024,14:30,SV Gloggnitz,,SC Neusiedl/See 1919
+13,Sat Oct 26 2024,16:00,SC Wiener Viktoria,,FC Marchfeld Donauauen
+13,Sat Oct 26 2024,14:00,Sportunion Mauer,,SV Leobendorf
+14,Fri Nov 1 2024,19:00,SC Neusiedl/See 1919,,Wiener Sport-Club
+14,Fri Nov 1 2024,19:00,FC Marchfeld Donauauen,,SV Gloggnitz
+14,Fri Nov 1 2024,19:30,TWL Elektra,,Sportunion Mauer
+14,Fri Nov 1 2024,19:30,Kremser SC,,SC Wiener Viktoria
+14,Fri Nov 1 2024,19:30,SV Oberwart,,FCM Traiskirchen
+14,Fri Nov 1 2024,19:30,Austria Wien (A),,ASV Siegendorf
+14,Sat Nov 2 2024,16:30,SV Leobendorf,,FC Mauerwerk
+14,Sat Nov 2 2024,16:00,Favoritner AC,,SR Donaufeld
+15,Fri Nov 8 2024,19:00,FC Mauerwerk,,TWL Elektra
+15,Fri Nov 8 2024,19:00,ASV Siegendorf,,SV Leobendorf
+15,Fri Nov 8 2024,19:30,Wiener Sport-Club,,FC Marchfeld Donauauen
+15,Fri Nov 8 2024,19:30,FCM Traiskirchen,,Austria Wien (A)
+15,Sat Nov 9 2024,14:00,SV Gloggnitz,,Kremser SC
+15,Sat Nov 9 2024,14:00,Sportunion Mauer,,Favoritner AC
+15,Sat Nov 9 2024,16:00,SC Wiener Viktoria,,SV Oberwart
+15,Sat Nov 9 2024,14:00,SR Donaufeld,,SC Neusiedl/See 1919
+16,Fri Feb 28 2025,19:00,ASV Siegendorf,,TWL Elektra
+16,Fri Feb 28 2025,19:00,SV Gloggnitz,,SV Oberwart
+16,Fri Feb 28 2025,19:00,FC Mauerwerk,,Sportunion Mauer
+16,Fri Feb 28 2025,19:30,FCM Traiskirchen,,SV Leobendorf
+16,Fri Feb 28 2025,19:30,Wiener Sport-Club,,Kremser SC
+16,Fri Feb 28 2025,19:30,Favoritner AC,,SC Neusiedl/See 1919
+16,Sat Mar 1 2025,16:00,SC Wiener Viktoria,,Austria Wien (A)
+16,Sat Mar 1 2025,16:00,SR Donaufeld,,FC Marchfeld Donauauen
+17,Fri Mar 7 2025,19:00,FC Mauerwerk,,Favoritner AC
+17,Fri Mar 7 2025,19:00,FC Marchfeld Donauauen,,SC Neusiedl/See 1919
+17,Fri Mar 7 2025,19:30,Kremser SC,,SR Donaufeld
+17,Fri Mar 7 2025,19:30,SV Oberwart,,Wiener Sport-Club
+17,Fri Mar 7 2025,19:30,Austria Wien (A),,SV Gloggnitz
+17,Fri Mar 7 2025,19:30,TWL Elektra,,FCM Traiskirchen
+17,Sat Mar 8 2025,16:30,SV Leobendorf,,SC Wiener Viktoria
+17,Sat Mar 8 2025,14:00,Sportunion Mauer,,ASV Siegendorf
+18,Fri Mar 14 2025,19:00,SV Gloggnitz,,SV Leobendorf
+18,Fri Mar 14 2025,19:00,SC Neusiedl/See 1919,,Kremser SC
+18,Fri Mar 14 2025,19:00,ASV Siegendorf,,FC Mauerwerk
+18,Fri Mar 14 2025,19:30,FCM Traiskirchen,,Sportunion Mauer
+18,Fri Mar 14 2025,19:30,Wiener Sport-Club,,Austria Wien (A)
+18,Fri Mar 14 2025,19:30,Favoritner AC,,FC Marchfeld Donauauen
+18,Sat Mar 15 2025,16:00,SC Wiener Viktoria,,TWL Elektra
+18,Sat Mar 15 2025,16:00,SR Donaufeld,,SV Oberwart
+19,Fri Mar 21 2025,19:00,FC Mauerwerk,,FCM Traiskirchen
+19,Fri Mar 21 2025,19:00,ASV Siegendorf,,Favoritner AC
+19,Fri Mar 21 2025,19:30,SV Oberwart,,SC Neusiedl/See 1919
+19,Fri Mar 21 2025,19:30,Kremser SC,,FC Marchfeld Donauauen
+19,Fri Mar 21 2025,19:30,Austria Wien (A),,SR Donaufeld
+19,Fri Mar 21 2025,19:30,TWL Elektra,,SV Gloggnitz
+19,Sat Mar 22 2025,16:30,SV Leobendorf,,Wiener Sport-Club
+19,Sat Mar 22 2025,14:00,Sportunion Mauer,,SC Wiener Viktoria
+20,Fri Mar 28 2025,19:00,SC Neusiedl/See 1919,,Austria Wien (A)
+20,Fri Mar 28 2025,19:00,SV Gloggnitz,,Sportunion Mauer
+20,Fri Mar 28 2025,19:00,FC Marchfeld Donauauen,,SV Oberwart
+20,Fri Mar 28 2025,19:30,Wiener Sport-Club,,TWL Elektra
+20,Fri Mar 28 2025,19:30,Favoritner AC,,Kremser SC
+20,Fri Mar 28 2025,19:30,FCM Traiskirchen,,ASV Siegendorf
+20,Sat Mar 29 2025,16:00,SR Donaufeld,,SV Leobendorf
+20,Sat Mar 29 2025,16:00,SC Wiener Viktoria,,FC Mauerwerk
+21,Fri Apr 4 2025,19:00,ASV Siegendorf,,SC Wiener Viktoria
+21,Fri Apr 4 2025,19:00,FC Mauerwerk,,SV Gloggnitz
+21,Fri Apr 4 2025,19:30,SV Oberwart,,Kremser SC
+21,Fri Apr 4 2025,19:30,Austria Wien (A),,FC Marchfeld Donauauen
+21,Fri Apr 4 2025,19:30,TWL Elektra,,SR Donaufeld
+21,Fri Apr 4 2025,19:30,FCM Traiskirchen,,Favoritner AC
+21,Sat Apr 5 2025,16:30,SV Leobendorf,,SC Neusiedl/See 1919
+21,Sat Apr 5 2025,14:00,Sportunion Mauer,,Wiener Sport-Club
+22,Fri Apr 11 2025,19:00,SC Neusiedl/See 1919,,TWL Elektra
+22,Fri Apr 11 2025,19:00,FC Marchfeld Donauauen,,SV Leobendorf
+22,Fri Apr 11 2025,19:00,SV Gloggnitz,,ASV Siegendorf
+22,Fri Apr 11 2025,19:30,Wiener Sport-Club,,FC Mauerwerk
+22,Fri Apr 11 2025,19:30,Favoritner AC,,SV Oberwart
+22,Fri Apr 11 2025,19:30,Kremser SC,,Austria Wien (A)
+22,Sat Apr 12 2025,16:00,SC Wiener Viktoria,,FCM Traiskirchen
+22,Sat Apr 12 2025,16:00,SR Donaufeld,,Sportunion Mauer
+23,Fri Apr 18 2025,19:00,ASV Siegendorf,,Wiener Sport-Club
+23,Fri Apr 18 2025,19:30,Austria Wien (A),,SV Oberwart
+23,Fri Apr 18 2025,19:30,FCM Traiskirchen,,SV Gloggnitz
+23,Fri Apr 18 2025,19:30,TWL Elektra,,FC Marchfeld Donauauen
+23,Fri Apr 18 2025,19:00,FC Mauerwerk,,SR Donaufeld
+23,Sat Apr 19 2025,14:00,Sportunion Mauer,,SC Neusiedl/See 1919
+23,Sat Apr 19 2025,16:00,SC Wiener Viktoria,,Favoritner AC
+23,Sat Apr 19 2025,16:30,SV Leobendorf,,Kremser SC
+24,Fri Apr 25 2025,19:00,FC Marchfeld Donauauen,,Sportunion Mauer
+24,Fri Apr 25 2025,19:00,SV Gloggnitz,,SC Wiener Viktoria
+24,Fri Apr 25 2025,19:30,Kremser SC,,TWL Elektra
+24,Fri Apr 25 2025,19:30,Wiener Sport-Club,,FCM Traiskirchen
+24,Fri Apr 25 2025,19:30,SV Oberwart,,SV Leobendorf
+24,Fri Apr 25 2025,19:30,Favoritner AC,,Austria Wien (A)
+24,Fri Apr 25 2025,19:00,SC Neusiedl/See 1919,,FC Mauerwerk
+24,Sat Apr 26 2025,16:00,SR Donaufeld,,ASV Siegendorf
+25,Fri May 2 2025,19:00,SV Gloggnitz,,Favoritner AC
+25,Fri May 2 2025,19:00,FC Mauerwerk,,FC Marchfeld Donauauen
+25,Fri May 2 2025,19:00,ASV Siegendorf,,SC Neusiedl/See 1919
+25,Fri May 2 2025,19:30,FCM Traiskirchen,,SR Donaufeld
+25,Fri May 2 2025,19:30,TWL Elektra,,SV Oberwart
+25,Sat May 3 2025,16:00,SC Wiener Viktoria,,Wiener Sport-Club
+25,Sat May 3 2025,16:30,SV Leobendorf,,Austria Wien (A)
+25,Sat May 3 2025,14:00,Sportunion Mauer,,Kremser SC
+26,Fri May 9 2025,19:00,FC Marchfeld Donauauen,,ASV Siegendorf
+26,Fri May 9 2025,19:00,SC Neusiedl/See 1919,,FCM Traiskirchen
+26,Fri May 9 2025,19:30,Kremser SC,,FC Mauerwerk
+26,Fri May 9 2025,19:30,Favoritner AC,,SV Leobendorf
+26,Fri May 9 2025,19:30,Austria Wien (A),,TWL Elektra
+26,Fri May 9 2025,19:30,SV Oberwart,,Sportunion Mauer
+26,Fri May 9 2025,19:30,Wiener Sport-Club,,SV Gloggnitz
+26,Sat May 10 2025,16:00,SR Donaufeld,,SC Wiener Viktoria
+27,Fri May 16 2025,19:00,FC Mauerwerk,,SV Oberwart
+27,Fri May 16 2025,19:00,ASV Siegendorf,,Kremser SC
+27,Fri May 16 2025,19:00,SV Gloggnitz,,SR Donaufeld
+27,Fri May 16 2025,19:30,Wiener Sport-Club,,Favoritner AC
+27,Fri May 16 2025,19:30,TWL Elektra,,SV Leobendorf
+27,Fri May 16 2025,19:30,FCM Traiskirchen,,FC Marchfeld Donauauen
+27,Sat May 17 2025,16:00,SC Wiener Viktoria,,SC Neusiedl/See 1919
+27,Sat May 17 2025,14:00,Sportunion Mauer,,Austria Wien (A)
+28,Fri May 23 2025,19:00,FC Marchfeld Donauauen,,SC Wiener Viktoria
+28,Fri May 23 2025,19:00,SC Neusiedl/See 1919,,SV Gloggnitz
+28,Fri May 23 2025,19:30,Austria Wien (A),,FC Mauerwerk
+28,Fri May 23 2025,19:30,Kremser SC,,FCM Traiskirchen
+28,Fri May 23 2025,19:30,SV Oberwart,,ASV Siegendorf
+28,Fri May 23 2025,19:30,Favoritner AC,,TWL Elektra
+28,Sat May 24 2025,16:30,SV Leobendorf,,Sportunion Mauer
+28,Sat May 24 2025,16:00,SR Donaufeld,,Wiener Sport-Club
+29,Fri May 30 2025,19:00,FC Mauerwerk,,SV Leobendorf
+29,Fri May 30 2025,19:00,ASV Siegendorf,,Austria Wien (A)
+29,Fri May 30 2025,19:00,SV Gloggnitz,,FC Marchfeld Donauauen
+29,Fri May 30 2025,19:30,FCM Traiskirchen,,SV Oberwart
+29,Fri May 30 2025,19:30,Wiener Sport-Club,,SC Neusiedl/See 1919
+29,Sat May 31 2025,16:00,SC Wiener Viktoria,,Kremser SC
+29,Sat May 31 2025,16:00,SR Donaufeld,,Favoritner AC
+29,Sat May 31 2025,14:00,Sportunion Mauer,,TWL Elektra
+30,Fri Jun 6 2025,19:00,FC Marchfeld Donauauen,,Wiener Sport-Club
+30,Fri Jun 6 2025,19:00,SC Neusiedl/See 1919,,SR Donaufeld
+30,Fri Jun 6 2025,19:30,Austria Wien (A),,FCM Traiskirchen
+30,Fri Jun 6 2025,19:30,SV Oberwart,,SC Wiener Viktoria
+30,Fri Jun 6 2025,19:30,Favoritner AC,,Sportunion Mauer
+30,Fri Jun 6 2025,19:30,Kremser SC,,SV Gloggnitz
+30,Fri Jun 6 2025,19:30,TWL Elektra,,FC Mauerwerk
+30,Sat Jun 7 2025,16:30,SV Leobendorf,,ASV Siegendorf
