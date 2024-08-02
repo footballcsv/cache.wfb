@@ -1,0 +1,463 @@
+Round,Date,Time,Team 1,FT,Team 2
+1,Thu Aug 15 2024,20:30,Granada CF,,Albacete
+1,Fri Aug 16 2024,21:30,Cádiz CF,,Real Zaragoza
+1,Fri Aug 16 2024,19:00,CD Mirandés,,Córdoba CF
+1,Sat Aug 17 2024,17:00,SD Eibar,,CD Castellón
+1,Sat Aug 17 2024,19:00,Deportivo La Coruña,,Real Oviedo
+1,Sat Aug 17 2024,17:00,Racing Ferrol,,Málaga CF
+1,Sun Aug 18 2024,17:00,Racing Santander,,UD Almería
+1,Sun Aug 18 2024,17:00,Sporting Gijón,,Levante UD
+1,Sun Aug 18 2024,19:30,Burgos CF,,FC Cartagena
+1,Sun Aug 18 2024,19:30,Elche CF,,SD Huesca
+1,Mon Aug 19 2024,20:30,CD Eldense,,CD Tenerife
+2,Fri Aug 23 2024,21:30,SD Huesca,,Deportivo La Coruña
+2,Fri Aug 23 2024,19:00,Racing Santander,,SD Eibar
+2,Sat Aug 24 2024,17:00,Racing Ferrol,,Granada CF
+2,Sat Aug 24 2024,17:00,Sporting Gijón,,CD Eldense
+2,Sat Aug 24 2024,19:00,Levante UD,,Cádiz CF
+2,Sat Aug 24 2024,21:30,Málaga CF,,CD Mirandés
+2,Sat Aug 24 2024,21:30,CD Tenerife,,UD Almería
+2,Sun Aug 25 2024,21:30,CD Castellón,,Real Oviedo
+2,Sun Aug 25 2024,19:00,Albacete,,Elche CF
+2,Mon Aug 26 2024,21:30,Córdoba CF,,Burgos CF
+2,Mon Aug 26 2024,19:00,FC Cartagena,,Real Zaragoza
+3,Fri Aug 30 2024,19:00,Granada CF,,SD Huesca
+3,Fri Aug 30 2024,21:30,Real Oviedo,,Racing Santander
+3,Sat Aug 31 2024,21:30,UD Almería,,Sporting Gijón
+3,Sat Aug 31 2024,21:30,Málaga CF,,Albacete
+3,Sat Aug 31 2024,19:00,Cádiz CF,,CD Tenerife
+3,Sun Sep 1 2024,17:00,Burgos CF,,CD Castellón
+3,Sun Sep 1 2024,17:00,Deportivo La Coruña,,Racing Ferrol
+3,Sun Sep 1 2024,19:00,CD Mirandés,,Real Zaragoza
+3,Sun Sep 1 2024,19:00,CD Eldense,,FC Cartagena
+3,Mon Sep 2 2024,21:30,Elche CF,,Córdoba CF
+3,Mon Sep 2 2024,19:00,SD Eibar,,Levante UD
+4,Fri Sep 6 2024,21:00,CD Tenerife,,Racing Santander
+4,Sat Sep 7 2024,00:00,SD Huesca,,Burgos CF
+4,Sat Sep 7 2024,16:15,Granada CF,,Deportivo La Coruña
+4,Sat Sep 7 2024,18:30,Sporting Gijón,,Real Oviedo
+4,Sat Sep 7 2024,21:00,Córdoba CF,,Málaga CF
+4,Sun Sep 8 2024,16:15,FC Cartagena,,Levante UD
+4,Sun Sep 8 2024,18:30,CD Eldense,,UD Almería
+4,Sun Sep 8 2024,18:30,Real Zaragoza,,Elche CF
+4,Sun Sep 8 2024,14:00,Racing Ferrol,,CD Mirandés
+4,Mon Sep 9 2024,21:00,Albacete,,SD Eibar
+4,Mon Sep 9 2024,21:00,CD Castellón,,Cádiz CF
+5,Sun Sep 15 2024,,UD Almería,,CD Castellón
+5,Sun Sep 15 2024,,Burgos CF,,Real Zaragoza
+5,Sun Sep 15 2024,,Cádiz CF,,Racing Ferrol
+5,Sun Sep 15 2024,,Córdoba CF,,Deportivo La Coruña
+5,Sun Sep 15 2024,,SD Eibar,,CD Tenerife
+5,Sun Sep 15 2024,,Elche CF,,Granada CF
+5,Sun Sep 15 2024,,Racing Santander,,Sporting Gijón
+5,Sun Sep 15 2024,,CD Mirandés,,Albacete
+5,Sun Sep 15 2024,,Real Oviedo,,FC Cartagena
+5,Sun Sep 15 2024,,Levante UD,,CD Eldense
+5,Sun Sep 15 2024,,Málaga CF,,SD Huesca
+6,Sun Sep 22 2024,,UD Almería,,SD Eibar
+6,Sun Sep 22 2024,,CD Castellón,,Racing Santander
+6,Sun Sep 22 2024,,Elche CF,,CD Mirandés
+6,Sun Sep 22 2024,,CD Eldense,,Real Oviedo
+6,Sun Sep 22 2024,,Granada CF,,Málaga CF
+6,Sun Sep 22 2024,,Racing Ferrol,,Albacete
+6,Sun Sep 22 2024,,Deportivo La Coruña,,Burgos CF
+6,Sun Sep 22 2024,,FC Cartagena,,Cádiz CF
+6,Sun Sep 22 2024,,SD Huesca,,Córdoba CF
+6,Sun Sep 22 2024,,Real Zaragoza,,Levante UD
+6,Sun Sep 22 2024,,CD Tenerife,,Sporting Gijón
+7,Sun Sep 29 2024,,Albacete,,Deportivo La Coruña
+7,Sun Sep 29 2024,,Burgos CF,,Granada CF
+7,Sun Sep 29 2024,,Cádiz CF,,CD Eldense
+7,Sun Sep 29 2024,,CD Castellón,,CD Tenerife
+7,Sun Sep 29 2024,,Córdoba CF,,Racing Ferrol
+7,Sun Sep 29 2024,,Sporting Gijón,,Real Zaragoza
+7,Sun Sep 29 2024,,Levante UD,,UD Almería
+7,Sun Sep 29 2024,,Racing Santander,,FC Cartagena
+7,Sun Sep 29 2024,,Real Oviedo,,SD Eibar
+7,Sun Sep 29 2024,,Málaga CF,,Elche CF
+7,Sun Sep 29 2024,,CD Mirandés,,SD Huesca
+8,Sun Oct 6 2024,,Albacete,,Córdoba CF
+8,Sun Oct 6 2024,,UD Almería,,Burgos CF
+8,Sun Oct 6 2024,,Deportivo La Coruña,,Málaga CF
+8,Sun Oct 6 2024,,SD Eibar,,Sporting Gijón
+8,Sun Oct 6 2024,,Levante UD,,Real Oviedo
+8,Sun Oct 6 2024,,SD Huesca,,Cádiz CF
+8,Sun Oct 6 2024,,CD Tenerife,,FC Cartagena
+8,Sun Oct 6 2024,,CD Eldense,,CD Castellón
+8,Sun Oct 6 2024,,Racing Ferrol,,Elche CF
+8,Sun Oct 6 2024,,CD Mirandés,,Granada CF
+8,Sun Oct 6 2024,,Real Zaragoza,,Racing Santander
+9,Sun Oct 13 2024,,Burgos CF,,CD Mirandés
+9,Sun Oct 13 2024,,Cádiz CF,,Málaga CF
+9,Sun Oct 13 2024,,FC Cartagena,,Racing Ferrol
+9,Sun Oct 13 2024,,SD Eibar,,CD Eldense
+9,Sun Oct 13 2024,,CD Tenerife,,Real Zaragoza
+9,Sun Oct 13 2024,,SD Huesca,,Albacete
+9,Sun Oct 13 2024,,Real Oviedo,,UD Almería
+9,Sun Oct 13 2024,,Sporting Gijón,,CD Castellón
+9,Sun Oct 13 2024,,Granada CF,,Córdoba CF
+9,Sun Oct 13 2024,,Elche CF,,Deportivo La Coruña
+9,Sun Oct 13 2024,,Racing Santander,,Levante UD
+10,Sun Oct 20 2024,,Albacete,,Burgos CF
+10,Sun Oct 20 2024,,Cádiz CF,,Racing Santander
+10,Sun Oct 20 2024,,CD Castellón,,Levante UD
+10,Sun Oct 20 2024,,Deportivo La Coruña,,CD Eldense
+10,Sun Oct 20 2024,,Elche CF,,Sporting Gijón
+10,Sun Oct 20 2024,,Racing Ferrol,,SD Huesca
+10,Sun Oct 20 2024,,Granada CF,,CD Tenerife
+10,Sun Oct 20 2024,,Málaga CF,,Real Oviedo
+10,Sun Oct 20 2024,,Real Zaragoza,,UD Almería
+10,Sun Oct 20 2024,,Córdoba CF,,FC Cartagena
+10,Sun Oct 20 2024,,CD Mirandés,,SD Eibar
+11,Wed Oct 23 2024,,Burgos CF,,Racing Ferrol
+11,Wed Oct 23 2024,,FC Cartagena,,Elche CF
+11,Wed Oct 23 2024,,CD Castellón,,Granada CF
+11,Wed Oct 23 2024,,CD Eldense,,Real Zaragoza
+11,Wed Oct 23 2024,,UD Almería,,Albacete
+11,Wed Oct 23 2024,,SD Eibar,,Cádiz CF
+11,Wed Oct 23 2024,,Racing Santander,,Córdoba CF
+11,Wed Oct 23 2024,,Levante UD,,Deportivo La Coruña
+11,Wed Oct 23 2024,,Sporting Gijón,,SD Huesca
+11,Wed Oct 23 2024,,CD Tenerife,,Málaga CF
+11,Wed Oct 23 2024,,Real Oviedo,,CD Mirandés
+12,Sun Oct 27 2024,,Albacete,,Sporting Gijón
+12,Sun Oct 27 2024,,Cádiz CF,,Real Oviedo
+12,Sun Oct 27 2024,,Córdoba CF,,CD Eldense
+12,Sun Oct 27 2024,,Deportivo La Coruña,,Racing Santander
+12,Sun Oct 27 2024,,Racing Ferrol,,CD Tenerife
+12,Sun Oct 27 2024,,Granada CF,,Levante UD
+12,Sun Oct 27 2024,,SD Huesca,,UD Almería
+12,Sun Oct 27 2024,,Elche CF,,Burgos CF
+12,Sun Oct 27 2024,,CD Mirandés,,FC Cartagena
+12,Sun Oct 27 2024,,Real Zaragoza,,CD Castellón
+12,Sun Oct 27 2024,,Málaga CF,,SD Eibar
+13,Sun Nov 3 2024,,UD Almería,,Córdoba CF
+13,Sun Nov 3 2024,,FC Cartagena,,Deportivo La Coruña
+13,Sun Nov 3 2024,,CD Castellón,,Racing Ferrol
+13,Sun Nov 3 2024,,SD Eibar,,Elche CF
+13,Sun Nov 3 2024,,CD Eldense,,SD Huesca
+13,Sun Nov 3 2024,,Levante UD,,Málaga CF
+13,Sun Nov 3 2024,,Racing Santander,,Albacete
+13,Sun Nov 3 2024,,Real Oviedo,,Burgos CF
+13,Sun Nov 3 2024,,Sporting Gijón,,Cádiz CF
+13,Sun Nov 3 2024,,Real Zaragoza,,Granada CF
+13,Sun Nov 3 2024,,CD Tenerife,,CD Mirandés
+14,Sun Nov 10 2024,,Albacete,,Real Oviedo
+14,Sun Nov 10 2024,,Burgos CF,,Sporting Gijón
+14,Sun Nov 10 2024,,Deportivo La Coruña,,SD Eibar
+14,Sun Nov 10 2024,,Racing Ferrol,,Racing Santander
+14,Sun Nov 10 2024,,SD Huesca,,Real Zaragoza
+14,Sun Nov 10 2024,,Elche CF,,UD Almería
+14,Sun Nov 10 2024,,CD Mirandés,,Cádiz CF
+14,Sun Nov 10 2024,,Málaga CF,,FC Cartagena
+14,Sun Nov 10 2024,,Córdoba CF,,CD Castellón
+14,Sun Nov 10 2024,,Granada CF,,CD Eldense
+14,Sun Nov 10 2024,,CD Tenerife,,Levante UD
+15,Sun Nov 17 2024,,UD Almería,,Deportivo La Coruña
+15,Sun Nov 17 2024,,Cádiz CF,,Córdoba CF
+15,Sun Nov 17 2024,,FC Cartagena,,SD Huesca
+15,Sun Nov 17 2024,,CD Castellón,,CD Mirandés
+15,Sun Nov 17 2024,,SD Eibar,,Racing Ferrol
+15,Sun Nov 17 2024,,Real Oviedo,,CD Tenerife
+15,Sun Nov 17 2024,,CD Eldense,,Albacete
+15,Sun Nov 17 2024,,Racing Santander,,Burgos CF
+15,Sun Nov 17 2024,,Levante UD,,Elche CF
+15,Sun Nov 17 2024,,Sporting Gijón,,Granada CF
+15,Sun Nov 17 2024,,Real Zaragoza,,Málaga CF
+16,Sun Nov 24 2024,,Albacete,,CD Tenerife
+16,Sun Nov 24 2024,,Burgos CF,,SD Eibar
+16,Sun Nov 24 2024,,Córdoba CF,,Real Zaragoza
+16,Sun Nov 24 2024,,Deportivo La Coruña,,Sporting Gijón
+16,Sun Nov 24 2024,,Elche CF,,Real Oviedo
+16,Sun Nov 24 2024,,Racing Ferrol,,Levante UD
+16,Sun Nov 24 2024,,Málaga CF,,Racing Santander
+16,Sun Nov 24 2024,,FC Cartagena,,UD Almería
+16,Sun Nov 24 2024,,Granada CF,,Cádiz CF
+16,Sun Nov 24 2024,,SD Huesca,,CD Castellón
+16,Sun Nov 24 2024,,CD Mirandés,,CD Eldense
+17,Sun Dec 1 2024,,UD Almería,,Granada CF
+17,Sun Dec 1 2024,,Cádiz CF,,Deportivo La Coruña
+17,Sun Dec 1 2024,,CD Castellón,,Málaga CF
+17,Sun Dec 1 2024,,CD Eldense,,Racing Ferrol
+17,Sun Dec 1 2024,,Real Zaragoza,,Albacete
+17,Sun Dec 1 2024,,Levante UD,,Burgos CF
+17,Sun Dec 1 2024,,SD Eibar,,FC Cartagena
+17,Sun Dec 1 2024,,Sporting Gijón,,Córdoba CF
+17,Sun Dec 1 2024,,CD Tenerife,,Elche CF
+17,Sun Dec 1 2024,,Real Oviedo,,SD Huesca
+17,Sun Dec 1 2024,,Racing Santander,,CD Mirandés
+18,Sun Dec 8 2024,,Albacete,,CD Castellón
+18,Sun Dec 8 2024,,Burgos CF,,CD Eldense
+18,Sun Dec 8 2024,,FC Cartagena,,Sporting Gijón
+18,Sun Dec 8 2024,,Córdoba CF,,CD Tenerife
+18,Sun Dec 8 2024,,Deportivo La Coruña,,Real Zaragoza
+18,Sun Dec 8 2024,,Racing Ferrol,,Real Oviedo
+18,Sun Dec 8 2024,,Granada CF,,Racing Santander
+18,Sun Dec 8 2024,,Málaga CF,,UD Almería
+18,Sun Dec 8 2024,,Elche CF,,Cádiz CF
+18,Sun Dec 8 2024,,SD Huesca,,SD Eibar
+18,Sun Dec 8 2024,,CD Mirandés,,Levante UD
+19,Sun Dec 15 2024,,UD Almería,,CD Mirandés
+19,Sun Dec 15 2024,,Burgos CF,,Málaga CF
+19,Sun Dec 15 2024,,SD Eibar,,Real Zaragoza
+19,Sun Dec 15 2024,,Cádiz CF,,Albacete
+19,Sun Dec 15 2024,,CD Castellón,,FC Cartagena
+19,Sun Dec 15 2024,,Levante UD,,Córdoba CF
+19,Sun Dec 15 2024,,CD Tenerife,,Deportivo La Coruña
+19,Sun Dec 15 2024,,CD Eldense,,Elche CF
+19,Sun Dec 15 2024,,Sporting Gijón,,Racing Ferrol
+19,Sun Dec 15 2024,,Real Oviedo,,Granada CF
+19,Sun Dec 15 2024,,Racing Santander,,SD Huesca
+20,Wed Dec 18 2024,,Albacete,,Levante UD
+20,Wed Dec 18 2024,,Córdoba CF,,SD Eibar
+20,Wed Dec 18 2024,,Elche CF,,Racing Santander
+20,Wed Dec 18 2024,,SD Huesca,,CD Tenerife
+20,Wed Dec 18 2024,,CD Mirandés,,Sporting Gijón
+20,Wed Dec 18 2024,,Racing Ferrol,,UD Almería
+20,Wed Dec 18 2024,,Cádiz CF,,Burgos CF
+20,Wed Dec 18 2024,,Granada CF,,FC Cartagena
+20,Wed Dec 18 2024,,Deportivo La Coruña,,CD Castellón
+20,Wed Dec 18 2024,,Málaga CF,,CD Eldense
+20,Wed Dec 18 2024,,Real Zaragoza,,Real Oviedo
+21,Sun Dec 22 2024,,UD Almería,,Cádiz CF
+21,Sun Dec 22 2024,,Burgos CF,,CD Tenerife
+21,Sun Dec 22 2024,,CD Castellón,,Elche CF
+21,Sun Dec 22 2024,,Deportivo La Coruña,,CD Mirandés
+21,Sun Dec 22 2024,,SD Eibar,,Granada CF
+21,Sun Dec 22 2024,,FC Cartagena,,Albacete
+21,Sun Dec 22 2024,,Real Oviedo,,Córdoba CF
+21,Sun Dec 22 2024,,Racing Santander,,CD Eldense
+21,Sun Dec 22 2024,,Real Zaragoza,,Racing Ferrol
+21,Sun Dec 22 2024,,Levante UD,,SD Huesca
+21,Sun Dec 22 2024,,Sporting Gijón,,Málaga CF
+22,Sat Jan 11 2025,,Albacete,,Racing Santander
+22,Sat Jan 11 2025,,Cádiz CF,,Levante UD
+22,Sat Jan 11 2025,,Elche CF,,Real Zaragoza
+22,Sat Jan 11 2025,,SD Huesca,,CD Mirandés
+22,Sat Jan 11 2025,,Real Oviedo,,Sporting Gijón
+22,Sat Jan 11 2025,,Córdoba CF,,UD Almería
+22,Sat Jan 11 2025,,Granada CF,,Burgos CF
+22,Sat Jan 11 2025,,Racing Ferrol,,FC Cartagena
+22,Sat Jan 11 2025,,CD Tenerife,,CD Castellón
+22,Sat Jan 11 2025,,Málaga CF,,Deportivo La Coruña
+22,Sat Jan 11 2025,,CD Eldense,,SD Eibar
+23,Sun Jan 19 2025,,UD Almería,,SD Huesca
+23,Sun Jan 19 2025,,Burgos CF,,Deportivo La Coruña
+23,Sun Jan 19 2025,,FC Cartagena,,Real Oviedo
+23,Sun Jan 19 2025,,CD Castellón,,Córdoba CF
+23,Sun Jan 19 2025,,SD Eibar,,Albacete
+23,Sun Jan 19 2025,,CD Eldense,,Cádiz CF
+23,Sun Jan 19 2025,,Sporting Gijón,,Elche CF
+23,Sun Jan 19 2025,,Racing Santander,,Racing Ferrol
+23,Sun Jan 19 2025,,Levante UD,,Granada CF
+23,Sun Jan 19 2025,,CD Mirandés,,Málaga CF
+23,Sun Jan 19 2025,,Real Zaragoza,,CD Tenerife
+24,Sun Jan 26 2025,,Albacete,,UD Almería
+24,Sun Jan 26 2025,,Cádiz CF,,CD Mirandés
+24,Sun Jan 26 2025,,Córdoba CF,,Racing Santander
+24,Sun Jan 26 2025,,Deportivo La Coruña,,Levante UD
+24,Sun Jan 26 2025,,Granada CF,,Sporting Gijón
+24,Sun Jan 26 2025,,Málaga CF,,Real Zaragoza
+24,Sun Jan 26 2025,,Racing Ferrol,,Burgos CF
+24,Sun Jan 26 2025,,SD Huesca,,FC Cartagena
+24,Sun Jan 26 2025,,Real Oviedo,,CD Castellón
+24,Sun Jan 26 2025,,Elche CF,,SD Eibar
+24,Sun Jan 26 2025,,CD Tenerife,,CD Eldense
+25,Sun Feb 2 2025,,UD Almería,,Real Oviedo
+25,Sun Feb 2 2025,,FC Cartagena,,Córdoba CF
+25,Sun Feb 2 2025,,CD Castellón,,SD Huesca
+25,Sun Feb 2 2025,,CD Eldense,,Granada CF
+25,Sun Feb 2 2025,,CD Tenerife,,Albacete
+25,Sun Feb 2 2025,,Sporting Gijón,,Burgos CF
+25,Sun Feb 2 2025,,Real Zaragoza,,Cádiz CF
+25,Sun Feb 2 2025,,SD Eibar,,Deportivo La Coruña
+25,Sun Feb 2 2025,,CD Mirandés,,Elche CF
+25,Sun Feb 2 2025,,Levante UD,,Racing Ferrol
+25,Sun Feb 2 2025,,Racing Santander,,Málaga CF
+26,Sun Feb 9 2025,,Albacete,,Real Zaragoza
+26,Sun Feb 9 2025,,Burgos CF,,Racing Santander
+26,Sun Feb 9 2025,,Cádiz CF,,FC Cartagena
+26,Sun Feb 9 2025,,Córdoba CF,,SD Huesca
+26,Sun Feb 9 2025,,Elche CF,,CD Tenerife
+26,Sun Feb 9 2025,,Granada CF,,CD Mirandés
+26,Sun Feb 9 2025,,Deportivo La Coruña,,UD Almería
+26,Sun Feb 9 2025,,Racing Ferrol,,CD Castellón
+26,Sun Feb 9 2025,,Sporting Gijón,,SD Eibar
+26,Sun Feb 9 2025,,Real Oviedo,,CD Eldense
+26,Sun Feb 9 2025,,Málaga CF,,Levante UD
+27,Sun Feb 16 2025,,UD Almería,,Elche CF
+27,Sun Feb 16 2025,,FC Cartagena,,Málaga CF
+27,Sun Feb 16 2025,,CD Castellón,,SD Eibar
+27,Sun Feb 16 2025,,Levante UD,,Sporting Gijón
+27,Sun Feb 16 2025,,Real Oviedo,,Albacete
+27,Sun Feb 16 2025,,Real Zaragoza,,Burgos CF
+27,Sun Feb 16 2025,,Racing Santander,,Cádiz CF
+27,Sun Feb 16 2025,,CD Tenerife,,Córdoba CF
+27,Sun Feb 16 2025,,CD Eldense,,Deportivo La Coruña
+27,Sun Feb 16 2025,,CD Mirandés,,Racing Ferrol
+27,Sun Feb 16 2025,,SD Huesca,,Granada CF
+28,Sun Feb 23 2025,,Albacete,,CD Eldense
+28,Sun Feb 23 2025,,Burgos CF,,Real Oviedo
+28,Sun Feb 23 2025,,Cádiz CF,,CD Castellón
+28,Sun Feb 23 2025,,Deportivo La Coruña,,SD Huesca
+28,Sun Feb 23 2025,,SD Eibar,,Racing Santander
+28,Sun Feb 23 2025,,Granada CF,,Real Zaragoza
+28,Sun Feb 23 2025,,Levante UD,,CD Mirandés
+28,Sun Feb 23 2025,,Málaga CF,,CD Tenerife
+28,Sun Feb 23 2025,,Sporting Gijón,,UD Almería
+28,Sun Feb 23 2025,,Elche CF,,FC Cartagena
+28,Sun Feb 23 2025,,Racing Ferrol,,Córdoba CF
+29,Sun Mar 2 2025,,Albacete,,Cádiz CF
+29,Sun Mar 2 2025,,UD Almería,,Málaga CF
+29,Sun Mar 2 2025,,FC Cartagena,,SD Eibar
+29,Sun Mar 2 2025,,Córdoba CF,,Granada CF
+29,Sun Mar 2 2025,,CD Eldense,,Levante UD
+29,Sun Mar 2 2025,,CD Mirandés,,CD Tenerife
+29,Sun Mar 2 2025,,CD Castellón,,Burgos CF
+29,Sun Mar 2 2025,,Real Oviedo,,Deportivo La Coruña
+29,Sun Mar 2 2025,,Racing Santander,,Elche CF
+29,Sun Mar 2 2025,,SD Huesca,,Racing Ferrol
+29,Sun Mar 2 2025,,Real Zaragoza,,Sporting Gijón
+30,Sun Mar 9 2025,,CD Mirandés,,Real Oviedo
+30,Sun Mar 9 2025,,Burgos CF,,Albacete
+30,Sun Mar 9 2025,,SD Eibar,,UD Almería
+30,Sun Mar 9 2025,,Málaga CF,,Cádiz CF
+30,Sun Mar 9 2025,,Levante UD,,FC Cartagena
+30,Sun Mar 9 2025,,Elche CF,,CD Castellón
+30,Sun Mar 9 2025,,Deportivo La Coruña,,Córdoba CF
+30,Sun Mar 9 2025,,Real Zaragoza,,CD Eldense
+30,Sun Mar 9 2025,,Granada CF,,Racing Ferrol
+30,Sun Mar 9 2025,,CD Tenerife,,SD Huesca
+30,Sun Mar 9 2025,,Sporting Gijón,,Racing Santander
+31,Sun Mar 16 2025,,Albacete,,Málaga CF
+31,Sun Mar 16 2025,,UD Almería,,Real Zaragoza
+31,Sun Mar 16 2025,,Cádiz CF,,Granada CF
+31,Sun Mar 16 2025,,CD Castellón,,Deportivo La Coruña
+31,Sun Mar 16 2025,,Córdoba CF,,Sporting Gijón
+31,Sun Mar 16 2025,,CD Eldense,,CD Mirandés
+31,Sun Mar 16 2025,,SD Huesca,,Levante UD
+31,Sun Mar 16 2025,,Racing Santander,,CD Tenerife
+31,Sun Mar 16 2025,,FC Cartagena,,Burgos CF
+31,Sun Mar 16 2025,,Racing Ferrol,,SD Eibar
+31,Sun Mar 16 2025,,Real Oviedo,,Elche CF
+32,Sun Mar 23 2025,,SD Eibar,,SD Huesca
+32,Sun Mar 23 2025,,Elche CF,,CD Eldense
+32,Sun Mar 23 2025,,Granada CF,,Real Oviedo
+32,Sun Mar 23 2025,,CD Mirandés,,Racing Santander
+32,Sun Mar 23 2025,,Sporting Gijón,,Albacete
+32,Sun Mar 23 2025,,Burgos CF,,UD Almería
+32,Sun Mar 23 2025,,CD Tenerife,,Cádiz CF
+32,Sun Mar 23 2025,,Deportivo La Coruña,,FC Cartagena
+32,Sun Mar 23 2025,,Levante UD,,CD Castellón
+32,Sun Mar 23 2025,,Real Zaragoza,,Córdoba CF
+32,Sun Mar 23 2025,,Málaga CF,,Racing Ferrol
+33,Sun Mar 30 2025,,Albacete,,CD Mirandés
+33,Sun Mar 30 2025,,UD Almería,,Levante UD
+33,Sun Mar 30 2025,,Cádiz CF,,SD Eibar
+33,Sun Mar 30 2025,,FC Cartagena,,CD Castellón
+33,Sun Mar 30 2025,,Córdoba CF,,Elche CF
+33,Sun Mar 30 2025,,SD Huesca,,Sporting Gijón
+33,Sun Mar 30 2025,,Racing Santander,,Real Zaragoza
+33,Sun Mar 30 2025,,CD Eldense,,Burgos CF
+33,Sun Mar 30 2025,,Racing Ferrol,,Deportivo La Coruña
+33,Sun Mar 30 2025,,CD Tenerife,,Granada CF
+33,Sun Mar 30 2025,,Real Oviedo,,Málaga CF
+34,Sun Apr 6 2025,,Burgos CF,,SD Huesca
+34,Sun Apr 6 2025,,FC Cartagena,,CD Eldense
+34,Sun Apr 6 2025,,SD Eibar,,Real Oviedo
+34,Sun Apr 6 2025,,Elche CF,,Racing Ferrol
+34,Sun Apr 6 2025,,Levante UD,,Racing Santander
+34,Sun Apr 6 2025,,Sporting Gijón,,CD Tenerife
+34,Sun Apr 6 2025,,CD Castellón,,Albacete
+34,Sun Apr 6 2025,,Granada CF,,UD Almería
+34,Sun Apr 6 2025,,Deportivo La Coruña,,Cádiz CF
+34,Sun Apr 6 2025,,Málaga CF,,Córdoba CF
+34,Sun Apr 6 2025,,Real Zaragoza,,CD Mirandés
+35,Sun Apr 13 2025,,Albacete,,Granada CF
+35,Sun Apr 13 2025,,UD Almería,,FC Cartagena
+35,Sun Apr 13 2025,,Cádiz CF,,Elche CF
+35,Sun Apr 13 2025,,Córdoba CF,,Levante UD
+35,Sun Apr 13 2025,,CD Eldense,,Sporting Gijón
+35,Sun Apr 13 2025,,SD Huesca,,Málaga CF
+35,Sun Apr 13 2025,,CD Tenerife,,Burgos CF
+35,Sun Apr 13 2025,,Racing Santander,,CD Castellón
+35,Sun Apr 13 2025,,CD Mirandés,,Deportivo La Coruña
+35,Sun Apr 13 2025,,Real Zaragoza,,SD Eibar
+35,Sun Apr 13 2025,,Real Oviedo,,Racing Ferrol
+36,Sun Apr 20 2025,,Burgos CF,,Cádiz CF
+36,Sun Apr 20 2025,,FC Cartagena,,Granada CF
+36,Sun Apr 20 2025,,Córdoba CF,,Real Oviedo
+36,Sun Apr 20 2025,,Deportivo La Coruña,,CD Tenerife
+36,Sun Apr 20 2025,,SD Eibar,,Málaga CF
+36,Sun Apr 20 2025,,SD Huesca,,Racing Santander
+36,Sun Apr 20 2025,,Levante UD,,Real Zaragoza
+36,Sun Apr 20 2025,,Elche CF,,Albacete
+36,Sun Apr 20 2025,,CD Castellón,,UD Almería
+36,Sun Apr 20 2025,,Racing Ferrol,,CD Eldense
+36,Sun Apr 20 2025,,Sporting Gijón,,CD Mirandés
+37,Sun Apr 27 2025,,Albacete,,FC Cartagena
+37,Sun Apr 27 2025,,UD Almería,,Racing Ferrol
+37,Sun Apr 27 2025,,Cádiz CF,,Sporting Gijón
+37,Sun Apr 27 2025,,CD Mirandés,,Burgos CF
+37,Sun Apr 27 2025,,Málaga CF,,CD Castellón
+37,Sun Apr 27 2025,,CD Eldense,,Córdoba CF
+37,Sun Apr 27 2025,,Racing Santander,,Deportivo La Coruña
+37,Sun Apr 27 2025,,CD Tenerife,,SD Eibar
+37,Sun Apr 27 2025,,Granada CF,,Elche CF
+37,Sun Apr 27 2025,,Real Zaragoza,,SD Huesca
+37,Sun Apr 27 2025,,Real Oviedo,,Levante UD
+38,Sun May 4 2025,,UD Almería,,CD Eldense
+38,Sun May 4 2025,,Burgos CF,,Elche CF
+38,Sun May 4 2025,,FC Cartagena,,Racing Santander
+38,Sun May 4 2025,,CD Castellón,,Sporting Gijón
+38,Sun May 4 2025,,SD Eibar,,CD Mirandés
+38,Sun May 4 2025,,Racing Ferrol,,Real Zaragoza
+38,Sun May 4 2025,,SD Huesca,,Real Oviedo
+38,Sun May 4 2025,,Levante UD,,CD Tenerife
+38,Sun May 4 2025,,Deportivo La Coruña,,Albacete
+38,Sun May 4 2025,,Córdoba CF,,Cádiz CF
+38,Sun May 4 2025,,Málaga CF,,Granada CF
+39,Sun May 11 2025,,Albacete,,SD Huesca
+39,Sun May 11 2025,,Burgos CF,,Córdoba CF
+39,Sun May 11 2025,,Elche CF,,Levante UD
+39,Sun May 11 2025,,CD Eldense,,Málaga CF
+39,Sun May 11 2025,,Cádiz CF,,UD Almería
+39,Sun May 11 2025,,Real Zaragoza,,FC Cartagena
+39,Sun May 11 2025,,CD Mirandés,,CD Castellón
+39,Sun May 11 2025,,Sporting Gijón,,Deportivo La Coruña
+39,Sun May 11 2025,,Granada CF,,SD Eibar
+39,Sun May 11 2025,,CD Tenerife,,Racing Ferrol
+39,Sun May 11 2025,,Racing Santander,,Real Oviedo
+40,Sun May 18 2025,,UD Almería,,Racing Santander
+40,Sun May 18 2025,,FC Cartagena,,CD Tenerife
+40,Sun May 18 2025,,CD Castellón,,CD Eldense
+40,Sun May 18 2025,,Córdoba CF,,CD Mirandés
+40,Sun May 18 2025,,Deportivo La Coruña,,Granada CF
+40,Sun May 18 2025,,Málaga CF,,Sporting Gijón
+40,Sun May 18 2025,,Real Oviedo,,Real Zaragoza
+40,Sun May 18 2025,,Levante UD,,Albacete
+40,Sun May 18 2025,,SD Eibar,,Burgos CF
+40,Sun May 18 2025,,Racing Ferrol,,Cádiz CF
+40,Sun May 18 2025,,SD Huesca,,Elche CF
+41,Sun May 25 2025,,Albacete,,Racing Ferrol
+41,Sun May 25 2025,,Burgos CF,,Levante UD
+41,Sun May 25 2025,,Cádiz CF,,SD Huesca
+41,Sun May 25 2025,,Elche CF,,Málaga CF
+41,Sun May 25 2025,,CD Eldense,,Racing Santander
+41,Sun May 25 2025,,CD Mirandés,,UD Almería
+41,Sun May 25 2025,,Sporting Gijón,,FC Cartagena
+41,Sun May 25 2025,,Granada CF,,CD Castellón
+41,Sun May 25 2025,,SD Eibar,,Córdoba CF
+41,Sun May 25 2025,,Real Zaragoza,,Deportivo La Coruña
+41,Sun May 25 2025,,CD Tenerife,,Real Oviedo
+42,Sun Jun 1 2025,,UD Almería,,CD Tenerife
+42,Sun Jun 1 2025,,FC Cartagena,,CD Mirandés
+42,Sun Jun 1 2025,,CD Castellón,,Real Zaragoza
+42,Sun Jun 1 2025,,Deportivo La Coruña,,Elche CF
+42,Sun Jun 1 2025,,Racing Ferrol,,Sporting Gijón
+42,Sun Jun 1 2025,,Córdoba CF,,Albacete
+42,Sun Jun 1 2025,,Málaga CF,,Burgos CF
+42,Sun Jun 1 2025,,Real Oviedo,,Cádiz CF
+42,Sun Jun 1 2025,,Levante UD,,SD Eibar
+42,Sun Jun 1 2025,,SD Huesca,,CD Eldense
+42,Sun Jun 1 2025,,Racing Santander,,Granada CF

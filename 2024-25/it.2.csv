@@ -1,0 +1,381 @@
+Round,Date,Time,Team 1,FT,Team 2
+1,Fri Aug 16 2024,20:30,Brescia Calcio,,Palermo FC
+1,Sat Aug 17 2024,20:30,AC Pisa,,Spezia Calcio
+1,Sat Aug 17 2024,20:30,US Salernitana 1919,,AS Cittadella
+1,Sat Aug 17 2024,20:30,FC Südtirol,,Modena FC
+1,Sat Aug 17 2024,20:30,SSC Bari,,SS Juve Stabia
+1,Sun Aug 18 2024,20:30,US Catanzaro,,Sassuolo Calcio
+1,Sun Aug 18 2024,20:30,Cesena FC,,Carrarese Calcio
+1,Sun Aug 18 2024,20:30,Cosenza Calcio,,US Cremonese
+1,Sun Aug 18 2024,20:30,Frosinone Calcio,,Sampdoria
+1,Sun Aug 18 2024,20:30,AC Reggiana 1919,,Mantova 1911 SSD
+2,Fri Aug 23 2024,20:30,Modena FC,,SSC Bari
+2,Sat Aug 24 2024,19:30,FC Südtirol,,US Salernitana 1919
+2,Sat Aug 24 2024,20:30,Brescia Calcio,,AS Cittadella
+2,Sat Aug 24 2024,20:30,US Cremonese,,Carrarese Calcio
+2,Sat Aug 24 2024,20:30,AC Pisa,,Palermo FC
+2,Sat Aug 24 2024,20:30,Sampdoria,,AC Reggiana 1919
+2,Sat Aug 24 2024,20:30,Sassuolo Calcio,,Cesena FC
+2,Sat Aug 24 2024,20:30,Spezia Calcio,,Frosinone Calcio
+2,Sun Aug 25 2024,20:30,Mantova 1911 SSD,,Cosenza Calcio
+2,Sun Aug 25 2024,20:30,US Catanzaro,,SS Juve Stabia
+3,Tue Aug 27 2024,20:30,SSC Bari,,Sassuolo Calcio
+3,Tue Aug 27 2024,20:30,Carrarese Calcio,,FC Südtirol
+3,Tue Aug 27 2024,20:30,AS Cittadella,,AC Pisa
+3,Tue Aug 27 2024,20:30,US Cremonese,,Palermo FC
+3,Tue Aug 27 2024,20:30,Frosinone Calcio,,Modena FC
+3,Tue Aug 27 2024,20:30,AC Reggiana 1919,,Brescia Calcio
+3,Tue Aug 27 2024,20:30,US Salernitana 1919,,Sampdoria
+3,Wed Aug 28 2024,20:30,Cosenza Calcio,,Spezia Calcio
+3,Wed Aug 28 2024,20:30,SS Juve Stabia,,Mantova 1911 SSD
+3,Wed Aug 28 2024,20:30,Cesena FC,,US Catanzaro
+4,Sat Aug 31 2024,18:00,Sampdoria,,SSC Bari
+4,Sat Aug 31 2024,20:30,Modena FC,,AS Cittadella
+4,Sat Aug 31 2024,20:30,AC Pisa,,AC Reggiana 1919
+4,Sat Aug 31 2024,20:30,Sassuolo Calcio,,US Cremonese
+4,Sat Aug 31 2024,20:30,FC Südtirol,,Brescia Calcio
+4,Sun Sep 1 2024,20:30,Frosinone Calcio,,SS Juve Stabia
+4,Sun Sep 1 2024,20:30,Mantova 1911 SSD,,US Salernitana 1919
+4,Sun Sep 1 2024,20:30,Palermo FC,,Cosenza Calcio
+4,Sun Sep 1 2024,20:30,Spezia Calcio,,Cesena FC
+4,Sun Sep 1 2024,20:30,US Catanzaro,,Carrarese Calcio
+5,Sat Sep 14 2024,,SSC Bari,,Mantova 1911 SSD
+5,Sat Sep 14 2024,,Brescia Calcio,,Frosinone Calcio
+5,Sat Sep 14 2024,,Carrarese Calcio,,Sassuolo Calcio
+5,Sat Sep 14 2024,,Cesena FC,,Modena FC
+5,Sat Sep 14 2024,,AS Cittadella,,US Catanzaro
+5,Sat Sep 14 2024,,Cosenza Calcio,,Sampdoria
+5,Sat Sep 14 2024,,US Cremonese,,Spezia Calcio
+5,Sat Sep 14 2024,,SS Juve Stabia,,Palermo FC
+5,Sat Sep 14 2024,,AC Reggiana 1919,,FC Südtirol
+5,Sat Sep 14 2024,,US Salernitana 1919,,AC Pisa
+6,Sat Sep 21 2024,,US Catanzaro,,US Cremonese
+6,Sat Sep 21 2024,,Cosenza Calcio,,Sassuolo Calcio
+6,Sat Sep 21 2024,,Frosinone Calcio,,SSC Bari
+6,Sat Sep 21 2024,,Mantova 1911 SSD,,AS Cittadella
+6,Sat Sep 21 2024,,Modena FC,,SS Juve Stabia
+6,Sat Sep 21 2024,,Palermo FC,,Cesena FC
+6,Sat Sep 21 2024,,AC Pisa,,Brescia Calcio
+6,Sat Sep 21 2024,,AC Reggiana 1919,,US Salernitana 1919
+6,Sat Sep 21 2024,,Sampdoria,,FC Südtirol
+6,Sat Sep 21 2024,,Spezia Calcio,,Carrarese Calcio
+7,Sat Sep 28 2024,,SSC Bari,,Cosenza Calcio
+7,Sat Sep 28 2024,,Brescia Calcio,,US Cremonese
+7,Sat Sep 28 2024,,Carrarese Calcio,,AC Reggiana 1919
+7,Sat Sep 28 2024,,Cesena FC,,Mantova 1911 SSD
+7,Sat Sep 28 2024,,AS Cittadella,,Frosinone Calcio
+7,Sat Sep 28 2024,,SS Juve Stabia,,AC Pisa
+7,Sat Sep 28 2024,,Modena FC,,Sampdoria
+7,Sat Sep 28 2024,,US Salernitana 1919,,US Catanzaro
+7,Sat Sep 28 2024,,Sassuolo Calcio,,Spezia Calcio
+7,Sat Sep 28 2024,,FC Südtirol,,Palermo FC
+8,Sat Oct 5 2024,,US Catanzaro,,Modena FC
+8,Sat Oct 5 2024,,Cosenza Calcio,,FC Südtirol
+8,Sat Oct 5 2024,,US Cremonese,,SSC Bari
+8,Sat Oct 5 2024,,Frosinone Calcio,,Carrarese Calcio
+8,Sat Oct 5 2024,,Mantova 1911 SSD,,Brescia Calcio
+8,Sat Oct 5 2024,,Palermo FC,,US Salernitana 1919
+8,Sat Oct 5 2024,,AC Pisa,,Cesena FC
+8,Sat Oct 5 2024,,Sampdoria,,SS Juve Stabia
+8,Sat Oct 5 2024,,Sassuolo Calcio,,AS Cittadella
+8,Sat Oct 5 2024,,Spezia Calcio,,AC Reggiana 1919
+9,Sat Oct 19 2024,,SSC Bari,,US Catanzaro
+9,Sat Oct 19 2024,,Brescia Calcio,,Sassuolo Calcio
+9,Sat Oct 19 2024,,Carrarese Calcio,,Mantova 1911 SSD
+9,Sat Oct 19 2024,,Cesena FC,,Sampdoria
+9,Sat Oct 19 2024,,AS Cittadella,,Cosenza Calcio
+9,Sat Oct 19 2024,,SS Juve Stabia,,US Cremonese
+9,Sat Oct 19 2024,,Modena FC,,Palermo FC
+9,Sat Oct 19 2024,,AC Reggiana 1919,,Frosinone Calcio
+9,Sat Oct 19 2024,,US Salernitana 1919,,Spezia Calcio
+9,Sat Oct 19 2024,,FC Südtirol,,AC Pisa
+10,Sat Oct 26 2024,,Carrarese Calcio,,AS Cittadella
+10,Sat Oct 26 2024,,US Catanzaro,,FC Südtirol
+10,Sat Oct 26 2024,,Cesena FC,,Brescia Calcio
+10,Sat Oct 26 2024,,Cosenza Calcio,,SS Juve Stabia
+10,Sat Oct 26 2024,,US Cremonese,,US Salernitana 1919
+10,Sat Oct 26 2024,,Frosinone Calcio,,AC Pisa
+10,Sat Oct 26 2024,,Palermo FC,,AC Reggiana 1919
+10,Sat Oct 26 2024,,Sampdoria,,Mantova 1911 SSD
+10,Sat Oct 26 2024,,Sassuolo Calcio,,Modena FC
+10,Sat Oct 26 2024,,Spezia Calcio,,SSC Bari
+11,Tue Oct 29 2024,,SSC Bari,,Carrarese Calcio
+11,Tue Oct 29 2024,,Brescia Calcio,,Spezia Calcio
+11,Tue Oct 29 2024,,AS Cittadella,,Sampdoria
+11,Tue Oct 29 2024,,SS Juve Stabia,,Sassuolo Calcio
+11,Tue Oct 29 2024,,Mantova 1911 SSD,,Palermo FC
+11,Tue Oct 29 2024,,Modena FC,,US Cremonese
+11,Tue Oct 29 2024,,AC Pisa,,US Catanzaro
+11,Tue Oct 29 2024,,AC Reggiana 1919,,Cosenza Calcio
+11,Tue Oct 29 2024,,US Salernitana 1919,,Cesena FC
+11,Tue Oct 29 2024,,FC Südtirol,,Frosinone Calcio
+12,Sat Nov 2 2024,,SSC Bari,,AC Reggiana 1919
+12,Sat Nov 2 2024,,Carrarese Calcio,,SS Juve Stabia
+12,Sat Nov 2 2024,,US Catanzaro,,Frosinone Calcio
+12,Sat Nov 2 2024,,Cesena FC,,FC Südtirol
+12,Sat Nov 2 2024,,Cosenza Calcio,,US Salernitana 1919
+12,Sat Nov 2 2024,,US Cremonese,,AC Pisa
+12,Sat Nov 2 2024,,Palermo FC,,AS Cittadella
+12,Sat Nov 2 2024,,Sampdoria,,Brescia Calcio
+12,Sat Nov 2 2024,,Sassuolo Calcio,,Mantova 1911 SSD
+12,Sat Nov 2 2024,,Spezia Calcio,,Modena FC
+13,Sat Nov 9 2024,,Brescia Calcio,,Cosenza Calcio
+13,Sat Nov 9 2024,,AS Cittadella,,Cesena FC
+13,Sat Nov 9 2024,,Frosinone Calcio,,Palermo FC
+13,Sat Nov 9 2024,,SS Juve Stabia,,Spezia Calcio
+13,Sat Nov 9 2024,,Mantova 1911 SSD,,US Cremonese
+13,Sat Nov 9 2024,,Modena FC,,Carrarese Calcio
+13,Sat Nov 9 2024,,AC Pisa,,Sampdoria
+13,Sat Nov 9 2024,,AC Reggiana 1919,,US Catanzaro
+13,Sat Nov 9 2024,,US Salernitana 1919,,SSC Bari
+13,Sat Nov 9 2024,,FC Südtirol,,Sassuolo Calcio
+14,Sat Nov 23 2024,,SSC Bari,,AS Cittadella
+14,Sat Nov 23 2024,,Carrarese Calcio,,AC Pisa
+14,Sat Nov 23 2024,,US Catanzaro,,Mantova 1911 SSD
+14,Sat Nov 23 2024,,Cesena FC,,AC Reggiana 1919
+14,Sat Nov 23 2024,,Cosenza Calcio,,Modena FC
+14,Sat Nov 23 2024,,US Cremonese,,Frosinone Calcio
+14,Sat Nov 23 2024,,SS Juve Stabia,,Brescia Calcio
+14,Sat Nov 23 2024,,Palermo FC,,Sampdoria
+14,Sat Nov 23 2024,,Sassuolo Calcio,,US Salernitana 1919
+14,Sat Nov 23 2024,,Spezia Calcio,,FC Südtirol
+15,Sat Nov 30 2024,,Brescia Calcio,,SSC Bari
+15,Sat Nov 30 2024,,AS Cittadella,,SS Juve Stabia
+15,Sat Nov 30 2024,,Frosinone Calcio,,Cesena FC
+15,Sat Nov 30 2024,,Mantova 1911 SSD,,Modena FC
+15,Sat Nov 30 2024,,Palermo FC,,Spezia Calcio
+15,Sat Nov 30 2024,,AC Pisa,,Cosenza Calcio
+15,Sat Nov 30 2024,,AC Reggiana 1919,,Sassuolo Calcio
+15,Sat Nov 30 2024,,US Salernitana 1919,,Carrarese Calcio
+15,Sat Nov 30 2024,,Sampdoria,,US Catanzaro
+15,Sat Nov 30 2024,,FC Südtirol,,US Cremonese
+16,Sat Dec 7 2024,,SSC Bari,,Cesena FC
+16,Sat Dec 7 2024,,Carrarese Calcio,,Palermo FC
+16,Sat Dec 7 2024,,US Catanzaro,,Brescia Calcio
+16,Sat Dec 7 2024,,Cosenza Calcio,,Frosinone Calcio
+16,Sat Dec 7 2024,,US Cremonese,,AC Reggiana 1919
+16,Sat Dec 7 2024,,SS Juve Stabia,,FC Südtirol
+16,Sat Dec 7 2024,,Mantova 1911 SSD,,AC Pisa
+16,Sat Dec 7 2024,,Modena FC,,US Salernitana 1919
+16,Sat Dec 7 2024,,Sassuolo Calcio,,Sampdoria
+16,Sat Dec 7 2024,,Spezia Calcio,,AS Cittadella
+17,Sat Dec 14 2024,,Brescia Calcio,,Carrarese Calcio
+17,Sat Dec 14 2024,,Cesena FC,,Cosenza Calcio
+17,Sat Dec 14 2024,,AS Cittadella,,US Cremonese
+17,Sat Dec 14 2024,,Frosinone Calcio,,Sassuolo Calcio
+17,Sat Dec 14 2024,,Palermo FC,,US Catanzaro
+17,Sat Dec 14 2024,,AC Pisa,,SSC Bari
+17,Sat Dec 14 2024,,AC Reggiana 1919,,Modena FC
+17,Sat Dec 14 2024,,US Salernitana 1919,,SS Juve Stabia
+17,Sat Dec 14 2024,,Sampdoria,,Spezia Calcio
+17,Sat Dec 14 2024,,FC Südtirol,,Mantova 1911 SSD
+18,Sat Dec 21 2024,,SSC Bari,,FC Südtirol
+18,Sat Dec 21 2024,,Carrarese Calcio,,Cosenza Calcio
+18,Sat Dec 21 2024,,US Catanzaro,,Spezia Calcio
+18,Sat Dec 21 2024,,AS Cittadella,,AC Reggiana 1919
+18,Sat Dec 21 2024,,US Cremonese,,Sampdoria
+18,Sat Dec 21 2024,,SS Juve Stabia,,Cesena FC
+18,Sat Dec 21 2024,,Mantova 1911 SSD,,Frosinone Calcio
+18,Sat Dec 21 2024,,Modena FC,,AC Pisa
+18,Sat Dec 21 2024,,US Salernitana 1919,,Brescia Calcio
+18,Sat Dec 21 2024,,Sassuolo Calcio,,Palermo FC
+19,Thu Dec 26 2024,,Brescia Calcio,,Modena FC
+19,Thu Dec 26 2024,,Cesena FC,,US Cremonese
+19,Thu Dec 26 2024,,Cosenza Calcio,,US Catanzaro
+19,Thu Dec 26 2024,,Frosinone Calcio,,US Salernitana 1919
+19,Thu Dec 26 2024,,Palermo FC,,SSC Bari
+19,Thu Dec 26 2024,,AC Pisa,,Sassuolo Calcio
+19,Thu Dec 26 2024,,AC Reggiana 1919,,SS Juve Stabia
+19,Thu Dec 26 2024,,Sampdoria,,Carrarese Calcio
+19,Thu Dec 26 2024,,Spezia Calcio,,Mantova 1911 SSD
+19,Thu Dec 26 2024,,FC Südtirol,,AS Cittadella
+20,Sun Dec 29 2024,,SSC Bari,,Spezia Calcio
+20,Sun Dec 29 2024,,Carrarese Calcio,,Cesena FC
+20,Sun Dec 29 2024,,US Catanzaro,,US Salernitana 1919
+20,Sun Dec 29 2024,,AS Cittadella,,Palermo FC
+20,Sun Dec 29 2024,,US Cremonese,,Brescia Calcio
+20,Sun Dec 29 2024,,SS Juve Stabia,,Frosinone Calcio
+20,Sun Dec 29 2024,,Mantova 1911 SSD,,AC Reggiana 1919
+20,Sun Dec 29 2024,,Modena FC,,FC Südtirol
+20,Sun Dec 29 2024,,Sampdoria,,AC Pisa
+20,Sun Dec 29 2024,,Sassuolo Calcio,,Cosenza Calcio
+21,Sun Jan 12 2025,,Brescia Calcio,,Sampdoria
+21,Sun Jan 12 2025,,Cesena FC,,AS Cittadella
+21,Sun Jan 12 2025,,Cosenza Calcio,,Mantova 1911 SSD
+21,Sun Jan 12 2025,,Frosinone Calcio,,US Cremonese
+21,Sun Jan 12 2025,,Palermo FC,,Modena FC
+21,Sun Jan 12 2025,,AC Pisa,,Carrarese Calcio
+21,Sun Jan 12 2025,,AC Reggiana 1919,,SSC Bari
+21,Sun Jan 12 2025,,US Salernitana 1919,,Sassuolo Calcio
+21,Sun Jan 12 2025,,Spezia Calcio,,SS Juve Stabia
+21,Sun Jan 12 2025,,FC Südtirol,,US Catanzaro
+22,Sat Jan 18 2025,,SSC Bari,,Brescia Calcio
+22,Sat Jan 18 2025,,Carrarese Calcio,,Spezia Calcio
+22,Sat Jan 18 2025,,US Catanzaro,,AC Pisa
+22,Sat Jan 18 2025,,AS Cittadella,,Mantova 1911 SSD
+22,Sat Jan 18 2025,,US Cremonese,,Cosenza Calcio
+22,Sat Jan 18 2025,,Modena FC,,Frosinone Calcio
+22,Sat Jan 18 2025,,Palermo FC,,SS Juve Stabia
+22,Sat Jan 18 2025,,US Salernitana 1919,,AC Reggiana 1919
+22,Sat Jan 18 2025,,Sampdoria,,Cesena FC
+22,Sat Jan 18 2025,,Sassuolo Calcio,,FC Südtirol
+23,Sat Jan 25 2025,,Brescia Calcio,,US Catanzaro
+23,Sat Jan 25 2025,,Cesena FC,,SSC Bari
+23,Sat Jan 25 2025,,Cosenza Calcio,,AS Cittadella
+23,Sat Jan 25 2025,,US Cremonese,,Modena FC
+23,Sat Jan 25 2025,,Frosinone Calcio,,FC Südtirol
+23,Sat Jan 25 2025,,SS Juve Stabia,,Carrarese Calcio
+23,Sat Jan 25 2025,,Mantova 1911 SSD,,Sampdoria
+23,Sat Jan 25 2025,,AC Pisa,,US Salernitana 1919
+23,Sat Jan 25 2025,,AC Reggiana 1919,,Palermo FC
+23,Sat Jan 25 2025,,Spezia Calcio,,Sassuolo Calcio
+24,Sat Feb 1 2025,,SSC Bari,,Frosinone Calcio
+24,Sat Feb 1 2025,,Carrarese Calcio,,Brescia Calcio
+24,Sat Feb 1 2025,,US Catanzaro,,Cesena FC
+24,Sat Feb 1 2025,,AS Cittadella,,Spezia Calcio
+24,Sat Feb 1 2025,,Modena FC,,Mantova 1911 SSD
+24,Sat Feb 1 2025,,Palermo FC,,AC Pisa
+24,Sat Feb 1 2025,,US Salernitana 1919,,US Cremonese
+24,Sat Feb 1 2025,,Sampdoria,,Cosenza Calcio
+24,Sat Feb 1 2025,,Sassuolo Calcio,,SS Juve Stabia
+24,Sat Feb 1 2025,,FC Südtirol,,AC Reggiana 1919
+25,Sat Feb 8 2025,,Brescia Calcio,,US Salernitana 1919
+25,Sat Feb 8 2025,,Cosenza Calcio,,Carrarese Calcio
+25,Sat Feb 8 2025,,US Cremonese,,FC Südtirol
+25,Sat Feb 8 2025,,Frosinone Calcio,,US Catanzaro
+25,Sat Feb 8 2025,,SS Juve Stabia,,SSC Bari
+25,Sat Feb 8 2025,,Mantova 1911 SSD,,Sassuolo Calcio
+25,Sat Feb 8 2025,,AC Pisa,,AS Cittadella
+25,Sat Feb 8 2025,,AC Reggiana 1919,,Cesena FC
+25,Sat Feb 8 2025,,Sampdoria,,Modena FC
+25,Sat Feb 8 2025,,Spezia Calcio,,Palermo FC
+26,Sat Feb 15 2025,,SSC Bari,,US Cremonese
+26,Sat Feb 15 2025,,Carrarese Calcio,,US Salernitana 1919
+26,Sat Feb 15 2025,,US Catanzaro,,AS Cittadella
+26,Sat Feb 15 2025,,Cesena FC,,AC Pisa
+26,Sat Feb 15 2025,,Frosinone Calcio,,AC Reggiana 1919
+26,Sat Feb 15 2025,,SS Juve Stabia,,Cosenza Calcio
+26,Sat Feb 15 2025,,Modena FC,,Spezia Calcio
+26,Sat Feb 15 2025,,Palermo FC,,Mantova 1911 SSD
+26,Sat Feb 15 2025,,Sassuolo Calcio,,Brescia Calcio
+26,Sat Feb 15 2025,,FC Südtirol,,Sampdoria
+27,Sat Feb 22 2025,,Brescia Calcio,,FC Südtirol
+27,Sat Feb 22 2025,,AS Cittadella,,Modena FC
+27,Sat Feb 22 2025,,Cosenza Calcio,,Palermo FC
+27,Sat Feb 22 2025,,US Cremonese,,Cesena FC
+27,Sat Feb 22 2025,,Mantova 1911 SSD,,SSC Bari
+27,Sat Feb 22 2025,,AC Pisa,,SS Juve Stabia
+27,Sat Feb 22 2025,,AC Reggiana 1919,,Carrarese Calcio
+27,Sat Feb 22 2025,,US Salernitana 1919,,Frosinone Calcio
+27,Sat Feb 22 2025,,Sampdoria,,Sassuolo Calcio
+27,Sat Feb 22 2025,,Spezia Calcio,,US Catanzaro
+28,Sat Mar 1 2025,,SSC Bari,,Sampdoria
+28,Sat Mar 1 2025,,Carrarese Calcio,,US Cremonese
+28,Sat Mar 1 2025,,US Catanzaro,,AC Reggiana 1919
+28,Sat Mar 1 2025,,Cesena FC,,US Salernitana 1919
+28,Sat Mar 1 2025,,Frosinone Calcio,,Mantova 1911 SSD
+28,Sat Mar 1 2025,,SS Juve Stabia,,AS Cittadella
+28,Sat Mar 1 2025,,Modena FC,,Cosenza Calcio
+28,Sat Mar 1 2025,,Palermo FC,,Brescia Calcio
+28,Sat Mar 1 2025,,Sassuolo Calcio,,AC Pisa
+28,Sat Mar 1 2025,,FC Südtirol,,Spezia Calcio
+29,Sat Mar 8 2025,,Brescia Calcio,,Cesena FC
+29,Sat Mar 8 2025,,Carrarese Calcio,,Frosinone Calcio
+29,Sat Mar 8 2025,,AS Cittadella,,FC Südtirol
+29,Sat Mar 8 2025,,Cosenza Calcio,,AC Reggiana 1919
+29,Sat Mar 8 2025,,US Cremonese,,US Catanzaro
+29,Sat Mar 8 2025,,Mantova 1911 SSD,,SS Juve Stabia
+29,Sat Mar 8 2025,,US Salernitana 1919,,Modena FC
+29,Sat Mar 8 2025,,Sampdoria,,Palermo FC
+29,Sat Mar 8 2025,,Sassuolo Calcio,,SSC Bari
+29,Sat Mar 8 2025,,Spezia Calcio,,AC Pisa
+30,Sat Mar 15 2025,,SSC Bari,,US Salernitana 1919
+30,Sat Mar 15 2025,,US Catanzaro,,Cosenza Calcio
+30,Sat Mar 15 2025,,Cesena FC,,Spezia Calcio
+30,Sat Mar 15 2025,,AS Cittadella,,Sassuolo Calcio
+30,Sat Mar 15 2025,,Frosinone Calcio,,Brescia Calcio
+30,Sat Mar 15 2025,,SS Juve Stabia,,Modena FC
+30,Sat Mar 15 2025,,Palermo FC,,US Cremonese
+30,Sat Mar 15 2025,,AC Pisa,,Mantova 1911 SSD
+30,Sat Mar 15 2025,,AC Reggiana 1919,,Sampdoria
+30,Sat Mar 15 2025,,FC Südtirol,,Carrarese Calcio
+31,Sat Mar 29 2025,,Carrarese Calcio,,SSC Bari
+31,Sat Mar 29 2025,,Cesena FC,,SS Juve Stabia
+31,Sat Mar 29 2025,,Cosenza Calcio,,AC Pisa
+31,Sat Mar 29 2025,,US Cremonese,,AS Cittadella
+31,Sat Mar 29 2025,,Mantova 1911 SSD,,FC Südtirol
+31,Sat Mar 29 2025,,Modena FC,,US Catanzaro
+31,Sat Mar 29 2025,,US Salernitana 1919,,Palermo FC
+31,Sat Mar 29 2025,,Sampdoria,,Frosinone Calcio
+31,Sat Mar 29 2025,,Sassuolo Calcio,,AC Reggiana 1919
+31,Sat Mar 29 2025,,Spezia Calcio,,Brescia Calcio
+32,Sat Apr 5 2025,,Brescia Calcio,,Mantova 1911 SSD
+32,Sat Apr 5 2025,,US Catanzaro,,SSC Bari
+32,Sat Apr 5 2025,,AS Cittadella,,Carrarese Calcio
+32,Sat Apr 5 2025,,Frosinone Calcio,,Cosenza Calcio
+32,Sat Apr 5 2025,,SS Juve Stabia,,US Salernitana 1919
+32,Sat Apr 5 2025,,Palermo FC,,Sassuolo Calcio
+32,Sat Apr 5 2025,,AC Pisa,,Modena FC
+32,Sat Apr 5 2025,,AC Reggiana 1919,,US Cremonese
+32,Sat Apr 5 2025,,Spezia Calcio,,Sampdoria
+32,Sat Apr 5 2025,,FC Südtirol,,Cesena FC
+33,Sat Apr 12 2025,,SSC Bari,,Palermo FC
+33,Sat Apr 12 2025,,Carrarese Calcio,,US Catanzaro
+33,Sat Apr 12 2025,,Cesena FC,,Frosinone Calcio
+33,Sat Apr 12 2025,,Cosenza Calcio,,Brescia Calcio
+33,Sat Apr 12 2025,,US Cremonese,,SS Juve Stabia
+33,Sat Apr 12 2025,,Mantova 1911 SSD,,Spezia Calcio
+33,Sat Apr 12 2025,,Modena FC,,Sassuolo Calcio
+33,Sat Apr 12 2025,,AC Reggiana 1919,,AC Pisa
+33,Sat Apr 12 2025,,US Salernitana 1919,,FC Südtirol
+33,Sat Apr 12 2025,,Sampdoria,,AS Cittadella
+34,Mon Apr 21 2025,,Brescia Calcio,,AC Reggiana 1919
+34,Mon Apr 21 2025,,AS Cittadella,,US Salernitana 1919
+34,Mon Apr 21 2025,,SS Juve Stabia,,Sampdoria
+34,Mon Apr 21 2025,,Mantova 1911 SSD,,US Catanzaro
+34,Mon Apr 21 2025,,Modena FC,,Cesena FC
+34,Mon Apr 21 2025,,Palermo FC,,Carrarese Calcio
+34,Mon Apr 21 2025,,AC Pisa,,US Cremonese
+34,Mon Apr 21 2025,,Sassuolo Calcio,,Frosinone Calcio
+34,Mon Apr 21 2025,,Spezia Calcio,,Cosenza Calcio
+34,Mon Apr 21 2025,,FC Südtirol,,SSC Bari
+35,Fri Apr 25 2025,,SSC Bari,,Modena FC
+35,Fri Apr 25 2025,,Brescia Calcio,,AC Pisa
+35,Fri Apr 25 2025,,Carrarese Calcio,,Sampdoria
+35,Fri Apr 25 2025,,US Catanzaro,,Palermo FC
+35,Fri Apr 25 2025,,Cesena FC,,Sassuolo Calcio
+35,Fri Apr 25 2025,,US Cremonese,,Mantova 1911 SSD
+35,Fri Apr 25 2025,,Frosinone Calcio,,Spezia Calcio
+35,Fri Apr 25 2025,,AC Reggiana 1919,,AS Cittadella
+35,Fri Apr 25 2025,,US Salernitana 1919,,Cosenza Calcio
+35,Fri Apr 25 2025,,FC Südtirol,,SS Juve Stabia
+36,Thu May 1 2025,,AS Cittadella,,Brescia Calcio
+36,Thu May 1 2025,,Cosenza Calcio,,SSC Bari
+36,Thu May 1 2025,,SS Juve Stabia,,US Catanzaro
+36,Thu May 1 2025,,Mantova 1911 SSD,,Cesena FC
+36,Thu May 1 2025,,Modena FC,,AC Reggiana 1919
+36,Thu May 1 2025,,Palermo FC,,FC Südtirol
+36,Thu May 1 2025,,AC Pisa,,Frosinone Calcio
+36,Thu May 1 2025,,Sampdoria,,US Cremonese
+36,Thu May 1 2025,,Sassuolo Calcio,,Carrarese Calcio
+36,Thu May 1 2025,,Spezia Calcio,,US Salernitana 1919
+37,Sun May 4 2025,,SSC Bari,,AC Pisa
+37,Sun May 4 2025,,Brescia Calcio,,SS Juve Stabia
+37,Sun May 4 2025,,Carrarese Calcio,,Modena FC
+37,Sun May 4 2025,,US Catanzaro,,Sampdoria
+37,Sun May 4 2025,,Cesena FC,,Palermo FC
+37,Sun May 4 2025,,US Cremonese,,Sassuolo Calcio
+37,Sun May 4 2025,,Frosinone Calcio,,AS Cittadella
+37,Sun May 4 2025,,AC Reggiana 1919,,Spezia Calcio
+37,Sun May 4 2025,,US Salernitana 1919,,Mantova 1911 SSD
+37,Sun May 4 2025,,FC Südtirol,,Cosenza Calcio
+38,Fri May 9 2025,,AS Cittadella,,SSC Bari
+38,Fri May 9 2025,,Cosenza Calcio,,Cesena FC
+38,Fri May 9 2025,,SS Juve Stabia,,AC Reggiana 1919
+38,Fri May 9 2025,,Mantova 1911 SSD,,Carrarese Calcio
+38,Fri May 9 2025,,Modena FC,,Brescia Calcio
+38,Fri May 9 2025,,Palermo FC,,Frosinone Calcio
+38,Fri May 9 2025,,AC Pisa,,FC Südtirol
+38,Fri May 9 2025,,Sampdoria,,US Salernitana 1919
+38,Fri May 9 2025,,Sassuolo Calcio,,US Catanzaro
+38,Fri May 9 2025,,Spezia Calcio,,US Cremonese

@@ -1,0 +1,553 @@
+Round,Date,Time,Team 1,FT,Team 2
+1,Fri Aug 9 2024,20:00,Preston North End,,Sheffield United
+1,Fri Aug 9 2024,20:00,Blackburn Rovers,,Derby County
+1,Sat Aug 10 2024,12:30,Cardiff City,,Sunderland AFC
+1,Sat Aug 10 2024,12:30,Hull City,,Bristol City
+1,Sat Aug 10 2024,12:30,Leeds United,,Portsmouth FC
+1,Sat Aug 10 2024,12:30,Middlesbrough FC,,Swansea City
+1,Sat Aug 10 2024,12:30,Millwall FC,,Watford FC
+1,Sat Aug 10 2024,12:30,Oxford United,,Norwich City
+1,Sat Aug 10 2024,12:30,Queens Park Rangers,,West Bromwich Albion
+1,Sat Aug 10 2024,12:30,Stoke City,,Coventry City
+1,Sun Aug 11 2024,16:00,Sheffield Wednesday,,Plymouth Argyle
+1,Mon Aug 12 2024,20:00,Luton Town,,Burnley FC
+2,Fri Aug 16 2024,20:00,Coventry City,,Oxford United
+2,Sat Aug 17 2024,12:30,Derby County,,Middlesbrough FC
+2,Sat Aug 17 2024,12:30,Portsmouth FC,,Luton Town
+2,Sat Aug 17 2024,12:30,West Bromwich Albion,,Leeds United
+2,Sat Aug 17 2024,15:00,Bristol City,,Millwall FC
+2,Sat Aug 17 2024,15:00,Burnley FC,,Cardiff City
+2,Sat Aug 17 2024,15:00,Norwich City,,Blackburn Rovers
+2,Sat Aug 17 2024,15:00,Plymouth Argyle,,Hull City
+2,Sat Aug 17 2024,15:00,Sheffield United,,Queens Park Rangers
+2,Sat Aug 17 2024,15:00,Swansea City,,Preston North End
+2,Sat Aug 17 2024,15:00,Watford FC,,Stoke City
+2,Sun Aug 18 2024,12:00,Sunderland AFC,,Sheffield Wednesday
+3,Fri Aug 23 2024,20:00,Sheffield Wednesday,,Leeds United
+3,Sat Aug 24 2024,12:30,Bristol City,,Coventry City
+3,Sat Aug 24 2024,12:30,Hull City,,Millwall FC
+3,Sat Aug 24 2024,12:30,Queens Park Rangers,,Plymouth Argyle
+3,Sat Aug 24 2024,15:00,Blackburn Rovers,,Oxford United
+3,Sat Aug 24 2024,15:00,Middlesbrough FC,,Portsmouth FC
+3,Sat Aug 24 2024,15:00,Norwich City,,Sheffield United
+3,Sat Aug 24 2024,15:00,Preston North End,,Luton Town
+3,Sat Aug 24 2024,15:00,Stoke City,,West Bromwich Albion
+3,Sat Aug 24 2024,15:00,Sunderland AFC,,Burnley FC
+3,Sat Aug 24 2024,15:00,Watford FC,,Derby County
+3,Sun Aug 25 2024,15:00,Swansea City,,Cardiff City
+4,Fri Aug 30 2024,20:00,Luton Town,,Queens Park Rangers
+4,Sat Aug 31 2024,12:30,Burnley FC,,Blackburn Rovers
+4,Sat Aug 31 2024,12:30,Cardiff City,,Middlesbrough FC
+4,Sat Aug 31 2024,12:30,Coventry City,,Norwich City
+4,Sat Aug 31 2024,15:00,Derby County,,Bristol City
+4,Sat Aug 31 2024,15:00,Leeds United,,Hull City
+4,Sat Aug 31 2024,15:00,Millwall FC,,Sheffield Wednesday
+4,Sat Aug 31 2024,15:00,Oxford United,,Preston North End
+4,Sat Aug 31 2024,15:00,Plymouth Argyle,,Stoke City
+4,Sat Aug 31 2024,15:00,Portsmouth FC,,Sunderland AFC
+4,Sat Aug 31 2024,15:00,West Bromwich Albion,,Swansea City
+4,Sun Sep 1 2024,15:00,Sheffield United,,Watford FC
+5,Fri Sep 13 2024,20:00,Hull City,,Sheffield United
+5,Sat Sep 14 2024,12:30,Leeds United,,Burnley FC
+5,Sat Sep 14 2024,12:30,Millwall FC,,Luton Town
+5,Sat Sep 14 2024,12:30,Oxford United,,Stoke City
+5,Sat Sep 14 2024,15:00,Blackburn Rovers,,Bristol City
+5,Sat Sep 14 2024,15:00,Derby County,,Cardiff City
+5,Sat Sep 14 2024,15:00,Middlesbrough FC,,Preston North End
+5,Sat Sep 14 2024,15:00,Plymouth Argyle,,Sunderland AFC
+5,Sat Sep 14 2024,15:00,Sheffield Wednesday,,Queens Park Rangers
+5,Sat Sep 14 2024,15:00,Swansea City,,Norwich City
+5,Sat Sep 14 2024,15:00,Watford FC,,Coventry City
+5,Sun Sep 15 2024,15:00,Portsmouth FC,,West Bromwich Albion
+6,Fri Sep 20 2024,20:00,Stoke City,,Hull City
+6,Sat Sep 21 2024,12:30,Norwich City,,Watford FC
+6,Sat Sep 21 2024,12:30,Queens Park Rangers,,Millwall FC
+6,Sat Sep 21 2024,12:30,Sunderland AFC,,Middlesbrough FC
+6,Sat Sep 21 2024,15:00,Bristol City,,Oxford United
+6,Sat Sep 21 2024,15:00,Burnley FC,,Portsmouth FC
+6,Sat Sep 21 2024,15:00,Cardiff City,,Leeds United
+6,Sat Sep 21 2024,15:00,Coventry City,,Swansea City
+6,Sat Sep 21 2024,15:00,Luton Town,,Sheffield Wednesday
+6,Sat Sep 21 2024,15:00,Sheffield United,,Derby County
+6,Sat Sep 21 2024,15:00,West Bromwich Albion,,Plymouth Argyle
+6,Sun Sep 22 2024,12:00,Preston North End,,Blackburn Rovers
+7,Fri Sep 27 2024,20:00,Plymouth Argyle,,Luton Town
+7,Sat Sep 28 2024,12:30,Blackburn Rovers,,Queens Park Rangers
+7,Sat Sep 28 2024,12:30,Derby County,,Norwich City
+7,Sat Sep 28 2024,12:30,Sheffield Wednesday,,West Bromwich Albion
+7,Sat Sep 28 2024,15:00,Hull City,,Cardiff City
+7,Sat Sep 28 2024,15:00,Leeds United,,Coventry City
+7,Sat Sep 28 2024,15:00,Middlesbrough FC,,Stoke City
+7,Sat Sep 28 2024,15:00,Millwall FC,,Preston North End
+7,Sat Sep 28 2024,15:00,Oxford United,,Burnley FC
+7,Sat Sep 28 2024,15:00,Portsmouth FC,,Sheffield United
+7,Sat Sep 28 2024,15:00,Watford FC,,Sunderland AFC
+7,Sun Sep 29 2024,15:00,Swansea City,,Bristol City
+8,Tue Oct 1 2024,19:45,Burnley FC,,Plymouth Argyle
+8,Tue Oct 1 2024,19:45,Cardiff City,,Millwall FC
+8,Tue Oct 1 2024,19:45,Coventry City,,Blackburn Rovers
+8,Tue Oct 1 2024,19:45,Luton Town,,Oxford United
+8,Tue Oct 1 2024,19:45,Queens Park Rangers,,Hull City
+8,Tue Oct 1 2024,19:45,Sheffield United,,Swansea City
+8,Tue Oct 1 2024,19:45,Sunderland AFC,,Derby County
+8,Tue Oct 1 2024,19:45,West Bromwich Albion,,Middlesbrough FC
+8,Wed Oct 2 2024,19:45,Norwich City,,Leeds United
+8,Wed Oct 2 2024,19:45,Preston North End,,Watford FC
+8,Wed Oct 2 2024,19:45,Stoke City,,Portsmouth FC
+8,Wed Oct 2 2024,19:45,Bristol City,,Sheffield Wednesday
+9,Sat Oct 5 2024,15:00,Bristol City,,Cardiff City
+9,Sat Oct 5 2024,15:00,Burnley FC,,Preston North End
+9,Sat Oct 5 2024,15:00,Coventry City,,Sheffield Wednesday
+9,Sat Oct 5 2024,15:00,Derby County,,Queens Park Rangers
+9,Sat Oct 5 2024,15:00,Norwich City,,Hull City
+9,Sat Oct 5 2024,15:00,Plymouth Argyle,,Blackburn Rovers
+9,Sat Oct 5 2024,15:00,Portsmouth FC,,Oxford United
+9,Sat Oct 5 2024,15:00,Sheffield United,,Luton Town
+9,Sat Oct 5 2024,15:00,Sunderland AFC,,Leeds United
+9,Sat Oct 5 2024,15:00,Swansea City,,Stoke City
+9,Sat Oct 5 2024,15:00,Watford FC,,Middlesbrough FC
+9,Sat Oct 5 2024,15:00,West Bromwich Albion,,Millwall FC
+10,Sat Oct 19 2024,15:00,Blackburn Rovers,,Swansea City
+10,Sat Oct 19 2024,15:00,Cardiff City,,Plymouth Argyle
+10,Sat Oct 19 2024,15:00,Hull City,,Sunderland AFC
+10,Sat Oct 19 2024,15:00,Leeds United,,Sheffield United
+10,Sat Oct 19 2024,15:00,Luton Town,,Watford FC
+10,Sat Oct 19 2024,15:00,Middlesbrough FC,,Bristol City
+10,Sat Oct 19 2024,15:00,Millwall FC,,Derby County
+10,Sat Oct 19 2024,15:00,Oxford United,,West Bromwich Albion
+10,Sat Oct 19 2024,15:00,Preston North End,,Coventry City
+10,Sat Oct 19 2024,15:00,Queens Park Rangers,,Portsmouth FC
+10,Sat Oct 19 2024,15:00,Sheffield Wednesday,,Burnley FC
+10,Sat Oct 19 2024,15:00,Stoke City,,Norwich City
+11,Tue Oct 22 2024,19:45,Cardiff City,,Portsmouth FC
+11,Tue Oct 22 2024,19:45,Hull City,,Burnley FC
+11,Tue Oct 22 2024,19:45,Leeds United,,Watford FC
+11,Tue Oct 22 2024,19:45,Oxford United,,Derby County
+11,Tue Oct 22 2024,19:45,Preston North End,,Norwich City
+11,Tue Oct 22 2024,19:45,Queens Park Rangers,,Coventry City
+11,Tue Oct 22 2024,19:45,Sheffield Wednesday,,Swansea City
+11,Tue Oct 22 2024,19:45,Stoke City,,Bristol City
+11,Wed Oct 23 2024,19:45,Luton Town,,Sunderland AFC
+11,Wed Oct 23 2024,19:45,Middlesbrough FC,,Sheffield United
+11,Wed Oct 23 2024,19:45,Millwall FC,,Plymouth Argyle
+11,Wed Oct 23 2024,19:45,Blackburn Rovers,,West Bromwich Albion
+12,Sat Oct 26 2024,15:00,Bristol City,,Leeds United
+12,Sat Oct 26 2024,15:00,Burnley FC,,Queens Park Rangers
+12,Sat Oct 26 2024,15:00,Coventry City,,Luton Town
+12,Sat Oct 26 2024,15:00,Derby County,,Hull City
+12,Sat Oct 26 2024,15:00,Norwich City,,Middlesbrough FC
+12,Sat Oct 26 2024,15:00,Plymouth Argyle,,Preston North End
+12,Sat Oct 26 2024,15:00,Portsmouth FC,,Sheffield Wednesday
+12,Sat Oct 26 2024,15:00,Sheffield United,,Stoke City
+12,Sat Oct 26 2024,15:00,Sunderland AFC,,Oxford United
+12,Sat Oct 26 2024,15:00,Swansea City,,Millwall FC
+12,Sat Oct 26 2024,15:00,Watford FC,,Blackburn Rovers
+12,Sat Oct 26 2024,15:00,West Bromwich Albion,,Cardiff City
+13,Sat Nov 2 2024,15:00,Blackburn Rovers,,Sheffield United
+13,Sat Nov 2 2024,15:00,Cardiff City,,Norwich City
+13,Sat Nov 2 2024,15:00,Hull City,,Portsmouth FC
+13,Sat Nov 2 2024,15:00,Leeds United,,Plymouth Argyle
+13,Sat Nov 2 2024,15:00,Luton Town,,West Bromwich Albion
+13,Sat Nov 2 2024,15:00,Middlesbrough FC,,Coventry City
+13,Sat Nov 2 2024,15:00,Millwall FC,,Burnley FC
+13,Sat Nov 2 2024,15:00,Oxford United,,Swansea City
+13,Sat Nov 2 2024,15:00,Preston North End,,Bristol City
+13,Sat Nov 2 2024,15:00,Queens Park Rangers,,Sunderland AFC
+13,Sat Nov 2 2024,15:00,Sheffield Wednesday,,Watford FC
+13,Sat Nov 2 2024,15:00,Stoke City,,Derby County
+14,Tue Nov 5 2024,19:45,Bristol City,,Sheffield United
+14,Tue Nov 5 2024,19:45,Millwall FC,,Leeds United
+14,Tue Nov 5 2024,19:45,Oxford United,,Hull City
+14,Tue Nov 5 2024,19:45,Plymouth Argyle,,Portsmouth FC
+14,Tue Nov 5 2024,19:45,Queens Park Rangers,,Middlesbrough FC
+14,Tue Nov 5 2024,19:45,Sheffield Wednesday,,Norwich City
+14,Tue Nov 5 2024,19:45,Swansea City,,Watford FC
+14,Tue Nov 5 2024,19:45,West Bromwich Albion,,Burnley FC
+14,Wed Nov 6 2024,19:45,Coventry City,,Derby County
+14,Wed Nov 6 2024,19:45,Luton Town,,Cardiff City
+14,Wed Nov 6 2024,19:45,Preston North End,,Sunderland AFC
+14,Wed Nov 6 2024,19:45,Blackburn Rovers,,Stoke City
+15,Sat Nov 9 2024,15:00,Burnley FC,,Swansea City
+15,Sat Nov 9 2024,15:00,Cardiff City,,Blackburn Rovers
+15,Sat Nov 9 2024,15:00,Derby County,,Plymouth Argyle
+15,Sat Nov 9 2024,15:00,Hull City,,West Bromwich Albion
+15,Sat Nov 9 2024,15:00,Leeds United,,Queens Park Rangers
+15,Sat Nov 9 2024,15:00,Middlesbrough FC,,Luton Town
+15,Sat Nov 9 2024,15:00,Norwich City,,Bristol City
+15,Sat Nov 9 2024,15:00,Portsmouth FC,,Preston North End
+15,Sat Nov 9 2024,15:00,Sheffield United,,Sheffield Wednesday
+15,Sat Nov 9 2024,15:00,Stoke City,,Millwall FC
+15,Sat Nov 9 2024,15:00,Sunderland AFC,,Coventry City
+15,Sat Nov 9 2024,15:00,Watford FC,,Oxford United
+16,Sat Nov 23 2024,15:00,Blackburn Rovers,,Portsmouth FC
+16,Sat Nov 23 2024,15:00,Bristol City,,Burnley FC
+16,Sat Nov 23 2024,15:00,Coventry City,,Sheffield United
+16,Sat Nov 23 2024,15:00,Luton Town,,Hull City
+16,Sat Nov 23 2024,15:00,Millwall FC,,Sunderland AFC
+16,Sat Nov 23 2024,15:00,Oxford United,,Middlesbrough FC
+16,Sat Nov 23 2024,15:00,Plymouth Argyle,,Watford FC
+16,Sat Nov 23 2024,15:00,Preston North End,,Derby County
+16,Sat Nov 23 2024,15:00,Queens Park Rangers,,Stoke City
+16,Sat Nov 23 2024,15:00,Sheffield Wednesday,,Cardiff City
+16,Sat Nov 23 2024,15:00,Swansea City,,Leeds United
+16,Sat Nov 23 2024,15:00,West Bromwich Albion,,Norwich City
+17,Tue Nov 26 2024,19:45,Burnley FC,,Coventry City
+17,Tue Nov 26 2024,19:45,Hull City,,Sheffield Wednesday
+17,Tue Nov 26 2024,19:45,Leeds United,,Luton Town
+17,Tue Nov 26 2024,19:45,Norwich City,,Plymouth Argyle
+17,Tue Nov 26 2024,19:45,Sheffield United,,Oxford United
+17,Tue Nov 26 2024,19:45,Stoke City,,Preston North End
+17,Tue Nov 26 2024,19:45,Sunderland AFC,,West Bromwich Albion
+17,Tue Nov 26 2024,19:45,Watford FC,,Bristol City
+17,Wed Nov 27 2024,19:45,Derby County,,Swansea City
+17,Wed Nov 27 2024,19:45,Middlesbrough FC,,Blackburn Rovers
+17,Wed Nov 27 2024,19:45,Portsmouth FC,,Millwall FC
+17,Wed Nov 27 2024,19:45,Cardiff City,,Queens Park Rangers
+18,Sat Nov 30 2024,15:00,Blackburn Rovers,,Leeds United
+18,Sat Nov 30 2024,15:00,Bristol City,,Plymouth Argyle
+18,Sat Nov 30 2024,15:00,Coventry City,,Cardiff City
+18,Sat Nov 30 2024,15:00,Derby County,,Sheffield Wednesday
+18,Sat Nov 30 2024,15:00,Middlesbrough FC,,Hull City
+18,Sat Nov 30 2024,15:00,Norwich City,,Luton Town
+18,Sat Nov 30 2024,15:00,Oxford United,,Millwall FC
+18,Sat Nov 30 2024,15:00,Preston North End,,West Bromwich Albion
+18,Sat Nov 30 2024,15:00,Sheffield United,,Sunderland AFC
+18,Sat Nov 30 2024,15:00,Stoke City,,Burnley FC
+18,Sat Nov 30 2024,15:00,Swansea City,,Portsmouth FC
+18,Sat Nov 30 2024,15:00,Watford FC,,Queens Park Rangers
+19,Sat Dec 7 2024,15:00,Burnley FC,,Middlesbrough FC
+19,Sat Dec 7 2024,15:00,Cardiff City,,Watford FC
+19,Sat Dec 7 2024,15:00,Hull City,,Blackburn Rovers
+19,Sat Dec 7 2024,15:00,Leeds United,,Derby County
+19,Sat Dec 7 2024,15:00,Luton Town,,Swansea City
+19,Sat Dec 7 2024,15:00,Millwall FC,,Coventry City
+19,Sat Dec 7 2024,15:00,Plymouth Argyle,,Oxford United
+19,Sat Dec 7 2024,15:00,Portsmouth FC,,Bristol City
+19,Sat Dec 7 2024,15:00,Queens Park Rangers,,Norwich City
+19,Sat Dec 7 2024,15:00,Sheffield Wednesday,,Preston North End
+19,Sat Dec 7 2024,15:00,Sunderland AFC,,Stoke City
+19,Sat Dec 7 2024,15:00,West Bromwich Albion,,Sheffield United
+20,Tue Dec 10 2024,19:45,Burnley FC,,Derby County
+20,Tue Dec 10 2024,19:45,Leeds United,,Middlesbrough FC
+20,Tue Dec 10 2024,19:45,Luton Town,,Stoke City
+20,Tue Dec 10 2024,19:45,Millwall FC,,Sheffield United
+20,Tue Dec 10 2024,19:45,Plymouth Argyle,,Swansea City
+20,Tue Dec 10 2024,19:45,Portsmouth FC,,Norwich City
+20,Tue Dec 10 2024,19:45,Sheffield Wednesday,,Blackburn Rovers
+20,Tue Dec 10 2024,19:45,Sunderland AFC,,Bristol City
+20,Wed Dec 11 2024,19:45,Hull City,,Watford FC
+20,Wed Dec 11 2024,19:45,Queens Park Rangers,,Oxford United
+20,Wed Dec 11 2024,19:45,West Bromwich Albion,,Coventry City
+20,Wed Dec 11 2024,19:45,Cardiff City,,Preston North End
+21,Sat Dec 14 2024,15:00,Blackburn Rovers,,Luton Town
+21,Sat Dec 14 2024,15:00,Bristol City,,Queens Park Rangers
+21,Sat Dec 14 2024,15:00,Coventry City,,Hull City
+21,Sat Dec 14 2024,15:00,Derby County,,Portsmouth FC
+21,Sat Dec 14 2024,15:00,Middlesbrough FC,,Millwall FC
+21,Sat Dec 14 2024,15:00,Norwich City,,Burnley FC
+21,Sat Dec 14 2024,15:00,Oxford United,,Sheffield Wednesday
+21,Sat Dec 14 2024,15:00,Preston North End,,Leeds United
+21,Sat Dec 14 2024,15:00,Sheffield United,,Plymouth Argyle
+21,Sat Dec 14 2024,15:00,Stoke City,,Cardiff City
+21,Sat Dec 14 2024,15:00,Swansea City,,Sunderland AFC
+21,Sat Dec 14 2024,15:00,Watford FC,,West Bromwich Albion
+22,Sat Dec 21 2024,15:00,Burnley FC,,Watford FC
+22,Sat Dec 21 2024,15:00,Cardiff City,,Sheffield United
+22,Sat Dec 21 2024,15:00,Hull City,,Swansea City
+22,Sat Dec 21 2024,15:00,Leeds United,,Oxford United
+22,Sat Dec 21 2024,15:00,Luton Town,,Derby County
+22,Sat Dec 21 2024,15:00,Millwall FC,,Blackburn Rovers
+22,Sat Dec 21 2024,15:00,Plymouth Argyle,,Middlesbrough FC
+22,Sat Dec 21 2024,15:00,Portsmouth FC,,Coventry City
+22,Sat Dec 21 2024,15:00,Queens Park Rangers,,Preston North End
+22,Sat Dec 21 2024,15:00,Sheffield Wednesday,,Stoke City
+22,Sat Dec 21 2024,15:00,Sunderland AFC,,Norwich City
+22,Sat Dec 21 2024,15:00,West Bromwich Albion,,Bristol City
+23,Thu Dec 26 2024,15:00,Blackburn Rovers,,Sunderland AFC
+23,Thu Dec 26 2024,15:00,Bristol City,,Luton Town
+23,Thu Dec 26 2024,15:00,Coventry City,,Plymouth Argyle
+23,Thu Dec 26 2024,15:00,Derby County,,West Bromwich Albion
+23,Thu Dec 26 2024,15:00,Middlesbrough FC,,Sheffield Wednesday
+23,Thu Dec 26 2024,15:00,Norwich City,,Millwall FC
+23,Thu Dec 26 2024,15:00,Oxford United,,Cardiff City
+23,Thu Dec 26 2024,15:00,Preston North End,,Hull City
+23,Thu Dec 26 2024,15:00,Sheffield United,,Burnley FC
+23,Thu Dec 26 2024,15:00,Stoke City,,Leeds United
+23,Thu Dec 26 2024,15:00,Swansea City,,Queens Park Rangers
+23,Thu Dec 26 2024,15:00,Watford FC,,Portsmouth FC
+24,Sun Dec 29 2024,15:00,Blackburn Rovers,,Hull City
+24,Sun Dec 29 2024,15:00,Bristol City,,Portsmouth FC
+24,Sun Dec 29 2024,15:00,Coventry City,,Millwall FC
+24,Sun Dec 29 2024,15:00,Derby County,,Leeds United
+24,Sun Dec 29 2024,15:00,Middlesbrough FC,,Burnley FC
+24,Sun Dec 29 2024,15:00,Norwich City,,Queens Park Rangers
+24,Sun Dec 29 2024,15:00,Oxford United,,Plymouth Argyle
+24,Sun Dec 29 2024,15:00,Preston North End,,Sheffield Wednesday
+24,Sun Dec 29 2024,15:00,Sheffield United,,West Bromwich Albion
+24,Sun Dec 29 2024,15:00,Stoke City,,Sunderland AFC
+24,Sun Dec 29 2024,15:00,Swansea City,,Luton Town
+24,Sun Dec 29 2024,15:00,Watford FC,,Cardiff City
+25,Wed Jan 1 2025,15:00,Burnley FC,,Stoke City
+25,Wed Jan 1 2025,15:00,Cardiff City,,Coventry City
+25,Wed Jan 1 2025,15:00,Hull City,,Middlesbrough FC
+25,Wed Jan 1 2025,15:00,Leeds United,,Blackburn Rovers
+25,Wed Jan 1 2025,15:00,Luton Town,,Norwich City
+25,Wed Jan 1 2025,15:00,Millwall FC,,Oxford United
+25,Wed Jan 1 2025,15:00,Plymouth Argyle,,Bristol City
+25,Wed Jan 1 2025,15:00,Portsmouth FC,,Swansea City
+25,Wed Jan 1 2025,15:00,Queens Park Rangers,,Watford FC
+25,Wed Jan 1 2025,15:00,Sheffield Wednesday,,Derby County
+25,Wed Jan 1 2025,15:00,Sunderland AFC,,Sheffield United
+25,Wed Jan 1 2025,15:00,West Bromwich Albion,,Preston North End
+26,Sat Jan 4 2025,15:00,Blackburn Rovers,,Burnley FC
+26,Sat Jan 4 2025,15:00,Bristol City,,Derby County
+26,Sat Jan 4 2025,15:00,Hull City,,Leeds United
+26,Sat Jan 4 2025,15:00,Middlesbrough FC,,Cardiff City
+26,Sat Jan 4 2025,15:00,Norwich City,,Coventry City
+26,Sat Jan 4 2025,15:00,Preston North End,,Oxford United
+26,Sat Jan 4 2025,15:00,Queens Park Rangers,,Luton Town
+26,Sat Jan 4 2025,15:00,Sheffield Wednesday,,Millwall FC
+26,Sat Jan 4 2025,15:00,Stoke City,,Plymouth Argyle
+26,Sat Jan 4 2025,15:00,Sunderland AFC,,Portsmouth FC
+26,Sat Jan 4 2025,15:00,Swansea City,,West Bromwich Albion
+26,Sat Jan 4 2025,15:00,Watford FC,,Sheffield United
+27,Sat Jan 18 2025,15:00,Burnley FC,,Sunderland AFC
+27,Sat Jan 18 2025,15:00,Cardiff City,,Swansea City
+27,Sat Jan 18 2025,15:00,Coventry City,,Bristol City
+27,Sat Jan 18 2025,15:00,Derby County,,Watford FC
+27,Sat Jan 18 2025,15:00,Leeds United,,Sheffield Wednesday
+27,Sat Jan 18 2025,15:00,Luton Town,,Preston North End
+27,Sat Jan 18 2025,15:00,Millwall FC,,Hull City
+27,Sat Jan 18 2025,15:00,Oxford United,,Blackburn Rovers
+27,Sat Jan 18 2025,15:00,Plymouth Argyle,,Queens Park Rangers
+27,Sat Jan 18 2025,15:00,Portsmouth FC,,Middlesbrough FC
+27,Sat Jan 18 2025,15:00,Sheffield United,,Norwich City
+27,Sat Jan 18 2025,15:00,West Bromwich Albion,,Stoke City
+28,Tue Jan 21 2025,19:45,Blackburn Rovers,,Coventry City
+28,Tue Jan 21 2025,19:45,Derby County,,Sunderland AFC
+28,Tue Jan 21 2025,19:45,Hull City,,Queens Park Rangers
+28,Tue Jan 21 2025,19:45,Middlesbrough FC,,West Bromwich Albion
+28,Tue Jan 21 2025,19:45,Millwall FC,,Cardiff City
+28,Tue Jan 21 2025,19:45,Oxford United,,Luton Town
+28,Tue Jan 21 2025,19:45,Swansea City,,Sheffield United
+28,Tue Jan 21 2025,19:45,Watford FC,,Preston North End
+28,Wed Jan 22 2025,19:45,Plymouth Argyle,,Burnley FC
+28,Wed Jan 22 2025,19:45,Portsmouth FC,,Stoke City
+28,Wed Jan 22 2025,19:45,Sheffield Wednesday,,Bristol City
+28,Wed Jan 22 2025,19:45,Leeds United,,Norwich City
+29,Sat Jan 25 2025,15:00,Bristol City,,Blackburn Rovers
+29,Sat Jan 25 2025,15:00,Burnley FC,,Leeds United
+29,Sat Jan 25 2025,15:00,Cardiff City,,Derby County
+29,Sat Jan 25 2025,15:00,Coventry City,,Watford FC
+29,Sat Jan 25 2025,15:00,Luton Town,,Millwall FC
+29,Sat Jan 25 2025,15:00,Norwich City,,Swansea City
+29,Sat Jan 25 2025,15:00,Preston North End,,Middlesbrough FC
+29,Sat Jan 25 2025,15:00,Queens Park Rangers,,Sheffield Wednesday
+29,Sat Jan 25 2025,15:00,Sheffield United,,Hull City
+29,Sat Jan 25 2025,15:00,Stoke City,,Oxford United
+29,Sat Jan 25 2025,15:00,Sunderland AFC,,Plymouth Argyle
+29,Sat Jan 25 2025,15:00,West Bromwich Albion,,Portsmouth FC
+30,Sat Feb 1 2025,15:00,Blackburn Rovers,,Preston North End
+30,Sat Feb 1 2025,15:00,Derby County,,Sheffield United
+30,Sat Feb 1 2025,15:00,Hull City,,Stoke City
+30,Sat Feb 1 2025,15:00,Leeds United,,Cardiff City
+30,Sat Feb 1 2025,15:00,Middlesbrough FC,,Sunderland AFC
+30,Sat Feb 1 2025,15:00,Millwall FC,,Queens Park Rangers
+30,Sat Feb 1 2025,15:00,Oxford United,,Bristol City
+30,Sat Feb 1 2025,15:00,Plymouth Argyle,,West Bromwich Albion
+30,Sat Feb 1 2025,15:00,Portsmouth FC,,Burnley FC
+30,Sat Feb 1 2025,15:00,Sheffield Wednesday,,Luton Town
+30,Sat Feb 1 2025,15:00,Swansea City,,Coventry City
+30,Sat Feb 1 2025,15:00,Watford FC,,Norwich City
+31,Sat Feb 8 2025,15:00,Bristol City,,Swansea City
+31,Sat Feb 8 2025,15:00,Burnley FC,,Oxford United
+31,Sat Feb 8 2025,15:00,Cardiff City,,Hull City
+31,Sat Feb 8 2025,15:00,Coventry City,,Leeds United
+31,Sat Feb 8 2025,15:00,Luton Town,,Plymouth Argyle
+31,Sat Feb 8 2025,15:00,Norwich City,,Derby County
+31,Sat Feb 8 2025,15:00,Preston North End,,Millwall FC
+31,Sat Feb 8 2025,15:00,Queens Park Rangers,,Blackburn Rovers
+31,Sat Feb 8 2025,15:00,Sheffield United,,Portsmouth FC
+31,Sat Feb 8 2025,15:00,Stoke City,,Middlesbrough FC
+31,Sat Feb 8 2025,15:00,Sunderland AFC,,Watford FC
+31,Sat Feb 8 2025,15:00,West Bromwich Albion,,Sheffield Wednesday
+32,Tue Feb 11 2025,19:45,Bristol City,,Stoke City
+32,Tue Feb 11 2025,19:45,Coventry City,,Queens Park Rangers
+32,Tue Feb 11 2025,19:45,Derby County,,Oxford United
+32,Tue Feb 11 2025,19:45,Norwich City,,Preston North End
+32,Tue Feb 11 2025,19:45,Plymouth Argyle,,Millwall FC
+32,Tue Feb 11 2025,19:45,Portsmouth FC,,Cardiff City
+32,Tue Feb 11 2025,19:45,Swansea City,,Sheffield Wednesday
+32,Tue Feb 11 2025,19:45,Watford FC,,Leeds United
+32,Wed Feb 12 2025,19:45,Sheffield United,,Middlesbrough FC
+32,Wed Feb 12 2025,19:45,Sunderland AFC,,Luton Town
+32,Wed Feb 12 2025,19:45,West Bromwich Albion,,Blackburn Rovers
+32,Wed Feb 12 2025,19:45,Burnley FC,,Hull City
+33,Sat Feb 15 2025,15:00,Blackburn Rovers,,Plymouth Argyle
+33,Sat Feb 15 2025,15:00,Cardiff City,,Bristol City
+33,Sat Feb 15 2025,15:00,Hull City,,Norwich City
+33,Sat Feb 15 2025,15:00,Leeds United,,Sunderland AFC
+33,Sat Feb 15 2025,15:00,Luton Town,,Sheffield United
+33,Sat Feb 15 2025,15:00,Middlesbrough FC,,Watford FC
+33,Sat Feb 15 2025,15:00,Millwall FC,,West Bromwich Albion
+33,Sat Feb 15 2025,15:00,Oxford United,,Portsmouth FC
+33,Sat Feb 15 2025,15:00,Preston North End,,Burnley FC
+33,Sat Feb 15 2025,15:00,Queens Park Rangers,,Derby County
+33,Sat Feb 15 2025,15:00,Sheffield Wednesday,,Coventry City
+33,Sat Feb 15 2025,15:00,Stoke City,,Swansea City
+34,Sat Feb 22 2025,15:00,Bristol City,,Middlesbrough FC
+34,Sat Feb 22 2025,15:00,Burnley FC,,Sheffield Wednesday
+34,Sat Feb 22 2025,15:00,Coventry City,,Preston North End
+34,Sat Feb 22 2025,15:00,Derby County,,Millwall FC
+34,Sat Feb 22 2025,15:00,Norwich City,,Stoke City
+34,Sat Feb 22 2025,15:00,Plymouth Argyle,,Cardiff City
+34,Sat Feb 22 2025,15:00,Portsmouth FC,,Queens Park Rangers
+34,Sat Feb 22 2025,15:00,Sheffield United,,Leeds United
+34,Sat Feb 22 2025,15:00,Sunderland AFC,,Hull City
+34,Sat Feb 22 2025,15:00,Swansea City,,Blackburn Rovers
+34,Sat Feb 22 2025,15:00,Watford FC,,Luton Town
+34,Sat Feb 22 2025,15:00,West Bromwich Albion,,Oxford United
+35,Sat Mar 1 2025,15:00,Blackburn Rovers,,Norwich City
+35,Sat Mar 1 2025,15:00,Cardiff City,,Burnley FC
+35,Sat Mar 1 2025,15:00,Hull City,,Plymouth Argyle
+35,Sat Mar 1 2025,15:00,Leeds United,,West Bromwich Albion
+35,Sat Mar 1 2025,15:00,Luton Town,,Portsmouth FC
+35,Sat Mar 1 2025,15:00,Middlesbrough FC,,Derby County
+35,Sat Mar 1 2025,15:00,Millwall FC,,Bristol City
+35,Sat Mar 1 2025,15:00,Oxford United,,Coventry City
+35,Sat Mar 1 2025,15:00,Preston North End,,Swansea City
+35,Sat Mar 1 2025,15:00,Queens Park Rangers,,Sheffield United
+35,Sat Mar 1 2025,15:00,Sheffield Wednesday,,Sunderland AFC
+35,Sat Mar 1 2025,15:00,Stoke City,,Watford FC
+36,Sat Mar 8 2025,15:00,Bristol City,,Hull City
+36,Sat Mar 8 2025,15:00,Burnley FC,,Luton Town
+36,Sat Mar 8 2025,15:00,Coventry City,,Stoke City
+36,Sat Mar 8 2025,15:00,Derby County,,Blackburn Rovers
+36,Sat Mar 8 2025,15:00,Norwich City,,Oxford United
+36,Sat Mar 8 2025,15:00,Plymouth Argyle,,Sheffield Wednesday
+36,Sat Mar 8 2025,15:00,Portsmouth FC,,Leeds United
+36,Sat Mar 8 2025,15:00,Sheffield United,,Preston North End
+36,Sat Mar 8 2025,15:00,Sunderland AFC,,Cardiff City
+36,Sat Mar 8 2025,15:00,Swansea City,,Middlesbrough FC
+36,Sat Mar 8 2025,15:00,Watford FC,,Millwall FC
+36,Sat Mar 8 2025,15:00,West Bromwich Albion,,Queens Park Rangers
+37,Tue Mar 11 2025,19:45,Burnley FC,,West Bromwich Albion
+37,Tue Mar 11 2025,19:45,Cardiff City,,Luton Town
+37,Tue Mar 11 2025,19:45,Derby County,,Coventry City
+37,Tue Mar 11 2025,19:45,Middlesbrough FC,,Queens Park Rangers
+37,Tue Mar 11 2025,19:45,Portsmouth FC,,Plymouth Argyle
+37,Tue Mar 11 2025,19:45,Stoke City,,Blackburn Rovers
+37,Tue Mar 11 2025,19:45,Sunderland AFC,,Preston North End
+37,Wed Mar 12 2025,19:45,Leeds United,,Millwall FC
+37,Wed Mar 12 2025,19:45,Norwich City,,Sheffield Wednesday
+37,Wed Mar 12 2025,19:45,Sheffield United,,Bristol City
+37,Wed Mar 12 2025,19:45,Watford FC,,Swansea City
+37,Wed Mar 12 2025,19:45,Hull City,,Oxford United
+38,Sat Mar 15 2025,15:00,Blackburn Rovers,,Cardiff City
+38,Sat Mar 15 2025,15:00,Bristol City,,Norwich City
+38,Sat Mar 15 2025,15:00,Coventry City,,Sunderland AFC
+38,Sat Mar 15 2025,15:00,Luton Town,,Middlesbrough FC
+38,Sat Mar 15 2025,15:00,Millwall FC,,Stoke City
+38,Sat Mar 15 2025,15:00,Oxford United,,Watford FC
+38,Sat Mar 15 2025,15:00,Plymouth Argyle,,Derby County
+38,Sat Mar 15 2025,15:00,Preston North End,,Portsmouth FC
+38,Sat Mar 15 2025,15:00,Queens Park Rangers,,Leeds United
+38,Sat Mar 15 2025,15:00,Sheffield Wednesday,,Sheffield United
+38,Sat Mar 15 2025,15:00,Swansea City,,Burnley FC
+38,Sat Mar 15 2025,15:00,West Bromwich Albion,,Hull City
+39,Sat Mar 29 2025,15:00,Sunderland AFC,,Millwall FC
+39,Sat Mar 29 2025,15:00,Cardiff City,,Sheffield Wednesday
+39,Sat Mar 29 2025,15:00,Derby County,,Preston North End
+39,Sat Mar 29 2025,15:00,Burnley FC,,Bristol City
+39,Sat Mar 29 2025,15:00,Middlesbrough FC,,Oxford United
+39,Sat Mar 29 2025,15:00,Watford FC,,Plymouth Argyle
+39,Sat Mar 29 2025,15:00,Hull City,,Luton Town
+39,Sat Mar 29 2025,15:00,Leeds United,,Swansea City
+39,Sat Mar 29 2025,15:00,Norwich City,,West Bromwich Albion
+39,Sat Mar 29 2025,15:00,Portsmouth FC,,Blackburn Rovers
+39,Sat Mar 29 2025,15:00,Sheffield United,,Coventry City
+39,Sat Mar 29 2025,15:00,Stoke City,,Queens Park Rangers
+40,Sat Apr 5 2025,15:00,Blackburn Rovers,,Middlesbrough FC
+40,Sat Apr 5 2025,15:00,Bristol City,,Watford FC
+40,Sat Apr 5 2025,15:00,Coventry City,,Burnley FC
+40,Sat Apr 5 2025,15:00,Luton Town,,Leeds United
+40,Sat Apr 5 2025,15:00,Millwall FC,,Portsmouth FC
+40,Sat Apr 5 2025,15:00,Oxford United,,Sheffield United
+40,Sat Apr 5 2025,15:00,Plymouth Argyle,,Norwich City
+40,Sat Apr 5 2025,15:00,Preston North End,,Stoke City
+40,Sat Apr 5 2025,15:00,Queens Park Rangers,,Cardiff City
+40,Sat Apr 5 2025,15:00,Sheffield Wednesday,,Hull City
+40,Sat Apr 5 2025,15:00,Swansea City,,Derby County
+40,Sat Apr 5 2025,15:00,West Bromwich Albion,,Sunderland AFC
+41,Tue Apr 8 2025,19:45,Blackburn Rovers,,Sheffield Wednesday
+41,Tue Apr 8 2025,19:45,Bristol City,,West Bromwich Albion
+41,Tue Apr 8 2025,19:45,Middlesbrough FC,,Leeds United
+41,Tue Apr 8 2025,19:45,Norwich City,,Sunderland AFC
+41,Tue Apr 8 2025,19:45,Preston North End,,Cardiff City
+41,Tue Apr 8 2025,19:45,Sheffield United,,Millwall FC
+41,Tue Apr 8 2025,19:45,Stoke City,,Luton Town
+41,Tue Apr 8 2025,19:45,Watford FC,,Hull City
+41,Wed Apr 9 2025,19:45,Derby County,,Burnley FC
+41,Wed Apr 9 2025,19:45,Oxford United,,Queens Park Rangers
+41,Wed Apr 9 2025,19:45,Swansea City,,Plymouth Argyle
+41,Wed Apr 9 2025,19:45,Coventry City,,Portsmouth FC
+42,Sat Apr 12 2025,15:00,Burnley FC,,Norwich City
+42,Sat Apr 12 2025,15:00,Cardiff City,,Stoke City
+42,Sat Apr 12 2025,15:00,Hull City,,Coventry City
+42,Sat Apr 12 2025,15:00,Leeds United,,Preston North End
+42,Sat Apr 12 2025,15:00,Luton Town,,Blackburn Rovers
+42,Sat Apr 12 2025,15:00,Millwall FC,,Middlesbrough FC
+42,Sat Apr 12 2025,15:00,Plymouth Argyle,,Sheffield United
+42,Sat Apr 12 2025,15:00,Portsmouth FC,,Derby County
+42,Sat Apr 12 2025,15:00,Queens Park Rangers,,Bristol City
+42,Sat Apr 12 2025,15:00,Sheffield Wednesday,,Oxford United
+42,Sat Apr 12 2025,15:00,Sunderland AFC,,Swansea City
+42,Sat Apr 12 2025,15:00,West Bromwich Albion,,Watford FC
+43,Fri Apr 18 2025,15:00,Blackburn Rovers,,Millwall FC
+43,Fri Apr 18 2025,15:00,Bristol City,,Sunderland AFC
+43,Fri Apr 18 2025,15:00,Coventry City,,West Bromwich Albion
+43,Fri Apr 18 2025,15:00,Derby County,,Luton Town
+43,Fri Apr 18 2025,15:00,Middlesbrough FC,,Plymouth Argyle
+43,Fri Apr 18 2025,15:00,Watford FC,,Burnley FC
+43,Fri Apr 18 2025,15:00,Norwich City,,Portsmouth FC
+43,Fri Apr 18 2025,15:00,Oxford United,,Leeds United
+43,Fri Apr 18 2025,15:00,Preston North End,,Queens Park Rangers
+43,Fri Apr 18 2025,15:00,Sheffield United,,Cardiff City
+43,Fri Apr 18 2025,15:00,Stoke City,,Sheffield Wednesday
+43,Fri Apr 18 2025,15:00,Swansea City,,Hull City
+44,Mon Apr 21 2025,15:00,Burnley FC,,Sheffield United
+44,Mon Apr 21 2025,15:00,Cardiff City,,Oxford United
+44,Mon Apr 21 2025,15:00,Hull City,,Preston North End
+44,Mon Apr 21 2025,15:00,Leeds United,,Stoke City
+44,Mon Apr 21 2025,15:00,Luton Town,,Bristol City
+44,Mon Apr 21 2025,15:00,Millwall FC,,Norwich City
+44,Mon Apr 21 2025,15:00,Plymouth Argyle,,Coventry City
+44,Mon Apr 21 2025,15:00,Portsmouth FC,,Watford FC
+44,Mon Apr 21 2025,15:00,Queens Park Rangers,,Swansea City
+44,Mon Apr 21 2025,15:00,Sheffield Wednesday,,Middlesbrough FC
+44,Mon Apr 21 2025,15:00,Sunderland AFC,,Blackburn Rovers
+44,Mon Apr 21 2025,15:00,West Bromwich Albion,,Derby County
+45,Sat Apr 26 2025,15:00,Blackburn Rovers,,Watford FC
+45,Sat Apr 26 2025,15:00,Cardiff City,,West Bromwich Albion
+45,Sat Apr 26 2025,15:00,Hull City,,Derby County
+45,Sat Apr 26 2025,15:00,Leeds United,,Bristol City
+45,Sat Apr 26 2025,15:00,Luton Town,,Coventry City
+45,Sat Apr 26 2025,15:00,Middlesbrough FC,,Norwich City
+45,Sat Apr 26 2025,15:00,Millwall FC,,Swansea City
+45,Sat Apr 26 2025,15:00,Oxford United,,Sunderland AFC
+45,Sat Apr 26 2025,15:00,Preston North End,,Plymouth Argyle
+45,Sat Apr 26 2025,15:00,Queens Park Rangers,,Burnley FC
+45,Sat Apr 26 2025,15:00,Sheffield Wednesday,,Portsmouth FC
+45,Sat Apr 26 2025,15:00,Stoke City,,Sheffield United
+46,Sat May 3 2025,15:00,Bristol City,,Preston North End
+46,Sat May 3 2025,15:00,Burnley FC,,Millwall FC
+46,Sat May 3 2025,15:00,Coventry City,,Middlesbrough FC
+46,Sat May 3 2025,15:00,Derby County,,Stoke City
+46,Sat May 3 2025,15:00,Norwich City,,Cardiff City
+46,Sat May 3 2025,15:00,Plymouth Argyle,,Leeds United
+46,Sat May 3 2025,15:00,Portsmouth FC,,Hull City
+46,Sat May 3 2025,15:00,Sheffield United,,Blackburn Rovers
+46,Sat May 3 2025,15:00,Sunderland AFC,,Queens Park Rangers
+46,Sat May 3 2025,15:00,Swansea City,,Oxford United
+46,Sat May 3 2025,15:00,Watford FC,,Sheffield Wednesday
+46,Sat May 3 2025,15:00,West Bromwich Albion,,Luton Town

@@ -1,64 +1,64 @@
 Round,Date,Time,Team 1,FT,Team 2
-1,Fri Aug 16 2024,21:00,Manchester United,,Fulham FC
-1,Sat Aug 17 2024,13:30,Ipswich Town,,Liverpool FC
-1,Sat Aug 17 2024,16:00,Arsenal FC,,Wolverhampton Wanderers
-1,Sat Aug 17 2024,16:00,Everton FC,,Brighton & Hove Albion
-1,Sat Aug 17 2024,16:00,Newcastle United,,Southampton FC
-1,Sat Aug 17 2024,16:00,Nottingham Forest,,AFC Bournemouth
-1,Sat Aug 17 2024,18:30,West Ham United,,Aston Villa
-1,Sun Aug 18 2024,17:30,Chelsea FC,,Manchester City
-1,Sun Aug 18 2024,15:00,Brentford FC,,Crystal Palace
-1,Mon Aug 19 2024,21:00,Leicester City,,Tottenham Hotspur
-2,Sat Aug 24 2024,,AFC Bournemouth,,Newcastle United
-2,Sat Aug 24 2024,,Aston Villa,,Arsenal FC
-2,Sat Aug 24 2024,,Brighton & Hove Albion,,Manchester United
-2,Sat Aug 24 2024,,Crystal Palace,,West Ham United
-2,Sat Aug 24 2024,,Fulham FC,,Leicester City
-2,Sat Aug 24 2024,,Liverpool FC,,Brentford FC
-2,Sat Aug 24 2024,,Manchester City,,Ipswich Town
-2,Sat Aug 24 2024,,Southampton FC,,Nottingham Forest
-2,Sat Aug 24 2024,,Tottenham Hotspur,,Everton FC
-2,Sat Aug 24 2024,,Wolverhampton Wanderers,,Chelsea FC
-3,Sat Aug 31 2024,,Arsenal FC,,Brighton & Hove Albion
-3,Sat Aug 31 2024,,Brentford FC,,Southampton FC
-3,Sat Aug 31 2024,,Chelsea FC,,Crystal Palace
-3,Sat Aug 31 2024,,Everton FC,,AFC Bournemouth
-3,Sat Aug 31 2024,,Ipswich Town,,Fulham FC
-3,Sat Aug 31 2024,,Leicester City,,Aston Villa
-3,Sat Aug 31 2024,,Manchester United,,Liverpool FC
-3,Sat Aug 31 2024,,Newcastle United,,Tottenham Hotspur
-3,Sat Aug 31 2024,,Nottingham Forest,,Wolverhampton Wanderers
-3,Sat Aug 31 2024,,West Ham United,,Manchester City
-4,Sat Sep 14 2024,,AFC Bournemouth,,Chelsea FC
-4,Sat Sep 14 2024,,Aston Villa,,Everton FC
-4,Sat Sep 14 2024,,Brighton & Hove Albion,,Ipswich Town
-4,Sat Sep 14 2024,,Crystal Palace,,Leicester City
-4,Sat Sep 14 2024,,Fulham FC,,West Ham United
-4,Sat Sep 14 2024,,Liverpool FC,,Nottingham Forest
-4,Sat Sep 14 2024,,Manchester City,,Brentford FC
-4,Sat Sep 14 2024,,Southampton FC,,Manchester United
-4,Sat Sep 14 2024,,Tottenham Hotspur,,Arsenal FC
-4,Sat Sep 14 2024,,Wolverhampton Wanderers,,Newcastle United
-5,Sat Sep 21 2024,,Aston Villa,,Wolverhampton Wanderers
-5,Sat Sep 21 2024,,Brighton & Hove Albion,,Nottingham Forest
-5,Sat Sep 21 2024,,Crystal Palace,,Manchester United
-5,Sat Sep 21 2024,,Fulham FC,,Newcastle United
-5,Sat Sep 21 2024,,Leicester City,,Everton FC
-5,Sat Sep 21 2024,,Liverpool FC,,AFC Bournemouth
-5,Sat Sep 21 2024,,Manchester City,,Arsenal FC
-5,Sat Sep 21 2024,,Southampton FC,,Ipswich Town
-5,Sat Sep 21 2024,,Tottenham Hotspur,,Brentford FC
-5,Sat Sep 21 2024,,West Ham United,,Chelsea FC
-6,Sat Sep 28 2024,,AFC Bournemouth,,Southampton FC
-6,Sat Sep 28 2024,,Arsenal FC,,Leicester City
-6,Sat Sep 28 2024,,Brentford FC,,West Ham United
-6,Sat Sep 28 2024,,Chelsea FC,,Brighton & Hove Albion
-6,Sat Sep 28 2024,,Everton FC,,Crystal Palace
-6,Sat Sep 28 2024,,Ipswich Town,,Aston Villa
-6,Sat Sep 28 2024,,Manchester United,,Tottenham Hotspur
-6,Sat Sep 28 2024,,Newcastle United,,Manchester City
-6,Sat Sep 28 2024,,Nottingham Forest,,Fulham FC
-6,Sat Sep 28 2024,,Wolverhampton Wanderers,,Liverpool FC
+1,Fri Aug 16 2024,20:00,Manchester United,,Fulham FC
+1,Sat Aug 17 2024,12:30,Ipswich Town,,Liverpool FC
+1,Sat Aug 17 2024,15:00,Arsenal FC,,Wolverhampton Wanderers
+1,Sat Aug 17 2024,15:00,Everton FC,,Brighton & Hove Albion
+1,Sat Aug 17 2024,15:00,Newcastle United,,Southampton FC
+1,Sat Aug 17 2024,15:00,Nottingham Forest,,AFC Bournemouth
+1,Sat Aug 17 2024,17:30,West Ham United,,Aston Villa
+1,Sun Aug 18 2024,16:30,Chelsea FC,,Manchester City
+1,Sun Aug 18 2024,14:00,Brentford FC,,Crystal Palace
+1,Mon Aug 19 2024,20:00,Leicester City,,Tottenham Hotspur
+2,Sat Aug 24 2024,12:30,Brighton & Hove Albion,,Manchester United
+2,Sat Aug 24 2024,15:00,Crystal Palace,,West Ham United
+2,Sat Aug 24 2024,15:00,Fulham FC,,Leicester City
+2,Sat Aug 24 2024,15:00,Manchester City,,Ipswich Town
+2,Sat Aug 24 2024,15:00,Southampton FC,,Nottingham Forest
+2,Sat Aug 24 2024,15:00,Tottenham Hotspur,,Everton FC
+2,Sat Aug 24 2024,17:30,Aston Villa,,Arsenal FC
+2,Sun Aug 25 2024,14:00,Wolverhampton Wanderers,,Chelsea FC
+2,Sun Aug 25 2024,16:30,Liverpool FC,,Brentford FC
+2,Sun Aug 25 2024,14:00,AFC Bournemouth,,Newcastle United
+3,Sat Aug 31 2024,12:30,Arsenal FC,,Brighton & Hove Albion
+3,Sat Aug 31 2024,15:00,Brentford FC,,Southampton FC
+3,Sat Aug 31 2024,15:00,Everton FC,,AFC Bournemouth
+3,Sat Aug 31 2024,15:00,Ipswich Town,,Fulham FC
+3,Sat Aug 31 2024,15:00,Leicester City,,Aston Villa
+3,Sat Aug 31 2024,15:00,Nottingham Forest,,Wolverhampton Wanderers
+3,Sat Aug 31 2024,17:30,West Ham United,,Manchester City
+3,Sun Sep 1 2024,15:00,Manchester United,,Liverpool FC
+3,Sun Sep 1 2024,15:00,Newcastle United,,Tottenham Hotspur
+3,Sun Sep 1 2024,15:00,Chelsea FC,,Crystal Palace
+4,Sat Sep 14 2024,12:30,Southampton FC,,Manchester United
+4,Sat Sep 14 2024,15:00,Brighton & Hove Albion,,Ipswich Town
+4,Sat Sep 14 2024,15:00,Crystal Palace,,Leicester City
+4,Sat Sep 14 2024,15:00,Fulham FC,,West Ham United
+4,Sat Sep 14 2024,15:00,Liverpool FC,,Nottingham Forest
+4,Sat Sep 14 2024,15:00,Manchester City,,Brentford FC
+4,Sat Sep 14 2024,17:30,Aston Villa,,Everton FC
+4,Sat Sep 14 2024,20:00,AFC Bournemouth,,Chelsea FC
+4,Sun Sep 15 2024,16:30,Wolverhampton Wanderers,,Newcastle United
+4,Sun Sep 15 2024,14:00,Tottenham Hotspur,,Arsenal FC
+5,Sat Sep 21 2024,12:30,West Ham United,,Chelsea FC
+5,Sat Sep 21 2024,15:00,Aston Villa,,Wolverhampton Wanderers
+5,Sat Sep 21 2024,15:00,Fulham FC,,Newcastle United
+5,Sat Sep 21 2024,15:00,Leicester City,,Everton FC
+5,Sat Sep 21 2024,15:00,Liverpool FC,,AFC Bournemouth
+5,Sat Sep 21 2024,15:00,Southampton FC,,Ipswich Town
+5,Sat Sep 21 2024,15:00,Tottenham Hotspur,,Brentford FC
+5,Sat Sep 21 2024,17:30,Crystal Palace,,Manchester United
+5,Sun Sep 22 2024,16:30,Manchester City,,Arsenal FC
+5,Sun Sep 22 2024,14:00,Brighton & Hove Albion,,Nottingham Forest
+6,Sat Sep 28 2024,12:30,Newcastle United,,Manchester City
+6,Sat Sep 28 2024,15:00,Arsenal FC,,Leicester City
+6,Sat Sep 28 2024,15:00,Brentford FC,,West Ham United
+6,Sat Sep 28 2024,15:00,Chelsea FC,,Brighton & Hove Albion
+6,Sat Sep 28 2024,15:00,Everton FC,,Crystal Palace
+6,Sat Sep 28 2024,15:00,Nottingham Forest,,Fulham FC
+6,Sat Sep 28 2024,17:30,Wolverhampton Wanderers,,Liverpool FC
+6,Sun Sep 29 2024,16:30,Manchester United,,Tottenham Hotspur
+6,Sun Sep 29 2024,14:00,Ipswich Town,,Aston Villa
+6,Mon Sep 30 2024,20:00,AFC Bournemouth,,Southampton FC
 7,Sat Oct 5 2024,,Arsenal FC,,Southampton FC
 7,Sat Oct 5 2024,,Aston Villa,,Manchester United
 7,Sat Oct 5 2024,,Brentford FC,,Wolverhampton Wanderers
@@ -369,13 +369,13 @@ Round,Date,Time,Team 1,FT,Team 2
 37,Sun May 18 2025,,Leicester City,,Ipswich Town
 37,Sun May 18 2025,,Manchester City,,AFC Bournemouth
 37,Sun May 18 2025,,West Ham United,,Nottingham Forest
-38,Sun May 25 2025,17:00,AFC Bournemouth,,Leicester City
-38,Sun May 25 2025,17:00,Fulham FC,,Manchester City
-38,Sun May 25 2025,17:00,Ipswich Town,,West Ham United
-38,Sun May 25 2025,17:00,Liverpool FC,,Crystal Palace
-38,Sun May 25 2025,17:00,Manchester United,,Aston Villa
-38,Sun May 25 2025,17:00,Newcastle United,,Everton FC
-38,Sun May 25 2025,17:00,Nottingham Forest,,Chelsea FC
-38,Sun May 25 2025,17:00,Southampton FC,,Arsenal FC
-38,Sun May 25 2025,17:00,Tottenham Hotspur,,Brighton & Hove Albion
-38,Sun May 25 2025,17:00,Wolverhampton Wanderers,,Brentford FC
+38,Sun May 25 2025,16:00,AFC Bournemouth,,Leicester City
+38,Sun May 25 2025,16:00,Fulham FC,,Manchester City
+38,Sun May 25 2025,16:00,Ipswich Town,,West Ham United
+38,Sun May 25 2025,16:00,Liverpool FC,,Crystal Palace
+38,Sun May 25 2025,16:00,Manchester United,,Aston Villa
+38,Sun May 25 2025,16:00,Newcastle United,,Everton FC
+38,Sun May 25 2025,16:00,Nottingham Forest,,Chelsea FC
+38,Sun May 25 2025,16:00,Southampton FC,,Arsenal FC
+38,Sun May 25 2025,16:00,Tottenham Hotspur,,Brighton & Hove Albion
+38,Sun May 25 2025,16:00,Wolverhampton Wanderers,,Brentford FC
