@@ -3,89 +3,89 @@ Round,Date,Time,Team 1,FT,HT,Team 2
 1,Fri Jul 19 2024,20:15,FC Aarau,1-3,0-2,FC Thun Berner Oberland
 1,Fri Jul 19 2024,19:30,FC Schaffhausen,2-3,1-2,Etoile Carouge FC
 1,Sat Jul 20 2024,18:00,AC Bellinzona,2-1,1-1,FC Wil 1900
-1,Sun Jul 21 2024,14:15,FC Vaduz,0-0,0-0,Stade Nyonnais
+1,Sun Jul 21 2024,14:15,FC Vaduz,0-0,0-0,FC Stade Nyonnais
 2,Fri Jul 26 2024,19:30,Stade-Lausanne-Ouchy,0-1,0-1,FC Schaffhausen
-2,Fri Jul 26 2024,19:30,Stade Nyonnais,2-1,0-1,AC Bellinzona
+2,Fri Jul 26 2024,19:30,FC Stade Nyonnais,2-1,0-1,AC Bellinzona
 2,Fri Jul 26 2024,20:15,Etoile Carouge FC,3-1,3-0,Neuchâtel Xamax FCS
 2,Fri Jul 26 2024,20:15,FC Wil 1900,2-2,2-0,FC Aarau
 2,Sun Jul 28 2024,16:30,FC Thun Berner Oberland,2-0,0-0,FC Vaduz
-3,Fri Aug 2 2024,19:30,Stade Nyonnais,,,FC Schaffhausen
-3,Fri Aug 2 2024,20:15,FC Thun Berner Oberland,,,Stade-Lausanne-Ouchy
-3,Sat Aug 3 2024,18:00,FC Aarau,,,Neuchâtel Xamax FCS
-3,Sat Aug 3 2024,18:00,AC Bellinzona,,,Etoile Carouge FC
-3,Sun Aug 4 2024,14:15,FC Vaduz,,,FC Wil 1900
-4,Fri Aug 9 2024,19:30,Stade-Lausanne-Ouchy,,,FC Aarau
-4,Fri Aug 9 2024,20:15,Etoile Carouge FC,,,FC Thun Berner Oberland
-4,Fri Aug 9 2024,20:15,Neuchâtel Xamax FCS,,,AC Bellinzona
-4,Sat Aug 10 2024,18:00,FC Wil 1900,,,Stade Nyonnais
-4,Sun Aug 11 2024,14:15,FC Schaffhausen,,,FC Vaduz
-5,Fri Aug 23 2024,20:15,FC Wil 1900,,,Neuchâtel Xamax FCS
-5,Sat Aug 24 2024,18:00,AC Bellinzona,,,FC Schaffhausen
-5,Sat Aug 24 2024,18:00,FC Aarau,,,Etoile Carouge FC
-5,Sun Aug 25 2024,16:30,FC Thun Berner Oberland,,,Stade Nyonnais
-5,Sun Aug 25 2024,14:15,FC Vaduz,,,Stade-Lausanne-Ouchy
-6,Fri Aug 30 2024,19:30,Stade Nyonnais,,,Stade-Lausanne-Ouchy
-6,Fri Aug 30 2024,20:15,Etoile Carouge FC,,,FC Wil 1900
-6,Fri Aug 30 2024,20:15,FC Schaffhausen,,,FC Thun Berner Oberland
-6,Fri Aug 30 2024,19:30,Neuchâtel Xamax FCS,,,FC Vaduz
-6,Sat Aug 31 2024,18:00,FC Aarau,,,AC Bellinzona
+3,Fri Aug 2 2024,19:30,FC Stade Nyonnais,0-3,0-1,FC Schaffhausen
+3,Fri Aug 2 2024,20:15,FC Thun Berner Oberland,1-1,1-0,Stade-Lausanne-Ouchy
+3,Sat Aug 3 2024,18:00,FC Aarau,1-3,1-0,Neuchâtel Xamax FCS
+3,Sat Aug 3 2024,18:00,AC Bellinzona,1-1,1-0,Etoile Carouge FC
+3,Sun Aug 4 2024,14:15,FC Vaduz,3-2,0-1,FC Wil 1900
+4,Fri Aug 9 2024,19:30,Stade-Lausanne-Ouchy,1-1,1-1,FC Aarau
+4,Fri Aug 9 2024,20:15,Etoile Carouge FC,0-2,0-2,FC Thun Berner Oberland
+4,Fri Aug 9 2024,20:15,Neuchâtel Xamax FCS,2-2,2-1,AC Bellinzona
+4,Sat Aug 10 2024,18:00,FC Wil 1900,0-3,0-2,FC Stade Nyonnais
+4,Sun Aug 11 2024,14:15,FC Schaffhausen,1-1,0-1,FC Vaduz
+5,Fri Aug 23 2024,20:15,FC Wil 1900,4-0,1-0,Neuchâtel Xamax FCS
+5,Sat Aug 24 2024,18:00,AC Bellinzona,2-1,2-0,FC Schaffhausen
+5,Sat Aug 24 2024,18:00,FC Aarau,1-0,1-0,Etoile Carouge FC
+5,Sun Aug 25 2024,16:30,FC Thun Berner Oberland,4-2,1-1,FC Stade Nyonnais
+5,Sun Aug 25 2024,14:15,FC Vaduz,3-1,2-0,Stade-Lausanne-Ouchy
+6,Fri Aug 30 2024,19:30,FC Stade Nyonnais,0-3,0-2,Stade-Lausanne-Ouchy
+6,Fri Aug 30 2024,20:15,Etoile Carouge FC,3-1,1-0,FC Wil 1900
+6,Fri Aug 30 2024,20:15,FC Schaffhausen,2-2,2-1,FC Thun Berner Oberland
+6,Fri Aug 30 2024,19:30,Neuchâtel Xamax FCS,4-1,1-1,FC Vaduz
+6,Sat Aug 31 2024,18:00,FC Aarau,1-2,1-1,AC Bellinzona
 7,Fri Sep 20 2024,19:30,FC Schaffhausen,,,Neuchâtel Xamax FCS
 7,Fri Sep 20 2024,19:30,Stade-Lausanne-Ouchy,,,FC Wil 1900
-7,Fri Sep 20 2024,19:30,Stade Nyonnais,,,Etoile Carouge FC
+7,Fri Sep 20 2024,19:30,FC Stade Nyonnais,,,Etoile Carouge FC
 7,Fri Sep 20 2024,20:15,FC Thun Berner Oberland,,,AC Bellinzona
 7,Fri Sep 20 2024,20:15,FC Vaduz,,,FC Aarau
-8,Mon Sep 23 2024,19:30,Neuchâtel Xamax FCS,,,Stade Nyonnais
+8,Mon Sep 23 2024,19:30,Neuchâtel Xamax FCS,,,FC Stade Nyonnais
 8,Mon Sep 23 2024,20:15,FC Aarau,,,FC Schaffhausen
 8,Mon Sep 23 2024,19:30,FC Wil 1900,,,FC Thun Berner Oberland
 8,Tue Sep 24 2024,20:15,Etoile Carouge FC,,,FC Vaduz
 8,Tue Sep 24 2024,20:15,AC Bellinzona,,,Stade-Lausanne-Ouchy
 9,Fri Sep 27 2024,19:30,FC Schaffhausen,,,FC Wil 1900
 9,Fri Sep 27 2024,19:30,Stade-Lausanne-Ouchy,,,Etoile Carouge FC
-9,Fri Sep 27 2024,19:30,Stade Nyonnais,,,FC Aarau
+9,Fri Sep 27 2024,19:30,FC Stade Nyonnais,,,FC Aarau
 9,Fri Sep 27 2024,20:15,FC Thun Berner Oberland,,,Neuchâtel Xamax FCS
 9,Sun Sep 29 2024,14:15,FC Vaduz,,,AC Bellinzona
-10,Fri Oct 4 2024,,AC Bellinzona,,,FC Thun Berner Oberland
-10,Fri Oct 4 2024,,Etoile Carouge FC,,,Stade Nyonnais
-10,Fri Oct 4 2024,,FC Aarau,,,FC Vaduz
-10,Fri Oct 4 2024,,FC Wil 1900,,,Stade-Lausanne-Ouchy
-10,Fri Oct 4 2024,,Neuchâtel Xamax FCS,,,FC Schaffhausen
-11,Fri Oct 18 2024,,Stade-Lausanne-Ouchy,,,AC Bellinzona
-11,Fri Oct 18 2024,,FC Vaduz,,,FC Thun Berner Oberland
-11,Fri Oct 18 2024,,Neuchâtel Xamax FCS,,,Etoile Carouge FC
-11,Fri Oct 18 2024,,Stade Nyonnais,,,FC Wil 1900
-11,Fri Oct 18 2024,,FC Schaffhausen,,,FC Aarau
-12,Fri Oct 25 2024,,AC Bellinzona,,,Neuchâtel Xamax FCS
-12,Fri Oct 25 2024,,Etoile Carouge FC,,,Stade-Lausanne-Ouchy
-12,Fri Oct 25 2024,,FC Aarau,,,Stade Nyonnais
-12,Fri Oct 25 2024,,FC Thun Berner Oberland,,,FC Schaffhausen
-12,Fri Oct 25 2024,,FC Wil 1900,,,FC Vaduz
-13,Fri Nov 1 2024,,Etoile Carouge FC,,,FC Aarau
-13,Fri Nov 1 2024,,FC Schaffhausen,,,AC Bellinzona
-13,Fri Nov 1 2024,,Stade-Lausanne-Ouchy,,,FC Vaduz
-13,Fri Nov 1 2024,,Neuchâtel Xamax FCS,,,FC Wil 1900
-13,Fri Nov 1 2024,,Stade Nyonnais,,,FC Thun Berner Oberland
-14,Fri Nov 8 2024,,Stade-Lausanne-Ouchy,,,Stade Nyonnais
-14,Fri Nov 8 2024,,FC Thun Berner Oberland,,,Etoile Carouge FC
-14,Fri Nov 8 2024,,FC Vaduz,,,Neuchâtel Xamax FCS
-14,Fri Nov 8 2024,,FC Wil 1900,,,FC Schaffhausen
-14,Fri Nov 8 2024,,AC Bellinzona,,,FC Aarau
-15,Fri Nov 22 2024,,Etoile Carouge FC,,,AC Bellinzona
-15,Fri Nov 22 2024,,FC Aarau,,,FC Wil 1900
-15,Fri Nov 22 2024,,FC Schaffhausen,,,Stade-Lausanne-Ouchy
-15,Fri Nov 22 2024,,Neuchâtel Xamax FCS,,,FC Thun Berner Oberland
-15,Fri Nov 22 2024,,Stade Nyonnais,,,FC Vaduz
-16,Fri Nov 29 2024,,Stade-Lausanne-Ouchy,,,Neuchâtel Xamax FCS
-16,Fri Nov 29 2024,,FC Thun Berner Oberland,,,FC Aarau
-16,Fri Nov 29 2024,,FC Vaduz,,,FC Schaffhausen
-16,Fri Nov 29 2024,,FC Wil 1900,,,Etoile Carouge FC
-16,Fri Nov 29 2024,,AC Bellinzona,,,Stade Nyonnais
+10,Fri Oct 4 2024,19:30,Neuchâtel Xamax FCS,,,FC Schaffhausen
+10,Fri Oct 4 2024,20:15,AC Bellinzona,,,FC Thun Berner Oberland
+10,Fri Oct 4 2024,20:15,Etoile Carouge FC,,,FC Stade Nyonnais
+10,Sat Oct 5 2024,18:00,FC Wil 1900,,,Stade-Lausanne-Ouchy
+10,Sat Oct 5 2024,18:00,FC Aarau,,,FC Vaduz
+11,Fri Oct 18 2024,19:30,FC Stade Nyonnais,,,FC Wil 1900
+11,Fri Oct 18 2024,20:15,FC Schaffhausen,,,FC Aarau
+11,Fri Oct 18 2024,19:30,Neuchâtel Xamax FCS,,,Etoile Carouge FC
+11,Sat Oct 19 2024,18:00,Stade-Lausanne-Ouchy,,,AC Bellinzona
+11,Sat Oct 19 2024,18:00,FC Vaduz,,,FC Thun Berner Oberland
+12,Fri Oct 25 2024,20:15,FC Aarau,,,FC Stade Nyonnais
+12,Fri Oct 25 2024,20:15,Etoile Carouge FC,,,Stade-Lausanne-Ouchy
+12,Sat Oct 26 2024,18:00,AC Bellinzona,,,Neuchâtel Xamax FCS
+12,Sun Oct 27 2024,14:15,FC Wil 1900,,,FC Vaduz
+12,Sun Oct 27 2024,16:30,FC Thun Berner Oberland,,,FC Schaffhausen
+13,Fri Nov 1 2024,19:30,FC Schaffhausen,,,AC Bellinzona
+13,Fri Nov 1 2024,19:30,Stade-Lausanne-Ouchy,,,FC Vaduz
+13,Fri Nov 1 2024,19:30,Neuchâtel Xamax FCS,,,FC Wil 1900
+13,Fri Nov 1 2024,20:15,Etoile Carouge FC,,,FC Aarau
+13,Fri Nov 1 2024,20:15,FC Stade Nyonnais,,,FC Thun Berner Oberland
+14,Fri Nov 8 2024,20:15,FC Vaduz,,,Neuchâtel Xamax FCS
+14,Fri Nov 8 2024,19:30,Stade-Lausanne-Ouchy,,,FC Stade Nyonnais
+14,Sat Nov 9 2024,18:00,FC Thun Berner Oberland,,,Etoile Carouge FC
+14,Sat Nov 9 2024,18:00,AC Bellinzona,,,FC Aarau
+14,Sun Nov 10 2024,14:15,FC Wil 1900,,,FC Schaffhausen
+15,Fri Nov 22 2024,19:30,FC Stade Nyonnais,,,FC Vaduz
+15,Fri Nov 22 2024,20:15,Etoile Carouge FC,,,AC Bellinzona
+15,Fri Nov 22 2024,20:15,Neuchâtel Xamax FCS,,,FC Thun Berner Oberland
+15,Fri Nov 22 2024,19:30,FC Schaffhausen,,,Stade-Lausanne-Ouchy
+15,Sun Nov 24 2024,14:15,FC Aarau,,,FC Wil 1900
+16,Fri Nov 29 2024,19:30,Stade-Lausanne-Ouchy,,,Neuchâtel Xamax FCS
+16,Fri Nov 29 2024,20:15,FC Vaduz,,,FC Schaffhausen
+16,Sat Nov 30 2024,18:00,FC Thun Berner Oberland,,,FC Aarau
+16,Sat Nov 30 2024,18:00,FC Wil 1900,,,Etoile Carouge FC
+16,Sat Nov 30 2024,18:00,AC Bellinzona,,,FC Stade Nyonnais
 17,Fri Dec 6 2024,,AC Bellinzona,,,FC Vaduz
 17,Fri Dec 6 2024,,Etoile Carouge FC,,,FC Schaffhausen
 17,Fri Dec 6 2024,,FC Aarau,,,Stade-Lausanne-Ouchy
 17,Fri Dec 6 2024,,FC Thun Berner Oberland,,,FC Wil 1900
-17,Fri Dec 6 2024,,Stade Nyonnais,,,Neuchâtel Xamax FCS
-18,Fri Dec 13 2024,,Stade-Lausanne-Ouchy,,,FC Thun Berner Oberland
-18,Fri Dec 13 2024,,FC Vaduz,,,Etoile Carouge FC
-18,Fri Dec 13 2024,,FC Wil 1900,,,AC Bellinzona
-18,Fri Dec 13 2024,,Neuchâtel Xamax FCS,,,FC Aarau
-18,Fri Dec 13 2024,,FC Schaffhausen,,,Stade Nyonnais
+17,Fri Dec 6 2024,,FC Stade Nyonnais,,,Neuchâtel Xamax FCS
+18,Fri Dec 13 2024,19:30,Stade-Lausanne-Ouchy,,,FC Thun Berner Oberland
+18,Fri Dec 13 2024,20:15,Neuchâtel Xamax FCS,,,FC Aarau
+18,Fri Dec 13 2024,19:30,FC Schaffhausen,,,FC Stade Nyonnais
+18,Sat Dec 14 2024,18:00,FC Wil 1900,,,AC Bellinzona
+18,Sat Dec 14 2024,18:00,FC Vaduz,,,Etoile Carouge FC

@@ -1,0 +1,241 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 3 2024,18:00,FC Rodange 91,1-1,1-0,RFCU Luxemburg
+1,Sun Aug 4 2024,16:00,Victoria Rosport,1-0,0-0,CS FOLA Esch
+1,Sun Aug 4 2024,16:00,SC Bettembourg,0-3,0-1,F91 Dudelange
+1,Sun Aug 4 2024,16:00,Jeunesse Esch,1-1,1-0,US Mondorf
+1,Sun Aug 4 2024,16:00,Swift Hesperange,4-0,1-0,Union Titus Pétange
+1,Sun Aug 4 2024,18:30,FC Mondercange,0-2,0-0,Progrès Niedercorn
+1,Sun Aug 4 2024,16:00,US Hostert,3-4,0-2,FC Wiltz 71
+1,Mon Aug 5 2024,20:00,FC Differdange 03,2-0,1-0,UNA Strassen
+2,Sun Aug 11 2024,16:00,US Hostert,1-5,1-2,Swift Hesperange
+2,Sun Aug 11 2024,16:00,Union Titus Pétange,6-0,2-0,FC Mondercange
+2,Sun Aug 11 2024,16:00,US Mondorf,2-1,0-1,SC Bettembourg
+2,Sun Aug 11 2024,16:00,F91 Dudelange,3-0,1-0,Victoria Rosport
+2,Sun Aug 11 2024,16:00,CS FOLA Esch,0-5,0-3,FC Differdange 03
+2,Sun Aug 11 2024,16:00,UNA Strassen,4-0,0-0,FC Rodange 91
+2,Sun Aug 11 2024,16:00,RFCU Luxemburg,3-0,3-0,FC Wiltz 71
+2,Sun Aug 11 2024,18:30,Progrès Niedercorn,3-0,2-0,Jeunesse Esch
+3,Sat Aug 17 2024,18:00,RFCU Luxemburg,4-1,3-0,US Hostert
+3,Sun Aug 18 2024,16:00,FC Wiltz 71,0-3,0-3,UNA Strassen
+3,Sun Aug 18 2024,16:00,FC Rodange 91,3-1,1-1,CS FOLA Esch
+3,Sun Aug 18 2024,16:00,Victoria Rosport,1-0,0-0,US Mondorf
+3,Sun Aug 18 2024,16:00,Jeunesse Esch,0-0,0-0,Union Titus Pétange
+3,Sun Aug 18 2024,18:30,FC Differdange 03,3-0,2-0,F91 Dudelange
+3,Sun Aug 18 2024,18:30,SC Bettembourg,1-3,0-2,Progrès Niedercorn
+3,Sun Aug 18 2024,18:30,FC Mondercange,1-2,0-1,Swift Hesperange
+4,Sat Aug 24 2024,18:00,Swift Hesperange,5-1,2-1,Jeunesse Esch
+4,Sun Aug 25 2024,16:00,US Hostert,2-1,1-0,FC Mondercange
+4,Sun Aug 25 2024,16:00,Union Titus Pétange,4-0,2-0,SC Bettembourg
+4,Sun Aug 25 2024,16:00,Progrès Niedercorn,2-1,1-0,Victoria Rosport
+4,Sun Aug 25 2024,16:00,F91 Dudelange,3-2,1-1,FC Rodange 91
+4,Sun Aug 25 2024,16:00,CS FOLA Esch,1-0,0-0,FC Wiltz 71
+4,Sun Aug 25 2024,16:00,UNA Strassen,0-0,0-0,RFCU Luxemburg
+4,Sun Aug 25 2024,18:30,US Mondorf,0-4,0-3,FC Differdange 03
+5,Sat Aug 31 2024,17:00,FC Wiltz 71,0-4,0-4,F91 Dudelange
+5,Sun Sep 1 2024,16:00,UNA Strassen,2-1,1-1,US Hostert
+5,Sun Sep 1 2024,16:00,RFCU Luxemburg,2-1,1-0,CS FOLA Esch
+5,Sun Sep 1 2024,16:00,FC Rodange 91,1-5,1-2,US Mondorf
+5,Sun Sep 1 2024,16:00,Victoria Rosport,1-2,0-0,Union Titus Pétange
+5,Sun Sep 1 2024,16:00,SC Bettembourg,3-0,3-0,Swift Hesperange
+5,Sun Sep 1 2024,16:00,Jeunesse Esch,3-0,1-0,FC Mondercange
+5,Sun Sep 1 2024,18:30,FC Differdange 03,1-0,0-0,Progrès Niedercorn
+6,Sat Sep 14 2024,17:00,US Hostert,,,Jeunesse Esch
+6,Sun Sep 15 2024,16:00,FC Mondercange,,,SC Bettembourg
+6,Sun Sep 15 2024,16:00,Swift Hesperange,,,Victoria Rosport
+6,Sun Sep 15 2024,16:00,Union Titus Pétange,,,FC Differdange 03
+6,Sun Sep 15 2024,16:00,US Mondorf,,,FC Wiltz 71
+6,Sun Sep 15 2024,16:00,F91 Dudelange,,,RFCU Luxemburg
+6,Sun Sep 15 2024,18:30,Progrès Niedercorn,,,FC Rodange 91
+6,Sun Sep 15 2024,18:30,CS FOLA Esch,,,UNA Strassen
+7,Sat Sep 21 2024,18:00,RFCU Luxemburg,,,US Mondorf
+7,Sat Sep 21 2024,20:00,FC Wiltz 71,,,Progrès Niedercorn
+7,Sat Sep 21 2024,17:00,UNA Strassen,,,F91 Dudelange
+7,Sun Sep 22 2024,16:00,FC Rodange 91,,,Union Titus Pétange
+7,Sun Sep 22 2024,16:00,FC Differdange 03,,,Swift Hesperange
+7,Sun Sep 22 2024,16:00,Victoria Rosport,,,FC Mondercange
+7,Sun Sep 22 2024,18:30,SC Bettembourg,,,Jeunesse Esch
+7,Sun Sep 22 2024,16:00,CS FOLA Esch,,,US Hostert
+8,Wed Sep 25 2024,20:00,US Hostert,,,SC Bettembourg
+8,Wed Sep 25 2024,20:00,Jeunesse Esch,,,Victoria Rosport
+8,Wed Sep 25 2024,20:00,FC Mondercange,,,FC Differdange 03
+8,Wed Sep 25 2024,20:00,Swift Hesperange,,,FC Rodange 91
+8,Wed Sep 25 2024,20:00,Union Titus Pétange,,,FC Wiltz 71
+8,Wed Sep 25 2024,20:00,Progrès Niedercorn,,,RFCU Luxemburg
+8,Wed Sep 25 2024,20:00,US Mondorf,,,UNA Strassen
+8,Wed Sep 25 2024,20:00,F91 Dudelange,,,CS FOLA Esch
+9,Sat Sep 28 2024,17:00,FC Differdange 03,,,Jeunesse Esch
+9,Sun Sep 29 2024,16:00,CS FOLA Esch,,,US Mondorf
+9,Sun Sep 29 2024,16:00,UNA Strassen,,,Progrès Niedercorn
+9,Sun Sep 29 2024,16:00,FC Wiltz 71,,,Swift Hesperange
+9,Sun Sep 29 2024,16:00,FC Rodange 91,,,FC Mondercange
+9,Sun Sep 29 2024,16:00,Victoria Rosport,,,SC Bettembourg
+9,Sun Sep 29 2024,18:30,RFCU Luxemburg,,,Union Titus Pétange
+9,Sun Sep 29 2024,16:00,F91 Dudelange,,,US Hostert
+10,Sun Oct 20 2024,,US Hostert,,,Victoria Rosport
+10,Sun Oct 20 2024,,SC Bettembourg,,,FC Differdange 03
+10,Sun Oct 20 2024,,Jeunesse Esch,,,FC Rodange 91
+10,Sun Oct 20 2024,,FC Mondercange,,,FC Wiltz 71
+10,Sun Oct 20 2024,,Swift Hesperange,,,RFCU Luxemburg
+10,Sun Oct 20 2024,,Union Titus Pétange,,,UNA Strassen
+10,Sun Oct 20 2024,,Progrès Niedercorn,,,CS FOLA Esch
+10,Sun Oct 20 2024,,US Mondorf,,,F91 Dudelange
+11,Sun Oct 27 2024,,F91 Dudelange,,,Progrès Niedercorn
+11,Sun Oct 27 2024,,CS FOLA Esch,,,Union Titus Pétange
+11,Sun Oct 27 2024,,UNA Strassen,,,Swift Hesperange
+11,Sun Oct 27 2024,,RFCU Luxemburg,,,FC Mondercange
+11,Sun Oct 27 2024,,FC Wiltz 71,,,Jeunesse Esch
+11,Sun Oct 27 2024,,FC Rodange 91,,,SC Bettembourg
+11,Sun Oct 27 2024,,FC Differdange 03,,,Victoria Rosport
+11,Sun Oct 27 2024,,US Mondorf,,,US Hostert
+12,Sun Nov 3 2024,,US Hostert,,,FC Differdange 03
+12,Sun Nov 3 2024,,Victoria Rosport,,,FC Rodange 91
+12,Sun Nov 3 2024,,SC Bettembourg,,,FC Wiltz 71
+12,Sun Nov 3 2024,,Jeunesse Esch,,,RFCU Luxemburg
+12,Sun Nov 3 2024,,FC Mondercange,,,UNA Strassen
+12,Sun Nov 3 2024,,Swift Hesperange,,,CS FOLA Esch
+12,Sun Nov 3 2024,,Union Titus Pétange,,,F91 Dudelange
+12,Sun Nov 3 2024,,Progrès Niedercorn,,,US Mondorf
+13,Sun Nov 24 2024,,FC Rodange 91,,,FC Differdange 03
+13,Sun Nov 24 2024,,FC Wiltz 71,,,Victoria Rosport
+13,Sun Nov 24 2024,,RFCU Luxemburg,,,SC Bettembourg
+13,Sun Nov 24 2024,,UNA Strassen,,,Jeunesse Esch
+13,Sun Nov 24 2024,,CS FOLA Esch,,,FC Mondercange
+13,Sun Nov 24 2024,,F91 Dudelange,,,Swift Hesperange
+13,Sun Nov 24 2024,,US Mondorf,,,Union Titus Pétange
+13,Sun Nov 24 2024,,Progrès Niedercorn,,,US Hostert
+14,Sun Dec 1 2024,,US Hostert,,,FC Rodange 91
+14,Sun Dec 1 2024,,FC Differdange 03,,,FC Wiltz 71
+14,Sun Dec 1 2024,,Victoria Rosport,,,RFCU Luxemburg
+14,Sun Dec 1 2024,,SC Bettembourg,,,UNA Strassen
+14,Sun Dec 1 2024,,Jeunesse Esch,,,CS FOLA Esch
+14,Sun Dec 1 2024,,FC Mondercange,,,F91 Dudelange
+14,Sun Dec 1 2024,,Swift Hesperange,,,US Mondorf
+14,Sun Dec 1 2024,,Union Titus Pétange,,,Progrès Niedercorn
+15,Sun Dec 8 2024,,Progrès Niedercorn,,,Swift Hesperange
+15,Sun Dec 8 2024,,US Mondorf,,,FC Mondercange
+15,Sun Dec 8 2024,,F91 Dudelange,,,Jeunesse Esch
+15,Sun Dec 8 2024,,CS FOLA Esch,,,SC Bettembourg
+15,Sun Dec 8 2024,,UNA Strassen,,,Victoria Rosport
+15,Sun Dec 8 2024,,RFCU Luxemburg,,,FC Differdange 03
+15,Sun Dec 8 2024,,FC Wiltz 71,,,FC Rodange 91
+15,Sun Dec 8 2024,,Union Titus Pétange,,,US Hostert
+16,Sun Feb 9 2025,,Swift Hesperange,,,US Hostert
+16,Sun Feb 9 2025,,FC Mondercange,,,Union Titus Pétange
+16,Sun Feb 9 2025,,Jeunesse Esch,,,Progrès Niedercorn
+16,Sun Feb 9 2025,,SC Bettembourg,,,US Mondorf
+16,Sun Feb 9 2025,,Victoria Rosport,,,F91 Dudelange
+16,Sun Feb 9 2025,,FC Differdange 03,,,CS FOLA Esch
+16,Sun Feb 9 2025,,FC Rodange 91,,,UNA Strassen
+16,Sun Feb 9 2025,,FC Wiltz 71,,,RFCU Luxemburg
+17,Sun Feb 16 2025,,UNA Strassen,,,FC Wiltz 71
+17,Sun Feb 16 2025,,CS FOLA Esch,,,FC Rodange 91
+17,Sun Feb 16 2025,,F91 Dudelange,,,FC Differdange 03
+17,Sun Feb 16 2025,,US Mondorf,,,Victoria Rosport
+17,Sun Feb 16 2025,,Progrès Niedercorn,,,SC Bettembourg
+17,Sun Feb 16 2025,,Union Titus Pétange,,,Jeunesse Esch
+17,Sun Feb 16 2025,,Swift Hesperange,,,FC Mondercange
+17,Sun Feb 16 2025,,US Hostert,,,RFCU Luxemburg
+18,Sun Feb 23 2025,,FC Mondercange,,,US Hostert
+18,Sun Feb 23 2025,,Jeunesse Esch,,,Swift Hesperange
+18,Sun Feb 23 2025,,SC Bettembourg,,,Union Titus Pétange
+18,Sun Feb 23 2025,,Victoria Rosport,,,Progrès Niedercorn
+18,Sun Feb 23 2025,,FC Differdange 03,,,US Mondorf
+18,Sun Feb 23 2025,,FC Rodange 91,,,F91 Dudelange
+18,Sun Feb 23 2025,,FC Wiltz 71,,,CS FOLA Esch
+18,Sun Feb 23 2025,,RFCU Luxemburg,,,UNA Strassen
+19,Sun Mar 2 2025,,CS FOLA Esch,,,RFCU Luxemburg
+19,Sun Mar 2 2025,,F91 Dudelange,,,FC Wiltz 71
+19,Sun Mar 2 2025,,US Mondorf,,,FC Rodange 91
+19,Sun Mar 2 2025,,Progrès Niedercorn,,,FC Differdange 03
+19,Sun Mar 2 2025,,Union Titus Pétange,,,Victoria Rosport
+19,Sun Mar 2 2025,,Swift Hesperange,,,SC Bettembourg
+19,Sun Mar 2 2025,,FC Mondercange,,,Jeunesse Esch
+19,Sun Mar 2 2025,,US Hostert,,,UNA Strassen
+20,Sun Mar 9 2025,,Jeunesse Esch,,,US Hostert
+20,Sun Mar 9 2025,,SC Bettembourg,,,FC Mondercange
+20,Sun Mar 9 2025,,Victoria Rosport,,,Swift Hesperange
+20,Sun Mar 9 2025,,FC Differdange 03,,,Union Titus Pétange
+20,Sun Mar 9 2025,,FC Rodange 91,,,Progrès Niedercorn
+20,Sun Mar 9 2025,,FC Wiltz 71,,,US Mondorf
+20,Sun Mar 9 2025,,RFCU Luxemburg,,,F91 Dudelange
+20,Sun Mar 9 2025,,UNA Strassen,,,CS FOLA Esch
+21,Sun Mar 16 2025,,F91 Dudelange,,,UNA Strassen
+21,Sun Mar 16 2025,,US Mondorf,,,RFCU Luxemburg
+21,Sun Mar 16 2025,,Progrès Niedercorn,,,FC Wiltz 71
+21,Sun Mar 16 2025,,Union Titus Pétange,,,FC Rodange 91
+21,Sun Mar 16 2025,,Swift Hesperange,,,FC Differdange 03
+21,Sun Mar 16 2025,,FC Mondercange,,,Victoria Rosport
+21,Sun Mar 16 2025,,Jeunesse Esch,,,SC Bettembourg
+21,Sun Mar 16 2025,,US Hostert,,,CS FOLA Esch
+22,Sun Mar 30 2025,,SC Bettembourg,,,US Hostert
+22,Sun Mar 30 2025,,Victoria Rosport,,,Jeunesse Esch
+22,Sun Mar 30 2025,,FC Differdange 03,,,FC Mondercange
+22,Sun Mar 30 2025,,FC Rodange 91,,,Swift Hesperange
+22,Sun Mar 30 2025,,FC Wiltz 71,,,Union Titus Pétange
+22,Sun Mar 30 2025,,RFCU Luxemburg,,,Progrès Niedercorn
+22,Sun Mar 30 2025,,UNA Strassen,,,US Mondorf
+22,Sun Mar 30 2025,,CS FOLA Esch,,,F91 Dudelange
+23,Sun Apr 6 2025,,US Mondorf,,,CS FOLA Esch
+23,Sun Apr 6 2025,,Progrès Niedercorn,,,UNA Strassen
+23,Sun Apr 6 2025,,Union Titus Pétange,,,RFCU Luxemburg
+23,Sun Apr 6 2025,,Swift Hesperange,,,FC Wiltz 71
+23,Sun Apr 6 2025,,FC Mondercange,,,FC Rodange 91
+23,Sun Apr 6 2025,,Jeunesse Esch,,,FC Differdange 03
+23,Sun Apr 6 2025,,SC Bettembourg,,,Victoria Rosport
+23,Sun Apr 6 2025,,US Hostert,,,F91 Dudelange
+24,Sun Apr 13 2025,,Victoria Rosport,,,US Hostert
+24,Sun Apr 13 2025,,FC Differdange 03,,,SC Bettembourg
+24,Sun Apr 13 2025,,FC Rodange 91,,,Jeunesse Esch
+24,Sun Apr 13 2025,,FC Wiltz 71,,,FC Mondercange
+24,Sun Apr 13 2025,,RFCU Luxemburg,,,Swift Hesperange
+24,Sun Apr 13 2025,,UNA Strassen,,,Union Titus Pétange
+24,Sun Apr 13 2025,,CS FOLA Esch,,,Progrès Niedercorn
+24,Sun Apr 13 2025,,F91 Dudelange,,,US Mondorf
+25,Sat Apr 19 2025,,Progrès Niedercorn,,,F91 Dudelange
+25,Sat Apr 19 2025,,Union Titus Pétange,,,CS FOLA Esch
+25,Sat Apr 19 2025,,Swift Hesperange,,,UNA Strassen
+25,Sat Apr 19 2025,,FC Mondercange,,,RFCU Luxemburg
+25,Sat Apr 19 2025,,Jeunesse Esch,,,FC Wiltz 71
+25,Sat Apr 19 2025,,SC Bettembourg,,,FC Rodange 91
+25,Sat Apr 19 2025,,Victoria Rosport,,,FC Differdange 03
+25,Sat Apr 19 2025,,US Hostert,,,US Mondorf
+26,Sun Apr 27 2025,,FC Differdange 03,,,US Hostert
+26,Sun Apr 27 2025,,FC Rodange 91,,,Victoria Rosport
+26,Sun Apr 27 2025,,FC Wiltz 71,,,SC Bettembourg
+26,Sun Apr 27 2025,,RFCU Luxemburg,,,Jeunesse Esch
+26,Sun Apr 27 2025,,UNA Strassen,,,FC Mondercange
+26,Sun Apr 27 2025,,CS FOLA Esch,,,Swift Hesperange
+26,Sun Apr 27 2025,,F91 Dudelange,,,Union Titus Pétange
+26,Sun Apr 27 2025,,US Mondorf,,,Progrès Niedercorn
+27,Sun May 4 2025,,FC Differdange 03,,,FC Rodange 91
+27,Sun May 4 2025,,Victoria Rosport,,,FC Wiltz 71
+27,Sun May 4 2025,,SC Bettembourg,,,RFCU Luxemburg
+27,Sun May 4 2025,,Jeunesse Esch,,,UNA Strassen
+27,Sun May 4 2025,,FC Mondercange,,,CS FOLA Esch
+27,Sun May 4 2025,,Swift Hesperange,,,F91 Dudelange
+27,Sun May 4 2025,,Union Titus Pétange,,,US Mondorf
+27,Sun May 4 2025,,US Hostert,,,Progrès Niedercorn
+28,Sun May 11 2025,,FC Rodange 91,,,US Hostert
+28,Sun May 11 2025,,FC Wiltz 71,,,FC Differdange 03
+28,Sun May 11 2025,,RFCU Luxemburg,,,Victoria Rosport
+28,Sun May 11 2025,,UNA Strassen,,,SC Bettembourg
+28,Sun May 11 2025,,CS FOLA Esch,,,Jeunesse Esch
+28,Sun May 11 2025,,F91 Dudelange,,,FC Mondercange
+28,Sun May 11 2025,,US Mondorf,,,Swift Hesperange
+28,Sun May 11 2025,,Progrès Niedercorn,,,Union Titus Pétange
+29,Sun May 18 2025,,Swift Hesperange,,,Progrès Niedercorn
+29,Sun May 18 2025,,FC Mondercange,,,US Mondorf
+29,Sun May 18 2025,,Jeunesse Esch,,,F91 Dudelange
+29,Sun May 18 2025,,SC Bettembourg,,,CS FOLA Esch
+29,Sun May 18 2025,,Victoria Rosport,,,UNA Strassen
+29,Sun May 18 2025,,FC Differdange 03,,,RFCU Luxemburg
+29,Sun May 18 2025,,FC Rodange 91,,,FC Wiltz 71
+29,Sun May 18 2025,,US Hostert,,,Union Titus Pétange
+30,Sun May 25 2025,,FC Wiltz 71,,,US Hostert
+30,Sun May 25 2025,,RFCU Luxemburg,,,FC Rodange 91
+30,Sun May 25 2025,,UNA Strassen,,,FC Differdange 03
+30,Sun May 25 2025,,CS FOLA Esch,,,Victoria Rosport
+30,Sun May 25 2025,,F91 Dudelange,,,SC Bettembourg
+30,Sun May 25 2025,,US Mondorf,,,Jeunesse Esch
+30,Sun May 25 2025,,Progrès Niedercorn,,,FC Mondercange
+30,Sun May 25 2025,,Union Titus Pétange,,,Swift Hesperange

@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 10 2024,14:00,CD Mafra,0-1,0-1,Paços de Ferreira
+1,Sat Aug 10 2024,15:30,Leixões SC,2-1,1-1,SL Benfica B
+1,Sat Aug 10 2024,18:00,Académico de Viseu,2-1,2-0,GD Chaves
+1,Sat Aug 10 2024,11:00,CS Marítimo,2-2,1-2,CD Tondela
+1,Sun Aug 11 2024,11:00,FC Penafiel,4-3,2-3,UD Oliveirense
+1,Sun Aug 11 2024,14:00,União Torreense,0-1,0-0,CD Feirense
+1,Sun Aug 11 2024,18:00,FC Porto B,1-1,0-1,FC Alverca
+1,Sun Aug 11 2024,20:30,União Leiria,0-2,0-1,FC Vizela
+1,Mon Aug 12 2024,18:00,FC Felgueiras 1932,0-0,0-0,Portimonense SC
+2,Sat Aug 17 2024,11:00,FC Alverca,1-1,0-0,FC Felgueiras 1932
+2,Sat Aug 17 2024,14:00,UD Oliveirense,0-0,0-0,CD Mafra
+2,Sat Aug 17 2024,20:30,Portimonense SC,0-3,0-1,União Leiria
+2,Sun Aug 18 2024,14:00,CD Feirense,2-2,2-1,Académico de Viseu
+2,Sun Aug 18 2024,15:30,FC Vizela,1-2,0-1,FC Penafiel
+2,Sun Aug 18 2024,18:00,GD Chaves,0-0,0-0,Leixões SC
+2,Sun Aug 18 2024,18:00,SL Benfica B,2-0,1-0,União Torreense
+2,Sun Aug 18 2024,11:00,Paços de Ferreira,1-2,1-1,CS Marítimo
+2,Mon Aug 19 2024,18:00,CD Tondela,2-2,1-0,FC Porto B
+3,Fri Aug 23 2024,18:00,União Leiria,1-1,0-0,FC Alverca
+3,Sat Aug 24 2024,14:00,União Torreense,3-0,1-0,UD Oliveirense
+3,Sat Aug 24 2024,15:30,Leixões SC,3-3,2-2,Paços de Ferreira
+3,Sat Aug 24 2024,11:00,FC Felgueiras 1932,0-0,0-0,CD Feirense
+3,Sun Aug 25 2024,14:00,FC Penafiel,2-2,2-2,CD Tondela
+3,Sun Aug 25 2024,15:30,CS Marítimo,1-1,0-0,GD Chaves
+3,Sun Aug 25 2024,18:00,CD Mafra,2-2,0-0,Portimonense SC
+3,Sun Aug 25 2024,18:00,SL Benfica B,1-0,0-0,FC Vizela
+3,Sun Aug 25 2024,11:00,Académico de Viseu,2-0,2-0,FC Porto B
+4,Fri Aug 30 2024,18:00,FC Alverca,0-4,0-3,Académico de Viseu
+4,Sat Aug 31 2024,14:00,CD Tondela,1-1,0-0,FC Felgueiras 1932
+4,Sat Aug 31 2024,15:30,FC Vizela,1-2,0-1,União Torreense
+4,Sat Aug 31 2024,11:00,UD Oliveirense,0-1,0-1,Leixões SC
+4,Sun Sep 1 2024,14:00,CD Feirense,2-3,1-2,SL Benfica B
+4,Sun Sep 1 2024,15:30,Paços de Ferreira,1-3,1-1,FC Penafiel
+4,Sun Sep 1 2024,18:00,FC Porto B,1-1,1-1,União Leiria
+4,Sun Sep 1 2024,18:00,GD Chaves,0-3,0-1,CD Mafra
+4,Sun Sep 1 2024,11:00,Portimonense SC,5-1,3-0,CS Marítimo
+5,Fri Sep 13 2024,18:00,União Torreense,,,Portimonense SC
+5,Sat Sep 14 2024,14:00,Académico de Viseu,,,União Leiria
+5,Sat Sep 14 2024,11:00,FC Felgueiras 1932,,,GD Chaves
+5,Sun Sep 15 2024,11:00,CD Mafra,,,CD Tondela
+5,Sun Sep 15 2024,12:45,FC Penafiel,,,FC Porto B
+5,Sun Sep 15 2024,15:30,SL Benfica B,,,UD Oliveirense
+5,Sun Sep 15 2024,15:30,Leixões SC,,,FC Vizela
+5,Sun Sep 15 2024,11:00,CS Marítimo,,,FC Alverca
+5,Mon Sep 16 2024,18:00,CD Feirense,,,Paços de Ferreira
+6,Sat Sep 28 2024,11:00,GD Chaves,,,União Torreense
+6,Sat Sep 28 2024,14:00,Paços de Ferreira,,,SL Benfica B
+6,Sat Sep 28 2024,18:00,Portimonense SC,,,FC Penafiel
+6,Sat Sep 28 2024,20:30,CD Tondela,,,Académico de Viseu
+6,Sun Sep 29 2024,11:00,UD Oliveirense,,,CD Feirense
+6,Sun Sep 29 2024,14:00,FC Alverca,,,Leixões SC
+6,Sun Sep 29 2024,20:30,União Leiria,,,CS Marítimo
+6,Sun Sep 29 2024,11:00,FC Porto B,,,FC Felgueiras 1932
+6,Mon Sep 30 2024,18:00,FC Vizela,,,CD Mafra
+7,Sun Oct 6 2024,,FC Felgueiras 1932,,,Académico de Viseu
+7,Sun Oct 6 2024,,CD Mafra,,,FC Alverca
+7,Sun Oct 6 2024,,União Torreense,,,CD Tondela
+7,Sun Oct 6 2024,,FC Penafiel,,,União Leiria
+7,Sun Oct 6 2024,,UD Oliveirense,,,Paços de Ferreira
+7,Sun Oct 6 2024,,SL Benfica B,,,GD Chaves
+7,Sun Oct 6 2024,,Leixões SC,,,Portimonense SC
+7,Sun Oct 6 2024,,CD Feirense,,,FC Vizela
+7,Sun Oct 6 2024,,CS Marítimo,,,FC Porto B
+8,Sun Oct 13 2024,,União Leiria,,,FC Felgueiras 1932
+8,Sun Oct 13 2024,,CD Tondela,,,Leixões SC
+8,Sun Oct 13 2024,,Portimonense SC,,,SL Benfica B
+8,Sun Oct 13 2024,,FC Vizela,,,UD Oliveirense
+8,Sun Oct 13 2024,,FC Porto B,,,CD Mafra
+8,Sun Oct 13 2024,,GD Chaves,,,CD Feirense
+8,Sun Oct 13 2024,,FC Alverca,,,FC Penafiel
+8,Sun Oct 13 2024,,Académico de Viseu,,,CS Marítimo
+8,Sun Oct 13 2024,,Paços de Ferreira,,,União Torreense
+9,Sun Oct 27 2024,,União Torreense,,,FC Alverca
+9,Sun Oct 27 2024,,UD Oliveirense,,,GD Chaves
+9,Sun Oct 27 2024,,CD Mafra,,,União Leiria
+9,Sun Oct 27 2024,,FC Penafiel,,,Académico de Viseu
+9,Sun Oct 27 2024,,FC Felgueiras 1932,,,CS Marítimo
+9,Sun Oct 27 2024,,SL Benfica B,,,CD Tondela
+9,Sun Oct 27 2024,,Paços de Ferreira,,,FC Vizela
+9,Sun Oct 27 2024,,CD Feirense,,,Portimonense SC
+9,Sun Oct 27 2024,,Leixões SC,,,FC Porto B
+10,Sun Nov 3 2024,,CS Marítimo,,,FC Penafiel
+10,Sun Nov 3 2024,,Portimonense SC,,,FC Vizela
+10,Sun Nov 3 2024,,União Leiria,,,Leixões SC
+10,Sun Nov 3 2024,,CD Tondela,,,UD Oliveirense
+10,Sun Nov 3 2024,,GD Chaves,,,Paços de Ferreira
+10,Sun Nov 3 2024,,FC Porto B,,,União Torreense
+10,Sun Nov 3 2024,,FC Alverca,,,CD Feirense
+10,Sun Nov 3 2024,,Académico de Viseu,,,SL Benfica B
+10,Sun Nov 3 2024,,FC Felgueiras 1932,,,CD Mafra
+11,Sun Nov 10 2024,,SL Benfica B,,,FC Alverca
+11,Sun Nov 10 2024,,FC Penafiel,,,FC Felgueiras 1932
+11,Sun Nov 10 2024,,FC Vizela,,,GD Chaves
+11,Sun Nov 10 2024,,União Torreense,,,União Leiria
+11,Sun Nov 10 2024,,CD Mafra,,,Académico de Viseu
+11,Sun Nov 10 2024,,UD Oliveirense,,,Portimonense SC
+11,Sun Nov 10 2024,,Paços de Ferreira,,,FC Porto B
+11,Sun Nov 10 2024,,CD Feirense,,,CD Tondela
+11,Sun Nov 10 2024,,Leixões SC,,,CS Marítimo
+12,Sun Dec 1 2024,,CD Tondela,,,Paços de Ferreira
+12,Sun Dec 1 2024,,Portimonense SC,,,GD Chaves
+12,Sun Dec 1 2024,,CS Marítimo,,,SL Benfica B
+12,Sun Dec 1 2024,,FC Porto B,,,UD Oliveirense
+12,Sun Dec 1 2024,,FC Penafiel,,,CD Mafra
+12,Sun Dec 1 2024,,União Leiria,,,CD Feirense
+12,Sun Dec 1 2024,,FC Alverca,,,FC Vizela
+12,Sun Dec 1 2024,,Académico de Viseu,,,Leixões SC
+12,Sun Dec 1 2024,,FC Felgueiras 1932,,,União Torreense
+13,Sun Dec 8 2024,,União Torreense,,,Académico de Viseu
+13,Sun Dec 8 2024,,UD Oliveirense,,,FC Alverca
+13,Sun Dec 8 2024,,FC Vizela,,,CD Tondela
+13,Sun Dec 8 2024,,Leixões SC,,,FC Felgueiras 1932
+13,Sun Dec 8 2024,,SL Benfica B,,,União Leiria
+13,Sun Dec 8 2024,,GD Chaves,,,FC Porto B
+13,Sun Dec 8 2024,,CD Mafra,,,CS Marítimo
+13,Sun Dec 8 2024,,CD Feirense,,,FC Penafiel
+13,Sun Dec 8 2024,,Paços de Ferreira,,,Portimonense SC
+14,Sun Dec 15 2024,,FC Porto B,,,CD Feirense
+14,Sun Dec 15 2024,,FC Penafiel,,,Leixões SC
+14,Sun Dec 15 2024,,CD Tondela,,,Portimonense SC
+14,Sun Dec 15 2024,,CD Mafra,,,SL Benfica B
+14,Sun Dec 15 2024,,União Leiria,,,Paços de Ferreira
+14,Sun Dec 15 2024,,CS Marítimo,,,União Torreense
+14,Sun Dec 15 2024,,FC Alverca,,,GD Chaves
+14,Sun Dec 15 2024,,Académico de Viseu,,,UD Oliveirense
+14,Sun Dec 15 2024,,FC Felgueiras 1932,,,FC Vizela
+15,Sun Dec 22 2024,,Paços de Ferreira,,,FC Alverca
+15,Sun Dec 22 2024,,União Torreense,,,FC Penafiel
+15,Sun Dec 22 2024,,FC Vizela,,,FC Porto B
+15,Sun Dec 22 2024,,UD Oliveirense,,,União Leiria
+15,Sun Dec 22 2024,,Portimonense SC,,,Académico de Viseu
+15,Sun Dec 22 2024,,SL Benfica B,,,FC Felgueiras 1932
+15,Sun Dec 22 2024,,GD Chaves,,,CD Tondela
+15,Sun Dec 22 2024,,CD Feirense,,,CS Marítimo
+15,Sun Dec 22 2024,,Leixões SC,,,CD Mafra
+16,Sun Dec 29 2024,,CS Marítimo,,,UD Oliveirense
+16,Sun Dec 29 2024,,CD Mafra,,,CD Feirense
+16,Sun Dec 29 2024,,União Leiria,,,GD Chaves
+16,Sun Dec 29 2024,,FC Penafiel,,,SL Benfica B
+16,Sun Dec 29 2024,,Leixões SC,,,União Torreense
+16,Sun Dec 29 2024,,FC Porto B,,,Portimonense SC
+16,Sun Dec 29 2024,,FC Alverca,,,CD Tondela
+16,Sun Dec 29 2024,,Académico de Viseu,,,FC Vizela
+16,Sun Dec 29 2024,,FC Felgueiras 1932,,,Paços de Ferreira
+17,Sun Jan 5 2025,,União Torreense,,,CD Mafra
+17,Sun Jan 5 2025,,UD Oliveirense,,,FC Felgueiras 1932
+17,Sun Jan 5 2025,,FC Vizela,,,CS Marítimo
+17,Sun Jan 5 2025,,Portimonense SC,,,FC Alverca
+17,Sun Jan 5 2025,,CD Tondela,,,União Leiria
+17,Sun Jan 5 2025,,Paços de Ferreira,,,Académico de Viseu
+17,Sun Jan 5 2025,,GD Chaves,,,FC Penafiel
+17,Sun Jan 5 2025,,CD Feirense,,,Leixões SC
+17,Sun Jan 5 2025,,SL Benfica B,,,FC Porto B
+18,Sun Jan 19 2025,,CD Feirense,,,União Torreense
+18,Sun Jan 19 2025,,SL Benfica B,,,Leixões SC
+18,Sun Jan 19 2025,,UD Oliveirense,,,FC Penafiel
+18,Sun Jan 19 2025,,FC Alverca,,,FC Porto B
+18,Sun Jan 19 2025,,FC Vizela,,,União Leiria
+18,Sun Jan 19 2025,,GD Chaves,,,Académico de Viseu
+18,Sun Jan 19 2025,,Portimonense SC,,,FC Felgueiras 1932
+18,Sun Jan 19 2025,,Paços de Ferreira,,,CD Mafra
+18,Sun Jan 19 2025,,CD Tondela,,,CS Marítimo
+19,Sun Jan 26 2025,,FC Porto B,,,CD Tondela
+19,Sun Jan 26 2025,,CS Marítimo,,,Paços de Ferreira
+19,Sun Jan 26 2025,,União Leiria,,,Portimonense SC
+19,Sun Jan 26 2025,,FC Penafiel,,,FC Vizela
+19,Sun Jan 26 2025,,CD Mafra,,,UD Oliveirense
+19,Sun Jan 26 2025,,FC Felgueiras 1932,,,FC Alverca
+19,Sun Jan 26 2025,,União Torreense,,,SL Benfica B
+19,Sun Jan 26 2025,,Leixões SC,,,GD Chaves
+19,Sun Jan 26 2025,,Académico de Viseu,,,CD Feirense
+20,Sun Feb 2 2025,,CD Feirense,,,FC Felgueiras 1932
+20,Sun Feb 2 2025,,GD Chaves,,,CS Marítimo
+20,Sun Feb 2 2025,,UD Oliveirense,,,União Torreense
+20,Sun Feb 2 2025,,FC Alverca,,,União Leiria
+20,Sun Feb 2 2025,,FC Vizela,,,SL Benfica B
+20,Sun Feb 2 2025,,FC Porto B,,,Académico de Viseu
+20,Sun Feb 2 2025,,CD Tondela,,,FC Penafiel
+20,Sun Feb 2 2025,,Portimonense SC,,,CD Mafra
+20,Sun Feb 2 2025,,Paços de Ferreira,,,Leixões SC
+21,Sun Feb 9 2025,,CS Marítimo,,,Portimonense SC
+21,Sun Feb 9 2025,,União Torreense,,,FC Vizela
+21,Sun Feb 9 2025,,SL Benfica B,,,CD Feirense
+21,Sun Feb 9 2025,,Leixões SC,,,UD Oliveirense
+21,Sun Feb 9 2025,,União Leiria,,,FC Porto B
+21,Sun Feb 9 2025,,FC Penafiel,,,Paços de Ferreira
+21,Sun Feb 9 2025,,Académico de Viseu,,,FC Alverca
+21,Sun Feb 9 2025,,CD Mafra,,,GD Chaves
+21,Sun Feb 9 2025,,FC Felgueiras 1932,,,CD Tondela
+22,Sun Feb 16 2025,,FC Alverca,,,CS Marítimo
+22,Sun Feb 16 2025,,GD Chaves,,,FC Felgueiras 1932
+22,Sun Feb 16 2025,,Portimonense SC,,,União Torreense
+22,Sun Feb 16 2025,,UD Oliveirense,,,SL Benfica B
+22,Sun Feb 16 2025,,FC Vizela,,,Leixões SC
+22,Sun Feb 16 2025,,União Leiria,,,Académico de Viseu
+22,Sun Feb 16 2025,,CD Tondela,,,CD Mafra
+22,Sun Feb 16 2025,,Paços de Ferreira,,,CD Feirense
+22,Sun Feb 16 2025,,FC Porto B,,,FC Penafiel
+23,Sun Feb 23 2025,,CD Mafra,,,FC Vizela
+23,Sun Feb 23 2025,,FC Felgueiras 1932,,,FC Porto B
+23,Sun Feb 23 2025,,FC Penafiel,,,Portimonense SC
+23,Sun Feb 23 2025,,CD Feirense,,,UD Oliveirense
+23,Sun Feb 23 2025,,SL Benfica B,,,Paços de Ferreira
+23,Sun Feb 23 2025,,Académico de Viseu,,,CD Tondela
+23,Sun Feb 23 2025,,União Torreense,,,GD Chaves
+23,Sun Feb 23 2025,,Leixões SC,,,FC Alverca
+23,Sun Feb 23 2025,,CS Marítimo,,,União Leiria
+24,Sun Mar 2 2025,,Académico de Viseu,,,FC Felgueiras 1932
+24,Sun Mar 2 2025,,FC Alverca,,,CD Mafra
+24,Sun Mar 2 2025,,CD Tondela,,,União Torreense
+24,Sun Mar 2 2025,,Paços de Ferreira,,,UD Oliveirense
+24,Sun Mar 2 2025,,União Leiria,,,FC Penafiel
+24,Sun Mar 2 2025,,GD Chaves,,,SL Benfica B
+24,Sun Mar 2 2025,,Portimonense SC,,,Leixões SC
+24,Sun Mar 2 2025,,FC Vizela,,,CD Feirense
+24,Sun Mar 2 2025,,FC Porto B,,,CS Marítimo
+25,Sun Mar 9 2025,,FC Felgueiras 1932,,,União Leiria
+25,Sun Mar 9 2025,,Leixões SC,,,CD Tondela
+25,Sun Mar 9 2025,,SL Benfica B,,,Portimonense SC
+25,Sun Mar 9 2025,,UD Oliveirense,,,FC Vizela
+25,Sun Mar 9 2025,,CD Mafra,,,FC Porto B
+25,Sun Mar 9 2025,,CD Feirense,,,GD Chaves
+25,Sun Mar 9 2025,,FC Penafiel,,,FC Alverca
+25,Sun Mar 9 2025,,CS Marítimo,,,Académico de Viseu
+25,Sun Mar 9 2025,,União Torreense,,,Paços de Ferreira
+26,Sun Mar 16 2025,,FC Alverca,,,União Torreense
+26,Sun Mar 16 2025,,Académico de Viseu,,,FC Penafiel
+26,Sun Mar 16 2025,,GD Chaves,,,UD Oliveirense
+26,Sun Mar 16 2025,,União Leiria,,,CD Mafra
+26,Sun Mar 16 2025,,FC Vizela,,,Paços de Ferreira
+26,Sun Mar 16 2025,,CD Tondela,,,SL Benfica B
+26,Sun Mar 16 2025,,CS Marítimo,,,FC Felgueiras 1932
+26,Sun Mar 16 2025,,Portimonense SC,,,CD Feirense
+26,Sun Mar 16 2025,,FC Porto B,,,Leixões SC
+27,Sun Mar 30 2025,,FC Vizela,,,Portimonense SC
+27,Sun Mar 30 2025,,Leixões SC,,,União Leiria
+27,Sun Mar 30 2025,,UD Oliveirense,,,CD Tondela
+27,Sun Mar 30 2025,,FC Penafiel,,,CS Marítimo
+27,Sun Mar 30 2025,,Paços de Ferreira,,,GD Chaves
+27,Sun Mar 30 2025,,SL Benfica B,,,Académico de Viseu
+27,Sun Mar 30 2025,,CD Mafra,,,FC Felgueiras 1932
+27,Sun Mar 30 2025,,CD Feirense,,,FC Alverca
+27,Sun Mar 30 2025,,União Torreense,,,FC Porto B
+28,Sun Apr 6 2025,,FC Felgueiras 1932,,,FC Penafiel
+28,Sun Apr 6 2025,,GD Chaves,,,FC Vizela
+28,Sun Apr 6 2025,,União Leiria,,,União Torreense
+28,Sun Apr 6 2025,,FC Alverca,,,SL Benfica B
+28,Sun Apr 6 2025,,Académico de Viseu,,,CD Mafra
+28,Sun Apr 6 2025,,CD Tondela,,,CD Feirense
+28,Sun Apr 6 2025,,CS Marítimo,,,Leixões SC
+28,Sun Apr 6 2025,,FC Porto B,,,Paços de Ferreira
+28,Sun Apr 6 2025,,Portimonense SC,,,UD Oliveirense
+29,Sun Apr 13 2025,,GD Chaves,,,Portimonense SC
+29,Sun Apr 13 2025,,SL Benfica B,,,CS Marítimo
+29,Sun Apr 13 2025,,UD Oliveirense,,,FC Porto B
+29,Sun Apr 13 2025,,Paços de Ferreira,,,CD Tondela
+29,Sun Apr 13 2025,,CD Mafra,,,FC Penafiel
+29,Sun Apr 13 2025,,Leixões SC,,,Académico de Viseu
+29,Sun Apr 13 2025,,União Torreense,,,FC Felgueiras 1932
+29,Sun Apr 13 2025,,FC Vizela,,,FC Alverca
+29,Sun Apr 13 2025,,CD Feirense,,,União Leiria
+30,Sat Apr 19 2025,,Académico de Viseu,,,União Torreense
+30,Sat Apr 19 2025,,CD Tondela,,,FC Vizela
+30,Sat Apr 19 2025,,FC Felgueiras 1932,,,Leixões SC
+30,Sat Apr 19 2025,,União Leiria,,,SL Benfica B
+30,Sat Apr 19 2025,,FC Alverca,,,UD Oliveirense
+30,Sat Apr 19 2025,,FC Porto B,,,GD Chaves
+30,Sat Apr 19 2025,,CS Marítimo,,,CD Mafra
+30,Sat Apr 19 2025,,FC Penafiel,,,CD Feirense
+30,Sat Apr 19 2025,,Portimonense SC,,,Paços de Ferreira
+31,Sun Apr 27 2025,,Leixões SC,,,FC Penafiel
+31,Sun Apr 27 2025,,Portimonense SC,,,CD Tondela
+31,Sun Apr 27 2025,,SL Benfica B,,,CD Mafra
+31,Sun Apr 27 2025,,CD Feirense,,,FC Porto B
+31,Sun Apr 27 2025,,Paços de Ferreira,,,União Leiria
+31,Sun Apr 27 2025,,UD Oliveirense,,,Académico de Viseu
+31,Sun Apr 27 2025,,FC Vizela,,,FC Felgueiras 1932
+31,Sun Apr 27 2025,,GD Chaves,,,FC Alverca
+31,Sun Apr 27 2025,,União Torreense,,,CS Marítimo
+32,Sun May 4 2025,,FC Alverca,,,Paços de Ferreira
+32,Sun May 4 2025,,FC Porto B,,,FC Vizela
+32,Sun May 4 2025,,União Leiria,,,UD Oliveirense
+32,Sun May 4 2025,,Académico de Viseu,,,Portimonense SC
+32,Sun May 4 2025,,FC Penafiel,,,União Torreense
+32,Sun May 4 2025,,FC Felgueiras 1932,,,SL Benfica B
+32,Sun May 4 2025,,CD Tondela,,,GD Chaves
+32,Sun May 4 2025,,CS Marítimo,,,CD Feirense
+32,Sun May 4 2025,,CD Mafra,,,Leixões SC
+33,Sun May 11 2025,,UD Oliveirense,,,CS Marítimo
+33,Sun May 11 2025,,GD Chaves,,,União Leiria
+33,Sun May 11 2025,,SL Benfica B,,,FC Penafiel
+33,Sun May 11 2025,,União Torreense,,,Leixões SC
+33,Sun May 11 2025,,CD Feirense,,,CD Mafra
+33,Sun May 11 2025,,Portimonense SC,,,FC Porto B
+33,Sun May 11 2025,,CD Tondela,,,FC Alverca
+33,Sun May 11 2025,,FC Vizela,,,Académico de Viseu
+33,Sun May 11 2025,,Paços de Ferreira,,,FC Felgueiras 1932
+34,Sat May 17 2025,,CD Mafra,,,União Torreense
+34,Sat May 17 2025,,FC Felgueiras 1932,,,UD Oliveirense
+34,Sat May 17 2025,,CS Marítimo,,,FC Vizela
+34,Sat May 17 2025,,FC Alverca,,,Portimonense SC
+34,Sat May 17 2025,,União Leiria,,,CD Tondela
+34,Sat May 17 2025,,Académico de Viseu,,,Paços de Ferreira
+34,Sat May 17 2025,,FC Penafiel,,,GD Chaves
+34,Sat May 17 2025,,Leixões SC,,,CD Feirense
+34,Sat May 17 2025,,FC Porto B,,,SL Benfica B

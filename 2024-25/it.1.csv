@@ -1,381 +1,381 @@
-Round,Date,Time,Team 1,FT,Team 2
-1,Sat Aug 17 2024,18:30,Parma Calcio 1913,,ACF Fiorentina
-1,Sat Aug 17 2024,20:45,Empoli FC,,AC Monza
-1,Sat Aug 17 2024,20:45,AC Milan,,Torino FC
-1,Sat Aug 17 2024,18:30,Genoa CFC,,Inter
-1,Sun Aug 18 2024,18:30,Bologna FC,,Udinese Calcio
-1,Sun Aug 18 2024,18:30,Hellas Verona,,SSC Napoli
-1,Sun Aug 18 2024,20:45,Cagliari Calcio,,AS Roma
-1,Sun Aug 18 2024,20:45,Lazio Roma,,Venezia FC
-1,Mon Aug 19 2024,20:45,Juventus,,Calcio Como
-1,Mon Aug 19 2024,18:30,US Lecce,,Atalanta
-2,Sat Aug 24 2024,18:30,Parma Calcio 1913,,AC Milan
-2,Sat Aug 24 2024,18:30,Udinese Calcio,,Lazio Roma
-2,Sat Aug 24 2024,20:45,Inter,,US Lecce
-2,Sat Aug 24 2024,20:45,AC Monza,,Genoa CFC
-2,Sun Aug 25 2024,18:30,Torino FC,,Atalanta
-2,Sun Aug 25 2024,20:45,SSC Napoli,,Bologna FC
-2,Sun Aug 25 2024,20:45,AS Roma,,Empoli FC
-2,Sun Aug 25 2024,18:30,ACF Fiorentina,,Venezia FC
-2,Mon Aug 26 2024,20:45,Hellas Verona,,Juventus
-2,Mon Aug 26 2024,18:30,Cagliari Calcio,,Calcio Como
-3,Fri Aug 30 2024,18:30,Venezia FC,,Torino FC
-3,Fri Aug 30 2024,20:45,Inter,,Atalanta
-3,Sat Aug 31 2024,18:30,US Lecce,,Cagliari Calcio
-3,Sat Aug 31 2024,20:45,Lazio Roma,,AC Milan
-3,Sat Aug 31 2024,20:45,SSC Napoli,,Parma Calcio 1913
-3,Sat Aug 31 2024,18:30,Bologna FC,,Empoli FC
-3,Sun Sep 1 2024,18:30,Genoa CFC,,Hellas Verona
-3,Sun Sep 1 2024,20:45,Juventus,,AS Roma
-3,Sun Sep 1 2024,20:45,Udinese Calcio,,Calcio Como
-3,Sun Sep 1 2024,18:30,ACF Fiorentina,,AC Monza
-4,Sun Sep 15 2024,,Atalanta,,ACF Fiorentina
-4,Sun Sep 15 2024,,Cagliari Calcio,,SSC Napoli
-4,Sun Sep 15 2024,,Calcio Como,,Bologna FC
-4,Sun Sep 15 2024,,Empoli FC,,Juventus
-4,Sun Sep 15 2024,,Genoa CFC,,AS Roma
-4,Sun Sep 15 2024,,Lazio Roma,,Hellas Verona
-4,Sun Sep 15 2024,,AC Milan,,Venezia FC
-4,Sun Sep 15 2024,,AC Monza,,Inter
-4,Sun Sep 15 2024,,Parma Calcio 1913,,Udinese Calcio
-4,Sun Sep 15 2024,,Torino FC,,US Lecce
-5,Sun Sep 22 2024,,Atalanta,,Calcio Como
-5,Sun Sep 22 2024,,Cagliari Calcio,,Empoli FC
-5,Sun Sep 22 2024,,ACF Fiorentina,,Lazio Roma
-5,Sun Sep 22 2024,,Hellas Verona,,Torino FC
-5,Sun Sep 22 2024,,Inter,,AC Milan
-5,Sun Sep 22 2024,,Juventus,,SSC Napoli
-5,Sun Sep 22 2024,,US Lecce,,Parma Calcio 1913
-5,Sun Sep 22 2024,,AC Monza,,Bologna FC
-5,Sun Sep 22 2024,,AS Roma,,Udinese Calcio
-5,Sun Sep 22 2024,,Venezia FC,,Genoa CFC
-6,Sun Sep 29 2024,,Bologna FC,,Atalanta
-6,Sun Sep 29 2024,,Calcio Como,,Hellas Verona
-6,Sun Sep 29 2024,,Empoli FC,,ACF Fiorentina
-6,Sun Sep 29 2024,,Genoa CFC,,Juventus
-6,Sun Sep 29 2024,,AC Milan,,US Lecce
-6,Sun Sep 29 2024,,SSC Napoli,,AC Monza
-6,Sun Sep 29 2024,,Parma Calcio 1913,,Cagliari Calcio
-6,Sun Sep 29 2024,,AS Roma,,Venezia FC
-6,Sun Sep 29 2024,,Torino FC,,Lazio Roma
-6,Sun Sep 29 2024,,Udinese Calcio,,Inter
-7,Sun Oct 6 2024,,Atalanta,,Genoa CFC
-7,Sun Oct 6 2024,,Bologna FC,,Parma Calcio 1913
-7,Sun Oct 6 2024,,ACF Fiorentina,,AC Milan
-7,Sun Oct 6 2024,,Hellas Verona,,Venezia FC
-7,Sun Oct 6 2024,,Inter,,Torino FC
-7,Sun Oct 6 2024,,Juventus,,Cagliari Calcio
-7,Sun Oct 6 2024,,Lazio Roma,,Empoli FC
-7,Sun Oct 6 2024,,AC Monza,,AS Roma
-7,Sun Oct 6 2024,,SSC Napoli,,Calcio Como
-7,Sun Oct 6 2024,,Udinese Calcio,,US Lecce
-8,Sun Oct 20 2024,,Cagliari Calcio,,Torino FC
-8,Sun Oct 20 2024,,Calcio Como,,Parma Calcio 1913
-8,Sun Oct 20 2024,,Empoli FC,,SSC Napoli
-8,Sun Oct 20 2024,,Genoa CFC,,Bologna FC
-8,Sun Oct 20 2024,,Hellas Verona,,AC Monza
-8,Sun Oct 20 2024,,Juventus,,Lazio Roma
-8,Sun Oct 20 2024,,US Lecce,,ACF Fiorentina
-8,Sun Oct 20 2024,,AC Milan,,Udinese Calcio
-8,Sun Oct 20 2024,,AS Roma,,Inter
-8,Sun Oct 20 2024,,Venezia FC,,Atalanta
-9,Sun Oct 27 2024,,Atalanta,,Hellas Verona
-9,Sun Oct 27 2024,,Bologna FC,,AC Milan
-9,Sun Oct 27 2024,,ACF Fiorentina,,AS Roma
-9,Sun Oct 27 2024,,Inter,,Juventus
-9,Sun Oct 27 2024,,Lazio Roma,,Genoa CFC
-9,Sun Oct 27 2024,,AC Monza,,Venezia FC
-9,Sun Oct 27 2024,,SSC Napoli,,US Lecce
-9,Sun Oct 27 2024,,Parma Calcio 1913,,Empoli FC
-9,Sun Oct 27 2024,,Torino FC,,Calcio Como
-9,Sun Oct 27 2024,,Udinese Calcio,,Cagliari Calcio
-10,Wed Oct 30 2024,,Atalanta,,AC Monza
-10,Wed Oct 30 2024,,Cagliari Calcio,,Bologna FC
-10,Wed Oct 30 2024,,Calcio Como,,Lazio Roma
-10,Wed Oct 30 2024,,Empoli FC,,Inter
-10,Wed Oct 30 2024,,Genoa CFC,,ACF Fiorentina
-10,Wed Oct 30 2024,,Juventus,,Parma Calcio 1913
-10,Wed Oct 30 2024,,US Lecce,,Hellas Verona
-10,Wed Oct 30 2024,,AC Milan,,SSC Napoli
-10,Wed Oct 30 2024,,AS Roma,,Torino FC
-10,Wed Oct 30 2024,,Venezia FC,,Udinese Calcio
-11,Sun Nov 3 2024,,Bologna FC,,US Lecce
-11,Sun Nov 3 2024,,Empoli FC,,Calcio Como
-11,Sun Nov 3 2024,,Hellas Verona,,AS Roma
-11,Sun Nov 3 2024,,Inter,,Venezia FC
-11,Sun Nov 3 2024,,Lazio Roma,,Cagliari Calcio
-11,Sun Nov 3 2024,,AC Monza,,AC Milan
-11,Sun Nov 3 2024,,SSC Napoli,,Atalanta
-11,Sun Nov 3 2024,,Parma Calcio 1913,,Genoa CFC
-11,Sun Nov 3 2024,,Torino FC,,ACF Fiorentina
-11,Sun Nov 3 2024,,Udinese Calcio,,Juventus
-12,Sun Nov 10 2024,,Atalanta,,Udinese Calcio
-12,Sun Nov 10 2024,,Cagliari Calcio,,AC Milan
-12,Sun Nov 10 2024,,ACF Fiorentina,,Hellas Verona
-12,Sun Nov 10 2024,,Genoa CFC,,Calcio Como
-12,Sun Nov 10 2024,,Inter,,SSC Napoli
-12,Sun Nov 10 2024,,Juventus,,Torino FC
-12,Sun Nov 10 2024,,US Lecce,,Empoli FC
-12,Sun Nov 10 2024,,AC Monza,,Lazio Roma
-12,Sun Nov 10 2024,,AS Roma,,Bologna FC
-12,Sun Nov 10 2024,,Venezia FC,,Parma Calcio 1913
-13,Sun Nov 24 2024,,Calcio Como,,ACF Fiorentina
-13,Sun Nov 24 2024,,Empoli FC,,Udinese Calcio
-13,Sun Nov 24 2024,,Genoa CFC,,Cagliari Calcio
-13,Sun Nov 24 2024,,Hellas Verona,,Inter
-13,Sun Nov 24 2024,,Lazio Roma,,Bologna FC
-13,Sun Nov 24 2024,,AC Milan,,Juventus
-13,Sun Nov 24 2024,,SSC Napoli,,AS Roma
-13,Sun Nov 24 2024,,Parma Calcio 1913,,Atalanta
-13,Sun Nov 24 2024,,Torino FC,,AC Monza
-13,Sun Nov 24 2024,,Venezia FC,,US Lecce
-14,Sun Dec 1 2024,,Bologna FC,,Venezia FC
-14,Sun Dec 1 2024,,Cagliari Calcio,,Hellas Verona
-14,Sun Dec 1 2024,,Calcio Como,,AC Monza
-14,Sun Dec 1 2024,,ACF Fiorentina,,Inter
-14,Sun Dec 1 2024,,US Lecce,,Juventus
-14,Sun Dec 1 2024,,AC Milan,,Empoli FC
-14,Sun Dec 1 2024,,Parma Calcio 1913,,Lazio Roma
-14,Sun Dec 1 2024,,AS Roma,,Atalanta
-14,Sun Dec 1 2024,,Torino FC,,SSC Napoli
-14,Sun Dec 1 2024,,Udinese Calcio,,Genoa CFC
-15,Sun Dec 8 2024,,Atalanta,,AC Milan
-15,Sun Dec 8 2024,,ACF Fiorentina,,Cagliari Calcio
-15,Sun Dec 8 2024,,Genoa CFC,,Torino FC
-15,Sun Dec 8 2024,,Hellas Verona,,Empoli FC
-15,Sun Dec 8 2024,,Inter,,Parma Calcio 1913
-15,Sun Dec 8 2024,,Juventus,,Bologna FC
-15,Sun Dec 8 2024,,AC Monza,,Udinese Calcio
-15,Sun Dec 8 2024,,SSC Napoli,,Lazio Roma
-15,Sun Dec 8 2024,,AS Roma,,US Lecce
-15,Sun Dec 8 2024,,Venezia FC,,Calcio Como
-16,Sun Dec 15 2024,,Bologna FC,,ACF Fiorentina
-16,Sun Dec 15 2024,,Cagliari Calcio,,Atalanta
-16,Sun Dec 15 2024,,Calcio Como,,AS Roma
-16,Sun Dec 15 2024,,Empoli FC,,Torino FC
-16,Sun Dec 15 2024,,Juventus,,Venezia FC
-16,Sun Dec 15 2024,,Lazio Roma,,Inter
-16,Sun Dec 15 2024,,US Lecce,,AC Monza
-16,Sun Dec 15 2024,,AC Milan,,Genoa CFC
-16,Sun Dec 15 2024,,Parma Calcio 1913,,Hellas Verona
-16,Sun Dec 15 2024,,Udinese Calcio,,SSC Napoli
-17,Sun Dec 22 2024,,Atalanta,,Empoli FC
-17,Sun Dec 22 2024,,ACF Fiorentina,,Udinese Calcio
-17,Sun Dec 22 2024,,Genoa CFC,,SSC Napoli
-17,Sun Dec 22 2024,,Hellas Verona,,AC Milan
-17,Sun Dec 22 2024,,Inter,,Calcio Como
-17,Sun Dec 22 2024,,US Lecce,,Lazio Roma
-17,Sun Dec 22 2024,,AC Monza,,Juventus
-17,Sun Dec 22 2024,,AS Roma,,Parma Calcio 1913
-17,Sun Dec 22 2024,,Torino FC,,Bologna FC
-17,Sun Dec 22 2024,,Venezia FC,,Cagliari Calcio
-18,Sun Dec 29 2024,,Bologna FC,,Hellas Verona
-18,Sun Dec 29 2024,,Cagliari Calcio,,Inter
-18,Sun Dec 29 2024,,Calcio Como,,US Lecce
-18,Sun Dec 29 2024,,Empoli FC,,Genoa CFC
-18,Sun Dec 29 2024,,Juventus,,ACF Fiorentina
-18,Sun Dec 29 2024,,Lazio Roma,,Atalanta
-18,Sun Dec 29 2024,,AC Milan,,AS Roma
-18,Sun Dec 29 2024,,SSC Napoli,,Venezia FC
-18,Sun Dec 29 2024,,Parma Calcio 1913,,AC Monza
-18,Sun Dec 29 2024,,Udinese Calcio,,Torino FC
-19,Sun Jan 5 2025,,Atalanta,,Juventus
-19,Sun Jan 5 2025,,Calcio Como,,AC Milan
-19,Sun Jan 5 2025,,ACF Fiorentina,,SSC Napoli
-19,Sun Jan 5 2025,,Hellas Verona,,Udinese Calcio
-19,Sun Jan 5 2025,,Inter,,Bologna FC
-19,Sun Jan 5 2025,,US Lecce,,Genoa CFC
-19,Sun Jan 5 2025,,AC Monza,,Cagliari Calcio
-19,Sun Jan 5 2025,,AS Roma,,Lazio Roma
-19,Sun Jan 5 2025,,Torino FC,,Parma Calcio 1913
-19,Sun Jan 5 2025,,Venezia FC,,Empoli FC
-20,Sun Jan 12 2025,,Bologna FC,,AS Roma
-20,Sun Jan 12 2025,,Empoli FC,,US Lecce
-20,Sun Jan 12 2025,,Genoa CFC,,Parma Calcio 1913
-20,Sun Jan 12 2025,,Lazio Roma,,Calcio Como
-20,Sun Jan 12 2025,,AC Milan,,Cagliari Calcio
-20,Sun Jan 12 2025,,AC Monza,,ACF Fiorentina
-20,Sun Jan 12 2025,,SSC Napoli,,Hellas Verona
-20,Sun Jan 12 2025,,Torino FC,,Juventus
-20,Sun Jan 12 2025,,Udinese Calcio,,Atalanta
-20,Sun Jan 12 2025,,Venezia FC,,Inter
-21,Sun Jan 19 2025,,Atalanta,,SSC Napoli
-21,Sun Jan 19 2025,,Bologna FC,,AC Monza
-21,Sun Jan 19 2025,,Cagliari Calcio,,US Lecce
-21,Sun Jan 19 2025,,Calcio Como,,Udinese Calcio
-21,Sun Jan 19 2025,,ACF Fiorentina,,Torino FC
-21,Sun Jan 19 2025,,Hellas Verona,,Lazio Roma
-21,Sun Jan 19 2025,,Inter,,Empoli FC
-21,Sun Jan 19 2025,,Juventus,,AC Milan
-21,Sun Jan 19 2025,,Parma Calcio 1913,,Venezia FC
-21,Sun Jan 19 2025,,AS Roma,,Genoa CFC
-22,Sun Jan 26 2025,,Calcio Como,,Atalanta
-22,Sun Jan 26 2025,,Empoli FC,,Bologna FC
-22,Sun Jan 26 2025,,Genoa CFC,,AC Monza
-22,Sun Jan 26 2025,,Lazio Roma,,ACF Fiorentina
-22,Sun Jan 26 2025,,US Lecce,,Inter
-22,Sun Jan 26 2025,,AC Milan,,Parma Calcio 1913
-22,Sun Jan 26 2025,,SSC Napoli,,Juventus
-22,Sun Jan 26 2025,,Torino FC,,Cagliari Calcio
-22,Sun Jan 26 2025,,Udinese Calcio,,AS Roma
-22,Sun Jan 26 2025,,Venezia FC,,Hellas Verona
-23,Sun Feb 2 2025,,Atalanta,,Torino FC
-23,Sun Feb 2 2025,,Bologna FC,,Calcio Como
-23,Sun Feb 2 2025,,Cagliari Calcio,,Lazio Roma
-23,Sun Feb 2 2025,,ACF Fiorentina,,Genoa CFC
-23,Sun Feb 2 2025,,Juventus,,Empoli FC
-23,Sun Feb 2 2025,,AC Milan,,Inter
-23,Sun Feb 2 2025,,AC Monza,,Hellas Verona
-23,Sun Feb 2 2025,,Parma Calcio 1913,,US Lecce
-23,Sun Feb 2 2025,,AS Roma,,SSC Napoli
-23,Sun Feb 2 2025,,Udinese Calcio,,Venezia FC
-24,Sun Feb 9 2025,,Cagliari Calcio,,Parma Calcio 1913
-24,Sun Feb 9 2025,,Calcio Como,,Juventus
-24,Sun Feb 9 2025,,Empoli FC,,AC Milan
-24,Sun Feb 9 2025,,Hellas Verona,,Atalanta
-24,Sun Feb 9 2025,,Inter,,ACF Fiorentina
-24,Sun Feb 9 2025,,Lazio Roma,,AC Monza
-24,Sun Feb 9 2025,,US Lecce,,Bologna FC
-24,Sun Feb 9 2025,,SSC Napoli,,Udinese Calcio
-24,Sun Feb 9 2025,,Torino FC,,Genoa CFC
-24,Sun Feb 9 2025,,Venezia FC,,AS Roma
-25,Sun Feb 16 2025,,Atalanta,,Cagliari Calcio
-25,Sun Feb 16 2025,,Bologna FC,,Torino FC
-25,Sun Feb 16 2025,,ACF Fiorentina,,Calcio Como
-25,Sun Feb 16 2025,,Genoa CFC,,Venezia FC
-25,Sun Feb 16 2025,,Juventus,,Inter
-25,Sun Feb 16 2025,,Lazio Roma,,SSC Napoli
-25,Sun Feb 16 2025,,AC Milan,,Hellas Verona
-25,Sun Feb 16 2025,,AC Monza,,US Lecce
-25,Sun Feb 16 2025,,Parma Calcio 1913,,AS Roma
-25,Sun Feb 16 2025,,Udinese Calcio,,Empoli FC
-26,Sun Feb 23 2025,,Cagliari Calcio,,Juventus
-26,Sun Feb 23 2025,,Calcio Como,,SSC Napoli
-26,Sun Feb 23 2025,,Empoli FC,,Atalanta
-26,Sun Feb 23 2025,,Hellas Verona,,ACF Fiorentina
-26,Sun Feb 23 2025,,Inter,,Genoa CFC
-26,Sun Feb 23 2025,,US Lecce,,Udinese Calcio
-26,Sun Feb 23 2025,,Parma Calcio 1913,,Bologna FC
-26,Sun Feb 23 2025,,AS Roma,,AC Monza
-26,Sun Feb 23 2025,,Torino FC,,AC Milan
-26,Sun Feb 23 2025,,Venezia FC,,Lazio Roma
-27,Sun Mar 2 2025,,Atalanta,,Venezia FC
-27,Sun Mar 2 2025,,Bologna FC,,Cagliari Calcio
-27,Sun Mar 2 2025,,ACF Fiorentina,,US Lecce
-27,Sun Mar 2 2025,,Genoa CFC,,Empoli FC
-27,Sun Mar 2 2025,,Juventus,,Hellas Verona
-27,Sun Mar 2 2025,,AC Milan,,Lazio Roma
-27,Sun Mar 2 2025,,AC Monza,,Torino FC
-27,Sun Mar 2 2025,,SSC Napoli,,Inter
-27,Sun Mar 2 2025,,AS Roma,,Calcio Como
-27,Sun Mar 2 2025,,Udinese Calcio,,Parma Calcio 1913
-28,Sun Mar 9 2025,,Cagliari Calcio,,Genoa CFC
-28,Sun Mar 9 2025,,Calcio Como,,Venezia FC
-28,Sun Mar 9 2025,,Empoli FC,,AS Roma
-28,Sun Mar 9 2025,,Hellas Verona,,Bologna FC
-28,Sun Mar 9 2025,,Inter,,AC Monza
-28,Sun Mar 9 2025,,Juventus,,Atalanta
-28,Sun Mar 9 2025,,Lazio Roma,,Udinese Calcio
-28,Sun Mar 9 2025,,US Lecce,,AC Milan
-28,Sun Mar 9 2025,,SSC Napoli,,ACF Fiorentina
-28,Sun Mar 9 2025,,Parma Calcio 1913,,Torino FC
-29,Sun Mar 16 2025,,Atalanta,,Inter
-29,Sun Mar 16 2025,,Bologna FC,,Lazio Roma
-29,Sun Mar 16 2025,,ACF Fiorentina,,Juventus
-29,Sun Mar 16 2025,,Genoa CFC,,US Lecce
-29,Sun Mar 16 2025,,AC Milan,,Calcio Como
-29,Sun Mar 16 2025,,AC Monza,,Parma Calcio 1913
-29,Sun Mar 16 2025,,AS Roma,,Cagliari Calcio
-29,Sun Mar 16 2025,,Torino FC,,Empoli FC
-29,Sun Mar 16 2025,,Udinese Calcio,,Hellas Verona
-29,Sun Mar 16 2025,,Venezia FC,,SSC Napoli
-30,Sun Mar 30 2025,,Cagliari Calcio,,AC Monza
-30,Sun Mar 30 2025,,Calcio Como,,Empoli FC
-30,Sun Mar 30 2025,,ACF Fiorentina,,Atalanta
-30,Sun Mar 30 2025,,Hellas Verona,,Parma Calcio 1913
-30,Sun Mar 30 2025,,Inter,,Udinese Calcio
-30,Sun Mar 30 2025,,Juventus,,Genoa CFC
-30,Sun Mar 30 2025,,Lazio Roma,,Torino FC
-30,Sun Mar 30 2025,,US Lecce,,AS Roma
-30,Sun Mar 30 2025,,SSC Napoli,,AC Milan
-30,Sun Mar 30 2025,,Venezia FC,,Bologna FC
-31,Sun Apr 6 2025,,Atalanta,,Lazio Roma
-31,Sun Apr 6 2025,,Bologna FC,,SSC Napoli
-31,Sun Apr 6 2025,,Empoli FC,,Cagliari Calcio
-31,Sun Apr 6 2025,,Genoa CFC,,Udinese Calcio
-31,Sun Apr 6 2025,,US Lecce,,Venezia FC
-31,Sun Apr 6 2025,,AC Milan,,ACF Fiorentina
-31,Sun Apr 6 2025,,AC Monza,,Calcio Como
-31,Sun Apr 6 2025,,Parma Calcio 1913,,Inter
-31,Sun Apr 6 2025,,AS Roma,,Juventus
-31,Sun Apr 6 2025,,Torino FC,,Hellas Verona
-32,Sun Apr 13 2025,,Atalanta,,Bologna FC
-32,Sun Apr 13 2025,,Calcio Como,,Torino FC
-32,Sun Apr 13 2025,,ACF Fiorentina,,Parma Calcio 1913
-32,Sun Apr 13 2025,,Hellas Verona,,Genoa CFC
-32,Sun Apr 13 2025,,Inter,,Cagliari Calcio
-32,Sun Apr 13 2025,,Juventus,,US Lecce
-32,Sun Apr 13 2025,,Lazio Roma,,AS Roma
-32,Sun Apr 13 2025,,SSC Napoli,,Empoli FC
-32,Sun Apr 13 2025,,Udinese Calcio,,AC Milan
-32,Sun Apr 13 2025,,Venezia FC,,AC Monza
-33,Sun Apr 20 2025,,Bologna FC,,Inter
-33,Sun Apr 20 2025,,Cagliari Calcio,,ACF Fiorentina
-33,Sun Apr 20 2025,,Empoli FC,,Venezia FC
-33,Sun Apr 20 2025,,Genoa CFC,,Lazio Roma
-33,Sun Apr 20 2025,,US Lecce,,Calcio Como
-33,Sun Apr 20 2025,,AC Milan,,Atalanta
-33,Sun Apr 20 2025,,AC Monza,,SSC Napoli
-33,Sun Apr 20 2025,,Parma Calcio 1913,,Juventus
-33,Sun Apr 20 2025,,AS Roma,,Hellas Verona
-33,Sun Apr 20 2025,,Torino FC,,Udinese Calcio
-34,Sun Apr 27 2025,,Atalanta,,US Lecce
-34,Sun Apr 27 2025,,Calcio Como,,Genoa CFC
-34,Sun Apr 27 2025,,ACF Fiorentina,,Empoli FC
-34,Sun Apr 27 2025,,Hellas Verona,,Cagliari Calcio
-34,Sun Apr 27 2025,,Inter,,AS Roma
-34,Sun Apr 27 2025,,Juventus,,AC Monza
-34,Sun Apr 27 2025,,Lazio Roma,,Parma Calcio 1913
-34,Sun Apr 27 2025,,SSC Napoli,,Torino FC
-34,Sun Apr 27 2025,,Udinese Calcio,,Bologna FC
-34,Sun Apr 27 2025,,Venezia FC,,AC Milan
-35,Sun May 4 2025,,Bologna FC,,Juventus
-35,Sun May 4 2025,,Cagliari Calcio,,Udinese Calcio
-35,Sun May 4 2025,,Empoli FC,,Lazio Roma
-35,Sun May 4 2025,,Genoa CFC,,AC Milan
-35,Sun May 4 2025,,Inter,,Hellas Verona
-35,Sun May 4 2025,,US Lecce,,SSC Napoli
-35,Sun May 4 2025,,AC Monza,,Atalanta
-35,Sun May 4 2025,,Parma Calcio 1913,,Calcio Como
-35,Sun May 4 2025,,AS Roma,,ACF Fiorentina
-35,Sun May 4 2025,,Torino FC,,Venezia FC
-36,Sun May 11 2025,,Atalanta,,AS Roma
-36,Sun May 11 2025,,Calcio Como,,Cagliari Calcio
-36,Sun May 11 2025,,Empoli FC,,Parma Calcio 1913
-36,Sun May 11 2025,,Hellas Verona,,US Lecce
-36,Sun May 11 2025,,Lazio Roma,,Juventus
-36,Sun May 11 2025,,AC Milan,,Bologna FC
-36,Sun May 11 2025,,SSC Napoli,,Genoa CFC
-36,Sun May 11 2025,,Torino FC,,Inter
-36,Sun May 11 2025,,Udinese Calcio,,AC Monza
-36,Sun May 11 2025,,Venezia FC,,ACF Fiorentina
-37,Sun May 18 2025,,Cagliari Calcio,,Venezia FC
-37,Sun May 18 2025,,ACF Fiorentina,,Bologna FC
-37,Sun May 18 2025,,Genoa CFC,,Atalanta
-37,Sun May 18 2025,,Hellas Verona,,Calcio Como
-37,Sun May 18 2025,,Inter,,Lazio Roma
-37,Sun May 18 2025,,Juventus,,Udinese Calcio
-37,Sun May 18 2025,,US Lecce,,Torino FC
-37,Sun May 18 2025,,AC Monza,,Empoli FC
-37,Sun May 18 2025,,Parma Calcio 1913,,SSC Napoli
-37,Sun May 18 2025,,AS Roma,,AC Milan
-38,Sun May 25 2025,,Atalanta,,Parma Calcio 1913
-38,Sun May 25 2025,,Bologna FC,,Genoa CFC
-38,Sun May 25 2025,,Calcio Como,,Inter
-38,Sun May 25 2025,,Empoli FC,,Hellas Verona
-38,Sun May 25 2025,,Lazio Roma,,US Lecce
-38,Sun May 25 2025,,AC Milan,,AC Monza
-38,Sun May 25 2025,,SSC Napoli,,Cagliari Calcio
-38,Sun May 25 2025,,Torino FC,,AS Roma
-38,Sun May 25 2025,,Udinese Calcio,,ACF Fiorentina
-38,Sun May 25 2025,,Venezia FC,,Juventus
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 17 2024,18:30,Parma Calcio 1913,1-1,1-0,ACF Fiorentina
+1,Sat Aug 17 2024,20:45,Empoli FC,0-0,0-0,AC Monza
+1,Sat Aug 17 2024,20:45,AC Milan,2-2,0-1,Torino FC
+1,Sat Aug 17 2024,18:30,Genoa CFC,2-2,1-1,Inter
+1,Sun Aug 18 2024,18:30,Bologna FC,1-1,0-0,Udinese Calcio
+1,Sun Aug 18 2024,18:30,Hellas Verona,3-0,0-0,SSC Napoli
+1,Sun Aug 18 2024,20:45,Cagliari Calcio,0-0,0-0,AS Roma
+1,Sun Aug 18 2024,20:45,Lazio Roma,3-1,2-1,Venezia FC
+1,Mon Aug 19 2024,20:45,Juventus,3-0,2-0,Como 1907
+1,Mon Aug 19 2024,18:30,US Lecce,0-4,0-2,Atalanta
+2,Sat Aug 24 2024,18:30,Parma Calcio 1913,2-1,1-0,AC Milan
+2,Sat Aug 24 2024,18:30,Udinese Calcio,2-1,1-0,Lazio Roma
+2,Sat Aug 24 2024,20:45,Inter,2-0,1-0,US Lecce
+2,Sat Aug 24 2024,20:45,AC Monza,0-1,0-1,Genoa CFC
+2,Sun Aug 25 2024,18:30,Torino FC,2-1,1-1,Atalanta
+2,Sun Aug 25 2024,20:45,SSC Napoli,3-0,1-0,Bologna FC
+2,Sun Aug 25 2024,20:45,AS Roma,1-2,0-1,Empoli FC
+2,Sun Aug 25 2024,18:30,ACF Fiorentina,0-0,0-0,Venezia FC
+2,Mon Aug 26 2024,20:45,Hellas Verona,0-3,0-2,Juventus
+2,Mon Aug 26 2024,18:30,Cagliari Calcio,1-1,1-0,Como 1907
+3,Fri Aug 30 2024,20:45,Inter,4-0,2-0,Atalanta
+3,Fri Aug 30 2024,18:30,Venezia FC,0-1,0-0,Torino FC
+3,Sat Aug 31 2024,18:30,Bologna FC,1-1,1-1,Empoli FC
+3,Sat Aug 31 2024,18:30,US Lecce,1-0,1-0,Cagliari Calcio
+3,Sat Aug 31 2024,20:45,Lazio Roma,2-2,0-1,AC Milan
+3,Sat Aug 31 2024,20:45,SSC Napoli,2-1,0-1,Parma Calcio 1913
+3,Sun Sep 1 2024,18:30,Genoa CFC,0-2,0-0,Hellas Verona
+3,Sun Sep 1 2024,20:45,Juventus,0-0,0-0,AS Roma
+3,Sun Sep 1 2024,20:45,Udinese Calcio,1-0,1-0,Como 1907
+3,Sun Sep 1 2024,18:30,ACF Fiorentina,2-2,1-2,AC Monza
+4,Sat Sep 14 2024,18:00,Empoli FC,,,Juventus
+4,Sat Sep 14 2024,20:45,AC Milan,,,Venezia FC
+4,Sat Sep 14 2024,15:00,Como 1907,,,Bologna FC
+4,Sun Sep 15 2024,12:30,Genoa CFC,,,AS Roma
+4,Sun Sep 15 2024,15:00,Atalanta,,,ACF Fiorentina
+4,Sun Sep 15 2024,15:00,Torino FC,,,US Lecce
+4,Sun Sep 15 2024,18:00,Cagliari Calcio,,,SSC Napoli
+4,Sun Sep 15 2024,20:45,AC Monza,,,Inter
+4,Mon Sep 16 2024,20:45,Lazio Roma,,,Hellas Verona
+4,Mon Sep 16 2024,18:30,Parma Calcio 1913,,,Udinese Calcio
+5,Fri Sep 20 2024,20:45,Hellas Verona,,,Torino FC
+5,Fri Sep 20 2024,18:30,Cagliari Calcio,,,Empoli FC
+5,Sat Sep 21 2024,18:00,Juventus,,,SSC Napoli
+5,Sat Sep 21 2024,20:45,US Lecce,,,Parma Calcio 1913
+5,Sat Sep 21 2024,15:00,Venezia FC,,,Genoa CFC
+5,Sun Sep 22 2024,12:30,ACF Fiorentina,,,Lazio Roma
+5,Sun Sep 22 2024,15:00,AC Monza,,,Bologna FC
+5,Sun Sep 22 2024,18:00,AS Roma,,,Udinese Calcio
+5,Sun Sep 22 2024,20:45,Inter,,,AC Milan
+5,Mon Sep 23 2024,20:45,Atalanta,,,Como 1907
+6,Fri Sep 27 2024,20:45,AC Milan,,,US Lecce
+6,Sat Sep 28 2024,18:00,Genoa CFC,,,Juventus
+6,Sat Sep 28 2024,20:45,Bologna FC,,,Atalanta
+6,Sat Sep 28 2024,15:00,Udinese Calcio,,,Inter
+6,Sun Sep 29 2024,12:30,Torino FC,,,Lazio Roma
+6,Sun Sep 29 2024,15:00,Como 1907,,,Hellas Verona
+6,Sun Sep 29 2024,15:00,AS Roma,,,Venezia FC
+6,Sun Sep 29 2024,18:00,Empoli FC,,,ACF Fiorentina
+6,Sun Sep 29 2024,20:45,SSC Napoli,,,AC Monza
+6,Mon Sep 30 2024,20:45,Parma Calcio 1913,,,Cagliari Calcio
+7,Fri Oct 4 2024,20:45,Hellas Verona,,,Venezia FC
+7,Fri Oct 4 2024,18:30,SSC Napoli,,,Como 1907
+7,Sat Oct 5 2024,18:00,Atalanta,,,Genoa CFC
+7,Sat Oct 5 2024,20:45,Inter,,,Torino FC
+7,Sat Oct 5 2024,15:00,Udinese Calcio,,,US Lecce
+7,Sun Oct 6 2024,12:30,Juventus,,,Cagliari Calcio
+7,Sun Oct 6 2024,15:00,Bologna FC,,,Parma Calcio 1913
+7,Sun Oct 6 2024,15:00,Lazio Roma,,,Empoli FC
+7,Sun Oct 6 2024,18:00,AC Monza,,,AS Roma
+7,Sun Oct 6 2024,20:45,ACF Fiorentina,,,AC Milan
+8,Sat Oct 19 2024,15:00,Como 1907,,,Parma Calcio 1913
+8,Sat Oct 19 2024,15:00,Genoa CFC,,,Bologna FC
+8,Sat Oct 19 2024,18:00,AC Milan,,,Udinese Calcio
+8,Sat Oct 19 2024,20:45,Juventus,,,Lazio Roma
+8,Sun Oct 20 2024,15:00,US Lecce,,,ACF Fiorentina
+8,Sun Oct 20 2024,15:00,Venezia FC,,,Atalanta
+8,Sun Oct 20 2024,18:00,Cagliari Calcio,,,Torino FC
+8,Sun Oct 20 2024,20:45,AS Roma,,,Inter
+8,Sun Oct 20 2024,12:30,Empoli FC,,,SSC Napoli
+8,Mon Oct 21 2024,20:45,Hellas Verona,,,AC Monza
+9,Fri Oct 25 2024,20:45,Torino FC,,,Como 1907
+9,Fri Oct 25 2024,18:30,Udinese Calcio,,,Cagliari Calcio
+9,Sat Oct 26 2024,15:00,SSC Napoli,,,US Lecce
+9,Sat Oct 26 2024,18:00,Bologna FC,,,AC Milan
+9,Sat Oct 26 2024,20:45,Atalanta,,,Hellas Verona
+9,Sun Oct 27 2024,15:00,Lazio Roma,,,Genoa CFC
+9,Sun Oct 27 2024,15:00,AC Monza,,,Venezia FC
+9,Sun Oct 27 2024,18:00,Inter,,,Juventus
+9,Sun Oct 27 2024,20:45,ACF Fiorentina,,,AS Roma
+9,Sun Oct 27 2024,12:30,Parma Calcio 1913,,,Empoli FC
+10,Tue Oct 29 2024,18:30,US Lecce,,,Hellas Verona
+10,Tue Oct 29 2024,20:45,AC Milan,,,SSC Napoli
+10,Tue Oct 29 2024,18:30,Cagliari Calcio,,,Bologna FC
+10,Wed Oct 30 2024,18:30,Empoli FC,,,Inter
+10,Wed Oct 30 2024,18:30,Venezia FC,,,Udinese Calcio
+10,Wed Oct 30 2024,20:45,Atalanta,,,AC Monza
+10,Wed Oct 30 2024,20:45,Juventus,,,Parma Calcio 1913
+10,Thu Oct 31 2024,20:45,Como 1907,,,Lazio Roma
+10,Thu Oct 31 2024,20:45,AS Roma,,,Torino FC
+10,Thu Oct 31 2024,18:30,Genoa CFC,,,ACF Fiorentina
+11,Sat Nov 2 2024,18:00,Udinese Calcio,,,Juventus
+11,Sat Nov 2 2024,20:45,AC Monza,,,AC Milan
+11,Sat Nov 2 2024,15:00,Bologna FC,,,US Lecce
+11,Sun Nov 3 2024,12:30,SSC Napoli,,,Atalanta
+11,Sun Nov 3 2024,15:00,Torino FC,,,ACF Fiorentina
+11,Sun Nov 3 2024,18:00,Hellas Verona,,,AS Roma
+11,Sun Nov 3 2024,20:45,Inter,,,Venezia FC
+11,Mon Nov 4 2024,18:30,Parma Calcio 1913,,,Genoa CFC
+11,Mon Nov 4 2024,20:45,Lazio Roma,,,Cagliari Calcio
+11,Mon Nov 4 2024,18:30,Empoli FC,,,Como 1907
+12,Thu Nov 7 2024,20:45,Genoa CFC,,,Como 1907
+12,Fri Nov 8 2024,20:45,US Lecce,,,Empoli FC
+12,Fri Nov 8 2024,18:30,Venezia FC,,,Parma Calcio 1913
+12,Sat Nov 9 2024,20:45,Juventus,,,Torino FC
+12,Sat Nov 9 2024,18:00,Cagliari Calcio,,,AC Milan
+12,Sun Nov 10 2024,12:30,Atalanta,,,Udinese Calcio
+12,Sun Nov 10 2024,15:00,ACF Fiorentina,,,Hellas Verona
+12,Sun Nov 10 2024,15:00,AS Roma,,,Bologna FC
+12,Sun Nov 10 2024,18:00,AC Monza,,,Lazio Roma
+12,Sun Nov 10 2024,20:45,Inter,,,SSC Napoli
+13,Sat Nov 23 2024,18:00,AC Milan,,,Juventus
+13,Sat Nov 23 2024,20:45,Parma Calcio 1913,,,Atalanta
+13,Sat Nov 23 2024,15:00,Hellas Verona,,,Inter
+13,Sun Nov 24 2024,12:30,Genoa CFC,,,Cagliari Calcio
+13,Sun Nov 24 2024,15:00,Como 1907,,,ACF Fiorentina
+13,Sun Nov 24 2024,15:00,Torino FC,,,AC Monza
+13,Sun Nov 24 2024,18:00,SSC Napoli,,,AS Roma
+13,Sun Nov 24 2024,20:45,Lazio Roma,,,Bologna FC
+13,Mon Nov 25 2024,20:45,Venezia FC,,,US Lecce
+13,Mon Nov 25 2024,18:30,Empoli FC,,,Udinese Calcio
+14,Sun Dec 1 2024,,Bologna FC,,,Venezia FC
+14,Sun Dec 1 2024,,Cagliari Calcio,,,Hellas Verona
+14,Sun Dec 1 2024,,Como 1907,,,AC Monza
+14,Sun Dec 1 2024,,ACF Fiorentina,,,Inter
+14,Sun Dec 1 2024,,US Lecce,,,Juventus
+14,Sun Dec 1 2024,,AC Milan,,,Empoli FC
+14,Sun Dec 1 2024,,Parma Calcio 1913,,,Lazio Roma
+14,Sun Dec 1 2024,,AS Roma,,,Atalanta
+14,Sun Dec 1 2024,,Torino FC,,,SSC Napoli
+14,Sun Dec 1 2024,,Udinese Calcio,,,Genoa CFC
+15,Sun Dec 8 2024,,Atalanta,,,AC Milan
+15,Sun Dec 8 2024,,ACF Fiorentina,,,Cagliari Calcio
+15,Sun Dec 8 2024,,Genoa CFC,,,Torino FC
+15,Sun Dec 8 2024,,Hellas Verona,,,Empoli FC
+15,Sun Dec 8 2024,,Inter,,,Parma Calcio 1913
+15,Sun Dec 8 2024,,Juventus,,,Bologna FC
+15,Sun Dec 8 2024,,AC Monza,,,Udinese Calcio
+15,Sun Dec 8 2024,,SSC Napoli,,,Lazio Roma
+15,Sun Dec 8 2024,,AS Roma,,,US Lecce
+15,Sun Dec 8 2024,,Venezia FC,,,Como 1907
+16,Sun Dec 15 2024,,Bologna FC,,,ACF Fiorentina
+16,Sun Dec 15 2024,,Cagliari Calcio,,,Atalanta
+16,Sun Dec 15 2024,,Como 1907,,,AS Roma
+16,Sun Dec 15 2024,,Empoli FC,,,Torino FC
+16,Sun Dec 15 2024,,Juventus,,,Venezia FC
+16,Sun Dec 15 2024,,Lazio Roma,,,Inter
+16,Sun Dec 15 2024,,US Lecce,,,AC Monza
+16,Sun Dec 15 2024,,AC Milan,,,Genoa CFC
+16,Sun Dec 15 2024,,Parma Calcio 1913,,,Hellas Verona
+16,Sun Dec 15 2024,,Udinese Calcio,,,SSC Napoli
+17,Sun Dec 22 2024,,Atalanta,,,Empoli FC
+17,Sun Dec 22 2024,,ACF Fiorentina,,,Udinese Calcio
+17,Sun Dec 22 2024,,Genoa CFC,,,SSC Napoli
+17,Sun Dec 22 2024,,Hellas Verona,,,AC Milan
+17,Sun Dec 22 2024,,Inter,,,Como 1907
+17,Sun Dec 22 2024,,US Lecce,,,Lazio Roma
+17,Sun Dec 22 2024,,AC Monza,,,Juventus
+17,Sun Dec 22 2024,,AS Roma,,,Parma Calcio 1913
+17,Sun Dec 22 2024,,Torino FC,,,Bologna FC
+17,Sun Dec 22 2024,,Venezia FC,,,Cagliari Calcio
+18,Sun Dec 29 2024,,Bologna FC,,,Hellas Verona
+18,Sun Dec 29 2024,,Cagliari Calcio,,,Inter
+18,Sun Dec 29 2024,,Como 1907,,,US Lecce
+18,Sun Dec 29 2024,,Empoli FC,,,Genoa CFC
+18,Sun Dec 29 2024,,Juventus,,,ACF Fiorentina
+18,Sun Dec 29 2024,,Lazio Roma,,,Atalanta
+18,Sun Dec 29 2024,,AC Milan,,,AS Roma
+18,Sun Dec 29 2024,,SSC Napoli,,,Venezia FC
+18,Sun Dec 29 2024,,Parma Calcio 1913,,,AC Monza
+18,Sun Dec 29 2024,,Udinese Calcio,,,Torino FC
+19,Sun Jan 5 2025,,Atalanta,,,Juventus
+19,Sun Jan 5 2025,,Como 1907,,,AC Milan
+19,Sun Jan 5 2025,,ACF Fiorentina,,,SSC Napoli
+19,Sun Jan 5 2025,,Hellas Verona,,,Udinese Calcio
+19,Sun Jan 5 2025,,Inter,,,Bologna FC
+19,Sun Jan 5 2025,,US Lecce,,,Genoa CFC
+19,Sun Jan 5 2025,,AC Monza,,,Cagliari Calcio
+19,Sun Jan 5 2025,,AS Roma,,,Lazio Roma
+19,Sun Jan 5 2025,,Torino FC,,,Parma Calcio 1913
+19,Sun Jan 5 2025,,Venezia FC,,,Empoli FC
+20,Sun Jan 12 2025,,Bologna FC,,,AS Roma
+20,Sun Jan 12 2025,,Empoli FC,,,US Lecce
+20,Sun Jan 12 2025,,Genoa CFC,,,Parma Calcio 1913
+20,Sun Jan 12 2025,,Lazio Roma,,,Como 1907
+20,Sun Jan 12 2025,,AC Milan,,,Cagliari Calcio
+20,Sun Jan 12 2025,,AC Monza,,,ACF Fiorentina
+20,Sun Jan 12 2025,,SSC Napoli,,,Hellas Verona
+20,Sun Jan 12 2025,,Torino FC,,,Juventus
+20,Sun Jan 12 2025,,Udinese Calcio,,,Atalanta
+20,Sun Jan 12 2025,,Venezia FC,,,Inter
+21,Sun Jan 19 2025,,Atalanta,,,SSC Napoli
+21,Sun Jan 19 2025,,Bologna FC,,,AC Monza
+21,Sun Jan 19 2025,,Cagliari Calcio,,,US Lecce
+21,Sun Jan 19 2025,,Como 1907,,,Udinese Calcio
+21,Sun Jan 19 2025,,ACF Fiorentina,,,Torino FC
+21,Sun Jan 19 2025,,Hellas Verona,,,Lazio Roma
+21,Sun Jan 19 2025,,Inter,,,Empoli FC
+21,Sun Jan 19 2025,,Juventus,,,AC Milan
+21,Sun Jan 19 2025,,Parma Calcio 1913,,,Venezia FC
+21,Sun Jan 19 2025,,AS Roma,,,Genoa CFC
+22,Sun Jan 26 2025,,Como 1907,,,Atalanta
+22,Sun Jan 26 2025,,Empoli FC,,,Bologna FC
+22,Sun Jan 26 2025,,Genoa CFC,,,AC Monza
+22,Sun Jan 26 2025,,Lazio Roma,,,ACF Fiorentina
+22,Sun Jan 26 2025,,US Lecce,,,Inter
+22,Sun Jan 26 2025,,AC Milan,,,Parma Calcio 1913
+22,Sun Jan 26 2025,,SSC Napoli,,,Juventus
+22,Sun Jan 26 2025,,Torino FC,,,Cagliari Calcio
+22,Sun Jan 26 2025,,Udinese Calcio,,,AS Roma
+22,Sun Jan 26 2025,,Venezia FC,,,Hellas Verona
+23,Sun Feb 2 2025,,Atalanta,,,Torino FC
+23,Sun Feb 2 2025,,Bologna FC,,,Como 1907
+23,Sun Feb 2 2025,,Cagliari Calcio,,,Lazio Roma
+23,Sun Feb 2 2025,,ACF Fiorentina,,,Genoa CFC
+23,Sun Feb 2 2025,,Juventus,,,Empoli FC
+23,Sun Feb 2 2025,,AC Milan,,,Inter
+23,Sun Feb 2 2025,,AC Monza,,,Hellas Verona
+23,Sun Feb 2 2025,,Parma Calcio 1913,,,US Lecce
+23,Sun Feb 2 2025,,AS Roma,,,SSC Napoli
+23,Sun Feb 2 2025,,Udinese Calcio,,,Venezia FC
+24,Sun Feb 9 2025,,Cagliari Calcio,,,Parma Calcio 1913
+24,Sun Feb 9 2025,,Como 1907,,,Juventus
+24,Sun Feb 9 2025,,Empoli FC,,,AC Milan
+24,Sun Feb 9 2025,,Hellas Verona,,,Atalanta
+24,Sun Feb 9 2025,,Inter,,,ACF Fiorentina
+24,Sun Feb 9 2025,,Lazio Roma,,,AC Monza
+24,Sun Feb 9 2025,,US Lecce,,,Bologna FC
+24,Sun Feb 9 2025,,SSC Napoli,,,Udinese Calcio
+24,Sun Feb 9 2025,,Torino FC,,,Genoa CFC
+24,Sun Feb 9 2025,,Venezia FC,,,AS Roma
+25,Sun Feb 16 2025,,Atalanta,,,Cagliari Calcio
+25,Sun Feb 16 2025,,Bologna FC,,,Torino FC
+25,Sun Feb 16 2025,,ACF Fiorentina,,,Como 1907
+25,Sun Feb 16 2025,,Genoa CFC,,,Venezia FC
+25,Sun Feb 16 2025,,Juventus,,,Inter
+25,Sun Feb 16 2025,,Lazio Roma,,,SSC Napoli
+25,Sun Feb 16 2025,,AC Milan,,,Hellas Verona
+25,Sun Feb 16 2025,,AC Monza,,,US Lecce
+25,Sun Feb 16 2025,,Parma Calcio 1913,,,AS Roma
+25,Sun Feb 16 2025,,Udinese Calcio,,,Empoli FC
+26,Sun Feb 23 2025,,Cagliari Calcio,,,Juventus
+26,Sun Feb 23 2025,,Como 1907,,,SSC Napoli
+26,Sun Feb 23 2025,,Empoli FC,,,Atalanta
+26,Sun Feb 23 2025,,Hellas Verona,,,ACF Fiorentina
+26,Sun Feb 23 2025,,Inter,,,Genoa CFC
+26,Sun Feb 23 2025,,US Lecce,,,Udinese Calcio
+26,Sun Feb 23 2025,,Parma Calcio 1913,,,Bologna FC
+26,Sun Feb 23 2025,,AS Roma,,,AC Monza
+26,Sun Feb 23 2025,,Torino FC,,,AC Milan
+26,Sun Feb 23 2025,,Venezia FC,,,Lazio Roma
+27,Sun Mar 2 2025,,Atalanta,,,Venezia FC
+27,Sun Mar 2 2025,,Bologna FC,,,Cagliari Calcio
+27,Sun Mar 2 2025,,ACF Fiorentina,,,US Lecce
+27,Sun Mar 2 2025,,Genoa CFC,,,Empoli FC
+27,Sun Mar 2 2025,,Juventus,,,Hellas Verona
+27,Sun Mar 2 2025,,AC Milan,,,Lazio Roma
+27,Sun Mar 2 2025,,AC Monza,,,Torino FC
+27,Sun Mar 2 2025,,SSC Napoli,,,Inter
+27,Sun Mar 2 2025,,AS Roma,,,Como 1907
+27,Sun Mar 2 2025,,Udinese Calcio,,,Parma Calcio 1913
+28,Sun Mar 9 2025,,Cagliari Calcio,,,Genoa CFC
+28,Sun Mar 9 2025,,Como 1907,,,Venezia FC
+28,Sun Mar 9 2025,,Empoli FC,,,AS Roma
+28,Sun Mar 9 2025,,Hellas Verona,,,Bologna FC
+28,Sun Mar 9 2025,,Inter,,,AC Monza
+28,Sun Mar 9 2025,,Juventus,,,Atalanta
+28,Sun Mar 9 2025,,Lazio Roma,,,Udinese Calcio
+28,Sun Mar 9 2025,,US Lecce,,,AC Milan
+28,Sun Mar 9 2025,,SSC Napoli,,,ACF Fiorentina
+28,Sun Mar 9 2025,,Parma Calcio 1913,,,Torino FC
+29,Sun Mar 16 2025,,Atalanta,,,Inter
+29,Sun Mar 16 2025,,Bologna FC,,,Lazio Roma
+29,Sun Mar 16 2025,,ACF Fiorentina,,,Juventus
+29,Sun Mar 16 2025,,Genoa CFC,,,US Lecce
+29,Sun Mar 16 2025,,AC Milan,,,Como 1907
+29,Sun Mar 16 2025,,AC Monza,,,Parma Calcio 1913
+29,Sun Mar 16 2025,,AS Roma,,,Cagliari Calcio
+29,Sun Mar 16 2025,,Torino FC,,,Empoli FC
+29,Sun Mar 16 2025,,Udinese Calcio,,,Hellas Verona
+29,Sun Mar 16 2025,,Venezia FC,,,SSC Napoli
+30,Sun Mar 30 2025,,Cagliari Calcio,,,AC Monza
+30,Sun Mar 30 2025,,Como 1907,,,Empoli FC
+30,Sun Mar 30 2025,,ACF Fiorentina,,,Atalanta
+30,Sun Mar 30 2025,,Hellas Verona,,,Parma Calcio 1913
+30,Sun Mar 30 2025,,Inter,,,Udinese Calcio
+30,Sun Mar 30 2025,,Juventus,,,Genoa CFC
+30,Sun Mar 30 2025,,Lazio Roma,,,Torino FC
+30,Sun Mar 30 2025,,US Lecce,,,AS Roma
+30,Sun Mar 30 2025,,SSC Napoli,,,AC Milan
+30,Sun Mar 30 2025,,Venezia FC,,,Bologna FC
+31,Sun Apr 6 2025,,Atalanta,,,Lazio Roma
+31,Sun Apr 6 2025,,Bologna FC,,,SSC Napoli
+31,Sun Apr 6 2025,,Empoli FC,,,Cagliari Calcio
+31,Sun Apr 6 2025,,Genoa CFC,,,Udinese Calcio
+31,Sun Apr 6 2025,,US Lecce,,,Venezia FC
+31,Sun Apr 6 2025,,AC Milan,,,ACF Fiorentina
+31,Sun Apr 6 2025,,AC Monza,,,Como 1907
+31,Sun Apr 6 2025,,Parma Calcio 1913,,,Inter
+31,Sun Apr 6 2025,,AS Roma,,,Juventus
+31,Sun Apr 6 2025,,Torino FC,,,Hellas Verona
+32,Sun Apr 13 2025,,Atalanta,,,Bologna FC
+32,Sun Apr 13 2025,,Como 1907,,,Torino FC
+32,Sun Apr 13 2025,,ACF Fiorentina,,,Parma Calcio 1913
+32,Sun Apr 13 2025,,Hellas Verona,,,Genoa CFC
+32,Sun Apr 13 2025,,Inter,,,Cagliari Calcio
+32,Sun Apr 13 2025,,Juventus,,,US Lecce
+32,Sun Apr 13 2025,,Lazio Roma,,,AS Roma
+32,Sun Apr 13 2025,,SSC Napoli,,,Empoli FC
+32,Sun Apr 13 2025,,Udinese Calcio,,,AC Milan
+32,Sun Apr 13 2025,,Venezia FC,,,AC Monza
+33,Sun Apr 20 2025,,Bologna FC,,,Inter
+33,Sun Apr 20 2025,,Cagliari Calcio,,,ACF Fiorentina
+33,Sun Apr 20 2025,,Empoli FC,,,Venezia FC
+33,Sun Apr 20 2025,,Genoa CFC,,,Lazio Roma
+33,Sun Apr 20 2025,,US Lecce,,,Como 1907
+33,Sun Apr 20 2025,,AC Milan,,,Atalanta
+33,Sun Apr 20 2025,,AC Monza,,,SSC Napoli
+33,Sun Apr 20 2025,,Parma Calcio 1913,,,Juventus
+33,Sun Apr 20 2025,,AS Roma,,,Hellas Verona
+33,Sun Apr 20 2025,,Torino FC,,,Udinese Calcio
+34,Sun Apr 27 2025,,Atalanta,,,US Lecce
+34,Sun Apr 27 2025,,Como 1907,,,Genoa CFC
+34,Sun Apr 27 2025,,ACF Fiorentina,,,Empoli FC
+34,Sun Apr 27 2025,,Hellas Verona,,,Cagliari Calcio
+34,Sun Apr 27 2025,,Inter,,,AS Roma
+34,Sun Apr 27 2025,,Juventus,,,AC Monza
+34,Sun Apr 27 2025,,Lazio Roma,,,Parma Calcio 1913
+34,Sun Apr 27 2025,,SSC Napoli,,,Torino FC
+34,Sun Apr 27 2025,,Udinese Calcio,,,Bologna FC
+34,Sun Apr 27 2025,,Venezia FC,,,AC Milan
+35,Sun May 4 2025,,Bologna FC,,,Juventus
+35,Sun May 4 2025,,Cagliari Calcio,,,Udinese Calcio
+35,Sun May 4 2025,,Empoli FC,,,Lazio Roma
+35,Sun May 4 2025,,Genoa CFC,,,AC Milan
+35,Sun May 4 2025,,Inter,,,Hellas Verona
+35,Sun May 4 2025,,US Lecce,,,SSC Napoli
+35,Sun May 4 2025,,AC Monza,,,Atalanta
+35,Sun May 4 2025,,Parma Calcio 1913,,,Como 1907
+35,Sun May 4 2025,,AS Roma,,,ACF Fiorentina
+35,Sun May 4 2025,,Torino FC,,,Venezia FC
+36,Sun May 11 2025,,Atalanta,,,AS Roma
+36,Sun May 11 2025,,Como 1907,,,Cagliari Calcio
+36,Sun May 11 2025,,Empoli FC,,,Parma Calcio 1913
+36,Sun May 11 2025,,Hellas Verona,,,US Lecce
+36,Sun May 11 2025,,Lazio Roma,,,Juventus
+36,Sun May 11 2025,,AC Milan,,,Bologna FC
+36,Sun May 11 2025,,SSC Napoli,,,Genoa CFC
+36,Sun May 11 2025,,Torino FC,,,Inter
+36,Sun May 11 2025,,Udinese Calcio,,,AC Monza
+36,Sun May 11 2025,,Venezia FC,,,ACF Fiorentina
+37,Sun May 18 2025,,Cagliari Calcio,,,Venezia FC
+37,Sun May 18 2025,,ACF Fiorentina,,,Bologna FC
+37,Sun May 18 2025,,Genoa CFC,,,Atalanta
+37,Sun May 18 2025,,Hellas Verona,,,Como 1907
+37,Sun May 18 2025,,Inter,,,Lazio Roma
+37,Sun May 18 2025,,Juventus,,,Udinese Calcio
+37,Sun May 18 2025,,US Lecce,,,Torino FC
+37,Sun May 18 2025,,AC Monza,,,Empoli FC
+37,Sun May 18 2025,,Parma Calcio 1913,,,SSC Napoli
+37,Sun May 18 2025,,AS Roma,,,AC Milan
+38,Sun May 25 2025,,Atalanta,,,Parma Calcio 1913
+38,Sun May 25 2025,,Bologna FC,,,Genoa CFC
+38,Sun May 25 2025,,Como 1907,,,Inter
+38,Sun May 25 2025,,Empoli FC,,,Hellas Verona
+38,Sun May 25 2025,,Lazio Roma,,,US Lecce
+38,Sun May 25 2025,,AC Milan,,,AC Monza
+38,Sun May 25 2025,,SSC Napoli,,,Cagliari Calcio
+38,Sun May 25 2025,,Torino FC,,,AS Roma
+38,Sun May 25 2025,,Udinese Calcio,,,ACF Fiorentina
+38,Sun May 25 2025,,Venezia FC,,,Juventus

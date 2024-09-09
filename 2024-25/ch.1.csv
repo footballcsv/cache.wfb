@@ -2,66 +2,66 @@ Round,Date,Time,Team 1,FT,HT,Team 2
 1,Sat Jul 20 2024,18:00,Yverdon Sport FC,0-2,0-0,FC Zürich
 1,Sat Jul 20 2024,20:30,FC Winterthur,1-0,0-0,FC St. Gallen
 1,Sat Jul 20 2024,18:00,FC Lugano,2-1,0-1,Grasshopper Club Zürich
-1,Sun Jul 21 2024,16:30,FC Lausanne-Sport,3-2,3-1,FC Basel
+1,Sun Jul 21 2024,16:30,FC Lausanne-Sport,3-2,3-1,FC Basel 1893
 1,Sun Jul 21 2024,16:30,FC Luzern,1-2,0-1,Servette FC
 1,Sun Jul 21 2024,14:15,BSC Young Boys,1-2,1-1,FC Sion
 5,Wed Jul 24 2024,20:30,Servette FC,3-1,2-0,BSC Young Boys
-2,Sat Jul 27 2024,20:30,FC Basel,1-2,0-1,FC Lugano
+2,Sat Jul 27 2024,20:30,FC Basel 1893,1-2,0-1,FC Lugano
 2,Sat Jul 27 2024,18:00,FC Sion,4-0,2-0,FC Lausanne-Sport
 2,Sat Jul 27 2024,18:00,Grasshopper Club Zürich,2-2,0-1,FC Luzern
 2,Sun Jul 28 2024,16:30,FC St. Gallen,4-0,2-0,BSC Young Boys
 2,Sun Jul 28 2024,16:30,FC Zürich,4-2,2-1,FC Winterthur
 2,Sun Jul 28 2024,14:15,Servette FC,3-2,2-1,Yverdon Sport FC
-3,Sat Aug 3 2024,20:30,FC Luzern,,,FC Sion
-3,Sat Aug 3 2024,18:00,Grasshopper Club Zürich,,,FC Basel
-3,Sat Aug 3 2024,18:00,FC Lugano,,,Servette FC
-3,Sun Aug 4 2024,16:30,BSC Young Boys,,,FC Zürich
-3,Sun Aug 4 2024,16:30,FC Winterthur,,,Yverdon Sport FC
-3,Sun Aug 4 2024,14:15,FC Lausanne-Sport,,,FC St. Gallen
-4,Sat Aug 10 2024,18:00,FC Sion,,,FC Winterthur
-4,Sat Aug 10 2024,20:30,Yverdon Sport FC,,,BSC Young Boys
-4,Sun Aug 11 2024,16:30,FC Zürich,,,FC Lausanne-Sport
-4,Sun Aug 11 2024,16:30,Servette FC,,,FC Basel
-4,Sun Aug 11 2024,16:30,FC Lugano,,,FC Luzern
-4,Sun Aug 11 2024,14:15,FC St. Gallen,,,Grasshopper Club Zürich
-5,Sat Aug 24 2024,18:00,FC Lausanne-Sport,,,FC Lugano
-5,Sat Aug 24 2024,18:00,FC Luzern,,,FC Winterthur
-5,Sat Aug 24 2024,20:30,Grasshopper Club Zürich,,,FC Sion
-5,Sun Aug 25 2024,16:30,FC St. Gallen,,,FC Zürich
-5,Sun Aug 25 2024,16:30,FC Basel,,,Yverdon Sport FC
-6,Sat Aug 31 2024,18:00,Yverdon Sport FC,,,Grasshopper Club Zürich
-6,Sat Aug 31 2024,20:30,BSC Young Boys,,,FC Lausanne-Sport
-6,Sat Aug 31 2024,18:00,FC Sion,,,FC Basel
-6,Sun Sep 1 2024,14:15,FC Winterthur,,,Servette FC
-6,Sun Sep 1 2024,16:30,FC Lugano,,,FC St. Gallen
-6,Sun Sep 1 2024,16:30,FC Zürich,,,FC Luzern
-7,Sat Sep 21 2024,18:00,Grasshopper Club Zürich,,,Servette FC
-7,Sat Sep 21 2024,20:30,FC Basel,,,FC Zürich
+3,Sat Aug 3 2024,20:30,FC Luzern,1-0,0-0,FC Sion
+3,Sat Aug 3 2024,18:00,Grasshopper Club Zürich,0-3,0-2,FC Basel 1893
+3,Sat Aug 3 2024,18:00,FC Lugano,3-1,0-0,Servette FC
+3,Sun Aug 4 2024,16:30,BSC Young Boys,2-2,1-1,FC Zürich
+3,Sun Aug 4 2024,16:30,FC Winterthur,0-0,0-0,Yverdon Sport FC
+3,Sun Aug 4 2024,14:15,FC Lausanne-Sport,3-4,1-2,FC St. Gallen
+4,Sat Aug 10 2024,18:00,FC Sion,2-0,0-0,FC Winterthur
+4,Sat Aug 10 2024,20:30,Yverdon Sport FC,2-2,1-1,BSC Young Boys
+4,Sun Aug 11 2024,16:30,FC Zürich,2-0,1-0,FC Lausanne-Sport
+4,Sun Aug 11 2024,16:30,Servette FC,0-6,0-1,FC Basel 1893
+4,Sun Aug 11 2024,16:30,FC Lugano,2-3,2-1,FC Luzern
+4,Sun Aug 11 2024,14:15,FC St. Gallen,1-0,0-0,Grasshopper Club Zürich
+5,Sat Aug 24 2024,18:00,FC Luzern,3-0,1-0,FC Winterthur
+5,Sat Aug 24 2024,20:30,Grasshopper Club Zürich,3-1,1-0,FC Sion
+5,Sun Aug 25 2024,16:30,FC Basel 1893,2-0,1-0,Yverdon Sport FC
+6,Sat Aug 31 2024,18:00,Yverdon Sport FC,2-1,0-1,Grasshopper Club Zürich
+6,Sat Aug 31 2024,18:00,FC Sion,1-1,1-1,FC Basel 1893
+6,Sat Aug 31 2024,20:30,BSC Young Boys,1-1,1-0,FC Lausanne-Sport
+6,Sun Sep 1 2024,16:30,FC Lugano,1-1,1-1,FC St. Gallen
+6,Sun Sep 1 2024,16:30,FC Zürich,1-1,0-1,FC Luzern
+6,Sun Sep 1 2024,14:15,FC Winterthur,0-1,0-1,Servette FC
+5,Wed Sep 18 2024,19:30,FC Lausanne-Sport,,,FC Lugano
 7,Sat Sep 21 2024,18:00,FC St. Gallen,,,FC Luzern
+7,Sat Sep 21 2024,18:00,Grasshopper Club Zürich,,,Servette FC
+7,Sat Sep 21 2024,20:30,FC Basel 1893,,,FC Zürich
+7,Sun Sep 22 2024,14:15,FC Lausanne-Sport,,,Yverdon Sport FC
 7,Sun Sep 22 2024,16:30,FC Sion,,,FC Lugano
 7,Sun Sep 22 2024,16:30,FC Winterthur,,,BSC Young Boys
-7,Sun Sep 22 2024,14:15,FC Lausanne-Sport,,,Yverdon Sport FC
-8,Sat Sep 28 2024,,FC Lugano,,,FC Winterthur
-8,Sat Sep 28 2024,,FC Zürich,,,FC Sion
-8,Sat Sep 28 2024,,Servette FC,,,FC Lausanne-Sport
-8,Sat Sep 28 2024,,BSC Young Boys,,,Grasshopper Club Zürich
+5,Tue Sep 24 2024,20:30,FC St. Gallen,,,FC Zürich
 8,Sat Sep 28 2024,18:00,Yverdon Sport FC,,,FC St. Gallen
-8,Sun Sep 29 2024,16:30,FC Luzern,,,FC Basel
+8,Sat Sep 28 2024,20:30,BSC Young Boys,,,Grasshopper Club Zürich
+8,Sat Sep 28 2024,18:00,Servette FC,,,FC Lausanne-Sport
+8,Sun Sep 29 2024,16:30,FC Lugano,,,FC Winterthur
+8,Sun Sep 29 2024,16:30,FC Luzern,,,FC Basel 1893
+8,Sun Sep 29 2024,14:15,FC Zürich,,,FC Sion
+9,Sat Oct 5 2024,18:00,FC Luzern,,,FC Lausanne-Sport
 9,Sat Oct 5 2024,18:00,FC Sion,,,Yverdon Sport FC
 9,Sat Oct 5 2024,20:30,FC Winterthur,,,Grasshopper Club Zürich
-9,Sat Oct 5 2024,18:00,FC Luzern,,,FC Lausanne-Sport
-9,Sun Oct 6 2024,14:15,FC Zürich,,,FC Lugano
-9,Sun Oct 6 2024,16:30,FC Basel,,,BSC Young Boys
+9,Sun Oct 6 2024,16:30,FC Basel 1893,,,BSC Young Boys
 9,Sun Oct 6 2024,16:30,FC St. Gallen,,,Servette FC
+9,Sun Oct 6 2024,14:15,FC Zürich,,,FC Lugano
 10,Sat Oct 19 2024,18:00,BSC Young Boys,,,FC Luzern
 10,Sat Oct 19 2024,20:30,Servette FC,,,FC Sion
 10,Sat Oct 19 2024,18:00,Grasshopper Club Zürich,,,FC Zürich
+10,Sun Oct 20 2024,16:30,FC Basel 1893,,,FC St. Gallen
 10,Sun Oct 20 2024,16:30,FC Lausanne-Sport,,,FC Winterthur
 10,Sun Oct 20 2024,16:30,Yverdon Sport FC,,,FC Lugano
-10,Sun Oct 20 2024,16:30,FC Basel,,,FC St. Gallen
-11,Sat Oct 26 2024,18:00,FC Lausanne-Sport,,,Grasshopper Club Zürich
-11,Sat Oct 26 2024,18:00,FC Winterthur,,,FC Basel
+11,Sat Oct 26 2024,18:00,FC Winterthur,,,FC Basel 1893
 11,Sat Oct 26 2024,20:30,FC Luzern,,,Yverdon Sport FC
+11,Sat Oct 26 2024,18:00,FC Lausanne-Sport,,,Grasshopper Club Zürich
 11,Sun Oct 27 2024,16:30,FC Lugano,,,BSC Young Boys
 11,Sun Oct 27 2024,16:30,FC Zürich,,,Servette FC
 11,Sun Oct 27 2024,14:15,FC Sion,,,FC St. Gallen
@@ -69,21 +69,21 @@ Round,Date,Time,Team 1,FT,HT,Team 2
 12,Tue Oct 29 2024,,FC St. Gallen,,,FC Winterthur
 12,Tue Oct 29 2024,,Grasshopper Club Zürich,,,FC Lugano
 12,Tue Oct 29 2024,,Servette FC,,,FC Luzern
-12,Tue Oct 29 2024,,BSC Young Boys,,,FC Basel
+12,Tue Oct 29 2024,,BSC Young Boys,,,FC Basel 1893
 12,Tue Oct 29 2024,,Yverdon Sport FC,,,FC Lausanne-Sport
 13,Sat Nov 2 2024,,FC Lausanne-Sport,,,Servette FC
 13,Sat Nov 2 2024,,FC Lugano,,,Yverdon Sport FC
 13,Sat Nov 2 2024,,FC Luzern,,,Grasshopper Club Zürich
 13,Sat Nov 2 2024,,FC St. Gallen,,,FC Sion
 13,Sat Nov 2 2024,,FC Zürich,,,BSC Young Boys
-13,Sat Nov 2 2024,,FC Basel,,,FC Winterthur
+13,Sat Nov 2 2024,,FC Basel 1893,,,FC Winterthur
 14,Sat Nov 9 2024,,FC Sion,,,FC Luzern
 14,Sat Nov 9 2024,,FC Winterthur,,,FC Lausanne-Sport
 14,Sat Nov 9 2024,,Grasshopper Club Zürich,,,FC St. Gallen
 14,Sat Nov 9 2024,,Servette FC,,,FC Zürich
 14,Sat Nov 9 2024,,BSC Young Boys,,,FC Lugano
-14,Sat Nov 9 2024,,Yverdon Sport FC,,,FC Basel
-15,Sat Nov 23 2024,,FC Basel,,,Servette FC
+14,Sat Nov 9 2024,,Yverdon Sport FC,,,FC Basel 1893
+15,Sat Nov 23 2024,,FC Basel 1893,,,Servette FC
 15,Sat Nov 23 2024,,FC Lausanne-Sport,,,FC Sion
 15,Sat Nov 23 2024,,FC Lugano,,,FC Zürich
 15,Sat Nov 23 2024,,FC Luzern,,,BSC Young Boys
@@ -94,26 +94,26 @@ Round,Date,Time,Team 1,FT,HT,Team 2
 16,Sat Nov 30 2024,,Servette FC,,,FC Lugano
 16,Sat Nov 30 2024,,BSC Young Boys,,,FC St. Gallen
 16,Sat Nov 30 2024,,Yverdon Sport FC,,,FC Luzern
-16,Sat Nov 30 2024,,FC Basel,,,FC Lausanne-Sport
+16,Sat Nov 30 2024,,FC Basel 1893,,,FC Lausanne-Sport
 17,Sat Dec 7 2024,,FC Lausanne-Sport,,,FC Zürich
 17,Sat Dec 7 2024,,FC Luzern,,,FC Lugano
 17,Sat Dec 7 2024,,FC Sion,,,BSC Young Boys
-17,Sat Dec 7 2024,,FC St. Gallen,,,FC Basel
+17,Sat Dec 7 2024,,FC St. Gallen,,,FC Basel 1893
 17,Sat Dec 7 2024,,Grasshopper Club Zürich,,,Yverdon Sport FC
 17,Sat Dec 7 2024,,Servette FC,,,FC Winterthur
-18,Sat Dec 14 2024,,FC Basel,,,Grasshopper Club Zürich
+18,Sat Dec 14 2024,,FC Basel 1893,,,Grasshopper Club Zürich
 18,Sat Dec 14 2024,,FC Lugano,,,FC Lausanne-Sport
 18,Sat Dec 14 2024,,FC Winterthur,,,FC Luzern
 18,Sat Dec 14 2024,,FC Zürich,,,FC St. Gallen
 18,Sat Dec 14 2024,,BSC Young Boys,,,Servette FC
 18,Sat Dec 14 2024,,Yverdon Sport FC,,,FC Sion
-19,Sat Jan 18 2025,,FC Lugano,,,FC Basel
+19,Sat Jan 18 2025,,FC Lugano,,,FC Basel 1893
 19,Sat Jan 18 2025,,FC Sion,,,Grasshopper Club Zürich
 19,Sat Jan 18 2025,,FC Zürich,,,Yverdon Sport FC
 19,Sat Jan 18 2025,,Servette FC,,,FC St. Gallen
 19,Sat Jan 18 2025,,BSC Young Boys,,,FC Winterthur
 19,Sat Jan 18 2025,,FC Lausanne-Sport,,,FC Luzern
-20,Sat Jan 25 2025,,FC Basel,,,FC Sion
+20,Sat Jan 25 2025,,FC Basel 1893,,,FC Sion
 20,Sat Jan 25 2025,,FC Luzern,,,FC Zürich
 20,Sat Jan 25 2025,,FC St. Gallen,,,FC Lausanne-Sport
 20,Sat Jan 25 2025,,FC Winterthur,,,FC Lugano
@@ -122,7 +122,7 @@ Round,Date,Time,Team 1,FT,HT,Team 2
 21,Sat Feb 1 2025,,FC Lausanne-Sport,,,BSC Young Boys
 21,Sat Feb 1 2025,,FC Lugano,,,FC Sion
 21,Sat Feb 1 2025,,FC Luzern,,,FC St. Gallen
-21,Sat Feb 1 2025,,FC Zürich,,,FC Basel
+21,Sat Feb 1 2025,,FC Zürich,,,FC Basel 1893
 21,Sat Feb 1 2025,,Servette FC,,,Grasshopper Club Zürich
 21,Sat Feb 1 2025,,Yverdon Sport FC,,,FC Winterthur
 22,Tue Feb 4 2025,,FC Sion,,,Servette FC
@@ -130,4 +130,4 @@ Round,Date,Time,Team 1,FT,HT,Team 2
 22,Tue Feb 4 2025,,FC Winterthur,,,FC Zürich
 22,Tue Feb 4 2025,,Grasshopper Club Zürich,,,FC Lausanne-Sport
 22,Tue Feb 4 2025,,BSC Young Boys,,,Yverdon Sport FC
-22,Tue Feb 4 2025,,FC Basel,,,FC Luzern
+22,Tue Feb 4 2025,,FC Basel 1893,,,FC Luzern

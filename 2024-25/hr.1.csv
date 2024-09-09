@@ -1,0 +1,181 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 2 2024,21:00,Dinamo Zagreb,5-0,3-0,NK Istra 1961
+1,Sat Aug 3 2024,21:00,HNK Gorica,0-0,0-0,NK Varaždin
+1,Sun Aug 4 2024,21:00,Hajduk Split,2-1,2-1,Slaven Belupo
+1,Sun Aug 4 2024,21:00,NK Osijek,1-2,0-1,HNK Šibenik
+1,Sun Aug 4 2024,18:50,HNK Rijeka,4-0,2-0,Lokomotiva Zagreb
+2,Fri Aug 9 2024,18:30,HNK Šibenik,2-0,2-0,Slaven Belupo
+2,Sat Aug 10 2024,21:00,NK Istra 1961,2-1,0-0,HNK Gorica
+2,Sun Aug 11 2024,21:00,NK Osijek,1-2,1-1,Dinamo Zagreb
+2,Sun Aug 11 2024,21:00,NK Varaždin,0-0,0-0,HNK Rijeka
+2,Sun Aug 11 2024,18:30,Lokomotiva Zagreb,1-1,0-0,Hajduk Split
+3,Fri Aug 16 2024,21:00,Dinamo Zagreb,3-0,2-0,HNK Šibenik
+3,Sat Aug 17 2024,21:00,Slaven Belupo,2-2,1-2,Lokomotiva Zagreb
+3,Sun Aug 18 2024,21:00,HNK Gorica,2-2,1-0,NK Osijek
+3,Sun Aug 18 2024,21:00,HNK Rijeka,4-0,3-0,NK Istra 1961
+3,Sun Aug 18 2024,18:50,Hajduk Split,2-1,0-1,NK Varaždin
+4,Fri Aug 23 2024,20:00,Lokomotiva Zagreb,0-1,0-1,HNK Šibenik
+4,Sat Aug 24 2024,18:15,NK Varaždin,2-0,0-0,Slaven Belupo
+4,Sat Aug 24 2024,20:30,Dinamo Zagreb,2-1,1-0,HNK Gorica
+4,Sun Aug 25 2024,20:45,NK Osijek,0-2,0-1,HNK Rijeka
+4,Sun Aug 25 2024,18:15,NK Istra 1961,1-1,1-0,Hajduk Split
+5,Fri Aug 30 2024,20:00,HNK Gorica,2-1,1-0,HNK Šibenik
+5,Sat Aug 31 2024,18:15,Slaven Belupo,0-1,0-1,NK Istra 1961
+5,Sat Aug 31 2024,20:45,Hajduk Split,1-0,0-0,NK Osijek
+5,Sun Sep 1 2024,20:45,HNK Rijeka,1-1,0-1,Dinamo Zagreb
+5,Sun Sep 1 2024,18:15,Lokomotiva Zagreb,0-1,0-0,NK Varaždin
+6,Fri Sep 13 2024,20:00,Dinamo Zagreb,,,Hajduk Split
+6,Sat Sep 14 2024,20:00,HNK Gorica,,,HNK Rijeka
+6,Sat Sep 14 2024,17:30,NK Istra 1961,,,Lokomotiva Zagreb
+6,Sun Sep 15 2024,17:30,NK Osijek,,,Slaven Belupo
+6,Sun Sep 15 2024,20:00,HNK Šibenik,,,NK Varaždin
+7,Fri Sep 20 2024,18:00,NK Varaždin,,,NK Istra 1961
+7,Sat Sep 21 2024,20:00,Hajduk Split,,,HNK Gorica
+7,Sat Sep 21 2024,17:30,Slaven Belupo,,,Dinamo Zagreb
+7,Sun Sep 22 2024,17:30,Lokomotiva Zagreb,,,NK Osijek
+7,Sun Sep 22 2024,20:00,HNK Rijeka,,,HNK Šibenik
+8,Fri Sep 27 2024,18:00,HNK Šibenik,,,NK Istra 1961
+8,Sat Sep 28 2024,20:00,Dinamo Zagreb,,,Lokomotiva Zagreb
+8,Sat Sep 28 2024,17:30,HNK Gorica,,,Slaven Belupo
+8,Sun Sep 29 2024,20:00,HNK Rijeka,,,Hajduk Split
+8,Sun Sep 29 2024,17:30,NK Osijek,,,NK Varaždin
+9,Sat Oct 5 2024,,Hajduk Split,,,HNK Šibenik
+9,Sat Oct 5 2024,,NK Istra 1961,,,NK Osijek
+9,Sat Oct 5 2024,,Lokomotiva Zagreb,,,HNK Gorica
+9,Sat Oct 5 2024,,Slaven Belupo,,,HNK Rijeka
+9,Sat Oct 5 2024,,NK Varaždin,,,Dinamo Zagreb
+10,Sat Oct 19 2024,,NK Istra 1961,,,Dinamo Zagreb
+10,Sat Oct 19 2024,,Lokomotiva Zagreb,,,HNK Rijeka
+10,Sat Oct 19 2024,,HNK Šibenik,,,NK Osijek
+10,Sat Oct 19 2024,,Slaven Belupo,,,Hajduk Split
+10,Sat Oct 19 2024,,NK Varaždin,,,HNK Gorica
+11,Sat Oct 26 2024,,Hajduk Split,,,Lokomotiva Zagreb
+11,Sat Oct 26 2024,,HNK Gorica,,,NK Istra 1961
+11,Sat Oct 26 2024,,HNK Rijeka,,,NK Varaždin
+11,Sat Oct 26 2024,,Slaven Belupo,,,HNK Šibenik
+11,Sat Oct 26 2024,,Dinamo Zagreb,,,NK Osijek
+12,Sat Nov 2 2024,,NK Istra 1961,,,HNK Rijeka
+12,Sat Nov 2 2024,,Lokomotiva Zagreb,,,Slaven Belupo
+12,Sat Nov 2 2024,,NK Osijek,,,HNK Gorica
+12,Sat Nov 2 2024,,HNK Šibenik,,,Dinamo Zagreb
+12,Sat Nov 2 2024,,NK Varaždin,,,Hajduk Split
+13,Sat Nov 9 2024,,Hajduk Split,,,NK Istra 1961
+13,Sat Nov 9 2024,,HNK Gorica,,,Dinamo Zagreb
+13,Sat Nov 9 2024,,HNK Rijeka,,,NK Osijek
+13,Sat Nov 9 2024,,HNK Šibenik,,,Lokomotiva Zagreb
+13,Sat Nov 9 2024,,Slaven Belupo,,,NK Varaždin
+14,Sat Nov 23 2024,,NK Istra 1961,,,Slaven Belupo
+14,Sat Nov 23 2024,,NK Osijek,,,Hajduk Split
+14,Sat Nov 23 2024,,HNK Šibenik,,,HNK Gorica
+14,Sat Nov 23 2024,,NK Varaždin,,,Lokomotiva Zagreb
+14,Sat Nov 23 2024,,Dinamo Zagreb,,,HNK Rijeka
+15,Sat Nov 30 2024,,Hajduk Split,,,Dinamo Zagreb
+15,Sat Nov 30 2024,,HNK Rijeka,,,HNK Gorica
+15,Sat Nov 30 2024,,Lokomotiva Zagreb,,,NK Istra 1961
+15,Sat Nov 30 2024,,Slaven Belupo,,,NK Osijek
+15,Sat Nov 30 2024,,NK Varaždin,,,HNK Šibenik
+16,Sat Dec 7 2024,,HNK Gorica,,,Hajduk Split
+16,Sat Dec 7 2024,,NK Istra 1961,,,NK Varaždin
+16,Sat Dec 7 2024,,NK Osijek,,,Lokomotiva Zagreb
+16,Sat Dec 7 2024,,HNK Šibenik,,,HNK Rijeka
+16,Sat Dec 7 2024,,Dinamo Zagreb,,,Slaven Belupo
+17,Sat Dec 14 2024,,Hajduk Split,,,HNK Rijeka
+17,Sat Dec 14 2024,,NK Istra 1961,,,HNK Šibenik
+17,Sat Dec 14 2024,,Lokomotiva Zagreb,,,Dinamo Zagreb
+17,Sat Dec 14 2024,,Slaven Belupo,,,HNK Gorica
+17,Sat Dec 14 2024,,NK Varaždin,,,NK Osijek
+18,Sat Dec 21 2024,,HNK Gorica,,,Lokomotiva Zagreb
+18,Sat Dec 21 2024,,HNK Rijeka,,,Slaven Belupo
+18,Sat Dec 21 2024,,NK Osijek,,,NK Istra 1961
+18,Sat Dec 21 2024,,HNK Šibenik,,,Hajduk Split
+18,Sat Dec 21 2024,,Dinamo Zagreb,,,NK Varaždin
+19,Sat Jan 25 2025,,Dinamo Zagreb,,,NK Istra 1961
+19,Sat Jan 25 2025,,Hajduk Split,,,Slaven Belupo
+19,Sat Jan 25 2025,,HNK Gorica,,,NK Varaždin
+19,Sat Jan 25 2025,,HNK Rijeka,,,Lokomotiva Zagreb
+19,Sat Jan 25 2025,,NK Osijek,,,HNK Šibenik
+20,Sat Feb 1 2025,,Lokomotiva Zagreb,,,Hajduk Split
+20,Sat Feb 1 2025,,NK Osijek,,,Dinamo Zagreb
+20,Sat Feb 1 2025,,HNK Šibenik,,,Slaven Belupo
+20,Sat Feb 1 2025,,NK Varaždin,,,HNK Rijeka
+20,Sat Feb 1 2025,,NK Istra 1961,,,HNK Gorica
+21,Sat Feb 8 2025,,Dinamo Zagreb,,,HNK Šibenik
+21,Sat Feb 8 2025,,Hajduk Split,,,NK Varaždin
+21,Sat Feb 8 2025,,HNK Gorica,,,NK Osijek
+21,Sat Feb 8 2025,,HNK Rijeka,,,NK Istra 1961
+21,Sat Feb 8 2025,,Slaven Belupo,,,Lokomotiva Zagreb
+22,Sat Feb 15 2025,,Dinamo Zagreb,,,HNK Gorica
+22,Sat Feb 15 2025,,NK Istra 1961,,,Hajduk Split
+22,Sat Feb 15 2025,,NK Osijek,,,HNK Rijeka
+22,Sat Feb 15 2025,,HNK Šibenik,,,Lokomotiva Zagreb
+22,Sat Feb 15 2025,,NK Varaždin,,,Slaven Belupo
+23,Sat Feb 22 2025,,HNK Gorica,,,HNK Šibenik
+23,Sat Feb 22 2025,,HNK Rijeka,,,Dinamo Zagreb
+23,Sat Feb 22 2025,,Lokomotiva Zagreb,,,NK Varaždin
+23,Sat Feb 22 2025,,Slaven Belupo,,,NK Istra 1961
+23,Sat Feb 22 2025,,Hajduk Split,,,NK Osijek
+24,Sat Mar 1 2025,,Dinamo Zagreb,,,Hajduk Split
+24,Sat Mar 1 2025,,HNK Gorica,,,HNK Rijeka
+24,Sat Mar 1 2025,,NK Istra 1961,,,Lokomotiva Zagreb
+24,Sat Mar 1 2025,,NK Osijek,,,Slaven Belupo
+24,Sat Mar 1 2025,,HNK Šibenik,,,NK Varaždin
+25,Sat Mar 8 2025,,HNK Rijeka,,,HNK Šibenik
+25,Sat Mar 8 2025,,Lokomotiva Zagreb,,,NK Osijek
+25,Sat Mar 8 2025,,Slaven Belupo,,,Dinamo Zagreb
+25,Sat Mar 8 2025,,NK Varaždin,,,NK Istra 1961
+25,Sat Mar 8 2025,,Hajduk Split,,,HNK Gorica
+26,Sat Mar 15 2025,,Dinamo Zagreb,,,Lokomotiva Zagreb
+26,Sat Mar 15 2025,,HNK Gorica,,,Slaven Belupo
+26,Sat Mar 15 2025,,HNK Rijeka,,,Hajduk Split
+26,Sat Mar 15 2025,,NK Osijek,,,NK Varaždin
+26,Sat Mar 15 2025,,HNK Šibenik,,,NK Istra 1961
+27,Sat Mar 29 2025,,NK Istra 1961,,,NK Osijek
+27,Sat Mar 29 2025,,Lokomotiva Zagreb,,,HNK Gorica
+27,Sat Mar 29 2025,,Slaven Belupo,,,HNK Rijeka
+27,Sat Mar 29 2025,,NK Varaždin,,,Dinamo Zagreb
+27,Sat Mar 29 2025,,Hajduk Split,,,HNK Šibenik
+28,Sat Apr 5 2025,,NK Istra 1961,,,Dinamo Zagreb
+28,Sat Apr 5 2025,,Lokomotiva Zagreb,,,HNK Rijeka
+28,Sat Apr 5 2025,,HNK Šibenik,,,NK Osijek
+28,Sat Apr 5 2025,,Slaven Belupo,,,Hajduk Split
+28,Sat Apr 5 2025,,NK Varaždin,,,HNK Gorica
+29,Sat Apr 12 2025,,Hajduk Split,,,Lokomotiva Zagreb
+29,Sat Apr 12 2025,,HNK Gorica,,,NK Istra 1961
+29,Sat Apr 12 2025,,HNK Rijeka,,,NK Varaždin
+29,Sat Apr 12 2025,,Slaven Belupo,,,HNK Šibenik
+29,Sat Apr 12 2025,,Dinamo Zagreb,,,NK Osijek
+30,Sat Apr 19 2025,,NK Istra 1961,,,HNK Rijeka
+30,Sat Apr 19 2025,,Lokomotiva Zagreb,,,Slaven Belupo
+30,Sat Apr 19 2025,,NK Osijek,,,HNK Gorica
+30,Sat Apr 19 2025,,HNK Šibenik,,,Dinamo Zagreb
+30,Sat Apr 19 2025,,NK Varaždin,,,Hajduk Split
+31,Wed Apr 23 2025,,Hajduk Split,,,NK Istra 1961
+31,Wed Apr 23 2025,,HNK Gorica,,,Dinamo Zagreb
+31,Wed Apr 23 2025,,HNK Rijeka,,,NK Osijek
+31,Wed Apr 23 2025,,Lokomotiva Zagreb,,,HNK Šibenik
+31,Wed Apr 23 2025,,Slaven Belupo,,,NK Varaždin
+32,Sat Apr 26 2025,,NK Istra 1961,,,Slaven Belupo
+32,Sat Apr 26 2025,,NK Osijek,,,Hajduk Split
+32,Sat Apr 26 2025,,HNK Šibenik,,,HNK Gorica
+32,Sat Apr 26 2025,,NK Varaždin,,,Lokomotiva Zagreb
+32,Sat Apr 26 2025,,Dinamo Zagreb,,,HNK Rijeka
+33,Sat May 3 2025,,Hajduk Split,,,Dinamo Zagreb
+33,Sat May 3 2025,,HNK Rijeka,,,HNK Gorica
+33,Sat May 3 2025,,Lokomotiva Zagreb,,,NK Istra 1961
+33,Sat May 3 2025,,Slaven Belupo,,,NK Osijek
+33,Sat May 3 2025,,NK Varaždin,,,HNK Šibenik
+34,Sat May 10 2025,,HNK Gorica,,,Hajduk Split
+34,Sat May 10 2025,,NK Istra 1961,,,NK Varaždin
+34,Sat May 10 2025,,NK Osijek,,,Lokomotiva Zagreb
+34,Sat May 10 2025,,HNK Šibenik,,,HNK Rijeka
+34,Sat May 10 2025,,Dinamo Zagreb,,,Slaven Belupo
+35,Sat May 17 2025,,Hajduk Split,,,HNK Rijeka
+35,Sat May 17 2025,,NK Istra 1961,,,HNK Šibenik
+35,Sat May 17 2025,,Lokomotiva Zagreb,,,Dinamo Zagreb
+35,Sat May 17 2025,,Slaven Belupo,,,HNK Gorica
+35,Sat May 17 2025,,NK Varaždin,,,NK Osijek
+36,Sat May 24 2025,,HNK Gorica,,,Lokomotiva Zagreb
+36,Sat May 24 2025,,HNK Rijeka,,,Slaven Belupo
+36,Sat May 24 2025,,NK Osijek,,,NK Istra 1961
+36,Sat May 24 2025,,HNK Šibenik,,,Hajduk Split
+36,Sat May 24 2025,,Dinamo Zagreb,,,NK Varaždin

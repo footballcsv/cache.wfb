@@ -1,0 +1,199 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Mar 1 2024,16:30,Jeonbuk FC,1-1,0-1,Daejeon Hana Citizen
+1,Fri Mar 1 2024,14:00,Ulsan HD FC,1-0,0-0,Pohang Steelers
+1,Sat Mar 2 2024,14:00,Gwangju FC,2-0,1-0,FC Seoul
+1,Sat Mar 2 2024,16:30,Gangwon FC,1-1,1-1,Jeju United
+1,Sat Mar 2 2024,16:30,Incheon United,0-1,0-0,Suwon FC
+1,Sun Mar 3 2024,14:00,Daegu FC,0-1,0-0,Gimcheon Sangmu
+2,Sat Mar 9 2024,16:30,Gimcheon Sangmu,2-3,0-3,Ulsan HD FC
+2,Sat Mar 9 2024,16:30,Pohang Steelers,3-1,0-1,Daegu FC
+2,Sat Mar 9 2024,14:00,Suwon FC,1-1,0-0,Jeonbuk FC
+2,Sun Mar 10 2024,14:00,Jeju United,3-1,2-0,Daejeon Hana Citizen
+2,Sun Mar 10 2024,16:00,FC Seoul,0-0,0-0,Incheon United
+2,Sun Mar 10 2024,16:30,Gwangju FC,4-2,0-1,Gangwon FC
+3,Sat Mar 16 2024,16:30,Daegu FC,1-1,1-0,Suwon FC
+3,Sat Mar 16 2024,16:30,FC Seoul,2-0,2-0,Jeju United
+3,Sat Mar 16 2024,14:00,Daejeon Hana Citizen,1-1,0-0,Gangwon FC
+3,Sun Mar 17 2024,14:00,Gimcheon Sangmu,1-0,1-0,Jeonbuk FC
+3,Sun Mar 17 2024,14:00,Pohang Steelers,1-0,0-0,Gwangju FC
+3,Sun Mar 17 2024,16:30,Ulsan HD FC,3-3,1-1,Incheon United
+4,Sat Mar 30 2024,14:00,Jeonbuk FC,2-2,1-2,Ulsan HD FC
+4,Sat Mar 30 2024,16:30,Jeju United,0-2,0-0,Pohang Steelers
+4,Sat Mar 30 2024,16:30,Suwon FC,1-4,0-3,Gimcheon Sangmu
+4,Sat Mar 30 2024,14:00,Incheon United,2-0,1-0,Daejeon Hana Citizen
+4,Sun Mar 31 2024,15:00,Gangwon FC,1-1,0-0,FC Seoul
+4,Sun Mar 31 2024,17:30,Gwangju FC,1-2,1-1,Daegu FC
+5,Tue Apr 2 2024,20:30,Pohang Steelers,1-1,1-0,Suwon FC
+5,Tue Apr 2 2024,20:30,Daejeon Hana Citizen,2-0,0-0,Ulsan HD FC
+5,Wed Apr 3 2024,20:30,FC Seoul,5-1,4-0,Gimcheon Sangmu
+5,Wed Apr 3 2024,20:30,Gangwon FC,3-0,1-0,Daegu FC
+5,Wed Apr 3 2024,20:30,Gwangju FC,2-3,0-1,Incheon United
+5,Wed Apr 3 2024,20:30,Jeju United,2-0,1-0,Jeonbuk FC
+6,Sat Apr 6 2024,17:30,Gimcheon Sangmu,2-1,1-1,Gwangju FC
+6,Sat Apr 6 2024,17:30,Incheon United,0-1,0-0,Jeju United
+6,Sat Apr 6 2024,15:00,Ulsan HD FC,3-0,1-0,Suwon FC
+6,Sun Apr 7 2024,15:00,Daegu FC,0-0,0-0,FC Seoul
+6,Sun Apr 7 2024,15:00,Jeonbuk FC,2-3,1-1,Gangwon FC
+6,Sun Apr 7 2024,17:30,Daejeon Hana Citizen,1-2,0-0,Pohang Steelers
+7,Sat Apr 13 2024,15:00,Jeonbuk FC,2-1,1-0,Gwangju FC
+7,Sat Apr 13 2024,17:30,Jeju United,0-2,0-2,Gimcheon Sangmu
+7,Sat Apr 13 2024,17:30,Ulsan HD FC,4-0,2-0,Gangwon FC
+7,Sat Apr 13 2024,15:00,FC Seoul,2-4,1-1,Pohang Steelers
+7,Sun Apr 14 2024,15:00,Suwon FC,1-0,0-0,Daejeon Hana Citizen
+7,Sun Apr 14 2024,17:30,Incheon United,1-1,1-0,Daegu FC
+8,Sat Apr 20 2024,17:30,FC Seoul,2-3,2-2,Jeonbuk FC
+8,Sat Apr 20 2024,17:30,Pohang Steelers,0-0,0-0,Gimcheon Sangmu
+8,Sat Apr 20 2024,15:00,Suwon FC,2-1,0-1,Jeju United
+8,Sun Apr 21 2024,17:30,Daegu FC,0-0,0-0,Daejeon Hana Citizen
+8,Sun Apr 21 2024,15:00,Gangwon FC,4-1,3-0,Incheon United
+9,Sat Apr 27 2024,17:30,Gwangju FC,1-2,1-1,Suwon FC
+9,Sat Apr 27 2024,15:00,Daejeon Hana Citizen,3-1,2-0,FC Seoul
+9,Sat Apr 27 2024,17:30,Gimcheon Sangmu,1-0,0-0,Gangwon FC
+9,Sun Apr 28 2024,15:00,Jeonbuk FC,2-2,1-0,Daegu FC
+9,Sun Apr 28 2024,15:00,Pohang Steelers,0-0,0-0,Incheon United
+9,Sun Apr 28 2024,17:30,Ulsan HD FC,3-1,0-0,Jeju United
+10,Tue Apr 30 2024,20:30,Daejeon Hana Citizen,0-0,0-0,Gimcheon Sangmu
+10,Tue Apr 30 2024,20:30,Suwon FC,0-2,0-1,FC Seoul
+10,Wed May 1 2024,20:00,Jeju United,1-3,0-1,Gwangju FC
+10,Wed May 1 2024,20:00,Daegu FC,1-2,1-1,Ulsan HD FC
+10,Wed May 1 2024,20:00,Gangwon FC,2-4,0-1,Pohang Steelers
+10,Wed May 1 2024,20:00,Incheon United,3-0,0-0,Jeonbuk FC
+11,Sat May 4 2024,17:30,Pohang Steelers,1-0,0-0,Jeonbuk FC
+11,Sat May 4 2024,15:30,FC Seoul,0-1,0-0,Ulsan HD FC
+11,Sun May 5 2024,15:00,Suwon FC,1-2,0-0,Gangwon FC
+11,Sun May 5 2024,17:30,Gimcheon Sangmu,2-2,1-0,Incheon United
+11,Mon May 6 2024,15:00,Jeju United,1-0,0-0,Daegu FC
+11,Mon May 6 2024,17:30,Gwangju FC,2-1,0-1,Daejeon Hana Citizen
+12,Sat May 11 2024,17:30,Incheon United,1-2,1-0,FC Seoul
+12,Sat May 11 2024,20:00,Gangwon FC,3-3,1-2,Daejeon Hana Citizen
+12,Sat May 11 2024,20:00,Daegu FC,3-2,2-2,Gwangju FC
+12,Sun May 12 2024,17:30,Ulsan HD FC,2-2,1-1,Gimcheon Sangmu
+12,Sun May 12 2024,15:00,Jeonbuk FC,2-3,2-0,Suwon FC
+12,Sun May 12 2024,17:30,Pohang Steelers,1-1,1-0,Jeju United
+8,Wed May 15 2024,17:30,Gwangju FC,2-1,0-0,Ulsan HD FC
+13,Sat May 18 2024,20:00,Gimcheon Sangmu,1-0,0-0,Jeju United
+13,Sat May 18 2024,17:30,Daejeon Hana Citizen,0-1,0-0,Incheon United
+13,Sun May 19 2024,17:30,Gwangju FC,0-3,0-2,Jeonbuk FC
+13,Sun May 19 2024,17:30,FC Seoul,1-2,0-0,Daegu FC
+13,Sun May 19 2024,17:30,Gangwon FC,1-0,0-0,Ulsan HD FC
+13,Sun May 19 2024,20:00,Suwon FC,1-0,0-0,Pohang Steelers
+14,Sat May 25 2024,17:30,Ulsan HD FC,4-1,1-0,Daejeon Hana Citizen
+14,Sat May 25 2024,20:00,Incheon United,1-1,0-0,Gwangju FC
+14,Sat May 25 2024,20:00,Pohang Steelers,2-2,1-1,FC Seoul
+14,Sat May 25 2024,15:00,Jeonbuk FC,0-0,0-0,Gimcheon Sangmu
+14,Sun May 26 2024,20:00,Jeju United,1-0,1-0,Suwon FC
+14,Sun May 26 2024,17:30,Daegu FC,1-2,0-0,Gangwon FC
+15,Tue May 28 2024,20:30,Gwangju FC,0-1,0-1,Pohang Steelers
+15,Tue May 28 2024,20:30,Gimcheon Sangmu,0-0,0-0,FC Seoul
+15,Wed May 29 2024,20:30,Daejeon Hana Citizen,0-1,0-1,Jeju United
+15,Wed May 29 2024,20:30,Gangwon FC,2-1,1-1,Jeonbuk FC
+15,Wed May 29 2024,20:30,Incheon United,1-1,0-0,Ulsan HD FC
+15,Wed May 29 2024,20:30,Suwon FC,2-0,0-0,Daegu FC
+16,Sat Jun 1 2024,20:00,Gimcheon Sangmu,3-1,0-0,Pohang Steelers
+16,Sat Jun 1 2024,20:00,Suwon FC,3-1,2-0,Incheon United
+16,Sat Jun 1 2024,17:30,Ulsan HD FC,1-0,0-0,Jeonbuk FC
+16,Sun Jun 2 2024,17:30,Daejeon Hana Citizen,1-0,0-0,Daegu FC
+16,Sun Jun 2 2024,17:30,Jeju United,1-2,0-2,Gangwon FC
+16,Sun Jun 2 2024,20:00,FC Seoul,1-2,1-1,Gwangju FC
+17,Sat Jun 15 2024,20:00,Gwangju FC,2-0,0-0,Gimcheon Sangmu
+17,Sat Jun 15 2024,21:00,Gangwon FC,3-1,1-0,Suwon FC
+17,Sat Jun 15 2024,19:00,Pohang Steelers,1-1,1-1,Daejeon Hana Citizen
+17,Sun Jun 16 2024,19:00,Jeonbuk FC,2-2,1-0,Incheon United
+17,Sun Jun 16 2024,19:00,Ulsan HD FC,2-2,2-0,FC Seoul
+17,Sun Jun 16 2024,20:00,Daegu FC,1-0,1-0,Jeju United
+18,Sat Jun 22 2024,20:00,Daejeon Hana Citizen,2-1,0-1,Gwangju FC
+18,Sat Jun 22 2024,20:00,Gangwon FC,2-3,2-3,Gimcheon Sangmu
+18,Sat Jun 22 2024,21:00,FC Seoul,3-0,1-0,Suwon FC
+18,Sat Jun 22 2024,19:00,Daegu FC,3-0,1-0,Jeonbuk FC
+18,Sun Jun 23 2024,19:00,Jeju United,2-3,1-1,Ulsan HD FC
+18,Sun Jun 23 2024,19:00,Incheon United,1-3,0-1,Pohang Steelers
+19,Tue Jun 25 2024,20:30,Gimcheon Sangmu,2-0,0-0,Daejeon Hana Citizen
+19,Tue Jun 25 2024,20:30,Suwon FC,1-0,0-0,Gwangju FC
+19,Wed Jun 26 2024,20:30,Jeju United,1-0,0-0,Incheon United
+19,Wed Jun 26 2024,20:30,Jeonbuk FC,1-1,1-1,Pohang Steelers
+19,Wed Jun 26 2024,20:30,Ulsan HD FC,1-0,1-0,Daegu FC
+19,Wed Jun 26 2024,20:30,FC Seoul,2-0,0-0,Gangwon FC
+20,Sat Jun 29 2024,19:00,Gimcheon Sangmu,2-0,0-0,Daegu FC
+20,Sat Jun 29 2024,20:00,Jeonbuk FC,1-5,0-2,FC Seoul
+20,Sat Jun 29 2024,21:00,Daejeon Hana Citizen,0-2,0-1,Suwon FC
+20,Sun Jun 30 2024,20:00,Gwangju FC,2-1,1-1,Jeju United
+20,Sun Jun 30 2024,20:00,Incheon United,0-1,0-0,Gangwon FC
+20,Sun Jun 30 2024,19:00,Pohang Steelers,2-1,2-1,Ulsan HD FC
+21,Fri Jul 5 2024,20:30,Incheon United,1-1,0-1,Gimcheon Sangmu
+21,Fri Jul 5 2024,20:30,Suwon FC,1-1,0-0,Ulsan HD FC
+21,Sat Jul 6 2024,20:30,Daegu FC,3-3,1-1,Pohang Steelers
+21,Sat Jul 6 2024,20:00,Jeju United,3-2,2-0,FC Seoul
+21,Sun Jul 7 2024,20:00,Gangwon FC,2-0,1-0,Gwangju FC
+21,Sun Jul 7 2024,20:00,Daejeon Hana Citizen,2-2,0-1,Jeonbuk FC
+22,Tue Jul 9 2024,20:30,Daegu FC,0-0,0-0,Incheon United
+22,Tue Jul 9 2024,20:30,Gimcheon Sangmu,2-3,0-2,Suwon FC
+22,Wed Jul 10 2024,20:30,Jeonbuk FC,2-1,1-1,Jeju United
+22,Wed Jul 10 2024,20:30,Pohang Steelers,2-0,0-0,Gangwon FC
+22,Wed Jul 10 2024,20:30,Ulsan HD FC,0-1,0-0,Gwangju FC
+22,Wed Jul 10 2024,20:30,FC Seoul,2-1,0-1,Daejeon Hana Citizen
+23,Sat Jul 13 2024,20:00,Ulsan HD FC,1-0,0-0,FC Seoul
+23,Sat Jul 13 2024,20:30,Daejeon Hana Citizen,1-1,1-0,Gangwon FC
+23,Sat Jul 13 2024,20:30,Jeju United,2-1,0-0,Pohang Steelers
+23,Sun Jul 14 2024,20:00,Gwangju FC,0-2,0-1,Incheon United
+23,Sun Jul 14 2024,20:00,Suwon FC,2-2,1-0,Daegu FC
+23,Sun Jul 14 2024,20:00,Gimcheon Sangmu,4-0,1-0,Jeonbuk FC
+24,Sat Jul 20 2024,20:00,Jeonbuk FC,2-0,0-0,Ulsan HD FC
+24,Sat Jul 20 2024,20:30,Gangwon FC,4-0,3-0,Jeju United
+24,Sun Jul 21 2024,20:00,Daejeon Hana Citizen,1-2,1-0,Pohang Steelers
+24,Sun Jul 21 2024,20:00,FC Seoul,1-0,0-0,Gimcheon Sangmu
+24,Sun Jul 21 2024,20:00,Incheon United,1-4,0-2,Suwon FC
+24,Sun Jul 21 2024,20:00,Daegu FC,0-1,0-1,Gwangju FC
+25,Fri Jul 26 2024,20:30,Gangwon FC,4-2,1-0,Jeonbuk FC
+25,Fri Jul 26 2024,20:30,Jeju United,1-0,0-0,Ulsan HD FC
+25,Sat Jul 27 2024,20:30,Daegu FC,1-1,1-1,Daejeon Hana Citizen
+25,Sat Jul 27 2024,20:30,Incheon United,0-1,0-0,FC Seoul
+25,Sat Jul 27 2024,20:00,Gwangju FC,1-0,1-0,Suwon FC
+25,Sun Jul 28 2024,20:00,Pohang Steelers,1-2,0-1,Gimcheon Sangmu
+26,Fri Aug 9 2024,20:30,Gimcheon Sangmu,1-2,1-1,Gangwon FC
+26,Fri Aug 9 2024,20:30,Jeonbuk FC,0-1,0-0,Gwangju FC
+26,Sat Aug 10 2024,20:30,Jeju United,0-1,0-0,Incheon United
+26,Sat Aug 10 2024,20:30,Suwon FC,1-2,1-1,Daejeon Hana Citizen
+26,Sat Aug 10 2024,20:00,Ulsan HD FC,1-0,1-0,Daegu FC
+26,Sun Aug 11 2024,20:00,Pohang Steelers,1-2,0-1,FC Seoul
+27,Fri Aug 16 2024,20:30,Daegu FC,3-0,0-0,Gimcheon Sangmu
+27,Fri Aug 16 2024,20:30,FC Seoul,1-0,1-0,Jeju United
+27,Sat Aug 17 2024,20:30,Daejeon Hana Citizen,2-1,1-0,Incheon United
+27,Sat Aug 17 2024,20:00,Jeonbuk FC,2-1,1-0,Pohang Steelers
+27,Sun Aug 18 2024,20:00,Ulsan HD FC,1-2,0-1,Suwon FC
+27,Sun Aug 18 2024,20:00,Gangwon FC,3-2,1-2,Gwangju FC
+28,Sat Aug 24 2024,20:00,Pohang Steelers,1-2,0-1,Daegu FC
+28,Sat Aug 24 2024,20:30,FC Seoul,2-0,2-0,Gangwon FC
+28,Sat Aug 24 2024,20:30,Incheon United,0-1,0-1,Jeonbuk FC
+28,Sun Aug 25 2024,20:00,Gwangju FC,0-1,0-0,Ulsan HD FC
+28,Sun Aug 25 2024,20:00,Suwon FC,5-0,2-0,Jeju United
+28,Sun Aug 25 2024,20:00,Gimcheon Sangmu,2-2,1-0,Daejeon Hana Citizen
+29,Sat Aug 31 2024,20:00,Ulsan HD FC,5-4,2-1,Pohang Steelers
+29,Sat Aug 31 2024,20:30,Daegu FC,1-2,1-0,Incheon United
+29,Sun Sep 1 2024,20:00,Daejeon Hana Citizen,2-0,1-0,Gwangju FC
+29,Sun Sep 1 2024,20:00,Gangwon FC,2-2,1-1,Suwon FC
+29,Sun Sep 1 2024,20:00,Jeonbuk FC,0-0,0-0,FC Seoul
+29,Sun Sep 1 2024,19:00,Jeju United,1-0,0-0,Gimcheon Sangmu
+30,Fri Sep 13 2024,20:30,Gwangju FC,,,Pohang Steelers
+30,Fri Sep 13 2024,20:30,Ulsan HD FC,,,Gangwon FC
+30,Sat Sep 14 2024,20:00,Jeju United,,,Daegu FC
+30,Sat Sep 14 2024,20:00,Suwon FC,,,Jeonbuk FC
+30,Sat Sep 14 2024,17:30,FC Seoul,,,Daejeon Hana Citizen
+30,Sun Sep 15 2024,17:30,Gimcheon Sangmu,,,Incheon United
+31,Sat Sep 21 2024,17:30,Suwon FC,,,Gimcheon Sangmu
+31,Sat Sep 21 2024,20:00,Daegu FC,,,FC Seoul
+31,Sun Sep 22 2024,17:30,Pohang Steelers,,,Gangwon FC
+31,Sun Sep 22 2024,20:00,Daejeon Hana Citizen,,,Jeonbuk FC
+31,Sun Sep 22 2024,20:00,Incheon United,,,Ulsan HD FC
+31,Sun Sep 22 2024,17:30,Gwangju FC,,,Jeju United
+32,Fri Sep 27 2024,20:30,Daejeon Hana Citizen,,,Ulsan HD FC
+32,Fri Sep 27 2024,20:30,Pohang Steelers,,,Incheon United
+32,Sat Sep 28 2024,20:00,Gimcheon Sangmu,,,Gwangju FC
+32,Sat Sep 28 2024,20:00,Jeonbuk FC,,,Jeju United
+32,Sat Sep 28 2024,17:30,Gangwon FC,,,Daegu FC
+32,Sun Sep 29 2024,17:30,FC Seoul,,,Suwon FC
+33,Sun Oct 6 2024,16:00,Daegu FC,,,Jeonbuk FC
+33,Sun Oct 6 2024,16:00,Gwangju FC,,,FC Seoul
+33,Sun Oct 6 2024,16:00,Incheon United,,,Gangwon FC
+33,Sun Oct 6 2024,16:00,Jeju United,,,Daejeon Hana Citizen
+33,Sun Oct 6 2024,16:00,Suwon FC,,,Pohang Steelers
+33,Sun Oct 6 2024,16:00,Ulsan HD FC,,,Gimcheon Sangmu

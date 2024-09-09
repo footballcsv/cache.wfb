@@ -1,307 +1,307 @@
-Round,Date,Team 1,FT,Team 2
-1,Sun Aug 18 2024,Stade Brestois,,Olympique Marseille
-1,Sun Aug 18 2024,Montpellier HSC,,RC Strasbourg
-1,Sun Aug 18 2024,Toulouse FC,,FC Nantes
-1,Sun Aug 18 2024,Angers SCO,,RC Lens
-1,Sun Aug 18 2024,AS Monaco,,AS Saint-Étienne
-1,Sun Aug 18 2024,Stade Reims,,Lille OSC
-1,Sun Aug 18 2024,AJ Auxerre,,OGC Nice
-1,Sun Aug 18 2024,Havre AC,,Paris Saint-Germain
-1,Sun Aug 18 2024,Stade Rennais,,Olympique Lyon
-2,Sun Aug 25 2024,Paris Saint-Germain,,Montpellier HSC
-2,Sun Aug 25 2024,RC Strasbourg,,Stade Rennais
-2,Sun Aug 25 2024,FC Nantes,,AJ Auxerre
-2,Sun Aug 25 2024,AS Saint-Étienne,,Havre AC
-2,Sun Aug 25 2024,Lille OSC,,Angers SCO
-2,Sun Aug 25 2024,OGC Nice,,Toulouse FC
-2,Sun Aug 25 2024,RC Lens,,Stade Brestois
-2,Sun Aug 25 2024,Olympique Lyon,,AS Monaco
-2,Sun Aug 25 2024,Olympique Marseille,,Stade Reims
-3,Sun Sep 1 2024,Lille OSC,,Paris Saint-Germain
-3,Sun Sep 1 2024,Olympique Lyon,,RC Strasbourg
-3,Sun Sep 1 2024,Stade Brestois,,AS Saint-Étienne
-3,Sun Sep 1 2024,Montpellier HSC,,FC Nantes
-3,Sun Sep 1 2024,Angers SCO,,OGC Nice
-3,Sun Sep 1 2024,AS Monaco,,RC Lens
-3,Sun Sep 1 2024,Havre AC,,AJ Auxerre
-3,Sun Sep 1 2024,Stade Reims,,Stade Rennais
-3,Sun Sep 1 2024,Toulouse FC,,Olympique Marseille
-4,Sun Sep 15 2024,AJ Auxerre,,AS Monaco
-4,Sun Sep 15 2024,Stade Rennais,,Montpellier HSC
-4,Sun Sep 15 2024,RC Lens,,Olympique Lyon
-4,Sun Sep 15 2024,FC Nantes,,Stade Reims
-4,Sun Sep 15 2024,Toulouse FC,,Havre AC
-4,Sun Sep 15 2024,RC Strasbourg,,Angers SCO
-4,Sun Sep 15 2024,AS Saint-Étienne,,Lille OSC
-4,Sun Sep 15 2024,Olympique Marseille,,OGC Nice
-4,Sun Sep 15 2024,Paris Saint-Germain,,Stade Brestois
-5,Sun Sep 22 2024,Olympique Lyon,,Olympique Marseille
-5,Sun Sep 22 2024,OGC Nice,,AS Saint-Étienne
-5,Sun Sep 22 2024,Stade Reims,,Paris Saint-Germain
-5,Sun Sep 22 2024,Stade Brestois,,Toulouse FC
-5,Sun Sep 22 2024,Angers SCO,,FC Nantes
-5,Sun Sep 22 2024,Montpellier HSC,,AJ Auxerre
-5,Sun Sep 22 2024,Lille OSC,,RC Strasbourg
-5,Sun Sep 22 2024,Stade Rennais,,RC Lens
-5,Sun Sep 22 2024,AS Monaco,,Havre AC
-6,Sun Sep 29 2024,RC Strasbourg,,Olympique Marseille
-6,Sun Sep 29 2024,Paris Saint-Germain,,Stade Rennais
-6,Sun Sep 29 2024,AJ Auxerre,,Stade Brestois
-6,Sun Sep 29 2024,RC Lens,,OGC Nice
-6,Sun Sep 29 2024,FC Nantes,,AS Saint-Étienne
-6,Sun Sep 29 2024,Havre AC,,Lille OSC
-6,Sun Sep 29 2024,Toulouse FC,,Olympique Lyon
-6,Sun Sep 29 2024,AS Monaco,,Montpellier HSC
-6,Sun Sep 29 2024,Angers SCO,,Stade Reims
-7,Sun Oct 6 2024,Olympique Lyon,,FC Nantes
-7,Sun Oct 6 2024,OGC Nice,,Paris Saint-Germain
-7,Sun Oct 6 2024,Lille OSC,,Toulouse FC
-7,Sun Oct 6 2024,AS Saint-Étienne,,AJ Auxerre
-7,Sun Oct 6 2024,Stade Brestois,,Havre AC
-7,Sun Oct 6 2024,Olympique Marseille,,Angers SCO
-7,Sun Oct 6 2024,Stade Rennais,,AS Monaco
-7,Sun Oct 6 2024,RC Strasbourg,,RC Lens
-7,Sun Oct 6 2024,Stade Reims,,Montpellier HSC
-8,Sun Oct 20 2024,AJ Auxerre,,Stade Reims
-8,Sun Oct 20 2024,Toulouse FC,,Angers SCO
-8,Sun Oct 20 2024,Havre AC,,Olympique Lyon
-8,Sun Oct 20 2024,FC Nantes,,OGC Nice
-8,Sun Oct 20 2024,Montpellier HSC,,Olympique Marseille
-8,Sun Oct 20 2024,AS Monaco,,Lille OSC
-8,Sun Oct 20 2024,AS Saint-Étienne,,RC Lens
-8,Sun Oct 20 2024,Stade Brestois,,Stade Rennais
-8,Sun Oct 20 2024,Paris Saint-Germain,,RC Strasbourg
-9,Sun Oct 27 2024,OGC Nice,,AS Monaco
-9,Sun Oct 27 2024,RC Lens,,Lille OSC
-9,Sun Oct 27 2024,Olympique Marseille,,Paris Saint-Germain
-9,Sun Oct 27 2024,Olympique Lyon,,AJ Auxerre
-9,Sun Oct 27 2024,Montpellier HSC,,Toulouse FC
-9,Sun Oct 27 2024,RC Strasbourg,,FC Nantes
-9,Sun Oct 27 2024,Stade Rennais,,Havre AC
-9,Sun Oct 27 2024,Angers SCO,,AS Saint-Étienne
-9,Sun Oct 27 2024,Stade Reims,,Stade Brestois
-10,Sun Nov 3 2024,AJ Auxerre,,Stade Rennais
-10,Sun Nov 3 2024,Toulouse FC,,Stade Reims
-10,Sun Nov 3 2024,AS Monaco,,Angers SCO
-10,Sun Nov 3 2024,Havre AC,,Montpellier HSC
-10,Sun Nov 3 2024,FC Nantes,,Olympique Marseille
-10,Sun Nov 3 2024,Lille OSC,,Olympique Lyon
-10,Sun Nov 3 2024,AS Saint-Étienne,,RC Strasbourg
-10,Sun Nov 3 2024,Stade Brestois,,OGC Nice
-10,Sun Nov 3 2024,Paris Saint-Germain,,RC Lens
-11,Sun Nov 10 2024,Olympique Marseille,,AJ Auxerre
-11,Sun Nov 10 2024,Olympique Lyon,,AS Saint-Étienne
-11,Sun Nov 10 2024,Montpellier HSC,,Stade Brestois
-11,Sun Nov 10 2024,Havre AC,,Stade Reims
-11,Sun Nov 10 2024,RC Strasbourg,,AS Monaco
-11,Sun Nov 10 2024,RC Lens,,FC Nantes
-11,Sun Nov 10 2024,Stade Rennais,,Toulouse FC
-11,Sun Nov 10 2024,OGC Nice,,Lille OSC
-11,Sun Nov 10 2024,Angers SCO,,Paris Saint-Germain
-12,Sun Nov 24 2024,Paris Saint-Germain,,Toulouse FC
-12,Sun Nov 24 2024,RC Lens,,Olympique Marseille
-12,Sun Nov 24 2024,OGC Nice,,RC Strasbourg
-12,Sun Nov 24 2024,AS Saint-Étienne,,Montpellier HSC
-12,Sun Nov 24 2024,Lille OSC,,Stade Rennais
-12,Sun Nov 24 2024,FC Nantes,,Havre AC
-12,Sun Nov 24 2024,AS Monaco,,Stade Brestois
-12,Sun Nov 24 2024,AJ Auxerre,,Angers SCO
-12,Sun Nov 24 2024,Stade Reims,,Olympique Lyon
-13,Sun Dec 1 2024,Stade Reims,,RC Lens
-13,Sun Dec 1 2024,Stade Rennais,,AS Saint-Étienne
-13,Sun Dec 1 2024,Havre AC,,Angers SCO
-13,Sun Dec 1 2024,Toulouse FC,,AJ Auxerre
-13,Sun Dec 1 2024,Stade Brestois,,RC Strasbourg
-13,Sun Dec 1 2024,Montpellier HSC,,Lille OSC
-13,Sun Dec 1 2024,Paris Saint-Germain,,FC Nantes
-13,Sun Dec 1 2024,Olympique Marseille,,AS Monaco
-13,Sun Dec 1 2024,Olympique Lyon,,OGC Nice
-14,Sun Dec 8 2024,OGC Nice,,Havre AC
-14,Sun Dec 8 2024,AJ Auxerre,,Paris Saint-Germain
-14,Sun Dec 8 2024,AS Saint-Étienne,,Olympique Marseille
-14,Sun Dec 8 2024,Angers SCO,,Olympique Lyon
-14,Sun Dec 8 2024,Lille OSC,,Stade Brestois
-14,Sun Dec 8 2024,RC Lens,,Montpellier HSC
-14,Sun Dec 8 2024,RC Strasbourg,,Stade Reims
-14,Sun Dec 8 2024,FC Nantes,,Stade Rennais
-14,Sun Dec 8 2024,AS Monaco,,Toulouse FC
-15,Sun Dec 15 2024,Stade Rennais,,Angers SCO
-15,Sun Dec 15 2024,Havre AC,,RC Strasbourg
-15,Sun Dec 15 2024,Stade Reims,,AS Monaco
-15,Sun Dec 15 2024,AJ Auxerre,,RC Lens
-15,Sun Dec 15 2024,Toulouse FC,,AS Saint-Étienne
-15,Sun Dec 15 2024,Montpellier HSC,,OGC Nice
-15,Sun Dec 15 2024,Stade Brestois,,FC Nantes
-15,Sun Dec 15 2024,Olympique Marseille,,Lille OSC
-15,Sun Dec 15 2024,Paris Saint-Germain,,Olympique Lyon
-16,Sun Jan 5 2025,AS Monaco,,Paris Saint-Germain
-16,Sun Jan 5 2025,Olympique Lyon,,Montpellier HSC
-16,Sun Jan 5 2025,RC Lens,,Toulouse FC
-16,Sun Jan 5 2025,AS Saint-Étienne,,Stade Reims
-16,Sun Jan 5 2025,Angers SCO,,Stade Brestois
-16,Sun Jan 5 2025,Lille OSC,,FC Nantes
-16,Sun Jan 5 2025,Olympique Marseille,,Havre AC
-16,Sun Jan 5 2025,RC Strasbourg,,AJ Auxerre
-16,Sun Jan 5 2025,OGC Nice,,Stade Rennais
-17,Sun Jan 12 2025,Toulouse FC,,RC Strasbourg
-17,Sun Jan 12 2025,FC Nantes,,AS Monaco
-17,Sun Jan 12 2025,AJ Auxerre,,Lille OSC
-17,Sun Jan 12 2025,Stade Reims,,OGC Nice
-17,Sun Jan 12 2025,Havre AC,,RC Lens
-17,Sun Jan 12 2025,Montpellier HSC,,Angers SCO
-17,Sun Jan 12 2025,Stade Brestois,,Olympique Lyon
-17,Sun Jan 12 2025,Paris Saint-Germain,,AS Saint-Étienne
-17,Sun Jan 12 2025,Stade Rennais,,Olympique Marseille
-18,Sun Jan 19 2025,Olympique Marseille,,RC Strasbourg
-18,Sun Jan 19 2025,RC Lens,,Paris Saint-Germain
-18,Sun Jan 19 2025,Lille OSC,,OGC Nice
-18,Sun Jan 19 2025,Olympique Lyon,,Toulouse FC
-18,Sun Jan 19 2025,AS Saint-Étienne,,FC Nantes
-18,Sun Jan 19 2025,Montpellier HSC,,AS Monaco
-18,Sun Jan 19 2025,Stade Reims,,Havre AC
-18,Sun Jan 19 2025,Angers SCO,,AJ Auxerre
-18,Sun Jan 19 2025,Stade Rennais,,Stade Brestois
-19,Sun Jan 26 2025,RC Strasbourg,,Lille OSC
-19,Sun Jan 26 2025,FC Nantes,,Olympique Lyon
-19,Sun Jan 26 2025,AS Monaco,,Stade Rennais
-19,Sun Jan 26 2025,Toulouse FC,,Montpellier HSC
-19,Sun Jan 26 2025,Havre AC,,Stade Brestois
-19,Sun Jan 26 2025,AJ Auxerre,,AS Saint-Étienne
-19,Sun Jan 26 2025,RC Lens,,Angers SCO
-19,Sun Jan 26 2025,Paris Saint-Germain,,Stade Reims
-19,Sun Jan 26 2025,OGC Nice,,Olympique Marseille
-20,Sun Feb 2 2025,Olympique Marseille,,Olympique Lyon
-20,Sun Feb 2 2025,Stade Brestois,,Paris Saint-Germain
-20,Sun Feb 2 2025,Montpellier HSC,,RC Lens
-20,Sun Feb 2 2025,Lille OSC,,AS Saint-Étienne
-20,Sun Feb 2 2025,Stade Reims,,FC Nantes
-20,Sun Feb 2 2025,Angers SCO,,Havre AC
-20,Sun Feb 2 2025,Toulouse FC,,OGC Nice
-20,Sun Feb 2 2025,Stade Rennais,,RC Strasbourg
-20,Sun Feb 2 2025,AS Monaco,,AJ Auxerre
-21,Sun Feb 9 2025,AJ Auxerre,,Toulouse FC
-21,Sun Feb 9 2025,FC Nantes,,Stade Brestois
-21,Sun Feb 9 2025,RC Strasbourg,,Montpellier HSC
-21,Sun Feb 9 2025,Lille OSC,,Havre AC
-21,Sun Feb 9 2025,AS Saint-Étienne,,Stade Rennais
-21,Sun Feb 9 2025,Paris Saint-Germain,,AS Monaco
-21,Sun Feb 9 2025,Olympique Lyon,,Stade Reims
-21,Sun Feb 9 2025,Angers SCO,,Olympique Marseille
-21,Sun Feb 9 2025,OGC Nice,,RC Lens
-22,Sun Feb 16 2025,Toulouse FC,,Paris Saint-Germain
-22,Sun Feb 16 2025,Olympique Marseille,,AS Saint-Étienne
-22,Sun Feb 16 2025,Montpellier HSC,,Olympique Lyon
-22,Sun Feb 16 2025,RC Lens,,RC Strasbourg
-22,Sun Feb 16 2025,Stade Brestois,,AJ Auxerre
-22,Sun Feb 16 2025,Stade Rennais,,Lille OSC
-22,Sun Feb 16 2025,Stade Reims,,Angers SCO
-22,Sun Feb 16 2025,Havre AC,,OGC Nice
-22,Sun Feb 16 2025,AS Monaco,,FC Nantes
-23,Sun Feb 23 2025,Stade Rennais,,Stade Reims
-23,Sun Feb 23 2025,Havre AC,,Toulouse FC
-23,Sun Feb 23 2025,Lille OSC,,AS Monaco
-23,Sun Feb 23 2025,RC Strasbourg,,Stade Brestois
-23,Sun Feb 23 2025,FC Nantes,,RC Lens
-23,Sun Feb 23 2025,AS Saint-Étienne,,Angers SCO
-23,Sun Feb 23 2025,AJ Auxerre,,Olympique Marseille
-23,Sun Feb 23 2025,OGC Nice,,Montpellier HSC
-23,Sun Feb 23 2025,Olympique Lyon,,Paris Saint-Germain
-24,Sun Mar 2 2025,Paris Saint-Germain,,Lille OSC
-24,Sun Mar 2 2025,Olympique Marseille,,FC Nantes
-24,Sun Mar 2 2025,Olympique Lyon,,Stade Brestois
-24,Sun Mar 2 2025,Montpellier HSC,,Stade Rennais
-24,Sun Mar 2 2025,AS Saint-Étienne,,OGC Nice
-24,Sun Mar 2 2025,RC Lens,,Havre AC
-24,Sun Mar 2 2025,AJ Auxerre,,RC Strasbourg
-24,Sun Mar 2 2025,AS Monaco,,Stade Reims
-24,Sun Mar 2 2025,Angers SCO,,Toulouse FC
-25,Sun Mar 9 2025,Havre AC,,AS Saint-Étienne
-25,Sun Mar 9 2025,Stade Reims,,AJ Auxerre
-25,Sun Mar 9 2025,FC Nantes,,RC Strasbourg
-25,Sun Mar 9 2025,Toulouse FC,,AS Monaco
-25,Sun Mar 9 2025,OGC Nice,,Olympique Lyon
-25,Sun Mar 9 2025,Stade Brestois,,Angers SCO
-25,Sun Mar 9 2025,Lille OSC,,Montpellier HSC
-25,Sun Mar 9 2025,Stade Rennais,,Paris Saint-Germain
-25,Sun Mar 9 2025,Olympique Marseille,,RC Lens
-26,Sun Mar 16 2025,Paris Saint-Germain,,Olympique Marseille
-26,Sun Mar 16 2025,OGC Nice,,AJ Auxerre
-26,Sun Mar 16 2025,Montpellier HSC,,AS Saint-Étienne
-26,Sun Mar 16 2025,Stade Brestois,,Stade Reims
-26,Sun Mar 16 2025,Olympique Lyon,,Havre AC
-26,Sun Mar 16 2025,RC Lens,,Stade Rennais
-26,Sun Mar 16 2025,RC Strasbourg,,Toulouse FC
-26,Sun Mar 16 2025,FC Nantes,,Lille OSC
-26,Sun Mar 16 2025,Angers SCO,,AS Monaco
-27,Sun Mar 30 2025,Angers SCO,,Stade Rennais
-27,Sun Mar 30 2025,AJ Auxerre,,Montpellier HSC
-27,Sun Mar 30 2025,Havre AC,,FC Nantes
-27,Sun Mar 30 2025,RC Strasbourg,,Olympique Lyon
-27,Sun Mar 30 2025,Toulouse FC,,Stade Brestois
-27,Sun Mar 30 2025,AS Saint-Étienne,,Paris Saint-Germain
-27,Sun Mar 30 2025,Stade Reims,,Olympique Marseille
-27,Sun Mar 30 2025,Lille OSC,,RC Lens
-27,Sun Mar 30 2025,AS Monaco,,OGC Nice
-28,Sun Apr 6 2025,Olympique Marseille,,Toulouse FC
-28,Sun Apr 6 2025,OGC Nice,,FC Nantes
-28,Sun Apr 6 2025,Stade Brestois,,AS Monaco
-28,Sun Apr 6 2025,Montpellier HSC,,Havre AC
-28,Sun Apr 6 2025,Olympique Lyon,,Lille OSC
-28,Sun Apr 6 2025,RC Lens,,AS Saint-Étienne
-28,Sun Apr 6 2025,Paris Saint-Germain,,Angers SCO
-28,Sun Apr 6 2025,Stade Reims,,RC Strasbourg
-28,Sun Apr 6 2025,Stade Rennais,,AJ Auxerre
-29,Sun Apr 13 2025,Toulouse FC,,Lille OSC
-29,Sun Apr 13 2025,Havre AC,,Stade Rennais
-29,Sun Apr 13 2025,AJ Auxerre,,Olympique Lyon
-29,Sun Apr 13 2025,FC Nantes,,Paris Saint-Germain
-29,Sun Apr 13 2025,RC Strasbourg,,OGC Nice
-29,Sun Apr 13 2025,AS Saint-Étienne,,Stade Brestois
-29,Sun Apr 13 2025,Angers SCO,,Montpellier HSC
-29,Sun Apr 13 2025,RC Lens,,Stade Reims
-29,Sun Apr 13 2025,AS Monaco,,Olympique Marseille
-30,Sun Apr 20 2025,AS Saint-Étienne,,Olympique Lyon
-30,Sun Apr 20 2025,OGC Nice,,Angers SCO
-30,Sun Apr 20 2025,Stade Brestois,,RC Lens
-30,Sun Apr 20 2025,Lille OSC,,AJ Auxerre
-30,Sun Apr 20 2025,Paris Saint-Germain,,Havre AC
-30,Sun Apr 20 2025,Olympique Marseille,,Montpellier HSC
-30,Sun Apr 20 2025,Stade Reims,,Toulouse FC
-30,Sun Apr 20 2025,AS Monaco,,RC Strasbourg
-30,Sun Apr 20 2025,Stade Rennais,,FC Nantes
-31,Sun Apr 27 2025,Havre AC,,AS Monaco
-31,Sun Apr 27 2025,RC Strasbourg,,AS Saint-Étienne
-31,Sun Apr 27 2025,FC Nantes,,Toulouse FC
-31,Sun Apr 27 2025,Montpellier HSC,,Stade Reims
-31,Sun Apr 27 2025,RC Lens,,AJ Auxerre
-31,Sun Apr 27 2025,Angers SCO,,Lille OSC
-31,Sun Apr 27 2025,Paris Saint-Germain,,OGC Nice
-31,Sun Apr 27 2025,Olympique Marseille,,Stade Brestois
-31,Sun Apr 27 2025,Olympique Lyon,,Stade Rennais
-32,Sun May 4 2025,Olympique Lyon,,RC Lens
-32,Sun May 4 2025,Lille OSC,,Olympique Marseille
-32,Sun May 4 2025,OGC Nice,,Stade Reims
-32,Sun May 4 2025,Stade Brestois,,Montpellier HSC
-32,Sun May 4 2025,AS Saint-Étienne,,AS Monaco
-32,Sun May 4 2025,FC Nantes,,Angers SCO
-32,Sun May 4 2025,Toulouse FC,,Stade Rennais
-32,Sun May 4 2025,RC Strasbourg,,Paris Saint-Germain
-32,Sun May 4 2025,AJ Auxerre,,Havre AC
-33,Sun May 11 2025,Stade Reims,,AS Saint-Étienne
-33,Sun May 11 2025,AJ Auxerre,,FC Nantes
-33,Sun May 11 2025,Angers SCO,,RC Strasbourg
-33,Sun May 11 2025,Havre AC,,Olympique Marseille
-33,Sun May 11 2025,Stade Rennais,,OGC Nice
-33,Sun May 11 2025,Montpellier HSC,,Paris Saint-Germain
-33,Sun May 11 2025,Toulouse FC,,RC Lens
-33,Sun May 11 2025,Stade Brestois,,Lille OSC
-33,Sun May 11 2025,AS Monaco,,Olympique Lyon
-34,Sun May 18 2025,Olympique Marseille,,Stade Rennais
-34,Sun May 18 2025,Olympique Lyon,,Angers SCO
-34,Sun May 18 2025,OGC Nice,,Stade Brestois
-34,Sun May 18 2025,AS Saint-Étienne,,Toulouse FC
-34,Sun May 18 2025,Lille OSC,,Stade Reims
-34,Sun May 18 2025,RC Strasbourg,,Havre AC
-34,Sun May 18 2025,FC Nantes,,Montpellier HSC
-34,Sun May 18 2025,RC Lens,,AS Monaco
-34,Sun May 18 2025,Paris Saint-Germain,,AJ Auxerre
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 16 2024,20:45,Havre AC,1-4,0-1,Paris Saint-Germain
+1,Sat Aug 17 2024,19:00,Stade de Reims,0-2,0-1,Lille OSC
+1,Sat Aug 17 2024,21:00,AS Monaco,1-0,1-0,AS Saint-Étienne
+1,Sat Aug 17 2024,17:00,Stade Brestois 29,1-5,1-3,Olympique Marseille
+1,Sun Aug 18 2024,15:00,AJ Auxerre,2-1,1-1,OGC Nice
+1,Sun Aug 18 2024,17:00,Montpellier HSC,1-1,0-0,RC Strasbourg
+1,Sun Aug 18 2024,17:00,Toulouse FC,0-0,0-0,FC Nantes
+1,Sun Aug 18 2024,17:00,Angers SCO,0-1,0-1,RC Lens
+1,Sun Aug 18 2024,20:45,Stade Rennais,3-0,2-0,Olympique Lyonnais
+2,Fri Aug 23 2024,20:45,Paris Saint-Germain,6-0,2-0,Montpellier HSC
+2,Sat Aug 24 2024,19:00,Lille OSC,2-0,1-0,Angers SCO
+2,Sat Aug 24 2024,21:00,AS Saint-Étienne,0-2,0-0,Havre AC
+2,Sat Aug 24 2024,17:00,Olympique Lyonnais,0-2,0-0,AS Monaco
+2,Sun Aug 25 2024,17:00,RC Strasbourg,3-1,1-0,Stade Rennais
+2,Sun Aug 25 2024,17:00,FC Nantes,2-0,1-0,AJ Auxerre
+2,Sun Aug 25 2024,17:00,OGC Nice,1-1,0-0,Toulouse FC
+2,Sun Aug 25 2024,20:45,Olympique Marseille,2-2,1-0,Stade de Reims
+2,Sun Aug 25 2024,15:00,RC Lens,2-0,2-0,Stade Brestois 29
+3,Fri Aug 30 2024,20:45,Olympique Lyonnais,4-3,1-1,RC Strasbourg
+3,Sat Aug 31 2024,19:00,Montpellier HSC,1-3,1-2,FC Nantes
+3,Sat Aug 31 2024,21:00,Toulouse FC,1-3,0-2,Olympique Marseille
+3,Sat Aug 31 2024,17:00,Stade Brestois 29,4-0,2-0,AS Saint-Étienne
+3,Sun Sep 1 2024,17:00,Angers SCO,1-4,0-2,OGC Nice
+3,Sun Sep 1 2024,17:00,Havre AC,3-1,1-1,AJ Auxerre
+3,Sun Sep 1 2024,17:00,Stade de Reims,2-1,1-1,Stade Rennais
+3,Sun Sep 1 2024,20:45,Lille OSC,1-3,0-2,Paris Saint-Germain
+3,Sun Sep 1 2024,15:00,AS Monaco,1-1,0-0,RC Lens
+4,Fri Sep 13 2024,20:45,AS Saint-Étienne,,,Lille OSC
+4,Sat Sep 14 2024,19:00,AJ Auxerre,,,AS Monaco
+4,Sat Sep 14 2024,21:00,Paris Saint-Germain,,,Stade Brestois 29
+4,Sat Sep 14 2024,17:00,Olympique Marseille,,,OGC Nice
+4,Sun Sep 15 2024,17:00,FC Nantes,,,Stade de Reims
+4,Sun Sep 15 2024,17:00,Toulouse FC,,,Havre AC
+4,Sun Sep 15 2024,17:00,RC Strasbourg,,,Angers SCO
+4,Sun Sep 15 2024,20:45,RC Lens,,,Olympique Lyonnais
+4,Sun Sep 15 2024,15:00,Stade Rennais,,,Montpellier HSC
+5,Fri Sep 20 2024,20:45,OGC Nice,,,AS Saint-Étienne
+5,Sat Sep 21 2024,19:00,Stade Rennais,,,RC Lens
+5,Sat Sep 21 2024,21:00,Stade de Reims,,,Paris Saint-Germain
+5,Sat Sep 21 2024,17:00,Lille OSC,,,RC Strasbourg
+5,Sun Sep 22 2024,17:00,Stade Brestois 29,,,Toulouse FC
+5,Sun Sep 22 2024,17:00,Angers SCO,,,FC Nantes
+5,Sun Sep 22 2024,17:00,Montpellier HSC,,,AJ Auxerre
+5,Sun Sep 22 2024,20:45,Olympique Lyonnais,,,Olympique Marseille
+5,Sun Sep 22 2024,15:00,AS Monaco,,,Havre AC
+6,Fri Sep 27 2024,19:00,AJ Auxerre,,,Stade Brestois 29
+6,Fri Sep 27 2024,21:00,Paris Saint-Germain,,,Stade Rennais
+6,Sat Sep 28 2024,19:00,Havre AC,,,Lille OSC
+6,Sat Sep 28 2024,21:00,AS Monaco,,,Montpellier HSC
+6,Sat Sep 28 2024,17:00,RC Lens,,,OGC Nice
+6,Sun Sep 29 2024,17:00,FC Nantes,,,AS Saint-Étienne
+6,Sun Sep 29 2024,17:00,Angers SCO,,,Stade de Reims
+6,Sun Sep 29 2024,20:45,RC Strasbourg,,,Olympique Marseille
+6,Sun Sep 29 2024,15:00,Toulouse FC,,,Olympique Lyonnais
+7,Sun Oct 6 2024,,Olympique Lyonnais,,,FC Nantes
+7,Sun Oct 6 2024,,OGC Nice,,,Paris Saint-Germain
+7,Sun Oct 6 2024,,Lille OSC,,,Toulouse FC
+7,Sun Oct 6 2024,,AS Saint-Étienne,,,AJ Auxerre
+7,Sun Oct 6 2024,,Stade Brestois 29,,,Havre AC
+7,Sun Oct 6 2024,,Olympique Marseille,,,Angers SCO
+7,Sun Oct 6 2024,,Stade Rennais,,,AS Monaco
+7,Sun Oct 6 2024,,RC Strasbourg,,,RC Lens
+7,Sun Oct 6 2024,,Stade de Reims,,,Montpellier HSC
+8,Sun Oct 20 2024,,AJ Auxerre,,,Stade de Reims
+8,Sun Oct 20 2024,,Toulouse FC,,,Angers SCO
+8,Sun Oct 20 2024,,Havre AC,,,Olympique Lyonnais
+8,Sun Oct 20 2024,,FC Nantes,,,OGC Nice
+8,Sun Oct 20 2024,,Montpellier HSC,,,Olympique Marseille
+8,Sun Oct 20 2024,,AS Monaco,,,Lille OSC
+8,Sun Oct 20 2024,,AS Saint-Étienne,,,RC Lens
+8,Sun Oct 20 2024,,Stade Brestois 29,,,Stade Rennais
+8,Sun Oct 20 2024,,Paris Saint-Germain,,,RC Strasbourg
+9,Sun Oct 27 2024,,OGC Nice,,,AS Monaco
+9,Sun Oct 27 2024,,RC Lens,,,Lille OSC
+9,Sun Oct 27 2024,,Olympique Marseille,,,Paris Saint-Germain
+9,Sun Oct 27 2024,,Olympique Lyonnais,,,AJ Auxerre
+9,Sun Oct 27 2024,,Montpellier HSC,,,Toulouse FC
+9,Sun Oct 27 2024,,RC Strasbourg,,,FC Nantes
+9,Sun Oct 27 2024,,Stade Rennais,,,Havre AC
+9,Sun Oct 27 2024,,Angers SCO,,,AS Saint-Étienne
+9,Sun Oct 27 2024,,Stade de Reims,,,Stade Brestois 29
+10,Sun Nov 3 2024,,AJ Auxerre,,,Stade Rennais
+10,Sun Nov 3 2024,,Toulouse FC,,,Stade de Reims
+10,Sun Nov 3 2024,,AS Monaco,,,Angers SCO
+10,Sun Nov 3 2024,,Havre AC,,,Montpellier HSC
+10,Sun Nov 3 2024,,FC Nantes,,,Olympique Marseille
+10,Sun Nov 3 2024,,Lille OSC,,,Olympique Lyonnais
+10,Sun Nov 3 2024,,AS Saint-Étienne,,,RC Strasbourg
+10,Sun Nov 3 2024,,Stade Brestois 29,,,OGC Nice
+10,Sun Nov 3 2024,,Paris Saint-Germain,,,RC Lens
+11,Sun Nov 10 2024,,Olympique Marseille,,,AJ Auxerre
+11,Sun Nov 10 2024,,Olympique Lyonnais,,,AS Saint-Étienne
+11,Sun Nov 10 2024,,Montpellier HSC,,,Stade Brestois 29
+11,Sun Nov 10 2024,,Havre AC,,,Stade de Reims
+11,Sun Nov 10 2024,,RC Strasbourg,,,AS Monaco
+11,Sun Nov 10 2024,,RC Lens,,,FC Nantes
+11,Sun Nov 10 2024,,Stade Rennais,,,Toulouse FC
+11,Sun Nov 10 2024,,OGC Nice,,,Lille OSC
+11,Sun Nov 10 2024,,Angers SCO,,,Paris Saint-Germain
+12,Sun Nov 24 2024,,Paris Saint-Germain,,,Toulouse FC
+12,Sun Nov 24 2024,,RC Lens,,,Olympique Marseille
+12,Sun Nov 24 2024,,OGC Nice,,,RC Strasbourg
+12,Sun Nov 24 2024,,AS Saint-Étienne,,,Montpellier HSC
+12,Sun Nov 24 2024,,Lille OSC,,,Stade Rennais
+12,Sun Nov 24 2024,,FC Nantes,,,Havre AC
+12,Sun Nov 24 2024,,AS Monaco,,,Stade Brestois 29
+12,Sun Nov 24 2024,,AJ Auxerre,,,Angers SCO
+12,Sun Nov 24 2024,,Stade de Reims,,,Olympique Lyonnais
+13,Sun Dec 1 2024,,Stade de Reims,,,RC Lens
+13,Sun Dec 1 2024,,Stade Rennais,,,AS Saint-Étienne
+13,Sun Dec 1 2024,,Havre AC,,,Angers SCO
+13,Sun Dec 1 2024,,Toulouse FC,,,AJ Auxerre
+13,Sun Dec 1 2024,,Stade Brestois 29,,,RC Strasbourg
+13,Sun Dec 1 2024,,Montpellier HSC,,,Lille OSC
+13,Sun Dec 1 2024,,Paris Saint-Germain,,,FC Nantes
+13,Sun Dec 1 2024,,Olympique Marseille,,,AS Monaco
+13,Sun Dec 1 2024,,Olympique Lyonnais,,,OGC Nice
+14,Sun Dec 8 2024,,OGC Nice,,,Havre AC
+14,Sun Dec 8 2024,,AJ Auxerre,,,Paris Saint-Germain
+14,Sun Dec 8 2024,,AS Saint-Étienne,,,Olympique Marseille
+14,Sun Dec 8 2024,,Angers SCO,,,Olympique Lyonnais
+14,Sun Dec 8 2024,,Lille OSC,,,Stade Brestois 29
+14,Sun Dec 8 2024,,RC Lens,,,Montpellier HSC
+14,Sun Dec 8 2024,,RC Strasbourg,,,Stade de Reims
+14,Sun Dec 8 2024,,FC Nantes,,,Stade Rennais
+14,Sun Dec 8 2024,,AS Monaco,,,Toulouse FC
+15,Sun Dec 15 2024,,Stade Rennais,,,Angers SCO
+15,Sun Dec 15 2024,,Havre AC,,,RC Strasbourg
+15,Sun Dec 15 2024,,Stade de Reims,,,AS Monaco
+15,Sun Dec 15 2024,,AJ Auxerre,,,RC Lens
+15,Sun Dec 15 2024,,Toulouse FC,,,AS Saint-Étienne
+15,Sun Dec 15 2024,,Montpellier HSC,,,OGC Nice
+15,Sun Dec 15 2024,,Stade Brestois 29,,,FC Nantes
+15,Sun Dec 15 2024,,Olympique Marseille,,,Lille OSC
+15,Sun Dec 15 2024,,Paris Saint-Germain,,,Olympique Lyonnais
+16,Sun Jan 5 2025,,AS Monaco,,,Paris Saint-Germain
+16,Sun Jan 5 2025,,Olympique Lyonnais,,,Montpellier HSC
+16,Sun Jan 5 2025,,RC Lens,,,Toulouse FC
+16,Sun Jan 5 2025,,AS Saint-Étienne,,,Stade de Reims
+16,Sun Jan 5 2025,,Angers SCO,,,Stade Brestois 29
+16,Sun Jan 5 2025,,Lille OSC,,,FC Nantes
+16,Sun Jan 5 2025,,Olympique Marseille,,,Havre AC
+16,Sun Jan 5 2025,,RC Strasbourg,,,AJ Auxerre
+16,Sun Jan 5 2025,,OGC Nice,,,Stade Rennais
+17,Sun Jan 12 2025,,Toulouse FC,,,RC Strasbourg
+17,Sun Jan 12 2025,,FC Nantes,,,AS Monaco
+17,Sun Jan 12 2025,,AJ Auxerre,,,Lille OSC
+17,Sun Jan 12 2025,,Stade de Reims,,,OGC Nice
+17,Sun Jan 12 2025,,Havre AC,,,RC Lens
+17,Sun Jan 12 2025,,Montpellier HSC,,,Angers SCO
+17,Sun Jan 12 2025,,Stade Brestois 29,,,Olympique Lyonnais
+17,Sun Jan 12 2025,,Paris Saint-Germain,,,AS Saint-Étienne
+17,Sun Jan 12 2025,,Stade Rennais,,,Olympique Marseille
+18,Sun Jan 19 2025,,Olympique Marseille,,,RC Strasbourg
+18,Sun Jan 19 2025,,RC Lens,,,Paris Saint-Germain
+18,Sun Jan 19 2025,,Lille OSC,,,OGC Nice
+18,Sun Jan 19 2025,,Olympique Lyonnais,,,Toulouse FC
+18,Sun Jan 19 2025,,AS Saint-Étienne,,,FC Nantes
+18,Sun Jan 19 2025,,Montpellier HSC,,,AS Monaco
+18,Sun Jan 19 2025,,Stade de Reims,,,Havre AC
+18,Sun Jan 19 2025,,Angers SCO,,,AJ Auxerre
+18,Sun Jan 19 2025,,Stade Rennais,,,Stade Brestois 29
+19,Sun Jan 26 2025,,RC Strasbourg,,,Lille OSC
+19,Sun Jan 26 2025,,FC Nantes,,,Olympique Lyonnais
+19,Sun Jan 26 2025,,AS Monaco,,,Stade Rennais
+19,Sun Jan 26 2025,,Toulouse FC,,,Montpellier HSC
+19,Sun Jan 26 2025,,Havre AC,,,Stade Brestois 29
+19,Sun Jan 26 2025,,AJ Auxerre,,,AS Saint-Étienne
+19,Sun Jan 26 2025,,RC Lens,,,Angers SCO
+19,Sun Jan 26 2025,,Paris Saint-Germain,,,Stade de Reims
+19,Sun Jan 26 2025,,OGC Nice,,,Olympique Marseille
+20,Sun Feb 2 2025,,Olympique Marseille,,,Olympique Lyonnais
+20,Sun Feb 2 2025,,Stade Brestois 29,,,Paris Saint-Germain
+20,Sun Feb 2 2025,,Montpellier HSC,,,RC Lens
+20,Sun Feb 2 2025,,Lille OSC,,,AS Saint-Étienne
+20,Sun Feb 2 2025,,Stade de Reims,,,FC Nantes
+20,Sun Feb 2 2025,,Angers SCO,,,Havre AC
+20,Sun Feb 2 2025,,Toulouse FC,,,OGC Nice
+20,Sun Feb 2 2025,,Stade Rennais,,,RC Strasbourg
+20,Sun Feb 2 2025,,AS Monaco,,,AJ Auxerre
+21,Sun Feb 9 2025,,AJ Auxerre,,,Toulouse FC
+21,Sun Feb 9 2025,,FC Nantes,,,Stade Brestois 29
+21,Sun Feb 9 2025,,RC Strasbourg,,,Montpellier HSC
+21,Sun Feb 9 2025,,Lille OSC,,,Havre AC
+21,Sun Feb 9 2025,,AS Saint-Étienne,,,Stade Rennais
+21,Sun Feb 9 2025,,Paris Saint-Germain,,,AS Monaco
+21,Sun Feb 9 2025,,Olympique Lyonnais,,,Stade de Reims
+21,Sun Feb 9 2025,,Angers SCO,,,Olympique Marseille
+21,Sun Feb 9 2025,,OGC Nice,,,RC Lens
+22,Sun Feb 16 2025,,Toulouse FC,,,Paris Saint-Germain
+22,Sun Feb 16 2025,,Olympique Marseille,,,AS Saint-Étienne
+22,Sun Feb 16 2025,,Montpellier HSC,,,Olympique Lyonnais
+22,Sun Feb 16 2025,,RC Lens,,,RC Strasbourg
+22,Sun Feb 16 2025,,Stade Brestois 29,,,AJ Auxerre
+22,Sun Feb 16 2025,,Stade Rennais,,,Lille OSC
+22,Sun Feb 16 2025,,Stade de Reims,,,Angers SCO
+22,Sun Feb 16 2025,,Havre AC,,,OGC Nice
+22,Sun Feb 16 2025,,AS Monaco,,,FC Nantes
+23,Sun Feb 23 2025,,Stade Rennais,,,Stade de Reims
+23,Sun Feb 23 2025,,Havre AC,,,Toulouse FC
+23,Sun Feb 23 2025,,Lille OSC,,,AS Monaco
+23,Sun Feb 23 2025,,RC Strasbourg,,,Stade Brestois 29
+23,Sun Feb 23 2025,,FC Nantes,,,RC Lens
+23,Sun Feb 23 2025,,AS Saint-Étienne,,,Angers SCO
+23,Sun Feb 23 2025,,AJ Auxerre,,,Olympique Marseille
+23,Sun Feb 23 2025,,OGC Nice,,,Montpellier HSC
+23,Sun Feb 23 2025,,Olympique Lyonnais,,,Paris Saint-Germain
+24,Sun Mar 2 2025,,Paris Saint-Germain,,,Lille OSC
+24,Sun Mar 2 2025,,Olympique Marseille,,,FC Nantes
+24,Sun Mar 2 2025,,Olympique Lyonnais,,,Stade Brestois 29
+24,Sun Mar 2 2025,,Montpellier HSC,,,Stade Rennais
+24,Sun Mar 2 2025,,AS Saint-Étienne,,,OGC Nice
+24,Sun Mar 2 2025,,RC Lens,,,Havre AC
+24,Sun Mar 2 2025,,AJ Auxerre,,,RC Strasbourg
+24,Sun Mar 2 2025,,AS Monaco,,,Stade de Reims
+24,Sun Mar 2 2025,,Angers SCO,,,Toulouse FC
+25,Sun Mar 9 2025,,Havre AC,,,AS Saint-Étienne
+25,Sun Mar 9 2025,,Stade de Reims,,,AJ Auxerre
+25,Sun Mar 9 2025,,FC Nantes,,,RC Strasbourg
+25,Sun Mar 9 2025,,Toulouse FC,,,AS Monaco
+25,Sun Mar 9 2025,,OGC Nice,,,Olympique Lyonnais
+25,Sun Mar 9 2025,,Stade Brestois 29,,,Angers SCO
+25,Sun Mar 9 2025,,Lille OSC,,,Montpellier HSC
+25,Sun Mar 9 2025,,Stade Rennais,,,Paris Saint-Germain
+25,Sun Mar 9 2025,,Olympique Marseille,,,RC Lens
+26,Sun Mar 16 2025,,Paris Saint-Germain,,,Olympique Marseille
+26,Sun Mar 16 2025,,OGC Nice,,,AJ Auxerre
+26,Sun Mar 16 2025,,Montpellier HSC,,,AS Saint-Étienne
+26,Sun Mar 16 2025,,Stade Brestois 29,,,Stade de Reims
+26,Sun Mar 16 2025,,Olympique Lyonnais,,,Havre AC
+26,Sun Mar 16 2025,,RC Lens,,,Stade Rennais
+26,Sun Mar 16 2025,,RC Strasbourg,,,Toulouse FC
+26,Sun Mar 16 2025,,FC Nantes,,,Lille OSC
+26,Sun Mar 16 2025,,Angers SCO,,,AS Monaco
+27,Sun Mar 30 2025,,Angers SCO,,,Stade Rennais
+27,Sun Mar 30 2025,,AJ Auxerre,,,Montpellier HSC
+27,Sun Mar 30 2025,,Havre AC,,,FC Nantes
+27,Sun Mar 30 2025,,RC Strasbourg,,,Olympique Lyonnais
+27,Sun Mar 30 2025,,Toulouse FC,,,Stade Brestois 29
+27,Sun Mar 30 2025,,AS Saint-Étienne,,,Paris Saint-Germain
+27,Sun Mar 30 2025,,Stade de Reims,,,Olympique Marseille
+27,Sun Mar 30 2025,,Lille OSC,,,RC Lens
+27,Sun Mar 30 2025,,AS Monaco,,,OGC Nice
+28,Sun Apr 6 2025,,Olympique Marseille,,,Toulouse FC
+28,Sun Apr 6 2025,,OGC Nice,,,FC Nantes
+28,Sun Apr 6 2025,,Stade Brestois 29,,,AS Monaco
+28,Sun Apr 6 2025,,Montpellier HSC,,,Havre AC
+28,Sun Apr 6 2025,,Olympique Lyonnais,,,Lille OSC
+28,Sun Apr 6 2025,,RC Lens,,,AS Saint-Étienne
+28,Sun Apr 6 2025,,Paris Saint-Germain,,,Angers SCO
+28,Sun Apr 6 2025,,Stade de Reims,,,RC Strasbourg
+28,Sun Apr 6 2025,,Stade Rennais,,,AJ Auxerre
+29,Sun Apr 13 2025,,Toulouse FC,,,Lille OSC
+29,Sun Apr 13 2025,,Havre AC,,,Stade Rennais
+29,Sun Apr 13 2025,,AJ Auxerre,,,Olympique Lyonnais
+29,Sun Apr 13 2025,,FC Nantes,,,Paris Saint-Germain
+29,Sun Apr 13 2025,,RC Strasbourg,,,OGC Nice
+29,Sun Apr 13 2025,,AS Saint-Étienne,,,Stade Brestois 29
+29,Sun Apr 13 2025,,Angers SCO,,,Montpellier HSC
+29,Sun Apr 13 2025,,RC Lens,,,Stade de Reims
+29,Sun Apr 13 2025,,AS Monaco,,,Olympique Marseille
+30,Sun Apr 20 2025,,AS Saint-Étienne,,,Olympique Lyonnais
+30,Sun Apr 20 2025,,OGC Nice,,,Angers SCO
+30,Sun Apr 20 2025,,Stade Brestois 29,,,RC Lens
+30,Sun Apr 20 2025,,Lille OSC,,,AJ Auxerre
+30,Sun Apr 20 2025,,Paris Saint-Germain,,,Havre AC
+30,Sun Apr 20 2025,,Olympique Marseille,,,Montpellier HSC
+30,Sun Apr 20 2025,,Stade de Reims,,,Toulouse FC
+30,Sun Apr 20 2025,,AS Monaco,,,RC Strasbourg
+30,Sun Apr 20 2025,,Stade Rennais,,,FC Nantes
+31,Sun Apr 27 2025,,Havre AC,,,AS Monaco
+31,Sun Apr 27 2025,,RC Strasbourg,,,AS Saint-Étienne
+31,Sun Apr 27 2025,,FC Nantes,,,Toulouse FC
+31,Sun Apr 27 2025,,Montpellier HSC,,,Stade de Reims
+31,Sun Apr 27 2025,,RC Lens,,,AJ Auxerre
+31,Sun Apr 27 2025,,Angers SCO,,,Lille OSC
+31,Sun Apr 27 2025,,Paris Saint-Germain,,,OGC Nice
+31,Sun Apr 27 2025,,Olympique Marseille,,,Stade Brestois 29
+31,Sun Apr 27 2025,,Olympique Lyonnais,,,Stade Rennais
+32,Sun May 4 2025,,Olympique Lyonnais,,,RC Lens
+32,Sun May 4 2025,,Lille OSC,,,Olympique Marseille
+32,Sun May 4 2025,,OGC Nice,,,Stade de Reims
+32,Sun May 4 2025,,Stade Brestois 29,,,Montpellier HSC
+32,Sun May 4 2025,,AS Saint-Étienne,,,AS Monaco
+32,Sun May 4 2025,,FC Nantes,,,Angers SCO
+32,Sun May 4 2025,,Toulouse FC,,,Stade Rennais
+32,Sun May 4 2025,,RC Strasbourg,,,Paris Saint-Germain
+32,Sun May 4 2025,,AJ Auxerre,,,Havre AC
+33,Sun May 11 2025,,Stade de Reims,,,AS Saint-Étienne
+33,Sun May 11 2025,,AJ Auxerre,,,FC Nantes
+33,Sun May 11 2025,,Angers SCO,,,RC Strasbourg
+33,Sun May 11 2025,,Havre AC,,,Olympique Marseille
+33,Sun May 11 2025,,Stade Rennais,,,OGC Nice
+33,Sun May 11 2025,,Montpellier HSC,,,Paris Saint-Germain
+33,Sun May 11 2025,,Toulouse FC,,,RC Lens
+33,Sun May 11 2025,,Stade Brestois 29,,,Lille OSC
+33,Sun May 11 2025,,AS Monaco,,,Olympique Lyonnais
+34,Sun May 18 2025,,Olympique Marseille,,,Stade Rennais
+34,Sun May 18 2025,,Olympique Lyonnais,,,Angers SCO
+34,Sun May 18 2025,,OGC Nice,,,Stade Brestois 29
+34,Sun May 18 2025,,AS Saint-Étienne,,,Toulouse FC
+34,Sun May 18 2025,,Lille OSC,,,Stade de Reims
+34,Sun May 18 2025,,RC Strasbourg,,,Havre AC
+34,Sun May 18 2025,,FC Nantes,,,Montpellier HSC
+34,Sun May 18 2025,,RC Lens,,,AS Monaco
+34,Sun May 18 2025,,Paris Saint-Germain,,,AJ Auxerre

@@ -1,0 +1,241 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Mar 1 2024,18:35,Qingdao West Coast,1-1,0-1,Henan FC
+1,Fri Mar 1 2024,19:00,Shanghai Port FC,3-1,1-1,Wuhan Three Towns
+1,Fri Mar 1 2024,17:00,Shandong Taishan,4-2,3-0,Changchun Yatai
+1,Sat Mar 2 2024,14:30,Cangzhou Mighty Lions,0-2,0-1,Beijing Guoan
+1,Sat Mar 2 2024,14:30,Tianjin Jinmen Tiger,1-1,0-0,Nantong Zhiyun
+1,Sat Mar 2 2024,18:35,Chengdu Rongcheng,2-0,1-0,Qingdao Hainiu
+1,Sun Mar 3 2024,19:00,Meizhou Hakka,0-2,0-0,Shanghai Shenhua
+1,Sun Mar 3 2024,18:35,Zhejiang Professional,1-0,1-0,Shenzhen Peng City
+2,Fri Mar 8 2024,19:00,Shanghai Shenhua,2-0,2-0,Qingdao West Coast
+2,Fri Mar 8 2024,18:35,Qingdao Hainiu,0-1,0-0,Changchun Yatai
+2,Sat Mar 9 2024,14:30,Henan FC,2-2,1-1,Meizhou Hakka
+2,Sat Mar 9 2024,18:35,Shandong Taishan,0-0,0-0,Beijing Guoan
+2,Sat Mar 9 2024,18:35,Zhejiang Professional,0-0,0-0,Shanghai Port FC
+2,Sat Mar 9 2024,19:00,Nantong Zhiyun,1-3,0-1,Wuhan Three Towns
+2,Sun Mar 10 2024,19:00,Shenzhen Peng City,0-4,0-1,Tianjin Jinmen Tiger
+2,Sun Mar 10 2024,14:30,Cangzhou Mighty Lions,1-0,0-0,Chengdu Rongcheng
+3,Fri Mar 29 2024,18:35,Shenzhen Peng City,2-2,2-1,Cangzhou Mighty Lions
+3,Sat Mar 30 2024,14:30,Wuhan Three Towns,0-1,0-0,Beijing Guoan
+3,Sat Mar 30 2024,18:00,Chengdu Rongcheng,1-0,1-0,Nantong Zhiyun
+3,Sat Mar 30 2024,18:35,Qingdao West Coast,1-0,1-0,Qingdao Hainiu
+3,Sat Mar 30 2024,19:00,Shanghai Port FC,3-1,0-0,Henan FC
+3,Sun Mar 31 2024,19:35,Shandong Taishan,0-3,0-2,Shanghai Shenhua
+3,Sun Mar 31 2024,20:00,Meizhou Hakka,1-2,0-0,Zhejiang Professional
+3,Sun Mar 31 2024,15:30,Changchun Yatai,0-1,0-1,Tianjin Jinmen Tiger
+4,Thu Apr 4 2024,19:35,Wuhan Three Towns,2-3,0-1,Cangzhou Mighty Lions
+4,Fri Apr 5 2024,15:30,Changchun Yatai,1-2,1-1,Shanghai Shenhua
+4,Fri Apr 5 2024,19:00,Henan FC,0-2,0-0,Shenzhen Peng City
+4,Fri Apr 5 2024,19:35,Beijing Guoan,2-2,1-1,Shanghai Port FC
+4,Fri Apr 5 2024,19:35,Qingdao Hainiu,0-1,0-0,Shandong Taishan
+4,Fri Apr 5 2024,20:00,Nantong Zhiyun,1-0,0-0,Meizhou Hakka
+4,Sat Apr 6 2024,19:35,Zhejiang Professional,1-2,0-1,Qingdao West Coast
+4,Sat Apr 6 2024,15:30,Tianjin Jinmen Tiger,2-3,0-1,Chengdu Rongcheng
+5,Tue Apr 9 2024,19:35,Beijing Guoan,1-2,0-1,Shenzhen Peng City
+5,Tue Apr 9 2024,19:35,Shandong Taishan,2-2,0-0,Henan FC
+5,Tue Apr 9 2024,20:00,Shanghai Shenhua,4-1,2-0,Wuhan Three Towns
+5,Tue Apr 9 2024,18:00,Nantong Zhiyun,0-3,0-2,Shanghai Port FC
+5,Wed Apr 10 2024,19:00,Qingdao West Coast,1-3,0-0,Tianjin Jinmen Tiger
+5,Wed Apr 10 2024,19:35,Cangzhou Mighty Lions,2-0,1-0,Changchun Yatai
+5,Wed Apr 10 2024,19:35,Chengdu Rongcheng,3-0,1-0,Zhejiang Professional
+5,Wed Apr 10 2024,20:00,Meizhou Hakka,0-0,0-0,Qingdao Hainiu
+6,Sat Apr 13 2024,19:35,Shanghai Shenhua,1-1,1-1,Beijing Guoan
+6,Sat Apr 13 2024,15:30,Henan FC,1-1,0-0,Nantong Zhiyun
+6,Sun Apr 14 2024,15:30,Changchun Yatai,1-2,1-0,Chengdu Rongcheng
+6,Sun Apr 14 2024,19:00,Tianjin Jinmen Tiger,0-0,0-0,Meizhou Hakka
+6,Sun Apr 14 2024,19:35,Cangzhou Mighty Lions,3-2,0-2,Qingdao West Coast
+6,Sun Apr 14 2024,19:35,Qingdao Hainiu,2-0,1-0,Zhejiang Professional
+6,Sun Apr 14 2024,19:35,Shanghai Port FC,4-3,2-3,Shandong Taishan
+6,Sun Apr 14 2024,20:00,Shenzhen Peng City,1-1,0-0,Wuhan Three Towns
+7,Fri Apr 19 2024,20:00,Zhejiang Professional,3-2,1-1,Tianjin Jinmen Tiger
+7,Sat Apr 20 2024,19:00,Chengdu Rongcheng,3-1,1-1,Shenzhen Peng City
+7,Sat Apr 20 2024,19:35,Wuhan Three Towns,0-0,0-0,Changchun Yatai
+7,Sat Apr 20 2024,20:00,Nantong Zhiyun,0-2,0-1,Shanghai Shenhua
+7,Sat Apr 20 2024,15:30,Shandong Taishan,4-1,3-0,Cangzhou Mighty Lions
+7,Sun Apr 21 2024,20:00,Beijing Guoan,4-1,1-0,Qingdao West Coast
+7,Sun Apr 21 2024,19:00,Henan FC,1-0,0-0,Qingdao Hainiu
+8,Fri Apr 26 2024,20:00,Chengdu Rongcheng,0-1,0-1,Shandong Taishan
+8,Fri Apr 26 2024,18:00,Qingdao West Coast,0-2,0-2,Nantong Zhiyun
+8,Fri Apr 26 2024,19:00,Shenzhen Peng City,1-3,0-3,Qingdao Hainiu
+8,Fri Apr 26 2024,19:35,Cangzhou Mighty Lions,2-3,0-1,Henan FC
+8,Fri Apr 26 2024,19:35,Changchun Yatai,0-1,0-0,Meizhou Hakka
+8,Fri Apr 26 2024,19:35,Wuhan Three Towns,2-1,1-1,Tianjin Jinmen Tiger
+8,Fri Apr 26 2024,19:35,Zhejiang Professional,1-2,0-1,Beijing Guoan
+8,Sat Apr 27 2024,19:35,Shanghai Port FC,1-1,0-0,Shanghai Shenhua
+9,Tue Apr 30 2024,18:00,Shandong Taishan,3-1,1-1,Nantong Zhiyun
+9,Tue Apr 30 2024,19:35,Tianjin Jinmen Tiger,0-1,0-0,Beijing Guoan
+9,Tue Apr 30 2024,20:00,Meizhou Hakka,1-1,0-1,Qingdao West Coast
+9,Tue Apr 30 2024,20:00,Zhejiang Professional,4-1,3-1,Henan FC
+9,Wed May 1 2024,15:30,Changchun Yatai,1-1,0-0,Shenzhen Peng City
+9,Wed May 1 2024,19:35,Chengdu Rongcheng,2-2,1-1,Wuhan Three Towns
+9,Wed May 1 2024,18:00,Qingdao Hainiu,0-5,0-2,Shanghai Port FC
+9,Wed May 1 2024,20:00,Shanghai Shenhua,4-0,1-0,Cangzhou Mighty Lions
+10,Sat May 4 2024,20:00,Henan FC,1-2,1-0,Tianjin Jinmen Tiger
+10,Sat May 4 2024,19:35,Qingdao West Coast,0-0,0-0,Shandong Taishan
+10,Sun May 5 2024,18:00,Shanghai Shenhua,4-0,2-0,Zhejiang Professional
+10,Sun May 5 2024,15:30,Nantong Zhiyun,2-3,1-1,Changchun Yatai
+10,Sun May 5 2024,20:00,Shenzhen Peng City,0-6,0-3,Shanghai Port FC
+10,Sun May 5 2024,19:00,Meizhou Hakka,1-1,0-1,Cangzhou Mighty Lions
+10,Sun May 5 2024,19:35,Beijing Guoan,2-1,2-0,Chengdu Rongcheng
+10,Sun May 5 2024,19:35,Wuhan Three Towns,1-0,1-0,Qingdao Hainiu
+11,Fri May 10 2024,19:00,Qingdao Hainiu,2-2,0-0,Nantong Zhiyun
+11,Fri May 10 2024,19:35,Chengdu Rongcheng,4-2,3-2,Henan FC
+11,Fri May 10 2024,20:00,Shanghai Port FC,5-2,3-1,Changchun Yatai
+11,Sat May 11 2024,19:00,Tianjin Jinmen Tiger,0-0,0-0,Shanghai Shenhua
+11,Sat May 11 2024,19:35,Wuhan Three Towns,1-2,0-1,Shandong Taishan
+11,Sat May 11 2024,20:00,Beijing Guoan,3-2,0-2,Meizhou Hakka
+11,Sun May 12 2024,20:00,Shenzhen Peng City,1-2,1-1,Qingdao West Coast
+11,Sun May 12 2024,19:35,Cangzhou Mighty Lions,0-1,0-0,Zhejiang Professional
+12,Wed May 15 2024,19:35,Shanghai Shenhua,2-0,0-0,Qingdao Hainiu
+12,Thu May 16 2024,19:35,Shandong Taishan,3-2,2-1,Shenzhen Peng City
+12,Fri May 17 2024,19:35,Cangzhou Mighty Lions,2-4,0-1,Tianjin Jinmen Tiger
+12,Fri May 17 2024,19:00,Zhejiang Professional,5-2,3-1,Nantong Zhiyun
+12,Fri May 17 2024,20:00,Changchun Yatai,3-2,1-1,Beijing Guoan
+12,Fri May 17 2024,19:35,Henan FC,2-3,1-2,Wuhan Three Towns
+12,Fri May 17 2024,19:35,Meizhou Hakka,1-4,0-1,Chengdu Rongcheng
+12,Sat May 18 2024,19:35,Qingdao West Coast,3-5,1-3,Shanghai Port FC
+13,Tue May 21 2024,19:00,Meizhou Hakka,0-0,0-0,Shenzhen Peng City
+13,Tue May 21 2024,19:35,Henan FC,1-2,0-2,Shanghai Shenhua
+13,Tue May 21 2024,19:35,Qingdao Hainiu,1-1,0-0,Beijing Guoan
+13,Tue May 21 2024,20:00,Tianjin Jinmen Tiger,1-1,1-0,Shandong Taishan
+13,Tue May 21 2024,20:00,Nantong Zhiyun,1-1,0-0,Cangzhou Mighty Lions
+13,Tue May 21 2024,19:35,Zhejiang Professional,3-1,2-1,Wuhan Three Towns
+13,Wed May 22 2024,20:00,Shanghai Port FC,2-0,0-0,Chengdu Rongcheng
+13,Wed May 22 2024,19:35,Qingdao West Coast,2-2,0-2,Changchun Yatai
+14,Sat May 25 2024,20:00,Wuhan Three Towns,0-1,0-0,Meizhou Hakka
+14,Sat May 25 2024,19:35,Shandong Taishan,3-0,3-0,Zhejiang Professional
+14,Sun May 26 2024,18:00,Shenzhen Peng City,0-1,0-1,Shanghai Shenhua
+14,Sun May 26 2024,19:00,Beijing Guoan,5-2,2-1,Nantong Zhiyun
+14,Sun May 26 2024,19:00,Qingdao Hainiu,3-1,2-0,Tianjin Jinmen Tiger
+14,Sun May 26 2024,19:35,Changchun Yatai,0-0,0-0,Henan FC
+14,Sun May 26 2024,20:00,Shanghai Port FC,4-1,1-1,Cangzhou Mighty Lions
+14,Sun May 26 2024,19:35,Chengdu Rongcheng,7-0,3-0,Qingdao West Coast
+15,Fri Jun 14 2024,20:00,Tianjin Jinmen Tiger,0-3,0-2,Shanghai Port FC
+15,Fri Jun 14 2024,19:35,Meizhou Hakka,0-0,0-0,Shandong Taishan
+15,Fri Jun 14 2024,20:00,Nantong Zhiyun,0-1,0-0,Shenzhen Peng City
+15,Sat Jun 15 2024,20:00,Henan FC,2-1,0-1,Beijing Guoan
+15,Sat Jun 15 2024,19:35,Zhejiang Professional,3-1,0-1,Changchun Yatai
+15,Sun Jun 16 2024,20:00,Qingdao West Coast,0-1,0-1,Wuhan Three Towns
+15,Sun Jun 16 2024,19:00,Cangzhou Mighty Lions,0-1,0-1,Qingdao Hainiu
+15,Sun Jun 16 2024,19:35,Shanghai Shenhua,1-1,1-1,Chengdu Rongcheng
+7,Tue Jun 18 2024,19:35,Meizhou Hakka,1-2,0-0,Shanghai Port FC
+16,Tue Jun 25 2024,19:00,Henan FC,1-0,0-0,Qingdao West Coast
+16,Tue Jun 25 2024,19:35,Nantong Zhiyun,1-1,1-0,Tianjin Jinmen Tiger
+16,Tue Jun 25 2024,19:35,Shenzhen Peng City,3-2,0-1,Zhejiang Professional
+16,Tue Jun 25 2024,20:00,Wuhan Three Towns,0-2,0-2,Shanghai Port FC
+16,Wed Jun 26 2024,19:35,Changchun Yatai,2-2,1-2,Shandong Taishan
+16,Wed Jun 26 2024,19:35,Qingdao Hainiu,1-5,1-2,Chengdu Rongcheng
+16,Wed Jun 26 2024,20:00,Beijing Guoan,4-0,2-0,Cangzhou Mighty Lions
+16,Wed Jun 26 2024,19:00,Shanghai Shenhua,3-0,1-0,Meizhou Hakka
+17,Sat Jun 29 2024,19:35,Shanghai Port FC,3-1,1-1,Zhejiang Professional
+17,Sat Jun 29 2024,19:35,Tianjin Jinmen Tiger,3-0,1-0,Shenzhen Peng City
+17,Sat Jun 29 2024,19:00,Wuhan Three Towns,1-2,0-1,Nantong Zhiyun
+17,Sun Jun 30 2024,18:00,Qingdao West Coast,0-1,0-0,Shanghai Shenhua
+17,Sun Jun 30 2024,19:35,Changchun Yatai,5-0,2-0,Qingdao Hainiu
+17,Sun Jun 30 2024,19:35,Chengdu Rongcheng,4-0,2-0,Cangzhou Mighty Lions
+17,Sun Jun 30 2024,19:35,Meizhou Hakka,0-3,0-0,Henan FC
+17,Sun Jun 30 2024,20:00,Beijing Guoan,2-0,2-0,Shandong Taishan
+18,Fri Jul 5 2024,19:35,Henan FC,0-1,0-1,Shanghai Port FC
+18,Sat Jul 6 2024,19:35,Shanghai Shenhua,6-0,3-0,Shandong Taishan
+18,Sat Jul 6 2024,20:00,Cangzhou Mighty Lions,1-1,1-1,Shenzhen Peng City
+18,Sat Jul 6 2024,19:00,Tianjin Jinmen Tiger,2-2,2-0,Changchun Yatai
+18,Sun Jul 7 2024,19:00,Nantong Zhiyun,0-1,0-0,Chengdu Rongcheng
+18,Sun Jul 7 2024,19:35,Beijing Guoan,1-2,0-1,Wuhan Three Towns
+18,Sun Jul 7 2024,19:35,Qingdao Hainiu,3-1,3-1,Qingdao West Coast
+18,Sun Jul 7 2024,20:00,Zhejiang Professional,4-0,3-0,Meizhou Hakka
+19,Fri Jul 12 2024,19:35,Shanghai Port FC,5-1,3-1,Beijing Guoan
+19,Fri Jul 12 2024,20:00,Chengdu Rongcheng,2-1,1-1,Tianjin Jinmen Tiger
+19,Fri Jul 12 2024,19:35,Cangzhou Mighty Lions,1-1,1-1,Wuhan Three Towns
+19,Sat Jul 13 2024,19:35,Meizhou Hakka,2-1,0-1,Nantong Zhiyun
+19,Sat Jul 13 2024,19:35,Shandong Taishan,1-1,1-1,Qingdao Hainiu
+19,Sat Jul 13 2024,20:00,Shanghai Shenhua,3-2,1-1,Changchun Yatai
+19,Sat Jul 13 2024,20:00,Shenzhen Peng City,0-0,0-0,Henan FC
+19,Sat Jul 13 2024,14:30,Qingdao West Coast,5-2,1-2,Zhejiang Professional
+24,Sat Jul 20 2024,19:35,Wuhan Three Towns,1-1,0-0,Chengdu Rongcheng
+24,Sun Jul 21 2024,19:35,Shenzhen Peng City,2-1,0-1,Changchun Yatai
+24,Sun Jul 21 2024,19:35,Henan FC,2-1,2-1,Zhejiang Professional
+24,Sun Jul 21 2024,19:00,Nantong Zhiyun,0-2,0-1,Shandong Taishan
+24,Sun Jul 21 2024,18:00,Qingdao West Coast,3-3,3-1,Meizhou Hakka
+24,Sun Jul 21 2024,19:35,Shanghai Port FC,5-0,0-0,Qingdao Hainiu
+24,Sun Jul 21 2024,19:35,Beijing Guoan,2-0,0-0,Tianjin Jinmen Tiger
+24,Mon Jul 22 2024,19:35,Cangzhou Mighty Lions,0-5,0-2,Shanghai Shenhua
+20,Fri Jul 26 2024,19:35,Shanghai Port FC,8-1,4-0,Nantong Zhiyun
+20,Fri Jul 26 2024,20:00,Shenzhen Peng City,1-0,0-0,Beijing Guoan
+20,Sat Jul 27 2024,19:00,Changchun Yatai,1-0,0-0,Cangzhou Mighty Lions
+20,Sat Jul 27 2024,19:35,Tianjin Jinmen Tiger,2-1,1-0,Qingdao West Coast
+20,Sun Jul 28 2024,19:35,Qingdao Hainiu,4-2,2-1,Meizhou Hakka
+20,Sun Jul 28 2024,19:35,Zhejiang Professional,1-3,1-1,Chengdu Rongcheng
+20,Sun Jul 28 2024,20:00,Henan FC,1-0,1-0,Shandong Taishan
+20,Mon Jul 29 2024,19:35,Wuhan Three Towns,0-2,0-1,Shanghai Shenhua
+21,Fri Aug 2 2024,19:35,Qingdao West Coast,1-1,0-0,Cangzhou Mighty Lions
+21,Sat Aug 3 2024,20:00,Chengdu Rongcheng,4-0,3-0,Changchun Yatai
+21,Sat Aug 3 2024,19:35,Meizhou Hakka,3-2,1-0,Tianjin Jinmen Tiger
+21,Sat Aug 3 2024,20:00,Wuhan Three Towns,4-1,3-0,Shenzhen Peng City
+21,Sat Aug 3 2024,19:35,Shandong Taishan,0-1,0-0,Shanghai Port FC
+21,Sat Aug 3 2024,19:00,Zhejiang Professional,4-3,2-1,Qingdao Hainiu
+21,Sun Aug 4 2024,20:00,Nantong Zhiyun,1-1,1-0,Henan FC
+21,Sun Aug 4 2024,19:35,Beijing Guoan,2-1,1-0,Shanghai Shenhua
+22,Fri Aug 9 2024,19:35,Cangzhou Mighty Lions,3-1,0-1,Shandong Taishan
+22,Fri Aug 9 2024,19:35,Shanghai Port FC,7-2,4-1,Meizhou Hakka
+22,Fri Aug 9 2024,19:35,Shenzhen Peng City,0-3,0-3,Chengdu Rongcheng
+22,Sat Aug 10 2024,19:00,Qingdao Hainiu,0-2,0-0,Henan FC
+22,Sat Aug 10 2024,19:35,Changchun Yatai,2-0,2-0,Wuhan Three Towns
+22,Sat Aug 10 2024,20:00,Shanghai Shenhua,5-1,3-0,Nantong Zhiyun
+22,Sun Aug 11 2024,20:00,Tianjin Jinmen Tiger,3-2,2-0,Zhejiang Professional
+22,Sun Aug 11 2024,19:35,Qingdao West Coast,2-2,0-1,Beijing Guoan
+23,Fri Aug 16 2024,20:00,Nantong Zhiyun,0-3,0-1,Qingdao West Coast
+23,Fri Aug 16 2024,19:35,Tianjin Jinmen Tiger,1-0,0-0,Wuhan Three Towns
+23,Fri Aug 16 2024,19:00,Henan FC,0-2,0-1,Cangzhou Mighty Lions
+23,Fri Aug 16 2024,20:00,Beijing Guoan,0-0,0-0,Zhejiang Professional
+23,Sat Aug 17 2024,19:35,Shanghai Shenhua,3-1,0-1,Shanghai Port FC
+23,Sat Aug 17 2024,19:35,Meizhou Hakka,2-1,2-0,Changchun Yatai
+23,Sat Aug 17 2024,19:00,Qingdao Hainiu,1-0,1-0,Shenzhen Peng City
+23,Sat Aug 17 2024,20:00,Shandong Taishan,3-0,1-0,Chengdu Rongcheng
+25,Fri Sep 13 2024,19:35,Zhejiang Professional,,,Shanghai Shenhua
+25,Fri Sep 13 2024,20:00,Shandong Taishan,,,Qingdao West Coast
+25,Fri Sep 13 2024,19:00,Shanghai Port FC,,,Shenzhen Peng City
+25,Sat Sep 14 2024,19:35,Chengdu Rongcheng,,,Beijing Guoan
+25,Sat Sep 14 2024,19:35,Tianjin Jinmen Tiger,,,Henan FC
+25,Sat Sep 14 2024,19:35,Changchun Yatai,,,Nantong Zhiyun
+25,Sat Sep 14 2024,20:00,Cangzhou Mighty Lions,,,Meizhou Hakka
+25,Sun Sep 15 2024,20:00,Qingdao Hainiu,,,Wuhan Three Towns
+26,Fri Sep 20 2024,19:35,Meizhou Hakka,,,Beijing Guoan
+26,Sat Sep 21 2024,18:00,Changchun Yatai,,,Shanghai Port FC
+26,Sat Sep 21 2024,19:35,Henan FC,,,Chengdu Rongcheng
+26,Sat Sep 21 2024,19:35,Shandong Taishan,,,Wuhan Three Towns
+26,Sat Sep 21 2024,20:00,Shanghai Shenhua,,,Tianjin Jinmen Tiger
+26,Sun Sep 22 2024,19:00,Nantong Zhiyun,,,Qingdao Hainiu
+26,Sun Sep 22 2024,20:00,Zhejiang Professional,,,Cangzhou Mighty Lions
+26,Sun Sep 22 2024,15:30,Qingdao West Coast,,,Shenzhen Peng City
+27,Sat Sep 28 2024,15:30,Qingdao Hainiu,,,Shanghai Shenhua
+27,Sat Sep 28 2024,18:00,Shanghai Port FC,,,Qingdao West Coast
+27,Sat Sep 28 2024,19:35,Beijing Guoan,,,Changchun Yatai
+27,Sat Sep 28 2024,19:35,Nantong Zhiyun,,,Zhejiang Professional
+27,Sat Sep 28 2024,20:00,Shenzhen Peng City,,,Shandong Taishan
+27,Sun Sep 29 2024,19:35,Tianjin Jinmen Tiger,,,Cangzhou Mighty Lions
+27,Sun Sep 29 2024,20:00,Wuhan Three Towns,,,Henan FC
+27,Sun Sep 29 2024,19:35,Chengdu Rongcheng,,,Meizhou Hakka
+28,Fri Oct 18 2024,19:35,Shandong Taishan,,,Tianjin Jinmen Tiger
+28,Fri Oct 18 2024,19:35,Shanghai Shenhua,,,Henan FC
+28,Fri Oct 18 2024,19:35,Wuhan Three Towns,,,Zhejiang Professional
+28,Fri Oct 18 2024,20:00,Chengdu Rongcheng,,,Shanghai Port FC
+28,Sat Oct 19 2024,19:35,Beijing Guoan,,,Qingdao Hainiu
+28,Sat Oct 19 2024,15:30,Changchun Yatai,,,Qingdao West Coast
+28,Sun Oct 20 2024,19:35,Shenzhen Peng City,,,Meizhou Hakka
+28,Sun Oct 20 2024,18:00,Cangzhou Mighty Lions,,,Nantong Zhiyun
+29,Sun Oct 27 2024,14:30,Cangzhou Mighty Lions,,,Shanghai Port FC
+29,Sun Oct 27 2024,14:30,Henan FC,,,Changchun Yatai
+29,Sun Oct 27 2024,14:30,Meizhou Hakka,,,Wuhan Three Towns
+29,Sun Oct 27 2024,14:30,Nantong Zhiyun,,,Beijing Guoan
+29,Sun Oct 27 2024,14:30,Qingdao West Coast,,,Chengdu Rongcheng
+29,Sun Oct 27 2024,14:30,Shanghai Shenhua,,,Shenzhen Peng City
+29,Sun Oct 27 2024,14:30,Tianjin Jinmen Tiger,,,Qingdao Hainiu
+29,Sun Oct 27 2024,14:30,Zhejiang Professional,,,Shandong Taishan
+30,Sat Nov 2 2024,14:30,Changchun Yatai,,,Zhejiang Professional
+30,Sat Nov 2 2024,14:30,Chengdu Rongcheng,,,Shanghai Shenhua
+30,Sat Nov 2 2024,14:30,Qingdao Hainiu,,,Cangzhou Mighty Lions
+30,Sat Nov 2 2024,14:30,Shandong Taishan,,,Meizhou Hakka
+30,Sat Nov 2 2024,14:30,Shanghai Port FC,,,Tianjin Jinmen Tiger
+30,Sat Nov 2 2024,14:30,Shenzhen Peng City,,,Nantong Zhiyun
+30,Sat Nov 2 2024,14:30,Wuhan Three Towns,,,Qingdao West Coast
+30,Sat Nov 2 2024,14:30,Beijing Guoan,,,Henan FC

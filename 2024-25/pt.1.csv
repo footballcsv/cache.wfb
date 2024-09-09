@@ -1,0 +1,307 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 9 2024,20:15,Sporting CP,3-1,2-0,Rio Ave FC
+1,Sat Aug 10 2024,18:00,Casa Pia AC,0-1,0-0,Boavista
+1,Sat Aug 10 2024,20:30,FC Porto,3-0,1-0,Gil Vicente
+1,Sat Aug 10 2024,15:30,AVS,1-1,0-1,CD Nacional
+1,Sun Aug 11 2024,15:30,GD Estoril,1-4,1-1,CD Santa Clara
+1,Sun Aug 11 2024,18:00,FC Famalicão,2-0,1-0,SL Benfica
+1,Sun Aug 11 2024,18:00,SC Farense,1-2,0-1,Moreirense FC
+1,Sun Aug 11 2024,20:30,Sporting Braga,1-1,0-0,Estrela Amadora
+1,Mon Aug 12 2024,20:15,FC Arouca,0-1,0-1,Vitória Guimarães
+2,Fri Aug 16 2024,17:00,CD Santa Clara,0-2,0-2,FC Porto
+2,Fri Aug 16 2024,20:15,Gil Vicente,4-2,2-2,AVS
+2,Sat Aug 17 2024,18:00,CD Nacional,1-6,1-2,Sporting CP
+2,Sat Aug 17 2024,20:30,SL Benfica,3-0,0-0,Casa Pia AC
+2,Sat Aug 17 2024,15:30,Rio Ave FC,1-0,1-0,SC Farense
+2,Sun Aug 18 2024,18:00,Vitória Guimarães,1-0,1-0,GD Estoril
+2,Sun Aug 18 2024,20:30,Boavista,0-1,0-1,Sporting Braga
+2,Sun Aug 18 2024,15:30,Moreirense FC,3-1,2-1,FC Arouca
+2,Mon Aug 19 2024,20:15,Estrela Amadora,0-3,0-1,FC Famalicão
+3,Fri Aug 23 2024,20:15,SC Farense,0-5,0-2,Sporting CP
+3,Sat Aug 24 2024,18:00,FC Porto,2-0,2-0,Rio Ave FC
+3,Sat Aug 24 2024,20:30,FC Famalicão,1-0,1-0,Boavista
+3,Sat Aug 24 2024,20:30,SL Benfica,1-0,1-0,Estrela Amadora
+3,Sat Aug 24 2024,15:30,Casa Pia AC,0-2,0-0,CD Santa Clara
+3,Sun Aug 25 2024,15:30,FC Arouca,1-0,1-0,CD Nacional
+3,Sun Aug 25 2024,18:00,GD Estoril,0-0,0-0,Gil Vicente
+3,Sun Aug 25 2024,20:30,AVS,1-0,0-0,Vitória Guimarães
+3,Sun Aug 25 2024,20:30,Sporting Braga,3-1,1-0,Moreirense FC
+4,Fri Aug 30 2024,20:15,Moreirense FC,1-1,0-0,SL Benfica
+4,Sat Aug 31 2024,15:30,CD Santa Clara,2-1,1-1,AVS
+4,Sat Aug 31 2024,18:00,Estrela Amadora,0-1,0-0,Casa Pia AC
+4,Sat Aug 31 2024,18:00,Boavista,0-0,0-0,GD Estoril
+4,Sat Aug 31 2024,20:30,Sporting CP,2-0,0-0,FC Porto
+4,Sun Sep 1 2024,18:00,Rio Ave FC,1-0,1-0,FC Arouca
+4,Sun Sep 1 2024,20:30,Vitória Guimarães,2-1,1-1,FC Famalicão
+4,Sun Sep 1 2024,20:30,Gil Vicente,0-0,0-0,Sporting Braga
+4,Sun Sep 1 2024,15:30,CD Nacional,2-0,1-0,SC Farense
+5,Fri Sep 13 2024,20:15,FC Arouca,,,Sporting CP
+5,Sat Sep 14 2024,15:30,Casa Pia AC,,,Moreirense FC
+5,Sat Sep 14 2024,18:00,AVS,,,Rio Ave FC
+5,Sat Sep 14 2024,20:30,FC Famalicão,,,Gil Vicente
+5,Sat Sep 14 2024,20:30,SL Benfica,,,CD Santa Clara
+5,Sun Sep 15 2024,18:00,GD Estoril,,,CD Nacional
+5,Sun Sep 15 2024,20:30,Sporting Braga,,,Vitória Guimarães
+5,Sun Sep 15 2024,15:30,FC Porto,,,SC Farense
+5,Mon Sep 16 2024,20:15,Estrela Amadora,,,Boavista
+6,Fri Sep 20 2024,20:15,CD Nacional,,,Sporting Braga
+6,Sat Sep 21 2024,15:30,Rio Ave FC,,,GD Estoril
+6,Sat Sep 21 2024,15:30,CD Santa Clara,,,Estrela Amadora
+6,Sat Sep 21 2024,18:00,Vitória Guimarães,,,FC Porto
+6,Sat Sep 21 2024,20:30,Moreirense FC,,,FC Famalicão
+6,Sun Sep 22 2024,18:00,SC Farense,,,FC Arouca
+6,Sun Sep 22 2024,20:30,Sporting CP,,,AVS
+6,Sun Sep 22 2024,15:30,Gil Vicente,,,Casa Pia AC
+6,Mon Sep 23 2024,20:15,Boavista,,,SL Benfica
+7,Fri Sep 27 2024,20:15,GD Estoril,,,Sporting CP
+7,Sat Sep 28 2024,15:30,Estrela Amadora,,,Moreirense FC
+7,Sat Sep 28 2024,18:00,Casa Pia AC,,,Vitória Guimarães
+7,Sat Sep 28 2024,20:30,SL Benfica,,,Gil Vicente
+7,Sun Sep 29 2024,15:30,CD Santa Clara,,,Boavista
+7,Sun Sep 29 2024,18:00,FC Porto,,,FC Arouca
+7,Sun Sep 29 2024,20:30,Sporting Braga,,,Rio Ave FC
+7,Sun Sep 29 2024,15:30,FC Famalicão,,,CD Nacional
+7,Mon Sep 30 2024,20:15,AVS,,,SC Farense
+8,Fri Oct 4 2024,20:15,Rio Ave FC,,,FC Famalicão
+8,Sat Oct 5 2024,15:30,Gil Vicente,,,Estrela Amadora
+8,Sat Oct 5 2024,15:30,Moreirense FC,,,CD Santa Clara
+8,Sat Oct 5 2024,18:00,FC Arouca,,,AVS
+8,Sat Oct 5 2024,20:30,Sporting CP,,,Casa Pia AC
+8,Sun Oct 6 2024,,CD Nacional,,,SL Benfica
+8,Sun Oct 6 2024,15:30,SC Farense,,,GD Estoril
+8,Sun Oct 6 2024,20:30,FC Porto,,,Sporting Braga
+8,Sun Oct 6 2024,,Vitória Guimarães,,,Boavista
+9,Fri Oct 25 2024,20:45,CD Santa Clara,,,Gil Vicente
+9,Fri Oct 25 2024,18:45,Casa Pia AC,,,CD Nacional
+9,Sat Oct 26 2024,15:30,GD Estoril,,,FC Arouca
+9,Sat Oct 26 2024,18:00,Boavista,,,Moreirense FC
+9,Sat Oct 26 2024,20:30,FC Famalicão,,,Sporting CP
+9,Sun Oct 27 2024,18:00,SL Benfica,,,Rio Ave FC
+9,Sun Oct 27 2024,20:30,Estrela Amadora,,,Vitória Guimarães
+9,Sun Oct 27 2024,15:30,Sporting Braga,,,SC Farense
+9,Mon Oct 28 2024,20:15,AVS,,,FC Porto
+10,Fri Nov 1 2024,20:15,Sporting CP,,,Estrela Amadora
+10,Sat Nov 2 2024,15:30,Rio Ave FC,,,Casa Pia AC
+10,Sat Nov 2 2024,18:00,SC Farense,,,SL Benfica
+10,Sat Nov 2 2024,20:30,Gil Vicente,,,Boavista
+10,Sun Nov 3 2024,18:00,Vitória Guimarães,,,Moreirense FC
+10,Sun Nov 3 2024,18:00,FC Arouca,,,Sporting Braga
+10,Sun Nov 3 2024,20:30,FC Porto,,,GD Estoril
+10,Sun Nov 3 2024,15:30,AVS,,,FC Famalicão
+10,Mon Nov 4 2024,20:15,CD Nacional,,,CD Santa Clara
+11,Fri Nov 8 2024,20:15,Moreirense FC,,,Gil Vicente
+11,Sat Nov 9 2024,15:30,GD Estoril,,,AVS
+11,Sat Nov 9 2024,15:30,Casa Pia AC,,,SC Farense
+11,Sat Nov 9 2024,18:00,FC Famalicão,,,FC Arouca
+11,Sat Nov 9 2024,20:30,Boavista,,,Rio Ave FC
+11,Sun Nov 10 2024,16:30,CD Santa Clara,,,Vitória Guimarães
+11,Sun Nov 10 2024,18:45,Sporting Braga,,,Sporting CP
+11,Sun Nov 10 2024,20:45,SL Benfica,,,FC Porto
+11,Sun Nov 10 2024,15:30,Estrela Amadora,,,CD Nacional
+12,Fri Nov 29 2024,20:15,SC Farense,,,Estrela Amadora
+12,Sat Nov 30 2024,15:30,Rio Ave FC,,,Moreirense FC
+12,Sat Nov 30 2024,18:00,CD Nacional,,,Boavista
+12,Sat Nov 30 2024,20:30,Sporting CP,,,CD Santa Clara
+12,Sun Dec 1 2024,18:00,FC Arouca,,,SL Benfica
+12,Sun Dec 1 2024,20:30,AVS,,,Sporting Braga
+12,Sun Dec 1 2024,15:30,GD Estoril,,,FC Famalicão
+12,Mon Dec 2 2024,20:45,FC Porto,,,Casa Pia AC
+12,Mon Dec 2 2024,18:45,Vitória Guimarães,,,Gil Vicente
+13,Sun Dec 8 2024,,FC Famalicão,,,FC Porto
+13,Sun Dec 8 2024,,CD Santa Clara,,,Rio Ave FC
+13,Sun Dec 8 2024,,Estrela Amadora,,,FC Arouca
+13,Sun Dec 8 2024,,Casa Pia AC,,,AVS
+13,Sun Dec 8 2024,,Moreirense FC,,,Sporting CP
+13,Sun Dec 8 2024,,Gil Vicente,,,CD Nacional
+13,Sun Dec 8 2024,,Sporting Braga,,,GD Estoril
+13,Sun Dec 8 2024,,SL Benfica,,,Vitória Guimarães
+13,Sun Dec 8 2024,,Boavista,,,SC Farense
+14,Sun Dec 15 2024,,Sporting CP,,,Boavista
+14,Sun Dec 15 2024,,GD Estoril,,,Casa Pia AC
+14,Sun Dec 15 2024,,FC Porto,,,Estrela Amadora
+14,Sun Dec 15 2024,,CD Nacional,,,Moreirense FC
+14,Sun Dec 15 2024,,Rio Ave FC,,,Vitória Guimarães
+14,Sun Dec 15 2024,,AVS,,,SL Benfica
+14,Sun Dec 15 2024,,FC Arouca,,,CD Santa Clara
+14,Sun Dec 15 2024,,Sporting Braga,,,FC Famalicão
+14,Sun Dec 15 2024,,SC Farense,,,Gil Vicente
+15,Sun Dec 22 2024,,FC Famalicão,,,SC Farense
+15,Sun Dec 22 2024,,CD Santa Clara,,,Sporting Braga
+15,Sun Dec 22 2024,,Casa Pia AC,,,FC Arouca
+15,Sun Dec 22 2024,,Boavista,,,AVS
+15,Sun Dec 22 2024,,Moreirense FC,,,FC Porto
+15,Sun Dec 22 2024,,Estrela Amadora,,,Rio Ave FC
+15,Sun Dec 22 2024,,Vitória Guimarães,,,CD Nacional
+15,Sun Dec 22 2024,,SL Benfica,,,GD Estoril
+15,Sun Dec 22 2024,,Gil Vicente,,,Sporting CP
+16,Sun Dec 29 2024,,Sporting CP,,,SL Benfica
+16,Sun Dec 29 2024,,FC Porto,,,Boavista
+16,Sun Dec 29 2024,,Rio Ave FC,,,CD Nacional
+16,Sun Dec 29 2024,,FC Famalicão,,,CD Santa Clara
+16,Sun Dec 29 2024,,AVS,,,Estrela Amadora
+16,Sun Dec 29 2024,,SC Farense,,,Vitória Guimarães
+16,Sun Dec 29 2024,,FC Arouca,,,Gil Vicente
+16,Sun Dec 29 2024,,Sporting Braga,,,Casa Pia AC
+16,Sun Dec 29 2024,,GD Estoril,,,Moreirense FC
+17,Sun Jan 5 2025,,CD Nacional,,,FC Porto
+17,Sun Jan 5 2025,,CD Santa Clara,,,SC Farense
+17,Sun Jan 5 2025,,Boavista,,,FC Arouca
+17,Sun Jan 5 2025,,Estrela Amadora,,,GD Estoril
+17,Sun Jan 5 2025,,Moreirense FC,,,AVS
+17,Sun Jan 5 2025,,Gil Vicente,,,Rio Ave FC
+17,Sun Jan 5 2025,,Vitória Guimarães,,,Sporting CP
+17,Sun Jan 5 2025,,SL Benfica,,,Sporting Braga
+17,Sun Jan 5 2025,,Casa Pia AC,,,FC Famalicão
+18,Sun Jan 19 2025,,Rio Ave FC,,,Sporting CP
+18,Sun Jan 19 2025,,Gil Vicente,,,FC Porto
+18,Sun Jan 19 2025,,CD Santa Clara,,,GD Estoril
+18,Sun Jan 19 2025,,Boavista,,,Casa Pia AC
+18,Sun Jan 19 2025,,SL Benfica,,,FC Famalicão
+18,Sun Jan 19 2025,,Estrela Amadora,,,Sporting Braga
+18,Sun Jan 19 2025,,Moreirense FC,,,SC Farense
+18,Sun Jan 19 2025,,Vitória Guimarães,,,FC Arouca
+18,Sun Jan 19 2025,,CD Nacional,,,AVS
+19,Sun Jan 26 2025,,GD Estoril,,,Vitória Guimarães
+19,Sun Jan 26 2025,,SC Farense,,,Rio Ave FC
+19,Sun Jan 26 2025,,AVS,,,Gil Vicente
+19,Sun Jan 26 2025,,FC Arouca,,,Moreirense FC
+19,Sun Jan 26 2025,,FC Porto,,,CD Santa Clara
+19,Sun Jan 26 2025,,Casa Pia AC,,,SL Benfica
+19,Sun Jan 26 2025,,FC Famalicão,,,Estrela Amadora
+19,Sun Jan 26 2025,,Sporting Braga,,,Boavista
+19,Sun Jan 26 2025,,Sporting CP,,,CD Nacional
+20,Sun Feb 2 2025,,Vitória Guimarães,,,AVS
+20,Sun Feb 2 2025,,Boavista,,,FC Famalicão
+20,Sun Feb 2 2025,,CD Santa Clara,,,Casa Pia AC
+20,Sun Feb 2 2025,,Sporting CP,,,SC Farense
+20,Sun Feb 2 2025,,Gil Vicente,,,GD Estoril
+20,Sun Feb 2 2025,,Estrela Amadora,,,SL Benfica
+20,Sun Feb 2 2025,,Moreirense FC,,,Sporting Braga
+20,Sun Feb 2 2025,,Rio Ave FC,,,FC Porto
+20,Sun Feb 2 2025,,CD Nacional,,,FC Arouca
+21,Sun Feb 9 2025,,Casa Pia AC,,,Estrela Amadora
+21,Sun Feb 9 2025,,SC Farense,,,CD Nacional
+21,Sun Feb 9 2025,,FC Famalicão,,,Vitória Guimarães
+21,Sun Feb 9 2025,,FC Arouca,,,Rio Ave FC
+21,Sun Feb 9 2025,,AVS,,,CD Santa Clara
+21,Sun Feb 9 2025,,Sporting Braga,,,Gil Vicente
+21,Sun Feb 9 2025,,SL Benfica,,,Moreirense FC
+21,Sun Feb 9 2025,,GD Estoril,,,Boavista
+21,Sun Feb 9 2025,,FC Porto,,,Sporting CP
+22,Sun Feb 16 2025,,Rio Ave FC,,,AVS
+22,Sun Feb 16 2025,,Boavista,,,Estrela Amadora
+22,Sun Feb 16 2025,,SC Farense,,,FC Porto
+22,Sun Feb 16 2025,,Gil Vicente,,,FC Famalicão
+22,Sun Feb 16 2025,,CD Nacional,,,GD Estoril
+22,Sun Feb 16 2025,,CD Santa Clara,,,SL Benfica
+22,Sun Feb 16 2025,,Sporting CP,,,FC Arouca
+22,Sun Feb 16 2025,,Vitória Guimarães,,,Sporting Braga
+22,Sun Feb 16 2025,,Moreirense FC,,,Casa Pia AC
+23,Sun Feb 23 2025,,Casa Pia AC,,,Gil Vicente
+23,Sun Feb 23 2025,,GD Estoril,,,Rio Ave FC
+23,Sun Feb 23 2025,,FC Famalicão,,,Moreirense FC
+23,Sun Feb 23 2025,,FC Arouca,,,SC Farense
+23,Sun Feb 23 2025,,AVS,,,Sporting CP
+23,Sun Feb 23 2025,,Sporting Braga,,,CD Nacional
+23,Sun Feb 23 2025,,Estrela Amadora,,,CD Santa Clara
+23,Sun Feb 23 2025,,FC Porto,,,Vitória Guimarães
+23,Sun Feb 23 2025,,SL Benfica,,,Boavista
+24,Sun Mar 2 2025,,CD Nacional,,,FC Famalicão
+24,Sun Mar 2 2025,,SC Farense,,,AVS
+24,Sun Mar 2 2025,,FC Arouca,,,FC Porto
+24,Sun Mar 2 2025,,Moreirense FC,,,Estrela Amadora
+24,Sun Mar 2 2025,,Boavista,,,CD Santa Clara
+24,Sun Mar 2 2025,,Sporting CP,,,GD Estoril
+24,Sun Mar 2 2025,,Rio Ave FC,,,Sporting Braga
+24,Sun Mar 2 2025,,Gil Vicente,,,SL Benfica
+24,Sun Mar 2 2025,,Vitória Guimarães,,,Casa Pia AC
+25,Sun Mar 9 2025,,GD Estoril,,,SC Farense
+25,Sun Mar 9 2025,,Estrela Amadora,,,Gil Vicente
+25,Sun Mar 9 2025,,FC Famalicão,,,Rio Ave FC
+25,Sun Mar 9 2025,,CD Santa Clara,,,Moreirense FC
+25,Sun Mar 9 2025,,Casa Pia AC,,,Sporting CP
+25,Sun Mar 9 2025,,Boavista,,,Vitória Guimarães
+25,Sun Mar 9 2025,,SL Benfica,,,CD Nacional
+25,Sun Mar 9 2025,,AVS,,,FC Arouca
+25,Sun Mar 9 2025,,Sporting Braga,,,FC Porto
+26,Sun Mar 16 2025,,FC Porto,,,AVS
+26,Sun Mar 16 2025,,Sporting CP,,,FC Famalicão
+26,Sun Mar 16 2025,,Gil Vicente,,,CD Santa Clara
+26,Sun Mar 16 2025,,FC Arouca,,,GD Estoril
+26,Sun Mar 16 2025,,Moreirense FC,,,Boavista
+26,Sun Mar 16 2025,,Vitória Guimarães,,,Estrela Amadora
+26,Sun Mar 16 2025,,SC Farense,,,Sporting Braga
+26,Sun Mar 16 2025,,Rio Ave FC,,,SL Benfica
+26,Sun Mar 16 2025,,CD Nacional,,,Casa Pia AC
+27,Sun Mar 30 2025,,GD Estoril,,,FC Porto
+27,Sun Mar 30 2025,,Estrela Amadora,,,Sporting CP
+27,Sun Mar 30 2025,,CD Santa Clara,,,CD Nacional
+27,Sun Mar 30 2025,,Casa Pia AC,,,Rio Ave FC
+27,Sun Mar 30 2025,,Boavista,,,Gil Vicente
+27,Sun Mar 30 2025,,Sporting Braga,,,FC Arouca
+27,Sun Mar 30 2025,,FC Famalicão,,,AVS
+27,Sun Mar 30 2025,,Moreirense FC,,,Vitória Guimarães
+27,Sun Mar 30 2025,,SL Benfica,,,SC Farense
+28,Sun Apr 6 2025,,FC Arouca,,,FC Famalicão
+28,Sun Apr 6 2025,,Gil Vicente,,,Moreirense FC
+28,Sun Apr 6 2025,,AVS,,,GD Estoril
+28,Sun Apr 6 2025,,Vitória Guimarães,,,CD Santa Clara
+28,Sun Apr 6 2025,,CD Nacional,,,Estrela Amadora
+28,Sun Apr 6 2025,,FC Porto,,,SL Benfica
+28,Sun Apr 6 2025,,Rio Ave FC,,,Boavista
+28,Sun Apr 6 2025,,Sporting CP,,,Sporting Braga
+28,Sun Apr 6 2025,,SC Farense,,,Casa Pia AC
+29,Sun Apr 13 2025,,Estrela Amadora,,,SC Farense
+29,Sun Apr 13 2025,,Moreirense FC,,,Rio Ave FC
+29,Sun Apr 13 2025,,CD Santa Clara,,,Sporting CP
+29,Sun Apr 13 2025,,Casa Pia AC,,,FC Porto
+29,Sun Apr 13 2025,,Boavista,,,CD Nacional
+29,Sun Apr 13 2025,,SL Benfica,,,FC Arouca
+29,Sun Apr 13 2025,,FC Famalicão,,,GD Estoril
+29,Sun Apr 13 2025,,Gil Vicente,,,Vitória Guimarães
+29,Sun Apr 13 2025,,Sporting Braga,,,AVS
+30,Sat Apr 19 2025,,FC Porto,,,FC Famalicão
+30,Sat Apr 19 2025,,FC Arouca,,,Estrela Amadora
+30,Sat Apr 19 2025,,AVS,,,Casa Pia AC
+30,Sat Apr 19 2025,,Sporting CP,,,Moreirense FC
+30,Sat Apr 19 2025,,Rio Ave FC,,,CD Santa Clara
+30,Sat Apr 19 2025,,CD Nacional,,,Gil Vicente
+30,Sat Apr 19 2025,,GD Estoril,,,Sporting Braga
+30,Sat Apr 19 2025,,Vitória Guimarães,,,SL Benfica
+30,Sat Apr 19 2025,,SC Farense,,,Boavista
+31,Sun Apr 27 2025,,Casa Pia AC,,,GD Estoril
+31,Sun Apr 27 2025,,Estrela Amadora,,,FC Porto
+31,Sun Apr 27 2025,,Moreirense FC,,,CD Nacional
+31,Sun Apr 27 2025,,Boavista,,,Sporting CP
+31,Sun Apr 27 2025,,Vitória Guimarães,,,Rio Ave FC
+31,Sun Apr 27 2025,,FC Famalicão,,,Sporting Braga
+31,Sun Apr 27 2025,,Gil Vicente,,,SC Farense
+31,Sun Apr 27 2025,,CD Santa Clara,,,FC Arouca
+31,Sun Apr 27 2025,,SL Benfica,,,AVS
+32,Sun May 4 2025,,SC Farense,,,FC Famalicão
+32,Sun May 4 2025,,FC Arouca,,,Casa Pia AC
+32,Sun May 4 2025,,AVS,,,Boavista
+32,Sun May 4 2025,,FC Porto,,,Moreirense FC
+32,Sun May 4 2025,,Sporting Braga,,,CD Santa Clara
+32,Sun May 4 2025,,Rio Ave FC,,,Estrela Amadora
+32,Sun May 4 2025,,CD Nacional,,,Vitória Guimarães
+32,Sun May 4 2025,,GD Estoril,,,SL Benfica
+32,Sun May 4 2025,,Sporting CP,,,Gil Vicente
+33,Sun May 11 2025,,SL Benfica,,,Sporting CP
+33,Sun May 11 2025,,CD Nacional,,,Rio Ave FC
+33,Sun May 11 2025,,CD Santa Clara,,,FC Famalicão
+33,Sun May 11 2025,,Estrela Amadora,,,AVS
+33,Sun May 11 2025,,Boavista,,,FC Porto
+33,Sun May 11 2025,,Vitória Guimarães,,,SC Farense
+33,Sun May 11 2025,,Gil Vicente,,,FC Arouca
+33,Sun May 11 2025,,Casa Pia AC,,,Sporting Braga
+33,Sun May 11 2025,,Moreirense FC,,,GD Estoril
+34,Sat May 17 2025,,SC Farense,,,CD Santa Clara
+34,Sat May 17 2025,,FC Arouca,,,Boavista
+34,Sat May 17 2025,,AVS,,,Moreirense FC
+34,Sat May 17 2025,,FC Porto,,,CD Nacional
+34,Sat May 17 2025,,FC Famalicão,,,Casa Pia AC
+34,Sat May 17 2025,,Sporting Braga,,,SL Benfica
+34,Sat May 17 2025,,Sporting CP,,,Vitória Guimarães
+34,Sat May 17 2025,,Rio Ave FC,,,Gil Vicente
+34,Sat May 17 2025,,GD Estoril,,,Estrela Amadora

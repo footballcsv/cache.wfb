@@ -1,0 +1,133 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Jul 27 2024,18:00,FK Železiarne Podbrezová,0-0,0-0,MŠK Žilina
+1,Sat Jul 27 2024,20:30,KFC Komárno,1-4,1-2,Slovan Bratislava
+1,Sat Jul 27 2024,18:00,MFK Skalica,0-0,0-0,MFK Zemplín Michalovce
+1,Sun Jul 28 2024,18:00,Spartak Trnava,0-0,0-0,AS Trenčín
+1,Sun Jul 28 2024,18:00,MFK Ružomberok,1-1,1-0,Dukla Banská Bystrica
+1,Sun Jul 28 2024,18:00,FC Košice,2-2,1-1,FC DAC 1904
+2,Sat Aug 3 2024,18:00,Dukla Banská Bystrica,1-1,1-0,MFK Skalica
+2,Sat Aug 3 2024,18:00,AS Trenčín,2-0,2-0,FC Košice
+2,Sat Aug 3 2024,20:30,Slovan Bratislava,1-0,0-0,FK Železiarne Podbrezová
+2,Sun Aug 4 2024,18:00,MFK Zemplín Michalovce,0-0,0-0,Spartak Trnava
+2,Sun Aug 4 2024,18:00,FC DAC 1904,2-0,1-0,KFC Komárno
+3,Sat Aug 10 2024,18:00,MŠK Žilina,3-1,1-0,MFK Zemplín Michalovce
+3,Sat Aug 10 2024,20:30,FC Košice,3-0,3-0,FK Železiarne Podbrezová
+3,Sun Aug 11 2024,18:00,Dukla Banská Bystrica,1-0,0-0,FC DAC 1904
+3,Sun Aug 11 2024,18:00,MFK Ružomberok,1-0,1-0,AS Trenčín
+4,Sat Aug 17 2024,18:00,FK Železiarne Podbrezová,7-1,3-0,MFK Skalica
+4,Sat Aug 17 2024,18:00,Slovan Bratislava,2-1,0-1,FC Košice
+4,Sat Aug 17 2024,18:00,MFK Zemplín Michalovce,0-3,0-1,FC DAC 1904
+4,Sat Aug 17 2024,20:30,AS Trenčín,2-2,1-1,Dukla Banská Bystrica
+4,Sun Aug 18 2024,18:00,Spartak Trnava,0-0,0-0,MŠK Žilina
+5,Sat Aug 24 2024,18:00,MFK Skalica,1-2,0-0,Spartak Trnava
+5,Sat Aug 24 2024,20:30,MŠK Žilina,4-1,1-1,AS Trenčín
+5,Sat Aug 24 2024,18:00,FC Košice,0-1,0-0,KFC Komárno
+5,Sun Aug 25 2024,18:00,MFK Ružomberok,2-2,0-1,MFK Zemplín Michalovce
+5,Sun Aug 25 2024,18:00,Dukla Banská Bystrica,0-2,0-0,Slovan Bratislava
+6,Sat Aug 31 2024,18:00,MFK Skalica,0-0,0-0,FC Košice
+6,Sat Aug 31 2024,18:00,KFC Komárno,1-3,0-1,MFK Zemplín Michalovce
+6,Sat Aug 31 2024,20:30,FK Železiarne Podbrezová,1-1,0-1,Dukla Banská Bystrica
+6,Sun Sep 1 2024,18:00,Spartak Trnava,2-2,2-1,MFK Ružomberok
+6,Sun Sep 1 2024,15:30,Slovan Bratislava,0-5,0-2,MŠK Žilina
+7,Sat Sep 14 2024,18:00,MFK Zemplín Michalovce,,,AS Trenčín
+7,Sat Sep 14 2024,18:00,MŠK Žilina,,,MFK Skalica
+7,Sat Sep 14 2024,18:00,Dukla Banská Bystrica,,,KFC Komárno
+7,Sat Sep 14 2024,20:30,FC DAC 1904,,,Slovan Bratislava
+7,Sun Sep 15 2024,18:00,FC Košice,,,Spartak Trnava
+7,Sun Sep 15 2024,18:00,MFK Ružomberok,,,FK Železiarne Podbrezová
+6,Tue Sep 17 2024,18:00,AS Trenčín,,,FC DAC 1904
+8,Sat Sep 21 2024,18:00,KFC Komárno,,,AS Trenčín
+8,Sat Sep 21 2024,20:30,Slovan Bratislava,,,MFK Ružomberok
+8,Sat Sep 21 2024,18:00,MFK Skalica,,,FC DAC 1904
+8,Sat Sep 21 2024,18:00,FC Košice,,,MŠK Žilina
+8,Sun Sep 22 2024,18:00,Spartak Trnava,,,Dukla Banská Bystrica
+8,Sun Sep 22 2024,18:00,FK Železiarne Podbrezová,,,MFK Zemplín Michalovce
+4,Tue Sep 24 2024,18:00,KFC Komárno,,,MFK Ružomberok
+9,Sat Sep 28 2024,18:00,MFK Zemplín Michalovce,,,Slovan Bratislava
+9,Sat Sep 28 2024,20:30,FC DAC 1904,,,Spartak Trnava
+9,Sat Sep 28 2024,18:00,AS Trenčín,,,FK Železiarne Podbrezová
+9,Sat Sep 28 2024,18:00,Dukla Banská Bystrica,,,FC Košice
+9,Sun Sep 29 2024,18:00,MŠK Žilina,,,KFC Komárno
+9,Sun Sep 29 2024,18:00,MFK Ružomberok,,,MFK Skalica
+10,Sat Oct 5 2024,18:00,FK Železiarne Podbrezová,,,Spartak Trnava
+10,Sat Oct 5 2024,20:30,Slovan Bratislava,,,AS Trenčín
+10,Sat Oct 5 2024,18:00,MFK Skalica,,,KFC Komárno
+10,Sat Oct 5 2024,18:00,FC Košice,,,MFK Ružomberok
+10,Sun Oct 6 2024,18:00,Dukla Banská Bystrica,,,MFK Zemplín Michalovce
+10,Sun Oct 6 2024,18:00,FC DAC 1904,,,MŠK Žilina
+11,Sat Oct 19 2024,,MŠK Žilina,,,Dukla Banská Bystrica
+11,Sat Oct 19 2024,,Spartak Trnava,,,Slovan Bratislava
+11,Sat Oct 19 2024,,KFC Komárno,,,FK Železiarne Podbrezová
+11,Sat Oct 19 2024,,MFK Zemplín Michalovce,,,FC Košice
+11,Sat Oct 19 2024,,MFK Ružomberok,,,FC DAC 1904
+11,Sat Oct 19 2024,,AS Trenčín,,,MFK Skalica
+12,Sat Oct 26 2024,,FC DAC 1904,,,FC Košice
+12,Sat Oct 26 2024,,AS Trenčín,,,Spartak Trnava
+12,Sat Oct 26 2024,,Dukla Banská Bystrica,,,MFK Ružomberok
+12,Sat Oct 26 2024,,MŠK Žilina,,,FK Železiarne Podbrezová
+12,Sat Oct 26 2024,,Slovan Bratislava,,,KFC Komárno
+12,Sat Oct 26 2024,,MFK Zemplín Michalovce,,,MFK Skalica
+3,Tue Oct 29 2024,18:00,Spartak Trnava,,,KFC Komárno
+3,Tue Oct 29 2024,18:00,MFK Skalica,,,Slovan Bratislava
+2,Tue Oct 29 2024,18:00,MŠK Žilina,,,MFK Ružomberok
+5,Tue Oct 29 2024,18:00,FC DAC 1904,,,FK Železiarne Podbrezová
+13,Sat Nov 2 2024,,FC Košice,,,AS Trenčín
+13,Sat Nov 2 2024,,MFK Ružomberok,,,MŠK Žilina
+13,Sat Nov 2 2024,,MFK Skalica,,,Dukla Banská Bystrica
+13,Sat Nov 2 2024,,KFC Komárno,,,FC DAC 1904
+13,Sat Nov 2 2024,,Spartak Trnava,,,MFK Zemplín Michalovce
+13,Sat Nov 2 2024,,FK Železiarne Podbrezová,,,Slovan Bratislava
+14,Sat Nov 9 2024,,FK Železiarne Podbrezová,,,FC Košice
+14,Sat Nov 9 2024,,FC DAC 1904,,,Dukla Banská Bystrica
+14,Sat Nov 9 2024,,Slovan Bratislava,,,MFK Skalica
+14,Sat Nov 9 2024,,MFK Zemplín Michalovce,,,MŠK Žilina
+14,Sat Nov 9 2024,,AS Trenčín,,,MFK Ružomberok
+14,Sat Nov 9 2024,,KFC Komárno,,,Spartak Trnava
+15,Sat Nov 23 2024,,FC Košice,,,Slovan Bratislava
+15,Sat Nov 23 2024,,MFK Ružomberok,,,KFC Komárno
+15,Sat Nov 23 2024,,Dukla Banská Bystrica,,,AS Trenčín
+15,Sat Nov 23 2024,,MFK Skalica,,,FK Železiarne Podbrezová
+15,Sat Nov 23 2024,,MŠK Žilina,,,Spartak Trnava
+15,Sat Nov 23 2024,,FC DAC 1904,,,MFK Zemplín Michalovce
+16,Sat Nov 30 2024,,MFK Zemplín Michalovce,,,MFK Ružomberok
+16,Sat Nov 30 2024,,AS Trenčín,,,MŠK Žilina
+16,Sat Nov 30 2024,,FK Železiarne Podbrezová,,,FC DAC 1904
+16,Sat Nov 30 2024,,Spartak Trnava,,,MFK Skalica
+16,Sat Nov 30 2024,,KFC Komárno,,,FC Košice
+16,Sat Nov 30 2024,,Slovan Bratislava,,,Dukla Banská Bystrica
+17,Sat Dec 7 2024,,MŠK Žilina,,,Slovan Bratislava
+17,Sat Dec 7 2024,,FC Košice,,,MFK Skalica
+17,Sat Dec 7 2024,,MFK Ružomberok,,,Spartak Trnava
+17,Sat Dec 7 2024,,Dukla Banská Bystrica,,,FK Železiarne Podbrezová
+17,Sat Dec 7 2024,,MFK Zemplín Michalovce,,,KFC Komárno
+17,Sat Dec 7 2024,,FC DAC 1904,,,AS Trenčín
+18,Sat Dec 14 2024,,Slovan Bratislava,,,FC DAC 1904
+18,Sat Dec 14 2024,,KFC Komárno,,,Dukla Banská Bystrica
+18,Sat Dec 14 2024,,AS Trenčín,,,MFK Zemplín Michalovce
+18,Sat Dec 14 2024,,Spartak Trnava,,,FC Košice
+18,Sat Dec 14 2024,,FK Železiarne Podbrezová,,,MFK Ružomberok
+18,Sat Dec 14 2024,,MFK Skalica,,,MŠK Žilina
+19,Sat Feb 8 2025,,MFK Ružomberok,,,Slovan Bratislava
+19,Sat Feb 8 2025,,Dukla Banská Bystrica,,,Spartak Trnava
+19,Sat Feb 8 2025,,FC DAC 1904,,,MFK Skalica
+19,Sat Feb 8 2025,,MFK Zemplín Michalovce,,,FK Železiarne Podbrezová
+19,Sat Feb 8 2025,,MŠK Žilina,,,FC Košice
+19,Sat Feb 8 2025,,AS Trenčín,,,KFC Komárno
+20,Sat Feb 15 2025,,FC Košice,,,Dukla Banská Bystrica
+20,Sat Feb 15 2025,,MFK Skalica,,,MFK Ružomberok
+20,Sat Feb 15 2025,,Spartak Trnava,,,FC DAC 1904
+20,Sat Feb 15 2025,,Slovan Bratislava,,,MFK Zemplín Michalovce
+20,Sat Feb 15 2025,,FK Železiarne Podbrezová,,,AS Trenčín
+20,Sat Feb 15 2025,,KFC Komárno,,,MŠK Žilina
+21,Sat Feb 22 2025,,MFK Ružomberok,,,FC Košice
+21,Sat Feb 22 2025,,MŠK Žilina,,,FC DAC 1904
+21,Sat Feb 22 2025,,KFC Komárno,,,MFK Skalica
+21,Sat Feb 22 2025,,AS Trenčín,,,Slovan Bratislava
+21,Sat Feb 22 2025,,MFK Zemplín Michalovce,,,Dukla Banská Bystrica
+21,Sat Feb 22 2025,,Spartak Trnava,,,FK Železiarne Podbrezová
+22,Sat Mar 1 2025,,Dukla Banská Bystrica,,,MŠK Žilina
+22,Sat Mar 1 2025,,MFK Skalica,,,AS Trenčín
+22,Sat Mar 1 2025,,FC DAC 1904,,,MFK Ružomberok
+22,Sat Mar 1 2025,,FC Košice,,,MFK Zemplín Michalovce
+22,Sat Mar 1 2025,,FK Železiarne Podbrezová,,,KFC Komárno
+22,Sat Mar 1 2025,,Slovan Bratislava,,,Spartak Trnava

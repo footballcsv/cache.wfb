@@ -1,0 +1,241 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 16 2024,20:00,RSCA Futures,1-4,0-3,SK Deinze
+1,Fri Aug 16 2024,20:00,RFC Seraing,0-2,0-1,KRC Genk II
+1,Sat Aug 17 2024,20:00,RWDM Brussels FC,1-1,1-1,Patro Eisden MM
+1,Sat Aug 17 2024,20:00,SK Beveren,2-1,1-0,Lommel SK
+1,Sat Aug 17 2024,16:00,Club NXT,4-0,3-0,KSC Lokeren-Temse
+1,Sun Aug 18 2024,13:30,Royal Francs Borains,0-1,0-1,RAA La Louviére
+1,Sun Aug 18 2024,16:00,RFC Liège,0-3,0-2,KAS Eupen
+1,Sun Aug 18 2024,19:15,SV Zulte Waregem,0-1,0-1,Lierse Kempenzonen
+2,Fri Aug 23 2024,20:00,KSC Lokeren-Temse,0-1,0-1,Royal Francs Borains
+2,Fri Aug 23 2024,20:00,KAS Eupen,2-2,1-2,SK Beveren
+2,Sat Aug 24 2024,20:00,Lierse Kempenzonen,3-2,2-1,RFC Seraing
+2,Sat Aug 24 2024,20:00,RAA La Louviére,1-1,1-0,Club NXT
+2,Sat Aug 24 2024,16:00,Patro Eisden MM,3-1,1-0,RSCA Futures
+2,Sun Aug 25 2024,13:30,Lommel SK,0-2,0-0,RWDM Brussels FC
+2,Sun Aug 25 2024,16:00,SK Deinze,2-2,1-1,SV Zulte Waregem
+2,Sun Aug 25 2024,19:15,KRC Genk II,4-1,0-1,RFC Liège
+3,Fri Aug 30 2024,20:00,SV Zulte Waregem,1-0,1-0,KSC Lokeren-Temse
+3,Fri Aug 30 2024,20:00,RWDM Brussels FC,2-1,1-1,KAS Eupen
+3,Sat Aug 31 2024,20:00,Patro Eisden MM,2-2,1-1,Club NXT
+3,Sat Aug 31 2024,20:00,RFC Liège,0-0,0-0,SK Beveren
+3,Sat Aug 31 2024,16:00,RSCA Futures,1-2,1-0,RAA La Louviére
+3,Sun Sep 1 2024,13:30,KRC Genk II,1-2,1-0,Royal Francs Borains
+3,Sun Sep 1 2024,16:00,Lierse Kempenzonen,0-1,0-0,SK Deinze
+3,Sun Sep 1 2024,19:15,RFC Seraing,1-2,1-1,Lommel SK
+4,Fri Sep 13 2024,20:00,KSC Lokeren-Temse,,,Patro Eisden MM
+4,Fri Sep 13 2024,20:00,Club NXT,,,RFC Seraing
+4,Sat Sep 14 2024,20:00,RFC Liège,,,RSCA Futures
+4,Sat Sep 14 2024,20:00,RWDM Brussels FC,,,Lierse Kempenzonen
+4,Sat Sep 14 2024,16:00,Royal Francs Borains,,,Lommel SK
+4,Sun Sep 15 2024,13:30,KAS Eupen,,,SV Zulte Waregem
+4,Sun Sep 15 2024,16:00,SK Beveren,,,KRC Genk II
+4,Sun Sep 15 2024,19:15,SK Deinze,,,RAA La Louviére
+5,Fri Sep 20 2024,18:00,SK Deinze,,,Club NXT
+5,Fri Sep 20 2024,18:00,RAA La Louviére,,,KSC Lokeren-Temse
+5,Fri Sep 20 2024,20:00,SK Beveren,,,RFC Seraing
+5,Fri Sep 20 2024,20:00,Lommel SK,,,RSCA Futures
+5,Fri Sep 20 2024,18:00,SV Zulte Waregem,,,RFC Liège
+5,Sat Sep 21 2024,16:00,Lierse Kempenzonen,,,KAS Eupen
+5,Sat Sep 21 2024,20:00,KRC Genk II,,,RWDM Brussels FC
+5,Sat Sep 21 2024,20:00,Patro Eisden MM,,,Royal Francs Borains
+6,Fri Sep 27 2024,18:00,RAA La Louviére,,,Patro Eisden MM
+6,Fri Sep 27 2024,18:00,RFC Seraing,,,RFC Liège
+6,Fri Sep 27 2024,20:00,KAS Eupen,,,KRC Genk II
+6,Fri Sep 27 2024,20:00,Royal Francs Borains,,,RWDM Brussels FC
+6,Fri Sep 27 2024,18:00,RSCA Futures,,,SV Zulte Waregem
+6,Sat Sep 28 2024,16:00,Club NXT,,,SK Beveren
+6,Sat Sep 28 2024,20:00,Lommel SK,,,Lierse Kempenzonen
+6,Sat Sep 28 2024,20:00,KSC Lokeren-Temse,,,SK Deinze
+7,Fri Oct 4 2024,20:00,RFC Liège,,,Lommel SK
+7,Fri Oct 4 2024,20:00,Patro Eisden MM,,,SK Deinze
+7,Sat Oct 5 2024,20:00,RWDM Brussels FC,,,RAA La Louviére
+7,Sat Oct 5 2024,20:00,RFC Seraing,,,KAS Eupen
+7,Sat Oct 5 2024,16:00,SK Beveren,,,KSC Lokeren-Temse
+7,Sun Oct 6 2024,13:30,KRC Genk II,,,RSCA Futures
+7,Sun Oct 6 2024,16:00,SV Zulte Waregem,,,Club NXT
+7,Sun Oct 6 2024,19:15,Lierse Kempenzonen,,,Royal Francs Borains
+8,Fri Oct 18 2024,20:00,Royal Francs Borains,,,RFC Liège
+8,Fri Oct 18 2024,20:00,RAA La Louviére,,,SK Beveren
+8,Sat Oct 19 2024,16:00,Club NXT,,,Lierse Kempenzonen
+8,Sat Oct 19 2024,20:00,Lommel SK,,,KAS Eupen
+8,Sat Oct 19 2024,20:00,SK Deinze,,,KRC Genk II
+8,Sun Oct 20 2024,16:00,Patro Eisden MM,,,SV Zulte Waregem
+8,Sun Oct 20 2024,19:15,KSC Lokeren-Temse,,,RFC Seraing
+8,Sun Oct 20 2024,13:30,RSCA Futures,,,RWDM Brussels FC
+9,Fri Oct 25 2024,20:00,RFC Seraing,,,Patro Eisden MM
+9,Fri Oct 25 2024,20:00,KRC Genk II,,,Lommel SK
+9,Sat Oct 26 2024,16:00,SV Zulte Waregem,,,Royal Francs Borains
+9,Sat Oct 26 2024,20:00,SK Beveren,,,RSCA Futures
+9,Sat Oct 26 2024,20:00,RWDM Brussels FC,,,SK Deinze
+9,Sun Oct 27 2024,16:00,RFC Liège,,,Club NXT
+9,Sun Oct 27 2024,19:15,KAS Eupen,,,KSC Lokeren-Temse
+9,Sun Oct 27 2024,13:30,Lierse Kempenzonen,,,RAA La Louviére
+10,Fri Nov 1 2024,20:00,RWDM Brussels FC,,,SV Zulte Waregem
+10,Fri Nov 1 2024,20:00,Club NXT,,,Lommel SK
+10,Sat Nov 2 2024,16:00,RSCA Futures,,,KAS Eupen
+10,Sat Nov 2 2024,20:00,SK Deinze,,,SK Beveren
+10,Sat Nov 2 2024,20:00,RAA La Louviére,,,RFC Liège
+10,Sun Nov 3 2024,16:00,KSC Lokeren-Temse,,,KRC Genk II
+10,Sun Nov 3 2024,19:15,Patro Eisden MM,,,Lierse Kempenzonen
+10,Sun Nov 3 2024,13:30,Royal Francs Borains,,,RFC Seraing
+11,Fri Nov 8 2024,20:00,RFC Liège,,,RWDM Brussels FC
+11,Fri Nov 8 2024,20:00,Lierse Kempenzonen,,,KSC Lokeren-Temse
+11,Sat Nov 9 2024,16:00,KRC Genk II,,,Club NXT
+11,Sat Nov 9 2024,20:00,SK Beveren,,,Royal Francs Borains
+11,Sat Nov 9 2024,20:00,Lommel SK,,,SK Deinze
+11,Sun Nov 10 2024,16:00,RFC Seraing,,,RSCA Futures
+11,Sun Nov 10 2024,19:15,KAS Eupen,,,Patro Eisden MM
+11,Sun Nov 10 2024,13:30,SV Zulte Waregem,,,RAA La Louviére
+12,Fri Nov 22 2024,20:00,Lierse Kempenzonen,,,KRC Genk II
+12,Fri Nov 22 2024,20:00,Club NXT,,,KAS Eupen
+12,Sat Nov 23 2024,16:00,SK Deinze,,,Royal Francs Borains
+12,Sat Nov 23 2024,20:00,RWDM Brussels FC,,,SK Beveren
+12,Sat Nov 23 2024,20:00,KSC Lokeren-Temse,,,RSCA Futures
+12,Sun Nov 24 2024,16:00,RAA La Louviére,,,Lommel SK
+12,Sun Nov 24 2024,19:15,SV Zulte Waregem,,,RFC Seraing
+12,Sun Nov 24 2024,13:30,Patro Eisden MM,,,RFC Liège
+13,Fri Nov 29 2024,20:00,KRC Genk II,,,SV Zulte Waregem
+13,Fri Nov 29 2024,20:00,Lommel SK,,,KSC Lokeren-Temse
+13,Sat Nov 30 2024,16:00,RSCA Futures,,,Lierse Kempenzonen
+13,Sat Nov 30 2024,20:00,RFC Liège,,,SK Deinze
+13,Sat Nov 30 2024,20:00,Royal Francs Borains,,,Club NXT
+13,Sun Dec 1 2024,16:00,KAS Eupen,,,RAA La Louviére
+13,Sun Dec 1 2024,19:15,SK Beveren,,,Patro Eisden MM
+13,Sun Dec 1 2024,13:30,RFC Seraing,,,RWDM Brussels FC
+14,Fri Dec 6 2024,20:00,Club NXT,,,RSCA Futures
+14,Fri Dec 6 2024,20:00,Lierse Kempenzonen,,,RFC Liège
+14,Fri Dec 6 2024,20:00,SK Deinze,,,RFC Seraing
+14,Sat Dec 7 2024,20:00,SV Zulte Waregem,,,SK Beveren
+14,Sat Dec 7 2024,16:00,RAA La Louviére,,,KRC Genk II
+14,Sun Dec 8 2024,16:00,KSC Lokeren-Temse,,,RWDM Brussels FC
+14,Sun Dec 8 2024,19:15,Patro Eisden MM,,,Lommel SK
+14,Sun Dec 8 2024,13:30,Royal Francs Borains,,,KAS Eupen
+15,Fri Dec 13 2024,20:00,SK Beveren,,,Lierse Kempenzonen
+15,Fri Dec 13 2024,20:00,RFC Seraing,,,RAA La Louviére
+15,Sat Dec 14 2024,20:00,RSCA Futures,,,Royal Francs Borains
+15,Sat Dec 14 2024,20:00,KAS Eupen,,,SK Deinze
+15,Sat Dec 14 2024,16:00,Lommel SK,,,SV Zulte Waregem
+15,Sun Dec 15 2024,16:00,RFC Liège,,,KSC Lokeren-Temse
+15,Sun Dec 15 2024,19:15,RWDM Brussels FC,,,Club NXT
+15,Sun Dec 15 2024,13:30,KRC Genk II,,,Patro Eisden MM
+16,Fri Dec 20 2024,20:00,Club NXT,,,SV Zulte Waregem
+16,Fri Dec 20 2024,20:00,Royal Francs Borains,,,KRC Genk II
+16,Sat Dec 21 2024,20:00,SK Deinze,,,RSCA Futures
+16,Sat Dec 21 2024,20:00,RAA La Louviére,,,RWDM Brussels FC
+16,Sat Dec 21 2024,16:00,KAS Eupen,,,RFC Liège
+16,Sun Dec 22 2024,16:00,Patro Eisden MM,,,RFC Seraing
+16,Sun Dec 22 2024,19:15,Lierse Kempenzonen,,,Lommel SK
+16,Sun Dec 22 2024,13:30,KSC Lokeren-Temse,,,SK Beveren
+17,Sat Jan 11 2025,,SK Beveren,,,RAA La Louviére
+17,Sat Jan 11 2025,,SV Zulte Waregem,,,Patro Eisden MM
+17,Sat Jan 11 2025,,Club NXT,,,SK Deinze
+17,Sat Jan 11 2025,,RWDM Brussels FC,,,RFC Liège
+17,Sat Jan 11 2025,,RSCA Futures,,,KRC Genk II
+17,Sat Jan 11 2025,,Lommel SK,,,Royal Francs Borains
+17,Sat Jan 11 2025,,KSC Lokeren-Temse,,,KAS Eupen
+17,Sat Jan 11 2025,,RFC Seraing,,,Lierse Kempenzonen
+18,Sat Jan 18 2025,,SK Deinze,,,Lommel SK
+18,Sat Jan 18 2025,,KAS Eupen,,,RWDM Brussels FC
+18,Sat Jan 18 2025,,KRC Genk II,,,RFC Seraing
+18,Sat Jan 18 2025,,RAA La Louviére,,,RSCA Futures
+18,Sat Jan 18 2025,,Patro Eisden MM,,,KSC Lokeren-Temse
+18,Sat Jan 18 2025,,RFC Liège,,,SV Zulte Waregem
+18,Sat Jan 18 2025,,Royal Francs Borains,,,SK Beveren
+18,Sat Jan 18 2025,,Lierse Kempenzonen,,,Club NXT
+19,Sat Jan 25 2025,,SK Beveren,,,SK Deinze
+19,Sat Jan 25 2025,,SV Zulte Waregem,,,KAS Eupen
+19,Sat Jan 25 2025,,Club NXT,,,RAA La Louviére
+19,Sat Jan 25 2025,,RWDM Brussels FC,,,KRC Genk II
+19,Sat Jan 25 2025,,RSCA Futures,,,Patro Eisden MM
+19,Sat Jan 25 2025,,Lommel SK,,,RFC Liège
+19,Sat Jan 25 2025,,KSC Lokeren-Temse,,,Lierse Kempenzonen
+19,Sat Jan 25 2025,,RFC Seraing,,,Royal Francs Borains
+20,Sat Feb 1 2025,,RSCA Futures,,,Club NXT
+20,Sat Feb 1 2025,,SK Deinze,,,KSC Lokeren-Temse
+20,Sat Feb 1 2025,,KAS Eupen,,,Lommel SK
+20,Sat Feb 1 2025,,KRC Genk II,,,SK Beveren
+20,Sat Feb 1 2025,,RAA La Louviére,,,SV Zulte Waregem
+20,Sat Feb 1 2025,,RFC Liège,,,RFC Seraing
+20,Sat Feb 1 2025,,Royal Francs Borains,,,Patro Eisden MM
+20,Sat Feb 1 2025,,Lierse Kempenzonen,,,RWDM Brussels FC
+21,Sat Feb 8 2025,,SV Zulte Waregem,,,SK Deinze
+21,Sat Feb 8 2025,,RWDM Brussels FC,,,RSCA Futures
+21,Sat Feb 8 2025,,Lommel SK,,,Club NXT
+21,Sat Feb 8 2025,,KAS Eupen,,,Lierse Kempenzonen
+21,Sat Feb 8 2025,,KSC Lokeren-Temse,,,RAA La Louviére
+21,Sat Feb 8 2025,,RFC Seraing,,,SK Beveren
+21,Sat Feb 8 2025,,Patro Eisden MM,,,KRC Genk II
+21,Sat Feb 8 2025,,RFC Liège,,,Royal Francs Borains
+22,Sat Feb 15 2025,,Club NXT,,,RWDM Brussels FC
+22,Sat Feb 15 2025,,Lierse Kempenzonen,,,SV Zulte Waregem
+22,Sat Feb 15 2025,,RSCA Futures,,,Lommel SK
+22,Sat Feb 15 2025,,SK Deinze,,,Patro Eisden MM
+22,Sat Feb 15 2025,,KRC Genk II,,,KAS Eupen
+22,Sat Feb 15 2025,,RAA La Louviére,,,RFC Seraing
+22,Sat Feb 15 2025,,Royal Francs Borains,,,KSC Lokeren-Temse
+22,Sat Feb 15 2025,,SK Beveren,,,RFC Liège
+23,Sat Feb 22 2025,,SV Zulte Waregem,,,KRC Genk II
+23,Sat Feb 22 2025,,RWDM Brussels FC,,,Royal Francs Borains
+23,Sat Feb 22 2025,,Lommel SK,,,SK Beveren
+23,Sat Feb 22 2025,,KAS Eupen,,,RSCA Futures
+23,Sat Feb 22 2025,,KSC Lokeren-Temse,,,Club NXT
+23,Sat Feb 22 2025,,RFC Seraing,,,SK Deinze
+23,Sat Feb 22 2025,,Patro Eisden MM,,,RAA La Louviére
+23,Sat Feb 22 2025,,RFC Liège,,,Lierse Kempenzonen
+24,Sat Mar 1 2025,,Club NXT,,,Patro Eisden MM
+24,Sat Mar 1 2025,,RSCA Futures,,,RFC Liège
+24,Sat Mar 1 2025,,Lommel SK,,,RFC Seraing
+24,Sat Mar 1 2025,,SK Deinze,,,RWDM Brussels FC
+24,Sat Mar 1 2025,,KRC Genk II,,,KSC Lokeren-Temse
+24,Sat Mar 1 2025,,RAA La Louviére,,,KAS Eupen
+24,Sat Mar 1 2025,,Royal Francs Borains,,,Lierse Kempenzonen
+24,Sat Mar 1 2025,,SK Beveren,,,SV Zulte Waregem
+25,Sat Mar 8 2025,,SV Zulte Waregem,,,Lommel SK
+25,Sat Mar 8 2025,,RWDM Brussels FC,,,KSC Lokeren-Temse
+25,Sat Mar 8 2025,,Lierse Kempenzonen,,,RSCA Futures
+25,Sat Mar 8 2025,,KAS Eupen,,,Royal Francs Borains
+25,Sat Mar 8 2025,,KRC Genk II,,,SK Deinze
+25,Sat Mar 8 2025,,RFC Seraing,,,Club NXT
+25,Sat Mar 8 2025,,Patro Eisden MM,,,SK Beveren
+25,Sat Mar 8 2025,,RFC Liège,,,RAA La Louviére
+26,Sat Mar 15 2025,,Club NXT,,,KRC Genk II
+26,Sat Mar 15 2025,,RSCA Futures,,,RFC Seraing
+26,Sat Mar 15 2025,,Lommel SK,,,Patro Eisden MM
+26,Sat Mar 15 2025,,SK Deinze,,,KAS Eupen
+26,Sat Mar 15 2025,,RAA La Louviére,,,Lierse Kempenzonen
+26,Sat Mar 15 2025,,KSC Lokeren-Temse,,,RFC Liège
+26,Sat Mar 15 2025,,Royal Francs Borains,,,SV Zulte Waregem
+26,Sat Mar 15 2025,,SK Beveren,,,RWDM Brussels FC
+27,Sat Mar 29 2025,,SV Zulte Waregem,,,RSCA Futures
+27,Sat Mar 29 2025,,RWDM Brussels FC,,,RFC Seraing
+27,Sat Mar 29 2025,,Lierse Kempenzonen,,,SK Beveren
+27,Sat Mar 29 2025,,KAS Eupen,,,Club NXT
+27,Sat Mar 29 2025,,KRC Genk II,,,RAA La Louviére
+27,Sat Mar 29 2025,,KSC Lokeren-Temse,,,Lommel SK
+27,Sat Mar 29 2025,,RFC Liège,,,Patro Eisden MM
+27,Sat Mar 29 2025,,Royal Francs Borains,,,SK Deinze
+28,Sat Apr 5 2025,,Club NXT,,,RFC Liège
+28,Sat Apr 5 2025,,RSCA Futures,,,KSC Lokeren-Temse
+28,Sat Apr 5 2025,,Lommel SK,,,KRC Genk II
+28,Sat Apr 5 2025,,SK Deinze,,,Lierse Kempenzonen
+28,Sat Apr 5 2025,,RAA La Louviére,,,Royal Francs Borains
+28,Sat Apr 5 2025,,RFC Seraing,,,SV Zulte Waregem
+28,Sat Apr 5 2025,,Patro Eisden MM,,,RWDM Brussels FC
+28,Sat Apr 5 2025,,SK Beveren,,,KAS Eupen
+29,Sat Apr 12 2025,,SK Beveren,,,Club NXT
+29,Sat Apr 12 2025,,RWDM Brussels FC,,,Lommel SK
+29,Sat Apr 12 2025,,Lierse Kempenzonen,,,Patro Eisden MM
+29,Sat Apr 12 2025,,KAS Eupen,,,RFC Seraing
+29,Sat Apr 12 2025,,RAA La Louviére,,,SK Deinze
+29,Sat Apr 12 2025,,KSC Lokeren-Temse,,,SV Zulte Waregem
+29,Sat Apr 12 2025,,RFC Liège,,,KRC Genk II
+29,Sat Apr 12 2025,,Royal Francs Borains,,,RSCA Futures
+30,Sat Apr 19 2025,,Club NXT,,,Royal Francs Borains
+30,Sat Apr 19 2025,,RSCA Futures,,,SK Beveren
+30,Sat Apr 19 2025,,Lommel SK,,,RAA La Louviére
+30,Sat Apr 19 2025,,SK Deinze,,,RFC Liège
+30,Sat Apr 19 2025,,KRC Genk II,,,Lierse Kempenzonen
+30,Sat Apr 19 2025,,RFC Seraing,,,KSC Lokeren-Temse
+30,Sat Apr 19 2025,,Patro Eisden MM,,,KAS Eupen
+30,Sat Apr 19 2025,,SV Zulte Waregem,,,RWDM Brussels FC

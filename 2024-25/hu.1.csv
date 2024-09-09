@@ -1,0 +1,199 @@
+Round,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 26 2024,20:15,Nyíregyháza Spartacus,2-1,1-0,Győri ETO FC
+1,Fri Jul 26 2024,18:00,Zalaegerszegi TE,0-1,0-0,MTK Budapest
+1,Sun Jul 28 2024,18:50,Kecskeméti TE,0-0,0-0,Fehérvár FC
+1,Sun Jul 28 2024,18:50,Újpest FC,1-2,0-0,Puskás FC
+1,Sun Jul 28 2024,18:50,Diósgyöri VTK,2-2,1-0,Paksi SE
+2,Fri Aug 2 2024,18:50,Győri ETO FC,0-3,0-0,Debreceni VSC
+2,Sat Aug 3 2024,19:45,MTK Budapest,3-0,1-0,Nyíregyháza Spartacus
+2,Sat Aug 3 2024,16:00,Fehérvár FC,3-1,1-1,Diósgyöri VTK
+2,Sat Aug 3 2024,19:45,Ferencvárosi TC,1-0,1-0,Kecskeméti TE
+2,Sun Aug 4 2024,18:50,Puskás FC,2-1,1-0,Zalaegerszegi TE
+2,Sun Aug 4 2024,18:50,Paksi SE,2-1,1-0,Újpest FC
+3,Fri Aug 9 2024,18:50,Kecskeméti TE,1-1,1-1,Debreceni VSC
+3,Sat Aug 10 2024,16:00,Diósgyöri VTK,0-2,0-1,Ferencvárosi TC
+3,Sat Aug 10 2024,19:45,Zalaegerszegi TE,3-1,1-0,Paksi SE
+3,Sun Aug 11 2024,15:45,Győri ETO FC,1-2,1-1,MTK Budapest
+3,Sun Aug 11 2024,20:15,Puskás FC,3-1,2-0,Nyíregyháza Spartacus
+3,Sun Aug 11 2024,18:00,Újpest FC,4-1,3-0,Fehérvár FC
+4,Fri Aug 16 2024,20:00,Kecskeméti TE,2-1,2-0,Győri ETO FC
+4,Sat Aug 17 2024,19:30,Ferencvárosi TC,1-0,0-0,Újpest FC
+4,Sat Aug 17 2024,17:00,Debreceni VSC,0-1,0-1,Diósgyöri VTK
+4,Sun Aug 18 2024,20:00,Puskás FC,1-0,0-0,MTK Budapest
+4,Sun Aug 18 2024,15:30,Fehérvár FC,1-1,0-0,Zalaegerszegi TE
+4,Sun Aug 18 2024,17:45,Paksi SE,2-1,2-1,Nyíregyháza Spartacus
+5,Fri Aug 23 2024,20:00,Újpest FC,3-0,2-0,Debreceni VSC
+5,Sat Aug 24 2024,16:45,Diósgyöri VTK,1-0,0-0,Kecskeméti TE
+5,Sun Aug 25 2024,17:45,Nyíregyháza Spartacus,3-3,2-1,Fehérvár FC
+6,Fri Aug 30 2024,20:00,Fehérvár FC,1-0,1-0,MTK Budapest
+6,Sat Aug 31 2024,17:45,Debreceni VSC,3-1,0-1,Zalaegerszegi TE
+6,Sat Aug 31 2024,20:00,Diósgyöri VTK,0-0,0-0,Győri ETO FC
+6,Sun Sep 1 2024,15:00,Kecskeméti TE,1-3,1-1,Újpest FC
+6,Sun Sep 1 2024,19:45,Ferencvárosi TC,2-1,1-0,Nyíregyháza Spartacus
+6,Sun Sep 1 2024,17:30,Paksi SE,2-1,0-1,Puskás FC
+7,Fri Sep 20 2024,20:00,MTK Budapest,,,Ferencvárosi TC
+7,Sat Sep 21 2024,19:30,Nyíregyháza Spartacus,,,Debreceni VSC
+7,Sat Sep 21 2024,17:00,Újpest FC,,,Diósgyöri VTK
+7,Sat Sep 21 2024,14:30,Zalaegerszegi TE,,,Kecskeméti TE
+7,Sun Sep 22 2024,16:30,Puskás FC,,,Fehérvár FC
+7,Sun Sep 22 2024,19:00,Győri ETO FC,,,Paksi SE
+8,Fri Sep 27 2024,20:00,Újpest FC,,,Győri ETO FC
+8,Sat Sep 28 2024,17:00,Kecskeméti TE,,,Nyíregyháza Spartacus
+8,Sat Sep 28 2024,19:30,Debreceni VSC,,,MTK Budapest
+8,Sat Sep 28 2024,15:00,Diósgyöri VTK,,,Zalaegerszegi TE
+8,Sun Sep 29 2024,18:00,Ferencvárosi TC,,,Puskás FC
+8,Sun Sep 29 2024,15:30,Fehérvár FC,,,Paksi SE
+9,Fri Oct 4 2024,20:00,Puskás FC,,,Debreceni VSC
+9,Sat Oct 5 2024,19:30,Nyíregyháza Spartacus,,,Diósgyöri VTK
+9,Sat Oct 5 2024,17:00,MTK Budapest,,,Kecskeméti TE
+9,Sat Oct 5 2024,14:30,Győri ETO FC,,,Fehérvár FC
+9,Sun Oct 6 2024,15:30,Zalaegerszegi TE,,,Újpest FC
+9,Sun Oct 6 2024,18:00,Paksi SE,,,Ferencvárosi TC
+10,Sat Oct 19 2024,,Újpest FC,,,Nyíregyháza Spartacus
+10,Sat Oct 19 2024,,Diósgyöri VTK,,,MTK Budapest
+10,Sat Oct 19 2024,,Kecskeméti TE,,,Puskás FC
+10,Sat Oct 19 2024,,Ferencvárosi TC,,,Fehérvár FC
+10,Sat Oct 19 2024,,Debreceni VSC,,,Paksi SE
+10,Sat Oct 19 2024,,Zalaegerszegi TE,,,Győri ETO FC
+11,Sat Oct 26 2024,,Nyíregyháza Spartacus,,,Zalaegerszegi TE
+11,Sat Oct 26 2024,,Paksi SE,,,Kecskeméti TE
+11,Sat Oct 26 2024,,MTK Budapest,,,Újpest FC
+11,Sat Oct 26 2024,,Puskás FC,,,Diósgyöri VTK
+11,Sat Oct 26 2024,,Fehérvár FC,,,Debreceni VSC
+11,Sat Oct 26 2024,,Győri ETO FC,,,Ferencvárosi TC
+12,Sat Nov 2 2024,,MTK Budapest,,,Zalaegerszegi TE
+12,Sat Nov 2 2024,,Puskás FC,,,Újpest FC
+12,Sat Nov 2 2024,,Paksi SE,,,Diósgyöri VTK
+12,Sat Nov 2 2024,,Győri ETO FC,,,Nyíregyháza Spartacus
+12,Sat Nov 2 2024,,Fehérvár FC,,,Kecskeméti TE
+12,Sat Nov 2 2024,,Ferencvárosi TC,,,Debreceni VSC
+13,Sat Nov 9 2024,,Újpest FC,,,Paksi SE
+13,Sat Nov 9 2024,,Nyíregyháza Spartacus,,,MTK Budapest
+13,Sat Nov 9 2024,,Kecskeméti TE,,,Ferencvárosi TC
+13,Sat Nov 9 2024,,Diósgyöri VTK,,,Fehérvár FC
+13,Sat Nov 9 2024,,Debreceni VSC,,,Győri ETO FC
+13,Sat Nov 9 2024,,Zalaegerszegi TE,,,Puskás FC
+14,Sat Nov 23 2024,,Paksi SE,,,Zalaegerszegi TE
+14,Sat Nov 23 2024,,Fehérvár FC,,,Újpest FC
+14,Sat Nov 23 2024,,MTK Budapest,,,Győri ETO FC
+14,Sat Nov 23 2024,,Ferencvárosi TC,,,Diósgyöri VTK
+14,Sat Nov 23 2024,,Debreceni VSC,,,Kecskeméti TE
+14,Sat Nov 23 2024,,Nyíregyháza Spartacus,,,Puskás FC
+15,Sat Nov 30 2024,,Nyíregyháza Spartacus,,,Paksi SE
+15,Sat Nov 30 2024,,Újpest FC,,,Ferencvárosi TC
+15,Sat Nov 30 2024,,MTK Budapest,,,Puskás FC
+15,Sat Nov 30 2024,,Zalaegerszegi TE,,,Fehérvár FC
+15,Sat Nov 30 2024,,Diósgyöri VTK,,,Debreceni VSC
+15,Sat Nov 30 2024,,Győri ETO FC,,,Kecskeméti TE
+1,Wed Dec 4 2024,19:00,Debreceni VSC,,,Ferencvárosi TC
+5,Wed Dec 4 2024,19:00,Győri ETO FC,,,Puskás FC
+5,Wed Dec 4 2024,19:00,MTK Budapest,,,Paksi SE
+16,Sat Dec 7 2024,,Puskás FC,,,Győri ETO FC
+16,Sat Dec 7 2024,,Debreceni VSC,,,Újpest FC
+16,Sat Dec 7 2024,,Fehérvár FC,,,Nyíregyháza Spartacus
+16,Sat Dec 7 2024,,Ferencvárosi TC,,,Zalaegerszegi TE
+16,Sat Dec 7 2024,,Kecskeméti TE,,,Diósgyöri VTK
+16,Sat Dec 7 2024,,Paksi SE,,,MTK Budapest
+17,Sat Dec 14 2024,,Zalaegerszegi TE,,,Debreceni VSC
+17,Sat Dec 14 2024,,Győri ETO FC,,,Diósgyöri VTK
+17,Sat Dec 14 2024,,MTK Budapest,,,Fehérvár FC
+17,Sat Dec 14 2024,,Nyíregyháza Spartacus,,,Ferencvárosi TC
+17,Sat Dec 14 2024,,Puskás FC,,,Paksi SE
+17,Sat Dec 14 2024,,Újpest FC,,,Kecskeméti TE
+18,Sat Feb 1 2025,,Debreceni VSC,,,Nyíregyháza Spartacus
+18,Sat Feb 1 2025,,Diósgyöri VTK,,,Újpest FC
+18,Sat Feb 1 2025,,Fehérvár FC,,,Puskás FC
+18,Sat Feb 1 2025,,Ferencvárosi TC,,,MTK Budapest
+18,Sat Feb 1 2025,,Kecskeméti TE,,,Zalaegerszegi TE
+18,Sat Feb 1 2025,,Paksi SE,,,Győri ETO FC
+5,Wed Feb 5 2025,19:00,Zalaegerszegi TE,,,Ferencvárosi TC
+19,Sat Feb 8 2025,,Győri ETO FC,,,Újpest FC
+19,Sat Feb 8 2025,,MTK Budapest,,,Debreceni VSC
+19,Sat Feb 8 2025,,Nyíregyháza Spartacus,,,Kecskeméti TE
+19,Sat Feb 8 2025,,Paksi SE,,,Fehérvár FC
+19,Sat Feb 8 2025,,Puskás FC,,,Ferencvárosi TC
+19,Sat Feb 8 2025,,Zalaegerszegi TE,,,Diósgyöri VTK
+20,Sat Feb 15 2025,,Diósgyöri VTK,,,Nyíregyháza Spartacus
+20,Sat Feb 15 2025,,Fehérvár FC,,,Győri ETO FC
+20,Sat Feb 15 2025,,Ferencvárosi TC,,,Paksi SE
+20,Sat Feb 15 2025,,Kecskeméti TE,,,MTK Budapest
+20,Sat Feb 15 2025,,Újpest FC,,,Zalaegerszegi TE
+20,Sat Feb 15 2025,,Debreceni VSC,,,Puskás FC
+21,Sat Feb 22 2025,,Fehérvár FC,,,Ferencvárosi TC
+21,Sat Feb 22 2025,,Győri ETO FC,,,Zalaegerszegi TE
+21,Sat Feb 22 2025,,MTK Budapest,,,Diósgyöri VTK
+21,Sat Feb 22 2025,,Nyíregyháza Spartacus,,,Újpest FC
+21,Sat Feb 22 2025,,Paksi SE,,,Debreceni VSC
+21,Sat Feb 22 2025,,Puskás FC,,,Kecskeméti TE
+22,Sat Mar 1 2025,,Diósgyöri VTK,,,Puskás FC
+22,Sat Mar 1 2025,,Ferencvárosi TC,,,Győri ETO FC
+22,Sat Mar 1 2025,,Kecskeméti TE,,,Paksi SE
+22,Sat Mar 1 2025,,Újpest FC,,,MTK Budapest
+22,Sat Mar 1 2025,,Zalaegerszegi TE,,,Nyíregyháza Spartacus
+22,Sat Mar 1 2025,,Debreceni VSC,,,Fehérvár FC
+23,Sat Mar 8 2025,,Debreceni VSC,,,Ferencvárosi TC
+23,Sat Mar 8 2025,,Diósgyöri VTK,,,Paksi SE
+23,Sat Mar 8 2025,,Kecskeméti TE,,,Fehérvár FC
+23,Sat Mar 8 2025,,Nyíregyháza Spartacus,,,Győri ETO FC
+23,Sat Mar 8 2025,,Újpest FC,,,Puskás FC
+23,Sat Mar 8 2025,,Zalaegerszegi TE,,,MTK Budapest
+24,Sun Mar 16 2025,,Ferencvárosi TC,,,Kecskeméti TE
+24,Sun Mar 16 2025,,Győri ETO FC,,,Debreceni VSC
+24,Sun Mar 16 2025,,MTK Budapest,,,Nyíregyháza Spartacus
+24,Sun Mar 16 2025,,Paksi SE,,,Újpest FC
+24,Sun Mar 16 2025,,Puskás FC,,,Zalaegerszegi TE
+24,Sun Mar 16 2025,,Fehérvár FC,,,Diósgyöri VTK
+25,Sat Mar 29 2025,,Diósgyöri VTK,,,Ferencvárosi TC
+25,Sat Mar 29 2025,,Győri ETO FC,,,MTK Budapest
+25,Sat Mar 29 2025,,Kecskeméti TE,,,Debreceni VSC
+25,Sat Mar 29 2025,,Nyíregyháza Spartacus,,,Puskás FC
+25,Sat Mar 29 2025,,Újpest FC,,,Fehérvár FC
+25,Sat Mar 29 2025,,Zalaegerszegi TE,,,Paksi SE
+26,Sat Apr 5 2025,,Fehérvár FC,,,Zalaegerszegi TE
+26,Sat Apr 5 2025,,Ferencvárosi TC,,,Újpest FC
+26,Sat Apr 5 2025,,Kecskeméti TE,,,Győri ETO FC
+26,Sat Apr 5 2025,,Paksi SE,,,Nyíregyháza Spartacus
+26,Sat Apr 5 2025,,Puskás FC,,,MTK Budapest
+26,Sat Apr 5 2025,,Debreceni VSC,,,Diósgyöri VTK
+27,Sat Apr 12 2025,,Diósgyöri VTK,,,Kecskeméti TE
+27,Sat Apr 12 2025,,Győri ETO FC,,,Puskás FC
+27,Sat Apr 12 2025,,MTK Budapest,,,Paksi SE
+27,Sat Apr 12 2025,,Nyíregyháza Spartacus,,,Fehérvár FC
+27,Sat Apr 12 2025,,Újpest FC,,,Debreceni VSC
+27,Sat Apr 12 2025,,Zalaegerszegi TE,,,Ferencvárosi TC
+28,Sat Apr 19 2025,,Debreceni VSC,,,Zalaegerszegi TE
+28,Sat Apr 19 2025,,Diósgyöri VTK,,,Győri ETO FC
+28,Sat Apr 19 2025,,Fehérvár FC,,,MTK Budapest
+28,Sat Apr 19 2025,,Ferencvárosi TC,,,Nyíregyháza Spartacus
+28,Sat Apr 19 2025,,Kecskeméti TE,,,Újpest FC
+28,Sat Apr 19 2025,,Paksi SE,,,Puskás FC
+29,Sat Apr 26 2025,,MTK Budapest,,,Ferencvárosi TC
+29,Sat Apr 26 2025,,Nyíregyháza Spartacus,,,Debreceni VSC
+29,Sat Apr 26 2025,,Puskás FC,,,Fehérvár FC
+29,Sat Apr 26 2025,,Újpest FC,,,Diósgyöri VTK
+29,Sat Apr 26 2025,,Zalaegerszegi TE,,,Kecskeméti TE
+29,Sat Apr 26 2025,,Győri ETO FC,,,Paksi SE
+30,Sat May 3 2025,,Debreceni VSC,,,MTK Budapest
+30,Sat May 3 2025,,Diósgyöri VTK,,,Zalaegerszegi TE
+30,Sat May 3 2025,,Fehérvár FC,,,Paksi SE
+30,Sat May 3 2025,,Ferencvárosi TC,,,Puskás FC
+30,Sat May 3 2025,,Kecskeméti TE,,,Nyíregyháza Spartacus
+30,Sat May 3 2025,,Újpest FC,,,Győri ETO FC
+31,Sat May 10 2025,,MTK Budapest,,,Kecskeméti TE
+31,Sat May 10 2025,,Nyíregyháza Spartacus,,,Diósgyöri VTK
+31,Sat May 10 2025,,Paksi SE,,,Ferencvárosi TC
+31,Sat May 10 2025,,Puskás FC,,,Debreceni VSC
+31,Sat May 10 2025,,Zalaegerszegi TE,,,Újpest FC
+31,Sat May 10 2025,,Győri ETO FC,,,Fehérvár FC
+32,Sat May 17 2025,,Debreceni VSC,,,Paksi SE
+32,Sat May 17 2025,,Diósgyöri VTK,,,MTK Budapest
+32,Sat May 17 2025,,Ferencvárosi TC,,,Fehérvár FC
+32,Sat May 17 2025,,Kecskeméti TE,,,Puskás FC
+32,Sat May 17 2025,,Újpest FC,,,Nyíregyháza Spartacus
+32,Sat May 17 2025,,Zalaegerszegi TE,,,Győri ETO FC
+33,Sat May 24 2025,,Győri ETO FC,,,Ferencvárosi TC
+33,Sat May 24 2025,,MTK Budapest,,,Újpest FC
+33,Sat May 24 2025,,Nyíregyháza Spartacus,,,Zalaegerszegi TE
+33,Sat May 24 2025,,Paksi SE,,,Kecskeméti TE
+33,Sat May 24 2025,,Puskás FC,,,Diósgyöri VTK
+33,Sat May 24 2025,,Fehérvár FC,,,Debreceni VSC

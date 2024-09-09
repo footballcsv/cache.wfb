@@ -1,33 +1,49 @@
-Round,Date,Time,Team 1,FT,Team 2
-Round 1,Fri Aug 16 2024,20:00,FC Lancy,,Etoile Carouge FC
-Round 1,Fri Aug 16 2024,20:00,FC Dardania Lausanne,,Yverdon Sport FC
-Round 1,Fri Aug 16 2024,20:00,SC Kriens,,AC Bellinzona
-Round 1,Fri Aug 16 2024,20:00,AC Taverne,,FC Wil 1900
-Round 1,Fri Aug 16 2024,20:00,FC Wettswil-Bonstetten,,FC Winterthur
-Round 1,Sat Aug 17 2024,16:00,FC Subingen,,FC Basel
-Round 1,Sat Aug 17 2024,16:00,FC Baden,,FC Rapperswil-Jona
-Round 1,Sat Aug 17 2024,16:00,FC Ursy,,Stade Nyonnais
-Round 1,Sat Aug 17 2024,16:00,FC Schattdorf,,FC Paradiso
-Round 1,Sat Aug 17 2024,17:00,FC Printse-Nendaz,,BSC Young Boys
-Round 1,Sat Aug 17 2024,17:00,FC Suhr,,FC Aarau
-Round 1,Sat Aug 17 2024,17:00,FC Echallens,,Stade-Lausanne-Ouchy
-Round 1,Sat Aug 17 2024,17:00,FC Besa Biel/Bienne,,Chur 97
-Round 1,Sat Aug 17 2024,18:00,FC Monthey,,FC Solothurn
-Round 1,Sat Aug 17 2024,18:00,FC Wallbach,,FC Langenthal
-Round 1,Sat Aug 17 2024,18:00,FC Tuggen,,FC Schaffhausen
-Round 1,Sat Aug 17 2024,18:00,FC Mendrisio,,FC Luzern
-Round 1,Sat Aug 17 2024,19:00,FC Aemme,,FC Haute-Ajoie
-Round 1,Sat Aug 17 2024,19:00,FC CSL,,FC Prishtina Bern
-Round 1,Sat Aug 17 2024,19:00,Zürich City SC,,SC YF/Juventus Zürich
-Round 1,Sat Aug 17 2024,19:00,SC Emmen,,FC Altstätten
-Round 1,Sat Aug 17 2024,19:30,FC Biel/Bienne,,Neuchâtel Xamax FCS
-Round 1,Sat Aug 17 2024,20:00,SR Delémont,,FC Sion
-Round 1,Sun Aug 18 2024,14:00,FC Genolier-Begnins,,Vevey-Sports
-Round 1,Sun Aug 18 2024,14:30,Signal FC,,Servette FC
-Round 1,Sun Aug 18 2024,14:30,FC Champel,,FC Lausanne-Sport
-Round 1,Sun Aug 18 2024,15:00,SC Schwyz,,FC Thun Berner Oberland
-Round 1,Sun Aug 18 2024,15:00,KF Dardania St. Gallen,,FC Gambarogno-Contone
-Round 1,Sun Aug 18 2024,15:00,SC Brühl,,FC Lugano
-Round 1,Sun Aug 18 2024,16:00,Zug 94,,FC Zürich
-Round 1,Sun Aug 18 2024,16:00,FC Regensdorf,,Grasshopper Club Zürich
-Round 1,Sun Aug 18 2024,16:30,FC Malcantone,,FC St. Gallen
+Round,Date,Time,Team 1,FT,HT,Team 2,ET,P
+Round 1,Fri Aug 16 2024,20:00,Lancy FC,3-3,2-1,Etoile Carouge FC,3-3,1-4
+Round 1,Fri Aug 16 2024,20:00,FC Dardania Lausanne,0-3,0-0,Yverdon Sport FC,,
+Round 1,Fri Aug 16 2024,20:00,SC Kriens,1-2,0-2,AC Bellinzona,,
+Round 1,Fri Aug 16 2024,20:00,AC Taverne,1-3,0-0,FC Wil 1900,,
+Round 1,Fri Aug 16 2024,20:00,FC Wettswil-Bonstetten,1-2,0-0,FC Winterthur,,
+Round 1,Sat Aug 17 2024,16:00,FC Subingen,0-8,0-5,FC Basel 1893,,
+Round 1,Sat Aug 17 2024,16:00,FC Baden,1-3,0-1,FC Rapperswil-Jona,,
+Round 1,Sat Aug 17 2024,16:00,FC Ursy,0-6,0-4,FC Stade Nyonnais,,
+Round 1,Sat Aug 17 2024,16:00,FC Schattdorf,0-1,0-0,FC Paradiso,,
+Round 1,Sat Aug 17 2024,17:00,FC Printse-Nendaz,0-10,0-6,BSC Young Boys,,
+Round 1,Sat Aug 17 2024,17:00,FC Suhr,0-4,0-2,FC Aarau,,
+Round 1,Sat Aug 17 2024,17:00,FC Echallens,1-6,0-3,Stade-Lausanne-Ouchy,,
+Round 1,Sat Aug 17 2024,17:00,FC Besa St. Gallen,1-0,1-0,Chur 97,,
+Round 1,Sat Aug 17 2024,18:00,FC Monthey,3-3,1-1,FC Solothurn,4-3,
+Round 1,Sat Aug 17 2024,18:00,FC Wallbach,0-2,0-0,FC Langenthal,,
+Round 1,Sat Aug 17 2024,18:00,FC Tuggen,0-2,0-1,FC Schaffhausen,,
+Round 1,Sat Aug 17 2024,18:00,FC Mendrisio,1-4,1-3,FC Luzern,,
+Round 1,Sat Aug 17 2024,19:00,FC Aemme,2-1,2-0,FC Haute-Ajoie,,
+Round 1,Sat Aug 17 2024,19:00,FC CSL,1-1,1-0,FC Prishtina Bern,1-1,3-1
+Round 1,Sat Aug 17 2024,19:00,Zürich City SC,0-1,0-0,SC YF/Juventus Zürich,,
+Round 1,Sat Aug 17 2024,19:00,SC Emmen,3-2,0-2,FC Altstätten,,
+Round 1,Sat Aug 17 2024,19:30,FC Biel/Bienne,2-1,1-0,Neuchâtel Xamax FCS,,
+Round 1,Sat Aug 17 2024,20:00,SR Delémont,1-1,1-0,FC Sion,1-1,1-4
+Round 1,Sun Aug 18 2024,14:00,FC Genolier-Begnins,1-3,0-1,Vevey-Sports,,
+Round 1,Sun Aug 18 2024,14:30,Signal FC Bernex-Confignon,1-7,0-4,Servette FC,,
+Round 1,Sun Aug 18 2024,14:30,FC Champel,0-7,0-2,FC Lausanne-Sport,,
+Round 1,Sun Aug 18 2024,15:00,SC Schwyz,0-6,0-2,FC Thun Berner Oberland,,
+Round 1,Sun Aug 18 2024,15:00,KF Dardania St. Gallen,1-2,0-2,FC Gambarogno-Contone,,
+Round 1,Sun Aug 18 2024,15:00,SC Brühl,1-7,1-4,FC Lugano,,
+Round 1,Sun Aug 18 2024,16:00,Zug 94,0-2,0-2,FC Zürich,,
+Round 1,Sun Aug 18 2024,16:00,FC Regensdorf,0-9,0-6,Grasshopper Club Zürich,,
+Round 1,Sun Aug 18 2024,16:30,FC Malcantone,0-4,0-3,FC St. Gallen,,
+Round 2,Fri Sep 13 2024,20:00,SC Emmen,,,Yverdon Sport FC,,
+Round 2,Fri Sep 13 2024,20:00,SC YF/Juventus Zürich,,,FC Sion,,
+Round 2,Fri Sep 13 2024,20:00,FC Thun Berner Oberland,,,Grasshopper Club Zürich,,
+Round 2,Fri Sep 13 2024,20:15,FC Besa St. Gallen,,,FC Biel/Bienne,,
+Round 2,Fri Sep 13 2024,20:00,FC Monthey,,,Etoile Carouge FC,,
+Round 2,Sat Sep 14 2024,15:00,FC Langenthal,,,Stade-Lausanne-Ouchy,,
+Round 2,Sat Sep 14 2024,16:00,FC Paradiso,,,FC St. Gallen,,
+Round 2,Sat Sep 14 2024,17:00,FC Rapperswil-Jona,,,FC Lugano,,
+Round 2,Sat Sep 14 2024,17:00,FC Aemme,,,FC Lausanne-Sport,,
+Round 2,Sat Sep 14 2024,18:00,Vevey-Sports,,,BSC Young Boys,,
+Round 2,Sat Sep 14 2024,18:00,FC Wil 1900,,,FC Winterthur,,
+Round 2,Sat Sep 14 2024,18:30,FC CSL,,,FC Zürich,,
+Round 2,Sun Sep 15 2024,16:00,FC Gambarogno-Contone,,,AC Bellinzona,,
+Round 2,Sun Sep 15 2024,16:00,FC Aarau,,,FC Luzern,,
+Round 2,Sun Sep 15 2024,16:30,FC Stade Nyonnais,,,FC Basel 1893,,
+Round 2,Sun Sep 15 2024,14:30,FC Schaffhausen,,,Servette FC,,
