@@ -1,33 +1,49 @@
-Round,Date,Time,Team 1,FT,Team 2
-Round 1,Fri Aug 16 2024,18:00,SV Wehen Wiesbaden,,1. FSV Mainz 05
-Round 1,Fri Aug 16 2024,18:00,Hallescher FC,,FC St. Pauli
-Round 1,Fri Aug 16 2024,20:45,SSV Ulm 1846,,Bayern München
-Round 1,Fri Aug 16 2024,18:00,Würzburger Kickers,,1899 Hoffenheim
-Round 1,Sat Aug 17 2024,13:00,Erzgebirge Aue,,Bor. Mönchengladbach
-Round 1,Sat Aug 17 2024,13:00,TSV Schott Mainz,,SpVgg Greuther Fürth
-Round 1,Sat Aug 17 2024,15:30,FC 08 Villingen,,1. FC Heidenheim 1846
-Round 1,Sat Aug 17 2024,15:30,Rot-Weiss Essen,,RB Leipzig
-Round 1,Sat Aug 17 2024,15:30,FC Ingolstadt 04,,1. FC Kaiserslautern
-Round 1,Sat Aug 17 2024,15:30,VfR Aalen,,FC Schalke 04
-Round 1,Sat Aug 17 2024,15:30,VfL Osnabrück,,SC Freiburg
-Round 1,Sat Aug 17 2024,15:30,Greifswalder FC,,1. FC Union Berlin
-Round 1,Sat Aug 17 2024,18:00,Arminia Bielefeld,,Hannover 96
-Round 1,Sat Aug 17 2024,18:00,1. FC Phönix Lübeck,,Borussia Dortmund
-Round 1,Sat Aug 17 2024,18:00,Alemannia Aachen,,Holstein Kiel
-Round 1,Sun Aug 18 2024,13:00,1. FC Saarbrücken,,1. FC Nürnberg
-Round 1,Sun Aug 18 2024,13:00,FC Viktoria 1889 Berlin,,FC Augsburg
-Round 1,Sun Aug 18 2024,15:30,Bremer SV,,SC Paderborn 07
-Round 1,Sun Aug 18 2024,15:30,Jahn Regensburg,,VfL Bochum
-Round 1,Sun Aug 18 2024,15:30,VfV Hildesheim,,SV 07 Elversberg
-Round 1,Sun Aug 18 2024,15:30,SV Sandhausen,,1. FC Köln
-Round 1,Sun Aug 18 2024,15:30,Hansa Rostock,,Hertha BSC
-Round 1,Sun Aug 18 2024,15:30,FC Teutonia 05,,SV Darmstadt 98
-Round 1,Sun Aug 18 2024,18:00,Dynamo Dresden,,Fortuna Düsseldorf
-Round 1,Sun Aug 18 2024,18:00,Sportfreunde Lotte,,Karlsruher SC
-Round 1,Sun Aug 18 2024,18:00,SV Meppen,,Hamburger SV
-Round 1,Mon Aug 19 2024,18:00,Energie Cottbus,,Werder Bremen
-Round 1,Mon Aug 19 2024,18:00,Kickers Offenbach,,1. FC Magdeburg
-Round 1,Mon Aug 19 2024,20:45,Eintracht Braunschweig,,Eintracht Frankfurt
-Round 1,Mon Aug 19 2024,18:00,TuS Koblenz,,VfL Wolfsburg
-Round 1,Tue Aug 27 2024,20:45,Preußen Münster,,VfB Stuttgart
-Round 1,Wed Aug 28 2024,18:00,FC Carl Zeiss Jena,,Bayer Leverkusen
+Round,Date,Time,Team 1,FT,HT,Team 2,ET,P
+Round 1,Fri Aug 16 2024,18:00,SV Wehen Wiesbaden,1-1,1-0,1. FSV Mainz 05,1-3,
+Round 1,Fri Aug 16 2024,18:00,Hallescher FC,2-2,1-0,FC St. Pauli,2-3,
+Round 1,Fri Aug 16 2024,20:45,SSV Ulm 1846,0-4,0-2,Bayern München,,
+Round 1,Fri Aug 16 2024,18:00,Würzburger Kickers,1-1,1-1,1899 Hoffenheim,2-2,3-5
+Round 1,Sat Aug 17 2024,13:00,Erzgebirge Aue,1-3,1-1,Bor. Mönchengladbach,,
+Round 1,Sat Aug 17 2024,13:00,TSV Schott Mainz,0-2,0-1,SpVgg Greuther Fürth,,
+Round 1,Sat Aug 17 2024,15:30,FC 08 Villingen,0-4,0-1,1. FC Heidenheim 1846,,
+Round 1,Sat Aug 17 2024,15:30,Rot-Weiss Essen,1-4,1-2,RB Leipzig,,
+Round 1,Sat Aug 17 2024,15:30,FC Ingolstadt 04,1-2,0-2,1. FC Kaiserslautern,,
+Round 1,Sat Aug 17 2024,15:30,VfR Aalen,0-2,0-1,FC Schalke 04,,
+Round 1,Sat Aug 17 2024,15:30,VfL Osnabrück,0-4,0-2,SC Freiburg,,
+Round 1,Sat Aug 17 2024,15:30,Greifswalder FC,0-1,0-0,1. FC Union Berlin,,
+Round 1,Sat Aug 17 2024,18:00,Arminia Bielefeld,2-0,2-0,Hannover 96,,
+Round 1,Sat Aug 17 2024,18:00,1. FC Phönix Lübeck,1-4,0-3,Borussia Dortmund,,
+Round 1,Sat Aug 17 2024,18:00,Alemannia Aachen,2-3,1-1,Holstein Kiel,,
+Round 1,Sun Aug 18 2024,13:00,1. FC Saarbrücken,1-1,0-1,1. FC Nürnberg,1-1,3-5
+Round 1,Sun Aug 18 2024,13:00,FC Viktoria 1889 Berlin,1-4,1-1,FC Augsburg,,
+Round 1,Sun Aug 18 2024,15:30,Bremer SV,0-4,0-1,SC Paderborn 07,,
+Round 1,Sun Aug 18 2024,15:30,Jahn Regensburg,1-0,0-0,VfL Bochum,,
+Round 1,Sun Aug 18 2024,15:30,VfV Hildesheim,0-7,0-3,SV 07 Elversberg,,
+Round 1,Sun Aug 18 2024,15:30,SV Sandhausen,2-2,0-2,1. FC Köln,2-3,
+Round 1,Sun Aug 18 2024,15:30,Hansa Rostock,1-5,0-1,Hertha BSC,,
+Round 1,Sun Aug 18 2024,15:30,FC Teutonia 05,1-3,0-2,SV Darmstadt 98,,
+Round 1,Sun Aug 18 2024,18:00,Dynamo Dresden,2-0,1-0,Fortuna Düsseldorf,,
+Round 1,Sun Aug 18 2024,18:00,Sportfreunde Lotte,0-5,0-2,Karlsruher SC,,
+Round 1,Sun Aug 18 2024,18:00,SV Meppen,1-7,0-2,Hamburger SV,,
+Round 1,Mon Aug 19 2024,18:00,Energie Cottbus,1-3,0-2,Werder Bremen,,
+Round 1,Mon Aug 19 2024,18:00,Kickers Offenbach,2-1,1-0,1. FC Magdeburg,,
+Round 1,Mon Aug 19 2024,20:45,Eintracht Braunschweig,1-4,0-0,Eintracht Frankfurt,,
+Round 1,Mon Aug 19 2024,18:00,TuS Koblenz,0-1,0-1,VfL Wolfsburg,,
+Round 1,Tue Aug 27 2024,20:45,Preußen Münster,0-5,0-3,VfB Stuttgart,,
+Round 1,Wed Aug 28 2024,18:00,FC Carl Zeiss Jena,0-1,0-0,Bayer Leverkusen,,
+Round 2,Tue Oct 29 2024,18:00,RB Leipzig,,,FC St. Pauli,,
+Round 2,Tue Oct 29 2024,18:00,FC Augsburg,,,FC Schalke 04,,
+Round 2,Tue Oct 29 2024,18:00,Bayer Leverkusen,,,SV 07 Elversberg,,
+Round 2,Tue Oct 29 2024,18:00,Kickers Offenbach,,,Karlsruher SC,,
+Round 2,Tue Oct 29 2024,20:45,VfL Wolfsburg,,,Borussia Dortmund,,
+Round 2,Tue Oct 29 2024,20:45,VfB Stuttgart,,,1. FC Kaiserslautern,,
+Round 2,Tue Oct 29 2024,20:45,1. FC Köln,,,Holstein Kiel,,
+Round 2,Tue Oct 29 2024,20:45,Jahn Regensburg,,,SpVgg Greuther Fürth,,
+Round 2,Wed Oct 30 2024,18:00,SC Freiburg,,,Hamburger SV,,
+Round 2,Wed Oct 30 2024,18:00,Hertha BSC,,,1. FC Heidenheim 1846,,
+Round 2,Wed Oct 30 2024,18:00,SC Paderborn 07,,,Werder Bremen,,
+Round 2,Wed Oct 30 2024,20:45,1. FSV Mainz 05,,,Bayern München,,
+Round 2,Wed Oct 30 2024,20:45,1899 Hoffenheim,,,1. FC Nürnberg,,
+Round 2,Wed Oct 30 2024,20:45,Arminia Bielefeld,,,1. FC Union Berlin,,
+Round 2,Wed Oct 30 2024,20:45,Dynamo Dresden,,,SV Darmstadt 98,,
+Round 2,Wed Oct 30 2024,18:00,Eintracht Frankfurt,,,Bor. Mönchengladbach,,
