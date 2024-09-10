@@ -1,343 +1,343 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Aug 9 2024,22:00,Galatasaray,2-1,0-0,Hatayspor
-1,Sat Aug 10 2024,22:45,Antalyaspor,0-0,0-0,Göztepe
-1,Sat Aug 10 2024,22:45,Fenerbahçe,1-0,1-0,Adana Demirspor
-1,Sat Aug 10 2024,20:15,Kasımpaşa SK,2-3,0-1,Konyaspor
-1,Sun Aug 11 2024,20:15,Sivasspor,0-0,0-0,Trabzonspor
-1,Sun Aug 11 2024,22:45,Alanyaspor,1-1,0-0,Eyüpspor
-1,Sun Aug 11 2024,22:45,Samsunspor,0-2,0-2,Beşiktaş
-1,Mon Aug 12 2024,22:00,Bodrum FK,0-1,0-0,Gaziantep FK
-1,Mon Aug 12 2024,22:00,Çaykur Rizespor,1-1,1-1,İstanbul Başakşehir
-2,Fri Aug 16 2024,22:00,Konyaspor,1-2,1-1,Galatasaray
-2,Sat Aug 17 2024,22:45,Göztepe,2-2,0-2,Fenerbahçe
-2,Sat Aug 17 2024,22:45,Adana Demirspor,1-2,0-1,Çaykur Rizespor
-2,Sat Aug 17 2024,20:15,Kayserispor,1-2,1-1,Sivasspor
-2,Sun Aug 18 2024,20:15,İstanbul Başakşehir,4-2,1-2,Alanyaspor
-2,Sun Aug 18 2024,22:45,Gaziantep FK,0-1,0-1,Samsunspor
-2,Sun Aug 18 2024,22:45,Beşiktaş,4-2,2-1,Antalyaspor
-2,Mon Aug 19 2024,22:00,Hatayspor,1-1,1-0,Kasımpaşa SK
-2,Mon Aug 19 2024,22:00,Eyüpspor,4-1,0-1,Bodrum FK
-3,Fri Aug 23 2024,22:00,Alanyaspor,1-1,0-1,Göztepe
-3,Sat Aug 24 2024,20:15,Sivasspor,0-1,0-1,Eyüpspor
-3,Sat Aug 24 2024,22:45,Bodrum FK,3-1,2-1,Konyaspor
-3,Sun Aug 25 2024,22:45,Antalyaspor,3-2,0-2,Hatayspor
-3,Sun Aug 25 2024,22:45,Çaykur Rizespor,0-5,0-1,Fenerbahçe
-3,Sun Aug 25 2024,20:15,Kasımpaşa SK,2-2,1-0,Adana Demirspor
-4,Fri Aug 30 2024,22:00,Fenerbahçe,3-0,1-0,Alanyaspor
-4,Sat Aug 31 2024,20:15,Konyaspor,0-0,0-0,Kayserispor
-4,Sat Aug 31 2024,22:45,Göztepe,2-0,2-0,Bodrum FK
-4,Sat Aug 31 2024,22:45,Adana Demirspor,1-5,0-4,Galatasaray
-4,Sat Aug 31 2024,20:15,Çaykur Rizespor,0-1,0-1,Kasımpaşa SK
-4,Sun Sep 1 2024,22:45,Beşiktaş,2-0,1-0,Sivasspor
-4,Sun Sep 1 2024,20:15,Eyüpspor,0-0,0-0,Trabzonspor
-4,Sun Sep 1 2024,20:15,İstanbul Başakşehir,5-2,1-2,Antalyaspor
-4,Sun Sep 1 2024,22:45,Hatayspor,0-3,0-1,Samsunspor
-5,Sat Sep 14 2024,21:00,Bodrum FK,,,İstanbul Başakşehir
-5,Sat Sep 14 2024,18:00,Samsunspor,,,Konyaspor
-5,Sat Sep 14 2024,21:00,Galatasaray,,,Çaykur Rizespor
-5,Sat Sep 14 2024,18:00,Sivasspor,,,Gaziantep FK
-5,Sun Sep 15 2024,21:00,Alanyaspor,,,Hatayspor
-5,Sun Sep 15 2024,18:00,Kayserispor,,,Eyüpspor
-5,Sun Sep 15 2024,21:00,Trabzonspor,,,Beşiktaş
-5,Sun Sep 15 2024,18:00,Kasımpaşa SK,,,Fenerbahçe
-5,Mon Sep 16 2024,21:00,Antalyaspor,,,Adana Demirspor
-3,Tue Sep 17 2024,21:00,Galatasaray,,,Gaziantep FK
-3,Wed Sep 18 2024,20:15,Samsunspor,,,İstanbul Başakşehir
-3,Wed Sep 18 2024,22:00,Trabzonspor,,,Kayserispor
-6,Fri Sep 20 2024,21:00,Hatayspor,,,Bodrum FK
-6,Sat Sep 21 2024,18:00,Konyaspor,,,Sivasspor
-6,Sat Sep 21 2024,21:00,Fenerbahçe,,,Galatasaray
-6,Sun Sep 22 2024,18:00,Kasımpaşa SK,,,Antalyaspor
-6,Sun Sep 22 2024,21:00,Adana Demirspor,,,Alanyaspor
-6,Sun Sep 22 2024,21:00,Beşiktaş,,,Eyüpspor
-6,Sun Sep 22 2024,18:00,Çaykur Rizespor,,,Samsunspor
-6,Mon Sep 23 2024,21:00,Göztepe,,,Kayserispor
-6,Mon Sep 23 2024,21:00,Gaziantep FK,,,Trabzonspor
-7,Sun Sep 29 2024,,Sivasspor,,,İstanbul Başakşehir
-7,Sun Sep 29 2024,,Alanyaspor,,,Çaykur Rizespor
-7,Sun Sep 29 2024,,Kayserispor,,,Beşiktaş
-7,Sun Sep 29 2024,,Antalyaspor,,,Fenerbahçe
-7,Sun Sep 29 2024,,Samsunspor,,,Göztepe
-7,Sun Sep 29 2024,,Trabzonspor,,,Konyaspor
-7,Sun Sep 29 2024,,Galatasaray,,,Kasımpaşa SK
-7,Sun Sep 29 2024,,Eyüpspor,,,Gaziantep FK
-7,Sun Sep 29 2024,,Bodrum FK,,,Adana Demirspor
-8,Sun Oct 6 2024,,Göztepe,,,Sivasspor
-8,Sun Oct 6 2024,,Gaziantep FK,,,Beşiktaş
-8,Sun Oct 6 2024,,Galatasaray,,,Alanyaspor
-8,Sun Oct 6 2024,,İstanbul Başakşehir,,,Kayserispor
-8,Sun Oct 6 2024,,Çaykur Rizespor,,,Antalyaspor
-8,Sun Oct 6 2024,,Adana Demirspor,,,Samsunspor
-8,Sun Oct 6 2024,,Konyaspor,,,Eyüpspor
-8,Sun Oct 6 2024,,Kasımpaşa SK,,,Bodrum FK
-8,Sun Oct 6 2024,,Hatayspor,,,Trabzonspor
-9,Sun Oct 20 2024,,Beşiktaş,,,Konyaspor
-9,Sun Oct 20 2024,,Sivasspor,,,Hatayspor
-9,Sun Oct 20 2024,,Alanyaspor,,,Kasımpaşa SK
-9,Sun Oct 20 2024,,Antalyaspor,,,Galatasaray
-9,Sun Oct 20 2024,,Kayserispor,,,Gaziantep FK
-9,Sun Oct 20 2024,,Samsunspor,,,Fenerbahçe
-9,Sun Oct 20 2024,,Trabzonspor,,,İstanbul Başakşehir
-9,Sun Oct 20 2024,,Eyüpspor,,,Göztepe
-9,Sun Oct 20 2024,,Bodrum FK,,,Çaykur Rizespor
-10,Sun Oct 27 2024,,Göztepe,,,Trabzonspor
-10,Sun Oct 27 2024,,Gaziantep FK,,,Konyaspor
-10,Sun Oct 27 2024,,Galatasaray,,,Beşiktaş
-10,Sun Oct 27 2024,,İstanbul Başakşehir,,,Eyüpspor
-10,Sun Oct 27 2024,,Adana Demirspor,,,Sivasspor
-10,Sun Oct 27 2024,,Alanyaspor,,,Antalyaspor
-10,Sun Oct 27 2024,,Kasımpaşa SK,,,Samsunspor
-10,Sun Oct 27 2024,,Hatayspor,,,Kayserispor
-10,Sun Oct 27 2024,,Fenerbahçe,,,Bodrum FK
-11,Sun Nov 3 2024,,Beşiktaş,,,Kasımpaşa SK
-11,Sun Nov 3 2024,,Sivasspor,,,Çaykur Rizespor
-11,Sun Nov 3 2024,,Kayserispor,,,Adana Demirspor
-11,Sun Nov 3 2024,,Konyaspor,,,İstanbul Başakşehir
-11,Sun Nov 3 2024,,Trabzonspor,,,Fenerbahçe
-11,Sun Nov 3 2024,,Samsunspor,,,Antalyaspor
-11,Sun Nov 3 2024,,Eyüpspor,,,Hatayspor
-11,Sun Nov 3 2024,,Gaziantep FK,,,Göztepe
-11,Sun Nov 3 2024,,Bodrum FK,,,Alanyaspor
-12,Sun Nov 10 2024,,Göztepe,,,Konyaspor
-12,Sun Nov 10 2024,,Galatasaray,,,Samsunspor
-12,Sun Nov 10 2024,,İstanbul Başakşehir,,,Beşiktaş
-12,Sun Nov 10 2024,,Çaykur Rizespor,,,Trabzonspor
-12,Sun Nov 10 2024,,Adana Demirspor,,,Eyüpspor
-12,Sun Nov 10 2024,,Antalyaspor,,,Bodrum FK
-12,Sun Nov 10 2024,,Kasımpaşa SK,,,Kayserispor
-12,Sun Nov 10 2024,,Hatayspor,,,Gaziantep FK
-12,Sun Nov 10 2024,,Fenerbahçe,,,Sivasspor
-13,Sun Nov 24 2024,,Beşiktaş,,,Göztepe
-13,Sun Nov 24 2024,,Sivasspor,,,Kasımpaşa SK
-13,Sun Nov 24 2024,,Kayserispor,,,Fenerbahçe
-13,Sun Nov 24 2024,,Konyaspor,,,Hatayspor
-13,Sun Nov 24 2024,,Samsunspor,,,Alanyaspor
-13,Sun Nov 24 2024,,Trabzonspor,,,Adana Demirspor
-13,Sun Nov 24 2024,,Eyüpspor,,,Çaykur Rizespor
-13,Sun Nov 24 2024,,Bodrum FK,,,Galatasaray
-13,Sun Nov 24 2024,,Gaziantep FK,,,İstanbul Başakşehir
-14,Sun Dec 1 2024,,Galatasaray,,,Eyüpspor
-14,Sun Dec 1 2024,,İstanbul Başakşehir,,,Göztepe
-14,Sun Dec 1 2024,,Çaykur Rizespor,,,Kayserispor
-14,Sun Dec 1 2024,,Samsunspor,,,Bodrum FK
-14,Sun Dec 1 2024,,Adana Demirspor,,,Konyaspor
-14,Sun Dec 1 2024,,Antalyaspor,,,Sivasspor
-14,Sun Dec 1 2024,,Alanyaspor,,,Trabzonspor
-14,Sun Dec 1 2024,,Hatayspor,,,Beşiktaş
-14,Sun Dec 1 2024,,Fenerbahçe,,,Gaziantep FK
-15,Sun Dec 8 2024,,Beşiktaş,,,Fenerbahçe
-15,Sun Dec 8 2024,,Sivasspor,,,Galatasaray
-15,Sun Dec 8 2024,,Kayserispor,,,Alanyaspor
-15,Sun Dec 8 2024,,Konyaspor,,,Antalyaspor
-15,Sun Dec 8 2024,,Trabzonspor,,,Kasımpaşa SK
-15,Sun Dec 8 2024,,Eyüpspor,,,Samsunspor
-15,Sun Dec 8 2024,,İstanbul Başakşehir,,,Hatayspor
-15,Sun Dec 8 2024,,Gaziantep FK,,,Çaykur Rizespor
-15,Sun Dec 8 2024,,Göztepe,,,Adana Demirspor
-16,Sun Dec 15 2024,,Bodrum FK,,,Sivasspor
-16,Sun Dec 15 2024,,Çaykur Rizespor,,,Konyaspor
-16,Sun Dec 15 2024,,Galatasaray,,,Trabzonspor
-16,Sun Dec 15 2024,,Adana Demirspor,,,Beşiktaş
-16,Sun Dec 15 2024,,Antalyaspor,,,Kayserispor
-16,Sun Dec 15 2024,,Alanyaspor,,,Gaziantep FK
-16,Sun Dec 15 2024,,Kasımpaşa SK,,,Eyüpspor
-16,Sun Dec 15 2024,,Hatayspor,,,Göztepe
-16,Sun Dec 15 2024,,Fenerbahçe,,,İstanbul Başakşehir
-17,Sun Dec 22 2024,,Beşiktaş,,,Alanyaspor
-17,Sun Dec 22 2024,,Hatayspor,,,Adana Demirspor
-17,Sun Dec 22 2024,,Sivasspor,,,Samsunspor
-17,Sun Dec 22 2024,,Kayserispor,,,Galatasaray
-17,Sun Dec 22 2024,,Trabzonspor,,,Bodrum FK
-17,Sun Dec 22 2024,,Eyüpspor,,,Fenerbahçe
-17,Sun Dec 22 2024,,İstanbul Başakşehir,,,Kasımpaşa SK
-17,Sun Dec 22 2024,,Gaziantep FK,,,Antalyaspor
-17,Sun Dec 22 2024,,Göztepe,,,Çaykur Rizespor
-18,Sun Jan 5 2025,,Bodrum FK,,,Kayserispor
-18,Sun Jan 5 2025,,Galatasaray,,,Göztepe
-18,Sun Jan 5 2025,,Çaykur Rizespor,,,Beşiktaş
-18,Sun Jan 5 2025,,Samsunspor,,,Trabzonspor
-18,Sun Jan 5 2025,,Adana Demirspor,,,İstanbul Başakşehir
-18,Sun Jan 5 2025,,Antalyaspor,,,Eyüpspor
-18,Sun Jan 5 2025,,Kasımpaşa SK,,,Gaziantep FK
-18,Sun Jan 5 2025,,Alanyaspor,,,Konyaspor
-18,Sun Jan 5 2025,,Fenerbahçe,,,Hatayspor
-19,Sun Jan 12 2025,,Beşiktaş,,,Bodrum FK
-19,Sun Jan 12 2025,,Sivasspor,,,Alanyaspor
-19,Sun Jan 12 2025,,Hatayspor,,,Çaykur Rizespor
-19,Sun Jan 12 2025,,Kayserispor,,,Samsunspor
-19,Sun Jan 12 2025,,Konyaspor,,,Fenerbahçe
-19,Sun Jan 12 2025,,Trabzonspor,,,Antalyaspor
-19,Sun Jan 12 2025,,İstanbul Başakşehir,,,Galatasaray
-19,Sun Jan 12 2025,,Gaziantep FK,,,Adana Demirspor
-19,Sun Jan 12 2025,,Göztepe,,,Kasımpaşa SK
-20,Sun Jan 19 2025,,Göztepe,,,Antalyaspor
-20,Sun Jan 19 2025,,Gaziantep FK,,,Bodrum FK
-20,Sun Jan 19 2025,,İstanbul Başakşehir,,,Çaykur Rizespor
-20,Sun Jan 19 2025,,Eyüpspor,,,Alanyaspor
-20,Sun Jan 19 2025,,Trabzonspor,,,Sivasspor
-20,Sun Jan 19 2025,,Konyaspor,,,Kasımpaşa SK
-20,Sun Jan 19 2025,,Adana Demirspor,,,Fenerbahçe
-20,Sun Jan 19 2025,,Hatayspor,,,Galatasaray
-20,Sun Jan 19 2025,,Beşiktaş,,,Samsunspor
-21,Sun Jan 26 2025,,Fenerbahçe,,,Göztepe
-21,Sun Jan 26 2025,,Sivasspor,,,Kayserispor
-21,Sun Jan 26 2025,,Antalyaspor,,,Beşiktaş
-21,Sun Jan 26 2025,,Alanyaspor,,,İstanbul Başakşehir
-21,Sun Jan 26 2025,,Kasımpaşa SK,,,Hatayspor
-21,Sun Jan 26 2025,,Samsunspor,,,Gaziantep FK
-21,Sun Jan 26 2025,,Galatasaray,,,Konyaspor
-21,Sun Jan 26 2025,,Çaykur Rizespor,,,Adana Demirspor
-21,Sun Jan 26 2025,,Bodrum FK,,,Eyüpspor
-22,Sun Feb 2 2025,,Gaziantep FK,,,Galatasaray
-22,Sun Feb 2 2025,,İstanbul Başakşehir,,,Samsunspor
-22,Sun Feb 2 2025,,Göztepe,,,Alanyaspor
-22,Sun Feb 2 2025,,Eyüpspor,,,Sivasspor
-22,Sun Feb 2 2025,,Adana Demirspor,,,Kasımpaşa SK
-22,Sun Feb 2 2025,,Konyaspor,,,Bodrum FK
-22,Sun Feb 2 2025,,Kayserispor,,,Trabzonspor
-22,Sun Feb 2 2025,,Hatayspor,,,Antalyaspor
-22,Sun Feb 2 2025,,Fenerbahçe,,,Çaykur Rizespor
-23,Sun Feb 9 2025,,Sivasspor,,,Beşiktaş
-23,Sun Feb 9 2025,,Kayserispor,,,Konyaspor
-23,Sun Feb 9 2025,,Alanyaspor,,,Fenerbahçe
-23,Sun Feb 9 2025,,Antalyaspor,,,İstanbul Başakşehir
-23,Sun Feb 9 2025,,Kasımpaşa SK,,,Çaykur Rizespor
-23,Sun Feb 9 2025,,Samsunspor,,,Hatayspor
-23,Sun Feb 9 2025,,Trabzonspor,,,Eyüpspor
-23,Sun Feb 9 2025,,Galatasaray,,,Adana Demirspor
-23,Sun Feb 9 2025,,Bodrum FK,,,Göztepe
-24,Sun Feb 16 2025,,Gaziantep FK,,,Sivasspor
-24,Sun Feb 16 2025,,Eyüpspor,,,Kayserispor
-24,Sun Feb 16 2025,,İstanbul Başakşehir,,,Bodrum FK
-24,Sun Feb 16 2025,,Çaykur Rizespor,,,Galatasaray
-24,Sun Feb 16 2025,,Konyaspor,,,Samsunspor
-24,Sun Feb 16 2025,,Adana Demirspor,,,Antalyaspor
-24,Sun Feb 16 2025,,Hatayspor,,,Alanyaspor
-24,Sun Feb 16 2025,,Fenerbahçe,,,Kasımpaşa SK
-24,Sun Feb 16 2025,,Beşiktaş,,,Trabzonspor
-25,Sun Feb 23 2025,,Sivasspor,,,Konyaspor
-25,Sun Feb 23 2025,,Alanyaspor,,,Adana Demirspor
-25,Sun Feb 23 2025,,Antalyaspor,,,Kasımpaşa SK
-25,Sun Feb 23 2025,,Kayserispor,,,Göztepe
-25,Sun Feb 23 2025,,Samsunspor,,,Çaykur Rizespor
-25,Sun Feb 23 2025,,Trabzonspor,,,Gaziantep FK
-25,Sun Feb 23 2025,,Galatasaray,,,Fenerbahçe
-25,Sun Feb 23 2025,,Eyüpspor,,,Beşiktaş
-25,Sun Feb 23 2025,,Bodrum FK,,,Hatayspor
-26,Sun Mar 2 2025,,Göztepe,,,Samsunspor
-26,Sun Mar 2 2025,,Gaziantep FK,,,Eyüpspor
-26,Sun Mar 2 2025,,Adana Demirspor,,,Bodrum FK
-26,Sun Mar 2 2025,,Çaykur Rizespor,,,Alanyaspor
-26,Sun Mar 2 2025,,İstanbul Başakşehir,,,Sivasspor
-26,Sun Mar 2 2025,,Konyaspor,,,Trabzonspor
-26,Sun Mar 2 2025,,Kasımpaşa SK,,,Galatasaray
-26,Sun Mar 2 2025,,Beşiktaş,,,Kayserispor
-26,Sun Mar 2 2025,,Fenerbahçe,,,Antalyaspor
-27,Sun Mar 9 2025,,Beşiktaş,,,Gaziantep FK
-27,Sun Mar 9 2025,,Sivasspor,,,Göztepe
-27,Sun Mar 9 2025,,Kayserispor,,,İstanbul Başakşehir
-27,Sun Mar 9 2025,,Alanyaspor,,,Galatasaray
-27,Sun Mar 9 2025,,Antalyaspor,,,Çaykur Rizespor
-27,Sun Mar 9 2025,,Samsunspor,,,Adana Demirspor
-27,Sun Mar 9 2025,,Trabzonspor,,,Hatayspor
-27,Sun Mar 9 2025,,Eyüpspor,,,Konyaspor
-27,Sun Mar 9 2025,,Bodrum FK,,,Kasımpaşa SK
-28,Sun Mar 16 2025,,Gaziantep FK,,,Kayserispor
-28,Sun Mar 16 2025,,İstanbul Başakşehir,,,Trabzonspor
-28,Sun Mar 16 2025,,Göztepe,,,Eyüpspor
-28,Sun Mar 16 2025,,Çaykur Rizespor,,,Bodrum FK
-28,Sun Mar 16 2025,,Galatasaray,,,Antalyaspor
-28,Sun Mar 16 2025,,Fenerbahçe,,,Samsunspor
-28,Sun Mar 16 2025,,Konyaspor,,,Beşiktaş
-28,Sun Mar 16 2025,,Kasımpaşa SK,,,Alanyaspor
-28,Sun Mar 16 2025,,Hatayspor,,,Sivasspor
-29,Sun Mar 30 2025,,Sivasspor,,,Adana Demirspor
-29,Sun Mar 30 2025,,Beşiktaş,,,Galatasaray
-29,Sun Mar 30 2025,,Antalyaspor,,,Alanyaspor
-29,Sun Mar 30 2025,,Kayserispor,,,Hatayspor
-29,Sun Mar 30 2025,,Konyaspor,,,Gaziantep FK
-29,Sun Mar 30 2025,,Trabzonspor,,,Göztepe
-29,Sun Mar 30 2025,,Samsunspor,,,Kasımpaşa SK
-29,Sun Mar 30 2025,,Eyüpspor,,,İstanbul Başakşehir
-29,Sun Mar 30 2025,,Bodrum FK,,,Fenerbahçe
-30,Sun Apr 6 2025,,Göztepe,,,Gaziantep FK
-30,Sun Apr 6 2025,,İstanbul Başakşehir,,,Konyaspor
-30,Sun Apr 6 2025,,Çaykur Rizespor,,,Sivasspor
-30,Sun Apr 6 2025,,Fenerbahçe,,,Trabzonspor
-30,Sun Apr 6 2025,,Adana Demirspor,,,Kayserispor
-30,Sun Apr 6 2025,,Antalyaspor,,,Samsunspor
-30,Sun Apr 6 2025,,Alanyaspor,,,Bodrum FK
-30,Sun Apr 6 2025,,Kasımpaşa SK,,,Beşiktaş
-30,Sun Apr 6 2025,,Hatayspor,,,Eyüpspor
-31,Sun Apr 13 2025,,Sivasspor,,,Fenerbahçe
-31,Sun Apr 13 2025,,Beşiktaş,,,İstanbul Başakşehir
-31,Sun Apr 13 2025,,Kayserispor,,,Kasımpaşa SK
-31,Sun Apr 13 2025,,Konyaspor,,,Göztepe
-31,Sun Apr 13 2025,,Samsunspor,,,Galatasaray
-31,Sun Apr 13 2025,,Trabzonspor,,,Çaykur Rizespor
-31,Sun Apr 13 2025,,Eyüpspor,,,Adana Demirspor
-31,Sun Apr 13 2025,,Gaziantep FK,,,Hatayspor
-31,Sun Apr 13 2025,,Bodrum FK,,,Antalyaspor
-32,Sun Apr 20 2025,,Göztepe,,,Beşiktaş
-32,Sun Apr 20 2025,,Çaykur Rizespor,,,Eyüpspor
-32,Sun Apr 20 2025,,İstanbul Başakşehir,,,Gaziantep FK
-32,Sun Apr 20 2025,,Galatasaray,,,Bodrum FK
-32,Sun Apr 20 2025,,Adana Demirspor,,,Trabzonspor
-32,Sun Apr 20 2025,,Kasımpaşa SK,,,Sivasspor
-32,Sun Apr 20 2025,,Alanyaspor,,,Samsunspor
-32,Sun Apr 20 2025,,Fenerbahçe,,,Kayserispor
-32,Sun Apr 20 2025,,Hatayspor,,,Konyaspor
-33,Sun Apr 27 2025,,Sivasspor,,,Antalyaspor
-33,Sun Apr 27 2025,,Beşiktaş,,,Hatayspor
-33,Sun Apr 27 2025,,Kayserispor,,,Çaykur Rizespor
-33,Sun Apr 27 2025,,Konyaspor,,,Adana Demirspor
-33,Sun Apr 27 2025,,Trabzonspor,,,Alanyaspor
-33,Sun Apr 27 2025,,Eyüpspor,,,Galatasaray
-33,Sun Apr 27 2025,,Bodrum FK,,,Samsunspor
-33,Sun Apr 27 2025,,Göztepe,,,İstanbul Başakşehir
-33,Sun Apr 27 2025,,Gaziantep FK,,,Fenerbahçe
-34,Sun May 4 2025,,Galatasaray,,,Sivasspor
-34,Sun May 4 2025,,Çaykur Rizespor,,,Gaziantep FK
-34,Sun May 4 2025,,Samsunspor,,,Eyüpspor
-34,Sun May 4 2025,,Adana Demirspor,,,Göztepe
-34,Sun May 4 2025,,Antalyaspor,,,Konyaspor
-34,Sun May 4 2025,,Kasımpaşa SK,,,Trabzonspor
-34,Sun May 4 2025,,Alanyaspor,,,Kayserispor
-34,Sun May 4 2025,,Fenerbahçe,,,Beşiktaş
-34,Sun May 4 2025,,Hatayspor,,,İstanbul Başakşehir
-35,Sun May 11 2025,,Sivasspor,,,Bodrum FK
-35,Sun May 11 2025,,Beşiktaş,,,Adana Demirspor
-35,Sun May 11 2025,,Kayserispor,,,Antalyaspor
-35,Sun May 11 2025,,Konyaspor,,,Çaykur Rizespor
-35,Sun May 11 2025,,Trabzonspor,,,Galatasaray
-35,Sun May 11 2025,,İstanbul Başakşehir,,,Fenerbahçe
-35,Sun May 11 2025,,Eyüpspor,,,Kasımpaşa SK
-35,Sun May 11 2025,,Göztepe,,,Hatayspor
-35,Sun May 11 2025,,Gaziantep FK,,,Alanyaspor
-36,Sun May 18 2025,,Bodrum FK,,,Trabzonspor
-36,Sun May 18 2025,,Galatasaray,,,Kayserispor
-36,Sun May 18 2025,,Çaykur Rizespor,,,Göztepe
-36,Sun May 18 2025,,Samsunspor,,,Sivasspor
-36,Sun May 18 2025,,Adana Demirspor,,,Hatayspor
-36,Sun May 18 2025,,Antalyaspor,,,Gaziantep FK
-36,Sun May 18 2025,,Kasımpaşa SK,,,İstanbul Başakşehir
-36,Sun May 18 2025,,Alanyaspor,,,Beşiktaş
-36,Sun May 18 2025,,Fenerbahçe,,,Eyüpspor
-37,Sun May 25 2025,,Beşiktaş,,,Çaykur Rizespor
-37,Sun May 25 2025,,Hatayspor,,,Fenerbahçe
-37,Sun May 25 2025,,Kayserispor,,,Bodrum FK
-37,Sun May 25 2025,,Konyaspor,,,Alanyaspor
-37,Sun May 25 2025,,Trabzonspor,,,Samsunspor
-37,Sun May 25 2025,,Eyüpspor,,,Antalyaspor
-37,Sun May 25 2025,,İstanbul Başakşehir,,,Adana Demirspor
-37,Sun May 25 2025,,Gaziantep FK,,,Kasımpaşa SK
-37,Sun May 25 2025,,Göztepe,,,Galatasaray
-38,Sun Jun 1 2025,,Bodrum FK,,,Beşiktaş
-38,Sun Jun 1 2025,,Galatasaray,,,İstanbul Başakşehir
-38,Sun Jun 1 2025,,Çaykur Rizespor,,,Hatayspor
-38,Sun Jun 1 2025,,Fenerbahçe,,,Konyaspor
-38,Sun Jun 1 2025,,Samsunspor,,,Kayserispor
-38,Sun Jun 1 2025,,Adana Demirspor,,,Gaziantep FK
-38,Sun Jun 1 2025,,Antalyaspor,,,Trabzonspor
-38,Sun Jun 1 2025,,Kasımpaşa SK,,,Göztepe
-38,Sun Jun 1 2025,,Alanyaspor,,,Sivasspor
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 9 2024,21:00,+03/+0300,Galatasaray,2-1,0-0,Hatayspor,2024-08-09T18:00Z
+1,Sat Aug 10 2024,21:45,+03/+0300,Antalyaspor,0-0,0-0,Göztepe,2024-08-10T18:45Z
+1,Sat Aug 10 2024,21:45,+03/+0300,Fenerbahçe,1-0,1-0,Adana Demirspor,2024-08-10T18:45Z
+1,Sat Aug 10 2024,19:15,+03/+0300,Kasımpaşa SK,2-3,0-1,Konyaspor,2024-08-10T16:15Z
+1,Sun Aug 11 2024,19:15,+03/+0300,Sivasspor,0-0,0-0,Trabzonspor,2024-08-11T16:15Z
+1,Sun Aug 11 2024,21:45,+03/+0300,Alanyaspor,1-1,0-0,Eyüpspor,2024-08-11T18:45Z
+1,Sun Aug 11 2024,21:45,+03/+0300,Samsunspor,0-2,0-2,Beşiktaş,2024-08-11T18:45Z
+1,Mon Aug 12 2024,21:00,+03/+0300,Bodrum FK,0-1,0-0,Gaziantep FK,2024-08-12T18:00Z
+1,Mon Aug 12 2024,21:00,+03/+0300,Çaykur Rizespor,1-1,1-1,İstanbul Başakşehir,2024-08-12T18:00Z
+2,Fri Aug 16 2024,21:00,+03/+0300,Konyaspor,1-2,1-1,Galatasaray,2024-08-16T18:00Z
+2,Sat Aug 17 2024,21:45,+03/+0300,Göztepe,2-2,0-2,Fenerbahçe,2024-08-17T18:45Z
+2,Sat Aug 17 2024,21:45,+03/+0300,Adana Demirspor,1-2,0-1,Çaykur Rizespor,2024-08-17T18:45Z
+2,Sat Aug 17 2024,19:15,+03/+0300,Kayserispor,1-2,1-1,Sivasspor,2024-08-17T16:15Z
+2,Sun Aug 18 2024,19:15,+03/+0300,İstanbul Başakşehir,4-2,1-2,Alanyaspor,2024-08-18T16:15Z
+2,Sun Aug 18 2024,21:45,+03/+0300,Gaziantep FK,0-1,0-1,Samsunspor,2024-08-18T18:45Z
+2,Sun Aug 18 2024,21:45,+03/+0300,Beşiktaş,4-2,2-1,Antalyaspor,2024-08-18T18:45Z
+2,Mon Aug 19 2024,21:00,+03/+0300,Hatayspor,1-1,1-0,Kasımpaşa SK,2024-08-19T18:00Z
+2,Mon Aug 19 2024,21:00,+03/+0300,Eyüpspor,4-1,0-1,Bodrum FK,2024-08-19T18:00Z
+3,Fri Aug 23 2024,21:00,+03/+0300,Alanyaspor,1-1,0-1,Göztepe,2024-08-23T18:00Z
+3,Sat Aug 24 2024,19:15,+03/+0300,Sivasspor,0-1,0-1,Eyüpspor,2024-08-24T16:15Z
+3,Sat Aug 24 2024,21:45,+03/+0300,Bodrum FK,3-1,2-1,Konyaspor,2024-08-24T18:45Z
+3,Sun Aug 25 2024,21:45,+03/+0300,Antalyaspor,3-2,0-2,Hatayspor,2024-08-25T18:45Z
+3,Sun Aug 25 2024,21:45,+03/+0300,Çaykur Rizespor,0-5,0-1,Fenerbahçe,2024-08-25T18:45Z
+3,Sun Aug 25 2024,19:15,+03/+0300,Kasımpaşa SK,2-2,1-0,Adana Demirspor,2024-08-25T16:15Z
+4,Fri Aug 30 2024,21:00,+03/+0300,Fenerbahçe,3-0,1-0,Alanyaspor,2024-08-30T18:00Z
+4,Sat Aug 31 2024,19:15,+03/+0300,Konyaspor,0-0,0-0,Kayserispor,2024-08-31T16:15Z
+4,Sat Aug 31 2024,21:45,+03/+0300,Göztepe,2-0,2-0,Bodrum FK,2024-08-31T18:45Z
+4,Sat Aug 31 2024,21:45,+03/+0300,Adana Demirspor,1-5,0-4,Galatasaray,2024-08-31T18:45Z
+4,Sat Aug 31 2024,19:15,+03/+0300,Çaykur Rizespor,0-1,0-1,Kasımpaşa SK,2024-08-31T16:15Z
+4,Sun Sep 1 2024,21:45,+03/+0300,Beşiktaş,2-0,1-0,Sivasspor,2024-09-01T18:45Z
+4,Sun Sep 1 2024,19:15,+03/+0300,Eyüpspor,0-0,0-0,Trabzonspor,2024-09-01T16:15Z
+4,Sun Sep 1 2024,19:15,+03/+0300,İstanbul Başakşehir,5-2,1-2,Antalyaspor,2024-09-01T16:15Z
+4,Sun Sep 1 2024,21:45,+03/+0300,Hatayspor,0-3,0-1,Samsunspor,2024-09-01T18:45Z
+5,Sat Sep 14 2024,20:00,+03/+0300,Bodrum FK,,,İstanbul Başakşehir,2024-09-14T17:00Z
+5,Sat Sep 14 2024,17:00,+03/+0300,Samsunspor,,,Konyaspor,2024-09-14T14:00Z
+5,Sat Sep 14 2024,20:00,+03/+0300,Galatasaray,,,Çaykur Rizespor,2024-09-14T17:00Z
+5,Sat Sep 14 2024,17:00,+03/+0300,Sivasspor,,,Gaziantep FK,2024-09-14T14:00Z
+5,Sun Sep 15 2024,20:00,+03/+0300,Alanyaspor,,,Hatayspor,2024-09-15T17:00Z
+5,Sun Sep 15 2024,17:00,+03/+0300,Kayserispor,,,Eyüpspor,2024-09-15T14:00Z
+5,Sun Sep 15 2024,20:00,+03/+0300,Trabzonspor,,,Beşiktaş,2024-09-15T17:00Z
+5,Sun Sep 15 2024,17:00,+03/+0300,Kasımpaşa SK,,,Fenerbahçe,2024-09-15T14:00Z
+5,Mon Sep 16 2024,20:00,+03/+0300,Antalyaspor,,,Adana Demirspor,2024-09-16T17:00Z
+3,Tue Sep 17 2024,20:00,+03/+0300,Galatasaray,,,Gaziantep FK,2024-09-17T17:00Z
+3,Wed Sep 18 2024,20:00,+03/+0300,Samsunspor,,,İstanbul Başakşehir,2024-09-18T17:00Z
+3,Thu Sep 19 2024,20:00,+03/+0300,Trabzonspor,,,Kayserispor,2024-09-19T17:00Z
+6,Fri Sep 20 2024,20:00,+03/+0300,Hatayspor,,,Bodrum FK,2024-09-20T17:00Z
+6,Sat Sep 21 2024,17:00,+03/+0300,Konyaspor,,,Sivasspor,2024-09-21T14:00Z
+6,Sat Sep 21 2024,20:00,+03/+0300,Fenerbahçe,,,Galatasaray,2024-09-21T17:00Z
+6,Sun Sep 22 2024,17:00,+03/+0300,Kasımpaşa SK,,,Antalyaspor,2024-09-22T14:00Z
+6,Sun Sep 22 2024,20:00,+03/+0300,Adana Demirspor,,,Alanyaspor,2024-09-22T17:00Z
+6,Sun Sep 22 2024,20:00,+03/+0300,Beşiktaş,,,Eyüpspor,2024-09-22T17:00Z
+6,Sun Sep 22 2024,17:00,+03/+0300,Çaykur Rizespor,,,Samsunspor,2024-09-22T14:00Z
+6,Mon Sep 23 2024,20:00,+03/+0300,Göztepe,,,Kayserispor,2024-09-23T17:00Z
+6,Mon Sep 23 2024,20:00,+03/+0300,Gaziantep FK,,,Trabzonspor,2024-09-23T17:00Z
+7,Sun Sep 29 2024,,,Sivasspor,,,İstanbul Başakşehir,
+7,Sun Sep 29 2024,,,Alanyaspor,,,Çaykur Rizespor,
+7,Sun Sep 29 2024,,,Kayserispor,,,Beşiktaş,
+7,Sun Sep 29 2024,,,Antalyaspor,,,Fenerbahçe,
+7,Sun Sep 29 2024,,,Samsunspor,,,Göztepe,
+7,Sun Sep 29 2024,,,Trabzonspor,,,Konyaspor,
+7,Sun Sep 29 2024,,,Galatasaray,,,Kasımpaşa SK,
+7,Sun Sep 29 2024,,,Eyüpspor,,,Gaziantep FK,
+7,Sun Sep 29 2024,,,Bodrum FK,,,Adana Demirspor,
+8,Sun Oct 6 2024,,,Göztepe,,,Sivasspor,
+8,Sun Oct 6 2024,,,Gaziantep FK,,,Beşiktaş,
+8,Sun Oct 6 2024,,,Galatasaray,,,Alanyaspor,
+8,Sun Oct 6 2024,,,İstanbul Başakşehir,,,Kayserispor,
+8,Sun Oct 6 2024,,,Çaykur Rizespor,,,Antalyaspor,
+8,Sun Oct 6 2024,,,Adana Demirspor,,,Samsunspor,
+8,Sun Oct 6 2024,,,Konyaspor,,,Eyüpspor,
+8,Sun Oct 6 2024,,,Kasımpaşa SK,,,Bodrum FK,
+8,Sun Oct 6 2024,,,Hatayspor,,,Trabzonspor,
+9,Sun Oct 20 2024,,,Beşiktaş,,,Konyaspor,
+9,Sun Oct 20 2024,,,Sivasspor,,,Hatayspor,
+9,Sun Oct 20 2024,,,Alanyaspor,,,Kasımpaşa SK,
+9,Sun Oct 20 2024,,,Antalyaspor,,,Galatasaray,
+9,Sun Oct 20 2024,,,Kayserispor,,,Gaziantep FK,
+9,Sun Oct 20 2024,,,Samsunspor,,,Fenerbahçe,
+9,Sun Oct 20 2024,,,Trabzonspor,,,İstanbul Başakşehir,
+9,Sun Oct 20 2024,,,Eyüpspor,,,Göztepe,
+9,Sun Oct 20 2024,,,Bodrum FK,,,Çaykur Rizespor,
+10,Sun Oct 27 2024,,,Göztepe,,,Trabzonspor,
+10,Sun Oct 27 2024,,,Gaziantep FK,,,Konyaspor,
+10,Sun Oct 27 2024,,,Galatasaray,,,Beşiktaş,
+10,Sun Oct 27 2024,,,İstanbul Başakşehir,,,Eyüpspor,
+10,Sun Oct 27 2024,,,Adana Demirspor,,,Sivasspor,
+10,Sun Oct 27 2024,,,Alanyaspor,,,Antalyaspor,
+10,Sun Oct 27 2024,,,Kasımpaşa SK,,,Samsunspor,
+10,Sun Oct 27 2024,,,Hatayspor,,,Kayserispor,
+10,Sun Oct 27 2024,,,Fenerbahçe,,,Bodrum FK,
+11,Sun Nov 3 2024,,,Beşiktaş,,,Kasımpaşa SK,
+11,Sun Nov 3 2024,,,Sivasspor,,,Çaykur Rizespor,
+11,Sun Nov 3 2024,,,Kayserispor,,,Adana Demirspor,
+11,Sun Nov 3 2024,,,Konyaspor,,,İstanbul Başakşehir,
+11,Sun Nov 3 2024,,,Trabzonspor,,,Fenerbahçe,
+11,Sun Nov 3 2024,,,Samsunspor,,,Antalyaspor,
+11,Sun Nov 3 2024,,,Eyüpspor,,,Hatayspor,
+11,Sun Nov 3 2024,,,Gaziantep FK,,,Göztepe,
+11,Sun Nov 3 2024,,,Bodrum FK,,,Alanyaspor,
+12,Sun Nov 10 2024,,,Göztepe,,,Konyaspor,
+12,Sun Nov 10 2024,,,Galatasaray,,,Samsunspor,
+12,Sun Nov 10 2024,,,İstanbul Başakşehir,,,Beşiktaş,
+12,Sun Nov 10 2024,,,Çaykur Rizespor,,,Trabzonspor,
+12,Sun Nov 10 2024,,,Adana Demirspor,,,Eyüpspor,
+12,Sun Nov 10 2024,,,Antalyaspor,,,Bodrum FK,
+12,Sun Nov 10 2024,,,Kasımpaşa SK,,,Kayserispor,
+12,Sun Nov 10 2024,,,Hatayspor,,,Gaziantep FK,
+12,Sun Nov 10 2024,,,Fenerbahçe,,,Sivasspor,
+13,Sun Nov 24 2024,,,Beşiktaş,,,Göztepe,
+13,Sun Nov 24 2024,,,Sivasspor,,,Kasımpaşa SK,
+13,Sun Nov 24 2024,,,Kayserispor,,,Fenerbahçe,
+13,Sun Nov 24 2024,,,Konyaspor,,,Hatayspor,
+13,Sun Nov 24 2024,,,Samsunspor,,,Alanyaspor,
+13,Sun Nov 24 2024,,,Trabzonspor,,,Adana Demirspor,
+13,Sun Nov 24 2024,,,Eyüpspor,,,Çaykur Rizespor,
+13,Sun Nov 24 2024,,,Bodrum FK,,,Galatasaray,
+13,Sun Nov 24 2024,,,Gaziantep FK,,,İstanbul Başakşehir,
+14,Sun Dec 1 2024,,,Galatasaray,,,Eyüpspor,
+14,Sun Dec 1 2024,,,İstanbul Başakşehir,,,Göztepe,
+14,Sun Dec 1 2024,,,Çaykur Rizespor,,,Kayserispor,
+14,Sun Dec 1 2024,,,Samsunspor,,,Bodrum FK,
+14,Sun Dec 1 2024,,,Adana Demirspor,,,Konyaspor,
+14,Sun Dec 1 2024,,,Antalyaspor,,,Sivasspor,
+14,Sun Dec 1 2024,,,Alanyaspor,,,Trabzonspor,
+14,Sun Dec 1 2024,,,Hatayspor,,,Beşiktaş,
+14,Sun Dec 1 2024,,,Fenerbahçe,,,Gaziantep FK,
+15,Sun Dec 8 2024,,,Beşiktaş,,,Fenerbahçe,
+15,Sun Dec 8 2024,,,Sivasspor,,,Galatasaray,
+15,Sun Dec 8 2024,,,Kayserispor,,,Alanyaspor,
+15,Sun Dec 8 2024,,,Konyaspor,,,Antalyaspor,
+15,Sun Dec 8 2024,,,Trabzonspor,,,Kasımpaşa SK,
+15,Sun Dec 8 2024,,,Eyüpspor,,,Samsunspor,
+15,Sun Dec 8 2024,,,İstanbul Başakşehir,,,Hatayspor,
+15,Sun Dec 8 2024,,,Gaziantep FK,,,Çaykur Rizespor,
+15,Sun Dec 8 2024,,,Göztepe,,,Adana Demirspor,
+16,Sun Dec 15 2024,,,Bodrum FK,,,Sivasspor,
+16,Sun Dec 15 2024,,,Çaykur Rizespor,,,Konyaspor,
+16,Sun Dec 15 2024,,,Galatasaray,,,Trabzonspor,
+16,Sun Dec 15 2024,,,Adana Demirspor,,,Beşiktaş,
+16,Sun Dec 15 2024,,,Antalyaspor,,,Kayserispor,
+16,Sun Dec 15 2024,,,Alanyaspor,,,Gaziantep FK,
+16,Sun Dec 15 2024,,,Kasımpaşa SK,,,Eyüpspor,
+16,Sun Dec 15 2024,,,Hatayspor,,,Göztepe,
+16,Sun Dec 15 2024,,,Fenerbahçe,,,İstanbul Başakşehir,
+17,Sun Dec 22 2024,,,Beşiktaş,,,Alanyaspor,
+17,Sun Dec 22 2024,,,Hatayspor,,,Adana Demirspor,
+17,Sun Dec 22 2024,,,Sivasspor,,,Samsunspor,
+17,Sun Dec 22 2024,,,Kayserispor,,,Galatasaray,
+17,Sun Dec 22 2024,,,Trabzonspor,,,Bodrum FK,
+17,Sun Dec 22 2024,,,Eyüpspor,,,Fenerbahçe,
+17,Sun Dec 22 2024,,,İstanbul Başakşehir,,,Kasımpaşa SK,
+17,Sun Dec 22 2024,,,Gaziantep FK,,,Antalyaspor,
+17,Sun Dec 22 2024,,,Göztepe,,,Çaykur Rizespor,
+18,Sun Jan 5 2025,,,Bodrum FK,,,Kayserispor,
+18,Sun Jan 5 2025,,,Galatasaray,,,Göztepe,
+18,Sun Jan 5 2025,,,Çaykur Rizespor,,,Beşiktaş,
+18,Sun Jan 5 2025,,,Samsunspor,,,Trabzonspor,
+18,Sun Jan 5 2025,,,Adana Demirspor,,,İstanbul Başakşehir,
+18,Sun Jan 5 2025,,,Antalyaspor,,,Eyüpspor,
+18,Sun Jan 5 2025,,,Kasımpaşa SK,,,Gaziantep FK,
+18,Sun Jan 5 2025,,,Alanyaspor,,,Konyaspor,
+18,Sun Jan 5 2025,,,Fenerbahçe,,,Hatayspor,
+19,Sun Jan 12 2025,,,Beşiktaş,,,Bodrum FK,
+19,Sun Jan 12 2025,,,Sivasspor,,,Alanyaspor,
+19,Sun Jan 12 2025,,,Hatayspor,,,Çaykur Rizespor,
+19,Sun Jan 12 2025,,,Kayserispor,,,Samsunspor,
+19,Sun Jan 12 2025,,,Konyaspor,,,Fenerbahçe,
+19,Sun Jan 12 2025,,,Trabzonspor,,,Antalyaspor,
+19,Sun Jan 12 2025,,,İstanbul Başakşehir,,,Galatasaray,
+19,Sun Jan 12 2025,,,Gaziantep FK,,,Adana Demirspor,
+19,Sun Jan 12 2025,,,Göztepe,,,Kasımpaşa SK,
+20,Sun Jan 19 2025,,,Göztepe,,,Antalyaspor,
+20,Sun Jan 19 2025,,,Gaziantep FK,,,Bodrum FK,
+20,Sun Jan 19 2025,,,İstanbul Başakşehir,,,Çaykur Rizespor,
+20,Sun Jan 19 2025,,,Eyüpspor,,,Alanyaspor,
+20,Sun Jan 19 2025,,,Trabzonspor,,,Sivasspor,
+20,Sun Jan 19 2025,,,Konyaspor,,,Kasımpaşa SK,
+20,Sun Jan 19 2025,,,Adana Demirspor,,,Fenerbahçe,
+20,Sun Jan 19 2025,,,Hatayspor,,,Galatasaray,
+20,Sun Jan 19 2025,,,Beşiktaş,,,Samsunspor,
+21,Sun Jan 26 2025,,,Fenerbahçe,,,Göztepe,
+21,Sun Jan 26 2025,,,Sivasspor,,,Kayserispor,
+21,Sun Jan 26 2025,,,Antalyaspor,,,Beşiktaş,
+21,Sun Jan 26 2025,,,Alanyaspor,,,İstanbul Başakşehir,
+21,Sun Jan 26 2025,,,Kasımpaşa SK,,,Hatayspor,
+21,Sun Jan 26 2025,,,Samsunspor,,,Gaziantep FK,
+21,Sun Jan 26 2025,,,Galatasaray,,,Konyaspor,
+21,Sun Jan 26 2025,,,Çaykur Rizespor,,,Adana Demirspor,
+21,Sun Jan 26 2025,,,Bodrum FK,,,Eyüpspor,
+22,Sun Feb 2 2025,,,Gaziantep FK,,,Galatasaray,
+22,Sun Feb 2 2025,,,İstanbul Başakşehir,,,Samsunspor,
+22,Sun Feb 2 2025,,,Göztepe,,,Alanyaspor,
+22,Sun Feb 2 2025,,,Eyüpspor,,,Sivasspor,
+22,Sun Feb 2 2025,,,Adana Demirspor,,,Kasımpaşa SK,
+22,Sun Feb 2 2025,,,Konyaspor,,,Bodrum FK,
+22,Sun Feb 2 2025,,,Kayserispor,,,Trabzonspor,
+22,Sun Feb 2 2025,,,Hatayspor,,,Antalyaspor,
+22,Sun Feb 2 2025,,,Fenerbahçe,,,Çaykur Rizespor,
+23,Sun Feb 9 2025,,,Sivasspor,,,Beşiktaş,
+23,Sun Feb 9 2025,,,Kayserispor,,,Konyaspor,
+23,Sun Feb 9 2025,,,Alanyaspor,,,Fenerbahçe,
+23,Sun Feb 9 2025,,,Antalyaspor,,,İstanbul Başakşehir,
+23,Sun Feb 9 2025,,,Kasımpaşa SK,,,Çaykur Rizespor,
+23,Sun Feb 9 2025,,,Samsunspor,,,Hatayspor,
+23,Sun Feb 9 2025,,,Trabzonspor,,,Eyüpspor,
+23,Sun Feb 9 2025,,,Galatasaray,,,Adana Demirspor,
+23,Sun Feb 9 2025,,,Bodrum FK,,,Göztepe,
+24,Sun Feb 16 2025,,,Gaziantep FK,,,Sivasspor,
+24,Sun Feb 16 2025,,,Eyüpspor,,,Kayserispor,
+24,Sun Feb 16 2025,,,İstanbul Başakşehir,,,Bodrum FK,
+24,Sun Feb 16 2025,,,Çaykur Rizespor,,,Galatasaray,
+24,Sun Feb 16 2025,,,Konyaspor,,,Samsunspor,
+24,Sun Feb 16 2025,,,Adana Demirspor,,,Antalyaspor,
+24,Sun Feb 16 2025,,,Hatayspor,,,Alanyaspor,
+24,Sun Feb 16 2025,,,Fenerbahçe,,,Kasımpaşa SK,
+24,Sun Feb 16 2025,,,Beşiktaş,,,Trabzonspor,
+25,Sun Feb 23 2025,,,Sivasspor,,,Konyaspor,
+25,Sun Feb 23 2025,,,Alanyaspor,,,Adana Demirspor,
+25,Sun Feb 23 2025,,,Antalyaspor,,,Kasımpaşa SK,
+25,Sun Feb 23 2025,,,Kayserispor,,,Göztepe,
+25,Sun Feb 23 2025,,,Samsunspor,,,Çaykur Rizespor,
+25,Sun Feb 23 2025,,,Trabzonspor,,,Gaziantep FK,
+25,Sun Feb 23 2025,,,Galatasaray,,,Fenerbahçe,
+25,Sun Feb 23 2025,,,Eyüpspor,,,Beşiktaş,
+25,Sun Feb 23 2025,,,Bodrum FK,,,Hatayspor,
+26,Sun Mar 2 2025,,,Göztepe,,,Samsunspor,
+26,Sun Mar 2 2025,,,Gaziantep FK,,,Eyüpspor,
+26,Sun Mar 2 2025,,,Adana Demirspor,,,Bodrum FK,
+26,Sun Mar 2 2025,,,Çaykur Rizespor,,,Alanyaspor,
+26,Sun Mar 2 2025,,,İstanbul Başakşehir,,,Sivasspor,
+26,Sun Mar 2 2025,,,Konyaspor,,,Trabzonspor,
+26,Sun Mar 2 2025,,,Kasımpaşa SK,,,Galatasaray,
+26,Sun Mar 2 2025,,,Beşiktaş,,,Kayserispor,
+26,Sun Mar 2 2025,,,Fenerbahçe,,,Antalyaspor,
+27,Sun Mar 9 2025,,,Beşiktaş,,,Gaziantep FK,
+27,Sun Mar 9 2025,,,Sivasspor,,,Göztepe,
+27,Sun Mar 9 2025,,,Kayserispor,,,İstanbul Başakşehir,
+27,Sun Mar 9 2025,,,Alanyaspor,,,Galatasaray,
+27,Sun Mar 9 2025,,,Antalyaspor,,,Çaykur Rizespor,
+27,Sun Mar 9 2025,,,Samsunspor,,,Adana Demirspor,
+27,Sun Mar 9 2025,,,Trabzonspor,,,Hatayspor,
+27,Sun Mar 9 2025,,,Eyüpspor,,,Konyaspor,
+27,Sun Mar 9 2025,,,Bodrum FK,,,Kasımpaşa SK,
+28,Sun Mar 16 2025,,,Gaziantep FK,,,Kayserispor,
+28,Sun Mar 16 2025,,,İstanbul Başakşehir,,,Trabzonspor,
+28,Sun Mar 16 2025,,,Göztepe,,,Eyüpspor,
+28,Sun Mar 16 2025,,,Çaykur Rizespor,,,Bodrum FK,
+28,Sun Mar 16 2025,,,Galatasaray,,,Antalyaspor,
+28,Sun Mar 16 2025,,,Fenerbahçe,,,Samsunspor,
+28,Sun Mar 16 2025,,,Konyaspor,,,Beşiktaş,
+28,Sun Mar 16 2025,,,Kasımpaşa SK,,,Alanyaspor,
+28,Sun Mar 16 2025,,,Hatayspor,,,Sivasspor,
+29,Sun Mar 30 2025,,,Sivasspor,,,Adana Demirspor,
+29,Sun Mar 30 2025,,,Beşiktaş,,,Galatasaray,
+29,Sun Mar 30 2025,,,Antalyaspor,,,Alanyaspor,
+29,Sun Mar 30 2025,,,Kayserispor,,,Hatayspor,
+29,Sun Mar 30 2025,,,Konyaspor,,,Gaziantep FK,
+29,Sun Mar 30 2025,,,Trabzonspor,,,Göztepe,
+29,Sun Mar 30 2025,,,Samsunspor,,,Kasımpaşa SK,
+29,Sun Mar 30 2025,,,Eyüpspor,,,İstanbul Başakşehir,
+29,Sun Mar 30 2025,,,Bodrum FK,,,Fenerbahçe,
+30,Sun Apr 6 2025,,,Göztepe,,,Gaziantep FK,
+30,Sun Apr 6 2025,,,İstanbul Başakşehir,,,Konyaspor,
+30,Sun Apr 6 2025,,,Çaykur Rizespor,,,Sivasspor,
+30,Sun Apr 6 2025,,,Fenerbahçe,,,Trabzonspor,
+30,Sun Apr 6 2025,,,Adana Demirspor,,,Kayserispor,
+30,Sun Apr 6 2025,,,Antalyaspor,,,Samsunspor,
+30,Sun Apr 6 2025,,,Alanyaspor,,,Bodrum FK,
+30,Sun Apr 6 2025,,,Kasımpaşa SK,,,Beşiktaş,
+30,Sun Apr 6 2025,,,Hatayspor,,,Eyüpspor,
+31,Sun Apr 13 2025,,,Sivasspor,,,Fenerbahçe,
+31,Sun Apr 13 2025,,,Beşiktaş,,,İstanbul Başakşehir,
+31,Sun Apr 13 2025,,,Kayserispor,,,Kasımpaşa SK,
+31,Sun Apr 13 2025,,,Konyaspor,,,Göztepe,
+31,Sun Apr 13 2025,,,Samsunspor,,,Galatasaray,
+31,Sun Apr 13 2025,,,Trabzonspor,,,Çaykur Rizespor,
+31,Sun Apr 13 2025,,,Eyüpspor,,,Adana Demirspor,
+31,Sun Apr 13 2025,,,Gaziantep FK,,,Hatayspor,
+31,Sun Apr 13 2025,,,Bodrum FK,,,Antalyaspor,
+32,Sun Apr 20 2025,,,Göztepe,,,Beşiktaş,
+32,Sun Apr 20 2025,,,Çaykur Rizespor,,,Eyüpspor,
+32,Sun Apr 20 2025,,,İstanbul Başakşehir,,,Gaziantep FK,
+32,Sun Apr 20 2025,,,Galatasaray,,,Bodrum FK,
+32,Sun Apr 20 2025,,,Adana Demirspor,,,Trabzonspor,
+32,Sun Apr 20 2025,,,Kasımpaşa SK,,,Sivasspor,
+32,Sun Apr 20 2025,,,Alanyaspor,,,Samsunspor,
+32,Sun Apr 20 2025,,,Fenerbahçe,,,Kayserispor,
+32,Sun Apr 20 2025,,,Hatayspor,,,Konyaspor,
+33,Sun Apr 27 2025,,,Sivasspor,,,Antalyaspor,
+33,Sun Apr 27 2025,,,Beşiktaş,,,Hatayspor,
+33,Sun Apr 27 2025,,,Kayserispor,,,Çaykur Rizespor,
+33,Sun Apr 27 2025,,,Konyaspor,,,Adana Demirspor,
+33,Sun Apr 27 2025,,,Trabzonspor,,,Alanyaspor,
+33,Sun Apr 27 2025,,,Eyüpspor,,,Galatasaray,
+33,Sun Apr 27 2025,,,Bodrum FK,,,Samsunspor,
+33,Sun Apr 27 2025,,,Göztepe,,,İstanbul Başakşehir,
+33,Sun Apr 27 2025,,,Gaziantep FK,,,Fenerbahçe,
+34,Sun May 4 2025,,,Galatasaray,,,Sivasspor,
+34,Sun May 4 2025,,,Çaykur Rizespor,,,Gaziantep FK,
+34,Sun May 4 2025,,,Samsunspor,,,Eyüpspor,
+34,Sun May 4 2025,,,Adana Demirspor,,,Göztepe,
+34,Sun May 4 2025,,,Antalyaspor,,,Konyaspor,
+34,Sun May 4 2025,,,Kasımpaşa SK,,,Trabzonspor,
+34,Sun May 4 2025,,,Alanyaspor,,,Kayserispor,
+34,Sun May 4 2025,,,Fenerbahçe,,,Beşiktaş,
+34,Sun May 4 2025,,,Hatayspor,,,İstanbul Başakşehir,
+35,Sun May 11 2025,,,Sivasspor,,,Bodrum FK,
+35,Sun May 11 2025,,,Beşiktaş,,,Adana Demirspor,
+35,Sun May 11 2025,,,Kayserispor,,,Antalyaspor,
+35,Sun May 11 2025,,,Konyaspor,,,Çaykur Rizespor,
+35,Sun May 11 2025,,,Trabzonspor,,,Galatasaray,
+35,Sun May 11 2025,,,İstanbul Başakşehir,,,Fenerbahçe,
+35,Sun May 11 2025,,,Eyüpspor,,,Kasımpaşa SK,
+35,Sun May 11 2025,,,Göztepe,,,Hatayspor,
+35,Sun May 11 2025,,,Gaziantep FK,,,Alanyaspor,
+36,Sun May 18 2025,,,Bodrum FK,,,Trabzonspor,
+36,Sun May 18 2025,,,Galatasaray,,,Kayserispor,
+36,Sun May 18 2025,,,Çaykur Rizespor,,,Göztepe,
+36,Sun May 18 2025,,,Samsunspor,,,Sivasspor,
+36,Sun May 18 2025,,,Adana Demirspor,,,Hatayspor,
+36,Sun May 18 2025,,,Antalyaspor,,,Gaziantep FK,
+36,Sun May 18 2025,,,Kasımpaşa SK,,,İstanbul Başakşehir,
+36,Sun May 18 2025,,,Alanyaspor,,,Beşiktaş,
+36,Sun May 18 2025,,,Fenerbahçe,,,Eyüpspor,
+37,Sun May 25 2025,,,Beşiktaş,,,Çaykur Rizespor,
+37,Sun May 25 2025,,,Hatayspor,,,Fenerbahçe,
+37,Sun May 25 2025,,,Kayserispor,,,Bodrum FK,
+37,Sun May 25 2025,,,Konyaspor,,,Alanyaspor,
+37,Sun May 25 2025,,,Trabzonspor,,,Samsunspor,
+37,Sun May 25 2025,,,Eyüpspor,,,Antalyaspor,
+37,Sun May 25 2025,,,İstanbul Başakşehir,,,Adana Demirspor,
+37,Sun May 25 2025,,,Gaziantep FK,,,Kasımpaşa SK,
+37,Sun May 25 2025,,,Göztepe,,,Galatasaray,
+38,Sun Jun 1 2025,,,Bodrum FK,,,Beşiktaş,
+38,Sun Jun 1 2025,,,Galatasaray,,,İstanbul Başakşehir,
+38,Sun Jun 1 2025,,,Çaykur Rizespor,,,Hatayspor,
+38,Sun Jun 1 2025,,,Fenerbahçe,,,Konyaspor,
+38,Sun Jun 1 2025,,,Samsunspor,,,Kayserispor,
+38,Sun Jun 1 2025,,,Adana Demirspor,,,Gaziantep FK,
+38,Sun Jun 1 2025,,,Antalyaspor,,,Trabzonspor,
+38,Sun Jun 1 2025,,,Kasımpaşa SK,,,Göztepe,
+38,Sun Jun 1 2025,,,Alanyaspor,,,Sivasspor,

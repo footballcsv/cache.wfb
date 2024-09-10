@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Aug 2 2024,20:30,1. FC Köln,1-2,0-2,Hamburger SV
-1,Sat Aug 3 2024,13:00,Karlsruher SC,3-2,1-2,1. FC Nürnberg
-1,Sat Aug 3 2024,13:00,Hannover 96,2-0,2-0,Jahn Regensburg
-1,Sat Aug 3 2024,13:00,Hertha BSC,1-2,0-1,SC Paderborn 07
-1,Sat Aug 3 2024,13:00,1. FC Magdeburg,0-0,0-0,SV 07 Elversberg
-1,Sat Aug 3 2024,20:30,FC Schalke 04,5-1,2-1,Eintracht Braunschweig
-1,Sun Aug 4 2024,13:30,SpVgg Greuther Fürth,3-1,1-1,Preußen Münster
-1,Sun Aug 4 2024,13:30,SSV Ulm 1846,1-2,0-0,1. FC Kaiserslautern
-1,Sun Aug 4 2024,13:30,SV Darmstadt 98,0-2,0-0,Fortuna Düsseldorf
-2,Fri Aug 9 2024,18:30,1. FC Kaiserslautern,2-2,1-2,SpVgg Greuther Fürth
-2,Fri Aug 9 2024,18:30,Jahn Regensburg,1-0,1-0,SSV Ulm 1846
-2,Sat Aug 10 2024,13:00,SV 07 Elversberg,2-2,0-1,1. FC Köln
-2,Sat Aug 10 2024,13:00,1. FC Nürnberg,3-1,0-1,FC Schalke 04
-2,Sat Aug 10 2024,20:30,Hamburger SV,1-1,1-0,Hertha BSC
-2,Sat Aug 10 2024,13:00,Fortuna Düsseldorf,0-0,0-0,Karlsruher SC
-2,Sun Aug 11 2024,13:30,Eintracht Braunschweig,1-3,0-1,1. FC Magdeburg
-2,Sun Aug 11 2024,13:30,Preußen Münster,0-0,0-0,Hannover 96
-2,Sun Aug 11 2024,13:30,SC Paderborn 07,3-1,0-1,SV Darmstadt 98
-3,Fri Aug 23 2024,18:30,Karlsruher SC,3-2,1-1,SV 07 Elversberg
-3,Fri Aug 23 2024,18:30,Hannover 96,1-0,0-0,Hamburger SV
-3,Sat Aug 24 2024,13:00,Hertha BSC,2-0,0-0,Jahn Regensburg
-3,Sat Aug 24 2024,13:00,Preußen Münster,0-1,0-0,1. FC Kaiserslautern
-3,Sat Aug 24 2024,20:30,1. FC Köln,5-0,2-0,Eintracht Braunschweig
-3,Sat Aug 24 2024,13:00,SpVgg Greuther Fürth,1-1,0-0,SC Paderborn 07
-3,Sun Aug 25 2024,13:30,1. FC Magdeburg,2-2,2-1,FC Schalke 04
-3,Sun Aug 25 2024,13:30,SSV Ulm 1846,1-2,1-0,Fortuna Düsseldorf
-3,Sun Aug 25 2024,13:30,SV Darmstadt 98,1-1,1-0,1. FC Nürnberg
-4,Fri Aug 30 2024,18:30,Fortuna Düsseldorf,1-0,0-0,Hannover 96
-4,Fri Aug 30 2024,18:30,Jahn Regensburg,0-4,0-1,SpVgg Greuther Fürth
-4,Sat Aug 31 2024,13:00,SV 07 Elversberg,4-0,2-0,SV Darmstadt 98
-4,Sat Aug 31 2024,13:00,1. FC Nürnberg,0-4,0-1,1. FC Magdeburg
-4,Sat Aug 31 2024,20:30,1. FC Kaiserslautern,3-4,2-1,Hertha BSC
-4,Sat Aug 31 2024,13:00,Hamburger SV,4-1,3-0,Preußen Münster
-4,Sun Sep 1 2024,13:30,FC Schalke 04,1-3,0-2,1. FC Köln
-4,Sun Sep 1 2024,13:30,Eintracht Braunschweig,1-2,1-0,Karlsruher SC
-4,Sun Sep 1 2024,13:30,SC Paderborn 07,0-0,0-0,SSV Ulm 1846
-5,Fri Sep 13 2024,18:30,Karlsruher SC,,,FC Schalke 04
-5,Fri Sep 13 2024,18:30,Preußen Münster,,,SC Paderborn 07
-5,Sat Sep 14 2024,13:00,Hannover 96,,,1. FC Kaiserslautern
-5,Sat Sep 14 2024,13:00,SSV Ulm 1846,,,1. FC Nürnberg
-5,Sat Sep 14 2024,20:30,1. FC Köln,,,1. FC Magdeburg
-5,Sat Sep 14 2024,13:00,SV Darmstadt 98,,,Eintracht Braunschweig
-5,Sun Sep 15 2024,13:30,Hamburger SV,,,Jahn Regensburg
-5,Sun Sep 15 2024,13:30,SpVgg Greuther Fürth,,,SV 07 Elversberg
-5,Sun Sep 15 2024,13:30,Hertha BSC,,,Fortuna Düsseldorf
-6,Fri Sep 20 2024,18:30,FC Schalke 04,,,SV Darmstadt 98
-6,Fri Sep 20 2024,18:30,SC Paderborn 07,,,Hannover 96
-6,Sat Sep 21 2024,13:00,Fortuna Düsseldorf,,,1. FC Köln
-6,Sat Sep 21 2024,13:00,1. FC Nürnberg,,,Hertha BSC
-6,Sat Sep 21 2024,13:00,Eintracht Braunschweig,,,SpVgg Greuther Fürth
-6,Sat Sep 21 2024,20:30,1. FC Kaiserslautern,,,Hamburger SV
-6,Sun Sep 22 2024,13:30,1. FC Magdeburg,,,Karlsruher SC
-6,Sun Sep 22 2024,13:30,Jahn Regensburg,,,Preußen Münster
-6,Sun Sep 22 2024,13:30,SV 07 Elversberg,,,SSV Ulm 1846
-7,Fri Sep 27 2024,18:30,SSV Ulm 1846,,,Eintracht Braunschweig
-7,Fri Sep 27 2024,18:30,SpVgg Greuther Fürth,,,Fortuna Düsseldorf
-7,Sat Sep 28 2024,13:00,SV Darmstadt 98,,,1. FC Magdeburg
-7,Sat Sep 28 2024,13:00,Hamburger SV,,,SC Paderborn 07
-7,Sat Sep 28 2024,13:00,Jahn Regensburg,,,1. FC Kaiserslautern
-7,Sat Sep 28 2024,20:30,Preußen Münster,,,FC Schalke 04
-7,Sun Sep 29 2024,13:30,Hannover 96,,,1. FC Nürnberg
-7,Sun Sep 29 2024,13:30,Hertha BSC,,,SV 07 Elversberg
-7,Sun Sep 29 2024,13:30,1. FC Köln,,,Karlsruher SC
-8,Fri Oct 4 2024,18:30,SC Paderborn 07,,,Jahn Regensburg
-8,Fri Oct 4 2024,18:30,Karlsruher SC,,,SV Darmstadt 98
-8,Sat Oct 5 2024,13:00,1. FC Köln,,,SSV Ulm 1846
-8,Sat Oct 5 2024,13:00,SV 07 Elversberg,,,1. FC Kaiserslautern
-8,Sat Oct 5 2024,13:00,1. FC Nürnberg,,,Preußen Münster
-8,Sat Oct 5 2024,20:30,FC Schalke 04,,,Hertha BSC
-8,Sun Oct 6 2024,13:30,1. FC Magdeburg,,,SpVgg Greuther Fürth
-8,Sun Oct 6 2024,13:30,Eintracht Braunschweig,,,Hannover 96
-8,Sun Oct 6 2024,13:30,Fortuna Düsseldorf,,,Hamburger SV
-9,Fri Oct 18 2024,18:30,Hertha BSC,,,Eintracht Braunschweig
-9,Fri Oct 18 2024,18:30,SV Darmstadt 98,,,1. FC Köln
-9,Sat Oct 19 2024,13:00,Hannover 96,,,FC Schalke 04
-9,Sat Oct 19 2024,13:00,Preußen Münster,,,SV 07 Elversberg
-9,Sat Oct 19 2024,13:00,Jahn Regensburg,,,Fortuna Düsseldorf
-9,Sat Oct 19 2024,20:30,1. FC Kaiserslautern,,,SC Paderborn 07
-9,Sun Oct 20 2024,13:30,SpVgg Greuther Fürth,,,1. FC Nürnberg
-9,Sun Oct 20 2024,13:30,SSV Ulm 1846,,,Karlsruher SC
-9,Sun Oct 20 2024,13:30,Hamburger SV,,,1. FC Magdeburg
-10,Fri Oct 25 2024,18:30,1. FC Köln,,,SC Paderborn 07
-10,Fri Oct 25 2024,18:30,1. FC Nürnberg,,,Jahn Regensburg
-10,Sat Oct 26 2024,13:00,FC Schalke 04,,,SpVgg Greuther Fürth
-10,Sat Oct 26 2024,13:00,SV 07 Elversberg,,,Hamburger SV
-10,Sat Oct 26 2024,20:30,Fortuna Düsseldorf,,,1. FC Kaiserslautern
-10,Sat Oct 26 2024,13:00,Karlsruher SC,,,Hertha BSC
-10,Sun Oct 27 2024,13:30,SV Darmstadt 98,,,SSV Ulm 1846
-10,Sun Oct 27 2024,13:30,1. FC Magdeburg,,,Hannover 96
-10,Sun Oct 27 2024,13:30,Eintracht Braunschweig,,,Preußen Münster
-11,Fri Nov 1 2024,18:30,Preußen Münster,,,Fortuna Düsseldorf
-11,Fri Nov 1 2024,18:30,SSV Ulm 1846,,,FC Schalke 04
-11,Sat Nov 2 2024,13:00,SpVgg Greuther Fürth,,,SV Darmstadt 98
-11,Sat Nov 2 2024,13:00,Jahn Regensburg,,,SV 07 Elversberg
-11,Sat Nov 2 2024,20:30,Hertha BSC,,,1. FC Köln
-11,Sat Nov 2 2024,13:00,Hannover 96,,,Karlsruher SC
-11,Sun Nov 3 2024,13:30,Hamburger SV,,,1. FC Nürnberg
-11,Sun Nov 3 2024,13:30,SC Paderborn 07,,,Eintracht Braunschweig
-11,Sun Nov 3 2024,13:30,1. FC Kaiserslautern,,,1. FC Magdeburg
-12,Fri Nov 8 2024,18:30,Eintracht Braunschweig,,,Hamburger SV
-12,Fri Nov 8 2024,18:30,1. FC Nürnberg,,,1. FC Kaiserslautern
-12,Sat Nov 9 2024,13:00,SV Darmstadt 98,,,Hertha BSC
-12,Sat Nov 9 2024,13:00,1. FC Magdeburg,,,SSV Ulm 1846
-12,Sat Nov 9 2024,20:30,Fortuna Düsseldorf,,,SC Paderborn 07
-12,Sat Nov 9 2024,13:00,1. FC Köln,,,SpVgg Greuther Fürth
-12,Sun Nov 10 2024,13:30,Karlsruher SC,,,Preußen Münster
-12,Sun Nov 10 2024,13:30,FC Schalke 04,,,Jahn Regensburg
-12,Sun Nov 10 2024,13:30,SV 07 Elversberg,,,Hannover 96
-13,Fri Nov 22 2024,18:30,Preußen Münster,,,1. FC Köln
-13,Fri Nov 22 2024,18:30,SC Paderborn 07,,,1. FC Nürnberg
-13,Sat Nov 23 2024,13:00,SpVgg Greuther Fürth,,,Karlsruher SC
-13,Sat Nov 23 2024,13:00,Hertha BSC,,,SSV Ulm 1846
-13,Sat Nov 23 2024,20:30,Hamburger SV,,,FC Schalke 04
-13,Sat Nov 23 2024,13:00,Fortuna Düsseldorf,,,SV 07 Elversberg
-13,Sun Nov 24 2024,13:30,Hannover 96,,,SV Darmstadt 98
-13,Sun Nov 24 2024,13:30,1. FC Kaiserslautern,,,Eintracht Braunschweig
-13,Sun Nov 24 2024,13:30,Jahn Regensburg,,,1. FC Magdeburg
-14,Fri Nov 29 2024,18:30,1. FC Magdeburg,,,Hertha BSC
-14,Fri Nov 29 2024,18:30,FC Schalke 04,,,1. FC Kaiserslautern
-14,Sat Nov 30 2024,13:00,1. FC Köln,,,Hannover 96
-14,Sat Nov 30 2024,13:00,SV 07 Elversberg,,,SC Paderborn 07
-14,Sat Nov 30 2024,13:00,Eintracht Braunschweig,,,Jahn Regensburg
-14,Sat Nov 30 2024,20:30,SV Darmstadt 98,,,Preußen Münster
-14,Sun Dec 1 2024,13:30,1. FC Nürnberg,,,Fortuna Düsseldorf
-14,Sun Dec 1 2024,13:30,SSV Ulm 1846,,,SpVgg Greuther Fürth
-14,Sun Dec 1 2024,13:30,Karlsruher SC,,,Hamburger SV
-15,Sat Dec 7 2024,,Fortuna Düsseldorf,,,Eintracht Braunschweig
-15,Sat Dec 7 2024,,Hamburger SV,,,SV Darmstadt 98
-15,Sat Dec 7 2024,,Hannover 96,,,SSV Ulm 1846
-15,Sat Dec 7 2024,,SC Paderborn 07,,,FC Schalke 04
-15,Sat Dec 7 2024,,SpVgg Greuther Fürth,,,Hertha BSC
-15,Sat Dec 7 2024,,SV 07 Elversberg,,,1. FC Nürnberg
-15,Sat Dec 7 2024,,1. FC Kaiserslautern,,,Karlsruher SC
-15,Sat Dec 7 2024,,Preußen Münster,,,1. FC Magdeburg
-15,Sat Dec 7 2024,,Jahn Regensburg,,,1. FC Köln
-16,Sat Dec 14 2024,,1. FC Köln,,,1. FC Nürnberg
-16,Sat Dec 14 2024,,SV Darmstadt 98,,,1. FC Kaiserslautern
-16,Sat Dec 14 2024,,Karlsruher SC,,,Jahn Regensburg
-16,Sat Dec 14 2024,,SpVgg Greuther Fürth,,,Hannover 96
-16,Sat Dec 14 2024,,Hertha BSC,,,Preußen Münster
-16,Sat Dec 14 2024,,FC Schalke 04,,,Fortuna Düsseldorf
-16,Sat Dec 14 2024,,1. FC Magdeburg,,,SC Paderborn 07
-16,Sat Dec 14 2024,,Eintracht Braunschweig,,,SV 07 Elversberg
-16,Sat Dec 14 2024,,SSV Ulm 1846,,,Hamburger SV
-17,Sat Dec 21 2024,,Fortuna Düsseldorf,,,1. FC Magdeburg
-17,Sat Dec 21 2024,,Hamburger SV,,,SpVgg Greuther Fürth
-17,Sat Dec 21 2024,,Hannover 96,,,Hertha BSC
-17,Sat Dec 21 2024,,SC Paderborn 07,,,Karlsruher SC
-17,Sat Dec 21 2024,,SV 07 Elversberg,,,FC Schalke 04
-17,Sat Dec 21 2024,,1. FC Nürnberg,,,Eintracht Braunschweig
-17,Sat Dec 21 2024,,1. FC Kaiserslautern,,,1. FC Köln
-17,Sat Dec 21 2024,,Preußen Münster,,,SSV Ulm 1846
-17,Sat Dec 21 2024,,Jahn Regensburg,,,SV Darmstadt 98
-18,Sat Jan 18 2025,,Fortuna Düsseldorf,,,SV Darmstadt 98
-18,Sat Jan 18 2025,,1. FC Nürnberg,,,Karlsruher SC
-18,Sat Jan 18 2025,,Jahn Regensburg,,,Hannover 96
-18,Sat Jan 18 2025,,Preußen Münster,,,SpVgg Greuther Fürth
-18,Sat Jan 18 2025,,SC Paderborn 07,,,Hertha BSC
-18,Sat Jan 18 2025,,Eintracht Braunschweig,,,FC Schalke 04
-18,Sat Jan 18 2025,,SV 07 Elversberg,,,1. FC Magdeburg
-18,Sat Jan 18 2025,,1. FC Kaiserslautern,,,SSV Ulm 1846
-18,Sat Jan 18 2025,,Hamburger SV,,,1. FC Köln
-19,Sat Jan 25 2025,,Karlsruher SC,,,Fortuna Düsseldorf
-19,Sat Jan 25 2025,,Hertha BSC,,,Hamburger SV
-19,Sat Jan 25 2025,,SV Darmstadt 98,,,SC Paderborn 07
-19,Sat Jan 25 2025,,1. FC Köln,,,SV 07 Elversberg
-19,Sat Jan 25 2025,,FC Schalke 04,,,1. FC Nürnberg
-19,Sat Jan 25 2025,,SpVgg Greuther Fürth,,,1. FC Kaiserslautern
-19,Sat Jan 25 2025,,1. FC Magdeburg,,,Eintracht Braunschweig
-19,Sat Jan 25 2025,,Hannover 96,,,Preußen Münster
-19,Sat Jan 25 2025,,SSV Ulm 1846,,,Jahn Regensburg
-20,Sat Feb 1 2025,,Eintracht Braunschweig,,,1. FC Köln
-20,Sat Feb 1 2025,,1. FC Nürnberg,,,SV Darmstadt 98
-20,Sat Feb 1 2025,,SV 07 Elversberg,,,Karlsruher SC
-20,Sat Feb 1 2025,,Hamburger SV,,,Hannover 96
-20,Sat Feb 1 2025,,SC Paderborn 07,,,SpVgg Greuther Fürth
-20,Sat Feb 1 2025,,Jahn Regensburg,,,Hertha BSC
-20,Sat Feb 1 2025,,FC Schalke 04,,,1. FC Magdeburg
-20,Sat Feb 1 2025,,Fortuna Düsseldorf,,,SSV Ulm 1846
-20,Sat Feb 1 2025,,1. FC Kaiserslautern,,,Preußen Münster
-21,Sat Feb 8 2025,,Hannover 96,,,Fortuna Düsseldorf
-21,Sat Feb 8 2025,,Preußen Münster,,,Hamburger SV
-21,Sat Feb 8 2025,,SSV Ulm 1846,,,SC Paderborn 07
-21,Sat Feb 8 2025,,1. FC Köln,,,FC Schalke 04
-21,Sat Feb 8 2025,,SV Darmstadt 98,,,SV 07 Elversberg
-21,Sat Feb 8 2025,,1. FC Magdeburg,,,1. FC Nürnberg
-21,Sat Feb 8 2025,,Hertha BSC,,,1. FC Kaiserslautern
-21,Sat Feb 8 2025,,Karlsruher SC,,,Eintracht Braunschweig
-21,Sat Feb 8 2025,,SpVgg Greuther Fürth,,,Jahn Regensburg
-22,Sat Feb 15 2025,,1. FC Magdeburg,,,1. FC Köln
-22,Sat Feb 15 2025,,Eintracht Braunschweig,,,SV Darmstadt 98
-22,Sat Feb 15 2025,,Jahn Regensburg,,,Hamburger SV
-22,Sat Feb 15 2025,,FC Schalke 04,,,Karlsruher SC
-22,Sat Feb 15 2025,,1. FC Kaiserslautern,,,Hannover 96
-22,Sat Feb 15 2025,,SV 07 Elversberg,,,SpVgg Greuther Fürth
-22,Sat Feb 15 2025,,Fortuna Düsseldorf,,,Hertha BSC
-22,Sat Feb 15 2025,,1. FC Nürnberg,,,SSV Ulm 1846
-22,Sat Feb 15 2025,,SC Paderborn 07,,,Preußen Münster
-23,Sat Feb 22 2025,,1. FC Köln,,,Fortuna Düsseldorf
-23,Sat Feb 22 2025,,Hannover 96,,,SC Paderborn 07
-23,Sat Feb 22 2025,,SV Darmstadt 98,,,FC Schalke 04
-23,Sat Feb 22 2025,,SSV Ulm 1846,,,SV 07 Elversberg
-23,Sat Feb 22 2025,,Hertha BSC,,,1. FC Nürnberg
-23,Sat Feb 22 2025,,Hamburger SV,,,1. FC Kaiserslautern
-23,Sat Feb 22 2025,,Karlsruher SC,,,1. FC Magdeburg
-23,Sat Feb 22 2025,,SpVgg Greuther Fürth,,,Eintracht Braunschweig
-23,Sat Feb 22 2025,,Preußen Münster,,,Jahn Regensburg
-24,Sat Mar 1 2025,,Karlsruher SC,,,1. FC Köln
-24,Sat Mar 1 2025,,1. FC Magdeburg,,,SV Darmstadt 98
-24,Sat Mar 1 2025,,SC Paderborn 07,,,Hamburger SV
-24,Sat Mar 1 2025,,1. FC Nürnberg,,,Hannover 96
-24,Sat Mar 1 2025,,Fortuna Düsseldorf,,,SpVgg Greuther Fürth
-24,Sat Mar 1 2025,,SV 07 Elversberg,,,Hertha BSC
-24,Sat Mar 1 2025,,Eintracht Braunschweig,,,SSV Ulm 1846
-24,Sat Mar 1 2025,,FC Schalke 04,,,Preußen Münster
-24,Sat Mar 1 2025,,1. FC Kaiserslautern,,,Jahn Regensburg
-25,Sat Mar 8 2025,,SSV Ulm 1846,,,1. FC Köln
-25,Sat Mar 8 2025,,Hamburger SV,,,Fortuna Düsseldorf
-25,Sat Mar 8 2025,,SV Darmstadt 98,,,Karlsruher SC
-25,Sat Mar 8 2025,,Jahn Regensburg,,,SC Paderborn 07
-25,Sat Mar 8 2025,,Hertha BSC,,,FC Schalke 04
-25,Sat Mar 8 2025,,1. FC Kaiserslautern,,,SV 07 Elversberg
-25,Sat Mar 8 2025,,Preußen Münster,,,1. FC Nürnberg
-25,Sat Mar 8 2025,,SpVgg Greuther Fürth,,,1. FC Magdeburg
-25,Sat Mar 8 2025,,Hannover 96,,,Eintracht Braunschweig
-26,Sat Mar 15 2025,,1. FC Köln,,,SV Darmstadt 98
-26,Sat Mar 15 2025,,1. FC Magdeburg,,,Hamburger SV
-26,Sat Mar 15 2025,,FC Schalke 04,,,Hannover 96
-26,Sat Mar 15 2025,,1. FC Nürnberg,,,SpVgg Greuther Fürth
-26,Sat Mar 15 2025,,Eintracht Braunschweig,,,Hertha BSC
-26,Sat Mar 15 2025,,SC Paderborn 07,,,1. FC Kaiserslautern
-26,Sat Mar 15 2025,,Karlsruher SC,,,SSV Ulm 1846
-26,Sat Mar 15 2025,,SV 07 Elversberg,,,Preußen Münster
-26,Sat Mar 15 2025,,Fortuna Düsseldorf,,,Jahn Regensburg
-27,Sat Mar 29 2025,,SC Paderborn 07,,,1. FC Köln
-27,Sat Mar 29 2025,,SSV Ulm 1846,,,SV Darmstadt 98
-27,Sat Mar 29 2025,,1. FC Kaiserslautern,,,Fortuna Düsseldorf
-27,Sat Mar 29 2025,,Hertha BSC,,,Karlsruher SC
-27,Sat Mar 29 2025,,SpVgg Greuther Fürth,,,FC Schalke 04
-27,Sat Mar 29 2025,,Hamburger SV,,,SV 07 Elversberg
-27,Sat Mar 29 2025,,Jahn Regensburg,,,1. FC Nürnberg
-27,Sat Mar 29 2025,,Hannover 96,,,1. FC Magdeburg
-27,Sat Mar 29 2025,,Preußen Münster,,,Eintracht Braunschweig
-28,Sat Apr 5 2025,,1. FC Nürnberg,,,Hamburger SV
-28,Sat Apr 5 2025,,Karlsruher SC,,,Hannover 96
-28,Sat Apr 5 2025,,Eintracht Braunschweig,,,SC Paderborn 07
-28,Sat Apr 5 2025,,SV Darmstadt 98,,,SpVgg Greuther Fürth
-28,Sat Apr 5 2025,,1. FC Köln,,,Hertha BSC
-28,Sat Apr 5 2025,,1. FC Magdeburg,,,1. FC Kaiserslautern
-28,Sat Apr 5 2025,,FC Schalke 04,,,SSV Ulm 1846
-28,Sat Apr 5 2025,,Fortuna Düsseldorf,,,Preußen Münster
-28,Sat Apr 5 2025,,SV 07 Elversberg,,,Jahn Regensburg
-29,Sat Apr 12 2025,,SpVgg Greuther Fürth,,,1. FC Köln
-29,Sat Apr 12 2025,,Hertha BSC,,,SV Darmstadt 98
-29,Sat Apr 12 2025,,SC Paderborn 07,,,Fortuna Düsseldorf
-29,Sat Apr 12 2025,,Preußen Münster,,,Karlsruher SC
-29,Sat Apr 12 2025,,Jahn Regensburg,,,FC Schalke 04
-29,Sat Apr 12 2025,,Hannover 96,,,SV 07 Elversberg
-29,Sat Apr 12 2025,,1. FC Kaiserslautern,,,1. FC Nürnberg
-29,Sat Apr 12 2025,,SSV Ulm 1846,,,1. FC Magdeburg
-29,Sat Apr 12 2025,,Hamburger SV,,,Eintracht Braunschweig
-30,Sat Apr 19 2025,,SV 07 Elversberg,,,Fortuna Düsseldorf
-30,Sat Apr 19 2025,,FC Schalke 04,,,Hamburger SV
-30,Sat Apr 19 2025,,SV Darmstadt 98,,,Hannover 96
-30,Sat Apr 19 2025,,1. FC Nürnberg,,,SC Paderborn 07
-30,Sat Apr 19 2025,,Karlsruher SC,,,SpVgg Greuther Fürth
-30,Sat Apr 19 2025,,SSV Ulm 1846,,,Hertha BSC
-30,Sat Apr 19 2025,,Eintracht Braunschweig,,,1. FC Kaiserslautern
-30,Sat Apr 19 2025,,1. FC Köln,,,Preußen Münster
-30,Sat Apr 19 2025,,1. FC Magdeburg,,,Jahn Regensburg
-31,Sat Apr 26 2025,,Hannover 96,,,1. FC Köln
-31,Sat Apr 26 2025,,Preußen Münster,,,SV Darmstadt 98
-31,Sat Apr 26 2025,,Hamburger SV,,,Karlsruher SC
-31,Sat Apr 26 2025,,1. FC Kaiserslautern,,,FC Schalke 04
-31,Sat Apr 26 2025,,SC Paderborn 07,,,SV 07 Elversberg
-31,Sat Apr 26 2025,,Fortuna Düsseldorf,,,1. FC Nürnberg
-31,Sat Apr 26 2025,,Hertha BSC,,,1. FC Magdeburg
-31,Sat Apr 26 2025,,Jahn Regensburg,,,Eintracht Braunschweig
-31,Sat Apr 26 2025,,SpVgg Greuther Fürth,,,SSV Ulm 1846
-32,Sat May 3 2025,,Eintracht Braunschweig,,,Fortuna Düsseldorf
-32,Sat May 3 2025,,SV Darmstadt 98,,,Hamburger SV
-32,Sat May 3 2025,,SSV Ulm 1846,,,Hannover 96
-32,Sat May 3 2025,,FC Schalke 04,,,SC Paderborn 07
-32,Sat May 3 2025,,Hertha BSC,,,SpVgg Greuther Fürth
-32,Sat May 3 2025,,1. FC Nürnberg,,,SV 07 Elversberg
-32,Sat May 3 2025,,Karlsruher SC,,,1. FC Kaiserslautern
-32,Sat May 3 2025,,1. FC Magdeburg,,,Preußen Münster
-32,Sat May 3 2025,,1. FC Köln,,,Jahn Regensburg
-33,Sat May 10 2025,,1. FC Nürnberg,,,1. FC Köln
-33,Sat May 10 2025,,1. FC Kaiserslautern,,,SV Darmstadt 98
-33,Sat May 10 2025,,Jahn Regensburg,,,Karlsruher SC
-33,Sat May 10 2025,,Hannover 96,,,SpVgg Greuther Fürth
-33,Sat May 10 2025,,Preußen Münster,,,Hertha BSC
-33,Sat May 10 2025,,Fortuna Düsseldorf,,,FC Schalke 04
-33,Sat May 10 2025,,SC Paderborn 07,,,1. FC Magdeburg
-33,Sat May 10 2025,,SV 07 Elversberg,,,Eintracht Braunschweig
-33,Sat May 10 2025,,Hamburger SV,,,SSV Ulm 1846
-34,Sun May 18 2025,15:30,1. FC Magdeburg,,,Fortuna Düsseldorf
-34,Sun May 18 2025,15:30,SpVgg Greuther Fürth,,,Hamburger SV
-34,Sun May 18 2025,15:30,Hertha BSC,,,Hannover 96
-34,Sun May 18 2025,15:30,Karlsruher SC,,,SC Paderborn 07
-34,Sun May 18 2025,15:30,FC Schalke 04,,,SV 07 Elversberg
-34,Sun May 18 2025,15:30,Eintracht Braunschweig,,,1. FC Nürnberg
-34,Sun May 18 2025,15:30,1. FC Köln,,,1. FC Kaiserslautern
-34,Sun May 18 2025,15:30,SSV Ulm 1846,,,Preußen Münster
-34,Sun May 18 2025,15:30,SV Darmstadt 98,,,Jahn Regensburg
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 2 2024,20:30,CEST/+0200,1. FC Köln,1-2,0-2,Hamburger SV,2024-08-02T18:30Z
+1,Sat Aug 3 2024,13:00,CEST/+0200,Karlsruher SC,3-2,1-2,1. FC Nürnberg,2024-08-03T11:00Z
+1,Sat Aug 3 2024,13:00,CEST/+0200,Hannover 96,2-0,2-0,Jahn Regensburg,2024-08-03T11:00Z
+1,Sat Aug 3 2024,13:00,CEST/+0200,Hertha BSC,1-2,0-1,SC Paderborn 07,2024-08-03T11:00Z
+1,Sat Aug 3 2024,13:00,CEST/+0200,1. FC Magdeburg,0-0,0-0,SV 07 Elversberg,2024-08-03T11:00Z
+1,Sat Aug 3 2024,20:30,CEST/+0200,FC Schalke 04,5-1,2-1,Eintracht Braunschweig,2024-08-03T18:30Z
+1,Sun Aug 4 2024,13:30,CEST/+0200,SpVgg Greuther Fürth,3-1,1-1,Preußen Münster,2024-08-04T11:30Z
+1,Sun Aug 4 2024,13:30,CEST/+0200,SSV Ulm 1846,1-2,0-0,1. FC Kaiserslautern,2024-08-04T11:30Z
+1,Sun Aug 4 2024,13:30,CEST/+0200,SV Darmstadt 98,0-2,0-0,Fortuna Düsseldorf,2024-08-04T11:30Z
+2,Fri Aug 9 2024,18:30,CEST/+0200,1. FC Kaiserslautern,2-2,1-2,SpVgg Greuther Fürth,2024-08-09T16:30Z
+2,Fri Aug 9 2024,18:30,CEST/+0200,Jahn Regensburg,1-0,1-0,SSV Ulm 1846,2024-08-09T16:30Z
+2,Sat Aug 10 2024,13:00,CEST/+0200,SV 07 Elversberg,2-2,0-1,1. FC Köln,2024-08-10T11:00Z
+2,Sat Aug 10 2024,13:00,CEST/+0200,1. FC Nürnberg,3-1,0-1,FC Schalke 04,2024-08-10T11:00Z
+2,Sat Aug 10 2024,20:30,CEST/+0200,Hamburger SV,1-1,1-0,Hertha BSC,2024-08-10T18:30Z
+2,Sat Aug 10 2024,13:00,CEST/+0200,Fortuna Düsseldorf,0-0,0-0,Karlsruher SC,2024-08-10T11:00Z
+2,Sun Aug 11 2024,13:30,CEST/+0200,Eintracht Braunschweig,1-3,0-1,1. FC Magdeburg,2024-08-11T11:30Z
+2,Sun Aug 11 2024,13:30,CEST/+0200,Preußen Münster,0-0,0-0,Hannover 96,2024-08-11T11:30Z
+2,Sun Aug 11 2024,13:30,CEST/+0200,SC Paderborn 07,3-1,0-1,SV Darmstadt 98,2024-08-11T11:30Z
+3,Fri Aug 23 2024,18:30,CEST/+0200,Karlsruher SC,3-2,1-1,SV 07 Elversberg,2024-08-23T16:30Z
+3,Fri Aug 23 2024,18:30,CEST/+0200,Hannover 96,1-0,0-0,Hamburger SV,2024-08-23T16:30Z
+3,Sat Aug 24 2024,13:00,CEST/+0200,Hertha BSC,2-0,0-0,Jahn Regensburg,2024-08-24T11:00Z
+3,Sat Aug 24 2024,13:00,CEST/+0200,Preußen Münster,0-1,0-0,1. FC Kaiserslautern,2024-08-24T11:00Z
+3,Sat Aug 24 2024,20:30,CEST/+0200,1. FC Köln,5-0,2-0,Eintracht Braunschweig,2024-08-24T18:30Z
+3,Sat Aug 24 2024,13:00,CEST/+0200,SpVgg Greuther Fürth,1-1,0-0,SC Paderborn 07,2024-08-24T11:00Z
+3,Sun Aug 25 2024,13:30,CEST/+0200,1. FC Magdeburg,2-2,2-1,FC Schalke 04,2024-08-25T11:30Z
+3,Sun Aug 25 2024,13:30,CEST/+0200,SSV Ulm 1846,1-2,1-0,Fortuna Düsseldorf,2024-08-25T11:30Z
+3,Sun Aug 25 2024,13:30,CEST/+0200,SV Darmstadt 98,1-1,1-0,1. FC Nürnberg,2024-08-25T11:30Z
+4,Fri Aug 30 2024,18:30,CEST/+0200,Fortuna Düsseldorf,1-0,0-0,Hannover 96,2024-08-30T16:30Z
+4,Fri Aug 30 2024,18:30,CEST/+0200,Jahn Regensburg,0-4,0-1,SpVgg Greuther Fürth,2024-08-30T16:30Z
+4,Sat Aug 31 2024,13:00,CEST/+0200,SV 07 Elversberg,4-0,2-0,SV Darmstadt 98,2024-08-31T11:00Z
+4,Sat Aug 31 2024,13:00,CEST/+0200,1. FC Nürnberg,0-4,0-1,1. FC Magdeburg,2024-08-31T11:00Z
+4,Sat Aug 31 2024,20:30,CEST/+0200,1. FC Kaiserslautern,3-4,2-1,Hertha BSC,2024-08-31T18:30Z
+4,Sat Aug 31 2024,13:00,CEST/+0200,Hamburger SV,4-1,3-0,Preußen Münster,2024-08-31T11:00Z
+4,Sun Sep 1 2024,13:30,CEST/+0200,FC Schalke 04,1-3,0-2,1. FC Köln,2024-09-01T11:30Z
+4,Sun Sep 1 2024,13:30,CEST/+0200,Eintracht Braunschweig,1-2,1-0,Karlsruher SC,2024-09-01T11:30Z
+4,Sun Sep 1 2024,13:30,CEST/+0200,SC Paderborn 07,0-0,0-0,SSV Ulm 1846,2024-09-01T11:30Z
+5,Fri Sep 13 2024,18:30,CEST/+0200,Karlsruher SC,,,FC Schalke 04,2024-09-13T16:30Z
+5,Fri Sep 13 2024,18:30,CEST/+0200,Preußen Münster,,,SC Paderborn 07,2024-09-13T16:30Z
+5,Sat Sep 14 2024,13:00,CEST/+0200,Hannover 96,,,1. FC Kaiserslautern,2024-09-14T11:00Z
+5,Sat Sep 14 2024,13:00,CEST/+0200,SSV Ulm 1846,,,1. FC Nürnberg,2024-09-14T11:00Z
+5,Sat Sep 14 2024,20:30,CEST/+0200,1. FC Köln,,,1. FC Magdeburg,2024-09-14T18:30Z
+5,Sat Sep 14 2024,13:00,CEST/+0200,SV Darmstadt 98,,,Eintracht Braunschweig,2024-09-14T11:00Z
+5,Sun Sep 15 2024,13:30,CEST/+0200,Hamburger SV,,,Jahn Regensburg,2024-09-15T11:30Z
+5,Sun Sep 15 2024,13:30,CEST/+0200,SpVgg Greuther Fürth,,,SV 07 Elversberg,2024-09-15T11:30Z
+5,Sun Sep 15 2024,13:30,CEST/+0200,Hertha BSC,,,Fortuna Düsseldorf,2024-09-15T11:30Z
+6,Fri Sep 20 2024,18:30,CEST/+0200,FC Schalke 04,,,SV Darmstadt 98,2024-09-20T16:30Z
+6,Fri Sep 20 2024,18:30,CEST/+0200,SC Paderborn 07,,,Hannover 96,2024-09-20T16:30Z
+6,Sat Sep 21 2024,13:00,CEST/+0200,Fortuna Düsseldorf,,,1. FC Köln,2024-09-21T11:00Z
+6,Sat Sep 21 2024,13:00,CEST/+0200,1. FC Nürnberg,,,Hertha BSC,2024-09-21T11:00Z
+6,Sat Sep 21 2024,13:00,CEST/+0200,Eintracht Braunschweig,,,SpVgg Greuther Fürth,2024-09-21T11:00Z
+6,Sat Sep 21 2024,20:30,CEST/+0200,1. FC Kaiserslautern,,,Hamburger SV,2024-09-21T18:30Z
+6,Sun Sep 22 2024,13:30,CEST/+0200,1. FC Magdeburg,,,Karlsruher SC,2024-09-22T11:30Z
+6,Sun Sep 22 2024,13:30,CEST/+0200,Jahn Regensburg,,,Preußen Münster,2024-09-22T11:30Z
+6,Sun Sep 22 2024,13:30,CEST/+0200,SV 07 Elversberg,,,SSV Ulm 1846,2024-09-22T11:30Z
+7,Fri Sep 27 2024,18:30,CEST/+0200,SSV Ulm 1846,,,Eintracht Braunschweig,2024-09-27T16:30Z
+7,Fri Sep 27 2024,18:30,CEST/+0200,SpVgg Greuther Fürth,,,Fortuna Düsseldorf,2024-09-27T16:30Z
+7,Sat Sep 28 2024,13:00,CEST/+0200,SV Darmstadt 98,,,1. FC Magdeburg,2024-09-28T11:00Z
+7,Sat Sep 28 2024,13:00,CEST/+0200,Hamburger SV,,,SC Paderborn 07,2024-09-28T11:00Z
+7,Sat Sep 28 2024,13:00,CEST/+0200,Jahn Regensburg,,,1. FC Kaiserslautern,2024-09-28T11:00Z
+7,Sat Sep 28 2024,20:30,CEST/+0200,Preußen Münster,,,FC Schalke 04,2024-09-28T18:30Z
+7,Sun Sep 29 2024,13:30,CEST/+0200,Hannover 96,,,1. FC Nürnberg,2024-09-29T11:30Z
+7,Sun Sep 29 2024,13:30,CEST/+0200,Hertha BSC,,,SV 07 Elversberg,2024-09-29T11:30Z
+7,Sun Sep 29 2024,13:30,CEST/+0200,1. FC Köln,,,Karlsruher SC,2024-09-29T11:30Z
+8,Fri Oct 4 2024,18:30,CEST/+0200,SC Paderborn 07,,,Jahn Regensburg,2024-10-04T16:30Z
+8,Fri Oct 4 2024,18:30,CEST/+0200,Karlsruher SC,,,SV Darmstadt 98,2024-10-04T16:30Z
+8,Sat Oct 5 2024,13:00,CEST/+0200,1. FC Köln,,,SSV Ulm 1846,2024-10-05T11:00Z
+8,Sat Oct 5 2024,13:00,CEST/+0200,SV 07 Elversberg,,,1. FC Kaiserslautern,2024-10-05T11:00Z
+8,Sat Oct 5 2024,13:00,CEST/+0200,1. FC Nürnberg,,,Preußen Münster,2024-10-05T11:00Z
+8,Sat Oct 5 2024,20:30,CEST/+0200,FC Schalke 04,,,Hertha BSC,2024-10-05T18:30Z
+8,Sun Oct 6 2024,13:30,CEST/+0200,1. FC Magdeburg,,,SpVgg Greuther Fürth,2024-10-06T11:30Z
+8,Sun Oct 6 2024,13:30,CEST/+0200,Eintracht Braunschweig,,,Hannover 96,2024-10-06T11:30Z
+8,Sun Oct 6 2024,13:30,CEST/+0200,Fortuna Düsseldorf,,,Hamburger SV,2024-10-06T11:30Z
+9,Fri Oct 18 2024,18:30,CEST/+0200,Hertha BSC,,,Eintracht Braunschweig,2024-10-18T16:30Z
+9,Fri Oct 18 2024,18:30,CEST/+0200,SV Darmstadt 98,,,1. FC Köln,2024-10-18T16:30Z
+9,Sat Oct 19 2024,13:00,CEST/+0200,Hannover 96,,,FC Schalke 04,2024-10-19T11:00Z
+9,Sat Oct 19 2024,13:00,CEST/+0200,Preußen Münster,,,SV 07 Elversberg,2024-10-19T11:00Z
+9,Sat Oct 19 2024,13:00,CEST/+0200,Jahn Regensburg,,,Fortuna Düsseldorf,2024-10-19T11:00Z
+9,Sat Oct 19 2024,20:30,CEST/+0200,1. FC Kaiserslautern,,,SC Paderborn 07,2024-10-19T18:30Z
+9,Sun Oct 20 2024,13:30,CEST/+0200,SpVgg Greuther Fürth,,,1. FC Nürnberg,2024-10-20T11:30Z
+9,Sun Oct 20 2024,13:30,CEST/+0200,SSV Ulm 1846,,,Karlsruher SC,2024-10-20T11:30Z
+9,Sun Oct 20 2024,13:30,CEST/+0200,Hamburger SV,,,1. FC Magdeburg,2024-10-20T11:30Z
+10,Fri Oct 25 2024,18:30,CEST/+0200,1. FC Köln,,,SC Paderborn 07,2024-10-25T16:30Z
+10,Fri Oct 25 2024,18:30,CEST/+0200,1. FC Nürnberg,,,Jahn Regensburg,2024-10-25T16:30Z
+10,Sat Oct 26 2024,13:00,CEST/+0200,FC Schalke 04,,,SpVgg Greuther Fürth,2024-10-26T11:00Z
+10,Sat Oct 26 2024,13:00,CEST/+0200,SV 07 Elversberg,,,Hamburger SV,2024-10-26T11:00Z
+10,Sat Oct 26 2024,20:30,CEST/+0200,Fortuna Düsseldorf,,,1. FC Kaiserslautern,2024-10-26T18:30Z
+10,Sat Oct 26 2024,13:00,CEST/+0200,Karlsruher SC,,,Hertha BSC,2024-10-26T11:00Z
+10,Sun Oct 27 2024,13:30,CET/+0100,SV Darmstadt 98,,,SSV Ulm 1846,2024-10-27T12:30Z
+10,Sun Oct 27 2024,13:30,CET/+0100,1. FC Magdeburg,,,Hannover 96,2024-10-27T12:30Z
+10,Sun Oct 27 2024,13:30,CET/+0100,Eintracht Braunschweig,,,Preußen Münster,2024-10-27T12:30Z
+11,Fri Nov 1 2024,18:30,CET/+0100,Preußen Münster,,,Fortuna Düsseldorf,2024-11-01T17:30Z
+11,Fri Nov 1 2024,18:30,CET/+0100,SSV Ulm 1846,,,FC Schalke 04,2024-11-01T17:30Z
+11,Sat Nov 2 2024,13:00,CET/+0100,SpVgg Greuther Fürth,,,SV Darmstadt 98,2024-11-02T12:00Z
+11,Sat Nov 2 2024,13:00,CET/+0100,Jahn Regensburg,,,SV 07 Elversberg,2024-11-02T12:00Z
+11,Sat Nov 2 2024,20:30,CET/+0100,Hertha BSC,,,1. FC Köln,2024-11-02T19:30Z
+11,Sat Nov 2 2024,13:00,CET/+0100,Hannover 96,,,Karlsruher SC,2024-11-02T12:00Z
+11,Sun Nov 3 2024,13:30,CET/+0100,Hamburger SV,,,1. FC Nürnberg,2024-11-03T12:30Z
+11,Sun Nov 3 2024,13:30,CET/+0100,SC Paderborn 07,,,Eintracht Braunschweig,2024-11-03T12:30Z
+11,Sun Nov 3 2024,13:30,CET/+0100,1. FC Kaiserslautern,,,1. FC Magdeburg,2024-11-03T12:30Z
+12,Fri Nov 8 2024,18:30,CET/+0100,Eintracht Braunschweig,,,Hamburger SV,2024-11-08T17:30Z
+12,Fri Nov 8 2024,18:30,CET/+0100,1. FC Nürnberg,,,1. FC Kaiserslautern,2024-11-08T17:30Z
+12,Sat Nov 9 2024,13:00,CET/+0100,SV Darmstadt 98,,,Hertha BSC,2024-11-09T12:00Z
+12,Sat Nov 9 2024,13:00,CET/+0100,1. FC Magdeburg,,,SSV Ulm 1846,2024-11-09T12:00Z
+12,Sat Nov 9 2024,20:30,CET/+0100,Fortuna Düsseldorf,,,SC Paderborn 07,2024-11-09T19:30Z
+12,Sat Nov 9 2024,13:00,CET/+0100,1. FC Köln,,,SpVgg Greuther Fürth,2024-11-09T12:00Z
+12,Sun Nov 10 2024,13:30,CET/+0100,Karlsruher SC,,,Preußen Münster,2024-11-10T12:30Z
+12,Sun Nov 10 2024,13:30,CET/+0100,FC Schalke 04,,,Jahn Regensburg,2024-11-10T12:30Z
+12,Sun Nov 10 2024,13:30,CET/+0100,SV 07 Elversberg,,,Hannover 96,2024-11-10T12:30Z
+13,Fri Nov 22 2024,18:30,CET/+0100,Preußen Münster,,,1. FC Köln,2024-11-22T17:30Z
+13,Fri Nov 22 2024,18:30,CET/+0100,SC Paderborn 07,,,1. FC Nürnberg,2024-11-22T17:30Z
+13,Sat Nov 23 2024,13:00,CET/+0100,SpVgg Greuther Fürth,,,Karlsruher SC,2024-11-23T12:00Z
+13,Sat Nov 23 2024,13:00,CET/+0100,Hertha BSC,,,SSV Ulm 1846,2024-11-23T12:00Z
+13,Sat Nov 23 2024,20:30,CET/+0100,Hamburger SV,,,FC Schalke 04,2024-11-23T19:30Z
+13,Sat Nov 23 2024,13:00,CET/+0100,Fortuna Düsseldorf,,,SV 07 Elversberg,2024-11-23T12:00Z
+13,Sun Nov 24 2024,13:30,CET/+0100,Hannover 96,,,SV Darmstadt 98,2024-11-24T12:30Z
+13,Sun Nov 24 2024,13:30,CET/+0100,1. FC Kaiserslautern,,,Eintracht Braunschweig,2024-11-24T12:30Z
+13,Sun Nov 24 2024,13:30,CET/+0100,Jahn Regensburg,,,1. FC Magdeburg,2024-11-24T12:30Z
+14,Fri Nov 29 2024,18:30,CET/+0100,1. FC Magdeburg,,,Hertha BSC,2024-11-29T17:30Z
+14,Fri Nov 29 2024,18:30,CET/+0100,FC Schalke 04,,,1. FC Kaiserslautern,2024-11-29T17:30Z
+14,Sat Nov 30 2024,13:00,CET/+0100,1. FC Köln,,,Hannover 96,2024-11-30T12:00Z
+14,Sat Nov 30 2024,13:00,CET/+0100,SV 07 Elversberg,,,SC Paderborn 07,2024-11-30T12:00Z
+14,Sat Nov 30 2024,13:00,CET/+0100,Eintracht Braunschweig,,,Jahn Regensburg,2024-11-30T12:00Z
+14,Sat Nov 30 2024,20:30,CET/+0100,SV Darmstadt 98,,,Preußen Münster,2024-11-30T19:30Z
+14,Sun Dec 1 2024,13:30,CET/+0100,1. FC Nürnberg,,,Fortuna Düsseldorf,2024-12-01T12:30Z
+14,Sun Dec 1 2024,13:30,CET/+0100,SSV Ulm 1846,,,SpVgg Greuther Fürth,2024-12-01T12:30Z
+14,Sun Dec 1 2024,13:30,CET/+0100,Karlsruher SC,,,Hamburger SV,2024-12-01T12:30Z
+15,Sat Dec 7 2024,,,Fortuna Düsseldorf,,,Eintracht Braunschweig,
+15,Sat Dec 7 2024,,,Hamburger SV,,,SV Darmstadt 98,
+15,Sat Dec 7 2024,,,Hannover 96,,,SSV Ulm 1846,
+15,Sat Dec 7 2024,,,SC Paderborn 07,,,FC Schalke 04,
+15,Sat Dec 7 2024,,,SpVgg Greuther Fürth,,,Hertha BSC,
+15,Sat Dec 7 2024,,,SV 07 Elversberg,,,1. FC Nürnberg,
+15,Sat Dec 7 2024,,,1. FC Kaiserslautern,,,Karlsruher SC,
+15,Sat Dec 7 2024,,,Preußen Münster,,,1. FC Magdeburg,
+15,Sat Dec 7 2024,,,Jahn Regensburg,,,1. FC Köln,
+16,Sat Dec 14 2024,,,1. FC Köln,,,1. FC Nürnberg,
+16,Sat Dec 14 2024,,,SV Darmstadt 98,,,1. FC Kaiserslautern,
+16,Sat Dec 14 2024,,,Karlsruher SC,,,Jahn Regensburg,
+16,Sat Dec 14 2024,,,SpVgg Greuther Fürth,,,Hannover 96,
+16,Sat Dec 14 2024,,,Hertha BSC,,,Preußen Münster,
+16,Sat Dec 14 2024,,,FC Schalke 04,,,Fortuna Düsseldorf,
+16,Sat Dec 14 2024,,,1. FC Magdeburg,,,SC Paderborn 07,
+16,Sat Dec 14 2024,,,Eintracht Braunschweig,,,SV 07 Elversberg,
+16,Sat Dec 14 2024,,,SSV Ulm 1846,,,Hamburger SV,
+17,Sat Dec 21 2024,,,Fortuna Düsseldorf,,,1. FC Magdeburg,
+17,Sat Dec 21 2024,,,Hamburger SV,,,SpVgg Greuther Fürth,
+17,Sat Dec 21 2024,,,Hannover 96,,,Hertha BSC,
+17,Sat Dec 21 2024,,,SC Paderborn 07,,,Karlsruher SC,
+17,Sat Dec 21 2024,,,SV 07 Elversberg,,,FC Schalke 04,
+17,Sat Dec 21 2024,,,1. FC Nürnberg,,,Eintracht Braunschweig,
+17,Sat Dec 21 2024,,,1. FC Kaiserslautern,,,1. FC Köln,
+17,Sat Dec 21 2024,,,Preußen Münster,,,SSV Ulm 1846,
+17,Sat Dec 21 2024,,,Jahn Regensburg,,,SV Darmstadt 98,
+18,Sat Jan 18 2025,,,Fortuna Düsseldorf,,,SV Darmstadt 98,
+18,Sat Jan 18 2025,,,1. FC Nürnberg,,,Karlsruher SC,
+18,Sat Jan 18 2025,,,Jahn Regensburg,,,Hannover 96,
+18,Sat Jan 18 2025,,,Preußen Münster,,,SpVgg Greuther Fürth,
+18,Sat Jan 18 2025,,,SC Paderborn 07,,,Hertha BSC,
+18,Sat Jan 18 2025,,,Eintracht Braunschweig,,,FC Schalke 04,
+18,Sat Jan 18 2025,,,SV 07 Elversberg,,,1. FC Magdeburg,
+18,Sat Jan 18 2025,,,1. FC Kaiserslautern,,,SSV Ulm 1846,
+18,Sat Jan 18 2025,,,Hamburger SV,,,1. FC Köln,
+19,Sat Jan 25 2025,,,Karlsruher SC,,,Fortuna Düsseldorf,
+19,Sat Jan 25 2025,,,Hertha BSC,,,Hamburger SV,
+19,Sat Jan 25 2025,,,SV Darmstadt 98,,,SC Paderborn 07,
+19,Sat Jan 25 2025,,,1. FC Köln,,,SV 07 Elversberg,
+19,Sat Jan 25 2025,,,FC Schalke 04,,,1. FC Nürnberg,
+19,Sat Jan 25 2025,,,SpVgg Greuther Fürth,,,1. FC Kaiserslautern,
+19,Sat Jan 25 2025,,,1. FC Magdeburg,,,Eintracht Braunschweig,
+19,Sat Jan 25 2025,,,Hannover 96,,,Preußen Münster,
+19,Sat Jan 25 2025,,,SSV Ulm 1846,,,Jahn Regensburg,
+20,Sat Feb 1 2025,,,Eintracht Braunschweig,,,1. FC Köln,
+20,Sat Feb 1 2025,,,1. FC Nürnberg,,,SV Darmstadt 98,
+20,Sat Feb 1 2025,,,SV 07 Elversberg,,,Karlsruher SC,
+20,Sat Feb 1 2025,,,Hamburger SV,,,Hannover 96,
+20,Sat Feb 1 2025,,,SC Paderborn 07,,,SpVgg Greuther Fürth,
+20,Sat Feb 1 2025,,,Jahn Regensburg,,,Hertha BSC,
+20,Sat Feb 1 2025,,,FC Schalke 04,,,1. FC Magdeburg,
+20,Sat Feb 1 2025,,,Fortuna Düsseldorf,,,SSV Ulm 1846,
+20,Sat Feb 1 2025,,,1. FC Kaiserslautern,,,Preußen Münster,
+21,Sat Feb 8 2025,,,Hannover 96,,,Fortuna Düsseldorf,
+21,Sat Feb 8 2025,,,Preußen Münster,,,Hamburger SV,
+21,Sat Feb 8 2025,,,SSV Ulm 1846,,,SC Paderborn 07,
+21,Sat Feb 8 2025,,,1. FC Köln,,,FC Schalke 04,
+21,Sat Feb 8 2025,,,SV Darmstadt 98,,,SV 07 Elversberg,
+21,Sat Feb 8 2025,,,1. FC Magdeburg,,,1. FC Nürnberg,
+21,Sat Feb 8 2025,,,Hertha BSC,,,1. FC Kaiserslautern,
+21,Sat Feb 8 2025,,,Karlsruher SC,,,Eintracht Braunschweig,
+21,Sat Feb 8 2025,,,SpVgg Greuther Fürth,,,Jahn Regensburg,
+22,Sat Feb 15 2025,,,1. FC Magdeburg,,,1. FC Köln,
+22,Sat Feb 15 2025,,,Eintracht Braunschweig,,,SV Darmstadt 98,
+22,Sat Feb 15 2025,,,Jahn Regensburg,,,Hamburger SV,
+22,Sat Feb 15 2025,,,FC Schalke 04,,,Karlsruher SC,
+22,Sat Feb 15 2025,,,1. FC Kaiserslautern,,,Hannover 96,
+22,Sat Feb 15 2025,,,SV 07 Elversberg,,,SpVgg Greuther Fürth,
+22,Sat Feb 15 2025,,,Fortuna Düsseldorf,,,Hertha BSC,
+22,Sat Feb 15 2025,,,1. FC Nürnberg,,,SSV Ulm 1846,
+22,Sat Feb 15 2025,,,SC Paderborn 07,,,Preußen Münster,
+23,Sat Feb 22 2025,,,1. FC Köln,,,Fortuna Düsseldorf,
+23,Sat Feb 22 2025,,,Hannover 96,,,SC Paderborn 07,
+23,Sat Feb 22 2025,,,SV Darmstadt 98,,,FC Schalke 04,
+23,Sat Feb 22 2025,,,SSV Ulm 1846,,,SV 07 Elversberg,
+23,Sat Feb 22 2025,,,Hertha BSC,,,1. FC Nürnberg,
+23,Sat Feb 22 2025,,,Hamburger SV,,,1. FC Kaiserslautern,
+23,Sat Feb 22 2025,,,Karlsruher SC,,,1. FC Magdeburg,
+23,Sat Feb 22 2025,,,SpVgg Greuther Fürth,,,Eintracht Braunschweig,
+23,Sat Feb 22 2025,,,Preußen Münster,,,Jahn Regensburg,
+24,Sat Mar 1 2025,,,Karlsruher SC,,,1. FC Köln,
+24,Sat Mar 1 2025,,,1. FC Magdeburg,,,SV Darmstadt 98,
+24,Sat Mar 1 2025,,,SC Paderborn 07,,,Hamburger SV,
+24,Sat Mar 1 2025,,,1. FC Nürnberg,,,Hannover 96,
+24,Sat Mar 1 2025,,,Fortuna Düsseldorf,,,SpVgg Greuther Fürth,
+24,Sat Mar 1 2025,,,SV 07 Elversberg,,,Hertha BSC,
+24,Sat Mar 1 2025,,,Eintracht Braunschweig,,,SSV Ulm 1846,
+24,Sat Mar 1 2025,,,FC Schalke 04,,,Preußen Münster,
+24,Sat Mar 1 2025,,,1. FC Kaiserslautern,,,Jahn Regensburg,
+25,Sat Mar 8 2025,,,SSV Ulm 1846,,,1. FC Köln,
+25,Sat Mar 8 2025,,,Hamburger SV,,,Fortuna Düsseldorf,
+25,Sat Mar 8 2025,,,SV Darmstadt 98,,,Karlsruher SC,
+25,Sat Mar 8 2025,,,Jahn Regensburg,,,SC Paderborn 07,
+25,Sat Mar 8 2025,,,Hertha BSC,,,FC Schalke 04,
+25,Sat Mar 8 2025,,,1. FC Kaiserslautern,,,SV 07 Elversberg,
+25,Sat Mar 8 2025,,,Preußen Münster,,,1. FC Nürnberg,
+25,Sat Mar 8 2025,,,SpVgg Greuther Fürth,,,1. FC Magdeburg,
+25,Sat Mar 8 2025,,,Hannover 96,,,Eintracht Braunschweig,
+26,Sat Mar 15 2025,,,1. FC Köln,,,SV Darmstadt 98,
+26,Sat Mar 15 2025,,,1. FC Magdeburg,,,Hamburger SV,
+26,Sat Mar 15 2025,,,FC Schalke 04,,,Hannover 96,
+26,Sat Mar 15 2025,,,1. FC Nürnberg,,,SpVgg Greuther Fürth,
+26,Sat Mar 15 2025,,,Eintracht Braunschweig,,,Hertha BSC,
+26,Sat Mar 15 2025,,,SC Paderborn 07,,,1. FC Kaiserslautern,
+26,Sat Mar 15 2025,,,Karlsruher SC,,,SSV Ulm 1846,
+26,Sat Mar 15 2025,,,SV 07 Elversberg,,,Preußen Münster,
+26,Sat Mar 15 2025,,,Fortuna Düsseldorf,,,Jahn Regensburg,
+27,Sat Mar 29 2025,,,SC Paderborn 07,,,1. FC Köln,
+27,Sat Mar 29 2025,,,SSV Ulm 1846,,,SV Darmstadt 98,
+27,Sat Mar 29 2025,,,1. FC Kaiserslautern,,,Fortuna Düsseldorf,
+27,Sat Mar 29 2025,,,Hertha BSC,,,Karlsruher SC,
+27,Sat Mar 29 2025,,,SpVgg Greuther Fürth,,,FC Schalke 04,
+27,Sat Mar 29 2025,,,Hamburger SV,,,SV 07 Elversberg,
+27,Sat Mar 29 2025,,,Jahn Regensburg,,,1. FC Nürnberg,
+27,Sat Mar 29 2025,,,Hannover 96,,,1. FC Magdeburg,
+27,Sat Mar 29 2025,,,Preußen Münster,,,Eintracht Braunschweig,
+28,Sat Apr 5 2025,,,1. FC Nürnberg,,,Hamburger SV,
+28,Sat Apr 5 2025,,,Karlsruher SC,,,Hannover 96,
+28,Sat Apr 5 2025,,,Eintracht Braunschweig,,,SC Paderborn 07,
+28,Sat Apr 5 2025,,,SV Darmstadt 98,,,SpVgg Greuther Fürth,
+28,Sat Apr 5 2025,,,1. FC Köln,,,Hertha BSC,
+28,Sat Apr 5 2025,,,1. FC Magdeburg,,,1. FC Kaiserslautern,
+28,Sat Apr 5 2025,,,FC Schalke 04,,,SSV Ulm 1846,
+28,Sat Apr 5 2025,,,Fortuna Düsseldorf,,,Preußen Münster,
+28,Sat Apr 5 2025,,,SV 07 Elversberg,,,Jahn Regensburg,
+29,Sat Apr 12 2025,,,SpVgg Greuther Fürth,,,1. FC Köln,
+29,Sat Apr 12 2025,,,Hertha BSC,,,SV Darmstadt 98,
+29,Sat Apr 12 2025,,,SC Paderborn 07,,,Fortuna Düsseldorf,
+29,Sat Apr 12 2025,,,Preußen Münster,,,Karlsruher SC,
+29,Sat Apr 12 2025,,,Jahn Regensburg,,,FC Schalke 04,
+29,Sat Apr 12 2025,,,Hannover 96,,,SV 07 Elversberg,
+29,Sat Apr 12 2025,,,1. FC Kaiserslautern,,,1. FC Nürnberg,
+29,Sat Apr 12 2025,,,SSV Ulm 1846,,,1. FC Magdeburg,
+29,Sat Apr 12 2025,,,Hamburger SV,,,Eintracht Braunschweig,
+30,Sat Apr 19 2025,,,SV 07 Elversberg,,,Fortuna Düsseldorf,
+30,Sat Apr 19 2025,,,FC Schalke 04,,,Hamburger SV,
+30,Sat Apr 19 2025,,,SV Darmstadt 98,,,Hannover 96,
+30,Sat Apr 19 2025,,,1. FC Nürnberg,,,SC Paderborn 07,
+30,Sat Apr 19 2025,,,Karlsruher SC,,,SpVgg Greuther Fürth,
+30,Sat Apr 19 2025,,,SSV Ulm 1846,,,Hertha BSC,
+30,Sat Apr 19 2025,,,Eintracht Braunschweig,,,1. FC Kaiserslautern,
+30,Sat Apr 19 2025,,,1. FC Köln,,,Preußen Münster,
+30,Sat Apr 19 2025,,,1. FC Magdeburg,,,Jahn Regensburg,
+31,Sat Apr 26 2025,,,Hannover 96,,,1. FC Köln,
+31,Sat Apr 26 2025,,,Preußen Münster,,,SV Darmstadt 98,
+31,Sat Apr 26 2025,,,Hamburger SV,,,Karlsruher SC,
+31,Sat Apr 26 2025,,,1. FC Kaiserslautern,,,FC Schalke 04,
+31,Sat Apr 26 2025,,,SC Paderborn 07,,,SV 07 Elversberg,
+31,Sat Apr 26 2025,,,Fortuna Düsseldorf,,,1. FC Nürnberg,
+31,Sat Apr 26 2025,,,Hertha BSC,,,1. FC Magdeburg,
+31,Sat Apr 26 2025,,,Jahn Regensburg,,,Eintracht Braunschweig,
+31,Sat Apr 26 2025,,,SpVgg Greuther Fürth,,,SSV Ulm 1846,
+32,Sat May 3 2025,,,Eintracht Braunschweig,,,Fortuna Düsseldorf,
+32,Sat May 3 2025,,,SV Darmstadt 98,,,Hamburger SV,
+32,Sat May 3 2025,,,SSV Ulm 1846,,,Hannover 96,
+32,Sat May 3 2025,,,FC Schalke 04,,,SC Paderborn 07,
+32,Sat May 3 2025,,,Hertha BSC,,,SpVgg Greuther Fürth,
+32,Sat May 3 2025,,,1. FC Nürnberg,,,SV 07 Elversberg,
+32,Sat May 3 2025,,,Karlsruher SC,,,1. FC Kaiserslautern,
+32,Sat May 3 2025,,,1. FC Magdeburg,,,Preußen Münster,
+32,Sat May 3 2025,,,1. FC Köln,,,Jahn Regensburg,
+33,Sat May 10 2025,,,1. FC Nürnberg,,,1. FC Köln,
+33,Sat May 10 2025,,,1. FC Kaiserslautern,,,SV Darmstadt 98,
+33,Sat May 10 2025,,,Jahn Regensburg,,,Karlsruher SC,
+33,Sat May 10 2025,,,Hannover 96,,,SpVgg Greuther Fürth,
+33,Sat May 10 2025,,,Preußen Münster,,,Hertha BSC,
+33,Sat May 10 2025,,,Fortuna Düsseldorf,,,FC Schalke 04,
+33,Sat May 10 2025,,,SC Paderborn 07,,,1. FC Magdeburg,
+33,Sat May 10 2025,,,SV 07 Elversberg,,,Eintracht Braunschweig,
+33,Sat May 10 2025,,,Hamburger SV,,,SSV Ulm 1846,
+34,Sun May 18 2025,15:30,CEST/+0200,1. FC Magdeburg,,,Fortuna Düsseldorf,2025-05-18T13:30Z
+34,Sun May 18 2025,15:30,CEST/+0200,SpVgg Greuther Fürth,,,Hamburger SV,2025-05-18T13:30Z
+34,Sun May 18 2025,15:30,CEST/+0200,Hertha BSC,,,Hannover 96,2025-05-18T13:30Z
+34,Sun May 18 2025,15:30,CEST/+0200,Karlsruher SC,,,SC Paderborn 07,2025-05-18T13:30Z
+34,Sun May 18 2025,15:30,CEST/+0200,FC Schalke 04,,,SV 07 Elversberg,2025-05-18T13:30Z
+34,Sun May 18 2025,15:30,CEST/+0200,Eintracht Braunschweig,,,1. FC Nürnberg,2025-05-18T13:30Z
+34,Sun May 18 2025,15:30,CEST/+0200,1. FC Köln,,,1. FC Kaiserslautern,2025-05-18T13:30Z
+34,Sun May 18 2025,15:30,CEST/+0200,SSV Ulm 1846,,,Preußen Münster,2025-05-18T13:30Z
+34,Sun May 18 2025,15:30,CEST/+0200,SV Darmstadt 98,,,Jahn Regensburg,2025-05-18T13:30Z

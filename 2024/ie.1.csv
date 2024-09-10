@@ -1,181 +1,181 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Feb 16 2024,19:45,Derry City,2-1,0-0,Drogheda United
-1,Fri Feb 16 2024,19:45,Galway United,0-1,0-1,St Patrick's Athletic
-1,Fri Feb 16 2024,19:45,Waterford FC,1-1,1-0,Shelbourne FC
-1,Fri Feb 16 2024,19:45,Shamrock Rovers,1-1,0-1,Dundalk FC
-1,Fri Feb 16 2024,19:45,Bohemian FC,2-2,1-2,Sligo Rovers
-2,Fri Feb 23 2024,19:45,Drogheda United,1-4,1-2,Waterford FC
-2,Fri Feb 23 2024,19:45,Dundalk FC,0-2,0-2,Galway United
-2,Fri Feb 23 2024,19:45,Shelbourne FC,2-1,2-0,Shamrock Rovers
-2,Fri Feb 23 2024,19:45,St Patrick's Athletic,0-1,0-0,Bohemian FC
-2,Sat Feb 24 2024,19:45,Sligo Rovers,0-0,0-0,Derry City
-3,Fri Mar 1 2024,19:45,Derry City,2-1,0-0,St Patrick's Athletic
-3,Fri Mar 1 2024,19:45,Galway United,2-1,0-1,Waterford FC
-3,Fri Mar 1 2024,19:45,Sligo Rovers,0-1,0-1,Shelbourne FC
-4,Mon Mar 4 2024,19:45,Waterford FC,3-1,2-1,St Patrick's Athletic
-4,Mon Mar 4 2024,19:45,Drogheda United,2-1,1-0,Bohemian FC
-4,Mon Mar 4 2024,19:45,Dundalk FC,0-5,0-4,Sligo Rovers
-4,Mon Mar 4 2024,19:45,Shelbourne FC,1-0,1-0,Galway United
-4,Mon Mar 4 2024,19:45,Shamrock Rovers,2-2,0-0,Derry City
-5,Fri Mar 8 2024,19:45,Galway United,0-0,0-0,Drogheda United
-5,Fri Mar 8 2024,19:45,St Patrick's Athletic,1-0,1-0,Dundalk FC
-5,Fri Mar 8 2024,19:45,Bohemian FC,0-2,0-0,Shelbourne FC
-5,Fri Mar 8 2024,19:45,Derry City,3-0,2-0,Waterford FC
-5,Sat Mar 9 2024,19:45,Sligo Rovers,0-0,0-0,Shamrock Rovers
-6,Fri Mar 15 2024,19:45,St Patrick's Athletic,1-2,0-0,Shelbourne FC
-6,Fri Mar 15 2024,19:45,Bohemian FC,2-1,1-0,Derry City
-6,Fri Mar 15 2024,19:45,Dundalk FC,0-0,0-0,Waterford FC
-6,Fri Mar 15 2024,19:45,Galway United,0-1,0-0,Shamrock Rovers
-6,Sat Mar 16 2024,19:45,Sligo Rovers,3-1,2-0,Drogheda United
-7,Fri Mar 29 2024,19:45,Shamrock Rovers,3-1,0-0,Bohemian FC
-7,Fri Mar 29 2024,19:45,Waterford FC,0-1,0-0,Sligo Rovers
-7,Fri Mar 29 2024,19:45,Derry City,0-1,0-0,Galway United
-7,Fri Mar 29 2024,19:45,Drogheda United,0-0,0-0,St Patrick's Athletic
-7,Fri Mar 29 2024,19:45,Shelbourne FC,2-1,0-0,Dundalk FC
-8,Mon Apr 1 2024,17:00,Waterford FC,1-2,0-0,Shamrock Rovers
-8,Mon Apr 1 2024,13:00,Dundalk FC,0-0,0-0,Drogheda United
-8,Mon Apr 1 2024,17:00,Shelbourne FC,0-0,0-0,Derry City
-8,Mon Apr 1 2024,17:00,St Patrick's Athletic,3-0,2-0,Sligo Rovers
-8,Mon Apr 1 2024,19:45,Galway United,0-2,0-1,Bohemian FC
-9,Fri Apr 5 2024,19:45,Drogheda United,2-2,1-1,Shelbourne FC
-9,Fri Apr 5 2024,19:45,St Patrick's Athletic,2-1,0-1,Shamrock Rovers
-9,Fri Apr 5 2024,19:45,Bohemian FC,0-1,0-1,Waterford FC
-9,Fri Apr 5 2024,19:45,Derry City,4-1,1-0,Dundalk FC
-10,Fri Apr 12 2024,19:45,Waterford FC,0-0,0-0,Galway United
-10,Fri Apr 12 2024,20:00,Shamrock Rovers,3-0,1-0,Sligo Rovers
-10,Fri Apr 12 2024,19:45,Shelbourne FC,1-2,0-2,Bohemian FC
-10,Fri Apr 12 2024,19:45,Drogheda United,2-2,1-2,Derry City
-10,Fri Apr 12 2024,19:45,Dundalk FC,0-0,0-0,St Patrick's Athletic
-3,Mon Apr 15 2024,19:45,Bohemian FC,1-0,0-0,Dundalk FC
-11,Fri Apr 19 2024,19:45,St Patrick's Athletic,1-1,0-1,Waterford FC
-11,Fri Apr 19 2024,19:45,Bohemian FC,1-0,1-0,Drogheda United
-11,Fri Apr 19 2024,19:45,Derry City,1-3,0-0,Shamrock Rovers
-11,Fri Apr 19 2024,19:45,Galway United,1-0,1-0,Shelbourne FC
-11,Fri Apr 19 2024,19:45,Sligo Rovers,1-1,1-0,Dundalk FC
-24,Mon Apr 22 2024,19:45,Shelbourne FC,0-0,0-0,Shamrock Rovers
-9,Mon Apr 22 2024,19:45,Sligo Rovers,0-0,0-0,Galway United
-24,Mon Apr 22 2024,19:45,Derry City,3-1,1-0,St Patrick's Athletic
-12,Fri Apr 26 2024,19:45,Shelbourne FC,1-0,1-0,St Patrick's Athletic
-12,Fri Apr 26 2024,19:45,Waterford FC,0-2,0-1,Derry City
-12,Fri Apr 26 2024,20:00,Shamrock Rovers,1-1,0-0,Galway United
-12,Fri Apr 26 2024,19:45,Drogheda United,3-1,1-1,Sligo Rovers
-12,Fri Apr 26 2024,19:45,Dundalk FC,2-0,2-0,Bohemian FC
-3,Mon Apr 29 2024,20:00,Shamrock Rovers,4-0,2-0,Drogheda United
-13,Fri May 3 2024,19:45,Galway United,0-0,0-0,Derry City
-13,Fri May 3 2024,19:45,Sligo Rovers,0-1,0-0,Waterford FC
-13,Fri May 3 2024,19:45,St Patrick's Athletic,1-0,1-0,Drogheda United
-13,Fri May 3 2024,19:45,Dundalk FC,0-0,0-0,Shelbourne FC
-13,Fri May 3 2024,19:45,Bohemian FC,1-1,1-1,Shamrock Rovers
-14,Mon May 6 2024,17:00,Sligo Rovers,1-0,1-0,St Patrick's Athletic
-14,Mon May 6 2024,19:45,Derry City,1-1,0-0,Shelbourne FC
-14,Mon May 6 2024,17:00,Shamrock Rovers,1-3,1-2,Waterford FC
-14,Mon May 6 2024,13:00,Drogheda United,2-1,0-0,Dundalk FC
-14,Mon May 6 2024,17:00,Bohemian FC,0-1,0-1,Galway United
-15,Fri May 10 2024,19:45,Waterford FC,4-1,2-1,Dundalk FC
-15,Fri May 10 2024,19:45,Shamrock Rovers,2-2,1-1,St Patrick's Athletic
-15,Fri May 10 2024,19:45,Derry City,1-0,0-0,Bohemian FC
-15,Fri May 10 2024,19:45,Galway United,0-0,0-0,Sligo Rovers
-15,Fri May 10 2024,19:45,Shelbourne FC,1-1,0-1,Drogheda United
-16,Fri May 17 2024,19:45,St Patrick's Athletic,0-1,0-0,Derry City
-16,Fri May 17 2024,19:45,Sligo Rovers,0-3,0-2,Bohemian FC
-16,Fri May 17 2024,20:15,Dundalk FC,1-0,0-0,Shamrock Rovers
-16,Fri May 17 2024,19:45,Drogheda United,2-3,1-1,Galway United
-16,Fri May 17 2024,19:45,Shelbourne FC,1-0,0-0,Waterford FC
-25,Mon May 20 2024,19:45,St Patrick's Athletic,1-2,0-1,Shelbourne FC
-25,Mon May 20 2024,20:00,Shamrock Rovers,1-0,1-0,Derry City
-17,Thu May 23 2024,19:45,Waterford FC,4-2,0-1,Drogheda United
-17,Fri May 24 2024,20:00,Shamrock Rovers,0-2,0-1,Shelbourne FC
-17,Fri May 24 2024,19:45,Galway United,2-0,1-0,Dundalk FC
-17,Fri May 24 2024,19:45,Bohemian FC,2-2,1-2,St Patrick's Athletic
-17,Fri May 24 2024,19:45,Derry City,2-2,0-1,Sligo Rovers
-18,Fri May 31 2024,19:45,Dundalk FC,0-0,0-0,Derry City
-18,Fri May 31 2024,19:45,Drogheda United,0-2,0-0,Shamrock Rovers
-18,Fri May 31 2024,19:45,Waterford FC,2-1,1-1,Bohemian FC
-18,Fri May 31 2024,19:45,St Patrick's Athletic,2-1,1-0,Galway United
-18,Fri May 31 2024,19:45,Shelbourne FC,1-2,0-1,Sligo Rovers
-19,Mon Jun 3 2024,17:00,Sligo Rovers,2-1,2-0,Drogheda United
-19,Mon Jun 3 2024,17:15,St Patrick's Athletic,2-3,2-3,Dundalk FC
-19,Mon Jun 3 2024,18:00,Derry City,3-0,3-0,Waterford FC
-20,Fri Jun 7 2024,19:45,Shelbourne FC,1-0,0-0,Dundalk FC
-20,Fri Jun 7 2024,19:45,Waterford FC,4-1,1-0,Sligo Rovers
-20,Fri Jun 7 2024,19:45,Derry City,2-0,0-0,Galway United
-20,Fri Jun 7 2024,19:45,Drogheda United,0-0,0-0,St Patrick's Athletic
-21,Thu Jun 13 2024,19:45,Dundalk FC,1-0,0-0,Sligo Rovers
-21,Thu Jun 13 2024,19:45,Galway United,3-0,1-0,Drogheda United
-21,Thu Jun 13 2024,19:45,St Patrick's Athletic,2-1,0-1,Shamrock Rovers
-21,Thu Jun 13 2024,19:45,Waterford FC,0-1,0-0,Shelbourne FC
-21,Thu Jun 13 2024,19:45,Bohemian FC,1-2,1-1,Derry City
-22,Fri Jun 28 2024,19:45,Dundalk FC,0-2,0-2,Waterford FC
-22,Fri Jun 28 2024,19:45,Shelbourne FC,2-0,2-0,Galway United
-22,Fri Jun 28 2024,19:45,Derry City,5-1,2-1,Drogheda United
-22,Fri Jun 28 2024,19:45,St Patrick's Athletic,0-0,0-0,Bohemian FC
-22,Fri Jun 28 2024,19:45,Sligo Rovers,2-0,0-0,Shamrock Rovers
-23,Thu Jul 4 2024,19:45,Sligo Rovers,2-1,0-0,Derry City
-23,Thu Jul 4 2024,19:45,Waterford FC,1-0,0-0,St Patrick's Athletic
-23,Thu Jul 4 2024,20:00,Shamrock Rovers,1-0,1-0,Dundalk FC
-23,Thu Jul 4 2024,19:45,Galway United,1-1,0-1,Bohemian FC
-23,Thu Jul 4 2024,19:45,Drogheda United,1-1,0-1,Shelbourne FC
-24,Fri Jul 12 2024,19:45,Galway United,1-0,1-0,Waterford FC
-24,Fri Jul 12 2024,19:45,Bohemian FC,0-2,0-1,Sligo Rovers
-24,Fri Jul 12 2024,19:45,Dundalk FC,4-2,2-1,Drogheda United
-25,Fri Jul 26 2024,19:45,Drogheda United,2-0,1-0,Waterford FC
-25,Fri Jul 26 2024,19:45,Bohemian FC,1-1,1-1,Dundalk FC
-25,Sat Jul 27 2024,19:45,Sligo Rovers,2-0,1-0,Galway United
-26,Fri Aug 2 2024,19:45,Drogheda United,2-2,1-2,Bohemian FC
-26,Fri Aug 2 2024,19:45,Dundalk FC,0-2,0-0,Galway United
-26,Fri Aug 2 2024,19:45,Waterford FC,1-2,0-1,Shamrock Rovers
-26,Sun Aug 4 2024,18:00,St Patrick's Athletic,3-2,1-1,Sligo Rovers
-26,Mon Aug 5 2024,19:45,Shelbourne FC,0-0,0-0,Derry City
-27,Fri Aug 9 2024,19:45,Bohemian FC,2-3,2-0,Waterford FC
-27,Fri Aug 9 2024,19:45,Derry City,1-1,0-1,Dundalk FC
-27,Sat Aug 10 2024,19:45,Sligo Rovers,2-1,1-0,Shelbourne FC
-27,Sun Aug 11 2024,19:00,Shamrock Rovers,1-1,1-0,Drogheda United
-27,Sun Aug 11 2024,15:00,Galway United,1-1,0-1,St Patrick's Athletic
-28,Fri Aug 23 2024,19:45,Waterford FC,0-1,0-0,Derry City
-28,Fri Aug 23 2024,19:45,Drogheda United,7-0,3-0,Sligo Rovers
-28,Fri Aug 23 2024,19:45,Shelbourne FC,1-1,1-1,Bohemian FC
-28,Sun Aug 25 2024,19:00,Shamrock Rovers,1-1,0-0,Galway United
-29,Fri Aug 30 2024,19:45,Galway United,1-0,0-0,Derry City
-29,Fri Aug 30 2024,19:45,Dundalk FC,0-1,0-1,Shelbourne FC
-29,Sat Aug 31 2024,19:45,Sligo Rovers,2-0,1-0,Waterford FC
-29,Sun Sep 1 2024,11:30,Bohemian FC,2-1,1-1,Shamrock Rovers
-29,Sun Sep 1 2024,18:00,St Patrick's Athletic,4-1,2-1,Drogheda United
-28,Thu Sep 5 2024,19:45,Dundalk FC,1-2,1-0,St Patrick's Athletic
-19,Fri Sep 6 2024,19:45,Bohemian FC,1-1,0-0,Shelbourne FC
-30,Fri Sep 13 2024,19:45,Shamrock Rovers,,,Sligo Rovers
-30,Fri Sep 13 2024,19:45,Waterford FC,,,Dundalk FC
-19,Mon Sep 16 2024,19:45,Galway United,,,Shamrock Rovers
-31,Fri Sep 20 2024,19:45,St Patrick's Athletic,,,Waterford FC
-31,Fri Sep 20 2024,19:45,Galway United,,,Shelbourne FC
-31,Fri Sep 20 2024,19:45,Derry City,,,Shamrock Rovers
-31,Fri Sep 20 2024,19:45,Bohemian FC,,,Drogheda United
-31,Sat Sep 21 2024,19:45,Sligo Rovers,,,Dundalk FC
-30,Mon Sep 23 2024,19:45,Drogheda United,,,Galway United
-20,Mon Sep 23 2024,19:45,Shamrock Rovers,,,Bohemian FC
-32,Fri Sep 27 2024,20:00,Shamrock Rovers,,,St Patrick's Athletic
-32,Fri Sep 27 2024,19:45,Waterford FC,,,Galway United
-32,Fri Sep 27 2024,19:45,Drogheda United,,,Derry City
-32,Fri Sep 27 2024,19:45,Dundalk FC,,,Bohemian FC
-32,Fri Sep 27 2024,19:45,Shelbourne FC,,,Sligo Rovers
-30,Mon Sep 30 2024,19:45,Shelbourne FC,,,St Patrick's Athletic
-33,Fri Oct 4 2024,19:45,Bohemian FC,,,St Patrick's Athletic
-33,Fri Oct 4 2024,19:45,Derry City,,,Sligo Rovers
-33,Fri Oct 4 2024,19:45,Galway United,,,Dundalk FC
-33,Fri Oct 4 2024,20:00,Shamrock Rovers,,,Shelbourne FC
-33,Fri Oct 4 2024,19:45,Waterford FC,,,Drogheda United
-30,Fri Oct 11 2024,19:45,Derry City,,,Bohemian FC
-34,Fri Oct 18 2024,19:45,Dundalk FC,,,Derry City
-34,Fri Oct 18 2024,19:45,Shelbourne FC,,,Waterford FC
-34,Fri Oct 18 2024,19:45,St Patrick's Athletic,,,Galway United
-34,Fri Oct 18 2024,19:45,Drogheda United,,,Shamrock Rovers
-34,Sat Oct 19 2024,19:45,Sligo Rovers,,,Bohemian FC
-35,Fri Oct 25 2024,19:45,Galway United,,,Sligo Rovers
-35,Fri Oct 25 2024,19:45,Shelbourne FC,,,Drogheda United
-35,Fri Oct 25 2024,19:45,St Patrick's Athletic,,,Derry City
-35,Fri Oct 25 2024,19:45,Waterford FC,,,Bohemian FC
-35,Fri Oct 25 2024,19:45,Dundalk FC,,,Shamrock Rovers
-36,Fri Nov 1 2024,19:45,Bohemian FC,,,Galway United
-36,Fri Nov 1 2024,19:45,Derry City,,,Shelbourne FC
-36,Fri Nov 1 2024,19:45,Drogheda United,,,Dundalk FC
-36,Fri Nov 1 2024,19:45,Shamrock Rovers,,,Waterford FC
-36,Fri Nov 1 2024,19:45,Sligo Rovers,,,St Patrick's Athletic
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Feb 16 2024,19:45,GMT/+0000,Derry City,2-1,0-0,Drogheda United,2024-02-16T19:45Z
+1,Fri Feb 16 2024,19:45,GMT/+0000,Galway United,0-1,0-1,St Patrick's Athletic,2024-02-16T19:45Z
+1,Fri Feb 16 2024,19:45,GMT/+0000,Waterford FC,1-1,1-0,Shelbourne FC,2024-02-16T19:45Z
+1,Fri Feb 16 2024,19:45,GMT/+0000,Shamrock Rovers,1-1,0-1,Dundalk FC,2024-02-16T19:45Z
+1,Fri Feb 16 2024,19:45,GMT/+0000,Bohemian FC,2-2,1-2,Sligo Rovers,2024-02-16T19:45Z
+2,Fri Feb 23 2024,19:45,GMT/+0000,Drogheda United,1-4,1-2,Waterford FC,2024-02-23T19:45Z
+2,Fri Feb 23 2024,19:45,GMT/+0000,Dundalk FC,0-2,0-2,Galway United,2024-02-23T19:45Z
+2,Fri Feb 23 2024,19:45,GMT/+0000,Shelbourne FC,2-1,2-0,Shamrock Rovers,2024-02-23T19:45Z
+2,Fri Feb 23 2024,19:45,GMT/+0000,St Patrick's Athletic,0-1,0-0,Bohemian FC,2024-02-23T19:45Z
+2,Sat Feb 24 2024,19:45,GMT/+0000,Sligo Rovers,0-0,0-0,Derry City,2024-02-24T19:45Z
+3,Fri Mar 1 2024,19:45,GMT/+0000,Derry City,2-1,0-0,St Patrick's Athletic,2024-03-01T19:45Z
+3,Fri Mar 1 2024,19:45,GMT/+0000,Galway United,2-1,0-1,Waterford FC,2024-03-01T19:45Z
+3,Fri Mar 1 2024,19:45,GMT/+0000,Sligo Rovers,0-1,0-1,Shelbourne FC,2024-03-01T19:45Z
+4,Mon Mar 4 2024,19:45,GMT/+0000,Waterford FC,3-1,2-1,St Patrick's Athletic,2024-03-04T19:45Z
+4,Mon Mar 4 2024,19:45,GMT/+0000,Drogheda United,2-1,1-0,Bohemian FC,2024-03-04T19:45Z
+4,Mon Mar 4 2024,19:45,GMT/+0000,Dundalk FC,0-5,0-4,Sligo Rovers,2024-03-04T19:45Z
+4,Mon Mar 4 2024,19:45,GMT/+0000,Shelbourne FC,1-0,1-0,Galway United,2024-03-04T19:45Z
+4,Mon Mar 4 2024,19:45,GMT/+0000,Shamrock Rovers,2-2,0-0,Derry City,2024-03-04T19:45Z
+5,Fri Mar 8 2024,19:45,GMT/+0000,Galway United,0-0,0-0,Drogheda United,2024-03-08T19:45Z
+5,Fri Mar 8 2024,19:45,GMT/+0000,St Patrick's Athletic,1-0,1-0,Dundalk FC,2024-03-08T19:45Z
+5,Fri Mar 8 2024,19:45,GMT/+0000,Bohemian FC,0-2,0-0,Shelbourne FC,2024-03-08T19:45Z
+5,Fri Mar 8 2024,19:45,GMT/+0000,Derry City,3-0,2-0,Waterford FC,2024-03-08T19:45Z
+5,Sat Mar 9 2024,19:45,GMT/+0000,Sligo Rovers,0-0,0-0,Shamrock Rovers,2024-03-09T19:45Z
+6,Fri Mar 15 2024,19:45,GMT/+0000,St Patrick's Athletic,1-2,0-0,Shelbourne FC,2024-03-15T19:45Z
+6,Fri Mar 15 2024,19:45,GMT/+0000,Bohemian FC,2-1,1-0,Derry City,2024-03-15T19:45Z
+6,Fri Mar 15 2024,19:45,GMT/+0000,Dundalk FC,0-0,0-0,Waterford FC,2024-03-15T19:45Z
+6,Fri Mar 15 2024,19:45,GMT/+0000,Galway United,0-1,0-0,Shamrock Rovers,2024-03-15T19:45Z
+6,Sat Mar 16 2024,19:45,GMT/+0000,Sligo Rovers,3-1,2-0,Drogheda United,2024-03-16T19:45Z
+7,Fri Mar 29 2024,19:45,GMT/+0000,Shamrock Rovers,3-1,0-0,Bohemian FC,2024-03-29T19:45Z
+7,Fri Mar 29 2024,19:45,GMT/+0000,Waterford FC,0-1,0-0,Sligo Rovers,2024-03-29T19:45Z
+7,Fri Mar 29 2024,19:45,GMT/+0000,Derry City,0-1,0-0,Galway United,2024-03-29T19:45Z
+7,Fri Mar 29 2024,19:45,GMT/+0000,Drogheda United,0-0,0-0,St Patrick's Athletic,2024-03-29T19:45Z
+7,Fri Mar 29 2024,19:45,GMT/+0000,Shelbourne FC,2-1,0-0,Dundalk FC,2024-03-29T19:45Z
+8,Mon Apr 1 2024,17:00,IST/+0100,Waterford FC,1-2,0-0,Shamrock Rovers,2024-04-01T16:00Z
+8,Mon Apr 1 2024,13:00,IST/+0100,Dundalk FC,0-0,0-0,Drogheda United,2024-04-01T12:00Z
+8,Mon Apr 1 2024,17:00,IST/+0100,Shelbourne FC,0-0,0-0,Derry City,2024-04-01T16:00Z
+8,Mon Apr 1 2024,17:00,IST/+0100,St Patrick's Athletic,3-0,2-0,Sligo Rovers,2024-04-01T16:00Z
+8,Mon Apr 1 2024,19:45,IST/+0100,Galway United,0-2,0-1,Bohemian FC,2024-04-01T18:45Z
+9,Fri Apr 5 2024,19:45,IST/+0100,Drogheda United,2-2,1-1,Shelbourne FC,2024-04-05T18:45Z
+9,Fri Apr 5 2024,19:45,IST/+0100,St Patrick's Athletic,2-1,0-1,Shamrock Rovers,2024-04-05T18:45Z
+9,Fri Apr 5 2024,19:45,IST/+0100,Bohemian FC,0-1,0-1,Waterford FC,2024-04-05T18:45Z
+9,Fri Apr 5 2024,19:45,IST/+0100,Derry City,4-1,1-0,Dundalk FC,2024-04-05T18:45Z
+10,Fri Apr 12 2024,19:45,IST/+0100,Waterford FC,0-0,0-0,Galway United,2024-04-12T18:45Z
+10,Fri Apr 12 2024,20:00,IST/+0100,Shamrock Rovers,3-0,1-0,Sligo Rovers,2024-04-12T19:00Z
+10,Fri Apr 12 2024,19:45,IST/+0100,Shelbourne FC,1-2,0-2,Bohemian FC,2024-04-12T18:45Z
+10,Fri Apr 12 2024,19:45,IST/+0100,Drogheda United,2-2,1-2,Derry City,2024-04-12T18:45Z
+10,Fri Apr 12 2024,19:45,IST/+0100,Dundalk FC,0-0,0-0,St Patrick's Athletic,2024-04-12T18:45Z
+3,Mon Apr 15 2024,19:45,IST/+0100,Bohemian FC,1-0,0-0,Dundalk FC,2024-04-15T18:45Z
+11,Fri Apr 19 2024,19:45,IST/+0100,St Patrick's Athletic,1-1,0-1,Waterford FC,2024-04-19T18:45Z
+11,Fri Apr 19 2024,19:45,IST/+0100,Bohemian FC,1-0,1-0,Drogheda United,2024-04-19T18:45Z
+11,Fri Apr 19 2024,19:45,IST/+0100,Derry City,1-3,0-0,Shamrock Rovers,2024-04-19T18:45Z
+11,Fri Apr 19 2024,19:45,IST/+0100,Galway United,1-0,1-0,Shelbourne FC,2024-04-19T18:45Z
+11,Fri Apr 19 2024,19:45,IST/+0100,Sligo Rovers,1-1,1-0,Dundalk FC,2024-04-19T18:45Z
+24,Mon Apr 22 2024,19:45,IST/+0100,Shelbourne FC,0-0,0-0,Shamrock Rovers,2024-04-22T18:45Z
+9,Mon Apr 22 2024,19:45,IST/+0100,Sligo Rovers,0-0,0-0,Galway United,2024-04-22T18:45Z
+24,Mon Apr 22 2024,19:45,IST/+0100,Derry City,3-1,1-0,St Patrick's Athletic,2024-04-22T18:45Z
+12,Fri Apr 26 2024,19:45,IST/+0100,Shelbourne FC,1-0,1-0,St Patrick's Athletic,2024-04-26T18:45Z
+12,Fri Apr 26 2024,19:45,IST/+0100,Waterford FC,0-2,0-1,Derry City,2024-04-26T18:45Z
+12,Fri Apr 26 2024,20:00,IST/+0100,Shamrock Rovers,1-1,0-0,Galway United,2024-04-26T19:00Z
+12,Fri Apr 26 2024,19:45,IST/+0100,Drogheda United,3-1,1-1,Sligo Rovers,2024-04-26T18:45Z
+12,Fri Apr 26 2024,19:45,IST/+0100,Dundalk FC,2-0,2-0,Bohemian FC,2024-04-26T18:45Z
+3,Mon Apr 29 2024,20:00,IST/+0100,Shamrock Rovers,4-0,2-0,Drogheda United,2024-04-29T19:00Z
+13,Fri May 3 2024,19:45,IST/+0100,Galway United,0-0,0-0,Derry City,2024-05-03T18:45Z
+13,Fri May 3 2024,19:45,IST/+0100,Sligo Rovers,0-1,0-0,Waterford FC,2024-05-03T18:45Z
+13,Fri May 3 2024,19:45,IST/+0100,St Patrick's Athletic,1-0,1-0,Drogheda United,2024-05-03T18:45Z
+13,Fri May 3 2024,19:45,IST/+0100,Dundalk FC,0-0,0-0,Shelbourne FC,2024-05-03T18:45Z
+13,Fri May 3 2024,19:45,IST/+0100,Bohemian FC,1-1,1-1,Shamrock Rovers,2024-05-03T18:45Z
+14,Mon May 6 2024,17:00,IST/+0100,Sligo Rovers,1-0,1-0,St Patrick's Athletic,2024-05-06T16:00Z
+14,Mon May 6 2024,19:45,IST/+0100,Derry City,1-1,0-0,Shelbourne FC,2024-05-06T18:45Z
+14,Mon May 6 2024,17:00,IST/+0100,Shamrock Rovers,1-3,1-2,Waterford FC,2024-05-06T16:00Z
+14,Mon May 6 2024,13:00,IST/+0100,Drogheda United,2-1,0-0,Dundalk FC,2024-05-06T12:00Z
+14,Mon May 6 2024,17:00,IST/+0100,Bohemian FC,0-1,0-1,Galway United,2024-05-06T16:00Z
+15,Fri May 10 2024,19:45,IST/+0100,Waterford FC,4-1,2-1,Dundalk FC,2024-05-10T18:45Z
+15,Fri May 10 2024,19:45,IST/+0100,Shamrock Rovers,2-2,1-1,St Patrick's Athletic,2024-05-10T18:45Z
+15,Fri May 10 2024,19:45,IST/+0100,Derry City,1-0,0-0,Bohemian FC,2024-05-10T18:45Z
+15,Fri May 10 2024,19:45,IST/+0100,Galway United,0-0,0-0,Sligo Rovers,2024-05-10T18:45Z
+15,Fri May 10 2024,19:45,IST/+0100,Shelbourne FC,1-1,0-1,Drogheda United,2024-05-10T18:45Z
+16,Fri May 17 2024,19:45,IST/+0100,St Patrick's Athletic,0-1,0-0,Derry City,2024-05-17T18:45Z
+16,Fri May 17 2024,19:45,IST/+0100,Sligo Rovers,0-3,0-2,Bohemian FC,2024-05-17T18:45Z
+16,Fri May 17 2024,20:15,IST/+0100,Dundalk FC,1-0,0-0,Shamrock Rovers,2024-05-17T19:15Z
+16,Fri May 17 2024,19:45,IST/+0100,Drogheda United,2-3,1-1,Galway United,2024-05-17T18:45Z
+16,Fri May 17 2024,19:45,IST/+0100,Shelbourne FC,1-0,0-0,Waterford FC,2024-05-17T18:45Z
+25,Mon May 20 2024,19:45,IST/+0100,St Patrick's Athletic,1-2,0-1,Shelbourne FC,2024-05-20T18:45Z
+25,Mon May 20 2024,20:00,IST/+0100,Shamrock Rovers,1-0,1-0,Derry City,2024-05-20T19:00Z
+17,Thu May 23 2024,19:45,IST/+0100,Waterford FC,4-2,0-1,Drogheda United,2024-05-23T18:45Z
+17,Fri May 24 2024,20:00,IST/+0100,Shamrock Rovers,0-2,0-1,Shelbourne FC,2024-05-24T19:00Z
+17,Fri May 24 2024,19:45,IST/+0100,Galway United,2-0,1-0,Dundalk FC,2024-05-24T18:45Z
+17,Fri May 24 2024,19:45,IST/+0100,Bohemian FC,2-2,1-2,St Patrick's Athletic,2024-05-24T18:45Z
+17,Fri May 24 2024,19:45,IST/+0100,Derry City,2-2,0-1,Sligo Rovers,2024-05-24T18:45Z
+18,Fri May 31 2024,19:45,IST/+0100,Dundalk FC,0-0,0-0,Derry City,2024-05-31T18:45Z
+18,Fri May 31 2024,19:45,IST/+0100,Drogheda United,0-2,0-0,Shamrock Rovers,2024-05-31T18:45Z
+18,Fri May 31 2024,19:45,IST/+0100,Waterford FC,2-1,1-1,Bohemian FC,2024-05-31T18:45Z
+18,Fri May 31 2024,19:45,IST/+0100,St Patrick's Athletic,2-1,1-0,Galway United,2024-05-31T18:45Z
+18,Fri May 31 2024,19:45,IST/+0100,Shelbourne FC,1-2,0-1,Sligo Rovers,2024-05-31T18:45Z
+19,Mon Jun 3 2024,17:00,IST/+0100,Sligo Rovers,2-1,2-0,Drogheda United,2024-06-03T16:00Z
+19,Mon Jun 3 2024,17:15,IST/+0100,St Patrick's Athletic,2-3,2-3,Dundalk FC,2024-06-03T16:15Z
+19,Mon Jun 3 2024,18:00,IST/+0100,Derry City,3-0,3-0,Waterford FC,2024-06-03T17:00Z
+20,Fri Jun 7 2024,19:45,IST/+0100,Shelbourne FC,1-0,0-0,Dundalk FC,2024-06-07T18:45Z
+20,Fri Jun 7 2024,19:45,IST/+0100,Waterford FC,4-1,1-0,Sligo Rovers,2024-06-07T18:45Z
+20,Fri Jun 7 2024,19:45,IST/+0100,Derry City,2-0,0-0,Galway United,2024-06-07T18:45Z
+20,Fri Jun 7 2024,19:45,IST/+0100,Drogheda United,0-0,0-0,St Patrick's Athletic,2024-06-07T18:45Z
+21,Thu Jun 13 2024,19:45,IST/+0100,Dundalk FC,1-0,0-0,Sligo Rovers,2024-06-13T18:45Z
+21,Thu Jun 13 2024,19:45,IST/+0100,Galway United,3-0,1-0,Drogheda United,2024-06-13T18:45Z
+21,Thu Jun 13 2024,19:45,IST/+0100,St Patrick's Athletic,2-1,0-1,Shamrock Rovers,2024-06-13T18:45Z
+21,Thu Jun 13 2024,19:45,IST/+0100,Waterford FC,0-1,0-0,Shelbourne FC,2024-06-13T18:45Z
+21,Thu Jun 13 2024,19:45,IST/+0100,Bohemian FC,1-2,1-1,Derry City,2024-06-13T18:45Z
+22,Fri Jun 28 2024,19:45,IST/+0100,Dundalk FC,0-2,0-2,Waterford FC,2024-06-28T18:45Z
+22,Fri Jun 28 2024,19:45,IST/+0100,Shelbourne FC,2-0,2-0,Galway United,2024-06-28T18:45Z
+22,Fri Jun 28 2024,19:45,IST/+0100,Derry City,5-1,2-1,Drogheda United,2024-06-28T18:45Z
+22,Fri Jun 28 2024,19:45,IST/+0100,St Patrick's Athletic,0-0,0-0,Bohemian FC,2024-06-28T18:45Z
+22,Fri Jun 28 2024,19:45,IST/+0100,Sligo Rovers,2-0,0-0,Shamrock Rovers,2024-06-28T18:45Z
+23,Thu Jul 4 2024,19:45,IST/+0100,Sligo Rovers,2-1,0-0,Derry City,2024-07-04T18:45Z
+23,Thu Jul 4 2024,19:45,IST/+0100,Waterford FC,1-0,0-0,St Patrick's Athletic,2024-07-04T18:45Z
+23,Thu Jul 4 2024,20:00,IST/+0100,Shamrock Rovers,1-0,1-0,Dundalk FC,2024-07-04T19:00Z
+23,Thu Jul 4 2024,19:45,IST/+0100,Galway United,1-1,0-1,Bohemian FC,2024-07-04T18:45Z
+23,Thu Jul 4 2024,19:45,IST/+0100,Drogheda United,1-1,0-1,Shelbourne FC,2024-07-04T18:45Z
+24,Fri Jul 12 2024,19:45,IST/+0100,Galway United,1-0,1-0,Waterford FC,2024-07-12T18:45Z
+24,Fri Jul 12 2024,19:45,IST/+0100,Bohemian FC,0-2,0-1,Sligo Rovers,2024-07-12T18:45Z
+24,Fri Jul 12 2024,19:45,IST/+0100,Dundalk FC,4-2,2-1,Drogheda United,2024-07-12T18:45Z
+25,Fri Jul 26 2024,19:45,IST/+0100,Drogheda United,2-0,1-0,Waterford FC,2024-07-26T18:45Z
+25,Fri Jul 26 2024,19:45,IST/+0100,Bohemian FC,1-1,1-1,Dundalk FC,2024-07-26T18:45Z
+25,Sat Jul 27 2024,19:45,IST/+0100,Sligo Rovers,2-0,1-0,Galway United,2024-07-27T18:45Z
+26,Fri Aug 2 2024,19:45,IST/+0100,Drogheda United,2-2,1-2,Bohemian FC,2024-08-02T18:45Z
+26,Fri Aug 2 2024,19:45,IST/+0100,Dundalk FC,0-2,0-0,Galway United,2024-08-02T18:45Z
+26,Fri Aug 2 2024,19:45,IST/+0100,Waterford FC,1-2,0-1,Shamrock Rovers,2024-08-02T18:45Z
+26,Sun Aug 4 2024,18:00,IST/+0100,St Patrick's Athletic,3-2,1-1,Sligo Rovers,2024-08-04T17:00Z
+26,Mon Aug 5 2024,19:45,IST/+0100,Shelbourne FC,0-0,0-0,Derry City,2024-08-05T18:45Z
+27,Fri Aug 9 2024,19:45,IST/+0100,Bohemian FC,2-3,2-0,Waterford FC,2024-08-09T18:45Z
+27,Fri Aug 9 2024,19:45,IST/+0100,Derry City,1-1,0-1,Dundalk FC,2024-08-09T18:45Z
+27,Sat Aug 10 2024,19:45,IST/+0100,Sligo Rovers,2-1,1-0,Shelbourne FC,2024-08-10T18:45Z
+27,Sun Aug 11 2024,19:00,IST/+0100,Shamrock Rovers,1-1,1-0,Drogheda United,2024-08-11T18:00Z
+27,Sun Aug 11 2024,15:00,IST/+0100,Galway United,1-1,0-1,St Patrick's Athletic,2024-08-11T14:00Z
+28,Fri Aug 23 2024,19:45,IST/+0100,Waterford FC,0-1,0-0,Derry City,2024-08-23T18:45Z
+28,Fri Aug 23 2024,19:45,IST/+0100,Drogheda United,7-0,3-0,Sligo Rovers,2024-08-23T18:45Z
+28,Fri Aug 23 2024,19:45,IST/+0100,Shelbourne FC,1-1,1-1,Bohemian FC,2024-08-23T18:45Z
+28,Sun Aug 25 2024,19:00,IST/+0100,Shamrock Rovers,1-1,0-0,Galway United,2024-08-25T18:00Z
+29,Fri Aug 30 2024,19:45,IST/+0100,Galway United,1-0,0-0,Derry City,2024-08-30T18:45Z
+29,Fri Aug 30 2024,19:45,IST/+0100,Dundalk FC,0-1,0-1,Shelbourne FC,2024-08-30T18:45Z
+29,Sat Aug 31 2024,19:45,IST/+0100,Sligo Rovers,2-0,1-0,Waterford FC,2024-08-31T18:45Z
+29,Sun Sep 1 2024,11:30,IST/+0100,Bohemian FC,2-1,1-1,Shamrock Rovers,2024-09-01T10:30Z
+29,Sun Sep 1 2024,18:00,IST/+0100,St Patrick's Athletic,4-1,2-1,Drogheda United,2024-09-01T17:00Z
+28,Thu Sep 5 2024,19:45,IST/+0100,Dundalk FC,1-2,1-0,St Patrick's Athletic,2024-09-05T18:45Z
+19,Fri Sep 6 2024,19:45,IST/+0100,Bohemian FC,1-1,0-0,Shelbourne FC,2024-09-06T18:45Z
+30,Fri Sep 13 2024,19:45,IST/+0100,Shamrock Rovers,,,Sligo Rovers,2024-09-13T18:45Z
+30,Fri Sep 13 2024,19:45,IST/+0100,Waterford FC,,,Dundalk FC,2024-09-13T18:45Z
+19,Mon Sep 16 2024,19:45,IST/+0100,Galway United,,,Shamrock Rovers,2024-09-16T18:45Z
+31,Fri Sep 20 2024,19:45,IST/+0100,St Patrick's Athletic,,,Waterford FC,2024-09-20T18:45Z
+31,Fri Sep 20 2024,19:45,IST/+0100,Galway United,,,Shelbourne FC,2024-09-20T18:45Z
+31,Fri Sep 20 2024,19:45,IST/+0100,Derry City,,,Shamrock Rovers,2024-09-20T18:45Z
+31,Fri Sep 20 2024,19:45,IST/+0100,Bohemian FC,,,Drogheda United,2024-09-20T18:45Z
+31,Sat Sep 21 2024,19:45,IST/+0100,Sligo Rovers,,,Dundalk FC,2024-09-21T18:45Z
+30,Mon Sep 23 2024,19:45,IST/+0100,Drogheda United,,,Galway United,2024-09-23T18:45Z
+20,Mon Sep 23 2024,19:45,IST/+0100,Shamrock Rovers,,,Bohemian FC,2024-09-23T18:45Z
+32,Fri Sep 27 2024,20:00,IST/+0100,Shamrock Rovers,,,St Patrick's Athletic,2024-09-27T19:00Z
+32,Fri Sep 27 2024,19:45,IST/+0100,Waterford FC,,,Galway United,2024-09-27T18:45Z
+32,Fri Sep 27 2024,19:45,IST/+0100,Drogheda United,,,Derry City,2024-09-27T18:45Z
+32,Fri Sep 27 2024,19:45,IST/+0100,Dundalk FC,,,Bohemian FC,2024-09-27T18:45Z
+32,Fri Sep 27 2024,19:45,IST/+0100,Shelbourne FC,,,Sligo Rovers,2024-09-27T18:45Z
+30,Mon Sep 30 2024,19:45,IST/+0100,Shelbourne FC,,,St Patrick's Athletic,2024-09-30T18:45Z
+33,Fri Oct 4 2024,19:45,IST/+0100,Bohemian FC,,,St Patrick's Athletic,2024-10-04T18:45Z
+33,Fri Oct 4 2024,19:45,IST/+0100,Derry City,,,Sligo Rovers,2024-10-04T18:45Z
+33,Fri Oct 4 2024,19:45,IST/+0100,Galway United,,,Dundalk FC,2024-10-04T18:45Z
+33,Fri Oct 4 2024,20:00,IST/+0100,Shamrock Rovers,,,Shelbourne FC,2024-10-04T19:00Z
+33,Fri Oct 4 2024,19:45,IST/+0100,Waterford FC,,,Drogheda United,2024-10-04T18:45Z
+30,Fri Oct 11 2024,19:45,IST/+0100,Derry City,,,Bohemian FC,2024-10-11T18:45Z
+34,Fri Oct 18 2024,19:45,IST/+0100,Dundalk FC,,,Derry City,2024-10-18T18:45Z
+34,Fri Oct 18 2024,19:45,IST/+0100,Shelbourne FC,,,Waterford FC,2024-10-18T18:45Z
+34,Fri Oct 18 2024,19:45,IST/+0100,St Patrick's Athletic,,,Galway United,2024-10-18T18:45Z
+34,Fri Oct 18 2024,19:45,IST/+0100,Drogheda United,,,Shamrock Rovers,2024-10-18T18:45Z
+34,Sat Oct 19 2024,19:45,IST/+0100,Sligo Rovers,,,Bohemian FC,2024-10-19T18:45Z
+35,Fri Oct 25 2024,19:45,IST/+0100,Galway United,,,Sligo Rovers,2024-10-25T18:45Z
+35,Fri Oct 25 2024,19:45,IST/+0100,Shelbourne FC,,,Drogheda United,2024-10-25T18:45Z
+35,Fri Oct 25 2024,19:45,IST/+0100,St Patrick's Athletic,,,Derry City,2024-10-25T18:45Z
+35,Fri Oct 25 2024,19:45,IST/+0100,Waterford FC,,,Bohemian FC,2024-10-25T18:45Z
+35,Fri Oct 25 2024,19:45,IST/+0100,Dundalk FC,,,Shamrock Rovers,2024-10-25T18:45Z
+36,Fri Nov 1 2024,19:45,GMT/+0000,Bohemian FC,,,Galway United,2024-11-01T19:45Z
+36,Fri Nov 1 2024,19:45,GMT/+0000,Derry City,,,Shelbourne FC,2024-11-01T19:45Z
+36,Fri Nov 1 2024,19:45,GMT/+0000,Drogheda United,,,Dundalk FC,2024-11-01T19:45Z
+36,Fri Nov 1 2024,19:45,GMT/+0000,Shamrock Rovers,,,Waterford FC,2024-11-01T19:45Z
+36,Fri Nov 1 2024,19:45,GMT/+0000,Sligo Rovers,,,St Patrick's Athletic,2024-11-01T19:45Z
