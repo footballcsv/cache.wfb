@@ -1,0 +1,307 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 26 2024,19:00,CEST/+0200,FC Gütersloh,0-1,0-0,MSV Duisburg,2024-07-26T17:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,KFC Uerdingen 05,0-2,0-1,Sportfreunde Lotte,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,Fortuna Köln,2-0,0-0,SV Rödinghausen,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,Fortuna Düsseldorf II,1-0,0-0,1. FC Bocholt,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,SC Paderborn 07 II,1-1,0-1,1. FC Düren,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,Eintracht Hohkeppel,1-2,1-0,1. FC Köln II,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,Rot-Weiß Oberhausen,2-4,1-1,Bor. Mönchengladbach II,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,Türkspor Dortmund,1-1,1-0,Wuppertaler SV,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,SC Wiedenbrück,0-2,0-0,FC Schalke 04 II,2024-07-27T12:00Z
+2,Fri Aug 2 2024,19:00,CEST/+0200,Sportfreunde Lotte,3-2,1-1,FC Gütersloh,2024-08-02T17:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,MSV Duisburg,5-0,3-0,Türkspor Dortmund,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,Wuppertaler SV,0-5,0-3,Rot-Weiß Oberhausen,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,Bor. Mönchengladbach II,1-1,1-0,Eintracht Hohkeppel,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,1. FC Köln II,5-0,2-0,SC Paderborn 07 II,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,1. FC Bocholt,3-5,1-2,Fortuna Köln,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,SV Rödinghausen,3-2,1-2,SC Wiedenbrück,2024-08-03T12:00Z
+2,Sat Aug 3 2024,12:30,CEST/+0200,FC Schalke 04 II,2-1,2-1,KFC Uerdingen 05,2024-08-03T10:30Z
+2,Sun Aug 4 2024,14:00,CEST/+0200,1. FC Düren,2-0,1-0,Fortuna Düsseldorf II,2024-08-04T12:00Z
+3,Fri Aug 9 2024,18:30,CEST/+0200,FC Schalke 04 II,2-2,0-2,SV Rödinghausen,2024-08-09T16:30Z
+3,Fri Aug 9 2024,19:30,CEST/+0200,Fortuna Köln,1-0,0-0,1. FC Düren,2024-08-09T17:30Z
+3,Fri Aug 9 2024,18:00,CEST/+0200,Bor. Mönchengladbach II,2-1,0-1,SC Paderborn 07 II,2024-08-09T16:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,KFC Uerdingen 05,2-0,0-0,FC Gütersloh,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,Fortuna Düsseldorf II,0-0,0-0,1. FC Köln II,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,Eintracht Hohkeppel,3-1,0-0,Wuppertaler SV,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,Rot-Weiß Oberhausen,0-2,0-1,MSV Duisburg,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,Türkspor Dortmund,0-1,0-0,Sportfreunde Lotte,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,SC Wiedenbrück,2-1,1-1,1. FC Bocholt,2024-08-10T12:00Z
+4,Fri Aug 16 2024,19:30,CEST/+0200,MSV Duisburg,2-0,0-0,Eintracht Hohkeppel,2024-08-16T17:30Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,1. FC Düren,1-0,0-0,SC Wiedenbrück,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,1. FC Bocholt,3-1,1-0,FC Schalke 04 II,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,SV Rödinghausen,1-2,0-1,KFC Uerdingen 05,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,FC Gütersloh,2-2,2-0,Türkspor Dortmund,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,Bor. Mönchengladbach II,2-1,1-0,Fortuna Düsseldorf II,2024-08-17T12:00Z
+4,Sun Aug 18 2024,14:00,CEST/+0200,1. FC Köln II,1-2,1-1,Fortuna Köln,2024-08-18T12:00Z
+4,Sun Aug 18 2024,14:00,CEST/+0200,Wuppertaler SV,1-4,0-2,SC Paderborn 07 II,2024-08-18T12:00Z
+5,Fri Aug 23 2024,19:30,CEST/+0200,Rot-Weiß Oberhausen,3-2,2-0,FC Gütersloh,2024-08-23T17:30Z
+5,Fri Aug 23 2024,19:00,CEST/+0200,SC Paderborn 07 II,2-1,1-0,MSV Duisburg,2024-08-23T17:00Z
+5,Fri Aug 23 2024,19:30,CEST/+0200,Fortuna Köln,4-2,2-2,Bor. Mönchengladbach II,2024-08-23T17:30Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,KFC Uerdingen 05,2-1,1-0,Türkspor Dortmund,2024-08-24T12:00Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,Eintracht Hohkeppel,2-2,0-1,Sportfreunde Lotte,2024-08-24T12:00Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,SV Rödinghausen,2-0,0-0,1. FC Bocholt,2024-08-24T12:00Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,FC Schalke 04 II,1-4,1-1,1. FC Düren,2024-08-24T12:00Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,SC Wiedenbrück,1-2,0-1,1. FC Köln II,2024-08-24T12:00Z
+5,Sun Aug 25 2024,14:00,CEST/+0200,Fortuna Düsseldorf II,0-2,0-0,Wuppertaler SV,2024-08-25T12:00Z
+6,Fri Aug 30 2024,19:30,CEST/+0200,Wuppertaler SV,3-1,1-1,Fortuna Köln,2024-08-30T17:30Z
+6,Fri Aug 30 2024,19:30,CEST/+0200,MSV Duisburg,2-2,0-2,Fortuna Düsseldorf II,2024-08-30T17:30Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,Bor. Mönchengladbach II,1-1,0-0,SC Wiedenbrück,2024-08-31T12:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,1. FC Düren,0-4,0-4,SV Rödinghausen,2024-08-31T12:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,1. FC Bocholt,2-0,1-0,KFC Uerdingen 05,2024-08-31T12:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,Türkspor Dortmund,1-6,1-2,Rot-Weiß Oberhausen,2024-08-31T12:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,FC Gütersloh,3-0,2-0,Eintracht Hohkeppel,2024-08-31T12:00Z
+6,Sun Sep 1 2024,14:00,CEST/+0200,Sportfreunde Lotte,3-2,0-2,SC Paderborn 07 II,2024-09-01T12:00Z
+6,Sun Sep 1 2024,14:00,CEST/+0200,1. FC Köln II,4-0,3-0,FC Schalke 04 II,2024-09-01T12:00Z
+4,Sat Sep 7 2024,14:00,CEST/+0200,Sportfreunde Lotte,1-4,0-1,Rot-Weiß Oberhausen,2024-09-07T12:00Z
+7,Fri Sep 13 2024,19:30,CEST/+0200,KFC Uerdingen 05,,,Rot-Weiß Oberhausen,2024-09-13T17:30Z
+7,Fri Sep 13 2024,19:30,CEST/+0200,SC Paderborn 07 II,,,FC Gütersloh,2024-09-13T17:30Z
+7,Fri Sep 13 2024,19:30,CEST/+0200,SC Wiedenbrück,,,Wuppertaler SV,2024-09-13T17:30Z
+7,Sat Sep 14 2024,14:00,CEST/+0200,Eintracht Hohkeppel,,,Türkspor Dortmund,2024-09-14T12:00Z
+7,Sat Sep 14 2024,14:00,CEST/+0200,1. FC Bocholt,,,1. FC Düren,2024-09-14T12:00Z
+7,Sat Sep 14 2024,14:00,CEST/+0200,SV Rödinghausen,,,1. FC Köln II,2024-09-14T12:00Z
+7,Sat Sep 14 2024,14:00,CEST/+0200,FC Schalke 04 II,,,Bor. Mönchengladbach II,2024-09-14T12:00Z
+7,Sat Sep 14 2024,14:00,CEST/+0200,Fortuna Köln,,,MSV Duisburg,2024-09-14T12:00Z
+7,Sun Sep 15 2024,14:00,CEST/+0200,Fortuna Düsseldorf II,,,Sportfreunde Lotte,2024-09-15T12:00Z
+8,Fri Sep 20 2024,19:30,CEST/+0200,Türkspor Dortmund,,,SC Paderborn 07 II,2024-09-20T17:30Z
+8,Fri Sep 20 2024,19:30,CEST/+0200,Wuppertaler SV,,,FC Schalke 04 II,2024-09-20T17:30Z
+8,Sat Sep 21 2024,14:00,CEST/+0200,MSV Duisburg,,,SC Wiedenbrück,2024-09-21T12:00Z
+8,Sat Sep 21 2024,14:00,CEST/+0200,Bor. Mönchengladbach II,,,SV Rödinghausen,2024-09-21T12:00Z
+8,Sat Sep 21 2024,14:00,CEST/+0200,1. FC Köln II,,,1. FC Bocholt,2024-09-21T12:00Z
+8,Sat Sep 21 2024,14:00,CEST/+0200,1. FC Düren,,,KFC Uerdingen 05,2024-09-21T12:00Z
+8,Sat Sep 21 2024,14:00,CEST/+0200,Rot-Weiß Oberhausen,,,Eintracht Hohkeppel,2024-09-21T12:00Z
+8,Sat Sep 21 2024,14:00,CEST/+0200,FC Gütersloh,,,Fortuna Düsseldorf II,2024-09-21T12:00Z
+8,Sat Sep 21 2024,14:00,CEST/+0200,Sportfreunde Lotte,,,Fortuna Köln,2024-09-21T12:00Z
+9,Fri Sep 27 2024,19:30,CEST/+0200,SC Wiedenbrück,,,Sportfreunde Lotte,2024-09-27T17:30Z
+9,Sat Sep 28 2024,14:00,CEST/+0200,KFC Uerdingen 05,,,Eintracht Hohkeppel,2024-09-28T12:00Z
+9,Sat Sep 28 2024,14:00,CEST/+0200,Fortuna Köln,,,FC Gütersloh,2024-09-28T12:00Z
+9,Sat Sep 28 2024,14:00,CEST/+0200,Fortuna Düsseldorf II,,,Türkspor Dortmund,2024-09-28T12:00Z
+9,Sat Sep 28 2024,14:00,CEST/+0200,SC Paderborn 07 II,,,Rot-Weiß Oberhausen,2024-09-28T12:00Z
+9,Sat Sep 28 2024,14:00,CEST/+0200,1. FC Bocholt,,,Bor. Mönchengladbach II,2024-09-28T12:00Z
+9,Sat Sep 28 2024,14:00,CEST/+0200,SV Rödinghausen,,,Wuppertaler SV,2024-09-28T12:00Z
+9,Sat Sep 28 2024,19:30,CEST/+0200,FC Schalke 04 II,,,MSV Duisburg,2024-09-28T17:30Z
+9,Sun Sep 29 2024,14:00,CEST/+0200,1. FC Düren,,,1. FC Köln II,2024-09-29T12:00Z
+10,Sat Oct 5 2024,,,MSV Duisburg,,,SV Rödinghausen,
+10,Sat Oct 5 2024,,,Wuppertaler SV,,,1. FC Bocholt,
+10,Sat Oct 5 2024,,,Bor. Mönchengladbach II,,,1. FC Düren,
+10,Sat Oct 5 2024,,,1. FC Köln II,,,KFC Uerdingen 05,
+10,Sat Oct 5 2024,,,Eintracht Hohkeppel,,,SC Paderborn 07 II,
+10,Sat Oct 5 2024,,,Rot-Weiß Oberhausen,,,Fortuna Düsseldorf II,
+10,Sat Oct 5 2024,,,Türkspor Dortmund,,,Fortuna Köln,
+10,Sat Oct 5 2024,,,FC Gütersloh,,,SC Wiedenbrück,
+10,Sat Oct 5 2024,,,Sportfreunde Lotte,,,FC Schalke 04 II,
+11,Sat Oct 12 2024,,,KFC Uerdingen 05,,,SC Paderborn 07 II,
+11,Sat Oct 12 2024,,,Fortuna Köln,,,Rot-Weiß Oberhausen,
+11,Sat Oct 12 2024,,,Fortuna Düsseldorf II,,,Eintracht Hohkeppel,
+11,Sat Oct 12 2024,,,1. FC Köln II,,,Bor. Mönchengladbach II,
+11,Sat Oct 12 2024,,,1. FC Düren,,,Wuppertaler SV,
+11,Sat Oct 12 2024,,,1. FC Bocholt,,,MSV Duisburg,
+11,Sat Oct 12 2024,,,SV Rödinghausen,,,Sportfreunde Lotte,
+11,Sat Oct 12 2024,,,FC Schalke 04 II,,,FC Gütersloh,
+11,Sat Oct 12 2024,,,SC Wiedenbrück,,,Türkspor Dortmund,
+12,Sat Oct 19 2024,,,MSV Duisburg,,,1. FC Düren,
+12,Sat Oct 19 2024,,,Wuppertaler SV,,,1. FC Köln II,
+12,Sat Oct 19 2024,,,Bor. Mönchengladbach II,,,KFC Uerdingen 05,
+12,Sat Oct 19 2024,,,SC Paderborn 07 II,,,Fortuna Düsseldorf II,
+12,Sat Oct 19 2024,,,Eintracht Hohkeppel,,,Fortuna Köln,
+12,Sat Oct 19 2024,,,Rot-Weiß Oberhausen,,,SC Wiedenbrück,
+12,Sat Oct 19 2024,,,Türkspor Dortmund,,,FC Schalke 04 II,
+12,Sat Oct 19 2024,,,FC Gütersloh,,,SV Rödinghausen,
+12,Sat Oct 19 2024,,,Sportfreunde Lotte,,,1. FC Bocholt,
+13,Sat Oct 26 2024,,,KFC Uerdingen 05,,,Fortuna Düsseldorf II,
+13,Sat Oct 26 2024,,,Fortuna Köln,,,SC Paderborn 07 II,
+13,Sat Oct 26 2024,,,Bor. Mönchengladbach II,,,Wuppertaler SV,
+13,Sat Oct 26 2024,,,1. FC Köln II,,,MSV Duisburg,
+13,Sat Oct 26 2024,,,1. FC Düren,,,Sportfreunde Lotte,
+13,Sat Oct 26 2024,,,1. FC Bocholt,,,FC Gütersloh,
+13,Sat Oct 26 2024,,,SV Rödinghausen,,,Türkspor Dortmund,
+13,Sat Oct 26 2024,,,FC Schalke 04 II,,,Rot-Weiß Oberhausen,
+13,Sat Oct 26 2024,,,SC Wiedenbrück,,,Eintracht Hohkeppel,
+14,Sat Nov 2 2024,,,MSV Duisburg,,,Bor. Mönchengladbach II,
+14,Sat Nov 2 2024,,,Wuppertaler SV,,,KFC Uerdingen 05,
+14,Sat Nov 2 2024,,,Fortuna Düsseldorf II,,,Fortuna Köln,
+14,Sat Nov 2 2024,,,SC Paderborn 07 II,,,SC Wiedenbrück,
+14,Sat Nov 2 2024,,,Eintracht Hohkeppel,,,FC Schalke 04 II,
+14,Sat Nov 2 2024,,,Rot-Weiß Oberhausen,,,SV Rödinghausen,
+14,Sat Nov 2 2024,,,Türkspor Dortmund,,,1. FC Bocholt,
+14,Sat Nov 2 2024,,,FC Gütersloh,,,1. FC Düren,
+14,Sat Nov 2 2024,,,Sportfreunde Lotte,,,1. FC Köln II,
+15,Sat Nov 9 2024,,,KFC Uerdingen 05,,,Fortuna Köln,
+15,Sat Nov 9 2024,,,Wuppertaler SV,,,MSV Duisburg,
+15,Sat Nov 9 2024,,,Bor. Mönchengladbach II,,,Sportfreunde Lotte,
+15,Sat Nov 9 2024,,,1. FC Köln II,,,FC Gütersloh,
+15,Sat Nov 9 2024,,,1. FC Düren,,,Türkspor Dortmund,
+15,Sat Nov 9 2024,,,1. FC Bocholt,,,Rot-Weiß Oberhausen,
+15,Sat Nov 9 2024,,,SV Rödinghausen,,,Eintracht Hohkeppel,
+15,Sat Nov 9 2024,,,FC Schalke 04 II,,,SC Paderborn 07 II,
+15,Sat Nov 9 2024,,,SC Wiedenbrück,,,Fortuna Düsseldorf II,
+16,Sat Nov 23 2024,,,KFC Uerdingen 05,,,MSV Duisburg,
+16,Sat Nov 23 2024,,,Fortuna Köln,,,SC Wiedenbrück,
+16,Sat Nov 23 2024,,,Fortuna Düsseldorf II,,,FC Schalke 04 II,
+16,Sat Nov 23 2024,,,SC Paderborn 07 II,,,SV Rödinghausen,
+16,Sat Nov 23 2024,,,Eintracht Hohkeppel,,,1. FC Bocholt,
+16,Sat Nov 23 2024,,,Rot-Weiß Oberhausen,,,1. FC Düren,
+16,Sat Nov 23 2024,,,Türkspor Dortmund,,,1. FC Köln II,
+16,Sat Nov 23 2024,,,FC Gütersloh,,,Bor. Mönchengladbach II,
+16,Sat Nov 23 2024,,,Sportfreunde Lotte,,,Wuppertaler SV,
+17,Sat Nov 30 2024,,,MSV Duisburg,,,Sportfreunde Lotte,
+17,Sat Nov 30 2024,,,Wuppertaler SV,,,FC Gütersloh,
+17,Sat Nov 30 2024,,,Bor. Mönchengladbach II,,,Türkspor Dortmund,
+17,Sat Nov 30 2024,,,1. FC Köln II,,,Rot-Weiß Oberhausen,
+17,Sat Nov 30 2024,,,1. FC Düren,,,Eintracht Hohkeppel,
+17,Sat Nov 30 2024,,,1. FC Bocholt,,,SC Paderborn 07 II,
+17,Sat Nov 30 2024,,,SV Rödinghausen,,,Fortuna Düsseldorf II,
+17,Sat Nov 30 2024,,,FC Schalke 04 II,,,Fortuna Köln,
+17,Sat Nov 30 2024,,,SC Wiedenbrück,,,KFC Uerdingen 05,
+18,Sat Dec 7 2024,,,Sportfreunde Lotte,,,KFC Uerdingen 05,
+18,Sat Dec 7 2024,,,SV Rödinghausen,,,Fortuna Köln,
+18,Sat Dec 7 2024,,,1. FC Bocholt,,,Fortuna Düsseldorf II,
+18,Sat Dec 7 2024,,,1. FC Düren,,,SC Paderborn 07 II,
+18,Sat Dec 7 2024,,,1. FC Köln II,,,Eintracht Hohkeppel,
+18,Sat Dec 7 2024,,,Bor. Mönchengladbach II,,,Rot-Weiß Oberhausen,
+18,Sat Dec 7 2024,,,Wuppertaler SV,,,Türkspor Dortmund,
+18,Sat Dec 7 2024,,,MSV Duisburg,,,FC Gütersloh,
+18,Sat Dec 7 2024,,,FC Schalke 04 II,,,SC Wiedenbrück,
+19,Sat Jan 25 2025,,,Türkspor Dortmund,,,MSV Duisburg,
+19,Sat Jan 25 2025,,,Rot-Weiß Oberhausen,,,Wuppertaler SV,
+19,Sat Jan 25 2025,,,Eintracht Hohkeppel,,,Bor. Mönchengladbach II,
+19,Sat Jan 25 2025,,,SC Paderborn 07 II,,,1. FC Köln II,
+19,Sat Jan 25 2025,,,Fortuna Düsseldorf II,,,1. FC Düren,
+19,Sat Jan 25 2025,,,Fortuna Köln,,,1. FC Bocholt,
+19,Sat Jan 25 2025,,,SC Wiedenbrück,,,SV Rödinghausen,
+19,Sat Jan 25 2025,,,KFC Uerdingen 05,,,FC Schalke 04 II,
+19,Sat Jan 25 2025,,,FC Gütersloh,,,Sportfreunde Lotte,
+20,Sat Feb 1 2025,,,FC Gütersloh,,,KFC Uerdingen 05,
+20,Sat Feb 1 2025,,,1. FC Düren,,,Fortuna Köln,
+20,Sat Feb 1 2025,,,1. FC Köln II,,,Fortuna Düsseldorf II,
+20,Sat Feb 1 2025,,,SC Paderborn 07 II,,,Bor. Mönchengladbach II,
+20,Sat Feb 1 2025,,,Wuppertaler SV,,,Eintracht Hohkeppel,
+20,Sat Feb 1 2025,,,MSV Duisburg,,,Rot-Weiß Oberhausen,
+20,Sat Feb 1 2025,,,Sportfreunde Lotte,,,Türkspor Dortmund,
+20,Sat Feb 1 2025,,,SV Rödinghausen,,,FC Schalke 04 II,
+20,Sat Feb 1 2025,,,1. FC Bocholt,,,SC Wiedenbrück,
+21,Sat Feb 8 2025,,,Eintracht Hohkeppel,,,MSV Duisburg,
+21,Sat Feb 8 2025,,,SC Paderborn 07 II,,,Wuppertaler SV,
+21,Sat Feb 8 2025,,,Fortuna Düsseldorf II,,,Bor. Mönchengladbach II,
+21,Sat Feb 8 2025,,,Fortuna Köln,,,1. FC Köln II,
+21,Sat Feb 8 2025,,,SC Wiedenbrück,,,1. FC Düren,
+21,Sat Feb 8 2025,,,FC Schalke 04 II,,,1. FC Bocholt,
+21,Sat Feb 8 2025,,,KFC Uerdingen 05,,,SV Rödinghausen,
+21,Sat Feb 8 2025,,,Türkspor Dortmund,,,FC Gütersloh,
+21,Sat Feb 8 2025,,,Rot-Weiß Oberhausen,,,Sportfreunde Lotte,
+22,Sat Feb 15 2025,,,Türkspor Dortmund,,,KFC Uerdingen 05,
+22,Sat Feb 15 2025,,,Bor. Mönchengladbach II,,,Fortuna Köln,
+22,Sat Feb 15 2025,,,Wuppertaler SV,,,Fortuna Düsseldorf II,
+22,Sat Feb 15 2025,,,MSV Duisburg,,,SC Paderborn 07 II,
+22,Sat Feb 15 2025,,,Sportfreunde Lotte,,,Eintracht Hohkeppel,
+22,Sat Feb 15 2025,,,FC Gütersloh,,,Rot-Weiß Oberhausen,
+22,Sat Feb 15 2025,,,1. FC Bocholt,,,SV Rödinghausen,
+22,Sat Feb 15 2025,,,1. FC Düren,,,FC Schalke 04 II,
+22,Sat Feb 15 2025,,,1. FC Köln II,,,SC Wiedenbrück,
+23,Sat Feb 22 2025,,,Fortuna Düsseldorf II,,,MSV Duisburg,
+23,Sat Feb 22 2025,,,Fortuna Köln,,,Wuppertaler SV,
+23,Sat Feb 22 2025,,,SC Wiedenbrück,,,Bor. Mönchengladbach II,
+23,Sat Feb 22 2025,,,FC Schalke 04 II,,,1. FC Köln II,
+23,Sat Feb 22 2025,,,SV Rödinghausen,,,1. FC Düren,
+23,Sat Feb 22 2025,,,KFC Uerdingen 05,,,1. FC Bocholt,
+23,Sat Feb 22 2025,,,Rot-Weiß Oberhausen,,,Türkspor Dortmund,
+23,Sat Feb 22 2025,,,Eintracht Hohkeppel,,,FC Gütersloh,
+23,Sat Feb 22 2025,,,SC Paderborn 07 II,,,Sportfreunde Lotte,
+24,Sat Mar 1 2025,,,Rot-Weiß Oberhausen,,,KFC Uerdingen 05,
+24,Sat Mar 1 2025,,,MSV Duisburg,,,Fortuna Köln,
+24,Sat Mar 1 2025,,,Sportfreunde Lotte,,,Fortuna Düsseldorf II,
+24,Sat Mar 1 2025,,,FC Gütersloh,,,SC Paderborn 07 II,
+24,Sat Mar 1 2025,,,Türkspor Dortmund,,,Eintracht Hohkeppel,
+24,Sat Mar 1 2025,,,1. FC Düren,,,1. FC Bocholt,
+24,Sat Mar 1 2025,,,1. FC Köln II,,,SV Rödinghausen,
+24,Sat Mar 1 2025,,,Bor. Mönchengladbach II,,,FC Schalke 04 II,
+24,Sat Mar 1 2025,,,Wuppertaler SV,,,SC Wiedenbrück,
+25,Sat Mar 8 2025,,,KFC Uerdingen 05,,,1. FC Düren,
+25,Sat Mar 8 2025,,,Eintracht Hohkeppel,,,Rot-Weiß Oberhausen,
+25,Sat Mar 8 2025,,,SC Paderborn 07 II,,,Türkspor Dortmund,
+25,Sat Mar 8 2025,,,Fortuna Düsseldorf II,,,FC Gütersloh,
+25,Sat Mar 8 2025,,,Fortuna Köln,,,Sportfreunde Lotte,
+25,Sat Mar 8 2025,,,SC Wiedenbrück,,,MSV Duisburg,
+25,Sat Mar 8 2025,,,FC Schalke 04 II,,,Wuppertaler SV,
+25,Sat Mar 8 2025,,,SV Rödinghausen,,,Bor. Mönchengladbach II,
+25,Sat Mar 8 2025,,,1. FC Bocholt,,,1. FC Köln II,
+26,Sat Mar 15 2025,,,Eintracht Hohkeppel,,,KFC Uerdingen 05,
+26,Sat Mar 15 2025,,,FC Gütersloh,,,Fortuna Köln,
+26,Sat Mar 15 2025,,,Türkspor Dortmund,,,Fortuna Düsseldorf II,
+26,Sat Mar 15 2025,,,Rot-Weiß Oberhausen,,,SC Paderborn 07 II,
+26,Sat Mar 15 2025,,,1. FC Köln II,,,1. FC Düren,
+26,Sat Mar 15 2025,,,Bor. Mönchengladbach II,,,1. FC Bocholt,
+26,Sat Mar 15 2025,,,Wuppertaler SV,,,SV Rödinghausen,
+26,Sat Mar 15 2025,,,MSV Duisburg,,,FC Schalke 04 II,
+26,Sat Mar 15 2025,,,Sportfreunde Lotte,,,SC Wiedenbrück,
+27,Sat Mar 29 2025,,,SV Rödinghausen,,,MSV Duisburg,
+27,Sat Mar 29 2025,,,1. FC Bocholt,,,Wuppertaler SV,
+27,Sat Mar 29 2025,,,1. FC Düren,,,Bor. Mönchengladbach II,
+27,Sat Mar 29 2025,,,KFC Uerdingen 05,,,1. FC Köln II,
+27,Sat Mar 29 2025,,,SC Paderborn 07 II,,,Eintracht Hohkeppel,
+27,Sat Mar 29 2025,,,Fortuna Düsseldorf II,,,Rot-Weiß Oberhausen,
+27,Sat Mar 29 2025,,,SC Wiedenbrück,,,FC Gütersloh,
+27,Sat Mar 29 2025,,,Fortuna Köln,,,Türkspor Dortmund,
+27,Sat Mar 29 2025,,,FC Schalke 04 II,,,Sportfreunde Lotte,
+28,Sat Apr 5 2025,,,SC Paderborn 07 II,,,KFC Uerdingen 05,
+28,Sat Apr 5 2025,,,Rot-Weiß Oberhausen,,,Fortuna Köln,
+28,Sat Apr 5 2025,,,Bor. Mönchengladbach II,,,1. FC Köln II,
+28,Sat Apr 5 2025,,,Wuppertaler SV,,,1. FC Düren,
+28,Sat Apr 5 2025,,,MSV Duisburg,,,1. FC Bocholt,
+28,Sat Apr 5 2025,,,Sportfreunde Lotte,,,SV Rödinghausen,
+28,Sat Apr 5 2025,,,FC Gütersloh,,,FC Schalke 04 II,
+28,Sat Apr 5 2025,,,Türkspor Dortmund,,,SC Wiedenbrück,
+28,Sat Apr 5 2025,,,Eintracht Hohkeppel,,,Fortuna Düsseldorf II,
+29,Sat Apr 12 2025,,,1. FC Düren,,,MSV Duisburg,
+29,Sat Apr 12 2025,,,1. FC Köln II,,,Wuppertaler SV,
+29,Sat Apr 12 2025,,,KFC Uerdingen 05,,,Bor. Mönchengladbach II,
+29,Sat Apr 12 2025,,,Fortuna Düsseldorf II,,,SC Paderborn 07 II,
+29,Sat Apr 12 2025,,,Fortuna Köln,,,Eintracht Hohkeppel,
+29,Sat Apr 12 2025,,,SC Wiedenbrück,,,Rot-Weiß Oberhausen,
+29,Sat Apr 12 2025,,,FC Schalke 04 II,,,Türkspor Dortmund,
+29,Sat Apr 12 2025,,,SV Rödinghausen,,,FC Gütersloh,
+29,Sat Apr 12 2025,,,1. FC Bocholt,,,Sportfreunde Lotte,
+30,Sat Apr 19 2025,,,Fortuna Düsseldorf II,,,KFC Uerdingen 05,
+30,Sat Apr 19 2025,,,SC Paderborn 07 II,,,Fortuna Köln,
+30,Sat Apr 19 2025,,,Wuppertaler SV,,,Bor. Mönchengladbach II,
+30,Sat Apr 19 2025,,,MSV Duisburg,,,1. FC Köln II,
+30,Sat Apr 19 2025,,,Sportfreunde Lotte,,,1. FC Düren,
+30,Sat Apr 19 2025,,,FC Gütersloh,,,1. FC Bocholt,
+30,Sat Apr 19 2025,,,Türkspor Dortmund,,,SV Rödinghausen,
+30,Sat Apr 19 2025,,,Rot-Weiß Oberhausen,,,FC Schalke 04 II,
+30,Sat Apr 19 2025,,,Eintracht Hohkeppel,,,SC Wiedenbrück,
+31,Sat Apr 26 2025,,,Bor. Mönchengladbach II,,,MSV Duisburg,
+31,Sat Apr 26 2025,,,KFC Uerdingen 05,,,Wuppertaler SV,
+31,Sat Apr 26 2025,,,Fortuna Köln,,,Fortuna Düsseldorf II,
+31,Sat Apr 26 2025,,,SC Wiedenbrück,,,SC Paderborn 07 II,
+31,Sat Apr 26 2025,,,FC Schalke 04 II,,,Eintracht Hohkeppel,
+31,Sat Apr 26 2025,,,SV Rödinghausen,,,Rot-Weiß Oberhausen,
+31,Sat Apr 26 2025,,,1. FC Bocholt,,,Türkspor Dortmund,
+31,Sat Apr 26 2025,,,1. FC Düren,,,FC Gütersloh,
+31,Sat Apr 26 2025,,,1. FC Köln II,,,Sportfreunde Lotte,
+32,Sat May 3 2025,,,Fortuna Köln,,,KFC Uerdingen 05,
+32,Sat May 3 2025,,,MSV Duisburg,,,Wuppertaler SV,
+32,Sat May 3 2025,,,Sportfreunde Lotte,,,Bor. Mönchengladbach II,
+32,Sat May 3 2025,,,FC Gütersloh,,,1. FC Köln II,
+32,Sat May 3 2025,,,Türkspor Dortmund,,,1. FC Düren,
+32,Sat May 3 2025,,,Rot-Weiß Oberhausen,,,1. FC Bocholt,
+32,Sat May 3 2025,,,Eintracht Hohkeppel,,,SV Rödinghausen,
+32,Sat May 3 2025,,,SC Paderborn 07 II,,,FC Schalke 04 II,
+32,Sat May 3 2025,,,Fortuna Düsseldorf II,,,SC Wiedenbrück,
+33,Sat May 10 2025,,,MSV Duisburg,,,KFC Uerdingen 05,
+33,Sat May 10 2025,,,SC Wiedenbrück,,,Fortuna Köln,
+33,Sat May 10 2025,,,FC Schalke 04 II,,,Fortuna Düsseldorf II,
+33,Sat May 10 2025,,,SV Rödinghausen,,,SC Paderborn 07 II,
+33,Sat May 10 2025,,,1. FC Bocholt,,,Eintracht Hohkeppel,
+33,Sat May 10 2025,,,1. FC Düren,,,Rot-Weiß Oberhausen,
+33,Sat May 10 2025,,,1. FC Köln II,,,Türkspor Dortmund,
+33,Sat May 10 2025,,,Bor. Mönchengladbach II,,,FC Gütersloh,
+33,Sat May 10 2025,,,Wuppertaler SV,,,Sportfreunde Lotte,
+34,Sat May 17 2025,,,Sportfreunde Lotte,,,MSV Duisburg,
+34,Sat May 17 2025,,,FC Gütersloh,,,Wuppertaler SV,
+34,Sat May 17 2025,,,Türkspor Dortmund,,,Bor. Mönchengladbach II,
+34,Sat May 17 2025,,,Rot-Weiß Oberhausen,,,1. FC Köln II,
+34,Sat May 17 2025,,,Eintracht Hohkeppel,,,1. FC Düren,
+34,Sat May 17 2025,,,SC Paderborn 07 II,,,1. FC Bocholt,
+34,Sat May 17 2025,,,Fortuna Düsseldorf II,,,SV Rödinghausen,
+34,Sat May 17 2025,,,Fortuna Köln,,,FC Schalke 04 II,
+34,Sat May 17 2025,,,KFC Uerdingen 05,,,SC Wiedenbrück,

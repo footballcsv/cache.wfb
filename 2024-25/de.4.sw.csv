@@ -1,0 +1,307 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Jul 26 2024,19:00,CEST/+0200,Eintracht Trier,4-1,2-0,FC 08 Homburg,,2024-07-26T17:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,SC Freiburg II,2-2,0-0,Kickers Offenbach,,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,Stuttgarter Kickers,2-1,0-0,Eintracht Frankfurt II,,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,SG Barockstadt Fulda-Lehnerz,1-1,1-0,FC 08 Villingen,,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,Bahlinger SC,0-1,0-0,FC Gießen,,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,1899 Hoffenheim II,2-2,1-1,FC-Astoria Walldorf,,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,SGV Freiberg,2-2,1-1,Göppinger SV,,2024-07-27T12:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,FSV Frankfurt,1-1,0-1,TSV Steinbach Haiger,,2024-07-27T12:00Z
+1,Sun Jul 28 2024,14:00,CEST/+0200,1. FSV Mainz 05 II,3-0,3-0,Hessen Kassel,,2024-07-28T12:00Z
+2,Fri Aug 2 2024,19:00,CEST/+0200,Eintracht Frankfurt II,0-0,0-0,1. FSV Mainz 05 II,,2024-08-02T17:00Z
+2,Fri Aug 2 2024,19:00,CEST/+0200,FC-Astoria Walldorf,2-0,1-0,Bahlinger SC,,2024-08-02T17:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,TSV Steinbach Haiger,0-2,0-0,SGV Freiberg,,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,Göppinger SV,3-4,1-3,1899 Hoffenheim II,,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,FC Gießen,2-2,1-1,SG Barockstadt Fulda-Lehnerz,,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,FC 08 Villingen,0-2,0-0,Eintracht Trier,,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,FC 08 Homburg,1-1,0-1,Stuttgarter Kickers,,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,Hessen Kassel,1-3,0-1,SC Freiburg II,,2024-08-03T12:00Z
+2,Sat Aug 3 2024,14:00,CEST/+0200,Kickers Offenbach,5-0,1-0,FSV Frankfurt,,2024-08-03T12:00Z
+3,Fri Aug 9 2024,19:00,CEST/+0200,Hessen Kassel,2-0,1-0,Eintracht Frankfurt II,,2024-08-09T17:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,Eintracht Trier,0-0,0-0,FC Gießen,,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,SG Barockstadt Fulda-Lehnerz,2-1,2-1,FC-Astoria Walldorf,,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,Bahlinger SC,1-0,0-0,Göppinger SV,,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,SGV Freiberg,0-0,0-0,Kickers Offenbach,,2024-08-10T12:00Z
+3,Sat Aug 10 2024,14:00,CEST/+0200,Stuttgarter Kickers,1-0,1-0,FC 08 Villingen,,2024-08-10T12:00Z
+3,Sun Aug 11 2024,14:00,CEST/+0200,SC Freiburg II,0-3,0-1,FSV Frankfurt,,2024-08-11T12:00Z
+3,Sun Aug 11 2024,14:00,CEST/+0200,1899 Hoffenheim II,1-1,1-1,TSV Steinbach Haiger,,2024-08-11T12:00Z
+3,Sun Aug 11 2024,14:00,CEST/+0200,1. FSV Mainz 05 II,0-0,0-0,FC 08 Homburg,,2024-08-11T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,Göppinger SV,1-1,1-0,SG Barockstadt Fulda-Lehnerz,,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,FC-Astoria Walldorf,5-0,4-0,Eintracht Trier,,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,FC Gießen,2-2,1-2,Stuttgarter Kickers,,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,FC 08 Homburg,1-1,1-0,Hessen Kassel,,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,Eintracht Frankfurt II,1-5,0-3,SC Freiburg II,,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,FSV Frankfurt,2-1,0-0,SGV Freiberg,,2024-08-17T12:00Z
+4,Sat Aug 17 2024,14:00,CEST/+0200,TSV Steinbach Haiger,0-2,0-1,Bahlinger SC,,2024-08-17T12:00Z
+4,Tue Aug 20 2024,19:00,CEST/+0200,FC 08 Villingen,0-0,0-0,1. FSV Mainz 05 II,,2024-08-20T17:00Z
+5,Fri Aug 23 2024,19:00,CEST/+0200,Eintracht Frankfurt II,0-1,0-1,FC 08 Homburg,,2024-08-23T17:00Z
+5,Fri Aug 23 2024,19:00,CEST/+0200,1899 Hoffenheim II,2-3,1-2,FSV Frankfurt,,2024-08-23T17:00Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,Stuttgarter Kickers,1-0,1-0,FC-Astoria Walldorf,,2024-08-24T12:00Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,Eintracht Trier,2-0,1-0,Göppinger SV,,2024-08-24T12:00Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,SG Barockstadt Fulda-Lehnerz,0-1,0-1,TSV Steinbach Haiger,,2024-08-24T12:00Z
+5,Sat Aug 24 2024,14:00,CEST/+0200,Hessen Kassel,2-1,1-1,FC 08 Villingen,,2024-08-24T12:00Z
+5,Sun Aug 25 2024,14:00,CEST/+0200,SC Freiburg II,2-1,1-1,SGV Freiberg,,2024-08-25T12:00Z
+5,Sun Aug 25 2024,14:00,CEST/+0200,Bahlinger SC,1-5,0-4,Kickers Offenbach,,2024-08-25T12:00Z
+5,Sun Aug 25 2024,14:00,CEST/+0200,1. FSV Mainz 05 II,3-1,1-1,FC Gießen,,2024-08-25T12:00Z
+4,Wed Aug 28 2024,19:00,CEST/+0200,Kickers Offenbach,0-0,0-0,1899 Hoffenheim II,,2024-08-28T17:00Z
+6,Fri Aug 30 2024,19:00,CEST/+0200,TSV Steinbach Haiger,1-1,1-0,Eintracht Trier,,2024-08-30T17:00Z
+6,Fri Aug 30 2024,19:00,CEST/+0200,Göppinger SV,0-0,0-0,Stuttgarter Kickers,,2024-08-30T17:00Z
+6,Fri Aug 30 2024,19:00,CEST/+0200,FC 08 Homburg,2-2,1-0,SC Freiburg II,,2024-08-30T17:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,FC Gießen,3-1,2-0,Hessen Kassel,,2024-08-31T12:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,FC 08 Villingen,2-0,0-0,Eintracht Frankfurt II,,2024-08-31T12:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,SGV Freiberg,1-3,1-1,1899 Hoffenheim II,,2024-08-31T12:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,FSV Frankfurt,1-1,0-0,Bahlinger SC,,2024-08-31T12:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,FC-Astoria Walldorf,3-2,1-1,1. FSV Mainz 05 II,,2024-08-31T12:00Z
+6,Sun Sep 1 2024,14:00,CEST/+0200,Kickers Offenbach,2-1,0-1,SG Barockstadt Fulda-Lehnerz,,2024-09-01T12:00Z
+7,Sat Sep 7 2024,,,Eintracht Frankfurt II,,,FC Gießen,postponed,
+7,Sat Sep 7 2024,14:00,CEST/+0200,SC Freiburg II,1-5,0-4,1899 Hoffenheim II,,2024-09-07T12:00Z
+7,Sat Sep 7 2024,14:00,CEST/+0200,Stuttgarter Kickers,5-1,3-1,TSV Steinbach Haiger,,2024-09-07T12:00Z
+7,Sat Sep 7 2024,14:00,CEST/+0200,SG Barockstadt Fulda-Lehnerz,1-1,0-0,FSV Frankfurt,,2024-09-07T12:00Z
+7,Sat Sep 7 2024,14:00,CEST/+0200,Bahlinger SC,1-3,1-2,SGV Freiberg,,2024-09-07T12:00Z
+7,Sat Sep 7 2024,14:00,CEST/+0200,FC 08 Homburg,6-0,2-0,FC 08 Villingen,,2024-09-07T12:00Z
+7,Sat Sep 7 2024,14:00,CEST/+0200,Hessen Kassel,1-4,0-2,FC-Astoria Walldorf,,2024-09-07T12:00Z
+7,Sun Sep 8 2024,14:00,CEST/+0200,Eintracht Trier,0-3,0-1,Kickers Offenbach,,2024-09-08T12:00Z
+8,Fri Sep 13 2024,19:00,CEST/+0200,Kickers Offenbach,,,Stuttgarter Kickers,,2024-09-13T17:00Z
+8,Sat Sep 14 2024,14:00,CEST/+0200,FSV Frankfurt,,,Eintracht Trier,,2024-09-14T12:00Z
+8,Sat Sep 14 2024,14:00,CEST/+0200,TSV Steinbach Haiger,,,1. FSV Mainz 05 II,,2024-09-14T12:00Z
+8,Sat Sep 14 2024,14:00,CEST/+0200,FC-Astoria Walldorf,,,Eintracht Frankfurt II,,2024-09-14T12:00Z
+8,Sat Sep 14 2024,14:00,CEST/+0200,FC Gießen,,,FC 08 Homburg,,2024-09-14T12:00Z
+8,Sat Sep 14 2024,14:00,CEST/+0200,FC 08 Villingen,,,SC Freiburg II,,2024-09-14T12:00Z
+8,Sat Sep 14 2024,14:00,CEST/+0200,SGV Freiberg,,,SG Barockstadt Fulda-Lehnerz,,2024-09-14T12:00Z
+8,Sun Sep 15 2024,14:00,CEST/+0200,Göppinger SV,,,Hessen Kassel,,2024-09-15T12:00Z
+8,Sun Sep 15 2024,14:00,CEST/+0200,1899 Hoffenheim II,,,Bahlinger SC,,2024-09-15T12:00Z
+9,Fri Sep 20 2024,19:00,CEST/+0200,SC Freiburg II,,,Bahlinger SC,,2024-09-20T17:00Z
+9,Fri Sep 20 2024,19:00,CEST/+0200,Eintracht Frankfurt II,,,Göppinger SV,,2024-09-20T17:00Z
+9,Fri Sep 20 2024,19:00,CEST/+0200,1. FSV Mainz 05 II,,,Kickers Offenbach,,2024-09-20T17:00Z
+9,Sat Sep 21 2024,14:00,CEST/+0200,Hessen Kassel,,,TSV Steinbach Haiger,,2024-09-21T12:00Z
+9,Sat Sep 21 2024,14:00,CEST/+0200,Stuttgarter Kickers,,,FSV Frankfurt,,2024-09-21T12:00Z
+9,Sat Sep 21 2024,14:00,CEST/+0200,Eintracht Trier,,,SGV Freiberg,,2024-09-21T12:00Z
+9,Sat Sep 21 2024,14:00,CEST/+0200,SG Barockstadt Fulda-Lehnerz,,,1899 Hoffenheim II,,2024-09-21T12:00Z
+9,Sat Sep 21 2024,14:00,CEST/+0200,FC 08 Villingen,,,FC Gießen,,2024-09-21T12:00Z
+9,Sat Sep 21 2024,14:00,CEST/+0200,FC 08 Homburg,,,FC-Astoria Walldorf,,2024-09-21T12:00Z
+7,Tue Sep 24 2024,19:00,CEST/+0200,1. FSV Mainz 05 II,,,Göppinger SV,,2024-09-24T17:00Z
+10,Fri Sep 27 2024,19:00,CEST/+0200,1899 Hoffenheim II,,,Eintracht Trier,,2024-09-27T17:00Z
+10,Sat Sep 28 2024,14:00,CEST/+0200,TSV Steinbach Haiger,,,Eintracht Frankfurt II,,2024-09-28T12:00Z
+10,Sat Sep 28 2024,14:00,CEST/+0200,Göppinger SV,,,FC 08 Homburg,,2024-09-28T12:00Z
+10,Sat Sep 28 2024,14:00,CEST/+0200,FC-Astoria Walldorf,,,FC 08 Villingen,,2024-09-28T12:00Z
+10,Sat Sep 28 2024,14:00,CEST/+0200,FC Gießen,,,SC Freiburg II,,2024-09-28T12:00Z
+10,Sat Sep 28 2024,14:00,CEST/+0200,Bahlinger SC,,,SG Barockstadt Fulda-Lehnerz,,2024-09-28T12:00Z
+10,Sat Sep 28 2024,14:00,CEST/+0200,SGV Freiberg,,,Stuttgarter Kickers,,2024-09-28T12:00Z
+10,Sat Sep 28 2024,14:00,CEST/+0200,FSV Frankfurt,,,1. FSV Mainz 05 II,,2024-09-28T12:00Z
+10,Sun Sep 29 2024,14:00,CEST/+0200,Kickers Offenbach,,,Hessen Kassel,,2024-09-29T12:00Z
+11,Sat Oct 5 2024,,,SC Freiburg II,,,SG Barockstadt Fulda-Lehnerz,,
+11,Sat Oct 5 2024,,,Stuttgarter Kickers,,,1899 Hoffenheim II,,
+11,Sat Oct 5 2024,,,Eintracht Trier,,,Bahlinger SC,,
+11,Sat Oct 5 2024,,,FC Gießen,,,FC-Astoria Walldorf,,
+11,Sat Oct 5 2024,,,FC 08 Villingen,,,Göppinger SV,,
+11,Sat Oct 5 2024,,,FC 08 Homburg,,,TSV Steinbach Haiger,,
+11,Sat Oct 5 2024,,,Eintracht Frankfurt II,,,Kickers Offenbach,,
+11,Sat Oct 5 2024,,,Hessen Kassel,,,FSV Frankfurt,,
+11,Sat Oct 5 2024,,,1. FSV Mainz 05 II,,,SGV Freiberg,,
+12,Sat Oct 12 2024,,,TSV Steinbach Haiger,,,FC 08 Villingen,,
+12,Sat Oct 12 2024,,,Göppinger SV,,,FC Gießen,,
+12,Sat Oct 12 2024,,,FC-Astoria Walldorf,,,SC Freiburg II,,
+12,Sat Oct 12 2024,,,SG Barockstadt Fulda-Lehnerz,,,Eintracht Trier,,
+12,Sat Oct 12 2024,,,Bahlinger SC,,,Stuttgarter Kickers,,
+12,Sat Oct 12 2024,,,1899 Hoffenheim II,,,1. FSV Mainz 05 II,,
+12,Sat Oct 12 2024,,,SGV Freiberg,,,Hessen Kassel,,
+12,Sat Oct 12 2024,,,FSV Frankfurt,,,Eintracht Frankfurt II,,
+12,Sat Oct 12 2024,,,Kickers Offenbach,,,FC 08 Homburg,,
+13,Sat Oct 19 2024,,,SC Freiburg II,,,Eintracht Trier,,
+13,Sat Oct 19 2024,,,Stuttgarter Kickers,,,SG Barockstadt Fulda-Lehnerz,,
+13,Sat Oct 19 2024,,,FC-Astoria Walldorf,,,Göppinger SV,,
+13,Sat Oct 19 2024,,,FC Gießen,,,TSV Steinbach Haiger,,
+13,Sat Oct 19 2024,,,FC 08 Villingen,,,Kickers Offenbach,,
+13,Sat Oct 19 2024,,,FC 08 Homburg,,,FSV Frankfurt,,
+13,Sat Oct 19 2024,,,Eintracht Frankfurt II,,,SGV Freiberg,,
+13,Sat Oct 19 2024,,,Hessen Kassel,,,1899 Hoffenheim II,,
+13,Sat Oct 19 2024,,,1. FSV Mainz 05 II,,,Bahlinger SC,,
+14,Sat Oct 26 2024,,,TSV Steinbach Haiger,,,FC-Astoria Walldorf,,
+14,Sat Oct 26 2024,,,Göppinger SV,,,SC Freiburg II,,
+14,Sat Oct 26 2024,,,Eintracht Trier,,,Stuttgarter Kickers,,
+14,Sat Oct 26 2024,,,SG Barockstadt Fulda-Lehnerz,,,1. FSV Mainz 05 II,,
+14,Sat Oct 26 2024,,,Bahlinger SC,,,Hessen Kassel,,
+14,Sat Oct 26 2024,,,1899 Hoffenheim II,,,Eintracht Frankfurt II,,
+14,Sat Oct 26 2024,,,SGV Freiberg,,,FC 08 Homburg,,
+14,Sat Oct 26 2024,,,FSV Frankfurt,,,FC 08 Villingen,,
+14,Sat Oct 26 2024,,,Kickers Offenbach,,,FC Gießen,,
+15,Sat Nov 2 2024,,,SC Freiburg II,,,Stuttgarter Kickers,,
+15,Sat Nov 2 2024,,,Göppinger SV,,,TSV Steinbach Haiger,,
+15,Sat Nov 2 2024,,,FC-Astoria Walldorf,,,Kickers Offenbach,,
+15,Sat Nov 2 2024,,,FC Gießen,,,FSV Frankfurt,,
+15,Sat Nov 2 2024,,,FC 08 Villingen,,,SGV Freiberg,,
+15,Sat Nov 2 2024,,,FC 08 Homburg,,,1899 Hoffenheim II,,
+15,Sat Nov 2 2024,,,Eintracht Frankfurt II,,,Bahlinger SC,,
+15,Sat Nov 2 2024,,,Hessen Kassel,,,SG Barockstadt Fulda-Lehnerz,,
+15,Sat Nov 2 2024,,,1. FSV Mainz 05 II,,,Eintracht Trier,,
+16,Sat Nov 9 2024,,,SC Freiburg II,,,TSV Steinbach Haiger,,
+16,Sat Nov 9 2024,,,Stuttgarter Kickers,,,1. FSV Mainz 05 II,,
+16,Sat Nov 9 2024,,,Eintracht Trier,,,Hessen Kassel,,
+16,Sat Nov 9 2024,,,SG Barockstadt Fulda-Lehnerz,,,Eintracht Frankfurt II,,
+16,Sat Nov 9 2024,,,Bahlinger SC,,,FC 08 Homburg,,
+16,Sat Nov 9 2024,,,1899 Hoffenheim II,,,FC 08 Villingen,,
+16,Sat Nov 9 2024,,,SGV Freiberg,,,FC Gießen,,
+16,Sat Nov 9 2024,,,FSV Frankfurt,,,FC-Astoria Walldorf,,
+16,Sat Nov 9 2024,,,Kickers Offenbach,,,Göppinger SV,,
+17,Sat Nov 16 2024,,,TSV Steinbach Haiger,,,Kickers Offenbach,,
+17,Sat Nov 16 2024,,,Göppinger SV,,,FSV Frankfurt,,
+17,Sat Nov 16 2024,,,FC-Astoria Walldorf,,,SGV Freiberg,,
+17,Sat Nov 16 2024,,,FC Gießen,,,1899 Hoffenheim II,,
+17,Sat Nov 16 2024,,,FC 08 Villingen,,,Bahlinger SC,,
+17,Sat Nov 16 2024,,,FC 08 Homburg,,,SG Barockstadt Fulda-Lehnerz,,
+17,Sat Nov 16 2024,,,Eintracht Frankfurt II,,,Eintracht Trier,,
+17,Sat Nov 16 2024,,,Hessen Kassel,,,Stuttgarter Kickers,,
+17,Sat Nov 16 2024,,,1. FSV Mainz 05 II,,,SC Freiburg II,,
+18,Sat Nov 23 2024,,,Kickers Offenbach,,,SC Freiburg II,,
+18,Sat Nov 23 2024,,,Eintracht Frankfurt II,,,Stuttgarter Kickers,,
+18,Sat Nov 23 2024,,,FC 08 Homburg,,,Eintracht Trier,,
+18,Sat Nov 23 2024,,,FC 08 Villingen,,,SG Barockstadt Fulda-Lehnerz,,
+18,Sat Nov 23 2024,,,FC Gießen,,,Bahlinger SC,,
+18,Sat Nov 23 2024,,,FC-Astoria Walldorf,,,1899 Hoffenheim II,,
+18,Sat Nov 23 2024,,,Göppinger SV,,,SGV Freiberg,,
+18,Sat Nov 23 2024,,,TSV Steinbach Haiger,,,FSV Frankfurt,,
+18,Sat Nov 23 2024,,,Hessen Kassel,,,1. FSV Mainz 05 II,,
+19,Sat Nov 30 2024,,,SGV Freiberg,,,TSV Steinbach Haiger,,
+19,Sat Nov 30 2024,,,1899 Hoffenheim II,,,Göppinger SV,,
+19,Sat Nov 30 2024,,,Bahlinger SC,,,FC-Astoria Walldorf,,
+19,Sat Nov 30 2024,,,SG Barockstadt Fulda-Lehnerz,,,FC Gießen,,
+19,Sat Nov 30 2024,,,Eintracht Trier,,,FC 08 Villingen,,
+19,Sat Nov 30 2024,,,Stuttgarter Kickers,,,FC 08 Homburg,,
+19,Sat Nov 30 2024,,,1. FSV Mainz 05 II,,,Eintracht Frankfurt II,,
+19,Sat Nov 30 2024,,,SC Freiburg II,,,Hessen Kassel,,
+19,Sat Nov 30 2024,,,FSV Frankfurt,,,Kickers Offenbach,,
+20,Sat Dec 7 2024,,,FSV Frankfurt,,,SC Freiburg II,,
+20,Sat Dec 7 2024,,,FC 08 Villingen,,,Stuttgarter Kickers,,
+20,Sat Dec 7 2024,,,FC Gießen,,,Eintracht Trier,,
+20,Sat Dec 7 2024,,,FC-Astoria Walldorf,,,SG Barockstadt Fulda-Lehnerz,,
+20,Sat Dec 7 2024,,,Göppinger SV,,,Bahlinger SC,,
+20,Sat Dec 7 2024,,,TSV Steinbach Haiger,,,1899 Hoffenheim II,,
+20,Sat Dec 7 2024,,,Kickers Offenbach,,,SGV Freiberg,,
+20,Sat Dec 7 2024,,,Eintracht Frankfurt II,,,Hessen Kassel,,
+20,Sat Dec 7 2024,,,FC 08 Homburg,,,1. FSV Mainz 05 II,,
+21,Sat Feb 22 2025,,,Bahlinger SC,,,TSV Steinbach Haiger,,
+21,Sat Feb 22 2025,,,SG Barockstadt Fulda-Lehnerz,,,Göppinger SV,,
+21,Sat Feb 22 2025,,,Eintracht Trier,,,FC-Astoria Walldorf,,
+21,Sat Feb 22 2025,,,Stuttgarter Kickers,,,FC Gießen,,
+21,Sat Feb 22 2025,,,1. FSV Mainz 05 II,,,FC 08 Villingen,,
+21,Sat Feb 22 2025,,,Hessen Kassel,,,FC 08 Homburg,,
+21,Sat Feb 22 2025,,,SC Freiburg II,,,Eintracht Frankfurt II,,
+21,Sat Feb 22 2025,,,SGV Freiberg,,,FSV Frankfurt,,
+21,Sat Feb 22 2025,,,1899 Hoffenheim II,,,Kickers Offenbach,,
+22,Sat Mar 1 2025,,,SGV Freiberg,,,SC Freiburg II,,
+22,Sat Mar 1 2025,,,FC-Astoria Walldorf,,,Stuttgarter Kickers,,
+22,Sat Mar 1 2025,,,Göppinger SV,,,Eintracht Trier,,
+22,Sat Mar 1 2025,,,TSV Steinbach Haiger,,,SG Barockstadt Fulda-Lehnerz,,
+22,Sat Mar 1 2025,,,Kickers Offenbach,,,Bahlinger SC,,
+22,Sat Mar 1 2025,,,FSV Frankfurt,,,1899 Hoffenheim II,,
+22,Sat Mar 1 2025,,,FC 08 Homburg,,,Eintracht Frankfurt II,,
+22,Sat Mar 1 2025,,,FC 08 Villingen,,,Hessen Kassel,,
+22,Sat Mar 1 2025,,,FC Gießen,,,1. FSV Mainz 05 II,,
+23,Sat Mar 8 2025,,,Eintracht Trier,,,TSV Steinbach Haiger,,
+23,Sat Mar 8 2025,,,Stuttgarter Kickers,,,Göppinger SV,,
+23,Sat Mar 8 2025,,,1. FSV Mainz 05 II,,,FC-Astoria Walldorf,,
+23,Sat Mar 8 2025,,,Hessen Kassel,,,FC Gießen,,
+23,Sat Mar 8 2025,,,Eintracht Frankfurt II,,,FC 08 Villingen,,
+23,Sat Mar 8 2025,,,SC Freiburg II,,,FC 08 Homburg,,
+23,Sat Mar 8 2025,,,1899 Hoffenheim II,,,SGV Freiberg,,
+23,Sat Mar 8 2025,,,Bahlinger SC,,,FSV Frankfurt,,
+23,Sat Mar 8 2025,,,SG Barockstadt Fulda-Lehnerz,,,Kickers Offenbach,,
+24,Sat Mar 15 2025,,,1899 Hoffenheim II,,,SC Freiburg II,,
+24,Sat Mar 15 2025,,,TSV Steinbach Haiger,,,Stuttgarter Kickers,,
+24,Sat Mar 15 2025,,,Kickers Offenbach,,,Eintracht Trier,,
+24,Sat Mar 15 2025,,,FSV Frankfurt,,,SG Barockstadt Fulda-Lehnerz,,
+24,Sat Mar 15 2025,,,SGV Freiberg,,,Bahlinger SC,,
+24,Sat Mar 15 2025,,,FC 08 Villingen,,,FC 08 Homburg,,
+24,Sat Mar 15 2025,,,FC Gießen,,,Eintracht Frankfurt II,,
+24,Sat Mar 15 2025,,,FC-Astoria Walldorf,,,Hessen Kassel,,
+24,Sat Mar 15 2025,,,Göppinger SV,,,1. FSV Mainz 05 II,,
+25,Sat Mar 22 2025,,,1. FSV Mainz 05 II,,,TSV Steinbach Haiger,,
+25,Sat Mar 22 2025,,,Hessen Kassel,,,Göppinger SV,,
+25,Sat Mar 22 2025,,,Eintracht Frankfurt II,,,FC-Astoria Walldorf,,
+25,Sat Mar 22 2025,,,FC 08 Homburg,,,FC Gießen,,
+25,Sat Mar 22 2025,,,SC Freiburg II,,,FC 08 Villingen,,
+25,Sat Mar 22 2025,,,Bahlinger SC,,,1899 Hoffenheim II,,
+25,Sat Mar 22 2025,,,SG Barockstadt Fulda-Lehnerz,,,SGV Freiberg,,
+25,Sat Mar 22 2025,,,Eintracht Trier,,,FSV Frankfurt,,
+25,Sat Mar 22 2025,,,Stuttgarter Kickers,,,Kickers Offenbach,,
+26,Sat Mar 29 2025,,,Bahlinger SC,,,SC Freiburg II,,
+26,Sat Mar 29 2025,,,FSV Frankfurt,,,Stuttgarter Kickers,,
+26,Sat Mar 29 2025,,,SGV Freiberg,,,Eintracht Trier,,
+26,Sat Mar 29 2025,,,1899 Hoffenheim II,,,SG Barockstadt Fulda-Lehnerz,,
+26,Sat Mar 29 2025,,,FC Gießen,,,FC 08 Villingen,,
+26,Sat Mar 29 2025,,,FC-Astoria Walldorf,,,FC 08 Homburg,,
+26,Sat Mar 29 2025,,,Göppinger SV,,,Eintracht Frankfurt II,,
+26,Sat Mar 29 2025,,,TSV Steinbach Haiger,,,Hessen Kassel,,
+26,Sat Mar 29 2025,,,Kickers Offenbach,,,1. FSV Mainz 05 II,,
+27,Tue Apr 1 2025,,,Eintracht Frankfurt II,,,TSV Steinbach Haiger,,
+27,Tue Apr 1 2025,,,FC 08 Homburg,,,Göppinger SV,,
+27,Tue Apr 1 2025,,,FC 08 Villingen,,,FC-Astoria Walldorf,,
+27,Tue Apr 1 2025,,,SC Freiburg II,,,FC Gießen,,
+27,Tue Apr 1 2025,,,SG Barockstadt Fulda-Lehnerz,,,Bahlinger SC,,
+27,Tue Apr 1 2025,,,Eintracht Trier,,,1899 Hoffenheim II,,
+27,Tue Apr 1 2025,,,Stuttgarter Kickers,,,SGV Freiberg,,
+27,Tue Apr 1 2025,,,1. FSV Mainz 05 II,,,FSV Frankfurt,,
+27,Tue Apr 1 2025,,,Hessen Kassel,,,Kickers Offenbach,,
+28,Sat Apr 5 2025,,,SG Barockstadt Fulda-Lehnerz,,,SC Freiburg II,,
+28,Sat Apr 5 2025,,,1899 Hoffenheim II,,,Stuttgarter Kickers,,
+28,Sat Apr 5 2025,,,Bahlinger SC,,,Eintracht Trier,,
+28,Sat Apr 5 2025,,,FC-Astoria Walldorf,,,FC Gießen,,
+28,Sat Apr 5 2025,,,Göppinger SV,,,FC 08 Villingen,,
+28,Sat Apr 5 2025,,,TSV Steinbach Haiger,,,FC 08 Homburg,,
+28,Sat Apr 5 2025,,,Kickers Offenbach,,,Eintracht Frankfurt II,,
+28,Sat Apr 5 2025,,,FSV Frankfurt,,,Hessen Kassel,,
+28,Sat Apr 5 2025,,,SGV Freiberg,,,1. FSV Mainz 05 II,,
+29,Sat Apr 12 2025,,,FC 08 Villingen,,,TSV Steinbach Haiger,,
+29,Sat Apr 12 2025,,,FC Gießen,,,Göppinger SV,,
+29,Sat Apr 12 2025,,,SC Freiburg II,,,FC-Astoria Walldorf,,
+29,Sat Apr 12 2025,,,Eintracht Trier,,,SG Barockstadt Fulda-Lehnerz,,
+29,Sat Apr 12 2025,,,Stuttgarter Kickers,,,Bahlinger SC,,
+29,Sat Apr 12 2025,,,1. FSV Mainz 05 II,,,1899 Hoffenheim II,,
+29,Sat Apr 12 2025,,,Hessen Kassel,,,SGV Freiberg,,
+29,Sat Apr 12 2025,,,Eintracht Frankfurt II,,,FSV Frankfurt,,
+29,Sat Apr 12 2025,,,FC 08 Homburg,,,Kickers Offenbach,,
+30,Sat Apr 19 2025,,,Eintracht Trier,,,SC Freiburg II,,
+30,Sat Apr 19 2025,,,SG Barockstadt Fulda-Lehnerz,,,Stuttgarter Kickers,,
+30,Sat Apr 19 2025,,,Göppinger SV,,,FC-Astoria Walldorf,,
+30,Sat Apr 19 2025,,,TSV Steinbach Haiger,,,FC Gießen,,
+30,Sat Apr 19 2025,,,Kickers Offenbach,,,FC 08 Villingen,,
+30,Sat Apr 19 2025,,,FSV Frankfurt,,,FC 08 Homburg,,
+30,Sat Apr 19 2025,,,SGV Freiberg,,,Eintracht Frankfurt II,,
+30,Sat Apr 19 2025,,,1899 Hoffenheim II,,,Hessen Kassel,,
+30,Sat Apr 19 2025,,,Bahlinger SC,,,1. FSV Mainz 05 II,,
+31,Sat Apr 26 2025,,,FC-Astoria Walldorf,,,TSV Steinbach Haiger,,
+31,Sat Apr 26 2025,,,SC Freiburg II,,,Göppinger SV,,
+31,Sat Apr 26 2025,,,Stuttgarter Kickers,,,Eintracht Trier,,
+31,Sat Apr 26 2025,,,1. FSV Mainz 05 II,,,SG Barockstadt Fulda-Lehnerz,,
+31,Sat Apr 26 2025,,,Hessen Kassel,,,Bahlinger SC,,
+31,Sat Apr 26 2025,,,Eintracht Frankfurt II,,,1899 Hoffenheim II,,
+31,Sat Apr 26 2025,,,FC 08 Homburg,,,SGV Freiberg,,
+31,Sat Apr 26 2025,,,FC 08 Villingen,,,FSV Frankfurt,,
+31,Sat Apr 26 2025,,,FC Gießen,,,Kickers Offenbach,,
+32,Sat May 3 2025,,,Stuttgarter Kickers,,,SC Freiburg II,,
+32,Sat May 3 2025,,,TSV Steinbach Haiger,,,Göppinger SV,,
+32,Sat May 3 2025,,,Kickers Offenbach,,,FC-Astoria Walldorf,,
+32,Sat May 3 2025,,,FSV Frankfurt,,,FC Gießen,,
+32,Sat May 3 2025,,,SGV Freiberg,,,FC 08 Villingen,,
+32,Sat May 3 2025,,,1899 Hoffenheim II,,,FC 08 Homburg,,
+32,Sat May 3 2025,,,Bahlinger SC,,,Eintracht Frankfurt II,,
+32,Sat May 3 2025,,,SG Barockstadt Fulda-Lehnerz,,,Hessen Kassel,,
+32,Sat May 3 2025,,,Eintracht Trier,,,1. FSV Mainz 05 II,,
+33,Sat May 10 2025,,,TSV Steinbach Haiger,,,SC Freiburg II,,
+33,Sat May 10 2025,,,1. FSV Mainz 05 II,,,Stuttgarter Kickers,,
+33,Sat May 10 2025,,,Hessen Kassel,,,Eintracht Trier,,
+33,Sat May 10 2025,,,Eintracht Frankfurt II,,,SG Barockstadt Fulda-Lehnerz,,
+33,Sat May 10 2025,,,FC 08 Homburg,,,Bahlinger SC,,
+33,Sat May 10 2025,,,FC 08 Villingen,,,1899 Hoffenheim II,,
+33,Sat May 10 2025,,,FC Gießen,,,SGV Freiberg,,
+33,Sat May 10 2025,,,FC-Astoria Walldorf,,,FSV Frankfurt,,
+33,Sat May 10 2025,,,Göppinger SV,,,Kickers Offenbach,,
+34,Sat May 17 2025,,,Kickers Offenbach,,,TSV Steinbach Haiger,,
+34,Sat May 17 2025,,,FSV Frankfurt,,,Göppinger SV,,
+34,Sat May 17 2025,,,SGV Freiberg,,,FC-Astoria Walldorf,,
+34,Sat May 17 2025,,,1899 Hoffenheim II,,,FC Gießen,,
+34,Sat May 17 2025,,,Bahlinger SC,,,FC 08 Villingen,,
+34,Sat May 17 2025,,,SG Barockstadt Fulda-Lehnerz,,,FC 08 Homburg,,
+34,Sat May 17 2025,,,Eintracht Trier,,,Eintracht Frankfurt II,,
+34,Sat May 17 2025,,,Stuttgarter Kickers,,,Hessen Kassel,,
+34,Sat May 17 2025,,,SC Freiburg II,,,1. FSV Mainz 05 II,,

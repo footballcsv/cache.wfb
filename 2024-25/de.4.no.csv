@@ -1,0 +1,307 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Thu Jul 25 2024,20:20,CEST/+0200,Chemnitzer FC,0-0,0-0,Hallescher FC,2024-07-25T18:20Z
+1,Fri Jul 26 2024,19:00,CEST/+0200,BFC Dynamo,2-3,0-2,FC Carl Zeiss Jena,2024-07-26T17:00Z
+1,Fri Jul 26 2024,19:00,CEST/+0200,FSV 63 Luckenwalde,2-2,1-1,ZFC Meuselwitz,2024-07-26T17:00Z
+1,Sat Jul 27 2024,13:00,CEST/+0200,Hertha Zehlendorf,5-0,3-0,FSV Zwickau,2024-07-27T11:00Z
+1,Sat Jul 27 2024,13:00,CEST/+0200,BSG Chemie Leipzig,1-1,0-1,SV Babelsberg 03,2024-07-27T11:00Z
+1,Sat Jul 27 2024,14:00,CEST/+0200,Rot-Weiß Erfurt,2-0,0-0,FC Eilenburg,2024-07-27T12:00Z
+1,Sun Jul 28 2024,13:00,CEST/+0200,Greifswalder FC,0-1,0-0,Hertha BSC II,2024-07-28T11:00Z
+1,Sun Jul 28 2024,13:00,CEST/+0200,VSG Altglienicke,0-1,0-1,1. FC Lok Leipzig,2024-07-28T11:00Z
+1,Sun Jul 28 2024,13:00,CEST/+0200,VFC Plauen,2-3,2-1,FC Viktoria 1889 Berlin,2024-07-28T11:00Z
+2,Fri Aug 2 2024,19:00,CEST/+0200,FSV Zwickau,0-2,0-2,Greifswalder FC,2024-08-02T17:00Z
+2,Fri Aug 2 2024,19:00,CEST/+0200,Hallescher FC,1-1,0-1,VFC Plauen,2024-08-02T17:00Z
+2,Fri Aug 2 2024,19:00,CEST/+0200,FC Viktoria 1889 Berlin,1-1,1-0,Rot-Weiß Erfurt,2024-08-02T17:00Z
+2,Sat Aug 3 2024,13:30,CEST/+0200,ZFC Meuselwitz,1-3,0-0,BSG Chemie Leipzig,2024-08-03T11:30Z
+2,Sat Aug 3 2024,13:00,CEST/+0200,SV Babelsberg 03,1-1,0-1,BFC Dynamo,2024-08-03T11:00Z
+2,Sun Aug 4 2024,13:00,CEST/+0200,Hertha BSC II,0-1,0-1,Chemnitzer FC,2024-08-04T11:00Z
+2,Sun Aug 4 2024,13:00,CEST/+0200,FC Eilenburg,2-2,1-2,VSG Altglienicke,2024-08-04T11:00Z
+2,Sun Aug 4 2024,13:00,CEST/+0200,1. FC Lok Leipzig,1-1,1-1,FSV 63 Luckenwalde,2024-08-04T11:00Z
+2,Sun Aug 4 2024,13:00,CEST/+0200,FC Carl Zeiss Jena,6-2,5-2,Hertha Zehlendorf,2024-08-04T11:00Z
+3,Fri Aug 9 2024,19:00,CEST/+0200,VFC Plauen,2-1,1-0,Hertha BSC II,2024-08-09T17:00Z
+3,Fri Aug 9 2024,19:00,CEST/+0200,Hertha Zehlendorf,2-1,1-1,SV Babelsberg 03,2024-08-09T17:00Z
+3,Fri Aug 9 2024,19:00,CEST/+0200,1. FC Lok Leipzig,2-0,2-0,FC Eilenburg,2024-08-09T17:00Z
+3,Sat Aug 10 2024,13:00,CEST/+0200,Greifswalder FC,1-3,0-1,FC Carl Zeiss Jena,2024-08-10T11:00Z
+3,Sat Aug 10 2024,13:00,CEST/+0200,BFC Dynamo,4-0,2-0,ZFC Meuselwitz,2024-08-10T11:00Z
+3,Sat Aug 10 2024,13:00,CEST/+0200,FSV 63 Luckenwalde,0-0,0-0,BSG Chemie Leipzig,2024-08-10T11:00Z
+3,Sun Aug 11 2024,13:00,CEST/+0200,Chemnitzer FC,0-1,0-0,FSV Zwickau,2024-08-11T11:00Z
+3,Sun Aug 11 2024,13:00,CEST/+0200,VSG Altglienicke,2-1,1-1,FC Viktoria 1889 Berlin,2024-08-11T11:00Z
+3,Sun Aug 11 2024,13:00,CEST/+0200,Rot-Weiß Erfurt,0-4,0-2,Hallescher FC,2024-08-11T11:00Z
+4,Tue Aug 20 2024,18:30,CEST/+0200,ZFC Meuselwitz,2-2,0-1,Hertha Zehlendorf,2024-08-20T16:30Z
+4,Tue Aug 20 2024,19:00,CEST/+0200,FSV Zwickau,3-0,1-0,VFC Plauen,2024-08-20T17:00Z
+4,Tue Aug 20 2024,19:00,CEST/+0200,Hertha BSC II,2-1,2-0,Rot-Weiß Erfurt,2024-08-20T17:00Z
+4,Tue Aug 20 2024,19:00,CEST/+0200,Hallescher FC,1-0,0-0,VSG Altglienicke,2024-08-20T17:00Z
+4,Wed Aug 21 2024,19:00,CEST/+0200,FC Carl Zeiss Jena,1-0,1-0,Chemnitzer FC,2024-08-21T17:00Z
+4,Wed Aug 21 2024,19:00,CEST/+0200,FC Viktoria 1889 Berlin,0-1,0-1,1. FC Lok Leipzig,2024-08-21T17:00Z
+4,Wed Aug 21 2024,19:00,CEST/+0200,FC Eilenburg,2-0,2-0,FSV 63 Luckenwalde,2024-08-21T17:00Z
+4,Wed Aug 21 2024,19:00,CEST/+0200,BSG Chemie Leipzig,1-0,1-0,BFC Dynamo,2024-08-21T17:00Z
+4,Wed Aug 21 2024,19:00,CEST/+0200,SV Babelsberg 03,1-2,0-1,Greifswalder FC,2024-08-21T17:00Z
+5,Fri Aug 23 2024,19:00,CEST/+0200,Rot-Weiß Erfurt,4-2,4-1,FSV Zwickau,2024-08-23T17:00Z
+5,Fri Aug 23 2024,19:00,CEST/+0200,VSG Altglienicke,0-2,0-0,Hertha BSC II,2024-08-23T17:00Z
+5,Sat Aug 24 2024,15:00,CEST/+0200,VFC Plauen,1-4,0-1,FC Carl Zeiss Jena,2024-08-24T13:00Z
+5,Sat Aug 24 2024,13:00,CEST/+0200,Greifswalder FC,3-0,2-0,ZFC Meuselwitz,2024-08-24T11:00Z
+5,Sun Aug 25 2024,13:00,CEST/+0200,Hertha Zehlendorf,2-0,1-0,BSG Chemie Leipzig,2024-08-25T11:00Z
+5,Sun Aug 25 2024,13:00,CEST/+0200,FC Eilenburg,0-0,0-0,FC Viktoria 1889 Berlin,2024-08-25T11:00Z
+5,Sun Aug 25 2024,13:00,CEST/+0200,1. FC Lok Leipzig,1-1,0-1,Hallescher FC,2024-08-25T11:00Z
+5,Sun Aug 25 2024,16:30,CEST/+0200,Chemnitzer FC,2-3,0-2,SV Babelsberg 03,2024-08-25T14:30Z
+5,Sun Aug 25 2024,13:00,CEST/+0200,FSV 63 Luckenwalde,0-0,0-0,BFC Dynamo,2024-08-25T11:00Z
+6,Thu Aug 29 2024,19:00,CEST/+0200,Hertha BSC II,0-6,0-2,1. FC Lok Leipzig,2024-08-29T17:00Z
+6,Fri Aug 30 2024,19:00,CEST/+0200,FSV Zwickau,0-3,0-1,VSG Altglienicke,2024-08-30T17:00Z
+6,Fri Aug 30 2024,19:00,CEST/+0200,ZFC Meuselwitz,1-0,0-0,Chemnitzer FC,2024-08-30T17:00Z
+6,Sat Aug 31 2024,14:00,CEST/+0200,BSG Chemie Leipzig,1-2,0-2,Greifswalder FC,2024-08-31T12:00Z
+6,Sat Aug 31 2024,13:00,CEST/+0200,FC Viktoria 1889 Berlin,4-1,0-1,FSV 63 Luckenwalde,2024-08-31T11:00Z
+6,Sun Sep 1 2024,13:00,CEST/+0200,Hallescher FC,2-2,2-0,FC Eilenburg,2024-09-01T11:00Z
+6,Sun Sep 1 2024,13:00,CEST/+0200,BFC Dynamo,2-0,1-0,Hertha Zehlendorf,2024-09-01T11:00Z
+6,Sun Sep 1 2024,13:00,CEST/+0200,SV Babelsberg 03,2-1,0-0,VFC Plauen,2024-09-01T11:00Z
+6,Wed Sep 4 2024,19:00,CEST/+0200,FC Carl Zeiss Jena,5-1,2-1,Rot-Weiß Erfurt,2024-09-04T17:00Z
+7,Tue Sep 10 2024,19:00,CEST/+0200,FSV 63 Luckenwalde,0-3,0-1,Hertha Zehlendorf,2024-09-10T17:00Z
+7,Tue Sep 10 2024,19:00,CEST/+0200,Chemnitzer FC,0-1,0-0,BSG Chemie Leipzig,2024-09-10T17:00Z
+7,Tue Sep 10 2024,19:00,CEST/+0200,Greifswalder FC,1-2,0-2,BFC Dynamo,2024-09-10T17:00Z
+7,Tue Sep 10 2024,19:00,CEST/+0200,FC Viktoria 1889 Berlin,1-0,1-0,Hallescher FC,2024-09-10T17:00Z
+7,Tue Sep 10 2024,19:00,CEST/+0200,FC Eilenburg,1-3,1-1,Hertha BSC II,2024-09-10T17:00Z
+7,Wed Sep 11 2024,19:00,CEST/+0200,1. FC Lok Leipzig,3-2,2-1,FSV Zwickau,2024-09-11T17:00Z
+7,Wed Sep 11 2024,19:00,CEST/+0200,VSG Altglienicke,4-2,1-0,FC Carl Zeiss Jena,2024-09-11T17:00Z
+7,Wed Sep 11 2024,19:00,CEST/+0200,VFC Plauen,2-3,0-3,ZFC Meuselwitz,2024-09-11T17:00Z
+8,Fri Sep 13 2024,19:00,CEST/+0200,Hertha BSC II,,,FC Viktoria 1889 Berlin,2024-09-13T17:00Z
+8,Fri Sep 13 2024,19:00,CEST/+0200,Hallescher FC,,,FSV 63 Luckenwalde,2024-09-13T17:00Z
+8,Fri Sep 13 2024,19:00,CEST/+0200,Hertha Zehlendorf,,,Greifswalder FC,2024-09-13T17:00Z
+8,Sat Sep 14 2024,16:00,CEST/+0200,BFC Dynamo,,,Chemnitzer FC,2024-09-14T14:00Z
+8,Sat Sep 14 2024,13:00,CEST/+0200,SV Babelsberg 03,,,VSG Altglienicke,2024-09-14T11:00Z
+8,Sat Sep 14 2024,13:00,CEST/+0200,ZFC Meuselwitz,,,Rot-Weiß Erfurt,2024-09-14T11:00Z
+8,Sun Sep 15 2024,13:00,CEST/+0200,FC Carl Zeiss Jena,,,1. FC Lok Leipzig,2024-09-15T11:00Z
+8,Sun Sep 15 2024,13:00,CEST/+0200,FSV Zwickau,,,FC Eilenburg,2024-09-15T11:00Z
+8,Sun Sep 15 2024,13:00,CEST/+0200,BSG Chemie Leipzig,,,VFC Plauen,2024-09-15T11:00Z
+9,Fri Sep 20 2024,19:00,CEST/+0200,VFC Plauen,,,BFC Dynamo,2024-09-20T17:00Z
+9,Fri Sep 20 2024,19:00,CEST/+0200,Hallescher FC,,,Hertha BSC II,2024-09-20T17:00Z
+9,Fri Sep 20 2024,19:00,CEST/+0200,FC Viktoria 1889 Berlin,,,FSV Zwickau,2024-09-20T17:00Z
+9,Sat Sep 21 2024,16:00,CEST/+0200,Rot-Weiß Erfurt,,,BSG Chemie Leipzig,2024-09-21T14:00Z
+9,Sat Sep 21 2024,13:00,CEST/+0200,FSV 63 Luckenwalde,,,Greifswalder FC,2024-09-21T11:00Z
+9,Sat Sep 21 2024,13:00,CEST/+0200,Chemnitzer FC,,,Hertha Zehlendorf,2024-09-21T11:00Z
+9,Sun Sep 22 2024,13:00,CEST/+0200,FC Eilenburg,,,FC Carl Zeiss Jena,2024-09-22T11:00Z
+9,Sun Sep 22 2024,13:00,CEST/+0200,1. FC Lok Leipzig,,,SV Babelsberg 03,2024-09-22T11:00Z
+9,Sun Sep 22 2024,13:00,CEST/+0200,VSG Altglienicke,,,ZFC Meuselwitz,2024-09-22T11:00Z
+10,Fri Sep 27 2024,19:00,CEST/+0200,Hertha BSC II,,,FSV 63 Luckenwalde,2024-09-27T17:00Z
+10,Fri Sep 27 2024,19:00,CEST/+0200,SV Babelsberg 03,,,FC Eilenburg,2024-09-27T17:00Z
+10,Fri Sep 27 2024,19:00,CEST/+0200,FSV Zwickau,,,Hallescher FC,2024-09-27T17:00Z
+10,Sat Sep 28 2024,13:00,CEST/+0200,FC Carl Zeiss Jena,,,FC Viktoria 1889 Berlin,2024-09-28T11:00Z
+10,Sat Sep 28 2024,13:00,CEST/+0200,BFC Dynamo,,,Rot-Weiß Erfurt,2024-09-28T11:00Z
+10,Sat Sep 28 2024,16:00,CEST/+0200,Greifswalder FC,,,Chemnitzer FC,2024-09-28T14:00Z
+10,Sun Sep 29 2024,13:30,CEST/+0200,ZFC Meuselwitz,,,1. FC Lok Leipzig,2024-09-29T11:30Z
+10,Sun Sep 29 2024,13:00,CEST/+0200,Hertha Zehlendorf,,,VFC Plauen,2024-09-29T11:00Z
+10,Sun Sep 29 2024,13:00,CEST/+0200,BSG Chemie Leipzig,,,VSG Altglienicke,2024-09-29T11:00Z
+7,Wed Oct 2 2024,19:00,CEST/+0200,Rot-Weiß Erfurt,,,SV Babelsberg 03,2024-10-02T17:00Z
+11,Sun Oct 6 2024,,,FSV 63 Luckenwalde,,,Chemnitzer FC,
+11,Sun Oct 6 2024,,,Rot-Weiß Erfurt,,,Hertha Zehlendorf,
+11,Sun Oct 6 2024,,,VFC Plauen,,,Greifswalder FC,
+11,Sun Oct 6 2024,,,Hertha BSC II,,,FSV Zwickau,
+11,Sun Oct 6 2024,,,Hallescher FC,,,FC Carl Zeiss Jena,
+11,Sun Oct 6 2024,,,FC Viktoria 1889 Berlin,,,SV Babelsberg 03,
+11,Sun Oct 6 2024,,,FC Eilenburg,,,ZFC Meuselwitz,
+11,Sun Oct 6 2024,,,1. FC Lok Leipzig,,,BSG Chemie Leipzig,
+11,Sun Oct 6 2024,,,VSG Altglienicke,,,BFC Dynamo,
+12,Sun Oct 20 2024,,,SV Babelsberg 03,,,Hallescher FC,
+12,Sun Oct 20 2024,,,FC Carl Zeiss Jena,,,Hertha BSC II,
+12,Sun Oct 20 2024,,,FSV Zwickau,,,FSV 63 Luckenwalde,
+12,Sun Oct 20 2024,,,Chemnitzer FC,,,VFC Plauen,
+12,Sun Oct 20 2024,,,Greifswalder FC,,,Rot-Weiß Erfurt,
+12,Sun Oct 20 2024,,,Hertha Zehlendorf,,,VSG Altglienicke,
+12,Sun Oct 20 2024,,,BFC Dynamo,,,1. FC Lok Leipzig,
+12,Sun Oct 20 2024,,,BSG Chemie Leipzig,,,FC Eilenburg,
+12,Sun Oct 20 2024,,,ZFC Meuselwitz,,,FC Viktoria 1889 Berlin,
+13,Sun Oct 27 2024,,,FSV 63 Luckenwalde,,,VFC Plauen,
+13,Sun Oct 27 2024,,,Rot-Weiß Erfurt,,,Chemnitzer FC,
+13,Sun Oct 27 2024,,,FSV Zwickau,,,FC Carl Zeiss Jena,
+13,Sun Oct 27 2024,,,Hertha BSC II,,,SV Babelsberg 03,
+13,Sun Oct 27 2024,,,Hallescher FC,,,ZFC Meuselwitz,
+13,Sun Oct 27 2024,,,FC Viktoria 1889 Berlin,,,BSG Chemie Leipzig,
+13,Sun Oct 27 2024,,,FC Eilenburg,,,BFC Dynamo,
+13,Sun Oct 27 2024,,,1. FC Lok Leipzig,,,Hertha Zehlendorf,
+13,Sun Oct 27 2024,,,VSG Altglienicke,,,Greifswalder FC,
+14,Sun Nov 3 2024,,,SV Babelsberg 03,,,FSV Zwickau,
+14,Sun Nov 3 2024,,,FC Carl Zeiss Jena,,,FSV 63 Luckenwalde,
+14,Sun Nov 3 2024,,,VFC Plauen,,,Rot-Weiß Erfurt,
+14,Sun Nov 3 2024,,,Chemnitzer FC,,,VSG Altglienicke,
+14,Sun Nov 3 2024,,,Greifswalder FC,,,1. FC Lok Leipzig,
+14,Sun Nov 3 2024,,,Hertha Zehlendorf,,,FC Eilenburg,
+14,Sun Nov 3 2024,,,BFC Dynamo,,,FC Viktoria 1889 Berlin,
+14,Sun Nov 3 2024,,,BSG Chemie Leipzig,,,Hallescher FC,
+14,Sun Nov 3 2024,,,ZFC Meuselwitz,,,Hertha BSC II,
+15,Sun Nov 10 2024,,,FSV 63 Luckenwalde,,,Rot-Weiß Erfurt,
+15,Sun Nov 10 2024,,,FC Carl Zeiss Jena,,,SV Babelsberg 03,
+15,Sun Nov 10 2024,,,FSV Zwickau,,,ZFC Meuselwitz,
+15,Sun Nov 10 2024,,,Hertha BSC II,,,BSG Chemie Leipzig,
+15,Sun Nov 10 2024,,,Hallescher FC,,,BFC Dynamo,
+15,Sun Nov 10 2024,,,FC Viktoria 1889 Berlin,,,Hertha Zehlendorf,
+15,Sun Nov 10 2024,,,FC Eilenburg,,,Greifswalder FC,
+15,Sun Nov 10 2024,,,1. FC Lok Leipzig,,,Chemnitzer FC,
+15,Sun Nov 10 2024,,,VSG Altglienicke,,,VFC Plauen,
+16,Sun Nov 24 2024,,,FSV 63 Luckenwalde,,,SV Babelsberg 03,
+16,Sun Nov 24 2024,,,Rot-Weiß Erfurt,,,VSG Altglienicke,
+16,Sun Nov 24 2024,,,VFC Plauen,,,1. FC Lok Leipzig,
+16,Sun Nov 24 2024,,,Chemnitzer FC,,,FC Eilenburg,
+16,Sun Nov 24 2024,,,Greifswalder FC,,,FC Viktoria 1889 Berlin,
+16,Sun Nov 24 2024,,,Hertha Zehlendorf,,,Hallescher FC,
+16,Sun Nov 24 2024,,,BFC Dynamo,,,Hertha BSC II,
+16,Sun Nov 24 2024,,,BSG Chemie Leipzig,,,FSV Zwickau,
+16,Sun Nov 24 2024,,,ZFC Meuselwitz,,,FC Carl Zeiss Jena,
+17,Sun Dec 1 2024,,,SV Babelsberg 03,,,ZFC Meuselwitz,
+17,Sun Dec 1 2024,,,FC Carl Zeiss Jena,,,BSG Chemie Leipzig,
+17,Sun Dec 1 2024,,,FSV Zwickau,,,BFC Dynamo,
+17,Sun Dec 1 2024,,,Hertha BSC II,,,Hertha Zehlendorf,
+17,Sun Dec 1 2024,,,Hallescher FC,,,Greifswalder FC,
+17,Sun Dec 1 2024,,,FC Viktoria 1889 Berlin,,,Chemnitzer FC,
+17,Sun Dec 1 2024,,,FC Eilenburg,,,VFC Plauen,
+17,Sun Dec 1 2024,,,1. FC Lok Leipzig,,,Rot-Weiß Erfurt,
+17,Sun Dec 1 2024,,,VSG Altglienicke,,,FSV 63 Luckenwalde,
+18,Sun Dec 8 2024,,,ZFC Meuselwitz,,,FSV 63 Luckenwalde,
+18,Sun Dec 8 2024,,,FC Eilenburg,,,Rot-Weiß Erfurt,
+18,Sun Dec 8 2024,,,FC Viktoria 1889 Berlin,,,VFC Plauen,
+18,Sun Dec 8 2024,,,Hallescher FC,,,Chemnitzer FC,
+18,Sun Dec 8 2024,,,Hertha BSC II,,,Greifswalder FC,
+18,Sun Dec 8 2024,,,FSV Zwickau,,,Hertha Zehlendorf,
+18,Sun Dec 8 2024,,,FC Carl Zeiss Jena,,,BFC Dynamo,
+18,Sun Dec 8 2024,,,SV Babelsberg 03,,,BSG Chemie Leipzig,
+18,Sun Dec 8 2024,,,1. FC Lok Leipzig,,,VSG Altglienicke,
+19,Sun Dec 15 2024,,,BFC Dynamo,,,SV Babelsberg 03,
+19,Sun Dec 15 2024,,,Hertha Zehlendorf,,,FC Carl Zeiss Jena,
+19,Sun Dec 15 2024,,,Greifswalder FC,,,FSV Zwickau,
+19,Sun Dec 15 2024,,,Chemnitzer FC,,,Hertha BSC II,
+19,Sun Dec 15 2024,,,VFC Plauen,,,Hallescher FC,
+19,Sun Dec 15 2024,,,Rot-Weiß Erfurt,,,FC Viktoria 1889 Berlin,
+19,Sun Dec 15 2024,,,VSG Altglienicke,,,FC Eilenburg,
+19,Sun Dec 15 2024,,,FSV 63 Luckenwalde,,,1. FC Lok Leipzig,
+19,Sun Dec 15 2024,,,BSG Chemie Leipzig,,,ZFC Meuselwitz,
+20,Sun Feb 2 2025,,,BSG Chemie Leipzig,,,FSV 63 Luckenwalde,
+20,Sun Feb 2 2025,,,Hallescher FC,,,Rot-Weiß Erfurt,
+20,Sun Feb 2 2025,,,Hertha BSC II,,,VFC Plauen,
+20,Sun Feb 2 2025,,,FSV Zwickau,,,Chemnitzer FC,
+20,Sun Feb 2 2025,,,FC Carl Zeiss Jena,,,Greifswalder FC,
+20,Sun Feb 2 2025,,,SV Babelsberg 03,,,Hertha Zehlendorf,
+20,Sun Feb 2 2025,,,ZFC Meuselwitz,,,BFC Dynamo,
+20,Sun Feb 2 2025,,,FC Eilenburg,,,1. FC Lok Leipzig,
+20,Sun Feb 2 2025,,,FC Viktoria 1889 Berlin,,,VSG Altglienicke,
+21,Sun Feb 9 2025,,,Greifswalder FC,,,SV Babelsberg 03,
+21,Sun Feb 9 2025,,,Chemnitzer FC,,,FC Carl Zeiss Jena,
+21,Sun Feb 9 2025,,,VFC Plauen,,,FSV Zwickau,
+21,Sun Feb 9 2025,,,Rot-Weiß Erfurt,,,Hertha BSC II,
+21,Sun Feb 9 2025,,,VSG Altglienicke,,,Hallescher FC,
+21,Sun Feb 9 2025,,,1. FC Lok Leipzig,,,FC Viktoria 1889 Berlin,
+21,Sun Feb 9 2025,,,FSV 63 Luckenwalde,,,FC Eilenburg,
+21,Sun Feb 9 2025,,,BFC Dynamo,,,BSG Chemie Leipzig,
+21,Sun Feb 9 2025,,,Hertha Zehlendorf,,,ZFC Meuselwitz,
+22,Sun Feb 16 2025,,,BFC Dynamo,,,FSV 63 Luckenwalde,
+22,Sun Feb 16 2025,,,FSV Zwickau,,,Rot-Weiß Erfurt,
+22,Sun Feb 16 2025,,,FC Carl Zeiss Jena,,,VFC Plauen,
+22,Sun Feb 16 2025,,,SV Babelsberg 03,,,Chemnitzer FC,
+22,Sun Feb 16 2025,,,ZFC Meuselwitz,,,Greifswalder FC,
+22,Sun Feb 16 2025,,,BSG Chemie Leipzig,,,Hertha Zehlendorf,
+22,Sun Feb 16 2025,,,FC Viktoria 1889 Berlin,,,FC Eilenburg,
+22,Sun Feb 16 2025,,,Hallescher FC,,,1. FC Lok Leipzig,
+22,Sun Feb 16 2025,,,Hertha BSC II,,,VSG Altglienicke,
+23,Sun Feb 23 2025,,,VFC Plauen,,,SV Babelsberg 03,
+23,Sun Feb 23 2025,,,Rot-Weiß Erfurt,,,FC Carl Zeiss Jena,
+23,Sun Feb 23 2025,,,VSG Altglienicke,,,FSV Zwickau,
+23,Sun Feb 23 2025,,,1. FC Lok Leipzig,,,Hertha BSC II,
+23,Sun Feb 23 2025,,,FC Eilenburg,,,Hallescher FC,
+23,Sun Feb 23 2025,,,FSV 63 Luckenwalde,,,FC Viktoria 1889 Berlin,
+23,Sun Feb 23 2025,,,Hertha Zehlendorf,,,BFC Dynamo,
+23,Sun Feb 23 2025,,,Greifswalder FC,,,BSG Chemie Leipzig,
+23,Sun Feb 23 2025,,,Chemnitzer FC,,,ZFC Meuselwitz,
+24,Sun Mar 2 2025,,,Hertha Zehlendorf,,,FSV 63 Luckenwalde,
+24,Sun Mar 2 2025,,,SV Babelsberg 03,,,Rot-Weiß Erfurt,
+24,Sun Mar 2 2025,,,ZFC Meuselwitz,,,VFC Plauen,
+24,Sun Mar 2 2025,,,BSG Chemie Leipzig,,,Chemnitzer FC,
+24,Sun Mar 2 2025,,,BFC Dynamo,,,Greifswalder FC,
+24,Sun Mar 2 2025,,,Hallescher FC,,,FC Viktoria 1889 Berlin,
+24,Sun Mar 2 2025,,,Hertha BSC II,,,FC Eilenburg,
+24,Sun Mar 2 2025,,,FSV Zwickau,,,1. FC Lok Leipzig,
+24,Sun Mar 2 2025,,,FC Carl Zeiss Jena,,,VSG Altglienicke,
+25,Sun Mar 9 2025,,,VSG Altglienicke,,,SV Babelsberg 03,
+25,Sun Mar 9 2025,,,1. FC Lok Leipzig,,,FC Carl Zeiss Jena,
+25,Sun Mar 9 2025,,,FC Eilenburg,,,FSV Zwickau,
+25,Sun Mar 9 2025,,,FC Viktoria 1889 Berlin,,,Hertha BSC II,
+25,Sun Mar 9 2025,,,FSV 63 Luckenwalde,,,Hallescher FC,
+25,Sun Mar 9 2025,,,Greifswalder FC,,,Hertha Zehlendorf,
+25,Sun Mar 9 2025,,,Chemnitzer FC,,,BFC Dynamo,
+25,Sun Mar 9 2025,,,VFC Plauen,,,BSG Chemie Leipzig,
+25,Sun Mar 9 2025,,,Rot-Weiß Erfurt,,,ZFC Meuselwitz,
+26,Sun Mar 16 2025,,,Greifswalder FC,,,FSV 63 Luckenwalde,
+26,Sun Mar 16 2025,,,BSG Chemie Leipzig,,,Rot-Weiß Erfurt,
+26,Sun Mar 16 2025,,,BFC Dynamo,,,VFC Plauen,
+26,Sun Mar 16 2025,,,Hertha Zehlendorf,,,Chemnitzer FC,
+26,Sun Mar 16 2025,,,Hertha BSC II,,,Hallescher FC,
+26,Sun Mar 16 2025,,,FSV Zwickau,,,FC Viktoria 1889 Berlin,
+26,Sun Mar 16 2025,,,FC Carl Zeiss Jena,,,FC Eilenburg,
+26,Sun Mar 16 2025,,,SV Babelsberg 03,,,1. FC Lok Leipzig,
+26,Sun Mar 16 2025,,,ZFC Meuselwitz,,,VSG Altglienicke,
+27,Sun Mar 30 2025,,,FC Eilenburg,,,SV Babelsberg 03,
+27,Sun Mar 30 2025,,,FC Viktoria 1889 Berlin,,,FC Carl Zeiss Jena,
+27,Sun Mar 30 2025,,,Hallescher FC,,,FSV Zwickau,
+27,Sun Mar 30 2025,,,FSV 63 Luckenwalde,,,Hertha BSC II,
+27,Sun Mar 30 2025,,,Chemnitzer FC,,,Greifswalder FC,
+27,Sun Mar 30 2025,,,VFC Plauen,,,Hertha Zehlendorf,
+27,Sun Mar 30 2025,,,Rot-Weiß Erfurt,,,BFC Dynamo,
+27,Sun Mar 30 2025,,,VSG Altglienicke,,,BSG Chemie Leipzig,
+27,Sun Mar 30 2025,,,1. FC Lok Leipzig,,,ZFC Meuselwitz,
+28,Sun Apr 6 2025,,,Chemnitzer FC,,,FSV 63 Luckenwalde,
+28,Sun Apr 6 2025,,,Hertha Zehlendorf,,,Rot-Weiß Erfurt,
+28,Sun Apr 6 2025,,,Greifswalder FC,,,VFC Plauen,
+28,Sun Apr 6 2025,,,FSV Zwickau,,,Hertha BSC II,
+28,Sun Apr 6 2025,,,FC Carl Zeiss Jena,,,Hallescher FC,
+28,Sun Apr 6 2025,,,SV Babelsberg 03,,,FC Viktoria 1889 Berlin,
+28,Sun Apr 6 2025,,,ZFC Meuselwitz,,,FC Eilenburg,
+28,Sun Apr 6 2025,,,BSG Chemie Leipzig,,,1. FC Lok Leipzig,
+28,Sun Apr 6 2025,,,BFC Dynamo,,,VSG Altglienicke,
+29,Sun Apr 13 2025,,,Hallescher FC,,,SV Babelsberg 03,
+29,Sun Apr 13 2025,,,Hertha BSC II,,,FC Carl Zeiss Jena,
+29,Sun Apr 13 2025,,,FSV 63 Luckenwalde,,,FSV Zwickau,
+29,Sun Apr 13 2025,,,VFC Plauen,,,Chemnitzer FC,
+29,Sun Apr 13 2025,,,Rot-Weiß Erfurt,,,Greifswalder FC,
+29,Sun Apr 13 2025,,,VSG Altglienicke,,,Hertha Zehlendorf,
+29,Sun Apr 13 2025,,,1. FC Lok Leipzig,,,BFC Dynamo,
+29,Sun Apr 13 2025,,,FC Eilenburg,,,BSG Chemie Leipzig,
+29,Sun Apr 13 2025,,,FC Viktoria 1889 Berlin,,,ZFC Meuselwitz,
+30,Sun Apr 20 2025,,,VFC Plauen,,,FSV 63 Luckenwalde,
+30,Sun Apr 20 2025,,,Chemnitzer FC,,,Rot-Weiß Erfurt,
+30,Sun Apr 20 2025,,,FC Carl Zeiss Jena,,,FSV Zwickau,
+30,Sun Apr 20 2025,,,SV Babelsberg 03,,,Hertha BSC II,
+30,Sun Apr 20 2025,,,ZFC Meuselwitz,,,Hallescher FC,
+30,Sun Apr 20 2025,,,BSG Chemie Leipzig,,,FC Viktoria 1889 Berlin,
+30,Sun Apr 20 2025,,,BFC Dynamo,,,FC Eilenburg,
+30,Sun Apr 20 2025,,,Hertha Zehlendorf,,,1. FC Lok Leipzig,
+30,Sun Apr 20 2025,,,Greifswalder FC,,,VSG Altglienicke,
+31,Sun Apr 27 2025,,,FSV Zwickau,,,SV Babelsberg 03,
+31,Sun Apr 27 2025,,,FSV 63 Luckenwalde,,,FC Carl Zeiss Jena,
+31,Sun Apr 27 2025,,,Rot-Weiß Erfurt,,,VFC Plauen,
+31,Sun Apr 27 2025,,,VSG Altglienicke,,,Chemnitzer FC,
+31,Sun Apr 27 2025,,,1. FC Lok Leipzig,,,Greifswalder FC,
+31,Sun Apr 27 2025,,,FC Eilenburg,,,Hertha Zehlendorf,
+31,Sun Apr 27 2025,,,FC Viktoria 1889 Berlin,,,BFC Dynamo,
+31,Sun Apr 27 2025,,,Hallescher FC,,,BSG Chemie Leipzig,
+31,Sun Apr 27 2025,,,Hertha BSC II,,,ZFC Meuselwitz,
+32,Sun May 4 2025,,,Rot-Weiß Erfurt,,,FSV 63 Luckenwalde,
+32,Sun May 4 2025,,,SV Babelsberg 03,,,FC Carl Zeiss Jena,
+32,Sun May 4 2025,,,ZFC Meuselwitz,,,FSV Zwickau,
+32,Sun May 4 2025,,,BSG Chemie Leipzig,,,Hertha BSC II,
+32,Sun May 4 2025,,,BFC Dynamo,,,Hallescher FC,
+32,Sun May 4 2025,,,Hertha Zehlendorf,,,FC Viktoria 1889 Berlin,
+32,Sun May 4 2025,,,Greifswalder FC,,,FC Eilenburg,
+32,Sun May 4 2025,,,Chemnitzer FC,,,1. FC Lok Leipzig,
+32,Sun May 4 2025,,,VFC Plauen,,,VSG Altglienicke,
+33,Sun May 11 2025,,,SV Babelsberg 03,,,FSV 63 Luckenwalde,
+33,Sun May 11 2025,,,VSG Altglienicke,,,Rot-Weiß Erfurt,
+33,Sun May 11 2025,,,1. FC Lok Leipzig,,,VFC Plauen,
+33,Sun May 11 2025,,,FC Eilenburg,,,Chemnitzer FC,
+33,Sun May 11 2025,,,FC Viktoria 1889 Berlin,,,Greifswalder FC,
+33,Sun May 11 2025,,,Hallescher FC,,,Hertha Zehlendorf,
+33,Sun May 11 2025,,,Hertha BSC II,,,BFC Dynamo,
+33,Sun May 11 2025,,,FSV Zwickau,,,BSG Chemie Leipzig,
+33,Sun May 11 2025,,,FC Carl Zeiss Jena,,,ZFC Meuselwitz,
+34,Sun May 18 2025,,,ZFC Meuselwitz,,,SV Babelsberg 03,
+34,Sun May 18 2025,,,BSG Chemie Leipzig,,,FC Carl Zeiss Jena,
+34,Sun May 18 2025,,,BFC Dynamo,,,FSV Zwickau,
+34,Sun May 18 2025,,,Hertha Zehlendorf,,,Hertha BSC II,
+34,Sun May 18 2025,,,Greifswalder FC,,,Hallescher FC,
+34,Sun May 18 2025,,,Chemnitzer FC,,,FC Viktoria 1889 Berlin,
+34,Sun May 18 2025,,,VFC Plauen,,,FC Eilenburg,
+34,Sun May 18 2025,,,Rot-Weiß Erfurt,,,1. FC Lok Leipzig,
+34,Sun May 18 2025,,,FSV 63 Luckenwalde,,,VSG Altglienicke,
