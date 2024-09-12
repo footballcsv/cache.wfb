@@ -1,0 +1,409 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Mar 9 2024,16:00,EST/-0500,Memphis 901,2-1,2-1,Las Vegas Lights FC,2024-03-09T21:00Z
+1,Sat Mar 9 2024,16:00,EST/-0500,New Mexico United,1-0,1-0,Pittsburgh Riverhounds,2024-03-09T21:00Z
+1,Sat Mar 9 2024,19:00,EST/-0500,Miami FC,2-0,1-0,Colorado Springs Switchbacks,2024-03-10T00:00Z
+1,Sat Mar 9 2024,19:00,EST/-0500,North Carolina FC,0-0,0-0,Charleston Battery,2024-03-10T00:00Z
+1,Sat Mar 9 2024,20:30,EST/-0500,San Antonio FC,2-2,1-1,Loudoun United,2024-03-10T01:30Z
+1,Sat Mar 9 2024,21:00,EST/-0500,El Paso Locomotive,0-1,0-1,Hartford Athletic,2024-03-10T02:00Z
+1,Sat Mar 9 2024,21:30,EST/-0500,Phoenix Rising,0-1,0-0,Birmingham Legion,2024-03-10T02:30Z
+1,Sat Mar 9 2024,22:00,EST/-0500,Oakland Roots,2-1,1-1,Indy Eleven,2024-03-10T03:00Z
+1,Sat Mar 9 2024,22:00,EST/-0500,Sacramento Republic,2-2,1-1,Orange County SC,2024-03-10T03:00Z
+1,Wed Mar 13 2024,21:00,EDT/-0400,El Paso Locomotive,1-1,1-0,Monterey Bay FC,2024-03-14T01:00Z
+2,Sat Mar 16 2024,15:00,EDT/-0400,El Paso Locomotive,0-1,0-0,Louisville City FC,2024-03-16T19:00Z
+2,Sat Mar 16 2024,16:00,EDT/-0400,Loudoun United,3-1,1-1,North Carolina FC,2024-03-16T20:00Z
+2,Sat Mar 16 2024,16:00,EDT/-0400,Memphis 901,1-2,0-2,Indy Eleven,2024-03-16T20:00Z
+2,Sat Mar 16 2024,16:00,EDT/-0400,Rhode Island FC,1-1,0-0,New Mexico United,2024-03-16T20:00Z
+2,Sat Mar 16 2024,19:00,EDT/-0400,Miami FC,0-1,0-0,Sacramento Republic,2024-03-16T23:00Z
+2,Sat Mar 16 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,0-2,0-1,Orange County SC,2024-03-16T23:00Z
+2,Sat Mar 16 2024,19:30,EDT/-0400,Tampa Bay Rowdies,2-2,1-0,San Antonio FC,2024-03-16T23:30Z
+2,Sat Mar 16 2024,20:00,EDT/-0400,Colorado Springs Switchbacks,1-2,0-1,Detroit City FC,2024-03-17T00:00Z
+2,Sat Mar 16 2024,20:00,EDT/-0400,Las Vegas Lights FC,1-3,0-2,FC Tulsa,2024-03-17T00:00Z
+2,Sat Mar 16 2024,22:00,EDT/-0400,Monterey Bay FC,1-0,1-0,Phoenix Rising,2024-03-17T02:00Z
+2,Sat Mar 16 2024,22:00,EDT/-0400,Oakland Roots,1-1,0-1,Charleston Battery,2024-03-17T02:00Z
+3,Sat Mar 23 2024,14:00,EDT/-0400,Hartford Athletic,1-0,1-0,Birmingham Legion,2024-03-23T18:00Z
+3,Sat Mar 23 2024,16:00,EDT/-0400,Detroit City FC,2-1,0-1,Loudoun United,2024-03-23T20:00Z
+3,Sat Mar 23 2024,16:00,EDT/-0400,Louisville City FC,3-1,1-0,Pittsburgh Riverhounds,2024-03-23T20:00Z
+3,Sat Mar 23 2024,19:00,EDT/-0400,Indy Eleven,1-1,1-1,Sacramento Republic,2024-03-23T23:00Z
+3,Sat Mar 23 2024,19:00,EDT/-0400,North Carolina FC,1-1,0-0,Tampa Bay Rowdies,2024-03-23T23:00Z
+3,Sat Mar 23 2024,19:30,EDT/-0400,Charleston Battery,4-0,1-0,New Mexico United,2024-03-23T23:30Z
+3,Sat Mar 23 2024,20:00,EDT/-0400,Las Vegas Lights FC,1-0,1-0,El Paso Locomotive,2024-03-24T00:00Z
+3,Sat Mar 23 2024,20:30,EDT/-0400,San Antonio FC,2-0,0-0,Colorado Springs Switchbacks,2024-03-24T00:30Z
+3,Sat Mar 23 2024,22:00,EDT/-0400,Orange County SC,2-2,1-2,Miami FC,2024-03-24T02:00Z
+3,Sat Mar 23 2024,22:00,EDT/-0400,Phoenix Rising,1-0,0-0,Oakland Roots,2024-03-24T02:00Z
+3,Sun Mar 24 2024,18:00,EDT/-0400,Monterey Bay FC,2-2,1-1,Rhode Island FC,2024-03-24T22:00Z
+4,Fri Mar 29 2024,19:00,EDT/-0400,North Carolina FC,2-1,2-0,Hartford Athletic,2024-03-29T23:00Z
+4,Sat Mar 30 2024,16:00,EDT/-0400,Louisville City FC,5-0,2-0,Birmingham Legion,2024-03-30T20:00Z
+4,Sat Mar 30 2024,19:00,EDT/-0400,Indy Eleven,1-2,1-0,Detroit City FC,2024-03-30T23:00Z
+4,Sat Mar 30 2024,19:00,EDT/-0400,Miami FC,1-2,1-1,Charleston Battery,2024-03-30T23:00Z
+4,Sat Mar 30 2024,19:30,EDT/-0400,Tampa Bay Rowdies,4-1,0-1,Rhode Island FC,2024-03-30T23:30Z
+4,Sat Mar 30 2024,20:30,EDT/-0400,San Antonio FC,2-1,1-1,Monterey Bay FC,2024-03-31T00:30Z
+4,Sat Mar 30 2024,22:00,EDT/-0400,Oakland Roots,0-3,0-0,Las Vegas Lights FC,2024-03-31T02:00Z
+4,Sat Mar 30 2024,22:00,EDT/-0400,Orange County SC,1-0,1-0,FC Tulsa,2024-03-31T02:00Z
+4,Sat Mar 30 2024,22:00,EDT/-0400,Sacramento Republic,1-0,0-0,Memphis 901,2024-03-31T02:00Z
+4,Sat Mar 30 2024,22:30,EDT/-0400,Phoenix Rising,0-1,0-1,New Mexico United,2024-03-31T02:30Z
+5,Fri Apr 5 2024,20:30,EDT/-0400,FC Tulsa,3-3,1-2,Phoenix Rising,2024-04-06T00:30Z
+5,Sat Apr 6 2024,14:00,EDT/-0400,Detroit City FC,1-0,1-0,North Carolina FC,2024-04-06T18:00Z
+5,Sat Apr 6 2024,14:00,EDT/-0400,Hartford Athletic,3-2,1-0,Miami FC,2024-04-06T18:00Z
+5,Sat Apr 6 2024,16:00,EDT/-0400,Louisville City FC,5-3,2-1,Indy Eleven,2024-04-06T20:00Z
+5,Sat Apr 6 2024,16:00,EDT/-0400,Memphis 901,0-2,0-0,Orange County SC,2024-04-06T20:00Z
+5,Sat Apr 6 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,0-0,0-0,Tampa Bay Rowdies,2024-04-06T23:00Z
+5,Sat Apr 6 2024,19:30,EDT/-0400,Rhode Island FC,0-0,0-0,Charleston Battery,2024-04-06T23:30Z
+5,Sat Apr 6 2024,20:00,EDT/-0400,Colorado Springs Switchbacks,0-2,0-2,Sacramento Republic,2024-04-07T00:00Z
+5,Sat Apr 6 2024,21:00,EDT/-0400,New Mexico United,3-2,1-0,El Paso Locomotive,2024-04-07T01:00Z
+5,Sat Apr 6 2024,22:00,EDT/-0400,Oakland Roots,0-1,0-0,Monterey Bay FC,2024-04-07T02:00Z
+5,Sat Apr 6 2024,22:30,EDT/-0400,Las Vegas Lights FC,1-0,0-0,San Antonio FC,2024-04-07T02:30Z
+5,Sun Apr 7 2024,17:00,EDT/-0400,Birmingham Legion,3-1,0-0,Loudoun United,2024-04-07T21:00Z
+6,Tue Apr 9 2024,19:00,EDT/-0400,Charleston Battery,3-2,3-1,Louisville City FC,2024-04-09T23:00Z
+6,Thu Apr 11 2024,19:00,EDT/-0400,Miami FC,2-5,0-3,Tampa Bay Rowdies,2024-04-11T23:00Z
+6,Sat Apr 13 2024,16:00,EDT/-0400,Loudoun United,2-1,1-1,Memphis 901,2024-04-13T20:00Z
+6,Sat Apr 13 2024,19:00,EDT/-0400,Indy Eleven,2-4,2-2,Charleston Battery,2024-04-13T23:00Z
+6,Sat Apr 13 2024,19:30,EDT/-0400,Rhode Island FC,0-0,0-0,Pittsburgh Riverhounds,2024-04-13T23:30Z
+6,Sat Apr 13 2024,20:30,EDT/-0400,San Antonio FC,0-0,0-0,Orange County SC,2024-04-14T00:30Z
+6,Sat Apr 13 2024,21:00,EDT/-0400,El Paso Locomotive,2-3,2-1,Oakland Roots,2024-04-14T01:00Z
+6,Sat Apr 13 2024,22:00,EDT/-0400,Monterey Bay FC,3-1,2-1,Las Vegas Lights FC,2024-04-14T02:00Z
+6,Sat Apr 13 2024,22:00,EDT/-0400,Sacramento Republic,1-1,1-0,FC Tulsa,2024-04-14T02:00Z
+6,Sat Apr 13 2024,22:30,EDT/-0400,Phoenix Rising,1-0,0-0,Colorado Springs Switchbacks,2024-04-14T02:30Z
+6,Sun Apr 14 2024,17:00,EDT/-0400,North Carolina FC,1-1,1-1,Birmingham Legion,2024-04-14T21:00Z
+7,Sat Apr 20 2024,16:00,EDT/-0400,Detroit City FC,3-1,2-0,Oakland Roots,2024-04-20T20:00Z
+7,Sat Apr 20 2024,16:00,EDT/-0400,Loudoun United,0-1,0-0,Louisville City FC,2024-04-20T20:00Z
+7,Sat Apr 20 2024,17:00,EDT/-0400,Hartford Athletic,1-3,1-1,San Antonio FC,2024-04-20T21:00Z
+7,Sat Apr 20 2024,18:00,EDT/-0400,FC Tulsa,1-4,1-3,Charleston Battery,2024-04-20T22:00Z
+7,Sat Apr 20 2024,19:00,EDT/-0400,Miami FC,0-1,0-0,Birmingham Legion,2024-04-20T23:00Z
+7,Sat Apr 20 2024,19:00,EDT/-0400,North Carolina FC,2-3,2-2,New Mexico United,2024-04-20T23:00Z
+7,Sat Apr 20 2024,19:30,EDT/-0400,Tampa Bay Rowdies,1-1,0-0,El Paso Locomotive,2024-04-20T23:30Z
+7,Sat Apr 20 2024,20:00,EDT/-0400,Colorado Springs Switchbacks,1-1,1-1,Indy Eleven,2024-04-21T00:00Z
+7,Sat Apr 20 2024,20:00,EDT/-0400,Las Vegas Lights FC,1-2,0-2,Rhode Island FC,2024-04-21T00:00Z
+7,Sat Apr 20 2024,20:00,EDT/-0400,Memphis 901,1-2,1-0,Monterey Bay FC,2024-04-21T00:00Z
+7,Sat Apr 20 2024,22:00,EDT/-0400,Orange County SC,0-2,0-2,Sacramento Republic,2024-04-21T02:00Z
+7,Sat Apr 20 2024,22:30,EDT/-0400,Phoenix Rising,1-3,1-1,Pittsburgh Riverhounds,2024-04-21T02:30Z
+8,Fri Apr 26 2024,19:30,EDT/-0400,Rhode Island FC,1-3,0-2,Phoenix Rising,2024-04-26T23:30Z
+8,Sat Apr 27 2024,16:00,EDT/-0400,Charleston Battery,6-0,4-0,Las Vegas Lights FC,2024-04-27T20:00Z
+8,Sat Apr 27 2024,19:00,EDT/-0400,Indy Eleven,2-1,0-0,North Carolina FC,2024-04-27T23:00Z
+8,Sat Apr 27 2024,19:00,EDT/-0400,Miami FC,2-1,2-1,San Antonio FC,2024-04-27T23:00Z
+8,Sat Apr 27 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,2-0,2-0,Detroit City FC,2024-04-27T23:00Z
+8,Sat Apr 27 2024,19:30,EDT/-0400,Birmingham Legion,0-3,0-2,Memphis 901,2024-04-27T23:30Z
+8,Sat Apr 27 2024,19:30,EDT/-0400,Louisville City FC,6-0,3-0,Hartford Athletic,2024-04-27T23:30Z
+8,Sat Apr 27 2024,19:30,EDT/-0400,Tampa Bay Rowdies,3-0,2-0,New Mexico United,2024-04-27T23:30Z
+8,Sat Apr 27 2024,21:00,EDT/-0400,El Paso Locomotive,0-1,0-0,FC Tulsa,2024-04-28T01:00Z
+8,Sat Apr 27 2024,22:00,EDT/-0400,Oakland Roots,0-2,0-0,Colorado Springs Switchbacks,2024-04-28T02:00Z
+8,Sat Apr 27 2024,22:00,EDT/-0400,Orange County SC,2-0,1-0,Monterey Bay FC,2024-04-28T02:00Z
+8,Sat Apr 27 2024,22:00,EDT/-0400,Sacramento Republic,3-1,1-1,Loudoun United,2024-04-28T02:00Z
+9,Sat May 4 2024,16:00,EDT/-0400,Memphis 901,4-1,2-1,Tampa Bay Rowdies,2024-05-04T20:00Z
+9,Sat May 4 2024,18:30,EDT/-0400,Charleston Battery,1-0,1-0,Hartford Athletic,2024-05-04T22:30Z
+9,Sat May 4 2024,19:00,EDT/-0400,Loudoun United,0-0,0-0,Detroit City FC,2024-05-04T23:00Z
+9,Sat May 4 2024,19:00,EDT/-0400,North Carolina FC,0-0,0-0,Rhode Island FC,2024-05-04T23:00Z
+9,Sat May 4 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,1-0,1-0,Miami FC,2024-05-04T23:00Z
+9,Sat May 4 2024,19:30,EDT/-0400,Birmingham Legion,2-2,0-1,FC Tulsa,2024-05-04T23:30Z
+9,Sat May 4 2024,20:30,EDT/-0400,San Antonio FC,2-2,0-0,Oakland Roots,2024-05-05T00:30Z
+9,Sat May 4 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,2-0,1-0,El Paso Locomotive,2024-05-05T01:00Z
+9,Sat May 4 2024,22:00,EDT/-0400,Monterey Bay FC,0-1,0-0,Indy Eleven,2024-05-05T02:00Z
+9,Sat May 4 2024,22:30,EDT/-0400,Las Vegas Lights FC,1-2,1-2,New Mexico United,2024-05-05T02:30Z
+9,Sat May 4 2024,22:30,EDT/-0400,Phoenix Rising,1-1,0-1,Sacramento Republic,2024-05-05T02:30Z
+10,Fri May 10 2024,19:00,EDT/-0400,Loudoun United,0-2,0-2,El Paso Locomotive,2024-05-10T23:00Z
+10,Sat May 11 2024,17:00,EDT/-0400,Detroit City FC,1-1,1-0,Phoenix Rising,2024-05-11T21:00Z
+10,Sat May 11 2024,19:00,EDT/-0400,Hartford Athletic,0-2,0-1,Colorado Springs Switchbacks,2024-05-11T23:00Z
+10,Sat May 11 2024,19:30,EDT/-0400,Louisville City FC,3-0,1-0,Orange County SC,2024-05-11T23:30Z
+10,Sat May 11 2024,19:30,EDT/-0400,Rhode Island FC,2-2,2-1,Sacramento Republic,2024-05-11T23:30Z
+10,Sat May 11 2024,19:30,EDT/-0400,Tampa Bay Rowdies,0-1,0-0,Birmingham Legion,2024-05-11T23:30Z
+10,Sat May 11 2024,20:30,EDT/-0400,FC Tulsa,2-2,2-0,Pittsburgh Riverhounds,2024-05-12T00:30Z
+10,Sat May 11 2024,20:30,EDT/-0400,San Antonio FC,1-1,1-0,Las Vegas Lights FC,2024-05-12T00:30Z
+10,Sat May 11 2024,21:00,EDT/-0400,New Mexico United,2-1,1-0,Oakland Roots,2024-05-12T01:00Z
+10,Sat May 11 2024,22:00,EDT/-0400,Monterey Bay FC,2-2,1-0,Memphis 901,2024-05-12T02:00Z
+10,Sun May 12 2024,19:00,EDT/-0400,Miami FC,1-3,0-1,Indy Eleven,2024-05-12T23:00Z
+11,Tue May 14 2024,20:20,EDT/-0400,North Carolina FC,2-0,1-0,Loudoun United,2024-05-15T00:20Z
+11,Wed May 15 2024,20:00,EDT/-0400,Birmingham Legion,0-1,0-0,Charleston Battery,2024-05-16T00:00Z
+11,Fri May 17 2024,21:00,EDT/-0400,El Paso Locomotive,1-2,1-1,Memphis 901,2024-05-18T01:00Z
+11,Fri May 17 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,3-1,1-1,Rhode Island FC,2024-05-18T01:00Z
+11,Sat May 18 2024,19:00,EDT/-0400,Indy Eleven,4-1,2-0,Hartford Athletic,2024-05-18T23:00Z
+11,Sat May 18 2024,19:00,EDT/-0400,Loudoun United,3-0,1-0,Monterey Bay FC,2024-05-18T23:00Z
+11,Sat May 18 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,1-1,1-0,North Carolina FC,2024-05-18T23:00Z
+11,Sat May 18 2024,19:30,EDT/-0400,Tampa Bay Rowdies,5-0,4-0,FC Tulsa,2024-05-18T23:30Z
+11,Sat May 18 2024,22:00,EDT/-0400,Oakland Roots,2-1,1-1,Orange County SC,2024-05-19T02:00Z
+11,Sat May 18 2024,22:30,EDT/-0400,Las Vegas Lights FC,2-2,2-1,Louisville City FC,2024-05-19T02:30Z
+11,Sat May 18 2024,22:30,EDT/-0400,Phoenix Rising,2-0,2-0,Miami FC,2024-05-19T02:30Z
+12,Fri May 24 2024,19:30,EDT/-0400,Hartford Athletic,2-1,1-1,Monterey Bay FC,2024-05-24T23:30Z
+12,Fri May 24 2024,20:30,EDT/-0400,FC Tulsa,0-1,0-1,Oakland Roots,2024-05-25T00:30Z
+12,Fri May 24 2024,19:30,EDT/-0400,Charleston Battery,1-2,0-0,El Paso Locomotive,2024-05-24T23:30Z
+12,Sat May 25 2024,16:00,EDT/-0400,Rhode Island FC,0-0,0-0,Louisville City FC,2024-05-25T20:00Z
+12,Sat May 25 2024,19:00,EDT/-0400,Indy Eleven,2-1,1-1,Phoenix Rising,2024-05-25T23:00Z
+12,Sat May 25 2024,19:00,EDT/-0400,Miami FC,0-4,0-0,North Carolina FC,2024-05-25T23:00Z
+12,Sat May 25 2024,19:30,EDT/-0400,Tampa Bay Rowdies,1-0,0-0,Las Vegas Lights FC,2024-05-25T23:30Z
+12,Sat May 25 2024,20:30,EDT/-0400,Memphis 901,2-0,1-0,Pittsburgh Riverhounds,2024-05-26T00:30Z
+12,Sat May 25 2024,21:00,EDT/-0400,New Mexico United,2-1,2-1,San Antonio FC,2024-05-26T01:00Z
+12,Sat May 25 2024,22:00,EDT/-0400,Orange County SC,0-2,0-1,Loudoun United,2024-05-26T02:00Z
+12,Sat May 25 2024,22:00,EDT/-0400,Sacramento Republic,0-0,0-0,Birmingham Legion,2024-05-26T02:00Z
+13,Wed May 29 2024,22:00,EDT/-0400,Monterey Bay FC,0-0,0-0,Charleston Battery,2024-05-30T02:00Z
+13,Wed May 29 2024,19:30,EDT/-0400,Louisville City FC,5-1,1-1,Detroit City FC,2024-05-29T23:30Z
+13,Sat Jun 1 2024,19:00,EDT/-0400,Hartford Athletic,1-1,1-1,Rhode Island FC,2024-06-01T23:00Z
+13,Sat Jun 1 2024,19:00,EDT/-0400,Loudoun United,3-0,2-0,FC Tulsa,2024-06-01T23:00Z
+13,Sat Jun 1 2024,19:00,EDT/-0400,Miami FC,1-2,0-1,Louisville City FC,2024-06-01T23:00Z
+13,Sat Jun 1 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,1-2,0-1,Indy Eleven,2024-06-01T23:00Z
+13,Sat Jun 1 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,1-0,1-0,Oakland Roots,2024-06-02T01:00Z
+13,Sat Jun 1 2024,21:00,EDT/-0400,El Paso Locomotive,1-3,1-2,Birmingham Legion,2024-06-02T01:00Z
+13,Sat Jun 1 2024,21:00,EDT/-0400,San Antonio FC,1-0,1-0,Memphis 901,2024-06-02T01:00Z
+13,Sat Jun 1 2024,22:00,EDT/-0400,Orange County SC,3-2,1-1,Detroit City FC,2024-06-02T02:00Z
+13,Sat Jun 1 2024,22:00,EDT/-0400,Sacramento Republic,0-1,0-0,Tampa Bay Rowdies,2024-06-02T02:00Z
+13,Sat Jun 1 2024,22:30,EDT/-0400,Las Vegas Lights FC,0-0,0-0,Phoenix Rising,2024-06-02T02:30Z
+13,Sun Jun 2 2024,19:00,EDT/-0400,Monterey Bay FC,1-0,0-0,New Mexico United,2024-06-02T23:00Z
+14,Wed Jun 5 2024,21:00,EDT/-0400,San Antonio FC,0-1,0-0,El Paso Locomotive,2024-06-06T01:00Z
+14,Sat Jun 8 2024,19:30,EDT/-0400,Charleston Battery,0-0,0-0,Pittsburgh Riverhounds,2024-06-08T23:30Z
+14,Sat Jun 8 2024,19:30,EDT/-0400,Rhode Island FC,0-2,0-1,Detroit City FC,2024-06-08T23:30Z
+14,Sat Jun 8 2024,20:00,EDT/-0400,Louisville City FC,2-1,1-0,North Carolina FC,2024-06-09T00:00Z
+14,Sat Jun 8 2024,20:30,EDT/-0400,FC Tulsa,2-1,0-0,San Antonio FC,2024-06-09T00:30Z
+14,Sat Jun 8 2024,20:30,EDT/-0400,Memphis 901,1-1,1-1,Colorado Springs Switchbacks,2024-06-09T00:30Z
+14,Sat Jun 8 2024,21:00,EDT/-0400,New Mexico United,1-0,0-0,Hartford Athletic,2024-06-09T01:00Z
+14,Sat Jun 8 2024,22:00,EDT/-0400,Monterey Bay FC,0-2,0-0,Sacramento Republic,2024-06-09T02:00Z
+14,Sat Jun 8 2024,22:00,EDT/-0400,Oakland Roots,1-0,0-0,Tampa Bay Rowdies,2024-06-09T02:00Z
+14,Sat Jun 8 2024,22:30,EDT/-0400,Las Vegas Lights FC,3-1,1-1,Miami FC,2024-06-09T02:30Z
+14,Sat Jun 8 2024,23:00,EDT/-0400,Phoenix Rising,2-1,1-0,Orange County SC,2024-06-09T03:00Z
+14,Sun Jun 9 2024,19:00,EDT/-0400,Birmingham Legion,0-1,0-1,Indy Eleven,2024-06-09T23:00Z
+15,Wed Jun 12 2024,20:00,EDT/-0400,Memphis 901,2-2,0-1,Rhode Island FC,2024-06-13T00:00Z
+15,Fri Jun 14 2024,19:00,EDT/-0400,Loudoun United,1-1,0-1,Las Vegas Lights FC,2024-06-14T23:00Z
+15,Sat Jun 15 2024,16:00,EDT/-0400,Detroit City FC,2-0,0-0,Charleston Battery,2024-06-15T20:00Z
+15,Sat Jun 15 2024,19:00,EDT/-0400,Hartford Athletic,2-0,2-0,Pittsburgh Riverhounds,2024-06-15T23:00Z
+15,Sat Jun 15 2024,19:00,EDT/-0400,Indy Eleven,1-0,1-0,San Antonio FC,2024-06-15T23:00Z
+15,Sat Jun 15 2024,19:30,EDT/-0400,Tampa Bay Rowdies,3-2,2-1,Louisville City FC,2024-06-15T23:30Z
+15,Sat Jun 15 2024,20:30,EDT/-0400,Memphis 901,2-1,2-0,New Mexico United,2024-06-16T00:30Z
+15,Sat Jun 15 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,4-2,1-0,Orange County SC,2024-06-16T01:00Z
+15,Sat Jun 15 2024,21:00,EDT/-0400,El Paso Locomotive,1-1,1-0,Phoenix Rising,2024-06-16T01:00Z
+15,Sat Jun 15 2024,23:00,EDT/-0400,Sacramento Republic,2-3,0-1,Oakland Roots,2024-06-16T03:00Z
+15,Sun Jun 16 2024,18:00,EDT/-0400,North Carolina FC,2-0,2-0,Monterey Bay FC,2024-06-16T22:00Z
+16,Tue Jun 18 2024,22:30,EDT/-0400,Las Vegas Lights FC,3-3,2-2,Colorado Springs Switchbacks,2024-06-19T02:30Z
+16,Wed Jun 19 2024,20:00,EDT/-0400,Birmingham Legion,3-0,0-0,San Antonio FC,2024-06-20T00:00Z
+16,Wed Jun 19 2024,20:30,EDT/-0400,FC Tulsa,2-1,0-1,Miami FC,2024-06-20T00:30Z
+16,Wed Jun 19 2024,22:00,EDT/-0400,Oakland Roots,2-1,1-1,El Paso Locomotive,2024-06-20T02:00Z
+16,Wed Jun 19 2024,19:30,EDT/-0400,Pittsburgh Riverhounds,0-1,0-0,Louisville City FC,2024-06-19T23:30Z
+16,Fri Jun 21 2024,19:30,EDT/-0400,Hartford Athletic,0-1,0-0,Tampa Bay Rowdies,2024-06-21T23:30Z
+16,Sat Jun 22 2024,18:00,EDT/-0400,Monterey Bay FC,2-1,1-0,Oakland Roots,2024-06-22T22:00Z
+16,Sat Jun 22 2024,19:00,EDT/-0400,Indy Eleven,0-1,0-1,Orange County SC,2024-06-22T23:00Z
+16,Sat Jun 22 2024,19:30,EDT/-0400,North Carolina FC,0-0,0-0,Pittsburgh Riverhounds,2024-06-22T23:30Z
+16,Sat Jun 22 2024,19:50,EDT/-0400,Miami FC,2-2,2-0,Loudoun United,2024-06-22T23:50Z
+16,Sat Jun 22 2024,20:00,EDT/-0400,Louisville City FC,2-5,0-2,Rhode Island FC,2024-06-23T00:00Z
+16,Sat Jun 22 2024,20:30,EDT/-0400,FC Tulsa,0-0,0-0,Sacramento Republic,2024-06-23T00:30Z
+16,Sat Jun 22 2024,21:00,EDT/-0400,New Mexico United,1-0,0-0,Colorado Springs Switchbacks,2024-06-23T01:00Z
+16,Sat Jun 22 2024,22:30,EDT/-0400,Las Vegas Lights FC,1-1,0-1,Memphis 901,2024-06-23T02:30Z
+16,Sat Jun 22 2024,22:30,EDT/-0400,Phoenix Rising,0-0,0-0,Charleston Battery,2024-06-23T02:30Z
+17,Wed Jun 26 2024,19:30,EDT/-0400,Rhode Island FC,3-0,2-0,El Paso Locomotive,2024-06-26T23:30Z
+17,Wed Jun 26 2024,19:00,EDT/-0400,Detroit City FC,1-2,1-0,Birmingham Legion,2024-06-26T23:00Z
+17,Fri Jun 28 2024,20:30,EDT/-0400,Memphis 901,5-1,2-0,Phoenix Rising,2024-06-29T00:30Z
+17,Fri Jun 28 2024,19:30,EDT/-0400,Charleston Battery,5-2,0-2,North Carolina FC,2024-06-28T23:30Z
+17,Sat Jun 29 2024,19:00,EDT/-0400,Miami FC,0-4,0-1,Detroit City FC,2024-06-29T23:00Z
+17,Sat Jun 29 2024,19:30,EDT/-0400,Birmingham Legion,1-4,0-0,Louisville City FC,2024-06-29T23:30Z
+17,Sat Jun 29 2024,19:30,EDT/-0400,Loudoun United,2-0,1-0,Tampa Bay Rowdies,2024-06-29T23:30Z
+17,Sat Jun 29 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,1-0,1-0,Monterey Bay FC,2024-06-30T01:00Z
+17,Sat Jun 29 2024,21:00,EDT/-0400,San Antonio FC,2-3,2-2,New Mexico United,2024-06-30T01:00Z
+17,Sat Jun 29 2024,22:00,EDT/-0400,Orange County SC,0-2,0-1,Oakland Roots,2024-06-30T02:00Z
+17,Sat Jun 29 2024,22:30,EDT/-0400,Las Vegas Lights FC,2-0,1-0,Pittsburgh Riverhounds,2024-06-30T02:30Z
+17,Sat Jun 29 2024,23:00,EDT/-0400,Sacramento Republic,1-0,0-0,Hartford Athletic,2024-06-30T03:00Z
+18,Wed Jul 3 2024,21:00,EDT/-0400,New Mexico United,2-0,0-0,Orange County SC,2024-07-04T01:00Z
+18,Wed Jul 3 2024,22:30,EDT/-0400,Sacramento Republic,0-1,0-1,Las Vegas Lights FC,2024-07-04T02:30Z
+18,Wed Jul 3 2024,19:30,EDT/-0400,Loudoun United,3-0,2-0,Hartford Athletic,2024-07-03T23:30Z
+18,Thu Jul 4 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,1-0,0-0,FC Tulsa,2024-07-05T01:00Z
+18,Fri Jul 5 2024,19:30,EDT/-0400,Rhode Island FC,3-3,0-2,Indy Eleven,2024-07-05T23:30Z
+18,Fri Jul 5 2024,19:00,EDT/-0400,Charleston Battery,2-0,1-0,Birmingham Legion,2024-07-05T23:00Z
+18,Sat Jul 6 2024,19:00,EDT/-0400,Detroit City FC,1-1,0-0,Tampa Bay Rowdies,2024-07-06T23:00Z
+18,Sat Jul 6 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,0-1,0-0,Monterey Bay FC,2024-07-06T23:00Z
+18,Sat Jul 6 2024,20:06,EDT/-0400,North Carolina FC,4-1,0-1,Miami FC,2024-07-07T00:06Z
+18,Sat Jul 6 2024,21:00,EDT/-0400,San Antonio FC,2-1,1-0,Phoenix Rising,2024-07-07T01:00Z
+18,Sat Jul 6 2024,22:00,EDT/-0400,Oakland Roots,1-0,0-0,Louisville City FC,2024-07-07T02:00Z
+18,Sat Jul 6 2024,22:00,EDT/-0400,Orange County SC,4-1,3-0,Memphis 901,2024-07-07T02:00Z
+19,Fri Jul 12 2024,21:00,EDT/-0400,El Paso Locomotive,0-2,0-0,Las Vegas Lights FC,2024-07-13T01:00Z
+19,Fri Jul 12 2024,19:30,EDT/-0400,Hartford Athletic,2-2,2-0,Charleston Battery,2024-07-12T23:30Z
+19,Sat Jul 13 2024,16:00,EDT/-0400,Detroit City FC,0-1,0-0,Memphis 901,2024-07-13T20:00Z
+19,Sat Jul 13 2024,19:00,EDT/-0400,Indy Eleven,1-1,0-0,Loudoun United,2024-07-13T23:00Z
+19,Sat Jul 13 2024,19:00,EDT/-0400,Miami FC,2-3,0-2,Rhode Island FC,2024-07-13T23:00Z
+19,Sat Jul 13 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,5-0,3-0,Oakland Roots,2024-07-13T23:00Z
+19,Sat Jul 13 2024,19:30,EDT/-0400,Birmingham Legion,2-1,1-1,Colorado Springs Switchbacks,2024-07-13T23:30Z
+19,Sat Jul 13 2024,19:30,EDT/-0400,Tampa Bay Rowdies,2-0,2-0,Orange County SC,2024-07-13T23:30Z
+19,Sat Jul 13 2024,22:00,EDT/-0400,Monterey Bay FC,0-0,0-0,FC Tulsa,2024-07-14T02:00Z
+19,Sat Jul 13 2024,23:00,EDT/-0400,Sacramento Republic,0-0,0-0,North Carolina FC,2024-07-14T03:00Z
+20,Wed Jul 17 2024,20:00,EDT/-0400,Birmingham Legion,1-3,0-1,Rhode Island FC,2024-07-18T00:00Z
+20,Fri Jul 19 2024,19:30,EDT/-0400,Charleston Battery,2-0,0-0,Miami FC,2024-07-19T23:30Z
+20,Fri Jul 19 2024,19:30,EDT/-0400,North Carolina FC,1-1,0-0,Detroit City FC,2024-07-19T23:30Z
+20,Fri Jul 19 2024,20:00,EDT/-0400,Louisville City FC,2-1,1-1,Colorado Springs Switchbacks,2024-07-20T00:00Z
+20,Fri Jul 19 2024,23:00,EDT/-0400,Phoenix Rising,2-0,1-0,El Paso Locomotive,2024-07-20T03:00Z
+20,Sat Jul 20 2024,20:00,EDT/-0400,Pittsburgh Riverhounds,3-1,3-1,Hartford Athletic,2024-07-21T00:00Z
+20,Sat Jul 20 2024,20:30,EDT/-0400,FC Tulsa,1-0,1-0,Memphis 901,2024-07-21T00:30Z
+20,Sat Jul 20 2024,21:00,EDT/-0400,New Mexico United,1-1,0-0,Birmingham Legion,2024-07-21T01:00Z
+20,Sat Jul 20 2024,22:00,EDT/-0400,Orange County SC,2-0,0-0,San Antonio FC,2024-07-21T02:00Z
+20,Sat Jul 20 2024,19:00,EDT/-0400,Indy Eleven,0-2,0-1,Tampa Bay Rowdies,2024-07-20T23:00Z
+20,Sun Jul 21 2024,16:00,EDT/-0400,Oakland Roots,2-5,0-3,Sacramento Republic,2024-07-21T20:00Z
+21,Wed Jul 24 2024,11:00,EDT/-0400,Loudoun United,1-2,0-2,Charleston Battery,2024-07-24T15:00Z
+21,Fri Jul 26 2024,19:30,EDT/-0400,Hartford Athletic,0-0,0-0,Phoenix Rising,2024-07-26T23:30Z
+21,Fri Jul 26 2024,20:30,EDT/-0400,FC Tulsa,0-0,0-0,Indy Eleven,2024-07-27T00:30Z
+21,Fri Jul 26 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,1-1,1-1,Las Vegas Lights FC,2024-07-27T01:00Z
+21,Sat Jul 27 2024,19:00,EDT/-0400,Detroit City FC,0-1,0-0,Sacramento Republic,2024-07-27T23:00Z
+21,Sat Jul 27 2024,19:00,EDT/-0400,Miami FC,1-2,0-1,Oakland Roots,2024-07-27T23:00Z
+21,Sat Jul 27 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,1-1,1-0,Loudoun United,2024-07-27T23:00Z
+21,Sat Jul 27 2024,19:30,EDT/-0400,Birmingham Legion,3-0,0-0,Orange County SC,2024-07-27T23:30Z
+21,Sat Jul 27 2024,19:30,EDT/-0400,Rhode Island FC,2-1,0-1,North Carolina FC,2024-07-27T23:30Z
+21,Sat Jul 27 2024,19:30,EDT/-0400,Tampa Bay Rowdies,4-2,1-2,Charleston Battery,2024-07-27T23:30Z
+21,Sat Jul 27 2024,20:00,EDT/-0400,Louisville City FC,4-1,3-1,Monterey Bay FC,2024-07-28T00:00Z
+21,Sat Jul 27 2024,20:30,EDT/-0400,Memphis 901,1-0,1-0,San Antonio FC,2024-07-28T00:30Z
+21,Sat Jul 27 2024,21:00,EDT/-0400,El Paso Locomotive,1-2,1-1,New Mexico United,2024-07-28T01:00Z
+22,Wed Jul 31 2024,21:00,EDT/-0400,New Mexico United,1-2,1-1,Las Vegas Lights FC,2024-08-01T01:00Z
+22,Wed Jul 31 2024,19:30,EDT/-0400,Hartford Athletic,1-0,1-0,Detroit City FC,2024-07-31T23:30Z
+22,Fri Aug 2 2024,19:30,EDT/-0400,Charleston Battery,5-0,0-0,Indy Eleven,2024-08-02T23:30Z
+22,Sat Aug 3 2024,16:00,EDT/-0400,Detroit City FC,1-1,0-0,Rhode Island FC,2024-08-03T20:00Z
+22,Sat Aug 3 2024,19:30,EDT/-0400,Birmingham Legion,2-2,2-0,Hartford Athletic,2024-08-03T23:30Z
+22,Sat Aug 3 2024,19:30,EDT/-0400,Loudoun United,4-1,1-1,Miami FC,2024-08-03T23:30Z
+22,Sat Aug 3 2024,20:30,EDT/-0400,Memphis 901,0-0,0-0,El Paso Locomotive,2024-08-04T00:30Z
+22,Sat Aug 3 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,2-0,1-0,Phoenix Rising,2024-08-04T01:00Z
+22,Sat Aug 3 2024,21:00,EDT/-0400,New Mexico United,0-1,0-1,Louisville City FC,2024-08-04T01:00Z
+22,Sat Aug 3 2024,21:00,EDT/-0400,San Antonio FC,1-3,1-1,FC Tulsa,2024-08-04T01:00Z
+22,Sat Aug 3 2024,22:00,EDT/-0400,Monterey Bay FC,2-2,1-0,Tampa Bay Rowdies,2024-08-04T02:00Z
+22,Sat Aug 3 2024,22:00,EDT/-0400,Orange County SC,0-1,0-1,North Carolina FC,2024-08-04T02:00Z
+22,Sat Aug 3 2024,22:00,EDT/-0400,Sacramento Republic,0-1,0-1,Pittsburgh Riverhounds,2024-08-04T02:00Z
+23,Wed Aug 7 2024,19:00,EDT/-0400,Indy Eleven,1-0,1-0,Rhode Island FC,2024-08-07T23:00Z
+23,Wed Aug 7 2024,19:00,EDT/-0400,Detroit City FC,0-0,0-0,Pittsburgh Riverhounds,2024-08-07T23:00Z
+23,Fri Aug 9 2024,20:30,EDT/-0400,FC Tulsa,0-0,0-0,Orange County SC,2024-08-10T00:30Z
+23,Sat Aug 10 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,0-0,0-0,San Antonio FC,2024-08-10T23:00Z
+23,Sat Aug 10 2024,19:30,EDT/-0400,Charleston Battery,3-1,1-0,Memphis 901,2024-08-10T23:30Z
+23,Sat Aug 10 2024,19:30,EDT/-0400,North Carolina FC,4-1,1-0,Colorado Springs Switchbacks,2024-08-10T23:30Z
+23,Sat Aug 10 2024,19:30,EDT/-0400,Rhode Island FC,3-0,1-0,Hartford Athletic,2024-08-10T23:30Z
+23,Sat Aug 10 2024,21:00,EDT/-0400,El Paso Locomotive,2-1,1-0,Miami FC,2024-08-11T01:00Z
+23,Sat Aug 10 2024,21:00,EDT/-0400,Louisville City FC,4-3,1-0,Sacramento Republic,2024-08-11T01:00Z
+23,Sat Aug 10 2024,22:00,EDT/-0400,Monterey Bay FC,1-2,0-1,Birmingham Legion,2024-08-11T02:00Z
+23,Sat Aug 10 2024,22:00,EDT/-0400,Oakland Roots,3-1,1-0,Loudoun United,2024-08-11T02:00Z
+23,Sat Aug 10 2024,22:30,EDT/-0400,Las Vegas Lights FC,1-1,0-1,Detroit City FC,2024-08-11T02:30Z
+23,Sat Aug 10 2024,23:00,EDT/-0400,Phoenix Rising,0-0,0-0,Tampa Bay Rowdies,2024-08-11T03:00Z
+23,Sun Aug 11 2024,17:00,EDT/-0400,Indy Eleven,1-3,1-0,New Mexico United,2024-08-11T21:00Z
+24,Wed Aug 14 2024,19:00,EDT/-0400,Miami FC,1-5,1-1,Memphis 901,2024-08-14T23:00Z
+24,Wed Aug 14 2024,21:00,EDT/-0400,New Mexico United,3-3,1-3,FC Tulsa,2024-08-15T01:00Z
+24,Wed Aug 14 2024,22:30,EDT/-0400,Sacramento Republic,2-0,1-0,El Paso Locomotive,2024-08-15T02:30Z
+24,Fri Aug 16 2024,20:00,EDT/-0400,Birmingham Legion,0-1,0-1,Detroit City FC,2024-08-17T00:00Z
+24,Sat Aug 17 2024,19:00,EDT/-0400,Hartford Athletic,2-1,1-1,Las Vegas Lights FC,2024-08-17T23:00Z
+24,Sat Aug 17 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,2-2,0-1,Colorado Springs Switchbacks,2024-08-17T23:00Z
+24,Sat Aug 17 2024,19:30,EDT/-0400,Rhode Island FC,1-1,0-1,Oakland Roots,2024-08-17T23:30Z
+24,Sat Aug 17 2024,19:30,EDT/-0400,Tampa Bay Rowdies,0-2,0-1,Loudoun United,2024-08-17T23:30Z
+24,Sat Aug 17 2024,20:00,EDT/-0400,Louisville City FC,3-1,1-0,Charleston Battery,2024-08-18T00:00Z
+24,Sat Aug 17 2024,20:30,EDT/-0400,Memphis 901,2-0,1-0,FC Tulsa,2024-08-18T00:30Z
+24,Sat Aug 17 2024,21:00,EDT/-0400,New Mexico United,3-2,2-1,Monterey Bay FC,2024-08-18T01:00Z
+24,Sat Aug 17 2024,21:00,EDT/-0400,San Antonio FC,1-0,0-0,North Carolina FC,2024-08-18T01:00Z
+24,Sat Aug 17 2024,22:00,EDT/-0400,Orange County SC,0-1,0-0,El Paso Locomotive,2024-08-18T02:00Z
+25,Wed Aug 21 2024,19:30,EDT/-0400,Tampa Bay Rowdies,2-3,1-1,Detroit City FC,2024-08-21T23:30Z
+25,Sat Aug 24 2024,19:00,EDT/-0400,Detroit City FC,0-1,0-1,FC Tulsa,2024-08-24T23:00Z
+25,Sat Aug 24 2024,19:00,EDT/-0400,Hartford Athletic,2-1,0-1,Louisville City FC,2024-08-24T23:00Z
+25,Sat Aug 24 2024,19:30,EDT/-0400,Birmingham Legion,0-3,0-2,Pittsburgh Riverhounds,2024-08-24T23:30Z
+25,Sat Aug 24 2024,19:30,EDT/-0400,Charleston Battery,6-0,2-0,Orange County SC,2024-08-24T23:30Z
+25,Sat Aug 24 2024,19:30,EDT/-0400,Loudoun United,0-0,0-0,Rhode Island FC,2024-08-24T23:30Z
+25,Sat Aug 24 2024,19:30,EDT/-0400,Tampa Bay Rowdies,2-0,0-0,Miami FC,2024-08-24T23:30Z
+25,Sat Aug 24 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,0-1,0-1,New Mexico United,2024-08-25T01:00Z
+25,Sat Aug 24 2024,22:00,EDT/-0400,Monterey Bay FC,0-0,0-0,El Paso Locomotive,2024-08-25T02:00Z
+25,Sat Aug 24 2024,22:00,EDT/-0400,Oakland Roots,1-1,0-1,Memphis 901,2024-08-25T02:00Z
+25,Sat Aug 24 2024,22:30,EDT/-0400,Las Vegas Lights FC,3-2,3-2,Indy Eleven,2024-08-25T02:30Z
+25,Sat Aug 24 2024,23:00,EDT/-0400,Phoenix Rising,0-0,0-0,North Carolina FC,2024-08-25T03:00Z
+25,Sat Aug 24 2024,23:00,EDT/-0400,Sacramento Republic,1-0,0-0,San Antonio FC,2024-08-25T03:00Z
+26,Wed Aug 28 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,3-1,2-1,Memphis 901,2024-08-29T01:00Z
+26,Sat Aug 31 2024,18:00,EDT/-0400,Oakland Roots,1-0,0-0,New Mexico United,2024-08-31T22:00Z
+26,Sat Aug 31 2024,19:00,EDT/-0400,Detroit City FC,1-1,1-1,Hartford Athletic,2024-08-31T23:00Z
+26,Sat Aug 31 2024,19:00,EDT/-0400,Indy Eleven,1-1,0-0,Pittsburgh Riverhounds,2024-08-31T23:00Z
+26,Sat Aug 31 2024,19:00,EDT/-0400,Miami FC,1-0,0-0,Monterey Bay FC,2024-08-31T23:00Z
+26,Sat Aug 31 2024,19:30,EDT/-0400,Loudoun United,0-1,0-0,Phoenix Rising,2024-08-31T23:30Z
+26,Sat Aug 31 2024,19:30,EDT/-0400,North Carolina FC,4-6,3-3,Louisville City FC,2024-08-31T23:30Z
+26,Sat Aug 31 2024,19:30,EDT/-0400,Rhode Island FC,2-0,0-0,Birmingham Legion,2024-08-31T23:30Z
+26,Sat Aug 31 2024,21:00,EDT/-0400,San Antonio FC,1-1,0-0,Charleston Battery,2024-09-01T01:00Z
+26,Sat Aug 31 2024,22:00,EDT/-0400,Orange County SC,2-3,2-1,Las Vegas Lights FC,2024-09-01T02:00Z
+26,Sun Sep 1 2024,18:00,EDT/-0400,FC Tulsa,1-4,0-3,Colorado Springs Switchbacks,2024-09-01T22:00Z
+27,Fri Sep 6 2024,19:30,EDT/-0400,Louisville City FC,1-0,0-0,Loudoun United,2024-09-06T23:30Z
+27,Fri Sep 6 2024,21:00,EDT/-0400,New Mexico United,1-0,1-0,Miami FC,2024-09-07T01:00Z
+27,Fri Sep 6 2024,23:00,EDT/-0400,Phoenix Rising,1-0,1-0,FC Tulsa,2024-09-07T03:00Z
+27,Sat Sep 7 2024,19:00,EDT/-0400,Hartford Athletic,0-0,0-0,Indy Eleven,2024-09-07T23:00Z
+27,Sat Sep 7 2024,19:00,EDT/-0400,Pittsburgh Riverhounds,2-0,1-0,Rhode Island FC,2024-09-07T23:00Z
+27,Sat Sep 7 2024,19:30,EDT/-0400,Charleston Battery,2-1,0-1,Sacramento Republic,2024-09-07T23:30Z
+27,Sat Sep 7 2024,19:30,EDT/-0400,North Carolina FC,5-0,4-0,Oakland Roots,2024-09-07T23:30Z
+27,Sat Sep 7 2024,21:00,EDT/-0400,Colorado Springs Switchbacks,4-2,2-0,Tampa Bay Rowdies,2024-09-08T01:00Z
+27,Sat Sep 7 2024,21:00,EDT/-0400,El Paso Locomotive,0-0,0-0,Detroit City FC,2024-09-08T01:00Z
+27,Sat Sep 7 2024,22:00,EDT/-0400,Monterey Bay FC,0-1,0-0,San Antonio FC,2024-09-08T02:00Z
+28,Wed Sep 11 2024,20:00,EDT/-0400,Memphis 901,0-0,0-0,Hartford Athletic,2024-09-12T00:00Z
+28,Wed Sep 11 2024,20:30,EDT/-0400,FC Tulsa,1-1,1-0,Las Vegas Lights FC,2024-09-12T00:30Z
+28,Wed Sep 11 2024,20:00,EDT/-0400,Birmingham Legion,2-0,1-0,Tampa Bay Rowdies,2024-09-12T00:00Z
+28,Sat Sep 14 2024,19:00,EDT/-0400,Detroit City FC,,,New Mexico United,2024-09-14T23:00Z
+28,Sat Sep 14 2024,19:00,EDT/-0400,Indy Eleven,,,El Paso Locomotive,2024-09-14T23:00Z
+28,Sat Sep 14 2024,19:00,EDT/-0400,Loudoun United,,,Birmingham Legion,2024-09-14T23:00Z
+28,Sat Sep 14 2024,19:00,EDT/-0400,Miami FC,,,Hartford Athletic,2024-09-14T23:00Z
+28,Sat Sep 14 2024,19:30,EDT/-0400,Tampa Bay Rowdies,,,Pittsburgh Riverhounds,2024-09-14T23:30Z
+28,Sat Sep 14 2024,20:00,EDT/-0400,Colorado Springs Switchbacks,,,Charleston Battery,2024-09-15T00:00Z
+28,Sat Sep 14 2024,20:00,EDT/-0400,Memphis 901,,,North Carolina FC,2024-09-15T00:00Z
+28,Sat Sep 14 2024,20:30,EDT/-0400,FC Tulsa,,,Louisville City FC,2024-09-15T00:30Z
+28,Sat Sep 14 2024,22:00,EDT/-0400,Oakland Roots,,,San Antonio FC,2024-09-15T02:00Z
+28,Sat Sep 14 2024,22:00,EDT/-0400,Orange County SC,,,Rhode Island FC,2024-09-15T02:00Z
+28,Sat Sep 14 2024,22:00,EDT/-0400,Sacramento Republic,,,Phoenix Rising,2024-09-15T02:00Z
+28,Sat Sep 14 2024,22:30,EDT/-0400,Las Vegas Lights FC,,,Monterey Bay FC,2024-09-15T02:30Z
+29,Wed Sep 18 2024,21:00,EDT/-0400,New Mexico United,,,Sacramento Republic,2024-09-19T01:00Z
+29,Thu Sep 19 2024,,,Louisville City FC,,,Memphis 901,
+29,Sat Sep 21 2024,,,Detroit City FC,,,Louisville City FC,
+29,Sat Sep 21 2024,19:00,EDT/-0400,Hartford Athletic,,,Oakland Roots,2024-09-21T23:00Z
+29,Sat Sep 21 2024,19:30,EDT/-0400,Charleston Battery,,,Tampa Bay Rowdies,2024-09-21T23:30Z
+29,Sat Sep 21 2024,19:30,EDT/-0400,North Carolina FC,,,Indy Eleven,2024-09-21T23:30Z
+29,Sat Sep 21 2024,19:30,EDT/-0400,Rhode Island FC,,,FC Tulsa,2024-09-21T23:30Z
+29,Sat Sep 21 2024,21:00,EDT/-0400,El Paso Locomotive,,,Colorado Springs Switchbacks,2024-09-22T01:00Z
+29,Sat Sep 21 2024,22:00,EDT/-0400,Monterey Bay FC,,,Orange County SC,2024-09-22T02:00Z
+29,Sat Sep 21 2024,22:30,EDT/-0400,Las Vegas Lights FC,,,Sacramento Republic,2024-09-22T02:30Z
+29,Sat Sep 21 2024,22:30,EDT/-0400,Phoenix Rising,,,San Antonio FC,2024-09-22T02:30Z
+29,Sun Sep 22 2024,17:00,EDT/-0400,Birmingham Legion,,,Miami FC,2024-09-22T21:00Z
+29,Sun Sep 22 2024,16:00,EDT/-0400,New Mexico United,,,Loudoun United,2024-09-22T20:00Z
+30,Wed Sep 25 2024,22:30,EDT/-0400,Orange County SC,,,Phoenix Rising,2024-09-26T02:30Z
+30,Sat Sep 28 2024,15:00,EDT/-0400,El Paso Locomotive,,,North Carolina FC,2024-09-28T19:00Z
+30,Sat Sep 28 2024,22:00,EDT/-0400,Monterey Bay FC,,,Detroit City FC,2024-09-29T02:00Z
+30,Sat Sep 28 2024,22:30,EDT/-0400,Phoenix Rising,,,Las Vegas Lights FC,2024-09-29T02:30Z
+30,Sat Sep 28 2024,19:30,EDT/-0400,Tampa Bay Rowdies,,,Hartford Athletic,2024-09-28T23:30Z
+30,Sat Sep 28 2024,20:00,EDT/-0400,Colorado Springs Switchbacks,,,Loudoun United,2024-09-29T00:00Z
+30,Sat Sep 28 2024,20:30,EDT/-0400,San Antonio FC,,,Rhode Island FC,2024-09-29T00:30Z
+30,Sun Sep 29 2024,,,Pittsburgh Riverhounds,,,Birmingham Legion,
+30,Sun Sep 29 2024,,,Indy Eleven,,,Miami FC,
+30,Sun Sep 29 2024,18:00,EDT/-0400,Oakland Roots,,,FC Tulsa,2024-09-29T22:00Z
+30,Sun Sep 29 2024,20:30,EDT/-0400,Sacramento Republic,,,New Mexico United,2024-09-30T00:30Z
+31,Wed Oct 2 2024,19:30,EDT/-0400,Louisville City FC,,,Miami FC,2024-10-02T23:30Z
+31,Fri Oct 4 2024,22:30,EDT/-0400,Phoenix Rising,,,Monterey Bay FC,2024-10-05T02:30Z
+31,Sat Oct 5 2024,16:00,EDT/-0400,Charleston Battery,,,Detroit City FC,2024-10-05T20:00Z
+31,Sat Oct 5 2024,20:30,EDT/-0400,San Antonio FC,,,Sacramento Republic,2024-10-06T00:30Z
+31,Sat Oct 5 2024,20:30,EDT/-0400,FC Tulsa,,,El Paso Locomotive,2024-10-06T00:30Z
+31,Sat Oct 5 2024,22:30,EDT/-0400,Las Vegas Lights FC,,,Orange County SC,2024-10-06T02:30Z
+31,Sat Oct 5 2024,19:30,EDT/-0400,Rhode Island FC,,,Tampa Bay Rowdies,2024-10-05T23:30Z
+31,Sat Oct 5 2024,20:00,EDT/-0400,Memphis 901,,,Oakland Roots,2024-10-06T00:00Z
+31,Sun Oct 6 2024,,,Hartford Athletic,,,Loudoun United,
+31,Sun Oct 6 2024,,,Miami FC,,,Pittsburgh Riverhounds,
+31,Sun Oct 6 2024,,,Indy Eleven,,,Louisville City FC,
+31,Sun Oct 6 2024,17:00,EDT/-0400,Birmingham Legion,,,North Carolina FC,2024-10-06T21:00Z
+32,Tue Oct 8 2024,,,Loudoun United,,,Indy Eleven,
+32,Wed Oct 9 2024,,,New Mexico United,,,Phoenix Rising,
+32,Wed Oct 9 2024,,,North Carolina FC,,,FC Tulsa,
+32,Wed Oct 9 2024,,,Orange County SC,,,Colorado Springs Switchbacks,
+32,Wed Oct 9 2024,,,Sacramento Republic,,,Monterey Bay FC,
+32,Wed Oct 9 2024,,,El Paso Locomotive,,,San Antonio FC,
+33,Sat Oct 12 2024,,,Colorado Springs Switchbacks,,,San Antonio FC,
+33,Sat Oct 12 2024,,,Detroit City FC,,,Indy Eleven,
+33,Sat Oct 12 2024,,,FC Tulsa,,,New Mexico United,
+33,Sat Oct 12 2024,,,Hartford Athletic,,,North Carolina FC,
+33,Sat Oct 12 2024,,,Louisville City FC,,,Tampa Bay Rowdies,
+33,Sat Oct 12 2024,,,Memphis 901,,,Sacramento Republic,
+33,Sat Oct 12 2024,,,Oakland Roots,,,Phoenix Rising,
+33,Sat Oct 12 2024,,,Pittsburgh Riverhounds,,,Charleston Battery,
+33,Sat Oct 12 2024,,,Rhode Island FC,,,Loudoun United,
+33,Sun Oct 13 2024,,,Birmingham Legion,,,Las Vegas Lights FC,
+33,Wed Oct 16 2024,,,El Paso Locomotive,,,Orange County SC,
+34,Sat Oct 19 2024,,,Charleston Battery,,,Rhode Island FC,
+34,Sat Oct 19 2024,,,Detroit City FC,,,Miami FC,
+34,Sat Oct 19 2024,,,El Paso Locomotive,,,Sacramento Republic,
+34,Sat Oct 19 2024,,,FC Tulsa,,,Hartford Athletic,
+34,Sat Oct 19 2024,,,Indy Eleven,,,Birmingham Legion,
+34,Sat Oct 19 2024,,,Las Vegas Lights FC,,,Oakland Roots,
+34,Sat Oct 19 2024,,,Loudoun United,,,Pittsburgh Riverhounds,
+34,Sat Oct 19 2024,,,Monterey Bay FC,,,Colorado Springs Switchbacks,
+34,Sat Oct 19 2024,,,Orange County SC,,,New Mexico United,
+34,Sat Oct 19 2024,,,Phoenix Rising,,,Memphis 901,
+34,Sat Oct 19 2024,,,San Antonio FC,,,Louisville City FC,
+34,Sat Oct 19 2024,,,Tampa Bay Rowdies,,,North Carolina FC,
+35,Sat Oct 26 2024,,,Charleston Battery,,,Loudoun United,
+35,Sat Oct 26 2024,,,FC Tulsa,,,Monterey Bay FC,
+35,Sat Oct 26 2024,,,Louisville City FC,,,Phoenix Rising,
+35,Sat Oct 26 2024,,,New Mexico United,,,Memphis 901,
+35,Sat Oct 26 2024,,,North Carolina FC,,,Las Vegas Lights FC,
+35,Sat Oct 26 2024,,,Oakland Roots,,,Birmingham Legion,
+35,Sat Oct 26 2024,,,Orange County SC,,,Hartford Athletic,
+35,Sat Oct 26 2024,,,Pittsburgh Riverhounds,,,El Paso Locomotive,
+35,Sat Oct 26 2024,,,Rhode Island FC,,,Miami FC,
+35,Sat Oct 26 2024,,,Sacramento Republic,,,Colorado Springs Switchbacks,
+35,Sat Oct 26 2024,,,San Antonio FC,,,Detroit City FC,
+35,Sat Oct 26 2024,,,Tampa Bay Rowdies,,,Indy Eleven,

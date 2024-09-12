@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Jul 20 2024,17:30,MSK/+0300,Krylia Sovetov,0-4,0-3,Zenit St. Petersburg,2024-07-20T14:30Z
+1,Sat Jul 20 2024,20:00,MSK/+0300,FK Rostov,0-0,0-0,CSKA Moskva,2024-07-20T17:00Z
+1,Sat Jul 20 2024,20:00,MSK/+0300,Dinamo Moskva,3-1,3-0,Fakel Voronezh,2024-07-20T17:00Z
+1,Sat Jul 20 2024,15:00,MSK/+0300,Lokomotiv Moskva,3-2,2-2,Akron Tolyatti,2024-07-20T12:00Z
+1,Sun Jul 21 2024,17:30,MSK/+0300,FK Orenburg,2-0,0-0,Spartak Moskva,2024-07-21T14:30Z
+1,Sun Jul 21 2024,20:00,MSK/+0300,Akhmat Grozny,1-1,1-1,FK Krasnodar,2024-07-21T17:00Z
+1,Sun Jul 21 2024,20:00,MSK/+0300,FK Khimki,1-1,0-1,FK Dinamo Makhachkala,2024-07-21T17:00Z
+1,Mon Jul 22 2024,20:00,MSK/+0300,FK Nizhny Novgorod,2-4,1-3,Rubin Kazan,2024-07-22T17:00Z
+2,Fri Jul 26 2024,18:00,MSK/+0300,Krylia Sovetov,1-3,0-1,FK Rostov,2024-07-26T15:00Z
+2,Sat Jul 27 2024,17:30,MSK/+0300,Dinamo Moskva,3-1,1-1,Lokomotiv Moskva,2024-07-27T14:30Z
+2,Sat Jul 27 2024,17:30,MSK/+0300,Rubin Kazan,0-4,0-2,Zenit St. Petersburg,2024-07-27T14:30Z
+2,Sat Jul 27 2024,20:00,MSK/+0300,Fakel Voronezh,0-2,0-0,Akron Tolyatti,2024-07-27T17:00Z
+2,Sat Jul 27 2024,15:00,MSK/+0300,FK Nizhny Novgorod,0-3,0-1,CSKA Moskva,2024-07-27T12:00Z
+2,Sun Jul 28 2024,15:00,MSK/+0300,FK Khimki,1-3,0-0,Spartak Moskva,2024-07-28T12:00Z
+2,Sun Jul 28 2024,17:30,MSK/+0300,FK Orenburg,0-0,0-0,Akhmat Grozny,2024-07-28T14:30Z
+2,Sun Jul 28 2024,20:00,MSK/+0300,FK Krasnodar,0-0,0-0,FK Dinamo Makhachkala,2024-07-28T17:00Z
+3,Sat Aug 3 2024,17:30,MSK/+0300,Zenit St. Petersburg,5-0,4-0,FK Rostov,2024-08-03T14:30Z
+3,Sat Aug 3 2024,20:00,MSK/+0300,Rubin Kazan,2-3,1-0,FK Khimki,2024-08-03T17:00Z
+3,Sat Aug 3 2024,15:00,MSK/+0300,Akron Tolyatti,0-2,0-1,Dinamo Moskva,2024-08-03T12:00Z
+3,Sun Aug 4 2024,15:30,MSK/+0300,CSKA Moskva,5-1,3-1,FK Orenburg,2024-08-04T12:30Z
+3,Sun Aug 4 2024,17:30,MSK/+0300,Fakel Voronezh,0-0,0-0,FK Krasnodar,2024-08-04T14:30Z
+3,Sun Aug 4 2024,20:30,MSK/+0300,Akhmat Grozny,0-5,0-3,Lokomotiv Moskva,2024-08-04T17:30Z
+3,Sun Aug 4 2024,20:30,MSK/+0300,FK Dinamo Makhachkala,0-1,0-0,FK Nizhny Novgorod,2024-08-04T17:30Z
+3,Mon Aug 5 2024,20:00,MSK/+0300,Spartak Moskva,3-0,2-0,Krylia Sovetov,2024-08-05T17:00Z
+4,Fri Aug 9 2024,20:45,MSK/+0300,FK Rostov,1-1,1-0,Rubin Kazan,2024-08-09T17:45Z
+4,Fri Aug 9 2024,18:30,MSK/+0300,FK Nizhny Novgorod,1-0,1-0,FK Khimki,2024-08-09T15:30Z
+4,Sat Aug 10 2024,15:00,MSK/+0300,Lokomotiv Moskva,2-0,1-0,FK Dinamo Makhachkala,2024-08-10T12:00Z
+4,Sat Aug 10 2024,17:30,MSK/+0300,Zenit St. Petersburg,1-0,0-0,Dinamo Moskva,2024-08-10T14:30Z
+4,Sat Aug 10 2024,17:30,MSK/+0300,FK Orenburg,2-2,0-1,Akron Tolyatti,2024-08-10T14:30Z
+4,Sat Aug 10 2024,20:00,MSK/+0300,FK Krasnodar,2-1,1-0,CSKA Moskva,2024-08-10T17:00Z
+4,Sun Aug 11 2024,20:00,MSK/+0300,Spartak Moskva,0-0,0-0,Akhmat Grozny,2024-08-11T17:00Z
+4,Sun Aug 11 2024,17:30,MSK/+0300,Krylia Sovetov,2-0,0-0,Fakel Voronezh,2024-08-11T14:30Z
+5,Sat Aug 17 2024,19:30,MSK/+0300,FK Rostov,3-2,0-2,FK Orenburg,2024-08-17T16:30Z
+5,Sat Aug 17 2024,17:00,MSK/+0300,Dinamo Moskva,1-0,0-0,Krylia Sovetov,2024-08-17T14:00Z
+5,Sun Aug 18 2024,15:00,MSK/+0300,FK Khimki,1-1,0-0,Zenit St. Petersburg,2024-08-18T12:00Z
+5,Sun Aug 18 2024,17:30,MSK/+0300,CSKA Moskva,0-1,0-0,Lokomotiv Moskva,2024-08-18T14:30Z
+5,Sun Aug 18 2024,17:30,MSK/+0300,Spartak Moskva,3-0,2-0,Fakel Voronezh,2024-08-18T14:30Z
+5,Sun Aug 18 2024,20:00,MSK/+0300,FK Krasnodar,2-1,0-1,FK Nizhny Novgorod,2024-08-18T17:00Z
+5,Mon Aug 19 2024,20:00,MSK/+0300,FK Dinamo Makhachkala,1-0,0-0,Akhmat Grozny,2024-08-19T17:00Z
+5,Mon Aug 19 2024,17:30,MSK/+0300,Akron Tolyatti,1-2,1-0,Rubin Kazan,2024-08-19T14:30Z
+6,Fri Aug 23 2024,20:00,MSK/+0300,Rubin Kazan,2-0,1-0,FK Dinamo Makhachkala,2024-08-23T17:00Z
+6,Sat Aug 24 2024,15:00,MSK/+0300,CSKA Moskva,4-0,0-0,Akron Tolyatti,2024-08-24T12:00Z
+6,Sat Aug 24 2024,17:30,MSK/+0300,Zenit St. Petersburg,0-0,0-0,Spartak Moskva,2024-08-24T14:30Z
+6,Sat Aug 24 2024,17:30,MSK/+0300,Fakel Voronezh,1-0,0-0,FK Orenburg,2024-08-24T14:30Z
+6,Sat Aug 24 2024,20:00,MSK/+0300,Akhmat Grozny,3-3,0-1,FK Khimki,2024-08-24T17:00Z
+6,Sun Aug 25 2024,17:30,MSK/+0300,Dinamo Moskva,0-1,0-1,FK Krasnodar,2024-08-25T14:30Z
+6,Sun Aug 25 2024,20:00,MSK/+0300,Lokomotiv Moskva,3-2,2-1,FK Rostov,2024-08-25T17:00Z
+6,Sun Aug 25 2024,15:00,MSK/+0300,Krylia Sovetov,3-1,0-0,FK Nizhny Novgorod,2024-08-25T12:00Z
+7,Sat Aug 31 2024,15:00,MSK/+0300,FK Khimki,0-2,0-1,CSKA Moskva,2024-08-31T12:00Z
+7,Sat Aug 31 2024,17:30,MSK/+0300,FK Nizhny Novgorod,0-3,0-1,Zenit St. Petersburg,2024-08-31T14:30Z
+7,Sat Aug 31 2024,19:45,MSK/+0300,Spartak Moskva,1-0,0-0,Rubin Kazan,2024-08-31T16:45Z
+7,Sat Aug 31 2024,20:00,MSK/+0300,Akhmat Grozny,0-0,0-0,Akron Tolyatti,2024-08-31T17:00Z
+7,Sun Sep 1 2024,17:30,MSK/+0300,Krylia Sovetov,0-1,0-1,FK Dinamo Makhachkala,2024-09-01T14:30Z
+7,Sun Sep 1 2024,19:45,MSK/+0300,Lokomotiv Moskva,0-3,0-2,FK Krasnodar,2024-09-01T16:45Z
+7,Sun Sep 1 2024,20:00,MSK/+0300,FK Rostov,4-1,2-0,Fakel Voronezh,2024-09-01T17:00Z
+7,Sun Sep 1 2024,15:00,MSK/+0300,FK Orenburg,2-2,1-0,Dinamo Moskva,2024-09-01T12:00Z
+8,Fri Sep 13 2024,20:15,MSK/+0300,Rubin Kazan,,,Krylia Sovetov,2024-09-13T17:15Z
+8,Sat Sep 14 2024,12:00,MSK/+0300,FK Orenburg,,,Lokomotiv Moskva,2024-09-14T09:00Z
+8,Sat Sep 14 2024,14:15,MSK/+0300,Fakel Voronezh,,,FK Nizhny Novgorod,2024-09-14T11:15Z
+8,Sat Sep 14 2024,16:30,MSK/+0300,CSKA Moskva,,,Zenit St. Petersburg,2024-09-14T13:30Z
+8,Sat Sep 14 2024,19:00,MSK/+0300,FK Krasnodar,,,FK Rostov,2024-09-14T16:00Z
+8,Sun Sep 15 2024,16:30,MSK/+0300,Akron Tolyatti,,,FK Khimki,2024-09-15T13:30Z
+8,Sun Sep 15 2024,19:00,MSK/+0300,FK Dinamo Makhachkala,,,Spartak Moskva,2024-09-15T16:00Z
+8,Sun Sep 15 2024,14:15,MSK/+0300,Dinamo Moskva,,,Akhmat Grozny,2024-09-15T11:15Z
+9,Sat Sep 21 2024,16:30,MSK/+0300,Zenit St. Petersburg,,,Fakel Voronezh,2024-09-21T13:30Z
+9,Sat Sep 21 2024,19:00,MSK/+0300,Rubin Kazan,,,CSKA Moskva,2024-09-21T16:00Z
+9,Sat Sep 21 2024,14:00,MSK/+0300,Akron Tolyatti,,,FK Krasnodar,2024-09-21T11:00Z
+9,Sun Sep 22 2024,14:15,MSK/+0300,FK Khimki,,,FK Orenburg,2024-09-22T11:15Z
+9,Sun Sep 22 2024,16:30,MSK/+0300,Spartak Moskva,,,Dinamo Moskva,2024-09-22T13:30Z
+9,Sun Sep 22 2024,16:30,MSK/+0300,FK Rostov,,,FK Dinamo Makhachkala,2024-09-22T13:30Z
+9,Sun Sep 22 2024,19:00,MSK/+0300,FK Nizhny Novgorod,,,Lokomotiv Moskva,2024-09-22T16:00Z
+9,Mon Sep 23 2024,18:30,MSK/+0300,Akhmat Grozny,,,Krylia Sovetov,2024-09-23T15:30Z
+10,Fri Sep 27 2024,19:00,MSK/+0300,Fakel Voronezh,,,Rubin Kazan,2024-09-27T16:00Z
+10,Fri Sep 27 2024,16:30,MSK/+0300,FK Orenburg,,,FK Nizhny Novgorod,2024-09-27T13:30Z
+10,Sat Sep 28 2024,14:00,MSK/+0300,CSKA Moskva,,,Akhmat Grozny,2024-09-28T11:00Z
+10,Sat Sep 28 2024,16:30,MSK/+0300,Lokomotiv Moskva,,,Spartak Moskva,2024-09-28T13:30Z
+10,Sat Sep 28 2024,19:30,MSK/+0300,FK Krasnodar,,,Zenit St. Petersburg,2024-09-28T16:30Z
+10,Sat Sep 28 2024,20:00,MSK/+0300,FK Rostov,,,Akron Tolyatti,2024-09-28T17:00Z
+10,Sun Sep 29 2024,19:00,MSK/+0300,FK Dinamo Makhachkala,,,Dinamo Moskva,2024-09-29T16:00Z
+10,Sun Sep 29 2024,16:30,MSK/+0300,Krylia Sovetov,,,FK Khimki,2024-09-29T13:30Z
+11,Sat Oct 5 2024,16:30,MSK/+0300,Zenit St. Petersburg,,,FK Orenburg,2024-10-05T13:30Z
+11,Sat Oct 5 2024,19:00,MSK/+0300,Spartak Moskva,,,FK Rostov,2024-10-05T16:00Z
+11,Sat Oct 5 2024,19:00,MSK/+0300,Rubin Kazan,,,Akhmat Grozny,2024-10-05T16:00Z
+11,Sat Oct 5 2024,14:00,MSK/+0300,Akron Tolyatti,,,FK Nizhny Novgorod,2024-10-05T11:00Z
+11,Sun Oct 6 2024,14:00,MSK/+0300,Fakel Voronezh,,,FK Dinamo Makhachkala,2024-10-06T11:00Z
+11,Sun Oct 6 2024,16:30,MSK/+0300,Lokomotiv Moskva,,,Krylia Sovetov,2024-10-06T13:30Z
+11,Sun Oct 6 2024,19:00,MSK/+0300,FK Krasnodar,,,FK Khimki,2024-10-06T16:00Z
+11,Sun Oct 6 2024,19:00,MSK/+0300,Dinamo Moskva,,,CSKA Moskva,2024-10-06T16:00Z
+12,Fri Oct 18 2024,20:15,MSK/+0300,Akhmat Grozny,,,Fakel Voronezh,2024-10-18T17:15Z
+12,Fri Oct 18 2024,18:00,MSK/+0300,Akron Tolyatti,,,Zenit St. Petersburg,2024-10-18T15:00Z
+12,Sat Oct 19 2024,14:00,MSK/+0300,FK Nizhny Novgorod,,,FK Rostov,2024-10-19T11:00Z
+12,Sat Oct 19 2024,16:30,MSK/+0300,Spartak Moskva,,,FK Krasnodar,2024-10-19T13:30Z
+12,Sat Oct 19 2024,16:30,MSK/+0300,FK Khimki,,,Lokomotiv Moskva,2024-10-19T13:30Z
+12,Sat Oct 19 2024,19:00,MSK/+0300,FK Dinamo Makhachkala,,,CSKA Moskva,2024-10-19T16:00Z
+12,Sun Oct 20 2024,19:00,MSK/+0300,Rubin Kazan,,,Dinamo Moskva,2024-10-20T16:00Z
+12,Sun Oct 20 2024,16:30,MSK/+0300,FK Orenburg,,,Krylia Sovetov,2024-10-20T13:30Z
+13,Sat Oct 26 2024,16:30,MSK/+0300,CSKA Moskva,,,Fakel Voronezh,2024-10-26T13:30Z
+13,Sat Oct 26 2024,19:00,MSK/+0300,FK Rostov,,,Akhmat Grozny,2024-10-26T16:00Z
+13,Sat Oct 26 2024,14:00,MSK/+0300,FK Dinamo Makhachkala,,,Akron Tolyatti,2024-10-26T11:00Z
+13,Sun Oct 27 2024,13:00,MSK/+0300,FK Orenburg,,,Rubin Kazan,2024-10-27T10:00Z
+13,Sun Oct 27 2024,15:15,MSK/+0300,FK Nizhny Novgorod,,,Spartak Moskva,2024-10-27T12:15Z
+13,Sun Oct 27 2024,17:30,MSK/+0300,FK Khimki,,,Dinamo Moskva,2024-10-27T14:30Z
+13,Sun Oct 27 2024,20:30,MSK/+0300,Zenit St. Petersburg,,,Lokomotiv Moskva,2024-10-27T17:30Z
+13,Mon Oct 28 2024,19:30,MSK/+0300,Krylia Sovetov,,,FK Krasnodar,2024-10-28T16:30Z
+14,Sun Nov 3 2024,,,Zenit St. Petersburg,,,FK Dinamo Makhachkala,
+14,Sun Nov 3 2024,,,FK Krasnodar,,,FK Orenburg,
+14,Sun Nov 3 2024,,,CSKA Moskva,,,Spartak Moskva,
+14,Sun Nov 3 2024,,,Dinamo Moskva,,,FK Rostov,
+14,Sun Nov 3 2024,,,Lokomotiv Moskva,,,Rubin Kazan,
+14,Sun Nov 3 2024,,,Akhmat Grozny,,,FK Nizhny Novgorod,
+14,Sun Nov 3 2024,,,Fakel Voronezh,,,FK Khimki,
+14,Sun Nov 3 2024,,,Akron Tolyatti,,,Krylia Sovetov,
+15,Sun Nov 10 2024,,,FK Rostov,,,FK Khimki,
+15,Sun Nov 10 2024,,,Krylia Sovetov,,,CSKA Moskva,
+15,Sun Nov 10 2024,,,Dinamo Moskva,,,FK Nizhny Novgorod,
+15,Sun Nov 10 2024,,,Lokomotiv Moskva,,,Fakel Voronezh,
+15,Sun Nov 10 2024,,,Akhmat Grozny,,,Zenit St. Petersburg,
+15,Sun Nov 10 2024,,,Rubin Kazan,,,FK Krasnodar,
+15,Sun Nov 10 2024,,,FK Dinamo Makhachkala,,,FK Orenburg,
+15,Sun Nov 10 2024,,,Spartak Moskva,,,Akron Tolyatti,
+16,Sun Nov 24 2024,,,Spartak Moskva,,,Lokomotiv Moskva,
+16,Sun Nov 24 2024,,,Krylia Sovetov,,,Akhmat Grozny,
+16,Sun Nov 24 2024,,,CSKA Moskva,,,FK Rostov,
+16,Sun Nov 24 2024,,,Fakel Voronezh,,,Dinamo Moskva,
+16,Sun Nov 24 2024,,,Rubin Kazan,,,Akron Tolyatti,
+16,Sun Nov 24 2024,,,FK Nizhny Novgorod,,,FK Dinamo Makhachkala,
+16,Sun Nov 24 2024,,,FK Orenburg,,,Zenit St. Petersburg,
+16,Sun Nov 24 2024,,,FK Khimki,,,FK Krasnodar,
+17,Sun Dec 1 2024,,,FK Rostov,,,FK Nizhny Novgorod,
+17,Sun Dec 1 2024,,,FK Krasnodar,,,Spartak Moskva,
+17,Sun Dec 1 2024,,,CSKA Moskva,,,Rubin Kazan,
+17,Sun Dec 1 2024,,,Lokomotiv Moskva,,,FK Khimki,
+17,Sun Dec 1 2024,,,Akhmat Grozny,,,Dinamo Moskva,
+17,Sun Dec 1 2024,,,FK Dinamo Makhachkala,,,Fakel Voronezh,
+17,Sun Dec 1 2024,,,Akron Tolyatti,,,FK Orenburg,
+17,Sun Dec 1 2024,,,Zenit St. Petersburg,,,Krylia Sovetov,
+18,Sun Dec 8 2024,,,Zenit St. Petersburg,,,Akron Tolyatti,
+18,Sun Dec 8 2024,,,Spartak Moskva,,,FK Nizhny Novgorod,
+18,Sun Dec 8 2024,,,FK Rostov,,,Krylia Sovetov,
+18,Sun Dec 8 2024,,,FK Krasnodar,,,Lokomotiv Moskva,
+18,Sun Dec 8 2024,,,Dinamo Moskva,,,FK Khimki,
+18,Sun Dec 8 2024,,,Akhmat Grozny,,,FK Orenburg,
+18,Sun Dec 8 2024,,,Fakel Voronezh,,,CSKA Moskva,
+18,Sun Dec 8 2024,,,FK Dinamo Makhachkala,,,Rubin Kazan,
+19,Sun Mar 2 2025,,,Spartak Moskva,,,FK Orenburg,
+19,Sun Mar 2 2025,,,FK Rostov,,,Dinamo Moskva,
+19,Sun Mar 2 2025,,,FK Krasnodar,,,Krylia Sovetov,
+19,Sun Mar 2 2025,,,Akhmat Grozny,,,Rubin Kazan,
+19,Sun Mar 2 2025,,,FK Nizhny Novgorod,,,Akron Tolyatti,
+19,Sun Mar 2 2025,,,FK Dinamo Makhachkala,,,Lokomotiv Moskva,
+19,Sun Mar 2 2025,,,FK Khimki,,,Fakel Voronezh,
+19,Sun Mar 2 2025,,,Zenit St. Petersburg,,,CSKA Moskva,
+20,Sun Mar 9 2025,,,Krylia Sovetov,,,Akron Tolyatti,
+20,Sun Mar 9 2025,,,CSKA Moskva,,,FK Khimki,
+20,Sun Mar 9 2025,,,Dinamo Moskva,,,FK Dinamo Makhachkala,
+20,Sun Mar 9 2025,,,Lokomotiv Moskva,,,Akhmat Grozny,
+20,Sun Mar 9 2025,,,Fakel Voronezh,,,Zenit St. Petersburg,
+20,Sun Mar 9 2025,,,Rubin Kazan,,,Spartak Moskva,
+20,Sun Mar 9 2025,,,FK Nizhny Novgorod,,,FK Krasnodar,
+20,Sun Mar 9 2025,,,FK Orenburg,,,FK Rostov,
+21,Sun Mar 16 2025,,,FK Rostov,,,FK Krasnodar,
+21,Sun Mar 16 2025,,,Lokomotiv Moskva,,,Dinamo Moskva,
+21,Sun Mar 16 2025,,,Rubin Kazan,,,FK Nizhny Novgorod,
+21,Sun Mar 16 2025,,,FK Orenburg,,,Fakel Voronezh,
+21,Sun Mar 16 2025,,,FK Dinamo Makhachkala,,,Krylia Sovetov,
+21,Sun Mar 16 2025,,,Akron Tolyatti,,,CSKA Moskva,
+21,Sun Mar 16 2025,,,FK Khimki,,,Akhmat Grozny,
+21,Sun Mar 16 2025,,,Spartak Moskva,,,Zenit St. Petersburg,
+22,Sun Mar 30 2025,,,Zenit St. Petersburg,,,Rubin Kazan,
+22,Sun Mar 30 2025,,,FK Krasnodar,,,Fakel Voronezh,
+22,Sun Mar 30 2025,,,Krylia Sovetov,,,Lokomotiv Moskva,
+22,Sun Mar 30 2025,,,CSKA Moskva,,,FK Dinamo Makhachkala,
+22,Sun Mar 30 2025,,,Dinamo Moskva,,,FK Orenburg,
+22,Sun Mar 30 2025,,,Akhmat Grozny,,,Spartak Moskva,
+22,Sun Mar 30 2025,,,Akron Tolyatti,,,FK Rostov,
+22,Sun Mar 30 2025,,,FK Khimki,,,FK Nizhny Novgorod,
+23,Sun Apr 6 2025,,,FK Krasnodar,,,Akron Tolyatti,
+23,Sun Apr 6 2025,,,Krylia Sovetov,,,Rubin Kazan,
+23,Sun Apr 6 2025,,,CSKA Moskva,,,Dinamo Moskva,
+23,Sun Apr 6 2025,,,Lokomotiv Moskva,,,Zenit St. Petersburg,
+23,Sun Apr 6 2025,,,Fakel Voronezh,,,Akhmat Grozny,
+23,Sun Apr 6 2025,,,FK Nizhny Novgorod,,,FK Orenburg,
+23,Sun Apr 6 2025,,,FK Dinamo Makhachkala,,,FK Khimki,
+23,Sun Apr 6 2025,,,FK Rostov,,,Spartak Moskva,
+24,Sun Apr 13 2025,,,Zenit St. Petersburg,,,FK Krasnodar,
+24,Sun Apr 13 2025,,,Spartak Moskva,,,FK Dinamo Makhachkala,
+24,Sun Apr 13 2025,,,Akhmat Grozny,,,FK Rostov,
+24,Sun Apr 13 2025,,,Rubin Kazan,,,Lokomotiv Moskva,
+24,Sun Apr 13 2025,,,FK Nizhny Novgorod,,,Dinamo Moskva,
+24,Sun Apr 13 2025,,,FK Orenburg,,,CSKA Moskva,
+24,Sun Apr 13 2025,,,Akron Tolyatti,,,Fakel Voronezh,
+24,Sun Apr 13 2025,,,FK Khimki,,,Krylia Sovetov,
+25,Sun Apr 20 2025,,,FK Krasnodar,,,Akhmat Grozny,
+25,Sun Apr 20 2025,,,CSKA Moskva,,,Krylia Sovetov,
+25,Sun Apr 20 2025,,,Dinamo Moskva,,,Rubin Kazan,
+25,Sun Apr 20 2025,,,Lokomotiv Moskva,,,FK Nizhny Novgorod,
+25,Sun Apr 20 2025,,,Fakel Voronezh,,,FK Rostov,
+25,Sun Apr 20 2025,,,FK Orenburg,,,FK Dinamo Makhachkala,
+25,Sun Apr 20 2025,,,Akron Tolyatti,,,Spartak Moskva,
+25,Sun Apr 20 2025,,,Zenit St. Petersburg,,,FK Khimki,
+26,Sun Apr 27 2025,,,Spartak Moskva,,,CSKA Moskva,
+26,Sun Apr 27 2025,,,FK Rostov,,,Lokomotiv Moskva,
+26,Sun Apr 27 2025,,,Krylia Sovetov,,,FK Orenburg,
+26,Sun Apr 27 2025,,,Dinamo Moskva,,,Zenit St. Petersburg,
+26,Sun Apr 27 2025,,,Rubin Kazan,,,Fakel Voronezh,
+26,Sun Apr 27 2025,,,FK Nizhny Novgorod,,,Akhmat Grozny,
+26,Sun Apr 27 2025,,,FK Dinamo Makhachkala,,,FK Krasnodar,
+26,Sun Apr 27 2025,,,FK Khimki,,,Akron Tolyatti,
+27,Sun May 4 2025,,,Zenit St. Petersburg,,,FK Nizhny Novgorod,
+27,Sun May 4 2025,,,FK Krasnodar,,,Rubin Kazan,
+27,Sun May 4 2025,,,Krylia Sovetov,,,Dinamo Moskva,
+27,Sun May 4 2025,,,Lokomotiv Moskva,,,FK Orenburg,
+27,Sun May 4 2025,,,Akhmat Grozny,,,CSKA Moskva,
+27,Sun May 4 2025,,,Akron Tolyatti,,,FK Dinamo Makhachkala,
+27,Sun May 4 2025,,,FK Khimki,,,FK Rostov,
+27,Sun May 4 2025,,,Fakel Voronezh,,,Spartak Moskva,
+28,Sun May 11 2025,,,CSKA Moskva,,,FK Krasnodar,
+28,Sun May 11 2025,,,Dinamo Moskva,,,Spartak Moskva,
+28,Sun May 11 2025,,,Fakel Voronezh,,,Lokomotiv Moskva,
+28,Sun May 11 2025,,,Rubin Kazan,,,FK Rostov,
+28,Sun May 11 2025,,,FK Nizhny Novgorod,,,Krylia Sovetov,
+28,Sun May 11 2025,,,FK Orenburg,,,FK Khimki,
+28,Sun May 11 2025,,,FK Dinamo Makhachkala,,,Zenit St. Petersburg,
+28,Sun May 11 2025,,,Akron Tolyatti,,,Akhmat Grozny,
+29,Sun May 18 2025,,,Krylia Sovetov,,,Spartak Moskva,
+29,Sun May 18 2025,,,Dinamo Moskva,,,Akron Tolyatti,
+29,Sun May 18 2025,,,Lokomotiv Moskva,,,CSKA Moskva,
+29,Sun May 18 2025,,,Akhmat Grozny,,,FK Dinamo Makhachkala,
+29,Sun May 18 2025,,,FK Nizhny Novgorod,,,Fakel Voronezh,
+29,Sun May 18 2025,,,FK Orenburg,,,FK Krasnodar,
+29,Sun May 18 2025,,,FK Khimki,,,Rubin Kazan,
+29,Sun May 18 2025,,,FK Rostov,,,Zenit St. Petersburg,
+30,Sat May 24 2025,,,Zenit St. Petersburg,,,Akhmat Grozny,
+30,Sat May 24 2025,,,Spartak Moskva,,,FK Khimki,
+30,Sat May 24 2025,,,FK Krasnodar,,,Dinamo Moskva,
+30,Sat May 24 2025,,,CSKA Moskva,,,FK Nizhny Novgorod,
+30,Sat May 24 2025,,,Fakel Voronezh,,,Krylia Sovetov,
+30,Sat May 24 2025,,,Rubin Kazan,,,FK Orenburg,
+30,Sat May 24 2025,,,FK Dinamo Makhachkala,,,FK Rostov,
+30,Sat May 24 2025,,,Akron Tolyatti,,,Lokomotiv Moskva,

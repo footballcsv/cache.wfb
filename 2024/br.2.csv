@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Apr 19 2024,19:00,-03/-0300,Grêmio Novorizontino - SP,2-1,0-1,CR Brasil - AL,,2024-04-19T22:00Z
+1,Fri Apr 19 2024,21:00,-03/-0300,Operário Ferroviário - PR,1-0,0-0,Avaí - SC,,2024-04-20T00:00Z
+1,Fri Apr 19 2024,19:00,-03/-0300,Botafogo - SP,1-1,0-0,América - MG,,2024-04-19T22:00Z
+1,Sat Apr 20 2024,15:30,-03/-0300,Chapecoense,3-1,1-0,Ituano - SP,,2024-04-20T18:30Z
+1,Sat Apr 20 2024,16:30,-03/-0300,Santos FC,2-0,0-0,Paysandu - PA,,2024-04-20T19:30Z
+1,Sat Apr 20 2024,17:00,-03/-0300,Amazonas FC - AM,2-3,0-1,Sport Recife - PE,,2024-04-20T20:00Z
+1,Sat Apr 20 2024,18:00,-03/-0300,Ceará - CE,1-1,1-1,Goiás - GO,,2024-04-20T21:00Z
+1,Sun Apr 21 2024,18:00,-03/-0300,Ponte Preta,1-1,1-0,Coritiba - PR,,2024-04-21T21:00Z
+1,Mon Apr 22 2024,21:00,-03/-0300,Vila Nova - GO,2-0,1-0,Guarani - SP,,2024-04-23T00:00Z
+1,Tue Apr 23 2024,21:00,-03/-0300,Brusque - SC,3-1,1-0,Mirassol - SP,,2024-04-24T00:00Z
+2,Fri Apr 26 2024,19:00,-03/-0300,Ituano - SP,0-2,0-1,Operário Ferroviário - PR,,2024-04-26T22:00Z
+2,Fri Apr 26 2024,19:00,-03/-0300,Sport Recife - PE,2-0,1-0,Vila Nova - GO,,2024-04-26T22:00Z
+2,Fri Apr 26 2024,20:00,-03/-0300,Avaí - SC,0-2,0-0,Santos FC,,2024-04-26T23:00Z
+2,Fri Apr 26 2024,21:00,-03/-0300,Guarani - SP,0-1,0-1,Chapecoense,,2024-04-27T00:00Z
+2,Sat Apr 27 2024,17:00,-03/-0300,Paysandu - PA,1-1,0-0,Botafogo - SP,,2024-04-27T20:00Z
+2,Sat Apr 27 2024,18:00,-03/-0300,América - MG,2-0,1-0,Grêmio Novorizontino - SP,,2024-04-27T21:00Z
+2,Sat Apr 27 2024,17:00,-03/-0300,CR Brasil - AL,0-0,0-0,Amazonas FC - AM,,2024-04-27T20:00Z
+2,Sun Apr 28 2024,18:30,-03/-0300,Goiás - GO,3-0,1-0,Ponte Preta,,2024-04-28T21:30Z
+2,Sun Apr 28 2024,16:00,-03/-0300,Coritiba - PR,1-0,0-0,Brusque - SC,,2024-04-28T19:00Z
+2,Mon Apr 29 2024,19:30,-03/-0300,Mirassol - SP,3-2,2-0,Ceará - CE,,2024-04-29T22:30Z
+3,Fri May 3 2024,21:30,-03/-0300,Coritiba - PR,0-1,0-1,Sport Recife - PE,,2024-05-04T00:30Z
+3,Fri May 3 2024,19:00,-03/-0300,Paysandu - PA,0-0,0-0,Avaí - SC,,2024-05-03T22:00Z
+3,Sat May 4 2024,17:00,-03/-0300,Chapecoense,2-2,1-0,América - MG,,2024-05-04T20:00Z
+3,Sat May 4 2024,18:00,-03/-0300,Vila Nova - GO,1-0,0-0,Operário Ferroviário - PR,,2024-05-04T21:00Z
+3,Sat May 4 2024,21:00,-03/-0300,Ituano - SP,1-3,1-1,Grêmio Novorizontino - SP,,2024-05-05T00:00Z
+3,Sun May 5 2024,16:00,-03/-0300,Brusque - SC,0-2,0-1,Goiás - GO,,2024-05-05T19:00Z
+3,Mon May 6 2024,20:00,-03/-0300,Ponte Preta,3-0,2-0,Amazonas FC - AM,,2024-05-06T23:00Z
+3,Mon May 6 2024,21:00,-03/-0300,Santos FC,4-1,2-0,Guarani - SP,,2024-05-07T00:00Z
+3,Mon May 6 2024,19:00,-03/-0300,Ceará - CE,2-2,1-1,CR Brasil - AL,,2024-05-06T22:00Z
+3,Tue May 7 2024,21:00,-03/-0300,Botafogo - SP,0-0,0-0,Mirassol - SP,,2024-05-08T00:00Z
+4,Wed May 8 2024,21:00,-03/-0300,América - MG,3-1,2-1,Vila Nova - GO,,2024-05-09T00:00Z
+4,Fri May 10 2024,21:30,-03/-0300,Goiás - GO,2-0,1-0,Ituano - SP,,2024-05-11T00:30Z
+4,Fri May 10 2024,21:30,-03/-0300,CR Brasil - AL,2-0,2-0,Chapecoense,,2024-05-11T00:30Z
+4,Fri May 10 2024,19:00,-03/-0300,Grêmio Novorizontino - SP,0-3,0-1,Ceará - CE,,2024-05-10T22:00Z
+4,Sat May 11 2024,17:00,-03/-0300,Guarani - SP,2-0,1-0,Botafogo - SP,,2024-05-11T20:00Z
+4,Sat May 11 2024,17:00,-03/-0300,Operário Ferroviário - PR,1-1,1-0,Ponte Preta,,2024-05-11T20:00Z
+4,Sat May 11 2024,17:00,-03/-0300,Amazonas FC - AM,1-0,1-0,Santos FC,,2024-05-11T20:00Z
+4,Sat May 11 2024,17:00,-03/-0300,Sport Recife - PE,4-1,1-0,Brusque - SC,,2024-05-11T20:00Z
+4,Sat May 11 2024,21:00,-03/-0300,Avaí - SC,1-0,0-0,Coritiba - PR,,2024-05-12T00:00Z
+4,Sun May 12 2024,16:00,-03/-0300,Mirassol - SP,2-1,2-0,Paysandu - PA,,2024-05-12T19:00Z
+5,Tue May 14 2024,19:00,-03/-0300,Avaí - SC,2-1,2-0,CR Brasil - AL,,2024-05-14T22:00Z
+5,Tue May 14 2024,21:30,-03/-0300,Botafogo - SP,0-0,0-0,Chapecoense,,2024-05-15T00:30Z
+5,Tue May 14 2024,21:30,-03/-0300,Coritiba - PR,1-0,1-0,Guarani - SP,,2024-05-15T00:30Z
+5,Tue May 14 2024,19:00,-03/-0300,Vila Nova - GO,2-1,0-0,Grêmio Novorizontino - SP,,2024-05-14T22:00Z
+5,Wed May 15 2024,19:00,-03/-0300,Ituano - SP,1-0,0-0,Sport Recife - PE,,2024-05-15T22:00Z
+5,Wed May 15 2024,19:00,-03/-0300,América - MG,0-0,0-0,Mirassol - SP,,2024-05-15T22:00Z
+5,Wed May 15 2024,19:00,-03/-0300,Brusque - SC,0-0,0-0,Operário Ferroviário - PR,,2024-05-15T22:00Z
+5,Wed May 15 2024,21:30,-03/-0300,Ponte Preta,1-2,0-2,Santos FC,,2024-05-16T00:30Z
+5,Wed May 15 2024,21:30,-03/-0300,Paysandu - PA,1-1,1-0,Goiás - GO,,2024-05-16T00:30Z
+5,Wed May 15 2024,21:30,-03/-0300,Ceará - CE,2-1,2-0,Amazonas FC - AM,,2024-05-16T00:30Z
+6,Fri May 17 2024,21:30,-03/-0300,Grêmio Novorizontino - SP,0-0,0-0,Coritiba - PR,,2024-05-18T00:30Z
+6,Fri May 17 2024,19:00,-03/-0300,CR Brasil - AL,1-0,1-0,Vila Nova - GO,,2024-05-17T22:00Z
+6,Sat May 18 2024,17:30,-03/-0300,Amazonas FC - AM,1-1,1-1,Paysandu - PA,,2024-05-18T20:30Z
+6,Sat May 18 2024,18:30,-03/-0300,Goiás - GO,4-0,2-0,Botafogo - SP,,2024-05-18T21:30Z
+6,Sat May 18 2024,21:00,-03/-0300,Sport Recife - PE,1-2,1-0,Avaí - SC,,2024-05-19T00:00Z
+6,Sun May 19 2024,16:00,-03/-0300,Mirassol - SP,2-0,0-0,Ituano - SP,,2024-05-19T19:00Z
+6,Sun May 19 2024,16:00,-03/-0300,Operário Ferroviário - PR,0-0,0-0,Ceará - CE,,2024-05-19T19:00Z
+6,Sun May 19 2024,11:00,-03/-0300,Santos FC,4-0,3-0,Brusque - SC,,2024-05-19T14:00Z
+6,Mon May 20 2024,21:00,-03/-0300,Guarani - SP,1-2,1-1,América - MG,,2024-05-21T00:00Z
+6,Tue May 21 2024,17:00,-03/-0300,Chapecoense,0-0,0-0,Ponte Preta,,2024-05-21T20:00Z
+7,Fri May 24 2024,21:30,-03/-0300,América - MG,2-1,1-1,Santos FC,,2024-05-25T00:30Z
+7,Sat May 25 2024,21:00,-03/-0300,Guarani - SP,0-0,0-0,Paysandu - PA,,2024-05-26T00:00Z
+7,Sun May 26 2024,16:00,-03/-0300,Ituano - SP,2-0,0-0,Ponte Preta,,2024-05-26T19:00Z
+7,Sun May 26 2024,17:00,-03/-0300,Vila Nova - GO,2-2,1-1,Brusque - SC,,2024-05-26T20:00Z
+7,Sun May 26 2024,18:30,-03/-0300,Ceará - CE,2-1,1-1,Chapecoense,,2024-05-26T21:30Z
+7,Mon May 27 2024,21:00,-03/-0300,Botafogo - SP,0-1,0-0,Grêmio Novorizontino - SP,,2024-05-28T00:00Z
+7,Mon May 27 2024,21:30,-03/-0300,Avaí - SC,2-0,0-0,Goiás - GO,,2024-05-28T00:30Z
+7,Mon May 27 2024,19:00,-03/-0300,Coritiba - PR,3-0,3-0,Operário Ferroviário - PR,,2024-05-27T22:00Z
+7,Tue May 28 2024,19:00,-03/-0300,Amazonas FC - AM,1-0,0-0,Mirassol - SP,,2024-05-28T22:00Z
+8,Fri May 31 2024,21:30,-03/-0300,Goiás - GO,3-0,1-0,Sport Recife - PE,,2024-06-01T00:30Z
+8,Fri May 31 2024,19:00,-03/-0300,Ceará - CE,1-0,0-0,Coritiba - PR,,2024-05-31T22:00Z
+8,Sat Jun 1 2024,17:00,-03/-0300,Brusque - SC,0-0,0-0,Grêmio Novorizontino - SP,,2024-06-01T20:00Z
+8,Sun Jun 2 2024,16:00,-03/-0300,Ponte Preta,4-2,0-0,CR Brasil - AL,,2024-06-02T19:00Z
+8,Sun Jun 2 2024,16:00,-03/-0300,Chapecoense,1-1,0-0,Vila Nova - GO,,2024-06-02T19:00Z
+8,Sun Jun 2 2024,18:30,-03/-0300,Ituano - SP,0-1,0-1,Avaí - SC,,2024-06-02T21:30Z
+8,Mon Jun 3 2024,20:00,-03/-0300,Santos FC,1-2,0-1,Botafogo - SP,,2024-06-03T23:00Z
+8,Mon Jun 3 2024,21:00,-03/-0300,Operário Ferroviário - PR,1-0,1-0,Amazonas FC - AM,,2024-06-04T00:00Z
+8,Tue Jun 4 2024,19:00,-03/-0300,Mirassol - SP,3-0,1-0,Guarani - SP,,2024-06-04T22:00Z
+8,Tue Jun 4 2024,21:30,-03/-0300,Paysandu - PA,2-0,0-0,América - MG,,2024-06-05T00:30Z
+9,Fri Jun 7 2024,21:00,-03/-0300,Grêmio Novorizontino - SP,3-1,1-0,Santos FC,,2024-06-08T00:00Z
+9,Fri Jun 7 2024,19:00,-03/-0300,Coritiba - PR,4-2,3-0,Ituano - SP,,2024-06-07T22:00Z
+9,Sat Jun 8 2024,17:00,-03/-0300,Guarani - SP,0-1,0-1,Operário Ferroviário - PR,,2024-06-08T20:00Z
+9,Sat Jun 8 2024,17:00,-03/-0300,Amazonas FC - AM,2-1,0-0,Brusque - SC,,2024-06-08T20:00Z
+9,Sun Jun 9 2024,16:00,-03/-0300,Avaí - SC,0-0,0-0,Chapecoense,,2024-06-09T19:00Z
+9,Sun Jun 9 2024,18:30,-03/-0300,América - MG,2-0,1-0,Ponte Preta,,2024-06-09T21:30Z
+9,Mon Jun 10 2024,19:00,-03/-0300,Vila Nova - GO,3-2,1-1,Ceará - CE,,2024-06-10T22:00Z
+9,Mon Jun 10 2024,21:30,-03/-0300,Sport Recife - PE,1-0,0-0,Paysandu - PA,,2024-06-11T00:30Z
+9,Tue Jun 11 2024,19:00,-03/-0300,Mirassol - SP,1-0,0-0,Goiás - GO,,2024-06-11T22:00Z
+10,Thu Jun 13 2024,21:00,-03/-0300,Amazonas FC - AM,0-1,0-0,Chapecoense,,2024-06-14T00:00Z
+10,Fri Jun 14 2024,19:00,-03/-0300,Operário Ferroviário - PR,1-0,1-0,Santos FC,,2024-06-14T22:00Z
+10,Fri Jun 14 2024,21:00,-03/-0300,Avaí - SC,3-2,1-2,Guarani - SP,,2024-06-15T00:00Z
+10,Sat Jun 15 2024,18:00,-03/-0300,Ituano - SP,3-5,2-3,Paysandu - PA,,2024-06-15T21:00Z
+10,Sat Jun 15 2024,17:00,-03/-0300,Ponte Preta,1-0,1-0,Grêmio Novorizontino - SP,,2024-06-15T20:00Z
+10,Sat Jun 15 2024,15:30,-03/-0300,América - MG,2-1,0-1,CR Brasil - AL,,2024-06-15T18:30Z
+10,Sun Jun 16 2024,18:30,-03/-0300,Goiás - GO,1-1,1-1,Coritiba - PR,,2024-06-16T21:30Z
+10,Sun Jun 16 2024,11:00,-03/-0300,Botafogo - SP,1-0,1-0,Vila Nova - GO,,2024-06-16T14:00Z
+10,Sun Jun 16 2024,16:00,-03/-0300,Brusque - SC,1-0,0-0,Ceará - CE,,2024-06-16T19:00Z
+10,Sun Jun 16 2024,18:30,-03/-0300,Sport Recife - PE,1-0,0-0,Mirassol - SP,,2024-06-16T21:30Z
+11,Mon Jun 17 2024,21:00,-03/-0300,Chapecoense,0-1,0-0,Operário Ferroviário - PR,,2024-06-18T00:00Z
+11,Tue Jun 18 2024,21:30,-03/-0300,Paysandu - PA,1-1,0-0,CR Brasil - AL,,2024-06-19T00:30Z
+11,Tue Jun 18 2024,21:00,-03/-0300,Grêmio Novorizontino - SP,1-1,0-1,Amazonas FC - AM,,2024-06-19T00:00Z
+11,Tue Jun 18 2024,19:00,-03/-0300,Guarani - SP,3-3,0-1,Ituano - SP,,2024-06-18T22:00Z
+11,Wed Jun 19 2024,21:30,-03/-0300,Coritiba - PR,1-0,0-0,América - MG,,2024-06-20T00:30Z
+11,Wed Jun 19 2024,21:30,-03/-0300,Brusque - SC,0-0,0-0,Avaí - SC,,2024-06-20T00:30Z
+11,Wed Jun 19 2024,19:00,-03/-0300,Santos FC,2-0,0-0,Goiás - GO,,2024-06-19T22:00Z
+11,Wed Jun 19 2024,21:00,-03/-0300,Botafogo - SP,2-0,0-0,Ponte Preta,,2024-06-20T00:00Z
+11,Thu Jun 20 2024,19:00,-03/-0300,Vila Nova - GO,1-0,0-0,Mirassol - SP,,2024-06-20T22:00Z
+11,Thu Jun 20 2024,21:30,-03/-0300,Ceará - CE,0-0,0-0,Sport Recife - PE,,2024-06-21T00:30Z
+12,Sat Jun 22 2024,21:00,-03/-0300,Ituano - SP,1-1,0-0,Brusque - SC,,2024-06-23T00:00Z
+12,Sat Jun 22 2024,17:00,-03/-0300,CR Brasil - AL,1-0,1-0,Guarani - SP,,2024-06-22T20:00Z
+12,Sat Jun 22 2024,17:00,-03/-0300,Operário Ferroviário - PR,0-1,0-0,Botafogo - SP,,2024-06-22T20:00Z
+12,Sun Jun 23 2024,16:00,-03/-0300,Chapecoense,1-2,1-1,Paysandu - PA,,2024-06-23T19:00Z
+12,Sun Jun 23 2024,18:30,-03/-0300,Vila Nova - GO,1-0,0-0,Goiás - GO,,2024-06-23T21:30Z
+12,Mon Jun 24 2024,19:00,-03/-0300,Sport Recife - PE,1-2,0-2,Grêmio Novorizontino - SP,,2024-06-24T22:00Z
+12,Tue Jun 25 2024,21:00,-03/-0300,Ponte Preta,3-1,2-0,Ceará - CE,,2024-06-26T00:00Z
+12,Tue Jun 25 2024,19:00,-03/-0300,América - MG,1-1,1-1,Avaí - SC,,2024-06-25T22:00Z
+12,Tue Jun 25 2024,19:00,-03/-0300,Mirassol - SP,0-0,0-0,Santos FC,,2024-06-25T22:00Z
+12,Tue Jun 25 2024,21:30,-03/-0300,Amazonas FC - AM,1-0,0-0,Coritiba - PR,,2024-06-26T00:30Z
+13,Sat Jun 29 2024,21:00,-03/-0300,Ceará - CE,4-2,3-1,Ituano - SP,,2024-06-30T00:00Z
+13,Sat Jun 29 2024,17:00,-03/-0300,Botafogo - SP,1-1,1-0,Sport Recife - PE,,2024-06-29T20:00Z
+13,Sat Jun 29 2024,16:00,-03/-0300,Coritiba - PR,1-1,0-0,Vila Nova - GO,,2024-06-29T19:00Z
+13,Sun Jun 30 2024,16:00,-03/-0300,Paysandu - PA,1-1,1-0,Operário Ferroviário - PR,,2024-06-30T19:00Z
+13,Sun Jun 30 2024,11:00,-03/-0300,Avaí - SC,1-1,1-1,Amazonas FC - AM,,2024-06-30T14:00Z
+13,Sun Jun 30 2024,18:30,-03/-0300,Guarani - SP,1-1,1-0,Ponte Preta,,2024-06-30T21:30Z
+13,Mon Jul 1 2024,19:00,-03/-0300,Santos FC,1-0,0-0,Chapecoense,,2024-07-01T22:00Z
+13,Mon Jul 1 2024,21:00,-03/-0300,CR Brasil - AL,1-1,0-0,Brusque - SC,,2024-07-02T00:00Z
+13,Tue Jul 2 2024,18:30,-03/-0300,Goiás - GO,2-1,0-0,América - MG,,2024-07-02T21:30Z
+13,Tue Jul 2 2024,20:00,-03/-0300,Grêmio Novorizontino - SP,1-1,1-1,Mirassol - SP,,2024-07-02T23:00Z
+14,Fri Jul 5 2024,21:00,-03/-0300,Brusque - SC,0-0,0-0,Ponte Preta,,2024-07-06T00:00Z
+14,Fri Jul 5 2024,19:00,-03/-0300,Ceará - CE,0-1,0-1,Santos FC,,2024-07-05T22:00Z
+14,Sat Jul 6 2024,11:00,-03/-0300,América - MG,2-0,0-0,Operário Ferroviário - PR,,2024-07-06T14:00Z
+14,Sat Jul 6 2024,17:00,-03/-0300,Goiás - GO,1-2,0-1,Chapecoense,,2024-07-06T20:00Z
+14,Sun Jul 7 2024,16:00,-03/-0300,Ituano - SP,3-2,3-1,Botafogo - SP,,2024-07-07T19:00Z
+14,Sun Jul 7 2024,11:00,-03/-0300,Coritiba - PR,1-1,1-1,Paysandu - PA,,2024-07-07T14:00Z
+14,Sun Jul 7 2024,18:30,-03/-0300,Guarani - SP,0-1,0-0,Sport Recife - PE,,2024-07-07T21:30Z
+14,Mon Jul 8 2024,21:00,-03/-0300,Amazonas FC - AM,1-2,1-0,Vila Nova - GO,,2024-07-09T00:00Z
+14,Mon Jul 8 2024,20:00,-03/-0300,Avaí - SC,0-1,0-1,Grêmio Novorizontino - SP,,2024-07-08T23:00Z
+14,Tue Jul 9 2024,21:00,-03/-0300,Mirassol - SP,1-0,0-0,CR Brasil - AL,,2024-07-10T00:00Z
+15,Fri Jul 12 2024,21:30,-03/-0300,Paysandu - PA,2-1,1-1,Ceará - CE,,2024-07-13T00:30Z
+15,Fri Jul 12 2024,21:00,-03/-0300,Botafogo - SP,0-1,0-1,Amazonas FC - AM,,2024-07-13T00:00Z
+15,Fri Jul 12 2024,19:00,-03/-0300,Ponte Preta,4-2,1-1,Mirassol - SP,,2024-07-12T22:00Z
+15,Sat Jul 13 2024,17:00,-03/-0300,Sport Recife - PE,1-1,0-1,América - MG,,2024-07-13T20:00Z
+15,Sat Jul 13 2024,15:30,-03/-0300,Grêmio Novorizontino - SP,1-1,1-1,Guarani - SP,,2024-07-13T18:30Z
+15,Sat Jul 13 2024,18:00,-03/-0300,CR Brasil - AL,2-1,0-1,Coritiba - PR,,2024-07-13T21:00Z
+15,Sun Jul 14 2024,18:30,-03/-0300,Chapecoense,1-1,0-1,Brusque - SC,,2024-07-14T21:30Z
+15,Sun Jul 14 2024,16:00,-03/-0300,Vila Nova - GO,2-1,0-1,Avaí - SC,,2024-07-14T19:00Z
+15,Mon Jul 15 2024,20:00,-03/-0300,Santos FC,2-0,2-0,Ituano - SP,,2024-07-15T23:00Z
+9,Wed Jul 17 2024,20:30,-03/-0300,CR Brasil - AL,4-1,2-1,Botafogo - SP,,2024-07-17T23:30Z
+15,Wed Jul 17 2024,21:00,-03/-0300,Operário Ferroviário - PR,2-0,1-0,Goiás - GO,,2024-07-18T00:00Z
+16,Thu Jul 18 2024,20:00,-03/-0300,Vila Nova - GO,1-1,0-0,Santos FC,,2024-07-18T23:00Z
+16,Thu Jul 18 2024,21:00,-03/-0300,Grêmio Novorizontino - SP,1-0,1-0,Chapecoense,,2024-07-19T00:00Z
+16,Fri Jul 19 2024,19:00,-03/-0300,Avaí - SC,0-1,0-0,Ceará - CE,,2024-07-19T22:00Z
+16,Fri Jul 19 2024,21:30,-03/-0300,Coritiba - PR,0-1,0-0,Mirassol - SP,,2024-07-20T00:30Z
+16,Sat Jul 20 2024,,,Sport Recife - PE,,,Operário Ferroviário - PR,postponed,
+16,Sat Jul 20 2024,17:00,-03/-0300,América - MG,0-0,0-0,Amazonas FC - AM,,2024-07-20T20:00Z
+16,Sat Jul 20 2024,17:00,-03/-0300,CR Brasil - AL,1-0,0-0,Ituano - SP,,2024-07-20T20:00Z
+16,Sat Jul 20 2024,18:00,-03/-0300,Paysandu - PA,1-0,1-0,Ponte Preta,,2024-07-20T21:00Z
+16,Sun Jul 21 2024,16:00,-03/-0300,Guarani - SP,2-3,1-1,Goiás - GO,,2024-07-21T19:00Z
+16,Sun Jul 21 2024,18:30,-03/-0300,Botafogo - SP,2-2,1-0,Brusque - SC,,2024-07-21T21:30Z
+17,Mon Jul 22 2024,20:00,-03/-0300,Santos FC,4-0,2-0,Coritiba - PR,,2024-07-22T23:00Z
+17,Tue Jul 23 2024,19:00,-03/-0300,Chapecoense,1-1,0-1,Sport Recife - PE,,2024-07-23T22:00Z
+17,Tue Jul 23 2024,19:00,-03/-0300,Operário Ferroviário - PR,0-0,0-0,Grêmio Novorizontino - SP,,2024-07-23T22:00Z
+17,Tue Jul 23 2024,20:00,-03/-0300,Mirassol - SP,0-0,0-0,Avaí - SC,,2024-07-23T23:00Z
+17,Tue Jul 23 2024,21:00,-03/-0300,Ituano - SP,0-0,0-0,América - MG,,2024-07-24T00:00Z
+17,Tue Jul 23 2024,21:30,-03/-0300,Ponte Preta,2-0,1-0,Vila Nova - GO,,2024-07-24T00:30Z
+17,Wed Jul 24 2024,21:30,-03/-0300,Amazonas FC - AM,1-1,1-1,Guarani - SP,,2024-07-25T00:30Z
+17,Wed Jul 24 2024,21:00,-03/-0300,Brusque - SC,1-0,1-0,Paysandu - PA,,2024-07-25T00:00Z
+17,Thu Jul 25 2024,21:30,-03/-0300,Ceará - CE,4-1,3-1,Botafogo - SP,,2024-07-26T00:30Z
+17,Thu Jul 25 2024,21:30,-03/-0300,Goiás - GO,1-1,0-0,CR Brasil - AL,,2024-07-26T00:30Z
+18,Fri Jul 26 2024,21:30,-03/-0300,Ituano - SP,0-0,0-0,Vila Nova - GO,,2024-07-27T00:30Z
+18,Sat Jul 27 2024,17:00,-03/-0300,Mirassol - SP,1-0,1-0,Operário Ferroviário - PR,,2024-07-27T20:00Z
+18,Sat Jul 27 2024,17:00,-03/-0300,Coritiba - PR,1-0,0-0,Chapecoense,,2024-07-27T20:00Z
+18,Sat Jul 27 2024,18:00,-03/-0300,Sport Recife - PE,3-1,1-1,Ponte Preta,,2024-07-27T21:00Z
+18,Sun Jul 28 2024,18:30,-03/-0300,CR Brasil - AL,1-1,0-0,Santos FC,,2024-07-28T21:30Z
+18,Sun Jul 28 2024,16:00,-03/-0300,Guarani - SP,1-0,0-0,Brusque - SC,,2024-07-28T19:00Z
+18,Sun Jul 28 2024,18:30,-03/-0300,América - MG,2-2,2-2,Ceará - CE,,2024-07-28T21:30Z
+18,Mon Jul 29 2024,18:30,-03/-0300,Paysandu - PA,1-3,1-1,Grêmio Novorizontino - SP,,2024-07-29T21:30Z
+18,Tue Jul 30 2024,,,Goiás - GO,,,Amazonas FC - AM,postponed,
+18,Tue Jul 30 2024,21:00,-03/-0300,Avaí - SC,1-1,0-0,Botafogo - SP,,2024-07-31T00:00Z
+19,Fri Aug 2 2024,19:00,-03/-0300,Brusque - SC,0-0,0-0,América - MG,,2024-08-02T22:00Z
+19,Fri Aug 2 2024,21:30,-03/-0300,Santos FC,1-1,1-0,Sport Recife - PE,,2024-08-03T00:30Z
+19,Sat Aug 3 2024,17:00,-03/-0300,Botafogo - SP,2-0,0-0,Coritiba - PR,,2024-08-03T20:00Z
+19,Sat Aug 3 2024,21:30,-03/-0300,Amazonas FC - AM,1-0,0-0,Ituano - SP,,2024-08-04T00:30Z
+19,Sun Aug 4 2024,18:30,-03/-0300,Operário Ferroviário - PR,2-0,1-0,CR Brasil - AL,,2024-08-04T21:30Z
+19,Sun Aug 4 2024,16:00,-03/-0300,Ponte Preta,1-0,0-0,Avaí - SC,,2024-08-04T19:00Z
+19,Sun Aug 4 2024,18:30,-03/-0300,Grêmio Novorizontino - SP,2-1,1-0,Goiás - GO,,2024-08-04T21:30Z
+19,Mon Aug 5 2024,21:00,-03/-0300,Vila Nova - GO,2-2,1-1,Paysandu - PA,,2024-08-06T00:00Z
+19,Mon Aug 5 2024,18:30,-03/-0300,Chapecoense,0-1,0-0,Mirassol - SP,,2024-08-05T21:30Z
+19,Tue Aug 6 2024,21:00,-03/-0300,Ceará - CE,3-1,1-1,Guarani - SP,,2024-08-07T00:00Z
+20,Fri Aug 9 2024,21:30,-03/-0300,América - MG,3-1,2-0,Botafogo - SP,,2024-08-10T00:30Z
+20,Fri Aug 9 2024,19:15,-03/-0300,Avaí - SC,1-0,1-0,Operário Ferroviário - PR,,2024-08-09T22:15Z
+20,Fri Aug 9 2024,20:00,-03/-0300,Paysandu - PA,0-3,0-1,Santos FC,,2024-08-09T23:00Z
+20,Fri Aug 9 2024,21:00,-03/-0300,Mirassol - SP,2-0,2-0,Brusque - SC,,2024-08-10T00:00Z
+20,Sat Aug 10 2024,17:00,-03/-0300,Ituano - SP,2-1,1-1,Chapecoense,,2024-08-10T20:00Z
+20,Sat Aug 10 2024,17:00,-03/-0300,Sport Recife - PE,3-2,2-1,Amazonas FC - AM,,2024-08-10T20:00Z
+20,Sun Aug 11 2024,16:00,-03/-0300,Coritiba - PR,1-1,1-0,Ponte Preta,,2024-08-11T19:00Z
+20,Sun Aug 11 2024,18:30,-03/-0300,CR Brasil - AL,0-1,0-0,Grêmio Novorizontino - SP,,2024-08-11T21:30Z
+20,Mon Aug 12 2024,21:00,-03/-0300,Goiás - GO,2-1,1-1,Ceará - CE,,2024-08-13T00:00Z
+20,Mon Aug 12 2024,20:00,-03/-0300,Guarani - SP,2-0,2-0,Vila Nova - GO,,2024-08-12T23:00Z
+21,Thu Aug 15 2024,21:00,-03/-0300,Operário Ferroviário - PR,1-2,1-2,Ituano - SP,,2024-08-16T00:00Z
+21,Fri Aug 16 2024,21:30,-03/-0300,Grêmio Novorizontino - SP,1-1,1-1,América - MG,,2024-08-17T00:30Z
+21,Fri Aug 16 2024,19:00,-03/-0300,Ponte Preta,1-1,0-1,Goiás - GO,,2024-08-16T22:00Z
+21,Fri Aug 16 2024,21:00,-03/-0300,Vila Nova - GO,2-0,1-0,Sport Recife - PE,,2024-08-17T00:00Z
+21,Sat Aug 17 2024,18:00,-03/-0300,Amazonas FC - AM,2-0,1-0,CR Brasil - AL,,2024-08-17T21:00Z
+21,Sat Aug 17 2024,15:30,-03/-0300,Chapecoense,0-4,0-2,Guarani - SP,,2024-08-17T18:30Z
+21,Sat Aug 17 2024,16:00,-03/-0300,Santos FC,0-1,0-1,Avaí - SC,,2024-08-17T19:00Z
+21,Sat Aug 17 2024,17:00,-03/-0300,Ceará - CE,1-2,0-1,Mirassol - SP,,2024-08-17T20:00Z
+21,Sun Aug 18 2024,16:00,-03/-0300,Brusque - SC,0-1,0-1,Coritiba - PR,,2024-08-18T19:00Z
+21,Sun Aug 18 2024,18:30,-03/-0300,Botafogo - SP,1-1,1-1,Paysandu - PA,,2024-08-18T21:30Z
+22,Tue Aug 20 2024,19:00,-03/-0300,Grêmio Novorizontino - SP,1-0,0-0,Ituano - SP,,2024-08-20T22:00Z
+22,Tue Aug 20 2024,21:00,-03/-0300,Amazonas FC - AM,2-1,1-0,Ponte Preta,,2024-08-21T00:00Z
+22,Tue Aug 20 2024,21:30,-03/-0300,Operário Ferroviário - PR,2-3,1-0,Vila Nova - GO,,2024-08-21T00:30Z
+22,Wed Aug 21 2024,19:00,-03/-0300,América - MG,0-0,0-0,Chapecoense,,2024-08-21T22:00Z
+22,Wed Aug 21 2024,19:00,-03/-0300,Guarani - SP,1-1,0-0,Santos FC,,2024-08-21T22:00Z
+22,Wed Aug 21 2024,19:00,-03/-0300,Mirassol - SP,1-2,0-0,Botafogo - SP,,2024-08-21T22:00Z
+22,Wed Aug 21 2024,21:00,-03/-0300,Goiás - GO,4-1,2-0,Brusque - SC,,2024-08-22T00:00Z
+22,Wed Aug 21 2024,20:00,-03/-0300,CR Brasil - AL,0-2,0-1,Ceará - CE,,2024-08-21T23:00Z
+22,Thu Aug 22 2024,20:00,-03/-0300,Avaí - SC,1-0,1-0,Paysandu - PA,,2024-08-22T23:00Z
+22,Thu Aug 22 2024,21:00,-03/-0300,Sport Recife - PE,0-1,0-0,Coritiba - PR,,2024-08-23T00:00Z
+23,Fri Aug 23 2024,21:30,-03/-0300,Ponte Preta,0-1,0-0,Operário Ferroviário - PR,,2024-08-24T00:30Z
+23,Sat Aug 24 2024,16:00,-03/-0300,Santos FC,0-0,0-0,Amazonas FC - AM,,2024-08-24T19:00Z
+23,Sat Aug 24 2024,17:00,-03/-0300,Ituano - SP,1-0,1-0,Goiás - GO,,2024-08-24T20:00Z
+23,Sun Aug 25 2024,18:30,-03/-0300,Vila Nova - GO,1-0,0-0,América - MG,,2024-08-25T21:30Z
+23,Sun Aug 25 2024,18:30,-03/-0300,Chapecoense,0-0,0-0,CR Brasil - AL,,2024-08-25T21:30Z
+23,Mon Aug 26 2024,18:30,-03/-0300,Paysandu - PA,0-0,0-0,Mirassol - SP,,2024-08-26T21:30Z
+23,Mon Aug 26 2024,21:00,-03/-0300,Ceará - CE,1-0,0-0,Grêmio Novorizontino - SP,,2024-08-27T00:00Z
+23,Tue Aug 27 2024,21:00,-03/-0300,Brusque - SC,1-0,1-0,Sport Recife - PE,,2024-08-28T00:00Z
+23,Tue Aug 27 2024,21:30,-03/-0300,Coritiba - PR,1-0,0-0,Avaí - SC,,2024-08-28T00:30Z
+24,Fri Aug 30 2024,21:30,-03/-0300,Santos FC,2-2,2-0,Ponte Preta,,2024-08-31T00:30Z
+24,Sat Aug 31 2024,17:00,-03/-0300,Chapecoense,1-1,1-0,Botafogo - SP,,2024-08-31T20:00Z
+24,Sat Aug 31 2024,17:00,-03/-0300,Grêmio Novorizontino - SP,2-0,0-0,Vila Nova - GO,,2024-08-31T20:00Z
+24,Sat Aug 31 2024,18:00,-03/-0300,CR Brasil - AL,1-2,0-2,Avaí - SC,,2024-08-31T21:00Z
+24,Sun Sep 1 2024,16:00,-03/-0300,Amazonas FC - AM,1-1,1-0,Ceará - CE,,2024-09-01T19:00Z
+24,Sun Sep 1 2024,18:30,-03/-0300,Goiás - GO,1-1,0-0,Paysandu - PA,,2024-09-01T21:30Z
+24,Mon Sep 2 2024,19:30,-03/-0300,Sport Recife - PE,3-2,1-1,Ituano - SP,,2024-09-02T22:30Z
+24,Mon Sep 2 2024,21:30,-03/-0300,Operário Ferroviário - PR,0-0,0-0,Brusque - SC,,2024-09-03T00:30Z
+24,Tue Sep 3 2024,21:30,-03/-0300,Guarani - SP,2-1,1-0,Coritiba - PR,,2024-09-04T00:30Z
+24,Tue Sep 3 2024,19:00,-03/-0300,Mirassol - SP,1-0,1-0,América - MG,,2024-09-03T22:00Z
+25,Wed Sep 4 2024,20:00,-03/-0300,Vila Nova - GO,1-0,0-0,CR Brasil - AL,,2024-09-04T23:00Z
+25,Thu Sep 5 2024,21:30,-03/-0300,Paysandu - PA,0-1,0-1,Amazonas FC - AM,,2024-09-06T00:30Z
+25,Sat Sep 7 2024,19:00,-03/-0300,Avaí - SC,0-2,0-1,Sport Recife - PE,,2024-09-07T22:00Z
+25,Sat Sep 7 2024,16:00,-03/-0300,Brusque - SC,0-1,0-1,Santos FC,,2024-09-07T19:00Z
+25,Sat Sep 7 2024,16:00,-03/-0300,Ituano - SP,3-2,1-1,Mirassol - SP,,2024-09-07T19:00Z
+25,Sun Sep 8 2024,18:30,-03/-0300,Coritiba - PR,2-2,1-1,Grêmio Novorizontino - SP,,2024-09-08T21:30Z
+25,Sun Sep 8 2024,16:00,-03/-0300,Ceará - CE,2-1,1-0,Operário Ferroviário - PR,,2024-09-08T19:00Z
+25,Sun Sep 8 2024,18:30,-03/-0300,América - MG,3-0,2-0,Guarani - SP,,2024-09-08T21:30Z
+25,Mon Sep 9 2024,21:30,-03/-0300,Ponte Preta,0-2,0-1,Chapecoense,,2024-09-10T00:30Z
+25,Mon Sep 9 2024,20:00,-03/-0300,Botafogo - SP,1-0,0-0,Goiás - GO,,2024-09-09T23:00Z
+7,Wed Sep 11 2024,21:30,-03/-0300,CR Brasil - AL,1-1,1-0,Sport Recife - PE,,2024-09-12T00:30Z
+26,Fri Sep 13 2024,19:00,-03/-0300,Grêmio Novorizontino - SP,,,Botafogo - SP,,2024-09-13T22:00Z
+26,Fri Sep 13 2024,21:30,-03/-0300,Goiás - GO,,,Avaí - SC,,2024-09-14T00:30Z
+26,Fri Sep 13 2024,21:30,-03/-0300,Ponte Preta,,,Ituano - SP,,2024-09-14T00:30Z
+26,Sat Sep 14 2024,17:00,-03/-0300,Brusque - SC,,,Vila Nova - GO,,2024-09-14T20:00Z
+26,Sat Sep 14 2024,18:00,-03/-0300,Mirassol - SP,,,Amazonas FC - AM,,2024-09-14T21:00Z
+26,Sat Sep 14 2024,17:00,-03/-0300,Paysandu - PA,,,Guarani - SP,,2024-09-14T20:00Z
+26,Sun Sep 15 2024,16:00,-03/-0300,Santos FC,,,América - MG,,2024-09-15T19:00Z
+26,Sun Sep 15 2024,18:30,-03/-0300,Chapecoense,,,Ceará - CE,,2024-09-15T21:30Z
+26,Sun Sep 15 2024,16:00,-03/-0300,Operário Ferroviário - PR,,,Coritiba - PR,,2024-09-15T19:00Z
+26,Sun Sep 15 2024,18:30,-03/-0300,Sport Recife - PE,,,CR Brasil - AL,,2024-09-15T21:30Z
+27,Tue Sep 17 2024,21:30,-03/-0300,Avaí - SC,,,Ituano - SP,,2024-09-18T00:30Z
+27,Tue Sep 17 2024,19:00,-03/-0300,Grêmio Novorizontino - SP,,,Brusque - SC,,2024-09-17T22:00Z
+27,Tue Sep 17 2024,21:30,-03/-0300,Guarani - SP,,,Mirassol - SP,,2024-09-18T00:30Z
+27,Wed Sep 18 2024,21:30,-03/-0300,América - MG,,,Paysandu - PA,,2024-09-19T00:30Z
+27,Wed Sep 18 2024,18:30,-03/-0300,CR Brasil - AL,,,Ponte Preta,,2024-09-18T21:30Z
+27,Wed Sep 18 2024,19:00,-03/-0300,Sport Recife - PE,,,Goiás - GO,,2024-09-18T22:00Z
+27,Wed Sep 18 2024,19:30,-03/-0300,Vila Nova - GO,,,Chapecoense,,2024-09-18T22:30Z
+27,Wed Sep 18 2024,21:00,-03/-0300,Amazonas FC - AM,,,Operário Ferroviário - PR,,2024-09-19T00:00Z
+27,Wed Sep 18 2024,21:30,-03/-0300,Coritiba - PR,,,Ceará - CE,,2024-09-19T00:30Z
+27,Thu Sep 19 2024,21:30,-03/-0300,Botafogo - SP,,,Santos FC,,2024-09-20T00:30Z
+28,Sat Sep 21 2024,17:00,-03/-0300,Goiás - GO,,,Mirassol - SP,,2024-09-21T20:00Z
+28,Sat Sep 21 2024,18:00,-03/-0300,Ituano - SP,,,Coritiba - PR,,2024-09-21T21:00Z
+28,Sun Sep 22 2024,16:00,-03/-0300,Chapecoense,,,Avaí - SC,,2024-09-22T19:00Z
+28,Sun Sep 22 2024,18:30,-03/-0300,Ceará - CE,,,Vila Nova - GO,,2024-09-22T21:30Z
+28,Mon Sep 23 2024,21:00,-03/-0300,Santos FC,,,Grêmio Novorizontino - SP,,2024-09-24T00:00Z
+28,Mon Sep 23 2024,18:30,-03/-0300,Paysandu - PA,,,Sport Recife - PE,,2024-09-23T21:30Z
+28,Mon Sep 23 2024,21:30,-03/-0300,Brusque - SC,,,Amazonas FC - AM,,2024-09-24T00:30Z
+28,Tue Sep 24 2024,19:00,-03/-0300,Operário Ferroviário - PR,,,Guarani - SP,,2024-09-24T22:00Z
+28,Tue Sep 24 2024,21:30,-03/-0300,Ponte Preta,,,América - MG,,2024-09-25T00:30Z
+28,Tue Sep 24 2024,21:30,-03/-0300,Botafogo - SP,,,CR Brasil - AL,,2024-09-25T00:30Z
+29,Fri Sep 27 2024,21:30,-03/-0300,Paysandu - PA,,,Ituano - SP,,2024-09-28T00:30Z
+29,Fri Sep 27 2024,19:00,-03/-0300,Ceará - CE,,,Brusque - SC,,2024-09-27T22:00Z
+29,Fri Sep 27 2024,21:30,-03/-0300,Coritiba - PR,,,Goiás - GO,,2024-09-28T00:30Z
+29,Sat Sep 28 2024,18:00,-03/-0300,Santos FC,,,Operário Ferroviário - PR,,2024-09-28T21:00Z
+29,Sat Sep 28 2024,17:00,-03/-0300,CR Brasil - AL,,,América - MG,,2024-09-28T20:00Z
+29,Sun Sep 29 2024,18:30,-03/-0300,Mirassol - SP,,,Sport Recife - PE,,2024-09-29T21:30Z
+29,Sun Sep 29 2024,16:00,-03/-0300,Vila Nova - GO,,,Botafogo - SP,,2024-09-29T19:00Z
+29,Mon Sep 30 2024,18:30,-03/-0300,Chapecoense,,,Amazonas FC - AM,,2024-09-30T21:30Z
+29,Mon Sep 30 2024,21:00,-03/-0300,Grêmio Novorizontino - SP,,,Ponte Preta,,2024-10-01T00:00Z
+29,Mon Sep 30 2024,21:30,-03/-0300,Guarani - SP,,,Avaí - SC,,2024-10-01T00:30Z
+30,Thu Oct 3 2024,21:30,-03/-0300,Avaí - SC,,,Brusque - SC,,2024-10-04T00:30Z
+30,Fri Oct 4 2024,21:30,-03/-0300,Sport Recife - PE,,,Ceará - CE,,2024-10-05T00:30Z
+30,Fri Oct 4 2024,19:00,-03/-0300,América - MG,,,Coritiba - PR,,2024-10-04T22:00Z
+30,Fri Oct 4 2024,21:30,-03/-0300,Amazonas FC - AM,,,Grêmio Novorizontino - SP,,2024-10-05T00:30Z
+30,Sat Oct 5 2024,17:00,-03/-0300,Ponte Preta,,,Botafogo - SP,,2024-10-05T20:00Z
+30,Sat Oct 5 2024,17:00,-03/-0300,Ituano - SP,,,Guarani - SP,,2024-10-05T20:00Z
+30,Sat Oct 5 2024,17:00,-03/-0300,CR Brasil - AL,,,Paysandu - PA,,2024-10-05T20:00Z
+30,Sat Oct 5 2024,18:00,-03/-0300,Mirassol - SP,,,Vila Nova - GO,,2024-10-05T21:00Z
+30,Mon Oct 7 2024,21:00,-03/-0300,Operário Ferroviário - PR,,,Chapecoense,,2024-10-08T00:00Z
+30,Mon Oct 7 2024,21:00,-03/-0300,Goiás - GO,,,Santos FC,,2024-10-08T00:00Z
+23,Wed Oct 9 2024,20:00,-03/-0300,Botafogo - SP,,,Guarani - SP,,2024-10-09T23:00Z
+31,Fri Oct 11 2024,,,Goiás - GO,,,Vila Nova - GO,,
+31,Fri Oct 11 2024,,,Guarani - SP,,,CR Brasil - AL,,
+31,Fri Oct 11 2024,,,Botafogo - SP,,,Operário Ferroviário - PR,,
+31,Fri Oct 11 2024,,,Grêmio Novorizontino - SP,,,Sport Recife - PE,,
+31,Fri Oct 11 2024,,,Santos FC,,,Mirassol - SP,,
+31,Fri Oct 11 2024,,,Avaí - SC,,,América - MG,,
+31,Fri Oct 11 2024,,,Brusque - SC,,,Ituano - SP,,
+31,Fri Oct 11 2024,,,Coritiba - PR,,,Amazonas FC - AM,,
+31,Fri Oct 11 2024,,,Paysandu - PA,,,Chapecoense,,
+31,Fri Oct 11 2024,,,Ceará - CE,,,Ponte Preta,,
+32,Fri Oct 18 2024,,,Vila Nova - GO,,,Coritiba - PR,,
+32,Fri Oct 18 2024,,,Ponte Preta,,,Guarani - SP,,
+32,Fri Oct 18 2024,,,Mirassol - SP,,,Grêmio Novorizontino - SP,,
+32,Fri Oct 18 2024,,,Ituano - SP,,,Ceará - CE,,
+32,Fri Oct 18 2024,,,América - MG,,,Goiás - GO,,
+32,Fri Oct 18 2024,,,Chapecoense,,,Santos FC,,
+32,Fri Oct 18 2024,,,Brusque - SC,,,CR Brasil - AL,,
+32,Fri Oct 18 2024,,,Operário Ferroviário - PR,,,Paysandu - PA,,
+32,Fri Oct 18 2024,,,Amazonas FC - AM,,,Avaí - SC,,
+32,Fri Oct 18 2024,,,Sport Recife - PE,,,Botafogo - SP,,
+33,Tue Oct 22 2024,,,Vila Nova - GO,,,Amazonas FC - AM,,
+33,Tue Oct 22 2024,,,Ponte Preta,,,Brusque - SC,,
+33,Tue Oct 22 2024,,,Botafogo - SP,,,Ituano - SP,,
+33,Tue Oct 22 2024,,,Grêmio Novorizontino - SP,,,Avaí - SC,,
+33,Tue Oct 22 2024,,,Santos FC,,,Ceará - CE,,
+33,Tue Oct 22 2024,,,Chapecoense,,,Goiás - GO,,
+33,Tue Oct 22 2024,,,CR Brasil - AL,,,Mirassol - SP,,
+33,Tue Oct 22 2024,,,Operário Ferroviário - PR,,,América - MG,,
+33,Tue Oct 22 2024,,,Paysandu - PA,,,Coritiba - PR,,
+33,Tue Oct 22 2024,,,Sport Recife - PE,,,Guarani - SP,,
+34,Fri Oct 25 2024,,,Goiás - GO,,,Operário Ferroviário - PR,,
+34,Fri Oct 25 2024,,,Guarani - SP,,,Grêmio Novorizontino - SP,,
+34,Fri Oct 25 2024,,,Mirassol - SP,,,Ponte Preta,,
+34,Fri Oct 25 2024,,,Ituano - SP,,,Santos FC,,
+34,Fri Oct 25 2024,,,América - MG,,,Sport Recife - PE,,
+34,Fri Oct 25 2024,,,Avaí - SC,,,Vila Nova - GO,,
+34,Fri Oct 25 2024,,,Brusque - SC,,,Chapecoense,,
+34,Fri Oct 25 2024,,,Coritiba - PR,,,CR Brasil - AL,,
+34,Fri Oct 25 2024,,,Amazonas FC - AM,,,Botafogo - SP,,
+34,Fri Oct 25 2024,,,Ceará - CE,,,Paysandu - PA,,
+35,Tue Nov 5 2024,,,Goiás - GO,,,Guarani - SP,,
+35,Tue Nov 5 2024,,,Ponte Preta,,,Paysandu - PA,,
+35,Tue Nov 5 2024,,,Mirassol - SP,,,Coritiba - PR,,
+35,Tue Nov 5 2024,,,Ituano - SP,,,CR Brasil - AL,,
+35,Tue Nov 5 2024,,,Santos FC,,,Vila Nova - GO,,
+35,Tue Nov 5 2024,,,Chapecoense,,,Grêmio Novorizontino - SP,,
+35,Tue Nov 5 2024,,,Brusque - SC,,,Botafogo - SP,,
+35,Tue Nov 5 2024,,,Operário Ferroviário - PR,,,Sport Recife - PE,,
+35,Tue Nov 5 2024,,,Amazonas FC - AM,,,América - MG,,
+35,Tue Nov 5 2024,,,Ceará - CE,,,Avaí - SC,,
+36,Fri Nov 15 2024,,,Vila Nova - GO,,,Ponte Preta,,
+36,Fri Nov 15 2024,,,Guarani - SP,,,Amazonas FC - AM,,
+36,Fri Nov 15 2024,,,Botafogo - SP,,,Ceará - CE,,
+36,Fri Nov 15 2024,,,Grêmio Novorizontino - SP,,,Operário Ferroviário - PR,,
+36,Fri Nov 15 2024,,,América - MG,,,Ituano - SP,,
+36,Fri Nov 15 2024,,,Avaí - SC,,,Mirassol - SP,,
+36,Fri Nov 15 2024,,,CR Brasil - AL,,,Goiás - GO,,
+36,Fri Nov 15 2024,,,Coritiba - PR,,,Santos FC,,
+36,Fri Nov 15 2024,,,Paysandu - PA,,,Brusque - SC,,
+36,Fri Nov 15 2024,,,Sport Recife - PE,,,Chapecoense,,
+37,Fri Nov 22 2024,,,Vila Nova - GO,,,Ituano - SP,,
+37,Fri Nov 22 2024,,,Ponte Preta,,,Sport Recife - PE,,
+37,Fri Nov 22 2024,,,Botafogo - SP,,,Avaí - SC,,
+37,Fri Nov 22 2024,,,Grêmio Novorizontino - SP,,,Paysandu - PA,,
+37,Fri Nov 22 2024,,,Santos FC,,,CR Brasil - AL,,
+37,Fri Nov 22 2024,,,Chapecoense,,,Coritiba - PR,,
+37,Fri Nov 22 2024,,,Brusque - SC,,,Guarani - SP,,
+37,Fri Nov 22 2024,,,Operário Ferroviário - PR,,,Mirassol - SP,,
+37,Fri Nov 22 2024,,,Amazonas FC - AM,,,Goiás - GO,,
+37,Fri Nov 22 2024,,,Ceará - CE,,,América - MG,,
+38,Tue Nov 26 2024,,,Goiás - GO,,,Grêmio Novorizontino - SP,,
+38,Tue Nov 26 2024,,,Guarani - SP,,,Ceará - CE,,
+38,Tue Nov 26 2024,,,Mirassol - SP,,,Chapecoense,,
+38,Tue Nov 26 2024,,,Ituano - SP,,,Amazonas FC - AM,,
+38,Tue Nov 26 2024,,,América - MG,,,Brusque - SC,,
+38,Tue Nov 26 2024,,,Avaí - SC,,,Ponte Preta,,
+38,Tue Nov 26 2024,,,CR Brasil - AL,,,Operário Ferroviário - PR,,
+38,Tue Nov 26 2024,,,Coritiba - PR,,,Botafogo - SP,,
+38,Tue Nov 26 2024,,,Paysandu - PA,,,Vila Nova - GO,,
+38,Tue Nov 26 2024,,,Sport Recife - PE,,,Santos FC,,

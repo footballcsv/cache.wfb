@@ -1,0 +1,85 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,P,UTC
+Gruppe 7,Tue Jul 30 2019,19:00,CDT/-0500,Santos Laguna,1-1,0-1,Correcaminos UAT,,2019-07-31T00:00Z
+Gruppe 9,Tue Jul 30 2019,21:06,CDT/-0500,Atlas Guadalajara,1-1,1-0,CF Pachuca,,2019-07-31T02:06Z
+Gruppe 5,Tue Jul 30 2019,21:00,CDT/-0500,Club Tijuana,2-0,0-0,Gallos Blancos,,2019-07-31T02:00Z
+Gruppe 3,Tue Jul 30 2019,19:00,CDT/-0500,Venados FC,4-1,2-0,Atlante,,2019-07-31T00:00Z
+Gruppe 4,Wed Jul 31 2019,19:00,CDT/-0500,Deportivo Toluca,1-0,1-0,Alebrijes de Oaxaca,,2019-08-01T00:00Z
+Gruppe 8,Wed Jul 31 2019,21:00,CDT/-0500,Pumas UNAM,1-1,0-1,Atlético San Luis,,2019-08-01T02:00Z
+Gruppe 2,Wed Jul 31 2019,21:00,CDT/-0500,CF Monterrey,2-1,0-0,Leones Negros,,2019-08-01T02:00Z
+Gruppe 9,Tue Aug 6 2019,19:00,CDT/-0500,Atlético Zacatepec,3-2,0-1,Atlas Guadalajara,,2019-08-07T00:00Z
+Gruppe 3,Tue Aug 6 2019,21:00,CDT/-0500,FC Juárez,1-1,1-0,Venados FC,,2019-08-07T02:00Z
+Gruppe 5,Tue Aug 6 2019,21:00,CDT/-0500,Mineros de Zacatecas,2-0,1-0,Gallos Blancos,,2019-08-07T02:00Z
+Gruppe 1,Tue Aug 6 2019,21:00,CDT/-0500,Monarcas Morelia,1-0,1-0,Puebla FC,,2019-08-07T02:00Z
+Gruppe 7,Wed Aug 7 2019,19:00,CDT/-0500,Deportivo Guadalajara,2-1,0-0,Santos Laguna,,2019-08-08T00:00Z
+Gruppe 8,Wed Aug 7 2019,21:00,CDT/-0500,Atlético San Luis,3-1,1-0,Potros UAEM,,2019-08-08T02:00Z
+Gruppe 6,Wed Aug 7 2019,21:00,CDT/-0500,Dorados de Sinaloa,2-1,1-1,Club Celaya,,2019-08-08T02:00Z
+Gruppe 3,Tue Aug 13 2019,21:00,CDT/-0500,Atlante,0-2,0-1,FC Juárez,,2019-08-14T02:00Z
+Gruppe 8,Tue Aug 13 2019,21:00,CDT/-0500,Pumas UNAM,1-0,0-0,Potros UAEM,,2019-08-14T02:00Z
+Gruppe 9,Tue Aug 13 2019,21:00,CDT/-0500,CF Pachuca,3-1,3-0,Atlético Zacatepec,,2019-08-14T02:00Z
+Gruppe 1,Tue Aug 13 2019,21:00,CDT/-0500,Cimarrones de Sonora,0-1,0-1,Monarcas Morelia,,2019-08-14T02:00Z
+Gruppe 6,Tue Aug 13 2019,21:00,CDT/-0500,Club Necaxa,2-2,0-0,Dorados de Sinaloa,,2019-08-14T02:00Z
+Gruppe 5,Tue Aug 13 2019,19:00,CDT/-0500,Gallos Blancos,3-2,1-1,Club Tijuana,,2019-08-14T00:00Z
+Gruppe 2,Tue Aug 13 2019,19:00,CDT/-0500,Leones Negros,0-1,0-0,Cafetaleros de Chiapas,,2019-08-14T00:00Z
+Gruppe 1,Tue Sep 3 2019,19:00,CDT/-0500,Monarcas Morelia,2-0,1-0,Cimarrones de Sonora,,2019-09-04T00:00Z
+Gruppe 8,Tue Sep 3 2019,21:00,CDT/-0500,Potros UAEM,0-2,0-2,Atlético San Luis,,2019-09-04T02:00Z
+Gruppe 2,Tue Sep 3 2019,21:00,CDT/-0500,Cafetaleros de Chiapas,1-0,1-0,Leones Negros,,2019-09-04T02:00Z
+Gruppe 3,Wed Sep 4 2019,19:00,CDT/-0500,Venados FC,1-2,1-0,FC Juárez,,2019-09-05T00:00Z
+Gruppe 7,Wed Sep 4 2019,21:00,CDT/-0500,Deportivo Guadalajara,0-1,0-0,Correcaminos UAT,,2019-09-05T02:00Z
+Gruppe 5,Wed Sep 4 2019,19:00,CDT/-0500,Mineros de Zacatecas,2-3,2-1,Club Tijuana,,2019-09-05T00:00Z
+Gruppe 6,Wed Sep 4 2019,19:00,CDT/-0500,Club Necaxa,0-0,0-0,Club Celaya,,2019-09-05T00:00Z
+Gruppe 4,Sat Sep 7 2019,19:00,CDT/-0500,Alebrijes de Oaxaca,1-4,1-2,Deportivo Toluca,,2019-09-08T00:00Z
+Gruppe 7,Tue Oct 1 2019,21:00,CDT/-0500,Correcaminos UAT,0-2,0-0,Deportivo Guadalajara,,2019-10-02T02:00Z
+Gruppe 9,Tue Oct 1 2019,19:00,CDT/-0500,Atlas Guadalajara,2-0,1-0,Atlético Zacatepec,,2019-10-02T00:00Z
+Gruppe 6,Tue Oct 1 2019,19:00,CDT/-0500,Club Celaya,1-2,1-1,Dorados de Sinaloa,,2019-10-02T00:00Z
+Gruppe 1,Tue Oct 1 2019,21:00,CDT/-0500,Puebla FC,0-1,0-0,Monarcas Morelia,,2019-10-02T02:00Z
+Gruppe 5,Wed Oct 2 2019,21:00,CDT/-0500,Gallos Blancos,2-1,2-1,Mineros de Zacatecas,,2019-10-03T02:00Z
+Gruppe 4,Wed Oct 2 2019,18:10,CDT/-0500,Deportivo Toluca,2-0,0-0,CD Veracruz,,2019-10-02T23:10Z
+Gruppe 8,Wed Oct 2 2019,21:00,CDT/-0500,Atlético San Luis,0-4,0-3,Pumas UNAM,,2019-10-03T02:00Z
+Gruppe 3,Wed Oct 2 2019,21:00,CDT/-0500,FC Juárez,1-0,0-0,Atlante,,2019-10-03T02:00Z
+Gruppe 2,Fri Oct 11 2019,20:00,CDT/-0500,Cafetaleros de Chiapas,1-2,1-1,CF Monterrey,,2019-10-12T01:00Z
+Gruppe 4,Sat Oct 12 2019,21:00,CDT/-0500,CD Veracruz,0-1,0-0,Deportivo Toluca,,2019-10-13T02:00Z
+Gruppe 8,Sun Oct 13 2019,12:00,CDT/-0500,Potros UAEM,0-0,0-0,Pumas UNAM,,2019-10-13T17:00Z
+Gruppe 4,Tue Oct 22 2019,19:00,CDT/-0500,CD Veracruz,1-0,1-0,Alebrijes de Oaxaca,,2019-10-23T00:00Z
+Gruppe 6,Tue Oct 22 2019,21:00,CDT/-0500,Dorados de Sinaloa,2-1,1-1,Club Necaxa,,2019-10-23T02:00Z
+Gruppe 5,Tue Oct 22 2019,21:00,CDT/-0500,Club Tijuana,2-0,1-0,Mineros de Zacatecas,,2019-10-23T02:00Z
+Gruppe 7,Tue Oct 22 2019,21:00,CDT/-0500,Correcaminos UAT,0-4,0-4,Santos Laguna,,2019-10-23T02:00Z
+Gruppe 1,Wed Oct 23 2019,21:00,CDT/-0500,Cimarrones de Sonora,1-1,0-0,Puebla FC,,2019-10-24T02:00Z
+Gruppe 2,Wed Oct 23 2019,19:00,CDT/-0500,Leones Negros,1-2,0-2,CF Monterrey,,2019-10-24T00:00Z
+Gruppe 9,Wed Oct 23 2019,21:00,CDT/-0500,Atlético Zacatepec,0-3,0-0,CF Pachuca,,2019-10-24T02:00Z
+Gruppe 4,Tue Nov 5 2019,19:00,CST/-0600,Alebrijes de Oaxaca,1-1,0-1,CD Veracruz,,2019-11-06T01:00Z
+Gruppe 3,Tue Nov 5 2019,20:00,CST/-0600,Atlante,0-1,0-0,Venados FC,,2019-11-06T02:00Z
+Gruppe 1,Tue Nov 5 2019,19:00,CST/-0600,Puebla FC,0-0,0-0,Cimarrones de Sonora,,2019-11-06T01:00Z
+Gruppe 2,Tue Nov 5 2019,21:00,CST/-0600,CF Monterrey,6-0,3-0,Cafetaleros de Chiapas,,2019-11-06T03:00Z
+Gruppe 6,Wed Nov 6 2019,19:00,CST/-0600,Club Celaya,1-0,0-0,Club Necaxa,,2019-11-07T01:00Z
+Gruppe 9,Wed Nov 6 2019,19:00,CST/-0600,CF Pachuca,1-1,0-1,Atlas Guadalajara,,2019-11-07T01:00Z
+Gruppe 7,Wed Nov 6 2019,21:00,CST/-0600,Santos Laguna,2-0,0-0,Deportivo Guadalajara,,2019-11-07T03:00Z
+Round of 16,Tue Jan 21 2020,19:00,CST/-0600,Venados FC,1-1,1-0,CF Pachuca,,2020-01-22T01:00Z
+Round of 16,Tue Jan 21 2020,21:00,CST/-0600,Deportivo Guadalajara,1-2,0-1,Dorados de Sinaloa,,2020-01-22T03:00Z
+Round of 16,Tue Jan 21 2020,21:00,CST/-0600,Atlético San Luis,0-1,0-0,Club Tijuana,,2020-01-22T03:00Z
+Round of 16,Tue Jan 21 2020,19:00,CST/-0600,Gallos Blancos,3-2,1-1,FC Juárez,,2020-01-22T01:00Z
+Round of 16,Wed Jan 22 2020,19:00,CST/-0600,Club Celaya,3-4,1-1,CF Monterrey,,2020-01-23T01:00Z
+Round of 16,Wed Jan 22 2020,19:00,CST/-0600,Cafetaleros de Chiapas,4-1,2-1,Monarcas Morelia,,2020-01-23T01:00Z
+Round of 16,Wed Jan 22 2020,21:00,CST/-0600,Atlas Guadalajara,2-1,2-1,Deportivo Toluca,,2020-01-23T03:00Z
+Round of 16,Wed Jan 22 2020,21:00,CST/-0600,Santos Laguna,4-2,1-0,Pumas UNAM,,2020-01-23T03:00Z
+Round of 16,Tue Jan 28 2020,19:00,CST/-0600,CF Pachuca,3-1,1-0,Venados FC,,2020-01-29T01:00Z
+Round of 16,Tue Jan 28 2020,21:10,CST/-0600,Dorados de Sinaloa,0-1,0-1,Deportivo Guadalajara,6-5,2020-01-29T03:10Z
+Round of 16,Tue Jan 28 2020,21:10,CST/-0600,Club Tijuana,1-0,0-0,Atlético San Luis,,2020-01-29T03:10Z
+Round of 16,Tue Jan 28 2020,19:00,CST/-0600,Deportivo Toluca,3-2,1-1,Atlas Guadalajara,5-3,2020-01-29T01:00Z
+Round of 16,Wed Jan 29 2020,19:00,CST/-0600,Monarcas Morelia,3-0,2-0,Cafetaleros de Chiapas,3-2,2020-01-30T01:00Z
+Round of 16,Wed Jan 29 2020,19:00,CST/-0600,Pumas UNAM,2-1,1-1,Santos Laguna,,2020-01-30T01:00Z
+Round of 16,Wed Jan 29 2020,21:10,CST/-0600,CF Monterrey,3-0,1-0,Club Celaya,,2020-01-30T03:10Z
+Round of 16,Wed Jan 29 2020,21:10,CST/-0600,FC Juárez,3-1,1-0,Gallos Blancos,,2020-01-30T03:10Z
+Quarterfinals,Tue Feb 11 2020,21:00,CST/-0600,Club Tijuana,3-1,1-0,Monarcas Morelia,,2020-02-12T03:00Z
+Quarterfinals,Tue Feb 11 2020,19:00,CST/-0600,Santos Laguna,0-0,0-0,CF Monterrey,,2020-02-12T01:00Z
+Quarterfinals,Wed Feb 12 2020,21:00,CST/-0600,Dorados de Sinaloa,0-0,0-0,FC Juárez,,2020-02-13T03:00Z
+Quarterfinals,Wed Feb 12 2020,19:00,CST/-0600,CF Pachuca,2-2,1-1,Deportivo Toluca,,2020-02-13T01:00Z
+Quarterfinals,Tue Feb 18 2020,21:10,CST/-0600,Deportivo Toluca,5-1,0-1,CF Pachuca,,2020-02-19T03:10Z
+Quarterfinals,Tue Feb 18 2020,19:00,CST/-0600,Monarcas Morelia,0-0,0-0,Club Tijuana,,2020-02-19T01:00Z
+Quarterfinals,Wed Feb 19 2020,19:00,CST/-0600,CF Monterrey,1-0,1-0,Santos Laguna,,2020-02-20T01:00Z
+Quarterfinals,Wed Feb 19 2020,21:10,CST/-0600,FC Juárez,3-0,3-0,Dorados de Sinaloa,,2020-02-20T03:10Z
+Semifinals,Tue Mar 3 2020,21:00,CST/-0600,Club Tijuana,3-0,2-0,Deportivo Toluca,,2020-03-04T03:00Z
+Semifinals,Wed Mar 4 2020,21:00,CST/-0600,FC Juárez,2-0,0-0,CF Monterrey,,2020-03-05T03:00Z
+Semifinals,Tue Mar 10 2020,21:00,CST/-0600,Deportivo Toluca,3-4,2-1,Club Tijuana,,2020-03-11T03:00Z
+Semifinals,Wed Mar 11 2020,21:00,CST/-0600,CF Monterrey,2-0,1-0,FC Juárez,6-5,2020-03-12T03:00Z
+Final,Wed Oct 21 2020,21:06,CDT/-0500,Club Tijuana,0-1,0-1,CF Monterrey,,2020-10-22T02:06Z
+Final,Wed Nov 4 2020,20:36,CST/-0600,CF Monterrey,1-1,0-0,Club Tijuana,,2020-11-05T02:36Z

@@ -1,0 +1,494 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Wed Feb 21 2024,20:00,EST/-0500,Inter Miami CF,2-0,1-0,Real Salt Lake,2024-02-22T01:00Z
+1,Sat Feb 24 2024,14:00,EST/-0500,Columbus Crew,1-0,1-0,Atlanta United FC,2024-02-24T19:00Z
+1,Sat Feb 24 2024,16:45,EST/-0500,Los Angeles FC,2-1,1-0,Seattle Sounders,2024-02-24T21:45Z
+1,Sat Feb 24 2024,19:30,EST/-0500,Charlotte FC,1-0,1-0,New York City FC,2024-02-25T00:30Z
+1,Sat Feb 24 2024,19:30,EST/-0500,D.C. United,3-1,1-0,New England Revolution,2024-02-25T00:30Z
+1,Sat Feb 24 2024,19:30,EST/-0500,Orlando City,0-0,0-0,CF Montréal,2024-02-25T00:30Z
+1,Sat Feb 24 2024,19:30,EST/-0500,Philadelphia Union,2-2,0-1,Chicago Fire,2024-02-25T00:30Z
+1,Sat Feb 24 2024,20:30,EST/-0500,Austin FC,1-2,0-1,Minnesota United FC,2024-02-25T01:30Z
+1,Sat Feb 24 2024,20:30,EST/-0500,FC Dallas,2-1,1-1,San Jose Earthquakes,2024-02-25T01:30Z
+1,Sat Feb 24 2024,20:30,EST/-0500,Houston Dynamo,1-1,0-0,Sporting Kansas City,2024-02-25T01:30Z
+1,Sat Feb 24 2024,20:30,EST/-0500,St. Louis City SC,1-1,0-0,Real Salt Lake,2024-02-25T01:30Z
+1,Sat Feb 24 2024,22:30,EST/-0500,Portland Timbers,4-1,4-0,Colorado Rapids,2024-02-25T03:30Z
+1,Sun Feb 25 2024,17:00,EST/-0500,Nashville SC,0-0,0-0,New York RB,2024-02-25T22:00Z
+1,Sun Feb 25 2024,21:00,EST/-0500,Los Angeles Galaxy,1-1,0-0,Inter Miami CF,2024-02-26T02:00Z
+1,Sun Feb 25 2024,14:30,EST/-0500,FC Cincinnati,0-0,0-0,Toronto FC,2024-02-25T19:30Z
+2,Sat Mar 2 2024,14:00,EST/-0500,Minnesota United FC,1-1,0-0,Columbus Crew,2024-03-02T19:00Z
+2,Sat Mar 2 2024,16:00,EST/-0500,Real Salt Lake,3-0,3-0,Los Angeles FC,2024-03-02T21:00Z
+2,Sat Mar 2 2024,16:30,EST/-0500,Inter Miami CF,5-0,3-0,Orlando City,2024-03-02T21:30Z
+2,Sat Mar 2 2024,19:30,EST/-0500,Vancouver Whitecaps,1-1,1-1,Charlotte FC,2024-03-03T00:30Z
+2,Sat Mar 2 2024,20:30,EST/-0500,Chicago Fire,1-2,1-1,FC Cincinnati,2024-03-03T01:30Z
+2,Sat Mar 2 2024,20:30,EST/-0500,FC Dallas,1-2,1-1,CF Montréal,2024-03-03T01:30Z
+2,Sat Mar 2 2024,20:30,EST/-0500,Houston Dynamo,1-2,1-1,New York RB,2024-03-03T01:30Z
+2,Sat Mar 2 2024,20:30,EST/-0500,Sporting Kansas City,1-1,1-0,Philadelphia Union,2024-03-03T01:30Z
+2,Sat Mar 2 2024,20:30,EST/-0500,St. Louis City SC,2-0,1-0,New York City FC,2024-03-03T01:30Z
+2,Sat Mar 2 2024,21:30,EST/-0500,Colorado Rapids,1-1,0-0,Nashville SC,2024-03-03T02:30Z
+2,Sat Mar 2 2024,22:30,EST/-0500,Portland Timbers,2-2,1-0,D.C. United,2024-03-03T03:30Z
+2,Sat Mar 2 2024,22:30,EST/-0500,San Jose Earthquakes,1-3,0-2,Los Angeles Galaxy,2024-03-03T03:30Z
+2,Sat Mar 2 2024,22:30,EST/-0500,Seattle Sounders,0-0,0-0,Austin FC,2024-03-03T03:30Z
+2,Sun Mar 3 2024,14:00,EST/-0500,New England Revolution,0-1,0-1,Toronto FC,2024-03-03T19:00Z
+3,Sat Mar 9 2024,14:00,EST/-0500,New York City FC,1-2,1-0,Portland Timbers,2024-03-09T19:00Z
+3,Sat Mar 9 2024,14:00,EST/-0500,Toronto FC,1-0,0-0,Charlotte FC,2024-03-09T19:00Z
+3,Sat Mar 9 2024,19:30,EST/-0500,Atlanta United FC,4-1,1-0,New England Revolution,2024-03-10T00:30Z
+3,Sat Mar 9 2024,19:30,EST/-0500,Columbus Crew,2-1,0-0,Chicago Fire,2024-03-10T00:30Z
+3,Sat Mar 9 2024,19:30,EST/-0500,New York RB,2-1,1-0,FC Dallas,2024-03-10T00:30Z
+3,Sat Mar 9 2024,19:30,EST/-0500,Orlando City,2-3,1-2,Minnesota United FC,2024-03-10T00:30Z
+3,Sat Mar 9 2024,20:30,EST/-0500,Austin FC,2-2,1-0,St. Louis City SC,2024-03-10T01:30Z
+3,Sat Mar 9 2024,21:30,EST/-0500,Real Salt Lake,1-2,1-1,Colorado Rapids,2024-03-10T02:30Z
+3,Sat Mar 9 2024,22:30,EST/-0500,Los Angeles FC,0-0,0-0,Sporting Kansas City,2024-03-10T03:30Z
+3,Sat Mar 9 2024,22:30,EST/-0500,San Jose Earthquakes,0-2,0-0,Vancouver Whitecaps,2024-03-10T03:30Z
+3,Sun Mar 10 2024,15:00,EDT/-0400,FC Cincinnati,0-0,0-0,D.C. United,2024-03-10T19:00Z
+3,Sun Mar 10 2024,15:00,EDT/-0400,Nashville SC,2-2,0-0,Los Angeles Galaxy,2024-03-10T19:00Z
+3,Sun Mar 10 2024,17:00,EDT/-0400,Inter Miami CF,2-3,0-1,CF Montréal,2024-03-10T21:00Z
+4,Sat Mar 16 2024,20:30,EDT/-0400,Austin FC,2-2,0-1,Philadelphia Union,2024-03-17T00:30Z
+4,Sat Mar 16 2024,14:00,EDT/-0400,Chicago Fire,4-3,1-2,CF Montréal,2024-03-16T18:00Z
+4,Sat Mar 16 2024,14:00,EDT/-0400,D.C. United,1-3,1-1,Inter Miami CF,2024-03-16T18:00Z
+4,Sat Mar 16 2024,15:30,EDT/-0400,Seattle Sounders,1-1,1-0,Colorado Rapids,2024-03-16T19:30Z
+4,Sat Mar 16 2024,19:30,EDT/-0400,Columbus Crew,3-0,1-0,New York RB,2024-03-16T23:30Z
+4,Sat Mar 16 2024,19:30,EDT/-0400,New York City FC,2-1,1-1,Toronto FC,2024-03-16T23:30Z
+4,Sat Mar 16 2024,22:30,EDT/-0400,Los Angeles Galaxy,3-3,1-1,St. Louis City SC,2024-03-17T02:30Z
+4,Sat Mar 16 2024,20:30,EDT/-0400,FC Dallas,1-3,1-3,Vancouver Whitecaps,2024-03-17T00:30Z
+4,Sat Mar 16 2024,20:30,EDT/-0400,Houston Dynamo,1-0,1-0,Portland Timbers,2024-03-17T00:30Z
+4,Sat Mar 16 2024,20:30,EDT/-0400,Minnesota United FC,2-0,1-0,Los Angeles FC,2024-03-17T00:30Z
+4,Sat Mar 16 2024,20:30,EDT/-0400,Nashville SC,2-1,2-1,Charlotte FC,2024-03-17T00:30Z
+4,Sat Mar 16 2024,20:30,EDT/-0400,Sporting Kansas City,2-1,2-1,San Jose Earthquakes,2024-03-17T00:30Z
+4,Sun Mar 17 2024,19:00,EDT/-0400,Atlanta United FC,2-0,1-0,Orlando City,2024-03-17T23:00Z
+4,Sun Mar 17 2024,14:00,EDT/-0400,New England Revolution,1-2,0-0,FC Cincinnati,2024-03-17T18:00Z
+5,Sat Mar 23 2024,22:30,EDT/-0400,San Jose Earthquakes,3-2,2-0,Seattle Sounders,2024-03-24T02:30Z
+5,Sat Mar 23 2024,14:00,EDT/-0400,New England Revolution,1-1,1-1,Chicago Fire,2024-03-23T18:00Z
+5,Sat Mar 23 2024,14:00,EDT/-0400,New York RB,4-0,1-0,Inter Miami CF,2024-03-23T18:00Z
+5,Sat Mar 23 2024,19:30,EDT/-0400,Vancouver Whitecaps,1-2,1-0,Real Salt Lake,2024-03-23T23:30Z
+5,Sat Mar 23 2024,19:30,EDT/-0400,Charlotte FC,2-0,0-0,Columbus Crew,2024-03-23T23:30Z
+5,Sat Mar 23 2024,19:30,EDT/-0400,FC Cincinnati,1-0,0-0,New York City FC,2024-03-23T23:30Z
+5,Sat Mar 23 2024,19:30,EDT/-0400,Orlando City,2-0,1-0,Austin FC,2024-03-23T23:30Z
+5,Sat Mar 23 2024,19:30,EDT/-0400,Toronto FC,2-0,1-0,Atlanta United FC,2024-03-23T23:30Z
+5,Sat Mar 23 2024,20:30,EDT/-0400,Sporting Kansas City,2-3,2-0,Los Angeles Galaxy,2024-03-24T00:30Z
+5,Sat Mar 23 2024,20:30,EDT/-0400,St. Louis City SC,2-2,1-2,D.C. United,2024-03-24T00:30Z
+5,Sat Mar 23 2024,21:30,EDT/-0400,Colorado Rapids,0-1,0-0,Houston Dynamo,2024-03-24T01:30Z
+5,Sat Mar 23 2024,22:30,EDT/-0400,Los Angeles FC,5-0,2-0,Nashville SC,2024-03-24T02:30Z
+5,Sat Mar 23 2024,22:30,EDT/-0400,Portland Timbers,1-3,0-1,Philadelphia Union,2024-03-24T02:30Z
+6,Sat Mar 30 2024,22:30,EDT/-0400,Los Angeles Galaxy,1-0,1-0,Seattle Sounders,2024-03-31T02:30Z
+6,Sat Mar 30 2024,14:00,EDT/-0400,Philadelphia Union,2-0,1-0,Minnesota United FC,2024-03-30T18:00Z
+6,Sat Mar 30 2024,16:00,EDT/-0400,Colorado Rapids,3-2,1-1,Los Angeles FC,2024-03-30T20:00Z
+6,Sat Mar 30 2024,19:30,EDT/-0400,Charlotte FC,1-1,0-0,FC Cincinnati,2024-03-30T23:30Z
+6,Sat Mar 30 2024,19:30,EDT/-0400,D.C. United,1-0,0-0,CF Montréal,2024-03-30T23:30Z
+6,Sat Mar 30 2024,19:30,EDT/-0400,Inter Miami CF,1-1,1-1,New York City FC,2024-03-30T23:30Z
+6,Sat Mar 30 2024,19:30,EDT/-0400,Orlando City,1-1,0-1,New York RB,2024-03-30T23:30Z
+6,Sat Mar 30 2024,19:30,EDT/-0400,Toronto FC,1-3,0-0,Sporting Kansas City,2024-03-30T23:30Z
+6,Sat Mar 30 2024,20:30,EDT/-0400,Austin FC,2-1,0-0,FC Dallas,2024-03-31T00:30Z
+6,Sat Mar 30 2024,20:30,EDT/-0400,Houston Dynamo,2-1,0-1,San Jose Earthquakes,2024-03-31T00:30Z
+6,Sat Mar 30 2024,20:30,EDT/-0400,Nashville SC,2-2,2-1,Columbus Crew,2024-03-31T00:30Z
+6,Sat Mar 30 2024,21:30,EDT/-0400,Real Salt Lake,3-1,0-1,St. Louis City SC,2024-03-31T01:30Z
+6,Sat Mar 30 2024,22:30,EDT/-0400,Vancouver Whitecaps,3-2,2-0,Portland Timbers,2024-03-31T02:30Z
+6,Sun Mar 31 2024,15:30,EDT/-0400,Atlanta United FC,3-0,1-0,Chicago Fire,2024-03-31T19:30Z
+7,Sat Apr 6 2024,19:30,EDT/-0400,Vancouver Whitecaps,4-0,2-0,Toronto FC,2024-04-06T23:30Z
+7,Sat Apr 6 2024,22:30,EDT/-0400,Seattle Sounders,5-0,2-0,CF Montréal,2024-04-07T02:30Z
+7,Sat Apr 6 2024,19:30,EDT/-0400,Columbus Crew,1-1,0-0,D.C. United,2024-04-06T23:30Z
+7,Sat Apr 6 2024,19:30,EDT/-0400,FC Cincinnati,1-2,1-1,New York RB,2024-04-06T23:30Z
+7,Sat Apr 6 2024,19:30,EDT/-0400,Inter Miami CF,2-2,0-1,Colorado Rapids,2024-04-06T23:30Z
+7,Sat Apr 6 2024,19:30,EDT/-0400,New England Revolution,1-0,1-0,Charlotte FC,2024-04-06T23:30Z
+7,Sat Apr 6 2024,19:30,EDT/-0400,New York City FC,1-1,1-0,Atlanta United FC,2024-04-06T23:30Z
+7,Sat Apr 6 2024,19:45,EDT/-0400,Los Angeles FC,2-1,2-1,Los Angeles Galaxy,2024-04-06T23:45Z
+7,Sat Apr 6 2024,20:30,EDT/-0400,Austin FC,4-3,0-1,San Jose Earthquakes,2024-04-07T00:30Z
+7,Sat Apr 6 2024,20:30,EDT/-0400,Chicago Fire,2-1,1-0,Houston Dynamo,2024-04-07T00:30Z
+7,Sat Apr 6 2024,20:30,EDT/-0400,Minnesota United FC,1-1,0-1,Real Salt Lake,2024-04-07T00:30Z
+7,Sat Apr 6 2024,20:30,EDT/-0400,Nashville SC,1-2,1-0,Philadelphia Union,2024-04-07T00:30Z
+7,Sat Apr 6 2024,20:30,EDT/-0400,St. Louis City SC,0-0,0-0,FC Dallas,2024-04-07T00:30Z
+7,Sun Apr 7 2024,13:45,EDT/-0400,Sporting Kansas City,3-3,3-0,Portland Timbers,2024-04-07T17:45Z
+8,Sat Apr 13 2024,19:30,EDT/-0400,New York RB,0-0,0-0,Chicago Fire,2024-04-13T23:30Z
+8,Sat Apr 13 2024,16:45,EDT/-0400,Portland Timbers,2-2,2-1,Los Angeles FC,2024-04-13T20:45Z
+8,Sat Apr 13 2024,19:30,EDT/-0400,CF Montréal,2-1,1-0,FC Cincinnati,2024-04-13T23:30Z
+8,Sat Apr 13 2024,19:30,EDT/-0400,Charlotte FC,3-2,1-0,Toronto FC,2024-04-13T23:30Z
+8,Sat Apr 13 2024,19:30,EDT/-0400,D.C. United,2-3,1-1,Orlando City,2024-04-13T23:30Z
+8,Sat Apr 13 2024,19:30,EDT/-0400,New York City FC,2-0,0-0,New England Revolution,2024-04-13T23:30Z
+8,Sat Apr 13 2024,22:30,EDT/-0400,San Jose Earthquakes,0-3,0-1,Colorado Rapids,2024-04-14T02:30Z
+8,Sat Apr 13 2024,20:30,EDT/-0400,FC Dallas,0-0,0-0,Seattle Sounders,2024-04-14T00:30Z
+8,Sat Apr 13 2024,20:30,EDT/-0400,Minnesota United FC,1-2,0-1,Houston Dynamo,2024-04-14T00:30Z
+8,Sat Apr 13 2024,20:30,EDT/-0400,Sporting Kansas City,2-3,1-1,Inter Miami CF,2024-04-14T00:30Z
+8,Sat Apr 13 2024,21:30,EDT/-0400,Real Salt Lake,0-0,0-0,Columbus Crew,2024-04-14T01:30Z
+8,Sat Apr 13 2024,22:30,EDT/-0400,Vancouver Whitecaps,1-3,0-0,Los Angeles Galaxy,2024-04-14T02:30Z
+8,Sun Apr 14 2024,16:45,EDT/-0400,St. Louis City SC,1-0,0-0,Austin FC,2024-04-14T20:45Z
+8,Sun Apr 14 2024,14:30,EDT/-0400,Atlanta United FC,2-2,0-0,Philadelphia Union,2024-04-14T18:30Z
+9,Sat Apr 20 2024,22:30,EDT/-0400,Seattle Sounders,0-2,0-0,Vancouver Whitecaps,2024-04-21T02:30Z
+9,Sat Apr 20 2024,22:30,EDT/-0400,Los Angeles FC,2-2,0-1,New York RB,2024-04-21T02:30Z
+9,Sat Apr 20 2024,19:30,EDT/-0400,Atlanta United FC,1-2,0-0,FC Cincinnati,2024-04-20T23:30Z
+9,Sat Apr 20 2024,19:30,EDT/-0400,CF Montréal,2-2,1-1,Orlando City,2024-04-20T23:30Z
+9,Sat Apr 20 2024,19:30,EDT/-0400,Columbus Crew,2-2,0-1,Portland Timbers,2024-04-20T23:30Z
+9,Sat Apr 20 2024,19:30,EDT/-0400,Inter Miami CF,3-1,2-1,Nashville SC,2024-04-20T23:30Z
+9,Sat Apr 20 2024,19:30,EDT/-0400,New York City FC,2-0,1-0,D.C. United,2024-04-20T23:30Z
+9,Sat Apr 20 2024,19:30,EDT/-0400,Toronto FC,1-0,0-0,New England Revolution,2024-04-20T23:30Z
+9,Sat Apr 20 2024,20:30,EDT/-0400,Chicago Fire,0-4,0-3,Real Salt Lake,2024-04-21T00:30Z
+9,Sat Apr 20 2024,20:30,EDT/-0400,Houston Dynamo,0-1,0-0,Austin FC,2024-04-21T00:30Z
+9,Sat Apr 20 2024,20:30,EDT/-0400,Sporting Kansas City,3-3,1-2,St. Louis City SC,2024-04-21T00:30Z
+9,Sat Apr 20 2024,21:30,EDT/-0400,Colorado Rapids,2-1,1-0,FC Dallas,2024-04-21T01:30Z
+9,Sun Apr 21 2024,18:00,EDT/-0400,Charlotte FC,0-3,0-1,Minnesota United FC,2024-04-21T22:00Z
+9,Sun Apr 21 2024,20:15,EDT/-0400,Los Angeles Galaxy,4-3,3-1,San Jose Earthquakes,2024-04-22T00:15Z
+10,Sat Apr 27 2024,20:30,EDT/-0400,Nashville SC,1-1,1-0,San Jose Earthquakes,2024-04-28T00:30Z
+10,Sat Apr 27 2024,19:30,EDT/-0400,New York City FC,2-1,1-1,Charlotte FC,2024-04-27T23:30Z
+10,Sat Apr 27 2024,13:45,EDT/-0400,Austin FC,2-0,2-0,Los Angeles Galaxy,2024-04-27T17:45Z
+10,Sat Apr 27 2024,19:30,EDT/-0400,Columbus Crew,0-0,0-0,CF Montréal,2024-04-27T23:30Z
+10,Sat Apr 27 2024,19:30,EDT/-0400,D.C. United,2-1,2-1,Seattle Sounders,2024-04-27T23:30Z
+10,Sat Apr 27 2024,19:30,EDT/-0400,FC Cincinnati,2-1,1-0,Colorado Rapids,2024-04-27T23:30Z
+10,Sat Apr 27 2024,19:30,EDT/-0400,New England Revolution,1-4,1-1,Inter Miami CF,2024-04-27T23:30Z
+10,Sat Apr 27 2024,22:30,EDT/-0400,Los Angeles FC,3-2,2-0,Portland Timbers,2024-04-28T02:30Z
+10,Sat Apr 27 2024,19:30,EDT/-0400,New York RB,1-1,0-1,Vancouver Whitecaps,2024-04-27T23:30Z
+10,Sat Apr 27 2024,19:30,EDT/-0400,Orlando City,1-2,1-0,Toronto FC,2024-04-27T23:30Z
+10,Sat Apr 27 2024,19:30,EDT/-0400,Philadelphia Union,1-2,0-1,Real Salt Lake,2024-04-27T23:30Z
+10,Sat Apr 27 2024,20:30,EDT/-0400,Chicago Fire,0-0,0-0,Atlanta United FC,2024-04-28T00:30Z
+10,Sat Apr 27 2024,20:30,EDT/-0400,FC Dallas,2-0,0-0,Houston Dynamo,2024-04-28T00:30Z
+10,Sat Apr 27 2024,20:30,EDT/-0400,Minnesota United FC,2-1,2-1,Sporting Kansas City,2024-04-28T00:30Z
+3,Tue Apr 30 2024,19:30,EDT/-0400,Philadelphia Union,2-3,0-3,Seattle Sounders,2024-04-30T23:30Z
+11,Sat May 4 2024,22:30,EDT/-0400,Vancouver Whitecaps,0-0,0-0,Austin FC,2024-05-05T02:30Z
+11,Sat May 4 2024,19:30,EDT/-0400,Atlanta United FC,1-2,0-0,Minnesota United FC,2024-05-04T23:30Z
+11,Sat May 4 2024,19:30,EDT/-0400,Charlotte FC,2-0,0-0,Portland Timbers,2024-05-04T23:30Z
+11,Sat May 4 2024,19:30,EDT/-0400,D.C. United,2-2,2-1,Philadelphia Union,2024-05-04T23:30Z
+11,Sat May 4 2024,19:30,EDT/-0400,Inter Miami CF,6-2,0-1,New York RB,2024-05-04T23:30Z
+11,Sat May 4 2024,19:30,EDT/-0400,Orlando City,0-1,0-1,FC Cincinnati,2024-05-04T23:30Z
+11,Sat May 4 2024,19:30,EDT/-0400,San Jose Earthquakes,3-1,1-0,Los Angeles FC,2024-05-04T23:30Z
+11,Sat May 4 2024,19:30,EDT/-0400,Toronto FC,3-1,1-0,FC Dallas,2024-05-04T23:30Z
+11,Sat May 4 2024,20:30,EDT/-0400,Houston Dynamo,0-0,0-0,St. Louis City SC,2024-05-05T00:30Z
+11,Sat May 4 2024,20:30,EDT/-0400,Nashville SC,4-1,2-0,CF Montréal,2024-05-05T00:30Z
+11,Sat May 4 2024,21:25,EDT/-0400,Chicago Fire,0-1,0-0,New England Revolution,2024-05-05T01:25Z
+11,Sat May 4 2024,21:30,EDT/-0400,Real Salt Lake,1-0,0-0,Sporting Kansas City,2024-05-05T01:30Z
+11,Sun May 5 2024,16:00,EDT/-0400,New York City FC,0-2,0-1,Colorado Rapids,2024-05-05T20:00Z
+11,Sun May 5 2024,18:45,EDT/-0400,Seattle Sounders,0-0,0-0,Los Angeles Galaxy,2024-05-05T22:45Z
+12,Sat May 11 2024,19:30,EDT/-0400,Toronto FC,2-3,0-2,New York City FC,2024-05-11T23:30Z
+12,Sat May 11 2024,19:30,EDT/-0400,Atlanta United FC,2-3,1-2,D.C. United,2024-05-11T23:30Z
+12,Sat May 11 2024,19:30,EDT/-0400,CF Montréal,2-3,2-2,Inter Miami CF,2024-05-11T23:30Z
+12,Sat May 11 2024,19:30,EDT/-0400,Charlotte FC,1-0,0-0,Nashville SC,2024-05-11T23:30Z
+12,Sat May 11 2024,19:30,EDT/-0400,New York RB,4-2,2-1,New England Revolution,2024-05-11T23:30Z
+12,Sat May 11 2024,19:30,EDT/-0400,Philadelphia Union,2-3,1-2,Orlando City,2024-05-11T23:30Z
+12,Sat May 11 2024,22:30,EDT/-0400,Los Angeles FC,3-0,2-0,Vancouver Whitecaps,2024-05-12T02:30Z
+12,Sat May 11 2024,19:45,EDT/-0400,Columbus Crew,1-2,0-0,FC Cincinnati,2024-05-11T23:45Z
+12,Sat May 11 2024,20:30,EDT/-0400,FC Dallas,2-1,1-0,Austin FC,2024-05-12T00:30Z
+12,Sat May 11 2024,20:30,EDT/-0400,Sporting Kansas City,1-2,0-1,Houston Dynamo,2024-05-12T00:30Z
+12,Sat May 11 2024,20:30,EDT/-0400,St. Louis City SC,3-1,1-0,Chicago Fire,2024-05-12T00:30Z
+12,Sat May 11 2024,21:30,EDT/-0400,Colorado Rapids,2-3,2-2,San Jose Earthquakes,2024-05-12T01:30Z
+12,Sat May 11 2024,22:30,EDT/-0400,Los Angeles Galaxy,2-2,0-2,Real Salt Lake,2024-05-12T02:30Z
+12,Sun May 12 2024,16:45,EDT/-0400,Portland Timbers,1-2,1-1,Seattle Sounders,2024-05-12T20:45Z
+13,Wed May 15 2024,22:30,EDT/-0400,Portland Timbers,4-2,0-2,San Jose Earthquakes,2024-05-16T02:30Z
+13,Wed May 15 2024,19:30,EDT/-0400,CF Montréal,1-3,1-1,Columbus Crew,2024-05-15T23:30Z
+13,Wed May 15 2024,19:30,EDT/-0400,D.C. United,1-4,0-1,New York RB,2024-05-15T23:30Z
+13,Wed May 15 2024,19:30,EDT/-0400,FC Cincinnati,1-0,1-0,Atlanta United FC,2024-05-15T23:30Z
+13,Wed May 15 2024,19:30,EDT/-0400,Orlando City,0-0,0-0,Inter Miami CF,2024-05-15T23:30Z
+13,Wed May 15 2024,19:30,EDT/-0400,Philadelphia Union,1-2,0-2,New York City FC,2024-05-15T23:30Z
+13,Wed May 15 2024,20:30,EDT/-0400,Austin FC,1-0,0-0,Houston Dynamo,2024-05-16T00:30Z
+13,Wed May 15 2024,20:30,EDT/-0400,Chicago Fire,0-1,0-0,Charlotte FC,2024-05-16T00:30Z
+13,Wed May 15 2024,20:30,EDT/-0400,Minnesota United FC,2-2,1-0,Los Angeles Galaxy,2024-05-16T00:30Z
+13,Wed May 15 2024,20:30,EDT/-0400,Nashville SC,2-0,0-0,Toronto FC,2024-05-16T00:30Z
+13,Wed May 15 2024,20:30,EDT/-0400,St. Louis City SC,0-2,0-0,Los Angeles FC,2024-05-16T00:30Z
+13,Wed May 15 2024,21:30,EDT/-0400,Colorado Rapids,1-0,1-0,Vancouver Whitecaps,2024-05-16T01:30Z
+13,Wed May 15 2024,21:30,EDT/-0400,Real Salt Lake,2-0,1-0,Seattle Sounders,2024-05-16T01:30Z
+14,Sat May 18 2024,13:45,EDT/-0400,Nashville SC,1-1,1-0,Atlanta United FC,2024-05-18T17:45Z
+14,Sat May 18 2024,22:30,EDT/-0400,Seattle Sounders,1-1,1-0,Vancouver Whitecaps,2024-05-19T02:30Z
+14,Sat May 18 2024,19:30,EDT/-0400,Charlotte FC,0-0,0-0,Los Angeles Galaxy,2024-05-18T23:30Z
+14,Sat May 18 2024,19:30,EDT/-0400,FC Cincinnati,3-1,1-0,St. Louis City SC,2024-05-18T23:30Z
+14,Sat May 18 2024,19:30,EDT/-0400,New England Revolution,0-3,0-1,Philadelphia Union,2024-05-18T23:30Z
+14,Sat May 18 2024,19:30,EDT/-0400,New York City FC,2-1,1-1,New York RB,2024-05-18T23:30Z
+14,Sat May 18 2024,19:30,EDT/-0400,Toronto FC,5-1,3-0,CF Montréal,2024-05-18T23:30Z
+14,Sat May 18 2024,20:05,EDT/-0400,Inter Miami CF,1-0,0-0,D.C. United,2024-05-19T00:05Z
+14,Sat May 18 2024,20:30,EDT/-0400,Austin FC,3-2,2-1,Sporting Kansas City,2024-05-19T00:30Z
+14,Sat May 18 2024,20:30,EDT/-0400,Chicago Fire,1-3,0-1,Columbus Crew,2024-05-19T00:30Z
+14,Sat May 18 2024,20:30,EDT/-0400,Houston Dynamo,1-1,1-0,FC Dallas,2024-05-19T00:30Z
+14,Sat May 18 2024,20:30,EDT/-0400,Minnesota United FC,2-1,0-1,Portland Timbers,2024-05-19T00:30Z
+14,Sat May 18 2024,21:30,EDT/-0400,Real Salt Lake,5-3,2-2,Colorado Rapids,2024-05-19T01:30Z
+14,Sat May 18 2024,22:30,EDT/-0400,San Jose Earthquakes,0-1,0-0,Orlando City,2024-05-19T02:30Z
+15,Sat May 25 2024,19:30,EDT/-0400,Toronto FC,3-4,1-0,FC Cincinnati,2024-05-25T23:30Z
+15,Sat May 25 2024,19:30,EDT/-0400,Atlanta United FC,0-1,0-0,Los Angeles FC,2024-05-25T23:30Z
+15,Sat May 25 2024,19:30,EDT/-0400,CF Montréal,0-0,0-0,Nashville SC,2024-05-25T23:30Z
+15,Sat May 25 2024,19:30,EDT/-0400,Charlotte FC,0-0,0-0,Philadelphia Union,2024-05-25T23:30Z
+15,Sat May 25 2024,19:30,EDT/-0400,D.C. United,1-1,1-0,Chicago Fire,2024-05-25T23:30Z
+15,Sat May 25 2024,19:30,EDT/-0400,New England Revolution,0-1,0-0,New York City FC,2024-05-25T23:30Z
+15,Sat May 25 2024,19:30,EDT/-0400,Orlando City,0-2,0-1,Columbus Crew,2024-05-25T23:30Z
+15,Sat May 25 2024,22:30,EDT/-0400,San Jose Earthquakes,1-1,1-1,Austin FC,2024-05-26T02:30Z
+15,Sat May 25 2024,20:30,EDT/-0400,FC Dallas,3-3,1-0,Real Salt Lake,2024-05-26T00:30Z
+15,Sat May 25 2024,20:30,EDT/-0400,St. Louis City SC,1-2,0-0,Seattle Sounders,2024-05-26T00:30Z
+15,Sat May 25 2024,21:30,EDT/-0400,Colorado Rapids,3-3,1-3,Minnesota United FC,2024-05-26T01:30Z
+15,Sat May 25 2024,22:30,EDT/-0400,Vancouver Whitecaps,1-2,0-1,Inter Miami CF,2024-05-26T02:30Z
+15,Sat May 25 2024,22:30,EDT/-0400,Los Angeles Galaxy,2-1,1-1,Houston Dynamo,2024-05-26T02:30Z
+15,Sat May 25 2024,22:30,EDT/-0400,Portland Timbers,2-1,0-0,Sporting Kansas City,2024-05-26T02:30Z
+16,Wed May 29 2024,20:30,EDT/-0400,Houston Dynamo,3-1,1-0,Colorado Rapids,2024-05-30T00:30Z
+16,Wed May 29 2024,19:30,EDT/-0400,CF Montréal,4-2,3-2,D.C. United,2024-05-29T23:30Z
+16,Wed May 29 2024,19:30,EDT/-0400,FC Cincinnati,0-2,0-2,Nashville SC,2024-05-29T23:30Z
+16,Wed May 29 2024,19:30,EDT/-0400,Inter Miami CF,1-3,0-1,Atlanta United FC,2024-05-29T23:30Z
+16,Wed May 29 2024,19:30,EDT/-0400,New York RB,3-1,0-0,Charlotte FC,2024-05-29T23:30Z
+16,Wed May 29 2024,19:30,EDT/-0400,Philadelphia Union,0-0,0-0,Toronto FC,2024-05-29T23:30Z
+16,Wed May 29 2024,20:30,EDT/-0400,Austin FC,0-2,0-1,Portland Timbers,2024-05-30T00:30Z
+16,Wed May 29 2024,20:30,EDT/-0400,Chicago Fire,1-1,0-1,Orlando City,2024-05-30T00:30Z
+16,Wed May 29 2024,22:45,EDT/-0400,Los Angeles FC,2-0,1-0,Minnesota United FC,2024-05-30T02:45Z
+16,Wed May 29 2024,20:30,EDT/-0400,Sporting Kansas City,1-2,0-1,Vancouver Whitecaps,2024-05-30T00:30Z
+16,Wed May 29 2024,22:30,EDT/-0400,Los Angeles Galaxy,3-1,1-1,FC Dallas,2024-05-30T02:30Z
+16,Wed May 29 2024,22:30,EDT/-0400,Seattle Sounders,1-1,0-0,Real Salt Lake,2024-05-30T02:30Z
+17,Fri May 31 2024,19:30,EDT/-0400,New York City FC,5-1,0-0,San Jose Earthquakes,2024-05-31T23:30Z
+17,Sat Jun 1 2024,22:30,EDT/-0400,Portland Timbers,2-2,1-1,Houston Dynamo,2024-06-02T02:30Z
+17,Sat Jun 1 2024,20:30,EDT/-0400,Chicago Fire,2-1,1-1,Los Angeles Galaxy,2024-06-02T00:30Z
+17,Sat Jun 1 2024,19:30,EDT/-0400,D.C. United,2-2,0-2,Toronto FC,2024-06-01T23:30Z
+17,Sat Jun 1 2024,19:30,EDT/-0400,Inter Miami CF,3-3,2-2,St. Louis City SC,2024-06-01T23:30Z
+17,Sat Jun 1 2024,19:30,EDT/-0400,New York RB,1-0,1-0,Orlando City,2024-06-01T23:30Z
+17,Sat Jun 1 2024,19:30,EDT/-0400,Philadelphia Union,2-2,0-1,CF Montréal,2024-06-01T23:30Z
+17,Sat Jun 1 2024,22:30,EDT/-0400,Vancouver Whitecaps,2-1,0-0,Colorado Rapids,2024-06-02T02:30Z
+17,Sat Jun 1 2024,20:30,EDT/-0400,Minnesota United FC,3-1,1-0,Sporting Kansas City,2024-06-02T00:30Z
+17,Sat Jun 1 2024,20:30,EDT/-0400,Nashville SC,1-2,0-1,New England Revolution,2024-06-02T00:30Z
+17,Sat Jun 1 2024,21:30,EDT/-0400,Real Salt Lake,5-1,4-0,Austin FC,2024-06-02T01:30Z
+17,Sat Jun 1 2024,22:30,EDT/-0400,Los Angeles FC,1-0,0-0,FC Dallas,2024-06-02T02:30Z
+17,Sun Jun 2 2024,16:45,EDT/-0400,Atlanta United FC,2-3,1-1,Charlotte FC,2024-06-02T20:45Z
+18,Sat Jun 8 2024,20:30,EDT/-0400,Minnesota United FC,1-1,1-1,FC Dallas,2024-06-09T00:30Z
+18,Sat Jun 8 2024,20:30,EDT/-0400,St. Louis City SC,0-0,0-0,Portland Timbers,2024-06-09T00:30Z
+18,Sat Jun 8 2024,20:30,EDT/-0400,Sporting Kansas City,2-1,1-1,Seattle Sounders,2024-06-09T00:30Z
+18,Sat Jun 8 2024,19:30,EDT/-0400,New England Revolution,1-0,0-0,New York RB,2024-06-08T23:30Z
+18,Fri Jun 14 2024,20:40,EDT/-0400,New York City FC,2-3,1-0,Columbus Crew,2024-06-15T00:40Z
+18,Sat Jun 15 2024,22:30,EDT/-0400,San Jose Earthquakes,2-4,0-0,FC Cincinnati,2024-06-16T02:30Z
+18,Sat Jun 15 2024,22:30,EDT/-0400,Seattle Sounders,2-0,1-0,Minnesota United FC,2024-06-16T02:30Z
+18,Sat Jun 15 2024,22:30,EDT/-0400,Los Angeles Galaxy,4-2,1-0,Sporting Kansas City,2024-06-16T02:30Z
+18,Sat Jun 15 2024,19:30,EDT/-0400,Atlanta United FC,2-2,1-1,Houston Dynamo,2024-06-15T23:30Z
+18,Sat Jun 15 2024,19:30,EDT/-0400,CF Montréal,0-0,0-0,Real Salt Lake,2024-06-15T23:30Z
+18,Sat Jun 15 2024,19:30,EDT/-0400,Charlotte FC,1-0,1-0,D.C. United,2024-06-15T23:30Z
+18,Sat Jun 15 2024,19:30,EDT/-0400,New England Revolution,3-2,3-1,Vancouver Whitecaps,2024-06-15T23:30Z
+18,Sat Jun 15 2024,19:30,EDT/-0400,New York RB,0-0,0-0,Nashville SC,2024-06-15T23:30Z
+18,Sat Jun 15 2024,19:30,EDT/-0400,Orlando City,1-3,0-1,Los Angeles FC,2024-06-15T23:30Z
+18,Sat Jun 15 2024,19:30,EDT/-0400,Philadelphia Union,1-2,1-0,Inter Miami CF,2024-06-15T23:30Z
+18,Sat Jun 15 2024,19:30,EDT/-0400,Toronto FC,1-4,1-1,Chicago Fire,2024-06-15T23:30Z
+18,Sat Jun 15 2024,20:30,EDT/-0400,FC Dallas,2-0,1-0,St. Louis City SC,2024-06-16T00:30Z
+18,Sat Jun 15 2024,21:30,EDT/-0400,Colorado Rapids,2-0,1-0,Austin FC,2024-06-16T01:30Z
+19,Wed Jun 19 2024,22:30,EDT/-0400,San Jose Earthquakes,1-2,0-1,Portland Timbers,2024-06-20T02:30Z
+19,Wed Jun 19 2024,20:30,EDT/-0400,St. Louis City SC,0-3,0-1,Colorado Rapids,2024-06-20T00:30Z
+19,Wed Jun 19 2024,20:30,EDT/-0400,Sporting Kansas City,3-4,1-2,Real Salt Lake,2024-06-20T00:30Z
+19,Wed Jun 19 2024,19:30,EDT/-0400,CF Montréal,2-2,2-0,New York RB,2024-06-19T23:30Z
+19,Wed Jun 19 2024,19:30,EDT/-0400,Charlotte FC,2-2,1-0,Orlando City,2024-06-19T23:30Z
+19,Wed Jun 19 2024,19:30,EDT/-0400,D.C. United,0-1,0-0,Atlanta United FC,2024-06-19T23:30Z
+19,Wed Jun 19 2024,19:30,EDT/-0400,Inter Miami CF,2-1,2-1,Columbus Crew,2024-06-19T23:30Z
+19,Wed Jun 19 2024,19:30,EDT/-0400,Toronto FC,1-2,1-0,Nashville SC,2024-06-19T23:30Z
+19,Wed Jun 19 2024,19:45,EDT/-0400,FC Cincinnati,4-3,1-1,Philadelphia Union,2024-06-19T23:45Z
+19,Wed Jun 19 2024,20:30,EDT/-0400,Austin FC,1-1,1-0,Los Angeles FC,2024-06-20T00:30Z
+19,Wed Jun 19 2024,20:30,EDT/-0400,FC Dallas,5-3,2-1,Minnesota United FC,2024-06-20T00:30Z
+19,Wed Jun 19 2024,20:30,EDT/-0400,Houston Dynamo,2-2,2-0,Seattle Sounders,2024-06-20T00:30Z
+19,Wed Jun 19 2024,22:30,EDT/-0400,Los Angeles Galaxy,2-0,1-0,New York City FC,2024-06-20T02:30Z
+20,Sat Jun 22 2024,22:30,EDT/-0400,Seattle Sounders,3-2,0-0,FC Dallas,2024-06-23T02:30Z
+20,Sat Jun 22 2024,22:30,EDT/-0400,Portland Timbers,2-0,2-0,Vancouver Whitecaps,2024-06-23T02:30Z
+20,Sat Jun 22 2024,22:30,EDT/-0400,Los Angeles FC,6-2,4-1,San Jose Earthquakes,2024-06-23T02:30Z
+20,Sat Jun 22 2024,19:30,EDT/-0400,Columbus Crew,4-0,2-0,Sporting Kansas City,2024-06-22T23:30Z
+20,Sat Jun 22 2024,19:30,EDT/-0400,D.C. United,1-4,1-0,Houston Dynamo,2024-06-22T23:30Z
+20,Sat Jun 22 2024,19:30,EDT/-0400,FC Cincinnati,1-2,0-2,New England Revolution,2024-06-22T23:30Z
+20,Sat Jun 22 2024,19:30,EDT/-0400,New York RB,3-0,1-0,Toronto FC,2024-06-22T23:30Z
+20,Sat Jun 22 2024,19:30,EDT/-0400,Orlando City,4-2,3-0,Chicago Fire,2024-06-22T23:30Z
+20,Sat Jun 22 2024,19:30,EDT/-0400,Philadelphia Union,0-2,0-0,Charlotte FC,2024-06-22T23:30Z
+20,Sat Jun 22 2024,20:30,EDT/-0400,Minnesota United FC,0-1,0-1,Austin FC,2024-06-23T00:30Z
+20,Sat Jun 22 2024,20:30,EDT/-0400,Nashville SC,1-0,1-0,New York City FC,2024-06-23T00:30Z
+20,Sat Jun 22 2024,20:30,EDT/-0400,St. Louis City SC,1-1,0-0,Atlanta United FC,2024-06-23T00:30Z
+20,Sat Jun 22 2024,21:30,EDT/-0400,Colorado Rapids,4-1,2-0,CF Montréal,2024-06-23T01:30Z
+20,Sat Jun 22 2024,21:30,EDT/-0400,Real Salt Lake,0-1,0-0,Los Angeles Galaxy,2024-06-23T01:30Z
+21,Fri Jun 28 2024,19:30,EDT/-0400,New York City FC,4-2,3-0,Orlando City,2024-06-28T23:30Z
+21,Sat Jun 29 2024,22:30,EDT/-0400,Seattle Sounders,2-1,0-1,Chicago Fire,2024-06-30T02:30Z
+21,Sat Jun 29 2024,22:30,EDT/-0400,San Jose Earthquakes,0-3,0-1,Los Angeles Galaxy,2024-06-30T02:30Z
+21,Sat Jun 29 2024,19:30,EDT/-0400,CF Montréal,4-2,1-2,Philadelphia Union,2024-06-29T23:30Z
+21,Sat Jun 29 2024,19:30,EDT/-0400,Atlanta United FC,2-1,1-0,Toronto FC,2024-06-29T23:30Z
+21,Sat Jun 29 2024,22:30,EDT/-0400,Portland Timbers,3-2,1-2,Minnesota United FC,2024-06-30T02:30Z
+21,Sat Jun 29 2024,19:30,EDT/-0400,New England Revolution,1-5,1-3,Columbus Crew,2024-06-29T23:30Z
+21,Sat Jun 29 2024,19:30,EDT/-0400,New York RB,2-2,1-2,D.C. United,2024-06-29T23:30Z
+21,Sat Jun 29 2024,20:30,EDT/-0400,FC Dallas,0-1,0-0,FC Cincinnati,2024-06-30T00:30Z
+21,Sat Jun 29 2024,20:30,EDT/-0400,Houston Dynamo,1-0,1-0,Charlotte FC,2024-06-30T00:30Z
+21,Sat Jun 29 2024,20:30,EDT/-0400,Nashville SC,1-2,0-2,Inter Miami CF,2024-06-30T00:30Z
+21,Sat Jun 29 2024,20:30,EDT/-0400,Sporting Kansas City,2-0,1-0,Austin FC,2024-06-30T00:30Z
+21,Sat Jun 29 2024,22:30,EDT/-0400,Vancouver Whitecaps,4-3,1-2,St. Louis City SC,2024-06-30T02:30Z
+21,Sat Jun 29 2024,22:30,EDT/-0400,Los Angeles FC,3-0,1-0,Colorado Rapids,2024-06-30T02:30Z
+22,Wed Jul 3 2024,19:30,EDT/-0400,Toronto FC,1-2,1-2,Orlando City,2024-07-03T23:30Z
+22,Wed Jul 3 2024,20:45,EDT/-0400,Columbus Crew,2-0,1-0,Nashville SC,2024-07-04T00:45Z
+22,Wed Jul 3 2024,20:30,EDT/-0400,St. Louis City SC,2-0,2-0,San Jose Earthquakes,2024-07-04T00:30Z
+22,Wed Jul 3 2024,19:30,EDT/-0400,Charlotte FC,1-2,1-1,Inter Miami CF,2024-07-03T23:30Z
+22,Wed Jul 3 2024,19:30,EDT/-0400,D.C. United,2-3,1-2,FC Cincinnati,2024-07-03T23:30Z
+22,Wed Jul 3 2024,19:30,EDT/-0400,New York City FC,2-0,1-0,CF Montréal,2024-07-03T23:30Z
+22,Wed Jul 3 2024,21:30,EDT/-0400,Real Salt Lake,3-2,2-1,Houston Dynamo,2024-07-04T01:30Z
+22,Wed Jul 3 2024,19:45,EDT/-0400,New England Revolution,2-1,2-0,Atlanta United FC,2024-07-03T23:45Z
+22,Wed Jul 3 2024,20:30,EDT/-0400,Chicago Fire,4-3,1-2,Philadelphia Union,2024-07-04T00:30Z
+22,Wed Jul 3 2024,20:30,EDT/-0400,Minnesota United FC,1-3,1-2,Vancouver Whitecaps,2024-07-04T00:30Z
+22,Thu Jul 4 2024,20:30,EDT/-0400,FC Dallas,3-2,0-1,Portland Timbers,2024-07-05T00:30Z
+22,Thu Jul 4 2024,22:40,EDT/-0400,Los Angeles Galaxy,1-2,0-2,Los Angeles FC,2024-07-05T02:40Z
+22,Thu Jul 4 2024,21:30,EDT/-0400,Colorado Rapids,2-1,0-0,Sporting Kansas City,2024-07-05T01:30Z
+23,Sat Jul 6 2024,19:30,EDT/-0400,FC Cincinnati,6-1,4-1,Inter Miami CF,2024-07-06T23:30Z
+23,Sat Jul 6 2024,21:30,EDT/-0400,Real Salt Lake,5-2,1-1,Atlanta United FC,2024-07-07T01:30Z
+23,Sat Jul 6 2024,20:30,EDT/-0400,Austin FC,2-1,1-1,New York City FC,2024-07-07T00:30Z
+23,Sat Jul 6 2024,19:30,EDT/-0400,CF Montréal,1-1,0-1,Vancouver Whitecaps,2024-07-06T23:30Z
+23,Sat Jul 6 2024,19:30,EDT/-0400,Columbus Crew,4-0,1-0,Toronto FC,2024-07-06T23:30Z
+23,Sat Jul 6 2024,22:30,EDT/-0400,Seattle Sounders,2-0,1-0,New England Revolution,2024-07-07T02:30Z
+23,Sat Jul 6 2024,19:30,EDT/-0400,Orlando City,5-0,3-0,D.C. United,2024-07-06T23:30Z
+23,Sat Jul 6 2024,19:30,EDT/-0400,Philadelphia Union,0-0,0-0,New York RB,2024-07-06T23:30Z
+23,Sun Jul 7 2024,22:30,EDT/-0400,Portland Timbers,4-1,4-0,Nashville SC,2024-07-08T02:30Z
+23,Sun Jul 7 2024,21:30,EDT/-0400,Colorado Rapids,4-1,2-1,St. Louis City SC,2024-07-08T01:30Z
+23,Sun Jul 7 2024,22:30,EDT/-0400,Los Angeles Galaxy,2-1,1-0,Minnesota United FC,2024-07-08T02:30Z
+23,Sun Jul 7 2024,20:30,EDT/-0400,Sporting Kansas City,3-2,2-1,FC Dallas,2024-07-08T00:30Z
+23,Sun Jul 7 2024,20:30,EDT/-0400,San Jose Earthquakes,1-0,0-0,Chicago Fire,2024-07-08T00:30Z
+24,Sat Jul 13 2024,22:30,EDT/-0400,Los Angeles FC,1-5,0-1,Columbus Crew,2024-07-14T02:30Z
+24,Sat Jul 13 2024,22:25,EDT/-0400,Portland Timbers,3-0,1-0,Real Salt Lake,2024-07-14T02:25Z
+24,Sat Jul 13 2024,21:30,EDT/-0400,Colorado Rapids,1-1,0-1,New York RB,2024-07-14T01:30Z
+24,Sat Jul 13 2024,20:30,EDT/-0400,St. Louis City SC,1-4,1-2,Vancouver Whitecaps,2024-07-14T00:30Z
+24,Sat Jul 13 2024,19:30,EDT/-0400,CF Montréal,1-0,0-0,Atlanta United FC,2024-07-13T23:30Z
+24,Sat Jul 13 2024,19:30,EDT/-0400,D.C. United,2-1,0-1,Nashville SC,2024-07-13T23:30Z
+24,Sat Jul 13 2024,19:30,EDT/-0400,FC Cincinnati,1-3,1-2,Charlotte FC,2024-07-13T23:30Z
+24,Sat Jul 13 2024,19:30,EDT/-0400,New England Revolution,1-3,1-0,Orlando City,2024-07-13T23:30Z
+24,Sat Jul 13 2024,19:30,EDT/-0400,Toronto FC,2-1,0-1,Philadelphia Union,2024-07-13T23:30Z
+24,Sat Jul 13 2024,20:30,EDT/-0400,Austin FC,0-1,0-0,Seattle Sounders,2024-07-14T00:30Z
+24,Sat Jul 13 2024,20:30,EDT/-0400,Chicago Fire,0-0,0-0,New York City FC,2024-07-14T00:30Z
+24,Sat Jul 13 2024,20:30,EDT/-0400,FC Dallas,2-0,1-0,Los Angeles Galaxy,2024-07-14T00:30Z
+24,Sat Jul 13 2024,20:30,EDT/-0400,Houston Dynamo,1-1,0-0,Minnesota United FC,2024-07-14T00:30Z
+24,Sat Jul 13 2024,22:30,EDT/-0400,San Jose Earthquakes,1-2,0-0,Sporting Kansas City,2024-07-14T02:30Z
+25,Wed Jul 17 2024,22:30,EDT/-0400,Vancouver Whitecaps,2-1,1-0,Sporting Kansas City,2024-07-18T02:30Z
+25,Wed Jul 17 2024,19:30,EDT/-0400,Philadelphia Union,5-1,3-0,New England Revolution,2024-07-17T23:30Z
+25,Wed Jul 17 2024,22:30,EDT/-0400,Seattle Sounders,2-0,1-0,St. Louis City SC,2024-07-18T02:30Z
+25,Wed Jul 17 2024,22:30,EDT/-0400,San Jose Earthquakes,0-1,0-0,Houston Dynamo,2024-07-18T02:30Z
+25,Wed Jul 17 2024,19:30,EDT/-0400,Atlanta United FC,2-2,2-0,New York City FC,2024-07-17T23:30Z
+25,Wed Jul 17 2024,19:30,EDT/-0400,Columbus Crew,1-1,1-0,Charlotte FC,2024-07-17T23:30Z
+25,Wed Jul 17 2024,19:30,EDT/-0400,FC Cincinnati,0-1,0-0,Chicago Fire,2024-07-17T23:30Z
+25,Wed Jul 17 2024,19:30,EDT/-0400,Inter Miami CF,3-1,1-0,Toronto FC,2024-07-17T23:30Z
+25,Wed Jul 17 2024,19:30,EDT/-0400,New York RB,2-2,1-0,CF Montréal,2024-07-17T23:30Z
+25,Wed Jul 17 2024,22:30,EDT/-0400,Los Angeles Galaxy,3-2,3-2,Colorado Rapids,2024-07-18T02:30Z
+25,Wed Jul 17 2024,20:30,EDT/-0400,FC Dallas,3-1,1-1,Austin FC,2024-07-18T00:30Z
+25,Wed Jul 17 2024,20:30,EDT/-0400,Minnesota United FC,2-3,1-1,D.C. United,2024-07-18T00:30Z
+25,Wed Jul 17 2024,20:30,EDT/-0400,Nashville SC,0-3,0-2,Orlando City,2024-07-18T00:30Z
+25,Wed Jul 17 2024,22:45,EDT/-0400,Los Angeles FC,1-1,1-1,Real Salt Lake,2024-07-18T02:45Z
+26,Sat Jul 20 2024,22:30,EDT/-0400,Vancouver Whitecaps,3-4,0-2,Houston Dynamo,2024-07-21T02:30Z
+26,Sat Jul 20 2024,22:30,EDT/-0400,Seattle Sounders,0-3,0-2,Los Angeles FC,2024-07-21T02:30Z
+26,Sat Jul 20 2024,21:30,EDT/-0400,Colorado Rapids,3-2,2-1,Real Salt Lake,2024-07-21T01:30Z
+26,Sat Jul 20 2024,22:45,EDT/-0400,Los Angeles Galaxy,3-2,1-0,Portland Timbers,2024-07-21T02:45Z
+26,Sat Jul 20 2024,19:30,EDT/-0400,Atlanta United FC,2-1,0-1,Columbus Crew,2024-07-20T23:30Z
+26,Sat Jul 20 2024,19:30,EDT/-0400,CF Montréal,0-1,0-1,Toronto FC,2024-07-20T23:30Z
+26,Sat Jul 20 2024,19:30,EDT/-0400,Inter Miami CF,2-1,1-0,Chicago Fire,2024-07-20T23:30Z
+26,Sat Jul 20 2024,19:30,EDT/-0400,New England Revolution,1-1,0-0,FC Dallas,2024-07-20T23:30Z
+26,Sat Jul 20 2024,19:30,EDT/-0400,New York RB,3-1,1-0,FC Cincinnati,2024-07-20T23:30Z
+26,Sat Jul 20 2024,19:30,EDT/-0400,Orlando City,1-1,0-0,New York City FC,2024-07-20T23:30Z
+26,Sat Jul 20 2024,19:30,EDT/-0400,Philadelphia Union,3-0,2-0,Nashville SC,2024-07-20T23:30Z
+26,Sat Jul 20 2024,20:30,EDT/-0400,Austin FC,2-2,1-1,Charlotte FC,2024-07-21T00:30Z
+26,Sat Jul 20 2024,20:30,EDT/-0400,Minnesota United FC,2-0,1-0,San Jose Earthquakes,2024-07-21T00:30Z
+26,Sat Jul 20 2024,20:30,EDT/-0400,Sporting Kansas City,1-1,0-1,St. Louis City SC,2024-07-21T00:30Z
+27,Sat Aug 24 2024,22:30,EDT/-0400,Portland Timbers,4-4,1-3,St. Louis City SC,2024-08-25T02:30Z
+27,Sat Aug 24 2024,20:30,EDT/-0400,Nashville SC,0-2,0-1,Austin FC,2024-08-25T00:30Z
+27,Sat Aug 24 2024,22:30,EDT/-0400,Los Angeles Galaxy,2-0,0-0,Atlanta United FC,2024-08-25T02:30Z
+27,Sat Aug 24 2024,21:30,EDT/-0400,Real Salt Lake,0-2,0-2,San Jose Earthquakes,2024-08-25T01:30Z
+27,Sat Aug 24 2024,18:45,EDT/-0400,Minnesota United FC,2-3,1-2,Seattle Sounders,2024-08-24T22:45Z
+27,Sat Aug 24 2024,19:30,EDT/-0400,CF Montréal,0-5,0-2,New England Revolution,2024-08-24T23:30Z
+27,Sat Aug 24 2024,19:30,EDT/-0400,Charlotte FC,1-1,1-1,New York RB,2024-08-24T23:30Z
+27,Sat Aug 24 2024,19:30,EDT/-0400,D.C. United,3-4,2-4,FC Dallas,2024-08-24T23:30Z
+27,Sat Aug 24 2024,19:30,EDT/-0400,Inter Miami CF,2-0,2-0,FC Cincinnati,2024-08-24T23:30Z
+27,Sat Aug 24 2024,19:30,EDT/-0400,New York City FC,2-2,2-0,Chicago Fire,2024-08-24T23:30Z
+27,Sat Aug 24 2024,20:30,EDT/-0400,Houston Dynamo,0-1,0-0,Toronto FC,2024-08-25T00:30Z
+27,Sat Aug 24 2024,20:30,EDT/-0400,Sporting Kansas City,3-0,1-0,Orlando City,2024-08-25T00:30Z
+27,Wed Aug 28 2024,19:30,EDT/-0400,Philadelphia Union,0-1,0-0,Columbus Crew,2024-08-28T23:30Z
+28,Sat Aug 31 2024,22:30,EDT/-0400,Portland Timbers,1-0,0-0,Seattle Sounders,2024-09-01T02:30Z
+28,Sat Aug 31 2024,22:30,EDT/-0400,San Jose Earthquakes,1-2,1-1,Minnesota United FC,2024-09-01T02:30Z
+28,Sat Aug 31 2024,20:30,EDT/-0400,Chicago Fire,1-4,0-1,Inter Miami CF,2024-09-01T00:30Z
+28,Sat Aug 31 2024,22:30,EDT/-0400,Los Angeles FC,0-2,0-1,Houston Dynamo,2024-09-01T02:30Z
+28,Sat Aug 31 2024,21:30,EDT/-0400,Real Salt Lake,2-0,1-0,New England Revolution,2024-09-01T01:30Z
+28,Sat Aug 31 2024,19:30,EDT/-0400,Charlotte FC,0-1,0-0,Atlanta United FC,2024-08-31T23:30Z
+28,Sat Aug 31 2024,19:30,EDT/-0400,Columbus Crew,4-2,1-1,New York City FC,2024-08-31T23:30Z
+28,Sat Aug 31 2024,19:30,EDT/-0400,FC Cincinnati,4-1,1-0,CF Montréal,2024-08-31T23:30Z
+28,Sat Aug 31 2024,19:30,EDT/-0400,New York RB,0-2,0-2,Philadelphia Union,2024-08-31T23:30Z
+28,Sat Aug 31 2024,19:30,EDT/-0400,Orlando City,3-0,2-0,Nashville SC,2024-08-31T23:30Z
+28,Sat Aug 31 2024,19:30,EDT/-0400,Toronto FC,1-3,0-0,D.C. United,2024-08-31T23:30Z
+28,Sat Aug 31 2024,20:30,EDT/-0400,Austin FC,0-1,0-0,Vancouver Whitecaps,2024-09-01T00:30Z
+28,Sat Aug 31 2024,20:30,EDT/-0400,FC Dallas,2-3,1-1,Colorado Rapids,2024-09-01T00:30Z
+28,Sun Sep 1 2024,14:45,EDT/-0400,St. Louis City SC,2-1,1-0,Los Angeles Galaxy,2024-09-01T18:45Z
+17,Sat Sep 7 2024,19:30,EDT/-0400,Columbus Crew,0-4,0-1,Seattle Sounders,2024-09-07T23:30Z
+8,Sat Sep 7 2024,22:30,EDT/-0400,Vancouver Whitecaps,0-0,0-0,FC Dallas,2024-09-08T02:30Z
+29,Sat Sep 7 2024,20:30,EDT/-0400,Chicago Fire,1-2,0-2,D.C. United,2024-09-08T00:30Z
+23,Sat Sep 7 2024,20:30,EDT/-0400,Houston Dynamo,0-0,0-0,Los Angeles FC,2024-09-08T00:30Z
+29,Sat Sep 7 2024,19:30,EDT/-0400,New York RB,1-1,0-0,Sporting Kansas City,2024-09-07T23:30Z
+29,Sat Sep 7 2024,19:30,EDT/-0400,New England Revolution,2-2,2-1,St. Louis City SC,2024-09-07T23:30Z
+29,Sat Sep 14 2024,22:30,EDT/-0400,Los Angeles Galaxy,,,Los Angeles FC,2024-09-15T02:30Z
+29,Sat Sep 14 2024,22:30,EDT/-0400,Vancouver Whitecaps,,,San Jose Earthquakes,2024-09-15T02:30Z
+29,Sat Sep 14 2024,19:30,EDT/-0400,Atlanta United FC,,,Nashville SC,2024-09-14T23:30Z
+29,Sat Sep 14 2024,19:30,EDT/-0400,CF Montréal,,,Charlotte FC,2024-09-14T23:30Z
+29,Sat Sep 14 2024,19:30,EDT/-0400,D.C. United,,,New York City FC,2024-09-14T23:30Z
+29,Sat Sep 14 2024,19:30,EDT/-0400,FC Cincinnati,,,Columbus Crew,2024-09-14T23:30Z
+29,Sat Sep 14 2024,19:30,EDT/-0400,Inter Miami CF,,,Philadelphia Union,2024-09-14T23:30Z
+29,Sat Sep 14 2024,19:30,EDT/-0400,Orlando City,,,New England Revolution,2024-09-14T23:30Z
+29,Sat Sep 14 2024,19:30,EDT/-0400,Toronto FC,,,Austin FC,2024-09-14T23:30Z
+29,Sat Sep 14 2024,20:30,EDT/-0400,Chicago Fire,,,New York RB,2024-09-15T00:30Z
+29,Sat Sep 14 2024,20:30,EDT/-0400,Houston Dynamo,,,Real Salt Lake,2024-09-15T00:30Z
+29,Sat Sep 14 2024,20:30,EDT/-0400,St. Louis City SC,,,Minnesota United FC,2024-09-15T00:30Z
+29,Sat Sep 14 2024,21:30,EDT/-0400,Colorado Rapids,,,Portland Timbers,2024-09-15T01:30Z
+29,Sun Sep 15 2024,19:15,EDT/-0400,Seattle Sounders,,,Sporting Kansas City,2024-09-15T23:15Z
+30,Wed Sep 18 2024,20:30,EDT/-0400,Houston Dynamo,,,Vancouver Whitecaps,2024-09-19T00:30Z
+30,Wed Sep 18 2024,22:30,EDT/-0400,Portland Timbers,,,Los Angeles Galaxy,2024-09-19T02:30Z
+30,Wed Sep 18 2024,19:30,EDT/-0400,Atlanta United FC,,,Inter Miami CF,2024-09-18T23:30Z
+30,Wed Sep 18 2024,19:30,EDT/-0400,New England Revolution,,,CF Montréal,2024-09-18T23:30Z
+30,Wed Sep 18 2024,19:30,EDT/-0400,New York City FC,,,Philadelphia Union,2024-09-18T23:30Z
+30,Wed Sep 18 2024,19:30,EDT/-0400,Toronto FC,,,Columbus Crew,2024-09-18T23:30Z
+30,Wed Sep 18 2024,20:15,EDT/-0400,Orlando City,,,Charlotte FC,2024-09-19T00:15Z
+30,Wed Sep 18 2024,22:30,EDT/-0400,Los Angeles FC,,,Austin FC,2024-09-19T02:30Z
+30,Wed Sep 18 2024,20:30,EDT/-0400,Minnesota United FC,,,FC Cincinnati,2024-09-19T00:30Z
+30,Wed Sep 18 2024,20:30,EDT/-0400,Nashville SC,,,Chicago Fire,2024-09-19T00:30Z
+30,Wed Sep 18 2024,20:30,EDT/-0400,Sporting Kansas City,,,Colorado Rapids,2024-09-19T00:30Z
+30,Wed Sep 18 2024,21:30,EDT/-0400,Real Salt Lake,,,FC Dallas,2024-09-19T01:30Z
+30,Wed Sep 18 2024,22:30,EDT/-0400,Seattle Sounders,,,San Jose Earthquakes,2024-09-19T02:30Z
+31,Sat Sep 21 2024,22:30,EDT/-0400,Los Angeles Galaxy,,,Vancouver Whitecaps,2024-09-22T02:30Z
+31,Sat Sep 21 2024,22:30,EDT/-0400,San Jose Earthquakes,,,St. Louis City SC,2024-09-22T02:30Z
+31,Sat Sep 21 2024,14:00,EDT/-0400,New York City FC,,,Inter Miami CF,2024-09-21T18:00Z
+31,Sat Sep 21 2024,16:00,EDT/-0400,Charlotte FC,,,New England Revolution,2024-09-21T20:00Z
+31,Sat Sep 21 2024,19:30,EDT/-0400,CF Montréal,,,Chicago Fire,2024-09-21T23:30Z
+31,Sat Sep 21 2024,19:30,EDT/-0400,Columbus Crew,,,Orlando City,2024-09-21T23:30Z
+31,Sat Sep 21 2024,19:30,EDT/-0400,New York RB,,,Atlanta United FC,2024-09-21T23:30Z
+31,Sat Sep 21 2024,20:30,EDT/-0400,Austin FC,,,Houston Dynamo,2024-09-22T00:30Z
+31,Sat Sep 21 2024,20:30,EDT/-0400,FC Dallas,,,Los Angeles FC,2024-09-22T00:30Z
+31,Sat Sep 21 2024,20:30,EDT/-0400,Nashville SC,,,FC Cincinnati,2024-09-22T00:30Z
+31,Sat Sep 21 2024,20:30,EDT/-0400,Sporting Kansas City,,,Minnesota United FC,2024-09-22T00:30Z
+31,Sat Sep 21 2024,21:30,EDT/-0400,Colorado Rapids,,,Toronto FC,2024-09-22T01:30Z
+31,Sat Sep 21 2024,21:30,EDT/-0400,Real Salt Lake,,,Portland Timbers,2024-09-22T01:30Z
+31,Sun Sep 22 2024,18:15,EDT/-0400,Philadelphia Union,,,D.C. United,2024-09-22T22:15Z
+32,Sat Sep 28 2024,22:36,EDT/-0400,Vancouver Whitecaps,,,Portland Timbers,2024-09-29T02:36Z
+32,Sat Sep 28 2024,19:30,EDT/-0400,Philadelphia Union,,,Atlanta United FC,2024-09-28T23:30Z
+32,Sat Sep 28 2024,19:30,EDT/-0400,CF Montréal,,,San Jose Earthquakes,2024-09-28T23:30Z
+32,Sat Sep 28 2024,19:30,EDT/-0400,D.C. United,,,Columbus Crew,2024-09-28T23:30Z
+32,Sat Sep 28 2024,19:30,EDT/-0400,FC Cincinnati,,,Los Angeles FC,2024-09-28T23:30Z
+32,Sat Sep 28 2024,19:30,EDT/-0400,Inter Miami CF,,,Charlotte FC,2024-09-28T23:30Z
+32,Sat Sep 28 2024,19:30,EDT/-0400,New England Revolution,,,Nashville SC,2024-09-28T23:30Z
+32,Sat Sep 28 2024,19:30,EDT/-0400,New York RB,,,New York City FC,2024-09-28T23:30Z
+32,Sat Sep 28 2024,22:30,EDT/-0400,Seattle Sounders,,,Houston Dynamo,2024-09-29T02:30Z
+32,Sat Sep 28 2024,20:30,EDT/-0400,Austin FC,,,Real Salt Lake,2024-09-29T00:30Z
+32,Sat Sep 28 2024,20:30,EDT/-0400,Chicago Fire,,,Toronto FC,2024-09-29T00:30Z
+32,Sat Sep 28 2024,20:30,EDT/-0400,FC Dallas,,,Orlando City,2024-09-29T00:30Z
+32,Sat Sep 28 2024,20:30,EDT/-0400,Minnesota United FC,,,Colorado Rapids,2024-09-29T00:30Z
+32,Sat Sep 28 2024,20:30,EDT/-0400,St. Louis City SC,,,Sporting Kansas City,2024-09-29T00:30Z
+33,Wed Oct 2 2024,22:30,EDT/-0400,Vancouver Whitecaps,,,Seattle Sounders,2024-10-03T02:30Z
+33,Wed Oct 2 2024,22:30,EDT/-0400,San Jose Earthquakes,,,FC Dallas,2024-10-03T02:30Z
+33,Wed Oct 2 2024,19:30,EDT/-0400,Atlanta United FC,,,CF Montréal,2024-10-02T23:30Z
+33,Wed Oct 2 2024,19:30,EDT/-0400,Charlotte FC,,,Chicago Fire,2024-10-02T23:30Z
+33,Wed Oct 2 2024,19:30,EDT/-0400,Columbus Crew,,,Inter Miami CF,2024-10-02T23:30Z
+33,Wed Oct 2 2024,19:30,EDT/-0400,New York City FC,,,FC Cincinnati,2024-10-02T23:30Z
+33,Wed Oct 2 2024,19:30,EDT/-0400,Orlando City,,,Philadelphia Union,2024-10-02T23:30Z
+33,Wed Oct 2 2024,19:30,EDT/-0400,Toronto FC,,,New York RB,2024-10-02T23:30Z
+33,Wed Oct 2 2024,20:30,EDT/-0400,Houston Dynamo,,,New England Revolution,2024-10-03T00:30Z
+33,Wed Oct 2 2024,20:30,EDT/-0400,Nashville SC,,,D.C. United,2024-10-03T00:30Z
+33,Wed Oct 2 2024,21:30,EDT/-0400,Colorado Rapids,,,Los Angeles Galaxy,2024-10-03T01:30Z
+33,Wed Oct 2 2024,21:30,EDT/-0400,Real Salt Lake,,,Minnesota United FC,2024-10-03T01:30Z
+33,Wed Oct 2 2024,22:30,EDT/-0400,Los Angeles FC,,,St. Louis City SC,2024-10-03T02:30Z
+33,Wed Oct 2 2024,22:30,EDT/-0400,Portland Timbers,,,Austin FC,2024-10-03T02:30Z
+34,Sat Oct 5 2024,19:30,EDT/-0400,New England Revolution,,,D.C. United,2024-10-05T23:30Z
+34,Sat Oct 5 2024,22:30,EDT/-0400,Los Angeles Galaxy,,,Austin FC,2024-10-06T02:30Z
+34,Sat Oct 5 2024,16:00,EDT/-0400,Vancouver Whitecaps,,,Minnesota United FC,2024-10-05T20:00Z
+34,Sat Oct 5 2024,19:30,EDT/-0400,Atlanta United FC,,,New York RB,2024-10-05T23:30Z
+34,Sat Oct 5 2024,19:30,EDT/-0400,Charlotte FC,,,CF Montréal,2024-10-05T23:30Z
+34,Sat Oct 5 2024,19:30,EDT/-0400,Columbus Crew,,,Philadelphia Union,2024-10-05T23:30Z
+34,Sat Oct 5 2024,19:30,EDT/-0400,FC Cincinnati,,,Orlando City,2024-10-05T23:30Z
+34,Sat Oct 5 2024,22:30,EDT/-0400,San Jose Earthquakes,,,Real Salt Lake,2024-10-06T02:30Z
+34,Sat Oct 5 2024,19:30,EDT/-0400,Toronto FC,,,Inter Miami CF,2024-10-05T23:30Z
+34,Sat Oct 5 2024,20:30,EDT/-0400,Sporting Kansas City,,,Los Angeles FC,2024-10-06T00:30Z
+34,Sat Oct 5 2024,20:30,EDT/-0400,St. Louis City SC,,,Houston Dynamo,2024-10-06T00:30Z
+34,Sat Oct 5 2024,21:30,EDT/-0400,Colorado Rapids,,,Seattle Sounders,2024-10-06T01:30Z
+34,Sun Oct 6 2024,16:00,EDT/-0400,New York City FC,,,Nashville SC,2024-10-06T20:00Z
+34,Sun Oct 6 2024,19:00,EDT/-0400,Portland Timbers,,,FC Dallas,2024-10-06T23:00Z
+16,Sat Oct 12 2024,19:30,EDT/-0400,Columbus Crew,,,New England Revolution,2024-10-12T23:30Z
+27,Sun Oct 13 2024,19:30,EDT/-0400,Vancouver Whitecaps,,,Los Angeles FC,2024-10-13T23:30Z
+35,Sat Oct 19 2024,18:00,EDT/-0400,CF Montréal,,,New York City FC,2024-10-19T22:00Z
+35,Sat Oct 19 2024,18:00,EDT/-0400,Chicago Fire,,,Nashville SC,2024-10-19T22:00Z
+35,Sat Oct 19 2024,18:00,EDT/-0400,D.C. United,,,Charlotte FC,2024-10-19T22:00Z
+35,Sat Oct 19 2024,18:00,EDT/-0400,Inter Miami CF,,,New England Revolution,2024-10-19T22:00Z
+35,Sat Oct 19 2024,18:00,EDT/-0400,New York RB,,,Columbus Crew,2024-10-19T22:00Z
+35,Sat Oct 19 2024,18:00,EDT/-0400,Orlando City,,,Atlanta United FC,2024-10-19T22:00Z
+35,Sat Oct 19 2024,18:00,EDT/-0400,Philadelphia Union,,,FC Cincinnati,2024-10-19T22:00Z
+35,Sat Oct 19 2024,21:00,EDT/-0400,Austin FC,,,Colorado Rapids,2024-10-20T01:00Z
+35,Sat Oct 19 2024,21:00,EDT/-0400,FC Dallas,,,Sporting Kansas City,2024-10-20T01:00Z
+35,Sat Oct 19 2024,21:00,EDT/-0400,Houston Dynamo,,,Los Angeles Galaxy,2024-10-20T01:00Z
+35,Sat Oct 19 2024,21:00,EDT/-0400,Los Angeles FC,,,San Jose Earthquakes,2024-10-20T01:00Z
+35,Sat Oct 19 2024,21:00,EDT/-0400,Minnesota United FC,,,St. Louis City SC,2024-10-20T01:00Z
+35,Sat Oct 19 2024,21:00,EDT/-0400,Real Salt Lake,,,Vancouver Whitecaps,2024-10-20T01:00Z
+35,Sat Oct 19 2024,21:00,EDT/-0400,Seattle Sounders,,,Portland Timbers,2024-10-20T01:00Z

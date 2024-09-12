@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Sat Apr 13 2024,18:30,-03/-0300,Criciúma - SC,1-1,1-0,Juventude - RS,,2024-04-13T21:30Z
+1,Sat Apr 13 2024,21:00,-03/-0300,Fluminense RJ,2-2,1-0,Red Bull Bragantino,,2024-04-14T00:00Z
+1,Sat Apr 13 2024,21:00,-03/-0300,São Paulo FC,1-2,0-0,Fortaleza - CE,,2024-04-14T00:00Z
+1,Sat Apr 13 2024,18:30,-03/-0300,Internacional,2-1,0-0,Bahia - BA,,2024-04-13T21:30Z
+1,Sun Apr 14 2024,16:00,-03/-0300,Vasco da Gama - RJ,2-1,2-0,Grêmio Porto Alegre,,2024-04-14T19:00Z
+1,Sun Apr 14 2024,16:00,-03/-0300,Corinthians SP,0-0,0-0,Atlético Mineiro,,2024-04-14T19:00Z
+1,Sun Apr 14 2024,16:00,-03/-0300,Athletico Paranaense,4-0,3-0,Cuiabá - MT,,2024-04-14T19:00Z
+1,Sun Apr 14 2024,16:00,-03/-0300,Atlético Goianiense,1-2,0-1,Flamengo RJ,,2024-04-14T19:00Z
+1,Sun Apr 14 2024,17:00,-03/-0300,Cruzeiro,3-2,1-1,Botafogo - RJ,,2024-04-14T20:00Z
+1,Sun Apr 14 2024,18:30,-03/-0300,Vitória - BA,0-1,0-1,Palmeiras,,2024-04-14T21:30Z
+2,Tue Apr 16 2024,21:30,-03/-0300,Bahia - BA,2-1,1-1,Fluminense RJ,,2024-04-17T00:30Z
+2,Wed Apr 17 2024,19:00,-03/-0300,Red Bull Bragantino,2-1,1-0,Vasco da Gama - RJ,,2024-04-17T22:00Z
+2,Wed Apr 17 2024,19:00,-03/-0300,Grêmio Porto Alegre,2-0,1-0,Athletico Paranaense,,2024-04-17T22:00Z
+2,Wed Apr 17 2024,20:00,-03/-0300,Atlético Mineiro,1-1,1-0,Criciúma - SC,,2024-04-17T23:00Z
+2,Wed Apr 17 2024,20:00,-03/-0300,Fortaleza - CE,1-1,1-0,Cruzeiro,,2024-04-17T23:00Z
+2,Wed Apr 17 2024,20:00,-03/-0300,Juventude - RS,2-0,0-0,Corinthians SP,,2024-04-17T23:00Z
+2,Wed Apr 17 2024,20:00,-03/-0300,Palmeiras,0-1,0-1,Internacional,,2024-04-17T23:00Z
+2,Wed Apr 17 2024,21:30,-03/-0300,Flamengo RJ,2-1,1-0,São Paulo FC,,2024-04-18T00:30Z
+2,Thu Apr 18 2024,21:30,-03/-0300,Botafogo - RJ,1-0,1-0,Atlético Goianiense,,2024-04-19T00:30Z
+3,Sat Apr 20 2024,21:00,-03/-0300,Atlético Mineiro,3-0,3-0,Cruzeiro,,2024-04-21T00:00Z
+3,Sat Apr 20 2024,16:00,-03/-0300,Fluminense RJ,2-1,1-0,Vasco da Gama - RJ,,2024-04-20T19:00Z
+3,Sat Apr 20 2024,18:30,-03/-0300,Red Bull Bragantino,1-0,1-0,Corinthians SP,,2024-04-20T21:30Z
+3,Sat Apr 20 2024,18:30,-03/-0300,Grêmio Porto Alegre,1-0,1-0,Cuiabá - MT,,2024-04-20T21:30Z
+3,Sun Apr 21 2024,16:00,-03/-0300,Athletico Paranaense,1-0,0-0,Internacional,,2024-04-21T19:00Z
+3,Sun Apr 21 2024,16:00,-03/-0300,Palmeiras,0-0,0-0,Flamengo RJ,,2024-04-21T19:00Z
+3,Sun Apr 21 2024,16:00,-03/-0300,Vitória - BA,2-2,1-0,Bahia - BA,,2024-04-21T19:00Z
+3,Sun Apr 21 2024,18:30,-03/-0300,Atlético Goianiense,0-3,0-1,São Paulo FC,,2024-04-21T21:30Z
+3,Sun Apr 21 2024,18:30,-03/-0300,Botafogo - RJ,5-1,2-0,Juventude - RS,,2024-04-21T21:30Z
+4,Sat Apr 27 2024,18:30,-03/-0300,Cuiabá - MT,0-3,0-1,Atlético Mineiro,,2024-04-27T21:30Z
+4,Sat Apr 27 2024,16:00,-03/-0300,Vasco da Gama - RJ,0-4,0-1,Criciúma - SC,,2024-04-27T19:00Z
+4,Sat Apr 27 2024,21:00,-03/-0300,Bahia - BA,1-0,1-0,Grêmio Porto Alegre,,2024-04-28T00:00Z
+4,Sun Apr 28 2024,11:00,-03/-0300,Flamengo RJ,0-2,0-0,Botafogo - RJ,,2024-04-28T14:00Z
+4,Sun Apr 28 2024,20:00,-03/-0300,Internacional,1-1,0-0,Atlético Goianiense,,2024-04-28T23:00Z
+4,Sun Apr 28 2024,18:30,-03/-0300,Juventude - RS,1-1,1-0,Athletico Paranaense,,2024-04-28T21:30Z
+4,Sun Apr 28 2024,16:00,-03/-0300,Corinthians SP,3-0,2-0,Fluminense RJ,,2024-04-28T19:00Z
+4,Sun Apr 28 2024,16:00,-03/-0300,Cruzeiro,3-1,0-0,Vitória - BA,,2024-04-28T19:00Z
+4,Sun Apr 28 2024,18:30,-03/-0300,Fortaleza - CE,1-1,1-1,Red Bull Bragantino,,2024-04-28T21:30Z
+4,Mon Apr 29 2024,20:00,-03/-0300,São Paulo FC,0-0,0-0,Palmeiras,,2024-04-29T23:00Z
+5,Sat May 4 2024,18:30,-03/-0300,Red Bull Bragantino,1-1,1-0,Flamengo RJ,,2024-05-04T21:30Z
+5,Sat May 4 2024,21:00,-03/-0300,Corinthians SP,0-0,0-0,Fortaleza - CE,,2024-05-05T00:00Z
+5,Sat May 4 2024,16:00,-03/-0300,Fluminense RJ,2-2,1-0,Atlético Mineiro,,2024-05-04T19:00Z
+5,Sun May 5 2024,18:30,-03/-0300,Cuiabá - MT,0-2,0-1,Palmeiras,,2024-05-05T21:30Z
+5,Sun May 5 2024,18:30,-03/-0300,Botafogo - RJ,1-2,0-1,Bahia - BA,,2024-05-05T21:30Z
+5,Sun May 5 2024,16:00,-03/-0300,Athletico Paranaense,1-0,1-0,Vasco da Gama - RJ,,2024-05-05T19:00Z
+5,Sun May 5 2024,16:00,-03/-0300,Vitória - BA,1-3,0-1,São Paulo FC,,2024-05-05T19:00Z
+6,Sat May 11 2024,16:00,-03/-0300,Flamengo RJ,2-0,1-0,Corinthians SP,,2024-05-11T19:00Z
+6,Sun May 12 2024,18:30,-03/-0300,Bahia - BA,1-0,1-0,Red Bull Bragantino,,2024-05-12T21:30Z
+6,Sun May 12 2024,16:00,-03/-0300,Fortaleza - CE,1-1,1-1,Botafogo - RJ,,2024-05-12T19:00Z
+6,Sun May 12 2024,16:00,-03/-0300,Atlético Goianiense,0-1,0-0,Cruzeiro,,2024-05-12T19:00Z
+6,Sun May 12 2024,18:30,-03/-0300,Vasco da Gama - RJ,2-1,0-0,Vitória - BA,,2024-05-12T21:30Z
+6,Sun May 12 2024,16:00,-03/-0300,Palmeiras,0-2,0-1,Athletico Paranaense,,2024-05-12T19:00Z
+6,Sun May 12 2024,,,Atlético Mineiro,,,Grêmio Porto Alegre,postponed,
+6,Mon May 13 2024,20:00,-03/-0300,São Paulo FC,2-1,1-1,Fluminense RJ,,2024-05-13T23:00Z
+7,Sat Jun 1 2024,18:30,-03/-0300,Cuiabá - MT,0-1,0-0,Internacional,,2024-06-01T21:30Z
+7,Sat Jun 1 2024,16:00,-03/-0300,Grêmio Porto Alegre,0-2,0-1,Red Bull Bragantino,,2024-06-01T19:00Z
+7,Sat Jun 1 2024,16:00,-03/-0300,Vitória - BA,0-2,0-1,Atlético Goianiense,,2024-06-01T19:00Z
+7,Sat Jun 1 2024,18:30,-03/-0300,Fluminense RJ,1-1,1-0,Juventude - RS,,2024-06-01T21:30Z
+7,Sat Jun 1 2024,21:00,-03/-0300,Corinthians SP,0-1,0-0,Botafogo - RJ,,2024-06-02T00:00Z
+7,Sun Jun 2 2024,16:00,-03/-0300,Criciúma - SC,1-2,0-0,Palmeiras,,2024-06-02T19:00Z
+7,Sun Jun 2 2024,18:30,-03/-0300,Fortaleza - CE,1-0,1-0,Athletico Paranaense,,2024-06-02T21:30Z
+7,Sun Jun 2 2024,18:30,-03/-0300,São Paulo FC,2-0,1-0,Cruzeiro,,2024-06-02T21:30Z
+7,Sun Jun 2 2024,16:00,-03/-0300,Vasco da Gama - RJ,1-6,1-3,Flamengo RJ,,2024-06-02T19:00Z
+7,Sun Jun 2 2024,16:00,-03/-0300,Atlético Mineiro,1-1,0-0,Bahia - BA,,2024-06-02T19:00Z
+2,Wed Jun 5 2024,20:00,-03/-0300,Cuiabá - MT,0-0,0-0,Vitória - BA,,2024-06-05T23:00Z
+5,Wed Jun 5 2024,19:00,-03/-0300,Juventude - RS,1-0,1-0,Atlético Goianiense,,2024-06-05T22:00Z
+6,Sun Jun 9 2024,16:00,-03/-0300,Criciúma - SC,2-5,0-3,Cuiabá - MT,,2024-06-09T19:00Z
+8,Tue Jun 11 2024,19:00,-03/-0300,Atlético Goianiense,2-2,0-1,Corinthians SP,,2024-06-11T22:00Z
+8,Tue Jun 11 2024,19:00,-03/-0300,Juventude - RS,1-1,1-1,Vitória - BA,,2024-06-11T22:00Z
+8,Tue Jun 11 2024,20:00,-03/-0300,Botafogo - RJ,1-0,0-0,Fluminense RJ,,2024-06-11T23:00Z
+8,Tue Jun 11 2024,21:30,-03/-0300,Red Bull Bragantino,1-2,1-2,Atlético Mineiro,,2024-06-12T00:30Z
+8,Thu Jun 13 2024,21:30,-03/-0300,Palmeiras,2-0,1-0,Vasco da Gama - RJ,,2024-06-14T00:30Z
+8,Thu Jun 13 2024,19:00,-03/-0300,Cruzeiro,2-1,1-0,Cuiabá - MT,,2024-06-13T22:00Z
+8,Thu Jun 13 2024,21:30,-03/-0300,Bahia - BA,1-0,0-0,Fortaleza - CE,,2024-06-14T00:30Z
+8,Thu Jun 13 2024,20:00,-03/-0300,Internacional,0-0,0-0,São Paulo FC,,2024-06-13T23:00Z
+8,Thu Jun 13 2024,20:00,-03/-0300,Flamengo RJ,2-1,1-0,Grêmio Porto Alegre,,2024-06-13T23:00Z
+8,Thu Jun 13 2024,20:00,-03/-0300,Athletico Paranaense,3-1,1-1,Criciúma - SC,,2024-06-13T23:00Z
+9,Sat Jun 15 2024,18:30,-03/-0300,Red Bull Bragantino,2-1,1-1,Juventude - RS,,2024-06-15T21:30Z
+9,Sat Jun 15 2024,21:00,-03/-0300,Fluminense RJ,1-2,1-0,Atlético Goianiense,,2024-06-16T00:00Z
+9,Sun Jun 16 2024,18:30,-03/-0300,Grêmio Porto Alegre,1-2,1-1,Botafogo - RJ,,2024-06-16T21:30Z
+9,Sun Jun 16 2024,18:30,-03/-0300,Vasco da Gama - RJ,0-0,0-0,Cruzeiro,,2024-06-16T21:30Z
+9,Sun Jun 16 2024,16:00,-03/-0300,Vitória - BA,2-1,1-0,Internacional,,2024-06-16T19:00Z
+9,Sun Jun 16 2024,18:30,-03/-0300,Cuiabá - MT,5-0,4-0,Fortaleza - CE,,2024-06-16T21:30Z
+9,Sun Jun 16 2024,16:00,-03/-0300,Athletico Paranaense,1-1,0-0,Flamengo RJ,,2024-06-16T19:00Z
+9,Sun Jun 16 2024,16:00,-03/-0300,Corinthians SP,2-2,2-2,São Paulo FC,,2024-06-16T19:00Z
+9,Sun Jun 16 2024,18:30,-03/-0300,Criciúma - SC,2-2,1-0,Bahia - BA,,2024-06-16T21:30Z
+9,Mon Jun 17 2024,20:30,-03/-0300,Atlético Mineiro,0-4,0-1,Palmeiras,,2024-06-17T23:30Z
+10,Wed Jun 19 2024,20:00,-03/-0300,São Paulo FC,0-1,0-0,Cuiabá - MT,,2024-06-19T23:00Z
+10,Wed Jun 19 2024,21:30,-03/-0300,Cruzeiro,2-0,1-0,Fluminense RJ,,2024-06-20T00:30Z
+10,Wed Jun 19 2024,21:30,-03/-0300,Internacional,1-0,1-0,Corinthians SP,,2024-06-20T00:30Z
+10,Wed Jun 19 2024,20:00,-03/-0300,Juventude - RS,2-0,0-0,Vasco da Gama - RJ,,2024-06-19T23:00Z
+10,Wed Jun 19 2024,19:00,-03/-0300,Atlético Goianiense,1-2,1-0,Criciúma - SC,,2024-06-19T22:00Z
+10,Wed Jun 19 2024,19:00,-03/-0300,Botafogo - RJ,1-1,0-0,Athletico Paranaense,,2024-06-19T22:00Z
+10,Wed Jun 19 2024,20:00,-03/-0300,Fortaleza - CE,1-0,1-0,Grêmio Porto Alegre,,2024-06-19T23:00Z
+10,Thu Jun 20 2024,18:30,-03/-0300,Vitória - BA,4-2,2-1,Atlético Mineiro,,2024-06-20T21:30Z
+10,Thu Jun 20 2024,21:30,-03/-0300,Palmeiras,2-1,1-0,Red Bull Bragantino,,2024-06-21T00:30Z
+10,Thu Jun 20 2024,20:00,-03/-0300,Flamengo RJ,2-1,1-1,Bahia - BA,,2024-06-20T23:00Z
+11,Sat Jun 22 2024,16:00,-03/-0300,Criciúma - SC,2-1,1-0,Botafogo - RJ,,2024-06-22T19:00Z
+11,Sat Jun 22 2024,18:30,-03/-0300,Cuiabá - MT,0-0,0-0,Atlético Goianiense,,2024-06-22T21:30Z
+11,Sat Jun 22 2024,17:30,-03/-0300,Grêmio Porto Alegre,0-1,0-0,Internacional,,2024-06-22T20:30Z
+11,Sat Jun 22 2024,21:30,-03/-0300,Vasco da Gama - RJ,4-1,2-1,São Paulo FC,,2024-06-23T00:30Z
+11,Sun Jun 23 2024,18:30,-03/-0300,Palmeiras,3-1,0-0,Juventude - RS,,2024-06-23T21:30Z
+11,Sun Jun 23 2024,18:30,-03/-0300,Red Bull Bragantino,2-1,1-1,Vitória - BA,,2024-06-23T21:30Z
+11,Sun Jun 23 2024,18:30,-03/-0300,Atlético Mineiro,1-1,0-1,Fortaleza - CE,,2024-06-23T21:30Z
+11,Sun Jun 23 2024,16:00,-03/-0300,Fluminense RJ,0-1,0-0,Flamengo RJ,,2024-06-23T19:00Z
+11,Sun Jun 23 2024,16:00,-03/-0300,Athletico Paranaense,1-1,1-0,Corinthians SP,,2024-06-23T19:00Z
+11,Sun Jun 23 2024,16:00,-03/-0300,Bahia - BA,4-1,1-1,Cruzeiro,,2024-06-23T19:00Z
+12,Wed Jun 26 2024,21:30,-03/-0300,Fortaleza - CE,3-0,1-0,Palmeiras,,2024-06-27T00:30Z
+12,Wed Jun 26 2024,21:30,-03/-0300,Internacional,1-2,0-0,Atlético Mineiro,,2024-06-27T00:30Z
+12,Wed Jun 26 2024,21:30,-03/-0300,Bahia - BA,2-1,1-1,Vasco da Gama - RJ,,2024-06-27T00:30Z
+12,Wed Jun 26 2024,20:00,-03/-0300,Juventude - RS,2-1,1-1,Flamengo RJ,,2024-06-26T23:00Z
+12,Wed Jun 26 2024,19:00,-03/-0300,Botafogo - RJ,2-1,1-1,Red Bull Bragantino,,2024-06-26T22:00Z
+12,Wed Jun 26 2024,19:00,-03/-0300,Cruzeiro,2-0,1-0,Athletico Paranaense,,2024-06-26T22:00Z
+12,Wed Jun 26 2024,20:00,-03/-0300,Atlético Goianiense,1-1,0-0,Grêmio Porto Alegre,,2024-06-26T23:00Z
+12,Wed Jun 26 2024,20:00,-03/-0300,Corinthians SP,1-1,0-1,Cuiabá - MT,,2024-06-26T23:00Z
+12,Thu Jun 27 2024,20:00,-03/-0300,São Paulo FC,2-1,2-0,Criciúma - SC,,2024-06-27T23:00Z
+12,Thu Jun 27 2024,19:00,-03/-0300,Fluminense RJ,0-1,0-0,Vitória - BA,,2024-06-27T22:00Z
+13,Sat Jun 29 2024,18:30,-03/-0300,Cuiabá - MT,1-1,1-1,Red Bull Bragantino,,2024-06-29T21:30Z
+13,Sat Jun 29 2024,18:30,-03/-0300,Vasco da Gama - RJ,1-1,0-0,Botafogo - RJ,,2024-06-29T21:30Z
+13,Sun Jun 30 2024,18:30,-03/-0300,Criciúma - SC,1-1,0-1,Internacional,,2024-06-30T21:30Z
+13,Sun Jun 30 2024,18:30,-03/-0300,Flamengo RJ,2-1,1-1,Cruzeiro,,2024-06-30T21:30Z
+13,Sun Jun 30 2024,18:30,-03/-0300,Vitória - BA,0-1,0-0,Athletico Paranaense,,2024-06-30T21:30Z
+13,Sun Jun 30 2024,16:00,-03/-0300,Grêmio Porto Alegre,1-0,0-0,Fluminense RJ,,2024-06-30T19:00Z
+13,Sun Jun 30 2024,11:00,-03/-0300,Atlético Mineiro,1-1,1-1,Atlético Goianiense,,2024-06-30T14:00Z
+13,Sun Jun 30 2024,16:00,-03/-0300,Fortaleza - CE,2-1,2-0,Juventude - RS,,2024-06-30T19:00Z
+13,Sun Jun 30 2024,16:00,-03/-0300,São Paulo FC,3-1,2-0,Bahia - BA,,2024-06-30T19:00Z
+13,Mon Jul 1 2024,20:00,-03/-0300,Palmeiras,2-0,0-0,Corinthians SP,,2024-07-01T23:00Z
+14,Wed Jul 3 2024,20:00,-03/-0300,Vasco da Gama - RJ,2-0,1-0,Fortaleza - CE,,2024-07-03T23:00Z
+14,Wed Jul 3 2024,21:30,-03/-0300,Athletico Paranaense,1-2,1-1,São Paulo FC,,2024-07-04T00:30Z
+14,Wed Jul 3 2024,21:30,-03/-0300,Red Bull Bragantino,3-1,3-1,Atlético Goianiense,,2024-07-04T00:30Z
+14,Wed Jul 3 2024,21:30,-03/-0300,Atlético Mineiro,2-4,0-2,Flamengo RJ,,2024-07-04T00:30Z
+14,Wed Jul 3 2024,19:00,-03/-0300,Cuiabá - MT,1-2,1-1,Botafogo - RJ,,2024-07-03T22:00Z
+14,Wed Jul 3 2024,20:00,-03/-0300,Criciúma - SC,1-0,0-0,Cruzeiro,,2024-07-03T23:00Z
+14,Thu Jul 4 2024,19:00,-03/-0300,Grêmio Porto Alegre,2-2,1-0,Palmeiras,,2024-07-04T22:00Z
+14,Thu Jul 4 2024,20:00,-03/-0300,Corinthians SP,3-2,2-1,Vitória - BA,,2024-07-04T23:00Z
+14,Thu Jul 4 2024,20:00,-03/-0300,Fluminense RJ,1-1,1-1,Internacional,,2024-07-04T23:00Z
+14,Thu Jul 4 2024,19:00,-03/-0300,Bahia - BA,2-0,0-0,Juventude - RS,,2024-07-04T22:00Z
+15,Sat Jul 6 2024,20:00,-03/-0300,São Paulo FC,2-0,0-0,Red Bull Bragantino,,2024-07-06T23:00Z
+15,Sat Jul 6 2024,20:00,-03/-0300,Flamengo RJ,1-1,0-1,Cuiabá - MT,,2024-07-06T23:00Z
+15,Sun Jul 7 2024,18:30,-03/-0300,Atlético Goianiense,1-2,0-0,Athletico Paranaense,,2024-07-07T21:30Z
+15,Sun Jul 7 2024,20:30,-03/-0300,Botafogo - RJ,3-0,1-0,Atlético Mineiro,,2024-07-07T23:30Z
+15,Sun Jul 7 2024,18:30,-03/-0300,Vitória - BA,2-1,2-1,Criciúma - SC,,2024-07-07T21:30Z
+15,Sun Jul 7 2024,18:30,-03/-0300,Palmeiras,2-0,1-0,Bahia - BA,,2024-07-07T21:30Z
+15,Sun Jul 7 2024,16:00,-03/-0300,Cruzeiro,3-0,2-0,Corinthians SP,,2024-07-07T19:00Z
+15,Sun Jul 7 2024,16:00,-03/-0300,Fortaleza - CE,1-0,0-0,Fluminense RJ,,2024-07-07T19:00Z
+15,Sun Jul 7 2024,16:00,-03/-0300,Juventude - RS,3-0,2-0,Grêmio Porto Alegre,,2024-07-07T19:00Z
+15,Sun Jul 7 2024,18:00,-03/-0300,Internacional,1-2,0-0,Vasco da Gama - RJ,,2024-07-07T21:00Z
+16,Wed Jul 10 2024,19:00,-03/-0300,Athletico Paranaense,1-3,0-2,Bahia - BA,,2024-07-10T22:00Z
+16,Wed Jul 10 2024,18:30,-03/-0300,Grêmio Porto Alegre,0-2,0-2,Cruzeiro,,2024-07-10T21:30Z
+16,Wed Jul 10 2024,19:00,-03/-0300,Vasco da Gama - RJ,2-0,0-0,Corinthians SP,,2024-07-10T22:00Z
+16,Thu Jul 11 2024,19:30,-03/-0300,Palmeiras,3-1,1-1,Atlético Goianiense,,2024-07-11T22:30Z
+16,Thu Jul 11 2024,21:30,-03/-0300,Vitória - BA,0-1,0-0,Botafogo - RJ,,2024-07-12T00:30Z
+16,Thu Jul 11 2024,21:30,-03/-0300,Atlético Mineiro,2-1,2-1,São Paulo FC,,2024-07-12T00:30Z
+16,Thu Jul 11 2024,20:00,-03/-0300,Flamengo RJ,1-2,1-1,Fortaleza - CE,,2024-07-11T23:00Z
+16,Thu Jul 11 2024,20:00,-03/-0300,Criciúma - SC,1-1,0-0,Fluminense RJ,,2024-07-11T23:00Z
+17,Sat Jul 13 2024,16:00,-03/-0300,Cruzeiro,2-1,1-0,Red Bull Bragantino,,2024-07-13T19:00Z
+17,Sat Jul 13 2024,16:00,-03/-0300,Bahia - BA,1-2,0-1,Cuiabá - MT,,2024-07-13T19:00Z
+17,Tue Jul 16 2024,21:00,-03/-0300,Corinthians SP,2-1,0-1,Criciúma - SC,,2024-07-17T00:00Z
+17,Tue Jul 16 2024,19:00,-03/-0300,Juventude - RS,1-1,1-1,Atlético Mineiro,,2024-07-16T22:00Z
+17,Wed Jul 17 2024,,,Internacional,,,Flamengo RJ,postponed,
+17,Wed Jul 17 2024,21:30,-03/-0300,Fortaleza - CE,3-1,2-0,Vitória - BA,,2024-07-18T00:30Z
+17,Wed Jul 17 2024,21:30,-03/-0300,Botafogo - RJ,1-0,0-0,Palmeiras,,2024-07-18T00:30Z
+17,Wed Jul 17 2024,20:00,-03/-0300,São Paulo FC,1-0,1-0,Grêmio Porto Alegre,,2024-07-17T23:00Z
+17,Wed Jul 17 2024,,,Fluminense RJ,,,Athletico Paranaense,postponed,
+17,Wed Jul 17 2024,19:00,-03/-0300,Atlético Goianiense,0-1,0-0,Vasco da Gama - RJ,,2024-07-17T22:00Z
+18,Sat Jul 20 2024,18:30,-03/-0300,Botafogo - RJ,1-0,1-0,Internacional,,2024-07-20T21:30Z
+18,Sat Jul 20 2024,21:00,-03/-0300,Palmeiras,2-0,1-0,Cruzeiro,,2024-07-21T00:00Z
+18,Sat Jul 20 2024,16:00,-03/-0300,Flamengo RJ,2-1,0-1,Criciúma - SC,,2024-07-20T19:00Z
+18,Sun Jul 21 2024,16:00,-03/-0300,Atlético Mineiro,2-0,2-0,Vasco da Gama - RJ,,2024-07-21T19:00Z
+18,Sun Jul 21 2024,20:00,-03/-0300,Cuiabá - MT,0-1,0-0,Fluminense RJ,,2024-07-21T23:00Z
+18,Sun Jul 21 2024,16:00,-03/-0300,Bahia - BA,0-1,0-1,Corinthians SP,,2024-07-21T19:00Z
+18,Sun Jul 21 2024,18:30,-03/-0300,Fortaleza - CE,3-1,1-1,Atlético Goianiense,,2024-07-21T21:30Z
+18,Sun Jul 21 2024,18:30,-03/-0300,Red Bull Bragantino,1-0,1-0,Athletico Paranaense,,2024-07-21T21:30Z
+18,Sun Jul 21 2024,18:30,-03/-0300,Juventude - RS,0-0,0-0,São Paulo FC,,2024-07-21T21:30Z
+18,Sun Jul 21 2024,11:00,-03/-0300,Grêmio Porto Alegre,2-0,0-0,Vitória - BA,,2024-07-21T14:00Z
+19,Wed Jul 24 2024,20:00,-03/-0300,Vitória - BA,1-2,0-1,Flamengo RJ,,2024-07-24T23:00Z
+19,Wed Jul 24 2024,21:30,-03/-0300,Fluminense RJ,1-0,0-0,Palmeiras,,2024-07-25T00:30Z
+19,Wed Jul 24 2024,,,Athletico Paranaense,,,Atlético Mineiro,postponed,
+19,Wed Jul 24 2024,21:30,-03/-0300,Atlético Goianiense,1-1,0-0,Bahia - BA,,2024-07-25T00:30Z
+19,Wed Jul 24 2024,19:30,-03/-0300,São Paulo FC,2-2,1-2,Botafogo - RJ,,2024-07-24T22:30Z
+3,Wed Jul 24 2024,19:00,-03/-0300,Criciúma - SC,1-1,1-0,Fortaleza - CE,,2024-07-24T22:00Z
+19,Wed Jul 24 2024,19:00,-03/-0300,Cruzeiro,2-0,1-0,Juventude - RS,,2024-07-24T22:00Z
+19,Thu Jul 25 2024,20:00,-03/-0300,Corinthians SP,2-2,1-1,Grêmio Porto Alegre,,2024-07-25T23:00Z
+20,Sat Jul 27 2024,19:00,-03/-0300,Palmeiras,0-2,0-0,Vitória - BA,,2024-07-27T22:00Z
+20,Sat Jul 27 2024,21:30,-03/-0300,Fortaleza - CE,1-0,1-0,São Paulo FC,,2024-07-28T00:30Z
+20,Sat Jul 27 2024,21:30,-03/-0300,Botafogo - RJ,0-3,0-2,Cruzeiro,,2024-07-28T00:30Z
+20,Sat Jul 27 2024,20:00,-03/-0300,Bahia - BA,1-1,1-0,Internacional,,2024-07-27T23:00Z
+20,Sat Jul 27 2024,19:00,-03/-0300,Juventude - RS,1-2,0-0,Criciúma - SC,,2024-07-27T22:00Z
+20,Sun Jul 28 2024,19:00,-03/-0300,Atlético Mineiro,2-1,1-1,Corinthians SP,,2024-07-28T22:00Z
+20,Sun Jul 28 2024,19:00,-03/-0300,Grêmio Porto Alegre,1-0,0-0,Vasco da Gama - RJ,,2024-07-28T22:00Z
+20,Sun Jul 28 2024,11:00,-03/-0300,Red Bull Bragantino,0-1,0-1,Fluminense RJ,,2024-07-28T14:00Z
+20,Sun Jul 28 2024,19:00,-03/-0300,Cuiabá - MT,1-2,0-1,Athletico Paranaense,,2024-07-28T22:00Z
+20,Sun Jul 28 2024,16:00,-03/-0300,Flamengo RJ,2-0,1-0,Atlético Goianiense,,2024-07-28T19:00Z
+21,Sat Aug 3 2024,20:00,-03/-0300,Criciúma - SC,2-1,0-0,Atlético Mineiro,,2024-08-03T23:00Z
+21,Sat Aug 3 2024,16:00,-03/-0300,Vitória - BA,1-0,0-0,Cuiabá - MT,,2024-08-03T19:00Z
+21,Sat Aug 3 2024,21:30,-03/-0300,São Paulo FC,1-0,0-0,Flamengo RJ,,2024-08-04T00:30Z
+21,Sat Aug 3 2024,19:00,-03/-0300,Vasco da Gama - RJ,2-2,0-1,Red Bull Bragantino,,2024-08-03T22:00Z
+21,Sat Aug 3 2024,20:00,-03/-0300,Atlético Goianiense,1-4,1-1,Botafogo - RJ,,2024-08-03T23:00Z
+21,Sun Aug 4 2024,17:00,-03/-0300,Internacional,1-1,1-0,Palmeiras,,2024-08-04T20:00Z
+21,Sun Aug 4 2024,16:00,-03/-0300,Athletico Paranaense,0-2,0-2,Grêmio Porto Alegre,,2024-08-04T19:00Z
+21,Sun Aug 4 2024,16:00,-03/-0300,Fluminense RJ,1-0,1-0,Bahia - BA,,2024-08-04T19:00Z
+21,Sun Aug 4 2024,16:00,-03/-0300,Corinthians SP,1-1,0-1,Juventude - RS,,2024-08-04T19:00Z
+21,Mon Aug 5 2024,21:00,-03/-0300,Cruzeiro,1-2,1-2,Fortaleza - CE,,2024-08-06T00:00Z
+22,Sat Aug 10 2024,21:30,-03/-0300,Corinthians SP,1-1,1-1,Red Bull Bragantino,,2024-08-11T00:30Z
+22,Sat Aug 10 2024,21:30,-03/-0300,Cruzeiro,0-0,0-0,Atlético Mineiro,,2024-08-11T00:30Z
+22,Sat Aug 10 2024,21:30,-03/-0300,Vasco da Gama - RJ,2-0,2-0,Fluminense RJ,,2024-08-11T00:30Z
+22,Sat Aug 10 2024,16:00,-03/-0300,Fortaleza - CE,1-0,0-0,Criciúma - SC,,2024-08-10T19:00Z
+22,Sat Aug 10 2024,19:00,-03/-0300,Cuiabá - MT,1-3,0-1,Grêmio Porto Alegre,,2024-08-10T22:00Z
+22,Sun Aug 11 2024,19:00,-03/-0300,Internacional,2-2,1-1,Athletico Paranaense,,2024-08-11T22:00Z
+22,Sun Aug 11 2024,16:00,-03/-0300,São Paulo FC,1-0,1-0,Atlético Goianiense,,2024-08-11T19:00Z
+22,Sun Aug 11 2024,16:00,-03/-0300,Flamengo RJ,1-1,0-0,Palmeiras,,2024-08-11T19:00Z
+22,Sun Aug 11 2024,16:00,-03/-0300,Bahia - BA,2-0,1-0,Vitória - BA,,2024-08-11T19:00Z
+22,Sun Aug 11 2024,11:00,-03/-0300,Juventude - RS,3-2,2-0,Botafogo - RJ,,2024-08-11T14:00Z
+6,Wed Aug 14 2024,19:30,-03/-0300,Internacional,2-1,0-1,Juventude - RS,,2024-08-14T22:30Z
+23,Sat Aug 17 2024,16:00,-03/-0300,Atlético Mineiro,1-1,1-1,Cuiabá - MT,,2024-08-17T19:00Z
+23,Sat Aug 17 2024,18:30,-03/-0300,Red Bull Bragantino,1-2,1-1,Fortaleza - CE,,2024-08-17T21:30Z
+23,Sat Aug 17 2024,16:00,-03/-0300,Grêmio Porto Alegre,0-2,0-1,Bahia - BA,,2024-08-17T19:00Z
+23,Sat Aug 17 2024,21:00,-03/-0300,Fluminense RJ,0-0,0-0,Corinthians SP,,2024-08-18T00:00Z
+23,Sun Aug 18 2024,16:00,-03/-0300,Atlético Goianiense,1-0,0-0,Internacional,,2024-08-18T19:00Z
+23,Sun Aug 18 2024,16:00,-03/-0300,Criciúma - SC,2-2,1-2,Vasco da Gama - RJ,,2024-08-18T19:00Z
+23,Sun Aug 18 2024,16:00,-03/-0300,Palmeiras,2-1,0-0,São Paulo FC,,2024-08-18T19:00Z
+23,Sun Aug 18 2024,18:30,-03/-0300,Athletico Paranaense,1-2,1-1,Juventude - RS,,2024-08-18T21:30Z
+23,Sun Aug 18 2024,18:30,-03/-0300,Botafogo - RJ,4-1,1-1,Flamengo RJ,,2024-08-18T21:30Z
+23,Mon Aug 19 2024,20:00,-03/-0300,Vitória - BA,2-2,2-0,Cruzeiro,,2024-08-19T23:00Z
+24,Sat Aug 24 2024,21:00,-03/-0300,Atlético Mineiro,0-2,0-1,Fluminense RJ,,2024-08-25T00:00Z
+24,Sat Aug 24 2024,18:30,-03/-0300,Palmeiras,5-0,4-0,Cuiabá - MT,,2024-08-24T21:30Z
+24,Sat Aug 24 2024,16:00,-03/-0300,Atlético Goianiense,2-1,0-0,Juventude - RS,,2024-08-24T19:00Z
+24,Sun Aug 25 2024,19:00,-03/-0300,Internacional,1-0,0-0,Cruzeiro,,2024-08-25T22:00Z
+24,Sun Aug 25 2024,16:00,-03/-0300,Fortaleza - CE,1-0,0-0,Corinthians SP,,2024-08-25T19:00Z
+24,Sun Aug 25 2024,18:30,-03/-0300,São Paulo FC,2-1,2-0,Vitória - BA,,2024-08-25T21:30Z
+24,Sun Aug 25 2024,20:00,-03/-0300,Flamengo RJ,2-1,1-0,Red Bull Bragantino,,2024-08-25T23:00Z
+24,Sun Aug 25 2024,16:00,-03/-0300,Bahia - BA,0-0,0-0,Botafogo - RJ,,2024-08-25T19:00Z
+24,Sun Aug 25 2024,16:00,-03/-0300,Criciúma - SC,0-1,0-0,Grêmio Porto Alegre,,2024-08-25T19:00Z
+24,Mon Aug 26 2024,21:00,-03/-0300,Vasco da Gama - RJ,2-1,0-1,Athletico Paranaense,,2024-08-27T00:00Z
+19,Wed Aug 28 2024,19:30,-03/-0300,Criciúma - SC,1-0,1-0,Red Bull Bragantino,,2024-08-28T22:30Z
+5,Wed Aug 28 2024,19:30,-03/-0300,Cruzeiro,0-0,0-0,Internacional,,2024-08-28T22:30Z
+25,Sat Aug 31 2024,18:30,-03/-0300,Cuiabá - MT,2-1,0-1,Criciúma - SC,,2024-08-31T21:30Z
+25,Sat Aug 31 2024,21:00,-03/-0300,Botafogo - RJ,2-0,0-0,Fortaleza - CE,,2024-09-01T00:00Z
+25,Sun Sep 1 2024,18:30,-03/-0300,Athletico Paranaense,0-2,0-1,Palmeiras,,2024-09-01T21:30Z
+25,Sun Sep 1 2024,16:00,-03/-0300,Corinthians SP,2-1,1-1,Flamengo RJ,,2024-09-01T19:00Z
+25,Sun Sep 1 2024,18:30,-03/-0300,Fluminense RJ,2-0,1-0,São Paulo FC,,2024-09-01T21:30Z
+25,Sun Sep 1 2024,18:30,-03/-0300,Juventude - RS,1-3,0-2,Internacional,,2024-09-01T21:30Z
+25,Sun Sep 1 2024,18:30,-03/-0300,Red Bull Bragantino,2-1,0-0,Bahia - BA,,2024-09-01T21:30Z
+25,Sun Sep 1 2024,11:00,-03/-0300,Cruzeiro,3-1,2-1,Atlético Goianiense,,2024-09-01T14:00Z
+25,Sun Sep 1 2024,11:00,-03/-0300,Grêmio Porto Alegre,2-3,2-0,Atlético Mineiro,,2024-09-01T14:00Z
+25,Sun Sep 1 2024,18:30,-03/-0300,Vitória - BA,0-1,0-0,Vasco da Gama - RJ,,2024-09-01T21:30Z
+16,Thu Sep 5 2024,20:00,-03/-0300,Cuiabá - MT,0-0,0-0,Juventude - RS,,2024-09-05T23:00Z
+19,Wed Sep 11 2024,19:30,-03/-0300,Internacional,2-1,1-1,Fortaleza - CE,,2024-09-11T22:30Z
+26,Sat Sep 14 2024,18:30,-03/-0300,Athletico Paranaense,,,Fortaleza - CE,,2024-09-14T21:30Z
+26,Sat Sep 14 2024,21:00,-03/-0300,Botafogo - RJ,,,Corinthians SP,,2024-09-15T00:00Z
+26,Sat Sep 14 2024,16:00,-03/-0300,Atlético Goianiense,,,Vitória - BA,,2024-09-14T19:00Z
+26,Sun Sep 15 2024,18:30,-03/-0300,Flamengo RJ,,,Vasco da Gama - RJ,,2024-09-15T21:30Z
+26,Sun Sep 15 2024,18:30,-03/-0300,Bahia - BA,,,Atlético Mineiro,,2024-09-15T21:30Z
+26,Sun Sep 15 2024,16:00,-03/-0300,Red Bull Bragantino,,,Grêmio Porto Alegre,,2024-09-15T19:00Z
+26,Sun Sep 15 2024,16:00,-03/-0300,Juventude - RS,,,Fluminense RJ,,2024-09-15T19:00Z
+26,Sun Sep 15 2024,16:00,-03/-0300,Palmeiras,,,Criciúma - SC,,2024-09-15T19:00Z
+26,Sun Sep 15 2024,18:30,-03/-0300,Cruzeiro,,,São Paulo FC,,2024-09-15T21:30Z
+26,Mon Sep 16 2024,20:00,-03/-0300,Internacional,,,Cuiabá - MT,,2024-09-16T23:00Z
+27,Sat Sep 21 2024,18:30,-03/-0300,Fluminense RJ,,,Botafogo - RJ,,2024-09-21T21:30Z
+27,Sat Sep 21 2024,16:00,-03/-0300,Vitória - BA,,,Juventude - RS,,2024-09-21T19:00Z
+27,Sat Sep 21 2024,16:00,-03/-0300,Corinthians SP,,,Atlético Goianiense,,2024-09-21T19:00Z
+27,Sat Sep 21 2024,21:00,-03/-0300,Fortaleza - CE,,,Bahia - BA,,2024-09-22T00:00Z
+27,Sun Sep 22 2024,18:30,-03/-0300,Cuiabá - MT,,,Cruzeiro,,2024-09-22T21:30Z
+27,Sun Sep 22 2024,18:30,-03/-0300,Grêmio Porto Alegre,,,Flamengo RJ,,2024-09-22T21:30Z
+27,Sun Sep 22 2024,18:30,-03/-0300,São Paulo FC,,,Internacional,,2024-09-22T21:30Z
+27,Sun Sep 22 2024,16:00,-03/-0300,Atlético Mineiro,,,Red Bull Bragantino,,2024-09-22T19:00Z
+27,Sun Sep 22 2024,16:00,-03/-0300,Vasco da Gama - RJ,,,Palmeiras,,2024-09-22T19:00Z
+27,Sun Sep 22 2024,18:30,-03/-0300,Criciúma - SC,,,Athletico Paranaense,,2024-09-22T21:30Z
+16,Wed Sep 25 2024,19:00,-03/-0300,Red Bull Bragantino,,,Internacional,,2024-09-25T22:00Z
+19,Wed Sep 25 2024,19:00,-03/-0300,Vasco da Gama - RJ,,,Cuiabá - MT,,2024-09-25T22:00Z
+5,Wed Sep 25 2024,19:00,-03/-0300,Grêmio Porto Alegre,,,Criciúma - SC,,2024-09-25T22:00Z
+28,Sat Sep 28 2024,21:00,-03/-0300,Botafogo - RJ,,,Grêmio Porto Alegre,,2024-09-29T00:00Z
+28,Sat Sep 28 2024,18:30,-03/-0300,Palmeiras,,,Atlético Mineiro,,2024-09-28T21:30Z
+28,Sun Sep 29 2024,11:00,-03/-0300,Internacional,,,Vitória - BA,,2024-09-29T14:00Z
+28,Sun Sep 29 2024,16:00,-03/-0300,Atlético Goianiense,,,Fluminense RJ,,2024-09-29T19:00Z
+28,Sun Sep 29 2024,16:00,-03/-0300,Fortaleza - CE,,,Cuiabá - MT,,2024-09-29T19:00Z
+28,Sun Sep 29 2024,16:00,-03/-0300,São Paulo FC,,,Corinthians SP,,2024-09-29T19:00Z
+28,Sun Sep 29 2024,18:30,-03/-0300,Bahia - BA,,,Criciúma - SC,,2024-09-29T21:30Z
+28,Sun Sep 29 2024,18:30,-03/-0300,Cruzeiro,,,Vasco da Gama - RJ,,2024-09-29T21:30Z
+28,Sun Sep 29 2024,18:30,-03/-0300,Juventude - RS,,,Red Bull Bragantino,,2024-09-29T21:30Z
+28,Sun Sep 29 2024,20:00,-03/-0300,Flamengo RJ,,,Athletico Paranaense,,2024-09-29T23:00Z
+29,Thu Oct 3 2024,21:30,-03/-0300,Fluminense RJ,,,Cruzeiro,,2024-10-04T00:30Z
+29,Thu Oct 3 2024,19:00,-03/-0300,Criciúma - SC,,,Atlético Goianiense,,2024-10-03T22:00Z
+29,Fri Oct 4 2024,21:29,-03/-0300,Grêmio Porto Alegre,,,Fortaleza - CE,,2024-10-05T00:29Z
+29,Sat Oct 5 2024,16:30,-03/-0300,Athletico Paranaense,,,Botafogo - RJ,,2024-10-05T19:30Z
+29,Sat Oct 5 2024,16:30,-03/-0300,Atlético Mineiro,,,Vitória - BA,,2024-10-05T19:30Z
+29,Sat Oct 5 2024,16:30,-03/-0300,Red Bull Bragantino,,,Palmeiras,,2024-10-05T19:30Z
+29,Sat Oct 5 2024,19:00,-03/-0300,Bahia - BA,,,Flamengo RJ,,2024-10-05T22:00Z
+29,Sat Oct 5 2024,19:00,-03/-0300,Corinthians SP,,,Internacional,,2024-10-05T22:00Z
+29,Sat Oct 5 2024,19:00,-03/-0300,Cuiabá - MT,,,São Paulo FC,,2024-10-05T22:00Z
+29,Sat Oct 5 2024,21:00,-03/-0300,Vasco da Gama - RJ,,,Juventude - RS,,2024-10-06T00:00Z
+30,Sun Oct 20 2024,,,Atlético Goianiense,,,Cuiabá - MT,,
+30,Sun Oct 20 2024,,,Botafogo - RJ,,,Criciúma - SC,,
+30,Sun Oct 20 2024,,,Corinthians SP,,,Athletico Paranaense,,
+30,Sun Oct 20 2024,,,Cruzeiro,,,Bahia - BA,,
+30,Sun Oct 20 2024,,,Flamengo RJ,,,Fluminense RJ,,
+30,Sun Oct 20 2024,,,Fortaleza - CE,,,Atlético Mineiro,,
+30,Sun Oct 20 2024,,,Internacional,,,Grêmio Porto Alegre,,
+30,Sun Oct 20 2024,,,Juventude - RS,,,Palmeiras,,
+30,Sun Oct 20 2024,,,São Paulo FC,,,Vasco da Gama - RJ,,
+30,Sun Oct 20 2024,,,Vitória - BA,,,Red Bull Bragantino,,
+31,Sat Oct 26 2024,,,Athletico Paranaense,,,Cruzeiro,,
+31,Sat Oct 26 2024,,,Atlético Mineiro,,,Internacional,,
+31,Sat Oct 26 2024,,,Red Bull Bragantino,,,Botafogo - RJ,,
+31,Sat Oct 26 2024,,,Criciúma - SC,,,São Paulo FC,,
+31,Sat Oct 26 2024,,,Cuiabá - MT,,,Corinthians SP,,
+31,Sat Oct 26 2024,,,Flamengo RJ,,,Juventude - RS,,
+31,Sat Oct 26 2024,,,Grêmio Porto Alegre,,,Atlético Goianiense,,
+31,Sat Oct 26 2024,,,Palmeiras,,,Fortaleza - CE,,
+31,Sat Oct 26 2024,,,Vasco da Gama - RJ,,,Bahia - BA,,
+31,Sat Oct 26 2024,,,Vitória - BA,,,Fluminense RJ,,
+32,Wed Nov 6 2024,,,Athletico Paranaense,,,Vitória - BA,,
+32,Wed Nov 6 2024,,,Atlético Goianiense,,,Atlético Mineiro,,
+32,Wed Nov 6 2024,,,Bahia - BA,,,São Paulo FC,,
+32,Wed Nov 6 2024,,,Botafogo - RJ,,,Vasco da Gama - RJ,,
+32,Wed Nov 6 2024,,,Red Bull Bragantino,,,Cuiabá - MT,,
+32,Wed Nov 6 2024,,,Corinthians SP,,,Palmeiras,,
+32,Wed Nov 6 2024,,,Cruzeiro,,,Flamengo RJ,,
+32,Wed Nov 6 2024,,,Fluminense RJ,,,Grêmio Porto Alegre,,
+32,Wed Nov 6 2024,,,Internacional,,,Criciúma - SC,,
+32,Wed Nov 6 2024,,,Juventude - RS,,,Fortaleza - CE,,
+33,Wed Nov 13 2024,,,Atlético Goianiense,,,Red Bull Bragantino,,
+33,Wed Nov 13 2024,,,Botafogo - RJ,,,Cuiabá - MT,,
+33,Wed Nov 13 2024,,,Cruzeiro,,,Criciúma - SC,,
+33,Wed Nov 13 2024,,,Flamengo RJ,,,Atlético Mineiro,,
+33,Wed Nov 13 2024,,,Fortaleza - CE,,,Vasco da Gama - RJ,,
+33,Wed Nov 13 2024,,,Internacional,,,Fluminense RJ,,
+33,Wed Nov 13 2024,,,Juventude - RS,,,Bahia - BA,,
+33,Wed Nov 13 2024,,,Palmeiras,,,Grêmio Porto Alegre,,
+33,Wed Nov 13 2024,,,São Paulo FC,,,Athletico Paranaense,,
+33,Wed Nov 13 2024,,,Vitória - BA,,,Corinthians SP,,
+34,Wed Nov 20 2024,,,Athletico Paranaense,,,Atlético Goianiense,,
+34,Wed Nov 20 2024,,,Atlético Mineiro,,,Botafogo - RJ,,
+34,Wed Nov 20 2024,,,Bahia - BA,,,Palmeiras,,
+34,Wed Nov 20 2024,,,Red Bull Bragantino,,,São Paulo FC,,
+34,Wed Nov 20 2024,,,Corinthians SP,,,Cruzeiro,,
+34,Wed Nov 20 2024,,,Criciúma - SC,,,Vitória - BA,,
+34,Wed Nov 20 2024,,,Cuiabá - MT,,,Flamengo RJ,,
+34,Wed Nov 20 2024,,,Fluminense RJ,,,Fortaleza - CE,,
+34,Wed Nov 20 2024,,,Grêmio Porto Alegre,,,Juventude - RS,,
+34,Wed Nov 20 2024,,,Vasco da Gama - RJ,,,Internacional,,
+35,Sat Nov 23 2024,,,Atlético Goianiense,,,Palmeiras,,
+35,Sat Nov 23 2024,,,Bahia - BA,,,Athletico Paranaense,,
+35,Sat Nov 23 2024,,,Botafogo - RJ,,,Vitória - BA,,
+35,Sat Nov 23 2024,,,Corinthians SP,,,Vasco da Gama - RJ,,
+35,Sat Nov 23 2024,,,Cruzeiro,,,Grêmio Porto Alegre,,
+35,Sat Nov 23 2024,,,Fluminense RJ,,,Criciúma - SC,,
+35,Sat Nov 23 2024,,,Fortaleza - CE,,,Flamengo RJ,,
+35,Sat Nov 23 2024,,,Internacional,,,Red Bull Bragantino,,
+35,Sat Nov 23 2024,,,Juventude - RS,,,Cuiabá - MT,,
+35,Sat Nov 23 2024,,,São Paulo FC,,,Atlético Mineiro,,
+36,Sat Nov 30 2024,,,Athletico Paranaense,,,Fluminense RJ,,
+36,Sat Nov 30 2024,,,Atlético Mineiro,,,Juventude - RS,,
+36,Sat Nov 30 2024,,,Red Bull Bragantino,,,Cruzeiro,,
+36,Sat Nov 30 2024,,,Criciúma - SC,,,Corinthians SP,,
+36,Sat Nov 30 2024,,,Cuiabá - MT,,,Bahia - BA,,
+36,Sat Nov 30 2024,,,Flamengo RJ,,,Internacional,,
+36,Sat Nov 30 2024,,,Grêmio Porto Alegre,,,São Paulo FC,,
+36,Sat Nov 30 2024,,,Palmeiras,,,Botafogo - RJ,,
+36,Sat Nov 30 2024,,,Vasco da Gama - RJ,,,Atlético Goianiense,,
+36,Sat Nov 30 2024,,,Vitória - BA,,,Fortaleza - CE,,
+37,Wed Dec 4 2024,,,Athletico Paranaense,,,Red Bull Bragantino,,
+37,Wed Dec 4 2024,,,Atlético Goianiense,,,Fortaleza - CE,,
+37,Wed Dec 4 2024,,,Corinthians SP,,,Bahia - BA,,
+37,Wed Dec 4 2024,,,Criciúma - SC,,,Flamengo RJ,,
+37,Wed Dec 4 2024,,,Cruzeiro,,,Palmeiras,,
+37,Wed Dec 4 2024,,,Fluminense RJ,,,Cuiabá - MT,,
+37,Wed Dec 4 2024,,,Internacional,,,Botafogo - RJ,,
+37,Wed Dec 4 2024,,,São Paulo FC,,,Juventude - RS,,
+37,Wed Dec 4 2024,,,Vasco da Gama - RJ,,,Atlético Mineiro,,
+37,Wed Dec 4 2024,,,Vitória - BA,,,Grêmio Porto Alegre,,
+38,Sun Dec 8 2024,,,Atlético Mineiro,,,Athletico Paranaense,,
+38,Sun Dec 8 2024,,,Bahia - BA,,,Atlético Goianiense,,
+38,Sun Dec 8 2024,,,Botafogo - RJ,,,São Paulo FC,,
+38,Sun Dec 8 2024,,,Red Bull Bragantino,,,Criciúma - SC,,
+38,Sun Dec 8 2024,,,Cuiabá - MT,,,Vasco da Gama - RJ,,
+38,Sun Dec 8 2024,,,Flamengo RJ,,,Vitória - BA,,
+38,Sun Dec 8 2024,,,Fortaleza - CE,,,Internacional,,
+38,Sun Dec 8 2024,,,Grêmio Porto Alegre,,,Corinthians SP,,
+38,Sun Dec 8 2024,,,Juventude - RS,,,Cruzeiro,,
+38,Sun Dec 8 2024,,,Palmeiras,,,Fluminense RJ,,

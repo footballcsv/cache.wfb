@@ -1,0 +1,379 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri May 10 2024,21:15,-03/-0300,Argentinos Juniors,3-2,2-2,Rosario Central,,2024-05-11T00:15Z
+1,Fri May 10 2024,21:15,-03/-0300,Newell's Old Boys,2-0,0-0,Platense,,2024-05-11T00:15Z
+1,Fri May 10 2024,19:00,-03/-0300,Sarmiento de Junín,1-2,0-1,Instituto de Córdoba,,2024-05-10T22:00Z
+1,Sat May 11 2024,15:30,-03/-0300,Godoy Cruz,0-1,0-0,Barracas Central,,2024-05-11T18:30Z
+1,Sat May 11 2024,17:30,-03/-0300,Independiente,1-3,1-1,Talleres de Córdoba,,2024-05-11T20:30Z
+1,Sat May 11 2024,19:45,-03/-0300,River Plate,3-0,2-0,Central Córdoba SdE,,2024-05-11T22:45Z
+1,Sat May 11 2024,14:30,-03/-0300,Huracán,3-1,1-0,Defensa y Justicia,,2024-05-11T17:30Z
+1,Sun May 12 2024,15:30,-03/-0300,Tigre,0-1,0-1,Estudiantes,,2024-05-12T18:30Z
+1,Sun May 12 2024,15:30,-03/-0300,Deportivo Riestra,1-0,1-0,San Lorenzo,,2024-05-12T18:30Z
+1,Sun May 12 2024,17:45,-03/-0300,Belgrano de Córdoba,4-4,1-3,Racing Club,,2024-05-12T20:45Z
+1,Sun May 12 2024,17:45,-03/-0300,Lanús,0-2,0-1,Independiente Rivadavia,,2024-05-12T20:45Z
+1,Sun May 12 2024,20:15,-03/-0300,Atlético Tucumán,1-0,1-0,Boca Juniors,,2024-05-12T23:15Z
+1,Mon May 13 2024,21:00,-03/-0300,Unión de Santa Fe,1-0,0-0,Banfield,,2024-05-14T00:00Z
+1,Mon May 13 2024,19:00,-03/-0300,Gimnasia de La Plata,3-1,1-0,Vélez Sarsfield,,2024-05-13T22:00Z
+2,Sat May 18 2024,18:00,-03/-0300,River Plate,3-0,1-0,Belgrano de Córdoba,,2024-05-18T21:00Z
+2,Sat May 18 2024,20:00,-03/-0300,Defensa y Justicia,1-1,0-1,Gimnasia de La Plata,,2024-05-18T23:00Z
+2,Sat May 18 2024,20:30,-03/-0300,Instituto de Córdoba,1-1,1-1,Unión de Santa Fe,,2024-05-18T23:30Z
+2,Sat May 18 2024,15:30,-03/-0300,Independiente Rivadavia,0-0,0-0,Godoy Cruz,,2024-05-18T18:30Z
+2,Sun May 19 2024,15:00,-03/-0300,Barracas Central,1-1,1-1,Sarmiento de Junín,,2024-05-19T18:00Z
+2,Sun May 19 2024,15:30,-03/-0300,Platense,0-0,0-0,Independiente,,2024-05-19T18:30Z
+2,Sun May 19 2024,17:45,-03/-0300,Talleres de Córdoba,2-0,1-0,Atlético Tucumán,,2024-05-19T20:45Z
+2,Sun May 19 2024,17:45,-03/-0300,Banfield,1-1,0-1,Huracán,,2024-05-19T20:45Z
+2,Sun May 19 2024,20:00,-03/-0300,Central Córdoba SdE,2-4,2-0,Boca Juniors,,2024-05-19T23:00Z
+2,Mon May 20 2024,19:00,-03/-0300,Estudiantes,2-0,1-0,Deportivo Riestra,,2024-05-20T22:00Z
+2,Mon May 20 2024,21:15,-03/-0300,Rosario Central,1-1,0-1,Tigre,,2024-05-21T00:15Z
+2,Mon May 20 2024,21:15,-03/-0300,Racing Club,3-0,1-0,Argentinos Juniors,,2024-05-21T00:15Z
+2,Mon May 20 2024,19:00,-03/-0300,San Lorenzo,1-1,0-1,Lanús,,2024-05-20T22:00Z
+2,Tue May 21 2024,20:00,-03/-0300,Vélez Sarsfield,1-0,1-0,Newell's Old Boys,,2024-05-21T23:00Z
+3,Fri May 24 2024,19:00,-03/-0300,Tigre,0-4,0-2,Racing Club,,2024-05-24T22:00Z
+3,Fri May 24 2024,21:15,-03/-0300,Belgrano de Córdoba,2-1,0-1,Central Córdoba SdE,,2024-05-25T00:15Z
+3,Fri May 24 2024,21:15,-03/-0300,Lanús,2-1,0-0,Estudiantes,,2024-05-25T00:15Z
+3,Fri May 24 2024,15:30,-03/-0300,Deportivo Riestra,0-2,0-1,Rosario Central,,2024-05-24T18:30Z
+3,Sat May 25 2024,15:00,-03/-0300,Argentinos Juniors,1-0,1-0,River Plate,,2024-05-25T18:00Z
+3,Sat May 25 2024,17:30,-03/-0300,Godoy Cruz,(*),,San Lorenzo,abandoned,2024-05-25T20:30Z
+3,Sat May 25 2024,17:30,-03/-0300,Newell's Old Boys,1-0,0-0,Defensa y Justicia,,2024-05-25T20:30Z
+3,Sat May 25 2024,20:00,-03/-0300,Boca Juniors,0-0,0-0,Talleres de Córdoba,,2024-05-25T23:00Z
+3,Sun May 26 2024,17:30,-03/-0300,Sarmiento de Junín,0-1,0-0,Independiente Rivadavia,,2024-05-26T20:30Z
+3,Sun May 26 2024,17:45,-03/-0300,Gimnasia de La Plata,3-0,0-0,Banfield,,2024-05-26T20:45Z
+3,Sun May 26 2024,20:00,-03/-0300,Independiente,1-1,0-1,Vélez Sarsfield,,2024-05-26T23:00Z
+3,Sun May 26 2024,15:30,-03/-0300,Huracán,1-0,0-0,Instituto de Córdoba,,2024-05-26T18:30Z
+3,Mon May 27 2024,19:00,-03/-0300,Unión de Santa Fe,2-0,1-0,Barracas Central,,2024-05-27T22:00Z
+3,Mon May 27 2024,21:00,-03/-0300,Atlético Tucumán,1-1,0-0,Platense,,2024-05-28T00:00Z
+4,Sat Jun 1 2024,20:15,-03/-0300,Vélez Sarsfield,1-1,0-1,Atlético Tucumán,,2024-06-01T23:15Z
+4,Sat Jun 1 2024,20:15,-03/-0300,Belgrano de Córdoba,1-0,0-0,Argentinos Juniors,,2024-06-01T23:15Z
+4,Sat Jun 1 2024,18:00,-03/-0300,Racing Club,1-0,0-0,Deportivo Riestra,,2024-06-01T21:00Z
+4,Sun Jun 2 2024,14:30,-03/-0300,Platense,1-0,0-0,Boca Juniors,,2024-06-02T17:30Z
+4,Sun Jun 2 2024,18:00,-03/-0300,Central Córdoba SdE,2-4,1-1,Talleres de Córdoba,,2024-06-02T21:00Z
+4,Sun Jun 2 2024,18:00,-03/-0300,Rosario Central,1-1,0-1,Lanús,,2024-06-02T21:00Z
+4,Sun Jun 2 2024,20:15,-03/-0300,Instituto de Córdoba,2-1,1-1,Gimnasia de La Plata,,2024-06-02T23:15Z
+4,Sun Jun 2 2024,20:15,-03/-0300,River Plate,3-1,1-1,Tigre,,2024-06-02T23:15Z
+4,Mon Jun 3 2024,21:15,-03/-0300,Defensa y Justicia,0-0,0-0,Independiente,,2024-06-04T00:15Z
+4,Mon Jun 3 2024,21:15,-03/-0300,Estudiantes,1-1,0-1,Godoy Cruz,,2024-06-04T00:15Z
+4,Mon Jun 3 2024,19:00,-03/-0300,San Lorenzo,0-1,0-0,Sarmiento de Junín,,2024-06-03T22:00Z
+4,Tue Jun 4 2024,15:00,-03/-0300,Barracas Central,0-2,0-1,Huracán,,2024-06-04T18:00Z
+4,Tue Jun 4 2024,20:00,-03/-0300,Banfield,2-0,0-0,Newell's Old Boys,,2024-06-04T23:00Z
+4,Tue Jun 4 2024,20:00,-03/-0300,Independiente Rivadavia,0-1,0-0,Unión de Santa Fe,,2024-06-04T23:00Z
+5,Wed Jun 12 2024,19:00,-03/-0300,Argentinos Juniors,2-1,1-0,Central Córdoba SdE,,2024-06-12T22:00Z
+5,Wed Jun 12 2024,21:15,-03/-0300,Gimnasia de La Plata,2-1,1-0,Barracas Central,,2024-06-13T00:15Z
+5,Wed Jun 12 2024,21:15,-03/-0300,Independiente,2-1,1-1,Banfield,,2024-06-13T00:15Z
+5,Wed Jun 12 2024,17:00,-03/-0300,Godoy Cruz,1-1,1-1,Rosario Central,,2024-06-12T20:00Z
+5,Thu Jun 13 2024,15:00,-03/-0300,Deportivo Riestra,2-0,0-0,River Plate,,2024-06-13T18:00Z
+5,Thu Jun 13 2024,19:00,-03/-0300,Tigre,1-1,1-0,Belgrano de Córdoba,,2024-06-13T22:00Z
+5,Thu Jun 13 2024,19:00,-03/-0300,Sarmiento de Junín,2-0,0-0,Estudiantes,,2024-06-13T22:00Z
+5,Thu Jun 13 2024,21:15,-03/-0300,Lanús,2-0,1-0,Racing Club,,2024-06-14T00:15Z
+5,Thu Jun 13 2024,21:15,-03/-0300,Newell's Old Boys,0-2,0-1,Instituto de Córdoba,,2024-06-14T00:15Z
+5,Fri Jun 14 2024,19:00,-03/-0300,Talleres de Córdoba,2-1,1-1,Platense,,2024-06-14T22:00Z
+5,Fri Jun 14 2024,19:00,-03/-0300,Boca Juniors,1-0,0-0,Vélez Sarsfield,,2024-06-14T22:00Z
+5,Sat Jun 15 2024,18:00,-03/-0300,Huracán,1-0,1-0,Independiente Rivadavia,,2024-06-15T21:00Z
+5,Sat Jun 15 2024,20:30,-03/-0300,Atlético Tucumán,1-1,1-1,Defensa y Justicia,,2024-06-15T23:30Z
+5,Sat Jun 15 2024,16:00,-03/-0300,Unión de Santa Fe,2-1,0-1,San Lorenzo,,2024-06-15T19:00Z
+6,Thu Jul 18 2024,18:45,-03/-0300,Argentinos Juniors,0-2,0-1,Tigre,,2024-07-18T21:45Z
+6,Thu Jul 18 2024,19:00,-03/-0300,Independiente Rivadavia,1-0,1-0,Gimnasia de La Plata,,2024-07-18T22:00Z
+6,Thu Jul 18 2024,21:00,-03/-0300,Instituto de Córdoba,3-1,3-1,Independiente,,2024-07-19T00:00Z
+6,Fri Jul 19 2024,19:00,-03/-0300,Belgrano de Córdoba,2-1,0-0,Deportivo Riestra,,2024-07-19T22:00Z
+6,Fri Jul 19 2024,21:00,-03/-0300,Rosario Central,4-2,3-0,Sarmiento de Junín,,2024-07-20T00:00Z
+6,Fri Jul 19 2024,15:00,-03/-0300,Barracas Central,0-1,0-0,Newell's Old Boys,,2024-07-19T18:00Z
+6,Sat Jul 20 2024,17:00,-03/-0300,Racing Club,3-0,2-0,Godoy Cruz,,2024-07-20T20:00Z
+6,Sat Jul 20 2024,19:30,-03/-0300,Banfield,1-1,1-0,Atlético Tucumán,,2024-07-20T22:30Z
+6,Sat Jul 20 2024,15:00,-03/-0300,San Lorenzo,1-1,1-1,Huracán,,2024-07-20T18:00Z
+6,Sun Jul 21 2024,15:00,-03/-0300,River Plate,2-2,0-0,Lanús,,2024-07-21T18:00Z
+6,Sun Jul 21 2024,17:15,-03/-0300,Central Córdoba SdE,0-2,0-0,Platense,,2024-07-21T20:15Z
+6,Sun Jul 21 2024,17:15,-03/-0300,Estudiantes,0-0,0-0,Unión de Santa Fe,,2024-07-21T20:15Z
+6,Sun Jul 21 2024,20:00,-03/-0300,Vélez Sarsfield,3-0,1-0,Talleres de Córdoba,,2024-07-21T23:00Z
+6,Sun Jul 21 2024,20:00,-03/-0300,Defensa y Justicia,2-2,2-1,Boca Juniors,,2024-07-21T23:00Z
+7,Tue Jul 23 2024,18:45,-03/-0300,Gimnasia de La Plata,0-1,0-1,San Lorenzo,,2024-07-23T21:45Z
+7,Tue Jul 23 2024,18:45,-03/-0300,Newell's Old Boys,0-0,0-0,Independiente Rivadavia,,2024-07-23T21:45Z
+7,Tue Jul 23 2024,21:00,-03/-0300,Independiente,0-0,0-0,Barracas Central,,2024-07-24T00:00Z
+7,Tue Jul 23 2024,15:00,-03/-0300,Deportivo Riestra,2-0,0-0,Argentinos Juniors,,2024-07-23T18:00Z
+7,Wed Jul 24 2024,17:15,-03/-0300,Sarmiento de Junín,1-0,1-0,Racing Club,,2024-07-24T20:15Z
+7,Wed Jul 24 2024,19:30,-03/-0300,Godoy Cruz,2-1,2-1,River Plate,,2024-07-24T22:30Z
+7,Wed Jul 24 2024,19:30,-03/-0300,Huracán,0-0,0-0,Estudiantes,,2024-07-24T22:30Z
+7,Wed Jul 24 2024,17:00,-03/-0300,Talleres de Córdoba,1-1,0-1,Defensa y Justicia,,2024-07-24T20:00Z
+7,Thu Jul 25 2024,18:45,-03/-0300,Lanús,3-2,1-1,Belgrano de Córdoba,,2024-07-25T21:45Z
+7,Thu Jul 25 2024,18:45,-03/-0300,Platense,0-2,0-1,Vélez Sarsfield,,2024-07-25T21:45Z
+7,Thu Jul 25 2024,21:00,-03/-0300,Tigre,1-1,1-0,Central Córdoba SdE,,2024-07-26T00:00Z
+7,Thu Jul 25 2024,21:00,-03/-0300,Atlético Tucumán,1-0,0-0,Instituto de Córdoba,,2024-07-26T00:00Z
+8,Sat Jul 27 2024,17:00,-03/-0300,San Lorenzo,1-1,0-1,Newell's Old Boys,,2024-07-27T20:00Z
+8,Sat Jul 27 2024,15:00,-03/-0300,Independiente Rivadavia,1-0,1-0,Independiente,,2024-07-27T18:00Z
+8,Sat Jul 27 2024,19:00,-03/-0300,Rosario Central,0-1,0-1,Huracán,,2024-07-27T22:00Z
+8,Sun Jul 28 2024,17:15,-03/-0300,Racing Club,2-1,1-0,Unión de Santa Fe,,2024-07-28T20:15Z
+8,Sun Jul 28 2024,18:30,-03/-0300,River Plate,1-0,0-0,Sarmiento de Junín,,2024-07-28T21:30Z
+8,Sun Jul 28 2024,15:00,-03/-0300,Banfield,1-1,1-1,Talleres de Córdoba,,2024-07-28T18:00Z
+8,Sun Jul 28 2024,15:00,-03/-0300,Estudiantes,4-1,0-0,Gimnasia de La Plata,,2024-07-28T18:00Z
+8,Sun Jul 28 2024,20:30,-03/-0300,Instituto de Córdoba,0-0,0-0,Boca Juniors,,2024-07-28T23:30Z
+8,Mon Jul 29 2024,16:30,-03/-0300,Defensa y Justicia,1-3,0-1,Platense,,2024-07-29T19:30Z
+8,Mon Jul 29 2024,21:00,-03/-0300,Belgrano de Córdoba,1-0,1-0,Godoy Cruz,,2024-07-30T00:00Z
+8,Mon Jul 29 2024,15:00,-03/-0300,Barracas Central,0-2,0-1,Atlético Tucumán,,2024-07-29T18:00Z
+8,Mon Jul 29 2024,18:45,-03/-0300,Tigre,2-1,1-1,Deportivo Riestra,,2024-07-29T21:45Z
+8,Mon Jul 29 2024,18:45,-03/-0300,Central Córdoba SdE,0-2,0-1,Vélez Sarsfield,,2024-07-29T21:45Z
+8,Mon Jul 29 2024,21:00,-03/-0300,Argentinos Juniors,2-0,0-0,Lanús,,2024-07-30T00:00Z
+7,Wed Jul 31 2024,20:30,-03/-0300,Boca Juniors,3-0,1-0,Banfield,,2024-07-31T23:30Z
+7,Wed Jul 31 2024,18:30,-03/-0300,Unión de Santa Fe,1-0,0-0,Rosario Central,,2024-07-31T21:30Z
+9,Fri Aug 2 2024,20:00,-03/-0300,Newell's Old Boys,1-4,1-2,Estudiantes,,2024-08-02T23:00Z
+9,Sat Aug 3 2024,15:00,-03/-0300,Vélez Sarsfield,3-0,1-0,Defensa y Justicia,,2024-08-03T18:00Z
+9,Sat Aug 3 2024,17:15,-03/-0300,Talleres de Córdoba,1-1,0-0,Instituto de Córdoba,,2024-08-03T20:15Z
+9,Sat Aug 3 2024,19:15,-03/-0300,Independiente,0-0,0-0,San Lorenzo,,2024-08-03T22:15Z
+9,Sat Aug 3 2024,20:30,-03/-0300,Huracán,0-0,0-0,Racing Club,,2024-08-03T23:30Z
+9,Sat Aug 3 2024,15:00,-03/-0300,Godoy Cruz,1-0,1-0,Argentinos Juniors,,2024-08-03T18:00Z
+9,Sun Aug 4 2024,15:00,-03/-0300,Sarmiento de Junín,0-0,0-0,Belgrano de Córdoba,,2024-08-04T18:00Z
+9,Sun Aug 4 2024,15:00,-03/-0300,Unión de Santa Fe,0-0,0-0,River Plate,,2024-08-04T18:00Z
+9,Sun Aug 4 2024,17:30,-03/-0300,Boca Juniors,1-1,1-1,Barracas Central,,2024-08-04T20:30Z
+9,Sun Aug 4 2024,20:00,-03/-0300,Lanús,3-2,0-1,Tigre,,2024-08-04T23:00Z
+9,Sun Aug 4 2024,20:00,-03/-0300,Atlético Tucumán,2-1,0-1,Independiente Rivadavia,,2024-08-04T23:00Z
+9,Mon Aug 5 2024,17:00,-03/-0300,Gimnasia de La Plata,0-1,0-0,Rosario Central,,2024-08-05T20:00Z
+9,Mon Aug 5 2024,20:00,-03/-0300,Platense,0-1,0-1,Banfield,,2024-08-05T23:00Z
+9,Mon Aug 5 2024,14:30,-03/-0300,Deportivo Riestra,1-0,1-0,Central Córdoba SdE,,2024-08-05T17:30Z
+10,Thu Aug 8 2024,15:00,-03/-0300,Argentinos Juniors,0-0,0-0,Sarmiento de Junín,,2024-08-08T18:00Z
+10,Fri Aug 9 2024,16:30,-03/-0300,Barracas Central,1-1,0-0,Talleres de Córdoba,,2024-08-09T19:30Z
+10,Fri Aug 9 2024,19:00,-03/-0300,Belgrano de Córdoba,1-1,0-0,Unión de Santa Fe,,2024-08-09T22:00Z
+10,Fri Aug 9 2024,21:00,-03/-0300,Racing Club,0-1,0-1,Gimnasia de La Plata,,2024-08-10T00:00Z
+10,Fri Aug 9 2024,15:00,-03/-0300,Deportivo Riestra,3-1,0-0,Lanús,,2024-08-09T18:00Z
+10,Sat Aug 10 2024,14:30,-03/-0300,San Lorenzo,0-1,0-0,Atlético Tucumán,,2024-08-10T17:30Z
+10,Sat Aug 10 2024,16:30,-03/-0300,Rosario Central,1-0,0-0,Newell's Old Boys,,2024-08-10T19:30Z
+10,Sat Aug 10 2024,18:45,-03/-0300,Independiente Rivadavia,1-1,0-0,Boca Juniors,,2024-08-10T21:45Z
+10,Sat Aug 10 2024,20:30,-03/-0300,River Plate,1-1,1-1,Huracán,,2024-08-10T23:30Z
+10,Sun Aug 11 2024,15:00,-03/-0300,Instituto de Córdoba,2-0,0-0,Platense,,2024-08-11T18:00Z
+10,Sun Aug 11 2024,17:30,-03/-0300,Banfield,2-2,0-1,Vélez Sarsfield,,2024-08-11T20:30Z
+10,Sun Aug 11 2024,20:00,-03/-0300,Estudiantes,0-2,0-1,Independiente,,2024-08-11T23:00Z
+10,Sun Aug 11 2024,15:00,-03/-0300,Central Córdoba SdE,2-0,1-0,Defensa y Justicia,,2024-08-11T18:00Z
+10,Mon Aug 12 2024,19:00,-03/-0300,Tigre,0-2,0-1,Godoy Cruz,,2024-08-12T22:00Z
+11,Fri Aug 16 2024,19:00,-03/-0300,Platense,0-0,0-0,Barracas Central,,2024-08-16T22:00Z
+11,Fri Aug 16 2024,21:00,-03/-0300,Newell's Old Boys,0-1,0-1,Racing Club,,2024-08-17T00:00Z
+11,Sat Aug 17 2024,15:00,-03/-0300,Lanús,1-1,1-0,Central Córdoba SdE,,2024-08-17T18:00Z
+11,Sat Aug 17 2024,15:30,-03/-0300,Independiente,1-0,1-0,Rosario Central,,2024-08-17T18:30Z
+11,Sat Aug 17 2024,17:30,-03/-0300,Gimnasia de La Plata,1-1,0-0,River Plate,,2024-08-17T20:30Z
+11,Sat Aug 17 2024,20:00,-03/-0300,Talleres de Córdoba,2-1,0-1,Independiente Rivadavia,,2024-08-17T23:00Z
+11,Sat Aug 17 2024,20:00,-03/-0300,Vélez Sarsfield,1-0,1-0,Instituto de Córdoba,,2024-08-17T23:00Z
+11,Sun Aug 18 2024,17:00,-03/-0300,Sarmiento de Junín,0-0,0-0,Tigre,,2024-08-18T20:00Z
+11,Sun Aug 18 2024,17:00,-03/-0300,Atlético Tucumán,2-0,0-0,Estudiantes,,2024-08-18T20:00Z
+11,Sun Aug 18 2024,20:30,-03/-0300,Huracán,1-0,1-0,Belgrano de Córdoba,,2024-08-18T23:30Z
+11,Sun Aug 18 2024,14:30,-03/-0300,Boca Juniors,3-2,0-1,San Lorenzo,,2024-08-18T17:30Z
+11,Mon Aug 19 2024,18:45,-03/-0300,Godoy Cruz,4-1,3-0,Deportivo Riestra,,2024-08-19T21:45Z
+11,Mon Aug 19 2024,18:45,-03/-0300,Unión de Santa Fe,3-0,2-0,Argentinos Juniors,,2024-08-19T21:45Z
+11,Mon Aug 19 2024,21:00,-03/-0300,Defensa y Justicia,1-0,0-0,Banfield,,2024-08-20T00:00Z
+12,Fri Aug 23 2024,18:00,-03/-0300,Independiente Rivadavia,0-2,0-1,Platense,,2024-08-23T21:00Z
+12,Sat Aug 24 2024,14:30,-03/-0300,Deportivo Riestra,2-1,1-1,Sarmiento de Junín,,2024-08-24T17:30Z
+12,Sat Aug 24 2024,15:00,-03/-0300,Argentinos Juniors,0-0,0-0,Huracán,,2024-08-24T18:00Z
+12,Sat Aug 24 2024,17:00,-03/-0300,Instituto de Córdoba,4-1,3-1,Defensa y Justicia,,2024-08-24T20:00Z
+12,Sat Aug 24 2024,19:30,-03/-0300,Tigre,5-1,2-0,Unión de Santa Fe,,2024-08-24T22:30Z
+12,Sun Aug 25 2024,14:30,-03/-0300,Lanús,1-1,1-0,Godoy Cruz,,2024-08-25T17:30Z
+12,Sun Aug 25 2024,17:00,-03/-0300,Racing Club,0-0,0-0,Independiente,,2024-08-25T20:00Z
+12,Sun Aug 25 2024,20:30,-03/-0300,River Plate,0-0,0-0,Newell's Old Boys,,2024-08-25T23:30Z
+12,Sun Aug 25 2024,14:30,-03/-0300,San Lorenzo,2-0,1-0,Talleres de Córdoba,,2024-08-25T17:30Z
+12,Mon Aug 26 2024,16:00,-03/-0300,Central Córdoba SdE,0-0,0-0,Banfield,,2024-08-26T19:00Z
+12,Mon Aug 26 2024,16:00,-03/-0300,Barracas Central,0-5,0-1,Vélez Sarsfield,,2024-08-26T19:00Z
+12,Mon Aug 26 2024,18:30,-03/-0300,Rosario Central,1-0,0-0,Atlético Tucumán,,2024-08-26T21:30Z
+12,Mon Aug 26 2024,18:30,-03/-0300,Belgrano de Córdoba,0-1,0-0,Gimnasia de La Plata,,2024-08-26T21:30Z
+12,Mon Aug 26 2024,21:00,-03/-0300,Estudiantes,1-1,0-0,Boca Juniors,,2024-08-27T00:00Z
+13,Fri Aug 30 2024,21:00,-03/-0300,Unión de Santa Fe,0-0,0-0,Deportivo Riestra,,2024-08-31T00:00Z
+13,Fri Aug 30 2024,19:00,-03/-0300,Sarmiento de Junín,0-0,0-0,Lanús,,2024-08-30T22:00Z
+13,Sat Aug 31 2024,15:00,-03/-0300,Defensa y Justicia,1-0,1-0,Barracas Central,,2024-08-31T18:00Z
+13,Sat Aug 31 2024,18:00,-03/-0300,Talleres de Córdoba,1-0,1-0,Estudiantes,,2024-08-31T21:00Z
+13,Sat Aug 31 2024,18:00,-03/-0300,Vélez Sarsfield,4-0,2-0,Independiente Rivadavia,,2024-08-31T21:00Z
+13,Sat Aug 31 2024,21:00,-03/-0300,Boca Juniors,2-1,2-0,Rosario Central,,2024-09-01T00:00Z
+13,Sat Aug 31 2024,15:00,-03/-0300,Newell's Old Boys,0-0,0-0,Belgrano de Córdoba,,2024-08-31T18:00Z
+13,Sun Sep 1 2024,14:30,-03/-0300,Huracán,0-2,0-1,Tigre,,2024-09-01T17:30Z
+13,Sun Sep 1 2024,14:30,-03/-0300,Platense,1-2,1-1,San Lorenzo,,2024-09-01T17:30Z
+13,Sun Sep 1 2024,17:00,-03/-0300,Independiente,0-0,0-0,River Plate,,2024-09-01T20:00Z
+13,Sun Sep 1 2024,19:00,-03/-0300,Atlético Tucumán,1-0,1-0,Racing Club,,2024-09-01T22:00Z
+13,Sun Sep 1 2024,21:00,-03/-0300,Banfield,1-2,0-1,Instituto de Córdoba,,2024-09-02T00:00Z
+13,Mon Sep 2 2024,19:00,-03/-0300,Godoy Cruz,1-1,1-0,Central Córdoba SdE,,2024-09-02T22:00Z
+13,Mon Sep 2 2024,17:00,-03/-0300,Gimnasia de La Plata,1-0,0-0,Argentinos Juniors,,2024-09-02T20:00Z
+14,Fri Sep 13 2024,18:30,-03/-0300,Central Córdoba SdE,,,Instituto de Córdoba,,2024-09-13T21:30Z
+14,Fri Sep 13 2024,18:30,-03/-0300,Lanús,,,Unión de Santa Fe,,2024-09-13T21:30Z
+14,Fri Sep 13 2024,21:00,-03/-0300,River Plate,,,Atlético Tucumán,,2024-09-14T00:00Z
+14,Fri Sep 13 2024,15:00,-03/-0300,Deportivo Riestra,,,Huracán,,2024-09-13T18:00Z
+14,Sat Sep 14 2024,15:00,-03/-0300,San Lorenzo,,,Vélez Sarsfield,,2024-09-14T18:00Z
+14,Sat Sep 14 2024,17:30,-03/-0300,Racing Club,,,Boca Juniors,,2024-09-14T20:30Z
+14,Sat Sep 14 2024,20:00,-03/-0300,Belgrano de Córdoba,,,Independiente,,2024-09-14T23:00Z
+14,Sat Sep 14 2024,20:00,-03/-0300,Tigre,,,Gimnasia de La Plata,,2024-09-14T23:00Z
+14,Sun Sep 15 2024,15:00,-03/-0300,Godoy Cruz,,,Sarmiento de Junín,,2024-09-15T18:00Z
+14,Sun Sep 15 2024,17:30,-03/-0300,Rosario Central,,,Talleres de Córdoba,,2024-09-15T20:30Z
+14,Sun Sep 15 2024,20:00,-03/-0300,Argentinos Juniors,,,Newell's Old Boys,,2024-09-15T23:00Z
+14,Sun Sep 15 2024,15:00,-03/-0300,Estudiantes,,,Platense,,2024-09-15T18:00Z
+14,Mon Sep 16 2024,21:00,-03/-0300,Independiente Rivadavia,,,Defensa y Justicia,,2024-09-17T00:00Z
+14,Mon Sep 16 2024,15:00,-03/-0300,Barracas Central,,,Banfield,,2024-09-16T18:00Z
+15,Fri Sep 20 2024,20:00,-03/-0300,Unión de Santa Fe,,,Godoy Cruz,,2024-09-20T23:00Z
+15,Fri Sep 20 2024,17:30,-03/-0300,Gimnasia de La Plata,,,Deportivo Riestra,,2024-09-20T20:30Z
+15,Sat Sep 21 2024,16:00,-03/-0300,Boca Juniors,,,River Plate,,2024-09-21T19:00Z
+15,Sat Sep 21 2024,19:00,-03/-0300,Newell's Old Boys,,,Tigre,,2024-09-21T22:00Z
+15,Sat Sep 21 2024,19:00,-03/-0300,Instituto de Córdoba,,,Barracas Central,,2024-09-21T22:00Z
+15,Sat Sep 21 2024,21:15,-03/-0300,Defensa y Justicia,,,San Lorenzo,,2024-09-22T00:15Z
+15,Sun Sep 22 2024,14:30,-03/-0300,Independiente,,,Argentinos Juniors,,2024-09-22T17:30Z
+15,Sun Sep 22 2024,17:00,-03/-0300,Talleres de Córdoba,,,Racing Club,,2024-09-22T20:00Z
+15,Sun Sep 22 2024,19:30,-03/-0300,Atlético Tucumán,,,Belgrano de Córdoba,,2024-09-22T22:30Z
+15,Sun Sep 22 2024,19:30,-03/-0300,Platense,,,Rosario Central,,2024-09-22T22:30Z
+15,Sun Sep 22 2024,14:30,-03/-0300,Huracán,,,Lanús,,2024-09-22T17:30Z
+15,Mon Sep 23 2024,18:45,-03/-0300,Sarmiento de Junín,,,Central Córdoba SdE,,2024-09-23T21:45Z
+15,Mon Sep 23 2024,21:00,-03/-0300,Vélez Sarsfield,,,Estudiantes,,2024-09-24T00:00Z
+15,Mon Sep 23 2024,21:00,-03/-0300,Banfield,,,Independiente Rivadavia,,2024-09-24T00:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Central Córdoba SdE,,,Barracas Central,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Independiente Rivadavia,,,Instituto de Córdoba,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,San Lorenzo,,,Banfield,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Estudiantes,,,Defensa y Justicia,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Rosario Central,,,Vélez Sarsfield,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Racing Club,,,Platense,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,River Plate,,,Talleres de Córdoba,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Belgrano de Córdoba,,,Boca Juniors,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Argentinos Juniors,,,Atlético Tucumán,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Tigre,,,Independiente,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Deportivo Riestra,,,Newell's Old Boys,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Lanús,,,Gimnasia de La Plata,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Godoy Cruz,,,Huracán,,2024-09-29T20:00Z
+16,Sun Sep 29 2024,17:00,-03/-0300,Sarmiento de Junín,,,Unión de Santa Fe,,2024-09-29T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Unión de Santa Fe,,,Central Córdoba SdE,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Huracán,,,Sarmiento de Junín,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Gimnasia de La Plata,,,Godoy Cruz,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Newell's Old Boys,,,Lanús,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Independiente,,,Deportivo Riestra,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Atlético Tucumán,,,Tigre,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Boca Juniors,,,Argentinos Juniors,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Talleres de Córdoba,,,Belgrano de Córdoba,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Platense,,,River Plate,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Vélez Sarsfield,,,Racing Club,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Defensa y Justicia,,,Rosario Central,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Banfield,,,Estudiantes,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Instituto de Córdoba,,,San Lorenzo,,2024-10-06T20:00Z
+17,Sun Oct 6 2024,17:00,-03/-0300,Barracas Central,,,Independiente Rivadavia,,2024-10-06T20:00Z
+18,Sun Oct 20 2024,,,Central Córdoba SdE,,,Independiente Rivadavia,,
+18,Sun Oct 20 2024,,,San Lorenzo,,,Barracas Central,,
+18,Sun Oct 20 2024,,,Estudiantes,,,Instituto de Córdoba,,
+18,Sun Oct 20 2024,,,Rosario Central,,,Banfield,,
+18,Sun Oct 20 2024,,,Racing Club,,,Defensa y Justicia,,
+18,Sun Oct 20 2024,,,River Plate,,,Vélez Sarsfield,,
+18,Sun Oct 20 2024,,,Belgrano de Córdoba,,,Platense,,
+18,Sun Oct 20 2024,,,Argentinos Juniors,,,Talleres de Córdoba,,
+18,Sun Oct 20 2024,,,Tigre,,,Boca Juniors,,
+18,Sun Oct 20 2024,,,Deportivo Riestra,,,Atlético Tucumán,,
+18,Sun Oct 20 2024,,,Lanús,,,Independiente,,
+18,Sun Oct 20 2024,,,Godoy Cruz,,,Newell's Old Boys,,
+18,Sun Oct 20 2024,,,Sarmiento de Junín,,,Gimnasia de La Plata,,
+18,Sun Oct 20 2024,,,Unión de Santa Fe,,,Huracán,,
+19,Sun Oct 27 2024,,,Huracán,,,Central Córdoba SdE,,
+19,Sun Oct 27 2024,,,Gimnasia de La Plata,,,Unión de Santa Fe,,
+19,Sun Oct 27 2024,,,Newell's Old Boys,,,Sarmiento de Junín,,
+19,Sun Oct 27 2024,,,Independiente,,,Godoy Cruz,,
+19,Sun Oct 27 2024,,,Atlético Tucumán,,,Lanús,,
+19,Sun Oct 27 2024,,,Boca Juniors,,,Deportivo Riestra,,
+19,Sun Oct 27 2024,,,Talleres de Córdoba,,,Tigre,,
+19,Sun Oct 27 2024,,,Platense,,,Argentinos Juniors,,
+19,Sun Oct 27 2024,,,Vélez Sarsfield,,,Belgrano de Córdoba,,
+19,Sun Oct 27 2024,,,Defensa y Justicia,,,River Plate,,
+19,Sun Oct 27 2024,,,Banfield,,,Racing Club,,
+19,Sun Oct 27 2024,,,Instituto de Córdoba,,,Rosario Central,,
+19,Sun Oct 27 2024,,,Barracas Central,,,Estudiantes,,
+19,Sun Oct 27 2024,,,Independiente Rivadavia,,,San Lorenzo,,
+20,Sun Nov 3 2024,,,Central Córdoba SdE,,,San Lorenzo,,
+20,Sun Nov 3 2024,,,Estudiantes,,,Independiente Rivadavia,,
+20,Sun Nov 3 2024,,,Rosario Central,,,Barracas Central,,
+20,Sun Nov 3 2024,,,Racing Club,,,Instituto de Córdoba,,
+20,Sun Nov 3 2024,,,River Plate,,,Banfield,,
+20,Sun Nov 3 2024,,,Belgrano de Córdoba,,,Defensa y Justicia,,
+20,Sun Nov 3 2024,,,Argentinos Juniors,,,Vélez Sarsfield,,
+20,Sun Nov 3 2024,,,Tigre,,,Platense,,
+20,Sun Nov 3 2024,,,Deportivo Riestra,,,Talleres de Córdoba,,
+20,Sun Nov 3 2024,,,Lanús,,,Boca Juniors,,
+20,Sun Nov 3 2024,,,Godoy Cruz,,,Atlético Tucumán,,
+20,Sun Nov 3 2024,,,Sarmiento de Junín,,,Independiente,,
+20,Sun Nov 3 2024,,,Unión de Santa Fe,,,Newell's Old Boys,,
+20,Sun Nov 3 2024,,,Huracán,,,Gimnasia de La Plata,,
+21,Wed Nov 6 2024,,,Gimnasia de La Plata,,,Central Córdoba SdE,,
+21,Wed Nov 6 2024,,,Newell's Old Boys,,,Huracán,,
+21,Wed Nov 6 2024,,,Independiente,,,Unión de Santa Fe,,
+21,Wed Nov 6 2024,,,Atlético Tucumán,,,Sarmiento de Junín,,
+21,Wed Nov 6 2024,,,Boca Juniors,,,Godoy Cruz,,
+21,Wed Nov 6 2024,,,Talleres de Córdoba,,,Lanús,,
+21,Wed Nov 6 2024,,,Platense,,,Deportivo Riestra,,
+21,Wed Nov 6 2024,,,Vélez Sarsfield,,,Tigre,,
+21,Wed Nov 6 2024,,,Defensa y Justicia,,,Argentinos Juniors,,
+21,Wed Nov 6 2024,,,Banfield,,,Belgrano de Córdoba,,
+21,Wed Nov 6 2024,,,Instituto de Córdoba,,,River Plate,,
+21,Wed Nov 6 2024,,,Barracas Central,,,Racing Club,,
+21,Wed Nov 6 2024,,,Independiente Rivadavia,,,Rosario Central,,
+21,Wed Nov 6 2024,,,San Lorenzo,,,Estudiantes,,
+22,Sun Nov 10 2024,,,Central Córdoba SdE,,,Estudiantes,,
+22,Sun Nov 10 2024,,,Rosario Central,,,San Lorenzo,,
+22,Sun Nov 10 2024,,,Racing Club,,,Independiente Rivadavia,,
+22,Sun Nov 10 2024,,,River Plate,,,Barracas Central,,
+22,Sun Nov 10 2024,,,Belgrano de Córdoba,,,Instituto de Córdoba,,
+22,Sun Nov 10 2024,,,Argentinos Juniors,,,Banfield,,
+22,Sun Nov 10 2024,,,Tigre,,,Defensa y Justicia,,
+22,Sun Nov 10 2024,,,Deportivo Riestra,,,Vélez Sarsfield,,
+22,Sun Nov 10 2024,,,Lanús,,,Platense,,
+22,Sun Nov 10 2024,,,Godoy Cruz,,,Talleres de Córdoba,,
+22,Sun Nov 10 2024,,,Sarmiento de Junín,,,Boca Juniors,,
+22,Sun Nov 10 2024,,,Unión de Santa Fe,,,Atlético Tucumán,,
+22,Sun Nov 10 2024,,,Huracán,,,Independiente,,
+22,Sun Nov 10 2024,,,Gimnasia de La Plata,,,Newell's Old Boys,,
+23,Wed Nov 20 2024,,,Newell's Old Boys,,,Central Córdoba SdE,,
+23,Wed Nov 20 2024,,,Independiente,,,Gimnasia de La Plata,,
+23,Wed Nov 20 2024,,,Atlético Tucumán,,,Huracán,,
+23,Wed Nov 20 2024,,,Boca Juniors,,,Unión de Santa Fe,,
+23,Wed Nov 20 2024,,,Talleres de Córdoba,,,Sarmiento de Junín,,
+23,Wed Nov 20 2024,,,Platense,,,Godoy Cruz,,
+23,Wed Nov 20 2024,,,Vélez Sarsfield,,,Lanús,,
+23,Wed Nov 20 2024,,,Defensa y Justicia,,,Deportivo Riestra,,
+23,Wed Nov 20 2024,,,Banfield,,,Tigre,,
+23,Wed Nov 20 2024,,,Instituto de Córdoba,,,Argentinos Juniors,,
+23,Wed Nov 20 2024,,,Barracas Central,,,Belgrano de Córdoba,,
+23,Wed Nov 20 2024,,,Independiente Rivadavia,,,River Plate,,
+23,Wed Nov 20 2024,,,San Lorenzo,,,Racing Club,,
+23,Wed Nov 20 2024,,,Estudiantes,,,Rosario Central,,
+24,Sun Nov 24 2024,,,Central Córdoba SdE,,,Rosario Central,,
+24,Sun Nov 24 2024,,,Racing Club,,,Estudiantes,,
+24,Sun Nov 24 2024,,,River Plate,,,San Lorenzo,,
+24,Sun Nov 24 2024,,,Belgrano de Córdoba,,,Independiente Rivadavia,,
+24,Sun Nov 24 2024,,,Argentinos Juniors,,,Barracas Central,,
+24,Sun Nov 24 2024,,,Tigre,,,Instituto de Córdoba,,
+24,Sun Nov 24 2024,,,Deportivo Riestra,,,Banfield,,
+24,Sun Nov 24 2024,,,Lanús,,,Defensa y Justicia,,
+24,Sun Nov 24 2024,,,Godoy Cruz,,,Vélez Sarsfield,,
+24,Sun Nov 24 2024,,,Sarmiento de Junín,,,Platense,,
+24,Sun Nov 24 2024,,,Unión de Santa Fe,,,Talleres de Córdoba,,
+24,Sun Nov 24 2024,,,Huracán,,,Boca Juniors,,
+24,Sun Nov 24 2024,,,Gimnasia de La Plata,,,Atlético Tucumán,,
+24,Sun Nov 24 2024,,,Newell's Old Boys,,,Independiente,,
+25,Sun Dec 1 2024,,,Independiente,,,Central Córdoba SdE,,
+25,Sun Dec 1 2024,,,Atlético Tucumán,,,Newell's Old Boys,,
+25,Sun Dec 1 2024,,,Boca Juniors,,,Gimnasia de La Plata,,
+25,Sun Dec 1 2024,,,Talleres de Córdoba,,,Huracán,,
+25,Sun Dec 1 2024,,,Platense,,,Unión de Santa Fe,,
+25,Sun Dec 1 2024,,,Vélez Sarsfield,,,Sarmiento de Junín,,
+25,Sun Dec 1 2024,,,Defensa y Justicia,,,Godoy Cruz,,
+25,Sun Dec 1 2024,,,Banfield,,,Lanús,,
+25,Sun Dec 1 2024,,,Instituto de Córdoba,,,Deportivo Riestra,,
+25,Sun Dec 1 2024,,,Barracas Central,,,Tigre,,
+25,Sun Dec 1 2024,,,Independiente Rivadavia,,,Argentinos Juniors,,
+25,Sun Dec 1 2024,,,San Lorenzo,,,Belgrano de Córdoba,,
+25,Sun Dec 1 2024,,,Estudiantes,,,River Plate,,
+25,Sun Dec 1 2024,,,Rosario Central,,,Racing Club,,
+26,Sun Dec 8 2024,,,Central Córdoba SdE,,,Racing Club,,
+26,Sun Dec 8 2024,,,River Plate,,,Rosario Central,,
+26,Sun Dec 8 2024,,,Belgrano de Córdoba,,,Estudiantes,,
+26,Sun Dec 8 2024,,,Argentinos Juniors,,,San Lorenzo,,
+26,Sun Dec 8 2024,,,Tigre,,,Independiente Rivadavia,,
+26,Sun Dec 8 2024,,,Deportivo Riestra,,,Barracas Central,,
+26,Sun Dec 8 2024,,,Lanús,,,Instituto de Córdoba,,
+26,Sun Dec 8 2024,,,Godoy Cruz,,,Banfield,,
+26,Sun Dec 8 2024,,,Sarmiento de Junín,,,Defensa y Justicia,,
+26,Sun Dec 8 2024,,,Unión de Santa Fe,,,Vélez Sarsfield,,
+26,Sun Dec 8 2024,,,Huracán,,,Platense,,
+26,Sun Dec 8 2024,,,Gimnasia de La Plata,,,Talleres de Córdoba,,
+26,Sun Dec 8 2024,,,Newell's Old Boys,,,Boca Juniors,,
+26,Sun Dec 8 2024,,,Independiente,,,Atlético Tucumán,,
+27,Sun Dec 15 2024,,,Atlético Tucumán,,,Central Córdoba SdE,,
+27,Sun Dec 15 2024,,,Boca Juniors,,,Independiente,,
+27,Sun Dec 15 2024,,,Talleres de Córdoba,,,Newell's Old Boys,,
+27,Sun Dec 15 2024,,,Platense,,,Gimnasia de La Plata,,
+27,Sun Dec 15 2024,,,Vélez Sarsfield,,,Huracán,,
+27,Sun Dec 15 2024,,,Defensa y Justicia,,,Unión de Santa Fe,,
+27,Sun Dec 15 2024,,,Banfield,,,Sarmiento de Junín,,
+27,Sun Dec 15 2024,,,Instituto de Córdoba,,,Godoy Cruz,,
+27,Sun Dec 15 2024,,,Barracas Central,,,Lanús,,
+27,Sun Dec 15 2024,,,Independiente Rivadavia,,,Deportivo Riestra,,
+27,Sun Dec 15 2024,,,San Lorenzo,,,Tigre,,
+27,Sun Dec 15 2024,,,Estudiantes,,,Argentinos Juniors,,
+27,Sun Dec 15 2024,,,Rosario Central,,,Belgrano de Córdoba,,
+27,Sun Dec 15 2024,,,Racing Club,,,River Plate,,

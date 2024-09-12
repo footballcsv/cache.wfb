@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 12 2024,21:30,EEST/+0300,FC Hermannstadt,0-0,0-0,CS Universitatea Craiova,2024-07-12T18:30Z
+1,Fri Jul 12 2024,18:30,EEST/+0300,Farul Constanța,0-1,0-1,Unirea Slobozia,2024-07-12T15:30Z
+1,Sat Jul 13 2024,19:15,EEST/+0300,UTA Arad,1-1,0-1,Rapid Bucureşti,2024-07-13T16:15Z
+1,Sat Jul 13 2024,22:00,EEST/+0300,FCSB,1-1,0-0,Universitatea Cluj,2024-07-13T19:00Z
+1,Sat Jul 13 2024,17:00,EEST/+0300,Sepsi OSK,1-0,1-0,FC Politehnica Iași,2024-07-13T14:00Z
+1,Sun Jul 14 2024,19:00,EEST/+0300,CFR Cluj,3-2,1-2,Dinamo Bucureşti,2024-07-14T16:00Z
+1,Mon Jul 15 2024,18:30,EEST/+0300,FC Botoşani,2-3,1-1,Oţelul Galaţi,2024-07-15T15:30Z
+1,Mon Jul 15 2024,21:30,EEST/+0300,Petrolul Ploieşti,0-0,0-0,Gloria Buzău,2024-07-15T18:30Z
+2,Fri Jul 19 2024,22:00,EEST/+0300,Unirea Slobozia,2-2,1-1,FCSB,2024-07-19T19:00Z
+2,Fri Jul 19 2024,19:00,EEST/+0300,FC Politehnica Iași,1-0,1-0,FC Botoşani,2024-07-19T16:00Z
+2,Sat Jul 20 2024,22:00,EEST/+0300,Rapid Bucureşti,2-2,0-1,CFR Cluj,2024-07-20T19:00Z
+2,Sat Jul 20 2024,19:00,EEST/+0300,CS Universitatea Craiova,4-2,1-1,UTA Arad,2024-07-20T16:00Z
+2,Sun Jul 21 2024,22:00,EEST/+0300,Dinamo Bucureşti,4-1,2-0,Petrolul Ploieşti,2024-07-21T19:00Z
+2,Sun Jul 21 2024,19:00,EEST/+0300,Universitatea Cluj,3-1,3-1,FC Hermannstadt,2024-07-21T16:00Z
+2,Mon Jul 22 2024,19:00,EEST/+0300,Gloria Buzău,1-2,0-2,Sepsi OSK,2024-07-22T16:00Z
+2,Mon Jul 22 2024,22:00,EEST/+0300,Oţelul Galaţi,0-0,0-0,Farul Constanța,2024-07-22T19:00Z
+3,Fri Jul 26 2024,22:00,EEST/+0300,FCSB,0-2,0-1,Oţelul Galaţi,2024-07-26T19:00Z
+3,Fri Jul 26 2024,19:00,EEST/+0300,FC Hermannstadt,1-1,1-1,Unirea Slobozia,2024-07-26T16:00Z
+3,Sat Jul 27 2024,22:00,EEST/+0300,Sepsi OSK,1-1,1-0,Dinamo Bucureşti,2024-07-27T19:00Z
+3,Sat Jul 27 2024,19:00,EEST/+0300,FC Politehnica Iași,1-2,1-1,Gloria Buzău,2024-07-27T16:00Z
+3,Sun Jul 28 2024,22:00,EEST/+0300,CFR Cluj,0-2,0-0,CS Universitatea Craiova,2024-07-28T19:00Z
+3,Sun Jul 28 2024,19:00,EEST/+0300,Farul Constanța,0-1,0-0,FC Botoşani,2024-07-28T16:00Z
+3,Mon Jul 29 2024,19:00,EEST/+0300,UTA Arad,0-0,0-0,Universitatea Cluj,2024-07-29T16:00Z
+3,Mon Jul 29 2024,22:00,EEST/+0300,Petrolul Ploieşti,1-0,1-0,Rapid Bucureşti,2024-07-29T19:00Z
+4,Fri Aug 2 2024,22:00,EEST/+0300,Dinamo Bucureşti,4-1,2-0,Gloria Buzău,2024-08-02T19:00Z
+4,Fri Aug 2 2024,19:00,EEST/+0300,Oţelul Galaţi,1-0,0-0,FC Hermannstadt,2024-08-02T16:00Z
+4,Sat Aug 3 2024,21:00,EEST/+0300,Farul Constanța,2-0,2-0,FC Politehnica Iași,2024-08-03T18:00Z
+4,Sun Aug 4 2024,22:00,EEST/+0300,CFR Cluj,2-3,1-0,Universitatea Cluj,2024-08-04T19:00Z
+4,Sun Aug 4 2024,19:00,EEST/+0300,CS Universitatea Craiova,0-0,0-0,Petrolul Ploieşti,2024-08-04T16:00Z
+4,Mon Aug 5 2024,19:00,EEST/+0300,Unirea Slobozia,0-1,0-0,UTA Arad,2024-08-05T16:00Z
+4,Mon Aug 5 2024,22:00,EEST/+0300,Rapid Bucureşti,2-2,2-1,Sepsi OSK,2024-08-05T19:00Z
+5,Fri Aug 9 2024,21:00,EEST/+0300,FCSB,3-2,1-2,Farul Constanța,2024-08-09T18:00Z
+5,Sat Aug 10 2024,17:00,EEST/+0300,FC Hermannstadt,2-1,0-1,FC Botoşani,2024-08-10T14:00Z
+5,Sat Aug 10 2024,19:00,EEST/+0300,UTA Arad,1-1,0-1,Oţelul Galaţi,2024-08-10T16:00Z
+5,Sat Aug 10 2024,22:00,EEST/+0300,Gloria Buzău,1-1,0-1,Rapid Bucureşti,2024-08-10T19:00Z
+5,Sun Aug 11 2024,22:00,EEST/+0300,CFR Cluj,3-0,1-0,Unirea Slobozia,2024-08-11T19:00Z
+5,Sun Aug 11 2024,19:00,EEST/+0300,Sepsi OSK,1-2,0-1,CS Universitatea Craiova,2024-08-11T16:00Z
+5,Mon Aug 12 2024,19:00,EEST/+0300,Petrolul Ploieşti,0-0,0-0,Universitatea Cluj,2024-08-12T16:00Z
+5,Mon Aug 12 2024,22:00,EEST/+0300,FC Politehnica Iași,2-2,2-1,Dinamo Bucureşti,2024-08-12T19:00Z
+6,Fri Aug 16 2024,19:00,EEST/+0300,Unirea Slobozia,1-2,1-1,Petrolul Ploieşti,2024-08-16T16:00Z
+6,Fri Aug 16 2024,22:00,EEST/+0300,CS Universitatea Craiova,5-1,2-0,Gloria Buzău,2024-08-16T19:00Z
+6,Sat Aug 17 2024,22:00,EEST/+0300,FCSB,0-1,0-1,FC Politehnica Iași,2024-08-17T19:00Z
+6,Sat Aug 17 2024,19:00,EEST/+0300,FC Botoşani,1-0,0-0,UTA Arad,2024-08-17T16:00Z
+6,Sun Aug 18 2024,21:30,EEST/+0300,Rapid Bucureşti,1-1,0-0,Dinamo Bucureşti,2024-08-18T18:30Z
+6,Mon Aug 19 2024,19:00,EEST/+0300,Universitatea Cluj,3-0,1-0,Sepsi OSK,2024-08-19T16:00Z
+6,Mon Aug 19 2024,22:00,EEST/+0300,Farul Constanța,3-2,1-0,FC Hermannstadt,2024-08-19T19:00Z
+7,Fri Aug 23 2024,19:00,EEST/+0300,Petrolul Ploieşti,0-0,0-0,Oţelul Galaţi,2024-08-23T16:00Z
+7,Fri Aug 23 2024,22:00,EEST/+0300,FC Politehnica Iași,1-2,0-1,Rapid Bucureşti,2024-08-23T19:00Z
+7,Sat Aug 24 2024,19:00,EEST/+0300,Sepsi OSK,0-1,0-0,Unirea Slobozia,2024-08-24T16:00Z
+7,Sat Aug 24 2024,22:00,EEST/+0300,Dinamo Bucureşti,2-1,2-1,CS Universitatea Craiova,2024-08-24T19:00Z
+7,Sun Aug 25 2024,19:00,EEST/+0300,CFR Cluj,3-0,0-0,FC Botoşani,2024-08-25T16:00Z
+7,Sun Aug 25 2024,22:00,EEST/+0300,FC Hermannstadt,2-0,0-0,FCSB,2024-08-25T19:00Z
+7,Mon Aug 26 2024,19:00,EEST/+0300,Gloria Buzău,0-2,0-2,Universitatea Cluj,2024-08-26T16:00Z
+7,Mon Aug 26 2024,22:00,EEST/+0300,UTA Arad,1-1,1-0,Farul Constanța,2024-08-26T19:00Z
+8,Fri Aug 30 2024,21:00,EEST/+0300,Oţelul Galaţi,2-0,2-0,Sepsi OSK,2024-08-30T18:00Z
+8,Sat Aug 31 2024,21:30,EEST/+0300,CS Universitatea Craiova,1-1,1-1,Rapid Bucureşti,2024-08-31T18:30Z
+8,Sat Aug 31 2024,18:30,EEST/+0300,FC Hermannstadt,6-2,4-1,FC Politehnica Iași,2024-08-31T15:30Z
+8,Sun Sep 1 2024,21:30,EEST/+0300,FCSB,2-0,1-0,UTA Arad,2024-09-01T18:30Z
+8,Sun Sep 1 2024,18:45,EEST/+0300,Farul Constanța,0-3,0-1,CFR Cluj,2024-09-01T15:45Z
+8,Sun Sep 1 2024,16:30,EEST/+0300,FC Botoşani,0-2,0-0,Petrolul Ploieşti,2024-09-01T13:30Z
+8,Mon Sep 2 2024,19:00,EEST/+0300,Unirea Slobozia,2-1,1-0,Gloria Buzău,2024-09-02T16:00Z
+8,Mon Sep 2 2024,21:30,EEST/+0300,Universitatea Cluj,1-0,0-0,Dinamo Bucureşti,2024-09-02T18:30Z
+9,Fri Sep 13 2024,18:00,EEST/+0300,Sepsi OSK,,,FC Botoşani,2024-09-13T15:00Z
+9,Fri Sep 13 2024,21:00,EEST/+0300,Dinamo Bucureşti,,,Unirea Slobozia,2024-09-13T18:00Z
+9,Sat Sep 14 2024,18:45,EEST/+0300,Gloria Buzău,,,Oţelul Galaţi,2024-09-14T15:45Z
+9,Sat Sep 14 2024,21:30,EEST/+0300,Petrolul Ploieşti,,,Farul Constanța,2024-09-14T18:30Z
+9,Sun Sep 15 2024,18:15,EEST/+0300,FC Politehnica Iași,,,CS Universitatea Craiova,2024-09-15T15:15Z
+9,Sun Sep 15 2024,21:00,EEST/+0300,CFR Cluj,,,FCSB,2024-09-15T18:00Z
+9,Mon Sep 16 2024,18:00,EEST/+0300,UTA Arad,,,FC Hermannstadt,2024-09-16T15:00Z
+9,Mon Sep 16 2024,21:00,EEST/+0300,Rapid Bucureşti,,,Universitatea Cluj,2024-09-16T18:00Z
+6,Wed Sep 18 2024,,,Oţelul Galaţi,,,CFR Cluj,
+4,Wed Sep 18 2024,,,FC Botoşani,,,FCSB,
+10,Fri Sep 20 2024,21:00,EEST/+0300,Oţelul Galaţi,,,Dinamo Bucureşti,2024-09-20T18:00Z
+10,Fri Sep 20 2024,18:00,EEST/+0300,FC Botoşani,,,Gloria Buzău,2024-09-20T15:00Z
+10,Sat Sep 21 2024,18:30,EEST/+0300,FC Hermannstadt,,,CFR Cluj,2024-09-21T15:30Z
+10,Sat Sep 21 2024,21:30,EEST/+0300,FCSB,,,Petrolul Ploieşti,2024-09-21T18:30Z
+10,Sun Sep 22 2024,21:30,EEST/+0300,Universitatea Cluj,,,CS Universitatea Craiova,2024-09-22T18:30Z
+10,Sun Sep 22 2024,16:00,EEST/+0300,Farul Constanța,,,Sepsi OSK,2024-09-22T13:00Z
+10,Mon Sep 23 2024,21:00,EEST/+0300,Unirea Slobozia,,,Rapid Bucureşti,2024-09-23T18:00Z
+10,Mon Sep 23 2024,18:00,EEST/+0300,UTA Arad,,,FC Politehnica Iași,2024-09-23T15:00Z
+11,Sat Sep 28 2024,,,Sepsi OSK,,,FCSB,
+11,Sat Sep 28 2024,,,Gloria Buzău,,,Farul Constanța,
+11,Sat Sep 28 2024,,,Dinamo Bucureşti,,,FC Botoşani,
+11,Sat Sep 28 2024,,,Rapid Bucureşti,,,Oţelul Galaţi,
+11,Sat Sep 28 2024,,,Petrolul Ploieşti,,,FC Hermannstadt,
+11,Sat Sep 28 2024,,,CS Universitatea Craiova,,,Unirea Slobozia,
+11,Sat Sep 28 2024,,,CFR Cluj,,,UTA Arad,
+11,Sat Sep 28 2024,,,FC Politehnica Iași,,,Universitatea Cluj,
+12,Sat Oct 5 2024,,,FC Hermannstadt,,,Sepsi OSK,
+12,Sat Oct 5 2024,,,FCSB,,,Gloria Buzău,
+12,Sat Oct 5 2024,,,Farul Constanța,,,Dinamo Bucureşti,
+12,Sat Oct 5 2024,,,FC Botoşani,,,Rapid Bucureşti,
+12,Sat Oct 5 2024,,,Oţelul Galaţi,,,CS Universitatea Craiova,
+12,Sat Oct 5 2024,,,UTA Arad,,,Petrolul Ploieşti,
+12,Sat Oct 5 2024,,,Unirea Slobozia,,,Universitatea Cluj,
+12,Sat Oct 5 2024,,,CFR Cluj,,,FC Politehnica Iași,
+13,Sat Oct 19 2024,,,Gloria Buzău,,,FC Hermannstadt,
+13,Sat Oct 19 2024,,,Dinamo Bucureşti,,,FCSB,
+13,Sat Oct 19 2024,,,Rapid Bucureşti,,,Farul Constanța,
+13,Sat Oct 19 2024,,,CS Universitatea Craiova,,,FC Botoşani,
+13,Sat Oct 19 2024,,,Universitatea Cluj,,,Oţelul Galaţi,
+13,Sat Oct 19 2024,,,Petrolul Ploieşti,,,CFR Cluj,
+13,Sat Oct 19 2024,,,FC Politehnica Iași,,,Unirea Slobozia,
+13,Sat Oct 19 2024,,,Sepsi OSK,,,UTA Arad,
+14,Sat Oct 26 2024,,,CFR Cluj,,,Sepsi OSK,
+14,Sat Oct 26 2024,,,UTA Arad,,,Gloria Buzău,
+14,Sat Oct 26 2024,,,FC Hermannstadt,,,Dinamo Bucureşti,
+14,Sat Oct 26 2024,,,FCSB,,,Rapid Bucureşti,
+14,Sat Oct 26 2024,,,Farul Constanța,,,CS Universitatea Craiova,
+14,Sat Oct 26 2024,,,FC Botoşani,,,Universitatea Cluj,
+14,Sat Oct 26 2024,,,Oţelul Galaţi,,,Unirea Slobozia,
+14,Sat Oct 26 2024,,,Petrolul Ploieşti,,,FC Politehnica Iași,
+15,Sat Nov 2 2024,,,Gloria Buzău,,,CFR Cluj,
+15,Sat Nov 2 2024,,,Dinamo Bucureşti,,,UTA Arad,
+15,Sat Nov 2 2024,,,Rapid Bucureşti,,,FC Hermannstadt,
+15,Sat Nov 2 2024,,,CS Universitatea Craiova,,,FCSB,
+15,Sat Nov 2 2024,,,Universitatea Cluj,,,Farul Constanța,
+15,Sat Nov 2 2024,,,Unirea Slobozia,,,FC Botoşani,
+15,Sat Nov 2 2024,,,FC Politehnica Iași,,,Oţelul Galaţi,
+15,Sat Nov 2 2024,,,Sepsi OSK,,,Petrolul Ploieşti,
+16,Sat Nov 9 2024,,,FC Politehnica Iași,,,Sepsi OSK,
+16,Sat Nov 9 2024,,,Gloria Buzău,,,Petrolul Ploieşti,
+16,Sat Nov 9 2024,,,Dinamo Bucureşti,,,CFR Cluj,
+16,Sat Nov 9 2024,,,Rapid Bucureşti,,,UTA Arad,
+16,Sat Nov 9 2024,,,CS Universitatea Craiova,,,FC Hermannstadt,
+16,Sat Nov 9 2024,,,Universitatea Cluj,,,FCSB,
+16,Sat Nov 9 2024,,,Unirea Slobozia,,,Farul Constanța,
+16,Sat Nov 9 2024,,,Oţelul Galaţi,,,FC Botoşani,
+17,Sat Nov 23 2024,,,Petrolul Ploieşti,,,Dinamo Bucureşti,
+17,Sat Nov 23 2024,,,CFR Cluj,,,Rapid Bucureşti,
+17,Sat Nov 23 2024,,,UTA Arad,,,CS Universitatea Craiova,
+17,Sat Nov 23 2024,,,FC Hermannstadt,,,Universitatea Cluj,
+17,Sat Nov 23 2024,,,FCSB,,,Unirea Slobozia,
+17,Sat Nov 23 2024,,,Farul Constanța,,,Oţelul Galaţi,
+17,Sat Nov 23 2024,,,FC Botoşani,,,FC Politehnica Iași,
+17,Sat Nov 23 2024,,,Sepsi OSK,,,Gloria Buzău,
+18,Sat Nov 30 2024,,,Dinamo Bucureşti,,,Sepsi OSK,
+18,Sat Nov 30 2024,,,Rapid Bucureşti,,,Petrolul Ploieşti,
+18,Sat Nov 30 2024,,,CS Universitatea Craiova,,,CFR Cluj,
+18,Sat Nov 30 2024,,,Universitatea Cluj,,,UTA Arad,
+18,Sat Nov 30 2024,,,Unirea Slobozia,,,FC Hermannstadt,
+18,Sat Nov 30 2024,,,Oţelul Galaţi,,,FCSB,
+18,Sat Nov 30 2024,,,FC Botoşani,,,Farul Constanța,
+18,Sat Nov 30 2024,,,Gloria Buzău,,,FC Politehnica Iași,
+19,Sat Dec 7 2024,,,Petrolul Ploieşti,,,CS Universitatea Craiova,
+19,Sat Dec 7 2024,,,CFR Cluj,,,Universitatea Cluj,
+19,Sat Dec 7 2024,,,UTA Arad,,,Unirea Slobozia,
+19,Sat Dec 7 2024,,,FC Hermannstadt,,,Oţelul Galaţi,
+19,Sat Dec 7 2024,,,FCSB,,,FC Botoşani,
+19,Sat Dec 7 2024,,,Gloria Buzău,,,Dinamo Bucureşti,
+19,Sat Dec 7 2024,,,FC Politehnica Iași,,,Farul Constanța,
+19,Sat Dec 7 2024,,,Sepsi OSK,,,Rapid Bucureşti,
+20,Sat Dec 14 2024,,,CS Universitatea Craiova,,,Sepsi OSK,
+20,Sat Dec 14 2024,,,Universitatea Cluj,,,Petrolul Ploieşti,
+20,Sat Dec 14 2024,,,Unirea Slobozia,,,CFR Cluj,
+20,Sat Dec 14 2024,,,Oţelul Galaţi,,,UTA Arad,
+20,Sat Dec 14 2024,,,FC Botoşani,,,FC Hermannstadt,
+20,Sat Dec 14 2024,,,Rapid Bucureşti,,,Gloria Buzău,
+20,Sat Dec 14 2024,,,Farul Constanța,,,FCSB,
+20,Sat Dec 14 2024,,,Dinamo Bucureşti,,,FC Politehnica Iași,
+21,Sat Dec 21 2024,,,Petrolul Ploieşti,,,Unirea Slobozia,
+21,Sat Dec 21 2024,,,CFR Cluj,,,Oţelul Galaţi,
+21,Sat Dec 21 2024,,,UTA Arad,,,FC Botoşani,
+21,Sat Dec 21 2024,,,Gloria Buzău,,,CS Universitatea Craiova,
+21,Sat Dec 21 2024,,,FC Hermannstadt,,,Farul Constanța,
+21,Sat Dec 21 2024,,,Dinamo Bucureşti,,,Rapid Bucureşti,
+21,Sat Dec 21 2024,,,FC Politehnica Iași,,,FCSB,
+21,Sat Dec 21 2024,,,Sepsi OSK,,,Universitatea Cluj,
+22,Sat Jan 18 2025,,,Unirea Slobozia,,,Sepsi OSK,
+22,Sat Jan 18 2025,,,Oţelul Galaţi,,,Petrolul Ploieşti,
+22,Sat Jan 18 2025,,,FC Botoşani,,,CFR Cluj,
+22,Sat Jan 18 2025,,,Universitatea Cluj,,,Gloria Buzău,
+22,Sat Jan 18 2025,,,Farul Constanța,,,UTA Arad,
+22,Sat Jan 18 2025,,,CS Universitatea Craiova,,,Dinamo Bucureşti,
+22,Sat Jan 18 2025,,,FCSB,,,FC Hermannstadt,
+22,Sat Jan 18 2025,,,Rapid Bucureşti,,,FC Politehnica Iași,
+23,Sat Jan 25 2025,,,Petrolul Ploieşti,,,FC Botoşani,
+23,Sat Jan 25 2025,,,Gloria Buzău,,,Unirea Slobozia,
+23,Sat Jan 25 2025,,,CFR Cluj,,,Farul Constanța,
+23,Sat Jan 25 2025,,,Dinamo Bucureşti,,,Universitatea Cluj,
+23,Sat Jan 25 2025,,,UTA Arad,,,FCSB,
+23,Sat Jan 25 2025,,,Rapid Bucureşti,,,CS Universitatea Craiova,
+23,Sat Jan 25 2025,,,FC Politehnica Iași,,,FC Hermannstadt,
+23,Sat Jan 25 2025,,,Sepsi OSK,,,Oţelul Galaţi,
+24,Sat Feb 1 2025,,,FC Botoşani,,,Sepsi OSK,
+24,Sat Feb 1 2025,,,Oţelul Galaţi,,,Gloria Buzău,
+24,Sat Feb 1 2025,,,Farul Constanța,,,Petrolul Ploieşti,
+24,Sat Feb 1 2025,,,Unirea Slobozia,,,Dinamo Bucureşti,
+24,Sat Feb 1 2025,,,FCSB,,,CFR Cluj,
+24,Sat Feb 1 2025,,,Universitatea Cluj,,,Rapid Bucureşti,
+24,Sat Feb 1 2025,,,FC Hermannstadt,,,UTA Arad,
+24,Sat Feb 1 2025,,,CS Universitatea Craiova,,,FC Politehnica Iași,
+25,Wed Feb 5 2025,,,Gloria Buzău,,,FC Botoşani,
+25,Wed Feb 5 2025,,,Dinamo Bucureşti,,,Oţelul Galaţi,
+25,Wed Feb 5 2025,,,Petrolul Ploieşti,,,FCSB,
+25,Wed Feb 5 2025,,,Rapid Bucureşti,,,Unirea Slobozia,
+25,Wed Feb 5 2025,,,CFR Cluj,,,FC Hermannstadt,
+25,Wed Feb 5 2025,,,CS Universitatea Craiova,,,Universitatea Cluj,
+25,Wed Feb 5 2025,,,FC Politehnica Iași,,,UTA Arad,
+25,Wed Feb 5 2025,,,Sepsi OSK,,,Farul Constanța,
+26,Sat Feb 8 2025,,,FCSB,,,Sepsi OSK,
+26,Sat Feb 8 2025,,,Farul Constanța,,,Gloria Buzău,
+26,Sat Feb 8 2025,,,FC Botoşani,,,Dinamo Bucureşti,
+26,Sat Feb 8 2025,,,Oţelul Galaţi,,,Rapid Bucureşti,
+26,Sat Feb 8 2025,,,FC Hermannstadt,,,Petrolul Ploieşti,
+26,Sat Feb 8 2025,,,Unirea Slobozia,,,CS Universitatea Craiova,
+26,Sat Feb 8 2025,,,UTA Arad,,,CFR Cluj,
+26,Sat Feb 8 2025,,,Universitatea Cluj,,,FC Politehnica Iași,
+27,Sat Feb 15 2025,,,Gloria Buzău,,,FCSB,
+27,Sat Feb 15 2025,,,Dinamo Bucureşti,,,Farul Constanța,
+27,Sat Feb 15 2025,,,Rapid Bucureşti,,,FC Botoşani,
+27,Sat Feb 15 2025,,,CS Universitatea Craiova,,,Oţelul Galaţi,
+27,Sat Feb 15 2025,,,Petrolul Ploieşti,,,UTA Arad,
+27,Sat Feb 15 2025,,,Universitatea Cluj,,,Unirea Slobozia,
+27,Sat Feb 15 2025,,,FC Politehnica Iași,,,CFR Cluj,
+27,Sat Feb 15 2025,,,Sepsi OSK,,,FC Hermannstadt,
+28,Sat Feb 22 2025,,,UTA Arad,,,Sepsi OSK,
+28,Sat Feb 22 2025,,,FC Hermannstadt,,,Gloria Buzău,
+28,Sat Feb 22 2025,,,FCSB,,,Dinamo Bucureşti,
+28,Sat Feb 22 2025,,,Farul Constanța,,,Rapid Bucureşti,
+28,Sat Feb 22 2025,,,FC Botoşani,,,CS Universitatea Craiova,
+28,Sat Feb 22 2025,,,Oţelul Galaţi,,,Universitatea Cluj,
+28,Sat Feb 22 2025,,,CFR Cluj,,,Petrolul Ploieşti,
+28,Sat Feb 22 2025,,,Unirea Slobozia,,,FC Politehnica Iași,
+29,Sat Mar 1 2025,,,Gloria Buzău,,,UTA Arad,
+29,Sat Mar 1 2025,,,Dinamo Bucureşti,,,FC Hermannstadt,
+29,Sat Mar 1 2025,,,Rapid Bucureşti,,,FCSB,
+29,Sat Mar 1 2025,,,CS Universitatea Craiova,,,Farul Constanța,
+29,Sat Mar 1 2025,,,Universitatea Cluj,,,FC Botoşani,
+29,Sat Mar 1 2025,,,Unirea Slobozia,,,Oţelul Galaţi,
+29,Sat Mar 1 2025,,,FC Politehnica Iași,,,Petrolul Ploieşti,
+29,Sat Mar 1 2025,,,Sepsi OSK,,,CFR Cluj,
+30,Sat Mar 8 2025,,,Petrolul Ploieşti,,,Sepsi OSK,
+30,Sat Mar 8 2025,,,CFR Cluj,,,Gloria Buzău,
+30,Sat Mar 8 2025,,,UTA Arad,,,Dinamo Bucureşti,
+30,Sat Mar 8 2025,,,FC Hermannstadt,,,Rapid Bucureşti,
+30,Sat Mar 8 2025,,,FCSB,,,CS Universitatea Craiova,
+30,Sat Mar 8 2025,,,Farul Constanța,,,Universitatea Cluj,
+30,Sat Mar 8 2025,,,FC Botoşani,,,Unirea Slobozia,
+30,Sat Mar 8 2025,,,Oţelul Galaţi,,,FC Politehnica Iași,

@@ -1,0 +1,314 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+,1,Fri Jul 28 2023,20:45,CEST/+0200,Union Saint-Gilloise,2-0,1-0,RSC Anderlecht,,2023-07-28T18:45Z
+,1,Sat Jul 29 2023,18:15,CEST/+0200,Sporting Charleroi,1-1,1-0,Oud-Heverlee Leuven,,2023-07-29T16:15Z
+,1,Sat Jul 29 2023,20:45,CEST/+0200,RWDM Brussels FC,0-4,0-3,KRC Genk,,2023-07-29T18:45Z
+,1,Sat Jul 29 2023,16:00,CEST/+0200,KAS Eupen,2-2,1-0,KVC Westerlo,,2023-07-29T14:00Z
+,1,Sun Jul 30 2023,16:00,CEST/+0200,KAA Gent,3-2,2-1,KV Kortrijk,,2023-07-30T14:00Z
+,1,Sun Jul 30 2023,18:30,CEST/+0200,Club Brugge KV,1-1,0-1,KV Mechelen,,2023-07-30T16:30Z
+,1,Sun Jul 30 2023,19:15,CEST/+0200,Sint-Truidense VV,1-0,0-0,Standard Liège,,2023-07-30T17:15Z
+,1,Sun Jul 30 2023,13:30,CEST/+0200,Royal Antwerp FC,1-0,1-0,Cercle Brugge,,2023-07-30T11:30Z
+,2,Fri Aug 4 2023,20:45,CEST/+0200,Standard Liège,0-1,0-1,Union Saint-Gilloise,,2023-08-04T18:45Z
+,2,Sat Aug 5 2023,18:15,CEST/+0200,Cercle Brugge,2-0,2-0,Sporting Charleroi,,2023-08-05T16:15Z
+,2,Sat Aug 5 2023,20:45,CEST/+0200,Oud-Heverlee Leuven,1-2,1-1,RWDM Brussels FC,,2023-08-05T18:45Z
+,2,Sat Aug 5 2023,16:00,CEST/+0200,KRC Genk,0-1,0-1,KAS Eupen,,2023-08-05T14:00Z
+,2,Sun Aug 6 2023,16:00,CEST/+0200,KV Mechelen,0-1,0-0,KAA Gent,,2023-08-06T14:00Z
+,2,Sun Aug 6 2023,18:30,CEST/+0200,KVC Westerlo,0-1,0-1,Club Brugge KV,,2023-08-06T16:30Z
+,2,Sun Aug 6 2023,19:15,CEST/+0200,KV Kortrijk,0-1,0-0,Sint-Truidense VV,,2023-08-06T17:15Z
+,2,Sun Aug 6 2023,13:30,CEST/+0200,RSC Anderlecht,1-0,1-0,Royal Antwerp FC,,2023-08-06T11:30Z
+,3,Fri Aug 11 2023,20:45,CEST/+0200,Royal Antwerp FC,6-0,4-0,KV Kortrijk,,2023-08-11T18:45Z
+,3,Sat Aug 12 2023,18:15,CEST/+0200,Union Saint-Gilloise,5-1,2-1,Oud-Heverlee Leuven,,2023-08-12T16:15Z
+,3,Sat Aug 12 2023,16:00,CEST/+0200,RWDM Brussels FC,1-0,0-0,KV Mechelen,,2023-08-12T14:00Z
+,3,Sun Aug 13 2023,16:00,CEST/+0200,Cercle Brugge,0-1,0-0,KRC Genk,,2023-08-13T14:00Z
+,3,Sun Aug 13 2023,16:00,CEST/+0200,KAS Eupen,0-5,0-3,Club Brugge KV,,2023-08-13T14:00Z
+,3,Sun Aug 13 2023,18:30,CEST/+0200,Sporting Charleroi,1-1,0-1,Standard Liège,,2023-08-13T16:30Z
+,3,Sun Aug 13 2023,19:15,CEST/+0200,KVC Westerlo,1-3,1-1,KAA Gent,,2023-08-13T17:15Z
+,3,Sun Aug 13 2023,13:30,CEST/+0200,Sint-Truidense VV,0-1,0-0,RSC Anderlecht,,2023-08-13T11:30Z
+,4,Fri Aug 18 2023,20:45,CEST/+0200,Oud-Heverlee Leuven,1-1,0-1,Royal Antwerp FC,,2023-08-18T18:45Z
+,4,Sat Aug 19 2023,20:45,CEST/+0200,KV Mechelen,4-0,1-0,Union Saint-Gilloise,,2023-08-19T18:45Z
+,4,Sat Aug 19 2023,16:00,CEST/+0200,Standard Liège,0-1,0-0,Cercle Brugge,,2023-08-19T14:00Z
+,4,Sun Aug 20 2023,16:00,CEST/+0200,KRC Genk,0-0,0-0,Sporting Charleroi,,2023-08-20T14:00Z
+,4,Sun Aug 20 2023,16:00,CEST/+0200,KAA Gent,2-2,1-2,Sint-Truidense VV,,2023-08-20T14:00Z
+,4,Sun Aug 20 2023,18:30,CEST/+0200,Club Brugge KV,7-1,2-1,RWDM Brussels FC,,2023-08-20T16:30Z
+,4,Sun Aug 20 2023,19:15,CEST/+0200,KV Kortrijk,1-3,0-0,KAS Eupen,,2023-08-20T17:15Z
+,4,Sun Aug 20 2023,13:30,CEST/+0200,RSC Anderlecht,2-1,1-0,KVC Westerlo,,2023-08-20T11:30Z
+,5,Sat Aug 26 2023,16:00,CEST/+0200,KVC Westerlo,2-3,2-0,KV Mechelen,,2023-08-26T14:00Z
+,5,Sat Aug 26 2023,18:15,CEST/+0200,KAS Eupen,3-1,1-0,Oud-Heverlee Leuven,,2023-08-26T16:15Z
+,5,Sat Aug 26 2023,20:45,CEST/+0200,KV Kortrijk,1-1,1-0,Standard Liège,,2023-08-26T18:45Z
+,5,Sun Aug 27 2023,18:30,CEST/+0200,RSC Anderlecht,2-1,1-0,Sporting Charleroi,,2023-08-27T16:30Z
+,5,Sun Aug 27 2023,16:00,CEST/+0200,Sint-Truidense VV,0-2,0-0,Cercle Brugge,,2023-08-27T14:00Z
+,6,Fri Sep 1 2023,20:45,CEST/+0200,Oud-Heverlee Leuven,3-0,1-0,KV Kortrijk,,2023-09-01T18:45Z
+,6,Sat Sep 2 2023,16:00,CEST/+0200,Cercle Brugge,2-1,1-0,KVC Westerlo,,2023-09-02T14:00Z
+,6,Sat Sep 2 2023,18:15,CEST/+0200,KV Mechelen,1-0,0-0,KAS Eupen,,2023-09-02T16:15Z
+,6,Sat Sep 2 2023,20:45,CEST/+0200,Standard Liège,1-1,1-1,RWDM Brussels FC,,2023-09-02T18:45Z
+,6,Sun Sep 3 2023,19:15,CEST/+0200,Sporting Charleroi,1-1,0-0,Sint-Truidense VV,,2023-09-03T17:15Z
+,6,Sun Sep 3 2023,18:30,CEST/+0200,KRC Genk,1-1,0-0,RSC Anderlecht,,2023-09-03T16:30Z
+,6,Sun Sep 3 2023,13:30,CEST/+0200,KAA Gent,2-1,1-1,Club Brugge KV,,2023-09-03T11:30Z
+,6,Sun Sep 3 2023,16:00,CEST/+0200,Union Saint-Gilloise,2-2,1-2,Royal Antwerp FC,,2023-09-03T14:00Z
+,7,Fri Sep 15 2023,20:45,CEST/+0200,KVC Westerlo,0-3,0-1,Royal Antwerp FC,,2023-09-15T18:45Z
+,7,Sat Sep 16 2023,20:45,CEST/+0200,Club Brugge KV,4-2,2-2,Sporting Charleroi,,2023-09-16T18:45Z
+,7,Sat Sep 16 2023,18:15,CEST/+0200,Union Saint-Gilloise,0-2,0-1,KRC Genk,,2023-09-16T16:15Z
+,7,Sat Sep 16 2023,16:00,CEST/+0200,RWDM Brussels FC,2-1,1-1,Cercle Brugge,,2023-09-16T14:00Z
+,7,Sun Sep 17 2023,19:15,CEST/+0200,Sint-Truidense VV,2-0,1-0,KV Mechelen,,2023-09-17T17:15Z
+,7,Sun Sep 17 2023,16:00,CEST/+0200,KV Kortrijk,2-2,1-1,RSC Anderlecht,,2023-09-17T14:00Z
+,7,Sun Sep 17 2023,13:30,CEST/+0200,KAS Eupen,1-3,0-2,Standard Liège,,2023-09-17T11:30Z
+,7,Sun Sep 17 2023,18:30,CEST/+0200,Oud-Heverlee Leuven,1-1,1-1,KAA Gent,,2023-09-17T16:30Z
+,8,Fri Sep 22 2023,20:45,CEST/+0200,Standard Liège,0-0,0-0,KVC Westerlo,,2023-09-22T18:45Z
+,8,Sat Sep 23 2023,18:15,CEST/+0200,KV Mechelen,1-2,0-2,Oud-Heverlee Leuven,,2023-09-23T16:15Z
+,8,Sat Sep 23 2023,16:00,CEST/+0200,Sporting Charleroi,1-0,1-0,KV Kortrijk,,2023-09-23T14:00Z
+,8,Sat Sep 23 2023,20:45,CEST/+0200,Royal Antwerp FC,0-0,0-0,RWDM Brussels FC,,2023-09-23T18:45Z
+,8,Sun Sep 24 2023,19:15,CEST/+0200,KAA Gent,2-1,0-1,KAS Eupen,,2023-09-24T17:15Z
+,8,Sun Sep 24 2023,18:30,CEST/+0200,RSC Anderlecht,1-1,1-0,Club Brugge KV,,2023-09-24T16:30Z
+,8,Sun Sep 24 2023,16:00,CEST/+0200,Cercle Brugge,0-2,0-1,Union Saint-Gilloise,,2023-09-24T14:00Z
+,8,Sun Sep 24 2023,13:30,CEST/+0200,KRC Genk,3-3,0-3,Sint-Truidense VV,,2023-09-24T11:30Z
+,5,Wed Sep 27 2023,20:45,CEST/+0200,Royal Antwerp FC,0-0,0-0,KAA Gent,,2023-09-27T18:45Z
+,5,Thu Sep 28 2023,20:45,CEST/+0200,Club Brugge KV,1-1,0-1,KRC Genk,,2023-09-28T18:45Z
+,5,Thu Sep 28 2023,18:30,CEST/+0200,RWDM Brussels FC,2-3,2-2,Union Saint-Gilloise,,2023-09-28T16:30Z
+,9,Fri Sep 29 2023,20:45,CEST/+0200,KV Kortrijk,2-1,0-0,Cercle Brugge,,2023-09-29T18:45Z
+,9,Sat Sep 30 2023,18:15,CEST/+0200,Oud-Heverlee Leuven,1-2,0-1,Standard Liège,,2023-09-30T16:15Z
+,9,Sat Sep 30 2023,20:45,CEST/+0200,KV Mechelen,0-0,0-0,Royal Antwerp FC,,2023-09-30T18:45Z
+,9,Sat Sep 30 2023,16:00,CEST/+0200,KAS Eupen,1-3,1-1,RSC Anderlecht,,2023-09-30T14:00Z
+,9,Sun Oct 1 2023,13:30,CEST/+0200,Union Saint-Gilloise,3-1,3-1,Sporting Charleroi,,2023-10-01T11:30Z
+,9,Sun Oct 1 2023,16:00,CEST/+0200,KRC Genk,3-3,2-1,KVC Westerlo,,2023-10-01T14:00Z
+,9,Sun Oct 1 2023,18:30,CEST/+0200,Club Brugge KV,1-1,0-0,Sint-Truidense VV,,2023-10-01T16:30Z
+,9,Sun Oct 1 2023,19:15,CEST/+0200,RWDM Brussels FC,1-1,1-1,KAA Gent,,2023-10-01T17:15Z
+,10,Fri Oct 6 2023,20:45,CEST/+0200,Sporting Charleroi,2-1,0-0,RWDM Brussels FC,,2023-10-06T18:45Z
+,10,Sat Oct 7 2023,18:15,CEST/+0200,KVC Westerlo,1-0,1-0,KV Kortrijk,,2023-10-07T16:15Z
+,10,Sat Oct 7 2023,20:45,CEST/+0200,RSC Anderlecht,3-1,1-0,KV Mechelen,,2023-10-07T18:45Z
+,10,Sat Oct 7 2023,16:00,CEST/+0200,Cercle Brugge,3-2,2-2,Oud-Heverlee Leuven,,2023-10-07T14:00Z
+,10,Sun Oct 8 2023,13:30,CEST/+0200,Standard Liège,2-1,1-0,Club Brugge KV,,2023-10-08T11:30Z
+,10,Sun Oct 8 2023,16:00,CEST/+0200,Royal Antwerp FC,4-1,2-1,KAS Eupen,,2023-10-08T14:00Z
+,10,Sun Oct 8 2023,18:30,CEST/+0200,KAA Gent,1-1,0-0,KRC Genk,,2023-10-08T16:30Z
+,10,Sun Oct 8 2023,19:15,CEST/+0200,Sint-Truidense VV,0-4,0-2,Union Saint-Gilloise,,2023-10-08T17:15Z
+,11,Fri Oct 20 2023,20:45,CEST/+0200,Union Saint-Gilloise,4-1,2-0,KAS Eupen,,2023-10-20T18:45Z
+,11,Sat Oct 21 2023,18:15,CEST/+0200,RWDM Brussels FC,1-1,0-0,KVC Westerlo,,2023-10-21T16:15Z
+,11,Sat Oct 21 2023,20:45,CEST/+0200,Sporting Charleroi,3-2,0-0,Royal Antwerp FC,,2023-10-21T18:45Z
+,11,Sat Oct 21 2023,16:00,CEST/+0200,KV Kortrijk,1-0,1-0,Club Brugge KV,,2023-10-21T14:00Z
+,11,Sun Oct 22 2023,16:00,CEST/+0200,Cercle Brugge,2-0,0-0,KAA Gent,,2023-10-22T14:00Z
+,11,Sun Oct 22 2023,18:30,CEST/+0200,Standard Liège,3-2,0-2,RSC Anderlecht,,2023-10-22T16:30Z
+,11,Sun Oct 22 2023,19:15,CEST/+0200,Oud-Heverlee Leuven,4-0,2-0,Sint-Truidense VV,,2023-10-22T17:15Z
+,11,Sun Oct 22 2023,13:30,CEST/+0200,KRC Genk,4-0,2-0,KV Mechelen,,2023-10-22T11:30Z
+,12,Fri Oct 27 2023,20:45,CEST/+0200,Sint-Truidense VV,2-1,0-0,RWDM Brussels FC,,2023-10-27T18:45Z
+,12,Sat Oct 28 2023,18:15,CEST/+0200,KAS Eupen,2-0,1-0,Sporting Charleroi,,2023-10-28T16:15Z
+,12,Sat Oct 28 2023,20:45,CEST/+0200,RSC Anderlecht,5-1,2-1,Oud-Heverlee Leuven,,2023-10-28T18:45Z
+,12,Sat Oct 28 2023,16:00,CEST/+0200,KV Mechelen,0-2,0-0,Cercle Brugge,,2023-10-28T14:00Z
+,12,Sun Oct 29 2023,16:00,CET/+0100,KVC Westerlo,1-3,1-1,Union Saint-Gilloise,,2023-10-29T15:00Z
+,12,Sun Oct 29 2023,18:30,CET/+0100,KAA Gent,3-1,3-0,Standard Liège,,2023-10-29T17:30Z
+,12,Sun Oct 29 2023,19:15,CET/+0100,KV Kortrijk,0-3,0-0,KRC Genk,,2023-10-29T18:15Z
+,12,Sun Oct 29 2023,13:30,CET/+0100,Club Brugge KV,2-1,1-0,Royal Antwerp FC,,2023-10-29T12:30Z
+,13,Fri Nov 3 2023,20:45,CET/+0100,Sint-Truidense VV,1-1,1-0,KAS Eupen,,2023-11-03T19:45Z
+,13,Sat Nov 4 2023,16:00,CET/+0100,RWDM Brussels FC,1-1,1-1,KV Kortrijk,,2023-11-04T15:00Z
+,13,Sat Nov 4 2023,18:15,CET/+0100,Oud-Heverlee Leuven,0-2,0-0,KVC Westerlo,,2023-11-04T17:15Z
+,13,Sat Nov 4 2023,20:45,CET/+0100,Royal Antwerp FC,3-2,3-1,KRC Genk,,2023-11-04T19:45Z
+,13,Sun Nov 5 2023,16:00,CET/+0100,Standard Liège,1-1,1-0,KV Mechelen,,2023-11-05T15:00Z
+,13,Sun Nov 5 2023,18:30,CET/+0100,Union Saint-Gilloise,2-1,1-0,Club Brugge KV,,2023-11-05T17:30Z
+,13,Sun Nov 5 2023,19:15,CET/+0100,Sporting Charleroi,1-3,0-1,KAA Gent,,2023-11-05T18:15Z
+,13,Sun Nov 5 2023,13:30,CET/+0100,Cercle Brugge,0-3,0-2,RSC Anderlecht,,2023-11-05T12:30Z
+,14,Fri Nov 10 2023,20:45,CET/+0100,KVC Westerlo,3-3,2-1,Sint-Truidense VV,,2023-11-10T19:45Z
+,14,Sat Nov 11 2023,18:15,CET/+0100,KAS Eupen,1-3,1-1,RWDM Brussels FC,,2023-11-11T17:15Z
+,14,Sat Nov 11 2023,20:45,CET/+0100,KV Mechelen,1-0,0-0,Sporting Charleroi,,2023-11-11T19:45Z
+,14,Sat Nov 11 2023,16:00,CET/+0100,Royal Antwerp FC,6-0,4-0,Standard Liège,,2023-11-11T15:00Z
+,14,Sun Nov 12 2023,13:30,CET/+0100,Club Brugge KV,0-0,0-0,Cercle Brugge,,2023-11-12T12:30Z
+,14,Sun Nov 12 2023,16:00,CET/+0100,KRC Genk,3-1,1-0,Oud-Heverlee Leuven,,2023-11-12T15:00Z
+,14,Sun Nov 12 2023,18:30,CET/+0100,KAA Gent,1-1,1-1,RSC Anderlecht,,2023-11-12T17:30Z
+,14,Sun Nov 12 2023,19:15,CET/+0100,Union Saint-Gilloise,3-0,2-0,KV Kortrijk,,2023-11-12T18:15Z
+,15,Fri Nov 24 2023,20:45,CET/+0100,Sint-Truidense VV,1-1,1-0,Royal Antwerp FC,,2023-11-24T19:45Z
+,15,Sat Nov 25 2023,18:15,CET/+0100,Sporting Charleroi,3-2,0-1,KVC Westerlo,,2023-11-25T17:15Z
+,15,Sat Nov 25 2023,20:45,CET/+0100,Standard Liège,1-0,0-0,KRC Genk,,2023-11-25T19:45Z
+,15,Sat Nov 25 2023,16:00,CET/+0100,Cercle Brugge,2-0,0-0,KAS Eupen,,2023-11-25T15:00Z
+,15,Sun Nov 26 2023,13:30,CET/+0100,KAA Gent,1-1,1-0,Union Saint-Gilloise,,2023-11-26T12:30Z
+,15,Sun Nov 26 2023,16:00,CET/+0100,Oud-Heverlee Leuven,0-1,0-1,Club Brugge KV,,2023-11-26T15:00Z
+,15,Sun Nov 26 2023,18:30,CET/+0100,RSC Anderlecht,2-1,0-1,RWDM Brussels FC,,2023-11-26T17:30Z
+,15,Sun Nov 26 2023,19:15,CET/+0100,KV Kortrijk,0-3,0-2,KV Mechelen,,2023-11-26T18:15Z
+,16,Fri Dec 1 2023,20:45,CET/+0100,KVC Westerlo,1-3,0-1,RSC Anderlecht,,2023-12-01T19:45Z
+,16,Sat Dec 2 2023,18:15,CET/+0100,KAS Eupen,1-1,0-0,KV Kortrijk,,2023-12-02T17:15Z
+,16,Sat Dec 2 2023,20:45,CET/+0100,Royal Antwerp FC,1-0,1-0,Oud-Heverlee Leuven,,2023-12-02T19:45Z
+,16,Sat Dec 2 2023,16:00,CET/+0100,RWDM Brussels FC,0-0,0-0,Sporting Charleroi,,2023-12-02T15:00Z
+,16,Sun Dec 3 2023,16:00,CET/+0100,KV Mechelen,0-2,0-2,Sint-Truidense VV,,2023-12-03T15:00Z
+,16,Sun Dec 3 2023,18:30,CET/+0100,Club Brugge KV,2-0,1-0,Standard Liège,,2023-12-03T17:30Z
+,16,Sun Dec 3 2023,19:15,CET/+0100,Union Saint-Gilloise,2-1,2-1,Cercle Brugge,,2023-12-03T18:15Z
+,16,Sun Dec 3 2023,13:30,CET/+0100,KRC Genk,2-2,1-1,KAA Gent,,2023-12-03T12:30Z
+,17,Fri Dec 8 2023,20:45,CET/+0100,KV Kortrijk,1-2,0-1,KVC Westerlo,,2023-12-08T19:45Z
+,17,Sat Dec 9 2023,18:15,CET/+0100,Sint-Truidense VV,1-1,1-1,Oud-Heverlee Leuven,,2023-12-09T17:15Z
+,17,Sat Dec 9 2023,20:45,CET/+0100,KAA Gent,4-0,2-0,RWDM Brussels FC,,2023-12-09T19:45Z
+,17,Sat Dec 9 2023,16:00,CET/+0100,Cercle Brugge,1-3,0-1,Royal Antwerp FC,,2023-12-09T15:00Z
+,17,Sun Dec 10 2023,16:00,CET/+0100,KAS Eupen,1-3,0-1,KRC Genk,,2023-12-10T15:00Z
+,17,Sun Dec 10 2023,18:30,CET/+0100,RSC Anderlecht,2-2,1-1,Standard Liège,,2023-12-10T17:30Z
+,17,Sun Dec 10 2023,19:15,CET/+0100,Sporting Charleroi,1-3,0-1,Union Saint-Gilloise,,2023-12-10T18:15Z
+,17,Sun Dec 10 2023,13:30,CET/+0100,KV Mechelen,0-0,0-0,Club Brugge KV,,2023-12-10T12:30Z
+,18,Fri Dec 15 2023,20:45,CET/+0100,KVC Westerlo,2-0,0-0,KAS Eupen,,2023-12-15T19:45Z
+,18,Sat Dec 16 2023,18:15,CET/+0100,RWDM Brussels FC,3-0,1-0,Sint-Truidense VV,,2023-12-16T17:15Z
+,18,Sat Dec 16 2023,20:45,CET/+0100,Standard Liège,0-0,0-0,Sporting Charleroi,,2023-12-16T19:45Z
+,18,Sat Dec 16 2023,16:00,CET/+0100,Oud-Heverlee Leuven,1-2,1-0,Cercle Brugge,,2023-12-16T15:00Z
+,18,Sun Dec 17 2023,16:00,CET/+0100,Union Saint-Gilloise,1-0,0-0,KV Mechelen,,2023-12-17T15:00Z
+,18,Sun Dec 17 2023,18:30,CET/+0100,Royal Antwerp FC,1-1,0-1,RSC Anderlecht,,2023-12-17T17:30Z
+,18,Sun Dec 17 2023,19:15,CET/+0100,KRC Genk,4-0,1-0,KV Kortrijk,,2023-12-17T18:15Z
+,18,Sun Dec 17 2023,13:30,CET/+0100,Club Brugge KV,2-0,2-0,KAA Gent,,2023-12-17T12:30Z
+,19,Wed Dec 20 2023,18:30,CET/+0100,Cercle Brugge,3-0,1-0,KV Kortrijk,,2023-12-20T17:30Z
+,19,Wed Dec 20 2023,20:45,CET/+0100,KV Mechelen,3-0,1-0,Standard Liège,,2023-12-20T19:45Z
+,19,Thu Dec 21 2023,20:45,CET/+0100,KAA Gent,4-0,1-0,Oud-Heverlee Leuven,,2023-12-21T19:45Z
+,19,Fri Dec 22 2023,20:45,CET/+0100,RWDM Brussels FC,1-6,0-3,Club Brugge KV,,2023-12-22T19:45Z
+,19,Sat Dec 23 2023,18:15,CET/+0100,Royal Antwerp FC,2-2,1-0,KVC Westerlo,,2023-12-23T17:15Z
+,19,Sat Dec 23 2023,18:15,CET/+0100,Sint-Truidense VV,1-0,0-0,Sporting Charleroi,,2023-12-23T17:15Z
+,19,Sat Dec 23 2023,20:45,CET/+0100,RSC Anderlecht,2-1,0-0,KRC Genk,,2023-12-23T19:45Z
+,19,Sat Dec 23 2023,16:00,CET/+0100,KAS Eupen,1-2,0-2,Union Saint-Gilloise,,2023-12-23T15:00Z
+,20,Tue Dec 26 2023,13:30,CET/+0100,KRC Genk,3-0,1-0,Royal Antwerp FC,,2023-12-26T12:30Z
+,20,Tue Dec 26 2023,16:00,CET/+0100,KV Kortrijk,0-2,0-1,KAA Gent,,2023-12-26T15:00Z
+,20,Tue Dec 26 2023,16:00,CET/+0100,Oud-Heverlee Leuven,3-0,2-0,KAS Eupen,,2023-12-26T15:00Z
+,20,Tue Dec 26 2023,18:30,CET/+0100,KVC Westerlo,3-0,1-0,RWDM Brussels FC,,2023-12-26T17:30Z
+,20,Tue Dec 26 2023,20:45,CET/+0100,Club Brugge KV,1-1,0-1,Union Saint-Gilloise,,2023-12-26T19:45Z
+,20,Wed Dec 27 2023,20:45,CET/+0100,RSC Anderlecht,2-0,1-0,Cercle Brugge,,2023-12-27T19:45Z
+,20,Wed Dec 27 2023,20:45,CET/+0100,Sporting Charleroi,3-1,2-0,KV Mechelen,,2023-12-27T19:45Z
+,20,Wed Dec 27 2023,18:30,CET/+0100,Standard Liège,1-1,0-0,Sint-Truidense VV,,2023-12-27T17:30Z
+,21,Fri Jan 19 2024,20:45,CET/+0100,KAA Gent,1-2,0-1,KV Mechelen,,2024-01-19T19:45Z
+,21,Sat Jan 20 2024,18:15,CET/+0100,Standard Liège,0-1,0-1,KV Kortrijk,,2024-01-20T17:15Z
+,21,Sat Jan 20 2024,20:45,CET/+0100,Club Brugge KV,3-0,1-0,KVC Westerlo,,2024-01-20T19:45Z
+,21,Sat Jan 20 2024,16:00,CET/+0100,KRC Genk,1-1,0-1,Cercle Brugge,,2024-01-20T15:00Z
+,21,Sun Jan 21 2024,13:30,CET/+0100,Royal Antwerp FC,4-1,2-0,Sporting Charleroi,,2024-01-21T12:30Z
+,21,Sun Jan 21 2024,16:00,CET/+0100,Union Saint-Gilloise,2-1,1-1,Sint-Truidense VV,,2024-01-21T15:00Z
+,21,Sun Jan 21 2024,18:30,CET/+0100,Oud-Heverlee Leuven,1-1,1-0,RSC Anderlecht,,2024-01-21T17:30Z
+,21,Wed Jan 24 2024,15:00,CET/+0100,RWDM Brussels FC,0-1,0-0,KAS Eupen,,2024-01-24T14:00Z
+,22,Fri Jan 26 2024,20:45,CET/+0100,Cercle Brugge,1-1,0-0,Standard Liège,,2024-01-26T19:45Z
+,22,Sat Jan 27 2024,20:45,CET/+0100,KAA Gent,2-2,1-1,KVC Westerlo,,2024-01-27T19:45Z
+,22,Sat Jan 27 2024,20:45,CET/+0100,Sporting Charleroi,1-4,0-3,Club Brugge KV,,2024-01-27T19:45Z
+,22,Sat Jan 27 2024,16:00,CET/+0100,KV Kortrijk,0-0,0-0,Oud-Heverlee Leuven,,2024-01-27T15:00Z
+,22,Sun Jan 28 2024,14:00,CET/+0100,Sint-Truidense VV,1-1,0-1,KRC Genk,,2024-01-28T13:00Z
+,22,Sun Jan 28 2024,16:00,CET/+0100,KAS Eupen,1-0,1-0,Royal Antwerp FC,,2024-01-28T15:00Z
+,22,Sun Jan 28 2024,18:30,CET/+0100,RSC Anderlecht,2-2,1-2,Union Saint-Gilloise,,2024-01-28T17:30Z
+,22,Sun Jan 28 2024,19:15,CET/+0100,KV Mechelen,3-1,0-0,RWDM Brussels FC,,2024-01-28T18:15Z
+,23,Tue Jan 30 2024,20:30,CET/+0100,KVC Westerlo,4-2,4-1,Cercle Brugge,,2024-01-30T19:30Z
+,23,Tue Jan 30 2024,20:30,CET/+0100,Club Brugge KV,3-3,1-0,KV Kortrijk,,2024-01-30T19:30Z
+,23,Wed Jan 31 2024,18:45,CET/+0100,Sporting Charleroi,1-0,0-0,KAS Eupen,,2024-01-31T17:45Z
+,23,Wed Jan 31 2024,21:00,CET/+0100,Standard Liège,0-1,0-0,Royal Antwerp FC,,2024-01-31T20:00Z
+,23,Wed Jan 31 2024,21:00,CET/+0100,Union Saint-Gilloise,3-2,2-0,RWDM Brussels FC,,2024-01-31T20:00Z
+,23,Wed Jan 31 2024,18:45,CET/+0100,Oud-Heverlee Leuven,2-1,0-0,KRC Genk,,2024-01-31T17:45Z
+,23,Thu Feb 1 2024,20:30,CET/+0100,Sint-Truidense VV,4-1,0-1,KAA Gent,,2024-02-01T19:30Z
+,23,Thu Feb 1 2024,20:30,CET/+0100,KV Mechelen,2-2,0-1,RSC Anderlecht,,2024-02-01T19:30Z
+,24,Sat Feb 3 2024,16:00,CET/+0100,RWDM Brussels FC,2-2,1-1,Standard Liège,,2024-02-03T15:00Z
+,24,Sat Feb 3 2024,18:15,CET/+0100,KV Kortrijk,1-0,1-0,Sporting Charleroi,,2024-02-03T17:15Z
+,24,Sat Feb 3 2024,18:15,CET/+0100,KVC Westerlo,0-3,0-2,Oud-Heverlee Leuven,,2024-02-03T17:15Z
+,24,Sat Feb 3 2024,20:45,CET/+0100,KRC Genk,0-1,0-0,Union Saint-Gilloise,,2024-02-03T19:45Z
+,24,Sun Feb 4 2024,16:00,CET/+0100,KAS Eupen,0-1,0-0,KV Mechelen,,2024-02-04T15:00Z
+,24,Sun Feb 4 2024,18:30,CET/+0100,RSC Anderlecht,1-0,1-0,KAA Gent,,2024-02-04T17:30Z
+,24,Sun Feb 4 2024,19:15,CET/+0100,Cercle Brugge,4-1,2-0,Sint-Truidense VV,,2024-02-04T18:15Z
+,24,Sun Feb 4 2024,13:30,CET/+0100,Royal Antwerp FC,2-1,0-0,Club Brugge KV,,2024-02-04T12:30Z
+,25,Fri Feb 9 2024,20:45,CET/+0100,Sint-Truidense VV,1-0,1-0,KV Kortrijk,,2024-02-09T19:45Z
+,25,Sat Feb 10 2024,16:00,CET/+0100,Standard Liège,1-0,1-0,Oud-Heverlee Leuven,,2024-02-10T15:00Z
+,25,Sat Feb 10 2024,18:15,CET/+0100,Union Saint-Gilloise,2-2,1-1,KVC Westerlo,,2024-02-10T17:15Z
+,25,Sat Feb 10 2024,20:45,CET/+0100,Club Brugge KV,4-0,2-0,KAS Eupen,,2024-02-10T19:45Z
+,25,Sun Feb 11 2024,16:00,CET/+0100,KV Mechelen,1-1,1-1,KRC Genk,,2024-02-11T15:00Z
+,25,Sun Feb 11 2024,18:30,CET/+0100,Sporting Charleroi,1-3,1-2,RSC Anderlecht,,2024-02-11T17:30Z
+,25,Sun Feb 11 2024,19:15,CET/+0100,KAA Gent,1-2,0-1,Cercle Brugge,,2024-02-11T18:15Z
+,25,Sun Feb 11 2024,13:30,CET/+0100,RWDM Brussels FC,0-4,0-3,Royal Antwerp FC,,2024-02-11T12:30Z
+,26,Fri Feb 16 2024,20:45,CET/+0100,KVC Westerlo,2-1,1-1,Standard Liège,,2024-02-16T19:45Z
+,26,Sat Feb 17 2024,18:15,CET/+0100,Oud-Heverlee Leuven,0-0,0-0,Sporting Charleroi,,2024-02-17T17:15Z
+,26,Sat Feb 17 2024,20:45,CET/+0100,Royal Antwerp FC,0-1,0-0,KV Mechelen,,2024-02-17T19:45Z
+,26,Sat Feb 17 2024,16:00,CET/+0100,KRC Genk,3-1,2-1,RWDM Brussels FC,,2024-02-17T15:00Z
+,26,Sun Feb 18 2024,13:30,CET/+0100,Cercle Brugge,1-1,0-0,Club Brugge KV,,2024-02-18T12:30Z
+,26,Sun Feb 18 2024,16:00,CET/+0100,KV Kortrijk,1-3,0-2,Union Saint-Gilloise,,2024-02-18T15:00Z
+,26,Sun Feb 18 2024,18:30,CET/+0100,RSC Anderlecht,4-1,0-1,Sint-Truidense VV,,2024-02-18T17:30Z
+,26,Sun Feb 18 2024,19:15,CET/+0100,KAS Eupen,0-2,0-1,KAA Gent,,2024-02-18T18:15Z
+,27,Fri Feb 23 2024,20:45,CET/+0100,Sporting Charleroi,0-1,0-0,KRC Genk,,2024-02-23T19:45Z
+,27,Sat Feb 24 2024,18:15,CET/+0100,Sint-Truidense VV,1-0,1-0,KVC Westerlo,,2024-02-24T17:15Z
+,27,Sat Feb 24 2024,20:45,CET/+0100,KV Mechelen,3-0,1-0,KV Kortrijk,,2024-02-24T19:45Z
+,27,Sat Feb 24 2024,16:00,CET/+0100,RWDM Brussels FC,1-1,1-1,Oud-Heverlee Leuven,,2024-02-24T15:00Z
+,27,Sun Feb 25 2024,13:30,CET/+0100,Club Brugge KV,1-2,1-0,RSC Anderlecht,,2024-02-25T12:30Z
+,27,Sun Feb 25 2024,16:00,CET/+0100,KAA Gent,2-2,2-1,Royal Antwerp FC,,2024-02-25T15:00Z
+,27,Sun Feb 25 2024,18:30,CET/+0100,Union Saint-Gilloise,2-1,2-0,Standard Liège,,2024-02-25T17:30Z
+,27,Sun Feb 25 2024,19:15,CET/+0100,KAS Eupen,0-2,0-0,Cercle Brugge,,2024-02-25T18:15Z
+,28,Fri Mar 1 2024,20:45,CET/+0100,KVC Westerlo,0-1,0-0,Sporting Charleroi,,2024-03-01T19:45Z
+,28,Sat Mar 2 2024,18:15,CET/+0100,Oud-Heverlee Leuven,0-2,0-1,Union Saint-Gilloise,,2024-03-02T17:15Z
+,28,Sat Mar 2 2024,20:45,CET/+0100,Standard Liège,4-2,1-1,KAA Gent,,2024-03-02T19:45Z
+,28,Sat Mar 2 2024,16:00,CET/+0100,Cercle Brugge,2-3,2-2,KV Mechelen,,2024-03-02T15:00Z
+,28,Sun Mar 3 2024,13:30,CET/+0100,KRC Genk,0-3,0-1,Club Brugge KV,,2024-03-03T12:30Z
+,28,Sun Mar 3 2024,16:00,CET/+0100,Royal Antwerp FC,3-0,0-0,Sint-Truidense VV,,2024-03-03T15:00Z
+,28,Sun Mar 3 2024,18:30,CET/+0100,RSC Anderlecht,1-0,1-0,KAS Eupen,,2024-03-03T17:30Z
+,28,Sun Mar 3 2024,19:15,CET/+0100,KV Kortrijk,3-2,1-1,RWDM Brussels FC,,2024-03-03T18:15Z
+,29,Fri Mar 8 2024,20:45,CET/+0100,KV Mechelen,3-1,2-0,KVC Westerlo,,2024-03-08T19:45Z
+,29,Sat Mar 9 2024,16:00,CET/+0100,KV Kortrijk,0-1,0-1,Royal Antwerp FC,,2024-03-09T15:00Z
+,29,Sat Mar 9 2024,18:15,CET/+0100,Sporting Charleroi,0-0,0-0,Cercle Brugge,,2024-03-09T17:15Z
+,29,Sat Mar 9 2024,20:45,CET/+0100,RWDM Brussels FC,0-3,0-3,RSC Anderlecht,,2024-03-09T19:45Z
+,29,Sun Mar 10 2024,16:00,CET/+0100,Club Brugge KV,3-1,1-1,Oud-Heverlee Leuven,,2024-03-10T15:00Z
+,29,Sun Mar 10 2024,18:30,CET/+0100,Union Saint-Gilloise,1-1,0-0,KAA Gent,,2024-03-10T17:30Z
+,29,Sun Mar 10 2024,19:15,CET/+0100,KAS Eupen,1-0,1-0,Sint-Truidense VV,,2024-03-10T18:15Z
+,29,Sun Mar 10 2024,13:30,CET/+0100,KRC Genk,1-0,0-0,Standard Liège,,2024-03-10T12:30Z
+,30,Sat Mar 16 2024,20:45,CET/+0100,RSC Anderlecht,0-1,0-0,KV Kortrijk,,2024-03-16T19:45Z
+,30,Sat Mar 16 2024,18:15,CET/+0100,Standard Liège,4-0,2-0,KAS Eupen,,2024-03-16T17:15Z
+,30,Sun Mar 17 2024,13:30,CET/+0100,Sint-Truidense VV,2-1,0-1,Club Brugge KV,,2024-03-17T12:30Z
+,30,Sun Mar 17 2024,16:00,CET/+0100,Royal Antwerp FC,1-1,0-0,Union Saint-Gilloise,,2024-03-17T15:00Z
+,30,Sun Mar 17 2024,18:30,CET/+0100,Cercle Brugge,4-0,2-0,RWDM Brussels FC,,2024-03-17T17:30Z
+,30,Sun Mar 17 2024,18:30,CET/+0100,KAA Gent,5-0,2-0,Sporting Charleroi,,2024-03-17T17:30Z
+,30,Sun Mar 17 2024,18:30,CET/+0100,KVC Westerlo,1-1,0-0,KRC Genk,,2024-03-17T17:30Z
+,30,Sun Mar 17 2024,18:30,CET/+0100,Oud-Heverlee Leuven,1-0,0-0,KV Mechelen,,2024-03-17T17:30Z
+Europe,1,Fri Mar 29 2024,20:45,CET/+0100,KAA Gent,5-1,1-1,Standard Liège,,2024-03-29T19:45Z
+Europe,1,Sat Mar 30 2024,18:15,CET/+0100,Oud-Heverlee Leuven,2-3,0-1,KV Mechelen,,2024-03-30T17:15Z
+Championship,1,Sat Mar 30 2024,20:45,CET/+0100,RSC Anderlecht,1-0,0-0,Royal Antwerp FC,,2024-03-30T19:45Z
+Europe,1,Sun Mar 31 2024,18:30,CEST/+0200,Sint-Truidense VV,2-0,1-0,KVC Westerlo,,2024-03-31T16:30Z
+Championship,1,Mon Apr 1 2024,13:30,CEST/+0200,Cercle Brugge,1-1,1-0,Club Brugge KV,,2024-04-01T11:30Z
+Championship,1,Mon Apr 1 2024,18:30,CEST/+0200,KRC Genk,1-0,1-0,Union Saint-Gilloise,,2024-04-01T16:30Z
+Europe,2,Fri Apr 5 2024,20:45,CEST/+0200,KV Mechelen,2-3,1-0,Sint-Truidense VV,,2024-04-05T18:45Z
+Championship,2,Sat Apr 6 2024,20:45,CEST/+0200,Royal Antwerp FC,0-1,0-1,KRC Genk,,2024-04-06T18:45Z
+Relegation,1,Sat Apr 6 2024,16:00,CEST/+0200,Sporting Charleroi,0-0,0-0,RWDM Brussels FC,,2024-04-06T14:00Z
+Europe,2,Sat Apr 6 2024,18:15,CEST/+0200,Standard Liège,0-0,0-0,Oud-Heverlee Leuven,,2024-04-06T16:15Z
+Championship,2,Sun Apr 7 2024,18:30,CEST/+0200,Club Brugge KV,3-1,1-0,RSC Anderlecht,,2024-04-07T16:30Z
+Championship,2,Sun Apr 7 2024,13:30,CEST/+0200,Union Saint-Gilloise,2-3,1-2,Cercle Brugge,,2024-04-07T11:30Z
+Europe,2,Sun Apr 7 2024,19:15,CEST/+0200,KVC Westerlo,0-3,0-2,KAA Gent,,2024-04-07T17:15Z
+Relegation,1,Sun Apr 7 2024,16:00,CEST/+0200,KAS Eupen,1-1,0-0,KV Kortrijk,,2024-04-07T14:00Z
+Europe,3,Fri Apr 12 2024,20:45,CEST/+0200,Sint-Truidense VV,3-3,1-1,Standard Liège,,2024-04-12T18:45Z
+Europe,3,Sat Apr 13 2024,18:15,CEST/+0200,KV Mechelen,3-2,0-2,KVC Westerlo,,2024-04-13T16:15Z
+Championship,3,Sat Apr 13 2024,20:45,CEST/+0200,KRC Genk,1-1,1-0,Cercle Brugge,,2024-04-13T18:45Z
+Relegation,2,Sat Apr 13 2024,16:00,CEST/+0200,RWDM Brussels FC,3-1,1-1,KAS Eupen,,2024-04-13T14:00Z
+Europe,3,Sun Apr 14 2024,19:15,CEST/+0200,Oud-Heverlee Leuven,2-1,2-1,KAA Gent,,2024-04-14T17:15Z
+Championship,3,Sun Apr 14 2024,13:30,CEST/+0200,Club Brugge KV,3-0,1-0,Royal Antwerp FC,,2024-04-14T11:30Z
+Relegation,2,Sun Apr 14 2024,16:00,CEST/+0200,KV Kortrijk,1-2,1-0,Sporting Charleroi,,2024-04-14T14:00Z
+Championship,3,Sun Apr 14 2024,18:30,CEST/+0200,RSC Anderlecht,2-1,1-0,Union Saint-Gilloise,,2024-04-14T16:30Z
+Europe,4,Sat Apr 20 2024,18:15,CEST/+0200,KVC Westerlo,3-3,1-1,Standard Liège,,2024-04-20T16:15Z
+Europe,4,Sat Apr 20 2024,16:00,CEST/+0200,Oud-Heverlee Leuven,1-0,0-0,Sint-Truidense VV,,2024-04-20T14:00Z
+Europe,4,Sat Apr 20 2024,20:00,CEST/+0200,KAA Gent,3-1,1-0,KV Mechelen,,2024-04-20T18:00Z
+Championship,4,Sat Apr 20 2024,20:45,CEST/+0200,KRC Genk,2-1,1-0,RSC Anderlecht,,2024-04-20T18:45Z
+Relegation,3,Sun Apr 21 2024,19:15,CEST/+0200,Sporting Charleroi,1-0,1-0,KAS Eupen,,2024-04-21T17:15Z
+Championship,4,Sun Apr 21 2024,18:30,CEST/+0200,Union Saint-Gilloise,1-2,0-0,Club Brugge KV,,2024-04-21T16:30Z
+Championship,4,Sun Apr 21 2024,13:30,CEST/+0200,Cercle Brugge,0-1,0-0,Royal Antwerp FC,,2024-04-21T11:30Z
+Relegation,3,Sun Apr 21 2024,16:00,CEST/+0200,KV Kortrijk,2-4,1-3,RWDM Brussels FC,,2024-04-21T14:00Z
+Europe,5,Tue Apr 23 2024,20:30,CEST/+0200,KVC Westerlo,1-1,1-0,Oud-Heverlee Leuven,,2024-04-23T18:30Z
+Europe,5,Tue Apr 23 2024,20:30,CEST/+0200,Sint-Truidense VV,0-2,0-1,KAA Gent,,2024-04-23T18:30Z
+Europe,5,Tue Apr 23 2024,20:30,CEST/+0200,Standard Liège,0-0,0-0,KV Mechelen,,2024-04-23T18:30Z
+Championship,5,Wed Apr 24 2024,20:30,CEST/+0200,RSC Anderlecht,3-0,2-0,Cercle Brugge,,2024-04-24T18:30Z
+Championship,5,Wed Apr 24 2024,20:30,CEST/+0200,Club Brugge KV,4-0,1-0,KRC Genk,,2024-04-24T18:30Z
+Championship,5,Thu Apr 25 2024,20:30,CEST/+0200,Royal Antwerp FC,0-3,0-0,Union Saint-Gilloise,,2024-04-25T18:30Z
+Relegation,4,Fri Apr 26 2024,20:45,CEST/+0200,KAS Eupen,1-2,0-2,Sporting Charleroi,,2024-04-26T18:45Z
+Europe,6,Sat Apr 27 2024,16:00,CEST/+0200,KV Mechelen,3-0,0-0,Oud-Heverlee Leuven,,2024-04-27T14:00Z
+Europe,6,Sat Apr 27 2024,20:45,CEST/+0200,KAA Gent,3-2,2-2,KVC Westerlo,,2024-04-27T18:45Z
+Europe,6,Sat Apr 27 2024,18:15,CEST/+0200,Standard Liège,1-1,0-1,Sint-Truidense VV,,2024-04-27T16:15Z
+Relegation,4,Sun Apr 28 2024,19:15,CEST/+0200,RWDM Brussels FC,0-1,0-1,KV Kortrijk,,2024-04-28T17:15Z
+Championship,6,Sun Apr 28 2024,18:30,CEST/+0200,Union Saint-Gilloise,4-1,2-1,Royal Antwerp FC,,2024-04-28T16:30Z
+Championship,6,Sun Apr 28 2024,13:30,CEST/+0200,KRC Genk,0-3,0-1,Club Brugge KV,,2024-04-28T11:30Z
+Championship,6,Sun Apr 28 2024,16:00,CEST/+0200,Cercle Brugge,1-1,0-1,RSC Anderlecht,,2024-04-28T14:00Z
+Europe,7,Fri May 3 2024,20:45,CEST/+0200,KVC Westerlo,2-2,1-1,Sint-Truidense VV,,2024-05-03T18:45Z
+Europe,7,Sat May 4 2024,18:15,CEST/+0200,KV Mechelen,2-4,2-3,KAA Gent,,2024-05-04T16:15Z
+Relegation,5,Sat May 4 2024,16:00,CEST/+0200,RWDM Brussels FC,1-3,0-3,Sporting Charleroi,,2024-05-04T14:00Z
+Championship,7,Sat May 4 2024,20:45,CEST/+0200,Cercle Brugge,4-1,3-1,KRC Genk,,2024-05-04T18:45Z
+Championship,7,Sun May 5 2024,13:30,CEST/+0200,Royal Antwerp FC,1-2,0-0,Club Brugge KV,,2024-05-05T11:30Z
+Championship,7,Sun May 5 2024,18:30,CEST/+0200,Union Saint-Gilloise,0-0,0-0,RSC Anderlecht,,2024-05-05T16:30Z
+Relegation,5,Sun May 5 2024,19:15,CEST/+0200,KV Kortrijk,1-0,1-0,KAS Eupen,,2024-05-05T17:15Z
+Europe,7,Sun May 5 2024,16:00,CEST/+0200,Oud-Heverlee Leuven,3-1,0-1,Standard Liège,,2024-05-05T14:00Z
+Europe,8,Fri May 10 2024,,,Standard Liège,0-5 (*),,KVC Westerlo,awd.,
+Relegation,6,Sat May 11 2024,18:15,CEST/+0200,KAS Eupen,2-0,0-0,RWDM Brussels FC,,2024-05-11T16:15Z
+Championship,8,Sat May 11 2024,20:45,CEST/+0200,RSC Anderlecht,2-1,1-0,KRC Genk,,2024-05-11T18:45Z
+Relegation,6,Sat May 11 2024,18:15,CEST/+0200,Sporting Charleroi,3-1,2-0,KV Kortrijk,,2024-05-11T16:15Z
+Championship,8,Sun May 12 2024,18:30,CEST/+0200,Royal Antwerp FC,1-2,0-2,Cercle Brugge,,2024-05-12T16:30Z
+Europe,8,Sun May 12 2024,16:00,CEST/+0200,Sint-Truidense VV,2-1,2-1,KV Mechelen,,2024-05-12T14:00Z
+Europe,8,Sun May 12 2024,13:30,CEST/+0200,KAA Gent,0-1,0-1,Oud-Heverlee Leuven,,2024-05-12T11:30Z
+Championship,8,Mon May 13 2024,20:30,CEST/+0200,Club Brugge KV,2-2,0-0,Union Saint-Gilloise,,2024-05-13T18:30Z
+Europe,9,Fri May 17 2024,20:45,CEST/+0200,Sint-Truidense VV,1-1,0-0,Oud-Heverlee Leuven,,2024-05-17T18:45Z
+Europe,9,Sat May 18 2024,20:45,CEST/+0200,Standard Liège,1-4,1-1,KAA Gent,,2024-05-18T18:45Z
+Europe,9,Sat May 18 2024,18:15,CEST/+0200,KVC Westerlo,0-2,0-1,KV Mechelen,,2024-05-18T16:15Z
+Championship,9,Sun May 19 2024,18:30,CEST/+0200,RSC Anderlecht,0-1,0-1,Club Brugge KV,,2024-05-19T16:30Z
+Championship,9,Sun May 19 2024,13:30,CEST/+0200,Cercle Brugge,1-2,1-1,Union Saint-Gilloise,,2024-05-19T11:30Z
+Championship,9,Mon May 20 2024,18:30,CEST/+0200,KRC Genk,1-0,1-0,Royal Antwerp FC,,2024-05-20T16:30Z
+Europe,10,Sat May 25 2024,20:30,CEST/+0200,KAA Gent,2-0,0-0,Sint-Truidense VV,,2024-05-25T18:30Z
+Europe,10,Sat May 25 2024,20:30,CEST/+0200,KV Mechelen,3-2,2-0,Standard Liège,,2024-05-25T18:30Z
+Europe,10,Sat May 25 2024,20:30,CEST/+0200,Oud-Heverlee Leuven,1-2,0-2,KVC Westerlo,,2024-05-25T18:30Z
+Championship,10,Sun May 26 2024,18:30,CEST/+0200,Royal Antwerp FC,3-1,0-1,RSC Anderlecht,,2024-05-26T16:30Z
+Championship,10,Sun May 26 2024,18:30,CEST/+0200,Club Brugge KV,0-0,0-0,Cercle Brugge,,2024-05-26T16:30Z
+Championship,10,Sun May 26 2024,18:30,CEST/+0200,Union Saint-Gilloise,2-0,1-0,KRC Genk,,2024-05-26T16:30Z
+ECL Playoff,Final,Sun Jun 2 2024,13:30,CEST/+0200,KRC Genk,0-1,0-0,KAA Gent,,2024-06-02T11:30Z

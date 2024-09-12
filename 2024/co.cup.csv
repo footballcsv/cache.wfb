@@ -1,0 +1,57 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,P,UTC
+Round 1,Tue Mar 5 2024,16:00,-05/-0500,Envigado FC,1-0,0-0,Orsomarso SC,,2024-03-05T21:00Z
+Round 1,Wed Mar 6 2024,18:00,-05/-0500,Bogotá FC,0-2,0-1,Once Caldas,,2024-03-06T23:00Z
+Round 1,Wed Mar 6 2024,20:00,-05/-0500,Santa Fe,3-1,1-1,Boca Juniors de Cali,,2024-03-07T01:00Z
+Round 1,Wed Mar 6 2024,15:30,-05/-0500,Atlético FC,1-2,0-1,Jaguares de Córdoba,,2024-03-06T20:30Z
+Round 1,Thu Mar 7 2024,15:30,-05/-0500,Tigres FC,2-1,1-0,Unión Magdalena,,2024-03-07T20:30Z
+Round 1,Thu Mar 7 2024,16:00,-05/-0500,Barranquilla FC,1-3,0-2,Atlético Huila,,2024-03-07T21:00Z
+Round 1,Thu Mar 7 2024,18:00,-05/-0500,Atlético Bucaramanga,6-2,2-2,Real Santander,,2024-03-07T23:00Z
+Round 1,Thu Mar 7 2024,20:00,-05/-0500,Deportivo Pereira,2-0,2-0,Real Soacha Cundinamarca,,2024-03-08T01:00Z
+Round 1,Tue Mar 19 2024,18:10,-05/-0500,Jaguares de Córdoba,2-1,2-0,Atlético FC,,2024-03-19T23:10Z
+Round 1,Wed Mar 20 2024,16:00,-05/-0500,Real Santander,3-4,0-1,Atlético Bucaramanga,,2024-03-20T21:00Z
+Round 1,Wed Mar 20 2024,16:00,-05/-0500,Orsomarso SC,0-1,0-1,Envigado FC,,2024-03-20T21:00Z
+Round 1,Wed Mar 20 2024,18:00,-05/-0500,Real Soacha Cundinamarca,0-0,0-0,Deportivo Pereira,,2024-03-20T23:00Z
+Round 1,Wed Mar 20 2024,20:00,-05/-0500,Boca Juniors de Cali,1-1,0-1,Santa Fe,,2024-03-21T01:00Z
+Round 1,Thu Mar 21 2024,16:00,-05/-0500,Atlético Huila,1-1,1-1,Barranquilla FC,,2024-03-21T21:00Z
+Round 1,Thu Mar 21 2024,20:00,-05/-0500,Once Caldas,4-1,1-1,Bogotá FC,,2024-03-22T01:00Z
+Round 1,Thu Mar 21 2024,15:30,-05/-0500,Unión Magdalena,2-1,2-1,Tigres FC,2-4,2024-03-21T20:30Z
+Round 2,Mon Apr 8 2024,16:00,-05/-0500,Internacional de Palmira,2-2,2-0,Santa Fe,,2024-04-08T21:00Z
+Round 2,Tue Apr 9 2024,16:00,-05/-0500,Cúcuta Deportivo,0-0,0-0,Tigres FC,,2024-04-09T21:00Z
+Round 2,Tue Apr 9 2024,18:00,-05/-0500,Fortaleza FC,2-1,0-1,Once Caldas,,2024-04-09T23:00Z
+Round 2,Tue Apr 9 2024,20:00,-05/-0500,Deportivo Pereira,1-1,1-0,Leones FC,,2024-04-10T01:00Z
+Round 2,Wed Apr 10 2024,16:00,-05/-0500,Atlético Huila,2-0,0-0,Real Cartagena,,2024-04-10T21:00Z
+Round 2,Wed Apr 10 2024,16:00,-05/-0500,Envigado FC,3-2,1-0,Deportes Quindío,,2024-04-10T21:00Z
+Round 2,Wed Apr 10 2024,19:40,-05/-0500,Atlético Bucaramanga,3-0,2-0,Patriotas FC,,2024-04-11T00:40Z
+Round 2,Wed Apr 10 2024,15:45,-05/-0500,Llaneros FC,2-2,2-2,Jaguares de Córdoba,,2024-04-10T20:45Z
+Round 2,Tue Apr 23 2024,19:40,-05/-0500,Tigres FC,1-0,0-0,Cúcuta Deportivo,,2024-04-24T00:40Z
+Round 2,Wed Apr 24 2024,15:30,-05/-0500,Real Cartagena,3-1,2-0,Atlético Huila,4-3,2024-04-24T20:30Z
+Round 2,Wed Apr 24 2024,16:00,-05/-0500,Jaguares de Córdoba,1-1,0-1,Llaneros FC,4-3,2024-04-24T21:00Z
+Round 2,Wed Apr 24 2024,19:00,-05/-0500,Leones FC,1-1,0-0,Deportivo Pereira,3-4,2024-04-25T00:00Z
+Round 2,Wed Apr 24 2024,19:30,-05/-0500,Santa Fe,1-0,1-0,Internacional de Palmira,,2024-04-25T00:30Z
+Round 2,Thu Apr 25 2024,19:00,-05/-0500,Deportes Quindío,2-3,1-0,Envigado FC,,2024-04-26T00:00Z
+Round 2,Thu Apr 25 2024,20:00,-05/-0500,Once Caldas,0-1,0-0,Fortaleza FC,,2024-04-26T01:00Z
+Round 2,Thu Apr 25 2024,17:30,-05/-0500,Patriotas FC,0-3,0-2,Atlético Bucaramanga,,2024-04-25T22:30Z
+Round 3,Wed May 8 2024,19:30,-05/-0500,Deportivo Pereira,0-1,0-0,Fortaleza FC,,2024-05-09T00:30Z
+Round 3,Wed May 8 2024,16:00,-05/-0500,Envigado FC,2-0,1-0,Real Cartagena,,2024-05-08T21:00Z
+Round 3,Thu May 9 2024,19:10,-05/-0500,Tigres FC,5-3,3-1,Jaguares de Córdoba,,2024-05-10T00:10Z
+Round 3,Wed May 15 2024,18:00,-05/-0500,Santa Fe,1-1,1-0,Atlético Bucaramanga,,2024-05-15T23:00Z
+Round 3,Wed May 15 2024,20:05,-05/-0500,Fortaleza FC,1-0,1-0,Deportivo Pereira,,2024-05-16T01:05Z
+Round 3,Thu May 16 2024,15:00,-05/-0500,Jaguares de Córdoba,3-0,1-0,Tigres FC,,2024-05-16T20:00Z
+Round 3,Wed Aug 28 2024,18:15,-05/-0500,Atlético Bucaramanga,3-1,2-0,Santa Fe,,2024-08-28T23:15Z
+Round 3,Thu Aug 29 2024,20:00,-05/-0500,Real Cartagena,2-1,1-1,Envigado FC,,2024-08-30T01:00Z
+Round of 16,Wed Sep 11 2024,18:00,-05/-0500,Independiente Medellín,2-0,0-0,Atlético Junior,,2024-09-11T23:00Z
+Round of 16,Tue Sep 17 2024,16:00,-05/-0500,Envigado FC,,,Jaguares de Córdoba,,2024-09-17T21:00Z
+Round of 16,Tue Sep 17 2024,19:00,-05/-0500,Deportes Tolima,,,Deportivo Pasto,,2024-09-18T00:00Z
+Round of 16,Tue Sep 17 2024,20:00,-05/-0500,Fortaleza FC,,,Deportivo Cali,,2024-09-18T01:00Z
+Round of 16,Thu Sep 19 2024,,,Millonarios,,,Atlético Bucaramanga,,
+Round of 16,Thu Sep 19 2024,,,Boyacá Chicó,,,Águilas Doradas,,
+Round of 16,Thu Sep 19 2024,,,América de Cali,,,La Equidad,,
+Round of 16,Thu Sep 19 2024,,,Alianza FC,,,Atlético Nacional,,
+Round of 16,Thu Sep 26 2024,,,Atlético Nacional,,,Alianza FC,,
+Round of 16,Thu Sep 26 2024,,,Atlético Bucaramanga,,,Millonarios,,
+Round of 16,Thu Sep 26 2024,,,Atlético Junior,,,Independiente Medellín,,
+Round of 16,Thu Sep 26 2024,,,Deportivo Pasto,,,Deportes Tolima,,
+Round of 16,Thu Sep 26 2024,,,Jaguares de Córdoba,,,Envigado FC,,
+Round of 16,Thu Sep 26 2024,,,Águilas Doradas,,,Boyacá Chicó,,
+Round of 16,Thu Sep 26 2024,,,La Equidad,,,América de Cali,,
+Round of 16,Thu Sep 26 2024,,,Deportivo Cali,,,Fortaleza FC,,

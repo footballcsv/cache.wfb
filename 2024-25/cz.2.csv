@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 19 2024,18:00,CEST/+0200,SFC Opava,3-3,1-1,FC Sellier & Bellot Vlašim,2024-07-19T16:00Z
+1,Sat Jul 20 2024,10:15,CEST/+0200,MFK Vyškov,0-0,0-0,1. SK Prostějov,2024-07-20T08:15Z
+1,Sat Jul 20 2024,16:30,CEST/+0200,SK Líšeň,0-0,0-0,FC Zlín,2024-07-20T14:30Z
+1,Sat Jul 20 2024,17:00,CEST/+0200,FK MAS Táborsko,3-1,1-0,Slavia Praha B,2024-07-20T15:00Z
+1,Sat Jul 20 2024,10:15,CEST/+0200,MFK Chrudim,3-0,2-0,Sigma Olomouc B,2024-07-20T08:15Z
+1,Sun Jul 21 2024,10:30,CEST/+0200,AC Sparta Praha B,2-2,2-0,Baník Ostrava B,2024-07-21T08:30Z
+1,Sun Jul 21 2024,17:00,CEST/+0200,FK Varnsdorf,1-1,1-1,Viktoria Žižkov,2024-07-21T15:00Z
+1,Mon Jul 22 2024,17:30,CEST/+0200,Vysočina Jihlava,0-2,0-1,Zbrojovka Brno,2024-07-22T15:30Z
+2,Fri Jul 26 2024,18:00,CEST/+0200,FC Sellier & Bellot Vlašim,2-0,1-0,MFK Chrudim,2024-07-26T16:00Z
+2,Fri Jul 26 2024,18:00,CEST/+0200,Vysočina Jihlava,1-1,1-0,MFK Vyškov,2024-07-26T16:00Z
+2,Fri Jul 26 2024,18:00,CEST/+0200,SFC Opava,1-1,1-1,Zbrojovka Brno,2024-07-26T16:00Z
+2,Fri Jul 26 2024,18:00,CEST/+0200,FC Zlín,1-0,0-0,FK MAS Táborsko,2024-07-26T16:00Z
+2,Sat Jul 27 2024,10:15,CEST/+0200,Sigma Olomouc B,0-0,0-0,1. SK Prostějov,2024-07-27T08:15Z
+2,Sun Jul 28 2024,10:30,CEST/+0200,Slavia Praha B,2-1,1-1,AC Sparta Praha B,2024-07-28T08:30Z
+2,Sun Jul 28 2024,10:15,CEST/+0200,Viktoria Žižkov,1-4,0-1,SK Líšeň,2024-07-28T08:15Z
+3,Wed Jul 31 2024,18:00,CEST/+0200,FK MAS Táborsko,1-2,1-1,Baník Ostrava B,2024-07-31T16:00Z
+3,Wed Jul 31 2024,17:00,CEST/+0200,MFK Vyškov,1-1,1-0,FC Sellier & Bellot Vlašim,2024-07-31T15:00Z
+3,Wed Jul 31 2024,17:00,CEST/+0200,SK Líšeň,0-4,0-2,Slavia Praha B,2024-07-31T15:00Z
+3,Wed Jul 31 2024,17:30,CEST/+0200,1. SK Prostějov,0-2,0-1,FC Zlín,2024-07-31T15:30Z
+3,Wed Jul 31 2024,18:00,CEST/+0200,Sigma Olomouc B,1-1,1-1,Viktoria Žižkov,2024-07-31T16:00Z
+3,Wed Jul 31 2024,18:00,CEST/+0200,FK Varnsdorf,3-1,1-0,SFC Opava,2024-07-31T16:00Z
+3,Wed Jul 31 2024,18:00,CEST/+0200,AC Sparta Praha B,4-0,3-0,Vysočina Jihlava,2024-07-31T16:00Z
+3,Wed Jul 31 2024,18:00,CEST/+0200,MFK Chrudim,1-0,1-0,Zbrojovka Brno,2024-07-31T16:00Z
+4,Sat Aug 3 2024,18:00,CEST/+0200,Zbrojovka Brno,1-6,0-4,FK Varnsdorf,2024-08-03T16:00Z
+4,Sun Aug 4 2024,17:00,CEST/+0200,Vysočina Jihlava,1-1,0-0,FK MAS Táborsko,2024-08-04T15:00Z
+4,Sun Aug 4 2024,10:15,CEST/+0200,Viktoria Žižkov,3-0,1-0,1. SK Prostějov,2024-08-04T08:15Z
+4,Sun Aug 4 2024,10:15,CEST/+0200,Slavia Praha B,0-1,0-1,MFK Chrudim,2024-08-04T08:15Z
+4,Sun Aug 4 2024,10:15,CEST/+0200,Baník Ostrava B,1-3,0-1,MFK Vyškov,2024-08-04T08:15Z
+4,Sun Aug 4 2024,16:00,CEST/+0200,SFC Opava,4-2,2-0,AC Sparta Praha B,2024-08-04T14:00Z
+4,Sun Aug 4 2024,17:00,CEST/+0200,FC Sellier & Bellot Vlašim,1-1,1-1,SK Líšeň,2024-08-04T15:00Z
+4,Mon Aug 5 2024,17:30,CEST/+0200,FC Zlín,1-0,0-0,Sigma Olomouc B,2024-08-05T15:30Z
+2,Wed Aug 7 2024,17:00,CEST/+0200,Baník Ostrava B,2-0,0-0,FK Varnsdorf,2024-08-07T15:00Z
+5,Fri Aug 9 2024,18:00,CEST/+0200,FC Zlín,1-0,1-0,Viktoria Žižkov,2024-08-09T16:00Z
+5,Fri Aug 9 2024,18:00,CEST/+0200,1. SK Prostějov,1-1,1-0,FC Sellier & Bellot Vlašim,2024-08-09T16:00Z
+5,Sat Aug 10 2024,10:15,CEST/+0200,MFK Chrudim,6-1,4-0,Baník Ostrava B,2024-08-10T08:15Z
+5,Sat Aug 10 2024,15:00,CEST/+0200,FK MAS Táborsko,0-1,0-0,Zbrojovka Brno,2024-08-10T13:00Z
+5,Sat Aug 10 2024,17:00,CEST/+0200,SK Líšeň,0-1,0-0,SFC Opava,2024-08-10T15:00Z
+5,Sun Aug 11 2024,10:30,CEST/+0200,AC Sparta Praha B,1-1,0-0,FK Varnsdorf,2024-08-11T08:30Z
+5,Sun Aug 11 2024,10:15,CEST/+0200,Sigma Olomouc B,3-1,1-0,Vysočina Jihlava,2024-08-11T08:15Z
+5,Mon Aug 12 2024,17:30,CEST/+0200,MFK Vyškov,1-0,1-0,Slavia Praha B,2024-08-12T15:30Z
+6,Fri Aug 16 2024,18:00,CEST/+0200,Vysočina Jihlava,2-2,1-1,SK Líšeň,2024-08-16T16:00Z
+6,Fri Aug 16 2024,18:00,CEST/+0200,SFC Opava,1-0,1-0,MFK Vyškov,2024-08-16T16:00Z
+6,Fri Aug 16 2024,18:00,CEST/+0200,FC Sellier & Bellot Vlašim,1-3,0-1,FC Zlín,2024-08-16T16:00Z
+6,Sun Aug 18 2024,10:15,CEST/+0200,Viktoria Žižkov,3-1,1-0,FK MAS Táborsko,2024-08-18T08:15Z
+6,Sun Aug 18 2024,10:15,CEST/+0200,Slavia Praha B,4-0,2-0,Sigma Olomouc B,2024-08-18T08:15Z
+6,Sun Aug 18 2024,10:15,CEST/+0200,Baník Ostrava B,1-2,1-1,1. SK Prostějov,2024-08-18T08:15Z
+6,Sun Aug 18 2024,18:00,CEST/+0200,Zbrojovka Brno,0-0,0-0,AC Sparta Praha B,2024-08-18T16:00Z
+7,Fri Aug 23 2024,18:00,CEST/+0200,1. SK Prostějov,2-1,1-1,Vysočina Jihlava,2024-08-23T16:00Z
+7,Sat Aug 24 2024,10:15,CEST/+0200,MFK Chrudim,4-1,2-1,AC Sparta Praha B,2024-08-24T08:15Z
+7,Sat Aug 24 2024,17:00,CEST/+0200,SK Líšeň,1-0,1-0,FK Varnsdorf,2024-08-24T15:00Z
+7,Sun Aug 25 2024,10:15,CEST/+0200,Sigma Olomouc B,5-0,0-0,Baník Ostrava B,2024-08-25T08:15Z
+7,Sun Aug 25 2024,10:15,CEST/+0200,Viktoria Žižkov,1-1,1-0,FC Sellier & Bellot Vlašim,2024-08-25T08:15Z
+7,Sun Aug 25 2024,17:00,CEST/+0200,FK MAS Táborsko,0-1,0-0,SFC Opava,2024-08-25T15:00Z
+7,Mon Aug 26 2024,17:30,CEST/+0200,MFK Vyškov,1-0,1-0,Zbrojovka Brno,2024-08-26T15:30Z
+8,Fri Aug 30 2024,18:00,CEST/+0200,SFC Opava,1-2,0-0,MFK Chrudim,2024-08-30T16:00Z
+8,Fri Aug 30 2024,18:00,CEST/+0200,Vysočina Jihlava,2-1,1-1,Viktoria Žižkov,2024-08-30T16:00Z
+8,Fri Aug 30 2024,18:00,CEST/+0200,FC Sellier & Bellot Vlašim,3-0,1-0,Sigma Olomouc B,2024-08-30T16:00Z
+8,Sun Sep 1 2024,18:00,CEST/+0200,Zbrojovka Brno,1-2,0-0,FC Zlín,2024-09-01T16:00Z
+8,Sun Sep 1 2024,17:30,CEST/+0200,FK Varnsdorf,1-2,0-1,MFK Vyškov,2024-09-01T15:30Z
+8,Sun Sep 1 2024,10:15,CEST/+0200,Slavia Praha B,2-2,1-1,1. SK Prostějov,2024-09-01T08:15Z
+8,Sun Sep 1 2024,10:15,CEST/+0200,Baník Ostrava B,0-2,0-1,SK Líšeň,2024-09-01T08:15Z
+8,Sun Sep 1 2024,15:00,CEST/+0200,AC Sparta Praha B,1-2,1-0,FK MAS Táborsko,2024-09-01T13:00Z
+9,Fri Sep 13 2024,18:00,CEST/+0200,FC Zlín,,,Vysočina Jihlava,2024-09-13T16:00Z
+9,Fri Sep 13 2024,18:00,CEST/+0200,FC Sellier & Bellot Vlašim,,,Slavia Praha B,2024-09-13T16:00Z
+9,Sat Sep 14 2024,17:00,CEST/+0200,SK Líšeň,,,AC Sparta Praha B,2024-09-14T15:00Z
+9,Sat Sep 14 2024,10:15,CEST/+0200,MFK Vyškov,,,MFK Chrudim,2024-09-14T08:15Z
+9,Sat Sep 14 2024,17:00,CEST/+0200,FK MAS Táborsko,,,FK Varnsdorf,2024-09-14T15:00Z
+9,Sun Sep 15 2024,10:15,CEST/+0200,Sigma Olomouc B,,,SFC Opava,2024-09-15T08:15Z
+9,Sun Sep 15 2024,10:15,CEST/+0200,Viktoria Žižkov,,,Baník Ostrava B,2024-09-15T08:15Z
+9,Mon Sep 16 2024,17:30,CEST/+0200,1. SK Prostějov,,,Zbrojovka Brno,2024-09-16T15:30Z
+6,Tue Sep 17 2024,16:30,CEST/+0200,FK Varnsdorf,,,MFK Chrudim,2024-09-17T14:30Z
+10,Fri Sep 20 2024,18:00,CEST/+0200,SFC Opava,,,1. SK Prostějov,2024-09-20T16:00Z
+10,Sat Sep 21 2024,10:30,CEST/+0200,AC Sparta Praha B,,,MFK Vyškov,2024-09-21T08:30Z
+10,Sat Sep 21 2024,,,FK Varnsdorf,,,Sigma Olomouc B,
+10,Sat Sep 21 2024,10:15,CEST/+0200,MFK Chrudim,,,FK MAS Táborsko,2024-09-21T08:15Z
+10,Sat Sep 21 2024,17:00,CEST/+0200,Zbrojovka Brno,,,SK Líšeň,2024-09-21T15:00Z
+10,Sun Sep 22 2024,10:15,CEST/+0200,Slavia Praha B,,,Viktoria Žižkov,2024-09-22T08:15Z
+10,Sun Sep 22 2024,10:15,CEST/+0200,Baník Ostrava B,,,FC Zlín,2024-09-22T08:15Z
+10,Mon Sep 23 2024,17:45,CEST/+0200,Vysočina Jihlava,,,FC Sellier & Bellot Vlašim,2024-09-23T15:45Z
+11,Fri Sep 27 2024,18:00,CEST/+0200,FC Sellier & Bellot Vlašim,,,Baník Ostrava B,2024-09-27T16:00Z
+11,Sat Sep 28 2024,10:15,CEST/+0200,Viktoria Žižkov,,,SFC Opava,2024-09-28T08:15Z
+11,Sat Sep 28 2024,16:30,CEST/+0200,FK MAS Táborsko,,,MFK Vyškov,2024-09-28T14:30Z
+11,Sat Sep 28 2024,16:00,CEST/+0200,FC Zlín,,,AC Sparta Praha B,2024-09-28T14:00Z
+11,Sat Sep 28 2024,16:30,CEST/+0200,SK Líšeň,,,MFK Chrudim,2024-09-28T14:30Z
+11,Sun Sep 29 2024,10:15,CEST/+0200,Slavia Praha B,,,Vysočina Jihlava,2024-09-29T08:15Z
+11,Sun Sep 29 2024,10:15,CEST/+0200,Sigma Olomouc B,,,Zbrojovka Brno,2024-09-29T08:15Z
+11,Mon Sep 30 2024,17:30,CEST/+0200,1. SK Prostějov,,,FK Varnsdorf,2024-09-30T15:30Z
+12,Fri Oct 4 2024,18:00,CEST/+0200,SFC Opava,,,Slavia Praha B,2024-10-04T16:00Z
+12,Sat Oct 5 2024,10:15,CEST/+0200,MFK Chrudim,,,Viktoria Žižkov,2024-10-05T08:15Z
+12,Sat Oct 5 2024,,,Zbrojovka Brno,,,FC Sellier & Bellot Vlašim,
+12,Sat Oct 5 2024,,,FK Varnsdorf,,,FC Zlín,
+12,Sat Oct 5 2024,16:00,CEST/+0200,FK MAS Táborsko,,,SK Líšeň,2024-10-05T14:00Z
+12,Sat Oct 5 2024,10:15,CEST/+0200,MFK Vyškov,,,Sigma Olomouc B,2024-10-05T08:15Z
+12,Sun Oct 6 2024,10:15,CEST/+0200,Baník Ostrava B,,,Vysočina Jihlava,2024-10-06T08:15Z
+12,Sun Oct 6 2024,10:30,CEST/+0200,AC Sparta Praha B,,,1. SK Prostějov,2024-10-06T08:30Z
+13,Sat Oct 19 2024,,,Vysočina Jihlava,,,FK Varnsdorf,
+13,Sat Oct 19 2024,,,1. SK Prostějov,,,MFK Chrudim,
+13,Sat Oct 19 2024,,,Sigma Olomouc B,,,AC Sparta Praha B,
+13,Sat Oct 19 2024,,,FC Zlín,,,SFC Opava,
+13,Sat Oct 19 2024,,,Viktoria Žižkov,,,Zbrojovka Brno,
+13,Sat Oct 19 2024,,,FC Sellier & Bellot Vlašim,,,FK MAS Táborsko,
+13,Sat Oct 19 2024,,,Slavia Praha B,,,Baník Ostrava B,
+13,Sat Oct 19 2024,,,SK Líšeň,,,MFK Vyškov,
+14,Sat Oct 26 2024,,,SK Líšeň,,,1. SK Prostějov,
+14,Sat Oct 26 2024,,,SFC Opava,,,Baník Ostrava B,
+14,Sat Oct 26 2024,,,Zbrojovka Brno,,,Slavia Praha B,
+14,Sat Oct 26 2024,,,FK Varnsdorf,,,FC Sellier & Bellot Vlašim,
+14,Sat Oct 26 2024,,,AC Sparta Praha B,,,Viktoria Žižkov,
+14,Sat Oct 26 2024,,,MFK Chrudim,,,Vysočina Jihlava,
+14,Sat Oct 26 2024,,,MFK Vyškov,,,FC Zlín,
+14,Sat Oct 26 2024,,,FK MAS Táborsko,,,Sigma Olomouc B,
+15,Sat Nov 2 2024,,,Baník Ostrava B,,,Zbrojovka Brno,
+15,Sat Nov 2 2024,,,1. SK Prostějov,,,FK MAS Táborsko,
+15,Sat Nov 2 2024,,,Sigma Olomouc B,,,SK Líšeň,
+15,Sat Nov 2 2024,,,FC Zlín,,,MFK Chrudim,
+15,Sat Nov 2 2024,,,Viktoria Žižkov,,,MFK Vyškov,
+15,Sat Nov 2 2024,,,FC Sellier & Bellot Vlašim,,,AC Sparta Praha B,
+15,Sat Nov 2 2024,,,Slavia Praha B,,,FK Varnsdorf,
+15,Sat Nov 2 2024,,,Vysočina Jihlava,,,SFC Opava,
+16,Sat Nov 9 2024,,,Zbrojovka Brno,,,SFC Opava,
+16,Sat Nov 9 2024,,,1. SK Prostějov,,,Sigma Olomouc B,
+16,Sat Nov 9 2024,,,FK MAS Táborsko,,,FC Zlín,
+16,Sat Nov 9 2024,,,SK Líšeň,,,Viktoria Žižkov,
+16,Sat Nov 9 2024,,,MFK Chrudim,,,FC Sellier & Bellot Vlašim,
+16,Sat Nov 9 2024,,,AC Sparta Praha B,,,Slavia Praha B,
+16,Sat Nov 9 2024,,,MFK Vyškov,,,Vysočina Jihlava,
+16,Sat Nov 9 2024,,,FK Varnsdorf,,,Baník Ostrava B,
+7,Tue Dec 17 2024,17:30,CET/+0100,FC Zlín,,,Slavia Praha B,2024-12-17T16:30Z
+17,Sat Mar 1 2025,,,FC Zlín,,,1. SK Prostějov,
+17,Sat Mar 1 2025,,,Viktoria Žižkov,,,Sigma Olomouc B,
+17,Sat Mar 1 2025,,,SFC Opava,,,FK Varnsdorf,
+17,Sat Mar 1 2025,,,Vysočina Jihlava,,,AC Sparta Praha B,
+17,Sat Mar 1 2025,,,Zbrojovka Brno,,,MFK Chrudim,
+17,Sat Mar 1 2025,,,FC Sellier & Bellot Vlašim,,,MFK Vyškov,
+17,Sat Mar 1 2025,,,Baník Ostrava B,,,FK MAS Táborsko,
+17,Sat Mar 1 2025,,,Slavia Praha B,,,SK Líšeň,
+18,Sat Mar 8 2025,,,1. SK Prostějov,,,Viktoria Žižkov,
+18,Sat Mar 8 2025,,,SK Líšeň,,,FC Sellier & Bellot Vlašim,
+18,Sat Mar 8 2025,,,MFK Chrudim,,,Slavia Praha B,
+18,Sat Mar 8 2025,,,FK MAS Táborsko,,,Vysočina Jihlava,
+18,Sat Mar 8 2025,,,MFK Vyškov,,,Baník Ostrava B,
+18,Sat Mar 8 2025,,,AC Sparta Praha B,,,SFC Opava,
+18,Sat Mar 8 2025,,,FK Varnsdorf,,,Zbrojovka Brno,
+18,Sat Mar 8 2025,,,Sigma Olomouc B,,,FC Zlín,
+19,Sat Mar 15 2025,,,FC Sellier & Bellot Vlašim,,,1. SK Prostějov,
+19,Sat Mar 15 2025,,,Vysočina Jihlava,,,Sigma Olomouc B,
+19,Sat Mar 15 2025,,,Viktoria Žižkov,,,FC Zlín,
+19,Sat Mar 15 2025,,,FK Varnsdorf,,,AC Sparta Praha B,
+19,Sat Mar 15 2025,,,Baník Ostrava B,,,MFK Chrudim,
+19,Sat Mar 15 2025,,,Slavia Praha B,,,MFK Vyškov,
+19,Sat Mar 15 2025,,,Zbrojovka Brno,,,FK MAS Táborsko,
+19,Sat Mar 15 2025,,,SFC Opava,,,SK Líšeň,
+20,Sat Mar 29 2025,,,FC Zlín,,,FC Sellier & Bellot Vlašim,
+20,Sat Mar 29 2025,,,Sigma Olomouc B,,,Slavia Praha B,
+20,Sat Mar 29 2025,,,SK Líšeň,,,Vysočina Jihlava,
+20,Sat Mar 29 2025,,,1. SK Prostějov,,,Baník Ostrava B,
+20,Sat Mar 29 2025,,,MFK Vyškov,,,SFC Opava,
+20,Sat Mar 29 2025,,,AC Sparta Praha B,,,Zbrojovka Brno,
+20,Sat Mar 29 2025,,,MFK Chrudim,,,FK Varnsdorf,
+20,Sat Mar 29 2025,,,FK MAS Táborsko,,,Viktoria Žižkov,
+21,Sat Apr 5 2025,,,Vysočina Jihlava,,,1. SK Prostějov,
+21,Sat Apr 5 2025,,,Baník Ostrava B,,,Sigma Olomouc B,
+21,Sat Apr 5 2025,,,Slavia Praha B,,,FC Zlín,
+21,Sat Apr 5 2025,,,FC Sellier & Bellot Vlašim,,,Viktoria Žižkov,
+21,Sat Apr 5 2025,,,AC Sparta Praha B,,,MFK Chrudim,
+21,Sat Apr 5 2025,,,Zbrojovka Brno,,,MFK Vyškov,
+21,Sat Apr 5 2025,,,SFC Opava,,,FK MAS Táborsko,
+21,Sat Apr 5 2025,,,FK Varnsdorf,,,SK Líšeň,
+22,Sat Apr 12 2025,,,1. SK Prostějov,,,Slavia Praha B,
+22,Sat Apr 12 2025,,,Viktoria Žižkov,,,Vysočina Jihlava,
+22,Sat Apr 12 2025,,,SK Líšeň,,,Baník Ostrava B,
+22,Sat Apr 12 2025,,,MFK Chrudim,,,SFC Opava,
+22,Sat Apr 12 2025,,,FC Zlín,,,Zbrojovka Brno,
+22,Sat Apr 12 2025,,,MFK Vyškov,,,FK Varnsdorf,
+22,Sat Apr 12 2025,,,FK MAS Táborsko,,,AC Sparta Praha B,
+22,Sat Apr 12 2025,,,Sigma Olomouc B,,,FC Sellier & Bellot Vlašim,
+23,Wed Apr 16 2025,,,Zbrojovka Brno,,,1. SK Prostějov,
+23,Wed Apr 16 2025,,,SFC Opava,,,Sigma Olomouc B,
+23,Wed Apr 16 2025,,,Vysočina Jihlava,,,FC Zlín,
+23,Wed Apr 16 2025,,,Baník Ostrava B,,,Viktoria Žižkov,
+23,Wed Apr 16 2025,,,Slavia Praha B,,,FC Sellier & Bellot Vlašim,
+23,Wed Apr 16 2025,,,MFK Chrudim,,,MFK Vyškov,
+23,Wed Apr 16 2025,,,FK Varnsdorf,,,FK MAS Táborsko,
+23,Wed Apr 16 2025,,,AC Sparta Praha B,,,SK Líšeň,
+24,Sat Apr 19 2025,,,FC Sellier & Bellot Vlašim,,,Vysočina Jihlava,
+24,Sat Apr 19 2025,,,FC Zlín,,,Baník Ostrava B,
+24,Sat Apr 19 2025,,,1. SK Prostějov,,,SFC Opava,
+24,Sat Apr 19 2025,,,SK Líšeň,,,Zbrojovka Brno,
+24,Sat Apr 19 2025,,,Sigma Olomouc B,,,FK Varnsdorf,
+24,Sat Apr 19 2025,,,MFK Vyškov,,,AC Sparta Praha B,
+24,Sat Apr 19 2025,,,FK MAS Táborsko,,,MFK Chrudim,
+24,Sat Apr 19 2025,,,Viktoria Žižkov,,,Slavia Praha B,
+25,Sat Apr 26 2025,,,FK Varnsdorf,,,1. SK Prostějov,
+25,Sat Apr 26 2025,,,Zbrojovka Brno,,,Sigma Olomouc B,
+25,Sat Apr 26 2025,,,AC Sparta Praha B,,,FC Zlín,
+25,Sat Apr 26 2025,,,SFC Opava,,,Viktoria Žižkov,
+25,Sat Apr 26 2025,,,Baník Ostrava B,,,FC Sellier & Bellot Vlašim,
+25,Sat Apr 26 2025,,,Vysočina Jihlava,,,Slavia Praha B,
+25,Sat Apr 26 2025,,,MFK Vyškov,,,FK MAS Táborsko,
+25,Sat Apr 26 2025,,,MFK Chrudim,,,SK Líšeň,
+26,Sat May 3 2025,,,Slavia Praha B,,,SFC Opava,
+26,Sat May 3 2025,,,FC Sellier & Bellot Vlašim,,,Zbrojovka Brno,
+26,Sat May 3 2025,,,FC Zlín,,,FK Varnsdorf,
+26,Sat May 3 2025,,,1. SK Prostějov,,,AC Sparta Praha B,
+26,Sat May 3 2025,,,Viktoria Žižkov,,,MFK Chrudim,
+26,Sat May 3 2025,,,Sigma Olomouc B,,,MFK Vyškov,
+26,Sat May 3 2025,,,SK Líšeň,,,FK MAS Táborsko,
+26,Sat May 3 2025,,,Vysočina Jihlava,,,Baník Ostrava B,
+27,Wed May 7 2025,,,MFK Chrudim,,,1. SK Prostějov,
+27,Wed May 7 2025,,,AC Sparta Praha B,,,Sigma Olomouc B,
+27,Wed May 7 2025,,,SFC Opava,,,FC Zlín,
+27,Wed May 7 2025,,,Zbrojovka Brno,,,Viktoria Žižkov,
+27,Wed May 7 2025,,,FK MAS Táborsko,,,FC Sellier & Bellot Vlašim,
+27,Wed May 7 2025,,,Baník Ostrava B,,,Slavia Praha B,
+27,Wed May 7 2025,,,FK Varnsdorf,,,Vysočina Jihlava,
+27,Wed May 7 2025,,,MFK Vyškov,,,SK Líšeň,
+28,Sat May 10 2025,,,Slavia Praha B,,,Zbrojovka Brno,
+28,Sat May 10 2025,,,FC Sellier & Bellot Vlašim,,,FK Varnsdorf,
+28,Sat May 10 2025,,,Viktoria Žižkov,,,AC Sparta Praha B,
+28,Sat May 10 2025,,,Vysočina Jihlava,,,MFK Chrudim,
+28,Sat May 10 2025,,,FC Zlín,,,MFK Vyškov,
+28,Sat May 10 2025,,,Sigma Olomouc B,,,FK MAS Táborsko,
+28,Sat May 10 2025,,,1. SK Prostějov,,,SK Líšeň,
+28,Sat May 10 2025,,,Baník Ostrava B,,,SFC Opava,
+29,Sat May 17 2025,,,FK MAS Táborsko,,,1. SK Prostějov,
+29,Sat May 17 2025,,,SK Líšeň,,,Sigma Olomouc B,
+29,Sat May 17 2025,,,MFK Chrudim,,,FC Zlín,
+29,Sat May 17 2025,,,MFK Vyškov,,,Viktoria Žižkov,
+29,Sat May 17 2025,,,AC Sparta Praha B,,,FC Sellier & Bellot Vlašim,
+29,Sat May 17 2025,,,FK Varnsdorf,,,Slavia Praha B,
+29,Sat May 17 2025,,,SFC Opava,,,Vysočina Jihlava,
+29,Sat May 17 2025,,,Zbrojovka Brno,,,Baník Ostrava B,
+30,Sat May 24 2025,,,Zbrojovka Brno,,,Vysočina Jihlava,
+30,Sat May 24 2025,,,Viktoria Žižkov,,,FK Varnsdorf,
+30,Sat May 24 2025,,,Baník Ostrava B,,,AC Sparta Praha B,
+30,Sat May 24 2025,,,Sigma Olomouc B,,,MFK Chrudim,
+30,Sat May 24 2025,,,1. SK Prostějov,,,MFK Vyškov,
+30,Sat May 24 2025,,,Slavia Praha B,,,FK MAS Táborsko,
+30,Sat May 24 2025,,,FC Zlín,,,SK Líšeň,
+30,Sat May 24 2025,,,FC Sellier & Bellot Vlašim,,,SFC Opava,

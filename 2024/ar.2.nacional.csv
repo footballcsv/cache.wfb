@@ -1,0 +1,723 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Feb 2 2024,21:30,-03/-0300,Mitre de SdE,1-0,0-0,San Telmo,2024-02-03T00:30Z
+1,Fri Feb 2 2024,17:10,-03/-0300,Agropecuario Argentino,1-0,0-0,Patronato de Paraná,2024-02-02T20:10Z
+1,Sat Feb 3 2024,17:00,-03/-0300,Chacarita Juniors,2-0,2-0,Deportivo Maipú,2024-02-03T20:00Z
+1,Sat Feb 3 2024,17:00,-03/-0300,All Boys,1-0,1-0,Tristan Suárez,2024-02-03T20:00Z
+1,Sat Feb 3 2024,17:00,-03/-0300,Deportivo Morón,3-0,1-0,Brown de Adrogué,2024-02-03T20:00Z
+1,Sat Feb 3 2024,17:30,-03/-0300,Talleres (RdE),0-0,0-0,Atlético San Miguel,2024-02-03T20:30Z
+1,Sat Feb 3 2024,17:30,-03/-0300,Estudiantes de Caseros,1-0,0-0,Ferro Carril Oeste,2024-02-03T20:30Z
+1,Sat Feb 3 2024,19:05,-03/-0300,Quilmes,2-0,1-0,Temperley,2024-02-03T22:05Z
+1,Sat Feb 3 2024,19:10,-03/-0300,Nueva Chicago,1-0,0-0,Almagro,2024-02-03T22:10Z
+1,Sat Feb 3 2024,20:00,-03/-0300,San Martín de Tucumán,1-0,0-0,Gimnasia de Jujuy,2024-02-03T23:00Z
+1,Sat Feb 3 2024,20:00,-03/-0300,Aldosivi,0-1,0-0,Atlético Rafaela,2024-02-03T23:00Z
+1,Sat Feb 3 2024,21:10,-03/-0300,Colón de Santa Fe,2-1,1-0,Defensores Unidos de Zárate,2024-02-04T00:10Z
+1,Sun Feb 4 2024,17:00,-03/-0300,Guillermo Brown,1-1,0-1,Racing de Córdoba,2024-02-04T20:00Z
+1,Sun Feb 4 2024,17:00,-03/-0300,Gimnasia y Tiro de Salta,2-0,1-0,Chaco For Ever,2024-02-04T20:00Z
+1,Sun Feb 4 2024,17:00,-03/-0300,Almirante Brown,0-1,0-0,Atlanta,2024-02-04T20:00Z
+1,Sun Feb 4 2024,19:00,-03/-0300,San Martín de San Juan,1-0,1-0,Alvarado,2024-02-04T22:00Z
+1,Sun Feb 4 2024,19:30,-03/-0300,Gimnasia de Mendoza,0-1,0-1,Defensores de Belgrano,2024-02-04T22:30Z
+1,Sun Feb 4 2024,20:00,-03/-0300,Estudiantes de Río Cuarto,1-0,1-0,Deportivo Madryn,2024-02-04T23:00Z
+1,Sun Feb 4 2024,17:00,-03/-0300,Arsenal de Sarandí,1-1,0-0,Güemes de SdE,2024-02-04T20:00Z
+2,Fri Feb 9 2024,19:10,-03/-0300,Ferro Carril Oeste,0-2,0-2,Chacarita Juniors,2024-02-09T22:10Z
+2,Sat Feb 10 2024,17:00,-03/-0300,Quilmes,0-0,0-0,Talleres (RdE),2024-02-10T20:00Z
+2,Sat Feb 10 2024,17:00,-03/-0300,Deportivo Madryn,0-2,0-0,Aldosivi,2024-02-10T20:00Z
+2,Sat Feb 10 2024,17:00,-03/-0300,San Telmo,1-1,1-0,Gimnasia y Tiro de Salta,2024-02-10T20:00Z
+2,Sat Feb 10 2024,17:00,-03/-0300,Almagro,2-1,1-0,Deportivo Morón,2024-02-10T20:00Z
+2,Sat Feb 10 2024,21:15,-03/-0300,Almirante Brown,1-2,1-1,Tristan Suárez,2024-02-11T00:15Z
+2,Sat Feb 10 2024,21:45,-03/-0300,Brown de Adrogué,2-2,1-0,Temperley,2024-02-11T00:45Z
+2,Sat Feb 10 2024,17:00,-03/-0300,Atlético San Miguel,0-0,0-0,Estudiantes de Caseros,2024-02-10T20:00Z
+2,Sun Feb 11 2024,17:00,-03/-0300,Güemes de SdE,1-0,1-0,San Martín de San Juan,2024-02-11T20:00Z
+2,Sun Feb 11 2024,17:00,-03/-0300,Gimnasia de Jujuy,1-0,1-0,Arsenal de Sarandí,2024-02-11T20:00Z
+2,Sun Feb 11 2024,17:00,-03/-0300,Atlanta,0-0,0-0,Colón de Santa Fe,2024-02-11T20:00Z
+2,Sun Feb 11 2024,17:00,-03/-0300,Defensores Unidos de Zárate,1-0,1-0,Estudiantes de Río Cuarto,2024-02-11T20:00Z
+2,Sun Feb 11 2024,17:00,-03/-0300,Defensores de Belgrano,1-0,0-0,Nueva Chicago,2024-02-11T20:00Z
+2,Sun Feb 11 2024,18:30,-03/-0300,Deportivo Maipú,0-2,0-1,San Martín de Tucumán,2024-02-11T21:30Z
+2,Sun Feb 11 2024,19:00,-03/-0300,Racing de Córdoba,1-3,1-0,Agropecuario Argentino,2024-02-11T22:00Z
+2,Sun Feb 11 2024,19:00,-03/-0300,Chaco For Ever,1-1,1-1,Gimnasia de Mendoza,2024-02-11T22:00Z
+2,Sun Feb 11 2024,20:00,-03/-0300,Patronato de Paraná,0-0,0-0,All Boys,2024-02-11T23:00Z
+2,Sun Feb 11 2024,20:00,-03/-0300,Alvarado,2-1,1-0,Guillermo Brown,2024-02-11T23:00Z
+2,Mon Feb 12 2024,20:30,-03/-0300,Atlético Rafaela,0-0,0-0,Mitre de SdE,2024-02-12T23:30Z
+3,Fri Feb 16 2024,17:00,-03/-0300,Chacarita Juniors,1-1,1-0,Atlético San Miguel,2024-02-16T20:00Z
+3,Sat Feb 17 2024,17:00,-03/-0300,Tristan Suárez,0-1,0-0,Patronato de Paraná,2024-02-17T20:00Z
+3,Sat Feb 17 2024,17:00,-03/-0300,Temperley,4-1,0-1,Almagro,2024-02-17T20:00Z
+3,Sat Feb 17 2024,17:30,-03/-0300,Talleres (RdE),2-0,1-0,Brown de Adrogué,2024-02-17T20:30Z
+3,Sat Feb 17 2024,17:30,-03/-0300,Estudiantes de Caseros,1-2,0-1,Quilmes,2024-02-17T20:30Z
+3,Sat Feb 17 2024,19:00,-03/-0300,Aldosivi,1-0,0-0,Defensores Unidos de Zárate,2024-02-17T22:00Z
+3,Sat Feb 17 2024,20:00,-03/-0300,Agropecuario Argentino,1-1,0-0,Alvarado,2024-02-17T23:00Z
+3,Sat Feb 17 2024,21:10,-03/-0300,Deportivo Morón,0-4,0-2,Defensores de Belgrano,2024-02-18T00:10Z
+3,Sun Feb 18 2024,17:00,-03/-0300,Guillermo Brown,1-0,1-0,Güemes de SdE,2024-02-18T20:00Z
+3,Sun Feb 18 2024,17:00,-03/-0300,Gimnasia y Tiro de Salta,1-0,0-0,Atlético Rafaela,2024-02-18T20:00Z
+3,Sun Feb 18 2024,18:15,-03/-0300,San Martín de Tucumán,1-2,1-1,Ferro Carril Oeste,2024-02-18T21:15Z
+3,Sun Feb 18 2024,19:00,-03/-0300,San Martín de San Juan,2-1,1-0,Gimnasia de Jujuy,2024-02-18T22:00Z
+3,Sun Feb 18 2024,19:00,-03/-0300,Mitre de SdE,1-0,0-0,Deportivo Madryn,2024-02-18T22:00Z
+3,Sun Feb 18 2024,20:00,-03/-0300,Estudiantes de Río Cuarto,1-2,0-0,Atlanta,2024-02-18T23:00Z
+3,Sun Feb 18 2024,20:10,-03/-0300,Colón de Santa Fe,2-1,1-0,Almirante Brown,2024-02-18T23:10Z
+3,Sun Feb 18 2024,17:00,-03/-0300,Arsenal de Sarandí,2-0,1-0,Deportivo Maipú,2024-02-18T20:00Z
+3,Mon Feb 19 2024,20:00,-03/-0300,All Boys,0-0,0-0,Racing de Córdoba,2024-02-19T23:00Z
+3,Mon Feb 19 2024,22:00,-03/-0300,Gimnasia de Mendoza,1-1,0-0,San Telmo,2024-02-20T01:00Z
+4,Fri Feb 23 2024,18:05,-03/-0300,Talleres (RdE),0-1,0-1,Estudiantes de Caseros,2024-02-23T21:05Z
+4,Fri Feb 23 2024,21:10,-03/-0300,Defensores de Belgrano,0-0,0-0,Temperley,2024-02-24T00:10Z
+4,Sat Feb 24 2024,17:00,-03/-0300,Defensores Unidos de Zárate,0-0,0-0,Mitre de SdE,2024-02-24T20:00Z
+4,Sat Feb 24 2024,17:00,-03/-0300,Deportivo Madryn,0-0,0-0,Gimnasia y Tiro de Salta,2024-02-24T20:00Z
+4,Sat Feb 24 2024,17:00,-03/-0300,Almagro,0-0,0-0,Brown de Adrogué,2024-02-24T20:00Z
+4,Sat Feb 24 2024,18:00,-03/-0300,Deportivo Maipú,0-2,0-0,San Martín de San Juan,2024-02-24T21:00Z
+4,Sat Feb 24 2024,21:45,-03/-0300,Ferro Carril Oeste,1-1,0-0,Arsenal de Sarandí,2024-02-25T00:45Z
+4,Sun Feb 25 2024,21:45,-03/-0300,Quilmes,1-0,0-0,Chacarita Juniors,2024-02-26T00:45Z
+4,Sun Feb 25 2024,17:00,-03/-0300,Güemes de SdE,1-1,0-0,Agropecuario Argentino,2024-02-25T20:00Z
+4,Sun Feb 25 2024,17:00,-03/-0300,Gimnasia de Jujuy,1-0,0-0,Guillermo Brown,2024-02-25T20:00Z
+4,Sun Feb 25 2024,17:00,-03/-0300,San Telmo,1-0,0-0,Nueva Chicago,2024-02-25T20:00Z
+4,Sun Feb 25 2024,18:00,-03/-0300,Racing de Córdoba,1-1,1-1,Tristan Suárez,2024-02-25T21:00Z
+4,Sun Feb 25 2024,19:30,-03/-0300,Chaco For Ever,0-2,0-1,Deportivo Morón,2024-02-25T22:30Z
+4,Sun Feb 25 2024,20:00,-03/-0300,Colón de Santa Fe,4-0,3-0,Patronato de Paraná,2024-02-25T23:00Z
+4,Sun Feb 25 2024,20:00,-03/-0300,Alvarado,1-0,1-0,All Boys,2024-02-25T23:00Z
+4,Sun Feb 25 2024,20:00,-03/-0300,Atlético Rafaela,4-1,2-0,Gimnasia de Mendoza,2024-02-25T23:00Z
+4,Mon Feb 26 2024,17:00,-03/-0300,Atlético San Miguel,1-0,1-0,San Martín de Tucumán,2024-02-26T20:00Z
+4,Tue Feb 27 2024,21:10,-03/-0300,Atlanta,0-2,0-1,Aldosivi,2024-02-28T00:10Z
+5,Fri Mar 1 2024,17:00,-03/-0300,Nueva Chicago,2-0,2-0,Atlético Rafaela,2024-03-01T20:00Z
+5,Sat Mar 2 2024,17:00,-03/-0300,Tristan Suárez,2-2,1-1,Alvarado,2024-03-02T20:00Z
+5,Sat Mar 2 2024,17:00,-03/-0300,Estudiantes de Caseros,1-1,0-0,Almagro,2024-03-02T20:00Z
+5,Sat Mar 2 2024,19:15,-03/-0300,Brown de Adrogué,0-3,0-1,Defensores de Belgrano,2024-03-02T22:15Z
+5,Sat Mar 2 2024,17:00,-03/-0300,Agropecuario Argentino,1-2,0-1,Gimnasia de Jujuy,2024-03-02T20:00Z
+5,Sat Mar 2 2024,17:00,-03/-0300,All Boys,0-0,0-0,Güemes de SdE,2024-03-02T20:00Z
+5,Sun Mar 3 2024,21:30,-03/-0300,Estudiantes de Río Cuarto,1-2,0-2,Colón de Santa Fe,2024-03-04T00:30Z
+5,Sun Mar 3 2024,20:00,-03/-0300,Patronato de Paraná,2-1,0-1,Racing de Córdoba,2024-03-03T23:00Z
+5,Sun Mar 3 2024,17:00,-03/-0300,Chacarita Juniors,0-1,0-0,Talleres (RdE),2024-03-03T20:00Z
+5,Sun Mar 3 2024,17:00,-03/-0300,Arsenal de Sarandí,1-0,0-0,Atlético San Miguel,2024-03-03T20:00Z
+5,Sun Mar 3 2024,17:00,-03/-0300,Guillermo Brown,1-1,0-0,Deportivo Maipú,2024-03-03T20:00Z
+5,Sun Mar 3 2024,17:00,-03/-0300,Temperley,1-1,0-1,Chaco For Ever,2024-03-03T20:00Z
+5,Sun Mar 3 2024,17:00,-03/-0300,Deportivo Morón,1-2,1-2,San Telmo,2024-03-03T20:00Z
+5,Sun Mar 3 2024,17:00,-03/-0300,Gimnasia y Tiro de Salta,1-0,0-0,Defensores Unidos de Zárate,2024-03-03T20:00Z
+5,Sun Mar 3 2024,17:00,-03/-0300,Mitre de SdE,0-0,0-0,Atlanta,2024-03-03T20:00Z
+5,Sun Mar 3 2024,17:00,-03/-0300,Aldosivi,0-0,0-0,Almirante Brown,2024-03-03T20:00Z
+5,Sun Mar 3 2024,19:00,-03/-0300,San Martín de San Juan,3-2,2-1,Ferro Carril Oeste,2024-03-03T22:00Z
+5,Mon Mar 4 2024,21:10,-03/-0300,San Martín de Tucumán,0-0,0-0,Quilmes,2024-03-05T00:10Z
+3,Tue Mar 5 2024,13:00,-03/-0300,Nueva Chicago,2-0,1-0,Chaco For Ever,2024-03-05T16:00Z
+5,Tue Mar 5 2024,17:00,-03/-0300,Gimnasia de Mendoza,2-1,0-0,Deportivo Madryn,2024-03-05T20:00Z
+6,Fri Mar 8 2024,21:10,-03/-0300,Atlético Rafaela,1-2,0-1,Deportivo Morón,2024-03-09T00:10Z
+6,Sat Mar 9 2024,21:00,-03/-0300,Chaco For Ever,3-0,2-0,Brown de Adrogué,2024-03-10T00:00Z
+6,Sat Mar 9 2024,17:00,-03/-0300,Atlético San Miguel,1-1,0-1,San Martín de San Juan,2024-03-09T20:00Z
+6,Sat Mar 9 2024,17:00,-03/-0300,Estudiantes de Caseros,0-0,0-0,Chacarita Juniors,2024-03-09T20:00Z
+6,Sat Mar 9 2024,17:00,-03/-0300,Deportivo Madryn,0-0,0-0,Nueva Chicago,2024-03-09T20:00Z
+6,Sat Mar 9 2024,17:00,-03/-0300,Defensores de Belgrano,0-0,0-0,Almagro,2024-03-09T20:00Z
+6,Sat Mar 9 2024,19:00,-03/-0300,Ferro Carril Oeste,1-2,1-1,Guillermo Brown,2024-03-09T22:00Z
+6,Sat Mar 9 2024,21:30,-03/-0300,Quilmes,0-0,0-0,Arsenal de Sarandí,2024-03-10T00:30Z
+6,Sun Mar 10 2024,19:10,-03/-0300,Colón de Santa Fe,1-1,0-0,Aldosivi,2024-03-10T22:10Z
+6,Sun Mar 10 2024,17:00,-03/-0300,Güemes de SdE,2-2,1-1,Tristan Suárez,2024-03-10T20:00Z
+6,Sun Mar 10 2024,17:00,-03/-0300,Gimnasia de Jujuy,0-1,0-0,All Boys,2024-03-10T20:00Z
+6,Sun Mar 10 2024,17:00,-03/-0300,Almirante Brown,2-0,1-0,Mitre de SdE,2024-03-10T20:00Z
+6,Sun Mar 10 2024,17:00,-03/-0300,Defensores Unidos de Zárate,3-1,0-1,Gimnasia de Mendoza,2024-03-10T20:00Z
+6,Sun Mar 10 2024,17:30,-03/-0300,Deportivo Maipú,1-2,0-1,Agropecuario Argentino,2024-03-10T20:30Z
+6,Sun Mar 10 2024,18:00,-03/-0300,Alvarado,2-0,2-0,Patronato de Paraná,2024-03-10T21:00Z
+6,Sun Mar 10 2024,19:10,-03/-0300,Talleres (RdE),1-3,1-1,San Martín de Tucumán,2024-03-10T22:10Z
+6,Sun Mar 10 2024,20:00,-03/-0300,Estudiantes de Río Cuarto,0-0,0-0,Racing de Córdoba,2024-03-10T23:00Z
+6,Mon Mar 11 2024,17:00,-03/-0300,San Telmo,3-0,2-0,Temperley,2024-03-11T20:00Z
+6,Mon Mar 11 2024,21:10,-03/-0300,Atlanta,1-1,0-0,Gimnasia y Tiro de Salta,2024-03-12T00:10Z
+7,Fri Mar 15 2024,21:30,-03/-0300,San Martín de San Juan,0-3,0-1,Quilmes,2024-03-16T00:30Z
+7,Sat Mar 16 2024,15:30,-03/-0300,Chacarita Juniors,1-4,1-2,Defensores de Belgrano,2024-03-16T18:30Z
+7,Sat Mar 16 2024,16:00,-03/-0300,Tristan Suárez,2-1,2-1,Gimnasia de Jujuy,2024-03-16T19:00Z
+7,Sat Mar 16 2024,17:35,-03/-0300,All Boys,3-2,3-1,Deportivo Maipú,2024-03-16T20:35Z
+7,Sat Mar 16 2024,18:00,-03/-0300,Aldosivi,1-1,0-0,Estudiantes de Río Cuarto,2024-03-16T21:00Z
+7,Sat Mar 16 2024,19:10,-03/-0300,Temperley,1-1,0-0,Atlético Rafaela,2024-03-16T22:10Z
+7,Sat Mar 16 2024,19:40,-03/-0300,Brown de Adrogué,0-0,0-0,San Telmo,2024-03-16T22:40Z
+7,Sun Mar 17 2024,15:00,-03/-0300,Arsenal de Sarandí,2-1,0-0,Talleres (RdE),2024-03-17T18:00Z
+7,Sun Mar 17 2024,19:00,-03/-0300,Patronato de Paraná,0-0,0-0,Güemes de SdE,2024-03-17T22:00Z
+7,Sun Mar 17 2024,16:00,-03/-0300,Guillermo Brown,1-1,0-1,Atlético San Miguel,2024-03-17T19:00Z
+7,Sun Mar 17 2024,16:00,-03/-0300,Almagro,0-0,0-0,Chaco For Ever,2024-03-17T19:00Z
+7,Sun Mar 17 2024,16:00,-03/-0300,Deportivo Morón,0-0,0-0,Deportivo Madryn,2024-03-17T19:00Z
+7,Sun Mar 17 2024,16:30,-03/-0300,Racing de Córdoba,2-0,1-0,Alvarado,2024-03-17T19:30Z
+7,Sun Mar 17 2024,17:15,-03/-0300,Mitre de SdE,2-2,0-2,Colón de Santa Fe,2024-03-17T20:15Z
+7,Sun Mar 17 2024,18:00,-03/-0300,San Martín de Tucumán,2-0,1-0,Estudiantes de Caseros,2024-03-17T21:00Z
+7,Mon Mar 18 2024,21:45,-03/-0300,Agropecuario Argentino,1-2,1-2,Ferro Carril Oeste,2024-03-19T00:45Z
+7,Mon Mar 18 2024,18:30,-03/-0300,Gimnasia de Mendoza,2-1,2-1,Atlanta,2024-03-18T21:30Z
+7,Mon Mar 18 2024,18:45,-03/-0300,Nueva Chicago,3-0,1-0,Defensores Unidos de Zárate,2024-03-18T21:45Z
+7,Tue Mar 19 2024,16:00,-03/-0300,Gimnasia y Tiro de Salta,0-0,0-0,Almirante Brown,2024-03-19T19:00Z
+8,Thu Mar 21 2024,15:30,-03/-0300,Talleres (RdE),0-0,0-0,San Martín de San Juan,2024-03-21T18:30Z
+8,Sat Mar 23 2024,15:30,-03/-0300,Atlético San Miguel,1-1,1-0,Agropecuario Argentino,2024-03-23T18:30Z
+8,Sat Mar 23 2024,21:00,-03/-0300,Gimnasia de Jujuy,1-1,0-1,Patronato de Paraná,2024-03-24T00:00Z
+8,Sat Mar 23 2024,15:30,-03/-0300,Estudiantes de Caseros,1-0,0-0,Arsenal de Sarandí,2024-03-23T18:30Z
+8,Sat Mar 23 2024,15:30,-03/-0300,Defensores Unidos de Zárate,2-0,0-0,Deportivo Morón,2024-03-23T18:30Z
+8,Sat Mar 23 2024,15:35,-03/-0300,Aldosivi,0-0,0-0,Alvarado,2024-03-23T18:35Z
+8,Sat Mar 23 2024,16:00,-03/-0300,Deportivo Madryn,0-1,0-1,Temperley,2024-03-23T19:00Z
+8,Sat Mar 23 2024,16:00,-03/-0300,San Telmo,4-1,1-1,Almagro,2024-03-23T19:00Z
+8,Sat Mar 23 2024,17:00,-03/-0300,Deportivo Maipú,1-0,0-0,Tristan Suárez,2024-03-23T20:00Z
+8,Sat Mar 23 2024,17:40,-03/-0300,Quilmes,1-0,0-0,Guillermo Brown,2024-03-23T20:40Z
+8,Mon Mar 25 2024,21:00,-03/-0300,Estudiantes de Río Cuarto,0-0,0-0,Mitre de SdE,2024-03-26T00:00Z
+8,Mon Mar 25 2024,15:00,-03/-0300,Chacarita Juniors,1-0,1-0,San Martín de Tucumán,2024-03-25T18:00Z
+8,Mon Mar 25 2024,16:00,-03/-0300,Almirante Brown,0-0,0-0,Gimnasia de Mendoza,2024-03-25T19:00Z
+8,Mon Mar 25 2024,19:00,-03/-0300,Ferro Carril Oeste,2-2,0-2,All Boys,2024-03-25T22:00Z
+8,Mon Mar 25 2024,20:30,-03/-0300,Güemes de SdE,0-1,0-0,Racing de Córdoba,2024-03-25T23:30Z
+8,Mon Mar 25 2024,20:50,-03/-0300,Atlanta,0-0,0-0,Nueva Chicago,2024-03-25T23:50Z
+8,Mon Mar 25 2024,21:00,-03/-0300,Chaco For Ever,3-0,2-0,Defensores de Belgrano,2024-03-26T00:00Z
+8,Mon Mar 25 2024,21:00,-03/-0300,Atlético Rafaela,0-0,0-0,Brown de Adrogué,2024-03-26T00:00Z
+8,Mon Mar 25 2024,21:45,-03/-0300,Colón de Santa Fe,1-0,1-0,Gimnasia y Tiro de Salta,2024-03-26T00:45Z
+9,Fri Mar 29 2024,19:05,-03/-0300,Agropecuario Argentino,1-1,0-1,Quilmes,2024-03-29T22:05Z
+9,Fri Mar 29 2024,15:00,-03/-0300,Guillermo Brown,1-1,0-0,Talleres (RdE),2024-03-29T18:00Z
+9,Sat Mar 30 2024,16:00,-03/-0300,Almagro,1-0,0-0,Atlético Rafaela,2024-03-30T19:00Z
+9,Sat Mar 30 2024,13:05,-03/-0300,Arsenal de Sarandí,3-1,1-1,Chacarita Juniors,2024-03-30T16:05Z
+9,Sat Mar 30 2024,15:00,-03/-0300,Gimnasia de Mendoza,2-0,1-0,Colón de Santa Fe,2024-03-30T18:00Z
+9,Sat Mar 30 2024,16:00,-03/-0300,Tristan Suárez,1-1,0-0,Ferro Carril Oeste,2024-03-30T19:00Z
+9,Sat Mar 30 2024,16:00,-03/-0300,Temperley,0-0,0-0,Defensores Unidos de Zárate,2024-03-30T19:00Z
+9,Sun Mar 31 2024,17:45,-03/-0300,All Boys,0-0,0-0,Atlético San Miguel,2024-03-31T20:45Z
+9,Sun Mar 31 2024,15:30,-03/-0300,Nueva Chicago,1-0,0-0,Almirante Brown,2024-03-31T18:30Z
+9,Sun Mar 31 2024,16:00,-03/-0300,Alvarado,0-0,0-0,Güemes de SdE,2024-03-31T19:00Z
+9,Sun Mar 31 2024,16:00,-03/-0300,Gimnasia y Tiro de Salta,1-1,0-0,Estudiantes de Río Cuarto,2024-03-31T19:00Z
+9,Sun Mar 31 2024,16:30,-03/-0300,Racing de Córdoba,1-0,1-0,Gimnasia de Jujuy,2024-03-31T19:30Z
+9,Sun Mar 31 2024,17:00,-03/-0300,Patronato de Paraná,1-2,0-1,Deportivo Maipú,2024-03-31T20:00Z
+9,Sun Mar 31 2024,19:00,-03/-0300,Brown de Adrogué,0-1,0-0,Deportivo Madryn,2024-03-31T22:00Z
+9,Sun Mar 31 2024,19:00,-03/-0300,San Martín de San Juan,0-0,0-0,Estudiantes de Caseros,2024-03-31T22:00Z
+9,Sun Mar 31 2024,20:00,-03/-0300,Deportivo Morón,3-0,1-0,Atlanta,2024-03-31T23:00Z
+9,Mon Apr 1 2024,21:10,-03/-0300,San Martín de Tucumán,1-0,0-0,Chaco For Ever,2024-04-02T00:10Z
+9,Mon Apr 1 2024,15:30,-03/-0300,Defensores de Belgrano,0-1,0-1,San Telmo,2024-04-01T18:30Z
+9,Mon Apr 1 2024,15:30,-03/-0300,Mitre de SdE,0-1,0-0,Aldosivi,2024-04-01T18:30Z
+10,Fri Apr 5 2024,21:10,-03/-0300,Colón de Santa Fe,2-1,0-0,Nueva Chicago,2024-04-06T00:10Z
+10,Sat Apr 6 2024,21:10,-03/-0300,San Martín de Tucumán,3-0,1-0,Arsenal de Sarandí,2024-04-07T00:10Z
+10,Sat Apr 6 2024,14:10,-03/-0300,Chacarita Juniors,1-1,0-1,San Martín de San Juan,2024-04-06T17:10Z
+10,Sat Apr 6 2024,14:30,-03/-0300,Almirante Brown,1-1,0-1,Deportivo Morón,2024-04-06T17:30Z
+10,Sat Apr 6 2024,15:30,-03/-0300,Defensores Unidos de Zárate,1-1,1-1,Brown de Adrogué,2024-04-06T18:30Z
+10,Sat Apr 6 2024,15:30,-03/-0300,San Telmo,2-0,0-0,Chaco For Ever,2024-04-06T18:30Z
+10,Sat Apr 6 2024,19:00,-03/-0300,Ferro Carril Oeste,1-1,0-1,Patronato de Paraná,2024-04-06T22:00Z
+10,Sun Apr 7 2024,18:10,-03/-0300,Atlético Rafaela,0-1,0-0,Defensores de Belgrano,2024-04-07T21:10Z
+10,Sun Apr 7 2024,14:00,-03/-0300,Atlético San Miguel,3-2,2-2,Tristan Suárez,2024-04-07T17:00Z
+10,Sun Apr 7 2024,15:30,-03/-0300,Talleres (RdE),1-5,1-4,Agropecuario Argentino,2024-04-07T18:30Z
+10,Sun Apr 7 2024,15:30,-03/-0300,Estudiantes de Caseros,2-1,2-0,Guillermo Brown,2024-04-07T18:30Z
+10,Sun Apr 7 2024,16:00,-03/-0300,Gimnasia de Jujuy,1-0,1-0,Alvarado,2024-04-07T19:00Z
+10,Sun Apr 7 2024,16:00,-03/-0300,Deportivo Madryn,2-0,2-0,Almagro,2024-04-07T19:00Z
+10,Sun Apr 7 2024,16:05,-03/-0300,Quilmes,1-0,0-0,All Boys,2024-04-07T19:05Z
+10,Sun Apr 7 2024,17:00,-03/-0300,Mitre de SdE,2-0,0-0,Güemes de SdE,2024-04-07T20:00Z
+10,Sun Apr 7 2024,17:00,-03/-0300,Deportivo Maipú,1-0,1-0,Racing de Córdoba,2024-04-07T20:00Z
+10,Sun Apr 7 2024,17:00,-03/-0300,Aldosivi,2-2,2-1,Gimnasia y Tiro de Salta,2024-04-07T20:00Z
+10,Sun Apr 7 2024,18:00,-03/-0300,Estudiantes de Río Cuarto,1-1,0-0,Gimnasia de Mendoza,2024-04-07T21:00Z
+10,Mon Apr 8 2024,21:10,-03/-0300,Atlanta,0-2,0-1,Temperley,2024-04-09T00:10Z
+11,Fri Apr 12 2024,18:00,-03/-0300,Nueva Chicago,0-1,0-0,Estudiantes de Río Cuarto,2024-04-12T21:00Z
+11,Sat Apr 13 2024,19:00,-03/-0300,Alvarado,0-1,0-0,Deportivo Maipú,2024-04-13T22:00Z
+11,Sat Apr 13 2024,15:00,-03/-0300,Brown de Adrogué,2-3,0-2,Atlanta,2024-04-13T18:00Z
+11,Sat Apr 13 2024,15:05,-03/-0300,Temperley,1-1,0-1,Almirante Brown,2024-04-13T18:05Z
+11,Sat Apr 13 2024,15:30,-03/-0300,Almagro,1-1,0-0,Defensores Unidos de Zárate,2024-04-13T18:30Z
+11,Sat Apr 13 2024,16:00,-03/-0300,Gimnasia de Mendoza,2-3,1-2,Aldosivi,2024-04-13T19:00Z
+11,Sat Apr 13 2024,17:00,-03/-0300,Chaco For Ever,2-0,0-0,Atlético Rafaela,2024-04-13T20:00Z
+11,Sat Apr 13 2024,17:05,-03/-0300,Agropecuario Argentino,0-0,0-0,Estudiantes de Caseros,2024-04-13T20:05Z
+11,Sat Apr 13 2024,19:10,-03/-0300,All Boys,1-0,0-0,Talleres (RdE),2024-04-13T22:10Z
+11,Sat Apr 13 2024,21:10,-03/-0300,Deportivo Morón,0-2,0-2,Colón de Santa Fe,2024-04-14T00:10Z
+11,Sun Apr 14 2024,21:00,-03/-0300,Defensores de Belgrano,2-3,2-0,Deportivo Madryn,2024-04-15T00:00Z
+11,Sun Apr 14 2024,14:30,-03/-0300,Tristan Suárez,1-3,0-1,Quilmes,2024-04-14T17:30Z
+11,Sun Apr 14 2024,15:00,-03/-0300,Arsenal de Sarandí,0-0,0-0,San Telmo,2024-04-14T18:00Z
+11,Sun Apr 14 2024,15:30,-03/-0300,Guillermo Brown,0-3,0-2,Chacarita Juniors,2024-04-14T18:30Z
+11,Sun Apr 14 2024,16:00,-03/-0300,Racing de Córdoba,1-1,1-0,Ferro Carril Oeste,2024-04-14T19:00Z
+11,Sun Apr 14 2024,16:00,-03/-0300,Gimnasia y Tiro de Salta,1-0,0-0,Mitre de SdE,2024-04-14T19:00Z
+11,Sun Apr 14 2024,18:00,-03/-0300,Güemes de SdE,1-1,0-0,Gimnasia de Jujuy,2024-04-14T21:00Z
+11,Sun Apr 14 2024,18:50,-03/-0300,San Martín de San Juan,0-0,0-0,San Martín de Tucumán,2024-04-14T21:50Z
+4,Wed Apr 17 2024,16:40,-03/-0300,Almirante Brown,0-3,0-2,Estudiantes de Río Cuarto,2024-04-17T19:40Z
+12,Fri Apr 19 2024,20:10,-03/-0300,San Martín de Tucumán,0-0,0-0,Guillermo Brown,2024-04-19T23:10Z
+12,Sat Apr 20 2024,13:35,-03/-0300,Atlanta,3-0,1-0,Almagro,2024-04-20T16:35Z
+12,Sat Apr 20 2024,15:00,-03/-0300,Estudiantes de Caseros,1-1,0-0,All Boys,2024-04-20T18:00Z
+12,Sat Apr 20 2024,15:30,-03/-0300,Defensores Unidos de Zárate,3-2,2-0,Defensores de Belgrano,2024-04-20T18:30Z
+12,Sat Apr 20 2024,19:05,-03/-0300,Colón de Santa Fe,0-0,0-0,Temperley,2024-04-20T22:05Z
+12,Sat Apr 20 2024,20:00,-03/-0300,Talleres (RdE),1-0,0-0,Tristan Suárez,2024-04-20T23:00Z
+12,Sun Apr 21 2024,13:00,-03/-0300,Arsenal de Sarandí,0-0,0-0,San Martín de San Juan,2024-04-21T16:00Z
+12,Sun Apr 21 2024,11:30,-03/-0300,Mitre de SdE,0-1,0-0,Gimnasia de Mendoza,2024-04-21T14:30Z
+12,Sun Apr 21 2024,13:00,-03/-0300,Atlético San Miguel,2-0,1-0,Racing de Córdoba,2024-04-21T16:00Z
+12,Sun Apr 21 2024,18:30,-03/-0300,Atlético Rafaela,1-2,0-0,San Telmo,2024-04-21T21:30Z
+12,Sun Apr 21 2024,13:00,-03/-0300,Deportivo Madryn,1-0,0-0,Chaco For Ever,2024-04-21T16:00Z
+12,Sun Apr 21 2024,15:30,-03/-0300,Chacarita Juniors,2-1,0-1,Agropecuario Argentino,2024-04-21T18:30Z
+12,Sun Apr 21 2024,16:00,-03/-0300,Gimnasia y Tiro de Salta,0-0,0-0,Gimnasia de Jujuy,2024-04-21T19:00Z
+12,Sun Apr 21 2024,16:00,-03/-0300,Aldosivi,0-0,0-0,Nueva Chicago,2024-04-21T19:00Z
+12,Sun Apr 21 2024,20:00,-03/-0300,Estudiantes de Río Cuarto,2-0,0-0,Deportivo Morón,2024-04-21T23:00Z
+12,Mon Apr 22 2024,21:10,-03/-0300,Quilmes,2-2,0-1,Patronato de Paraná,2024-04-23T00:10Z
+12,Mon Apr 22 2024,15:00,-03/-0300,Deportivo Maipú,1-1,0-0,Güemes de SdE,2024-04-22T18:00Z
+12,Mon Apr 22 2024,15:00,-03/-0300,Almirante Brown,1-2,0-1,Brown de Adrogué,2024-04-22T18:00Z
+12,Tue Apr 23 2024,19:00,-03/-0300,Ferro Carril Oeste,3-0,1-0,Alvarado,2024-04-23T22:00Z
+13,Sat Apr 27 2024,20:40,-03/-0300,Defensores de Belgrano,2-0,0-0,Atlanta,2024-04-27T23:40Z
+13,Sat Apr 27 2024,14:30,-03/-0300,Tristan Suárez,0-1,0-0,Estudiantes de Caseros,2024-04-27T17:30Z
+13,Sat Apr 27 2024,15:30,-03/-0300,Almagro,1-0,1-0,Almirante Brown,2024-04-27T18:30Z
+13,Sat Apr 27 2024,16:35,-03/-0300,Patronato de Paraná,1-1,1-1,Talleres (RdE),2024-04-27T19:35Z
+13,Sat Apr 27 2024,18:00,-03/-0300,Nueva Chicago,1-0,1-0,Mitre de SdE,2024-04-27T21:00Z
+13,Sat Apr 27 2024,18:40,-03/-0300,Agropecuario Argentino,0-1,0-1,San Martín de Tucumán,2024-04-27T21:40Z
+13,Sun Apr 28 2024,16:00,-03/-0300,Gimnasia de Jujuy,2-0,1-0,Deportivo Maipú,2024-04-28T19:00Z
+13,Sun Apr 28 2024,13:10,-03/-0300,Brown de Adrogué,0-4,0-3,Colón de Santa Fe,2024-04-28T16:10Z
+13,Sun Apr 28 2024,15:00,-03/-0300,Guillermo Brown,2-0,0-0,Arsenal de Sarandí,2024-04-28T18:00Z
+13,Sun Apr 28 2024,15:00,-03/-0300,Deportivo Morón,2-1,0-1,Aldosivi,2024-04-28T18:00Z
+13,Sun Apr 28 2024,15:30,-03/-0300,Alvarado,1-0,1-0,Atlético San Miguel,2024-04-28T18:30Z
+13,Sun Apr 28 2024,15:30,-03/-0300,San Telmo,2-1,1-0,Deportivo Madryn,2024-04-28T18:30Z
+13,Sun Apr 28 2024,15:30,-03/-0300,Temperley,0-1,0-0,Estudiantes de Río Cuarto,2024-04-28T18:30Z
+13,Sun Apr 28 2024,16:00,-03/-0300,San Martín de San Juan,2-1,1-0,Atlético Rafaela,2024-04-28T19:00Z
+13,Sun Apr 28 2024,19:10,-03/-0300,All Boys,0-0,0-0,Chacarita Juniors,2024-04-28T22:10Z
+13,Sun Apr 28 2024,16:30,-03/-0300,Güemes de SdE,1-3,0-3,Ferro Carril Oeste,2024-04-28T19:30Z
+13,Sun Apr 28 2024,16:30,-03/-0300,Chaco For Ever,3-0,0-0,Defensores Unidos de Zárate,2024-04-28T19:30Z
+13,Sun Apr 28 2024,16:30,-03/-0300,Gimnasia de Mendoza,0-0,0-0,Gimnasia y Tiro de Salta,2024-04-28T19:30Z
+13,Sun Apr 28 2024,21:10,-03/-0300,Racing de Córdoba,1-0,1-0,Quilmes,2024-04-29T00:10Z
+14,Fri May 3 2024,21:00,-03/-0300,Estudiantes de Río Cuarto,2-1,0-1,Brown de Adrogué,2024-05-04T00:00Z
+14,Fri May 3 2024,19:10,-03/-0300,Colón de Santa Fe,3-0,0-0,Almagro,2024-05-03T22:10Z
+14,Sat May 4 2024,15:30,-03/-0300,Estudiantes de Caseros,0-0,0-0,Patronato de Paraná,2024-05-04T18:30Z
+14,Sat May 4 2024,13:30,-03/-0300,Defensores Unidos de Zárate,2-2,1-1,San Telmo,2024-05-04T16:30Z
+14,Sat May 4 2024,14:00,-03/-0300,Atlanta,1-0,0-0,Chaco For Ever,2024-05-04T17:00Z
+14,Sat May 4 2024,15:30,-03/-0300,Gimnasia de Mendoza,0-1,0-1,Deportivo Maipú,2024-05-04T18:30Z
+14,Sat May 4 2024,15:30,-03/-0300,Atlético San Miguel,1-0,0-0,Güemes de SdE,2024-05-04T18:30Z
+14,Sat May 4 2024,19:40,-03/-0300,San Martín de Tucumán,0-0,0-0,All Boys,2024-05-04T22:40Z
+14,Sat May 4 2024,15:30,-03/-0300,Arsenal de Sarandí,1-0,1-0,Agropecuario Argentino,2024-05-04T18:30Z
+14,Sat May 4 2024,15:30,-03/-0300,Almirante Brown,0-2,0-1,Defensores de Belgrano,2024-05-04T18:30Z
+14,Sat May 4 2024,15:30,-03/-0300,Deportivo Madryn,1-1,1-1,Atlético Rafaela,2024-05-04T18:30Z
+14,Sat May 4 2024,16:00,-03/-0300,San Martín de San Juan,1-0,0-0,Guillermo Brown,2024-05-04T19:00Z
+14,Sat May 4 2024,16:00,-03/-0300,Mitre de SdE,0-0,0-0,Deportivo Morón,2024-05-04T19:00Z
+14,Sat May 4 2024,17:35,-03/-0300,Aldosivi,1-1,0-0,Temperley,2024-05-04T20:35Z
+14,Sun May 5 2024,15:30,-03/-0300,Chacarita Juniors,1-2,1-1,Tristan Suárez,2024-05-05T18:30Z
+14,Sun May 5 2024,16:00,-03/-0300,Gimnasia y Tiro de Salta,2-0,0-0,Nueva Chicago,2024-05-05T19:00Z
+14,Sun May 5 2024,17:00,-03/-0300,Ferro Carril Oeste,2-0,1-0,Gimnasia de Jujuy,2024-05-05T20:00Z
+14,Sun May 5 2024,21:00,-03/-0300,Quilmes,1-1,0-1,Alvarado,2024-05-06T00:00Z
+14,Tue May 7 2024,15:05,-03/-0300,Talleres (RdE),0-0,0-0,Racing de Córdoba,2024-05-07T18:05Z
+11,Wed May 8 2024,15:00,-03/-0300,Patronato de Paraná,0-1,0-0,Atlético San Miguel,2024-05-08T18:00Z
+15,Fri May 10 2024,20:00,-03/-0300,Temperley,2-0,0-0,Mitre de SdE,2024-05-10T23:00Z
+15,Sat May 11 2024,15:30,-03/-0300,Tristan Suárez,0-0,0-0,San Martín de Tucumán,2024-05-11T18:30Z
+15,Sat May 11 2024,16:00,-03/-0300,Chaco For Ever,0-0,0-0,Almirante Brown,2024-05-11T19:00Z
+15,Sat May 11 2024,17:30,-03/-0300,Agropecuario Argentino,0-1,0-0,San Martín de San Juan,2024-05-11T20:30Z
+15,Sat May 11 2024,18:00,-03/-0300,Atlético Rafaela,1-0,0-0,Defensores Unidos de Zárate,2024-05-11T21:00Z
+15,Sat May 11 2024,19:00,-03/-0300,Brown de Adrogué,0-1,0-0,Aldosivi,2024-05-11T22:00Z
+15,Sat May 11 2024,14:00,-03/-0300,Deportivo Morón,0-0,0-0,Gimnasia y Tiro de Salta,2024-05-11T17:00Z
+15,Sun May 12 2024,13:10,-03/-0300,San Telmo,0-1,0-0,Atlanta,2024-05-12T16:10Z
+15,Sun May 12 2024,15:00,-03/-0300,Guillermo Brown,0-1,0-0,Deportivo Madryn,2024-05-12T18:00Z
+15,Sun May 12 2024,15:10,-03/-0300,Güemes de SdE,1-0,0-0,Quilmes,2024-05-12T18:10Z
+15,Sun May 12 2024,15:30,-03/-0300,Alvarado,2-0,1-0,Talleres (RdE),2024-05-12T18:30Z
+15,Sun May 12 2024,15:30,-03/-0300,Deportivo Maipú,2-1,0-1,Ferro Carril Oeste,2024-05-12T18:30Z
+15,Sun May 12 2024,16:00,-03/-0300,Patronato de Paraná,2-0,1-0,Chacarita Juniors,2024-05-12T19:00Z
+15,Sun May 12 2024,16:00,-03/-0300,Gimnasia de Jujuy,3-0,2-0,Atlético San Miguel,2024-05-12T19:00Z
+15,Sun May 12 2024,17:30,-03/-0300,Nueva Chicago,2-1,0-1,Gimnasia de Mendoza,2024-05-12T20:30Z
+15,Mon May 13 2024,21:00,-03/-0300,Racing de Córdoba,0-1,0-0,Estudiantes de Caseros,2024-05-14T00:00Z
+15,Mon May 13 2024,21:05,-03/-0300,All Boys,1-0,1-0,Arsenal de Sarandí,2024-05-14T00:05Z
+15,Mon May 13 2024,21:10,-03/-0300,Defensores de Belgrano,1-0,1-0,Colón de Santa Fe,2024-05-14T00:10Z
+15,Mon May 13 2024,15:30,-03/-0300,Almagro,0-1,0-0,Estudiantes de Río Cuarto,2024-05-13T18:30Z
+16,Fri May 17 2024,15:30,-03/-0300,Gimnasia y Tiro de Salta,0-2,0-1,Temperley,2024-05-17T18:30Z
+16,Sat May 18 2024,15:30,-03/-0300,Talleres (RdE),0-0,0-0,Güemes de SdE,2024-05-18T18:30Z
+16,Sat May 18 2024,19:00,-03/-0300,Quilmes,2-1,1-1,Gimnasia de Jujuy,2024-05-18T22:00Z
+16,Sat May 18 2024,21:10,-03/-0300,Estudiantes de Caseros,4-0,2-0,Alvarado,2024-05-19T00:10Z
+16,Sat May 18 2024,15:30,-03/-0300,Atlético San Miguel,2-1,0-0,Deportivo Maipú,2024-05-18T18:30Z
+16,Sun May 19 2024,13:45,-03/-0300,Atlanta,2-0,1-0,Atlético Rafaela,2024-05-19T16:45Z
+16,Sun May 19 2024,15:00,-03/-0300,Arsenal de Sarandí,0-2,0-2,Tristan Suárez,2024-05-19T18:00Z
+16,Sun May 19 2024,15:00,-03/-0300,Guillermo Brown,0-2,0-2,Agropecuario Argentino,2024-05-19T18:00Z
+16,Sun May 19 2024,15:30,-03/-0300,Chacarita Juniors,2-2,1-1,Racing de Córdoba,2024-05-19T18:30Z
+16,Sun May 19 2024,15:30,-03/-0300,Gimnasia de Mendoza,2-1,1-0,Deportivo Morón,2024-05-19T18:30Z
+16,Sun May 19 2024,15:30,-03/-0300,Aldosivi,1-0,0-0,Almagro,2024-05-19T18:30Z
+16,Sun May 19 2024,15:30,-03/-0300,Defensores Unidos de Zárate,0-0,0-0,Deportivo Madryn,2024-05-19T18:30Z
+16,Sun May 19 2024,15:45,-03/-0300,Colón de Santa Fe,1-0,0-0,Chaco For Ever,2024-05-19T18:45Z
+16,Sun May 19 2024,16:00,-03/-0300,San Martín de San Juan,3-0,1-0,All Boys,2024-05-19T19:00Z
+16,Sun May 19 2024,18:00,-03/-0300,Estudiantes de Río Cuarto,1-1,0-1,Defensores de Belgrano,2024-05-19T21:00Z
+16,Mon May 20 2024,21:10,-03/-0300,San Martín de Tucumán,2-0,0-0,Patronato de Paraná,2024-05-21T00:10Z
+16,Mon May 20 2024,21:30,-03/-0300,Mitre de SdE,1-0,1-0,Brown de Adrogué,2024-05-21T00:30Z
+16,Mon May 20 2024,15:30,-03/-0300,Almirante Brown,0-0,0-0,San Telmo,2024-05-20T18:30Z
+16,Tue May 21 2024,16:05,-03/-0300,Nueva Chicago,3-1,2-0,Ferro Carril Oeste,2024-05-21T19:05Z
+17,Sat May 25 2024,13:30,-03/-0300,Tristan Suárez,0-1,0-0,San Martín de San Juan,2024-05-25T16:30Z
+17,Sat May 25 2024,15:00,-03/-0300,Agropecuario Argentino,0-0,0-0,Defensores Unidos de Zárate,2024-05-25T18:00Z
+17,Sat May 25 2024,18:00,-03/-0300,Atlético Rafaela,1-2,0-2,Almirante Brown,2024-05-25T21:00Z
+17,Sat May 25 2024,12:45,-03/-0300,San Telmo,2-0,1-0,Colón de Santa Fe,2024-05-25T15:45Z
+17,Sun May 26 2024,13:10,-03/-0300,Ferro Carril Oeste,1-0,0-0,Atlético San Miguel,2024-05-26T16:10Z
+17,Sun May 26 2024,15:00,-03/-0300,Güemes de SdE,1-0,0-0,Estudiantes de Caseros,2024-05-26T18:00Z
+17,Sun May 26 2024,15:00,-03/-0300,Deportivo Madryn,3-0,1-0,Atlanta,2024-05-26T18:00Z
+17,Sun May 26 2024,15:00,-03/-0300,Brown de Adrogué,0-0,0-0,Gimnasia y Tiro de Salta,2024-05-26T18:00Z
+17,Sun May 26 2024,15:20,-03/-0300,Deportivo Morón,1-0,0-0,Nueva Chicago,2024-05-26T18:20Z
+17,Sun May 26 2024,15:30,-03/-0300,All Boys,1-1,0-1,Guillermo Brown,2024-05-26T18:30Z
+17,Sun May 26 2024,15:30,-03/-0300,Alvarado,2-1,1-0,Chacarita Juniors,2024-05-26T18:30Z
+17,Sun May 26 2024,15:30,-03/-0300,Deportivo Maipú,1-1,0-1,Quilmes,2024-05-26T18:30Z
+17,Sun May 26 2024,15:30,-03/-0300,Almagro,0-0,0-0,Mitre de SdE,2024-05-26T18:30Z
+17,Sun May 26 2024,16:00,-03/-0300,Patronato de Paraná,0-0,0-0,Arsenal de Sarandí,2024-05-26T19:00Z
+17,Sun May 26 2024,16:00,-03/-0300,Gimnasia de Jujuy,2-1,2-0,Talleres (RdE),2024-05-26T19:00Z
+17,Sun May 26 2024,16:00,-03/-0300,Chaco For Ever,3-0,1-0,Estudiantes de Río Cuarto,2024-05-26T19:00Z
+17,Sun May 26 2024,17:30,-03/-0300,Racing de Córdoba,0-1,0-0,San Martín de Tucumán,2024-05-26T20:30Z
+17,Mon May 27 2024,21:10,-03/-0300,Temperley,1-3,1-0,Gimnasia de Mendoza,2024-05-28T00:10Z
+17,Mon May 27 2024,18:00,-03/-0300,Defensores de Belgrano,0-2,0-1,Aldosivi,2024-05-27T21:00Z
+18,Fri May 31 2024,21:10,-03/-0300,Colón de Santa Fe,1-0,0-0,Atlético Rafaela,2024-06-01T00:10Z
+18,Fri May 31 2024,15:00,-03/-0300,Arsenal de Sarandí,0-2,0-1,Racing de Córdoba,2024-05-31T18:00Z
+18,Sat Jun 1 2024,15:30,-03/-0300,Chacarita Juniors,2-0,2-0,Güemes de SdE,2024-06-01T18:30Z
+18,Sat Jun 1 2024,19:10,-03/-0300,Talleres (RdE),2-3,1-2,Deportivo Maipú,2024-06-01T22:10Z
+18,Sat Jun 1 2024,21:10,-03/-0300,Almirante Brown,0-1,0-0,Deportivo Madryn,2024-06-02T00:10Z
+18,Sat Jun 1 2024,14:05,-03/-0300,Nueva Chicago,1-0,1-0,Temperley,2024-06-01T17:05Z
+18,Sun Jun 2 2024,15:00,-03/-0300,Estudiantes de Caseros,1-0,1-0,Gimnasia de Jujuy,2024-06-02T18:00Z
+18,Sun Jun 2 2024,15:00,-03/-0300,Guillermo Brown,2-1,2-0,Tristan Suárez,2024-06-02T18:00Z
+18,Sun Jun 2 2024,15:30,-03/-0300,Deportivo Morón,0-1,0-1,Atlético San Miguel,2024-06-02T18:30Z
+18,Sun Jun 2 2024,15:30,-03/-0300,Gimnasia de Mendoza,3-1,2-0,Brown de Adrogué,2024-06-02T18:30Z
+18,Sun Jun 2 2024,15:30,-03/-0300,Gimnasia y Tiro de Salta,1-1,0-1,Almagro,2024-06-02T18:30Z
+18,Sun Jun 2 2024,16:00,-03/-0300,San Martín de San Juan,1-0,1-0,Patronato de Paraná,2024-06-02T19:00Z
+18,Sun Jun 2 2024,16:00,-03/-0300,Mitre de SdE,2-0,1-0,Defensores de Belgrano,2024-06-02T19:00Z
+18,Sun Jun 2 2024,16:00,-03/-0300,Aldosivi,1-1,0-1,Chaco For Ever,2024-06-02T19:00Z
+18,Sun Jun 2 2024,17:00,-03/-0300,San Martín de Tucumán,1-0,1-0,Alvarado,2024-06-02T20:00Z
+18,Sun Jun 2 2024,17:00,-03/-0300,Estudiantes de Río Cuarto,0-1,0-0,San Telmo,2024-06-02T20:00Z
+18,Sun Jun 2 2024,18:00,-03/-0300,Quilmes,1-4,0-1,Ferro Carril Oeste,2024-06-02T21:00Z
+18,Mon Jun 3 2024,17:35,-03/-0300,Atlanta,1-1,1-1,Defensores Unidos de Zárate,2024-06-03T20:35Z
+18,Mon Jun 3 2024,21:10,-03/-0300,Agropecuario Argentino,2-1,0-1,All Boys,2024-06-04T00:10Z
+19,Sat Jun 8 2024,15:00,-03/-0300,Defensores de Belgrano,1-0,1-0,Gimnasia y Tiro de Salta,2024-06-08T18:00Z
+19,Sat Jun 8 2024,15:00,-03/-0300,Almagro,2-2,2-0,Gimnasia de Mendoza,2024-06-08T18:00Z
+19,Sat Jun 8 2024,15:10,-03/-0300,Atlético San Miguel,1-0,0-0,Quilmes,2024-06-08T18:10Z
+19,Sat Jun 8 2024,15:20,-03/-0300,All Boys,1-0,1-0,Atlanta,2024-06-08T18:20Z
+19,Sat Jun 8 2024,19:30,-03/-0300,Temperley,3-0,1-0,Deportivo Morón,2024-06-08T22:30Z
+19,Sat Jun 8 2024,21:30,-03/-0300,Brown de Adrogué,0-0,0-0,Nueva Chicago,2024-06-09T00:30Z
+19,Sat Jun 8 2024,15:00,-03/-0300,Tristan Suárez,2-1,0-1,Agropecuario Argentino,2024-06-08T18:00Z
+19,Sun Jun 9 2024,15:00,-03/-0300,Racing de Córdoba,0-0,0-0,San Martín de San Juan,2024-06-09T18:00Z
+19,Sun Jun 9 2024,15:00,-03/-0300,Alvarado,2-1,0-1,Arsenal de Sarandí,2024-06-09T18:00Z
+19,Sun Jun 9 2024,15:00,-03/-0300,Güemes de SdE,0-0,0-0,San Martín de Tucumán,2024-06-09T18:00Z
+19,Sun Jun 9 2024,15:00,-03/-0300,Deportivo Maipú,1-0,1-0,Estudiantes de Caseros,2024-06-09T18:00Z
+19,Sun Jun 9 2024,15:00,-03/-0300,Defensores Unidos de Zárate,0-1,0-0,Almirante Brown,2024-06-09T18:00Z
+19,Sun Jun 9 2024,15:10,-03/-0300,Deportivo Madryn,0-0,0-0,Colón de Santa Fe,2024-06-09T18:10Z
+19,Sun Jun 9 2024,16:00,-03/-0300,Patronato de Paraná,0-0,0-0,Guillermo Brown,2024-06-09T19:00Z
+19,Sun Jun 9 2024,16:00,-03/-0300,Ferro Carril Oeste,0-1,0-0,Talleres (RdE),2024-06-09T19:00Z
+19,Sun Jun 9 2024,16:00,-03/-0300,Chaco For Ever,1-1,0-0,Mitre de SdE,2024-06-09T19:00Z
+19,Mon Jun 10 2024,21:10,-03/-0300,Atlético Rafaela,0-1,0-1,Estudiantes de Río Cuarto,2024-06-11T00:10Z
+19,Wed Jun 12 2024,15:10,-03/-0300,Gimnasia de Jujuy,0-1,0-0,Chacarita Juniors,2024-06-12T18:10Z
+20,Sat Jun 22 2024,15:15,-03/-0300,Temperley,1-0,0-0,Quilmes,2024-06-22T18:15Z
+20,Sat Jun 22 2024,15:00,-03/-0300,Atlético San Miguel,0-0,0-0,Talleres (RdE),2024-06-22T18:00Z
+20,Sat Jun 22 2024,15:00,-03/-0300,Tristan Suárez,1-0,1-0,All Boys,2024-06-22T18:00Z
+20,Sat Jun 22 2024,15:00,-03/-0300,Brown de Adrogué,0-0,0-0,Deportivo Morón,2024-06-22T18:00Z
+20,Sat Jun 22 2024,15:00,-03/-0300,Almagro,1-2,1-1,Nueva Chicago,2024-06-22T18:00Z
+20,Sat Jun 22 2024,15:00,-03/-0300,Defensores de Belgrano,0-1,0-0,Gimnasia de Mendoza,2024-06-22T18:00Z
+20,Sat Jun 22 2024,15:00,-03/-0300,Deportivo Madryn,1-0,0-0,Estudiantes de Río Cuarto,2024-06-22T18:00Z
+20,Sun Jun 23 2024,16:00,-03/-0300,Chaco For Ever,0-1,0-0,Gimnasia y Tiro de Salta,2024-06-23T19:00Z
+20,Sun Jun 23 2024,15:00,-03/-0300,Deportivo Maipú,0-2,0-1,Chacarita Juniors,2024-06-23T18:00Z
+20,Sun Jun 23 2024,15:00,-03/-0300,Alvarado,0-0,0-0,San Martín de San Juan,2024-06-23T18:00Z
+20,Sun Jun 23 2024,15:00,-03/-0300,Racing de Córdoba,1-2,0-1,Guillermo Brown,2024-06-23T18:00Z
+20,Sun Jun 23 2024,15:00,-03/-0300,San Telmo,0-0,0-0,Mitre de SdE,2024-06-23T18:00Z
+20,Sun Jun 23 2024,15:10,-03/-0300,Defensores Unidos de Zárate,2-1,0-0,Colón de Santa Fe,2024-06-23T18:10Z
+20,Sun Jun 23 2024,16:00,-03/-0300,Gimnasia de Jujuy,2-0,1-0,San Martín de Tucumán,2024-06-23T19:00Z
+20,Sun Jun 23 2024,16:00,-03/-0300,Güemes de SdE,0-1,0-1,Arsenal de Sarandí,2024-06-23T19:00Z
+20,Sun Jun 23 2024,16:00,-03/-0300,Patronato de Paraná,4-0,2-0,Agropecuario Argentino,2024-06-23T19:00Z
+20,Sun Jun 23 2024,20:00,-03/-0300,Atlético Rafaela,0-2,0-0,Aldosivi,2024-06-23T23:00Z
+20,Sun Jun 23 2024,17:10,-03/-0300,Ferro Carril Oeste,2-2,2-0,Estudiantes de Caseros,2024-06-23T20:10Z
+20,Mon Jun 24 2024,18:10,-03/-0300,Atlanta,1-0,1-0,Almirante Brown,2024-06-24T21:10Z
+21,Sat Jun 29 2024,15:00,-03/-0300,Temperley,1-0,0-0,Brown de Adrogué,2024-06-29T18:00Z
+21,Sat Jun 29 2024,15:00,-03/-0300,All Boys,1-0,0-0,Patronato de Paraná,2024-06-29T18:00Z
+21,Sat Jun 29 2024,15:00,-03/-0300,Agropecuario Argentino,2-4,2-1,Racing de Córdoba,2024-06-29T18:00Z
+21,Sat Jun 29 2024,15:00,-03/-0300,Estudiantes de Caseros,1-1,0-0,Atlético San Miguel,2024-06-29T18:00Z
+21,Sat Jun 29 2024,15:00,-03/-0300,Gimnasia de Mendoza,1-0,1-0,Chaco For Ever,2024-06-29T18:00Z
+21,Sun Jun 30 2024,15:30,-03/-0300,Gimnasia y Tiro de Salta,0-3,0-3,San Telmo,2024-06-30T18:30Z
+21,Sun Jun 30 2024,14:10,-03/-0300,Chacarita Juniors,1-1,0-1,Ferro Carril Oeste,2024-06-30T17:10Z
+21,Sun Jun 30 2024,14:30,-03/-0300,Arsenal de Sarandí,0-1,0-1,Gimnasia de Jujuy,2024-06-30T17:30Z
+21,Sun Jun 30 2024,15:00,-03/-0300,Tristan Suárez,2-2,1-1,Almirante Brown,2024-06-30T18:00Z
+21,Sun Jun 30 2024,15:00,-03/-0300,Guillermo Brown,0-0,0-0,Alvarado,2024-06-30T18:00Z
+21,Sun Jun 30 2024,15:00,-03/-0300,Aldosivi,1-0,0-0,Deportivo Madryn,2024-06-30T18:00Z
+21,Sun Jun 30 2024,15:00,-03/-0300,Deportivo Morón,0-0,0-0,Almagro,2024-06-30T18:00Z
+21,Sun Jun 30 2024,15:05,-03/-0300,Nueva Chicago,0-0,0-0,Defensores de Belgrano,2024-06-30T18:05Z
+21,Sun Jun 30 2024,18:10,-03/-0300,Colón de Santa Fe,1-1,0-0,Atlanta,2024-06-30T21:10Z
+21,Sun Jun 30 2024,16:00,-03/-0300,San Martín de San Juan,1-0,0-0,Güemes de SdE,2024-06-30T19:00Z
+21,Sun Jun 30 2024,16:00,-03/-0300,Estudiantes de Río Cuarto,2-1,1-0,Defensores Unidos de Zárate,2024-06-30T19:00Z
+21,Sun Jun 30 2024,16:00,-03/-0300,Mitre de SdE,2-0,1-0,Atlético Rafaela,2024-06-30T19:00Z
+21,Sun Jun 30 2024,16:10,-03/-0300,San Martín de Tucumán,2-1,0-1,Deportivo Maipú,2024-06-30T19:10Z
+21,Mon Jul 1 2024,19:35,-03/-0300,Talleres (RdE),1-0,0-0,Quilmes,2024-07-01T22:35Z
+22,Fri Jul 5 2024,21:00,-03/-0300,Atlético Rafaela,0-0,0-0,Gimnasia y Tiro de Salta,2024-07-06T00:00Z
+22,Sat Jul 6 2024,15:00,-03/-0300,Brown de Adrogué,0-0,0-0,Talleres (RdE),2024-07-06T18:00Z
+22,Sat Jul 6 2024,15:00,-03/-0300,Deportivo Madryn,1-0,1-0,Mitre de SdE,2024-07-06T18:00Z
+22,Sat Jul 6 2024,15:00,-03/-0300,Atlanta,1-1,0-1,Estudiantes de Río Cuarto,2024-07-06T18:00Z
+22,Sat Jul 6 2024,15:05,-03/-0300,Almagro,0-0,0-0,Temperley,2024-07-06T18:05Z
+22,Sun Jul 7 2024,15:00,-03/-0300,Racing de Córdoba,1-0,0-0,All Boys,2024-07-07T18:00Z
+22,Sun Jul 7 2024,13:05,-03/-0300,San Telmo,0-0,0-0,Gimnasia de Mendoza,2024-07-07T16:05Z
+22,Sun Jul 7 2024,15:00,-03/-0300,Güemes de SdE,1-1,0-1,Guillermo Brown,2024-07-07T18:00Z
+22,Sun Jul 7 2024,15:00,-03/-0300,Alvarado,0-3,0-2,Agropecuario Argentino,2024-07-07T18:00Z
+22,Sun Jul 7 2024,17:30,-03/-0300,Quilmes,1-0,0-0,Estudiantes de Caseros,2024-07-07T20:30Z
+22,Sun Jul 7 2024,15:00,-03/-0300,Defensores de Belgrano,0-0,0-0,Deportivo Morón,2024-07-07T18:00Z
+22,Sun Jul 7 2024,15:00,-03/-0300,Defensores Unidos de Zárate,1-0,0-0,Aldosivi,2024-07-07T18:00Z
+22,Sun Jul 7 2024,15:05,-03/-0300,Atlético San Miguel,2-1,2-0,Chacarita Juniors,2024-07-07T18:05Z
+22,Sun Jul 7 2024,15:30,-03/-0300,Deportivo Maipú,1-0,1-0,Arsenal de Sarandí,2024-07-07T18:30Z
+22,Sun Jul 7 2024,16:00,-03/-0300,Gimnasia de Jujuy,1-0,1-0,San Martín de San Juan,2024-07-07T19:00Z
+22,Sun Jul 7 2024,16:00,-03/-0300,Patronato de Paraná,3-0,0-0,Tristan Suárez,2024-07-07T19:00Z
+22,Sun Jul 7 2024,16:30,-03/-0300,Chaco For Ever,0-1,0-0,Nueva Chicago,2024-07-07T19:30Z
+22,Sun Jul 7 2024,17:10,-03/-0300,Almirante Brown,0-0,0-0,Colón de Santa Fe,2024-07-07T20:10Z
+22,Sun Jul 7 2024,19:10,-03/-0300,Ferro Carril Oeste,3-1,0-0,San Martín de Tucumán,2024-07-07T22:10Z
+23,Sat Jul 13 2024,15:00,-03/-0300,Gimnasia de Mendoza,2-1,0-0,Atlético Rafaela,2024-07-13T18:00Z
+23,Sat Jul 13 2024,12:05,-03/-0300,Deportivo Morón,1-0,0-0,Chaco For Ever,2024-07-13T15:05Z
+23,Sat Jul 13 2024,14:10,-03/-0300,Chacarita Juniors,0-4,0-1,Quilmes,2024-07-13T17:10Z
+23,Sat Jul 13 2024,15:00,-03/-0300,Estudiantes de Caseros,2-1,1-0,Talleres (RdE),2024-07-13T18:00Z
+23,Sat Jul 13 2024,18:00,-03/-0300,Tristan Suárez,1-0,0-0,Racing de Córdoba,2024-07-13T21:00Z
+23,Sat Jul 13 2024,15:00,-03/-0300,Brown de Adrogué,0-2,0-1,Almagro,2024-07-13T18:00Z
+23,Sat Jul 13 2024,15:30,-03/-0300,All Boys,1-0,0-0,Alvarado,2024-07-13T18:30Z
+23,Sat Jul 13 2024,17:15,-03/-0300,Temperley,0-0,0-0,Defensores de Belgrano,2024-07-13T20:15Z
+23,Sun Jul 14 2024,18:00,-03/-0300,San Martín de San Juan,1-0,1-0,Deportivo Maipú,2024-07-14T21:00Z
+23,Sun Jul 14 2024,14:00,-03/-0300,Arsenal de Sarandí,0-0,0-0,Ferro Carril Oeste,2024-07-14T17:00Z
+23,Sun Jul 14 2024,14:00,-03/-0300,Nueva Chicago,0-3,0-1,San Telmo,2024-07-14T17:00Z
+23,Sun Jul 14 2024,15:00,-03/-0300,Guillermo Brown,0-0,0-0,Gimnasia de Jujuy,2024-07-14T18:00Z
+23,Sun Jul 14 2024,15:00,-03/-0300,Aldosivi,2-1,1-0,Atlanta,2024-07-14T18:00Z
+23,Sun Jul 14 2024,15:30,-03/-0300,Gimnasia y Tiro de Salta,0-0,0-0,Deportivo Madryn,2024-07-14T18:30Z
+23,Sun Jul 14 2024,16:00,-03/-0300,Patronato de Paraná,1-0,1-0,Colón de Santa Fe,2024-07-14T19:00Z
+23,Sun Jul 14 2024,16:00,-03/-0300,Agropecuario Argentino,3-1,1-1,Güemes de SdE,2024-07-14T19:00Z
+23,Sun Jul 14 2024,16:00,-03/-0300,San Martín de Tucumán,1-0,1-0,Atlético San Miguel,2024-07-14T19:00Z
+23,Sun Jul 14 2024,16:00,-03/-0300,Estudiantes de Río Cuarto,0-1,0-0,Almirante Brown,2024-07-14T19:00Z
+23,Sun Jul 14 2024,16:00,-03/-0300,Mitre de SdE,1-0,1-0,Defensores Unidos de Zárate,2024-07-14T19:00Z
+24,Fri Jul 19 2024,18:10,-03/-0300,Atlético Rafaela,1-5,0-3,Nueva Chicago,2024-07-19T21:10Z
+24,Fri Jul 19 2024,20:10,-03/-0300,Chaco For Ever,0-1,0-1,Temperley,2024-07-19T23:10Z
+24,Sat Jul 20 2024,21:05,-03/-0300,Ferro Carril Oeste,0-0,0-0,San Martín de San Juan,2024-07-21T00:05Z
+24,Sat Jul 20 2024,15:00,-03/-0300,Almagro,1-0,0-0,Estudiantes de Caseros,2024-07-20T18:00Z
+24,Sat Jul 20 2024,15:00,-03/-0300,Atlético San Miguel,3-0,1-0,Arsenal de Sarandí,2024-07-20T18:00Z
+24,Sat Jul 20 2024,15:00,-03/-0300,Güemes de SdE,2-1,0-0,All Boys,2024-07-20T18:00Z
+24,Sat Jul 20 2024,15:00,-03/-0300,Defensores de Belgrano,3-0,1-0,Brown de Adrogué,2024-07-20T18:00Z
+24,Sat Jul 20 2024,15:00,-03/-0300,Almirante Brown,1-0,1-0,Aldosivi,2024-07-20T18:00Z
+24,Sat Jul 20 2024,15:30,-03/-0300,Alvarado,1-2,1-0,Tristan Suárez,2024-07-20T18:30Z
+24,Sat Jul 20 2024,20:10,-03/-0300,Colón de Santa Fe,3-0,2-0,Estudiantes de Río Cuarto,2024-07-20T23:10Z
+24,Sun Jul 21 2024,17:00,-03/-0300,Racing de Córdoba,1-0,1-0,Patronato de Paraná,2024-07-21T20:00Z
+24,Sun Jul 21 2024,12:10,-03/-0300,San Telmo,1-1,0-0,Deportivo Morón,2024-07-21T15:10Z
+24,Sun Jul 21 2024,15:00,-03/-0300,Defensores Unidos de Zárate,0-1,0-1,Gimnasia y Tiro de Salta,2024-07-21T18:00Z
+24,Sun Jul 21 2024,15:30,-03/-0300,Deportivo Maipú,1-0,0-0,Guillermo Brown,2024-07-21T18:30Z
+24,Sun Jul 21 2024,15:30,-03/-0300,Deportivo Madryn,0-2,0-0,Gimnasia de Mendoza,2024-07-21T18:30Z
+24,Sun Jul 21 2024,16:00,-03/-0300,Gimnasia de Jujuy,1-1,0-0,Agropecuario Argentino,2024-07-21T19:00Z
+24,Sun Jul 21 2024,17:30,-03/-0300,Talleres (RdE),2-1,1-0,Chacarita Juniors,2024-07-21T20:30Z
+24,Mon Jul 22 2024,17:10,-03/-0300,Atlanta,0-0,0-0,Mitre de SdE,2024-07-22T20:10Z
+24,Mon Jul 22 2024,20:10,-03/-0300,Quilmes,1-2,1-1,San Martín de Tucumán,2024-07-22T23:10Z
+25,Fri Jul 26 2024,15:00,-03/-0300,Almagro,1-0,1-0,Defensores de Belgrano,2024-07-26T18:00Z
+25,Fri Jul 26 2024,20:45,-03/-0300,Temperley,0-0,0-0,San Telmo,2024-07-26T23:45Z
+25,Sat Jul 27 2024,16:00,-03/-0300,Mitre de SdE,2-1,0-0,Almirante Brown,2024-07-27T19:00Z
+25,Sat Jul 27 2024,15:00,-03/-0300,Tristan Suárez,1-1,1-0,Güemes de SdE,2024-07-27T18:00Z
+25,Sat Jul 27 2024,15:00,-03/-0300,Arsenal de Sarandí,0-0,0-0,Quilmes,2024-07-27T18:00Z
+25,Sat Jul 27 2024,15:00,-03/-0300,Chacarita Juniors,1-1,1-0,Estudiantes de Caseros,2024-07-27T18:00Z
+25,Sat Jul 27 2024,15:00,-03/-0300,Aldosivi,1-0,1-0,Colón de Santa Fe,2024-07-27T18:00Z
+25,Sat Jul 27 2024,15:00,-03/-0300,Nueva Chicago,1-1,1-0,Deportivo Madryn,2024-07-27T18:00Z
+25,Sat Jul 27 2024,15:00,-03/-0300,Brown de Adrogué,0-0,0-0,Chaco For Ever,2024-07-27T18:00Z
+25,Sat Jul 27 2024,19:10,-03/-0300,Deportivo Morón,1-1,0-1,Atlético Rafaela,2024-07-27T22:10Z
+25,Sun Jul 28 2024,19:10,-03/-0300,San Martín de Tucumán,1-0,1-0,Talleres (RdE),2024-07-28T22:10Z
+25,Sun Jul 28 2024,15:00,-03/-0300,All Boys,0-1,0-1,Gimnasia de Jujuy,2024-07-28T18:00Z
+25,Sun Jul 28 2024,15:00,-03/-0300,Guillermo Brown,3-1,1-0,Ferro Carril Oeste,2024-07-28T18:00Z
+25,Sun Jul 28 2024,15:00,-03/-0300,Gimnasia de Mendoza,2-0,1-0,Defensores Unidos de Zárate,2024-07-28T18:00Z
+25,Sun Jul 28 2024,15:30,-03/-0300,Gimnasia y Tiro de Salta,1-0,0-0,Atlanta,2024-07-28T18:30Z
+25,Sun Jul 28 2024,16:00,-03/-0300,Patronato de Paraná,1-3,1-1,Alvarado,2024-07-28T19:00Z
+25,Sun Jul 28 2024,16:00,-03/-0300,Agropecuario Argentino,0-0,0-0,Deportivo Maipú,2024-07-28T19:00Z
+25,Sun Jul 28 2024,16:00,-03/-0300,San Martín de San Juan,2-0,0-0,Atlético San Miguel,2024-07-28T19:00Z
+25,Sun Jul 28 2024,16:30,-03/-0300,Racing de Córdoba,0-1,0-1,Estudiantes de Río Cuarto,2024-07-28T19:30Z
+19,Wed Jul 31 2024,15:00,-03/-0300,San Telmo,1-2,0-2,Aldosivi,2024-07-31T18:00Z
+26,Sat Aug 3 2024,15:00,-03/-0300,Atlético San Miguel,1-0,0-0,Guillermo Brown,2024-08-03T18:00Z
+26,Sat Aug 3 2024,15:00,-03/-0300,Güemes de SdE,2-1,0-1,Patronato de Paraná,2024-08-03T18:00Z
+26,Sat Aug 3 2024,15:30,-03/-0300,Deportivo Madryn,0-0,0-0,Deportivo Morón,2024-08-03T18:30Z
+26,Sat Aug 3 2024,15:30,-03/-0300,Defensores Unidos de Zárate,1-2,0-1,Nueva Chicago,2024-08-03T18:30Z
+26,Sat Aug 3 2024,17:00,-03/-0300,Chaco For Ever,1-1,1-0,Almagro,2024-08-03T20:00Z
+26,Sat Aug 3 2024,19:10,-03/-0300,Almirante Brown,0-0,0-0,Gimnasia y Tiro de Salta,2024-08-03T22:10Z
+26,Sat Aug 3 2024,21:10,-03/-0300,Talleres (RdE),0-0,0-0,Arsenal de Sarandí,2024-08-04T00:10Z
+26,Sat Aug 3 2024,15:00,-03/-0300,Estudiantes de Caseros,1-3,0-1,San Martín de Tucumán,2024-08-03T18:00Z
+26,Sun Aug 4 2024,15:00,-03/-0300,San Telmo,3-0,1-0,Brown de Adrogué,2024-08-04T18:00Z
+26,Sun Aug 4 2024,15:30,-03/-0300,Deportivo Maipú,1-2,0-1,All Boys,2024-08-04T18:30Z
+26,Sun Aug 4 2024,16:00,-03/-0300,Gimnasia de Jujuy,1-0,0-0,Tristan Suárez,2024-08-04T19:00Z
+26,Sun Aug 4 2024,16:00,-03/-0300,Alvarado,3-0,1-0,Racing de Córdoba,2024-08-04T19:00Z
+26,Sun Aug 4 2024,19:10,-03/-0300,Defensores de Belgrano,2-2,0-1,Chacarita Juniors,2024-08-04T22:10Z
+26,Mon Aug 5 2024,19:00,-03/-0300,Ferro Carril Oeste,3-0,2-0,Agropecuario Argentino,2024-08-05T22:00Z
+26,Mon Aug 5 2024,19:00,-03/-0300,Atlanta,1-2,0-2,Gimnasia de Mendoza,2024-08-05T22:00Z
+26,Mon Aug 5 2024,19:10,-03/-0300,Estudiantes de Río Cuarto,2-2,1-1,Aldosivi,2024-08-05T22:10Z
+26,Mon Aug 5 2024,21:00,-03/-0300,Atlético Rafaela,1-0,0-0,Temperley,2024-08-06T00:00Z
+26,Mon Aug 5 2024,21:05,-03/-0300,Quilmes,0-1,0-1,San Martín de San Juan,2024-08-06T00:05Z
+26,Mon Aug 5 2024,21:10,-03/-0300,Colón de Santa Fe,1-2,0-2,Mitre de SdE,2024-08-06T00:10Z
+27,Sat Aug 10 2024,15:00,-03/-0300,Deportivo Morón,1-1,1-0,Defensores Unidos de Zárate,2024-08-10T18:00Z
+27,Sat Aug 10 2024,16:00,-03/-0300,San Martín de San Juan,3-1,0-0,Talleres (RdE),2024-08-10T19:00Z
+27,Sat Aug 10 2024,19:00,-03/-0300,Tristan Suárez,1-2,0-0,Deportivo Maipú,2024-08-10T22:00Z
+27,Sat Aug 10 2024,15:00,-03/-0300,Arsenal de Sarandí,1-1,1-0,Estudiantes de Caseros,2024-08-10T18:00Z
+27,Sun Aug 11 2024,15:00,-03/-0300,Alvarado,1-0,1-0,Aldosivi,2024-08-11T18:00Z
+27,Sun Aug 11 2024,15:00,-03/-0300,Guillermo Brown,1-2,0-1,Quilmes,2024-08-11T18:00Z
+27,Sun Aug 11 2024,15:00,-03/-0300,Gimnasia de Mendoza,1-0,0-0,Almirante Brown,2024-08-11T18:00Z
+27,Sun Aug 11 2024,15:00,-03/-0300,Nueva Chicago,0-1,0-0,Atlanta,2024-08-11T18:00Z
+27,Sun Aug 11 2024,15:00,-03/-0300,Brown de Adrogué,1-0,0-0,Atlético Rafaela,2024-08-11T18:00Z
+27,Sun Aug 11 2024,15:00,-03/-0300,Almagro,1-1,1-1,San Telmo,2024-08-11T18:00Z
+27,Sun Aug 11 2024,15:00,-03/-0300,Defensores de Belgrano,0-0,0-0,Chaco For Ever,2024-08-11T18:00Z
+27,Sun Aug 11 2024,16:00,-03/-0300,Patronato de Paraná,1-0,0-0,Gimnasia de Jujuy,2024-08-11T19:00Z
+27,Sun Aug 11 2024,16:00,-03/-0300,Agropecuario Argentino,2-1,0-1,Atlético San Miguel,2024-08-11T19:00Z
+27,Sun Aug 11 2024,16:00,-03/-0300,Mitre de SdE,0-0,0-0,Estudiantes de Río Cuarto,2024-08-11T19:00Z
+27,Sun Aug 11 2024,17:00,-03/-0300,Racing de Córdoba,2-0,0-0,Güemes de SdE,2024-08-11T20:00Z
+27,Sun Aug 11 2024,17:00,-03/-0300,San Martín de Tucumán,1-0,0-0,Chacarita Juniors,2024-08-11T20:00Z
+27,Sun Aug 11 2024,20:00,-03/-0300,All Boys,3-0,1-0,Ferro Carril Oeste,2024-08-11T23:00Z
+27,Mon Aug 12 2024,21:10,-03/-0300,Temperley,0-1,0-0,Deportivo Madryn,2024-08-13T00:10Z
+27,Mon Aug 12 2024,15:30,-03/-0300,Gimnasia y Tiro de Salta,1-0,1-0,Colón de Santa Fe,2024-08-12T18:30Z
+28,Sat Aug 17 2024,13:00,-03/-0300,Estudiantes de Caseros,0-0,0-0,San Martín de San Juan,2024-08-17T16:00Z
+28,Sat Aug 17 2024,15:00,-03/-0300,Atlético San Miguel,2-1,1-1,All Boys,2024-08-17T18:00Z
+28,Sat Aug 17 2024,15:00,-03/-0300,Ferro Carril Oeste,2-2,2-2,Tristan Suárez,2024-08-17T18:00Z
+28,Sat Aug 17 2024,15:00,-03/-0300,Güemes de SdE,2-1,2-1,Alvarado,2024-08-17T18:00Z
+28,Sat Aug 17 2024,21:10,-03/-0300,Chaco For Ever,0-1,0-1,San Martín de Tucumán,2024-08-18T00:10Z
+28,Sat Aug 17 2024,12:00,-03/-0300,Deportivo Madryn,2-1,2-1,Brown de Adrogué,2024-08-17T15:00Z
+28,Sun Aug 18 2024,15:00,-03/-0300,Chacarita Juniors,0-0,0-0,Arsenal de Sarandí,2024-08-18T18:00Z
+28,Sun Aug 18 2024,15:00,-03/-0300,San Telmo,1-2,0-0,Defensores de Belgrano,2024-08-18T18:00Z
+28,Sun Aug 18 2024,15:00,-03/-0300,Defensores Unidos de Zárate,3-1,0-0,Temperley,2024-08-18T18:00Z
+28,Sun Aug 18 2024,15:00,-03/-0300,Aldosivi,0-0,0-0,Mitre de SdE,2024-08-18T18:00Z
+28,Sun Aug 18 2024,15:30,-03/-0300,Deportivo Maipú,3-1,1-1,Patronato de Paraná,2024-08-18T18:30Z
+28,Sun Aug 18 2024,16:00,-03/-0300,Gimnasia de Jujuy,0-1,0-0,Racing de Córdoba,2024-08-18T19:00Z
+28,Sun Aug 18 2024,17:00,-03/-0300,Estudiantes de Río Cuarto,0-1,0-1,Gimnasia y Tiro de Salta,2024-08-18T20:00Z
+28,Sun Aug 18 2024,18:30,-03/-0300,Almirante Brown,0-1,0-0,Nueva Chicago,2024-08-18T21:30Z
+28,Sun Aug 18 2024,19:00,-03/-0300,Atlético Rafaela,2-3,1-2,Almagro,2024-08-18T22:00Z
+28,Sun Aug 18 2024,20:30,-03/-0300,Colón de Santa Fe,1-0,0-0,Gimnasia de Mendoza,2024-08-18T23:30Z
+28,Mon Aug 19 2024,21:05,-03/-0300,Quilmes,1-0,1-0,Agropecuario Argentino,2024-08-20T00:05Z
+28,Mon Aug 19 2024,21:10,-03/-0300,Atlanta,1-0,0-0,Deportivo Morón,2024-08-20T00:10Z
+28,Mon Aug 19 2024,17:05,-03/-0300,Talleres (RdE),1-1,0-0,Guillermo Brown,2024-08-19T20:05Z
+29,Sat Aug 24 2024,15:00,-03/-0300,Brown de Adrogué,2-1,0-1,Defensores Unidos de Zárate,2024-08-24T18:00Z
+29,Sat Aug 24 2024,16:05,-03/-0300,Güemes de SdE,0-0,0-0,Mitre de SdE,2024-08-24T19:05Z
+29,Sat Aug 24 2024,18:00,-03/-0300,Tristan Suárez,1-1,0-0,Atlético San Miguel,2024-08-24T21:00Z
+29,Sat Aug 24 2024,20:05,-03/-0300,Defensores de Belgrano,0-0,0-0,Atlético Rafaela,2024-08-24T23:05Z
+29,Sat Aug 24 2024,13:05,-03/-0300,Arsenal de Sarandí,1-1,0-0,San Martín de Tucumán,2024-08-24T16:05Z
+29,Sun Aug 25 2024,13:40,-03/-0300,Deportivo Morón,0-1,0-0,Almirante Brown,2024-08-25T16:40Z
+29,Sun Aug 25 2024,14:10,-03/-0300,Temperley,1-1,0-0,Atlanta,2024-08-25T17:10Z
+29,Sun Aug 25 2024,15:00,-03/-0300,Alvarado,1-0,0-0,Gimnasia de Jujuy,2024-08-25T18:00Z
+29,Sun Aug 25 2024,15:00,-03/-0300,Guillermo Brown,3-1,1-1,Estudiantes de Caseros,2024-08-25T18:00Z
+29,Sun Aug 25 2024,15:00,-03/-0300,Almagro,0-1,0-0,Deportivo Madryn,2024-08-25T18:00Z
+29,Sun Aug 25 2024,15:30,-03/-0300,Gimnasia y Tiro de Salta,1-0,0-0,Aldosivi,2024-08-25T18:30Z
+29,Sun Aug 25 2024,15:30,-03/-0300,Gimnasia de Mendoza,0-0,0-0,Estudiantes de Río Cuarto,2024-08-25T18:30Z
+29,Sun Aug 25 2024,16:00,-03/-0300,Patronato de Paraná,1-3,1-1,Ferro Carril Oeste,2024-08-25T19:00Z
+29,Sun Aug 25 2024,16:00,-03/-0300,Agropecuario Argentino,2-0,1-0,Talleres (RdE),2024-08-25T19:00Z
+29,Sun Aug 25 2024,16:00,-03/-0300,San Martín de San Juan,4-0,3-0,Chacarita Juniors,2024-08-25T19:00Z
+29,Sun Aug 25 2024,16:00,-03/-0300,Chaco For Ever,1-0,0-0,San Telmo,2024-08-25T19:00Z
+29,Sun Aug 25 2024,17:00,-03/-0300,Racing de Córdoba,3-2,1-1,Deportivo Maipú,2024-08-25T20:00Z
+29,Mon Aug 26 2024,19:00,-03/-0300,All Boys,0-0,0-0,Quilmes,2024-08-26T22:00Z
+29,Mon Aug 26 2024,16:10,-03/-0300,Nueva Chicago,1-0,1-0,Colón de Santa Fe,2024-08-26T19:10Z
+30,Fri Aug 30 2024,21:10,-03/-0300,Atlético Rafaela,0-1,0-0,Chaco For Ever,2024-08-31T00:10Z
+30,Sat Aug 31 2024,21:00,-03/-0300,Gimnasia de Jujuy,1-0,0-0,Güemes de SdE,2024-09-01T00:00Z
+30,Sat Aug 31 2024,17:30,-03/-0300,San Martín de Tucumán,1-0,0-0,San Martín de San Juan,2024-08-31T20:30Z
+30,Sun Sep 1 2024,14:10,-03/-0300,Aldosivi,0-0,0-0,Gimnasia de Mendoza,2024-09-01T17:10Z
+30,Sun Sep 1 2024,15:00,-03/-0300,Chacarita Juniors,1-0,1-0,Guillermo Brown,2024-09-01T18:00Z
+30,Sun Sep 1 2024,15:00,-03/-0300,Deportivo Madryn,0-0,0-0,Defensores de Belgrano,2024-09-01T18:00Z
+30,Sun Sep 1 2024,15:00,-03/-0300,Almirante Brown,0-0,0-0,Temperley,2024-09-01T18:00Z
+30,Sun Sep 1 2024,15:30,-03/-0300,Ferro Carril Oeste,2-0,2-0,Racing de Córdoba,2024-09-01T18:30Z
+30,Sun Sep 1 2024,16:00,-03/-0300,Deportivo Maipú,1-1,1-1,Alvarado,2024-09-01T19:00Z
+30,Sun Sep 1 2024,16:00,-03/-0300,Mitre de SdE,2-1,1-0,Gimnasia y Tiro de Salta,2024-09-01T19:00Z
+30,Sun Sep 1 2024,18:00,-03/-0300,Estudiantes de Río Cuarto,1-0,0-0,Nueva Chicago,2024-09-01T21:00Z
+30,Sun Sep 1 2024,20:05,-03/-0300,Quilmes,0-1,0-1,Tristan Suárez,2024-09-01T23:05Z
+30,Sun Sep 1 2024,21:00,-03/-0300,Colón de Santa Fe,1-0,0-0,Deportivo Morón,2024-09-02T00:00Z
+30,Mon Sep 2 2024,15:00,-03/-0300,Atlético San Miguel,2-4,1-1,Patronato de Paraná,2024-09-02T18:00Z
+30,Mon Sep 2 2024,15:00,-03/-0300,Defensores Unidos de Zárate,1-1,1-0,Almagro,2024-09-02T18:00Z
+30,Mon Sep 2 2024,15:30,-03/-0300,Talleres (RdE),2-2,2-0,All Boys,2024-09-02T18:30Z
+30,Mon Sep 2 2024,20:00,-03/-0300,Estudiantes de Caseros,1-0,1-0,Agropecuario Argentino,2024-09-02T23:00Z
+30,Mon Sep 2 2024,21:10,-03/-0300,Atlanta,1-0,0-0,Brown de Adrogué,2024-09-03T00:10Z
+30,Mon Sep 2 2024,15:00,-03/-0300,San Telmo,4-0,2-0,Arsenal de Sarandí,2024-09-02T18:00Z
+31,Sat Sep 7 2024,14:00,-03/-0300,Nueva Chicago,2-1,1-0,Aldosivi,2024-09-07T17:00Z
+31,Sat Sep 7 2024,15:00,-03/-0300,Güemes de SdE,4-0,1-0,Deportivo Maipú,2024-09-07T18:00Z
+31,Sat Sep 7 2024,15:00,-03/-0300,Agropecuario Argentino,2-0,2-0,Chacarita Juniors,2024-09-07T18:00Z
+31,Sat Sep 7 2024,15:00,-03/-0300,Almagro,0-0,0-0,Atlanta,2024-09-07T18:00Z
+31,Sat Sep 7 2024,16:00,-03/-0300,San Martín de San Juan,0-0,0-0,Arsenal de Sarandí,2024-09-07T19:00Z
+31,Sat Sep 7 2024,16:00,-03/-0300,Temperley,1-0,0-0,Colón de Santa Fe,2024-09-07T19:00Z
+31,Sat Sep 7 2024,17:00,-03/-0300,Chaco For Ever,0-1,0-1,Deportivo Madryn,2024-09-07T20:00Z
+31,Sat Sep 7 2024,19:00,-03/-0300,Tristan Suárez,2-2,1-1,Talleres (RdE),2024-09-07T22:00Z
+31,Sun Sep 8 2024,13:00,-03/-0300,San Telmo,3-2,1-0,Atlético Rafaela,2024-09-08T16:00Z
+31,Sun Sep 8 2024,14:00,-03/-0300,Brown de Adrogué,2-2,1-1,Almirante Brown,2024-09-08T17:00Z
+31,Sun Sep 8 2024,15:00,-03/-0300,Guillermo Brown,0-1,0-0,San Martín de Tucumán,2024-09-08T18:00Z
+31,Sun Sep 8 2024,15:00,-03/-0300,Defensores de Belgrano,2-0,0-0,Defensores Unidos de Zárate,2024-09-08T18:00Z
+31,Sun Sep 8 2024,15:30,-03/-0300,Alvarado,0-2,0-1,Ferro Carril Oeste,2024-09-08T18:30Z
+31,Sun Sep 8 2024,16:00,-03/-0300,Gimnasia de Jujuy,2-0,2-0,Gimnasia y Tiro de Salta,2024-09-08T19:00Z
+31,Sun Sep 8 2024,16:00,-03/-0300,Gimnasia de Mendoza,1-1,0-1,Mitre de SdE,2024-09-08T19:00Z
+31,Sun Sep 8 2024,17:00,-03/-0300,Racing de Córdoba,1-0,0-0,Atlético San Miguel,2024-09-08T20:00Z
+31,Sun Sep 8 2024,17:10,-03/-0300,All Boys,0-0,0-0,Estudiantes de Caseros,2024-09-08T20:10Z
+31,Sun Sep 8 2024,19:10,-03/-0300,Deportivo Morón,2-1,2-1,Estudiantes de Río Cuarto,2024-09-08T22:10Z
+31,Sun Sep 8 2024,21:10,-03/-0300,Patronato de Paraná,1-1,1-0,Quilmes,2024-09-09T00:10Z
+32,Fri Sep 13 2024,20:05,-03/-0300,Almirante Brown,,,Almagro,2024-09-13T23:05Z
+32,Fri Sep 13 2024,21:00,-03/-0300,Estudiantes de Río Cuarto,,,Temperley,2024-09-14T00:00Z
+32,Fri Sep 13 2024,15:30,-03/-0300,Gimnasia y Tiro de Salta,,,Gimnasia de Mendoza,2024-09-13T18:30Z
+32,Sat Sep 14 2024,15:00,-03/-0300,Atlético San Miguel,,,Alvarado,2024-09-14T18:00Z
+32,Sat Sep 14 2024,15:30,-03/-0300,Aldosivi,,,Deportivo Morón,2024-09-14T18:30Z
+32,Sat Sep 14 2024,19:00,-03/-0300,Estudiantes de Caseros,,,Tristan Suárez,2024-09-14T22:00Z
+32,Sat Sep 14 2024,21:00,-03/-0300,Atlético Rafaela,,,San Martín de San Juan,2024-09-15T00:00Z
+32,Sat Sep 14 2024,15:00,-03/-0300,Talleres (RdE),,,Patronato de Paraná,2024-09-14T18:00Z
+32,Sun Sep 15 2024,14:00,-03/-0300,Arsenal de Sarandí,,,Guillermo Brown,2024-09-15T17:00Z
+32,Sun Sep 15 2024,15:00,-03/-0300,Ferro Carril Oeste,,,Güemes de SdE,2024-09-15T18:00Z
+32,Sun Sep 15 2024,15:00,-03/-0300,Defensores Unidos de Zárate,,,Chaco For Ever,2024-09-15T18:00Z
+32,Sun Sep 15 2024,15:00,-03/-0300,Atlanta,,,Defensores de Belgrano,2024-09-15T18:00Z
+32,Sun Sep 15 2024,15:30,-03/-0300,Chacarita Juniors,,,All Boys,2024-09-15T18:30Z
+32,Sun Sep 15 2024,15:30,-03/-0300,Deportivo Madryn,,,San Telmo,2024-09-15T18:30Z
+32,Sun Sep 15 2024,16:00,-03/-0300,Deportivo Maipú,,,Gimnasia de Jujuy,2024-09-15T19:00Z
+32,Sun Sep 15 2024,16:00,-03/-0300,Mitre de SdE,,,Nueva Chicago,2024-09-15T19:00Z
+32,Sun Sep 15 2024,17:45,-03/-0300,Colón de Santa Fe,,,Brown de Adrogué,2024-09-15T20:45Z
+32,Sun Sep 15 2024,20:00,-03/-0300,Quilmes,,,Racing de Córdoba,2024-09-15T23:00Z
+32,Mon Sep 16 2024,21:30,-03/-0300,San Martín de Tucumán,,,Agropecuario Argentino,2024-09-17T00:30Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Deportivo Maipú,,,Gimnasia de Mendoza,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Gimnasia de Jujuy,,,Ferro Carril Oeste,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Güemes de SdE,,,Atlético San Miguel,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Alvarado,,,Quilmes,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Racing de Córdoba,,,Talleres (RdE),2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Patronato de Paraná,,,Estudiantes de Caseros,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Tristan Suárez,,,Chacarita Juniors,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,All Boys,,,San Martín de Tucumán,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Agropecuario Argentino,,,Arsenal de Sarandí,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Guillermo Brown,,,San Martín de San Juan,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Nueva Chicago,,,Gimnasia y Tiro de Salta,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Deportivo Morón,,,Mitre de SdE,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Temperley,,,Aldosivi,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Brown de Adrogué,,,Estudiantes de Río Cuarto,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Almagro,,,Colón de Santa Fe,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Defensores de Belgrano,,,Almirante Brown,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Chaco For Ever,,,Atlanta,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,San Telmo,,,Defensores Unidos de Zárate,2024-09-21T20:00Z
+33,Sat Sep 21 2024,17:00,-03/-0300,Atlético Rafaela,,,Deportivo Madryn,2024-09-21T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Deportivo Madryn,,,Guillermo Brown,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,San Martín de San Juan,,,Agropecuario Argentino,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Arsenal de Sarandí,,,All Boys,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,San Martín de Tucumán,,,Tristan Suárez,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Chacarita Juniors,,,Patronato de Paraná,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Estudiantes de Caseros,,,Racing de Córdoba,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Talleres (RdE),,,Alvarado,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Quilmes,,,Güemes de SdE,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Atlético San Miguel,,,Gimnasia de Jujuy,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Ferro Carril Oeste,,,Deportivo Maipú,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Defensores Unidos de Zárate,,,Atlético Rafaela,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Atlanta,,,San Telmo,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Almirante Brown,,,Chaco For Ever,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Colón de Santa Fe,,,Defensores de Belgrano,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Estudiantes de Río Cuarto,,,Almagro,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Aldosivi,,,Brown de Adrogué,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Mitre de SdE,,,Temperley,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Gimnasia y Tiro de Salta,,,Deportivo Morón,2024-09-28T20:00Z
+34,Sat Sep 28 2024,17:00,-03/-0300,Gimnasia de Mendoza,,,Nueva Chicago,2024-09-28T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Ferro Carril Oeste,,,Nueva Chicago,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Deportivo Maipú,,,Atlético San Miguel,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Gimnasia de Jujuy,,,Quilmes,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Güemes de SdE,,,Talleres (RdE),2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Alvarado,,,Estudiantes de Caseros,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Racing de Córdoba,,,Chacarita Juniors,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Patronato de Paraná,,,San Martín de Tucumán,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Tristan Suárez,,,Arsenal de Sarandí,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,All Boys,,,San Martín de San Juan,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Agropecuario Argentino,,,Guillermo Brown,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Deportivo Morón,,,Gimnasia de Mendoza,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Temperley,,,Gimnasia y Tiro de Salta,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Brown de Adrogué,,,Mitre de SdE,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Almagro,,,Aldosivi,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Defensores de Belgrano,,,Estudiantes de Río Cuarto,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Chaco For Ever,,,Colón de Santa Fe,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,San Telmo,,,Almirante Brown,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Atlético Rafaela,,,Atlanta,2024-10-05T20:00Z
+35,Sat Oct 5 2024,17:00,-03/-0300,Deportivo Madryn,,,Defensores Unidos de Zárate,2024-10-05T20:00Z
+36,Sat Oct 12 2024,,,Defensores Unidos de Zárate,,,Agropecuario Argentino,
+36,Sat Oct 12 2024,,,Guillermo Brown,,,All Boys,
+36,Sat Oct 12 2024,,,San Martín de San Juan,,,Tristan Suárez,
+36,Sat Oct 12 2024,,,Arsenal de Sarandí,,,Patronato de Paraná,
+36,Sat Oct 12 2024,,,San Martín de Tucumán,,,Racing de Córdoba,
+36,Sat Oct 12 2024,,,Chacarita Juniors,,,Alvarado,
+36,Sat Oct 12 2024,,,Estudiantes de Caseros,,,Güemes de SdE,
+36,Sat Oct 12 2024,,,Talleres (RdE),,,Gimnasia de Jujuy,
+36,Sat Oct 12 2024,,,Quilmes,,,Deportivo Maipú,
+36,Sat Oct 12 2024,,,Atlético San Miguel,,,Ferro Carril Oeste,
+36,Sat Oct 12 2024,,,Atlanta,,,Deportivo Madryn,
+36,Sat Oct 12 2024,,,Almirante Brown,,,Atlético Rafaela,
+36,Sat Oct 12 2024,,,Colón de Santa Fe,,,San Telmo,
+36,Sat Oct 12 2024,,,Estudiantes de Río Cuarto,,,Chaco For Ever,
+36,Sat Oct 12 2024,,,Aldosivi,,,Defensores de Belgrano,
+36,Sat Oct 12 2024,,,Mitre de SdE,,,Almagro,
+36,Sat Oct 12 2024,,,Gimnasia y Tiro de Salta,,,Brown de Adrogué,
+36,Sat Oct 12 2024,,,Gimnasia de Mendoza,,,Temperley,
+36,Sat Oct 12 2024,,,Nueva Chicago,,,Deportivo Morón,
+37,Sat Oct 19 2024,,,Atlético San Miguel,,,Deportivo Morón,
+37,Sat Oct 19 2024,,,Ferro Carril Oeste,,,Quilmes,
+37,Sat Oct 19 2024,,,Deportivo Maipú,,,Talleres (RdE),
+37,Sat Oct 19 2024,,,Gimnasia de Jujuy,,,Estudiantes de Caseros,
+37,Sat Oct 19 2024,,,Güemes de SdE,,,Chacarita Juniors,
+37,Sat Oct 19 2024,,,Alvarado,,,San Martín de Tucumán,
+37,Sat Oct 19 2024,,,Racing de Córdoba,,,Arsenal de Sarandí,
+37,Sat Oct 19 2024,,,Patronato de Paraná,,,San Martín de San Juan,
+37,Sat Oct 19 2024,,,Tristan Suárez,,,Guillermo Brown,
+37,Sat Oct 19 2024,,,All Boys,,,Agropecuario Argentino,
+37,Sat Oct 19 2024,,,Temperley,,,Nueva Chicago,
+37,Sat Oct 19 2024,,,Brown de Adrogué,,,Gimnasia de Mendoza,
+37,Sat Oct 19 2024,,,Almagro,,,Gimnasia y Tiro de Salta,
+37,Sat Oct 19 2024,,,Defensores de Belgrano,,,Mitre de SdE,
+37,Sat Oct 19 2024,,,Chaco For Ever,,,Aldosivi,
+37,Sat Oct 19 2024,,,San Telmo,,,Estudiantes de Río Cuarto,
+37,Sat Oct 19 2024,,,Atlético Rafaela,,,Colón de Santa Fe,
+37,Sat Oct 19 2024,,,Deportivo Madryn,,,Almirante Brown,
+37,Sat Oct 19 2024,,,Defensores Unidos de Zárate,,,Atlanta,
+38,Sat Oct 26 2024,,,Atlanta,,,All Boys,
+38,Sat Oct 26 2024,,,Agropecuario Argentino,,,Tristan Suárez,
+38,Sat Oct 26 2024,,,Guillermo Brown,,,Patronato de Paraná,
+38,Sat Oct 26 2024,,,San Martín de San Juan,,,Racing de Córdoba,
+38,Sat Oct 26 2024,,,Arsenal de Sarandí,,,Alvarado,
+38,Sat Oct 26 2024,,,San Martín de Tucumán,,,Güemes de SdE,
+38,Sat Oct 26 2024,,,Chacarita Juniors,,,Gimnasia de Jujuy,
+38,Sat Oct 26 2024,,,Estudiantes de Caseros,,,Deportivo Maipú,
+38,Sat Oct 26 2024,,,Talleres (RdE),,,Ferro Carril Oeste,
+38,Sat Oct 26 2024,,,Quilmes,,,Atlético San Miguel,
+38,Sat Oct 26 2024,,,Almirante Brown,,,Defensores Unidos de Zárate,
+38,Sat Oct 26 2024,,,Colón de Santa Fe,,,Deportivo Madryn,
+38,Sat Oct 26 2024,,,Estudiantes de Río Cuarto,,,Atlético Rafaela,
+38,Sat Oct 26 2024,,,Aldosivi,,,San Telmo,
+38,Sat Oct 26 2024,,,Mitre de SdE,,,Chaco For Ever,
+38,Sat Oct 26 2024,,,Gimnasia y Tiro de Salta,,,Defensores de Belgrano,
+38,Sat Oct 26 2024,,,Gimnasia de Mendoza,,,Almagro,
+38,Sat Oct 26 2024,,,Nueva Chicago,,,Brown de Adrogué,
+38,Sat Oct 26 2024,,,Deportivo Morón,,,Temperley,

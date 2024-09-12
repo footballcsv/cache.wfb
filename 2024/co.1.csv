@@ -1,0 +1,407 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,P,Comments,UTC
+Apertura,1,Fri Jan 19 2024,20:15,-05/-0500,Deportivo Pereira,2-2,0-0,Deportivo Cali,,,2024-01-20T01:15Z
+Apertura,1,Fri Jan 19 2024,18:00,-05/-0500,Patriotas FC,0-1,0-1,Jaguares de Córdoba,,,2024-01-19T23:00Z
+Apertura,1,Sat Jan 20 2024,18:10,-05/-0500,Deportes Tolima,1-2,0-1,Fortaleza FC,,,2024-01-20T23:10Z
+Apertura,1,Sat Jan 20 2024,20:20,-05/-0500,América de Cali,0-1,0-0,Águilas Doradas,,,2024-01-21T01:20Z
+Apertura,1,Sat Jan 20 2024,16:00,-05/-0500,Once Caldas,2-1,1-1,Boyacá Chicó,,,2024-01-20T21:00Z
+Apertura,1,Sun Jan 21 2024,16:00,-05/-0500,Millonarios,5-0,3-0,Independiente Medellín,,,2024-01-21T21:00Z
+Apertura,1,Sun Jan 21 2024,18:10,-05/-0500,Atlético Junior,2-0,0-0,Atlético Bucaramanga,,,2024-01-21T23:10Z
+Apertura,1,Sun Jan 21 2024,20:20,-05/-0500,Atlético Nacional,3-1,0-1,Alianza FC,,,2024-01-22T01:20Z
+Apertura,1,Mon Jan 22 2024,20:20,-05/-0500,Deportivo Pasto,0-1,0-0,Santa Fe,,,2024-01-23T01:20Z
+Apertura,1,Mon Jan 22 2024,18:10,-05/-0500,La Equidad,0-0,0-0,Envigado FC,,,2024-01-22T23:10Z
+Apertura,2,Thu Jan 25 2024,18:10,-05/-0500,Fortaleza FC,2-0,1-0,Patriotas FC,,,2024-01-25T23:10Z
+Apertura,2,Thu Jan 25 2024,20:20,-05/-0500,Águilas Doradas,1-0,1-0,Once Caldas,,,2024-01-26T01:20Z
+Apertura,2,Fri Jan 26 2024,20:20,-05/-0500,Alianza FC,3-3,2-2,Deportivo Cali,,,2024-01-27T01:20Z
+Apertura,2,Fri Jan 26 2024,18:10,-05/-0500,Deportivo Pasto,1-4,1-1,Deportes Tolima,,,2024-01-26T23:10Z
+Apertura,2,Sat Jan 27 2024,18:10,-05/-0500,Jaguares de Córdoba,0-0,0-0,La Equidad,,,2024-01-27T23:10Z
+Apertura,2,Sat Jan 27 2024,20:20,-05/-0500,Independiente Medellín,1-0,0-0,Deportivo Pereira,,,2024-01-28T01:20Z
+Apertura,2,Sat Jan 27 2024,16:00,-05/-0500,Santa Fe,3-1,2-1,Envigado FC,,,2024-01-27T21:00Z
+Apertura,2,Sun Jan 28 2024,16:00,-05/-0500,Boyacá Chicó,2-2,2-1,Atlético Junior,,,2024-01-28T21:00Z
+Apertura,2,Sun Jan 28 2024,18:10,-05/-0500,América de Cali,4-1,2-0,Atlético Nacional,,,2024-01-28T23:10Z
+Apertura,2,Sun Jan 28 2024,20:20,-05/-0500,Atlético Bucaramanga,0-0,0-0,Millonarios,,,2024-01-29T01:20Z
+Apertura,3,Tue Jan 30 2024,18:15,-05/-0500,Deportivo Cali,2-0,1-0,Fortaleza FC,,,2024-01-30T23:15Z
+Apertura,3,Tue Jan 30 2024,20:30,-05/-0500,La Equidad,1-0,1-0,Santa Fe,,,2024-01-31T01:30Z
+Apertura,3,Tue Jan 30 2024,16:00,-05/-0500,Patriotas FC,0-0,0-0,Águilas Doradas,,,2024-01-30T21:00Z
+Apertura,3,Wed Jan 31 2024,16:00,-05/-0500,Deportivo Pereira,0-1,0-0,Deportivo Pasto,,,2024-01-31T21:00Z
+Apertura,3,Wed Jan 31 2024,18:10,-05/-0500,Millonarios,1-1,0-1,Alianza FC,,,2024-01-31T23:10Z
+Apertura,3,Wed Jan 31 2024,20:20,-05/-0500,Deportes Tolima,2-1,1-0,América de Cali,,,2024-02-01T01:20Z
+Apertura,3,Thu Feb 1 2024,18:10,-05/-0500,Atlético Nacional,1-1,1-1,Once Caldas,,,2024-02-01T23:10Z
+Apertura,3,Thu Feb 1 2024,20:20,-05/-0500,Atlético Junior,3-0,1-0,Independiente Medellín,,,2024-02-02T01:20Z
+Apertura,3,Thu Feb 1 2024,16:00,-05/-0500,Envigado FC,2-0,0-0,Boyacá Chicó,,,2024-02-01T21:00Z
+Apertura,3,Fri Feb 2 2024,18:10,-05/-0500,Jaguares de Córdoba,0-1,0-1,Atlético Bucaramanga,,,2024-02-02T23:10Z
+Apertura,4,Sat Feb 3 2024,18:00,-05/-0500,Deportes Tolima,2-0,2-0,Millonarios,,,2024-02-03T23:00Z
+Apertura,4,Sat Feb 3 2024,20:10,-05/-0500,América de Cali,1-0,0-0,Patriotas FC,,,2024-02-04T01:10Z
+Apertura,4,Sun Feb 4 2024,18:10,-05/-0500,Águilas Doradas,0-3,0-2,Atlético Nacional,,,2024-02-04T23:10Z
+Apertura,4,Sun Feb 4 2024,20:20,-05/-0500,Alianza FC,0-1,0-0,Atlético Junior,,,2024-02-05T01:20Z
+Apertura,4,Sun Feb 4 2024,16:00,-05/-0500,Fortaleza FC,1-1,1-1,Envigado FC,,,2024-02-04T21:00Z
+Apertura,4,Mon Feb 5 2024,16:00,-05/-0500,Boyacá Chicó,1-2,0-1,Deportivo Pereira,,,2024-02-05T21:00Z
+Apertura,4,Mon Feb 5 2024,18:10,-05/-0500,Deportivo Pasto,1-1,0-0,Jaguares de Córdoba,,,2024-02-05T23:10Z
+Apertura,4,Mon Feb 5 2024,20:20,-05/-0500,Independiente Medellín,1-0,1-0,Deportivo Cali,,,2024-02-06T01:20Z
+Apertura,4,Tue Feb 6 2024,20:20,-05/-0500,Santa Fe,0-1,0-0,Atlético Bucaramanga,,,2024-02-07T01:20Z
+Apertura,4,Tue Feb 6 2024,18:10,-05/-0500,Once Caldas,0-0,0-0,La Equidad,,,2024-02-06T23:10Z
+Apertura,5,Wed Feb 7 2024,20:00,-05/-0500,Millonarios,1-0,0-0,América de Cali,,,2024-02-08T01:00Z
+Apertura,5,Wed Feb 7 2024,16:00,-05/-0500,Envigado FC,1-2,0-0,Alianza FC,,,2024-02-07T21:00Z
+Apertura,5,Thu Feb 8 2024,16:00,-05/-0500,Deportivo Pereira,2-0,1-0,Fortaleza FC,,,2024-02-08T21:00Z
+Apertura,5,Thu Feb 8 2024,18:10,-05/-0500,Atlético Junior,2-0,1-0,Deportivo Pasto,,,2024-02-08T23:10Z
+Apertura,5,Thu Feb 8 2024,20:20,-05/-0500,Patriotas FC,0-0,0-0,Atlético Nacional,,,2024-02-09T01:20Z
+Apertura,5,Fri Feb 9 2024,20:20,-05/-0500,Deportivo Cali,4-0,3-0,Boyacá Chicó,,,2024-02-10T01:20Z
+Apertura,5,Fri Feb 9 2024,18:10,-05/-0500,Jaguares de Córdoba,1-0,0-0,Águilas Doradas,,,2024-02-09T23:10Z
+Apertura,5,Sat Feb 10 2024,16:00,-05/-0500,La Equidad,1-1,1-1,Deportes Tolima,,,2024-02-10T21:00Z
+Apertura,5,Sat Feb 10 2024,18:10,-05/-0500,Atlético Bucaramanga,1-1,0-0,Once Caldas,,,2024-02-10T23:10Z
+Apertura,5,Sat Feb 10 2024,20:20,-05/-0500,Independiente Medellín,1-1,0-0,Santa Fe,,,2024-02-11T01:20Z
+Apertura,6,Sun Feb 11 2024,18:10,-05/-0500,Atlético Nacional,0-1,0-1,Millonarios,,,2024-02-11T23:10Z
+Apertura,6,Sun Feb 11 2024,20:20,-05/-0500,Alianza FC,1-2,0-1,Deportivo Pereira,,,2024-02-12T01:20Z
+Apertura,6,Sun Feb 11 2024,16:00,-05/-0500,Fortaleza FC,2-0,1-0,Atlético Junior,,,2024-02-11T21:00Z
+Apertura,6,Mon Feb 12 2024,20:10,-05/-0500,Deportivo Pasto,0-1,0-1,Envigado FC,,,2024-02-13T01:10Z
+Apertura,6,Tue Feb 13 2024,18:10,-05/-0500,Águilas Doradas,1-1,0-1,La Equidad,,,2024-02-13T23:10Z
+Apertura,6,Tue Feb 13 2024,20:20,-05/-0500,Santa Fe,1-0,0-0,Deportivo Cali,,,2024-02-14T01:20Z
+Apertura,6,Wed Feb 14 2024,20:20,-05/-0500,Boyacá Chicó,3-0,1-0,Independiente Medellín,,,2024-02-15T01:20Z
+Apertura,6,Wed Feb 14 2024,18:10,-05/-0500,Once Caldas,1-0,1-0,Patriotas FC,,,2024-02-14T23:10Z
+Apertura,6,Thu Feb 15 2024,20:20,-05/-0500,América de Cali,0-0,0-0,Atlético Bucaramanga,,,2024-02-16T01:20Z
+Apertura,6,Thu Feb 15 2024,18:10,-05/-0500,Deportes Tolima,2-0,0-0,Jaguares de Córdoba,,,2024-02-15T23:10Z
+Apertura,7,Fri Feb 16 2024,18:10,-05/-0500,Millonarios,0-1,0-0,Águilas Doradas,,,2024-02-16T23:10Z
+Apertura,7,Fri Feb 16 2024,20:20,-05/-0500,Deportivo Cali,3-2,2-1,Atlético Nacional,,,2024-02-17T01:20Z
+Apertura,7,Sat Feb 17 2024,20:15,-05/-0500,Deportivo Pereira,1-0,0-0,Santa Fe,,,2024-02-18T01:15Z
+Apertura,7,Sat Feb 17 2024,18:05,-05/-0500,Independiente Medellín,2-2,0-2,Fortaleza FC,,,2024-02-17T23:05Z
+Apertura,7,Sun Feb 18 2024,14:00,-05/-0500,La Equidad,1-0,0-0,Patriotas FC,,,2024-02-18T19:00Z
+Apertura,7,Sun Feb 18 2024,16:00,-05/-0500,Envigado FC,1-1,0-1,América de Cali,,,2024-02-18T21:00Z
+Apertura,7,Sun Feb 18 2024,18:10,-05/-0500,Jaguares de Córdoba,3-0,1-0,Once Caldas,,,2024-02-18T23:10Z
+Apertura,7,Sun Feb 18 2024,20:20,-05/-0500,Atlético Junior,0-1,0-1,Deportes Tolima,,,2024-02-19T01:20Z
+Apertura,7,Mon Feb 19 2024,20:20,-05/-0500,Atlético Bucaramanga,1-0,0-0,Deportivo Pasto,,,2024-02-20T01:20Z
+Apertura,7,Mon Feb 19 2024,16:00,-05/-0500,Boyacá Chicó,1-0,0-0,Alianza FC,,,2024-02-19T21:00Z
+Apertura,8,Wed Feb 21 2024,19:45,-05/-0500,Santa Fe,3-0,2-0,Atlético Junior,,,2024-02-22T00:45Z
+Apertura,8,Thu Feb 22 2024,16:00,-05/-0500,Deportes Tolima,0-0,0-0,Atlético Bucaramanga,,,2024-02-22T21:00Z
+Apertura,8,Thu Feb 22 2024,18:10,-05/-0500,América de Cali,0-1,0-1,La Equidad,,,2024-02-22T23:10Z
+Apertura,8,Thu Feb 22 2024,20:20,-05/-0500,Once Caldas,1-2,0-2,Deportivo Pereira,,,2024-02-23T01:20Z
+Apertura,8,Fri Feb 23 2024,18:10,-05/-0500,Águilas Doradas,2-0,1-0,Envigado FC,,,2024-02-23T23:10Z
+Apertura,8,Fri Feb 23 2024,20:20,-05/-0500,Deportivo Pasto,0-1,0-1,Deportivo Cali,,,2024-02-24T01:20Z
+Apertura,8,Fri Feb 23 2024,16:00,-05/-0500,Fortaleza FC,1-1,1-1,Boyacá Chicó,,,2024-02-23T21:00Z
+Apertura,8,Sat Feb 24 2024,18:10,-05/-0500,Alianza FC,2-0,2-0,Independiente Medellín,,,2024-02-24T23:10Z
+Apertura,8,Sat Feb 24 2024,20:20,-05/-0500,Patriotas FC,1-0,0-0,Millonarios,,,2024-02-25T01:20Z
+Apertura,9,Sun Feb 25 2024,16:30,-05/-0500,Jaguares de Córdoba,1-1,0-0,América de Cali,,,2024-02-25T21:30Z
+Apertura,9,Sun Feb 25 2024,18:30,-05/-0500,La Equidad,2-0,1-0,Atlético Nacional,,,2024-02-25T23:30Z
+Apertura,9,Sun Feb 25 2024,20:30,-05/-0500,Deportivo Pereira,3-3,0-2,Atlético Junior,,,2024-02-26T01:30Z
+Apertura,9,Mon Feb 26 2024,20:20,-05/-0500,Deportivo Cali,1-2,0-0,Deportes Tolima,,,2024-02-27T01:20Z
+Apertura,9,Mon Feb 26 2024,18:10,-05/-0500,Boyacá Chicó,1-2,0-1,Santa Fe,,,2024-02-26T23:10Z
+Apertura,9,Tue Feb 27 2024,20:15,-05/-0500,Millonarios,0-2,0-1,Once Caldas,,,2024-02-28T01:15Z
+Apertura,9,Tue Feb 27 2024,16:00,-05/-0500,Envigado FC,1-0,1-0,Patriotas FC,,,2024-02-27T21:00Z
+Apertura,9,Wed Feb 28 2024,15:15,-05/-0500,Fortaleza FC,1-2,1-2,Alianza FC,,,2024-02-28T20:15Z
+Apertura,9,Thu Feb 29 2024,19:45,-05/-0500,Independiente Medellín,1-0,0-0,Deportivo Pasto,,,2024-03-01T00:45Z
+Apertura,10,Fri Mar 1 2024,20:20,-05/-0500,Deportivo Cali,0-1,0-0,Once Caldas,,,2024-03-02T01:20Z
+Apertura,10,Fri Mar 1 2024,16:00,-05/-0500,Envigado FC,2-2,2-1,Jaguares de Córdoba,,,2024-03-01T21:00Z
+Apertura,10,Fri Mar 1 2024,18:10,-05/-0500,Boyacá Chicó,1-1,0-0,Deportes Tolima,,,2024-03-01T23:10Z
+Apertura,10,Sat Mar 2 2024,20:20,-05/-0500,Atlético Junior,0-0,0-0,Atlético Nacional,,,2024-03-03T01:20Z
+Apertura,10,Sat Mar 2 2024,18:10,-05/-0500,Deportivo Pereira,2-0,1-0,América de Cali,,,2024-03-02T23:10Z
+Apertura,10,Sat Mar 2 2024,16:00,-05/-0500,Millonarios,1-2,1-1,La Equidad,,,2024-03-02T21:00Z
+Apertura,10,Sun Mar 3 2024,20:20,-05/-0500,Alianza FC,0-1,0-1,Santa Fe,,,2024-03-04T01:20Z
+Apertura,10,Sun Mar 3 2024,18:10,-05/-0500,Independiente Medellín,1-0,1-0,Águilas Doradas,,,2024-03-03T23:10Z
+Apertura,10,Sun Mar 3 2024,16:00,-05/-0500,Atlético Bucaramanga,3-0,2-0,Patriotas FC,,,2024-03-03T21:00Z
+Apertura,10,Mon Mar 4 2024,20:10,-05/-0500,Deportivo Pasto,1-0,1-0,Fortaleza FC,,,2024-03-05T01:10Z
+Apertura,11,Fri Mar 8 2024,18:10,-05/-0500,Águilas Doradas,0-2,0-1,Atlético Junior,,,2024-03-08T23:10Z
+Apertura,11,Fri Mar 8 2024,20:20,-05/-0500,La Equidad,2-0,2-0,Deportivo Cali,,,2024-03-09T01:20Z
+Apertura,11,Sat Mar 9 2024,16:10,-05/-0500,Santa Fe,2-0,1-0,Fortaleza FC,,,2024-03-09T21:10Z
+Apertura,11,Sat Mar 9 2024,18:20,-05/-0500,América de Cali,2-0,0-0,Alianza FC,,,2024-03-09T23:20Z
+Apertura,11,Sat Mar 9 2024,14:00,-05/-0500,Deportivo Pasto,2-1,1-1,Boyacá Chicó,,,2024-03-09T19:00Z
+Apertura,11,Sat Mar 9 2024,20:30,-05/-0500,Deportes Tolima,2-2,1-1,Independiente Medellín,,,2024-03-10T01:30Z
+Apertura,11,Sun Mar 10 2024,18:20,-05/-0500,Jaguares de Córdoba,2-1,1-0,Millonarios,,,2024-03-10T23:20Z
+Apertura,11,Sun Mar 10 2024,20:30,-05/-0500,Patriotas FC,3-0 (*),,Deportivo Pereira,,awd.,2024-03-11T01:30Z
+Apertura,11,Sun Mar 10 2024,14:00,-05/-0500,Once Caldas,2-1,1-1,Envigado FC,,,2024-03-10T19:00Z
+Apertura,11,Sun Mar 10 2024,16:10,-05/-0500,Atlético Nacional,0-0,0-0,Atlético Bucaramanga,,,2024-03-10T21:10Z
+Apertura,12,Fri Mar 15 2024,18:00,-05/-0500,Alianza FC,1-1,1-1,Deportivo Pasto,,,2024-03-15T23:00Z
+Apertura,12,Fri Mar 15 2024,20:10,-05/-0500,Atlético Junior,3-1,1-0,Jaguares de Córdoba,,,2024-03-16T01:10Z
+Apertura,12,Sat Mar 16 2024,20:30,-05/-0500,Independiente Medellín,1-2,1-0,Once Caldas,,,2024-03-17T01:30Z
+Apertura,12,Sat Mar 16 2024,16:10,-05/-0500,Atlético Bucaramanga,4-0,2-0,La Equidad,,,2024-03-16T21:10Z
+Apertura,12,Sat Mar 16 2024,14:00,-05/-0500,Santa Fe,1-1,0-1,Deportes Tolima,,,2024-03-16T19:00Z
+Apertura,12,Sat Mar 16 2024,18:20,-05/-0500,Boyacá Chicó,2-1,0-1,Atlético Nacional,,,2024-03-16T23:20Z
+Apertura,12,Sun Mar 17 2024,18:20,-05/-0500,Fortaleza FC,0-0,0-0,América de Cali,,,2024-03-17T23:20Z
+Apertura,12,Sun Mar 17 2024,14:00,-05/-0500,Envigado FC,1-1,1-1,Millonarios,,,2024-03-17T19:00Z
+Apertura,12,Sun Mar 17 2024,16:10,-05/-0500,Deportivo Cali,0-1,0-1,Patriotas FC,,,2024-03-17T21:10Z
+Apertura,12,Sun Mar 17 2024,20:30,-05/-0500,Deportivo Pereira,2-1,1-1,Águilas Doradas,,,2024-03-18T01:30Z
+Apertura,13,Fri Mar 22 2024,20:20,-05/-0500,La Equidad,1-2,1-2,Independiente Medellín,,,2024-03-23T01:20Z
+Apertura,13,Fri Mar 22 2024,18:10,-05/-0500,Patriotas FC,1-0,1-0,Atlético Junior,,,2024-03-22T23:10Z
+Apertura,13,Sat Mar 23 2024,18:20,-05/-0500,Jaguares de Córdoba,0-1,0-1,Fortaleza FC,,,2024-03-23T23:20Z
+Apertura,13,Sat Mar 23 2024,14:00,-05/-0500,Millonarios,1-1,0-0,Deportivo Cali,,,2024-03-23T19:00Z
+Apertura,13,Sat Mar 23 2024,16:10,-05/-0500,Deportes Tolima,2-1,1-0,Deportivo Pereira,,,2024-03-23T21:10Z
+Apertura,13,Sat Mar 23 2024,20:30,-05/-0500,América de Cali,3-2,1-1,Boyacá Chicó,,,2024-03-24T01:30Z
+Apertura,13,Sun Mar 24 2024,18:10,-05/-0500,Atlético Nacional,1-0,1-0,Deportivo Pasto,,,2024-03-24T23:10Z
+Apertura,13,Sun Mar 24 2024,16:00,-05/-0500,Atlético Bucaramanga,3-1,2-1,Envigado FC,,,2024-03-24T21:00Z
+Apertura,13,Sun Mar 24 2024,20:20,-05/-0500,Águilas Doradas,1-1,0-0,Santa Fe,,,2024-03-25T01:20Z
+Apertura,13,Mon Mar 25 2024,16:00,-05/-0500,Once Caldas,1-0,1-0,Alianza FC,,,2024-03-25T21:00Z
+Apertura,9,Wed Mar 27 2024,16:00,-05/-0500,Atlético Bucaramanga,1-0,1-0,Águilas Doradas,,,2024-03-27T21:00Z
+Apertura,8,Wed Mar 27 2024,18:10,-05/-0500,Atlético Nacional,2-0,0-0,Jaguares de Córdoba,,,2024-03-27T23:10Z
+Apertura,15,Wed Mar 27 2024,20:20,-05/-0500,Millonarios,3-1,2-1,Santa Fe,,,2024-03-28T01:20Z
+Apertura,14,Fri Mar 29 2024,19:30,-05/-0500,Atlético Junior,1-0,1-0,La Equidad,,,2024-03-30T00:30Z
+Apertura,14,Fri Mar 29 2024,17:00,-05/-0500,Alianza FC,0-2,0-1,Deportes Tolima,,,2024-03-29T22:00Z
+Apertura,14,Sat Mar 30 2024,18:20,-05/-0500,Boyacá Chicó,1-0,1-0,Jaguares de Córdoba,,,2024-03-30T23:20Z
+Apertura,14,Sat Mar 30 2024,20:30,-05/-0500,Fortaleza FC,1-2,0-2,Millonarios,,,2024-03-31T01:30Z
+Apertura,14,Sat Mar 30 2024,14:00,-05/-0500,Envigado FC,0-1,0-1,Atlético Nacional,,,2024-03-30T19:00Z
+Apertura,14,Sat Mar 30 2024,16:10,-05/-0500,Deportivo Pasto,0-0,0-0,Once Caldas,,,2024-03-30T21:10Z
+Apertura,14,Sun Mar 31 2024,18:20,-05/-0500,Independiente Medellín,1-4,1-3,América de Cali,,,2024-03-31T23:20Z
+Apertura,14,Sun Mar 31 2024,20:30,-05/-0500,Deportivo Cali,2-4,1-3,Águilas Doradas,,,2024-04-01T01:30Z
+Apertura,14,Sun Mar 31 2024,14:00,-05/-0500,Santa Fe,3-0,2-0,Patriotas FC,,,2024-03-31T19:00Z
+Apertura,14,Sun Mar 31 2024,16:10,-05/-0500,Deportivo Pereira,1-2,1-0,Atlético Bucaramanga,,,2024-03-31T21:10Z
+Apertura,15,Fri Apr 5 2024,18:10,-05/-0500,Atlético Nacional,1-2,1-2,Fortaleza FC,,,2024-04-05T23:10Z
+Apertura,15,Fri Apr 5 2024,20:20,-05/-0500,Once Caldas,2-1,1-0,Deportes Tolima,,,2024-04-06T01:20Z
+Apertura,15,Fri Apr 5 2024,16:00,-05/-0500,Envigado FC,1-1,0-0,Deportivo Pereira,,,2024-04-05T21:00Z
+Apertura,15,Sat Apr 6 2024,16:00,-05/-0500,Águilas Doradas,0-1,0-0,Deportivo Pasto,,,2024-04-06T21:00Z
+Apertura,15,Sat Apr 6 2024,18:10,-05/-0500,Atlético Bucaramanga,2-1,1-0,Deportivo Cali,,,2024-04-06T23:10Z
+Apertura,15,Sat Apr 6 2024,20:20,-05/-0500,América de Cali,4-1,2-0,Atlético Junior,,,2024-04-07T01:20Z
+Apertura,15,Sun Apr 7 2024,18:10,-05/-0500,Jaguares de Córdoba,2-2,1-0,Independiente Medellín,,,2024-04-07T23:10Z
+Apertura,15,Sun Apr 7 2024,20:20,-05/-0500,La Equidad,4-0,3-0,Boyacá Chicó,,,2024-04-08T01:20Z
+Apertura,15,Sun Apr 7 2024,16:00,-05/-0500,Patriotas FC,0-0,0-0,Alianza FC,,,2024-04-07T21:00Z
+Apertura,16,Fri Apr 12 2024,18:05,-05/-0500,Deportes Tolima,2-1,2-1,Águilas Doradas,,,2024-04-12T23:05Z
+Apertura,16,Fri Apr 12 2024,20:15,-05/-0500,Deportivo Cali,1-1,0-1,América de Cali,,,2024-04-13T01:15Z
+Apertura,16,Sat Apr 13 2024,16:10,-05/-0500,Santa Fe,0-0,0-0,Atlético Nacional,,,2024-04-13T21:10Z
+Apertura,16,Sat Apr 13 2024,18:20,-05/-0500,Atlético Junior,1-1,0-0,Envigado FC,,,2024-04-13T23:20Z
+Apertura,16,Sat Apr 13 2024,20:30,-05/-0500,Deportivo Pereira,0-0,0-0,Jaguares de Córdoba,,,2024-04-14T01:30Z
+Apertura,16,Sat Apr 13 2024,14:00,-05/-0500,Fortaleza FC,2-0,0-0,Once Caldas,,,2024-04-13T19:00Z
+Apertura,16,Sun Apr 14 2024,14:00,-05/-0500,Boyacá Chicó,1-2,1-1,Patriotas FC,,,2024-04-14T19:00Z
+Apertura,16,Sun Apr 14 2024,16:10,-05/-0500,Independiente Medellín,1-0,0-0,Atlético Bucaramanga,,,2024-04-14T21:10Z
+Apertura,16,Sun Apr 14 2024,18:20,-05/-0500,Deportivo Pasto,2-3,0-1,Millonarios,,,2024-04-14T23:20Z
+Apertura,16,Sun Apr 14 2024,20:30,-05/-0500,Alianza FC,0-3,0-0,La Equidad,,,2024-04-15T01:30Z
+Apertura,17,Tue Apr 16 2024,18:10,-05/-0500,Jaguares de Córdoba,1-1,0-1,Deportivo Cali,,,2024-04-16T23:10Z
+Apertura,17,Tue Apr 16 2024,20:20,-05/-0500,Once Caldas,0-1,0-1,Santa Fe,,,2024-04-17T01:20Z
+Apertura,17,Tue Apr 16 2024,16:00,-05/-0500,Envigado FC,0-2,0-2,Deportes Tolima,,,2024-04-16T21:00Z
+Apertura,17,Wed Apr 17 2024,16:00,-05/-0500,Águilas Doradas,4-0,0-0,Alianza FC,,,2024-04-17T21:00Z
+Apertura,17,Wed Apr 17 2024,18:10,-05/-0500,Millonarios,3-2,1-0,Atlético Junior,,,2024-04-17T23:10Z
+Apertura,17,Wed Apr 17 2024,20:20,-05/-0500,Atlético Nacional,0-1,0-1,Deportivo Pereira,,,2024-04-18T01:20Z
+Apertura,17,Thu Apr 18 2024,18:10,-05/-0500,Patriotas FC,2-3,2-0,Independiente Medellín,,,2024-04-18T23:10Z
+Apertura,17,Thu Apr 18 2024,20:20,-05/-0500,América de Cali,0-0,0-0,Deportivo Pasto,,,2024-04-19T01:20Z
+Apertura,17,Thu Apr 18 2024,16:00,-05/-0500,La Equidad,0-0,0-0,Fortaleza FC,,,2024-04-18T21:00Z
+Apertura,17,Fri Apr 19 2024,20:10,-05/-0500,Atlético Bucaramanga,2-3,1-1,Boyacá Chicó,,,2024-04-20T01:10Z
+Apertura,18,Sat Apr 20 2024,18:10,-05/-0500,Atlético Junior,1-0,1-0,Once Caldas,,,2024-04-20T23:10Z
+Apertura,18,Sat Apr 20 2024,20:30,-05/-0500,Alianza FC,2-1,0-1,Jaguares de Córdoba,,,2024-04-21T01:30Z
+Apertura,18,Sat Apr 20 2024,16:00,-05/-0500,Deportivo Pereira,1-2,0-1,Millonarios,,,2024-04-20T21:00Z
+Apertura,18,Sun Apr 21 2024,14:00,-05/-0500,Santa Fe,1-0,0-0,América de Cali,,,2024-04-21T19:00Z
+Apertura,18,Sun Apr 21 2024,16:10,-05/-0500,Deportivo Cali,2-0,1-0,Envigado FC,,,2024-04-21T21:10Z
+Apertura,18,Sun Apr 21 2024,18:20,-05/-0500,Independiente Medellín,2-2,1-2,Atlético Nacional,,,2024-04-21T23:20Z
+Apertura,18,Sun Apr 21 2024,20:30,-05/-0500,Deportes Tolima,2-1,0-0,Patriotas FC,,,2024-04-22T01:30Z
+Apertura,18,Mon Apr 22 2024,18:10,-05/-0500,Boyacá Chicó,1-2,1-1,Águilas Doradas,,,2024-04-22T23:10Z
+Apertura,18,Mon Apr 22 2024,20:20,-05/-0500,Deportivo Pasto,2-3,2-0,La Equidad,,,2024-04-23T01:20Z
+Apertura,18,Mon Apr 22 2024,16:00,-05/-0500,Fortaleza FC,0-2,0-1,Atlético Bucaramanga,,,2024-04-22T21:00Z
+Apertura,19,Sat Apr 27 2024,19:00,-05/-0500,Atlético Nacional,3-1,1-0,Deportes Tolima,,,2024-04-28T00:00Z
+Apertura,19,Sun Apr 28 2024,15:00,-05/-0500,Patriotas FC,0-3,0-2,Deportivo Pasto,,,2024-04-28T20:00Z
+Apertura,19,Sun Apr 28 2024,17:00,-05/-0500,Deportivo Cali,0-0,0-0,Atlético Junior,,,2024-04-28T22:00Z
+Apertura,19,Sun Apr 28 2024,17:00,-05/-0500,Once Caldas,0-0,0-0,América de Cali,,,2024-04-28T22:00Z
+Apertura,19,Sun Apr 28 2024,17:00,-05/-0500,Atlético Bucaramanga,1-0,1-0,Alianza FC,,,2024-04-28T22:00Z
+Apertura,19,Sun Apr 28 2024,17:00,-05/-0500,Jaguares de Córdoba,1-0,1-0,Santa Fe,,,2024-04-28T22:00Z
+Apertura,19,Sun Apr 28 2024,17:00,-05/-0500,Águilas Doradas,1-1,1-0,Fortaleza FC,,,2024-04-28T22:00Z
+Apertura,19,Sun Apr 28 2024,17:00,-05/-0500,Millonarios,3-0,1-0,Boyacá Chicó,,,2024-04-28T22:00Z
+Apertura,19,Sun Apr 28 2024,17:00,-05/-0500,La Equidad,0-2,0-1,Deportivo Pereira,,,2024-04-28T22:00Z
+Apertura,19,Sun Apr 28 2024,17:00,-05/-0500,Envigado FC,0-1,0-1,Independiente Medellín,,,2024-04-28T22:00Z
+Apertura Playoffs,Gruppe A,Sat May 4 2024,19:15,-05/-0500,Atlético Junior,2-1,1-0,Millonarios,,,2024-05-05T00:15Z
+Apertura Playoffs,Gruppe A,Sat May 4 2024,17:00,-05/-0500,Deportivo Pereira,1-0,1-0,Atlético Bucaramanga,,,2024-05-04T22:00Z
+Apertura Playoffs,Gruppe B,Sun May 5 2024,19:30,-05/-0500,Once Caldas,2-0,1-0,La Equidad,,,2024-05-06T00:30Z
+Apertura Playoffs,Gruppe B,Sun May 5 2024,17:15,-05/-0500,Santa Fe,1-0,0-0,Deportes Tolima,,,2024-05-05T22:15Z
+Apertura Playoffs,Gruppe A,Sat May 11 2024,17:15,-05/-0500,Atlético Bucaramanga,0-0,0-0,Atlético Junior,,,2024-05-11T22:15Z
+Apertura Playoffs,Gruppe A,Sat May 11 2024,19:30,-05/-0500,Millonarios,1-0,1-0,Deportivo Pereira,,,2024-05-12T00:30Z
+Apertura Playoffs,Gruppe B,Sun May 12 2024,17:15,-05/-0500,La Equidad,0-2,0-0,Santa Fe,,,2024-05-12T22:15Z
+Apertura Playoffs,Gruppe B,Sun May 12 2024,19:30,-05/-0500,Deportes Tolima,1-1,1-0,Once Caldas,,,2024-05-13T00:30Z
+Apertura Playoffs,Gruppe B,Sat May 18 2024,17:15,-05/-0500,La Equidad,2-3,2-0,Deportes Tolima,,,2024-05-18T22:15Z
+Apertura Playoffs,Gruppe B,Sat May 18 2024,19:30,-05/-0500,Once Caldas,0-0,0-0,Santa Fe,,,2024-05-19T00:30Z
+Apertura Playoffs,Gruppe A,Sun May 19 2024,20:00,-05/-0500,Millonarios,0-1,0-0,Atlético Bucaramanga,,,2024-05-20T01:00Z
+Apertura Playoffs,Gruppe A,Sun May 19 2024,17:30,-05/-0500,Atlético Junior,2-3,1-3,Deportivo Pereira,,,2024-05-19T22:30Z
+Apertura Playoffs,Gruppe A,Wed May 22 2024,18:15,-05/-0500,Atlético Bucaramanga,0-0,0-0,Millonarios,,,2024-05-22T23:15Z
+Apertura Playoffs,Gruppe A,Wed May 22 2024,20:30,-05/-0500,Deportivo Pereira,0-0,0-0,Atlético Junior,,,2024-05-23T01:30Z
+Apertura Playoffs,Gruppe B,Thu May 23 2024,20:30,-05/-0500,Santa Fe,1-0,0-0,Once Caldas,,,2024-05-24T01:30Z
+Apertura Playoffs,Gruppe B,Thu May 23 2024,18:15,-05/-0500,Deportes Tolima,3-0,2-0,La Equidad,,,2024-05-23T23:15Z
+Apertura Playoffs,Gruppe A,Sat May 25 2024,19:30,-05/-0500,Atlético Junior,1-0,0-0,Atlético Bucaramanga,,,2024-05-26T00:30Z
+Apertura Playoffs,Gruppe A,Sat May 25 2024,17:00,-05/-0500,Deportivo Pereira,2-2,0-1,Millonarios,,,2024-05-25T22:00Z
+Apertura Playoffs,Gruppe B,Sun May 26 2024,18:00,-05/-0500,Once Caldas,0-1,0-1,Deportes Tolima,,,2024-05-26T23:00Z
+Apertura Playoffs,Gruppe B,Sun May 26 2024,18:00,-05/-0500,Santa Fe,2-0,1-0,La Equidad,,,2024-05-26T23:00Z
+Apertura Playoffs,Gruppe B,Fri May 31 2024,17:00,-05/-0500,La Equidad,1-2,1-1,Once Caldas,,,2024-05-31T22:00Z
+Apertura Playoffs,Gruppe A,Sun Jun 2 2024,17:00,-05/-0500,Millonarios,2-0,0-0,Atlético Junior,,,2024-06-02T22:00Z
+Apertura Playoffs,Gruppe B,Sun Jun 2 2024,19:30,-05/-0500,Deportes Tolima,1-2,0-1,Santa Fe,,,2024-06-03T00:30Z
+Apertura Playoffs,Gruppe A,Sun Jun 2 2024,17:00,-05/-0500,Atlético Bucaramanga,3-1,1-0,Deportivo Pereira,,,2024-06-02T22:00Z
+Apertura Playoffs,Final,Sat Jun 8 2024,19:30,-05/-0500,Atlético Bucaramanga,1-0,0-0,Santa Fe,,,2024-06-09T00:30Z
+Apertura Playoffs,Final,Sat Jun 15 2024,19:30,-05/-0500,Santa Fe,3-2,1-1,Atlético Bucaramanga,5-6,,2024-06-16T00:30Z
+Clausura,1,Mon Jul 15 2024,20:15,-05/-0500,Boyacá Chicó,0-1,0-0,Once Caldas,,,2024-07-16T01:15Z
+Clausura,1,Tue Jul 16 2024,18:10,-05/-0500,Águilas Doradas,1-2,1-2,América de Cali,,,2024-07-16T23:10Z
+Clausura,1,Tue Jul 16 2024,20:20,-05/-0500,Deportivo Cali,0-2,0-0,Deportivo Pereira,,,2024-07-17T01:20Z
+Clausura,1,Tue Jul 16 2024,16:00,-05/-0500,Envigado FC,2-1,1-1,La Equidad,,,2024-07-16T21:00Z
+Clausura,1,Wed Jul 17 2024,20:10,-05/-0500,Alianza FC,0-2,0-1,Atlético Nacional,,,2024-07-18T01:10Z
+Clausura,1,Wed Jul 17 2024,18:00,-05/-0500,Santa Fe,2-1,2-0,Deportivo Pasto,,,2024-07-17T23:00Z
+Clausura,1,Thu Jul 18 2024,18:00,-05/-0500,Atlético Bucaramanga,1-0,0-0,Atlético Junior,,,2024-07-18T23:00Z
+Clausura,1,Thu Jul 18 2024,20:10,-05/-0500,Independiente Medellín,1-1,1-0,Millonarios,,,2024-07-19T01:10Z
+Clausura,1,Fri Jul 19 2024,19:30,-05/-0500,Fortaleza FC,1-1,1-1,Deportes Tolima,,,2024-07-20T00:30Z
+Clausura,1,Fri Jul 19 2024,17:00,-05/-0500,Jaguares de Córdoba,0-0,0-0,Patriotas FC,,,2024-07-19T22:00Z
+Clausura,2,Sat Jul 20 2024,18:30,-05/-0500,Once Caldas,1-0,0-0,Águilas Doradas,,,2024-07-20T23:30Z
+Clausura,2,Sat Jul 20 2024,16:00,-05/-0500,Envigado FC,0-1,0-1,Santa Fe,,,2024-07-20T21:00Z
+Clausura,2,Sun Jul 21 2024,15:30,-05/-0500,Millonarios,1-0,0-0,Atlético Bucaramanga,,,2024-07-21T20:30Z
+Clausura,2,Sun Jul 21 2024,17:45,-05/-0500,Atlético Nacional,2-1,0-0,América de Cali,,,2024-07-21T22:45Z
+Clausura,2,Sun Jul 21 2024,20:00,-05/-0500,Atlético Junior,2-1,1-1,Boyacá Chicó,,,2024-07-22T01:00Z
+Clausura,2,Mon Jul 22 2024,20:00,-05/-0500,Deportivo Pereira,1-1,1-1,Independiente Medellín,,,2024-07-23T01:00Z
+Clausura,2,Mon Jul 22 2024,18:00,-05/-0500,Deportivo Cali,1-0,1-0,Alianza FC,,,2024-07-22T23:00Z
+Clausura,2,Tue Jul 23 2024,18:10,-05/-0500,La Equidad,1-0,0-0,Jaguares de Córdoba,,,2024-07-23T23:10Z
+Clausura,2,Tue Jul 23 2024,20:20,-05/-0500,Deportes Tolima,2-1,2-1,Deportivo Pasto,,,2024-07-24T01:20Z
+Clausura,2,Tue Jul 23 2024,16:00,-05/-0500,Patriotas FC,0-2,0-0,Fortaleza FC,,,2024-07-23T21:00Z
+Clausura,6,Wed Jul 24 2024,20:00,-05/-0500,Millonarios,1-2,0-1,Atlético Nacional,,,2024-07-25T01:00Z
+Clausura,7,Thu Jul 25 2024,16:00,-05/-0500,América de Cali,4-0,2-0,Envigado FC,,,2024-07-25T21:00Z
+Clausura,3,Sat Jul 27 2024,16:00,-05/-0500,Once Caldas,2-0,2-0,Atlético Nacional,,,2024-07-27T21:00Z
+Clausura,3,Sat Jul 27 2024,18:10,-05/-0500,Santa Fe,0-1,0-1,La Equidad,,,2024-07-27T23:10Z
+Clausura,3,Sat Jul 27 2024,20:20,-05/-0500,Independiente Medellín,0-0,0-0,Atlético Junior,,,2024-07-28T01:20Z
+Clausura,3,Sun Jul 28 2024,15:00,-05/-0500,Atlético Bucaramanga,0-0,0-0,Jaguares de Córdoba,,,2024-07-28T20:00Z
+Clausura,3,Sun Jul 28 2024,17:30,-05/-0500,Alianza FC,2-1,0-1,Millonarios,,,2024-07-28T22:30Z
+Clausura,3,Mon Jul 29 2024,20:10,-05/-0500,Fortaleza FC,2-1,1-0,Deportivo Cali,,,2024-07-30T01:10Z
+Clausura,3,Mon Jul 29 2024,18:00,-05/-0500,Deportivo Pasto,2-0,1-0,Deportivo Pereira,,,2024-07-29T23:00Z
+Clausura,3,Tue Jul 30 2024,18:00,-05/-0500,Águilas Doradas,3-2,0-0,Patriotas FC,,,2024-07-30T23:00Z
+Clausura,9,Tue Jul 30 2024,20:10,-05/-0500,Atlético Nacional,0-1,0-1,La Equidad,,,2024-07-31T01:10Z
+Clausura,6,Wed Jul 31 2024,20:10,-05/-0500,Independiente Medellín,1-0,1-0,Boyacá Chicó,,,2024-08-01T01:10Z
+Clausura,4,Fri Aug 2 2024,20:00,-05/-0500,Millonarios,1-0,1-0,Deportes Tolima,,,2024-08-03T01:00Z
+Clausura,4,Sat Aug 3 2024,19:20,-05/-0500,La Equidad,1-1,0-0,Once Caldas,,,2024-08-04T00:20Z
+Clausura,4,Sat Aug 3 2024,17:00,-05/-0500,Jaguares de Córdoba,0-0,0-0,Deportivo Pasto,,,2024-08-03T22:00Z
+Clausura,4,Sat Aug 3 2024,15:00,-05/-0500,Envigado FC,0-1,0-0,Fortaleza FC,,,2024-08-03T20:00Z
+Clausura,4,Sun Aug 4 2024,20:00,-05/-0500,Deportivo Cali,2-0,1-0,Independiente Medellín,,,2024-08-05T01:00Z
+Clausura,4,Sun Aug 4 2024,15:30,-05/-0500,Patriotas FC,1-1,0-1,América de Cali,,,2024-08-04T20:30Z
+Clausura,4,Sun Aug 4 2024,17:45,-05/-0500,Atlético Junior,2-2,1-1,Alianza FC,,,2024-08-04T22:45Z
+Clausura,4,Mon Aug 5 2024,20:00,-05/-0500,Atlético Nacional,1-1,0-1,Águilas Doradas,,,2024-08-06T01:00Z
+Clausura,4,Tue Aug 6 2024,20:00,-05/-0500,Deportivo Pereira,1-0,0-0,Boyacá Chicó,,,2024-08-07T01:00Z
+Clausura,4,Wed Aug 7 2024,19:00,-05/-0500,Atlético Bucaramanga,0-1,0-0,Santa Fe,,,2024-08-08T00:00Z
+Clausura,5,Sat Aug 10 2024,20:00,-05/-0500,Boyacá Chicó,1-0,1-0,Deportivo Cali,,,2024-08-11T01:00Z
+Clausura,5,Sat Aug 10 2024,15:30,-05/-0500,Atlético Nacional,3-1,0-0,Patriotas FC,,,2024-08-10T20:30Z
+Clausura,5,Sat Aug 10 2024,17:45,-05/-0500,Deportes Tolima,5-1,3-1,La Equidad,,,2024-08-10T22:45Z
+Clausura,5,Sun Aug 11 2024,20:00,-05/-0500,Alianza FC,1-1,0-0,Envigado FC,,,2024-08-12T01:00Z
+Clausura,5,Sun Aug 11 2024,17:45,-05/-0500,Once Caldas,2-1,0-1,Atlético Bucaramanga,,,2024-08-11T22:45Z
+Clausura,5,Sun Aug 11 2024,,,América de Cali,,,Millonarios,,postponed,
+Clausura,5,Sun Aug 11 2024,,,Santa Fe,,,Independiente Medellín,,postponed,
+Clausura,5,Mon Aug 12 2024,20:00,-05/-0500,Fortaleza FC,1-0,0-0,Deportivo Pereira,,,2024-08-13T01:00Z
+Clausura,5,Tue Aug 13 2024,19:30,-05/-0500,Águilas Doradas,1-0,1-0,Jaguares de Córdoba,,,2024-08-14T00:30Z
+Clausura,6,Sat Aug 17 2024,18:05,-05/-0500,Atlético Junior,2-1,2-1,Fortaleza FC,,,2024-08-17T23:05Z
+Clausura,6,Sat Aug 17 2024,20:10,-05/-0500,La Equidad,0-0,0-0,Águilas Doradas,,,2024-08-18T01:10Z
+Clausura,6,Sun Aug 18 2024,,,Envigado FC,,,Deportivo Pasto,,postponed,
+Clausura,3,Sun Aug 18 2024,20:00,-05/-0500,Boyacá Chicó,0-0,0-0,Envigado FC,,,2024-08-19T01:00Z
+Clausura,6,Sun Aug 18 2024,17:45,-05/-0500,Atlético Bucaramanga,1-2,1-1,América de Cali,,,2024-08-18T22:45Z
+Clausura,6,Mon Aug 19 2024,18:15,-05/-0500,Jaguares de Córdoba,0-2,0-2,Deportes Tolima,,,2024-08-19T23:15Z
+Clausura,6,Mon Aug 19 2024,16:00,-05/-0500,Patriotas FC,3-1,3-1,Once Caldas,,,2024-08-19T21:00Z
+Clausura,6,Tue Aug 20 2024,19:00,-05/-0500,Deportivo Cali,1-3,1-2,Santa Fe,,,2024-08-21T00:00Z
+Clausura,7,Fri Aug 23 2024,19:30,-05/-0500,Deportivo Pasto,1-2,0-0,Atlético Bucaramanga,,,2024-08-24T00:30Z
+Clausura,7,Sat Aug 24 2024,19:30,-05/-0500,Deportes Tolima,0-1,0-1,Atlético Junior,,,2024-08-25T00:30Z
+Clausura,7,Sat Aug 24 2024,15:00,-05/-0500,Patriotas FC,0-0,0-0,La Equidad,,,2024-08-24T20:00Z
+Clausura,7,Sat Aug 24 2024,17:15,-05/-0500,Alianza FC,4-0,2-0,Boyacá Chicó,,,2024-08-24T22:15Z
+Clausura,7,Sun Aug 25 2024,,,Santa Fe,,,Deportivo Pereira,,postponed,
+Clausura,7,Sun Aug 25 2024,17:30,-05/-0500,Águilas Doradas,2-1,1-1,Millonarios,,,2024-08-25T22:30Z
+Clausura,7,Sun Aug 25 2024,,,Atlético Nacional,,,Deportivo Cali,,postponed,
+Clausura,7,Sun Aug 25 2024,19:40,-05/-0500,Once Caldas,2-0,2-0,Jaguares de Córdoba,,,2024-08-26T00:40Z
+Clausura,7,Mon Aug 26 2024,20:00,-05/-0500,Fortaleza FC,2-2,2-0,Independiente Medellín,,,2024-08-27T01:00Z
+Clausura,5,Wed Aug 28 2024,20:30,-05/-0500,Deportivo Pasto,1-0,0-0,Atlético Junior,,,2024-08-29T01:30Z
+Clausura,8,Sat Aug 31 2024,20:00,-05/-0500,Boyacá Chicó,2-2,1-0,Fortaleza FC,,,2024-09-01T01:00Z
+Clausura,8,Sat Aug 31 2024,16:15,-05/-0500,Jaguares de Córdoba,0-2,0-1,Atlético Nacional,,,2024-08-31T21:15Z
+Clausura,8,Sun Sep 1 2024,,,Independiente Medellín,,,Alianza FC,,postponed,
+Clausura,8,Sun Sep 1 2024,,,Envigado FC,,,Águilas Doradas,,postponed,
+Clausura,8,Sun Sep 1 2024,19:20,-05/-0500,Atlético Junior,1-1,0-1,Santa Fe,,,2024-09-02T00:20Z
+Clausura,8,Sun Sep 1 2024,17:10,-05/-0500,Millonarios,3-0,1-0,Patriotas FC,,,2024-09-01T22:10Z
+Clausura,8,Sun Sep 1 2024,15:00,-05/-0500,Atlético Bucaramanga,0-2,0-1,Deportes Tolima,,,2024-09-01T20:00Z
+Clausura,8,Sun Sep 1 2024,,,La Equidad,,,América de Cali,,postponed,
+Clausura,8,Mon Sep 2 2024,19:30,-05/-0500,Deportivo Cali,0-2,0-1,Deportivo Pasto,,,2024-09-03T00:30Z
+Clausura,8,Tue Sep 3 2024,18:00,-05/-0500,Deportivo Pereira,0-1,0-0,Once Caldas,,,2024-09-03T23:00Z
+Clausura,9,Sat Sep 7 2024,18:20,-05/-0500,Deportes Tolima,1-1,1-0,Deportivo Cali,,,2024-09-07T23:20Z
+Clausura,9,Sat Sep 7 2024,16:10,-05/-0500,América de Cali,1-0,0-0,Jaguares de Córdoba,,,2024-09-07T21:10Z
+Clausura,9,Sat Sep 7 2024,,,Atlético Junior,,,Deportivo Pereira,,postponed,
+Clausura,9,Sat Sep 7 2024,14:00,-05/-0500,Patriotas FC,2-0,0-0,Envigado FC,,,2024-09-07T19:00Z
+Clausura,9,Sun Sep 8 2024,,,Águilas Doradas,,,Atlético Bucaramanga,,postponed,
+Clausura,9,Sun Sep 8 2024,,,Santa Fe,,,Boyacá Chicó,,postponed,
+Clausura,9,Sun Sep 8 2024,19:20,-05/-0500,Deportivo Pasto,1-0,0-0,Independiente Medellín,,,2024-09-09T00:20Z
+Clausura,9,Sun Sep 8 2024,17:10,-05/-0500,Alianza FC,1-1,0-1,Fortaleza FC,,,2024-09-08T22:10Z
+Clausura,9,Sun Sep 8 2024,15:00,-05/-0500,Once Caldas,1-1,1-1,Millonarios,,,2024-09-08T20:00Z
+Clausura,3,Wed Sep 11 2024,18:00,-05/-0500,América de Cali,1-0,1-0,Deportes Tolima,,,2024-09-11T23:00Z
+Clausura,6,Thu Sep 12 2024,19:30,-05/-0500,Deportivo Pereira,,,Alianza FC,,,2024-09-13T00:30Z
+Clausura,10,Fri Sep 13 2024,18:30,-05/-0500,Jaguares de Córdoba,,,Envigado FC,,,2024-09-13T23:30Z
+Clausura,10,Fri Sep 13 2024,16:00,-05/-0500,Patriotas FC,,,Atlético Bucaramanga,,,2024-09-13T21:00Z
+Clausura,10,Sat Sep 14 2024,14:00,-05/-0500,Fortaleza FC,,,Deportivo Pasto,,,2024-09-14T19:00Z
+Clausura,10,Sat Sep 14 2024,16:10,-05/-0500,Once Caldas,,,Deportivo Cali,,,2024-09-14T21:10Z
+Clausura,10,Sat Sep 14 2024,18:20,-05/-0500,Deportes Tolima,,,Boyacá Chicó,,,2024-09-14T23:20Z
+Clausura,10,Sat Sep 14 2024,20:30,-05/-0500,Águilas Doradas,,,Independiente Medellín,,,2024-09-15T01:30Z
+Clausura,10,Sun Sep 15 2024,,,Santa Fe,,,Alianza FC,,postponed,
+Clausura,10,Sun Sep 15 2024,15:00,-05/-0500,Atlético Nacional,,,Atlético Junior,,,2024-09-15T20:00Z
+Clausura,10,Sun Sep 15 2024,16:00,-05/-0500,América de Cali,,,Deportivo Pereira,,,2024-09-15T21:00Z
+Clausura,10,Sun Sep 15 2024,20:00,-05/-0500,La Equidad,,,Millonarios,,,2024-09-16T01:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Independiente Medellín,,,Deportes Tolima,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Envigado FC,,,Once Caldas,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Boyacá Chicó,,,Deportivo Pasto,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Millonarios,,,Jaguares de Córdoba,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Atlético Junior,,,Águilas Doradas,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Alianza FC,,,América de Cali,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Fortaleza FC,,,Santa Fe,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Deportivo Pereira,,,Patriotas FC,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Deportivo Cali,,,La Equidad,,,2024-09-22T20:00Z
+Clausura,11,Sun Sep 22 2024,15:00,-05/-0500,Atlético Bucaramanga,,,Atlético Nacional,,,2024-09-22T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,Patriotas FC,,,Deportivo Cali,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,La Equidad,,,Atlético Bucaramanga,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,Águilas Doradas,,,Deportivo Pereira,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,Jaguares de Córdoba,,,Atlético Junior,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,Deportivo Pasto,,,Alianza FC,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,Deportes Tolima,,,Santa Fe,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,Atlético Nacional,,,Boyacá Chicó,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,América de Cali,,,Fortaleza FC,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,Once Caldas,,,Independiente Medellín,,,2024-09-29T20:00Z
+Clausura,12,Sun Sep 29 2024,15:00,-05/-0500,Millonarios,,,Envigado FC,,,2024-09-29T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Deportivo Pereira,,,Deportes Tolima,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Alianza FC,,,Once Caldas,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Envigado FC,,,Atlético Bucaramanga,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Fortaleza FC,,,Jaguares de Córdoba,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Santa Fe,,,Águilas Doradas,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Deportivo Cali,,,Millonarios,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Boyacá Chicó,,,América de Cali,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Atlético Junior,,,Patriotas FC,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Independiente Medellín,,,La Equidad,,,2024-10-06T20:00Z
+Clausura,13,Sun Oct 6 2024,15:00,-05/-0500,Deportivo Pasto,,,Atlético Nacional,,,2024-10-06T20:00Z
+Clausura,14,Wed Oct 9 2024,,,Águilas Doradas,,,Deportivo Cali,,,
+Clausura,14,Wed Oct 9 2024,,,Once Caldas,,,Deportivo Pasto,,,
+Clausura,14,Wed Oct 9 2024,,,Atlético Bucaramanga,,,Deportivo Pereira,,,
+Clausura,14,Wed Oct 9 2024,,,La Equidad,,,Atlético Junior,,,
+Clausura,14,Wed Oct 9 2024,,,Deportes Tolima,,,Alianza FC,,,
+Clausura,14,Wed Oct 9 2024,,,Patriotas FC,,,Santa Fe,,,
+Clausura,14,Wed Oct 9 2024,,,Jaguares de Córdoba,,,Boyacá Chicó,,,
+Clausura,14,Wed Oct 9 2024,,,Millonarios,,,Fortaleza FC,,,
+Clausura,14,Wed Oct 9 2024,,,América de Cali,,,Independiente Medellín,,,
+Clausura,14,Wed Oct 9 2024,,,Atlético Nacional,,,Envigado FC,,,
+Clausura,15,Sun Oct 13 2024,,,Deportes Tolima,,,Once Caldas,,,
+Clausura,15,Sun Oct 13 2024,,,Deportivo Cali,,,Atlético Bucaramanga,,,
+Clausura,15,Sun Oct 13 2024,,,Independiente Medellín,,,Jaguares de Córdoba,,,
+Clausura,15,Sun Oct 13 2024,,,Deportivo Pasto,,,Águilas Doradas,,,
+Clausura,15,Sun Oct 13 2024,,,Santa Fe,,,Millonarios,,,
+Clausura,15,Sun Oct 13 2024,,,Atlético Junior,,,América de Cali,,,
+Clausura,15,Sun Oct 13 2024,,,Alianza FC,,,Patriotas FC,,,
+Clausura,15,Sun Oct 13 2024,,,Boyacá Chicó,,,La Equidad,,,
+Clausura,15,Sun Oct 13 2024,,,Fortaleza FC,,,Atlético Nacional,,,
+Clausura,15,Sun Oct 13 2024,,,Deportivo Pereira,,,Envigado FC,,,
+Clausura,16,Sun Oct 20 2024,,,América de Cali,,,Deportivo Cali,,,
+Clausura,16,Sun Oct 20 2024,,,Águilas Doradas,,,Deportes Tolima,,,
+Clausura,16,Sun Oct 20 2024,,,Millonarios,,,Deportivo Pasto,,,
+Clausura,16,Sun Oct 20 2024,,,Jaguares de Córdoba,,,Deportivo Pereira,,,
+Clausura,16,Sun Oct 20 2024,,,Envigado FC,,,Atlético Junior,,,
+Clausura,16,Sun Oct 20 2024,,,La Equidad,,,Alianza FC,,,
+Clausura,16,Sun Oct 20 2024,,,Atlético Nacional,,,Santa Fe,,,
+Clausura,16,Sun Oct 20 2024,,,Patriotas FC,,,Boyacá Chicó,,,
+Clausura,16,Sun Oct 20 2024,,,Once Caldas,,,Fortaleza FC,,,
+Clausura,16,Sun Oct 20 2024,,,Atlético Bucaramanga,,,Independiente Medellín,,,
+Clausura,17,Sun Oct 27 2024,,,Santa Fe,,,Once Caldas,,,
+Clausura,17,Sun Oct 27 2024,,,Boyacá Chicó,,,Atlético Bucaramanga,,,
+Clausura,17,Sun Oct 27 2024,,,Deportivo Cali,,,Jaguares de Córdoba,,,
+Clausura,17,Sun Oct 27 2024,,,Alianza FC,,,Águilas Doradas,,,
+Clausura,17,Sun Oct 27 2024,,,Atlético Junior,,,Millonarios,,,
+Clausura,17,Sun Oct 27 2024,,,Deportivo Pasto,,,América de Cali,,,
+Clausura,17,Sun Oct 27 2024,,,Independiente Medellín,,,Patriotas FC,,,
+Clausura,17,Sun Oct 27 2024,,,Fortaleza FC,,,La Equidad,,,
+Clausura,17,Sun Oct 27 2024,,,Deportivo Pereira,,,Atlético Nacional,,,
+Clausura,17,Sun Oct 27 2024,,,Deportes Tolima,,,Envigado FC,,,
+Clausura,18,Sun Nov 3 2024,,,Envigado FC,,,Deportivo Cali,,,
+Clausura,18,Sun Nov 3 2024,,,Patriotas FC,,,Deportes Tolima,,,
+Clausura,18,Sun Nov 3 2024,,,La Equidad,,,Deportivo Pasto,,,
+Clausura,18,Sun Nov 3 2024,,,Millonarios,,,Deportivo Pereira,,,
+Clausura,18,Sun Nov 3 2024,,,Once Caldas,,,Atlético Junior,,,
+Clausura,18,Sun Nov 3 2024,,,Jaguares de Córdoba,,,Alianza FC,,,
+Clausura,18,Sun Nov 3 2024,,,América de Cali,,,Santa Fe,,,
+Clausura,18,Sun Nov 3 2024,,,Águilas Doradas,,,Boyacá Chicó,,,
+Clausura,18,Sun Nov 3 2024,,,Atlético Bucaramanga,,,Fortaleza FC,,,
+Clausura,18,Sun Nov 3 2024,,,Atlético Nacional,,,Independiente Medellín,,,
+Clausura,19,Wed Nov 6 2024,,,Atlético Junior,,,Deportivo Cali,,,
+Clausura,19,Wed Nov 6 2024,,,América de Cali,,,Once Caldas,,,
+Clausura,19,Wed Nov 6 2024,,,Alianza FC,,,Atlético Bucaramanga,,,
+Clausura,19,Wed Nov 6 2024,,,Santa Fe,,,Jaguares de Córdoba,,,
+Clausura,19,Wed Nov 6 2024,,,Fortaleza FC,,,Águilas Doradas,,,
+Clausura,19,Wed Nov 6 2024,,,Boyacá Chicó,,,Millonarios,,,
+Clausura,19,Wed Nov 6 2024,,,Deportivo Pasto,,,Patriotas FC,,,
+Clausura,19,Wed Nov 6 2024,,,Deportivo Pereira,,,La Equidad,,,
+Clausura,19,Wed Nov 6 2024,,,Deportes Tolima,,,Atlético Nacional,,,
+Clausura,19,Wed Nov 6 2024,,,Independiente Medellín,,,Envigado FC,,,

@@ -1,381 +1,381 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Thu Aug 15 2024,21:30,Real Betis,1-1,1-0,Girona FC
-1,Thu Aug 15 2024,19:00,Athletic Bilbao,1-1,1-0,Getafe CF
-1,Fri Aug 16 2024,21:30,UD Las Palmas,2-2,1-1,Sevilla FC
-1,Fri Aug 16 2024,19:00,RC Celta,2-1,0-1,CD Alavés
-1,Sat Aug 17 2024,19:00,CA Osasuna,1-1,0-1,CD Leganés
-1,Sat Aug 17 2024,21:30,Valencia CF,1-2,1-1,FC Barcelona
-1,Sun Aug 18 2024,21:30,RCD Mallorca,1-1,0-1,Real Madrid
-1,Sun Aug 18 2024,19:00,Real Sociedad,1-2,0-0,Rayo Vallecano
-1,Mon Aug 19 2024,21:30,Villarreal CF,2-2,2-2,Atlético Madrid
-1,Mon Aug 19 2024,19:00,Real Valladolid,1-0,1-0,Espanyol Barcelona
-2,Fri Aug 23 2024,19:00,RC Celta,3-1,2-1,Valencia CF
-2,Fri Aug 23 2024,21:30,Sevilla FC,1-2,1-1,Villarreal CF
-2,Sat Aug 24 2024,19:00,FC Barcelona,2-1,1-1,Athletic Bilbao
-2,Sat Aug 24 2024,21:30,Getafe CF,0-0,0-0,Rayo Vallecano
-2,Sat Aug 24 2024,21:30,Espanyol Barcelona,0-1,0-0,Real Sociedad
-2,Sat Aug 24 2024,17:00,CA Osasuna,1-0,0-0,RCD Mallorca
-2,Sun Aug 25 2024,17:00,Real Madrid,3-0,0-0,Real Valladolid
-2,Sun Aug 25 2024,19:00,CD Leganés,2-1,0-0,UD Las Palmas
-2,Sun Aug 25 2024,19:15,CD Alavés,0-0,0-0,Real Betis
-2,Sun Aug 25 2024,21:30,Atlético Madrid,3-0,1-0,Girona FC
-3,Mon Aug 26 2024,21:30,Villarreal CF,4-3,1-2,RC Celta
-3,Tue Aug 27 2024,19:00,RCD Mallorca,0-0,0-0,Sevilla FC
-3,Tue Aug 27 2024,21:30,Rayo Vallecano,1-2,1-0,FC Barcelona
-3,Wed Aug 28 2024,19:00,Real Valladolid,0-0,0-0,CD Leganés
-3,Wed Aug 28 2024,21:30,Real Sociedad,1-2,1-1,CD Alavés
-3,Wed Aug 28 2024,21:30,Atlético Madrid,0-0,0-0,Espanyol Barcelona
-3,Wed Aug 28 2024,19:00,Athletic Bilbao,1-0,1-0,Valencia CF
-3,Thu Aug 29 2024,21:30,UD Las Palmas,1-1,1-0,Real Madrid
-3,Thu Aug 29 2024,19:00,Girona FC,4-0,1-0,CA Osasuna
-4,Sat Aug 31 2024,21:30,Valencia CF,1-1,1-1,Villarreal CF
-4,Sat Aug 31 2024,17:00,FC Barcelona,7-0,3-0,Real Valladolid
-4,Sat Aug 31 2024,19:00,Athletic Bilbao,0-1,0-0,Atlético Madrid
-4,Sat Aug 31 2024,19:15,Espanyol Barcelona,2-1,1-1,Rayo Vallecano
-4,Sat Aug 31 2024,21:30,CD Leganés,0-1,0-1,RCD Mallorca
-4,Sun Sep 1 2024,17:00,CA Osasuna,3-2,2-1,RC Celta
-4,Sun Sep 1 2024,17:00,CD Alavés,2-0,1-0,UD Las Palmas
-4,Sun Sep 1 2024,19:00,Sevilla FC,0-2,0-1,Girona FC
-4,Sun Sep 1 2024,19:15,Getafe CF,0-0,0-0,Real Sociedad
-4,Sun Sep 1 2024,21:30,Real Madrid,2-0,0-0,Real Betis
-5,Fri Sep 13 2024,21:00,Real Betis,,,CD Leganés
-5,Sat Sep 14 2024,21:00,Real Sociedad,,,Real Madrid
-5,Sat Sep 14 2024,14:00,RCD Mallorca,,,Villarreal CF
-5,Sat Sep 14 2024,16:15,Espanyol Barcelona,,,CD Alavés
-5,Sat Sep 14 2024,18:30,Sevilla FC,,,Getafe CF
-5,Sun Sep 15 2024,21:00,Atlético Madrid,,,Valencia CF
-5,Sun Sep 15 2024,14:00,RC Celta,,,Real Valladolid
-5,Sun Sep 15 2024,16:15,Girona FC,,,FC Barcelona
-5,Sun Sep 15 2024,18:30,UD Las Palmas,,,Athletic Bilbao
-5,Mon Sep 16 2024,21:00,Rayo Vallecano,,,CA Osasuna
-7,Tue Sep 17 2024,19:00,RCD Mallorca,,,Real Sociedad
-3,Wed Sep 18 2024,19:00,Real Betis,,,Getafe CF
-7,Thu Sep 19 2024,19:00,CD Leganés,,,Athletic Bilbao
-6,Sun Sep 22 2024,,CA Osasuna,,,UD Las Palmas
-6,Sun Sep 22 2024,,CD Alavés,,,Sevilla FC
-6,Sun Sep 22 2024,,Getafe CF,,,CD Leganés
-6,Sun Sep 22 2024,,Real Betis,,,RCD Mallorca
-6,Sun Sep 22 2024,,Villarreal CF,,,FC Barcelona
-6,Sun Sep 22 2024,,Rayo Vallecano,,,Atlético Madrid
-6,Sun Sep 22 2024,,Real Valladolid,,,Real Sociedad
-6,Sun Sep 22 2024,,Real Madrid,,,Espanyol Barcelona
-6,Sun Sep 22 2024,,Athletic Bilbao,,,RC Celta
-6,Sun Sep 22 2024,,Valencia CF,,,Girona FC
-7,Wed Sep 25 2024,,RC Celta,,,Atlético Madrid
-7,Wed Sep 25 2024,,FC Barcelona,,,Getafe CF
-7,Wed Sep 25 2024,,Girona FC,,,Rayo Vallecano
-7,Wed Sep 25 2024,,Sevilla FC,,,Real Valladolid
-7,Wed Sep 25 2024,,Valencia CF,,,CA Osasuna
-7,Wed Sep 25 2024,,Real Madrid,,,CD Alavés
-7,Wed Sep 25 2024,,UD Las Palmas,,,Real Betis
-7,Wed Sep 25 2024,,Espanyol Barcelona,,,Villarreal CF
-8,Sun Sep 29 2024,,Athletic Bilbao,,,Sevilla FC
-8,Sun Sep 29 2024,,Atlético Madrid,,,Real Madrid
-8,Sun Sep 29 2024,,CA Osasuna,,,FC Barcelona
-8,Sun Sep 29 2024,,RC Celta,,,Girona FC
-8,Sun Sep 29 2024,,Getafe CF,,,CD Alavés
-8,Sun Sep 29 2024,,Villarreal CF,,,UD Las Palmas
-8,Sun Sep 29 2024,,Rayo Vallecano,,,CD Leganés
-8,Sun Sep 29 2024,,Real Sociedad,,,Valencia CF
-8,Sun Sep 29 2024,,Real Valladolid,,,RCD Mallorca
-8,Sun Sep 29 2024,,Real Betis,,,Espanyol Barcelona
-9,Sun Oct 6 2024,,CD Leganés,,,Valencia CF
-9,Sun Oct 6 2024,,CD Alavés,,,FC Barcelona
-9,Sun Oct 6 2024,,Getafe CF,,,CA Osasuna
-9,Sun Oct 6 2024,,Girona FC,,,Athletic Bilbao
-9,Sun Oct 6 2024,,Sevilla FC,,,Real Betis
-9,Sun Oct 6 2024,,Real Madrid,,,Villarreal CF
-9,Sun Oct 6 2024,,Real Sociedad,,,Atlético Madrid
-9,Sun Oct 6 2024,,Real Valladolid,,,Rayo Vallecano
-9,Sun Oct 6 2024,,UD Las Palmas,,,RC Celta
-9,Sun Oct 6 2024,,Espanyol Barcelona,,,RCD Mallorca
-10,Sun Oct 20 2024,,Atlético Madrid,,,CD Leganés
-10,Sun Oct 20 2024,,CA Osasuna,,,Real Betis
-10,Sun Oct 20 2024,,RC Celta,,,Real Madrid
-10,Sun Oct 20 2024,,CD Alavés,,,Real Valladolid
-10,Sun Oct 20 2024,,FC Barcelona,,,Sevilla FC
-10,Sun Oct 20 2024,,Girona FC,,,Real Sociedad
-10,Sun Oct 20 2024,,Valencia CF,,,UD Las Palmas
-10,Sun Oct 20 2024,,Villarreal CF,,,Getafe CF
-10,Sun Oct 20 2024,,RCD Mallorca,,,Rayo Vallecano
-10,Sun Oct 20 2024,,Athletic Bilbao,,,Espanyol Barcelona
-11,Sun Oct 27 2024,,Real Betis,,,Atlético Madrid
-11,Sun Oct 27 2024,,CD Leganés,,,RC Celta
-11,Sun Oct 27 2024,,Getafe CF,,,Valencia CF
-11,Sun Oct 27 2024,,Rayo Vallecano,,,CD Alavés
-11,Sun Oct 27 2024,,RCD Mallorca,,,Athletic Bilbao
-11,Sun Oct 27 2024,,Real Madrid,,,FC Barcelona
-11,Sun Oct 27 2024,,Real Sociedad,,,CA Osasuna
-11,Sun Oct 27 2024,,Real Valladolid,,,Villarreal CF
-11,Sun Oct 27 2024,,UD Las Palmas,,,Girona FC
-11,Sun Oct 27 2024,,Espanyol Barcelona,,,Sevilla FC
-12,Sun Nov 3 2024,,Athletic Bilbao,,,Real Betis
-12,Sun Nov 3 2024,,Atlético Madrid,,,UD Las Palmas
-12,Sun Nov 3 2024,,CA Osasuna,,,Real Valladolid
-12,Sun Nov 3 2024,,RC Celta,,,Getafe CF
-12,Sun Nov 3 2024,,CD Alavés,,,RCD Mallorca
-12,Sun Nov 3 2024,,Girona FC,,,CD Leganés
-12,Sun Nov 3 2024,,Sevilla FC,,,Real Sociedad
-12,Sun Nov 3 2024,,Valencia CF,,,Real Madrid
-12,Sun Nov 3 2024,,Villarreal CF,,,Rayo Vallecano
-12,Sun Nov 3 2024,,FC Barcelona,,,Espanyol Barcelona
-13,Sun Nov 10 2024,,Real Betis,,,RC Celta
-13,Sun Nov 10 2024,,CD Leganés,,,Sevilla FC
-13,Sun Nov 10 2024,,Getafe CF,,,Girona FC
-13,Sun Nov 10 2024,,Villarreal CF,,,CD Alavés
-13,Sun Nov 10 2024,,Rayo Vallecano,,,UD Las Palmas
-13,Sun Nov 10 2024,,RCD Mallorca,,,Atlético Madrid
-13,Sun Nov 10 2024,,Real Madrid,,,CA Osasuna
-13,Sun Nov 10 2024,,Real Sociedad,,,FC Barcelona
-13,Sun Nov 10 2024,,Real Valladolid,,,Athletic Bilbao
-13,Sun Nov 10 2024,,Espanyol Barcelona,,,Valencia CF
-14,Sun Nov 24 2024,,Athletic Bilbao,,,Real Sociedad
-14,Sun Nov 24 2024,,Atlético Madrid,,,CD Alavés
-14,Sun Nov 24 2024,,CA Osasuna,,,Villarreal CF
-14,Sun Nov 24 2024,,CD Leganés,,,Real Madrid
-14,Sun Nov 24 2024,,RC Celta,,,FC Barcelona
-14,Sun Nov 24 2024,,Getafe CF,,,Real Valladolid
-14,Sun Nov 24 2024,,Sevilla FC,,,Rayo Vallecano
-14,Sun Nov 24 2024,,Valencia CF,,,Real Betis
-14,Sun Nov 24 2024,,UD Las Palmas,,,RCD Mallorca
-14,Sun Nov 24 2024,,Girona FC,,,Espanyol Barcelona
-15,Sun Dec 1 2024,,CD Alavés,,,CD Leganés
-15,Sun Dec 1 2024,,FC Barcelona,,,UD Las Palmas
-15,Sun Dec 1 2024,,Sevilla FC,,,CA Osasuna
-15,Sun Dec 1 2024,,Villarreal CF,,,Girona FC
-15,Sun Dec 1 2024,,Rayo Vallecano,,,Athletic Bilbao
-15,Sun Dec 1 2024,,RCD Mallorca,,,Valencia CF
-15,Sun Dec 1 2024,,Real Madrid,,,Getafe CF
-15,Sun Dec 1 2024,,Real Sociedad,,,Real Betis
-15,Sun Dec 1 2024,,Real Valladolid,,,Atlético Madrid
-15,Sun Dec 1 2024,,Espanyol Barcelona,,,RC Celta
-16,Sun Dec 8 2024,,Athletic Bilbao,,,Villarreal CF
-16,Sun Dec 8 2024,,Atlético Madrid,,,Sevilla FC
-16,Sun Dec 8 2024,,Real Betis,,,FC Barcelona
-16,Sun Dec 8 2024,,CA Osasuna,,,CD Alavés
-16,Sun Dec 8 2024,,CD Leganés,,,Real Sociedad
-16,Sun Dec 8 2024,,RC Celta,,,RCD Mallorca
-16,Sun Dec 8 2024,,Girona FC,,,Real Madrid
-16,Sun Dec 8 2024,,Valencia CF,,,Rayo Vallecano
-16,Sun Dec 8 2024,,UD Las Palmas,,,Real Valladolid
-16,Sun Dec 8 2024,,Getafe CF,,,Espanyol Barcelona
-17,Sun Dec 15 2024,,Atlético Madrid,,,Getafe CF
-17,Sun Dec 15 2024,,CD Alavés,,,Athletic Bilbao
-17,Sun Dec 15 2024,,FC Barcelona,,,CD Leganés
-17,Sun Dec 15 2024,,Sevilla FC,,,RC Celta
-17,Sun Dec 15 2024,,Villarreal CF,,,Real Betis
-17,Sun Dec 15 2024,,Rayo Vallecano,,,Real Madrid
-17,Sun Dec 15 2024,,RCD Mallorca,,,Girona FC
-17,Sun Dec 15 2024,,Real Sociedad,,,UD Las Palmas
-17,Sun Dec 15 2024,,Real Valladolid,,,Valencia CF
-17,Sun Dec 15 2024,,Espanyol Barcelona,,,CA Osasuna
-18,Sun Dec 22 2024,,Real Betis,,,Rayo Vallecano
-18,Sun Dec 22 2024,,CA Osasuna,,,Athletic Bilbao
-18,Sun Dec 22 2024,,CD Leganés,,,Villarreal CF
-18,Sun Dec 22 2024,,RC Celta,,,Real Sociedad
-18,Sun Dec 22 2024,,FC Barcelona,,,Atlético Madrid
-18,Sun Dec 22 2024,,Getafe CF,,,RCD Mallorca
-18,Sun Dec 22 2024,,Girona FC,,,Real Valladolid
-18,Sun Dec 22 2024,,Valencia CF,,,CD Alavés
-18,Sun Dec 22 2024,,Real Madrid,,,Sevilla FC
-18,Sun Dec 22 2024,,UD Las Palmas,,,Espanyol Barcelona
-19,Sat Jan 11 2025,,Espanyol Barcelona,,,CD Leganés
-19,Sun Jan 12 2025,,Athletic Bilbao,,,Real Madrid
-19,Sun Jan 12 2025,,Atlético Madrid,,,CA Osasuna
-19,Sun Jan 12 2025,,CD Alavés,,,Girona FC
-19,Sun Jan 12 2025,,Sevilla FC,,,Valencia CF
-19,Sun Jan 12 2025,,Rayo Vallecano,,,RC Celta
-19,Sun Jan 12 2025,,RCD Mallorca,,,FC Barcelona
-19,Sun Jan 12 2025,,Real Sociedad,,,Villarreal CF
-19,Sun Jan 12 2025,,Real Valladolid,,,Real Betis
-19,Sun Jan 12 2025,,UD Las Palmas,,,Getafe CF
-20,Sun Jan 19 2025,,Real Betis,,,CD Alavés
-20,Sun Jan 19 2025,,CA Osasuna,,,Rayo Vallecano
-20,Sun Jan 19 2025,,CD Leganés,,,Atlético Madrid
-20,Sun Jan 19 2025,,RC Celta,,,Athletic Bilbao
-20,Sun Jan 19 2025,,Getafe CF,,,FC Barcelona
-20,Sun Jan 19 2025,,Girona FC,,,Sevilla FC
-20,Sun Jan 19 2025,,Valencia CF,,,Real Sociedad
-20,Sun Jan 19 2025,,Villarreal CF,,,RCD Mallorca
-20,Sun Jan 19 2025,,Real Madrid,,,UD Las Palmas
-20,Sun Jan 19 2025,,Espanyol Barcelona,,,Real Valladolid
-21,Sun Jan 26 2025,,Athletic Bilbao,,,CD Leganés
-21,Sun Jan 26 2025,,Atlético Madrid,,,Villarreal CF
-21,Sun Jan 26 2025,,CD Alavés,,,RC Celta
-21,Sun Jan 26 2025,,FC Barcelona,,,Valencia CF
-21,Sun Jan 26 2025,,Rayo Vallecano,,,Girona FC
-21,Sun Jan 26 2025,,RCD Mallorca,,,Real Betis
-21,Sun Jan 26 2025,,Real Sociedad,,,Getafe CF
-21,Sun Jan 26 2025,,Real Valladolid,,,Real Madrid
-21,Sun Jan 26 2025,,UD Las Palmas,,,CA Osasuna
-21,Sun Jan 26 2025,,Sevilla FC,,,Espanyol Barcelona
-22,Sun Feb 2 2025,,Atlético Madrid,,,RCD Mallorca
-22,Sun Feb 2 2025,,Real Betis,,,Athletic Bilbao
-22,Sun Feb 2 2025,,CA Osasuna,,,Real Sociedad
-22,Sun Feb 2 2025,,CD Leganés,,,Rayo Vallecano
-22,Sun Feb 2 2025,,FC Barcelona,,,CD Alavés
-22,Sun Feb 2 2025,,Getafe CF,,,Sevilla FC
-22,Sun Feb 2 2025,,Girona FC,,,UD Las Palmas
-22,Sun Feb 2 2025,,Valencia CF,,,RC Celta
-22,Sun Feb 2 2025,,Villarreal CF,,,Real Valladolid
-22,Sun Feb 2 2025,,Espanyol Barcelona,,,Real Madrid
-23,Sun Feb 9 2025,,Athletic Bilbao,,,Girona FC
-23,Sun Feb 9 2025,,RC Celta,,,Real Betis
-23,Sun Feb 9 2025,,CD Alavés,,,Getafe CF
-23,Sun Feb 9 2025,,Sevilla FC,,,FC Barcelona
-23,Sun Feb 9 2025,,Valencia CF,,,CD Leganés
-23,Sun Feb 9 2025,,Rayo Vallecano,,,Real Valladolid
-23,Sun Feb 9 2025,,RCD Mallorca,,,CA Osasuna
-23,Sun Feb 9 2025,,Real Madrid,,,Atlético Madrid
-23,Sun Feb 9 2025,,UD Las Palmas,,,Villarreal CF
-23,Sun Feb 9 2025,,Real Sociedad,,,Espanyol Barcelona
-24,Sun Feb 16 2025,,Atlético Madrid,,,RC Celta
-24,Sun Feb 16 2025,,Real Betis,,,Real Sociedad
-24,Sun Feb 16 2025,,CA Osasuna,,,Real Madrid
-24,Sun Feb 16 2025,,CD Leganés,,,CD Alavés
-24,Sun Feb 16 2025,,FC Barcelona,,,Rayo Vallecano
-24,Sun Feb 16 2025,,Girona FC,,,Getafe CF
-24,Sun Feb 16 2025,,Villarreal CF,,,Valencia CF
-24,Sun Feb 16 2025,,RCD Mallorca,,,UD Las Palmas
-24,Sun Feb 16 2025,,Real Valladolid,,,Sevilla FC
-24,Sun Feb 16 2025,,Espanyol Barcelona,,,Athletic Bilbao
-25,Sun Feb 23 2025,,Athletic Bilbao,,,Real Valladolid
-25,Sun Feb 23 2025,,RC Celta,,,CA Osasuna
-25,Sun Feb 23 2025,,Getafe CF,,,Real Betis
-25,Sun Feb 23 2025,,Sevilla FC,,,RCD Mallorca
-25,Sun Feb 23 2025,,Valencia CF,,,Atlético Madrid
-25,Sun Feb 23 2025,,Rayo Vallecano,,,Villarreal CF
-25,Sun Feb 23 2025,,Real Madrid,,,Girona FC
-25,Sun Feb 23 2025,,Real Sociedad,,,CD Leganés
-25,Sun Feb 23 2025,,UD Las Palmas,,,FC Barcelona
-25,Sun Feb 23 2025,,CD Alavés,,,Espanyol Barcelona
-26,Sun Mar 2 2025,,Atlético Madrid,,,Athletic Bilbao
-26,Sun Mar 2 2025,,Real Betis,,,Real Madrid
-26,Sun Mar 2 2025,,CA Osasuna,,,Valencia CF
-26,Sun Mar 2 2025,,CD Leganés,,,Getafe CF
-26,Sun Mar 2 2025,,FC Barcelona,,,Real Sociedad
-26,Sun Mar 2 2025,,Girona FC,,,RC Celta
-26,Sun Mar 2 2025,,Rayo Vallecano,,,Sevilla FC
-26,Sun Mar 2 2025,,RCD Mallorca,,,CD Alavés
-26,Sun Mar 2 2025,,Real Valladolid,,,UD Las Palmas
-26,Sun Mar 2 2025,,Villarreal CF,,,Espanyol Barcelona
-27,Sun Mar 9 2025,,Athletic Bilbao,,,RCD Mallorca
-27,Sun Mar 9 2025,,Real Betis,,,UD Las Palmas
-27,Sun Mar 9 2025,,RC Celta,,,CD Leganés
-27,Sun Mar 9 2025,,CD Alavés,,,Villarreal CF
-27,Sun Mar 9 2025,,FC Barcelona,,,CA Osasuna
-27,Sun Mar 9 2025,,Getafe CF,,,Atlético Madrid
-27,Sun Mar 9 2025,,Valencia CF,,,Real Valladolid
-27,Sun Mar 9 2025,,Real Madrid,,,Rayo Vallecano
-27,Sun Mar 9 2025,,Real Sociedad,,,Sevilla FC
-27,Sun Mar 9 2025,,Espanyol Barcelona,,,Girona FC
-28,Sun Mar 16 2025,,Atlético Madrid,,,FC Barcelona
-28,Sun Mar 16 2025,,CA Osasuna,,,Getafe CF
-28,Sun Mar 16 2025,,CD Leganés,,,Real Betis
-28,Sun Mar 16 2025,,Girona FC,,,Valencia CF
-28,Sun Mar 16 2025,,Sevilla FC,,,Athletic Bilbao
-28,Sun Mar 16 2025,,Villarreal CF,,,Real Madrid
-28,Sun Mar 16 2025,,Rayo Vallecano,,,Real Sociedad
-28,Sun Mar 16 2025,,Real Valladolid,,,RC Celta
-28,Sun Mar 16 2025,,UD Las Palmas,,,CD Alavés
-28,Sun Mar 16 2025,,RCD Mallorca,,,Espanyol Barcelona
-29,Sun Mar 30 2025,,Athletic Bilbao,,,CA Osasuna
-29,Sun Mar 30 2025,,Real Betis,,,Sevilla FC
-29,Sun Mar 30 2025,,RC Celta,,,UD Las Palmas
-29,Sun Mar 30 2025,,CD Alavés,,,Rayo Vallecano
-29,Sun Mar 30 2025,,FC Barcelona,,,Girona FC
-29,Sun Mar 30 2025,,Getafe CF,,,Villarreal CF
-29,Sun Mar 30 2025,,Valencia CF,,,RCD Mallorca
-29,Sun Mar 30 2025,,Real Madrid,,,CD Leganés
-29,Sun Mar 30 2025,,Real Sociedad,,,Real Valladolid
-29,Sun Mar 30 2025,,Espanyol Barcelona,,,Atlético Madrid
-30,Sun Apr 6 2025,,CD Leganés,,,CA Osasuna
-30,Sun Apr 6 2025,,FC Barcelona,,,Real Betis
-30,Sun Apr 6 2025,,Girona FC,,,CD Alavés
-30,Sun Apr 6 2025,,Sevilla FC,,,Atlético Madrid
-30,Sun Apr 6 2025,,Villarreal CF,,,Athletic Bilbao
-30,Sun Apr 6 2025,,RCD Mallorca,,,RC Celta
-30,Sun Apr 6 2025,,Real Madrid,,,Valencia CF
-30,Sun Apr 6 2025,,Real Valladolid,,,Getafe CF
-30,Sun Apr 6 2025,,UD Las Palmas,,,Real Sociedad
-30,Sun Apr 6 2025,,Rayo Vallecano,,,Espanyol Barcelona
-31,Sun Apr 13 2025,,Athletic Bilbao,,,Rayo Vallecano
-31,Sun Apr 13 2025,,Atlético Madrid,,,Real Valladolid
-31,Sun Apr 13 2025,,Real Betis,,,Villarreal CF
-31,Sun Apr 13 2025,,CA Osasuna,,,Girona FC
-31,Sun Apr 13 2025,,CD Leganés,,,FC Barcelona
-31,Sun Apr 13 2025,,CD Alavés,,,Real Madrid
-31,Sun Apr 13 2025,,Getafe CF,,,UD Las Palmas
-31,Sun Apr 13 2025,,Valencia CF,,,Sevilla FC
-31,Sun Apr 13 2025,,Real Sociedad,,,RCD Mallorca
-31,Sun Apr 13 2025,,RC Celta,,,Espanyol Barcelona
-32,Sun Apr 20 2025,,FC Barcelona,,,RC Celta
-32,Sun Apr 20 2025,,Girona FC,,,Real Betis
-32,Sun Apr 20 2025,,Sevilla FC,,,CD Alavés
-32,Sun Apr 20 2025,,Villarreal CF,,,Real Sociedad
-32,Sun Apr 20 2025,,Rayo Vallecano,,,Valencia CF
-32,Sun Apr 20 2025,,RCD Mallorca,,,CD Leganés
-32,Sun Apr 20 2025,,Real Madrid,,,Athletic Bilbao
-32,Sun Apr 20 2025,,Real Valladolid,,,CA Osasuna
-32,Sun Apr 20 2025,,UD Las Palmas,,,Atlético Madrid
-32,Sun Apr 20 2025,,Espanyol Barcelona,,,Getafe CF
-33,Wed Apr 23 2025,,Athletic Bilbao,,,UD Las Palmas
-33,Wed Apr 23 2025,,Atlético Madrid,,,Rayo Vallecano
-33,Wed Apr 23 2025,,Real Betis,,,Real Valladolid
-33,Wed Apr 23 2025,,CA Osasuna,,,Sevilla FC
-33,Wed Apr 23 2025,,CD Leganés,,,Girona FC
-33,Wed Apr 23 2025,,RC Celta,,,Villarreal CF
-33,Wed Apr 23 2025,,CD Alavés,,,Real Sociedad
-33,Wed Apr 23 2025,,FC Barcelona,,,RCD Mallorca
-33,Wed Apr 23 2025,,Getafe CF,,,Real Madrid
-33,Wed Apr 23 2025,,Valencia CF,,,Espanyol Barcelona
-34,Sun May 4 2025,,CD Alavés,,,Atlético Madrid
-34,Sun May 4 2025,,Girona FC,,,RCD Mallorca
-34,Sun May 4 2025,,Sevilla FC,,,CD Leganés
-34,Sun May 4 2025,,Villarreal CF,,,CA Osasuna
-34,Sun May 4 2025,,Rayo Vallecano,,,Getafe CF
-34,Sun May 4 2025,,Real Madrid,,,RC Celta
-34,Sun May 4 2025,,Real Sociedad,,,Athletic Bilbao
-34,Sun May 4 2025,,Real Valladolid,,,FC Barcelona
-34,Sun May 4 2025,,UD Las Palmas,,,Valencia CF
-34,Sun May 4 2025,,Espanyol Barcelona,,,Real Betis
-35,Sun May 11 2025,,Athletic Bilbao,,,CD Alavés
-35,Sun May 11 2025,,Atlético Madrid,,,Real Sociedad
-35,Sun May 11 2025,,Real Betis,,,CA Osasuna
-35,Sun May 11 2025,,RC Celta,,,Sevilla FC
-35,Sun May 11 2025,,FC Barcelona,,,Real Madrid
-35,Sun May 11 2025,,Girona FC,,,Villarreal CF
-35,Sun May 11 2025,,Valencia CF,,,Getafe CF
-35,Sun May 11 2025,,RCD Mallorca,,,Real Valladolid
-35,Sun May 11 2025,,UD Las Palmas,,,Rayo Vallecano
-35,Sun May 11 2025,,CD Leganés,,,Espanyol Barcelona
-36,Wed May 14 2025,,CA Osasuna,,,Atlético Madrid
-36,Wed May 14 2025,,CD Alavés,,,Valencia CF
-36,Wed May 14 2025,,Getafe CF,,,Athletic Bilbao
-36,Wed May 14 2025,,Sevilla FC,,,UD Las Palmas
-36,Wed May 14 2025,,Villarreal CF,,,CD Leganés
-36,Wed May 14 2025,,Rayo Vallecano,,,Real Betis
-36,Wed May 14 2025,,Real Madrid,,,RCD Mallorca
-36,Wed May 14 2025,,Real Sociedad,,,RC Celta
-36,Wed May 14 2025,,Real Valladolid,,,Girona FC
-36,Wed May 14 2025,,Espanyol Barcelona,,,FC Barcelona
-37,Sun May 18 2025,,Atlético Madrid,,,Real Betis
-37,Sun May 18 2025,,RC Celta,,,Rayo Vallecano
-37,Sun May 18 2025,,FC Barcelona,,,Villarreal CF
-37,Sun May 18 2025,,Sevilla FC,,,Real Madrid
-37,Sun May 18 2025,,Valencia CF,,,Athletic Bilbao
-37,Sun May 18 2025,,RCD Mallorca,,,Getafe CF
-37,Sun May 18 2025,,Real Sociedad,,,Girona FC
-37,Sun May 18 2025,,Real Valladolid,,,CD Alavés
-37,Sun May 18 2025,,UD Las Palmas,,,CD Leganés
-37,Sun May 18 2025,,CA Osasuna,,,Espanyol Barcelona
-38,Sun May 25 2025,,Athletic Bilbao,,,FC Barcelona
-38,Sun May 25 2025,,Real Betis,,,Valencia CF
-38,Sun May 25 2025,,CD Leganés,,,Real Valladolid
-38,Sun May 25 2025,,CD Alavés,,,CA Osasuna
-38,Sun May 25 2025,,Getafe CF,,,RC Celta
-38,Sun May 25 2025,,Girona FC,,,Atlético Madrid
-38,Sun May 25 2025,,Villarreal CF,,,Sevilla FC
-38,Sun May 25 2025,,Rayo Vallecano,,,RCD Mallorca
-38,Sun May 25 2025,,Real Madrid,,,Real Sociedad
-38,Sun May 25 2025,,Espanyol Barcelona,,,UD Las Palmas
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Thu Aug 15 2024,21:30,CEST/+0200,Real Betis,1-1,1-0,Girona FC,2024-08-15T19:30Z
+1,Thu Aug 15 2024,19:00,CEST/+0200,Athletic Bilbao,1-1,1-0,Getafe CF,2024-08-15T17:00Z
+1,Fri Aug 16 2024,21:30,CEST/+0200,UD Las Palmas,2-2,1-1,Sevilla FC,2024-08-16T19:30Z
+1,Fri Aug 16 2024,19:00,CEST/+0200,RC Celta,2-1,0-1,CD Alavés,2024-08-16T17:00Z
+1,Sat Aug 17 2024,19:00,CEST/+0200,CA Osasuna,1-1,0-1,CD Leganés,2024-08-17T17:00Z
+1,Sat Aug 17 2024,21:30,CEST/+0200,Valencia CF,1-2,1-1,FC Barcelona,2024-08-17T19:30Z
+1,Sun Aug 18 2024,21:30,CEST/+0200,RCD Mallorca,1-1,0-1,Real Madrid,2024-08-18T19:30Z
+1,Sun Aug 18 2024,19:00,CEST/+0200,Real Sociedad,1-2,0-0,Rayo Vallecano,2024-08-18T17:00Z
+1,Mon Aug 19 2024,21:30,CEST/+0200,Villarreal CF,2-2,2-2,Atlético Madrid,2024-08-19T19:30Z
+1,Mon Aug 19 2024,19:00,CEST/+0200,Real Valladolid,1-0,1-0,Espanyol Barcelona,2024-08-19T17:00Z
+2,Fri Aug 23 2024,19:00,CEST/+0200,RC Celta,3-1,2-1,Valencia CF,2024-08-23T17:00Z
+2,Fri Aug 23 2024,21:30,CEST/+0200,Sevilla FC,1-2,1-1,Villarreal CF,2024-08-23T19:30Z
+2,Sat Aug 24 2024,19:00,CEST/+0200,FC Barcelona,2-1,1-1,Athletic Bilbao,2024-08-24T17:00Z
+2,Sat Aug 24 2024,21:30,CEST/+0200,Getafe CF,0-0,0-0,Rayo Vallecano,2024-08-24T19:30Z
+2,Sat Aug 24 2024,21:30,CEST/+0200,Espanyol Barcelona,0-1,0-0,Real Sociedad,2024-08-24T19:30Z
+2,Sat Aug 24 2024,17:00,CEST/+0200,CA Osasuna,1-0,0-0,RCD Mallorca,2024-08-24T15:00Z
+2,Sun Aug 25 2024,17:00,CEST/+0200,Real Madrid,3-0,0-0,Real Valladolid,2024-08-25T15:00Z
+2,Sun Aug 25 2024,19:00,CEST/+0200,CD Leganés,2-1,0-0,UD Las Palmas,2024-08-25T17:00Z
+2,Sun Aug 25 2024,19:15,CEST/+0200,CD Alavés,0-0,0-0,Real Betis,2024-08-25T17:15Z
+2,Sun Aug 25 2024,21:30,CEST/+0200,Atlético Madrid,3-0,1-0,Girona FC,2024-08-25T19:30Z
+3,Mon Aug 26 2024,21:30,CEST/+0200,Villarreal CF,4-3,1-2,RC Celta,2024-08-26T19:30Z
+3,Tue Aug 27 2024,19:00,CEST/+0200,RCD Mallorca,0-0,0-0,Sevilla FC,2024-08-27T17:00Z
+3,Tue Aug 27 2024,21:30,CEST/+0200,Rayo Vallecano,1-2,1-0,FC Barcelona,2024-08-27T19:30Z
+3,Wed Aug 28 2024,19:00,CEST/+0200,Real Valladolid,0-0,0-0,CD Leganés,2024-08-28T17:00Z
+3,Wed Aug 28 2024,21:30,CEST/+0200,Real Sociedad,1-2,1-1,CD Alavés,2024-08-28T19:30Z
+3,Wed Aug 28 2024,21:30,CEST/+0200,Atlético Madrid,0-0,0-0,Espanyol Barcelona,2024-08-28T19:30Z
+3,Wed Aug 28 2024,19:00,CEST/+0200,Athletic Bilbao,1-0,1-0,Valencia CF,2024-08-28T17:00Z
+3,Thu Aug 29 2024,21:30,CEST/+0200,UD Las Palmas,1-1,1-0,Real Madrid,2024-08-29T19:30Z
+3,Thu Aug 29 2024,19:00,CEST/+0200,Girona FC,4-0,1-0,CA Osasuna,2024-08-29T17:00Z
+4,Sat Aug 31 2024,21:30,CEST/+0200,Valencia CF,1-1,1-1,Villarreal CF,2024-08-31T19:30Z
+4,Sat Aug 31 2024,17:00,CEST/+0200,FC Barcelona,7-0,3-0,Real Valladolid,2024-08-31T15:00Z
+4,Sat Aug 31 2024,19:00,CEST/+0200,Athletic Bilbao,0-1,0-0,Atlético Madrid,2024-08-31T17:00Z
+4,Sat Aug 31 2024,19:15,CEST/+0200,Espanyol Barcelona,2-1,1-1,Rayo Vallecano,2024-08-31T17:15Z
+4,Sat Aug 31 2024,21:30,CEST/+0200,CD Leganés,0-1,0-1,RCD Mallorca,2024-08-31T19:30Z
+4,Sun Sep 1 2024,17:00,CEST/+0200,CA Osasuna,3-2,2-1,RC Celta,2024-09-01T15:00Z
+4,Sun Sep 1 2024,17:00,CEST/+0200,CD Alavés,2-0,1-0,UD Las Palmas,2024-09-01T15:00Z
+4,Sun Sep 1 2024,19:00,CEST/+0200,Sevilla FC,0-2,0-1,Girona FC,2024-09-01T17:00Z
+4,Sun Sep 1 2024,19:15,CEST/+0200,Getafe CF,0-0,0-0,Real Sociedad,2024-09-01T17:15Z
+4,Sun Sep 1 2024,21:30,CEST/+0200,Real Madrid,2-0,0-0,Real Betis,2024-09-01T19:30Z
+5,Fri Sep 13 2024,21:00,CEST/+0200,Real Betis,,,CD Leganés,2024-09-13T19:00Z
+5,Sat Sep 14 2024,21:00,CEST/+0200,Real Sociedad,,,Real Madrid,2024-09-14T19:00Z
+5,Sat Sep 14 2024,14:00,CEST/+0200,RCD Mallorca,,,Villarreal CF,2024-09-14T12:00Z
+5,Sat Sep 14 2024,16:15,CEST/+0200,Espanyol Barcelona,,,CD Alavés,2024-09-14T14:15Z
+5,Sat Sep 14 2024,18:30,CEST/+0200,Sevilla FC,,,Getafe CF,2024-09-14T16:30Z
+5,Sun Sep 15 2024,21:00,CEST/+0200,Atlético Madrid,,,Valencia CF,2024-09-15T19:00Z
+5,Sun Sep 15 2024,14:00,CEST/+0200,RC Celta,,,Real Valladolid,2024-09-15T12:00Z
+5,Sun Sep 15 2024,16:15,CEST/+0200,Girona FC,,,FC Barcelona,2024-09-15T14:15Z
+5,Sun Sep 15 2024,18:30,CEST/+0200,UD Las Palmas,,,Athletic Bilbao,2024-09-15T16:30Z
+5,Mon Sep 16 2024,21:00,CEST/+0200,Rayo Vallecano,,,CA Osasuna,2024-09-16T19:00Z
+7,Tue Sep 17 2024,19:00,CEST/+0200,RCD Mallorca,,,Real Sociedad,2024-09-17T17:00Z
+3,Wed Sep 18 2024,19:00,CEST/+0200,Real Betis,,,Getafe CF,2024-09-18T17:00Z
+7,Thu Sep 19 2024,19:00,CEST/+0200,CD Leganés,,,Athletic Bilbao,2024-09-19T17:00Z
+6,Fri Sep 20 2024,21:00,CEST/+0200,CD Alavés,,,Sevilla FC,2024-09-20T19:00Z
+6,Sat Sep 21 2024,18:30,CEST/+0200,Valencia CF,,,Girona FC,2024-09-21T16:30Z
+6,Sat Sep 21 2024,16:15,CEST/+0200,CA Osasuna,,,UD Las Palmas,2024-09-21T14:15Z
+6,Sat Sep 21 2024,14:00,CEST/+0200,Real Valladolid,,,Real Sociedad,2024-09-21T12:00Z
+6,Sat Sep 21 2024,21:00,CEST/+0200,Real Madrid,,,Espanyol Barcelona,2024-09-21T19:00Z
+6,Sun Sep 22 2024,21:00,CEST/+0200,Rayo Vallecano,,,Atlético Madrid,2024-09-22T19:00Z
+6,Sun Sep 22 2024,14:00,CEST/+0200,Getafe CF,,,CD Leganés,2024-09-22T12:00Z
+6,Sun Sep 22 2024,16:15,CEST/+0200,Athletic Bilbao,,,RC Celta,2024-09-22T14:15Z
+6,Sun Sep 22 2024,18:30,CEST/+0200,Villarreal CF,,,FC Barcelona,2024-09-22T16:30Z
+6,Mon Sep 23 2024,21:00,CEST/+0200,Real Betis,,,RCD Mallorca,2024-09-23T19:00Z
+7,Tue Sep 24 2024,19:00,CEST/+0200,Valencia CF,,,CA Osasuna,2024-09-24T17:00Z
+7,Tue Sep 24 2024,21:00,CEST/+0200,Real Madrid,,,CD Alavés,2024-09-24T19:00Z
+7,Tue Sep 24 2024,19:00,CEST/+0200,Sevilla FC,,,Real Valladolid,2024-09-24T17:00Z
+7,Wed Sep 25 2024,21:00,CEST/+0200,FC Barcelona,,,Getafe CF,2024-09-25T19:00Z
+7,Wed Sep 25 2024,19:00,CEST/+0200,Girona FC,,,Rayo Vallecano,2024-09-25T17:00Z
+7,Thu Sep 26 2024,19:00,CEST/+0200,UD Las Palmas,,,Real Betis,2024-09-26T17:00Z
+7,Thu Sep 26 2024,19:00,CEST/+0200,Espanyol Barcelona,,,Villarreal CF,2024-09-26T17:00Z
+7,Thu Sep 26 2024,21:00,CEST/+0200,RC Celta,,,Atlético Madrid,2024-09-26T19:00Z
+8,Fri Sep 27 2024,21:00,CEST/+0200,Real Valladolid,,,RCD Mallorca,2024-09-27T19:00Z
+8,Sat Sep 28 2024,16:15,CEST/+0200,Rayo Vallecano,,,CD Leganés,2024-09-28T14:15Z
+8,Sat Sep 28 2024,18:30,CEST/+0200,Real Sociedad,,,Valencia CF,2024-09-28T16:30Z
+8,Sat Sep 28 2024,21:00,CEST/+0200,CA Osasuna,,,FC Barcelona,2024-09-28T19:00Z
+8,Sat Sep 28 2024,14:00,CEST/+0200,Getafe CF,,,CD Alavés,2024-09-28T12:00Z
+8,Sun Sep 29 2024,14:00,CEST/+0200,RC Celta,,,Girona FC,2024-09-29T12:00Z
+8,Sun Sep 29 2024,16:15,CEST/+0200,Athletic Bilbao,,,Sevilla FC,2024-09-29T14:15Z
+8,Sun Sep 29 2024,18:30,CEST/+0200,Real Betis,,,Espanyol Barcelona,2024-09-29T16:30Z
+8,Sun Sep 29 2024,21:00,CEST/+0200,Atlético Madrid,,,Real Madrid,2024-09-29T19:00Z
+8,Mon Sep 30 2024,21:00,CEST/+0200,Villarreal CF,,,UD Las Palmas,2024-09-30T19:00Z
+9,Sun Oct 6 2024,,,CD Leganés,,,Valencia CF,
+9,Sun Oct 6 2024,,,CD Alavés,,,FC Barcelona,
+9,Sun Oct 6 2024,,,Getafe CF,,,CA Osasuna,
+9,Sun Oct 6 2024,,,Girona FC,,,Athletic Bilbao,
+9,Sun Oct 6 2024,,,Sevilla FC,,,Real Betis,
+9,Sun Oct 6 2024,,,Real Madrid,,,Villarreal CF,
+9,Sun Oct 6 2024,,,Real Sociedad,,,Atlético Madrid,
+9,Sun Oct 6 2024,,,Real Valladolid,,,Rayo Vallecano,
+9,Sun Oct 6 2024,,,UD Las Palmas,,,RC Celta,
+9,Sun Oct 6 2024,,,Espanyol Barcelona,,,RCD Mallorca,
+10,Sun Oct 20 2024,,,Atlético Madrid,,,CD Leganés,
+10,Sun Oct 20 2024,,,CA Osasuna,,,Real Betis,
+10,Sun Oct 20 2024,,,RC Celta,,,Real Madrid,
+10,Sun Oct 20 2024,,,CD Alavés,,,Real Valladolid,
+10,Sun Oct 20 2024,,,FC Barcelona,,,Sevilla FC,
+10,Sun Oct 20 2024,,,Girona FC,,,Real Sociedad,
+10,Sun Oct 20 2024,,,Valencia CF,,,UD Las Palmas,
+10,Sun Oct 20 2024,,,Villarreal CF,,,Getafe CF,
+10,Sun Oct 20 2024,,,RCD Mallorca,,,Rayo Vallecano,
+10,Sun Oct 20 2024,,,Athletic Bilbao,,,Espanyol Barcelona,
+11,Sun Oct 27 2024,,,Real Betis,,,Atlético Madrid,
+11,Sun Oct 27 2024,,,CD Leganés,,,RC Celta,
+11,Sun Oct 27 2024,,,Getafe CF,,,Valencia CF,
+11,Sun Oct 27 2024,,,Rayo Vallecano,,,CD Alavés,
+11,Sun Oct 27 2024,,,RCD Mallorca,,,Athletic Bilbao,
+11,Sun Oct 27 2024,,,Real Madrid,,,FC Barcelona,
+11,Sun Oct 27 2024,,,Real Sociedad,,,CA Osasuna,
+11,Sun Oct 27 2024,,,Real Valladolid,,,Villarreal CF,
+11,Sun Oct 27 2024,,,UD Las Palmas,,,Girona FC,
+11,Sun Oct 27 2024,,,Espanyol Barcelona,,,Sevilla FC,
+12,Sun Nov 3 2024,,,Athletic Bilbao,,,Real Betis,
+12,Sun Nov 3 2024,,,Atlético Madrid,,,UD Las Palmas,
+12,Sun Nov 3 2024,,,CA Osasuna,,,Real Valladolid,
+12,Sun Nov 3 2024,,,RC Celta,,,Getafe CF,
+12,Sun Nov 3 2024,,,CD Alavés,,,RCD Mallorca,
+12,Sun Nov 3 2024,,,Girona FC,,,CD Leganés,
+12,Sun Nov 3 2024,,,Sevilla FC,,,Real Sociedad,
+12,Sun Nov 3 2024,,,Valencia CF,,,Real Madrid,
+12,Sun Nov 3 2024,,,Villarreal CF,,,Rayo Vallecano,
+12,Sun Nov 3 2024,,,FC Barcelona,,,Espanyol Barcelona,
+13,Sun Nov 10 2024,,,Real Betis,,,RC Celta,
+13,Sun Nov 10 2024,,,CD Leganés,,,Sevilla FC,
+13,Sun Nov 10 2024,,,Getafe CF,,,Girona FC,
+13,Sun Nov 10 2024,,,Villarreal CF,,,CD Alavés,
+13,Sun Nov 10 2024,,,Rayo Vallecano,,,UD Las Palmas,
+13,Sun Nov 10 2024,,,RCD Mallorca,,,Atlético Madrid,
+13,Sun Nov 10 2024,,,Real Madrid,,,CA Osasuna,
+13,Sun Nov 10 2024,,,Real Sociedad,,,FC Barcelona,
+13,Sun Nov 10 2024,,,Real Valladolid,,,Athletic Bilbao,
+13,Sun Nov 10 2024,,,Espanyol Barcelona,,,Valencia CF,
+14,Sun Nov 24 2024,,,Athletic Bilbao,,,Real Sociedad,
+14,Sun Nov 24 2024,,,Atlético Madrid,,,CD Alavés,
+14,Sun Nov 24 2024,,,CA Osasuna,,,Villarreal CF,
+14,Sun Nov 24 2024,,,CD Leganés,,,Real Madrid,
+14,Sun Nov 24 2024,,,RC Celta,,,FC Barcelona,
+14,Sun Nov 24 2024,,,Getafe CF,,,Real Valladolid,
+14,Sun Nov 24 2024,,,Sevilla FC,,,Rayo Vallecano,
+14,Sun Nov 24 2024,,,Valencia CF,,,Real Betis,
+14,Sun Nov 24 2024,,,UD Las Palmas,,,RCD Mallorca,
+14,Sun Nov 24 2024,,,Girona FC,,,Espanyol Barcelona,
+15,Sun Dec 1 2024,,,CD Alavés,,,CD Leganés,
+15,Sun Dec 1 2024,,,FC Barcelona,,,UD Las Palmas,
+15,Sun Dec 1 2024,,,Sevilla FC,,,CA Osasuna,
+15,Sun Dec 1 2024,,,Villarreal CF,,,Girona FC,
+15,Sun Dec 1 2024,,,Rayo Vallecano,,,Athletic Bilbao,
+15,Sun Dec 1 2024,,,RCD Mallorca,,,Valencia CF,
+15,Sun Dec 1 2024,,,Real Madrid,,,Getafe CF,
+15,Sun Dec 1 2024,,,Real Sociedad,,,Real Betis,
+15,Sun Dec 1 2024,,,Real Valladolid,,,Atlético Madrid,
+15,Sun Dec 1 2024,,,Espanyol Barcelona,,,RC Celta,
+16,Sun Dec 8 2024,,,Athletic Bilbao,,,Villarreal CF,
+16,Sun Dec 8 2024,,,Atlético Madrid,,,Sevilla FC,
+16,Sun Dec 8 2024,,,Real Betis,,,FC Barcelona,
+16,Sun Dec 8 2024,,,CA Osasuna,,,CD Alavés,
+16,Sun Dec 8 2024,,,CD Leganés,,,Real Sociedad,
+16,Sun Dec 8 2024,,,RC Celta,,,RCD Mallorca,
+16,Sun Dec 8 2024,,,Girona FC,,,Real Madrid,
+16,Sun Dec 8 2024,,,Valencia CF,,,Rayo Vallecano,
+16,Sun Dec 8 2024,,,UD Las Palmas,,,Real Valladolid,
+16,Sun Dec 8 2024,,,Getafe CF,,,Espanyol Barcelona,
+17,Sun Dec 15 2024,,,Atlético Madrid,,,Getafe CF,
+17,Sun Dec 15 2024,,,CD Alavés,,,Athletic Bilbao,
+17,Sun Dec 15 2024,,,FC Barcelona,,,CD Leganés,
+17,Sun Dec 15 2024,,,Sevilla FC,,,RC Celta,
+17,Sun Dec 15 2024,,,Villarreal CF,,,Real Betis,
+17,Sun Dec 15 2024,,,Rayo Vallecano,,,Real Madrid,
+17,Sun Dec 15 2024,,,RCD Mallorca,,,Girona FC,
+17,Sun Dec 15 2024,,,Real Sociedad,,,UD Las Palmas,
+17,Sun Dec 15 2024,,,Real Valladolid,,,Valencia CF,
+17,Sun Dec 15 2024,,,Espanyol Barcelona,,,CA Osasuna,
+18,Sun Dec 22 2024,,,Real Betis,,,Rayo Vallecano,
+18,Sun Dec 22 2024,,,CA Osasuna,,,Athletic Bilbao,
+18,Sun Dec 22 2024,,,CD Leganés,,,Villarreal CF,
+18,Sun Dec 22 2024,,,RC Celta,,,Real Sociedad,
+18,Sun Dec 22 2024,,,FC Barcelona,,,Atlético Madrid,
+18,Sun Dec 22 2024,,,Getafe CF,,,RCD Mallorca,
+18,Sun Dec 22 2024,,,Girona FC,,,Real Valladolid,
+18,Sun Dec 22 2024,,,Valencia CF,,,CD Alavés,
+18,Sun Dec 22 2024,,,Real Madrid,,,Sevilla FC,
+18,Sun Dec 22 2024,,,UD Las Palmas,,,Espanyol Barcelona,
+19,Sat Jan 11 2025,,,Espanyol Barcelona,,,CD Leganés,
+19,Sun Jan 12 2025,,,Athletic Bilbao,,,Real Madrid,
+19,Sun Jan 12 2025,,,Atlético Madrid,,,CA Osasuna,
+19,Sun Jan 12 2025,,,CD Alavés,,,Girona FC,
+19,Sun Jan 12 2025,,,Sevilla FC,,,Valencia CF,
+19,Sun Jan 12 2025,,,Rayo Vallecano,,,RC Celta,
+19,Sun Jan 12 2025,,,RCD Mallorca,,,FC Barcelona,
+19,Sun Jan 12 2025,,,Real Sociedad,,,Villarreal CF,
+19,Sun Jan 12 2025,,,Real Valladolid,,,Real Betis,
+19,Sun Jan 12 2025,,,UD Las Palmas,,,Getafe CF,
+20,Sun Jan 19 2025,,,Real Betis,,,CD Alavés,
+20,Sun Jan 19 2025,,,CA Osasuna,,,Rayo Vallecano,
+20,Sun Jan 19 2025,,,CD Leganés,,,Atlético Madrid,
+20,Sun Jan 19 2025,,,RC Celta,,,Athletic Bilbao,
+20,Sun Jan 19 2025,,,Getafe CF,,,FC Barcelona,
+20,Sun Jan 19 2025,,,Girona FC,,,Sevilla FC,
+20,Sun Jan 19 2025,,,Valencia CF,,,Real Sociedad,
+20,Sun Jan 19 2025,,,Villarreal CF,,,RCD Mallorca,
+20,Sun Jan 19 2025,,,Real Madrid,,,UD Las Palmas,
+20,Sun Jan 19 2025,,,Espanyol Barcelona,,,Real Valladolid,
+21,Sun Jan 26 2025,,,Athletic Bilbao,,,CD Leganés,
+21,Sun Jan 26 2025,,,Atlético Madrid,,,Villarreal CF,
+21,Sun Jan 26 2025,,,CD Alavés,,,RC Celta,
+21,Sun Jan 26 2025,,,FC Barcelona,,,Valencia CF,
+21,Sun Jan 26 2025,,,Rayo Vallecano,,,Girona FC,
+21,Sun Jan 26 2025,,,RCD Mallorca,,,Real Betis,
+21,Sun Jan 26 2025,,,Real Sociedad,,,Getafe CF,
+21,Sun Jan 26 2025,,,Real Valladolid,,,Real Madrid,
+21,Sun Jan 26 2025,,,UD Las Palmas,,,CA Osasuna,
+21,Sun Jan 26 2025,,,Sevilla FC,,,Espanyol Barcelona,
+22,Sun Feb 2 2025,,,Atlético Madrid,,,RCD Mallorca,
+22,Sun Feb 2 2025,,,Real Betis,,,Athletic Bilbao,
+22,Sun Feb 2 2025,,,CA Osasuna,,,Real Sociedad,
+22,Sun Feb 2 2025,,,CD Leganés,,,Rayo Vallecano,
+22,Sun Feb 2 2025,,,FC Barcelona,,,CD Alavés,
+22,Sun Feb 2 2025,,,Getafe CF,,,Sevilla FC,
+22,Sun Feb 2 2025,,,Girona FC,,,UD Las Palmas,
+22,Sun Feb 2 2025,,,Valencia CF,,,RC Celta,
+22,Sun Feb 2 2025,,,Villarreal CF,,,Real Valladolid,
+22,Sun Feb 2 2025,,,Espanyol Barcelona,,,Real Madrid,
+23,Sun Feb 9 2025,,,Athletic Bilbao,,,Girona FC,
+23,Sun Feb 9 2025,,,RC Celta,,,Real Betis,
+23,Sun Feb 9 2025,,,CD Alavés,,,Getafe CF,
+23,Sun Feb 9 2025,,,Sevilla FC,,,FC Barcelona,
+23,Sun Feb 9 2025,,,Valencia CF,,,CD Leganés,
+23,Sun Feb 9 2025,,,Rayo Vallecano,,,Real Valladolid,
+23,Sun Feb 9 2025,,,RCD Mallorca,,,CA Osasuna,
+23,Sun Feb 9 2025,,,Real Madrid,,,Atlético Madrid,
+23,Sun Feb 9 2025,,,UD Las Palmas,,,Villarreal CF,
+23,Sun Feb 9 2025,,,Real Sociedad,,,Espanyol Barcelona,
+24,Sun Feb 16 2025,,,Atlético Madrid,,,RC Celta,
+24,Sun Feb 16 2025,,,Real Betis,,,Real Sociedad,
+24,Sun Feb 16 2025,,,CA Osasuna,,,Real Madrid,
+24,Sun Feb 16 2025,,,CD Leganés,,,CD Alavés,
+24,Sun Feb 16 2025,,,FC Barcelona,,,Rayo Vallecano,
+24,Sun Feb 16 2025,,,Girona FC,,,Getafe CF,
+24,Sun Feb 16 2025,,,Villarreal CF,,,Valencia CF,
+24,Sun Feb 16 2025,,,RCD Mallorca,,,UD Las Palmas,
+24,Sun Feb 16 2025,,,Real Valladolid,,,Sevilla FC,
+24,Sun Feb 16 2025,,,Espanyol Barcelona,,,Athletic Bilbao,
+25,Sun Feb 23 2025,,,Athletic Bilbao,,,Real Valladolid,
+25,Sun Feb 23 2025,,,RC Celta,,,CA Osasuna,
+25,Sun Feb 23 2025,,,Getafe CF,,,Real Betis,
+25,Sun Feb 23 2025,,,Sevilla FC,,,RCD Mallorca,
+25,Sun Feb 23 2025,,,Valencia CF,,,Atlético Madrid,
+25,Sun Feb 23 2025,,,Rayo Vallecano,,,Villarreal CF,
+25,Sun Feb 23 2025,,,Real Madrid,,,Girona FC,
+25,Sun Feb 23 2025,,,Real Sociedad,,,CD Leganés,
+25,Sun Feb 23 2025,,,UD Las Palmas,,,FC Barcelona,
+25,Sun Feb 23 2025,,,CD Alavés,,,Espanyol Barcelona,
+26,Sun Mar 2 2025,,,Atlético Madrid,,,Athletic Bilbao,
+26,Sun Mar 2 2025,,,Real Betis,,,Real Madrid,
+26,Sun Mar 2 2025,,,CA Osasuna,,,Valencia CF,
+26,Sun Mar 2 2025,,,CD Leganés,,,Getafe CF,
+26,Sun Mar 2 2025,,,FC Barcelona,,,Real Sociedad,
+26,Sun Mar 2 2025,,,Girona FC,,,RC Celta,
+26,Sun Mar 2 2025,,,Rayo Vallecano,,,Sevilla FC,
+26,Sun Mar 2 2025,,,RCD Mallorca,,,CD Alavés,
+26,Sun Mar 2 2025,,,Real Valladolid,,,UD Las Palmas,
+26,Sun Mar 2 2025,,,Villarreal CF,,,Espanyol Barcelona,
+27,Sun Mar 9 2025,,,Athletic Bilbao,,,RCD Mallorca,
+27,Sun Mar 9 2025,,,Real Betis,,,UD Las Palmas,
+27,Sun Mar 9 2025,,,RC Celta,,,CD Leganés,
+27,Sun Mar 9 2025,,,CD Alavés,,,Villarreal CF,
+27,Sun Mar 9 2025,,,FC Barcelona,,,CA Osasuna,
+27,Sun Mar 9 2025,,,Getafe CF,,,Atlético Madrid,
+27,Sun Mar 9 2025,,,Valencia CF,,,Real Valladolid,
+27,Sun Mar 9 2025,,,Real Madrid,,,Rayo Vallecano,
+27,Sun Mar 9 2025,,,Real Sociedad,,,Sevilla FC,
+27,Sun Mar 9 2025,,,Espanyol Barcelona,,,Girona FC,
+28,Sun Mar 16 2025,,,Atlético Madrid,,,FC Barcelona,
+28,Sun Mar 16 2025,,,CA Osasuna,,,Getafe CF,
+28,Sun Mar 16 2025,,,CD Leganés,,,Real Betis,
+28,Sun Mar 16 2025,,,Girona FC,,,Valencia CF,
+28,Sun Mar 16 2025,,,Sevilla FC,,,Athletic Bilbao,
+28,Sun Mar 16 2025,,,Villarreal CF,,,Real Madrid,
+28,Sun Mar 16 2025,,,Rayo Vallecano,,,Real Sociedad,
+28,Sun Mar 16 2025,,,Real Valladolid,,,RC Celta,
+28,Sun Mar 16 2025,,,UD Las Palmas,,,CD Alavés,
+28,Sun Mar 16 2025,,,RCD Mallorca,,,Espanyol Barcelona,
+29,Sun Mar 30 2025,,,Athletic Bilbao,,,CA Osasuna,
+29,Sun Mar 30 2025,,,Real Betis,,,Sevilla FC,
+29,Sun Mar 30 2025,,,RC Celta,,,UD Las Palmas,
+29,Sun Mar 30 2025,,,CD Alavés,,,Rayo Vallecano,
+29,Sun Mar 30 2025,,,FC Barcelona,,,Girona FC,
+29,Sun Mar 30 2025,,,Getafe CF,,,Villarreal CF,
+29,Sun Mar 30 2025,,,Valencia CF,,,RCD Mallorca,
+29,Sun Mar 30 2025,,,Real Madrid,,,CD Leganés,
+29,Sun Mar 30 2025,,,Real Sociedad,,,Real Valladolid,
+29,Sun Mar 30 2025,,,Espanyol Barcelona,,,Atlético Madrid,
+30,Sun Apr 6 2025,,,CD Leganés,,,CA Osasuna,
+30,Sun Apr 6 2025,,,FC Barcelona,,,Real Betis,
+30,Sun Apr 6 2025,,,Girona FC,,,CD Alavés,
+30,Sun Apr 6 2025,,,Sevilla FC,,,Atlético Madrid,
+30,Sun Apr 6 2025,,,Villarreal CF,,,Athletic Bilbao,
+30,Sun Apr 6 2025,,,RCD Mallorca,,,RC Celta,
+30,Sun Apr 6 2025,,,Real Madrid,,,Valencia CF,
+30,Sun Apr 6 2025,,,Real Valladolid,,,Getafe CF,
+30,Sun Apr 6 2025,,,UD Las Palmas,,,Real Sociedad,
+30,Sun Apr 6 2025,,,Rayo Vallecano,,,Espanyol Barcelona,
+31,Sun Apr 13 2025,,,Athletic Bilbao,,,Rayo Vallecano,
+31,Sun Apr 13 2025,,,Atlético Madrid,,,Real Valladolid,
+31,Sun Apr 13 2025,,,Real Betis,,,Villarreal CF,
+31,Sun Apr 13 2025,,,CA Osasuna,,,Girona FC,
+31,Sun Apr 13 2025,,,CD Leganés,,,FC Barcelona,
+31,Sun Apr 13 2025,,,CD Alavés,,,Real Madrid,
+31,Sun Apr 13 2025,,,Getafe CF,,,UD Las Palmas,
+31,Sun Apr 13 2025,,,Valencia CF,,,Sevilla FC,
+31,Sun Apr 13 2025,,,Real Sociedad,,,RCD Mallorca,
+31,Sun Apr 13 2025,,,RC Celta,,,Espanyol Barcelona,
+32,Sun Apr 20 2025,,,FC Barcelona,,,RC Celta,
+32,Sun Apr 20 2025,,,Girona FC,,,Real Betis,
+32,Sun Apr 20 2025,,,Sevilla FC,,,CD Alavés,
+32,Sun Apr 20 2025,,,Villarreal CF,,,Real Sociedad,
+32,Sun Apr 20 2025,,,Rayo Vallecano,,,Valencia CF,
+32,Sun Apr 20 2025,,,RCD Mallorca,,,CD Leganés,
+32,Sun Apr 20 2025,,,Real Madrid,,,Athletic Bilbao,
+32,Sun Apr 20 2025,,,Real Valladolid,,,CA Osasuna,
+32,Sun Apr 20 2025,,,UD Las Palmas,,,Atlético Madrid,
+32,Sun Apr 20 2025,,,Espanyol Barcelona,,,Getafe CF,
+33,Wed Apr 23 2025,,,Athletic Bilbao,,,UD Las Palmas,
+33,Wed Apr 23 2025,,,Atlético Madrid,,,Rayo Vallecano,
+33,Wed Apr 23 2025,,,Real Betis,,,Real Valladolid,
+33,Wed Apr 23 2025,,,CA Osasuna,,,Sevilla FC,
+33,Wed Apr 23 2025,,,CD Leganés,,,Girona FC,
+33,Wed Apr 23 2025,,,RC Celta,,,Villarreal CF,
+33,Wed Apr 23 2025,,,CD Alavés,,,Real Sociedad,
+33,Wed Apr 23 2025,,,FC Barcelona,,,RCD Mallorca,
+33,Wed Apr 23 2025,,,Getafe CF,,,Real Madrid,
+33,Wed Apr 23 2025,,,Valencia CF,,,Espanyol Barcelona,
+34,Sun May 4 2025,,,CD Alavés,,,Atlético Madrid,
+34,Sun May 4 2025,,,Girona FC,,,RCD Mallorca,
+34,Sun May 4 2025,,,Sevilla FC,,,CD Leganés,
+34,Sun May 4 2025,,,Villarreal CF,,,CA Osasuna,
+34,Sun May 4 2025,,,Rayo Vallecano,,,Getafe CF,
+34,Sun May 4 2025,,,Real Madrid,,,RC Celta,
+34,Sun May 4 2025,,,Real Sociedad,,,Athletic Bilbao,
+34,Sun May 4 2025,,,Real Valladolid,,,FC Barcelona,
+34,Sun May 4 2025,,,UD Las Palmas,,,Valencia CF,
+34,Sun May 4 2025,,,Espanyol Barcelona,,,Real Betis,
+35,Sun May 11 2025,,,Athletic Bilbao,,,CD Alavés,
+35,Sun May 11 2025,,,Atlético Madrid,,,Real Sociedad,
+35,Sun May 11 2025,,,Real Betis,,,CA Osasuna,
+35,Sun May 11 2025,,,RC Celta,,,Sevilla FC,
+35,Sun May 11 2025,,,FC Barcelona,,,Real Madrid,
+35,Sun May 11 2025,,,Girona FC,,,Villarreal CF,
+35,Sun May 11 2025,,,Valencia CF,,,Getafe CF,
+35,Sun May 11 2025,,,RCD Mallorca,,,Real Valladolid,
+35,Sun May 11 2025,,,UD Las Palmas,,,Rayo Vallecano,
+35,Sun May 11 2025,,,CD Leganés,,,Espanyol Barcelona,
+36,Wed May 14 2025,,,CA Osasuna,,,Atlético Madrid,
+36,Wed May 14 2025,,,CD Alavés,,,Valencia CF,
+36,Wed May 14 2025,,,Getafe CF,,,Athletic Bilbao,
+36,Wed May 14 2025,,,Sevilla FC,,,UD Las Palmas,
+36,Wed May 14 2025,,,Villarreal CF,,,CD Leganés,
+36,Wed May 14 2025,,,Rayo Vallecano,,,Real Betis,
+36,Wed May 14 2025,,,Real Madrid,,,RCD Mallorca,
+36,Wed May 14 2025,,,Real Sociedad,,,RC Celta,
+36,Wed May 14 2025,,,Real Valladolid,,,Girona FC,
+36,Wed May 14 2025,,,Espanyol Barcelona,,,FC Barcelona,
+37,Sun May 18 2025,,,Atlético Madrid,,,Real Betis,
+37,Sun May 18 2025,,,RC Celta,,,Rayo Vallecano,
+37,Sun May 18 2025,,,FC Barcelona,,,Villarreal CF,
+37,Sun May 18 2025,,,Sevilla FC,,,Real Madrid,
+37,Sun May 18 2025,,,Valencia CF,,,Athletic Bilbao,
+37,Sun May 18 2025,,,RCD Mallorca,,,Getafe CF,
+37,Sun May 18 2025,,,Real Sociedad,,,Girona FC,
+37,Sun May 18 2025,,,Real Valladolid,,,CD Alavés,
+37,Sun May 18 2025,,,UD Las Palmas,,,CD Leganés,
+37,Sun May 18 2025,,,CA Osasuna,,,Espanyol Barcelona,
+38,Sun May 25 2025,,,Athletic Bilbao,,,FC Barcelona,
+38,Sun May 25 2025,,,Real Betis,,,Valencia CF,
+38,Sun May 25 2025,,,CD Leganés,,,Real Valladolid,
+38,Sun May 25 2025,,,CD Alavés,,,CA Osasuna,
+38,Sun May 25 2025,,,Getafe CF,,,RC Celta,
+38,Sun May 25 2025,,,Girona FC,,,Atlético Madrid,
+38,Sun May 25 2025,,,Villarreal CF,,,Sevilla FC,
+38,Sun May 25 2025,,,Rayo Vallecano,,,RCD Mallorca,
+38,Sun May 25 2025,,,Real Madrid,,,Real Sociedad,
+38,Sun May 25 2025,,,Espanyol Barcelona,,,UD Las Palmas,

@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Feb 16 2024,21:30,-03/-0300,Ñublense,0-0,0-0,Coquimbo Unido,,2024-02-17T00:30Z
+1,Sat Feb 17 2024,20:30,-03/-0300,Copiapó,1-3,0-2,O'Higgins,,2024-02-17T23:30Z
+1,Sat Feb 17 2024,18:00,-03/-0300,Unión Española,0-3,0-2,Colo-Colo,,2024-02-17T21:00Z
+1,Sun Feb 18 2024,20:30,-03/-0300,Cobreloa,1-1,1-1,Huachipato,,2024-02-18T23:30Z
+1,Mon Feb 19 2024,20:00,-03/-0300,Audax Italiano,2-3,1-1,Deportes Iquique,,2024-02-19T23:00Z
+2,Fri Feb 23 2024,21:30,-03/-0300,Coquimbo Unido,3-1,1-1,Copiapó,,2024-02-24T00:30Z
+2,Fri Feb 23 2024,19:00,-03/-0300,Universidad Católica,0-1,0-0,Ñublense,,2024-02-23T22:00Z
+2,Sat Feb 24 2024,18:00,-03/-0300,Universidad de Chile,1-0,0-0,Audax Italiano,,2024-02-24T21:00Z
+2,Sat Feb 24 2024,18:00,-03/-0300,Palestino,5-0,3-0,Cobreloa,,2024-02-24T21:00Z
+2,Sun Feb 25 2024,20:30,-03/-0300,Cobresal,2-2,1-1,Unión Española,,2024-02-25T23:30Z
+2,Sun Feb 25 2024,18:00,-03/-0300,O'Higgins,1-0,1-0,Colo-Colo,,2024-02-25T21:00Z
+2,Sun Feb 25 2024,12:00,-03/-0300,Deportes Iquique,1-1,1-1,Everton,,2024-02-25T15:00Z
+2,Sun Feb 25 2024,12:00,-03/-0300,Huachipato,0-1,0-0,Unión La Calera,,2024-02-25T15:00Z
+3,Fri Mar 1 2024,20:30,-03/-0300,Cobreloa,2-1,0-0,Cobresal,,2024-03-01T23:30Z
+3,Sat Mar 2 2024,18:00,-03/-0300,O'Higgins,2-1,1-1,Everton,,2024-03-02T21:00Z
+3,Sat Mar 2 2024,20:30,-03/-0300,Unión Española,1-0,1-0,Coquimbo Unido,,2024-03-02T23:30Z
+3,Sat Mar 2 2024,20:30,-03/-0300,Ñublense,1-2,0-1,Audax Italiano,,2024-03-02T23:30Z
+3,Sat Mar 2 2024,18:00,-03/-0300,Palestino,0-2,0-1,Universidad Católica,,2024-03-02T21:00Z
+3,Sun Mar 3 2024,20:30,-03/-0300,Unión La Calera,1-3,0-1,Deportes Iquique,,2024-03-03T23:30Z
+3,Sun Mar 3 2024,18:00,-03/-0300,Colo-Colo,2-0,0-0,Huachipato,,2024-03-03T21:00Z
+3,Mon Mar 4 2024,19:00,-03/-0300,Copiapó,1-3,1-1,Universidad de Chile,,2024-03-04T22:00Z
+4,Sat Mar 9 2024,20:30,-03/-0300,Unión Española,3-0,1-0,Audax Italiano,,2024-03-09T23:30Z
+4,Sat Mar 9 2024,20:25,-03/-0300,O'Higgins,0-1,0-0,Palestino,,2024-03-09T23:25Z
+4,Sat Mar 9 2024,18:00,-03/-0300,Cobresal,1-2,0-2,Huachipato,,2024-03-09T21:00Z
+4,Sun Mar 10 2024,18:00,-03/-0300,Colo-Colo,0-1,0-1,Universidad de Chile,,2024-03-10T21:00Z
+4,Sun Mar 10 2024,12:00,-03/-0300,Deportes Iquique,4-2,2-1,Coquimbo Unido,,2024-03-10T15:00Z
+4,Sun Mar 10 2024,21:00,-03/-0300,Ñublense,1-0,0-0,Copiapó,,2024-03-11T00:00Z
+4,Mon Mar 11 2024,21:30,-03/-0300,Unión La Calera,0-2,0-0,Cobreloa,,2024-03-12T00:30Z
+4,Mon Mar 11 2024,19:00,-03/-0300,Universidad Católica,2-4,1-2,Everton,,2024-03-11T22:00Z
+5,Fri Mar 15 2024,20:30,-03/-0300,Deportes Iquique,1-0,0-0,Cobresal,,2024-03-15T23:30Z
+5,Sat Mar 16 2024,12:00,-03/-0300,Everton,3-2,2-1,Ñublense,,2024-03-16T15:00Z
+5,Sat Mar 16 2024,20:30,-03/-0300,Cobreloa,1-0,0-0,Unión Española,,2024-03-16T23:30Z
+5,Sat Mar 16 2024,18:00,-03/-0300,Universidad de Chile,1-0,1-0,O'Higgins,,2024-03-16T21:00Z
+5,Sun Mar 17 2024,20:30,-03/-0300,Universidad Católica,0-0,0-0,Audax Italiano,,2024-03-17T23:30Z
+5,Sun Mar 17 2024,18:00,-03/-0300,Palestino,0-0,0-0,Unión La Calera,,2024-03-17T21:00Z
+5,Sun Mar 17 2024,12:00,-03/-0300,Coquimbo Unido,0-0,0-0,Colo-Colo,,2024-03-17T15:00Z
+5,Sun Mar 17 2024,12:00,-03/-0300,Huachipato,2-1,2-1,Copiapó,,2024-03-17T15:00Z
+1,Fri Mar 22 2024,19:00,-03/-0300,Unión La Calera,0-0,0-0,Universidad Católica,,2024-03-22T22:00Z
+1,Sat Mar 23 2024,18:00,-03/-0300,Everton,0-0,0-0,Palestino,,2024-03-23T21:00Z
+1,Mon Mar 25 2024,19:00,-03/-0300,Universidad de Chile,2-2,1-1,Cobresal,,2024-03-25T22:00Z
+6,Thu Mar 28 2024,20:30,-03/-0300,O'Higgins,0-3,0-1,Deportes Iquique,,2024-03-28T23:30Z
+6,Thu Mar 28 2024,18:00,-03/-0300,Audax Italiano,0-1,0-1,Coquimbo Unido,,2024-03-28T21:00Z
+6,Fri Mar 29 2024,20:30,-03/-0300,Cobresal,0-2,0-0,Palestino,,2024-03-29T23:30Z
+6,Sat Mar 30 2024,18:00,-03/-0300,Colo-Colo,4-1,1-1,Everton,,2024-03-30T21:00Z
+6,Sat Mar 30 2024,20:30,-03/-0300,Copiapó,2-0,1-0,Unión La Calera,,2024-03-30T23:30Z
+6,Sat Mar 30 2024,12:00,-03/-0300,Huachipato,0-0,0-0,Universidad Católica,,2024-03-30T15:00Z
+6,Sun Mar 31 2024,20:30,-03/-0300,Unión Española,5-3,2-1,Ñublense,,2024-03-31T23:30Z
+6,Sun Mar 31 2024,18:00,-03/-0300,Cobreloa,1-3,0-1,Universidad de Chile,,2024-03-31T21:00Z
+7,Sat Apr 6 2024,12:30,-03/-0300,Copiapó,3-0,2-0,Deportes Iquique,,2024-04-06T15:30Z
+7,Sat Apr 6 2024,15:00,-03/-0300,Ñublense,3-0,1-0,Colo-Colo,,2024-04-06T18:00Z
+7,Sat Apr 6 2024,17:30,-03/-0300,Universidad Católica,2-0,2-0,Cobresal,,2024-04-06T20:30Z
+7,Sat Apr 6 2024,20:00,-03/-0300,Everton,2-0,0-0,Audax Italiano,,2024-04-06T23:00Z
+7,Sun Apr 7 2024,17:30,-04/-0400,Coquimbo Unido,2-1,1-1,Cobreloa,,2024-04-07T21:30Z
+7,Sun Apr 7 2024,20:00,-04/-0400,Unión Española,0-1,0-0,Universidad de Chile,,2024-04-08T00:00Z
+7,Sun Apr 7 2024,15:00,-04/-0400,Unión La Calera,2-3,0-1,O'Higgins,,2024-04-07T19:00Z
+8,Sat Apr 13 2024,17:30,-04/-0400,Unión Española,4-2,1-0,Everton,,2024-04-13T21:30Z
+8,Sat Apr 13 2024,20:00,-04/-0400,Deportes Iquique,2-3,1-2,Universidad Católica,,2024-04-14T00:00Z
+8,Sun Apr 14 2024,20:00,-04/-0400,Audax Italiano,2-2,1-1,Unión La Calera,,2024-04-15T00:00Z
+8,Sun Apr 14 2024,12:30,-04/-0400,Universidad de Chile,1-1,0-0,Coquimbo Unido,,2024-04-14T16:30Z
+8,Sun Apr 14 2024,12:30,-04/-0400,O'Higgins,0-0,0-0,Huachipato,,2024-04-14T16:30Z
+8,Sun Apr 14 2024,15:00,-04/-0400,Ñublense,0-2,0-1,Palestino,,2024-04-14T19:00Z
+8,Mon Apr 15 2024,18:00,-04/-0400,Cobresal,3-0,1-0,Copiapó,,2024-04-15T22:00Z
+8,Mon Apr 15 2024,20:30,-04/-0400,Colo-Colo,0-2,0-1,Cobreloa,,2024-04-16T00:30Z
+7,Wed Apr 17 2024,15:30,-04/-0400,Palestino,2-0,2-0,Huachipato,,2024-04-17T19:30Z
+9,Fri Apr 19 2024,20:30,-04/-0400,Unión La Calera,0-1,0-0,Everton,,2024-04-20T00:30Z
+9,Sat Apr 20 2024,15:00,-04/-0400,Cobresal,2-2,1-2,Ñublense,,2024-04-20T19:00Z
+9,Sat Apr 20 2024,17:30,-04/-0400,Universidad Católica,0-1,0-1,Colo-Colo,,2024-04-20T21:30Z
+9,Sat Apr 20 2024,20:30,-04/-0400,Coquimbo Unido,2-0,2-0,O'Higgins,,2024-04-21T00:30Z
+9,Sun Apr 21 2024,15:00,-04/-0400,Palestino,2-2,1-1,Universidad de Chile,,2024-04-21T19:00Z
+9,Sun Apr 21 2024,17:30,-04/-0400,Unión Española,5-3,3-1,Copiapó,,2024-04-21T21:30Z
+9,Sun Apr 21 2024,20:00,-04/-0400,Cobreloa,0-3,0-2,Audax Italiano,,2024-04-22T00:00Z
+9,Sun Apr 21 2024,12:30,-04/-0400,Huachipato,2-1,1-1,Deportes Iquique,,2024-04-21T16:30Z
+10,Fri Apr 26 2024,19:00,-04/-0400,O'Higgins,2-2,1-1,Unión Española,,2024-04-26T23:00Z
+10,Sat Apr 27 2024,15:00,-04/-0400,Copiapó,0-1,0-0,Universidad Católica,,2024-04-27T19:00Z
+10,Sat Apr 27 2024,17:30,-04/-0400,Ñublense,6-0,5-0,Cobreloa,,2024-04-27T21:30Z
+10,Sun Apr 28 2024,15:00,-04/-0400,Huachipato,0-4,0-2,Universidad de Chile,,2024-04-28T19:00Z
+10,Sun Apr 28 2024,18:10,-04/-0400,Colo-Colo,3-1,1-1,Unión La Calera,,2024-04-28T22:10Z
+10,Sun Apr 28 2024,20:30,-04/-0400,Deportes Iquique,2-1,1-0,Palestino,,2024-04-29T00:30Z
+10,Sun Apr 28 2024,12:30,-04/-0400,Everton,1-2,0-0,Coquimbo Unido,,2024-04-28T16:30Z
+10,Mon Apr 29 2024,20:30,-04/-0400,Audax Italiano,0-1,0-0,Cobresal,,2024-04-30T00:30Z
+11,Fri May 3 2024,15:30,-04/-0400,Palestino,3-1,3-1,Copiapó,,2024-05-03T19:30Z
+11,Fri May 3 2024,19:00,-04/-0400,Coquimbo Unido,3-1,2-0,Huachipato,,2024-05-03T23:00Z
+11,Sat May 4 2024,20:00,-04/-0400,Unión Española,1-2,0-0,Universidad Católica,,2024-05-05T00:00Z
+11,Sat May 4 2024,15:00,-04/-0400,Cobresal,2-2,1-2,Colo-Colo,,2024-05-04T19:00Z
+11,Sun May 5 2024,15:00,-04/-0400,Universidad de Chile,2-2,0-1,Deportes Iquique,,2024-05-05T19:00Z
+11,Sun May 5 2024,17:30,-04/-0400,Cobreloa,1-2,0-2,Everton,,2024-05-05T21:30Z
+11,Sun May 5 2024,20:00,-04/-0400,O'Higgins,0-5,0-2,Audax Italiano,,2024-05-06T00:00Z
+11,Sun May 5 2024,12:30,-04/-0400,Unión La Calera,2-1,0-0,Ñublense,,2024-05-05T16:30Z
+12,Sat May 11 2024,12:30,-04/-0400,Huachipato,2-2,1-1,Unión Española,,2024-05-11T16:30Z
+12,Sat May 11 2024,17:30,-04/-0400,Universidad Católica,3-2,3-1,O'Higgins,,2024-05-11T21:30Z
+12,Sat May 11 2024,20:00,-04/-0400,Everton,3-3,2-2,Cobresal,,2024-05-12T00:00Z
+12,Sun May 12 2024,15:00,-04/-0400,Audax Italiano,1-4,1-3,Colo-Colo,,2024-05-12T19:00Z
+12,Sun May 12 2024,20:00,-04/-0400,Deportes Iquique,2-1,1-0,Ñublense,,2024-05-13T00:00Z
+12,Sun May 12 2024,12:30,-04/-0400,Copiapó,4-0,2-0,Cobreloa,,2024-05-12T16:30Z
+12,Mon May 13 2024,19:00,-04/-0400,Unión La Calera,1-3,1-1,Universidad de Chile,,2024-05-13T23:00Z
+13,Sat May 18 2024,17:30,-04/-0400,Universidad de Chile,1-2,1-1,Universidad Católica,,2024-05-18T21:30Z
+13,Sat May 18 2024,12:30,-04/-0400,Everton,1-0,1-0,Copiapó,,2024-05-18T16:30Z
+13,Sat May 18 2024,15:00,-04/-0400,Cobreloa,2-2,0-2,Deportes Iquique,,2024-05-18T19:00Z
+13,Sun May 19 2024,12:30,-04/-0400,Ñublense,2-2,2-0,O'Higgins,,2024-05-19T16:30Z
+13,Sun May 19 2024,17:30,-04/-0400,Colo-Colo,2-0,1-0,Palestino,,2024-05-19T21:30Z
+13,Mon May 20 2024,18:00,-04/-0400,Cobresal,2-3,1-2,Coquimbo Unido,,2024-05-20T22:00Z
+13,Mon May 20 2024,20:30,-04/-0400,Huachipato,0-1,0-1,Audax Italiano,,2024-05-21T00:30Z
+14,Fri May 24 2024,19:00,-04/-0400,Unión La Calera,1-2,1-1,Coquimbo Unido,,2024-05-24T23:00Z
+14,Fri May 24 2024,15:30,-04/-0400,Palestino,0-1,0-0,Unión Española,,2024-05-24T19:30Z
+14,Sat May 25 2024,17:30,-04/-0400,Universidad Católica,4-1,1-1,Cobreloa,,2024-05-25T21:30Z
+14,Sat May 25 2024,12:30,-04/-0400,Huachipato,1-0,1-0,Everton,,2024-05-25T16:30Z
+14,Sat May 25 2024,15:00,-04/-0400,Deportes Iquique,0-3,0-0,Colo-Colo,,2024-05-25T19:00Z
+14,Sat May 25 2024,20:00,-04/-0400,O'Higgins,2-2,0-1,Cobresal,,2024-05-26T00:00Z
+14,Sun May 26 2024,15:00,-04/-0400,Copiapó,2-1,1-1,Audax Italiano,,2024-05-26T19:00Z
+14,Sun May 26 2024,17:30,-04/-0400,Universidad de Chile,0-0,0-0,Ñublense,,2024-05-26T21:30Z
+15,Fri May 31 2024,20:30,-04/-0400,Cobreloa,0-4,0-2,O'Higgins,,2024-06-01T00:30Z
+15,Sat Jun 1 2024,17:30,-04/-0400,Unión Española,4-3,4-0,Deportes Iquique,,2024-06-01T21:30Z
+15,Sat Jun 1 2024,20:00,-04/-0400,Audax Italiano,1-2,1-0,Palestino,,2024-06-02T00:00Z
+15,Sun Jun 2 2024,20:00,-04/-0400,Coquimbo Unido,2-0,2-0,Universidad Católica,,2024-06-03T00:00Z
+15,Sun Jun 2 2024,12:30,-04/-0400,Everton,1-2,1-1,Universidad de Chile,,2024-06-02T16:30Z
+15,Sun Jun 2 2024,15:00,-04/-0400,Cobresal,2-1,1-1,Unión La Calera,,2024-06-02T19:00Z
+15,Sun Jun 2 2024,17:30,-04/-0400,Colo-Colo,0-1,0-1,Copiapó,,2024-06-02T21:30Z
+12,Thu Jun 6 2024,17:30,-04/-0400,Coquimbo Unido,0-0,0-0,Palestino,,2024-06-06T21:30Z
+13,Fri Jun 7 2024,19:00,-04/-0400,Unión Española,0-1,0-0,Unión La Calera,,2024-06-07T23:00Z
+15,Thu Jun 20 2024,15:00,-04/-0400,Ñublense,3-0,1-0,Huachipato,,2024-06-20T19:00Z
+16,Fri Jul 19 2024,19:00,-04/-0400,Huachipato,1-1,1-1,Cobreloa,,2024-07-19T23:00Z
+16,Sat Jul 20 2024,15:00,-04/-0400,O'Higgins,2-0,1-0,Copiapó,,2024-07-20T19:00Z
+16,Sat Jul 20 2024,17:30,-04/-0400,Universidad Católica,2-0,1-0,Unión La Calera,,2024-07-20T21:30Z
+16,Sat Jul 20 2024,20:00,-04/-0400,Deportes Iquique,2-1,0-0,Audax Italiano,,2024-07-21T00:00Z
+16,Sat Jul 20 2024,12:30,-04/-0400,Coquimbo Unido,1-0,0-0,Ñublense,,2024-07-20T16:30Z
+16,Sun Jul 21 2024,15:00,-04/-0400,Cobresal,3-3,1-2,Universidad de Chile,,2024-07-21T19:00Z
+16,Sun Jul 21 2024,17:30,-04/-0400,Colo-Colo,2-1,1-0,Unión Española,,2024-07-21T21:30Z
+16,Sun Jul 21 2024,12:30,-04/-0400,Palestino,1-4,1-2,Everton,,2024-07-21T16:30Z
+17,Fri Jul 26 2024,19:00,-04/-0400,Everton,1-1,1-1,Deportes Iquique,,2024-07-26T23:00Z
+17,Sat Jul 27 2024,15:00,-04/-0400,Unión Española,2-1,1-0,Cobresal,,2024-07-27T19:00Z
+17,Sat Jul 27 2024,17:30,-04/-0400,Colo-Colo,2-1,0-0,O'Higgins,,2024-07-27T21:30Z
+17,Sat Jul 27 2024,12:30,-04/-0400,Copiapó,3-0,0-0,Coquimbo Unido,,2024-07-27T16:30Z
+17,Sun Jul 28 2024,17:30,-04/-0400,Audax Italiano,1-0,0-0,Universidad de Chile,,2024-07-28T21:30Z
+17,Sun Jul 28 2024,20:00,-04/-0400,Unión La Calera,2-1,0-0,Huachipato,,2024-07-29T00:00Z
+17,Sun Jul 28 2024,15:00,-04/-0400,Ñublense,1-2,0-1,Universidad Católica,,2024-07-28T19:00Z
+17,Mon Jul 29 2024,20:00,-04/-0400,Cobreloa,3-1,0-1,Palestino,,2024-07-30T00:00Z
+18,Fri Aug 2 2024,20:00,-04/-0400,Coquimbo Unido,2-2,2-1,Unión Española,,2024-08-03T00:00Z
+18,Sat Aug 3 2024,17:30,-04/-0400,Universidad Católica,1-1,0-0,Palestino,,2024-08-03T21:30Z
+18,Sat Aug 3 2024,20:00,-04/-0400,Deportes Iquique,1-1,1-1,Unión La Calera,,2024-08-04T00:00Z
+18,Sat Aug 3 2024,12:30,-04/-0400,Everton,1-1,1-0,O'Higgins,,2024-08-03T16:30Z
+18,Sun Aug 4 2024,12:30,-04/-0400,Audax Italiano,0-1,0-1,Ñublense,,2024-08-04T16:30Z
+18,Sun Aug 4 2024,15:00,-04/-0400,Cobresal,3-2,1-1,Cobreloa,,2024-08-04T19:00Z
+18,Sun Aug 4 2024,17:30,-04/-0400,Universidad de Chile,1-0,0-0,Copiapó,,2024-08-04T21:30Z
+19,Fri Aug 9 2024,15:00,-04/-0400,Palestino,4-1,0-1,O'Higgins,,2024-08-09T19:00Z
+19,Fri Aug 9 2024,18:00,-04/-0400,Huachipato,0-0,0-0,Cobresal,,2024-08-09T22:00Z
+19,Fri Aug 9 2024,20:30,-04/-0400,Cobreloa,2-0,1-0,Unión La Calera,,2024-08-10T00:30Z
+19,Sat Aug 10 2024,19:00,-04/-0400,Coquimbo Unido,1-2,0-1,Deportes Iquique,,2024-08-10T23:00Z
+19,Sat Aug 10 2024,12:00,-04/-0400,Copiapó,0-1,0-1,Ñublense,,2024-08-10T16:00Z
+19,Sat Aug 10 2024,15:00,-04/-0400,Universidad de Chile,0-0,0-0,Colo-Colo,,2024-08-10T19:00Z
+19,Sun Aug 11 2024,15:00,-04/-0400,Everton,0-0,0-0,Universidad Católica,,2024-08-11T19:00Z
+19,Sun Aug 11 2024,12:30,-04/-0400,Audax Italiano,1-1,0-0,Unión Española,,2024-08-11T16:30Z
+20,Fri Aug 16 2024,19:00,-04/-0400,Colo-Colo,2-0,0-0,Coquimbo Unido,,2024-08-16T23:00Z
+20,Sat Aug 17 2024,12:30,-04/-0400,Unión Española,3-0,0-0,Cobreloa,,2024-08-17T16:30Z
+20,Sat Aug 17 2024,15:00,-04/-0400,Copiapó,0-2,0-1,Huachipato,,2024-08-17T19:00Z
+20,Sat Aug 17 2024,17:30,-04/-0400,O'Higgins,0-4,0-1,Universidad de Chile,,2024-08-17T21:30Z
+20,Sat Aug 17 2024,20:00,-04/-0400,Ñublense,1-1,0-0,Everton,,2024-08-18T00:00Z
+20,Sun Aug 18 2024,15:00,-04/-0400,Audax Italiano,2-1,0-0,Universidad Católica,,2024-08-18T19:00Z
+20,Sun Aug 18 2024,12:00,-04/-0400,Unión La Calera,2-1,1-0,Palestino,,2024-08-18T16:00Z
+20,Sun Aug 18 2024,15:00,-04/-0400,Cobresal,2-1,1-0,Deportes Iquique,,2024-08-18T19:00Z
+21,Thu Aug 22 2024,19:00,-04/-0400,Ñublense,0-0,0-0,Unión Española,,2024-08-22T23:00Z
+21,Fri Aug 23 2024,19:00,-04/-0400,Unión La Calera,3-3,0-1,Copiapó,,2024-08-23T23:00Z
+21,Fri Aug 23 2024,19:00,-04/-0400,Universidad de Chile,4-0,3-0,Cobreloa,,2024-08-23T23:00Z
+21,Sat Aug 24 2024,15:00,-04/-0400,Coquimbo Unido,1-1,0-1,Audax Italiano,,2024-08-24T19:00Z
+21,Sat Aug 24 2024,17:30,-04/-0400,Deportes Iquique,1-3,0-1,O'Higgins,,2024-08-24T21:30Z
+21,Sun Aug 25 2024,12:30,-04/-0400,Palestino,3-0,1-0,Cobresal,,2024-08-25T16:30Z
+21,Sun Aug 25 2024,17:30,-04/-0400,Universidad Católica,4-0,2-0,Huachipato,,2024-08-25T21:30Z
+21,Sun Aug 25 2024,15:00,-04/-0400,Everton,0-1,0-0,Colo-Colo,,2024-08-25T19:00Z
+22,Tue Aug 27 2024,18:00,-04/-0400,Universidad de Chile,2-0,1-0,Unión Española,,2024-08-27T22:00Z
+22,Tue Aug 27 2024,20:30,-04/-0400,Cobreloa,1-0,0-0,Coquimbo Unido,,2024-08-28T00:30Z
+22,Tue Aug 27 2024,20:30,-04/-0400,Deportes Iquique,2-1,1-1,Copiapó,,2024-08-28T00:30Z
+22,Wed Aug 28 2024,20:30,-04/-0400,Audax Italiano,1-2,1-1,Everton,,2024-08-29T00:30Z
+22,Wed Aug 28 2024,18:00,-04/-0400,O'Higgins,1-1,0-0,Unión La Calera,,2024-08-28T22:00Z
+22,Wed Aug 28 2024,15:00,-04/-0400,Cobresal,3-1,1-1,Universidad Católica,,2024-08-28T19:00Z
+22,Thu Aug 29 2024,20:30,-04/-0400,Huachipato,2-2,1-1,Palestino,,2024-08-30T00:30Z
+22,Thu Aug 29 2024,18:00,-04/-0400,Colo-Colo,2-1,1-1,Ñublense,,2024-08-29T22:00Z
+23,Sat Aug 31 2024,20:00,-04/-0400,Everton,3-2,2-1,Unión Española,,2024-09-01T00:00Z
+23,Sat Aug 31 2024,15:00,-04/-0400,Coquimbo Unido,0-1,0-0,Universidad de Chile,,2024-08-31T19:00Z
+23,Sat Aug 31 2024,17:30,-04/-0400,Universidad Católica,2-2,0-2,Deportes Iquique,,2024-08-31T21:30Z
+23,Sun Sep 1 2024,20:00,-04/-0400,Unión La Calera,2-1,0-1,Audax Italiano,,2024-09-02T00:00Z
+23,Sun Sep 1 2024,12:30,-04/-0400,Palestino,1-1,1-0,Ñublense,,2024-09-01T16:30Z
+23,Sun Sep 1 2024,15:00,-04/-0400,Cobreloa,0-1,0-1,Colo-Colo,,2024-09-01T19:00Z
+23,Sun Sep 1 2024,17:30,-04/-0400,Copiapó,2-2,0-1,Cobresal,,2024-09-01T21:30Z
+23,Sun Sep 8 2024,12:00,-03/-0300,Huachipato,1-0,1-0,O'Higgins,,2024-09-08T15:00Z
+24,Sat Sep 14 2024,,,Colo-Colo,,,Universidad Católica,postponed,
+24,Sat Sep 14 2024,15:00,-03/-0300,Ñublense,,,Cobresal,,2024-09-14T18:00Z
+24,Sat Sep 14 2024,20:00,-03/-0300,Audax Italiano,,,Cobreloa,,2024-09-14T23:00Z
+24,Sat Sep 14 2024,17:30,-03/-0300,O'Higgins,,,Coquimbo Unido,,2024-09-14T20:30Z
+24,Sun Sep 15 2024,15:00,-03/-0300,Deportes Iquique,,,Huachipato,,2024-09-15T18:00Z
+24,Sun Sep 15 2024,12:30,-03/-0300,Copiapó,,,Unión Española,,2024-09-15T15:30Z
+24,Sun Sep 15 2024,17:30,-03/-0300,Universidad de Chile,,,Palestino,,2024-09-15T20:30Z
+25,Tue Sep 24 2024,20:00,-03/-0300,Coquimbo Unido,,,Everton,,2024-09-24T23:00Z
+25,Tue Sep 24 2024,17:30,-03/-0300,Cobreloa,,,Ñublense,,2024-09-24T20:30Z
+25,Tue Sep 24 2024,15:00,-03/-0300,Palestino,,,Deportes Iquique,,2024-09-24T18:00Z
+25,Tue Sep 24 2024,20:00,-03/-0300,Universidad de Chile,,,Huachipato,,2024-09-24T23:00Z
+25,Wed Sep 25 2024,15:30,-03/-0300,Cobresal,,,Audax Italiano,,2024-09-25T18:30Z
+25,Wed Sep 25 2024,20:30,-03/-0300,Universidad Católica,,,Copiapó,,2024-09-25T23:30Z
+25,Wed Sep 25 2024,18:00,-03/-0300,Unión Española,,,O'Higgins,,2024-09-25T21:00Z
+26,Sat Sep 28 2024,17:30,-03/-0300,Everton,,,Cobreloa,,2024-09-28T20:30Z
+26,Sat Sep 28 2024,20:00,-03/-0300,Colo-Colo,,,Cobresal,,2024-09-28T23:00Z
+26,Sun Sep 29 2024,15:00,-03/-0300,Copiapó,,,Palestino,,2024-09-29T18:00Z
+26,Sun Sep 29 2024,17:30,-03/-0300,Deportes Iquique,,,Universidad de Chile,,2024-09-29T20:30Z
+26,Sun Sep 29 2024,20:00,-03/-0300,Universidad Católica,,,Unión Española,,2024-09-29T23:00Z
+26,Sun Sep 29 2024,12:30,-03/-0300,Ñublense,,,Unión La Calera,,2024-09-29T15:30Z
+26,Mon Sep 30 2024,20:30,-03/-0300,Audax Italiano,,,O'Higgins,,2024-09-30T23:30Z
+26,Mon Sep 30 2024,18:00,-03/-0300,Huachipato,,,Coquimbo Unido,,2024-09-30T21:00Z
+25,Wed Oct 2 2024,20:00,-03/-0300,Unión La Calera,,,Colo-Colo,,2024-10-02T23:00Z
+27,Sat Oct 5 2024,17:30,-03/-0300,Universidad de Chile,,,Unión La Calera,,2024-10-05T20:30Z
+27,Sat Oct 5 2024,15:00,-03/-0300,Cobresal,,,Everton,,2024-10-05T18:00Z
+27,Sat Oct 5 2024,20:00,-03/-0300,Ñublense,,,Deportes Iquique,,2024-10-05T23:00Z
+27,Sun Oct 6 2024,20:00,-03/-0300,Unión Española,,,Huachipato,,2024-10-06T23:00Z
+27,Sun Oct 6 2024,12:30,-03/-0300,Palestino,,,Coquimbo Unido,,2024-10-06T15:30Z
+27,Sun Oct 6 2024,17:30,-03/-0300,Colo-Colo,,,Audax Italiano,,2024-10-06T20:30Z
+27,Sun Oct 6 2024,15:00,-03/-0300,O'Higgins,,,Universidad Católica,,2024-10-06T18:00Z
+27,Mon Oct 7 2024,20:00,-03/-0300,Cobreloa,,,Copiapó,,2024-10-07T23:00Z
+24,Sat Oct 12 2024,20:00,-03/-0300,Everton,,,Unión La Calera,,2024-10-12T23:00Z
+18,Sun Oct 13 2024,17:30,-03/-0300,Huachipato,,,Colo-Colo,,2024-10-13T20:30Z
+28,Sun Oct 20 2024,,,Copiapó,,,Everton,,
+28,Sun Oct 20 2024,,,Coquimbo Unido,,,Cobresal,,
+28,Sun Oct 20 2024,,,Deportes Iquique,,,Cobreloa,,
+28,Sun Oct 20 2024,,,Audax Italiano,,,Huachipato,,
+28,Sun Oct 20 2024,,,Palestino,,,Colo-Colo,,
+28,Sun Oct 20 2024,,,Unión La Calera,,,Unión Española,,
+28,Sun Oct 20 2024,,,Universidad Católica,,,Universidad de Chile,,
+28,Sun Oct 20 2024,,,O'Higgins,,,Ñublense,,
+29,Sun Nov 3 2024,,,Audax Italiano,,,Copiapó,,
+29,Sun Nov 3 2024,,,Cobreloa,,,Universidad Católica,,
+29,Sun Nov 3 2024,,,Cobresal,,,O'Higgins,,
+29,Sun Nov 3 2024,,,Colo-Colo,,,Deportes Iquique,,
+29,Sun Nov 3 2024,,,Coquimbo Unido,,,Unión La Calera,,
+29,Sun Nov 3 2024,,,Everton,,,Huachipato,,
+29,Sun Nov 3 2024,,,Ñublense,,,Universidad de Chile,,
+29,Sun Nov 3 2024,,,Unión Española,,,Palestino,,
+30,Sun Nov 10 2024,,,Copiapó,,,Colo-Colo,,
+30,Sun Nov 10 2024,,,Deportes Iquique,,,Unión Española,,
+30,Sun Nov 10 2024,,,Huachipato,,,Ñublense,,
+30,Sun Nov 10 2024,,,Palestino,,,Audax Italiano,,
+30,Sun Nov 10 2024,,,Unión La Calera,,,Cobresal,,
+30,Sun Nov 10 2024,,,Universidad Católica,,,Coquimbo Unido,,
+30,Sun Nov 10 2024,,,Universidad de Chile,,,Everton,,
+30,Sun Nov 10 2024,,,O'Higgins,,,Cobreloa,,

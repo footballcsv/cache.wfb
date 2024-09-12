@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Feb 24 2024,14:00,JST/+0900,Mito HollyHock,1-0,1-0,Iwaki FC,2024-02-24T05:00Z
+1,Sat Feb 24 2024,14:00,JST/+0900,Yokohama FC,1-1,0-0,Renofa Yamaguchi,2024-02-24T05:00Z
+1,Sat Feb 24 2024,14:00,JST/+0900,Fujieda MyFC,0-0,0-0,V-Varen Nagasaki,2024-02-24T05:00Z
+1,Sun Feb 25 2024,12:50,JST/+0900,Ehime FC,1-0,1-0,Blaublitz Akita,2024-02-25T03:50Z
+1,Sun Feb 25 2024,13:00,JST/+0900,Fagiano Okayama,3-0,1-0,Tochigi SC,2024-02-25T04:00Z
+1,Sun Feb 25 2024,13:00,JST/+0900,JEF United Chiba,2-3,1-0,Montedio Yamagata,2024-02-25T04:00Z
+1,Sun Feb 25 2024,13:00,JST/+0900,Roasso Kumamoto,1-2,1-0,Shimizu S-Pulse,2024-02-25T04:00Z
+1,Sun Feb 25 2024,14:00,JST/+0900,Oita Trinita,1-1,0-1,Vegalta Sendai,2024-02-25T05:00Z
+1,Sun Feb 25 2024,14:00,JST/+0900,Thespakusatsu Gunma,1-1,0-0,Kagoshima United,2024-02-25T05:00Z
+1,Sun Feb 25 2024,14:00,JST/+0900,Tokushima Vortis,1-5,0-2,Ventforet Kofu,2024-02-25T05:00Z
+2,Sat Mar 2 2024,13:00,JST/+0900,V-Varen Nagasaki,1-2,0-1,Vegalta Sendai,2024-03-02T04:00Z
+2,Sat Mar 2 2024,14:00,JST/+0900,JEF United Chiba,4-0,2-0,Fujieda MyFC,2024-03-02T05:00Z
+2,Sat Mar 2 2024,14:00,JST/+0900,Mito HollyHock,1-2,0-0,Ventforet Kofu,2024-03-02T05:00Z
+2,Sat Mar 2 2024,14:00,JST/+0900,Oita Trinita,0-0,0-0,Yokohama FC,2024-03-02T05:00Z
+2,Sat Mar 2 2024,14:00,JST/+0900,Shimizu S-Pulse,2-0,0-0,Ehime FC,2024-03-02T05:00Z
+2,Sat Mar 2 2024,15:05,JST/+0900,Kagoshima United,2-1,0-0,Tokushima Vortis,2024-03-02T06:05Z
+2,Sun Mar 3 2024,13:00,JST/+0900,Renofa Yamaguchi,2-0,1-0,Blaublitz Akita,2024-03-03T04:00Z
+2,Sun Mar 3 2024,13:00,JST/+0900,Roasso Kumamoto,1-1,1-0,Thespakusatsu Gunma,2024-03-03T04:00Z
+2,Sun Mar 3 2024,14:00,JST/+0900,Tochigi SC,1-3,1-3,Montedio Yamagata,2024-03-03T05:00Z
+2,Sun Mar 3 2024,13:00,JST/+0900,Iwaki FC,1-1,0-1,Fagiano Okayama,2024-03-03T04:00Z
+3,Sat Mar 9 2024,14:00,JST/+0900,Iwaki FC,3-1,1-0,Kagoshima United,2024-03-09T05:00Z
+3,Sat Mar 9 2024,14:00,JST/+0900,Tokushima Vortis,1-2,1-0,Blaublitz Akita,2024-03-09T05:00Z
+3,Sat Mar 9 2024,14:00,JST/+0900,Ventforet Kofu,1-2,1-1,Tochigi SC,2024-03-09T05:00Z
+3,Sat Mar 9 2024,14:00,JST/+0900,Yokohama FC,2-0,1-0,Montedio Yamagata,2024-03-09T05:00Z
+3,Sun Mar 10 2024,14:00,JST/+0900,Fagiano Okayama,1-0,0-0,Renofa Yamaguchi,2024-03-10T05:00Z
+3,Sun Mar 10 2024,14:00,JST/+0900,Fujieda MyFC,0-1,0-0,Oita Trinita,2024-03-10T05:00Z
+3,Sun Mar 10 2024,14:00,JST/+0900,V-Varen Nagasaki,4-1,2-0,Shimizu S-Pulse,2024-03-10T05:00Z
+3,Sun Mar 10 2024,15:00,JST/+0900,Ehime FC,2-3,1-1,Roasso Kumamoto,2024-03-10T06:00Z
+3,Sun Mar 10 2024,17:00,JST/+0900,Thespakusatsu Gunma,1-3,0-2,JEF United Chiba,2024-03-10T08:00Z
+3,Sun Mar 10 2024,13:00,JST/+0900,Vegalta Sendai,1-0,0-0,Mito HollyHock,2024-03-10T04:00Z
+4,Sat Mar 16 2024,14:00,JST/+0900,Blaublitz Akita,0-0,0-0,Vegalta Sendai,2024-03-16T05:00Z
+4,Sat Mar 16 2024,14:00,JST/+0900,Fujieda MyFC,0-1,0-0,Fagiano Okayama,2024-03-16T05:00Z
+4,Sat Mar 16 2024,14:00,JST/+0900,Mito HollyHock,1-2,0-1,Tokushima Vortis,2024-03-16T05:00Z
+4,Sat Mar 16 2024,14:00,JST/+0900,Montedio Yamagata,0-1,0-0,Ventforet Kofu,2024-03-16T05:00Z
+4,Sat Mar 16 2024,14:00,JST/+0900,Shimizu S-Pulse,2-0,1-0,Oita Trinita,2024-03-16T05:00Z
+4,Sat Mar 16 2024,14:00,JST/+0900,Thespakusatsu Gunma,0-1,0-1,Ehime FC,2024-03-16T05:00Z
+4,Sat Mar 16 2024,14:00,JST/+0900,Tochigi SC,1-0,1-0,Yokohama FC,2024-03-16T05:00Z
+4,Sat Mar 16 2024,15:00,JST/+0900,Kagoshima United,4-2,3-1,JEF United Chiba,2024-03-16T06:00Z
+4,Sun Mar 17 2024,13:15,JST/+0900,Renofa Yamaguchi,0-1,0-1,V-Varen Nagasaki,2024-03-17T04:15Z
+4,Sun Mar 17 2024,13:00,JST/+0900,Roasso Kumamoto,0-6,0-2,Iwaki FC,2024-03-17T04:00Z
+5,Wed Mar 20 2024,14:00,JST/+0900,Blaublitz Akita,3-0,0-0,Tochigi SC,2024-03-20T05:00Z
+5,Wed Mar 20 2024,14:00,JST/+0900,Fagiano Okayama,1-0,1-0,Mito HollyHock,2024-03-20T05:00Z
+5,Wed Mar 20 2024,14:00,JST/+0900,JEF United Chiba,1-3,1-1,Shimizu S-Pulse,2024-03-20T05:00Z
+5,Wed Mar 20 2024,14:00,JST/+0900,Montedio Yamagata,0-1,0-0,Fujieda MyFC,2024-03-20T05:00Z
+5,Wed Mar 20 2024,14:00,JST/+0900,Oita Trinita,3-0,3-0,Kagoshima United,2024-03-20T05:00Z
+5,Wed Mar 20 2024,14:00,JST/+0900,Vegalta Sendai,0-0,0-0,Roasso Kumamoto,2024-03-20T05:00Z
+5,Wed Mar 20 2024,14:00,JST/+0900,Ventforet Kofu,1-1,1-1,Iwaki FC,2024-03-20T05:00Z
+5,Wed Mar 20 2024,14:00,JST/+0900,Yokohama FC,1-0,1-0,Thespakusatsu Gunma,2024-03-20T05:00Z
+5,Wed Mar 20 2024,15:00,JST/+0900,Ehime FC,1-2,0-1,V-Varen Nagasaki,2024-03-20T06:00Z
+5,Wed Mar 20 2024,15:50,JST/+0900,Tokushima Vortis,1-2,0-0,Renofa Yamaguchi,2024-03-20T06:50Z
+6,Sun Mar 24 2024,14:00,JST/+0900,Fujieda MyFC,2-1,1-0,Roasso Kumamoto,2024-03-24T05:00Z
+6,Sun Mar 24 2024,14:00,JST/+0900,Iwaki FC,0-0,0-0,Montedio Yamagata,2024-03-24T05:00Z
+6,Sun Mar 24 2024,14:00,JST/+0900,Kagoshima United,0-4,0-3,Yokohama FC,2024-03-24T05:00Z
+6,Sun Mar 24 2024,14:00,JST/+0900,Mito HollyHock,0-0,0-0,JEF United Chiba,2024-03-24T05:00Z
+6,Sun Mar 24 2024,14:00,JST/+0900,Renofa Yamaguchi,1-1,0-1,Ehime FC,2024-03-24T05:00Z
+6,Sun Mar 24 2024,14:00,JST/+0900,Shimizu S-Pulse,1-0,1-0,Blaublitz Akita,2024-03-24T05:00Z
+6,Sun Mar 24 2024,14:00,JST/+0900,Tochigi SC,2-1,0-0,Oita Trinita,2024-03-24T05:00Z
+6,Sun Mar 24 2024,14:00,JST/+0900,V-Varen Nagasaki,1-1,0-1,Ventforet Kofu,2024-03-24T05:00Z
+6,Sun Mar 24 2024,14:00,JST/+0900,Vegalta Sendai,0-0,0-0,Tokushima Vortis,2024-03-24T05:00Z
+6,Sun Mar 24 2024,17:00,JST/+0900,Thespakusatsu Gunma,1-2,0-0,Fagiano Okayama,2024-03-24T08:00Z
+7,Sat Mar 30 2024,13:00,JST/+0900,Ventforet Kofu,0-2,0-0,Renofa Yamaguchi,2024-03-30T04:00Z
+7,Sat Mar 30 2024,14:00,JST/+0900,Blaublitz Akita,1-0,1-0,Iwaki FC,2024-03-30T05:00Z
+7,Sat Mar 30 2024,14:00,JST/+0900,Mito HollyHock,0-0,0-0,Kagoshima United,2024-03-30T05:00Z
+7,Sat Mar 30 2024,14:00,JST/+0900,Montedio Yamagata,2-0,1-0,Shimizu S-Pulse,2024-03-30T05:00Z
+7,Sat Mar 30 2024,14:00,JST/+0900,Oita Trinita,0-0,0-0,Fagiano Okayama,2024-03-30T05:00Z
+7,Sat Mar 30 2024,14:00,JST/+0900,Tokushima Vortis,0-1,0-0,Thespakusatsu Gunma,2024-03-30T05:00Z
+7,Sat Mar 30 2024,14:00,JST/+0900,Yokohama FC,1-2,1-0,Vegalta Sendai,2024-03-30T05:00Z
+7,Sat Mar 30 2024,15:00,JST/+0900,Roasso Kumamoto,1-0,0-0,JEF United Chiba,2024-03-30T06:00Z
+7,Sat Mar 30 2024,16:00,JST/+0900,Ehime FC,3-0,0-0,Fujieda MyFC,2024-03-30T07:00Z
+7,Sat Mar 30 2024,18:00,JST/+0900,Tochigi SC,1-1,0-1,V-Varen Nagasaki,2024-03-30T09:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,Blaublitz Akita,1-1,0-1,Mito HollyHock,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,Fagiano Okayama,1-3,0-3,Yokohama FC,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,Iwaki FC,3-0,1-0,Fujieda MyFC,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,JEF United Chiba,8-0,3-0,Tochigi SC,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,Kagoshima United,0-1,0-0,Ventforet Kofu,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,Renofa Yamaguchi,1-2,0-0,Roasso Kumamoto,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,Shimizu S-Pulse,1-1,1-0,Tokushima Vortis,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,Thespakusatsu Gunma,0-2,0-1,Oita Trinita,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,V-Varen Nagasaki,2-0,1-0,Montedio Yamagata,2024-04-03T10:00Z
+8,Wed Apr 3 2024,19:00,JST/+0900,Vegalta Sendai,1-2,1-0,Ehime FC,2024-04-03T10:00Z
+9,Sun Apr 7 2024,13:00,JST/+0900,Roasso Kumamoto,3-4,0-3,V-Varen Nagasaki,2024-04-07T04:00Z
+9,Sun Apr 7 2024,14:00,JST/+0900,Fujieda MyFC,1-1,1-0,Vegalta Sendai,2024-04-07T05:00Z
+9,Sun Apr 7 2024,14:00,JST/+0900,Montedio Yamagata,2-0,1-0,Kagoshima United,2024-04-07T05:00Z
+9,Sun Apr 7 2024,14:00,JST/+0900,Oita Trinita,1-3,1-2,Blaublitz Akita,2024-04-07T05:00Z
+9,Sun Apr 7 2024,14:00,JST/+0900,Thespakusatsu Gunma,0-0,0-0,Mito HollyHock,2024-04-07T05:00Z
+9,Sun Apr 7 2024,14:00,JST/+0900,Tochigi SC,0-0,0-0,Renofa Yamaguchi,2024-04-07T05:00Z
+9,Sun Apr 7 2024,14:00,JST/+0900,Tokushima Vortis,0-1,0-1,JEF United Chiba,2024-04-07T05:00Z
+9,Sun Apr 7 2024,14:00,JST/+0900,Ventforet Kofu,0-1,0-0,Shimizu S-Pulse,2024-04-07T05:00Z
+9,Sun Apr 7 2024,14:00,JST/+0900,Yokohama FC,2-2,1-1,Iwaki FC,2024-04-07T05:00Z
+9,Sun Apr 7 2024,15:00,JST/+0900,Ehime FC,2-2,1-0,Fagiano Okayama,2024-04-07T06:00Z
+10,Sat Apr 13 2024,14:00,JST/+0900,JEF United Chiba,1-1,1-0,Oita Trinita,2024-04-13T05:00Z
+10,Sat Apr 13 2024,14:00,JST/+0900,Mito HollyHock,2-2,1-1,Tochigi SC,2024-04-13T05:00Z
+10,Sat Apr 13 2024,14:00,JST/+0900,V-Varen Nagasaki,6-1,2-0,Tokushima Vortis,2024-04-13T05:00Z
+10,Sat Apr 13 2024,14:00,JST/+0900,Vegalta Sendai,2-0,2-0,Montedio Yamagata,2024-04-13T05:00Z
+10,Sat Apr 13 2024,16:00,JST/+0900,Ehime FC,2-2,1-0,Kagoshima United,2024-04-13T07:00Z
+10,Sat Apr 13 2024,16:00,JST/+0900,Iwaki FC,2-3,1-2,Shimizu S-Pulse,2024-04-13T07:00Z
+10,Sun Apr 14 2024,14:00,JST/+0900,Renofa Yamaguchi,4-0,1-0,Thespakusatsu Gunma,2024-04-14T05:00Z
+10,Sun Apr 14 2024,14:00,JST/+0900,Roasso Kumamoto,3-3,2-3,Ventforet Kofu,2024-04-14T05:00Z
+10,Sun Apr 14 2024,14:00,JST/+0900,Yokohama FC,2-0,1-0,Fujieda MyFC,2024-04-14T05:00Z
+10,Sun Apr 14 2024,14:00,JST/+0900,Blaublitz Akita,0-0,0-0,Fagiano Okayama,2024-04-14T05:00Z
+11,Sat Apr 20 2024,14:00,JST/+0900,Fagiano Okayama,2-0,2-0,Roasso Kumamoto,2024-04-20T05:00Z
+11,Sat Apr 20 2024,14:00,JST/+0900,Fujieda MyFC,0-1,0-1,Tokushima Vortis,2024-04-20T05:00Z
+11,Sat Apr 20 2024,14:00,JST/+0900,Montedio Yamagata,2-1,1-0,Ehime FC,2024-04-20T05:00Z
+11,Sat Apr 20 2024,14:00,JST/+0900,Shimizu S-Pulse,3-2,1-0,Vegalta Sendai,2024-04-20T05:00Z
+11,Sat Apr 20 2024,14:00,JST/+0900,Ventforet Kofu,4-1,3-0,Thespakusatsu Gunma,2024-04-20T05:00Z
+11,Sun Apr 21 2024,14:00,JST/+0900,JEF United Chiba,1-2,0-0,Blaublitz Akita,2024-04-21T05:00Z
+11,Sun Apr 21 2024,14:00,JST/+0900,Kagoshima United,2-1,1-0,Tochigi SC,2024-04-21T05:00Z
+11,Sun Apr 21 2024,14:00,JST/+0900,Oita Trinita,0-2,0-0,Iwaki FC,2024-04-21T05:00Z
+11,Sun Apr 21 2024,14:00,JST/+0900,Renofa Yamaguchi,1-2,1-2,Mito HollyHock,2024-04-21T05:00Z
+11,Sun Apr 21 2024,14:00,JST/+0900,V-Varen Nagasaki,1-0,1-0,Yokohama FC,2024-04-21T05:00Z
+12,Sat Apr 27 2024,14:00,JST/+0900,Thespakusatsu Gunma,1-2,1-2,V-Varen Nagasaki,2024-04-27T05:00Z
+12,Sat Apr 27 2024,14:00,JST/+0900,Vegalta Sendai,0-2,0-1,JEF United Chiba,2024-04-27T05:00Z
+12,Sat Apr 27 2024,14:55,JST/+0900,Ehime FC,2-1,1-1,Ventforet Kofu,2024-04-27T05:55Z
+12,Sat Apr 27 2024,14:00,JST/+0900,Mito HollyHock,2-3,1-0,Fujieda MyFC,2024-04-27T05:00Z
+12,Sun Apr 28 2024,13:00,JST/+0900,Fagiano Okayama,0-1,0-1,Shimizu S-Pulse,2024-04-28T04:00Z
+12,Sun Apr 28 2024,13:00,JST/+0900,Roasso Kumamoto,1-2,1-1,Oita Trinita,2024-04-28T04:00Z
+12,Sun Apr 28 2024,14:00,JST/+0900,Blaublitz Akita,0-2,0-1,Yokohama FC,2024-04-28T05:00Z
+12,Sun Apr 28 2024,14:00,JST/+0900,Kagoshima United,0-1,0-1,Renofa Yamaguchi,2024-04-28T05:00Z
+12,Sun Apr 28 2024,14:00,JST/+0900,Tochigi SC,0-1,0-1,Iwaki FC,2024-04-28T05:00Z
+12,Sun Apr 28 2024,14:00,JST/+0900,Tokushima Vortis,2-1,0-1,Montedio Yamagata,2024-04-28T05:00Z
+13,Fri May 3 2024,13:10,JST/+0900,Tokushima Vortis,0-0,0-0,Ehime FC,2024-05-03T04:10Z
+13,Fri May 3 2024,14:00,JST/+0900,Fujieda MyFC,2-1,0-0,Thespakusatsu Gunma,2024-05-03T05:00Z
+13,Fri May 3 2024,14:00,JST/+0900,Montedio Yamagata,2-2,0-0,Fagiano Okayama,2024-05-03T05:00Z
+13,Fri May 3 2024,14:00,JST/+0900,Roasso Kumamoto,2-2,1-0,Kagoshima United,2024-05-03T05:00Z
+13,Fri May 3 2024,14:00,JST/+0900,Shimizu S-Pulse,4-1,2-1,Tochigi SC,2024-05-03T05:00Z
+13,Fri May 3 2024,14:00,JST/+0900,V-Varen Nagasaki,2-2,0-1,Blaublitz Akita,2024-05-03T05:00Z
+13,Fri May 3 2024,14:00,JST/+0900,Vegalta Sendai,2-1,1-1,Renofa Yamaguchi,2024-05-03T05:00Z
+13,Fri May 3 2024,14:00,JST/+0900,Ventforet Kofu,1-2,0-0,Oita Trinita,2024-05-03T05:00Z
+13,Fri May 3 2024,14:00,JST/+0900,Yokohama FC,2-0,0-0,Mito HollyHock,2024-05-03T05:00Z
+13,Fri May 3 2024,16:00,JST/+0900,Iwaki FC,1-0,0-0,JEF United Chiba,2024-05-03T07:00Z
+14,Mon May 6 2024,14:00,JST/+0900,Blaublitz Akita,2-3,1-1,Ventforet Kofu,2024-05-06T05:00Z
+14,Mon May 6 2024,14:00,JST/+0900,Fagiano Okayama,1-2,1-1,Tokushima Vortis,2024-05-06T05:00Z
+14,Mon May 6 2024,14:00,JST/+0900,Kagoshima United,0-1,0-1,Vegalta Sendai,2024-05-06T05:00Z
+14,Mon May 6 2024,14:00,JST/+0900,Mito HollyHock,2-0,0-0,Roasso Kumamoto,2024-05-06T05:00Z
+14,Mon May 6 2024,14:00,JST/+0900,Oita Trinita,0-0,0-0,V-Varen Nagasaki,2024-05-06T05:00Z
+14,Mon May 6 2024,14:00,JST/+0900,Renofa Yamaguchi,2-0,2-0,Montedio Yamagata,2024-05-06T05:00Z
+14,Mon May 6 2024,14:00,JST/+0900,Thespakusatsu Gunma,0-3,0-1,Shimizu S-Pulse,2024-05-06T05:00Z
+14,Mon May 6 2024,14:00,JST/+0900,Tochigi SC,0-1,0-0,Fujieda MyFC,2024-05-06T05:00Z
+14,Mon May 6 2024,15:00,JST/+0900,Ehime FC,0-0,0-0,Iwaki FC,2024-05-06T06:00Z
+14,Mon May 6 2024,19:00,JST/+0900,JEF United Chiba,1-0,1-0,Yokohama FC,2024-05-06T10:00Z
+15,Sat May 11 2024,14:00,JST/+0900,Vegalta Sendai,2-1,2-0,Thespakusatsu Gunma,2024-05-11T05:00Z
+15,Sat May 11 2024,14:00,JST/+0900,Shimizu S-Pulse,4-0,2-0,Kagoshima United,2024-05-11T05:00Z
+15,Sun May 12 2024,13:00,JST/+0900,Iwaki FC,1-2,1-1,Renofa Yamaguchi,2024-05-12T04:00Z
+15,Sun May 12 2024,13:00,JST/+0900,Roasso Kumamoto,0-0,0-0,Yokohama FC,2024-05-12T04:00Z
+15,Sun May 12 2024,14:00,JST/+0900,Fujieda MyFC,1-0,0-0,Blaublitz Akita,2024-05-12T05:00Z
+15,Sun May 12 2024,14:00,JST/+0900,Montedio Yamagata,0-1,0-1,Mito HollyHock,2024-05-12T05:00Z
+15,Sun May 12 2024,14:00,JST/+0900,Oita Trinita,2-2,1-0,Ehime FC,2024-05-12T05:00Z
+15,Sun May 12 2024,14:00,JST/+0900,Tokushima Vortis,1-0,1-0,Tochigi SC,2024-05-12T05:00Z
+15,Sun May 12 2024,14:00,JST/+0900,V-Varen Nagasaki,0-0,0-0,Fagiano Okayama,2024-05-12T05:00Z
+15,Sun May 12 2024,16:00,JST/+0900,Ventforet Kofu,2-2,1-0,JEF United Chiba,2024-05-12T07:00Z
+16,Sat May 18 2024,14:00,JST/+0900,Mito HollyHock,1-1,0-1,Oita Trinita,2024-05-18T05:00Z
+16,Sat May 18 2024,14:00,JST/+0900,Montedio Yamagata,0-2,0-2,Blaublitz Akita,2024-05-18T05:00Z
+16,Sat May 18 2024,14:00,JST/+0900,Thespakusatsu Gunma,0-1,0-0,Iwaki FC,2024-05-18T05:00Z
+16,Sat May 18 2024,14:00,JST/+0900,Tokushima Vortis,1-2,0-1,Roasso Kumamoto,2024-05-18T05:00Z
+16,Sat May 18 2024,14:00,JST/+0900,Yokohama FC,2-0,1-0,Shimizu S-Pulse,2024-05-18T05:00Z
+16,Sat May 18 2024,15:00,JST/+0900,Kagoshima United,0-3,0-1,V-Varen Nagasaki,2024-05-18T06:00Z
+16,Sat May 18 2024,14:00,JST/+0900,JEF United Chiba,7-1,5-0,Ehime FC,2024-05-18T05:00Z
+16,Sun May 19 2024,14:00,JST/+0900,Fagiano Okayama,2-0,1-0,Ventforet Kofu,2024-05-19T05:00Z
+16,Sun May 19 2024,14:00,JST/+0900,Renofa Yamaguchi,2-1,1-0,Fujieda MyFC,2024-05-19T05:00Z
+16,Sun May 19 2024,17:00,JST/+0900,Tochigi SC,1-2,1-1,Vegalta Sendai,2024-05-19T08:00Z
+17,Sat May 25 2024,14:00,JST/+0900,Fujieda MyFC,1-1,0-0,Kagoshima United,2024-05-25T05:00Z
+17,Sat May 25 2024,14:00,JST/+0900,V-Varen Nagasaki,1-0,1-0,JEF United Chiba,2024-05-25T05:00Z
+17,Sat May 25 2024,16:00,JST/+0900,Ventforet Kofu,1-2,1-1,Yokohama FC,2024-05-25T07:00Z
+17,Sat May 25 2024,13:55,JST/+0900,Ehime FC,0-0,0-0,Tochigi SC,2024-05-25T04:55Z
+17,Sun May 26 2024,14:00,JST/+0900,Blaublitz Akita,1-1,1-0,Thespakusatsu Gunma,2024-05-26T05:00Z
+17,Sun May 26 2024,14:00,JST/+0900,Iwaki FC,1-1,1-1,Tokushima Vortis,2024-05-26T05:00Z
+17,Sun May 26 2024,14:00,JST/+0900,Oita Trinita,0-0,0-0,Renofa Yamaguchi,2024-05-26T05:00Z
+17,Sun May 26 2024,14:00,JST/+0900,Roasso Kumamoto,0-1,0-0,Montedio Yamagata,2024-05-26T05:00Z
+17,Sun May 26 2024,14:00,JST/+0900,Shimizu S-Pulse,2-1,1-1,Mito HollyHock,2024-05-26T05:00Z
+17,Sun May 26 2024,14:00,JST/+0900,Vegalta Sendai,1-4,1-1,Fagiano Okayama,2024-05-26T05:00Z
+18,Sat Jun 1 2024,14:00,JST/+0900,Oita Trinita,1-2,0-1,Tokushima Vortis,2024-06-01T05:00Z
+18,Sat Jun 1 2024,18:00,JST/+0900,JEF United Chiba,2-1,1-0,Fagiano Okayama,2024-06-01T09:00Z
+18,Sat Jun 1 2024,18:00,JST/+0900,Yokohama FC,2-1,0-1,Ehime FC,2024-06-01T09:00Z
+18,Sat Jun 1 2024,14:00,JST/+0900,Fujieda MyFC,2-1,1-1,Ventforet Kofu,2024-06-01T05:00Z
+18,Sun Jun 2 2024,13:00,JST/+0900,Iwaki FC,1-2,0-1,Vegalta Sendai,2024-06-02T04:00Z
+18,Sun Jun 2 2024,14:00,JST/+0900,Kagoshima United,0-0,0-0,Blaublitz Akita,2024-06-02T05:00Z
+18,Sun Jun 2 2024,14:00,JST/+0900,Mito HollyHock,2-3,0-1,V-Varen Nagasaki,2024-06-02T05:00Z
+18,Sun Jun 2 2024,14:00,JST/+0900,Renofa Yamaguchi,2-0,2-0,Shimizu S-Pulse,2024-06-02T05:00Z
+18,Sun Jun 2 2024,14:00,JST/+0900,Thespakusatsu Gunma,0-0,0-0,Montedio Yamagata,2024-06-02T05:00Z
+18,Sun Jun 2 2024,17:00,JST/+0900,Tochigi SC,1-3,1-0,Roasso Kumamoto,2024-06-02T08:00Z
+19,Sat Jun 8 2024,15:00,JST/+0900,Blaublitz Akita,1-1,0-1,Roasso Kumamoto,2024-06-08T06:00Z
+19,Sat Jun 8 2024,18:00,JST/+0900,Ehime FC,1-0,1-0,Mito HollyHock,2024-06-08T09:00Z
+19,Sat Jun 8 2024,18:00,JST/+0900,Shimizu S-Pulse,1-0,0-0,Fujieda MyFC,2024-06-08T09:00Z
+19,Sat Jun 8 2024,18:00,JST/+0900,Tokushima Vortis,0-1,0-1,Yokohama FC,2024-06-08T09:00Z
+19,Sat Jun 8 2024,18:00,JST/+0900,Ventforet Kofu,1-1,1-1,Vegalta Sendai,2024-06-08T09:00Z
+19,Sat Jun 8 2024,19:00,JST/+0900,Renofa Yamaguchi,1-2,0-1,JEF United Chiba,2024-06-08T10:00Z
+19,Sat Jun 8 2024,19:00,JST/+0900,Tochigi SC,1-1,0-1,Thespakusatsu Gunma,2024-06-08T10:00Z
+19,Sun Jun 9 2024,19:00,JST/+0900,Fagiano Okayama,1-1,0-0,Kagoshima United,2024-06-09T10:00Z
+19,Sun Jun 9 2024,14:00,JST/+0900,Montedio Yamagata,0-0,0-0,Oita Trinita,2024-06-09T05:00Z
+20,Sat Jun 15 2024,19:00,JST/+0900,Kagoshima United,2-1,0-1,Montedio Yamagata,2024-06-15T10:00Z
+20,Sat Jun 15 2024,18:00,JST/+0900,Fujieda MyFC,1-3,0-2,Yokohama FC,2024-06-15T09:00Z
+20,Sun Jun 16 2024,16:00,JST/+0900,Iwaki FC,1-1,1-0,Ventforet Kofu,2024-06-16T07:00Z
+20,Sun Jun 16 2024,17:00,JST/+0900,Mito HollyHock,1-0,0-0,Blaublitz Akita,2024-06-16T08:00Z
+20,Sun Jun 16 2024,18:00,JST/+0900,Ehime FC,3-0,1-0,Shimizu S-Pulse,2024-06-16T09:00Z
+20,Sun Jun 16 2024,18:00,JST/+0900,Oita Trinita,0-2,0-0,Tochigi SC,2024-06-16T09:00Z
+20,Sun Jun 16 2024,18:00,JST/+0900,Roasso Kumamoto,0-1,0-0,Fagiano Okayama,2024-06-16T09:00Z
+20,Sun Jun 16 2024,18:00,JST/+0900,Vegalta Sendai,2-2,0-1,V-Varen Nagasaki,2024-06-16T09:00Z
+20,Sun Jun 16 2024,18:30,JST/+0900,Thespakusatsu Gunma,0-1,0-1,Renofa Yamaguchi,2024-06-16T09:30Z
+20,Sun Jun 16 2024,19:00,JST/+0900,JEF United Chiba,1-0,0-0,Tokushima Vortis,2024-06-16T10:00Z
+21,Sat Jun 22 2024,17:00,JST/+0900,Montedio Yamagata,1-1,1-1,Vegalta Sendai,2024-06-22T08:00Z
+21,Sat Jun 22 2024,19:00,JST/+0900,Tochigi SC,2-1,1-1,JEF United Chiba,2024-06-22T10:00Z
+21,Sat Jun 22 2024,18:00,JST/+0900,Ventforet Kofu,1-2,1-0,Ehime FC,2024-06-22T09:00Z
+21,Sat Jun 22 2024,18:00,JST/+0900,Yokohama FC,5-0,3-0,Roasso Kumamoto,2024-06-22T09:00Z
+21,Sat Jun 22 2024,19:00,JST/+0900,Fagiano Okayama,1-0,0-0,Thespakusatsu Gunma,2024-06-22T10:00Z
+21,Sat Jun 22 2024,19:00,JST/+0900,Kagoshima United,3-0,1-0,Oita Trinita,2024-06-22T10:00Z
+21,Sat Jun 22 2024,19:00,JST/+0900,Renofa Yamaguchi,0-3,0-0,Iwaki FC,2024-06-22T10:00Z
+21,Sat Jun 22 2024,19:00,JST/+0900,V-Varen Nagasaki,2-0,2-0,Fujieda MyFC,2024-06-22T10:00Z
+21,Sun Jun 23 2024,19:00,JST/+0900,Tokushima Vortis,1-0,0-0,Mito HollyHock,2024-06-23T10:00Z
+21,Sun Jun 23 2024,14:00,JST/+0900,Blaublitz Akita,3-1,2-0,Shimizu S-Pulse,2024-06-23T05:00Z
+19,Wed Jun 26 2024,19:00,JST/+0900,V-Varen Nagasaki,3-1,0-0,Iwaki FC,2024-06-26T10:00Z
+22,Sat Jun 29 2024,18:00,JST/+0900,Iwaki FC,0-4,0-1,Yokohama FC,2024-06-29T09:00Z
+22,Sat Jun 29 2024,18:00,JST/+0900,Mito HollyHock,1-1,1-0,Renofa Yamaguchi,2024-06-29T09:00Z
+22,Sat Jun 29 2024,18:00,JST/+0900,Roasso Kumamoto,4-0,2-0,Ehime FC,2024-06-29T09:00Z
+22,Sat Jun 29 2024,19:00,JST/+0900,Oita Trinita,0-0,0-0,Ventforet Kofu,2024-06-29T10:00Z
+22,Sat Jun 29 2024,19:00,JST/+0900,Thespakusatsu Gunma,1-2,1-0,Fujieda MyFC,2024-06-29T10:00Z
+22,Sat Jun 29 2024,19:00,JST/+0900,Tokushima Vortis,2-2,0-1,V-Varen Nagasaki,2024-06-29T10:00Z
+22,Sat Jun 29 2024,19:00,JST/+0900,Vegalta Sendai,3-2,3-1,Tochigi SC,2024-06-29T10:00Z
+22,Sun Jun 30 2024,18:00,JST/+0900,Shimizu S-Pulse,3-1,1-1,Fagiano Okayama,2024-06-30T09:00Z
+22,Sun Jun 30 2024,19:00,JST/+0900,JEF United Chiba,2-1,1-1,Kagoshima United,2024-06-30T10:00Z
+22,Sun Jun 30 2024,13:00,JST/+0900,Blaublitz Akita,0-3,0-1,Montedio Yamagata,2024-06-30T04:00Z
+23,Sat Jul 6 2024,18:00,JST/+0900,Fujieda MyFC,3-1,2-0,Mito HollyHock,2024-07-06T09:00Z
+23,Sat Jul 6 2024,18:00,JST/+0900,Iwaki FC,0-1,0-0,Oita Trinita,2024-07-06T09:00Z
+23,Sat Jul 6 2024,18:00,JST/+0900,Ventforet Kofu,1-3,1-0,Tokushima Vortis,2024-07-06T09:00Z
+23,Sat Jul 6 2024,18:00,JST/+0900,Yokohama FC,1-0,0-0,Blaublitz Akita,2024-07-06T09:00Z
+23,Sat Jul 6 2024,18:30,JST/+0900,Shimizu S-Pulse,2-0,2-0,JEF United Chiba,2024-07-06T09:30Z
+23,Sat Jul 6 2024,19:00,JST/+0900,Fagiano Okayama,2-0,1-0,Vegalta Sendai,2024-07-06T10:00Z
+23,Sat Jul 6 2024,19:00,JST/+0900,Montedio Yamagata,1-0,0-0,Tochigi SC,2024-07-06T10:00Z
+23,Sat Jul 6 2024,19:00,JST/+0900,Renofa Yamaguchi,1-0,0-0,Kagoshima United,2024-07-06T10:00Z
+23,Sat Jul 6 2024,19:00,JST/+0900,V-Varen Nagasaki,2-0,2-0,Roasso Kumamoto,2024-07-06T10:00Z
+23,Sun Jul 7 2024,19:00,JST/+0900,Ehime FC,0-4,0-2,Thespakusatsu Gunma,2024-07-07T10:00Z
+24,Sat Jul 13 2024,19:00,JST/+0900,Kagoshima United,1-1,0-0,Thespakusatsu Gunma,2024-07-13T10:00Z
+24,Sat Jul 13 2024,19:00,JST/+0900,Fujieda MyFC,0-1,0-0,Ehime FC,2024-07-13T10:00Z
+24,Sun Jul 14 2024,18:00,JST/+0900,Blaublitz Akita,1-0,0-0,Renofa Yamaguchi,2024-07-14T09:00Z
+24,Sun Jul 14 2024,18:00,JST/+0900,Mito HollyHock,2-2,0-0,Yokohama FC,2024-07-14T09:00Z
+24,Sun Jul 14 2024,18:00,JST/+0900,Ventforet Kofu,2-2,0-1,V-Varen Nagasaki,2024-07-14T09:00Z
+24,Sun Jul 14 2024,19:00,JST/+0900,JEF United Chiba,0-2,0-0,Roasso Kumamoto,2024-07-14T10:00Z
+24,Sun Jul 14 2024,19:00,JST/+0900,Montedio Yamagata,1-2,0-1,Iwaki FC,2024-07-14T10:00Z
+24,Sun Jul 14 2024,19:00,JST/+0900,Oita Trinita,0-2,0-1,Shimizu S-Pulse,2024-07-14T10:00Z
+24,Sun Jul 14 2024,19:00,JST/+0900,Tochigi SC,1-1,1-1,Fagiano Okayama,2024-07-14T10:00Z
+24,Sun Jul 14 2024,19:00,JST/+0900,Tokushima Vortis,2-0,1-0,Vegalta Sendai,2024-07-14T10:00Z
+25,Sat Aug 3 2024,18:00,JST/+0900,Yokohama FC,2-1,0-1,JEF United Chiba,2024-08-03T09:00Z
+25,Sat Aug 3 2024,19:00,JST/+0900,Ehime FC,0-1,0-1,Tokushima Vortis,2024-08-03T10:00Z
+25,Sat Aug 3 2024,19:00,JST/+0900,Fagiano Okayama,1-1,0-0,Montedio Yamagata,2024-08-03T10:00Z
+25,Sat Aug 3 2024,19:00,JST/+0900,Kagoshima United,2-3,1-2,Fujieda MyFC,2024-08-03T10:00Z
+25,Sat Aug 3 2024,19:00,JST/+0900,Renofa Yamaguchi,2-0,1-0,Oita Trinita,2024-08-03T10:00Z
+25,Sat Aug 3 2024,19:00,JST/+0900,Roasso Kumamoto,0-2,0-1,Tochigi SC,2024-08-03T10:00Z
+25,Sat Aug 3 2024,19:00,JST/+0900,Thespakusatsu Gunma,0-1,0-0,Ventforet Kofu,2024-08-03T10:00Z
+25,Sat Aug 3 2024,19:00,JST/+0900,V-Varen Nagasaki,1-2,1-1,Mito HollyHock,2024-08-03T10:00Z
+25,Sat Aug 3 2024,19:00,JST/+0900,Vegalta Sendai,2-1,1-1,Shimizu S-Pulse,2024-08-03T10:00Z
+25,Sun Aug 4 2024,18:00,JST/+0900,Iwaki FC,2-0,1-0,Blaublitz Akita,2024-08-04T09:00Z
+26,Sat Aug 10 2024,18:00,JST/+0900,Iwaki FC,2-1,1-1,Ehime FC,2024-08-10T09:00Z
+26,Sat Aug 10 2024,18:00,JST/+0900,Mito HollyHock,0-1,0-0,Vegalta Sendai,2024-08-10T09:00Z
+26,Sat Aug 10 2024,18:00,JST/+0900,Ventforet Kofu,3-0,2-0,Fujieda MyFC,2024-08-10T09:00Z
+26,Sat Aug 10 2024,18:00,JST/+0900,Yokohama FC,0-0,0-0,V-Varen Nagasaki,2024-08-10T09:00Z
+26,Sat Aug 10 2024,18:30,JST/+0900,Shimizu S-Pulse,4-0,3-0,Thespakusatsu Gunma,2024-08-10T09:30Z
+26,Sat Aug 10 2024,19:00,JST/+0900,Fagiano Okayama,0-0,0-0,JEF United Chiba,2024-08-10T10:00Z
+26,Sat Aug 10 2024,19:00,JST/+0900,Renofa Yamaguchi,4-3,2-2,Tochigi SC,2024-08-10T10:00Z
+26,Sun Aug 11 2024,19:00,JST/+0900,Montedio Yamagata,1-0,0-0,Tokushima Vortis,2024-08-11T10:00Z
+26,Sun Aug 11 2024,19:00,JST/+0900,Oita Trinita,2-1,0-0,Roasso Kumamoto,2024-08-11T10:00Z
+26,Sun Aug 11 2024,18:00,JST/+0900,Blaublitz Akita,2-0,0-0,Kagoshima United,2024-08-11T09:00Z
+27,Sat Aug 17 2024,18:30,JST/+0900,Shimizu S-Pulse,3-0,1-0,Ventforet Kofu,2024-08-17T09:30Z
+27,Sat Aug 17 2024,19:00,JST/+0900,Fujieda MyFC,3-0,3-0,Renofa Yamaguchi,2024-08-17T10:00Z
+27,Sat Aug 17 2024,19:00,JST/+0900,JEF United Chiba,0-3,0-0,Iwaki FC,2024-08-17T10:00Z
+27,Sat Aug 17 2024,19:00,JST/+0900,Montedio Yamagata,4-2,2-0,V-Varen Nagasaki,2024-08-17T10:00Z
+27,Sat Aug 17 2024,19:00,JST/+0900,Roasso Kumamoto,0-1,0-0,Mito HollyHock,2024-08-17T10:00Z
+27,Sat Aug 17 2024,19:00,JST/+0900,Thespakusatsu Gunma,1-2,1-1,Yokohama FC,2024-08-17T10:00Z
+27,Sat Aug 17 2024,19:00,JST/+0900,Tochigi SC,0-0,0-0,Blaublitz Akita,2024-08-17T10:00Z
+27,Sat Aug 17 2024,19:00,JST/+0900,Tokushima Vortis,1-1,1-1,Fagiano Okayama,2024-08-17T10:00Z
+27,Sat Aug 17 2024,19:00,JST/+0900,Vegalta Sendai,1-0,1-0,Kagoshima United,2024-08-17T10:00Z
+27,Sun Aug 18 2024,19:00,JST/+0900,Ehime FC,3-2,1-2,Oita Trinita,2024-08-18T10:00Z
+28,Sat Aug 24 2024,18:00,JST/+0900,Yokohama FC,2-0,1-0,Tokushima Vortis,2024-08-24T09:00Z
+28,Sat Aug 24 2024,19:00,JST/+0900,Fagiano Okayama,0-0,0-0,Oita Trinita,2024-08-24T10:00Z
+28,Sat Aug 24 2024,19:00,JST/+0900,Fujieda MyFC,0-1,0-0,Montedio Yamagata,2024-08-24T10:00Z
+28,Sat Aug 24 2024,19:00,JST/+0900,Kagoshima United,0-1,0-0,Shimizu S-Pulse,2024-08-24T10:00Z
+28,Sat Aug 24 2024,19:00,JST/+0900,V-Varen Nagasaki,1-2,1-0,Renofa Yamaguchi,2024-08-24T10:00Z
+28,Sun Aug 25 2024,18:00,JST/+0900,Iwaki FC,3-4,1-2,Roasso Kumamoto,2024-08-25T09:00Z
+28,Sun Aug 25 2024,18:00,JST/+0900,Mito HollyHock,2-1,2-0,Thespakusatsu Gunma,2024-08-25T09:00Z
+28,Sun Aug 25 2024,19:00,JST/+0900,JEF United Chiba,4-2,1-1,Vegalta Sendai,2024-08-25T10:00Z
+28,Sun Aug 25 2024,19:00,JST/+0900,Tochigi SC,1-2,0-1,Ventforet Kofu,2024-08-25T10:00Z
+28,Sun Aug 25 2024,18:00,JST/+0900,Blaublitz Akita,0-0,0-0,Ehime FC,2024-08-25T09:00Z
+29,Sat Aug 31 2024,18:00,JST/+0900,Mito HollyHock,3-1,2-1,Ehime FC,2024-08-31T09:00Z
+29,Sat Aug 31 2024,18:00,JST/+0900,Ventforet Kofu,1-0,1-0,Kagoshima United,2024-08-31T09:00Z
+29,Sat Aug 31 2024,19:00,JST/+0900,Montedio Yamagata,1-2,1-0,Yokohama FC,2024-08-31T10:00Z
+29,Sat Aug 31 2024,19:00,JST/+0900,Renofa Yamaguchi,0-2,0-0,Fagiano Okayama,2024-08-31T10:00Z
+29,Sat Aug 31 2024,19:00,JST/+0900,V-Varen Nagasaki,1-1,1-0,Tochigi SC,2024-08-31T10:00Z
+29,Sat Aug 31 2024,19:00,JST/+0900,Vegalta Sendai,2-0,1-0,Iwaki FC,2024-08-31T10:00Z
+29,Sun Sep 1 2024,19:00,JST/+0900,Roasso Kumamoto,1-2,0-1,Fujieda MyFC,2024-09-01T10:00Z
+29,Sun Sep 1 2024,19:00,JST/+0900,Thespakusatsu Gunma,1-0,0-0,Blaublitz Akita,2024-09-01T10:00Z
+29,Sun Sep 1 2024,19:00,JST/+0900,Oita Trinita,0-2,0-1,JEF United Chiba,2024-09-01T10:00Z
+30,Sat Sep 7 2024,19:00,JST/+0900,Thespakusatsu Gunma,0-0,0-0,Vegalta Sendai,2024-09-07T10:00Z
+30,Sat Sep 7 2024,18:30,JST/+0900,Shimizu S-Pulse,1-1,0-1,V-Varen Nagasaki,2024-09-07T09:30Z
+30,Sat Sep 7 2024,19:00,JST/+0900,Ehime FC,1-4,1-1,Yokohama FC,2024-09-07T10:00Z
+30,Sat Sep 7 2024,19:00,JST/+0900,Fujieda MyFC,1-0,0-0,Tochigi SC,2024-09-07T10:00Z
+30,Sat Sep 7 2024,19:00,JST/+0900,JEF United Chiba,4-0,1-0,Mito HollyHock,2024-09-07T10:00Z
+30,Sat Sep 7 2024,19:00,JST/+0900,Kagoshima United,1-3,0-2,Iwaki FC,2024-09-07T10:00Z
+30,Sat Sep 7 2024,19:00,JST/+0900,Oita Trinita,0-3,0-1,Montedio Yamagata,2024-09-07T10:00Z
+30,Sat Sep 7 2024,19:00,JST/+0900,Renofa Yamaguchi,1-2,0-1,Tokushima Vortis,2024-09-07T10:00Z
+30,Sun Sep 8 2024,18:00,JST/+0900,Fagiano Okayama,0-1,0-1,Blaublitz Akita,2024-09-08T09:00Z
+31,Sat Sep 14 2024,18:30,JST/+0900,Shimizu S-Pulse,,,Renofa Yamaguchi,2024-09-14T09:30Z
+31,Sat Sep 14 2024,19:00,JST/+0900,Montedio Yamagata,,,Thespakusatsu Gunma,2024-09-14T10:00Z
+31,Sat Sep 14 2024,18:00,JST/+0900,Vegalta Sendai,,,Fujieda MyFC,2024-09-14T09:00Z
+31,Sat Sep 14 2024,19:00,JST/+0900,Tokushima Vortis,,,Oita Trinita,2024-09-14T10:00Z
+31,Sat Sep 14 2024,19:00,JST/+0900,Blaublitz Akita,,,JEF United Chiba,2024-09-14T10:00Z
+31,Sat Sep 14 2024,19:00,JST/+0900,Fagiano Okayama,,,Ehime FC,2024-09-14T10:00Z
+31,Sun Sep 15 2024,19:00,JST/+0900,Tochigi SC,,,Mito HollyHock,2024-09-15T10:00Z
+31,Sun Sep 15 2024,18:00,JST/+0900,Kagoshima United,,,Roasso Kumamoto,2024-09-15T09:00Z
+31,Sun Sep 15 2024,16:00,JST/+0900,Iwaki FC,,,V-Varen Nagasaki,2024-09-15T07:00Z
+31,Sun Sep 15 2024,18:00,JST/+0900,Yokohama FC,,,Ventforet Kofu,2024-09-15T09:00Z
+29,Wed Sep 18 2024,19:00,JST/+0900,Tokushima Vortis,,,Shimizu S-Pulse,2024-09-18T10:00Z
+32,Sat Sep 21 2024,18:00,JST/+0900,Ehime FC,,,Montedio Yamagata,2024-09-21T09:00Z
+32,Sat Sep 21 2024,18:00,JST/+0900,Roasso Kumamoto,,,Blaublitz Akita,2024-09-21T09:00Z
+32,Sat Sep 21 2024,18:00,JST/+0900,Vegalta Sendai,,,Ventforet Kofu,2024-09-21T09:00Z
+32,Sat Sep 21 2024,18:00,JST/+0900,Yokohama FC,,,Oita Trinita,2024-09-21T09:00Z
+32,Sat Sep 21 2024,19:00,JST/+0900,JEF United Chiba,,,Renofa Yamaguchi,2024-09-21T10:00Z
+32,Sun Sep 22 2024,18:00,JST/+0900,Tokushima Vortis,,,Iwaki FC,2024-09-22T09:00Z
+32,Sun Sep 22 2024,,,Tochigi SC,,,Kagoshima United,
+32,Sun Sep 22 2024,14:00,JST/+0900,Mito HollyHock,,,Fagiano Okayama,2024-09-22T05:00Z
+32,Sun Sep 22 2024,14:00,JST/+0900,V-Varen Nagasaki,,,Thespakusatsu Gunma,2024-09-22T05:00Z
+32,Sun Sep 22 2024,14:30,JST/+0900,Fujieda MyFC,,,Shimizu S-Pulse,2024-09-22T05:30Z
+30,Wed Sep 25 2024,19:00,JST/+0900,Ventforet Kofu,,,Roasso Kumamoto,2024-09-25T10:00Z
+33,Sat Sep 28 2024,,,Oita Trinita,,,Fujieda MyFC,
+33,Sat Sep 28 2024,16:00,JST/+0900,Ventforet Kofu,,,Montedio Yamagata,2024-09-28T07:00Z
+33,Sat Sep 28 2024,18:00,JST/+0900,Kagoshima United,,,Mito HollyHock,2024-09-28T09:00Z
+33,Sat Sep 28 2024,18:00,JST/+0900,Shimizu S-Pulse,,,Yokohama FC,2024-09-28T09:00Z
+33,Sun Sep 29 2024,14:00,JST/+0900,Blaublitz Akita,,,Tokushima Vortis,2024-09-29T05:00Z
+33,Sun Sep 29 2024,14:00,JST/+0900,Fagiano Okayama,,,V-Varen Nagasaki,2024-09-29T05:00Z
+33,Sun Sep 29 2024,14:00,JST/+0900,Renofa Yamaguchi,,,Vegalta Sendai,2024-09-29T05:00Z
+33,Sun Sep 29 2024,15:30,JST/+0900,Iwaki FC,,,Tochigi SC,2024-09-29T06:30Z
+33,Sun Sep 29 2024,18:00,JST/+0900,Ehime FC,,,JEF United Chiba,2024-09-29T09:00Z
+33,Sun Sep 29 2024,18:00,JST/+0900,Thespakusatsu Gunma,,,Roasso Kumamoto,2024-09-29T09:00Z
+34,Sat Oct 5 2024,14:00,JST/+0900,Ventforet Kofu,,,Fagiano Okayama,2024-10-05T05:00Z
+34,Sat Oct 5 2024,17:00,JST/+0900,Fujieda MyFC,,,Iwaki FC,2024-10-05T08:00Z
+34,Sat Oct 5 2024,14:00,JST/+0900,JEF United Chiba,,,Thespakusatsu Gunma,2024-10-05T05:00Z
+34,Sun Oct 6 2024,14:00,JST/+0900,Mito HollyHock,,,Shimizu S-Pulse,2024-10-06T05:00Z
+34,Sun Oct 6 2024,14:00,JST/+0900,Montedio Yamagata,,,Renofa Yamaguchi,2024-10-06T05:00Z
+34,Sun Oct 6 2024,14:00,JST/+0900,Roasso Kumamoto,,,Tokushima Vortis,2024-10-06T05:00Z
+34,Sun Oct 6 2024,14:00,JST/+0900,Tochigi SC,,,Ehime FC,2024-10-06T05:00Z
+34,Sun Oct 6 2024,14:00,JST/+0900,V-Varen Nagasaki,,,Oita Trinita,2024-10-06T05:00Z
+34,Sun Oct 6 2024,14:00,JST/+0900,Yokohama FC,,,Kagoshima United,2024-10-06T05:00Z
+34,Sun Oct 6 2024,15:00,JST/+0900,Vegalta Sendai,,,Blaublitz Akita,2024-10-06T06:00Z
+35,Sat Oct 19 2024,,,Kagoshima United,,,Ehime FC,
+35,Sat Oct 19 2024,,,Vegalta Sendai,,,Yokohama FC,
+35,Sat Oct 19 2024,,,JEF United Chiba,,,Ventforet Kofu,
+35,Sun Oct 20 2024,,,Blaublitz Akita,,,V-Varen Nagasaki,
+35,Sun Oct 20 2024,,,Fagiano Okayama,,,Iwaki FC,
+35,Sun Oct 20 2024,,,Oita Trinita,,,Mito HollyHock,
+35,Sun Oct 20 2024,,,Roasso Kumamoto,,,Renofa Yamaguchi,
+35,Sun Oct 20 2024,,,Shimizu S-Pulse,,,Montedio Yamagata,
+35,Sun Oct 20 2024,,,Thespakusatsu Gunma,,,Tochigi SC,
+35,Sun Oct 20 2024,,,Tokushima Vortis,,,Fujieda MyFC,
+36,Sat Oct 26 2024,,,Fujieda MyFC,,,JEF United Chiba,
+36,Sat Oct 26 2024,,,Iwaki FC,,,Mito HollyHock,
+36,Sun Oct 27 2024,,,Ehime FC,,,Vegalta Sendai,
+36,Sun Oct 27 2024,,,Montedio Yamagata,,,Roasso Kumamoto,
+36,Sun Oct 27 2024,,,Renofa Yamaguchi,,,Ventforet Kofu,
+36,Sun Oct 27 2024,,,Thespakusatsu Gunma,,,Tokushima Vortis,
+36,Sun Oct 27 2024,,,Tochigi SC,,,Shimizu S-Pulse,
+36,Sun Oct 27 2024,,,V-Varen Nagasaki,,,Kagoshima United,
+36,Sun Oct 27 2024,,,Yokohama FC,,,Fagiano Okayama,
+36,Sun Oct 27 2024,,,Blaublitz Akita,,,Oita Trinita,
+37,Sun Nov 3 2024,,,Ehime FC,,,Renofa Yamaguchi,
+37,Sun Nov 3 2024,,,Fagiano Okayama,,,Fujieda MyFC,
+37,Sun Nov 3 2024,,,JEF United Chiba,,,V-Varen Nagasaki,
+37,Sun Nov 3 2024,,,Mito HollyHock,,,Montedio Yamagata,
+37,Sun Nov 3 2024,,,Oita Trinita,,,Thespakusatsu Gunma,
+37,Sun Nov 3 2024,,,Shimizu S-Pulse,,,Iwaki FC,
+37,Sun Nov 3 2024,,,Tokushima Vortis,,,Kagoshima United,
+37,Sun Nov 3 2024,,,Ventforet Kofu,,,Blaublitz Akita,
+37,Sun Nov 3 2024,,,Yokohama FC,,,Tochigi SC,
+37,Mon Nov 4 2024,,,Roasso Kumamoto,,,Vegalta Sendai,
+38,Sun Nov 10 2024,,,Blaublitz Akita,,,Fujieda MyFC,
+38,Sun Nov 10 2024,,,Iwaki FC,,,Thespakusatsu Gunma,
+38,Sun Nov 10 2024,,,Kagoshima United,,,Fagiano Okayama,
+38,Sun Nov 10 2024,,,Montedio Yamagata,,,JEF United Chiba,
+38,Sun Nov 10 2024,,,Renofa Yamaguchi,,,Yokohama FC,
+38,Sun Nov 10 2024,,,Shimizu S-Pulse,,,Roasso Kumamoto,
+38,Sun Nov 10 2024,,,Tochigi SC,,,Tokushima Vortis,
+38,Sun Nov 10 2024,,,V-Varen Nagasaki,,,Ehime FC,
+38,Sun Nov 10 2024,,,Vegalta Sendai,,,Oita Trinita,
+38,Sun Nov 10 2024,,,Ventforet Kofu,,,Mito HollyHock,
