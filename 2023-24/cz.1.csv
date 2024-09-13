@@ -239,40 +239,40 @@ Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 ,30,Sun Apr 28 2024,15:00,CEST/+0200,FK Jablonec,1-1,1-0,FK Mladá Boleslav,2024-04-28T13:00Z
 ,30,Sun Apr 28 2024,15:00,CEST/+0200,Sigma Olomouc,1-4,0-2,AC Sparta Praha,2024-04-28T13:00Z
 ,30,Sun Apr 28 2024,15:00,CEST/+0200,Viktoria Plzeň,3-0,0-0,FK Teplice,2024-04-28T13:00Z
-Abstieg,1,Sat May 4 2024,15:00,CEST/+0200,Dynamo České Budějovice,2-1,1-1,Bohemians Praha 1905,2024-05-04T13:00Z
-Abstieg,1,Sat May 4 2024,15:00,CEST/+0200,FK Jablonec,3-2,1-1,MFK Karviná,2024-05-04T13:00Z
-Abstieg,1,Sat May 4 2024,15:00,CEST/+0200,FK Pardubice,2-0,0-0,FC Zlín,2024-05-04T13:00Z
-Meisterschaft,1,Sat May 4 2024,18:00,CEST/+0200,Slavia Praha,5-0,1-0,Baník Ostrava,2024-05-04T16:00Z
+Playoffs - Relegation,1,Sat May 4 2024,15:00,CEST/+0200,Dynamo České Budějovice,2-1,1-1,Bohemians Praha 1905,2024-05-04T13:00Z
+Playoffs - Relegation,1,Sat May 4 2024,15:00,CEST/+0200,FK Jablonec,3-2,1-1,MFK Karviná,2024-05-04T13:00Z
+Playoffs - Relegation,1,Sat May 4 2024,15:00,CEST/+0200,FK Pardubice,2-0,0-0,FC Zlín,2024-05-04T13:00Z
+Playoffs - Championship,1,Sat May 4 2024,18:00,CEST/+0200,Slavia Praha,5-0,1-0,Baník Ostrava,2024-05-04T16:00Z
 Platzierung,Semifinals,Sun May 5 2024,15:00,CEST/+0200,FK Teplice,2-0,0-0,Slovan Liberec,2024-05-05T13:00Z
-Meisterschaft,1,Sun May 5 2024,18:00,CEST/+0200,1. FC Slovácko,2-4,1-2,AC Sparta Praha,2024-05-05T16:00Z
-Meisterschaft,1,Sun May 5 2024,15:00,CEST/+0200,Viktoria Plzeň,3-0,2-0,FK Mladá Boleslav,2024-05-05T13:00Z
+Playoffs - Championship,1,Sun May 5 2024,18:00,CEST/+0200,1. FC Slovácko,2-4,1-2,AC Sparta Praha,2024-05-05T16:00Z
+Playoffs - Championship,1,Sun May 5 2024,15:00,CEST/+0200,Viktoria Plzeň,3-0,2-0,FK Mladá Boleslav,2024-05-05T13:00Z
 Platzierung,Semifinals,Sun May 5 2024,15:00,CEST/+0200,FC Hradec Králové,3-1,3-1,Sigma Olomouc,2024-05-05T13:00Z
-Meisterschaft,2,Sat May 11 2024,15:00,CEST/+0200,Baník Ostrava,0-1,0-1,FK Mladá Boleslav,2024-05-11T13:00Z
-Meisterschaft,2,Sat May 11 2024,17:30,CEST/+0200,AC Sparta Praha,0-0,0-0,Slavia Praha,2024-05-11T15:30Z
-Meisterschaft,2,Sat May 11 2024,15:00,CEST/+0200,Viktoria Plzeň,4-2,2-1,1. FC Slovácko,2024-05-11T13:00Z
-Abstieg,2,Sun May 12 2024,15:00,CEST/+0200,Bohemians Praha 1905,1-1,0-1,FK Jablonec,2024-05-12T13:00Z
-Abstieg,2,Sun May 12 2024,18:00,CEST/+0200,MFK Karviná,2-2,2-0,FC Zlín,2024-05-12T16:00Z
+Playoffs - Championship,2,Sat May 11 2024,15:00,CEST/+0200,Baník Ostrava,0-1,0-1,FK Mladá Boleslav,2024-05-11T13:00Z
+Playoffs - Championship,2,Sat May 11 2024,17:30,CEST/+0200,AC Sparta Praha,0-0,0-0,Slavia Praha,2024-05-11T15:30Z
+Playoffs - Championship,2,Sat May 11 2024,15:00,CEST/+0200,Viktoria Plzeň,4-2,2-1,1. FC Slovácko,2024-05-11T13:00Z
+Playoffs - Relegation,2,Sun May 12 2024,15:00,CEST/+0200,Bohemians Praha 1905,1-1,0-1,FK Jablonec,2024-05-12T13:00Z
+Playoffs - Relegation,2,Sun May 12 2024,18:00,CEST/+0200,MFK Karviná,2-2,2-0,FC Zlín,2024-05-12T16:00Z
 Platzierung,Semifinals,Sun May 12 2024,15:00,CEST/+0200,Sigma Olomouc,1-3,0-2,FC Hradec Králové,2024-05-12T13:00Z
 Platzierung,Semifinals,Sun May 12 2024,15:00,CEST/+0200,Slovan Liberec,1-2,0-0,FK Teplice,2024-05-12T13:00Z
-Abstieg,2,Sun May 12 2024,15:00,CEST/+0200,FK Pardubice,3-2,1-1,Dynamo České Budějovice,2024-05-12T13:00Z
-Meisterschaft,3,Tue May 14 2024,17:00,CEST/+0200,FK Mladá Boleslav,0-1,0-1,1. FC Slovácko,2024-05-14T15:00Z
-Meisterschaft,3,Tue May 14 2024,19:30,CEST/+0200,AC Sparta Praha,2-1,1-0,Baník Ostrava,2024-05-14T17:30Z
-Meisterschaft,3,Wed May 15 2024,19:30,CEST/+0200,Slavia Praha,3-0,2-0,Viktoria Plzeň,2024-05-15T17:30Z
-Abstieg,3,Thu May 16 2024,17:00,CEST/+0200,FC Zlín,1-1,0-0,Dynamo České Budějovice,2024-05-16T15:00Z
-Abstieg,3,Thu May 16 2024,17:00,CEST/+0200,Bohemians Praha 1905,1-3,1-0,MFK Karviná,2024-05-16T15:00Z
-Abstieg,3,Thu May 16 2024,17:00,CEST/+0200,FK Jablonec,3-0,0-0,FK Pardubice,2024-05-16T15:00Z
-Meisterschaft,4,Sat May 18 2024,17:00,CEST/+0200,Viktoria Plzeň,1-1,0-0,Baník Ostrava,2024-05-18T15:00Z
-Meisterschaft,4,Sat May 18 2024,17:00,CEST/+0200,1. FC Slovácko,1-2,0-0,Slavia Praha,2024-05-18T15:00Z
-Meisterschaft,4,Sat May 18 2024,17:00,CEST/+0200,FK Mladá Boleslav,0-5,0-3,AC Sparta Praha,2024-05-18T15:00Z
-Abstieg,4,Sun May 19 2024,17:00,CEST/+0200,FK Pardubice,4-0,2-0,MFK Karviná,2024-05-19T15:00Z
-Abstieg,4,Sun May 19 2024,17:00,CEST/+0200,FC Zlín,1-2,1-1,Bohemians Praha 1905,2024-05-19T15:00Z
+Playoffs - Relegation,2,Sun May 12 2024,15:00,CEST/+0200,FK Pardubice,3-2,1-1,Dynamo České Budějovice,2024-05-12T13:00Z
+Playoffs - Championship,3,Tue May 14 2024,17:00,CEST/+0200,FK Mladá Boleslav,0-1,0-1,1. FC Slovácko,2024-05-14T15:00Z
+Playoffs - Championship,3,Tue May 14 2024,19:30,CEST/+0200,AC Sparta Praha,2-1,1-0,Baník Ostrava,2024-05-14T17:30Z
+Playoffs - Championship,3,Wed May 15 2024,19:30,CEST/+0200,Slavia Praha,3-0,2-0,Viktoria Plzeň,2024-05-15T17:30Z
+Playoffs - Relegation,3,Thu May 16 2024,17:00,CEST/+0200,FC Zlín,1-1,0-0,Dynamo České Budějovice,2024-05-16T15:00Z
+Playoffs - Relegation,3,Thu May 16 2024,17:00,CEST/+0200,Bohemians Praha 1905,1-3,1-0,MFK Karviná,2024-05-16T15:00Z
+Playoffs - Relegation,3,Thu May 16 2024,17:00,CEST/+0200,FK Jablonec,3-0,0-0,FK Pardubice,2024-05-16T15:00Z
+Playoffs - Championship,4,Sat May 18 2024,17:00,CEST/+0200,Viktoria Plzeň,1-1,0-0,Baník Ostrava,2024-05-18T15:00Z
+Playoffs - Championship,4,Sat May 18 2024,17:00,CEST/+0200,1. FC Slovácko,1-2,0-0,Slavia Praha,2024-05-18T15:00Z
+Playoffs - Championship,4,Sat May 18 2024,17:00,CEST/+0200,FK Mladá Boleslav,0-5,0-3,AC Sparta Praha,2024-05-18T15:00Z
+Playoffs - Relegation,4,Sun May 19 2024,17:00,CEST/+0200,FK Pardubice,4-0,2-0,MFK Karviná,2024-05-19T15:00Z
+Playoffs - Relegation,4,Sun May 19 2024,17:00,CEST/+0200,FC Zlín,1-2,1-1,Bohemians Praha 1905,2024-05-19T15:00Z
 Platzierung,Final,Sun May 19 2024,15:00,CEST/+0200,FK Teplice,0-1,0-0,FC Hradec Králové,2024-05-19T13:00Z
-Abstieg,4,Sun May 19 2024,17:00,CEST/+0200,Dynamo České Budějovice,2-2,2-2,FK Jablonec,2024-05-19T15:00Z
-Abstieg,5,Sat May 25 2024,18:00,CEST/+0200,MFK Karviná,1-0,1-0,Dynamo České Budějovice,2024-05-25T16:00Z
-Abstieg,5,Sat May 25 2024,18:00,CEST/+0200,FK Jablonec,1-0,1-0,FC Zlín,2024-05-25T16:00Z
+Playoffs - Relegation,4,Sun May 19 2024,17:00,CEST/+0200,Dynamo České Budějovice,2-2,2-2,FK Jablonec,2024-05-19T15:00Z
+Playoffs - Relegation,5,Sat May 25 2024,18:00,CEST/+0200,MFK Karviná,1-0,1-0,Dynamo České Budějovice,2024-05-25T16:00Z
+Playoffs - Relegation,5,Sat May 25 2024,18:00,CEST/+0200,FK Jablonec,1-0,1-0,FC Zlín,2024-05-25T16:00Z
 Platzierung,Final,Sat May 25 2024,18:00,CEST/+0200,FC Hradec Králové,2-0,0-0,FK Teplice,2024-05-25T16:00Z
-Abstieg,5,Sat May 25 2024,18:00,CEST/+0200,Bohemians Praha 1905,0-1,0-0,FK Pardubice,2024-05-25T16:00Z
-Meisterschaft,5,Sun May 26 2024,16:00,CEST/+0200,Slavia Praha,4-0,2-0,FK Mladá Boleslav,2024-05-26T14:00Z
-Meisterschaft,5,Sun May 26 2024,16:00,CEST/+0200,AC Sparta Praha,1-1,1-0,Viktoria Plzeň,2024-05-26T14:00Z
-Meisterschaft,5,Sun May 26 2024,16:00,CEST/+0200,Baník Ostrava,6-0,3-0,1. FC Slovácko,2024-05-26T14:00Z
+Playoffs - Relegation,5,Sat May 25 2024,18:00,CEST/+0200,Bohemians Praha 1905,0-1,0-0,FK Pardubice,2024-05-25T16:00Z
+Playoffs - Championship,5,Sun May 26 2024,16:00,CEST/+0200,Slavia Praha,4-0,2-0,FK Mladá Boleslav,2024-05-26T14:00Z
+Playoffs - Championship,5,Sun May 26 2024,16:00,CEST/+0200,AC Sparta Praha,1-1,1-0,Viktoria Plzeň,2024-05-26T14:00Z
+Playoffs - Championship,5,Sun May 26 2024,16:00,CEST/+0200,Baník Ostrava,6-0,3-0,1. FC Slovácko,2024-05-26T14:00Z
 ECL Playoff,Final,Fri May 31 2024,18:00,CEST/+0200,FK Mladá Boleslav,3-1,2-0,FC Hradec Králové,2024-05-31T16:00Z
