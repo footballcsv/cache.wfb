@@ -26,10 +26,10 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 3,Sun Sep 1 2024,17:00,CEST/+0200,Stade de Reims,2-1,1-1,Stade Rennais,2024-09-01T15:00Z
 3,Sun Sep 1 2024,20:45,CEST/+0200,Lille OSC,1-3,0-2,Paris Saint-Germain,2024-09-01T18:45Z
 3,Sun Sep 1 2024,15:00,CEST/+0200,AS Monaco,1-1,0-0,RC Lens,2024-09-01T13:00Z
-4,Fri Sep 13 2024,20:45,CEST/+0200,AS Saint-Étienne,,,Lille OSC,2024-09-13T18:45Z
-4,Sat Sep 14 2024,19:00,CEST/+0200,AJ Auxerre,,,AS Monaco,2024-09-14T17:00Z
-4,Sat Sep 14 2024,21:00,CEST/+0200,Paris Saint-Germain,,,Stade Brestois 29,2024-09-14T19:00Z
-4,Sat Sep 14 2024,17:00,CEST/+0200,Olympique Marseille,,,OGC Nice,2024-09-14T15:00Z
+4,Fri Sep 13 2024,20:45,CEST/+0200,AS Saint-Étienne,1-0,1-0,Lille OSC,2024-09-13T18:45Z
+4,Sat Sep 14 2024,19:00,CEST/+0200,AJ Auxerre,0-3,0-2,AS Monaco,2024-09-14T17:00Z
+4,Sat Sep 14 2024,21:00,CEST/+0200,Paris Saint-Germain,3-1,1-1,Stade Brestois 29,2024-09-14T19:00Z
+4,Sat Sep 14 2024,17:00,CEST/+0200,Olympique Marseille,2-0,1-0,OGC Nice,2024-09-14T15:00Z
 4,Sun Sep 15 2024,17:00,CEST/+0200,FC Nantes,,,Stade de Reims,2024-09-15T15:00Z
 4,Sun Sep 15 2024,17:00,CEST/+0200,Toulouse FC,,,Havre AC,2024-09-15T15:00Z
 4,Sun Sep 15 2024,17:00,CEST/+0200,RC Strasbourg,,,Angers SCO,2024-09-15T15:00Z

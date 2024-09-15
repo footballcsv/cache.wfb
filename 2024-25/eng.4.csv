@@ -1,553 +1,553 @@
-Round,Date,Time,Team 1,FT,HT,Team 2,Comments
-1,Fri Aug 9 2024,20:00,Chesterfield FC,1-1,1-0,Swindon Town,
-1,Sat Aug 10 2024,15:00,Barrow AFC,1-0,1-0,Crewe Alexandra,
-1,Sat Aug 10 2024,15:00,AFC Wimbledon,4-2,3-2,Colchester United,
-1,Sat Aug 10 2024,15:00,Cheltenham Town,3-2,2-2,Newport County,
-1,Sat Aug 10 2024,15:00,Doncaster Rovers,4-1,1-0,Accrington Stanley,
-1,Sat Aug 10 2024,15:00,Gillingham FC,4-1,1-0,Carlisle United,
-1,Sat Aug 10 2024,15:00,Fleetwood Town,1-0,1-0,Grimsby Town,
-1,Sat Aug 10 2024,15:00,Harrogate Town,0-2,0-0,Bromley FC,
-1,Sat Aug 10 2024,15:00,Milton Keynes Dons,1-2,1-2,Bradford City,
-1,Sat Aug 10 2024,15:00,Salford City,0-2,0-1,Port Vale FC,
-1,Sat Aug 10 2024,15:00,Tranmere Rovers,0-0,0-0,Notts County,
-1,Sat Aug 10 2024,15:00,Walsall FC,1-0,1-0,Morecambe FC,
-2,Sat Aug 17 2024,12:30,Bromley FC,2-0,1-0,AFC Wimbledon,
-2,Sat Aug 17 2024,12:30,Carlisle United,1-0,1-0,Barrow AFC,
-2,Sat Aug 17 2024,15:00,Accrington Stanley,3-3,1-2,Harrogate Town,
-2,Sat Aug 17 2024,15:00,Bradford City,0-0,0-0,Salford City,
-2,Sat Aug 17 2024,15:00,Colchester United,2-0,0-0,Milton Keynes Dons,
-2,Sat Aug 17 2024,15:00,Crewe Alexandra,0-5,0-4,Chesterfield FC,
-2,Sat Aug 17 2024,15:00,Morecambe FC,0-1,0-0,Gillingham FC,
-2,Sat Aug 17 2024,15:00,Grimsby Town,3-2,1-0,Cheltenham Town,
-2,Sat Aug 17 2024,15:00,Newport County,3-1,0-1,Doncaster Rovers,
-2,Sat Aug 17 2024,15:00,Port Vale FC,0-0,0-0,Tranmere Rovers,
-2,Sat Aug 17 2024,15:00,Swindon Town,0-4,0-2,Walsall FC,
-2,Sun Aug 18 2024,13:00,Notts County,2-2,0-1,Fleetwood Town,
-3,Thu Aug 22 2024,20:00,Notts County,4-1,3-1,Grimsby Town,
-3,Sat Aug 24 2024,12:30,Crewe Alexandra,0-0,0-0,Swindon Town,
-3,Sat Aug 24 2024,12:30,Tranmere Rovers,1-0,1-0,Walsall FC,
-3,Sat Aug 24 2024,15:00,Barrow AFC,4-0,0-0,Port Vale FC,
-3,Sat Aug 24 2024,15:00,Bradford City,3-1,2-0,Bromley FC,
-3,Sat Aug 24 2024,15:00,Cheltenham Town,0-1,0-0,AFC Wimbledon,
-3,Sat Aug 24 2024,15:00,Colchester United,0-1,0-0,Harrogate Town,
-3,Sat Aug 24 2024,15:00,Doncaster Rovers,1-0,1-0,Morecambe FC,
-3,Sat Aug 24 2024,15:00,Chesterfield FC,1-1,0-0,Salford City,
-3,Sat Aug 24 2024,15:00,Fleetwood Town,0-0,0-0,Gillingham FC,
-3,Sat Aug 24 2024,15:00,Milton Keynes Dons,3-0,2-0,Carlisle United,
-3,Sat Aug 24 2024,15:00,Newport County,3-1,1-1,Accrington Stanley,
-4,Sat Aug 31 2024,12:30,Gillingham FC,1-0,1-0,Chesterfield FC,
-4,Sat Aug 31 2024,12:30,Port Vale FC,2-3,1-1,Doncaster Rovers,
-4,Sat Aug 31 2024,15:00,Accrington Stanley,1-1,1-0,Colchester United,
-4,Sat Aug 31 2024,15:00,AFC Wimbledon,1-0,1-0,Fleetwood Town,
-4,Sat Aug 31 2024,15:00,Bromley FC,1-2,1-0,Crewe Alexandra,
-4,Sat Aug 31 2024,15:00,Carlisle United,1-2,1-2,Tranmere Rovers,
-4,Sat Aug 31 2024,15:00,Morecambe FC,0-1,0-1,Newport County,
-4,Sat Aug 31 2024,15:00,Grimsby Town,2-1,1-0,Bradford City,
-4,Sat Aug 31 2024,15:00,Harrogate Town,0-1,0-0,Barrow AFC,
-4,Sat Aug 31 2024,15:00,Swindon Town,1-2,1-1,Notts County,
-4,Sat Aug 31 2024,15:00,Walsall FC,2-1,0-0,Cheltenham Town,
-4,Mon Sep 2 2024,20:00,Salford City,1-0,1-0,Milton Keynes Dons,
-5,Sat Sep 7 2024,,Fleetwood Town,,,Salford City,postponed
-5,Sat Sep 7 2024,,Tranmere Rovers,,,AFC Wimbledon,postponed
-5,Sat Sep 7 2024,15:00,Barrow AFC,1-1,1-0,Swindon Town,
-5,Sat Sep 7 2024,15:00,Bradford City,2-1,1-0,Carlisle United,
-5,Sat Sep 7 2024,15:00,Cheltenham Town,1-0,0-0,Harrogate Town,
-5,Sat Sep 7 2024,15:00,Colchester United,1-1,0-1,Bromley FC,
-5,Sat Sep 7 2024,15:00,Crewe Alexandra,1-0,1-0,Morecambe FC,
-5,Sat Sep 7 2024,15:00,Doncaster Rovers,1-0,1-0,Gillingham FC,
-5,Sat Sep 7 2024,15:00,Chesterfield FC,2-1,2-0,Grimsby Town,
-5,Sat Sep 7 2024,15:00,Milton Keynes Dons,1-0,1-0,Walsall FC,
-5,Sat Sep 7 2024,15:00,Newport County,1-4,1-2,Port Vale FC,
-5,Sat Sep 7 2024,15:00,Notts County,2-0,1-0,Accrington Stanley,
-6,Thu Sep 12 2024,20:00,Harrogate Town,,,Doncaster Rovers,
-6,Sat Sep 14 2024,12:30,AFC Wimbledon,,,Milton Keynes Dons,
-6,Sat Sep 14 2024,12:30,Swindon Town,,,Newport County,
-6,Sat Sep 14 2024,15:00,Accrington Stanley,,,Crewe Alexandra,
-6,Sat Sep 14 2024,15:00,Bromley FC,,,Notts County,
-6,Sat Sep 14 2024,15:00,Carlisle United,,,Fleetwood Town,
-6,Sat Sep 14 2024,15:00,Gillingham FC,,,Tranmere Rovers,
-6,Sat Sep 14 2024,15:00,Morecambe FC,,,Colchester United,
-6,Sat Sep 14 2024,15:00,Grimsby Town,,,Barrow AFC,
-6,Sat Sep 14 2024,15:00,Port Vale FC,,,Chesterfield FC,
-6,Sat Sep 14 2024,15:00,Salford City,,,Cheltenham Town,
-6,Sat Sep 14 2024,15:00,Walsall FC,,,Bradford City,
-7,Sat Sep 21 2024,12:30,Chesterfield FC,,,Cheltenham Town,
-7,Sat Sep 21 2024,15:00,Accrington Stanley,,,Port Vale FC,
-7,Sat Sep 21 2024,15:00,Barrow AFC,,,Newport County,
-7,Sat Sep 21 2024,15:00,Bradford City,,,AFC Wimbledon,
-7,Sat Sep 21 2024,15:00,Colchester United,,,Tranmere Rovers,
-7,Sat Sep 21 2024,15:00,Crewe Alexandra,,,Harrogate Town,
-7,Sat Sep 21 2024,15:00,Fleetwood Town,,,Morecambe FC,
-7,Sat Sep 21 2024,15:00,Grimsby Town,,,Bromley FC,
-7,Sat Sep 21 2024,15:00,Milton Keynes Dons,,,Doncaster Rovers,
-7,Sat Sep 21 2024,15:00,Notts County,,,Gillingham FC,
-7,Sat Sep 21 2024,15:00,Salford City,,,Walsall FC,
-7,Sat Sep 21 2024,15:00,Swindon Town,,,Carlisle United,
-8,Fri Sep 27 2024,19:45,Tranmere Rovers,,,Salford City,
-8,Sat Sep 28 2024,12:30,Harrogate Town,,,Bradford City,
-8,Sat Sep 28 2024,12:30,Walsall FC,,,Colchester United,
-8,Sat Sep 28 2024,15:00,AFC Wimbledon,,,Accrington Stanley,
-8,Sat Sep 28 2024,15:00,Bromley FC,,,Milton Keynes Dons,
-8,Sat Sep 28 2024,15:00,Carlisle United,,,Grimsby Town,
-8,Sat Sep 28 2024,15:00,Cheltenham Town,,,Fleetwood Town,
-8,Sat Sep 28 2024,15:00,Doncaster Rovers,,,Chesterfield FC,
-8,Sat Sep 28 2024,15:00,Gillingham FC,,,Barrow AFC,
-8,Sat Sep 28 2024,15:00,Morecambe FC,,,Notts County,
-8,Sat Sep 28 2024,15:00,Newport County,,,Crewe Alexandra,
-8,Sat Sep 28 2024,15:00,Port Vale FC,,,Swindon Town,
-9,Tue Oct 1 2024,19:45,AFC Wimbledon,,,Crewe Alexandra,
-9,Tue Oct 1 2024,19:45,Bromley FC,,,Chesterfield FC,
-9,Tue Oct 1 2024,19:45,Carlisle United,,,Notts County,
-9,Tue Oct 1 2024,19:45,Cheltenham Town,,,Accrington Stanley,
-9,Tue Oct 1 2024,19:45,Doncaster Rovers,,,Barrow AFC,
-9,Tue Oct 1 2024,19:45,Gillingham FC,,,Grimsby Town,
-9,Tue Oct 1 2024,19:45,Morecambe FC,,,Bradford City,
-9,Tue Oct 1 2024,19:45,Harrogate Town,,,Milton Keynes Dons,
-9,Tue Oct 1 2024,19:45,Newport County,,,Salford City,
-9,Tue Oct 1 2024,19:45,Port Vale FC,,,Colchester United,
-9,Tue Oct 1 2024,19:45,Tranmere Rovers,,,Swindon Town,
-9,Tue Oct 1 2024,19:45,Walsall FC,,,Fleetwood Town,
-10,Sat Oct 5 2024,15:00,Accrington Stanley,,,Morecambe FC,
-10,Sat Oct 5 2024,15:00,Barrow AFC,,,Cheltenham Town,
-10,Sat Oct 5 2024,15:00,Bradford City,,,Newport County,
-10,Sat Oct 5 2024,15:00,Colchester United,,,Carlisle United,
-10,Sat Oct 5 2024,15:00,Crewe Alexandra,,,Gillingham FC,
-10,Sat Oct 5 2024,15:00,Chesterfield FC,,,Walsall FC,
-10,Sat Oct 5 2024,15:00,Fleetwood Town,,,Bromley FC,
-10,Sat Oct 5 2024,15:00,Grimsby Town,,,Doncaster Rovers,
-10,Sat Oct 5 2024,15:00,Milton Keynes Dons,,,Tranmere Rovers,
-10,Sat Oct 5 2024,15:00,Notts County,,,Port Vale FC,
-10,Sat Oct 5 2024,15:00,Salford City,,,AFC Wimbledon,
-10,Sat Oct 5 2024,15:00,Swindon Town,,,Harrogate Town,
-11,Sat Oct 12 2024,15:00,Barrow AFC,,,Morecambe FC,
-11,Sat Oct 12 2024,15:00,AFC Wimbledon,,,Carlisle United,
-11,Sat Oct 12 2024,15:00,Cheltenham Town,,,Swindon Town,
-11,Sat Oct 12 2024,15:00,Doncaster Rovers,,,Crewe Alexandra,
-11,Sat Oct 12 2024,15:00,Chesterfield FC,,,Notts County,
-11,Sat Oct 12 2024,15:00,Gillingham FC,,,Accrington Stanley,
-11,Sat Oct 12 2024,15:00,Fleetwood Town,,,Colchester United,
-11,Sat Oct 12 2024,15:00,Harrogate Town,,,Newport County,
-11,Sat Oct 12 2024,15:00,Milton Keynes Dons,,,Port Vale FC,
-11,Sat Oct 12 2024,15:00,Salford City,,,Grimsby Town,
-11,Sat Oct 12 2024,15:00,Tranmere Rovers,,,Bradford City,
-11,Sat Oct 12 2024,15:00,Walsall FC,,,Bromley FC,
-12,Sat Oct 19 2024,15:00,Accrington Stanley,,,Barrow AFC,
-12,Sat Oct 19 2024,15:00,Bradford City,,,Gillingham FC,
-12,Sat Oct 19 2024,15:00,Bromley FC,,,Tranmere Rovers,
-12,Sat Oct 19 2024,15:00,Carlisle United,,,Harrogate Town,
-12,Sat Oct 19 2024,15:00,Colchester United,,,Cheltenham Town,
-12,Sat Oct 19 2024,15:00,Crewe Alexandra,,,Salford City,
-12,Sat Oct 19 2024,15:00,Morecambe FC,,,Milton Keynes Dons,
-12,Sat Oct 19 2024,15:00,Grimsby Town,,,Walsall FC,
-12,Sat Oct 19 2024,15:00,Newport County,,,Chesterfield FC,
-12,Sat Oct 19 2024,15:00,Notts County,,,AFC Wimbledon,
-12,Sat Oct 19 2024,15:00,Port Vale FC,,,Fleetwood Town,
-12,Sat Oct 19 2024,15:00,Swindon Town,,,Doncaster Rovers,
-13,Tue Oct 22 2024,19:45,Barrow AFC,,,Notts County,
-13,Tue Oct 22 2024,19:45,AFC Wimbledon,,,Morecambe FC,
-13,Tue Oct 22 2024,19:45,Cheltenham Town,,,Bradford City,
-13,Tue Oct 22 2024,19:45,Doncaster Rovers,,,Bromley FC,
-13,Tue Oct 22 2024,19:45,Chesterfield FC,,,Colchester United,
-13,Tue Oct 22 2024,19:45,Gillingham FC,,,Newport County,
-13,Tue Oct 22 2024,19:45,Fleetwood Town,,,Crewe Alexandra,
-13,Tue Oct 22 2024,19:45,Harrogate Town,,,Port Vale FC,
-13,Tue Oct 22 2024,19:45,Milton Keynes Dons,,,Accrington Stanley,
-13,Tue Oct 22 2024,19:45,Salford City,,,Swindon Town,
-13,Tue Oct 22 2024,19:45,Tranmere Rovers,,,Grimsby Town,
-13,Tue Oct 22 2024,19:45,Walsall FC,,,Carlisle United,
-14,Sat Oct 26 2024,15:00,Accrington Stanley,,,Walsall FC,
-14,Sat Oct 26 2024,15:00,Bradford City,,,Doncaster Rovers,
-14,Sat Oct 26 2024,15:00,Bromley FC,,,Barrow AFC,
-14,Sat Oct 26 2024,15:00,Carlisle United,,,Cheltenham Town,
-14,Sat Oct 26 2024,15:00,Colchester United,,,Salford City,
-14,Sat Oct 26 2024,15:00,Crewe Alexandra,,,Tranmere Rovers,
-14,Sat Oct 26 2024,15:00,Morecambe FC,,,Chesterfield FC,
-14,Sat Oct 26 2024,15:00,Grimsby Town,,,Milton Keynes Dons,
-14,Sat Oct 26 2024,15:00,Newport County,,,Fleetwood Town,
-14,Sat Oct 26 2024,15:00,Notts County,,,Harrogate Town,
-14,Sat Oct 26 2024,15:00,Port Vale FC,,,AFC Wimbledon,
-14,Sat Oct 26 2024,15:00,Swindon Town,,,Gillingham FC,
-15,Sat Nov 9 2024,15:00,Barrow AFC,,,Colchester United,
-15,Sat Nov 9 2024,15:00,AFC Wimbledon,,,Grimsby Town,
-15,Sat Nov 9 2024,15:00,Cheltenham Town,,,Bromley FC,
-15,Sat Nov 9 2024,15:00,Doncaster Rovers,,,Notts County,
-15,Sat Nov 9 2024,15:00,Chesterfield FC,,,Accrington Stanley,
-15,Sat Nov 9 2024,15:00,Gillingham FC,,,Port Vale FC,
-15,Sat Nov 9 2024,15:00,Fleetwood Town,,,Bradford City,
-15,Sat Nov 9 2024,15:00,Harrogate Town,,,Morecambe FC,
-15,Sat Nov 9 2024,15:00,Milton Keynes Dons,,,Swindon Town,
-15,Sat Nov 9 2024,15:00,Salford City,,,Carlisle United,
-15,Sat Nov 9 2024,15:00,Tranmere Rovers,,,Newport County,
-15,Sat Nov 9 2024,15:00,Walsall FC,,,Crewe Alexandra,
-16,Sat Nov 16 2024,15:00,Accrington Stanley,,,Swindon Town,
-16,Sat Nov 16 2024,15:00,Barrow AFC,,,AFC Wimbledon,
-16,Sat Nov 16 2024,15:00,Bromley FC,,,Carlisle United,
-16,Sat Nov 16 2024,15:00,Colchester United,,,Bradford City,
-16,Sat Nov 16 2024,15:00,Crewe Alexandra,,,Notts County,
-16,Sat Nov 16 2024,15:00,Doncaster Rovers,,,Salford City,
-16,Sat Nov 16 2024,15:00,Morecambe FC,,,Port Vale FC,
-16,Sat Nov 16 2024,15:00,Harrogate Town,,,Chesterfield FC,
-16,Sat Nov 16 2024,15:00,Milton Keynes Dons,,,Cheltenham Town,
-16,Sat Nov 16 2024,15:00,Newport County,,,Grimsby Town,
-16,Sat Nov 16 2024,15:00,Tranmere Rovers,,,Fleetwood Town,
-16,Sat Nov 16 2024,15:00,Walsall FC,,,Gillingham FC,
-17,Sat Nov 23 2024,15:00,AFC Wimbledon,,,Walsall FC,
-17,Sat Nov 23 2024,15:00,Bradford City,,,Accrington Stanley,
-17,Sat Nov 23 2024,15:00,Carlisle United,,,Doncaster Rovers,
-17,Sat Nov 23 2024,15:00,Cheltenham Town,,,Tranmere Rovers,
-17,Sat Nov 23 2024,15:00,Chesterfield FC,,,Barrow AFC,
-17,Sat Nov 23 2024,15:00,Gillingham FC,,,Harrogate Town,
-17,Sat Nov 23 2024,15:00,Fleetwood Town,,,Milton Keynes Dons,
-17,Sat Nov 23 2024,15:00,Grimsby Town,,,Colchester United,
-17,Sat Nov 23 2024,15:00,Notts County,,,Newport County,
-17,Sat Nov 23 2024,15:00,Port Vale FC,,,Crewe Alexandra,
-17,Sat Nov 23 2024,15:00,Salford City,,,Bromley FC,
-17,Sat Nov 23 2024,15:00,Swindon Town,,,Morecambe FC,
-18,Tue Dec 3 2024,19:45,AFC Wimbledon,,,Newport County,
-18,Tue Dec 3 2024,19:45,Bradford City,,,Barrow AFC,
-18,Tue Dec 3 2024,19:45,Bromley FC,,,Gillingham FC,
-18,Tue Dec 3 2024,19:45,Carlisle United,,,Crewe Alexandra,
-18,Tue Dec 3 2024,19:45,Cheltenham Town,,,Port Vale FC,
-18,Tue Dec 3 2024,19:45,Colchester United,,,Swindon Town,
-18,Tue Dec 3 2024,19:45,Fleetwood Town,,,Doncaster Rovers,
-18,Tue Dec 3 2024,19:45,Grimsby Town,,,Accrington Stanley,
-18,Tue Dec 3 2024,19:45,Milton Keynes Dons,,,Chesterfield FC,
-18,Tue Dec 3 2024,19:45,Salford City,,,Harrogate Town,
-18,Tue Dec 3 2024,19:45,Tranmere Rovers,,,Morecambe FC,
-18,Tue Dec 3 2024,19:45,Walsall FC,,,Notts County,
-19,Sat Dec 7 2024,15:00,Accrington Stanley,,,Bromley FC,
-19,Sat Dec 7 2024,15:00,Barrow AFC,,,Milton Keynes Dons,
-19,Sat Dec 7 2024,15:00,Crewe Alexandra,,,Bradford City,
-19,Sat Dec 7 2024,15:00,Doncaster Rovers,,,Cheltenham Town,
-19,Sat Dec 7 2024,15:00,Chesterfield FC,,,Tranmere Rovers,
-19,Sat Dec 7 2024,15:00,Gillingham FC,,,Salford City,
-19,Sat Dec 7 2024,15:00,Morecambe FC,,,Grimsby Town,
-19,Sat Dec 7 2024,15:00,Harrogate Town,,,AFC Wimbledon,
-19,Sat Dec 7 2024,15:00,Newport County,,,Carlisle United,
-19,Sat Dec 7 2024,15:00,Notts County,,,Colchester United,
-19,Sat Dec 7 2024,15:00,Port Vale FC,,,Walsall FC,
-19,Sat Dec 7 2024,15:00,Swindon Town,,,Fleetwood Town,
-20,Sat Dec 14 2024,15:00,AFC Wimbledon,,,Doncaster Rovers,
-20,Sat Dec 14 2024,15:00,Bradford City,,,Swindon Town,
-20,Sat Dec 14 2024,15:00,Bromley FC,,,Port Vale FC,
-20,Sat Dec 14 2024,15:00,Carlisle United,,,Chesterfield FC,
-20,Sat Dec 14 2024,15:00,Cheltenham Town,,,Morecambe FC,
-20,Sat Dec 14 2024,15:00,Colchester United,,,Newport County,
-20,Sat Dec 14 2024,15:00,Fleetwood Town,,,Accrington Stanley,
-20,Sat Dec 14 2024,15:00,Grimsby Town,,,Crewe Alexandra,
-20,Sat Dec 14 2024,15:00,Milton Keynes Dons,,,Gillingham FC,
-20,Sat Dec 14 2024,15:00,Salford City,,,Notts County,
-20,Sat Dec 14 2024,15:00,Tranmere Rovers,,,Harrogate Town,
-20,Sat Dec 14 2024,15:00,Walsall FC,,,Barrow AFC,
-21,Sat Dec 21 2024,15:00,Accrington Stanley,,,Salford City,
-21,Sat Dec 21 2024,15:00,Barrow AFC,,,Fleetwood Town,
-21,Sat Dec 21 2024,15:00,Crewe Alexandra,,,Colchester United,
-21,Sat Dec 21 2024,15:00,Doncaster Rovers,,,Tranmere Rovers,
-21,Sat Dec 21 2024,15:00,Chesterfield FC,,,AFC Wimbledon,
-21,Sat Dec 21 2024,15:00,Gillingham FC,,,Cheltenham Town,
-21,Sat Dec 21 2024,15:00,Morecambe FC,,,Bromley FC,
-21,Sat Dec 21 2024,15:00,Harrogate Town,,,Walsall FC,
-21,Sat Dec 21 2024,15:00,Newport County,,,Milton Keynes Dons,
-21,Sat Dec 21 2024,15:00,Notts County,,,Bradford City,
-21,Sat Dec 21 2024,15:00,Port Vale FC,,,Carlisle United,
-21,Sat Dec 21 2024,15:00,Swindon Town,,,Grimsby Town,
-22,Thu Dec 26 2024,15:00,AFC Wimbledon,,,Swindon Town,
-22,Thu Dec 26 2024,15:00,Bradford City,,,Port Vale FC,
-22,Thu Dec 26 2024,15:00,Bromley FC,,,Newport County,
-22,Thu Dec 26 2024,15:00,Carlisle United,,,Morecambe FC,
-22,Thu Dec 26 2024,15:00,Cheltenham Town,,,Crewe Alexandra,
-22,Thu Dec 26 2024,15:00,Colchester United,,,Gillingham FC,
-22,Thu Dec 26 2024,15:00,Fleetwood Town,,,Chesterfield FC,
-22,Thu Dec 26 2024,15:00,Grimsby Town,,,Harrogate Town,
-22,Thu Dec 26 2024,15:00,Milton Keynes Dons,,,Notts County,
-22,Thu Dec 26 2024,15:00,Salford City,,,Barrow AFC,
-22,Thu Dec 26 2024,15:00,Tranmere Rovers,,,Accrington Stanley,
-22,Thu Dec 26 2024,15:00,Walsall FC,,,Doncaster Rovers,
-23,Sun Dec 29 2024,15:00,AFC Wimbledon,,,Gillingham FC,
-23,Sun Dec 29 2024,15:00,Bradford City,,,Chesterfield FC,
-23,Sun Dec 29 2024,15:00,Bromley FC,,,Swindon Town,
-23,Sun Dec 29 2024,15:00,Carlisle United,,,Accrington Stanley,
-23,Sun Dec 29 2024,15:00,Cheltenham Town,,,Notts County,
-23,Sun Dec 29 2024,15:00,Colchester United,,,Doncaster Rovers,
-23,Sun Dec 29 2024,15:00,Fleetwood Town,,,Harrogate Town,
-23,Sun Dec 29 2024,15:00,Grimsby Town,,,Port Vale FC,
-23,Sun Dec 29 2024,15:00,Milton Keynes Dons,,,Crewe Alexandra,
-23,Sun Dec 29 2024,15:00,Salford City,,,Morecambe FC,
-23,Sun Dec 29 2024,15:00,Tranmere Rovers,,,Barrow AFC,
-23,Sun Dec 29 2024,15:00,Walsall FC,,,Newport County,
-24,Wed Jan 1 2025,15:00,Accrington Stanley,,,Grimsby Town,
-24,Wed Jan 1 2025,15:00,Barrow AFC,,,Bradford City,
-24,Wed Jan 1 2025,15:00,Crewe Alexandra,,,Carlisle United,
-24,Wed Jan 1 2025,15:00,Doncaster Rovers,,,Fleetwood Town,
-24,Wed Jan 1 2025,15:00,Chesterfield FC,,,Milton Keynes Dons,
-24,Wed Jan 1 2025,15:00,Gillingham FC,,,Bromley FC,
-24,Wed Jan 1 2025,15:00,Morecambe FC,,,Tranmere Rovers,
-24,Wed Jan 1 2025,15:00,Harrogate Town,,,Salford City,
-24,Wed Jan 1 2025,15:00,Newport County,,,AFC Wimbledon,
-24,Wed Jan 1 2025,15:00,Notts County,,,Walsall FC,
-24,Wed Jan 1 2025,15:00,Port Vale FC,,,Cheltenham Town,
-24,Wed Jan 1 2025,15:00,Swindon Town,,,Colchester United,
-25,Sat Jan 4 2025,15:00,Barrow AFC,,,Harrogate Town,
-25,Sat Jan 4 2025,15:00,Bradford City,,,Grimsby Town,
-25,Sat Jan 4 2025,15:00,Cheltenham Town,,,Walsall FC,
-25,Sat Jan 4 2025,15:00,Colchester United,,,Accrington Stanley,
-25,Sat Jan 4 2025,15:00,Crewe Alexandra,,,Bromley FC,
-25,Sat Jan 4 2025,15:00,Doncaster Rovers,,,Port Vale FC,
-25,Sat Jan 4 2025,15:00,Chesterfield FC,,,Gillingham FC,
-25,Sat Jan 4 2025,15:00,Fleetwood Town,,,AFC Wimbledon,
-25,Sat Jan 4 2025,15:00,Milton Keynes Dons,,,Salford City,
-25,Sat Jan 4 2025,15:00,Newport County,,,Morecambe FC,
-25,Sat Jan 4 2025,15:00,Notts County,,,Swindon Town,
-25,Sat Jan 4 2025,15:00,Tranmere Rovers,,,Carlisle United,
-26,Sat Jan 11 2025,15:00,Accrington Stanley,,,Newport County,
-26,Sat Jan 11 2025,15:00,AFC Wimbledon,,,Cheltenham Town,
-26,Sat Jan 11 2025,15:00,Bromley FC,,,Bradford City,
-26,Sat Jan 11 2025,15:00,Carlisle United,,,Milton Keynes Dons,
-26,Sat Jan 11 2025,15:00,Gillingham FC,,,Fleetwood Town,
-26,Sat Jan 11 2025,15:00,Morecambe FC,,,Doncaster Rovers,
-26,Sat Jan 11 2025,15:00,Grimsby Town,,,Notts County,
-26,Sat Jan 11 2025,15:00,Harrogate Town,,,Colchester United,
-26,Sat Jan 11 2025,15:00,Port Vale FC,,,Barrow AFC,
-26,Sat Jan 11 2025,15:00,Salford City,,,Chesterfield FC,
-26,Sat Jan 11 2025,15:00,Swindon Town,,,Crewe Alexandra,
-26,Sat Jan 11 2025,15:00,Walsall FC,,,Tranmere Rovers,
-27,Sat Jan 18 2025,15:00,Accrington Stanley,,,Notts County,
-27,Sat Jan 18 2025,15:00,AFC Wimbledon,,,Tranmere Rovers,
-27,Sat Jan 18 2025,15:00,Bromley FC,,,Colchester United,
-27,Sat Jan 18 2025,15:00,Carlisle United,,,Bradford City,
-27,Sat Jan 18 2025,15:00,Gillingham FC,,,Doncaster Rovers,
-27,Sat Jan 18 2025,15:00,Morecambe FC,,,Crewe Alexandra,
-27,Sat Jan 18 2025,15:00,Grimsby Town,,,Chesterfield FC,
-27,Sat Jan 18 2025,15:00,Harrogate Town,,,Cheltenham Town,
-27,Sat Jan 18 2025,15:00,Port Vale FC,,,Newport County,
-27,Sat Jan 18 2025,15:00,Salford City,,,Fleetwood Town,
-27,Sat Jan 18 2025,15:00,Swindon Town,,,Barrow AFC,
-27,Sat Jan 18 2025,15:00,Walsall FC,,,Milton Keynes Dons,
-28,Sat Jan 25 2025,15:00,Barrow AFC,,,Grimsby Town,
-28,Sat Jan 25 2025,15:00,Bradford City,,,Walsall FC,
-28,Sat Jan 25 2025,15:00,Cheltenham Town,,,Salford City,
-28,Sat Jan 25 2025,15:00,Colchester United,,,Morecambe FC,
-28,Sat Jan 25 2025,15:00,Crewe Alexandra,,,Accrington Stanley,
-28,Sat Jan 25 2025,15:00,Doncaster Rovers,,,Harrogate Town,
-28,Sat Jan 25 2025,15:00,Chesterfield FC,,,Port Vale FC,
-28,Sat Jan 25 2025,15:00,Fleetwood Town,,,Carlisle United,
-28,Sat Jan 25 2025,15:00,Milton Keynes Dons,,,AFC Wimbledon,
-28,Sat Jan 25 2025,15:00,Newport County,,,Swindon Town,
-28,Sat Jan 25 2025,15:00,Notts County,,,Bromley FC,
-28,Sat Jan 25 2025,15:00,Tranmere Rovers,,,Gillingham FC,
-29,Tue Jan 28 2025,19:45,Accrington Stanley,,,Cheltenham Town,
-29,Tue Jan 28 2025,19:45,Barrow AFC,,,Doncaster Rovers,
-29,Tue Jan 28 2025,19:45,Bradford City,,,Morecambe FC,
-29,Tue Jan 28 2025,19:45,Colchester United,,,Port Vale FC,
-29,Tue Jan 28 2025,19:45,Crewe Alexandra,,,AFC Wimbledon,
-29,Tue Jan 28 2025,19:45,Chesterfield FC,,,Bromley FC,
-29,Tue Jan 28 2025,19:45,Fleetwood Town,,,Walsall FC,
-29,Tue Jan 28 2025,19:45,Grimsby Town,,,Gillingham FC,
-29,Tue Jan 28 2025,19:45,Milton Keynes Dons,,,Harrogate Town,
-29,Tue Jan 28 2025,19:45,Notts County,,,Carlisle United,
-29,Tue Jan 28 2025,19:45,Salford City,,,Newport County,
-29,Tue Jan 28 2025,19:45,Swindon Town,,,Tranmere Rovers,
-30,Sat Feb 1 2025,15:00,AFC Wimbledon,,,Bradford City,
-30,Sat Feb 1 2025,15:00,Bromley FC,,,Grimsby Town,
-30,Sat Feb 1 2025,15:00,Carlisle United,,,Swindon Town,
-30,Sat Feb 1 2025,15:00,Cheltenham Town,,,Chesterfield FC,
-30,Sat Feb 1 2025,15:00,Doncaster Rovers,,,Milton Keynes Dons,
-30,Sat Feb 1 2025,15:00,Gillingham FC,,,Notts County,
-30,Sat Feb 1 2025,15:00,Morecambe FC,,,Fleetwood Town,
-30,Sat Feb 1 2025,15:00,Harrogate Town,,,Crewe Alexandra,
-30,Sat Feb 1 2025,15:00,Newport County,,,Barrow AFC,
-30,Sat Feb 1 2025,15:00,Port Vale FC,,,Accrington Stanley,
-30,Sat Feb 1 2025,15:00,Tranmere Rovers,,,Colchester United,
-30,Sat Feb 1 2025,15:00,Walsall FC,,,Salford City,
-31,Sat Feb 8 2025,15:00,Accrington Stanley,,,AFC Wimbledon,
-31,Sat Feb 8 2025,15:00,Barrow AFC,,,Gillingham FC,
-31,Sat Feb 8 2025,15:00,Bradford City,,,Harrogate Town,
-31,Sat Feb 8 2025,15:00,Colchester United,,,Walsall FC,
-31,Sat Feb 8 2025,15:00,Crewe Alexandra,,,Newport County,
-31,Sat Feb 8 2025,15:00,Chesterfield FC,,,Doncaster Rovers,
-31,Sat Feb 8 2025,15:00,Fleetwood Town,,,Cheltenham Town,
-31,Sat Feb 8 2025,15:00,Grimsby Town,,,Carlisle United,
-31,Sat Feb 8 2025,15:00,Milton Keynes Dons,,,Bromley FC,
-31,Sat Feb 8 2025,15:00,Notts County,,,Morecambe FC,
-31,Sat Feb 8 2025,15:00,Salford City,,,Tranmere Rovers,
-31,Sat Feb 8 2025,15:00,Swindon Town,,,Port Vale FC,
-32,Sat Feb 15 2025,15:00,AFC Wimbledon,,,Salford City,
-32,Sat Feb 15 2025,15:00,Bromley FC,,,Fleetwood Town,
-32,Sat Feb 15 2025,15:00,Carlisle United,,,Colchester United,
-32,Sat Feb 15 2025,15:00,Cheltenham Town,,,Barrow AFC,
-32,Sat Feb 15 2025,15:00,Doncaster Rovers,,,Grimsby Town,
-32,Sat Feb 15 2025,15:00,Gillingham FC,,,Crewe Alexandra,
-32,Sat Feb 15 2025,15:00,Morecambe FC,,,Accrington Stanley,
-32,Sat Feb 15 2025,15:00,Harrogate Town,,,Swindon Town,
-32,Sat Feb 15 2025,15:00,Newport County,,,Bradford City,
-32,Sat Feb 15 2025,15:00,Port Vale FC,,,Notts County,
-32,Sat Feb 15 2025,15:00,Tranmere Rovers,,,Milton Keynes Dons,
-32,Sat Feb 15 2025,15:00,Walsall FC,,,Chesterfield FC,
-33,Sat Feb 22 2025,15:00,Accrington Stanley,,,Doncaster Rovers,
-33,Sat Feb 22 2025,15:00,Bradford City,,,Milton Keynes Dons,
-33,Sat Feb 22 2025,15:00,Bromley FC,,,Harrogate Town,
-33,Sat Feb 22 2025,15:00,Carlisle United,,,Gillingham FC,
-33,Sat Feb 22 2025,15:00,Colchester United,,,AFC Wimbledon,
-33,Sat Feb 22 2025,15:00,Crewe Alexandra,,,Barrow AFC,
-33,Sat Feb 22 2025,15:00,Morecambe FC,,,Walsall FC,
-33,Sat Feb 22 2025,15:00,Grimsby Town,,,Fleetwood Town,
-33,Sat Feb 22 2025,15:00,Newport County,,,Cheltenham Town,
-33,Sat Feb 22 2025,15:00,Notts County,,,Tranmere Rovers,
-33,Sat Feb 22 2025,15:00,Port Vale FC,,,Salford City,
-33,Sat Feb 22 2025,15:00,Swindon Town,,,Chesterfield FC,
-34,Sat Mar 1 2025,15:00,Barrow AFC,,,Carlisle United,
-34,Sat Mar 1 2025,15:00,AFC Wimbledon,,,Bromley FC,
-34,Sat Mar 1 2025,15:00,Cheltenham Town,,,Grimsby Town,
-34,Sat Mar 1 2025,15:00,Doncaster Rovers,,,Newport County,
-34,Sat Mar 1 2025,15:00,Chesterfield FC,,,Crewe Alexandra,
-34,Sat Mar 1 2025,15:00,Gillingham FC,,,Morecambe FC,
-34,Sat Mar 1 2025,15:00,Fleetwood Town,,,Notts County,
-34,Sat Mar 1 2025,15:00,Harrogate Town,,,Accrington Stanley,
-34,Sat Mar 1 2025,15:00,Milton Keynes Dons,,,Colchester United,
-34,Sat Mar 1 2025,15:00,Salford City,,,Bradford City,
-34,Sat Mar 1 2025,15:00,Tranmere Rovers,,,Port Vale FC,
-34,Sat Mar 1 2025,15:00,Walsall FC,,,Swindon Town,
-35,Tue Mar 4 2025,19:45,Accrington Stanley,,,Milton Keynes Dons,
-35,Tue Mar 4 2025,19:45,Bradford City,,,Cheltenham Town,
-35,Tue Mar 4 2025,19:45,Bromley FC,,,Doncaster Rovers,
-35,Tue Mar 4 2025,19:45,Carlisle United,,,Walsall FC,
-35,Tue Mar 4 2025,19:45,Colchester United,,,Chesterfield FC,
-35,Tue Mar 4 2025,19:45,Crewe Alexandra,,,Fleetwood Town,
-35,Tue Mar 4 2025,19:45,Morecambe FC,,,AFC Wimbledon,
-35,Tue Mar 4 2025,19:45,Grimsby Town,,,Tranmere Rovers,
-35,Tue Mar 4 2025,19:45,Newport County,,,Gillingham FC,
-35,Tue Mar 4 2025,19:45,Notts County,,,Barrow AFC,
-35,Tue Mar 4 2025,19:45,Port Vale FC,,,Harrogate Town,
-35,Tue Mar 4 2025,19:45,Swindon Town,,,Salford City,
-36,Sat Mar 8 2025,15:00,Barrow AFC,,,Accrington Stanley,
-36,Sat Mar 8 2025,15:00,AFC Wimbledon,,,Notts County,
-36,Sat Mar 8 2025,15:00,Cheltenham Town,,,Colchester United,
-36,Sat Mar 8 2025,15:00,Doncaster Rovers,,,Swindon Town,
-36,Sat Mar 8 2025,15:00,Chesterfield FC,,,Newport County,
-36,Sat Mar 8 2025,15:00,Gillingham FC,,,Bradford City,
-36,Sat Mar 8 2025,15:00,Fleetwood Town,,,Port Vale FC,
-36,Sat Mar 8 2025,15:00,Harrogate Town,,,Carlisle United,
-36,Sat Mar 8 2025,15:00,Milton Keynes Dons,,,Morecambe FC,
-36,Sat Mar 8 2025,15:00,Salford City,,,Crewe Alexandra,
-36,Sat Mar 8 2025,15:00,Tranmere Rovers,,,Bromley FC,
-36,Sat Mar 8 2025,15:00,Walsall FC,,,Grimsby Town,
-37,Sat Mar 15 2025,15:00,Accrington Stanley,,,Gillingham FC,
-37,Sat Mar 15 2025,15:00,Bradford City,,,Tranmere Rovers,
-37,Sat Mar 15 2025,15:00,Bromley FC,,,Walsall FC,
-37,Sat Mar 15 2025,15:00,Carlisle United,,,AFC Wimbledon,
-37,Sat Mar 15 2025,15:00,Colchester United,,,Fleetwood Town,
-37,Sat Mar 15 2025,15:00,Crewe Alexandra,,,Doncaster Rovers,
-37,Sat Mar 15 2025,15:00,Morecambe FC,,,Barrow AFC,
-37,Sat Mar 15 2025,15:00,Grimsby Town,,,Salford City,
-37,Sat Mar 15 2025,15:00,Newport County,,,Harrogate Town,
-37,Sat Mar 15 2025,15:00,Notts County,,,Chesterfield FC,
-37,Sat Mar 15 2025,15:00,Port Vale FC,,,Milton Keynes Dons,
-37,Sat Mar 15 2025,15:00,Swindon Town,,,Cheltenham Town,
-38,Sat Mar 22 2025,15:00,AFC Wimbledon,,,Barrow AFC,
-38,Sat Mar 22 2025,15:00,Bradford City,,,Colchester United,
-38,Sat Mar 22 2025,15:00,Carlisle United,,,Bromley FC,
-38,Sat Mar 22 2025,15:00,Cheltenham Town,,,Milton Keynes Dons,
-38,Sat Mar 22 2025,15:00,Chesterfield FC,,,Harrogate Town,
-38,Sat Mar 22 2025,15:00,Gillingham FC,,,Walsall FC,
-38,Sat Mar 22 2025,15:00,Fleetwood Town,,,Tranmere Rovers,
-38,Sat Mar 22 2025,15:00,Grimsby Town,,,Newport County,
-38,Sat Mar 22 2025,15:00,Notts County,,,Crewe Alexandra,
-38,Sat Mar 22 2025,15:00,Port Vale FC,,,Morecambe FC,
-38,Sat Mar 22 2025,15:00,Salford City,,,Doncaster Rovers,
-38,Sat Mar 22 2025,15:00,Swindon Town,,,Accrington Stanley,
-39,Sat Mar 29 2025,15:00,Accrington Stanley,,,Bradford City,
-39,Sat Mar 29 2025,15:00,Barrow AFC,,,Chesterfield FC,
-39,Sat Mar 29 2025,15:00,Bromley FC,,,Salford City,
-39,Sat Mar 29 2025,15:00,Colchester United,,,Grimsby Town,
-39,Sat Mar 29 2025,15:00,Crewe Alexandra,,,Port Vale FC,
-39,Sat Mar 29 2025,15:00,Doncaster Rovers,,,Carlisle United,
-39,Sat Mar 29 2025,15:00,Morecambe FC,,,Swindon Town,
-39,Sat Mar 29 2025,15:00,Harrogate Town,,,Gillingham FC,
-39,Sat Mar 29 2025,15:00,Milton Keynes Dons,,,Fleetwood Town,
-39,Sat Mar 29 2025,15:00,Newport County,,,Notts County,
-39,Sat Mar 29 2025,15:00,Tranmere Rovers,,,Cheltenham Town,
-39,Sat Mar 29 2025,15:00,Walsall FC,,,AFC Wimbledon,
-40,Tue Apr 1 2025,19:45,Accrington Stanley,,,Fleetwood Town,
-40,Tue Apr 1 2025,19:45,Barrow AFC,,,Salford City,
-40,Tue Apr 1 2025,19:45,Crewe Alexandra,,,Grimsby Town,
-40,Tue Apr 1 2025,19:45,Doncaster Rovers,,,Walsall FC,
-40,Tue Apr 1 2025,19:45,Chesterfield FC,,,Carlisle United,
-40,Tue Apr 1 2025,19:45,Gillingham FC,,,Colchester United,
-40,Tue Apr 1 2025,19:45,Morecambe FC,,,Cheltenham Town,
-40,Tue Apr 1 2025,19:45,Harrogate Town,,,Tranmere Rovers,
-40,Tue Apr 1 2025,19:45,Newport County,,,Bromley FC,
-40,Tue Apr 1 2025,19:45,Notts County,,,Milton Keynes Dons,
-40,Tue Apr 1 2025,19:45,Port Vale FC,,,Bradford City,
-40,Tue Apr 1 2025,19:45,Swindon Town,,,AFC Wimbledon,
-41,Sat Apr 5 2025,15:00,AFC Wimbledon,,,Harrogate Town,
-41,Sat Apr 5 2025,15:00,Bradford City,,,Crewe Alexandra,
-41,Sat Apr 5 2025,15:00,Bromley FC,,,Accrington Stanley,
-41,Sat Apr 5 2025,15:00,Carlisle United,,,Newport County,
-41,Sat Apr 5 2025,15:00,Cheltenham Town,,,Doncaster Rovers,
-41,Sat Apr 5 2025,15:00,Colchester United,,,Notts County,
-41,Sat Apr 5 2025,15:00,Fleetwood Town,,,Swindon Town,
-41,Sat Apr 5 2025,15:00,Grimsby Town,,,Morecambe FC,
-41,Sat Apr 5 2025,15:00,Milton Keynes Dons,,,Barrow AFC,
-41,Sat Apr 5 2025,15:00,Salford City,,,Gillingham FC,
-41,Sat Apr 5 2025,15:00,Tranmere Rovers,,,Chesterfield FC,
-41,Sat Apr 5 2025,15:00,Walsall FC,,,Port Vale FC,
-42,Sat Apr 12 2025,15:00,Accrington Stanley,,,Tranmere Rovers,
-42,Sat Apr 12 2025,15:00,Barrow AFC,,,Walsall FC,
-42,Sat Apr 12 2025,15:00,Crewe Alexandra,,,Cheltenham Town,
-42,Sat Apr 12 2025,15:00,Doncaster Rovers,,,AFC Wimbledon,
-42,Sat Apr 12 2025,15:00,Chesterfield FC,,,Fleetwood Town,
-42,Sat Apr 12 2025,15:00,Gillingham FC,,,Milton Keynes Dons,
-42,Sat Apr 12 2025,15:00,Morecambe FC,,,Carlisle United,
-42,Sat Apr 12 2025,15:00,Harrogate Town,,,Grimsby Town,
-42,Sat Apr 12 2025,15:00,Newport County,,,Colchester United,
-42,Sat Apr 12 2025,15:00,Notts County,,,Salford City,
-42,Sat Apr 12 2025,15:00,Port Vale FC,,,Bromley FC,
-42,Sat Apr 12 2025,15:00,Swindon Town,,,Bradford City,
-43,Fri Apr 18 2025,15:00,AFC Wimbledon,,,Chesterfield FC,
-43,Fri Apr 18 2025,15:00,Bradford City,,,Notts County,
-43,Fri Apr 18 2025,15:00,Bromley FC,,,Morecambe FC,
-43,Fri Apr 18 2025,15:00,Carlisle United,,,Port Vale FC,
-43,Fri Apr 18 2025,15:00,Cheltenham Town,,,Gillingham FC,
-43,Fri Apr 18 2025,15:00,Colchester United,,,Crewe Alexandra,
-43,Fri Apr 18 2025,15:00,Fleetwood Town,,,Barrow AFC,
-43,Fri Apr 18 2025,15:00,Grimsby Town,,,Swindon Town,
-43,Fri Apr 18 2025,15:00,Milton Keynes Dons,,,Newport County,
-43,Fri Apr 18 2025,15:00,Salford City,,,Accrington Stanley,
-43,Fri Apr 18 2025,15:00,Tranmere Rovers,,,Doncaster Rovers,
-43,Fri Apr 18 2025,15:00,Walsall FC,,,Harrogate Town,
-44,Mon Apr 21 2025,15:00,Accrington Stanley,,,Carlisle United,
-44,Mon Apr 21 2025,15:00,Barrow AFC,,,Tranmere Rovers,
-44,Mon Apr 21 2025,15:00,Crewe Alexandra,,,Milton Keynes Dons,
-44,Mon Apr 21 2025,15:00,Doncaster Rovers,,,Colchester United,
-44,Mon Apr 21 2025,15:00,Chesterfield FC,,,Bradford City,
-44,Mon Apr 21 2025,15:00,Gillingham FC,,,AFC Wimbledon,
-44,Mon Apr 21 2025,15:00,Morecambe FC,,,Salford City,
-44,Mon Apr 21 2025,15:00,Harrogate Town,,,Fleetwood Town,
-44,Mon Apr 21 2025,15:00,Newport County,,,Walsall FC,
-44,Mon Apr 21 2025,15:00,Notts County,,,Cheltenham Town,
-44,Mon Apr 21 2025,15:00,Port Vale FC,,,Grimsby Town,
-44,Mon Apr 21 2025,15:00,Swindon Town,,,Bromley FC,
-45,Sat Apr 26 2025,15:00,Barrow AFC,,,Bromley FC,
-45,Sat Apr 26 2025,15:00,AFC Wimbledon,,,Port Vale FC,
-45,Sat Apr 26 2025,15:00,Cheltenham Town,,,Carlisle United,
-45,Sat Apr 26 2025,15:00,Doncaster Rovers,,,Bradford City,
-45,Sat Apr 26 2025,15:00,Chesterfield FC,,,Morecambe FC,
-45,Sat Apr 26 2025,15:00,Gillingham FC,,,Swindon Town,
-45,Sat Apr 26 2025,15:00,Fleetwood Town,,,Newport County,
-45,Sat Apr 26 2025,15:00,Harrogate Town,,,Notts County,
-45,Sat Apr 26 2025,15:00,Milton Keynes Dons,,,Grimsby Town,
-45,Sat Apr 26 2025,15:00,Salford City,,,Colchester United,
-45,Sat Apr 26 2025,15:00,Tranmere Rovers,,,Crewe Alexandra,
-45,Sat Apr 26 2025,15:00,Walsall FC,,,Accrington Stanley,
-46,Sat May 3 2025,15:00,Accrington Stanley,,,Chesterfield FC,
-46,Sat May 3 2025,15:00,Bradford City,,,Fleetwood Town,
-46,Sat May 3 2025,15:00,Bromley FC,,,Cheltenham Town,
-46,Sat May 3 2025,15:00,Carlisle United,,,Salford City,
-46,Sat May 3 2025,15:00,Colchester United,,,Barrow AFC,
-46,Sat May 3 2025,15:00,Crewe Alexandra,,,Walsall FC,
-46,Sat May 3 2025,15:00,Morecambe FC,,,Harrogate Town,
-46,Sat May 3 2025,15:00,Grimsby Town,,,AFC Wimbledon,
-46,Sat May 3 2025,15:00,Newport County,,,Tranmere Rovers,
-46,Sat May 3 2025,15:00,Notts County,,,Doncaster Rovers,
-46,Sat May 3 2025,15:00,Port Vale FC,,,Gillingham FC,
-46,Sat May 3 2025,15:00,Swindon Town,,,Milton Keynes Dons,
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Aug 9 2024,20:00,BST/+0100,Chesterfield FC,1-1,1-0,Swindon Town,,2024-08-09T19:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Barrow AFC,1-0,1-0,Crewe Alexandra,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,AFC Wimbledon,4-2,3-2,Colchester United,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Cheltenham Town,3-2,2-2,Newport County,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Doncaster Rovers,4-1,1-0,Accrington Stanley,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Gillingham FC,4-1,1-0,Carlisle United,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Fleetwood Town,1-0,1-0,Grimsby Town,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Harrogate Town,0-2,0-0,Bromley FC,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Milton Keynes Dons,1-2,1-2,Bradford City,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Salford City,0-2,0-1,Port Vale FC,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Tranmere Rovers,0-0,0-0,Notts County,,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Walsall FC,1-0,1-0,Morecambe FC,,2024-08-10T14:00Z
+2,Sat Aug 17 2024,12:30,BST/+0100,Bromley FC,2-0,1-0,AFC Wimbledon,,2024-08-17T11:30Z
+2,Sat Aug 17 2024,12:30,BST/+0100,Carlisle United,1-0,1-0,Barrow AFC,,2024-08-17T11:30Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Accrington Stanley,3-3,1-2,Harrogate Town,,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Bradford City,0-0,0-0,Salford City,,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Colchester United,2-0,0-0,Milton Keynes Dons,,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Crewe Alexandra,0-5,0-4,Chesterfield FC,,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Morecambe FC,0-1,0-0,Gillingham FC,,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Grimsby Town,3-2,1-0,Cheltenham Town,,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Newport County,3-1,0-1,Doncaster Rovers,,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Port Vale FC,0-0,0-0,Tranmere Rovers,,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Swindon Town,0-4,0-2,Walsall FC,,2024-08-17T14:00Z
+2,Sun Aug 18 2024,13:00,BST/+0100,Notts County,2-2,0-1,Fleetwood Town,,2024-08-18T12:00Z
+3,Thu Aug 22 2024,20:00,BST/+0100,Notts County,4-1,3-1,Grimsby Town,,2024-08-22T19:00Z
+3,Sat Aug 24 2024,12:30,BST/+0100,Crewe Alexandra,0-0,0-0,Swindon Town,,2024-08-24T11:30Z
+3,Sat Aug 24 2024,12:30,BST/+0100,Tranmere Rovers,1-0,1-0,Walsall FC,,2024-08-24T11:30Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Barrow AFC,4-0,0-0,Port Vale FC,,2024-08-24T14:00Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Bradford City,3-1,2-0,Bromley FC,,2024-08-24T14:00Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Cheltenham Town,0-1,0-0,AFC Wimbledon,,2024-08-24T14:00Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Colchester United,0-1,0-0,Harrogate Town,,2024-08-24T14:00Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Doncaster Rovers,1-0,1-0,Morecambe FC,,2024-08-24T14:00Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Chesterfield FC,1-1,0-0,Salford City,,2024-08-24T14:00Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Fleetwood Town,0-0,0-0,Gillingham FC,,2024-08-24T14:00Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Milton Keynes Dons,3-0,2-0,Carlisle United,,2024-08-24T14:00Z
+3,Sat Aug 24 2024,15:00,BST/+0100,Newport County,3-1,1-1,Accrington Stanley,,2024-08-24T14:00Z
+4,Sat Aug 31 2024,12:30,BST/+0100,Gillingham FC,1-0,1-0,Chesterfield FC,,2024-08-31T11:30Z
+4,Sat Aug 31 2024,12:30,BST/+0100,Port Vale FC,2-3,1-1,Doncaster Rovers,,2024-08-31T11:30Z
+4,Sat Aug 31 2024,15:00,BST/+0100,Accrington Stanley,1-1,1-0,Colchester United,,2024-08-31T14:00Z
+4,Sat Aug 31 2024,15:00,BST/+0100,AFC Wimbledon,1-0,1-0,Fleetwood Town,,2024-08-31T14:00Z
+4,Sat Aug 31 2024,15:00,BST/+0100,Bromley FC,1-2,1-0,Crewe Alexandra,,2024-08-31T14:00Z
+4,Sat Aug 31 2024,15:00,BST/+0100,Carlisle United,1-2,1-2,Tranmere Rovers,,2024-08-31T14:00Z
+4,Sat Aug 31 2024,15:00,BST/+0100,Morecambe FC,0-1,0-1,Newport County,,2024-08-31T14:00Z
+4,Sat Aug 31 2024,15:00,BST/+0100,Grimsby Town,2-1,1-0,Bradford City,,2024-08-31T14:00Z
+4,Sat Aug 31 2024,15:00,BST/+0100,Harrogate Town,0-1,0-0,Barrow AFC,,2024-08-31T14:00Z
+4,Sat Aug 31 2024,15:00,BST/+0100,Swindon Town,1-2,1-1,Notts County,,2024-08-31T14:00Z
+4,Sat Aug 31 2024,15:00,BST/+0100,Walsall FC,2-1,0-0,Cheltenham Town,,2024-08-31T14:00Z
+4,Mon Sep 2 2024,20:00,BST/+0100,Salford City,1-0,1-0,Milton Keynes Dons,,2024-09-02T19:00Z
+5,Sat Sep 7 2024,,,Fleetwood Town,,,Salford City,postponed,
+5,Sat Sep 7 2024,,,Tranmere Rovers,,,AFC Wimbledon,postponed,
+5,Sat Sep 7 2024,15:00,BST/+0100,Barrow AFC,1-1,1-0,Swindon Town,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Bradford City,2-1,1-0,Carlisle United,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Cheltenham Town,1-0,0-0,Harrogate Town,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Colchester United,1-1,0-1,Bromley FC,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Crewe Alexandra,1-0,1-0,Morecambe FC,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Doncaster Rovers,1-0,1-0,Gillingham FC,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Chesterfield FC,2-1,2-0,Grimsby Town,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Milton Keynes Dons,1-0,1-0,Walsall FC,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Newport County,1-4,1-2,Port Vale FC,,2024-09-07T14:00Z
+5,Sat Sep 7 2024,15:00,BST/+0100,Notts County,2-0,1-0,Accrington Stanley,,2024-09-07T14:00Z
+6,Thu Sep 12 2024,20:00,BST/+0100,Harrogate Town,2-0,2-0,Doncaster Rovers,,2024-09-12T19:00Z
+6,Sat Sep 14 2024,12:30,BST/+0100,AFC Wimbledon,3-0,1-0,Milton Keynes Dons,,2024-09-14T11:30Z
+6,Sat Sep 14 2024,12:30,BST/+0100,Swindon Town,4-0,4-0,Newport County,,2024-09-14T11:30Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Accrington Stanley,0-1,0-0,Crewe Alexandra,,2024-09-14T14:00Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Bromley FC,2-4,2-1,Notts County,,2024-09-14T14:00Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Carlisle United,2-3,1-2,Fleetwood Town,,2024-09-14T14:00Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Gillingham FC,3-0,0-0,Tranmere Rovers,,2024-09-14T14:00Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Morecambe FC,3-3,1-1,Colchester United,,2024-09-14T14:00Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Grimsby Town,1-2,1-2,Barrow AFC,,2024-09-14T14:00Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Port Vale FC,1-0,1-0,Chesterfield FC,,2024-09-14T14:00Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Salford City,2-1,0-0,Cheltenham Town,,2024-09-14T14:00Z
+6,Sat Sep 14 2024,15:00,BST/+0100,Walsall FC,2-1,1-1,Bradford City,,2024-09-14T14:00Z
+7,Sat Sep 21 2024,12:30,BST/+0100,Chesterfield FC,,,Cheltenham Town,,2024-09-21T11:30Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Accrington Stanley,,,Port Vale FC,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Barrow AFC,,,Newport County,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Bradford City,,,AFC Wimbledon,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Colchester United,,,Tranmere Rovers,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Crewe Alexandra,,,Harrogate Town,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Grimsby Town,,,Bromley FC,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Milton Keynes Dons,,,Doncaster Rovers,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Notts County,,,Gillingham FC,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Salford City,,,Walsall FC,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,15:00,BST/+0100,Swindon Town,,,Carlisle United,,2024-09-21T14:00Z
+7,Mon Sep 23 2024,20:00,BST/+0100,Fleetwood Town,,,Morecambe FC,,2024-09-23T19:00Z
+8,Fri Sep 27 2024,19:45,BST/+0100,Tranmere Rovers,,,Salford City,,2024-09-27T18:45Z
+8,Sat Sep 28 2024,12:30,BST/+0100,Harrogate Town,,,Bradford City,,2024-09-28T11:30Z
+8,Sat Sep 28 2024,12:30,BST/+0100,Walsall FC,,,Colchester United,,2024-09-28T11:30Z
+8,Sat Sep 28 2024,15:00,BST/+0100,AFC Wimbledon,,,Accrington Stanley,,2024-09-28T14:00Z
+8,Sat Sep 28 2024,15:00,BST/+0100,Bromley FC,,,Milton Keynes Dons,,2024-09-28T14:00Z
+8,Sat Sep 28 2024,15:00,BST/+0100,Carlisle United,,,Grimsby Town,,2024-09-28T14:00Z
+8,Sat Sep 28 2024,15:00,BST/+0100,Cheltenham Town,,,Fleetwood Town,,2024-09-28T14:00Z
+8,Sat Sep 28 2024,15:00,BST/+0100,Doncaster Rovers,,,Chesterfield FC,,2024-09-28T14:00Z
+8,Sat Sep 28 2024,15:00,BST/+0100,Gillingham FC,,,Barrow AFC,,2024-09-28T14:00Z
+8,Sat Sep 28 2024,15:00,BST/+0100,Morecambe FC,,,Notts County,,2024-09-28T14:00Z
+8,Sat Sep 28 2024,15:00,BST/+0100,Newport County,,,Crewe Alexandra,,2024-09-28T14:00Z
+8,Sat Sep 28 2024,15:00,BST/+0100,Port Vale FC,,,Swindon Town,,2024-09-28T14:00Z
+9,Tue Oct 1 2024,19:45,BST/+0100,AFC Wimbledon,,,Crewe Alexandra,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Bromley FC,,,Chesterfield FC,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Carlisle United,,,Notts County,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Cheltenham Town,,,Accrington Stanley,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Doncaster Rovers,,,Barrow AFC,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Gillingham FC,,,Grimsby Town,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Morecambe FC,,,Bradford City,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Harrogate Town,,,Milton Keynes Dons,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Newport County,,,Salford City,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Port Vale FC,,,Colchester United,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Tranmere Rovers,,,Swindon Town,,2024-10-01T18:45Z
+9,Tue Oct 1 2024,19:45,BST/+0100,Walsall FC,,,Fleetwood Town,,2024-10-01T18:45Z
+10,Sat Oct 5 2024,12:30,BST/+0100,Fleetwood Town,,,Bromley FC,,2024-10-05T11:30Z
+10,Sat Oct 5 2024,12:30,BST/+0100,Grimsby Town,,,Doncaster Rovers,,2024-10-05T11:30Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Accrington Stanley,,,Morecambe FC,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Barrow AFC,,,Cheltenham Town,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Bradford City,,,Newport County,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Colchester United,,,Carlisle United,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Crewe Alexandra,,,Gillingham FC,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Chesterfield FC,,,Walsall FC,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Milton Keynes Dons,,,Tranmere Rovers,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Notts County,,,Port Vale FC,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Salford City,,,AFC Wimbledon,,2024-10-05T14:00Z
+10,Sat Oct 5 2024,15:00,BST/+0100,Swindon Town,,,Harrogate Town,,2024-10-05T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Barrow AFC,,,Morecambe FC,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,AFC Wimbledon,,,Carlisle United,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Cheltenham Town,,,Swindon Town,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Doncaster Rovers,,,Crewe Alexandra,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Chesterfield FC,,,Notts County,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Gillingham FC,,,Accrington Stanley,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Fleetwood Town,,,Colchester United,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Harrogate Town,,,Newport County,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Milton Keynes Dons,,,Port Vale FC,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Salford City,,,Grimsby Town,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Tranmere Rovers,,,Bradford City,,2024-10-12T14:00Z
+11,Sat Oct 12 2024,15:00,BST/+0100,Walsall FC,,,Bromley FC,,2024-10-12T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Accrington Stanley,,,Barrow AFC,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Bradford City,,,Gillingham FC,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Bromley FC,,,Tranmere Rovers,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Carlisle United,,,Harrogate Town,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Colchester United,,,Cheltenham Town,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Crewe Alexandra,,,Salford City,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Morecambe FC,,,Milton Keynes Dons,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Grimsby Town,,,Walsall FC,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Newport County,,,Chesterfield FC,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Notts County,,,AFC Wimbledon,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Port Vale FC,,,Fleetwood Town,,2024-10-19T14:00Z
+12,Sat Oct 19 2024,15:00,BST/+0100,Swindon Town,,,Doncaster Rovers,,2024-10-19T14:00Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Barrow AFC,,,Notts County,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,AFC Wimbledon,,,Morecambe FC,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Cheltenham Town,,,Bradford City,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Doncaster Rovers,,,Bromley FC,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Chesterfield FC,,,Colchester United,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Gillingham FC,,,Newport County,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Fleetwood Town,,,Crewe Alexandra,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Harrogate Town,,,Port Vale FC,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Milton Keynes Dons,,,Accrington Stanley,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Salford City,,,Swindon Town,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Tranmere Rovers,,,Grimsby Town,,2024-10-22T18:45Z
+13,Tue Oct 22 2024,19:45,BST/+0100,Walsall FC,,,Carlisle United,,2024-10-22T18:45Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Accrington Stanley,,,Walsall FC,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Bradford City,,,Doncaster Rovers,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Bromley FC,,,Barrow AFC,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Carlisle United,,,Cheltenham Town,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Colchester United,,,Salford City,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Crewe Alexandra,,,Tranmere Rovers,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Morecambe FC,,,Chesterfield FC,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Grimsby Town,,,Milton Keynes Dons,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Newport County,,,Fleetwood Town,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Notts County,,,Harrogate Town,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Port Vale FC,,,AFC Wimbledon,,2024-10-26T14:00Z
+14,Sat Oct 26 2024,15:00,BST/+0100,Swindon Town,,,Gillingham FC,,2024-10-26T14:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Barrow AFC,,,Colchester United,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,AFC Wimbledon,,,Grimsby Town,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Cheltenham Town,,,Bromley FC,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Doncaster Rovers,,,Notts County,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Chesterfield FC,,,Accrington Stanley,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Gillingham FC,,,Port Vale FC,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Fleetwood Town,,,Bradford City,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Harrogate Town,,,Morecambe FC,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Milton Keynes Dons,,,Swindon Town,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Salford City,,,Carlisle United,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Tranmere Rovers,,,Newport County,,2024-11-09T15:00Z
+15,Sat Nov 9 2024,15:00,GMT/+0000,Walsall FC,,,Crewe Alexandra,,2024-11-09T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Accrington Stanley,,,Swindon Town,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Barrow AFC,,,AFC Wimbledon,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Bromley FC,,,Carlisle United,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Colchester United,,,Bradford City,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Crewe Alexandra,,,Notts County,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Doncaster Rovers,,,Salford City,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Morecambe FC,,,Port Vale FC,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Harrogate Town,,,Chesterfield FC,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Milton Keynes Dons,,,Cheltenham Town,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Newport County,,,Grimsby Town,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Tranmere Rovers,,,Fleetwood Town,,2024-11-16T15:00Z
+16,Sat Nov 16 2024,15:00,GMT/+0000,Walsall FC,,,Gillingham FC,,2024-11-16T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,AFC Wimbledon,,,Walsall FC,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Bradford City,,,Accrington Stanley,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Carlisle United,,,Doncaster Rovers,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Cheltenham Town,,,Tranmere Rovers,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Chesterfield FC,,,Barrow AFC,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Gillingham FC,,,Harrogate Town,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Fleetwood Town,,,Milton Keynes Dons,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Grimsby Town,,,Colchester United,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Notts County,,,Newport County,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Port Vale FC,,,Crewe Alexandra,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Salford City,,,Bromley FC,,2024-11-23T15:00Z
+17,Sat Nov 23 2024,15:00,GMT/+0000,Swindon Town,,,Morecambe FC,,2024-11-23T15:00Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,AFC Wimbledon,,,Newport County,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Bradford City,,,Barrow AFC,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Bromley FC,,,Gillingham FC,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Carlisle United,,,Crewe Alexandra,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Cheltenham Town,,,Port Vale FC,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Colchester United,,,Swindon Town,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Fleetwood Town,,,Doncaster Rovers,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Grimsby Town,,,Accrington Stanley,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Milton Keynes Dons,,,Chesterfield FC,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Salford City,,,Harrogate Town,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Tranmere Rovers,,,Morecambe FC,,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Walsall FC,,,Notts County,,2024-12-03T19:45Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Accrington Stanley,,,Bromley FC,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Barrow AFC,,,Milton Keynes Dons,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Crewe Alexandra,,,Bradford City,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Doncaster Rovers,,,Cheltenham Town,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Chesterfield FC,,,Tranmere Rovers,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Gillingham FC,,,Salford City,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Morecambe FC,,,Grimsby Town,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Harrogate Town,,,AFC Wimbledon,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Newport County,,,Carlisle United,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Notts County,,,Colchester United,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Port Vale FC,,,Walsall FC,,2024-12-07T15:00Z
+19,Sat Dec 7 2024,15:00,GMT/+0000,Swindon Town,,,Fleetwood Town,,2024-12-07T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,AFC Wimbledon,,,Doncaster Rovers,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Bradford City,,,Swindon Town,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Bromley FC,,,Port Vale FC,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Carlisle United,,,Chesterfield FC,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Cheltenham Town,,,Morecambe FC,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Colchester United,,,Newport County,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Fleetwood Town,,,Accrington Stanley,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Grimsby Town,,,Crewe Alexandra,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Milton Keynes Dons,,,Gillingham FC,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Salford City,,,Notts County,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Tranmere Rovers,,,Harrogate Town,,2024-12-14T15:00Z
+20,Sat Dec 14 2024,15:00,GMT/+0000,Walsall FC,,,Barrow AFC,,2024-12-14T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Accrington Stanley,,,Salford City,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Barrow AFC,,,Fleetwood Town,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Crewe Alexandra,,,Colchester United,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Doncaster Rovers,,,Tranmere Rovers,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Chesterfield FC,,,AFC Wimbledon,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Gillingham FC,,,Cheltenham Town,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Morecambe FC,,,Bromley FC,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Harrogate Town,,,Walsall FC,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Newport County,,,Milton Keynes Dons,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Notts County,,,Bradford City,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Port Vale FC,,,Carlisle United,,2024-12-21T15:00Z
+21,Sat Dec 21 2024,15:00,GMT/+0000,Swindon Town,,,Grimsby Town,,2024-12-21T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,AFC Wimbledon,,,Swindon Town,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Bradford City,,,Port Vale FC,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Bromley FC,,,Newport County,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Carlisle United,,,Morecambe FC,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Cheltenham Town,,,Crewe Alexandra,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Colchester United,,,Gillingham FC,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Fleetwood Town,,,Chesterfield FC,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Grimsby Town,,,Harrogate Town,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Milton Keynes Dons,,,Notts County,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Salford City,,,Barrow AFC,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Tranmere Rovers,,,Accrington Stanley,,2024-12-26T15:00Z
+22,Thu Dec 26 2024,15:00,GMT/+0000,Walsall FC,,,Doncaster Rovers,,2024-12-26T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,AFC Wimbledon,,,Gillingham FC,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Bradford City,,,Chesterfield FC,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Bromley FC,,,Swindon Town,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Carlisle United,,,Accrington Stanley,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Cheltenham Town,,,Notts County,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Colchester United,,,Doncaster Rovers,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Fleetwood Town,,,Harrogate Town,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Grimsby Town,,,Port Vale FC,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Milton Keynes Dons,,,Crewe Alexandra,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Salford City,,,Morecambe FC,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Tranmere Rovers,,,Barrow AFC,,2024-12-29T15:00Z
+23,Sun Dec 29 2024,15:00,GMT/+0000,Walsall FC,,,Newport County,,2024-12-29T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Accrington Stanley,,,Grimsby Town,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Barrow AFC,,,Bradford City,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Crewe Alexandra,,,Carlisle United,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Doncaster Rovers,,,Fleetwood Town,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Chesterfield FC,,,Milton Keynes Dons,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Gillingham FC,,,Bromley FC,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Morecambe FC,,,Tranmere Rovers,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Harrogate Town,,,Salford City,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Newport County,,,AFC Wimbledon,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Notts County,,,Walsall FC,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Port Vale FC,,,Cheltenham Town,,2025-01-01T15:00Z
+24,Wed Jan 1 2025,15:00,GMT/+0000,Swindon Town,,,Colchester United,,2025-01-01T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Barrow AFC,,,Harrogate Town,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Bradford City,,,Grimsby Town,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Cheltenham Town,,,Walsall FC,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Colchester United,,,Accrington Stanley,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Crewe Alexandra,,,Bromley FC,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Doncaster Rovers,,,Port Vale FC,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Chesterfield FC,,,Gillingham FC,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Fleetwood Town,,,AFC Wimbledon,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Milton Keynes Dons,,,Salford City,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Newport County,,,Morecambe FC,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Notts County,,,Swindon Town,,2025-01-04T15:00Z
+25,Sat Jan 4 2025,15:00,GMT/+0000,Tranmere Rovers,,,Carlisle United,,2025-01-04T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Accrington Stanley,,,Newport County,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,AFC Wimbledon,,,Cheltenham Town,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Bromley FC,,,Bradford City,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Carlisle United,,,Milton Keynes Dons,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Gillingham FC,,,Fleetwood Town,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Morecambe FC,,,Doncaster Rovers,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Grimsby Town,,,Notts County,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Harrogate Town,,,Colchester United,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Port Vale FC,,,Barrow AFC,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Salford City,,,Chesterfield FC,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Swindon Town,,,Crewe Alexandra,,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Walsall FC,,,Tranmere Rovers,,2025-01-11T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Accrington Stanley,,,Notts County,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,AFC Wimbledon,,,Tranmere Rovers,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Bromley FC,,,Colchester United,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Carlisle United,,,Bradford City,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Gillingham FC,,,Doncaster Rovers,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Morecambe FC,,,Crewe Alexandra,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Grimsby Town,,,Chesterfield FC,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Harrogate Town,,,Cheltenham Town,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Port Vale FC,,,Newport County,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Salford City,,,Fleetwood Town,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Swindon Town,,,Barrow AFC,,2025-01-18T15:00Z
+27,Sat Jan 18 2025,15:00,GMT/+0000,Walsall FC,,,Milton Keynes Dons,,2025-01-18T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Barrow AFC,,,Grimsby Town,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Bradford City,,,Walsall FC,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Cheltenham Town,,,Salford City,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Colchester United,,,Morecambe FC,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Crewe Alexandra,,,Accrington Stanley,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Doncaster Rovers,,,Harrogate Town,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Chesterfield FC,,,Port Vale FC,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Fleetwood Town,,,Carlisle United,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Milton Keynes Dons,,,AFC Wimbledon,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Newport County,,,Swindon Town,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Notts County,,,Bromley FC,,2025-01-25T15:00Z
+28,Sat Jan 25 2025,15:00,GMT/+0000,Tranmere Rovers,,,Gillingham FC,,2025-01-25T15:00Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Accrington Stanley,,,Cheltenham Town,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Barrow AFC,,,Doncaster Rovers,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Bradford City,,,Morecambe FC,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Colchester United,,,Port Vale FC,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Crewe Alexandra,,,AFC Wimbledon,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Chesterfield FC,,,Bromley FC,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Fleetwood Town,,,Walsall FC,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Grimsby Town,,,Gillingham FC,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Milton Keynes Dons,,,Harrogate Town,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Notts County,,,Carlisle United,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Salford City,,,Newport County,,2025-01-28T19:45Z
+29,Tue Jan 28 2025,19:45,GMT/+0000,Swindon Town,,,Tranmere Rovers,,2025-01-28T19:45Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,AFC Wimbledon,,,Bradford City,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Bromley FC,,,Grimsby Town,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Carlisle United,,,Swindon Town,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Cheltenham Town,,,Chesterfield FC,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Doncaster Rovers,,,Milton Keynes Dons,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Gillingham FC,,,Notts County,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Morecambe FC,,,Fleetwood Town,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Harrogate Town,,,Crewe Alexandra,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Newport County,,,Barrow AFC,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Port Vale FC,,,Accrington Stanley,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Tranmere Rovers,,,Colchester United,,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Walsall FC,,,Salford City,,2025-02-01T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Accrington Stanley,,,AFC Wimbledon,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Barrow AFC,,,Gillingham FC,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Bradford City,,,Harrogate Town,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Colchester United,,,Walsall FC,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Crewe Alexandra,,,Newport County,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Chesterfield FC,,,Doncaster Rovers,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Fleetwood Town,,,Cheltenham Town,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Grimsby Town,,,Carlisle United,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Milton Keynes Dons,,,Bromley FC,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Notts County,,,Morecambe FC,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Salford City,,,Tranmere Rovers,,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Swindon Town,,,Port Vale FC,,2025-02-08T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,AFC Wimbledon,,,Salford City,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Bromley FC,,,Fleetwood Town,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Carlisle United,,,Colchester United,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Cheltenham Town,,,Barrow AFC,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Doncaster Rovers,,,Grimsby Town,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Gillingham FC,,,Crewe Alexandra,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Morecambe FC,,,Accrington Stanley,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Harrogate Town,,,Swindon Town,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Newport County,,,Bradford City,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Port Vale FC,,,Notts County,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Tranmere Rovers,,,Milton Keynes Dons,,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Walsall FC,,,Chesterfield FC,,2025-02-15T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Accrington Stanley,,,Doncaster Rovers,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Bradford City,,,Milton Keynes Dons,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Bromley FC,,,Harrogate Town,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Carlisle United,,,Gillingham FC,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Colchester United,,,AFC Wimbledon,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Crewe Alexandra,,,Barrow AFC,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Morecambe FC,,,Walsall FC,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Grimsby Town,,,Fleetwood Town,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Newport County,,,Cheltenham Town,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Notts County,,,Tranmere Rovers,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Port Vale FC,,,Salford City,,2025-02-22T15:00Z
+33,Sat Feb 22 2025,15:00,GMT/+0000,Swindon Town,,,Chesterfield FC,,2025-02-22T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Barrow AFC,,,Carlisle United,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,AFC Wimbledon,,,Bromley FC,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Cheltenham Town,,,Grimsby Town,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Doncaster Rovers,,,Newport County,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Chesterfield FC,,,Crewe Alexandra,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Gillingham FC,,,Morecambe FC,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Fleetwood Town,,,Notts County,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Harrogate Town,,,Accrington Stanley,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Milton Keynes Dons,,,Colchester United,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Salford City,,,Bradford City,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Tranmere Rovers,,,Port Vale FC,,2025-03-01T15:00Z
+34,Sat Mar 1 2025,15:00,GMT/+0000,Walsall FC,,,Swindon Town,,2025-03-01T15:00Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Accrington Stanley,,,Milton Keynes Dons,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Bradford City,,,Cheltenham Town,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Bromley FC,,,Doncaster Rovers,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Carlisle United,,,Walsall FC,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Colchester United,,,Chesterfield FC,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Crewe Alexandra,,,Fleetwood Town,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Morecambe FC,,,AFC Wimbledon,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Grimsby Town,,,Tranmere Rovers,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Newport County,,,Gillingham FC,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Notts County,,,Barrow AFC,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Port Vale FC,,,Harrogate Town,,2025-03-04T19:45Z
+35,Tue Mar 4 2025,19:45,GMT/+0000,Swindon Town,,,Salford City,,2025-03-04T19:45Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Barrow AFC,,,Accrington Stanley,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,AFC Wimbledon,,,Notts County,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Cheltenham Town,,,Colchester United,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Doncaster Rovers,,,Swindon Town,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Chesterfield FC,,,Newport County,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Gillingham FC,,,Bradford City,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Fleetwood Town,,,Port Vale FC,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Harrogate Town,,,Carlisle United,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Milton Keynes Dons,,,Morecambe FC,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Salford City,,,Crewe Alexandra,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Tranmere Rovers,,,Bromley FC,,2025-03-08T15:00Z
+36,Sat Mar 8 2025,15:00,GMT/+0000,Walsall FC,,,Grimsby Town,,2025-03-08T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Accrington Stanley,,,Gillingham FC,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Bradford City,,,Tranmere Rovers,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Bromley FC,,,Walsall FC,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Carlisle United,,,AFC Wimbledon,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Colchester United,,,Fleetwood Town,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Crewe Alexandra,,,Doncaster Rovers,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Morecambe FC,,,Barrow AFC,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Grimsby Town,,,Salford City,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Newport County,,,Harrogate Town,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Notts County,,,Chesterfield FC,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Port Vale FC,,,Milton Keynes Dons,,2025-03-15T15:00Z
+37,Sat Mar 15 2025,15:00,GMT/+0000,Swindon Town,,,Cheltenham Town,,2025-03-15T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,AFC Wimbledon,,,Barrow AFC,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Bradford City,,,Colchester United,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Carlisle United,,,Bromley FC,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Cheltenham Town,,,Milton Keynes Dons,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Chesterfield FC,,,Harrogate Town,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Gillingham FC,,,Walsall FC,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Fleetwood Town,,,Tranmere Rovers,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Grimsby Town,,,Newport County,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Notts County,,,Crewe Alexandra,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Port Vale FC,,,Morecambe FC,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Salford City,,,Doncaster Rovers,,2025-03-22T15:00Z
+38,Sat Mar 22 2025,15:00,GMT/+0000,Swindon Town,,,Accrington Stanley,,2025-03-22T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Accrington Stanley,,,Bradford City,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Barrow AFC,,,Chesterfield FC,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Bromley FC,,,Salford City,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Colchester United,,,Grimsby Town,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Crewe Alexandra,,,Port Vale FC,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Doncaster Rovers,,,Carlisle United,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Morecambe FC,,,Swindon Town,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Harrogate Town,,,Gillingham FC,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Milton Keynes Dons,,,Fleetwood Town,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Newport County,,,Notts County,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Tranmere Rovers,,,Cheltenham Town,,2025-03-29T15:00Z
+39,Sat Mar 29 2025,15:00,GMT/+0000,Walsall FC,,,AFC Wimbledon,,2025-03-29T15:00Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Accrington Stanley,,,Fleetwood Town,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Barrow AFC,,,Salford City,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Crewe Alexandra,,,Grimsby Town,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Doncaster Rovers,,,Walsall FC,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Chesterfield FC,,,Carlisle United,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Gillingham FC,,,Colchester United,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Morecambe FC,,,Cheltenham Town,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Harrogate Town,,,Tranmere Rovers,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Newport County,,,Bromley FC,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Notts County,,,Milton Keynes Dons,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Port Vale FC,,,Bradford City,,2025-04-01T18:45Z
+40,Tue Apr 1 2025,19:45,BST/+0100,Swindon Town,,,AFC Wimbledon,,2025-04-01T18:45Z
+41,Sat Apr 5 2025,15:00,BST/+0100,AFC Wimbledon,,,Harrogate Town,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Bradford City,,,Crewe Alexandra,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Bromley FC,,,Accrington Stanley,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Carlisle United,,,Newport County,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Cheltenham Town,,,Doncaster Rovers,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Colchester United,,,Notts County,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Fleetwood Town,,,Swindon Town,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Grimsby Town,,,Morecambe FC,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Milton Keynes Dons,,,Barrow AFC,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Salford City,,,Gillingham FC,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Tranmere Rovers,,,Chesterfield FC,,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Walsall FC,,,Port Vale FC,,2025-04-05T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Accrington Stanley,,,Tranmere Rovers,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Barrow AFC,,,Walsall FC,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Crewe Alexandra,,,Cheltenham Town,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Doncaster Rovers,,,AFC Wimbledon,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Chesterfield FC,,,Fleetwood Town,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Gillingham FC,,,Milton Keynes Dons,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Morecambe FC,,,Carlisle United,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Harrogate Town,,,Grimsby Town,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Newport County,,,Colchester United,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Notts County,,,Salford City,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Port Vale FC,,,Bromley FC,,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Swindon Town,,,Bradford City,,2025-04-12T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,AFC Wimbledon,,,Chesterfield FC,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Bradford City,,,Notts County,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Bromley FC,,,Morecambe FC,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Carlisle United,,,Port Vale FC,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Cheltenham Town,,,Gillingham FC,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Colchester United,,,Crewe Alexandra,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Fleetwood Town,,,Barrow AFC,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Grimsby Town,,,Swindon Town,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Milton Keynes Dons,,,Newport County,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Salford City,,,Accrington Stanley,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Tranmere Rovers,,,Doncaster Rovers,,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Walsall FC,,,Harrogate Town,,2025-04-18T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Accrington Stanley,,,Carlisle United,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Barrow AFC,,,Tranmere Rovers,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Crewe Alexandra,,,Milton Keynes Dons,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Doncaster Rovers,,,Colchester United,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Chesterfield FC,,,Bradford City,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Gillingham FC,,,AFC Wimbledon,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Morecambe FC,,,Salford City,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Harrogate Town,,,Fleetwood Town,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Newport County,,,Walsall FC,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Notts County,,,Cheltenham Town,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Port Vale FC,,,Grimsby Town,,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Swindon Town,,,Bromley FC,,2025-04-21T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Barrow AFC,,,Bromley FC,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,AFC Wimbledon,,,Port Vale FC,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Cheltenham Town,,,Carlisle United,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Doncaster Rovers,,,Bradford City,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Chesterfield FC,,,Morecambe FC,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Gillingham FC,,,Swindon Town,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Fleetwood Town,,,Newport County,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Harrogate Town,,,Notts County,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Milton Keynes Dons,,,Grimsby Town,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Salford City,,,Colchester United,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Tranmere Rovers,,,Crewe Alexandra,,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Walsall FC,,,Accrington Stanley,,2025-04-26T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Accrington Stanley,,,Chesterfield FC,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Bradford City,,,Fleetwood Town,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Bromley FC,,,Cheltenham Town,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Carlisle United,,,Salford City,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Colchester United,,,Barrow AFC,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Crewe Alexandra,,,Walsall FC,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Morecambe FC,,,Harrogate Town,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Grimsby Town,,,AFC Wimbledon,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Newport County,,,Tranmere Rovers,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Notts County,,,Doncaster Rovers,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Port Vale FC,,,Gillingham FC,,2025-05-03T14:00Z
+46,Sat May 3 2025,15:00,BST/+0100,Swindon Town,,,Milton Keynes Dons,,2025-05-03T14:00Z

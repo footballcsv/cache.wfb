@@ -29,14 +29,14 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 3,Sun Sep 1 2024,13:30,BST/+0100,Newcastle United,2-1,1-0,Tottenham Hotspur,2024-09-01T12:30Z
 3,Sun Sep 1 2024,16:00,BST/+0100,Manchester United,0-3,0-2,Liverpool FC,2024-09-01T15:00Z
 3,Sun Sep 1 2024,13:30,BST/+0100,Chelsea FC,1-1,1-0,Crystal Palace,2024-09-01T12:30Z
-4,Sat Sep 14 2024,12:30,BST/+0100,Southampton FC,,,Manchester United,2024-09-14T11:30Z
-4,Sat Sep 14 2024,15:00,BST/+0100,Brighton & Hove Albion,,,Ipswich Town,2024-09-14T14:00Z
-4,Sat Sep 14 2024,15:00,BST/+0100,Crystal Palace,,,Leicester City,2024-09-14T14:00Z
-4,Sat Sep 14 2024,15:00,BST/+0100,Fulham FC,,,West Ham United,2024-09-14T14:00Z
-4,Sat Sep 14 2024,15:00,BST/+0100,Liverpool FC,,,Nottingham Forest,2024-09-14T14:00Z
-4,Sat Sep 14 2024,15:00,BST/+0100,Manchester City,,,Brentford FC,2024-09-14T14:00Z
-4,Sat Sep 14 2024,17:30,BST/+0100,Aston Villa,,,Everton FC,2024-09-14T16:30Z
-4,Sat Sep 14 2024,20:00,BST/+0100,AFC Bournemouth,,,Chelsea FC,2024-09-14T19:00Z
+4,Sat Sep 14 2024,12:30,BST/+0100,Southampton FC,0-3,0-2,Manchester United,2024-09-14T11:30Z
+4,Sat Sep 14 2024,15:00,BST/+0100,Brighton & Hove Albion,0-0,0-0,Ipswich Town,2024-09-14T14:00Z
+4,Sat Sep 14 2024,15:00,BST/+0100,Crystal Palace,2-2,0-1,Leicester City,2024-09-14T14:00Z
+4,Sat Sep 14 2024,15:00,BST/+0100,Fulham FC,1-1,1-0,West Ham United,2024-09-14T14:00Z
+4,Sat Sep 14 2024,15:00,BST/+0100,Liverpool FC,0-1,0-0,Nottingham Forest,2024-09-14T14:00Z
+4,Sat Sep 14 2024,15:00,BST/+0100,Manchester City,2-1,2-1,Brentford FC,2024-09-14T14:00Z
+4,Sat Sep 14 2024,17:30,BST/+0100,Aston Villa,3-2,1-2,Everton FC,2024-09-14T16:30Z
+4,Sat Sep 14 2024,20:00,BST/+0100,AFC Bournemouth,0-1,0-0,Chelsea FC,2024-09-14T19:00Z
 4,Sun Sep 15 2024,16:30,BST/+0100,Wolverhampton Wanderers,,,Newcastle United,2024-09-15T15:30Z
 4,Sun Sep 15 2024,14:00,BST/+0100,Tottenham Hotspur,,,Arsenal FC,2024-09-15T13:00Z
 5,Sat Sep 21 2024,12:30,BST/+0100,West Ham United,,,Chelsea FC,2024-09-21T11:30Z

@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Aug 16 2024,20:00,AC Ajaccio,1-0,0-0,Rodez AF
-1,Fri Aug 16 2024,20:00,Clermont Foot 63,2-2,1-2,Pau FC
-1,Fri Aug 16 2024,20:00,EA Guingamp,4-0,2-0,ESTAC Troyes
-1,Fri Aug 16 2024,20:00,Grenoble Foot 38,2-1,0-0,Stade Lavallois
-1,Fri Aug 16 2024,20:00,Amiens SC,3-0,1-0,Red Star FC
-1,Fri Aug 16 2024,20:00,USL Dunkerque,0-2,0-0,FC Annecy
-1,Sat Aug 17 2024,14:30,SM Caen,0-2,0-0,Paris FC
-1,Mon Aug 19 2024,20:45,FC Metz,1-1,0-1,SC Bastia
-1,Mon Aug 19 2024,20:45,FC Martigues,0-1,0-0,FC Lorient
-2,Fri Aug 23 2024,20:00,FC Annecy,2-4,1-2,FC Martigues
-2,Fri Aug 23 2024,20:00,Paris FC,3-2,0-1,USL Dunkerque
-2,Fri Aug 23 2024,20:00,Pau FC,1-0,1-0,SM Caen
-2,Fri Aug 23 2024,20:00,ESTAC Troyes,0-1,0-1,Clermont Foot 63
-2,Fri Aug 23 2024,20:00,Rodez AF,1-3,0-3,FC Metz
-2,Fri Aug 23 2024,20:00,SC Bastia,1-0,0-0,Amiens SC
-2,Fri Aug 23 2024,20:00,Stade Lavallois,0-1,0-1,EA Guingamp
-2,Sat Aug 24 2024,14:30,FC Lorient,2-0,0-0,Grenoble Foot 38
-2,Mon Aug 26 2024,20:45,Red Star FC,1-0,1-0,AC Ajaccio
-3,Fri Aug 30 2024,20:00,AC Ajaccio,2-1,0-1,ESTAC Troyes
-3,Fri Aug 30 2024,20:00,Clermont Foot 63,0-1,0-1,Paris FC
-3,Fri Aug 30 2024,20:00,EA Guingamp,3-4,2-2,Red Star FC
-3,Fri Aug 30 2024,20:00,FC Martigues,0-1,0-0,SC Bastia
-3,Fri Aug 30 2024,20:00,Grenoble Foot 38,1-1,0-0,Pau FC
-3,Fri Aug 30 2024,20:00,SM Caen,1-1,0-0,FC Annecy
-3,Fri Aug 30 2024,20:00,USL Dunkerque,1-0,1-0,Rodez AF
-3,Sat Aug 31 2024,14:30,Amiens SC,1-0,1-0,FC Lorient
-3,Sat Aug 31 2024,14:30,FC Metz,1-1,0-1,Stade Lavallois
-4,Fri Sep 13 2024,20:00,Clermont Foot 63,,,USL Dunkerque
-4,Fri Sep 13 2024,20:00,FC Annecy,,,Amiens SC
-4,Fri Sep 13 2024,20:00,FC Lorient,,,Red Star FC
-4,Fri Sep 13 2024,20:00,Pau FC,,,FC Martigues
-4,Fri Sep 13 2024,20:00,Rodez AF,,,EA Guingamp
-4,Fri Sep 13 2024,20:00,SC Bastia,,,ESTAC Troyes
-4,Fri Sep 13 2024,20:00,Stade Lavallois,,,AC Ajaccio
-4,Sat Sep 14 2024,14:30,Paris FC,,,FC Metz
-4,Mon Sep 16 2024,20:45,Grenoble Foot 38,,,SM Caen
-5,Fri Sep 20 2024,20:00,EA Guingamp,,,FC Annecy
-5,Fri Sep 20 2024,20:00,FC Martigues,,,Grenoble Foot 38
-5,Fri Sep 20 2024,20:00,Red Star FC,,,Stade Lavallois
-5,Fri Sep 20 2024,20:00,ESTAC Troyes,,,Rodez AF
-5,Fri Sep 20 2024,20:00,Amiens SC,,,Clermont Foot 63
-5,Fri Sep 20 2024,20:00,SC Bastia,,,Paris FC
-5,Fri Sep 20 2024,20:00,SM Caen,,,AC Ajaccio
-5,Fri Sep 20 2024,20:00,USL Dunkerque,,,Pau FC
-5,Sat Sep 21 2024,14:30,FC Metz,,,FC Lorient
-6,Tue Sep 24 2024,20:30,AC Ajaccio,,,Grenoble Foot 38
-6,Tue Sep 24 2024,20:30,Clermont Foot 63,,,Red Star FC
-6,Tue Sep 24 2024,20:30,FC Annecy,,,ESTAC Troyes
-6,Tue Sep 24 2024,20:30,FC Metz,,,FC Martigues
-6,Tue Sep 24 2024,20:30,Paris FC,,,EA Guingamp
-6,Tue Sep 24 2024,20:30,Pau FC,,,FC Lorient
-6,Tue Sep 24 2024,20:30,Rodez AF,,,Stade Lavallois
-6,Tue Sep 24 2024,20:30,SM Caen,,,Amiens SC
-6,Tue Sep 24 2024,20:30,USL Dunkerque,,,SC Bastia
-7,Fri Sep 27 2024,20:00,FC Lorient,,,AC Ajaccio
-7,Fri Sep 27 2024,20:00,FC Martigues,,,USL Dunkerque
-7,Fri Sep 27 2024,20:00,ESTAC Troyes,,,FC Metz
-7,Fri Sep 27 2024,20:00,Grenoble Foot 38,,,Clermont Foot 63
-7,Fri Sep 27 2024,20:00,Amiens SC,,,Rodez AF
-7,Fri Sep 27 2024,20:00,SC Bastia,,,FC Annecy
-7,Fri Sep 27 2024,20:00,Stade Lavallois,,,Pau FC
-7,Sat Sep 28 2024,14:30,Red Star FC,,,Paris FC
-7,Mon Sep 30 2024,20:45,EA Guingamp,,,SM Caen
-8,Sat Oct 5 2024,,AC Ajaccio,,,FC Martigues
-8,Sat Oct 5 2024,,Clermont Foot 63,,,EA Guingamp
-8,Sat Oct 5 2024,,FC Annecy,,,Red Star FC
-8,Sat Oct 5 2024,,FC Metz,,,Amiens SC
-8,Sat Oct 5 2024,,Paris FC,,,Stade Lavallois
-8,Sat Oct 5 2024,,Pau FC,,,SC Bastia
-8,Sat Oct 5 2024,,Rodez AF,,,Grenoble Foot 38
-8,Sat Oct 5 2024,,SM Caen,,,FC Lorient
-8,Sat Oct 5 2024,,USL Dunkerque,,,ESTAC Troyes
-9,Sat Oct 19 2024,,EA Guingamp,,,Pau FC
-9,Sat Oct 19 2024,,FC Lorient,,,FC Annecy
-9,Sat Oct 19 2024,,FC Martigues,,,Rodez AF
-9,Sat Oct 19 2024,,Red Star FC,,,SM Caen
-9,Sat Oct 19 2024,,ESTAC Troyes,,,Paris FC
-9,Sat Oct 19 2024,,Grenoble Foot 38,,,FC Metz
-9,Sat Oct 19 2024,,Amiens SC,,,AC Ajaccio
-9,Sat Oct 19 2024,,SC Bastia,,,Clermont Foot 63
-9,Sat Oct 19 2024,,Stade Lavallois,,,USL Dunkerque
-10,Sat Oct 26 2024,,AC Ajaccio,,,SC Bastia
-10,Sat Oct 26 2024,,Clermont Foot 63,,,FC Martigues
-10,Sat Oct 26 2024,,FC Annecy,,,Stade Lavallois
-10,Sat Oct 26 2024,,FC Metz,,,EA Guingamp
-10,Sat Oct 26 2024,,Paris FC,,,Grenoble Foot 38
-10,Sat Oct 26 2024,,Pau FC,,,Amiens SC
-10,Sat Oct 26 2024,,Rodez AF,,,FC Lorient
-10,Sat Oct 26 2024,,SM Caen,,,ESTAC Troyes
-10,Sat Oct 26 2024,,USL Dunkerque,,,Red Star FC
-11,Tue Oct 29 2024,,EA Guingamp,,,AC Ajaccio
-11,Tue Oct 29 2024,,FC Lorient,,,USL Dunkerque
-11,Tue Oct 29 2024,,FC Martigues,,,SM Caen
-11,Tue Oct 29 2024,,Red Star FC,,,FC Metz
-11,Tue Oct 29 2024,,ESTAC Troyes,,,Pau FC
-11,Tue Oct 29 2024,,Grenoble Foot 38,,,FC Annecy
-11,Tue Oct 29 2024,,Amiens SC,,,Paris FC
-11,Tue Oct 29 2024,,SC Bastia,,,Rodez AF
-11,Tue Oct 29 2024,,Stade Lavallois,,,Clermont Foot 63
-12,Sat Nov 2 2024,,AC Ajaccio,,,FC Metz
-12,Sat Nov 2 2024,,Clermont Foot 63,,,FC Lorient
-12,Sat Nov 2 2024,,EA Guingamp,,,Grenoble Foot 38
-12,Sat Nov 2 2024,,FC Annecy,,,Pau FC
-12,Sat Nov 2 2024,,FC Martigues,,,Red Star FC
-12,Sat Nov 2 2024,,Paris FC,,,Rodez AF
-12,Sat Nov 2 2024,,ESTAC Troyes,,,Stade Lavallois
-12,Sat Nov 2 2024,,SM Caen,,,SC Bastia
-12,Sat Nov 2 2024,,USL Dunkerque,,,Amiens SC
-13,Sat Nov 9 2024,,AC Ajaccio,,,Clermont Foot 63
-13,Sat Nov 9 2024,,FC Lorient,,,EA Guingamp
-13,Sat Nov 9 2024,,FC Metz,,,SM Caen
-13,Sat Nov 9 2024,,Pau FC,,,Paris FC
-13,Sat Nov 9 2024,,Red Star FC,,,ESTAC Troyes
-13,Sat Nov 9 2024,,Grenoble Foot 38,,,USL Dunkerque
-13,Sat Nov 9 2024,,Rodez AF,,,FC Annecy
-13,Sat Nov 9 2024,,Amiens SC,,,FC Martigues
-13,Sat Nov 9 2024,,Stade Lavallois,,,SC Bastia
-14,Sat Nov 23 2024,,Clermont Foot 63,,,FC Metz
-14,Sat Nov 23 2024,,EA Guingamp,,,Amiens SC
-14,Sat Nov 23 2024,,FC Martigues,,,Stade Lavallois
-14,Sat Nov 23 2024,,Paris FC,,,FC Annecy
-14,Sat Nov 23 2024,,Pau FC,,,Red Star FC
-14,Sat Nov 23 2024,,ESTAC Troyes,,,Grenoble Foot 38
-14,Sat Nov 23 2024,,SC Bastia,,,FC Lorient
-14,Sat Nov 23 2024,,SM Caen,,,Rodez AF
-14,Sat Nov 23 2024,,USL Dunkerque,,,AC Ajaccio
-15,Sat Dec 7 2024,,AC Ajaccio,,,Paris FC
-15,Sat Dec 7 2024,,FC Annecy,,,Clermont Foot 63
-15,Sat Dec 7 2024,,FC Lorient,,,ESTAC Troyes
-15,Sat Dec 7 2024,,FC Martigues,,,EA Guingamp
-15,Sat Dec 7 2024,,FC Metz,,,USL Dunkerque
-15,Sat Dec 7 2024,,Red Star FC,,,SC Bastia
-15,Sat Dec 7 2024,,Grenoble Foot 38,,,Amiens SC
-15,Sat Dec 7 2024,,Rodez AF,,,Pau FC
-15,Sat Dec 7 2024,,Stade Lavallois,,,SM Caen
-16,Sat Dec 14 2024,,Clermont Foot 63,,,Rodez AF
-16,Sat Dec 14 2024,,FC Annecy,,,FC Metz
-16,Sat Dec 14 2024,,FC Lorient,,,Paris FC
-16,Sat Dec 14 2024,,Pau FC,,,AC Ajaccio
-16,Sat Dec 14 2024,,Red Star FC,,,Grenoble Foot 38
-16,Sat Dec 14 2024,,ESTAC Troyes,,,FC Martigues
-16,Sat Dec 14 2024,,Amiens SC,,,Stade Lavallois
-16,Sat Dec 14 2024,,SC Bastia,,,EA Guingamp
-16,Sat Dec 14 2024,,USL Dunkerque,,,SM Caen
-17,Sat Jan 4 2025,,AC Ajaccio,,,FC Annecy
-17,Sat Jan 4 2025,,EA Guingamp,,,USL Dunkerque
-17,Sat Jan 4 2025,,FC Metz,,,Pau FC
-17,Sat Jan 4 2025,,Paris FC,,,FC Martigues
-17,Sat Jan 4 2025,,Grenoble Foot 38,,,SC Bastia
-17,Sat Jan 4 2025,,Rodez AF,,,Red Star FC
-17,Sat Jan 4 2025,,Amiens SC,,,ESTAC Troyes
-17,Sat Jan 4 2025,,SM Caen,,,Clermont Foot 63
-17,Sat Jan 4 2025,,Stade Lavallois,,,FC Lorient
-18,Sat Jan 11 2025,,FC Annecy,,,EA Guingamp
-18,Sat Jan 11 2025,,FC Lorient,,,FC Metz
-18,Sat Jan 11 2025,,FC Martigues,,,Clermont Foot 63
-18,Sat Jan 11 2025,,Paris FC,,,Amiens SC
-18,Sat Jan 11 2025,,Pau FC,,,USL Dunkerque
-18,Sat Jan 11 2025,,Rodez AF,,,ESTAC Troyes
-18,Sat Jan 11 2025,,SC Bastia,,,AC Ajaccio
-18,Sat Jan 11 2025,,SM Caen,,,Grenoble Foot 38
-18,Sat Jan 11 2025,,Stade Lavallois,,,Red Star FC
-19,Sat Jan 18 2025,,AC Ajaccio,,,SM Caen
-19,Sat Jan 18 2025,,Clermont Foot 63,,,Stade Lavallois
-19,Sat Jan 18 2025,,EA Guingamp,,,Rodez AF
-19,Sat Jan 18 2025,,FC Metz,,,Paris FC
-19,Sat Jan 18 2025,,Red Star FC,,,Pau FC
-19,Sat Jan 18 2025,,ESTAC Troyes,,,FC Annecy
-19,Sat Jan 18 2025,,Grenoble Foot 38,,,FC Martigues
-19,Sat Jan 18 2025,,Amiens SC,,,SC Bastia
-19,Sat Jan 18 2025,,USL Dunkerque,,,FC Lorient
-20,Sat Jan 25 2025,,FC Annecy,,,USL Dunkerque
-20,Sat Jan 25 2025,,FC Lorient,,,Clermont Foot 63
-20,Sat Jan 25 2025,,FC Martigues,,,Amiens SC
-20,Sat Jan 25 2025,,FC Metz,,,Grenoble Foot 38
-20,Sat Jan 25 2025,,Paris FC,,,Red Star FC
-20,Sat Jan 25 2025,,Rodez AF,,,AC Ajaccio
-20,Sat Jan 25 2025,,SC Bastia,,,Pau FC
-20,Sat Jan 25 2025,,SM Caen,,,EA Guingamp
-20,Sat Jan 25 2025,,Stade Lavallois,,,ESTAC Troyes
-21,Sat Feb 1 2025,,Clermont Foot 63,,,AC Ajaccio
-21,Sat Feb 1 2025,,EA Guingamp,,,Paris FC
-21,Sat Feb 1 2025,,Pau FC,,,Stade Lavallois
-21,Sat Feb 1 2025,,Red Star FC,,,FC Lorient
-21,Sat Feb 1 2025,,ESTAC Troyes,,,SM Caen
-21,Sat Feb 1 2025,,Grenoble Foot 38,,,Rodez AF
-21,Sat Feb 1 2025,,Amiens SC,,,FC Annecy
-21,Sat Feb 1 2025,,SC Bastia,,,FC Metz
-21,Sat Feb 1 2025,,USL Dunkerque,,,FC Martigues
-22,Sat Feb 8 2025,,AC Ajaccio,,,EA Guingamp
-22,Sat Feb 8 2025,,FC Lorient,,,Amiens SC
-22,Sat Feb 8 2025,,FC Martigues,,,ESTAC Troyes
-22,Sat Feb 8 2025,,FC Metz,,,Clermont Foot 63
-22,Sat Feb 8 2025,,Paris FC,,,Pau FC
-22,Sat Feb 8 2025,,Grenoble Foot 38,,,Red Star FC
-22,Sat Feb 8 2025,,Rodez AF,,,SC Bastia
-22,Sat Feb 8 2025,,SM Caen,,,USL Dunkerque
-22,Sat Feb 8 2025,,Stade Lavallois,,,FC Annecy
-23,Sat Feb 15 2025,,AC Ajaccio,,,Stade Lavallois
-23,Sat Feb 15 2025,,Clermont Foot 63,,,SC Bastia
-23,Sat Feb 15 2025,,EA Guingamp,,,FC Metz
-23,Sat Feb 15 2025,,FC Annecy,,,SM Caen
-23,Sat Feb 15 2025,,Pau FC,,,Rodez AF
-23,Sat Feb 15 2025,,Red Star FC,,,FC Martigues
-23,Sat Feb 15 2025,,ESTAC Troyes,,,FC Lorient
-23,Sat Feb 15 2025,,Amiens SC,,,Grenoble Foot 38
-23,Sat Feb 15 2025,,USL Dunkerque,,,Paris FC
-24,Sat Feb 22 2025,,FC Lorient,,,Stade Lavallois
-24,Sat Feb 22 2025,,FC Martigues,,,FC Annecy
-24,Sat Feb 22 2025,,FC Metz,,,AC Ajaccio
-24,Sat Feb 22 2025,,Paris FC,,,ESTAC Troyes
-24,Sat Feb 22 2025,,Grenoble Foot 38,,,EA Guingamp
-24,Sat Feb 22 2025,,Rodez AF,,,Amiens SC
-24,Sat Feb 22 2025,,SC Bastia,,,Red Star FC
-24,Sat Feb 22 2025,,SM Caen,,,Pau FC
-24,Sat Feb 22 2025,,USL Dunkerque,,,Clermont Foot 63
-25,Sat Mar 1 2025,,AC Ajaccio,,,USL Dunkerque
-25,Sat Mar 1 2025,,Clermont Foot 63,,,SM Caen
-25,Sat Mar 1 2025,,FC Annecy,,,Paris FC
-25,Sat Mar 1 2025,,FC Lorient,,,Rodez AF
-25,Sat Mar 1 2025,,Pau FC,,,Grenoble Foot 38
-25,Sat Mar 1 2025,,Red Star FC,,,EA Guingamp
-25,Sat Mar 1 2025,,ESTAC Troyes,,,SC Bastia
-25,Sat Mar 1 2025,,Amiens SC,,,FC Metz
-25,Sat Mar 1 2025,,Stade Lavallois,,,FC Martigues
-26,Sat Mar 8 2025,,EA Guingamp,,,Clermont Foot 63
-26,Sat Mar 8 2025,,FC Metz,,,FC Annecy
-26,Sat Mar 8 2025,,Paris FC,,,FC Lorient
-26,Sat Mar 8 2025,,Pau FC,,,ESTAC Troyes
-26,Sat Mar 8 2025,,Red Star FC,,,Amiens SC
-26,Sat Mar 8 2025,,Grenoble Foot 38,,,AC Ajaccio
-26,Sat Mar 8 2025,,Rodez AF,,,USL Dunkerque
-26,Sat Mar 8 2025,,SC Bastia,,,FC Martigues
-26,Sat Mar 8 2025,,SM Caen,,,Stade Lavallois
-27,Sat Mar 15 2025,,AC Ajaccio,,,Red Star FC
-27,Sat Mar 15 2025,,Clermont Foot 63,,,Grenoble Foot 38
-27,Sat Mar 15 2025,,FC Annecy,,,Rodez AF
-27,Sat Mar 15 2025,,FC Lorient,,,SC Bastia
-27,Sat Mar 15 2025,,FC Martigues,,,Pau FC
-27,Sat Mar 15 2025,,ESTAC Troyes,,,EA Guingamp
-27,Sat Mar 15 2025,,Amiens SC,,,SM Caen
-27,Sat Mar 15 2025,,Stade Lavallois,,,Paris FC
-27,Sat Mar 15 2025,,USL Dunkerque,,,FC Metz
-28,Sat Mar 29 2025,,Clermont Foot 63,,,Amiens SC
-28,Sat Mar 29 2025,,EA Guingamp,,,Stade Lavallois
-28,Sat Mar 29 2025,,FC Martigues,,,AC Ajaccio
-28,Sat Mar 29 2025,,FC Metz,,,ESTAC Troyes
-28,Sat Mar 29 2025,,Paris FC,,,SM Caen
-28,Sat Mar 29 2025,,Pau FC,,,FC Annecy
-28,Sat Mar 29 2025,,Red Star FC,,,Rodez AF
-28,Sat Mar 29 2025,,Grenoble Foot 38,,,FC Lorient
-28,Sat Mar 29 2025,,SC Bastia,,,USL Dunkerque
-29,Sat Apr 5 2025,,AC Ajaccio,,,Amiens SC
-29,Sat Apr 5 2025,,FC Annecy,,,SC Bastia
-29,Sat Apr 5 2025,,FC Lorient,,,Pau FC
-29,Sat Apr 5 2025,,Paris FC,,,Clermont Foot 63
-29,Sat Apr 5 2025,,ESTAC Troyes,,,Red Star FC
-29,Sat Apr 5 2025,,Rodez AF,,,FC Martigues
-29,Sat Apr 5 2025,,SM Caen,,,FC Metz
-29,Sat Apr 5 2025,,Stade Lavallois,,,Grenoble Foot 38
-29,Sat Apr 5 2025,,USL Dunkerque,,,EA Guingamp
-30,Sat Apr 12 2025,,EA Guingamp,,,FC Lorient
-30,Sat Apr 12 2025,,FC Martigues,,,FC Metz
-30,Sat Apr 12 2025,,Pau FC,,,Clermont Foot 63
-30,Sat Apr 12 2025,,Red Star FC,,,FC Annecy
-30,Sat Apr 12 2025,,ESTAC Troyes,,,AC Ajaccio
-30,Sat Apr 12 2025,,Grenoble Foot 38,,,Paris FC
-30,Sat Apr 12 2025,,Rodez AF,,,SM Caen
-30,Sat Apr 12 2025,,Amiens SC,,,USL Dunkerque
-30,Sat Apr 12 2025,,SC Bastia,,,Stade Lavallois
-31,Sat Apr 19 2025,,AC Ajaccio,,,Pau FC
-31,Sat Apr 19 2025,,Clermont Foot 63,,,ESTAC Troyes
-31,Sat Apr 19 2025,,FC Annecy,,,FC Lorient
-31,Sat Apr 19 2025,,FC Metz,,,Red Star FC
-31,Sat Apr 19 2025,,Paris FC,,,SC Bastia
-31,Sat Apr 19 2025,,Amiens SC,,,EA Guingamp
-31,Sat Apr 19 2025,,SM Caen,,,FC Martigues
-31,Sat Apr 19 2025,,Stade Lavallois,,,Rodez AF
-31,Sat Apr 19 2025,,USL Dunkerque,,,Grenoble Foot 38
-32,Sat Apr 26 2025,,EA Guingamp,,,FC Martigues
-32,Sat Apr 26 2025,,FC Annecy,,,AC Ajaccio
-32,Sat Apr 26 2025,,FC Lorient,,,SM Caen
-32,Sat Apr 26 2025,,Pau FC,,,FC Metz
-32,Sat Apr 26 2025,,Red Star FC,,,Clermont Foot 63
-32,Sat Apr 26 2025,,ESTAC Troyes,,,USL Dunkerque
-32,Sat Apr 26 2025,,Rodez AF,,,Paris FC
-32,Sat Apr 26 2025,,SC Bastia,,,Grenoble Foot 38
-32,Sat Apr 26 2025,,Stade Lavallois,,,Amiens SC
-33,Sat May 3 2025,,AC Ajaccio,,,FC Lorient
-33,Sat May 3 2025,,Clermont Foot 63,,,FC Annecy
-33,Sat May 3 2025,,EA Guingamp,,,SC Bastia
-33,Sat May 3 2025,,FC Martigues,,,Paris FC
-33,Sat May 3 2025,,FC Metz,,,Rodez AF
-33,Sat May 3 2025,,Grenoble Foot 38,,,ESTAC Troyes
-33,Sat May 3 2025,,Amiens SC,,,Pau FC
-33,Sat May 3 2025,,SM Caen,,,Red Star FC
-33,Sat May 3 2025,,USL Dunkerque,,,Stade Lavallois
-34,Sat May 10 2025,,FC Annecy,,,Grenoble Foot 38
-34,Sat May 10 2025,,FC Lorient,,,FC Martigues
-34,Sat May 10 2025,,Paris FC,,,AC Ajaccio
-34,Sat May 10 2025,,Pau FC,,,EA Guingamp
-34,Sat May 10 2025,,Red Star FC,,,USL Dunkerque
-34,Sat May 10 2025,,ESTAC Troyes,,,Amiens SC
-34,Sat May 10 2025,,Rodez AF,,,Clermont Foot 63
-34,Sat May 10 2025,,SC Bastia,,,SM Caen
-34,Sat May 10 2025,,Stade Lavallois,,,FC Metz
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 16 2024,20:00,CEST/+0200,AC Ajaccio,1-0,0-0,Rodez AF,2024-08-16T18:00Z
+1,Fri Aug 16 2024,20:00,CEST/+0200,Clermont Foot 63,2-2,1-2,Pau FC,2024-08-16T18:00Z
+1,Fri Aug 16 2024,20:00,CEST/+0200,EA Guingamp,4-0,2-0,ESTAC Troyes,2024-08-16T18:00Z
+1,Fri Aug 16 2024,20:00,CEST/+0200,Grenoble Foot 38,2-1,0-0,Stade Lavallois,2024-08-16T18:00Z
+1,Fri Aug 16 2024,20:00,CEST/+0200,Amiens SC,3-0,1-0,Red Star FC,2024-08-16T18:00Z
+1,Fri Aug 16 2024,20:00,CEST/+0200,USL Dunkerque,0-2,0-0,FC Annecy,2024-08-16T18:00Z
+1,Sat Aug 17 2024,14:30,CEST/+0200,SM Caen,0-2,0-0,Paris FC,2024-08-17T12:30Z
+1,Mon Aug 19 2024,20:45,CEST/+0200,FC Metz,1-1,0-1,SC Bastia,2024-08-19T18:45Z
+1,Mon Aug 19 2024,20:45,CEST/+0200,FC Martigues,0-1,0-0,FC Lorient,2024-08-19T18:45Z
+2,Fri Aug 23 2024,20:00,CEST/+0200,FC Annecy,2-4,1-2,FC Martigues,2024-08-23T18:00Z
+2,Fri Aug 23 2024,20:00,CEST/+0200,Paris FC,3-2,0-1,USL Dunkerque,2024-08-23T18:00Z
+2,Fri Aug 23 2024,20:00,CEST/+0200,Pau FC,1-0,1-0,SM Caen,2024-08-23T18:00Z
+2,Fri Aug 23 2024,20:00,CEST/+0200,ESTAC Troyes,0-1,0-1,Clermont Foot 63,2024-08-23T18:00Z
+2,Fri Aug 23 2024,20:00,CEST/+0200,Rodez AF,1-3,0-3,FC Metz,2024-08-23T18:00Z
+2,Fri Aug 23 2024,20:00,CEST/+0200,SC Bastia,1-0,0-0,Amiens SC,2024-08-23T18:00Z
+2,Fri Aug 23 2024,20:00,CEST/+0200,Stade Lavallois,0-1,0-1,EA Guingamp,2024-08-23T18:00Z
+2,Sat Aug 24 2024,14:30,CEST/+0200,FC Lorient,2-0,0-0,Grenoble Foot 38,2024-08-24T12:30Z
+2,Mon Aug 26 2024,20:45,CEST/+0200,Red Star FC,1-0,1-0,AC Ajaccio,2024-08-26T18:45Z
+3,Fri Aug 30 2024,20:00,CEST/+0200,AC Ajaccio,2-1,0-1,ESTAC Troyes,2024-08-30T18:00Z
+3,Fri Aug 30 2024,20:00,CEST/+0200,Clermont Foot 63,0-1,0-1,Paris FC,2024-08-30T18:00Z
+3,Fri Aug 30 2024,20:00,CEST/+0200,EA Guingamp,3-4,2-2,Red Star FC,2024-08-30T18:00Z
+3,Fri Aug 30 2024,20:00,CEST/+0200,FC Martigues,0-1,0-0,SC Bastia,2024-08-30T18:00Z
+3,Fri Aug 30 2024,20:00,CEST/+0200,Grenoble Foot 38,1-1,0-0,Pau FC,2024-08-30T18:00Z
+3,Fri Aug 30 2024,20:00,CEST/+0200,SM Caen,1-1,0-0,FC Annecy,2024-08-30T18:00Z
+3,Fri Aug 30 2024,20:00,CEST/+0200,USL Dunkerque,1-0,1-0,Rodez AF,2024-08-30T18:00Z
+3,Sat Aug 31 2024,14:30,CEST/+0200,Amiens SC,1-0,1-0,FC Lorient,2024-08-31T12:30Z
+3,Sat Aug 31 2024,14:30,CEST/+0200,FC Metz,1-1,0-1,Stade Lavallois,2024-08-31T12:30Z
+4,Fri Sep 13 2024,20:00,CEST/+0200,Clermont Foot 63,0-1,0-0,USL Dunkerque,2024-09-13T18:00Z
+4,Fri Sep 13 2024,20:00,CEST/+0200,FC Annecy,3-0,1-0,Amiens SC,2024-09-13T18:00Z
+4,Fri Sep 13 2024,20:00,CEST/+0200,FC Lorient,2-1,1-0,Red Star FC,2024-09-13T18:00Z
+4,Fri Sep 13 2024,20:00,CEST/+0200,Pau FC,3-0,1-0,FC Martigues,2024-09-13T18:00Z
+4,Fri Sep 13 2024,20:00,CEST/+0200,Rodez AF,1-2,0-1,EA Guingamp,2024-09-13T18:00Z
+4,Fri Sep 13 2024,20:00,CEST/+0200,SC Bastia,0-0,0-0,ESTAC Troyes,2024-09-13T18:00Z
+4,Fri Sep 13 2024,20:00,CEST/+0200,Stade Lavallois,1-1,1-1,AC Ajaccio,2024-09-13T18:00Z
+4,Sat Sep 14 2024,14:30,CEST/+0200,Paris FC,1-2,1-2,FC Metz,2024-09-14T12:30Z
+4,Mon Sep 16 2024,20:45,CEST/+0200,Grenoble Foot 38,,,SM Caen,2024-09-16T18:45Z
+5,Fri Sep 20 2024,20:00,CEST/+0200,EA Guingamp,,,FC Annecy,2024-09-20T18:00Z
+5,Fri Sep 20 2024,20:00,CEST/+0200,FC Martigues,,,Grenoble Foot 38,2024-09-20T18:00Z
+5,Fri Sep 20 2024,20:00,CEST/+0200,Red Star FC,,,Stade Lavallois,2024-09-20T18:00Z
+5,Fri Sep 20 2024,20:00,CEST/+0200,ESTAC Troyes,,,Rodez AF,2024-09-20T18:00Z
+5,Fri Sep 20 2024,20:00,CEST/+0200,Amiens SC,,,Clermont Foot 63,2024-09-20T18:00Z
+5,Fri Sep 20 2024,20:00,CEST/+0200,SC Bastia,,,Paris FC,2024-09-20T18:00Z
+5,Fri Sep 20 2024,20:00,CEST/+0200,SM Caen,,,AC Ajaccio,2024-09-20T18:00Z
+5,Fri Sep 20 2024,20:00,CEST/+0200,USL Dunkerque,,,Pau FC,2024-09-20T18:00Z
+5,Sat Sep 21 2024,14:30,CEST/+0200,FC Metz,,,FC Lorient,2024-09-21T12:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,AC Ajaccio,,,Grenoble Foot 38,2024-09-24T18:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,Clermont Foot 63,,,Red Star FC,2024-09-24T18:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,FC Annecy,,,ESTAC Troyes,2024-09-24T18:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,FC Metz,,,FC Martigues,2024-09-24T18:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,Paris FC,,,EA Guingamp,2024-09-24T18:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,Pau FC,,,FC Lorient,2024-09-24T18:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,Rodez AF,,,Stade Lavallois,2024-09-24T18:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,SM Caen,,,Amiens SC,2024-09-24T18:30Z
+6,Tue Sep 24 2024,20:30,CEST/+0200,USL Dunkerque,,,SC Bastia,2024-09-24T18:30Z
+7,Fri Sep 27 2024,20:00,CEST/+0200,FC Lorient,,,AC Ajaccio,2024-09-27T18:00Z
+7,Fri Sep 27 2024,20:00,CEST/+0200,FC Martigues,,,USL Dunkerque,2024-09-27T18:00Z
+7,Fri Sep 27 2024,20:00,CEST/+0200,ESTAC Troyes,,,FC Metz,2024-09-27T18:00Z
+7,Fri Sep 27 2024,20:00,CEST/+0200,Grenoble Foot 38,,,Clermont Foot 63,2024-09-27T18:00Z
+7,Fri Sep 27 2024,20:00,CEST/+0200,Amiens SC,,,Rodez AF,2024-09-27T18:00Z
+7,Fri Sep 27 2024,20:00,CEST/+0200,SC Bastia,,,FC Annecy,2024-09-27T18:00Z
+7,Fri Sep 27 2024,20:00,CEST/+0200,Stade Lavallois,,,Pau FC,2024-09-27T18:00Z
+7,Sat Sep 28 2024,14:30,CEST/+0200,Red Star FC,,,Paris FC,2024-09-28T12:30Z
+7,Mon Sep 30 2024,20:45,CEST/+0200,EA Guingamp,,,SM Caen,2024-09-30T18:45Z
+8,Sat Oct 5 2024,,,AC Ajaccio,,,FC Martigues,
+8,Sat Oct 5 2024,,,Clermont Foot 63,,,EA Guingamp,
+8,Sat Oct 5 2024,,,FC Annecy,,,Red Star FC,
+8,Sat Oct 5 2024,,,FC Metz,,,Amiens SC,
+8,Sat Oct 5 2024,,,Paris FC,,,Stade Lavallois,
+8,Sat Oct 5 2024,,,Pau FC,,,SC Bastia,
+8,Sat Oct 5 2024,,,Rodez AF,,,Grenoble Foot 38,
+8,Sat Oct 5 2024,,,SM Caen,,,FC Lorient,
+8,Sat Oct 5 2024,,,USL Dunkerque,,,ESTAC Troyes,
+9,Sat Oct 19 2024,,,EA Guingamp,,,Pau FC,
+9,Sat Oct 19 2024,,,FC Lorient,,,FC Annecy,
+9,Sat Oct 19 2024,,,FC Martigues,,,Rodez AF,
+9,Sat Oct 19 2024,,,Red Star FC,,,SM Caen,
+9,Sat Oct 19 2024,,,ESTAC Troyes,,,Paris FC,
+9,Sat Oct 19 2024,,,Grenoble Foot 38,,,FC Metz,
+9,Sat Oct 19 2024,,,Amiens SC,,,AC Ajaccio,
+9,Sat Oct 19 2024,,,SC Bastia,,,Clermont Foot 63,
+9,Sat Oct 19 2024,,,Stade Lavallois,,,USL Dunkerque,
+10,Sat Oct 26 2024,,,AC Ajaccio,,,SC Bastia,
+10,Sat Oct 26 2024,,,Clermont Foot 63,,,FC Martigues,
+10,Sat Oct 26 2024,,,FC Annecy,,,Stade Lavallois,
+10,Sat Oct 26 2024,,,FC Metz,,,EA Guingamp,
+10,Sat Oct 26 2024,,,Paris FC,,,Grenoble Foot 38,
+10,Sat Oct 26 2024,,,Pau FC,,,Amiens SC,
+10,Sat Oct 26 2024,,,Rodez AF,,,FC Lorient,
+10,Sat Oct 26 2024,,,SM Caen,,,ESTAC Troyes,
+10,Sat Oct 26 2024,,,USL Dunkerque,,,Red Star FC,
+11,Tue Oct 29 2024,,,EA Guingamp,,,AC Ajaccio,
+11,Tue Oct 29 2024,,,FC Lorient,,,USL Dunkerque,
+11,Tue Oct 29 2024,,,FC Martigues,,,SM Caen,
+11,Tue Oct 29 2024,,,Red Star FC,,,FC Metz,
+11,Tue Oct 29 2024,,,ESTAC Troyes,,,Pau FC,
+11,Tue Oct 29 2024,,,Grenoble Foot 38,,,FC Annecy,
+11,Tue Oct 29 2024,,,Amiens SC,,,Paris FC,
+11,Tue Oct 29 2024,,,SC Bastia,,,Rodez AF,
+11,Tue Oct 29 2024,,,Stade Lavallois,,,Clermont Foot 63,
+12,Sat Nov 2 2024,,,AC Ajaccio,,,FC Metz,
+12,Sat Nov 2 2024,,,Clermont Foot 63,,,FC Lorient,
+12,Sat Nov 2 2024,,,EA Guingamp,,,Grenoble Foot 38,
+12,Sat Nov 2 2024,,,FC Annecy,,,Pau FC,
+12,Sat Nov 2 2024,,,FC Martigues,,,Red Star FC,
+12,Sat Nov 2 2024,,,Paris FC,,,Rodez AF,
+12,Sat Nov 2 2024,,,ESTAC Troyes,,,Stade Lavallois,
+12,Sat Nov 2 2024,,,SM Caen,,,SC Bastia,
+12,Sat Nov 2 2024,,,USL Dunkerque,,,Amiens SC,
+13,Sat Nov 9 2024,,,AC Ajaccio,,,Clermont Foot 63,
+13,Sat Nov 9 2024,,,FC Lorient,,,EA Guingamp,
+13,Sat Nov 9 2024,,,FC Metz,,,SM Caen,
+13,Sat Nov 9 2024,,,Pau FC,,,Paris FC,
+13,Sat Nov 9 2024,,,Red Star FC,,,ESTAC Troyes,
+13,Sat Nov 9 2024,,,Grenoble Foot 38,,,USL Dunkerque,
+13,Sat Nov 9 2024,,,Rodez AF,,,FC Annecy,
+13,Sat Nov 9 2024,,,Amiens SC,,,FC Martigues,
+13,Sat Nov 9 2024,,,Stade Lavallois,,,SC Bastia,
+14,Sat Nov 23 2024,,,Clermont Foot 63,,,FC Metz,
+14,Sat Nov 23 2024,,,EA Guingamp,,,Amiens SC,
+14,Sat Nov 23 2024,,,FC Martigues,,,Stade Lavallois,
+14,Sat Nov 23 2024,,,Paris FC,,,FC Annecy,
+14,Sat Nov 23 2024,,,Pau FC,,,Red Star FC,
+14,Sat Nov 23 2024,,,ESTAC Troyes,,,Grenoble Foot 38,
+14,Sat Nov 23 2024,,,SC Bastia,,,FC Lorient,
+14,Sat Nov 23 2024,,,SM Caen,,,Rodez AF,
+14,Sat Nov 23 2024,,,USL Dunkerque,,,AC Ajaccio,
+15,Sat Dec 7 2024,,,AC Ajaccio,,,Paris FC,
+15,Sat Dec 7 2024,,,FC Annecy,,,Clermont Foot 63,
+15,Sat Dec 7 2024,,,FC Lorient,,,ESTAC Troyes,
+15,Sat Dec 7 2024,,,FC Martigues,,,EA Guingamp,
+15,Sat Dec 7 2024,,,FC Metz,,,USL Dunkerque,
+15,Sat Dec 7 2024,,,Red Star FC,,,SC Bastia,
+15,Sat Dec 7 2024,,,Grenoble Foot 38,,,Amiens SC,
+15,Sat Dec 7 2024,,,Rodez AF,,,Pau FC,
+15,Sat Dec 7 2024,,,Stade Lavallois,,,SM Caen,
+16,Sat Dec 14 2024,,,Clermont Foot 63,,,Rodez AF,
+16,Sat Dec 14 2024,,,FC Annecy,,,FC Metz,
+16,Sat Dec 14 2024,,,FC Lorient,,,Paris FC,
+16,Sat Dec 14 2024,,,Pau FC,,,AC Ajaccio,
+16,Sat Dec 14 2024,,,Red Star FC,,,Grenoble Foot 38,
+16,Sat Dec 14 2024,,,ESTAC Troyes,,,FC Martigues,
+16,Sat Dec 14 2024,,,Amiens SC,,,Stade Lavallois,
+16,Sat Dec 14 2024,,,SC Bastia,,,EA Guingamp,
+16,Sat Dec 14 2024,,,USL Dunkerque,,,SM Caen,
+17,Sat Jan 4 2025,,,AC Ajaccio,,,FC Annecy,
+17,Sat Jan 4 2025,,,EA Guingamp,,,USL Dunkerque,
+17,Sat Jan 4 2025,,,FC Metz,,,Pau FC,
+17,Sat Jan 4 2025,,,Paris FC,,,FC Martigues,
+17,Sat Jan 4 2025,,,Grenoble Foot 38,,,SC Bastia,
+17,Sat Jan 4 2025,,,Rodez AF,,,Red Star FC,
+17,Sat Jan 4 2025,,,Amiens SC,,,ESTAC Troyes,
+17,Sat Jan 4 2025,,,SM Caen,,,Clermont Foot 63,
+17,Sat Jan 4 2025,,,Stade Lavallois,,,FC Lorient,
+18,Sat Jan 11 2025,,,FC Annecy,,,EA Guingamp,
+18,Sat Jan 11 2025,,,FC Lorient,,,FC Metz,
+18,Sat Jan 11 2025,,,FC Martigues,,,Clermont Foot 63,
+18,Sat Jan 11 2025,,,Paris FC,,,Amiens SC,
+18,Sat Jan 11 2025,,,Pau FC,,,USL Dunkerque,
+18,Sat Jan 11 2025,,,Rodez AF,,,ESTAC Troyes,
+18,Sat Jan 11 2025,,,SC Bastia,,,AC Ajaccio,
+18,Sat Jan 11 2025,,,SM Caen,,,Grenoble Foot 38,
+18,Sat Jan 11 2025,,,Stade Lavallois,,,Red Star FC,
+19,Sat Jan 18 2025,,,AC Ajaccio,,,SM Caen,
+19,Sat Jan 18 2025,,,Clermont Foot 63,,,Stade Lavallois,
+19,Sat Jan 18 2025,,,EA Guingamp,,,Rodez AF,
+19,Sat Jan 18 2025,,,FC Metz,,,Paris FC,
+19,Sat Jan 18 2025,,,Red Star FC,,,Pau FC,
+19,Sat Jan 18 2025,,,ESTAC Troyes,,,FC Annecy,
+19,Sat Jan 18 2025,,,Grenoble Foot 38,,,FC Martigues,
+19,Sat Jan 18 2025,,,Amiens SC,,,SC Bastia,
+19,Sat Jan 18 2025,,,USL Dunkerque,,,FC Lorient,
+20,Sat Jan 25 2025,,,FC Annecy,,,USL Dunkerque,
+20,Sat Jan 25 2025,,,FC Lorient,,,Clermont Foot 63,
+20,Sat Jan 25 2025,,,FC Martigues,,,Amiens SC,
+20,Sat Jan 25 2025,,,FC Metz,,,Grenoble Foot 38,
+20,Sat Jan 25 2025,,,Paris FC,,,Red Star FC,
+20,Sat Jan 25 2025,,,Rodez AF,,,AC Ajaccio,
+20,Sat Jan 25 2025,,,SC Bastia,,,Pau FC,
+20,Sat Jan 25 2025,,,SM Caen,,,EA Guingamp,
+20,Sat Jan 25 2025,,,Stade Lavallois,,,ESTAC Troyes,
+21,Sat Feb 1 2025,,,Clermont Foot 63,,,AC Ajaccio,
+21,Sat Feb 1 2025,,,EA Guingamp,,,Paris FC,
+21,Sat Feb 1 2025,,,Pau FC,,,Stade Lavallois,
+21,Sat Feb 1 2025,,,Red Star FC,,,FC Lorient,
+21,Sat Feb 1 2025,,,ESTAC Troyes,,,SM Caen,
+21,Sat Feb 1 2025,,,Grenoble Foot 38,,,Rodez AF,
+21,Sat Feb 1 2025,,,Amiens SC,,,FC Annecy,
+21,Sat Feb 1 2025,,,SC Bastia,,,FC Metz,
+21,Sat Feb 1 2025,,,USL Dunkerque,,,FC Martigues,
+22,Sat Feb 8 2025,,,AC Ajaccio,,,EA Guingamp,
+22,Sat Feb 8 2025,,,FC Lorient,,,Amiens SC,
+22,Sat Feb 8 2025,,,FC Martigues,,,ESTAC Troyes,
+22,Sat Feb 8 2025,,,FC Metz,,,Clermont Foot 63,
+22,Sat Feb 8 2025,,,Paris FC,,,Pau FC,
+22,Sat Feb 8 2025,,,Grenoble Foot 38,,,Red Star FC,
+22,Sat Feb 8 2025,,,Rodez AF,,,SC Bastia,
+22,Sat Feb 8 2025,,,SM Caen,,,USL Dunkerque,
+22,Sat Feb 8 2025,,,Stade Lavallois,,,FC Annecy,
+23,Sat Feb 15 2025,,,AC Ajaccio,,,Stade Lavallois,
+23,Sat Feb 15 2025,,,Clermont Foot 63,,,SC Bastia,
+23,Sat Feb 15 2025,,,EA Guingamp,,,FC Metz,
+23,Sat Feb 15 2025,,,FC Annecy,,,SM Caen,
+23,Sat Feb 15 2025,,,Pau FC,,,Rodez AF,
+23,Sat Feb 15 2025,,,Red Star FC,,,FC Martigues,
+23,Sat Feb 15 2025,,,ESTAC Troyes,,,FC Lorient,
+23,Sat Feb 15 2025,,,Amiens SC,,,Grenoble Foot 38,
+23,Sat Feb 15 2025,,,USL Dunkerque,,,Paris FC,
+24,Sat Feb 22 2025,,,FC Lorient,,,Stade Lavallois,
+24,Sat Feb 22 2025,,,FC Martigues,,,FC Annecy,
+24,Sat Feb 22 2025,,,FC Metz,,,AC Ajaccio,
+24,Sat Feb 22 2025,,,Paris FC,,,ESTAC Troyes,
+24,Sat Feb 22 2025,,,Grenoble Foot 38,,,EA Guingamp,
+24,Sat Feb 22 2025,,,Rodez AF,,,Amiens SC,
+24,Sat Feb 22 2025,,,SC Bastia,,,Red Star FC,
+24,Sat Feb 22 2025,,,SM Caen,,,Pau FC,
+24,Sat Feb 22 2025,,,USL Dunkerque,,,Clermont Foot 63,
+25,Sat Mar 1 2025,,,AC Ajaccio,,,USL Dunkerque,
+25,Sat Mar 1 2025,,,Clermont Foot 63,,,SM Caen,
+25,Sat Mar 1 2025,,,FC Annecy,,,Paris FC,
+25,Sat Mar 1 2025,,,FC Lorient,,,Rodez AF,
+25,Sat Mar 1 2025,,,Pau FC,,,Grenoble Foot 38,
+25,Sat Mar 1 2025,,,Red Star FC,,,EA Guingamp,
+25,Sat Mar 1 2025,,,ESTAC Troyes,,,SC Bastia,
+25,Sat Mar 1 2025,,,Amiens SC,,,FC Metz,
+25,Sat Mar 1 2025,,,Stade Lavallois,,,FC Martigues,
+26,Sat Mar 8 2025,,,EA Guingamp,,,Clermont Foot 63,
+26,Sat Mar 8 2025,,,FC Metz,,,FC Annecy,
+26,Sat Mar 8 2025,,,Paris FC,,,FC Lorient,
+26,Sat Mar 8 2025,,,Pau FC,,,ESTAC Troyes,
+26,Sat Mar 8 2025,,,Red Star FC,,,Amiens SC,
+26,Sat Mar 8 2025,,,Grenoble Foot 38,,,AC Ajaccio,
+26,Sat Mar 8 2025,,,Rodez AF,,,USL Dunkerque,
+26,Sat Mar 8 2025,,,SC Bastia,,,FC Martigues,
+26,Sat Mar 8 2025,,,SM Caen,,,Stade Lavallois,
+27,Sat Mar 15 2025,,,AC Ajaccio,,,Red Star FC,
+27,Sat Mar 15 2025,,,Clermont Foot 63,,,Grenoble Foot 38,
+27,Sat Mar 15 2025,,,FC Annecy,,,Rodez AF,
+27,Sat Mar 15 2025,,,FC Lorient,,,SC Bastia,
+27,Sat Mar 15 2025,,,FC Martigues,,,Pau FC,
+27,Sat Mar 15 2025,,,ESTAC Troyes,,,EA Guingamp,
+27,Sat Mar 15 2025,,,Amiens SC,,,SM Caen,
+27,Sat Mar 15 2025,,,Stade Lavallois,,,Paris FC,
+27,Sat Mar 15 2025,,,USL Dunkerque,,,FC Metz,
+28,Sat Mar 29 2025,,,Clermont Foot 63,,,Amiens SC,
+28,Sat Mar 29 2025,,,EA Guingamp,,,Stade Lavallois,
+28,Sat Mar 29 2025,,,FC Martigues,,,AC Ajaccio,
+28,Sat Mar 29 2025,,,FC Metz,,,ESTAC Troyes,
+28,Sat Mar 29 2025,,,Paris FC,,,SM Caen,
+28,Sat Mar 29 2025,,,Pau FC,,,FC Annecy,
+28,Sat Mar 29 2025,,,Red Star FC,,,Rodez AF,
+28,Sat Mar 29 2025,,,Grenoble Foot 38,,,FC Lorient,
+28,Sat Mar 29 2025,,,SC Bastia,,,USL Dunkerque,
+29,Sat Apr 5 2025,,,AC Ajaccio,,,Amiens SC,
+29,Sat Apr 5 2025,,,FC Annecy,,,SC Bastia,
+29,Sat Apr 5 2025,,,FC Lorient,,,Pau FC,
+29,Sat Apr 5 2025,,,Paris FC,,,Clermont Foot 63,
+29,Sat Apr 5 2025,,,ESTAC Troyes,,,Red Star FC,
+29,Sat Apr 5 2025,,,Rodez AF,,,FC Martigues,
+29,Sat Apr 5 2025,,,SM Caen,,,FC Metz,
+29,Sat Apr 5 2025,,,Stade Lavallois,,,Grenoble Foot 38,
+29,Sat Apr 5 2025,,,USL Dunkerque,,,EA Guingamp,
+30,Sat Apr 12 2025,,,EA Guingamp,,,FC Lorient,
+30,Sat Apr 12 2025,,,FC Martigues,,,FC Metz,
+30,Sat Apr 12 2025,,,Pau FC,,,Clermont Foot 63,
+30,Sat Apr 12 2025,,,Red Star FC,,,FC Annecy,
+30,Sat Apr 12 2025,,,ESTAC Troyes,,,AC Ajaccio,
+30,Sat Apr 12 2025,,,Grenoble Foot 38,,,Paris FC,
+30,Sat Apr 12 2025,,,Rodez AF,,,SM Caen,
+30,Sat Apr 12 2025,,,Amiens SC,,,USL Dunkerque,
+30,Sat Apr 12 2025,,,SC Bastia,,,Stade Lavallois,
+31,Sat Apr 19 2025,,,AC Ajaccio,,,Pau FC,
+31,Sat Apr 19 2025,,,Clermont Foot 63,,,ESTAC Troyes,
+31,Sat Apr 19 2025,,,FC Annecy,,,FC Lorient,
+31,Sat Apr 19 2025,,,FC Metz,,,Red Star FC,
+31,Sat Apr 19 2025,,,Paris FC,,,SC Bastia,
+31,Sat Apr 19 2025,,,Amiens SC,,,EA Guingamp,
+31,Sat Apr 19 2025,,,SM Caen,,,FC Martigues,
+31,Sat Apr 19 2025,,,Stade Lavallois,,,Rodez AF,
+31,Sat Apr 19 2025,,,USL Dunkerque,,,Grenoble Foot 38,
+32,Sat Apr 26 2025,,,EA Guingamp,,,FC Martigues,
+32,Sat Apr 26 2025,,,FC Annecy,,,AC Ajaccio,
+32,Sat Apr 26 2025,,,FC Lorient,,,SM Caen,
+32,Sat Apr 26 2025,,,Pau FC,,,FC Metz,
+32,Sat Apr 26 2025,,,Red Star FC,,,Clermont Foot 63,
+32,Sat Apr 26 2025,,,ESTAC Troyes,,,USL Dunkerque,
+32,Sat Apr 26 2025,,,Rodez AF,,,Paris FC,
+32,Sat Apr 26 2025,,,SC Bastia,,,Grenoble Foot 38,
+32,Sat Apr 26 2025,,,Stade Lavallois,,,Amiens SC,
+33,Sat May 3 2025,,,AC Ajaccio,,,FC Lorient,
+33,Sat May 3 2025,,,Clermont Foot 63,,,FC Annecy,
+33,Sat May 3 2025,,,EA Guingamp,,,SC Bastia,
+33,Sat May 3 2025,,,FC Martigues,,,Paris FC,
+33,Sat May 3 2025,,,FC Metz,,,Rodez AF,
+33,Sat May 3 2025,,,Grenoble Foot 38,,,ESTAC Troyes,
+33,Sat May 3 2025,,,Amiens SC,,,Pau FC,
+33,Sat May 3 2025,,,SM Caen,,,Red Star FC,
+33,Sat May 3 2025,,,USL Dunkerque,,,Stade Lavallois,
+34,Sat May 10 2025,,,FC Annecy,,,Grenoble Foot 38,
+34,Sat May 10 2025,,,FC Lorient,,,FC Martigues,
+34,Sat May 10 2025,,,Paris FC,,,AC Ajaccio,
+34,Sat May 10 2025,,,Pau FC,,,EA Guingamp,
+34,Sat May 10 2025,,,Red Star FC,,,USL Dunkerque,
+34,Sat May 10 2025,,,ESTAC Troyes,,,Amiens SC,
+34,Sat May 10 2025,,,Rodez AF,,,Clermont Foot 63,
+34,Sat May 10 2025,,,SC Bastia,,,SM Caen,
+34,Sat May 10 2025,,,Stade Lavallois,,,FC Metz,

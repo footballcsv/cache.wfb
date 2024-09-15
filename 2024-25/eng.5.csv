@@ -1,553 +1,553 @@
-Round,Date,Time,Team 1,FT,HT,Team 2,Comments
-1,Sat Aug 10 2024,15:00,AFC Fylde,3-2,1-2,Solihull Moors,
-1,Sat Aug 10 2024,15:00,Aldershot Town,3-3,2-1,Forest Green Rovers,
-1,Sat Aug 10 2024,15:00,Altrincham FC,1-0,1-0,Woking FC,
-1,Sat Aug 10 2024,15:00,Boston United,0-3,0-2,Rochdale AFC,
-1,Sat Aug 10 2024,15:00,Dagenham & Redbridge,2-1,0-0,Wealdstone FC,
-1,Sat Aug 10 2024,15:00,Halifax Town,2-1,0-0,Barnet FC,
-1,Sat Aug 10 2024,15:00,Gateshead FC,5-1,3-0,Ebbsfleet United,
-1,Sat Aug 10 2024,15:00,Maidenhead United,0-2,0-2,Eastleigh FC,
-1,Sat Aug 10 2024,15:00,Oldham Athletic,3-0,2-0,Braintree Town,
-1,Sat Aug 10 2024,15:00,Southend United,1-1,1-0,York City,
-1,Sat Aug 10 2024,15:00,Tamworth FC,1-1,0-0,Sutton United,
-1,Sat Aug 10 2024,15:00,Yeovil Town,0-1,0-0,Hartlepool United,
-2,Sat Aug 17 2024,15:00,Boston United,0-4,0-3,Forest Green Rovers,
-2,Sat Aug 17 2024,15:00,Braintree Town,0-1,0-0,Yeovil Town,
-2,Sat Aug 17 2024,15:00,Eastleigh FC,4-2,1-2,AFC Fylde,
-2,Sat Aug 17 2024,15:00,Ebbsfleet United,1-2,0-1,Barnet FC,
-2,Sat Aug 17 2024,15:00,Halifax Town,0-1,0-1,Aldershot Town,
-2,Sat Aug 17 2024,15:00,Hartlepool United,0-0,0-0,Southend United,
-2,Sat Aug 17 2024,15:00,Rochdale AFC,1-1,0-0,Dagenham & Redbridge,
-2,Sat Aug 17 2024,15:00,Solihull Moors,2-1,0-0,Maidenhead United,
-2,Sat Aug 17 2024,15:00,Sutton United,5-0,4-0,Altrincham FC,
-2,Sat Aug 17 2024,15:00,Wealdstone FC,0-1,0-0,Oldham Athletic,
-2,Sat Aug 17 2024,15:00,Woking FC,0-2,0-1,Gateshead FC,
-2,Sat Aug 17 2024,15:00,York City,2-0,0-0,Tamworth FC,
-3,Tue Aug 20 2024,19:45,Barnet FC,1-0,0-0,Forest Green Rovers,
-3,Tue Aug 20 2024,19:45,Braintree Town,2-1,0-1,Aldershot Town,
-3,Tue Aug 20 2024,19:45,Eastleigh FC,2-1,2-0,Solihull Moors,
-3,Tue Aug 20 2024,19:45,Halifax Town,1-1,0-0,Gateshead FC,
-3,Tue Aug 20 2024,19:45,Maidenhead United,0-1,0-1,Altrincham FC,
-3,Tue Aug 20 2024,19:45,Oldham Athletic,1-1,0-1,AFC Fylde,
-3,Tue Aug 20 2024,19:45,Southend United,2-0,1-0,Boston United,
-3,Tue Aug 20 2024,19:45,Tamworth FC,0-1,0-0,Hartlepool United,
-3,Tue Aug 20 2024,19:45,Wealdstone FC,0-1,0-1,Sutton United,
-3,Tue Aug 20 2024,19:45,Woking FC,1-0,0-0,Dagenham & Redbridge,
-3,Tue Aug 20 2024,19:45,Yeovil Town,3-2,2-0,Ebbsfleet United,
-3,Tue Aug 20 2024,19:45,York City,1-0,1-0,Rochdale AFC,
-4,Fri Aug 23 2024,19:45,Dagenham & Redbridge,1-1,1-0,Halifax Town,
-4,Sat Aug 24 2024,12:30,Gateshead FC,3-1,2-1,Yeovil Town,
-4,Sat Aug 24 2024,15:00,AFC Fylde,0-0,0-0,Maidenhead United,
-4,Sat Aug 24 2024,15:00,Aldershot Town,4-1,1-0,Oldham Athletic,
-4,Sat Aug 24 2024,15:00,Altrincham FC,0-1,0-0,Eastleigh FC,
-4,Sat Aug 24 2024,15:00,Barnet FC,2-1,1-0,Southend United,
-4,Sat Aug 24 2024,15:00,Boston United,1-1,1-0,Tamworth FC,
-4,Sat Aug 24 2024,15:00,Ebbsfleet United,0-3,0-1,Woking FC,
-4,Sat Aug 24 2024,15:00,Hartlepool United,1-1,0-1,Wealdstone FC,
-4,Sat Aug 24 2024,15:00,Rochdale AFC,0-0,0-0,Forest Green Rovers,
-4,Sat Aug 24 2024,15:00,Solihull Moors,1-1,0-1,Braintree Town,
-4,Sat Aug 24 2024,15:00,Sutton United,2-2,0-0,York City,
-5,Mon Aug 26 2024,15:00,Braintree Town,0-0,0-0,Ebbsfleet United,
-5,Mon Aug 26 2024,15:00,Eastleigh FC,1-1,1-1,Sutton United,
-5,Mon Aug 26 2024,15:00,Halifax Town,0-1,0-1,Solihull Moors,
-5,Mon Aug 26 2024,15:00,Forest Green Rovers,2-1,1-0,Altrincham FC,
-5,Mon Aug 26 2024,15:00,Maidenhead United,3-1,2-1,Barnet FC,
-5,Mon Aug 26 2024,15:00,Oldham Athletic,1-1,0-1,Gateshead FC,
-5,Mon Aug 26 2024,15:00,Southend United,2-2,1-1,Dagenham & Redbridge,
-5,Mon Aug 26 2024,15:00,Tamworth FC,3-2,1-1,Aldershot Town,
-5,Mon Aug 26 2024,15:00,Wealdstone FC,1-0,1-0,AFC Fylde,
-5,Mon Aug 26 2024,15:00,Woking FC,3-2,0-2,Hartlepool United,
-5,Mon Aug 26 2024,15:00,Yeovil Town,0-1,0-0,Rochdale AFC,
-5,Mon Aug 26 2024,15:00,York City,0-2,0-0,Boston United,
-6,Sat Aug 31 2024,,AFC Fylde,,,Southend United,postponed
-6,Sat Aug 31 2024,15:00,Aldershot Town,4-3,1-1,Maidenhead United,
-6,Sat Aug 31 2024,15:00,Altrincham FC,1-1,0-1,Oldham Athletic,
-6,Sat Aug 31 2024,15:00,Barnet FC,7-0,3-0,Tamworth FC,
-6,Sat Aug 31 2024,15:00,Boston United,1-3,1-2,Yeovil Town,
-6,Sat Aug 31 2024,15:00,Dagenham & Redbridge,0-2,0-0,York City,
-6,Sat Aug 31 2024,15:00,Ebbsfleet United,0-1,0-1,Halifax Town,
-6,Sat Aug 31 2024,15:00,Gateshead FC,2-1,1-0,Eastleigh FC,
-6,Sat Aug 31 2024,15:00,Hartlepool United,0-0,0-0,Braintree Town,
-6,Sat Aug 31 2024,15:00,Rochdale AFC,3-0,1-0,Woking FC,
-6,Sat Aug 31 2024,15:00,Solihull Moors,1-1,1-0,Wealdstone FC,
-6,Sat Aug 31 2024,17:30,Sutton United,1-2,0-1,Forest Green Rovers,
-7,Sat Sep 7 2024,15:00,AFC Fylde,3-4,2-0,Yeovil Town,
-7,Sat Sep 7 2024,15:00,Altrincham FC,4-0,2-0,Ebbsfleet United,
-7,Sat Sep 7 2024,15:00,Braintree Town,0-0,0-0,Woking FC,
-7,Sat Sep 7 2024,15:00,Eastleigh FC,1-0,1-0,Tamworth FC,
-7,Sat Sep 7 2024,15:00,Gateshead FC,2-0,1-0,Barnet FC,
-7,Sat Sep 7 2024,15:00,Hartlepool United,0-0,0-0,Halifax Town,
-7,Sat Sep 7 2024,15:00,Maidenhead United,1-1,1-0,Dagenham & Redbridge,
-7,Sat Sep 7 2024,15:00,Oldham Athletic,1-1,0-1,Southend United,
-7,Sat Sep 7 2024,15:00,Solihull Moors,0-1,0-0,Forest Green Rovers,
-7,Sat Sep 7 2024,15:00,Sutton United,0-3,0-1,Boston United,
-7,Sat Sep 7 2024,15:00,Wealdstone FC,0-2,0-1,York City,
-7,Sat Sep 7 2024,17:30,Aldershot Town,0-2,0-2,Rochdale AFC,
-8,Tue Sep 10 2024,19:45,Barnet FC,,,Altrincham FC,
-8,Tue Sep 10 2024,19:45,Boston United,,,Hartlepool United,
-8,Tue Sep 10 2024,19:45,Dagenham & Redbridge,,,Sutton United,
-8,Tue Sep 10 2024,19:45,Ebbsfleet United,,,Aldershot Town,
-8,Tue Sep 10 2024,19:45,Halifax Town,,,Oldham Athletic,
-8,Tue Sep 10 2024,19:45,Forest Green Rovers,,,AFC Fylde,
-8,Tue Sep 10 2024,19:45,Rochdale AFC,,,Maidenhead United,
-8,Tue Sep 10 2024,19:45,Southend United,,,Eastleigh FC,
-8,Tue Sep 10 2024,19:45,Woking FC,,,Wealdstone FC,
-8,Tue Sep 10 2024,19:45,Yeovil Town,,,Solihull Moors,
-8,Tue Sep 10 2024,19:45,York City,,,Braintree Town,
-9,Sat Sep 14 2024,17:30,Dagenham & Redbridge,,,Gateshead FC,
-9,Sat Sep 14 2024,15:00,Barnet FC,,,Braintree Town,
-9,Sat Sep 14 2024,15:00,Boston United,,,Aldershot Town,
-9,Sat Sep 14 2024,15:00,Ebbsfleet United,,,Hartlepool United,
-9,Sat Sep 14 2024,15:00,Halifax Town,,,Eastleigh FC,
-9,Sat Sep 14 2024,15:00,Forest Green Rovers,,,Wealdstone FC,
-9,Sat Sep 14 2024,15:00,Rochdale AFC,,,Solihull Moors,
-9,Sat Sep 14 2024,15:00,Southend United,,,Sutton United,
-9,Sat Sep 14 2024,15:00,Tamworth FC,,,Maidenhead United,
-9,Sat Sep 14 2024,15:00,Woking FC,,,Oldham Athletic,
-9,Sat Sep 14 2024,15:00,Yeovil Town,,,Altrincham FC,
-9,Sat Sep 14 2024,15:00,York City,,,AFC Fylde,
-10,Sat Sep 21 2024,17:30,Wealdstone FC,,,Barnet FC,
-10,Sat Sep 21 2024,15:00,AFC Fylde,,,Woking FC,
-10,Sat Sep 21 2024,15:00,Aldershot Town,,,York City,
-10,Sat Sep 21 2024,15:00,Altrincham FC,,,Boston United,
-10,Sat Sep 21 2024,15:00,Braintree Town,,,Tamworth FC,
-10,Sat Sep 21 2024,15:00,Eastleigh FC,,,Rochdale AFC,
-10,Sat Sep 21 2024,15:00,Gateshead FC,,,Forest Green Rovers,
-10,Sat Sep 21 2024,15:00,Hartlepool United,,,Dagenham & Redbridge,
-10,Sat Sep 21 2024,15:00,Maidenhead United,,,Halifax Town,
-10,Sat Sep 21 2024,15:00,Oldham Athletic,,,Yeovil Town,
-10,Sat Sep 21 2024,15:00,Solihull Moors,,,Southend United,
-10,Sat Sep 21 2024,15:00,Sutton United,,,Ebbsfleet United,
-11,Tue Sep 24 2024,19:45,Wealdstone FC,,,Southend United,
-11,Tue Sep 24 2024,19:45,AFC Fylde,,,Tamworth FC,
-11,Tue Sep 24 2024,19:45,Aldershot Town,,,Barnet FC,
-11,Tue Sep 24 2024,19:45,Altrincham FC,,,Dagenham & Redbridge,
-11,Tue Sep 24 2024,19:45,Braintree Town,,,Halifax Town,
-11,Tue Sep 24 2024,19:45,Eastleigh FC,,,Woking FC,
-11,Tue Sep 24 2024,19:45,Gateshead FC,,,Boston United,
-11,Tue Sep 24 2024,19:45,Hartlepool United,,,Rochdale AFC,
-11,Tue Sep 24 2024,19:45,Maidenhead United,,,Ebbsfleet United,
-11,Tue Sep 24 2024,19:45,Oldham Athletic,,,Forest Green Rovers,
-11,Tue Sep 24 2024,19:45,Solihull Moors,,,York City,
-11,Tue Sep 24 2024,19:45,Sutton United,,,Yeovil Town,
-12,Sat Sep 28 2024,17:30,Ebbsfleet United,,,Oldham Athletic,
-12,Sat Sep 28 2024,15:00,Barnet FC,,,AFC Fylde,
-12,Sat Sep 28 2024,15:00,Boston United,,,Maidenhead United,
-12,Sat Sep 28 2024,15:00,Dagenham & Redbridge,,,Solihull Moors,
-12,Sat Sep 28 2024,15:00,Halifax Town,,,Wealdstone FC,
-12,Sat Sep 28 2024,15:00,Forest Green Rovers,,,Hartlepool United,
-12,Sat Sep 28 2024,15:00,Rochdale AFC,,,Braintree Town,
-12,Sat Sep 28 2024,15:00,Southend United,,,Gateshead FC,
-12,Sat Sep 28 2024,15:00,Tamworth FC,,,Altrincham FC,
-12,Sat Sep 28 2024,15:00,Woking FC,,,Sutton United,
-12,Sat Sep 28 2024,15:00,Yeovil Town,,,Aldershot Town,
-12,Sat Sep 28 2024,15:00,York City,,,Eastleigh FC,
-13,Sat Oct 5 2024,15:00,Yeovil Town,,,Dagenham & Redbridge,
-13,Sat Oct 5 2024,15:00,AFC Fylde,,,Aldershot Town,
-13,Sat Oct 5 2024,15:00,Barnet FC,,,Boston United,
-13,Sat Oct 5 2024,15:00,Braintree Town,,,Altrincham FC,
-13,Sat Oct 5 2024,15:00,Eastleigh FC,,,Forest Green Rovers,
-13,Sat Oct 5 2024,15:00,Ebbsfleet United,,,Rochdale AFC,
-13,Sat Oct 5 2024,15:00,Halifax Town,,,Tamworth FC,
-13,Sat Oct 5 2024,15:00,Gateshead FC,,,Wealdstone FC,
-13,Sat Oct 5 2024,15:00,Hartlepool United,,,Sutton United,
-13,Sat Oct 5 2024,15:00,Oldham Athletic,,,Solihull Moors,
-13,Sat Oct 5 2024,15:00,Southend United,,,Maidenhead United,
-13,Sat Oct 5 2024,15:00,Woking FC,,,York City,
-8,Tue Oct 8 2024,19:45,Tamworth FC,,,Gateshead FC,
-14,Sat Oct 19 2024,15:00,Aldershot Town,,,Eastleigh FC,
-14,Sat Oct 19 2024,15:00,Altrincham FC,,,Gateshead FC,
-14,Sat Oct 19 2024,15:00,Boston United,,,Halifax Town,
-14,Sat Oct 19 2024,15:00,Dagenham & Redbridge,,,AFC Fylde,
-14,Sat Oct 19 2024,15:00,Forest Green Rovers,,,Braintree Town,
-14,Sat Oct 19 2024,15:00,Maidenhead United,,,Hartlepool United,
-14,Sat Oct 19 2024,15:00,Rochdale AFC,,,Southend United,
-14,Sat Oct 19 2024,15:00,Solihull Moors,,,Barnet FC,
-14,Sat Oct 19 2024,15:00,Sutton United,,,Oldham Athletic,
-14,Sat Oct 19 2024,15:00,Tamworth FC,,,Woking FC,
-14,Sat Oct 19 2024,15:00,Wealdstone FC,,,Yeovil Town,
-14,Sat Oct 19 2024,15:00,York City,,,Ebbsfleet United,
-15,Tue Oct 22 2024,19:45,Aldershot Town,,,Southend United,
-15,Tue Oct 22 2024,19:45,Altrincham FC,,,Hartlepool United,
-15,Tue Oct 22 2024,19:45,Boston United,,,AFC Fylde,
-15,Tue Oct 22 2024,19:45,Dagenham & Redbridge,,,Eastleigh FC,
-15,Tue Oct 22 2024,19:45,Forest Green Rovers,,,Ebbsfleet United,
-15,Tue Oct 22 2024,19:45,Maidenhead United,,,Oldham Athletic,
-15,Tue Oct 22 2024,19:45,Rochdale AFC,,,Halifax Town,
-15,Tue Oct 22 2024,19:45,Solihull Moors,,,Woking FC,
-15,Tue Oct 22 2024,19:45,Sutton United,,,Gateshead FC,
-15,Tue Oct 22 2024,19:45,Tamworth FC,,,Yeovil Town,
-15,Tue Oct 22 2024,19:45,Wealdstone FC,,,Braintree Town,
-15,Tue Oct 22 2024,19:45,York City,,,Barnet FC,
-16,Sat Oct 26 2024,15:00,AFC Fylde,,,Altrincham FC,
-16,Sat Oct 26 2024,15:00,Barnet FC,,,Rochdale AFC,
-16,Sat Oct 26 2024,15:00,Braintree Town,,,Sutton United,
-16,Sat Oct 26 2024,15:00,Eastleigh FC,,,Boston United,
-16,Sat Oct 26 2024,15:00,Ebbsfleet United,,,Wealdstone FC,
-16,Sat Oct 26 2024,15:00,Halifax Town,,,York City,
-16,Sat Oct 26 2024,15:00,Gateshead FC,,,Solihull Moors,
-16,Sat Oct 26 2024,15:00,Hartlepool United,,,Aldershot Town,
-16,Sat Oct 26 2024,15:00,Oldham Athletic,,,Dagenham & Redbridge,
-16,Sat Oct 26 2024,15:00,Southend United,,,Tamworth FC,
-16,Sat Oct 26 2024,15:00,Woking FC,,,Forest Green Rovers,
-16,Sat Oct 26 2024,15:00,Yeovil Town,,,Maidenhead United,
-17,Sat Nov 9 2024,15:00,AFC Fylde,,,Gateshead FC,
-17,Sat Nov 9 2024,15:00,Aldershot Town,,,Wealdstone FC,
-17,Sat Nov 9 2024,15:00,Barnet FC,,,Oldham Athletic,
-17,Sat Nov 9 2024,15:00,Boston United,,,Dagenham & Redbridge,
-17,Sat Nov 9 2024,15:00,Eastleigh FC,,,Braintree Town,
-17,Sat Nov 9 2024,15:00,Halifax Town,,,Woking FC,
-17,Sat Nov 9 2024,15:00,Maidenhead United,,,Forest Green Rovers,
-17,Sat Nov 9 2024,15:00,Rochdale AFC,,,Sutton United,
-17,Sat Nov 9 2024,15:00,Solihull Moors,,,Altrincham FC,
-17,Sat Nov 9 2024,15:00,Southend United,,,Yeovil Town,
-17,Sat Nov 9 2024,15:00,Tamworth FC,,,Ebbsfleet United,
-17,Sat Nov 9 2024,15:00,York City,,,Hartlepool United,
-18,Sat Nov 16 2024,15:00,Altrincham FC,,,Southend United,
-18,Sat Nov 16 2024,15:00,Braintree Town,,,AFC Fylde,
-18,Sat Nov 16 2024,15:00,Dagenham & Redbridge,,,Barnet FC,
-18,Sat Nov 16 2024,15:00,Ebbsfleet United,,,Solihull Moors,
-18,Sat Nov 16 2024,15:00,Forest Green Rovers,,,York City,
-18,Sat Nov 16 2024,15:00,Gateshead FC,,,Aldershot Town,
-18,Sat Nov 16 2024,15:00,Hartlepool United,,,Eastleigh FC,
-18,Sat Nov 16 2024,15:00,Oldham Athletic,,,Tamworth FC,
-18,Sat Nov 16 2024,15:00,Sutton United,,,Maidenhead United,
-18,Sat Nov 16 2024,15:00,Wealdstone FC,,,Rochdale AFC,
-18,Sat Nov 16 2024,15:00,Woking FC,,,Boston United,
-18,Sat Nov 16 2024,15:00,Yeovil Town,,,Halifax Town,
-19,Sat Nov 23 2024,15:00,AFC Fylde,,,Ebbsfleet United,
-19,Sat Nov 23 2024,15:00,Aldershot Town,,,Altrincham FC,
-19,Sat Nov 23 2024,15:00,Barnet FC,,,Woking FC,
-19,Sat Nov 23 2024,15:00,Boston United,,,Braintree Town,
-19,Sat Nov 23 2024,15:00,Eastleigh FC,,,Wealdstone FC,
-19,Sat Nov 23 2024,15:00,Halifax Town,,,Sutton United,
-19,Sat Nov 23 2024,15:00,Maidenhead United,,,Gateshead FC,
-19,Sat Nov 23 2024,15:00,Rochdale AFC,,,Oldham Athletic,
-19,Sat Nov 23 2024,15:00,Solihull Moors,,,Hartlepool United,
-19,Sat Nov 23 2024,15:00,Southend United,,,Forest Green Rovers,
-19,Sat Nov 23 2024,15:00,Tamworth FC,,,Dagenham & Redbridge,
-19,Sat Nov 23 2024,15:00,York City,,,Yeovil Town,
-20,Tue Nov 26 2024,19:45,Altrincham FC,,,York City,
-20,Tue Nov 26 2024,19:45,Braintree Town,,,Maidenhead United,
-20,Tue Nov 26 2024,19:45,Dagenham & Redbridge,,,Aldershot Town,
-20,Tue Nov 26 2024,19:45,Ebbsfleet United,,,Eastleigh FC,
-20,Tue Nov 26 2024,19:45,Forest Green Rovers,,,Halifax Town,
-20,Tue Nov 26 2024,19:45,Gateshead FC,,,Rochdale AFC,
-20,Tue Nov 26 2024,19:45,Hartlepool United,,,AFC Fylde,
-20,Tue Nov 26 2024,19:45,Oldham Athletic,,,Boston United,
-20,Tue Nov 26 2024,19:45,Sutton United,,,Solihull Moors,
-20,Tue Nov 26 2024,19:45,Wealdstone FC,,,Tamworth FC,
-20,Tue Nov 26 2024,19:45,Woking FC,,,Southend United,
-20,Tue Nov 26 2024,19:45,Yeovil Town,,,Barnet FC,
-21,Sat Nov 30 2024,15:00,Braintree Town,,,Gateshead FC,
-21,Sat Nov 30 2024,15:00,Eastleigh FC,,,Oldham Athletic,
-21,Sat Nov 30 2024,15:00,Ebbsfleet United,,,Boston United,
-21,Sat Nov 30 2024,15:00,Halifax Town,,,Southend United,
-21,Sat Nov 30 2024,15:00,Forest Green Rovers,,,Dagenham & Redbridge,
-21,Sat Nov 30 2024,15:00,Hartlepool United,,,Barnet FC,
-21,Sat Nov 30 2024,15:00,Rochdale AFC,,,Tamworth FC,
-21,Sat Nov 30 2024,15:00,Solihull Moors,,,Aldershot Town,
-21,Sat Nov 30 2024,15:00,Sutton United,,,AFC Fylde,
-21,Sat Nov 30 2024,15:00,Wealdstone FC,,,Altrincham FC,
-21,Sat Nov 30 2024,15:00,Woking FC,,,Yeovil Town,
-21,Sat Nov 30 2024,15:00,York City,,,Maidenhead United,
-22,Sat Dec 14 2024,15:00,AFC Fylde,,,Eastleigh FC,
-22,Sat Dec 14 2024,15:00,Aldershot Town,,,Halifax Town,
-22,Sat Dec 14 2024,15:00,Altrincham FC,,,Sutton United,
-22,Sat Dec 14 2024,15:00,Barnet FC,,,Ebbsfleet United,
-22,Sat Dec 14 2024,15:00,Dagenham & Redbridge,,,Rochdale AFC,
-22,Sat Dec 14 2024,15:00,Forest Green Rovers,,,Boston United,
-22,Sat Dec 14 2024,15:00,Gateshead FC,,,Woking FC,
-22,Sat Dec 14 2024,15:00,Maidenhead United,,,Solihull Moors,
-22,Sat Dec 14 2024,15:00,Oldham Athletic,,,Wealdstone FC,
-22,Sat Dec 14 2024,15:00,Southend United,,,Hartlepool United,
-22,Sat Dec 14 2024,15:00,Tamworth FC,,,York City,
-22,Sat Dec 14 2024,15:00,Yeovil Town,,,Braintree Town,
-23,Sat Dec 21 2024,15:00,Barnet FC,,,Halifax Town,
-23,Sat Dec 21 2024,15:00,Braintree Town,,,Oldham Athletic,
-23,Sat Dec 21 2024,15:00,Eastleigh FC,,,Maidenhead United,
-23,Sat Dec 21 2024,15:00,Ebbsfleet United,,,Gateshead FC,
-23,Sat Dec 21 2024,15:00,Forest Green Rovers,,,Aldershot Town,
-23,Sat Dec 21 2024,15:00,Hartlepool United,,,Yeovil Town,
-23,Sat Dec 21 2024,15:00,Rochdale AFC,,,Boston United,
-23,Sat Dec 21 2024,15:00,Solihull Moors,,,AFC Fylde,
-23,Sat Dec 21 2024,15:00,Sutton United,,,Tamworth FC,
-23,Sat Dec 21 2024,15:00,Wealdstone FC,,,Dagenham & Redbridge,
-23,Sat Dec 21 2024,15:00,Woking FC,,,Altrincham FC,
-23,Sat Dec 21 2024,15:00,York City,,,Southend United,
-24,Thu Dec 26 2024,15:00,AFC Fylde,,,Rochdale AFC,
-24,Thu Dec 26 2024,15:00,Aldershot Town,,,Woking FC,
-24,Thu Dec 26 2024,15:00,Altrincham FC,,,Halifax Town,
-24,Thu Dec 26 2024,15:00,Barnet FC,,,Sutton United,
-24,Thu Dec 26 2024,15:00,Boston United,,,Solihull Moors,
-24,Thu Dec 26 2024,15:00,Dagenham & Redbridge,,,Braintree Town,
-24,Thu Dec 26 2024,15:00,Gateshead FC,,,Hartlepool United,
-24,Thu Dec 26 2024,15:00,Maidenhead United,,,Wealdstone FC,
-24,Thu Dec 26 2024,15:00,Oldham Athletic,,,York City,
-24,Thu Dec 26 2024,15:00,Southend United,,,Ebbsfleet United,
-24,Thu Dec 26 2024,15:00,Tamworth FC,,,Forest Green Rovers,
-24,Thu Dec 26 2024,15:00,Yeovil Town,,,Eastleigh FC,
-25,Wed Jan 1 2025,15:00,Braintree Town,,,Southend United,
-25,Wed Jan 1 2025,15:00,Eastleigh FC,,,Barnet FC,
-25,Wed Jan 1 2025,15:00,Ebbsfleet United,,,Dagenham & Redbridge,
-25,Wed Jan 1 2025,15:00,Halifax Town,,,AFC Fylde,
-25,Wed Jan 1 2025,15:00,Forest Green Rovers,,,Yeovil Town,
-25,Wed Jan 1 2025,15:00,Hartlepool United,,,Oldham Athletic,
-25,Wed Jan 1 2025,15:00,Rochdale AFC,,,Altrincham FC,
-25,Wed Jan 1 2025,15:00,Solihull Moors,,,Tamworth FC,
-25,Wed Jan 1 2025,15:00,Sutton United,,,Aldershot Town,
-25,Wed Jan 1 2025,15:00,Wealdstone FC,,,Boston United,
-25,Wed Jan 1 2025,15:00,Woking FC,,,Maidenhead United,
-25,Wed Jan 1 2025,15:00,York City,,,Gateshead FC,
-26,Sat Jan 11 2025,15:00,AFC Fylde,,,Sutton United,
-26,Sat Jan 11 2025,15:00,Aldershot Town,,,Solihull Moors,
-26,Sat Jan 11 2025,15:00,Altrincham FC,,,Wealdstone FC,
-26,Sat Jan 11 2025,15:00,Barnet FC,,,Hartlepool United,
-26,Sat Jan 11 2025,15:00,Boston United,,,Ebbsfleet United,
-26,Sat Jan 11 2025,15:00,Dagenham & Redbridge,,,Forest Green Rovers,
-26,Sat Jan 11 2025,15:00,Gateshead FC,,,Braintree Town,
-26,Sat Jan 11 2025,15:00,Maidenhead United,,,York City,
-26,Sat Jan 11 2025,15:00,Oldham Athletic,,,Eastleigh FC,
-26,Sat Jan 11 2025,15:00,Southend United,,,Halifax Town,
-26,Sat Jan 11 2025,15:00,Tamworth FC,,,Rochdale AFC,
-26,Sat Jan 11 2025,15:00,Yeovil Town,,,Woking FC,
-27,Tue Jan 14 2025,19:45,AFC Fylde,,,Oldham Athletic,
-27,Tue Jan 14 2025,19:45,Aldershot Town,,,Braintree Town,
-27,Tue Jan 14 2025,19:45,Altrincham FC,,,Maidenhead United,
-27,Tue Jan 14 2025,19:45,Boston United,,,Southend United,
-27,Tue Jan 14 2025,19:45,Dagenham & Redbridge,,,Woking FC,
-27,Tue Jan 14 2025,19:45,Ebbsfleet United,,,Yeovil Town,
-27,Tue Jan 14 2025,19:45,Forest Green Rovers,,,Barnet FC,
-27,Tue Jan 14 2025,19:45,Gateshead FC,,,Halifax Town,
-27,Tue Jan 14 2025,19:45,Hartlepool United,,,Tamworth FC,
-27,Tue Jan 14 2025,19:45,Rochdale AFC,,,York City,
-27,Tue Jan 14 2025,19:45,Solihull Moors,,,Eastleigh FC,
-27,Tue Jan 14 2025,19:45,Sutton United,,,Wealdstone FC,
-28,Sat Jan 18 2025,15:00,Braintree Town,,,Solihull Moors,
-28,Sat Jan 18 2025,15:00,Eastleigh FC,,,Altrincham FC,
-28,Sat Jan 18 2025,15:00,Halifax Town,,,Dagenham & Redbridge,
-28,Sat Jan 18 2025,15:00,Forest Green Rovers,,,Rochdale AFC,
-28,Sat Jan 18 2025,15:00,Maidenhead United,,,AFC Fylde,
-28,Sat Jan 18 2025,15:00,Oldham Athletic,,,Aldershot Town,
-28,Sat Jan 18 2025,15:00,Southend United,,,Barnet FC,
-28,Sat Jan 18 2025,15:00,Tamworth FC,,,Boston United,
-28,Sat Jan 18 2025,15:00,Wealdstone FC,,,Hartlepool United,
-28,Sat Jan 18 2025,15:00,Woking FC,,,Ebbsfleet United,
-28,Sat Jan 18 2025,15:00,Yeovil Town,,,Gateshead FC,
-28,Sat Jan 18 2025,15:00,York City,,,Sutton United,
-29,Sat Jan 25 2025,15:00,AFC Fylde,,,Wealdstone FC,
-29,Sat Jan 25 2025,15:00,Aldershot Town,,,Tamworth FC,
-29,Sat Jan 25 2025,15:00,Altrincham FC,,,Forest Green Rovers,
-29,Sat Jan 25 2025,15:00,Barnet FC,,,Maidenhead United,
-29,Sat Jan 25 2025,15:00,Boston United,,,York City,
-29,Sat Jan 25 2025,15:00,Dagenham & Redbridge,,,Southend United,
-29,Sat Jan 25 2025,15:00,Ebbsfleet United,,,Braintree Town,
-29,Sat Jan 25 2025,15:00,Gateshead FC,,,Oldham Athletic,
-29,Sat Jan 25 2025,15:00,Hartlepool United,,,Woking FC,
-29,Sat Jan 25 2025,15:00,Rochdale AFC,,,Yeovil Town,
-29,Sat Jan 25 2025,15:00,Solihull Moors,,,Halifax Town,
-29,Sat Jan 25 2025,15:00,Sutton United,,,Eastleigh FC,
-30,Sat Feb 1 2025,15:00,Braintree Town,,,Hartlepool United,
-30,Sat Feb 1 2025,15:00,Eastleigh FC,,,Gateshead FC,
-30,Sat Feb 1 2025,15:00,Halifax Town,,,Ebbsfleet United,
-30,Sat Feb 1 2025,15:00,Forest Green Rovers,,,Sutton United,
-30,Sat Feb 1 2025,15:00,Maidenhead United,,,Aldershot Town,
-30,Sat Feb 1 2025,15:00,Oldham Athletic,,,Altrincham FC,
-30,Sat Feb 1 2025,15:00,Southend United,,,AFC Fylde,
-30,Sat Feb 1 2025,15:00,Tamworth FC,,,Barnet FC,
-30,Sat Feb 1 2025,15:00,Wealdstone FC,,,Solihull Moors,
-30,Sat Feb 1 2025,15:00,Woking FC,,,Rochdale AFC,
-30,Sat Feb 1 2025,15:00,Yeovil Town,,,Boston United,
-30,Sat Feb 1 2025,15:00,York City,,,Dagenham & Redbridge,
-31,Sat Feb 8 2025,15:00,Aldershot Town,,,AFC Fylde,
-31,Sat Feb 8 2025,15:00,Altrincham FC,,,Braintree Town,
-31,Sat Feb 8 2025,15:00,Boston United,,,Barnet FC,
-31,Sat Feb 8 2025,15:00,Dagenham & Redbridge,,,Yeovil Town,
-31,Sat Feb 8 2025,15:00,Forest Green Rovers,,,Eastleigh FC,
-31,Sat Feb 8 2025,15:00,Maidenhead United,,,Southend United,
-31,Sat Feb 8 2025,15:00,Rochdale AFC,,,Ebbsfleet United,
-31,Sat Feb 8 2025,15:00,Solihull Moors,,,Oldham Athletic,
-31,Sat Feb 8 2025,15:00,Sutton United,,,Hartlepool United,
-31,Sat Feb 8 2025,15:00,Tamworth FC,,,Halifax Town,
-31,Sat Feb 8 2025,15:00,Wealdstone FC,,,Gateshead FC,
-31,Sat Feb 8 2025,15:00,York City,,,Woking FC,
-32,Sat Feb 15 2025,15:00,AFC Fylde,,,Dagenham & Redbridge,
-32,Sat Feb 15 2025,15:00,Barnet FC,,,Solihull Moors,
-32,Sat Feb 15 2025,15:00,Braintree Town,,,Forest Green Rovers,
-32,Sat Feb 15 2025,15:00,Eastleigh FC,,,Aldershot Town,
-32,Sat Feb 15 2025,15:00,Ebbsfleet United,,,York City,
-32,Sat Feb 15 2025,15:00,Halifax Town,,,Boston United,
-32,Sat Feb 15 2025,15:00,Gateshead FC,,,Altrincham FC,
-32,Sat Feb 15 2025,15:00,Hartlepool United,,,Maidenhead United,
-32,Sat Feb 15 2025,15:00,Oldham Athletic,,,Sutton United,
-32,Sat Feb 15 2025,15:00,Southend United,,,Rochdale AFC,
-32,Sat Feb 15 2025,15:00,Woking FC,,,Tamworth FC,
-32,Sat Feb 15 2025,15:00,Yeovil Town,,,Wealdstone FC,
-33,Tue Feb 18 2025,19:45,AFC Fylde,,,Boston United,
-33,Tue Feb 18 2025,19:45,Barnet FC,,,York City,
-33,Tue Feb 18 2025,19:45,Braintree Town,,,Wealdstone FC,
-33,Tue Feb 18 2025,19:45,Eastleigh FC,,,Dagenham & Redbridge,
-33,Tue Feb 18 2025,19:45,Ebbsfleet United,,,Forest Green Rovers,
-33,Tue Feb 18 2025,19:45,Halifax Town,,,Rochdale AFC,
-33,Tue Feb 18 2025,19:45,Gateshead FC,,,Sutton United,
-33,Tue Feb 18 2025,19:45,Hartlepool United,,,Altrincham FC,
-33,Tue Feb 18 2025,19:45,Oldham Athletic,,,Maidenhead United,
-33,Tue Feb 18 2025,19:45,Southend United,,,Aldershot Town,
-33,Tue Feb 18 2025,19:45,Woking FC,,,Solihull Moors,
-33,Tue Feb 18 2025,19:45,Yeovil Town,,,Tamworth FC,
-34,Sat Feb 22 2025,15:00,Aldershot Town,,,Hartlepool United,
-34,Sat Feb 22 2025,15:00,Altrincham FC,,,AFC Fylde,
-34,Sat Feb 22 2025,15:00,Boston United,,,Eastleigh FC,
-34,Sat Feb 22 2025,15:00,Dagenham & Redbridge,,,Oldham Athletic,
-34,Sat Feb 22 2025,15:00,Forest Green Rovers,,,Woking FC,
-34,Sat Feb 22 2025,15:00,Maidenhead United,,,Yeovil Town,
-34,Sat Feb 22 2025,15:00,Rochdale AFC,,,Barnet FC,
-34,Sat Feb 22 2025,15:00,Solihull Moors,,,Gateshead FC,
-34,Sat Feb 22 2025,15:00,Sutton United,,,Braintree Town,
-34,Sat Feb 22 2025,15:00,Tamworth FC,,,Southend United,
-34,Sat Feb 22 2025,15:00,Wealdstone FC,,,Ebbsfleet United,
-34,Sat Feb 22 2025,15:00,York City,,,Halifax Town,
-35,Sat Mar 1 2025,15:00,Altrincham FC,,,Solihull Moors,
-35,Sat Mar 1 2025,15:00,Braintree Town,,,Eastleigh FC,
-35,Sat Mar 1 2025,15:00,Dagenham & Redbridge,,,Boston United,
-35,Sat Mar 1 2025,15:00,Ebbsfleet United,,,Tamworth FC,
-35,Sat Mar 1 2025,15:00,Forest Green Rovers,,,Maidenhead United,
-35,Sat Mar 1 2025,15:00,Gateshead FC,,,AFC Fylde,
-35,Sat Mar 1 2025,15:00,Hartlepool United,,,York City,
-35,Sat Mar 1 2025,15:00,Oldham Athletic,,,Barnet FC,
-35,Sat Mar 1 2025,15:00,Sutton United,,,Rochdale AFC,
-35,Sat Mar 1 2025,15:00,Wealdstone FC,,,Aldershot Town,
-35,Sat Mar 1 2025,15:00,Woking FC,,,Halifax Town,
-35,Sat Mar 1 2025,15:00,Yeovil Town,,,Southend United,
-36,Tue Mar 4 2025,19:45,AFC Fylde,,,Hartlepool United,
-36,Tue Mar 4 2025,19:45,Aldershot Town,,,Dagenham & Redbridge,
-36,Tue Mar 4 2025,19:45,Barnet FC,,,Yeovil Town,
-36,Tue Mar 4 2025,19:45,Boston United,,,Oldham Athletic,
-36,Tue Mar 4 2025,19:45,Eastleigh FC,,,Ebbsfleet United,
-36,Tue Mar 4 2025,19:45,Halifax Town,,,Forest Green Rovers,
-36,Tue Mar 4 2025,19:45,Maidenhead United,,,Braintree Town,
-36,Tue Mar 4 2025,19:45,Rochdale AFC,,,Gateshead FC,
-36,Tue Mar 4 2025,19:45,Solihull Moors,,,Sutton United,
-36,Tue Mar 4 2025,19:45,Southend United,,,Woking FC,
-36,Tue Mar 4 2025,19:45,Tamworth FC,,,Wealdstone FC,
-36,Tue Mar 4 2025,19:45,York City,,,Altrincham FC,
-37,Sat Mar 8 2025,15:00,AFC Fylde,,,Braintree Town,
-37,Sat Mar 8 2025,15:00,Aldershot Town,,,Gateshead FC,
-37,Sat Mar 8 2025,15:00,Barnet FC,,,Dagenham & Redbridge,
-37,Sat Mar 8 2025,15:00,Boston United,,,Woking FC,
-37,Sat Mar 8 2025,15:00,Eastleigh FC,,,Hartlepool United,
-37,Sat Mar 8 2025,15:00,Halifax Town,,,Yeovil Town,
-37,Sat Mar 8 2025,15:00,Maidenhead United,,,Sutton United,
-37,Sat Mar 8 2025,15:00,Rochdale AFC,,,Wealdstone FC,
-37,Sat Mar 8 2025,15:00,Solihull Moors,,,Ebbsfleet United,
-37,Sat Mar 8 2025,15:00,Southend United,,,Altrincham FC,
-37,Sat Mar 8 2025,15:00,Tamworth FC,,,Oldham Athletic,
-37,Sat Mar 8 2025,15:00,York City,,,Forest Green Rovers,
-38,Sat Mar 15 2025,15:00,Altrincham FC,,,Aldershot Town,
-38,Sat Mar 15 2025,15:00,Braintree Town,,,Boston United,
-38,Sat Mar 15 2025,15:00,Dagenham & Redbridge,,,Tamworth FC,
-38,Sat Mar 15 2025,15:00,Ebbsfleet United,,,AFC Fylde,
-38,Sat Mar 15 2025,15:00,Forest Green Rovers,,,Southend United,
-38,Sat Mar 15 2025,15:00,Gateshead FC,,,Maidenhead United,
-38,Sat Mar 15 2025,15:00,Hartlepool United,,,Solihull Moors,
-38,Sat Mar 15 2025,15:00,Oldham Athletic,,,Rochdale AFC,
-38,Sat Mar 15 2025,15:00,Sutton United,,,Halifax Town,
-38,Sat Mar 15 2025,15:00,Wealdstone FC,,,Eastleigh FC,
-38,Sat Mar 15 2025,15:00,Woking FC,,,Barnet FC,
-38,Sat Mar 15 2025,15:00,Yeovil Town,,,York City,
-39,Sat Mar 22 2025,15:00,AFC Fylde,,,Forest Green Rovers,
-39,Sat Mar 22 2025,15:00,Aldershot Town,,,Ebbsfleet United,
-39,Sat Mar 22 2025,15:00,Altrincham FC,,,Barnet FC,
-39,Sat Mar 22 2025,15:00,Braintree Town,,,York City,
-39,Sat Mar 22 2025,15:00,Eastleigh FC,,,Southend United,
-39,Sat Mar 22 2025,15:00,Gateshead FC,,,Tamworth FC,
-39,Sat Mar 22 2025,15:00,Hartlepool United,,,Boston United,
-39,Sat Mar 22 2025,15:00,Maidenhead United,,,Rochdale AFC,
-39,Sat Mar 22 2025,15:00,Oldham Athletic,,,Halifax Town,
-39,Sat Mar 22 2025,15:00,Solihull Moors,,,Yeovil Town,
-39,Sat Mar 22 2025,15:00,Sutton United,,,Dagenham & Redbridge,
-39,Sat Mar 22 2025,15:00,Wealdstone FC,,,Woking FC,
-40,Sat Mar 29 2025,15:00,Barnet FC,,,Gateshead FC,
-40,Sat Mar 29 2025,15:00,Boston United,,,Sutton United,
-40,Sat Mar 29 2025,15:00,Dagenham & Redbridge,,,Maidenhead United,
-40,Sat Mar 29 2025,15:00,Ebbsfleet United,,,Altrincham FC,
-40,Sat Mar 29 2025,15:00,Halifax Town,,,Hartlepool United,
-40,Sat Mar 29 2025,15:00,Forest Green Rovers,,,Solihull Moors,
-40,Sat Mar 29 2025,15:00,Rochdale AFC,,,Aldershot Town,
-40,Sat Mar 29 2025,15:00,Southend United,,,Oldham Athletic,
-40,Sat Mar 29 2025,15:00,Tamworth FC,,,Eastleigh FC,
-40,Sat Mar 29 2025,15:00,Woking FC,,,Braintree Town,
-40,Sat Mar 29 2025,15:00,Yeovil Town,,,AFC Fylde,
-40,Sat Mar 29 2025,15:00,York City,,,Wealdstone FC,
-41,Sat Apr 5 2025,15:00,AFC Fylde,,,York City,
-41,Sat Apr 5 2025,15:00,Aldershot Town,,,Boston United,
-41,Sat Apr 5 2025,15:00,Altrincham FC,,,Yeovil Town,
-41,Sat Apr 5 2025,15:00,Braintree Town,,,Barnet FC,
-41,Sat Apr 5 2025,15:00,Eastleigh FC,,,Halifax Town,
-41,Sat Apr 5 2025,15:00,Gateshead FC,,,Dagenham & Redbridge,
-41,Sat Apr 5 2025,15:00,Hartlepool United,,,Ebbsfleet United,
-41,Sat Apr 5 2025,15:00,Maidenhead United,,,Tamworth FC,
-41,Sat Apr 5 2025,15:00,Oldham Athletic,,,Woking FC,
-41,Sat Apr 5 2025,15:00,Solihull Moors,,,Rochdale AFC,
-41,Sat Apr 5 2025,15:00,Sutton United,,,Southend United,
-41,Sat Apr 5 2025,15:00,Wealdstone FC,,,Forest Green Rovers,
-42,Sat Apr 12 2025,15:00,Barnet FC,,,Wealdstone FC,
-42,Sat Apr 12 2025,15:00,Boston United,,,Altrincham FC,
-42,Sat Apr 12 2025,15:00,Dagenham & Redbridge,,,Hartlepool United,
-42,Sat Apr 12 2025,15:00,Ebbsfleet United,,,Sutton United,
-42,Sat Apr 12 2025,15:00,Halifax Town,,,Maidenhead United,
-42,Sat Apr 12 2025,15:00,Forest Green Rovers,,,Gateshead FC,
-42,Sat Apr 12 2025,15:00,Rochdale AFC,,,Eastleigh FC,
-42,Sat Apr 12 2025,15:00,Southend United,,,Solihull Moors,
-42,Sat Apr 12 2025,15:00,Tamworth FC,,,Braintree Town,
-42,Sat Apr 12 2025,15:00,Woking FC,,,AFC Fylde,
-42,Sat Apr 12 2025,15:00,Yeovil Town,,,Oldham Athletic,
-42,Sat Apr 12 2025,15:00,York City,,,Aldershot Town,
-43,Fri Apr 18 2025,15:00,AFC Fylde,,,Halifax Town,
-43,Fri Apr 18 2025,15:00,Aldershot Town,,,Sutton United,
-43,Fri Apr 18 2025,15:00,Altrincham FC,,,Rochdale AFC,
-43,Fri Apr 18 2025,15:00,Barnet FC,,,Eastleigh FC,
-43,Fri Apr 18 2025,15:00,Boston United,,,Wealdstone FC,
-43,Fri Apr 18 2025,15:00,Dagenham & Redbridge,,,Ebbsfleet United,
-43,Fri Apr 18 2025,15:00,Gateshead FC,,,York City,
-43,Fri Apr 18 2025,15:00,Maidenhead United,,,Woking FC,
-43,Fri Apr 18 2025,15:00,Oldham Athletic,,,Hartlepool United,
-43,Fri Apr 18 2025,15:00,Southend United,,,Braintree Town,
-43,Fri Apr 18 2025,15:00,Tamworth FC,,,Solihull Moors,
-43,Fri Apr 18 2025,15:00,Yeovil Town,,,Forest Green Rovers,
-44,Mon Apr 21 2025,15:00,Braintree Town,,,Dagenham & Redbridge,
-44,Mon Apr 21 2025,15:00,Eastleigh FC,,,Yeovil Town,
-44,Mon Apr 21 2025,15:00,Ebbsfleet United,,,Southend United,
-44,Mon Apr 21 2025,15:00,Halifax Town,,,Altrincham FC,
-44,Mon Apr 21 2025,15:00,Forest Green Rovers,,,Tamworth FC,
-44,Mon Apr 21 2025,15:00,Hartlepool United,,,Gateshead FC,
-44,Mon Apr 21 2025,15:00,Rochdale AFC,,,AFC Fylde,
-44,Mon Apr 21 2025,15:00,Solihull Moors,,,Boston United,
-44,Mon Apr 21 2025,15:00,Sutton United,,,Barnet FC,
-44,Mon Apr 21 2025,15:00,Wealdstone FC,,,Maidenhead United,
-44,Mon Apr 21 2025,15:00,Woking FC,,,Aldershot Town,
-44,Mon Apr 21 2025,15:00,York City,,,Oldham Athletic,
-45,Sat Apr 26 2025,15:00,Barnet FC,,,Aldershot Town,
-45,Sat Apr 26 2025,15:00,Boston United,,,Gateshead FC,
-45,Sat Apr 26 2025,15:00,Dagenham & Redbridge,,,Altrincham FC,
-45,Sat Apr 26 2025,15:00,Ebbsfleet United,,,Maidenhead United,
-45,Sat Apr 26 2025,15:00,Halifax Town,,,Braintree Town,
-45,Sat Apr 26 2025,15:00,Forest Green Rovers,,,Oldham Athletic,
-45,Sat Apr 26 2025,15:00,Rochdale AFC,,,Hartlepool United,
-45,Sat Apr 26 2025,15:00,Southend United,,,Wealdstone FC,
-45,Sat Apr 26 2025,15:00,Tamworth FC,,,AFC Fylde,
-45,Sat Apr 26 2025,15:00,Woking FC,,,Eastleigh FC,
-45,Sat Apr 26 2025,15:00,Yeovil Town,,,Sutton United,
-45,Sat Apr 26 2025,15:00,York City,,,Solihull Moors,
-46,Mon May 5 2025,15:00,AFC Fylde,,,Barnet FC,
-46,Mon May 5 2025,15:00,Aldershot Town,,,Yeovil Town,
-46,Mon May 5 2025,15:00,Altrincham FC,,,Tamworth FC,
-46,Mon May 5 2025,15:00,Braintree Town,,,Rochdale AFC,
-46,Mon May 5 2025,15:00,Eastleigh FC,,,York City,
-46,Mon May 5 2025,15:00,Gateshead FC,,,Southend United,
-46,Mon May 5 2025,15:00,Hartlepool United,,,Forest Green Rovers,
-46,Mon May 5 2025,15:00,Maidenhead United,,,Boston United,
-46,Mon May 5 2025,15:00,Oldham Athletic,,,Ebbsfleet United,
-46,Mon May 5 2025,15:00,Solihull Moors,,,Dagenham & Redbridge,
-46,Mon May 5 2025,15:00,Sutton United,,,Woking FC,
-46,Mon May 5 2025,15:00,Wealdstone FC,,,Halifax Town,
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 10 2024,15:00,BST/+0100,AFC Fylde,3-2,1-2,Solihull Moors,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Aldershot Town,3-3,2-1,Forest Green Rovers,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Altrincham FC,1-0,1-0,Woking FC,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Boston United,0-3,0-2,Rochdale AFC,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Dagenham & Redbridge,2-1,0-0,Wealdstone FC,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Halifax Town,2-1,0-0,Barnet FC,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Gateshead FC,5-1,3-0,Ebbsfleet United,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Maidenhead United,0-2,0-2,Eastleigh FC,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Oldham Athletic,3-0,2-0,Braintree Town,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Southend United,1-1,1-0,York City,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Tamworth FC,1-1,0-0,Sutton United,2024-08-10T14:00Z
+1,Sat Aug 10 2024,15:00,BST/+0100,Yeovil Town,0-1,0-0,Hartlepool United,2024-08-10T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Boston United,0-4,0-3,Forest Green Rovers,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Braintree Town,0-1,0-0,Yeovil Town,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Eastleigh FC,4-2,1-2,AFC Fylde,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Ebbsfleet United,1-2,0-1,Barnet FC,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Halifax Town,0-1,0-1,Aldershot Town,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Hartlepool United,0-0,0-0,Southend United,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Rochdale AFC,1-1,0-0,Dagenham & Redbridge,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Solihull Moors,2-1,0-0,Maidenhead United,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Sutton United,5-0,4-0,Altrincham FC,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Wealdstone FC,0-1,0-0,Oldham Athletic,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,Woking FC,0-2,0-1,Gateshead FC,2024-08-17T14:00Z
+2,Sat Aug 17 2024,15:00,BST/+0100,York City,2-0,0-0,Tamworth FC,2024-08-17T14:00Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Barnet FC,1-0,0-0,Forest Green Rovers,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Braintree Town,2-1,0-1,Aldershot Town,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Eastleigh FC,2-1,2-0,Solihull Moors,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Halifax Town,1-1,0-0,Gateshead FC,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Maidenhead United,0-1,0-1,Altrincham FC,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Oldham Athletic,1-1,0-1,AFC Fylde,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Southend United,2-0,1-0,Boston United,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Tamworth FC,0-1,0-0,Hartlepool United,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Wealdstone FC,0-1,0-1,Sutton United,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Woking FC,1-0,0-0,Dagenham & Redbridge,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,Yeovil Town,3-2,2-0,Ebbsfleet United,2024-08-20T18:45Z
+3,Tue Aug 20 2024,19:45,BST/+0100,York City,1-0,1-0,Rochdale AFC,2024-08-20T18:45Z
+4,Fri Aug 23 2024,19:45,BST/+0100,Dagenham & Redbridge,1-1,1-0,Halifax Town,2024-08-23T18:45Z
+4,Sat Aug 24 2024,12:30,BST/+0100,Gateshead FC,3-1,2-1,Yeovil Town,2024-08-24T11:30Z
+4,Sat Aug 24 2024,15:00,BST/+0100,AFC Fylde,0-0,0-0,Maidenhead United,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Aldershot Town,4-1,1-0,Oldham Athletic,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Altrincham FC,0-1,0-0,Eastleigh FC,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Barnet FC,2-1,1-0,Southend United,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Boston United,1-1,1-0,Tamworth FC,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Ebbsfleet United,0-3,0-1,Woking FC,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Hartlepool United,1-1,0-1,Wealdstone FC,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Rochdale AFC,0-0,0-0,Forest Green Rovers,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Solihull Moors,1-1,0-1,Braintree Town,2024-08-24T14:00Z
+4,Sat Aug 24 2024,15:00,BST/+0100,Sutton United,2-2,0-0,York City,2024-08-24T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Braintree Town,0-0,0-0,Ebbsfleet United,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Eastleigh FC,1-1,1-1,Sutton United,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Halifax Town,0-1,0-1,Solihull Moors,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Forest Green Rovers,2-1,1-0,Altrincham FC,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Maidenhead United,3-1,2-1,Barnet FC,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Oldham Athletic,1-1,0-1,Gateshead FC,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Southend United,2-2,1-1,Dagenham & Redbridge,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Tamworth FC,3-2,1-1,Aldershot Town,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Wealdstone FC,1-0,1-0,AFC Fylde,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Woking FC,3-2,0-2,Hartlepool United,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,Yeovil Town,0-1,0-0,Rochdale AFC,2024-08-26T14:00Z
+5,Mon Aug 26 2024,15:00,BST/+0100,York City,0-2,0-0,Boston United,2024-08-26T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Aldershot Town,4-3,1-1,Maidenhead United,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Altrincham FC,1-1,0-1,Oldham Athletic,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Barnet FC,7-0,3-0,Tamworth FC,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Boston United,1-3,1-2,Yeovil Town,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Dagenham & Redbridge,0-2,0-0,York City,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Ebbsfleet United,0-1,0-1,Halifax Town,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Gateshead FC,2-1,1-0,Eastleigh FC,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Hartlepool United,0-0,0-0,Braintree Town,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Rochdale AFC,3-0,1-0,Woking FC,2024-08-31T14:00Z
+6,Sat Aug 31 2024,15:00,BST/+0100,Solihull Moors,1-1,1-0,Wealdstone FC,2024-08-31T14:00Z
+6,Sat Aug 31 2024,17:30,BST/+0100,Sutton United,1-2,0-1,Forest Green Rovers,2024-08-31T16:30Z
+7,Sat Sep 7 2024,17:30,BST/+0100,Aldershot Town,0-2,0-2,Rochdale AFC,2024-09-07T16:30Z
+7,Sat Sep 7 2024,15:00,BST/+0100,AFC Fylde,3-4,2-0,Yeovil Town,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Altrincham FC,4-0,2-0,Ebbsfleet United,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Braintree Town,0-0,0-0,Woking FC,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Eastleigh FC,1-0,1-0,Tamworth FC,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Gateshead FC,2-0,1-0,Barnet FC,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Hartlepool United,0-0,0-0,Halifax Town,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Maidenhead United,1-1,1-0,Dagenham & Redbridge,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Oldham Athletic,1-1,0-1,Southend United,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Solihull Moors,0-1,0-0,Forest Green Rovers,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Sutton United,0-3,0-1,Boston United,2024-09-07T14:00Z
+7,Sat Sep 7 2024,15:00,BST/+0100,Wealdstone FC,0-2,0-1,York City,2024-09-07T14:00Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Forest Green Rovers,3-0,1-0,AFC Fylde,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Barnet FC,2-1,1-1,Altrincham FC,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Boston United,1-2,1-0,Hartlepool United,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Dagenham & Redbridge,3-0,1-0,Sutton United,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Ebbsfleet United,0-0,0-0,Aldershot Town,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Halifax Town,1-1,0-0,Oldham Athletic,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Yeovil Town,0-1,0-1,Solihull Moors,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Rochdale AFC,3-1,2-0,Maidenhead United,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Southend United,2-0,2-0,Eastleigh FC,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,Woking FC,1-0,1-0,Wealdstone FC,2024-09-10T18:45Z
+8,Tue Sep 10 2024,19:45,BST/+0100,York City,2-1,2-1,Braintree Town,2024-09-10T18:45Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Rochdale AFC,1-2,0-1,Solihull Moors,2024-09-14T14:00Z
+9,Sat Sep 14 2024,17:30,BST/+0100,Dagenham & Redbridge,7-1,2-1,Gateshead FC,2024-09-14T16:30Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Barnet FC,3-1,2-1,Braintree Town,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Boston United,1-1,0-1,Aldershot Town,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Ebbsfleet United,1-0,1-0,Hartlepool United,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Halifax Town,3-1,2-0,Eastleigh FC,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Forest Green Rovers,2-2,2-1,Wealdstone FC,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Yeovil Town,0-0,0-0,Altrincham FC,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Southend United,1-3,1-1,Sutton United,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Tamworth FC,3-1,1-0,Maidenhead United,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,Woking FC,1-3,0-1,Oldham Athletic,2024-09-14T14:00Z
+9,Sat Sep 14 2024,15:00,BST/+0100,York City,3-0,0-0,AFC Fylde,2024-09-14T14:00Z
+6,Tue Sep 17 2024,19:45,BST/+0100,AFC Fylde,,,Southend United,2024-09-17T18:45Z
+10,Sat Sep 21 2024,17:30,BST/+0100,Wealdstone FC,,,Barnet FC,2024-09-21T16:30Z
+10,Sat Sep 21 2024,15:00,BST/+0100,AFC Fylde,,,Woking FC,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Aldershot Town,,,York City,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Altrincham FC,,,Boston United,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Braintree Town,,,Tamworth FC,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Eastleigh FC,,,Rochdale AFC,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Gateshead FC,,,Forest Green Rovers,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Hartlepool United,,,Dagenham & Redbridge,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Maidenhead United,,,Halifax Town,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Oldham Athletic,,,Yeovil Town,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Solihull Moors,,,Southend United,2024-09-21T14:00Z
+10,Sat Sep 21 2024,15:00,BST/+0100,Sutton United,,,Ebbsfleet United,2024-09-21T14:00Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Wealdstone FC,,,Southend United,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,AFC Fylde,,,Tamworth FC,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Aldershot Town,,,Barnet FC,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Altrincham FC,,,Dagenham & Redbridge,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Braintree Town,,,Halifax Town,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Eastleigh FC,,,Woking FC,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Gateshead FC,,,Boston United,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Hartlepool United,,,Rochdale AFC,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Maidenhead United,,,Ebbsfleet United,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Oldham Athletic,,,Forest Green Rovers,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Solihull Moors,,,York City,2024-09-24T18:45Z
+11,Tue Sep 24 2024,19:45,BST/+0100,Sutton United,,,Yeovil Town,2024-09-24T18:45Z
+12,Sat Sep 28 2024,17:30,BST/+0100,Ebbsfleet United,,,Oldham Athletic,2024-09-28T16:30Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Barnet FC,,,AFC Fylde,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Boston United,,,Maidenhead United,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Dagenham & Redbridge,,,Solihull Moors,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Halifax Town,,,Wealdstone FC,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Forest Green Rovers,,,Hartlepool United,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Rochdale AFC,,,Braintree Town,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Southend United,,,Gateshead FC,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Tamworth FC,,,Altrincham FC,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Woking FC,,,Sutton United,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,Yeovil Town,,,Aldershot Town,2024-09-28T14:00Z
+12,Sat Sep 28 2024,15:00,BST/+0100,York City,,,Eastleigh FC,2024-09-28T14:00Z
+13,Sat Oct 5 2024,17:30,BST/+0100,Woking FC,,,York City,2024-10-05T16:30Z
+13,Sat Oct 5 2024,15:00,BST/+0100,AFC Fylde,,,Aldershot Town,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Barnet FC,,,Boston United,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Braintree Town,,,Altrincham FC,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Eastleigh FC,,,Forest Green Rovers,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Ebbsfleet United,,,Rochdale AFC,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Halifax Town,,,Tamworth FC,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Gateshead FC,,,Wealdstone FC,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Hartlepool United,,,Sutton United,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Oldham Athletic,,,Solihull Moors,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Southend United,,,Maidenhead United,2024-10-05T14:00Z
+13,Sat Oct 5 2024,15:00,BST/+0100,Yeovil Town,,,Dagenham & Redbridge,2024-10-05T14:00Z
+8,Tue Oct 8 2024,19:45,BST/+0100,Tamworth FC,,,Gateshead FC,2024-10-08T18:45Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Aldershot Town,,,Eastleigh FC,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Altrincham FC,,,Gateshead FC,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Boston United,,,Halifax Town,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Dagenham & Redbridge,,,AFC Fylde,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Forest Green Rovers,,,Braintree Town,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Maidenhead United,,,Hartlepool United,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Rochdale AFC,,,Southend United,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Solihull Moors,,,Barnet FC,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Sutton United,,,Oldham Athletic,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Tamworth FC,,,Woking FC,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,Wealdstone FC,,,Yeovil Town,2024-10-19T14:00Z
+14,Sat Oct 19 2024,15:00,BST/+0100,York City,,,Ebbsfleet United,2024-10-19T14:00Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Aldershot Town,,,Southend United,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Altrincham FC,,,Hartlepool United,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Boston United,,,AFC Fylde,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Dagenham & Redbridge,,,Eastleigh FC,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Forest Green Rovers,,,Ebbsfleet United,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Maidenhead United,,,Oldham Athletic,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Rochdale AFC,,,Halifax Town,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Solihull Moors,,,Woking FC,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Sutton United,,,Gateshead FC,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Tamworth FC,,,Yeovil Town,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,Wealdstone FC,,,Braintree Town,2024-10-22T18:45Z
+15,Tue Oct 22 2024,19:45,BST/+0100,York City,,,Barnet FC,2024-10-22T18:45Z
+16,Sat Oct 26 2024,15:00,BST/+0100,AFC Fylde,,,Altrincham FC,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Barnet FC,,,Rochdale AFC,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Braintree Town,,,Sutton United,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Eastleigh FC,,,Boston United,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Ebbsfleet United,,,Wealdstone FC,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Halifax Town,,,York City,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Gateshead FC,,,Solihull Moors,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Hartlepool United,,,Aldershot Town,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Oldham Athletic,,,Dagenham & Redbridge,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Southend United,,,Tamworth FC,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Woking FC,,,Forest Green Rovers,2024-10-26T14:00Z
+16,Sat Oct 26 2024,15:00,BST/+0100,Yeovil Town,,,Maidenhead United,2024-10-26T14:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,AFC Fylde,,,Gateshead FC,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Aldershot Town,,,Wealdstone FC,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Barnet FC,,,Oldham Athletic,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Boston United,,,Dagenham & Redbridge,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Eastleigh FC,,,Braintree Town,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Halifax Town,,,Woking FC,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Maidenhead United,,,Forest Green Rovers,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Rochdale AFC,,,Sutton United,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Solihull Moors,,,Altrincham FC,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Southend United,,,Yeovil Town,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,Tamworth FC,,,Ebbsfleet United,2024-11-09T15:00Z
+17,Sat Nov 9 2024,15:00,GMT/+0000,York City,,,Hartlepool United,2024-11-09T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Altrincham FC,,,Southend United,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Braintree Town,,,AFC Fylde,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Dagenham & Redbridge,,,Barnet FC,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Ebbsfleet United,,,Solihull Moors,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Forest Green Rovers,,,York City,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Gateshead FC,,,Aldershot Town,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Hartlepool United,,,Eastleigh FC,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Oldham Athletic,,,Tamworth FC,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Sutton United,,,Maidenhead United,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Wealdstone FC,,,Rochdale AFC,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Woking FC,,,Boston United,2024-11-16T15:00Z
+18,Sat Nov 16 2024,15:00,GMT/+0000,Yeovil Town,,,Halifax Town,2024-11-16T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,AFC Fylde,,,Ebbsfleet United,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Aldershot Town,,,Altrincham FC,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Barnet FC,,,Woking FC,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Boston United,,,Braintree Town,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Eastleigh FC,,,Wealdstone FC,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Halifax Town,,,Sutton United,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Maidenhead United,,,Gateshead FC,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Rochdale AFC,,,Oldham Athletic,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Solihull Moors,,,Hartlepool United,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Southend United,,,Forest Green Rovers,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,Tamworth FC,,,Dagenham & Redbridge,2024-11-23T15:00Z
+19,Sat Nov 23 2024,15:00,GMT/+0000,York City,,,Yeovil Town,2024-11-23T15:00Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Altrincham FC,,,York City,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Braintree Town,,,Maidenhead United,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Dagenham & Redbridge,,,Aldershot Town,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Ebbsfleet United,,,Eastleigh FC,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Forest Green Rovers,,,Halifax Town,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Gateshead FC,,,Rochdale AFC,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Hartlepool United,,,AFC Fylde,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Oldham Athletic,,,Boston United,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Sutton United,,,Solihull Moors,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Wealdstone FC,,,Tamworth FC,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Woking FC,,,Southend United,2024-11-26T19:45Z
+20,Tue Nov 26 2024,19:45,GMT/+0000,Yeovil Town,,,Barnet FC,2024-11-26T19:45Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Braintree Town,,,Gateshead FC,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Eastleigh FC,,,Oldham Athletic,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Ebbsfleet United,,,Boston United,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Halifax Town,,,Southend United,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Forest Green Rovers,,,Dagenham & Redbridge,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Hartlepool United,,,Barnet FC,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Rochdale AFC,,,Tamworth FC,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Solihull Moors,,,Aldershot Town,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Sutton United,,,AFC Fylde,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Wealdstone FC,,,Altrincham FC,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,Woking FC,,,Yeovil Town,2024-11-30T15:00Z
+21,Sat Nov 30 2024,15:00,GMT/+0000,York City,,,Maidenhead United,2024-11-30T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,AFC Fylde,,,Eastleigh FC,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Aldershot Town,,,Halifax Town,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Altrincham FC,,,Sutton United,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Barnet FC,,,Ebbsfleet United,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Dagenham & Redbridge,,,Rochdale AFC,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Forest Green Rovers,,,Boston United,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Gateshead FC,,,Woking FC,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Maidenhead United,,,Solihull Moors,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Oldham Athletic,,,Wealdstone FC,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Southend United,,,Hartlepool United,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Tamworth FC,,,York City,2024-12-14T15:00Z
+22,Sat Dec 14 2024,15:00,GMT/+0000,Yeovil Town,,,Braintree Town,2024-12-14T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Barnet FC,,,Halifax Town,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Braintree Town,,,Oldham Athletic,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Eastleigh FC,,,Maidenhead United,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Ebbsfleet United,,,Gateshead FC,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Forest Green Rovers,,,Aldershot Town,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Hartlepool United,,,Yeovil Town,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Rochdale AFC,,,Boston United,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Solihull Moors,,,AFC Fylde,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Sutton United,,,Tamworth FC,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Wealdstone FC,,,Dagenham & Redbridge,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,Woking FC,,,Altrincham FC,2024-12-21T15:00Z
+23,Sat Dec 21 2024,15:00,GMT/+0000,York City,,,Southend United,2024-12-21T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,AFC Fylde,,,Rochdale AFC,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Aldershot Town,,,Woking FC,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Altrincham FC,,,Halifax Town,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Barnet FC,,,Sutton United,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Boston United,,,Solihull Moors,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Dagenham & Redbridge,,,Braintree Town,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Gateshead FC,,,Hartlepool United,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Maidenhead United,,,Wealdstone FC,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Oldham Athletic,,,York City,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Southend United,,,Ebbsfleet United,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Tamworth FC,,,Forest Green Rovers,2024-12-26T15:00Z
+24,Thu Dec 26 2024,15:00,GMT/+0000,Yeovil Town,,,Eastleigh FC,2024-12-26T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Braintree Town,,,Southend United,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Eastleigh FC,,,Barnet FC,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Ebbsfleet United,,,Dagenham & Redbridge,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Halifax Town,,,AFC Fylde,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Forest Green Rovers,,,Yeovil Town,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Hartlepool United,,,Oldham Athletic,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Rochdale AFC,,,Altrincham FC,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Solihull Moors,,,Tamworth FC,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Sutton United,,,Aldershot Town,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Wealdstone FC,,,Boston United,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,Woking FC,,,Maidenhead United,2025-01-01T15:00Z
+25,Wed Jan 1 2025,15:00,GMT/+0000,York City,,,Gateshead FC,2025-01-01T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,AFC Fylde,,,Sutton United,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Aldershot Town,,,Solihull Moors,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Altrincham FC,,,Wealdstone FC,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Barnet FC,,,Hartlepool United,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Boston United,,,Ebbsfleet United,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Dagenham & Redbridge,,,Forest Green Rovers,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Gateshead FC,,,Braintree Town,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Maidenhead United,,,York City,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Oldham Athletic,,,Eastleigh FC,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Southend United,,,Halifax Town,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Tamworth FC,,,Rochdale AFC,2025-01-11T15:00Z
+26,Sat Jan 11 2025,15:00,GMT/+0000,Yeovil Town,,,Woking FC,2025-01-11T15:00Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,AFC Fylde,,,Oldham Athletic,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Aldershot Town,,,Braintree Town,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Altrincham FC,,,Maidenhead United,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Boston United,,,Southend United,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Dagenham & Redbridge,,,Woking FC,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Ebbsfleet United,,,Yeovil Town,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Forest Green Rovers,,,Barnet FC,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Gateshead FC,,,Halifax Town,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Hartlepool United,,,Tamworth FC,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Rochdale AFC,,,York City,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Solihull Moors,,,Eastleigh FC,2025-01-14T19:45Z
+27,Tue Jan 14 2025,19:45,GMT/+0000,Sutton United,,,Wealdstone FC,2025-01-14T19:45Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Braintree Town,,,Solihull Moors,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Eastleigh FC,,,Altrincham FC,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Halifax Town,,,Dagenham & Redbridge,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Forest Green Rovers,,,Rochdale AFC,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Maidenhead United,,,AFC Fylde,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Oldham Athletic,,,Aldershot Town,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Southend United,,,Barnet FC,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Tamworth FC,,,Boston United,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Wealdstone FC,,,Hartlepool United,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Woking FC,,,Ebbsfleet United,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,Yeovil Town,,,Gateshead FC,2025-01-18T15:00Z
+28,Sat Jan 18 2025,15:00,GMT/+0000,York City,,,Sutton United,2025-01-18T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,AFC Fylde,,,Wealdstone FC,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Aldershot Town,,,Tamworth FC,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Altrincham FC,,,Forest Green Rovers,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Barnet FC,,,Maidenhead United,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Boston United,,,York City,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Dagenham & Redbridge,,,Southend United,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Ebbsfleet United,,,Braintree Town,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Gateshead FC,,,Oldham Athletic,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Hartlepool United,,,Woking FC,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Rochdale AFC,,,Yeovil Town,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Solihull Moors,,,Halifax Town,2025-01-25T15:00Z
+29,Sat Jan 25 2025,15:00,GMT/+0000,Sutton United,,,Eastleigh FC,2025-01-25T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Braintree Town,,,Hartlepool United,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Eastleigh FC,,,Gateshead FC,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Halifax Town,,,Ebbsfleet United,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Forest Green Rovers,,,Sutton United,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Maidenhead United,,,Aldershot Town,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Oldham Athletic,,,Altrincham FC,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Southend United,,,AFC Fylde,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Tamworth FC,,,Barnet FC,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Wealdstone FC,,,Solihull Moors,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Woking FC,,,Rochdale AFC,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,Yeovil Town,,,Boston United,2025-02-01T15:00Z
+30,Sat Feb 1 2025,15:00,GMT/+0000,York City,,,Dagenham & Redbridge,2025-02-01T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Aldershot Town,,,AFC Fylde,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Altrincham FC,,,Braintree Town,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Boston United,,,Barnet FC,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Dagenham & Redbridge,,,Yeovil Town,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Forest Green Rovers,,,Eastleigh FC,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Maidenhead United,,,Southend United,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Rochdale AFC,,,Ebbsfleet United,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Solihull Moors,,,Oldham Athletic,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Sutton United,,,Hartlepool United,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Tamworth FC,,,Halifax Town,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,Wealdstone FC,,,Gateshead FC,2025-02-08T15:00Z
+31,Sat Feb 8 2025,15:00,GMT/+0000,York City,,,Woking FC,2025-02-08T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,AFC Fylde,,,Dagenham & Redbridge,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Barnet FC,,,Solihull Moors,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Braintree Town,,,Forest Green Rovers,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Eastleigh FC,,,Aldershot Town,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Ebbsfleet United,,,York City,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Halifax Town,,,Boston United,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Gateshead FC,,,Altrincham FC,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Hartlepool United,,,Maidenhead United,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Oldham Athletic,,,Sutton United,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Southend United,,,Rochdale AFC,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Woking FC,,,Tamworth FC,2025-02-15T15:00Z
+32,Sat Feb 15 2025,15:00,GMT/+0000,Yeovil Town,,,Wealdstone FC,2025-02-15T15:00Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,AFC Fylde,,,Boston United,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Barnet FC,,,York City,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Braintree Town,,,Wealdstone FC,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Eastleigh FC,,,Dagenham & Redbridge,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Ebbsfleet United,,,Forest Green Rovers,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Halifax Town,,,Rochdale AFC,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Gateshead FC,,,Sutton United,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Hartlepool United,,,Altrincham FC,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Oldham Athletic,,,Maidenhead United,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Southend United,,,Aldershot Town,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Woking FC,,,Solihull Moors,2025-02-18T19:45Z
+33,Tue Feb 18 2025,19:45,GMT/+0000,Yeovil Town,,,Tamworth FC,2025-02-18T19:45Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Aldershot Town,,,Hartlepool United,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Altrincham FC,,,AFC Fylde,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Boston United,,,Eastleigh FC,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Dagenham & Redbridge,,,Oldham Athletic,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Forest Green Rovers,,,Woking FC,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Maidenhead United,,,Yeovil Town,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Rochdale AFC,,,Barnet FC,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Solihull Moors,,,Gateshead FC,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Sutton United,,,Braintree Town,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Tamworth FC,,,Southend United,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,Wealdstone FC,,,Ebbsfleet United,2025-02-22T15:00Z
+34,Sat Feb 22 2025,15:00,GMT/+0000,York City,,,Halifax Town,2025-02-22T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Altrincham FC,,,Solihull Moors,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Braintree Town,,,Eastleigh FC,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Dagenham & Redbridge,,,Boston United,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Ebbsfleet United,,,Tamworth FC,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Forest Green Rovers,,,Maidenhead United,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Gateshead FC,,,AFC Fylde,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Hartlepool United,,,York City,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Oldham Athletic,,,Barnet FC,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Sutton United,,,Rochdale AFC,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Wealdstone FC,,,Aldershot Town,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Woking FC,,,Halifax Town,2025-03-01T15:00Z
+35,Sat Mar 1 2025,15:00,GMT/+0000,Yeovil Town,,,Southend United,2025-03-01T15:00Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,AFC Fylde,,,Hartlepool United,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Aldershot Town,,,Dagenham & Redbridge,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Barnet FC,,,Yeovil Town,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Boston United,,,Oldham Athletic,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Eastleigh FC,,,Ebbsfleet United,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Halifax Town,,,Forest Green Rovers,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Maidenhead United,,,Braintree Town,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Rochdale AFC,,,Gateshead FC,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Solihull Moors,,,Sutton United,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Southend United,,,Woking FC,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,Tamworth FC,,,Wealdstone FC,2025-03-04T19:45Z
+36,Tue Mar 4 2025,19:45,GMT/+0000,York City,,,Altrincham FC,2025-03-04T19:45Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,AFC Fylde,,,Braintree Town,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Aldershot Town,,,Gateshead FC,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Barnet FC,,,Dagenham & Redbridge,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Boston United,,,Woking FC,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Eastleigh FC,,,Hartlepool United,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Halifax Town,,,Yeovil Town,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Maidenhead United,,,Sutton United,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Rochdale AFC,,,Wealdstone FC,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Solihull Moors,,,Ebbsfleet United,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Southend United,,,Altrincham FC,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,Tamworth FC,,,Oldham Athletic,2025-03-08T15:00Z
+37,Sat Mar 8 2025,15:00,GMT/+0000,York City,,,Forest Green Rovers,2025-03-08T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Altrincham FC,,,Aldershot Town,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Braintree Town,,,Boston United,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Dagenham & Redbridge,,,Tamworth FC,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Ebbsfleet United,,,AFC Fylde,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Forest Green Rovers,,,Southend United,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Gateshead FC,,,Maidenhead United,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Hartlepool United,,,Solihull Moors,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Oldham Athletic,,,Rochdale AFC,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Sutton United,,,Halifax Town,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Wealdstone FC,,,Eastleigh FC,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Woking FC,,,Barnet FC,2025-03-15T15:00Z
+38,Sat Mar 15 2025,15:00,GMT/+0000,Yeovil Town,,,York City,2025-03-15T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,AFC Fylde,,,Forest Green Rovers,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Aldershot Town,,,Ebbsfleet United,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Altrincham FC,,,Barnet FC,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Braintree Town,,,York City,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Eastleigh FC,,,Southend United,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Gateshead FC,,,Tamworth FC,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Hartlepool United,,,Boston United,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Maidenhead United,,,Rochdale AFC,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Oldham Athletic,,,Halifax Town,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Solihull Moors,,,Yeovil Town,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Sutton United,,,Dagenham & Redbridge,2025-03-22T15:00Z
+39,Sat Mar 22 2025,15:00,GMT/+0000,Wealdstone FC,,,Woking FC,2025-03-22T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Barnet FC,,,Gateshead FC,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Boston United,,,Sutton United,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Dagenham & Redbridge,,,Maidenhead United,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Ebbsfleet United,,,Altrincham FC,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Halifax Town,,,Hartlepool United,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Forest Green Rovers,,,Solihull Moors,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Rochdale AFC,,,Aldershot Town,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Southend United,,,Oldham Athletic,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Tamworth FC,,,Eastleigh FC,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Woking FC,,,Braintree Town,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,Yeovil Town,,,AFC Fylde,2025-03-29T15:00Z
+40,Sat Mar 29 2025,15:00,GMT/+0000,York City,,,Wealdstone FC,2025-03-29T15:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,AFC Fylde,,,York City,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Aldershot Town,,,Boston United,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Altrincham FC,,,Yeovil Town,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Braintree Town,,,Barnet FC,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Eastleigh FC,,,Halifax Town,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Gateshead FC,,,Dagenham & Redbridge,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Hartlepool United,,,Ebbsfleet United,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Maidenhead United,,,Tamworth FC,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Oldham Athletic,,,Woking FC,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Solihull Moors,,,Rochdale AFC,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Sutton United,,,Southend United,2025-04-05T14:00Z
+41,Sat Apr 5 2025,15:00,BST/+0100,Wealdstone FC,,,Forest Green Rovers,2025-04-05T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Barnet FC,,,Wealdstone FC,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Boston United,,,Altrincham FC,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Dagenham & Redbridge,,,Hartlepool United,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Ebbsfleet United,,,Sutton United,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Halifax Town,,,Maidenhead United,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Forest Green Rovers,,,Gateshead FC,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Rochdale AFC,,,Eastleigh FC,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Southend United,,,Solihull Moors,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Tamworth FC,,,Braintree Town,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Woking FC,,,AFC Fylde,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,Yeovil Town,,,Oldham Athletic,2025-04-12T14:00Z
+42,Sat Apr 12 2025,15:00,BST/+0100,York City,,,Aldershot Town,2025-04-12T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,AFC Fylde,,,Halifax Town,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Aldershot Town,,,Sutton United,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Altrincham FC,,,Rochdale AFC,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Barnet FC,,,Eastleigh FC,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Boston United,,,Wealdstone FC,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Dagenham & Redbridge,,,Ebbsfleet United,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Gateshead FC,,,York City,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Maidenhead United,,,Woking FC,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Oldham Athletic,,,Hartlepool United,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Southend United,,,Braintree Town,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Tamworth FC,,,Solihull Moors,2025-04-18T14:00Z
+43,Fri Apr 18 2025,15:00,BST/+0100,Yeovil Town,,,Forest Green Rovers,2025-04-18T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Braintree Town,,,Dagenham & Redbridge,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Eastleigh FC,,,Yeovil Town,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Ebbsfleet United,,,Southend United,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Halifax Town,,,Altrincham FC,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Forest Green Rovers,,,Tamworth FC,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Hartlepool United,,,Gateshead FC,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Rochdale AFC,,,AFC Fylde,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Solihull Moors,,,Boston United,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Sutton United,,,Barnet FC,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Wealdstone FC,,,Maidenhead United,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,Woking FC,,,Aldershot Town,2025-04-21T14:00Z
+44,Mon Apr 21 2025,15:00,BST/+0100,York City,,,Oldham Athletic,2025-04-21T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Barnet FC,,,Aldershot Town,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Boston United,,,Gateshead FC,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Dagenham & Redbridge,,,Altrincham FC,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Ebbsfleet United,,,Maidenhead United,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Halifax Town,,,Braintree Town,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Forest Green Rovers,,,Oldham Athletic,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Rochdale AFC,,,Hartlepool United,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Southend United,,,Wealdstone FC,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Tamworth FC,,,AFC Fylde,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Woking FC,,,Eastleigh FC,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,Yeovil Town,,,Sutton United,2025-04-26T14:00Z
+45,Sat Apr 26 2025,15:00,BST/+0100,York City,,,Solihull Moors,2025-04-26T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,AFC Fylde,,,Barnet FC,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Aldershot Town,,,Yeovil Town,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Altrincham FC,,,Tamworth FC,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Braintree Town,,,Rochdale AFC,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Eastleigh FC,,,York City,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Gateshead FC,,,Southend United,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Hartlepool United,,,Forest Green Rovers,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Maidenhead United,,,Boston United,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Oldham Athletic,,,Ebbsfleet United,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Solihull Moors,,,Dagenham & Redbridge,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Sutton United,,,Woking FC,2025-05-05T14:00Z
+46,Mon May 5 2025,15:00,BST/+0100,Wealdstone FC,,,Halifax Town,2025-05-05T14:00Z

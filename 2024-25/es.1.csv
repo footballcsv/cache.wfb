@@ -38,11 +38,11 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 4,Sun Sep 1 2024,19:00,CEST/+0200,Sevilla FC,0-2,0-1,Girona FC,2024-09-01T17:00Z
 4,Sun Sep 1 2024,19:15,CEST/+0200,Getafe CF,0-0,0-0,Real Sociedad,2024-09-01T17:15Z
 4,Sun Sep 1 2024,21:30,CEST/+0200,Real Madrid,2-0,0-0,Real Betis,2024-09-01T19:30Z
-5,Fri Sep 13 2024,21:00,CEST/+0200,Real Betis,,,CD Leganés,2024-09-13T19:00Z
-5,Sat Sep 14 2024,21:00,CEST/+0200,Real Sociedad,,,Real Madrid,2024-09-14T19:00Z
-5,Sat Sep 14 2024,14:00,CEST/+0200,RCD Mallorca,,,Villarreal CF,2024-09-14T12:00Z
-5,Sat Sep 14 2024,16:15,CEST/+0200,Espanyol Barcelona,,,CD Alavés,2024-09-14T14:15Z
-5,Sat Sep 14 2024,18:30,CEST/+0200,Sevilla FC,,,Getafe CF,2024-09-14T16:30Z
+5,Fri Sep 13 2024,21:00,CEST/+0200,Real Betis,2-0,0-0,CD Leganés,2024-09-13T19:00Z
+5,Sat Sep 14 2024,21:00,CEST/+0200,Real Sociedad,0-2,0-0,Real Madrid,2024-09-14T19:00Z
+5,Sat Sep 14 2024,14:00,CEST/+0200,RCD Mallorca,1-2,0-1,Villarreal CF,2024-09-14T12:00Z
+5,Sat Sep 14 2024,16:15,CEST/+0200,Espanyol Barcelona,3-2,1-1,CD Alavés,2024-09-14T14:15Z
+5,Sat Sep 14 2024,18:30,CEST/+0200,Sevilla FC,1-0,1-0,Getafe CF,2024-09-14T16:30Z
 5,Sun Sep 15 2024,21:00,CEST/+0200,Atlético Madrid,,,Valencia CF,2024-09-15T19:00Z
 5,Sun Sep 15 2024,14:00,CEST/+0200,RC Celta,,,Real Valladolid,2024-09-15T12:00Z
 5,Sun Sep 15 2024,16:15,CEST/+0200,Girona FC,,,FC Barcelona,2024-09-15T14:15Z
