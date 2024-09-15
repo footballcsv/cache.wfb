@@ -1,241 +1,241 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Jul 28 2023,19:00,SC Neusiedl/See 1919,1-1,0-0,TWL Elektra
-1,Fri Jul 28 2023,19:30,ASV Draßburg,2-0,0-0,FC Marchfeld Donauauen
-1,Fri Jul 28 2023,19:30,SCU Ardagger,3-2,1-1,FCM Traiskirchen
-1,Fri Jul 28 2023,19:30,Favoritner AC,1-1,0-0,FC Mauerwerk
-1,Fri Jul 28 2023,19:30,Kremser SC,4-3,1-1,Rapid Wien II
-1,Fri Jul 28 2023,19:30,SV Oberwart,0-2,0-1,Wiener Sport-Club
-1,Fri Jul 28 2023,20:00,Young Violets,3-1,3-1,SC Wiener Viktoria
-1,Fri Jul 28 2023,18:00,SR Donaufeld,1-4,0-3,SV Leobendorf
-2,Fri Aug 4 2023,19:00,SC Neusiedl/See 1919,3-1,3-0,Favoritner AC
-2,Fri Aug 4 2023,19:00,Rapid Wien II,0-2,0-0,SR Donaufeld
-2,Fri Aug 4 2023,19:30,FC Marchfeld Donauauen,0-0,0-0,Young Violets
-2,Fri Aug 4 2023,19:30,TWL Elektra,2-2,0-1,FCM Traiskirchen
-2,Fri Aug 4 2023,19:30,Wiener Sport-Club,2-2,1-0,Kremser SC
-2,Sat Aug 5 2023,16:00,SC Wiener Viktoria,3-2,1-1,SCU Ardagger
-2,Sat Aug 5 2023,16:00,FC Mauerwerk,0-3,0-0,SV Oberwart
-2,Tue Aug 8 2023,19:00,SV Leobendorf,3-1,2-1,ASV Draßburg
-3,Fri Aug 11 2023,18:00,SR Donaufeld,3-3,2-2,Wiener Sport-Club
-3,Fri Aug 11 2023,19:30,SCU Ardagger,0-0,0-0,FC Marchfeld Donauauen
-3,Fri Aug 11 2023,19:30,ASV Draßburg,2-5,2-2,Rapid Wien II
-3,Fri Aug 11 2023,19:30,Young Violets,1-2,0-2,SV Leobendorf
-3,Fri Aug 11 2023,19:30,Favoritner AC,2-0,1-0,TWL Elektra
-3,Fri Aug 11 2023,19:30,FCM Traiskirchen,4-0,2-0,SC Wiener Viktoria
-3,Fri Aug 11 2023,19:30,Kremser SC,3-0,1-0,FC Mauerwerk
-3,Fri Aug 11 2023,19:30,SV Oberwart,1-2,1-0,SC Neusiedl/See 1919
-4,Fri Aug 18 2023,19:00,SC Neusiedl/See 1919,0-1,0-1,Kremser SC
-4,Fri Aug 18 2023,19:30,Rapid Wien II,3-2,1-1,Young Violets
-4,Fri Aug 18 2023,19:30,Favoritner AC,0-0,0-0,SV Oberwart
-4,Fri Aug 18 2023,19:30,FC Marchfeld Donauauen,0-1,0-1,FCM Traiskirchen
-4,Fri Aug 18 2023,19:30,TWL Elektra,1-1,1-1,SC Wiener Viktoria
-4,Fri Aug 18 2023,19:30,Wiener Sport-Club,2-1,0-0,ASV Draßburg
-4,Sat Aug 19 2023,16:30,SV Leobendorf,2-0,1-0,SCU Ardagger
-4,Sat Aug 19 2023,16:00,FC Mauerwerk,0-2,0-1,SR Donaufeld
-5,Fri Aug 25 2023,19:30,ASV Draßburg,1-1,0-1,FC Mauerwerk
-5,Fri Aug 25 2023,19:30,FCM Traiskirchen,3-2,2-1,SV Leobendorf
-5,Fri Aug 25 2023,19:30,Kremser SC,0-2,0-0,Favoritner AC
-5,Fri Aug 25 2023,19:30,SV Oberwart,0-3,0-3,TWL Elektra
-5,Fri Aug 25 2023,20:00,SCU Ardagger,2-2,1-0,Rapid Wien II
-5,Fri Aug 25 2023,20:00,Young Violets,1-1,0-0,Wiener Sport-Club
-5,Sat Aug 26 2023,17:00,SR Donaufeld,5-2,2-2,SC Neusiedl/See 1919
-5,Sat Aug 26 2023,16:00,SC Wiener Viktoria,4-1,1-1,FC Marchfeld Donauauen
-6,Fri Sep 1 2023,17:30,SV Leobendorf,2-4,1-1,SC Wiener Viktoria
-6,Fri Sep 1 2023,18:00,TWL Elektra,0-2,0-0,FC Marchfeld Donauauen
-6,Fri Sep 1 2023,19:00,SC Neusiedl/See 1919,2-0,0-0,ASV Draßburg
-6,Fri Sep 1 2023,19:00,Rapid Wien II,3-2,2-0,FCM Traiskirchen
-6,Fri Sep 1 2023,19:30,Favoritner AC,2-3,0-1,SR Donaufeld
-6,Fri Sep 1 2023,19:30,SV Oberwart,1-2,1-0,Kremser SC
-6,Fri Sep 1 2023,19:30,Wiener Sport-Club,1-0,1-0,SCU Ardagger
-6,Sat Sep 2 2023,19:00,FC Mauerwerk,1-6,0-2,Young Violets
-7,Fri Sep 8 2023,19:30,ASV Draßburg,2-1,0-0,Favoritner AC
-7,Fri Sep 8 2023,19:30,FC Marchfeld Donauauen,1-1,0-0,SV Leobendorf
-7,Fri Sep 8 2023,19:30,FCM Traiskirchen,1-0,1-0,Wiener Sport-Club
-7,Fri Sep 8 2023,19:30,Kremser SC,3-1,3-1,TWL Elektra
-7,Fri Sep 8 2023,19:30,SCU Ardagger,0-0,0-0,FC Mauerwerk
-7,Sat Sep 9 2023,16:00,SR Donaufeld,2-3,2-2,SV Oberwart
-7,Sat Sep 9 2023,16:00,SC Wiener Viktoria,2-0,2-0,Rapid Wien II
-8,Fri Sep 15 2023,20:00,SC Neusiedl/See 1919,0-0,0-0,SCU Ardagger
-8,Fri Sep 15 2023,17:30,TWL Elektra,1-0,0-0,SV Leobendorf
-8,Fri Sep 15 2023,19:00,Rapid Wien II,3-0,1-0,FC Marchfeld Donauauen
-8,Fri Sep 15 2023,19:30,Favoritner AC,1-4,1-2,Young Violets
-8,Fri Sep 15 2023,19:30,Kremser SC,1-1,0-1,SR Donaufeld
-8,Fri Sep 15 2023,19:30,SV Oberwart,2-0,0-0,ASV Draßburg
-8,Fri Sep 15 2023,19:30,Wiener Sport-Club,1-1,0-0,SC Wiener Viktoria
-8,Sat Sep 16 2023,16:00,FC Mauerwerk,0-8,0-4,FCM Traiskirchen
-7,Tue Sep 19 2023,19:00,Young Violets,3-2,2-1,SC Neusiedl/See 1919
-9,Fri Sep 22 2023,19:00,ASV Draßburg,1-3,0-2,Kremser SC
-9,Fri Sep 22 2023,19:30,FC Marchfeld Donauauen,3-1,1-1,Wiener Sport-Club
-9,Fri Sep 22 2023,19:30,FCM Traiskirchen,1-2,1-0,SC Neusiedl/See 1919
-9,Fri Sep 22 2023,20:00,SCU Ardagger,0-0,0-0,Favoritner AC
-9,Fri Sep 22 2023,20:00,Young Violets,1-0,0-0,SV Oberwart
-9,Sat Sep 23 2023,16:00,SR Donaufeld,4-2,2-2,TWL Elektra
-9,Sat Sep 23 2023,16:30,SV Leobendorf,1-4,1-2,Rapid Wien II
-9,Sat Sep 23 2023,16:00,SC Wiener Viktoria,2-0,0-0,FC Mauerwerk
-10,Fri Sep 29 2023,17:15,TWL Elektra,0-1,0-0,Rapid Wien II
-10,Fri Sep 29 2023,19:30,Favoritner AC,1-3,0-1,FCM Traiskirchen
-10,Fri Sep 29 2023,19:30,Kremser SC,0-0,0-0,Young Violets
-10,Fri Sep 29 2023,20:00,SC Neusiedl/See 1919,1-1,1-0,SC Wiener Viktoria
-10,Fri Sep 29 2023,20:00,SV Oberwart,2-1,0-0,SCU Ardagger
-10,Sat Sep 30 2023,16:00,SR Donaufeld,3-0,1-0,ASV Draßburg
-10,Sat Sep 30 2023,18:00,Wiener Sport-Club,2-2,1-0,SV Leobendorf
-10,Sat Sep 30 2023,16:00,FC Mauerwerk,2-4,0-3,FC Marchfeld Donauauen
-11,Fri Oct 6 2023,19:00,ASV Draßburg,1-2,0-0,TWL Elektra
-11,Fri Oct 6 2023,19:30,Rapid Wien II,4-0,2-0,Wiener Sport-Club
-11,Fri Oct 6 2023,19:30,SCU Ardagger,2-0,1-0,Kremser SC
-11,Fri Oct 6 2023,19:30,Young Violets,1-4,1-1,SR Donaufeld
-11,Fri Oct 6 2023,19:30,FC Marchfeld Donauauen,5-2,1-1,SC Neusiedl/See 1919
-11,Fri Oct 6 2023,19:30,FCM Traiskirchen,3-1,3-0,SV Oberwart
-11,Sat Oct 7 2023,18:45,SV Leobendorf,0-1,0-1,FC Mauerwerk
-11,Sat Oct 7 2023,16:00,SC Wiener Viktoria,3-1,1-0,Favoritner AC
-12,Fri Oct 13 2023,18:45,ASV Draßburg,2-2,0-1,Young Violets
-12,Fri Oct 13 2023,18:45,Favoritner AC,2-2,2-0,FC Marchfeld Donauauen
-12,Fri Oct 13 2023,18:45,Kremser SC,2-1,0-0,FCM Traiskirchen
-12,Fri Oct 13 2023,18:45,SV Oberwart,1-2,1-1,SC Wiener Viktoria
-12,Sat Oct 14 2023,16:00,FC Mauerwerk,0-2,0-0,Rapid Wien II
-12,Sat Oct 14 2023,16:00,SR Donaufeld,3-0,2-0,SCU Ardagger
-12,Sat Oct 14 2023,16:00,SC Neusiedl/See 1919,1-4,0-1,SV Leobendorf
-13,Fri Oct 20 2023,20:00,Young Violets,0-1,0-0,TWL Elektra
-13,Fri Oct 20 2023,18:30,FCM Traiskirchen,1-3,1-1,SR Donaufeld
-13,Fri Oct 20 2023,19:00,Rapid Wien II,2-0,0-0,SC Neusiedl/See 1919
-13,Fri Oct 20 2023,19:30,FC Marchfeld Donauauen,2-1,2-0,SV Oberwart
-13,Fri Oct 20 2023,19:30,Wiener Sport-Club,1-1,0-0,FC Mauerwerk
-13,Fri Oct 20 2023,20:00,SCU Ardagger,3-1,2-0,ASV Draßburg
-13,Sat Oct 21 2023,16:00,SC Wiener Viktoria,0-2,0-1,Kremser SC
-13,Sat Oct 21 2023,16:30,SV Leobendorf,4-1,0-0,Favoritner AC
-14,Thu Oct 26 2023,17:00,SV Oberwart,0-5,0-3,SV Leobendorf
-14,Fri Oct 27 2023,20:00,Young Violets,3-0,1-0,SCU Ardagger
-14,Fri Oct 27 2023,19:00,ASV Draßburg,1-1,1-1,FCM Traiskirchen
-14,Fri Oct 27 2023,19:00,SC Neusiedl/See 1919,0-6,0-3,Wiener Sport-Club
-14,Fri Oct 27 2023,19:30,Favoritner AC,0-0,0-0,Rapid Wien II
-14,Fri Oct 27 2023,19:30,Kremser SC,4-0,0-0,FC Marchfeld Donauauen
-14,Sat Oct 28 2023,15:00,SR Donaufeld,0-0,0-0,SC Wiener Viktoria
-14,Sat Oct 28 2023,15:30,TWL Elektra,1-1,0-0,FC Mauerwerk
-15,Fri Nov 3 2023,19:00,Rapid Wien II,3-0,2-0,SV Oberwart
-15,Fri Nov 3 2023,19:30,Wiener Sport-Club,3-1,2-0,Favoritner AC
-15,Sat Nov 4 2023,16:00,SCU Ardagger,3-2,0-1,TWL Elektra
-15,Sat Nov 4 2023,16:00,SC Wiener Viktoria,4-2,1-1,ASV Draßburg
-15,Sat Nov 4 2023,16:00,FC Mauerwerk,1-2,0-2,SC Neusiedl/See 1919
-15,Sat Nov 4 2023,16:30,SV Leobendorf,0-1,0-0,Kremser SC
-15,Tue Nov 7 2023,19:00,Young Violets,2-1,0-0,FCM Traiskirchen
-15,Tue Nov 7 2023,19:00,FC Marchfeld Donauauen,2-1,1-0,SR Donaufeld
-16,Fri Nov 10 2023,19:30,Wiener Sport-Club,0-1,0-0,SV Oberwart
-16,Fri Nov 10 2023,19:00,Rapid Wien II,3-0,1-0,Kremser SC
-16,Fri Nov 10 2023,19:00,FC Marchfeld Donauauen,4-1,2-0,ASV Draßburg
-16,Fri Nov 10 2023,19:30,FCM Traiskirchen,2-0,1-0,SCU Ardagger
-16,Sat Nov 11 2023,14:00,TWL Elektra,1-0,0-0,SC Neusiedl/See 1919
-16,Sat Nov 11 2023,16:00,FC Mauerwerk,2-2,1-0,Favoritner AC
-16,Sat Nov 11 2023,16:00,SC Wiener Viktoria,2-3,2-2,Young Violets
-16,Sat Nov 11 2023,16:30,SV Leobendorf,0-0,0-0,SR Donaufeld
-12,Fri Nov 17 2023,19:00,TWL Elektra,2-1,,Wiener Sport-Club
-17,Fri Mar 1 2024,19:00,ASV Draßburg,0-2,0-0,SV Leobendorf
-17,Fri Mar 1 2024,19:30,Young Violets,0-0,0-0,FC Marchfeld Donauauen
-17,Fri Mar 1 2024,19:30,Favoritner AC,1-3,1-1,SC Neusiedl/See 1919
-17,Fri Mar 1 2024,19:30,FCM Traiskirchen,2-0,0-0,TWL Elektra
-17,Fri Mar 1 2024,19:30,Kremser SC,1-0,0-0,Wiener Sport-Club
-17,Fri Mar 1 2024,19:30,SV Oberwart,2-1,1-0,FC Mauerwerk
-17,Sat Mar 2 2024,17:00,SCU Ardagger,0-0,0-0,SC Wiener Viktoria
-17,Sat Mar 2 2024,14:30,SR Donaufeld,2-2,1-0,Rapid Wien II
-18,Fri Mar 8 2024,19:00,SC Neusiedl/See 1919,3-0,1-0,SV Oberwart
-18,Fri Mar 8 2024,19:30,Rapid Wien II,3-1,1-1,ASV Draßburg
-18,Fri Mar 8 2024,19:30,FC Marchfeld Donauauen,1-0,1-0,SCU Ardagger
-18,Fri Mar 8 2024,19:30,TWL Elektra,1-1,0-0,Favoritner AC
-18,Fri Mar 8 2024,19:30,Wiener Sport-Club,1-2,0-0,SR Donaufeld
-18,Sat Mar 9 2024,16:00,SC Wiener Viktoria,2-2,1-0,FCM Traiskirchen
-18,Sat Mar 9 2024,16:30,SV Leobendorf,2-1,0-0,Young Violets
-18,Sat Mar 9 2024,16:00,FC Mauerwerk,2-2,2-1,Kremser SC
-19,Fri Mar 15 2024,19:00,ASV Draßburg,1-2,0-1,Wiener Sport-Club
-19,Fri Mar 15 2024,19:30,Young Violets,0-0,0-0,Rapid Wien II
-19,Fri Mar 15 2024,19:30,FCM Traiskirchen,1-2,1-0,FC Marchfeld Donauauen
-19,Fri Mar 15 2024,19:30,Kremser SC,0-0,0-0,SC Neusiedl/See 1919
-19,Fri Mar 15 2024,19:30,SV Oberwart,1-2,1-2,Favoritner AC
-19,Fri Mar 15 2024,20:00,SCU Ardagger,0-0,0-0,SV Leobendorf
-19,Sat Mar 16 2024,16:00,SC Wiener Viktoria,2-2,2-2,TWL Elektra
-19,Sat Mar 16 2024,15:00,SR Donaufeld,0-1,0-1,FC Mauerwerk
-20,Fri Mar 22 2024,19:00,SC Neusiedl/See 1919,0-2,0-1,SR Donaufeld
-20,Fri Mar 22 2024,19:00,FC Marchfeld Donauauen,4-0,2-0,SC Wiener Viktoria
-20,Fri Mar 22 2024,19:30,Favoritner AC,1-0,1-0,Kremser SC
-20,Fri Mar 22 2024,19:30,TWL Elektra,0-0,0-0,SV Oberwart
-20,Fri Mar 22 2024,19:30,Wiener Sport-Club,3-0,1-0,Young Violets
-20,Sat Mar 23 2024,16:00,SV Leobendorf,3-1,1-0,FCM Traiskirchen
-20,Sat Mar 23 2024,16:00,FC Mauerwerk,1-2,0-1,ASV Draßburg
-21,Fri Mar 29 2024,19:30,Kremser SC,1-3,0-1,SV Oberwart
-21,Fri Mar 29 2024,19:00,ASV Draßburg,3-1,2-0,SC Neusiedl/See 1919
-21,Fri Mar 29 2024,19:00,FC Marchfeld Donauauen,1-0,0-0,TWL Elektra
-21,Fri Mar 29 2024,19:30,SCU Ardagger,0-2,0-0,Wiener Sport-Club
-21,Fri Mar 29 2024,19:30,FCM Traiskirchen,0-2,0-0,Rapid Wien II
-21,Sat Mar 30 2024,15:00,SR Donaufeld,5-0,2-0,Favoritner AC
-21,Sat Mar 30 2024,16:00,Young Violets,0-0,0-0,FC Mauerwerk
-21,Sat Mar 30 2024,16:00,SC Wiener Viktoria,1-2,1-1,SV Leobendorf
-20,Tue Apr 2 2024,20:00,Rapid Wien II,2-0,0-0,SCU Ardagger
-22,Fri Apr 5 2024,19:00,SC Neusiedl/See 1919,1-5,0-2,Young Violets
-22,Fri Apr 5 2024,19:00,SV Leobendorf,2-2,2-1,FC Marchfeld Donauauen
-22,Fri Apr 5 2024,19:30,Rapid Wien II,1-1,0-0,SC Wiener Viktoria
-22,Fri Apr 5 2024,19:30,Favoritner AC,0-0,0-0,ASV Draßburg
-22,Fri Apr 5 2024,19:30,SV Oberwart,0-6,0-2,SR Donaufeld
-22,Fri Apr 5 2024,19:30,TWL Elektra,2-1,0-1,Kremser SC
-22,Fri Apr 5 2024,19:30,Wiener Sport-Club,4-2,2-1,FCM Traiskirchen
-22,Sat Apr 6 2024,16:00,FC Mauerwerk,1-1,0-0,SCU Ardagger
-23,Fri Apr 12 2024,19:00,FC Marchfeld Donauauen,1-4,0-2,Rapid Wien II
-23,Fri Apr 12 2024,19:30,SCU Ardagger,0-1,0-1,SC Neusiedl/See 1919
-23,Fri Apr 12 2024,19:30,Young Violets,1-1,1-0,Favoritner AC
-23,Fri Apr 12 2024,19:30,FCM Traiskirchen,2-2,1-1,FC Mauerwerk
-23,Fri Apr 12 2024,19:00,ASV Draßburg,1-3,0-1,SV Oberwart
-23,Sat Apr 13 2024,15:30,SR Donaufeld,1-1,0-1,Kremser SC
-23,Sat Apr 13 2024,16:00,SC Wiener Viktoria,2-2,0-0,Wiener Sport-Club
-23,Sat Apr 13 2024,16:30,SV Leobendorf,2-1,0-1,TWL Elektra
-24,Fri Apr 19 2024,19:00,SC Neusiedl/See 1919,2-2,2-1,FCM Traiskirchen
-24,Fri Apr 19 2024,19:30,Rapid Wien II,0-1,0-0,SV Leobendorf
-24,Fri Apr 19 2024,19:30,Kremser SC,3-1,2-1,ASV Draßburg
-24,Fri Apr 19 2024,19:30,SV Oberwart,3-0,2-0,Young Violets
-24,Fri Apr 19 2024,19:30,TWL Elektra,0-0,0-0,SR Donaufeld
-24,Fri Apr 19 2024,19:30,Wiener Sport-Club,1-1,1-1,FC Marchfeld Donauauen
-24,Fri Apr 19 2024,20:00,Favoritner AC,1-0,0-0,SCU Ardagger
-24,Sat Apr 20 2024,16:00,FC Mauerwerk,0-3,0-2,SC Wiener Viktoria
-25,Thu Apr 25 2024,19:30,Young Violets,1-1,1-0,Kremser SC
-25,Fri Apr 26 2024,19:00,ASV Draßburg,4-2,2-1,SR Donaufeld
-25,Fri Apr 26 2024,19:00,FC Marchfeld Donauauen,1-3,1-1,FC Mauerwerk
-25,Fri Apr 26 2024,19:30,Rapid Wien II,3-0,0-0,TWL Elektra
-25,Fri Apr 26 2024,19:30,FCM Traiskirchen,2-3,0-1,Favoritner AC
-25,Fri Apr 26 2024,20:00,SCU Ardagger,0-0,0-0,SV Oberwart
-25,Sat Apr 27 2024,17:30,SV Leobendorf,2-2,1-0,Wiener Sport-Club
-25,Sat Apr 27 2024,16:00,SC Wiener Viktoria,4-1,3-0,SC Neusiedl/See 1919
-26,Fri May 3 2024,19:00,SC Neusiedl/See 1919,3-1,1-0,FC Marchfeld Donauauen
-26,Fri May 3 2024,19:30,Favoritner AC,0-0,0-0,SC Wiener Viktoria
-26,Fri May 3 2024,19:30,Kremser SC,2-0,1-0,SCU Ardagger
-26,Fri May 3 2024,19:30,SV Oberwart,2-5,1-2,FCM Traiskirchen
-26,Fri May 3 2024,19:30,TWL Elektra,3-1,3-0,ASV Draßburg
-26,Fri May 3 2024,19:30,Wiener Sport-Club,0-4,0-1,Rapid Wien II
-26,Sat May 4 2024,16:00,FC Mauerwerk,2-1,1-0,SV Leobendorf
-26,Sat May 4 2024,15:30,SR Donaufeld,4-2,4-0,Young Violets
-27,Thu May 9 2024,17:30,SV Leobendorf,1-0,1-0,SC Neusiedl/See 1919
-27,Fri May 10 2024,19:00,FC Marchfeld Donauauen,3-1,2-1,Favoritner AC
-27,Fri May 10 2024,19:30,Rapid Wien II,4-0,1-0,FC Mauerwerk
-27,Fri May 10 2024,19:30,SCU Ardagger,0-2,0-1,SR Donaufeld
-27,Fri May 10 2024,19:30,Young Violets,0-1,0-1,ASV Draßburg
-27,Fri May 10 2024,19:30,FCM Traiskirchen,2-2,2-1,Kremser SC
-27,Fri May 10 2024,19:30,Wiener Sport-Club,2-1,2-1,TWL Elektra
-27,Sat May 11 2024,16:00,SC Wiener Viktoria,1-1,0-0,SV Oberwart
-28,Fri May 17 2024,19:30,Favoritner AC,1-1,0-0,SV Leobendorf
-28,Fri May 17 2024,19:30,SV Oberwart,2-0,1-0,FC Marchfeld Donauauen
-28,Fri May 17 2024,19:30,TWL Elektra,3-3,1-3,Young Violets
-28,Fri May 17 2024,20:00,ASV Draßburg,1-1,1-0,SCU Ardagger
-28,Fri May 17 2024,20:00,SC Neusiedl/See 1919,0-4,0-2,Rapid Wien II
-28,Sat May 18 2024,16:00,FC Mauerwerk,1-0,1-0,Wiener Sport-Club
-28,Sat May 18 2024,15:30,SR Donaufeld,2-2,0-1,FCM Traiskirchen
-28,Mon May 20 2024,17:00,Kremser SC,0-3,0-1,SC Wiener Viktoria
-29,Fri May 24 2024,19:00,FC Marchfeld Donauauen,3-2,1-2,Kremser SC
-29,Fri May 24 2024,19:30,SCU Ardagger,2-1,0-0,Young Violets
-29,Fri May 24 2024,19:30,FCM Traiskirchen,1-1,0-0,ASV Draßburg
-29,Fri May 24 2024,19:30,Wiener Sport-Club,2-2,0-1,SC Neusiedl/See 1919
-29,Sat May 25 2024,16:00,FC Mauerwerk,1-1,0-1,TWL Elektra
-29,Sat May 25 2024,16:00,SC Wiener Viktoria,3-2,2-1,SR Donaufeld
-29,Sat May 25 2024,17:30,SV Leobendorf,0-5,0-3,SV Oberwart
-29,Sat May 25 2024,16:00,Rapid Wien II,2-0,1-0,Favoritner AC
-30,Fri May 31 2024,18:00,SR Donaufeld,1-0,0-0,FC Marchfeld Donauauen
-30,Fri May 31 2024,19:30,ASV Draßburg,3-0,2-0,SC Wiener Viktoria
-30,Fri May 31 2024,19:30,SC Neusiedl/See 1919,1-2,1-0,FC Mauerwerk
-30,Fri May 31 2024,19:30,FCM Traiskirchen,0-3,0-1,Young Violets
-30,Fri May 31 2024,19:30,Favoritner AC,4-5,1-3,Wiener Sport-Club
-30,Fri May 31 2024,19:30,SV Oberwart,2-4,0-2,Rapid Wien II
-30,Fri May 31 2024,19:30,TWL Elektra,0-2,0-1,SCU Ardagger
-30,Mon Jun 3 2024,19:00,Kremser SC,1-1,0-0,SV Leobendorf
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 28 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,1-1,0-0,TWL Elektra,2023-07-28T17:00Z
+1,Fri Jul 28 2023,19:30,CEST/+0200,ASV Draßburg,2-0,0-0,FC Marchfeld Donauauen,2023-07-28T17:30Z
+1,Fri Jul 28 2023,19:30,CEST/+0200,SCU Ardagger,3-2,1-1,FCM Traiskirchen,2023-07-28T17:30Z
+1,Fri Jul 28 2023,19:30,CEST/+0200,Favoritner AC,1-1,0-0,FC Mauerwerk,2023-07-28T17:30Z
+1,Fri Jul 28 2023,19:30,CEST/+0200,Kremser SC,4-3,1-1,Rapid Wien II,2023-07-28T17:30Z
+1,Fri Jul 28 2023,19:30,CEST/+0200,SV Oberwart,0-2,0-1,Wiener Sport-Club,2023-07-28T17:30Z
+1,Fri Jul 28 2023,20:00,CEST/+0200,Austria Wien II,3-1,3-1,SC Wiener Viktoria,2023-07-28T18:00Z
+1,Fri Jul 28 2023,18:00,CEST/+0200,SR Donaufeld,1-4,0-3,SV Leobendorf,2023-07-28T16:00Z
+2,Fri Aug 4 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,3-1,3-0,Favoritner AC,2023-08-04T17:00Z
+2,Fri Aug 4 2023,19:00,CEST/+0200,Rapid Wien II,0-2,0-0,SR Donaufeld,2023-08-04T17:00Z
+2,Fri Aug 4 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,0-0,0-0,Austria Wien II,2023-08-04T17:30Z
+2,Fri Aug 4 2023,19:30,CEST/+0200,TWL Elektra,2-2,0-1,FCM Traiskirchen,2023-08-04T17:30Z
+2,Fri Aug 4 2023,19:30,CEST/+0200,Wiener Sport-Club,2-2,1-0,Kremser SC,2023-08-04T17:30Z
+2,Sat Aug 5 2023,16:00,CEST/+0200,SC Wiener Viktoria,3-2,1-1,SCU Ardagger,2023-08-05T14:00Z
+2,Sat Aug 5 2023,16:00,CEST/+0200,FC Mauerwerk,0-3,0-0,SV Oberwart,2023-08-05T14:00Z
+2,Tue Aug 8 2023,19:00,CEST/+0200,SV Leobendorf,3-1,2-1,ASV Draßburg,2023-08-08T17:00Z
+3,Fri Aug 11 2023,18:00,CEST/+0200,SR Donaufeld,3-3,2-2,Wiener Sport-Club,2023-08-11T16:00Z
+3,Fri Aug 11 2023,19:30,CEST/+0200,SCU Ardagger,0-0,0-0,FC Marchfeld Donauauen,2023-08-11T17:30Z
+3,Fri Aug 11 2023,19:30,CEST/+0200,ASV Draßburg,2-5,2-2,Rapid Wien II,2023-08-11T17:30Z
+3,Fri Aug 11 2023,19:30,CEST/+0200,Austria Wien II,1-2,0-2,SV Leobendorf,2023-08-11T17:30Z
+3,Fri Aug 11 2023,19:30,CEST/+0200,Favoritner AC,2-0,1-0,TWL Elektra,2023-08-11T17:30Z
+3,Fri Aug 11 2023,19:30,CEST/+0200,FCM Traiskirchen,4-0,2-0,SC Wiener Viktoria,2023-08-11T17:30Z
+3,Fri Aug 11 2023,19:30,CEST/+0200,Kremser SC,3-0,1-0,FC Mauerwerk,2023-08-11T17:30Z
+3,Fri Aug 11 2023,19:30,CEST/+0200,SV Oberwart,1-2,1-0,SC Neusiedl/See 1919,2023-08-11T17:30Z
+4,Fri Aug 18 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,0-1,0-1,Kremser SC,2023-08-18T17:00Z
+4,Fri Aug 18 2023,19:30,CEST/+0200,Rapid Wien II,3-2,1-1,Austria Wien II,2023-08-18T17:30Z
+4,Fri Aug 18 2023,19:30,CEST/+0200,Favoritner AC,0-0,0-0,SV Oberwart,2023-08-18T17:30Z
+4,Fri Aug 18 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,0-1,0-1,FCM Traiskirchen,2023-08-18T17:30Z
+4,Fri Aug 18 2023,19:30,CEST/+0200,TWL Elektra,1-1,1-1,SC Wiener Viktoria,2023-08-18T17:30Z
+4,Fri Aug 18 2023,19:30,CEST/+0200,Wiener Sport-Club,2-1,0-0,ASV Draßburg,2023-08-18T17:30Z
+4,Sat Aug 19 2023,16:30,CEST/+0200,SV Leobendorf,2-0,1-0,SCU Ardagger,2023-08-19T14:30Z
+4,Sat Aug 19 2023,16:00,CEST/+0200,FC Mauerwerk,0-2,0-1,SR Donaufeld,2023-08-19T14:00Z
+5,Fri Aug 25 2023,19:30,CEST/+0200,ASV Draßburg,1-1,0-1,FC Mauerwerk,2023-08-25T17:30Z
+5,Fri Aug 25 2023,19:30,CEST/+0200,FCM Traiskirchen,3-2,2-1,SV Leobendorf,2023-08-25T17:30Z
+5,Fri Aug 25 2023,19:30,CEST/+0200,Kremser SC,0-2,0-0,Favoritner AC,2023-08-25T17:30Z
+5,Fri Aug 25 2023,19:30,CEST/+0200,SV Oberwart,0-3,0-3,TWL Elektra,2023-08-25T17:30Z
+5,Fri Aug 25 2023,20:00,CEST/+0200,SCU Ardagger,2-2,1-0,Rapid Wien II,2023-08-25T18:00Z
+5,Fri Aug 25 2023,20:00,CEST/+0200,Austria Wien II,1-1,0-0,Wiener Sport-Club,2023-08-25T18:00Z
+5,Sat Aug 26 2023,17:00,CEST/+0200,SR Donaufeld,5-2,2-2,SC Neusiedl/See 1919,2023-08-26T15:00Z
+5,Sat Aug 26 2023,16:00,CEST/+0200,SC Wiener Viktoria,4-1,1-1,FC Marchfeld Donauauen,2023-08-26T14:00Z
+6,Fri Sep 1 2023,17:30,CEST/+0200,SV Leobendorf,2-4,1-1,SC Wiener Viktoria,2023-09-01T15:30Z
+6,Fri Sep 1 2023,18:00,CEST/+0200,TWL Elektra,0-2,0-0,FC Marchfeld Donauauen,2023-09-01T16:00Z
+6,Fri Sep 1 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,2-0,0-0,ASV Draßburg,2023-09-01T17:00Z
+6,Fri Sep 1 2023,19:00,CEST/+0200,Rapid Wien II,3-2,2-0,FCM Traiskirchen,2023-09-01T17:00Z
+6,Fri Sep 1 2023,19:30,CEST/+0200,Favoritner AC,2-3,0-1,SR Donaufeld,2023-09-01T17:30Z
+6,Fri Sep 1 2023,19:30,CEST/+0200,SV Oberwart,1-2,1-0,Kremser SC,2023-09-01T17:30Z
+6,Fri Sep 1 2023,19:30,CEST/+0200,Wiener Sport-Club,1-0,1-0,SCU Ardagger,2023-09-01T17:30Z
+6,Sat Sep 2 2023,19:00,CEST/+0200,FC Mauerwerk,1-6,0-2,Austria Wien II,2023-09-02T17:00Z
+7,Fri Sep 8 2023,19:30,CEST/+0200,ASV Draßburg,2-1,0-0,Favoritner AC,2023-09-08T17:30Z
+7,Fri Sep 8 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,1-1,0-0,SV Leobendorf,2023-09-08T17:30Z
+7,Fri Sep 8 2023,19:30,CEST/+0200,FCM Traiskirchen,1-0,1-0,Wiener Sport-Club,2023-09-08T17:30Z
+7,Fri Sep 8 2023,19:30,CEST/+0200,Kremser SC,3-1,3-1,TWL Elektra,2023-09-08T17:30Z
+7,Fri Sep 8 2023,19:30,CEST/+0200,SCU Ardagger,0-0,0-0,FC Mauerwerk,2023-09-08T17:30Z
+7,Sat Sep 9 2023,16:00,CEST/+0200,SR Donaufeld,2-3,2-2,SV Oberwart,2023-09-09T14:00Z
+7,Sat Sep 9 2023,16:00,CEST/+0200,SC Wiener Viktoria,2-0,2-0,Rapid Wien II,2023-09-09T14:00Z
+8,Fri Sep 15 2023,20:00,CEST/+0200,SC Neusiedl/See 1919,0-0,0-0,SCU Ardagger,2023-09-15T18:00Z
+8,Fri Sep 15 2023,17:30,CEST/+0200,TWL Elektra,1-0,0-0,SV Leobendorf,2023-09-15T15:30Z
+8,Fri Sep 15 2023,19:00,CEST/+0200,Rapid Wien II,3-0,1-0,FC Marchfeld Donauauen,2023-09-15T17:00Z
+8,Fri Sep 15 2023,19:30,CEST/+0200,Favoritner AC,1-4,1-2,Austria Wien II,2023-09-15T17:30Z
+8,Fri Sep 15 2023,19:30,CEST/+0200,Kremser SC,1-1,0-1,SR Donaufeld,2023-09-15T17:30Z
+8,Fri Sep 15 2023,19:30,CEST/+0200,SV Oberwart,2-0,0-0,ASV Draßburg,2023-09-15T17:30Z
+8,Fri Sep 15 2023,19:30,CEST/+0200,Wiener Sport-Club,1-1,0-0,SC Wiener Viktoria,2023-09-15T17:30Z
+8,Sat Sep 16 2023,16:00,CEST/+0200,FC Mauerwerk,0-8,0-4,FCM Traiskirchen,2023-09-16T14:00Z
+7,Tue Sep 19 2023,19:00,CEST/+0200,Austria Wien II,3-2,2-1,SC Neusiedl/See 1919,2023-09-19T17:00Z
+9,Fri Sep 22 2023,19:00,CEST/+0200,ASV Draßburg,1-3,0-2,Kremser SC,2023-09-22T17:00Z
+9,Fri Sep 22 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,3-1,1-1,Wiener Sport-Club,2023-09-22T17:30Z
+9,Fri Sep 22 2023,19:30,CEST/+0200,FCM Traiskirchen,1-2,1-0,SC Neusiedl/See 1919,2023-09-22T17:30Z
+9,Fri Sep 22 2023,20:00,CEST/+0200,SCU Ardagger,0-0,0-0,Favoritner AC,2023-09-22T18:00Z
+9,Fri Sep 22 2023,20:00,CEST/+0200,Austria Wien II,1-0,0-0,SV Oberwart,2023-09-22T18:00Z
+9,Sat Sep 23 2023,16:00,CEST/+0200,SR Donaufeld,4-2,2-2,TWL Elektra,2023-09-23T14:00Z
+9,Sat Sep 23 2023,16:30,CEST/+0200,SV Leobendorf,1-4,1-2,Rapid Wien II,2023-09-23T14:30Z
+9,Sat Sep 23 2023,16:00,CEST/+0200,SC Wiener Viktoria,2-0,0-0,FC Mauerwerk,2023-09-23T14:00Z
+10,Fri Sep 29 2023,17:15,CEST/+0200,TWL Elektra,0-1,0-0,Rapid Wien II,2023-09-29T15:15Z
+10,Fri Sep 29 2023,19:30,CEST/+0200,Favoritner AC,1-3,0-1,FCM Traiskirchen,2023-09-29T17:30Z
+10,Fri Sep 29 2023,19:30,CEST/+0200,Kremser SC,0-0,0-0,Austria Wien II,2023-09-29T17:30Z
+10,Fri Sep 29 2023,20:00,CEST/+0200,SC Neusiedl/See 1919,1-1,1-0,SC Wiener Viktoria,2023-09-29T18:00Z
+10,Fri Sep 29 2023,20:00,CEST/+0200,SV Oberwart,2-1,0-0,SCU Ardagger,2023-09-29T18:00Z
+10,Sat Sep 30 2023,16:00,CEST/+0200,SR Donaufeld,3-0,1-0,ASV Draßburg,2023-09-30T14:00Z
+10,Sat Sep 30 2023,18:00,CEST/+0200,Wiener Sport-Club,2-2,1-0,SV Leobendorf,2023-09-30T16:00Z
+10,Sat Sep 30 2023,16:00,CEST/+0200,FC Mauerwerk,2-4,0-3,FC Marchfeld Donauauen,2023-09-30T14:00Z
+11,Fri Oct 6 2023,19:00,CEST/+0200,ASV Draßburg,1-2,0-0,TWL Elektra,2023-10-06T17:00Z
+11,Fri Oct 6 2023,19:30,CEST/+0200,Rapid Wien II,4-0,2-0,Wiener Sport-Club,2023-10-06T17:30Z
+11,Fri Oct 6 2023,19:30,CEST/+0200,SCU Ardagger,2-0,1-0,Kremser SC,2023-10-06T17:30Z
+11,Fri Oct 6 2023,19:30,CEST/+0200,Austria Wien II,1-4,1-1,SR Donaufeld,2023-10-06T17:30Z
+11,Fri Oct 6 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,5-2,1-1,SC Neusiedl/See 1919,2023-10-06T17:30Z
+11,Fri Oct 6 2023,19:30,CEST/+0200,FCM Traiskirchen,3-1,3-0,SV Oberwart,2023-10-06T17:30Z
+11,Sat Oct 7 2023,18:45,CEST/+0200,SV Leobendorf,0-1,0-1,FC Mauerwerk,2023-10-07T16:45Z
+11,Sat Oct 7 2023,16:00,CEST/+0200,SC Wiener Viktoria,3-1,1-0,Favoritner AC,2023-10-07T14:00Z
+12,Fri Oct 13 2023,18:45,CEST/+0200,ASV Draßburg,2-2,0-1,Austria Wien II,2023-10-13T16:45Z
+12,Fri Oct 13 2023,18:45,CEST/+0200,Favoritner AC,2-2,2-0,FC Marchfeld Donauauen,2023-10-13T16:45Z
+12,Fri Oct 13 2023,18:45,CEST/+0200,Kremser SC,2-1,0-0,FCM Traiskirchen,2023-10-13T16:45Z
+12,Fri Oct 13 2023,18:45,CEST/+0200,SV Oberwart,1-2,1-1,SC Wiener Viktoria,2023-10-13T16:45Z
+12,Sat Oct 14 2023,16:00,CEST/+0200,FC Mauerwerk,0-2,0-0,Rapid Wien II,2023-10-14T14:00Z
+12,Sat Oct 14 2023,16:00,CEST/+0200,SR Donaufeld,3-0,2-0,SCU Ardagger,2023-10-14T14:00Z
+12,Sat Oct 14 2023,16:00,CEST/+0200,SC Neusiedl/See 1919,1-4,0-1,SV Leobendorf,2023-10-14T14:00Z
+13,Fri Oct 20 2023,20:00,CEST/+0200,Austria Wien II,0-1,0-0,TWL Elektra,2023-10-20T18:00Z
+13,Fri Oct 20 2023,18:30,CEST/+0200,FCM Traiskirchen,1-3,1-1,SR Donaufeld,2023-10-20T16:30Z
+13,Fri Oct 20 2023,19:00,CEST/+0200,Rapid Wien II,2-0,0-0,SC Neusiedl/See 1919,2023-10-20T17:00Z
+13,Fri Oct 20 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,2-1,2-0,SV Oberwart,2023-10-20T17:30Z
+13,Fri Oct 20 2023,19:30,CEST/+0200,Wiener Sport-Club,1-1,0-0,FC Mauerwerk,2023-10-20T17:30Z
+13,Fri Oct 20 2023,20:00,CEST/+0200,SCU Ardagger,3-1,2-0,ASV Draßburg,2023-10-20T18:00Z
+13,Sat Oct 21 2023,16:00,CEST/+0200,SC Wiener Viktoria,0-2,0-1,Kremser SC,2023-10-21T14:00Z
+13,Sat Oct 21 2023,16:30,CEST/+0200,SV Leobendorf,4-1,0-0,Favoritner AC,2023-10-21T14:30Z
+14,Thu Oct 26 2023,17:00,CEST/+0200,SV Oberwart,0-5,0-3,SV Leobendorf,2023-10-26T15:00Z
+14,Fri Oct 27 2023,20:00,CEST/+0200,Austria Wien II,3-0,1-0,SCU Ardagger,2023-10-27T18:00Z
+14,Fri Oct 27 2023,19:00,CEST/+0200,ASV Draßburg,1-1,1-1,FCM Traiskirchen,2023-10-27T17:00Z
+14,Fri Oct 27 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,0-6,0-3,Wiener Sport-Club,2023-10-27T17:00Z
+14,Fri Oct 27 2023,19:30,CEST/+0200,Favoritner AC,0-0,0-0,Rapid Wien II,2023-10-27T17:30Z
+14,Fri Oct 27 2023,19:30,CEST/+0200,Kremser SC,4-0,0-0,FC Marchfeld Donauauen,2023-10-27T17:30Z
+14,Sat Oct 28 2023,15:00,CEST/+0200,SR Donaufeld,0-0,0-0,SC Wiener Viktoria,2023-10-28T13:00Z
+14,Sat Oct 28 2023,15:30,CEST/+0200,TWL Elektra,1-1,0-0,FC Mauerwerk,2023-10-28T13:30Z
+15,Fri Nov 3 2023,19:00,CET/+0100,Rapid Wien II,3-0,2-0,SV Oberwart,2023-11-03T18:00Z
+15,Fri Nov 3 2023,19:30,CET/+0100,Wiener Sport-Club,3-1,2-0,Favoritner AC,2023-11-03T18:30Z
+15,Sat Nov 4 2023,16:00,CET/+0100,SCU Ardagger,3-2,0-1,TWL Elektra,2023-11-04T15:00Z
+15,Sat Nov 4 2023,16:00,CET/+0100,SC Wiener Viktoria,4-2,1-1,ASV Draßburg,2023-11-04T15:00Z
+15,Sat Nov 4 2023,16:00,CET/+0100,FC Mauerwerk,1-2,0-2,SC Neusiedl/See 1919,2023-11-04T15:00Z
+15,Sat Nov 4 2023,16:30,CET/+0100,SV Leobendorf,0-1,0-0,Kremser SC,2023-11-04T15:30Z
+15,Tue Nov 7 2023,19:00,CET/+0100,Austria Wien II,2-1,0-0,FCM Traiskirchen,2023-11-07T18:00Z
+15,Tue Nov 7 2023,19:00,CET/+0100,FC Marchfeld Donauauen,2-1,1-0,SR Donaufeld,2023-11-07T18:00Z
+16,Fri Nov 10 2023,19:30,CET/+0100,Wiener Sport-Club,0-1,0-0,SV Oberwart,2023-11-10T18:30Z
+16,Fri Nov 10 2023,19:00,CET/+0100,Rapid Wien II,3-0,1-0,Kremser SC,2023-11-10T18:00Z
+16,Fri Nov 10 2023,19:00,CET/+0100,FC Marchfeld Donauauen,4-1,2-0,ASV Draßburg,2023-11-10T18:00Z
+16,Fri Nov 10 2023,19:30,CET/+0100,FCM Traiskirchen,2-0,1-0,SCU Ardagger,2023-11-10T18:30Z
+16,Sat Nov 11 2023,14:00,CET/+0100,TWL Elektra,1-0,0-0,SC Neusiedl/See 1919,2023-11-11T13:00Z
+16,Sat Nov 11 2023,16:00,CET/+0100,FC Mauerwerk,2-2,1-0,Favoritner AC,2023-11-11T15:00Z
+16,Sat Nov 11 2023,16:00,CET/+0100,SC Wiener Viktoria,2-3,2-2,Austria Wien II,2023-11-11T15:00Z
+16,Sat Nov 11 2023,16:30,CET/+0100,SV Leobendorf,0-0,0-0,SR Donaufeld,2023-11-11T15:30Z
+12,Fri Nov 17 2023,19:00,CET/+0100,TWL Elektra,2-1,,Wiener Sport-Club,2023-11-17T18:00Z
+17,Fri Mar 1 2024,19:00,CET/+0100,ASV Draßburg,0-2,0-0,SV Leobendorf,2024-03-01T18:00Z
+17,Fri Mar 1 2024,19:30,CET/+0100,Austria Wien II,0-0,0-0,FC Marchfeld Donauauen,2024-03-01T18:30Z
+17,Fri Mar 1 2024,19:30,CET/+0100,Favoritner AC,1-3,1-1,SC Neusiedl/See 1919,2024-03-01T18:30Z
+17,Fri Mar 1 2024,19:30,CET/+0100,FCM Traiskirchen,2-0,0-0,TWL Elektra,2024-03-01T18:30Z
+17,Fri Mar 1 2024,19:30,CET/+0100,Kremser SC,1-0,0-0,Wiener Sport-Club,2024-03-01T18:30Z
+17,Fri Mar 1 2024,19:30,CET/+0100,SV Oberwart,2-1,1-0,FC Mauerwerk,2024-03-01T18:30Z
+17,Sat Mar 2 2024,17:00,CET/+0100,SCU Ardagger,0-0,0-0,SC Wiener Viktoria,2024-03-02T16:00Z
+17,Sat Mar 2 2024,14:30,CET/+0100,SR Donaufeld,2-2,1-0,Rapid Wien II,2024-03-02T13:30Z
+18,Fri Mar 8 2024,19:00,CET/+0100,SC Neusiedl/See 1919,3-0,1-0,SV Oberwart,2024-03-08T18:00Z
+18,Fri Mar 8 2024,19:30,CET/+0100,Rapid Wien II,3-1,1-1,ASV Draßburg,2024-03-08T18:30Z
+18,Fri Mar 8 2024,19:30,CET/+0100,FC Marchfeld Donauauen,1-0,1-0,SCU Ardagger,2024-03-08T18:30Z
+18,Fri Mar 8 2024,19:30,CET/+0100,TWL Elektra,1-1,0-0,Favoritner AC,2024-03-08T18:30Z
+18,Fri Mar 8 2024,19:30,CET/+0100,Wiener Sport-Club,1-2,0-0,SR Donaufeld,2024-03-08T18:30Z
+18,Sat Mar 9 2024,16:00,CET/+0100,SC Wiener Viktoria,2-2,1-0,FCM Traiskirchen,2024-03-09T15:00Z
+18,Sat Mar 9 2024,16:30,CET/+0100,SV Leobendorf,2-1,0-0,Austria Wien II,2024-03-09T15:30Z
+18,Sat Mar 9 2024,16:00,CET/+0100,FC Mauerwerk,2-2,2-1,Kremser SC,2024-03-09T15:00Z
+19,Fri Mar 15 2024,19:00,CET/+0100,ASV Draßburg,1-2,0-1,Wiener Sport-Club,2024-03-15T18:00Z
+19,Fri Mar 15 2024,19:30,CET/+0100,Austria Wien II,0-0,0-0,Rapid Wien II,2024-03-15T18:30Z
+19,Fri Mar 15 2024,19:30,CET/+0100,FCM Traiskirchen,1-2,1-0,FC Marchfeld Donauauen,2024-03-15T18:30Z
+19,Fri Mar 15 2024,19:30,CET/+0100,Kremser SC,0-0,0-0,SC Neusiedl/See 1919,2024-03-15T18:30Z
+19,Fri Mar 15 2024,19:30,CET/+0100,SV Oberwart,1-2,1-2,Favoritner AC,2024-03-15T18:30Z
+19,Fri Mar 15 2024,20:00,CET/+0100,SCU Ardagger,0-0,0-0,SV Leobendorf,2024-03-15T19:00Z
+19,Sat Mar 16 2024,16:00,CET/+0100,SC Wiener Viktoria,2-2,2-2,TWL Elektra,2024-03-16T15:00Z
+19,Sat Mar 16 2024,15:00,CET/+0100,SR Donaufeld,0-1,0-1,FC Mauerwerk,2024-03-16T14:00Z
+20,Fri Mar 22 2024,19:00,CET/+0100,SC Neusiedl/See 1919,0-2,0-1,SR Donaufeld,2024-03-22T18:00Z
+20,Fri Mar 22 2024,19:00,CET/+0100,FC Marchfeld Donauauen,4-0,2-0,SC Wiener Viktoria,2024-03-22T18:00Z
+20,Fri Mar 22 2024,19:30,CET/+0100,Favoritner AC,1-0,1-0,Kremser SC,2024-03-22T18:30Z
+20,Fri Mar 22 2024,19:30,CET/+0100,TWL Elektra,0-0,0-0,SV Oberwart,2024-03-22T18:30Z
+20,Fri Mar 22 2024,19:30,CET/+0100,Wiener Sport-Club,3-0,1-0,Austria Wien II,2024-03-22T18:30Z
+20,Sat Mar 23 2024,16:00,CET/+0100,SV Leobendorf,3-1,1-0,FCM Traiskirchen,2024-03-23T15:00Z
+20,Sat Mar 23 2024,16:00,CET/+0100,FC Mauerwerk,1-2,0-1,ASV Draßburg,2024-03-23T15:00Z
+21,Fri Mar 29 2024,19:30,CET/+0100,Kremser SC,1-3,0-1,SV Oberwart,2024-03-29T18:30Z
+21,Fri Mar 29 2024,19:00,CET/+0100,ASV Draßburg,3-1,2-0,SC Neusiedl/See 1919,2024-03-29T18:00Z
+21,Fri Mar 29 2024,19:00,CET/+0100,FC Marchfeld Donauauen,1-0,0-0,TWL Elektra,2024-03-29T18:00Z
+21,Fri Mar 29 2024,19:30,CET/+0100,SCU Ardagger,0-2,0-0,Wiener Sport-Club,2024-03-29T18:30Z
+21,Fri Mar 29 2024,19:30,CET/+0100,FCM Traiskirchen,0-2,0-0,Rapid Wien II,2024-03-29T18:30Z
+21,Sat Mar 30 2024,15:00,CET/+0100,SR Donaufeld,5-0,2-0,Favoritner AC,2024-03-30T14:00Z
+21,Sat Mar 30 2024,16:00,CET/+0100,Austria Wien II,0-0,0-0,FC Mauerwerk,2024-03-30T15:00Z
+21,Sat Mar 30 2024,16:00,CET/+0100,SC Wiener Viktoria,1-2,1-1,SV Leobendorf,2024-03-30T15:00Z
+20,Tue Apr 2 2024,20:00,CEST/+0200,Rapid Wien II,2-0,0-0,SCU Ardagger,2024-04-02T18:00Z
+22,Fri Apr 5 2024,19:00,CEST/+0200,SC Neusiedl/See 1919,1-5,0-2,Austria Wien II,2024-04-05T17:00Z
+22,Fri Apr 5 2024,19:00,CEST/+0200,SV Leobendorf,2-2,2-1,FC Marchfeld Donauauen,2024-04-05T17:00Z
+22,Fri Apr 5 2024,19:30,CEST/+0200,Rapid Wien II,1-1,0-0,SC Wiener Viktoria,2024-04-05T17:30Z
+22,Fri Apr 5 2024,19:30,CEST/+0200,Favoritner AC,0-0,0-0,ASV Draßburg,2024-04-05T17:30Z
+22,Fri Apr 5 2024,19:30,CEST/+0200,SV Oberwart,0-6,0-2,SR Donaufeld,2024-04-05T17:30Z
+22,Fri Apr 5 2024,19:30,CEST/+0200,TWL Elektra,2-1,0-1,Kremser SC,2024-04-05T17:30Z
+22,Fri Apr 5 2024,19:30,CEST/+0200,Wiener Sport-Club,4-2,2-1,FCM Traiskirchen,2024-04-05T17:30Z
+22,Sat Apr 6 2024,16:00,CEST/+0200,FC Mauerwerk,1-1,0-0,SCU Ardagger,2024-04-06T14:00Z
+23,Fri Apr 12 2024,19:00,CEST/+0200,FC Marchfeld Donauauen,1-4,0-2,Rapid Wien II,2024-04-12T17:00Z
+23,Fri Apr 12 2024,19:30,CEST/+0200,SCU Ardagger,0-1,0-1,SC Neusiedl/See 1919,2024-04-12T17:30Z
+23,Fri Apr 12 2024,19:30,CEST/+0200,Austria Wien II,1-1,1-0,Favoritner AC,2024-04-12T17:30Z
+23,Fri Apr 12 2024,19:30,CEST/+0200,FCM Traiskirchen,2-2,1-1,FC Mauerwerk,2024-04-12T17:30Z
+23,Fri Apr 12 2024,19:00,CEST/+0200,ASV Draßburg,1-3,0-1,SV Oberwart,2024-04-12T17:00Z
+23,Sat Apr 13 2024,15:30,CEST/+0200,SR Donaufeld,1-1,0-1,Kremser SC,2024-04-13T13:30Z
+23,Sat Apr 13 2024,16:00,CEST/+0200,SC Wiener Viktoria,2-2,0-0,Wiener Sport-Club,2024-04-13T14:00Z
+23,Sat Apr 13 2024,16:30,CEST/+0200,SV Leobendorf,2-1,0-1,TWL Elektra,2024-04-13T14:30Z
+24,Fri Apr 19 2024,19:00,CEST/+0200,SC Neusiedl/See 1919,2-2,2-1,FCM Traiskirchen,2024-04-19T17:00Z
+24,Fri Apr 19 2024,19:30,CEST/+0200,Rapid Wien II,0-1,0-0,SV Leobendorf,2024-04-19T17:30Z
+24,Fri Apr 19 2024,19:30,CEST/+0200,Kremser SC,3-1,2-1,ASV Draßburg,2024-04-19T17:30Z
+24,Fri Apr 19 2024,19:30,CEST/+0200,SV Oberwart,3-0,2-0,Austria Wien II,2024-04-19T17:30Z
+24,Fri Apr 19 2024,19:30,CEST/+0200,TWL Elektra,0-0,0-0,SR Donaufeld,2024-04-19T17:30Z
+24,Fri Apr 19 2024,19:30,CEST/+0200,Wiener Sport-Club,1-1,1-1,FC Marchfeld Donauauen,2024-04-19T17:30Z
+24,Fri Apr 19 2024,20:00,CEST/+0200,Favoritner AC,1-0,0-0,SCU Ardagger,2024-04-19T18:00Z
+24,Sat Apr 20 2024,16:00,CEST/+0200,FC Mauerwerk,0-3,0-2,SC Wiener Viktoria,2024-04-20T14:00Z
+25,Thu Apr 25 2024,19:30,CEST/+0200,Austria Wien II,1-1,1-0,Kremser SC,2024-04-25T17:30Z
+25,Fri Apr 26 2024,19:00,CEST/+0200,ASV Draßburg,4-2,2-1,SR Donaufeld,2024-04-26T17:00Z
+25,Fri Apr 26 2024,19:00,CEST/+0200,FC Marchfeld Donauauen,1-3,1-1,FC Mauerwerk,2024-04-26T17:00Z
+25,Fri Apr 26 2024,19:30,CEST/+0200,Rapid Wien II,3-0,0-0,TWL Elektra,2024-04-26T17:30Z
+25,Fri Apr 26 2024,19:30,CEST/+0200,FCM Traiskirchen,2-3,0-1,Favoritner AC,2024-04-26T17:30Z
+25,Fri Apr 26 2024,20:00,CEST/+0200,SCU Ardagger,0-0,0-0,SV Oberwart,2024-04-26T18:00Z
+25,Sat Apr 27 2024,17:30,CEST/+0200,SV Leobendorf,2-2,1-0,Wiener Sport-Club,2024-04-27T15:30Z
+25,Sat Apr 27 2024,16:00,CEST/+0200,SC Wiener Viktoria,4-1,3-0,SC Neusiedl/See 1919,2024-04-27T14:00Z
+26,Fri May 3 2024,19:00,CEST/+0200,SC Neusiedl/See 1919,3-1,1-0,FC Marchfeld Donauauen,2024-05-03T17:00Z
+26,Fri May 3 2024,19:30,CEST/+0200,Favoritner AC,0-0,0-0,SC Wiener Viktoria,2024-05-03T17:30Z
+26,Fri May 3 2024,19:30,CEST/+0200,Kremser SC,2-0,1-0,SCU Ardagger,2024-05-03T17:30Z
+26,Fri May 3 2024,19:30,CEST/+0200,SV Oberwart,2-5,1-2,FCM Traiskirchen,2024-05-03T17:30Z
+26,Fri May 3 2024,19:30,CEST/+0200,TWL Elektra,3-1,3-0,ASV Draßburg,2024-05-03T17:30Z
+26,Fri May 3 2024,19:30,CEST/+0200,Wiener Sport-Club,0-4,0-1,Rapid Wien II,2024-05-03T17:30Z
+26,Sat May 4 2024,16:00,CEST/+0200,FC Mauerwerk,2-1,1-0,SV Leobendorf,2024-05-04T14:00Z
+26,Sat May 4 2024,15:30,CEST/+0200,SR Donaufeld,4-2,4-0,Austria Wien II,2024-05-04T13:30Z
+27,Thu May 9 2024,17:30,CEST/+0200,SV Leobendorf,1-0,1-0,SC Neusiedl/See 1919,2024-05-09T15:30Z
+27,Fri May 10 2024,19:00,CEST/+0200,FC Marchfeld Donauauen,3-1,2-1,Favoritner AC,2024-05-10T17:00Z
+27,Fri May 10 2024,19:30,CEST/+0200,Rapid Wien II,4-0,1-0,FC Mauerwerk,2024-05-10T17:30Z
+27,Fri May 10 2024,19:30,CEST/+0200,SCU Ardagger,0-2,0-1,SR Donaufeld,2024-05-10T17:30Z
+27,Fri May 10 2024,19:30,CEST/+0200,Austria Wien II,0-1,0-1,ASV Draßburg,2024-05-10T17:30Z
+27,Fri May 10 2024,19:30,CEST/+0200,FCM Traiskirchen,2-2,2-1,Kremser SC,2024-05-10T17:30Z
+27,Fri May 10 2024,19:30,CEST/+0200,Wiener Sport-Club,2-1,2-1,TWL Elektra,2024-05-10T17:30Z
+27,Sat May 11 2024,16:00,CEST/+0200,SC Wiener Viktoria,1-1,0-0,SV Oberwart,2024-05-11T14:00Z
+28,Fri May 17 2024,19:30,CEST/+0200,Favoritner AC,1-1,0-0,SV Leobendorf,2024-05-17T17:30Z
+28,Fri May 17 2024,19:30,CEST/+0200,SV Oberwart,2-0,1-0,FC Marchfeld Donauauen,2024-05-17T17:30Z
+28,Fri May 17 2024,19:30,CEST/+0200,TWL Elektra,3-3,1-3,Austria Wien II,2024-05-17T17:30Z
+28,Fri May 17 2024,20:00,CEST/+0200,ASV Draßburg,1-1,1-0,SCU Ardagger,2024-05-17T18:00Z
+28,Fri May 17 2024,20:00,CEST/+0200,SC Neusiedl/See 1919,0-4,0-2,Rapid Wien II,2024-05-17T18:00Z
+28,Sat May 18 2024,16:00,CEST/+0200,FC Mauerwerk,1-0,1-0,Wiener Sport-Club,2024-05-18T14:00Z
+28,Sat May 18 2024,15:30,CEST/+0200,SR Donaufeld,2-2,0-1,FCM Traiskirchen,2024-05-18T13:30Z
+28,Mon May 20 2024,17:00,CEST/+0200,Kremser SC,0-3,0-1,SC Wiener Viktoria,2024-05-20T15:00Z
+29,Fri May 24 2024,19:00,CEST/+0200,FC Marchfeld Donauauen,3-2,1-2,Kremser SC,2024-05-24T17:00Z
+29,Fri May 24 2024,19:30,CEST/+0200,SCU Ardagger,2-1,0-0,Austria Wien II,2024-05-24T17:30Z
+29,Fri May 24 2024,19:30,CEST/+0200,FCM Traiskirchen,1-1,0-0,ASV Draßburg,2024-05-24T17:30Z
+29,Fri May 24 2024,19:30,CEST/+0200,Wiener Sport-Club,2-2,0-1,SC Neusiedl/See 1919,2024-05-24T17:30Z
+29,Sat May 25 2024,16:00,CEST/+0200,FC Mauerwerk,1-1,0-1,TWL Elektra,2024-05-25T14:00Z
+29,Sat May 25 2024,16:00,CEST/+0200,SC Wiener Viktoria,3-2,2-1,SR Donaufeld,2024-05-25T14:00Z
+29,Sat May 25 2024,17:30,CEST/+0200,SV Leobendorf,0-5,0-3,SV Oberwart,2024-05-25T15:30Z
+29,Sat May 25 2024,16:00,CEST/+0200,Rapid Wien II,2-0,1-0,Favoritner AC,2024-05-25T14:00Z
+30,Fri May 31 2024,18:00,CEST/+0200,SR Donaufeld,1-0,0-0,FC Marchfeld Donauauen,2024-05-31T16:00Z
+30,Fri May 31 2024,19:30,CEST/+0200,ASV Draßburg,3-0,2-0,SC Wiener Viktoria,2024-05-31T17:30Z
+30,Fri May 31 2024,19:30,CEST/+0200,SC Neusiedl/See 1919,1-2,1-0,FC Mauerwerk,2024-05-31T17:30Z
+30,Fri May 31 2024,19:30,CEST/+0200,FCM Traiskirchen,0-3,0-1,Austria Wien II,2024-05-31T17:30Z
+30,Fri May 31 2024,19:30,CEST/+0200,Favoritner AC,4-5,1-3,Wiener Sport-Club,2024-05-31T17:30Z
+30,Fri May 31 2024,19:30,CEST/+0200,SV Oberwart,2-4,0-2,Rapid Wien II,2024-05-31T17:30Z
+30,Fri May 31 2024,19:30,CEST/+0200,TWL Elektra,0-2,0-1,SCU Ardagger,2024-05-31T17:30Z
+30,Mon Jun 3 2024,19:00,CEST/+0200,Kremser SC,1-1,0-0,SV Leobendorf,2024-06-03T17:00Z

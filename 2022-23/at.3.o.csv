@@ -1,241 +1,241 @@
-Round,Date,Time,Team 1,FT,HT,Team 2,Comments
-1,Fri Jul 29 2022,19:00,SC Neusiedl/See 1919,6-0,3-0,ASV Draßburg,
-1,Fri Jul 29 2022,19:30,SV Leobendorf,1-4,1-2,FC Marchfeld Donauauen,
-1,Fri Jul 29 2022,19:30,FCM Traiskirchen,1-2,1-0,Kremser SC,
-1,Fri Jul 29 2022,19:00,USV Scheiblingkirchen-Warth,4-1,4-1,1. Wiener Neustädter SC,
-1,Sat Jul 30 2022,17:30,SV Stripfing/Weiden,4-1,1-1,Wiener Sport-Club,
-1,Sat Jul 30 2022,18:00,TWL Elektra,4-1,1-0,SC Wiener Viktoria,
-1,Sat Jul 30 2022,18:30,ASK-BSC Bruck/Leitha,2-1,2-0,ASV Siegendorf,
-1,Sat Jul 30 2022,17:30,SR Donaufeld,1-2,1-0,FC Mauerwerk,
-2,Fri Aug 5 2022,19:00,FC Marchfeld Donauauen,1-1,1-1,TWL Elektra,
-2,Fri Aug 5 2022,19:00,ASV Draßburg,0-1,0-0,ASV Siegendorf,
-2,Fri Aug 5 2022,19:30,1. Wiener Neustädter SC,2-3,1-1,SV Stripfing/Weiden,
-2,Fri Aug 5 2022,19:30,Wiener Sport-Club,2-1,1-0,FCM Traiskirchen,
-2,Fri Aug 5 2022,20:00,SC Neusiedl/See 1919,3-3,3-0,USV Scheiblingkirchen-Warth,
-2,Fri Aug 5 2022,20:00,Kremser SC,4-6,2-4,SR Donaufeld,
-2,Sat Aug 6 2022,17:30,FC Mauerwerk,2-2,1-2,SV Leobendorf,
-2,Sat Aug 6 2022,17:30,SC Wiener Viktoria,5-1,3-0,ASK-BSC Bruck/Leitha,
-3,Fri Aug 12 2022,19:00,ASK-BSC Bruck/Leitha,1-2,1-1,FC Marchfeld Donauauen,
-3,Fri Aug 12 2022,19:00,USV Scheiblingkirchen-Warth,1-1,0-0,ASV Draßburg,
-3,Fri Aug 12 2022,19:00,ASV Siegendorf,2-0,1-0,SC Wiener Viktoria,
-3,Fri Aug 12 2022,19:30,TWL Elektra,6-0,3-0,FC Mauerwerk,
-3,Fri Aug 12 2022,19:30,FCM Traiskirchen,3-2,2-0,1. Wiener Neustädter SC,
-3,Sat Aug 13 2022,17:30,SR Donaufeld,0-1,0-0,Wiener Sport-Club,
-3,Sat Aug 13 2022,18:30,SV Leobendorf,4-1,1-0,Kremser SC,
-3,Sat Aug 13 2022,17:30,SV Stripfing/Weiden,2-0,0-0,SC Neusiedl/See 1919,
-4,Fri Aug 19 2022,19:00,FC Marchfeld Donauauen,2-1,1-0,ASV Siegendorf,
-4,Fri Aug 19 2022,19:00,ASV Draßburg,1-1,0-0,SC Wiener Viktoria,
-4,Fri Aug 19 2022,19:00,USV Scheiblingkirchen-Warth,2-2,1-1,SV Stripfing/Weiden,
-4,Fri Aug 19 2022,19:30,Wiener Sport-Club,3-1,2-1,SV Leobendorf,
-4,Fri Aug 19 2022,19:30,1. Wiener Neustädter SC,2-3,0-2,SR Donaufeld,
-4,Fri Aug 19 2022,20:00,SC Neusiedl/See 1919,0-2,0-2,FCM Traiskirchen,
-4,Fri Aug 19 2022,20:00,Kremser SC,0-1,0-1,TWL Elektra,
-4,Sat Aug 20 2022,17:30,FC Mauerwerk,5-2,0-2,ASK-BSC Bruck/Leitha,
-5,Fri Aug 26 2022,19:00,ASK-BSC Bruck/Leitha,4-1,2-0,Kremser SC,
-5,Fri Aug 26 2022,19:00,ASV Siegendorf,0-1,0-0,FC Mauerwerk,
-5,Fri Aug 26 2022,19:30,FCM Traiskirchen,2-0,1-0,USV Scheiblingkirchen-Warth,
-5,Fri Aug 26 2022,19:30,TWL Elektra,1-0,0-0,Wiener Sport-Club,
-5,Sat Aug 27 2022,17:30,SC Wiener Viktoria,2-1,1-1,FC Marchfeld Donauauen,
-5,Sat Aug 27 2022,17:30,SV Stripfing/Weiden,5-0,2-0,ASV Draßburg,
-5,Sat Aug 27 2022,17:30,SV Leobendorf,1-1,1-1,1. Wiener Neustädter SC,
-5,Sat Aug 27 2022,17:30,SR Donaufeld,2-1,0-0,SC Neusiedl/See 1919,
-6,Fri Sep 2 2022,19:00,ASV Draßburg,4-3,2-1,FC Marchfeld Donauauen,
-6,Fri Sep 2 2022,19:30,Wiener Sport-Club,1-0,1-0,ASK-BSC Bruck/Leitha,
-6,Fri Sep 2 2022,19:30,TWL Elektra,2-1,2-1,1. Wiener Neustädter SC,
-6,Fri Sep 2 2022,20:00,SC Neusiedl/See 1919,2-1,2-0,SV Leobendorf,
-6,Fri Sep 2 2022,20:00,USV Scheiblingkirchen-Warth,3-2,3-0,SR Donaufeld,
-6,Sat Sep 3 2022,16:30,SV Stripfing/Weiden,3-0,2-0,FCM Traiskirchen,
-6,Sat Sep 3 2022,20:00,Kremser SC,3-0,3-0,ASV Siegendorf,
-6,Sat Sep 3 2022,16:30,FC Mauerwerk,2-2,1-2,SC Wiener Viktoria,
-7,Fri Sep 9 2022,19:00,FC Marchfeld Donauauen,1-2,0-0,FC Mauerwerk,
-7,Fri Sep 9 2022,19:00,ASK-BSC Bruck/Leitha,2-3,2-2,1. Wiener Neustädter SC,
-7,Fri Sep 9 2022,19:30,ASV Siegendorf,3-0,2-0,Wiener Sport-Club,
-7,Fri Sep 9 2022,19:30,FCM Traiskirchen,1-0,1-0,ASV Draßburg,
-7,Sat Sep 10 2022,16:30,SC Wiener Viktoria,1-1,1-1,Kremser SC,
-7,Sat Sep 10 2022,16:30,SR Donaufeld,0-2,0-2,SV Stripfing/Weiden,
-7,Sat Sep 10 2022,16:30,TWL Elektra,1-1,1-0,SC Neusiedl/See 1919,
-7,Sun Sep 11 2022,15:00,SV Leobendorf,0-2,0-1,USV Scheiblingkirchen-Warth,
-8,Fri Sep 16 2022,18:30,FCM Traiskirchen,2-2,2-2,SR Donaufeld,
-8,Fri Sep 16 2022,19:00,ASV Draßburg,1-2,0-0,FC Mauerwerk,
-8,Fri Sep 16 2022,19:30,1. Wiener Neustädter SC,2-1,2-0,ASV Siegendorf,
-8,Fri Sep 16 2022,19:30,Wiener Sport-Club,2-0,1-0,SC Wiener Viktoria,
-8,Fri Sep 16 2022,20:00,SC Neusiedl/See 1919,2-2,1-0,ASK-BSC Bruck/Leitha,
-8,Fri Sep 16 2022,20:00,Kremser SC,1-2,1-1,FC Marchfeld Donauauen,
-8,Sat Sep 17 2022,16:30,SV Stripfing/Weiden,3-1,3-1,SV Leobendorf,
-8,Sat Sep 17 2022,16:30,USV Scheiblingkirchen-Warth,2-1,0-1,TWL Elektra,
-9,Fri Sep 23 2022,19:00,ASV Siegendorf,0-2,0-2,SC Neusiedl/See 1919,
-9,Fri Sep 23 2022,19:00,FC Marchfeld Donauauen,1-1,1-0,Wiener Sport-Club,
-9,Fri Sep 23 2022,19:00,ASK-BSC Bruck/Leitha,1-0,0-0,USV Scheiblingkirchen-Warth,
-9,Fri Sep 23 2022,19:30,TWL Elektra,1-0,0-0,SV Stripfing/Weiden,
-9,Sat Sep 24 2022,16:30,SV Leobendorf,1-0,0-0,FCM Traiskirchen,
-9,Sat Sep 24 2022,16:30,SC Wiener Viktoria,2-0,1-0,1. Wiener Neustädter SC,
-9,Sat Sep 24 2022,16:30,FC Mauerwerk,5-0,2-0,Kremser SC,
-9,Sat Sep 24 2022,16:30,SR Donaufeld,0-1,0-1,ASV Draßburg,
-10,Fri Sep 30 2022,19:00,ASV Draßburg,3-0,1-0,Kremser SC,
-10,Fri Sep 30 2022,19:30,FCM Traiskirchen,0-2,0-0,TWL Elektra,
-10,Fri Sep 30 2022,19:30,Wiener Sport-Club,2-0,1-0,FC Mauerwerk,
-10,Fri Sep 30 2022,20:00,SC Neusiedl/See 1919,1-1,0-0,SC Wiener Viktoria,
-10,Fri Sep 30 2022,20:00,1. Wiener Neustädter SC,0-1,0-0,FC Marchfeld Donauauen,
-10,Sat Oct 1 2022,16:30,SV Stripfing/Weiden,7-0,4-0,ASK-BSC Bruck/Leitha,
-10,Sat Oct 1 2022,16:30,SR Donaufeld,2-0,1-0,SV Leobendorf,
-10,Sun Oct 2 2022,14:00,USV Scheiblingkirchen-Warth,2-1,0-0,ASV Siegendorf,
-11,Fri Oct 7 2022,19:00,ASV Siegendorf,0-2,0-1,SV Stripfing/Weiden,
-11,Fri Oct 7 2022,19:00,ASK-BSC Bruck/Leitha,2-2,1-0,FCM Traiskirchen,
-11,Fri Oct 7 2022,19:00,FC Marchfeld Donauauen,1-0,1-0,SC Neusiedl/See 1919,
-11,Fri Oct 7 2022,19:30,TWL Elektra,5-0,2-0,SR Donaufeld,
-11,Fri Oct 7 2022,20:00,Kremser SC,1-1,0-0,Wiener Sport-Club,
-11,Sat Oct 8 2022,16:30,FC Mauerwerk,1-2,0-1,1. Wiener Neustädter SC,
-11,Sat Oct 8 2022,16:30,SC Wiener Viktoria,3-2,1-0,USV Scheiblingkirchen-Warth,
-11,Sat Oct 8 2022,15:00,SV Leobendorf,1-0,1-0,ASV Draßburg,
-12,Fri Oct 14 2022,19:00,SC Neusiedl/See 1919,1-2,1-1,FC Mauerwerk,
-12,Fri Oct 14 2022,19:00,ASV Draßburg,1-0,0-0,Wiener Sport-Club,
-12,Fri Oct 14 2022,19:30,FCM Traiskirchen,2-2,1-0,ASV Siegendorf,
-12,Fri Oct 14 2022,20:00,1. Wiener Neustädter SC,0-1,0-0,Kremser SC,
-12,Sat Oct 15 2022,15:30,SR Donaufeld,2-0,1-0,ASK-BSC Bruck/Leitha,
-12,Sat Oct 15 2022,15:30,SV Stripfing/Weiden,1-0,0-0,SC Wiener Viktoria,
-12,Sat Oct 15 2022,16:00,SV Leobendorf,0-5,0-3,TWL Elektra,
-12,Sat Oct 15 2022,15:30,USV Scheiblingkirchen-Warth,1-2,1-2,FC Marchfeld Donauauen,
-13,Fri Oct 21 2022,19:00,ASK-BSC Bruck/Leitha,1-3,1-1,SV Leobendorf,
-13,Fri Oct 21 2022,19:00,ASV Siegendorf,2-3,1-2,SR Donaufeld,
-13,Fri Oct 21 2022,19:00,FC Marchfeld Donauauen,1-3,1-0,SV Stripfing/Weiden,
-13,Fri Oct 21 2022,19:30,TWL Elektra,4-2,2-1,ASV Draßburg,
-13,Fri Oct 21 2022,20:00,Kremser SC,4-2,1-0,SC Neusiedl/See 1919,
-13,Sat Oct 22 2022,15:30,FC Mauerwerk,1-0,0-0,USV Scheiblingkirchen-Warth,
-13,Sat Oct 22 2022,15:30,SC Wiener Viktoria,2-3,2-2,FCM Traiskirchen,
-13,Tue Oct 25 2022,19:30,Wiener Sport-Club,4-0,0-0,1. Wiener Neustädter SC,
-14,Fri Oct 28 2022,19:00,USV Scheiblingkirchen-Warth,2-3,0-3,Kremser SC,
-14,Fri Oct 28 2022,19:30,FCM Traiskirchen,0-3,0-1,FC Marchfeld Donauauen,
-14,Fri Oct 28 2022,19:30,TWL Elektra,1-1,0-0,ASK-BSC Bruck/Leitha,
-14,Fri Oct 28 2022,20:00,SC Neusiedl/See 1919,3-3,1-1,Wiener Sport-Club,
-14,Sat Oct 29 2022,15:00,SR Donaufeld,2-0,1-0,SC Wiener Viktoria,
-14,Sat Oct 29 2022,16:00,SV Leobendorf,1-1,0-0,ASV Siegendorf,
-14,Sat Oct 29 2022,16:00,ASV Draßburg,2-0,2-0,1. Wiener Neustädter SC,
-14,Sat Oct 29 2022,15:00,SV Stripfing/Weiden,4-0,0-0,FC Mauerwerk,
-15,Fri Nov 4 2022,19:00,ASK-BSC Bruck/Leitha,0-2,0-2,ASV Draßburg,
-15,Fri Nov 4 2022,19:00,FC Marchfeld Donauauen,0-1,0-1,SR Donaufeld,
-15,Fri Nov 4 2022,19:30,1. Wiener Neustädter SC,1-3,0-1,SC Neusiedl/See 1919,
-15,Fri Nov 4 2022,19:30,Wiener Sport-Club,1-1,0-0,USV Scheiblingkirchen-Warth,
-15,Fri Nov 4 2022,20:00,Kremser SC,0-3,0-1,SV Stripfing/Weiden,
-15,Sat Nov 5 2022,14:00,SC Wiener Viktoria,2-0,0-0,SV Leobendorf,
-15,Sat Nov 5 2022,15:00,ASV Siegendorf,0-1,0-1,TWL Elektra,
-15,Sat Nov 5 2022,14:00,FC Mauerwerk,5-0,2-0,FCM Traiskirchen,
-16,Fri Nov 11 2022,19:00,FC Marchfeld Donauauen,2-2,0-0,SV Leobendorf,
-16,Fri Nov 11 2022,19:30,1. Wiener Neustädter SC,1-2,1-1,USV Scheiblingkirchen-Warth,
-16,Fri Nov 11 2022,19:30,Wiener Sport-Club,0-2,0-1,SV Stripfing/Weiden,
-16,Fri Nov 11 2022,20:00,Kremser SC,0-1,0-0,FCM Traiskirchen,
-16,Sat Nov 12 2022,14:00,SC Wiener Viktoria,4-1,2-1,TWL Elektra,
-16,Sat Nov 12 2022,15:00,ASV Siegendorf,1-0,1-0,ASK-BSC Bruck/Leitha,
-16,Sat Nov 12 2022,15:00,ASV Draßburg,3-0,2-0,SC Neusiedl/See 1919,
-16,Sat Nov 12 2022,14:00,FC Mauerwerk,2-1,0-0,SR Donaufeld,
-17,Fri Feb 24 2023,,ASK-BSC Bruck/Leitha,0-3 (*),,SC Wiener Viktoria,awd.
-17,Fri Feb 24 2023,19:30,FCM Traiskirchen,0-0,0-0,Wiener Sport-Club,
-17,Fri Feb 24 2023,19:30,TWL Elektra,1-0,0-0,FC Marchfeld Donauauen,
-17,Sat Feb 25 2023,14:30,SV Stripfing/Weiden,4-0,1-0,1. Wiener Neustädter SC,
-17,Sat Feb 25 2023,15:00,ASV Siegendorf,1-1,1-1,ASV Draßburg,
-17,Sat Feb 25 2023,15:00,USV Scheiblingkirchen-Warth,1-1,1-0,SC Neusiedl/See 1919,
-17,Sat Feb 25 2023,15:00,SV Leobendorf,2-0,0-0,FC Mauerwerk,
-17,Sat Feb 25 2023,14:00,SR Donaufeld,2-0,1-0,Kremser SC,
-18,Fri Mar 3 2023,,FC Marchfeld Donauauen,3-0 (*),,ASK-BSC Bruck/Leitha,awd.
-18,Fri Mar 3 2023,19:00,SC Neusiedl/See 1919,2-1,2-1,SV Stripfing/Weiden,
-18,Fri Mar 3 2023,19:30,Wiener Sport-Club,1-1,0-0,SR Donaufeld,
-18,Fri Mar 3 2023,19:30,Kremser SC,1-0,0-0,SV Leobendorf,
-18,Fri Mar 3 2023,19:30,1. Wiener Neustädter SC,0-3,0-3,FCM Traiskirchen,
-18,Sat Mar 4 2023,15:00,ASV Draßburg,3-3,1-0,USV Scheiblingkirchen-Warth,
-18,Sat Mar 4 2023,15:30,SC Wiener Viktoria,1-0,0-0,ASV Siegendorf,
-18,Sat Mar 4 2023,13:00,FC Mauerwerk,1-4,1-1,TWL Elektra,
-19,Fri Mar 10 2023,,ASK-BSC Bruck/Leitha,0-3 (*),,FC Mauerwerk,awd.
-19,Fri Mar 10 2023,19:30,FCM Traiskirchen,1-0,0-0,SC Neusiedl/See 1919,
-19,Fri Mar 10 2023,19:30,TWL Elektra,1-0,1-0,Kremser SC,
-19,Sat Mar 11 2023,15:00,ASV Siegendorf,1-3,1-1,FC Marchfeld Donauauen,
-19,Sat Mar 11 2023,15:00,SV Stripfing/Weiden,1-2,0-2,USV Scheiblingkirchen-Warth,
-19,Sat Mar 11 2023,15:30,SC Wiener Viktoria,2-2,1-0,ASV Draßburg,
-19,Sat Mar 11 2023,16:00,SV Leobendorf,1-0,0-0,Wiener Sport-Club,
-19,Sat Mar 11 2023,14:00,SR Donaufeld,5-2,2-1,1. Wiener Neustädter SC,
-20,Fri Mar 17 2023,,Kremser SC,3-0 (*),,ASK-BSC Bruck/Leitha,awd.
-20,Fri Mar 17 2023,19:00,SC Neusiedl/See 1919,1-0,0-0,SR Donaufeld,
-20,Fri Mar 17 2023,19:00,ASV Draßburg,0-4,0-2,SV Stripfing/Weiden,
-20,Fri Mar 17 2023,19:30,FC Marchfeld Donauauen,2-2,0-1,SC Wiener Viktoria,
-20,Fri Mar 17 2023,19:30,1. Wiener Neustädter SC,1-1,1-0,SV Leobendorf,
-20,Fri Mar 17 2023,19:30,Wiener Sport-Club,0-0,0-0,TWL Elektra,
-20,Fri Mar 17 2023,20:00,FC Mauerwerk,2-5,0-5,ASV Siegendorf,
-20,Sat Mar 18 2023,14:00,USV Scheiblingkirchen-Warth,0-1,0-0,FCM Traiskirchen,
-21,Fri Mar 24 2023,18:45,FC Marchfeld Donauauen,3-1,1-0,ASV Draßburg,
-21,Fri Mar 24 2023,,ASK-BSC Bruck/Leitha,0-3 (*),,Wiener Sport-Club,awd.
-21,Sat Mar 25 2023,14:00,SR Donaufeld,3-0,1-0,USV Scheiblingkirchen-Warth,
-21,Sat Mar 25 2023,15:00,ASV Siegendorf,1-2,0-2,Kremser SC,
-21,Sat Mar 25 2023,15:00,1. Wiener Neustädter SC,1-2,1-1,TWL Elektra,
-21,Sat Mar 25 2023,15:30,FCM Traiskirchen,0-0,0-0,SV Stripfing/Weiden,
-21,Sat Mar 25 2023,16:00,SC Wiener Viktoria,1-1,1-1,FC Mauerwerk,
-21,Sat Mar 25 2023,16:00,SV Leobendorf,1-1,0-0,SC Neusiedl/See 1919,
-22,Fri Mar 31 2023,,1. Wiener Neustädter SC,3-0 (*),,ASK-BSC Bruck/Leitha,awd.
-22,Fri Mar 31 2023,19:00,ASV Draßburg,0-2,0-1,FCM Traiskirchen,
-22,Fri Mar 31 2023,19:00,SC Neusiedl/See 1919,4-2,2-0,TWL Elektra,
-22,Fri Mar 31 2023,19:00,USV Scheiblingkirchen-Warth,0-1,0-1,SV Leobendorf,
-22,Fri Mar 31 2023,19:30,Wiener Sport-Club,2-1,1-0,ASV Siegendorf,
-22,Fri Mar 31 2023,19:30,Kremser SC,1-1,0-1,SC Wiener Viktoria,
-22,Fri Mar 31 2023,20:00,FC Mauerwerk,5-1,0-0,FC Marchfeld Donauauen,
-22,Sat Apr 1 2023,16:30,SV Stripfing/Weiden,1-2,0-0,SR Donaufeld,
-23,Fri Apr 7 2023,19:00,ASV Siegendorf,1-0,1-0,1. Wiener Neustädter SC,
-23,Fri Apr 7 2023,19:30,FC Marchfeld Donauauen,1-3,1-0,Kremser SC,
-23,Fri Apr 7 2023,19:30,TWL Elektra,1-0,1-0,USV Scheiblingkirchen-Warth,
-23,Fri Apr 7 2023,20:00,FC Mauerwerk,1-3,1-0,ASV Draßburg,
-23,Fri Apr 7 2023,19:00,ASK-BSC Bruck/Leitha,0-3 (*),,SC Neusiedl/See 1919,awd.
-23,Sat Apr 8 2023,16:00,SR Donaufeld,1-0,0-0,FCM Traiskirchen,
-23,Sat Apr 8 2023,16:30,SC Wiener Viktoria,3-2,1-0,Wiener Sport-Club,
-23,Sat Apr 8 2023,17:00,SV Leobendorf,1-1,0-1,SV Stripfing/Weiden,
-24,Fri Apr 14 2023,19:00,SC Neusiedl/See 1919,0-2,0-0,ASV Siegendorf,
-24,Sat Apr 15 2023,16:30,SV Stripfing/Weiden,6-0,2-0,TWL Elektra,
-24,Sat Apr 15 2023,,USV Scheiblingkirchen-Warth,3-0 (*),,ASK-BSC Bruck/Leitha,awd.
-24,Sun Apr 16 2023,16:00,Wiener Sport-Club,3-1,1-0,FC Marchfeld Donauauen,
-24,Sun Apr 16 2023,14:30,1. Wiener Neustädter SC,3-2,1-0,SC Wiener Viktoria,
-24,Tue Apr 18 2023,19:30,Kremser SC,2-1,1-1,FC Mauerwerk,
-24,Tue Apr 18 2023,19:30,FCM Traiskirchen,1-0,0-0,SV Leobendorf,
-24,Tue Apr 18 2023,19:30,ASV Draßburg,1-1,1-0,SR Donaufeld,
-25,Fri Apr 21 2023,19:00,ASV Siegendorf,2-1,1-0,USV Scheiblingkirchen-Warth,
-25,Fri Apr 21 2023,19:00,ASK-BSC Bruck/Leitha,0-3 (*),,SV Stripfing/Weiden,awd.
-25,Fri Apr 21 2023,19:30,TWL Elektra,2-0,0-0,FCM Traiskirchen,
-25,Fri Apr 21 2023,19:30,FC Marchfeld Donauauen,1-4,1-2,1. Wiener Neustädter SC,
-25,Fri Apr 21 2023,20:00,Kremser SC,3-1,2-0,ASV Draßburg,
-25,Fri Apr 21 2023,20:00,FC Mauerwerk,0-2,0-1,Wiener Sport-Club,
-25,Sat Apr 22 2023,17:00,SV Leobendorf,2-2,0-0,SR Donaufeld,
-25,Sat Apr 22 2023,16:30,SC Wiener Viktoria,2-1,1-1,SC Neusiedl/See 1919,
-26,Fri Apr 28 2023,19:00,SC Neusiedl/See 1919,1-3,0-1,FC Marchfeld Donauauen,
-26,Fri Apr 28 2023,19:00,ASV Draßburg,0-1,0-1,SV Leobendorf,
-26,Fri Apr 28 2023,19:30,FCM Traiskirchen,3-0 (*),,ASK-BSC Bruck/Leitha,awd.
-26,Fri Apr 28 2023,19:30,Wiener Sport-Club,1-1,0-0,Kremser SC,
-26,Sat Apr 29 2023,18:00,1. Wiener Neustädter SC,2-2,2-2,FC Mauerwerk,
-26,Sat Apr 29 2023,16:30,SV Stripfing/Weiden,3-1,1-0,ASV Siegendorf,
-26,Sun Apr 30 2023,14:00,USV Scheiblingkirchen-Warth,2-2,0-0,SC Wiener Viktoria,
-26,Tue May 2 2023,18:00,SR Donaufeld,4-1,1-0,TWL Elektra,
-27,Fri May 5 2023,19:00,ASK-BSC Bruck/Leitha,0-3 (*),,SR Donaufeld,awd.
-27,Fri May 5 2023,19:00,ASV Siegendorf,1-0,0-0,FCM Traiskirchen,
-27,Fri May 5 2023,19:30,Wiener Sport-Club,2-1,2-1,ASV Draßburg,
-27,Fri May 5 2023,19:30,TWL Elektra,0-0,0-0,SV Leobendorf,
-27,Fri May 5 2023,19:30,FC Marchfeld Donauauen,2-2,1-1,USV Scheiblingkirchen-Warth,
-27,Fri May 5 2023,20:00,Kremser SC,3-3,2-1,1. Wiener Neustädter SC,
-27,Fri May 5 2023,20:00,FC Mauerwerk,1-3,1-1,SC Neusiedl/See 1919,
-27,Sat May 6 2023,16:30,SC Wiener Viktoria,1-6,0-3,SV Stripfing/Weiden,
-28,Fri May 12 2023,19:00,SC Neusiedl/See 1919,0-2,0-0,Kremser SC,
-28,Fri May 12 2023,19:00,ASV Draßburg,2-1,0-1,TWL Elektra,
-28,Fri May 12 2023,19:00,USV Scheiblingkirchen-Warth,2-2,1-0,FC Mauerwerk,
-28,Fri May 12 2023,19:00,SV Leobendorf,3-0 (*),,ASK-BSC Bruck/Leitha,awd.
-28,Fri May 12 2023,19:30,1. Wiener Neustädter SC,0-3,0-1,Wiener Sport-Club,
-28,Sat May 13 2023,17:00,SV Stripfing/Weiden,3-1,3-1,FC Marchfeld Donauauen,
-28,Sat May 13 2023,16:00,SR Donaufeld,1-2,0-0,ASV Siegendorf,
-29,Thu May 18 2023,16:00,1. Wiener Neustädter SC,0-1,0-0,ASV Draßburg,
-29,Fri May 19 2023,20:00,FC Mauerwerk,1-4,0-2,SV Stripfing/Weiden,
-29,Fri May 19 2023,19:00,ASK-BSC Bruck/Leitha,0-3 (*),,TWL Elektra,awd.
-29,Fri May 19 2023,19:30,Kremser SC,3-0,2-0,USV Scheiblingkirchen-Warth,
-29,Fri May 19 2023,19:30,Wiener Sport-Club,1-1,0-0,SC Neusiedl/See 1919,
-29,Fri May 19 2023,19:30,FC Marchfeld Donauauen,5-3,2-2,FCM Traiskirchen,
-29,Sat May 20 2023,16:30,SC Wiener Viktoria,0-2,0-0,SR Donaufeld,
-29,Sun May 21 2023,16:00,ASV Siegendorf,0-4,0-2,SV Leobendorf,
-28,Tue May 23 2023,19:30,FCM Traiskirchen,3-0,2-0,SC Wiener Viktoria,
-30,Fri May 26 2023,18:00,SR Donaufeld,2-3,1-2,FC Marchfeld Donauauen,
-30,Fri May 26 2023,19:00,ASV Draßburg,3-0 (*),,ASK-BSC Bruck/Leitha,awd.
-30,Fri May 26 2023,19:30,SC Neusiedl/See 1919,4-0,2-0,1. Wiener Neustädter SC,
-30,Fri May 26 2023,19:30,USV Scheiblingkirchen-Warth,1-1,1-1,Wiener Sport-Club,
-30,Fri May 26 2023,19:30,FCM Traiskirchen,7-0,4-0,FC Mauerwerk,
-30,Fri May 26 2023,19:30,TWL Elektra,0-1,0-1,ASV Siegendorf,
-30,Sat May 27 2023,17:30,SV Stripfing/Weiden,3-1,0-1,Kremser SC,
-30,Sat May 27 2023,16:30,SV Leobendorf,2-1,1-0,SC Wiener Viktoria,
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Jul 29 2022,19:00,CEST/+0200,SC Neusiedl/See 1919,6-0,3-0,ASV Draßburg,,2022-07-29T17:00Z
+1,Fri Jul 29 2022,19:30,CEST/+0200,SV Leobendorf,1-4,1-2,FC Marchfeld Donauauen,,2022-07-29T17:30Z
+1,Fri Jul 29 2022,19:30,CEST/+0200,FCM Traiskirchen,1-2,1-0,Kremser SC,,2022-07-29T17:30Z
+1,Fri Jul 29 2022,19:00,CEST/+0200,USV Scheiblingkirchen-Warth,4-1,4-1,1. Wiener Neustädter SC,,2022-07-29T17:00Z
+1,Sat Jul 30 2022,17:30,CEST/+0200,SV Stripfing/Weiden,4-1,1-1,Wiener Sport-Club,,2022-07-30T15:30Z
+1,Sat Jul 30 2022,18:00,CEST/+0200,TWL Elektra,4-1,1-0,SC Wiener Viktoria,,2022-07-30T16:00Z
+1,Sat Jul 30 2022,18:30,CEST/+0200,ASK-BSC Bruck/Leitha,2-1,2-0,ASV Siegendorf,,2022-07-30T16:30Z
+1,Sat Jul 30 2022,17:30,CEST/+0200,SR Donaufeld,1-2,1-0,FC Mauerwerk,,2022-07-30T15:30Z
+2,Fri Aug 5 2022,19:00,CEST/+0200,FC Marchfeld Donauauen,1-1,1-1,TWL Elektra,,2022-08-05T17:00Z
+2,Fri Aug 5 2022,19:00,CEST/+0200,ASV Draßburg,0-1,0-0,ASV Siegendorf,,2022-08-05T17:00Z
+2,Fri Aug 5 2022,19:30,CEST/+0200,1. Wiener Neustädter SC,2-3,1-1,SV Stripfing/Weiden,,2022-08-05T17:30Z
+2,Fri Aug 5 2022,19:30,CEST/+0200,Wiener Sport-Club,2-1,1-0,FCM Traiskirchen,,2022-08-05T17:30Z
+2,Fri Aug 5 2022,20:00,CEST/+0200,SC Neusiedl/See 1919,3-3,3-0,USV Scheiblingkirchen-Warth,,2022-08-05T18:00Z
+2,Fri Aug 5 2022,20:00,CEST/+0200,Kremser SC,4-6,2-4,SR Donaufeld,,2022-08-05T18:00Z
+2,Sat Aug 6 2022,17:30,CEST/+0200,FC Mauerwerk,2-2,1-2,SV Leobendorf,,2022-08-06T15:30Z
+2,Sat Aug 6 2022,17:30,CEST/+0200,SC Wiener Viktoria,5-1,3-0,ASK-BSC Bruck/Leitha,,2022-08-06T15:30Z
+3,Fri Aug 12 2022,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,1-2,1-1,FC Marchfeld Donauauen,,2022-08-12T17:00Z
+3,Fri Aug 12 2022,19:00,CEST/+0200,USV Scheiblingkirchen-Warth,1-1,0-0,ASV Draßburg,,2022-08-12T17:00Z
+3,Fri Aug 12 2022,19:00,CEST/+0200,ASV Siegendorf,2-0,1-0,SC Wiener Viktoria,,2022-08-12T17:00Z
+3,Fri Aug 12 2022,19:30,CEST/+0200,TWL Elektra,6-0,3-0,FC Mauerwerk,,2022-08-12T17:30Z
+3,Fri Aug 12 2022,19:30,CEST/+0200,FCM Traiskirchen,3-2,2-0,1. Wiener Neustädter SC,,2022-08-12T17:30Z
+3,Sat Aug 13 2022,17:30,CEST/+0200,SR Donaufeld,0-1,0-0,Wiener Sport-Club,,2022-08-13T15:30Z
+3,Sat Aug 13 2022,18:30,CEST/+0200,SV Leobendorf,4-1,1-0,Kremser SC,,2022-08-13T16:30Z
+3,Sat Aug 13 2022,17:30,CEST/+0200,SV Stripfing/Weiden,2-0,0-0,SC Neusiedl/See 1919,,2022-08-13T15:30Z
+4,Fri Aug 19 2022,19:00,CEST/+0200,FC Marchfeld Donauauen,2-1,1-0,ASV Siegendorf,,2022-08-19T17:00Z
+4,Fri Aug 19 2022,19:00,CEST/+0200,ASV Draßburg,1-1,0-0,SC Wiener Viktoria,,2022-08-19T17:00Z
+4,Fri Aug 19 2022,19:00,CEST/+0200,USV Scheiblingkirchen-Warth,2-2,1-1,SV Stripfing/Weiden,,2022-08-19T17:00Z
+4,Fri Aug 19 2022,19:30,CEST/+0200,Wiener Sport-Club,3-1,2-1,SV Leobendorf,,2022-08-19T17:30Z
+4,Fri Aug 19 2022,19:30,CEST/+0200,1. Wiener Neustädter SC,2-3,0-2,SR Donaufeld,,2022-08-19T17:30Z
+4,Fri Aug 19 2022,20:00,CEST/+0200,SC Neusiedl/See 1919,0-2,0-2,FCM Traiskirchen,,2022-08-19T18:00Z
+4,Fri Aug 19 2022,20:00,CEST/+0200,Kremser SC,0-1,0-1,TWL Elektra,,2022-08-19T18:00Z
+4,Sat Aug 20 2022,17:30,CEST/+0200,FC Mauerwerk,5-2,0-2,ASK-BSC Bruck/Leitha,,2022-08-20T15:30Z
+5,Fri Aug 26 2022,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,4-1,2-0,Kremser SC,,2022-08-26T17:00Z
+5,Fri Aug 26 2022,19:00,CEST/+0200,ASV Siegendorf,0-1,0-0,FC Mauerwerk,,2022-08-26T17:00Z
+5,Fri Aug 26 2022,19:30,CEST/+0200,FCM Traiskirchen,2-0,1-0,USV Scheiblingkirchen-Warth,,2022-08-26T17:30Z
+5,Fri Aug 26 2022,19:30,CEST/+0200,TWL Elektra,1-0,0-0,Wiener Sport-Club,,2022-08-26T17:30Z
+5,Sat Aug 27 2022,17:30,CEST/+0200,SC Wiener Viktoria,2-1,1-1,FC Marchfeld Donauauen,,2022-08-27T15:30Z
+5,Sat Aug 27 2022,17:30,CEST/+0200,SV Stripfing/Weiden,5-0,2-0,ASV Draßburg,,2022-08-27T15:30Z
+5,Sat Aug 27 2022,17:30,CEST/+0200,SV Leobendorf,1-1,1-1,1. Wiener Neustädter SC,,2022-08-27T15:30Z
+5,Sat Aug 27 2022,17:30,CEST/+0200,SR Donaufeld,2-1,0-0,SC Neusiedl/See 1919,,2022-08-27T15:30Z
+6,Fri Sep 2 2022,19:00,CEST/+0200,ASV Draßburg,4-3,2-1,FC Marchfeld Donauauen,,2022-09-02T17:00Z
+6,Fri Sep 2 2022,19:30,CEST/+0200,Wiener Sport-Club,1-0,1-0,ASK-BSC Bruck/Leitha,,2022-09-02T17:30Z
+6,Fri Sep 2 2022,19:30,CEST/+0200,TWL Elektra,2-1,2-1,1. Wiener Neustädter SC,,2022-09-02T17:30Z
+6,Fri Sep 2 2022,20:00,CEST/+0200,SC Neusiedl/See 1919,2-1,2-0,SV Leobendorf,,2022-09-02T18:00Z
+6,Fri Sep 2 2022,20:00,CEST/+0200,USV Scheiblingkirchen-Warth,3-2,3-0,SR Donaufeld,,2022-09-02T18:00Z
+6,Sat Sep 3 2022,16:30,CEST/+0200,SV Stripfing/Weiden,3-0,2-0,FCM Traiskirchen,,2022-09-03T14:30Z
+6,Sat Sep 3 2022,20:00,CEST/+0200,Kremser SC,3-0,3-0,ASV Siegendorf,,2022-09-03T18:00Z
+6,Sat Sep 3 2022,16:30,CEST/+0200,FC Mauerwerk,2-2,1-2,SC Wiener Viktoria,,2022-09-03T14:30Z
+7,Fri Sep 9 2022,19:00,CEST/+0200,FC Marchfeld Donauauen,1-2,0-0,FC Mauerwerk,,2022-09-09T17:00Z
+7,Fri Sep 9 2022,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,2-3,2-2,1. Wiener Neustädter SC,,2022-09-09T17:00Z
+7,Fri Sep 9 2022,19:30,CEST/+0200,ASV Siegendorf,3-0,2-0,Wiener Sport-Club,,2022-09-09T17:30Z
+7,Fri Sep 9 2022,19:30,CEST/+0200,FCM Traiskirchen,1-0,1-0,ASV Draßburg,,2022-09-09T17:30Z
+7,Sat Sep 10 2022,16:30,CEST/+0200,SC Wiener Viktoria,1-1,1-1,Kremser SC,,2022-09-10T14:30Z
+7,Sat Sep 10 2022,16:30,CEST/+0200,SR Donaufeld,0-2,0-2,SV Stripfing/Weiden,,2022-09-10T14:30Z
+7,Sat Sep 10 2022,16:30,CEST/+0200,TWL Elektra,1-1,1-0,SC Neusiedl/See 1919,,2022-09-10T14:30Z
+7,Sun Sep 11 2022,15:00,CEST/+0200,SV Leobendorf,0-2,0-1,USV Scheiblingkirchen-Warth,,2022-09-11T13:00Z
+8,Fri Sep 16 2022,18:30,CEST/+0200,FCM Traiskirchen,2-2,2-2,SR Donaufeld,,2022-09-16T16:30Z
+8,Fri Sep 16 2022,19:00,CEST/+0200,ASV Draßburg,1-2,0-0,FC Mauerwerk,,2022-09-16T17:00Z
+8,Fri Sep 16 2022,19:30,CEST/+0200,1. Wiener Neustädter SC,2-1,2-0,ASV Siegendorf,,2022-09-16T17:30Z
+8,Fri Sep 16 2022,19:30,CEST/+0200,Wiener Sport-Club,2-0,1-0,SC Wiener Viktoria,,2022-09-16T17:30Z
+8,Fri Sep 16 2022,20:00,CEST/+0200,SC Neusiedl/See 1919,2-2,1-0,ASK-BSC Bruck/Leitha,,2022-09-16T18:00Z
+8,Fri Sep 16 2022,20:00,CEST/+0200,Kremser SC,1-2,1-1,FC Marchfeld Donauauen,,2022-09-16T18:00Z
+8,Sat Sep 17 2022,16:30,CEST/+0200,SV Stripfing/Weiden,3-1,3-1,SV Leobendorf,,2022-09-17T14:30Z
+8,Sat Sep 17 2022,16:30,CEST/+0200,USV Scheiblingkirchen-Warth,2-1,0-1,TWL Elektra,,2022-09-17T14:30Z
+9,Fri Sep 23 2022,19:00,CEST/+0200,ASV Siegendorf,0-2,0-2,SC Neusiedl/See 1919,,2022-09-23T17:00Z
+9,Fri Sep 23 2022,19:00,CEST/+0200,FC Marchfeld Donauauen,1-1,1-0,Wiener Sport-Club,,2022-09-23T17:00Z
+9,Fri Sep 23 2022,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,1-0,0-0,USV Scheiblingkirchen-Warth,,2022-09-23T17:00Z
+9,Fri Sep 23 2022,19:30,CEST/+0200,TWL Elektra,1-0,0-0,SV Stripfing/Weiden,,2022-09-23T17:30Z
+9,Sat Sep 24 2022,16:30,CEST/+0200,SV Leobendorf,1-0,0-0,FCM Traiskirchen,,2022-09-24T14:30Z
+9,Sat Sep 24 2022,16:30,CEST/+0200,SC Wiener Viktoria,2-0,1-0,1. Wiener Neustädter SC,,2022-09-24T14:30Z
+9,Sat Sep 24 2022,16:30,CEST/+0200,FC Mauerwerk,5-0,2-0,Kremser SC,,2022-09-24T14:30Z
+9,Sat Sep 24 2022,16:30,CEST/+0200,SR Donaufeld,0-1,0-1,ASV Draßburg,,2022-09-24T14:30Z
+10,Fri Sep 30 2022,19:00,CEST/+0200,ASV Draßburg,3-0,1-0,Kremser SC,,2022-09-30T17:00Z
+10,Fri Sep 30 2022,19:30,CEST/+0200,FCM Traiskirchen,0-2,0-0,TWL Elektra,,2022-09-30T17:30Z
+10,Fri Sep 30 2022,19:30,CEST/+0200,Wiener Sport-Club,2-0,1-0,FC Mauerwerk,,2022-09-30T17:30Z
+10,Fri Sep 30 2022,20:00,CEST/+0200,SC Neusiedl/See 1919,1-1,0-0,SC Wiener Viktoria,,2022-09-30T18:00Z
+10,Fri Sep 30 2022,20:00,CEST/+0200,1. Wiener Neustädter SC,0-1,0-0,FC Marchfeld Donauauen,,2022-09-30T18:00Z
+10,Sat Oct 1 2022,16:30,CEST/+0200,SV Stripfing/Weiden,7-0,4-0,ASK-BSC Bruck/Leitha,,2022-10-01T14:30Z
+10,Sat Oct 1 2022,16:30,CEST/+0200,SR Donaufeld,2-0,1-0,SV Leobendorf,,2022-10-01T14:30Z
+10,Sun Oct 2 2022,14:00,CEST/+0200,USV Scheiblingkirchen-Warth,2-1,0-0,ASV Siegendorf,,2022-10-02T12:00Z
+11,Fri Oct 7 2022,19:00,CEST/+0200,ASV Siegendorf,0-2,0-1,SV Stripfing/Weiden,,2022-10-07T17:00Z
+11,Fri Oct 7 2022,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,2-2,1-0,FCM Traiskirchen,,2022-10-07T17:00Z
+11,Fri Oct 7 2022,19:00,CEST/+0200,FC Marchfeld Donauauen,1-0,1-0,SC Neusiedl/See 1919,,2022-10-07T17:00Z
+11,Fri Oct 7 2022,19:30,CEST/+0200,TWL Elektra,5-0,2-0,SR Donaufeld,,2022-10-07T17:30Z
+11,Fri Oct 7 2022,20:00,CEST/+0200,Kremser SC,1-1,0-0,Wiener Sport-Club,,2022-10-07T18:00Z
+11,Sat Oct 8 2022,16:30,CEST/+0200,FC Mauerwerk,1-2,0-1,1. Wiener Neustädter SC,,2022-10-08T14:30Z
+11,Sat Oct 8 2022,16:30,CEST/+0200,SC Wiener Viktoria,3-2,1-0,USV Scheiblingkirchen-Warth,,2022-10-08T14:30Z
+11,Sat Oct 8 2022,15:00,CEST/+0200,SV Leobendorf,1-0,1-0,ASV Draßburg,,2022-10-08T13:00Z
+12,Fri Oct 14 2022,19:00,CEST/+0200,SC Neusiedl/See 1919,1-2,1-1,FC Mauerwerk,,2022-10-14T17:00Z
+12,Fri Oct 14 2022,19:00,CEST/+0200,ASV Draßburg,1-0,0-0,Wiener Sport-Club,,2022-10-14T17:00Z
+12,Fri Oct 14 2022,19:30,CEST/+0200,FCM Traiskirchen,2-2,1-0,ASV Siegendorf,,2022-10-14T17:30Z
+12,Fri Oct 14 2022,20:00,CEST/+0200,1. Wiener Neustädter SC,0-1,0-0,Kremser SC,,2022-10-14T18:00Z
+12,Sat Oct 15 2022,15:30,CEST/+0200,SR Donaufeld,2-0,1-0,ASK-BSC Bruck/Leitha,,2022-10-15T13:30Z
+12,Sat Oct 15 2022,15:30,CEST/+0200,SV Stripfing/Weiden,1-0,0-0,SC Wiener Viktoria,,2022-10-15T13:30Z
+12,Sat Oct 15 2022,16:00,CEST/+0200,SV Leobendorf,0-5,0-3,TWL Elektra,,2022-10-15T14:00Z
+12,Sat Oct 15 2022,15:30,CEST/+0200,USV Scheiblingkirchen-Warth,1-2,1-2,FC Marchfeld Donauauen,,2022-10-15T13:30Z
+13,Fri Oct 21 2022,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,1-3,1-1,SV Leobendorf,,2022-10-21T17:00Z
+13,Fri Oct 21 2022,19:00,CEST/+0200,ASV Siegendorf,2-3,1-2,SR Donaufeld,,2022-10-21T17:00Z
+13,Fri Oct 21 2022,19:00,CEST/+0200,FC Marchfeld Donauauen,1-3,1-0,SV Stripfing/Weiden,,2022-10-21T17:00Z
+13,Fri Oct 21 2022,19:30,CEST/+0200,TWL Elektra,4-2,2-1,ASV Draßburg,,2022-10-21T17:30Z
+13,Fri Oct 21 2022,20:00,CEST/+0200,Kremser SC,4-2,1-0,SC Neusiedl/See 1919,,2022-10-21T18:00Z
+13,Sat Oct 22 2022,15:30,CEST/+0200,FC Mauerwerk,1-0,0-0,USV Scheiblingkirchen-Warth,,2022-10-22T13:30Z
+13,Sat Oct 22 2022,15:30,CEST/+0200,SC Wiener Viktoria,2-3,2-2,FCM Traiskirchen,,2022-10-22T13:30Z
+13,Tue Oct 25 2022,19:30,CEST/+0200,Wiener Sport-Club,4-0,0-0,1. Wiener Neustädter SC,,2022-10-25T17:30Z
+14,Fri Oct 28 2022,19:00,CEST/+0200,USV Scheiblingkirchen-Warth,2-3,0-3,Kremser SC,,2022-10-28T17:00Z
+14,Fri Oct 28 2022,19:30,CEST/+0200,FCM Traiskirchen,0-3,0-1,FC Marchfeld Donauauen,,2022-10-28T17:30Z
+14,Fri Oct 28 2022,19:30,CEST/+0200,TWL Elektra,1-1,0-0,ASK-BSC Bruck/Leitha,,2022-10-28T17:30Z
+14,Fri Oct 28 2022,20:00,CEST/+0200,SC Neusiedl/See 1919,3-3,1-1,Wiener Sport-Club,,2022-10-28T18:00Z
+14,Sat Oct 29 2022,15:00,CEST/+0200,SR Donaufeld,2-0,1-0,SC Wiener Viktoria,,2022-10-29T13:00Z
+14,Sat Oct 29 2022,16:00,CEST/+0200,SV Leobendorf,1-1,0-0,ASV Siegendorf,,2022-10-29T14:00Z
+14,Sat Oct 29 2022,16:00,CEST/+0200,ASV Draßburg,2-0,2-0,1. Wiener Neustädter SC,,2022-10-29T14:00Z
+14,Sat Oct 29 2022,15:00,CEST/+0200,SV Stripfing/Weiden,4-0,0-0,FC Mauerwerk,,2022-10-29T13:00Z
+15,Fri Nov 4 2022,19:00,CET/+0100,ASK-BSC Bruck/Leitha,0-2,0-2,ASV Draßburg,,2022-11-04T18:00Z
+15,Fri Nov 4 2022,19:00,CET/+0100,FC Marchfeld Donauauen,0-1,0-1,SR Donaufeld,,2022-11-04T18:00Z
+15,Fri Nov 4 2022,19:30,CET/+0100,1. Wiener Neustädter SC,1-3,0-1,SC Neusiedl/See 1919,,2022-11-04T18:30Z
+15,Fri Nov 4 2022,19:30,CET/+0100,Wiener Sport-Club,1-1,0-0,USV Scheiblingkirchen-Warth,,2022-11-04T18:30Z
+15,Fri Nov 4 2022,20:00,CET/+0100,Kremser SC,0-3,0-1,SV Stripfing/Weiden,,2022-11-04T19:00Z
+15,Sat Nov 5 2022,14:00,CET/+0100,SC Wiener Viktoria,2-0,0-0,SV Leobendorf,,2022-11-05T13:00Z
+15,Sat Nov 5 2022,15:00,CET/+0100,ASV Siegendorf,0-1,0-1,TWL Elektra,,2022-11-05T14:00Z
+15,Sat Nov 5 2022,14:00,CET/+0100,FC Mauerwerk,5-0,2-0,FCM Traiskirchen,,2022-11-05T13:00Z
+16,Fri Nov 11 2022,19:00,CET/+0100,FC Marchfeld Donauauen,2-2,0-0,SV Leobendorf,,2022-11-11T18:00Z
+16,Fri Nov 11 2022,19:30,CET/+0100,1. Wiener Neustädter SC,1-2,1-1,USV Scheiblingkirchen-Warth,,2022-11-11T18:30Z
+16,Fri Nov 11 2022,19:30,CET/+0100,Wiener Sport-Club,0-2,0-1,SV Stripfing/Weiden,,2022-11-11T18:30Z
+16,Fri Nov 11 2022,20:00,CET/+0100,Kremser SC,0-1,0-0,FCM Traiskirchen,,2022-11-11T19:00Z
+16,Sat Nov 12 2022,14:00,CET/+0100,SC Wiener Viktoria,4-1,2-1,TWL Elektra,,2022-11-12T13:00Z
+16,Sat Nov 12 2022,15:00,CET/+0100,ASV Siegendorf,1-0,1-0,ASK-BSC Bruck/Leitha,,2022-11-12T14:00Z
+16,Sat Nov 12 2022,15:00,CET/+0100,ASV Draßburg,3-0,2-0,SC Neusiedl/See 1919,,2022-11-12T14:00Z
+16,Sat Nov 12 2022,14:00,CET/+0100,FC Mauerwerk,2-1,0-0,SR Donaufeld,,2022-11-12T13:00Z
+17,Fri Feb 24 2023,,,ASK-BSC Bruck/Leitha,0-3 (*),,SC Wiener Viktoria,awd.,
+17,Fri Feb 24 2023,19:30,CET/+0100,FCM Traiskirchen,0-0,0-0,Wiener Sport-Club,,2023-02-24T18:30Z
+17,Fri Feb 24 2023,19:30,CET/+0100,TWL Elektra,1-0,0-0,FC Marchfeld Donauauen,,2023-02-24T18:30Z
+17,Sat Feb 25 2023,14:30,CET/+0100,SV Stripfing/Weiden,4-0,1-0,1. Wiener Neustädter SC,,2023-02-25T13:30Z
+17,Sat Feb 25 2023,15:00,CET/+0100,ASV Siegendorf,1-1,1-1,ASV Draßburg,,2023-02-25T14:00Z
+17,Sat Feb 25 2023,15:00,CET/+0100,USV Scheiblingkirchen-Warth,1-1,1-0,SC Neusiedl/See 1919,,2023-02-25T14:00Z
+17,Sat Feb 25 2023,15:00,CET/+0100,SV Leobendorf,2-0,0-0,FC Mauerwerk,,2023-02-25T14:00Z
+17,Sat Feb 25 2023,14:00,CET/+0100,SR Donaufeld,2-0,1-0,Kremser SC,,2023-02-25T13:00Z
+18,Fri Mar 3 2023,,,FC Marchfeld Donauauen,3-0 (*),,ASK-BSC Bruck/Leitha,awd.,
+18,Fri Mar 3 2023,19:00,CET/+0100,SC Neusiedl/See 1919,2-1,2-1,SV Stripfing/Weiden,,2023-03-03T18:00Z
+18,Fri Mar 3 2023,19:30,CET/+0100,Wiener Sport-Club,1-1,0-0,SR Donaufeld,,2023-03-03T18:30Z
+18,Fri Mar 3 2023,19:30,CET/+0100,Kremser SC,1-0,0-0,SV Leobendorf,,2023-03-03T18:30Z
+18,Fri Mar 3 2023,19:30,CET/+0100,1. Wiener Neustädter SC,0-3,0-3,FCM Traiskirchen,,2023-03-03T18:30Z
+18,Sat Mar 4 2023,15:00,CET/+0100,ASV Draßburg,3-3,1-0,USV Scheiblingkirchen-Warth,,2023-03-04T14:00Z
+18,Sat Mar 4 2023,15:30,CET/+0100,SC Wiener Viktoria,1-0,0-0,ASV Siegendorf,,2023-03-04T14:30Z
+18,Sat Mar 4 2023,13:00,CET/+0100,FC Mauerwerk,1-4,1-1,TWL Elektra,,2023-03-04T12:00Z
+19,Fri Mar 10 2023,,,ASK-BSC Bruck/Leitha,0-3 (*),,FC Mauerwerk,awd.,
+19,Fri Mar 10 2023,19:30,CET/+0100,FCM Traiskirchen,1-0,0-0,SC Neusiedl/See 1919,,2023-03-10T18:30Z
+19,Fri Mar 10 2023,19:30,CET/+0100,TWL Elektra,1-0,1-0,Kremser SC,,2023-03-10T18:30Z
+19,Sat Mar 11 2023,15:00,CET/+0100,ASV Siegendorf,1-3,1-1,FC Marchfeld Donauauen,,2023-03-11T14:00Z
+19,Sat Mar 11 2023,15:00,CET/+0100,SV Stripfing/Weiden,1-2,0-2,USV Scheiblingkirchen-Warth,,2023-03-11T14:00Z
+19,Sat Mar 11 2023,15:30,CET/+0100,SC Wiener Viktoria,2-2,1-0,ASV Draßburg,,2023-03-11T14:30Z
+19,Sat Mar 11 2023,16:00,CET/+0100,SV Leobendorf,1-0,0-0,Wiener Sport-Club,,2023-03-11T15:00Z
+19,Sat Mar 11 2023,14:00,CET/+0100,SR Donaufeld,5-2,2-1,1. Wiener Neustädter SC,,2023-03-11T13:00Z
+20,Fri Mar 17 2023,,,Kremser SC,3-0 (*),,ASK-BSC Bruck/Leitha,awd.,
+20,Fri Mar 17 2023,19:00,CET/+0100,SC Neusiedl/See 1919,1-0,0-0,SR Donaufeld,,2023-03-17T18:00Z
+20,Fri Mar 17 2023,19:00,CET/+0100,ASV Draßburg,0-4,0-2,SV Stripfing/Weiden,,2023-03-17T18:00Z
+20,Fri Mar 17 2023,19:30,CET/+0100,FC Marchfeld Donauauen,2-2,0-1,SC Wiener Viktoria,,2023-03-17T18:30Z
+20,Fri Mar 17 2023,19:30,CET/+0100,1. Wiener Neustädter SC,1-1,1-0,SV Leobendorf,,2023-03-17T18:30Z
+20,Fri Mar 17 2023,19:30,CET/+0100,Wiener Sport-Club,0-0,0-0,TWL Elektra,,2023-03-17T18:30Z
+20,Fri Mar 17 2023,20:00,CET/+0100,FC Mauerwerk,2-5,0-5,ASV Siegendorf,,2023-03-17T19:00Z
+20,Sat Mar 18 2023,14:00,CET/+0100,USV Scheiblingkirchen-Warth,0-1,0-0,FCM Traiskirchen,,2023-03-18T13:00Z
+21,Fri Mar 24 2023,18:45,CET/+0100,FC Marchfeld Donauauen,3-1,1-0,ASV Draßburg,,2023-03-24T17:45Z
+21,Fri Mar 24 2023,,,ASK-BSC Bruck/Leitha,0-3 (*),,Wiener Sport-Club,awd.,
+21,Sat Mar 25 2023,14:00,CET/+0100,SR Donaufeld,3-0,1-0,USV Scheiblingkirchen-Warth,,2023-03-25T13:00Z
+21,Sat Mar 25 2023,15:00,CET/+0100,ASV Siegendorf,1-2,0-2,Kremser SC,,2023-03-25T14:00Z
+21,Sat Mar 25 2023,15:00,CET/+0100,1. Wiener Neustädter SC,1-2,1-1,TWL Elektra,,2023-03-25T14:00Z
+21,Sat Mar 25 2023,15:30,CET/+0100,FCM Traiskirchen,0-0,0-0,SV Stripfing/Weiden,,2023-03-25T14:30Z
+21,Sat Mar 25 2023,16:00,CET/+0100,SC Wiener Viktoria,1-1,1-1,FC Mauerwerk,,2023-03-25T15:00Z
+21,Sat Mar 25 2023,16:00,CET/+0100,SV Leobendorf,1-1,0-0,SC Neusiedl/See 1919,,2023-03-25T15:00Z
+22,Fri Mar 31 2023,,,1. Wiener Neustädter SC,3-0 (*),,ASK-BSC Bruck/Leitha,awd.,
+22,Fri Mar 31 2023,19:00,CEST/+0200,ASV Draßburg,0-2,0-1,FCM Traiskirchen,,2023-03-31T17:00Z
+22,Fri Mar 31 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,4-2,2-0,TWL Elektra,,2023-03-31T17:00Z
+22,Fri Mar 31 2023,19:00,CEST/+0200,USV Scheiblingkirchen-Warth,0-1,0-1,SV Leobendorf,,2023-03-31T17:00Z
+22,Fri Mar 31 2023,19:30,CEST/+0200,Wiener Sport-Club,2-1,1-0,ASV Siegendorf,,2023-03-31T17:30Z
+22,Fri Mar 31 2023,19:30,CEST/+0200,Kremser SC,1-1,0-1,SC Wiener Viktoria,,2023-03-31T17:30Z
+22,Fri Mar 31 2023,20:00,CEST/+0200,FC Mauerwerk,5-1,0-0,FC Marchfeld Donauauen,,2023-03-31T18:00Z
+22,Sat Apr 1 2023,16:30,CEST/+0200,SV Stripfing/Weiden,1-2,0-0,SR Donaufeld,,2023-04-01T14:30Z
+23,Fri Apr 7 2023,19:00,CEST/+0200,ASV Siegendorf,1-0,1-0,1. Wiener Neustädter SC,,2023-04-07T17:00Z
+23,Fri Apr 7 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,1-3,1-0,Kremser SC,,2023-04-07T17:30Z
+23,Fri Apr 7 2023,19:30,CEST/+0200,TWL Elektra,1-0,1-0,USV Scheiblingkirchen-Warth,,2023-04-07T17:30Z
+23,Fri Apr 7 2023,20:00,CEST/+0200,FC Mauerwerk,1-3,1-0,ASV Draßburg,,2023-04-07T18:00Z
+23,Fri Apr 7 2023,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,0-3 (*),,SC Neusiedl/See 1919,awd.,2023-04-07T17:00Z
+23,Sat Apr 8 2023,16:00,CEST/+0200,SR Donaufeld,1-0,0-0,FCM Traiskirchen,,2023-04-08T14:00Z
+23,Sat Apr 8 2023,16:30,CEST/+0200,SC Wiener Viktoria,3-2,1-0,Wiener Sport-Club,,2023-04-08T14:30Z
+23,Sat Apr 8 2023,17:00,CEST/+0200,SV Leobendorf,1-1,0-1,SV Stripfing/Weiden,,2023-04-08T15:00Z
+24,Fri Apr 14 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,0-2,0-0,ASV Siegendorf,,2023-04-14T17:00Z
+24,Sat Apr 15 2023,16:30,CEST/+0200,SV Stripfing/Weiden,6-0,2-0,TWL Elektra,,2023-04-15T14:30Z
+24,Sat Apr 15 2023,,,USV Scheiblingkirchen-Warth,3-0 (*),,ASK-BSC Bruck/Leitha,awd.,
+24,Sun Apr 16 2023,16:00,CEST/+0200,Wiener Sport-Club,3-1,1-0,FC Marchfeld Donauauen,,2023-04-16T14:00Z
+24,Sun Apr 16 2023,14:30,CEST/+0200,1. Wiener Neustädter SC,3-2,1-0,SC Wiener Viktoria,,2023-04-16T12:30Z
+24,Tue Apr 18 2023,19:30,CEST/+0200,Kremser SC,2-1,1-1,FC Mauerwerk,,2023-04-18T17:30Z
+24,Tue Apr 18 2023,19:30,CEST/+0200,FCM Traiskirchen,1-0,0-0,SV Leobendorf,,2023-04-18T17:30Z
+24,Tue Apr 18 2023,19:30,CEST/+0200,ASV Draßburg,1-1,1-0,SR Donaufeld,,2023-04-18T17:30Z
+25,Fri Apr 21 2023,19:00,CEST/+0200,ASV Siegendorf,2-1,1-0,USV Scheiblingkirchen-Warth,,2023-04-21T17:00Z
+25,Fri Apr 21 2023,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,0-3 (*),,SV Stripfing/Weiden,awd.,2023-04-21T17:00Z
+25,Fri Apr 21 2023,19:30,CEST/+0200,TWL Elektra,2-0,0-0,FCM Traiskirchen,,2023-04-21T17:30Z
+25,Fri Apr 21 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,1-4,1-2,1. Wiener Neustädter SC,,2023-04-21T17:30Z
+25,Fri Apr 21 2023,20:00,CEST/+0200,Kremser SC,3-1,2-0,ASV Draßburg,,2023-04-21T18:00Z
+25,Fri Apr 21 2023,20:00,CEST/+0200,FC Mauerwerk,0-2,0-1,Wiener Sport-Club,,2023-04-21T18:00Z
+25,Sat Apr 22 2023,17:00,CEST/+0200,SV Leobendorf,2-2,0-0,SR Donaufeld,,2023-04-22T15:00Z
+25,Sat Apr 22 2023,16:30,CEST/+0200,SC Wiener Viktoria,2-1,1-1,SC Neusiedl/See 1919,,2023-04-22T14:30Z
+26,Fri Apr 28 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,1-3,0-1,FC Marchfeld Donauauen,,2023-04-28T17:00Z
+26,Fri Apr 28 2023,19:00,CEST/+0200,ASV Draßburg,0-1,0-1,SV Leobendorf,,2023-04-28T17:00Z
+26,Fri Apr 28 2023,19:30,CEST/+0200,FCM Traiskirchen,3-0 (*),,ASK-BSC Bruck/Leitha,awd.,2023-04-28T17:30Z
+26,Fri Apr 28 2023,19:30,CEST/+0200,Wiener Sport-Club,1-1,0-0,Kremser SC,,2023-04-28T17:30Z
+26,Sat Apr 29 2023,18:00,CEST/+0200,1. Wiener Neustädter SC,2-2,2-2,FC Mauerwerk,,2023-04-29T16:00Z
+26,Sat Apr 29 2023,16:30,CEST/+0200,SV Stripfing/Weiden,3-1,1-0,ASV Siegendorf,,2023-04-29T14:30Z
+26,Sun Apr 30 2023,14:00,CEST/+0200,USV Scheiblingkirchen-Warth,2-2,0-0,SC Wiener Viktoria,,2023-04-30T12:00Z
+26,Tue May 2 2023,18:00,CEST/+0200,SR Donaufeld,4-1,1-0,TWL Elektra,,2023-05-02T16:00Z
+27,Fri May 5 2023,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,0-3 (*),,SR Donaufeld,awd.,2023-05-05T17:00Z
+27,Fri May 5 2023,19:00,CEST/+0200,ASV Siegendorf,1-0,0-0,FCM Traiskirchen,,2023-05-05T17:00Z
+27,Fri May 5 2023,19:30,CEST/+0200,Wiener Sport-Club,2-1,2-1,ASV Draßburg,,2023-05-05T17:30Z
+27,Fri May 5 2023,19:30,CEST/+0200,TWL Elektra,0-0,0-0,SV Leobendorf,,2023-05-05T17:30Z
+27,Fri May 5 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,2-2,1-1,USV Scheiblingkirchen-Warth,,2023-05-05T17:30Z
+27,Fri May 5 2023,20:00,CEST/+0200,Kremser SC,3-3,2-1,1. Wiener Neustädter SC,,2023-05-05T18:00Z
+27,Fri May 5 2023,20:00,CEST/+0200,FC Mauerwerk,1-3,1-1,SC Neusiedl/See 1919,,2023-05-05T18:00Z
+27,Sat May 6 2023,16:30,CEST/+0200,SC Wiener Viktoria,1-6,0-3,SV Stripfing/Weiden,,2023-05-06T14:30Z
+28,Fri May 12 2023,19:00,CEST/+0200,SC Neusiedl/See 1919,0-2,0-0,Kremser SC,,2023-05-12T17:00Z
+28,Fri May 12 2023,19:00,CEST/+0200,ASV Draßburg,2-1,0-1,TWL Elektra,,2023-05-12T17:00Z
+28,Fri May 12 2023,19:00,CEST/+0200,USV Scheiblingkirchen-Warth,2-2,1-0,FC Mauerwerk,,2023-05-12T17:00Z
+28,Fri May 12 2023,19:00,CEST/+0200,SV Leobendorf,3-0 (*),,ASK-BSC Bruck/Leitha,awd.,2023-05-12T17:00Z
+28,Fri May 12 2023,19:30,CEST/+0200,1. Wiener Neustädter SC,0-3,0-1,Wiener Sport-Club,,2023-05-12T17:30Z
+28,Sat May 13 2023,17:00,CEST/+0200,SV Stripfing/Weiden,3-1,3-1,FC Marchfeld Donauauen,,2023-05-13T15:00Z
+28,Sat May 13 2023,16:00,CEST/+0200,SR Donaufeld,1-2,0-0,ASV Siegendorf,,2023-05-13T14:00Z
+29,Thu May 18 2023,16:00,CEST/+0200,1. Wiener Neustädter SC,0-1,0-0,ASV Draßburg,,2023-05-18T14:00Z
+29,Fri May 19 2023,20:00,CEST/+0200,FC Mauerwerk,1-4,0-2,SV Stripfing/Weiden,,2023-05-19T18:00Z
+29,Fri May 19 2023,19:00,CEST/+0200,ASK-BSC Bruck/Leitha,0-3 (*),,TWL Elektra,awd.,2023-05-19T17:00Z
+29,Fri May 19 2023,19:30,CEST/+0200,Kremser SC,3-0,2-0,USV Scheiblingkirchen-Warth,,2023-05-19T17:30Z
+29,Fri May 19 2023,19:30,CEST/+0200,Wiener Sport-Club,1-1,0-0,SC Neusiedl/See 1919,,2023-05-19T17:30Z
+29,Fri May 19 2023,19:30,CEST/+0200,FC Marchfeld Donauauen,5-3,2-2,FCM Traiskirchen,,2023-05-19T17:30Z
+29,Sat May 20 2023,16:30,CEST/+0200,SC Wiener Viktoria,0-2,0-0,SR Donaufeld,,2023-05-20T14:30Z
+29,Sun May 21 2023,16:00,CEST/+0200,ASV Siegendorf,0-4,0-2,SV Leobendorf,,2023-05-21T14:00Z
+28,Tue May 23 2023,19:30,CEST/+0200,FCM Traiskirchen,3-0,2-0,SC Wiener Viktoria,,2023-05-23T17:30Z
+30,Fri May 26 2023,18:00,CEST/+0200,SR Donaufeld,2-3,1-2,FC Marchfeld Donauauen,,2023-05-26T16:00Z
+30,Fri May 26 2023,19:00,CEST/+0200,ASV Draßburg,3-0 (*),,ASK-BSC Bruck/Leitha,awd.,2023-05-26T17:00Z
+30,Fri May 26 2023,19:30,CEST/+0200,SC Neusiedl/See 1919,4-0,2-0,1. Wiener Neustädter SC,,2023-05-26T17:30Z
+30,Fri May 26 2023,19:30,CEST/+0200,USV Scheiblingkirchen-Warth,1-1,1-1,Wiener Sport-Club,,2023-05-26T17:30Z
+30,Fri May 26 2023,19:30,CEST/+0200,FCM Traiskirchen,7-0,4-0,FC Mauerwerk,,2023-05-26T17:30Z
+30,Fri May 26 2023,19:30,CEST/+0200,TWL Elektra,0-1,0-1,ASV Siegendorf,,2023-05-26T17:30Z
+30,Sat May 27 2023,17:30,CEST/+0200,SV Stripfing/Weiden,3-1,0-1,Kremser SC,,2023-05-27T15:30Z
+30,Sat May 27 2023,16:30,CEST/+0200,SV Leobendorf,2-1,1-0,SC Wiener Viktoria,,2023-05-27T14:30Z

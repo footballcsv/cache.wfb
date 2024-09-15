@@ -1,196 +1,196 @@
-Stage,Round,Date,Time,Team 1,FT,HT,Team 2,ET
-Grunddurchgang,1,Fri Jul 22 2022,20:30,RB Salzburg,3-0,1-0,Austria Wien,
-Grunddurchgang,1,Sat Jul 23 2022,19:30,Wolfsberger AC,1-1,1-1,Sturm Graz,
-Grunddurchgang,1,Sat Jul 23 2022,17:00,LASK,3-1,2-0,SK Austria Klagenfurt,
-Grunddurchgang,1,Sun Jul 24 2022,17:00,TSV Hartberg,2-1,1-0,SCR Altach,
-Grunddurchgang,1,Sun Jul 24 2022,17:00,Rapid Wien,1-0,0-0,SV Ried,
-Grunddurchgang,1,Sun Jul 24 2022,17:00,Austria Lustenau,2-1,1-0,WSG Tirol,
-Grunddurchgang,2,Sat Jul 30 2022,17:00,SV Ried,1-0,1-0,Austria Lustenau,
-Grunddurchgang,2,Sat Jul 30 2022,17:00,SCR Altach,2-2,1-0,Wolfsberger AC,
-Grunddurchgang,2,Sat Jul 30 2022,19:30,Sturm Graz,2-1,1-0,RB Salzburg,
-Grunddurchgang,2,Sun Jul 31 2022,17:00,SK Austria Klagenfurt,0-1,0-0,Rapid Wien,
-Grunddurchgang,2,Sun Jul 31 2022,17:00,Austria Wien,1-1,0-0,LASK,
-Grunddurchgang,2,Sun Jul 31 2022,17:00,WSG Tirol,2-1,1-1,TSV Hartberg,
-Grunddurchgang,3,Sat Aug 6 2022,17:00,SV Ried,1-1,0-1,Sturm Graz,
-Grunddurchgang,3,Sat Aug 6 2022,17:00,Wolfsberger AC,1-5,0-4,LASK,
-Grunddurchgang,3,Sat Aug 6 2022,19:30,TSV Hartberg,0-2,0-0,RB Salzburg,
-Grunddurchgang,3,Sun Aug 7 2022,17:00,WSG Tirol,2-2,2-0,SK Austria Klagenfurt,
-Grunddurchgang,3,Sun Aug 7 2022,17:00,Rapid Wien,1-1,1-0,Austria Lustenau,
-Grunddurchgang,3,Sun Aug 7 2022,17:00,SCR Altach,3-2,0-1,Austria Wien,
-Grunddurchgang,4,Sat Aug 13 2022,17:00,Austria Wien,2-1,1-0,WSG Tirol,
-Grunddurchgang,4,Sat Aug 13 2022,17:00,SK Austria Klagenfurt,1-0,0-0,SV Ried,
-Grunddurchgang,4,Sat Aug 13 2022,19:30,Sturm Graz,4-0,1-0,SCR Altach,
-Grunddurchgang,4,Sun Aug 14 2022,17:00,RB Salzburg,2-1,2-0,Wolfsberger AC,
-Grunddurchgang,4,Sun Aug 14 2022,17:00,LASK,2-1,2-0,Rapid Wien,
-Grunddurchgang,4,Sun Aug 14 2022,17:00,Austria Lustenau,4-1,2-1,TSV Hartberg,
-Grunddurchgang,5,Sat Aug 20 2022,17:00,RB Salzburg,2-0,0-0,SK Austria Klagenfurt,
-Grunddurchgang,5,Sat Aug 20 2022,17:00,SCR Altach,1-2,1-1,Austria Lustenau,
-Grunddurchgang,5,Sat Aug 20 2022,19:30,Sturm Graz,0-1,0-0,LASK,
-Grunddurchgang,5,Sun Aug 21 2022,17:00,Wolfsberger AC,1-2,1-1,Austria Wien,
-Grunddurchgang,5,Sun Aug 21 2022,17:00,SV Ried,1-2,1-0,WSG Tirol,
-Grunddurchgang,6,Sat Aug 27 2022,19:30,LASK,4-1,1-0,SCR Altach,
-Grunddurchgang,6,Sat Aug 27 2022,17:00,Austria Lustenau,0-6,0-2,RB Salzburg,
-Grunddurchgang,6,Sat Aug 27 2022,17:00,TSV Hartberg,2-0,0-0,SV Ried,
-Grunddurchgang,6,Sun Aug 28 2022,17:00,WSG Tirol,1-3,1-1,Wolfsberger AC,
-Grunddurchgang,6,Sun Aug 28 2022,17:00,SK Austria Klagenfurt,3-3,1-1,Austria Wien,
-Grunddurchgang,6,Sun Aug 28 2022,17:00,Rapid Wien,1-2,1-1,Sturm Graz,
-Grunddurchgang,7,Sat Sep 3 2022,17:00,Sturm Graz,0-0,0-0,TSV Hartberg,
-Grunddurchgang,7,Sat Sep 3 2022,17:00,RB Salzburg,2-0,1-0,WSG Tirol,
-Grunddurchgang,7,Sat Sep 3 2022,17:00,Austria Wien,2-2,1-2,Austria Lustenau,
-Grunddurchgang,7,Sun Sep 4 2022,14:30,SCR Altach,0-1,0-1,Rapid Wien,
-Grunddurchgang,7,Sun Sep 4 2022,14:30,Wolfsberger AC,3-4,2-2,SK Austria Klagenfurt,
-Grunddurchgang,7,Sun Sep 4 2022,17:00,LASK,1-1,1-0,SV Ried,
-Grunddurchgang,8,Sat Sep 10 2022,17:00,Rapid Wien,1-3,0-2,Wolfsberger AC,
-Grunddurchgang,8,Sat Sep 10 2022,17:00,WSG Tirol,0-0,0-0,SCR Altach,
-Grunddurchgang,8,Sat Sep 10 2022,17:00,SV Ried,0-3,0-2,RB Salzburg,
-Grunddurchgang,8,Sun Sep 11 2022,17:00,SK Austria Klagenfurt,0-2,0-0,Sturm Graz,
-Grunddurchgang,8,Sun Sep 11 2022,14:30,Austria Lustenau,1-1,0-1,LASK,
-Grunddurchgang,8,Sun Sep 11 2022,14:30,TSV Hartberg,0-3,0-1,Austria Wien,
-Grunddurchgang,9,Sat Sep 17 2022,17:00,SCR Altach,1-4,1-1,SK Austria Klagenfurt,
-Grunddurchgang,9,Sat Sep 17 2022,17:00,LASK,1-4,1-3,WSG Tirol,
-Grunddurchgang,9,Sat Sep 17 2022,17:00,Wolfsberger AC,3-1,1-1,TSV Hartberg,
-Grunddurchgang,9,Sun Sep 18 2022,14:30,Austria Wien,3-0,1-0,SV Ried,
-Grunddurchgang,9,Sun Sep 18 2022,14:30,Sturm Graz,2-0,1-0,Austria Lustenau,
-Grunddurchgang,9,Sun Sep 18 2022,17:00,RB Salzburg,1-1,1-1,Rapid Wien,
-Grunddurchgang,10,Sat Oct 1 2022,17:00,WSG Tirol,0-5,0-1,Rapid Wien,
-Grunddurchgang,10,Sat Oct 1 2022,17:00,RB Salzburg,1-1,0-0,LASK,
-Grunddurchgang,10,Sat Oct 1 2022,17:00,Austria Lustenau,1-3,1-1,Wolfsberger AC,
-Grunddurchgang,10,Sun Oct 2 2022,14:30,SV Ried,2-3,2-1,SCR Altach,
-Grunddurchgang,10,Sun Oct 2 2022,14:30,TSV Hartberg,2-3,1-2,SK Austria Klagenfurt,
-Grunddurchgang,10,Sun Oct 2 2022,17:00,Austria Wien,0-3,0-1,Sturm Graz,
-Grunddurchgang,11,Sat Oct 8 2022,17:00,SK Austria Klagenfurt,2-1,1-0,Austria Lustenau,
-Grunddurchgang,11,Sat Oct 8 2022,17:00,LASK,0-3,0-0,TSV Hartberg,
-Grunddurchgang,11,Sat Oct 8 2022,17:00,SCR Altach,2-3,0-0,RB Salzburg,
-Grunddurchgang,11,Sun Oct 9 2022,14:30,Sturm Graz,2-1,2-1,WSG Tirol,
-Grunddurchgang,11,Sun Oct 9 2022,14:30,Wolfsberger AC,1-2,0-2,SV Ried,
-Grunddurchgang,11,Sun Oct 9 2022,17:00,Rapid Wien,1-2,0-2,Austria Wien,
-Grunddurchgang,12,Sat Oct 15 2022,17:00,SK Austria Klagenfurt,1-3,0-1,LASK,
-Grunddurchgang,12,Sat Oct 15 2022,17:00,WSG Tirol,3-2,3-0,Austria Lustenau,
-Grunddurchgang,12,Sat Oct 15 2022,17:00,SV Ried,1-0,0-0,Rapid Wien,
-Grunddurchgang,12,Sun Oct 16 2022,14:30,Sturm Graz,3-2,0-1,Wolfsberger AC,
-Grunddurchgang,12,Sun Oct 16 2022,14:30,SCR Altach,1-0,0-0,TSV Hartberg,
-Grunddurchgang,12,Sun Oct 16 2022,17:00,Austria Wien,1-3,1-1,RB Salzburg,
-Grunddurchgang,13,Sat Oct 22 2022,17:00,TSV Hartberg,1-5,1-2,WSG Tirol,
-Grunddurchgang,13,Sat Oct 22 2022,17:00,RB Salzburg,0-0,0-0,Sturm Graz,
-Grunddurchgang,13,Sat Oct 22 2022,17:00,Rapid Wien,0-1,0-1,SK Austria Klagenfurt,
-Grunddurchgang,13,Sun Oct 23 2022,14:30,Austria Lustenau,0-0,0-0,SV Ried,
-Grunddurchgang,13,Sun Oct 23 2022,14:30,Wolfsberger AC,2-3,2-2,SCR Altach,
-Grunddurchgang,13,Sun Oct 23 2022,17:00,LASK,2-2,0-0,Austria Wien,
-Grunddurchgang,5,Wed Oct 26 2022,16:00,Rapid Wien,5-1,1-1,TSV Hartberg,
-Grunddurchgang,14,Sat Oct 29 2022,17:00,SK Austria Klagenfurt,2-3,1-2,WSG Tirol,
-Grunddurchgang,14,Sat Oct 29 2022,17:00,Austria Lustenau,3-3,1-0,Rapid Wien,
-Grunddurchgang,14,Sat Oct 29 2022,17:00,RB Salzburg,1-0,0-0,TSV Hartberg,
-Grunddurchgang,14,Sun Oct 30 2022,14:30,Austria Wien,2-1,0-1,SCR Altach,
-Grunddurchgang,14,Sun Oct 30 2022,14:30,LASK,4-1,3-0,Wolfsberger AC,
-Grunddurchgang,14,Sun Oct 30 2022,17:00,Sturm Graz,2-1,1-0,SV Ried,
-Grunddurchgang,15,Sat Nov 5 2022,17:00,TSV Hartberg,1-1,0-1,Austria Lustenau,
-Grunddurchgang,15,Sat Nov 5 2022,17:00,Wolfsberger AC,1-2,0-2,RB Salzburg,
-Grunddurchgang,15,Sat Nov 5 2022,17:00,SV Ried,2-2,1-0,SK Austria Klagenfurt,
-Grunddurchgang,15,Sun Nov 6 2022,14:30,WSG Tirol,0-0,0-0,Austria Wien,
-Grunddurchgang,15,Sun Nov 6 2022,14:30,SCR Altach,1-1,1-1,Sturm Graz,
-Grunddurchgang,15,Sun Nov 6 2022,17:00,Rapid Wien,1-0,1-0,LASK,
-Grunddurchgang,16,Sat Nov 12 2022,17:00,TSV Hartberg,1-2,1-1,Rapid Wien,
-Grunddurchgang,16,Sat Nov 12 2022,17:00,WSG Tirol,2-0,2-0,SV Ried,
-Grunddurchgang,16,Sat Nov 12 2022,17:00,Austria Lustenau,3-0,2-0,SCR Altach,
-Grunddurchgang,16,Sun Nov 13 2022,14:30,Austria Wien,0-1,0-0,Wolfsberger AC,
-Grunddurchgang,16,Sun Nov 13 2022,17:00,LASK,1-1,0-0,Sturm Graz,
-Grunddurchgang,16,Sun Nov 13 2022,14:30,SK Austria Klagenfurt,0-1,0-0,RB Salzburg,
-Grunddurchgang,17,Fri Feb 10 2023,20:30,Sturm Graz,1-0,0-0,Rapid Wien,
-Grunddurchgang,17,Sat Feb 11 2023,17:00,RB Salzburg,4-0,0-0,Austria Lustenau,
-Grunddurchgang,17,Sat Feb 11 2023,17:00,Wolfsberger AC,1-2,0-0,WSG Tirol,
-Grunddurchgang,17,Sun Feb 12 2023,14:30,SCR Altach,0-1,0-1,LASK,
-Grunddurchgang,17,Sun Feb 12 2023,17:00,Austria Wien,3-1,1-0,SK Austria Klagenfurt,
-Grunddurchgang,17,Sun Feb 12 2023,14:30,SV Ried,0-1,0-0,TSV Hartberg,
-Grunddurchgang,18,Sat Feb 18 2023,17:00,TSV Hartberg,1-2,0-2,Sturm Graz,
-Grunddurchgang,18,Sat Feb 18 2023,17:00,SK Austria Klagenfurt,0-3,0-3,Wolfsberger AC,
-Grunddurchgang,18,Sat Feb 18 2023,17:00,SV Ried,1-1,1-0,LASK,
-Grunddurchgang,18,Sun Feb 19 2023,14:30,Austria Lustenau,1-0,1-0,Austria Wien,
-Grunddurchgang,18,Sun Feb 19 2023,17:00,Rapid Wien,3-0,0-0,SCR Altach,
-Grunddurchgang,18,Sun Feb 19 2023,14:30,WSG Tirol,1-3,0-1,RB Salzburg,
-Grunddurchgang,19,Fri Feb 24 2023,20:30,LASK,1-0,0-0,Austria Lustenau,
-Grunddurchgang,19,Sat Feb 25 2023,17:00,Austria Wien,3-0,1-0,TSV Hartberg,
-Grunddurchgang,19,Sat Feb 25 2023,17:00,Sturm Graz,1-2,1-1,SK Austria Klagenfurt,
-Grunddurchgang,19,Sun Feb 26 2023,14:30,SCR Altach,0-0,0-0,WSG Tirol,
-Grunddurchgang,19,Sun Feb 26 2023,17:00,RB Salzburg,2-0,1-0,SV Ried,
-Grunddurchgang,19,Sun Feb 26 2023,14:30,Wolfsberger AC,1-2,0-2,Rapid Wien,
-Grunddurchgang,20,Sat Mar 4 2023,17:00,SV Ried,1-3,1-1,Austria Wien,
-Grunddurchgang,20,Sat Mar 4 2023,17:00,Austria Lustenau,0-2,0-0,Sturm Graz,
-Grunddurchgang,20,Sat Mar 4 2023,17:00,TSV Hartberg,2-1,1-1,Wolfsberger AC,
-Grunddurchgang,20,Sun Mar 5 2023,14:30,WSG Tirol,2-3,1-2,LASK,
-Grunddurchgang,20,Sun Mar 5 2023,14:30,SK Austria Klagenfurt,3-0,3-0,SCR Altach,
-Grunddurchgang,20,Sun Mar 5 2023,17:00,Rapid Wien,2-4,1-1,RB Salzburg,
-Grunddurchgang,21,Sun Mar 12 2023,17:00,Sturm Graz,3-1,1-1,Austria Wien,
-Grunddurchgang,21,Sun Mar 12 2023,17:00,SCR Altach,1-2,1-1,SV Ried,
-Grunddurchgang,21,Sun Mar 12 2023,17:00,Wolfsberger AC,0-1,0-0,Austria Lustenau,
-Grunddurchgang,21,Sun Mar 12 2023,17:00,SK Austria Klagenfurt,1-0,1-0,TSV Hartberg,
-Grunddurchgang,21,Sun Mar 12 2023,17:00,Rapid Wien,2-0,0-0,WSG Tirol,
-Grunddurchgang,21,Sun Mar 12 2023,17:00,LASK,0-2,0-0,RB Salzburg,
-Grunddurchgang,22,Sun Mar 19 2023,17:00,TSV Hartberg,2-2,1-1,LASK,
-Grunddurchgang,22,Sun Mar 19 2023,17:00,SV Ried,0-0,0-0,Wolfsberger AC,
-Grunddurchgang,22,Sun Mar 19 2023,17:00,WSG Tirol,0-2,0-0,Sturm Graz,
-Grunddurchgang,22,Sun Mar 19 2023,17:00,Austria Lustenau,4-2,2-1,SK Austria Klagenfurt,
-Grunddurchgang,22,Sun Mar 19 2023,17:00,Austria Wien,2-0,1-0,Rapid Wien,
-Grunddurchgang,22,Sun Mar 19 2023,17:00,RB Salzburg,1-1,0-0,SCR Altach,
-Finaldurchgang - Qualifikation,23,Fri Mar 31 2023,19:30,TSV Hartberg,0-1,0-1,Austria Lustenau,
-Finaldurchgang - Qualifikation,23,Sat Apr 1 2023,17:00,SCR Altach,1-0,0-0,WSG Tirol,
-Finaldurchgang - Qualifikation,23,Sat Apr 1 2023,17:00,Wolfsberger AC,1-0,0-0,SV Ried,
-Finaldurchgang - Meister,23,Sun Apr 2 2023,17:30,Sturm Graz,3-1,2-1,Rapid Wien,
-Finaldurchgang - Meister,23,Sun Apr 2 2023,14:30,SK Austria Klagenfurt,0-3,0-1,RB Salzburg,
-Finaldurchgang - Meister,23,Sun Apr 2 2023,14:30,Austria Wien,2-2,0-0,LASK,
-Finaldurchgang - Qualifikation,24,Fri Apr 7 2023,19:30,WSG Tirol,4-0,3-0,Wolfsberger AC,
-Finaldurchgang - Qualifikation,24,Sat Apr 8 2023,17:00,SV Ried,1-3,0-1,TSV Hartberg,
-Finaldurchgang - Qualifikation,24,Sat Apr 8 2023,17:00,Austria Lustenau,1-0,0-0,SCR Altach,
-Finaldurchgang - Meister,24,Sun Apr 9 2023,14:30,Rapid Wien,3-1,1-0,SK Austria Klagenfurt,
-Finaldurchgang - Meister,24,Sun Apr 9 2023,17:00,LASK,2-1,0-0,Sturm Graz,
-Finaldurchgang - Meister,24,Sun Apr 9 2023,14:30,RB Salzburg,3-3,2-0,Austria Wien,
-Finaldurchgang - Qualifikation,25,Fri Apr 14 2023,19:30,SV Ried,1-1,1-1,WSG Tirol,
-Finaldurchgang - Qualifikation,25,Sat Apr 15 2023,17:00,TSV Hartberg,2-2,0-2,SCR Altach,
-Finaldurchgang - Qualifikation,25,Sat Apr 15 2023,17:00,Austria Lustenau,1-3,1-0,Wolfsberger AC,
-Finaldurchgang - Meister,25,Sun Apr 16 2023,14:30,SK Austria Klagenfurt,0-2,0-0,Sturm Graz,
-Finaldurchgang - Meister,25,Sun Apr 16 2023,17:00,Rapid Wien,3-3,2-2,Austria Wien,
-Finaldurchgang - Meister,25,Sun Apr 16 2023,14:30,RB Salzburg,0-0,0-0,LASK,
-Finaldurchgang - Qualifikation,26,Fri Apr 21 2023,19:30,Wolfsberger AC,2-2,0-1,TSV Hartberg,
-Finaldurchgang - Qualifikation,26,Sat Apr 22 2023,17:00,WSG Tirol,0-2,0-0,Austria Lustenau,
-Finaldurchgang - Qualifikation,26,Sat Apr 22 2023,17:00,SCR Altach,1-1,0-0,SV Ried,
-Finaldurchgang - Meister,26,Sun Apr 23 2023,17:00,Sturm Graz,0-2,0-0,RB Salzburg,
-Finaldurchgang - Meister,26,Sun Apr 23 2023,14:30,Austria Wien,1-2,0-0,SK Austria Klagenfurt,
-Finaldurchgang - Meister,26,Sun Apr 23 2023,14:30,LASK,3-1,2-0,Rapid Wien,
-Finaldurchgang - Meister,27,Wed Apr 26 2023,20:30,Rapid Wien,1-1,1-1,RB Salzburg,
-Finaldurchgang - Meister,27,Wed Apr 26 2023,18:30,Sturm Graz,3-2,1-2,Austria Wien,
-Finaldurchgang - Qualifikation,27,Fri Apr 28 2023,19:30,SCR Altach,0-2,0-1,Wolfsberger AC,
-Finaldurchgang - Qualifikation,27,Sat Apr 29 2023,17:00,SV Ried,4-4,1-3,Austria Lustenau,
-Finaldurchgang - Qualifikation,27,Sat Apr 29 2023,17:00,WSG Tirol,1-1,1-0,TSV Hartberg,
-Finaldurchgang - Meister,27,Sun Apr 30 2023,17:00,LASK,4-0,0-0,SK Austria Klagenfurt,
-Finaldurchgang - Qualifikation,28,Fri May 5 2023,19:30,Wolfsberger AC,0-0,0-0,SCR Altach,
-Finaldurchgang - Qualifikation,28,Sat May 6 2023,17:00,Austria Lustenau,2-2,1-0,SV Ried,
-Finaldurchgang - Qualifikation,28,Sat May 6 2023,17:00,TSV Hartberg,5-0,4-0,WSG Tirol,
-Finaldurchgang - Meister,28,Sun May 7 2023,17:00,RB Salzburg,2-1,1-0,Rapid Wien,
-Finaldurchgang - Meister,28,Sun May 7 2023,14:30,Austria Wien,1-2,0-2,Sturm Graz,
-Finaldurchgang - Meister,28,Sun May 7 2023,14:30,SK Austria Klagenfurt,1-1,1-0,LASK,
-Finaldurchgang - Qualifikation,29,Fri May 12 2023,19:30,WSG Tirol,1-1,1-1,SV Ried,
-Finaldurchgang - Qualifikation,29,Sat May 13 2023,17:00,Wolfsberger AC,2-2,2-2,Austria Lustenau,
-Finaldurchgang - Qualifikation,29,Sat May 13 2023,17:00,SCR Altach,0-1,0-1,TSV Hartberg,
-Finaldurchgang - Meister,29,Sun May 14 2023,17:00,Austria Wien,3-1,2-1,Rapid Wien,
-Finaldurchgang - Meister,29,Sun May 14 2023,14:30,LASK,0-1,0-0,RB Salzburg,
-Finaldurchgang - Meister,29,Sun May 14 2023,14:30,Sturm Graz,4-1,2-1,SK Austria Klagenfurt,
-Finaldurchgang - Qualifikation,30,Fri May 19 2023,19:30,SV Ried,0-1,0-0,SCR Altach,
-Finaldurchgang - Qualifikation,30,Sat May 20 2023,17:00,Austria Lustenau,2-4,0-2,WSG Tirol,
-Finaldurchgang - Qualifikation,30,Sat May 20 2023,17:00,TSV Hartberg,0-2,0-1,Wolfsberger AC,
-Finaldurchgang - Meister,30,Sun May 21 2023,14:30,Rapid Wien,1-1,1-0,LASK,
-Finaldurchgang - Meister,30,Sun May 21 2023,17:00,RB Salzburg,2-1,0-1,Sturm Graz,
-Finaldurchgang - Meister,30,Sun May 21 2023,14:30,SK Austria Klagenfurt,1-1,0-0,Austria Wien,
-Finaldurchgang - Qualifikation,31,Sat May 27 2023,17:00,Wolfsberger AC,2-0,2-0,WSG Tirol,
-Finaldurchgang - Qualifikation,31,Sat May 27 2023,17:00,TSV Hartberg,2-0,0-0,SV Ried,
-Finaldurchgang - Qualifikation,31,Sat May 27 2023,17:00,SCR Altach,1-1,1-0,Austria Lustenau,
-Finaldurchgang - Meister,31,Sun May 28 2023,17:00,RB Salzburg,3-2,0-2,SK Austria Klagenfurt,
-Finaldurchgang - Meister,31,Sun May 28 2023,17:00,LASK,3-1,1-0,Austria Wien,
-Finaldurchgang - Meister,31,Sun May 28 2023,17:00,Rapid Wien,3-2,2-2,Sturm Graz,
-Finaldurchgang - Qualifikation,32,Fri Jun 2 2023,19:30,WSG Tirol,1-1,1-0,SCR Altach,
-Finaldurchgang - Qualifikation,32,Fri Jun 2 2023,19:30,SV Ried,1-2,1-0,Wolfsberger AC,
-Finaldurchgang - Qualifikation,32,Fri Jun 2 2023,19:30,Austria Lustenau,5-1,3-0,TSV Hartberg,
-Finaldurchgang - Meister,32,Sat Jun 3 2023,17:00,Austria Wien,1-1,0-1,RB Salzburg,
-Finaldurchgang - Meister,32,Sat Jun 3 2023,17:00,Sturm Graz,2-0,2-0,LASK,
-Finaldurchgang - Meister,32,Sat Jun 3 2023,17:00,SK Austria Klagenfurt,2-1,0-0,Rapid Wien,
-Europa League Play-off,Halbfinale,Mon Jun 5 2023,19:00,Wolfsberger AC,1-1,0-0,Austria Lustenau,1-2
-Europa League Play-off,Finale,Thu Jun 8 2023,17:00,Austria Lustenau,1-1,1-0,Austria Wien,
-Europa League Play-off,Finale,Sun Jun 11 2023,17:00,Austria Wien,5-0,1-0,Austria Lustenau,
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,UTC
+,1,Fri Jul 22 2022,20:30,CEST/+0200,RB Salzburg,3-0,1-0,Austria Wien,,2022-07-22T18:30Z
+,1,Sat Jul 23 2022,19:30,CEST/+0200,Wolfsberger AC,1-1,1-1,Sturm Graz,,2022-07-23T17:30Z
+,1,Sat Jul 23 2022,17:00,CEST/+0200,LASK,3-1,2-0,SK Austria Klagenfurt,,2022-07-23T15:00Z
+,1,Sun Jul 24 2022,17:00,CEST/+0200,TSV Hartberg,2-1,1-0,SCR Altach,,2022-07-24T15:00Z
+,1,Sun Jul 24 2022,17:00,CEST/+0200,Rapid Wien,1-0,0-0,SV Ried,,2022-07-24T15:00Z
+,1,Sun Jul 24 2022,17:00,CEST/+0200,Austria Lustenau,2-1,1-0,WSG Tirol,,2022-07-24T15:00Z
+,2,Sat Jul 30 2022,17:00,CEST/+0200,SV Ried,1-0,1-0,Austria Lustenau,,2022-07-30T15:00Z
+,2,Sat Jul 30 2022,17:00,CEST/+0200,SCR Altach,2-2,1-0,Wolfsberger AC,,2022-07-30T15:00Z
+,2,Sat Jul 30 2022,19:30,CEST/+0200,Sturm Graz,2-1,1-0,RB Salzburg,,2022-07-30T17:30Z
+,2,Sun Jul 31 2022,17:00,CEST/+0200,SK Austria Klagenfurt,0-1,0-0,Rapid Wien,,2022-07-31T15:00Z
+,2,Sun Jul 31 2022,17:00,CEST/+0200,Austria Wien,1-1,0-0,LASK,,2022-07-31T15:00Z
+,2,Sun Jul 31 2022,17:00,CEST/+0200,WSG Tirol,2-1,1-1,TSV Hartberg,,2022-07-31T15:00Z
+,3,Sat Aug 6 2022,17:00,CEST/+0200,SV Ried,1-1,0-1,Sturm Graz,,2022-08-06T15:00Z
+,3,Sat Aug 6 2022,17:00,CEST/+0200,Wolfsberger AC,1-5,0-4,LASK,,2022-08-06T15:00Z
+,3,Sat Aug 6 2022,19:30,CEST/+0200,TSV Hartberg,0-2,0-0,RB Salzburg,,2022-08-06T17:30Z
+,3,Sun Aug 7 2022,17:00,CEST/+0200,WSG Tirol,2-2,2-0,SK Austria Klagenfurt,,2022-08-07T15:00Z
+,3,Sun Aug 7 2022,17:00,CEST/+0200,Rapid Wien,1-1,1-0,Austria Lustenau,,2022-08-07T15:00Z
+,3,Sun Aug 7 2022,17:00,CEST/+0200,SCR Altach,3-2,0-1,Austria Wien,,2022-08-07T15:00Z
+,4,Sat Aug 13 2022,17:00,CEST/+0200,Austria Wien,2-1,1-0,WSG Tirol,,2022-08-13T15:00Z
+,4,Sat Aug 13 2022,17:00,CEST/+0200,SK Austria Klagenfurt,1-0,0-0,SV Ried,,2022-08-13T15:00Z
+,4,Sat Aug 13 2022,19:30,CEST/+0200,Sturm Graz,4-0,1-0,SCR Altach,,2022-08-13T17:30Z
+,4,Sun Aug 14 2022,17:00,CEST/+0200,RB Salzburg,2-1,2-0,Wolfsberger AC,,2022-08-14T15:00Z
+,4,Sun Aug 14 2022,17:00,CEST/+0200,LASK,2-1,2-0,Rapid Wien,,2022-08-14T15:00Z
+,4,Sun Aug 14 2022,17:00,CEST/+0200,Austria Lustenau,4-1,2-1,TSV Hartberg,,2022-08-14T15:00Z
+,5,Sat Aug 20 2022,17:00,CEST/+0200,RB Salzburg,2-0,0-0,SK Austria Klagenfurt,,2022-08-20T15:00Z
+,5,Sat Aug 20 2022,17:00,CEST/+0200,SCR Altach,1-2,1-1,Austria Lustenau,,2022-08-20T15:00Z
+,5,Sat Aug 20 2022,19:30,CEST/+0200,Sturm Graz,0-1,0-0,LASK,,2022-08-20T17:30Z
+,5,Sun Aug 21 2022,17:00,CEST/+0200,Wolfsberger AC,1-2,1-1,Austria Wien,,2022-08-21T15:00Z
+,5,Sun Aug 21 2022,17:00,CEST/+0200,SV Ried,1-2,1-0,WSG Tirol,,2022-08-21T15:00Z
+,6,Sat Aug 27 2022,19:30,CEST/+0200,LASK,4-1,1-0,SCR Altach,,2022-08-27T17:30Z
+,6,Sat Aug 27 2022,17:00,CEST/+0200,Austria Lustenau,0-6,0-2,RB Salzburg,,2022-08-27T15:00Z
+,6,Sat Aug 27 2022,17:00,CEST/+0200,TSV Hartberg,2-0,0-0,SV Ried,,2022-08-27T15:00Z
+,6,Sun Aug 28 2022,17:00,CEST/+0200,WSG Tirol,1-3,1-1,Wolfsberger AC,,2022-08-28T15:00Z
+,6,Sun Aug 28 2022,17:00,CEST/+0200,SK Austria Klagenfurt,3-3,1-1,Austria Wien,,2022-08-28T15:00Z
+,6,Sun Aug 28 2022,17:00,CEST/+0200,Rapid Wien,1-2,1-1,Sturm Graz,,2022-08-28T15:00Z
+,7,Sat Sep 3 2022,17:00,CEST/+0200,Sturm Graz,0-0,0-0,TSV Hartberg,,2022-09-03T15:00Z
+,7,Sat Sep 3 2022,17:00,CEST/+0200,RB Salzburg,2-0,1-0,WSG Tirol,,2022-09-03T15:00Z
+,7,Sat Sep 3 2022,17:00,CEST/+0200,Austria Wien,2-2,1-2,Austria Lustenau,,2022-09-03T15:00Z
+,7,Sun Sep 4 2022,14:30,CEST/+0200,SCR Altach,0-1,0-1,Rapid Wien,,2022-09-04T12:30Z
+,7,Sun Sep 4 2022,14:30,CEST/+0200,Wolfsberger AC,3-4,2-2,SK Austria Klagenfurt,,2022-09-04T12:30Z
+,7,Sun Sep 4 2022,17:00,CEST/+0200,LASK,1-1,1-0,SV Ried,,2022-09-04T15:00Z
+,8,Sat Sep 10 2022,17:00,CEST/+0200,Rapid Wien,1-3,0-2,Wolfsberger AC,,2022-09-10T15:00Z
+,8,Sat Sep 10 2022,17:00,CEST/+0200,WSG Tirol,0-0,0-0,SCR Altach,,2022-09-10T15:00Z
+,8,Sat Sep 10 2022,17:00,CEST/+0200,SV Ried,0-3,0-2,RB Salzburg,,2022-09-10T15:00Z
+,8,Sun Sep 11 2022,17:00,CEST/+0200,SK Austria Klagenfurt,0-2,0-0,Sturm Graz,,2022-09-11T15:00Z
+,8,Sun Sep 11 2022,14:30,CEST/+0200,Austria Lustenau,1-1,0-1,LASK,,2022-09-11T12:30Z
+,8,Sun Sep 11 2022,14:30,CEST/+0200,TSV Hartberg,0-3,0-1,Austria Wien,,2022-09-11T12:30Z
+,9,Sat Sep 17 2022,17:00,CEST/+0200,SCR Altach,1-4,1-1,SK Austria Klagenfurt,,2022-09-17T15:00Z
+,9,Sat Sep 17 2022,17:00,CEST/+0200,LASK,1-4,1-3,WSG Tirol,,2022-09-17T15:00Z
+,9,Sat Sep 17 2022,17:00,CEST/+0200,Wolfsberger AC,3-1,1-1,TSV Hartberg,,2022-09-17T15:00Z
+,9,Sun Sep 18 2022,14:30,CEST/+0200,Austria Wien,3-0,1-0,SV Ried,,2022-09-18T12:30Z
+,9,Sun Sep 18 2022,14:30,CEST/+0200,Sturm Graz,2-0,1-0,Austria Lustenau,,2022-09-18T12:30Z
+,9,Sun Sep 18 2022,17:00,CEST/+0200,RB Salzburg,1-1,1-1,Rapid Wien,,2022-09-18T15:00Z
+,10,Sat Oct 1 2022,17:00,CEST/+0200,WSG Tirol,0-5,0-1,Rapid Wien,,2022-10-01T15:00Z
+,10,Sat Oct 1 2022,17:00,CEST/+0200,RB Salzburg,1-1,0-0,LASK,,2022-10-01T15:00Z
+,10,Sat Oct 1 2022,17:00,CEST/+0200,Austria Lustenau,1-3,1-1,Wolfsberger AC,,2022-10-01T15:00Z
+,10,Sun Oct 2 2022,14:30,CEST/+0200,SV Ried,2-3,2-1,SCR Altach,,2022-10-02T12:30Z
+,10,Sun Oct 2 2022,14:30,CEST/+0200,TSV Hartberg,2-3,1-2,SK Austria Klagenfurt,,2022-10-02T12:30Z
+,10,Sun Oct 2 2022,17:00,CEST/+0200,Austria Wien,0-3,0-1,Sturm Graz,,2022-10-02T15:00Z
+,11,Sat Oct 8 2022,17:00,CEST/+0200,SK Austria Klagenfurt,2-1,1-0,Austria Lustenau,,2022-10-08T15:00Z
+,11,Sat Oct 8 2022,17:00,CEST/+0200,LASK,0-3,0-0,TSV Hartberg,,2022-10-08T15:00Z
+,11,Sat Oct 8 2022,17:00,CEST/+0200,SCR Altach,2-3,0-0,RB Salzburg,,2022-10-08T15:00Z
+,11,Sun Oct 9 2022,14:30,CEST/+0200,Sturm Graz,2-1,2-1,WSG Tirol,,2022-10-09T12:30Z
+,11,Sun Oct 9 2022,14:30,CEST/+0200,Wolfsberger AC,1-2,0-2,SV Ried,,2022-10-09T12:30Z
+,11,Sun Oct 9 2022,17:00,CEST/+0200,Rapid Wien,1-2,0-2,Austria Wien,,2022-10-09T15:00Z
+,12,Sat Oct 15 2022,17:00,CEST/+0200,SK Austria Klagenfurt,1-3,0-1,LASK,,2022-10-15T15:00Z
+,12,Sat Oct 15 2022,17:00,CEST/+0200,WSG Tirol,3-2,3-0,Austria Lustenau,,2022-10-15T15:00Z
+,12,Sat Oct 15 2022,17:00,CEST/+0200,SV Ried,1-0,0-0,Rapid Wien,,2022-10-15T15:00Z
+,12,Sun Oct 16 2022,14:30,CEST/+0200,Sturm Graz,3-2,0-1,Wolfsberger AC,,2022-10-16T12:30Z
+,12,Sun Oct 16 2022,14:30,CEST/+0200,SCR Altach,1-0,0-0,TSV Hartberg,,2022-10-16T12:30Z
+,12,Sun Oct 16 2022,17:00,CEST/+0200,Austria Wien,1-3,1-1,RB Salzburg,,2022-10-16T15:00Z
+,13,Sat Oct 22 2022,17:00,CEST/+0200,TSV Hartberg,1-5,1-2,WSG Tirol,,2022-10-22T15:00Z
+,13,Sat Oct 22 2022,17:00,CEST/+0200,RB Salzburg,0-0,0-0,Sturm Graz,,2022-10-22T15:00Z
+,13,Sat Oct 22 2022,17:00,CEST/+0200,Rapid Wien,0-1,0-1,SK Austria Klagenfurt,,2022-10-22T15:00Z
+,13,Sun Oct 23 2022,14:30,CEST/+0200,Austria Lustenau,0-0,0-0,SV Ried,,2022-10-23T12:30Z
+,13,Sun Oct 23 2022,14:30,CEST/+0200,Wolfsberger AC,2-3,2-2,SCR Altach,,2022-10-23T12:30Z
+,13,Sun Oct 23 2022,17:00,CEST/+0200,LASK,2-2,0-0,Austria Wien,,2022-10-23T15:00Z
+,5,Wed Oct 26 2022,16:00,CEST/+0200,Rapid Wien,5-1,1-1,TSV Hartberg,,2022-10-26T14:00Z
+,14,Sat Oct 29 2022,17:00,CEST/+0200,SK Austria Klagenfurt,2-3,1-2,WSG Tirol,,2022-10-29T15:00Z
+,14,Sat Oct 29 2022,17:00,CEST/+0200,Austria Lustenau,3-3,1-0,Rapid Wien,,2022-10-29T15:00Z
+,14,Sat Oct 29 2022,17:00,CEST/+0200,RB Salzburg,1-0,0-0,TSV Hartberg,,2022-10-29T15:00Z
+,14,Sun Oct 30 2022,14:30,CET/+0100,Austria Wien,2-1,0-1,SCR Altach,,2022-10-30T13:30Z
+,14,Sun Oct 30 2022,14:30,CET/+0100,LASK,4-1,3-0,Wolfsberger AC,,2022-10-30T13:30Z
+,14,Sun Oct 30 2022,17:00,CET/+0100,Sturm Graz,2-1,1-0,SV Ried,,2022-10-30T16:00Z
+,15,Sat Nov 5 2022,17:00,CET/+0100,TSV Hartberg,1-1,0-1,Austria Lustenau,,2022-11-05T16:00Z
+,15,Sat Nov 5 2022,17:00,CET/+0100,Wolfsberger AC,1-2,0-2,RB Salzburg,,2022-11-05T16:00Z
+,15,Sat Nov 5 2022,17:00,CET/+0100,SV Ried,2-2,1-0,SK Austria Klagenfurt,,2022-11-05T16:00Z
+,15,Sun Nov 6 2022,14:30,CET/+0100,WSG Tirol,0-0,0-0,Austria Wien,,2022-11-06T13:30Z
+,15,Sun Nov 6 2022,14:30,CET/+0100,SCR Altach,1-1,1-1,Sturm Graz,,2022-11-06T13:30Z
+,15,Sun Nov 6 2022,17:00,CET/+0100,Rapid Wien,1-0,1-0,LASK,,2022-11-06T16:00Z
+,16,Sat Nov 12 2022,17:00,CET/+0100,TSV Hartberg,1-2,1-1,Rapid Wien,,2022-11-12T16:00Z
+,16,Sat Nov 12 2022,17:00,CET/+0100,WSG Tirol,2-0,2-0,SV Ried,,2022-11-12T16:00Z
+,16,Sat Nov 12 2022,17:00,CET/+0100,Austria Lustenau,3-0,2-0,SCR Altach,,2022-11-12T16:00Z
+,16,Sun Nov 13 2022,14:30,CET/+0100,Austria Wien,0-1,0-0,Wolfsberger AC,,2022-11-13T13:30Z
+,16,Sun Nov 13 2022,17:00,CET/+0100,LASK,1-1,0-0,Sturm Graz,,2022-11-13T16:00Z
+,16,Sun Nov 13 2022,14:30,CET/+0100,SK Austria Klagenfurt,0-1,0-0,RB Salzburg,,2022-11-13T13:30Z
+,17,Fri Feb 10 2023,20:30,CET/+0100,Sturm Graz,1-0,0-0,Rapid Wien,,2023-02-10T19:30Z
+,17,Sat Feb 11 2023,17:00,CET/+0100,RB Salzburg,4-0,0-0,Austria Lustenau,,2023-02-11T16:00Z
+,17,Sat Feb 11 2023,17:00,CET/+0100,Wolfsberger AC,1-2,0-0,WSG Tirol,,2023-02-11T16:00Z
+,17,Sun Feb 12 2023,14:30,CET/+0100,SCR Altach,0-1,0-1,LASK,,2023-02-12T13:30Z
+,17,Sun Feb 12 2023,17:00,CET/+0100,Austria Wien,3-1,1-0,SK Austria Klagenfurt,,2023-02-12T16:00Z
+,17,Sun Feb 12 2023,14:30,CET/+0100,SV Ried,0-1,0-0,TSV Hartberg,,2023-02-12T13:30Z
+,18,Sat Feb 18 2023,17:00,CET/+0100,TSV Hartberg,1-2,0-2,Sturm Graz,,2023-02-18T16:00Z
+,18,Sat Feb 18 2023,17:00,CET/+0100,SK Austria Klagenfurt,0-3,0-3,Wolfsberger AC,,2023-02-18T16:00Z
+,18,Sat Feb 18 2023,17:00,CET/+0100,SV Ried,1-1,1-0,LASK,,2023-02-18T16:00Z
+,18,Sun Feb 19 2023,14:30,CET/+0100,Austria Lustenau,1-0,1-0,Austria Wien,,2023-02-19T13:30Z
+,18,Sun Feb 19 2023,17:00,CET/+0100,Rapid Wien,3-0,0-0,SCR Altach,,2023-02-19T16:00Z
+,18,Sun Feb 19 2023,14:30,CET/+0100,WSG Tirol,1-3,0-1,RB Salzburg,,2023-02-19T13:30Z
+,19,Fri Feb 24 2023,20:30,CET/+0100,LASK,1-0,0-0,Austria Lustenau,,2023-02-24T19:30Z
+,19,Sat Feb 25 2023,17:00,CET/+0100,Austria Wien,3-0,1-0,TSV Hartberg,,2023-02-25T16:00Z
+,19,Sat Feb 25 2023,17:00,CET/+0100,Sturm Graz,1-2,1-1,SK Austria Klagenfurt,,2023-02-25T16:00Z
+,19,Sun Feb 26 2023,14:30,CET/+0100,SCR Altach,0-0,0-0,WSG Tirol,,2023-02-26T13:30Z
+,19,Sun Feb 26 2023,17:00,CET/+0100,RB Salzburg,2-0,1-0,SV Ried,,2023-02-26T16:00Z
+,19,Sun Feb 26 2023,14:30,CET/+0100,Wolfsberger AC,1-2,0-2,Rapid Wien,,2023-02-26T13:30Z
+,20,Sat Mar 4 2023,17:00,CET/+0100,SV Ried,1-3,1-1,Austria Wien,,2023-03-04T16:00Z
+,20,Sat Mar 4 2023,17:00,CET/+0100,Austria Lustenau,0-2,0-0,Sturm Graz,,2023-03-04T16:00Z
+,20,Sat Mar 4 2023,17:00,CET/+0100,TSV Hartberg,2-1,1-1,Wolfsberger AC,,2023-03-04T16:00Z
+,20,Sun Mar 5 2023,14:30,CET/+0100,WSG Tirol,2-3,1-2,LASK,,2023-03-05T13:30Z
+,20,Sun Mar 5 2023,14:30,CET/+0100,SK Austria Klagenfurt,3-0,3-0,SCR Altach,,2023-03-05T13:30Z
+,20,Sun Mar 5 2023,17:00,CET/+0100,Rapid Wien,2-4,1-1,RB Salzburg,,2023-03-05T16:00Z
+,21,Sun Mar 12 2023,17:00,CET/+0100,Sturm Graz,3-1,1-1,Austria Wien,,2023-03-12T16:00Z
+,21,Sun Mar 12 2023,17:00,CET/+0100,SCR Altach,1-2,1-1,SV Ried,,2023-03-12T16:00Z
+,21,Sun Mar 12 2023,17:00,CET/+0100,Wolfsberger AC,0-1,0-0,Austria Lustenau,,2023-03-12T16:00Z
+,21,Sun Mar 12 2023,17:00,CET/+0100,SK Austria Klagenfurt,1-0,1-0,TSV Hartberg,,2023-03-12T16:00Z
+,21,Sun Mar 12 2023,17:00,CET/+0100,Rapid Wien,2-0,0-0,WSG Tirol,,2023-03-12T16:00Z
+,21,Sun Mar 12 2023,17:00,CET/+0100,LASK,0-2,0-0,RB Salzburg,,2023-03-12T16:00Z
+,22,Sun Mar 19 2023,17:00,CET/+0100,TSV Hartberg,2-2,1-1,LASK,,2023-03-19T16:00Z
+,22,Sun Mar 19 2023,17:00,CET/+0100,SV Ried,0-0,0-0,Wolfsberger AC,,2023-03-19T16:00Z
+,22,Sun Mar 19 2023,17:00,CET/+0100,WSG Tirol,0-2,0-0,Sturm Graz,,2023-03-19T16:00Z
+,22,Sun Mar 19 2023,17:00,CET/+0100,Austria Lustenau,4-2,2-1,SK Austria Klagenfurt,,2023-03-19T16:00Z
+,22,Sun Mar 19 2023,17:00,CET/+0100,Austria Wien,2-0,1-0,Rapid Wien,,2023-03-19T16:00Z
+,22,Sun Mar 19 2023,17:00,CET/+0100,RB Salzburg,1-1,0-0,SCR Altach,,2023-03-19T16:00Z
+Playoffs - Relegation,23,Fri Mar 31 2023,19:30,CEST/+0200,TSV Hartberg,0-1,0-1,Austria Lustenau,,2023-03-31T17:30Z
+Playoffs - Relegation,23,Sat Apr 1 2023,17:00,CEST/+0200,SCR Altach,1-0,0-0,WSG Tirol,,2023-04-01T15:00Z
+Playoffs - Relegation,23,Sat Apr 1 2023,17:00,CEST/+0200,Wolfsberger AC,1-0,0-0,SV Ried,,2023-04-01T15:00Z
+Playoffs - Championship,23,Sun Apr 2 2023,14:30,CEST/+0200,Austria Wien,2-2,0-0,LASK,,2023-04-02T12:30Z
+Playoffs - Championship,23,Sun Apr 2 2023,17:30,CEST/+0200,Sturm Graz,3-1,2-1,Rapid Wien,,2023-04-02T15:30Z
+Playoffs - Championship,23,Sun Apr 2 2023,14:30,CEST/+0200,SK Austria Klagenfurt,0-3,0-1,RB Salzburg,,2023-04-02T12:30Z
+Playoffs - Relegation,24,Fri Apr 7 2023,19:30,CEST/+0200,WSG Tirol,4-0,3-0,Wolfsberger AC,,2023-04-07T17:30Z
+Playoffs - Relegation,24,Sat Apr 8 2023,17:00,CEST/+0200,SV Ried,1-3,0-1,TSV Hartberg,,2023-04-08T15:00Z
+Playoffs - Relegation,24,Sat Apr 8 2023,17:00,CEST/+0200,Austria Lustenau,1-0,0-0,SCR Altach,,2023-04-08T15:00Z
+Playoffs - Championship,24,Sun Apr 9 2023,17:00,CEST/+0200,LASK,2-1,0-0,Sturm Graz,,2023-04-09T15:00Z
+Playoffs - Championship,24,Sun Apr 9 2023,14:30,CEST/+0200,Rapid Wien,3-1,1-0,SK Austria Klagenfurt,,2023-04-09T12:30Z
+Playoffs - Championship,24,Sun Apr 9 2023,14:30,CEST/+0200,RB Salzburg,3-3,2-0,Austria Wien,,2023-04-09T12:30Z
+Playoffs - Relegation,25,Fri Apr 14 2023,19:30,CEST/+0200,SV Ried,1-1,1-1,WSG Tirol,,2023-04-14T17:30Z
+Playoffs - Relegation,25,Sat Apr 15 2023,17:00,CEST/+0200,Austria Lustenau,1-3,1-0,Wolfsberger AC,,2023-04-15T15:00Z
+Playoffs - Relegation,25,Sat Apr 15 2023,17:00,CEST/+0200,TSV Hartberg,2-2,0-2,SCR Altach,,2023-04-15T15:00Z
+Playoffs - Championship,25,Sun Apr 16 2023,17:00,CEST/+0200,Rapid Wien,3-3,2-2,Austria Wien,,2023-04-16T15:00Z
+Playoffs - Championship,25,Sun Apr 16 2023,14:30,CEST/+0200,SK Austria Klagenfurt,0-2,0-0,Sturm Graz,,2023-04-16T12:30Z
+Playoffs - Championship,25,Sun Apr 16 2023,14:30,CEST/+0200,RB Salzburg,0-0,0-0,LASK,,2023-04-16T12:30Z
+Playoffs - Relegation,26,Fri Apr 21 2023,19:30,CEST/+0200,Wolfsberger AC,2-2,0-1,TSV Hartberg,,2023-04-21T17:30Z
+Playoffs - Relegation,26,Sat Apr 22 2023,17:00,CEST/+0200,WSG Tirol,0-2,0-0,Austria Lustenau,,2023-04-22T15:00Z
+Playoffs - Relegation,26,Sat Apr 22 2023,17:00,CEST/+0200,SCR Altach,1-1,0-0,SV Ried,,2023-04-22T15:00Z
+Playoffs - Championship,26,Sun Apr 23 2023,14:30,CEST/+0200,Austria Wien,1-2,0-0,SK Austria Klagenfurt,,2023-04-23T12:30Z
+Playoffs - Championship,26,Sun Apr 23 2023,17:00,CEST/+0200,Sturm Graz,0-2,0-0,RB Salzburg,,2023-04-23T15:00Z
+Playoffs - Championship,26,Sun Apr 23 2023,14:30,CEST/+0200,LASK,3-1,2-0,Rapid Wien,,2023-04-23T12:30Z
+Playoffs - Championship,27,Wed Apr 26 2023,18:30,CEST/+0200,Sturm Graz,3-2,1-2,Austria Wien,,2023-04-26T16:30Z
+Playoffs - Championship,27,Wed Apr 26 2023,20:30,CEST/+0200,Rapid Wien,1-1,1-1,RB Salzburg,,2023-04-26T18:30Z
+Playoffs - Relegation,27,Fri Apr 28 2023,19:30,CEST/+0200,SCR Altach,0-2,0-1,Wolfsberger AC,,2023-04-28T17:30Z
+Playoffs - Relegation,27,Sat Apr 29 2023,17:00,CEST/+0200,WSG Tirol,1-1,1-0,TSV Hartberg,,2023-04-29T15:00Z
+Playoffs - Relegation,27,Sat Apr 29 2023,17:00,CEST/+0200,SV Ried,4-4,1-3,Austria Lustenau,,2023-04-29T15:00Z
+Playoffs - Championship,27,Sun Apr 30 2023,17:00,CEST/+0200,LASK,4-0,0-0,SK Austria Klagenfurt,,2023-04-30T15:00Z
+Playoffs - Relegation,28,Fri May 5 2023,19:30,CEST/+0200,Wolfsberger AC,0-0,0-0,SCR Altach,,2023-05-05T17:30Z
+Playoffs - Relegation,28,Sat May 6 2023,17:00,CEST/+0200,Austria Lustenau,2-2,1-0,SV Ried,,2023-05-06T15:00Z
+Playoffs - Relegation,28,Sat May 6 2023,17:00,CEST/+0200,TSV Hartberg,5-0,4-0,WSG Tirol,,2023-05-06T15:00Z
+Playoffs - Championship,28,Sun May 7 2023,14:30,CEST/+0200,Austria Wien,1-2,0-2,Sturm Graz,,2023-05-07T12:30Z
+Playoffs - Championship,28,Sun May 7 2023,17:00,CEST/+0200,RB Salzburg,2-1,1-0,Rapid Wien,,2023-05-07T15:00Z
+Playoffs - Championship,28,Sun May 7 2023,14:30,CEST/+0200,SK Austria Klagenfurt,1-1,1-0,LASK,,2023-05-07T12:30Z
+Playoffs - Relegation,29,Fri May 12 2023,19:30,CEST/+0200,WSG Tirol,1-1,1-1,SV Ried,,2023-05-12T17:30Z
+Playoffs - Relegation,29,Sat May 13 2023,17:00,CEST/+0200,Wolfsberger AC,2-2,2-2,Austria Lustenau,,2023-05-13T15:00Z
+Playoffs - Relegation,29,Sat May 13 2023,17:00,CEST/+0200,SCR Altach,0-1,0-1,TSV Hartberg,,2023-05-13T15:00Z
+Playoffs - Championship,29,Sun May 14 2023,14:30,CEST/+0200,LASK,0-1,0-0,RB Salzburg,,2023-05-14T12:30Z
+Playoffs - Championship,29,Sun May 14 2023,17:00,CEST/+0200,Austria Wien,3-1,2-1,Rapid Wien,,2023-05-14T15:00Z
+Playoffs - Championship,29,Sun May 14 2023,14:30,CEST/+0200,Sturm Graz,4-1,2-1,SK Austria Klagenfurt,,2023-05-14T12:30Z
+Playoffs - Relegation,30,Fri May 19 2023,19:30,CEST/+0200,SV Ried,0-1,0-0,SCR Altach,,2023-05-19T17:30Z
+Playoffs - Relegation,30,Sat May 20 2023,17:00,CEST/+0200,TSV Hartberg,0-2,0-1,Wolfsberger AC,,2023-05-20T15:00Z
+Playoffs - Relegation,30,Sat May 20 2023,17:00,CEST/+0200,Austria Lustenau,2-4,0-2,WSG Tirol,,2023-05-20T15:00Z
+Playoffs - Championship,30,Sun May 21 2023,17:00,CEST/+0200,RB Salzburg,2-1,0-1,Sturm Graz,,2023-05-21T15:00Z
+Playoffs - Championship,30,Sun May 21 2023,14:30,CEST/+0200,Rapid Wien,1-1,1-0,LASK,,2023-05-21T12:30Z
+Playoffs - Championship,30,Sun May 21 2023,14:30,CEST/+0200,SK Austria Klagenfurt,1-1,0-0,Austria Wien,,2023-05-21T12:30Z
+Playoffs - Relegation,31,Sat May 27 2023,17:00,CEST/+0200,TSV Hartberg,2-0,0-0,SV Ried,,2023-05-27T15:00Z
+Playoffs - Relegation,31,Sat May 27 2023,17:00,CEST/+0200,SCR Altach,1-1,1-0,Austria Lustenau,,2023-05-27T15:00Z
+Playoffs - Relegation,31,Sat May 27 2023,17:00,CEST/+0200,Wolfsberger AC,2-0,2-0,WSG Tirol,,2023-05-27T15:00Z
+Playoffs - Championship,31,Sun May 28 2023,17:00,CEST/+0200,Rapid Wien,3-2,2-2,Sturm Graz,,2023-05-28T15:00Z
+Playoffs - Championship,31,Sun May 28 2023,17:00,CEST/+0200,RB Salzburg,3-2,0-2,SK Austria Klagenfurt,,2023-05-28T15:00Z
+Playoffs - Championship,31,Sun May 28 2023,17:00,CEST/+0200,LASK,3-1,1-0,Austria Wien,,2023-05-28T15:00Z
+Playoffs - Relegation,32,Fri Jun 2 2023,19:30,CEST/+0200,SV Ried,1-2,1-0,Wolfsberger AC,,2023-06-02T17:30Z
+Playoffs - Relegation,32,Fri Jun 2 2023,19:30,CEST/+0200,Austria Lustenau,5-1,3-0,TSV Hartberg,,2023-06-02T17:30Z
+Playoffs - Relegation,32,Fri Jun 2 2023,19:30,CEST/+0200,WSG Tirol,1-1,1-0,SCR Altach,,2023-06-02T17:30Z
+Playoffs - Championship,32,Sat Jun 3 2023,17:00,CEST/+0200,SK Austria Klagenfurt,2-1,0-0,Rapid Wien,,2023-06-03T15:00Z
+Playoffs - Championship,32,Sat Jun 3 2023,17:00,CEST/+0200,Sturm Graz,2-0,2-0,LASK,,2023-06-03T15:00Z
+Playoffs - Championship,32,Sat Jun 3 2023,17:00,CEST/+0200,Austria Wien,1-1,0-1,RB Salzburg,,2023-06-03T15:00Z
+Europa League Finals,Semifinals,Mon Jun 5 2023,19:00,CEST/+0200,Wolfsberger AC,1-1,0-0,Austria Lustenau,1-2,2023-06-05T17:00Z
+Europa League Finals,Final,Thu Jun 8 2023,17:00,CEST/+0200,Austria Lustenau,1-1,1-0,Austria Wien,,2023-06-08T15:00Z
+Europa League Finals,Final,Sun Jun 11 2023,17:00,CEST/+0200,Austria Wien,5-0,1-0,Austria Lustenau,,2023-06-11T15:00Z

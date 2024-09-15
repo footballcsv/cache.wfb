@@ -246,9 +246,9 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
 25,Sun Sep 1 2024,18:30,-0300,Vitória BA,0-1,0-0,Vasco da Gama RJ,,2024-09-01T21:30Z
 16,Thu Sep 5 2024,20:00,-0300,Cuiabá MT,0-0,0-0,Juventude RS,,2024-09-05T23:00Z
 19,Wed Sep 11 2024,19:30,-0300,Internacional,2-1,1-1,Fortaleza CE,,2024-09-11T22:30Z
-26,Sat Sep 14 2024,18:30,-0300,Athletico Paranaense,,,Fortaleza CE,,2024-09-14T21:30Z
-26,Sat Sep 14 2024,21:00,-0300,Botafogo RJ,,,Corinthians SP,,2024-09-15T00:00Z
-26,Sat Sep 14 2024,16:00,-0300,Atlético Goianiense,,,Vitória BA,,2024-09-14T19:00Z
+26,Sat Sep 14 2024,18:30,-0300,Athletico Paranaense,1-1,1-1,Fortaleza CE,,2024-09-14T21:30Z
+26,Sat Sep 14 2024,21:00,-0300,Botafogo RJ,2-1,1-0,Corinthians SP,,2024-09-15T00:00Z
+26,Sat Sep 14 2024,16:00,-0300,Atlético Goianiense,0-2,0-1,Vitória BA,,2024-09-14T19:00Z
 26,Sun Sep 15 2024,18:30,-0300,Flamengo RJ,,,Vasco da Gama RJ,,2024-09-15T21:30Z
 26,Sun Sep 15 2024,18:30,-0300,Bahia BA,,,Atlético Mineiro,,2024-09-15T21:30Z
 26,Sun Sep 15 2024,16:00,-0300,Red Bull Bragantino,,,Grêmio Porto Alegre,,2024-09-15T19:00Z
