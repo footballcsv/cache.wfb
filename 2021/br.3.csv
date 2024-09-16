@@ -1,0 +1,207 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+Gruppe A,1,Sat May 29 2021,15:30,-0300,Floresta CE,2-0,2-0,Jacuipense BA,2021-05-29T18:30Z
+Gruppe A,1,Sat May 29 2021,17:00,-0300,Botafogo PB,0-0,0-0,Ferroviário CE,2021-05-29T20:00Z
+Gruppe A,1,Sat May 29 2021,19:00,-0300,Tombense MG,1-1,1-0,Paysandu PA,2021-05-29T22:00Z
+Gruppe B,1,Sat May 29 2021,17:00,-0300,Criciúma SC,1-0,0-0,Ituano SP,2021-05-29T20:00Z
+Gruppe B,1,Sat May 29 2021,16:00,-0300,Grêmio Novorizontino SP,1-0,1-0,Figueirense SC,2021-05-29T19:00Z
+Gruppe A,1,Sun May 30 2021,18:00,-0300,Manaus AM,2-0,1-0,Santa Cruz PE,2021-05-30T21:00Z
+Gruppe A,1,Sun May 30 2021,16:00,-0300,Altos PI,3-0,1-0,Volta Redonda RJ,2021-05-30T19:00Z
+Gruppe B,1,Sun May 30 2021,20:00,-0300,Botafogo SP,1-0,0-0,São José RS,2021-05-30T23:00Z
+Gruppe B,1,Mon May 31 2021,20:00,-0300,Ypiranga RS,2-0,1-0,Paraná Clube,2021-05-31T23:00Z
+Gruppe B,2,Sat Jun 5 2021,16:00,-0300,Figueirense SC,1-0,1-0,Oeste SP,2021-06-05T19:00Z
+Gruppe A,2,Sat Jun 5 2021,15:30,-0300,Ferroviário CE,1-0,1-0,Altos PI,2021-06-05T18:30Z
+Gruppe A,2,Sat Jun 5 2021,17:00,-0300,Santa Cruz PE,0-0,0-0,Floresta CE,2021-06-05T20:00Z
+Gruppe B,2,Sat Jun 5 2021,19:00,-0300,Paraná Clube,0-1,0-1,Botafogo SP,2021-06-05T22:00Z
+Gruppe B,2,Sat Jun 5 2021,17:00,-0300,Mirassol SP,1-2,0-2,Ypiranga RS,2021-06-05T20:00Z
+Gruppe B,2,Sat Jun 5 2021,11:00,-0300,Ituano SP,1-4,0-3,Grêmio Novorizontino SP,2021-06-05T14:00Z
+Gruppe A,2,Sun Jun 6 2021,16:00,-0300,Jacuipense BA,1-1,1-0,Tombense MG,2021-06-06T19:00Z
+Gruppe A,2,Sun Jun 6 2021,16:00,-0300,Volta Redonda RJ,5-0,1-0,Manaus AM,2021-06-06T19:00Z
+Gruppe B,2,Sun Jun 6 2021,18:00,-0300,São José RS,0-0,0-0,Criciúma SC,2021-06-06T21:00Z
+Gruppe A,2,Mon Jun 7 2021,20:00,-0300,Paysandu PA,0-2,0-1,Botafogo PB,2021-06-07T23:00Z
+Gruppe B,3,Sat Jun 12 2021,15:00,-0300,São José RS,0-0,0-0,Ituano SP,2021-06-12T18:00Z
+Gruppe B,3,Sat Jun 12 2021,17:00,-0300,Botafogo SP,1-3,0-2,Mirassol SP,2021-06-12T20:00Z
+Gruppe A,3,Sat Jun 12 2021,17:00,-0300,Manaus AM,2-1,1-1,Floresta CE,2021-06-12T20:00Z
+Gruppe A,3,Sat Jun 12 2021,19:00,-0300,Jacuipense BA,0-2,0-2,Paysandu PA,2021-06-12T22:00Z
+Gruppe B,3,Sat Jun 12 2021,15:00,-0300,Grêmio Novorizontino SP,0-0,0-0,Oeste SP,2021-06-12T18:00Z
+Gruppe A,3,Sun Jun 13 2021,16:00,-0300,Botafogo PB,1-2,0-0,Volta Redonda RJ,2021-06-13T19:00Z
+Gruppe A,3,Sun Jun 13 2021,11:00,-0300,Tombense MG,2-2,1-2,Altos PI,2021-06-13T14:00Z
+Gruppe B,3,Sun Jun 13 2021,16:00,-0300,Paraná Clube,1-1,1-1,Figueirense SC,2021-06-13T19:00Z
+Gruppe B,3,Sun Jun 13 2021,11:00,-0300,Criciúma SC,2-1,2-0,Ypiranga RS,2021-06-13T14:00Z
+Gruppe A,3,Mon Jun 14 2021,20:00,-0300,Ferroviário CE,1-0,0-0,Santa Cruz PE,2021-06-14T23:00Z
+Gruppe B,1,Wed Jun 16 2021,16:00,-0300,Oeste SP,0-1,0-0,Mirassol SP,2021-06-16T19:00Z
+Gruppe A,4,Fri Jun 18 2021,20:00,-0300,Tombense MG,3-0,2-0,Ferroviário CE,2021-06-18T23:00Z
+Gruppe A,4,Sat Jun 19 2021,15:30,-0300,Floresta CE,0-0,0-0,Botafogo PB,2021-06-19T18:30Z
+Gruppe A,4,Sat Jun 19 2021,17:00,-0300,Paysandu PA,0-0,0-0,Volta Redonda RJ,2021-06-19T20:00Z
+Gruppe B,4,Sat Jun 19 2021,17:00,-0300,Ituano SP,2-1,1-1,Paraná Clube,2021-06-19T20:00Z
+Gruppe B,4,Sat Jun 19 2021,19:00,-0300,Oeste SP,0-0,0-0,Criciúma SC,2021-06-19T22:00Z
+Gruppe B,4,Sat Jun 19 2021,11:00,-0300,Grêmio Novorizontino SP,1-0,1-0,São José RS,2021-06-19T14:00Z
+Gruppe A,4,Sun Jun 20 2021,16:00,-0300,Altos PI,3-2,2-0,Manaus AM,2021-06-20T19:00Z
+Gruppe B,4,Sun Jun 20 2021,11:00,-0300,Ypiranga RS,3-0,3-0,Botafogo SP,2021-06-20T14:00Z
+Gruppe B,4,Sun Jun 20 2021,18:00,-0300,Figueirense SC,1-1,0-1,Mirassol SP,2021-06-20T21:00Z
+Gruppe A,4,Mon Jun 21 2021,20:00,-0300,Santa Cruz PE,2-2,0-0,Jacuipense BA,2021-06-21T23:00Z
+Gruppe A,5,Fri Jun 25 2021,20:00,-0300,Botafogo PB,2-0,1-0,Altos PI,2021-06-25T23:00Z
+Gruppe A,5,Sat Jun 26 2021,17:00,-0300,Manaus AM,2-1,1-0,Tombense MG,2021-06-26T20:00Z
+Gruppe A,5,Sat Jun 26 2021,15:00,-0300,Jacuipense BA,1-0,1-0,Ferroviário CE,2021-06-26T18:00Z
+Gruppe B,5,Sat Jun 26 2021,17:00,-0300,Mirassol SP,1-2,1-0,Ituano SP,2021-06-26T20:00Z
+Gruppe B,5,Sat Jun 26 2021,11:00,-0300,Paraná Clube,3-1,3-0,São José RS,2021-06-26T14:00Z
+Gruppe A,5,Sat Jun 26 2021,19:00,-0300,Volta Redonda RJ,0-0,0-0,Santa Cruz PE,2021-06-26T22:00Z
+Gruppe B,5,Sun Jun 27 2021,11:00,-0300,Botafogo SP,1-0,1-0,Oeste SP,2021-06-27T14:00Z
+Gruppe A,5,Sun Jun 27 2021,15:30,-0300,Floresta CE,0-2,0-0,Paysandu PA,2021-06-27T18:30Z
+Gruppe B,5,Sun Jun 27 2021,16:00,-0300,Criciúma SC,1-0,0-0,Grêmio Novorizontino SP,2021-06-27T19:00Z
+Gruppe B,5,Mon Jun 28 2021,20:00,-0300,Ypiranga RS,0-0,0-0,Figueirense SC,2021-06-28T23:00Z
+Gruppe A,6,Sat Jul 3 2021,19:00,-0300,Santa Cruz PE,1-2,0-1,Paysandu PA,2021-07-03T22:00Z
+Gruppe B,6,Sat Jul 3 2021,11:00,-0300,Oeste SP,2-4,1-3,Ypiranga RS,2021-07-03T14:00Z
+Gruppe B,6,Sat Jul 3 2021,17:00,-0300,Grêmio Novorizontino SP,1-0,0-0,Botafogo SP,2021-07-03T20:00Z
+Gruppe A,6,Sat Jul 3 2021,15:00,-0300,Ferroviário CE,1-1,0-0,Volta Redonda RJ,2021-07-03T18:00Z
+Gruppe A,6,Sat Jul 3 2021,16:30,-0300,Manaus AM,1-1,0-1,Jacuipense BA,2021-07-03T19:30Z
+Gruppe A,6,Sat Jul 3 2021,17:00,-0300,Tombense MG,2-0,1-0,Botafogo PB,2021-07-03T20:00Z
+Gruppe A,6,Sun Jul 4 2021,16:00,-0300,Altos PI,0-1,0-0,Floresta CE,2021-07-04T19:00Z
+Gruppe B,6,Sun Jul 4 2021,16:00,-0300,Criciúma SC,2-0,0-0,Paraná Clube,2021-07-04T19:00Z
+Gruppe B,6,Sun Jul 4 2021,11:00,-0300,São José RS,2-1,0-1,Mirassol SP,2021-07-04T14:00Z
+Gruppe B,6,Mon Jul 5 2021,18:00,-0300,Ituano SP,1-0,0-0,Figueirense SC,2021-07-05T21:00Z
+Gruppe B,7,Fri Jul 9 2021,20:00,-0300,Ypiranga RS,3-2,1-0,Grêmio Novorizontino SP,2021-07-09T23:00Z
+Gruppe A,7,Sat Jul 10 2021,11:00,-0300,Volta Redonda RJ,0-0,0-0,Jacuipense BA,2021-07-10T14:00Z
+Gruppe A,7,Sat Jul 10 2021,19:00,-0300,Botafogo PB,4-1,1-0,Manaus AM,2021-07-10T22:00Z
+Gruppe A,7,Sat Jul 10 2021,17:00,-0300,Altos PI,1-0,0-0,Santa Cruz PE,2021-07-10T20:00Z
+Gruppe B,7,Sat Jul 10 2021,15:00,-0300,Mirassol SP,0-3,0-1,Paraná Clube,2021-07-10T18:00Z
+Gruppe B,7,Sat Jul 10 2021,17:00,-0300,Oeste SP,0-1,0-1,Ituano SP,2021-07-10T20:00Z
+Gruppe A,7,Sun Jul 11 2021,18:00,-0300,Paysandu PA,0-2,0-2,Ferroviário CE,2021-07-11T21:00Z
+Gruppe A,7,Sun Jul 11 2021,15:30,-0300,Floresta CE,1-1,0-0,Tombense MG,2021-07-11T18:30Z
+Gruppe B,7,Sun Jul 11 2021,11:00,-0300,Figueirense SC,2-0,1-0,São José RS,2021-07-11T14:00Z
+Gruppe B,7,Mon Jul 12 2021,20:00,-0300,Botafogo SP,3-1,2-1,Criciúma SC,2021-07-12T23:00Z
+Gruppe B,8,Fri Jul 16 2021,20:00,-0300,São José RS,1-0,0-0,Oeste SP,2021-07-16T23:00Z
+Gruppe B,8,Sat Jul 17 2021,11:00,-0300,Mirassol SP,2-0,0-0,Criciúma SC,2021-07-17T14:00Z
+Gruppe A,8,Sat Jul 17 2021,19:00,-0300,Paysandu PA,1-1,0-1,Altos PI,2021-07-17T22:00Z
+Gruppe A,8,Sat Jul 17 2021,17:00,-0300,Santa Cruz PE,0-1,0-1,Tombense MG,2021-07-17T20:00Z
+Gruppe A,8,Sat Jul 17 2021,15:00,-0300,Jacuipense BA,0-0,0-0,Botafogo PB,2021-07-17T18:00Z
+Gruppe B,8,Sat Jul 17 2021,17:00,-0300,Figueirense SC,0-0,0-0,Botafogo SP,2021-07-17T20:00Z
+Gruppe A,8,Sun Jul 18 2021,11:00,-0300,Volta Redonda RJ,1-0,1-0,Floresta CE,2021-07-18T14:00Z
+Gruppe B,8,Sun Jul 18 2021,16:00,-0300,Ituano SP,2-1,1-1,Ypiranga RS,2021-07-18T19:00Z
+Gruppe A,8,Sun Jul 18 2021,18:00,-0300,Ferroviário CE,1-0,1-0,Manaus AM,2021-07-18T21:00Z
+Gruppe B,8,Mon Jul 19 2021,20:00,-0300,Paraná Clube,0-2,0-1,Grêmio Novorizontino SP,2021-07-19T23:00Z
+Gruppe B,9,Fri Jul 23 2021,16:00,-0300,Criciúma SC,1-0,1-0,Figueirense SC,2021-07-23T19:00Z
+Gruppe B,9,Fri Jul 23 2021,20:00,-0300,Oeste SP,1-1,1-0,Paraná Clube,2021-07-23T23:00Z
+Gruppe B,9,Sat Jul 24 2021,17:00,-0300,Grêmio Novorizontino SP,1-0,0-0,Mirassol SP,2021-07-24T20:00Z
+Gruppe A,9,Sat Jul 24 2021,11:00,-0300,Tombense MG,1-1,1-0,Volta Redonda RJ,2021-07-24T14:00Z
+Gruppe A,9,Sat Jul 24 2021,17:00,-0300,Floresta CE,1-1,0-0,Ferroviário CE,2021-07-24T20:00Z
+Gruppe A,9,Sat Jul 24 2021,19:00,-0300,Botafogo PB,1-0,0-0,Santa Cruz PE,2021-07-24T22:00Z
+Gruppe B,9,Sat Jul 24 2021,15:00,-0300,Ypiranga RS,2-1,1-1,São José RS,2021-07-24T18:00Z
+Gruppe B,9,Sun Jul 25 2021,11:00,-0300,Botafogo SP,2-1,0-1,Ituano SP,2021-07-25T14:00Z
+Gruppe A,9,Sun Jul 25 2021,17:00,-0300,Manaus AM,1-1,0-0,Paysandu PA,2021-07-25T20:00Z
+Gruppe A,9,Sun Jul 25 2021,16:00,-0300,Altos PI,2-2,1-1,Jacuipense BA,2021-07-25T19:00Z
+Gruppe A,10,Fri Jul 30 2021,20:00,-0300,Volta Redonda RJ,2-1,1-1,Altos PI,2021-07-30T23:00Z
+Gruppe B,10,Sat Jul 31 2021,17:00,-0300,Mirassol SP,2-1,0-0,Oeste SP,2021-07-31T20:00Z
+Gruppe A,10,Sat Jul 31 2021,19:00,-0300,Jacuipense BA,1-1,0-1,Floresta CE,2021-07-31T22:00Z
+Gruppe A,10,Sat Jul 31 2021,17:00,-0300,Paysandu PA,1-0,0-0,Tombense MG,2021-07-31T20:00Z
+Gruppe A,10,Sat Jul 31 2021,15:00,-0300,Ferroviário CE,0-0,0-0,Botafogo PB,2021-07-31T18:00Z
+Gruppe B,10,Sun Aug 1 2021,11:00,-0300,Figueirense SC,2-1,2-1,Grêmio Novorizontino SP,2021-08-01T14:00Z
+Gruppe B,10,Sun Aug 1 2021,16:00,-0300,São José RS,4-2,4-2,Botafogo SP,2021-08-01T19:00Z
+Gruppe A,10,Sun Aug 1 2021,18:00,-0300,Santa Cruz PE,1-2,1-2,Manaus AM,2021-08-01T21:00Z
+Gruppe B,10,Mon Aug 2 2021,20:00,-0300,Paraná Clube,1-1,0-1,Ypiranga RS,2021-08-02T23:00Z
+Gruppe B,10,Wed Aug 4 2021,17:00,-0300,Ituano SP,3-0,1-0,Criciúma SC,2021-08-04T20:00Z
+Gruppe A,11,Fri Aug 6 2021,20:00,-0300,Altos PI,1-1,0-0,Ferroviário CE,2021-08-06T23:00Z
+Gruppe B,11,Sat Aug 7 2021,17:00,-0300,Grêmio Novorizontino SP,0-0,0-0,Ituano SP,2021-08-07T20:00Z
+Gruppe B,11,Sat Aug 7 2021,11:00,-0300,Ypiranga RS,1-0,0-0,Mirassol SP,2021-08-07T14:00Z
+Gruppe B,11,Sat Aug 7 2021,19:00,-0300,Botafogo SP,1-0,0-0,Paraná Clube,2021-08-07T22:00Z
+Gruppe A,11,Sat Aug 7 2021,17:00,-0300,Floresta CE,0-2,0-1,Santa Cruz PE,2021-08-07T20:00Z
+Gruppe A,11,Sat Aug 7 2021,15:00,-0300,Tombense MG,3-0,1-0,Jacuipense BA,2021-08-07T18:00Z
+Gruppe A,11,Sun Aug 8 2021,18:00,-0300,Botafogo PB,2-1,0-1,Paysandu PA,2021-08-08T21:00Z
+Gruppe B,11,Sun Aug 8 2021,11:00,-0300,Oeste SP,2-1,1-0,Figueirense SC,2021-08-08T14:00Z
+Gruppe A,11,Sun Aug 8 2021,16:00,-0300,Manaus AM,1-0,1-0,Volta Redonda RJ,2021-08-08T19:00Z
+Gruppe B,11,Mon Aug 9 2021,20:00,-0300,Criciúma SC,2-1,1-1,São José RS,2021-08-09T23:00Z
+Gruppe B,12,Fri Aug 13 2021,20:00,-0300,Ypiranga RS,0-1,0-0,Criciúma SC,2021-08-13T23:00Z
+Gruppe A,12,Sat Aug 14 2021,17:00,-0300,Volta Redonda RJ,1-1,0-0,Botafogo PB,2021-08-14T20:00Z
+Gruppe A,12,Sat Aug 14 2021,19:00,-0300,Paysandu PA,2-0,1-0,Jacuipense BA,2021-08-14T22:00Z
+Gruppe A,12,Sat Aug 14 2021,15:00,-0300,Floresta CE,2-2,0-1,Manaus AM,2021-08-14T18:00Z
+Gruppe B,12,Sat Aug 14 2021,17:00,-0300,Ituano SP,2-2,2-1,São José RS,2021-08-14T20:00Z
+Gruppe B,12,Sat Aug 14 2021,11:00,-0300,Mirassol SP,1-0,0-0,Botafogo SP,2021-08-14T14:00Z
+Gruppe B,12,Sun Aug 15 2021,11:00,-0300,Oeste SP,1-2,0-1,Grêmio Novorizontino SP,2021-08-15T14:00Z
+Gruppe A,12,Sun Aug 15 2021,18:00,-0300,Santa Cruz PE,0-0,0-0,Ferroviário CE,2021-08-15T21:00Z
+Gruppe A,12,Sun Aug 15 2021,16:00,-0300,Altos PI,0-0,0-0,Tombense MG,2021-08-15T19:00Z
+Gruppe B,12,Mon Aug 16 2021,20:00,-0300,Figueirense SC,2-0,1-0,Paraná Clube,2021-08-16T23:00Z
+Gruppe A,13,Fri Aug 20 2021,20:00,-0300,Botafogo PB,1-2,0-1,Floresta CE,2021-08-20T23:00Z
+Gruppe A,13,Sat Aug 21 2021,17:00,-0300,Manaus AM,2-0,0-0,Altos PI,2021-08-21T20:00Z
+Gruppe A,13,Sat Aug 21 2021,15:00,-0300,Ferroviário CE,0-0,0-0,Tombense MG,2021-08-21T18:00Z
+Gruppe B,13,Sat Aug 21 2021,11:00,-0300,São José RS,1-1,0-1,Grêmio Novorizontino SP,2021-08-21T14:00Z
+Gruppe B,13,Sat Aug 21 2021,17:00,-0300,Mirassol SP,0-1,0-0,Figueirense SC,2021-08-21T20:00Z
+Gruppe B,13,Sat Aug 21 2021,19:00,-0300,Paraná Clube,1-1,1-1,Ituano SP,2021-08-21T22:00Z
+Gruppe B,13,Sun Aug 22 2021,16:00,-0300,Botafogo SP,1-2,1-2,Ypiranga RS,2021-08-22T19:00Z
+Gruppe B,13,Sun Aug 22 2021,11:00,-0300,Criciúma SC,3-1,2-0,Oeste SP,2021-08-22T14:00Z
+Gruppe A,13,Sun Aug 22 2021,18:00,-0300,Volta Redonda RJ,2-2,0-0,Paysandu PA,2021-08-22T21:00Z
+Gruppe A,13,Mon Aug 23 2021,20:00,-0300,Jacuipense BA,1-1,0-1,Santa Cruz PE,2021-08-23T23:00Z
+Gruppe B,14,Fri Aug 27 2021,20:00,-0300,Grêmio Novorizontino SP,1-0,0-0,Criciúma SC,2021-08-27T23:00Z
+Gruppe B,14,Sat Aug 28 2021,21:00,-0300,Ituano SP,2-1,2-1,Mirassol SP,2021-08-29T00:00Z
+Gruppe A,14,Sat Aug 28 2021,15:00,-0300,Ferroviário CE,0-0,0-0,Jacuipense BA,2021-08-28T18:00Z
+Gruppe A,14,Sat Aug 28 2021,17:00,-0300,Tombense MG,2-1,2-0,Manaus AM,2021-08-28T20:00Z
+Gruppe A,14,Sat Aug 28 2021,19:00,-0300,Paysandu PA,1-1,0-0,Floresta CE,2021-08-28T22:00Z
+Gruppe B,14,Sat Aug 28 2021,17:00,-0300,Oeste SP,0-0,0-0,Botafogo SP,2021-08-28T20:00Z
+Gruppe B,14,Sun Aug 29 2021,18:00,-0300,São José RS,1-0,1-0,Paraná Clube,2021-08-29T21:00Z
+Gruppe A,14,Sun Aug 29 2021,16:00,-0300,Altos PI,0-0,0-0,Botafogo PB,2021-08-29T19:00Z
+Gruppe B,14,Sun Aug 29 2021,11:00,-0300,Figueirense SC,1-1,1-0,Ypiranga RS,2021-08-29T14:00Z
+Gruppe A,14,Mon Aug 30 2021,20:00,-0300,Santa Cruz PE,2-1,1-0,Volta Redonda RJ,2021-08-30T23:00Z
+Gruppe B,15,Fri Sep 3 2021,20:00,-0300,Mirassol SP,2-5,1-2,São José RS,2021-09-03T23:00Z
+Gruppe B,15,Sat Sep 4 2021,19:00,-0300,Paraná Clube,2-1,2-0,Criciúma SC,2021-09-04T22:00Z
+Gruppe B,15,Sat Sep 4 2021,17:00,-0300,Botafogo SP,1-4,1-1,Grêmio Novorizontino SP,2021-09-04T20:00Z
+Gruppe A,15,Sat Sep 4 2021,15:00,-0300,Floresta CE,1-2,0-1,Altos PI,2021-09-04T18:00Z
+Gruppe A,15,Sat Sep 4 2021,17:00,-0300,Jacuipense BA,0-1,0-0,Manaus AM,2021-09-04T20:00Z
+Gruppe A,15,Sat Sep 4 2021,21:00,-0300,Volta Redonda RJ,2-0,0-0,Ferroviário CE,2021-09-05T00:00Z
+Gruppe A,15,Sun Sep 5 2021,18:00,-0300,Paysandu PA,1-0,0-0,Santa Cruz PE,2021-09-05T21:00Z
+Gruppe A,15,Sun Sep 5 2021,20:00,-0300,Botafogo PB,1-1,1-0,Tombense MG,2021-09-05T23:00Z
+Gruppe B,15,Sun Sep 5 2021,11:00,-0300,Ypiranga RS,2-0,0-0,Oeste SP,2021-09-05T14:00Z
+Gruppe B,15,Mon Sep 6 2021,20:00,-0300,Figueirense SC,1-2,0-0,Ituano SP,2021-09-06T23:00Z
+Gruppe A,16,Sat Sep 11 2021,21:00,-0300,Jacuipense BA,1-0,0-0,Volta Redonda RJ,2021-09-12T00:00Z
+Gruppe B,16,Sat Sep 11 2021,11:00,-0300,São José RS,1-2,1-0,Figueirense SC,2021-09-11T14:00Z
+Gruppe A,16,Sat Sep 11 2021,17:00,-0300,Santa Cruz PE,0-1,0-0,Altos PI,2021-09-11T20:00Z
+Gruppe B,16,Sat Sep 11 2021,17:00,-0300,Grêmio Novorizontino SP,1-0,0-0,Ypiranga RS,2021-09-11T20:00Z
+Gruppe B,16,Sat Sep 11 2021,15:00,-0300,Ituano SP,2-1,1-0,Oeste SP,2021-09-11T18:00Z
+Gruppe B,16,Sat Sep 11 2021,19:00,-0300,Criciúma SC,0-0,0-0,Botafogo SP,2021-09-11T22:00Z
+Gruppe A,16,Sun Sep 12 2021,11:00,-0300,Tombense MG,0-0,0-0,Floresta CE,2021-09-12T14:00Z
+Gruppe A,16,Sun Sep 12 2021,16:00,-0300,Manaus AM,0-0,0-0,Botafogo PB,2021-09-12T19:00Z
+Gruppe B,16,Sun Sep 12 2021,18:00,-0300,Paraná Clube,0-1,0-1,Mirassol SP,2021-09-12T21:00Z
+Gruppe A,16,Mon Sep 13 2021,15:00,-0300,Ferroviário CE,5-1,3-0,Paysandu PA,2021-09-13T18:00Z
+Gruppe B,17,Sat Sep 18 2021,17:00,-0300,Botafogo SP,1-2,1-2,Figueirense SC,2021-09-18T20:00Z
+Gruppe B,17,Sat Sep 18 2021,17:00,-0300,Criciúma SC,3-0,1-0,Mirassol SP,2021-09-18T20:00Z
+Gruppe B,17,Sat Sep 18 2021,11:00,-0300,Oeste SP,0-1,0-1,São José RS,2021-09-18T14:00Z
+Gruppe A,17,Sat Sep 18 2021,15:00,-0300,Floresta CE,1-1,1-0,Volta Redonda RJ,2021-09-18T18:00Z
+Gruppe B,17,Sat Sep 18 2021,19:00,-0300,Grêmio Novorizontino SP,1-0,1-0,Paraná Clube,2021-09-18T22:00Z
+Gruppe A,17,Sat Sep 18 2021,17:00,-0300,Altos PI,2-3,2-2,Paysandu PA,2021-09-18T20:00Z
+Gruppe A,17,Sun Sep 19 2021,20:00,-0300,Botafogo PB,1-0,0-0,Jacuipense BA,2021-09-19T23:00Z
+Gruppe B,17,Sun Sep 19 2021,11:00,-0300,Ypiranga RS,0-0,0-0,Ituano SP,2021-09-19T14:00Z
+Gruppe A,17,Sun Sep 19 2021,18:00,-0300,Tombense MG,2-1,1-1,Santa Cruz PE,2021-09-19T21:00Z
+Gruppe A,17,Sun Sep 19 2021,16:00,-0300,Manaus AM,1-1,1-1,Ferroviário CE,2021-09-19T19:00Z
+Gruppe A,18,Sat Sep 25 2021,17:00,-0300,Santa Cruz PE,1-1,0-1,Botafogo PB,2021-09-25T20:00Z
+Gruppe A,18,Sat Sep 25 2021,17:00,-0300,Ferroviário CE,0-1,0-1,Floresta CE,2021-09-25T20:00Z
+Gruppe A,18,Sat Sep 25 2021,17:00,-0300,Paysandu PA,2-0,1-0,Manaus AM,2021-09-25T20:00Z
+Gruppe A,18,Sat Sep 25 2021,17:00,-0300,Jacuipense BA,3-2,2-1,Altos PI,2021-09-25T20:00Z
+Gruppe A,18,Sat Sep 25 2021,17:00,-0300,Volta Redonda RJ,2-1,2-1,Tombense MG,2021-09-25T20:00Z
+Gruppe B,18,Sat Sep 25 2021,15:00,-0300,Paraná Clube,4-0,1-0,Oeste SP,2021-09-25T18:00Z
+Gruppe B,18,Sat Sep 25 2021,17:00,-0300,Mirassol SP,0-1,0-0,Grêmio Novorizontino SP,2021-09-25T20:00Z
+Gruppe B,18,Sat Sep 25 2021,17:00,-0300,Figueirense SC,2-1,2-0,Criciúma SC,2021-09-25T20:00Z
+Gruppe B,18,Sat Sep 25 2021,17:00,-0300,Ituano SP,0-0,0-0,Botafogo SP,2021-09-25T20:00Z
+Gruppe B,18,Sat Sep 25 2021,17:00,-0300,São José RS,1-1,1-0,Ypiranga RS,2021-09-25T20:00Z
+Playoffs,Gruppe D,Sat Oct 2 2021,19:00,-0300,Ypiranga RS,0-1,0-0,Tombense MG,2021-10-02T22:00Z
+Playoffs,Gruppe C,Sat Oct 2 2021,17:00,-0300,Botafogo PB,0-1,0-0,Ituano SP,2021-10-02T20:00Z
+Playoffs,Gruppe D,Sun Oct 3 2021,16:00,-0300,Manaus AM,5-0,1-0,Grêmio Novorizontino SP,2021-10-03T19:00Z
+Playoffs,Gruppe C,Sun Oct 3 2021,18:00,-0300,Criciúma SC,0-0,0-0,Paysandu PA,2021-10-03T21:00Z
+Playoffs,Gruppe D,Sat Oct 9 2021,17:00,-0300,Tombense MG,2-2,0-0,Manaus AM,2021-10-09T20:00Z
+Playoffs,Gruppe D,Sat Oct 9 2021,19:00,-0300,Grêmio Novorizontino SP,1-0,0-0,Ypiranga RS,2021-10-09T22:00Z
+Playoffs,Gruppe C,Sun Oct 10 2021,16:00,-0300,Ituano SP,0-2,0-1,Criciúma SC,2021-10-10T19:00Z
+Playoffs,Gruppe C,Mon Oct 11 2021,20:00,-0300,Paysandu PA,0-0,0-0,Botafogo PB,2021-10-11T23:00Z
+Playoffs,Gruppe C,Sat Oct 16 2021,17:00,-0300,Ituano SP,3-1,2-1,Paysandu PA,2021-10-16T20:00Z
+Playoffs,Gruppe C,Sat Oct 16 2021,19:00,-0300,Criciúma SC,0-0,0-0,Botafogo PB,2021-10-16T22:00Z
+Playoffs,Gruppe D,Sun Oct 17 2021,16:00,-0300,Manaus AM,1-1,1-1,Ypiranga RS,2021-10-17T19:00Z
+Playoffs,Gruppe D,Mon Oct 18 2021,16:00,-0300,Tombense MG,1-2,0-1,Grêmio Novorizontino SP,2021-10-18T19:00Z
+Playoffs,Gruppe C,Sat Oct 23 2021,19:00,-0300,Botafogo PB,1-0,1-0,Criciúma SC,2021-10-23T22:00Z
+Playoffs,Gruppe C,Sat Oct 23 2021,17:00,-0300,Paysandu PA,1-4,0-1,Ituano SP,2021-10-23T20:00Z
+Playoffs,Gruppe D,Sun Oct 24 2021,16:00,-0300,Grêmio Novorizontino SP,0-1,0-0,Tombense MG,2021-10-24T19:00Z
+Playoffs,Gruppe D,Sun Oct 24 2021,18:00,-0300,Ypiranga RS,1-1,0-0,Manaus AM,2021-10-24T21:00Z
+Playoffs,Gruppe D,Sat Oct 30 2021,19:00,-0300,Ypiranga RS,3-2,0-1,Grêmio Novorizontino SP,2021-10-30T22:00Z
+Playoffs,Gruppe D,Sat Oct 30 2021,17:00,-0300,Manaus AM,1-2,1-1,Tombense MG,2021-10-30T20:00Z
+Playoffs,Gruppe C,Sun Oct 31 2021,18:00,-0300,Botafogo PB,1-0,0-0,Paysandu PA,2021-10-31T21:00Z
+Playoffs,Gruppe C,Sun Oct 31 2021,16:00,-0300,Criciúma SC,0-0,0-0,Ituano SP,2021-10-31T19:00Z
+Playoffs,Gruppe C,Sat Nov 6 2021,17:00,-0300,Paysandu PA,0-1,0-0,Criciúma SC,2021-11-06T20:00Z
+Playoffs,Gruppe C,Sat Nov 6 2021,17:00,-0300,Ituano SP,3-1,2-0,Botafogo PB,2021-11-06T20:00Z
+Playoffs,Gruppe D,Sun Nov 7 2021,16:00,-0300,Tombense MG,1-1,1-0,Ypiranga RS,2021-11-07T19:00Z
+Playoffs,Gruppe D,Sun Nov 7 2021,16:00,-0300,Grêmio Novorizontino SP,2-0,0-0,Manaus AM,2021-11-07T19:00Z
+Playoffs,Final,Sat Nov 13 2021,17:15,-0300,Tombense MG,1-1,0-0,Ituano SP,2021-11-13T20:15Z
+Playoffs,Final,Sat Nov 20 2021,17:00,-0300,Ituano SP,3-0,1-0,Tombense MG,2021-11-20T20:00Z

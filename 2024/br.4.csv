@@ -1,0 +1,509 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,UTC
+Gruppe A,Sat Apr 27 2024,16:00,-0300,Manauara AM,3-1,2-0,Rio Branco AC,,,2024-04-27T19:00Z
+Gruppe A,Sat Apr 27 2024,18:00,-0300,Princesa do Solimões AM,2-0,1-0,São Raimundo RR,,,2024-04-27T21:00Z
+Gruppe C,Sat Apr 27 2024,15:00,-0300,Santa Cruz de Natal RN,3-4,2-0,Treze PB,,,2024-04-27T18:00Z
+Gruppe C,Sat Apr 27 2024,16:00,-0300,Atlético Cearense CE,1-2,1-1,Potiguar de Mossoró RN,,,2024-04-27T19:00Z
+Gruppe B,Sat Apr 27 2024,16:00,-0300,River PI,2-1,1-1,Águia de Marabá PA,,,2024-04-27T19:00Z
+Gruppe H,Sat Apr 27 2024,15:30,-0300,Avenida RS,1-2,0-1,Cascavel FC PR,,,2024-04-27T18:30Z
+Gruppe H,Sat Apr 27 2024,18:00,-0300,Cianorte PR,0-0,0-0,Hercílio Luz SC,,,2024-04-27T21:00Z
+Gruppe G,Sat Apr 27 2024,18:00,-0300,São José SP,0-0,0-0,Costa Rica MS,,,2024-04-27T21:00Z
+Gruppe G,Sat Apr 27 2024,16:00,-0300,Atlético Patrocinense MG,0-2,0-0,Água Santa SP,,,2024-04-27T19:00Z
+Gruppe G,Sat Apr 27 2024,16:00,-0300,Inter de Limeira SP,1-0,0-0,Pouso Alegre MG,,,2024-04-27T19:00Z
+Gruppe D,Sat Apr 27 2024,16:00,-0300,Sergipe SE,2-3,2-1,ASA AL,,,2024-04-27T19:00Z
+Gruppe D,Sat Apr 27 2024,16:00,-0300,Petrolina PE,0-0,0-0,Jacuipense BA,,,2024-04-27T19:00Z
+Gruppe D,Sat Apr 27 2024,16:00,-0300,Juazeirense BA,1-1,0-1,Itabaiana SE,,,2024-04-27T19:00Z
+Gruppe D,Sat Apr 27 2024,19:00,-0300,CSE AL,0-0,0-0,Retrô PE,,,2024-04-27T22:00Z
+Gruppe F,Sat Apr 27 2024,18:30,-0300,Portuguesa RJ,0-0,0-0,Ipatinga MG,,,2024-04-27T21:30Z
+Gruppe F,Sat Apr 27 2024,16:00,-0300,Serra ES,1-0,0-0,Audax RJ,,,2024-04-27T19:00Z
+Gruppe F,Sat Apr 27 2024,16:00,-0300,Democrata de Sete Lagoas MG,1-1,0-0,Nova Iguaçu RJ,,,2024-04-27T19:00Z
+Gruppe E,Sat Apr 27 2024,15:00,-0300,Iporá GO,2-2,1-1,União Rondonópolis MT,,,2024-04-27T18:00Z
+Gruppe E,Sat Apr 27 2024,16:00,-0300,Capital TO,2-0,0-0,Real Brasilia DF,,,2024-04-27T19:00Z
+Gruppe E,Sun Apr 28 2024,15:30,-0300,Brasiliense DF,1-0,0-0,Anápolis FC GO,,,2024-04-28T18:30Z
+Gruppe E,Sun Apr 28 2024,18:00,-0300,Mixto MT,1-1,1-0,CRAC GO,,,2024-04-28T21:00Z
+Gruppe B,Sun Apr 28 2024,16:00,-0300,Fluminense PI,1-2,1-1,Maranhão MA,,,2024-04-28T19:00Z
+Gruppe B,Sun Apr 28 2024,16:00,-0300,Cametá PA,0-1,0-0,Altos PI,,,2024-04-28T19:00Z
+Gruppe F,Sun Apr 28 2024,16:00,-0300,Itabuna BA,0-0,0-0,Real Noroeste ES,,,2024-04-28T19:00Z
+Gruppe H,Sun Apr 28 2024,16:00,-0300,Barra SC,1-1,1-0,Novo Hamburgo RS,,,2024-04-28T19:00Z
+Gruppe H,Sun Apr 28 2024,17:00,-0300,Concórdia SC,2-0,0-0,Brasil de Pelotas RS,,,2024-04-28T20:00Z
+Gruppe B,Sun Apr 28 2024,16:00,-0300,Moto Club MA,2-2,1-1,Tocantinópolis TO,,,2024-04-28T19:00Z
+Gruppe C,Sun Apr 28 2024,16:00,-0300,Sousa PB,0-0,0-0,Iguatu CE,,,2024-04-28T19:00Z
+Gruppe C,Sun Apr 28 2024,15:30,-0300,Maracanã CE,1-1,0-1,América RN,,,2024-04-28T18:30Z
+Gruppe A,Sun Apr 28 2024,16:00,-0300,Trem AP,0-0,0-0,Manaus AM,,,2024-04-28T19:00Z
+Gruppe G,Mon Apr 29 2024,19:30,-0300,Maringá PR,2-1,1-0,Santo André SP,,,2024-04-29T22:30Z
+Gruppe A,Wed May 1 2024,17:00,-0300,Humaitá AC,0-1,0-0,Porto Velho EC RO,,,2024-05-01T20:00Z
+Gruppe C,Fri May 3 2024,19:00,-0300,Iguatu CE,2-0,0-0,Santa Cruz de Natal RN,,,2024-05-03T22:00Z
+Gruppe G,Sat May 4 2024,18:00,-0300,Água Santa SP,2-1,1-1,Maringá PR,,,2024-05-04T21:00Z
+Gruppe A,Sat May 4 2024,17:30,-0300,São Raimundo RR,0-1,0-1,Manauara AM,,,2024-05-04T20:30Z
+Gruppe E,Sat May 4 2024,19:00,-0300,União Rondonópolis MT,0-0,0-0,Capital TO,,,2024-05-04T22:00Z
+Gruppe D,Sat May 4 2024,17:00,-0300,ASA AL,1-0,1-0,Petrolina PE,,,2024-05-04T20:00Z
+Gruppe D,Sat May 4 2024,15:00,-0300,Jacuipense BA,1-1,1-0,Sergipe SE,,,2024-05-04T18:00Z
+Gruppe G,Sat May 4 2024,17:00,-0300,Pouso Alegre MG,3-0,1-0,São José SP,,,2024-05-04T20:00Z
+Gruppe F,Sat May 4 2024,17:00,-0300,Ipatinga MG,2-3,1-1,Itabuna BA,,,2024-05-04T20:00Z
+Gruppe F,Sat May 4 2024,15:30,-0300,Real Noroeste ES,1-1,1-0,Portuguesa RJ,,,2024-05-04T18:30Z
+Gruppe F,Sat May 4 2024,16:00,-0300,Nova Iguaçu RJ,4-0,1-0,Serra ES,,,2024-05-04T19:00Z
+Gruppe B,Sat May 4 2024,17:00,-0300,Tocantinópolis TO,1-0,0-0,Cametá PA,,,2024-05-04T20:00Z
+Gruppe B,Sat May 4 2024,16:00,-0300,Altos PI,1-2,1-1,Moto Club MA,,,2024-05-04T19:00Z
+Gruppe E,Sat May 4 2024,15:00,-0300,Real Brasilia DF,0-2,0-1,Iporá GO,,,2024-05-04T18:00Z
+Gruppe A,Sat May 4 2024,19:00,-0300,Rio Branco AC,0-0,0-0,Princesa do Solimões AM,,,2024-05-04T22:00Z
+Gruppe G,Sat May 4 2024,15:00,-0300,Santo André SP,0-0,0-0,Atlético Patrocinense MG,,,2024-05-04T18:00Z
+Gruppe B,Sat May 4 2024,16:00,-0300,Maranhão MA,1-0,1-0,River PI,,,2024-05-04T19:00Z
+Gruppe G,Sun May 5 2024,17:00,-0300,Costa Rica MS,0-3,0-2,Inter de Limeira SP,,,2024-05-05T20:00Z
+Gruppe H,Sun May 5 2024,16:00,-0300,Cascavel FC PR,1-2,1-1,Cianorte PR,,,2024-05-05T19:00Z
+Gruppe C,Sun May 5 2024,16:00,-0300,Potiguar de Mossoró RN,1-2,1-0,Maracanã CE,,,2024-05-05T19:00Z
+Gruppe C,Sun May 5 2024,16:00,-0300,Treze PB,2-0,0-0,Sousa PB,,,2024-05-05T19:00Z
+Gruppe A,Sun May 5 2024,16:30,-0300,Porto Velho EC RO,2-1,1-1,Trem AP,,,2024-05-05T19:30Z
+Gruppe E,Sun May 5 2024,16:00,-0300,Anápolis FC GO,1-1,1-0,Mixto MT,,,2024-05-05T19:00Z
+Gruppe D,Sun May 5 2024,16:00,-0300,Retrô PE,1-0,0-0,Juazeirense BA,,,2024-05-05T19:00Z
+Gruppe C,Sun May 5 2024,18:00,-0300,América RN,3-0,2-0,Atlético Cearense CE,,,2024-05-05T21:00Z
+Gruppe D,Sun May 5 2024,16:00,-0300,Itabaiana SE,3-1,1-1,CSE AL,,,2024-05-05T19:00Z
+Gruppe A,Sun May 5 2024,16:30,-0300,Manaus AM,1-0,1-0,Humaitá AC,,,2024-05-05T19:30Z
+Gruppe E,Sun May 5 2024,17:00,-0300,CRAC GO,1-0,0-0,Brasiliense DF,,,2024-05-05T20:00Z
+Gruppe B,Mon May 6 2024,20:00,-0300,Águia de Marabá PA,1-1,0-1,Fluminense PI,,,2024-05-06T23:00Z
+Gruppe F,Tue May 7 2024,15:30,-0300,Audax RJ,0-1,0-0,Democrata de Sete Lagoas MG,,,2024-05-07T18:30Z
+Gruppe A,Sat May 11 2024,17:30,-0300,São Raimundo RR,1-2,1-0,Trem AP,,,2024-05-11T20:30Z
+Gruppe A,Sat May 11 2024,17:00,-0300,Humaitá AC,1-2,0-0,Rio Branco AC,,,2024-05-11T20:00Z
+Gruppe H,Sat May 11 2024,17:30,-0300,Hercílio Luz SC,1-1,1-0,Concórdia SC,,,2024-05-11T20:30Z
+Gruppe B,Sat May 11 2024,17:00,-0300,River PI,1-1,0-0,Altos PI,,,2024-05-11T20:00Z
+Gruppe B,Sat May 11 2024,17:00,-0300,Águia de Marabá PA,1-1,1-0,Cametá PA,,,2024-05-11T20:00Z
+Gruppe E,Sat May 11 2024,16:00,-0300,Capital TO,1-2,0-0,Anápolis FC GO,,,2024-05-11T19:00Z
+Gruppe E,Sat May 11 2024,15:00,-0300,Iporá GO,1-1,0-0,CRAC GO,,,2024-05-11T18:00Z
+Gruppe D,Sat May 11 2024,15:00,-0300,Jacuipense BA,2-1,2-0,Juazeirense BA,,,2024-05-11T18:00Z
+Gruppe D,Sat May 11 2024,16:00,-0300,Sergipe SE,1-3,0-1,Retrô PE,,,2024-05-11T19:00Z
+Gruppe D,Sat May 11 2024,16:00,-0300,Petrolina PE,0-2,0-0,Itabaiana SE,,,2024-05-11T19:00Z
+Gruppe D,Sat May 11 2024,19:00,-0300,CSE AL,1-1,0-1,ASA AL,,,2024-05-11T22:00Z
+Gruppe F,Sat May 11 2024,18:30,-0300,Portuguesa RJ,1-0,0-0,Nova Iguaçu RJ,,,2024-05-11T21:30Z
+Gruppe F,Sat May 11 2024,17:00,-0300,Real Noroeste ES,0-0,0-0,Serra ES,,,2024-05-11T20:00Z
+Gruppe C,Sat May 11 2024,15:00,-0300,Santa Cruz de Natal RN,3-2,0-0,América RN,,,2024-05-11T18:00Z
+Gruppe C,Sat May 11 2024,16:00,-0300,Iguatu CE,1-0,0-0,Atlético Cearense CE,,,2024-05-11T19:00Z
+Gruppe G,Sat May 11 2024,16:00,-0300,Inter de Limeira SP,1-0,1-0,Água Santa SP,,,2024-05-11T19:00Z
+Gruppe G,Sat May 11 2024,17:00,-0300,Pouso Alegre MG,4-1,2-0,Atlético Patrocinense MG,,,2024-05-11T20:00Z
+Gruppe G,Sat May 11 2024,18:00,-0300,São José SP,0-0,0-0,Santo André SP,,,2024-05-11T21:00Z
+Gruppe F,Sun May 12 2024,16:00,-0300,Itabuna BA,1-0,0-0,Audax RJ,,,2024-05-12T19:00Z
+Gruppe B,Sun May 12 2024,16:00,-0300,Moto Club MA,2-1,0-1,Maranhão MA,,,2024-05-12T19:00Z
+Gruppe B,Sun May 12 2024,16:00,-0300,Fluminense PI,1-0,1-0,Tocantinópolis TO,,,2024-05-12T19:00Z
+Gruppe H,Sun May 12 2024,16:00,-0300,Barra SC,3-0,1-0,Cascavel FC PR,,,2024-05-12T19:00Z
+Gruppe C,Sun May 12 2024,15:30,-0300,Maracanã CE,0-4,0-2,Treze PB,,,2024-05-12T18:30Z
+Gruppe C,Sun May 12 2024,16:00,-0300,Sousa PB,1-0,1-0,Potiguar de Mossoró RN,,,2024-05-12T19:00Z
+Gruppe G,Sun May 12 2024,19:30,-0300,Maringá PR,2-0,0-0,Costa Rica MS,,,2024-05-12T22:30Z
+Gruppe E,Sun May 12 2024,18:00,-0300,Mixto MT,1-1,1-1,União Rondonópolis MT,,,2024-05-12T21:00Z
+Gruppe E,Sun May 12 2024,15:00,-0300,Real Brasilia DF,1-2,0-0,Brasiliense DF,,,2024-05-12T18:00Z
+Gruppe A,Sun May 12 2024,16:00,-0300,Manauara AM,3-1,1-0,Porto Velho EC RO,,,2024-05-12T19:00Z
+Gruppe A,Sun May 12 2024,16:00,-0300,Princesa do Solimões AM,3-3,0-1,Manaus AM,,,2024-05-12T19:00Z
+Gruppe F,Mon May 13 2024,19:30,-0300,Democrata de Sete Lagoas MG,1-0,1-0,Ipatinga MG,,,2024-05-13T22:30Z
+Gruppe E,Sat May 18 2024,15:00,-0300,Iporá GO,2-1,1-1,Capital TO,,,2024-05-18T18:00Z
+Gruppe C,Sat May 18 2024,15:00,-0300,Santa Cruz de Natal RN,2-0,1-0,Sousa PB,,,2024-05-18T18:00Z
+Gruppe E,Sat May 18 2024,19:00,-0300,União Rondonópolis MT,1-0,1-0,Real Brasilia DF,,,2024-05-18T22:00Z
+Gruppe C,Sat May 18 2024,16:00,-0300,Atlético Cearense CE,1-0,1-0,Maracanã CE,,,2024-05-18T19:00Z
+Gruppe A,Sat May 18 2024,16:30,-0300,Porto Velho EC RO,2-0,1-0,Manaus AM,,,2024-05-18T19:30Z
+Gruppe A,Sat May 18 2024,16:00,-0300,Manauara AM,3-1,2-1,Princesa do Solimões AM,,,2024-05-18T19:00Z
+Gruppe D,Sat May 18 2024,16:00,-0300,Sergipe SE,0-1,0-0,Petrolina PE,,,2024-05-18T19:00Z
+Gruppe D,Sat May 18 2024,16:00,-0300,Juazeirense BA,0-2,0-1,CSE AL,,,2024-05-18T19:00Z
+Gruppe B,Sat May 18 2024,16:00,-0300,Maranhão MA,4-0,2-0,Águia de Marabá PA,,,2024-05-18T19:00Z
+Gruppe F,Sat May 18 2024,16:00,-0300,Nova Iguaçu RJ,2-0,1-0,Audax RJ,,,2024-05-18T19:00Z
+Gruppe F,Sat May 18 2024,17:00,-0300,Portuguesa RJ,1-1,0-0,Itabuna BA,,,2024-05-18T20:00Z
+Gruppe G,Sat May 18 2024,18:00,-0300,São José SP,0-0,0-0,Inter de Limeira SP,,,2024-05-18T21:00Z
+Gruppe G,Sat May 18 2024,16:00,-0300,Atlético Patrocinense MG,1-2,0-0,Maringá PR,,,2024-05-18T19:00Z
+Gruppe G,Sat May 18 2024,15:00,-0300,Santo André SP,1-1,1-1,Água Santa SP,,,2024-05-18T18:00Z
+Gruppe A,Sat May 18 2024,19:00,-0300,Rio Branco AC,1-1,0-0,São Raimundo RR,,,2024-05-18T22:00Z
+Gruppe F,Sat May 18 2024,17:00,-0300,Ipatinga MG,2-0,1-0,Real Noroeste ES,,,2024-05-18T20:00Z
+Gruppe D,Sat May 18 2024,17:00,-0300,ASA AL,1-0,1-0,Jacuipense BA,,,2024-05-18T20:00Z
+Gruppe B,Sun May 19 2024,16:00,-0300,Cametá PA,4-1,2-0,Moto Club MA,,,2024-05-19T19:00Z
+Gruppe D,Sun May 19 2024,16:00,-0300,Retrô PE,1-2,0-1,Itabaiana SE,,,2024-05-19T19:00Z
+Gruppe G,Sun May 19 2024,16:00,-0300,Costa Rica MS,1-0,0-0,Pouso Alegre MG,,,2024-05-19T19:00Z
+Gruppe E,Sun May 19 2024,17:00,-0300,CRAC GO,1-2,0-1,Anápolis FC GO,,,2024-05-19T20:00Z
+Gruppe C,Sun May 19 2024,18:00,-0300,América RN,2-0,0-0,Potiguar de Mossoró RN,,,2024-05-19T21:00Z
+Gruppe B,Sun May 19 2024,17:00,-0300,Fluminense PI,2-0,1-0,River PI,,,2024-05-19T20:00Z
+Gruppe C,Sun May 19 2024,16:00,-0300,Treze PB,3-0,1-0,Iguatu CE,,,2024-05-19T19:00Z
+Gruppe B,Sun May 19 2024,16:00,-0300,Tocantinópolis TO,3-1,0-1,Altos PI,,,2024-05-19T19:00Z
+Gruppe E,Sun May 19 2024,15:30,-0300,Brasiliense DF,1-1,0-0,Mixto MT,,,2024-05-19T18:30Z
+Gruppe H,Sun May 19 2024,17:00,-0300,Concórdia SC,1-0,0-0,Barra SC,,,2024-05-19T20:00Z
+Gruppe A,Mon May 20 2024,20:15,-0300,Trem AP,2-1,0-1,Humaitá AC,,,2024-05-20T23:15Z
+Gruppe H,Tue May 21 2024,19:00,-0300,Cascavel FC PR,0-0,0-0,Hercílio Luz SC,,,2024-05-21T22:00Z
+Gruppe F,Tue May 21 2024,20:00,-0300,Serra ES,1-0,1-0,Democrata de Sete Lagoas MG,,,2024-05-21T23:00Z
+Gruppe F,Fri May 24 2024,20:00,-0300,Serra ES,1-0,0-0,Ipatinga MG,,,2024-05-24T23:00Z
+Gruppe A,Sat May 25 2024,17:00,-0300,Humaitá AC,0-1,0-0,São Raimundo RR,,,2024-05-25T20:00Z
+Gruppe A,Sat May 25 2024,17:00,-0300,Princesa do Solimões AM,0-1,0-0,Porto Velho EC RO,,,2024-05-25T20:00Z
+Gruppe G,Sat May 25 2024,18:00,-0300,Água Santa SP,1-1,1-1,São José SP,,,2024-05-25T21:00Z
+Gruppe G,Sat May 25 2024,16:00,-0300,Atlético Patrocinense MG,2-2,1-0,Costa Rica MS,,,2024-05-25T19:00Z
+Gruppe F,Sat May 25 2024,15:30,-0300,Audax RJ,1-1,1-0,Portuguesa RJ,,,2024-05-25T18:30Z
+Gruppe D,Sat May 25 2024,17:00,-0300,CSE AL,1-2,1-1,Jacuipense BA,,,2024-05-25T20:00Z
+Gruppe C,Sat May 25 2024,16:00,-0300,Atlético Cearense CE,0-2,0-1,Treze PB,,,2024-05-25T19:00Z
+Gruppe G,Sat May 25 2024,16:00,-0300,Inter de Limeira SP,3-0,1-0,Santo André SP,,,2024-05-25T19:00Z
+Gruppe E,Sat May 25 2024,16:00,-0300,Anápolis FC GO,4-0,0-0,Iporá GO,,,2024-05-25T19:00Z
+Gruppe E,Sat May 25 2024,18:00,-0300,Mixto MT,2-1,2-0,Real Brasilia DF,,,2024-05-25T21:00Z
+Gruppe D,Sat May 25 2024,16:00,-0300,Petrolina PE,3-1,2-1,Retrô PE,,,2024-05-25T19:00Z
+Gruppe B,Sat May 25 2024,16:00,-0300,Altos PI,3-0,2-0,Fluminense PI,,,2024-05-25T19:00Z
+Gruppe D,Sat May 25 2024,16:00,-0300,Juazeirense BA,1-1,0-0,ASA AL,,,2024-05-25T19:00Z
+Gruppe F,Sat May 25 2024,16:00,-0300,Itabuna BA,0-0,0-0,Nova Iguaçu RJ,,,2024-05-25T19:00Z
+Gruppe C,Sun May 26 2024,15:30,-0300,Maracanã CE,2-2,1-1,Iguatu CE,,,2024-05-26T18:30Z
+Gruppe C,Sun May 26 2024,15:30,-0300,Potiguar de Mossoró RN,1-2,1-1,Santa Cruz de Natal RN,,,2024-05-26T18:30Z
+Gruppe B,Sun May 26 2024,16:00,-0300,River PI,5-0,2-0,Tocantinópolis TO,,,2024-05-26T19:00Z
+Gruppe B,Sun May 26 2024,16:00,-0300,Cametá PA,0-2,0-2,Maranhão MA,,,2024-05-26T19:00Z
+Gruppe B,Sun May 26 2024,18:00,-0300,Moto Club MA,1-1,1-1,Águia de Marabá PA,,,2024-05-26T21:00Z
+Gruppe D,Sun May 26 2024,16:00,-0300,Itabaiana SE,0-0,0-0,Sergipe SE,,,2024-05-26T19:00Z
+Gruppe E,Sun May 26 2024,16:00,-0300,Capital TO,0-1,0-0,CRAC GO,,,2024-05-26T19:00Z
+Gruppe G,Sun May 26 2024,19:30,-0300,Maringá PR,1-0,0-0,Pouso Alegre MG,,,2024-05-26T22:30Z
+Gruppe A,Sun May 26 2024,16:30,-0300,Manaus AM,0-4,0-2,Manauara AM,,,2024-05-26T19:30Z
+Gruppe H,Sun May 26 2024,16:00,-0300,Barra SC,2-2,0-2,Hercílio Luz SC,,,2024-05-26T19:00Z
+Gruppe H,Sun May 26 2024,17:00,-0300,Concórdia SC,1-0,0-0,Cascavel FC PR,,,2024-05-26T20:00Z
+Gruppe E,Sun May 26 2024,15:30,-0300,Brasiliense DF,2-1,1-0,União Rondonópolis MT,,,2024-05-26T18:30Z
+Gruppe C,Sun May 26 2024,16:00,-0300,Sousa PB,0-0,0-0,América RN,,,2024-05-26T19:00Z
+Gruppe A,Mon May 27 2024,20:15,-0300,Trem AP,3-1,1-1,Rio Branco AC,,,2024-05-27T23:15Z
+Gruppe F,Tue May 28 2024,19:30,-0300,Democrata de Sete Lagoas MG,1-1,0-1,Real Noroeste ES,,,2024-05-28T22:30Z
+Gruppe C,Fri May 31 2024,19:00,-0300,Iguatu CE,2-0,0-0,Potiguar de Mossoró RN,,,2024-05-31T22:00Z
+Gruppe A,Sat Jun 1 2024,17:00,-0300,Princesa do Solimões AM,4-1,2-1,Trem AP,,,2024-06-01T20:00Z
+Gruppe A,Sat Jun 1 2024,16:00,-0300,Manauara AM,4-0,1-0,Humaitá AC,,,2024-06-01T19:00Z
+Gruppe D,Sat Jun 1 2024,17:00,-0300,ASA AL,0-0,0-0,Retrô PE,,,2024-06-01T20:00Z
+Gruppe A,Sat Jun 1 2024,17:30,-0300,São Raimundo RR,1-2,0-2,Manaus AM,,,2024-06-01T20:30Z
+Gruppe D,Sat Jun 1 2024,15:00,-0300,Jacuipense BA,1-0,0-0,Itabaiana SE,,,2024-06-01T18:00Z
+Gruppe B,Sat Jun 1 2024,17:00,-0300,River PI,1-0,0-0,Cametá PA,,,2024-06-01T20:00Z
+Gruppe F,Sat Jun 1 2024,17:00,-0300,Ipatinga MG,1-1,1-0,Nova Iguaçu RJ,,,2024-06-01T20:00Z
+Gruppe A,Sat Jun 1 2024,19:00,-0300,Rio Branco AC,2-1,1-1,Porto Velho EC RO,,,2024-06-01T22:00Z
+Gruppe D,Sat Jun 1 2024,16:00,-0300,Petrolina PE,0-0,0-0,Juazeirense BA,,,2024-06-01T19:00Z
+Gruppe H,Sat Jun 1 2024,15:30,-0300,Avenida RS,1-1,1-0,Barra SC,,,2024-06-01T18:30Z
+Gruppe C,Sat Jun 1 2024,15:00,-0300,Santa Cruz de Natal RN,1-0,0-0,Maracanã CE,,,2024-06-01T18:00Z
+Gruppe C,Sat Jun 1 2024,16:00,-0300,Treze PB,1-1,0-0,América RN,,,2024-06-01T19:00Z
+Gruppe G,Sat Jun 1 2024,18:00,-0300,São José SP,1-1,0-0,Maringá PR,,,2024-06-01T21:00Z
+Gruppe G,Sat Jun 1 2024,16:00,-0300,Inter de Limeira SP,3-0,3-0,Atlético Patrocinense MG,,,2024-06-01T19:00Z
+Gruppe E,Sat Jun 1 2024,16:00,-0300,Capital TO,1-4,0-1,Brasiliense DF,,,2024-06-01T19:00Z
+Gruppe E,Sat Jun 1 2024,16:30,-0300,União Rondonópolis MT,0-0,0-0,CRAC GO,,,2024-06-01T19:30Z
+Gruppe H,Sat Jun 1 2024,17:30,-0300,Hercílio Luz SC,1-1,1-0,Brasil de Pelotas RS,,,2024-06-01T20:30Z
+Gruppe H,Sat Jun 1 2024,18:00,-0300,Cianorte PR,1-1,1-0,Concórdia SC,,,2024-06-01T21:00Z
+Gruppe B,Sat Jun 1 2024,19:00,-0300,Águia de Marabá PA,3-3,1-1,Altos PI,,,2024-06-01T22:00Z
+Gruppe B,Sun Jun 2 2024,17:00,-0300,Fluminense PI,2-2,2-1,Moto Club MA,,,2024-06-02T20:00Z
+Gruppe D,Sun Jun 2 2024,16:00,-0300,Sergipe SE,2-0,1-0,CSE AL,,,2024-06-02T19:00Z
+Gruppe G,Sun Jun 2 2024,16:00,-0300,Costa Rica MS,2-5,0-4,Santo André SP,,,2024-06-02T19:00Z
+Gruppe B,Sun Jun 2 2024,16:00,-0300,Maranhão MA,0-1,0-1,Tocantinópolis TO,,,2024-06-02T19:00Z
+Gruppe H,Sun Jun 2 2024,16:00,-0300,Cascavel FC PR,0-0,0-0,Novo Hamburgo RS,,,2024-06-02T19:00Z
+Gruppe F,Sun Jun 2 2024,16:00,-0300,Itabuna BA,3-1,1-1,Serra ES,,,2024-06-02T19:00Z
+Gruppe E,Sun Jun 2 2024,15:00,-0300,Iporá GO,2-1,1-0,Mixto MT,,,2024-06-02T18:00Z
+Gruppe E,Sun Jun 2 2024,15:00,-0300,Real Brasilia DF,0-1,0-0,Anápolis FC GO,,,2024-06-02T18:00Z
+Gruppe F,Sun Jun 2 2024,15:30,-0300,Real Noroeste ES,3-1,2-0,Audax RJ,,,2024-06-02T18:30Z
+Gruppe C,Sun Jun 2 2024,16:00,-0300,Sousa PB,2-3,1-2,Atlético Cearense CE,,,2024-06-02T19:00Z
+Gruppe G,Sun Jun 2 2024,16:00,-0300,Pouso Alegre MG,0-0,0-0,Água Santa SP,,,2024-06-02T19:00Z
+Gruppe F,Tue Jun 4 2024,20:00,-0300,Portuguesa RJ,3-0,2-0,Democrata de Sete Lagoas MG,,,2024-06-04T23:00Z
+Gruppe H,Wed Jun 5 2024,20:00,-0300,Brasil de Pelotas RS,1-0,0-0,Barra SC,,,2024-06-05T23:00Z
+Gruppe G,Sat Jun 8 2024,15:00,-0300,Santo André SP,0-0,0-0,Pouso Alegre MG,,,2024-06-08T18:00Z
+Gruppe E,Sat Jun 8 2024,18:00,-0300,CRAC GO,0-0,0-0,Real Brasilia DF,,,2024-06-08T21:00Z
+Gruppe C,Sat Jun 8 2024,16:00,-0300,Atlético Cearense CE,2-0,1-0,Santa Cruz de Natal RN,,,2024-06-08T19:00Z
+Gruppe E,Sat Jun 8 2024,17:00,-0300,Anápolis FC GO,1-1,1-0,União Rondonópolis MT,,,2024-06-08T20:00Z
+Gruppe C,Sat Jun 8 2024,16:00,-0300,América RN,1-0,0-0,Iguatu CE,,,2024-06-08T19:00Z
+Gruppe H,Sat Jun 8 2024,16:00,-0300,Novo Hamburgo RS,1-1,1-0,Hercílio Luz SC,,,2024-06-08T19:00Z
+Gruppe F,Sat Jun 8 2024,15:00,-0300,Nova Iguaçu RJ,1-0,1-0,Real Noroeste ES,,,2024-06-08T18:00Z
+Gruppe H,Sat Jun 8 2024,16:00,-0300,Concórdia SC,1-2,1-1,Avenida RS,,,2024-06-08T19:00Z
+Gruppe D,Sat Jun 8 2024,16:00,-0300,Juazeirense BA,1-0,0-0,Sergipe SE,,,2024-06-08T19:00Z
+Gruppe D,Sat Jun 8 2024,17:00,-0300,CSE AL,2-0,2-0,Petrolina PE,,,2024-06-08T20:00Z
+Gruppe F,Sat Jun 8 2024,15:30,-0300,Audax RJ,0-0,0-0,Ipatinga MG,,,2024-06-08T18:30Z
+Gruppe B,Sat Jun 8 2024,16:00,-0300,Altos PI,1-1,0-0,Maranhão MA,,,2024-06-08T19:00Z
+Gruppe F,Sat Jun 8 2024,16:00,-0300,Serra ES,1-2,1-1,Portuguesa RJ,,,2024-06-08T19:00Z
+Gruppe G,Sat Jun 8 2024,16:00,-0300,Atlético Patrocinense MG,2-1,2-1,São José SP,,,2024-06-08T19:00Z
+Gruppe G,Sat Jun 8 2024,18:00,-0300,Água Santa SP,0-2,0-1,Costa Rica MS,,,2024-06-08T21:00Z
+Gruppe A,Sat Jun 8 2024,15:30,-0300,Trem AP,1-1,0-0,Manauara AM,,,2024-06-08T18:30Z
+Gruppe E,Sat Jun 8 2024,18:00,-0300,Mixto MT,3-0,1-0,Capital TO,,,2024-06-08T21:00Z
+Gruppe A,Sat Jun 8 2024,16:30,-0300,Porto Velho EC RO,5-1,2-1,São Raimundo RR,,,2024-06-08T19:30Z
+Gruppe A,Sat Jun 8 2024,17:00,-0300,Humaitá AC,0-3,0-1,Princesa do Solimões AM,,,2024-06-08T20:00Z
+Gruppe A,Sun Jun 9 2024,16:30,-0300,Manaus AM,2-0,1-0,Rio Branco AC,,,2024-06-09T19:30Z
+Gruppe B,Sun Jun 9 2024,16:00,-0300,Cametá PA,1-0,1-0,Fluminense PI,,,2024-06-09T19:00Z
+Gruppe B,Sun Jun 9 2024,16:00,-0300,Tocantinópolis TO,3-0,2-0,Águia de Marabá PA,,,2024-06-09T19:00Z
+Gruppe B,Sun Jun 9 2024,16:00,-0300,Moto Club MA,1-1,1-1,River PI,,,2024-06-09T19:00Z
+Gruppe G,Sun Jun 9 2024,18:30,-0300,Maringá PR,1-0,0-0,Inter de Limeira SP,,,2024-06-09T21:30Z
+Gruppe F,Sun Jun 9 2024,19:30,-0300,Democrata de Sete Lagoas MG,0-2,0-1,Itabuna BA,,,2024-06-09T22:30Z
+Gruppe C,Sun Jun 9 2024,15:30,-0300,Potiguar de Mossoró RN,0-3,0-1,Treze PB,,,2024-06-09T18:30Z
+Gruppe D,Sun Jun 9 2024,16:00,-0300,Retrô PE,3-1,1-1,Jacuipense BA,,,2024-06-09T19:00Z
+Gruppe C,Sun Jun 9 2024,15:00,-0300,Maracanã CE,0-1,0-1,Sousa PB,,,2024-06-09T18:00Z
+Gruppe H,Sun Jun 9 2024,16:00,-0300,Barra SC,0-1,0-0,Cianorte PR,,,2024-06-09T19:00Z
+Gruppe H,Sun Jun 9 2024,16:00,-0300,Brasil de Pelotas RS,1-0,0-0,Cascavel FC PR,,,2024-06-09T19:00Z
+Gruppe E,Sun Jun 9 2024,15:30,-0300,Brasiliense DF,1-0,0-0,Iporá GO,,,2024-06-09T18:30Z
+Gruppe D,Sun Jun 9 2024,16:00,-0300,Itabaiana SE,3-0,1-0,ASA AL,,,2024-06-09T19:00Z
+Gruppe G,Tue Jun 11 2024,19:30,-0300,Pouso Alegre MG,1-1,0-1,Santo André SP,,,2024-06-11T22:30Z
+Gruppe B,Tue Jun 11 2024,19:30,-0300,Maranhão MA,0-2,0-1,Altos PI,,,2024-06-11T22:30Z
+Gruppe H,Wed Jun 12 2024,20:00,-0300,Cascavel FC PR,0-0,0-0,Brasil de Pelotas RS,,,2024-06-12T23:00Z
+Gruppe H,Wed Jun 12 2024,20:00,-0300,Hercílio Luz SC,1-2,1-2,Novo Hamburgo RS,,,2024-06-12T23:00Z
+Gruppe H,Wed Jun 12 2024,19:00,-0300,Cianorte PR,1-1,0-0,Barra SC,,,2024-06-12T22:00Z
+Gruppe H,Wed Jun 12 2024,19:00,-0300,Avenida RS,1-0,0-0,Concórdia SC,,,2024-06-12T22:00Z
+Gruppe E,Wed Jun 12 2024,15:00,-0300,Real Brasilia DF,1-1,1-1,CRAC GO,,,2024-06-12T18:00Z
+Gruppe E,Wed Jun 12 2024,16:30,-0300,União Rondonópolis MT,1-0,1-0,Anápolis FC GO,,,2024-06-12T19:30Z
+Gruppe E,Wed Jun 12 2024,20:00,-0300,Capital TO,1-0,0-0,Mixto MT,,,2024-06-12T23:00Z
+Gruppe D,Wed Jun 12 2024,15:00,-0300,Jacuipense BA,1-0,0-0,Retrô PE,,,2024-06-12T18:00Z
+Gruppe G,Wed Jun 12 2024,20:00,-0300,Costa Rica MS,2-1,0-0,Água Santa SP,,,2024-06-12T23:00Z
+Gruppe C,Wed Jun 12 2024,19:00,-0300,Iguatu CE,1-0,1-0,América RN,,,2024-06-12T22:00Z
+Gruppe C,Wed Jun 12 2024,20:00,-0300,Sousa PB,3-2,1-1,Maracanã CE,,,2024-06-12T23:00Z
+Gruppe F,Wed Jun 12 2024,20:00,-0300,Portuguesa RJ,1-1,0-0,Serra ES,,,2024-06-12T23:00Z
+Gruppe D,Wed Jun 12 2024,19:00,-0300,Petrolina PE,1-1,1-0,CSE AL,,,2024-06-12T22:00Z
+Gruppe F,Wed Jun 12 2024,19:00,-0300,Real Noroeste ES,0-1,0-1,Nova Iguaçu RJ,,,2024-06-12T22:00Z
+Gruppe D,Wed Jun 12 2024,20:00,-0300,Sergipe SE,0-1,0-0,Juazeirense BA,,,2024-06-12T23:00Z
+Gruppe G,Wed Jun 12 2024,20:00,-0300,São José SP,6-0,3-0,Atlético Patrocinense MG,,,2024-06-12T23:00Z
+Gruppe G,Wed Jun 12 2024,19:30,-0300,Inter de Limeira SP,2-2,1-2,Maringá PR,,,2024-06-12T22:30Z
+Gruppe B,Wed Jun 12 2024,20:00,-0300,Águia de Marabá PA,0-0,0-0,Tocantinópolis TO,,,2024-06-12T23:00Z
+Gruppe B,Wed Jun 12 2024,19:00,-0300,River PI,1-3,0-1,Moto Club MA,,,2024-06-12T22:00Z
+Gruppe C,Wed Jun 12 2024,15:00,-0300,Santa Cruz de Natal RN,1-2,0-0,Atlético Cearense CE,,,2024-06-12T18:00Z
+Gruppe D,Wed Jun 12 2024,20:00,-0300,ASA AL,0-2,0-1,Itabaiana SE,,,2024-06-12T23:00Z
+Gruppe A,Wed Jun 12 2024,21:00,-0300,Rio Branco AC,2-1,0-1,Manaus AM,,,2024-06-13T00:00Z
+Gruppe A,Wed Jun 12 2024,16:00,-0300,Manauara AM,4-1,1-0,Trem AP,,,2024-06-12T19:00Z
+Gruppe E,Wed Jun 12 2024,15:00,-0300,Iporá GO,1-3,1-1,Brasiliense DF,,,2024-06-12T18:00Z
+Gruppe F,Wed Jun 12 2024,19:30,-0300,Ipatinga MG,0-3,0-1,Audax RJ,,,2024-06-12T22:30Z
+Gruppe A,Thu Jun 13 2024,19:00,-0300,Princesa do Solimões AM,3-1,0-0,Humaitá AC,,,2024-06-13T22:00Z
+Gruppe C,Thu Jun 13 2024,20:00,-0300,Treze PB,2-0,1-0,Potiguar de Mossoró RN,,,2024-06-13T23:00Z
+Gruppe B,Thu Jun 13 2024,19:00,-0300,Fluminense PI,2-2,2-0,Cametá PA,,,2024-06-13T22:00Z
+Gruppe F,Fri Jun 14 2024,19:00,-0300,Itabuna BA,1-1,1-1,Democrata de Sete Lagoas MG,,,2024-06-14T22:00Z
+Gruppe D,Sat Jun 15 2024,17:00,-0300,CSE AL,3-2,0-1,Sergipe SE,,,2024-06-15T20:00Z
+Gruppe A,Sat Jun 15 2024,17:00,-0300,Porto Velho EC RO,2-0,0-0,Rio Branco AC,,,2024-06-15T20:00Z
+Gruppe B,Sat Jun 15 2024,16:00,-0300,Altos PI,2-0,1-0,Águia de Marabá PA,,,2024-06-15T19:00Z
+Gruppe D,Sat Jun 15 2024,16:00,-0300,Retrô PE,1-0,0-0,ASA AL,,,2024-06-15T19:00Z
+Gruppe F,Sat Jun 15 2024,15:30,-0300,Audax RJ,1-2,0-1,Real Noroeste ES,,,2024-06-15T18:30Z
+Gruppe H,Sat Jun 15 2024,18:00,-0300,Barra SC,1-1,1-1,Avenida RS,,,2024-06-15T21:00Z
+Gruppe G,Sat Jun 15 2024,16:00,-0300,Atlético Patrocinense MG,0-1,0-0,Inter de Limeira SP,,,2024-06-15T19:00Z
+Gruppe E,Sat Jun 15 2024,18:00,-0300,Mixto MT,1-0,1-0,Iporá GO,,,2024-06-15T21:00Z
+Gruppe H,Sun Jun 16 2024,17:00,-0300,Concórdia SC,2-0,1-0,Cianorte PR,,,2024-06-16T20:00Z
+Gruppe H,Sun Jun 16 2024,16:00,-0300,Brasil de Pelotas RS,0-1,0-0,Hercílio Luz SC,,,2024-06-16T19:00Z
+Gruppe E,Sun Jun 16 2024,15:30,-0300,Brasiliense DF,4-0,3-0,Capital TO,,,2024-06-16T18:30Z
+Gruppe E,Sun Jun 16 2024,16:00,-0300,Anápolis FC GO,1-0,1-0,Real Brasilia DF,,,2024-06-16T19:00Z
+Gruppe E,Sun Jun 16 2024,17:00,-0300,CRAC GO,1-0,0-0,União Rondonópolis MT,,,2024-06-16T20:00Z
+Gruppe A,Sun Jun 16 2024,16:30,-0300,Manaus AM,2-0,0-0,São Raimundo RR,,,2024-06-16T19:30Z
+Gruppe A,Sun Jun 16 2024,19:00,-0300,Humaitá AC,0-5,0-3,Manauara AM,,,2024-06-16T22:00Z
+Gruppe F,Sun Jun 16 2024,15:00,-0300,Nova Iguaçu RJ,1-1,0-1,Ipatinga MG,,,2024-06-16T18:00Z
+Gruppe F,Sun Jun 16 2024,16:00,-0300,Serra ES,0-2,0-2,Itabuna BA,,,2024-06-16T19:00Z
+Gruppe C,Sun Jun 16 2024,18:00,-0300,América RN,1-1,0-0,Treze PB,,,2024-06-16T21:00Z
+Gruppe C,Sun Jun 16 2024,16:00,-0300,Potiguar de Mossoró RN,0-0,0-0,Iguatu CE,,,2024-06-16T19:00Z
+Gruppe D,Sun Jun 16 2024,16:00,-0300,Juazeirense BA,2-0,0-0,Petrolina PE,,,2024-06-16T19:00Z
+Gruppe D,Sun Jun 16 2024,16:00,-0300,Itabaiana SE,2-0,1-0,Jacuipense BA,,,2024-06-16T19:00Z
+Gruppe C,Sun Jun 16 2024,16:00,-0300,Atlético Cearense CE,2-0,1-0,Sousa PB,,,2024-06-16T19:00Z
+Gruppe C,Sun Jun 16 2024,15:00,-0300,Maracanã CE,2-1,1-1,Santa Cruz de Natal RN,,,2024-06-16T18:00Z
+Gruppe B,Sun Jun 16 2024,16:00,-0300,Cametá PA,3-2,1-1,River PI,,,2024-06-16T19:00Z
+Gruppe G,Sun Jun 16 2024,18:30,-0300,Maringá PR,3-0,1-0,São José SP,,,2024-06-16T21:30Z
+Gruppe G,Sun Jun 16 2024,15:00,-0300,Santo André SP,1-0,0-0,Costa Rica MS,,,2024-06-16T18:00Z
+Gruppe H,Sun Jun 16 2024,16:00,-0300,Novo Hamburgo RS,0-0,0-0,Cascavel FC PR,,,2024-06-16T19:00Z
+Gruppe B,Sun Jun 16 2024,16:00,-0300,Moto Club MA,0-0,0-0,Fluminense PI,,,2024-06-16T19:00Z
+Gruppe G,Mon Jun 17 2024,20:00,-0300,Água Santa SP,1-0,0-0,Pouso Alegre MG,,,2024-06-17T23:00Z
+Gruppe A,Mon Jun 17 2024,20:15,-0300,Trem AP,0-0,0-0,Princesa do Solimões AM,,,2024-06-17T23:15Z
+Gruppe B,Tue Jun 18 2024,19:00,-0300,Tocantinópolis TO,1-1,0-1,Maranhão MA,,,2024-06-18T22:00Z
+Gruppe F,Wed Jun 19 2024,19:30,-0300,Democrata de Sete Lagoas MG,0-0,0-0,Portuguesa RJ,,,2024-06-19T22:30Z
+Gruppe H,Wed Jun 19 2024,20:00,-0300,Novo Hamburgo RS,2-1,1-0,Concórdia SC,,,2024-06-19T23:00Z
+Gruppe H,Wed Jun 19 2024,19:30,-0300,Hercílio Luz SC,2-1,2-0,Avenida RS,,,2024-06-19T22:30Z
+Gruppe C,Thu Jun 20 2024,20:00,-0300,Treze PB,1-1,1-0,Atlético Cearense CE,,,2024-06-20T23:00Z
+Gruppe B,Sat Jun 22 2024,17:00,-0300,Águia de Marabá PA,2-0,0-0,Moto Club MA,,,2024-06-22T20:00Z
+Gruppe F,Sat Jun 22 2024,15:00,-0300,Nova Iguaçu RJ,1-0,1-0,Itabuna BA,,,2024-06-22T18:00Z
+Gruppe E,Sat Jun 22 2024,16:30,-0300,União Rondonópolis MT,1-1,0-1,Brasiliense DF,,,2024-06-22T19:30Z
+Gruppe G,Sat Jun 22 2024,15:00,-0300,Santo André SP,1-0,0-0,Inter de Limeira SP,,,2024-06-22T18:00Z
+Gruppe G,Sat Jun 22 2024,16:00,-0300,São José SP,0-0,0-0,Água Santa SP,,,2024-06-22T19:00Z
+Gruppe G,Sat Jun 22 2024,16:00,-0300,Pouso Alegre MG,0-1,0-0,Maringá PR,,,2024-06-22T19:00Z
+Gruppe H,Sat Jun 22 2024,15:00,-0300,Novo Hamburgo RS,0-1,0-1,Cianorte PR,,,2024-06-22T18:00Z
+Gruppe A,Sat Jun 22 2024,16:00,-0300,Manauara AM,0-0,0-0,Manaus AM,,,2024-06-22T19:00Z
+Gruppe A,Sat Jun 22 2024,21:00,-0300,Rio Branco AC,1-2,1-2,Trem AP,,,2024-06-23T00:00Z
+Gruppe E,Sat Jun 22 2024,15:00,-0300,Iporá GO,0-2,0-2,Anápolis FC GO,,,2024-06-22T18:00Z
+Gruppe A,Sat Jun 22 2024,18:00,-0300,São Raimundo RR,1-0,0-0,Humaitá AC,,,2024-06-22T21:00Z
+Gruppe F,Sat Jun 22 2024,17:00,-0300,Ipatinga MG,0-4,0-2,Serra ES,,,2024-06-22T20:00Z
+Gruppe F,Sat Jun 22 2024,18:30,-0300,Portuguesa RJ,3-0,1-0,Audax RJ,,,2024-06-22T21:30Z
+Gruppe H,Sun Jun 23 2024,16:00,-0300,Hercílio Luz SC,0-1,0-0,Barra SC,,,2024-06-23T19:00Z
+Gruppe B,Sun Jun 23 2024,16:00,-0300,Tocantinópolis TO,0-3,0-1,River PI,,,2024-06-23T19:00Z
+Gruppe E,Sun Jun 23 2024,17:00,-0300,CRAC GO,4-1,3-0,Capital TO,,,2024-06-23T20:00Z
+Gruppe E,Sun Jun 23 2024,15:00,-0300,Real Brasilia DF,2-2,0-0,Mixto MT,,,2024-06-23T18:00Z
+Gruppe H,Sun Jun 23 2024,15:00,-0300,Avenida RS,2-0,2-0,Brasil de Pelotas RS,,,2024-06-23T18:00Z
+Gruppe A,Sun Jun 23 2024,17:00,-0300,Porto Velho EC RO,6-1,1-1,Princesa do Solimões AM,,,2024-06-23T20:00Z
+Gruppe H,Sun Jun 23 2024,16:00,-0300,Cascavel FC PR,1-0,0-0,Concórdia SC,,,2024-06-23T19:00Z
+Gruppe G,Sun Jun 23 2024,16:00,-0300,Costa Rica MS,3-0,3-0,Atlético Patrocinense MG,,,2024-06-23T19:00Z
+Gruppe F,Tue Jun 25 2024,19:00,-0300,Real Noroeste ES,2-0,2-0,Democrata de Sete Lagoas MG,,,2024-06-25T22:00Z
+Gruppe D,Wed Jun 26 2024,15:00,-0300,Jacuipense BA,1-2,0-0,CSE AL,,,2024-06-26T18:00Z
+Gruppe D,Wed Jun 26 2024,20:00,-0300,Retrô PE,1-0,1-0,Petrolina PE,,,2024-06-26T23:00Z
+Gruppe D,Wed Jun 26 2024,20:00,-0300,Sergipe SE,2-0,0-0,Itabaiana SE,,,2024-06-26T23:00Z
+Gruppe H,Wed Jun 26 2024,20:00,-0300,Cianorte PR,1-0,1-0,Brasil de Pelotas RS,,,2024-06-26T23:00Z
+Gruppe H,Wed Jun 26 2024,20:00,-0300,Avenida RS,2-1,1-0,Novo Hamburgo RS,,,2024-06-26T23:00Z
+Gruppe C,Wed Jun 26 2024,15:00,-0300,Santa Cruz de Natal RN,2-2,0-1,Potiguar de Mossoró RN,,,2024-06-26T18:00Z
+Gruppe A,Wed Jun 26 2024,20:00,-0300,São Raimundo RR,4-1,1-0,Porto Velho EC RO,,,2024-06-26T23:00Z
+Gruppe B,Wed Jun 26 2024,19:00,-0300,Fluminense PI,1-0,1-0,Altos PI,,,2024-06-26T22:00Z
+Gruppe D,Wed Jun 26 2024,19:30,-0300,ASA AL,2-0,1-0,Juazeirense BA,,,2024-06-26T22:30Z
+Gruppe C,Thu Jun 27 2024,19:00,-0300,Iguatu CE,2-0,0-0,Maracanã CE,,,2024-06-27T22:00Z
+Gruppe C,Thu Jun 27 2024,20:00,-0300,América RN,1-0,1-0,Sousa PB,,,2024-06-27T23:00Z
+Gruppe B,Thu Jun 27 2024,19:30,-0300,Maranhão MA,1-0,0-0,Cametá PA,,,2024-06-27T22:30Z
+Gruppe A,Sat Jun 29 2024,17:00,-0300,Princesa do Solimões AM,0-0,0-0,Manauara AM,,,2024-06-29T20:00Z
+Gruppe A,Sat Jun 29 2024,18:00,-0300,São Raimundo RR,3-1,2-0,Rio Branco AC,,,2024-06-29T21:00Z
+Gruppe G,Sat Jun 29 2024,16:00,-0300,Pouso Alegre MG,0-1,0-1,Costa Rica MS,,,2024-06-29T19:00Z
+Gruppe F,Sat Jun 29 2024,15:30,-0300,Audax RJ,0-1,0-0,Nova Iguaçu RJ,,,2024-06-29T18:30Z
+Gruppe F,Sat Jun 29 2024,15:30,-0300,Real Noroeste ES,2-0,0-0,Ipatinga MG,,,2024-06-29T18:30Z
+Gruppe H,Sat Jun 29 2024,17:30,-0300,Hercílio Luz SC,0-0,0-0,Cascavel FC PR,,,2024-06-29T20:30Z
+Gruppe A,Sat Jun 29 2024,19:00,-0300,Humaitá AC,0-3,0-1,Trem AP,,,2024-06-29T22:00Z
+Gruppe E,Sat Jun 29 2024,18:00,-0300,Capital TO,0-3,0-1,Iporá GO,,,2024-06-29T21:00Z
+Gruppe G,Sat Jun 29 2024,18:00,-0300,Água Santa SP,2-0,2-0,Santo André SP,,,2024-06-29T21:00Z
+Gruppe B,Sat Jun 29 2024,17:00,-0300,River PI,2-2,2-1,Fluminense PI,,,2024-06-29T20:00Z
+Gruppe G,Sat Jun 29 2024,16:00,-0300,Inter de Limeira SP,1-2,0-0,São José SP,,,2024-06-29T19:00Z
+Gruppe E,Sat Jun 29 2024,17:00,-0300,Anápolis FC GO,0-0,0-0,CRAC GO,,,2024-06-29T20:00Z
+Gruppe H,Sat Jun 29 2024,19:30,-0300,Cianorte PR,3-1,2-1,Avenida RS,,,2024-06-29T22:30Z
+Gruppe G,Sun Jun 30 2024,18:30,-0300,Maringá PR,4-0,2-0,Atlético Patrocinense MG,,,2024-06-30T21:30Z
+Gruppe A,Sun Jun 30 2024,16:30,-0300,Manaus AM,2-1,0-1,Porto Velho EC RO,,,2024-06-30T19:30Z
+Gruppe H,Sun Jun 30 2024,16:00,-0300,Barra SC,0-0,0-0,Concórdia SC,,,2024-06-30T19:00Z
+Gruppe H,Sun Jun 30 2024,16:00,-0300,Brasil de Pelotas RS,3-1,1-0,Novo Hamburgo RS,,,2024-06-30T19:00Z
+Gruppe B,Sun Jun 30 2024,17:00,-0300,Águia de Marabá PA,0-0,0-0,Maranhão MA,,,2024-06-30T20:00Z
+Gruppe E,Sun Jun 30 2024,15:00,-0300,Real Brasilia DF,3-0,0-0,União Rondonópolis MT,,,2024-06-30T18:00Z
+Gruppe F,Mon Jul 1 2024,19:30,-0300,Democrata de Sete Lagoas MG,1-2,0-1,Serra ES,,,2024-07-01T22:30Z
+Gruppe E,Mon Jul 1 2024,20:00,-0300,Mixto MT,2-1,2-0,Brasiliense DF,,,2024-07-01T23:00Z
+Gruppe C,Tue Jul 2 2024,19:00,-0300,Iguatu CE,1-0,1-0,Treze PB,,,2024-07-02T22:00Z
+Gruppe D,Wed Jul 3 2024,19:00,-0300,Petrolina PE,1-1,1-1,Sergipe SE,,,2024-07-03T22:00Z
+Gruppe F,Wed Jul 3 2024,19:00,-0300,Itabuna BA,0-0,0-0,Portuguesa RJ,,,2024-07-03T22:00Z
+Gruppe D,Wed Jul 3 2024,19:00,-0300,CSE AL,0-1,0-0,Juazeirense BA,,,2024-07-03T22:00Z
+Gruppe H,Wed Jul 3 2024,19:00,-0300,Avenida RS,1-0,1-0,Cianorte PR,,,2024-07-03T22:00Z
+Gruppe H,Wed Jul 3 2024,20:00,-0300,Novo Hamburgo RS,1-2,0-0,Brasil de Pelotas RS,,,2024-07-03T23:00Z
+Gruppe D,Wed Jul 3 2024,20:00,-0300,Itabaiana SE,2-1,1-0,Retrô PE,,,2024-07-03T23:00Z
+Gruppe C,Wed Jul 3 2024,15:00,-0300,Maracanã CE,0-0,0-0,Atlético Cearense CE,,,2024-07-03T18:00Z
+Gruppe C,Wed Jul 3 2024,20:00,-0300,Sousa PB,3-0,3-0,Santa Cruz de Natal RN,,,2024-07-03T23:00Z
+Gruppe C,Wed Jul 3 2024,20:00,-0300,Potiguar de Mossoró RN,0-0,0-0,América RN,,,2024-07-03T23:00Z
+Gruppe B,Wed Jul 3 2024,19:00,-0300,Altos PI,2-1,1-0,Tocantinópolis TO,,,2024-07-03T22:00Z
+Gruppe B,Wed Jul 3 2024,20:00,-0300,Moto Club MA,1-1,0-0,Cametá PA,,,2024-07-03T23:00Z
+Gruppe D,Thu Jul 4 2024,15:00,-0300,Jacuipense BA,1-0,1-0,ASA AL,,,2024-07-04T18:00Z
+Gruppe F,Sat Jul 6 2024,15:00,-0300,Nova Iguaçu RJ,1-0,0-0,Portuguesa RJ,,,2024-07-06T18:00Z
+Gruppe F,Sat Jul 6 2024,15:30,-0300,Audax RJ,0-1,0-0,Itabuna BA,,,2024-07-06T18:30Z
+Gruppe F,Sat Jul 6 2024,16:00,-0300,Serra ES,2-2,0-1,Real Noroeste ES,,,2024-07-06T19:00Z
+Gruppe F,Sat Jul 6 2024,17:00,-0300,Ipatinga MG,2-0,1-0,Democrata de Sete Lagoas MG,,,2024-07-06T20:00Z
+Gruppe E,Sat Jul 6 2024,16:30,-0300,União Rondonópolis MT,1-2,1-0,Mixto MT,,,2024-07-06T19:30Z
+Gruppe G,Sat Jul 6 2024,15:00,-0300,Santo André SP,4-1,3-0,São José SP,,,2024-07-06T18:00Z
+Gruppe G,Sat Jul 6 2024,18:00,-0300,Água Santa SP,1-0,0-0,Inter de Limeira SP,,,2024-07-06T21:00Z
+Gruppe G,Sat Jul 6 2024,16:00,-0300,Atlético Patrocinense MG,0-2,0-1,Pouso Alegre MG,,,2024-07-06T19:00Z
+Gruppe A,Sat Jul 6 2024,21:00,-0300,Rio Branco AC,2-2,1-1,Humaitá AC,,,2024-07-07T00:00Z
+Gruppe H,Sat Jul 6 2024,16:00,-0300,Novo Hamburgo RS,1-1,1-1,Avenida RS,,,2024-07-06T19:00Z
+Gruppe A,Sat Jul 6 2024,16:30,-0300,Manaus AM,0-2,0-0,Princesa do Solimões AM,,,2024-07-06T19:30Z
+Gruppe H,Sun Jul 7 2024,16:00,-0300,Brasil de Pelotas RS,1-2,0-0,Cianorte PR,,,2024-07-07T19:00Z
+Gruppe H,Sun Jul 7 2024,16:00,-0300,Cascavel FC PR,0-3,0-1,Barra SC,,,2024-07-07T19:00Z
+Gruppe H,Sun Jul 7 2024,16:00,-0300,Concórdia SC,1-1,0-0,Hercílio Luz SC,,,2024-07-07T19:00Z
+Gruppe A,Sun Jul 7 2024,17:00,-0300,Porto Velho EC RO,1-1,1-0,Manauara AM,,,2024-07-07T20:00Z
+Gruppe C,Sun Jul 7 2024,18:00,-0300,América RN,2-0,1-0,Santa Cruz de Natal RN,,,2024-07-07T21:00Z
+Gruppe D,Sun Jul 7 2024,17:00,-0300,ASA AL,1-2,1-1,CSE AL,,,2024-07-07T20:00Z
+Gruppe D,Sun Jul 7 2024,16:00,-0300,Juazeirense BA,2-1,0-0,Jacuipense BA,,,2024-07-07T19:00Z
+Gruppe D,Sun Jul 7 2024,16:00,-0300,Itabaiana SE,2-0,0-0,Petrolina PE,,,2024-07-07T19:00Z
+Gruppe C,Sun Jul 7 2024,16:00,-0300,Atlético Cearense CE,0-1,0-0,Iguatu CE,,,2024-07-07T19:00Z
+Gruppe E,Sun Jul 7 2024,17:00,-0300,CRAC GO,2-0,1-0,Iporá GO,,,2024-07-07T20:00Z
+Gruppe E,Sun Jul 7 2024,16:00,-0300,Anápolis FC GO,3-1,2-0,Capital TO,,,2024-07-07T19:00Z
+Gruppe E,Sun Jul 7 2024,15:30,-0300,Brasiliense DF,3-1,2-1,Real Brasilia DF,,,2024-07-07T18:30Z
+Gruppe C,Sun Jul 7 2024,16:00,-0300,Treze PB,2-1,1-1,Maracanã CE,,,2024-07-07T19:00Z
+Gruppe G,Sun Jul 7 2024,16:00,-0300,Costa Rica MS,3-2,0-1,Maringá PR,,,2024-07-07T19:00Z
+Gruppe C,Sun Jul 7 2024,16:00,-0300,Potiguar de Mossoró RN,0-1,0-1,Sousa PB,,,2024-07-07T19:00Z
+Gruppe B,Sun Jul 7 2024,16:00,-0300,Maranhão MA,5-1,3-1,Moto Club MA,,,2024-07-07T19:00Z
+Gruppe B,Sun Jul 7 2024,16:00,-0300,Tocantinópolis TO,1-1,0-0,Fluminense PI,,,2024-07-07T19:00Z
+Gruppe B,Sun Jul 7 2024,16:00,-0300,Altos PI,1-2,0-1,River PI,,,2024-07-07T19:00Z
+Gruppe D,Mon Jul 8 2024,20:00,-0300,Retrô PE,5-0,5-0,Sergipe SE,,,2024-07-08T23:00Z
+Gruppe A,Mon Jul 8 2024,20:00,-0300,Trem AP,1-2,0-1,São Raimundo RR,,,2024-07-08T23:00Z
+Gruppe B,Tue Jul 9 2024,20:00,-0300,Cametá PA,1-1,1-1,Águia de Marabá PA,,,2024-07-09T23:00Z
+Gruppe H,Wed Jul 10 2024,20:00,-0300,Brasil de Pelotas RS,4-0,1-0,Avenida RS,,,2024-07-10T23:00Z
+Gruppe H,Wed Jul 10 2024,20:00,-0300,Cianorte PR,1-2,0-0,Novo Hamburgo RS,,,2024-07-10T23:00Z
+Gruppe F,Fri Jul 12 2024,20:00,-0300,Serra ES,1-2,0-1,Nova Iguaçu RJ,,,2024-07-12T23:00Z
+Gruppe G,Sat Jul 13 2024,16:00,-0300,Inter de Limeira SP,1-0,0-0,Costa Rica MS,,,2024-07-13T19:00Z
+Gruppe G,Sat Jul 13 2024,18:30,-0300,Maringá PR,2-0,2-0,Água Santa SP,,,2024-07-13T21:30Z
+Gruppe D,Sat Jul 13 2024,16:00,-0300,Petrolina PE,0-3,0-1,ASA AL,,,2024-07-13T19:00Z
+Gruppe C,Sat Jul 13 2024,16:00,-0300,Atlético Cearense CE,1-2,0-2,América RN,,,2024-07-13T19:00Z
+Gruppe G,Sat Jul 13 2024,16:00,-0300,Atlético Patrocinense MG,0-1,0-1,Santo André SP,,,2024-07-13T19:00Z
+Gruppe G,Sat Jul 13 2024,16:00,-0300,São José SP,1-1,1-0,Pouso Alegre MG,,,2024-07-13T19:00Z
+Gruppe E,Sat Jul 13 2024,16:00,-0300,Capital TO,2-2,1-0,União Rondonópolis MT,,,2024-07-13T19:00Z
+Gruppe E,Sat Jul 13 2024,18:00,-0300,Mixto MT,1-1,1-0,Anápolis FC GO,,,2024-07-13T21:00Z
+Gruppe D,Sat Jul 13 2024,16:00,-0300,Juazeirense BA,1-2,0-1,Retrô PE,,,2024-07-13T19:00Z
+Gruppe A,Sat Jul 13 2024,18:00,-0300,Trem AP,0-2,0-0,Porto Velho EC RO,,,2024-07-13T21:00Z
+Gruppe A,Sat Jul 13 2024,17:00,-0300,Humaitá AC,2-5,1-1,Manaus AM,,,2024-07-13T20:00Z
+Gruppe A,Sat Jul 13 2024,17:00,-0300,Princesa do Solimões AM,2-0,2-0,Rio Branco AC,,,2024-07-13T20:00Z
+Gruppe A,Sat Jul 13 2024,16:00,-0300,Manauara AM,4-0,1-0,São Raimundo RR,,,2024-07-13T19:00Z
+Gruppe E,Sat Jul 13 2024,15:00,-0300,Iporá GO,3-0,1-0,Real Brasilia DF,,,2024-07-13T18:00Z
+Gruppe F,Sat Jul 13 2024,17:00,-0300,Portuguesa RJ,3-0,1-0,Real Noroeste ES,,,2024-07-13T20:00Z
+Gruppe F,Sat Jul 13 2024,19:00,-0300,Itabuna BA,0-0,0-0,Ipatinga MG,,,2024-07-13T22:00Z
+Gruppe D,Sat Jul 13 2024,16:00,-0300,Sergipe SE,0-1,0-0,Jacuipense BA,,,2024-07-13T19:00Z
+Gruppe C,Sat Jul 13 2024,15:00,-0300,Santa Cruz de Natal RN,2-1,2-1,Iguatu CE,,,2024-07-13T18:00Z
+Gruppe B,Sat Jul 13 2024,16:00,-0300,River PI,0-1,0-1,Maranhão MA,,,2024-07-13T19:00Z
+Gruppe B,Sun Jul 14 2024,17:00,-0300,Fluminense PI,1-2,1-1,Águia de Marabá PA,,,2024-07-14T20:00Z
+Gruppe B,Sun Jul 14 2024,16:00,-0300,Moto Club MA,1-2,0-1,Altos PI,,,2024-07-14T19:00Z
+Gruppe B,Sun Jul 14 2024,16:00,-0300,Cametá PA,3-1,2-1,Tocantinópolis TO,,,2024-07-14T19:00Z
+Gruppe H,Sun Jul 14 2024,16:00,-0300,Barra SC,2-2,1-1,Brasil de Pelotas RS,,,2024-07-14T19:00Z
+Gruppe F,Sun Jul 14 2024,16:00,-0300,Democrata de Sete Lagoas MG,2-3,2-1,Audax RJ,,,2024-07-14T19:00Z
+Gruppe E,Sun Jul 14 2024,15:30,-0300,Brasiliense DF,2-0,0-0,CRAC GO,,,2024-07-14T18:30Z
+Gruppe C,Sun Jul 14 2024,15:00,-0300,Maracanã CE,2-0,0-0,Potiguar de Mossoró RN,,,2024-07-14T18:00Z
+Gruppe D,Sun Jul 14 2024,16:00,-0300,CSE AL,2-1,2-1,Itabaiana SE,,,2024-07-14T19:00Z
+Gruppe H,Sun Jul 14 2024,15:00,-0300,Avenida RS,0-0,0-0,Hercílio Luz SC,,,2024-07-14T18:00Z
+Gruppe H,Sun Jul 14 2024,16:00,-0300,Concórdia SC,1-1,0-0,Novo Hamburgo RS,,,2024-07-14T19:00Z
+Gruppe H,Sun Jul 14 2024,16:00,-0300,Cianorte PR,1-1,1-0,Cascavel FC PR,,,2024-07-14T19:00Z
+Gruppe C,Sun Jul 14 2024,16:00,-0300,Sousa PB,1-1,1-1,Treze PB,,,2024-07-14T19:00Z
+Gruppe A,Sat Jul 20 2024,17:00,-0300,Rio Branco AC,1-2,1-0,Manauara AM,,,2024-07-20T20:00Z
+Gruppe A,Sat Jul 20 2024,17:00,-0300,Porto Velho EC RO,3-0,2-0,Humaitá AC,,,2024-07-20T20:00Z
+Gruppe G,Sat Jul 20 2024,16:00,-0300,Água Santa SP,1-0,0-0,Atlético Patrocinense MG,,,2024-07-20T19:00Z
+Gruppe G,Sat Jul 20 2024,16:00,-0300,Pouso Alegre MG,0-0,0-0,Inter de Limeira SP,,,2024-07-20T19:00Z
+Gruppe G,Sat Jul 20 2024,16:00,-0300,Santo André SP,0-1,0-0,Maringá PR,,,2024-07-20T19:00Z
+Gruppe G,Sat Jul 20 2024,16:00,-0300,Costa Rica MS,0-0,0-0,São José SP,,,2024-07-20T19:00Z
+Gruppe E,Sat Jul 20 2024,16:30,-0300,União Rondonópolis MT,3-0,2-0,Iporá GO,,,2024-07-20T19:30Z
+Gruppe A,Sat Jul 20 2024,17:00,-0300,São Raimundo RR,1-2,0-1,Princesa do Solimões AM,,,2024-07-20T20:00Z
+Gruppe A,Sat Jul 20 2024,17:00,-0300,Manaus AM,3-1,1-0,Trem AP,,,2024-07-20T20:00Z
+Gruppe E,Sat Jul 20 2024,16:30,-0300,CRAC GO,0-0,0-0,Mixto MT,,,2024-07-20T19:30Z
+Gruppe E,Sat Jul 20 2024,16:30,-0300,Real Brasilia DF,1-0,0-0,Capital TO,,,2024-07-20T19:30Z
+Gruppe E,Sat Jul 20 2024,16:30,-0300,Anápolis FC GO,0-2,0-2,Brasiliense DF,,,2024-07-20T19:30Z
+Gruppe F,Sat Jul 20 2024,15:00,-0300,Audax RJ,1-1,1-1,Serra ES,,,2024-07-20T18:00Z
+Gruppe F,Sat Jul 20 2024,15:00,-0300,Real Noroeste ES,3-2,2-0,Itabuna BA,,,2024-07-20T18:00Z
+Gruppe F,Sat Jul 20 2024,15:00,-0300,Nova Iguaçu RJ,3-0,1-0,Democrata de Sete Lagoas MG,,,2024-07-20T18:00Z
+Gruppe F,Sat Jul 20 2024,15:00,-0300,Ipatinga MG,0-2,0-0,Portuguesa RJ,,,2024-07-20T18:00Z
+Gruppe C,Sun Jul 21 2024,16:00,-0300,Treze PB,2-0,1-0,Santa Cruz de Natal RN,,,2024-07-21T19:00Z
+Gruppe C,Sun Jul 21 2024,16:00,-0300,América RN,2-1,0-1,Maracanã CE,,,2024-07-21T19:00Z
+Gruppe C,Sun Jul 21 2024,16:00,-0300,Iguatu CE,1-0,1-0,Sousa PB,,,2024-07-21T19:00Z
+Gruppe C,Sun Jul 21 2024,16:00,-0300,Potiguar de Mossoró RN,1-1,0-0,Atlético Cearense CE,,,2024-07-21T19:00Z
+Gruppe B,Sun Jul 21 2024,16:00,-0300,Altos PI,2-1,0-0,Cametá PA,,,2024-07-21T19:00Z
+Gruppe B,Sun Jul 21 2024,16:00,-0300,Águia de Marabá PA,0-0,0-0,River PI,,,2024-07-21T19:00Z
+Gruppe B,Sun Jul 21 2024,16:00,-0300,Maranhão MA,3-0,2-0,Fluminense PI,,,2024-07-21T19:00Z
+Gruppe D,Sun Jul 21 2024,16:00,-0300,Itabaiana SE,1-2,1-1,Juazeirense BA,,,2024-07-21T19:00Z
+Gruppe D,Sun Jul 21 2024,16:00,-0300,ASA AL,2-0,1-0,Sergipe SE,,,2024-07-21T19:00Z
+Gruppe D,Sun Jul 21 2024,16:00,-0300,Retrô PE,2-1,2-1,CSE AL,,,2024-07-21T19:00Z
+Gruppe D,Sun Jul 21 2024,16:00,-0300,Jacuipense BA,3-0,1-0,Petrolina PE,,,2024-07-21T19:00Z
+Gruppe B,Sun Jul 21 2024,16:00,-0300,Tocantinópolis TO,1-0,0-0,Moto Club MA,,,2024-07-21T19:00Z
+Gruppe H,Sun Jul 21 2024,16:00,-0300,Cascavel FC PR,3-0,0-0,Avenida RS,,,2024-07-21T19:00Z
+Gruppe H,Sun Jul 21 2024,16:00,-0300,Novo Hamburgo RS,1-0,0-0,Barra SC,,,2024-07-21T19:00Z
+Gruppe H,Sun Jul 21 2024,16:00,-0300,Hercílio Luz SC,1-0,0-0,Cianorte PR,,,2024-07-21T19:00Z
+Gruppe H,Sun Jul 21 2024,16:00,-0300,Brasil de Pelotas RS,2-1,1-0,Concórdia SC,,,2024-07-21T19:00Z
+Sechzehntelfinale,Sat Jul 27 2024,15:00,-0300,Jacuipense BA,0-0,0-0,Iguatu CE,,,2024-07-27T18:00Z
+Sechzehntelfinale,Sat Jul 27 2024,16:00,-0300,Tocantinópolis TO,0-0,0-0,Manauara AM,,,2024-07-27T19:00Z
+Sechzehntelfinale,Sat Jul 27 2024,16:00,-0300,Real Noroeste ES,0-2,0-1,Brasiliense DF,,,2024-07-27T19:00Z
+Sechzehntelfinale,Sat Jul 27 2024,16:00,-0300,Novo Hamburgo RS,2-4,1-1,Maringá PR,,,2024-07-27T19:00Z
+Sechzehntelfinale,Sat Jul 27 2024,17:00,-0300,Princesa do Solimões AM,1-1,1-0,Altos PI,,,2024-07-27T20:00Z
+Sechzehntelfinale,Sat Jul 27 2024,18:00,-0300,América RN,1-1,0-0,Retrô PE,,,2024-07-27T21:00Z
+Sechzehntelfinale,Sat Jul 27 2024,18:00,-0300,Manaus AM,1-1,0-0,Maranhão MA,,,2024-07-27T21:00Z
+Sechzehntelfinale,Sat Jul 27 2024,18:00,-0300,Água Santa SP,1-2,0-0,Brasil de Pelotas RS,,,2024-07-27T21:00Z
+Sechzehntelfinale,Sat Jul 27 2024,18:00,-0300,Mixto MT,0-0,0-0,Portuguesa RJ,,,2024-07-27T21:00Z
+Sechzehntelfinale,Sat Jul 27 2024,18:30,-0300,Avenida RS,0-0,0-0,Inter de Limeira SP,,,2024-07-27T21:30Z
+Sechzehntelfinale,Sun Jul 28 2024,16:00,-0300,ASA AL,1-1,0-0,Treze PB,,,2024-07-28T19:00Z
+Sechzehntelfinale,Sun Jul 28 2024,16:00,-0300,Atlético Cearense CE,1-0,0-0,Itabaiana SE,,,2024-07-28T19:00Z
+Sechzehntelfinale,Sun Jul 28 2024,16:00,-0300,Costa Rica MS,1-3,0-0,Cianorte PR,,,2024-07-28T19:00Z
+Sechzehntelfinale,Sun Jul 28 2024,17:00,-0300,River PI,2-2,1-1,Porto Velho EC RO,,,2024-07-28T20:00Z
+Sechzehntelfinale,Sun Jul 28 2024,17:00,-0300,CRAC GO,0-1,0-0,Nova Iguaçu RJ,,,2024-07-28T20:00Z
+Sechzehntelfinale,Sun Jul 28 2024,18:00,-0300,Itabuna BA,1-0,0-0,Anápolis FC GO,,,2024-07-28T21:00Z
+Sechzehntelfinale,Sat Aug 3 2024,16:00,-0300,Manauara AM,5-2,2-0,Tocantinópolis TO,,,2024-08-03T19:00Z
+Sechzehntelfinale,Sat Aug 3 2024,16:00,-0300,Iguatu CE,2-1,0-1,Jacuipense BA,,,2024-08-03T19:00Z
+Sechzehntelfinale,Sat Aug 3 2024,16:00,-0300,Inter de Limeira SP,1-1,1-1,Avenida RS,,8-7,2024-08-03T19:00Z
+Sechzehntelfinale,Sat Aug 3 2024,16:30,-0300,Porto Velho EC RO,5-4,5-4,River PI,,0-0,2024-08-03T19:30Z
+Sechzehntelfinale,Sat Aug 3 2024,17:00,-0300,Portuguesa RJ,2-0,0-0,Mixto MT,,,2024-08-03T20:00Z
+Sechzehntelfinale,Sat Aug 3 2024,15:00,-0300,Nova Iguaçu RJ,2-2,1-1,CRAC GO,,,2024-08-03T18:00Z
+Sechzehntelfinale,Sun Aug 4 2024,15:30,-0300,Brasiliense DF,2-2,1-2,Real Noroeste ES,,,2024-08-04T18:30Z
+Sechzehntelfinale,Sun Aug 4 2024,16:00,-0300,Retrô PE,7-6,7-6,América RN,,0-0,2024-08-04T19:00Z
+Sechzehntelfinale,Sun Aug 4 2024,16:00,-0300,Altos PI,5-4,5-4,Princesa do Solimões AM,,0-0,2024-08-04T19:00Z
+Sechzehntelfinale,Sun Aug 4 2024,16:00,-0300,Treze PB,3-0,1-0,ASA AL,,,2024-08-04T19:00Z
+Sechzehntelfinale,Sun Aug 4 2024,16:00,-0300,Maranhão MA,5-6,5-6,Manaus AM,,0-0,2024-08-04T19:00Z
+Sechzehntelfinale,Sun Aug 4 2024,16:00,-0300,Itabaiana SE,3-0,2-0,Atlético Cearense CE,,,2024-08-04T19:00Z
+Sechzehntelfinale,Sun Aug 4 2024,16:00,-0300,Brasil de Pelotas RS,3-0,1-0,Água Santa SP,,,2024-08-04T19:00Z
+Sechzehntelfinale,Sun Aug 4 2024,16:00,-0300,Anápolis FC GO,3-0,0-0,Itabuna BA,,,2024-08-04T19:00Z
+Sechzehntelfinale,Sun Aug 4 2024,16:00,-0300,Cianorte PR,2-1,0-0,Costa Rica MS,,,2024-08-04T19:00Z
+Sechzehntelfinale,Sun Aug 4 2024,18:30,-0300,Maringá PR,1-0,0-0,Novo Hamburgo RS,,,2024-08-04T21:30Z
+Round of 16,Sat Aug 10 2024,16:00,-0300,Inter de Limeira SP,0-0,0-0,Nova Iguaçu RJ,,,2024-08-10T19:00Z
+Round of 16,Sat Aug 10 2024,17:00,-0300,Portuguesa RJ,1-3,0-3,Maringá PR,,,2024-08-10T20:00Z
+Round of 16,Sat Aug 10 2024,18:00,-0300,Manaus AM,2-2,2-0,Iguatu CE,,,2024-08-10T21:00Z
+Round of 16,Sat Aug 10 2024,16:00,-0300,Altos PI,0-1,0-1,Treze PB,,,2024-08-10T19:00Z
+Round of 16,Sun Aug 11 2024,16:00,-0300,Retrô PE,2-0,1-0,Manauara AM,,,2024-08-11T19:00Z
+Round of 16,Sun Aug 11 2024,16:00,-0300,Itabaiana SE,2-2,0-2,Porto Velho EC RO,,,2024-08-11T19:00Z
+Round of 16,Sun Aug 11 2024,16:00,-0300,Brasil de Pelotas RS,1-4,0-2,Brasiliense DF,,,2024-08-11T19:00Z
+Round of 16,Sun Aug 11 2024,16:00,-0300,Cianorte PR,1-2,1-1,Anápolis FC GO,,,2024-08-11T19:00Z
+Round of 16,Sat Aug 17 2024,16:00,-0300,Manauara AM,2-0,0-0,Retrô PE,,1-4,2024-08-17T19:00Z
+Round of 16,Sat Aug 17 2024,16:30,-0300,Porto Velho EC RO,2-4,2-4,Itabaiana SE,,2-4,2024-08-17T19:30Z
+Round of 16,Sat Aug 17 2024,18:00,-0300,Iguatu CE,2-1,2-0,Manaus AM,,,2024-08-17T21:00Z
+Round of 16,Sat Aug 17 2024,15:00,-0300,Nova Iguaçu RJ,0-1,0-1,Inter de Limeira SP,,,2024-08-17T18:00Z
+Round of 16,Sun Aug 18 2024,15:30,-0300,Brasiliense DF,5-0,2-0,Brasil de Pelotas RS,,,2024-08-18T18:30Z
+Round of 16,Sun Aug 18 2024,16:00,-0300,Treze PB,5-3,5-3,Altos PI,,5-3,2024-08-18T19:00Z
+Round of 16,Sun Aug 18 2024,16:00,-0300,Anápolis FC GO,1-1,0-0,Cianorte PR,,,2024-08-18T19:00Z
+Round of 16,Sun Aug 18 2024,18:30,-0300,Maringá PR,3-1,2-1,Portuguesa RJ,,,2024-08-18T21:30Z
+Quarterfinals,Sat Aug 24 2024,16:00,-0300,Inter de Limeira SP,0-1,0-1,Maringá PR,,,2024-08-24T19:00Z
+Quarterfinals,Sun Aug 25 2024,16:00,-0300,Itabaiana SE,3-1,3-1,Treze PB,,,2024-08-25T19:00Z
+Quarterfinals,Sun Aug 25 2024,17:00,-0300,Retrô PE,1-0,1-0,Brasiliense DF,,,2024-08-25T20:00Z
+Quarterfinals,Sun Aug 25 2024,16:00,-0300,Anápolis FC GO,1-1,0-0,Iguatu CE,,,2024-08-25T19:00Z
+Quarterfinals,Sat Aug 31 2024,16:00,-0300,Iguatu CE,3-3,2-2,Anápolis FC GO,,4-5,2024-08-31T19:00Z
+Quarterfinals,Sun Sep 1 2024,15:30,-0300,Brasiliense DF,1-0,1-0,Retrô PE,2-3,2-3,2024-09-01T18:30Z
+Quarterfinals,Sun Sep 1 2024,16:00,-0300,Treze PB,0-0,0-0,Itabaiana SE,,,2024-09-01T19:00Z
+Quarterfinals,Sun Sep 1 2024,18:30,-0300,Maringá PR,1-1,1-0,Inter de Limeira SP,,,2024-09-01T21:30Z
+Semifinals,Sun Sep 8 2024,18:30,-0300,Retrô PE,0-1,0-1,Itabaiana SE,,,2024-09-08T21:30Z
+Semifinals,Sun Sep 8 2024,16:00,-0300,Anápolis FC GO,1-1,0-1,Maringá PR,,,2024-09-08T19:00Z
+Semifinals,Sun Sep 15 2024,18:30,-0300,Maringá PR,0-0,0-0,Anápolis FC GO,,4-5,2024-09-15T21:30Z
+Semifinals,Sun Sep 15 2024,16:00,-0300,Itabaiana SE,0-1,0-0,Retrô PE,,3-4,2024-09-15T19:00Z

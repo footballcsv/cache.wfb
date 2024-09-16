@@ -1,0 +1,111 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,P,UTC
+,1,Wed Jan 17 2018,19:30,-0200,São Bento SP,2-0,,São Paulo FC,,2018-01-17T21:30Z
+,1,Wed Jan 17 2018,19:30,-0200,Grêmio Novorizontino SP,3-1,,Mirassol SP,,2018-01-17T21:30Z
+,1,Wed Jan 17 2018,19:30,-0200,Linense SP,0-3,,Santos FC,,2018-01-17T21:30Z
+,1,Wed Jan 17 2018,19:30,-0200,Ituano SP,3-1,,São Caetano SP,,2018-01-17T21:30Z
+,1,Wed Jan 17 2018,21:45,-0200,Corinthians SP,0-1,,Ponte Preta,,2018-01-17T23:45Z
+,1,Wed Jan 17 2018,17:00,-0200,Red Bull Brasil SP,0-0,,Ferroviária SP,,2018-01-17T19:00Z
+,1,Thu Jan 18 2018,19:30,-0200,CA Bragantino,2-0,,Botafogo SP,,2018-01-18T21:30Z
+,1,Thu Jan 18 2018,19:30,-0200,Palmeiras,3-1,,Santo André SP,,2018-01-18T21:30Z
+,2,Sat Jan 20 2018,16:30,-0200,Mirassol SP,0-0,,São Bento SP,,2018-01-20T18:30Z
+,2,Sat Jan 20 2018,19:00,-0200,São Paulo FC,0-0,,Grêmio Novorizontino SP,,2018-01-20T21:00Z
+,2,Sat Jan 20 2018,21:00,-0200,Ferroviária SP,1-1,,Ituano SP,,2018-01-20T23:00Z
+,2,Sun Jan 21 2018,19:30,-0200,São Caetano SP,0-4,,Corinthians SP,,2018-01-21T21:30Z
+,2,Sun Jan 21 2018,19:30,-0200,Santo André SP,1-1,,Red Bull Brasil SP,,2018-01-21T21:30Z
+,2,Sun Jan 21 2018,19:30,-0200,Ponte Preta,0-1,,Linense SP,,2018-01-21T21:30Z
+,2,Sun Jan 21 2018,20:00,-0200,Santos FC,0-1,,CA Bragantino,,2018-01-21T22:00Z
+,2,Sun Jan 21 2018,17:00,-0200,Botafogo SP,0-1,,Palmeiras,,2018-01-21T19:00Z
+,3,Wed Jan 24 2018,17:00,-0200,Linense SP,0-2,,São Caetano SP,,2018-01-24T19:00Z
+,3,Wed Jan 24 2018,19:30,-0200,Corinthians SP,2-1,,Ferroviária SP,,2018-01-24T21:30Z
+,3,Wed Jan 24 2018,19:30,-0200,Botafogo SP,3-1,,Grêmio Novorizontino SP,,2018-01-24T21:30Z
+,3,Wed Jan 24 2018,21:45,-0200,Mirassol SP,0-2,,São Paulo FC,,2018-01-24T23:45Z
+,3,Thu Jan 25 2018,19:30,-0200,Ponte Preta,1-2,,Santos FC,,2018-01-25T21:30Z
+,3,Thu Jan 25 2018,19:30,-0200,Ituano SP,0-0,,Santo André SP,,2018-01-25T21:30Z
+,3,Thu Jan 25 2018,21:00,-0200,Palmeiras,2-1,,Red Bull Brasil SP,,2018-01-25T23:00Z
+,3,Thu Jan 25 2018,18:30,-0200,CA Bragantino,0-1,,São Bento SP,,2018-01-25T20:30Z
+,4,Sat Jan 27 2018,19:00,-0200,Grêmio Novorizontino SP,1-0,,São Caetano SP,,2018-01-27T21:00Z
+,4,Sat Jan 27 2018,17:00,-0200,Corinthians SP,2-1,,São Paulo FC,,2018-01-27T19:00Z
+,4,Sun Jan 28 2018,17:00,-0200,São Bento SP,0-1,,Ponte Preta,,2018-01-28T19:00Z
+,4,Sun Jan 28 2018,17:00,-0200,CA Bragantino,0-2,,Palmeiras,,2018-01-28T19:00Z
+,4,Sun Jan 28 2018,19:30,-0200,Santos FC,1-1,,Ituano SP,,2018-01-28T21:30Z
+,4,Mon Jan 29 2018,17:30,-0200,Red Bull Brasil SP,2-1,,Linense SP,,2018-01-29T19:30Z
+,4,Mon Jan 29 2018,20:00,-0200,Ferroviária SP,1-2,,Botafogo SP,,2018-01-29T22:00Z
+,4,Mon Jan 29 2018,17:30,-0200,Santo André SP,1-1,,Mirassol SP,,2018-01-29T19:30Z
+,5,Fri Feb 2 2018,19:15,-0200,São Bento SP,2-2,,Santo André SP,,2018-02-02T21:15Z
+,5,Sat Feb 3 2018,17:00,-0200,São Paulo FC,2-0,0-0,Botafogo SP,,2018-02-03T19:00Z
+,5,Sat Feb 3 2018,19:00,-0200,Red Bull Brasil SP,1-1,,CA Bragantino,,2018-02-03T21:00Z
+,5,Sat Feb 3 2018,16:30,-0200,Ituano SP,1-1,,Ponte Preta,,2018-02-03T18:30Z
+,5,Sun Feb 4 2018,19:30,-0200,São Caetano SP,0-2,,Mirassol SP,,2018-02-04T21:30Z
+,5,Sun Feb 4 2018,19:30,-0200,Grêmio Novorizontino SP,0-1,,Corinthians SP,,2018-02-04T21:30Z
+,5,Sun Feb 4 2018,17:00,-0200,Palmeiras,2-1,,Santos FC,,2018-02-04T19:00Z
+,5,Mon Feb 5 2018,20:00,-0200,Linense SP,1-2,,Ferroviária SP,,2018-02-05T22:00Z
+,6,Wed Feb 7 2018,21:45,-0200,São Paulo FC,1-0,,CA Bragantino,,2018-02-07T23:45Z
+,6,Fri Feb 9 2018,19:15,-0200,São Bento SP,2-2,,Linense SP,,2018-02-09T21:15Z
+,6,Fri Feb 9 2018,19:00,-0200,Santo André SP,2-1,,Corinthians SP,,2018-02-09T21:00Z
+,6,Sat Feb 10 2018,16:30,-0200,Ferroviária SP,2-2,,Santos FC,,2018-02-10T18:30Z
+,6,Sat Feb 10 2018,16:30,-0200,Botafogo SP,1-0,,Ituano SP,,2018-02-10T18:30Z
+,6,Sat Feb 10 2018,19:00,-0200,São Caetano SP,1-1,,Red Bull Brasil SP,,2018-02-10T21:00Z
+,6,Sat Feb 10 2018,19:00,-0200,Mirassol SP,0-2,,Palmeiras,,2018-02-10T21:00Z
+,6,Sat Feb 10 2018,16:30,-0200,Ponte Preta,1-1,,Grêmio Novorizontino SP,,2018-02-10T18:30Z
+,7,Wed Feb 14 2018,17:00,-0200,CA Bragantino,0-0,,Mirassol SP,,2018-02-14T19:00Z
+,7,Wed Feb 14 2018,19:30,-0200,Santos FC,2-0,,São Caetano SP,,2018-02-14T21:30Z
+,7,Wed Feb 14 2018,19:30,-0200,Ferroviária SP,2-1,,Santo André SP,,2018-02-14T21:30Z
+,7,Wed Feb 14 2018,19:30,-0200,Botafogo SP,1-1,,Ponte Preta,,2018-02-14T21:30Z
+,7,Wed Feb 14 2018,21:45,-0200,Corinthians SP,0-1,,São Bento SP,,2018-02-14T23:45Z
+,7,Thu Feb 15 2018,21:00,-0200,Palmeiras,2-2,,Linense SP,,2018-02-15T23:00Z
+,7,Thu Feb 15 2018,19:00,-0200,Grêmio Novorizontino SP,0-2,,Red Bull Brasil SP,,2018-02-15T21:00Z
+,8,Sat Feb 17 2018,16:30,-0200,Santo André SP,1-1,,CA Bragantino,,2018-02-17T18:30Z
+,8,Sat Feb 17 2018,19:00,-0200,São Caetano SP,1-0,,Ferroviária SP,,2018-02-17T21:00Z
+,8,Sun Feb 18 2018,19:30,-0300,Ponte Preta,0-0,,Palmeiras,,2018-02-18T22:30Z
+,8,Sun Feb 18 2018,10:00,-0300,Mirassol SP,1-1,,Ituano SP,,2018-02-18T13:00Z
+,8,Sun Feb 18 2018,17:00,-0300,São Paulo FC,0-1,,Santos FC,,2018-02-18T20:00Z
+,8,Sun Feb 18 2018,19:30,-0300,São Bento SP,0-0,,Botafogo SP,,2018-02-18T22:30Z
+,8,Mon Feb 19 2018,20:00,-0300,Red Bull Brasil SP,1-1,,Corinthians SP,,2018-02-19T23:00Z
+,8,Mon Feb 19 2018,20:00,-0300,Linense SP,2-3,,Grêmio Novorizontino SP,,2018-02-19T23:00Z
+,7,Wed Feb 21 2018,21:45,-0300,Ituano SP,2-1,1-0,São Paulo FC,,2018-02-22T00:45Z
+,9,Sat Feb 24 2018,21:30,-0300,São Caetano SP,1-0,,São Bento SP,,2018-02-25T00:30Z
+,9,Sat Feb 24 2018,17:00,-0300,Corinthians SP,2-0,,Palmeiras,,2018-02-24T20:00Z
+,9,Sun Feb 25 2018,11:00,-0300,CA Bragantino,2-1,,Grêmio Novorizontino SP,,2018-02-25T14:00Z
+,9,Sun Feb 25 2018,17:00,-0300,São Paulo FC,0-0,,Ferroviária SP,,2018-02-25T20:00Z
+,9,Sun Feb 25 2018,19:30,-0300,Santos FC,2-0,,Santo André SP,,2018-02-25T22:30Z
+,9,Sun Feb 25 2018,19:30,-0300,Mirassol SP,1-0,,Ponte Preta,,2018-02-25T22:30Z
+,9,Mon Feb 26 2018,20:00,-0300,Botafogo SP,1-1,,Linense SP,,2018-02-26T23:00Z
+,9,Mon Feb 26 2018,17:30,-0300,Ituano SP,1-0,,Red Bull Brasil SP,,2018-02-26T20:30Z
+,10,Fri Mar 2 2018,19:15,-0300,Ferroviária SP,2-2,,Mirassol SP,,2018-03-02T22:15Z
+,10,Sat Mar 3 2018,16:30,-0300,Red Bull Brasil SP,0-0,,São Bento SP,,2018-03-03T19:30Z
+,10,Sat Mar 3 2018,19:00,-0300,Santo André SP,0-1,,Botafogo SP,,2018-03-03T22:00Z
+,10,Sat Mar 3 2018,21:30,-0300,Grêmio Novorizontino SP,3-2,,Ituano SP,,2018-03-04T00:30Z
+,10,Sun Mar 4 2018,19:30,-0300,Linense SP,1-2,,São Paulo FC,,2018-03-04T22:30Z
+,10,Sun Mar 4 2018,17:00,-0300,Santos FC,1-1,,Corinthians SP,,2018-03-04T20:00Z
+,10,Mon Mar 5 2018,20:30,-0300,Palmeiras,0-1,,São Caetano SP,,2018-03-05T23:30Z
+,10,Mon Mar 5 2018,20:00,-0300,Ponte Preta,0-1,,CA Bragantino,,2018-03-05T23:00Z
+,11,Tue Mar 6 2018,19:15,-0300,São Bento SP,0-1,,Ituano SP,,2018-03-06T22:15Z
+,11,Wed Mar 7 2018,19:30,-0300,Grêmio Novorizontino SP,2-1,,Santos FC,,2018-03-07T22:30Z
+,11,Wed Mar 7 2018,21:45,-0300,Corinthians SP,1-0,,Mirassol SP,,2018-03-08T00:45Z
+,11,Wed Mar 7 2018,17:00,-0300,Linense SP,1-0,,Santo André SP,,2018-03-07T20:00Z
+,11,Thu Mar 8 2018,17:00,-0300,Ferroviária SP,0-0,,CA Bragantino,,2018-03-08T20:00Z
+,11,Thu Mar 8 2018,19:15,-0300,São Caetano SP,0-0,,Botafogo SP,,2018-03-08T22:15Z
+,11,Thu Mar 8 2018,20:30,-0300,Palmeiras,2-0,,São Paulo FC,,2018-03-08T23:30Z
+,11,Thu Mar 8 2018,21:30,-0300,Red Bull Brasil SP,0-0,,Ponte Preta,,2018-03-09T00:30Z
+,12,Sun Mar 11 2018,17:00,-0300,São Paulo FC,3-1,,Red Bull Brasil SP,,2018-03-11T20:00Z
+,12,Sun Mar 11 2018,17:00,-0300,Santos FC,1-3,,São Bento SP,,2018-03-11T20:00Z
+,12,Sun Mar 11 2018,17:00,-0300,Santo André SP,2-3,,Grêmio Novorizontino SP,,2018-03-11T20:00Z
+,12,Sun Mar 11 2018,17:00,-0300,Ponte Preta,0-0,,Ferroviária SP,,2018-03-11T20:00Z
+,12,Sun Mar 11 2018,17:00,-0300,Mirassol SP,1-1,,Linense SP,,2018-03-11T20:00Z
+,12,Sun Mar 11 2018,17:00,-0300,Ituano SP,0-3,,Palmeiras,,2018-03-11T20:00Z
+,12,Sun Mar 11 2018,17:00,-0300,CA Bragantino,1-1,,São Caetano SP,,2018-03-11T20:00Z
+,12,Sun Mar 11 2018,17:00,-0300,Botafogo SP,0-2,,Corinthians SP,,2018-03-11T20:00Z
+Playoffs,Quarterfinals,Sat Mar 17 2018,19:00,-0300,Grêmio Novorizontino SP,0-3,,Palmeiras,,2018-03-17T22:00Z
+Playoffs,Quarterfinals,Sat Mar 17 2018,16:00,-0300,São Caetano SP,1-0,,São Paulo FC,,2018-03-17T19:00Z
+Playoffs,Quarterfinals,Sun Mar 18 2018,16:00,-0300,CA Bragantino,3-2,,Corinthians SP,,2018-03-18T19:00Z
+Playoffs,Quarterfinals,Sun Mar 18 2018,19:30,-0300,Botafogo SP,0-0,,Santos FC,,2018-03-18T22:30Z
+Playoffs,Quarterfinals,Tue Mar 20 2018,21:00,-0300,São Paulo FC,2-0,0-0,São Caetano SP,,2018-03-21T00:00Z
+Playoffs,Quarterfinals,Wed Mar 21 2018,21:45,-0300,Palmeiras,5-0,4-0,Grêmio Novorizontino SP,,2018-03-22T00:45Z
+Playoffs,Quarterfinals,Wed Mar 21 2018,19:30,-0300,Santos FC,0-0,0-0,Botafogo SP,3-1,2018-03-21T22:30Z
+Playoffs,Quarterfinals,Thu Mar 22 2018,20:00,-0300,Corinthians SP,2-0,2-0,CA Bragantino,,2018-03-22T23:00Z
+Playoffs,Semifinals,Sat Mar 24 2018,19:00,-0300,Santos FC,0-1,,Palmeiras,,2018-03-24T22:00Z
+Playoffs,Semifinals,Sun Mar 25 2018,16:00,-0300,São Paulo FC,1-0,,Corinthians SP,,2018-03-25T19:00Z
+Playoffs,Semifinals,Tue Mar 27 2018,20:30,-0300,Palmeiras,1-2,1-2,Santos FC,5-3,2018-03-27T23:30Z
+Playoffs,Semifinals,Wed Mar 28 2018,21:45,-0300,Corinthians SP,1-0,0-0,São Paulo FC,5-4,2018-03-29T00:45Z
+Playoffs,Final,Sat Mar 31 2018,16:30,-0300,Corinthians SP,0-1,0-1,Palmeiras,,2018-03-31T19:30Z
+Playoffs,Final,Sun Apr 8 2018,16:00,-0300,Palmeiras,0-1,0-1,Corinthians SP,3-4,2018-04-08T19:00Z

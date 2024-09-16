@@ -1,0 +1,81 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Wed Jan 17 2024,20:00,-0300,Andraus PR,0-2,0-1,Athletico Paranaense,2024-01-17T23:00Z
+,1,Wed Jan 17 2024,20:30,-0300,Maringá PR,3-0,0-0,Galo Maringá PR,2024-01-17T23:30Z
+,1,Wed Jan 17 2024,16:00,-0300,Independente PR,0-1,0-0,Cianorte PR,2024-01-17T19:00Z
+,1,Thu Jan 18 2024,20:00,-0300,Coritiba PR,3-1,1-1,PSTC PR,2024-01-18T23:00Z
+,1,Thu Jan 18 2024,20:30,-0300,Cascavel FC PR,0-2,0-1,Azuriz PR,2024-01-18T23:30Z
+,1,Thu Jan 18 2024,19:00,-0300,Operário Ferroviário PR,0-0,0-0,Londrina PR,2024-01-18T22:00Z
+,2,Sat Jan 20 2024,16:00,-0300,Maringá PR,3-0,1-0,Andraus PR,2024-01-20T19:00Z
+,2,Sun Jan 21 2024,16:00,-0300,Azuriz PR,0-0,0-0,Athletico Paranaense,2024-01-21T19:00Z
+,2,Sun Jan 21 2024,16:00,-0300,Cianorte PR,1-0,0-0,Londrina PR,2024-01-21T19:00Z
+,2,Sun Jan 21 2024,18:30,-0300,Galo Maringá PR,1-1,1-0,Cascavel FC PR,2024-01-21T21:30Z
+,2,Sun Jan 21 2024,18:30,-0300,Operário Ferroviário PR,2-0,2-0,PSTC PR,2024-01-21T21:30Z
+,2,Mon Jan 22 2024,20:00,-0300,Coritiba PR,2-0,0-0,Independente PR,2024-01-22T23:00Z
+,3,Wed Jan 24 2024,19:00,-0300,Athletico Paranaense,1-1,0-1,Maringá PR,2024-01-24T22:00Z
+,3,Wed Jan 24 2024,19:00,-0300,Galo Maringá PR,0-1,0-0,Azuriz PR,2024-01-24T22:00Z
+,3,Wed Jan 24 2024,20:00,-0300,Cianorte PR,1-0,0-0,Operário Ferroviário PR,2024-01-24T23:00Z
+,3,Wed Jan 24 2024,20:30,-0300,Cascavel FC PR,1-0,1-0,Andraus PR,2024-01-24T23:30Z
+,3,Thu Jan 25 2024,20:30,-0300,Londrina PR,3-3,1-1,Coritiba PR,2024-01-25T23:30Z
+,3,Thu Jan 25 2024,19:00,-0300,PSTC PR,1-1,0-1,Independente PR,2024-01-25T22:00Z
+,4,Sat Jan 27 2024,18:30,-0300,Athletico Paranaense,2-1,1-1,Galo Maringá PR,2024-01-27T21:30Z
+,4,Sat Jan 27 2024,16:00,-0300,Maringá PR,1-1,0-1,Cascavel FC PR,2024-01-27T19:00Z
+,4,Sun Jan 28 2024,11:00,-0300,Andraus PR,1-0,1-0,Azuriz PR,2024-01-28T14:00Z
+,4,Sun Jan 28 2024,16:00,-0300,Independente PR,0-0,0-0,Londrina PR,2024-01-28T19:00Z
+,4,Sun Jan 28 2024,18:30,-0300,PSTC PR,2-1,1-1,Cianorte PR,2024-01-28T21:30Z
+,4,Sun Jan 28 2024,18:30,-0300,Coritiba PR,4-0,1-0,Operário Ferroviário PR,2024-01-28T21:30Z
+,5,Tue Jan 30 2024,18:30,-0300,Andraus PR,1-0,1-0,Independente PR,2024-01-30T21:30Z
+,5,Wed Jan 31 2024,20:00,-0300,Cianorte PR,0-1,0-0,Athletico Paranaense,2024-01-31T23:00Z
+,5,Wed Jan 31 2024,20:00,-0300,Londrina PR,1-2,1-2,Galo Maringá PR,2024-01-31T23:00Z
+,5,Wed Jan 31 2024,19:00,-0300,Cascavel FC PR,2-0,2-0,PSTC PR,2024-01-31T22:00Z
+,5,Thu Feb 1 2024,20:30,-0300,Operário Ferroviário PR,0-1,0-1,Maringá PR,2024-02-01T23:30Z
+,5,Thu Feb 1 2024,20:30,-0300,Azuriz PR,1-0,1-0,Coritiba PR,2024-02-01T23:30Z
+,6,Sat Feb 3 2024,18:30,-0300,Athletico Paranaense,4-0,1-0,PSTC PR,2024-02-03T21:30Z
+,6,Sat Feb 3 2024,16:00,-0300,Cascavel FC PR,1-1,0-1,Londrina PR,2024-02-03T19:00Z
+,6,Sun Feb 4 2024,16:00,-0300,Operário Ferroviário PR,1-0,0-0,Azuriz PR,2024-02-04T19:00Z
+,6,Sun Feb 4 2024,18:30,-0300,Galo Maringá PR,3-3,1-0,Cianorte PR,2024-02-04T21:30Z
+,6,Sun Feb 4 2024,18:30,-0300,Coritiba PR,3-1,1-1,Andraus PR,2024-02-04T21:30Z
+,6,Mon Feb 5 2024,20:00,-0300,Maringá PR,2-1,1-1,Independente PR,2024-02-05T23:00Z
+,7,Wed Feb 7 2024,20:00,-0300,PSTC PR,1-2,0-0,Londrina PR,2024-02-07T23:00Z
+,7,Wed Feb 7 2024,20:00,-0300,Cianorte PR,0-1,0-1,Coritiba PR,2024-02-07T23:00Z
+,7,Wed Feb 7 2024,20:30,-0300,Athletico Paranaense,1-0,1-0,Cascavel FC PR,2024-02-07T23:30Z
+,7,Wed Feb 7 2024,16:00,-0300,Andraus PR,1-1,0-0,Galo Maringá PR,2024-02-07T19:00Z
+,7,Thu Feb 8 2024,16:00,-0300,Independente PR,0-1,0-1,Operário Ferroviário PR,2024-02-08T19:00Z
+,7,Thu Feb 8 2024,20:30,-0300,Azuriz PR,1-1,1-1,Maringá PR,2024-02-08T23:30Z
+,8,Sat Feb 10 2024,18:30,-0300,Galo Maringá PR,1-3,0-2,Coritiba PR,2024-02-10T21:30Z
+,8,Sat Feb 10 2024,16:00,-0300,Londrina PR,1-2,1-1,Athletico Paranaense,2024-02-10T19:00Z
+,8,Sun Feb 11 2024,16:00,-0300,Independente PR,2-1,1-0,Cascavel FC PR,2024-02-11T19:00Z
+,8,Sun Feb 11 2024,18:30,-0300,Maringá PR,1-0,0-0,PSTC PR,2024-02-11T21:30Z
+,8,Sun Feb 11 2024,18:30,-0300,Cianorte PR,3-2,2-1,Azuriz PR,2024-02-11T21:30Z
+,8,Sun Feb 11 2024,16:00,-0300,Operário Ferroviário PR,4-0,2-0,Andraus PR,2024-02-11T19:00Z
+,9,Wed Feb 14 2024,11:00,-0300,Andraus PR,1-1,1-0,Londrina PR,2024-02-14T14:00Z
+,9,Wed Feb 14 2024,19:00,-0300,PSTC PR,3-3,1-0,Galo Maringá PR,2024-02-14T22:00Z
+,9,Wed Feb 14 2024,20:00,-0300,Coritiba PR,2-2,2-1,Maringá PR,2024-02-14T23:00Z
+,9,Wed Feb 14 2024,20:30,-0300,Azuriz PR,2-1,1-0,Independente PR,2024-02-14T23:30Z
+,9,Thu Feb 15 2024,19:00,-0300,Athletico Paranaense,0-0,0-0,Operário Ferroviário PR,2024-02-15T22:00Z
+,9,Thu Feb 15 2024,19:00,-0300,Cascavel FC PR,1-0,0-0,Cianorte PR,2024-02-15T22:00Z
+,10,Sat Feb 17 2024,16:00,-0300,Independente PR,2-0,1-0,Galo Maringá PR,2024-02-17T19:00Z
+,10,Sat Feb 17 2024,16:00,-0300,PSTC PR,1-0,0-0,Andraus PR,2024-02-17T19:00Z
+,10,Sun Feb 18 2024,16:00,-0300,Operário Ferroviário PR,1-1,1-0,Cascavel FC PR,2024-02-18T19:00Z
+,10,Sun Feb 18 2024,18:30,-0300,Coritiba PR,1-1,1-1,Athletico Paranaense,2024-02-18T21:30Z
+,10,Sun Feb 18 2024,18:30,-0300,Maringá PR,2-2,0-1,Cianorte PR,2024-02-18T21:30Z
+,10,Sun Feb 18 2024,16:00,-0300,Londrina PR,5-2,2-1,Azuriz PR,2024-02-18T19:00Z
+,11,Sun Feb 25 2024,16:00,-0300,Athletico Paranaense,3-1,0-0,Independente PR,2024-02-25T19:00Z
+,11,Sun Feb 25 2024,16:00,-0300,Azuriz PR,1-0,1-0,PSTC PR,2024-02-25T19:00Z
+,11,Sun Feb 25 2024,16:00,-0300,Cascavel FC PR,1-0,1-0,Coritiba PR,2024-02-25T19:00Z
+,11,Sun Feb 25 2024,16:00,-0300,Cianorte PR,0-1,0-0,Andraus PR,2024-02-25T19:00Z
+,11,Sun Feb 25 2024,16:00,-0300,Galo Maringá PR,1-2,1-0,Operário Ferroviário PR,2024-02-25T19:00Z
+,11,Sun Feb 25 2024,16:00,-0300,Londrina PR,3-1,1-0,Maringá PR,2024-02-25T19:00Z
+Fase Final,Quarterfinals,Sat Mar 2 2024,16:00,-0300,Londrina PR,1-0,0-0,Athletico Paranaense,2024-03-02T19:00Z
+Fase Final,Quarterfinals,Sun Mar 3 2024,18:30,-0300,Azuriz PR,0-0,0-0,Operário Ferroviário PR,2024-03-03T21:30Z
+Fase Final,Quarterfinals,Sun Mar 3 2024,16:00,-0300,Cianorte PR,0-4,0-2,Coritiba PR,2024-03-03T19:00Z
+Fase Final,Quarterfinals,Mon Mar 4 2024,20:00,-0300,Cascavel FC PR,1-0,1-0,Maringá PR,2024-03-04T23:00Z
+Fase Final,Quarterfinals,Sat Mar 9 2024,19:30,-0300,Maringá PR,3-1,2-0,Cascavel FC PR,2024-03-09T22:30Z
+Fase Final,Quarterfinals,Sat Mar 9 2024,16:00,-0300,Coritiba PR,2-0,0-0,Cianorte PR,2024-03-09T19:00Z
+Fase Final,Quarterfinals,Sun Mar 10 2024,18:30,-0300,Athletico Paranaense,6-0,2-0,Londrina PR,2024-03-10T21:30Z
+Fase Final,Quarterfinals,Mon Mar 11 2024,20:00,-0300,Operário Ferroviário PR,1-0,0-0,Azuriz PR,2024-03-11T23:00Z
+Fase Final,Semifinals,Sat Mar 16 2024,16:00,-0300,Operário Ferroviário PR,1-2,1-1,Athletico Paranaense,2024-03-16T19:00Z
+Fase Final,Semifinals,Sun Mar 17 2024,19:30,-0300,Maringá PR,2-0,2-0,Coritiba PR,2024-03-17T22:30Z
+Fase Final,Semifinals,Sun Mar 24 2024,18:30,-0300,Coritiba PR,0-0,0-0,Maringá PR,2024-03-24T21:30Z
+Fase Final,Semifinals,Wed Mar 27 2024,20:00,-0300,Athletico Paranaense,1-0,1-0,Operário Ferroviário PR,2024-03-27T23:00Z
+Fase Final,Final,Sat Mar 30 2024,17:00,-0300,Maringá PR,0-1,0-0,Athletico Paranaense,2024-03-30T20:00Z
+Fase Final,Final,Sat Apr 6 2024,17:00,-0300,Athletico Paranaense,3-0,2-0,Maringá PR,2024-04-06T20:00Z

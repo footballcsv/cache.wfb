@@ -1,0 +1,511 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,UTC
+Gruppe A,Sun Apr 17 2022,16:00,-0300,São Raimundo AM,2-1,0-1,São Raimundo RR,,,2022-04-17T19:00Z
+Gruppe A,Sun Apr 17 2022,18:00,-0300,Humaitá AC,0-1,0-0,Amazonas FC AM,,,2022-04-17T21:00Z
+Gruppe B,Sun Apr 17 2022,16:00,-0300,Tocantinópolis TO,3-1,0-0,Tuna Luso PA,,,2022-04-17T19:00Z
+Gruppe B,Sun Apr 17 2022,16:00,-0300,4 de Julho PI,1-1,1-1,Pacajus CE,,,2022-04-17T19:00Z
+Gruppe B,Sun Apr 17 2022,15:30,-0300,Juventude MA,2-4,1-2,Fluminense PI,,,2022-04-17T18:30Z
+Gruppe B,Sun Apr 17 2022,15:00,-0300,Castanhal PA,3-0,2-0,Moto Club MA,,,2022-04-17T18:00Z
+Gruppe D,Sun Apr 17 2022,16:00,-0300,Lagarto SE,0-0,0-0,Santa Cruz PE,,,2022-04-17T19:00Z
+Gruppe D,Sun Apr 17 2022,16:00,-0300,Juazeirense BA,1-1,1-1,CSE AL,,,2022-04-17T19:00Z
+Gruppe D,Sun Apr 17 2022,16:00,-0300,Jacuipense BA,1-1,1-1,Sergipe SE,,,2022-04-17T19:00Z
+Gruppe H,Sun Apr 17 2022,16:00,-0300,Juventus SC,1-1,1-0,São Luiz RS,,,2022-04-17T19:00Z
+Gruppe H,Sun Apr 17 2022,16:00,-0300,Cascavel FC PR,1-0,1-0,Próspera SC,,,2022-04-17T19:00Z
+Gruppe H,Sun Apr 17 2022,15:00,-0300,Aimoré RS,3-2,1-1,Marcílio Dias SC,,,2022-04-17T18:00Z
+Gruppe C,Sun Apr 17 2022,16:00,-0300,Retrô PE,2-0,0-0,Crato CE,,,2022-04-17T19:00Z
+Gruppe C,Sun Apr 17 2022,16:00,-0300,Icasa CE,1-0,0-0,Globo RN,,,2022-04-17T19:00Z
+Gruppe C,Sun Apr 17 2022,16:00,-0300,América RN,2-1,1-0,Sousa PB,,,2022-04-17T19:00Z
+Gruppe C,Sun Apr 17 2022,15:00,-0300,São Paulo Crystal PB,1-0,1-0,Afogados da Ingazeira PE,,,2022-04-17T18:00Z
+Gruppe F,Sun Apr 17 2022,17:30,-0300,Pouso Alegre MG,2-1,1-0,Real Noroeste ES,,,2022-04-17T20:30Z
+Gruppe F,Sun Apr 17 2022,17:00,-0300,Ferroviária SP,8-0,2-0,U.R.T. MG,,,2022-04-17T20:00Z
+Gruppe F,Sun Apr 17 2022,16:00,-0300,Caldense MG,0-0,0-0,Inter de Limeira SP,,,2022-04-17T19:00Z
+Gruppe F,Sun Apr 17 2022,15:00,-0300,Nova Venécia ES,0-0,0-0,Bahia de Feira BA,,,2022-04-17T18:00Z
+Gruppe G,Sun Apr 17 2022,16:00,-0300,São Bernardo FC SP,0-0,0-0,Portuguesa RJ,,,2022-04-17T19:00Z
+Gruppe G,Sun Apr 17 2022,16:00,-0300,Oeste SP,0-0,0-0,Paraná Clube,,,2022-04-17T19:00Z
+Gruppe G,Sun Apr 17 2022,15:00,-0300,Pérolas Negras RJ,1-2,1-0,Santo André SP,,,2022-04-17T18:00Z
+Gruppe G,Sun Apr 17 2022,15:00,-0300,Nova Iguaçu RJ,1-3,0-2,Cianorte PR,,,2022-04-17T18:00Z
+Gruppe D,Sun Apr 17 2022,16:00,-0300,ASA AL,1-0,0-0,Atlético de Alagoinhas BA,,,2022-04-17T19:00Z
+Gruppe E,Sun Apr 17 2022,15:00,-0300,Ceilândia DF,1-0,0-0,Costa Rica MS,,,2022-04-17T18:00Z
+Gruppe E,Sun Apr 17 2022,15:30,-0300,Iporá GO,0-1,0-0,Operário MT,,,2022-04-17T18:30Z
+Gruppe E,Sun Apr 17 2022,16:00,-0300,Ação MT,1-3,1-1,Grêmio Anápolis GO,,,2022-04-17T19:00Z
+Gruppe E,Sun Apr 17 2022,16:00,-0300,Anápolis FC GO,0-2,0-1,Brasiliense DF,,,2022-04-17T19:00Z
+Gruppe A,Mon Apr 18 2022,20:30,-0300,Náutico RR,0-3,0-1,Porto Velho EC RO,,,2022-04-18T23:30Z
+Gruppe A,Mon Apr 18 2022,20:15,-0300,Trem AP,2-2,1-0,Rio Branco AC,,,2022-04-18T23:15Z
+Gruppe B,Fri Apr 22 2022,20:00,-0300,Pacajus CE,1-0,0-0,Castanhal PA,,,2022-04-22T23:00Z
+Gruppe G,Sat Apr 23 2022,15:00,-0300,Santo André SP,0-1,0-0,Nova Iguaçu RJ,,,2022-04-23T18:00Z
+Gruppe E,Sat Apr 23 2022,16:00,-0300,Operário MT,0-0,0-0,Anápolis FC GO,,,2022-04-23T19:00Z
+Gruppe A,Sat Apr 23 2022,16:30,-0300,Porto Velho EC RO,3-2,1-2,Humaitá AC,,,2022-04-23T19:30Z
+Gruppe D,Sat Apr 23 2022,16:00,-0300,CSE AL,3-3,1-2,Jacuipense BA,,,2022-04-23T19:00Z
+Gruppe F,Sat Apr 23 2022,16:00,-0300,Inter de Limeira SP,3-0,0-0,Pouso Alegre MG,,,2022-04-23T19:00Z
+Gruppe F,Sat Apr 23 2022,16:00,-0300,U.R.T. MG,0-3,0-1,Nova Venécia ES,,,2022-04-23T19:00Z
+Gruppe D,Sat Apr 23 2022,16:00,-0300,Santa Cruz PE,1-2,0-1,ASA AL,,,2022-04-23T19:00Z
+Gruppe H,Sat Apr 23 2022,16:00,-0300,São Luiz RS,2-0,0-0,Azuriz PR,,,2022-04-23T19:00Z
+Gruppe H,Sat Apr 23 2022,15:30,-0300,Marcílio Dias SC,1-1,0-0,Cascavel FC PR,,,2022-04-23T18:30Z
+Gruppe H,Sat Apr 23 2022,15:00,-0300,S.E.R. Caxias RS,1-0,1-0,Juventus SC,,,2022-04-23T18:00Z
+Gruppe E,Sat Apr 23 2022,16:00,-0300,Grêmio Anápolis GO,0-0,0-0,Ceilândia DF,,,2022-04-23T19:00Z
+Gruppe C,Sun Apr 24 2022,16:00,-0300,Afogados da Ingazeira PE,1-0,0-0,Icasa CE,,,2022-04-24T19:00Z
+Gruppe C,Sun Apr 24 2022,15:00,-0300,Crato CE,0-0,0-0,América RN,,,2022-04-24T18:00Z
+Gruppe F,Sun Apr 24 2022,16:00,-0300,Real Noroeste ES,2-1,1-0,Caldense MG,,,2022-04-24T19:00Z
+Gruppe H,Sun Apr 24 2022,15:00,-0300,Próspera SC,0-1,0-0,Aimoré RS,,,2022-04-24T18:00Z
+Gruppe C,Sun Apr 24 2022,16:00,-0300,Sousa PB,0-3,0-0,Retrô PE,,,2022-04-24T19:00Z
+Gruppe A,Sun Apr 24 2022,18:00,-0300,São Raimundo RR,2-1,1-0,Trem AP,,,2022-04-24T21:00Z
+Gruppe A,Sun Apr 24 2022,18:00,-0300,Rio Branco AC,1-0,0-0,São Raimundo AM,,,2022-04-24T21:00Z
+Gruppe F,Sun Apr 24 2022,16:00,-0300,Bahia de Feira BA,0-0,0-0,Ferroviária SP,,,2022-04-24T19:00Z
+Gruppe G,Sun Apr 24 2022,19:00,-0300,Portuguesa RJ,1-1,0-0,Oeste SP,,,2022-04-24T22:00Z
+Gruppe D,Sun Apr 24 2022,16:00,-0300,Atlético de Alagoinhas BA,1-1,0-1,Lagarto SE,,,2022-04-24T19:00Z
+Gruppe D,Sun Apr 24 2022,16:00,-0300,Sergipe SE,1-1,0-0,Juazeirense BA,,,2022-04-24T19:00Z
+Gruppe B,Sun Apr 24 2022,17:00,-0300,Moto Club MA,3-0,1-0,4 de Julho PI,,,2022-04-24T20:00Z
+Gruppe B,Sun Apr 24 2022,16:00,-0300,Fluminense PI,4-0,2-0,Tocantinópolis TO,,,2022-04-24T19:00Z
+Gruppe A,Sun Apr 24 2022,16:00,-0300,Amazonas FC AM,3-0,2-0,Náutico RR,,,2022-04-24T19:00Z
+Gruppe G,Sun Apr 24 2022,16:00,-0300,Paraná Clube,0-0,0-0,São Bernardo FC SP,,,2022-04-24T19:00Z
+Gruppe G,Sun Apr 24 2022,16:00,-0300,Cianorte PR,2-2,2-2,Pérolas Negras RJ,,,2022-04-24T19:00Z
+Gruppe E,Sun Apr 24 2022,15:30,-0300,Brasiliense DF,2-2,2-0,Iporá GO,,,2022-04-24T18:30Z
+Gruppe C,Sun Apr 24 2022,16:00,-0300,Globo RN,1-2,1-2,São Paulo Crystal PB,,,2022-04-24T19:00Z
+Gruppe B,Sun Apr 24 2022,15:00,-0300,Tuna Luso PA,0-3,0-2,Juventude MA,,,2022-04-24T18:00Z
+Gruppe H,Wed Apr 27 2022,20:00,-0300,Azuriz PR,1-0,0-0,S.E.R. Caxias RS,,,2022-04-27T23:00Z
+Gruppe E,Wed Apr 27 2022,21:00,-0300,Costa Rica MS,2-0,0-0,Ação MT,,,2022-04-28T00:00Z
+Gruppe B,Sat Apr 30 2022,16:00,-0300,4 de Julho PI,3-0,0-0,Tuna Luso PA,,,2022-04-30T19:00Z
+Gruppe B,Sat Apr 30 2022,16:00,-0300,Tocantinópolis TO,1-1,1-0,Pacajus CE,,,2022-04-30T19:00Z
+Gruppe C,Sat Apr 30 2022,15:00,-0300,São Paulo Crystal PB,2-3,1-1,Sousa PB,,,2022-04-30T18:00Z
+Gruppe C,Sat Apr 30 2022,15:00,-0300,Crato CE,0-1,0-0,Icasa CE,,,2022-04-30T18:00Z
+Gruppe C,Sat Apr 30 2022,17:00,-0300,América RN,0-1,0-0,Afogados da Ingazeira PE,,,2022-04-30T20:00Z
+Gruppe G,Sat Apr 30 2022,15:00,-0300,Santo André SP,0-1,0-1,São Bernardo FC SP,,,2022-04-30T18:00Z
+Gruppe G,Sat Apr 30 2022,15:00,-0300,Nova Iguaçu RJ,1-1,0-1,Paraná Clube,,,2022-04-30T18:00Z
+Gruppe E,Sat Apr 30 2022,16:00,-0300,Grêmio Anápolis GO,1-3,0-2,Anápolis FC GO,,,2022-04-30T19:00Z
+Gruppe E,Sat Apr 30 2022,15:30,-0300,Ceilândia DF,3-0,1-0,Operário MT,,,2022-04-30T18:30Z
+Gruppe A,Sat Apr 30 2022,18:00,-0300,Náutico RR,1-1,1-1,São Raimundo RR,,,2022-04-30T21:00Z
+Gruppe F,Sat Apr 30 2022,16:00,-0300,U.R.T. MG,0-1,0-1,Pouso Alegre MG,,,2022-04-30T19:00Z
+Gruppe F,Sat Apr 30 2022,17:00,-0300,Ferroviária SP,1-2,1-1,Real Noroeste ES,,,2022-04-30T20:00Z
+Gruppe F,Sat Apr 30 2022,20:00,-0300,Caldense MG,0-2,0-0,Bahia de Feira BA,,,2022-04-30T23:00Z
+Gruppe H,Sun May 1 2022,15:00,-0300,Azuriz PR,1-0,0-0,Marcílio Dias SC,,,2022-05-01T18:00Z
+Gruppe D,Sun May 1 2022,16:00,-0300,Lagarto SE,3-3,0-1,CSE AL,,,2022-05-01T19:00Z
+Gruppe D,Sun May 1 2022,16:00,-0300,ASA AL,1-0,0-0,Sergipe SE,,,2022-05-01T19:00Z
+Gruppe D,Sun May 1 2022,16:00,-0300,Atlético de Alagoinhas BA,0-1,0-0,Jacuipense BA,,,2022-05-01T19:00Z
+Gruppe H,Sun May 1 2022,15:00,-0300,S.E.R. Caxias RS,4-2,2-1,Aimoré RS,,,2022-05-01T18:00Z
+Gruppe H,Sun May 1 2022,16:00,-0300,Cascavel FC PR,2-1,0-0,São Luiz RS,,,2022-05-01T19:00Z
+Gruppe H,Sun May 1 2022,16:00,-0300,Juventus SC,0-1,0-0,Próspera SC,,,2022-05-01T19:00Z
+Gruppe F,Sun May 1 2022,15:00,-0300,Nova Venécia ES,2-2,1-0,Inter de Limeira SP,,,2022-05-01T18:00Z
+Gruppe G,Sun May 1 2022,15:00,-0300,Pérolas Negras RJ,1-1,0-1,Portuguesa RJ,,,2022-05-01T18:00Z
+Gruppe A,Sun May 1 2022,18:00,-0300,Rio Branco AC,2-0,0-0,Humaitá AC,,,2022-05-01T21:00Z
+Gruppe A,Sun May 1 2022,16:00,-0300,São Raimundo AM,0-1,0-0,Porto Velho EC RO,,,2022-05-01T19:00Z
+Gruppe E,Sun May 1 2022,16:00,-0300,Ação MT,0-2,0-0,Brasiliense DF,,,2022-05-01T19:00Z
+Gruppe E,Sun May 1 2022,15:30,-0300,Iporá GO,1-2,0-0,Costa Rica MS,,,2022-05-01T18:30Z
+Gruppe G,Mon May 2 2022,19:00,-0300,Oeste SP,2-1,2-1,Cianorte PR,,,2022-05-02T22:00Z
+Gruppe B,Mon May 2 2022,19:00,-0300,Moto Club MA,3-0,0-0,Juventude MA,,,2022-05-02T22:00Z
+Gruppe B,Tue May 3 2022,15:00,-0300,Castanhal PA,2-2,1-1,Fluminense PI,,,2022-05-03T18:00Z
+Gruppe A,Tue May 3 2022,15:00,-0300,Trem AP,0-2,0-1,Amazonas FC AM,,,2022-05-03T18:00Z
+Gruppe C,Wed May 4 2022,20:00,-0300,Retrô PE,1-0,1-0,Globo RN,,,2022-05-04T23:00Z
+Gruppe D,Wed May 4 2022,20:00,-0300,Juazeirense BA,1-0,0-0,Santa Cruz PE,,,2022-05-04T23:00Z
+Gruppe B,Fri May 6 2022,20:00,-0300,Pacajus CE,0-2,0-1,Moto Club MA,,,2022-05-06T23:00Z
+Gruppe F,Sat May 7 2022,17:30,-0300,Pouso Alegre MG,1-0,1-0,Caldense MG,,,2022-05-07T20:30Z
+Gruppe F,Sat May 7 2022,16:00,-0300,Inter de Limeira SP,1-3,0-3,Real Noroeste ES,,,2022-05-07T19:00Z
+Gruppe D,Sat May 7 2022,15:00,-0300,Lagarto SE,4-0,1-0,ASA AL,,,2022-05-07T18:00Z
+Gruppe E,Sat May 7 2022,15:30,-0300,Ceilândia DF,1-0,0-0,Ação MT,,,2022-05-07T18:30Z
+Gruppe E,Sat May 7 2022,16:00,-0300,Operário MT,0-2,0-0,Brasiliense DF,,,2022-05-07T19:00Z
+Gruppe C,Sat May 7 2022,16:00,-0300,Sousa PB,2-0,0-0,Crato CE,,,2022-05-07T19:00Z
+Gruppe H,Sat May 7 2022,18:00,-0300,São Luiz RS,1-1,0-0,S.E.R. Caxias RS,,,2022-05-07T21:00Z
+Gruppe B,Sat May 7 2022,15:30,-0300,Juventude MA,0-0,0-0,Tocantinópolis TO,,,2022-05-07T18:30Z
+Gruppe B,Sat May 7 2022,15:00,-0300,Tuna Luso PA,1-1,1-1,Fluminense PI,,,2022-05-07T18:00Z
+Gruppe H,Sat May 7 2022,15:00,-0300,Juventus SC,2-2,0-1,Azuriz PR,,,2022-05-07T18:00Z
+Gruppe H,Sat May 7 2022,15:00,-0300,Aimoré RS,0-1,0-0,Cascavel FC PR,,,2022-05-07T18:00Z
+Gruppe G,Sat May 7 2022,15:00,-0300,Nova Iguaçu RJ,1-1,0-0,Pérolas Negras RJ,,,2022-05-07T18:00Z
+Gruppe G,Sat May 7 2022,16:00,-0300,São Bernardo FC SP,3-0,1-0,Oeste SP,,,2022-05-07T19:00Z
+Gruppe D,Sat May 7 2022,19:00,-0300,CSE AL,2-2,2-1,Sergipe SE,,,2022-05-07T22:00Z
+Gruppe A,Sat May 7 2022,16:30,-0300,Porto Velho EC RO,1-3,1-2,Amazonas FC AM,,,2022-05-07T19:30Z
+Gruppe A,Sat May 7 2022,18:00,-0300,São Raimundo RR,1-0,0-0,Rio Branco AC,,,2022-05-07T21:00Z
+Gruppe C,Sat May 7 2022,17:00,-0300,América RN,0-0,0-0,Retrô PE,,,2022-05-07T20:00Z
+Gruppe A,Sun May 8 2022,18:00,-0300,Humaitá AC,1-1,1-0,Náutico RR,,,2022-05-08T21:00Z
+Gruppe G,Sun May 8 2022,16:00,-0300,Paraná Clube,2-0,2-0,Portuguesa RJ,,,2022-05-08T19:00Z
+Gruppe G,Sun May 8 2022,16:00,-0300,Cianorte PR,1-1,0-0,Santo André SP,,,2022-05-08T19:00Z
+Gruppe E,Sun May 8 2022,16:00,-0300,Costa Rica MS,1-1,1-1,Grêmio Anápolis GO,,,2022-05-08T19:00Z
+Gruppe E,Sun May 8 2022,16:00,-0300,Anápolis FC GO,1-0,0-0,Iporá GO,,,2022-05-08T19:00Z
+Gruppe B,Sun May 8 2022,16:00,-0300,4 de Julho PI,0-3,0-1,Castanhal PA,,,2022-05-08T19:00Z
+Gruppe F,Sun May 8 2022,16:00,-0300,Bahia de Feira BA,0-1,0-1,U.R.T. MG,,,2022-05-08T19:00Z
+Gruppe D,Sun May 8 2022,16:00,-0300,Santa Cruz PE,3-2,2-2,Atlético de Alagoinhas BA,,,2022-05-08T19:00Z
+Gruppe D,Sun May 8 2022,15:00,-0300,Jacuipense BA,1-2,1-1,Juazeirense BA,,,2022-05-08T18:00Z
+Gruppe F,Sun May 8 2022,15:00,-0300,Nova Venécia ES,2-1,1-1,Ferroviária SP,,,2022-05-08T18:00Z
+Gruppe H,Sun May 8 2022,15:00,-0300,Próspera SC,0-1,0-0,Marcílio Dias SC,,,2022-05-08T18:00Z
+Gruppe A,Sun May 8 2022,16:00,-0300,São Raimundo AM,3-1,1-1,Trem AP,,,2022-05-08T19:00Z
+Gruppe C,Sun May 8 2022,16:00,-0300,Afogados da Ingazeira PE,1-1,1-0,Globo RN,,,2022-05-08T19:00Z
+Gruppe C,Sun May 8 2022,17:00,-0300,Icasa CE,1-0,1-0,São Paulo Crystal PB,,,2022-05-08T20:00Z
+Gruppe D,Wed May 11 2022,20:15,-0300,Sergipe SE,0-0,0-0,Lagarto SE,,,2022-05-11T23:15Z
+Gruppe H,Sat May 14 2022,16:00,-0300,Cascavel FC PR,2-0,1-0,S.E.R. Caxias RS,,,2022-05-14T19:00Z
+Gruppe H,Sat May 14 2022,16:00,-0300,Marcílio Dias SC,2-1,1-1,Juventus SC,,,2022-05-14T19:00Z
+Gruppe C,Sat May 14 2022,15:00,-0300,São Paulo Crystal PB,2-0,1-0,Crato CE,,,2022-05-14T18:00Z
+Gruppe H,Sat May 14 2022,15:00,-0300,Aimoré RS,2-1,0-1,São Luiz RS,,,2022-05-14T18:00Z
+Gruppe B,Sat May 14 2022,15:30,-0300,Castanhal PA,0-0,0-0,Tuna Luso PA,,,2022-05-14T18:30Z
+Gruppe F,Sat May 14 2022,17:00,-0300,Ferroviária SP,1-1,1-0,Inter de Limeira SP,,,2022-05-14T20:00Z
+Gruppe F,Sat May 14 2022,16:30,-0300,Pouso Alegre MG,0-0,0-0,Bahia de Feira BA,,,2022-05-14T19:30Z
+Gruppe G,Sat May 14 2022,16:00,-0300,São Bernardo FC SP,1-0,1-0,Cianorte PR,,,2022-05-14T19:00Z
+Gruppe A,Sat May 14 2022,18:00,-0300,Náutico RR,1-4,1-2,Rio Branco AC,,,2022-05-14T21:00Z
+Gruppe F,Sat May 14 2022,16:00,-0300,Real Noroeste ES,1-0,1-0,Nova Venécia ES,,,2022-05-14T19:00Z
+Gruppe B,Sat May 14 2022,16:00,-0300,Tocantinópolis TO,2-0,1-0,Moto Club MA,,,2022-05-14T19:00Z
+Gruppe B,Sat May 14 2022,15:30,-0300,Juventude MA,0-1,0-1,Pacajus CE,,,2022-05-14T18:30Z
+Gruppe E,Sun May 15 2022,15:30,-0300,Iporá GO,0-0,0-0,Grêmio Anápolis GO,,,2022-05-15T18:30Z
+Gruppe E,Sun May 15 2022,16:00,-0300,Ação MT,1-2,0-1,Operário MT,,,2022-05-15T19:00Z
+Gruppe D,Sun May 15 2022,16:00,-0300,Jacuipense BA,2-0,0-0,Santa Cruz PE,,,2022-05-15T19:00Z
+Gruppe D,Sun May 15 2022,16:00,-0300,Juazeirense BA,0-2,0-0,Atlético de Alagoinhas BA,,,2022-05-15T19:00Z
+Gruppe G,Sun May 15 2022,15:00,-0300,Pérolas Negras RJ,0-1,0-0,Paraná Clube,,,2022-05-15T18:00Z
+Gruppe G,Sun May 15 2022,16:00,-0300,Oeste SP,2-0,1-0,Santo André SP,,,2022-05-15T19:00Z
+Gruppe G,Sun May 15 2022,17:00,-0300,Portuguesa RJ,1-1,0-1,Nova Iguaçu RJ,,,2022-05-15T20:00Z
+Gruppe F,Sun May 15 2022,16:00,-0300,Caldense MG,1-1,1-0,U.R.T. MG,,,2022-05-15T19:00Z
+Gruppe B,Sun May 15 2022,16:00,-0300,Fluminense PI,0-0,0-0,4 de Julho PI,,,2022-05-15T19:00Z
+Gruppe D,Sun May 15 2022,16:00,-0300,ASA AL,2-3,1-1,CSE AL,,,2022-05-15T19:00Z
+Gruppe C,Sun May 15 2022,18:30,-0300,Retrô PE,1-1,1-1,Afogados da Ingazeira PE,,,2022-05-15T21:30Z
+Gruppe A,Sun May 15 2022,17:00,-0300,Amazonas FC AM,2-2,1-0,São Raimundo AM,,,2022-05-15T20:00Z
+Gruppe A,Sun May 15 2022,18:00,-0300,Humaitá AC,2-1,1-0,São Raimundo RR,,,2022-05-15T21:00Z
+Gruppe C,Sun May 15 2022,17:00,-0300,Icasa CE,2-2,1-1,Sousa PB,,,2022-05-15T20:00Z
+Gruppe C,Sun May 15 2022,15:00,-0300,Globo RN,0-2,0-2,América RN,,,2022-05-15T18:00Z
+Gruppe E,Sun May 15 2022,15:30,-0300,Brasiliense DF,2-1,1-0,Ceilândia DF,,,2022-05-15T18:30Z
+Gruppe H,Mon May 16 2022,19:00,-0300,Azuriz PR,0-0,0-0,Próspera SC,,,2022-05-16T22:00Z
+Gruppe A,Mon May 16 2022,20:15,-0300,Trem AP,2-2,0-0,Porto Velho EC RO,,,2022-05-16T23:15Z
+Gruppe E,Mon May 16 2022,20:00,-0300,Anápolis FC GO,1-0,0-0,Costa Rica MS,,,2022-05-16T23:00Z
+Gruppe B,Fri May 20 2022,20:00,-0300,Pacajus CE,2-0,0-0,Tuna Luso PA,,,2022-05-20T23:00Z
+Gruppe A,Sat May 21 2022,18:00,-0300,Rio Branco AC,2-2,0-1,Amazonas FC AM,,,2022-05-21T21:00Z
+Gruppe A,Sat May 21 2022,16:00,-0300,São Raimundo AM,5-1,3-0,Náutico RR,,,2022-05-21T19:00Z
+Gruppe D,Sat May 21 2022,15:00,-0300,Lagarto SE,2-0,2-0,Juazeirense BA,,,2022-05-21T18:00Z
+Gruppe G,Sat May 21 2022,15:00,-0300,Santo André SP,1-0,1-0,Portuguesa RJ,,,2022-05-21T18:00Z
+Gruppe G,Sat May 21 2022,15:00,-0300,Nova Iguaçu RJ,2-1,0-1,Oeste SP,,,2022-05-21T18:00Z
+Gruppe H,Sat May 21 2022,15:00,-0300,Juventus SC,1-1,1-1,Cascavel FC PR,,,2022-05-21T18:00Z
+Gruppe H,Sat May 21 2022,15:00,-0300,S.E.R. Caxias RS,3-1,0-0,Marcílio Dias SC,,,2022-05-21T18:00Z
+Gruppe E,Sat May 21 2022,15:30,-0300,Ceilândia DF,0-0,0-0,Iporá GO,,,2022-05-21T18:30Z
+Gruppe C,Sat May 21 2022,17:00,-0300,América RN,0-0,0-0,São Paulo Crystal PB,,,2022-05-21T20:00Z
+Gruppe C,Sat May 21 2022,16:00,-0300,Sousa PB,3-2,0-2,Afogados da Ingazeira PE,,,2022-05-21T19:00Z
+Gruppe C,Sat May 21 2022,16:00,-0300,Retrô PE,3-0,1-0,Icasa CE,,,2022-05-21T19:00Z
+Gruppe F,Sat May 21 2022,16:00,-0300,Ferroviária SP,0-1,0-1,Pouso Alegre MG,,,2022-05-21T19:00Z
+Gruppe F,Sat May 21 2022,16:00,-0300,U.R.T. MG,1-0,0-0,Real Noroeste ES,,,2022-05-21T19:00Z
+Gruppe C,Sat May 21 2022,15:00,-0300,Crato CE,2-1,1-0,Globo RN,,,2022-05-21T18:00Z
+Gruppe A,Sat May 21 2022,18:00,-0300,São Raimundo RR,2-2,1-1,Porto Velho EC RO,,,2022-05-21T21:00Z
+Gruppe B,Sat May 21 2022,15:30,-0300,Castanhal PA,0-0,0-0,Juventude MA,,,2022-05-21T18:30Z
+Gruppe B,Sat May 21 2022,16:00,-0300,4 de Julho PI,2-2,2-1,Tocantinópolis TO,,,2022-05-21T19:00Z
+Gruppe B,Sun May 22 2022,17:00,-0300,Moto Club MA,3-2,1-0,Fluminense PI,,,2022-05-22T20:00Z
+Gruppe D,Sun May 22 2022,16:00,-0300,ASA AL,1-1,0-0,Jacuipense BA,,,2022-05-22T19:00Z
+Gruppe D,Sun May 22 2022,16:00,-0300,Santa Cruz PE,2-1,0-1,CSE AL,,,2022-05-22T19:00Z
+Gruppe F,Sun May 22 2022,15:00,-0300,Nova Venécia ES,3-1,0-1,Caldense MG,,,2022-05-22T18:00Z
+Gruppe F,Sun May 22 2022,16:00,-0300,Bahia de Feira BA,0-1,0-0,Inter de Limeira SP,,,2022-05-22T19:00Z
+Gruppe H,Sun May 22 2022,15:00,-0300,Azuriz PR,3-0,0-0,Aimoré RS,,,2022-05-22T18:00Z
+Gruppe G,Sun May 22 2022,16:00,-0300,Cianorte PR,0-1,0-0,Paraná Clube,,,2022-05-22T19:00Z
+Gruppe G,Sun May 22 2022,15:00,-0300,Pérolas Negras RJ,0-0,0-0,São Bernardo FC SP,,,2022-05-22T18:00Z
+Gruppe E,Sun May 22 2022,16:00,-0300,Ação MT,2-3,0-1,Anápolis FC GO,,,2022-05-22T19:00Z
+Gruppe E,Sun May 22 2022,16:30,-0300,Costa Rica MS,1-0,1-0,Operário MT,,,2022-05-22T19:30Z
+Gruppe H,Sun May 22 2022,15:30,-0300,São Luiz RS,3-2,1-1,Próspera SC,,,2022-05-22T18:30Z
+Gruppe D,Sun May 22 2022,16:00,-0300,Atlético de Alagoinhas BA,0-0,0-0,Sergipe SE,,,2022-05-22T19:00Z
+Gruppe A,Mon May 23 2022,20:15,-0300,Trem AP,2-1,0-0,Humaitá AC,,,2022-05-23T23:15Z
+Gruppe E,Wed May 25 2022,20:00,-0300,Grêmio Anápolis GO,1-2,1-1,Brasiliense DF,,,2022-05-25T23:00Z
+Gruppe D,Sat May 28 2022,19:00,-0300,CSE AL,2-1,0-1,Atlético de Alagoinhas BA,,,2022-05-28T22:00Z
+Gruppe G,Sat May 28 2022,15:00,-0300,Portuguesa RJ,0-0,0-0,Cianorte PR,,,2022-05-28T18:00Z
+Gruppe G,Sat May 28 2022,16:00,-0300,Oeste SP,0-1,0-1,Pérolas Negras RJ,,,2022-05-28T19:00Z
+Gruppe G,Sat May 28 2022,16:00,-0300,São Bernardo FC SP,1-0,1-0,Nova Iguaçu RJ,,,2022-05-28T19:00Z
+Gruppe D,Sat May 28 2022,18:00,-0300,Juazeirense BA,0-0,0-0,ASA AL,,,2022-05-28T21:00Z
+Gruppe B,Sat May 28 2022,15:30,-0300,Juventude MA,0-0,0-0,4 de Julho PI,,,2022-05-28T18:30Z
+Gruppe A,Sat May 28 2022,16:30,-0300,Porto Velho EC RO,0-1,0-1,Rio Branco AC,,,2022-05-28T19:30Z
+Gruppe A,Sat May 28 2022,18:00,-0300,Náutico RR,3-5,2-1,Trem AP,,,2022-05-28T21:00Z
+Gruppe B,Sat May 28 2022,16:00,-0300,Fluminense PI,1-2,0-2,Pacajus CE,,,2022-05-28T19:00Z
+Gruppe B,Sat May 28 2022,18:30,-0300,Tocantinópolis TO,4-1,1-0,Castanhal PA,,,2022-05-28T21:30Z
+Gruppe H,Sat May 28 2022,16:00,-0300,Marcílio Dias SC,1-1,0-0,São Luiz RS,,,2022-05-28T19:00Z
+Gruppe H,Sat May 28 2022,15:00,-0300,Aimoré RS,2-0,2-0,Juventus SC,,,2022-05-28T18:00Z
+Gruppe C,Sat May 28 2022,17:00,-0300,Icasa CE,1-1,1-0,América RN,,,2022-05-28T20:00Z
+Gruppe B,Sat May 28 2022,15:00,-0300,Tuna Luso PA,0-2,0-2,Moto Club MA,,,2022-05-28T18:00Z
+Gruppe E,Sat May 28 2022,15:30,-0300,Brasiliense DF,0-2,0-1,Costa Rica MS,,,2022-05-28T18:30Z
+Gruppe F,Sat May 28 2022,16:00,-0300,Caldense MG,1-2,1-0,Ferroviária SP,,,2022-05-28T19:00Z
+Gruppe F,Sat May 28 2022,16:00,-0300,Inter de Limeira SP,1-0,1-0,U.R.T. MG,,,2022-05-28T19:00Z
+Gruppe F,Sat May 28 2022,16:00,-0300,Real Noroeste ES,1-1,0-0,Bahia de Feira BA,,,2022-05-28T19:00Z
+Gruppe G,Sat May 28 2022,15:00,-0300,Paraná Clube,1-0,0-0,Santo André SP,,,2022-05-28T18:00Z
+Gruppe D,Sun May 29 2022,16:00,-0300,Jacuipense BA,2-2,1-2,Lagarto SE,,,2022-05-29T19:00Z
+Gruppe D,Sun May 29 2022,16:00,-0300,Sergipe SE,1-1,1-0,Santa Cruz PE,,,2022-05-29T19:00Z
+Gruppe E,Sun May 29 2022,15:30,-0300,Iporá GO,3-0,2-0,Ação MT,,,2022-05-29T18:30Z
+Gruppe E,Sun May 29 2022,12:00,-0300,Operário MT,1-0,0-0,Grêmio Anápolis GO,,,2022-05-29T15:00Z
+Gruppe A,Sun May 29 2022,16:00,-0300,Amazonas FC AM,1-1,0-0,São Raimundo RR,,,2022-05-29T19:00Z
+Gruppe A,Sun May 29 2022,18:00,-0300,Humaitá AC,0-1,0-1,São Raimundo AM,,,2022-05-29T21:00Z
+Gruppe C,Sun May 29 2022,16:00,-0300,Afogados da Ingazeira PE,2-0,2-0,Crato CE,,,2022-05-29T19:00Z
+Gruppe H,Sun May 29 2022,15:00,-0300,Próspera SC,1-2,1-0,S.E.R. Caxias RS,,,2022-05-29T18:00Z
+Gruppe H,Sun May 29 2022,15:30,-0300,Cascavel FC PR,0-2,0-1,Azuriz PR,,,2022-05-29T18:30Z
+Gruppe C,Sun May 29 2022,15:00,-0300,São Paulo Crystal PB,1-4,1-2,Retrô PE,,,2022-05-29T18:00Z
+Gruppe C,Sun May 29 2022,15:00,-0300,Globo RN,0-0,0-0,Sousa PB,,,2022-05-29T18:00Z
+Gruppe F,Sun May 29 2022,15:00,-0300,Pouso Alegre MG,1-1,1-0,Nova Venécia ES,,,2022-05-29T18:00Z
+Gruppe E,Mon May 30 2022,20:00,-0300,Anápolis FC GO,2-0,0-0,Ceilândia DF,,,2022-05-30T23:00Z
+Gruppe B,Fri Jun 3 2022,20:00,-0300,Pacajus CE,0-0,0-0,Fluminense PI,,,2022-06-03T23:00Z
+Gruppe C,Sat Jun 4 2022,15:00,-0300,Crato CE,0-2,0-0,Afogados da Ingazeira PE,,,2022-06-04T18:00Z
+Gruppe H,Sat Jun 4 2022,15:00,-0300,S.E.R. Caxias RS,1-0,0-0,Próspera SC,,,2022-06-04T18:00Z
+Gruppe B,Sat Jun 4 2022,15:30,-0300,Castanhal PA,2-1,1-0,Tocantinópolis TO,,,2022-06-04T18:30Z
+Gruppe B,Sat Jun 4 2022,16:00,-0300,4 de Julho PI,2-2,2-0,Juventude MA,,,2022-06-04T19:00Z
+Gruppe F,Sat Jun 4 2022,17:00,-0300,Ferroviária SP,1-0,0-0,Caldense MG,,,2022-06-04T20:00Z
+Gruppe A,Sat Jun 4 2022,16:00,-0300,São Raimundo AM,0-0,0-0,Humaitá AC,,,2022-06-04T19:00Z
+Gruppe H,Sat Jun 4 2022,15:00,-0300,Juventus SC,0-0,0-0,Aimoré RS,,,2022-06-04T18:00Z
+Gruppe E,Sat Jun 4 2022,15:30,-0300,Ceilândia DF,1-2,0-2,Anápolis FC GO,,,2022-06-04T18:30Z
+Gruppe G,Sat Jun 4 2022,15:00,-0300,Santo André SP,1-1,1-0,Paraná Clube,,,2022-06-04T18:00Z
+Gruppe G,Sat Jun 4 2022,11:00,-0300,Nova Iguaçu RJ,0-0,0-0,São Bernardo FC SP,,,2022-06-04T14:00Z
+Gruppe D,Sat Jun 4 2022,15:00,-0300,Lagarto SE,2-1,2-1,Jacuipense BA,,,2022-06-04T18:00Z
+Gruppe F,Sat Jun 4 2022,16:00,-0300,Bahia de Feira BA,2-2,1-1,Real Noroeste ES,,,2022-06-04T19:00Z
+Gruppe F,Sat Jun 4 2022,16:00,-0300,U.R.T. MG,2-2,1-0,Inter de Limeira SP,,,2022-06-04T19:00Z
+Gruppe E,Sat Jun 4 2022,16:00,-0300,Grêmio Anápolis GO,0-0,0-0,Operário MT,,,2022-06-04T19:00Z
+Gruppe C,Sat Jun 4 2022,16:00,-0300,Retrô PE,3-0,1-0,São Paulo Crystal PB,,,2022-06-04T19:00Z
+Gruppe C,Sat Jun 4 2022,17:00,-0300,América RN,3-0,1-0,Icasa CE,,,2022-06-04T20:00Z
+Gruppe C,Sun Jun 5 2022,16:00,-0300,Sousa PB,2-1,1-1,Globo RN,,,2022-06-05T19:00Z
+Gruppe A,Sun Jun 5 2022,18:00,-0300,São Raimundo RR,1-2,1-1,Amazonas FC AM,,,2022-06-05T21:00Z
+Gruppe A,Sun Jun 5 2022,18:00,-0300,Rio Branco AC,1-0,0-0,Porto Velho EC RO,,,2022-06-05T21:00Z
+Gruppe H,Sun Jun 5 2022,15:30,-0300,São Luiz RS,1-0,0-0,Marcílio Dias SC,,,2022-06-05T18:30Z
+Gruppe E,Sun Jun 5 2022,16:30,-0300,Costa Rica MS,0-1,0-0,Brasiliense DF,,,2022-06-05T19:30Z
+Gruppe G,Sun Jun 5 2022,15:00,-0300,Pérolas Negras RJ,2-2,2-1,Oeste SP,,,2022-06-05T18:00Z
+Gruppe F,Sun Jun 5 2022,15:00,-0300,Nova Venécia ES,1-1,0-1,Pouso Alegre MG,,,2022-06-05T18:00Z
+Gruppe G,Sun Jun 5 2022,16:00,-0300,Cianorte PR,1-1,1-0,Portuguesa RJ,,,2022-06-05T19:00Z
+Gruppe B,Sun Jun 5 2022,17:00,-0300,Moto Club MA,2-0,1-0,Tuna Luso PA,,,2022-06-05T20:00Z
+Gruppe D,Sun Jun 5 2022,16:00,-0300,Santa Cruz PE,1-0,1-0,Sergipe SE,,,2022-06-05T19:00Z
+Gruppe D,Sun Jun 5 2022,16:00,-0300,ASA AL,1-0,1-0,Juazeirense BA,,,2022-06-05T19:00Z
+Gruppe D,Sun Jun 5 2022,16:00,-0300,Atlético de Alagoinhas BA,2-1,1-0,CSE AL,,,2022-06-05T19:00Z
+Gruppe H,Sun Jun 5 2022,15:00,-0300,Azuriz PR,3-2,2-0,Cascavel FC PR,,,2022-06-05T18:00Z
+Gruppe E,Sun Jun 5 2022,16:00,-0300,Ação MT,1-2,0-0,Iporá GO,,,2022-06-05T19:00Z
+Gruppe A,Mon Jun 6 2022,21:15,-0300,Trem AP,10-2,4-1,Náutico RR,,,2022-06-07T00:15Z
+Gruppe E,Sat Jun 11 2022,15:30,-0300,Brasiliense DF,2-0,2-0,Grêmio Anápolis GO,,,2022-06-11T18:30Z
+Gruppe D,Sat Jun 11 2022,16:00,-0300,Sergipe SE,2-1,0-0,Atlético de Alagoinhas BA,,,2022-06-11T19:00Z
+Gruppe D,Sat Jun 11 2022,18:00,-0300,Juazeirense BA,1-0,0-0,Lagarto SE,,,2022-06-11T21:00Z
+Gruppe D,Sat Jun 11 2022,19:00,-0300,CSE AL,0-0,0-0,Santa Cruz PE,,,2022-06-11T22:00Z
+Gruppe G,Sat Jun 11 2022,16:00,-0300,São Bernardo FC SP,4-0,3-0,Pérolas Negras RJ,,,2022-06-11T19:00Z
+Gruppe G,Sat Jun 11 2022,16:00,-0300,Paraná Clube,1-2,1-1,Cianorte PR,,,2022-06-11T19:00Z
+Gruppe G,Sat Jun 11 2022,15:00,-0300,Portuguesa RJ,1-0,1-0,Santo André SP,,,2022-06-11T18:00Z
+Gruppe F,Sat Jun 11 2022,17:30,-0300,Pouso Alegre MG,0-0,0-0,Ferroviária SP,,,2022-06-11T20:30Z
+Gruppe F,Sat Jun 11 2022,16:00,-0300,Inter de Limeira SP,0-1,0-0,Bahia de Feira BA,,,2022-06-11T19:00Z
+Gruppe C,Sat Jun 11 2022,15:00,-0300,São Paulo Crystal PB,1-1,0-1,América RN,,,2022-06-11T18:00Z
+Gruppe B,Sat Jun 11 2022,18:30,-0300,Tocantinópolis TO,0-0,0-0,4 de Julho PI,,,2022-06-11T21:30Z
+Gruppe B,Sat Jun 11 2022,16:00,-0300,Fluminense PI,2-3,1-3,Moto Club MA,,,2022-06-11T19:00Z
+Gruppe B,Sat Jun 11 2022,15:00,-0300,Tuna Luso PA,1-0,0-0,Pacajus CE,,,2022-06-11T18:00Z
+Gruppe C,Sat Jun 11 2022,15:00,-0300,Globo RN,3-0,1-0,Crato CE,,,2022-06-11T18:00Z
+Gruppe F,Sat Jun 11 2022,16:00,-0300,Caldense MG,1-2,1-1,Nova Venécia ES,,,2022-06-11T19:00Z
+Gruppe F,Sat Jun 11 2022,16:00,-0300,Real Noroeste ES,0-0,0-0,U.R.T. MG,,,2022-06-11T19:00Z
+Gruppe A,Sat Jun 11 2022,18:00,-0300,Náutico RR,1-2,0-2,São Raimundo AM,,,2022-06-11T21:00Z
+Gruppe B,Sat Jun 11 2022,15:30,-0300,Juventude MA,1-0,0-0,Castanhal PA,,,2022-06-11T18:30Z
+Gruppe A,Sat Jun 11 2022,16:30,-0300,Porto Velho EC RO,0-1,0-1,São Raimundo RR,,,2022-06-11T19:30Z
+Gruppe G,Sat Jun 11 2022,19:00,-0300,Oeste SP,1-1,0-0,Nova Iguaçu RJ,,,2022-06-11T22:00Z
+Gruppe A,Sun Jun 12 2022,16:00,-0300,Amazonas FC AM,3-1,2-1,Rio Branco AC,,,2022-06-12T19:00Z
+Gruppe A,Sun Jun 12 2022,18:00,-0300,Humaitá AC,0-0,0-0,Trem AP,,,2022-06-12T21:00Z
+Gruppe E,Sun Jun 12 2022,12:00,-0300,Operário MT,1-0,1-0,Costa Rica MS,,,2022-06-12T15:00Z
+Gruppe E,Sun Jun 12 2022,15:30,-0300,Iporá GO,2-1,0-0,Ceilândia DF,,,2022-06-12T18:30Z
+Gruppe H,Sun Jun 12 2022,15:00,-0300,Cascavel FC PR,1-0,0-0,Juventus SC,,,2022-06-12T18:00Z
+Gruppe H,Sun Jun 12 2022,15:00,-0300,Próspera SC,2-2,1-0,São Luiz RS,,,2022-06-12T18:00Z
+Gruppe C,Sun Jun 12 2022,17:00,-0300,Icasa CE,1-0,0-0,Retrô PE,,,2022-06-12T20:00Z
+Gruppe C,Sun Jun 12 2022,16:00,-0300,Afogados da Ingazeira PE,0-1,0-0,Sousa PB,,,2022-06-12T19:00Z
+Gruppe H,Sun Jun 12 2022,15:00,-0300,Marcílio Dias SC,2-1,0-1,S.E.R. Caxias RS,,,2022-06-12T18:00Z
+Gruppe D,Sun Jun 12 2022,16:00,-0300,Jacuipense BA,0-0,0-0,ASA AL,,,2022-06-12T19:00Z
+Gruppe H,Sun Jun 12 2022,15:00,-0300,Aimoré RS,0-0,0-0,Azuriz PR,,,2022-06-12T18:00Z
+Gruppe E,Mon Jun 13 2022,20:00,-0300,Anápolis FC GO,2-0,1-0,Ação MT,,,2022-06-13T23:00Z
+Gruppe D,Thu Jun 16 2022,20:00,-0300,Atlético de Alagoinhas BA,1-1,1-0,Juazeirense BA,,,2022-06-16T23:00Z
+Gruppe B,Fri Jun 17 2022,20:00,-0300,Pacajus CE,0-1,0-0,Juventude MA,,,2022-06-17T23:00Z
+Gruppe F,Sat Jun 18 2022,16:00,-0300,Inter de Limeira SP,0-1,0-1,Ferroviária SP,,,2022-06-18T19:00Z
+Gruppe B,Sat Jun 18 2022,16:00,-0300,4 de Julho PI,1-2,0-1,Fluminense PI,,,2022-06-18T19:00Z
+Gruppe C,Sat Jun 18 2022,15:00,-0300,Crato CE,1-1,0-0,São Paulo Crystal PB,,,2022-06-18T18:00Z
+Gruppe H,Sat Jun 18 2022,15:30,-0300,São Luiz RS,0-1,0-0,Aimoré RS,,,2022-06-18T18:30Z
+Gruppe F,Sat Jun 18 2022,16:00,-0300,U.R.T. MG,3-2,2-1,Caldense MG,,,2022-06-18T19:00Z
+Gruppe E,Sat Jun 18 2022,16:00,-0300,Grêmio Anápolis GO,0-0,0-0,Iporá GO,,,2022-06-18T19:00Z
+Gruppe E,Sat Jun 18 2022,15:30,-0300,Ceilândia DF,0-1,0-0,Brasiliense DF,,,2022-06-18T18:30Z
+Gruppe D,Sat Jun 18 2022,15:00,-0300,Lagarto SE,2-1,0-1,Sergipe SE,,,2022-06-18T18:00Z
+Gruppe C,Sat Jun 18 2022,17:00,-0300,América RN,1-0,0-0,Globo RN,,,2022-06-18T20:00Z
+Gruppe H,Sat Jun 18 2022,15:00,-0300,S.E.R. Caxias RS,0-0,0-0,Cascavel FC PR,,,2022-06-18T18:00Z
+Gruppe H,Sat Jun 18 2022,15:00,-0300,Juventus SC,1-0,0-0,Marcílio Dias SC,,,2022-06-18T18:00Z
+Gruppe A,Sat Jun 18 2022,18:00,-0300,São Raimundo RR,5-0,2-0,Humaitá AC,,,2022-06-18T21:00Z
+Gruppe A,Sat Jun 18 2022,16:30,-0300,Porto Velho EC RO,1-4,1-2,Trem AP,,,2022-06-18T19:30Z
+Gruppe F,Sat Jun 18 2022,16:00,-0300,Bahia de Feira BA,2-0,2-0,Pouso Alegre MG,,,2022-06-18T19:00Z
+Gruppe B,Sat Jun 18 2022,15:00,-0300,Tuna Luso PA,0-3,0-2,Castanhal PA,,,2022-06-18T18:00Z
+Gruppe G,Sat Jun 18 2022,16:00,-0300,Paraná Clube,2-0,1-0,Pérolas Negras RJ,,,2022-06-18T19:00Z
+Gruppe G,Sat Jun 18 2022,15:00,-0300,Santo André SP,2-0,2-0,Oeste SP,,,2022-06-18T18:00Z
+Gruppe G,Sat Jun 18 2022,11:00,-0300,Nova Iguaçu RJ,0-2,0-2,Portuguesa RJ,,,2022-06-18T14:00Z
+Gruppe G,Sun Jun 19 2022,16:00,-0300,Cianorte PR,0-1,0-1,São Bernardo FC SP,,,2022-06-19T19:00Z
+Gruppe D,Sun Jun 19 2022,16:00,-0300,CSE AL,0-1,0-1,ASA AL,,,2022-06-19T19:00Z
+Gruppe D,Sun Jun 19 2022,16:00,-0300,Santa Cruz PE,0-2,0-1,Jacuipense BA,,,2022-06-19T19:00Z
+Gruppe F,Sun Jun 19 2022,15:00,-0300,Nova Venécia ES,2-1,1-0,Real Noroeste ES,,,2022-06-19T18:00Z
+Gruppe B,Sun Jun 19 2022,17:00,-0300,Moto Club MA,1-2,0-1,Tocantinópolis TO,,,2022-06-19T20:00Z
+Gruppe A,Sun Jun 19 2022,18:00,-0300,Rio Branco AC,5-0,2-0,Náutico RR,,,2022-06-19T21:00Z
+Gruppe A,Sun Jun 19 2022,16:00,-0300,São Raimundo AM,1-1,0-0,Amazonas FC AM,,,2022-06-19T19:00Z
+Gruppe E,Sun Jun 19 2022,16:30,-0300,Costa Rica MS,1-1,0-1,Anápolis FC GO,,,2022-06-19T19:30Z
+Gruppe E,Sun Jun 19 2022,12:00,-0300,Operário MT,1-1,0-0,Ação MT,,,2022-06-19T15:00Z
+Gruppe C,Sun Jun 19 2022,16:00,-0300,Sousa PB,1-2,1-1,Icasa CE,,,2022-06-19T19:00Z
+Gruppe C,Sun Jun 19 2022,16:00,-0300,Afogados da Ingazeira PE,1-1,1-1,Retrô PE,,,2022-06-19T19:00Z
+Gruppe H,Mon Jun 20 2022,15:00,-0300,Próspera SC,1-3,1-3,Azuriz PR,,,2022-06-20T18:00Z
+Gruppe F,Sat Jun 25 2022,15:00,-0300,Real Noroeste ES,2-2,0-0,Inter de Limeira SP,,,2022-06-25T18:00Z
+Gruppe F,Sat Jun 25 2022,16:00,-0300,U.R.T. MG,2-5,1-1,Bahia de Feira BA,,,2022-06-25T19:00Z
+Gruppe F,Sat Jun 25 2022,16:00,-0300,Caldense MG,0-1,0-1,Pouso Alegre MG,,,2022-06-25T19:00Z
+Gruppe F,Sat Jun 25 2022,17:00,-0300,Ferroviária SP,0-0,0-0,Nova Venécia ES,,,2022-06-25T20:00Z
+Gruppe D,Sat Jun 25 2022,18:00,-0300,Juazeirense BA,0-2,0-1,Jacuipense BA,,,2022-06-25T21:00Z
+Gruppe D,Sat Jun 25 2022,16:00,-0300,Sergipe SE,2-1,2-1,CSE AL,,,2022-06-25T19:00Z
+Gruppe B,Sat Jun 25 2022,16:00,-0300,Tocantinópolis TO,0-1,0-1,Juventude MA,,,2022-06-25T19:00Z
+Gruppe G,Sat Jun 25 2022,15:00,-0300,Portuguesa RJ,1-0,0-0,Paraná Clube,,,2022-06-25T18:00Z
+Gruppe H,Sat Jun 25 2022,16:00,-0300,Cascavel FC PR,0-1,0-1,Aimoré RS,,,2022-06-25T19:00Z
+Gruppe A,Sat Jun 25 2022,18:00,-0300,Náutico RR,4-2,1-0,Humaitá AC,,,2022-06-25T21:00Z
+Gruppe A,Sat Jun 25 2022,16:00,-0300,Amazonas FC AM,1-2,1-0,Porto Velho EC RO,,,2022-06-25T19:00Z
+Gruppe B,Sat Jun 25 2022,15:30,-0300,Castanhal PA,0-0,0-0,4 de Julho PI,,,2022-06-25T18:30Z
+Gruppe E,Sat Jun 25 2022,16:00,-0300,Grêmio Anápolis GO,1-2,0-0,Costa Rica MS,,,2022-06-25T19:00Z
+Gruppe H,Sat Jun 25 2022,15:00,-0300,S.E.R. Caxias RS,2-1,1-0,São Luiz RS,,,2022-06-25T18:00Z
+Gruppe G,Sat Jun 25 2022,15:00,-0300,Santo André SP,1-1,1-1,Cianorte PR,,,2022-06-25T18:00Z
+Gruppe C,Sat Jun 25 2022,15:00,-0300,Crato CE,0-1,0-0,Sousa PB,,,2022-06-25T18:00Z
+Gruppe B,Sun Jun 26 2022,16:00,-0300,Fluminense PI,0-0,0-0,Tuna Luso PA,,,2022-06-26T19:00Z
+Gruppe B,Sun Jun 26 2022,17:00,-0300,Moto Club MA,1-1,1-0,Pacajus CE,,,2022-06-26T20:00Z
+Gruppe G,Sun Jun 26 2022,16:00,-0300,Oeste SP,0-0,0-0,São Bernardo FC SP,,,2022-06-26T19:00Z
+Gruppe H,Sun Jun 26 2022,15:00,-0300,Marcílio Dias SC,2-0,0-0,Próspera SC,,,2022-06-26T18:00Z
+Gruppe C,Sun Jun 26 2022,16:00,-0300,Retrô PE,1-0,1-0,América RN,,,2022-06-26T19:00Z
+Gruppe C,Sun Jun 26 2022,15:00,-0300,Globo RN,2-0,0-0,Afogados da Ingazeira PE,,,2022-06-26T18:00Z
+Gruppe E,Sun Jun 26 2022,15:30,-0300,Iporá GO,1-1,0-1,Anápolis FC GO,,,2022-06-26T18:30Z
+Gruppe E,Sun Jun 26 2022,15:30,-0300,Brasiliense DF,2-1,1-1,Operário MT,,,2022-06-26T18:30Z
+Gruppe E,Sun Jun 26 2022,16:00,-0300,Ação MT,2-1,2-0,Ceilândia DF,,,2022-06-26T19:00Z
+Gruppe H,Sun Jun 26 2022,15:00,-0300,Azuriz PR,0-2,0-0,Juventus SC,,,2022-06-26T18:00Z
+Gruppe G,Sun Jun 26 2022,15:00,-0300,Pérolas Negras RJ,0-1,0-0,Nova Iguaçu RJ,,,2022-06-26T18:00Z
+Gruppe D,Sun Jun 26 2022,16:00,-0300,ASA AL,1-1,1-1,Lagarto SE,,,2022-06-26T19:00Z
+Gruppe A,Sun Jun 26 2022,19:00,-0300,Rio Branco AC,0-0,0-0,São Raimundo RR,,,2022-06-26T22:00Z
+Gruppe A,Mon Jun 27 2022,20:15,-0300,Trem AP,0-0,0-0,São Raimundo AM,,,2022-06-27T23:15Z
+Gruppe D,Mon Jun 27 2022,20:30,-0300,Atlético de Alagoinhas BA,1-4,1-2,Santa Cruz PE,,,2022-06-27T23:30Z
+Gruppe B,Fri Jul 1 2022,20:00,-0300,Pacajus CE,2-3,1-1,Tocantinópolis TO,,,2022-07-01T23:00Z
+Gruppe A,Sat Jul 2 2022,16:30,-0300,Porto Velho EC RO,1-1,0-0,São Raimundo AM,,,2022-07-02T19:30Z
+Gruppe A,Sat Jul 2 2022,18:00,-0300,São Raimundo RR,2-1,2-0,Náutico RR,,,2022-07-02T21:00Z
+Gruppe D,Sat Jul 2 2022,19:00,-0300,CSE AL,0-1,0-0,Lagarto SE,,,2022-07-02T22:00Z
+Gruppe F,Sat Jul 2 2022,15:00,-0300,Real Noroeste ES,3-0,2-0,Ferroviária SP,,,2022-07-02T18:00Z
+Gruppe E,Sat Jul 2 2022,15:30,-0300,Brasiliense DF,2-1,0-0,Ação MT,,,2022-07-02T18:30Z
+Gruppe C,Sat Jul 2 2022,15:00,-0300,Globo RN,1-2,0-1,Retrô PE,,,2022-07-02T18:00Z
+Gruppe F,Sat Jul 2 2022,16:00,-0300,Bahia de Feira BA,1-0,1-0,Caldense MG,,,2022-07-02T19:00Z
+Gruppe G,Sat Jul 2 2022,16:00,-0300,São Bernardo FC SP,1-0,1-0,Santo André SP,,,2022-07-02T19:00Z
+Gruppe B,Sat Jul 2 2022,15:30,-0300,Juventude MA,0-1,0-0,Moto Club MA,,,2022-07-02T18:30Z
+Gruppe B,Sat Jul 2 2022,15:00,-0300,Tuna Luso PA,2-1,1-1,4 de Julho PI,,,2022-07-02T18:00Z
+Gruppe H,Sat Jul 2 2022,15:30,-0300,São Luiz RS,0-0,0-0,Cascavel FC PR,,,2022-07-02T18:30Z
+Gruppe G,Sat Jul 2 2022,16:00,-0300,Paraná Clube,2-1,0-1,Nova Iguaçu RJ,,,2022-07-02T19:00Z
+Gruppe B,Sat Jul 2 2022,16:00,-0300,Fluminense PI,3-1,2-1,Castanhal PA,,,2022-07-02T19:00Z
+Gruppe F,Sat Jul 2 2022,16:00,-0300,Inter de Limeira SP,2-1,1-0,Nova Venécia ES,,,2022-07-02T19:00Z
+Gruppe D,Sun Jul 3 2022,16:00,-0300,Santa Cruz PE,1-0,0-0,Juazeirense BA,,,2022-07-03T19:00Z
+Gruppe A,Sun Jul 3 2022,18:00,-0300,Humaitá AC,1-2,1-0,Rio Branco AC,,,2022-07-03T21:00Z
+Gruppe D,Sun Jul 3 2022,16:00,-0300,Sergipe SE,2-0,1-0,ASA AL,,,2022-07-03T19:00Z
+Gruppe D,Sun Jul 3 2022,16:00,-0300,Jacuipense BA,1-1,0-0,Atlético de Alagoinhas BA,,,2022-07-03T19:00Z
+Gruppe A,Sun Jul 3 2022,16:00,-0300,Amazonas FC AM,4-1,1-1,Trem AP,,,2022-07-03T19:00Z
+Gruppe F,Sun Jul 3 2022,15:30,-0300,Pouso Alegre MG,2-0,2-0,U.R.T. MG,,,2022-07-03T18:30Z
+Gruppe E,Sun Jul 3 2022,16:30,-0300,Costa Rica MS,1-0,1-0,Iporá GO,,,2022-07-03T19:30Z
+Gruppe H,Sun Jul 3 2022,15:00,-0300,Marcílio Dias SC,0-1,0-0,Azuriz PR,,,2022-07-03T18:00Z
+Gruppe H,Sun Jul 3 2022,15:00,-0300,Aimoré RS,1-1,1-1,S.E.R. Caxias RS,,,2022-07-03T18:00Z
+Gruppe G,Sun Jul 3 2022,15:00,-0300,Portuguesa RJ,2-1,0-0,Pérolas Negras RJ,,,2022-07-03T18:00Z
+Gruppe G,Sun Jul 3 2022,16:00,-0300,Cianorte PR,1-2,0-1,Oeste SP,,,2022-07-03T19:00Z
+Gruppe E,Sun Jul 3 2022,16:00,-0300,Anápolis FC GO,0-1,0-0,Grêmio Anápolis GO,,,2022-07-03T19:00Z
+Gruppe E,Sun Jul 3 2022,12:00,-0300,Operário MT,1-2,1-1,Ceilândia DF,,,2022-07-03T15:00Z
+Gruppe C,Sun Jul 3 2022,16:00,-0300,Afogados da Ingazeira PE,0-0,0-0,América RN,,,2022-07-03T19:00Z
+Gruppe C,Sun Jul 3 2022,16:00,-0300,Sousa PB,1-0,1-0,São Paulo Crystal PB,,,2022-07-03T19:00Z
+Gruppe C,Sun Jul 3 2022,17:00,-0300,Icasa CE,3-0,2-0,Crato CE,,,2022-07-03T20:00Z
+Gruppe H,Mon Jul 4 2022,15:00,-0300,Próspera SC,1-1,1-1,Juventus SC,,,2022-07-04T18:00Z
+Gruppe C,Wed Jul 6 2022,16:00,-0300,São Paulo Crystal PB,1-1,1-0,Icasa CE,,,2022-07-06T19:00Z
+Gruppe G,Sat Jul 9 2022,16:00,-0300,São Bernardo FC SP,1-1,1-1,Paraná Clube,,,2022-07-09T19:00Z
+Gruppe A,Sat Jul 9 2022,18:00,-0300,Náutico RR,0-6,0-3,Amazonas FC AM,,,2022-07-09T21:00Z
+Gruppe B,Sat Jul 9 2022,16:00,-0300,4 de Julho PI,2-1,1-0,Moto Club MA,,,2022-07-09T19:00Z
+Gruppe H,Sat Jul 9 2022,15:00,-0300,Juventus SC,0-3,0-1,S.E.R. Caxias RS,,,2022-07-09T18:00Z
+Gruppe H,Sat Jul 9 2022,16:00,-0300,Cascavel FC PR,3-0,1-0,Marcílio Dias SC,,,2022-07-09T19:00Z
+Gruppe F,Sat Jul 9 2022,17:00,-0300,Ferroviária SP,0-2,0-0,Bahia de Feira BA,,,2022-07-09T20:00Z
+Gruppe E,Sat Jul 9 2022,15:30,-0300,Ceilândia DF,1-0,0-0,Grêmio Anápolis GO,,,2022-07-09T18:30Z
+Gruppe B,Sat Jul 9 2022,16:00,-0300,Tocantinópolis TO,2-1,1-0,Fluminense PI,,,2022-07-09T19:00Z
+Gruppe C,Sat Jul 9 2022,17:00,-0300,Icasa CE,2-5,0-3,Afogados da Ingazeira PE,,,2022-07-09T20:00Z
+Gruppe C,Sat Jul 9 2022,16:00,-0300,Retrô PE,1-0,1-0,Sousa PB,,,2022-07-09T19:00Z
+Gruppe C,Sat Jul 9 2022,15:00,-0300,São Paulo Crystal PB,2-3,1-2,Globo RN,,,2022-07-09T18:00Z
+Gruppe G,Sat Jul 9 2022,11:00,-0300,Nova Iguaçu RJ,2-1,1-1,Santo André SP,,,2022-07-09T14:00Z
+Gruppe B,Sat Jul 9 2022,15:30,-0300,Juventude MA,2-2,2-0,Tuna Luso PA,,,2022-07-09T18:30Z
+Gruppe D,Sat Jul 9 2022,17:00,-0300,Lagarto SE,4-1,1-1,Atlético de Alagoinhas BA,,,2022-07-09T20:00Z
+Gruppe D,Sat Jul 9 2022,18:00,-0300,Juazeirense BA,1-0,1-0,Sergipe SE,,,2022-07-09T21:00Z
+Gruppe F,Sat Jul 9 2022,16:00,-0300,Caldense MG,0-1,0-1,Real Noroeste ES,,,2022-07-09T19:00Z
+Gruppe G,Sun Jul 10 2022,16:00,-0300,Oeste SP,2-1,2-1,Portuguesa RJ,,,2022-07-10T19:00Z
+Gruppe D,Sun Jul 10 2022,16:00,-0300,ASA AL,2-0,1-0,Santa Cruz PE,,,2022-07-10T19:00Z
+Gruppe E,Sun Jul 10 2022,15:30,-0300,Iporá GO,1-1,0-0,Brasiliense DF,,,2022-07-10T18:30Z
+Gruppe E,Sun Jul 10 2022,16:00,-0300,Ação MT,2-2,0-2,Costa Rica MS,,,2022-07-10T19:00Z
+Gruppe A,Sun Jul 10 2022,19:00,-0300,Humaitá AC,2-4,1-2,Porto Velho EC RO,,,2022-07-10T22:00Z
+Gruppe A,Sun Jul 10 2022,16:00,-0300,São Raimundo AM,1-0,0-0,Rio Branco AC,,,2022-07-10T19:00Z
+Gruppe G,Sun Jul 10 2022,15:00,-0300,Pérolas Negras RJ,0-2,0-1,Cianorte PR,,,2022-07-10T18:00Z
+Gruppe B,Sun Jul 10 2022,15:30,-0300,Castanhal PA,1-1,1-0,Pacajus CE,,,2022-07-10T18:30Z
+Gruppe F,Sun Jul 10 2022,11:00,-0300,Nova Venécia ES,1-1,0-1,U.R.T. MG,,,2022-07-10T14:00Z
+Gruppe F,Sun Jul 10 2022,17:00,-0300,Pouso Alegre MG,2-1,1-1,Inter de Limeira SP,,,2022-07-10T20:00Z
+Gruppe H,Sun Jul 10 2022,15:00,-0300,Aimoré RS,1-0,1-0,Próspera SC,,,2022-07-10T18:00Z
+Gruppe H,Sun Jul 10 2022,15:00,-0300,Azuriz PR,1-2,0-1,São Luiz RS,,,2022-07-10T18:00Z
+Gruppe C,Sun Jul 10 2022,19:00,-0300,América RN,8-1,4-0,Crato CE,,,2022-07-10T22:00Z
+Gruppe D,Sun Jul 10 2022,16:00,-0300,Jacuipense BA,2-1,1-1,CSE AL,,,2022-07-10T19:00Z
+Gruppe E,Sun Jul 10 2022,16:00,-0300,Anápolis FC GO,0-1,0-1,Operário MT,,,2022-07-10T19:00Z
+Gruppe A,Mon Jul 11 2022,20:15,-0300,Trem AP,1-2,1-1,São Raimundo RR,,,2022-07-11T23:15Z
+Gruppe H,Sat Jul 16 2022,15:00,-0300,Marcílio Dias SC,2-3,1-0,Aimoré RS,,,2022-07-16T18:00Z
+Gruppe H,Sat Jul 16 2022,15:00,-0300,S.E.R. Caxias RS,1-0,1-0,Azuriz PR,,,2022-07-16T18:00Z
+Gruppe H,Sat Jul 16 2022,15:00,-0300,Próspera SC,1-2,1-0,Cascavel FC PR,,,2022-07-16T18:00Z
+Gruppe H,Sat Jul 16 2022,15:00,-0300,São Luiz RS,2-2,1-1,Juventus SC,,,2022-07-16T18:00Z
+Gruppe D,Sat Jul 16 2022,16:00,-0300,Atlético de Alagoinhas BA,0-3,0-0,ASA AL,,,2022-07-16T19:00Z
+Gruppe D,Sat Jul 16 2022,16:00,-0300,CSE AL,1-0,0-0,Juazeirense BA,,,2022-07-16T19:00Z
+Gruppe D,Sat Jul 16 2022,16:00,-0300,Sergipe SE,2-0,2-0,Jacuipense BA,,,2022-07-16T19:00Z
+Gruppe A,Sat Jul 16 2022,17:00,-0300,Porto Velho EC RO,8-0,2-0,Náutico RR,,,2022-07-16T20:00Z
+Gruppe C,Sat Jul 16 2022,15:00,-0300,Sousa PB,1-2,1-0,América RN,,,2022-07-16T18:00Z
+Gruppe C,Sat Jul 16 2022,15:00,-0300,Globo RN,1-1,0-1,Icasa CE,,,2022-07-16T18:00Z
+Gruppe C,Sat Jul 16 2022,15:00,-0300,Crato CE,1-5,1-2,Retrô PE,,,2022-07-16T18:00Z
+Gruppe C,Sat Jul 16 2022,15:00,-0300,Afogados da Ingazeira PE,7-0,2-0,São Paulo Crystal PB,,,2022-07-16T18:00Z
+Gruppe F,Sat Jul 16 2022,16:00,-0300,Inter de Limeira SP,0-1,0-0,Caldense MG,,,2022-07-16T19:00Z
+Gruppe F,Sat Jul 16 2022,16:00,-0300,U.R.T. MG,2-0,0-0,Ferroviária SP,,,2022-07-16T19:00Z
+Gruppe F,Sat Jul 16 2022,16:00,-0300,Bahia de Feira BA,1-1,1-0,Nova Venécia ES,,,2022-07-16T19:00Z
+Gruppe F,Sat Jul 16 2022,16:00,-0300,Real Noroeste ES,0-0,0-0,Pouso Alegre MG,,,2022-07-16T19:00Z
+Gruppe D,Sat Jul 16 2022,16:00,-0300,Santa Cruz PE,1-1,1-1,Lagarto SE,,,2022-07-16T19:00Z
+Gruppe A,Sun Jul 17 2022,16:00,-0300,Amazonas FC AM,6-0,3-0,Humaitá AC,,,2022-07-17T19:00Z
+Gruppe A,Sun Jul 17 2022,17:00,-0300,São Raimundo RR,1-1,0-1,São Raimundo AM,,,2022-07-17T20:00Z
+Gruppe A,Sun Jul 17 2022,17:00,-0300,Rio Branco AC,3-0,1-0,Trem AP,,,2022-07-17T20:00Z
+Gruppe G,Sun Jul 17 2022,15:00,-0300,Portuguesa RJ,2-0,1-0,São Bernardo FC SP,,,2022-07-17T18:00Z
+Gruppe G,Sun Jul 17 2022,15:00,-0300,Santo André SP,3-0,2-0,Pérolas Negras RJ,,,2022-07-17T18:00Z
+Gruppe G,Sun Jul 17 2022,15:00,-0300,Paraná Clube,0-1,0-0,Oeste SP,,,2022-07-17T18:00Z
+Gruppe G,Sun Jul 17 2022,15:00,-0300,Cianorte PR,0-1,0-0,Nova Iguaçu RJ,,,2022-07-17T18:00Z
+Gruppe B,Sun Jul 17 2022,15:00,-0300,Fluminense PI,1-2,0-1,Juventude MA,,,2022-07-17T18:00Z
+Gruppe B,Sun Jul 17 2022,17:00,-0300,Moto Club MA,2-0,1-0,Castanhal PA,,,2022-07-17T20:00Z
+Gruppe B,Sun Jul 17 2022,17:00,-0300,Pacajus CE,3-1,1-0,4 de Julho PI,,,2022-07-17T20:00Z
+Gruppe B,Sun Jul 17 2022,17:00,-0300,Tuna Luso PA,5-3,1-1,Tocantinópolis TO,,,2022-07-17T20:00Z
+Gruppe E,Sun Jul 17 2022,16:00,-0300,Operário MT,1-0,0-0,Iporá GO,,,2022-07-17T19:00Z
+Gruppe E,Sun Jul 17 2022,16:00,-0300,Costa Rica MS,0-3,0-1,Ceilândia DF,,,2022-07-17T19:00Z
+Gruppe E,Sun Jul 17 2022,16:00,-0300,Brasiliense DF,1-1,0-1,Anápolis FC GO,,,2022-07-17T19:00Z
+Gruppe E,Sun Jul 17 2022,16:00,-0300,Grêmio Anápolis GO,4-1,1-1,Ação MT,,,2022-07-17T19:00Z
+Sechzehntelfinale,Sat Jul 23 2022,15:00,-0300,Portuguesa RJ,0-1,0-1,Aimoré RS,,,2022-07-23T18:00Z
+Sechzehntelfinale,Sat Jul 23 2022,15:00,-0300,Real Noroeste ES,5-2,2-0,Anápolis FC GO,,,2022-07-23T18:00Z
+Sechzehntelfinale,Sat Jul 23 2022,15:30,-0300,Cascavel FC PR,0-0,0-0,Paraná Clube,,,2022-07-23T18:30Z
+Sechzehntelfinale,Sat Jul 23 2022,15:30,-0300,Juventude MA,0-0,0-0,Amazonas FC AM,,,2022-07-23T18:30Z
+Sechzehntelfinale,Sat Jul 23 2022,15:45,-0300,Afogados da Ingazeira PE,1-2,1-2,ASA AL,,,2022-07-23T18:45Z
+Sechzehntelfinale,Sat Jul 23 2022,16:00,-0300,São Raimundo AM,2-2,1-1,Tocantinópolis TO,,,2022-07-23T19:00Z
+Sechzehntelfinale,Sat Jul 23 2022,17:00,-0300,São Raimundo RR,0-0,0-0,Moto Club MA,,,2022-07-23T20:00Z
+Sechzehntelfinale,Sat Jul 23 2022,19:00,-0300,Azuriz PR,1-1,1-0,São Bernardo FC SP,,,2022-07-23T22:00Z
+Sechzehntelfinale,Sun Jul 24 2022,12:00,-0300,Operário MT,0-0,0-0,Pouso Alegre MG,,,2022-07-24T15:00Z
+Sechzehntelfinale,Sun Jul 24 2022,15:00,-0300,Nova Venécia ES,3-1,2-1,Brasiliense DF,,,2022-07-24T18:00Z
+Sechzehntelfinale,Sun Jul 24 2022,16:00,-0300,Santa Cruz PE,0-0,0-0,Retrô PE,,,2022-07-24T19:00Z
+Sechzehntelfinale,Sun Jul 24 2022,16:00,-0300,Pacajus CE,1-1,1-0,Rio Branco AC,,,2022-07-24T19:00Z
+Sechzehntelfinale,Sun Jul 24 2022,16:00,-0300,Oeste SP,1-1,1-0,S.E.R. Caxias RS,,,2022-07-24T19:00Z
+Sechzehntelfinale,Sun Jul 24 2022,16:00,-0300,Sousa PB,0-1,0-0,Lagarto SE,,,2022-07-24T19:00Z
+Sechzehntelfinale,Sun Jul 24 2022,16:00,-0300,Jacuipense BA,0-1,0-1,América RN,,,2022-07-24T19:00Z
+Sechzehntelfinale,Sun Jul 24 2022,16:30,-0300,Costa Rica MS,0-0,0-0,Bahia de Feira BA,,,2022-07-24T19:30Z
+Sechzehntelfinale,Sat Jul 30 2022,15:00,-0300,S.E.R. Caxias RS,0-0,0-0,Oeste SP,0-0,6-5,2022-07-30T18:00Z
+Sechzehntelfinale,Sat Jul 30 2022,16:00,-0300,Paraná Clube,0-0,0-0,Cascavel FC PR,0-0,5-4,2022-07-30T19:00Z
+Sechzehntelfinale,Sat Jul 30 2022,16:00,-0300,Tocantinópolis TO,4-1,1-0,São Raimundo AM,,,2022-07-30T19:00Z
+Sechzehntelfinale,Sat Jul 30 2022,16:00,-0300,Bahia de Feira BA,2-1,2-0,Costa Rica MS,,,2022-07-30T19:00Z
+Sechzehntelfinale,Sat Jul 30 2022,16:00,-0300,São Bernardo FC SP,2-0,1-0,Azuriz PR,,,2022-07-30T19:00Z
+Sechzehntelfinale,Sat Jul 30 2022,17:00,-0300,Pouso Alegre MG,2-0,2-0,Operário MT,,,2022-07-30T20:00Z
+Sechzehntelfinale,Sat Jul 30 2022,15:00,-0300,Aimoré RS,0-0,0-0,Portuguesa RJ,0-0,3-4,2022-07-30T18:00Z
+Sechzehntelfinale,Sun Jul 31 2022,15:00,-0300,Lagarto SE,2-1,1-1,Sousa PB,,,2022-07-31T18:00Z
+Sechzehntelfinale,Sun Jul 31 2022,15:30,-0300,Brasiliense DF,1-1,0-0,Nova Venécia ES,,,2022-07-31T18:30Z
+Sechzehntelfinale,Sun Jul 31 2022,16:00,-0300,ASA AL,2-0,0-0,Afogados da Ingazeira PE,,,2022-07-31T19:00Z
+Sechzehntelfinale,Sun Jul 31 2022,16:00,-0300,Anápolis FC GO,3-0,1-0,Real Noroeste ES,3-0,1-3,2022-07-31T19:00Z
+Sechzehntelfinale,Sun Jul 31 2022,16:00,-0300,Amazonas FC AM,2-1,1-1,Juventude MA,,,2022-07-31T19:00Z
+Sechzehntelfinale,Sun Jul 31 2022,16:00,-0300,América RN,0-0,0-0,Jacuipense BA,,,2022-07-31T19:00Z
+Sechzehntelfinale,Sun Jul 31 2022,17:00,-0300,Moto Club MA,1-1,1-1,São Raimundo RR,1-1,8-7,2022-07-31T20:00Z
+Sechzehntelfinale,Sun Jul 31 2022,19:00,-0300,Rio Branco AC,0-0,0-0,Pacajus CE,0-0,5-4,2022-07-31T22:00Z
+Sechzehntelfinale,Mon Aug 1 2022,20:00,-0300,Retrô PE,1-2,1-2,Santa Cruz PE,,,2022-08-01T23:00Z
+Round of 16,Sat Aug 6 2022,16:00,-0300,Bahia de Feira BA,0-1,0-1,São Bernardo FC SP,,,2022-08-06T19:00Z
+Round of 16,Sat Aug 6 2022,15:00,-0300,Portuguesa RJ,2-1,1-1,Nova Venécia ES,,,2022-08-06T18:00Z
+Round of 16,Sun Aug 7 2022,15:00,-0300,Lagarto SE,1-1,0-1,Amazonas FC AM,,,2022-08-07T18:00Z
+Round of 16,Sun Aug 7 2022,15:00,-0300,Real Noroeste ES,1-1,0-1,S.E.R. Caxias RS,,,2022-08-07T18:00Z
+Round of 16,Sun Aug 7 2022,16:00,-0300,Santa Cruz PE,0-0,0-0,Tocantinópolis TO,,,2022-08-07T19:00Z
+Round of 16,Sun Aug 7 2022,16:00,-0300,América RN,2-1,1-0,Moto Club MA,,,2022-08-07T19:00Z
+Round of 16,Sun Aug 7 2022,16:00,-0300,Paraná Clube,1-1,1-0,Pouso Alegre MG,,,2022-08-07T19:00Z
+Round of 16,Sun Aug 7 2022,19:00,-0300,Rio Branco AC,0-0,0-0,ASA AL,,,2022-08-07T22:00Z
+Round of 16,Sat Aug 13 2022,16:00,-0300,São Bernardo FC SP,1-1,0-0,Bahia de Feira BA,,,2022-08-13T19:00Z
+Round of 16,Sat Aug 13 2022,17:00,-0300,Pouso Alegre MG,1-0,1-0,Paraná Clube,,,2022-08-13T20:00Z
+Round of 16,Sat Aug 13 2022,19:00,-0300,Moto Club MA,0-1,0-1,América RN,,,2022-08-13T22:00Z
+Round of 16,Sat Aug 13 2022,15:00,-0300,S.E.R. Caxias RS,0-0,0-0,Real Noroeste ES,0-0,3-0,2022-08-13T18:00Z
+Round of 16,Sun Aug 14 2022,15:00,-0300,Nova Venécia ES,2-2,1-1,Portuguesa RJ,,,2022-08-14T18:00Z
+Round of 16,Sun Aug 14 2022,16:00,-0300,Amazonas FC AM,2-1,1-1,Lagarto SE,,,2022-08-14T19:00Z
+Round of 16,Sun Aug 14 2022,16:00,-0300,Tocantinópolis TO,1-0,0-0,Santa Cruz PE,,,2022-08-14T19:00Z
+Round of 16,Sun Aug 14 2022,16:00,-0300,ASA AL,0-0,0-0,Rio Branco AC,0-0,5-4,2022-08-14T19:00Z
+Quarterfinals,Sat Aug 20 2022,15:00,-0300,S.E.R. Caxias RS,1-0,1-0,América RN,,,2022-08-20T18:00Z
+Quarterfinals,Sat Aug 20 2022,15:00,-0300,Portuguesa RJ,1-1,0-1,Amazonas FC AM,,,2022-08-20T18:00Z
+Quarterfinals,Sun Aug 21 2022,16:00,-0300,ASA AL,0-2,0-0,Pouso Alegre MG,,,2022-08-21T19:00Z
+Quarterfinals,Sun Aug 21 2022,15:30,-0300,Tocantinópolis TO,0-3,0-1,São Bernardo FC SP,,,2022-08-21T18:30Z
+Quarterfinals,Sat Aug 27 2022,17:00,-0300,Pouso Alegre MG,1-0,1-0,ASA AL,,,2022-08-27T20:00Z
+Quarterfinals,Sat Aug 27 2022,16:00,-0300,São Bernardo FC SP,2-0,1-0,Tocantinópolis TO,,,2022-08-27T19:00Z
+Quarterfinals,Sun Aug 28 2022,16:00,-0300,Amazonas FC AM,3-2,3-0,Portuguesa RJ,,,2022-08-28T19:00Z
+Quarterfinals,Sun Aug 28 2022,16:00,-0300,América RN,3-1,0-0,S.E.R. Caxias RS,,,2022-08-28T19:00Z
+Semifinals,Sat Sep 3 2022,17:00,-0300,Pouso Alegre MG,1-0,1-0,Amazonas FC AM,,,2022-09-03T20:00Z
+Semifinals,Sun Sep 4 2022,18:00,-0300,América RN,2-0,0-0,São Bernardo FC SP,,,2022-09-04T21:00Z
+Semifinals,Sat Sep 10 2022,16:00,-0300,São Bernardo FC SP,0-1,0-1,América RN,,,2022-09-10T19:00Z
+Semifinals,Sun Sep 11 2022,18:00,-0300,Amazonas FC AM,0-1,0-1,Pouso Alegre MG,,,2022-09-11T21:00Z
+Final,Sun Sep 18 2022,16:00,-0300,América RN,2-0,1-0,Pouso Alegre MG,,,2022-09-18T19:00Z
+Final,Sun Sep 25 2022,16:00,-0300,Pouso Alegre MG,1-0,0-0,América RN,,,2022-09-25T19:00Z

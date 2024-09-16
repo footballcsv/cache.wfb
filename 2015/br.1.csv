@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat May 9 2015,18:30,-0300,Chapecoense,2-1,1-1,Coritiba PR,2015-05-09T21:30Z
+1,Sat May 9 2015,21:00,-0300,Fluminense RJ,1-0,0-0,Joinville SC,2015-05-10T00:00Z
+1,Sat May 9 2015,18:30,-0300,Palmeiras,2-2,0-0,Atlético Mineiro,2015-05-09T21:30Z
+1,Sun May 10 2015,11:00,-0300,Grêmio Porto Alegre,3-3,1-0,Ponte Preta,2015-05-10T14:00Z
+1,Sun May 10 2015,16:00,-0300,São Paulo FC,2-1,0-0,Flamengo RJ,2015-05-10T19:00Z
+1,Sun May 10 2015,16:00,-0300,Cruzeiro,0-1,0-0,Corinthians SP,2015-05-10T19:00Z
+1,Sun May 10 2015,16:00,-0300,Athletico Paranaense,3-0,1-0,Internacional,2015-05-10T19:00Z
+1,Sun May 10 2015,16:00,-0300,Sport Recife PE,4-1,1-0,Figueirense SC,2015-05-10T19:00Z
+1,Sun May 10 2015,18:30,-0300,Vasco da Gama RJ,0-0,0-0,Goiás GO,2015-05-10T21:30Z
+1,Sun May 10 2015,18:30,-0300,Avaí SC,1-1,0-1,Santos FC,2015-05-10T21:30Z
+2,Sat May 16 2015,18:30,-0300,Coritiba PR,2-0,2-0,Grêmio Porto Alegre,2015-05-16T21:30Z
+2,Sat May 16 2015,18:30,-0300,Goiás GO,2-0,0-0,Athletico Paranaense,2015-05-16T21:30Z
+2,Sat May 16 2015,21:00,-0300,Corinthians SP,1-0,1-0,Chapecoense,2015-05-17T00:00Z
+2,Sun May 17 2015,16:00,-0300,Santos FC,1-0,1-0,Cruzeiro,2015-05-17T19:00Z
+2,Sun May 17 2015,16:00,-0300,Flamengo RJ,2-2,0-1,Sport Recife PE,2015-05-17T19:00Z
+2,Sun May 17 2015,16:00,-0300,Atlético Mineiro,4-1,2-0,Fluminense RJ,2015-05-17T19:00Z
+2,Sun May 17 2015,18:30,-0300,Ponte Preta,1-0,1-0,São Paulo FC,2015-05-17T21:30Z
+2,Sun May 17 2015,18:30,-0300,Internacional,1-0,0-0,Avaí SC,2015-05-17T21:30Z
+2,Sun May 17 2015,18:30,-0300,Joinville SC,0-0,0-0,Palmeiras,2015-05-17T21:30Z
+2,Sun May 17 2015,11:00,-0300,Figueirense SC,0-0,0-0,Vasco da Gama RJ,2015-05-17T14:00Z
+3,Sat May 23 2015,18:30,-0300,São Paulo FC,3-0,1-0,Joinville SC,2015-05-23T21:30Z
+3,Sat May 23 2015,18:30,-0300,Vasco da Gama RJ,1-1,0-1,Internacional,2015-05-23T21:30Z
+3,Sat May 23 2015,21:00,-0300,Grêmio Porto Alegre,1-0,0-0,Figueirense SC,2015-05-24T00:00Z
+3,Sun May 24 2015,16:00,-0300,Fluminense RJ,0-0,0-0,Corinthians SP,2015-05-24T19:00Z
+3,Sun May 24 2015,16:00,-0300,Avaí SC,2-1,0-0,Flamengo RJ,2015-05-24T19:00Z
+3,Sun May 24 2015,16:00,-0300,Athletico Paranaense,1-0,1-0,Atlético Mineiro,2015-05-24T19:00Z
+3,Sun May 24 2015,16:00,-0300,Chapecoense,1-0,1-0,Santos FC,2015-05-24T19:00Z
+3,Sun May 24 2015,18:30,-0300,Cruzeiro,1-1,0-0,Ponte Preta,2015-05-24T21:30Z
+3,Sun May 24 2015,18:30,-0300,Sport Recife PE,1-0,1-0,Coritiba PR,2015-05-24T21:30Z
+3,Sun May 24 2015,11:00,-0300,Palmeiras,0-1,0-0,Goiás GO,2015-05-24T14:00Z
+4,Sat May 30 2015,18:30,-0300,Ponte Preta,3-1,1-0,Chapecoense,2015-05-30T21:30Z
+4,Sat May 30 2015,18:30,-0300,Coritiba PR,1-2,0-1,Avaí SC,2015-05-30T21:30Z
+4,Sat May 30 2015,21:00,-0300,Joinville SC,1-2,0-2,Athletico Paranaense,2015-05-31T00:00Z
+4,Sun May 31 2015,16:00,-0300,Corinthians SP,0-2,0-2,Palmeiras,2015-05-31T19:00Z
+4,Sun May 31 2015,16:00,-0300,Internacional,0-0,0-0,São Paulo FC,2015-05-31T19:00Z
+4,Sun May 31 2015,16:00,-0300,Atlético Mineiro,3-0,3-0,Vasco da Gama RJ,2015-05-31T19:00Z
+4,Sun May 31 2015,16:00,-0300,Goiás GO,1-1,0-1,Grêmio Porto Alegre,2015-05-31T19:00Z
+4,Sun May 31 2015,18:30,-0300,Flamengo RJ,2-3,1-2,Fluminense RJ,2015-05-31T21:30Z
+4,Sun May 31 2015,18:30,-0300,Figueirense SC,2-1,1-1,Cruzeiro,2015-05-31T21:30Z
+4,Sun May 31 2015,11:00,-0300,Santos FC,2-2,1-0,Sport Recife PE,2015-05-31T14:00Z
+5,Wed Jun 3 2015,19:30,-0300,Vasco da Gama RJ,0-3,0-2,Ponte Preta,2015-06-03T22:30Z
+5,Wed Jun 3 2015,19:30,-0300,Athletico Paranaense,1-0,1-0,Figueirense SC,2015-06-03T22:30Z
+5,Wed Jun 3 2015,19:30,-0300,Chapecoense,2-0,2-0,Joinville SC,2015-06-03T22:30Z
+5,Wed Jun 3 2015,21:00,-0300,São Paulo FC,3-2,1-1,Santos FC,2015-06-04T00:00Z
+5,Wed Jun 3 2015,22:00,-0300,Grêmio Porto Alegre,3-1,3-1,Corinthians SP,2015-06-04T01:00Z
+5,Wed Jun 3 2015,22:00,-0300,Cruzeiro,1-0,0-0,Flamengo RJ,2015-06-04T01:00Z
+5,Wed Jun 3 2015,22:00,-0300,Avaí SC,1-4,0-2,Atlético Mineiro,2015-06-04T01:00Z
+5,Thu Jun 4 2015,21:00,-0300,Palmeiras,1-1,0-0,Internacional,2015-06-05T00:00Z
+5,Thu Jun 4 2015,21:00,-0300,Sport Recife PE,1-0,0-0,Goiás GO,2015-06-05T00:00Z
+5,Thu Jun 4 2015,16:00,-0300,Fluminense RJ,2-0,1-0,Coritiba PR,2015-06-04T19:00Z
+6,Sat Jun 6 2015,18:30,-0300,Santos FC,2-2,1-0,Ponte Preta,2015-06-06T21:30Z
+6,Sat Jun 6 2015,18:30,-0300,Flamengo RJ,1-0,0-0,Chapecoense,2015-06-06T21:30Z
+6,Sat Jun 6 2015,18:30,-0300,Atlético Mineiro,1-3,1-1,Cruzeiro,2015-06-06T21:30Z
+6,Sat Jun 6 2015,22:00,-0300,São Paulo FC,2-0,1-0,Grêmio Porto Alegre,2015-06-07T01:00Z
+6,Sat Jun 6 2015,22:00,-0300,Athletico Paranaense,2-0,0-0,Vasco da Gama RJ,2015-06-07T01:00Z
+6,Sat Jun 6 2015,22:00,-0300,Joinville SC,0-1,0-1,Corinthians SP,2015-06-07T01:00Z
+6,Sun Jun 7 2015,11:00,-0300,Internacional,2-0,2-0,Coritiba PR,2015-06-07T14:00Z
+6,Sun Jun 7 2015,19:30,-0300,Fluminense RJ,0-0,0-0,Sport Recife PE,2015-06-07T22:30Z
+6,Sun Jun 7 2015,19:30,-0300,Figueirense SC,2-1,1-1,Palmeiras,2015-06-07T22:30Z
+6,Sun Jun 7 2015,19:30,-0300,Goiás GO,0-1,0-0,Avaí SC,2015-06-07T22:30Z
+7,Wed Jun 10 2015,19:30,-0300,Atlético Mineiro,2-2,2-1,Santos FC,2015-06-10T22:30Z
+7,Sat Jun 13 2015,16:30,-0300,Coritiba PR,0-1,0-1,Flamengo RJ,2015-06-13T19:30Z
+7,Sat Jun 13 2015,16:30,-0300,Chapecoense,0-1,0-1,São Paulo FC,2015-06-13T19:30Z
+7,Sat Jun 13 2015,21:00,-0300,Vasco da Gama RJ,1-3,0-1,Cruzeiro,2015-06-14T00:00Z
+7,Sat Jun 13 2015,21:00,-0300,Sport Recife PE,2-1,2-0,Joinville SC,2015-06-14T00:00Z
+7,Sat Jun 13 2015,16:30,-0300,Corinthians SP,2-1,0-1,Internacional,2015-06-13T19:30Z
+7,Sun Jun 14 2015,11:00,-0300,Ponte Preta,0-0,0-0,Goiás GO,2015-06-14T14:00Z
+7,Sun Jun 14 2015,16:00,-0300,Palmeiras,2-1,1-1,Fluminense RJ,2015-06-14T19:00Z
+7,Sun Jun 14 2015,16:00,-0300,Grêmio Porto Alegre,2-1,1-0,Athletico Paranaense,2015-06-14T19:00Z
+7,Sun Jun 14 2015,16:00,-0300,Avaí SC,1-1,1-1,Figueirense SC,2015-06-14T19:00Z
+8,Thu Jun 18 2015,21:00,-0300,Figueirense SC,0-0,0-0,Internacional,2015-06-19T00:00Z
+8,Sat Jun 20 2015,16:30,-0300,Flamengo RJ,0-2,0-2,Atlético Mineiro,2015-06-20T19:30Z
+8,Sat Jun 20 2015,16:30,-0300,Sport Recife PE,2-1,1-1,Vasco da Gama RJ,2015-06-20T19:30Z
+8,Sat Jun 20 2015,21:00,-0300,Grêmio Porto Alegre,1-0,0-0,Palmeiras,2015-06-21T00:00Z
+8,Sat Jun 20 2015,16:30,-0300,Santos FC,1-0,1-0,Corinthians SP,2015-06-20T19:30Z
+8,Sun Jun 21 2015,11:00,-0300,Cruzeiro,0-1,0-1,Chapecoense,2015-06-21T14:00Z
+8,Sun Jun 21 2015,16:00,-0300,São Paulo FC,1-1,0-0,Avaí SC,2015-06-21T19:00Z
+8,Sun Jun 21 2015,16:00,-0300,Athletico Paranaense,2-2,1-1,Coritiba PR,2015-06-21T19:00Z
+8,Sun Jun 21 2015,16:00,-0300,Joinville SC,2-1,2-1,Goiás GO,2015-06-21T19:00Z
+8,Wed Jun 24 2015,19:30,-0300,Fluminense RJ,2-0,0-0,Ponte Preta,2015-06-24T22:30Z
+9,Sat Jun 27 2015,16:00,-0300,Avaí SC,1-2,0-2,Grêmio Porto Alegre,2015-06-27T19:00Z
+9,Sat Jun 27 2015,16:00,-0300,Chapecoense,1-1,0-1,Sport Recife PE,2015-06-27T19:00Z
+9,Sat Jun 27 2015,21:00,-0300,Corinthians SP,2-1,0-0,Figueirense SC,2015-06-28T00:00Z
+9,Sun Jun 28 2015,16:00,-0300,Palmeiras,4-0,2-0,São Paulo FC,2015-06-28T19:00Z
+9,Sun Jun 28 2015,16:00,-0300,Ponte Preta,2-1,1-1,Athletico Paranaense,2015-06-28T19:00Z
+9,Sun Jun 28 2015,16:00,-0300,Coritiba PR,1-0,0-0,Cruzeiro,2015-06-28T19:00Z
+9,Sun Jun 28 2015,16:00,-0300,Goiás GO,1-2,1-0,Fluminense RJ,2015-06-28T19:00Z
+9,Sun Jun 28 2015,18:30,-0300,Vasco da Gama RJ,1-0,1-0,Flamengo RJ,2015-06-28T21:30Z
+9,Sun Jun 28 2015,18:30,-0300,Internacional,1-0,0-0,Santos FC,2015-06-28T21:30Z
+9,Sun Jun 28 2015,11:00,-0300,Atlético Mineiro,1-0,1-0,Joinville SC,2015-06-28T14:00Z
+10,Wed Jul 1 2015,19:30,-0300,Vasco da Gama RJ,1-0,0-0,Avaí SC,2015-07-01T22:30Z
+10,Wed Jul 1 2015,19:30,-0300,Sport Recife PE,3-0,3-0,Internacional,2015-07-01T22:30Z
+10,Wed Jul 1 2015,21:00,-0300,Palmeiras,2-0,1-0,Chapecoense,2015-07-02T00:00Z
+10,Wed Jul 1 2015,21:00,-0300,Atlético Mineiro,2-0,1-0,Coritiba PR,2015-07-02T00:00Z
+10,Wed Jul 1 2015,22:00,-0300,Grêmio Porto Alegre,1-0,0-0,Cruzeiro,2015-07-02T01:00Z
+10,Wed Jul 1 2015,22:00,-0300,Athletico Paranaense,2-1,1-0,São Paulo FC,2015-07-02T01:00Z
+10,Wed Jul 1 2015,22:00,-0300,Joinville SC,0-1,0-0,Flamengo RJ,2015-07-02T01:00Z
+10,Thu Jul 2 2015,19:30,-0300,Figueirense SC,3-1,2-0,Goiás GO,2015-07-02T22:30Z
+10,Thu Jul 2 2015,21:00,-0300,Fluminense RJ,2-1,1-0,Santos FC,2015-07-03T00:00Z
+10,Thu Jul 2 2015,19:30,-0300,Corinthians SP,2-0,1-0,Ponte Preta,2015-07-02T22:30Z
+11,Sat Jul 4 2015,21:00,-0300,Cruzeiro,2-0,1-0,Athletico Paranaense,2015-07-05T00:00Z
+11,Sat Jul 4 2015,21:00,-0300,Chapecoense,1-0,0-0,Vasco da Gama RJ,2015-07-05T00:00Z
+11,Sat Jul 4 2015,15:00,-0300,Coritiba PR,0-0,0-0,Joinville SC,2015-07-04T18:00Z
+11,Sun Jul 5 2015,11:00,-0300,Avaí SC,2-2,2-1,Sport Recife PE,2015-07-05T14:00Z
+11,Sun Jul 5 2015,16:00,-0300,São Paulo FC,0-0,0-0,Fluminense RJ,2015-07-05T19:00Z
+11,Sun Jul 5 2015,16:00,-0300,Santos FC,1-3,0-1,Grêmio Porto Alegre,2015-07-05T19:00Z
+11,Sun Jul 5 2015,16:00,-0300,Goiás GO,0-0,0-0,Corinthians SP,2015-07-05T19:00Z
+11,Sun Jul 5 2015,18:30,-0300,Ponte Preta,0-2,0-2,Palmeiras,2015-07-05T21:30Z
+11,Sun Jul 5 2015,18:30,-0300,Flamengo RJ,1-2,0-0,Figueirense SC,2015-07-05T21:30Z
+11,Sun Jul 5 2015,18:30,-0300,Internacional,1-3,0-0,Atlético Mineiro,2015-07-05T21:30Z
+12,Wed Jul 8 2015,19:30,-0300,Coritiba PR,0-0,0-0,Ponte Preta,2015-07-08T22:30Z
+12,Wed Jul 8 2015,19:30,-0300,Goiás GO,4-1,0-0,Santos FC,2015-07-08T22:30Z
+12,Wed Jul 8 2015,19:30,-0300,Chapecoense,1-0,0-0,Grêmio Porto Alegre,2015-07-08T22:30Z
+12,Wed Jul 8 2015,21:00,-0300,Palmeiras,3-0,1-0,Avaí SC,2015-07-09T00:00Z
+12,Wed Jul 8 2015,21:00,-0300,Figueirense SC,0-2,0-1,Joinville SC,2015-07-09T00:00Z
+12,Wed Jul 8 2015,22:00,-0300,Vasco da Gama RJ,0-4,0-2,São Paulo FC,2015-07-09T01:00Z
+12,Wed Jul 8 2015,22:00,-0300,Internacional,1-2,0-1,Flamengo RJ,2015-07-09T01:00Z
+12,Wed Jul 8 2015,22:00,-0300,Atlético Mineiro,2-1,0-0,Sport Recife PE,2015-07-09T01:00Z
+12,Thu Jul 9 2015,21:00,-0300,Fluminense RJ,1-0,0-0,Cruzeiro,2015-07-10T00:00Z
+12,Thu Jul 9 2015,19:30,-0300,Corinthians SP,2-0,1-0,Athletico Paranaense,2015-07-09T22:30Z
+13,Sat Jul 11 2015,18:30,-0300,Santos FC,3-0,1-0,Figueirense SC,2015-07-11T21:30Z
+13,Sat Jul 11 2015,18:30,-0300,Grêmio Porto Alegre,2-0,0-0,Vasco da Gama RJ,2015-07-11T21:30Z
+13,Sat Jul 11 2015,21:00,-0300,Ponte Preta,0-2,0-1,Atlético Mineiro,2015-07-12T00:00Z
+13,Sun Jul 12 2015,11:00,-0300,São Paulo FC,3-1,2-0,Coritiba PR,2015-07-12T14:00Z
+13,Sun Jul 12 2015,16:00,-0300,Flamengo RJ,0-3,0-2,Corinthians SP,2015-07-12T19:00Z
+13,Sun Jul 12 2015,16:00,-0300,Cruzeiro,1-0,1-0,Goiás GO,2015-07-12T19:00Z
+13,Sun Jul 12 2015,16:00,-0300,Athletico Paranaense,1-2,0-0,Fluminense RJ,2015-07-12T19:00Z
+13,Sun Jul 12 2015,16:00,-0300,Joinville SC,0-2,0-2,Internacional,2015-07-12T19:00Z
+13,Sun Jul 12 2015,18:30,-0300,Avaí SC,2-1,2-0,Chapecoense,2015-07-12T21:30Z
+13,Sun Jul 12 2015,18:30,-0300,Sport Recife PE,2-2,1-1,Palmeiras,2015-07-12T21:30Z
+14,Sat Jul 18 2015,18:30,-0300,Internacional,2-1,0-0,Goiás GO,2015-07-18T21:30Z
+14,Sat Jul 18 2015,21:00,-0300,Corinthians SP,1-0,1-0,Atlético Mineiro,2015-07-19T00:00Z
+14,Sat Jul 18 2015,18:30,-0300,Flamengo RJ,1-0,1-0,Grêmio Porto Alegre,2015-07-18T21:30Z
+14,Sun Jul 19 2015,11:00,-0300,Athletico Paranaense,1-0,0-0,Chapecoense,2015-07-19T14:00Z
+14,Sun Jul 19 2015,16:00,-0300,Palmeiras,1-0,1-0,Santos FC,2015-07-19T19:00Z
+14,Sun Jul 19 2015,16:00,-0300,Fluminense RJ,1-2,0-1,Vasco da Gama RJ,2015-07-19T19:00Z
+14,Sun Jul 19 2015,16:00,-0300,Figueirense SC,0-0,0-0,Coritiba PR,2015-07-19T19:00Z
+14,Sun Jul 19 2015,16:00,-0300,Sport Recife PE,2-0,1-0,São Paulo FC,2015-07-19T19:00Z
+14,Sun Jul 19 2015,18:30,-0300,Cruzeiro,1-1,1-0,Avaí SC,2015-07-19T21:30Z
+14,Sun Jul 19 2015,18:30,-0300,Joinville SC,1-1,0-0,Ponte Preta,2015-07-19T21:30Z
+15,Sat Jul 25 2015,19:30,-0300,Grêmio Porto Alegre,1-1,1-0,Sport Recife PE,2015-07-25T22:30Z
+15,Sat Jul 25 2015,21:00,-0300,Atlético Mineiro,1-0,0-0,Figueirense SC,2015-07-26T00:00Z
+15,Sat Jul 25 2015,18:30,-0300,Avaí SC,1-2,0-1,Athletico Paranaense,2015-07-25T21:30Z
+15,Sun Jul 26 2015,11:00,-0300,Santos FC,2-0,2-0,Joinville SC,2015-07-26T14:00Z
+15,Sun Jul 26 2015,11:00,-0300,Chapecoense,2-1,1-1,Fluminense RJ,2015-07-26T14:00Z
+15,Sun Jul 26 2015,16:00,-0300,São Paulo FC,1-0,1-0,Cruzeiro,2015-07-26T19:00Z
+15,Sun Jul 26 2015,16:00,-0300,Ponte Preta,0-0,0-0,Internacional,2015-07-26T19:00Z
+15,Sun Jul 26 2015,16:00,-0300,Coritiba PR,1-1,0-1,Corinthians SP,2015-07-26T19:00Z
+15,Sun Jul 26 2015,16:00,-0300,Goiás GO,0-1,0-0,Flamengo RJ,2015-07-26T19:00Z
+15,Sun Jul 26 2015,18:30,-0300,Vasco da Gama RJ,1-4,0-3,Palmeiras,2015-07-26T21:30Z
+16,Wed Jul 29 2015,22:00,-0300,Atlético Mineiro,3-1,3-0,São Paulo FC,2015-07-30T01:00Z
+16,Wed Jul 29 2015,22:00,-0300,Corinthians SP,3-0,0-0,Vasco da Gama RJ,2015-07-30T01:00Z
+16,Sat Aug 1 2015,18:30,-0300,Fluminense RJ,1-0,0-0,Grêmio Porto Alegre,2015-08-01T21:30Z
+16,Sun Aug 2 2015,11:00,-0300,Palmeiras,0-1,0-0,Athletico Paranaense,2015-08-02T14:00Z
+16,Sun Aug 2 2015,11:00,-0300,Coritiba PR,1-1,0-0,Goiás GO,2015-08-02T14:00Z
+16,Sun Aug 2 2015,16:00,-0300,Flamengo RJ,2-2,2-0,Santos FC,2015-08-02T19:00Z
+16,Sun Aug 2 2015,16:00,-0300,Internacional,0-0,0-0,Chapecoense,2015-08-02T19:00Z
+16,Sun Aug 2 2015,16:00,-0300,Figueirense SC,3-1,1-0,Ponte Preta,2015-08-02T19:00Z
+16,Sun Aug 2 2015,16:00,-0300,Joinville SC,2-0,1-0,Avaí SC,2015-08-02T19:00Z
+16,Sun Aug 2 2015,18:30,-0300,Sport Recife PE,0-0,0-0,Cruzeiro,2015-08-02T21:30Z
+17,Sat Aug 8 2015,18:30,-0300,Avaí SC,1-0,1-0,Fluminense RJ,2015-08-08T21:30Z
+17,Sat Aug 8 2015,21:00,-0300,Santos FC,3-0,2-0,Coritiba PR,2015-08-09T00:00Z
+17,Sun Aug 9 2015,11:00,-0300,Athletico Paranaense,1-1,0-1,Sport Recife PE,2015-08-09T14:00Z
+17,Sun Aug 9 2015,16:00,-0300,São Paulo FC,1-1,0-1,Corinthians SP,2015-08-09T19:00Z
+17,Sun Aug 9 2015,16:00,-0300,Ponte Preta,1-0,0-0,Flamengo RJ,2015-08-09T19:00Z
+17,Sun Aug 9 2015,16:00,-0300,Cruzeiro,2-1,1-0,Palmeiras,2015-08-09T19:00Z
+17,Sun Aug 9 2015,16:00,-0300,Goiás GO,0-0,0-0,Atlético Mineiro,2015-08-09T19:00Z
+17,Sun Aug 9 2015,18:30,-0300,Grêmio Porto Alegre,5-0,2-0,Internacional,2015-08-09T21:30Z
+17,Sun Aug 9 2015,18:30,-0300,Chapecoense,2-2,0-0,Figueirense SC,2015-08-09T21:30Z
+17,Sun Aug 9 2015,11:00,-0300,Vasco da Gama RJ,0-0,0-0,Joinville SC,2015-08-09T14:00Z
+18,Wed Aug 12 2015,19:30,-0300,Flamengo RJ,3-2,3-1,Athletico Paranaense,2015-08-12T22:30Z
+18,Wed Aug 12 2015,19:30,-0300,Coritiba PR,2-1,1-0,Palmeiras,2015-08-12T22:30Z
+18,Wed Aug 12 2015,21:00,-0300,Santos FC,1-0,0-0,Vasco da Gama RJ,2015-08-13T00:00Z
+18,Wed Aug 12 2015,21:00,-0300,Goiás GO,0-0,0-0,Chapecoense,2015-08-13T00:00Z
+18,Wed Aug 12 2015,22:00,-0300,Corinthians SP,4-3,2-1,Sport Recife PE,2015-08-13T01:00Z
+18,Wed Aug 12 2015,22:00,-0300,Internacional,1-0,0-0,Fluminense RJ,2015-08-13T01:00Z
+18,Wed Aug 12 2015,22:00,-0300,Figueirense SC,0-2,0-2,São Paulo FC,2015-08-13T01:00Z
+18,Thu Aug 13 2015,21:00,-0300,Atlético Mineiro,0-2,0-1,Grêmio Porto Alegre,2015-08-14T00:00Z
+18,Thu Aug 13 2015,21:00,-0300,Joinville SC,3-0,2-0,Cruzeiro,2015-08-14T00:00Z
+18,Thu Aug 13 2015,19:30,-0300,Ponte Preta,2-0,0-0,Avaí SC,2015-08-13T22:30Z
+19,Sat Aug 15 2015,18:30,-0300,Athletico Paranaense,0-0,0-0,Santos FC,2015-08-15T21:30Z
+19,Sat Aug 15 2015,21:00,-0300,São Paulo FC,0-3,0-2,Goiás GO,2015-08-16T00:00Z
+19,Sat Aug 15 2015,18:30,-0300,Vasco da Gama RJ,0-1,0-0,Coritiba PR,2015-08-15T21:30Z
+19,Sun Aug 16 2015,11:00,-0300,Palmeiras,4-2,1-0,Flamengo RJ,2015-08-16T14:00Z
+19,Sun Aug 16 2015,16:00,-0300,Fluminense RJ,2-1,0-1,Figueirense SC,2015-08-16T19:00Z
+19,Sun Aug 16 2015,16:00,-0300,Cruzeiro,0-0,0-0,Internacional,2015-08-16T19:00Z
+19,Sun Aug 16 2015,16:00,-0300,Avaí SC,1-2,1-1,Corinthians SP,2015-08-16T19:00Z
+19,Sun Aug 16 2015,16:00,-0300,Sport Recife PE,1-1,1-0,Ponte Preta,2015-08-16T19:00Z
+19,Sun Aug 16 2015,18:30,-0300,Grêmio Porto Alegre,2-1,0-1,Joinville SC,2015-08-16T21:30Z
+19,Sun Aug 16 2015,18:30,-0300,Chapecoense,2-1,1-0,Atlético Mineiro,2015-08-16T21:30Z
+20,Sat Aug 22 2015,18:30,-0300,Santos FC,5-2,2-1,Avaí SC,2015-08-22T21:30Z
+20,Sat Aug 22 2015,18:30,-0300,Goiás GO,3-0,2-0,Vasco da Gama RJ,2015-08-22T21:30Z
+20,Sat Aug 22 2015,21:00,-0300,Figueirense SC,2-1,0-1,Sport Recife PE,2015-08-23T00:00Z
+20,Sun Aug 23 2015,11:00,-0300,Coritiba PR,1-0,1-0,Chapecoense,2015-08-23T14:00Z
+20,Sun Aug 23 2015,16:00,-0300,Corinthians SP,3-0,2-0,Cruzeiro,2015-08-23T19:00Z
+20,Sun Aug 23 2015,16:00,-0300,Flamengo RJ,2-1,1-1,São Paulo FC,2015-08-23T19:00Z
+20,Sun Aug 23 2015,16:00,-0300,Internacional,2-0,1-0,Athletico Paranaense,2015-08-23T19:00Z
+20,Sun Aug 23 2015,16:00,-0300,Joinville SC,2-1,0-0,Fluminense RJ,2015-08-23T19:00Z
+20,Sun Aug 23 2015,18:30,-0300,Atlético Mineiro,2-1,2-1,Palmeiras,2015-08-23T21:30Z
+20,Sun Aug 23 2015,11:00,-0300,Ponte Preta,0-0,0-0,Grêmio Porto Alegre,2015-08-23T14:00Z
+21,Sat Aug 29 2015,18:30,-0300,Vasco da Gama RJ,0-1,0-0,Figueirense SC,2015-08-29T21:30Z
+21,Sat Aug 29 2015,21:00,-0300,São Paulo FC,3-0,1-0,Ponte Preta,2015-08-30T00:00Z
+21,Sun Aug 30 2015,11:00,-0300,Avaí SC,3-0,0-0,Internacional,2015-08-30T14:00Z
+21,Sun Aug 30 2015,16:00,-0300,Palmeiras,3-2,2-2,Joinville SC,2015-08-30T19:00Z
+21,Sun Aug 30 2015,16:00,-0300,Fluminense RJ,1-2,0-1,Atlético Mineiro,2015-08-30T19:00Z
+21,Sun Aug 30 2015,16:00,-0300,Sport Recife PE,0-1,0-1,Flamengo RJ,2015-08-30T19:00Z
+21,Sun Aug 30 2015,16:00,-0300,Chapecoense,1-3,1-2,Corinthians SP,2015-08-30T19:00Z
+21,Sun Aug 30 2015,18:30,-0300,Cruzeiro,0-1,0-1,Santos FC,2015-08-30T21:30Z
+21,Sun Aug 30 2015,18:30,-0300,Athletico Paranaense,3-0,1-0,Goiás GO,2015-08-30T21:30Z
+21,Sun Aug 30 2015,11:00,-0300,Grêmio Porto Alegre,0-0,0-0,Coritiba PR,2015-08-30T14:00Z
+22,Wed Sep 2 2015,19:30,-0300,Ponte Preta,1-2,0-1,Cruzeiro,2015-09-02T22:30Z
+22,Wed Sep 2 2015,19:30,-0300,Internacional,6-0,2-0,Vasco da Gama RJ,2015-09-02T22:30Z
+22,Wed Sep 2 2015,19:30,-0300,Joinville SC,0-0,0-0,São Paulo FC,2015-09-02T22:30Z
+22,Wed Sep 2 2015,21:00,-0300,Flamengo RJ,3-0,1-0,Avaí SC,2015-09-03T00:00Z
+22,Wed Sep 2 2015,21:00,-0300,Atlético Mineiro,0-1,0-0,Athletico Paranaense,2015-09-03T00:00Z
+22,Wed Sep 2 2015,22:00,-0300,Corinthians SP,2-0,1-0,Fluminense RJ,2015-09-03T01:00Z
+22,Wed Sep 2 2015,22:00,-0300,Coritiba PR,0-0,0-0,Sport Recife PE,2015-09-03T01:00Z
+22,Wed Sep 2 2015,22:00,-0300,Goiás GO,1-0,0-0,Palmeiras,2015-09-03T01:00Z
+22,Thu Sep 3 2015,21:00,-0300,Figueirense SC,0-2,0-1,Grêmio Porto Alegre,2015-09-04T00:00Z
+22,Thu Sep 3 2015,19:30,-0300,Santos FC,3-1,1-0,Chapecoense,2015-09-03T22:30Z
+23,Sat Sep 5 2015,19:30,-0300,Vasco da Gama RJ,1-2,0-2,Atlético Mineiro,2015-09-05T22:30Z
+23,Sat Sep 5 2015,21:00,-0300,Athletico Paranaense,0-0,0-0,Joinville SC,2015-09-06T00:00Z
+23,Sat Sep 5 2015,19:30,-0300,São Paulo FC,2-0,0-0,Internacional,2015-09-05T22:30Z
+23,Sun Sep 6 2015,11:00,-0300,Cruzeiro,5-1,2-0,Figueirense SC,2015-09-06T14:00Z
+23,Sun Sep 6 2015,11:00,-0300,Chapecoense,0-0,0-0,Ponte Preta,2015-09-06T14:00Z
+23,Sun Sep 6 2015,16:00,-0300,Palmeiras,3-3,3-2,Corinthians SP,2015-09-06T19:00Z
+23,Sun Sep 6 2015,16:00,-0300,Fluminense RJ,1-3,0-2,Flamengo RJ,2015-09-06T19:00Z
+23,Sun Sep 6 2015,16:00,-0300,Grêmio Porto Alegre,2-1,0-1,Goiás GO,2015-09-06T19:00Z
+23,Sun Sep 6 2015,16:00,-0300,Avaí SC,0-2,0-0,Coritiba PR,2015-09-06T19:00Z
+23,Sun Sep 6 2015,18:30,-0300,Sport Recife PE,1-1,1-1,Santos FC,2015-09-06T21:30Z
+24,Wed Sep 9 2015,19:30,-0300,Internacional,1-0,1-0,Palmeiras,2015-09-09T22:30Z
+24,Wed Sep 9 2015,19:30,-0300,Atlético Mineiro,2-0,2-0,Avaí SC,2015-09-09T22:30Z
+24,Wed Sep 9 2015,21:00,-0300,Figueirense SC,1-1,1-1,Athletico Paranaense,2015-09-10T00:00Z
+24,Wed Sep 9 2015,22:00,-0300,Corinthians SP,1-1,0-0,Grêmio Porto Alegre,2015-09-10T01:00Z
+24,Wed Sep 9 2015,22:00,-0300,Santos FC,3-0,2-0,São Paulo FC,2015-09-10T01:00Z
+24,Wed Sep 9 2015,22:00,-0300,Coritiba PR,1-1,1-0,Fluminense RJ,2015-09-10T01:00Z
+24,Wed Sep 9 2015,19:30,-0300,Ponte Preta,0-1,0-0,Vasco da Gama RJ,2015-09-09T22:30Z
+24,Thu Sep 10 2015,19:30,-0300,Goiás GO,1-0,0-0,Sport Recife PE,2015-09-10T22:30Z
+24,Thu Sep 10 2015,21:00,-0300,Flamengo RJ,2-0,1-0,Cruzeiro,2015-09-11T00:00Z
+24,Thu Sep 10 2015,21:00,-0300,Joinville SC,0-0,0-0,Chapecoense,2015-09-11T00:00Z
+25,Sat Sep 12 2015,21:00,-0300,Palmeiras,2-0,0-0,Figueirense SC,2015-09-13T00:00Z
+25,Sat Sep 12 2015,18:30,-0300,Coritiba PR,0-1,0-1,Internacional,2015-09-12T21:30Z
+25,Sun Sep 13 2015,11:00,-0300,Corinthians SP,3-0,1-0,Joinville SC,2015-09-13T14:00Z
+25,Sun Sep 13 2015,11:00,-0300,Ponte Preta,3-1,3-0,Santos FC,2015-09-13T14:00Z
+25,Sun Sep 13 2015,16:00,-0300,Vasco da Gama RJ,2-0,1-0,Athletico Paranaense,2015-09-13T19:00Z
+25,Sun Sep 13 2015,16:00,-0300,Grêmio Porto Alegre,1-2,0-1,São Paulo FC,2015-09-13T19:00Z
+25,Sun Sep 13 2015,16:00,-0300,Cruzeiro,1-1,1-0,Atlético Mineiro,2015-09-13T19:00Z
+25,Sun Sep 13 2015,16:00,-0300,Chapecoense,1-3,0-2,Flamengo RJ,2015-09-13T19:00Z
+25,Sun Sep 13 2015,18:30,-0300,Avaí SC,2-1,0-1,Goiás GO,2015-09-13T21:30Z
+25,Sun Sep 13 2015,18:30,-0300,Sport Recife PE,1-0,1-0,Fluminense RJ,2015-09-13T21:30Z
+26,Wed Sep 16 2015,19:30,-0300,Fluminense RJ,1-4,1-0,Palmeiras,2015-09-16T22:30Z
+26,Wed Sep 16 2015,19:30,-0300,Goiás GO,1-2,1-1,Ponte Preta,2015-09-16T22:30Z
+26,Wed Sep 16 2015,19:30,-0300,Joinville SC,1-1,1-0,Sport Recife PE,2015-09-16T22:30Z
+26,Wed Sep 16 2015,21:00,-0300,Figueirense SC,0-1,0-0,Avaí SC,2015-09-17T00:00Z
+26,Wed Sep 16 2015,21:00,-0300,Athletico Paranaense,1-2,0-1,Grêmio Porto Alegre,2015-09-17T00:00Z
+26,Wed Sep 16 2015,22:00,-0300,Santos FC,4-0,1-0,Atlético Mineiro,2015-09-17T01:00Z
+26,Wed Sep 16 2015,22:00,-0300,Internacional,2-1,1-1,Corinthians SP,2015-09-17T01:00Z
+26,Wed Sep 16 2015,22:00,-0300,Cruzeiro,2-2,2-1,Vasco da Gama RJ,2015-09-17T01:00Z
+26,Thu Sep 17 2015,21:00,-0300,Flamengo RJ,0-2,0-2,Coritiba PR,2015-09-18T00:00Z
+26,Thu Sep 17 2015,19:30,-0300,São Paulo FC,0-0,0-0,Chapecoense,2015-09-17T22:30Z
+27,Sat Sep 19 2015,18:30,-0300,Palmeiras,3-2,2-1,Grêmio Porto Alegre,2015-09-19T21:30Z
+27,Sat Sep 19 2015,18:30,-0300,Internacional,1-1,1-0,Figueirense SC,2015-09-19T21:30Z
+27,Sat Sep 19 2015,21:00,-0300,Ponte Preta,3-1,3-0,Fluminense RJ,2015-09-20T00:00Z
+27,Sun Sep 20 2015,11:00,-0300,Corinthians SP,2-0,0-0,Santos FC,2015-09-20T14:00Z
+27,Sun Sep 20 2015,11:00,-0300,Goiás GO,3-0,1-0,Joinville SC,2015-09-20T14:00Z
+27,Sun Sep 20 2015,16:00,-0300,Vasco da Gama RJ,2-1,1-1,Sport Recife PE,2015-09-20T19:00Z
+27,Sun Sep 20 2015,16:00,-0300,Atlético Mineiro,4-1,2-1,Flamengo RJ,2015-09-20T19:00Z
+27,Sun Sep 20 2015,16:00,-0300,Avaí SC,2-1,1-1,São Paulo FC,2015-09-20T19:00Z
+27,Sun Sep 20 2015,18:30,-0300,Coritiba PR,2-0,2-0,Athletico Paranaense,2015-09-20T21:30Z
+27,Sun Sep 20 2015,18:30,-0300,Chapecoense,0-2,0-2,Cruzeiro,2015-09-20T21:30Z
+28,Sat Sep 26 2015,21:00,-0300,Grêmio Porto Alegre,3-1,2-0,Avaí SC,2015-09-27T00:00Z
+28,Sat Sep 26 2015,18:30,-0300,Fluminense RJ,2-0,1-0,Goiás GO,2015-09-26T21:30Z
+28,Sun Sep 27 2015,11:00,-0300,Santos FC,3-1,1-1,Internacional,2015-09-27T14:00Z
+28,Sun Sep 27 2015,11:00,-0300,Athletico Paranaense,1-2,1-1,Ponte Preta,2015-09-27T14:00Z
+28,Sun Sep 27 2015,16:00,-0300,São Paulo FC,1-1,0-0,Palmeiras,2015-09-27T19:00Z
+28,Sun Sep 27 2015,16:00,-0300,Flamengo RJ,1-2,1-0,Vasco da Gama RJ,2015-09-27T19:00Z
+28,Sun Sep 27 2015,16:00,-0300,Figueirense SC,1-3,0-1,Corinthians SP,2015-09-27T19:00Z
+28,Sun Sep 27 2015,16:00,-0300,Joinville SC,2-2,0-0,Atlético Mineiro,2015-09-27T19:00Z
+28,Sun Sep 27 2015,18:30,-0300,Cruzeiro,2-0,1-0,Coritiba PR,2015-09-27T21:30Z
+28,Sun Sep 27 2015,18:30,-0300,Sport Recife PE,3-0,1-0,Chapecoense,2015-09-27T21:30Z
+29,Sat Oct 3 2015,18:30,-0300,Coritiba PR,0-3,0-1,Atlético Mineiro,2015-10-03T21:30Z
+29,Sat Oct 3 2015,21:00,-0300,São Paulo FC,1-0,0-0,Athletico Paranaense,2015-10-04T00:00Z
+29,Sat Oct 3 2015,18:30,-0300,Internacional,2-1,0-0,Sport Recife PE,2015-10-03T21:30Z
+29,Sun Oct 4 2015,11:00,-0300,Flamengo RJ,2-0,0-0,Joinville SC,2015-10-04T14:00Z
+29,Sun Oct 4 2015,11:00,-0300,Avaí SC,1-1,0-1,Vasco da Gama RJ,2015-10-04T14:00Z
+29,Sun Oct 4 2015,16:00,-0300,Santos FC,3-1,2-0,Fluminense RJ,2015-10-04T19:00Z
+29,Sun Oct 4 2015,16:00,-0300,Ponte Preta,2-2,0-1,Corinthians SP,2015-10-04T19:00Z
+29,Sun Oct 4 2015,16:00,-0300,Cruzeiro,0-0,0-0,Grêmio Porto Alegre,2015-10-04T19:00Z
+29,Sun Oct 4 2015,16:00,-0300,Goiás GO,2-3,1-0,Figueirense SC,2015-10-04T19:00Z
+29,Sun Oct 4 2015,18:30,-0300,Chapecoense,5-1,2-0,Palmeiras,2015-10-04T21:30Z
+30,Wed Oct 14 2015,19:30,-0300,Atlético Mineiro,2-1,1-1,Internacional,2015-10-14T22:30Z
+30,Wed Oct 14 2015,19:30,-0300,Sport Recife PE,3-0,0-0,Avaí SC,2015-10-14T22:30Z
+30,Wed Oct 14 2015,21:00,-0300,Palmeiras,0-1,0-1,Ponte Preta,2015-10-15T00:00Z
+30,Wed Oct 14 2015,21:00,-0300,Figueirense SC,3-0,1-0,Flamengo RJ,2015-10-15T00:00Z
+30,Wed Oct 14 2015,21:00,-0300,Joinville SC,3-1,1-0,Coritiba PR,2015-10-15T00:00Z
+30,Wed Oct 14 2015,22:00,-0300,Fluminense RJ,2-0,1-0,São Paulo FC,2015-10-15T01:00Z
+30,Wed Oct 14 2015,22:00,-0300,Athletico Paranaense,2-2,1-0,Cruzeiro,2015-10-15T01:00Z
+30,Thu Oct 15 2015,19:30,-0300,Vasco da Gama RJ,1-1,0-0,Chapecoense,2015-10-15T22:30Z
+30,Thu Oct 15 2015,21:00,-0300,Grêmio Porto Alegre,1-0,1-0,Santos FC,2015-10-16T00:00Z
+30,Thu Oct 15 2015,19:30,-0300,Corinthians SP,3-0,2-0,Goiás GO,2015-10-15T22:30Z
+31,Sat Oct 17 2015,18:30,-0300,Avaí SC,1-3,0-1,Palmeiras,2015-10-17T21:30Z
+31,Sat Oct 17 2015,21:00,-0300,Joinville SC,1-0,0-0,Figueirense SC,2015-10-18T00:00Z
+31,Sun Oct 18 2015,11:00,-0200,Cruzeiro,2-0,1-0,Fluminense RJ,2015-10-18T13:00Z
+31,Sun Oct 18 2015,16:00,-0200,São Paulo FC,2-2,1-1,Vasco da Gama RJ,2015-10-18T18:00Z
+31,Sun Oct 18 2015,16:00,-0200,Flamengo RJ,0-1,0-1,Internacional,2015-10-18T18:00Z
+31,Sun Oct 18 2015,16:00,-0200,Athletico Paranaense,1-4,0-3,Corinthians SP,2015-10-18T18:00Z
+31,Sun Oct 18 2015,17:00,-0200,Santos FC,3-1,3-0,Goiás GO,2015-10-18T19:00Z
+31,Sun Oct 18 2015,17:00,-0200,Grêmio Porto Alegre,2-3,2-0,Chapecoense,2015-10-18T19:00Z
+31,Sun Oct 18 2015,18:30,-0200,Sport Recife PE,4-1,3-0,Atlético Mineiro,2015-10-18T20:30Z
+31,Sun Oct 18 2015,11:00,-0200,Ponte Preta,3-0,0-0,Coritiba PR,2015-10-18T13:00Z
+32,Sat Oct 24 2015,17:00,-0200,Fluminense RJ,0-1,0-0,Athletico Paranaense,2015-10-24T19:00Z
+32,Sat Oct 24 2015,18:30,-0200,Internacional,1-0,0-0,Joinville SC,2015-10-24T20:30Z
+32,Sat Oct 24 2015,18:30,-0200,Figueirense SC,0-0,0-0,Santos FC,2015-10-24T20:30Z
+32,Sat Oct 24 2015,21:00,-0200,Palmeiras,0-2,0-1,Sport Recife PE,2015-10-24T23:00Z
+32,Sun Oct 25 2015,17:00,-0200,Corinthians SP,1-0,1-0,Flamengo RJ,2015-10-25T19:00Z
+32,Sun Oct 25 2015,17:00,-0200,Vasco da Gama RJ,0-0,0-0,Grêmio Porto Alegre,2015-10-25T19:00Z
+32,Sun Oct 25 2015,17:00,-0200,Coritiba PR,1-2,1-1,São Paulo FC,2015-10-25T19:00Z
+32,Sun Oct 25 2015,17:00,-0200,Chapecoense,0-0,0-0,Avaí SC,2015-10-25T19:00Z
+32,Sun Oct 25 2015,18:00,-0200,Goiás GO,0-1,0-0,Cruzeiro,2015-10-25T20:00Z
+32,Sun Oct 25 2015,19:30,-0200,Atlético Mineiro,2-1,0-0,Ponte Preta,2015-10-25T21:30Z
+33,Sat Oct 31 2015,19:30,-0200,Ponte Preta,1-0,0-0,Joinville SC,2015-10-31T21:30Z
+33,Sat Oct 31 2015,19:30,-0200,Avaí SC,1-1,0-0,Cruzeiro,2015-10-31T21:30Z
+33,Sat Oct 31 2015,21:00,-0200,Coritiba PR,1-1,1-1,Figueirense SC,2015-10-31T23:00Z
+33,Sat Oct 31 2015,17:00,-0200,São Paulo FC,3-0,2-0,Sport Recife PE,2015-10-31T19:00Z
+33,Sun Nov 1 2015,17:00,-0200,Santos FC,2-1,1-0,Palmeiras,2015-11-01T19:00Z
+33,Sun Nov 1 2015,17:00,-0200,Grêmio Porto Alegre,2-0,0-0,Flamengo RJ,2015-11-01T19:00Z
+33,Sun Nov 1 2015,17:00,-0200,Atlético Mineiro,0-3,0-0,Corinthians SP,2015-11-01T19:00Z
+33,Sun Nov 1 2015,17:00,-0200,Chapecoense,0-0,0-0,Athletico Paranaense,2015-11-01T19:00Z
+33,Sun Nov 1 2015,18:00,-0200,Vasco da Gama RJ,0-1,0-1,Fluminense RJ,2015-11-01T20:00Z
+33,Sun Nov 1 2015,19:30,-0200,Goiás GO,2-1,0-1,Internacional,2015-11-01T21:30Z
+34,Sat Nov 7 2015,19:30,-0200,Corinthians SP,2-1,1-0,Coritiba PR,2015-11-07T21:30Z
+34,Sat Nov 7 2015,19:30,-0200,Athletico Paranaense,2-1,2-0,Avaí SC,2015-11-07T21:30Z
+34,Sat Nov 7 2015,21:00,-0200,Fluminense RJ,2-3,1-2,Chapecoense,2015-11-07T23:00Z
+34,Sat Nov 7 2015,17:00,-0200,Internacional,1-0,0-0,Ponte Preta,2015-11-07T19:00Z
+34,Sun Nov 8 2015,17:00,-0200,Palmeiras,0-2,0-2,Vasco da Gama RJ,2015-11-08T19:00Z
+34,Sun Nov 8 2015,17:00,-0200,Flamengo RJ,4-1,1-1,Goiás GO,2015-11-08T19:00Z
+34,Sun Nov 8 2015,17:00,-0200,Cruzeiro,2-1,1-1,São Paulo FC,2015-11-08T19:00Z
+34,Sun Nov 8 2015,17:00,-0200,Figueirense SC,0-1,0-0,Atlético Mineiro,2015-11-08T19:00Z
+34,Sun Nov 8 2015,18:00,-0200,Joinville SC,0-0,0-0,Santos FC,2015-11-08T20:00Z
+34,Sun Nov 8 2015,19:30,-0200,Sport Recife PE,1-0,0-0,Grêmio Porto Alegre,2015-11-08T21:30Z
+35,Sun Nov 15 2015,17:00,-0200,Cruzeiro,3-0,0-0,Sport Recife PE,2015-11-15T19:00Z
+35,Wed Nov 18 2015,21:00,-0200,Ponte Preta,0-1,0-1,Figueirense SC,2015-11-18T23:00Z
+35,Wed Nov 18 2015,21:00,-0200,Avaí SC,2-1,1-1,Joinville SC,2015-11-18T23:00Z
+35,Wed Nov 18 2015,21:00,-0200,Athletico Paranaense,3-3,1-0,Palmeiras,2015-11-18T23:00Z
+35,Wed Nov 18 2015,19:30,-0200,Goiás GO,1-3,0-2,Coritiba PR,2015-11-18T21:30Z
+35,Thu Nov 19 2015,19:30,-0200,Grêmio Porto Alegre,1-0,0-0,Fluminense RJ,2015-11-19T21:30Z
+35,Thu Nov 19 2015,19:30,-0200,Chapecoense,1-0,0-0,Internacional,2015-11-19T21:30Z
+35,Thu Nov 19 2015,22:00,-0200,São Paulo FC,4-2,0-0,Atlético Mineiro,2015-11-20T00:00Z
+35,Thu Nov 19 2015,22:00,-0200,Santos FC,0-0,0-0,Flamengo RJ,2015-11-20T00:00Z
+35,Thu Nov 19 2015,22:00,-0200,Vasco da Gama RJ,1-1,0-0,Corinthians SP,2015-11-20T00:00Z
+36,Sat Nov 21 2015,19:30,-0200,Palmeiras,1-1,0-1,Cruzeiro,2015-11-21T21:30Z
+36,Sun Nov 22 2015,17:00,-0200,Corinthians SP,6-1,3-0,São Paulo FC,2015-11-22T19:00Z
+36,Sun Nov 22 2015,17:00,-0200,Internacional,1-0,0-0,Grêmio Porto Alegre,2015-11-22T19:00Z
+36,Sun Nov 22 2015,17:00,-0200,Atlético Mineiro,2-2,1-1,Goiás GO,2015-11-22T19:00Z
+36,Sun Nov 22 2015,17:00,-0200,Figueirense SC,0-0,0-0,Chapecoense,2015-11-22T19:00Z
+36,Sun Nov 22 2015,17:00,-0200,Joinville SC,1-2,0-2,Vasco da Gama RJ,2015-11-22T19:00Z
+36,Sun Nov 22 2015,18:00,-0200,Flamengo RJ,1-1,0-0,Ponte Preta,2015-11-22T20:00Z
+36,Sun Nov 22 2015,19:30,-0200,Fluminense RJ,3-1,1-0,Avaí SC,2015-11-22T21:30Z
+36,Sun Nov 22 2015,19:30,-0200,Coritiba PR,1-0,0-0,Santos FC,2015-11-22T21:30Z
+36,Sun Nov 22 2015,19:30,-0200,Sport Recife PE,0-0,0-0,Athletico Paranaense,2015-11-22T21:30Z
+37,Sat Nov 28 2015,17:00,-0200,São Paulo FC,3-2,1-1,Figueirense SC,2015-11-28T19:00Z
+37,Sat Nov 28 2015,19:30,-0200,Fluminense RJ,1-1,0-1,Internacional,2015-11-28T21:30Z
+37,Sat Nov 28 2015,21:00,-0200,Avaí SC,1-0,0-0,Ponte Preta,2015-11-28T23:00Z
+37,Sun Nov 29 2015,17:00,-0200,Cruzeiro,3-0,2-0,Joinville SC,2015-11-29T19:00Z
+37,Sun Nov 29 2015,17:00,-0200,Sport Recife PE,2-0,1-0,Corinthians SP,2015-11-29T19:00Z
+37,Sun Nov 29 2015,18:00,-0200,Palmeiras,0-2,0-1,Coritiba PR,2015-11-29T20:00Z
+37,Sun Nov 29 2015,18:00,-0200,Vasco da Gama RJ,1-0,1-0,Santos FC,2015-11-29T20:00Z
+37,Sun Nov 29 2015,18:00,-0200,Chapecoense,1-3,0-2,Goiás GO,2015-11-29T20:00Z
+37,Sun Nov 29 2015,19:30,-0200,Athletico Paranaense,3-0,2-0,Flamengo RJ,2015-11-29T21:30Z
+37,Sun Nov 29 2015,17:00,-0200,Grêmio Porto Alegre,2-1,1-1,Atlético Mineiro,2015-11-29T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Corinthians SP,1-1,0-0,Avaí SC,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Santos FC,5-1,2-1,Athletico Paranaense,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Ponte Preta,0-1,0-0,Sport Recife PE,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Flamengo RJ,1-2,0-0,Palmeiras,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Internacional,2-0,1-0,Cruzeiro,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Atlético Mineiro,3-0,1-0,Chapecoense,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Figueirense SC,1-0,0-0,Fluminense RJ,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Coritiba PR,0-0,0-0,Vasco da Gama RJ,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Goiás GO,0-1,0-0,São Paulo FC,2015-12-06T19:00Z
+38,Sun Dec 6 2015,17:00,-0200,Joinville SC,0-2,0-1,Grêmio Porto Alegre,2015-12-06T19:00Z

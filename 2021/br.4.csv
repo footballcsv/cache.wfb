@@ -1,0 +1,519 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,UTC
+Qualifikation,Wed May 26 2021,16:00,-0300,Tocantinópolis TO,2-0,1-0,Picos PI,,,2021-05-26T19:00Z
+Qualifikation,Wed May 26 2021,16:00,-0300,Real Ariquemes RO,0-2,0-0,Brasiliense DF,,,2021-05-26T19:00Z
+Qualifikation,Wed May 26 2021,16:00,-0300,Aquidauanense MS,1-4,1-3,Rio Branco ES,,,2021-05-26T19:00Z
+Qualifikation,Wed May 26 2021,15:00,-0300,Santana AP,1-2,1-0,GA Sampaio RR,,,2021-05-26T18:00Z
+Qualifikation,Sun May 30 2021,16:00,-0300,Picos PI,3-1,1-0,Tocantinópolis TO,3-1,1-4,2021-05-30T19:00Z
+Qualifikation,Sun May 30 2021,17:00,-0300,GA Sampaio RR,3-0,2-0,Santana AP,,,2021-05-30T20:00Z
+Qualifikation,Sun May 30 2021,18:00,-0300,Rio Branco ES,2-0,0-0,Aquidauanense MS,,,2021-05-30T21:00Z
+Qualifikation,Sun May 30 2021,15:00,-0300,Brasiliense DF,3-1,1-0,Real Ariquemes RO,,,2021-05-30T18:00Z
+Gruppe A,Sat Jun 5 2021,17:00,-0300,Fast Clube AM,3-3,2-3,Ypiranga AP,,,2021-06-05T20:00Z
+Gruppe E,Sat Jun 5 2021,15:30,-0300,Jaraguá GO,1-3,1-2,Gama DF,,,2021-06-05T18:30Z
+Gruppe D,Sat Jun 5 2021,16:00,-0300,Bahia de Feira BA,1-1,1-1,Sergipe SE,,,2021-06-05T19:00Z
+Gruppe F,Sat Jun 5 2021,17:00,-0300,Boa Esporte MG,4-0,2-0,Águia Negra MS,,,2021-06-05T20:00Z
+Gruppe F,Sat Jun 5 2021,17:00,-0300,Ferroviária SP,0-3,0-2,Uberlândia MG,,,2021-06-05T20:00Z
+Gruppe C,Sat Jun 5 2021,16:00,-0300,Sousa PB,2-1,1-1,Atlético Cearense CE,,,2021-06-05T19:00Z
+Gruppe C,Sat Jun 5 2021,15:00,-0300,América RN,1-0,0-0,Central PE,,,2021-06-05T18:00Z
+Gruppe G,Sat Jun 5 2021,15:00,-0300,Bangu RJ,1-2,1-1,Santo André SP,,,2021-06-05T18:00Z
+Gruppe G,Sat Jun 5 2021,19:00,-0300,Portuguesa SP,2-2,2-1,Cianorte PR,,,2021-06-05T22:00Z
+Gruppe E,Sat Jun 5 2021,15:00,-0300,Brasiliense DF,1-1,1-0,Goianésia GO,,,2021-06-05T18:00Z
+Gruppe B,Sat Jun 5 2021,15:00,-0300,Juventude MA,0-0,0-0,4 de Julho PI,,,2021-06-05T18:00Z
+Gruppe B,Sat Jun 5 2021,15:00,-0300,Guarany de Sobral CE,1-0,1-0,Paragominas PA,,,2021-06-05T18:00Z
+Gruppe H,Sat Jun 5 2021,16:00,-0300,Cascavel FC PR,3-3,2-0,Joinville SC,,,2021-06-05T19:00Z
+Gruppe A,Sun Jun 6 2021,17:00,-0300,GA Sampaio RR,0-1,0-0,Penarol AM,,,2021-06-06T20:00Z
+Gruppe A,Sun Jun 6 2021,15:00,-0300,Castanhal PA,4-1,1-1,Galvez AC,,,2021-06-06T18:00Z
+Gruppe E,Sun Jun 6 2021,16:00,-0300,União Rondonópolis MT,1-1,0-1,Porto Velho EC RO,,,2021-06-06T19:00Z
+Gruppe E,Sun Jun 6 2021,16:00,-0300,Aparecidense GO,3-1,1-0,Nova Mutum MT,,,2021-06-06T19:00Z
+Gruppe G,Sun Jun 6 2021,18:00,-0300,Boavista RJ,0-0,0-0,São Bento SP,,,2021-06-06T21:00Z
+Gruppe C,Sun Jun 6 2021,16:00,-0300,Treze PB,0-1,0-0,ABC RN,,,2021-06-06T19:00Z
+Gruppe C,Sun Jun 6 2021,16:00,-0300,Caucaia CE,3-3,0-1,Campinense PB,,,2021-06-06T19:00Z
+Gruppe B,Sun Jun 6 2021,16:00,-0300,Imperatriz MA,3-2,1-1,Palmas TO,,,2021-06-06T19:00Z
+Gruppe B,Sun Jun 6 2021,16:00,-0300,Tocantinópolis TO,1-1,1-1,Moto Club MA,,,2021-06-06T19:00Z
+Gruppe H,Sun Jun 6 2021,15:00,-0300,Rio Branco PR,0-0,0-0,Esportivo RS,,,2021-06-06T18:00Z
+Gruppe H,Sun Jun 6 2021,16:00,-0300,Juventus SC,1-1,1-1,S.E.R. Caxias RS,,,2021-06-06T19:00Z
+Gruppe H,Sun Jun 6 2021,16:00,-0300,Aimoré RS,4-1,1-0,Marcílio Dias SC,,,2021-06-06T19:00Z
+Gruppe D,Sun Jun 6 2021,16:00,-0300,ASA AL,0-0,0-0,Atlético de Alagoinhas BA,,,2021-06-06T19:00Z
+Gruppe D,Sun Jun 6 2021,16:00,-0300,Retrô PE,1-0,0-0,Murici AL,,,2021-06-06T19:00Z
+Gruppe D,Sun Jun 6 2021,16:00,-0300,Itabaiana SE,1-1,0-0,Juazeirense BA,,,2021-06-06T19:00Z
+Gruppe G,Sun Jun 6 2021,17:00,-0300,Inter de Limeira SP,0-3,0-2,Madureira RJ,,,2021-06-06T20:00Z
+Gruppe A,Sun Jun 6 2021,18:00,-0300,Atlético Acreano AC,2-3,0-1,São Raimundo RR,,,2021-06-06T21:00Z
+Gruppe F,Sun Jun 6 2021,16:00,-0300,Atlético Patrocinense MG,1-1,1-0,Rio Branco VN ES,,,2021-06-06T19:00Z
+Gruppe F,Sun Jun 6 2021,15:00,-0300,Rio Branco ES,1-2,1-0,Caldense MG,,,2021-06-06T18:00Z
+Gruppe A,Sat Jun 12 2021,17:00,-0300,São Raimundo RR,1-1,1-0,Fast Clube AM,,,2021-06-12T20:00Z
+Gruppe F,Sat Jun 12 2021,16:00,-0300,Uberlândia MG,3-2,1-0,Rio Branco ES,,,2021-06-12T19:00Z
+Gruppe D,Sat Jun 12 2021,16:00,-0300,Murici AL,2-0,1-0,Bahia de Feira BA,,,2021-06-12T19:00Z
+Gruppe D,Sat Jun 12 2021,16:00,-0300,Atlético de Alagoinhas BA,0-0,0-0,Itabaiana SE,,,2021-06-12T19:00Z
+Gruppe H,Sat Jun 12 2021,15:00,-0300,Joinville SC,1-0,0-0,Aimoré RS,,,2021-06-12T18:00Z
+Gruppe H,Sat Jun 12 2021,19:00,-0300,Esportivo RS,2-1,0-1,Juventus SC,,,2021-06-12T22:00Z
+Gruppe B,Sat Jun 12 2021,19:00,-0300,4 de Julho PI,2-0,0-0,Imperatriz MA,,,2021-06-12T22:00Z
+Gruppe C,Sat Jun 12 2021,15:00,-0300,Atlético Cearense CE,2-2,1-1,Treze PB,,,2021-06-12T18:00Z
+Gruppe B,Sat Jun 12 2021,15:30,-0300,Moto Club MA,0-2,0-1,Guarany de Sobral CE,,,2021-06-12T18:30Z
+Gruppe B,Sat Jun 12 2021,16:00,-0300,Palmas TO,1-2,0-0,Juventude MA,,,2021-06-12T19:00Z
+Gruppe E,Sat Jun 12 2021,15:30,-0300,Gama DF,0-0,0-0,Aparecidense GO,,,2021-06-12T18:30Z
+Gruppe G,Sat Jun 12 2021,17:00,-0300,São Bento SP,1-1,0-0,Bangu RJ,,,2021-06-12T20:00Z
+Gruppe A,Sun Jun 13 2021,20:00,-0300,Galvez AC,2-1,1-1,GA Sampaio RR,,,2021-06-13T23:00Z
+Gruppe A,Sun Jun 13 2021,16:00,-0300,Penarol AM,0-1,0-0,Castanhal PA,,,2021-06-13T19:00Z
+Gruppe A,Sun Jun 13 2021,16:00,-0300,Ypiranga AP,2-1,1-0,Atlético Acreano AC,,,2021-06-13T19:00Z
+Gruppe G,Sun Jun 13 2021,15:00,-0300,Santo André SP,0-1,0-0,Boavista RJ,,,2021-06-13T18:00Z
+Gruppe H,Sun Jun 13 2021,16:00,-0300,S.E.R. Caxias RS,5-1,1-0,Rio Branco PR,,,2021-06-13T19:00Z
+Gruppe H,Sun Jun 13 2021,15:00,-0300,Marcílio Dias SC,1-1,0-1,Cascavel FC PR,,,2021-06-13T18:00Z
+Gruppe C,Sun Jun 13 2021,15:00,-0300,Campinense PB,3-0,3-0,América RN,,,2021-06-13T18:00Z
+Gruppe C,Sun Jun 13 2021,16:00,-0300,ABC RN,4-0,1-0,Sousa PB,,,2021-06-13T19:00Z
+Gruppe F,Sun Jun 13 2021,16:00,-0300,Caldense MG,0-1,0-0,Ferroviária SP,,,2021-06-13T19:00Z
+Gruppe F,Sun Jun 13 2021,15:00,-0300,Rio Branco VN ES,2-1,1-1,Boa Esporte MG,,,2021-06-13T18:00Z
+Gruppe D,Sun Jun 13 2021,15:00,-0300,Sergipe SE,1-0,1-0,Retrô PE,,,2021-06-13T18:00Z
+Gruppe G,Sun Jun 13 2021,15:00,-0300,Madureira RJ,1-1,0-0,Portuguesa SP,,,2021-06-13T18:00Z
+Gruppe G,Sun Jun 13 2021,16:00,-0300,Cianorte PR,0-0,0-0,Inter de Limeira SP,,,2021-06-13T19:00Z
+Gruppe B,Sun Jun 13 2021,16:00,-0300,Paragominas PA,4-1,1-0,Tocantinópolis TO,,,2021-06-13T19:00Z
+Gruppe D,Sun Jun 13 2021,16:00,-0300,Juazeirense BA,2-0,0-0,ASA AL,,,2021-06-13T19:00Z
+Gruppe E,Sun Jun 13 2021,16:00,-0300,Nova Mutum MT,2-0,1-0,Jaraguá GO,,,2021-06-13T19:00Z
+Gruppe E,Sun Jun 13 2021,16:00,-0300,Goianésia GO,3-3,1-1,União Rondonópolis MT,,,2021-06-13T19:00Z
+Gruppe E,Sun Jun 13 2021,16:00,-0300,Porto Velho EC RO,1-3,0-3,Brasiliense DF,,,2021-06-13T19:00Z
+Gruppe C,Sun Jun 13 2021,15:00,-0300,Central PE,3-2,1-1,Caucaia CE,,,2021-06-13T18:00Z
+Gruppe A,Sat Jun 19 2021,18:00,-0300,Fast Clube AM,3-2,0-2,Penarol AM,,,2021-06-19T21:00Z
+Gruppe B,Sat Jun 19 2021,15:00,-0300,Guarany de Sobral CE,2-1,0-0,Palmas TO,,,2021-06-19T18:00Z
+Gruppe B,Sat Jun 19 2021,16:00,-0300,Imperatriz MA,2-2,1-1,Paragominas PA,,,2021-06-19T19:00Z
+Gruppe B,Sat Jun 19 2021,19:00,-0300,4 de Julho PI,1-1,0-0,Tocantinópolis TO,,,2021-06-19T22:00Z
+Gruppe H,Sat Jun 19 2021,15:00,-0300,Joinville SC,1-0,1-0,Juventus SC,,,2021-06-19T18:00Z
+Gruppe G,Sat Jun 19 2021,15:00,-0300,Portuguesa SP,1-0,0-0,Santo André SP,,,2021-06-19T18:00Z
+Gruppe G,Sat Jun 19 2021,18:00,-0300,Boavista RJ,1-1,0-0,Madureira RJ,,,2021-06-19T21:00Z
+Gruppe H,Sat Jun 19 2021,19:00,-0300,Cascavel FC PR,1-0,1-0,S.E.R. Caxias RS,,,2021-06-19T22:00Z
+Gruppe F,Sat Jun 19 2021,17:00,-0300,Ferroviária SP,1-0,1-0,Rio Branco VN ES,,,2021-06-19T20:00Z
+Gruppe F,Sat Jun 19 2021,16:00,-0300,Uberlândia MG,1-1,1-0,Atlético Patrocinense MG,,,2021-06-19T19:00Z
+Gruppe D,Sat Jun 19 2021,16:00,-0300,Bahia de Feira BA,1-1,0-1,Juazeirense BA,,,2021-06-19T19:00Z
+Gruppe E,Sat Jun 19 2021,15:00,-0300,Brasiliense DF,3-1,1-1,Nova Mutum MT,,,2021-06-19T18:00Z
+Gruppe E,Sat Jun 19 2021,15:30,-0300,Jaraguá GO,0-0,0-0,Porto Velho EC RO,,,2021-06-19T18:30Z
+Gruppe E,Sat Jun 19 2021,16:00,-0300,União Rondonópolis MT,2-1,2-0,Gama DF,,,2021-06-19T19:00Z
+Gruppe E,Sat Jun 19 2021,16:00,-0300,Goianésia GO,0-0,0-0,Aparecidense GO,,,2021-06-19T19:00Z
+Gruppe D,Sat Jun 19 2021,16:00,-0300,Murici AL,0-1,0-0,ASA AL,,,2021-06-19T19:00Z
+Gruppe A,Sat Jun 19 2021,15:00,-0300,Castanhal PA,1-1,1-0,São Raimundo RR,,,2021-06-19T18:00Z
+Gruppe A,Sat Jun 19 2021,17:00,-0300,GA Sampaio RR,1-2,0-1,Ypiranga AP,,,2021-06-19T20:00Z
+Gruppe A,Sun Jun 20 2021,18:00,-0300,Galvez AC,2-1,0-1,Atlético Acreano AC,,,2021-06-20T21:00Z
+Gruppe G,Sun Jun 20 2021,15:00,-0300,Bangu RJ,1-1,0-1,Cianorte PR,,,2021-06-20T18:00Z
+Gruppe G,Sun Jun 20 2021,16:00,-0300,São Bento SP,0-0,0-0,Inter de Limeira SP,,,2021-06-20T19:00Z
+Gruppe H,Sun Jun 20 2021,16:00,-0300,Aimoré RS,1-1,0-0,Esportivo RS,,,2021-06-20T19:00Z
+Gruppe H,Sun Jun 20 2021,15:00,-0300,Rio Branco PR,0-1,0-0,Marcílio Dias SC,,,2021-06-20T18:00Z
+Gruppe D,Sun Jun 20 2021,16:00,-0300,Itabaiana SE,2-1,1-0,Sergipe SE,,,2021-06-20T19:00Z
+Gruppe D,Sun Jun 20 2021,16:00,-0300,Retrô PE,3-1,1-0,Atlético de Alagoinhas BA,,,2021-06-20T19:00Z
+Gruppe F,Sun Jun 20 2021,17:00,-0300,Boa Esporte MG,1-1,0-0,Caldense MG,,,2021-06-20T20:00Z
+Gruppe C,Sun Jun 20 2021,15:00,-0300,Atlético Cearense CE,4-1,0-0,Caucaia CE,,,2021-06-20T18:00Z
+Gruppe C,Sun Jun 20 2021,16:00,-0300,Treze PB,2-2,0-1,Central PE,,,2021-06-20T19:00Z
+Gruppe C,Sun Jun 20 2021,16:00,-0300,América RN,2-3,1-1,ABC RN,,,2021-06-20T19:00Z
+Gruppe F,Sun Jun 20 2021,15:00,-0300,Rio Branco ES,2-0,1-0,Águia Negra MS,,,2021-06-20T18:00Z
+Gruppe B,Sun Jun 20 2021,15:30,-0300,Juventude MA,0-3,0-0,Moto Club MA,,,2021-06-20T18:30Z
+Gruppe C,Wed Jun 23 2021,16:00,-0300,Sousa PB,3-2,1-1,Campinense PB,,,2021-06-23T19:00Z
+Gruppe E,Sat Jun 26 2021,16:00,-0300,União Rondonópolis MT,2-1,2-1,Brasiliense DF,,,2021-06-26T19:00Z
+Gruppe F,Sat Jun 26 2021,16:00,-0300,Atlético Patrocinense MG,1-3,1-0,Boa Esporte MG,,,2021-06-26T19:00Z
+Gruppe F,Sat Jun 26 2021,16:00,-0300,Caldense MG,3-1,2-0,Uberlândia MG,,,2021-06-26T19:00Z
+Gruppe G,Sat Jun 26 2021,17:00,-0300,Inter de Limeira SP,1-1,1-0,Portuguesa SP,,,2021-06-26T20:00Z
+Gruppe G,Sat Jun 26 2021,15:00,-0300,Santo André SP,1-1,0-1,São Bento SP,,,2021-06-26T18:00Z
+Gruppe H,Sat Jun 26 2021,15:00,-0300,Marcílio Dias SC,1-1,0-0,Joinville SC,,,2021-06-26T18:00Z
+Gruppe H,Sat Jun 26 2021,19:00,-0300,Esportivo RS,1-1,0-0,S.E.R. Caxias RS,,,2021-06-26T22:00Z
+Gruppe B,Sat Jun 26 2021,16:00,-0300,Palmas TO,1-2,1-0,4 de Julho PI,,,2021-06-26T19:00Z
+Gruppe B,Sat Jun 26 2021,16:00,-0300,Imperatriz MA,1-1,1-1,Juventude MA,,,2021-06-26T19:00Z
+Gruppe E,Sat Jun 26 2021,16:00,-0300,Aparecidense GO,1-0,1-0,Jaraguá GO,,,2021-06-26T19:00Z
+Gruppe A,Sat Jun 26 2021,17:00,-0300,GA Sampaio RR,2-2,1-1,Castanhal PA,,,2021-06-26T20:00Z
+Gruppe E,Sat Jun 26 2021,15:30,-0300,Gama DF,0-3,0-2,Nova Mutum MT,,,2021-06-26T18:30Z
+Gruppe E,Sat Jun 26 2021,16:00,-0300,Porto Velho EC RO,0-1,0-1,Goianésia GO,,,2021-06-26T19:00Z
+Gruppe C,Sat Jun 26 2021,16:00,-0300,Caucaia CE,2-2,1-2,América RN,,,2021-06-26T19:00Z
+Gruppe G,Sun Jun 27 2021,16:00,-0300,Cianorte PR,0-0,0-0,Madureira RJ,,,2021-06-27T19:00Z
+Gruppe D,Sun Jun 27 2021,16:00,-0300,Bahia de Feira BA,1-1,0-0,Retrô PE,,,2021-06-27T19:00Z
+Gruppe D,Sun Jun 27 2021,16:00,-0300,Juazeirense BA,1-0,1-0,Atlético de Alagoinhas BA,,,2021-06-27T19:00Z
+Gruppe D,Sun Jun 27 2021,16:00,-0300,Sergipe SE,2-1,1-0,Murici AL,,,2021-06-27T19:00Z
+Gruppe D,Sun Jun 27 2021,16:00,-0300,ASA AL,0-2,0-1,Itabaiana SE,,,2021-06-27T19:00Z
+Gruppe H,Sun Jun 27 2021,15:00,-0300,Juventus SC,0-0,0-0,Rio Branco PR,,,2021-06-27T18:00Z
+Gruppe H,Sun Jun 27 2021,16:00,-0300,Aimoré RS,1-3,1-0,Cascavel FC PR,,,2021-06-27T19:00Z
+Gruppe F,Sun Jun 27 2021,15:00,-0300,Rio Branco ES,0-3,0-1,Ferroviária SP,,,2021-06-27T18:00Z
+Gruppe F,Sun Jun 27 2021,16:00,-0300,Águia Negra MS,2-2,0-2,Rio Branco VN ES,,,2021-06-27T19:00Z
+Gruppe A,Sun Jun 27 2021,16:00,-0300,Ypiranga AP,0-1,0-1,São Raimundo RR,,,2021-06-27T19:00Z
+Gruppe C,Sun Jun 27 2021,16:00,-0300,Treze PB,1-1,0-0,Sousa PB,,,2021-06-27T19:00Z
+Gruppe A,Sun Jun 27 2021,20:00,-0300,Atlético Acreano AC,0-0,0-0,Fast Clube AM,,,2021-06-27T23:00Z
+Gruppe A,Sun Jun 27 2021,16:00,-0300,Penarol AM,2-0,1-0,Galvez AC,,,2021-06-27T19:00Z
+Gruppe B,Sun Jun 27 2021,16:00,-0300,Paragominas PA,2-2,1-1,Moto Club MA,,,2021-06-27T19:00Z
+Gruppe B,Sun Jun 27 2021,16:00,-0300,Tocantinópolis TO,4-2,1-0,Guarany de Sobral CE,,,2021-06-27T19:00Z
+Gruppe G,Sun Jun 27 2021,16:00,-0300,Bangu RJ,0-2,0-2,Boavista RJ,,,2021-06-27T19:00Z
+Gruppe C,Sun Jun 27 2021,15:00,-0300,Central PE,0-1,0-0,Campinense PB,,,2021-06-27T18:00Z
+Gruppe C,Sun Jun 27 2021,15:00,-0300,ABC RN,0-2,0-1,Atlético Cearense CE,,,2021-06-27T18:00Z
+Gruppe F,Wed Jun 30 2021,17:00,-0300,Águia Negra MS,4-1,1-0,Atlético Patrocinense MG,,,2021-06-30T20:00Z
+Gruppe C,Sat Jul 3 2021,15:00,-0300,Campinense PB,0-0,0-0,Treze PB,,,2021-07-03T18:00Z
+Gruppe C,Sat Jul 3 2021,15:00,-0300,América RN,2-0,2-0,Atlético Cearense CE,,,2021-07-03T18:00Z
+Gruppe C,Sat Jul 3 2021,16:00,-0300,Caucaia CE,3-2,0-2,ABC RN,,,2021-07-03T19:00Z
+Gruppe D,Sat Jul 3 2021,16:00,-0300,ASA AL,1-3,0-1,Sergipe SE,,,2021-07-03T19:00Z
+Gruppe E,Sat Jul 3 2021,16:00,-0300,Aparecidense GO,0-1,0-0,Porto Velho EC RO,,,2021-07-03T19:00Z
+Gruppe E,Sat Jul 3 2021,15:00,-0300,Brasiliense DF,0-0,0-0,Gama DF,,,2021-07-03T18:00Z
+Gruppe B,Sat Jul 3 2021,15:00,-0300,Guarany de Sobral CE,3-1,1-1,4 de Julho PI,,,2021-07-03T18:00Z
+Gruppe B,Sat Jul 3 2021,15:30,-0300,Juventude MA,1-3,1-1,Paragominas PA,,,2021-07-03T18:30Z
+Gruppe A,Sat Jul 3 2021,15:00,-0300,Castanhal PA,2-1,1-1,Ypiranga AP,,,2021-07-03T18:00Z
+Gruppe A,Sat Jul 3 2021,17:00,-0300,São Raimundo RR,1-1,0-0,GA Sampaio RR,,,2021-07-03T20:00Z
+Gruppe A,Sat Jul 3 2021,18:00,-0300,Fast Clube AM,1-2,0-1,Galvez AC,,,2021-07-03T21:00Z
+Gruppe G,Sat Jul 3 2021,17:00,-0300,Inter de Limeira SP,1-2,0-0,Santo André SP,,,2021-07-03T20:00Z
+Gruppe G,Sat Jul 3 2021,15:00,-0300,Boavista RJ,1-1,0-0,Cianorte PR,,,2021-07-03T18:00Z
+Gruppe B,Sat Jul 3 2021,16:00,-0300,Tocantinópolis TO,1-4,0-2,Palmas TO,,,2021-07-03T19:00Z
+Gruppe D,Sat Jul 3 2021,16:00,-0300,Atlético de Alagoinhas BA,2-2,1-1,Bahia de Feira BA,,,2021-07-03T19:00Z
+Gruppe H,Sat Jul 3 2021,16:00,-0300,Cascavel FC PR,2-1,1-0,Esportivo RS,,,2021-07-03T19:00Z
+Gruppe F,Sat Jul 3 2021,17:00,-0300,Ferroviária SP,7-0,2-0,Águia Negra MS,,,2021-07-03T20:00Z
+Gruppe F,Sat Jul 3 2021,17:00,-0300,Boa Esporte MG,2-2,2-0,Uberlândia MG,,,2021-07-03T20:00Z
+Gruppe H,Sun Jul 4 2021,15:00,-0300,Rio Branco PR,0-0,0-0,Joinville SC,,,2021-07-04T18:00Z
+Gruppe D,Sun Jul 4 2021,16:00,-0300,Retrô PE,0-0,0-0,Juazeirense BA,,,2021-07-04T19:00Z
+Gruppe F,Sun Jul 4 2021,15:00,-0300,Rio Branco VN ES,0-0,0-0,Rio Branco ES,,,2021-07-04T18:00Z
+Gruppe D,Sun Jul 4 2021,16:00,-0300,Itabaiana SE,1-0,0-0,Murici AL,,,2021-07-04T19:00Z
+Gruppe E,Sun Jul 4 2021,16:00,-0300,Nova Mutum MT,1-0,0-0,União Rondonópolis MT,,,2021-07-04T19:00Z
+Gruppe H,Sun Jul 4 2021,15:00,-0300,Juventus SC,2-0,1-0,Marcílio Dias SC,,,2021-07-04T18:00Z
+Gruppe H,Sun Jul 4 2021,15:00,-0300,S.E.R. Caxias RS,2-1,1-0,Aimoré RS,,,2021-07-04T18:00Z
+Gruppe B,Sun Jul 4 2021,15:30,-0300,Moto Club MA,1-1,1-0,Imperatriz MA,,,2021-07-04T18:30Z
+Gruppe E,Sun Jul 4 2021,15:30,-0300,Jaraguá GO,0-3,0-2,Goianésia GO,,,2021-07-04T18:30Z
+Gruppe A,Sun Jul 4 2021,18:00,-0300,Atlético Acreano AC,1-2,0-1,Penarol AM,,,2021-07-04T21:00Z
+Gruppe G,Sun Jul 4 2021,15:00,-0300,Madureira RJ,1-0,1-0,Bangu RJ,,,2021-07-04T18:00Z
+Gruppe G,Sun Jul 4 2021,19:00,-0300,Portuguesa SP,2-0,1-0,São Bento SP,,,2021-07-04T22:00Z
+Gruppe C,Sun Jul 4 2021,16:00,-0300,Sousa PB,0-0,0-0,Central PE,,,2021-07-04T19:00Z
+Gruppe F,Mon Jul 5 2021,16:00,-0300,Atlético Patrocinense MG,2-3,0-0,Caldense MG,,,2021-07-05T19:00Z
+Gruppe H,Sat Jul 10 2021,15:00,-0300,Marcílio Dias SC,2-1,1-0,Esportivo RS,,,2021-07-10T18:00Z
+Gruppe H,Sat Jul 10 2021,15:00,-0300,Joinville SC,2-0,0-0,S.E.R. Caxias RS,,,2021-07-10T18:00Z
+Gruppe G,Sat Jul 10 2021,15:00,-0300,Bangu RJ,2-1,0-1,Portuguesa SP,,,2021-07-10T18:00Z
+Gruppe B,Sat Jul 10 2021,16:00,-0300,Palmas TO,0-0,0-0,Paragominas PA,,,2021-07-10T19:00Z
+Gruppe B,Sat Jul 10 2021,16:00,-0300,4 de Julho PI,2-0,0-0,Moto Club MA,,,2021-07-10T19:00Z
+Gruppe C,Sat Jul 10 2021,16:00,-0300,Sousa PB,7-0,3-0,Caucaia CE,,,2021-07-10T19:00Z
+Gruppe C,Sat Jul 10 2021,15:00,-0300,Atlético Cearense CE,2-3,1-3,Campinense PB,,,2021-07-10T18:00Z
+Gruppe A,Sat Jul 10 2021,15:00,-0300,Castanhal PA,3-1,2-1,Atlético Acreano AC,,,2021-07-10T18:00Z
+Gruppe B,Sat Jul 10 2021,16:00,-0300,Imperatriz MA,1-0,0-0,Guarany de Sobral CE,,,2021-07-10T19:00Z
+Gruppe E,Sat Jul 10 2021,15:00,-0300,Brasiliense DF,1-2,0-0,Aparecidense GO,,,2021-07-10T18:00Z
+Gruppe E,Sat Jul 10 2021,16:00,-0300,União Rondonópolis MT,2-1,2-1,Jaraguá GO,,,2021-07-10T19:00Z
+Gruppe E,Sat Jul 10 2021,16:00,-0300,Goianésia GO,1-0,0-0,Nova Mutum MT,,,2021-07-10T19:00Z
+Gruppe E,Sat Jul 10 2021,16:30,-0300,Porto Velho EC RO,1-1,0-1,Gama DF,,,2021-07-10T19:30Z
+Gruppe D,Sat Jul 10 2021,16:00,-0300,Murici AL,2-3,1-2,Atlético de Alagoinhas BA,,,2021-07-10T19:00Z
+Gruppe F,Sat Jul 10 2021,17:00,-0300,Ferroviária SP,1-0,1-0,Atlético Patrocinense MG,,,2021-07-10T20:00Z
+Gruppe A,Sat Jul 10 2021,18:00,-0300,GA Sampaio RR,3-2,1-1,Fast Clube AM,,,2021-07-10T21:00Z
+Gruppe G,Sat Jul 10 2021,16:00,-0300,São Bento SP,1-1,1-0,Madureira RJ,,,2021-07-10T19:00Z
+Gruppe G,Sat Jul 10 2021,15:00,-0300,Santo André SP,1-0,1-0,Cianorte PR,,,2021-07-10T18:00Z
+Gruppe H,Sat Jul 10 2021,16:00,-0300,Cascavel FC PR,1-0,0-0,Juventus SC,,,2021-07-10T19:00Z
+Gruppe F,Sat Jul 10 2021,16:00,-0300,Caldense MG,6-2,1-2,Águia Negra MS,,,2021-07-10T19:00Z
+Gruppe F,Sun Jul 11 2021,16:00,-0300,Uberlândia MG,2-1,0-0,Rio Branco VN ES,,,2021-07-11T19:00Z
+Gruppe H,Sun Jul 11 2021,15:00,-0300,Aimoré RS,1-0,1-0,Rio Branco PR,,,2021-07-11T18:00Z
+Gruppe C,Sun Jul 11 2021,16:00,-0300,Treze PB,2-2,1-1,América RN,,,2021-07-11T19:00Z
+Gruppe F,Sun Jul 11 2021,15:00,-0300,Rio Branco ES,1-2,0-0,Boa Esporte MG,,,2021-07-11T18:00Z
+Gruppe C,Sun Jul 11 2021,16:00,-0300,ABC RN,2-0,1-0,Central PE,,,2021-07-11T19:00Z
+Gruppe D,Sun Jul 11 2021,16:00,-0300,Retrô PE,3-3,3-2,ASA AL,,,2021-07-11T19:00Z
+Gruppe G,Sun Jul 11 2021,16:00,-0300,Boavista RJ,0-1,0-1,Inter de Limeira SP,,,2021-07-11T19:00Z
+Gruppe A,Sun Jul 11 2021,16:00,-0300,Penarol AM,1-1,0-1,Ypiranga AP,,,2021-07-11T19:00Z
+Gruppe A,Sun Jul 11 2021,17:00,-0300,Galvez AC,0-1,0-0,São Raimundo RR,,,2021-07-11T20:00Z
+Gruppe D,Sun Jul 11 2021,16:00,-0300,Bahia de Feira BA,0-1,0-1,Itabaiana SE,,,2021-07-11T19:00Z
+Gruppe D,Sun Jul 11 2021,16:00,-0300,Sergipe SE,0-1,0-1,Juazeirense BA,,,2021-07-11T19:00Z
+Gruppe B,Sun Jul 11 2021,15:30,-0300,Juventude MA,3-3,1-1,Tocantinópolis TO,,,2021-07-11T18:30Z
+Gruppe D,Sat Jul 17 2021,16:00,-0300,Juazeirense BA,2-1,2-1,Murici AL,,,2021-07-17T19:00Z
+Gruppe G,Sat Jul 17 2021,16:00,-0300,Cianorte PR,1-0,1-0,São Bento SP,,,2021-07-17T19:00Z
+Gruppe C,Sat Jul 17 2021,15:00,-0300,América RN,4-1,2-1,Sousa PB,,,2021-07-17T18:00Z
+Gruppe C,Sat Jul 17 2021,15:00,-0300,Campinense PB,0-1,0-1,ABC RN,,,2021-07-17T18:00Z
+Gruppe C,Sat Jul 17 2021,16:00,-0300,Caucaia CE,0-4,0-3,Treze PB,,,2021-07-17T19:00Z
+Gruppe E,Sat Jul 17 2021,16:00,-0300,Aparecidense GO,1-1,0-0,União Rondonópolis MT,,,2021-07-17T19:00Z
+Gruppe E,Sat Jul 17 2021,15:30,-0300,Gama DF,0-0,0-0,Goianésia GO,,,2021-07-17T18:30Z
+Gruppe A,Sat Jul 17 2021,16:00,-0300,Ypiranga AP,0-1,0-1,Galvez AC,,,2021-07-17T19:00Z
+Gruppe A,Sat Jul 17 2021,17:00,-0300,Fast Clube AM,1-2,0-1,Castanhal PA,,,2021-07-17T20:00Z
+Gruppe A,Sat Jul 17 2021,17:00,-0300,São Raimundo RR,2-1,0-0,Penarol AM,,,2021-07-17T20:00Z
+Gruppe F,Sat Jul 17 2021,17:00,-0300,Boa Esporte MG,0-0,0-0,Ferroviária SP,,,2021-07-17T20:00Z
+Gruppe B,Sat Jul 17 2021,16:00,-0300,Tocantinópolis TO,0-0,0-0,Imperatriz MA,,,2021-07-17T19:00Z
+Gruppe G,Sat Jul 17 2021,19:00,-0300,Portuguesa SP,3-0,1-0,Boavista RJ,,,2021-07-17T22:00Z
+Gruppe H,Sat Jul 17 2021,19:00,-0300,Esportivo RS,0-1,0-1,Joinville SC,,,2021-07-17T22:00Z
+Gruppe G,Sat Jul 17 2021,15:00,-0300,Madureira RJ,1-0,0-0,Santo André SP,,,2021-07-17T18:00Z
+Gruppe B,Sat Jul 17 2021,15:30,-0300,Moto Club MA,1-0,0-0,Palmas TO,,,2021-07-17T18:30Z
+Gruppe B,Sat Jul 17 2021,15:00,-0300,Guarany de Sobral CE,2-1,1-0,Juventude MA,,,2021-07-17T18:00Z
+Gruppe G,Sat Jul 17 2021,17:00,-0300,Inter de Limeira SP,0-1,0-1,Bangu RJ,,,2021-07-17T20:00Z
+Gruppe H,Sun Jul 18 2021,15:00,-0300,Rio Branco PR,1-4,0-2,Cascavel FC PR,,,2021-07-18T18:00Z
+Gruppe E,Sun Jul 18 2021,16:00,-0300,Nova Mutum MT,1-1,0-1,Porto Velho EC RO,,,2021-07-18T19:00Z
+Gruppe H,Sun Jul 18 2021,15:00,-0300,S.E.R. Caxias RS,2-0,1-0,Marcílio Dias SC,,,2021-07-18T18:00Z
+Gruppe A,Sun Jul 18 2021,18:00,-0300,Atlético Acreano AC,3-1,2-1,GA Sampaio RR,,,2021-07-18T21:00Z
+Gruppe F,Sun Jul 18 2021,15:00,-0300,Rio Branco VN ES,3-0,0-0,Caldense MG,,,2021-07-18T18:00Z
+Gruppe F,Sun Jul 18 2021,16:00,-0300,Atlético Patrocinense MG,0-0,0-0,Rio Branco ES,,,2021-07-18T19:00Z
+Gruppe C,Sun Jul 18 2021,15:00,-0300,Central PE,1-3,1-2,Atlético Cearense CE,,,2021-07-18T18:00Z
+Gruppe E,Sun Jul 18 2021,15:00,-0300,Jaraguá GO,0-4,0-2,Brasiliense DF,,,2021-07-18T18:00Z
+Gruppe D,Sun Jul 18 2021,16:00,-0300,Atlético de Alagoinhas BA,0-0,0-0,Sergipe SE,,,2021-07-18T19:00Z
+Gruppe D,Sun Jul 18 2021,16:00,-0300,Itabaiana SE,1-2,1-1,Retrô PE,,,2021-07-18T19:00Z
+Gruppe D,Sun Jul 18 2021,16:00,-0300,ASA AL,1-1,0-1,Bahia de Feira BA,,,2021-07-18T19:00Z
+Gruppe B,Sun Jul 18 2021,16:00,-0300,Paragominas PA,1-2,0-0,4 de Julho PI,,,2021-07-18T19:00Z
+Gruppe H,Sun Jul 18 2021,15:00,-0300,Juventus SC,1-0,0-0,Aimoré RS,,,2021-07-18T18:00Z
+Gruppe F,Mon Jul 19 2021,17:00,-0300,Águia Negra MS,1-1,1-0,Uberlândia MG,,,2021-07-19T20:00Z
+Gruppe C,Sat Jul 24 2021,15:00,-0300,Atlético Cearense CE,0-0,0-0,Central PE,,,2021-07-24T18:00Z
+Gruppe C,Sat Jul 24 2021,16:00,-0300,ABC RN,2-0,0-0,Campinense PB,,,2021-07-24T19:00Z
+Gruppe G,Sat Jul 24 2021,15:00,-0300,Boavista RJ,0-1,0-0,Portuguesa SP,,,2021-07-24T18:00Z
+Gruppe F,Sat Jul 24 2021,16:00,-0300,Uberlândia MG,2-0,1-0,Águia Negra MS,,,2021-07-24T19:00Z
+Gruppe F,Sat Jul 24 2021,16:00,-0300,Caldense MG,0-0,0-0,Rio Branco VN ES,,,2021-07-24T19:00Z
+Gruppe B,Sat Jul 24 2021,16:00,-0300,4 de Julho PI,4-0,1-0,Paragominas PA,,,2021-07-24T19:00Z
+Gruppe B,Sat Jul 24 2021,16:00,-0300,Imperatriz MA,3-2,1-0,Tocantinópolis TO,,,2021-07-24T19:00Z
+Gruppe B,Sat Jul 24 2021,15:30,-0300,Palmas TO,2-1,2-1,Moto Club MA,,,2021-07-24T18:30Z
+Gruppe H,Sat Jul 24 2021,16:00,-0300,Cascavel FC PR,3-1,2-1,Rio Branco PR,,,2021-07-24T19:00Z
+Gruppe H,Sat Jul 24 2021,15:00,-0300,Marcílio Dias SC,0-0,0-0,S.E.R. Caxias RS,,,2021-07-24T18:00Z
+Gruppe H,Sat Jul 24 2021,15:00,-0300,Joinville SC,0-0,0-0,Esportivo RS,,,2021-07-24T18:00Z
+Gruppe A,Sat Jul 24 2021,15:00,-0300,Castanhal PA,2-1,2-1,Fast Clube AM,,,2021-07-24T18:00Z
+Gruppe A,Sat Jul 24 2021,18:00,-0300,GA Sampaio RR,2-0,0-0,Atlético Acreano AC,,,2021-07-24T21:00Z
+Gruppe B,Sat Jul 24 2021,15:30,-0300,Juventude MA,2-0,0-0,Guarany de Sobral CE,,,2021-07-24T18:30Z
+Gruppe G,Sat Jul 24 2021,15:00,-0300,Bangu RJ,1-1,1-0,Inter de Limeira SP,,,2021-07-24T18:00Z
+Gruppe G,Sat Jul 24 2021,15:00,-0300,São Bento SP,0-1,0-0,Cianorte PR,,,2021-07-24T18:00Z
+Gruppe G,Sat Jul 24 2021,15:00,-0300,Santo André SP,2-0,1-0,Madureira RJ,,,2021-07-24T18:00Z
+Gruppe C,Sat Jul 24 2021,16:00,-0300,Sousa PB,0-2,0-0,América RN,,,2021-07-24T19:00Z
+Gruppe E,Sat Jul 24 2021,16:30,-0300,Porto Velho EC RO,1-1,0-1,Nova Mutum MT,,,2021-07-24T19:30Z
+Gruppe E,Sat Jul 24 2021,15:00,-0300,Goianésia GO,2-1,0-1,Gama DF,,,2021-07-24T18:00Z
+Gruppe E,Sat Jul 24 2021,15:00,-0300,Brasiliense DF,3-0,0-0,Jaraguá GO,,,2021-07-24T18:00Z
+Gruppe D,Sat Jul 24 2021,16:00,-0300,Murici AL,0-3,0-0,Juazeirense BA,,,2021-07-24T19:00Z
+Gruppe F,Sun Jul 25 2021,15:00,-0300,Ferroviária SP,2-0,1-0,Boa Esporte MG,,,2021-07-25T18:00Z
+Gruppe D,Sun Jul 25 2021,16:00,-0300,Sergipe SE,1-0,1-0,Atlético de Alagoinhas BA,,,2021-07-25T19:00Z
+Gruppe D,Sun Jul 25 2021,16:00,-0300,Retrô PE,2-2,1-1,Itabaiana SE,,,2021-07-25T19:00Z
+Gruppe D,Sun Jul 25 2021,16:00,-0300,Bahia de Feira BA,1-0,0-0,ASA AL,,,2021-07-25T19:00Z
+Gruppe A,Sun Jul 25 2021,16:00,-0300,Penarol AM,1-1,0-1,São Raimundo RR,,,2021-07-25T19:00Z
+Gruppe H,Sun Jul 25 2021,15:00,-0300,Aimoré RS,0-1,0-0,Juventus SC,,,2021-07-25T18:00Z
+Gruppe C,Sun Jul 25 2021,16:00,-0300,Treze PB,3-1,1-1,Caucaia CE,,,2021-07-25T19:00Z
+Gruppe F,Sun Jul 25 2021,15:00,-0300,Rio Branco ES,2-1,2-0,Atlético Patrocinense MG,,,2021-07-25T18:00Z
+Gruppe A,Sun Jul 25 2021,17:00,-0300,Galvez AC,2-0,1-0,Ypiranga AP,,,2021-07-25T20:00Z
+Gruppe E,Sun Jul 25 2021,16:00,-0300,União Rondonópolis MT,0-2,0-0,Aparecidense GO,,,2021-07-25T19:00Z
+Gruppe E,Sat Jul 31 2021,15:00,-0300,Gama DF,1-1,0-0,Porto Velho EC RO,,,2021-07-31T18:00Z
+Gruppe C,Sat Jul 31 2021,15:00,-0300,Campinense PB,3-0,2-0,Atlético Cearense CE,,,2021-07-31T18:00Z
+Gruppe E,Sat Jul 31 2021,16:00,-0300,Aparecidense GO,1-0,1-0,Brasiliense DF,,,2021-07-31T19:00Z
+Gruppe C,Sat Jul 31 2021,16:00,-0300,Caucaia CE,1-0,1-0,Sousa PB,,,2021-07-31T19:00Z
+Gruppe C,Sat Jul 31 2021,15:00,-0300,América RN,2-2,0-1,Treze PB,,,2021-07-31T18:00Z
+Gruppe B,Sat Jul 31 2021,16:00,-0300,Tocantinópolis TO,0-1,0-1,Juventude MA,,,2021-07-31T19:00Z
+Gruppe B,Sat Jul 31 2021,15:30,-0300,Moto Club MA,1-0,0-0,4 de Julho PI,,,2021-07-31T18:30Z
+Gruppe B,Sat Jul 31 2021,15:00,-0300,Guarany de Sobral CE,1-1,0-0,Imperatriz MA,,,2021-07-31T18:00Z
+Gruppe H,Sat Jul 31 2021,16:00,-0300,Esportivo RS,0-0,0-0,Marcílio Dias SC,,,2021-07-31T19:00Z
+Gruppe H,Sat Jul 31 2021,15:00,-0300,Juventus SC,1-1,1-1,Cascavel FC PR,,,2021-07-31T18:00Z
+Gruppe A,Sat Jul 31 2021,17:00,-0300,São Raimundo RR,3-1,2-0,Galvez AC,,,2021-07-31T20:00Z
+Gruppe D,Sat Jul 31 2021,16:00,-0300,Atlético de Alagoinhas BA,1-0,0-0,Murici AL,,,2021-07-31T19:00Z
+Gruppe E,Sat Jul 31 2021,15:30,-0300,Jaraguá GO,0-2,0-1,União Rondonópolis MT,,,2021-07-31T18:30Z
+Gruppe G,Sat Jul 31 2021,15:00,-0300,Madureira RJ,1-2,0-0,São Bento SP,,,2021-07-31T18:00Z
+Gruppe F,Sat Jul 31 2021,17:00,-0300,Boa Esporte MG,1-1,0-0,Rio Branco ES,,,2021-07-31T20:00Z
+Gruppe G,Sat Jul 31 2021,17:00,-0300,Inter de Limeira SP,1-0,0-0,Boavista RJ,,,2021-07-31T20:00Z
+Gruppe D,Sat Jul 31 2021,16:00,-0300,Juazeirense BA,0-0,0-0,Sergipe SE,,,2021-07-31T19:00Z
+Gruppe G,Sat Jul 31 2021,19:00,-0300,Portuguesa SP,1-1,1-0,Bangu RJ,,,2021-07-31T22:00Z
+Gruppe A,Sat Jul 31 2021,18:00,-0300,Fast Clube AM,4-0,1-0,GA Sampaio RR,,,2021-07-31T21:00Z
+Gruppe G,Sun Aug 1 2021,16:00,-0300,Cianorte PR,1-1,1-1,Santo André SP,,,2021-08-01T19:00Z
+Gruppe D,Sun Aug 1 2021,16:00,-0300,ASA AL,0-1,0-1,Retrô PE,,,2021-08-01T19:00Z
+Gruppe E,Sun Aug 1 2021,16:00,-0300,Nova Mutum MT,2-0,1-0,Goianésia GO,,,2021-08-01T19:00Z
+Gruppe F,Sun Aug 1 2021,15:00,-0300,Rio Branco VN ES,1-0,0-0,Uberlândia MG,,,2021-08-01T18:00Z
+Gruppe C,Sun Aug 1 2021,16:00,-0300,Central PE,1-1,1-1,ABC RN,,,2021-08-01T19:00Z
+Gruppe H,Sun Aug 1 2021,15:00,-0300,S.E.R. Caxias RS,0-0,0-0,Joinville SC,,,2021-08-01T18:00Z
+Gruppe F,Sun Aug 1 2021,16:00,-0300,Águia Negra MS,0-6,0-3,Caldense MG,,,2021-08-01T19:00Z
+Gruppe H,Sun Aug 1 2021,15:00,-0300,Rio Branco PR,1-0,0-0,Aimoré RS,,,2021-08-01T18:00Z
+Gruppe A,Sun Aug 1 2021,18:00,-0300,Atlético Acreano AC,0-1,0-1,Castanhal PA,,,2021-08-01T21:00Z
+Gruppe A,Sun Aug 1 2021,18:00,-0300,Ypiranga AP,1-0,1-0,Penarol AM,,,2021-08-01T21:00Z
+Gruppe F,Sun Aug 1 2021,16:00,-0300,Atlético Patrocinense MG,0-2,0-0,Ferroviária SP,,,2021-08-01T19:00Z
+Gruppe B,Sun Aug 1 2021,16:00,-0300,Paragominas PA,1-1,1-1,Palmas TO,,,2021-08-01T19:00Z
+Gruppe D,Sun Aug 1 2021,16:00,-0300,Itabaiana SE,1-2,1-1,Bahia de Feira BA,,,2021-08-01T19:00Z
+Gruppe F,Fri Aug 6 2021,17:00,-0300,Águia Negra MS,0-1,0-1,Ferroviária SP,,,2021-08-06T20:00Z
+Gruppe E,Sat Aug 7 2021,16:30,-0300,Porto Velho EC RO,0-2,0-1,Aparecidense GO,,,2021-08-07T19:30Z
+Gruppe B,Sat Aug 7 2021,15:30,-0300,Palmas TO,2-1,1-1,Tocantinópolis TO,,,2021-08-07T18:30Z
+Gruppe B,Sat Aug 7 2021,16:00,-0300,Imperatriz MA,0-1,0-0,Moto Club MA,,,2021-08-07T19:00Z
+Gruppe B,Sat Aug 7 2021,16:00,-0300,4 de Julho PI,0-2,0-1,Guarany de Sobral CE,,,2021-08-07T19:00Z
+Gruppe E,Sat Aug 7 2021,16:00,-0300,União Rondonópolis MT,0-1,0-0,Nova Mutum MT,,,2021-08-07T19:00Z
+Gruppe A,Sat Aug 7 2021,18:00,-0300,GA Sampaio RR,0-2,0-0,São Raimundo RR,,,2021-08-07T21:00Z
+Gruppe F,Sat Aug 7 2021,16:00,-0300,Caldense MG,0-0,0-0,Atlético Patrocinense MG,,,2021-08-07T19:00Z
+Gruppe H,Sat Aug 7 2021,15:00,-0300,Marcílio Dias SC,1-1,1-1,Juventus SC,,,2021-08-07T18:00Z
+Gruppe H,Sat Aug 7 2021,15:00,-0300,Joinville SC,3-0,2-0,Rio Branco PR,,,2021-08-07T18:00Z
+Gruppe C,Sat Aug 7 2021,16:00,-0300,Atlético Cearense CE,0-2,0-1,América RN,,,2021-08-07T19:00Z
+Gruppe E,Sat Aug 7 2021,15:00,-0300,Gama DF,0-1,0-0,Brasiliense DF,,,2021-08-07T18:00Z
+Gruppe F,Sat Aug 7 2021,16:00,-0300,Uberlândia MG,0-0,0-0,Boa Esporte MG,,,2021-08-07T19:00Z
+Gruppe D,Sat Aug 7 2021,16:00,-0300,Murici AL,2-2,0-2,Itabaiana SE,,,2021-08-07T19:00Z
+Gruppe G,Sat Aug 7 2021,16:00,-0300,São Bento SP,2-3,1-0,Portuguesa SP,,,2021-08-07T19:00Z
+Gruppe E,Sat Aug 7 2021,16:00,-0300,Goianésia GO,0-1,0-0,Jaraguá GO,,,2021-08-07T19:00Z
+Gruppe H,Sat Aug 7 2021,16:00,-0300,Esportivo RS,2-2,2-1,Cascavel FC PR,,,2021-08-07T19:00Z
+Gruppe G,Sat Aug 7 2021,15:00,-0300,Santo André SP,2-1,1-0,Inter de Limeira SP,,,2021-08-07T18:00Z
+Gruppe C,Sun Aug 8 2021,15:00,-0300,Central PE,0-0,0-0,Sousa PB,,,2021-08-08T18:00Z
+Gruppe C,Sun Aug 8 2021,16:00,-0300,Treze PB,0-0,0-0,Campinense PB,,,2021-08-08T19:00Z
+Gruppe F,Sun Aug 8 2021,15:00,-0300,Rio Branco ES,0-3,0-1,Rio Branco VN ES,,,2021-08-08T18:00Z
+Gruppe H,Sun Aug 8 2021,15:00,-0300,Aimoré RS,2-0,1-0,S.E.R. Caxias RS,,,2021-08-08T18:00Z
+Gruppe B,Sun Aug 8 2021,16:00,-0300,Paragominas PA,0-0,0-0,Juventude MA,,,2021-08-08T19:00Z
+Gruppe G,Sun Aug 8 2021,15:00,-0300,Bangu RJ,3-1,2-1,Madureira RJ,,,2021-08-08T18:00Z
+Gruppe A,Sun Aug 8 2021,18:00,-0300,Ypiranga AP,0-2,0-1,Castanhal PA,,,2021-08-08T21:00Z
+Gruppe A,Sun Aug 8 2021,17:00,-0300,Galvez AC,2-2,0-2,Fast Clube AM,,,2021-08-08T20:00Z
+Gruppe A,Sun Aug 8 2021,16:00,-0300,Penarol AM,5-0,2-0,Atlético Acreano AC,,,2021-08-08T19:00Z
+Gruppe D,Sun Aug 8 2021,16:00,-0300,Bahia de Feira BA,1-2,1-0,Atlético de Alagoinhas BA,,,2021-08-08T19:00Z
+Gruppe D,Sun Aug 8 2021,16:00,-0300,Juazeirense BA,1-0,0-0,Retrô PE,,,2021-08-08T19:00Z
+Gruppe D,Sun Aug 8 2021,16:00,-0300,Sergipe SE,2-0,1-0,ASA AL,,,2021-08-08T19:00Z
+Gruppe G,Sun Aug 8 2021,16:00,-0300,Cianorte PR,2-1,1-1,Boavista RJ,,,2021-08-08T19:00Z
+Gruppe C,Mon Aug 9 2021,16:00,-0300,ABC RN,9-1,3-1,Caucaia CE,,,2021-08-09T19:00Z
+Gruppe C,Fri Aug 13 2021,15:00,-0300,América RN,4-2,2-2,Caucaia CE,,,2021-08-13T18:00Z
+Gruppe G,Sat Aug 14 2021,15:00,-0300,Portuguesa SP,0-1,0-1,Inter de Limeira SP,,,2021-08-14T18:00Z
+Gruppe F,Sat Aug 14 2021,16:00,-0300,Uberlândia MG,2-3,0-0,Caldense MG,,,2021-08-14T19:00Z
+Gruppe G,Sat Aug 14 2021,15:00,-0300,Boavista RJ,2-0,2-0,Bangu RJ,,,2021-08-14T18:00Z
+Gruppe H,Sat Aug 14 2021,15:00,-0300,Joinville SC,1-1,0-1,Marcílio Dias SC,,,2021-08-14T18:00Z
+Gruppe H,Sat Aug 14 2021,15:00,-0300,S.E.R. Caxias RS,0-1,0-0,Esportivo RS,,,2021-08-14T18:00Z
+Gruppe G,Sat Aug 14 2021,15:00,-0300,São Bento SP,1-0,1-0,Santo André SP,,,2021-08-14T18:00Z
+Gruppe F,Sat Aug 14 2021,17:00,-0300,Ferroviária SP,2-0,1-0,Rio Branco ES,,,2021-08-14T20:00Z
+Gruppe H,Sat Aug 14 2021,15:00,-0300,Cascavel FC PR,2-2,0-1,Aimoré RS,,,2021-08-14T18:00Z
+Gruppe A,Sat Aug 14 2021,18:00,-0300,Fast Clube AM,1-0,0-0,Atlético Acreano AC,,,2021-08-14T21:00Z
+Gruppe A,Sat Aug 14 2021,17:00,-0300,São Raimundo RR,4-0,2-0,Ypiranga AP,,,2021-08-14T20:00Z
+Gruppe C,Sat Aug 14 2021,16:00,-0300,Sousa PB,0-0,0-0,Treze PB,,,2021-08-14T19:00Z
+Gruppe C,Sat Aug 14 2021,15:00,-0300,Campinense PB,2-1,0-0,Central PE,,,2021-08-14T18:00Z
+Gruppe B,Sat Aug 14 2021,15:00,-0300,Guarany de Sobral CE,2-1,0-0,Tocantinópolis TO,,,2021-08-14T18:00Z
+Gruppe B,Sat Aug 14 2021,15:30,-0300,Juventude MA,1-1,0-1,Imperatriz MA,,,2021-08-14T18:30Z
+Gruppe B,Sat Aug 14 2021,15:30,-0300,Moto Club MA,1-4,0-2,Paragominas PA,,,2021-08-14T18:30Z
+Gruppe B,Sat Aug 14 2021,16:00,-0300,4 de Julho PI,1-2,1-0,Palmas TO,,,2021-08-14T19:00Z
+Gruppe D,Sat Aug 14 2021,16:00,-0300,Murici AL,1-1,0-1,Sergipe SE,,,2021-08-14T19:00Z
+Gruppe D,Sat Aug 14 2021,16:00,-0300,Atlético de Alagoinhas BA,3-3,3-1,Juazeirense BA,,,2021-08-14T19:00Z
+Gruppe E,Sat Aug 14 2021,15:30,-0300,Jaraguá GO,1-1,1-0,Aparecidense GO,,,2021-08-14T18:30Z
+Gruppe E,Sat Aug 14 2021,16:00,-0300,Brasiliense DF,2-3,0-1,União Rondonópolis MT,,,2021-08-14T19:00Z
+Gruppe E,Sat Aug 14 2021,16:00,-0300,Goianésia GO,1-1,0-0,Porto Velho EC RO,,,2021-08-14T19:00Z
+Gruppe E,Sun Aug 15 2021,16:00,-0300,Nova Mutum MT,1-1,1-1,Gama DF,,,2021-08-15T19:00Z
+Gruppe F,Sun Aug 15 2021,17:00,-0300,Boa Esporte MG,2-0,1-0,Atlético Patrocinense MG,,,2021-08-15T20:00Z
+Gruppe F,Sun Aug 15 2021,15:00,-0300,Rio Branco VN ES,2-2,2-2,Águia Negra MS,,,2021-08-15T18:00Z
+Gruppe A,Sun Aug 15 2021,17:00,-0300,Galvez AC,1-3,0-2,Penarol AM,,,2021-08-15T20:00Z
+Gruppe A,Sun Aug 15 2021,15:00,-0300,Castanhal PA,5-0,3-0,GA Sampaio RR,,,2021-08-15T18:00Z
+Gruppe G,Sun Aug 15 2021,15:00,-0300,Madureira RJ,0-0,0-0,Cianorte PR,,,2021-08-15T18:00Z
+Gruppe D,Sun Aug 15 2021,16:00,-0300,Retrô PE,1-1,1-0,Bahia de Feira BA,,,2021-08-15T19:00Z
+Gruppe D,Sun Aug 15 2021,16:00,-0300,Itabaiana SE,4-1,2-1,ASA AL,,,2021-08-15T19:00Z
+Gruppe H,Sun Aug 15 2021,15:00,-0300,Rio Branco PR,2-2,1-2,Juventus SC,,,2021-08-15T18:00Z
+Gruppe C,Sun Aug 15 2021,15:00,-0300,Atlético Cearense CE,1-0,1-0,ABC RN,,,2021-08-15T18:00Z
+Gruppe C,Fri Aug 20 2021,16:00,-0300,Caucaia CE,3-4,2-3,Atlético Cearense CE,,,2021-08-20T19:00Z
+Gruppe H,Sat Aug 21 2021,15:00,-0300,Juventus SC,0-1,0-0,Joinville SC,,,2021-08-21T18:00Z
+Gruppe D,Sat Aug 21 2021,16:00,-0300,Juazeirense BA,2-1,1-1,Bahia de Feira BA,,,2021-08-21T19:00Z
+Gruppe H,Sat Aug 21 2021,16:00,-0300,Esportivo RS,2-1,1-1,Aimoré RS,,,2021-08-21T19:00Z
+Gruppe H,Sat Aug 21 2021,15:00,-0300,Marcílio Dias SC,2-0,2-0,Rio Branco PR,,,2021-08-21T18:00Z
+Gruppe G,Sat Aug 21 2021,15:00,-0300,Santo André SP,2-2,1-1,Portuguesa SP,,,2021-08-21T18:00Z
+Gruppe B,Sat Aug 21 2021,15:30,-0300,Moto Club MA,3-1,2-1,Juventude MA,,,2021-08-21T18:30Z
+Gruppe E,Sat Aug 21 2021,16:00,-0300,Aparecidense GO,4-1,0-1,Goianésia GO,,,2021-08-21T19:00Z
+Gruppe E,Sat Aug 21 2021,16:30,-0300,Porto Velho EC RO,1-0,1-0,Jaraguá GO,,,2021-08-21T19:30Z
+Gruppe D,Sat Aug 21 2021,16:00,-0300,Atlético de Alagoinhas BA,1-1,0-0,Retrô PE,,,2021-08-21T19:00Z
+Gruppe G,Sat Aug 21 2021,17:00,-0300,Inter de Limeira SP,0-2,0-1,São Bento SP,,,2021-08-21T20:00Z
+Gruppe B,Sat Aug 21 2021,15:30,-0300,Palmas TO,0-2,0-1,Guarany de Sobral CE,,,2021-08-21T18:30Z
+Gruppe B,Sat Aug 21 2021,16:00,-0300,Tocantinópolis TO,0-2,0-1,4 de Julho PI,,,2021-08-21T19:00Z
+Gruppe A,Sat Aug 21 2021,17:00,-0300,São Raimundo RR,1-2,1-1,Castanhal PA,,,2021-08-21T20:00Z
+Gruppe H,Sat Aug 21 2021,15:00,-0300,S.E.R. Caxias RS,1-1,1-1,Cascavel FC PR,,,2021-08-21T18:00Z
+Gruppe B,Sat Aug 21 2021,18:00,-0300,Paragominas PA,4-1,3-0,Imperatriz MA,,,2021-08-21T21:00Z
+Gruppe E,Sat Aug 21 2021,15:00,-0300,Gama DF,0-3,0-2,União Rondonópolis MT,,,2021-08-21T18:00Z
+Gruppe F,Sat Aug 21 2021,16:00,-0300,Caldense MG,0-1,0-1,Boa Esporte MG,,,2021-08-21T19:00Z
+Gruppe C,Sat Aug 21 2021,15:00,-0300,Campinense PB,1-0,0-0,Sousa PB,,,2021-08-21T18:00Z
+Gruppe F,Sun Aug 22 2021,16:00,-0300,Atlético Patrocinense MG,0-1,0-1,Uberlândia MG,,,2021-08-22T19:00Z
+Gruppe F,Sun Aug 22 2021,15:00,-0300,Rio Branco VN ES,0-0,0-0,Ferroviária SP,,,2021-08-22T18:00Z
+Gruppe D,Sun Aug 22 2021,16:00,-0300,ASA AL,4-2,2-1,Murici AL,,,2021-08-22T19:00Z
+Gruppe G,Sun Aug 22 2021,16:00,-0300,Cianorte PR,2-0,0-0,Bangu RJ,,,2021-08-22T19:00Z
+Gruppe E,Sun Aug 22 2021,16:00,-0300,Nova Mutum MT,1-0,1-0,Brasiliense DF,,,2021-08-22T19:00Z
+Gruppe A,Sun Aug 22 2021,18:00,-0300,Ypiranga AP,0-0,0-0,GA Sampaio RR,,,2021-08-22T21:00Z
+Gruppe A,Sun Aug 22 2021,17:30,-0300,Atlético Acreano AC,1-4,0-1,Galvez AC,,,2021-08-22T20:30Z
+Gruppe A,Sun Aug 22 2021,16:00,-0300,Penarol AM,2-1,0-0,Fast Clube AM,,,2021-08-22T19:00Z
+Gruppe C,Sun Aug 22 2021,16:00,-0300,ABC RN,3-1,2-1,América RN,,,2021-08-22T19:00Z
+Gruppe C,Sun Aug 22 2021,15:00,-0300,Central PE,2-1,1-1,Treze PB,,,2021-08-22T18:00Z
+Gruppe D,Sun Aug 22 2021,16:00,-0300,Sergipe SE,0-1,0-0,Itabaiana SE,,,2021-08-22T19:00Z
+Gruppe G,Sun Aug 22 2021,15:00,-0300,Madureira RJ,1-2,1-1,Boavista RJ,,,2021-08-22T18:00Z
+Gruppe F,Mon Aug 23 2021,17:00,-0300,Águia Negra MS,2-6,1-3,Rio Branco ES,,,2021-08-23T20:00Z
+Gruppe C,Fri Aug 27 2021,16:00,-0300,Caucaia CE,1-1,1-1,Central PE,,,2021-08-27T19:00Z
+Gruppe G,Sat Aug 28 2021,15:00,-0300,Boavista RJ,0-2,0-1,Santo André SP,,,2021-08-28T18:00Z
+Gruppe G,Sat Aug 28 2021,17:00,-0300,Inter de Limeira SP,2-1,1-0,Cianorte PR,,,2021-08-28T20:00Z
+Gruppe G,Sat Aug 28 2021,19:00,-0300,Portuguesa SP,2-0,1-0,Madureira RJ,,,2021-08-28T22:00Z
+Gruppe F,Sat Aug 28 2021,15:00,-0300,Rio Branco ES,0-2,0-2,Uberlândia MG,,,2021-08-28T18:00Z
+Gruppe F,Sat Aug 28 2021,17:00,-0300,Ferroviária SP,3-1,1-0,Caldense MG,,,2021-08-28T20:00Z
+Gruppe F,Sat Aug 28 2021,17:00,-0300,Boa Esporte MG,3-1,1-0,Rio Branco VN ES,,,2021-08-28T20:00Z
+Gruppe B,Sat Aug 28 2021,16:00,-0300,Imperatriz MA,0-0,0-0,4 de Julho PI,,,2021-08-28T19:00Z
+Gruppe G,Sat Aug 28 2021,15:00,-0300,Bangu RJ,1-0,0-0,São Bento SP,,,2021-08-28T18:00Z
+Gruppe E,Sat Aug 28 2021,16:00,-0300,União Rondonópolis MT,0-1,0-1,Goianésia GO,,,2021-08-28T19:00Z
+Gruppe E,Sat Aug 28 2021,16:00,-0300,Aparecidense GO,2-1,1-1,Gama DF,,,2021-08-28T19:00Z
+Gruppe B,Sat Aug 28 2021,16:00,-0300,Tocantinópolis TO,2-3,1-2,Paragominas PA,,,2021-08-28T19:00Z
+Gruppe B,Sat Aug 28 2021,15:30,-0300,Juventude MA,0-3,0-2,Palmas TO,,,2021-08-28T18:30Z
+Gruppe B,Sat Aug 28 2021,15:00,-0300,Guarany de Sobral CE,4-2,1-1,Moto Club MA,,,2021-08-28T18:00Z
+Gruppe A,Sat Aug 28 2021,18:00,-0300,Fast Clube AM,0-0,0-0,São Raimundo RR,,,2021-08-28T21:00Z
+Gruppe A,Sat Aug 28 2021,18:00,-0300,GA Sampaio RR,0-3,0-2,Galvez AC,,,2021-08-28T21:00Z
+Gruppe E,Sat Aug 28 2021,16:00,-0300,Brasiliense DF,2-1,0-1,Porto Velho EC RO,,,2021-08-28T19:00Z
+Gruppe C,Sat Aug 28 2021,15:00,-0300,América RN,0-0,0-0,Campinense PB,,,2021-08-28T18:00Z
+Gruppe C,Sat Aug 28 2021,16:00,-0300,Sousa PB,2-0,1-0,ABC RN,,,2021-08-28T19:00Z
+Gruppe H,Sat Aug 28 2021,15:00,-0300,Cascavel FC PR,2-0,1-0,Marcílio Dias SC,,,2021-08-28T18:00Z
+Gruppe H,Sat Aug 28 2021,15:00,-0300,Juventus SC,1-0,1-0,Esportivo RS,,,2021-08-28T18:00Z
+Gruppe H,Sat Aug 28 2021,15:00,-0300,Aimoré RS,0-0,0-0,Joinville SC,,,2021-08-28T18:00Z
+Gruppe E,Sat Aug 28 2021,15:30,-0300,Jaraguá GO,1-2,0-2,Nova Mutum MT,,,2021-08-28T18:30Z
+Gruppe D,Sun Aug 29 2021,16:00,-0300,Itabaiana SE,3-1,2-0,Atlético de Alagoinhas BA,,,2021-08-29T19:00Z
+Gruppe D,Sun Aug 29 2021,16:00,-0300,Retrô PE,0-0,0-0,Sergipe SE,,,2021-08-29T19:00Z
+Gruppe D,Sun Aug 29 2021,16:00,-0300,ASA AL,1-0,1-0,Juazeirense BA,,,2021-08-29T19:00Z
+Gruppe A,Sun Aug 29 2021,15:00,-0300,Castanhal PA,1-1,1-1,Penarol AM,,,2021-08-29T18:00Z
+Gruppe A,Sun Aug 29 2021,18:00,-0300,Atlético Acreano AC,3-2,1-0,Ypiranga AP,,,2021-08-29T21:00Z
+Gruppe D,Sun Aug 29 2021,16:00,-0300,Bahia de Feira BA,6-1,3-1,Murici AL,,,2021-08-29T19:00Z
+Gruppe F,Sun Aug 29 2021,16:00,-0300,Atlético Patrocinense MG,1-0,0-0,Águia Negra MS,,,2021-08-29T19:00Z
+Gruppe C,Sun Aug 29 2021,16:00,-0300,Treze PB,1-1,0-0,Atlético Cearense CE,,,2021-08-29T19:00Z
+Gruppe H,Sun Aug 29 2021,15:00,-0300,Rio Branco PR,1-2,0-1,S.E.R. Caxias RS,,,2021-08-29T18:00Z
+Gruppe B,Sat Sep 4 2021,15:00,-0300,Palmas TO,0-0,0-0,Imperatriz MA,,,2021-09-04T18:00Z
+Gruppe B,Sat Sep 4 2021,15:00,-0300,Paragominas PA,2-1,1-0,Guarany de Sobral CE,,,2021-09-04T18:00Z
+Gruppe B,Sat Sep 4 2021,15:00,-0300,4 de Julho PI,1-0,0-0,Juventude MA,,,2021-09-04T18:00Z
+Gruppe B,Sat Sep 4 2021,15:00,-0300,Moto Club MA,3-0,2-0,Tocantinópolis TO,,,2021-09-04T18:00Z
+Gruppe G,Sat Sep 4 2021,15:00,-0300,Madureira RJ,1-2,0-1,Inter de Limeira SP,,,2021-09-04T18:00Z
+Gruppe G,Sat Sep 4 2021,15:00,-0300,São Bento SP,0-1,0-0,Boavista RJ,,,2021-09-04T18:00Z
+Gruppe G,Sat Sep 4 2021,15:00,-0300,Cianorte PR,0-0,0-0,Portuguesa SP,,,2021-09-04T18:00Z
+Gruppe G,Sat Sep 4 2021,15:00,-0300,Santo André SP,1-2,0-2,Bangu RJ,,,2021-09-04T18:00Z
+Gruppe E,Sat Sep 4 2021,16:00,-0300,Goianésia GO,1-1,1-0,Brasiliense DF,,,2021-09-04T19:00Z
+Gruppe E,Sat Sep 4 2021,16:00,-0300,Porto Velho EC RO,0-2,0-0,União Rondonópolis MT,,,2021-09-04T19:00Z
+Gruppe E,Sat Sep 4 2021,16:00,-0300,Gama DF,4-1,2-1,Jaraguá GO,,,2021-09-04T19:00Z
+Gruppe E,Sat Sep 4 2021,16:00,-0300,Nova Mutum MT,1-0,0-0,Aparecidense GO,,,2021-09-04T19:00Z
+Gruppe H,Sat Sep 4 2021,15:00,-0300,Marcílio Dias SC,3-2,0-2,Aimoré RS,,,2021-09-04T18:00Z
+Gruppe H,Sat Sep 4 2021,15:00,-0300,Esportivo RS,4-1,1-0,Rio Branco PR,,,2021-09-04T18:00Z
+Gruppe H,Sat Sep 4 2021,15:00,-0300,Joinville SC,3-1,1-0,Cascavel FC PR,,,2021-09-04T18:00Z
+Gruppe H,Sat Sep 4 2021,15:00,-0300,S.E.R. Caxias RS,1-1,0-0,Juventus SC,,,2021-09-04T18:00Z
+Gruppe A,Sun Sep 5 2021,17:00,-0300,Penarol AM,2-1,2-0,GA Sampaio RR,,,2021-09-05T20:00Z
+Gruppe A,Sun Sep 5 2021,17:00,-0300,Ypiranga AP,1-1,1-0,Fast Clube AM,,,2021-09-05T20:00Z
+Gruppe A,Sun Sep 5 2021,17:00,-0300,Galvez AC,1-5,0-4,Castanhal PA,,,2021-09-05T20:00Z
+Gruppe A,Sun Sep 5 2021,17:00,-0300,São Raimundo RR,7-1,4-0,Atlético Acreano AC,,,2021-09-05T20:00Z
+Gruppe D,Sun Sep 5 2021,16:00,-0300,Atlético de Alagoinhas BA,1-0,1-0,ASA AL,,,2021-09-05T19:00Z
+Gruppe F,Sun Sep 5 2021,16:00,-0300,Uberlândia MG,1-1,1-1,Ferroviária SP,,,2021-09-05T19:00Z
+Gruppe F,Sun Sep 5 2021,16:00,-0300,Águia Negra MS,0-0,0-0,Boa Esporte MG,,,2021-09-05T19:00Z
+Gruppe F,Sun Sep 5 2021,16:00,-0300,Caldense MG,1-2,1-1,Rio Branco ES,,,2021-09-05T19:00Z
+Gruppe C,Sun Sep 5 2021,15:00,-0300,ABC RN,2-0,1-0,Treze PB,,,2021-09-05T18:00Z
+Gruppe C,Sun Sep 5 2021,15:00,-0300,Central PE,2-1,0-1,América RN,,,2021-09-05T18:00Z
+Gruppe C,Sun Sep 5 2021,15:00,-0300,Atlético Cearense CE,2-0,1-0,Sousa PB,,,2021-09-05T18:00Z
+Gruppe C,Sun Sep 5 2021,15:00,-0300,Campinense PB,5-0,2-0,Caucaia CE,,,2021-09-05T18:00Z
+Gruppe D,Sun Sep 5 2021,16:00,-0300,Sergipe SE,4-0,0-0,Bahia de Feira BA,,,2021-09-05T19:00Z
+Gruppe D,Sun Sep 5 2021,16:00,-0300,Juazeirense BA,1-1,0-0,Itabaiana SE,,,2021-09-05T19:00Z
+Gruppe D,Sun Sep 5 2021,16:00,-0300,Murici AL,2-2,1-0,Retrô PE,,,2021-09-05T19:00Z
+Gruppe F,Sun Sep 5 2021,16:00,-0300,Rio Branco VN ES,2-1,0-1,Atlético Patrocinense MG,,,2021-09-05T19:00Z
+Sechzehntelfinale,Sat Sep 11 2021,15:00,-0300,Atlético Cearense CE,1-1,1-0,Juazeirense BA,,,2021-09-11T18:00Z
+Sechzehntelfinale,Sat Sep 11 2021,15:00,-0300,Bangu RJ,1-1,0-1,Joinville SC,,,2021-09-11T18:00Z
+Sechzehntelfinale,Sat Sep 11 2021,16:00,-0300,Caldense MG,1-0,1-0,Aparecidense GO,,,2021-09-11T19:00Z
+Sechzehntelfinale,Sat Sep 11 2021,16:00,-0300,Esportivo RS,0-1,0-1,Santo André SP,,,2021-09-11T19:00Z
+Sechzehntelfinale,Sat Sep 11 2021,16:00,-0300,União Rondonópolis MT,2-0,1-0,Boa Esporte MG,,,2021-09-11T19:00Z
+Sechzehntelfinale,Sat Sep 11 2021,15:00,-0300,América RN,1-1,1-1,Itabaiana SE,,,2021-09-11T18:00Z
+Sechzehntelfinale,Sun Sep 12 2021,15:00,-0300,Brasiliense DF,0-0,0-0,Ferroviária SP,,,2021-09-12T18:00Z
+Sechzehntelfinale,Sun Sep 12 2021,15:00,-0300,S.E.R. Caxias RS,1-0,0-0,Portuguesa SP,,,2021-09-12T18:00Z
+Sechzehntelfinale,Sun Sep 12 2021,15:30,-0300,Moto Club MA,2-0,2-0,Castanhal PA,,,2021-09-12T18:30Z
+Sechzehntelfinale,Sun Sep 12 2021,16:00,-0300,Cianorte PR,0-0,0-0,Cascavel FC PR,,,2021-09-12T19:00Z
+Sechzehntelfinale,Sun Sep 12 2021,16:00,-0300,Retrô PE,1-1,0-0,ABC RN,,,2021-09-12T19:00Z
+Sechzehntelfinale,Sun Sep 12 2021,16:00,-0300,Paragominas PA,1-0,0-0,São Raimundo RR,,,2021-09-12T19:00Z
+Sechzehntelfinale,Sun Sep 12 2021,16:00,-0300,Penarol AM,1-0,0-0,4 de Julho PI,,,2021-09-12T19:00Z
+Sechzehntelfinale,Sun Sep 12 2021,16:00,-0300,Sergipe SE,2-2,0-2,Campinense PB,,,2021-09-12T19:00Z
+Sechzehntelfinale,Sun Sep 12 2021,16:00,-0300,Uberlândia MG,1-1,0-0,Nova Mutum MT,,,2021-09-12T19:00Z
+Sechzehntelfinale,Mon Sep 13 2021,17:00,-0300,Galvez AC,0-0,0-0,Guarany de Sobral CE,,,2021-09-13T20:00Z
+Sechzehntelfinale,Fri Sep 17 2021,16:00,-0300,Aparecidense GO,3-1,2-1,Caldense MG,,,2021-09-17T19:00Z
+Sechzehntelfinale,Sat Sep 18 2021,15:00,-0300,Joinville SC,0-0,0-0,Bangu RJ,0-0,4-3,2021-09-18T18:00Z
+Sechzehntelfinale,Sat Sep 18 2021,15:00,-0300,Santo André SP,0-0,0-0,Esportivo RS,0-0,4-5,2021-09-18T18:00Z
+Sechzehntelfinale,Sat Sep 18 2021,15:00,-0300,Campinense PB,0-0,0-0,Sergipe SE,0-0,4-2,2021-09-18T18:00Z
+Sechzehntelfinale,Sat Sep 18 2021,16:00,-0300,Juazeirense BA,0-0,0-0,Atlético Cearense CE,0-0,3-5,2021-09-18T19:00Z
+Sechzehntelfinale,Sat Sep 18 2021,16:00,-0300,Cascavel FC PR,0-3,0-2,Cianorte PR,,,2021-09-18T19:00Z
+Sechzehntelfinale,Sat Sep 18 2021,16:00,-0300,4 de Julho PI,3-0,1-0,Penarol AM,,,2021-09-18T19:00Z
+Sechzehntelfinale,Sat Sep 18 2021,16:00,-0300,Portuguesa SP,1-0,0-0,S.E.R. Caxias RS,1-0,1-4,2021-09-18T19:00Z
+Sechzehntelfinale,Sat Sep 18 2021,17:00,-0300,Ferroviária SP,1-0,0-0,Brasiliense DF,,,2021-09-18T20:00Z
+Sechzehntelfinale,Sat Sep 18 2021,17:00,-0300,Boa Esporte MG,1-1,1-1,União Rondonópolis MT,,,2021-09-18T20:00Z
+Sechzehntelfinale,Sun Sep 19 2021,16:00,-0300,Itabaiana SE,0-2,0-1,América RN,,,2021-09-19T19:00Z
+Sechzehntelfinale,Sun Sep 19 2021,16:00,-0300,ABC RN,3-2,1-0,Retrô PE,,,2021-09-19T19:00Z
+Sechzehntelfinale,Sun Sep 19 2021,16:00,-0300,Nova Mutum MT,0-2,0-0,Uberlândia MG,,,2021-09-19T19:00Z
+Sechzehntelfinale,Sun Sep 19 2021,17:00,-0300,São Raimundo RR,1-2,0-0,Paragominas PA,,,2021-09-19T20:00Z
+Sechzehntelfinale,Sun Sep 19 2021,15:00,-0300,Castanhal PA,1-2,0-0,Moto Club MA,,,2021-09-19T18:00Z
+Sechzehntelfinale,Mon Sep 20 2021,15:00,-0300,Guarany de Sobral CE,2-0,0-0,Galvez AC,,,2021-09-20T18:00Z
+Round of 16,Sat Sep 25 2021,16:00,-0300,S.E.R. Caxias RS,2-0,1-0,União Rondonópolis MT,,,2021-09-25T19:00Z
+Round of 16,Sat Sep 25 2021,16:00,-0300,Campinense PB,2-1,1-1,Guarany de Sobral CE,,,2021-09-25T19:00Z
+Round of 16,Sat Sep 25 2021,16:00,-0300,Esportivo RS,1-2,0-0,Ferroviária SP,,,2021-09-25T19:00Z
+Round of 16,Sat Sep 25 2021,15:00,-0300,Atlético Cearense CE,2-0,0-0,Paragominas PA,,,2021-09-25T18:00Z
+Round of 16,Sun Sep 26 2021,15:00,-0300,4 de Julho PI,1-1,1-1,ABC RN,,,2021-09-26T18:00Z
+Round of 16,Sun Sep 26 2021,16:00,-0300,Uberlândia MG,1-0,0-0,Joinville SC,,,2021-09-26T19:00Z
+Round of 16,Sun Sep 26 2021,16:00,-0300,Cianorte PR,0-0,0-0,Aparecidense GO,,,2021-09-26T19:00Z
+Round of 16,Sun Sep 26 2021,16:00,-0300,América RN,1-0,1-0,Moto Club MA,,,2021-09-26T19:00Z
+Round of 16,Sat Oct 2 2021,16:00,-0300,União Rondonópolis MT,0-2,0-0,S.E.R. Caxias RS,,,2021-10-02T19:00Z
+Round of 16,Sat Oct 2 2021,16:00,-0300,Aparecidense GO,1-0,0-0,Cianorte PR,,,2021-10-02T19:00Z
+Round of 16,Sat Oct 2 2021,15:00,-0300,Joinville SC,0-0,0-0,Uberlândia MG,0-0,1-3,2021-10-02T18:00Z
+Round of 16,Sun Oct 3 2021,15:00,-0300,Guarany de Sobral CE,0-2,0-0,Campinense PB,,,2021-10-03T18:00Z
+Round of 16,Sun Oct 3 2021,15:00,-0300,Moto Club MA,2-4,0-2,América RN,,,2021-10-03T18:00Z
+Round of 16,Sun Oct 3 2021,16:00,-0300,Paragominas PA,2-1,2-0,Atlético Cearense CE,,,2021-10-03T19:00Z
+Round of 16,Sun Oct 3 2021,16:00,-0300,Ferroviária SP,1-1,1-0,Esportivo RS,,,2021-10-03T19:00Z
+Round of 16,Sun Oct 3 2021,16:00,-0300,ABC RN,2-0,1-0,4 de Julho PI,,,2021-10-03T19:00Z
+Quarterfinals,Sat Oct 9 2021,17:30,-0300,América RN,0-0,0-0,Campinense PB,,,2021-10-09T20:30Z
+Quarterfinals,Sat Oct 9 2021,15:00,-0300,Uberlândia MG,0-1,0-0,Aparecidense GO,,,2021-10-09T18:00Z
+Quarterfinals,Sun Oct 10 2021,17:30,-0300,S.E.R. Caxias RS,0-0,0-0,ABC RN,,,2021-10-10T20:30Z
+Quarterfinals,Sun Oct 10 2021,15:00,-0300,Atlético Cearense CE,1-1,1-1,Ferroviária SP,,,2021-10-10T18:00Z
+Quarterfinals,Sat Oct 16 2021,17:30,-0300,Campinense PB,0-0,0-0,América RN,,4-2,2021-10-16T20:30Z
+Quarterfinals,Sat Oct 16 2021,15:00,-0300,Aparecidense GO,1-1,0-0,Uberlândia MG,,,2021-10-16T18:00Z
+Quarterfinals,Sun Oct 17 2021,15:00,-0300,Ferroviária SP,0-0,0-0,Atlético Cearense CE,0-0,3-4,2021-10-17T18:00Z
+Quarterfinals,Sun Oct 17 2021,17:30,-0300,ABC RN,3-0,0-0,S.E.R. Caxias RS,,,2021-10-17T20:30Z
+Semifinals,Sat Oct 23 2021,15:00,-0300,Atlético Cearense CE,1-1,0-0,Campinense PB,,,2021-10-23T18:00Z
+Semifinals,Sun Oct 24 2021,16:00,-0300,Aparecidense GO,4-2,1-1,ABC RN,,,2021-10-24T19:00Z
+Semifinals,Sat Oct 30 2021,16:00,-0300,Campinense PB,3-1,1-1,Atlético Cearense CE,,,2021-10-30T19:00Z
+Semifinals,Sun Oct 31 2021,16:00,-0300,ABC RN,1-0,1-0,Aparecidense GO,,,2021-10-31T19:00Z
+Final,Sat Nov 6 2021,16:00,-0300,Campinense PB,0-1,0-1,Aparecidense GO,,,2021-11-06T19:00Z
+Final,Sat Nov 13 2021,16:00,-0300,Aparecidense GO,1-1,0-0,Campinense PB,,,2021-11-13T19:00Z

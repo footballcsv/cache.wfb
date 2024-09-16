@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Apr 8 2022,19:00,-0300,Vasco da Gama RJ,1-1,1-1,Vila Nova GO,2022-04-08T22:00Z
+1,Fri Apr 8 2022,21:30,-0300,Bahia BA,2-0,0-0,Cruzeiro,2022-04-09T00:30Z
+1,Fri Apr 8 2022,19:00,-0300,Brusque SC,1-0,0-0,Guarani SP,2022-04-08T22:00Z
+1,Sat Apr 9 2022,16:30,-0300,Ponte Preta,0-0,0-0,Grêmio Porto Alegre,2022-04-09T19:30Z
+1,Sat Apr 9 2022,18:30,-0300,Sport Recife PE,1-0,0-0,Sampaio Corrêa MA,2022-04-09T21:30Z
+1,Sat Apr 9 2022,21:00,-0300,Tombense MG,1-1,0-0,Operário Ferroviário PR,2022-04-10T00:00Z
+1,Sat Apr 9 2022,16:00,-0300,Chapecoense,1-1,0-0,Ituano SP,2022-04-09T19:00Z
+1,Sun Apr 10 2022,11:00,-0300,Londrina PR,2-0,2-0,Náutico PE,2022-04-10T14:00Z
+2,Tue Apr 12 2022,21:30,-0300,Cruzeiro,1-0,0-0,Brusque SC,2022-04-13T00:30Z
+2,Tue Apr 12 2022,19:00,-0300,Vila Nova GO,0-0,0-0,Grêmio Novorizontino SP,2022-04-12T22:00Z
+2,Thu Apr 14 2022,20:00,-0300,Criciúma SC,1-0,1-0,Londrina PR,2022-04-14T23:00Z
+2,Fri Apr 15 2022,19:00,-0300,Grêmio Porto Alegre,0-1,0-0,Chapecoense,2022-04-15T22:00Z
+2,Fri Apr 15 2022,21:30,-0300,Náutico PE,0-1,0-1,Bahia BA,2022-04-16T00:30Z
+2,Sat Apr 16 2022,18:30,-0300,Guarani SP,0-0,0-0,Sport Recife PE,2022-04-16T21:30Z
+2,Sat Apr 16 2022,16:00,-0300,Ituano SP,0-0,0-0,CSA AL,2022-04-16T19:00Z
+2,Sat Apr 16 2022,11:00,-0300,Operário Ferroviário PR,2-0,1-0,Ponte Preta,2022-04-16T14:00Z
+2,Sat Apr 16 2022,16:30,-0300,Sampaio Corrêa MA,1-1,1-1,Tombense MG,2022-04-16T19:30Z
+2,Sat Apr 16 2022,19:00,-0300,CR Brasil AL,1-1,1-1,Vasco da Gama RJ,2022-04-16T22:00Z
+3,Thu Apr 21 2022,16:30,-0300,Grêmio Porto Alegre,3-1,2-1,Guarani SP,2022-04-21T19:30Z
+3,Thu Apr 21 2022,19:00,-0300,Londrina PR,1-1,1-1,Grêmio Novorizontino SP,2022-04-21T22:00Z
+3,Fri Apr 22 2022,19:00,-0300,CSA AL,1-1,1-1,Bahia BA,2022-04-22T22:00Z
+3,Fri Apr 22 2022,21:30,-0300,Chapecoense,0-0,0-0,Vasco da Gama RJ,2022-04-23T00:30Z
+3,Sat Apr 23 2022,19:00,-0300,Tombense MG,1-1,0-0,Cruzeiro,2022-04-23T22:00Z
+3,Sat Apr 23 2022,11:00,-0300,Criciúma SC,1-1,1-0,Sport Recife PE,2022-04-23T14:00Z
+3,Sat Apr 23 2022,16:00,-0300,Ponte Preta,1-0,1-0,CR Brasil AL,2022-04-23T19:00Z
+3,Sat Apr 23 2022,18:30,-0300,Sampaio Corrêa MA,3-1,1-0,Brusque SC,2022-04-23T21:30Z
+3,Sat Apr 23 2022,19:00,-0300,Ituano SP,3-1,2-0,Vila Nova GO,2022-04-23T22:00Z
+3,Sun Apr 24 2022,16:00,-0300,Náutico PE,2-0,1-0,Operário Ferroviário PR,2022-04-24T19:00Z
+4,Tue Apr 26 2022,21:30,-0300,Cruzeiro,1-0,0-0,Londrina PR,2022-04-27T00:30Z
+4,Tue Apr 26 2022,21:30,-0300,Bahia BA,1-0,1-0,Sampaio Corrêa MA,2022-04-27T00:30Z
+4,Tue Apr 26 2022,19:00,-0300,Grêmio Novorizontino SP,0-3,0-2,Chapecoense,2022-04-26T22:00Z
+4,Tue Apr 26 2022,19:00,-0300,Sport Recife PE,1-0,0-0,Ituano SP,2022-04-26T22:00Z
+4,Tue Apr 26 2022,20:30,-0300,Brusque SC,2-0,0-0,CSA AL,2022-04-26T23:30Z
+4,Tue Apr 26 2022,20:30,-0300,Vila Nova GO,1-1,1-0,Tombense MG,2022-04-26T23:30Z
+4,Wed Apr 27 2022,21:00,-0300,Guarani SP,1-0,0-0,Criciúma SC,2022-04-28T00:00Z
+4,Wed Apr 27 2022,19:00,-0300,CR Brasil AL,1-2,0-0,Náutico PE,2022-04-27T22:00Z
+4,Wed Apr 27 2022,19:00,-0300,Operário Ferroviário PR,0-1,0-0,Grêmio Porto Alegre,2022-04-27T22:00Z
+4,Wed Apr 27 2022,21:30,-0300,Vasco da Gama RJ,1-0,1-0,Ponte Preta,2022-04-28T00:30Z
+5,Fri Apr 29 2022,19:00,-0300,Londrina PR,2-2,1-0,Vila Nova GO,2022-04-29T22:00Z
+5,Fri Apr 29 2022,21:30,-0300,Ituano SP,1-0,1-0,Bahia BA,2022-04-30T00:30Z
+5,Sat Apr 30 2022,19:00,-0300,Chapecoense,0-2,0-0,Cruzeiro,2022-04-30T22:00Z
+5,Sat Apr 30 2022,20:30,-0300,Ponte Preta,2-0,1-0,Brusque SC,2022-04-30T23:30Z
+5,Sat Apr 30 2022,16:00,-0300,CSA AL,1-0,0-0,Sport Recife PE,2022-04-30T19:00Z
+5,Sat Apr 30 2022,16:30,-0300,Grêmio Porto Alegre,2-0,2-0,CR Brasil AL,2022-04-30T19:30Z
+5,Sat Apr 30 2022,16:30,-0300,Sampaio Corrêa MA,1-1,0-1,Operário Ferroviário PR,2022-04-30T19:30Z
+5,Sun May 1 2022,11:00,-0300,Criciúma SC,1-1,0-0,Grêmio Novorizontino SP,2022-05-01T14:00Z
+5,Sun May 1 2022,18:00,-0300,Tombense MG,1-1,1-0,Vasco da Gama RJ,2022-05-01T21:00Z
+5,Tue May 3 2022,21:30,-0300,Náutico PE,1-1,0-1,Guarani SP,2022-05-04T00:30Z
+6,Tue May 3 2022,19:00,-0300,Bahia BA,4-0,3-0,Londrina PR,2022-05-03T22:00Z
+1,Wed May 4 2022,19:00,-0300,Grêmio Novorizontino SP,3-1,1-1,CR Brasil AL,2022-05-04T22:00Z
+1,Wed May 4 2022,21:00,-0300,CSA AL,1-1,0-0,Criciúma SC,2022-05-05T00:00Z
+6,Thu May 5 2022,21:30,-0300,Brusque SC,0-0,0-0,Chapecoense,2022-05-06T00:30Z
+6,Fri May 6 2022,19:00,-0300,Vila Nova GO,2-0,2-0,Náutico PE,2022-05-06T22:00Z
+6,Fri May 6 2022,21:30,-0300,Sport Recife PE,2-0,0-0,Tombense MG,2022-05-07T00:30Z
+6,Sat May 7 2022,19:00,-0300,Grêmio Novorizontino SP,2-1,1-1,Ituano SP,2022-05-07T22:00Z
+6,Sat May 7 2022,19:00,-0300,Vasco da Gama RJ,1-0,0-0,CSA AL,2022-05-07T22:00Z
+6,Sat May 7 2022,16:30,-0300,Operário Ferroviário PR,2-0,2-0,Criciúma SC,2022-05-07T19:30Z
+6,Sun May 8 2022,16:00,-0300,Guarani SP,0-0,0-0,Ponte Preta,2022-05-08T19:00Z
+6,Sun May 8 2022,16:00,-0300,Cruzeiro,1-0,1-0,Grêmio Porto Alegre,2022-05-08T19:00Z
+6,Mon May 9 2022,20:00,-0300,CR Brasil AL,2-1,2-0,Sampaio Corrêa MA,2022-05-09T23:00Z
+7,Fri May 13 2022,21:30,-0300,Chapecoense,0-1,0-1,Sport Recife PE,2022-05-14T00:30Z
+7,Fri May 13 2022,19:00,-0300,Ponte Preta,0-1,0-0,Grêmio Novorizontino SP,2022-05-13T22:00Z
+7,Sat May 14 2022,11:00,-0300,Criciúma SC,3-0,1-0,CR Brasil AL,2022-05-14T14:00Z
+7,Sat May 14 2022,11:00,-0300,Londrina PR,2-1,1-0,Brusque SC,2022-05-14T14:00Z
+7,Sat May 14 2022,16:00,-0300,Tombense MG,1-1,1-1,Guarani SP,2022-05-14T19:00Z
+7,Sat May 14 2022,18:30,-0300,Sampaio Corrêa MA,2-0,1-0,Vila Nova GO,2022-05-14T21:30Z
+7,Sat May 14 2022,20:30,-0300,CSA AL,0-0,0-0,Operário Ferroviário PR,2022-05-14T23:30Z
+7,Sun May 15 2022,16:00,-0300,Vasco da Gama RJ,1-0,1-0,Bahia BA,2022-05-15T19:00Z
+7,Sun May 15 2022,16:00,-0300,Náutico PE,0-1,0-1,Cruzeiro,2022-05-15T19:00Z
+7,Mon May 16 2022,20:00,-0300,Ituano SP,1-1,0-0,Grêmio Porto Alegre,2022-05-16T23:00Z
+8,Tue May 17 2022,21:30,-0300,Grêmio Novorizontino SP,0-0,0-0,Sport Recife PE,2022-05-18T00:30Z
+8,Wed May 18 2022,21:30,-0300,CR Brasil AL,1-0,1-0,Londrina PR,2022-05-19T00:30Z
+8,Thu May 19 2022,19:00,-0300,Vila Nova GO,0-0,0-0,Chapecoense,2022-05-19T22:00Z
+8,Thu May 19 2022,21:30,-0300,Guarani SP,0-0,0-0,Vasco da Gama RJ,2022-05-20T00:30Z
+8,Thu May 19 2022,21:30,-0300,Náutico PE,1-1,0-1,CSA AL,2022-05-20T00:30Z
+8,Thu May 19 2022,19:00,-0300,Grêmio Porto Alegre,0-0,0-0,Criciúma SC,2022-05-19T22:00Z
+8,Fri May 20 2022,19:00,-0300,Brusque SC,1-0,0-0,Tombense MG,2022-05-20T22:00Z
+8,Fri May 20 2022,21:30,-0300,Bahia BA,2-1,1-0,Ponte Preta,2022-05-21T00:30Z
+8,Sat May 21 2022,11:00,-0300,Operário Ferroviário PR,3-2,0-1,Ituano SP,2022-05-21T14:00Z
+8,Sun May 22 2022,11:00,-0300,Cruzeiro,2-0,0-0,Sampaio Corrêa MA,2022-05-22T14:00Z
+9,Tue May 24 2022,21:30,-0300,Ponte Preta,0-0,0-0,Chapecoense,2022-05-25T00:30Z
+9,Tue May 24 2022,19:00,-0300,Sport Recife PE,0-1,0-1,CR Brasil AL,2022-05-24T22:00Z
+9,Wed May 25 2022,19:00,-0300,Londrina PR,2-1,1-0,Operário Ferroviário PR,2022-05-25T22:00Z
+9,Thu May 26 2022,19:00,-0300,Vasco da Gama RJ,2-0,1-0,Brusque SC,2022-05-26T22:00Z
+9,Thu May 26 2022,21:30,-0300,Ituano SP,0-0,0-0,Náutico PE,2022-05-27T00:30Z
+9,Fri May 27 2022,21:30,-0300,Criciúma SC,0-1,0-0,Cruzeiro,2022-05-28T00:30Z
+9,Fri May 27 2022,19:00,-0300,Tombense MG,1-0,0-0,Bahia BA,2022-05-27T22:00Z
+9,Sat May 28 2022,19:00,-0300,Sampaio Corrêa MA,2-1,1-0,Guarani SP,2022-05-28T22:00Z
+9,Sat May 28 2022,16:30,-0300,CSA AL,2-1,2-0,Grêmio Novorizontino SP,2022-05-28T19:30Z
+9,Sun May 29 2022,16:00,-0300,Vila Nova GO,0-0,0-0,Grêmio Porto Alegre,2022-05-29T19:00Z
+10,Wed Jun 1 2022,21:30,-0300,CR Brasil AL,0-0,0-0,CSA AL,2022-06-02T00:30Z
+10,Thu Jun 2 2022,21:30,-0300,Guarani SP,1-1,1-0,Vila Nova GO,2022-06-03T00:30Z
+10,Thu Jun 2 2022,21:30,-0300,Sport Recife PE,2-1,0-1,Ponte Preta,2022-06-03T00:30Z
+10,Thu Jun 2 2022,20:00,-0300,Vasco da Gama RJ,0-0,0-0,Grêmio Porto Alegre,2022-06-02T23:00Z
+10,Fri Jun 3 2022,21:30,-0300,Operário Ferroviário PR,1-2,0-0,Cruzeiro,2022-06-04T00:30Z
+10,Sat Jun 4 2022,16:30,-0300,Bahia BA,2-1,0-1,Criciúma SC,2022-06-04T19:30Z
+10,Sat Jun 4 2022,16:30,-0300,Grêmio Novorizontino SP,0-0,0-0,Sampaio Corrêa MA,2022-06-04T19:30Z
+10,Sat Jun 4 2022,19:00,-0300,Brusque SC,1-2,1-0,Náutico PE,2022-06-04T22:00Z
+10,Sat Jun 4 2022,19:00,-0300,Tombense MG,2-1,1-1,Ituano SP,2022-06-04T22:00Z
+11,Mon Jun 6 2022,20:00,-0300,Guarani SP,0-3,0-1,Operário Ferroviário PR,2022-06-06T23:00Z
+11,Tue Jun 7 2022,20:30,-0300,Ituano SP,1-2,1-2,Ponte Preta,2022-06-07T23:30Z
+11,Tue Jun 7 2022,19:00,-0300,Londrina PR,1-1,0-1,Tombense MG,2022-06-07T22:00Z
+11,Tue Jun 7 2022,19:00,-0300,Náutico PE,2-3,0-2,Vasco da Gama RJ,2022-06-07T22:00Z
+11,Tue Jun 7 2022,19:00,-0300,Vila Nova GO,0-2,0-0,Brusque SC,2022-06-07T22:00Z
+11,Tue Jun 7 2022,20:30,-0300,Criciúma SC,3-1,2-1,Sampaio Corrêa MA,2022-06-07T23:30Z
+11,Tue Jun 7 2022,21:30,-0300,CSA AL,1-1,1-0,Chapecoense,2022-06-08T00:30Z
+11,Tue Jun 7 2022,21:30,-0300,Grêmio Porto Alegre,2-0,1-0,Grêmio Novorizontino SP,2022-06-08T00:30Z
+11,Wed Jun 8 2022,21:30,-0300,Bahia BA,1-0,0-0,Sport Recife PE,2022-06-09T00:30Z
+11,Wed Jun 8 2022,19:00,-0300,Cruzeiro,2-0,2-0,CR Brasil AL,2022-06-08T22:00Z
+12,Fri Jun 10 2022,19:00,-0300,Sampaio Corrêa MA,2-0,2-0,Náutico PE,2022-06-10T22:00Z
+12,Fri Jun 10 2022,21:30,-0300,Chapecoense,2-3,2-1,Criciúma SC,2022-06-11T00:30Z
+12,Sat Jun 11 2022,16:30,-0300,Ponte Preta,1-2,0-0,Londrina PR,2022-06-11T19:30Z
+12,Sat Jun 11 2022,11:00,-0300,Brusque SC,0-1,0-1,Ituano SP,2022-06-11T14:00Z
+12,Sat Jun 11 2022,16:30,-0300,CR Brasil AL,1-0,0-0,Vila Nova GO,2022-06-11T19:30Z
+12,Sat Jun 11 2022,18:30,-0300,Operário Ferroviário PR,0-1,0-0,Bahia BA,2022-06-11T21:30Z
+12,Sun Jun 12 2022,11:00,-0300,Grêmio Novorizontino SP,1-2,0-1,Guarani SP,2022-06-12T14:00Z
+12,Sun Jun 12 2022,16:00,-0300,Vasco da Gama RJ,1-0,1-0,Cruzeiro,2022-06-12T19:00Z
+12,Sun Jun 12 2022,19:00,-0300,Tombense MG,2-1,0-0,CSA AL,2022-06-12T22:00Z
+12,Mon Jun 13 2022,20:00,-0300,Sport Recife PE,0-0,0-0,Grêmio Porto Alegre,2022-06-13T23:00Z
+13,Tue Jun 14 2022,19:00,-0300,Bahia BA,0-1,0-1,Chapecoense,2022-06-14T22:00Z
+13,Thu Jun 16 2022,16:00,-0300,Cruzeiro,2-0,1-0,Ponte Preta,2022-06-16T19:00Z
+13,Thu Jun 16 2022,20:00,-0300,Vila Nova GO,0-0,0-0,Operário Ferroviário PR,2022-06-16T23:00Z
+13,Fri Jun 17 2022,19:00,-0300,Criciúma SC,0-1,0-0,Brusque SC,2022-06-17T22:00Z
+13,Fri Jun 17 2022,21:30,-0300,CR Brasil AL,1-1,0-0,Ituano SP,2022-06-18T00:30Z
+13,Sat Jun 18 2022,18:30,-0300,Náutico PE,1-1,0-1,Sport Recife PE,2022-06-18T21:30Z
+13,Sat Jun 18 2022,11:00,-0300,Grêmio Porto Alegre,2-0,1-0,Sampaio Corrêa MA,2022-06-18T14:00Z
+13,Sat Jun 18 2022,16:00,-0300,Londrina PR,0-1,0-0,Vasco da Gama RJ,2022-06-18T19:00Z
+13,Sat Jun 18 2022,16:00,-0300,Grêmio Novorizontino SP,1-3,1-1,Tombense MG,2022-06-18T19:00Z
+13,Sun Jun 19 2022,11:00,-0300,Guarani SP,0-0,0-0,CSA AL,2022-06-19T14:00Z
+14,Tue Jun 21 2022,19:00,-0300,Chapecoense,1-2,1-1,CR Brasil AL,2022-06-21T22:00Z
+14,Thu Jun 23 2022,21:30,-0300,CSA AL,1-1,1-0,Grêmio Porto Alegre,2022-06-24T00:30Z
+14,Thu Jun 23 2022,21:30,-0300,Ponte Preta,0-0,0-0,Sampaio Corrêa MA,2022-06-24T00:30Z
+14,Fri Jun 24 2022,19:00,-0300,Londrina PR,3-1,1-1,Guarani SP,2022-06-24T22:00Z
+14,Fri Jun 24 2022,19:00,-0300,Vasco da Gama RJ,3-0,0-0,Operário Ferroviário PR,2022-06-24T22:00Z
+14,Sat Jun 25 2022,11:00,-0300,Criciúma SC,1-0,1-0,Vila Nova GO,2022-06-25T14:00Z
+14,Sat Jun 25 2022,18:30,-0300,Sport Recife PE,0-0,0-0,Brusque SC,2022-06-25T21:30Z
+14,Sat Jun 25 2022,16:00,-0300,Bahia BA,0-1,0-0,Grêmio Novorizontino SP,2022-06-25T19:00Z
+14,Sun Jun 26 2022,11:00,-0300,Tombense MG,1-1,0-1,Náutico PE,2022-06-26T14:00Z
+15,Mon Jun 27 2022,20:00,-0300,Sampaio Corrêa MA,2-0,0-0,CSA AL,2022-06-27T23:00Z
+15,Mon Jun 27 2022,20:00,-0300,Operário Ferroviário PR,2-1,2-0,Chapecoense,2022-06-27T23:00Z
+15,Tue Jun 28 2022,21:30,-0300,Cruzeiro,2-1,2-1,Sport Recife PE,2022-06-29T00:30Z
+15,Tue Jun 28 2022,21:30,-0300,Vila Nova GO,1-1,1-1,Ponte Preta,2022-06-29T00:30Z
+15,Tue Jun 28 2022,19:00,-0300,Brusque SC,0-2,0-2,Bahia BA,2022-06-28T22:00Z
+15,Tue Jun 28 2022,19:00,-0300,Grêmio Porto Alegre,1-0,1-0,Londrina PR,2022-06-28T22:00Z
+15,Tue Jun 28 2022,21:30,-0300,Guarani SP,0-2,0-1,Ituano SP,2022-06-29T00:30Z
+15,Wed Jun 29 2022,21:30,-0300,CR Brasil AL,0-0,0-0,Tombense MG,2022-06-30T00:30Z
+15,Wed Jun 29 2022,19:00,-0300,Náutico PE,1-1,1-1,Criciúma SC,2022-06-29T22:00Z
+15,Wed Jun 29 2022,21:30,-0300,Grêmio Novorizontino SP,2-0,1-0,Vasco da Gama RJ,2022-06-30T00:30Z
+16,Fri Jul 1 2022,21:30,-0300,Brusque SC,2-0,1-0,Operário Ferroviário PR,2022-07-02T00:30Z
+16,Fri Jul 1 2022,21:30,-0300,Cruzeiro,2-0,1-0,Vila Nova GO,2022-07-02T00:30Z
+16,Fri Jul 1 2022,19:00,-0300,Chapecoense,3-1,0-0,Sampaio Corrêa MA,2022-07-01T22:00Z
+16,Sat Jul 2 2022,18:30,-0300,Náutico PE,3-1,3-0,Grêmio Novorizontino SP,2022-07-02T21:30Z
+16,Sat Jul 2 2022,11:00,-0300,Londrina PR,0-0,0-0,CSA AL,2022-07-02T14:00Z
+16,Sat Jul 2 2022,16:00,-0300,Ituano SP,1-2,0-0,Criciúma SC,2022-07-02T19:00Z
+16,Sat Jul 2 2022,20:30,-0300,CR Brasil AL,1-1,1-0,Guarani SP,2022-07-02T23:30Z
+16,Sun Jul 3 2022,16:00,-0300,Vasco da Gama RJ,0-0,0-0,Sport Recife PE,2022-07-03T19:00Z
+16,Sun Jul 3 2022,16:00,-0300,Bahia BA,0-0,0-0,Grêmio Porto Alegre,2022-07-03T19:00Z
+16,Sun Jul 3 2022,11:00,-0300,Ponte Preta,0-0,0-0,Tombense MG,2022-07-03T14:00Z
+10,Tue Jul 5 2022,19:00,-0300,Chapecoense,0-3,0-3,Londrina PR,2022-07-05T22:00Z
+14,Tue Jul 5 2022,19:00,-0300,Ituano SP,1-1,1-1,Cruzeiro,2022-07-05T22:00Z
+17,Tue Jul 5 2022,21:30,-0300,Operário Ferroviário PR,2-3,2-3,CR Brasil AL,2022-07-06T00:30Z
+17,Wed Jul 6 2022,21:30,-0300,Grêmio Novorizontino SP,1-0,0-0,Brusque SC,2022-07-07T00:30Z
+17,Thu Jul 7 2022,19:00,-0300,CSA AL,0-1,0-0,Ponte Preta,2022-07-07T22:00Z
+17,Fri Jul 8 2022,21:30,-0300,Grêmio Porto Alegre,2-0,1-0,Náutico PE,2022-07-09T00:30Z
+17,Fri Jul 8 2022,19:00,-0300,Vila Nova GO,1-1,0-0,Bahia BA,2022-07-08T22:00Z
+17,Sat Jul 9 2022,11:00,-0300,Guarani SP,1-0,1-0,Cruzeiro,2022-07-09T14:00Z
+17,Sat Jul 9 2022,16:00,-0300,Sport Recife PE,2-0,1-0,Londrina PR,2022-07-09T19:00Z
+17,Sat Jul 9 2022,16:30,-0300,Criciúma SC,0-1,0-1,Vasco da Gama RJ,2022-07-09T19:30Z
+17,Sat Jul 9 2022,16:30,-0300,Tombense MG,2-1,1-1,Chapecoense,2022-07-09T19:30Z
+17,Sat Jul 9 2022,18:30,-0300,Sampaio Corrêa MA,2-0,1-0,Ituano SP,2022-07-09T21:30Z
+18,Thu Jul 14 2022,18:30,-0300,Operário Ferroviário PR,0-0,0-0,Sport Recife PE,2022-07-14T21:30Z
+18,Fri Jul 15 2022,21:30,-0300,Vila Nova GO,1-2,0-1,CSA AL,2022-07-16T00:30Z
+18,Fri Jul 15 2022,19:00,-0300,Criciúma SC,1-1,0-1,Ponte Preta,2022-07-15T22:00Z
+18,Sat Jul 16 2022,11:00,-0300,Ituano SP,0-0,0-0,Londrina PR,2022-07-16T14:00Z
+18,Sat Jul 16 2022,16:00,-0300,CR Brasil AL,1-1,0-0,Brusque SC,2022-07-16T19:00Z
+18,Sat Jul 16 2022,16:30,-0300,Grêmio Porto Alegre,3-0,3-0,Tombense MG,2022-07-16T19:30Z
+18,Sat Jul 16 2022,16:30,-0300,Sampaio Corrêa MA,3-1,1-0,Vasco da Gama RJ,2022-07-16T19:30Z
+18,Sat Jul 16 2022,18:30,-0300,Guarani SP,0-2,0-1,Bahia BA,2022-07-16T21:30Z
+18,Sun Jul 17 2022,16:00,-0300,Náutico PE,1-2,0-0,Chapecoense,2022-07-17T19:00Z
+18,Sun Jul 17 2022,16:00,-0300,Cruzeiro,2-1,1-0,Grêmio Novorizontino SP,2022-07-17T19:00Z
+19,Mon Jul 18 2022,20:00,-0300,Sport Recife PE,0-0,0-0,Vila Nova GO,2022-07-18T23:00Z
+19,Tue Jul 19 2022,19:00,-0300,Bahia BA,1-1,1-0,CR Brasil AL,2022-07-19T22:00Z
+19,Tue Jul 19 2022,19:00,-0300,Brusque SC,1-1,0-0,Grêmio Porto Alegre,2022-07-19T22:00Z
+19,Tue Jul 19 2022,19:00,-0300,Londrina PR,1-0,1-0,Sampaio Corrêa MA,2022-07-19T22:00Z
+19,Tue Jul 19 2022,19:00,-0300,Tombense MG,1-0,1-0,Criciúma SC,2022-07-19T22:00Z
+19,Tue Jul 19 2022,21:30,-0300,Vasco da Gama RJ,1-1,0-1,Ituano SP,2022-07-20T00:30Z
+19,Wed Jul 20 2022,19:00,-0300,CSA AL,1-1,0-1,Cruzeiro,2022-07-20T22:00Z
+19,Wed Jul 20 2022,19:00,-0300,Ponte Preta,1-0,0-0,Náutico PE,2022-07-20T22:00Z
+19,Wed Jul 20 2022,21:30,-0300,Grêmio Novorizontino SP,2-1,2-0,Operário Ferroviário PR,2022-07-21T00:30Z
+19,Wed Jul 20 2022,19:00,-0300,Chapecoense,0-0,0-0,Guarani SP,2022-07-20T22:00Z
+20,Fri Jul 22 2022,21:30,-0300,Sampaio Corrêa MA,4-1,2-0,Sport Recife PE,2022-07-23T00:30Z
+20,Sat Jul 23 2022,16:00,-0300,Cruzeiro,1-0,0-0,Bahia BA,2022-07-23T19:00Z
+20,Sat Jul 23 2022,16:30,-0300,Grêmio Porto Alegre,2-1,2-0,Ponte Preta,2022-07-23T19:30Z
+20,Sat Jul 23 2022,16:30,-0300,Vila Nova GO,1-0,0-0,Vasco da Gama RJ,2022-07-23T19:30Z
+20,Sat Jul 23 2022,18:30,-0300,Náutico PE,1-2,1-0,Londrina PR,2022-07-23T21:30Z
+20,Sat Jul 23 2022,19:00,-0300,Ituano SP,1-0,1-0,Chapecoense,2022-07-23T22:00Z
+20,Sat Jul 23 2022,20:30,-0300,CR Brasil AL,2-1,2-0,Grêmio Novorizontino SP,2022-07-23T23:30Z
+20,Sun Jul 24 2022,11:00,-0300,Guarani SP,1-1,0-0,Brusque SC,2022-07-24T14:00Z
+20,Mon Jul 25 2022,19:00,-0300,Operário Ferroviário PR,0-0,0-0,Tombense MG,2022-07-25T22:00Z
+20,Mon Jul 25 2022,19:00,-0300,Criciúma SC,2-1,0-1,CSA AL,2022-07-25T22:00Z
+21,Tue Jul 26 2022,18:30,-0300,Chapecoense,0-0,0-0,Grêmio Porto Alegre,2022-07-26T21:30Z
+21,Thu Jul 28 2022,19:00,-0300,Vasco da Gama RJ,4-0,2-0,CR Brasil AL,2022-07-28T22:00Z
+21,Thu Jul 28 2022,21:30,-0300,Sport Recife PE,2-1,1-0,Guarani SP,2022-07-29T00:30Z
+21,Fri Jul 29 2022,21:30,-0300,Tombense MG,3-0,0-0,Sampaio Corrêa MA,2022-07-30T00:30Z
+21,Fri Jul 29 2022,19:00,-0300,Bahia BA,3-0,0-0,Náutico PE,2022-07-29T22:00Z
+21,Sat Jul 30 2022,11:00,-0300,Brusque SC,0-0,0-0,Cruzeiro,2022-07-30T14:00Z
+21,Sat Jul 30 2022,16:00,-0300,Londrina PR,1-1,1-1,Criciúma SC,2022-07-30T19:00Z
+21,Sat Jul 30 2022,18:30,-0300,Grêmio Novorizontino SP,1-1,0-1,Vila Nova GO,2022-07-30T21:30Z
+21,Sat Jul 30 2022,19:00,-0300,Ponte Preta,3-0,2-0,Operário Ferroviário PR,2022-07-30T22:00Z
+21,Sat Jul 30 2022,20:30,-0300,CSA AL,1-3,0-2,Ituano SP,2022-07-30T23:30Z
+22,Sun Jul 31 2022,16:00,-0300,Vasco da Gama RJ,0-0,0-0,Chapecoense,2022-07-31T19:00Z
+22,Tue Aug 2 2022,21:30,-0300,Sport Recife PE,1-1,0-1,Criciúma SC,2022-08-03T00:30Z
+22,Thu Aug 4 2022,19:00,-0300,Brusque SC,1-1,1-0,Sampaio Corrêa MA,2022-08-04T22:00Z
+22,Thu Aug 4 2022,21:30,-0300,CR Brasil AL,1-1,1-1,Ponte Preta,2022-08-05T00:30Z
+22,Fri Aug 5 2022,19:00,-0300,Vila Nova GO,1-1,0-0,Ituano SP,2022-08-05T22:00Z
+22,Fri Aug 5 2022,21:30,-0300,Guarani SP,1-2,0-1,Grêmio Porto Alegre,2022-08-06T00:30Z
+22,Fri Aug 5 2022,19:00,-0300,Operário Ferroviário PR,1-0,0-0,Náutico PE,2022-08-05T22:00Z
+22,Sat Aug 6 2022,19:00,-0300,Cruzeiro,2-0,0-0,Tombense MG,2022-08-06T22:00Z
+22,Sat Aug 6 2022,19:00,-0300,Grêmio Novorizontino SP,0-1,0-0,Londrina PR,2022-08-06T22:00Z
+22,Sat Aug 6 2022,16:30,-0300,Bahia BA,1-0,1-0,CSA AL,2022-08-06T19:30Z
+23,Tue Aug 9 2022,19:00,-0300,Grêmio Porto Alegre,5-1,1-0,Operário Ferroviário PR,2022-08-09T22:00Z
+23,Tue Aug 9 2022,19:00,-0300,Ituano SP,4-1,2-1,Sport Recife PE,2022-08-09T22:00Z
+23,Tue Aug 9 2022,20:30,-0300,CSA AL,1-0,0-0,Brusque SC,2022-08-09T23:30Z
+23,Tue Aug 9 2022,20:30,-0300,Ponte Preta,3-1,1-1,Vasco da Gama RJ,2022-08-09T23:30Z
+23,Tue Aug 9 2022,21:00,-0300,Londrina PR,1-2,0-0,Cruzeiro,2022-08-10T00:00Z
+23,Tue Aug 9 2022,21:30,-0300,Sampaio Corrêa MA,2-0,1-0,Bahia BA,2022-08-10T00:30Z
+23,Tue Aug 9 2022,21:30,-0300,Tombense MG,0-0,0-0,Vila Nova GO,2022-08-10T00:30Z
+23,Wed Aug 10 2022,19:00,-0300,Náutico PE,2-1,2-0,CR Brasil AL,2022-08-10T22:00Z
+23,Wed Aug 10 2022,21:30,-0300,Criciúma SC,0-0,0-0,Guarani SP,2022-08-11T00:30Z
+23,Wed Aug 10 2022,19:00,-0300,Chapecoense,2-2,1-1,Grêmio Novorizontino SP,2022-08-10T22:00Z
+24,Fri Aug 12 2022,21:30,-0300,Bahia BA,2-0,0-0,Ituano SP,2022-08-13T00:30Z
+24,Fri Aug 12 2022,21:30,-0300,Brusque SC,2-1,1-0,Ponte Preta,2022-08-13T00:30Z
+24,Fri Aug 12 2022,19:00,-0300,Vila Nova GO,0-0,0-0,Londrina PR,2022-08-12T22:00Z
+24,Sat Aug 13 2022,11:00,-0300,Operário Ferroviário PR,1-1,0-0,Sampaio Corrêa MA,2022-08-13T14:00Z
+24,Sat Aug 13 2022,11:00,-0300,Vasco da Gama RJ,3-1,2-0,Tombense MG,2022-08-13T14:00Z
+24,Sat Aug 13 2022,16:00,-0300,Sport Recife PE,4-0,3-0,CSA AL,2022-08-13T19:00Z
+24,Sat Aug 13 2022,16:30,-0300,Cruzeiro,1-1,0-1,Chapecoense,2022-08-13T19:30Z
+24,Sat Aug 13 2022,18:30,-0300,Guarani SP,1-0,0-0,Náutico PE,2022-08-13T21:30Z
+24,Sat Aug 13 2022,20:30,-0300,CR Brasil AL,2-0,2-0,Grêmio Porto Alegre,2022-08-13T23:30Z
+24,Sun Aug 14 2022,11:00,-0300,Grêmio Novorizontino SP,3-1,1-1,Criciúma SC,2022-08-14T14:00Z
+25,Tue Aug 16 2022,20:30,-0300,Londrina PR,1-1,0-1,Bahia BA,2022-08-16T23:30Z
+25,Wed Aug 17 2022,19:00,-0300,Criciúma SC,2-0,1-0,Operário Ferroviário PR,2022-08-17T22:00Z
+25,Thu Aug 18 2022,21:30,-0300,Tombense MG,1-0,1-0,Sport Recife PE,2022-08-19T00:30Z
+25,Thu Aug 18 2022,20:00,-0300,CSA AL,2-0,2-0,Vasco da Gama RJ,2022-08-18T23:00Z
+25,Fri Aug 19 2022,19:00,-0300,Ituano SP,1-0,1-0,Grêmio Novorizontino SP,2022-08-19T22:00Z
+25,Fri Aug 19 2022,21:30,-0300,Náutico PE,1-2,1-0,Vila Nova GO,2022-08-20T00:30Z
+25,Sat Aug 20 2022,16:30,-0300,Chapecoense,1-0,0-0,Brusque SC,2022-08-20T19:30Z
+25,Sat Aug 20 2022,19:00,-0300,Sampaio Corrêa MA,1-2,1-1,CR Brasil AL,2022-08-20T22:00Z
+25,Sat Aug 20 2022,11:00,-0300,Ponte Preta,1-0,0-0,Guarani SP,2022-08-20T14:00Z
+25,Sun Aug 21 2022,16:00,-0300,Grêmio Porto Alegre,2-2,1-1,Cruzeiro,2022-08-21T19:00Z
+26,Tue Aug 23 2022,21:30,-0300,Sport Recife PE,1-0,0-0,Chapecoense,2022-08-24T00:30Z
+26,Thu Aug 25 2022,21:30,-0300,Grêmio Novorizontino SP,1-1,1-0,Ponte Preta,2022-08-26T00:30Z
+26,Thu Aug 25 2022,19:00,-0300,Vila Nova GO,0-0,0-0,Sampaio Corrêa MA,2022-08-25T22:00Z
+26,Fri Aug 26 2022,19:00,-0300,Grêmio Porto Alegre,0-1,0-0,Ituano SP,2022-08-26T22:00Z
+26,Fri Aug 26 2022,21:30,-0300,Cruzeiro,4-0,1-0,Náutico PE,2022-08-27T00:30Z
+26,Fri Aug 26 2022,19:00,-0300,Brusque SC,0-1,0-1,Londrina PR,2022-08-26T22:00Z
+26,Sat Aug 27 2022,11:00,-0300,Guarani SP,2-1,1-0,Tombense MG,2022-08-27T14:00Z
+26,Sat Aug 27 2022,16:00,-0300,CR Brasil AL,0-0,0-0,Criciúma SC,2022-08-27T19:00Z
+26,Sat Aug 27 2022,18:30,-0300,Operário Ferroviário PR,0-0,0-0,CSA AL,2022-08-27T21:30Z
+26,Sun Aug 28 2022,16:00,-0300,Bahia BA,2-1,2-1,Vasco da Gama RJ,2022-08-28T19:00Z
+27,Mon Aug 29 2022,20:00,-0300,Chapecoense,1-2,1-1,Vila Nova GO,2022-08-29T23:00Z
+27,Tue Aug 30 2022,19:00,-0300,Londrina PR,1-0,0-0,CR Brasil AL,2022-08-30T22:00Z
+27,Tue Aug 30 2022,19:00,-0300,Sampaio Corrêa MA,1-1,1-1,Cruzeiro,2022-08-30T22:00Z
+27,Tue Aug 30 2022,20:30,-0300,Ituano SP,0-0,0-0,Operário Ferroviário PR,2022-08-30T23:30Z
+27,Tue Aug 30 2022,20:30,-0300,Sport Recife PE,1-0,0-0,Grêmio Novorizontino SP,2022-08-30T23:30Z
+27,Tue Aug 30 2022,21:30,-0300,Criciúma SC,2-0,1-0,Grêmio Porto Alegre,2022-08-31T00:30Z
+27,Tue Aug 30 2022,21:30,-0300,CSA AL,2-0,0-0,Náutico PE,2022-08-31T00:30Z
+27,Tue Aug 30 2022,21:30,-0300,Tombense MG,1-0,1-0,Brusque SC,2022-08-31T00:30Z
+27,Wed Aug 31 2022,21:30,-0300,Ponte Preta,2-0,1-0,Bahia BA,2022-09-01T00:30Z
+27,Wed Aug 31 2022,19:00,-0300,Vasco da Gama RJ,2-1,1-0,Guarani SP,2022-08-31T22:00Z
+28,Fri Sep 2 2022,21:30,-0300,Grêmio Porto Alegre,2-1,1-0,Vila Nova GO,2022-09-03T00:30Z
+28,Fri Sep 2 2022,19:00,-0300,Náutico PE,2-0,0-0,Ituano SP,2022-09-02T22:00Z
+28,Sat Sep 3 2022,11:00,-0300,Grêmio Novorizontino SP,1-1,0-1,CSA AL,2022-09-03T14:00Z
+28,Sat Sep 3 2022,16:30,-0300,Brusque SC,1-0,1-0,Vasco da Gama RJ,2022-09-03T19:30Z
+28,Sat Sep 3 2022,16:30,-0300,Guarani SP,3-0,1-0,Sampaio Corrêa MA,2022-09-03T19:30Z
+28,Sat Sep 3 2022,17:00,-0300,CR Brasil AL,2-0,1-0,Sport Recife PE,2022-09-03T20:00Z
+28,Sat Sep 3 2022,19:00,-0300,Bahia BA,3-1,0-1,Tombense MG,2022-09-03T22:00Z
+28,Sat Sep 3 2022,19:00,-0300,Chapecoense,3-0,1-0,Ponte Preta,2022-09-03T22:00Z
+28,Sat Sep 3 2022,20:30,-0300,Operário Ferroviário PR,1-0,0-0,Londrina PR,2022-09-03T23:30Z
+28,Sun Sep 4 2022,16:00,-0300,Cruzeiro,1-1,0-1,Criciúma SC,2022-09-04T19:00Z
+29,Tue Sep 6 2022,21:30,-0300,Vila Nova GO,2-1,0-1,Guarani SP,2022-09-07T00:30Z
+29,Wed Sep 7 2022,21:30,-0300,Sampaio Corrêa MA,2-1,0-0,Grêmio Novorizontino SP,2022-09-08T00:30Z
+29,Wed Sep 7 2022,19:00,-0300,Ponte Preta,1-0,1-0,Sport Recife PE,2022-09-07T22:00Z
+29,Thu Sep 8 2022,21:30,-0300,Cruzeiro,1-0,1-0,Operário Ferroviário PR,2022-09-09T00:30Z
+29,Thu Sep 8 2022,19:00,-0300,Criciúma SC,0-0,0-0,Bahia BA,2022-09-08T22:00Z
+29,Fri Sep 9 2022,21:30,-0300,Náutico PE,1-0,0-0,Brusque SC,2022-09-10T00:30Z
+29,Sat Sep 10 2022,16:00,-0300,CSA AL,1-1,0-1,CR Brasil AL,2022-09-10T19:00Z
+29,Sat Sep 10 2022,18:30,-0300,Londrina PR,2-1,1-0,Chapecoense,2022-09-10T21:30Z
+29,Sat Sep 10 2022,11:00,-0300,Ituano SP,3-0,0-0,Tombense MG,2022-09-10T14:00Z
+29,Sun Sep 11 2022,16:00,-0300,Grêmio Porto Alegre,2-1,2-1,Vasco da Gama RJ,2022-09-11T19:00Z
+30,Mon Sep 12 2022,20:00,-0300,Sport Recife PE,1-0,0-0,Bahia BA,2022-09-12T23:00Z
+30,Tue Sep 13 2022,19:00,-0300,Operário Ferroviário PR,0-1,0-1,Guarani SP,2022-09-13T22:00Z
+30,Tue Sep 13 2022,21:30,-0300,Ponte Preta,1-1,1-1,Ituano SP,2022-09-14T00:30Z
+30,Fri Sep 16 2022,21:30,-0300,Grêmio Novorizontino SP,2-0,2-0,Grêmio Porto Alegre,2022-09-17T00:30Z
+30,Fri Sep 16 2022,21:30,-0300,Tombense MG,1-1,0-1,Londrina PR,2022-09-17T00:30Z
+30,Fri Sep 16 2022,19:00,-0300,Vasco da Gama RJ,4-1,2-0,Náutico PE,2022-09-16T22:00Z
+30,Sat Sep 17 2022,11:00,-0300,Chapecoense,1-0,0-0,CSA AL,2022-09-17T14:00Z
+30,Sat Sep 17 2022,16:30,-0300,Brusque SC,0-1,0-1,Vila Nova GO,2022-09-17T19:30Z
+30,Sat Sep 17 2022,19:00,-0300,Sampaio Corrêa MA,1-1,1-0,Criciúma SC,2022-09-17T22:00Z
+30,Sat Sep 17 2022,20:30,-0300,CR Brasil AL,0-2,0-0,Cruzeiro,2022-09-17T23:30Z
+31,Tue Sep 20 2022,21:30,-0300,Guarani SP,2-0,2-0,Grêmio Novorizontino SP,2022-09-21T00:30Z
+31,Tue Sep 20 2022,19:00,-0300,Grêmio Porto Alegre,3-0,0-0,Sport Recife PE,2022-09-20T22:00Z
+31,Wed Sep 21 2022,21:00,-0300,Cruzeiro,3-0,1-0,Vasco da Gama RJ,2022-09-22T00:00Z
+31,Thu Sep 22 2022,21:30,-0300,Vila Nova GO,1-0,0-0,CR Brasil AL,2022-09-23T00:30Z
+31,Fri Sep 23 2022,19:00,-0300,Náutico PE,1-3,1-1,Sampaio Corrêa MA,2022-09-23T22:00Z
+31,Fri Sep 23 2022,21:30,-0300,Londrina PR,0-2,0-0,Ponte Preta,2022-09-24T00:30Z
+31,Sat Sep 24 2022,18:15,-0300,Bahia BA,2-2,1-2,Operário Ferroviário PR,2022-09-24T21:15Z
+31,Sat Sep 24 2022,11:00,-0300,Ituano SP,2-0,1-0,Brusque SC,2022-09-24T14:00Z
+31,Sun Sep 25 2022,18:30,-0300,Criciúma SC,2-0,1-0,Chapecoense,2022-09-25T21:30Z
+31,Mon Sep 26 2022,20:00,-0300,CSA AL,2-0,2-0,Tombense MG,2022-09-26T23:00Z
+32,Wed Sep 28 2022,21:45,-0300,Sport Recife PE,2-1,1-1,Náutico PE,2022-09-29T00:45Z
+32,Wed Sep 28 2022,19:00,-0300,Ponte Preta,1-4,1-1,Cruzeiro,2022-09-28T22:00Z
+32,Thu Sep 29 2022,21:30,-0300,Vasco da Gama RJ,1-1,1-1,Londrina PR,2022-09-30T00:30Z
+32,Thu Sep 29 2022,19:00,-0300,Tombense MG,2-0,1-0,Grêmio Novorizontino SP,2022-09-29T22:00Z
+32,Fri Sep 30 2022,19:00,-0300,CSA AL,1-2,1-1,Guarani SP,2022-09-30T22:00Z
+32,Fri Sep 30 2022,19:00,-0300,Operário Ferroviário PR,1-1,1-1,Vila Nova GO,2022-09-30T22:00Z
+32,Fri Sep 30 2022,19:00,-0300,Sampaio Corrêa MA,2-1,1-0,Grêmio Porto Alegre,2022-09-30T22:00Z
+32,Fri Sep 30 2022,21:30,-0300,Chapecoense,3-1,0-1,Bahia BA,2022-10-01T00:30Z
+32,Sat Oct 1 2022,18:30,-0300,Ituano SP,1-0,0-0,CR Brasil AL,2022-10-01T21:30Z
+32,Sat Oct 1 2022,11:00,-0300,Brusque SC,0-2,0-0,Criciúma SC,2022-10-01T14:00Z
+33,Mon Oct 3 2022,20:00,-0300,Guarani SP,1-0,0-0,Londrina PR,2022-10-03T23:00Z
+33,Mon Oct 3 2022,20:00,-0300,Sampaio Corrêa MA,2-1,1-0,Ponte Preta,2022-10-03T23:00Z
+33,Tue Oct 4 2022,19:00,-0300,Brusque SC,0-1,0-0,Sport Recife PE,2022-10-04T22:00Z
+33,Tue Oct 4 2022,19:00,-0300,CR Brasil AL,2-1,1-0,Chapecoense,2022-10-04T22:00Z
+33,Tue Oct 4 2022,19:00,-0300,Grêmio Porto Alegre,2-0,2-0,CSA AL,2022-10-04T22:00Z
+33,Tue Oct 4 2022,19:00,-0300,Operário Ferroviário PR,2-3,1-0,Vasco da Gama RJ,2022-10-04T22:00Z
+33,Tue Oct 4 2022,19:00,-0300,Vila Nova GO,1-0,0-0,Criciúma SC,2022-10-04T22:00Z
+33,Tue Oct 4 2022,21:30,-0300,Náutico PE,4-3,3-1,Tombense MG,2022-10-05T00:30Z
+33,Tue Oct 4 2022,21:30,-0300,Grêmio Novorizontino SP,1-1,1-1,Bahia BA,2022-10-05T00:30Z
+33,Wed Oct 5 2022,21:30,-0300,Cruzeiro,1-1,1-1,Ituano SP,2022-10-06T00:30Z
+34,Fri Oct 7 2022,21:30,-0300,CSA AL,0-0,0-0,Sampaio Corrêa MA,2022-10-08T00:30Z
+34,Fri Oct 7 2022,19:00,-0300,Criciúma SC,2-1,1-1,Náutico PE,2022-10-07T22:00Z
+34,Sat Oct 8 2022,11:00,-0300,Chapecoense,1-1,1-1,Operário Ferroviário PR,2022-10-08T14:00Z
+34,Sat Oct 8 2022,16:00,-0300,Bahia BA,1-0,1-0,Brusque SC,2022-10-08T19:00Z
+34,Sat Oct 8 2022,16:30,-0300,Londrina PR,1-1,0-1,Grêmio Porto Alegre,2022-10-08T19:30Z
+34,Sat Oct 8 2022,18:30,-0300,Ituano SP,2-1,1-0,Guarani SP,2022-10-08T21:30Z
+34,Sat Oct 8 2022,18:30,-0300,Tombense MG,1-2,0-0,CR Brasil AL,2022-10-08T21:30Z
+34,Sat Oct 8 2022,18:30,-0300,Vasco da Gama RJ,3-0,1-0,Grêmio Novorizontino SP,2022-10-08T21:30Z
+34,Sat Oct 8 2022,19:00,-0300,Ponte Preta,1-1,0-0,Vila Nova GO,2022-10-08T22:00Z
+34,Sun Oct 9 2022,16:00,-0300,Sport Recife PE,3-1,2-0,Cruzeiro,2022-10-09T19:00Z
+35,Tue Oct 11 2022,21:30,-0300,Sampaio Corrêa MA,2-1,1-1,Chapecoense,2022-10-12T00:30Z
+35,Tue Oct 11 2022,19:00,-0300,Guarani SP,1-0,0-0,CR Brasil AL,2022-10-11T22:00Z
+35,Thu Oct 13 2022,21:30,-0300,Operário Ferroviário PR,0-0,0-0,Brusque SC,2022-10-14T00:30Z
+35,Fri Oct 14 2022,19:00,-0300,CSA AL,0-1,0-0,Londrina PR,2022-10-14T22:00Z
+35,Fri Oct 14 2022,20:30,-0300,Vila Nova GO,1-0,0-0,Cruzeiro,2022-10-14T23:30Z
+35,Fri Oct 14 2022,21:30,-0300,Grêmio Novorizontino SP,6-0,2-0,Náutico PE,2022-10-15T00:30Z
+35,Sat Oct 15 2022,19:00,-0300,Criciúma SC,3-0,1-0,Ituano SP,2022-10-15T22:00Z
+35,Sat Oct 15 2022,16:30,-0300,Tombense MG,0-0,0-0,Ponte Preta,2022-10-15T19:30Z
+35,Sun Oct 16 2022,16:00,-0300,Grêmio Porto Alegre,1-1,0-1,Bahia BA,2022-10-16T19:00Z
+35,Sun Oct 16 2022,16:00,-0300,Sport Recife PE,1-1,0-0,Vasco da Gama RJ,2022-10-16T19:00Z
+36,Tue Oct 18 2022,21:30,-0300,Cruzeiro,0-1,0-0,Guarani SP,2022-10-19T00:30Z
+36,Tue Oct 18 2022,19:00,-0300,Brusque SC,2-2,1-1,Grêmio Novorizontino SP,2022-10-18T22:00Z
+36,Thu Oct 20 2022,21:30,-0300,Ponte Preta,0-2,0-2,CSA AL,2022-10-21T00:30Z
+36,Fri Oct 21 2022,19:15,-0300,Chapecoense,3-2,1-2,Tombense MG,2022-10-21T22:15Z
+36,Fri Oct 21 2022,21:30,-0300,CR Brasil AL,2-1,1-1,Operário Ferroviário PR,2022-10-22T00:30Z
+36,Sat Oct 22 2022,16:30,-0300,Ituano SP,1-0,0-0,Sampaio Corrêa MA,2022-10-22T19:30Z
+36,Sat Oct 22 2022,16:30,-0300,Londrina PR,2-1,0-1,Sport Recife PE,2022-10-22T19:30Z
+36,Sat Oct 22 2022,16:30,-0300,Vasco da Gama RJ,2-1,0-1,Criciúma SC,2022-10-22T19:30Z
+36,Sat Oct 22 2022,16:30,-0300,Bahia BA,1-1,0-0,Vila Nova GO,2022-10-22T19:30Z
+36,Sun Oct 23 2022,16:00,-0300,Náutico PE,0-3,0-1,Grêmio Porto Alegre,2022-10-23T19:00Z
+37,Tue Oct 25 2022,21:30,-0300,CSA AL,1-0,1-0,Vila Nova GO,2022-10-26T00:30Z
+37,Tue Oct 25 2022,19:00,-0300,Brusque SC,0-0,0-0,CR Brasil AL,2022-10-25T22:00Z
+37,Thu Oct 27 2022,21:45,-0300,Vasco da Gama RJ,2-3,1-1,Sampaio Corrêa MA,2022-10-28T00:45Z
+37,Thu Oct 27 2022,19:00,-0300,Grêmio Novorizontino SP,1-4,1-2,Cruzeiro,2022-10-27T22:00Z
+37,Fri Oct 28 2022,19:00,-0300,Bahia BA,1-1,1-0,Guarani SP,2022-10-28T22:00Z
+37,Fri Oct 28 2022,19:00,-0300,Londrina PR,0-2,0-1,Ituano SP,2022-10-28T22:00Z
+37,Fri Oct 28 2022,19:00,-0300,Sport Recife PE,5-1,3-0,Operário Ferroviário PR,2022-10-28T22:00Z
+37,Fri Oct 28 2022,19:00,-0300,Tombense MG,2-2,1-2,Grêmio Porto Alegre,2022-10-28T22:00Z
+37,Fri Oct 28 2022,21:30,-0300,Ponte Preta,1-1,1-1,Criciúma SC,2022-10-29T00:30Z
+37,Sat Oct 29 2022,19:00,-0300,Chapecoense,1-0,1-0,Náutico PE,2022-10-29T22:00Z
+38,Thu Nov 3 2022,20:00,-0300,Grêmio Porto Alegre,3-0,2-0,Brusque SC,2022-11-03T23:00Z
+38,Fri Nov 4 2022,21:30,-0300,Náutico PE,0-1,0-0,Ponte Preta,2022-11-05T00:30Z
+38,Sat Nov 5 2022,18:00,-0300,Sampaio Corrêa MA,2-1,0-1,Londrina PR,2022-11-05T21:00Z
+38,Sat Nov 5 2022,16:00,-0300,Criciúma SC,2-0,1-0,Tombense MG,2022-11-05T19:00Z
+38,Sun Nov 6 2022,16:00,-0300,Guarani SP,1-0,0-0,Chapecoense,2022-11-06T19:00Z
+38,Sun Nov 6 2022,18:30,-0300,CR Brasil AL,1-2,0-1,Bahia BA,2022-11-06T21:30Z
+38,Sun Nov 6 2022,18:30,-0300,Cruzeiro,3-2,1-1,CSA AL,2022-11-06T21:30Z
+38,Sun Nov 6 2022,18:30,-0300,Ituano SP,0-1,0-1,Vasco da Gama RJ,2022-11-06T21:30Z
+38,Sun Nov 6 2022,18:30,-0300,Operário Ferroviário PR,0-3,0-2,Grêmio Novorizontino SP,2022-11-06T21:30Z
+38,Sun Nov 6 2022,18:30,-0300,Vila Nova GO,0-0,0-0,Sport Recife PE,2022-11-06T21:30Z

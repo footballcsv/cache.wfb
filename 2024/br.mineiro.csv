@@ -1,0 +1,67 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+,1,Wed Jan 24 2024,19:00,-0300,Tombense MG,2-2,1-1,Uberlândia MG,,2024-01-24T22:00Z
+,1,Wed Jan 24 2024,20:00,-0300,Athletic MG,2-1,0-0,Ipatinga MG,,2024-01-24T23:00Z
+,1,Wed Jan 24 2024,20:30,-0300,Democrata Gov. Valadares MG,1-3,1-0,Itabirito MG,,2024-01-24T23:30Z
+,1,Wed Jan 24 2024,21:30,-0300,Atlético Patrocinense MG,2-1,1-1,Atlético Mineiro,,2024-01-25T00:30Z
+,1,Wed Jan 24 2024,19:00,-0300,Villa Nova MG,1-2,1-1,Cruzeiro,,2024-01-24T22:00Z
+,1,Thu Jan 25 2024,19:00,-0300,América MG,6-0,4-0,Pouso Alegre MG,,2024-01-25T22:00Z
+,2,Sat Jan 27 2024,16:30,-0300,Cruzeiro,1-1,0-0,Athletic MG,,2024-01-27T19:30Z
+,2,Sun Jan 28 2024,16:00,-0300,Atlético Mineiro,4-0,3-0,Democrata Gov. Valadares MG,,2024-01-28T19:00Z
+,2,Sun Jan 28 2024,17:00,-0300,Pouso Alegre MG,1-2,0-0,Tombense MG,,2024-01-28T20:00Z
+,2,Sun Jan 28 2024,20:00,-0300,Ipatinga MG,1-6,1-2,América MG,,2024-01-28T23:00Z
+,2,Sun Jan 28 2024,11:00,-0300,Itabirito MG,0-2,0-0,Villa Nova MG,,2024-01-28T14:00Z
+,2,Mon Jan 29 2024,20:00,-0300,Uberlândia MG,1-1,0-1,Atlético Patrocinense MG,,2024-01-29T23:00Z
+,3,Sat Feb 3 2024,15:30,-0300,Ipatinga MG,1-0,1-0,Pouso Alegre MG,,2024-02-03T18:30Z
+,3,Sat Feb 3 2024,16:30,-0300,Itabirito MG,0-0,0-0,América MG,,2024-02-03T19:30Z
+,3,Sat Feb 3 2024,17:00,-0300,Uberlândia MG,0-1,0-0,Democrata Gov. Valadares MG,,2024-02-03T20:00Z
+,3,Sat Feb 3 2024,19:00,-0300,Tombense MG,1-0,0-0,Athletic MG,,2024-02-03T22:00Z
+,3,Sat Feb 3 2024,19:30,-0300,Atlético Mineiro,0-2,0-0,Cruzeiro,,2024-02-03T22:30Z
+,3,Sun Feb 4 2024,11:00,-0300,Atlético Patrocinense MG,0-1,0-1,Villa Nova MG,,2024-02-04T14:00Z
+,4,Wed Feb 7 2024,20:30,-0300,Democrata Gov. Valadares MG,2-2,2-0,Tombense MG,,2024-02-07T23:30Z
+,4,Wed Feb 7 2024,19:00,-0300,América MG,2-0,2-0,Uberlândia MG,,2024-02-07T22:00Z
+,4,Thu Feb 8 2024,20:00,-0300,Villa Nova MG,3-3,2-2,Ipatinga MG,,2024-02-08T23:00Z
+,4,Thu Feb 8 2024,21:00,-0300,Athletic MG,0-2,0-0,Atlético Mineiro,,2024-02-09T00:00Z
+,4,Thu Feb 8 2024,19:30,-0300,Pouso Alegre MG,2-0,1-0,Itabirito MG,,2024-02-08T22:30Z
+,4,Fri Feb 9 2024,16:30,-0300,Cruzeiro,3-0,1-0,Atlético Patrocinense MG,,2024-02-09T19:30Z
+,5,Wed Feb 14 2024,19:30,-0300,Pouso Alegre MG,1-0,1-0,Democrata Gov. Valadares MG,,2024-02-14T22:30Z
+,5,Wed Feb 14 2024,20:00,-0300,Atlético Mineiro,1-1,0-1,Tombense MG,,2024-02-14T23:00Z
+,5,Wed Feb 14 2024,20:00,-0300,Uberlândia MG,1-2,0-0,Itabirito MG,,2024-02-14T23:00Z
+,5,Wed Feb 14 2024,20:00,-0300,Atlético Patrocinense MG,2-1,1-0,Ipatinga MG,,2024-02-14T23:00Z
+,5,Wed Feb 14 2024,20:30,-0300,Villa Nova MG,1-4,1-3,Athletic MG,,2024-02-14T23:30Z
+,5,Thu Feb 15 2024,20:00,-0300,Cruzeiro,0-2,0-0,América MG,,2024-02-15T23:00Z
+,6,Sat Feb 17 2024,16:30,-0300,Itabirito MG,0-2,0-1,Atlético Mineiro,,2024-02-17T19:30Z
+,6,Sat Feb 17 2024,16:00,-0300,Athletic MG,4-1,3-1,Pouso Alegre MG,,2024-02-17T19:00Z
+,6,Sun Feb 18 2024,16:00,-0300,América MG,0-0,0-0,Villa Nova MG,,2024-02-18T19:00Z
+,6,Sun Feb 18 2024,16:00,-0300,Ipatinga MG,0-1,0-0,Uberlândia MG,,2024-02-18T19:00Z
+,6,Sun Feb 18 2024,18:00,-0300,Tombense MG,4-0,1-0,Atlético Patrocinense MG,,2024-02-18T21:00Z
+,6,Sun Feb 18 2024,18:30,-0300,Democrata Gov. Valadares MG,1-3,1-2,Cruzeiro,,2024-02-18T21:30Z
+,7,Sat Feb 24 2024,16:00,-0300,Villa Nova MG,0-3,0-1,Tombense MG,,2024-02-24T19:00Z
+,7,Sat Feb 24 2024,16:30,-0300,América MG,1-1,1-0,Atlético Mineiro,,2024-02-24T19:30Z
+,7,Sat Feb 24 2024,17:00,-0300,Uberlândia MG,2-1,0-0,Athletic MG,,2024-02-24T20:00Z
+,7,Sat Feb 24 2024,16:00,-0300,Ipatinga MG,2-0,1-0,Democrata Gov. Valadares MG,,2024-02-24T19:00Z
+,7,Sun Feb 25 2024,16:00,-0300,Itabirito MG,2-2,0-0,Atlético Patrocinense MG,,2024-02-25T19:00Z
+,7,Sun Feb 25 2024,11:00,-0300,Pouso Alegre MG,0-2,0-2,Cruzeiro,,2024-02-25T14:00Z
+,8,Sat Mar 2 2024,16:30,-0300,Tombense MG,0-1,0-0,América MG,,2024-03-02T19:30Z
+,8,Sat Mar 2 2024,16:30,-0300,Cruzeiro,2-0,1-0,Uberlândia MG,,2024-03-02T19:30Z
+,8,Sat Mar 2 2024,16:30,-0300,Atlético Mineiro,3-0,2-0,Ipatinga MG,,2024-03-02T19:30Z
+,8,Sat Mar 2 2024,16:30,-0300,Democrata Gov. Valadares MG,2-1,1-0,Villa Nova MG,,2024-03-02T19:30Z
+,8,Sat Mar 2 2024,16:30,-0300,Atlético Patrocinense MG,0-1,0-0,Pouso Alegre MG,,2024-03-02T19:30Z
+,8,Sat Mar 2 2024,16:30,-0300,Athletic MG,2-1,2-1,Itabirito MG,,2024-03-02T19:30Z
+Troféu Inconfidência,Semifinals,Sat Mar 9 2024,17:00,-0300,Uberlândia MG,2-2,1-0,Athletic MG,,2024-03-09T20:00Z
+Fase final,Semifinals,Sat Mar 9 2024,16:30,-0300,Atlético Mineiro,2-0,1-0,América MG,,2024-03-09T19:30Z
+Troféu Inconfidência,Semifinals,Sun Mar 10 2024,11:00,-0300,Itabirito MG,4-1,2-1,Pouso Alegre MG,,2024-03-10T14:00Z
+Fase final,Semifinals,Sun Mar 10 2024,19:30,-0300,Tombense MG,0-0,0-0,Cruzeiro,,2024-03-10T22:30Z
+Descenso,1,Tue Mar 12 2024,19:30,-0300,Ipatinga MG,4-3,3-1,Democrata Gov. Valadares MG,,2024-03-12T22:30Z
+Fase final,Semifinals,Sat Mar 16 2024,16:30,-0300,Cruzeiro,3-1,1-0,Tombense MG,,2024-03-16T19:30Z
+Troféu Inconfidência,Semifinals,Sat Mar 16 2024,18:00,-0300,Pouso Alegre MG,5-2,2-2,Itabirito MG,,2024-03-16T21:00Z
+Troféu Inconfidência,Semifinals,Sat Mar 16 2024,18:30,-0300,Athletic MG,0-0,0-0,Uberlândia MG,,2024-03-16T21:30Z
+Fase final,Semifinals,Sun Mar 17 2024,19:00,-0300,América MG,2-1,1-0,Atlético Mineiro,,2024-03-17T22:00Z
+Descenso,2,Mon Mar 18 2024,20:30,-0300,Democrata Gov. Valadares MG,3-0,0-0,Atlético Patrocinense MG,,2024-03-18T23:30Z
+Descenso,3,Thu Mar 21 2024,20:00,-0300,Atlético Patrocinense MG,(*),,Ipatinga MG,w/o,2024-03-21T23:00Z
+Troféu Inconfidência,Final,Sat Mar 23 2024,18:30,-0300,Pouso Alegre MG,1-3,1-2,Athletic MG,,2024-03-23T21:30Z
+Descenso,4,Mon Mar 25 2024,,,Ipatinga MG,(*),,Atlético Patrocinense MG,w/o,
+Troféu Inconfidência,Final,Thu Mar 28 2024,20:30,-0300,Athletic MG,3-0,2-0,Pouso Alegre MG,,2024-03-28T23:30Z
+Fase final,Final,Sat Mar 30 2024,16:30,-0300,Atlético Mineiro,2-2,2-0,Cruzeiro,,2024-03-30T19:30Z
+Descenso,5,Sun Mar 31 2024,11:00,-0300,Atlético Patrocinense MG,(*),,Democrata Gov. Valadares MG,w/o,2024-03-31T14:00Z
+Descenso,6,Mon Apr 1 2024,20:30,-0300,Democrata Gov. Valadares MG,4-1,2-0,Ipatinga MG,,2024-04-01T23:30Z
+Fase final,Final,Sun Apr 7 2024,15:30,-0300,Cruzeiro,1-3,0-0,Atlético Mineiro,,2024-04-07T18:30Z

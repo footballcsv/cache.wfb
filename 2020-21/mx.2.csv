@@ -1,0 +1,277 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,UTC
+Apertura,1,Tue Aug 18 2020,19:00,CDT/-0500,Alebrijes de Oaxaca,1-0,0-0,Leones Negros,,,2020-08-19T00:00Z
+Apertura,1,Tue Aug 18 2020,21:00,CDT/-0500,Dorados de Sinaloa,1-2,0-0,Club Celaya,,,2020-08-19T02:00Z
+Apertura,1,Tue Aug 18 2020,17:00,CDT/-0500,Tapatío,0-2,0-0,Cimarrones de Sonora,,,2020-08-18T22:00Z
+Apertura,1,Wed Aug 19 2020,19:00,CDT/-0500,Mineros de Zacatecas,1-2,0-0,Coyotes de Tlaxcala,,,2020-08-20T00:00Z
+Apertura,1,Wed Aug 19 2020,21:00,CDT/-0500,Correcaminos UAT,0-0,0-0,Pumas Tabasco,,,2020-08-20T02:00Z
+Apertura,1,Wed Aug 19 2020,17:00,CDT/-0500,Tepatitlán,2-2,0-0,Atlético Morelia,,,2020-08-19T22:00Z
+Apertura,1,Thu Aug 20 2020,21:00,CDT/-0500,Cancún FC,1-0,1-0,TM Fútbol Club,,,2020-08-21T02:00Z
+Apertura,2,Tue Aug 25 2020,17:00,CDT/-0500,Club Celaya,2-1,1-1,Correcaminos UAT,,,2020-08-25T22:00Z
+Apertura,2,Tue Aug 25 2020,19:05,CDT/-0500,Atlético Morelia,0-2,0-0,Pumas Tabasco,,,2020-08-26T00:05Z
+Apertura,2,Tue Aug 25 2020,21:05,CDT/-0500,Alebrijes de Oaxaca,1-3,0-1,Dorados de Sinaloa,,,2020-08-26T02:05Z
+Apertura,2,Wed Aug 26 2020,19:00,CDT/-0500,Venados FC,0-0,0-0,Tapatío,,,2020-08-27T00:00Z
+Apertura,2,Thu Aug 27 2020,21:00,CDT/-0500,Cimarrones de Sonora,2-1,0-0,Cancún FC,,,2020-08-28T02:00Z
+Apertura,2,Sun Aug 30 2020,19:00,CDT/-0500,TM Fútbol Club,0-0,0-0,Tepatitlán,,,2020-08-31T00:00Z
+Apertura,2,Sun Aug 30 2020,17:00,CDT/-0500,Leones Negros,1-1,0-0,Mineros de Zacatecas,,,2020-08-30T22:00Z
+Apertura,3,Tue Sep 1 2020,21:05,CDT/-0500,TM Fútbol Club,1-1,1-1,Venados FC,,,2020-09-02T02:05Z
+Apertura,3,Tue Sep 1 2020,19:05,CDT/-0500,Cancún FC,2-0,0-0,Correcaminos UAT,,,2020-09-02T00:05Z
+Apertura,3,Tue Sep 1 2020,17:00,CDT/-0500,Tapatío,3-3,2-1,Atlético Morelia,,,2020-09-01T22:00Z
+Apertura,3,Wed Sep 2 2020,18:30,CDT/-0500,Pumas Tabasco,3-3,2-1,Mineros de Zacatecas,,,2020-09-02T23:30Z
+Apertura,3,Wed Sep 2 2020,16:00,CDT/-0500,Coyotes de Tlaxcala,1-1,1-0,Club Celaya,,,2020-09-02T21:00Z
+Apertura,3,Thu Sep 3 2020,17:00,CDT/-0500,Tepatitlán,2-0,1-0,Alebrijes de Oaxaca,,,2020-09-03T22:00Z
+Apertura,3,Sun Sep 6 2020,12:00,CDT/-0500,Atlante,0-1,0-0,Leones Negros,,,2020-09-06T17:00Z
+Apertura,3,Sun Sep 6 2020,21:00,CDT/-0500,Dorados de Sinaloa,0-2,0-1,Cimarrones de Sonora,,,2020-09-07T02:00Z
+Apertura,4,Wed Sep 9 2020,21:05,CDT/-0500,Correcaminos UAT,2-0,1-0,Tepatitlán,,,2020-09-10T02:05Z
+Apertura,4,Wed Sep 9 2020,19:00,CDT/-0500,Venados FC,1-2,0-2,Dorados de Sinaloa,,,2020-09-10T00:00Z
+Apertura,4,Thu Sep 10 2020,21:05,CDT/-0500,Leones Negros,1-2,1-0,TM Fútbol Club,,,2020-09-11T02:05Z
+Apertura,4,Thu Sep 10 2020,17:00,CDT/-0500,Mineros de Zacatecas,2-1,1-1,Tapatío,,,2020-09-10T22:00Z
+Apertura,4,Thu Sep 10 2020,19:00,CDT/-0500,Atlético Morelia,2-3,0-2,Cancún FC,,,2020-09-11T00:00Z
+Apertura,4,Fri Sep 11 2020,17:30,CDT/-0500,Alebrijes de Oaxaca,2-2,1-0,Coyotes de Tlaxcala,,,2020-09-11T22:30Z
+Apertura,4,Sun Sep 13 2020,16:00,CDT/-0500,Club Celaya,3-0,1-0,Atlante,,,2020-09-13T21:00Z
+Apertura,4,Sun Sep 13 2020,21:00,CDT/-0500,Cimarrones de Sonora,2-1,2-0,Pumas Tabasco,,,2020-09-14T02:00Z
+Apertura,5,Tue Sep 15 2020,19:05,CDT/-0500,Tepatitlán,2-0,0-0,Venados FC,,,2020-09-16T00:05Z
+Apertura,5,Tue Sep 15 2020,21:05,CDT/-0500,Cancún FC,1-1,1-1,Mineros de Zacatecas,,,2020-09-16T02:05Z
+Apertura,5,Tue Sep 15 2020,16:00,CDT/-0500,Coyotes de Tlaxcala,1-3,0-1,Leones Negros,,,2020-09-15T21:00Z
+Apertura,5,Wed Sep 16 2020,21:05,CDT/-0500,Dorados de Sinaloa,2-2,1-2,Correcaminos UAT,,,2020-09-17T02:05Z
+Apertura,5,Wed Sep 16 2020,17:00,CDT/-0500,Atlante,1-0,0-0,Cimarrones de Sonora,,,2020-09-16T22:00Z
+Apertura,5,Wed Sep 16 2020,19:05,CDT/-0500,Pumas Tabasco,1-2,0-0,Club Celaya,,,2020-09-17T00:05Z
+Apertura,5,Thu Sep 17 2020,21:00,CDT/-0500,TM Fútbol Club,1-2,0-1,Atlético Morelia,,,2020-09-18T02:00Z
+Apertura,1,Sat Sep 19 2020,12:00,CDT/-0500,Atlante,3-0,0-0,Venados FC,,,2020-09-19T17:00Z
+Apertura,5,Sun Sep 20 2020,21:00,CDT/-0500,Tapatío,3-0,1-0,Alebrijes de Oaxaca,,,2020-09-21T02:00Z
+Apertura,6,Tue Sep 22 2020,17:00,CDT/-0500,Mineros de Zacatecas,1-0,0-0,Tepatitlán,,,2020-09-22T22:00Z
+Apertura,6,Tue Sep 22 2020,21:05,CDT/-0500,Dorados de Sinaloa,1-1,0-1,Cancún FC,,,2020-09-23T02:05Z
+Apertura,6,Tue Sep 22 2020,19:05,CDT/-0500,Correcaminos UAT,2-1,1-0,Cimarrones de Sonora,,,2020-09-23T00:05Z
+Apertura,6,Wed Sep 23 2020,17:00,CDT/-0500,Atlante,0-0,0-0,Tapatío,,,2020-09-23T22:00Z
+Apertura,6,Wed Sep 23 2020,19:05,CDT/-0500,Venados FC,1-0,0-0,Coyotes de Tlaxcala,,,2020-09-24T00:05Z
+Apertura,6,Wed Sep 23 2020,21:05,CDT/-0500,Club Celaya,0-0,0-0,TM Fútbol Club,,,2020-09-24T02:05Z
+Apertura,6,Thu Sep 24 2020,18:00,CDT/-0500,Alebrijes de Oaxaca,0-1,0-0,Atlético Morelia,,,2020-09-24T23:00Z
+Apertura,2,Sat Sep 26 2020,12:00,CDT/-0500,Coyotes de Tlaxcala,0-3,0-2,Atlante,,,2020-09-26T17:00Z
+Apertura,6,Sun Sep 27 2020,12:00,CDT/-0500,Leones Negros,2-2,2-2,Pumas Tabasco,,,2020-09-27T17:00Z
+Apertura,7,Tue Sep 29 2020,19:05,CDT/-0500,Cancún FC,1-2,1-1,Venados FC,,,2020-09-30T00:05Z
+Apertura,7,Tue Sep 29 2020,21:05,CDT/-0500,Cimarrones de Sonora,2-3,0-1,Mineros de Zacatecas,,,2020-09-30T02:05Z
+Apertura,7,Wed Sep 30 2020,19:05,CDT/-0500,Pumas Tabasco,0-4,0-2,Atlante,,,2020-10-01T00:05Z
+Apertura,7,Wed Sep 30 2020,21:05,CDT/-0500,Atlético Morelia,1-1,1-0,Dorados de Sinaloa,,,2020-10-01T02:05Z
+Apertura,7,Wed Sep 30 2020,17:00,CDT/-0500,Tapatío,0-1,0-0,Tepatitlán,,,2020-09-30T22:00Z
+Apertura,7,Thu Oct 1 2020,21:00,CDT/-0500,TM Fútbol Club,2-0,2-0,Alebrijes de Oaxaca,,,2020-10-02T02:00Z
+Apertura,7,Thu Oct 1 2020,19:00,CDT/-0500,Club Celaya,1-0,1-0,Leones Negros,,,2020-10-02T00:00Z
+Apertura,8,Tue Oct 6 2020,17:00,CDT/-0500,Atlante,2-1,2-0,Cancún FC,,,2020-10-06T22:00Z
+Apertura,8,Tue Oct 6 2020,21:05,CDT/-0500,Pumas Tabasco,2-2,1-1,Dorados de Sinaloa,,,2020-10-07T02:05Z
+Apertura,8,Wed Oct 7 2020,21:05,CDT/-0500,Cimarrones de Sonora,3-1,3-1,TM Fútbol Club,,,2020-10-08T02:05Z
+Apertura,8,Wed Oct 7 2020,17:00,CDT/-0500,Tepatitlán,1-1,0-1,Club Celaya,,,2020-10-07T22:00Z
+Apertura,8,Thu Oct 8 2020,19:00,CDT/-0500,Mineros de Zacatecas,1-0,0-0,Alebrijes de Oaxaca,,,2020-10-09T00:00Z
+Apertura,9,Fri Oct 9 2020,21:00,CDT/-0500,Atlético Morelia,2-1,0-0,Atlante,,,2020-10-10T02:00Z
+Apertura,9,Sat Oct 10 2020,21:05,CDT/-0500,TM Fútbol Club,0-0,0-0,Correcaminos UAT,,,2020-10-11T02:05Z
+Apertura,9,Sun Oct 11 2020,12:00,CDT/-0500,Club Celaya,1-1,0-1,Cimarrones de Sonora,,,2020-10-11T17:00Z
+Apertura,9,Sun Oct 11 2020,16:00,CDT/-0500,Alebrijes de Oaxaca,1-0,1-0,Venados FC,,,2020-10-11T21:00Z
+Apertura,9,Sun Oct 11 2020,18:05,CDT/-0500,Leones Negros,1-1,0-0,Tapatío,,,2020-10-11T23:05Z
+Apertura,9,Sun Oct 11 2020,20:05,CDT/-0500,Dorados de Sinaloa,0-1,0-0,Mineros de Zacatecas,,,2020-10-12T01:05Z
+Apertura,10,Tue Oct 13 2020,21:05,CDT/-0500,Tapatío,0-0,0-0,Cancún FC,,,2020-10-14T02:05Z
+Apertura,10,Tue Oct 13 2020,17:00,CDT/-0500,Atlante,0-1,0-1,TM Fútbol Club,,,2020-10-13T22:00Z
+Apertura,10,Wed Oct 14 2020,17:00,CDT/-0500,Tepatitlán,4-0,2-0,Dorados de Sinaloa,,,2020-10-14T22:00Z
+Apertura,10,Wed Oct 14 2020,19:05,CDT/-0500,Mineros de Zacatecas,1-1,0-1,Club Celaya,,,2020-10-15T00:05Z
+Apertura,10,Wed Oct 14 2020,21:05,CDT/-0500,Venados FC,1-1,1-0,Atlético Morelia,,,2020-10-15T02:05Z
+Apertura,10,Thu Oct 15 2020,19:00,CDT/-0500,Correcaminos UAT,3-2,2-1,Alebrijes de Oaxaca,,,2020-10-16T00:00Z
+Apertura,9,Sat Oct 17 2020,19:05,CDT/-0500,Cancún FC,4-0,2-0,Pumas Tabasco,,,2020-10-18T00:05Z
+Apertura,7,Sun Oct 18 2020,21:00,CDT/-0500,Coyotes de Tlaxcala,1-0,0-0,Correcaminos UAT,,,2020-10-19T02:00Z
+Apertura,10,Sun Oct 18 2020,21:00,CDT/-0500,Cimarrones de Sonora,2-0,0-0,Leones Negros,,,2020-10-19T02:00Z
+Apertura,11,Tue Oct 20 2020,21:05,CDT/-0500,TM Fútbol Club,1-2,1-1,Pumas Tabasco,,,2020-10-21T02:05Z
+Apertura,11,Tue Oct 20 2020,19:05,CDT/-0500,Atlético Morelia,2-1,1-1,Mineros de Zacatecas,,,2020-10-21T00:05Z
+Apertura,11,Tue Oct 20 2020,17:00,CDT/-0500,Tepatitlán,2-1,0-1,Atlante,,,2020-10-20T22:00Z
+Apertura,11,Wed Oct 21 2020,21:05,CDT/-0500,Dorados de Sinaloa,1-1,0-0,Tapatío,,,2020-10-22T02:05Z
+Apertura,11,Wed Oct 21 2020,17:00,CDT/-0500,Coyotes de Tlaxcala,2-1,0-0,Cimarrones de Sonora,,,2020-10-21T22:00Z
+Apertura,11,Wed Oct 21 2020,19:05,CDT/-0500,Leones Negros,0-1,0-0,Cancún FC,,,2020-10-22T00:05Z
+Apertura,11,Thu Oct 22 2020,21:05,CDT/-0500,Venados FC,2-2,2-1,Correcaminos UAT,,,2020-10-23T02:05Z
+Apertura,11,Thu Oct 22 2020,19:00,CDT/-0500,Alebrijes de Oaxaca,1-2,1-1,Club Celaya,,,2020-10-23T00:00Z
+Apertura,8,Sat Oct 24 2020,12:00,CDT/-0500,Tapatío,2-0,1-0,Coyotes de Tlaxcala,,,2020-10-24T17:00Z
+Apertura,12,Tue Oct 27 2020,17:00,CST/-0600,Mineros de Zacatecas,1-1,1-0,TM Fútbol Club,,,2020-10-27T23:00Z
+Apertura,12,Tue Oct 27 2020,21:05,CST/-0600,Cimarrones de Sonora,2-0,1-0,Tepatitlán,,,2020-10-28T03:05Z
+Apertura,12,Tue Oct 27 2020,19:05,CST/-0600,Pumas Tabasco,0-2,0-1,Alebrijes de Oaxaca,,,2020-10-28T01:05Z
+Apertura,12,Wed Oct 28 2020,21:05,CST/-0600,Leones Negros,0-0,0-0,Atlético Morelia,,,2020-10-29T03:05Z
+Apertura,12,Wed Oct 28 2020,19:05,CST/-0600,Correcaminos UAT,0-3,0-2,Tapatío,,,2020-10-29T01:05Z
+Apertura,12,Wed Oct 28 2020,17:00,CST/-0600,Club Celaya,2-1,1-1,Venados FC,,,2020-10-28T23:00Z
+Apertura,12,Thu Oct 29 2020,19:00,CST/-0600,Atlante,4-1,1-0,Dorados de Sinaloa,,,2020-10-30T01:00Z
+Apertura,8,Sat Oct 31 2020,21:05,CST/-0600,Venados FC,2-1,1-0,Leones Negros,,,2020-11-01T03:05Z
+Apertura,12,Sun Nov 1 2020,19:30,CST/-0600,Cancún FC,2-0,0-0,Coyotes de Tlaxcala,,,2020-11-02T01:30Z
+Apertura,13,Tue Nov 3 2020,21:05,CST/-0600,Venados FC,1-3,0-2,Pumas Tabasco,,,2020-11-04T03:05Z
+Apertura,13,Tue Nov 3 2020,19:05,CST/-0600,Atlético Morelia,2-0,1-0,Cimarrones de Sonora,,,2020-11-04T01:05Z
+Apertura,13,Tue Nov 3 2020,17:00,CST/-0600,Tapatío,1-0,0-0,Club Celaya,,,2020-11-03T23:00Z
+Apertura,13,Wed Nov 4 2020,21:05,CST/-0600,Mineros de Zacatecas,5-1,2-1,Correcaminos UAT,,,2020-11-05T03:05Z
+Apertura,13,Wed Nov 4 2020,17:00,CST/-0600,Coyotes de Tlaxcala,0-1,0-0,TM Fútbol Club,,,2020-11-04T23:00Z
+Apertura,13,Wed Nov 4 2020,19:05,CST/-0600,Tepatitlán,0-1,0-0,Cancún FC,,,2020-11-05T01:05Z
+Apertura,13,Thu Nov 5 2020,21:00,CST/-0600,Dorados de Sinaloa,3-2,2-0,Leones Negros,,,2020-11-06T03:00Z
+Apertura,9,Sat Nov 7 2020,17:05,CST/-0600,Coyotes de Tlaxcala,1-1,0-0,Tepatitlán,,,2020-11-07T23:05Z
+Apertura,13,Sun Nov 8 2020,18:00,CST/-0600,Alebrijes de Oaxaca,1-2,1-0,Atlante,,,2020-11-09T00:00Z
+Apertura,14,Tue Nov 10 2020,21:05,CST/-0600,Pumas Tabasco,2-2,1-0,Tepatitlán,,,2020-11-11T03:05Z
+Apertura,14,Tue Nov 10 2020,19:05,CST/-0600,Leones Negros,3-1,3-1,Correcaminos UAT,,,2020-11-11T01:05Z
+Apertura,14,Tue Nov 10 2020,17:00,CST/-0600,Club Celaya,1-0,0-0,Atlético Morelia,,,2020-11-10T23:00Z
+Apertura,14,Wed Nov 11 2020,21:05,CST/-0600,TM Fútbol Club,2-1,1-0,Tapatío,,,2020-11-12T03:05Z
+Apertura,14,Wed Nov 11 2020,18:05,CST/-0600,Cancún FC,0-2,0-1,Alebrijes de Oaxaca,,,2020-11-12T00:05Z
+Apertura,14,Wed Nov 11 2020,17:00,CST/-0600,Coyotes de Tlaxcala,2-1,1-1,Dorados de Sinaloa,,,2020-11-11T23:00Z
+Apertura,14,Thu Nov 12 2020,21:00,CST/-0600,Cimarrones de Sonora,1-0,0-0,Venados FC,,,2020-11-13T03:00Z
+Apertura,8,Sat Nov 14 2020,21:00,CST/-0600,Correcaminos UAT,2-3,0-2,Atlético Morelia,,,2020-11-15T03:00Z
+Apertura,14,Sun Nov 15 2020,19:00,CST/-0600,Atlante,2-1,0-0,Mineros de Zacatecas,,,2020-11-16T01:00Z
+Apertura,10,Sun Nov 15 2020,21:05,CST/-0600,Pumas Tabasco,0-1,0-0,Coyotes de Tlaxcala,,,2020-11-16T03:05Z
+Apertura,15,Tue Nov 17 2020,19:05,CST/-0600,Alebrijes de Oaxaca,2-4,2-0,Cimarrones de Sonora,,,2020-11-18T01:05Z
+Apertura,15,Tue Nov 17 2020,21:05,CST/-0600,Mineros de Zacatecas,1-2,0-1,Venados FC,,,2020-11-18T03:05Z
+Apertura,15,Tue Nov 17 2020,17:00,CST/-0600,Tepatitlán,3-2,0-1,Leones Negros,,,2020-11-17T23:00Z
+Apertura,15,Wed Nov 18 2020,17:00,CST/-0600,Tapatío,4-2,2-1,Pumas Tabasco,,,2020-11-18T23:00Z
+Apertura,15,Wed Nov 18 2020,18:05,CST/-0600,Cancún FC,0-2,0-0,Club Celaya,,,2020-11-19T00:05Z
+Apertura,15,Wed Nov 18 2020,21:05,CST/-0600,Correcaminos UAT,1-2,0-2,Atlante,,,2020-11-19T03:05Z
+Apertura,15,Thu Nov 19 2020,21:00,CST/-0600,Dorados de Sinaloa,0-1,0-1,TM Fútbol Club,,,2020-11-20T03:00Z
+Apertura,15,Sat Nov 21 2020,19:00,CST/-0600,Atlético Morelia,3-0,2-0,Coyotes de Tlaxcala,,,2020-11-22T01:00Z
+Apertura Playoffs,Round 1,Tue Nov 24 2020,19:10,CST/-0600,TM Fútbol Club,0-0,0-0,Tapatío,0-0,5-3,2020-11-25T01:10Z
+Apertura Playoffs,Round 1,Tue Nov 24 2020,21:10,CST/-0600,Cimarrones de Sonora,2-3,1-0,Pumas Tabasco,,,2020-11-25T03:10Z
+Apertura Playoffs,Round 1,Tue Nov 24 2020,17:00,CST/-0600,Mineros de Zacatecas,1-0,0-0,Tepatitlán,,,2020-11-24T23:00Z
+Apertura Playoffs,Round 1,Wed Nov 25 2020,17:00,CST/-0600,Atlético Morelia,1-0,0-0,Venados FC,,,2020-11-25T23:00Z
+Apertura Playoffs,Round 1,Thu Nov 26 2020,17:00,CST/-0600,Cancún FC,1-2,0-2,Coyotes de Tlaxcala,,,2020-11-26T23:00Z
+Apertura Playoffs,Round 2,Wed Dec 2 2020,19:00,CST/-0600,Mineros de Zacatecas,2-1,1-1,TM Fútbol Club,,,2020-12-03T01:00Z
+Apertura Playoffs,Round 2,Wed Dec 2 2020,17:00,CST/-0600,Coyotes de Tlaxcala,0-2,0-2,Atlético Morelia,,,2020-12-02T23:00Z
+Apertura Playoffs,Round 2,Thu Dec 3 2020,19:00,CST/-0600,Pumas Tabasco,1-1,0-1,Atlante,,,2020-12-04T01:00Z
+Apertura Playoffs,Round 2,Sat Dec 5 2020,19:00,CST/-0600,TM Fútbol Club,3-0,3-0,Mineros de Zacatecas,,,2020-12-06T01:00Z
+Apertura Playoffs,Round 2,Sat Dec 5 2020,17:00,CST/-0600,Atlético Morelia,3-0,3-0,Coyotes de Tlaxcala,,,2020-12-05T23:00Z
+Apertura Playoffs,Round 2,Sun Dec 6 2020,21:00,CST/-0600,Atlante,0-0,0-0,Pumas Tabasco,,,2020-12-07T03:00Z
+Apertura Playoffs,Semifinals,Wed Dec 9 2020,21:05,CST/-0600,Atlético Morelia,1-1,1-0,Atlante,,,2020-12-10T03:05Z
+Apertura Playoffs,Semifinals,Wed Dec 9 2020,19:00,CST/-0600,TM Fútbol Club,1-0,1-0,Club Celaya,,,2020-12-10T01:00Z
+Apertura Playoffs,Semifinals,Sat Dec 12 2020,21:05,CST/-0600,Atlante,0-0,0-0,Atlético Morelia,,,2020-12-13T03:05Z
+Apertura Playoffs,Semifinals,Sat Dec 12 2020,19:00,CST/-0600,Club Celaya,2-2,1-1,TM Fútbol Club,,,2020-12-13T01:00Z
+Apertura Playoffs,Final,Thu Dec 17 2020,21:00,CST/-0600,TM Fútbol Club,1-1,1-0,Atlante,,,2020-12-18T03:00Z
+Apertura Playoffs,Final,Sun Dec 20 2020,20:00,CST/-0600,Atlante,1-1,0-0,TM Fútbol Club,2-3,,2020-12-21T02:00Z
+Clausura,1,Tue Jan 12 2021,19:00,CST/-0600,Club Celaya,1-1,0-1,Tepatitlán,,,2021-01-13T01:00Z
+Clausura,1,Tue Jan 12 2021,21:05,CST/-0600,Pumas Tabasco,0-1,0-0,Tapatío,,,2021-01-13T03:05Z
+Clausura,1,Wed Jan 13 2021,19:05,CST/-0600,Correcaminos UAT,3-0,1-0,Cancún FC,,,2021-01-14T01:05Z
+Clausura,1,Wed Jan 13 2021,17:00,CST/-0600,Mineros de Zacatecas,1-1,0-0,Dorados de Sinaloa,,,2021-01-13T23:00Z
+Clausura,1,Wed Jan 13 2021,21:05,CST/-0600,Cimarrones de Sonora,1-1,0-1,Atlante,,,2021-01-14T03:05Z
+Clausura,1,Sun Jan 17 2021,17:00,CST/-0600,Leones Negros,1-1,1-0,Coyotes de Tlaxcala,,,2021-01-17T23:00Z
+Clausura,2,Tue Jan 19 2021,21:05,CST/-0600,Alebrijes de Oaxaca,0-1,0-1,Tepatitlán,,,2021-01-20T03:05Z
+Clausura,2,Tue Jan 19 2021,19:00,CST/-0600,Cancún FC,0-0,0-0,Cimarrones de Sonora,,,2021-01-20T01:00Z
+Clausura,2,Wed Jan 20 2021,17:00,CST/-0600,Coyotes de Tlaxcala,2-1,2-0,Atlético Morelia,,,2021-01-20T23:00Z
+Clausura,2,Wed Jan 20 2021,21:05,CST/-0600,TM Fútbol Club,0-0,0-0,Leones Negros,,,2021-01-21T03:05Z
+Clausura,2,Wed Jan 20 2021,19:05,CST/-0600,Club Celaya,2-1,1-1,Pumas Tabasco,,,2021-01-21T01:05Z
+Clausura,2,Thu Jan 21 2021,21:00,CST/-0600,Atlante,1-0,0-0,Correcaminos UAT,,,2021-01-22T03:00Z
+Clausura,1,Sat Jan 23 2021,12:00,CST/-0600,Atlético Morelia,1-0,1-0,TM Fútbol Club,,,2021-01-23T18:00Z
+Clausura,2,Sun Jan 24 2021,17:00,CST/-0600,Tapatío,0-1,0-0,Mineros de Zacatecas,,,2021-01-24T23:00Z
+Clausura,3,Tue Jan 26 2021,19:05,CST/-0600,Correcaminos UAT,2-0,1-0,Venados FC,,,2021-01-27T01:05Z
+Clausura,3,Tue Jan 26 2021,21:05,CST/-0600,Cimarrones de Sonora,2-2,1-0,Club Celaya,,,2021-01-27T03:05Z
+Clausura,3,Wed Jan 27 2021,21:05,CST/-0600,Alebrijes de Oaxaca,2-1,1-1,Tapatío,,,2021-01-28T03:05Z
+Clausura,3,Wed Jan 27 2021,19:05,CST/-0600,Cancún FC,1-2,0-2,Atlético Morelia,,,2021-01-28T01:05Z
+Clausura,3,Wed Jan 27 2021,17:00,CST/-0600,Mineros de Zacatecas,1-2,0-1,Pumas Tabasco,,,2021-01-27T23:00Z
+Clausura,3,Thu Jan 28 2021,19:00,CST/-0600,Leones Negros,0-1,0-1,Dorados de Sinaloa,,,2021-01-29T01:00Z
+Clausura,3,Fri Jan 29 2021,17:30,CST/-0600,Atlante,2-1,2-0,Coyotes de Tlaxcala,,,2021-01-29T23:30Z
+Clausura,3,Sun Jan 31 2021,15:45,CST/-0600,Tepatitlán,1-0,0-0,TM Fútbol Club,,,2021-01-31T21:45Z
+Clausura,4,Tue Feb 2 2021,21:05,CST/-0600,Pumas Tabasco,2-0,2-0,Leones Negros,,,2021-02-03T03:05Z
+Clausura,4,Tue Feb 2 2021,19:05,CST/-0600,Venados FC,2-2,1-1,Cimarrones de Sonora,,,2021-02-03T01:05Z
+Clausura,4,Tue Feb 2 2021,17:00,CST/-0600,Coyotes de Tlaxcala,2-1,0-1,Alebrijes de Oaxaca,,,2021-02-02T23:00Z
+Clausura,4,Wed Feb 3 2021,19:00,CST/-0600,Club Celaya,2-0,1-0,Mineros de Zacatecas,,,2021-02-04T01:00Z
+Clausura,4,Wed Feb 3 2021,21:05,CST/-0600,Dorados de Sinaloa,0-0,0-0,Tepatitlán,,,2021-02-04T03:05Z
+Clausura,4,Thu Feb 4 2021,17:00,CST/-0600,Tapatío,2-1,2-1,Atlante,,,2021-02-04T23:00Z
+Clausura,4,Thu Feb 4 2021,16:00,CST/-0600,TM Fútbol Club,1-1,0-0,Cancún FC,,,2021-02-04T22:00Z
+Clausura,1,Fri Feb 5 2021,19:00,CST/-0600,Venados FC,2-2,1-0,Alebrijes de Oaxaca,,,2021-02-06T01:00Z
+Clausura,4,Sat Feb 6 2021,12:00,CST/-0600,Atlético Morelia,2-1,2-0,Correcaminos UAT,,,2021-02-06T18:00Z
+Clausura,5,Tue Feb 9 2021,19:05,CST/-0600,Cancún FC,1-0,0-0,Dorados de Sinaloa,,,2021-02-10T01:05Z
+Clausura,5,Tue Feb 9 2021,17:00,CST/-0600,Alebrijes de Oaxaca,3-1,2-0,Pumas Tabasco,,,2021-02-09T23:00Z
+Clausura,5,Tue Feb 9 2021,21:05,CST/-0600,TM Fútbol Club,1-0,0-0,Coyotes de Tlaxcala,,,2021-02-10T03:05Z
+Clausura,5,Wed Feb 10 2021,15:45,CST/-0600,Tepatitlán,0-0,0-0,Tapatío,,,2021-02-10T21:45Z
+Clausura,5,Wed Feb 10 2021,19:05,CST/-0600,Correcaminos UAT,1-1,0-1,Mineros de Zacatecas,,,2021-02-11T01:05Z
+Clausura,5,Wed Feb 10 2021,21:05,CST/-0600,Cimarrones de Sonora,2-1,2-1,Atlético Morelia,,,2021-02-11T03:05Z
+Clausura,5,Thu Feb 11 2021,21:00,CST/-0600,Leones Negros,1-1,1-1,Venados FC,,,2021-02-12T03:00Z
+Clausura,5,Sun Feb 14 2021,21:00,CST/-0600,Atlante,0-0,0-0,Club Celaya,,,2021-02-15T03:00Z
+Clausura,6,Tue Feb 16 2021,19:05,CST/-0600,Pumas Tabasco,0-0,0-0,Cimarrones de Sonora,,,2021-02-17T01:05Z
+Clausura,6,Tue Feb 16 2021,21:05,CST/-0600,Correcaminos UAT,0-2,0-0,Leones Negros,,,2021-02-17T03:05Z
+Clausura,6,Wed Feb 17 2021,21:05,CST/-0600,Dorados de Sinaloa,1-1,1-0,Coyotes de Tlaxcala,,,2021-02-18T03:05Z
+Clausura,6,Wed Feb 17 2021,19:05,CST/-0600,Venados FC,1-0,0-0,Tepatitlán,,,2021-02-18T01:05Z
+Clausura,6,Wed Feb 17 2021,17:00,CST/-0600,Club Celaya,4-0,2-0,Cancún FC,,,2021-02-17T23:00Z
+Clausura,6,Thu Feb 18 2021,19:00,CST/-0600,Tapatío,1-0,1-0,TM Fútbol Club,,,2021-02-19T01:00Z
+Clausura,6,Fri Feb 19 2021,17:00,CST/-0600,Mineros de Zacatecas,1-0,0-0,Atlante,,,2021-02-19T23:00Z
+Clausura,6,Sat Feb 20 2021,16:00,CST/-0600,Atlético Morelia,6-3,3-2,Alebrijes de Oaxaca,,,2021-02-20T22:00Z
+Clausura,2,Sat Feb 20 2021,19:00,CST/-0600,Dorados de Sinaloa,0-0,0-0,Venados FC,,,2021-02-21T01:00Z
+Clausura,7,Tue Feb 23 2021,19:05,CST/-0600,TM Fútbol Club,4-0,1-0,Mineros de Zacatecas,,,2021-02-24T01:05Z
+Clausura,7,Tue Feb 23 2021,17:00,CST/-0600,Coyotes de Tlaxcala,0-0,0-0,Venados FC,,,2021-02-23T23:00Z
+Clausura,7,Tue Feb 23 2021,21:05,CST/-0600,Cimarrones de Sonora,2-0,2-0,Dorados de Sinaloa,,,2021-02-24T03:05Z
+Clausura,7,Wed Feb 24 2021,19:05,CST/-0600,Cancún FC,1-0,0-0,Tapatío,,,2021-02-25T01:05Z
+Clausura,7,Wed Feb 24 2021,17:00,CST/-0600,Alebrijes de Oaxaca,2-2,2-1,Correcaminos UAT,,,2021-02-24T23:00Z
+Clausura,7,Wed Feb 24 2021,21:05,CST/-0600,Leones Negros,0-3,0-0,Atlante,,,2021-02-25T03:05Z
+Clausura,7,Thu Feb 25 2021,19:00,CST/-0600,Tepatitlán,1-2,0-0,Pumas Tabasco,,,2021-02-26T01:00Z
+Clausura,7,Sun Feb 28 2021,12:00,CST/-0600,Atlético Morelia,0-2,0-0,Club Celaya,,,2021-02-28T18:00Z
+Clausura,8,Tue Mar 2 2021,17:00,CST/-0600,Correcaminos UAT,1-1,1-0,Dorados de Sinaloa,,,2021-03-02T23:00Z
+Clausura,8,Tue Mar 2 2021,19:05,CST/-0600,Venados FC,1-1,1-0,TM Fútbol Club,,,2021-03-03T01:05Z
+Clausura,8,Wed Mar 3 2021,19:05,CST/-0600,Pumas Tabasco,0-1,0-1,Atlético Morelia,,,2021-03-04T01:05Z
+Clausura,8,Wed Mar 3 2021,17:00,CST/-0600,Mineros de Zacatecas,2-0,1-0,Cancún FC,,,2021-03-03T23:00Z
+Clausura,8,Wed Mar 3 2021,21:05,CST/-0600,Cimarrones de Sonora,2-0,1-0,Alebrijes de Oaxaca,,,2021-03-04T03:05Z
+Clausura,8,Thu Mar 4 2021,17:00,CST/-0600,Tapatío,2-1,2-0,Leones Negros,,,2021-03-04T23:00Z
+Clausura,8,Fri Mar 5 2021,17:00,CST/-0600,Club Celaya,0-0,0-0,Coyotes de Tlaxcala,,,2021-03-05T23:00Z
+Clausura,8,Sun Mar 7 2021,17:00,CST/-0600,Atlante,5-0,1-0,Tepatitlán,,,2021-03-07T23:00Z
+Clausura,9,Tue Mar 9 2021,19:05,CST/-0600,Coyotes de Tlaxcala,1-2,0-0,Tapatío,,,2021-03-10T01:05Z
+Clausura,9,Tue Mar 9 2021,21:05,CST/-0600,Dorados de Sinaloa,1-1,1-0,Pumas Tabasco,,,2021-03-10T03:05Z
+Clausura,9,Tue Mar 9 2021,17:00,CST/-0600,Alebrijes de Oaxaca,4-3,1-1,Mineros de Zacatecas,,,2021-03-09T23:00Z
+Clausura,9,Wed Mar 10 2021,19:05,CST/-0600,Cancún FC,1-0,1-0,Atlante,,,2021-03-11T01:05Z
+Clausura,9,Wed Mar 10 2021,17:00,CST/-0600,Tepatitlán,1-0,1-0,Correcaminos UAT,,,2021-03-10T23:00Z
+Clausura,9,Wed Mar 10 2021,21:05,CST/-0600,TM Fútbol Club,1-0,0-0,Club Celaya,,,2021-03-11T03:05Z
+Clausura,9,Thu Mar 11 2021,21:00,CST/-0600,Leones Negros,1-1,0-1,Cimarrones de Sonora,,,2021-03-12T03:00Z
+Clausura,9,Fri Mar 12 2021,17:30,CST/-0600,Atlético Morelia,1-1,0-0,Venados FC,,,2021-03-12T23:30Z
+Clausura,10,Mon Mar 15 2021,17:00,CST/-0600,Leones Negros,0-1,0-1,Tepatitlán,,,2021-03-15T23:00Z
+Clausura,10,Tue Mar 16 2021,19:05,CST/-0600,Venados FC,2-1,0-0,Cancún FC,,,2021-03-17T01:05Z
+Clausura,10,Tue Mar 16 2021,17:00,CST/-0600,Mineros de Zacatecas,2-0,0-0,Atlético Morelia,,,2021-03-16T23:00Z
+Clausura,10,Tue Mar 16 2021,21:05,CST/-0600,Pumas Tabasco,0-0,0-0,TM Fútbol Club,,,2021-03-17T03:05Z
+Clausura,10,Wed Mar 17 2021,19:05,CST/-0600,Correcaminos UAT,0-1,0-1,Coyotes de Tlaxcala,,,2021-03-18T01:05Z
+Clausura,10,Wed Mar 17 2021,17:00,CST/-0600,Club Celaya,2-2,1-0,Dorados de Sinaloa,,,2021-03-17T23:00Z
+Clausura,10,Wed Mar 17 2021,21:05,CST/-0600,Cimarrones de Sonora,1-1,0-1,Tapatío,,,2021-03-18T03:05Z
+Clausura,10,Thu Mar 18 2021,12:00,CST/-0600,Atlante,1-1,0-0,Alebrijes de Oaxaca,,,2021-03-18T18:00Z
+Clausura,11,Tue Mar 23 2021,19:05,CST/-0600,Venados FC,0-1,0-0,Club Celaya,,,2021-03-24T01:05Z
+Clausura,11,Tue Mar 23 2021,21:05,CST/-0600,Alebrijes de Oaxaca,0-0,0-0,Cancún FC,,,2021-03-24T03:05Z
+Clausura,11,Tue Mar 23 2021,17:00,CST/-0600,Coyotes de Tlaxcala,2-3,0-0,Pumas Tabasco,,,2021-03-23T23:00Z
+Clausura,11,Tue Mar 23 2021,20:00,CST/-0600,Tapatío,2-1,1-0,Correcaminos UAT,,,2021-03-24T02:00Z
+Clausura,11,Wed Mar 24 2021,21:05,CST/-0600,Dorados de Sinaloa,3-2,1-2,Atlante,,,2021-03-25T03:05Z
+Clausura,11,Wed Mar 24 2021,17:00,CST/-0600,Tepatitlán,1-2,1-1,Mineros de Zacatecas,,,2021-03-24T23:00Z
+Clausura,11,Wed Mar 24 2021,19:00,CST/-0600,TM Fútbol Club,0-1,0-0,Cimarrones de Sonora,,,2021-03-25T01:00Z
+Clausura,11,Thu Mar 25 2021,22:00,CST/-0600,Atlético Morelia,2-1,2-0,Leones Negros,,,2021-03-26T04:00Z
+Clausura,12,Fri Mar 26 2021,21:05,CST/-0600,Pumas Tabasco,0-2,0-2,Venados FC,,,2021-03-27T03:05Z
+Clausura,12,Fri Mar 26 2021,19:05,CST/-0600,Club Celaya,0-0,0-0,Alebrijes de Oaxaca,,,2021-03-27T01:05Z
+Clausura,12,Sat Mar 27 2021,19:05,CST/-0600,Cancún FC,5-1,4-1,Tepatitlán,,,2021-03-28T01:05Z
+Clausura,12,Sat Mar 27 2021,16:00,CST/-0600,Tapatío,1-2,0-1,Dorados de Sinaloa,,,2021-03-27T22:00Z
+Clausura,12,Sat Mar 27 2021,21:05,CST/-0600,Correcaminos UAT,2-2,1-0,TM Fútbol Club,,,2021-03-28T03:05Z
+Clausura,12,Sun Mar 28 2021,21:05,CST/-0600,Cimarrones de Sonora,2-0,0-0,Coyotes de Tlaxcala,,,2021-03-29T03:05Z
+Clausura,12,Sun Mar 28 2021,19:05,CST/-0600,Mineros de Zacatecas,1-0,1-0,Leones Negros,,,2021-03-29T01:05Z
+Clausura,12,Sun Mar 28 2021,12:00,CST/-0600,Atlante,0-2,0-1,Atlético Morelia,,,2021-03-28T18:00Z
+Clausura,13,Tue Mar 30 2021,21:05,CST/-0600,Dorados de Sinaloa,1-1,1-0,Alebrijes de Oaxaca,,,2021-03-31T03:05Z
+Clausura,13,Tue Mar 30 2021,19:05,CST/-0600,Pumas Tabasco,1-2,0-2,Correcaminos UAT,,,2021-03-31T01:05Z
+Clausura,13,Wed Mar 31 2021,21:05,CST/-0600,TM Fútbol Club,0-0,0-0,Atlante,,,2021-04-01T03:05Z
+Clausura,13,Wed Mar 31 2021,17:00,CST/-0600,Coyotes de Tlaxcala,1-0,1-0,Cancún FC,,,2021-03-31T23:00Z
+Clausura,13,Wed Mar 31 2021,19:05,CST/-0600,Venados FC,2-3,1-1,Mineros de Zacatecas,,,2021-04-01T01:05Z
+Clausura,13,Thu Apr 1 2021,21:00,CST/-0600,Leones Negros,3-1,0-1,Club Celaya,,,2021-04-02T03:00Z
+Clausura,13,Fri Apr 2 2021,17:00,CST/-0600,Tepatitlán,1-0,1-0,Cimarrones de Sonora,,,2021-04-02T23:00Z
+Clausura,13,Sun Apr 4 2021,21:00,CDT/-0500,Atlético Morelia,2-0,1-0,Tapatío,,,2021-04-05T02:00Z
+Clausura,14,Tue Apr 6 2021,21:05,CDT/-0500,Alebrijes de Oaxaca,4-1,0-0,TM Fútbol Club,,,2021-04-07T02:05Z
+Clausura,14,Tue Apr 6 2021,19:05,CDT/-0500,Correcaminos UAT,1-2,0-2,Club Celaya,,,2021-04-07T00:05Z
+Clausura,14,Tue Apr 6 2021,17:00,CDT/-0500,Tepatitlán,2-1,2-1,Coyotes de Tlaxcala,,,2021-04-06T22:00Z
+Clausura,14,Wed Apr 7 2021,19:05,CDT/-0500,Cancún FC,2-0,0-0,Leones Negros,,,2021-04-08T00:05Z
+Clausura,14,Wed Apr 7 2021,17:00,CDT/-0500,Mineros de Zacatecas,2-2,0-1,Cimarrones de Sonora,,,2021-04-07T22:00Z
+Clausura,14,Wed Apr 7 2021,21:05,CDT/-0500,Dorados de Sinaloa,2-3,1-1,Atlético Morelia,,,2021-04-08T02:05Z
+Clausura,14,Thu Apr 8 2021,19:00,CDT/-0500,Tapatío,1-1,0-1,Venados FC,,,2021-04-09T00:00Z
+Clausura,14,Sun Apr 11 2021,17:00,CDT/-0500,Atlante,1-0,1-0,Pumas Tabasco,,,2021-04-11T22:00Z
+Clausura,15,Tue Apr 13 2021,21:05,CDT/-0500,Cimarrones de Sonora,2-0,1-0,Correcaminos UAT,,,2021-04-14T02:05Z
+Clausura,15,Tue Apr 13 2021,19:05,CDT/-0500,TM Fútbol Club,0-0,0-0,Dorados de Sinaloa,,,2021-04-14T00:05Z
+Clausura,15,Tue Apr 13 2021,17:00,CDT/-0500,Coyotes de Tlaxcala,2-1,1-1,Mineros de Zacatecas,,,2021-04-13T22:00Z
+Clausura,15,Wed Apr 14 2021,19:05,CDT/-0500,Venados FC,0-1,0-1,Atlante,,,2021-04-15T00:05Z
+Clausura,15,Wed Apr 14 2021,17:00,CDT/-0500,Leones Negros,1-1,0-0,Alebrijes de Oaxaca,,,2021-04-14T22:00Z
+Clausura,15,Wed Apr 14 2021,21:05,CDT/-0500,Pumas Tabasco,1-2,1-1,Cancún FC,,,2021-04-15T02:05Z
+Clausura,15,Thu Apr 15 2021,19:00,CDT/-0500,Club Celaya,0-0,0-0,Tapatío,,,2021-04-16T00:00Z
+Clausura,15,Thu Apr 15 2021,21:05,CDT/-0500,Atlético Morelia,2-2,1-0,Tepatitlán,,,2021-04-16T02:05Z
+Clausura Playoffs,Recalificación,Tue Apr 20 2021,21:15,CDT/-0500,Cimarrones de Sonora,2-2,2-2,Venados FC,,4-3,2021-04-21T02:15Z
+Clausura Playoffs,Recalificación,Tue Apr 20 2021,19:00,CDT/-0500,Mineros de Zacatecas,6-0,2-0,Alebrijes de Oaxaca,,,2021-04-21T00:00Z
+Clausura Playoffs,Recalificación,Wed Apr 21 2021,19:15,CDT/-0500,Atlante,2-1,1-1,Cancún FC,,,2021-04-22T00:15Z
+Clausura Playoffs,Recalificación,Wed Apr 21 2021,17:00,CDT/-0500,Tepatitlán,1-1,0-1,Dorados de Sinaloa,1-1,4-2,2021-04-21T22:00Z
+Clausura Playoffs,Recalificación,Thu Apr 22 2021,21:00,CDT/-0500,Tapatío,1-0,1-0,Coyotes de Tlaxcala,,,2021-04-23T02:00Z
+Clausura Playoffs,Round 2,Tue Apr 27 2021,12:00,CDT/-0500,Atlante,2-0,2-0,Club Celaya,,,2021-04-27T17:00Z
+Clausura Playoffs,Round 2,Wed Apr 28 2021,17:00,CDT/-0500,Tepatitlán,2-0,0-0,Cimarrones de Sonora,,,2021-04-28T22:00Z
+Clausura Playoffs,Round 2,Thu Apr 29 2021,17:00,CDT/-0500,Tapatío,0-1,0-0,Mineros de Zacatecas,,,2021-04-29T22:00Z
+Clausura Playoffs,Round 2,Fri Apr 30 2021,17:00,CDT/-0500,Club Celaya,3-3,1-2,Atlante,,,2021-04-30T22:00Z
+Clausura Playoffs,Round 2,Sat May 1 2021,22:00,CDT/-0500,Cimarrones de Sonora,1-4,1-1,Tepatitlán,,,2021-05-02T03:00Z
+Clausura Playoffs,Round 2,Sun May 2 2021,17:00,CDT/-0500,Mineros de Zacatecas,2-1,0-1,Tapatío,,,2021-05-02T22:00Z
+Clausura Playoffs,Semifinals,Tue May 4 2021,16:00,CDT/-0500,Atlante,0-1,0-1,Atlético Morelia,,,2021-05-04T21:00Z
+Clausura Playoffs,Semifinals,Wed May 5 2021,17:00,CDT/-0500,Tepatitlán,3-0,0-0,Mineros de Zacatecas,,,2021-05-05T22:00Z
+Clausura Playoffs,Semifinals,Fri May 7 2021,21:00,CDT/-0500,Atlético Morelia,1-1,1-1,Atlante,,,2021-05-08T02:00Z
+Clausura Playoffs,Semifinals,Sat May 8 2021,17:00,CDT/-0500,Mineros de Zacatecas,1-1,1-0,Tepatitlán,,,2021-05-08T22:00Z
+Clausura Playoffs,Final,Wed May 12 2021,17:00,CDT/-0500,Tepatitlán,1-0,0-0,Atlético Morelia,,,2021-05-12T22:00Z
+Clausura Playoffs,Final,Sat May 15 2021,16:00,CDT/-0500,Atlético Morelia,2-2,2-1,Tepatitlán,,,2021-05-15T21:00Z
+Campeón,Final,Wed May 19 2021,18:30,CDT/-0500,TM Fútbol Club,2-0,0-0,Tepatitlán,,,2021-05-19T23:30Z
+Campeón,Final,Sat May 22 2021,17:00,CDT/-0500,Tepatitlán,2-0,1-0,TM Fútbol Club,2-0,5-3,2021-05-22T22:00Z

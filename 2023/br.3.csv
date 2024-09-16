@@ -1,0 +1,217 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Tue May 2 2023,19:00,-0300,Volta Redonda RJ,0-1,0-1,Pouso Alegre MG,2023-05-02T22:00Z
+,1,Tue May 2 2023,21:30,-0300,Manaus AM,2-1,0-1,Náutico PE,2023-05-03T00:30Z
+,1,Tue May 2 2023,19:00,-0300,São José RS,0-0,0-0,Floresta CE,2023-05-02T22:00Z
+,1,Wed May 3 2023,19:00,-0300,América RN,1-2,1-1,Ypiranga RS,2023-05-03T22:00Z
+,1,Wed May 3 2023,19:00,-0300,Brusque SC,1-0,1-0,Amazonas FC AM,2023-05-03T22:00Z
+,1,Wed May 3 2023,21:30,-0300,Paysandu PA,2-1,0-0,Aparecidense GO,2023-05-04T00:30Z
+,1,Thu May 4 2023,19:00,-0300,Botafogo PB,2-1,2-0,Operário Ferroviário PR,2023-05-04T22:00Z
+,1,Thu May 4 2023,21:30,-0300,Altos PI,0-0,0-0,Figueirense SC,2023-05-05T00:30Z
+,1,Thu May 4 2023,21:30,-0300,São Bernardo FC SP,3-1,1-0,Remo PA,2023-05-05T00:30Z
+,1,Thu May 4 2023,18:00,-0300,CSA AL,0-1,0-1,Confiança SE,2023-05-04T21:00Z
+,2,Sat May 6 2023,16:00,-0300,Amazonas FC AM,2-0,0-0,América RN,2023-05-06T19:00Z
+,2,Sat May 6 2023,16:30,-0300,Floresta CE,2-1,2-1,Volta Redonda RJ,2023-05-06T19:30Z
+,2,Sat May 6 2023,19:00,-0300,Náutico PE,2-1,1-1,São José RS,2023-05-06T22:00Z
+,2,Sat May 6 2023,19:00,-0300,Pouso Alegre MG,1-0,0-0,Brusque SC,2023-05-06T22:00Z
+,2,Sun May 7 2023,16:30,-0300,Ypiranga RS,1-1,0-0,CSA AL,2023-05-07T19:30Z
+,2,Sun May 7 2023,19:00,-0300,Aparecidense GO,1-2,0-1,São Bernardo FC SP,2023-05-07T22:00Z
+,2,Sun May 7 2023,19:00,-0300,Remo PA,1-2,1-1,Botafogo PB,2023-05-07T22:00Z
+,2,Sun May 7 2023,16:30,-0300,Operário Ferroviário PR,2-0,1-0,Manaus AM,2023-05-07T19:30Z
+,2,Mon May 8 2023,20:00,-0300,Confiança SE,2-1,1-1,Altos PI,2023-05-08T23:00Z
+,2,Mon May 8 2023,20:00,-0300,Figueirense SC,2-0,1-0,Paysandu PA,2023-05-08T23:00Z
+,3,Thu May 11 2023,20:00,-0300,Ypiranga RS,5-0,1-0,Paysandu PA,2023-05-11T23:00Z
+,3,Sat May 13 2023,16:30,-0300,Pouso Alegre MG,0-2,0-0,São Bernardo FC SP,2023-05-13T19:30Z
+,3,Sat May 13 2023,19:00,-0300,Aparecidense GO,3-0,0-0,Náutico PE,2023-05-13T22:00Z
+,3,Sat May 13 2023,21:30,-0300,América RN,2-2,1-1,Botafogo PB,2023-05-14T00:30Z
+,3,Sat May 13 2023,16:30,-0300,Confiança SE,1-0,1-0,Figueirense SC,2023-05-13T19:30Z
+,3,Sun May 14 2023,16:00,-0300,Manaus AM,1-0,0-0,Altos PI,2023-05-14T19:00Z
+,3,Sun May 14 2023,16:30,-0300,Remo PA,1-2,0-1,Amazonas FC AM,2023-05-14T19:30Z
+,3,Sun May 14 2023,19:00,-0300,Brusque SC,3-2,1-0,Volta Redonda RJ,2023-05-14T22:00Z
+,3,Sun May 14 2023,19:00,-0300,Floresta CE,0-2,0-1,CSA AL,2023-05-14T22:00Z
+,3,Mon May 15 2023,20:00,-0300,Operário Ferroviário PR,1-1,0-0,São José RS,2023-05-15T23:00Z
+,4,Sat May 20 2023,16:00,-0300,Altos PI,3-2,2-0,Ypiranga RS,2023-05-20T19:00Z
+,4,Sat May 20 2023,16:00,-0300,São Bernardo FC SP,3-1,1-0,Confiança SE,2023-05-20T19:00Z
+,4,Sat May 20 2023,16:30,-0300,Figueirense SC,2-1,0-1,Aparecidense GO,2023-05-20T19:30Z
+,4,Sat May 20 2023,19:00,-0300,Botafogo PB,1-1,0-1,Pouso Alegre MG,2023-05-20T22:00Z
+,4,Sat May 20 2023,19:00,-0300,CSA AL,0-0,0-0,Brusque SC,2023-05-20T22:00Z
+,4,Sun May 21 2023,19:00,-0300,Paysandu PA,1-0,1-0,Manaus AM,2023-05-21T22:00Z
+,4,Sun May 21 2023,19:00,-0300,Volta Redonda RJ,3-0,2-0,América RN,2023-05-21T22:00Z
+,4,Sun May 21 2023,16:00,-0300,Amazonas FC AM,2-2,0-2,Operário Ferroviário PR,2023-05-21T19:00Z
+,4,Mon May 22 2023,20:00,-0300,Náutico PE,3-1,2-1,Floresta CE,2023-05-22T23:00Z
+,4,Mon May 22 2023,20:00,-0300,São José RS,2-1,1-0,Remo PA,2023-05-22T23:00Z
+,5,Sat May 27 2023,16:30,-0300,Ypiranga RS,2-0,1-0,Manaus AM,2023-05-27T19:30Z
+,5,Sat May 27 2023,17:00,-0300,Brusque SC,0-1,0-1,São José RS,2023-05-27T20:00Z
+,5,Sat May 27 2023,19:00,-0300,Náutico PE,0-0,0-0,América RN,2023-05-27T22:00Z
+,5,Sun May 28 2023,16:30,-0300,Figueirense SC,1-2,1-1,Botafogo PB,2023-05-28T19:30Z
+,5,Sun May 28 2023,19:00,-0300,Operário Ferroviário PR,1-0,0-0,Pouso Alegre MG,2023-05-28T22:00Z
+,5,Sun May 28 2023,19:00,-0300,Volta Redonda RJ,3-0,2-0,Paysandu PA,2023-05-28T22:00Z
+,5,Sun May 28 2023,16:30,-0300,CSA AL,1-0,1-0,São Bernardo FC SP,2023-05-28T19:30Z
+,5,Mon May 29 2023,20:00,-0300,Floresta CE,1-1,0-0,Amazonas FC AM,2023-05-29T23:00Z
+,5,Mon May 29 2023,20:00,-0300,Aparecidense GO,1-2,1-1,Altos PI,2023-05-29T23:00Z
+,5,Tue May 30 2023,20:00,-0300,Remo PA,1-0,0-0,Confiança SE,2023-05-30T23:00Z
+,6,Fri Jun 2 2023,20:00,-0300,América RN,1-0,0-0,Operário Ferroviário PR,2023-06-02T23:00Z
+,6,Sat Jun 3 2023,16:00,-0300,Altos PI,1-1,0-0,CSA AL,2023-06-03T19:00Z
+,6,Sat Jun 3 2023,16:00,-0300,Manaus AM,1-0,0-0,Volta Redonda RJ,2023-06-03T19:00Z
+,6,Sat Jun 3 2023,16:30,-0300,Pouso Alegre MG,0-1,0-1,Náutico PE,2023-06-03T19:30Z
+,6,Sat Jun 3 2023,19:00,-0300,Brusque SC,1-1,0-1,Remo PA,2023-06-03T22:00Z
+,6,Sun Jun 4 2023,16:30,-0300,Paysandu PA,1-1,1-0,São José RS,2023-06-04T19:30Z
+,6,Sun Jun 4 2023,19:00,-0300,Confiança SE,2-3,0-2,Amazonas FC AM,2023-06-04T22:00Z
+,6,Sun Jun 4 2023,19:00,-0300,Ypiranga RS,0-1,0-0,Aparecidense GO,2023-06-04T22:00Z
+,6,Sun Jun 4 2023,16:30,-0300,Botafogo PB,1-1,1-0,Floresta CE,2023-06-04T19:30Z
+,6,Mon Jun 5 2023,20:00,-0300,São Bernardo FC SP,1-0,0-0,Figueirense SC,2023-06-05T23:00Z
+,7,Tue Jun 6 2023,20:00,-0300,Náutico PE,2-0,0-0,Volta Redonda RJ,2023-06-06T23:00Z
+,7,Wed Jun 7 2023,18:00,-0300,Pouso Alegre MG,1-1,0-0,Confiança SE,2023-06-07T21:00Z
+,7,Wed Jun 7 2023,19:00,-0300,Operário Ferroviário PR,0-0,0-0,Paysandu PA,2023-06-07T22:00Z
+,7,Wed Jun 7 2023,21:30,-0300,São José RS,4-1,2-0,Altos PI,2023-06-08T00:30Z
+,7,Wed Jun 7 2023,16:00,-0300,Amazonas FC AM,0-0,0-0,Botafogo PB,2023-06-07T19:00Z
+,7,Thu Jun 8 2023,16:30,-0300,Remo PA,0-0,0-0,América RN,2023-06-08T19:30Z
+,7,Thu Jun 8 2023,18:30,-0300,Floresta CE,2-0,1-0,São Bernardo FC SP,2023-06-08T21:30Z
+,7,Thu Jun 8 2023,19:00,-0300,Aparecidense GO,0-2,0-0,Brusque SC,2023-06-08T22:00Z
+,7,Thu Jun 8 2023,20:00,-0300,CSA AL,2-1,0-0,Manaus AM,2023-06-08T23:00Z
+,7,Thu Jun 8 2023,21:30,-0300,Figueirense SC,2-0,1-0,Ypiranga RS,2023-06-09T00:30Z
+,8,Sat Jun 10 2023,19:00,-0300,Volta Redonda RJ,1-0,0-0,Botafogo PB,2023-06-10T22:00Z
+,8,Sun Jun 11 2023,16:00,-0300,Amazonas FC AM,2-0,1-0,Manaus AM,2023-06-11T19:00Z
+,8,Sun Jun 11 2023,16:30,-0300,Aparecidense GO,0-2,0-1,Remo PA,2023-06-11T19:30Z
+,8,Sun Jun 11 2023,16:30,-0300,Operário Ferroviário PR,1-0,0-0,CSA AL,2023-06-11T19:30Z
+,8,Sun Jun 11 2023,19:00,-0300,América RN,2-1,1-1,Brusque SC,2023-06-11T22:00Z
+,8,Sun Jun 11 2023,19:00,-0300,Floresta CE,0-0,0-0,Altos PI,2023-06-11T22:00Z
+,8,Sun Jun 11 2023,19:00,-0300,Ypiranga RS,1-0,0-0,São José RS,2023-06-11T22:00Z
+,8,Mon Jun 12 2023,20:00,-0300,Paysandu PA,1-1,1-0,São Bernardo FC SP,2023-06-12T23:00Z
+,8,Mon Jun 12 2023,21:30,-0300,Confiança SE,2-2,0-2,Náutico PE,2023-06-13T00:30Z
+,8,Mon Jun 12 2023,20:00,-0300,Figueirense SC,1-2,1-1,Pouso Alegre MG,2023-06-12T23:00Z
+,9,Sat Jun 17 2023,16:00,-0300,Altos PI,2-3,2-1,Amazonas FC AM,2023-06-17T19:00Z
+,9,Sat Jun 17 2023,16:00,-0300,América RN,0-1,0-1,Confiança SE,2023-06-17T19:00Z
+,9,Sat Jun 17 2023,16:30,-0300,Pouso Alegre MG,0-2,0-0,Remo PA,2023-06-17T19:30Z
+,9,Sat Jun 17 2023,19:00,-0300,Brusque SC,0-1,0-1,Figueirense SC,2023-06-17T22:00Z
+,9,Sun Jun 18 2023,16:30,-0300,Ypiranga RS,0-2,0-1,Operário Ferroviário PR,2023-06-18T19:30Z
+,9,Sun Jun 18 2023,19:00,-0300,Paysandu PA,2-1,0-0,Floresta CE,2023-06-18T22:00Z
+,9,Sun Jun 18 2023,16:00,-0300,Manaus AM,1-4,1-1,São José RS,2023-06-18T19:00Z
+,9,Mon Jun 19 2023,21:30,-0300,São Bernardo FC SP,0-3,0-1,Volta Redonda RJ,2023-06-20T00:30Z
+,9,Mon Jun 19 2023,20:00,-0300,Botafogo PB,1-1,0-1,Náutico PE,2023-06-19T23:00Z
+,9,Tue Jun 20 2023,20:00,-0300,CSA AL,1-1,1-1,Aparecidense GO,2023-06-20T23:00Z
+,10,Sat Jun 24 2023,16:00,-0300,Manaus AM,3-3,2-0,Confiança SE,2023-06-24T19:00Z
+,10,Sat Jun 24 2023,16:30,-0300,Remo PA,1-1,1-0,Figueirense SC,2023-06-24T19:30Z
+,10,Sat Jun 24 2023,17:00,-0300,Brusque SC,2-0,1-0,Floresta CE,2023-06-24T20:00Z
+,10,Sun Jun 25 2023,16:30,-0300,Volta Redonda RJ,2-1,0-0,Ypiranga RS,2023-06-25T19:30Z
+,10,Sun Jun 25 2023,19:00,-0300,São José RS,2-2,0-1,São Bernardo FC SP,2023-06-25T22:00Z
+,10,Sun Jun 25 2023,16:00,-0300,Altos PI,0-0,0-0,Pouso Alegre MG,2023-06-25T19:00Z
+,10,Mon Jun 26 2023,20:00,-0300,Operário Ferroviário PR,1-0,1-0,Aparecidense GO,2023-06-26T23:00Z
+,10,Tue Jun 27 2023,20:00,-0300,Botafogo PB,3-2,0-1,Paysandu PA,2023-06-27T23:00Z
+,10,Wed Jun 28 2023,21:30,-0300,Náutico PE,0-1,0-1,Amazonas FC AM,2023-06-29T00:30Z
+,10,Wed Jun 28 2023,20:00,-0300,CSA AL,0-1,0-0,América RN,2023-06-28T23:00Z
+,11,Sat Jul 1 2023,16:00,-0300,Confiança SE,1-1,0-0,Ypiranga RS,2023-07-01T19:00Z
+,11,Sat Jul 1 2023,16:00,-0300,São Bernardo FC SP,0-0,0-0,Botafogo PB,2023-07-01T19:00Z
+,11,Sat Jul 1 2023,19:00,-0300,Aparecidense GO,1-0,1-0,Manaus AM,2023-07-01T22:00Z
+,11,Sat Jul 1 2023,19:00,-0300,Paysandu PA,0-2,0-0,Brusque SC,2023-07-01T22:00Z
+,11,Sun Jul 2 2023,16:30,-0300,Figueirense SC,0-0,0-0,Operário Ferroviário PR,2023-07-02T19:30Z
+,11,Sun Jul 2 2023,19:00,-0300,Floresta CE,0-0,0-0,Remo PA,2023-07-02T22:00Z
+,11,Sun Jul 2 2023,19:00,-0300,Volta Redonda RJ,1-1,0-0,CSA AL,2023-07-02T22:00Z
+,11,Sun Jul 2 2023,16:00,-0300,Amazonas FC AM,2-1,1-1,Pouso Alegre MG,2023-07-02T19:00Z
+,11,Mon Jul 3 2023,20:00,-0300,São José RS,2-0,0-0,América RN,2023-07-03T23:00Z
+,11,Mon Jul 3 2023,20:00,-0300,Náutico PE,1-0,1-0,Altos PI,2023-07-03T23:00Z
+,12,Sat Jul 8 2023,16:00,-0300,Botafogo PB,1-2,0-1,Brusque SC,2023-07-08T19:00Z
+,12,Sat Jul 8 2023,19:00,-0300,São Bernardo FC SP,1-1,1-1,Altos PI,2023-07-08T22:00Z
+,12,Sat Jul 8 2023,16:00,-0300,Amazonas FC AM,1-2,0-1,Paysandu PA,2023-07-08T19:00Z
+,12,Sun Jul 9 2023,16:30,-0300,América RN,1-2,0-0,Manaus AM,2023-07-09T19:30Z
+,12,Sun Jul 9 2023,16:30,-0300,Pouso Alegre MG,0-1,0-0,Floresta CE,2023-07-09T19:30Z
+,12,Sun Jul 9 2023,19:00,-0300,Aparecidense GO,2-1,0-1,São José RS,2023-07-09T22:00Z
+,12,Sun Jul 9 2023,19:00,-0300,Figueirense SC,1-1,0-1,CSA AL,2023-07-09T22:00Z
+,12,Mon Jul 10 2023,20:00,-0300,Ypiranga RS,3-3,2-1,Náutico PE,2023-07-10T23:00Z
+,12,Mon Jul 10 2023,20:30,-0300,Remo PA,1-2,0-1,Operário Ferroviário PR,2023-07-10T23:30Z
+,12,Mon Jul 10 2023,20:00,-0300,Confiança SE,0-1,0-0,Volta Redonda RJ,2023-07-10T23:00Z
+,13,Sat Jul 15 2023,16:00,-0300,Brusque SC,4-0,1-0,Confiança SE,2023-07-15T19:00Z
+,13,Sat Jul 15 2023,16:00,-0300,Manaus AM,0-0,0-0,São Bernardo FC SP,2023-07-15T19:00Z
+,13,Sat Jul 15 2023,16:30,-0300,Náutico PE,2-1,2-0,Figueirense SC,2023-07-15T19:30Z
+,13,Sat Jul 15 2023,19:00,-0300,Botafogo PB,2-1,1-0,Aparecidense GO,2023-07-15T22:00Z
+,13,Sun Jul 16 2023,16:00,-0300,CSA AL,2-0,1-0,São José RS,2023-07-16T19:00Z
+,13,Sun Jul 16 2023,16:30,-0300,Operário Ferroviário PR,1-0,0-0,Floresta CE,2023-07-16T19:30Z
+,13,Sun Jul 16 2023,19:00,-0300,Ypiranga RS,4-1,1-0,Pouso Alegre MG,2023-07-16T22:00Z
+,13,Sun Jul 16 2023,16:00,-0300,Altos PI,1-1,1-1,América RN,2023-07-16T19:00Z
+,13,Mon Jul 17 2023,16:00,-0300,Volta Redonda RJ,5-1,3-1,Amazonas FC AM,2023-07-17T19:00Z
+,13,Mon Jul 17 2023,20:00,-0300,Paysandu PA,1-0,1-0,Remo PA,2023-07-17T23:00Z
+,14,Sat Jul 22 2023,16:00,-0300,Confiança SE,1-0,0-0,Operário Ferroviário PR,2023-07-22T19:00Z
+,14,Sat Jul 22 2023,16:00,-0300,Pouso Alegre MG,0-1,0-1,Aparecidense GO,2023-07-22T19:00Z
+,14,Sat Jul 22 2023,19:00,-0300,São Bernardo FC SP,0-0,0-0,América RN,2023-07-22T22:00Z
+,14,Sat Jul 22 2023,16:00,-0300,Amazonas FC AM,0-0,0-0,Ypiranga RS,2023-07-22T19:00Z
+,14,Sun Jul 23 2023,16:00,-0300,Altos PI,0-1,0-1,Botafogo PB,2023-07-23T19:00Z
+,14,Sun Jul 23 2023,16:00,-0300,Manaus AM,0-2,0-0,Brusque SC,2023-07-23T19:00Z
+,14,Sun Jul 23 2023,19:00,-0300,Náutico PE,0-0,0-0,Remo PA,2023-07-23T22:00Z
+,14,Sun Jul 23 2023,19:00,-0300,Paysandu PA,1-0,1-0,CSA AL,2023-07-23T22:00Z
+,14,Mon Jul 24 2023,20:00,-0300,Floresta CE,1-1,0-1,Figueirense SC,2023-07-24T23:00Z
+,14,Mon Jul 24 2023,20:00,-0300,São José RS,2-2,1-0,Volta Redonda RJ,2023-07-24T23:00Z
+,15,Sat Jul 29 2023,16:00,-0300,São José RS,2-0,1-0,Confiança SE,2023-07-29T19:00Z
+,15,Sat Jul 29 2023,16:00,-0300,Operário Ferroviário PR,1-1,1-0,Náutico PE,2023-07-29T19:00Z
+,15,Sat Jul 29 2023,19:00,-0300,Remo PA,2-1,1-0,Ypiranga RS,2023-07-29T22:00Z
+,15,Sat Jul 29 2023,19:00,-0300,Volta Redonda RJ,2-0,1-0,Altos PI,2023-07-29T22:00Z
+,15,Sun Jul 30 2023,16:00,-0300,CSA AL,2-1,0-1,Pouso Alegre MG,2023-07-30T19:00Z
+,15,Sun Jul 30 2023,19:00,-0300,Botafogo PB,2-0,0-0,Manaus AM,2023-07-30T22:00Z
+,15,Sun Jul 30 2023,19:00,-0300,Figueirense SC,0-1,0-1,Amazonas FC AM,2023-07-30T22:00Z
+,15,Sun Jul 30 2023,16:00,-0300,América RN,1-1,1-0,Paysandu PA,2023-07-30T19:00Z
+,15,Mon Jul 31 2023,20:00,-0300,Aparecidense GO,0-0,0-0,Floresta CE,2023-07-31T23:00Z
+,15,Mon Jul 31 2023,20:00,-0300,Brusque SC,0-0,0-0,São Bernardo FC SP,2023-07-31T23:00Z
+,16,Sat Aug 5 2023,16:00,-0300,Pouso Alegre MG,0-1,0-0,Manaus AM,2023-08-05T19:00Z
+,16,Sat Aug 5 2023,19:00,-0300,Remo PA,2-1,1-1,Volta Redonda RJ,2023-08-05T22:00Z
+,16,Sat Aug 5 2023,19:00,-0300,Ypiranga RS,2-0,1-0,Brusque SC,2023-08-05T22:00Z
+,16,Sat Aug 5 2023,16:00,-0300,Amazonas FC AM,0-0,0-0,Aparecidense GO,2023-08-05T19:00Z
+,16,Sun Aug 6 2023,11:00,-0300,Figueirense SC,3-0,0-0,América RN,2023-08-06T14:00Z
+,16,Sun Aug 6 2023,16:00,-0300,Altos PI,1-1,1-1,Paysandu PA,2023-08-06T19:00Z
+,16,Sun Aug 6 2023,16:00,-0300,Náutico PE,0-0,0-0,CSA AL,2023-08-06T19:00Z
+,16,Sun Aug 6 2023,16:00,-0300,Operário Ferroviário PR,1-0,1-0,São Bernardo FC SP,2023-08-06T19:00Z
+,16,Mon Aug 7 2023,20:00,-0300,Confiança SE,3-1,2-1,Floresta CE,2023-08-07T23:00Z
+,16,Mon Aug 7 2023,20:00,-0300,Botafogo PB,1-1,1-0,São José RS,2023-08-07T23:00Z
+,17,Sat Aug 12 2023,16:00,-0300,Aparecidense GO,1-0,0-0,Confiança SE,2023-08-12T19:00Z
+,17,Sat Aug 12 2023,16:00,-0300,São Bernardo FC SP,2-1,0-0,Amazonas FC AM,2023-08-12T19:00Z
+,17,Sat Aug 12 2023,19:00,-0300,Brusque SC,3-0,3-0,Altos PI,2023-08-12T22:00Z
+,17,Sat Aug 12 2023,19:00,-0300,Volta Redonda RJ,1-1,0-1,Operário Ferroviário PR,2023-08-12T22:00Z
+,17,Sun Aug 13 2023,16:00,-0300,Manaus AM,1-1,0-0,Remo PA,2023-08-13T19:00Z
+,17,Sun Aug 13 2023,16:00,-0300,Paysandu PA,4-2,1-2,Náutico PE,2023-08-13T19:00Z
+,17,Sun Aug 13 2023,19:00,-0300,América RN,2-0,0-0,Pouso Alegre MG,2023-08-13T22:00Z
+,17,Sun Aug 13 2023,19:00,-0300,São José RS,3-3,2-1,Figueirense SC,2023-08-13T22:00Z
+,17,Sun Aug 13 2023,16:00,-0300,CSA AL,1-1,1-1,Botafogo PB,2023-08-13T19:00Z
+,17,Mon Aug 14 2023,20:00,-0300,Floresta CE,2-0,0-0,Ypiranga RS,2023-08-14T23:00Z
+,18,Sat Aug 19 2023,16:00,-0300,Brusque SC,2-2,1-1,Náutico PE,2023-08-19T19:00Z
+,18,Sat Aug 19 2023,19:00,-0300,Altos PI,0-1,0-0,Operário Ferroviário PR,2023-08-19T22:00Z
+,18,Sat Aug 19 2023,19:00,-0300,São José RS,1-0,1-0,Amazonas FC AM,2023-08-19T22:00Z
+,18,Sat Aug 19 2023,16:00,-0300,Botafogo PB,2-3,1-1,Confiança SE,2023-08-19T19:00Z
+,18,Sun Aug 20 2023,16:00,-0300,CSA AL,0-0,0-0,Remo PA,2023-08-20T19:00Z
+,18,Sun Aug 20 2023,16:00,-0300,Manaus AM,0-0,0-0,Floresta CE,2023-08-20T19:00Z
+,18,Sun Aug 20 2023,19:00,-0300,Paysandu PA,2-1,1-1,Pouso Alegre MG,2023-08-20T22:00Z
+,18,Sun Aug 20 2023,19:00,-0300,Volta Redonda RJ,2-0,0-0,Figueirense SC,2023-08-20T22:00Z
+,18,Mon Aug 21 2023,20:00,-0300,São Bernardo FC SP,1-0,0-0,Ypiranga RS,2023-08-21T23:00Z
+,18,Mon Aug 21 2023,20:00,-0300,América RN,0-0,0-0,Aparecidense GO,2023-08-21T23:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Amazonas FC AM,1-0,0-0,CSA AL,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Aparecidense GO,2-3,0-3,Volta Redonda RJ,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Confiança SE,1-0,1-0,Paysandu PA,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Figueirense SC,0-0,0-0,Manaus AM,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Floresta CE,1-0,0-0,América RN,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Náutico PE,2-2,0-1,São Bernardo FC SP,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Operário Ferroviário PR,1-0,1-0,Brusque SC,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Pouso Alegre MG,1-2,0-1,São José RS,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Remo PA,3-1,1-1,Altos PI,2023-08-26T19:00Z
+,19,Sat Aug 26 2023,16:00,-0300,Ypiranga RS,1-1,0-0,Botafogo PB,2023-08-26T19:00Z
+Playoffs,Gruppe B,Sat Sep 2 2023,16:00,-0300,São José RS,1-2,1-1,Brusque SC,2023-09-02T19:00Z
+Playoffs,Gruppe B,Sun Sep 3 2023,16:00,-0300,São Bernardo FC SP,2-1,1-1,Operário Ferroviário PR,2023-09-03T19:00Z
+Playoffs,Gruppe C,Sun Sep 3 2023,18:00,-0300,Botafogo PB,2-1,1-0,Amazonas FC AM,2023-09-03T21:00Z
+Playoffs,Gruppe C,Sun Sep 3 2023,17:00,-0300,Paysandu PA,1-1,1-1,Volta Redonda RJ,2023-09-03T20:00Z
+Playoffs,Gruppe B,Sat Sep 9 2023,19:00,-0300,Brusque SC,1-0,0-0,São Bernardo FC SP,2023-09-09T22:00Z
+Playoffs,Gruppe C,Sat Sep 9 2023,17:00,-0300,Amazonas FC AM,0-1,0-1,Paysandu PA,2023-09-09T20:00Z
+Playoffs,Gruppe B,Sun Sep 10 2023,16:00,-0300,Operário Ferroviário PR,2-0,1-0,São José RS,2023-09-10T19:00Z
+Playoffs,Gruppe C,Sun Sep 10 2023,19:00,-0300,Volta Redonda RJ,2-1,0-0,Botafogo PB,2023-09-10T22:00Z
+Playoffs,Gruppe B,Sat Sep 16 2023,16:00,-0300,São Bernardo FC SP,1-1,1-0,São José RS,2023-09-16T19:00Z
+Playoffs,Gruppe C,Sat Sep 16 2023,18:00,-0300,Amazonas FC AM,2-0,1-0,Volta Redonda RJ,2023-09-16T21:00Z
+Playoffs,Gruppe B,Sun Sep 17 2023,19:00,-0300,Brusque SC,4-3,1-1,Operário Ferroviário PR,2023-09-17T22:00Z
+Playoffs,Gruppe C,Sun Sep 17 2023,16:00,-0300,Paysandu PA,1-0,0-0,Botafogo PB,2023-09-17T19:00Z
+Playoffs,Gruppe C,Sat Sep 23 2023,16:00,-0300,Botafogo PB,2-3,2-2,Paysandu PA,2023-09-23T19:00Z
+Playoffs,Gruppe C,Sat Sep 23 2023,19:00,-0300,Volta Redonda RJ,0-2,0-1,Amazonas FC AM,2023-09-23T22:00Z
+Playoffs,Gruppe B,Sat Sep 23 2023,19:00,-0300,Operário Ferroviário PR,1-2,1-0,Brusque SC,2023-09-23T22:00Z
+Playoffs,Gruppe B,Sat Sep 23 2023,16:00,-0300,São José RS,2-1,1-1,São Bernardo FC SP,2023-09-23T19:00Z
+Playoffs,Gruppe C,Sat Sep 30 2023,19:00,-0300,Botafogo PB,1-2,0-0,Volta Redonda RJ,2023-09-30T22:00Z
+Playoffs,Gruppe B,Sat Sep 30 2023,16:00,-0300,São Bernardo FC SP,2-0,0-0,Brusque SC,2023-09-30T19:00Z
+Playoffs,Gruppe C,Sun Oct 1 2023,17:30,-0300,Paysandu PA,1-2,1-1,Amazonas FC AM,2023-10-01T20:30Z
+Playoffs,Gruppe B,Sun Oct 1 2023,16:00,-0300,São José RS,1-1,1-0,Operário Ferroviário PR,2023-10-01T19:00Z
+Playoffs,Gruppe C,Sat Oct 7 2023,18:00,-0300,Volta Redonda RJ,1-0,0-0,Paysandu PA,2023-10-07T21:00Z
+Playoffs,Gruppe C,Sat Oct 7 2023,18:00,-0300,Amazonas FC AM,2-0,2-0,Botafogo PB,2023-10-07T21:00Z
+Playoffs,Gruppe B,Sun Oct 8 2023,16:00,-0300,Operário Ferroviário PR,1-0,0-0,São Bernardo FC SP,2023-10-08T19:00Z
+Playoffs,Gruppe B,Sun Oct 8 2023,16:00,-0300,Brusque SC,0-0,0-0,São José RS,2023-10-08T19:00Z
+Playoffs,Final,Sun Oct 15 2023,18:00,-0300,Amazonas FC AM,0-0,0-0,Brusque SC,2023-10-15T21:00Z
+Playoffs,Final,Sun Oct 22 2023,17:00,-0300,Brusque SC,1-2,1-1,Amazonas FC AM,2023-10-22T20:00Z

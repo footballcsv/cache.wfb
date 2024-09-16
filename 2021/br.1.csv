@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat May 29 2021,20:00,-0300,Bahia BA,3-0,0-0,Santos FC,2021-05-29T23:00Z
+1,Sat May 29 2021,21:00,-0300,São Paulo FC,0-0,0-0,Fluminense RJ,2021-05-30T00:00Z
+1,Sat May 29 2021,19:00,-0300,Cuiabá MT,2-2,1-2,Juventude RS,2021-05-29T22:00Z
+1,Sun May 30 2021,11:00,-0300,Atlético Mineiro,1-2,1-0,Fortaleza CE,2021-05-30T14:00Z
+1,Sun May 30 2021,16:00,-0300,Ceará CE,3-2,2-1,Grêmio Porto Alegre,2021-05-30T19:00Z
+1,Sun May 30 2021,16:00,-0300,Flamengo RJ,1-0,0-0,Palmeiras,2021-05-30T19:00Z
+1,Sun May 30 2021,18:15,-0300,Athletico Paranaense,1-0,0-0,América MG,2021-05-30T21:15Z
+1,Sun May 30 2021,18:15,-0300,Chapecoense,0-3,0-2,Red Bull Bragantino,2021-05-30T21:15Z
+1,Sun May 30 2021,18:15,-0300,Corinthians SP,0-1,0-1,Atlético Goianiense,2021-05-30T21:15Z
+1,Sun May 30 2021,20:30,-0300,Internacional,2-2,2-0,Sport Recife PE,2021-05-30T23:30Z
+2,Sat Jun 5 2021,21:00,-0300,Red Bull Bragantino,3-3,1-2,Bahia BA,2021-06-06T00:00Z
+2,Sat Jun 5 2021,21:00,-0300,Santos FC,3-1,1-1,Ceará CE,2021-06-06T00:00Z
+2,Sat Jun 5 2021,19:00,-0300,Atlético Goianiense,2-0,1-0,São Paulo FC,2021-06-05T22:00Z
+2,Sun Jun 6 2021,11:00,-0300,Fluminense RJ,1-0,1-0,Cuiabá MT,2021-06-06T14:00Z
+2,Sun Jun 6 2021,16:00,-0300,América MG,0-1,0-1,Corinthians SP,2021-06-06T19:00Z
+2,Sun Jun 6 2021,16:00,-0300,Fortaleza CE,5-1,2-0,Internacional,2021-06-06T19:00Z
+2,Sun Jun 6 2021,18:15,-0300,Juventude RS,0-3,0-0,Athletico Paranaense,2021-06-06T21:15Z
+2,Sun Jun 6 2021,18:15,-0300,Palmeiras,3-1,3-0,Chapecoense,2021-06-06T21:15Z
+2,Sun Jun 6 2021,20:30,-0300,Sport Recife PE,0-1,0-1,Atlético Mineiro,2021-06-06T23:30Z
+3,Sat Jun 12 2021,19:00,-0300,Santos FC,0-0,0-0,Juventude RS,2021-06-12T22:00Z
+3,Sat Jun 12 2021,19:00,-0300,Palmeiras,1-1,1-0,Corinthians SP,2021-06-12T22:00Z
+3,Sun Jun 13 2021,16:00,-0300,Atlético Mineiro,1-0,1-0,São Paulo FC,2021-06-13T19:00Z
+3,Sun Jun 13 2021,16:00,-0300,Flamengo RJ,2-0,1-0,América MG,2021-06-13T19:00Z
+3,Sun Jun 13 2021,16:00,-0300,Grêmio Porto Alegre,0-1,0-1,Athletico Paranaense,2021-06-13T19:00Z
+3,Sun Jun 13 2021,20:30,-0300,Bahia BA,0-1,0-1,Internacional,2021-06-13T23:30Z
+3,Sun Jun 13 2021,20:30,-0300,Red Bull Bragantino,2-2,2-0,Fluminense RJ,2021-06-13T23:30Z
+3,Sun Jun 13 2021,20:30,-0300,Fortaleza CE,1-0,0-0,Sport Recife PE,2021-06-13T23:30Z
+3,Sun Jun 13 2021,20:30,-0300,Chapecoense,0-0,0-0,Ceará CE,2021-06-13T23:30Z
+4,Wed Jun 16 2021,19:00,-0300,São Paulo FC,1-1,1-0,Chapecoense,2021-06-16T22:00Z
+4,Wed Jun 16 2021,20:30,-0300,Corinthians SP,1-2,1-0,Red Bull Bragantino,2021-06-16T23:30Z
+4,Wed Jun 16 2021,19:00,-0300,Internacional,0-1,0-1,Atlético Mineiro,2021-06-16T22:00Z
+4,Wed Jun 16 2021,21:30,-0300,Juventude RS,0-3,0-0,Palmeiras,2021-06-17T00:30Z
+4,Thu Jun 17 2021,19:00,-0300,Sport Recife PE,1-0,1-0,Grêmio Porto Alegre,2021-06-17T22:00Z
+4,Thu Jun 17 2021,19:00,-0300,Atlético Goianiense,0-0,0-0,Fortaleza CE,2021-06-17T22:00Z
+4,Thu Jun 17 2021,16:00,-0300,América MG,0-0,0-0,Cuiabá MT,2021-06-17T19:00Z
+4,Thu Jun 17 2021,16:00,-0300,Ceará CE,1-2,1-2,Bahia BA,2021-06-17T19:00Z
+4,Thu Jun 17 2021,19:00,-0300,Fluminense RJ,1-0,0-0,Santos FC,2021-06-17T22:00Z
+5,Sat Jun 19 2021,21:00,-0300,Flamengo RJ,2-3,1-1,Red Bull Bragantino,2021-06-20T00:00Z
+5,Sun Jun 20 2021,18:15,-0300,Fortaleza CE,1-1,0-0,Fluminense RJ,2021-06-20T21:15Z
+5,Sun Jun 20 2021,20:30,-0300,Juventude RS,1-0,0-0,Sport Recife PE,2021-06-20T23:30Z
+5,Sun Jun 20 2021,18:15,-0300,Santos FC,2-0,2-0,São Paulo FC,2021-06-20T21:15Z
+5,Sun Jun 20 2021,11:00,-0300,Palmeiras,2-1,1-1,América MG,2021-06-20T14:00Z
+5,Sun Jun 20 2021,16:00,-0300,Bahia BA,0-0,0-0,Corinthians SP,2021-06-20T19:00Z
+5,Sun Jun 20 2021,16:00,-0300,Internacional,1-1,1-1,Ceará CE,2021-06-20T19:00Z
+5,Sun Jun 20 2021,18:15,-0300,Athletico Paranaense,2-1,1-1,Atlético Goianiense,2021-06-20T21:15Z
+5,Mon Jun 21 2021,20:00,-0300,Atlético Mineiro,1-1,1-0,Chapecoense,2021-06-21T23:00Z
+6,Wed Jun 23 2021,19:00,-0300,Atlético Goianiense,1-0,0-0,Fluminense RJ,2021-06-23T22:00Z
+6,Wed Jun 23 2021,19:00,-0300,Red Bull Bragantino,3-1,2-0,Palmeiras,2021-06-23T22:00Z
+6,Wed Jun 23 2021,19:00,-0300,Flamengo RJ,2-1,2-0,Fortaleza CE,2021-06-23T22:00Z
+6,Wed Jun 23 2021,19:00,-0300,São Paulo FC,2-2,2-2,Cuiabá MT,2021-06-23T22:00Z
+6,Thu Jun 24 2021,21:30,-0300,Bahia BA,2-1,1-1,Athletico Paranaense,2021-06-25T00:30Z
+6,Thu Jun 24 2021,21:30,-0300,Grêmio Porto Alegre,2-2,2-1,Santos FC,2021-06-25T00:30Z
+6,Thu Jun 24 2021,19:00,-0300,Chapecoense,1-2,0-2,Internacional,2021-06-24T22:00Z
+6,Thu Jun 24 2021,19:00,-0300,Corinthians SP,2-1,1-0,Sport Recife PE,2021-06-24T22:00Z
+6,Thu Jun 24 2021,16:00,-0300,América MG,1-1,0-1,Juventude RS,2021-06-24T19:00Z
+6,Thu Jun 24 2021,19:00,-0300,Ceará CE,2-1,1-0,Atlético Mineiro,2021-06-24T22:00Z
+7,Sun Jun 27 2021,20:30,-0300,Ceará CE,1-1,1-0,São Paulo FC,2021-06-27T23:30Z
+7,Sun Jun 27 2021,20:30,-0300,Santos FC,2-0,0-0,Atlético Mineiro,2021-06-27T23:30Z
+7,Sun Jun 27 2021,20:30,-0300,Sport Recife PE,0-0,0-0,Cuiabá MT,2021-06-27T23:30Z
+7,Sun Jun 27 2021,20:30,-0300,América MG,1-1,1-0,Internacional,2021-06-27T23:30Z
+7,Sun Jun 27 2021,11:00,-0300,Juventude RS,1-0,1-0,Flamengo RJ,2021-06-27T14:00Z
+7,Sun Jun 27 2021,16:00,-0300,Fluminense RJ,1-1,0-1,Corinthians SP,2021-06-27T19:00Z
+7,Sun Jun 27 2021,20:00,-0300,Athletico Paranaense,2-2,1-1,Chapecoense,2021-06-27T23:00Z
+7,Sun Jun 27 2021,20:00,-0300,Grêmio Porto Alegre,0-0,0-0,Fortaleza CE,2021-06-27T23:00Z
+7,Sun Jun 27 2021,20:00,-0300,Palmeiras,3-2,1-1,Bahia BA,2021-06-27T23:00Z
+7,Mon Jun 28 2021,20:00,-0300,Atlético Goianiense,0-1,0-0,Red Bull Bragantino,2021-06-28T23:00Z
+8,Wed Jun 30 2021,20:30,-0300,Santos FC,0-0,0-0,Sport Recife PE,2021-06-30T23:30Z
+8,Wed Jun 30 2021,19:00,-0300,Internacional,1-2,0-1,Palmeiras,2021-06-30T22:00Z
+8,Wed Jun 30 2021,21:30,-0300,Juventude RS,2-0,1-0,Grêmio Porto Alegre,2021-07-01T00:30Z
+8,Wed Jun 30 2021,21:30,-0300,Corinthians SP,0-0,0-0,São Paulo FC,2021-07-01T00:30Z
+8,Wed Jun 30 2021,16:00,-0300,Fluminense RJ,1-4,1-1,Athletico Paranaense,2021-06-30T19:00Z
+8,Wed Jun 30 2021,16:00,-0300,Fortaleza CE,3-2,0-1,Chapecoense,2021-06-30T19:00Z
+8,Wed Jun 30 2021,19:00,-0300,Bahia BA,3-4,1-2,América MG,2021-06-30T22:00Z
+8,Thu Jul 1 2021,16:00,-0300,Red Bull Bragantino,0-0,0-0,Ceará CE,2021-07-01T19:00Z
+8,Thu Jul 1 2021,20:00,-0300,Cuiabá MT,0-2,0-1,Flamengo RJ,2021-07-01T23:00Z
+8,Thu Jul 1 2021,19:00,-0300,Atlético Mineiro,4-1,3-1,Atlético Goianiense,2021-07-01T22:00Z
+9,Sat Jul 3 2021,19:00,-0300,América MG,2-0,0-0,Santos FC,2021-07-03T22:00Z
+9,Sat Jul 3 2021,19:00,-0300,Athletico Paranaense,2-1,2-0,Fortaleza CE,2021-07-03T22:00Z
+9,Sat Jul 3 2021,21:00,-0300,Corinthians SP,1-1,0-1,Internacional,2021-07-04T00:00Z
+9,Sun Jul 4 2021,18:15,-0300,São Paulo FC,1-2,1-0,Red Bull Bragantino,2021-07-04T21:15Z
+9,Sun Jul 4 2021,20:30,-0300,Grêmio Porto Alegre,0-1,0-0,Atlético Goianiense,2021-07-04T23:30Z
+9,Sun Jul 4 2021,16:00,-0300,Sport Recife PE,0-1,0-1,Palmeiras,2021-07-04T19:00Z
+9,Sun Jul 4 2021,18:15,-0300,Cuiabá MT,0-1,0-1,Atlético Mineiro,2021-07-04T21:15Z
+9,Sun Jul 4 2021,11:00,-0300,Chapecoense,0-2,0-0,Bahia BA,2021-07-04T14:00Z
+9,Sun Jul 4 2021,16:00,-0300,Flamengo RJ,0-1,0-0,Fluminense RJ,2021-07-04T19:00Z
+9,Sun Jul 4 2021,18:15,-0300,Ceará CE,2-0,0-0,Juventude RS,2021-07-04T21:15Z
+10,Tue Jul 6 2021,19:30,-0300,Santos FC,2-1,1-1,Athletico Paranaense,2021-07-06T22:30Z
+10,Wed Jul 7 2021,21:30,-0300,Internacional,0-2,0-1,São Paulo FC,2021-07-08T00:30Z
+10,Wed Jul 7 2021,21:30,-0300,Fluminense RJ,0-0,0-0,Ceará CE,2021-07-08T00:30Z
+10,Wed Jul 7 2021,19:15,-0300,Atlético Goianiense,1-1,0-0,Sport Recife PE,2021-07-07T22:15Z
+10,Wed Jul 7 2021,19:00,-0300,Palmeiras,2-0,2-0,Grêmio Porto Alegre,2021-07-07T22:00Z
+10,Wed Jul 7 2021,18:00,-0300,Bahia BA,1-0,0-0,Juventude RS,2021-07-07T21:00Z
+10,Wed Jul 7 2021,18:00,-0300,Red Bull Bragantino,1-1,1-0,Cuiabá MT,2021-07-07T21:00Z
+10,Wed Jul 7 2021,18:00,-0300,Fortaleza CE,4-0,1-0,América MG,2021-07-07T21:00Z
+10,Wed Jul 7 2021,19:00,-0300,Atlético Mineiro,2-1,0-0,Flamengo RJ,2021-07-07T22:00Z
+10,Thu Jul 8 2021,21:00,-0300,Chapecoense,0-1,0-0,Corinthians SP,2021-07-09T00:00Z
+11,Sat Jul 10 2021,17:00,-0300,Athletico Paranaense,2-2,1-1,Red Bull Bragantino,2021-07-10T20:00Z
+11,Sat Jul 10 2021,16:30,-0300,Palmeiras,3-2,2-0,Santos FC,2021-07-10T19:30Z
+11,Sat Jul 10 2021,19:00,-0300,América MG,0-1,0-0,Atlético Mineiro,2021-07-10T22:00Z
+11,Sat Jul 10 2021,19:00,-0300,São Paulo FC,1-0,0-0,Bahia BA,2021-07-10T22:00Z
+11,Sat Jul 10 2021,16:30,-0300,Grêmio Porto Alegre,0-0,0-0,Internacional,2021-07-10T19:30Z
+11,Sat Jul 10 2021,19:00,-0300,Sport Recife PE,1-2,1-0,Fluminense RJ,2021-07-10T22:00Z
+11,Sun Jul 11 2021,20:30,-0300,Fortaleza CE,1-0,1-0,Corinthians SP,2021-07-11T23:30Z
+11,Sun Jul 11 2021,18:15,-0300,Flamengo RJ,2-1,0-0,Chapecoense,2021-07-11T21:15Z
+11,Sun Jul 11 2021,18:15,-0300,Cuiabá MT,2-2,1-0,Ceará CE,2021-07-11T21:15Z
+11,Sun Jul 11 2021,11:00,-0300,Juventude RS,1-1,0-0,Atlético Goianiense,2021-07-11T14:00Z
+12,Sat Jul 17 2021,19:00,-0300,Corinthians SP,1-2,1-0,Atlético Mineiro,2021-07-17T22:00Z
+12,Sat Jul 17 2021,17:00,-0300,São Paulo FC,0-1,0-0,Fortaleza CE,2021-07-17T20:00Z
+12,Sat Jul 17 2021,17:00,-0300,Ceará CE,1-0,0-0,Athletico Paranaense,2021-07-17T20:00Z
+12,Sat Jul 17 2021,21:00,-0300,Fluminense RJ,0-1,0-0,Grêmio Porto Alegre,2021-07-18T00:00Z
+12,Sun Jul 18 2021,20:30,-0300,Internacional,1-0,0-0,Juventude RS,2021-07-18T23:30Z
+12,Sun Jul 18 2021,18:15,-0300,Bahia BA,0-5,0-2,Flamengo RJ,2021-07-18T21:15Z
+12,Sun Jul 18 2021,20:30,-0300,Red Bull Bragantino,2-2,1-0,Santos FC,2021-07-18T23:30Z
+12,Sun Jul 18 2021,16:00,-0300,Atlético Goianiense,0-3,0-0,Palmeiras,2021-07-18T19:00Z
+12,Sun Jul 18 2021,11:00,-0300,Chapecoense,2-3,2-2,Cuiabá MT,2021-07-18T14:00Z
+12,Mon Jul 19 2021,20:00,-0300,América MG,0-1,0-0,Sport Recife PE,2021-07-19T23:00Z
+3,Wed Jul 21 2021,19:00,-0300,Cuiabá MT,2-1,1-0,Atlético Goianiense,2021-07-21T22:00Z
+13,Sat Jul 24 2021,17:00,-0300,Grêmio Porto Alegre,1-1,1-1,América MG,2021-07-24T20:00Z
+13,Sat Jul 24 2021,19:00,-0300,Palmeiras,1-0,0-0,Fluminense RJ,2021-07-24T22:00Z
+13,Sun Jul 25 2021,20:30,-0300,Sport Recife PE,0-0,0-0,Ceará CE,2021-07-25T23:30Z
+13,Sun Jul 25 2021,18:15,-0300,Santos FC,0-1,0-1,Atlético Goianiense,2021-07-25T21:15Z
+13,Sun Jul 25 2021,18:15,-0300,Athletico Paranaense,2-1,2-0,Internacional,2021-07-25T21:15Z
+13,Sun Jul 25 2021,11:00,-0300,Atlético Mineiro,3-0,0-0,Bahia BA,2021-07-25T14:00Z
+13,Sun Jul 25 2021,16:00,-0300,Flamengo RJ,5-1,0-0,São Paulo FC,2021-07-25T19:00Z
+13,Sun Jul 25 2021,16:00,-0300,Fortaleza CE,1-0,1-0,Red Bull Bragantino,2021-07-25T19:00Z
+13,Mon Jul 26 2021,18:00,-0300,Juventude RS,1-0,1-0,Chapecoense,2021-07-26T21:00Z
+13,Mon Jul 26 2021,20:00,-0300,Cuiabá MT,1-2,0-2,Corinthians SP,2021-07-26T23:00Z
+14,Sat Jul 31 2021,19:00,-0300,São Paulo FC,0-0,0-0,Palmeiras,2021-07-31T22:00Z
+14,Sat Jul 31 2021,21:00,-0300,Red Bull Bragantino,1-0,0-0,Grêmio Porto Alegre,2021-08-01T00:00Z
+14,Sat Jul 31 2021,20:00,-0300,Internacional,0-0,0-0,Cuiabá MT,2021-07-31T23:00Z
+14,Sun Aug 1 2021,20:30,-0300,Atlético Goianiense,1-1,1-1,América MG,2021-08-01T23:30Z
+14,Sun Aug 1 2021,20:30,-0300,Ceará CE,3-1,1-1,Fortaleza CE,2021-08-01T23:30Z
+14,Sun Aug 1 2021,18:15,-0300,Bahia BA,0-1,0-0,Sport Recife PE,2021-08-01T21:15Z
+14,Sun Aug 1 2021,16:00,-0300,Atlético Mineiro,2-0,0-0,Athletico Paranaense,2021-08-01T19:00Z
+14,Sun Aug 1 2021,16:00,-0300,Corinthians SP,1-3,0-3,Flamengo RJ,2021-08-01T19:00Z
+14,Sun Aug 1 2021,18:15,-0300,Chapecoense,0-1,0-1,Santos FC,2021-08-01T21:15Z
+15,Fri Aug 6 2021,19:00,-0300,Sport Recife PE,0-0,0-0,Red Bull Bragantino,2021-08-06T22:00Z
+15,Sat Aug 7 2021,21:00,-0300,Cuiabá MT,1-1,1-1,Bahia BA,2021-08-08T00:00Z
+15,Sat Aug 7 2021,18:00,-0300,Athletico Paranaense,1-2,1-2,São Paulo FC,2021-08-07T21:00Z
+15,Sat Aug 7 2021,21:00,-0300,Palmeiras,2-3,2-2,Fortaleza CE,2021-08-08T00:00Z
+15,Sun Aug 8 2021,16:00,-0300,Juventude RS,1-2,1-0,Atlético Mineiro,2021-08-08T19:00Z
+15,Sun Aug 8 2021,16:00,-0300,Santos FC,0-0,0-0,Corinthians SP,2021-08-08T19:00Z
+15,Sun Aug 8 2021,18:15,-0300,Flamengo RJ,0-4,0-2,Internacional,2021-08-08T21:15Z
+15,Sun Aug 8 2021,18:15,-0300,Ceará CE,0-0,0-0,Atlético Goianiense,2021-08-08T21:15Z
+15,Sun Aug 8 2021,16:00,-0300,América MG,1-0,0-0,Fluminense RJ,2021-08-08T19:00Z
+15,Mon Aug 9 2021,20:00,-0300,Grêmio Porto Alegre,2-1,2-1,Chapecoense,2021-08-09T23:00Z
+16,Sat Aug 14 2021,17:00,-0300,Red Bull Bragantino,1-2,1-0,Juventude RS,2021-08-14T20:00Z
+16,Sat Aug 14 2021,19:00,-0300,Atlético Mineiro,2-0,1-0,Palmeiras,2021-08-14T22:00Z
+16,Sat Aug 14 2021,21:00,-0300,São Paulo FC,2-1,1-1,Grêmio Porto Alegre,2021-08-15T00:00Z
+16,Sun Aug 15 2021,18:15,-0300,Bahia BA,1-2,1-0,Atlético Goianiense,2021-08-15T21:15Z
+16,Sun Aug 15 2021,20:30,-0300,Internacional,4-2,1-1,Fluminense RJ,2021-08-15T23:30Z
+16,Sun Aug 15 2021,18:15,-0300,Fortaleza CE,1-1,1-1,Santos FC,2021-08-15T21:15Z
+16,Sun Aug 15 2021,16:00,-0300,Flamengo RJ,2-0,1-0,Sport Recife PE,2021-08-15T19:00Z
+16,Sun Aug 15 2021,16:00,-0300,Corinthians SP,3-1,2-0,Ceará CE,2021-08-15T19:00Z
+16,Sun Aug 15 2021,18:15,-0300,Cuiabá MT,1-0,0-0,Athletico Paranaense,2021-08-15T21:15Z
+16,Mon Aug 16 2021,20:00,-0300,Chapecoense,1-1,0-0,América MG,2021-08-16T23:00Z
+5,Wed Aug 18 2021,19:00,-0300,Cuiabá MT,0-1,0-1,Grêmio Porto Alegre,2021-08-18T22:00Z
+17,Sat Aug 21 2021,19:00,-0300,Grêmio Porto Alegre,2-0,0-0,Bahia BA,2021-08-21T22:00Z
+17,Sat Aug 21 2021,17:00,-0300,Atlético Goianiense,1-1,0-1,Chapecoense,2021-08-21T20:00Z
+17,Sat Aug 21 2021,21:00,-0300,Juventude RS,1-1,0-1,Fortaleza CE,2021-08-22T00:00Z
+17,Sun Aug 22 2021,16:00,-0300,Ceará CE,1-1,1-0,Flamengo RJ,2021-08-22T19:00Z
+17,Sun Aug 22 2021,18:15,-0300,Santos FC,2-2,2-1,Internacional,2021-08-22T21:15Z
+17,Sun Aug 22 2021,20:30,-0300,Sport Recife PE,0-1,0-1,São Paulo FC,2021-08-22T23:30Z
+17,Sun Aug 22 2021,11:00,-0300,Palmeiras,0-2,0-1,Cuiabá MT,2021-08-22T14:00Z
+17,Sun Aug 22 2021,16:00,-0300,Athletico Paranaense,0-1,0-0,Corinthians SP,2021-08-22T19:00Z
+17,Mon Aug 23 2021,20:00,-0300,América MG,0-2,0-1,Red Bull Bragantino,2021-08-23T23:00Z
+17,Mon Aug 23 2021,20:00,-0300,Fluminense RJ,1-1,1-0,Atlético Mineiro,2021-08-23T23:00Z
+18,Sat Aug 28 2021,19:00,-0300,Santos FC,0-4,0-0,Flamengo RJ,2021-08-28T22:00Z
+18,Sat Aug 28 2021,21:00,-0300,Palmeiras,2-1,1-0,Athletico Paranaense,2021-08-29T00:00Z
+18,Sat Aug 28 2021,21:00,-0300,Grêmio Porto Alegre,0-1,0-0,Corinthians SP,2021-08-29T00:00Z
+18,Sat Aug 28 2021,17:00,-0300,Sport Recife PE,0-0,0-0,Chapecoense,2021-08-28T20:00Z
+18,Sun Aug 29 2021,18:15,-0300,Atlético Goianiense,0-0,0-0,Internacional,2021-08-29T21:15Z
+18,Sun Aug 29 2021,16:00,-0300,Juventude RS,1-1,0-0,São Paulo FC,2021-08-29T19:00Z
+18,Sun Aug 29 2021,11:00,-0300,América MG,2-0,1-0,Ceará CE,2021-08-29T14:00Z
+18,Sun Aug 29 2021,20:30,-0300,Red Bull Bragantino,1-1,1-0,Atlético Mineiro,2021-08-29T23:30Z
+18,Mon Aug 30 2021,21:30,-0300,Fortaleza CE,0-0,0-0,Cuiabá MT,2021-08-31T00:30Z
+18,Mon Aug 30 2021,19:00,-0300,Fluminense RJ,2-0,1-0,Bahia BA,2021-08-30T22:00Z
+14,Thu Sep 2 2021,19:00,-0300,Fluminense RJ,1-1,0-0,Juventude RS,2021-09-02T22:00Z
+19,Sat Sep 4 2021,21:00,-0300,Cuiabá MT,2-1,1-0,Santos FC,2021-09-05T00:00Z
+19,Sat Sep 4 2021,21:00,-0300,Bahia BA,4-2,1-0,Fortaleza CE,2021-09-05T00:00Z
+19,Sun Sep 5 2021,18:15,-0300,Athletico Paranaense,0-0,0-0,Sport Recife PE,2021-09-05T21:15Z
+19,Tue Sep 7 2021,21:30,-0300,Chapecoense,1-2,0-2,Fluminense RJ,2021-09-08T00:30Z
+19,Tue Sep 7 2021,21:30,-0300,Corinthians SP,1-1,0-1,Juventude RS,2021-09-08T00:30Z
+20,Sat Sep 11 2021,21:00,-0300,Santos FC,0-0,0-0,Bahia BA,2021-09-12T00:00Z
+20,Sat Sep 11 2021,19:00,-0300,Red Bull Bragantino,1-2,1-0,Chapecoense,2021-09-11T22:00Z
+20,Sat Sep 11 2021,17:00,-0300,Juventude RS,1-2,0-1,Cuiabá MT,2021-09-11T20:00Z
+20,Sat Sep 11 2021,16:00,-0300,América MG,2-0,0-0,Athletico Paranaense,2021-09-11T19:00Z
+20,Sun Sep 12 2021,16:00,-0300,Fortaleza CE,0-2,0-0,Atlético Mineiro,2021-09-12T19:00Z
+20,Sun Sep 12 2021,11:00,-0300,Grêmio Porto Alegre,2-0,2-0,Ceará CE,2021-09-12T14:00Z
+20,Sun Sep 12 2021,18:15,-0300,Atlético Goianiense,1-1,0-0,Corinthians SP,2021-09-12T21:15Z
+20,Sun Sep 12 2021,20:30,-0300,Fluminense RJ,2-1,0-0,São Paulo FC,2021-09-12T23:30Z
+20,Sun Sep 12 2021,16:00,-0300,Palmeiras,1-3,1-1,Flamengo RJ,2021-09-12T19:00Z
+20,Mon Sep 13 2021,20:00,-0300,Sport Recife PE,0-1,0-1,Internacional,2021-09-13T23:00Z
+21,Sat Sep 18 2021,18:45,-0300,Athletico Paranaense,2-1,0-0,Juventude RS,2021-09-18T21:45Z
+21,Sat Sep 18 2021,21:00,-0300,Ceará CE,0-0,0-0,Santos FC,2021-09-19T00:00Z
+21,Sat Sep 18 2021,21:00,-0300,Bahia BA,1-1,0-0,Red Bull Bragantino,2021-09-19T00:00Z
+21,Sat Sep 18 2021,17:00,-0300,Chapecoense,0-2,0-2,Palmeiras,2021-09-18T20:00Z
+21,Sat Sep 18 2021,19:00,-0300,Atlético Mineiro,3-0,2-0,Sport Recife PE,2021-09-18T22:00Z
+21,Sun Sep 19 2021,16:00,-0300,São Paulo FC,2-1,1-0,Atlético Goianiense,2021-09-19T19:00Z
+21,Sun Sep 19 2021,18:15,-0300,Corinthians SP,1-1,1-1,América MG,2021-09-19T21:15Z
+21,Sun Sep 19 2021,20:30,-0300,Flamengo RJ,0-1,0-1,Grêmio Porto Alegre,2021-09-19T23:30Z
+21,Sun Sep 19 2021,11:00,-0300,Internacional,1-0,0-0,Fortaleza CE,2021-09-19T14:00Z
+21,Mon Sep 20 2021,20:00,-0300,Cuiabá MT,2-2,1-2,Fluminense RJ,2021-09-20T23:00Z
+19,Wed Sep 22 2021,20:30,-0300,São Paulo FC,0-0,0-0,América MG,2021-09-22T23:30Z
+22,Sat Sep 25 2021,19:00,-0300,Corinthians SP,2-1,1-1,Palmeiras,2021-09-25T22:00Z
+22,Sat Sep 25 2021,21:00,-0300,São Paulo FC,0-0,0-0,Atlético Mineiro,2021-09-26T00:00Z
+22,Sat Sep 25 2021,17:00,-0300,Ceará CE,1-0,0-0,Chapecoense,2021-09-25T20:00Z
+22,Sun Sep 26 2021,20:30,-0300,Atlético Goianiense,0-0,0-0,Cuiabá MT,2021-09-26T23:30Z
+22,Sun Sep 26 2021,18:15,-0300,Sport Recife PE,0-1,0-1,Fortaleza CE,2021-09-26T21:15Z
+22,Sun Sep 26 2021,18:15,-0300,Athletico Paranaense,4-2,2-0,Grêmio Porto Alegre,2021-09-26T21:15Z
+22,Sun Sep 26 2021,16:00,-0300,Internacional,2-0,1-0,Bahia BA,2021-09-26T19:00Z
+22,Sun Sep 26 2021,16:00,-0300,Fluminense RJ,2-1,2-0,Red Bull Bragantino,2021-09-26T19:00Z
+22,Sun Sep 26 2021,16:00,-0300,Juventude RS,3-0,1-0,Santos FC,2021-09-26T19:00Z
+22,Sun Sep 26 2021,11:00,-0300,América MG,1-1,0-0,Flamengo RJ,2021-09-26T14:00Z
+23,Sat Oct 2 2021,17:00,-0300,Cuiabá MT,0-2,0-1,América MG,2021-10-02T20:00Z
+23,Sat Oct 2 2021,19:00,-0300,Red Bull Bragantino,2-2,0-0,Corinthians SP,2021-10-02T22:00Z
+23,Sat Oct 2 2021,21:00,-0300,Atlético Mineiro,1-0,0-0,Internacional,2021-10-03T00:00Z
+23,Sat Oct 2 2021,17:00,-0300,Fortaleza CE,0-3,0-1,Atlético Goianiense,2021-10-02T20:00Z
+23,Sun Oct 3 2021,18:15,-0300,Palmeiras,1-1,1-1,Juventude RS,2021-10-03T21:15Z
+23,Sun Oct 3 2021,16:00,-0300,Chapecoense,1-1,0-1,São Paulo FC,2021-10-03T19:00Z
+23,Sun Oct 3 2021,20:30,-0300,Grêmio Porto Alegre,1-2,0-0,Sport Recife PE,2021-10-03T23:30Z
+23,Sun Oct 3 2021,16:00,-0300,Flamengo RJ,3-0,3-0,Athletico Paranaense,2021-10-03T19:00Z
+24,Tue Oct 5 2021,21:30,-0300,Corinthians SP,3-1,1-1,Bahia BA,2021-10-06T00:30Z
+24,Wed Oct 6 2021,20:30,-0300,Red Bull Bragantino,1-1,0-1,Flamengo RJ,2021-10-06T23:30Z
+24,Wed Oct 6 2021,21:30,-0300,América MG,2-1,0-1,Palmeiras,2021-10-07T00:30Z
+24,Wed Oct 6 2021,19:00,-0300,Chapecoense,2-2,1-1,Atlético Mineiro,2021-10-06T22:00Z
+24,Wed Oct 6 2021,21:30,-0300,Fluminense RJ,0-2,0-0,Fortaleza CE,2021-10-07T00:30Z
+24,Wed Oct 6 2021,21:30,-0300,Grêmio Porto Alegre,2-2,0-1,Cuiabá MT,2021-10-07T00:30Z
+24,Wed Oct 6 2021,19:00,-0300,Ceará CE,0-0,0-0,Internacional,2021-10-06T22:00Z
+24,Wed Oct 6 2021,19:00,-0300,Atlético Goianiense,0-2,0-1,Athletico Paranaense,2021-10-06T22:00Z
+24,Wed Oct 6 2021,19:00,-0300,Sport Recife PE,3-1,1-0,Juventude RS,2021-10-06T22:00Z
+24,Thu Oct 7 2021,18:30,-0300,São Paulo FC,1-1,1-1,Santos FC,2021-10-07T21:30Z
+25,Sat Oct 9 2021,21:00,-0300,Juventude RS,1-1,1-1,América MG,2021-10-10T00:00Z
+25,Sat Oct 9 2021,21:00,-0300,Palmeiras,2-4,1-3,Red Bull Bragantino,2021-10-10T00:00Z
+25,Sat Oct 9 2021,16:30,-0300,Fluminense RJ,0-0,0-0,Atlético Goianiense,2021-10-09T19:30Z
+25,Sat Oct 9 2021,19:00,-0300,Fortaleza CE,0-3,0-0,Flamengo RJ,2021-10-09T22:00Z
+25,Sat Oct 9 2021,19:00,-0300,Athletico Paranaense,0-2,0-1,Bahia BA,2021-10-09T22:00Z
+25,Sat Oct 9 2021,16:30,-0300,Sport Recife PE,1-0,0-0,Corinthians SP,2021-10-09T19:30Z
+25,Sat Oct 9 2021,16:30,-0300,Atlético Mineiro,3-1,2-0,Ceará CE,2021-10-09T19:30Z
+25,Sun Oct 10 2021,16:00,-0300,Santos FC,1-0,0-0,Grêmio Porto Alegre,2021-10-10T19:00Z
+25,Sun Oct 10 2021,11:00,-0300,Internacional,5-2,4-0,Chapecoense,2021-10-10T14:00Z
+25,Mon Oct 11 2021,20:00,-0300,Cuiabá MT,0-0,0-0,São Paulo FC,2021-10-11T23:00Z
+26,Tue Oct 12 2021,19:00,-0300,Red Bull Bragantino,1-0,0-0,Atlético Goianiense,2021-10-12T22:00Z
+26,Tue Oct 12 2021,21:30,-0300,Bahia BA,0-0,0-0,Palmeiras,2021-10-13T00:30Z
+26,Wed Oct 13 2021,20:30,-0300,Fortaleza CE,1-0,0-0,Grêmio Porto Alegre,2021-10-13T23:30Z
+26,Wed Oct 13 2021,21:30,-0300,Internacional,3-1,1-1,América MG,2021-10-14T00:30Z
+26,Wed Oct 13 2021,19:00,-0300,Chapecoense,1-1,0-0,Athletico Paranaense,2021-10-13T22:00Z
+26,Wed Oct 13 2021,19:00,-0300,Atlético Mineiro,3-1,0-0,Santos FC,2021-10-13T22:00Z
+26,Wed Oct 13 2021,19:00,-0300,Flamengo RJ,3-1,3-0,Juventude RS,2021-10-13T22:00Z
+26,Wed Oct 13 2021,21:00,-0300,Corinthians SP,1-0,0-0,Fluminense RJ,2021-10-14T00:00Z
+26,Thu Oct 14 2021,19:00,-0300,São Paulo FC,1-1,0-1,Ceará CE,2021-10-14T22:00Z
+26,Thu Oct 14 2021,19:00,-0300,Cuiabá MT,1-0,0-0,Sport Recife PE,2021-10-14T22:00Z
+27,Sat Oct 16 2021,21:00,-0300,América MG,0-0,0-0,Bahia BA,2021-10-17T00:00Z
+27,Sat Oct 16 2021,19:00,-0300,Chapecoense,1-2,1-1,Fortaleza CE,2021-10-16T22:00Z
+27,Sun Oct 17 2021,18:15,-0300,Grêmio Porto Alegre,3-2,2-0,Juventude RS,2021-10-17T21:15Z
+27,Sun Oct 17 2021,20:30,-0300,Flamengo RJ,0-0,0-0,Cuiabá MT,2021-10-17T23:30Z
+27,Sun Oct 17 2021,16:00,-0300,Athletico Paranaense,0-1,0-1,Fluminense RJ,2021-10-17T19:00Z
+27,Sun Oct 17 2021,20:30,-0300,Sport Recife PE,0-0,0-0,Santos FC,2021-10-17T23:30Z
+27,Sun Oct 17 2021,18:15,-0300,Atlético Goianiense,2-1,0-0,Atlético Mineiro,2021-10-17T21:15Z
+27,Sun Oct 17 2021,18:15,-0300,Ceará CE,2-2,0-1,Red Bull Bragantino,2021-10-17T21:15Z
+27,Sun Oct 17 2021,16:00,-0300,Palmeiras,1-0,0-0,Internacional,2021-10-17T19:00Z
+27,Mon Oct 18 2021,20:00,-0300,São Paulo FC,1-0,1-0,Corinthians SP,2021-10-18T23:00Z
+19,Wed Oct 20 2021,19:00,-0300,Ceará CE,1-2,0-1,Palmeiras,2021-10-20T22:00Z
+19,Thu Oct 21 2021,20:00,-0300,Internacional,1-1,1-0,Red Bull Bragantino,2021-10-21T23:00Z
+28,Sat Oct 23 2021,19:00,-0300,Fluminense RJ,3-1,1-0,Flamengo RJ,2021-10-23T22:00Z
+28,Sat Oct 23 2021,17:00,-0300,Santos FC,0-2,0-1,América MG,2021-10-23T20:00Z
+28,Sat Oct 23 2021,17:00,-0300,Juventude RS,0-0,0-0,Ceará CE,2021-10-23T20:00Z
+28,Sat Oct 23 2021,19:15,-0300,Fortaleza CE,3-0,2-0,Athletico Paranaense,2021-10-23T22:15Z
+28,Sun Oct 24 2021,18:15,-0300,Red Bull Bragantino,1-0,0-0,São Paulo FC,2021-10-24T21:15Z
+28,Sun Oct 24 2021,20:30,-0300,Bahia BA,3-0,2-0,Chapecoense,2021-10-24T23:30Z
+28,Sun Oct 24 2021,16:00,-0300,Atlético Mineiro,2-1,2-1,Cuiabá MT,2021-10-24T19:00Z
+28,Sun Oct 24 2021,16:00,-0300,Internacional,2-2,1-0,Corinthians SP,2021-10-24T19:00Z
+28,Mon Oct 25 2021,21:30,-0300,Palmeiras,2-1,0-1,Sport Recife PE,2021-10-26T00:30Z
+28,Mon Oct 25 2021,20:00,-0300,Atlético Goianiense,2-0,1-0,Grêmio Porto Alegre,2021-10-25T23:00Z
+23,Wed Oct 27 2021,19:00,-0300,Santos FC,2-0,1-0,Fluminense RJ,2021-10-27T22:00Z
+23,Wed Oct 27 2021,19:00,-0300,Bahia BA,1-1,0-0,Ceará CE,2021-10-27T22:00Z
+34,Thu Oct 28 2021,19:00,-0300,Red Bull Bragantino,3-0,1-0,Sport Recife PE,2021-10-28T22:00Z
+29,Sat Oct 30 2021,19:00,-0300,Flamengo RJ,1-0,1-0,Atlético Mineiro,2021-10-30T22:00Z
+29,Sat Oct 30 2021,19:15,-0300,Juventude RS,0-0,0-0,Bahia BA,2021-10-30T22:15Z
+29,Sat Oct 30 2021,21:00,-0300,América MG,2-1,1-0,Fortaleza CE,2021-10-31T00:00Z
+29,Sat Oct 30 2021,17:00,-0300,Athletico Paranaense,0-1,0-0,Santos FC,2021-10-30T20:00Z
+29,Sun Oct 31 2021,18:15,-0300,São Paulo FC,1-0,1-0,Internacional,2021-10-31T21:15Z
+29,Sun Oct 31 2021,20:30,-0300,Sport Recife PE,2-0,0-0,Atlético Goianiense,2021-10-31T23:30Z
+29,Sun Oct 31 2021,16:00,-0300,Ceará CE,1-0,1-0,Fluminense RJ,2021-10-31T19:00Z
+29,Sun Oct 31 2021,16:00,-0300,Grêmio Porto Alegre,1-3,1-2,Palmeiras,2021-10-31T19:00Z
+29,Mon Nov 1 2021,21:30,-0300,Corinthians SP,1-0,0-0,Chapecoense,2021-11-02T00:30Z
+29,Mon Nov 1 2021,20:00,-0300,Cuiabá MT,1-0,0-0,Red Bull Bragantino,2021-11-01T23:00Z
+4,Tue Nov 2 2021,16:00,-0300,Athletico Paranaense,2-2,0-2,Flamengo RJ,2021-11-02T19:00Z
+19,Wed Nov 3 2021,21:00,-0300,Atlético Mineiro,2-1,1-0,Grêmio Porto Alegre,2021-11-04T00:00Z
+31,Thu Nov 4 2021,21:00,-0300,Cuiabá MT,0-0,0-0,Chapecoense,2021-11-05T00:00Z
+19,Fri Nov 5 2021,21:30,-0300,Flamengo RJ,2-0,1-0,Atlético Goianiense,2021-11-06T00:30Z
+30,Sat Nov 6 2021,19:00,-0300,Internacional,1-0,1-0,Grêmio Porto Alegre,2021-11-06T22:00Z
+30,Sat Nov 6 2021,21:00,-0300,Fluminense RJ,1-0,0-0,Sport Recife PE,2021-11-07T00:00Z
+30,Sat Nov 6 2021,17:00,-0300,Corinthians SP,1-0,0-0,Fortaleza CE,2021-11-06T20:00Z
+30,Sun Nov 7 2021,16:00,-0300,Santos FC,0-2,0-1,Palmeiras,2021-11-07T19:00Z
+30,Sun Nov 7 2021,18:15,-0300,Bahia BA,1-0,0-0,São Paulo FC,2021-11-07T21:15Z
+30,Sun Nov 7 2021,20:30,-0300,Ceará CE,1-0,0-0,Cuiabá MT,2021-11-07T23:30Z
+30,Sun Nov 7 2021,16:00,-0300,Red Bull Bragantino,0-2,0-0,Athletico Paranaense,2021-11-07T19:00Z
+30,Sun Nov 7 2021,16:00,-0300,Atlético Mineiro,1-0,0-0,América MG,2021-11-07T19:00Z
+30,Mon Nov 8 2021,20:00,-0300,Chapecoense,2-2,2-2,Flamengo RJ,2021-11-08T23:00Z
+31,Tue Nov 9 2021,21:30,-0300,Grêmio Porto Alegre,1-0,0-0,Fluminense RJ,2021-11-10T00:30Z
+31,Wed Nov 10 2021,19:00,-0300,Santos FC,2-0,1-0,Red Bull Bragantino,2021-11-10T22:00Z
+31,Wed Nov 10 2021,18:30,-0300,Athletico Paranaense,2-1,1-0,Ceará CE,2021-11-10T21:30Z
+31,Wed Nov 10 2021,19:00,-0300,Atlético Mineiro,3-0,1-0,Corinthians SP,2021-11-10T22:00Z
+31,Wed Nov 10 2021,21:30,-0300,Sport Recife PE,2-3,0-1,América MG,2021-11-11T00:30Z
+31,Wed Nov 10 2021,20:30,-0300,Palmeiras,4-0,2-0,Atlético Goianiense,2021-11-10T23:30Z
+31,Wed Nov 10 2021,21:30,-0300,Fortaleza CE,1-1,0-0,São Paulo FC,2021-11-11T00:30Z
+31,Wed Nov 10 2021,21:30,-0300,Juventude RS,2-1,0-0,Internacional,2021-11-11T00:30Z
+31,Thu Nov 11 2021,19:00,-0300,Flamengo RJ,3-0,1-0,Bahia BA,2021-11-11T22:00Z
+32,Sat Nov 13 2021,21:00,-0300,Corinthians SP,3-2,1-1,Cuiabá MT,2021-11-14T00:00Z
+32,Sat Nov 13 2021,17:00,-0300,Atlético Goianiense,0-0,0-0,Santos FC,2021-11-13T20:00Z
+32,Sat Nov 13 2021,18:30,-0300,América MG,3-1,2-0,Grêmio Porto Alegre,2021-11-13T21:30Z
+32,Sat Nov 13 2021,19:00,-0300,Red Bull Bragantino,3-0,2-0,Fortaleza CE,2021-11-13T22:00Z
+32,Sat Nov 13 2021,19:00,-0300,Internacional,2-1,1-1,Athletico Paranaense,2021-11-13T22:00Z
+32,Sun Nov 14 2021,16:00,-0300,São Paulo FC,0-4,0-3,Flamengo RJ,2021-11-14T19:00Z
+32,Sun Nov 14 2021,18:15,-0300,Fluminense RJ,2-1,0-1,Palmeiras,2021-11-14T21:15Z
+32,Sun Nov 14 2021,19:00,-0300,Ceará CE,2-1,1-0,Sport Recife PE,2021-11-14T22:00Z
+32,Sun Nov 14 2021,19:00,-0300,Chapecoense,0-2,0-2,Juventude RS,2021-11-14T22:00Z
+33,Tue Nov 16 2021,16:00,-0300,Athletico Paranaense,0-1,0-1,Atlético Mineiro,2021-11-16T19:00Z
+33,Tue Nov 16 2021,18:00,-0300,Grêmio Porto Alegre,3-0,3-0,Red Bull Bragantino,2021-11-16T21:00Z
+33,Wed Nov 17 2021,21:30,-0300,Flamengo RJ,1-0,0-0,Corinthians SP,2021-11-18T00:30Z
+33,Wed Nov 17 2021,20:30,-0300,Juventude RS,1-0,1-0,Fluminense RJ,2021-11-17T23:30Z
+33,Wed Nov 17 2021,19:00,-0300,América MG,0-0,0-0,Atlético Goianiense,2021-11-17T22:00Z
+33,Wed Nov 17 2021,19:00,-0300,Cuiabá MT,1-0,0-0,Internacional,2021-11-17T22:00Z
+33,Wed Nov 17 2021,19:00,-0300,Santos FC,2-0,1-0,Chapecoense,2021-11-17T22:00Z
+33,Wed Nov 17 2021,20:00,-0300,Fortaleza CE,0-4,0-2,Ceará CE,2021-11-17T23:00Z
+33,Wed Nov 17 2021,20:30,-0300,Palmeiras,0-2,0-1,São Paulo FC,2021-11-17T23:30Z
+33,Thu Nov 18 2021,21:00,-0300,Sport Recife PE,1-0,0-0,Bahia BA,2021-11-19T00:00Z
+34,Sat Nov 20 2021,21:00,-0300,Atlético Goianiense,1-1,0-0,Ceará CE,2021-11-21T00:00Z
+34,Sat Nov 20 2021,19:00,-0300,Atlético Mineiro,2-0,0-0,Juventude RS,2021-11-20T22:00Z
+34,Sat Nov 20 2021,19:00,-0300,Fortaleza CE,1-0,1-0,Palmeiras,2021-11-20T22:00Z
+34,Sat Nov 20 2021,21:30,-0300,Internacional,1-2,1-2,Flamengo RJ,2021-11-21T00:30Z
+34,Sat Nov 20 2021,19:00,-0300,Chapecoense,1-3,0-1,Grêmio Porto Alegre,2021-11-20T22:00Z
+34,Sun Nov 21 2021,17:00,-0300,Fluminense RJ,2-0,1-0,América MG,2021-11-21T20:00Z
+34,Sun Nov 21 2021,19:00,-0300,Bahia BA,0-0,0-0,Cuiabá MT,2021-11-21T22:00Z
+34,Sun Nov 21 2021,16:00,-0300,Corinthians SP,2-0,0-0,Santos FC,2021-11-21T19:00Z
+35,Tue Nov 23 2021,21:30,-0300,Palmeiras,2-2,1-1,Atlético Mineiro,2021-11-24T00:30Z
+30,Tue Nov 23 2021,19:00,-0300,Atlético Goianiense,1-1,0-0,Juventude RS,2021-11-23T22:00Z
+2,Tue Nov 23 2021,21:00,-0300,Grêmio Porto Alegre,2-2,0-0,Flamengo RJ,2021-11-24T00:00Z
+35,Wed Nov 24 2021,21:30,-0300,Fluminense RJ,1-0,1-0,Internacional,2021-11-25T00:30Z
+34,Wed Nov 24 2021,21:30,-0300,São Paulo FC,0-0,0-0,Athletico Paranaense,2021-11-25T00:30Z
+35,Thu Nov 25 2021,19:00,-0300,Santos FC,2-0,0-0,Fortaleza CE,2021-11-25T22:00Z
+35,Thu Nov 25 2021,20:00,-0300,Ceará CE,2-1,1-0,Corinthians SP,2021-11-25T23:00Z
+36,Fri Nov 26 2021,19:00,-0300,Bahia BA,3-1,2-0,Grêmio Porto Alegre,2021-11-26T22:00Z
+36,Sat Nov 27 2021,19:30,-0300,Red Bull Bragantino,1-1,0-0,América MG,2021-11-27T22:30Z
+36,Sat Nov 27 2021,21:30,-0300,São Paulo FC,2-0,0-0,Sport Recife PE,2021-11-28T00:30Z
+36,Sun Nov 28 2021,16:00,-0300,Atlético Mineiro,2-1,1-1,Fluminense RJ,2021-11-28T19:00Z
+36,Sun Nov 28 2021,19:00,-0300,Internacional,1-1,1-0,Santos FC,2021-11-28T22:00Z
+36,Sun Nov 28 2021,16:00,-0300,Corinthians SP,1-0,0-0,Athletico Paranaense,2021-11-28T19:00Z
+35,Mon Nov 29 2021,19:00,-0300,Atlético Goianiense,2-1,0-0,Bahia BA,2021-11-29T22:00Z
+35,Tue Nov 30 2021,19:00,-0300,Juventude RS,1-0,1-0,Red Bull Bragantino,2021-11-30T22:00Z
+36,Tue Nov 30 2021,20:00,-0300,Flamengo RJ,2-1,1-0,Ceará CE,2021-11-30T23:00Z
+35,Tue Nov 30 2021,21:00,-0300,América MG,3-0,1-0,Chapecoense,2021-12-01T00:00Z
+36,Tue Nov 30 2021,22:00,-0300,Cuiabá MT,1-3,1-2,Palmeiras,2021-12-01T01:00Z
+35,Thu Dec 2 2021,20:00,-0300,Grêmio Porto Alegre,3-0,1-0,São Paulo FC,2021-12-02T23:00Z
+32,Thu Dec 2 2021,18:00,-0300,Bahia BA,2-3,0-0,Atlético Mineiro,2021-12-02T21:00Z
+35,Fri Dec 3 2021,19:00,-0300,Athletico Paranaense,1-0,0-0,Cuiabá MT,2021-12-03T22:00Z
+35,Fri Dec 3 2021,20:00,-0300,Sport Recife PE,1-1,0-1,Flamengo RJ,2021-12-03T23:00Z
+36,Fri Dec 3 2021,20:00,-0300,Chapecoense,0-1,0-0,Atlético Goianiense,2021-12-03T23:00Z
+36,Fri Dec 3 2021,21:00,-0300,Fortaleza CE,1-0,0-0,Juventude RS,2021-12-04T00:00Z
+37,Sun Dec 5 2021,16:00,-0300,Bahia BA,2-0,2-0,Fluminense RJ,2021-12-05T19:00Z
+37,Sun Dec 5 2021,16:00,-0300,Corinthians SP,1-1,0-1,Grêmio Porto Alegre,2021-12-05T19:00Z
+37,Sun Dec 5 2021,19:00,-0300,Ceará CE,0-0,0-0,América MG,2021-12-05T22:00Z
+37,Sun Dec 5 2021,16:00,-0300,Atlético Mineiro,4-3,1-1,Red Bull Bragantino,2021-12-05T19:00Z
+37,Mon Dec 6 2021,19:00,-0300,Athletico Paranaense,0-0,0-0,Palmeiras,2021-12-06T22:00Z
+37,Mon Dec 6 2021,19:00,-0300,São Paulo FC,3-1,2-0,Juventude RS,2021-12-06T22:00Z
+37,Mon Dec 6 2021,20:00,-0300,Cuiabá MT,1-0,1-0,Fortaleza CE,2021-12-06T23:00Z
+37,Mon Dec 6 2021,20:00,-0300,Flamengo RJ,0-1,0-0,Santos FC,2021-12-06T23:00Z
+37,Mon Dec 6 2021,20:00,-0300,Internacional,1-2,1-2,Atlético Goianiense,2021-12-06T23:00Z
+37,Mon Dec 6 2021,21:00,-0300,Chapecoense,0-1,0-0,Sport Recife PE,2021-12-07T00:00Z
+38,Thu Dec 9 2021,21:30,-0300,América MG,2-0,0-0,São Paulo FC,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Atlético Goianiense,2-0,0-0,Flamengo RJ,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Red Bull Bragantino,1-0,0-0,Internacional,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Fluminense RJ,3-0,0-0,Chapecoense,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Fortaleza CE,2-1,1-1,Bahia BA,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Grêmio Porto Alegre,4-3,3-2,Atlético Mineiro,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Juventude RS,1-0,0-0,Corinthians SP,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Palmeiras,1-0,1-0,Ceará CE,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Santos FC,1-1,0-1,Cuiabá MT,2021-12-10T00:30Z
+38,Thu Dec 9 2021,21:30,-0300,Sport Recife PE,1-1,1-1,Athletico Paranaense,2021-12-10T00:30Z

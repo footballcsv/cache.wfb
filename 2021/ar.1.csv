@@ -1,0 +1,326 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 16 2021,21:15,-0300,Sarmiento de Junín,0-3,0-0,Estudiantes,2021-07-17T00:15Z
+1,Fri Jul 16 2021,19:00,-0300,Unión de Santa Fe,1-1,0-1,Boca Juniors,2021-07-16T22:00Z
+1,Sat Jul 17 2021,15:45,-0300,Lanús,4-2,2-1,Atlético Tucumán,2021-07-17T18:45Z
+1,Sat Jul 17 2021,15:45,-0300,Newell's Old Boys,3-2,0-2,Talleres de Córdoba,2021-07-17T18:45Z
+1,Sat Jul 17 2021,18:00,-0300,Gimnasia de La Plata,2-2,0-2,Platense,2021-07-17T21:00Z
+1,Sat Jul 17 2021,20:15,-0300,Vélez Sarsfield,0-0,0-0,Racing Club,2021-07-17T23:15Z
+1,Sat Jul 17 2021,13:30,-0300,Aldosivi,0-2,0-1,Patronato de Paraná,2021-07-17T16:30Z
+1,Sun Jul 18 2021,13:30,-0300,Huracán,2-1,1-1,Defensa y Justicia,2021-07-18T16:30Z
+1,Sun Jul 18 2021,15:45,-0300,Arsenal de Sarandí,1-1,0-1,San Lorenzo,2021-07-18T18:45Z
+1,Sun Jul 18 2021,18:00,-0300,River Plate,1-2,0-2,Colón de Santa Fe,2021-07-18T21:00Z
+1,Sun Jul 18 2021,20:15,-0300,Independiente,0-0,0-0,Argentinos Juniors,2021-07-18T23:15Z
+1,Mon Jul 19 2021,20:15,-0300,Godoy Cruz,2-1,0-0,Rosario Central,2021-07-19T23:15Z
+1,Mon Jul 19 2021,18:00,-0300,Central Córdoba SdE,1-1,1-1,Banfield,2021-07-19T21:00Z
+2,Fri Jul 23 2021,21:15,-0300,Platense,0-1,0-0,Aldosivi,2021-07-24T00:15Z
+2,Fri Jul 23 2021,19:00,-0300,Atlético Tucumán,1-0,1-0,Huracán,2021-07-23T22:00Z
+2,Sat Jul 24 2021,15:45,-0300,San Lorenzo,1-0,1-0,Central Córdoba SdE,2021-07-24T18:45Z
+2,Sat Jul 24 2021,18:00,-0300,Racing Club,0-0,0-0,Gimnasia de La Plata,2021-07-24T21:00Z
+2,Sat Jul 24 2021,20:15,-0300,Banfield,0-0,0-0,Boca Juniors,2021-07-24T23:15Z
+2,Sat Jul 24 2021,13:30,-0300,Colón de Santa Fe,1-4,1-1,Lanús,2021-07-24T16:30Z
+2,Sun Jul 25 2021,13:30,-0300,Patronato de Paraná,2-0,1-0,Sarmiento de Junín,2021-07-25T16:30Z
+2,Sun Jul 25 2021,13:30,-0300,Defensa y Justicia,1-2,1-0,Godoy Cruz,2021-07-25T16:30Z
+2,Sun Jul 25 2021,15:45,-0300,Rosario Central,1-0,0-0,Vélez Sarsfield,2021-07-25T18:45Z
+2,Sun Jul 25 2021,18:00,-0300,River Plate,4-0,2-0,Unión de Santa Fe,2021-07-25T21:00Z
+2,Sun Jul 25 2021,20:15,-0300,Estudiantes,0-1,0-1,Independiente,2021-07-25T23:15Z
+2,Mon Jul 26 2021,20:15,-0300,Argentinos Juniors,1-0,0-0,Newell's Old Boys,2021-07-26T23:15Z
+2,Mon Jul 26 2021,18:00,-0300,Talleres de Córdoba,2-0,1-0,Arsenal de Sarandí,2021-07-26T21:00Z
+3,Tue Jul 27 2021,18:45,-0300,Aldosivi,0-2,0-0,Racing Club,2021-07-27T21:45Z
+3,Tue Jul 27 2021,21:00,-0300,Boca Juniors,0-2,0-1,San Lorenzo,2021-07-28T00:00Z
+3,Tue Jul 27 2021,16:30,-0300,Huracán,1-1,1-1,Colón de Santa Fe,2021-07-27T19:30Z
+3,Wed Jul 28 2021,14:15,-0300,Godoy Cruz,1-2,0-0,Atlético Tucumán,2021-07-28T17:15Z
+3,Wed Jul 28 2021,14:15,-0300,Unión de Santa Fe,0-1,0-0,Banfield,2021-07-28T17:15Z
+3,Wed Jul 28 2021,16:30,-0300,Sarmiento de Junín,1-0,0-0,Platense,2021-07-28T19:30Z
+3,Wed Jul 28 2021,16:30,-0300,Vélez Sarsfield,0-0,0-0,Defensa y Justicia,2021-07-28T19:30Z
+3,Wed Jul 28 2021,18:45,-0300,Independiente,2-0,0-0,Patronato de Paraná,2021-07-28T21:45Z
+3,Wed Jul 28 2021,21:00,-0300,Lanús,0-3,0-2,River Plate,2021-07-29T00:00Z
+3,Thu Jul 29 2021,16:30,-0300,Arsenal de Sarandí,1-0,0-0,Argentinos Juniors,2021-07-29T19:30Z
+3,Thu Jul 29 2021,18:45,-0300,Gimnasia de La Plata,1-0,1-0,Rosario Central,2021-07-29T21:45Z
+3,Thu Jul 29 2021,21:00,-0300,Newell's Old Boys,4-2,1-1,Estudiantes,2021-07-30T00:00Z
+3,Thu Jul 29 2021,14:15,-0300,Central Córdoba SdE,2-1,1-0,Talleres de Córdoba,2021-07-29T17:15Z
+4,Sat Jul 31 2021,13:30,-0300,Colón de Santa Fe,1-0,0-0,Godoy Cruz,2021-07-31T16:30Z
+4,Sat Jul 31 2021,15:45,-0300,Lanús,1-1,1-0,Unión de Santa Fe,2021-07-31T18:45Z
+4,Sat Jul 31 2021,18:00,-0300,Racing Club,1-0,0-0,Sarmiento de Junín,2021-07-31T21:00Z
+4,Sat Jul 31 2021,20:15,-0300,Platense,1-1,1-1,Independiente,2021-07-31T23:15Z
+4,Sun Aug 1 2021,15:45,-0300,Talleres de Córdoba,0-0,0-0,Boca Juniors,2021-08-01T18:45Z
+4,Sun Aug 1 2021,18:00,-0300,River Plate,1-1,0-0,Huracán,2021-08-01T21:00Z
+4,Sun Aug 1 2021,20:15,-0300,San Lorenzo,1-1,0-0,Banfield,2021-08-01T23:15Z
+4,Sun Aug 1 2021,13:30,-0300,Defensa y Justicia,3-2,0-0,Gimnasia de La Plata,2021-08-01T16:30Z
+4,Mon Aug 2 2021,16:45,-0300,Argentinos Juniors,1-1,0-1,Central Córdoba SdE,2021-08-02T19:45Z
+4,Mon Aug 2 2021,16:45,-0300,Patronato de Paraná,0-0,0-0,Newell's Old Boys,2021-08-02T19:45Z
+4,Mon Aug 2 2021,19:00,-0300,Estudiantes,4-0,0-0,Arsenal de Sarandí,2021-08-02T22:00Z
+4,Mon Aug 2 2021,19:00,-0300,Rosario Central,1-2,0-1,Aldosivi,2021-08-02T22:00Z
+4,Mon Aug 2 2021,21:15,-0300,Atlético Tucumán,0-0,0-0,Vélez Sarsfield,2021-08-03T00:15Z
+5,Fri Aug 6 2021,21:15,-0300,Newell's Old Boys,1-0,0-0,Platense,2021-08-07T00:15Z
+5,Fri Aug 6 2021,19:00,-0300,Sarmiento de Junín,1-0,0-0,Rosario Central,2021-08-06T22:00Z
+5,Sat Aug 7 2021,15:45,-0300,Unión de Santa Fe,4-0,3-0,San Lorenzo,2021-08-07T18:45Z
+5,Sat Aug 7 2021,18:00,-0300,Huracán,0-1,0-0,Lanús,2021-08-07T21:00Z
+5,Sat Aug 7 2021,20:15,-0300,Godoy Cruz,2-1,1-0,River Plate,2021-08-07T23:15Z
+5,Sat Aug 7 2021,13:30,-0300,Banfield,0-1,0-0,Talleres de Córdoba,2021-08-07T16:30Z
+5,Sun Aug 8 2021,13:30,-0300,Gimnasia de La Plata,1-0,0-0,Atlético Tucumán,2021-08-08T16:30Z
+5,Sun Aug 8 2021,15:45,-0300,Vélez Sarsfield,0-1,0-0,Colón de Santa Fe,2021-08-08T18:45Z
+5,Sun Aug 8 2021,18:00,-0300,Boca Juniors,1-1,0-1,Argentinos Juniors,2021-08-08T21:00Z
+5,Sun Aug 8 2021,20:15,-0300,Independiente,1-0,0-0,Racing Club,2021-08-08T23:15Z
+5,Mon Aug 9 2021,18:00,-0300,Aldosivi,1-0,0-0,Defensa y Justicia,2021-08-09T21:00Z
+5,Mon Aug 9 2021,20:15,-0300,Central Córdoba SdE,1-2,0-1,Estudiantes,2021-08-09T23:15Z
+5,Mon Aug 9 2021,18:00,-0300,Arsenal de Sarandí,2-2,2-1,Patronato de Paraná,2021-08-09T21:00Z
+6,Fri Aug 13 2021,21:15,-0300,Huracán,0-0,0-0,Unión de Santa Fe,2021-08-14T00:15Z
+6,Fri Aug 13 2021,19:00,-0300,Colón de Santa Fe,1-0,0-0,Gimnasia de La Plata,2021-08-13T22:00Z
+6,Sat Aug 14 2021,13:30,-0300,Atlético Tucumán,2-2,0-1,Aldosivi,2021-08-14T16:30Z
+6,Sat Aug 14 2021,15:45,-0300,Argentinos Juniors,2-0,0-0,Banfield,2021-08-14T18:45Z
+6,Sat Aug 14 2021,18:00,-0300,River Plate,2-0,0-0,Vélez Sarsfield,2021-08-14T21:00Z
+6,Sat Aug 14 2021,20:15,-0300,Rosario Central,1-2,0-2,Independiente,2021-08-14T23:15Z
+6,Sun Aug 15 2021,15:45,-0300,Platense,2-1,2-0,Arsenal de Sarandí,2021-08-15T18:45Z
+6,Sun Aug 15 2021,18:00,-0300,Estudiantes,1-0,0-0,Boca Juniors,2021-08-15T21:00Z
+6,Sun Aug 15 2021,20:15,-0300,Racing Club,2-0,0-0,Newell's Old Boys,2021-08-15T23:15Z
+6,Sun Aug 15 2021,13:30,-0300,Patronato de Paraná,1-0,0-0,Central Córdoba SdE,2021-08-15T16:30Z
+6,Mon Aug 16 2021,20:15,-0300,Defensa y Justicia,4-2,2-1,Sarmiento de Junín,2021-08-16T23:15Z
+6,Mon Aug 16 2021,21:45,-0300,Lanús,3-1,2-0,Godoy Cruz,2021-08-17T00:45Z
+6,Mon Aug 16 2021,18:00,-0300,Talleres de Córdoba,2-0,2-0,San Lorenzo,2021-08-16T21:00Z
+7,Fri Aug 20 2021,16:45,-0300,Aldosivi,3-0,1-0,Colón de Santa Fe,2021-08-20T19:45Z
+7,Fri Aug 20 2021,19:00,-0300,Banfield,1-1,0-1,Estudiantes,2021-08-20T22:00Z
+7,Fri Aug 20 2021,19:00,-0300,Sarmiento de Junín,3-0,0-0,Atlético Tucumán,2021-08-20T22:00Z
+7,Fri Aug 20 2021,21:30,-0300,Independiente,0-0,0-0,Defensa y Justicia,2021-08-21T00:30Z
+7,Sat Aug 21 2021,13:00,-0300,Central Córdoba SdE,2-2,2-0,Platense,2021-08-21T16:00Z
+7,Sat Aug 21 2021,13:30,-0300,Godoy Cruz,1-1,1-1,Huracán,2021-08-21T16:30Z
+7,Sat Aug 21 2021,15:45,-0300,Vélez Sarsfield,5-1,1-0,Lanús,2021-08-21T18:45Z
+7,Sat Aug 21 2021,18:00,-0300,Arsenal de Sarandí,0-3,0-1,Racing Club,2021-08-21T21:00Z
+7,Sat Aug 21 2021,20:15,-0300,Boca Juniors,1-0,0-0,Patronato de Paraná,2021-08-21T23:15Z
+7,Sun Aug 22 2021,15:45,-0300,Newell's Old Boys,1-1,0-0,Rosario Central,2021-08-22T18:45Z
+7,Sun Aug 22 2021,18:00,-0300,San Lorenzo,0-1,0-1,Argentinos Juniors,2021-08-22T21:00Z
+7,Sun Aug 22 2021,20:15,-0300,Gimnasia de La Plata,1-1,1-1,River Plate,2021-08-22T23:15Z
+7,Sun Aug 22 2021,13:30,-0300,Unión de Santa Fe,1-2,0-1,Talleres de Córdoba,2021-08-22T16:30Z
+8,Tue Aug 24 2021,14:15,-0300,Patronato de Paraná,1-1,1-0,Banfield,2021-08-24T17:15Z
+8,Tue Aug 24 2021,16:30,-0300,Colón de Santa Fe,1-1,0-1,Sarmiento de Junín,2021-08-24T19:30Z
+8,Tue Aug 24 2021,18:45,-0300,Atlético Tucumán,2-0,0-0,Independiente,2021-08-24T21:45Z
+8,Tue Aug 24 2021,21:00,-0300,Racing Club,0-0,0-0,Central Córdoba SdE,2021-08-25T00:00Z
+8,Wed Aug 25 2021,16:30,-0300,Lanús,2-0,2-0,Gimnasia de La Plata,2021-08-25T19:30Z
+8,Wed Aug 25 2021,16:30,-0300,Defensa y Justicia,2-0,0-0,Newell's Old Boys,2021-08-25T19:30Z
+8,Wed Aug 25 2021,18:45,-0300,Huracán,1-1,1-0,Vélez Sarsfield,2021-08-25T21:45Z
+8,Wed Aug 25 2021,21:00,-0300,Platense,1-3,1-1,Boca Juniors,2021-08-26T00:00Z
+8,Wed Aug 25 2021,14:15,-0300,Rosario Central,4-0,4-0,Arsenal de Sarandí,2021-08-25T17:15Z
+8,Thu Aug 26 2021,14:15,-0300,Godoy Cruz,1-2,1-1,Unión de Santa Fe,2021-08-26T17:15Z
+8,Thu Aug 26 2021,16:30,-0300,Argentinos Juniors,1-2,0-1,Talleres de Córdoba,2021-08-26T19:30Z
+8,Thu Aug 26 2021,18:45,-0300,Estudiantes,2-0,1-0,San Lorenzo,2021-08-26T21:45Z
+8,Thu Aug 26 2021,21:00,-0300,River Plate,2-0,1-0,Aldosivi,2021-08-27T00:00Z
+9,Sat Aug 28 2021,18:00,-0300,Banfield,2-4,1-2,Platense,2021-08-28T21:00Z
+9,Sat Aug 28 2021,20:15,-0300,Independiente,3-0,2-0,Colón de Santa Fe,2021-08-28T23:15Z
+9,Sat Aug 28 2021,15:45,-0300,Gimnasia de La Plata,0-0,0-0,Huracán,2021-08-28T18:45Z
+9,Sun Aug 29 2021,13:30,-0300,Arsenal de Sarandí,0-0,0-0,Defensa y Justicia,2021-08-29T16:30Z
+9,Sun Aug 29 2021,15:45,-0300,Aldosivi,2-3,0-3,Lanús,2021-08-29T18:45Z
+9,Sun Aug 29 2021,15:45,-0300,Central Córdoba SdE,2-4,0-2,Rosario Central,2021-08-29T18:45Z
+9,Sun Aug 29 2021,18:00,-0300,Vélez Sarsfield,3-0,1-0,Godoy Cruz,2021-08-29T21:00Z
+9,Sun Aug 29 2021,20:15,-0300,Boca Juniors,0-0,0-0,Racing Club,2021-08-29T23:15Z
+9,Mon Aug 30 2021,14:30,-0300,Unión de Santa Fe,1-0,1-0,Argentinos Juniors,2021-08-30T17:30Z
+9,Mon Aug 30 2021,16:45,-0300,San Lorenzo,3-0,2-0,Patronato de Paraná,2021-08-30T19:45Z
+9,Mon Aug 30 2021,19:00,-0300,Sarmiento de Junín,1-2,1-1,River Plate,2021-08-30T22:00Z
+9,Mon Aug 30 2021,21:15,-0300,Talleres de Córdoba,2-0,1-0,Estudiantes,2021-08-31T00:15Z
+9,Mon Aug 30 2021,14:30,-0300,Newell's Old Boys,1-2,0-0,Atlético Tucumán,2021-08-30T17:30Z
+10,Fri Sep 3 2021,21:15,-0300,Huracán,2-0,1-0,Aldosivi,2021-09-04T00:15Z
+10,Fri Sep 3 2021,19:00,-0300,Defensa y Justicia,1-1,0-0,Central Córdoba SdE,2021-09-03T22:00Z
+10,Sat Sep 4 2021,13:30,-0300,Atlético Tucumán,0-0,0-0,Arsenal de Sarandí,2021-09-04T16:30Z
+10,Sat Sep 4 2021,15:45,-0300,Lanús,1-1,0-0,Sarmiento de Junín,2021-09-04T18:45Z
+10,Sat Sep 4 2021,15:45,-0300,Colón de Santa Fe,1-1,0-1,Newell's Old Boys,2021-09-04T18:45Z
+10,Sat Sep 4 2021,18:00,-0300,Platense,1-1,0-0,San Lorenzo,2021-09-04T21:00Z
+10,Sat Sep 4 2021,20:15,-0300,Rosario Central,1-2,1-1,Boca Juniors,2021-09-04T23:15Z
+10,Sun Sep 5 2021,13:30,-0300,Godoy Cruz,4-0,0-0,Gimnasia de La Plata,2021-09-05T16:30Z
+10,Sun Sep 5 2021,19:00,-0300,Racing Club,0-0,0-0,Banfield,2021-09-05T22:00Z
+10,Sun Sep 5 2021,21:15,-0300,River Plate,1-1,0-1,Independiente,2021-09-06T00:15Z
+10,Sun Sep 5 2021,13:30,-0300,Patronato de Paraná,0-0,0-0,Talleres de Córdoba,2021-09-05T16:30Z
+10,Mon Sep 6 2021,20:15,-0300,Vélez Sarsfield,4-0,0-0,Unión de Santa Fe,2021-09-06T23:15Z
+10,Mon Sep 6 2021,18:00,-0300,Estudiantes,1-1,0-0,Argentinos Juniors,2021-09-06T21:00Z
+11,Mon Sep 13 2021,14:15,-0300,Aldosivi,1-4,0-0,Godoy Cruz,2021-09-13T17:15Z
+11,Mon Sep 13 2021,14:15,-0300,Sarmiento de Junín,0-0,0-0,Huracán,2021-09-13T17:15Z
+11,Mon Sep 13 2021,16:30,-0300,Independiente,0-1,0-0,Lanús,2021-09-13T19:30Z
+11,Mon Sep 13 2021,18:45,-0300,San Lorenzo,1-1,0-0,Racing Club,2021-09-13T21:45Z
+11,Mon Sep 13 2021,21:00,-0300,Gimnasia de La Plata,0-0,0-0,Vélez Sarsfield,2021-09-14T00:00Z
+11,Tue Sep 14 2021,16:30,-0300,Arsenal de Sarandí,0-0,0-0,Colón de Santa Fe,2021-09-14T19:30Z
+11,Tue Sep 14 2021,18:45,-0300,Central Córdoba SdE,2-0,0-0,Atlético Tucumán,2021-09-14T21:45Z
+11,Tue Sep 14 2021,21:00,-0300,Boca Juniors,0-0,0-0,Defensa y Justicia,2021-09-15T00:00Z
+11,Tue Sep 14 2021,14:15,-0300,Talleres de Córdoba,2-1,0-0,Platense,2021-09-14T17:15Z
+11,Wed Sep 15 2021,14:15,-0300,Unión de Santa Fe,0-2,0-2,Estudiantes,2021-09-15T17:15Z
+11,Wed Sep 15 2021,16:30,-0300,Argentinos Juniors,1-1,0-1,Patronato de Paraná,2021-09-15T19:30Z
+11,Wed Sep 15 2021,18:45,-0300,Banfield,1-2,1-1,Rosario Central,2021-09-15T21:45Z
+11,Wed Sep 15 2021,21:00,-0300,Newell's Old Boys,1-4,1-1,River Plate,2021-09-16T00:00Z
+12,Sat Sep 18 2021,15:45,-0300,Vélez Sarsfield,3-2,1-1,Aldosivi,2021-09-18T18:45Z
+12,Sat Sep 18 2021,18:00,-0300,Racing Club,1-2,1-1,Talleres de Córdoba,2021-09-18T21:00Z
+12,Sat Sep 18 2021,20:15,-0300,Atlético Tucumán,1-2,0-2,Boca Juniors,2021-09-18T23:15Z
+12,Sat Sep 18 2021,13:30,-0300,Godoy Cruz,1-1,0-0,Sarmiento de Junín,2021-09-18T16:30Z
+12,Sun Sep 19 2021,13:30,-0300,Patronato de Paraná,1-2,1-2,Estudiantes,2021-09-19T16:30Z
+12,Sun Sep 19 2021,15:45,-0300,Colón de Santa Fe,1-0,1-0,Central Córdoba SdE,2021-09-19T18:45Z
+12,Sun Sep 19 2021,15:45,-0300,Platense,0-0,0-0,Argentinos Juniors,2021-09-19T18:45Z
+12,Sun Sep 19 2021,18:00,-0300,Huracán,0-1,0-1,Independiente,2021-09-19T21:00Z
+12,Sun Sep 19 2021,20:15,-0300,River Plate,1-0,0-0,Arsenal de Sarandí,2021-09-19T23:15Z
+12,Mon Sep 20 2021,15:45,-0300,Lanús,1-2,1-2,Newell's Old Boys,2021-09-20T18:45Z
+12,Mon Sep 20 2021,18:00,-0300,Rosario Central,1-0,0-0,San Lorenzo,2021-09-20T21:00Z
+12,Mon Sep 20 2021,20:15,-0300,Defensa y Justicia,0-0,0-0,Banfield,2021-09-20T23:15Z
+12,Mon Sep 20 2021,13:30,-0300,Gimnasia de La Plata,1-0,0-0,Unión de Santa Fe,2021-09-20T16:30Z
+13,Fri Sep 24 2021,21:15,-0300,Estudiantes,1-1,1-0,Platense,2021-09-25T00:15Z
+13,Fri Sep 24 2021,19:00,-0300,Sarmiento de Junín,0-1,0-0,Vélez Sarsfield,2021-09-24T22:00Z
+13,Sat Sep 25 2021,13:30,-0300,Aldosivi,1-3,0-2,Gimnasia de La Plata,2021-09-25T16:30Z
+13,Sat Sep 25 2021,15:45,-0300,Arsenal de Sarandí,1-0,0-0,Lanús,2021-09-25T18:45Z
+13,Sat Sep 25 2021,15:45,-0300,Talleres de Córdoba,4-1,3-1,Rosario Central,2021-09-25T18:45Z
+13,Sat Sep 25 2021,18:00,-0300,Banfield,2-0,2-0,Atlético Tucumán,2021-09-25T21:00Z
+13,Sat Sep 25 2021,20:15,-0300,Central Córdoba SdE,1-3,0-1,River Plate,2021-09-25T23:15Z
+13,Sun Sep 26 2021,15:45,-0300,San Lorenzo,2-1,2-0,Defensa y Justicia,2021-09-26T18:45Z
+13,Sun Sep 26 2021,18:00,-0300,Independiente,1-4,0-2,Godoy Cruz,2021-09-26T21:00Z
+13,Sun Sep 26 2021,20:15,-0300,Boca Juniors,1-0,0-0,Colón de Santa Fe,2021-09-26T23:15Z
+13,Sun Sep 26 2021,13:30,-0300,Unión de Santa Fe,2-0,0-0,Patronato de Paraná,2021-09-26T16:30Z
+13,Mon Sep 27 2021,20:15,-0300,Newell's Old Boys,0-1,0-1,Huracán,2021-09-27T23:15Z
+13,Mon Sep 27 2021,18:00,-0300,Argentinos Juniors,2-0,2-0,Racing Club,2021-09-27T21:00Z
+14,Fri Oct 1 2021,21:15,-0300,Lanús,2-1,1-1,Central Córdoba SdE,2021-10-02T00:15Z
+14,Fri Oct 1 2021,19:00,-0300,Aldosivi,1-2,1-1,Unión de Santa Fe,2021-10-01T22:00Z
+14,Sat Oct 2 2021,13:30,-0300,Godoy Cruz,2-2,0-2,Newell's Old Boys,2021-10-02T16:30Z
+14,Sat Oct 2 2021,13:30,-0300,Platense,0-0,0-0,Patronato de Paraná,2021-10-02T16:30Z
+14,Sat Oct 2 2021,15:45,-0300,Huracán,1-0,1-0,Arsenal de Sarandí,2021-10-02T18:45Z
+14,Sat Oct 2 2021,18:00,-0300,Atlético Tucumán,0-0,0-0,San Lorenzo,2021-10-02T21:00Z
+14,Sat Oct 2 2021,20:15,-0300,Vélez Sarsfield,3-3,1-2,Independiente,2021-10-02T23:15Z
+14,Sun Oct 3 2021,13:30,-0300,Rosario Central,0-1,0-0,Argentinos Juniors,2021-10-03T16:30Z
+14,Sun Oct 3 2021,17:00,-0300,River Plate,2-1,2-0,Boca Juniors,2021-10-03T20:00Z
+14,Sun Oct 3 2021,20:15,-0300,Racing Club,1-1,0-0,Estudiantes,2021-10-03T23:15Z
+14,Sun Oct 3 2021,13:30,-0300,Gimnasia de La Plata,0-1,0-1,Sarmiento de Junín,2021-10-03T16:30Z
+14,Mon Oct 4 2021,18:00,-0300,Defensa y Justicia,3-0,2-0,Talleres de Córdoba,2021-10-04T21:00Z
+14,Mon Oct 4 2021,20:15,-0300,Colón de Santa Fe,0-0,0-0,Banfield,2021-10-04T23:15Z
+15,Fri Oct 8 2021,16:45,-0300,Central Córdoba SdE,1-2,1-1,Huracán,2021-10-08T19:45Z
+15,Fri Oct 8 2021,19:00,-0300,Estudiantes,2-2,1-1,Rosario Central,2021-10-08T22:00Z
+15,Fri Oct 8 2021,21:15,-0300,Newell's Old Boys,1-2,0-1,Vélez Sarsfield,2021-10-09T00:15Z
+15,Fri Oct 8 2021,14:30,-0300,Unión de Santa Fe,1-2,0-1,Platense,2021-10-08T17:30Z
+15,Sat Oct 9 2021,13:30,-0300,Argentinos Juniors,0-2,0-0,Defensa y Justicia,2021-10-09T16:30Z
+15,Sat Oct 9 2021,13:30,-0300,Sarmiento de Junín,3-0,1-0,Aldosivi,2021-10-09T16:30Z
+15,Sat Oct 9 2021,15:45,-0300,Patronato de Paraná,1-2,0-0,Racing Club,2021-10-09T18:45Z
+15,Sat Oct 9 2021,18:00,-0300,Banfield,0-1,0-1,River Plate,2021-10-09T21:00Z
+15,Sat Oct 9 2021,20:15,-0300,Boca Juniors,4-2,2-1,Lanús,2021-10-09T23:15Z
+15,Mon Oct 11 2021,14:30,-0300,Arsenal de Sarandí,0-0,0-0,Godoy Cruz,2021-10-11T17:30Z
+15,Mon Oct 11 2021,16:45,-0300,San Lorenzo,1-2,0-1,Colón de Santa Fe,2021-10-11T19:45Z
+15,Mon Oct 11 2021,19:00,-0300,Independiente,1-1,1-1,Gimnasia de La Plata,2021-10-11T22:00Z
+15,Mon Oct 11 2021,21:15,-0300,Talleres de Córdoba,2-0,0-0,Atlético Tucumán,2021-10-12T00:15Z
+16,Fri Oct 15 2021,16:45,-0300,Rosario Central,3-2,1-1,Patronato de Paraná,2021-10-15T19:45Z
+16,Fri Oct 15 2021,19:00,-0300,Racing Club,0-1,0-0,Platense,2021-10-15T22:00Z
+16,Fri Oct 15 2021,21:15,-0300,Defensa y Justicia,2-1,1-0,Estudiantes,2021-10-16T00:15Z
+16,Fri Oct 15 2021,21:15,-0300,Vélez Sarsfield,0-0,0-0,Arsenal de Sarandí,2021-10-16T00:15Z
+16,Fri Oct 15 2021,14:30,-0300,Godoy Cruz,0-0,0-0,Central Córdoba SdE,2021-10-15T17:30Z
+16,Sat Oct 16 2021,13:30,-0300,Sarmiento de Junín,3-4,1-1,Unión de Santa Fe,2021-10-16T16:30Z
+16,Sat Oct 16 2021,15:45,-0300,Gimnasia de La Plata,1-0,1-0,Newell's Old Boys,2021-10-16T18:45Z
+16,Sat Oct 16 2021,18:00,-0300,Lanús,1-1,0-1,Banfield,2021-10-16T21:00Z
+16,Sat Oct 16 2021,20:15,-0300,Huracán,0-3,0-1,Boca Juniors,2021-10-16T23:15Z
+16,Sun Oct 17 2021,15:45,-0300,Colón de Santa Fe,1-0,1-0,Talleres de Córdoba,2021-10-17T18:45Z
+16,Sun Oct 17 2021,18:00,-0300,Aldosivi,1-0,1-0,Independiente,2021-10-17T21:00Z
+16,Sun Oct 17 2021,20:15,-0300,River Plate,3-1,1-1,San Lorenzo,2021-10-17T23:15Z
+16,Sun Oct 17 2021,15:45,-0300,Atlético Tucumán,4-3,2-0,Argentinos Juniors,2021-10-17T18:45Z
+17,Tue Oct 19 2021,16:45,-0300,Unión de Santa Fe,1-1,0-0,Racing Club,2021-10-19T19:45Z
+17,Tue Oct 19 2021,19:00,-0300,Patronato de Paraná,3-3,2-2,Defensa y Justicia,2021-10-19T22:00Z
+17,Tue Oct 19 2021,21:15,-0300,Central Córdoba SdE,1-2,1-1,Vélez Sarsfield,2021-10-20T00:15Z
+17,Tue Oct 19 2021,14:30,-0300,Platense,1-1,1-1,Rosario Central,2021-10-19T17:30Z
+17,Wed Oct 20 2021,14:30,-0300,Arsenal de Sarandí,0-1,0-0,Gimnasia de La Plata,2021-10-20T17:30Z
+17,Wed Oct 20 2021,16:45,-0300,San Lorenzo,1-3,1-1,Lanús,2021-10-20T19:45Z
+17,Wed Oct 20 2021,19:00,-0300,Banfield,1-4,0-1,Huracán,2021-10-20T22:00Z
+17,Wed Oct 20 2021,19:00,-0300,Estudiantes,1-1,0-1,Atlético Tucumán,2021-10-20T22:00Z
+17,Wed Oct 20 2021,21:15,-0300,Boca Juniors,2-1,2-1,Godoy Cruz,2021-10-21T00:15Z
+17,Thu Oct 21 2021,16:45,-0300,Newell's Old Boys,0-0,0-0,Aldosivi,2021-10-21T19:45Z
+17,Thu Oct 21 2021,19:00,-0300,Independiente,1-1,1-1,Sarmiento de Junín,2021-10-21T22:00Z
+17,Thu Oct 21 2021,21:15,-0300,Talleres de Córdoba,0-2,0-1,River Plate,2021-10-22T00:15Z
+17,Thu Oct 21 2021,14:30,-0300,Argentinos Juniors,3-1,1-1,Colón de Santa Fe,2021-10-21T17:30Z
+18,Sat Oct 23 2021,15:45,-0300,Gimnasia de La Plata,2-2,0-1,Central Córdoba SdE,2021-10-23T18:45Z
+18,Sat Oct 23 2021,18:00,-0300,Defensa y Justicia,2-1,0-0,Platense,2021-10-23T21:00Z
+18,Sat Oct 23 2021,20:15,-0300,Rosario Central,2-1,0-0,Racing Club,2021-10-23T23:15Z
+18,Sun Oct 24 2021,15:45,-0300,Colón de Santa Fe,2-1,1-1,Estudiantes,2021-10-24T18:45Z
+18,Sun Oct 24 2021,18:00,-0300,Huracán,2-1,0-0,San Lorenzo,2021-10-24T21:00Z
+18,Sun Oct 24 2021,20:15,-0300,Vélez Sarsfield,2-0,1-0,Boca Juniors,2021-10-24T23:15Z
+18,Sun Oct 24 2021,15:45,-0300,Godoy Cruz,2-1,1-0,Banfield,2021-10-24T18:45Z
+18,Mon Oct 25 2021,14:30,-0300,Aldosivi,2-1,1-1,Arsenal de Sarandí,2021-10-25T17:30Z
+18,Mon Oct 25 2021,14:30,-0300,Sarmiento de Junín,2-1,1-0,Newell's Old Boys,2021-10-25T17:30Z
+18,Mon Oct 25 2021,16:45,-0300,Atlético Tucumán,2-2,1-1,Patronato de Paraná,2021-10-25T19:45Z
+18,Mon Oct 25 2021,16:45,-0300,Lanús,3-3,1-3,Talleres de Córdoba,2021-10-25T19:45Z
+18,Mon Oct 25 2021,19:00,-0300,River Plate,3-0,1-0,Argentinos Juniors,2021-10-25T22:00Z
+18,Mon Oct 25 2021,21:15,-0300,Independiente,1-0,0-0,Unión de Santa Fe,2021-10-26T00:15Z
+19,Fri Oct 29 2021,21:15,-0300,Argentinos Juniors,0-1,0-1,Lanús,2021-10-30T00:15Z
+19,Fri Oct 29 2021,19:00,-0300,Racing Club,1-2,0-0,Defensa y Justicia,2021-10-29T22:00Z
+19,Sat Oct 30 2021,15:45,-0300,Platense,4-1,1-1,Atlético Tucumán,2021-10-30T18:45Z
+19,Sat Oct 30 2021,18:00,-0300,Banfield,2-1,0-1,Vélez Sarsfield,2021-10-30T21:00Z
+19,Sat Oct 30 2021,18:00,-0300,Talleres de Córdoba,1-0,1-0,Huracán,2021-10-30T21:00Z
+19,Sat Oct 30 2021,20:15,-0300,Boca Juniors,0-1,0-1,Gimnasia de La Plata,2021-10-30T23:15Z
+19,Sat Oct 30 2021,15:45,-0300,Arsenal de Sarandí,1-0,0-0,Sarmiento de Junín,2021-10-30T18:45Z
+19,Sun Oct 31 2021,15:45,-0300,San Lorenzo,1-0,1-0,Godoy Cruz,2021-10-31T18:45Z
+19,Sun Oct 31 2021,15:45,-0300,Unión de Santa Fe,3-1,2-1,Rosario Central,2021-10-31T18:45Z
+19,Sun Oct 31 2021,18:00,-0300,Newell's Old Boys,1-0,0-0,Independiente,2021-10-31T21:00Z
+19,Sun Oct 31 2021,20:15,-0300,Estudiantes,1-1,0-1,River Plate,2021-10-31T23:15Z
+19,Mon Nov 1 2021,21:15,-0300,Central Córdoba SdE,0-0,0-0,Aldosivi,2021-11-02T00:15Z
+19,Mon Nov 1 2021,19:00,-0300,Patronato de Paraná,2-0,2-0,Colón de Santa Fe,2021-11-01T22:00Z
+20,Fri Nov 5 2021,21:15,-0300,Lanús,1-1,1-1,Estudiantes,2021-11-06T00:15Z
+20,Fri Nov 5 2021,19:00,-0300,Defensa y Justicia,3-0,2-0,Rosario Central,2021-11-05T22:00Z
+20,Sat Nov 6 2021,15:45,-0300,Colón de Santa Fe,3-0,1-0,Platense,2021-11-06T18:45Z
+20,Sat Nov 6 2021,18:00,-0300,Independiente,3-0,2-0,Arsenal de Sarandí,2021-11-06T21:00Z
+20,Sat Nov 6 2021,20:15,-0300,Atlético Tucumán,0-2,0-0,Racing Club,2021-11-06T23:15Z
+20,Sat Nov 6 2021,15:45,-0300,Godoy Cruz,0-2,0-0,Talleres de Córdoba,2021-11-06T18:45Z
+20,Sun Nov 7 2021,15:45,-0300,Sarmiento de Junín,1-3,0-1,Central Córdoba SdE,2021-11-07T18:45Z
+20,Sun Nov 7 2021,15:45,-0300,Gimnasia de La Plata,0-1,0-0,Banfield,2021-11-07T18:45Z
+20,Sun Nov 7 2021,18:00,-0300,Vélez Sarsfield,2-1,2-1,San Lorenzo,2021-11-07T21:00Z
+20,Sun Nov 7 2021,20:15,-0300,River Plate,5-0,4-0,Patronato de Paraná,2021-11-07T23:15Z
+20,Mon Nov 8 2021,19:00,-0300,Huracán,1-1,0-1,Argentinos Juniors,2021-11-08T22:00Z
+20,Mon Nov 8 2021,21:15,-0300,Aldosivi,0-3,0-1,Boca Juniors,2021-11-09T00:15Z
+20,Mon Nov 8 2021,16:45,-0300,Newell's Old Boys,1-0,0-0,Unión de Santa Fe,2021-11-08T19:45Z
+21,Thu Nov 18 2021,19:15,-0300,Patronato de Paraná,3-2,1-2,Lanús,2021-11-18T22:15Z
+21,Thu Nov 18 2021,21:30,-0300,Banfield,0-2,0-0,Aldosivi,2021-11-19T00:30Z
+21,Thu Nov 18 2021,17:00,-0300,Unión de Santa Fe,2-3,2-1,Defensa y Justicia,2021-11-18T20:00Z
+21,Fri Nov 19 2021,17:00,-0300,Estudiantes,4-1,3-1,Huracán,2021-11-19T20:00Z
+21,Fri Nov 19 2021,19:15,-0300,San Lorenzo,0-1,0-1,Gimnasia de La Plata,2021-11-19T22:15Z
+21,Fri Nov 19 2021,21:30,-0300,Argentinos Juniors,0-0,0-0,Godoy Cruz,2021-11-20T00:30Z
+21,Fri Nov 19 2021,21:30,-0300,Talleres de Córdoba,1-1,0-0,Vélez Sarsfield,2021-11-20T00:30Z
+21,Sat Nov 20 2021,19:15,-0300,Boca Juniors,2-0,1-0,Sarmiento de Junín,2021-11-20T22:15Z
+21,Sat Nov 20 2021,21:30,-0300,Central Córdoba SdE,1-0,0-0,Independiente,2021-11-21T00:30Z
+21,Sat Nov 20 2021,17:00,-0300,Rosario Central,3-1,2-0,Atlético Tucumán,2021-11-20T20:00Z
+21,Sun Nov 21 2021,19:15,-0300,Racing Club,1-2,1-1,Colón de Santa Fe,2021-11-21T22:15Z
+21,Sun Nov 21 2021,21:30,-0300,Platense,0-1,0-1,River Plate,2021-11-22T00:30Z
+21,Sun Nov 21 2021,17:00,-0300,Arsenal de Sarandí,3-1,1-0,Newell's Old Boys,2021-11-21T20:00Z
+22,Tue Nov 23 2021,17:00,-0300,Huracán,1-0,0-0,Patronato de Paraná,2021-11-23T20:00Z
+22,Tue Nov 23 2021,17:00,-0300,Gimnasia de La Plata,5-2,2-0,Talleres de Córdoba,2021-11-23T20:00Z
+22,Tue Nov 23 2021,19:15,-0300,Aldosivi,2-0,1-0,San Lorenzo,2021-11-23T22:15Z
+22,Tue Nov 23 2021,21:30,-0300,Godoy Cruz,1-3,1-2,Estudiantes,2021-11-24T00:30Z
+22,Tue Nov 23 2021,21:30,-0300,Vélez Sarsfield,2-0,0-0,Argentinos Juniors,2021-11-24T00:30Z
+22,Wed Nov 24 2021,17:00,-0300,Newell's Old Boys,1-0,0-0,Central Córdoba SdE,2021-11-24T20:00Z
+22,Wed Nov 24 2021,19:15,-0300,Atlético Tucumán,0-4,0-1,Defensa y Justicia,2021-11-24T22:15Z
+22,Wed Nov 24 2021,21:30,-0300,Independiente,1-0,1-0,Boca Juniors,2021-11-25T00:30Z
+22,Wed Nov 24 2021,17:00,-0300,Sarmiento de Junín,0-0,0-0,Banfield,2021-11-24T20:00Z
+22,Thu Nov 25 2021,17:00,-0300,Arsenal de Sarandí,0-1,0-0,Unión de Santa Fe,2021-11-25T20:00Z
+22,Thu Nov 25 2021,19:15,-0300,Lanús,3-3,1-1,Platense,2021-11-25T22:15Z
+22,Thu Nov 25 2021,19:15,-0300,Colón de Santa Fe,1-4,0-2,Rosario Central,2021-11-25T22:15Z
+22,Thu Nov 25 2021,21:30,-0300,River Plate,4-0,1-0,Racing Club,2021-11-26T00:30Z
+23,Sat Nov 27 2021,19:15,-0300,Patronato de Paraná,0-3,0-1,Godoy Cruz,2021-11-27T22:15Z
+23,Sat Nov 27 2021,21:30,-0300,Estudiantes,1-0,1-0,Vélez Sarsfield,2021-11-28T00:30Z
+23,Sat Nov 27 2021,17:00,-0300,Talleres de Córdoba,2-0,0-0,Aldosivi,2021-11-27T20:00Z
+23,Sun Nov 28 2021,19:15,-0300,Argentinos Juniors,3-0,1-0,Gimnasia de La Plata,2021-11-28T22:15Z
+23,Sun Nov 28 2021,19:15,-0300,Defensa y Justicia,1-1,0-0,Colón de Santa Fe,2021-11-28T22:15Z
+23,Sun Nov 28 2021,17:00,-0300,Rosario Central,2-2,1-0,River Plate,2021-11-28T20:00Z
+23,Mon Nov 29 2021,17:00,-0300,Unión de Santa Fe,3-0,2-0,Atlético Tucumán,2021-11-29T20:00Z
+23,Mon Nov 29 2021,19:15,-0300,Racing Club,3-1,2-1,Lanús,2021-11-29T22:15Z
+23,Mon Nov 29 2021,21:30,-0300,Central Córdoba SdE,5-0,3-0,Arsenal de Sarandí,2021-11-30T00:30Z
+23,Mon Nov 29 2021,21:30,-0300,Platense,4-2,2-1,Huracán,2021-11-30T00:30Z
+23,Tue Nov 30 2021,19:15,-0300,Boca Juniors,0-0,0-0,Newell's Old Boys,2021-11-30T22:15Z
+23,Tue Nov 30 2021,21:30,-0300,Banfield,4-1,1-1,Independiente,2021-12-01T00:30Z
+23,Tue Nov 30 2021,17:00,-0300,San Lorenzo,1-0,1-0,Sarmiento de Junín,2021-11-30T20:00Z
+24,Fri Dec 3 2021,19:15,-0300,Colón de Santa Fe,3-0,2-0,Atlético Tucumán,2021-12-03T22:15Z
+24,Fri Dec 3 2021,21:30,-0300,Vélez Sarsfield,0-0,0-0,Patronato de Paraná,2021-12-04T00:30Z
+24,Fri Dec 3 2021,19:15,-0300,Central Córdoba SdE,2-0,1-0,Unión de Santa Fe,2021-12-03T22:15Z
+24,Sat Dec 4 2021,17:00,-0300,Arsenal de Sarandí,1-1,0-1,Boca Juniors,2021-12-04T20:00Z
+24,Sat Dec 4 2021,19:15,-0300,Sarmiento de Junín,1-2,1-1,Talleres de Córdoba,2021-12-04T22:15Z
+24,Sat Dec 4 2021,19:15,-0300,Godoy Cruz,2-2,2-1,Platense,2021-12-04T22:15Z
+24,Sat Dec 4 2021,21:30,-0300,Huracán,1-0,1-0,Racing Club,2021-12-05T00:30Z
+24,Sat Dec 4 2021,21:30,-0300,Lanús,2-2,1-0,Rosario Central,2021-12-05T00:30Z
+24,Sun Dec 5 2021,19:15,-0300,Independiente,1-1,0-0,San Lorenzo,2021-12-05T22:15Z
+24,Sun Dec 5 2021,21:30,-0300,River Plate,2-3,1-0,Defensa y Justicia,2021-12-06T00:30Z
+24,Sun Dec 5 2021,17:00,-0300,Gimnasia de La Plata,4-4,3-2,Estudiantes,2021-12-05T20:00Z
+24,Mon Dec 6 2021,21:30,-0300,Newell's Old Boys,0-0,0-0,Banfield,2021-12-07T00:30Z
+24,Mon Dec 6 2021,19:15,-0300,Aldosivi,3-2,2-2,Argentinos Juniors,2021-12-06T22:15Z
+25,Fri Dec 10 2021,21:30,-0300,Estudiantes,2-3,0-1,Aldosivi,2021-12-11T00:30Z
+25,Fri Dec 10 2021,19:15,-0300,Platense,3-2,0-0,Vélez Sarsfield,2021-12-10T22:15Z
+25,Sat Dec 11 2021,17:00,-0300,Argentinos Juniors,2-0,0-0,Sarmiento de Junín,2021-12-11T20:00Z
+25,Sat Dec 11 2021,17:00,-0300,Patronato de Paraná,0-0,0-0,Gimnasia de La Plata,2021-12-11T20:00Z
+25,Sat Dec 11 2021,17:00,-0300,Racing Club,2-1,1-1,Godoy Cruz,2021-12-11T20:00Z
+25,Sat Dec 11 2021,17:00,-0300,Rosario Central,1-4,0-2,Huracán,2021-12-11T20:00Z
+25,Sat Dec 11 2021,17:00,-0300,Unión de Santa Fe,3-0,2-0,Colón de Santa Fe,2021-12-11T20:00Z
+25,Sat Dec 11 2021,19:15,-0300,Atlético Tucumán,1-1,1-0,River Plate,2021-12-11T22:15Z
+25,Sat Dec 11 2021,22:00,-0300,Boca Juniors,8-1,4-0,Central Córdoba SdE,2021-12-12T01:00Z
+25,Sun Dec 12 2021,19:15,-0300,Defensa y Justicia,2-1,1-1,Lanús,2021-12-12T22:15Z
+25,Sun Dec 12 2021,21:30,-0300,Talleres de Córdoba,1-2,0-1,Independiente,2021-12-13T00:30Z
+25,Sun Dec 12 2021,17:00,-0300,San Lorenzo,3-2,2-2,Newell's Old Boys,2021-12-12T20:00Z
+25,Mon Dec 13 2021,20:00,-0300,Banfield,0-0,0-0,Arsenal de Sarandí,2021-12-13T23:00Z

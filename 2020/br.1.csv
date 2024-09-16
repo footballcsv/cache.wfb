@@ -1,381 +1,381 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Sat Aug 8 2020,19:30,Coritiba - PR,0-1,0-0,Internacional
-1,Sat Aug 8 2020,21:00,Sport Recife - PE,3-2,3-1,Ceará - CE
-1,Sat Aug 8 2020,19:00,Fortaleza - CE,0-2,0-2,Athletico Paranaense
-1,Sun Aug 9 2020,16:00,Santos FC,1-1,0-0,Red Bull Bragantino
-1,Sun Aug 9 2020,19:00,Grêmio Porto Alegre,1-0,1-0,Fluminense RJ
-1,Sun Aug 9 2020,16:00,Flamengo RJ,0-1,0-1,Atlético Mineiro
-2,Wed Aug 12 2020,20:30,Bahia - BA,1-0,1-0,Coritiba - PR
-2,Wed Aug 12 2020,21:30,Ceará - CE,1-1,1-0,Grêmio Porto Alegre
-2,Wed Aug 12 2020,21:30,Fluminense RJ,1-1,1-1,Palmeiras
-2,Wed Aug 12 2020,19:15,Athletico Paranaense,2-1,1-1,Goiás - GO
-2,Wed Aug 12 2020,19:15,Red Bull Bragantino,1-1,1-0,Botafogo - RJ
-2,Wed Aug 12 2020,19:15,Atlético Mineiro,3-2,0-2,Corinthians SP
-2,Wed Aug 12 2020,20:30,Atlético Goianiense,3-0,2-0,Flamengo RJ
-2,Thu Aug 13 2020,19:15,São Paulo FC,1-0,1-0,Fortaleza - CE
-2,Thu Aug 13 2020,20:00,Vasco da Gama - RJ,2-0,2-0,Sport Recife - PE
-2,Thu Aug 13 2020,19:30,Internacional,2-0,0-0,Santos FC
-3,Sat Aug 15 2020,21:30,Palmeiras,1-1,1-1,Goiás - GO
-3,Sat Aug 15 2020,19:30,Coritiba - PR,0-1,0-1,Flamengo RJ
-3,Sat Aug 15 2020,19:00,Grêmio Porto Alegre,0-0,0-0,Corinthians SP
-3,Sun Aug 16 2020,19:45,Santos FC,3-1,2-0,Athletico Paranaense
-3,Sun Aug 16 2020,19:00,Atlético Goianiense,1-1,1-0,Sport Recife - PE
-3,Sun Aug 16 2020,18:00,Fluminense RJ,2-1,1-1,Internacional
-3,Sun Aug 16 2020,16:00,Bahia - BA,2-1,1-0,Red Bull Bragantino
-3,Sun Aug 16 2020,11:00,Atlético Mineiro,2-0,0-0,Ceará - CE
-3,Sun Aug 16 2020,16:00,Vasco da Gama - RJ,2-1,0-0,São Paulo FC
-3,Sun Aug 16 2020,19:30,Fortaleza - CE,0-0,0-0,Botafogo - RJ
-4,Wed Aug 19 2020,21:30,Corinthians SP,3-1,1-1,Coritiba - PR
-4,Wed Aug 19 2020,21:30,Botafogo - RJ,2-1,1-0,Atlético Mineiro
-4,Wed Aug 19 2020,20:30,Goiás - GO,1-3,0-1,Fortaleza - CE
-4,Wed Aug 19 2020,19:15,Red Bull Bragantino,2-1,1-1,Fluminense RJ
-4,Wed Aug 19 2020,19:15,Flamengo RJ,1-1,0-1,Grêmio Porto Alegre
-4,Wed Aug 19 2020,20:30,Internacional,3-0,0-0,Atlético Goianiense
-4,Wed Aug 19 2020,19:30,Athletico Paranaense,0-1,0-0,Palmeiras
-4,Thu Aug 20 2020,20:00,Ceará - CE,0-3,0-0,Vasco da Gama - RJ
-4,Thu Aug 20 2020,19:15,Sport Recife - PE,0-1,0-0,Santos FC
-4,Thu Aug 20 2020,20:00,São Paulo FC,1-1,0-1,Bahia - BA
-5,Sat Aug 22 2020,19:00,Internacional,1-0,1-0,Atlético Mineiro
-5,Sat Aug 22 2020,16:00,Athletico Paranaense,0-1,0-1,Fluminense RJ
-5,Sat Aug 22 2020,21:00,Goiás - GO,2-0,1-0,Atlético Goianiense
-5,Sun Aug 23 2020,19:00,Sport Recife - PE,0-1,0-1,São Paulo FC
-5,Sun Aug 23 2020,16:00,Red Bull Bragantino,1-2,1-1,Coritiba - PR
-5,Sun Aug 23 2020,16:00,Palmeiras,2-1,1-0,Santos FC
-5,Sun Aug 23 2020,20:00,Ceará - CE,2-0,1-0,Bahia - BA
-5,Sun Aug 23 2020,11:00,Flamengo RJ,1-1,0-0,Botafogo - RJ
-5,Sun Aug 23 2020,16:00,Vasco da Gama - RJ,0-0,0-0,Grêmio Porto Alegre
-11,Wed Aug 26 2020,19:00,São Paulo FC,1-0,0-0,Athletico Paranaense
-5,Wed Aug 26 2020,21:30,Corinthians SP,1-1,0-0,Fortaleza - CE
-6,Sat Aug 29 2020,17:00,Botafogo - RJ,0-2,0-2,Internacional
-6,Sat Aug 29 2020,19:00,Bahia - BA,1-1,0-0,Palmeiras
-6,Sat Aug 29 2020,19:00,Fluminense RJ,2-1,1-0,Vasco da Gama - RJ
-6,Sat Aug 29 2020,21:00,Fortaleza - CE,3-0,1-0,Red Bull Bragantino
-6,Sun Aug 30 2020,16:00,Coritiba - PR,1-0,0-0,Sport Recife - PE
-6,Sun Aug 30 2020,16:00,Santos FC,0-1,0-1,Flamengo RJ
-6,Sun Aug 30 2020,11:00,São Paulo FC,2-1,1-1,Corinthians SP
-6,Sun Aug 30 2020,18:00,Atlético Goianiense,0-2,0-0,Ceará - CE
-7,Wed Sep 2 2020,20:30,Botafogo - RJ,0-0,0-0,Coritiba - PR
-7,Wed Sep 2 2020,21:30,Palmeiras,1-1,0-0,Internacional
-7,Wed Sep 2 2020,21:30,Santos FC,2-2,1-1,Vasco da Gama - RJ
-7,Wed Sep 2 2020,19:15,Goiás - GO,1-2,0-1,Corinthians SP
-7,Wed Sep 2 2020,20:30,Athletico Paranaense,1-1,1-1,Red Bull Bragantino
-7,Wed Sep 2 2020,19:00,Ceará - CE,1-0,1-0,Fortaleza - CE
-7,Wed Sep 2 2020,19:15,Fluminense RJ,1-1,1-0,Atlético Goianiense
-7,Wed Sep 2 2020,20:30,Bahia - BA,3-5,2-3,Flamengo RJ
-7,Thu Sep 3 2020,20:00,Atlético Mineiro,3-0,2-0,São Paulo FC
-7,Thu Sep 3 2020,19:00,Grêmio Porto Alegre,1-2,0-1,Sport Recife - PE
-8,Sat Sep 5 2020,19:00,Corinthians SP,2-2,1-1,Botafogo - RJ
-8,Sat Sep 5 2020,17:00,Flamengo RJ,2-1,1-1,Fortaleza - CE
-8,Sat Sep 5 2020,21:00,Ceará - CE,0-1,0-1,Santos FC
-8,Sun Sep 6 2020,16:00,Internacional,2-2,1-1,Bahia - BA
-8,Sun Sep 6 2020,19:00,Atlético Goianiense,1-1,1-1,Grêmio Porto Alegre
-8,Sun Sep 6 2020,20:30,Sport Recife - PE,2-1,0-0,Goiás - GO
-8,Sun Sep 6 2020,20:30,Coritiba - PR,0-1,0-1,Atlético Mineiro
-8,Sun Sep 6 2020,18:00,Vasco da Gama - RJ,1-0,1-0,Athletico Paranaense
-8,Sun Sep 6 2020,11:00,Red Bull Bragantino,1-2,0-0,Palmeiras
-8,Sun Sep 6 2020,16:00,São Paulo FC,3-1,0-1,Fluminense RJ
-9,Wed Sep 9 2020,21:30,Fluminense RJ,1-2,0-2,Flamengo RJ
-9,Wed Sep 9 2020,18:00,Goiás - GO,3-3,1-2,Coritiba - PR
-9,Wed Sep 9 2020,21:30,Santos FC,3-1,2-1,Atlético Mineiro
-9,Wed Sep 9 2020,18:00,Fortaleza - CE,1-0,0-0,Sport Recife - PE
-9,Wed Sep 9 2020,19:15,São Paulo FC,1-1,0-0,Red Bull Bragantino
-9,Wed Sep 9 2020,17:30,Athletico Paranaense,1-1,0-0,Botafogo - RJ
-9,Thu Sep 10 2020,19:15,Internacional,2-0,1-0,Ceará - CE
-9,Thu Sep 10 2020,19:15,Bahia - BA,0-2,0-1,Grêmio Porto Alegre
-9,Thu Sep 10 2020,21:00,Vasco da Gama - RJ,1-2,0-0,Atlético Goianiense
-9,Thu Sep 10 2020,19:15,Corinthians SP,0-2,0-1,Palmeiras
-10,Sat Sep 12 2020,19:00,Santos FC,2-2,1-2,São Paulo FC
-10,Sat Sep 12 2020,16:30,Athletico Paranaense,1-0,1-0,Coritiba - PR
-10,Sun Sep 13 2020,18:00,Ceará - CE,2-0,0-0,Flamengo RJ
-10,Sun Sep 13 2020,20:30,Botafogo - RJ,2-3,0-1,Vasco da Gama - RJ
-10,Sun Sep 13 2020,19:45,Palmeiras,2-2,2-1,Sport Recife - PE
-10,Sun Sep 13 2020,18:00,Goiás - GO,1-0,1-0,Internacional
-10,Sun Sep 13 2020,18:00,Bahia - BA,0-1,0-1,Atlético Goianiense
-10,Sun Sep 13 2020,16:00,Fluminense RJ,2-1,1-0,Corinthians SP
-10,Sun Sep 13 2020,16:00,Grêmio Porto Alegre,1-1,0-1,Fortaleza - CE
-10,Sun Sep 13 2020,18:00,Atlético Mineiro,2-1,1-0,Red Bull Bragantino
-11,Wed Sep 16 2020,21:30,Corinthians SP,3-2,2-1,Bahia - BA
-11,Sat Sep 19 2020,19:00,Red Bull Bragantino,4-2,3-1,Ceará - CE
-11,Sat Sep 19 2020,21:00,Atlético Goianiense,3-4,1-0,Atlético Mineiro
-11,Sat Sep 19 2020,19:00,Fortaleza - CE,1-0,0-0,Internacional
-11,Sun Sep 20 2020,16:00,Grêmio Porto Alegre,1-1,0-0,Palmeiras
-11,Sun Sep 20 2020,16:00,Coritiba - PR,1-0,0-0,Vasco da Gama - RJ
-11,Sun Sep 20 2020,18:15,Botafogo - RJ,0-0,0-0,Santos FC
-11,Sun Sep 20 2020,20:30,Sport Recife - PE,1-0,1-0,Fluminense RJ
-12,Wed Sep 23 2020,21:30,Sport Recife - PE,1-0,1-0,Corinthians SP
-12,Sat Sep 26 2020,21:00,Atlético Mineiro,3-1,1-0,Grêmio Porto Alegre
-12,Sat Sep 26 2020,19:00,Athletico Paranaense,1-0,0-0,Bahia - BA
-12,Sat Sep 26 2020,19:00,Internacional,1-1,1-1,São Paulo FC
-12,Sun Sep 27 2020,18:15,Ceará - CE,2-2,0-1,Goiás - GO
-12,Sun Sep 27 2020,18:15,Atlético Goianiense,1-1,0-1,Botafogo - RJ
-12,Sun Sep 27 2020,20:30,Santos FC,1-1,1-0,Fortaleza - CE
-12,Sun Sep 27 2020,16:00,Palmeiras,1-1,0-0,Flamengo RJ
-12,Sun Sep 27 2020,11:00,Vasco da Gama - RJ,1-1,0-0,Red Bull Bragantino
-12,Mon Sep 28 2020,20:00,Fluminense RJ,4-0,1-0,Coritiba - PR
-1,Wed Sep 30 2020,21:30,Corinthians SP,0-0,0-0,Atlético Goianiense
-1,Wed Sep 30 2020,21:30,Botafogo - RJ,1-2,0-1,Bahia - BA
-13,Sat Oct 3 2020,17:00,Grêmio Porto Alegre,1-1,0-0,Internacional
-13,Sat Oct 3 2020,19:00,Palmeiras,2-1,1-1,Ceará - CE
-13,Sat Oct 3 2020,21:00,Red Bull Bragantino,0-0,0-0,Corinthians SP
-13,Sun Oct 4 2020,18:15,Fortaleza - CE,0-0,0-0,Atlético Goianiense
-13,Sun Oct 4 2020,18:15,Goiás - GO,2-3,1-1,Santos FC
-13,Sun Oct 4 2020,20:30,Atlético Mineiro,4-1,4-1,Vasco da Gama - RJ
-13,Sun Oct 4 2020,18:15,Bahia - BA,1-2,0-1,Sport Recife - PE
-13,Sun Oct 4 2020,16:00,Coritiba - PR,1-1,1-0,São Paulo FC
-13,Sun Oct 4 2020,11:00,Botafogo - RJ,1-1,0-1,Fluminense RJ
-13,Sun Oct 4 2020,16:00,Flamengo RJ,3-1,0-0,Athletico Paranaense
-14,Wed Oct 7 2020,21:30,Botafogo - RJ,2-1,0-0,Palmeiras
-14,Wed Oct 7 2020,20:30,Goiás - GO,2-4,1-1,Fluminense RJ
-14,Wed Oct 7 2020,20:30,São Paulo FC,3-0,1-0,Atlético Goianiense
-14,Wed Oct 7 2020,19:15,Bahia - BA,3-0,3-0,Vasco da Gama - RJ
-14,Wed Oct 7 2020,21:30,Fortaleza - CE,2-1,1-1,Atlético Mineiro
-14,Wed Oct 7 2020,19:00,Corinthians SP,1-1,1-1,Santos FC
-14,Wed Oct 7 2020,19:15,Flamengo RJ,3-0,0-0,Sport Recife - PE
-14,Wed Oct 7 2020,19:15,Grêmio Porto Alegre,2-1,2-0,Coritiba - PR
-14,Thu Oct 8 2020,19:00,Athletico Paranaense,0-0,0-0,Ceará - CE
-14,Thu Oct 8 2020,21:00,Red Bull Bragantino,0-2,0-2,Internacional
-15,Sat Oct 10 2020,17:00,Vasco da Gama - RJ,1-2,1-0,Flamengo RJ
-15,Sat Oct 10 2020,21:00,Atlético Mineiro,3-0,2-0,Goiás - GO
-15,Sat Oct 10 2020,19:00,Coritiba - PR,0-0,0-0,Fortaleza - CE
-15,Sat Oct 10 2020,19:00,Palmeiras,0-2,0-0,São Paulo FC
-15,Sun Oct 11 2020,16:00,Fluminense RJ,1-0,0-0,Bahia - BA
-15,Sun Oct 11 2020,20:30,Internacional,2-1,2-1,Athletico Paranaense
-15,Sun Oct 11 2020,18:15,Atlético Goianiense,2-1,1-1,Red Bull Bragantino
-15,Sun Oct 11 2020,18:15,Sport Recife - PE,1-2,0-2,Botafogo - RJ
-15,Sun Oct 11 2020,16:00,Santos FC,2-1,1-0,Grêmio Porto Alegre
-15,Sun Oct 11 2020,20:30,Ceará - CE,2-1,1-1,Corinthians SP
-11,Tue Oct 13 2020,18:00,Flamengo RJ,2-1,1-1,Goiás - GO
-16,Wed Oct 14 2020,21:30,Sport Recife - PE,3-5,1-2,Internacional
-16,Wed Oct 14 2020,21:30,Athletico Paranaense,0-1,0-0,Corinthians SP
-16,Wed Oct 14 2020,21:30,Atlético Mineiro,1-1,0-1,Fluminense RJ
-16,Wed Oct 14 2020,20:30,Santos FC,0-1,0-0,Atlético Goianiense
-16,Wed Oct 14 2020,18:00,Palmeiras,1-3,1-2,Coritiba - PR
-16,Wed Oct 14 2020,19:15,Grêmio Porto Alegre,3-1,1-1,Botafogo - RJ
-16,Thu Oct 15 2020,20:00,Flamengo RJ,1-1,0-0,Red Bull Bragantino
-16,Fri Oct 16 2020,20:00,Goiás - GO,1-1,0-0,Bahia - BA
-17,Sat Oct 17 2020,21:00,São Paulo FC,0-0,0-0,Grêmio Porto Alegre
-17,Sat Oct 17 2020,19:00,Atlético Goianiense,1-1,1-0,Athletico Paranaense
-17,Sat Oct 17 2020,19:00,Fluminense RJ,2-2,1-1,Ceará - CE
-17,Sat Oct 17 2020,19:00,Coritiba - PR,1-2,0-2,Santos FC
-17,Sun Oct 18 2020,20:30,Red Bull Bragantino,2-0,0-0,Sport Recife - PE
-17,Sun Oct 18 2020,18:15,Internacional,2-0,2-0,Vasco da Gama - RJ
-17,Sun Oct 18 2020,20:30,Fortaleza - CE,2-0,2-0,Palmeiras
-17,Sun Oct 18 2020,16:00,Corinthians SP,1-5,0-1,Flamengo RJ
-17,Mon Oct 19 2020,20:00,Botafogo - RJ,0-0,0-0,Goiás - GO
-17,Mon Oct 19 2020,20:00,Bahia - BA,3-1,0-1,Atlético Mineiro
-18,Wed Oct 21 2020,21:30,Vasco da Gama - RJ,1-2,0-1,Corinthians SP
-18,Sat Oct 24 2020,19:00,Ceará - CE,2-1,1-1,Coritiba - PR
-18,Sat Oct 24 2020,21:00,Atlético Mineiro,0-0,0-0,Sport Recife - PE
-18,Sat Oct 24 2020,17:00,Red Bull Bragantino,2-0,1-0,Goiás - GO
-18,Sun Oct 25 2020,15:00,Atlético Goianiense,0-3,0-1,Palmeiras
-18,Sun Oct 25 2020,15:00,Fluminense RJ,3-1,1-1,Santos FC
-18,Sun Oct 25 2020,17:15,Internacional,2-2,2-1,Flamengo RJ
-18,Sun Oct 25 2020,17:15,Athletico Paranaense,1-2,1-0,Grêmio Porto Alegre
-19,Sat Oct 31 2020,20:00,Fortaleza - CE,0-1,0-0,Fluminense RJ
-19,Sat Oct 31 2020,18:00,Coritiba - PR,1-0,1-0,Atlético Goianiense
-19,Sat Oct 31 2020,18:00,Corinthians SP,1-0,1-0,Internacional
-19,Sat Oct 31 2020,16:00,Botafogo - RJ,2-2,2-1,Ceará - CE
-19,Sun Nov 1 2020,15:00,Flamengo RJ,1-4,1-2,São Paulo FC
-19,Sun Nov 1 2020,19:30,Goiás - GO,1-1,0-1,Vasco da Gama - RJ
-19,Sun Nov 1 2020,17:15,Santos FC,3-1,3-1,Bahia - BA
-19,Sun Nov 1 2020,15:00,Sport Recife - PE,1-0,0-0,Athletico Paranaense
-19,Mon Nov 2 2020,19:00,Grêmio Porto Alegre,2-1,0-0,Red Bull Bragantino
-19,Mon Nov 2 2020,16:00,Palmeiras,3-0,1-0,Atlético Mineiro
-20,Sat Nov 7 2020,17:00,Athletico Paranaense,2-1,0-1,Fortaleza - CE
-20,Sat Nov 7 2020,18:00,São Paulo FC,2-1,1-1,Goiás - GO
-20,Sat Nov 7 2020,20:00,Atlético Goianiense,1-1,1-0,Corinthians SP
-20,Sun Nov 8 2020,17:15,Bahia - BA,1-0,0-0,Botafogo - RJ
-20,Sun Nov 8 2020,19:30,Fluminense RJ,0-1,0-1,Grêmio Porto Alegre
-20,Sun Nov 8 2020,17:15,Red Bull Bragantino,1-1,0-0,Santos FC
-20,Sun Nov 8 2020,17:15,Atlético Mineiro,4-0,2-0,Flamengo RJ
-20,Sun Nov 8 2020,15:00,Internacional,2-2,1-0,Coritiba - PR
-20,Sun Nov 8 2020,15:00,Vasco da Gama - RJ,0-1,0-0,Palmeiras
-20,Sun Nov 8 2020,19:30,Ceará - CE,0-0,0-0,Sport Recife - PE
-18,Wed Nov 11 2020,17:45,Bahia - BA,2-1,1-0,Fortaleza - CE
-21,Sat Nov 14 2020,18:00,Corinthians SP,1-2,1-0,Atlético Mineiro
-21,Sat Nov 14 2020,18:00,Grêmio Porto Alegre,4-2,3-1,Ceará - CE
-21,Sat Nov 14 2020,20:30,Flamengo RJ,1-1,1-0,Atlético Goianiense
-21,Sat Nov 14 2020,20:30,Palmeiras,2-0,0-0,Fluminense RJ
-21,Sat Nov 14 2020,18:00,Fortaleza - CE,2-3,1-1,São Paulo FC
-21,Sat Nov 14 2020,15:30,Santos FC,2-0,0-0,Internacional
-21,Sat Nov 14 2020,16:00,Goiás - GO,0-1,0-1,Athletico Paranaense
-21,Sat Nov 14 2020,15:30,Sport Recife - PE,0-2,0-1,Vasco da Gama - RJ
-21,Mon Nov 16 2020,17:00,Coritiba - PR,1-2,1-1,Bahia - BA
-21,Mon Nov 16 2020,19:00,Botafogo - RJ,1-2,1-1,Red Bull Bragantino
-6,Wed Nov 18 2020,18:00,Atlético Mineiro,0-2,0-2,Athletico Paranaense
-16,Thu Nov 19 2020,18:00,Vasco da Gama - RJ,0-0,0-0,Fortaleza - CE
-22,Fri Nov 20 2020,19:00,Red Bull Bragantino,4-0,3-0,Bahia - BA
-22,Sat Nov 21 2020,20:00,Goiás - GO,1-0,0-0,Palmeiras
-22,Sat Nov 21 2020,18:00,Flamengo RJ,3-1,2-0,Coritiba - PR
-22,Sat Nov 21 2020,18:00,Athletico Paranaense,1-0,0-0,Santos FC
-22,Sun Nov 22 2020,19:30,Corinthians SP,0-0,0-0,Grêmio Porto Alegre
-22,Sun Nov 22 2020,17:15,Internacional,1-2,1-0,Fluminense RJ
-22,Sun Nov 22 2020,15:00,Ceará - CE,2-2,0-1,Atlético Mineiro
-22,Sun Nov 22 2020,15:00,São Paulo FC,1-1,1-1,Vasco da Gama - RJ
-22,Sun Nov 22 2020,17:15,Botafogo - RJ,1-2,0-0,Fortaleza - CE
-22,Mon Nov 23 2020,19:00,Sport Recife - PE,0-1,0-0,Atlético Goianiense
-23,Wed Nov 25 2020,20:30,Coritiba - PR,0-1,0-1,Corinthians SP
-16,Wed Nov 25 2020,18:15,Ceará - CE,1-1,0-1,São Paulo FC
-23,Wed Nov 25 2020,20:30,Atlético Mineiro,2-1,1-0,Botafogo - RJ
-23,Thu Nov 26 2020,19:00,Fortaleza - CE,1-1,0-1,Goiás - GO
-23,Sat Nov 28 2020,18:00,Bahia - BA,1-3,0-0,São Paulo FC
-23,Sat Nov 28 2020,16:00,Palmeiras,3-0,2-0,Athletico Paranaense
-23,Sat Nov 28 2020,16:00,Santos FC,4-2,2-2,Sport Recife - PE
-23,Sat Nov 28 2020,20:00,Atlético Goianiense,0-0,0-0,Internacional
-6,Mon Nov 30 2020,17:00,Grêmio Porto Alegre,2-1,1-0,Goiás - GO
-23,Mon Nov 30 2020,17:00,Vasco da Gama - RJ,1-4,0-2,Ceará - CE
-23,Mon Nov 30 2020,19:00,Fluminense RJ,0-0,0-0,Red Bull Bragantino
-24,Wed Dec 2 2020,20:30,Fortaleza - CE,0-0,0-0,Corinthians SP
-1,Thu Dec 3 2020,18:00,Goiás - GO,0-3,0-1,São Paulo FC
-24,Sat Dec 5 2020,18:00,Bahia - BA,0-2,0-0,Ceará - CE
-24,Sat Dec 5 2020,20:00,Coritiba - PR,0-0,0-0,Red Bull Bragantino
-24,Sat Dec 5 2020,16:00,Botafogo - RJ,0-1,0-0,Flamengo RJ
-24,Sat Dec 5 2020,18:00,Fluminense RJ,3-1,1-1,Athletico Paranaense
-24,Sat Dec 5 2020,16:00,Santos FC,2-2,1-0,Palmeiras
-24,Sun Dec 6 2020,17:15,Atlético Mineiro,2-2,1-1,Internacional
-24,Sun Dec 6 2020,15:00,Grêmio Porto Alegre,4-0,1-0,Vasco da Gama - RJ
-24,Sun Dec 6 2020,15:00,São Paulo FC,1-0,1-0,Sport Recife - PE
-24,Mon Dec 7 2020,19:00,Atlético Goianiense,0-1,0-1,Goiás - GO
-18,Wed Dec 9 2020,20:30,São Paulo FC,4-0,3-0,Botafogo - RJ
-25,Sat Dec 12 2020,20:00,Goiás - GO,0-0,0-0,Grêmio Porto Alegre
-25,Sat Dec 12 2020,16:00,Athletico Paranaense,0-1,0-1,Atlético Mineiro
-25,Sat Dec 12 2020,16:00,Red Bull Bragantino,2-1,1-1,Fortaleza - CE
-25,Sat Dec 12 2020,18:00,Internacional,2-1,1-1,Botafogo - RJ
-25,Sat Dec 12 2020,18:00,Palmeiras,3-0,3-0,Bahia - BA
-25,Sat Dec 12 2020,20:00,Ceará - CE,1-2,0-0,Atlético Goianiense
-25,Sun Dec 13 2020,19:30,Vasco da Gama - RJ,1-1,0-1,Fluminense RJ
-25,Sun Dec 13 2020,15:00,Flamengo RJ,4-1,1-0,Santos FC
-25,Sun Dec 13 2020,17:15,Sport Recife - PE,1-0,1-0,Coritiba - PR
-25,Sun Dec 13 2020,17:15,Corinthians SP,1-0,1-0,São Paulo FC
-26,Wed Dec 16 2020,20:30,Atlético Goianiense,2-1,1-0,Fluminense RJ
-26,Wed Dec 16 2020,20:30,São Paulo FC,3-0,1-0,Atlético Mineiro
-26,Sat Dec 19 2020,20:00,Coritiba - PR,1-2,1-0,Botafogo - RJ
-26,Sat Dec 19 2020,20:00,Internacional,2-0,1-0,Palmeiras
-26,Sat Dec 19 2020,18:00,Sport Recife - PE,1-1,1-0,Grêmio Porto Alegre
-26,Sun Dec 20 2020,19:30,Fortaleza - CE,0-2,0-0,Ceará - CE
-26,Sun Dec 20 2020,17:15,Flamengo RJ,4-3,2-0,Bahia - BA
-26,Sun Dec 20 2020,15:00,Vasco da Gama - RJ,1-0,1-0,Santos FC
-26,Sun Dec 20 2020,15:00,Red Bull Bragantino,0-1,0-1,Athletico Paranaense
-26,Mon Dec 21 2020,19:00,Corinthians SP,2-1,1-1,Goiás - GO
-27,Sat Dec 26 2020,18:00,Goiás - GO,1-0,1-0,Sport Recife - PE
-27,Sat Dec 26 2020,16:00,Atlético Mineiro,2-0,0-0,Coritiba - PR
-27,Sat Dec 26 2020,18:00,Fortaleza - CE,0-0,0-0,Flamengo RJ
-27,Sat Dec 26 2020,20:00,Fluminense RJ,1-2,0-1,São Paulo FC
-27,Sun Dec 27 2020,17:15,Santos FC,1-1,1-1,Ceará - CE
-27,Sun Dec 27 2020,17:15,Athletico Paranaense,3-0,2-0,Vasco da Gama - RJ
-27,Sun Dec 27 2020,15:00,Botafogo - RJ,0-2,0-1,Corinthians SP
-27,Sun Dec 27 2020,15:00,Bahia - BA,1-2,0-1,Internacional
-27,Sun Dec 27 2020,17:15,Palmeiras,1-0,1-0,Red Bull Bragantino
-27,Sun Dec 27 2020,19:30,Grêmio Porto Alegre,2-1,1-0,Atlético Goianiense
-28,Wed Jan 6 2021,20:30,Flamengo RJ,1-2,1-0,Fluminense RJ
-28,Wed Jan 6 2021,20:30,Red Bull Bragantino,4-2,4-1,São Paulo FC
-28,Wed Jan 6 2021,18:15,Grêmio Porto Alegre,2-1,1-0,Bahia - BA
-28,Wed Jan 6 2021,18:15,Botafogo - RJ,0-2,0-1,Athletico Paranaense
-28,Wed Jan 6 2021,19:30,Sport Recife - PE,1-0,1-0,Fortaleza - CE
-28,Wed Jan 6 2021,19:30,Coritiba - PR,1-2,0-2,Goiás - GO
-28,Thu Jan 7 2021,18:00,Ceará - CE,0-2,0-0,Internacional
-28,Thu Jan 7 2021,20:00,Atlético Goianiense,0-0,0-0,Vasco da Gama - RJ
-29,Sat Jan 9 2021,18:00,Coritiba - PR,0-0,0-0,Athletico Paranaense
-29,Sat Jan 9 2021,20:00,Fortaleza - CE,0-0,0-0,Grêmio Porto Alegre
-29,Sat Jan 9 2021,18:00,Sport Recife - PE,0-1,0-1,Palmeiras
-29,Sun Jan 10 2021,19:30,Vasco da Gama - RJ,3-0,1-0,Botafogo - RJ
-29,Sun Jan 10 2021,17:15,Internacional,1-0,1-0,Goiás - GO
-29,Sun Jan 10 2021,17:15,Atlético Goianiense,1-1,1-0,Bahia - BA
-29,Sun Jan 10 2021,15:00,Flamengo RJ,0-2,0-1,Ceará - CE
-29,Sun Jan 10 2021,15:00,São Paulo FC,0-1,0-0,Santos FC
-29,Mon Jan 11 2021,19:00,Red Bull Bragantino,2-2,1-0,Atlético Mineiro
-29,Wed Jan 13 2021,20:30,Corinthians SP,5-0,1-0,Fluminense RJ
-30,Fri Jan 15 2021,20:30,Palmeiras,1-1,1-0,Grêmio Porto Alegre
-30,Sat Jan 16 2021,18:00,Fluminense RJ,1-0,0-0,Sport Recife - PE
-30,Sat Jan 16 2021,20:00,Vasco da Gama - RJ,0-1,0-1,Coritiba - PR
-30,Sun Jan 17 2021,15:00,Santos FC,2-1,1-1,Botafogo - RJ
-30,Sun Jan 17 2021,19:30,Internacional,4-2,2-1,Fortaleza - CE
-30,Sun Jan 17 2021,19:30,Ceará - CE,1-2,0-0,Red Bull Bragantino
-30,Sun Jan 17 2021,17:15,Atlético Mineiro,3-1,2-0,Atlético Goianiense
-30,Sun Jan 17 2021,15:00,Athletico Paranaense,1-1,1-0,São Paulo FC
-28,Mon Jan 18 2021,18:00,Palmeiras,4-0,2-0,Corinthians SP
-30,Mon Jan 18 2021,19:00,Goiás - GO,0-3,0-1,Flamengo RJ
-31,Wed Jan 20 2021,20:30,Red Bull Bragantino,4-1,1-0,Vasco da Gama - RJ
-31,Wed Jan 20 2021,20:30,São Paulo FC,1-5,1-2,Internacional
-31,Wed Jan 20 2021,19:30,Coritiba - PR,3-3,2-0,Fluminense RJ
-31,Wed Jan 20 2021,18:15,Grêmio Porto Alegre,1-1,0-1,Atlético Mineiro
-31,Wed Jan 20 2021,16:00,Botafogo - RJ,1-3,0-0,Atlético Goianiense
-31,Wed Jan 20 2021,17:00,Bahia - BA,1-0,0-0,Athletico Paranaense
-31,Thu Jan 21 2021,20:00,Corinthians SP,3-0,1-0,Sport Recife - PE
-31,Thu Jan 21 2021,18:00,Fortaleza - CE,2-0,0-0,Santos FC
-31,Thu Jan 21 2021,18:00,Flamengo RJ,2-0,1-0,Palmeiras
-31,Thu Jan 21 2021,18:00,Goiás - GO,0-4,0-2,Ceará - CE
-32,Sat Jan 23 2021,18:00,São Paulo FC,1-1,0-0,Coritiba - PR
-32,Sat Jan 23 2021,20:00,Vasco da Gama - RJ,3-2,2-0,Atlético Mineiro
-32,Sun Jan 24 2021,17:15,Santos FC,3-4,2-0,Goiás - GO
-32,Sun Jan 24 2021,17:15,Atlético Goianiense,2-0,1-0,Fortaleza - CE
-32,Sun Jan 24 2021,17:15,Sport Recife - PE,2-0,0-0,Bahia - BA
-32,Sun Jan 24 2021,19:30,Fluminense RJ,2-0,0-0,Botafogo - RJ
-32,Sun Jan 24 2021,15:00,Athletico Paranaense,2-1,1-1,Flamengo RJ
-32,Sun Jan 24 2021,15:00,Ceará - CE,2-1,2-1,Palmeiras
-32,Sun Jan 24 2021,15:00,Internacional,2-1,0-0,Grêmio Porto Alegre
-32,Mon Jan 25 2021,19:00,Corinthians SP,0-2,0-2,Red Bull Bragantino
-28,Tue Jan 26 2021,19:00,Atlético Mineiro,2-0,2-0,Santos FC
-1,Tue Jan 26 2021,19:00,Palmeiras,1-1,1-1,Vasco da Gama - RJ
-23,Thu Jan 28 2021,19:00,Grêmio Porto Alegre,2-4,1-0,Flamengo RJ
-30,Thu Jan 28 2021,18:00,Bahia - BA,2-1,2-0,Corinthians SP
-33,Sun Jan 31 2021,15:00,Atlético Goianiense,2-1,1-1,São Paulo FC
-33,Sun Jan 31 2021,15:00,Coritiba - PR,1-1,0-1,Grêmio Porto Alegre
-33,Sun Jan 31 2021,15:00,Vasco da Gama - RJ,0-0,0-0,Bahia - BA
-33,Sun Jan 31 2021,15:00,Ceará - CE,0-2,0-0,Athletico Paranaense
-33,Sun Jan 31 2021,16:00,Atlético Mineiro,2-0,0-0,Fortaleza - CE
-33,Sun Jan 31 2021,17:15,Internacional,2-1,1-1,Red Bull Bragantino
-33,Sun Jan 31 2021,19:30,Fluminense RJ,3-0,3-0,Goiás - GO
-33,Mon Feb 1 2021,19:00,Sport Recife - PE,0-3,0-2,Flamengo RJ
-33,Tue Feb 2 2021,15:00,Palmeiras,1-1,1-0,Botafogo - RJ
-34,Wed Feb 3 2021,15:00,Grêmio Porto Alegre,3-3,1-1,Santos FC
-34,Wed Feb 3 2021,18:15,Red Bull Bragantino,2-0,0-0,Atlético Goianiense
-34,Wed Feb 3 2021,20:30,Bahia - BA,0-1,0-1,Fluminense RJ
-34,Wed Feb 3 2021,20:30,Corinthians SP,2-1,2-1,Ceará - CE
-34,Wed Feb 3 2021,20:30,Goiás - GO,1-0,1-0,Atlético Mineiro
-34,Thu Feb 4 2021,20:00,Athletico Paranaense,0-0,0-0,Internacional
-34,Thu Feb 4 2021,17:30,Fortaleza - CE,3-1,2-1,Coritiba - PR
-34,Thu Feb 4 2021,20:00,Flamengo RJ,2-0,1-0,Vasco da Gama - RJ
-34,Fri Feb 5 2021,19:00,Botafogo - RJ,0-1,0-1,Sport Recife - PE
-35,Sat Feb 6 2021,18:00,Bahia - BA,3-3,2-1,Goiás - GO
-35,Sat Feb 6 2021,20:00,Atlético Goianiense,1-1,1-0,Santos FC
-35,Sun Feb 7 2021,19:30,Red Bull Bragantino,1-1,0-1,Flamengo RJ
-35,Mon Feb 8 2021,19:00,Botafogo - RJ,2-5,0-2,Grêmio Porto Alegre
-35,Wed Feb 10 2021,20:30,Fluminense RJ,0-0,0-0,Atlético Mineiro
-35,Wed Feb 10 2021,20:30,Corinthians SP,3-3,2-2,Athletico Paranaense
-35,Wed Feb 10 2021,18:00,Internacional,1-2,1-2,Sport Recife - PE
-35,Wed Feb 10 2021,18:15,Fortaleza - CE,3-0,2-0,Vasco da Gama - RJ
-35,Wed Feb 10 2021,20:00,São Paulo FC,1-1,0-0,Ceará - CE
-36,Sat Feb 13 2021,18:00,Atlético Mineiro,1-1,1-0,Bahia - BA
-36,Sat Feb 13 2021,16:00,Goiás - GO,2-0,1-0,Botafogo - RJ
-36,Sat Feb 13 2021,18:00,Santos FC,2-0,1-0,Coritiba - PR
-36,Sun Feb 14 2021,19:30,Grêmio Porto Alegre,1-2,1-0,São Paulo FC
-36,Sun Feb 14 2021,17:15,Palmeiras,3-0,3-0,Fortaleza - CE
-36,Sun Feb 14 2021,17:15,Athletico Paranaense,2-1,0-0,Atlético Goianiense
-36,Sun Feb 14 2021,15:00,Flamengo RJ,2-1,1-1,Corinthians SP
-36,Sun Feb 14 2021,15:00,Vasco da Gama - RJ,0-2,0-1,Internacional
-36,Mon Feb 15 2021,19:00,Sport Recife - PE,0-0,0-0,Red Bull Bragantino
-36,Mon Feb 15 2021,17:00,Ceará - CE,1-3,0-1,Fluminense RJ
-33,Wed Feb 17 2021,18:00,Santos FC,1-0,0-0,Corinthians SP
-35,Wed Feb 17 2021,18:30,Coritiba - PR,1-0,0-0,Palmeiras
-34,Fri Feb 19 2021,20:30,São Paulo FC,1-1,0-0,Palmeiras
-37,Sat Feb 20 2021,20:00,Fortaleza - CE,0-4,0-1,Bahia - BA
-37,Sat Feb 20 2021,17:30,Coritiba - PR,0-2,0-0,Ceará - CE
-37,Sun Feb 21 2021,15:00,Corinthians SP,0-0,0-0,Vasco da Gama - RJ
-37,Sun Feb 21 2021,15:00,Sport Recife - PE,2-3,1-1,Atlético Mineiro
-37,Sun Feb 21 2021,15:00,Flamengo RJ,2-1,1-1,Internacional
-37,Sun Feb 21 2021,17:15,Santos FC,1-1,0-1,Fluminense RJ
-37,Sun Feb 21 2021,17:15,Grêmio Porto Alegre,1-0,0-0,Athletico Paranaense
-37,Sun Feb 21 2021,19:30,Goiás - GO,0-0,0-0,Red Bull Bragantino
-37,Mon Feb 22 2021,17:00,Palmeiras,1-1,1-1,Atlético Goianiense
-37,Mon Feb 22 2021,19:00,Botafogo - RJ,1-0,0-0,São Paulo FC
-38,Thu Feb 25 2021,20:30,São Paulo FC,2-1,1-0,Flamengo RJ
-38,Thu Feb 25 2021,20:30,Ceará - CE,2-1,1-0,Botafogo - RJ
-38,Thu Feb 25 2021,20:30,Atlético Mineiro,2-0,0-0,Palmeiras
-38,Thu Feb 25 2021,20:30,Bahia - BA,2-0,1-0,Santos FC
-38,Thu Feb 25 2021,20:30,Internacional,0-0,0-0,Corinthians SP
-38,Thu Feb 25 2021,20:30,Red Bull Bragantino,1-0,0-0,Grêmio Porto Alegre
-38,Thu Feb 25 2021,20:30,Athletico Paranaense,2-0,1-0,Sport Recife - PE
-38,Thu Feb 25 2021,20:30,Atlético Goianiense,3-1,3-0,Coritiba - PR
-38,Thu Feb 25 2021,20:30,Fluminense RJ,2-0,1-0,Fortaleza - CE
-38,Thu Feb 25 2021,20:30,Vasco da Gama - RJ,3-2,1-2,Goiás - GO
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 8 2020,19:30,-0300,Coritiba PR,0-1,0-0,Internacional,2020-08-08T22:30Z
+1,Sat Aug 8 2020,21:00,-0300,Sport Recife PE,3-2,3-1,Ceará CE,2020-08-09T00:00Z
+1,Sat Aug 8 2020,19:00,-0300,Fortaleza CE,0-2,0-2,Athletico Paranaense,2020-08-08T22:00Z
+1,Sun Aug 9 2020,16:00,-0300,Santos FC,1-1,0-0,Red Bull Bragantino,2020-08-09T19:00Z
+1,Sun Aug 9 2020,19:00,-0300,Grêmio Porto Alegre,1-0,1-0,Fluminense RJ,2020-08-09T22:00Z
+1,Sun Aug 9 2020,16:00,-0300,Flamengo RJ,0-1,0-1,Atlético Mineiro,2020-08-09T19:00Z
+2,Wed Aug 12 2020,20:30,-0300,Bahia BA,1-0,1-0,Coritiba PR,2020-08-12T23:30Z
+2,Wed Aug 12 2020,21:30,-0300,Ceará CE,1-1,1-0,Grêmio Porto Alegre,2020-08-13T00:30Z
+2,Wed Aug 12 2020,21:30,-0300,Fluminense RJ,1-1,1-1,Palmeiras,2020-08-13T00:30Z
+2,Wed Aug 12 2020,19:15,-0300,Athletico Paranaense,2-1,1-1,Goiás GO,2020-08-12T22:15Z
+2,Wed Aug 12 2020,19:15,-0300,Red Bull Bragantino,1-1,1-0,Botafogo RJ,2020-08-12T22:15Z
+2,Wed Aug 12 2020,19:15,-0300,Atlético Mineiro,3-2,0-2,Corinthians SP,2020-08-12T22:15Z
+2,Wed Aug 12 2020,20:30,-0300,Atlético Goianiense,3-0,2-0,Flamengo RJ,2020-08-12T23:30Z
+2,Thu Aug 13 2020,19:15,-0300,São Paulo FC,1-0,1-0,Fortaleza CE,2020-08-13T22:15Z
+2,Thu Aug 13 2020,20:00,-0300,Vasco da Gama RJ,2-0,2-0,Sport Recife PE,2020-08-13T23:00Z
+2,Thu Aug 13 2020,19:30,-0300,Internacional,2-0,0-0,Santos FC,2020-08-13T22:30Z
+3,Sat Aug 15 2020,21:30,-0300,Palmeiras,1-1,1-1,Goiás GO,2020-08-16T00:30Z
+3,Sat Aug 15 2020,19:30,-0300,Coritiba PR,0-1,0-1,Flamengo RJ,2020-08-15T22:30Z
+3,Sat Aug 15 2020,19:00,-0300,Grêmio Porto Alegre,0-0,0-0,Corinthians SP,2020-08-15T22:00Z
+3,Sun Aug 16 2020,19:45,-0300,Santos FC,3-1,2-0,Athletico Paranaense,2020-08-16T22:45Z
+3,Sun Aug 16 2020,19:00,-0300,Atlético Goianiense,1-1,1-0,Sport Recife PE,2020-08-16T22:00Z
+3,Sun Aug 16 2020,18:00,-0300,Fluminense RJ,2-1,1-1,Internacional,2020-08-16T21:00Z
+3,Sun Aug 16 2020,16:00,-0300,Bahia BA,2-1,1-0,Red Bull Bragantino,2020-08-16T19:00Z
+3,Sun Aug 16 2020,11:00,-0300,Atlético Mineiro,2-0,0-0,Ceará CE,2020-08-16T14:00Z
+3,Sun Aug 16 2020,16:00,-0300,Vasco da Gama RJ,2-1,0-0,São Paulo FC,2020-08-16T19:00Z
+3,Sun Aug 16 2020,19:30,-0300,Fortaleza CE,0-0,0-0,Botafogo RJ,2020-08-16T22:30Z
+4,Wed Aug 19 2020,21:30,-0300,Corinthians SP,3-1,1-1,Coritiba PR,2020-08-20T00:30Z
+4,Wed Aug 19 2020,21:30,-0300,Botafogo RJ,2-1,1-0,Atlético Mineiro,2020-08-20T00:30Z
+4,Wed Aug 19 2020,20:30,-0300,Goiás GO,1-3,0-1,Fortaleza CE,2020-08-19T23:30Z
+4,Wed Aug 19 2020,19:15,-0300,Red Bull Bragantino,2-1,1-1,Fluminense RJ,2020-08-19T22:15Z
+4,Wed Aug 19 2020,19:15,-0300,Flamengo RJ,1-1,0-1,Grêmio Porto Alegre,2020-08-19T22:15Z
+4,Wed Aug 19 2020,20:30,-0300,Internacional,3-0,0-0,Atlético Goianiense,2020-08-19T23:30Z
+4,Wed Aug 19 2020,19:30,-0300,Athletico Paranaense,0-1,0-0,Palmeiras,2020-08-19T22:30Z
+4,Thu Aug 20 2020,20:00,-0300,Ceará CE,0-3,0-0,Vasco da Gama RJ,2020-08-20T23:00Z
+4,Thu Aug 20 2020,19:15,-0300,Sport Recife PE,0-1,0-0,Santos FC,2020-08-20T22:15Z
+4,Thu Aug 20 2020,20:00,-0300,São Paulo FC,1-1,0-1,Bahia BA,2020-08-20T23:00Z
+5,Sat Aug 22 2020,19:00,-0300,Internacional,1-0,1-0,Atlético Mineiro,2020-08-22T22:00Z
+5,Sat Aug 22 2020,16:00,-0300,Athletico Paranaense,0-1,0-1,Fluminense RJ,2020-08-22T19:00Z
+5,Sat Aug 22 2020,21:00,-0300,Goiás GO,2-0,1-0,Atlético Goianiense,2020-08-23T00:00Z
+5,Sun Aug 23 2020,19:00,-0300,Sport Recife PE,0-1,0-1,São Paulo FC,2020-08-23T22:00Z
+5,Sun Aug 23 2020,16:00,-0300,Red Bull Bragantino,1-2,1-1,Coritiba PR,2020-08-23T19:00Z
+5,Sun Aug 23 2020,16:00,-0300,Palmeiras,2-1,1-0,Santos FC,2020-08-23T19:00Z
+5,Sun Aug 23 2020,20:00,-0300,Ceará CE,2-0,1-0,Bahia BA,2020-08-23T23:00Z
+5,Sun Aug 23 2020,11:00,-0300,Flamengo RJ,1-1,0-0,Botafogo RJ,2020-08-23T14:00Z
+5,Sun Aug 23 2020,16:00,-0300,Vasco da Gama RJ,0-0,0-0,Grêmio Porto Alegre,2020-08-23T19:00Z
+11,Wed Aug 26 2020,19:00,-0300,São Paulo FC,1-0,0-0,Athletico Paranaense,2020-08-26T22:00Z
+5,Wed Aug 26 2020,21:30,-0300,Corinthians SP,1-1,0-0,Fortaleza CE,2020-08-27T00:30Z
+6,Sat Aug 29 2020,17:00,-0300,Botafogo RJ,0-2,0-2,Internacional,2020-08-29T20:00Z
+6,Sat Aug 29 2020,19:00,-0300,Bahia BA,1-1,0-0,Palmeiras,2020-08-29T22:00Z
+6,Sat Aug 29 2020,19:00,-0300,Fluminense RJ,2-1,1-0,Vasco da Gama RJ,2020-08-29T22:00Z
+6,Sat Aug 29 2020,21:00,-0300,Fortaleza CE,3-0,1-0,Red Bull Bragantino,2020-08-30T00:00Z
+6,Sun Aug 30 2020,16:00,-0300,Coritiba PR,1-0,0-0,Sport Recife PE,2020-08-30T19:00Z
+6,Sun Aug 30 2020,16:00,-0300,Santos FC,0-1,0-1,Flamengo RJ,2020-08-30T19:00Z
+6,Sun Aug 30 2020,11:00,-0300,São Paulo FC,2-1,1-1,Corinthians SP,2020-08-30T14:00Z
+6,Sun Aug 30 2020,18:00,-0300,Atlético Goianiense,0-2,0-0,Ceará CE,2020-08-30T21:00Z
+7,Wed Sep 2 2020,20:30,-0300,Botafogo RJ,0-0,0-0,Coritiba PR,2020-09-02T23:30Z
+7,Wed Sep 2 2020,21:30,-0300,Palmeiras,1-1,0-0,Internacional,2020-09-03T00:30Z
+7,Wed Sep 2 2020,21:30,-0300,Santos FC,2-2,1-1,Vasco da Gama RJ,2020-09-03T00:30Z
+7,Wed Sep 2 2020,19:15,-0300,Goiás GO,1-2,0-1,Corinthians SP,2020-09-02T22:15Z
+7,Wed Sep 2 2020,20:30,-0300,Athletico Paranaense,1-1,1-1,Red Bull Bragantino,2020-09-02T23:30Z
+7,Wed Sep 2 2020,19:00,-0300,Ceará CE,1-0,1-0,Fortaleza CE,2020-09-02T22:00Z
+7,Wed Sep 2 2020,19:15,-0300,Fluminense RJ,1-1,1-0,Atlético Goianiense,2020-09-02T22:15Z
+7,Wed Sep 2 2020,20:30,-0300,Bahia BA,3-5,2-3,Flamengo RJ,2020-09-02T23:30Z
+7,Thu Sep 3 2020,20:00,-0300,Atlético Mineiro,3-0,2-0,São Paulo FC,2020-09-03T23:00Z
+7,Thu Sep 3 2020,19:00,-0300,Grêmio Porto Alegre,1-2,0-1,Sport Recife PE,2020-09-03T22:00Z
+8,Sat Sep 5 2020,19:00,-0300,Corinthians SP,2-2,1-1,Botafogo RJ,2020-09-05T22:00Z
+8,Sat Sep 5 2020,17:00,-0300,Flamengo RJ,2-1,1-1,Fortaleza CE,2020-09-05T20:00Z
+8,Sat Sep 5 2020,21:00,-0300,Ceará CE,0-1,0-1,Santos FC,2020-09-06T00:00Z
+8,Sun Sep 6 2020,16:00,-0300,Internacional,2-2,1-1,Bahia BA,2020-09-06T19:00Z
+8,Sun Sep 6 2020,19:00,-0300,Atlético Goianiense,1-1,1-1,Grêmio Porto Alegre,2020-09-06T22:00Z
+8,Sun Sep 6 2020,20:30,-0300,Sport Recife PE,2-1,0-0,Goiás GO,2020-09-06T23:30Z
+8,Sun Sep 6 2020,20:30,-0300,Coritiba PR,0-1,0-1,Atlético Mineiro,2020-09-06T23:30Z
+8,Sun Sep 6 2020,18:00,-0300,Vasco da Gama RJ,1-0,1-0,Athletico Paranaense,2020-09-06T21:00Z
+8,Sun Sep 6 2020,11:00,-0300,Red Bull Bragantino,1-2,0-0,Palmeiras,2020-09-06T14:00Z
+8,Sun Sep 6 2020,16:00,-0300,São Paulo FC,3-1,0-1,Fluminense RJ,2020-09-06T19:00Z
+9,Wed Sep 9 2020,21:30,-0300,Fluminense RJ,1-2,0-2,Flamengo RJ,2020-09-10T00:30Z
+9,Wed Sep 9 2020,18:00,-0300,Goiás GO,3-3,1-2,Coritiba PR,2020-09-09T21:00Z
+9,Wed Sep 9 2020,21:30,-0300,Santos FC,3-1,2-1,Atlético Mineiro,2020-09-10T00:30Z
+9,Wed Sep 9 2020,18:00,-0300,Fortaleza CE,1-0,0-0,Sport Recife PE,2020-09-09T21:00Z
+9,Wed Sep 9 2020,19:15,-0300,São Paulo FC,1-1,0-0,Red Bull Bragantino,2020-09-09T22:15Z
+9,Wed Sep 9 2020,17:30,-0300,Athletico Paranaense,1-1,0-0,Botafogo RJ,2020-09-09T20:30Z
+9,Thu Sep 10 2020,19:15,-0300,Internacional,2-0,1-0,Ceará CE,2020-09-10T22:15Z
+9,Thu Sep 10 2020,19:15,-0300,Bahia BA,0-2,0-1,Grêmio Porto Alegre,2020-09-10T22:15Z
+9,Thu Sep 10 2020,21:00,-0300,Vasco da Gama RJ,1-2,0-0,Atlético Goianiense,2020-09-11T00:00Z
+9,Thu Sep 10 2020,19:15,-0300,Corinthians SP,0-2,0-1,Palmeiras,2020-09-10T22:15Z
+10,Sat Sep 12 2020,19:00,-0300,Santos FC,2-2,1-2,São Paulo FC,2020-09-12T22:00Z
+10,Sat Sep 12 2020,16:30,-0300,Athletico Paranaense,1-0,1-0,Coritiba PR,2020-09-12T19:30Z
+10,Sun Sep 13 2020,18:00,-0300,Ceará CE,2-0,0-0,Flamengo RJ,2020-09-13T21:00Z
+10,Sun Sep 13 2020,20:30,-0300,Botafogo RJ,2-3,0-1,Vasco da Gama RJ,2020-09-13T23:30Z
+10,Sun Sep 13 2020,19:45,-0300,Palmeiras,2-2,2-1,Sport Recife PE,2020-09-13T22:45Z
+10,Sun Sep 13 2020,18:00,-0300,Goiás GO,1-0,1-0,Internacional,2020-09-13T21:00Z
+10,Sun Sep 13 2020,18:00,-0300,Bahia BA,0-1,0-1,Atlético Goianiense,2020-09-13T21:00Z
+10,Sun Sep 13 2020,16:00,-0300,Fluminense RJ,2-1,1-0,Corinthians SP,2020-09-13T19:00Z
+10,Sun Sep 13 2020,16:00,-0300,Grêmio Porto Alegre,1-1,0-1,Fortaleza CE,2020-09-13T19:00Z
+10,Sun Sep 13 2020,18:00,-0300,Atlético Mineiro,2-1,1-0,Red Bull Bragantino,2020-09-13T21:00Z
+11,Wed Sep 16 2020,21:30,-0300,Corinthians SP,3-2,2-1,Bahia BA,2020-09-17T00:30Z
+11,Sat Sep 19 2020,19:00,-0300,Red Bull Bragantino,4-2,3-1,Ceará CE,2020-09-19T22:00Z
+11,Sat Sep 19 2020,21:00,-0300,Atlético Goianiense,3-4,1-0,Atlético Mineiro,2020-09-20T00:00Z
+11,Sat Sep 19 2020,19:00,-0300,Fortaleza CE,1-0,0-0,Internacional,2020-09-19T22:00Z
+11,Sun Sep 20 2020,16:00,-0300,Grêmio Porto Alegre,1-1,0-0,Palmeiras,2020-09-20T19:00Z
+11,Sun Sep 20 2020,16:00,-0300,Coritiba PR,1-0,0-0,Vasco da Gama RJ,2020-09-20T19:00Z
+11,Sun Sep 20 2020,18:15,-0300,Botafogo RJ,0-0,0-0,Santos FC,2020-09-20T21:15Z
+11,Sun Sep 20 2020,20:30,-0300,Sport Recife PE,1-0,1-0,Fluminense RJ,2020-09-20T23:30Z
+12,Wed Sep 23 2020,21:30,-0300,Sport Recife PE,1-0,1-0,Corinthians SP,2020-09-24T00:30Z
+12,Sat Sep 26 2020,21:00,-0300,Atlético Mineiro,3-1,1-0,Grêmio Porto Alegre,2020-09-27T00:00Z
+12,Sat Sep 26 2020,19:00,-0300,Athletico Paranaense,1-0,0-0,Bahia BA,2020-09-26T22:00Z
+12,Sat Sep 26 2020,19:00,-0300,Internacional,1-1,1-1,São Paulo FC,2020-09-26T22:00Z
+12,Sun Sep 27 2020,18:15,-0300,Ceará CE,2-2,0-1,Goiás GO,2020-09-27T21:15Z
+12,Sun Sep 27 2020,18:15,-0300,Atlético Goianiense,1-1,0-1,Botafogo RJ,2020-09-27T21:15Z
+12,Sun Sep 27 2020,20:30,-0300,Santos FC,1-1,1-0,Fortaleza CE,2020-09-27T23:30Z
+12,Sun Sep 27 2020,16:00,-0300,Palmeiras,1-1,0-0,Flamengo RJ,2020-09-27T19:00Z
+12,Sun Sep 27 2020,11:00,-0300,Vasco da Gama RJ,1-1,0-0,Red Bull Bragantino,2020-09-27T14:00Z
+12,Mon Sep 28 2020,20:00,-0300,Fluminense RJ,4-0,1-0,Coritiba PR,2020-09-28T23:00Z
+1,Wed Sep 30 2020,21:30,-0300,Corinthians SP,0-0,0-0,Atlético Goianiense,2020-10-01T00:30Z
+1,Wed Sep 30 2020,21:30,-0300,Botafogo RJ,1-2,0-1,Bahia BA,2020-10-01T00:30Z
+13,Sat Oct 3 2020,17:00,-0300,Grêmio Porto Alegre,1-1,0-0,Internacional,2020-10-03T20:00Z
+13,Sat Oct 3 2020,19:00,-0300,Palmeiras,2-1,1-1,Ceará CE,2020-10-03T22:00Z
+13,Sat Oct 3 2020,21:00,-0300,Red Bull Bragantino,0-0,0-0,Corinthians SP,2020-10-04T00:00Z
+13,Sun Oct 4 2020,18:15,-0300,Fortaleza CE,0-0,0-0,Atlético Goianiense,2020-10-04T21:15Z
+13,Sun Oct 4 2020,18:15,-0300,Goiás GO,2-3,1-1,Santos FC,2020-10-04T21:15Z
+13,Sun Oct 4 2020,20:30,-0300,Atlético Mineiro,4-1,4-1,Vasco da Gama RJ,2020-10-04T23:30Z
+13,Sun Oct 4 2020,18:15,-0300,Bahia BA,1-2,0-1,Sport Recife PE,2020-10-04T21:15Z
+13,Sun Oct 4 2020,16:00,-0300,Coritiba PR,1-1,1-0,São Paulo FC,2020-10-04T19:00Z
+13,Sun Oct 4 2020,11:00,-0300,Botafogo RJ,1-1,0-1,Fluminense RJ,2020-10-04T14:00Z
+13,Sun Oct 4 2020,16:00,-0300,Flamengo RJ,3-1,0-0,Athletico Paranaense,2020-10-04T19:00Z
+14,Wed Oct 7 2020,21:30,-0300,Botafogo RJ,2-1,0-0,Palmeiras,2020-10-08T00:30Z
+14,Wed Oct 7 2020,20:30,-0300,Goiás GO,2-4,1-1,Fluminense RJ,2020-10-07T23:30Z
+14,Wed Oct 7 2020,20:30,-0300,São Paulo FC,3-0,1-0,Atlético Goianiense,2020-10-07T23:30Z
+14,Wed Oct 7 2020,19:15,-0300,Bahia BA,3-0,3-0,Vasco da Gama RJ,2020-10-07T22:15Z
+14,Wed Oct 7 2020,21:30,-0300,Fortaleza CE,2-1,1-1,Atlético Mineiro,2020-10-08T00:30Z
+14,Wed Oct 7 2020,19:00,-0300,Corinthians SP,1-1,1-1,Santos FC,2020-10-07T22:00Z
+14,Wed Oct 7 2020,19:15,-0300,Flamengo RJ,3-0,0-0,Sport Recife PE,2020-10-07T22:15Z
+14,Wed Oct 7 2020,19:15,-0300,Grêmio Porto Alegre,2-1,2-0,Coritiba PR,2020-10-07T22:15Z
+14,Thu Oct 8 2020,19:00,-0300,Athletico Paranaense,0-0,0-0,Ceará CE,2020-10-08T22:00Z
+14,Thu Oct 8 2020,21:00,-0300,Red Bull Bragantino,0-2,0-2,Internacional,2020-10-09T00:00Z
+15,Sat Oct 10 2020,17:00,-0300,Vasco da Gama RJ,1-2,1-0,Flamengo RJ,2020-10-10T20:00Z
+15,Sat Oct 10 2020,21:00,-0300,Atlético Mineiro,3-0,2-0,Goiás GO,2020-10-11T00:00Z
+15,Sat Oct 10 2020,19:00,-0300,Coritiba PR,0-0,0-0,Fortaleza CE,2020-10-10T22:00Z
+15,Sat Oct 10 2020,19:00,-0300,Palmeiras,0-2,0-0,São Paulo FC,2020-10-10T22:00Z
+15,Sun Oct 11 2020,16:00,-0300,Fluminense RJ,1-0,0-0,Bahia BA,2020-10-11T19:00Z
+15,Sun Oct 11 2020,20:30,-0300,Internacional,2-1,2-1,Athletico Paranaense,2020-10-11T23:30Z
+15,Sun Oct 11 2020,18:15,-0300,Atlético Goianiense,2-1,1-1,Red Bull Bragantino,2020-10-11T21:15Z
+15,Sun Oct 11 2020,18:15,-0300,Sport Recife PE,1-2,0-2,Botafogo RJ,2020-10-11T21:15Z
+15,Sun Oct 11 2020,16:00,-0300,Santos FC,2-1,1-0,Grêmio Porto Alegre,2020-10-11T19:00Z
+15,Sun Oct 11 2020,20:30,-0300,Ceará CE,2-1,1-1,Corinthians SP,2020-10-11T23:30Z
+11,Tue Oct 13 2020,18:00,-0300,Flamengo RJ,2-1,1-1,Goiás GO,2020-10-13T21:00Z
+16,Wed Oct 14 2020,21:30,-0300,Sport Recife PE,3-5,1-2,Internacional,2020-10-15T00:30Z
+16,Wed Oct 14 2020,21:30,-0300,Athletico Paranaense,0-1,0-0,Corinthians SP,2020-10-15T00:30Z
+16,Wed Oct 14 2020,21:30,-0300,Atlético Mineiro,1-1,0-1,Fluminense RJ,2020-10-15T00:30Z
+16,Wed Oct 14 2020,20:30,-0300,Santos FC,0-1,0-0,Atlético Goianiense,2020-10-14T23:30Z
+16,Wed Oct 14 2020,18:00,-0300,Palmeiras,1-3,1-2,Coritiba PR,2020-10-14T21:00Z
+16,Wed Oct 14 2020,19:15,-0300,Grêmio Porto Alegre,3-1,1-1,Botafogo RJ,2020-10-14T22:15Z
+16,Thu Oct 15 2020,20:00,-0300,Flamengo RJ,1-1,0-0,Red Bull Bragantino,2020-10-15T23:00Z
+16,Fri Oct 16 2020,20:00,-0300,Goiás GO,1-1,0-0,Bahia BA,2020-10-16T23:00Z
+17,Sat Oct 17 2020,21:00,-0300,São Paulo FC,0-0,0-0,Grêmio Porto Alegre,2020-10-18T00:00Z
+17,Sat Oct 17 2020,19:00,-0300,Atlético Goianiense,1-1,1-0,Athletico Paranaense,2020-10-17T22:00Z
+17,Sat Oct 17 2020,19:00,-0300,Fluminense RJ,2-2,1-1,Ceará CE,2020-10-17T22:00Z
+17,Sat Oct 17 2020,19:00,-0300,Coritiba PR,1-2,0-2,Santos FC,2020-10-17T22:00Z
+17,Sun Oct 18 2020,20:30,-0300,Red Bull Bragantino,2-0,0-0,Sport Recife PE,2020-10-18T23:30Z
+17,Sun Oct 18 2020,18:15,-0300,Internacional,2-0,2-0,Vasco da Gama RJ,2020-10-18T21:15Z
+17,Sun Oct 18 2020,20:30,-0300,Fortaleza CE,2-0,2-0,Palmeiras,2020-10-18T23:30Z
+17,Sun Oct 18 2020,16:00,-0300,Corinthians SP,1-5,0-1,Flamengo RJ,2020-10-18T19:00Z
+17,Mon Oct 19 2020,20:00,-0300,Botafogo RJ,0-0,0-0,Goiás GO,2020-10-19T23:00Z
+17,Mon Oct 19 2020,20:00,-0300,Bahia BA,3-1,0-1,Atlético Mineiro,2020-10-19T23:00Z
+18,Wed Oct 21 2020,21:30,-0300,Vasco da Gama RJ,1-2,0-1,Corinthians SP,2020-10-22T00:30Z
+18,Sat Oct 24 2020,19:00,-0300,Ceará CE,2-1,1-1,Coritiba PR,2020-10-24T22:00Z
+18,Sat Oct 24 2020,21:00,-0300,Atlético Mineiro,0-0,0-0,Sport Recife PE,2020-10-25T00:00Z
+18,Sat Oct 24 2020,17:00,-0300,Red Bull Bragantino,2-0,1-0,Goiás GO,2020-10-24T20:00Z
+18,Sun Oct 25 2020,16:00,-0300,Atlético Goianiense,0-3,0-1,Palmeiras,2020-10-25T19:00Z
+18,Sun Oct 25 2020,16:00,-0300,Fluminense RJ,3-1,1-1,Santos FC,2020-10-25T19:00Z
+18,Sun Oct 25 2020,18:15,-0300,Internacional,2-2,2-1,Flamengo RJ,2020-10-25T21:15Z
+18,Sun Oct 25 2020,18:15,-0300,Athletico Paranaense,1-2,1-0,Grêmio Porto Alegre,2020-10-25T21:15Z
+19,Sat Oct 31 2020,21:00,-0300,Fortaleza CE,0-1,0-0,Fluminense RJ,2020-11-01T00:00Z
+19,Sat Oct 31 2020,19:00,-0300,Coritiba PR,1-0,1-0,Atlético Goianiense,2020-10-31T22:00Z
+19,Sat Oct 31 2020,19:00,-0300,Corinthians SP,1-0,1-0,Internacional,2020-10-31T22:00Z
+19,Sat Oct 31 2020,17:00,-0300,Botafogo RJ,2-2,2-1,Ceará CE,2020-10-31T20:00Z
+19,Sun Nov 1 2020,16:00,-0300,Flamengo RJ,1-4,1-2,São Paulo FC,2020-11-01T19:00Z
+19,Sun Nov 1 2020,20:30,-0300,Goiás GO,1-1,0-1,Vasco da Gama RJ,2020-11-01T23:30Z
+19,Sun Nov 1 2020,18:15,-0300,Santos FC,3-1,3-1,Bahia BA,2020-11-01T21:15Z
+19,Sun Nov 1 2020,16:00,-0300,Sport Recife PE,1-0,0-0,Athletico Paranaense,2020-11-01T19:00Z
+19,Mon Nov 2 2020,20:00,-0300,Grêmio Porto Alegre,2-1,0-0,Red Bull Bragantino,2020-11-02T23:00Z
+19,Mon Nov 2 2020,17:00,-0300,Palmeiras,3-0,1-0,Atlético Mineiro,2020-11-02T20:00Z
+20,Sat Nov 7 2020,18:00,-0300,Athletico Paranaense,2-1,0-1,Fortaleza CE,2020-11-07T21:00Z
+20,Sat Nov 7 2020,19:00,-0300,São Paulo FC,2-1,1-1,Goiás GO,2020-11-07T22:00Z
+20,Sat Nov 7 2020,21:00,-0300,Atlético Goianiense,1-1,1-0,Corinthians SP,2020-11-08T00:00Z
+20,Sun Nov 8 2020,18:15,-0300,Bahia BA,1-0,0-0,Botafogo RJ,2020-11-08T21:15Z
+20,Sun Nov 8 2020,20:30,-0300,Fluminense RJ,0-1,0-1,Grêmio Porto Alegre,2020-11-08T23:30Z
+20,Sun Nov 8 2020,18:15,-0300,Red Bull Bragantino,1-1,0-0,Santos FC,2020-11-08T21:15Z
+20,Sun Nov 8 2020,18:15,-0300,Atlético Mineiro,4-0,2-0,Flamengo RJ,2020-11-08T21:15Z
+20,Sun Nov 8 2020,16:00,-0300,Internacional,2-2,1-0,Coritiba PR,2020-11-08T19:00Z
+20,Sun Nov 8 2020,16:00,-0300,Vasco da Gama RJ,0-1,0-0,Palmeiras,2020-11-08T19:00Z
+20,Sun Nov 8 2020,20:30,-0300,Ceará CE,0-0,0-0,Sport Recife PE,2020-11-08T23:30Z
+18,Wed Nov 11 2020,18:45,-0300,Bahia BA,2-1,1-0,Fortaleza CE,2020-11-11T21:45Z
+21,Sat Nov 14 2020,19:00,-0300,Corinthians SP,1-2,1-0,Atlético Mineiro,2020-11-14T22:00Z
+21,Sat Nov 14 2020,19:00,-0300,Grêmio Porto Alegre,4-2,3-1,Ceará CE,2020-11-14T22:00Z
+21,Sat Nov 14 2020,21:30,-0300,Flamengo RJ,1-1,1-0,Atlético Goianiense,2020-11-15T00:30Z
+21,Sat Nov 14 2020,21:30,-0300,Palmeiras,2-0,0-0,Fluminense RJ,2020-11-15T00:30Z
+21,Sat Nov 14 2020,19:00,-0300,Fortaleza CE,2-3,1-1,São Paulo FC,2020-11-14T22:00Z
+21,Sat Nov 14 2020,16:30,-0300,Santos FC,2-0,0-0,Internacional,2020-11-14T19:30Z
+21,Sat Nov 14 2020,17:00,-0300,Goiás GO,0-1,0-1,Athletico Paranaense,2020-11-14T20:00Z
+21,Sat Nov 14 2020,16:30,-0300,Sport Recife PE,0-2,0-1,Vasco da Gama RJ,2020-11-14T19:30Z
+21,Mon Nov 16 2020,18:00,-0300,Coritiba PR,1-2,1-1,Bahia BA,2020-11-16T21:00Z
+21,Mon Nov 16 2020,20:00,-0300,Botafogo RJ,1-2,1-1,Red Bull Bragantino,2020-11-16T23:00Z
+6,Wed Nov 18 2020,19:00,-0300,Atlético Mineiro,0-2,0-2,Athletico Paranaense,2020-11-18T22:00Z
+16,Thu Nov 19 2020,19:00,-0300,Vasco da Gama RJ,0-0,0-0,Fortaleza CE,2020-11-19T22:00Z
+22,Fri Nov 20 2020,20:00,-0300,Red Bull Bragantino,4-0,3-0,Bahia BA,2020-11-20T23:00Z
+22,Sat Nov 21 2020,21:00,-0300,Goiás GO,1-0,0-0,Palmeiras,2020-11-22T00:00Z
+22,Sat Nov 21 2020,19:00,-0300,Flamengo RJ,3-1,2-0,Coritiba PR,2020-11-21T22:00Z
+22,Sat Nov 21 2020,19:00,-0300,Athletico Paranaense,1-0,0-0,Santos FC,2020-11-21T22:00Z
+22,Sun Nov 22 2020,20:30,-0300,Corinthians SP,0-0,0-0,Grêmio Porto Alegre,2020-11-22T23:30Z
+22,Sun Nov 22 2020,18:15,-0300,Internacional,1-2,1-0,Fluminense RJ,2020-11-22T21:15Z
+22,Sun Nov 22 2020,16:00,-0300,Ceará CE,2-2,0-1,Atlético Mineiro,2020-11-22T19:00Z
+22,Sun Nov 22 2020,16:00,-0300,São Paulo FC,1-1,1-1,Vasco da Gama RJ,2020-11-22T19:00Z
+22,Sun Nov 22 2020,18:15,-0300,Botafogo RJ,1-2,0-0,Fortaleza CE,2020-11-22T21:15Z
+22,Mon Nov 23 2020,20:00,-0300,Sport Recife PE,0-1,0-0,Atlético Goianiense,2020-11-23T23:00Z
+23,Wed Nov 25 2020,21:30,-0300,Coritiba PR,0-1,0-1,Corinthians SP,2020-11-26T00:30Z
+16,Wed Nov 25 2020,19:15,-0300,Ceará CE,1-1,0-1,São Paulo FC,2020-11-25T22:15Z
+23,Wed Nov 25 2020,21:30,-0300,Atlético Mineiro,2-1,1-0,Botafogo RJ,2020-11-26T00:30Z
+23,Thu Nov 26 2020,20:00,-0300,Fortaleza CE,1-1,0-1,Goiás GO,2020-11-26T23:00Z
+23,Sat Nov 28 2020,19:00,-0300,Bahia BA,1-3,0-0,São Paulo FC,2020-11-28T22:00Z
+23,Sat Nov 28 2020,17:00,-0300,Palmeiras,3-0,2-0,Athletico Paranaense,2020-11-28T20:00Z
+23,Sat Nov 28 2020,17:00,-0300,Santos FC,4-2,2-2,Sport Recife PE,2020-11-28T20:00Z
+23,Sat Nov 28 2020,21:00,-0300,Atlético Goianiense,0-0,0-0,Internacional,2020-11-29T00:00Z
+6,Mon Nov 30 2020,18:00,-0300,Grêmio Porto Alegre,2-1,1-0,Goiás GO,2020-11-30T21:00Z
+23,Mon Nov 30 2020,18:00,-0300,Vasco da Gama RJ,1-4,0-2,Ceará CE,2020-11-30T21:00Z
+23,Mon Nov 30 2020,20:00,-0300,Fluminense RJ,0-0,0-0,Red Bull Bragantino,2020-11-30T23:00Z
+24,Wed Dec 2 2020,21:30,-0300,Fortaleza CE,0-0,0-0,Corinthians SP,2020-12-03T00:30Z
+1,Thu Dec 3 2020,19:00,-0300,Goiás GO,0-3,0-1,São Paulo FC,2020-12-03T22:00Z
+24,Sat Dec 5 2020,19:00,-0300,Bahia BA,0-2,0-0,Ceará CE,2020-12-05T22:00Z
+24,Sat Dec 5 2020,21:00,-0300,Coritiba PR,0-0,0-0,Red Bull Bragantino,2020-12-06T00:00Z
+24,Sat Dec 5 2020,17:00,-0300,Botafogo RJ,0-1,0-0,Flamengo RJ,2020-12-05T20:00Z
+24,Sat Dec 5 2020,19:00,-0300,Fluminense RJ,3-1,1-1,Athletico Paranaense,2020-12-05T22:00Z
+24,Sat Dec 5 2020,17:00,-0300,Santos FC,2-2,1-0,Palmeiras,2020-12-05T20:00Z
+24,Sun Dec 6 2020,18:15,-0300,Atlético Mineiro,2-2,1-1,Internacional,2020-12-06T21:15Z
+24,Sun Dec 6 2020,16:00,-0300,Grêmio Porto Alegre,4-0,1-0,Vasco da Gama RJ,2020-12-06T19:00Z
+24,Sun Dec 6 2020,16:00,-0300,São Paulo FC,1-0,1-0,Sport Recife PE,2020-12-06T19:00Z
+24,Mon Dec 7 2020,20:00,-0300,Atlético Goianiense,0-1,0-1,Goiás GO,2020-12-07T23:00Z
+18,Wed Dec 9 2020,21:30,-0300,São Paulo FC,4-0,3-0,Botafogo RJ,2020-12-10T00:30Z
+25,Sat Dec 12 2020,21:00,-0300,Goiás GO,0-0,0-0,Grêmio Porto Alegre,2020-12-13T00:00Z
+25,Sat Dec 12 2020,17:00,-0300,Athletico Paranaense,0-1,0-1,Atlético Mineiro,2020-12-12T20:00Z
+25,Sat Dec 12 2020,17:00,-0300,Red Bull Bragantino,2-1,1-1,Fortaleza CE,2020-12-12T20:00Z
+25,Sat Dec 12 2020,19:00,-0300,Internacional,2-1,1-1,Botafogo RJ,2020-12-12T22:00Z
+25,Sat Dec 12 2020,19:00,-0300,Palmeiras,3-0,3-0,Bahia BA,2020-12-12T22:00Z
+25,Sat Dec 12 2020,21:00,-0300,Ceará CE,1-2,0-0,Atlético Goianiense,2020-12-13T00:00Z
+25,Sun Dec 13 2020,20:30,-0300,Vasco da Gama RJ,1-1,0-1,Fluminense RJ,2020-12-13T23:30Z
+25,Sun Dec 13 2020,16:00,-0300,Flamengo RJ,4-1,1-0,Santos FC,2020-12-13T19:00Z
+25,Sun Dec 13 2020,18:15,-0300,Sport Recife PE,1-0,1-0,Coritiba PR,2020-12-13T21:15Z
+25,Sun Dec 13 2020,18:15,-0300,Corinthians SP,1-0,1-0,São Paulo FC,2020-12-13T21:15Z
+26,Wed Dec 16 2020,21:30,-0300,Atlético Goianiense,2-1,1-0,Fluminense RJ,2020-12-17T00:30Z
+26,Wed Dec 16 2020,21:30,-0300,São Paulo FC,3-0,1-0,Atlético Mineiro,2020-12-17T00:30Z
+26,Sat Dec 19 2020,21:00,-0300,Coritiba PR,1-2,1-0,Botafogo RJ,2020-12-20T00:00Z
+26,Sat Dec 19 2020,21:00,-0300,Internacional,2-0,1-0,Palmeiras,2020-12-20T00:00Z
+26,Sat Dec 19 2020,19:00,-0300,Sport Recife PE,1-1,1-0,Grêmio Porto Alegre,2020-12-19T22:00Z
+26,Sun Dec 20 2020,20:30,-0300,Fortaleza CE,0-2,0-0,Ceará CE,2020-12-20T23:30Z
+26,Sun Dec 20 2020,18:15,-0300,Flamengo RJ,4-3,2-0,Bahia BA,2020-12-20T21:15Z
+26,Sun Dec 20 2020,16:00,-0300,Vasco da Gama RJ,1-0,1-0,Santos FC,2020-12-20T19:00Z
+26,Sun Dec 20 2020,16:00,-0300,Red Bull Bragantino,0-1,0-1,Athletico Paranaense,2020-12-20T19:00Z
+26,Mon Dec 21 2020,20:00,-0300,Corinthians SP,2-1,1-1,Goiás GO,2020-12-21T23:00Z
+27,Sat Dec 26 2020,19:00,-0300,Goiás GO,1-0,1-0,Sport Recife PE,2020-12-26T22:00Z
+27,Sat Dec 26 2020,17:00,-0300,Atlético Mineiro,2-0,0-0,Coritiba PR,2020-12-26T20:00Z
+27,Sat Dec 26 2020,19:00,-0300,Fortaleza CE,0-0,0-0,Flamengo RJ,2020-12-26T22:00Z
+27,Sat Dec 26 2020,21:00,-0300,Fluminense RJ,1-2,0-1,São Paulo FC,2020-12-27T00:00Z
+27,Sun Dec 27 2020,18:15,-0300,Santos FC,1-1,1-1,Ceará CE,2020-12-27T21:15Z
+27,Sun Dec 27 2020,18:15,-0300,Athletico Paranaense,3-0,2-0,Vasco da Gama RJ,2020-12-27T21:15Z
+27,Sun Dec 27 2020,16:00,-0300,Botafogo RJ,0-2,0-1,Corinthians SP,2020-12-27T19:00Z
+27,Sun Dec 27 2020,16:00,-0300,Bahia BA,1-2,0-1,Internacional,2020-12-27T19:00Z
+27,Sun Dec 27 2020,18:15,-0300,Palmeiras,1-0,1-0,Red Bull Bragantino,2020-12-27T21:15Z
+27,Sun Dec 27 2020,20:30,-0300,Grêmio Porto Alegre,2-1,1-0,Atlético Goianiense,2020-12-27T23:30Z
+28,Wed Jan 6 2021,21:30,-0300,Flamengo RJ,1-2,1-0,Fluminense RJ,2021-01-07T00:30Z
+28,Wed Jan 6 2021,21:30,-0300,Red Bull Bragantino,4-2,4-1,São Paulo FC,2021-01-07T00:30Z
+28,Wed Jan 6 2021,19:15,-0300,Grêmio Porto Alegre,2-1,1-0,Bahia BA,2021-01-06T22:15Z
+28,Wed Jan 6 2021,19:15,-0300,Botafogo RJ,0-2,0-1,Athletico Paranaense,2021-01-06T22:15Z
+28,Wed Jan 6 2021,20:30,-0300,Sport Recife PE,1-0,1-0,Fortaleza CE,2021-01-06T23:30Z
+28,Wed Jan 6 2021,20:30,-0300,Coritiba PR,1-2,0-2,Goiás GO,2021-01-06T23:30Z
+28,Thu Jan 7 2021,19:00,-0300,Ceará CE,0-2,0-0,Internacional,2021-01-07T22:00Z
+28,Thu Jan 7 2021,21:00,-0300,Atlético Goianiense,0-0,0-0,Vasco da Gama RJ,2021-01-08T00:00Z
+29,Sat Jan 9 2021,19:00,-0300,Coritiba PR,0-0,0-0,Athletico Paranaense,2021-01-09T22:00Z
+29,Sat Jan 9 2021,21:00,-0300,Fortaleza CE,0-0,0-0,Grêmio Porto Alegre,2021-01-10T00:00Z
+29,Sat Jan 9 2021,19:00,-0300,Sport Recife PE,0-1,0-1,Palmeiras,2021-01-09T22:00Z
+29,Sun Jan 10 2021,20:30,-0300,Vasco da Gama RJ,3-0,1-0,Botafogo RJ,2021-01-10T23:30Z
+29,Sun Jan 10 2021,18:15,-0300,Internacional,1-0,1-0,Goiás GO,2021-01-10T21:15Z
+29,Sun Jan 10 2021,18:15,-0300,Atlético Goianiense,1-1,1-0,Bahia BA,2021-01-10T21:15Z
+29,Sun Jan 10 2021,16:00,-0300,Flamengo RJ,0-2,0-1,Ceará CE,2021-01-10T19:00Z
+29,Sun Jan 10 2021,16:00,-0300,São Paulo FC,0-1,0-0,Santos FC,2021-01-10T19:00Z
+29,Mon Jan 11 2021,20:00,-0300,Red Bull Bragantino,2-2,1-0,Atlético Mineiro,2021-01-11T23:00Z
+29,Wed Jan 13 2021,21:30,-0300,Corinthians SP,5-0,1-0,Fluminense RJ,2021-01-14T00:30Z
+30,Fri Jan 15 2021,21:30,-0300,Palmeiras,1-1,1-0,Grêmio Porto Alegre,2021-01-16T00:30Z
+30,Sat Jan 16 2021,19:00,-0300,Fluminense RJ,1-0,0-0,Sport Recife PE,2021-01-16T22:00Z
+30,Sat Jan 16 2021,21:00,-0300,Vasco da Gama RJ,0-1,0-1,Coritiba PR,2021-01-17T00:00Z
+30,Sun Jan 17 2021,16:00,-0300,Santos FC,2-1,1-1,Botafogo RJ,2021-01-17T19:00Z
+30,Sun Jan 17 2021,20:30,-0300,Internacional,4-2,2-1,Fortaleza CE,2021-01-17T23:30Z
+30,Sun Jan 17 2021,20:30,-0300,Ceará CE,1-2,0-0,Red Bull Bragantino,2021-01-17T23:30Z
+30,Sun Jan 17 2021,18:15,-0300,Atlético Mineiro,3-1,2-0,Atlético Goianiense,2021-01-17T21:15Z
+30,Sun Jan 17 2021,16:00,-0300,Athletico Paranaense,1-1,1-0,São Paulo FC,2021-01-17T19:00Z
+28,Mon Jan 18 2021,19:00,-0300,Palmeiras,4-0,2-0,Corinthians SP,2021-01-18T22:00Z
+30,Mon Jan 18 2021,20:00,-0300,Goiás GO,0-3,0-1,Flamengo RJ,2021-01-18T23:00Z
+31,Wed Jan 20 2021,21:30,-0300,Red Bull Bragantino,4-1,1-0,Vasco da Gama RJ,2021-01-21T00:30Z
+31,Wed Jan 20 2021,21:30,-0300,São Paulo FC,1-5,1-2,Internacional,2021-01-21T00:30Z
+31,Wed Jan 20 2021,20:30,-0300,Coritiba PR,3-3,2-0,Fluminense RJ,2021-01-20T23:30Z
+31,Wed Jan 20 2021,19:15,-0300,Grêmio Porto Alegre,1-1,0-1,Atlético Mineiro,2021-01-20T22:15Z
+31,Wed Jan 20 2021,17:00,-0300,Botafogo RJ,1-3,0-0,Atlético Goianiense,2021-01-20T20:00Z
+31,Wed Jan 20 2021,18:00,-0300,Bahia BA,1-0,0-0,Athletico Paranaense,2021-01-20T21:00Z
+31,Thu Jan 21 2021,21:00,-0300,Corinthians SP,3-0,1-0,Sport Recife PE,2021-01-22T00:00Z
+31,Thu Jan 21 2021,19:00,-0300,Fortaleza CE,2-0,0-0,Santos FC,2021-01-21T22:00Z
+31,Thu Jan 21 2021,19:00,-0300,Flamengo RJ,2-0,1-0,Palmeiras,2021-01-21T22:00Z
+31,Thu Jan 21 2021,19:00,-0300,Goiás GO,0-4,0-2,Ceará CE,2021-01-21T22:00Z
+32,Sat Jan 23 2021,19:00,-0300,São Paulo FC,1-1,0-0,Coritiba PR,2021-01-23T22:00Z
+32,Sat Jan 23 2021,21:00,-0300,Vasco da Gama RJ,3-2,2-0,Atlético Mineiro,2021-01-24T00:00Z
+32,Sun Jan 24 2021,18:15,-0300,Santos FC,3-4,2-0,Goiás GO,2021-01-24T21:15Z
+32,Sun Jan 24 2021,18:15,-0300,Atlético Goianiense,2-0,1-0,Fortaleza CE,2021-01-24T21:15Z
+32,Sun Jan 24 2021,18:15,-0300,Sport Recife PE,2-0,0-0,Bahia BA,2021-01-24T21:15Z
+32,Sun Jan 24 2021,20:30,-0300,Fluminense RJ,2-0,0-0,Botafogo RJ,2021-01-24T23:30Z
+32,Sun Jan 24 2021,16:00,-0300,Athletico Paranaense,2-1,1-1,Flamengo RJ,2021-01-24T19:00Z
+32,Sun Jan 24 2021,16:00,-0300,Ceará CE,2-1,2-1,Palmeiras,2021-01-24T19:00Z
+32,Sun Jan 24 2021,16:00,-0300,Internacional,2-1,0-0,Grêmio Porto Alegre,2021-01-24T19:00Z
+32,Mon Jan 25 2021,20:00,-0300,Corinthians SP,0-2,0-2,Red Bull Bragantino,2021-01-25T23:00Z
+28,Tue Jan 26 2021,20:00,-0300,Atlético Mineiro,2-0,2-0,Santos FC,2021-01-26T23:00Z
+1,Tue Jan 26 2021,20:00,-0300,Palmeiras,1-1,1-1,Vasco da Gama RJ,2021-01-26T23:00Z
+23,Thu Jan 28 2021,20:00,-0300,Grêmio Porto Alegre,2-4,1-0,Flamengo RJ,2021-01-28T23:00Z
+30,Thu Jan 28 2021,19:00,-0300,Bahia BA,2-1,2-0,Corinthians SP,2021-01-28T22:00Z
+33,Sun Jan 31 2021,16:00,-0300,Atlético Goianiense,2-1,1-1,São Paulo FC,2021-01-31T19:00Z
+33,Sun Jan 31 2021,16:00,-0300,Coritiba PR,1-1,0-1,Grêmio Porto Alegre,2021-01-31T19:00Z
+33,Sun Jan 31 2021,16:00,-0300,Vasco da Gama RJ,0-0,0-0,Bahia BA,2021-01-31T19:00Z
+33,Sun Jan 31 2021,16:00,-0300,Ceará CE,0-2,0-0,Athletico Paranaense,2021-01-31T19:00Z
+33,Sun Jan 31 2021,17:00,-0300,Atlético Mineiro,2-0,0-0,Fortaleza CE,2021-01-31T20:00Z
+33,Sun Jan 31 2021,18:15,-0300,Internacional,2-1,1-1,Red Bull Bragantino,2021-01-31T21:15Z
+33,Sun Jan 31 2021,20:30,-0300,Fluminense RJ,3-0,3-0,Goiás GO,2021-01-31T23:30Z
+33,Mon Feb 1 2021,20:00,-0300,Sport Recife PE,0-3,0-2,Flamengo RJ,2021-02-01T23:00Z
+33,Tue Feb 2 2021,16:00,-0300,Palmeiras,1-1,1-0,Botafogo RJ,2021-02-02T19:00Z
+34,Wed Feb 3 2021,16:00,-0300,Grêmio Porto Alegre,3-3,1-1,Santos FC,2021-02-03T19:00Z
+34,Wed Feb 3 2021,19:15,-0300,Red Bull Bragantino,2-0,0-0,Atlético Goianiense,2021-02-03T22:15Z
+34,Wed Feb 3 2021,21:30,-0300,Bahia BA,0-1,0-1,Fluminense RJ,2021-02-04T00:30Z
+34,Wed Feb 3 2021,21:30,-0300,Corinthians SP,2-1,2-1,Ceará CE,2021-02-04T00:30Z
+34,Wed Feb 3 2021,21:30,-0300,Goiás GO,1-0,1-0,Atlético Mineiro,2021-02-04T00:30Z
+34,Thu Feb 4 2021,21:00,-0300,Athletico Paranaense,0-0,0-0,Internacional,2021-02-05T00:00Z
+34,Thu Feb 4 2021,18:30,-0300,Fortaleza CE,3-1,2-1,Coritiba PR,2021-02-04T21:30Z
+34,Thu Feb 4 2021,21:00,-0300,Flamengo RJ,2-0,1-0,Vasco da Gama RJ,2021-02-05T00:00Z
+34,Fri Feb 5 2021,20:00,-0300,Botafogo RJ,0-1,0-1,Sport Recife PE,2021-02-05T23:00Z
+35,Sat Feb 6 2021,19:00,-0300,Bahia BA,3-3,2-1,Goiás GO,2021-02-06T22:00Z
+35,Sat Feb 6 2021,21:00,-0300,Atlético Goianiense,1-1,1-0,Santos FC,2021-02-07T00:00Z
+35,Sun Feb 7 2021,20:30,-0300,Red Bull Bragantino,1-1,0-1,Flamengo RJ,2021-02-07T23:30Z
+35,Mon Feb 8 2021,20:00,-0300,Botafogo RJ,2-5,0-2,Grêmio Porto Alegre,2021-02-08T23:00Z
+35,Wed Feb 10 2021,21:30,-0300,Fluminense RJ,0-0,0-0,Atlético Mineiro,2021-02-11T00:30Z
+35,Wed Feb 10 2021,21:30,-0300,Corinthians SP,3-3,2-2,Athletico Paranaense,2021-02-11T00:30Z
+35,Wed Feb 10 2021,19:00,-0300,Internacional,1-2,1-2,Sport Recife PE,2021-02-10T22:00Z
+35,Wed Feb 10 2021,19:15,-0300,Fortaleza CE,3-0,2-0,Vasco da Gama RJ,2021-02-10T22:15Z
+35,Wed Feb 10 2021,21:00,-0300,São Paulo FC,1-1,0-0,Ceará CE,2021-02-11T00:00Z
+36,Sat Feb 13 2021,19:00,-0300,Atlético Mineiro,1-1,1-0,Bahia BA,2021-02-13T22:00Z
+36,Sat Feb 13 2021,17:00,-0300,Goiás GO,2-0,1-0,Botafogo RJ,2021-02-13T20:00Z
+36,Sat Feb 13 2021,19:00,-0300,Santos FC,2-0,1-0,Coritiba PR,2021-02-13T22:00Z
+36,Sun Feb 14 2021,20:30,-0300,Grêmio Porto Alegre,1-2,1-0,São Paulo FC,2021-02-14T23:30Z
+36,Sun Feb 14 2021,18:15,-0300,Palmeiras,3-0,3-0,Fortaleza CE,2021-02-14T21:15Z
+36,Sun Feb 14 2021,18:15,-0300,Athletico Paranaense,2-1,0-0,Atlético Goianiense,2021-02-14T21:15Z
+36,Sun Feb 14 2021,16:00,-0300,Flamengo RJ,2-1,1-1,Corinthians SP,2021-02-14T19:00Z
+36,Sun Feb 14 2021,16:00,-0300,Vasco da Gama RJ,0-2,0-1,Internacional,2021-02-14T19:00Z
+36,Mon Feb 15 2021,20:00,-0300,Sport Recife PE,0-0,0-0,Red Bull Bragantino,2021-02-15T23:00Z
+36,Mon Feb 15 2021,18:00,-0300,Ceará CE,1-3,0-1,Fluminense RJ,2021-02-15T21:00Z
+33,Wed Feb 17 2021,19:00,-0300,Santos FC,1-0,0-0,Corinthians SP,2021-02-17T22:00Z
+35,Wed Feb 17 2021,19:30,-0300,Coritiba PR,1-0,0-0,Palmeiras,2021-02-17T22:30Z
+34,Fri Feb 19 2021,21:30,-0300,São Paulo FC,1-1,0-0,Palmeiras,2021-02-20T00:30Z
+37,Sat Feb 20 2021,21:00,-0300,Fortaleza CE,0-4,0-1,Bahia BA,2021-02-21T00:00Z
+37,Sat Feb 20 2021,18:30,-0300,Coritiba PR,0-2,0-0,Ceará CE,2021-02-20T21:30Z
+37,Sun Feb 21 2021,16:00,-0300,Corinthians SP,0-0,0-0,Vasco da Gama RJ,2021-02-21T19:00Z
+37,Sun Feb 21 2021,16:00,-0300,Sport Recife PE,2-3,1-1,Atlético Mineiro,2021-02-21T19:00Z
+37,Sun Feb 21 2021,16:00,-0300,Flamengo RJ,2-1,1-1,Internacional,2021-02-21T19:00Z
+37,Sun Feb 21 2021,18:15,-0300,Santos FC,1-1,0-1,Fluminense RJ,2021-02-21T21:15Z
+37,Sun Feb 21 2021,18:15,-0300,Grêmio Porto Alegre,1-0,0-0,Athletico Paranaense,2021-02-21T21:15Z
+37,Sun Feb 21 2021,20:30,-0300,Goiás GO,0-0,0-0,Red Bull Bragantino,2021-02-21T23:30Z
+37,Mon Feb 22 2021,18:00,-0300,Palmeiras,1-1,1-1,Atlético Goianiense,2021-02-22T21:00Z
+37,Mon Feb 22 2021,20:00,-0300,Botafogo RJ,1-0,0-0,São Paulo FC,2021-02-22T23:00Z
+38,Thu Feb 25 2021,21:30,-0300,São Paulo FC,2-1,1-0,Flamengo RJ,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Ceará CE,2-1,1-0,Botafogo RJ,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Atlético Mineiro,2-0,0-0,Palmeiras,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Bahia BA,2-0,1-0,Santos FC,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Internacional,0-0,0-0,Corinthians SP,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Red Bull Bragantino,1-0,0-0,Grêmio Porto Alegre,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Athletico Paranaense,2-0,1-0,Sport Recife PE,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Atlético Goianiense,3-1,3-0,Coritiba PR,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Fluminense RJ,2-0,1-0,Fortaleza CE,2021-02-26T00:30Z
+38,Thu Feb 25 2021,21:30,-0300,Vasco da Gama RJ,3-2,1-2,Goiás GO,2021-02-26T00:30Z

@@ -1,0 +1,110 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,UTC
+,5,Sun Jan 23 2022,16:00,-0300,Grêmio Novorizontino SP,0-2,0-1,Palmeiras,,,2022-01-23T19:00Z
+,1,Tue Jan 25 2022,21:00,-0300,Corinthians SP,0-0,0-0,Ferroviária SP,,,2022-01-26T00:00Z
+,1,Tue Jan 25 2022,19:00,-0300,Botafogo SP,0-0,0-0,Santo André SP,,,2022-01-25T22:00Z
+,1,Wed Jan 26 2022,19:00,-0300,Inter de Limeira SP,0-0,0-0,Santos FC,,,2022-01-26T22:00Z
+,1,Wed Jan 26 2022,19:00,-0300,Ituano SP,2-0,0-0,Grêmio Novorizontino SP,,,2022-01-26T22:00Z
+,1,Wed Jan 26 2022,21:35,-0300,Palmeiras,3-0,3-0,Ponte Preta,,,2022-01-27T00:35Z
+,1,Wed Jan 26 2022,15:00,-0300,Água Santa SP,0-1,0-1,São Bernardo FC SP,,,2022-01-26T18:00Z
+,1,Thu Jan 27 2022,20:00,-0300,Mirassol SP,3-1,1-0,Red Bull Bragantino,,,2022-01-27T23:00Z
+,1,Thu Jan 27 2022,21:30,-0300,Guarani SP,2-1,1-0,São Paulo FC,,,2022-01-28T00:30Z
+,2,Sat Jan 29 2022,16:00,-0300,São Bernardo FC SP,1-1,1-0,Palmeiras,,,2022-01-29T19:00Z
+,2,Sat Jan 29 2022,11:00,-0300,Santos FC,0-1,0-0,Botafogo SP,,,2022-01-29T14:00Z
+,2,Sat Jan 29 2022,18:30,-0300,Ponte Preta,2-2,1-1,Inter de Limeira SP,,,2022-01-29T21:30Z
+,2,Sat Jan 29 2022,18:30,-0300,Ferroviária SP,1-0,0-0,Água Santa SP,,,2022-01-29T21:30Z
+,2,Sun Jan 30 2022,20:30,-0300,Grêmio Novorizontino SP,0-0,0-0,Mirassol SP,,,2022-01-30T23:30Z
+,2,Sun Jan 30 2022,16:00,-0300,São Paulo FC,0-0,0-0,Ituano SP,,,2022-01-30T19:00Z
+,2,Sun Jan 30 2022,18:30,-0300,Santo André SP,0-1,0-1,Corinthians SP,,,2022-01-30T21:30Z
+,2,Mon Jan 31 2022,20:00,-0300,Red Bull Bragantino,1-0,0-0,Guarani SP,,,2022-01-31T23:00Z
+,3,Tue Feb 1 2022,21:00,-0300,Botafogo SP,1-1,0-0,Ferroviária SP,,,2022-02-02T00:00Z
+,3,Tue Feb 1 2022,19:00,-0300,Palmeiras,1-0,1-0,Água Santa SP,,,2022-02-01T22:00Z
+,3,Wed Feb 2 2022,19:00,-0300,Ponte Preta,2-0,1-0,Grêmio Novorizontino SP,,,2022-02-02T22:00Z
+,3,Wed Feb 2 2022,21:35,-0300,Corinthians SP,1-2,0-0,Santos FC,,,2022-02-03T00:35Z
+,3,Wed Feb 2 2022,19:00,-0300,Santo André SP,1-0,0-0,São Bernardo FC SP,,,2022-02-02T22:00Z
+,3,Thu Feb 3 2022,21:30,-0300,Red Bull Bragantino,4-3,2-1,São Paulo FC,,,2022-02-04T00:30Z
+,3,Thu Feb 3 2022,19:00,-0300,Ituano SP,2-1,1-0,Inter de Limeira SP,,,2022-02-03T22:00Z
+,3,Thu Feb 3 2022,19:00,-0300,Mirassol SP,2-0,1-0,Guarani SP,,,2022-02-03T22:00Z
+,4,Sat Feb 5 2022,11:00,-0300,São Bernardo FC SP,2-0,1-0,Ponte Preta,,,2022-02-05T14:00Z
+,4,Sat Feb 5 2022,15:00,-0300,Água Santa SP,1-0,1-0,Grêmio Novorizontino SP,,,2022-02-05T18:00Z
+,4,Sun Feb 6 2022,18:30,-0300,Ituano SP,2-3,2-1,Corinthians SP,,,2022-02-06T21:30Z
+,4,Sun Feb 6 2022,20:30,-0300,Inter de Limeira SP,3-0,0-0,Botafogo SP,,,2022-02-06T23:30Z
+,4,Sun Feb 6 2022,20:30,-0300,Ferroviária SP,1-1,0-1,Red Bull Bragantino,,,2022-02-06T23:30Z
+,4,Sun Feb 6 2022,16:00,-0300,Guarani SP,1-1,0-1,Santos FC,,,2022-02-06T19:00Z
+,4,Sun Feb 6 2022,11:00,-0300,Mirassol SP,2-2,1-2,Santo André SP,,,2022-02-06T14:00Z
+,5,Wed Feb 9 2022,15:00,-0300,Água Santa SP,2-2,1-1,Ituano SP,,,2022-02-09T18:00Z
+,5,Wed Feb 9 2022,19:00,-0300,São Paulo FC,1-0,0-0,Santo André SP,,,2022-02-09T22:00Z
+,5,Wed Feb 9 2022,20:30,-0300,Red Bull Bragantino,4-1,4-1,Inter de Limeira SP,,,2022-02-09T23:30Z
+,5,Wed Feb 9 2022,21:30,-0300,Ferroviária SP,1-2,1-1,Ponte Preta,,,2022-02-10T00:30Z
+,5,Wed Feb 9 2022,21:30,-0300,Guarani SP,0-2,0-2,Botafogo SP,,,2022-02-10T00:30Z
+,5,Thu Feb 10 2022,19:00,-0300,Santos FC,1-1,1-0,São Bernardo FC SP,,,2022-02-10T22:00Z
+,5,Thu Feb 10 2022,21:30,-0300,Corinthians SP,2-1,2-1,Mirassol SP,,,2022-02-11T00:30Z
+,6,Sat Feb 12 2022,18:30,-0300,Santo André SP,2-2,1-1,Ferroviária SP,,,2022-02-12T21:30Z
+,6,Sat Feb 12 2022,16:00,-0300,Botafogo SP,0-2,0-2,Água Santa SP,,,2022-02-12T19:00Z
+,6,Sat Feb 12 2022,16:00,-0300,Grêmio Novorizontino SP,1-2,0-1,Guarani SP,,,2022-02-12T19:00Z
+,6,Sun Feb 13 2022,11:00,-0300,Inter de Limeira SP,2-2,1-1,Mirassol SP,,,2022-02-13T14:00Z
+,6,Sun Feb 13 2022,16:00,-0300,Santos FC,2-1,1-0,Ituano SP,,,2022-02-13T19:00Z
+,6,Sun Feb 13 2022,18:30,-0300,Ponte Preta,1-2,1-0,São Paulo FC,,,2022-02-13T21:30Z
+,6,Sun Feb 13 2022,20:30,-0300,São Bernardo FC SP,1-0,0-0,Red Bull Bragantino,,,2022-02-13T23:30Z
+,7,Tue Feb 15 2022,19:00,-0300,Santo André SP,0-0,0-0,Grêmio Novorizontino SP,,,2022-02-15T22:00Z
+,7,Wed Feb 16 2022,19:00,-0300,Ponte Preta,0-1,0-0,Botafogo SP,,,2022-02-16T22:00Z
+,7,Wed Feb 16 2022,21:35,-0300,Corinthians SP,3-0,0-0,São Bernardo FC SP,,,2022-02-17T00:35Z
+,7,Wed Feb 16 2022,19:00,-0300,Ferroviária SP,0-2,0-1,Palmeiras,,,2022-02-16T22:00Z
+,7,Wed Feb 16 2022,19:00,-0300,Ituano SP,3-0,1-0,Guarani SP,,,2022-02-16T22:00Z
+,7,Thu Feb 17 2022,21:30,-0300,São Paulo FC,0-0,0-0,Inter de Limeira SP,,,2022-02-18T00:30Z
+,7,Thu Feb 17 2022,19:00,-0300,Red Bull Bragantino,2-0,2-0,Água Santa SP,,,2022-02-17T22:00Z
+,7,Thu Feb 17 2022,19:00,-0300,Mirassol SP,3-2,3-0,Santos FC,,,2022-02-17T22:00Z
+,8,Sat Feb 19 2022,20:30,-0300,Guarani SP,3-0,2-0,Ponte Preta,,,2022-02-19T23:30Z
+,8,Sat Feb 19 2022,16:00,-0300,Palmeiras,1-0,1-0,Santo André SP,,,2022-02-19T19:00Z
+,8,Sat Feb 19 2022,18:30,-0300,Botafogo SP,1-1,0-1,Corinthians SP,,,2022-02-19T21:30Z
+,8,Sat Feb 19 2022,20:30,-0300,São Bernardo FC SP,1-0,0-0,Ituano SP,,,2022-02-19T23:30Z
+,8,Sun Feb 20 2022,18:30,-0300,Santos FC,0-3,0-1,São Paulo FC,,,2022-02-20T21:30Z
+,8,Sun Feb 20 2022,20:30,-0300,Inter de Limeira SP,1-2,0-1,Ferroviária SP,,,2022-02-20T23:30Z
+,8,Sun Feb 20 2022,11:00,-0300,Água Santa SP,1-2,1-1,Mirassol SP,,,2022-02-20T14:00Z
+,8,Sun Feb 20 2022,20:30,-0300,Grêmio Novorizontino SP,0-3,0-1,Red Bull Bragantino,,,2022-02-20T23:30Z
+,9,Sat Feb 26 2022,20:30,-0300,Ituano SP,3-1,2-0,Ferroviária SP,,,2022-02-26T23:30Z
+,9,Sat Feb 26 2022,20:30,-0300,Guarani SP,2-3,2-0,Santo André SP,,,2022-02-26T23:30Z
+,9,Sat Feb 26 2022,18:30,-0300,Mirassol SP,1-1,0-0,Ponte Preta,,,2022-02-26T21:30Z
+,9,Sun Feb 27 2022,18:30,-0300,Santos FC,2-2,1-0,Grêmio Novorizontino SP,,,2022-02-27T21:30Z
+,9,Sun Feb 27 2022,11:00,-0300,Corinthians SP,1-0,0-0,Red Bull Bragantino,,,2022-02-27T14:00Z
+,9,Sun Feb 27 2022,16:00,-0300,Inter de Limeira SP,0-0,0-0,Palmeiras,,,2022-02-27T19:00Z
+,9,Sun Feb 27 2022,20:30,-0300,Botafogo SP,1-0,1-0,São Bernardo FC SP,,,2022-02-27T23:30Z
+,9,Mon Feb 28 2022,15:00,-0300,Água Santa SP,1-2,1-1,São Paulo FC,,,2022-02-28T18:00Z
+,10,Sat Mar 5 2022,20:30,-0300,Santo André SP,0-0,0-0,Ituano SP,,,2022-03-05T23:30Z
+,10,Sat Mar 5 2022,16:00,-0300,São Paulo FC,1-0,1-0,Corinthians SP,,,2022-03-05T19:00Z
+,10,Sat Mar 5 2022,20:30,-0300,Ponte Preta,0-1,0-1,Água Santa SP,,,2022-03-05T23:30Z
+,10,Sun Mar 6 2022,18:30,-0300,São Bernardo FC SP,1-1,0-1,Mirassol SP,,,2022-03-06T21:30Z
+,10,Sun Mar 6 2022,20:30,-0300,Red Bull Bragantino,2-0,1-0,Botafogo SP,,,2022-03-06T23:30Z
+,10,Sun Mar 6 2022,16:00,-0300,Palmeiras,2-0,1-0,Guarani SP,,,2022-03-06T19:00Z
+,10,Sun Mar 6 2022,18:30,-0300,Grêmio Novorizontino SP,1-2,0-1,Inter de Limeira SP,,,2022-03-06T21:30Z
+,4,Thu Mar 10 2022,20:30,-0300,São Paulo FC,0-1,0-1,Palmeiras,,,2022-03-10T23:30Z
+,11,Sat Mar 12 2022,16:00,-0300,Guarani SP,2-1,1-1,Ferroviária SP,,,2022-03-12T19:00Z
+,11,Sat Mar 12 2022,20:30,-0300,Inter de Limeira SP,2-1,1-0,São Bernardo FC SP,,,2022-03-12T23:30Z
+,11,Sat Mar 12 2022,15:00,-0300,Água Santa SP,1-1,0-0,Santo André SP,,,2022-03-12T18:00Z
+,11,Sat Mar 12 2022,18:30,-0300,Corinthians SP,5-0,3-0,Ponte Preta,,,2022-03-12T21:30Z
+,11,Sun Mar 13 2022,20:30,-0300,Botafogo SP,2-1,1-1,Grêmio Novorizontino SP,,,2022-03-13T23:30Z
+,11,Sun Mar 13 2022,16:00,-0300,Mirassol SP,0-3,0-1,São Paulo FC,,,2022-03-13T19:00Z
+,11,Sun Mar 13 2022,18:30,-0300,Palmeiras,1-0,1-0,Santos FC,,,2022-03-13T21:30Z
+,11,Sun Mar 13 2022,20:30,-0300,Ituano SP,2-0,0-0,Red Bull Bragantino,,,2022-03-13T23:30Z
+,10,Wed Mar 16 2022,19:00,-0300,Ferroviária SP,3-3,2-2,Santos FC,,,2022-03-16T22:00Z
+,6,Thu Mar 17 2022,20:30,-0300,Palmeiras,2-1,1-0,Corinthians SP,,,2022-03-17T23:30Z
+,12,Sat Mar 19 2022,16:00,-0300,Ferroviária SP,2-0,1-0,Mirassol SP,,,2022-03-19T19:00Z
+,12,Sat Mar 19 2022,16:00,-0300,Ponte Preta,2-2,1-1,Ituano SP,,,2022-03-19T19:00Z
+,12,Sat Mar 19 2022,16:00,-0300,Santos FC,3-2,3-1,Água Santa SP,,,2022-03-19T19:00Z
+,12,Sat Mar 19 2022,16:00,-0300,São Bernardo FC SP,0-0,0-0,Guarani SP,,,2022-03-19T19:00Z
+,12,Sat Mar 19 2022,16:00,-0300,São Paulo FC,2-1,1-0,Botafogo SP,,,2022-03-19T19:00Z
+,12,Sat Mar 19 2022,16:00,-0300,Santo André SP,2-0,2-0,Inter de Limeira SP,,,2022-03-19T19:00Z
+,12,Sun Mar 20 2022,16:00,-0300,Grêmio Novorizontino SP,0-1,0-0,Corinthians SP,,,2022-03-20T19:00Z
+,12,Sun Mar 20 2022,16:00,-0300,Red Bull Bragantino,1-1,1-0,Palmeiras,,,2022-03-20T19:00Z
+Playoffs,Quarterfinals,Tue Mar 22 2022,20:30,-0300,São Paulo FC,4-1,0-0,São Bernardo FC SP,,,2022-03-22T23:30Z
+Playoffs,Quarterfinals,Wed Mar 23 2022,21:35,-0300,Palmeiras,2-0,1-0,Ituano SP,,,2022-03-24T00:35Z
+Playoffs,Quarterfinals,Wed Mar 23 2022,19:00,-0300,Red Bull Bragantino,1-0,1-0,Santo André SP,,,2022-03-23T22:00Z
+Playoffs,Quarterfinals,Thu Mar 24 2022,19:00,-0300,Corinthians SP,1-1,1-0,Guarani SP,,7-6,2022-03-24T22:00Z
+Campeão do Interior,Round 1,Fri Mar 25 2022,21:00,-0300,Ferroviária SP,1-1,1-0,Inter de Limeira SP,1-1,3-5,2022-03-26T00:00Z
+Campeão do Interior,Round 1,Fri Mar 25 2022,19:00,-0300,Mirassol SP,0-1,0-1,Água Santa SP,,,2022-03-25T22:00Z
+Playoffs,Semifinals,Sat Mar 26 2022,18:30,-0300,Palmeiras,2-1,2-1,Red Bull Bragantino,,,2022-03-26T21:30Z
+Playoffs,Semifinals,Sun Mar 27 2022,16:00,-0300,São Paulo FC,2-1,1-0,Corinthians SP,,,2022-03-27T19:00Z
+Campeão do Interior,Semifinals,Mon Mar 28 2022,19:00,-0300,Botafogo SP,3-0,0-0,Inter de Limeira SP,,,2022-03-28T22:00Z
+Campeão do Interior,Semifinals,Mon Mar 28 2022,19:00,-0300,Ituano SP,2-2,1-1,Água Santa SP,2-2,3-2,2022-03-28T22:00Z
+Playoffs,Final,Wed Mar 30 2022,21:40,-0300,São Paulo FC,3-1,1-0,Palmeiras,,,2022-03-31T00:40Z
+Campeão do Interior,Final,Thu Mar 31 2022,20:00,-0300,Botafogo SP,0-3,0-1,Ituano SP,,,2022-03-31T23:00Z
+Playoffs,Final,Sun Apr 3 2022,16:00,-0300,Palmeiras,4-0,2-0,São Paulo FC,,,2022-04-03T19:00Z

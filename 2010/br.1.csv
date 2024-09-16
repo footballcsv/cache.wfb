@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat May 8 2010,18:30,-0300,Atlético Goianiense,0-0,0-0,Grêmio Porto Alegre,2010-05-08T21:30Z
+1,Sat May 8 2010,18:30,-0300,Palmeiras,1-0,0-0,Vitória BA,2010-05-08T21:30Z
+1,Sat May 8 2010,18:30,-0300,Botafogo RJ,3-3,2-2,Santos FC,2010-05-08T21:30Z
+1,Sun May 9 2010,16:00,-0300,Flamengo RJ,1-1,0-1,São Paulo FC,2010-05-09T19:00Z
+1,Sun May 9 2010,16:00,-0300,Atlético Mineiro,2-1,2-0,Vasco da Gama RJ,2010-05-09T19:00Z
+1,Sun May 9 2010,16:00,-0300,Internacional,1-2,1-2,Cruzeiro,2010-05-09T19:00Z
+1,Sun May 9 2010,16:00,-0300,Corinthians SP,2-1,0-1,Athletico Paranaense,2010-05-09T19:00Z
+1,Sun May 9 2010,18:30,-0300,Ceará CE,1-0,1-0,Fluminense RJ,2010-05-09T21:30Z
+1,Sun May 9 2010,18:30,-0300,Guarani SP,1-0,0-0,Goiás GO,2010-05-09T21:30Z
+1,Sun May 9 2010,18:30,-0300,Avaí SC,6-1,2-1,Grêmio Prudente,2010-05-09T21:30Z
+2,Sat May 15 2010,18:30,-0300,Fluminense RJ,1-0,0-0,Atlético Goianiense,2010-05-15T21:30Z
+2,Sat May 15 2010,18:30,-0300,Grêmio Prudente,4-0,4-0,Atlético Mineiro,2010-05-15T21:30Z
+2,Sat May 15 2010,18:30,-0300,Vitória BA,1-1,0-1,Flamengo RJ,2010-05-15T21:30Z
+2,Sun May 16 2010,16:00,-0300,Grêmio Porto Alegre,1-2,0-1,Corinthians SP,2010-05-16T19:00Z
+2,Sun May 16 2010,16:00,-0300,Goiás GO,2-3,2-0,Internacional,2010-05-16T19:00Z
+2,Sun May 16 2010,16:00,-0300,Santos FC,1-1,1-1,Ceará CE,2010-05-16T19:00Z
+2,Sun May 16 2010,18:30,-0300,Vasco da Gama RJ,0-0,0-0,Palmeiras,2010-05-16T21:30Z
+2,Sun May 16 2010,18:30,-0300,Cruzeiro,2-2,0-2,Avaí SC,2010-05-16T21:30Z
+2,Sun May 16 2010,18:30,-0300,Athletico Paranaense,2-2,1-1,Guarani SP,2010-05-16T21:30Z
+2,Sun May 16 2010,16:00,-0300,São Paulo FC,1-2,1-1,Botafogo RJ,2010-05-16T19:00Z
+3,Sat May 22 2010,16:00,-0300,Botafogo RJ,3-0,2-0,Goiás GO,2010-05-22T19:00Z
+3,Sat May 22 2010,18:30,-0300,Atlético Goianiense,1-2,0-0,Santos FC,2010-05-22T21:30Z
+3,Sat May 22 2010,18:30,-0300,Palmeiras,4-2,2-1,Grêmio Porto Alegre,2010-05-22T21:30Z
+3,Sun May 23 2010,16:00,-0300,Atlético Mineiro,3-1,0-0,Athletico Paranaense,2010-05-23T19:00Z
+3,Sun May 23 2010,16:00,-0300,Internacional,0-2,0-1,São Paulo FC,2010-05-23T19:00Z
+3,Sun May 23 2010,16:00,-0300,Ceará CE,1-0,0-0,Vitória BA,2010-05-23T19:00Z
+3,Sun May 23 2010,18:30,-0300,Avaí SC,2-0,1-0,Vasco da Gama RJ,2010-05-23T21:30Z
+3,Sun May 23 2010,18:30,-0300,Flamengo RJ,3-1,1-0,Grêmio Prudente,2010-05-23T21:30Z
+3,Sun May 23 2010,18:30,-0300,Guarani SP,2-2,2-0,Cruzeiro,2010-05-23T21:30Z
+3,Sun May 23 2010,16:00,-0300,Corinthians SP,1-0,1-0,Fluminense RJ,2010-05-23T19:00Z
+4,Wed May 26 2010,19:30,-0300,Vitória BA,4-3,2-1,Atlético Mineiro,2010-05-26T22:30Z
+4,Wed May 26 2010,19:30,-0300,Grêmio Porto Alegre,3-0,2-0,Avaí SC,2010-05-26T22:30Z
+4,Wed May 26 2010,19:30,-0300,Fluminense RJ,2-1,1-0,Flamengo RJ,2010-05-26T22:30Z
+4,Wed May 26 2010,20:30,-0300,São Paulo FC,1-0,0-0,Palmeiras,2010-05-26T23:30Z
+4,Wed May 26 2010,21:50,-0300,Grêmio Prudente,2-2,2-1,Corinthians SP,2010-05-27T00:50Z
+4,Wed May 26 2010,21:50,-0300,Cruzeiro,1-0,1-0,Botafogo RJ,2010-05-27T00:50Z
+4,Wed May 26 2010,21:50,-0300,Santos FC,3-1,1-1,Guarani SP,2010-05-27T00:50Z
+4,Thu May 27 2010,21:00,-0300,Athletico Paranaense,2-1,2-0,Atlético Goianiense,2010-05-28T00:00Z
+4,Thu May 27 2010,21:00,-0300,Goiás GO,0-0,0-0,Ceará CE,2010-05-28T00:00Z
+4,Thu May 27 2010,21:00,-0300,Vasco da Gama RJ,3-2,0-2,Internacional,2010-05-28T00:00Z
+5,Sat May 29 2010,18:30,-0300,Palmeiras,0-0,0-0,Grêmio Prudente,2010-05-29T21:30Z
+5,Sat May 29 2010,18:30,-0300,Avaí SC,0-0,0-0,Vitória BA,2010-05-29T21:30Z
+5,Sat May 29 2010,18:30,-0300,Flamengo RJ,1-1,1-0,Grêmio Porto Alegre,2010-05-29T21:30Z
+5,Sun May 30 2010,16:00,-0300,Corinthians SP,4-2,1-0,Santos FC,2010-05-30T19:00Z
+5,Sun May 30 2010,16:00,-0300,Guarani SP,0-0,0-0,São Paulo FC,2010-05-30T19:00Z
+5,Sun May 30 2010,16:00,-0300,Atlético Mineiro,1-3,1-0,Fluminense RJ,2010-05-30T19:00Z
+5,Sun May 30 2010,16:00,-0300,Internacional,4-1,0-0,Athletico Paranaense,2010-05-30T19:00Z
+5,Sun May 30 2010,18:30,-0300,Ceará CE,1-0,1-0,Cruzeiro,2010-05-30T21:30Z
+5,Sun May 30 2010,18:30,-0300,Atlético Goianiense,1-3,1-1,Goiás GO,2010-05-30T21:30Z
+5,Sun May 30 2010,18:30,-0300,Botafogo RJ,1-1,1-1,Vasco da Gama RJ,2010-05-30T21:30Z
+6,Wed Jun 2 2010,19:30,-0300,Athletico Paranaense,3-2,1-2,Botafogo RJ,2010-06-02T22:30Z
+6,Wed Jun 2 2010,19:30,-0300,Fluminense RJ,2-1,1-0,Vitória BA,2010-06-02T22:30Z
+6,Wed Jun 2 2010,19:30,-0300,Grêmio Prudente,1-0,1-0,Atlético Goianiense,2010-06-02T22:30Z
+6,Wed Jun 2 2010,21:00,-0300,Ceará CE,2-0,0-0,Avaí SC,2010-06-03T00:00Z
+6,Wed Jun 2 2010,21:50,-0300,Palmeiras,0-1,0-0,Flamengo RJ,2010-06-03T00:50Z
+6,Wed Jun 2 2010,21:50,-0300,Goiás GO,2-1,1-1,São Paulo FC,2010-06-03T00:50Z
+6,Wed Jun 2 2010,21:50,-0300,Cruzeiro,0-0,0-0,Santos FC,2010-06-03T00:50Z
+6,Thu Jun 3 2010,21:00,-0300,Vasco da Gama RJ,0-1,0-0,Guarani SP,2010-06-04T00:00Z
+6,Thu Jun 3 2010,21:00,-0300,Corinthians SP,2-0,1-0,Internacional,2010-06-04T00:00Z
+6,Thu Jun 3 2010,21:00,-0300,Grêmio Porto Alegre,2-1,1-1,Atlético Mineiro,2010-06-04T00:00Z
+7,Sat Jun 5 2010,18:30,-0300,Avaí SC,0-3,0-1,Fluminense RJ,2010-06-05T21:30Z
+7,Sat Jun 5 2010,18:30,-0300,Flamengo RJ,1-2,0-0,Goiás GO,2010-06-05T21:30Z
+7,Sat Jun 5 2010,18:30,-0300,Vitória BA,1-0,0-0,Athletico Paranaense,2010-06-05T21:30Z
+7,Sun Jun 6 2010,16:00,-0300,Santos FC,4-0,1-0,Vasco da Gama RJ,2010-06-06T19:00Z
+7,Sun Jun 6 2010,16:00,-0300,Botafogo RJ,2-2,0-1,Corinthians SP,2010-06-06T19:00Z
+7,Sun Jun 6 2010,16:00,-0300,Atlético Mineiro,0-1,0-0,Ceará CE,2010-06-06T19:00Z
+7,Sun Jun 6 2010,18:30,-0300,Internacional,1-1,0-1,Palmeiras,2010-06-06T21:30Z
+7,Sun Jun 6 2010,18:30,-0300,Guarani SP,1-0,0-0,Grêmio Prudente,2010-06-06T21:30Z
+7,Sun Jun 6 2010,18:30,-0300,Atlético Goianiense,2-1,1-1,Cruzeiro,2010-06-06T21:30Z
+7,Sun Jun 6 2010,16:00,-0300,São Paulo FC,3-1,1-1,Grêmio Porto Alegre,2010-06-06T19:00Z
+8,Wed Jul 14 2010,19:30,-0300,Grêmio Porto Alegre,1-1,0-1,Vitória BA,2010-07-14T22:30Z
+8,Wed Jul 14 2010,19:30,-0300,Athletico Paranaense,0-2,0-1,Cruzeiro,2010-07-14T22:30Z
+8,Wed Jul 14 2010,19:30,-0300,São Paulo FC,1-2,0-0,Avaí SC,2010-07-14T22:30Z
+8,Wed Jul 14 2010,21:00,-0300,Flamengo RJ,1-0,0-0,Botafogo RJ,2010-07-15T00:00Z
+8,Wed Jul 14 2010,21:50,-0300,Guarani SP,0-3,0-0,Internacional,2010-07-15T00:50Z
+8,Wed Jul 14 2010,21:50,-0300,Goiás GO,0-0,0-0,Vasco da Gama RJ,2010-07-15T00:50Z
+8,Wed Jul 14 2010,21:50,-0300,Ceará CE,0-0,0-0,Corinthians SP,2010-07-15T00:50Z
+8,Thu Jul 15 2010,21:00,-0300,Atlético Mineiro,3-2,3-1,Atlético Goianiense,2010-07-16T00:00Z
+8,Thu Jul 15 2010,21:00,-0300,Fluminense RJ,1-1,1-0,Grêmio Prudente,2010-07-16T00:00Z
+8,Thu Jul 15 2010,21:00,-0300,Palmeiras,2-1,1-0,Santos FC,2010-07-16T00:00Z
+9,Sat Jul 17 2010,18:30,-0300,Vasco da Gama RJ,3-1,2-1,Athletico Paranaense,2010-07-17T21:30Z
+9,Sat Jul 17 2010,18:30,-0300,Vitória BA,3-2,1-1,São Paulo FC,2010-07-17T21:30Z
+9,Sun Jul 18 2010,16:00,-0300,Corinthians SP,1-0,0-0,Atlético Mineiro,2010-07-18T19:00Z
+9,Sun Jul 18 2010,16:00,-0300,Atlético Goianiense,0-1,0-1,Flamengo RJ,2010-07-18T19:00Z
+9,Sun Jul 18 2010,16:00,-0300,Avaí SC,4-2,2-1,Palmeiras,2010-07-18T19:00Z
+9,Sun Jul 18 2010,16:00,-0300,Internacional,2-1,1-0,Ceará CE,2010-07-18T19:00Z
+9,Sun Jul 18 2010,18:30,-0300,Cruzeiro,1-0,1-0,Goiás GO,2010-07-18T21:30Z
+9,Sun Jul 18 2010,18:30,-0300,Santos FC,0-1,0-0,Fluminense RJ,2010-07-18T21:30Z
+9,Sun Jul 18 2010,18:30,-0300,Botafogo RJ,1-1,1-1,Guarani SP,2010-07-18T21:30Z
+9,Sun Jul 18 2010,18:30,-0300,Grêmio Prudente,2-0,1-0,Grêmio Porto Alegre,2010-07-18T21:30Z
+10,Wed Jul 21 2010,19:30,-0300,Atlético Mineiro,1-2,1-1,Internacional,2010-07-21T22:30Z
+10,Wed Jul 21 2010,19:30,-0300,Vitória BA,2-2,1-2,Goiás GO,2010-07-21T22:30Z
+10,Wed Jul 21 2010,19:30,-0300,São Paulo FC,1-1,1-1,Grêmio Prudente,2010-07-21T22:30Z
+10,Wed Jul 21 2010,21:00,-0300,Flamengo RJ,1-1,1-0,Avaí SC,2010-07-22T00:00Z
+10,Wed Jul 21 2010,21:50,-0300,Athletico Paranaense,2-0,1-0,Santos FC,2010-07-22T00:50Z
+10,Wed Jul 21 2010,21:50,-0300,Grêmio Porto Alegre,1-1,1-1,Vasco da Gama RJ,2010-07-22T00:50Z
+10,Wed Jul 21 2010,21:50,-0300,Atlético Goianiense,3-1,1-1,Corinthians SP,2010-07-22T00:50Z
+10,Thu Jul 22 2010,21:00,-0300,Guarani SP,1-1,0-0,Ceará CE,2010-07-23T00:00Z
+10,Thu Jul 22 2010,21:00,-0300,Palmeiras,2-2,0-0,Botafogo RJ,2010-07-23T00:00Z
+10,Thu Jul 22 2010,21:00,-0300,Fluminense RJ,1-0,0-0,Cruzeiro,2010-07-23T00:00Z
+11,Sat Jul 24 2010,18:30,-0300,Vasco da Gama RJ,2-0,1-0,Atlético Goianiense,2010-07-24T21:30Z
+11,Sat Jul 24 2010,18:30,-0300,Grêmio Prudente,0-0,0-0,Vitória BA,2010-07-24T21:30Z
+11,Sat Jul 24 2010,18:30,-0300,Avaí SC,0-0,0-0,Atlético Mineiro,2010-07-24T21:30Z
+11,Sun Jul 25 2010,16:00,-0300,Santos FC,1-0,0-0,São Paulo FC,2010-07-25T19:00Z
+11,Sun Jul 25 2010,16:00,-0300,Cruzeiro,2-2,0-1,Grêmio Porto Alegre,2010-07-25T19:00Z
+11,Sun Jul 25 2010,16:00,-0300,Internacional,1-0,1-0,Flamengo RJ,2010-07-25T19:00Z
+11,Sun Jul 25 2010,16:00,-0300,Goiás GO,0-2,0-1,Athletico Paranaense,2010-07-25T19:00Z
+11,Sun Jul 25 2010,18:30,-0300,Ceará CE,0-0,0-0,Palmeiras,2010-07-25T21:30Z
+11,Sun Jul 25 2010,18:30,-0300,Corinthians SP,3-1,1-0,Guarani SP,2010-07-25T21:30Z
+11,Sun Jul 25 2010,18:30,-0300,Botafogo RJ,1-1,0-0,Fluminense RJ,2010-07-25T21:30Z
+12,Sat Jul 31 2010,18:30,-0300,Atlético Goianiense,1-1,1-1,Guarani SP,2010-07-31T21:30Z
+12,Sat Jul 31 2010,18:30,-0300,São Paulo FC,2-1,0-0,Ceará CE,2010-07-31T21:30Z
+12,Sat Jul 31 2010,18:30,-0300,Fluminense RJ,3-1,1-0,Athletico Paranaense,2010-07-31T21:30Z
+12,Sun Aug 1 2010,16:00,-0300,Palmeiras,1-1,1-1,Corinthians SP,2010-08-01T19:00Z
+12,Sun Aug 1 2010,16:00,-0300,Vitória BA,1-3,0-0,Botafogo RJ,2010-08-01T19:00Z
+12,Sun Aug 1 2010,16:00,-0300,Avaí SC,4-1,3-0,Goiás GO,2010-08-01T19:00Z
+12,Sun Aug 1 2010,16:00,-0300,Internacional,0-0,0-0,Grêmio Porto Alegre,2010-08-01T19:00Z
+12,Sun Aug 1 2010,18:30,-0300,Atlético Mineiro,0-1,0-1,Cruzeiro,2010-08-01T21:30Z
+12,Sun Aug 1 2010,18:30,-0300,Grêmio Prudente,1-2,0-1,Santos FC,2010-08-01T21:30Z
+12,Sun Aug 1 2010,18:30,-0300,Flamengo RJ,0-0,0-0,Vasco da Gama RJ,2010-08-01T21:30Z
+13,Sat Aug 7 2010,18:30,-0300,Botafogo RJ,3-0,2-0,Atlético Mineiro,2010-08-07T21:30Z
+13,Sat Aug 7 2010,18:30,-0300,Guarani SP,4-1,3-1,Avaí SC,2010-08-07T21:30Z
+13,Sun Aug 8 2010,16:00,-0300,Goiás GO,1-1,0-1,Palmeiras,2010-08-08T19:00Z
+13,Sun Aug 8 2010,16:00,-0300,Ceará CE,0-0,0-0,Atlético Goianiense,2010-08-08T19:00Z
+13,Sun Aug 8 2010,16:00,-0300,Grêmio Porto Alegre,1-2,0-2,Fluminense RJ,2010-08-08T19:00Z
+13,Sun Aug 8 2010,18:30,-0300,Athletico Paranaense,1-1,0-0,São Paulo FC,2010-08-08T21:30Z
+13,Sun Aug 8 2010,18:30,-0300,Vasco da Gama RJ,1-0,1-0,Vitória BA,2010-08-08T21:30Z
+13,Sun Aug 8 2010,18:30,-0300,Cruzeiro,0-0,0-0,Grêmio Prudente,2010-08-08T21:30Z
+13,Sun Aug 8 2010,16:00,-0300,Corinthians SP,1-0,1-0,Flamengo RJ,2010-08-08T19:00Z
+14,Sat Aug 14 2010,18:30,-0300,Atlético Mineiro,3-1,0-0,Guarani SP,2010-08-14T21:30Z
+14,Sat Aug 14 2010,18:30,-0300,Atlético Goianiense,0-2,0-0,Botafogo RJ,2010-08-14T21:30Z
+14,Sat Aug 14 2010,18:30,-0300,Palmeiras,2-0,1-0,Athletico Paranaense,2010-08-14T21:30Z
+14,Sat Aug 14 2010,18:30,-0300,Flamengo RJ,1-0,1-0,Ceará CE,2010-08-14T21:30Z
+14,Sun Aug 15 2010,16:00,-0300,São Paulo FC,2-2,1-0,Cruzeiro,2010-08-15T19:00Z
+14,Sun Aug 15 2010,16:00,-0300,Grêmio Prudente,1-2,0-1,Vasco da Gama RJ,2010-08-15T19:00Z
+14,Sun Aug 15 2010,16:00,-0300,Avaí SC,3-2,1-1,Corinthians SP,2010-08-15T19:00Z
+14,Sun Aug 15 2010,16:00,-0300,Fluminense RJ,3-0,2-0,Internacional,2010-08-15T19:00Z
+14,Sun Aug 15 2010,18:30,-0300,Grêmio Porto Alegre,2-0,1-0,Goiás GO,2010-08-15T21:30Z
+14,Sun Aug 15 2010,18:30,-0300,Vitória BA,4-2,3-1,Santos FC,2010-08-15T21:30Z
+15,Sat Aug 21 2010,18:30,-0300,Ceará CE,2-1,1-1,Grêmio Porto Alegre,2010-08-21T21:30Z
+15,Sat Aug 21 2010,18:30,-0300,Goiás GO,1-2,0-0,Grêmio Prudente,2010-08-21T21:30Z
+15,Sat Aug 21 2010,18:30,-0300,Botafogo RJ,1-0,1-0,Avaí SC,2010-08-21T21:30Z
+15,Sun Aug 22 2010,18:30,-0300,Vasco da Gama RJ,2-2,1-1,Fluminense RJ,2010-08-22T21:30Z
+15,Sun Aug 22 2010,16:00,-0300,Santos FC,2-0,0-0,Atlético Mineiro,2010-08-22T19:00Z
+15,Sun Aug 22 2010,16:00,-0300,Guarani SP,0-0,0-0,Palmeiras,2010-08-22T19:00Z
+15,Sun Aug 22 2010,16:00,-0300,Athletico Paranaense,1-0,0-0,Flamengo RJ,2010-08-22T19:00Z
+15,Sun Aug 22 2010,16:00,-0300,Internacional,1-1,0-1,Atlético Goianiense,2010-08-22T19:00Z
+15,Sun Aug 22 2010,18:30,-0300,Cruzeiro,0-1,0-0,Vitória BA,2010-08-22T21:30Z
+15,Sun Aug 22 2010,18:30,-0300,Corinthians SP,3-0,2-0,São Paulo FC,2010-08-22T21:30Z
+16,Wed Aug 25 2010,22:00,-0300,Grêmio Porto Alegre,1-2,1-0,Santos FC,2010-08-26T01:00Z
+16,Wed Aug 25 2010,19:30,-0300,Goiás GO,0-3,0-0,Fluminense RJ,2010-08-25T22:30Z
+16,Wed Aug 25 2010,19:30,-0300,Avaí SC,0-1,0-1,Internacional,2010-08-25T22:30Z
+16,Wed Aug 25 2010,19:30,-0300,Botafogo RJ,1-0,0-0,Ceará CE,2010-08-25T22:30Z
+16,Wed Aug 25 2010,21:00,-0300,Grêmio Prudente,0-1,0-0,Athletico Paranaense,2010-08-26T00:00Z
+16,Wed Aug 25 2010,22:00,-0300,São Paulo FC,0-0,0-0,Vasco da Gama RJ,2010-08-26T01:00Z
+16,Wed Aug 25 2010,22:00,-0300,Cruzeiro,1-0,1-0,Corinthians SP,2010-08-26T01:00Z
+16,Thu Aug 26 2010,21:00,-0300,Flamengo RJ,0-0,0-0,Atlético Mineiro,2010-08-27T00:00Z
+16,Thu Aug 26 2010,21:00,-0300,Vitória BA,1-1,1-0,Guarani SP,2010-08-27T00:00Z
+16,Thu Aug 26 2010,21:00,-0300,Palmeiras,0-3,0-2,Atlético Goianiense,2010-08-27T00:00Z
+17,Sat Aug 28 2010,18:30,-0300,Santos FC,2-0,0-0,Goiás GO,2010-08-28T21:30Z
+17,Sat Aug 28 2010,18:30,-0300,Internacional,1-0,1-0,Botafogo RJ,2010-08-28T21:30Z
+17,Sat Aug 28 2010,18:30,-0300,Vasco da Gama RJ,1-1,1-1,Cruzeiro,2010-08-28T21:30Z
+17,Sat Aug 28 2010,18:30,-0300,Ceará CE,2-2,1-2,Grêmio Prudente,2010-08-28T21:30Z
+17,Sun Aug 29 2010,18:30,-0300,Athletico Paranaense,1-1,1-0,Grêmio Porto Alegre,2010-08-29T21:30Z
+17,Sun Aug 29 2010,16:00,-0300,Corinthians SP,2-1,2-0,Vitória BA,2010-08-29T19:00Z
+17,Sun Aug 29 2010,16:00,-0300,Guarani SP,2-1,0-1,Flamengo RJ,2010-08-29T19:00Z
+17,Sun Aug 29 2010,16:00,-0300,Atlético Mineiro,1-2,0-0,Palmeiras,2010-08-29T19:00Z
+17,Sun Aug 29 2010,18:30,-0300,Fluminense RJ,2-2,1-2,São Paulo FC,2010-08-29T21:30Z
+17,Sun Aug 29 2010,18:30,-0300,Atlético Goianiense,2-2,2-1,Avaí SC,2010-08-29T21:30Z
+18,Wed Sep 1 2010,22:00,-0300,Fluminense RJ,1-1,1-0,Palmeiras,2010-09-02T01:00Z
+18,Wed Sep 1 2010,19:30,-0300,Vitória BA,0-0,0-0,Internacional,2010-09-01T22:30Z
+18,Wed Sep 1 2010,19:30,-0300,Grêmio Porto Alegre,1-0,1-0,Guarani SP,2010-09-01T22:30Z
+18,Wed Sep 1 2010,19:30,-0300,Grêmio Prudente,0-1,0-0,Botafogo RJ,2010-09-01T22:30Z
+18,Wed Sep 1 2010,21:00,-0300,Goiás GO,1-3,1-1,Atlético Mineiro,2010-09-02T00:00Z
+18,Wed Sep 1 2010,22:00,-0300,Cruzeiro,1-0,1-0,Flamengo RJ,2010-09-02T01:00Z
+18,Wed Sep 1 2010,22:00,-0300,Athletico Paranaense,2-1,0-0,Ceará CE,2010-09-02T01:00Z
+18,Thu Sep 2 2010,21:00,-0300,Santos FC,2-1,1-0,Avaí SC,2010-09-03T00:00Z
+18,Thu Sep 2 2010,21:00,-0300,São Paulo FC,2-1,1-0,Atlético Goianiense,2010-09-03T00:00Z
+19,Sat Sep 4 2010,18:30,-0300,Corinthians SP,5-1,1-1,Goiás GO,2010-09-04T21:30Z
+19,Sat Sep 4 2010,18:30,-0300,Ceará CE,0-2,0-1,Vasco da Gama RJ,2010-09-04T21:30Z
+19,Sat Sep 4 2010,18:30,-0300,Botafogo RJ,2-2,2-0,Grêmio Porto Alegre,2010-09-04T21:30Z
+19,Sun Sep 5 2010,18:30,-0300,Internacional,2-0,0-0,Grêmio Prudente,2010-09-05T21:30Z
+19,Sun Sep 5 2010,18:30,-0300,Atlético Goianiense,4-1,1-0,Vitória BA,2010-09-05T21:30Z
+19,Sun Sep 5 2010,16:00,-0300,Avaí SC,0-1,0-0,Athletico Paranaense,2010-09-05T19:00Z
+19,Sun Sep 5 2010,16:00,-0300,Palmeiras,2-3,2-0,Cruzeiro,2010-09-05T19:00Z
+19,Sun Sep 5 2010,16:00,-0300,Guarani SP,2-1,1-1,Fluminense RJ,2010-09-05T19:00Z
+19,Sun Sep 5 2010,16:00,-0300,Flamengo RJ,0-0,0-0,Santos FC,2010-09-05T19:00Z
+19,Sun Sep 5 2010,18:30,-0300,Atlético Mineiro,2-3,2-1,São Paulo FC,2010-09-05T21:30Z
+20,Wed Sep 8 2010,22:00,-0300,Athletico Paranaense,1-1,0-1,Corinthians SP,2010-09-09T01:00Z
+20,Wed Sep 8 2010,22:00,-0300,Vitória BA,1-1,1-0,Palmeiras,2010-09-09T01:00Z
+20,Wed Sep 8 2010,19:30,-0300,Fluminense RJ,3-1,3-0,Ceará CE,2010-09-08T22:30Z
+20,Wed Sep 8 2010,19:30,-0300,Cruzeiro,1-0,1-0,Internacional,2010-09-08T22:30Z
+20,Wed Sep 8 2010,19:30,-0300,Grêmio Porto Alegre,2-0,1-0,Atlético Goianiense,2010-09-08T22:30Z
+20,Wed Sep 8 2010,19:30,-0300,Goiás GO,3-1,2-0,Guarani SP,2010-09-08T22:30Z
+20,Wed Sep 8 2010,22:00,-0300,São Paulo FC,2-0,2-0,Flamengo RJ,2010-09-09T01:00Z
+20,Thu Sep 9 2010,21:00,-0300,Vasco da Gama RJ,1-1,1-0,Atlético Mineiro,2010-09-10T00:00Z
+20,Thu Sep 9 2010,21:00,-0300,Santos FC,0-1,0-0,Botafogo RJ,2010-09-10T00:00Z
+20,Thu Sep 9 2010,21:00,-0300,Grêmio Prudente,1-1,0-1,Avaí SC,2010-09-10T00:00Z
+21,Sat Sep 11 2010,18:30,-0300,Flamengo RJ,2-2,0-0,Vitória BA,2010-09-11T21:30Z
+21,Sat Sep 11 2010,18:30,-0300,Corinthians SP,0-1,0-1,Grêmio Porto Alegre,2010-09-11T21:30Z
+21,Sat Sep 11 2010,18:30,-0300,Atlético Goianiense,2-1,1-1,Fluminense RJ,2010-09-11T21:30Z
+21,Sun Sep 12 2010,18:30,-0300,Internacional,0-0,0-0,Goiás GO,2010-09-12T21:30Z
+21,Sun Sep 12 2010,18:30,-0300,Ceará CE,2-1,1-1,Santos FC,2010-09-12T21:30Z
+21,Sun Sep 12 2010,16:00,-0300,Palmeiras,0-0,0-0,Vasco da Gama RJ,2010-09-12T19:00Z
+21,Sun Sep 12 2010,16:00,-0300,Botafogo RJ,2-0,0-0,São Paulo FC,2010-09-12T19:00Z
+21,Sun Sep 12 2010,16:00,-0300,Atlético Mineiro,1-0,0-0,Grêmio Prudente,2010-09-12T19:00Z
+21,Sun Sep 12 2010,16:00,-0300,Avaí SC,1-2,0-1,Cruzeiro,2010-09-12T19:00Z
+21,Sun Sep 12 2010,18:30,-0300,Guarani SP,1-0,0-0,Athletico Paranaense,2010-09-12T21:30Z
+22,Wed Sep 15 2010,22:00,-0300,Vitória BA,0-0,0-0,Ceará CE,2010-09-16T01:00Z
+22,Wed Sep 15 2010,22:00,-0300,Grêmio Prudente,1-2,1-0,Flamengo RJ,2010-09-16T01:00Z
+22,Wed Sep 15 2010,19:30,-0300,Santos FC,4-2,0-1,Atlético Goianiense,2010-09-15T22:30Z
+22,Wed Sep 15 2010,19:30,-0300,Cruzeiro,4-2,2-0,Guarani SP,2010-09-15T22:30Z
+22,Wed Sep 15 2010,19:30,-0300,Grêmio Porto Alegre,1-2,0-1,Palmeiras,2010-09-15T22:30Z
+22,Wed Sep 15 2010,19:30,-0300,Goiás GO,4-1,2-1,Botafogo RJ,2010-09-15T22:30Z
+22,Wed Sep 15 2010,19:30,-0300,Athletico Paranaense,2-1,1-1,Atlético Mineiro,2010-09-15T22:30Z
+22,Wed Sep 15 2010,22:00,-0300,Fluminense RJ,1-2,0-1,Corinthians SP,2010-09-16T01:00Z
+22,Thu Sep 16 2010,21:00,-0300,São Paulo FC,1-3,1-2,Internacional,2010-09-17T00:00Z
+22,Thu Sep 16 2010,21:00,-0300,Vasco da Gama RJ,1-1,1-0,Avaí SC,2010-09-17T00:00Z
+23,Sat Sep 18 2010,18:30,-0300,Botafogo RJ,2-2,1-0,Cruzeiro,2010-09-18T21:30Z
+23,Sat Sep 18 2010,18:30,-0300,Corinthians SP,3-0,1-0,Grêmio Prudente,2010-09-18T21:30Z
+23,Sat Sep 18 2010,18:30,-0300,Atlético Goianiense,1-2,0-2,Athletico Paranaense,2010-09-18T21:30Z
+23,Sun Sep 19 2010,18:30,-0300,Ceará CE,1-1,1-0,Goiás GO,2010-09-19T21:30Z
+23,Sun Sep 19 2010,16:00,-0300,Internacional,1-0,0-0,Vasco da Gama RJ,2010-09-19T19:00Z
+23,Sun Sep 19 2010,16:00,-0300,Palmeiras,0-2,0-0,São Paulo FC,2010-09-19T19:00Z
+23,Sun Sep 19 2010,16:00,-0300,Guarani SP,0-0,0-0,Santos FC,2010-09-19T19:00Z
+23,Sun Sep 19 2010,16:00,-0300,Atlético Mineiro,2-3,1-2,Vitória BA,2010-09-19T19:00Z
+23,Sun Sep 19 2010,18:30,-0300,Flamengo RJ,3-3,2-1,Fluminense RJ,2010-09-19T21:30Z
+23,Sun Sep 19 2010,18:30,-0300,Avaí SC,0-3,0-1,Grêmio Porto Alegre,2010-09-19T21:30Z
+24,Wed Sep 22 2010,22:00,-0300,Santos FC,2-3,2-2,Corinthians SP,2010-09-23T01:00Z
+24,Wed Sep 22 2010,22:00,-0300,Athletico Paranaense,1-0,1-0,Internacional,2010-09-23T01:00Z
+24,Wed Sep 22 2010,19:30,-0300,São Paulo FC,2-1,1-1,Guarani SP,2010-09-22T22:30Z
+24,Wed Sep 22 2010,19:30,-0300,Grêmio Prudente,0-1,0-0,Palmeiras,2010-09-22T22:30Z
+24,Wed Sep 22 2010,19:30,-0300,Cruzeiro,2-0,0-0,Ceará CE,2010-09-22T22:30Z
+24,Wed Sep 22 2010,19:30,-0300,Goiás GO,1-3,1-1,Atlético Goianiense,2010-09-22T22:30Z
+24,Wed Sep 22 2010,21:00,-0300,Vasco da Gama RJ,2-2,2-0,Botafogo RJ,2010-09-23T00:00Z
+24,Wed Sep 22 2010,22:00,-0300,Grêmio Porto Alegre,2-2,1-1,Flamengo RJ,2010-09-23T01:00Z
+24,Thu Sep 23 2010,21:00,-0300,Vitória BA,3-0,1-0,Avaí SC,2010-09-24T00:00Z
+24,Thu Sep 23 2010,21:00,-0300,Fluminense RJ,5-1,2-1,Atlético Mineiro,2010-09-24T00:00Z
+25,Sat Sep 25 2010,18:30,-0300,Atlético Goianiense,3-0,1-0,Grêmio Prudente,2010-09-25T21:30Z
+25,Sat Sep 25 2010,18:30,-0300,Flamengo RJ,1-3,0-2,Palmeiras,2010-09-25T21:30Z
+25,Sat Sep 25 2010,18:30,-0300,São Paulo FC,0-3,0-3,Goiás GO,2010-09-25T21:30Z
+25,Sat Sep 25 2010,18:30,-0300,Santos FC,4-1,0-0,Cruzeiro,2010-09-25T21:30Z
+25,Sat Sep 25 2010,18:30,-0300,Guarani SP,1-0,0-0,Vasco da Gama RJ,2010-09-25T21:30Z
+25,Sun Sep 26 2010,18:30,-0300,Atlético Mineiro,1-2,1-2,Grêmio Porto Alegre,2010-09-26T21:30Z
+25,Sun Sep 26 2010,16:00,-0300,Botafogo RJ,1-1,1-0,Athletico Paranaense,2010-09-26T19:00Z
+25,Sun Sep 26 2010,16:00,-0300,Internacional,3-2,1-0,Corinthians SP,2010-09-26T19:00Z
+25,Sun Sep 26 2010,16:00,-0300,Vitória BA,1-2,0-0,Fluminense RJ,2010-09-26T19:00Z
+25,Sun Sep 26 2010,18:30,-0300,Avaí SC,5-0,4-0,Ceará CE,2010-09-26T21:30Z
+26,Tue Sep 28 2010,21:00,-0300,Vasco da Gama RJ,3-1,2-0,Santos FC,2010-09-29T00:00Z
+26,Tue Sep 28 2010,21:10,-0300,Goiás GO,1-1,0-0,Flamengo RJ,2010-09-29T00:10Z
+26,Wed Sep 29 2010,22:00,-0300,Ceará CE,0-0,0-0,Atlético Mineiro,2010-09-30T01:00Z
+26,Wed Sep 29 2010,19:30,-0300,Palmeiras,2-0,1-0,Internacional,2010-09-29T22:30Z
+26,Wed Sep 29 2010,22:00,-0300,Corinthians SP,1-1,1-1,Botafogo RJ,2010-09-30T01:00Z
+26,Wed Sep 29 2010,19:30,-0300,Grêmio Prudente,4-2,2-0,Guarani SP,2010-09-29T22:30Z
+26,Wed Sep 29 2010,19:30,-0300,Cruzeiro,3-0,2-0,Atlético Goianiense,2010-09-29T22:30Z
+26,Wed Sep 29 2010,19:30,-0300,Athletico Paranaense,1-0,1-0,Vitória BA,2010-09-29T22:30Z
+26,Wed Sep 29 2010,21:00,-0300,Fluminense RJ,1-0,0-0,Avaí SC,2010-09-30T00:00Z
+26,Wed Sep 29 2010,22:00,-0300,Grêmio Porto Alegre,4-2,2-1,São Paulo FC,2010-09-30T01:00Z
+27,Fri Oct 1 2010,21:00,-0300,Vasco da Gama RJ,3-2,1-2,Goiás GO,2010-10-02T00:00Z
+27,Sat Oct 2 2010,16:00,-0300,Grêmio Prudente,1-1,0-1,Fluminense RJ,2010-10-02T19:00Z
+27,Sat Oct 2 2010,21:00,-0300,Avaí SC,0-0,0-0,São Paulo FC,2010-10-03T00:00Z
+27,Sat Oct 2 2010,16:00,-0300,Corinthians SP,2-2,0-1,Ceará CE,2010-10-02T19:00Z
+27,Sat Oct 2 2010,16:00,-0300,Santos FC,1-1,0-1,Palmeiras,2010-10-02T19:00Z
+27,Sat Oct 2 2010,21:00,-0300,Atlético Goianiense,2-3,2-1,Atlético Mineiro,2010-10-03T00:00Z
+27,Sat Oct 2 2010,16:00,-0300,Vitória BA,0-3,0-1,Grêmio Porto Alegre,2010-10-02T19:00Z
+27,Sat Oct 2 2010,18:30,-0300,Botafogo RJ,1-1,1-0,Flamengo RJ,2010-10-02T21:30Z
+27,Sat Oct 2 2010,18:30,-0300,Cruzeiro,0-0,0-0,Athletico Paranaense,2010-10-02T21:30Z
+27,Sat Oct 2 2010,18:30,-0300,Internacional,3-0,0-0,Guarani SP,2010-10-02T21:30Z
+28,Wed Oct 6 2010,21:50,-0300,Atlético Mineiro,2-1,0-1,Corinthians SP,2010-10-07T00:50Z
+28,Wed Oct 6 2010,21:50,-0300,Ceará CE,1-0,0-0,Internacional,2010-10-07T00:50Z
+28,Wed Oct 6 2010,19:30,-0300,Fluminense RJ,0-3,0-0,Santos FC,2010-10-06T22:30Z
+28,Wed Oct 6 2010,19:30,-0300,Guarani SP,1-1,1-1,Botafogo RJ,2010-10-06T22:30Z
+28,Wed Oct 6 2010,19:30,-0300,Grêmio Porto Alegre,4-0,3-0,Grêmio Prudente,2010-10-06T22:30Z
+28,Wed Oct 6 2010,21:50,-0300,São Paulo FC,2-0,2-0,Vitória BA,2010-10-07T00:50Z
+28,Wed Oct 6 2010,21:50,-0300,Athletico Paranaense,0-0,0-0,Vasco da Gama RJ,2010-10-07T00:50Z
+28,Thu Oct 7 2010,21:00,-0300,Flamengo RJ,2-0,0-0,Atlético Goianiense,2010-10-08T00:00Z
+28,Thu Oct 7 2010,21:00,-0300,Goiás GO,0-1,0-0,Cruzeiro,2010-10-08T00:00Z
+28,Thu Oct 7 2010,21:00,-0300,Palmeiras,4-1,1-1,Avaí SC,2010-10-08T00:00Z
+29,Sat Oct 9 2010,18:30,-0300,Grêmio Prudente,2-3,1-2,São Paulo FC,2010-10-09T21:30Z
+29,Sat Oct 9 2010,18:30,-0300,Vasco da Gama RJ,3-3,2-1,Grêmio Porto Alegre,2010-10-09T21:30Z
+29,Sat Oct 9 2010,18:30,-0300,Santos FC,2-0,0-0,Athletico Paranaense,2010-10-09T21:30Z
+29,Sun Oct 10 2010,16:00,-0300,Avaí SC,2-2,0-2,Flamengo RJ,2010-10-10T19:00Z
+29,Sun Oct 10 2010,18:30,-0300,Internacional,1-0,1-0,Atlético Mineiro,2010-10-10T21:30Z
+29,Sun Oct 10 2010,16:00,-0300,Corinthians SP,3-4,1-3,Atlético Goianiense,2010-10-10T19:00Z
+29,Sun Oct 10 2010,16:00,-0300,Botafogo RJ,0-0,0-0,Palmeiras,2010-10-10T19:00Z
+29,Sun Oct 10 2010,16:00,-0300,Cruzeiro,1-0,1-0,Fluminense RJ,2010-10-10T19:00Z
+29,Sun Oct 10 2010,16:00,-0300,Goiás GO,1-0,0-0,Vitória BA,2010-10-10T19:00Z
+29,Sun Oct 10 2010,18:30,-0300,Ceará CE,2-0,2-0,Guarani SP,2010-10-10T21:30Z
+13,Wed Oct 13 2010,22:00,-0300,Santos FC,1-0,1-0,Internacional,2010-10-14T01:00Z
+18,Wed Oct 13 2010,22:00,-0300,Vasco da Gama RJ,2-0,2-0,Corinthians SP,2010-10-14T01:00Z
+30,Sat Oct 16 2010,18:30,-0300,Athletico Paranaense,2-1,1-0,Goiás GO,2010-10-16T21:30Z
+30,Sat Oct 16 2010,18:30,-0300,Flamengo RJ,3-0,2-0,Internacional,2010-10-16T21:30Z
+30,Sun Oct 17 2010,16:00,-0200,Guarani SP,0-0,0-0,Corinthians SP,2010-10-17T18:00Z
+30,Sun Oct 17 2010,16:00,-0200,Atlético Mineiro,2-0,0-0,Avaí SC,2010-10-17T18:00Z
+30,Sun Oct 17 2010,16:00,-0200,Grêmio Porto Alegre,2-1,1-1,Cruzeiro,2010-10-17T18:00Z
+30,Sun Oct 17 2010,16:00,-0200,Atlético Goianiense,2-0,0-0,Vasco da Gama RJ,2010-10-17T18:00Z
+30,Sun Oct 17 2010,18:30,-0200,São Paulo FC,4-3,3-2,Santos FC,2010-10-17T20:30Z
+30,Sun Oct 17 2010,18:30,-0200,Palmeiras,1-1,1-0,Ceará CE,2010-10-17T20:30Z
+30,Sun Oct 17 2010,18:30,-0200,Fluminense RJ,0-0,0-0,Botafogo RJ,2010-10-17T20:30Z
+30,Sun Oct 17 2010,18:30,-0200,Vitória BA,2-0,1-0,Grêmio Prudente,2010-10-17T20:30Z
+31,Sat Oct 23 2010,18:30,-0200,Botafogo RJ,1-0,1-0,Vitória BA,2010-10-23T20:30Z
+31,Sat Oct 23 2010,18:30,-0200,Guarani SP,0-1,0-0,Atlético Goianiense,2010-10-23T20:30Z
+31,Sun Oct 24 2010,16:00,-0200,Corinthians SP,1-0,1-0,Palmeiras,2010-10-24T18:00Z
+31,Sun Oct 24 2010,16:00,-0200,Goiás GO,1-0,1-0,Avaí SC,2010-10-24T18:00Z
+31,Sun Oct 24 2010,16:00,-0200,Ceará CE,2-0,2-0,São Paulo FC,2010-10-24T18:00Z
+31,Sun Oct 24 2010,16:00,-0200,Athletico Paranaense,2-2,0-0,Fluminense RJ,2010-10-24T18:00Z
+31,Sun Oct 24 2010,18:30,-0200,Santos FC,2-3,2-0,Grêmio Prudente,2010-10-24T20:30Z
+31,Sun Oct 24 2010,18:30,-0200,Vasco da Gama RJ,1-1,1-0,Flamengo RJ,2010-10-24T20:30Z
+31,Sun Oct 24 2010,18:30,-0200,Cruzeiro,3-4,1-3,Atlético Mineiro,2010-10-24T20:30Z
+31,Sun Oct 24 2010,18:30,-0200,Grêmio Porto Alegre,2-2,1-0,Internacional,2010-10-24T20:30Z
+32,Wed Oct 27 2010,22:00,-0200,Flamengo RJ,1-1,0-1,Corinthians SP,2010-10-28T00:00Z
+32,Thu Oct 28 2010,21:00,-0200,São Paulo FC,2-1,1-1,Athletico Paranaense,2010-10-28T23:00Z
+32,Thu Oct 28 2010,21:00,-0200,Fluminense RJ,2-0,1-0,Grêmio Porto Alegre,2010-10-28T23:00Z
+32,Thu Oct 28 2010,21:00,-0200,Atlético Goianiense,1-1,1-0,Ceará CE,2010-10-28T23:00Z
+32,Sat Oct 30 2010,16:00,-0200,Vitória BA,4-2,3-0,Vasco da Gama RJ,2010-10-30T18:00Z
+32,Sat Oct 30 2010,18:30,-0200,Palmeiras,3-2,1-0,Goiás GO,2010-10-30T20:30Z
+32,Sat Oct 30 2010,18:30,-0200,Grêmio Prudente,0-2,0-2,Cruzeiro,2010-10-30T20:30Z
+32,Sat Oct 30 2010,18:30,-0200,Atlético Mineiro,0-2,0-0,Botafogo RJ,2010-10-30T20:30Z
+32,Sat Oct 30 2010,18:30,-0200,Avaí SC,1-0,1-0,Guarani SP,2010-10-30T20:30Z
+32,Sat Oct 30 2010,16:00,-0200,Internacional,1-1,0-0,Santos FC,2010-10-30T18:00Z
+33,Wed Nov 3 2010,19:30,-0200,Santos FC,1-1,1-1,Vitória BA,2010-11-03T21:30Z
+33,Wed Nov 3 2010,19:30,-0200,Botafogo RJ,3-2,1-0,Atlético Goianiense,2010-11-03T21:30Z
+33,Wed Nov 3 2010,19:30,-0200,Guarani SP,0-0,0-0,Atlético Mineiro,2010-11-03T21:30Z
+33,Wed Nov 3 2010,19:30,-0200,Internacional,0-0,0-0,Fluminense RJ,2010-11-03T21:30Z
+33,Wed Nov 3 2010,19:30,-0200,Goiás GO,0-2,0-1,Grêmio Porto Alegre,2010-11-03T21:30Z
+33,Wed Nov 3 2010,21:50,-0200,Corinthians SP,4-0,1-0,Avaí SC,2010-11-03T23:50Z
+33,Wed Nov 3 2010,21:50,-0200,Cruzeiro,0-2,0-0,São Paulo FC,2010-11-03T23:50Z
+33,Wed Nov 3 2010,21:50,-0200,Ceará CE,2-2,1-1,Flamengo RJ,2010-11-03T23:50Z
+33,Thu Nov 4 2010,21:00,-0200,Athletico Paranaense,1-0,0-0,Palmeiras,2010-11-04T23:00Z
+33,Thu Nov 4 2010,21:00,-0200,Vasco da Gama RJ,2-1,2-1,Grêmio Prudente,2010-11-04T23:00Z
+34,Sat Nov 6 2010,19:30,-0200,Grêmio Porto Alegre,5-1,3-0,Ceará CE,2010-11-06T21:30Z
+34,Sat Nov 6 2010,19:30,-0200,Atlético Goianiense,2-2,2-0,Internacional,2010-11-06T21:30Z
+34,Sat Nov 6 2010,19:30,-0200,Atlético Mineiro,2-2,1-1,Santos FC,2010-11-06T21:30Z
+34,Sun Nov 7 2010,17:00,-0200,São Paulo FC,0-2,0-1,Corinthians SP,2010-11-07T19:00Z
+34,Sun Nov 7 2010,17:00,-0200,Grêmio Prudente,4-1,1-1,Goiás GO,2010-11-07T19:00Z
+34,Sun Nov 7 2010,17:00,-0200,Vitória BA,0-1,0-1,Cruzeiro,2010-11-07T19:00Z
+34,Sun Nov 7 2010,17:00,-0200,Avaí SC,0-0,0-0,Botafogo RJ,2010-11-07T19:00Z
+34,Sun Nov 7 2010,19:30,-0200,Palmeiras,1-0,1-0,Guarani SP,2010-11-07T21:30Z
+34,Sun Nov 7 2010,19:30,-0200,Flamengo RJ,0-1,0-1,Athletico Paranaense,2010-11-07T21:30Z
+34,Sun Nov 7 2010,19:30,-0200,Fluminense RJ,1-0,1-0,Vasco da Gama RJ,2010-11-07T21:30Z
+35,Wed Nov 10 2010,21:50,-0200,Ceará CE,2-2,2-1,Botafogo RJ,2010-11-10T23:50Z
+35,Sat Nov 13 2010,19:30,-0200,Santos FC,0-0,0-0,Grêmio Porto Alegre,2010-11-13T21:30Z
+35,Sat Nov 13 2010,19:30,-0200,Atlético Mineiro,4-1,2-0,Flamengo RJ,2010-11-13T21:30Z
+35,Sat Nov 13 2010,19:30,-0200,Corinthians SP,1-0,0-0,Cruzeiro,2010-11-13T21:30Z
+35,Sun Nov 14 2010,17:00,-0200,Fluminense RJ,1-1,0-1,Goiás GO,2010-11-14T19:00Z
+35,Sun Nov 14 2010,17:00,-0200,Guarani SP,1-1,0-0,Vitória BA,2010-11-14T19:00Z
+35,Sun Nov 14 2010,17:00,-0200,Internacional,2-3,0-2,Avaí SC,2010-11-14T19:00Z
+35,Sun Nov 14 2010,17:00,-0200,Atlético Goianiense,3-0,1-0,Palmeiras,2010-11-14T19:00Z
+35,Sun Nov 14 2010,19:30,-0200,Vasco da Gama RJ,1-1,0-0,São Paulo FC,2010-11-14T21:30Z
+35,Sun Nov 14 2010,19:30,-0200,Athletico Paranaense,2-1,1-1,Grêmio Prudente,2010-11-14T21:30Z
+36,Sat Nov 20 2010,19:30,-0200,Flamengo RJ,2-1,2-1,Guarani SP,2010-11-20T21:30Z
+36,Sat Nov 20 2010,19:30,-0200,Grêmio Prudente,1-1,1-0,Ceará CE,2010-11-20T21:30Z
+36,Sat Nov 20 2010,19:30,-0200,Grêmio Porto Alegre,3-1,1-1,Athletico Paranaense,2010-11-20T21:30Z
+36,Sun Nov 21 2010,17:00,-0200,Palmeiras,0-2,0-1,Atlético Mineiro,2010-11-21T19:00Z
+36,Sun Nov 21 2010,17:00,-0200,Botafogo RJ,1-2,0-0,Internacional,2010-11-21T19:00Z
+36,Sun Nov 21 2010,17:00,-0200,Vitória BA,1-1,1-1,Corinthians SP,2010-11-21T19:00Z
+36,Sun Nov 21 2010,19:30,-0200,Cruzeiro,3-1,3-1,Vasco da Gama RJ,2010-11-21T21:30Z
+36,Sun Nov 21 2010,19:30,-0200,Avaí SC,3-0,1-0,Atlético Goianiense,2010-11-21T21:30Z
+36,Sun Nov 21 2010,20:00,-0200,Goiás GO,1-4,1-1,Santos FC,2010-11-21T22:00Z
+36,Sun Nov 21 2010,17:00,-0200,São Paulo FC,1-4,0-1,Fluminense RJ,2010-11-21T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Corinthians SP,2-0,1-0,Vasco da Gama RJ,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Palmeiras,1-2,1-1,Fluminense RJ,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Flamengo RJ,1-2,1-1,Cruzeiro,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Botafogo RJ,3-1,2-0,Grêmio Prudente,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Guarani SP,0-3,0-1,Grêmio Porto Alegre,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Atlético Mineiro,3-1,2-1,Goiás GO,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Internacional,1-1,0-0,Vitória BA,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Atlético Goianiense,1-1,0-0,São Paulo FC,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Ceará CE,1-1,1-1,Athletico Paranaense,2010-11-28T19:00Z
+37,Sun Nov 28 2010,17:00,-0200,Avaí SC,3-2,2-2,Santos FC,2010-11-28T19:00Z
+38,Thu Dec 2 2010,21:00,-0200,Grêmio Prudente,0-3,0-2,Internacional,2010-12-02T23:00Z
+38,Sun Dec 5 2010,17:00,-0200,São Paulo FC,4-0,3-0,Atlético Mineiro,2010-12-05T19:00Z
+38,Sun Dec 5 2010,17:00,-0200,Santos FC,0-0,0-0,Flamengo RJ,2010-12-05T19:00Z
+38,Sun Dec 5 2010,17:00,-0200,Vasco da Gama RJ,2-0,1-0,Ceará CE,2010-12-05T19:00Z
+38,Sun Dec 5 2010,17:00,-0200,Fluminense RJ,1-0,0-0,Guarani SP,2010-12-05T19:00Z
+38,Sun Dec 5 2010,17:00,-0200,Cruzeiro,2-1,0-0,Palmeiras,2010-12-05T19:00Z
+38,Sun Dec 5 2010,17:00,-0200,Grêmio Porto Alegre,3-0,2-0,Botafogo RJ,2010-12-05T19:00Z
+38,Sun Dec 5 2010,17:00,-0200,Goiás GO,1-1,1-1,Corinthians SP,2010-12-05T19:00Z
+38,Sun Dec 5 2010,17:00,-0200,Vitória BA,0-0,0-0,Atlético Goianiense,2010-12-05T19:00Z
+38,Sun Dec 5 2010,17:00,-0200,Athletico Paranaense,1-0,1-0,Avaí SC,2010-12-05T19:00Z

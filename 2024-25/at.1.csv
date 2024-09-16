@@ -31,9 +31,9 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
 6,Sat Sep 14 2024,,,RB Salzburg,,,SK Austria Klagenfurt,postponed,
 6,Sat Sep 14 2024,17:00,CEST/+0200,Wolfsberger AC,1-1,0-1,Rapid Wien,,2024-09-14T15:00Z
 6,Sat Sep 14 2024,19:30,CEST/+0200,FC Blau Weiß Linz,1-0,1-0,LASK,,2024-09-14T17:30Z
-6,Sun Sep 15 2024,17:00,CEST/+0200,Austria Wien,,,Sturm Graz,,2024-09-15T15:00Z
-6,Sun Sep 15 2024,14:30,CEST/+0200,Grazer AK,,,SCR Altach,,2024-09-15T12:30Z
-6,Sun Sep 15 2024,14:30,CEST/+0200,TSV Hartberg,,,WSG Tirol,,2024-09-15T12:30Z
+6,Sun Sep 15 2024,14:30,CEST/+0200,Grazer AK,1-1,1-1,SCR Altach,,2024-09-15T12:30Z
+6,Sun Sep 15 2024,,,Austria Wien,,,Sturm Graz,postponed,
+6,Sun Sep 15 2024,,,TSV Hartberg,,,WSG Tirol,postponed,
 7,Sat Sep 21 2024,17:00,CEST/+0200,LASK,,,Grazer AK,,2024-09-21T15:00Z
 7,Sat Sep 21 2024,17:00,CEST/+0200,SK Austria Klagenfurt,,,TSV Hartberg,,2024-09-21T15:00Z
 7,Sat Sep 21 2024,17:00,CEST/+0200,SCR Altach,,,FC Blau Weiß Linz,,2024-09-21T15:00Z

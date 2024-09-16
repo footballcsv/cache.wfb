@@ -1,0 +1,67 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+,1,Sat Jan 21 2023,16:30,-0300,Atlético Mineiro,2-1,1-1,Caldense MG,,2023-01-21T19:30Z
+,1,Sat Jan 21 2023,19:00,-0300,Atlético Patrocinense MG,1-2,0-2,Cruzeiro,,2023-01-21T22:00Z
+,1,Sat Jan 21 2023,15:00,-0300,Athletic MG,3-1,1-1,Tombense MG,,2023-01-21T18:00Z
+,1,Sun Jan 22 2023,18:30,-0300,Pouso Alegre MG,0-4,0-1,América MG,,2023-01-22T21:30Z
+,1,Mon Jan 23 2023,20:30,-0300,Democrata Gov. Valadares MG,1-0,0-0,Democrata de Sete Lagoas MG,,2023-01-23T23:30Z
+,2,Sat Jan 28 2023,16:00,-0300,Democrata de Sete Lagoas MG,0-0,0-0,Pouso Alegre MG,,2023-01-28T19:00Z
+,2,Sat Jan 28 2023,10:30,-0300,Cruzeiro,1-1,0-1,Athletic MG,,2023-01-28T13:30Z
+,2,Sat Jan 28 2023,16:00,-0300,Caldense MG,2-2,1-0,Democrata Gov. Valadares MG,,2023-01-28T19:00Z
+,2,Sun Jan 29 2023,11:00,-0300,Tombense MG,1-2,0-0,Atlético Mineiro,,2023-01-29T14:00Z
+,2,Sun Jan 29 2023,18:30,-0300,América MG,2-1,1-0,Villa Nova MG,,2023-01-29T21:30Z
+,3,Fri Feb 3 2023,20:30,-0300,Democrata Gov. Valadares MG,1-1,0-1,Athletic MG,,2023-02-03T23:30Z
+,3,Sat Feb 4 2023,19:00,-0300,Ipatinga MG,0-1,0-0,Atlético Mineiro,,2023-02-04T22:00Z
+,3,Sat Feb 4 2023,19:00,-0300,Tombense MG,3-0,1-0,Caldense MG,,2023-02-04T22:00Z
+,3,Sat Feb 4 2023,16:00,-0300,Democrata de Sete Lagoas MG,0-1,0-0,Villa Nova MG,,2023-02-04T19:00Z
+,3,Sat Feb 4 2023,16:30,-0300,América MG,1-0,0-0,Cruzeiro,,2023-02-04T19:30Z
+,3,Sat Feb 4 2023,17:00,-0300,Pouso Alegre MG,3-2,1-1,Atlético Patrocinense MG,,2023-02-04T20:00Z
+,4,Tue Feb 7 2023,20:00,-0300,Athletic MG,1-1,0-1,América MG,,2023-02-07T23:00Z
+,4,Tue Feb 7 2023,21:30,-0300,Cruzeiro,0-1,0-1,Pouso Alegre MG,,2023-02-08T00:30Z
+,4,Wed Feb 8 2023,20:00,-0300,Atlético Patrocinense MG,1-2,0-1,Tombense MG,,2023-02-08T23:00Z
+,4,Wed Feb 8 2023,19:15,-0300,Atlético Mineiro,3-0,3-0,Democrata de Sete Lagoas MG,,2023-02-08T22:15Z
+,4,Wed Feb 8 2023,20:00,-0300,Caldense MG,0-1,0-0,Ipatinga MG,,2023-02-08T23:00Z
+,4,Wed Feb 8 2023,20:30,-0300,Villa Nova MG,1-1,1-0,Democrata Gov. Valadares MG,,2023-02-08T23:30Z
+,5,Sat Feb 11 2023,18:00,-0300,América MG,2-1,2-0,Democrata Gov. Valadares MG,,2023-02-11T21:00Z
+,5,Sat Feb 11 2023,16:00,-0300,Caldense MG,2-1,1-1,Villa Nova MG,,2023-02-11T19:00Z
+,5,Sun Feb 12 2023,17:00,-0300,Pouso Alegre MG,1-1,0-0,Tombense MG,,2023-02-12T20:00Z
+,5,Sun Feb 12 2023,11:00,-0300,Atlético Patrocinense MG,1-0,1-0,Athletic MG,,2023-02-12T14:00Z
+,5,Sun Feb 12 2023,16:00,-0300,Democrata de Sete Lagoas MG,2-2,1-1,Ipatinga MG,,2023-02-12T19:00Z
+,5,Mon Feb 13 2023,20:00,-0300,Cruzeiro,1-1,0-0,Atlético Mineiro,,2023-02-13T23:00Z
+,6,Fri Feb 17 2023,19:30,-0300,Athletic MG,3-2,1-2,Caldense MG,,2023-02-17T22:30Z
+,6,Fri Feb 17 2023,21:30,-0300,Ipatinga MG,1-1,1-1,América MG,,2023-02-18T00:30Z
+,6,Sat Feb 18 2023,17:00,-0300,Tombense MG,2-2,1-1,Democrata de Sete Lagoas MG,,2023-02-18T20:00Z
+,6,Sat Feb 18 2023,19:00,-0300,Villa Nova MG,0-4,0-2,Cruzeiro,,2023-02-18T22:00Z
+,6,Sat Feb 18 2023,16:30,-0300,Atlético Mineiro,2-1,1-1,Atlético Patrocinense MG,,2023-02-18T19:30Z
+,6,Mon Feb 20 2023,20:30,-0300,Democrata Gov. Valadares MG,1-0,1-0,Pouso Alegre MG,,2023-02-20T23:30Z
+,1,Wed Feb 22 2023,20:30,-0300,Villa Nova MG,3-2,0-1,Ipatinga MG,,2023-02-22T23:30Z
+,7,Thu Feb 23 2023,16:30,-0300,Caldense MG,1-2,0-2,Cruzeiro,,2023-02-23T19:30Z
+,7,Sat Feb 25 2023,18:00,-0300,Atlético Patrocinense MG,1-1,1-0,Democrata Gov. Valadares MG,,2023-02-25T21:00Z
+,7,Sat Feb 25 2023,16:30,-0300,Atlético Mineiro,1-1,1-1,América MG,,2023-02-25T19:30Z
+,7,Sat Feb 25 2023,16:00,-0300,Democrata de Sete Lagoas MG,1-2,0-0,Athletic MG,,2023-02-25T19:00Z
+,7,Sun Feb 26 2023,16:00,-0300,Ipatinga MG,1-1,0-0,Pouso Alegre MG,,2023-02-26T19:00Z
+,7,Mon Feb 27 2023,19:00,-0300,Tombense MG,3-0,0-0,Villa Nova MG,,2023-02-27T22:00Z
+,2,Wed Mar 1 2023,20:00,-0300,Ipatinga MG,2-1,0-1,Atlético Patrocinense MG,,2023-03-01T23:00Z
+,8,Sat Mar 4 2023,16:30,-0300,Democrata Gov. Valadares MG,0-3,0-1,Atlético Mineiro,,2023-03-04T19:30Z
+,8,Sat Mar 4 2023,16:30,-0300,Cruzeiro,1-1,1-1,Democrata de Sete Lagoas MG,,2023-03-04T19:30Z
+,8,Sat Mar 4 2023,16:30,-0300,América MG,3-1,0-0,Tombense MG,,2023-03-04T19:30Z
+,8,Sat Mar 4 2023,16:30,-0300,Villa Nova MG,1-0,0-0,Atlético Patrocinense MG,,2023-03-04T19:30Z
+,8,Sat Mar 4 2023,16:30,-0300,Pouso Alegre MG,1-1,0-0,Caldense MG,,2023-03-04T19:30Z
+,8,Sat Mar 4 2023,16:30,-0300,Athletic MG,2-0,1-0,Ipatinga MG,,2023-03-04T19:30Z
+Fase final,Semifinals,Sat Mar 11 2023,16:30,-0300,Cruzeiro,0-2,0-1,América MG,,2023-03-11T19:30Z
+Troféu Inconfidência,Semifinals,Sat Mar 11 2023,18:00,-0300,Pouso Alegre MG,2-2,1-2,Tombense MG,,2023-03-11T21:00Z
+Fase final,Semifinals,Sun Mar 12 2023,16:00,-0300,Athletic MG,1-0,1-0,Atlético Mineiro,,2023-03-12T19:00Z
+Descenso,1,Sun Mar 12 2023,10:00,-0300,Atlético Patrocinense MG,2-0,1-0,Democrata de Sete Lagoas MG,,2023-03-12T13:00Z
+Troféu Inconfidência,Semifinals,Mon Mar 13 2023,20:30,-0300,Democrata Gov. Valadares MG,0-2,0-1,Villa Nova MG,,2023-03-13T23:30Z
+Fase final,Semifinals,Sat Mar 18 2023,16:30,-0300,Atlético Mineiro,1-0,0-0,Athletic MG,,2023-03-18T19:30Z
+Troféu Inconfidência,Semifinals,Sat Mar 18 2023,18:00,-0300,Tombense MG,0-0,0-0,Pouso Alegre MG,,2023-03-18T21:00Z
+Descenso,2,Sat Mar 18 2023,18:00,-0300,Democrata de Sete Lagoas MG,1-0,1-0,Caldense MG,,2023-03-18T21:00Z
+Fase final,Semifinals,Sun Mar 19 2023,18:00,-0300,América MG,2-1,1-0,Cruzeiro,,2023-03-19T21:00Z
+Troféu Inconfidência,Semifinals,Sun Mar 19 2023,16:00,-0300,Villa Nova MG,2-0,0-0,Democrata Gov. Valadares MG,,2023-03-19T19:00Z
+Descenso,3,Wed Mar 22 2023,20:00,-0300,Caldense MG,1-1,0-0,Atlético Patrocinense MG,,2023-03-22T23:00Z
+Troféu Inconfidência,Final,Sun Mar 26 2023,16:00,-0300,Villa Nova MG,1-2,1-2,Tombense MG,,2023-03-26T19:00Z
+Descenso,4,Sun Mar 26 2023,10:00,-0300,Atlético Patrocinense MG,1-0,0-0,Caldense MG,,2023-03-26T13:00Z
+Troféu Inconfidência,Final,Sat Apr 1 2023,18:00,-0300,Tombense MG,3-2,1-2,Villa Nova MG,,2023-04-01T21:00Z
+Fase final,Final,Sat Apr 1 2023,16:30,-0300,América MG,2-3,1-2,Atlético Mineiro,,2023-04-01T19:30Z
+Descenso,5,Sun Apr 2 2023,16:00,-0300,Caldense MG,2-0,1-0,Democrata de Sete Lagoas MG,,2023-04-02T19:00Z
+Descenso,6,Sun Apr 9 2023,,,Democrata de Sete Lagoas MG,(*),,Atlético Patrocinense MG,cancelled,
+Fase final,Final,Sun Apr 9 2023,16:30,-0300,Atlético Mineiro,2-0,1-0,América MG,,2023-04-09T19:30Z

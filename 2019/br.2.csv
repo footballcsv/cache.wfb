@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Apr 26 2019,19:15,-0300,Brasil de Pelotas RS,0-1,0-1,CA Bragantino,,2019-04-26T22:15Z
+1,Fri Apr 26 2019,21:30,-0300,São Bento SP,1-3,0-1,Atlético Goianiense,,2019-04-27T00:30Z
+1,Fri Apr 26 2019,21:30,-0300,Sport Recife PE,1-1,0-0,Oeste SP,,2019-04-27T00:30Z
+1,Fri Apr 26 2019,19:15,-0300,Operário Ferroviário PR,1-0,0-0,América MG,,2019-04-26T22:15Z
+1,Sat Apr 27 2019,11:00,-0300,Botafogo SP,3-1,0-0,Vitória BA,,2019-04-27T14:00Z
+1,Sat Apr 27 2019,16:30,-0300,Guarani SP,0-0,0-0,Figueirense SC,,2019-04-27T19:30Z
+1,Sat Apr 27 2019,16:30,-0300,Criciúma SC,0-1,0-0,Cuiabá MT,,2019-04-27T19:30Z
+1,Sat Apr 27 2019,21:00,-0300,Vila Nova GO,1-1,1-0,Paraná Clube,,2019-04-28T00:00Z
+1,Sun Apr 28 2019,16:00,-0300,CR Brasil AL,1-2,1-2,Londrina PR,,2019-04-28T19:00Z
+1,Mon Apr 29 2019,20:00,-0300,Coritiba PR,2-0,2-0,Ponte Preta,,2019-04-29T23:00Z
+2,Tue Apr 30 2019,21:30,-0300,América MG,0-1,0-0,Botafogo SP,,2019-05-01T00:30Z
+2,Wed May 1 2019,16:00,-0300,Oeste SP,2-0,1-0,Guarani SP,,2019-05-01T19:00Z
+2,Thu May 2 2019,21:00,-0300,Ponte Preta,1-1,1-0,Criciúma SC,,2019-05-03T00:00Z
+2,Fri May 3 2019,21:30,-0300,Atlético Goianiense,1-1,1-1,Coritiba PR,,2019-05-04T00:30Z
+2,Fri May 3 2019,19:15,-0300,Londrina PR,1-0,1-0,Brasil de Pelotas RS,,2019-05-03T22:15Z
+2,Sat May 4 2019,11:00,-0300,Figueirense SC,2-2,0-1,São Bento SP,,2019-05-04T14:00Z
+2,Sat May 4 2019,16:30,-0300,Vitória BA,2-1,1-1,Vila Nova GO,,2019-05-04T19:30Z
+2,Sat May 4 2019,19:00,-0300,Paraná Clube,1-0,1-0,CR Brasil AL,,2019-05-04T22:00Z
+2,Sat May 4 2019,19:00,-0300,Cuiabá MT,2-1,2-1,Operário Ferroviário PR,,2019-05-04T22:00Z
+2,Mon May 6 2019,20:00,-0300,CA Bragantino,1-1,1-1,Sport Recife PE,,2019-05-06T23:00Z
+3,Thu May 9 2019,21:30,-0300,Coritiba PR,0-0,0-0,Londrina PR,,2019-05-10T00:30Z
+3,Thu May 9 2019,19:15,-0300,São Bento SP,0-1,0-0,Botafogo SP,,2019-05-09T22:15Z
+3,Fri May 10 2019,19:15,-0300,CA Bragantino,3-0,1-0,Atlético Goianiense,,2019-05-10T22:15Z
+3,Fri May 10 2019,21:30,-0300,Vila Nova GO,0-0,0-0,Ponte Preta,,2019-05-11T00:30Z
+3,Sat May 11 2019,16:30,-0300,Sport Recife PE,0-0,0-0,Figueirense SC,,2019-05-11T19:30Z
+3,Sat May 11 2019,19:00,-0300,Operário Ferroviário PR,0-0,0-0,Oeste SP,,2019-05-11T22:00Z
+3,Sat May 11 2019,19:00,-0300,Brasil de Pelotas RS,0-2,0-1,CR Brasil AL,,2019-05-11T22:00Z
+3,Sat May 11 2019,19:00,-0300,Cuiabá MT,1-1,0-1,Paraná Clube,,2019-05-11T22:00Z
+3,Sat May 11 2019,11:00,-0300,Criciúma SC,0-0,0-0,América MG,,2019-05-11T14:00Z
+3,Mon May 13 2019,20:00,-0300,Guarani SP,3-2,1-1,Vitória BA,,2019-05-13T23:00Z
+4,Tue May 14 2019,21:30,-0300,Figueirense SC,1-0,0-0,Brasil de Pelotas RS,,2019-05-15T00:30Z
+4,Tue May 14 2019,19:15,-0300,Oeste SP,1-1,0-1,Cuiabá MT,,2019-05-14T22:15Z
+4,Fri May 17 2019,21:30,-0300,Ponte Preta,1-0,0-0,Operário Ferroviário PR,,2019-05-18T00:30Z
+4,Fri May 17 2019,19:15,-0300,Atlético Goianiense,3-1,1-0,Criciúma SC,,2019-05-17T22:15Z
+4,Sat May 18 2019,11:00,-0300,Londrina PR,1-0,0-0,CA Bragantino,,2019-05-18T14:00Z
+4,Sat May 18 2019,16:30,-0300,Paraná Clube,0-0,0-0,Guarani SP,,2019-05-18T19:30Z
+4,Sat May 18 2019,16:30,-0300,Vitória BA,1-3,1-0,São Bento SP,,2019-05-18T19:30Z
+4,Sat May 18 2019,19:00,-0300,Botafogo SP,0-1,0-1,Vila Nova GO,,2019-05-18T22:00Z
+4,Sun May 19 2019,16:00,-0300,América MG,1-2,0-0,Sport Recife PE,,2019-05-19T19:00Z
+4,Mon May 20 2019,20:00,-0300,CR Brasil AL,1-0,1-0,Coritiba PR,,2019-05-20T23:00Z
+5,Tue May 21 2019,21:30,-0300,CA Bragantino,2-0,0-0,Figueirense SC,,2019-05-22T00:30Z
+5,Tue May 21 2019,19:15,-0300,Criciúma SC,1-0,1-0,Guarani SP,,2019-05-21T22:15Z
+5,Fri May 24 2019,21:30,-0300,Sport Recife PE,3-2,1-0,Londrina PR,,2019-05-25T00:30Z
+5,Fri May 24 2019,19:15,-0300,CR Brasil AL,1-1,1-0,Vila Nova GO,,2019-05-24T22:15Z
+5,Sat May 25 2019,11:00,-0300,Coritiba PR,2-1,1-0,Cuiabá MT,,2019-05-25T14:00Z
+5,Sat May 25 2019,16:30,-0300,Ponte Preta,4-2,1-2,Paraná Clube,,2019-05-25T19:30Z
+5,Sat May 25 2019,16:30,-0300,São Bento SP,1-0,0-0,Oeste SP,,2019-05-25T19:30Z
+5,Sat May 25 2019,19:00,-0300,Operário Ferroviário PR,0-2,0-1,Botafogo SP,,2019-05-25T22:00Z
+5,Sat May 25 2019,19:00,-0300,Brasil de Pelotas RS,2-1,1-1,América MG,,2019-05-25T22:00Z
+5,Sun May 26 2019,16:00,-0300,Atlético Goianiense,1-1,0-1,Vitória BA,,2019-05-26T19:00Z
+6,Tue May 28 2019,21:30,-0300,Guarani SP,1-2,1-0,Brasil de Pelotas RS,,2019-05-29T00:30Z
+6,Tue May 28 2019,19:15,-0300,Operário Ferroviário PR,2-1,0-1,Sport Recife PE,,2019-05-28T22:15Z
+6,Fri May 31 2019,19:15,-0300,Figueirense SC,1-0,0-0,Atlético Goianiense,,2019-05-31T22:15Z
+6,Fri May 31 2019,20:30,-0300,São Bento SP,1-2,0-2,CR Brasil AL,,2019-05-31T23:30Z
+6,Fri May 31 2019,21:30,-0300,Vitória BA,0-2,0-2,CA Bragantino,,2019-06-01T00:30Z
+6,Sat Jun 1 2019,16:30,-0300,Botafogo SP,1-0,1-0,Criciúma SC,,2019-06-01T19:30Z
+6,Sat Jun 1 2019,16:30,-0300,Vila Nova GO,0-1,0-0,Londrina PR,,2019-06-01T19:30Z
+6,Sat Jun 1 2019,19:00,-0300,Cuiabá MT,1-3,1-1,Ponte Preta,,2019-06-01T22:00Z
+6,Sat Jun 1 2019,11:00,-0300,Paraná Clube,0-0,0-0,Oeste SP,,2019-06-01T14:00Z
+6,Mon Jun 3 2019,20:00,-0300,América MG,1-1,1-0,Coritiba PR,,2019-06-03T23:00Z
+7,Tue Jun 4 2019,19:00,-0300,CA Bragantino,2-0,0-0,São Bento SP,,2019-06-04T22:00Z
+7,Thu Jun 6 2019,19:15,-0300,Atlético Goianiense,1-0,0-0,Guarani SP,,2019-06-06T22:15Z
+7,Fri Jun 7 2019,21:30,-0300,Ponte Preta,0-0,0-0,Botafogo SP,,2019-06-08T00:30Z
+7,Fri Jun 7 2019,19:15,-0300,Londrina PR,1-0,1-0,Cuiabá MT,,2019-06-07T22:15Z
+7,Sat Jun 8 2019,11:00,-0300,Oeste SP,0-0,0-0,Figueirense SC,,2019-06-08T14:00Z
+7,Sat Jun 8 2019,16:30,-0300,Criciúma SC,1-1,0-0,Vila Nova GO,,2019-06-08T19:30Z
+7,Sat Jun 8 2019,16:30,-0300,Brasil de Pelotas RS,1-0,0-0,Operário Ferroviário PR,,2019-06-08T19:30Z
+7,Sat Jun 8 2019,18:00,-0300,Coritiba PR,2-3,1-1,Paraná Clube,,2019-06-08T21:00Z
+7,Sat Jun 8 2019,20:30,-0300,Sport Recife PE,3-1,2-1,Vitória BA,,2019-06-08T23:30Z
+7,Sat Jun 8 2019,20:30,-0300,CR Brasil AL,1-3,0-0,América MG,,2019-06-08T23:30Z
+8,Mon Jun 10 2019,20:00,-0300,Londrina PR,1-3,1-2,Ponte Preta,,2019-06-10T23:00Z
+8,Tue Jun 11 2019,19:15,-0300,Vila Nova GO,1-0,0-0,São Bento SP,,2019-06-11T22:15Z
+8,Tue Jun 11 2019,19:15,-0300,Figueirense SC,2-1,1-0,Botafogo SP,,2019-06-11T22:15Z
+8,Tue Jun 11 2019,19:15,-0300,Brasil de Pelotas RS,0-1,0-1,Criciúma SC,,2019-06-11T22:15Z
+8,Tue Jun 11 2019,20:30,-0300,CA Bragantino,2-0,1-0,América MG,,2019-06-11T23:30Z
+8,Tue Jun 11 2019,20:30,-0300,Oeste SP,3-0,1-0,Vitória BA,,2019-06-11T23:30Z
+8,Tue Jun 11 2019,20:30,-0300,Cuiabá MT,0-1,0-0,Atlético Goianiense,,2019-06-11T23:30Z
+8,Tue Jun 11 2019,21:30,-0300,Guarani SP,0-1,0-0,Coritiba PR,,2019-06-12T00:30Z
+8,Tue Jun 11 2019,21:30,-0300,Paraná Clube,1-0,0-0,Operário Ferroviário PR,,2019-06-12T00:30Z
+8,Tue Jun 11 2019,21:30,-0300,Sport Recife PE,1-0,1-0,CR Brasil AL,,2019-06-12T00:30Z
+9,Mon Jul 8 2019,20:00,-0300,São Bento SP,2-2,1-1,Sport Recife PE,,2019-07-08T23:00Z
+9,Tue Jul 9 2019,21:30,-0300,Criciúma SC,2-1,0-0,Coritiba PR,,2019-07-10T00:30Z
+9,Tue Jul 9 2019,19:15,-0300,Vitória BA,0-1,0-1,Cuiabá MT,,2019-07-09T22:15Z
+9,Fri Jul 12 2019,21:30,-0300,Ponte Preta,3-2,3-1,Oeste SP,,2019-07-13T00:30Z
+9,Fri Jul 12 2019,19:15,-0300,CR Brasil AL,2-1,2-1,Guarani SP,,2019-07-12T22:15Z
+9,Sat Jul 13 2019,11:00,-0300,América MG,0-4,0-1,Figueirense SC,,2019-07-13T14:00Z
+9,Sat Jul 13 2019,16:30,-0300,Atlético Goianiense,2-0,1-0,Vila Nova GO,,2019-07-13T19:30Z
+9,Sat Jul 13 2019,18:00,-0300,Botafogo SP,2-3,1-3,Brasil de Pelotas RS,,2019-07-13T21:00Z
+9,Sat Jul 13 2019,19:00,-0300,Paraná Clube,2-1,0-1,CA Bragantino,,2019-07-13T22:00Z
+9,Sat Jul 13 2019,19:00,-0300,Operário Ferroviário PR,2-0,2-0,Londrina PR,,2019-07-13T22:00Z
+10,Mon Jul 15 2019,20:00,-0300,Cuiabá MT,1-1,0-0,Sport Recife PE,,2019-07-15T23:00Z
+10,Tue Jul 16 2019,21:30,-0300,Ponte Preta,0-0,0-0,Atlético Goianiense,,2019-07-17T00:30Z
+10,Tue Jul 16 2019,19:15,-0300,Coritiba PR,2-1,0-1,São Bento SP,,2019-07-16T22:15Z
+10,Thu Jul 18 2019,21:30,-0300,Brasil de Pelotas RS,0-1,0-1,Paraná Clube,,2019-07-19T00:30Z
+10,Fri Jul 19 2019,19:15,-0300,Figueirense SC,1-1,0-1,Londrina PR,,2019-07-19T22:15Z
+10,Fri Jul 19 2019,21:30,-0300,Vitória BA,2-0,0-0,Criciúma SC,,2019-07-20T00:30Z
+10,Sat Jul 20 2019,16:30,-0300,Vila Nova GO,1-1,0-0,América MG,,2019-07-20T19:30Z
+10,Sat Jul 20 2019,19:00,-0300,Botafogo SP,0-0,0-0,Guarani SP,,2019-07-20T22:00Z
+10,Sat Jul 20 2019,19:00,-0300,Operário Ferroviário PR,2-1,0-1,CR Brasil AL,,2019-07-20T22:00Z
+10,Sat Jul 20 2019,11:00,-0300,Oeste SP,0-0,0-0,CA Bragantino,,2019-07-20T14:00Z
+11,Tue Jul 23 2019,19:15,-0300,Guarani SP,0-1,0-0,Cuiabá MT,,2019-07-23T22:15Z
+11,Tue Jul 23 2019,19:15,-0300,São Bento SP,1-1,1-1,Operário Ferroviário PR,,2019-07-23T22:15Z
+11,Tue Jul 23 2019,19:15,-0300,Coritiba PR,2-0,1-0,Vila Nova GO,,2019-07-23T22:15Z
+11,Tue Jul 23 2019,19:15,-0300,Figueirense SC,0-1,0-0,Paraná Clube,,2019-07-23T22:15Z
+11,Tue Jul 23 2019,20:30,-0300,CA Bragantino,2-1,0-1,Ponte Preta,,2019-07-23T23:30Z
+11,Tue Jul 23 2019,20:30,-0300,Atlético Goianiense,1-2,1-0,Botafogo SP,,2019-07-23T23:30Z
+11,Tue Jul 23 2019,20:30,-0300,Sport Recife PE,0-0,0-0,Brasil de Pelotas RS,,2019-07-23T23:30Z
+11,Tue Jul 23 2019,21:30,-0300,Londrina PR,3-1,1-1,Vitória BA,,2019-07-24T00:30Z
+11,Tue Jul 23 2019,21:30,-0300,América MG,0-0,0-0,Oeste SP,,2019-07-24T00:30Z
+11,Tue Jul 23 2019,21:30,-0300,CR Brasil AL,2-0,0-0,Criciúma SC,,2019-07-24T00:30Z
+12,Fri Jul 26 2019,19:15,-0300,América MG,0-1,0-0,Atlético Goianiense,,2019-07-26T22:15Z
+12,Fri Jul 26 2019,20:30,-0300,Guarani SP,2-1,1-0,São Bento SP,,2019-07-26T23:30Z
+12,Fri Jul 26 2019,20:30,-0300,Botafogo SP,0-2,0-0,CR Brasil AL,,2019-07-26T23:30Z
+12,Fri Jul 26 2019,21:30,-0300,Paraná Clube,0-1,0-1,Sport Recife PE,,2019-07-27T00:30Z
+12,Fri Jul 26 2019,19:15,-0300,Operário Ferroviário PR,1-1,1-0,Coritiba PR,,2019-07-26T22:15Z
+12,Sat Jul 27 2019,11:00,-0300,Criciúma SC,1-1,0-0,Figueirense SC,,2019-07-27T14:00Z
+12,Sat Jul 27 2019,16:30,-0300,Oeste SP,1-0,0-0,Londrina PR,,2019-07-27T19:30Z
+12,Sat Jul 27 2019,16:30,-0300,Vitória BA,2-1,2-1,Ponte Preta,,2019-07-27T19:30Z
+12,Sat Jul 27 2019,19:00,-0300,Vila Nova GO,0-1,0-1,CA Bragantino,,2019-07-27T22:00Z
+12,Sat Jul 27 2019,19:00,-0300,Cuiabá MT,1-1,0-0,Brasil de Pelotas RS,,2019-07-27T22:00Z
+13,Mon Jul 29 2019,20:00,-0300,Sport Recife PE,1-1,1-1,Guarani SP,,2019-07-29T23:00Z
+13,Mon Jul 29 2019,20:00,-0300,Coritiba PR,3-2,2-2,Botafogo SP,,2019-07-29T23:00Z
+13,Tue Jul 30 2019,19:15,-0300,Londrina PR,3-0,1-0,Paraná Clube,,2019-07-30T22:15Z
+13,Tue Jul 30 2019,19:15,-0300,Figueirense SC,1-1,1-1,Vitória BA,,2019-07-30T22:15Z
+13,Tue Jul 30 2019,19:15,-0300,Brasil de Pelotas RS,0-2,0-1,Vila Nova GO,,2019-07-30T22:15Z
+13,Tue Jul 30 2019,20:30,-0300,Ponte Preta,0-1,0-0,América MG,,2019-07-30T23:30Z
+13,Tue Jul 30 2019,20:30,-0300,São Bento SP,1-0,1-0,Criciúma SC,,2019-07-30T23:30Z
+13,Tue Jul 30 2019,20:30,-0300,Atlético Goianiense,4-2,0-2,Operário Ferroviário PR,,2019-07-30T23:30Z
+13,Tue Jul 30 2019,20:30,-0300,CR Brasil AL,2-2,1-1,Oeste SP,,2019-07-30T23:30Z
+13,Tue Jul 30 2019,21:30,-0300,CA Bragantino,2-2,2-1,Cuiabá MT,,2019-07-31T00:30Z
+14,Thu Aug 1 2019,21:30,-0300,Sport Recife PE,1-1,0-1,Coritiba PR,,2019-08-02T00:30Z
+14,Fri Aug 2 2019,19:15,-0300,Londrina PR,1-1,1-1,Atlético Goianiense,,2019-08-02T22:15Z
+14,Fri Aug 2 2019,20:30,-0300,Botafogo SP,3-2,1-2,Oeste SP,,2019-08-02T23:30Z
+14,Fri Aug 2 2019,21:30,-0300,Guarani SP,1-0,0-0,CA Bragantino,,2019-08-03T00:30Z
+14,Sat Aug 3 2019,11:00,-0300,Brasil de Pelotas RS,1-0,1-0,Vitória BA,,2019-08-03T14:00Z
+14,Sat Aug 3 2019,16:30,-0300,São Bento SP,0-0,0-0,Ponte Preta,,2019-08-03T19:30Z
+14,Sat Aug 3 2019,16:30,-0300,Criciúma SC,1-2,1-0,Operário Ferroviário PR,,2019-08-03T19:30Z
+14,Sat Aug 3 2019,17:00,-0300,Paraná Clube,0-0,0-0,América MG,,2019-08-03T20:00Z
+14,Sat Aug 3 2019,19:00,-0300,CR Brasil AL,0-1,0-0,Cuiabá MT,,2019-08-03T22:00Z
+14,Sat Aug 3 2019,19:15,-0300,Vila Nova GO,0-0,0-0,Figueirense SC,,2019-08-03T22:15Z
+15,Tue Aug 6 2019,21:30,-0300,América MG,4-3,1-2,Londrina PR,,2019-08-07T00:30Z
+15,Tue Aug 6 2019,19:15,-0300,Atlético Goianiense,0-1,0-0,CR Brasil AL,,2019-08-06T22:15Z
+15,Thu Aug 8 2019,21:30,-0300,Oeste SP,1-1,1-0,Brasil de Pelotas RS,,2019-08-09T00:30Z
+15,Fri Aug 9 2019,19:15,-0300,Operário Ferroviário PR,1-0,0-0,Vila Nova GO,,2019-08-09T22:15Z
+15,Fri Aug 9 2019,21:30,-0300,CA Bragantino,0-0,0-0,Botafogo SP,,2019-08-10T00:30Z
+15,Sat Aug 10 2019,19:00,-0300,Vitória BA,2-0,2-0,Paraná Clube,,2019-08-10T22:00Z
+15,Sat Aug 10 2019,19:00,-0300,Cuiabá MT,3-2,1-0,São Bento SP,,2019-08-10T22:00Z
+15,Sat Aug 10 2019,16:30,-0300,Coritiba PR,2-0,0-0,Figueirense SC,,2019-08-10T19:30Z
+15,Sun Aug 11 2019,16:00,-0300,Criciúma SC,1-0,0-0,Sport Recife PE,,2019-08-11T19:00Z
+15,Sun Aug 11 2019,11:00,-0300,Ponte Preta,1-0,1-0,Guarani SP,,2019-08-11T14:00Z
+16,Mon Aug 12 2019,20:00,-0300,CA Bragantino,4-0,2-0,Operário Ferroviário PR,,2019-08-12T23:00Z
+16,Tue Aug 13 2019,21:30,-0300,Coritiba PR,2-0,0-0,Brasil de Pelotas RS,,2019-08-14T00:30Z
+16,Tue Aug 13 2019,19:15,-0300,Atlético Goianiense,2-0,2-0,Oeste SP,,2019-08-13T22:15Z
+16,Thu Aug 15 2019,21:30,-0300,Figueirense SC,0-1,0-1,Ponte Preta,,2019-08-16T00:30Z
+16,Fri Aug 16 2019,21:30,-0300,Guarani SP,0-2,0-1,Vila Nova GO,,2019-08-17T00:30Z
+16,Fri Aug 16 2019,19:15,-0300,Londrina PR,1-1,1-1,Criciúma SC,,2019-08-16T22:15Z
+16,Sat Aug 17 2019,16:30,-0300,Sport Recife PE,3-0,1-0,Botafogo SP,,2019-08-17T19:30Z
+16,Sat Aug 17 2019,19:00,-0300,América MG,2-1,2-0,Cuiabá MT,,2019-08-17T22:00Z
+16,Sat Aug 17 2019,11:00,-0300,São Bento SP,2-1,0-1,Paraná Clube,,2019-08-17T14:00Z
+16,Sun Aug 18 2019,16:00,-0300,CR Brasil AL,0-1,0-1,Vitória BA,,2019-08-18T19:00Z
+17,Mon Aug 19 2019,20:00,-0300,Criciúma SC,0-2,0-1,CA Bragantino,,2019-08-19T23:00Z
+17,Mon Aug 19 2019,20:00,-0300,Oeste SP,0-2,0-0,Coritiba PR,,2019-08-19T23:00Z
+17,Tue Aug 20 2019,19:15,-0300,Botafogo SP,2-1,1-1,Londrina PR,,2019-08-20T22:15Z
+17,Tue Aug 20 2019,19:15,-0300,Operário Ferroviário PR,1-0,1-0,Guarani SP,,2019-08-20T22:15Z
+17,Tue Aug 20 2019,19:15,-0300,Brasil de Pelotas RS,2-1,1-0,São Bento SP,,2019-08-20T22:15Z
+17,Tue Aug 20 2019,20:30,-0300,Paraná Clube,0-0,0-0,Atlético Goianiense,,2019-08-20T23:30Z
+17,Tue Aug 20 2019,21:30,-0300,Vila Nova GO,0-2,0-0,Sport Recife PE,,2019-08-21T00:30Z
+17,Tue Aug 20 2019,21:30,-0300,Cuiabá MT,3-0 (*),,Figueirense SC,awd.,2019-08-21T00:30Z
+17,Wed Aug 21 2019,21:30,-0300,Ponte Preta,0-1,0-1,CR Brasil AL,,2019-08-22T00:30Z
+17,Wed Aug 21 2019,19:15,-0300,Vitória BA,0-0,0-0,América MG,,2019-08-21T22:15Z
+18,Thu Aug 22 2019,21:30,-0300,CA Bragantino,1-1,1-0,Coritiba PR,,2019-08-23T00:30Z
+18,Fri Aug 23 2019,21:30,-0300,Cuiabá MT,2-0,1-0,Botafogo SP,,2019-08-24T00:30Z
+18,Fri Aug 23 2019,19:15,-0300,Atlético Goianiense,0-0,0-0,Brasil de Pelotas RS,,2019-08-23T22:15Z
+18,Sat Aug 24 2019,11:00,-0300,Paraná Clube,0-0,0-0,Criciúma SC,,2019-08-24T14:00Z
+18,Sat Aug 24 2019,16:30,-0300,Oeste SP,1-1,0-1,Vila Nova GO,,2019-08-24T19:30Z
+18,Sat Aug 24 2019,16:30,-0300,Londrina PR,2-4,1-3,São Bento SP,,2019-08-24T19:30Z
+18,Sat Aug 24 2019,16:30,-0300,Vitória BA,0-0,0-0,Operário Ferroviário PR,,2019-08-24T19:30Z
+18,Sat Aug 24 2019,19:00,-0300,Ponte Preta,2-2,0-0,Sport Recife PE,,2019-08-24T22:00Z
+18,Sat Aug 24 2019,19:00,-0300,Figueirense SC,2-2,1-1,CR Brasil AL,,2019-08-24T22:00Z
+18,Sun Aug 25 2019,11:00,-0300,América MG,3-2,1-1,Guarani SP,,2019-08-25T14:00Z
+19,Tue Aug 27 2019,16:30,-0300,CR Brasil AL,0-3,0-1,CA Bragantino,,2019-08-27T19:30Z
+19,Tue Aug 27 2019,19:15,-0300,Botafogo SP,0-1,0-0,Paraná Clube,,2019-08-27T22:15Z
+19,Tue Aug 27 2019,19:15,-0300,Vila Nova GO,0-0,0-0,Cuiabá MT,,2019-08-27T22:15Z
+19,Tue Aug 27 2019,19:15,-0300,Coritiba PR,1-1,1-0,Vitória BA,,2019-08-27T22:15Z
+19,Tue Aug 27 2019,19:15,-0300,Brasil de Pelotas RS,1-0,0-0,Ponte Preta,,2019-08-27T22:15Z
+19,Tue Aug 27 2019,20:30,-0300,Operário Ferroviário PR,1-0,1-0,Figueirense SC,,2019-08-27T23:30Z
+19,Tue Aug 27 2019,20:30,-0300,Criciúma SC,3-1,1-1,Oeste SP,,2019-08-27T23:30Z
+19,Tue Aug 27 2019,21:30,-0300,Sport Recife PE,1-1,0-1,Atlético Goianiense,,2019-08-28T00:30Z
+19,Wed Aug 28 2019,19:15,-0300,São Bento SP,0-2,0-2,América MG,,2019-08-28T22:15Z
+19,Wed Aug 28 2019,19:15,-0300,Guarani SP,1-0,1-0,Londrina PR,,2019-08-28T22:15Z
+20,Fri Aug 30 2019,19:15,-0300,Paraná Clube,1-1,1-1,Vila Nova GO,,2019-08-30T22:15Z
+20,Fri Aug 30 2019,21:30,-0300,Vitória BA,0-0,0-0,Botafogo SP,,2019-08-31T00:30Z
+20,Fri Aug 30 2019,21:30,-0300,Cuiabá MT,0-0,0-0,Criciúma SC,,2019-08-31T00:30Z
+20,Sat Aug 31 2019,11:00,-0300,Oeste SP,0-0,0-0,Sport Recife PE,,2019-08-31T14:00Z
+20,Sat Aug 31 2019,16:30,-0300,Ponte Preta,1-0,1-0,Coritiba PR,,2019-08-31T19:30Z
+20,Sat Aug 31 2019,16:30,-0300,Atlético Goianiense,1-0,1-0,São Bento SP,,2019-08-31T19:30Z
+20,Sat Aug 31 2019,16:30,-0300,Londrina PR,0-1,0-0,CR Brasil AL,,2019-08-31T19:30Z
+20,Sat Aug 31 2019,16:30,-0300,Figueirense SC,0-1,0-1,Guarani SP,,2019-08-31T19:30Z
+20,Sat Aug 31 2019,19:00,-0300,CA Bragantino,2-1,1-1,Brasil de Pelotas RS,,2019-08-31T22:00Z
+20,Sat Aug 31 2019,19:00,-0300,América MG,0-0,0-0,Operário Ferroviário PR,,2019-08-31T22:00Z
+21,Tue Sep 3 2019,19:15,-0300,Brasil de Pelotas RS,1-0,1-0,Londrina PR,,2019-09-03T22:15Z
+21,Tue Sep 3 2019,21:30,-0300,Criciúma SC,0-0,0-0,Ponte Preta,,2019-09-04T00:30Z
+21,Tue Sep 3 2019,19:15,-0300,Vila Nova GO,0-2,0-2,Vitória BA,,2019-09-03T22:15Z
+21,Thu Sep 5 2019,19:15,-0300,CR Brasil AL,1-2,1-0,Paraná Clube,,2019-09-05T22:15Z
+21,Fri Sep 6 2019,18:45,-0300,São Bento SP,0-0,0-0,Figueirense SC,,2019-09-06T21:45Z
+21,Sat Sep 7 2019,11:00,-0300,Botafogo SP,0-0,0-0,América MG,,2019-09-07T14:00Z
+21,Sat Sep 7 2019,16:30,-0300,Guarani SP,2-3,1-2,Oeste SP,,2019-09-07T19:30Z
+21,Sat Sep 7 2019,16:30,-0300,Operário Ferroviário PR,2-1,1-0,Cuiabá MT,,2019-09-07T19:30Z
+21,Sat Sep 7 2019,19:00,-0300,Sport Recife PE,2-1,1-1,CA Bragantino,,2019-09-07T22:00Z
+21,Sun Sep 8 2019,11:00,-0300,Coritiba PR,1-2,0-1,Atlético Goianiense,,2019-09-08T14:00Z
+22,Tue Sep 10 2019,21:00,-0300,América MG,2-1,2-0,Criciúma SC,,2019-09-11T00:00Z
+22,Tue Sep 10 2019,18:45,-0300,CR Brasil AL,3-1,2-0,Brasil de Pelotas RS,,2019-09-10T21:45Z
+22,Thu Sep 12 2019,21:30,-0300,Ponte Preta,0-1,0-0,Vila Nova GO,,2019-09-13T00:30Z
+22,Fri Sep 13 2019,19:15,-0300,Botafogo SP,1-0,1-0,São Bento SP,,2019-09-13T22:15Z
+22,Fri Sep 13 2019,20:30,-0300,Oeste SP,3-0,1-0,Operário Ferroviário PR,,2019-09-13T23:30Z
+22,Fri Sep 13 2019,21:30,-0300,Atlético Goianiense,1-1,1-0,CA Bragantino,,2019-09-14T00:30Z
+22,Sat Sep 14 2019,16:30,-0300,Vitória BA,0-1,0-1,Guarani SP,,2019-09-14T19:30Z
+22,Sat Sep 14 2019,19:00,-0300,Paraná Clube,0-0,0-0,Cuiabá MT,,2019-09-14T22:00Z
+22,Sat Sep 14 2019,11:00,-0300,Londrina PR,2-1,0-1,Coritiba PR,,2019-09-14T14:00Z
+22,Sun Sep 15 2019,16:00,-0300,Figueirense SC,1-2,0-1,Sport Recife PE,,2019-09-15T19:00Z
+23,Mon Sep 16 2019,20:00,-0300,Operário Ferroviário PR,2-1,0-0,Ponte Preta,,2019-09-16T23:00Z
+23,Tue Sep 17 2019,19:15,-0300,Vila Nova GO,0-2,0-2,Botafogo SP,,2019-09-17T22:15Z
+23,Tue Sep 17 2019,21:30,-0300,São Bento SP,2-0,1-0,Vitória BA,,2019-09-18T00:30Z
+23,Thu Sep 19 2019,21:30,-0300,Brasil de Pelotas RS,2-2,2-1,Figueirense SC,,2019-09-20T00:30Z
+23,Fri Sep 20 2019,21:30,-0300,Sport Recife PE,0-2,0-0,América MG,,2019-09-21T00:30Z
+23,Fri Sep 20 2019,19:15,-0300,Criciúma SC,0-1,0-1,Atlético Goianiense,,2019-09-20T22:15Z
+23,Sat Sep 21 2019,11:00,-0300,Guarani SP,1-0,0-0,Paraná Clube,,2019-09-21T14:00Z
+23,Sat Sep 21 2019,16:30,-0300,CA Bragantino,4-1,2-0,Londrina PR,,2019-09-21T19:30Z
+23,Sat Sep 21 2019,19:00,-0300,Coritiba PR,0-2,0-2,CR Brasil AL,,2019-09-21T22:00Z
+23,Sat Sep 21 2019,19:00,-0300,Cuiabá MT,2-0,2-0,Oeste SP,,2019-09-21T22:00Z
+24,Tue Sep 24 2019,19:15,-0300,Botafogo SP,1-1,1-0,Operário Ferroviário PR,,2019-09-24T22:15Z
+24,Tue Sep 24 2019,19:15,-0300,Londrina PR,1-2,1-1,Sport Recife PE,,2019-09-24T22:15Z
+24,Tue Sep 24 2019,20:30,-0300,Oeste SP,2-1,2-1,São Bento SP,,2019-09-24T23:30Z
+24,Tue Sep 24 2019,20:30,-0300,Vila Nova GO,2-2,0-1,CR Brasil AL,,2019-09-24T23:30Z
+24,Tue Sep 24 2019,20:30,-0300,América MG,2-0,2-0,Brasil de Pelotas RS,,2019-09-24T23:30Z
+24,Tue Sep 24 2019,21:30,-0300,Figueirense SC,0-3,0-2,CA Bragantino,,2019-09-25T00:30Z
+24,Tue Sep 24 2019,21:30,-0300,Vitória BA,0-0,0-0,Atlético Goianiense,,2019-09-25T00:30Z
+24,Tue Sep 24 2019,19:15,-0300,Guarani SP,1-0,0-0,Criciúma SC,,2019-09-24T22:15Z
+24,Wed Sep 25 2019,19:15,-0300,Paraná Clube,1-1,0-0,Ponte Preta,,2019-09-25T22:15Z
+25,Fri Sep 27 2019,19:15,-0300,Londrina PR,0-1,0-0,Vila Nova GO,,2019-09-27T22:15Z
+25,Fri Sep 27 2019,20:30,-0300,Brasil de Pelotas RS,0-0,0-0,Guarani SP,,2019-09-27T23:30Z
+25,Fri Sep 27 2019,21:30,-0300,Atlético Goianiense,2-0,2-0,Figueirense SC,,2019-09-28T00:30Z
+25,Sat Sep 28 2019,19:00,-0300,Sport Recife PE,3-1,1-0,Operário Ferroviário PR,,2019-09-28T22:00Z
+25,Sat Sep 28 2019,11:00,-0300,Criciúma SC,2-0,1-0,Botafogo SP,,2019-09-28T14:00Z
+25,Sat Sep 28 2019,16:30,-0300,Ponte Preta,3-0,3-0,Cuiabá MT,,2019-09-28T19:30Z
+25,Sat Sep 28 2019,16:30,-0300,Coritiba PR,2-1,1-0,América MG,,2019-09-28T19:30Z
+25,Sat Sep 28 2019,19:00,-0300,Oeste SP,1-1,1-1,Paraná Clube,,2019-09-28T22:00Z
+25,Sat Sep 28 2019,21:00,-0300,CR Brasil AL,1-1,0-0,São Bento SP,,2019-09-29T00:00Z
+25,Sun Sep 29 2019,16:00,-0300,CA Bragantino,2-0,0-0,Vitória BA,,2019-09-29T19:00Z
+26,Mon Sep 30 2019,20:00,-0300,Guarani SP,2-0,2-0,Atlético Goianiense,,2019-09-30T23:00Z
+26,Tue Oct 1 2019,19:15,-0300,Vila Nova GO,1-1,0-0,Criciúma SC,,2019-10-01T22:15Z
+26,Thu Oct 3 2019,19:15,-0300,América MG,1-0,1-0,CR Brasil AL,,2019-10-03T22:15Z
+26,Thu Oct 3 2019,21:30,-0300,Vitória BA,2-2,1-0,Sport Recife PE,,2019-10-04T00:30Z
+26,Fri Oct 4 2019,19:15,-0300,Figueirense SC,1-2,1-2,Oeste SP,,2019-10-04T22:15Z
+26,Fri Oct 4 2019,21:30,-0300,São Bento SP,0-3,0-1,CA Bragantino,,2019-10-05T00:30Z
+26,Sat Oct 5 2019,19:00,-0300,Cuiabá MT,0-1,0-1,Londrina PR,,2019-10-05T22:00Z
+26,Sat Oct 5 2019,11:00,-0300,Botafogo SP,4-1,3-0,Ponte Preta,,2019-10-05T14:00Z
+26,Sat Oct 5 2019,16:30,-0300,Paraná Clube,2-0,2-0,Coritiba PR,,2019-10-05T19:30Z
+26,Sat Oct 5 2019,19:00,-0300,Operário Ferroviário PR,1-2,1-0,Brasil de Pelotas RS,,2019-10-05T22:00Z
+27,Mon Oct 7 2019,20:00,-0300,CR Brasil AL,1-1,0-1,Sport Recife PE,,2019-10-07T23:00Z
+27,Mon Oct 7 2019,20:00,-0300,São Bento SP,3-1,3-0,Vila Nova GO,,2019-10-07T23:00Z
+27,Tue Oct 8 2019,21:30,-0300,Ponte Preta,3-1,2-1,Londrina PR,,2019-10-09T00:30Z
+27,Tue Oct 8 2019,19:15,-0300,Botafogo SP,0-0,0-0,Figueirense SC,,2019-10-08T22:15Z
+27,Tue Oct 8 2019,19:15,-0300,Coritiba PR,1-0,1-0,Guarani SP,,2019-10-08T22:15Z
+27,Tue Oct 8 2019,19:15,-0300,Operário Ferroviário PR,0-1,0-1,Paraná Clube,,2019-10-08T22:15Z
+27,Tue Oct 8 2019,20:30,-0300,Atlético Goianiense,1-1,1-0,Cuiabá MT,,2019-10-08T23:30Z
+27,Tue Oct 8 2019,20:30,-0300,Criciúma SC,2-2,1-2,Brasil de Pelotas RS,,2019-10-08T23:30Z
+27,Tue Oct 8 2019,20:30,-0300,Vitória BA,3-1,1-0,Oeste SP,,2019-10-08T23:30Z
+27,Tue Oct 8 2019,21:30,-0300,América MG,2-0,0-0,CA Bragantino,,2019-10-09T00:30Z
+28,Fri Oct 11 2019,19:15,-0300,Vila Nova GO,1-1,0-1,Atlético Goianiense,,2019-10-11T22:15Z
+28,Fri Oct 11 2019,21:30,-0300,Oeste SP,1-1,0-0,Ponte Preta,,2019-10-12T00:30Z
+28,Fri Oct 11 2019,19:15,-0300,Brasil de Pelotas RS,1-0,1-0,Botafogo SP,,2019-10-11T22:15Z
+28,Fri Oct 11 2019,19:15,-0300,Sport Recife PE,2-0,0-0,São Bento SP,,2019-10-11T22:15Z
+28,Fri Oct 11 2019,21:30,-0300,Guarani SP,1-0,0-0,CR Brasil AL,,2019-10-12T00:30Z
+28,Fri Oct 11 2019,21:30,-0300,Cuiabá MT,1-3,1-0,Vitória BA,,2019-10-12T00:30Z
+28,Sat Oct 12 2019,19:00,-0300,Figueirense SC,2-1,0-1,América MG,,2019-10-12T22:00Z
+28,Sat Oct 12 2019,16:30,-0300,CA Bragantino,2-0,1-0,Paraná Clube,,2019-10-12T19:30Z
+28,Sat Oct 12 2019,16:30,-0300,Coritiba PR,1-0,0-0,Criciúma SC,,2019-10-12T19:30Z
+28,Sat Oct 12 2019,16:30,-0300,Londrina PR,1-2,0-0,Operário Ferroviário PR,,2019-10-12T19:30Z
+29,Mon Oct 14 2019,20:00,-0300,Sport Recife PE,2-0,1-0,Cuiabá MT,,2019-10-14T23:00Z
+29,Mon Oct 14 2019,20:00,-0300,Guarani SP,0-2,0-0,Botafogo SP,,2019-10-14T23:00Z
+29,Mon Oct 14 2019,20:00,-0300,Atlético Goianiense,0-0,0-0,Ponte Preta,,2019-10-14T23:00Z
+29,Tue Oct 15 2019,21:30,-0300,São Bento SP,1-2,0-2,Coritiba PR,,2019-10-16T00:30Z
+29,Tue Oct 15 2019,19:15,-0300,Paraná Clube,1-0,1-0,Brasil de Pelotas RS,,2019-10-15T22:15Z
+29,Tue Oct 15 2019,19:15,-0300,Londrina PR,0-0,0-0,Figueirense SC,,2019-10-15T22:15Z
+29,Tue Oct 15 2019,19:15,-0300,Criciúma SC,1-1,1-0,Vitória BA,,2019-10-15T22:15Z
+29,Tue Oct 15 2019,20:30,-0300,América MG,2-0,0-0,Vila Nova GO,,2019-10-15T23:30Z
+29,Tue Oct 15 2019,20:30,-0300,CR Brasil AL,0-0,0-0,Operário Ferroviário PR,,2019-10-15T23:30Z
+29,Tue Oct 15 2019,21:30,-0300,CA Bragantino,2-2,0-0,Oeste SP,,2019-10-16T00:30Z
+30,Thu Oct 17 2019,19:15,-0300,Botafogo SP,0-0,0-0,Atlético Goianiense,,2019-10-17T22:15Z
+30,Thu Oct 17 2019,21:30,-0300,Cuiabá MT,2-1,2-0,Guarani SP,,2019-10-18T00:30Z
+30,Fri Oct 18 2019,19:15,-0300,Criciúma SC,0-1,0-0,CR Brasil AL,,2019-10-18T22:15Z
+30,Fri Oct 18 2019,21:30,-0300,Vitória BA,0-1,0-0,Londrina PR,,2019-10-19T00:30Z
+30,Sat Oct 19 2019,16:30,-0300,Ponte Preta,1-1,0-0,CA Bragantino,,2019-10-19T19:30Z
+30,Sat Oct 19 2019,19:00,-0300,Operário Ferroviário PR,2-1,1-1,São Bento SP,,2019-10-19T22:00Z
+30,Sat Oct 19 2019,16:30,-0300,Oeste SP,0-1,0-0,América MG,,2019-10-19T19:30Z
+30,Sat Oct 19 2019,16:30,-0300,Vila Nova GO,2-2,2-0,Coritiba PR,,2019-10-19T19:30Z
+30,Sat Oct 19 2019,19:00,-0300,Paraná Clube,0-1,0-1,Figueirense SC,,2019-10-19T22:00Z
+30,Sun Oct 20 2019,16:00,-0300,Brasil de Pelotas RS,0-0,0-0,Sport Recife PE,,2019-10-20T19:00Z
+31,Wed Oct 23 2019,19:15,-0300,Sport Recife PE,2-1,0-0,Paraná Clube,,2019-10-23T22:15Z
+31,Thu Oct 24 2019,19:15,-0300,CR Brasil AL,1-0,0-0,Botafogo SP,,2019-10-24T22:15Z
+31,Thu Oct 24 2019,21:30,-0300,Coritiba PR,0-0,0-0,Operário Ferroviário PR,,2019-10-25T00:30Z
+31,Fri Oct 25 2019,19:15,-0300,Atlético Goianiense,2-2,2-0,América MG,,2019-10-25T22:15Z
+31,Fri Oct 25 2019,21:30,-0300,CA Bragantino,3-1,2-1,Vila Nova GO,,2019-10-26T00:30Z
+31,Fri Oct 25 2019,19:15,-0300,Londrina PR,0-2,0-0,Oeste SP,,2019-10-25T22:15Z
+31,Sat Oct 26 2019,16:30,-0300,Brasil de Pelotas RS,0-0,0-0,Cuiabá MT,,2019-10-26T19:30Z
+31,Sat Oct 26 2019,16:30,-0300,São Bento SP,1-1,0-0,Guarani SP,,2019-10-26T19:30Z
+31,Sat Oct 26 2019,16:30,-0300,Figueirense SC,2-2,1-0,Criciúma SC,,2019-10-26T19:30Z
+31,Sun Oct 27 2019,16:00,-0300,Ponte Preta,1-2,0-1,Vitória BA,,2019-10-27T19:00Z
+32,Mon Oct 28 2019,20:00,-0300,Paraná Clube,1-0,0-0,Londrina PR,,2019-10-28T23:00Z
+24,Tue Oct 29 2019,22:30,-0300,Cuiabá MT,3-3,1-2,Coritiba PR,,2019-10-30T01:30Z
+32,Tue Oct 29 2019,19:15,-0300,Vila Nova GO,0-2,0-0,Brasil de Pelotas RS,,2019-10-29T22:15Z
+32,Thu Oct 31 2019,19:15,-0300,Guarani SP,1-0,0-0,Sport Recife PE,,2019-10-31T22:15Z
+32,Fri Nov 1 2019,20:30,-0300,Operário Ferroviário PR,1-1,0-0,Atlético Goianiense,,2019-11-01T23:30Z
+32,Fri Nov 1 2019,22:30,-0300,Cuiabá MT,2-0,1-0,CA Bragantino,,2019-11-02T01:30Z
+32,Fri Nov 1 2019,19:15,-0300,Botafogo SP,0-1,0-1,Coritiba PR,,2019-11-01T22:15Z
+32,Sat Nov 2 2019,16:30,-0300,Oeste SP,3-3,0-1,CR Brasil AL,,2019-11-02T19:30Z
+32,Sat Nov 2 2019,16:30,-0300,Vitória BA,2-2,1-1,Figueirense SC,,2019-11-02T19:30Z
+32,Sat Nov 2 2019,19:00,-0300,Criciúma SC,1-1,1-1,São Bento SP,,2019-11-02T22:00Z
+32,Sat Nov 2 2019,19:00,-0300,América MG,0-0,0-0,Ponte Preta,,2019-11-02T22:00Z
+33,Mon Nov 4 2019,20:00,-0300,Coritiba PR,0-0,0-0,Sport Recife PE,,2019-11-04T23:00Z
+33,Tue Nov 5 2019,19:15,-0300,Oeste SP,0-2,0-0,Botafogo SP,,2019-11-05T22:15Z
+33,Tue Nov 5 2019,19:15,-0300,Atlético Goianiense,2-1,0-0,Londrina PR,,2019-11-05T22:15Z
+33,Tue Nov 5 2019,20:30,-0300,Operário Ferroviário PR,1-0,0-0,Criciúma SC,,2019-11-05T23:30Z
+33,Tue Nov 5 2019,20:30,-0300,Figueirense SC,0-0,0-0,Vila Nova GO,,2019-11-05T23:30Z
+33,Tue Nov 5 2019,20:30,-0300,América MG,0-2,0-0,Paraná Clube,,2019-11-05T23:30Z
+33,Tue Nov 5 2019,20:30,-0300,Vitória BA,3-0,1-0,Brasil de Pelotas RS,,2019-11-05T23:30Z
+33,Tue Nov 5 2019,21:30,-0300,Ponte Preta,1-1,0-0,São Bento SP,,2019-11-06T00:30Z
+33,Tue Nov 5 2019,21:30,-0300,CA Bragantino,3-1,0-0,Guarani SP,,2019-11-06T00:30Z
+33,Tue Nov 5 2019,21:30,-0300,Cuiabá MT,5-1,3-1,CR Brasil AL,,2019-11-06T00:30Z
+34,Fri Nov 8 2019,19:15,-0300,Botafogo SP,2-3,0-1,CA Bragantino,,2019-11-08T22:15Z
+34,Fri Nov 8 2019,19:15,-0300,Paraná Clube,0-0,0-0,Vitória BA,,2019-11-08T22:15Z
+34,Fri Nov 8 2019,20:30,-0300,Vila Nova GO,0-0,0-0,Operário Ferroviário PR,,2019-11-08T23:30Z
+34,Fri Nov 8 2019,20:30,-0300,Londrina PR,0-1,0-1,América MG,,2019-11-08T23:30Z
+34,Fri Nov 8 2019,21:30,-0300,São Bento SP,1-2,1-1,Cuiabá MT,,2019-11-09T00:30Z
+34,Fri Nov 8 2019,21:30,-0300,Figueirense SC,1-1,0-0,Coritiba PR,,2019-11-09T00:30Z
+34,Sat Nov 9 2019,16:30,-0300,Sport Recife PE,1-0,0-0,Criciúma SC,,2019-11-09T19:30Z
+34,Sat Nov 9 2019,19:00,-0300,Brasil de Pelotas RS,2-2,0-1,Oeste SP,,2019-11-09T22:00Z
+34,Sat Nov 9 2019,19:00,-0300,CR Brasil AL,2-1,1-0,Atlético Goianiense,,2019-11-09T22:00Z
+34,Sat Nov 9 2019,16:30,-0300,Guarani SP,0-0,0-0,Ponte Preta,,2019-11-09T19:30Z
+35,Mon Nov 11 2019,22:00,-0300,Cuiabá MT,0-2,0-1,América MG,,2019-11-12T01:00Z
+35,Tue Nov 12 2019,19:15,-0300,Oeste SP,0-4,0-3,Atlético Goianiense,,2019-11-12T22:15Z
+35,Tue Nov 12 2019,19:15,-0300,Brasil de Pelotas RS,0-2,0-1,Coritiba PR,,2019-11-12T22:15Z
+35,Tue Nov 12 2019,19:15,-0300,Vitória BA,2-2,0-1,CR Brasil AL,,2019-11-12T22:15Z
+35,Tue Nov 12 2019,20:30,-0300,Ponte Preta,1-3,1-1,Figueirense SC,,2019-11-12T23:30Z
+35,Tue Nov 12 2019,20:30,-0300,Criciúma SC,2-0,1-0,Londrina PR,,2019-11-12T23:30Z
+35,Tue Nov 12 2019,21:30,-0300,Paraná Clube,2-1,2-1,São Bento SP,,2019-11-13T00:30Z
+35,Tue Nov 12 2019,21:30,-0300,Operário Ferroviário PR,0-2,0-1,CA Bragantino,,2019-11-13T00:30Z
+35,Wed Nov 13 2019,21:30,-0300,Botafogo SP,0-2,0-1,Sport Recife PE,,2019-11-14T00:30Z
+35,Wed Nov 13 2019,19:15,-0300,Vila Nova GO,1-1,0-1,Guarani SP,,2019-11-13T22:15Z
+36,Fri Nov 15 2019,17:00,-0300,América MG,2-1,1-0,Vitória BA,,2019-11-15T20:00Z
+36,Fri Nov 15 2019,19:15,-0300,CA Bragantino,1-1,1-1,Criciúma SC,,2019-11-15T22:15Z
+36,Fri Nov 15 2019,21:30,-0300,Atlético Goianiense,1-0,0-0,Paraná Clube,,2019-11-16T00:30Z
+36,Sat Nov 16 2019,16:30,-0300,Coritiba PR,1-0,1-0,Oeste SP,,2019-11-16T19:30Z
+36,Sat Nov 16 2019,16:30,-0300,CR Brasil AL,2-0,2-0,Ponte Preta,,2019-11-16T19:30Z
+36,Sat Nov 16 2019,19:00,-0300,Londrina PR,1-1,0-1,Botafogo SP,,2019-11-16T22:00Z
+36,Sat Nov 16 2019,16:30,-0300,Guarani SP,1-0,1-0,Operário Ferroviário PR,,2019-11-16T19:30Z
+36,Sun Nov 17 2019,16:00,-0300,São Bento SP,3-1,0-0,Brasil de Pelotas RS,,2019-11-17T19:00Z
+36,Sun Nov 17 2019,16:00,-0300,Sport Recife PE,0-0,0-0,Vila Nova GO,,2019-11-17T19:00Z
+36,Sun Nov 17 2019,18:30,-0300,Figueirense SC,0-0,0-0,Cuiabá MT,,2019-11-17T21:30Z
+37,Tue Nov 19 2019,21:30,-0300,Operário Ferroviário PR,1-2,1-1,Vitória BA,,2019-11-20T00:30Z
+37,Tue Nov 19 2019,19:15,-0300,Criciúma SC,1-1,0-1,Paraná Clube,,2019-11-19T22:15Z
+37,Wed Nov 20 2019,21:30,-0300,Sport Recife PE,2-1,0-1,Ponte Preta,,2019-11-21T00:30Z
+37,Wed Nov 20 2019,19:15,-0300,Vila Nova GO,1-1,0-1,Oeste SP,,2019-11-20T22:15Z
+37,Thu Nov 21 2019,19:15,-0300,São Bento SP,4-1,2-1,Londrina PR,,2019-11-21T22:15Z
+37,Thu Nov 21 2019,21:30,-0300,Brasil de Pelotas RS,2-2,1-0,Atlético Goianiense,,2019-11-22T00:30Z
+37,Fri Nov 22 2019,21:30,-0300,Guarani SP,0-1,0-0,América MG,,2019-11-23T00:30Z
+37,Fri Nov 22 2019,19:15,-0300,CR Brasil AL,0-0,0-0,Figueirense SC,,2019-11-22T22:15Z
+37,Sat Nov 23 2019,17:00,-0300,Botafogo SP,0-0,0-0,Cuiabá MT,,2019-11-23T20:00Z
+37,Sun Nov 24 2019,16:00,-0300,Coritiba PR,1-0,0-0,CA Bragantino,,2019-11-24T19:00Z
+38,Tue Nov 26 2019,19:00,-0300,Ponte Preta,4-0,3-0,Brasil de Pelotas RS,,2019-11-26T22:00Z
+38,Fri Nov 29 2019,21:30,-0300,Oeste SP,1-2,1-0,Criciúma SC,,2019-11-30T00:30Z
+38,Fri Nov 29 2019,19:15,-0300,Paraná Clube,3-3,2-2,Botafogo SP,,2019-11-29T22:15Z
+38,Sat Nov 30 2019,16:30,-0300,CA Bragantino,2-0,0-0,CR Brasil AL,,2019-11-30T19:30Z
+38,Sat Nov 30 2019,16:30,-0300,Atlético Goianiense,0-0,0-0,Sport Recife PE,,2019-11-30T19:30Z
+38,Sat Nov 30 2019,16:30,-0300,Londrina PR,2-0,1-0,Guarani SP,,2019-11-30T19:30Z
+38,Sat Nov 30 2019,16:30,-0300,Figueirense SC,1-1,0-0,Operário Ferroviário PR,,2019-11-30T19:30Z
+38,Sat Nov 30 2019,16:30,-0300,América MG,1-2,0-2,São Bento SP,,2019-11-30T19:30Z
+38,Sat Nov 30 2019,16:30,-0300,Vitória BA,1-2,1-0,Coritiba PR,,2019-11-30T19:30Z
+38,Sat Nov 30 2019,16:30,-0300,Cuiabá MT,1-2,0-1,Vila Nova GO,,2019-11-30T19:30Z

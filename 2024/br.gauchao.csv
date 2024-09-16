@@ -1,0 +1,77 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,P,UTC
+,1,Sat Jan 20 2024,19:00,-0300,Brasil de Pelotas RS,0-0,0-0,Novo Hamburgo RS,,2024-01-20T22:00Z
+,1,Sat Jan 20 2024,19:00,-0300,São José RS,1-1,0-1,São Luiz RS,,2024-01-20T22:00Z
+,1,Sat Jan 20 2024,19:00,-0300,Santa Cruz RS,0-1,0-1,Juventude RS,,2024-01-20T22:00Z
+,1,Sat Jan 20 2024,16:30,-0300,S.E.R. Caxias RS,2-1,0-1,Grêmio Porto Alegre,,2024-01-20T19:30Z
+,1,Sun Jan 21 2024,19:00,-0300,Guarany de Bage RS,1-2,1-1,Ypiranga RS,,2024-01-21T22:00Z
+,1,Sun Jan 21 2024,16:00,-0300,Internacional,1-0,0-0,Avenida RS,,2024-01-21T19:00Z
+,2,Tue Jan 23 2024,20:00,-0300,Novo Hamburgo RS,2-1,0-0,Santa Cruz RS,,2024-01-23T23:00Z
+,2,Wed Jan 24 2024,19:00,-0300,Juventude RS,4-0,2-0,Guarany de Bage RS,,2024-01-24T22:00Z
+,2,Wed Jan 24 2024,19:00,-0300,São Luiz RS,0-0,0-0,Internacional,,2024-01-24T22:00Z
+,2,Wed Jan 24 2024,19:00,-0300,Ypiranga RS,2-2,2-1,S.E.R. Caxias RS,,2024-01-24T22:00Z
+,2,Wed Jan 24 2024,20:00,-0300,Avenida RS,0-0,0-0,Brasil de Pelotas RS,,2024-01-24T23:00Z
+,2,Wed Jan 24 2024,21:30,-0300,Grêmio Porto Alegre,4-1,2-0,São José RS,,2024-01-25T00:30Z
+,3,Sat Jan 27 2024,16:00,-0300,S.E.R. Caxias RS,2-2,2-0,São Luiz RS,,2024-01-27T19:00Z
+,3,Sat Jan 27 2024,16:30,-0300,Internacional,3-0,2-0,Ypiranga RS,,2024-01-27T19:30Z
+,3,Sat Jan 27 2024,19:00,-0300,São José RS,1-0,1-0,Juventude RS,,2024-01-27T22:00Z
+,3,Sat Jan 27 2024,19:00,-0300,Novo Hamburgo RS,0-1,0-1,Avenida RS,,2024-01-27T22:00Z
+,3,Sat Jan 27 2024,16:00,-0300,Santa Cruz RS,1-1,0-0,Guarany de Bage RS,,2024-01-27T19:00Z
+,3,Sun Jan 28 2024,16:00,-0300,Brasil de Pelotas RS,0-1,0-0,Grêmio Porto Alegre,,2024-01-28T19:00Z
+,4,Wed Jan 31 2024,18:30,-0300,Guarany de Bage RS,2-1,2-1,Internacional,,2024-01-31T21:30Z
+,4,Wed Jan 31 2024,19:00,-0300,São Luiz RS,1-0,0-0,Avenida RS,,2024-01-31T22:00Z
+,4,Wed Jan 31 2024,19:00,-0300,Ypiranga RS,1-1,1-0,Novo Hamburgo RS,,2024-01-31T22:00Z
+,4,Wed Jan 31 2024,21:30,-0300,Grêmio Porto Alegre,1-0,1-0,Juventude RS,,2024-02-01T00:30Z
+,4,Wed Jan 31 2024,21:30,-0300,S.E.R. Caxias RS,1-2,1-2,Brasil de Pelotas RS,,2024-02-01T00:30Z
+,4,Thu Feb 1 2024,20:00,-0300,Santa Cruz RS,1-1,1-0,São José RS,,2024-02-01T23:00Z
+,5,Sat Feb 3 2024,19:00,-0300,Avenida RS,0-1,0-1,Grêmio Porto Alegre,,2024-02-03T22:00Z
+,5,Sat Feb 3 2024,20:00,-0300,Novo Hamburgo RS,1-0,0-0,São Luiz RS,,2024-02-03T23:00Z
+,5,Sat Feb 3 2024,16:30,-0300,Internacional,2-0,0-0,S.E.R. Caxias RS,,2024-02-03T19:30Z
+,5,Sun Feb 4 2024,19:00,-0300,São José RS,1-1,1-0,Guarany de Bage RS,,2024-02-04T22:00Z
+,5,Sun Feb 4 2024,20:00,-0300,Brasil de Pelotas RS,2-0,0-0,Santa Cruz RS,,2024-02-04T23:00Z
+,5,Sun Feb 4 2024,20:00,-0300,Juventude RS,3-0,1-0,Ypiranga RS,,2024-02-04T23:00Z
+,6,Tue Feb 6 2024,21:30,-0300,Grêmio Porto Alegre,2-0,0-0,Novo Hamburgo RS,,2024-02-07T00:30Z
+,6,Wed Feb 7 2024,19:00,-0300,São Luiz RS,2-2,1-1,Brasil de Pelotas RS,,2024-02-07T22:00Z
+,6,Wed Feb 7 2024,20:00,-0300,Ypiranga RS,1-1,0-1,São José RS,,2024-02-07T23:00Z
+,6,Wed Feb 7 2024,21:30,-0300,Santa Cruz RS,0-2,0-2,Internacional,,2024-02-08T00:30Z
+,6,Wed Feb 7 2024,19:00,-0300,Juventude RS,3-1,1-0,Avenida RS,,2024-02-07T22:00Z
+,6,Thu Feb 8 2024,19:00,-0300,Guarany de Bage RS,1-1,0-0,S.E.R. Caxias RS,,2024-02-08T22:00Z
+,7,Sat Feb 10 2024,16:30,-0300,Grêmio Porto Alegre,1-1,0-0,São Luiz RS,,2024-02-10T19:30Z
+,7,Sat Feb 10 2024,20:00,-0300,Avenida RS,2-0,1-0,Ypiranga RS,,2024-02-10T23:00Z
+,7,Sat Feb 10 2024,21:30,-0300,Novo Hamburgo RS,1-1,1-1,Juventude RS,,2024-02-11T00:30Z
+,7,Sun Feb 11 2024,19:00,-0300,São José RS,0-1,0-0,Internacional,,2024-02-11T22:00Z
+,7,Sun Feb 11 2024,20:00,-0300,S.E.R. Caxias RS,2-1,2-0,Santa Cruz RS,,2024-02-11T23:00Z
+,7,Sun Feb 11 2024,17:00,-0300,Brasil de Pelotas RS,1-1,1-0,Guarany de Bage RS,,2024-02-11T20:00Z
+,8,Tue Feb 13 2024,20:00,-0300,São Luiz RS,1-1,0-1,Juventude RS,,2024-02-13T23:00Z
+,8,Wed Feb 14 2024,19:00,-0300,Santa Cruz RS,1-1,0-0,Avenida RS,,2024-02-14T22:00Z
+,8,Wed Feb 14 2024,19:00,-0300,Ypiranga RS,0-0,0-0,Grêmio Porto Alegre,,2024-02-14T22:00Z
+,8,Wed Feb 14 2024,21:30,-0300,Guarany de Bage RS,2-0,2-0,Novo Hamburgo RS,,2024-02-15T00:30Z
+,8,Wed Feb 14 2024,21:30,-0300,Internacional,3-1,3-0,Brasil de Pelotas RS,,2024-02-15T00:30Z
+,8,Thu Feb 15 2024,20:00,-0300,S.E.R. Caxias RS,1-2,0-1,São José RS,,2024-02-15T23:00Z
+,9,Sat Feb 17 2024,16:30,-0300,Grêmio Porto Alegre,6-2,2-2,Santa Cruz RS,,2024-02-17T19:30Z
+,9,Sat Feb 17 2024,20:00,-0300,São Luiz RS,0-0,0-0,Ypiranga RS,,2024-02-17T23:00Z
+,9,Sun Feb 18 2024,20:00,-0300,Novo Hamburgo RS,1-3,1-2,Internacional,,2024-02-18T23:00Z
+,9,Sun Feb 18 2024,16:00,-0300,Brasil de Pelotas RS,0-0,0-0,São José RS,,2024-02-18T19:00Z
+,9,Mon Feb 19 2024,20:00,-0300,Juventude RS,1-1,0-1,S.E.R. Caxias RS,,2024-02-19T23:00Z
+,9,Mon Feb 19 2024,20:00,-0300,Avenida RS,0-1,0-0,Guarany de Bage RS,,2024-02-19T23:00Z
+,10,Sat Feb 24 2024,16:30,-0300,S.E.R. Caxias RS,2-0,1-0,Avenida RS,,2024-02-24T19:30Z
+,10,Sat Feb 24 2024,19:00,-0300,Guarany de Bage RS,1-0,0-0,São Luiz RS,,2024-02-24T22:00Z
+,10,Sat Feb 24 2024,16:30,-0300,Brasil de Pelotas RS,1-0,0-0,Juventude RS,,2024-02-24T19:30Z
+,10,Sun Feb 25 2024,18:00,-0300,Internacional,3-2,1-1,Grêmio Porto Alegre,,2024-02-25T21:00Z
+,10,Mon Feb 26 2024,20:00,-0300,Santa Cruz RS,1-1,0-1,Ypiranga RS,,2024-02-26T23:00Z
+,10,Mon Feb 26 2024,20:00,-0300,São José RS,3-0,1-0,Novo Hamburgo RS,,2024-02-26T23:00Z
+,11,Sat Mar 2 2024,16:30,-0300,Avenida RS,0-0,0-0,São José RS,,2024-03-02T19:30Z
+,11,Sat Mar 2 2024,16:30,-0300,Grêmio Porto Alegre,4-1,1-1,Guarany de Bage RS,,2024-03-02T19:30Z
+,11,Sat Mar 2 2024,16:30,-0300,Juventude RS,1-2,0-1,Internacional,,2024-03-02T19:30Z
+,11,Sat Mar 2 2024,16:30,-0300,Novo Hamburgo RS,0-1,0-0,S.E.R. Caxias RS,,2024-03-02T19:30Z
+,11,Sat Mar 2 2024,16:30,-0300,São Luiz RS,1-0,1-0,Santa Cruz RS,,2024-03-02T19:30Z
+,11,Sat Mar 2 2024,16:30,-0300,Ypiranga RS,0-0,0-0,Brasil de Pelotas RS,,2024-03-02T19:30Z
+Playoffs,Quarterfinals,Fri Mar 8 2024,19:00,-0300,S.E.R. Caxias RS,1-0,1-0,São José RS,,2024-03-08T22:00Z
+Playoffs,Quarterfinals,Sat Mar 9 2024,16:30,-0300,Internacional,3-0,2-0,São Luiz RS,,2024-03-09T19:30Z
+Playoffs,Quarterfinals,Sat Mar 9 2024,19:30,-0300,Guarany de Bage RS,0-4,0-0,Juventude RS,,2024-03-09T22:30Z
+Playoffs,Quarterfinals,Sun Mar 10 2024,18:30,-0300,Grêmio Porto Alegre,2-0,1-0,Brasil de Pelotas RS,,2024-03-10T21:30Z
+Playoffs,Semifinals,Sat Mar 16 2024,16:30,-0300,S.E.R. Caxias RS,1-2,0-1,Grêmio Porto Alegre,,2024-03-16T19:30Z
+Playoffs,Semifinals,Sun Mar 17 2024,16:00,-0300,Juventude RS,0-0,0-0,Internacional,,2024-03-17T19:00Z
+Playoffs,Semifinals,Mon Mar 25 2024,21:45,-0300,Internacional,1-1,0-1,Juventude RS,5-6,2024-03-26T00:45Z
+Playoffs,Semifinals,Tue Mar 26 2024,21:00,-0300,Grêmio Porto Alegre,3-2,3-0,S.E.R. Caxias RS,,2024-03-27T00:00Z
+Playoffs,Final,Sat Mar 30 2024,16:30,-0300,Juventude RS,0-0,0-0,Grêmio Porto Alegre,,2024-03-30T19:30Z
+Playoffs,Final,Sat Apr 6 2024,16:30,-0300,Grêmio Porto Alegre,3-1,2-1,Juventude RS,,2024-04-06T19:30Z

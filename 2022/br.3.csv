@@ -1,0 +1,217 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Sat Apr 9 2022,11:00,-0300,Ypiranga RS,0-2,0-1,Aparecidense GO,2022-04-09T14:00Z
+,1,Sat Apr 9 2022,15:00,-0300,Atlético Cearense CE,0-1,0-0,Campinense PB,2022-04-09T18:00Z
+,1,Sat Apr 9 2022,17:00,-0300,Remo PA,2-1,1-0,Vitória BA,2022-04-09T20:00Z
+,1,Sat Apr 9 2022,18:00,-0300,Botafogo PB,2-1,1-1,São José RS,2022-04-09T21:00Z
+,1,Sat Apr 9 2022,19:00,-0300,Volta Redonda RJ,1-1,0-1,Figueirense SC,2022-04-09T22:00Z
+,1,Sun Apr 10 2022,18:00,-0300,Altos PI,1-3,0-3,Botafogo SP,2022-04-10T21:00Z
+,1,Sun Apr 10 2022,19:00,-0300,Mirassol SP,2-1,1-1,Ferroviário CE,2022-04-10T22:00Z
+,1,Sun Apr 10 2022,16:00,-0300,Floresta CE,1-0,1-0,Confiança SE,2022-04-10T19:00Z
+,1,Mon Apr 11 2022,20:00,-0300,Brasil de Pelotas RS,1-1,0-1,Manaus AM,2022-04-11T23:00Z
+,2,Sat Apr 16 2022,21:00,-0300,Vitória BA,0-1,0-1,Floresta CE,2022-04-17T00:00Z
+,2,Sat Apr 16 2022,11:00,-0300,São José RS,3-1,2-0,Volta Redonda RJ,2022-04-16T14:00Z
+,2,Sat Apr 16 2022,16:00,-0300,Confiança SE,0-0,0-0,Ypiranga RS,2022-04-16T19:00Z
+,2,Sat Apr 16 2022,17:00,-0300,Ferroviário CE,1-3,0-3,ABC RN,2022-04-16T20:00Z
+,2,Sat Apr 16 2022,19:00,-0300,Manaus AM,1-0,0-0,Remo PA,2022-04-16T22:00Z
+,2,Sun Apr 17 2022,11:00,-0300,Botafogo SP,2-1,2-0,Botafogo PB,2022-04-17T14:00Z
+,2,Sun Apr 17 2022,16:00,-0300,Aparecidense GO,0-1,0-1,Mirassol SP,2022-04-17T19:00Z
+,2,Sun Apr 17 2022,17:00,-0300,Campinense PB,2-0,0-0,Brasil de Pelotas RS,2022-04-17T20:00Z
+,2,Sun Apr 17 2022,19:00,-0300,Paysandu PA,5-0,2-0,Atlético Cearense CE,2022-04-17T22:00Z
+,2,Mon Apr 18 2022,20:00,-0300,Figueirense SC,4-1,2-0,Altos PI,2022-04-18T23:00Z
+,1,Wed Apr 20 2022,19:00,-0300,ABC RN,1-1,1-0,Paysandu PA,2022-04-20T22:00Z
+,3,Sat Apr 23 2022,16:00,-0300,Botafogo PB,1-0,1-0,Confiança SE,2022-04-23T19:00Z
+,3,Sat Apr 23 2022,17:00,-0300,Atlético Cearense CE,0-1,0-1,Ferroviário CE,2022-04-23T20:00Z
+,3,Sat Apr 23 2022,19:00,-0300,Remo PA,2-2,0-0,São José RS,2022-04-23T22:00Z
+,3,Sat Apr 23 2022,21:00,-0300,ABC RN,1-0,0-0,Campinense PB,2022-04-24T00:00Z
+,3,Sat Apr 23 2022,11:00,-0300,Brasil de Pelotas RS,1-1,0-0,Botafogo SP,2022-04-23T14:00Z
+,3,Sun Apr 24 2022,11:00,-0300,Volta Redonda RJ,3-1,1-0,Altos PI,2022-04-24T14:00Z
+,3,Sun Apr 24 2022,15:00,-0300,Floresta CE,0-0,0-0,Figueirense SC,2022-04-24T18:00Z
+,3,Sun Apr 24 2022,16:00,-0300,Manaus AM,1-0,1-0,Aparecidense GO,2022-04-24T19:00Z
+,3,Sun Apr 24 2022,18:00,-0300,Ypiranga RS,2-1,1-0,Vitória BA,2022-04-24T21:00Z
+,3,Mon Apr 25 2022,20:00,-0300,Mirassol SP,1-1,0-1,Paysandu PA,2022-04-25T23:00Z
+,4,Sat Apr 30 2022,17:00,-0300,Paysandu PA,1-1,1-1,Ypiranga RS,2022-04-30T20:00Z
+,4,Sat Apr 30 2022,18:00,-0300,Campinense PB,1-1,1-0,Aparecidense GO,2022-04-30T21:00Z
+,4,Sat Apr 30 2022,19:00,-0300,Vitória BA,1-0,0-0,Manaus AM,2022-04-30T22:00Z
+,4,Sat Apr 30 2022,15:00,-0300,Volta Redonda RJ,4-0,2-0,Atlético Cearense CE,2022-04-30T18:00Z
+,4,Sun May 1 2022,11:00,-0300,Figueirense SC,0-2,0-1,Mirassol SP,2022-05-01T14:00Z
+,4,Sun May 1 2022,15:00,-0300,Ferroviário CE,1-0,1-0,Botafogo PB,2022-05-01T18:00Z
+,4,Sun May 1 2022,17:00,-0300,São José RS,1-1,1-0,Brasil de Pelotas RS,2022-05-01T20:00Z
+,4,Sun May 1 2022,19:00,-0300,Confiança SE,1-2,1-1,Remo PA,2022-05-01T22:00Z
+,4,Mon May 2 2022,20:00,-0300,Botafogo SP,0-1,0-1,Floresta CE,2022-05-02T23:00Z
+,4,Wed May 4 2022,19:00,-0300,Altos PI,2-1,1-1,ABC RN,2022-05-04T22:00Z
+,5,Sat May 7 2022,11:00,-0300,Mirassol SP,1-0,0-0,Campinense PB,2022-05-07T14:00Z
+,5,Sat May 7 2022,15:00,-0300,Ferroviário CE,2-0,0-0,São José RS,2022-05-07T18:00Z
+,5,Sat May 7 2022,17:00,-0300,Manaus AM,0-0,0-0,Confiança SE,2022-05-07T20:00Z
+,5,Sat May 7 2022,18:00,-0300,Botafogo PB,2-1,1-0,Altos PI,2022-05-07T21:00Z
+,5,Sat May 7 2022,19:00,-0300,Brasil de Pelotas RS,1-0,1-0,Remo PA,2022-05-07T22:00Z
+,5,Sun May 8 2022,15:00,-0300,Atlético Cearense CE,1-1,1-0,Figueirense SC,2022-05-08T18:00Z
+,5,Sun May 8 2022,17:00,-0300,ABC RN,1-0,0-0,Volta Redonda RJ,2022-05-08T20:00Z
+,5,Sun May 8 2022,19:00,-0300,Paysandu PA,4-1,1-1,Botafogo SP,2022-05-08T22:00Z
+,5,Sun May 8 2022,11:00,-0300,Ypiranga RS,2-0,2-0,Floresta CE,2022-05-08T14:00Z
+,5,Mon May 9 2022,20:00,-0300,Aparecidense GO,0-0,0-0,Vitória BA,2022-05-09T23:00Z
+,6,Sat May 14 2022,17:00,-0300,Botafogo SP,2-0,0-0,ABC RN,2022-05-14T20:00Z
+,6,Sat May 14 2022,19:00,-0300,Floresta CE,0-1,0-0,Manaus AM,2022-05-14T22:00Z
+,6,Sat May 14 2022,15:00,-0300,Altos PI,0-1,0-0,Atlético Cearense CE,2022-05-14T18:00Z
+,6,Sun May 15 2022,11:00,-0300,Figueirense SC,2-1,1-0,Aparecidense GO,2022-05-15T14:00Z
+,6,Sun May 15 2022,17:00,-0300,Remo PA,3-1,1-0,Mirassol SP,2022-05-15T20:00Z
+,6,Sun May 15 2022,18:00,-0300,Volta Redonda RJ,3-1,2-1,Brasil de Pelotas RS,2022-05-15T21:00Z
+,6,Sun May 15 2022,19:00,-0300,São José RS,2-0,2-0,Paysandu PA,2022-05-15T22:00Z
+,6,Tue May 17 2022,20:00,-0300,Confiança SE,1-0,0-0,Ferroviário CE,2022-05-17T23:00Z
+,6,Wed May 18 2022,20:30,-0300,Vitória BA,0-1,0-1,Botafogo PB,2022-05-18T23:30Z
+,6,Wed May 18 2022,18:00,-0300,Campinense PB,0-0,0-0,Ypiranga RS,2022-05-18T21:00Z
+,7,Sat May 21 2022,17:00,-0300,Atlético Cearense CE,0-1,0-0,ABC RN,2022-05-21T20:00Z
+,7,Sat May 21 2022,18:00,-0300,Brasil de Pelotas RS,0-1,0-0,Figueirense SC,2022-05-21T21:00Z
+,7,Sat May 21 2022,15:00,-0300,Ferroviário CE,1-0,0-0,Botafogo SP,2022-05-21T18:00Z
+,7,Sun May 22 2022,11:00,-0300,Mirassol SP,2-1,0-0,Altos PI,2022-05-22T14:00Z
+,7,Sun May 22 2022,16:00,-0300,Manaus AM,1-1,1-1,São José RS,2022-05-22T19:00Z
+,7,Sun May 22 2022,17:00,-0300,Vitória BA,3-0,3-0,Confiança SE,2022-05-22T20:00Z
+,7,Sun May 22 2022,18:00,-0300,Aparecidense GO,3-2,1-0,Floresta CE,2022-05-22T21:00Z
+,7,Sun May 22 2022,19:00,-0300,Paysandu PA,2-1,1-1,Volta Redonda RJ,2022-05-22T22:00Z
+,7,Mon May 23 2022,20:00,-0300,Ypiranga RS,2-1,2-1,Remo PA,2022-05-23T23:00Z
+,7,Wed May 25 2022,20:00,-0300,Botafogo PB,1-1,1-0,Campinense PB,2022-05-25T23:00Z
+,8,Sat May 28 2022,15:00,-0300,Figueirense SC,1-0,0-0,Ferroviário CE,2022-05-28T18:00Z
+,8,Sat May 28 2022,17:00,-0300,Campinense PB,0-1,0-0,Vitória BA,2022-05-28T20:00Z
+,8,Sat May 28 2022,18:00,-0300,Confiança SE,1-1,0-0,Aparecidense GO,2022-05-28T21:00Z
+,8,Sat May 28 2022,19:00,-0300,ABC RN,3-0,1-0,Brasil de Pelotas RS,2022-05-28T22:00Z
+,8,Sat May 28 2022,11:00,-0300,São José RS,1-1,0-1,Atlético Cearense CE,2022-05-28T14:00Z
+,8,Sun May 29 2022,11:00,-0300,Volta Redonda RJ,0-1,0-0,Botafogo PB,2022-05-29T14:00Z
+,8,Sun May 29 2022,15:00,-0300,Altos PI,3-0,0-0,Ypiranga RS,2022-05-29T18:00Z
+,8,Sun May 29 2022,17:00,-0300,Botafogo SP,2-2,0-1,Mirassol SP,2022-05-29T20:00Z
+,8,Sun May 29 2022,19:00,-0300,Remo PA,2-0,0-0,Floresta CE,2022-05-29T22:00Z
+,8,Mon May 30 2022,20:00,-0300,Paysandu PA,2-0,0-0,Manaus AM,2022-05-30T23:00Z
+,9,Fri Jun 3 2022,15:00,-0300,Floresta CE,2-3,2-2,Atlético Cearense CE,2022-06-03T18:00Z
+,9,Sat Jun 4 2022,11:00,-0300,Ypiranga RS,3-3,1-2,Figueirense SC,2022-06-04T14:00Z
+,9,Sat Jun 4 2022,17:00,-0300,Botafogo PB,0-0,0-0,ABC RN,2022-06-04T20:00Z
+,9,Sat Jun 4 2022,18:00,-0300,Confiança SE,2-1,1-1,Botafogo SP,2022-06-04T21:00Z
+,9,Sat Jun 4 2022,19:00,-0300,Mirassol SP,2-0,0-0,Brasil de Pelotas RS,2022-06-04T22:00Z
+,9,Sun Jun 5 2022,16:30,-0300,Manaus AM,0-0,0-0,Altos PI,2022-06-05T19:30Z
+,9,Sun Jun 5 2022,18:00,-0300,Aparecidense GO,1-2,1-0,São José RS,2022-06-05T21:00Z
+,9,Sun Jun 5 2022,19:00,-0300,Ferroviário CE,1-2,0-1,Paysandu PA,2022-06-05T22:00Z
+,9,Sun Jun 5 2022,16:00,-0300,Vitória BA,1-2,1-1,Volta Redonda RJ,2022-06-05T19:00Z
+,9,Mon Jun 6 2022,20:00,-0300,Remo PA,4-0,2-0,Campinense PB,2022-06-06T23:00Z
+,10,Sat Jun 11 2022,15:00,-0300,São José RS,4-0,2-0,Floresta CE,2022-06-11T18:00Z
+,10,Sat Jun 11 2022,17:00,-0300,Campinense PB,1-2,1-1,Manaus AM,2022-06-11T20:00Z
+,10,Sat Jun 11 2022,19:00,-0300,Atlético Cearense CE,1-1,1-1,Vitória BA,2022-06-11T22:00Z
+,10,Sat Jun 11 2022,11:00,-0300,Brasil de Pelotas RS,0-2,0-1,Ypiranga RS,2022-06-11T14:00Z
+,10,Sun Jun 12 2022,15:00,-0300,Altos PI,1-0,0-0,Ferroviário CE,2022-06-12T18:00Z
+,10,Sun Jun 12 2022,17:00,-0300,ABC RN,1-0,0-0,Mirassol SP,2022-06-12T20:00Z
+,10,Sun Jun 12 2022,18:00,-0300,Figueirense SC,0-0,0-0,Confiança SE,2022-06-12T21:00Z
+,10,Sun Jun 12 2022,19:00,-0300,Paysandu PA,2-1,0-1,Botafogo PB,2022-06-12T22:00Z
+,10,Mon Jun 13 2022,20:00,-0300,Volta Redonda RJ,3-0,0-0,Remo PA,2022-06-13T23:00Z
+,10,Mon Jun 13 2022,19:00,-0300,Botafogo SP,0-2,0-1,Aparecidense GO,2022-06-13T22:00Z
+,11,Sat Jun 18 2022,15:00,-0300,Brasil de Pelotas RS,3-1,2-0,Ferroviário CE,2022-06-18T18:00Z
+,11,Sat Jun 18 2022,17:00,-0300,Confiança SE,2-3,2-0,Campinense PB,2022-06-18T20:00Z
+,11,Sat Jun 18 2022,18:00,-0300,Manaus AM,1-1,1-0,Figueirense SC,2022-06-18T21:00Z
+,11,Sat Jun 18 2022,19:00,-0300,Aparecidense GO,1-0,0-0,Paysandu PA,2022-06-18T22:00Z
+,11,Sun Jun 19 2022,16:00,-0300,Botafogo PB,2-0,1-0,Atlético Cearense CE,2022-06-19T19:00Z
+,11,Sun Jun 19 2022,17:00,-0300,Vitória BA,0-1,0-0,Botafogo SP,2022-06-19T20:00Z
+,11,Sun Jun 19 2022,19:00,-0300,Remo PA,1-2,1-0,Altos PI,2022-06-19T22:00Z
+,11,Sun Jun 19 2022,11:00,-0300,Mirassol SP,2-1,1-1,São José RS,2022-06-19T14:00Z
+,11,Mon Jun 20 2022,18:00,-0300,Floresta CE,1-1,1-1,Volta Redonda RJ,2022-06-20T21:00Z
+,11,Mon Jun 20 2022,20:00,-0300,Ypiranga RS,0-0,0-0,ABC RN,2022-06-20T23:00Z
+,12,Sat Jun 25 2022,19:00,-0300,Altos PI,0-0,0-0,Vitória BA,2022-06-25T22:00Z
+,12,Sat Jun 25 2022,17:00,-0300,ABC RN,0-0,0-0,Confiança SE,2022-06-25T20:00Z
+,12,Sun Jun 26 2022,11:00,-0300,Botafogo SP,1-0,0-0,Manaus AM,2022-06-26T14:00Z
+,12,Sun Jun 26 2022,15:00,-0300,Atlético Cearense CE,0-0,0-0,Ypiranga RS,2022-06-26T18:00Z
+,12,Sun Jun 26 2022,16:00,-0300,São José RS,2-1,1-0,Campinense PB,2022-06-26T19:00Z
+,12,Sun Jun 26 2022,17:00,-0300,Ferroviário CE,0-2,0-0,Floresta CE,2022-06-26T20:00Z
+,12,Sun Jun 26 2022,18:00,-0300,Volta Redonda RJ,0-3,0-0,Aparecidense GO,2022-06-26T21:00Z
+,12,Sun Jun 26 2022,19:00,-0300,Paysandu PA,1-1,1-0,Brasil de Pelotas RS,2022-06-26T22:00Z
+,12,Mon Jun 27 2022,20:00,-0300,Figueirense SC,0-0,0-0,Remo PA,2022-06-27T23:00Z
+,13,Sat Jul 2 2022,19:00,-0300,Vitória BA,2-0,2-0,Figueirense SC,2022-07-02T22:00Z
+,13,Sat Jul 2 2022,15:00,-0300,Floresta CE,2-2,1-2,Altos PI,2022-07-02T18:00Z
+,13,Sat Jul 2 2022,17:00,-0300,Manaus AM,4-2,2-1,Ferroviário CE,2022-07-02T20:00Z
+,13,Sat Jul 2 2022,18:00,-0300,Confiança SE,1-0,0-0,Volta Redonda RJ,2022-07-02T21:00Z
+,13,Sun Jul 3 2022,11:00,-0300,Brasil de Pelotas RS,0-0,0-0,Botafogo PB,2022-07-03T14:00Z
+,13,Sun Jul 3 2022,16:00,-0300,Mirassol SP,6-0,4-0,Atlético Cearense CE,2022-07-03T19:00Z
+,13,Sun Jul 3 2022,17:00,-0300,Remo PA,2-2,1-1,Paysandu PA,2022-07-03T20:00Z
+,13,Sun Jul 3 2022,18:00,-0300,Campinense PB,1-3,1-1,Botafogo SP,2022-07-03T21:00Z
+,13,Sun Jul 3 2022,19:00,-0300,Ypiranga RS,2-2,2-2,São José RS,2022-07-03T22:00Z
+,13,Mon Jul 4 2022,20:00,-0300,Aparecidense GO,2-2,0-1,ABC RN,2022-07-04T23:00Z
+,14,Sat Jul 9 2022,19:00,-0300,Paysandu PA,1-0,0-0,Confiança SE,2022-07-09T22:00Z
+,14,Sat Jul 9 2022,15:00,-0300,Ferroviário CE,1-0,1-0,Aparecidense GO,2022-07-09T18:00Z
+,14,Sat Jul 9 2022,17:00,-0300,Botafogo PB,1-1,1-1,Floresta CE,2022-07-09T20:00Z
+,14,Sat Jul 9 2022,18:00,-0300,Figueirense SC,4-0,3-0,Campinense PB,2022-07-09T21:00Z
+,14,Sun Jul 10 2022,19:00,-0300,Atlético Cearense CE,3-1,0-0,Remo PA,2022-07-10T22:00Z
+,14,Sun Jul 10 2022,11:00,-0300,Botafogo SP,1-0,1-0,Ypiranga RS,2022-07-10T14:00Z
+,14,Sun Jul 10 2022,15:00,-0300,Altos PI,3-2,2-0,Brasil de Pelotas RS,2022-07-10T18:00Z
+,14,Sun Jul 10 2022,17:00,-0300,São José RS,1-2,1-1,Vitória BA,2022-07-10T20:00Z
+,14,Sun Jul 10 2022,18:00,-0300,Volta Redonda RJ,2-1,1-0,Mirassol SP,2022-07-10T21:00Z
+,14,Mon Jul 11 2022,20:00,-0300,ABC RN,0-0,0-0,Manaus AM,2022-07-11T23:00Z
+,15,Sat Jul 16 2022,15:00,-0300,Figueirense SC,2-1,1-1,Botafogo SP,2022-07-16T18:00Z
+,15,Sat Jul 16 2022,17:00,-0300,Campinense PB,2-0,1-0,Ferroviário CE,2022-07-16T20:00Z
+,15,Sat Jul 16 2022,18:00,-0300,Ypiranga RS,1-2,1-0,Botafogo PB,2022-07-16T21:00Z
+,15,Sat Jul 16 2022,19:00,-0300,Floresta CE,0-2,0-1,Mirassol SP,2022-07-16T22:00Z
+,15,Sun Jul 17 2022,18:00,-0300,Confiança SE,1-0,0-0,São José RS,2022-07-17T21:00Z
+,15,Sun Jul 17 2022,11:00,-0300,Brasil de Pelotas RS,4-1,3-0,Atlético Cearense CE,2022-07-17T14:00Z
+,15,Sun Jul 17 2022,16:00,-0300,Aparecidense GO,2-1,1-0,Altos PI,2022-07-17T19:00Z
+,15,Sun Jul 17 2022,16:00,-0300,Vitória BA,1-0,0-0,Paysandu PA,2022-07-17T19:00Z
+,15,Sun Jul 17 2022,19:00,-0300,Remo PA,2-0,1-0,ABC RN,2022-07-17T22:00Z
+,15,Mon Jul 18 2022,20:00,-0300,Manaus AM,1-2,1-0,Volta Redonda RJ,2022-07-18T23:00Z
+,16,Sat Jul 23 2022,11:00,-0300,São José RS,2-1,1-1,Botafogo SP,2022-07-23T14:00Z
+,16,Sat Jul 23 2022,15:00,-0300,Atlético Cearense CE,3-1,2-1,Manaus AM,2022-07-23T18:00Z
+,16,Sat Jul 23 2022,17:00,-0300,ABC RN,2-0,1-0,Floresta CE,2022-07-23T20:00Z
+,16,Sun Jul 24 2022,15:00,-0300,Altos PI,1-0,0-0,Campinense PB,2022-07-24T18:00Z
+,16,Sun Jul 24 2022,16:00,-0300,Ferroviário CE,0-0,0-0,Vitória BA,2022-07-24T19:00Z
+,16,Sun Jul 24 2022,19:00,-0300,Botafogo PB,0-0,0-0,Remo PA,2022-07-24T22:00Z
+,16,Sun Jul 24 2022,20:00,-0300,Brasil de Pelotas RS,1-2,0-1,Aparecidense GO,2022-07-24T23:00Z
+,16,Mon Jul 25 2022,20:30,-0300,Volta Redonda RJ,2-1,2-0,Ypiranga RS,2022-07-25T23:30Z
+,16,Mon Jul 25 2022,18:00,-0300,Paysandu PA,1-1,0-0,Figueirense SC,2022-07-25T21:00Z
+,16,Mon Jul 25 2022,20:00,-0300,Mirassol SP,3-1,2-0,Confiança SE,2022-07-25T23:00Z
+,17,Sat Jul 30 2022,19:00,-0300,Campinense PB,1-3,0-2,Paysandu PA,2022-07-30T22:00Z
+,17,Sat Jul 30 2022,11:00,-0300,Ypiranga RS,2-1,2-1,Mirassol SP,2022-07-30T14:00Z
+,17,Sat Jul 30 2022,17:00,-0300,Manaus AM,0-0,0-0,Botafogo PB,2022-07-30T20:00Z
+,17,Sat Jul 30 2022,18:00,-0300,Confiança SE,1-0,0-0,Altos PI,2022-07-30T21:00Z
+,17,Sun Jul 31 2022,11:00,-0300,Botafogo SP,2-1,1-0,Volta Redonda RJ,2022-07-31T14:00Z
+,17,Sun Jul 31 2022,15:00,-0300,Floresta CE,2-1,0-1,Brasil de Pelotas RS,2022-07-31T18:00Z
+,17,Sun Jul 31 2022,16:00,-0300,Vitória BA,2-2,2-1,ABC RN,2022-07-31T19:00Z
+,17,Sun Jul 31 2022,19:00,-0300,Figueirense SC,3-2,3-2,São José RS,2022-07-31T22:00Z
+,17,Sun Jul 31 2022,20:00,-0300,Aparecidense GO,1-3,1-1,Atlético Cearense CE,2022-07-31T23:00Z
+,17,Mon Aug 1 2022,20:00,-0300,Remo PA,2-1,1-0,Ferroviário CE,2022-08-01T23:00Z
+,12,Wed Aug 3 2022,19:00,-0300,Botafogo PB,1-1,1-1,Mirassol SP,2022-08-03T22:00Z
+,18,Sat Aug 6 2022,15:00,-0300,Atlético Cearense CE,0-2,0-1,Botafogo SP,2022-08-06T18:00Z
+,18,Sat Aug 6 2022,17:00,-0300,ABC RN,3-2,0-1,São José RS,2022-08-06T20:00Z
+,18,Sat Aug 6 2022,18:00,-0300,Ypiranga RS,5-0,3-0,Manaus AM,2022-08-06T21:00Z
+,18,Sat Aug 6 2022,19:00,-0300,Altos PI,0-3,0-0,Paysandu PA,2022-08-06T22:00Z
+,18,Sun Aug 7 2022,15:00,-0300,Floresta CE,1-1,1-1,Campinense PB,2022-08-07T18:00Z
+,18,Sun Aug 7 2022,17:00,-0300,Remo PA,0-0,0-0,Aparecidense GO,2022-08-07T20:00Z
+,18,Sun Aug 7 2022,19:00,-0300,Mirassol SP,1-2,0-2,Vitória BA,2022-08-07T22:00Z
+,18,Sun Aug 7 2022,20:00,-0300,Volta Redonda RJ,2-1,1-0,Ferroviário CE,2022-08-07T23:00Z
+,18,Sun Aug 7 2022,11:00,-0300,Brasil de Pelotas RS,1-0,1-0,Confiança SE,2022-08-07T14:00Z
+,18,Mon Aug 8 2022,20:00,-0300,Botafogo PB,1-1,1-1,Figueirense SC,2022-08-08T23:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Aparecidense GO,1-0,1-0,Botafogo PB,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Botafogo SP,2-1,1-0,Remo PA,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Campinense PB,0-1,0-0,Volta Redonda RJ,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Confiança SE,1-0,0-0,Atlético Cearense CE,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,São José RS,4-1,3-0,Altos PI,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Ferroviário CE,1-2,0-0,Ypiranga RS,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Figueirense SC,2-1,1-1,ABC RN,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Manaus AM,2-1,0-0,Mirassol SP,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Paysandu PA,0-1,0-1,Floresta CE,2022-08-13T20:00Z
+,19,Sat Aug 13 2022,17:00,-0300,Vitória BA,3-1,1-0,Brasil de Pelotas RS,2022-08-13T20:00Z
+Playoffs,Gruppe C,Sat Aug 20 2022,17:00,-0300,ABC RN,2-1,2-0,Figueirense SC,2022-08-20T20:00Z
+Playoffs,Gruppe C,Sun Aug 21 2022,16:00,-0300,Vitória BA,1-0,0-0,Paysandu PA,2022-08-21T19:00Z
+Playoffs,Gruppe B,Sun Aug 21 2022,19:00,-0300,Aparecidense GO,2-2,0-1,Mirassol SP,2022-08-21T22:00Z
+Playoffs,Gruppe B,Sun Aug 21 2022,11:00,-0300,Botafogo SP,3-1,3-0,Volta Redonda RJ,2022-08-21T14:00Z
+Playoffs,Gruppe C,Sat Aug 27 2022,17:00,-0300,Paysandu PA,0-1,0-0,ABC RN,2022-08-27T20:00Z
+Playoffs,Gruppe B,Sat Aug 27 2022,19:00,-0300,Mirassol SP,1-0,1-0,Botafogo SP,2022-08-27T22:00Z
+Playoffs,Gruppe C,Sun Aug 28 2022,17:00,-0300,Figueirense SC,5-1,2-1,Vitória BA,2022-08-28T20:00Z
+Playoffs,Gruppe B,Mon Aug 29 2022,20:00,-0300,Volta Redonda RJ,1-0,1-0,Aparecidense GO,2022-08-29T23:00Z
+Playoffs,Gruppe C,Sat Sep 3 2022,17:00,-0300,Figueirense SC,2-1,1-1,Paysandu PA,2022-09-03T20:00Z
+Playoffs,Gruppe B,Sun Sep 4 2022,15:00,-0300,Aparecidense GO,1-3,1-2,Botafogo SP,2022-09-04T18:00Z
+Playoffs,Gruppe C,Sun Sep 4 2022,17:00,-0300,Vitória BA,0-0,0-0,ABC RN,2022-09-04T20:00Z
+Playoffs,Gruppe B,Sun Sep 4 2022,19:00,-0300,Volta Redonda RJ,1-2,0-2,Mirassol SP,2022-09-04T22:00Z
+Playoffs,Gruppe C,Sat Sep 10 2022,17:00,-0300,ABC RN,0-0,0-0,Vitória BA,2022-09-10T20:00Z
+Playoffs,Gruppe C,Sun Sep 11 2022,17:00,-0300,Paysandu PA,1-0,0-0,Figueirense SC,2022-09-11T20:00Z
+Playoffs,Gruppe B,Sun Sep 11 2022,11:00,-0300,Botafogo SP,2-3,1-1,Aparecidense GO,2022-09-11T14:00Z
+Playoffs,Gruppe B,Sun Sep 11 2022,19:00,-0300,Mirassol SP,3-3,1-1,Volta Redonda RJ,2022-09-11T22:00Z
+Playoffs,Gruppe C,Sat Sep 17 2022,21:00,-0300,ABC RN,1-0,0-0,Paysandu PA,2022-09-18T00:00Z
+Playoffs,Gruppe B,Sat Sep 17 2022,15:00,-0300,Aparecidense GO,1-0,0-0,Volta Redonda RJ,2022-09-17T18:00Z
+Playoffs,Gruppe C,Sun Sep 18 2022,16:00,-0300,Vitória BA,1-0,1-0,Figueirense SC,2022-09-18T19:00Z
+Playoffs,Gruppe B,Mon Sep 19 2022,20:00,-0300,Botafogo SP,1-1,0-1,Mirassol SP,2022-09-19T23:00Z
+Playoffs,Gruppe C,Sat Sep 24 2022,17:00,-0300,Figueirense SC,0-0,0-0,ABC RN,2022-09-24T20:00Z
+Playoffs,Gruppe C,Sat Sep 24 2022,17:00,-0300,Paysandu PA,1-1,0-0,Vitória BA,2022-09-24T20:00Z
+Playoffs,Gruppe B,Sun Sep 25 2022,17:00,-0300,Volta Redonda RJ,1-2,0-1,Botafogo SP,2022-09-25T20:00Z
+Playoffs,Gruppe B,Sun Sep 25 2022,17:00,-0300,Mirassol SP,2-1,1-1,Aparecidense GO,2022-09-25T20:00Z
+Playoffs,Final,Sat Oct 1 2022,17:00,-0300,ABC RN,0-0,0-0,Mirassol SP,2022-10-01T20:00Z
+Playoffs,Final,Sat Oct 8 2022,17:00,-0300,Mirassol SP,2-0,2-0,ABC RN,2022-10-08T20:00Z

@@ -1,0 +1,111 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,P,UTC
+,1,Sat Jan 19 2019,17:00,-0200,Santos FC,1-0,0-0,Ferroviária SP,,2019-01-19T19:00Z
+,1,Sat Jan 19 2019,19:30,-0200,São Paulo FC,4-1,1-1,Mirassol SP,,2019-01-19T21:30Z
+,1,Sat Jan 19 2019,21:30,-0200,CA Bragantino,1-0,1-0,Guarani SP,,2019-01-19T23:30Z
+,1,Sat Jan 19 2019,16:30,-0200,Ponte Preta,0-0,0-0,Oeste SP,,2019-01-19T18:30Z
+,1,Sun Jan 20 2019,11:00,-0200,Botafogo SP,1-1,0-0,São Bento SP,,2019-01-20T13:00Z
+,1,Sun Jan 20 2019,17:00,-0200,Corinthians SP,1-1,0-1,São Caetano SP,,2019-01-20T19:00Z
+,1,Sun Jan 20 2019,19:00,-0200,Red Bull Brasil SP,1-1,1-1,Palmeiras,,2019-01-20T21:00Z
+,1,Mon Jan 21 2019,18:15,-0200,Ituano SP,0-1,0-0,Grêmio Novorizontino SP,,2019-01-21T20:15Z
+,2,Wed Jan 23 2019,19:15,-0200,Guarani SP,2-1,2-1,Corinthians SP,,2019-01-23T21:15Z
+,2,Wed Jan 23 2019,19:15,-0200,Oeste SP,0-0,0-0,CA Bragantino,,2019-01-23T21:15Z
+,2,Wed Jan 23 2019,21:00,-0200,Palmeiras,1-0,1-0,Botafogo SP,,2019-01-23T23:00Z
+,2,Wed Jan 23 2019,17:00,-0200,Ferroviária SP,0-0,0-0,Ponte Preta,,2019-01-23T19:00Z
+,2,Thu Jan 24 2019,17:30,-0200,Mirassol SP,1-0,1-0,Red Bull Brasil SP,,2019-01-24T19:30Z
+,2,Thu Jan 24 2019,19:15,-0200,São Bento SP,0-4,0-2,Santos FC,,2019-01-24T21:15Z
+,2,Thu Jan 24 2019,21:00,-0200,Grêmio Novorizontino SP,0-3,0-2,São Paulo FC,,2019-01-24T23:00Z
+,2,Thu Jan 24 2019,21:00,-0200,São Caetano SP,0-0,0-0,Ituano SP,,2019-01-24T23:00Z
+,3,Sat Jan 26 2019,19:00,-0200,Corinthians SP,1-0,0-0,Ponte Preta,,2019-01-26T21:00Z
+,3,Sat Jan 26 2019,16:30,-0200,Guarani SP,1-2,0-0,Oeste SP,,2019-01-26T18:30Z
+,3,Sun Jan 27 2019,17:00,-0200,Santos FC,2-0,1-0,São Paulo FC,,2019-01-27T19:00Z
+,3,Sun Jan 27 2019,19:00,-0200,São Caetano SP,0-2,0-1,Palmeiras,,2019-01-27T21:00Z
+,3,Sun Jan 27 2019,19:00,-0200,Mirassol SP,0-0,0-0,Grêmio Novorizontino SP,,2019-01-27T21:00Z
+,3,Sun Jan 27 2019,19:30,-0200,Red Bull Brasil SP,1-1,0-1,CA Bragantino,,2019-01-27T21:30Z
+,3,Mon Jan 28 2019,20:00,-0200,Botafogo SP,1-2,0-1,Ferroviária SP,,2019-01-28T22:00Z
+,3,Mon Jan 28 2019,17:30,-0200,Ituano SP,2-0,0-0,São Bento SP,,2019-01-28T19:30Z
+,4,Wed Jan 30 2019,19:15,-0200,Ponte Preta,3-0,1-0,Mirassol SP,,2019-01-30T21:15Z
+,4,Wed Jan 30 2019,21:00,-0200,Oeste SP,0-1,0-0,Palmeiras,,2019-01-30T23:00Z
+,4,Wed Jan 30 2019,19:15,-0200,Corinthians SP,0-2,0-0,Red Bull Brasil SP,,2019-01-30T21:15Z
+,4,Thu Jan 31 2019,17:00,-0200,Grêmio Novorizontino SP,1-0,0-0,Botafogo SP,,2019-01-31T19:00Z
+,4,Thu Jan 31 2019,18:45,-0200,São Bento SP,1-1,0-1,São Caetano SP,,2019-01-31T20:45Z
+,4,Thu Jan 31 2019,19:15,-0200,CA Bragantino,1-4,0-3,Santos FC,,2019-01-31T21:15Z
+,4,Thu Jan 31 2019,21:00,-0200,São Paulo FC,0-1,0-1,Guarani SP,,2019-01-31T23:00Z
+,4,Thu Jan 31 2019,21:00,-0200,Ferroviária SP,2-1,1-0,Ituano SP,,2019-01-31T23:00Z
+,5,Sat Feb 2 2019,17:00,-0200,Palmeiras,0-1,0-1,Corinthians SP,,2019-02-02T19:00Z
+,5,Sun Feb 3 2019,17:00,-0200,São Paulo FC,1-0,0-0,São Bento SP,,2019-02-03T19:00Z
+,5,Sun Feb 3 2019,19:00,-0200,Ituano SP,5-1,4-1,Santos FC,,2019-02-03T21:00Z
+,5,Sun Feb 3 2019,19:00,-0200,CA Bragantino,2-1,1-0,Ponte Preta,,2019-02-03T21:00Z
+,5,Sun Feb 3 2019,11:00,-0200,Mirassol SP,2-2,1-0,Guarani SP,,2019-02-03T13:00Z
+,5,Mon Feb 4 2019,17:30,-0200,Oeste SP,2-2,2-0,Grêmio Novorizontino SP,,2019-02-04T19:30Z
+,5,Mon Feb 4 2019,20:00,-0200,Ferroviária SP,1-2,0-1,Red Bull Brasil SP,,2019-02-04T22:00Z
+,5,Tue Feb 5 2019,19:00,-0200,Botafogo SP,3-0,0-0,São Caetano SP,,2019-02-05T21:00Z
+,6,Fri Feb 8 2019,21:00,-0200,São Bento SP,0-0,0-0,Ferroviária SP,,2019-02-08T23:00Z
+,6,Fri Feb 8 2019,18:45,-0200,Red Bull Brasil SP,2-1,0-1,Ituano SP,,2019-02-08T20:45Z
+,6,Sat Feb 9 2019,17:00,-0200,Santos FC,1-0,0-0,Mirassol SP,,2019-02-09T19:00Z
+,6,Sat Feb 9 2019,19:00,-0200,São Caetano SP,1-3,0-1,Oeste SP,,2019-02-09T21:00Z
+,6,Sat Feb 9 2019,19:00,-0200,Ponte Preta,1-0,0-0,São Paulo FC,,2019-02-09T21:00Z
+,6,Sun Feb 10 2019,20:00,-0200,Guarani SP,2-0,1-0,Botafogo SP,,2019-02-10T22:00Z
+,6,Sun Feb 10 2019,17:00,-0200,Grêmio Novorizontino SP,1-0,0-0,Corinthians SP,,2019-02-10T19:00Z
+,6,Mon Feb 11 2019,20:00,-0200,Palmeiras,2-0,2-0,CA Bragantino,,2019-02-11T22:00Z
+,7,Fri Feb 15 2019,18:45,-0200,Ituano SP,2-0,0-0,Mirassol SP,,2019-02-15T20:45Z
+,7,Fri Feb 15 2019,21:00,-0200,Red Bull Brasil SP,3-1,2-1,Botafogo SP,,2019-02-15T23:00Z
+,7,Sat Feb 16 2019,21:00,-0200,Grêmio Novorizontino SP,0-0,0-0,Ponte Preta,,2019-02-16T23:00Z
+,7,Sat Feb 16 2019,16:30,-0200,São Caetano SP,4-4,1-4,CA Bragantino,,2019-02-16T18:30Z
+,7,Sun Feb 17 2019,19:00,-0300,Corinthians SP,2-1,1-0,São Paulo FC,,2019-02-17T22:00Z
+,7,Sun Feb 17 2019,17:00,-0300,Ferroviária SP,0-0,0-0,Palmeiras,,2019-02-17T20:00Z
+,7,Mon Feb 18 2019,17:30,-0300,Oeste SP,1-0,0-0,São Bento SP,,2019-02-18T20:30Z
+,7,Mon Feb 18 2019,20:00,-0300,Santos FC,3-0,1-0,Guarani SP,,2019-02-18T23:00Z
+,8,Fri Feb 22 2019,21:00,-0300,CA Bragantino,1-1,1-0,Grêmio Novorizontino SP,,2019-02-23T00:00Z
+,8,Fri Feb 22 2019,18:45,-0300,Mirassol SP,2-1,0-1,São Bento SP,,2019-02-22T21:45Z
+,8,Sat Feb 23 2019,19:00,-0300,Palmeiras,0-0,0-0,Santos FC,,2019-02-23T22:00Z
+,8,Sat Feb 23 2019,16:30,-0300,Guarani SP,2-1,0-1,São Caetano SP,,2019-02-23T19:30Z
+,8,Sun Feb 24 2019,17:00,-0300,São Paulo FC,0-0,0-0,Red Bull Brasil SP,,2019-02-24T20:00Z
+,8,Sun Feb 24 2019,17:00,-0300,Ponte Preta,1-1,1-0,Ituano SP,,2019-02-24T20:00Z
+,8,Sun Feb 24 2019,19:00,-0300,Botafogo SP,0-1,0-0,Corinthians SP,,2019-02-24T22:00Z
+,8,Mon Feb 25 2019,17:30,-0300,Ferroviária SP,2-1,0-1,Oeste SP,,2019-02-25T20:30Z
+,9,Wed Feb 27 2019,21:30,-0300,Palmeiras,3-2,2-0,Ituano SP,,2019-02-28T00:30Z
+,9,Fri Mar 1 2019,21:00,-0300,Guarani SP,1-1,1-1,Ferroviária SP,,2019-03-02T00:00Z
+,9,Fri Mar 1 2019,18:45,-0300,São Caetano SP,2-0,1-0,Mirassol SP,,2019-03-01T21:45Z
+,9,Sat Mar 2 2019,16:30,-0300,São Bento SP,1-1,0-1,Corinthians SP,,2019-03-02T19:30Z
+,9,Sat Mar 2 2019,16:30,-0300,Red Bull Brasil SP,1-0,1-0,Grêmio Novorizontino SP,,2019-03-02T19:30Z
+,9,Sat Mar 2 2019,19:00,-0300,Santos FC,3-2,1-2,Oeste SP,,2019-03-02T22:00Z
+,9,Sun Mar 3 2019,17:00,-0300,CA Bragantino,0-2,0-0,São Paulo FC,,2019-03-03T20:00Z
+,9,Mon Mar 4 2019,20:00,-0300,Ponte Preta,2-1,1-0,Botafogo SP,,2019-03-04T23:00Z
+,10,Fri Mar 8 2019,19:00,-0300,Oeste SP,1-2,0-1,Red Bull Brasil SP,,2019-03-08T22:00Z
+,10,Fri Mar 8 2019,21:00,-0300,Ituano SP,2-1,1-0,Guarani SP,,2019-03-09T00:00Z
+,10,Fri Mar 8 2019,18:45,-0300,Botafogo SP,2-1,1-0,CA Bragantino,,2019-03-08T21:45Z
+,10,Sat Mar 9 2019,16:30,-0300,Mirassol SP,1-1,0-0,Palmeiras,,2019-03-09T19:30Z
+,10,Sat Mar 9 2019,21:00,-0300,São Paulo FC,1-1,0-1,Ferroviária SP,,2019-03-10T00:00Z
+,10,Sun Mar 10 2019,19:00,-0300,São Bento SP,1-2,0-1,Ponte Preta,,2019-03-10T22:00Z
+,10,Sun Mar 10 2019,16:00,-0300,Corinthians SP,0-0,0-0,Santos FC,,2019-03-10T19:00Z
+,10,Mon Mar 11 2019,17:30,-0300,Grêmio Novorizontino SP,2-1,2-1,São Caetano SP,,2019-03-11T20:30Z
+,11,Fri Mar 15 2019,17:00,-0300,CA Bragantino,0-3,0-2,Ituano SP,,2019-03-15T20:00Z
+,11,Fri Mar 15 2019,18:45,-0300,Red Bull Brasil SP,3-2,1-1,São Bento SP,,2019-03-15T21:45Z
+,11,Fri Mar 15 2019,20:30,-0300,Santos FC,0-1,0-1,Grêmio Novorizontino SP,,2019-03-15T23:30Z
+,11,Fri Mar 15 2019,21:00,-0300,Ferroviária SP,2-0,1-0,São Caetano SP,,2019-03-16T00:00Z
+,11,Sat Mar 16 2019,19:00,-0300,Ponte Preta,3-0,1-0,Guarani SP,,2019-03-16T22:00Z
+,11,Sat Mar 16 2019,16:30,-0300,São Paulo FC,0-1,0-0,Palmeiras,,2019-03-16T19:30Z
+,11,Sun Mar 17 2019,19:00,-0300,Mirassol SP,1-1,1-1,Botafogo SP,,2019-03-17T22:00Z
+,11,Sun Mar 17 2019,16:00,-0300,Corinthians SP,1-0,0-0,Oeste SP,,2019-03-17T19:00Z
+,12,Wed Mar 20 2019,21:30,-0300,Ituano SP,0-1,0-0,Corinthians SP,,2019-03-21T00:30Z
+,12,Wed Mar 20 2019,21:30,-0300,Palmeiras,1-0,0-0,Ponte Preta,,2019-03-21T00:30Z
+,12,Wed Mar 20 2019,21:30,-0300,São Caetano SP,1-1,0-0,São Paulo FC,,2019-03-21T00:30Z
+,12,Wed Mar 20 2019,21:30,-0300,Botafogo SP,4-0,2-0,Santos FC,,2019-03-21T00:30Z
+,12,Wed Mar 20 2019,21:30,-0300,Oeste SP,1-1,0-0,Mirassol SP,,2019-03-21T00:30Z
+,12,Wed Mar 20 2019,21:30,-0300,Guarani SP,1-2,0-0,Red Bull Brasil SP,,2019-03-21T00:30Z
+,12,Wed Mar 20 2019,21:30,-0300,Grêmio Novorizontino SP,1-1,0-0,Ferroviária SP,,2019-03-21T00:30Z
+,12,Wed Mar 20 2019,21:30,-0300,São Bento SP,1-0,0-0,CA Bragantino,,2019-03-21T00:30Z
+Playoffs,Quarterfinals,Sat Mar 23 2019,17:00,-0300,Grêmio Novorizontino SP,1-1,,Palmeiras,,2019-03-23T20:00Z
+Playoffs,Quarterfinals,Sat Mar 23 2019,19:30,-0300,Santos FC,2-0,,Red Bull Brasil SP,,2019-03-23T22:30Z
+Playoffs,Quarterfinals,Sun Mar 24 2019,19:00,-0300,Ferroviária SP,1-1,,Corinthians SP,,2019-03-24T22:00Z
+Playoffs,Quarterfinals,Sun Mar 24 2019,16:00,-0300,São Paulo FC,2-1,,Ituano SP,,2019-03-24T19:00Z
+Playoffs,Quarterfinals,Tue Mar 26 2019,21:00,-0300,Palmeiras,5-0,2-0,Grêmio Novorizontino SP,,2019-03-27T00:00Z
+Playoffs,Quarterfinals,Tue Mar 26 2019,20:00,-0300,Red Bull Brasil SP,0-0,0-0,Santos FC,,2019-03-26T23:00Z
+Playoffs,Quarterfinals,Wed Mar 27 2019,21:30,-0300,Corinthians SP,1-1,1-0,Ferroviária SP,4-3,2019-03-28T00:30Z
+Playoffs,Quarterfinals,Wed Mar 27 2019,19:15,-0300,Ituano SP,0-1,0-0,São Paulo FC,,2019-03-27T22:15Z
+Playoffs,Semifinals,Sat Mar 30 2019,18:00,-0300,São Paulo FC,0-0,0-0,Palmeiras,,2019-03-30T21:00Z
+Playoffs,Semifinals,Sun Mar 31 2019,16:00,-0300,Corinthians SP,2-1,2-1,Santos FC,,2019-03-31T19:00Z
+Playoffs,Semifinals,Sun Apr 7 2019,16:00,-0300,Palmeiras,0-0,0-0,São Paulo FC,4-5,2019-04-07T19:00Z
+Playoffs,Semifinals,Mon Apr 8 2019,20:00,-0300,Santos FC,1-0,0-0,Corinthians SP,6-7,2019-04-08T23:00Z
+Playoffs,Final,Sun Apr 14 2019,16:00,-0300,São Paulo FC,0-0,0-0,Corinthians SP,,2019-04-14T19:00Z
+Playoffs,Final,Sun Apr 21 2019,16:00,-0300,Corinthians SP,2-1,1-1,São Paulo FC,,2019-04-21T19:00Z

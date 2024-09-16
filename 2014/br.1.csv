@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Apr 19 2014,18:30,-0300,Internacional,1-0,1-0,Vitória BA,2014-04-19T21:30Z
+1,Sat Apr 19 2014,21:00,-0300,Chapecoense,0-0,0-0,Coritiba PR,2014-04-20T00:00Z
+1,Sat Apr 19 2014,18:30,-0300,Fluminense RJ,3-0,2-0,Figueirense SC,2014-04-19T21:30Z
+1,Sun Apr 20 2014,16:00,-0300,São Paulo FC,3-0,2-0,Botafogo RJ,2014-04-20T19:00Z
+1,Sun Apr 20 2014,16:00,-0300,Athletico Paranaense,1-0,1-0,Grêmio Porto Alegre,2014-04-20T19:00Z
+1,Sun Apr 20 2014,16:00,-0300,Atlético Mineiro,0-0,0-0,Corinthians SP,2014-04-20T19:00Z
+1,Sun Apr 20 2014,16:00,-0300,Bahia BA,1-2,0-0,Cruzeiro,2014-04-20T19:00Z
+1,Sun Apr 20 2014,18:30,-0300,Flamengo RJ,0-0,0-0,Goiás GO,2014-04-20T21:30Z
+1,Sun Apr 20 2014,18:30,-0300,Santos FC,1-1,0-0,Sport Recife PE,2014-04-20T21:30Z
+1,Sun Apr 20 2014,18:30,-0300,Criciúma SC,1-2,1-0,Palmeiras,2014-04-20T21:30Z
+2,Sat Apr 26 2014,18:30,-0300,Coritiba PR,0-0,0-0,Santos FC,2014-04-26T21:30Z
+2,Sat Apr 26 2014,21:00,-0300,Palmeiras,0-1,0-1,Fluminense RJ,2014-04-27T00:00Z
+2,Sun Apr 27 2014,16:00,-0300,Corinthians SP,2-0,1-0,Flamengo RJ,2014-04-27T19:00Z
+2,Sun Apr 27 2014,16:00,-0300,Cruzeiro,1-1,0-0,São Paulo FC,2014-04-27T19:00Z
+2,Sun Apr 27 2014,16:00,-0300,Vitória BA,2-2,2-0,Athletico Paranaense,2014-04-27T19:00Z
+2,Sun Apr 27 2014,18:30,-0300,Sport Recife PE,2-1,2-1,Chapecoense,2014-04-27T21:30Z
+2,Sun Apr 27 2014,18:30,-0300,Grêmio Porto Alegre,2-1,2-0,Atlético Mineiro,2014-04-27T21:30Z
+2,Sun Apr 27 2014,18:30,-0300,Figueirense SC,0-2,0-1,Bahia BA,2014-04-27T21:30Z
+2,Sun Apr 27 2014,18:30,-0300,Goiás GO,1-0,0-0,Criciúma SC,2014-04-27T21:30Z
+2,Sun Apr 27 2014,16:00,-0300,Botafogo RJ,2-2,0-2,Internacional,2014-04-27T19:00Z
+3,Sat May 3 2014,18:30,-0300,São Paulo FC,2-2,1-1,Coritiba PR,2014-05-03T21:30Z
+3,Sat May 3 2014,18:30,-0300,Santos FC,0-0,0-0,Grêmio Porto Alegre,2014-05-03T21:30Z
+3,Sat May 3 2014,18:30,-0300,Athletico Paranaense,2-3,2-1,Cruzeiro,2014-05-03T21:30Z
+3,Sat May 3 2014,21:00,-0300,Fluminense RJ,1-2,0-0,Vitória BA,2014-05-04T00:00Z
+3,Sun May 4 2014,16:00,-0300,Flamengo RJ,4-2,1-2,Palmeiras,2014-05-04T19:00Z
+3,Sun May 4 2014,16:00,-0300,Bahia BA,1-0,0-0,Botafogo RJ,2014-05-04T19:00Z
+3,Sun May 4 2014,16:00,-0300,Internacional,2-1,2-0,Sport Recife PE,2014-05-04T19:00Z
+3,Sun May 4 2014,16:00,-0300,Criciúma SC,1-0,1-0,Figueirense SC,2014-05-04T19:00Z
+3,Sun May 4 2014,18:30,-0300,Atlético Mineiro,0-1,0-0,Goiás GO,2014-05-04T21:30Z
+3,Sun May 4 2014,18:30,-0300,Chapecoense,0-1,0-0,Corinthians SP,2014-05-04T21:30Z
+4,Sat May 10 2014,18:30,-0300,Internacional,2-1,0-0,Athletico Paranaense,2014-05-10T21:30Z
+4,Sat May 10 2014,21:00,-0300,Botafogo RJ,6-0,1-0,Criciúma SC,2014-05-11T00:00Z
+4,Sat May 10 2014,18:30,-0300,Palmeiras,2-0,2-0,Goiás GO,2014-05-10T21:30Z
+4,Sun May 11 2014,16:00,-0300,Fluminense RJ,2-0,1-0,Flamengo RJ,2014-05-11T19:00Z
+4,Sun May 11 2014,16:00,-0300,São Paulo FC,1-1,0-0,Corinthians SP,2014-05-11T19:00Z
+4,Sun May 11 2014,16:00,-0300,Atlético Mineiro,2-1,0-1,Cruzeiro,2014-05-11T19:00Z
+4,Sun May 11 2014,16:00,-0300,Chapecoense,1-2,0-1,Grêmio Porto Alegre,2014-05-11T19:00Z
+4,Sun May 11 2014,18:30,-0300,Coritiba PR,0-1,0-0,Sport Recife PE,2014-05-11T21:30Z
+4,Sun May 11 2014,18:30,-0300,Bahia BA,1-1,0-1,Vitória BA,2014-05-11T21:30Z
+4,Sun May 11 2014,18:30,-0300,Figueirense SC,0-2,0-1,Santos FC,2014-05-11T21:30Z
+5,Wed May 14 2014,22:00,-0300,Goiás GO,2-0,0-0,Botafogo RJ,2014-05-15T01:00Z
+5,Sat May 17 2014,18:30,-0300,Cruzeiro,3-2,2-1,Coritiba PR,2014-05-17T21:30Z
+5,Sun May 18 2014,16:00,-0300,Flamengo RJ,0-2,0-1,São Paulo FC,2014-05-18T19:00Z
+5,Sun May 18 2014,16:00,-0300,Corinthians SP,0-1,0-0,Figueirense SC,2014-05-18T19:00Z
+5,Sun May 18 2014,16:00,-0300,Athletico Paranaense,1-1,0-0,Chapecoense,2014-05-18T19:00Z
+5,Sun May 18 2014,16:00,-0300,Grêmio Porto Alegre,1-0,1-0,Fluminense RJ,2014-05-18T19:00Z
+5,Sun May 18 2014,18:30,-0300,Santos FC,1-2,1-0,Atlético Mineiro,2014-05-18T21:30Z
+5,Sun May 18 2014,18:30,-0300,Vitória BA,0-1,0-0,Palmeiras,2014-05-18T21:30Z
+5,Sun May 18 2014,18:30,-0300,Criciúma SC,0-0,0-0,Internacional,2014-05-18T21:30Z
+6,Wed May 21 2014,22:00,-0300,Corinthians SP,1-1,0-0,Athletico Paranaense,2014-05-22T01:00Z
+6,Wed May 21 2014,19:30,-0300,Flamengo RJ,1-1,1-0,Bahia BA,2014-05-21T22:30Z
+6,Wed May 21 2014,19:30,-0300,Coritiba PR,1-1,0-1,Internacional,2014-05-21T22:30Z
+6,Wed May 21 2014,21:00,-0300,Cruzeiro,2-0,0-0,Sport Recife PE,2014-05-22T00:00Z
+6,Wed May 21 2014,21:00,-0300,Criciúma SC,1-0,1-0,Chapecoense,2014-05-22T00:00Z
+6,Wed May 21 2014,22:00,-0300,Fluminense RJ,5-2,1-2,São Paulo FC,2014-05-22T01:00Z
+6,Wed May 21 2014,22:00,-0300,Grêmio Porto Alegre,2-1,1-1,Botafogo RJ,2014-05-22T01:00Z
+6,Thu May 22 2014,19:30,-0300,Palmeiras,1-0,1-0,Figueirense SC,2014-05-22T22:30Z
+6,Thu May 22 2014,19:30,-0300,Goiás GO,2-2,1-2,Santos FC,2014-05-22T22:30Z
+6,Thu May 22 2014,21:00,-0300,Vitória BA,2-3,0-2,Atlético Mineiro,2014-05-23T00:00Z
+7,Sat May 24 2014,21:00,-0300,São Paulo FC,1-0,0-0,Grêmio Porto Alegre,2014-05-25T00:00Z
+7,Sat May 24 2014,18:30,-0300,Bahia BA,0-1,0-1,Fluminense RJ,2014-05-24T21:30Z
+7,Sun May 25 2014,18:30,-0300,Chapecoense,2-0,1-0,Palmeiras,2014-05-25T21:30Z
+7,Sun May 25 2014,16:00,-0300,Sport Recife PE,1-4,1-2,Corinthians SP,2014-05-25T19:00Z
+7,Sun May 25 2014,16:00,-0300,Santos FC,0-0,0-0,Flamengo RJ,2014-05-25T19:00Z
+7,Sun May 25 2014,16:00,-0300,Athletico Paranaense,2-0,0-0,Coritiba PR,2014-05-25T19:00Z
+7,Sun May 25 2014,16:00,-0300,Figueirense SC,0-1,0-1,Goiás GO,2014-05-25T19:00Z
+7,Sun May 25 2014,18:30,-0300,Botafogo RJ,1-1,1-0,Vitória BA,2014-05-25T21:30Z
+7,Sun May 25 2014,18:30,-0300,Atlético Mineiro,0-0,0-0,Criciúma SC,2014-05-25T21:30Z
+7,Sun May 25 2014,18:30,-0300,Internacional,1-3,1-1,Cruzeiro,2014-05-25T21:30Z
+8,Wed May 28 2014,22:00,-0300,Athletico Paranaense,2-2,1-0,São Paulo FC,2014-05-29T01:00Z
+8,Wed May 28 2014,19:30,-0300,Sport Recife PE,0-0,0-0,Grêmio Porto Alegre,2014-05-28T22:30Z
+8,Wed May 28 2014,19:30,-0300,Palmeiras,0-2,0-0,Botafogo RJ,2014-05-28T22:30Z
+8,Wed May 28 2014,19:30,-0300,Criciúma SC,1-0,0-0,Coritiba PR,2014-05-28T22:30Z
+8,Wed May 28 2014,21:00,-0300,Internacional,2-0,1-0,Chapecoense,2014-05-29T00:00Z
+8,Wed May 28 2014,21:00,-0300,Goiás GO,0-0,0-0,Vitória BA,2014-05-29T00:00Z
+8,Wed May 28 2014,22:00,-0300,Corinthians SP,1-0,0-0,Cruzeiro,2014-05-29T01:00Z
+8,Wed May 28 2014,22:00,-0300,Atlético Mineiro,2-0,0-0,Fluminense RJ,2014-05-29T01:00Z
+8,Thu May 29 2014,19:30,-0300,Flamengo RJ,1-1,1-1,Figueirense SC,2014-05-29T22:30Z
+8,Thu May 29 2014,21:00,-0300,Bahia BA,0-2,0-0,Santos FC,2014-05-30T00:00Z
+9,Sat May 31 2014,21:00,-0300,Vitória BA,0-1,0-0,Sport Recife PE,2014-06-01T00:00Z
+9,Sat May 31 2014,18:30,-0300,São Paulo FC,2-1,1-0,Atlético Mineiro,2014-05-31T21:30Z
+9,Sat May 31 2014,18:30,-0300,Coritiba PR,3-0,3-0,Goiás GO,2014-05-31T21:30Z
+28,Sun Jun 1 2014,16:00,-0300,Corinthians SP,1-1,1-0,Botafogo RJ,2014-06-01T19:00Z
+9,Sun Jun 1 2014,16:00,-0300,Cruzeiro,3-0,3-0,Flamengo RJ,2014-06-01T19:00Z
+9,Sun Jun 1 2014,16:00,-0300,Grêmio Porto Alegre,0-0,0-0,Palmeiras,2014-06-01T19:00Z
+9,Sun Jun 1 2014,16:00,-0300,Chapecoense,2-1,0-0,Bahia BA,2014-06-01T19:00Z
+9,Sun Jun 1 2014,18:30,-0300,Fluminense RJ,1-1,1-1,Internacional,2014-06-01T21:30Z
+9,Sun Jun 1 2014,18:30,-0300,Santos FC,2-0,2-0,Criciúma SC,2014-06-01T21:30Z
+9,Sun Jun 1 2014,18:30,-0300,Figueirense SC,1-3,0-1,Athletico Paranaense,2014-06-01T21:30Z
+5,Wed Jun 4 2014,21:00,-0300,Sport Recife PE,1-0,0-0,Bahia BA,2014-06-05T00:00Z
+10,Wed Jul 16 2014,19:30,-0300,Sport Recife PE,1-0,1-0,Botafogo RJ,2014-07-16T22:30Z
+10,Wed Jul 16 2014,19:30,-0300,Coritiba PR,0-2,0-1,Figueirense SC,2014-07-16T22:30Z
+10,Wed Jul 16 2014,19:30,-0300,Grêmio Porto Alegre,0-0,0-0,Goiás GO,2014-07-16T22:30Z
+10,Wed Jul 16 2014,22:00,-0300,Flamengo RJ,1-2,1-1,Athletico Paranaense,2014-07-17T01:00Z
+10,Wed Jul 16 2014,22:00,-0300,Bahia BA,0-2,0-2,São Paulo FC,2014-07-17T01:00Z
+10,Wed Jul 16 2014,22:00,-0300,Criciúma SC,3-2,1-0,Fluminense RJ,2014-07-17T01:00Z
+10,Thu Jul 17 2014,19:30,-0300,Santos FC,2-0,1-0,Palmeiras,2014-07-17T22:30Z
+10,Thu Jul 17 2014,21:00,-0300,Cruzeiro,3-1,0-0,Vitória BA,2014-07-18T00:00Z
+10,Thu Jul 17 2014,19:30,-0300,Corinthians SP,2-1,2-0,Internacional,2014-07-17T22:30Z
+11,Sat Jul 19 2014,18:30,-0300,São Paulo FC,0-1,0-0,Chapecoense,2014-07-19T21:30Z
+11,Sat Jul 19 2014,18:30,-0300,Atlético Mineiro,1-1,0-1,Bahia BA,2014-07-19T21:30Z
+11,Sat Jul 19 2014,18:30,-0300,Figueirense SC,0-1,0-1,Grêmio Porto Alegre,2014-07-19T21:30Z
+11,Sat Jul 19 2014,21:00,-0300,Botafogo RJ,1-0,1-0,Coritiba PR,2014-07-20T00:00Z
+11,Sun Jul 20 2014,18:30,-0300,Goiás GO,0-0,0-0,Sport Recife PE,2014-07-20T21:30Z
+11,Sun Jul 20 2014,16:00,-0300,Palmeiras,1-2,0-2,Cruzeiro,2014-07-20T19:00Z
+11,Sun Jul 20 2014,16:00,-0300,Vitória BA,0-0,0-0,Corinthians SP,2014-07-20T19:00Z
+11,Sun Jul 20 2014,16:00,-0300,Internacional,4-0,2-0,Flamengo RJ,2014-07-20T19:00Z
+11,Sun Jul 20 2014,18:30,-0300,Fluminense RJ,1-0,0-0,Santos FC,2014-07-20T21:30Z
+11,Sun Jul 20 2014,18:30,-0300,Athletico Paranaense,2-0,0-0,Criciúma SC,2014-07-20T21:30Z
+12,Sat Jul 26 2014,18:30,-0300,Santos FC,3-0,1-0,Chapecoense,2014-07-26T21:30Z
+12,Sat Jul 26 2014,18:30,-0300,Cruzeiro,5-0,1-0,Figueirense SC,2014-07-26T21:30Z
+12,Sat Jul 26 2014,18:30,-0300,Criciúma SC,1-3,0-1,Vitória BA,2014-07-26T21:30Z
+12,Sat Jul 26 2014,21:00,-0300,Bahia BA,0-1,0-0,Internacional,2014-07-27T00:00Z
+12,Sun Jul 27 2014,18:30,-0300,Grêmio Porto Alegre,2-3,0-0,Coritiba PR,2014-07-27T21:30Z
+12,Sun Jul 27 2014,16:00,-0300,Sport Recife PE,2-1,0-0,Atlético Mineiro,2014-07-27T19:00Z
+12,Sun Jul 27 2014,16:00,-0300,Corinthians SP,2-0,0-0,Palmeiras,2014-07-27T19:00Z
+12,Sun Jul 27 2014,16:00,-0300,Athletico Paranaense,0-3,0-2,Fluminense RJ,2014-07-27T19:00Z
+12,Sun Jul 27 2014,16:00,-0300,Goiás GO,2-1,1-0,São Paulo FC,2014-07-27T19:00Z
+12,Sun Jul 27 2014,18:30,-0300,Flamengo RJ,1-0,1-0,Botafogo RJ,2014-07-27T21:30Z
+13,Sat Aug 2 2014,18:30,-0300,Botafogo RJ,1-1,1-0,Cruzeiro,2014-08-02T21:30Z
+13,Sat Aug 2 2014,18:30,-0300,São Paulo FC,1-1,0-0,Criciúma SC,2014-08-02T21:30Z
+13,Sat Aug 2 2014,21:00,-0300,Vitória BA,2-1,0-1,Grêmio Porto Alegre,2014-08-03T00:00Z
+13,Sun Aug 3 2014,16:00,-0300,Coritiba PR,0-0,0-0,Corinthians SP,2014-08-03T19:00Z
+13,Sun Aug 3 2014,16:00,-0300,Palmeiras,1-1,0-0,Bahia BA,2014-08-03T19:00Z
+13,Sun Aug 3 2014,18:30,-0300,Internacional,1-0,0-0,Santos FC,2014-08-03T21:30Z
+13,Sun Aug 3 2014,16:00,-0300,Figueirense SC,3-0,1-0,Sport Recife PE,2014-08-03T19:00Z
+13,Sun Aug 3 2014,16:00,-0300,Chapecoense,1-0,1-0,Flamengo RJ,2014-08-03T19:00Z
+13,Sun Aug 3 2014,18:30,-0300,Fluminense RJ,2-0,2-0,Goiás GO,2014-08-03T21:30Z
+13,Sun Aug 3 2014,18:30,-0300,Atlético Mineiro,3-1,1-0,Athletico Paranaense,2014-08-03T21:30Z
+10,Wed Aug 6 2014,21:00,-0300,Chapecoense,1-1,1-0,Atlético Mineiro,2014-08-07T00:00Z
+14,Sat Aug 9 2014,18:30,-0300,Bahia BA,1-0,1-0,Goiás GO,2014-08-09T21:30Z
+14,Sat Aug 9 2014,18:30,-0300,Criciúma SC,0-0,0-0,Cruzeiro,2014-08-09T21:30Z
+14,Sat Aug 9 2014,21:00,-0300,Fluminense RJ,1-1,1-0,Coritiba PR,2014-08-10T00:00Z
+14,Sun Aug 10 2014,16:00,-0300,Flamengo RJ,1-0,0-0,Sport Recife PE,2014-08-10T19:00Z
+14,Sun Aug 10 2014,16:00,-0300,Santos FC,0-1,0-0,Corinthians SP,2014-08-10T19:00Z
+14,Sun Aug 10 2014,16:00,-0300,Athletico Paranaense,2-0,1-0,Botafogo RJ,2014-08-10T19:00Z
+14,Sun Aug 10 2014,16:00,-0300,Internacional,2-0,0-0,Grêmio Porto Alegre,2014-08-10T19:00Z
+14,Sun Aug 10 2014,18:30,-0300,São Paulo FC,3-1,3-1,Vitória BA,2014-08-10T21:30Z
+14,Sun Aug 10 2014,18:30,-0300,Atlético Mineiro,2-1,1-0,Palmeiras,2014-08-10T21:30Z
+14,Sun Aug 10 2014,18:30,-0300,Chapecoense,0-1,0-0,Figueirense SC,2014-08-10T21:30Z
+15,Sat Aug 16 2014,21:00,-0300,Corinthians SP,1-1,1-1,Bahia BA,2014-08-17T00:00Z
+15,Sat Aug 16 2014,18:30,-0300,Goiás GO,0-1,0-0,Internacional,2014-08-16T21:30Z
+15,Sun Aug 17 2014,16:00,-0300,Palmeiras,1-2,0-0,São Paulo FC,2014-08-17T19:00Z
+15,Sun Aug 17 2014,16:00,-0300,Coritiba PR,0-1,0-1,Flamengo RJ,2014-08-17T19:00Z
+15,Sun Aug 17 2014,16:00,-0300,Cruzeiro,3-0,1-0,Santos FC,2014-08-17T19:00Z
+15,Sun Aug 17 2014,16:00,-0300,Vitória BA,0-0,0-0,Chapecoense,2014-08-17T19:00Z
+15,Sun Aug 17 2014,16:00,-0300,Grêmio Porto Alegre,2-0,1-0,Criciúma SC,2014-08-17T19:00Z
+15,Sun Aug 17 2014,18:30,-0300,Botafogo RJ,2-0,0-0,Fluminense RJ,2014-08-17T21:30Z
+15,Sun Aug 17 2014,18:30,-0300,Sport Recife PE,1-1,1-1,Athletico Paranaense,2014-08-17T21:30Z
+15,Sun Aug 17 2014,18:30,-0300,Figueirense SC,2-2,1-1,Atlético Mineiro,2014-08-17T21:30Z
+16,Wed Aug 20 2014,19:30,-0300,Sport Recife PE,2-1,2-1,Palmeiras,2014-08-20T22:30Z
+16,Wed Aug 20 2014,19:30,-0300,Santos FC,2-0,1-0,Athletico Paranaense,2014-08-20T22:30Z
+16,Wed Aug 20 2014,19:30,-0300,Figueirense SC,1-0,1-0,Botafogo RJ,2014-08-20T22:30Z
+16,Wed Aug 20 2014,21:00,-0300,Coritiba PR,2-0,1-0,Vitória BA,2014-08-21T00:00Z
+16,Wed Aug 20 2014,21:00,-0300,Bahia BA,0-0,0-0,Criciúma SC,2014-08-21T00:00Z
+16,Wed Aug 20 2014,22:00,-0300,Flamengo RJ,2-1,0-1,Atlético Mineiro,2014-08-21T01:00Z
+16,Wed Aug 20 2014,22:00,-0300,Internacional,0-1,0-1,São Paulo FC,2014-08-21T01:00Z
+16,Wed Aug 20 2014,22:00,-0300,Chapecoense,1-0,0-0,Fluminense RJ,2014-08-21T01:00Z
+16,Thu Aug 21 2014,20:30,-0300,Cruzeiro,1-0,0-0,Grêmio Porto Alegre,2014-08-21T23:30Z
+16,Thu Aug 21 2014,19:30,-0300,Corinthians SP,5-2,1-1,Goiás GO,2014-08-21T22:30Z
+17,Sat Aug 23 2014,18:30,-0300,Botafogo RJ,1-0,1-0,Chapecoense,2014-08-23T21:30Z
+17,Sat Aug 23 2014,18:30,-0300,Atlético Mineiro,1-0,0-0,Internacional,2014-08-23T21:30Z
+17,Sat Aug 23 2014,21:00,-0300,Palmeiras,1-0,1-0,Coritiba PR,2014-08-24T00:00Z
+17,Sun Aug 24 2014,16:00,-0300,São Paulo FC,2-1,1-0,Santos FC,2014-08-24T19:00Z
+17,Sun Aug 24 2014,16:00,-0300,Vitória BA,0-1,0-0,Figueirense SC,2014-08-24T19:00Z
+17,Sun Aug 24 2014,16:00,-0300,Grêmio Porto Alegre,2-1,0-0,Corinthians SP,2014-08-24T19:00Z
+17,Sun Aug 24 2014,16:00,-0300,Criciúma SC,0-2,0-0,Flamengo RJ,2014-08-24T19:00Z
+17,Sun Aug 24 2014,18:30,-0300,Athletico Paranaense,0-0,0-0,Bahia BA,2014-08-24T21:30Z
+17,Sun Aug 24 2014,18:30,-0300,Goiás GO,0-1,0-1,Cruzeiro,2014-08-24T21:30Z
+17,Sun Aug 24 2014,16:00,-0300,Fluminense RJ,4-0,2-0,Sport Recife PE,2014-08-24T19:00Z
+18,Sat Aug 30 2014,18:30,-0300,Palmeiras,0-1,0-1,Internacional,2014-08-30T21:30Z
+18,Sat Aug 30 2014,18:30,-0300,Cruzeiro,4-2,0-1,Chapecoense,2014-08-30T21:30Z
+18,Sun Aug 31 2014,16:00,-0300,Sport Recife PE,2-0,0-0,Criciúma SC,2014-08-31T19:00Z
+18,Sun Aug 31 2014,16:00,-0300,Corinthians SP,1-1,0-1,Fluminense RJ,2014-08-31T19:00Z
+18,Sun Aug 31 2014,16:00,-0300,Coritiba PR,0-0,0-0,Atlético Mineiro,2014-08-31T19:00Z
+18,Sun Aug 31 2014,16:00,-0300,Figueirense SC,1-1,0-0,São Paulo FC,2014-08-31T19:00Z
+18,Sun Aug 31 2014,18:30,-0300,Vitória BA,1-2,1-1,Flamengo RJ,2014-08-31T21:30Z
+18,Sun Aug 31 2014,18:30,-0300,Grêmio Porto Alegre,1-0,0-0,Bahia BA,2014-08-31T21:30Z
+18,Sun Aug 31 2014,18:30,-0300,Goiás GO,3-1,2-0,Athletico Paranaense,2014-08-31T21:30Z
+18,Sun Aug 31 2014,16:00,-0300,Botafogo RJ,1-0,0-0,Santos FC,2014-08-31T19:00Z
+19,Sat Sep 6 2014,18:30,-0300,Flamengo RJ,0-1,0-0,Grêmio Porto Alegre,2014-09-06T21:30Z
+19,Sat Sep 6 2014,18:30,-0300,Santos FC,3-1,0-0,Vitória BA,2014-09-06T21:30Z
+19,Sat Sep 6 2014,21:00,-0300,Chapecoense,0-0,0-0,Goiás GO,2014-09-07T00:00Z
+19,Sun Sep 7 2014,16:00,-0300,São Paulo FC,2-0,2-0,Sport Recife PE,2014-09-07T19:00Z
+19,Sun Sep 7 2014,16:00,-0300,Atlético Mineiro,1-0,0-0,Botafogo RJ,2014-09-07T19:00Z
+19,Sun Sep 7 2014,16:00,-0300,Criciúma SC,0-0,0-0,Corinthians SP,2014-09-07T19:00Z
+19,Sun Sep 7 2014,18:30,-0300,Athletico Paranaense,1-1,1-0,Palmeiras,2014-09-07T21:30Z
+19,Sun Sep 7 2014,18:30,-0300,Bahia BA,0-0,0-0,Coritiba PR,2014-09-07T21:30Z
+19,Sun Sep 7 2014,18:30,-0300,Internacional,2-3,2-0,Figueirense SC,2014-09-07T21:30Z
+19,Sun Sep 7 2014,16:00,-0300,Fluminense RJ,3-3,2-2,Cruzeiro,2014-09-07T19:00Z
+20,Wed Sep 10 2014,19:30,-0300,Palmeiras,1-0,0-0,Criciúma SC,2014-09-10T22:30Z
+20,Wed Sep 10 2014,19:30,-0300,Grêmio Porto Alegre,1-0,0-0,Athletico Paranaense,2014-09-10T22:30Z
+20,Wed Sep 10 2014,19:30,-0300,Figueirense SC,1-1,1-0,Fluminense RJ,2014-09-10T22:30Z
+20,Wed Sep 10 2014,21:00,-0300,Sport Recife PE,3-1,1-1,Santos FC,2014-09-11T00:00Z
+20,Wed Sep 10 2014,21:00,-0300,Coritiba PR,3-0,2-0,Chapecoense,2014-09-11T00:00Z
+20,Wed Sep 10 2014,22:00,-0300,Botafogo RJ,2-4,2-3,São Paulo FC,2014-09-11T01:00Z
+20,Wed Sep 10 2014,22:00,-0300,Vitória BA,2-0,1-0,Internacional,2014-09-11T01:00Z
+20,Wed Sep 10 2014,22:00,-0300,Goiás GO,1-0,0-0,Flamengo RJ,2014-09-11T01:00Z
+20,Thu Sep 11 2014,20:30,-0300,Cruzeiro,2-1,0-1,Bahia BA,2014-09-11T23:30Z
+20,Thu Sep 11 2014,19:30,-0300,Corinthians SP,1-0,1-0,Atlético Mineiro,2014-09-11T22:30Z
+21,Sat Sep 13 2014,18:30,-0300,Chapecoense,3-1,1-0,Sport Recife PE,2014-09-13T21:30Z
+21,Sat Sep 13 2014,21:00,-0300,Santos FC,2-1,2-0,Coritiba PR,2014-09-14T00:00Z
+21,Sat Sep 13 2014,18:30,-0300,Fluminense RJ,3-0,2-0,Palmeiras,2014-09-13T21:30Z
+21,Sun Sep 14 2014,16:00,-0300,Flamengo RJ,1-0,0-0,Corinthians SP,2014-09-14T19:00Z
+21,Sun Sep 14 2014,16:00,-0300,São Paulo FC,2-0,1-0,Cruzeiro,2014-09-14T19:00Z
+21,Sun Sep 14 2014,16:00,-0300,Bahia BA,3-0,2-0,Figueirense SC,2014-09-14T19:00Z
+21,Sun Sep 14 2014,16:00,-0300,Internacional,2-0,1-0,Botafogo RJ,2014-09-14T19:00Z
+21,Sun Sep 14 2014,18:30,-0300,Athletico Paranaense,2-0,1-0,Vitória BA,2014-09-14T21:30Z
+21,Sun Sep 14 2014,18:30,-0300,Atlético Mineiro,0-0,0-0,Grêmio Porto Alegre,2014-09-14T21:30Z
+21,Sun Sep 14 2014,18:30,-0300,Criciúma SC,1-0,0-0,Goiás GO,2014-09-14T21:30Z
+22,Wed Sep 17 2014,19:30,-0300,Vitória BA,3-1,0-1,Fluminense RJ,2014-09-17T22:30Z
+22,Wed Sep 17 2014,21:00,-0300,Sport Recife PE,0-0,0-0,Internacional,2014-09-18T00:00Z
+22,Wed Sep 17 2014,21:00,-0300,Figueirense SC,1-1,0-1,Criciúma SC,2014-09-18T00:00Z
+22,Wed Sep 17 2014,22:00,-0300,Botafogo RJ,2-3,2-1,Bahia BA,2014-09-18T01:00Z
+22,Wed Sep 17 2014,22:00,-0300,Palmeiras,2-2,0-2,Flamengo RJ,2014-09-18T01:00Z
+22,Wed Sep 17 2014,22:00,-0300,Coritiba PR,3-1,0-1,São Paulo FC,2014-09-18T01:00Z
+22,Wed Sep 17 2014,19:30,-0300,Cruzeiro,2-0,1-0,Athletico Paranaense,2014-09-17T22:30Z
+22,Thu Sep 18 2014,19:30,-0300,Corinthians SP,1-1,1-0,Chapecoense,2014-09-18T22:30Z
+22,Thu Sep 18 2014,19:30,-0300,Goiás GO,2-3,0-3,Atlético Mineiro,2014-09-18T22:30Z
+22,Thu Sep 18 2014,20:30,-0300,Grêmio Porto Alegre,0-0,0-0,Santos FC,2014-09-18T23:30Z
+23,Sat Sep 20 2014,21:00,-0300,Criciúma SC,1-1,0-1,Botafogo RJ,2014-09-21T00:00Z
+23,Sat Sep 20 2014,18:30,-0300,Athletico Paranaense,0-1,0-0,Internacional,2014-09-20T21:30Z
+23,Sun Sep 21 2014,16:00,-0300,Flamengo RJ,1-1,1-1,Fluminense RJ,2014-09-21T19:00Z
+23,Sun Sep 21 2014,16:00,-0300,Sport Recife PE,1-0,0-0,Coritiba PR,2014-09-21T19:00Z
+23,Sun Sep 21 2014,16:00,-0300,Corinthians SP,3-2,1-2,São Paulo FC,2014-09-21T19:00Z
+23,Sun Sep 21 2014,16:00,-0300,Cruzeiro,2-3,1-2,Atlético Mineiro,2014-09-21T19:00Z
+23,Sun Sep 21 2014,16:00,-0300,Vitória BA,2-1,1-1,Bahia BA,2014-09-21T19:00Z
+23,Sun Sep 21 2014,18:30,-0300,Santos FC,3-1,1-1,Figueirense SC,2014-09-21T21:30Z
+23,Sun Sep 21 2014,18:30,-0300,Grêmio Porto Alegre,1-0,1-0,Chapecoense,2014-09-21T21:30Z
+23,Sun Sep 21 2014,18:30,-0300,Goiás GO,6-0,4-0,Palmeiras,2014-09-21T21:30Z
+24,Wed Sep 24 2014,19:30,-0300,Coritiba PR,1-2,0-2,Cruzeiro,2014-09-24T22:30Z
+24,Wed Sep 24 2014,19:30,-0300,Internacional,3-0,1-0,Criciúma SC,2014-09-24T22:30Z
+24,Wed Sep 24 2014,21:00,-0300,Bahia BA,1-0,0-0,Sport Recife PE,2014-09-25T00:00Z
+24,Wed Sep 24 2014,21:00,-0300,Chapecoense,3-0,1-0,Athletico Paranaense,2014-09-25T00:00Z
+24,Wed Sep 24 2014,22:00,-0300,Fluminense RJ,0-0,0-0,Grêmio Porto Alegre,2014-09-25T01:00Z
+24,Wed Sep 24 2014,22:00,-0300,São Paulo FC,2-2,1-1,Flamengo RJ,2014-09-25T01:00Z
+24,Wed Sep 24 2014,22:00,-0300,Figueirense SC,1-0,0-0,Corinthians SP,2014-09-25T01:00Z
+24,Thu Sep 25 2014,19:30,-0300,Palmeiras,2-0,1-0,Vitória BA,2014-09-25T22:30Z
+24,Thu Sep 25 2014,20:30,-0300,Atlético Mineiro,3-2,2-0,Santos FC,2014-09-25T23:30Z
+24,Thu Sep 25 2014,19:30,-0300,Botafogo RJ,1-0,0-0,Goiás GO,2014-09-25T22:30Z
+25,Sat Sep 27 2014,18:30,-0300,Sport Recife PE,0-0,0-0,Cruzeiro,2014-09-27T21:30Z
+25,Sat Sep 27 2014,18:30,-0300,Chapecoense,1-1,1-0,Criciúma SC,2014-09-27T21:30Z
+25,Sat Sep 27 2014,21:00,-0300,São Paulo FC,1-3,0-0,Fluminense RJ,2014-09-28T00:00Z
+25,Sun Sep 28 2014,16:00,-0300,Athletico Paranaense,1-0,1-0,Corinthians SP,2014-09-28T19:00Z
+25,Sun Sep 28 2014,16:00,-0300,Atlético Mineiro,2-0,0-0,Vitória BA,2014-09-28T19:00Z
+25,Sun Sep 28 2014,16:00,-0300,Bahia BA,2-1,1-0,Flamengo RJ,2014-09-28T19:00Z
+25,Sun Sep 28 2014,18:30,-0300,Santos FC,2-0,1-0,Goiás GO,2014-09-28T21:30Z
+25,Sun Sep 28 2014,18:30,-0300,Internacional,4-2,3-1,Coritiba PR,2014-09-28T21:30Z
+25,Sun Sep 28 2014,18:30,-0300,Figueirense SC,3-1,0-1,Palmeiras,2014-09-28T21:30Z
+25,Sun Sep 28 2014,16:00,-0300,Botafogo RJ,0-2,0-0,Grêmio Porto Alegre,2014-09-28T19:00Z
+26,Thu Oct 2 2014,19:30,-0300,Palmeiras,4-2,0-1,Chapecoense,2014-10-02T22:30Z
+26,Sat Oct 4 2014,16:20,-0300,Flamengo RJ,0-1,0-1,Santos FC,2014-10-04T19:20Z
+26,Sat Oct 4 2014,16:20,-0300,Fluminense RJ,1-1,1-0,Bahia BA,2014-10-04T19:20Z
+26,Sat Oct 4 2014,16:20,-0300,Coritiba PR,1-0,0-0,Athletico Paranaense,2014-10-04T19:20Z
+26,Sat Oct 4 2014,16:20,-0300,Vitória BA,2-1,0-0,Botafogo RJ,2014-10-04T19:20Z
+26,Sat Oct 4 2014,16:20,-0300,Grêmio Porto Alegre,0-1,0-0,São Paulo FC,2014-10-04T19:20Z
+26,Sat Oct 4 2014,18:30,-0300,Corinthians SP,3-0,1-0,Sport Recife PE,2014-10-04T21:30Z
+26,Sat Oct 4 2014,18:30,-0300,Cruzeiro,2-1,2-0,Internacional,2014-10-04T21:30Z
+26,Sat Oct 4 2014,18:30,-0300,Criciúma SC,3-1,2-1,Atlético Mineiro,2014-10-04T21:30Z
+26,Sat Oct 4 2014,21:00,-0300,Goiás GO,1-0,1-0,Figueirense SC,2014-10-05T00:00Z
+27,Wed Oct 8 2014,19:30,-0300,Botafogo RJ,0-1,0-0,Palmeiras,2014-10-08T22:30Z
+27,Wed Oct 8 2014,19:30,-0300,São Paulo FC,1-0,1-0,Athletico Paranaense,2014-10-08T22:30Z
+27,Wed Oct 8 2014,19:30,-0300,Coritiba PR,1-0,1-0,Criciúma SC,2014-10-08T22:30Z
+27,Wed Oct 8 2014,21:00,-0300,Vitória BA,2-2,2-0,Goiás GO,2014-10-09T00:00Z
+27,Wed Oct 8 2014,22:00,-0300,Cruzeiro,0-1,0-0,Corinthians SP,2014-10-09T01:00Z
+27,Wed Oct 8 2014,22:00,-0300,Grêmio Porto Alegre,2-0,1-0,Sport Recife PE,2014-10-09T01:00Z
+27,Wed Oct 8 2014,22:00,-0300,Figueirense SC,1-2,0-1,Flamengo RJ,2014-10-09T01:00Z
+27,Thu Oct 9 2014,19:30,-0300,Santos FC,1-0,1-0,Bahia BA,2014-10-09T22:30Z
+27,Thu Oct 9 2014,20:30,-0300,Chapecoense,5-0,2-0,Internacional,2014-10-09T23:30Z
+27,Thu Oct 9 2014,19:30,-0300,Fluminense RJ,0-0,0-0,Atlético Mineiro,2014-10-09T22:30Z
+28,Sat Oct 11 2014,18:30,-0300,Goiás GO,3-0,2-0,Coritiba PR,2014-10-11T21:30Z
+28,Sat Oct 11 2014,21:00,-0300,Palmeiras,2-1,0-0,Grêmio Porto Alegre,2014-10-12T00:00Z
+9,Sat Oct 11 2014,18:30,-0300,Botafogo RJ,1-0,1-0,Corinthians SP,2014-10-11T21:30Z
+28,Sun Oct 12 2014,16:00,-0300,Flamengo RJ,3-0,1-0,Cruzeiro,2014-10-12T19:00Z
+28,Sun Oct 12 2014,16:00,-0300,Atlético Mineiro,1-0,0-0,São Paulo FC,2014-10-12T19:00Z
+28,Sun Oct 12 2014,16:00,-0300,Bahia BA,0-1,0-1,Chapecoense,2014-10-12T19:00Z
+28,Sun Oct 12 2014,16:00,-0300,Internacional,2-1,0-0,Fluminense RJ,2014-10-12T19:00Z
+28,Sun Oct 12 2014,18:30,-0300,Sport Recife PE,1-2,1-2,Vitória BA,2014-10-12T21:30Z
+28,Sun Oct 12 2014,18:30,-0300,Athletico Paranaense,3-0,0-0,Figueirense SC,2014-10-12T21:30Z
+28,Sun Oct 12 2014,18:30,-0300,Criciúma SC,3-0,2-0,Santos FC,2014-10-12T21:30Z
+29,Sat Oct 18 2014,18:30,-0300,São Paulo FC,2-1,1-0,Bahia BA,2014-10-18T21:30Z
+29,Sat Oct 18 2014,18:30,-0300,Goiás GO,0-0,0-0,Grêmio Porto Alegre,2014-10-18T21:30Z
+29,Sat Oct 18 2014,21:00,-0300,Atlético Mineiro,1-0,1-0,Chapecoense,2014-10-19T00:00Z
+29,Sat Oct 18 2014,18:30,-0300,Fluminense RJ,4-2,1-1,Criciúma SC,2014-10-18T21:30Z
+29,Sun Oct 19 2014,16:00,-0200,Palmeiras,1-3,0-2,Santos FC,2014-10-19T18:00Z
+29,Sun Oct 19 2014,16:00,-0200,Athletico Paranaense,2-1,2-1,Flamengo RJ,2014-10-19T18:00Z
+29,Sun Oct 19 2014,16:00,-0200,Internacional,1-2,0-2,Corinthians SP,2014-10-19T18:00Z
+29,Sun Oct 19 2014,16:00,-0200,Figueirense SC,4-0,1-0,Coritiba PR,2014-10-19T18:00Z
+29,Sun Oct 19 2014,18:30,-0200,Botafogo RJ,1-1,0-1,Sport Recife PE,2014-10-19T20:30Z
+29,Sun Oct 19 2014,18:30,-0200,Vitória BA,0-1,0-0,Cruzeiro,2014-10-19T20:30Z
+30,Tue Oct 21 2014,21:50,-0200,Bahia BA,1-1,0-0,Atlético Mineiro,2014-10-21T23:50Z
+30,Wed Oct 22 2014,19:30,-0200,Flamengo RJ,2-0,0-0,Internacional,2014-10-22T21:30Z
+30,Wed Oct 22 2014,19:30,-0200,Corinthians SP,2-1,1-0,Vitória BA,2014-10-22T21:30Z
+30,Wed Oct 22 2014,19:30,-0200,Cruzeiro,1-1,0-0,Palmeiras,2014-10-22T21:30Z
+30,Wed Oct 22 2014,19:30,-0200,Criciúma SC,0-1,0-0,Athletico Paranaense,2014-10-22T21:30Z
+30,Wed Oct 22 2014,21:00,-0200,Coritiba PR,2-0,1-0,Botafogo RJ,2014-10-22T23:00Z
+30,Wed Oct 22 2014,21:00,-0200,Grêmio Porto Alegre,1-0,1-0,Figueirense SC,2014-10-22T23:00Z
+30,Wed Oct 22 2014,22:00,-0200,Santos FC,0-1,0-0,Fluminense RJ,2014-10-23T00:00Z
+30,Wed Oct 22 2014,22:00,-0200,Chapecoense,0-0,0-0,São Paulo FC,2014-10-23T00:00Z
+30,Wed Oct 22 2014,22:30,-0200,Sport Recife PE,0-1,0-0,Goiás GO,2014-10-23T00:30Z
+31,Sat Oct 25 2014,16:20,-0200,Fluminense RJ,2-1,0-0,Athletico Paranaense,2014-10-25T18:20Z
+31,Sat Oct 25 2014,16:20,-0200,Palmeiras,1-1,1-0,Corinthians SP,2014-10-25T18:20Z
+31,Sat Oct 25 2014,16:20,-0200,Figueirense SC,1-1,0-1,Cruzeiro,2014-10-25T18:20Z
+31,Sat Oct 25 2014,18:30,-0200,Coritiba PR,1-1,1-0,Grêmio Porto Alegre,2014-10-25T20:30Z
+31,Sat Oct 25 2014,18:30,-0200,Atlético Mineiro,3-2,1-1,Sport Recife PE,2014-10-25T20:30Z
+31,Sat Oct 25 2014,18:30,-0200,Vitória BA,3-1,0-0,Criciúma SC,2014-10-25T20:30Z
+31,Sat Oct 25 2014,18:30,-0200,Chapecoense,1-1,0-1,Santos FC,2014-10-25T20:30Z
+31,Sat Oct 25 2014,21:00,-0200,Botafogo RJ,2-1,1-0,Flamengo RJ,2014-10-25T23:00Z
+31,Sat Oct 25 2014,21:00,-0200,Internacional,2-0,2-0,Bahia BA,2014-10-25T23:00Z
+31,Mon Oct 27 2014,20:30,-0200,São Paulo FC,3-0,2-0,Goiás GO,2014-10-27T22:30Z
+32,Sat Nov 1 2014,19:30,-0200,Goiás GO,0-2,0-1,Fluminense RJ,2014-11-01T21:30Z
+32,Sat Nov 1 2014,21:00,-0200,Corinthians SP,2-2,0-2,Coritiba PR,2014-11-01T23:00Z
+32,Sat Nov 1 2014,19:30,-0200,Grêmio Porto Alegre,1-0,1-0,Vitória BA,2014-11-01T21:30Z
+32,Sun Nov 2 2014,17:00,-0200,Sport Recife PE,1-0,0-0,Figueirense SC,2014-11-02T19:00Z
+32,Sun Nov 2 2014,17:00,-0200,Santos FC,1-2,0-1,Internacional,2014-11-02T19:00Z
+32,Sun Nov 2 2014,17:00,-0200,Cruzeiro,2-1,2-0,Botafogo RJ,2014-11-02T19:00Z
+32,Sun Nov 2 2014,17:00,-0200,Criciúma SC,1-2,0-1,São Paulo FC,2014-11-02T19:00Z
+32,Sun Nov 2 2014,19:30,-0200,Flamengo RJ,3-0,0-0,Chapecoense,2014-11-02T21:30Z
+32,Sun Nov 2 2014,19:30,-0200,Athletico Paranaense,1-0,1-0,Atlético Mineiro,2014-11-02T21:30Z
+32,Sun Nov 2 2014,20:00,-0200,Bahia BA,0-1,0-1,Palmeiras,2014-11-02T22:00Z
+33,Sat Nov 8 2014,19:30,-0200,Coritiba PR,1-0,1-0,Fluminense RJ,2014-11-08T21:30Z
+33,Sat Nov 8 2014,21:00,-0200,Botafogo RJ,0-2,0-1,Athletico Paranaense,2014-11-08T23:00Z
+33,Sat Nov 8 2014,19:30,-0200,Palmeiras,0-2,0-1,Atlético Mineiro,2014-11-08T21:30Z
+33,Sun Nov 9 2014,17:00,-0200,Sport Recife PE,2-2,0-2,Flamengo RJ,2014-11-09T19:00Z
+33,Sun Nov 9 2014,17:00,-0200,Vitória BA,1-2,0-1,São Paulo FC,2014-11-09T19:00Z
+33,Sun Nov 9 2014,17:00,-0200,Grêmio Porto Alegre,4-1,1-0,Internacional,2014-11-09T19:00Z
+33,Sun Nov 9 2014,17:00,-0200,Figueirense SC,1-0,0-0,Chapecoense,2014-11-09T19:00Z
+33,Sun Nov 9 2014,19:30,-0200,Corinthians SP,1-0,1-0,Santos FC,2014-11-09T21:30Z
+33,Sun Nov 9 2014,19:30,-0200,Cruzeiro,3-1,0-1,Criciúma SC,2014-11-09T21:30Z
+33,Sun Nov 9 2014,19:30,-0200,Goiás GO,3-0,0-0,Bahia BA,2014-11-09T21:30Z
+35,Wed Nov 12 2014,22:00,-0200,São Paulo FC,1-1,0-1,Internacional,2014-11-13T00:00Z
+34,Sat Nov 15 2014,19:30,-0200,Criciúma SC,0-3,0-2,Grêmio Porto Alegre,2014-11-15T21:30Z
+34,Sat Nov 15 2014,19:30,-0200,Fluminense RJ,1-0,0-0,Botafogo RJ,2014-11-15T21:30Z
+34,Sun Nov 16 2014,17:00,-0200,Athletico Paranaense,0-1,0-0,Sport Recife PE,2014-11-16T19:00Z
+34,Sun Nov 16 2014,17:00,-0200,Bahia BA,1-2,0-1,Corinthians SP,2014-11-16T19:00Z
+34,Sun Nov 16 2014,17:00,-0200,Flamengo RJ,3-2,1-0,Coritiba PR,2014-11-16T19:00Z
+34,Sun Nov 16 2014,19:30,-0200,São Paulo FC,2-0,1-0,Palmeiras,2014-11-16T21:30Z
+34,Sun Nov 16 2014,19:30,-0200,Atlético Mineiro,1-1,0-1,Figueirense SC,2014-11-16T21:30Z
+34,Sun Nov 16 2014,19:30,-0200,Chapecoense,0-1,0-0,Vitória BA,2014-11-16T21:30Z
+34,Sun Nov 16 2014,17:00,-0200,Internacional,1-0,0-0,Goiás GO,2014-11-16T19:00Z
+34,Sun Nov 16 2014,17:00,-0200,Santos FC,0-1,0-0,Cruzeiro,2014-11-16T19:00Z
+35,Wed Nov 19 2014,19:30,-0200,Botafogo RJ,0-1,0-0,Figueirense SC,2014-11-19T21:30Z
+35,Wed Nov 19 2014,19:30,-0200,Athletico Paranaense,1-1,0-1,Santos FC,2014-11-19T21:30Z
+35,Wed Nov 19 2014,21:00,-0200,Vitória BA,1-1,1-1,Coritiba PR,2014-11-19T23:00Z
+35,Wed Nov 19 2014,21:00,-0200,Criciúma SC,0-1,0-0,Bahia BA,2014-11-19T23:00Z
+35,Wed Nov 19 2014,21:00,-0200,Goiás GO,0-1,0-1,Corinthians SP,2014-11-19T23:00Z
+35,Wed Nov 19 2014,22:00,-0200,Palmeiras,0-2,0-0,Sport Recife PE,2014-11-20T00:00Z
+35,Wed Nov 19 2014,22:00,-0200,Atlético Mineiro,4-0,2-0,Flamengo RJ,2014-11-20T00:00Z
+35,Thu Nov 20 2014,21:50,-0200,Grêmio Porto Alegre,1-2,1-0,Cruzeiro,2014-11-20T23:50Z
+35,Thu Nov 20 2014,19:30,-0200,Fluminense RJ,1-4,0-0,Chapecoense,2014-11-20T21:30Z
+36,Sat Nov 22 2014,19:30,-0200,Internacional,2-1,1-1,Atlético Mineiro,2014-11-22T21:30Z
+36,Sat Nov 22 2014,21:00,-0200,Bahia BA,1-2,0-0,Athletico Paranaense,2014-11-22T23:00Z
+36,Sun Nov 23 2014,17:00,-0200,Sport Recife PE,2-2,2-1,Fluminense RJ,2014-11-23T19:00Z
+36,Sun Nov 23 2014,17:00,-0200,Santos FC,0-1,0-0,São Paulo FC,2014-11-23T19:00Z
+36,Sun Nov 23 2014,17:00,-0200,Cruzeiro,2-1,1-1,Goiás GO,2014-11-23T19:00Z
+36,Sun Nov 23 2014,17:00,-0200,Figueirense SC,2-0,1-0,Vitória BA,2014-11-23T19:00Z
+36,Sun Nov 23 2014,19:30,-0200,Corinthians SP,1-0,0-0,Grêmio Porto Alegre,2014-11-23T21:30Z
+36,Sun Nov 23 2014,19:30,-0200,Coritiba PR,2-0,0-0,Palmeiras,2014-11-23T21:30Z
+36,Sun Nov 23 2014,19:30,-0200,Chapecoense,2-0,0-0,Botafogo RJ,2014-11-23T21:30Z
+36,Sun Nov 23 2014,17:00,-0200,Flamengo RJ,1-1,1-0,Criciúma SC,2014-11-23T19:00Z
+37,Sat Nov 29 2014,19:30,-0200,Internacional,3-1,1-1,Palmeiras,2014-11-29T21:30Z
+37,Sat Nov 29 2014,19:30,-0200,Criciúma SC,2-2,0-1,Sport Recife PE,2014-11-29T21:30Z
+37,Sat Nov 29 2014,21:00,-0200,Flamengo RJ,4-0,1-0,Vitória BA,2014-11-29T23:00Z
+37,Sun Nov 30 2014,17:00,-0200,São Paulo FC,1-1,0-0,Figueirense SC,2014-11-30T19:00Z
+37,Sun Nov 30 2014,17:00,-0200,Santos FC,2-0,0-0,Botafogo RJ,2014-11-30T19:00Z
+37,Sun Nov 30 2014,17:00,-0200,Chapecoense,1-1,1-0,Cruzeiro,2014-11-30T19:00Z
+37,Sun Nov 30 2014,19:30,-0200,Athletico Paranaense,1-0,0-0,Goiás GO,2014-11-30T21:30Z
+37,Sun Nov 30 2014,19:30,-0200,Bahia BA,1-0,1-0,Grêmio Porto Alegre,2014-11-30T21:30Z
+37,Sun Nov 30 2014,19:30,-0200,Atlético Mineiro,1-2,0-1,Coritiba PR,2014-11-30T21:30Z
+37,Sun Nov 30 2014,17:00,-0200,Fluminense RJ,5-2,1-1,Corinthians SP,2014-11-30T19:00Z
+38,Sat Dec 6 2014,16:30,-0200,Corinthians SP,2-1,1-0,Criciúma SC,2014-12-06T18:30Z
+38,Sat Dec 6 2014,16:30,-0200,Figueirense SC,1-2,0-0,Internacional,2014-12-06T18:30Z
+38,Sun Dec 7 2014,17:00,-0200,Sport Recife PE,1-0,1-0,São Paulo FC,2014-12-07T19:00Z
+38,Sun Dec 7 2014,17:00,-0200,Palmeiras,1-1,1-1,Athletico Paranaense,2014-12-07T19:00Z
+38,Sun Dec 7 2014,17:00,-0200,Coritiba PR,3-2,1-2,Bahia BA,2014-12-07T19:00Z
+38,Sun Dec 7 2014,17:00,-0200,Cruzeiro,2-1,1-1,Fluminense RJ,2014-12-07T19:00Z
+38,Sun Dec 7 2014,17:00,-0200,Vitória BA,0-1,0-0,Santos FC,2014-12-07T19:00Z
+38,Sun Dec 7 2014,17:00,-0200,Grêmio Porto Alegre,1-1,0-1,Flamengo RJ,2014-12-07T19:00Z
+38,Sun Dec 7 2014,17:00,-0200,Goiás GO,4-2,2-1,Chapecoense,2014-12-07T19:00Z
+38,Sun Dec 7 2014,17:00,-0200,Botafogo RJ,0-0,0-0,Atlético Mineiro,2014-12-07T19:00Z

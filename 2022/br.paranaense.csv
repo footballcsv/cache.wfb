@@ -1,0 +1,81 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,Comments,UTC
+,1,Sat Jan 22 2022,19:00,-0300,Cascavel FC PR,3-0 (*),,Rio Branco PR,,,awd.,2022-01-22T22:00Z
+,1,Sat Jan 22 2022,16:00,-0300,Coritiba PR,1-0,0-0,Cianorte PR,,,,2022-01-22T19:00Z
+,1,Sun Jan 23 2022,16:00,-0300,Londrina PR,2-1,0-0,Maringá PR,,,,2022-01-23T19:00Z
+,1,Sun Jan 23 2022,16:00,-0300,Athletico Paranaense,1-0,0-0,Paraná Clube,,,,2022-01-23T19:00Z
+,1,Sun Jan 23 2022,19:00,-0300,Operário Ferroviário PR,1-0,0-0,CEU PR,,,,2022-01-23T22:00Z
+,1,Sun Jan 23 2022,11:00,-0300,Independente PR,0-0,0-0,Azuriz PR,,,,2022-01-23T14:00Z
+,2,Wed Jan 26 2022,19:00,-0300,Cascavel FC PR,2-1,0-0,CEU PR,,,,2022-01-26T22:00Z
+,2,Wed Jan 26 2022,19:00,-0300,Paraná Clube,2-1,1-0,Azuriz PR,,,,2022-01-26T22:00Z
+,2,Wed Jan 26 2022,21:30,-0300,Maringá PR,0-0,0-0,Athletico Paranaense,,,,2022-01-27T00:30Z
+,2,Wed Jan 26 2022,21:30,-0300,Londrina PR,1-0,0-0,Independente PR,,,,2022-01-27T00:30Z
+,2,Thu Jan 27 2022,21:30,-0300,Operário Ferroviário PR,2-1,1-0,Coritiba PR,,,,2022-01-28T00:30Z
+,2,Thu Jan 27 2022,19:00,-0300,Cianorte PR,2-1,2-0,Rio Branco PR,,,,2022-01-27T22:00Z
+,3,Sat Jan 29 2022,20:00,-0300,Azuriz PR,0-1,0-0,Londrina PR,,,,2022-01-29T23:00Z
+,3,Sat Jan 29 2022,20:00,-0300,Athletico Paranaense,0-0,0-0,Independente PR,,,,2022-01-29T23:00Z
+,3,Sat Jan 29 2022,19:00,-0300,Maringá PR,1-0,1-0,Paraná Clube,,,,2022-01-29T22:00Z
+,3,Sun Jan 30 2022,20:00,-0300,CEU PR,1-2,1-1,Coritiba PR,,,,2022-01-30T23:00Z
+,3,Sun Jan 30 2022,20:00,-0300,Rio Branco PR,2-1,0-0,Operário Ferroviário PR,,,,2022-01-30T23:00Z
+,3,Sun Jan 30 2022,19:00,-0300,Cianorte PR,0-0,0-0,Cascavel FC PR,,,,2022-01-30T22:00Z
+,4,Wed Feb 2 2022,15:30,-0300,Independente PR,1-0,1-0,Paraná Clube,,,,2022-02-02T18:30Z
+,4,Wed Feb 2 2022,19:00,-0300,Operário Ferroviário PR,4-0,0-0,Cascavel FC PR,,,,2022-02-02T22:00Z
+,4,Wed Feb 2 2022,19:30,-0300,Coritiba PR,2-0,2-0,Rio Branco PR,,,,2022-02-02T22:30Z
+,4,Thu Feb 3 2022,19:00,-0300,CEU PR,0-1,0-0,Cianorte PR,,,,2022-02-03T22:00Z
+,4,Thu Feb 3 2022,21:30,-0300,Londrina PR,1-1,0-0,Athletico Paranaense,,,,2022-02-04T00:30Z
+,4,Thu Feb 3 2022,18:30,-0300,Azuriz PR,3-0,2-0,Maringá PR,,,,2022-02-03T21:30Z
+,5,Sat Feb 5 2022,19:00,-0300,Paraná Clube,0-3,0-2,Operário Ferroviário PR,,,,2022-02-05T22:00Z
+,5,Sat Feb 5 2022,16:00,-0300,Independente PR,1-1,0-0,Coritiba PR,,,,2022-02-05T19:00Z
+,5,Sun Feb 6 2022,16:00,-0300,Cianorte PR,2-0,0-0,Azuriz PR,,,,2022-02-06T19:00Z
+,5,Sun Feb 6 2022,16:00,-0300,Rio Branco PR,0-3,0-1,Maringá PR,,,,2022-02-06T19:00Z
+,5,Sun Feb 6 2022,19:00,-0300,Athletico Paranaense,2-2,2-0,CEU PR,,,,2022-02-06T22:00Z
+,5,Sun Feb 6 2022,19:00,-0300,Cascavel FC PR,2-0,0-0,Londrina PR,,,,2022-02-06T22:00Z
+,6,Wed Feb 9 2022,19:00,-0300,Maringá PR,1-0,1-0,Cianorte PR,,,,2022-02-09T22:00Z
+,6,Wed Feb 9 2022,21:30,-0300,Cascavel FC PR,2-1,1-0,Paraná Clube,,,,2022-02-10T00:30Z
+,6,Wed Feb 9 2022,19:00,-0300,Londrina PR,1-3,1-3,Coritiba PR,,,,2022-02-09T22:00Z
+,6,Thu Feb 10 2022,19:00,-0300,Operário Ferroviário PR,1-1,0-0,Independente PR,,,,2022-02-10T22:00Z
+,6,Thu Feb 10 2022,21:30,-0300,Athletico Paranaense,2-0,2-0,Rio Branco PR,,,,2022-02-11T00:30Z
+,6,Thu Feb 10 2022,18:30,-0300,Azuriz PR,2-1,1-1,CEU PR,,,,2022-02-10T21:30Z
+,7,Sat Feb 12 2022,19:00,-0300,Paraná Clube,0-0,0-0,Londrina PR,,,,2022-02-12T22:00Z
+,7,Sun Feb 13 2022,15:30,-0300,Independente PR,2-0,2-0,Maringá PR,,,,2022-02-13T18:30Z
+,7,Sun Feb 13 2022,16:00,-0300,Cianorte PR,1-1,0-1,Operário Ferroviário PR,,,,2022-02-13T19:00Z
+,7,Sun Feb 13 2022,18:30,-0300,Coritiba PR,0-0,0-0,Cascavel FC PR,,,,2022-02-13T21:30Z
+,7,Sun Feb 13 2022,19:00,-0300,CEU PR,3-2,0-1,Rio Branco PR,,,,2022-02-13T22:00Z
+,7,Sun Feb 13 2022,20:00,-0300,Azuriz PR,0-2,0-2,Athletico Paranaense,,,,2022-02-13T23:00Z
+,8,Wed Feb 16 2022,19:00,-0300,Cianorte PR,3-0,1-0,Paraná Clube,,,,2022-02-16T22:00Z
+,8,Wed Feb 16 2022,20:30,-0300,Maringá PR,2-0,0-0,Operário Ferroviário PR,,,,2022-02-16T23:30Z
+,8,Wed Feb 16 2022,20:30,-0300,Coritiba PR,0-0,0-0,Athletico Paranaense,,,,2022-02-16T23:30Z
+,8,Wed Feb 16 2022,21:30,-0300,Cascavel FC PR,2-1,1-1,Independente PR,,,,2022-02-17T00:30Z
+,8,Wed Feb 16 2022,18:00,-0300,Rio Branco PR,2-0,2-0,Azuriz PR,,,,2022-02-16T21:00Z
+,8,Thu Feb 17 2022,20:00,-0300,Londrina PR,4-2,3-1,CEU PR,,,,2022-02-17T23:00Z
+,9,Sat Feb 19 2022,19:00,-0300,Azuriz PR,0-0,0-0,Cascavel FC PR,,,,2022-02-19T22:00Z
+,9,Sat Feb 19 2022,19:00,-0300,Athletico Paranaense,5-1,2-1,Cianorte PR,,,,2022-02-19T22:00Z
+,9,Sun Feb 20 2022,15:30,-0300,Independente PR,2-1,1-1,Rio Branco PR,,,,2022-02-20T18:30Z
+,9,Sun Feb 20 2022,16:00,-0300,Paraná Clube,1-2,1-0,Coritiba PR,,,,2022-02-20T19:00Z
+,9,Sun Feb 20 2022,19:00,-0300,CEU PR,0-2,0-1,Maringá PR,,,,2022-02-20T22:00Z
+,9,Sun Feb 20 2022,19:00,-0300,Operário Ferroviário PR,1-1,0-1,Londrina PR,,,,2022-02-20T22:00Z
+,10,Sat Feb 26 2022,16:00,-0300,Rio Branco PR,2-1,2-0,Londrina PR,,,,2022-02-26T19:00Z
+,10,Sat Feb 26 2022,19:00,-0300,Maringá PR,1-0,1-0,Cascavel FC PR,,,,2022-02-26T22:00Z
+,10,Sat Feb 26 2022,16:00,-0300,Paraná Clube,1-3,0-1,CEU PR,,,,2022-02-26T19:00Z
+,10,Sun Feb 27 2022,16:00,-0300,Cianorte PR,2-0,0-0,Independente PR,,,,2022-02-27T19:00Z
+,10,Sun Feb 27 2022,16:00,-0300,Athletico Paranaense,1-2,0-2,Operário Ferroviário PR,,,,2022-02-27T19:00Z
+,10,Tue Mar 1 2022,19:00,-0300,Azuriz PR,1-0,1-0,Coritiba PR,,,,2022-03-01T22:00Z
+,11,Sun Mar 6 2022,16:00,-0300,Cascavel FC PR,3-4,1-4,Athletico Paranaense,,,,2022-03-06T19:00Z
+,11,Sun Mar 6 2022,16:00,-0300,Operário Ferroviário PR,3-0,3-0,Azuriz PR,,,,2022-03-06T19:00Z
+,11,Sun Mar 6 2022,16:00,-0300,Coritiba PR,3-1,2-1,Maringá PR,,,,2022-03-06T19:00Z
+,11,Sun Mar 6 2022,16:00,-0300,Rio Branco PR,4-0,2-0,Paraná Clube,,,,2022-03-06T19:00Z
+,11,Sun Mar 6 2022,16:00,-0300,CEU PR,0-2,0-1,Independente PR,,,,2022-03-06T19:00Z
+,11,Sun Mar 6 2022,16:00,-0300,Londrina PR,1-0,0-0,Cianorte PR,,,,2022-03-06T19:00Z
+Playoffs,Quarterfinals,Sat Mar 12 2022,18:30,-0300,Cascavel FC PR,0-1,0-0,Maringá PR,,,,2022-03-12T21:30Z
+Playoffs,Quarterfinals,Sun Mar 13 2022,15:30,-0300,Independente PR,2-1,2-0,Operário Ferroviário PR,,,,2022-03-13T18:30Z
+Playoffs,Quarterfinals,Sun Mar 13 2022,18:30,-0300,Cianorte PR,0-1,0-1,Coritiba PR,,,,2022-03-13T21:30Z
+Playoffs,Quarterfinals,Sun Mar 13 2022,11:00,-0300,Londrina PR,1-0,1-0,Athletico Paranaense,,,,2022-03-13T14:00Z
+Playoffs,Quarterfinals,Sat Mar 19 2022,18:30,-0300,Operário Ferroviário PR,2-0,1-0,Independente PR,,,,2022-03-19T21:30Z
+Playoffs,Quarterfinals,Sat Mar 19 2022,16:00,-0300,Coritiba PR,3-0,1-0,Cianorte PR,,,,2022-03-19T19:00Z
+Playoffs,Quarterfinals,Sun Mar 20 2022,16:00,-0300,Athletico Paranaense,2-1,1-0,Londrina PR,2-1,4-2,,2022-03-20T19:00Z
+Playoffs,Quarterfinals,Sun Mar 20 2022,18:30,-0300,Maringá PR,5-0,3-0,Cascavel FC PR,,,,2022-03-20T21:30Z
+Playoffs,Semifinals,Wed Mar 23 2022,20:00,-0300,Athletico Paranaense,1-2,1-2,Coritiba PR,,,,2022-03-23T23:00Z
+Playoffs,Semifinals,Thu Mar 24 2022,20:00,-0300,Operário Ferroviário PR,1-1,0-0,Maringá PR,,,,2022-03-24T23:00Z
+Playoffs,Semifinals,Sun Mar 27 2022,18:00,-0300,Maringá PR,5-3,0-0,Operário Ferroviário PR,,,,2022-03-27T21:00Z
+Playoffs,Semifinals,Sun Mar 27 2022,16:00,-0300,Coritiba PR,1-1,1-0,Athletico Paranaense,,,,2022-03-27T19:00Z
+Playoffs,Final,Wed Mar 30 2022,20:00,-0300,Maringá PR,1-2,1-0,Coritiba PR,,,,2022-03-30T23:00Z
+Playoffs,Final,Sun Apr 3 2022,16:00,-0300,Coritiba PR,4-2,0-1,Maringá PR,,,,2022-04-03T19:00Z

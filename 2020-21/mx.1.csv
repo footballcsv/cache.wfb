@@ -1,154 +1,343 @@
-Stage,Round,Date,Time,Team 1,FT,HT,Team 2
-Apertura,1,Fri Jul 24 2020,19:30,Club Necaxa,0-3,0-2,UANL Tigres
-Apertura,1,Sat Jul 25 2020,21:00,Club Tijuana,3-1,1-1,Atlas Guadalajara
-Apertura,1,Sat Jul 25 2020,21:00,Cruz Azul,2-0,1-0,Santos Laguna
-Apertura,1,Sat Jul 25 2020,19:00,Deportivo Guadalajara,0-0,0-0,Club León
-Apertura,1,Sun Jul 26 2020,12:00,Pumas UNAM,3-2,1-0,Gallos Blancos
-Apertura,1,Mon Jul 27 2020,20:00,CF Pachuca,1-2,0-0,CF América
-Apertura,1,Mon Jul 27 2020,22:00,Mazatlán FC,1-4,1-1,Puebla FC
-Apertura,1,Mon Jul 27 2020,18:00,Atlético San Luis,1-1,1-0,FC Juárez
-Apertura,1,Tue Jul 28 2020,19:00,CF Monterrey,3-1,2-0,Deportivo Toluca
-Apertura,2,Fri Jul 31 2020,19:30,Puebla FC,1-1,0-0,Cruz Azul
-Apertura,2,Fri Jul 31 2020,21:30,FC Juárez,1-0,0-0,Club Necaxa
-Apertura,2,Sat Aug 1 2020,21:00,CF América,4-0,1-0,Club Tijuana
-Apertura,2,Sat Aug 1 2020,19:00,UANL Tigres,1-1,0-0,CF Pachuca
-Apertura,2,Sun Aug 2 2020,17:00,Gallos Blancos,1-1,0-0,Mazatlán FC
-Apertura,2,Sun Aug 2 2020,19:00,Santos Laguna,2-0,1-0,Deportivo Guadalajara
-Apertura,2,Sun Aug 2 2020,12:00,Deportivo Toluca,3-2,2-1,Atlético San Luis
-Apertura,2,Mon Aug 3 2020,21:00,Club León,1-0,0-0,CF Monterrey
-Apertura,2,Mon Aug 3 2020,19:00,Atlas Guadalajara,1-2,0-1,Pumas UNAM
-Apertura,3,Thu Aug 6 2020,19:00,CF Pachuca,1-0,1-0,Gallos Blancos
-Apertura,3,Thu Aug 6 2020,21:06,Club Tijuana,0-0,0-0,UANL Tigres
-Apertura,3,Fri Aug 7 2020,21:30,Mazatlán FC,2-1,2-1,Deportivo Toluca
-Apertura,3,Fri Aug 7 2020,19:30,Club Necaxa,1-1,0-1,CF América
-Apertura,3,Sat Aug 8 2020,19:06,CF Monterrey,2-2,1-1,Santos Laguna
-Apertura,3,Sat Aug 8 2020,21:00,Deportivo Guadalajara,0-1,0-0,Puebla FC
-Apertura,3,Sat Aug 8 2020,19:00,Cruz Azul,2-0,1-0,Club León
-Apertura,3,Sun Aug 9 2020,19:00,Atlético San Luis,1-1,1-1,Atlas Guadalajara
-Apertura,3,Sun Aug 9 2020,12:00,Pumas UNAM,1-1,0-0,FC Juárez
-Apertura,4,Tue Aug 11 2020,17:00,Club Necaxa,1-0,1-0,Mazatlán FC
-Apertura,4,Tue Aug 11 2020,19:00,CF Pachuca,0-1,0-0,Club León
-Apertura,4,Tue Aug 11 2020,21:00,UANL Tigres,2-1,2-0,Puebla FC
-Apertura,4,Wed Aug 12 2020,19:00,FC Juárez,0-2,0-0,Deportivo Guadalajara
-Apertura,4,Wed Aug 12 2020,21:00,Pumas UNAM,1-1,1-0,CF Monterrey
-Apertura,4,Wed Aug 12 2020,21:06,Club Tijuana,0-2,0-1,Atlético San Luis
-Apertura,4,Wed Aug 12 2020,17:00,Gallos Blancos,1-0,1-0,Cruz Azul
-Apertura,4,Thu Aug 13 2020,21:00,CF América,3-1,3-0,Santos Laguna
-Apertura,4,Thu Aug 13 2020,19:00,Atlas Guadalajara,1-2,1-1,Deportivo Toluca
-Apertura,5,Fri Aug 14 2020,21:30,Puebla FC,0-1,0-0,CF Pachuca
-Apertura,5,Sat Aug 15 2020,19:00,Cruz Azul,3-2,1-1,FC Juárez
-Apertura,5,Sat Aug 15 2020,21:00,Mazatlán FC,0-0,0-0,Pumas UNAM
-Apertura,5,Sat Aug 15 2020,21:06,CF Monterrey,1-1,0-0,Club Necaxa
-Apertura,5,Sat Aug 15 2020,17:00,Deportivo Guadalajara,2-1,0-0,Atlético San Luis
-Apertura,5,Sun Aug 16 2020,19:06,Santos Laguna,0-0,0-0,Atlas Guadalajara
-Apertura,5,Sun Aug 16 2020,21:00,Gallos Blancos,4-1,1-0,CF América
-Apertura,5,Sun Aug 16 2020,12:00,Deportivo Toluca,3-2,1-1,UANL Tigres
-Apertura,5,Mon Aug 17 2020,21:00,Club León,2-1,0-1,Club Tijuana
-Apertura,6,Fri Aug 21 2020,19:30,Club Necaxa,2-1,0-1,Santos Laguna
-Apertura,6,Fri Aug 21 2020,21:30,FC Juárez,0-0,0-0,Club León
-Apertura,6,Sat Aug 22 2020,19:00,UANL Tigres,1-1,0-0,Pumas UNAM
-Apertura,6,Sat Aug 22 2020,21:00,CF América,1-3,0-2,CF Monterrey
-Apertura,6,Sat Aug 22 2020,17:00,Atlas Guadalajara,1-0,1-0,Gallos Blancos
-Apertura,6,Sun Aug 23 2020,19:35,Atlético San Luis,1-3,1-2,Cruz Azul
-Apertura,6,Sun Aug 23 2020,21:06,Club Tijuana,1-0,1-0,Puebla FC
-Apertura,6,Sun Aug 23 2020,17:30,Deportivo Toluca,1-0,0-0,Deportivo Guadalajara
-Apertura,6,Mon Aug 24 2020,21:05,CF Pachuca,4-3,2-1,Mazatlán FC
-Apertura,7,Fri Aug 28 2020,19:30,Puebla FC,4-1,2-1,Deportivo Toluca
-Apertura,7,Fri Aug 28 2020,21:30,Mazatlán FC,1-1,0-0,UANL Tigres
-Apertura,7,Sat Aug 29 2020,19:00,Deportivo Guadalajara,0-0,0-0,CF Pachuca
-Apertura,7,Sat Aug 29 2020,21:00,Cruz Azul,3-0,1-0,Club Necaxa
-Apertura,7,Sat Aug 29 2020,19:00,Atlético San Luis,1-2,1-1,CF América
-Apertura,7,Sun Aug 30 2020,19:06,Santos Laguna,2-1,1-1,Gallos Blancos
-Apertura,7,Sun Aug 30 2020,21:06,CF Monterrey,2-1,0-1,FC Juárez
-Apertura,7,Sun Aug 30 2020,12:00,Pumas UNAM,3-0,1-0,Club Tijuana
-Apertura,7,Mon Aug 31 2020,21:05,Club León,2-1,2-1,Atlas Guadalajara
-Apertura,8,Wed Sep 2 2020,20:00,CF América,3-1,0-0,Mazatlán FC
-Apertura,8,Thu Sep 3 2020,19:00,Gallos Blancos,4-1,2-0,Deportivo Toluca
-Apertura,8,Thu Sep 3 2020,21:00,CF Pachuca,3-1,2-0,Atlético San Luis
-Apertura,8,Fri Sep 4 2020,21:06,Club Tijuana,2-1,1-1,CF Monterrey
-Apertura,8,Fri Sep 4 2020,21:30,FC Juárez,1-1,0-0,Santos Laguna
-Apertura,8,Fri Sep 4 2020,19:30,Club Necaxa,0-2,0-1,Club León
-Apertura,8,Sat Sep 5 2020,19:00,Atlas Guadalajara,1-0,0-0,Cruz Azul
-Apertura,8,Sat Sep 5 2020,21:00,UANL Tigres,1-3,0-1,Deportivo Guadalajara
-Apertura,8,Sat Sep 5 2020,17:00,Pumas UNAM,4-1,2-1,Puebla FC
-Apertura,9,Tue Sep 8 2020,17:00,Atlético San Luis,2-1,0-1,Club Necaxa
-Apertura,9,Tue Sep 8 2020,19:00,Deportivo Toluca,0-1,0-0,FC Juárez
-Apertura,9,Tue Sep 8 2020,19:06,CF Monterrey,1-1,0-0,Atlas Guadalajara
-Apertura,9,Tue Sep 8 2020,21:00,Deportivo Guadalajara,1-1,1-0,Gallos Blancos
-Apertura,9,Tue Sep 8 2020,21:00,Puebla FC,2-3,2-0,CF América
-Apertura,9,Wed Sep 9 2020,19:00,Cruz Azul,1-0,0-0,CF Pachuca
-Apertura,9,Wed Sep 9 2020,21:00,Mazatlán FC,1-0,1-0,Club Tijuana
-Apertura,9,Wed Sep 9 2020,21:06,Santos Laguna,1-2,0-1,Pumas UNAM
-Apertura,9,Wed Sep 9 2020,17:00,Club León,1-1,1-0,UANL Tigres
-Apertura,10,Fri Sep 11 2020,19:30,Club Necaxa,1-2,0-0,Deportivo Guadalajara
-Apertura,10,Fri Sep 11 2020,21:30,FC Juárez,1-0,1-0,Puebla FC
-Apertura,10,Sat Sep 12 2020,19:00,UANL Tigres,2-0,1-0,Santos Laguna
-Apertura,10,Sat Sep 12 2020,21:00,CF América,1-1,1-1,Deportivo Toluca
-Apertura,10,Sat Sep 12 2020,17:00,Atlas Guadalajara,1-1,0-0,Mazatlán FC
-Apertura,10,Sun Sep 13 2020,12:00,Pumas UNAM,3-0,1-0,Atlético San Luis
-Apertura,10,Sun Sep 13 2020,19:00,Gallos Blancos,2-3,0-1,Club León
-Apertura,10,Sun Sep 13 2020,21:06,Club Tijuana,1-2,1-0,Cruz Azul
-Apertura,10,Mon Sep 14 2020,21:00,CF Pachuca,1-1,0-1,CF Monterrey
-Apertura,11,Fri Sep 18 2020,21:30,Mazatlán FC,2-3,1-1,Cruz Azul
-Apertura,11,Fri Sep 18 2020,19:30,Club Necaxa,0-1,0-1,Puebla FC
-Apertura,11,Sat Sep 19 2020,19:00,UANL Tigres,3-0,0-0,Gallos Blancos
-Apertura,11,Sat Sep 19 2020,21:00,CF América,1-0,1-0,Deportivo Guadalajara
-Apertura,11,Sat Sep 19 2020,17:00,Atlas Guadalajara,0-1,0-0,CF Pachuca
-Apertura,11,Sun Sep 20 2020,12:00,Deportivo Toluca,1-2,0-1,Santos Laguna
-Apertura,11,Sun Sep 20 2020,19:00,Atlético San Luis,1-2,1-2,CF Monterrey
-Apertura,11,Mon Sep 21 2020,21:00,Club León,2-0,1-0,Pumas UNAM
-Apertura,12,Thu Sep 24 2020,21:00,CF Pachuca,0-0,0-0,Deportivo Toluca
-Apertura,12,Fri Sep 25 2020,19:30,Puebla FC,3-3,1-2,Gallos Blancos
-Apertura,12,Fri Sep 25 2020,21:30,FC Juárez,0-1,0-1,Atlas Guadalajara
-Apertura,12,Sat Sep 26 2020,17:00,Deportivo Guadalajara,2-1,2-1,Mazatlán FC
-Apertura,12,Sat Sep 26 2020,19:00,Pumas UNAM,1-1,0-1,Club Necaxa
-Apertura,12,Sat Sep 26 2020,21:06,CF Monterrey,0-2,0-1,UANL Tigres
-Apertura,12,Sun Sep 27 2020,20:45,Cruz Azul,0-0,0-0,CF América
-Apertura,12,Sun Sep 27 2020,17:00,Atlético San Luis,0-2,0-1,Club León
-Apertura,11,Wed Sep 30 2020,19:06,Club Tijuana,2-1,1-1,FC Juárez
-Apertura,13,Fri Oct 2 2020,19:30,Puebla FC,0-2,0-2,Santos Laguna
-Apertura,13,Fri Oct 2 2020,21:30,Club León,2-1,0-0,Mazatlán FC
-Apertura,13,Sat Oct 3 2020,17:00,Atlas Guadalajara,0-1,0-0,Club Necaxa
-Apertura,13,Sat Oct 3 2020,19:00,UANL Tigres,3-0,0-0,Atlético San Luis
-Apertura,13,Sat Oct 3 2020,21:00,CF América,2-2,1-1,Pumas UNAM
-Apertura,13,Sun Oct 4 2020,21:06,Club Tijuana,0-0,0-0,Deportivo Guadalajara
-Apertura,13,Sun Oct 4 2020,12:00,Deportivo Toluca,2-0,1-0,Cruz Azul
-Apertura,13,Sun Oct 4 2020,17:00,FC Juárez,1-1,0-1,CF Pachuca
-Apertura,13,Sun Oct 4 2020,19:00,Gallos Blancos,1-2,0-0,CF Monterrey
-Apertura,12,Sun Oct 11 2020,19:06,Santos Laguna,2-0,2-0,Club Tijuana
-Apertura,14,Thu Oct 15 2020,21:00,Atlético San Luis,2-1,1-0,Gallos Blancos
-Apertura,14,Fri Oct 16 2020,21:30,Mazatlán FC,3-2,3-1,FC Juárez
-Apertura,14,Fri Oct 16 2020,19:30,Club Necaxa,2-0,1-0,Club Tijuana
-Apertura,14,Sat Oct 17 2020,17:06,CF Monterrey,3-1,2-0,Puebla FC
-Apertura,14,Sat Oct 17 2020,19:00,Deportivo Guadalajara,3-2,2-0,Atlas Guadalajara
-Apertura,14,Sat Oct 17 2020,21:00,Cruz Azul,0-2,0-0,UANL Tigres
-Apertura,14,Sun Oct 18 2020,19:06,Santos Laguna,1-1,1-1,CF Pachuca
-Apertura,14,Sun Oct 18 2020,12:00,Pumas UNAM,1-0,0-0,Deportivo Toluca
-Apertura,14,Mon Oct 19 2020,21:00,Club León,3-2,2-2,CF América
-Apertura,15,Fri Oct 23 2020,19:30,Puebla FC,1-2,0-0,Club León
-Apertura,15,Sat Oct 24 2020,19:00,UANL Tigres,1-1,0-0,FC Juárez
-Apertura,15,Sat Oct 24 2020,20:00,Mazatlán FC,1-2,0-2,CF Monterrey
-Apertura,15,Sat Oct 24 2020,20:00,CF América,1-0,0-0,Atlas Guadalajara
-Apertura,15,Sat Oct 24 2020,17:00,Gallos Blancos,0-1,0-1,Club Necaxa
-Apertura,15,Sun Oct 25 2020,17:30,Deportivo Guadalajara,0-2,0-1,Cruz Azul
-Apertura,15,Sun Oct 25 2020,19:06,Santos Laguna,2-1,1-1,Atlético San Luis
-Apertura,15,Sun Oct 25 2020,12:00,Deportivo Toluca,2-0,2-0,Club Tijuana
-Apertura,15,Mon Oct 26 2020,21:00,CF Pachuca,1-1,1-1,Pumas UNAM
-Apertura,16,Thu Oct 29 2020,21:00,Atlético San Luis,0-5,0-5,Mazatlán FC
-Apertura,16,Fri Oct 30 2020,21:06,Club Tijuana,0-2,0-1,CF Pachuca
-Apertura,16,Fri Oct 30 2020,21:30,FC Juárez,1-0,0-0,Gallos Blancos
-Apertura,16,Fri Oct 30 2020,19:30,Club Necaxa,3-2,1-1,Deportivo Toluca
-Apertura,16,Sat Oct 31 2020,17:00,Atlas Guadalajara,0-1,0-1,Puebla FC
-Apertura,16,Sat Oct 31 2020,19:00,Pumas UNAM,2-2,1-2,Deportivo Guadalajara
-Apertura,16,Sat Oct 31 2020,21:06,CF Monterrey,1-0,0-0,Cruz Azul
-Apertura,16,Sun Nov 1 2020,17:30,CF América,3-1,1-0,UANL Tigres
-Apertura,16,Mon Nov 2 2020,21:00,Club León,2-1,0-1,Santos Laguna
-Apertura,17,Fri Nov 6 2020,19:30,Puebla FC,1-0,1-0,Atlético San Luis
-Apertura,17,Fri Nov 6 2020,21:30,FC Juárez,1-1,1-0,CF América
-Apertura,17,Sat Nov 7 2020,17:00,CF Pachuca,0-1,0-0,Club Necaxa
-Apertura,17,Sat Nov 7 2020,19:00,UANL Tigres,1-1,1-0,Atlas Guadalajara
-Apertura,17,Sat Nov 7 2020,21:00,Cruz Azul,1-2,0-0,Pumas UNAM
-Apertura,17,Sat Nov 7 2020,17:00,Deportivo Guadalajara,3-1,0-1,CF Monterrey
-Apertura,17,Sun Nov 8 2020,19:06,Santos Laguna,4-0,0-0,Mazatlán FC
-Apertura,17,Sun Nov 8 2020,21:06,Gallos Blancos,2-2,1-0,Club Tijuana
-Apertura,17,Sun Nov 8 2020,12:00,Deportivo Toluca,2-2,1-1,Club León
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,P,Comments,UTC
+Apertura,1,Fri Jul 24 2020,19:30,CDT/-0500,Club Necaxa,0-3,0-2,UANL Tigres,,,2020-07-25T00:30Z
+Apertura,1,Sat Jul 25 2020,21:00,CDT/-0500,Club Tijuana,3-1,1-1,Atlas Guadalajara,,,2020-07-26T02:00Z
+Apertura,1,Sat Jul 25 2020,21:00,CDT/-0500,Cruz Azul,2-0,1-0,Santos Laguna,,,2020-07-26T02:00Z
+Apertura,1,Sat Jul 25 2020,19:00,CDT/-0500,Deportivo Guadalajara,0-0,0-0,Club León,,,2020-07-26T00:00Z
+Apertura,1,Sun Jul 26 2020,12:00,CDT/-0500,Pumas UNAM,3-2,1-0,Gallos Blancos,,,2020-07-26T17:00Z
+Apertura,1,Mon Jul 27 2020,20:00,CDT/-0500,CF Pachuca,1-2,0-0,CF América,,,2020-07-28T01:00Z
+Apertura,1,Mon Jul 27 2020,22:00,CDT/-0500,Mazatlán FC,1-4,1-1,Puebla FC,,,2020-07-28T03:00Z
+Apertura,1,Mon Jul 27 2020,18:00,CDT/-0500,Atlético San Luis,1-1,1-0,FC Juárez,,,2020-07-27T23:00Z
+Apertura,1,Tue Jul 28 2020,19:00,CDT/-0500,CF Monterrey,3-1,2-0,Deportivo Toluca,,,2020-07-29T00:00Z
+Apertura,2,Fri Jul 31 2020,19:30,CDT/-0500,Puebla FC,1-1,0-0,Cruz Azul,,,2020-08-01T00:30Z
+Apertura,2,Fri Jul 31 2020,21:30,CDT/-0500,FC Juárez,1-0,0-0,Club Necaxa,,,2020-08-01T02:30Z
+Apertura,2,Sat Aug 1 2020,21:00,CDT/-0500,CF América,4-0,1-0,Club Tijuana,,,2020-08-02T02:00Z
+Apertura,2,Sat Aug 1 2020,19:00,CDT/-0500,UANL Tigres,1-1,0-0,CF Pachuca,,,2020-08-02T00:00Z
+Apertura,2,Sun Aug 2 2020,12:00,CDT/-0500,Deportivo Toluca,3-2,2-1,Atlético San Luis,,,2020-08-02T17:00Z
+Apertura,2,Sun Aug 2 2020,17:00,CDT/-0500,Gallos Blancos,1-1,0-0,Mazatlán FC,,,2020-08-02T22:00Z
+Apertura,2,Sun Aug 2 2020,19:00,CDT/-0500,Santos Laguna,2-0,1-0,Deportivo Guadalajara,,,2020-08-03T00:00Z
+Apertura,2,Mon Aug 3 2020,21:00,CDT/-0500,Club León,1-0,0-0,CF Monterrey,,,2020-08-04T02:00Z
+Apertura,2,Mon Aug 3 2020,19:00,CDT/-0500,Atlas Guadalajara,1-2,0-1,Pumas UNAM,,,2020-08-04T00:00Z
+Apertura,3,Thu Aug 6 2020,21:06,CDT/-0500,Club Tijuana,0-0,0-0,UANL Tigres,,,2020-08-07T02:06Z
+Apertura,3,Thu Aug 6 2020,19:00,CDT/-0500,CF Pachuca,1-0,1-0,Gallos Blancos,,,2020-08-07T00:00Z
+Apertura,3,Fri Aug 7 2020,19:30,CDT/-0500,Club Necaxa,1-1,0-1,CF América,,,2020-08-08T00:30Z
+Apertura,3,Fri Aug 7 2020,21:30,CDT/-0500,Mazatlán FC,2-1,2-1,Deportivo Toluca,,,2020-08-08T02:30Z
+Apertura,3,Sat Aug 8 2020,19:06,CDT/-0500,CF Monterrey,2-2,1-1,Santos Laguna,,,2020-08-09T00:06Z
+Apertura,3,Sat Aug 8 2020,21:00,CDT/-0500,Deportivo Guadalajara,0-1,0-0,Puebla FC,,,2020-08-09T02:00Z
+Apertura,3,Sat Aug 8 2020,19:00,CDT/-0500,Cruz Azul,2-0,1-0,Club León,,,2020-08-09T00:00Z
+Apertura,3,Sun Aug 9 2020,19:00,CDT/-0500,Atlético San Luis,1-1,1-1,Atlas Guadalajara,,,2020-08-10T00:00Z
+Apertura,3,Sun Aug 9 2020,12:00,CDT/-0500,Pumas UNAM,1-1,0-0,FC Juárez,,,2020-08-09T17:00Z
+Apertura,4,Tue Aug 11 2020,19:00,CDT/-0500,CF Pachuca,0-1,0-0,Club León,,,2020-08-12T00:00Z
+Apertura,4,Tue Aug 11 2020,21:00,CDT/-0500,UANL Tigres,2-1,2-0,Puebla FC,,,2020-08-12T02:00Z
+Apertura,4,Tue Aug 11 2020,17:00,CDT/-0500,Club Necaxa,1-0,1-0,Mazatlán FC,,,2020-08-11T22:00Z
+Apertura,4,Wed Aug 12 2020,17:00,CDT/-0500,Gallos Blancos,1-0,1-0,Cruz Azul,,,2020-08-12T22:00Z
+Apertura,4,Wed Aug 12 2020,19:00,CDT/-0500,FC Juárez,0-2,0-0,Deportivo Guadalajara,,,2020-08-13T00:00Z
+Apertura,4,Wed Aug 12 2020,21:00,CDT/-0500,Pumas UNAM,1-1,1-0,CF Monterrey,,,2020-08-13T02:00Z
+Apertura,4,Wed Aug 12 2020,21:06,CDT/-0500,Club Tijuana,0-2,0-1,Atlético San Luis,,,2020-08-13T02:06Z
+Apertura,4,Thu Aug 13 2020,21:00,CDT/-0500,CF América,3-1,3-0,Santos Laguna,,,2020-08-14T02:00Z
+Apertura,4,Thu Aug 13 2020,19:00,CDT/-0500,Atlas Guadalajara,1-2,1-1,Deportivo Toluca,,,2020-08-14T00:00Z
+Apertura,5,Fri Aug 14 2020,21:30,CDT/-0500,Puebla FC,0-1,0-0,CF Pachuca,,,2020-08-15T02:30Z
+Apertura,5,Sat Aug 15 2020,19:00,CDT/-0500,Cruz Azul,3-2,1-1,FC Juárez,,,2020-08-16T00:00Z
+Apertura,5,Sat Aug 15 2020,21:00,CDT/-0500,Mazatlán FC,0-0,0-0,Pumas UNAM,,,2020-08-16T02:00Z
+Apertura,5,Sat Aug 15 2020,21:06,CDT/-0500,CF Monterrey,1-1,0-0,Club Necaxa,,,2020-08-16T02:06Z
+Apertura,5,Sat Aug 15 2020,17:00,CDT/-0500,Deportivo Guadalajara,2-1,0-0,Atlético San Luis,,,2020-08-15T22:00Z
+Apertura,5,Sun Aug 16 2020,12:00,CDT/-0500,Deportivo Toluca,3-2,1-1,UANL Tigres,,,2020-08-16T17:00Z
+Apertura,5,Sun Aug 16 2020,19:06,CDT/-0500,Santos Laguna,0-0,0-0,Atlas Guadalajara,,,2020-08-17T00:06Z
+Apertura,5,Sun Aug 16 2020,21:00,CDT/-0500,Gallos Blancos,4-1,1-0,CF América,,,2020-08-17T02:00Z
+Apertura,5,Mon Aug 17 2020,21:00,CDT/-0500,Club León,2-1,0-1,Club Tijuana,,,2020-08-18T02:00Z
+Apertura,6,Fri Aug 21 2020,21:30,CDT/-0500,FC Juárez,0-0,0-0,Club León,,,2020-08-22T02:30Z
+Apertura,6,Fri Aug 21 2020,19:30,CDT/-0500,Club Necaxa,2-1,0-1,Santos Laguna,,,2020-08-22T00:30Z
+Apertura,6,Sat Aug 22 2020,17:00,CDT/-0500,Atlas Guadalajara,1-0,1-0,Gallos Blancos,,,2020-08-22T22:00Z
+Apertura,6,Sat Aug 22 2020,19:00,CDT/-0500,UANL Tigres,1-1,0-0,Pumas UNAM,,,2020-08-23T00:00Z
+Apertura,6,Sat Aug 22 2020,21:00,CDT/-0500,CF América,1-3,0-2,CF Monterrey,,,2020-08-23T02:00Z
+Apertura,6,Sun Aug 23 2020,19:35,CDT/-0500,Atlético San Luis,1-3,1-2,Cruz Azul,,,2020-08-24T00:35Z
+Apertura,6,Sun Aug 23 2020,21:06,CDT/-0500,Club Tijuana,1-0,1-0,Puebla FC,,,2020-08-24T02:06Z
+Apertura,6,Sun Aug 23 2020,17:30,CDT/-0500,Deportivo Toluca,1-0,0-0,Deportivo Guadalajara,,,2020-08-23T22:30Z
+Apertura,6,Mon Aug 24 2020,21:05,CDT/-0500,CF Pachuca,4-3,2-1,Mazatlán FC,,,2020-08-25T02:05Z
+Apertura,7,Fri Aug 28 2020,21:30,CDT/-0500,Mazatlán FC,1-1,0-0,UANL Tigres,,,2020-08-29T02:30Z
+Apertura,7,Fri Aug 28 2020,19:30,CDT/-0500,Puebla FC,4-1,2-1,Deportivo Toluca,,,2020-08-29T00:30Z
+Apertura,7,Sat Aug 29 2020,19:00,CDT/-0500,Atlético San Luis,1-2,1-1,CF América,,,2020-08-30T00:00Z
+Apertura,7,Sat Aug 29 2020,19:00,CDT/-0500,Deportivo Guadalajara,0-0,0-0,CF Pachuca,,,2020-08-30T00:00Z
+Apertura,7,Sat Aug 29 2020,21:00,CDT/-0500,Cruz Azul,3-0,1-0,Club Necaxa,,,2020-08-30T02:00Z
+Apertura,7,Sun Aug 30 2020,19:06,CDT/-0500,Santos Laguna,2-1,1-1,Gallos Blancos,,,2020-08-31T00:06Z
+Apertura,7,Sun Aug 30 2020,21:06,CDT/-0500,CF Monterrey,2-1,0-1,FC Juárez,,,2020-08-31T02:06Z
+Apertura,7,Sun Aug 30 2020,12:00,CDT/-0500,Pumas UNAM,3-0,1-0,Club Tijuana,,,2020-08-30T17:00Z
+Apertura,7,Mon Aug 31 2020,21:05,CDT/-0500,Club León,2-1,2-1,Atlas Guadalajara,,,2020-09-01T02:05Z
+Apertura,8,Wed Sep 2 2020,20:00,CDT/-0500,CF América,3-1,0-0,Mazatlán FC,,,2020-09-03T01:00Z
+Apertura,8,Thu Sep 3 2020,21:00,CDT/-0500,CF Pachuca,3-1,2-0,Atlético San Luis,,,2020-09-04T02:00Z
+Apertura,8,Thu Sep 3 2020,19:00,CDT/-0500,Gallos Blancos,4-1,2-0,Deportivo Toluca,,,2020-09-04T00:00Z
+Apertura,8,Fri Sep 4 2020,21:06,CDT/-0500,Club Tijuana,2-1,1-1,CF Monterrey,,,2020-09-05T02:06Z
+Apertura,8,Fri Sep 4 2020,21:30,CDT/-0500,FC Juárez,1-1,0-0,Santos Laguna,,,2020-09-05T02:30Z
+Apertura,8,Fri Sep 4 2020,19:30,CDT/-0500,Club Necaxa,0-2,0-1,Club León,,,2020-09-05T00:30Z
+Apertura,8,Sat Sep 5 2020,19:00,CDT/-0500,Atlas Guadalajara,1-0,0-0,Cruz Azul,,,2020-09-06T00:00Z
+Apertura,8,Sat Sep 5 2020,21:00,CDT/-0500,UANL Tigres,1-3,0-1,Deportivo Guadalajara,,,2020-09-06T02:00Z
+Apertura,8,Sat Sep 5 2020,17:00,CDT/-0500,Pumas UNAM,4-1,2-1,Puebla FC,,,2020-09-05T22:00Z
+Apertura,9,Tue Sep 8 2020,17:00,CDT/-0500,Atlético San Luis,2-1,0-1,Club Necaxa,,,2020-09-08T22:00Z
+Apertura,9,Tue Sep 8 2020,19:00,CDT/-0500,Deportivo Toluca,0-1,0-0,FC Juárez,,,2020-09-09T00:00Z
+Apertura,9,Tue Sep 8 2020,19:06,CDT/-0500,CF Monterrey,1-1,0-0,Atlas Guadalajara,,,2020-09-09T00:06Z
+Apertura,9,Tue Sep 8 2020,21:00,CDT/-0500,Deportivo Guadalajara,1-1,1-0,Gallos Blancos,,,2020-09-09T02:00Z
+Apertura,9,Tue Sep 8 2020,21:00,CDT/-0500,Puebla FC,2-3,2-0,CF América,,,2020-09-09T02:00Z
+Apertura,9,Wed Sep 9 2020,19:00,CDT/-0500,Cruz Azul,1-0,0-0,CF Pachuca,,,2020-09-10T00:00Z
+Apertura,9,Wed Sep 9 2020,21:00,CDT/-0500,Mazatlán FC,1-0,1-0,Club Tijuana,,,2020-09-10T02:00Z
+Apertura,9,Wed Sep 9 2020,21:06,CDT/-0500,Santos Laguna,1-2,0-1,Pumas UNAM,,,2020-09-10T02:06Z
+Apertura,9,Wed Sep 9 2020,17:00,CDT/-0500,Club León,1-1,1-0,UANL Tigres,,,2020-09-09T22:00Z
+Apertura,10,Fri Sep 11 2020,21:30,CDT/-0500,FC Juárez,1-0,1-0,Puebla FC,,,2020-09-12T02:30Z
+Apertura,10,Fri Sep 11 2020,19:30,CDT/-0500,Club Necaxa,1-2,0-0,Deportivo Guadalajara,,,2020-09-12T00:30Z
+Apertura,10,Sat Sep 12 2020,17:00,CDT/-0500,Atlas Guadalajara,1-1,0-0,Mazatlán FC,,,2020-09-12T22:00Z
+Apertura,10,Sat Sep 12 2020,19:00,CDT/-0500,UANL Tigres,2-0,1-0,Santos Laguna,,,2020-09-13T00:00Z
+Apertura,10,Sat Sep 12 2020,21:00,CDT/-0500,CF América,1-1,1-1,Deportivo Toluca,,,2020-09-13T02:00Z
+Apertura,10,Sun Sep 13 2020,19:00,CDT/-0500,Gallos Blancos,2-3,0-1,Club León,,,2020-09-14T00:00Z
+Apertura,10,Sun Sep 13 2020,21:06,CDT/-0500,Club Tijuana,1-2,1-0,Cruz Azul,,,2020-09-14T02:06Z
+Apertura,10,Sun Sep 13 2020,12:00,CDT/-0500,Pumas UNAM,3-0,1-0,Atlético San Luis,,,2020-09-13T17:00Z
+Apertura,10,Mon Sep 14 2020,21:00,CDT/-0500,CF Pachuca,1-1,0-1,CF Monterrey,,,2020-09-15T02:00Z
+Apertura,11,Fri Sep 18 2020,19:30,CDT/-0500,Club Necaxa,0-1,0-1,Puebla FC,,,2020-09-19T00:30Z
+Apertura,11,Fri Sep 18 2020,21:30,CDT/-0500,Mazatlán FC,2-3,1-1,Cruz Azul,,,2020-09-19T02:30Z
+Apertura,11,Sat Sep 19 2020,19:00,CDT/-0500,UANL Tigres,3-0,0-0,Gallos Blancos,,,2020-09-20T00:00Z
+Apertura,11,Sat Sep 19 2020,21:00,CDT/-0500,CF América,1-0,1-0,Deportivo Guadalajara,,,2020-09-20T02:00Z
+Apertura,11,Sat Sep 19 2020,17:00,CDT/-0500,Atlas Guadalajara,0-1,0-0,CF Pachuca,,,2020-09-19T22:00Z
+Apertura,11,Sun Sep 20 2020,12:00,CDT/-0500,Deportivo Toluca,1-2,0-1,Santos Laguna,,,2020-09-20T17:00Z
+Apertura,11,Sun Sep 20 2020,19:00,CDT/-0500,Atlético San Luis,1-2,1-2,CF Monterrey,,,2020-09-21T00:00Z
+Apertura,11,Mon Sep 21 2020,21:00,CDT/-0500,Club León,2-0,1-0,Pumas UNAM,,,2020-09-22T02:00Z
+Apertura,12,Thu Sep 24 2020,21:00,CDT/-0500,CF Pachuca,0-0,0-0,Deportivo Toluca,,,2020-09-25T02:00Z
+Apertura,12,Fri Sep 25 2020,19:30,CDT/-0500,Puebla FC,3-3,1-2,Gallos Blancos,,,2020-09-26T00:30Z
+Apertura,12,Fri Sep 25 2020,21:30,CDT/-0500,FC Juárez,0-1,0-1,Atlas Guadalajara,,,2020-09-26T02:30Z
+Apertura,12,Sat Sep 26 2020,17:00,CDT/-0500,Deportivo Guadalajara,2-1,2-1,Mazatlán FC,,,2020-09-26T22:00Z
+Apertura,12,Sat Sep 26 2020,19:00,CDT/-0500,Pumas UNAM,1-1,0-1,Club Necaxa,,,2020-09-27T00:00Z
+Apertura,12,Sat Sep 26 2020,21:06,CDT/-0500,CF Monterrey,0-2,0-1,UANL Tigres,,,2020-09-27T02:06Z
+Apertura,12,Sun Sep 27 2020,20:45,CDT/-0500,Cruz Azul,0-0,0-0,CF América,,,2020-09-28T01:45Z
+Apertura,12,Sun Sep 27 2020,17:00,CDT/-0500,Atlético San Luis,0-2,0-1,Club León,,,2020-09-27T22:00Z
+Apertura,11,Wed Sep 30 2020,19:06,CDT/-0500,Club Tijuana,2-1,1-1,FC Juárez,,,2020-10-01T00:06Z
+Apertura,13,Fri Oct 2 2020,19:30,CDT/-0500,Puebla FC,0-2,0-2,Santos Laguna,,,2020-10-03T00:30Z
+Apertura,13,Fri Oct 2 2020,21:30,CDT/-0500,Club León,2-1,0-0,Mazatlán FC,,,2020-10-03T02:30Z
+Apertura,13,Sat Oct 3 2020,17:00,CDT/-0500,Atlas Guadalajara,0-1,0-0,Club Necaxa,,,2020-10-03T22:00Z
+Apertura,13,Sat Oct 3 2020,19:00,CDT/-0500,UANL Tigres,3-0,0-0,Atlético San Luis,,,2020-10-04T00:00Z
+Apertura,13,Sat Oct 3 2020,21:00,CDT/-0500,CF América,2-2,1-1,Pumas UNAM,,,2020-10-04T02:00Z
+Apertura,13,Sun Oct 4 2020,21:06,CDT/-0500,Club Tijuana,0-0,0-0,Deportivo Guadalajara,,,2020-10-05T02:06Z
+Apertura,13,Sun Oct 4 2020,12:00,CDT/-0500,Deportivo Toluca,2-0,1-0,Cruz Azul,,,2020-10-04T17:00Z
+Apertura,13,Sun Oct 4 2020,17:00,CDT/-0500,FC Juárez,1-1,0-1,CF Pachuca,,,2020-10-04T22:00Z
+Apertura,13,Sun Oct 4 2020,19:00,CDT/-0500,Gallos Blancos,1-2,0-0,CF Monterrey,,,2020-10-05T00:00Z
+Apertura,12,Sun Oct 11 2020,19:06,CDT/-0500,Santos Laguna,2-0,2-0,Club Tijuana,,,2020-10-12T00:06Z
+Apertura,14,Thu Oct 15 2020,21:00,CDT/-0500,Atlético San Luis,2-1,1-0,Gallos Blancos,,,2020-10-16T02:00Z
+Apertura,14,Fri Oct 16 2020,21:30,CDT/-0500,Mazatlán FC,3-2,3-1,FC Juárez,,,2020-10-17T02:30Z
+Apertura,14,Fri Oct 16 2020,19:30,CDT/-0500,Club Necaxa,2-0,1-0,Club Tijuana,,,2020-10-17T00:30Z
+Apertura,14,Sat Oct 17 2020,17:06,CDT/-0500,CF Monterrey,3-1,2-0,Puebla FC,,,2020-10-17T22:06Z
+Apertura,14,Sat Oct 17 2020,19:00,CDT/-0500,Deportivo Guadalajara,3-2,2-0,Atlas Guadalajara,,,2020-10-18T00:00Z
+Apertura,14,Sat Oct 17 2020,21:00,CDT/-0500,Cruz Azul,0-2,0-0,UANL Tigres,,,2020-10-18T02:00Z
+Apertura,14,Sun Oct 18 2020,19:06,CDT/-0500,Santos Laguna,1-1,1-1,CF Pachuca,,,2020-10-19T00:06Z
+Apertura,14,Sun Oct 18 2020,12:00,CDT/-0500,Pumas UNAM,1-0,0-0,Deportivo Toluca,,,2020-10-18T17:00Z
+Apertura,14,Mon Oct 19 2020,21:00,CDT/-0500,Club León,3-2,2-2,CF América,,,2020-10-20T02:00Z
+Apertura,15,Fri Oct 23 2020,19:30,CDT/-0500,Puebla FC,1-2,0-0,Club León,,,2020-10-24T00:30Z
+Apertura,15,Sat Oct 24 2020,17:00,CDT/-0500,Gallos Blancos,0-1,0-1,Club Necaxa,,,2020-10-24T22:00Z
+Apertura,15,Sat Oct 24 2020,19:00,CDT/-0500,UANL Tigres,1-1,0-0,FC Juárez,,,2020-10-25T00:00Z
+Apertura,15,Sat Oct 24 2020,21:00,CDT/-0500,Mazatlán FC,1-2,0-2,CF Monterrey,,,2020-10-25T02:00Z
+Apertura,15,Sat Oct 24 2020,21:00,CDT/-0500,CF América,1-0,0-0,Atlas Guadalajara,,,2020-10-25T02:00Z
+Apertura,15,Sun Oct 25 2020,17:30,CST/-0600,Deportivo Guadalajara,0-2,0-1,Cruz Azul,,,2020-10-25T23:30Z
+Apertura,15,Sun Oct 25 2020,19:06,CST/-0600,Santos Laguna,2-1,1-1,Atlético San Luis,,,2020-10-26T01:06Z
+Apertura,15,Sun Oct 25 2020,12:00,CST/-0600,Deportivo Toluca,2-0,2-0,Club Tijuana,,,2020-10-25T18:00Z
+Apertura,15,Mon Oct 26 2020,21:00,CST/-0600,CF Pachuca,1-1,1-1,Pumas UNAM,,,2020-10-27T03:00Z
+Apertura,16,Thu Oct 29 2020,21:00,CST/-0600,Atlético San Luis,0-5,0-5,Mazatlán FC,,,2020-10-30T03:00Z
+Apertura,16,Fri Oct 30 2020,21:06,CST/-0600,Club Tijuana,0-2,0-1,CF Pachuca,,,2020-10-31T03:06Z
+Apertura,16,Fri Oct 30 2020,21:30,CST/-0600,FC Juárez,1-0,0-0,Gallos Blancos,,,2020-10-31T03:30Z
+Apertura,16,Fri Oct 30 2020,19:30,CST/-0600,Club Necaxa,3-2,1-1,Deportivo Toluca,,,2020-10-31T01:30Z
+Apertura,16,Sat Oct 31 2020,17:00,CST/-0600,Atlas Guadalajara,0-1,0-1,Puebla FC,,,2020-10-31T23:00Z
+Apertura,16,Sat Oct 31 2020,19:00,CST/-0600,Pumas UNAM,2-2,1-2,Deportivo Guadalajara,,,2020-11-01T01:00Z
+Apertura,16,Sat Oct 31 2020,21:06,CST/-0600,CF Monterrey,1-0,0-0,Cruz Azul,,,2020-11-01T03:06Z
+Apertura,16,Sun Nov 1 2020,17:30,CST/-0600,CF América,3-1,1-0,UANL Tigres,,,2020-11-01T23:30Z
+Apertura,16,Mon Nov 2 2020,21:00,CST/-0600,Club León,2-1,0-1,Santos Laguna,,,2020-11-03T03:00Z
+Apertura,17,Fri Nov 6 2020,21:30,CST/-0600,FC Juárez,1-1,1-0,CF América,,,2020-11-07T03:30Z
+Apertura,17,Fri Nov 6 2020,19:30,CST/-0600,Puebla FC,1-0,1-0,Atlético San Luis,,,2020-11-07T01:30Z
+Apertura,17,Sat Nov 7 2020,17:00,CST/-0600,CF Pachuca,0-1,0-0,Club Necaxa,,,2020-11-07T23:00Z
+Apertura,17,Sat Nov 7 2020,19:00,CST/-0600,UANL Tigres,1-1,1-0,Atlas Guadalajara,,,2020-11-08T01:00Z
+Apertura,17,Sat Nov 7 2020,21:00,CST/-0600,Cruz Azul,1-2,0-0,Pumas UNAM,,,2020-11-08T03:00Z
+Apertura,17,Sat Nov 7 2020,17:00,CST/-0600,Deportivo Guadalajara,3-1,0-1,CF Monterrey,,,2020-11-07T23:00Z
+Apertura,17,Sun Nov 8 2020,12:00,CST/-0600,Deportivo Toluca,2-2,1-1,Club León,,,2020-11-08T18:00Z
+Apertura,17,Sun Nov 8 2020,19:06,CST/-0600,Santos Laguna,4-0,0-0,Mazatlán FC,,,2020-11-09T01:06Z
+Apertura,17,Sun Nov 8 2020,21:06,CST/-0600,Gallos Blancos,2-2,1-0,Club Tijuana,,,2020-11-09T03:06Z
+Apertura - Liguilla,Round 1,Sat Nov 21 2020,21:10,CST/-0600,Deportivo Guadalajara,1-0,0-0,Club Necaxa,,,2020-11-22T03:10Z
+Apertura - Liguilla,Round 1,Sat Nov 21 2020,19:00,CST/-0600,Santos Laguna,0-3,0-1,CF Pachuca,,,2020-11-22T01:00Z
+Apertura - Liguilla,Round 1,Sun Nov 22 2020,21:10,CST/-0600,CF Monterrey,2-2,1-0,Puebla FC,2-4,,2020-11-23T03:10Z
+Apertura - Liguilla,Round 1,Sun Nov 22 2020,19:00,CST/-0600,UANL Tigres,2-1,2-0,Deportivo Toluca,,,2020-11-23T01:00Z
+Apertura - Liguilla,Quarterfinals,Wed Nov 25 2020,21:06,CST/-0600,Deportivo Guadalajara,1-0,0-0,CF América,,,2020-11-26T03:06Z
+Apertura - Liguilla,Quarterfinals,Wed Nov 25 2020,19:00,CST/-0600,Puebla FC,2-1,2-1,Club León,,,2020-11-26T01:00Z
+Apertura - Liguilla,Quarterfinals,Thu Nov 26 2020,21:06,CST/-0600,CF Pachuca,0-1,0-1,Pumas UNAM,,,2020-11-27T03:06Z
+Apertura - Liguilla,Quarterfinals,Thu Nov 26 2020,19:00,CST/-0600,UANL Tigres,1-3,0-1,Cruz Azul,,,2020-11-27T01:00Z
+Apertura - Liguilla,Quarterfinals,Sat Nov 28 2020,19:00,CST/-0600,Club León,2-0,2-0,Puebla FC,,,2020-11-29T01:00Z
+Apertura - Liguilla,Quarterfinals,Sat Nov 28 2020,21:06,CST/-0600,CF América,1-2,0-1,Deportivo Guadalajara,,,2020-11-29T03:06Z
+Apertura - Liguilla,Quarterfinals,Sun Nov 29 2020,18:30,CST/-0600,Cruz Azul,0-1,0-0,UANL Tigres,,,2020-11-30T00:30Z
+Apertura - Liguilla,Quarterfinals,Sun Nov 29 2020,12:00,CST/-0600,Pumas UNAM,0-0,0-0,CF Pachuca,,,2020-11-29T18:00Z
+Apertura - Liguilla,Semifinals,Wed Dec 2 2020,21:05,CST/-0600,Deportivo Guadalajara,1-1,0-1,Club León,,,2020-12-03T03:05Z
+Apertura - Liguilla,Semifinals,Thu Dec 3 2020,21:00,CST/-0600,Cruz Azul,4-0,3-0,Pumas UNAM,,,2020-12-04T03:00Z
+Apertura - Liguilla,Semifinals,Sat Dec 5 2020,21:00,CST/-0600,Club León,1-0,1-0,Deportivo Guadalajara,,,2020-12-06T03:00Z
+Apertura - Liguilla,Semifinals,Sun Dec 6 2020,18:30,CST/-0600,Pumas UNAM,4-0,3-0,Cruz Azul,,,2020-12-07T00:30Z
+Apertura - Liguilla,Final,Thu Dec 10 2020,21:00,CST/-0600,Pumas UNAM,1-1,0-0,Club León,,,2020-12-11T03:00Z
+Apertura - Liguilla,Final,Sun Dec 13 2020,20:30,CST/-0600,Club León,2-0,1-0,Pumas UNAM,,,2020-12-14T02:30Z
+Clausura,1,Fri Jan 8 2021,19:30,CST/-0600,Puebla FC,1-1,1-0,Deportivo Guadalajara,,,2021-01-09T01:30Z
+Clausura,1,Fri Jan 8 2021,21:06,CST/-0600,Club Tijuana,0-0,0-0,Pumas UNAM,,,2021-01-09T03:06Z
+Clausura,1,Fri Jan 8 2021,21:30,CST/-0600,Mazatlán FC,3-2,2-1,Club Necaxa,,,2021-01-09T03:30Z
+Clausura,1,Sat Jan 9 2021,19:00,CST/-0600,UANL Tigres,2-0,1-0,Club León,,,2021-01-10T01:00Z
+Clausura,1,Sat Jan 9 2021,21:00,CST/-0600,CF América,2-1,1-0,Atlético San Luis,,,2021-01-10T03:00Z
+Clausura,1,Sat Jan 9 2021,17:00,CST/-0600,Atlas Guadalajara,0-2,0-2,CF Monterrey,,,2021-01-09T23:00Z
+Clausura,1,Sun Jan 10 2021,19:06,CST/-0600,Santos Laguna,1-0,0-0,Cruz Azul,,,2021-01-11T01:06Z
+Clausura,1,Sun Jan 10 2021,12:00,CST/-0600,Deportivo Toluca,3-1,2-1,Gallos Blancos,,,2021-01-10T18:00Z
+Clausura,1,Mon Jan 11 2021,21:00,CST/-0600,CF Pachuca,1-1,0-1,FC Juárez,,,2021-01-12T03:00Z
+Clausura,2,Fri Jan 15 2021,21:30,CST/-0600,FC Juárez,0-0,0-0,Club Tijuana,,,2021-01-16T03:30Z
+Clausura,2,Fri Jan 15 2021,19:30,CST/-0600,Club Necaxa,1-0,0-0,Atlético San Luis,,,2021-01-16T01:30Z
+Clausura,2,Sat Jan 16 2021,17:00,CST/-0600,Deportivo Guadalajara,1-1,1-1,Deportivo Toluca,,,2021-01-16T23:00Z
+Clausura,2,Sat Jan 16 2021,19:00,CST/-0600,Cruz Azul,0-1,0-1,Puebla FC,,,2021-01-17T01:00Z
+Clausura,2,Sat Jan 16 2021,21:06,CST/-0600,CF Monterrey,1-0,1-0,CF América,,,2021-01-17T03:06Z
+Clausura,2,Sun Jan 17 2021,19:06,CST/-0600,Santos Laguna,2-0,0-0,UANL Tigres,,,2021-01-18T01:06Z
+Clausura,2,Sun Jan 17 2021,21:06,CST/-0600,Gallos Blancos,1-0,0-0,Atlas Guadalajara,,,2021-01-18T03:06Z
+Clausura,2,Sun Jan 17 2021,12:00,CST/-0600,Pumas UNAM,3-0,1-0,Mazatlán FC,,,2021-01-17T18:00Z
+Clausura,2,Mon Jan 18 2021,21:00,CST/-0600,Club León,0-0,0-0,CF Pachuca,,,2021-01-19T03:00Z
+Clausura,3,Thu Jan 21 2021,21:00,CST/-0600,Atlético San Luis,3-1,2-0,Deportivo Guadalajara,,,2021-01-22T03:00Z
+Clausura,3,Fri Jan 22 2021,21:30,CST/-0600,Mazatlán FC,0-0,0-0,Santos Laguna,,,2021-01-23T03:30Z
+Clausura,3,Fri Jan 22 2021,19:30,CST/-0600,Puebla FC,0-1,0-1,Club Tijuana,,,2021-01-23T01:30Z
+Clausura,3,Sat Jan 23 2021,19:00,CST/-0600,Atlas Guadalajara,0-2,0-1,UANL Tigres,,,2021-01-24T01:00Z
+Clausura,3,Sun Jan 24 2021,12:00,CST/-0600,Deportivo Toluca,2-0,1-0,Club Necaxa,,,2021-01-24T18:00Z
+Clausura,3,Sun Jan 24 2021,19:00,CST/-0600,Gallos Blancos,2-0,2-0,Pumas UNAM,,,2021-01-25T01:00Z
+Clausura,3,Mon Jan 25 2021,21:00,CST/-0600,CF Pachuca,0-1,0-0,Cruz Azul,,,2021-01-26T03:00Z
+Clausura,3,Tue Jan 26 2021,20:30,CST/-0600,CF América,2-0,1-0,FC Juárez,,,2021-01-27T02:30Z
+Clausura,4,Thu Jan 28 2021,21:00,CST/-0600,UANL Tigres,1-1,1-1,Club Necaxa,,,2021-01-29T03:00Z
+Clausura,4,Fri Jan 29 2021,21:30,CST/-0600,Mazatlán FC,1-0,1-0,CF Pachuca,,,2021-01-30T03:30Z
+Clausura,4,Sat Jan 30 2021,21:06,CST/-0600,Club Tijuana,3-2,3-1,Deportivo Toluca,,,2021-01-31T03:06Z
+Clausura,4,Sat Jan 30 2021,19:00,CST/-0600,Deportivo Guadalajara,1-2,0-2,FC Juárez,,,2021-01-31T01:00Z
+Clausura,4,Sat Jan 30 2021,21:00,CST/-0600,Cruz Azul,4-1,3-1,Gallos Blancos,,,2021-01-31T03:00Z
+Clausura,4,Sun Jan 31 2021,12:00,CST/-0600,Pumas UNAM,0-0,0-0,Atlas Guadalajara,,,2021-01-31T18:00Z
+Clausura,4,Sun Jan 31 2021,19:06,CST/-0600,Santos Laguna,1-1,0-1,CF América,,,2021-02-01T01:06Z
+Clausura,4,Mon Feb 1 2021,21:00,CST/-0600,Club León,3-1,0-0,Atlético San Luis,,,2021-02-02T03:00Z
+Clausura,4,Tue Feb 2 2021,21:00,CST/-0600,Puebla FC,0-0,0-0,CF Monterrey,,,2021-02-03T03:00Z
+Clausura,5,Thu Feb 4 2021,19:00,CST/-0600,Atlético San Luis,2-2,1-2,Club Tijuana,,,2021-02-05T01:00Z
+Clausura,5,Thu Feb 4 2021,21:00,CST/-0600,Gallos Blancos,3-1,2-0,CF Pachuca,,,2021-02-05T03:00Z
+Clausura,5,Fri Feb 5 2021,21:30,CST/-0600,Club Necaxa,0-2,0-2,Cruz Azul,,,2021-02-06T03:30Z
+Clausura,5,Sat Feb 6 2021,17:00,CST/-0600,Atlas Guadalajara,1-1,0-1,Santos Laguna,,,2021-02-06T23:00Z
+Clausura,5,Sat Feb 6 2021,21:00,CST/-0600,CF Monterrey,1-0,1-0,Pumas UNAM,,,2021-02-07T03:00Z
+Clausura,5,Sat Feb 6 2021,19:00,CST/-0600,CF América,1-0,0-0,Puebla FC,,,2021-02-07T01:00Z
+Clausura,5,Sun Feb 7 2021,12:00,CST/-0600,Deportivo Toluca,4-1,3-0,Mazatlán FC,,,2021-02-07T18:00Z
+Clausura,5,Mon Feb 8 2021,21:00,CST/-0600,Club León,1-3,0-2,Deportivo Guadalajara,,,2021-02-09T03:00Z
+Clausura,6,Fri Feb 12 2021,21:30,CST/-0600,Mazatlán FC,0-3,0-2,Atlético San Luis,,,2021-02-13T03:30Z
+Clausura,6,Fri Feb 12 2021,21:06,CST/-0600,Club Tijuana,2-0,1-0,Club León,,,2021-02-13T03:06Z
+Clausura,6,Fri Feb 12 2021,19:30,CST/-0600,Puebla FC,4-0,2-0,FC Juárez,,,2021-02-13T01:30Z
+Clausura,6,Sat Feb 13 2021,19:00,CST/-0600,Deportivo Guadalajara,2-2,1-1,Club Necaxa,,,2021-02-14T01:00Z
+Clausura,6,Sat Feb 13 2021,21:00,CST/-0600,CF América,2-1,1-1,Gallos Blancos,,,2021-02-14T03:00Z
+Clausura,6,Sun Feb 14 2021,19:06,CST/-0600,Santos Laguna,1-0,0-0,CF Monterrey,,,2021-02-15T01:06Z
+Clausura,6,Sun Feb 14 2021,12:00,CST/-0600,Deportivo Toluca,1-0,0-0,Pumas UNAM,,,2021-02-14T18:00Z
+Clausura,6,Mon Feb 15 2021,21:00,CST/-0600,CF Pachuca,0-1,0-1,Atlas Guadalajara,,,2021-02-16T03:00Z
+Clausura,6,Wed Feb 17 2021,21:00,CST/-0600,UANL Tigres,0-2,0-1,Cruz Azul,,,2021-02-18T03:00Z
+Clausura,7,Thu Feb 18 2021,21:00,CST/-0600,Atlético San Luis,1-0,1-0,Santos Laguna,,,2021-02-19T03:00Z
+Clausura,7,Fri Feb 19 2021,19:30,CST/-0600,Club Necaxa,1-1,0-1,CF Monterrey,,,2021-02-20T01:30Z
+Clausura,7,Fri Feb 19 2021,21:30,CST/-0600,FC Juárez,1-0,0-0,Mazatlán FC,,,2021-02-20T03:30Z
+Clausura,7,Sat Feb 20 2021,19:00,CST/-0600,Cruz Azul,3-2,2-2,Deportivo Toluca,,,2021-02-21T01:00Z
+Clausura,7,Sat Feb 20 2021,21:00,CST/-0600,Atlas Guadalajara,3-0 (*),,CF América,,awd.,2021-02-21T03:00Z
+Clausura,7,Sun Feb 21 2021,17:00,CST/-0600,Gallos Blancos,1-1,0-0,Puebla FC,,,2021-02-21T23:00Z
+Clausura,7,Sun Feb 21 2021,12:00,CST/-0600,Pumas UNAM,0-1,0-0,Club León,,,2021-02-21T18:00Z
+Clausura,7,Sun Feb 21 2021,19:00,CST/-0600,UANL Tigres,3-2,2-0,Club Tijuana,,,2021-02-22T01:00Z
+Clausura,7,Mon Feb 22 2021,21:00,CST/-0600,CF Pachuca,1-1,0-1,Deportivo Guadalajara,,,2021-02-23T03:00Z
+Clausura,8,Thu Feb 25 2021,21:00,CST/-0600,Atlético San Luis,2-2,1-1,UANL Tigres,,,2021-02-26T03:00Z
+Clausura,8,Fri Feb 26 2021,19:30,CST/-0600,Puebla FC,1-0,0-0,Club Necaxa,,,2021-02-27T01:30Z
+Clausura,8,Fri Feb 26 2021,21:30,CST/-0600,Mazatlán FC,3-0,2-0,Gallos Blancos,,,2021-02-27T03:30Z
+Clausura,8,Sat Feb 27 2021,17:00,CST/-0600,Deportivo Toluca,0-0,0-0,Atlas Guadalajara,,,2021-02-27T23:00Z
+Clausura,8,Sat Feb 27 2021,21:00,CST/-0600,Club León,0-1,0-0,Cruz Azul,,,2021-02-28T03:00Z
+Clausura,8,Sat Feb 27 2021,19:00,CST/-0600,CF América,2-0,2-0,CF Pachuca,,,2021-02-28T01:00Z
+Clausura,8,Sun Feb 28 2021,19:06,CST/-0600,Santos Laguna,3-2,2-0,FC Juárez,,,2021-03-01T01:06Z
+Clausura,8,Sun Feb 28 2021,17:00,CST/-0600,CF Monterrey,1-1,1-0,Club Tijuana,,,2021-02-28T23:00Z
+Clausura,8,Sun Feb 28 2021,21:00,CST/-0600,Deportivo Guadalajara,2-1,2-1,Pumas UNAM,,,2021-03-01T03:00Z
+Clausura,9,Tue Mar 2 2021,19:00,CST/-0600,UANL Tigres,0-1,0-0,Deportivo Toluca,,,2021-03-03T01:00Z
+Clausura,9,Tue Mar 2 2021,17:00,CST/-0600,Atlas Guadalajara,3-1,1-1,Atlético San Luis,,,2021-03-02T23:00Z
+Clausura,9,Tue Mar 2 2021,21:00,CST/-0600,Club León,1-2,1-0,Puebla FC,,,2021-03-03T03:00Z
+Clausura,9,Wed Mar 3 2021,21:06,CST/-0600,Club Tijuana,0-2,0-0,CF América,,,2021-03-04T03:06Z
+Clausura,9,Wed Mar 3 2021,19:00,CST/-0600,FC Juárez,1-6,1-2,CF Monterrey,,,2021-03-04T01:00Z
+Clausura,9,Wed Mar 3 2021,21:00,CST/-0600,Cruz Azul,1-0,0-0,Mazatlán FC,,,2021-03-04T03:00Z
+Clausura,9,Wed Mar 3 2021,19:00,CST/-0600,Gallos Blancos,2-2,1-1,Deportivo Guadalajara,,,2021-03-04T01:00Z
+Clausura,9,Thu Mar 4 2021,19:00,CST/-0600,Club Necaxa,2-2,1-1,CF Pachuca,,,2021-03-05T01:00Z
+Clausura,9,Thu Mar 4 2021,21:00,CST/-0600,Pumas UNAM,1-0,0-0,Santos Laguna,,,2021-03-05T03:00Z
+Clausura,10,Fri Mar 5 2021,19:30,CST/-0600,Atlético San Luis,0-0,0-0,Deportivo Toluca,,,2021-03-06T01:30Z
+Clausura,10,Fri Mar 5 2021,21:30,CST/-0600,Puebla FC,1-1,1-1,UANL Tigres,,,2021-03-06T03:30Z
+Clausura,10,Sat Mar 6 2021,21:00,CST/-0600,Mazatlán FC,1-1,1-1,Deportivo Guadalajara,,,2021-03-07T03:00Z
+Clausura,10,Sat Mar 6 2021,19:06,CST/-0600,CF Monterrey,2-1,2-1,Gallos Blancos,,,2021-03-07T01:06Z
+Clausura,10,Sat Mar 6 2021,17:00,CST/-0600,Atlas Guadalajara,2-0,1-0,FC Juárez,,,2021-03-06T23:00Z
+Clausura,10,Sat Mar 6 2021,19:00,CST/-0600,CF América,2-1,1-1,Club León,,,2021-03-07T01:00Z
+Clausura,10,Sun Mar 7 2021,19:06,CST/-0600,Santos Laguna,3-1,1-0,Club Necaxa,,,2021-03-08T01:06Z
+Clausura,10,Sun Mar 7 2021,21:00,CST/-0600,Pumas UNAM,0-1,0-0,Cruz Azul,,,2021-03-08T03:00Z
+Clausura,10,Mon Mar 8 2021,21:00,CST/-0600,CF Pachuca,2-1,2-1,Club Tijuana,,,2021-03-09T03:00Z
+Clausura,3,Wed Mar 10 2021,21:00,CST/-0600,CF Monterrey,1-1,0-1,Club León,,,2021-03-11T03:00Z
+Clausura,11,Fri Mar 12 2021,19:30,CST/-0600,Puebla FC,0-1,0-0,Atlas Guadalajara,,,2021-03-13T01:30Z
+Clausura,11,Fri Mar 12 2021,21:30,CST/-0600,FC Juárez,1-1,1-0,Pumas UNAM,,,2021-03-13T03:30Z
+Clausura,11,Sat Mar 13 2021,19:00,CST/-0600,UANL Tigres,1-2,0-1,Mazatlán FC,,,2021-03-14T01:00Z
+Clausura,11,Sat Mar 13 2021,21:00,CST/-0600,Cruz Azul,1-0,1-0,CF Monterrey,,,2021-03-14T03:00Z
+Clausura,11,Sat Mar 13 2021,21:05,CST/-0600,Club Tijuana,0-1,0-1,Santos Laguna,,,2021-03-14T03:05Z
+Clausura,11,Sun Mar 14 2021,18:00,CST/-0600,Gallos Blancos,2-1,2-0,Atlético San Luis,,,2021-03-15T00:00Z
+Clausura,11,Sun Mar 14 2021,12:00,CST/-0600,Deportivo Toluca,0-2,0-0,CF Pachuca,,,2021-03-14T18:00Z
+Clausura,11,Sun Mar 14 2021,20:00,CST/-0600,Deportivo Guadalajara,0-3,0-1,CF América,,,2021-03-15T02:00Z
+Clausura,11,Mon Mar 15 2021,21:00,CST/-0600,Club León,3-1,2-0,Club Necaxa,,,2021-03-16T03:00Z
+Clausura,12,Thu Mar 18 2021,20:00,CST/-0600,CF Pachuca,1-0,0-0,UANL Tigres,,,2021-03-19T02:00Z
+Clausura,12,Fri Mar 19 2021,19:00,CST/-0600,Club Necaxa,1-0,0-0,FC Juárez,,,2021-03-20T01:00Z
+Clausura,12,Fri Mar 19 2021,21:00,CST/-0600,Mazatlán FC,0-1,0-0,CF América,,,2021-03-20T03:00Z
+Clausura,12,Sat Mar 20 2021,21:05,CST/-0600,Club Tijuana,3-1,3-1,Gallos Blancos,,,2021-03-21T03:05Z
+Clausura,12,Sat Mar 20 2021,17:00,CST/-0600,Atlético San Luis,0-1,0-0,Pumas UNAM,,,2021-03-20T23:00Z
+Clausura,12,Sat Mar 20 2021,19:00,CST/-0600,Cruz Azul,3-2,1-1,Atlas Guadalajara,,,2021-03-21T01:00Z
+Clausura,12,Sun Mar 21 2021,19:06,CST/-0600,Santos Laguna,1-2,1-1,Club León,,,2021-03-22T01:06Z
+Clausura,12,Sun Mar 21 2021,12:00,CST/-0600,Deportivo Toluca,4-4,1-0,Puebla FC,,,2021-03-21T18:00Z
+Clausura,13,Fri Apr 2 2021,19:30,CST/-0600,Puebla FC,3-1,1-1,Mazatlán FC,,,2021-04-03T01:30Z
+Clausura,13,Fri Apr 2 2021,21:30,CST/-0600,FC Juárez,0-1,0-0,Cruz Azul,,,2021-04-03T03:30Z
+Clausura,13,Sat Apr 3 2021,19:00,CST/-0600,CF América,2-1,1-1,Club Necaxa,,,2021-04-04T01:00Z
+Clausura,13,Sat Apr 3 2021,17:00,CST/-0600,Atlas Guadalajara,1-0,1-0,Club Tijuana,,,2021-04-03T23:00Z
+Clausura,13,Sat Apr 3 2021,21:06,CST/-0600,CF Monterrey,2-0,0-0,Atlético San Luis,,,2021-04-04T03:06Z
+Clausura,13,Sun Apr 4 2021,21:05,CDT/-0500,Club León,2-1,0-1,Deportivo Toluca,,,2021-04-05T02:05Z
+Clausura,13,Sun Apr 4 2021,19:00,CDT/-0500,Gallos Blancos,0-1,0-0,UANL Tigres,,,2021-04-05T00:00Z
+Clausura,13,Sun Apr 4 2021,12:00,CDT/-0500,Pumas UNAM,2-2,0-1,CF Pachuca,,,2021-04-04T17:00Z
+Clausura,13,Sun Apr 4 2021,17:00,CDT/-0500,Deportivo Guadalajara,1-1,0-1,Santos Laguna,,,2021-04-04T22:00Z
+Clausura,14,Fri Apr 9 2021,19:30,CDT/-0500,Club Necaxa,0-1,0-0,Pumas UNAM,,,2021-04-10T00:30Z
+Clausura,14,Fri Apr 9 2021,21:30,CDT/-0500,FC Juárez,2-1,1-0,Atlético San Luis,,,2021-04-10T02:30Z
+Clausura,14,Sat Apr 10 2021,19:00,CDT/-0500,Cruz Azul,1-0,0-0,Deportivo Guadalajara,,,2021-04-11T00:00Z
+Clausura,14,Sat Apr 10 2021,17:00,CDT/-0500,Atlas Guadalajara,1-3,0-1,Club León,,,2021-04-10T22:00Z
+Clausura,14,Sat Apr 10 2021,21:05,CDT/-0500,UANL Tigres,1-3,0-1,CF América,,,2021-04-11T02:05Z
+Clausura,14,Sun Apr 11 2021,21:06,CDT/-0500,Club Tijuana,2-3,2-1,Mazatlán FC,,,2021-04-12T02:06Z
+Clausura,14,Sun Apr 11 2021,19:00,CDT/-0500,Gallos Blancos,1-0,1-0,Santos Laguna,,,2021-04-12T00:00Z
+Clausura,14,Sun Apr 11 2021,12:00,CDT/-0500,Deportivo Toluca,1-2,0-0,CF Monterrey,,,2021-04-11T17:00Z
+Clausura,14,Mon Apr 12 2021,21:00,CDT/-0500,CF Pachuca,1-3,0-1,Puebla FC,,,2021-04-13T02:00Z
+Clausura,5,Wed Apr 14 2021,21:00,CDT/-0500,FC Juárez,2-3,0-0,UANL Tigres,,,2021-04-15T02:00Z
+Clausura,15,Fri Apr 16 2021,21:30,CDT/-0500,Mazatlán FC,0-0,0-0,Atlas Guadalajara,,,2021-04-17T02:30Z
+Clausura,15,Fri Apr 16 2021,19:30,CDT/-0500,Club Necaxa,0-0,0-0,Gallos Blancos,,,2021-04-17T00:30Z
+Clausura,15,Sat Apr 17 2021,21:05,CDT/-0500,CF América,1-1,1-0,Cruz Azul,,,2021-04-18T02:05Z
+Clausura,15,Sat Apr 17 2021,17:00,CDT/-0500,Atlético San Luis,1-4,0-1,Puebla FC,,,2021-04-17T22:00Z
+Clausura,15,Sat Apr 17 2021,19:00,CDT/-0500,Deportivo Guadalajara,2-0,0-0,Club Tijuana,,,2021-04-18T00:00Z
+Clausura,15,Sun Apr 18 2021,12:00,CDT/-0500,Pumas UNAM,0-0,0-0,UANL Tigres,,,2021-04-18T17:00Z
+Clausura,15,Sun Apr 18 2021,19:00,CDT/-0500,Santos Laguna,3-1,2-0,Deportivo Toluca,,,2021-04-19T00:00Z
+Clausura,15,Sun Apr 18 2021,21:06,CDT/-0500,CF Monterrey,0-1,0-0,CF Pachuca,,,2021-04-19T02:06Z
+Clausura,15,Mon Apr 19 2021,21:00,CDT/-0500,Club León,2-0,0-0,FC Juárez,,,2021-04-20T02:00Z
+Clausura,12,Wed Apr 21 2021,21:10,CDT/-0500,CF Monterrey,1-2,0-1,Deportivo Guadalajara,,,2021-04-22T02:10Z
+Clausura,16,Fri Apr 23 2021,21:06,CDT/-0500,Club Tijuana,1-0,0-0,Club Necaxa,,,2021-04-24T02:06Z
+Clausura,16,Fri Apr 23 2021,21:35,CDT/-0500,Mazatlán FC,4-3,1-2,Club León,,,2021-04-24T02:35Z
+Clausura,16,Fri Apr 23 2021,19:30,CDT/-0500,Puebla FC,0-0,0-0,Pumas UNAM,,,2021-04-24T00:30Z
+Clausura,16,Sat Apr 24 2021,17:00,CDT/-0500,Cruz Azul,3-2,2-1,Atlético San Luis,,,2021-04-24T22:00Z
+Clausura,16,Sat Apr 24 2021,19:00,CDT/-0500,Atlas Guadalajara,0-1,0-0,Deportivo Guadalajara,,,2021-04-25T00:00Z
+Clausura,16,Sat Apr 24 2021,21:10,CDT/-0500,UANL Tigres,2-1,1-1,CF Monterrey,,,2021-04-25T02:10Z
+Clausura,16,Sun Apr 25 2021,19:30,CDT/-0500,Gallos Blancos,1-0,0-0,FC Juárez,,,2021-04-26T00:30Z
+Clausura,16,Sun Apr 25 2021,17:30,CDT/-0500,Deportivo Toluca,3-1,2-0,CF América,,,2021-04-25T22:30Z
+Clausura,16,Mon Apr 26 2021,21:00,CDT/-0500,CF Pachuca,1-0,0-0,Santos Laguna,,,2021-04-27T02:00Z
+Clausura,17,Thu Apr 29 2021,21:00,CDT/-0500,Atlético San Luis,1-5,1-2,CF Pachuca,,,2021-04-30T02:00Z
+Clausura,17,Fri Apr 30 2021,21:30,CDT/-0500,FC Juárez,1-0,0-0,Deportivo Toluca,,,2021-05-01T02:30Z
+Clausura,17,Fri Apr 30 2021,19:30,CDT/-0500,Club Necaxa,1-5,1-2,Atlas Guadalajara,,,2021-05-01T00:30Z
+Clausura,17,Sat May 1 2021,17:00,CDT/-0500,Deportivo Guadalajara,0-0,0-0,UANL Tigres,,,2021-05-01T22:00Z
+Clausura,17,Sat May 1 2021,17:00,CDT/-0500,Club León,2-1,1-0,Gallos Blancos,,,2021-05-01T22:00Z
+Clausura,17,Sat May 1 2021,19:00,CDT/-0500,Cruz Azul,1-1,1-0,Club Tijuana,,,2021-05-02T00:00Z
+Clausura,17,Sat May 1 2021,21:06,CDT/-0500,CF Monterrey,1-0,1-0,Mazatlán FC,,,2021-05-02T02:06Z
+Clausura,17,Sun May 2 2021,21:05,CDT/-0500,Pumas UNAM,0-1,0-0,CF América,,,2021-05-03T02:05Z
+Clausura,17,Sun May 2 2021,19:06,CDT/-0500,Santos Laguna,0-0,0-0,Puebla FC,,,2021-05-03T00:06Z
+Clausura - Liguilla,Recalificación,Sat May 8 2021,21:15,CDT/-0500,Santos Laguna,5-0,2-0,Gallos Blancos,,,2021-05-09T02:15Z
+Clausura - Liguilla,Recalificación,Sat May 8 2021,19:00,CDT/-0500,Atlas Guadalajara,1-0,0-0,UANL Tigres,,,2021-05-09T00:00Z
+Clausura - Liguilla,Recalificación,Sun May 9 2021,19:00,CDT/-0500,Club León,2-2,1-1,Deportivo Toluca,2-4,,2021-05-10T00:00Z
+Clausura - Liguilla,Recalificación,Sun May 9 2021,21:15,CDT/-0500,CF Pachuca,4-2,0-1,Deportivo Guadalajara,,,2021-05-10T02:15Z
+Clausura - Liguilla,Quarterfinals,Wed May 12 2021,21:05,CDT/-0500,Atlas Guadalajara,1-0,0-0,Puebla FC,,,2021-05-13T02:05Z
+Clausura - Liguilla,Quarterfinals,Wed May 12 2021,19:00,CDT/-0500,Deportivo Toluca,2-1,1-1,Cruz Azul,,,2021-05-13T00:00Z
+Clausura - Liguilla,Quarterfinals,Thu May 13 2021,21:05,CDT/-0500,Santos Laguna,2-1,0-1,CF Monterrey,,,2021-05-14T02:05Z
+Clausura - Liguilla,Quarterfinals,Thu May 13 2021,19:00,CDT/-0500,CF Pachuca,3-1,1-1,CF América,,,2021-05-14T00:00Z
+Clausura - Liguilla,Quarterfinals,Sat May 15 2021,18:00,CDT/-0500,Puebla FC,1-0,0-0,Atlas Guadalajara,,,2021-05-15T23:00Z
+Clausura - Liguilla,Quarterfinals,Sat May 15 2021,20:05,CDT/-0500,Cruz Azul,3-1,1-1,Deportivo Toluca,,,2021-05-16T01:05Z
+Clausura - Liguilla,Quarterfinals,Sun May 16 2021,20:05,CDT/-0500,CF América,4-2,2-1,CF Pachuca,,,2021-05-17T01:05Z
+Clausura - Liguilla,Quarterfinals,Sun May 16 2021,18:00,CDT/-0500,CF Monterrey,1-1,1-0,Santos Laguna,,,2021-05-16T23:00Z
+Clausura - Liguilla,Semifinals,Wed May 19 2021,20:30,CDT/-0500,CF Pachuca,0-0,0-0,Cruz Azul,,,2021-05-20T01:30Z
+Clausura - Liguilla,Semifinals,Thu May 20 2021,21:00,CDT/-0500,Santos Laguna,3-0,2-0,Puebla FC,,,2021-05-21T02:00Z
+Clausura - Liguilla,Semifinals,Sat May 22 2021,20:00,CDT/-0500,Cruz Azul,1-0,0-0,CF Pachuca,,,2021-05-23T01:00Z
+Clausura - Liguilla,Semifinals,Sun May 23 2021,19:00,CDT/-0500,Puebla FC,1-0,0-0,Santos Laguna,,,2021-05-24T00:00Z
+Clausura - Liguilla,Final,Thu May 27 2021,21:00,CDT/-0500,Santos Laguna,0-1,0-0,Cruz Azul,,,2021-05-28T02:00Z
+Clausura - Liguilla,Final,Sun May 30 2021,20:15,CDT/-0500,Cruz Azul,1-1,0-1,Santos Laguna,,,2021-05-31T01:15Z

@@ -1,0 +1,79 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+Taça Guanabara,1,Wed Jan 17 2024,19:00,-0300,Botafogo RJ,1-0,1-0,Madureira RJ,2024-01-17T22:00Z
+Taça Guanabara,1,Wed Jan 17 2024,21:30,-0300,Flamengo RJ,4-0,3-0,Audax RJ,2024-01-18T00:30Z
+Taça Guanabara,1,Wed Jan 17 2024,16:50,-0300,Portuguesa RJ,1-0,0-0,Bangu RJ,2024-01-17T19:50Z
+Taça Guanabara,1,Thu Jan 18 2024,19:30,-0300,Vasco da Gama RJ,2-0,1-0,Boavista RJ,2024-01-18T22:30Z
+Taça Guanabara,1,Thu Jan 18 2024,21:30,-0300,Volta Redonda RJ,1-1,0-1,Fluminense RJ,2024-01-19T00:30Z
+Taça Guanabara,1,Thu Jan 18 2024,15:45,-0300,Nova Iguaçu RJ,2-1,0-0,Sampaio Corrêa RJ,2024-01-18T18:45Z
+Taça Guanabara,2,Sat Jan 20 2024,16:00,-0300,Botafogo RJ,2-0,1-0,Bangu RJ,2024-01-20T19:00Z
+Taça Guanabara,2,Sat Jan 20 2024,15:45,-0300,Madureira RJ,1-0,0-0,Audax RJ,2024-01-20T18:45Z
+Taça Guanabara,2,Sun Jan 21 2024,16:00,-0300,Fluminense RJ,2-1,2-0,Portuguesa RJ,2024-01-21T19:00Z
+Taça Guanabara,2,Sun Jan 21 2024,18:10,-0300,Nova Iguaçu RJ,1-1,1-0,Flamengo RJ,2024-01-21T21:10Z
+Taça Guanabara,2,Sun Jan 21 2024,18:10,-0300,Volta Redonda RJ,2-3,1-0,Boavista RJ,2024-01-21T21:10Z
+Taça Guanabara,2,Sun Jan 21 2024,20:30,-0300,Sampaio Corrêa RJ,3-3,2-1,Vasco da Gama RJ,2024-01-21T23:30Z
+Taça Guanabara,3,Wed Jan 24 2024,19:00,-0300,Portuguesa RJ,1-0,0-0,Sampaio Corrêa RJ,2024-01-24T22:00Z
+Taça Guanabara,3,Wed Jan 24 2024,21:30,-0300,Boavista RJ,1-0,1-0,Botafogo RJ,2024-01-25T00:30Z
+Taça Guanabara,3,Wed Jan 24 2024,16:00,-0300,Bangu RJ,2-3,0-2,Nova Iguaçu RJ,2024-01-24T19:00Z
+Taça Guanabara,3,Thu Jan 25 2024,21:30,-0300,Vasco da Gama RJ,2-0,0-0,Madureira RJ,2024-01-26T00:30Z
+Taça Guanabara,3,Thu Jan 25 2024,21:30,-0300,Audax RJ,0-1,0-1,Fluminense RJ,2024-01-26T00:30Z
+Taça Guanabara,4,Sat Jan 27 2024,18:10,-0300,Portuguesa RJ,0-0,0-0,Flamengo RJ,2024-01-27T21:10Z
+Taça Guanabara,4,Sat Jan 27 2024,16:00,-0300,Botafogo RJ,2-0,0-0,Sampaio Corrêa RJ,2024-01-27T19:00Z
+Taça Guanabara,4,Sun Jan 28 2024,15:45,-0300,Madureira RJ,3-1,2-0,Volta Redonda RJ,2024-01-28T18:45Z
+Taça Guanabara,4,Sun Jan 28 2024,16:00,-0300,Bangu RJ,2-2,0-0,Vasco da Gama RJ,2024-01-28T19:00Z
+Taça Guanabara,4,Sun Jan 28 2024,18:10,-0300,Fluminense RJ,3-0,1-0,Nova Iguaçu RJ,2024-01-28T21:10Z
+Taça Guanabara,4,Mon Jan 29 2024,20:30,-0300,Audax RJ,0-1,0-0,Boavista RJ,2024-01-29T23:30Z
+Taça Guanabara,5,Tue Jan 30 2024,21:30,-0300,Botafogo RJ,1-1,1-0,Portuguesa RJ,2024-01-31T00:30Z
+Taça Guanabara,5,Wed Jan 31 2024,18:10,-0300,Nova Iguaçu RJ,2-0,1-0,Vasco da Gama RJ,2024-01-31T21:10Z
+Taça Guanabara,5,Wed Jan 31 2024,21:30,-0300,Sampaio Corrêa RJ,0-2,0-2,Flamengo RJ,2024-02-01T00:30Z
+Taça Guanabara,5,Thu Feb 1 2024,19:00,-0300,Volta Redonda RJ,2-0,1-0,Audax RJ,2024-02-01T22:00Z
+Taça Guanabara,5,Thu Feb 1 2024,15:30,-0300,Madureira RJ,3-0,1-0,Boavista RJ,2024-02-01T18:30Z
+Taça Guanabara,5,Thu Feb 1 2024,21:30,-0300,Fluminense RJ,4-1,0-1,Bangu RJ,2024-02-02T00:30Z
+Taça Guanabara,6,Sat Feb 3 2024,16:00,-0300,Botafogo RJ,2-2,1-0,Nova Iguaçu RJ,2024-02-03T19:00Z
+Taça Guanabara,6,Sun Feb 4 2024,15:45,-0300,Sampaio Corrêa RJ,0-2,0-1,Volta Redonda RJ,2024-02-04T18:45Z
+Taça Guanabara,6,Sun Feb 4 2024,16:00,-0300,Boavista RJ,2-2,2-1,Fluminense RJ,2024-02-04T19:00Z
+Taça Guanabara,6,Sun Feb 4 2024,19:00,-0300,Vasco da Gama RJ,0-0,0-0,Flamengo RJ,2024-02-04T22:00Z
+Taça Guanabara,6,Sun Feb 4 2024,21:30,-0300,Audax RJ,0-1,0-0,Bangu RJ,2024-02-05T00:30Z
+Taça Guanabara,6,Mon Feb 5 2024,15:45,-0300,Madureira RJ,0-0,0-0,Portuguesa RJ,2024-02-05T18:45Z
+Taça Guanabara,7,Wed Feb 7 2024,21:30,-0300,Flamengo RJ,1-0,0-0,Botafogo RJ,2024-02-08T00:30Z
+Taça Guanabara,7,Wed Feb 7 2024,18:30,-0300,Bangu RJ,1-1,1-0,Volta Redonda RJ,2024-02-07T21:30Z
+Taça Guanabara,7,Thu Feb 8 2024,21:30,-0300,Fluminense RJ,1-0,0-0,Sampaio Corrêa RJ,2024-02-09T00:30Z
+Taça Guanabara,7,Thu Feb 8 2024,15:45,-0300,Nova Iguaçu RJ,1-0,0-0,Madureira RJ,2024-02-08T18:45Z
+Taça Guanabara,7,Thu Feb 8 2024,21:15,-0300,Vasco da Gama RJ,1-0,1-0,Audax RJ,2024-02-09T00:15Z
+Taça Guanabara,7,Fri Feb 9 2024,19:15,-0300,Boavista RJ,2-2,2-1,Portuguesa RJ,2024-02-09T22:15Z
+Taça Guanabara,3,Sat Feb 10 2024,16:00,-0300,Flamengo RJ,3-0,1-0,Volta Redonda RJ,2024-02-10T19:00Z
+Taça Guanabara,8,Wed Feb 14 2024,19:00,-0300,Volta Redonda RJ,0-3,0-2,Botafogo RJ,2024-02-14T22:00Z
+Taça Guanabara,8,Wed Feb 14 2024,21:30,-0300,Fluminense RJ,0-0,0-0,Vasco da Gama RJ,2024-02-15T00:30Z
+Taça Guanabara,8,Wed Feb 14 2024,15:45,-0300,Sampaio Corrêa RJ,2-1,1-1,Madureira RJ,2024-02-14T18:45Z
+Taça Guanabara,8,Thu Feb 15 2024,19:00,-0300,Portuguesa RJ,1-0,0-0,Audax RJ,2024-02-15T22:00Z
+Taça Guanabara,8,Thu Feb 15 2024,21:30,-0300,Bangu RJ,0-3,0-1,Flamengo RJ,2024-02-16T00:30Z
+Taça Guanabara,8,Thu Feb 15 2024,15:45,-0300,Nova Iguaçu RJ,1-1,1-1,Boavista RJ,2024-02-15T18:45Z
+Taça Guanabara,9,Sat Feb 17 2024,16:00,-0300,Madureira RJ,0-1,0-0,Fluminense RJ,2024-02-17T19:00Z
+Taça Guanabara,9,Sun Feb 18 2024,18:10,-0300,Volta Redonda RJ,1-1,0-0,Portuguesa RJ,2024-02-18T21:10Z
+Taça Guanabara,9,Sun Feb 18 2024,21:30,-0300,Audax RJ,1-2,1-1,Nova Iguaçu RJ,2024-02-19T00:30Z
+Taça Guanabara,9,Sun Feb 18 2024,16:00,-0300,Botafogo RJ,2-4,1-1,Vasco da Gama RJ,2024-02-18T19:00Z
+Taça Guanabara,9,Tue Feb 20 2024,21:30,-0300,Flamengo RJ,4-0,2-0,Boavista RJ,2024-02-21T00:30Z
+Taça Guanabara,9,Tue Feb 20 2024,15:45,-0300,Sampaio Corrêa RJ,2-0,0-0,Bangu RJ,2024-02-20T18:45Z
+Taça Guanabara,10,Sat Feb 24 2024,17:30,-0300,Vasco da Gama RJ,2-1,1-0,Volta Redonda RJ,2024-02-24T20:30Z
+Taça Guanabara,10,Sat Feb 24 2024,18:30,-0300,Portuguesa RJ,1-2,0-1,Nova Iguaçu RJ,2024-02-24T21:30Z
+Taça Guanabara,10,Sat Feb 24 2024,16:00,-0300,Audax RJ,0-2,0-1,Botafogo RJ,2024-02-24T19:00Z
+Taça Guanabara,10,Sun Feb 25 2024,16:00,-0300,Flamengo RJ,2-0,0-0,Fluminense RJ,2024-02-25T19:00Z
+Taça Guanabara,10,Sun Feb 25 2024,18:15,-0300,Bangu RJ,2-1,0-0,Madureira RJ,2024-02-25T21:15Z
+Taça Guanabara,10,Sun Feb 25 2024,20:30,-0300,Boavista RJ,3-2,1-1,Sampaio Corrêa RJ,2024-02-25T23:30Z
+Taça Guanabara,11,Sat Mar 2 2024,16:00,-0300,Audax RJ,0-4,0-1,Sampaio Corrêa RJ,2024-03-02T19:00Z
+Taça Guanabara,11,Sat Mar 2 2024,16:00,-0300,Flamengo RJ,3-0,1-0,Madureira RJ,2024-03-02T19:00Z
+Taça Guanabara,11,Sun Mar 3 2024,16:00,-0300,Fluminense RJ,2-4,1-2,Botafogo RJ,2024-03-03T19:00Z
+Taça Guanabara,11,Sun Mar 3 2024,18:10,-0300,Vasco da Gama RJ,4-0,2-0,Portuguesa RJ,2024-03-03T21:10Z
+Taça Guanabara,11,Sun Mar 3 2024,18:10,-0300,Volta Redonda RJ,1-2,0-0,Nova Iguaçu RJ,2024-03-03T21:10Z
+Taça Guanabara,11,Sun Mar 3 2024,18:10,-0300,Boavista RJ,5-3,0-1,Bangu RJ,2024-03-03T21:10Z
+Taça Rio,Semifinals,Sat Mar 9 2024,18:30,-0300,Portuguesa RJ,1-1,1-1,Boavista RJ,2024-03-09T21:30Z
+Taça Guanabara Finals,Semifinals,Sat Mar 9 2024,21:00,-0300,Fluminense RJ,0-2,0-1,Flamengo RJ,2024-03-10T00:00Z
+Taça Guanabara Finals,Semifinals,Sun Mar 10 2024,18:30,-0300,Vasco da Gama RJ,1-1,0-0,Nova Iguaçu RJ,2024-03-10T21:30Z
+Taça Rio,Semifinals,Sun Mar 10 2024,16:00,-0300,Sampaio Corrêa RJ,1-2,0-0,Botafogo RJ,2024-03-10T19:00Z
+Taça Rio,Semifinals,Sat Mar 16 2024,18:30,-0300,Boavista RJ,3-2,0-1,Portuguesa RJ,2024-03-16T21:30Z
+Taça Guanabara Finals,Semifinals,Sat Mar 16 2024,21:00,-0300,Flamengo RJ,0-0,0-0,Fluminense RJ,2024-03-17T00:00Z
+Taça Rio,Semifinals,Sun Mar 17 2024,18:30,-0300,Botafogo RJ,2-1,0-1,Sampaio Corrêa RJ,2024-03-17T21:30Z
+Taça Guanabara Finals,Semifinals,Sun Mar 17 2024,16:00,-0300,Nova Iguaçu RJ,1-0,0-0,Vasco da Gama RJ,2024-03-17T19:00Z
+Taça Rio,Final,Wed Mar 27 2024,19:30,-0300,Boavista RJ,0-4,0-1,Botafogo RJ,2024-03-27T22:30Z
+Taça Guanabara Finals,Final,Sat Mar 30 2024,17:00,-0300,Nova Iguaçu RJ,0-3,0-1,Flamengo RJ,2024-03-30T20:00Z
+Taça Rio,Final,Sun Mar 31 2024,18:30,-0300,Botafogo RJ,2-0,0-0,Boavista RJ,2024-03-31T21:30Z
+Taça Guanabara Finals,Final,Sun Apr 7 2024,17:00,-0300,Flamengo RJ,1-0,0-0,Nova Iguaçu RJ,2024-04-07T20:00Z

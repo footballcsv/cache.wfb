@@ -1,0 +1,519 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,Comments,UTC
+Qualifikation,Sun Sep 6 2020,16:00,-0300,Baré RR,3-0,1-0,Ypiranga AP,,,,2020-09-06T19:00Z
+Qualifikation,Sun Sep 6 2020,16:00,-0300,Ji-Paraná RO,2-1,0-0,Nacional AM,,,,2020-09-06T19:00Z
+Qualifikation,Sun Sep 6 2020,16:00,-0300,Tocantinópolis TO,1-0,1-0,Brasiliense DF,,,,2020-09-06T19:00Z
+Qualifikation,Sun Sep 6 2020,15:00,-0300,Real Noroeste ES,3-1,1-1,Aquidauanense MS,,,,2020-09-06T18:00Z
+Qualifikation,Sun Sep 13 2020,16:00,-0300,Nacional AM,1-2,0-0,Ji-Paraná RO,,,,2020-09-13T19:00Z
+Qualifikation,Sun Sep 13 2020,16:00,-0300,Aquidauanense MS,1-3,1-1,Real Noroeste ES,,,,2020-09-13T19:00Z
+Qualifikation,Sun Sep 13 2020,17:00,-0300,Ypiranga AP,0-1,0-0,Baré RR,,,,2020-09-13T20:00Z
+Qualifikation,Sun Sep 13 2020,15:00,-0300,Brasiliense DF,4-0,2-0,Tocantinópolis TO,,,,2020-09-13T18:00Z
+Gruppe A,Sat Sep 19 2020,19:00,-0300,Rio Branco AC,2-1,1-0,Independente PA,,,,2020-09-19T22:00Z
+Gruppe E,Sat Sep 19 2020,17:00,-0300,União Rondonópolis MT,0-0,0-0,Águia Negra MS,,,,2020-09-19T20:00Z
+Gruppe E,Sat Sep 19 2020,17:00,-0300,Aparecidense GO,1-2,0-2,Operário MT,,,,2020-09-19T20:00Z
+Gruppe E,Sat Sep 19 2020,18:00,-0300,Goianésia GO,2-0,1-0,Vitória ES,,,,2020-09-19T21:00Z
+Gruppe D,Sat Sep 19 2020,15:00,-0300,Jacyobá AL,2-2,0-0,Central PE,,,,2020-09-19T18:00Z
+Gruppe F,Sat Sep 19 2020,16:00,-0300,Tupynambás MG,2-1,0-0,Bahia de Feira BA,,,,2020-09-19T19:00Z
+Gruppe F,Sat Sep 19 2020,20:30,-0300,Atlético de Alagoinhas BA,0-1,0-1,Gama DF,,,,2020-09-19T23:30Z
+Gruppe C,Sat Sep 19 2020,16:00,-0300,América RN,0-0,0-0,Campinense PB,,,,2020-09-19T19:00Z
+Gruppe G,Sat Sep 19 2020,15:00,-0300,Portuguesa RJ,3-0,0-0,Toledo Esporte Clube,,,,2020-09-19T18:00Z
+Gruppe G,Sat Sep 19 2020,15:30,-0300,Nacional PR,1-4,0-1,Ferroviária SP,,,,2020-09-19T18:30Z
+Gruppe E,Sat Sep 19 2020,15:00,-0300,Real Noroeste ES,2-1,2-0,Goiânia GO,,,,2020-09-19T18:00Z
+Gruppe B,Sat Sep 19 2020,16:00,-0300,Juventude MA,4-0,1-0,Santos AP,,,,2020-09-19T19:00Z
+Gruppe H,Sat Sep 19 2020,15:00,-0300,Pelotas RS,1-0,0-0,Marcílio Dias SC,,,,2020-09-19T18:00Z
+Gruppe H,Sat Sep 19 2020,17:00,-0300,Joinville SC,1-1,0-1,Grêmio Novorizontino SP,,,,2020-09-19T20:00Z
+Gruppe H,Sat Sep 19 2020,18:00,-0300,São Caetano SP,0-1,0-0,S.E.R. Caxias RS,,,,2020-09-19T21:00Z
+Gruppe G,Sun Sep 20 2020,19:00,-0300,Mirassol SP,1-1,0-1,Bangu RJ,,,,2020-09-20T22:00Z
+Gruppe A,Sun Sep 20 2020,15:00,-0300,Bragantino PA,3-1,0-1,Vilhenense RO,,,,2020-09-20T18:00Z
+Gruppe A,Sun Sep 20 2020,16:00,-0300,Ji-Paraná RO,1-1,1-0,Atlético Acreano AC,,,,2020-09-20T19:00Z
+Gruppe A,Sun Sep 20 2020,19:00,-0300,Galvez AC,1-5,0-2,Fast Clube AM,,,,2020-09-20T22:00Z
+Gruppe B,Sun Sep 20 2020,16:00,-0300,Sinop MT,0-2,0-2,River PI,,,,2020-09-20T19:00Z
+Gruppe B,Sun Sep 20 2020,17:00,-0300,Baré RR,2-2,1-2,Moto Club MA,,,,2020-09-20T20:00Z
+Gruppe H,Sun Sep 20 2020,16:00,-0300,Tubarão SC,0-1,0-0,São Luiz RS,,,,2020-09-20T19:00Z
+Gruppe G,Sun Sep 20 2020,16:00,-0300,Cascavel FC PR,3-3,2-1,Cabofriense RJ,,,,2020-09-20T19:00Z
+Gruppe C,Sun Sep 20 2020,16:00,-0300,Afogados da Ingazeira PE,1-0,0-0,Floresta CE,,,,2020-09-20T19:00Z
+Gruppe D,Sun Sep 20 2020,16:00,-0300,Itabaiana SE,1-1,0-1,ABC RN,,,,2020-09-20T19:00Z
+Gruppe D,Sun Sep 20 2020,16:00,-0300,Vitória da Conquista BA,2-0,0-0,Coruripe AL,,,,2020-09-20T19:00Z
+Gruppe D,Sun Sep 20 2020,15:30,-0300,Potiguar de Mossoró RN,0-0,0-0,Freipaulistano SE,,,,2020-09-20T18:30Z
+Gruppe C,Sun Sep 20 2020,16:00,-0300,Atlético Cajazeirense PB,1-2,0-1,Globo RN,,,,2020-09-20T19:00Z
+Gruppe B,Sun Sep 20 2020,15:45,-0300,Altos PI,0-1,0-0,São Raimundo RR,,,,2020-09-20T18:45Z
+Gruppe F,Sun Sep 20 2020,16:00,-0300,Villa Nova MG,3-1,2-0,Palmas TO,,,,2020-09-20T19:00Z
+Gruppe F,Sun Sep 20 2020,15:00,-0300,Brasiliense DF,3-1,1-0,Caldense MG,,,,2020-09-20T18:00Z
+Gruppe A,Sat Sep 26 2020,19:00,-0300,Fast Clube AM,0-0,0-0,Rio Branco AC,,,,2020-09-26T22:00Z
+Gruppe F,Sat Sep 26 2020,16:00,-0300,Palmas TO,0-2,0-0,Tupynambás MG,,,,2020-09-26T19:00Z
+Gruppe F,Sat Sep 26 2020,17:00,-0300,Bahia de Feira BA,2-0,1-0,Villa Nova MG,,,,2020-09-26T20:00Z
+Gruppe F,Sat Sep 26 2020,17:00,-0300,Gama DF,2-1,1-0,Brasiliense DF,,,,2020-09-26T20:00Z
+Gruppe A,Sat Sep 26 2020,19:00,-0300,Atlético Acreano AC,2-2,2-0,Bragantino PA,,,,2020-09-26T22:00Z
+Gruppe C,Sat Sep 26 2020,19:00,-0300,Salgueiro PE,1-0,1-0,Atlético Cajazeirense PB,,,,2020-09-26T22:00Z
+Gruppe C,Sat Sep 26 2020,16:00,-0300,Campinense PB,2-0,1-0,Afogados da Ingazeira PE,,,,2020-09-26T19:00Z
+Gruppe C,Sat Sep 26 2020,15:30,-0300,Floresta CE,1-1,1-1,América RN,,,,2020-09-26T18:30Z
+Gruppe C,Sat Sep 26 2020,15:00,-0300,Globo RN,3-1,1-0,Guarany de Sobral CE,,,,2020-09-26T18:00Z
+Gruppe A,Sat Sep 26 2020,16:00,-0300,Vilhenense RO,1-0,0-0,Ji-Paraná RO,,,,2020-09-26T19:00Z
+Gruppe D,Sat Sep 26 2020,16:00,-0300,Coruripe AL,1-0,1-0,Potiguar de Mossoró RN,,,,2020-09-26T19:00Z
+Gruppe E,Sat Sep 26 2020,17:00,-0300,Águia Negra MS,2-2,2-2,Real Noroeste ES,,,,2020-09-26T20:00Z
+Gruppe G,Sat Sep 26 2020,15:00,-0300,Cabofriense RJ,3-1,2-1,Mirassol SP,,,,2020-09-26T18:00Z
+Gruppe G,Sat Sep 26 2020,15:00,-0300,Bangu RJ,2-0,1-0,Cascavel FC PR,,,,2020-09-26T18:00Z
+Gruppe G,Sat Sep 26 2020,18:00,-0300,Ferroviária SP,1-1,1-0,Portuguesa RJ,,,,2020-09-26T21:00Z
+Gruppe B,Sat Sep 26 2020,16:00,-0300,River PI,2-2,2-0,Baré RR,,,,2020-09-26T19:00Z
+Gruppe B,Sat Sep 26 2020,16:00,-0300,Santos AP,0-4,0-2,Altos PI,,,,2020-09-26T19:00Z
+Gruppe H,Sat Sep 26 2020,17:00,-0300,São Luiz RS,0-0,0-0,São Caetano SP,,,,2020-09-26T20:00Z
+Gruppe H,Sat Sep 26 2020,16:00,-0300,Marcílio Dias SC,0-0,0-0,Joinville SC,,,,2020-09-26T19:00Z
+Gruppe H,Sat Sep 26 2020,16:00,-0300,Grêmio Novorizontino SP,1-0,1-0,Pelotas RS,,,,2020-09-26T19:00Z
+Gruppe E,Sat Sep 26 2020,16:00,-0300,Goiânia GO,3-1,1-1,União Rondonópolis MT,,,,2020-09-26T19:00Z
+Gruppe E,Sat Sep 26 2020,16:00,-0300,Operário MT,0-2,0-0,Goianésia GO,,,,2020-09-26T19:00Z
+Gruppe E,Sat Sep 26 2020,15:00,-0300,Vitória ES,0-1,0-0,Aparecidense GO,,,,2020-09-26T18:00Z
+Gruppe F,Sat Sep 26 2020,19:30,-0300,Caldense MG,0-3,0-1,Atlético de Alagoinhas BA,,,,2020-09-26T22:30Z
+Gruppe A,Sun Sep 27 2020,16:00,-0300,Independente PA,0-2,0-1,Galvez AC,,,,2020-09-27T19:00Z
+Gruppe D,Sun Sep 27 2020,16:00,-0300,ABC RN,7-0,2-0,Jacyobá AL,,,,2020-09-27T19:00Z
+Gruppe D,Sun Sep 27 2020,16:00,-0300,Freipaulistano SE,0-1,0-1,Vitória da Conquista BA,,,,2020-09-27T19:00Z
+Gruppe G,Sun Sep 27 2020,16:00,-0300,Toledo Esporte Clube,2-3,1-3,Nacional PR,,,,2020-09-27T19:00Z
+Gruppe D,Sun Sep 27 2020,16:00,-0300,Central PE,2-2,0-1,Itabaiana SE,,,,2020-09-27T19:00Z
+Gruppe H,Sun Sep 27 2020,15:00,-0300,S.E.R. Caxias RS,2-1,1-0,Tubarão SC,,,,2020-09-27T18:00Z
+Gruppe B,Sun Sep 27 2020,17:00,-0300,São Raimundo RR,1-1,1-1,Juventude MA,,,,2020-09-27T20:00Z
+Gruppe C,Tue Sep 29 2020,20:00,-0300,América RN,0-1,0-1,Salgueiro PE,,,,2020-09-29T23:00Z
+Gruppe B,Wed Sep 30 2020,15:45,-0300,Altos PI,3-1,1-1,Moto Club MA,,,,2020-09-30T18:45Z
+Gruppe C,Wed Sep 30 2020,20:00,-0300,Afogados da Ingazeira PE,3-2,2-1,Globo RN,,,,2020-09-30T23:00Z
+Gruppe B,Wed Sep 30 2020,16:00,-0300,Sinop MT,1-2,1-0,Santos AP,,,,2020-09-30T19:00Z
+Gruppe B,Wed Sep 30 2020,21:00,-0300,Baré RR,1-0,0-0,São Raimundo RR,,,,2020-10-01T00:00Z
+Gruppe A,Wed Sep 30 2020,15:00,-0300,Bragantino PA,3-1,1-0,Fast Clube AM,,,,2020-09-30T18:00Z
+Gruppe C,Wed Sep 30 2020,15:30,-0300,Guarany de Sobral CE,1-0,0-0,Campinense PB,,,,2020-09-30T18:30Z
+Gruppe G,Wed Sep 30 2020,15:00,-0300,Portuguesa RJ,0-2,0-1,Bangu RJ,,,,2020-09-30T18:00Z
+Gruppe G,Wed Sep 30 2020,16:00,-0300,Nacional PR,1-2,0-0,Cabofriense RJ,,,,2020-09-30T19:00Z
+Gruppe F,Wed Sep 30 2020,20:30,-0300,Villa Nova MG,0-1,0-1,Gama DF,,,,2020-09-30T23:30Z
+Gruppe H,Wed Sep 30 2020,19:30,-0300,Grêmio Novorizontino SP,1-0,1-0,Tubarão SC,,,,2020-09-30T22:30Z
+Gruppe B,Wed Sep 30 2020,16:00,-0300,River PI,1-0,0-0,Juventude MA,,,,2020-09-30T19:00Z
+Gruppe D,Wed Sep 30 2020,16:00,-0300,Freipaulistano SE,3-0,1-0,Jacyobá AL,,,,2020-09-30T19:00Z
+Gruppe D,Wed Sep 30 2020,19:00,-0300,Itabaiana SE,2-0,0-0,Coruripe AL,,,,2020-09-30T22:00Z
+Gruppe E,Wed Sep 30 2020,16:00,-0300,Aparecidense GO,1-1,1-1,Goiânia GO,,,,2020-09-30T19:00Z
+Gruppe E,Wed Sep 30 2020,16:00,-0300,Operário MT,1-0,1-0,Real Noroeste ES,,,,2020-09-30T19:00Z
+Gruppe E,Wed Sep 30 2020,17:00,-0300,União Rondonópolis MT,4-1,2-1,Vitória ES,,,,2020-09-30T20:00Z
+Gruppe E,Wed Sep 30 2020,19:00,-0300,Goianésia GO,2-3,1-3,Águia Negra MS,,,,2020-09-30T22:00Z
+Gruppe A,Wed Sep 30 2020,16:00,-0300,Independente PA,1-2,1-1,Ji-Paraná RO,,,,2020-09-30T19:00Z
+Gruppe G,Wed Sep 30 2020,20:00,-0300,Mirassol SP,6-0,3-0,Toledo Esporte Clube,,,,2020-09-30T23:00Z
+Gruppe A,Wed Sep 30 2020,21:00,-0300,Galvez AC,2-1,0-0,Vilhenense RO,,,,2020-10-01T00:00Z
+Gruppe G,Wed Sep 30 2020,20:30,-0300,Ferroviária SP,0-0,0-0,Cascavel FC PR,,,,2020-09-30T23:30Z
+Gruppe F,Wed Sep 30 2020,20:30,-0300,Tupynambás MG,0-0,0-0,Caldense MG,,,,2020-09-30T23:30Z
+Gruppe D,Thu Oct 1 2020,15:30,-0300,Potiguar de Mossoró RN,0-0,0-0,Central PE,,,,2020-10-01T18:30Z
+Gruppe H,Thu Oct 1 2020,19:00,-0300,Joinville SC,2-0,0-0,São Luiz RS,,,,2020-10-01T22:00Z
+Gruppe H,Thu Oct 1 2020,15:00,-0300,Pelotas RS,1-2,0-1,S.E.R. Caxias RS,,,,2020-10-01T18:00Z
+Gruppe C,Thu Oct 1 2020,15:30,-0300,Floresta CE,1-0,1-0,Atlético Cajazeirense PB,,,,2020-10-01T18:30Z
+Gruppe F,Thu Oct 1 2020,19:00,-0300,Atlético de Alagoinhas BA,3-0,1-0,Palmas TO,,,,2020-10-01T22:00Z
+Gruppe F,Thu Oct 1 2020,19:00,-0300,Bahia de Feira BA,1-1,1-1,Brasiliense DF,,,,2020-10-01T22:00Z
+Gruppe A,Thu Oct 1 2020,22:00,-0300,Rio Branco AC,0-0,0-0,Atlético Acreano AC,,,,2020-10-02T01:00Z
+Gruppe D,Thu Oct 1 2020,20:00,-0300,Vitória da Conquista BA,0-3,0-1,ABC RN,,,,2020-10-01T23:00Z
+Gruppe C,Sat Oct 3 2020,16:00,-0300,América RN,3-1,0-0,Afogados da Ingazeira PE,,,,2020-10-03T19:00Z
+Gruppe C,Sat Oct 3 2020,19:00,-0300,Salgueiro PE,0-0,0-0,Globo RN,,,,2020-10-03T22:00Z
+Gruppe H,Sat Oct 3 2020,16:00,-0300,Tubarão SC,3-0,1-0,São Caetano SP,,,,2020-10-03T19:00Z
+Gruppe D,Sat Oct 3 2020,16:00,-0300,Coruripe AL,1-0,1-0,Freipaulistano SE,,,,2020-10-03T19:00Z
+Gruppe G,Sat Oct 3 2020,15:00,-0300,Portuguesa RJ,3-1,1-0,Nacional PR,,,,2020-10-03T18:00Z
+Gruppe G,Sat Oct 3 2020,15:00,-0300,Bangu RJ,2-2,2-1,Cabofriense RJ,,,,2020-10-03T18:00Z
+Gruppe D,Sat Oct 3 2020,16:00,-0300,Jacyobá AL,2-2,0-1,Itabaiana SE,,,,2020-10-03T19:00Z
+Gruppe E,Sat Oct 3 2020,19:00,-0300,Águia Negra MS,1-1,0-0,Goiânia GO,,,,2020-10-03T22:00Z
+Gruppe F,Sat Oct 3 2020,16:00,-0300,Gama DF,5-0,1-0,Caldense MG,,,,2020-10-03T19:00Z
+Gruppe B,Sat Oct 3 2020,17:00,-0300,Baré RR,2-3,0-1,Sinop MT,,,,2020-10-03T20:00Z
+Gruppe B,Sat Oct 3 2020,15:30,-0300,Moto Club MA,2-0,0-0,River PI,,,,2020-10-03T18:30Z
+Gruppe B,Sat Oct 3 2020,15:30,-0300,Juventude MA,1-2,0-2,Altos PI,,,,2020-10-03T18:30Z
+Gruppe E,Sat Oct 3 2020,15:00,-0300,Vitória ES,2-1,0-0,Operário MT,,,,2020-10-03T18:00Z
+Gruppe H,Sat Oct 3 2020,16:00,-0300,Marcílio Dias SC,0-0,0-0,Grêmio Novorizontino SP,,,,2020-10-03T19:00Z
+Gruppe G,Sun Oct 4 2020,16:00,-0300,Cascavel FC PR,0-0,0-0,Mirassol SP,,,,2020-10-04T19:00Z
+Gruppe G,Sun Oct 4 2020,16:00,-0300,Toledo Esporte Clube,2-6,1-2,Ferroviária SP,,,,2020-10-04T19:00Z
+Gruppe A,Sun Oct 4 2020,16:00,-0300,Ji-Paraná RO,4-0,1-0,Bragantino PA,,,,2020-10-04T19:00Z
+Gruppe A,Sun Oct 4 2020,18:00,-0300,Vilhenense RO,1-1,0-0,Atlético Acreano AC,,,,2020-10-04T21:00Z
+Gruppe A,Sun Oct 4 2020,19:00,-0300,Fast Clube AM,4-0,1-0,Independente PA,,,,2020-10-04T22:00Z
+Gruppe B,Sun Oct 4 2020,17:00,-0300,São Raimundo RR,2-0,1-0,Santos AP,,,,2020-10-04T20:00Z
+Gruppe H,Sun Oct 4 2020,15:00,-0300,S.E.R. Caxias RS,1-2,0-1,São Luiz RS,,,,2020-10-04T18:00Z
+Gruppe H,Sun Oct 4 2020,15:00,-0300,Pelotas RS,1-0,0-0,Joinville SC,,,,2020-10-04T18:00Z
+Gruppe F,Sun Oct 4 2020,15:00,-0300,Brasiliense DF,1-1,0-0,Atlético de Alagoinhas BA,,,,2020-10-04T18:00Z
+Gruppe F,Sun Oct 4 2020,16:00,-0300,Villa Nova MG,2-2,0-1,Tupynambás MG,,,,2020-10-04T19:00Z
+Gruppe F,Sun Oct 4 2020,16:00,-0300,Palmas TO,0-1,0-0,Bahia de Feira BA,,,,2020-10-04T19:00Z
+Gruppe E,Sun Oct 4 2020,15:00,-0300,Real Noroeste ES,2-1,0-1,União Rondonópolis MT,,,,2020-10-04T18:00Z
+Gruppe E,Sun Oct 4 2020,18:00,-0300,Goianésia GO,1-1,0-1,Aparecidense GO,,,,2020-10-04T21:00Z
+Gruppe D,Sun Oct 4 2020,16:00,-0300,Vitória da Conquista BA,2-4,2-0,Potiguar de Mossoró RN,,,,2020-10-04T19:00Z
+Gruppe A,Sun Oct 4 2020,19:00,-0300,Galvez AC,0-0,0-0,Rio Branco AC,,,,2020-10-04T22:00Z
+Gruppe C,Sun Oct 4 2020,16:00,-0300,Atlético Cajazeirense PB,1-0,1-0,Guarany de Sobral CE,,,,2020-10-04T19:00Z
+Gruppe C,Sun Oct 4 2020,16:00,-0300,Campinense PB,1-1,0-0,Floresta CE,,,,2020-10-04T19:00Z
+Gruppe H,Tue Oct 6 2020,19:00,-0300,São Caetano SP,0-0,0-0,Marcílio Dias SC,,,,2020-10-06T22:00Z
+Gruppe D,Tue Oct 6 2020,20:00,-0300,ABC RN,0-0,0-0,Central PE,,,,2020-10-06T23:00Z
+Gruppe B,Thu Oct 8 2020,15:30,-0300,Moto Club MA,3-0,1-0,Sinop MT,,,,2020-10-08T18:30Z
+Gruppe C,Thu Oct 8 2020,15:30,-0300,Guarany de Sobral CE,1-1,0-1,Salgueiro PE,,,,2020-10-08T18:30Z
+Gruppe E,Fri Oct 9 2020,16:00,-0300,Goiânia GO,0-1,0-0,Goianésia GO,,,,2020-10-09T19:00Z
+Gruppe G,Sat Oct 10 2020,15:00,-0300,Cabofriense RJ,0-0,0-0,Portuguesa RJ,,,,2020-10-10T18:00Z
+Gruppe D,Sat Oct 10 2020,16:00,-0300,Jacyobá AL,0-0,0-0,Coruripe AL,,,,2020-10-10T19:00Z
+Gruppe H,Sat Oct 10 2020,17:00,-0300,São Luiz RS,0-0,0-0,Pelotas RS,,,,2020-10-10T20:00Z
+Gruppe H,Sat Oct 10 2020,17:00,-0300,Joinville SC,1-1,1-1,S.E.R. Caxias RS,,,,2020-10-10T20:00Z
+Gruppe E,Sat Oct 10 2020,17:00,-0300,União Rondonópolis MT,1-0,1-0,Operário MT,,,,2020-10-10T20:00Z
+Gruppe A,Sat Oct 10 2020,16:00,-0300,Ji-Paraná RO,0-0,0-0,Fast Clube AM,,,,2020-10-10T19:00Z
+Gruppe C,Sat Oct 10 2020,15:00,-0300,Globo RN,0-2,0-1,América RN,,,,2020-10-10T18:00Z
+Gruppe F,Sat Oct 10 2020,16:00,-0300,Brasiliense DF,5-0,1-0,Palmas TO,,,,2020-10-10T19:00Z
+Gruppe F,Sat Oct 10 2020,16:00,-0300,Tupynambás MG,1-1,1-1,Gama DF,,,,2020-10-10T19:00Z
+Gruppe F,Sat Oct 10 2020,19:30,-0300,Caldense MG,1-0,0-0,Villa Nova MG,,,,2020-10-10T22:30Z
+Gruppe F,Sat Oct 10 2020,20:30,-0300,Atlético de Alagoinhas BA,3-1,1-1,Bahia de Feira BA,,,,2020-10-10T23:30Z
+Gruppe A,Sat Oct 10 2020,19:00,-0300,Atlético Acreano AC,0-3,0-1,Galvez AC,,,,2020-10-10T22:00Z
+Gruppe E,Sat Oct 10 2020,16:00,-0300,Aparecidense GO,4-0,3-0,Águia Negra MS,,,,2020-10-10T19:00Z
+Gruppe B,Sat Oct 10 2020,16:00,-0300,Santos AP,3-0,2-0,Baré RR,,,,2020-10-10T19:00Z
+Gruppe E,Sat Oct 10 2020,15:00,-0300,Real Noroeste ES,3-2,1-2,Vitória ES,,,,2020-10-10T18:00Z
+Gruppe A,Sun Oct 11 2020,15:00,-0300,Bragantino PA,2-0,1-0,Independente PA,,,,2020-10-11T18:00Z
+Gruppe B,Sun Oct 11 2020,15:45,-0300,Altos PI,3-1,1-1,River PI,,,,2020-10-11T18:45Z
+Gruppe B,Sun Oct 11 2020,16:00,-0300,Sinop MT,1-0,0-0,São Raimundo RR,,,,2020-10-11T19:00Z
+Gruppe H,Sun Oct 11 2020,15:30,-0300,Tubarão SC,0-1,0-1,Marcílio Dias SC,,,,2020-10-11T18:30Z
+Gruppe G,Sun Oct 11 2020,19:00,-0300,Mirassol SP,1-0,1-0,Ferroviária SP,,,,2020-10-11T22:00Z
+Gruppe A,Sun Oct 11 2020,19:00,-0300,Rio Branco AC,2-1,0-0,Vilhenense RO,,,,2020-10-11T22:00Z
+Gruppe D,Sun Oct 11 2020,15:00,-0300,Central PE,1-1,0-0,Vitória da Conquista BA,,,,2020-10-11T18:00Z
+Gruppe D,Sun Oct 11 2020,15:30,-0300,Potiguar de Mossoró RN,0-0,0-0,ABC RN,,,,2020-10-11T18:30Z
+Gruppe C,Sun Oct 11 2020,16:00,-0300,Atlético Cajazeirense PB,3-0,1-0,Campinense PB,,,,2020-10-11T19:00Z
+Gruppe G,Sun Oct 11 2020,16:00,-0300,Cascavel FC PR,3-1,1-0,Toledo Esporte Clube,,,,2020-10-11T19:00Z
+Gruppe C,Sun Oct 11 2020,15:30,-0300,Guarany de Sobral CE,0-2,0-0,Floresta CE,,,,2020-10-11T18:30Z
+Gruppe G,Sun Oct 11 2020,15:30,-0300,Nacional PR,1-2,0-1,Bangu RJ,,,,2020-10-11T18:30Z
+Gruppe D,Sun Oct 11 2020,16:00,-0300,Itabaiana SE,1-1,1-0,Freipaulistano SE,,,,2020-10-11T19:00Z
+Gruppe B,Sun Oct 11 2020,15:30,-0300,Juventude MA,4-1,1-1,Moto Club MA,,,,2020-10-11T18:30Z
+Gruppe H,Wed Oct 14 2020,19:30,-0300,Grêmio Novorizontino SP,1-0,1-0,São Luiz RS,,,,2020-10-14T22:30Z
+Gruppe H,Wed Oct 14 2020,20:30,-0300,Marcílio Dias SC,1-0,0-0,S.E.R. Caxias RS,,,,2020-10-14T23:30Z
+Gruppe A,Wed Oct 14 2020,16:00,-0300,Independente PA,4-1,0-1,Atlético Acreano AC,,,,2020-10-14T19:00Z
+Gruppe A,Wed Oct 14 2020,21:00,-0300,Fast Clube AM,1-1,1-0,Vilhenense RO,,,,2020-10-15T00:00Z
+Gruppe A,Wed Oct 14 2020,22:30,-0300,Rio Branco AC,4-1,1-1,Ji-Paraná RO,,,,2020-10-15T01:30Z
+Gruppe B,Wed Oct 14 2020,15:30,-0300,Moto Club MA,1-1,0-0,São Raimundo RR,,,,2020-10-14T18:30Z
+Gruppe B,Wed Oct 14 2020,16:00,-0300,River PI,3-1,1-1,Santos AP,,,,2020-10-14T19:00Z
+Gruppe B,Wed Oct 14 2020,16:00,-0300,Sinop MT,0-2,0-1,Juventude MA,,,,2020-10-14T19:00Z
+Gruppe F,Wed Oct 14 2020,16:00,-0300,Palmas TO,0-3,0-1,Gama DF,,,,2020-10-14T19:00Z
+Gruppe B,Wed Oct 14 2020,19:30,-0300,Baré RR,2-1,2-0,Altos PI,,,,2020-10-14T22:30Z
+Gruppe F,Wed Oct 14 2020,19:00,-0300,Bahia de Feira BA,3-0,3-0,Caldense MG,,,,2020-10-14T22:00Z
+Gruppe G,Wed Oct 14 2020,19:00,-0300,Toledo Esporte Clube,1-1,0-0,Bangu RJ,,,,2020-10-14T22:00Z
+Gruppe E,Wed Oct 14 2020,15:00,-0300,Vitória ES,3-1,1-1,Águia Negra MS,,,,2020-10-14T18:00Z
+Gruppe E,Wed Oct 14 2020,16:00,-0300,Operário MT,1-1,0-0,Goiânia GO,,,,2020-10-14T19:00Z
+Gruppe E,Wed Oct 14 2020,16:00,-0300,Aparecidense GO,2-1,1-1,Real Noroeste ES,,,,2020-10-14T19:00Z
+Gruppe F,Wed Oct 14 2020,20:30,-0300,Villa Nova MG,2-1,2-0,Atlético de Alagoinhas BA,,,,2020-10-14T23:30Z
+Gruppe F,Wed Oct 14 2020,20:30,-0300,Tupynambás MG,1-4,1-0,Brasiliense DF,,,,2020-10-14T23:30Z
+Gruppe E,Wed Oct 14 2020,19:00,-0300,Goianésia GO,2-1,1-0,União Rondonópolis MT,,,,2020-10-14T22:00Z
+Gruppe D,Wed Oct 14 2020,20:30,-0300,Vitória da Conquista BA,2-1,1-0,Itabaiana SE,,,,2020-10-14T23:30Z
+Gruppe D,Wed Oct 14 2020,16:00,-0300,Coruripe AL,1-0,1-0,ABC RN,,,,2020-10-14T19:00Z
+Gruppe D,Wed Oct 14 2020,16:00,-0300,Freipaulistano SE,0-0,0-0,Central PE,,,,2020-10-14T19:00Z
+Gruppe D,Wed Oct 14 2020,15:30,-0300,Potiguar de Mossoró RN,3-2,2-0,Jacyobá AL,,,,2020-10-14T18:30Z
+Gruppe G,Wed Oct 14 2020,19:00,-0300,Ferroviária SP,3-1,1-0,Cabofriense RJ,,,,2020-10-14T22:00Z
+Gruppe C,Wed Oct 14 2020,20:00,-0300,Afogados da Ingazeira PE,3-2,1-0,Atlético Cajazeirense PB,,,,2020-10-14T23:00Z
+Gruppe C,Wed Oct 14 2020,19:00,-0300,Campinense PB,0-0,0-0,Salgueiro PE,,,,2020-10-14T22:00Z
+Gruppe C,Wed Oct 14 2020,15:30,-0300,Floresta CE,2-0,0-0,Globo RN,,,,2020-10-14T18:30Z
+Gruppe C,Wed Oct 14 2020,15:00,-0300,América RN,3-0,0-0,Guarany de Sobral CE,,,,2020-10-14T18:00Z
+Gruppe G,Wed Oct 14 2020,15:00,-0300,Portuguesa RJ,1-1,1-0,Mirassol SP,,,,2020-10-14T18:00Z
+Gruppe G,Wed Oct 14 2020,15:30,-0300,Nacional PR,0-3,0-2,Cascavel FC PR,,,,2020-10-14T18:30Z
+Gruppe H,Thu Oct 15 2020,15:00,-0300,Pelotas RS,3-1,1-0,São Caetano SP,,,,2020-10-15T18:00Z
+Gruppe H,Thu Oct 15 2020,15:00,-0300,Joinville SC,6-1,3-1,Tubarão SC,,,,2020-10-15T18:00Z
+Gruppe A,Thu Oct 15 2020,17:30,-0300,Galvez AC,0-3,0-1,Bragantino PA,,,,2020-10-15T20:30Z
+Gruppe F,Sat Oct 17 2020,20:30,-0300,Atlético de Alagoinhas BA,1-1,0-0,Tupynambás MG,,,,2020-10-17T23:30Z
+Gruppe F,Sat Oct 17 2020,19:30,-0300,Caldense MG,2-0,1-0,Palmas TO,,,,2020-10-17T22:30Z
+Gruppe D,Sat Oct 17 2020,16:30,-0300,Jacyobá AL,2-3,1-1,Vitória da Conquista BA,,,,2020-10-17T19:30Z
+Gruppe B,Sat Oct 17 2020,16:00,-0300,Santos AP,2-2,1-0,Moto Club MA,,,,2020-10-17T19:00Z
+Gruppe B,Sat Oct 17 2020,21:30,-0300,Juventude MA,1-1,1-1,Baré RR,,,,2020-10-18T00:30Z
+Gruppe G,Sat Oct 17 2020,19:00,-0300,Mirassol SP,8-0,2-0,Nacional PR,,,,2020-10-17T22:00Z
+Gruppe G,Sat Oct 17 2020,15:00,-0300,Bangu RJ,1-3,0-1,Ferroviária SP,,,,2020-10-17T18:00Z
+Gruppe E,Sat Oct 17 2020,17:00,-0300,União Rondonópolis MT,2-4,2-2,Aparecidense GO,,,,2020-10-17T20:00Z
+Gruppe F,Sat Oct 17 2020,16:00,-0300,Gama DF,3-0,1-0,Bahia de Feira BA,,,,2020-10-17T19:00Z
+Gruppe C,Sat Oct 17 2020,15:00,-0300,Globo RN,1-1,0-0,Campinense PB,,,,2020-10-17T18:00Z
+Gruppe A,Sat Oct 17 2020,19:00,-0300,Atlético Acreano AC,2-2,0-2,Fast Clube AM,,,,2020-10-17T22:00Z
+Gruppe G,Sat Oct 17 2020,15:00,-0300,Cabofriense RJ,1-0,0-0,Toledo Esporte Clube,,,,2020-10-17T18:00Z
+Gruppe C,Sat Oct 17 2020,19:00,-0300,Salgueiro PE,0-1,0-0,Floresta CE,,,,2020-10-17T22:00Z
+Gruppe A,Sun Oct 18 2020,16:00,-0300,Ji-Paraná RO,0-4,0-1,Galvez AC,,,,2020-10-18T19:00Z
+Gruppe E,Sun Oct 18 2020,15:00,-0300,Real Noroeste ES,4-1,2-0,Goianésia GO,,,,2020-10-18T18:00Z
+Gruppe D,Sun Oct 18 2020,16:00,-0300,Itabaiana SE,4-1,2-0,Potiguar de Mossoró RN,,,,2020-10-18T19:00Z
+Gruppe B,Sun Oct 18 2020,17:00,-0300,São Raimundo RR,0-0,0-0,River PI,,,,2020-10-18T20:00Z
+Gruppe B,Sun Oct 18 2020,15:45,-0300,Altos PI,2-1,1-1,Sinop MT,,,,2020-10-18T18:45Z
+Gruppe D,Sun Oct 18 2020,16:00,-0300,ABC RN,1-0,1-0,Freipaulistano SE,,,,2020-10-18T19:00Z
+Gruppe D,Sun Oct 18 2020,15:00,-0300,Central PE,4-0,1-0,Coruripe AL,,,,2020-10-18T18:00Z
+Gruppe E,Sun Oct 18 2020,19:00,-0300,Águia Negra MS,3-1,1-1,Operário MT,,,,2020-10-18T22:00Z
+Gruppe H,Sun Oct 18 2020,18:00,-0300,São Caetano SP,2-1,0-0,Joinville SC,,,,2020-10-18T21:00Z
+Gruppe H,Sun Oct 18 2020,17:00,-0300,São Luiz RS,1-1,0-0,Marcílio Dias SC,,,,2020-10-18T20:00Z
+Gruppe H,Sun Oct 18 2020,16:00,-0300,Tubarão SC,0-0,0-0,Pelotas RS,,,,2020-10-18T19:00Z
+Gruppe H,Sun Oct 18 2020,15:00,-0300,S.E.R. Caxias RS,0-1,0-0,Grêmio Novorizontino SP,,,,2020-10-18T18:00Z
+Gruppe C,Sun Oct 18 2020,16:00,-0300,Atlético Cajazeirense PB,1-2,0-2,América RN,,,,2020-10-18T19:00Z
+Gruppe C,Sun Oct 18 2020,15:00,-0300,Guarany de Sobral CE,2-0,1-0,Afogados da Ingazeira PE,,,,2020-10-18T18:00Z
+Gruppe A,Sun Oct 18 2020,18:00,-0300,Vilhenense RO,1-1,1-0,Independente PA,,,,2020-10-18T21:00Z
+Gruppe G,Sun Oct 18 2020,16:00,-0300,Cascavel FC PR,2-0,1-0,Portuguesa RJ,,,,2020-10-18T19:00Z
+Gruppe F,Mon Oct 19 2020,15:00,-0300,Brasiliense DF,1-0,0-0,Villa Nova MG,,,,2020-10-19T18:00Z
+Gruppe E,Mon Oct 19 2020,16:00,-0300,Goiânia GO,1-0,0-0,Vitória ES,,,,2020-10-19T19:00Z
+Gruppe A,Mon Oct 19 2020,15:00,-0300,Bragantino PA,2-1,0-1,Rio Branco AC,,,,2020-10-19T18:00Z
+Gruppe F,Wed Oct 21 2020,19:00,-0300,Bahia de Feira BA,0-1,0-1,Gama DF,,,,2020-10-21T22:00Z
+Gruppe D,Wed Oct 21 2020,15:30,-0300,Coruripe AL,0-2,0-0,Central PE,,,,2020-10-21T18:30Z
+Gruppe C,Wed Oct 21 2020,20:00,-0300,América RN,4-1,1-1,Atlético Cajazeirense PB,,,,2020-10-21T23:00Z
+Gruppe C,Wed Oct 21 2020,20:00,-0300,Campinense PB,4-1,3-0,Globo RN,,,,2020-10-21T23:00Z
+Gruppe C,Wed Oct 21 2020,15:30,-0300,Floresta CE,2-2,1-0,Salgueiro PE,,,,2020-10-21T18:30Z
+Gruppe D,Wed Oct 21 2020,16:00,-0300,Freipaulistano SE,0-1,0-0,ABC RN,,,,2020-10-21T19:00Z
+Gruppe G,Wed Oct 21 2020,18:00,-0300,Ferroviária SP,3-0,2-0,Bangu RJ,,,,2020-10-21T21:00Z
+Gruppe H,Wed Oct 21 2020,20:00,-0300,Joinville SC,2-1,2-0,São Caetano SP,,,,2020-10-21T23:00Z
+Gruppe H,Wed Oct 21 2020,15:00,-0300,Pelotas RS,1-1,1-0,Tubarão SC,,,,2020-10-21T18:00Z
+Gruppe A,Wed Oct 21 2020,15:00,-0300,Independente PA,2-1,0-1,Vilhenense RO,,,,2020-10-21T18:00Z
+Gruppe A,Wed Oct 21 2020,17:30,-0300,Galvez AC,3-1,1-1,Ji-Paraná RO,,,,2020-10-21T20:30Z
+Gruppe A,Wed Oct 21 2020,21:00,-0300,Fast Clube AM,1-0,1-0,Atlético Acreano AC,,,,2020-10-22T00:00Z
+Gruppe G,Wed Oct 21 2020,15:30,-0300,Toledo Esporte Clube,0-2,0-1,Cabofriense RJ,,,,2020-10-21T18:30Z
+Gruppe F,Wed Oct 21 2020,16:00,-0300,Tupynambás MG,1-2,0-2,Atlético de Alagoinhas BA,,,,2020-10-21T19:00Z
+Gruppe F,Wed Oct 21 2020,16:10,-0300,Palmas TO,1-2,0-1,Caldense MG,,,,2020-10-21T19:10Z
+Gruppe E,Wed Oct 21 2020,16:00,-0300,Aparecidense GO,4-0,0-0,União Rondonópolis MT,,,,2020-10-21T19:00Z
+Gruppe B,Wed Oct 21 2020,16:00,-0300,Sinop MT,1-2,1-1,Altos PI,,,,2020-10-21T19:00Z
+Gruppe B,Wed Oct 21 2020,16:00,-0300,River PI,1-0,0-0,São Raimundo RR,,,,2020-10-21T19:00Z
+Gruppe B,Wed Oct 21 2020,19:00,-0300,Baré RR,0-1,0-0,Juventude MA,,,,2020-10-21T22:00Z
+Gruppe B,Thu Oct 22 2020,15:30,-0300,Moto Club MA,2-0,2-0,Santos AP,,,,2020-10-22T18:30Z
+Gruppe F,Thu Oct 22 2020,19:00,-0300,Villa Nova MG,1-2,1-2,Brasiliense DF,,,,2020-10-22T22:00Z
+Gruppe A,Thu Oct 22 2020,18:00,-0300,Rio Branco AC,1-1,0-0,Bragantino PA,,,,2020-10-22T21:00Z
+Gruppe H,Thu Oct 22 2020,15:00,-0300,Grêmio Novorizontino SP,1-1,1-1,S.E.R. Caxias RS,,,,2020-10-22T18:00Z
+Gruppe E,Thu Oct 22 2020,18:00,-0300,Goianésia GO,1-1,1-0,Real Noroeste ES,,,,2020-10-22T21:00Z
+Gruppe D,Thu Oct 22 2020,20:30,-0300,Vitória da Conquista BA,3-3,2-3,Jacyobá AL,,,,2020-10-22T23:30Z
+Gruppe D,Thu Oct 22 2020,15:00,-0300,Potiguar de Mossoró RN,2-2,2-1,Itabaiana SE,,,,2020-10-22T18:00Z
+Gruppe H,Thu Oct 22 2020,17:00,-0300,Marcílio Dias SC,1-1,0-1,São Luiz RS,,,,2020-10-22T20:00Z
+Gruppe C,Thu Oct 22 2020,15:30,-0300,Afogados da Ingazeira PE,2-2,1-2,Guarany de Sobral CE,,,,2020-10-22T18:30Z
+Gruppe E,Thu Oct 22 2020,16:00,-0300,Operário MT,0-0,0-0,Águia Negra MS,,,,2020-10-22T19:00Z
+Gruppe G,Thu Oct 22 2020,15:30,-0300,Nacional PR,1-1,0-1,Mirassol SP,,,,2020-10-22T18:30Z
+Gruppe G,Thu Oct 22 2020,15:00,-0300,Portuguesa RJ,2-1,0-0,Cascavel FC PR,,,,2020-10-22T18:00Z
+Gruppe E,Thu Oct 22 2020,15:00,-0300,Vitória ES,1-2,0-2,Goiânia GO,,,,2020-10-22T18:00Z
+Gruppe G,Sat Oct 24 2020,15:00,-0300,Bangu RJ,1-0,1-0,Toledo Esporte Clube,,,,2020-10-24T18:00Z
+Gruppe C,Sat Oct 24 2020,15:00,-0300,Globo RN,1-1,0-0,Floresta CE,,,,2020-10-24T18:00Z
+Gruppe H,Sat Oct 24 2020,18:00,-0300,São Caetano SP,0-9,0-6,Pelotas RS,,,,2020-10-24T21:00Z
+Gruppe H,Sat Oct 24 2020,16:00,-0300,Tubarão SC,0-1,0-0,Joinville SC,,,,2020-10-24T19:00Z
+Gruppe F,Sat Oct 24 2020,17:00,-0300,Gama DF,6-1,2-1,Palmas TO,,,,2020-10-24T20:00Z
+Gruppe F,Sat Oct 24 2020,19:30,-0300,Caldense MG,1-0,1-0,Bahia de Feira BA,,,,2020-10-24T22:30Z
+Gruppe C,Sat Oct 24 2020,19:00,-0300,Salgueiro PE,2-0,1-0,Campinense PB,,,,2020-10-24T22:00Z
+Gruppe D,Sun Oct 25 2020,16:30,-0300,Jacyobá AL,3-7,0-3,Potiguar de Mossoró RN,,,,2020-10-25T19:30Z
+Gruppe G,Sun Oct 25 2020,15:00,-0300,Cabofriense RJ,1-0,1-0,Ferroviária SP,,,,2020-10-25T18:00Z
+Gruppe G,Sun Oct 25 2020,16:00,-0300,Cascavel FC PR,2-0,1-0,Nacional PR,,,,2020-10-25T19:00Z
+Gruppe G,Sun Oct 25 2020,19:00,-0300,Mirassol SP,1-0,0-0,Portuguesa RJ,,,,2020-10-25T22:00Z
+Gruppe B,Sun Oct 25 2020,15:30,-0300,Juventude MA,3-0,1-0,Sinop MT,,,,2020-10-25T18:30Z
+Gruppe B,Sun Oct 25 2020,15:45,-0300,Altos PI,2-1,2-0,Baré RR,,,,2020-10-25T18:45Z
+Gruppe B,Sun Oct 25 2020,17:00,-0300,Santos AP,0-3,0-2,River PI,,,,2020-10-25T20:00Z
+Gruppe B,Sun Oct 25 2020,17:00,-0300,São Raimundo RR,0-2,0-1,Moto Club MA,,,,2020-10-25T20:00Z
+Gruppe D,Sun Oct 25 2020,15:00,-0300,Central PE,1-0,0-0,Freipaulistano SE,,,,2020-10-25T18:00Z
+Gruppe H,Sun Oct 25 2020,17:00,-0300,São Luiz RS,1-2,0-2,Grêmio Novorizontino SP,,,,2020-10-25T20:00Z
+Gruppe F,Sun Oct 25 2020,15:00,-0300,Brasiliense DF,2-1,0-0,Tupynambás MG,,,,2020-10-25T18:00Z
+Gruppe C,Sun Oct 25 2020,16:00,-0300,Atlético Cajazeirense PB,2-0,1-0,Afogados da Ingazeira PE,,,,2020-10-25T19:00Z
+Gruppe E,Sun Oct 25 2020,19:00,-0300,Águia Negra MS,2-1,2-0,Vitória ES,,,,2020-10-25T22:00Z
+Gruppe A,Sun Oct 25 2020,21:00,-0300,Atlético Acreano AC,3-3,1-1,Independente PA,,,,2020-10-26T00:00Z
+Gruppe A,Sun Oct 25 2020,16:00,-0300,Ji-Paraná RO,1-2,0-1,Rio Branco AC,,,,2020-10-25T19:00Z
+Gruppe A,Sun Oct 25 2020,16:00,-0300,Vilhenense RO,1-4,0-1,Fast Clube AM,,,,2020-10-25T19:00Z
+Gruppe A,Sun Oct 25 2020,15:00,-0300,Bragantino PA,2-0,1-0,Galvez AC,,,,2020-10-25T18:00Z
+Gruppe E,Sun Oct 25 2020,16:00,-0300,União Rondonópolis MT,0-3,0-2,Goianésia GO,,,,2020-10-25T19:00Z
+Gruppe E,Sun Oct 25 2020,15:00,-0300,Real Noroeste ES,0-0,0-0,Aparecidense GO,,,,2020-10-25T18:00Z
+Gruppe H,Sun Oct 25 2020,15:00,-0300,S.E.R. Caxias RS,2-2,1-0,Marcílio Dias SC,,,,2020-10-25T18:00Z
+Gruppe D,Mon Oct 26 2020,15:00,-0300,ABC RN,0-0,0-0,Coruripe AL,,,,2020-10-26T18:00Z
+Gruppe D,Mon Oct 26 2020,15:30,-0300,Itabaiana SE,3-2,0-2,Vitória da Conquista BA,,,,2020-10-26T18:30Z
+Gruppe F,Mon Oct 26 2020,16:00,-0300,Atlético de Alagoinhas BA,5-0,1-0,Villa Nova MG,,,,2020-10-26T19:00Z
+Gruppe C,Tue Oct 27 2020,15:00,-0300,Guarany de Sobral CE,1-3,1-3,América RN,,,,2020-10-27T18:00Z
+Gruppe H,Wed Oct 28 2020,20:00,-0300,São Caetano SP,0-1,0-1,Grêmio Novorizontino SP,,,,2020-10-28T23:00Z
+Gruppe C,Wed Oct 28 2020,16:00,-0300,Afogados da Ingazeira PE,0-3,0-2,Salgueiro PE,,,,2020-10-28T19:00Z
+Gruppe H,Sat Oct 31 2020,15:00,-0300,Pelotas RS,1-2,1-1,São Luiz RS,,,,2020-10-31T18:00Z
+Gruppe G,Sat Oct 31 2020,15:00,-0300,Portuguesa RJ,2-2,0-0,Cabofriense RJ,,,,2020-10-31T18:00Z
+Gruppe E,Sat Oct 31 2020,15:00,-0300,Vitória ES,1-1,1-1,Real Noroeste ES,,,,2020-10-31T18:00Z
+Gruppe E,Sat Oct 31 2020,16:00,-0300,Operário MT,2-2,0-0,União Rondonópolis MT,,,,2020-10-31T19:00Z
+Gruppe E,Sat Oct 31 2020,19:00,-0300,Águia Negra MS,0-1,0-0,Aparecidense GO,,,,2020-10-31T22:00Z
+Gruppe B,Sat Oct 31 2020,15:30,-0300,Moto Club MA,2-0,1-0,Juventude MA,,,,2020-10-31T18:30Z
+Gruppe B,Sat Oct 31 2020,19:30,-0300,São Raimundo RR,1-0,1-0,Sinop MT,,,,2020-10-31T22:30Z
+Gruppe H,Sat Oct 31 2020,16:00,-0300,Marcílio Dias SC,3-0,0-0,Tubarão SC,,,,2020-10-31T19:00Z
+Gruppe C,Sat Oct 31 2020,16:00,-0300,Campinense PB,2-1,0-0,Atlético Cajazeirense PB,,,,2020-10-31T19:00Z
+Gruppe C,Sat Oct 31 2020,15:30,-0300,Floresta CE,1-1,0-1,Guarany de Sobral CE,,,,2020-10-31T18:30Z
+Gruppe C,Sat Oct 31 2020,15:00,-0300,América RN,0-0,0-0,Globo RN,,,,2020-10-31T18:00Z
+Gruppe H,Sat Oct 31 2020,16:00,-0300,S.E.R. Caxias RS,1-0,0-0,Joinville SC,,,,2020-10-31T19:00Z
+Gruppe D,Sat Oct 31 2020,16:00,-0300,Vitória da Conquista BA,1-1,1-0,Central PE,,,,2020-10-31T19:00Z
+Gruppe F,Sat Oct 31 2020,17:00,-0300,Bahia de Feira BA,3-3,1-3,Atlético de Alagoinhas BA,,,,2020-10-31T20:00Z
+Gruppe F,Sat Oct 31 2020,17:00,-0300,Gama DF,1-3,1-1,Tupynambás MG,,,,2020-10-31T20:00Z
+Gruppe A,Sat Oct 31 2020,19:00,-0300,Fast Clube AM,3-2,1-1,Ji-Paraná RO,,,,2020-10-31T22:00Z
+Gruppe A,Sat Oct 31 2020,17:30,-0300,Galvez AC,2-0,1-0,Atlético Acreano AC,,,,2020-10-31T20:30Z
+Gruppe A,Sat Oct 31 2020,16:00,-0300,Vilhenense RO,0-0,0-0,Rio Branco AC,,,,2020-10-31T19:00Z
+Gruppe B,Sun Nov 1 2020,16:00,-0300,River PI,1-2,0-1,Altos PI,,,,2020-11-01T19:00Z
+Gruppe D,Sun Nov 1 2020,16:00,-0300,Freipaulistano SE,1-2,1-1,Itabaiana SE,,,,2020-11-01T19:00Z
+Gruppe G,Sun Nov 1 2020,15:00,-0300,Bangu RJ,0-0,0-0,Nacional PR,,,,2020-11-01T18:00Z
+Gruppe G,Sun Nov 1 2020,15:30,-0300,Toledo Esporte Clube,1-3,0-1,Cascavel FC PR,,,,2020-11-01T18:30Z
+Gruppe F,Sun Nov 1 2020,16:00,-0300,Palmas TO,0-3,0-2,Brasiliense DF,,,,2020-11-01T19:00Z
+Gruppe A,Sun Nov 1 2020,16:00,-0300,Independente PA,3-2,1-0,Bragantino PA,,,,2020-11-01T19:00Z
+Gruppe H,Sun Nov 1 2020,16:00,-0300,Grêmio Novorizontino SP,2-0,1-0,São Caetano SP,,,,2020-11-01T19:00Z
+Gruppe C,Sun Nov 1 2020,19:00,-0300,Salgueiro PE,3-1,2-1,Afogados da Ingazeira PE,,,,2020-11-01T22:00Z
+Gruppe E,Sun Nov 1 2020,16:00,-0300,Goianésia GO,1-1,0-1,Goiânia GO,,,,2020-11-01T19:00Z
+Gruppe B,Sun Nov 1 2020,17:00,-0300,Baré RR,0-0,0-0,Santos AP,,,,2020-11-01T20:00Z
+Gruppe D,Sun Nov 1 2020,15:00,-0300,Coruripe AL,3-1,2-1,Jacyobá AL,,,,2020-11-01T18:00Z
+Gruppe D,Sun Nov 1 2020,16:00,-0300,ABC RN,3-1,1-0,Potiguar de Mossoró RN,,,,2020-11-01T19:00Z
+Gruppe F,Sun Nov 1 2020,16:00,-0300,Villa Nova MG,1-1,1-1,Caldense MG,,,,2020-11-01T19:00Z
+Gruppe G,Mon Nov 2 2020,15:00,-0300,Ferroviária SP,1-0,0-0,Mirassol SP,,,,2020-11-02T18:00Z
+Gruppe E,Wed Nov 4 2020,18:00,-0300,Goiânia GO,2-1,2-1,Operário MT,,,,2020-11-04T21:00Z
+Gruppe F,Sat Nov 7 2020,16:00,-0300,Tupynambás MG,1-1,0-0,Villa Nova MG,,,,2020-11-07T19:00Z
+Gruppe G,Sat Nov 7 2020,18:00,-0300,Ferroviária SP,5-1,3-0,Toledo Esporte Clube,,,,2020-11-07T21:00Z
+Gruppe F,Sat Nov 7 2020,20:30,-0300,Atlético de Alagoinhas BA,0-3,0-1,Brasiliense DF,,,,2020-11-07T23:30Z
+Gruppe G,Sat Nov 7 2020,15:30,-0300,Nacional PR,0-5,0-3,Portuguesa RJ,,,,2020-11-07T18:30Z
+Gruppe C,Sat Nov 7 2020,19:00,-0300,Afogados da Ingazeira PE,0-4,0-2,América RN,,,,2020-11-07T22:00Z
+Gruppe G,Sat Nov 7 2020,15:00,-0300,Cabofriense RJ,2-1,1-0,Bangu RJ,,,,2020-11-07T18:00Z
+Gruppe D,Sat Nov 7 2020,16:00,-0300,Freipaulistano SE,1-1,0-0,Coruripe AL,,,,2020-11-07T19:00Z
+Gruppe E,Sat Nov 7 2020,16:00,-0300,União Rondonópolis MT,2-0,2-0,Real Noroeste ES,,,,2020-11-07T19:00Z
+Gruppe E,Sat Nov 7 2020,16:00,-0300,Aparecidense GO,1-1,1-0,Goianésia GO,,,,2020-11-07T19:00Z
+Gruppe C,Sat Nov 7 2020,15:30,-0300,Floresta CE,2-1,0-0,Campinense PB,,,,2020-11-07T18:30Z
+Gruppe A,Sat Nov 7 2020,18:00,-0300,Rio Branco AC,1-1,0-0,Galvez AC,,,,2020-11-07T21:00Z
+Gruppe A,Sat Nov 7 2020,16:00,-0300,Independente PA,1-0,1-0,Fast Clube AM,,,,2020-11-07T19:00Z
+Gruppe H,Sat Nov 7 2020,16:00,-0300,Grêmio Novorizontino SP,1-0,1-0,Marcílio Dias SC,,,,2020-11-07T19:00Z
+Gruppe H,Sat Nov 7 2020,17:00,-0300,Joinville SC,0-0,0-0,Pelotas RS,,,,2020-11-07T20:00Z
+Gruppe H,Sat Nov 7 2020,18:00,-0300,São Caetano SP,1-1,1-1,Tubarão SC,,,,2020-11-07T21:00Z
+Gruppe C,Sat Nov 7 2020,15:00,-0300,Globo RN,1-1,1-0,Salgueiro PE,,,,2020-11-07T18:00Z
+Gruppe F,Sat Nov 7 2020,17:00,-0300,Bahia de Feira BA,5-0,3-0,Palmas TO,,,,2020-11-07T20:00Z
+Gruppe B,Sat Nov 7 2020,16:00,-0300,River PI,2-1,0-0,Moto Club MA,,,,2020-11-07T19:00Z
+Gruppe F,Sun Nov 8 2020,19:30,-0300,Caldense MG,0-0,0-0,Gama DF,,,,2020-11-08T22:30Z
+Gruppe G,Sun Nov 8 2020,19:00,-0300,Mirassol SP,5-2,1-0,Cascavel FC PR,,,,2020-11-08T22:00Z
+Gruppe C,Sun Nov 8 2020,15:30,-0300,Guarany de Sobral CE,0-1,0-1,Atlético Cajazeirense PB,,,,2020-11-08T18:30Z
+Gruppe A,Sun Nov 8 2020,18:00,-0300,Atlético Acreano AC,2-2,1-0,Vilhenense RO,,,,2020-11-08T21:00Z
+Gruppe A,Sun Nov 8 2020,15:00,-0300,Bragantino PA,0-0,0-0,Ji-Paraná RO,,,,2020-11-08T18:00Z
+Gruppe D,Sun Nov 8 2020,16:00,-0300,Itabaiana SE,7-0,5-0,Jacyobá AL,,,,2020-11-08T19:00Z
+Gruppe D,Sun Nov 8 2020,15:00,-0300,Central PE,0-0,0-0,ABC RN,,,,2020-11-08T18:00Z
+Gruppe D,Sun Nov 8 2020,15:00,-0300,Potiguar de Mossoró RN,1-1,0-0,Vitória da Conquista BA,,,,2020-11-08T18:00Z
+Gruppe E,Sun Nov 8 2020,16:00,-0300,Operário MT,0-1,0-1,Vitória ES,,,,2020-11-08T19:00Z
+Gruppe B,Sun Nov 8 2020,15:45,-0300,Altos PI,3-1,3-0,Juventude MA,,,,2020-11-08T18:45Z
+Gruppe B,Sun Nov 8 2020,16:00,-0300,Sinop MT,2-3,1-1,Baré RR,,,,2020-11-08T19:00Z
+Gruppe E,Mon Nov 9 2020,15:00,-0300,Goiânia GO,4-0,2-0,Águia Negra MS,,,,2020-11-09T18:00Z
+Gruppe H,Mon Nov 9 2020,15:00,-0300,São Luiz RS,0-0,0-0,S.E.R. Caxias RS,,,,2020-11-09T18:00Z
+Gruppe D,Wed Nov 11 2020,15:30,-0300,ABC RN,1-3,0-1,Vitória da Conquista BA,,,,2020-11-11T18:30Z
+Gruppe G,Fri Nov 13 2020,15:00,-0300,Cabofriense RJ,7-0,4-0,Nacional PR,,,,2020-11-13T18:00Z
+Gruppe G,Fri Nov 13 2020,16:00,-0300,Cascavel FC PR,1-2,0-1,Ferroviária SP,,,,2020-11-13T19:00Z
+Gruppe D,Fri Nov 13 2020,15:00,-0300,Coruripe AL,2-0,2-0,Itabaiana SE,,,,2020-11-13T18:00Z
+Gruppe E,Fri Nov 13 2020,15:00,-0300,Vitória ES,3-0,1-0,União Rondonópolis MT,,,,2020-11-13T18:00Z
+Gruppe B,Fri Nov 13 2020,17:00,-0300,São Raimundo RR,6-0,4-0,Baré RR,,,,2020-11-13T20:00Z
+Gruppe C,Fri Nov 13 2020,16:00,-0300,Atlético Cajazeirense PB,2-2,1-0,Floresta CE,,,,2020-11-13T19:00Z
+Gruppe D,Fri Nov 13 2020,15:00,-0300,Central PE,2-2,0-1,Potiguar de Mossoró RN,,,,2020-11-13T18:00Z
+Gruppe A,Fri Nov 13 2020,19:00,-0300,Atlético Acreano AC,1-2,0-2,Rio Branco AC,,,,2020-11-13T22:00Z
+Gruppe F,Fri Nov 13 2020,19:30,-0300,Caldense MG,1-2,1-0,Tupynambás MG,,,,2020-11-13T22:30Z
+Gruppe E,Fri Nov 13 2020,18:00,-0300,Goiânia GO,2-1,0-0,Aparecidense GO,,,,2020-11-13T21:00Z
+Gruppe F,Fri Nov 13 2020,15:00,-0300,Gama DF,3-0,2-0,Villa Nova MG,,,,2020-11-13T18:00Z
+Gruppe H,Fri Nov 13 2020,16:00,-0300,S.E.R. Caxias RS,0-0,0-0,Pelotas RS,,,,2020-11-13T19:00Z
+Gruppe D,Fri Nov 13 2020,15:00,-0300,Jacyobá AL,2-5,0-4,Freipaulistano SE,,,,2020-11-13T18:00Z
+Gruppe C,Fri Nov 13 2020,15:00,-0300,Globo RN,2-1,0-1,Afogados da Ingazeira PE,,,,2020-11-13T18:00Z
+Gruppe C,Fri Nov 13 2020,16:00,-0300,Campinense PB,1-1,1-1,Guarany de Sobral CE,,,,2020-11-13T19:00Z
+Gruppe B,Fri Nov 13 2020,15:30,-0300,Moto Club MA,2-1,0-1,Altos PI,,,,2020-11-13T18:30Z
+Gruppe A,Fri Nov 13 2020,16:00,-0300,Ji-Paraná RO,1-0,0-0,Independente PA,,,,2020-11-13T19:00Z
+Gruppe H,Fri Nov 13 2020,16:00,-0300,Tubarão SC,0-2,0-2,Grêmio Novorizontino SP,,,,2020-11-13T19:00Z
+Gruppe F,Fri Nov 13 2020,16:00,-0300,Palmas TO,1-2,0-1,Atlético de Alagoinhas BA,,,,2020-11-13T19:00Z
+Gruppe C,Sat Nov 14 2020,16:00,-0300,Salgueiro PE,1-0,1-0,América RN,,,,2020-11-14T19:00Z
+Gruppe H,Sat Nov 14 2020,17:00,-0300,São Luiz RS,2-1,1-1,Joinville SC,,,,2020-11-14T20:00Z
+Gruppe B,Sat Nov 14 2020,15:30,-0300,Juventude MA,0-1,0-0,River PI,,,,2020-11-14T18:30Z
+Gruppe E,Sat Nov 14 2020,19:00,-0300,Águia Negra MS,3-1,1-1,Goianésia GO,,,,2020-11-14T22:00Z
+Gruppe E,Sat Nov 14 2020,15:00,-0300,Real Noroeste ES,1-2,0-2,Operário MT,,,,2020-11-14T18:00Z
+Gruppe F,Sat Nov 14 2020,15:00,-0300,Brasiliense DF,1-1,0-0,Bahia de Feira BA,,,,2020-11-14T18:00Z
+Gruppe A,Sat Nov 14 2020,16:00,-0300,Fast Clube AM,2-1,1-0,Bragantino PA,,,,2020-11-14T19:00Z
+Gruppe A,Sat Nov 14 2020,16:00,-0300,Vilhenense RO,4-0,3-0,Galvez AC,,,,2020-11-14T19:00Z
+Gruppe G,Sat Nov 14 2020,15:30,-0300,Toledo Esporte Clube,0-4,0-1,Mirassol SP,,,,2020-11-14T18:30Z
+Gruppe H,Sat Nov 14 2020,16:00,-0300,Marcílio Dias SC,3-0 (*),,São Caetano SP,,,awd.,2020-11-14T19:00Z
+Gruppe G,Sat Nov 14 2020,15:00,-0300,Bangu RJ,0-3,0-0,Portuguesa RJ,,,,2020-11-14T18:00Z
+Gruppe B,Tue Nov 17 2020,15:00,-0300,Santos AP,3-0,2-0,Sinop MT,,,,2020-11-17T18:00Z
+Gruppe B,Fri Nov 20 2020,15:00,-0300,Santos AP,0-1,0-1,São Raimundo RR,,,,2020-11-20T18:00Z
+Gruppe G,Sat Nov 21 2020,15:00,-0300,Portuguesa RJ,0-0,0-0,Ferroviária SP,,,,2020-11-21T18:00Z
+Gruppe G,Sat Nov 21 2020,15:30,-0300,Nacional PR,1-4,0-4,Toledo Esporte Clube,,,,2020-11-21T18:30Z
+Gruppe C,Sat Nov 21 2020,19:00,-0300,Afogados da Ingazeira PE,2-1,1-0,Campinense PB,,,,2020-11-21T22:00Z
+Gruppe H,Sat Nov 21 2020,15:00,-0300,Pelotas RS,4-3,0-0,Grêmio Novorizontino SP,,,,2020-11-21T18:00Z
+Gruppe H,Sat Nov 21 2020,15:00,-0300,Tubarão SC,1-1,1-0,S.E.R. Caxias RS,,,,2020-11-21T18:00Z
+Gruppe H,Sat Nov 21 2020,17:00,-0300,Joinville SC,2-1,0-1,Marcílio Dias SC,,,,2020-11-21T20:00Z
+Gruppe H,Sat Nov 21 2020,18:00,-0300,São Caetano SP,0-3,0-3,São Luiz RS,,,,2020-11-21T21:00Z
+Gruppe D,Sat Nov 21 2020,15:00,-0300,Jacyobá AL,0-6,0-5,ABC RN,,,,2020-11-21T18:00Z
+Gruppe F,Sat Nov 21 2020,20:30,-0300,Atlético de Alagoinhas BA,1-0,0-0,Caldense MG,,,,2020-11-21T23:30Z
+Gruppe F,Sat Nov 21 2020,16:00,-0300,Tupynambás MG,1-0,0-0,Palmas TO,,,,2020-11-21T19:00Z
+Gruppe F,Sat Nov 21 2020,16:00,-0300,Brasiliense DF,3-0,2-0,Gama DF,,,,2020-11-21T19:00Z
+Gruppe E,Sat Nov 21 2020,15:00,-0300,Real Noroeste ES,3-1,1-0,Águia Negra MS,,,,2020-11-21T18:00Z
+Gruppe E,Sat Nov 21 2020,16:00,-0300,Aparecidense GO,4-2,3-1,Vitória ES,,,,2020-11-21T19:00Z
+Gruppe A,Sat Nov 21 2020,17:30,-0300,Galvez AC,7-1,3-0,Independente PA,,,,2020-11-21T20:30Z
+Gruppe A,Sat Nov 21 2020,16:00,-0300,Ji-Paraná RO,1-0,0-0,Vilhenense RO,,,,2020-11-21T19:00Z
+Gruppe E,Sat Nov 21 2020,16:00,-0300,União Rondonópolis MT,1-2,0-0,Goiânia GO,,,,2020-11-21T19:00Z
+Gruppe G,Sun Nov 22 2020,19:00,-0300,Mirassol SP,2-0,1-0,Cabofriense RJ,,,,2020-11-22T22:00Z
+Gruppe B,Sun Nov 22 2020,16:00,-0300,Sinop MT,0-0,0-0,Moto Club MA,,,,2020-11-22T19:00Z
+Gruppe C,Sun Nov 22 2020,15:30,-0300,Guarany de Sobral CE,0-0,0-0,Globo RN,,,,2020-11-22T18:30Z
+Gruppe A,Sun Nov 22 2020,18:00,-0300,Rio Branco AC,0-2,0-1,Fast Clube AM,,,,2020-11-22T21:00Z
+Gruppe C,Sun Nov 22 2020,15:00,-0300,América RN,2-1,1-0,Floresta CE,,,,2020-11-22T18:00Z
+Gruppe D,Sun Nov 22 2020,16:00,-0300,Itabaiana SE,2-1,1-0,Central PE,,,,2020-11-22T19:00Z
+Gruppe F,Sun Nov 22 2020,16:00,-0300,Villa Nova MG,0-2,0-1,Bahia de Feira BA,,,,2020-11-22T19:00Z
+Gruppe E,Sun Nov 22 2020,16:00,-0300,Goianésia GO,2-0,0-0,Operário MT,,,,2020-11-22T19:00Z
+Gruppe D,Sun Nov 22 2020,16:00,-0300,Vitória da Conquista BA,3-0,0-0,Freipaulistano SE,,,,2020-11-22T19:00Z
+Gruppe G,Sun Nov 22 2020,16:00,-0300,Cascavel FC PR,3-0,2-0,Bangu RJ,,,,2020-11-22T19:00Z
+Gruppe C,Sun Nov 22 2020,16:00,-0300,Atlético Cajazeirense PB,2-1,0-0,Salgueiro PE,,,,2020-11-22T19:00Z
+Gruppe B,Mon Nov 23 2020,15:45,-0300,Altos PI,2-0,2-0,Santos AP,,,,2020-11-23T18:45Z
+Gruppe B,Mon Nov 23 2020,17:00,-0300,Baré RR,1-3,0-0,River PI,,,,2020-11-23T20:00Z
+Gruppe A,Mon Nov 23 2020,15:00,-0300,Bragantino PA,4-0,1-0,Atlético Acreano AC,,,,2020-11-23T18:00Z
+Gruppe D,Mon Nov 23 2020,15:00,-0300,Potiguar de Mossoró RN,5-3,2-3,Coruripe AL,,,,2020-11-23T18:00Z
+Gruppe B,Tue Nov 24 2020,15:30,-0300,Juventude MA,1-0,1-0,São Raimundo RR,,,,2020-11-24T18:30Z
+Gruppe D,Fri Nov 27 2020,15:00,-0300,Coruripe AL,1-0,1-0,Vitória da Conquista BA,,,,2020-11-27T18:00Z
+Gruppe F,Fri Nov 27 2020,16:00,-0300,Bahia de Feira BA,0-1,0-1,Tupynambás MG,,,,2020-11-27T19:00Z
+Gruppe C,Fri Nov 27 2020,15:00,-0300,Floresta CE,5-1,1-1,Afogados da Ingazeira PE,,,,2020-11-27T18:00Z
+Gruppe F,Fri Nov 27 2020,16:00,-0300,Gama DF,2-1,2-1,Atlético de Alagoinhas BA,,,,2020-11-27T19:00Z
+Gruppe C,Fri Nov 27 2020,15:00,-0300,Salgueiro PE,2-0,0-0,Guarany de Sobral CE,,,,2020-11-27T18:00Z
+Gruppe F,Fri Nov 27 2020,16:00,-0300,Caldense MG,1-2,1-1,Brasiliense DF,,,,2020-11-27T19:00Z
+Gruppe F,Fri Nov 27 2020,16:00,-0300,Palmas TO,0-1,0-0,Villa Nova MG,,,,2020-11-27T19:00Z
+Gruppe C,Fri Nov 27 2020,15:00,-0300,Campinense PB,0-0,0-0,América RN,,,,2020-11-27T18:00Z
+Gruppe D,Fri Nov 27 2020,15:00,-0300,Central PE,3-0,1-0,Jacyobá AL,,,,2020-11-27T18:00Z
+Gruppe D,Fri Nov 27 2020,15:00,-0300,Freipaulistano SE,1-1,0-1,Potiguar de Mossoró RN,,,,2020-11-27T18:00Z
+Gruppe D,Fri Nov 27 2020,15:00,-0300,ABC RN,2-0,1-0,Itabaiana SE,,,,2020-11-27T18:00Z
+Gruppe C,Fri Nov 27 2020,15:00,-0300,Globo RN,3-0,0-0,Atlético Cajazeirense PB,,,,2020-11-27T18:00Z
+Gruppe A,Sat Nov 28 2020,16:00,-0300,Vilhenense RO,0-3,0-2,Bragantino PA,,,,2020-11-28T19:00Z
+Gruppe A,Sat Nov 28 2020,16:00,-0300,Fast Clube AM,1-1,0-1,Galvez AC,,,,2020-11-28T19:00Z
+Gruppe A,Sat Nov 28 2020,16:00,-0300,Independente PA,3-2,0-2,Rio Branco AC,,,,2020-11-28T19:00Z
+Gruppe G,Sat Nov 28 2020,15:00,-0300,Bangu RJ,0-0,0-0,Mirassol SP,,,,2020-11-28T18:00Z
+Gruppe G,Sat Nov 28 2020,15:00,-0300,Ferroviária SP,2-0,1-0,Nacional PR,,,,2020-11-28T18:00Z
+Gruppe G,Sat Nov 28 2020,15:00,-0300,Cabofriense RJ,0-1,0-0,Cascavel FC PR,,,,2020-11-28T18:00Z
+Gruppe G,Sat Nov 28 2020,15:00,-0300,Toledo Esporte Clube,0-1,0-1,Portuguesa RJ,,,,2020-11-28T18:00Z
+Gruppe A,Sat Nov 28 2020,18:00,-0300,Atlético Acreano AC,2-2,0-1,Ji-Paraná RO,,,,2020-11-28T21:00Z
+Gruppe B,Sat Nov 28 2020,16:00,-0300,Santos AP,1-2,1-0,Juventude MA,,,,2020-11-28T19:00Z
+Gruppe B,Sat Nov 28 2020,16:00,-0300,São Raimundo RR,3-0,0-0,Altos PI,,,,2020-11-28T19:00Z
+Gruppe B,Sat Nov 28 2020,16:00,-0300,River PI,2-0,1-0,Sinop MT,,,,2020-11-28T19:00Z
+Gruppe B,Sat Nov 28 2020,16:00,-0300,Moto Club MA,1-0,1-0,Baré RR,,,,2020-11-28T19:00Z
+Gruppe E,Sat Nov 28 2020,16:00,-0300,Vitória ES,1-0,0-0,Goianésia GO,,,,2020-11-28T19:00Z
+Gruppe E,Sat Nov 28 2020,16:00,-0300,Operário MT,2-6,0-3,Aparecidense GO,,,,2020-11-28T19:00Z
+Gruppe E,Sat Nov 28 2020,16:00,-0300,Águia Negra MS,4-3,1-2,União Rondonópolis MT,,,,2020-11-28T19:00Z
+Gruppe E,Sat Nov 28 2020,16:00,-0300,Goiânia GO,1-0,0-0,Real Noroeste ES,,,,2020-11-28T19:00Z
+Gruppe H,Sat Nov 28 2020,15:00,-0300,Marcílio Dias SC,1-0,1-0,Pelotas RS,,,,2020-11-28T18:00Z
+Gruppe H,Sat Nov 28 2020,15:00,-0300,Grêmio Novorizontino SP,0-0,0-0,Joinville SC,,,,2020-11-28T18:00Z
+Gruppe H,Sat Nov 28 2020,15:00,-0300,S.E.R. Caxias RS,6-0,1-0,São Caetano SP,,,,2020-11-28T18:00Z
+Gruppe H,Sat Nov 28 2020,15:00,-0300,São Luiz RS,3-0,1-0,Tubarão SC,,,,2020-11-28T18:00Z
+Sechzehntelfinale,Sat Dec 5 2020,15:00,-0300,Atlético de Alagoinhas BA,1-1,0-0,Goiânia GO,,,,2020-12-05T18:00Z
+Sechzehntelfinale,Sat Dec 5 2020,15:30,-0300,Juventude MA,1-1,1-1,Bragantino PA,,,,2020-12-05T18:30Z
+Sechzehntelfinale,Sat Dec 5 2020,16:00,-0300,Marcílio Dias SC,0-0,0-0,Ferroviária SP,,,,2020-12-05T19:00Z
+Sechzehntelfinale,Sat Dec 5 2020,16:00,-0300,S.E.R. Caxias RS,1-0,1-0,Mirassol SP,,,,2020-12-05T19:00Z
+Sechzehntelfinale,Sat Dec 5 2020,16:00,-0300,Cascavel FC PR,1-0,0-0,Grêmio Novorizontino SP,,,,2020-12-05T19:00Z
+Sechzehntelfinale,Sat Dec 5 2020,15:00,-0300,Floresta CE,2-1,2-0,Itabaiana SE,,,,2020-12-05T18:00Z
+Sechzehntelfinale,Sun Dec 6 2020,15:00,-0300,Coruripe AL,1-0,0-0,América RN,,,,2020-12-06T18:00Z
+Sechzehntelfinale,Sun Dec 6 2020,15:00,-0300,Globo RN,2-1,1-0,ABC RN,,,,2020-12-06T18:00Z
+Sechzehntelfinale,Sun Dec 6 2020,15:00,-0300,Cabofriense RJ,1-1,0-1,São Luiz RS,,,,2020-12-06T18:00Z
+Sechzehntelfinale,Sun Dec 6 2020,15:00,-0300,Real Noroeste ES,1-1,0-1,Brasiliense DF,,,,2020-12-06T18:00Z
+Sechzehntelfinale,Sun Dec 6 2020,15:30,-0300,Moto Club MA,2-2,0-0,Fast Clube AM,,,,2020-12-06T18:30Z
+Sechzehntelfinale,Sun Dec 6 2020,16:00,-0300,Vitória da Conquista BA,4-3,2-0,Salgueiro PE,,,,2020-12-06T19:00Z
+Sechzehntelfinale,Sun Dec 6 2020,16:00,-0300,Tupynambás MG,1-1,0-0,Aparecidense GO,,,,2020-12-06T19:00Z
+Sechzehntelfinale,Sun Dec 6 2020,16:00,-0300,Goianésia GO,2-2,1-1,Gama DF,,,,2020-12-06T19:00Z
+Sechzehntelfinale,Sun Dec 6 2020,18:00,-0300,Galvez AC,0-0,0-0,River PI,,,,2020-12-06T21:00Z
+Sechzehntelfinale,Mon Dec 7 2020,18:00,-0300,Rio Branco AC,0-2,0-2,Altos PI,,,,2020-12-07T21:00Z
+Sechzehntelfinale,Sat Dec 12 2020,15:00,-0300,Bragantino PA,1-1,1-0,Juventude MA,1-1,3-4,,2020-12-12T18:00Z
+Sechzehntelfinale,Sat Dec 12 2020,15:00,-0300,Itabaiana SE,2-2,0-0,Floresta CE,,,,2020-12-12T18:00Z
+Sechzehntelfinale,Sat Dec 12 2020,15:30,-0300,ABC RN,1-1,1-0,Globo RN,,,,2020-12-12T18:30Z
+Sechzehntelfinale,Sat Dec 12 2020,16:00,-0300,Brasiliense DF,3-0,1-0,Real Noroeste ES,,,,2020-12-12T19:00Z
+Sechzehntelfinale,Sat Dec 12 2020,16:00,-0300,Goiânia GO,3-2,2-1,Atlético de Alagoinhas BA,,,,2020-12-12T19:00Z
+Sechzehntelfinale,Sat Dec 12 2020,16:00,-0300,Grêmio Novorizontino SP,3-0,1-0,Cascavel FC PR,,,,2020-12-12T19:00Z
+Sechzehntelfinale,Sun Dec 13 2020,15:00,-0300,América RN,5-0,1-0,Coruripe AL,,,,2020-12-13T18:00Z
+Sechzehntelfinale,Sun Dec 13 2020,15:30,-0300,Mirassol SP,1-0,1-0,S.E.R. Caxias RS,1-0,3-0,,2020-12-13T18:30Z
+Sechzehntelfinale,Sun Dec 13 2020,15:45,-0300,Altos PI,3-1,1-1,Rio Branco AC,,,,2020-12-13T18:45Z
+Sechzehntelfinale,Sun Dec 13 2020,16:00,-0300,River PI,0-1,0-0,Galvez AC,,,,2020-12-13T19:00Z
+Sechzehntelfinale,Sun Dec 13 2020,16:00,-0300,Aparecidense GO,4-0,2-0,Tupynambás MG,,,,2020-12-13T19:00Z
+Sechzehntelfinale,Sun Dec 13 2020,16:00,-0300,Gama DF,1-2,1-2,Goianésia GO,,,,2020-12-13T19:00Z
+Sechzehntelfinale,Sun Dec 13 2020,17:00,-0300,São Luiz RS,2-0,1-0,Cabofriense RJ,,,,2020-12-13T20:00Z
+Sechzehntelfinale,Sun Dec 13 2020,18:00,-0300,Fast Clube AM,1-1,1-0,Moto Club MA,1-1,6-5,,2020-12-13T21:00Z
+Sechzehntelfinale,Sun Dec 13 2020,18:00,-0300,Ferroviária SP,1-2,1-0,Marcílio Dias SC,,,,2020-12-13T21:00Z
+Sechzehntelfinale,Sun Dec 13 2020,19:00,-0300,Salgueiro PE,4-0,1-0,Vitória da Conquista BA,,,,2020-12-13T22:00Z
+Round of 16,Sat Dec 19 2020,16:00,-0300,Goiânia GO,1-1,0-1,Grêmio Novorizontino SP,,,,2020-12-19T19:00Z
+Round of 16,Sat Dec 19 2020,16:00,-0300,Marcílio Dias SC,2-1,1-1,Goianésia GO,,,,2020-12-19T19:00Z
+Round of 16,Sun Dec 20 2020,15:00,-0300,Globo RN,2-1,0-1,Fast Clube AM,,,,2020-12-20T18:00Z
+Round of 16,Sun Dec 20 2020,15:30,-0300,Juventude MA,2-2,1-0,Floresta CE,,,,2020-12-20T18:30Z
+Round of 16,Sun Dec 20 2020,15:30,-0300,Mirassol SP,4-0,1-0,Brasiliense DF,,,,2020-12-20T18:30Z
+Round of 16,Sun Dec 20 2020,16:00,-0300,Salgueiro PE,1-1,1-1,Altos PI,,,,2020-12-20T19:00Z
+Round of 16,Sun Dec 20 2020,17:00,-0300,São Luiz RS,0-4,0-1,Aparecidense GO,,,,2020-12-20T20:00Z
+Round of 16,Sun Dec 20 2020,18:00,-0300,Galvez AC,1-1,1-0,América RN,,,,2020-12-20T21:00Z
+Round of 16,Sat Dec 26 2020,17:00,-0300,Fast Clube AM,1-0,0-0,Globo RN,1-0,6-5,,2020-12-26T20:00Z
+Round of 16,Sun Dec 27 2020,15:00,-0300,Brasiliense DF,2-1,0-1,Mirassol SP,,,,2020-12-27T18:00Z
+Round of 16,Sun Dec 27 2020,15:45,-0300,Altos PI,1-1,1-1,Salgueiro PE,,4-2,,2020-12-27T18:45Z
+Round of 16,Sun Dec 27 2020,16:00,-0300,Floresta CE,2-0,1-0,Juventude MA,,,,2020-12-27T19:00Z
+Round of 16,Sun Dec 27 2020,16:00,-0300,América RN,5-1,1-0,Galvez AC,,,,2020-12-27T19:00Z
+Round of 16,Sun Dec 27 2020,16:00,-0300,Aparecidense GO,1-2,0-0,São Luiz RS,,,,2020-12-27T19:00Z
+Round of 16,Sun Dec 27 2020,16:00,-0300,Goianésia GO,1-1,1-0,Marcílio Dias SC,,,,2020-12-27T19:00Z
+Round of 16,Sun Dec 27 2020,16:00,-0300,Grêmio Novorizontino SP,4-0,1-0,Goiânia GO,,,,2020-12-27T19:00Z
+Quarterfinals,Sat Jan 2 2021,19:00,-0300,Mirassol SP,2-1,0-1,Aparecidense GO,,,,2021-01-02T22:00Z
+Quarterfinals,Sat Jan 2 2021,16:00,-0300,Floresta CE,2-0,1-0,América RN,,,,2021-01-02T19:00Z
+Quarterfinals,Sun Jan 3 2021,16:00,-0300,Fast Clube AM,0-1,0-1,Grêmio Novorizontino SP,,,,2021-01-03T19:00Z
+Quarterfinals,Sun Jan 3 2021,16:00,-0300,Marcílio Dias SC,1-1,0-0,Altos PI,,,,2021-01-03T19:00Z
+Quarterfinals,Sat Jan 9 2021,16:00,-0300,Aparecidense GO,2-3,1-0,Mirassol SP,,,,2021-01-09T19:00Z
+Quarterfinals,Sun Jan 10 2021,15:45,-0300,Altos PI,5-1,1-0,Marcílio Dias SC,,,,2021-01-10T18:45Z
+Quarterfinals,Sun Jan 10 2021,16:00,-0300,América RN,1-1,1-0,Floresta CE,,,,2021-01-10T19:00Z
+Quarterfinals,Sun Jan 10 2021,16:00,-0300,Grêmio Novorizontino SP,3-0,3-0,Fast Clube AM,,,,2021-01-10T19:00Z
+Semifinals,Sat Jan 16 2021,18:00,-0300,Floresta CE,1-1,1-1,Grêmio Novorizontino SP,,,,2021-01-16T21:00Z
+Semifinals,Sun Jan 17 2021,16:00,-0300,Mirassol SP,4-0,4-0,Altos PI,,,,2021-01-17T19:00Z
+Semifinals,Sat Jan 23 2021,18:00,-0300,Grêmio Novorizontino SP,0-2,0-0,Floresta CE,,,,2021-01-23T21:00Z
+Semifinals,Sun Jan 24 2021,15:45,-0300,Altos PI,0-1,0-1,Mirassol SP,,,,2021-01-24T18:45Z
+Final,Sat Jan 30 2021,16:00,-0300,Floresta CE,0-1,0-0,Mirassol SP,,,,2021-01-30T19:00Z
+Final,Sat Feb 6 2021,16:00,-0300,Mirassol SP,1-0,1-0,Floresta CE,,,,2021-02-06T19:00Z

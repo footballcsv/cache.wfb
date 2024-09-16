@@ -1,0 +1,123 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,P,UTC
+Round 1,Tue Feb 21 2023,19:00,-0300,Marcílio Dias SC,1-0,0-0,Chapecoense,,2023-02-21T22:00Z
+Round 1,Wed Feb 22 2023,17:00,-0300,Nova Mutum MT,4-2,3-2,Londrina PR,,2023-02-22T20:00Z
+Round 1,Wed Feb 22 2023,19:00,-0300,Caucaia CE,0-0,0-0,Tombense MG,,2023-02-22T22:00Z
+Round 1,Wed Feb 22 2023,19:00,-0300,São Raimundo RR,4-3,3-1,Cuiabá MT,,2023-02-22T22:00Z
+Round 1,Wed Feb 22 2023,20:00,-0300,Marília SP,0-3,0-3,Brusque SC,,2023-02-22T23:00Z
+Round 1,Wed Feb 22 2023,21:00,-0300,São Francisco AC,1-1,1-0,Ypiranga RS,,2023-02-23T00:00Z
+Round 1,Wed Feb 22 2023,16:00,-0300,Falcon SE,1-3,1-0,Volta Redonda RJ,,2023-02-22T19:00Z
+Round 1,Thu Feb 23 2023,19:00,-0300,São Luiz RS,1-0,0-0,Juventude RS,,2023-02-23T22:00Z
+Round 1,Thu Feb 23 2023,19:00,-0300,Humaitá AC,0-3,0-2,Coritiba PR,,2023-02-23T22:00Z
+Round 1,Thu Feb 23 2023,20:00,-0300,Ceilândia DF,0-1,0-0,Santos FC,,2023-02-23T23:00Z
+Round 1,Thu Feb 23 2023,21:30,-0300,Vitória ES,0-1,0-0,Remo PA,,2023-02-24T00:30Z
+Round 1,Thu Feb 23 2023,21:30,-0300,Trem AP,0-4,0-2,Vasco da Gama RJ,,2023-02-24T00:30Z
+Round 1,Tue Feb 28 2023,19:30,-0300,Tocantinópolis TO,1-1,0-1,América MG,,2023-02-28T22:30Z
+Round 1,Tue Feb 28 2023,19:30,-0300,Democrata Gov. Valadares MG,1-1,1-0,Santa Cruz PE,,2023-02-28T22:30Z
+Round 1,Tue Feb 28 2023,20:00,-0300,Real Noroeste ES,1-1,0-0,Vila Nova GO,,2023-02-28T23:00Z
+Round 1,Tue Feb 28 2023,21:30,-0300,Fluminense PI,0-4,0-2,Ponte Preta,,2023-03-01T00:30Z
+Round 1,Tue Feb 28 2023,15:30,-0300,Resende FC RJ,1-2,0-2,Ferroviário CE,,2023-02-28T18:30Z
+Round 1,Wed Mar 1 2023,15:30,-0300,Tuna Luso PA,0-1,0-1,CSA AL,,2023-03-01T18:30Z
+Round 1,Wed Mar 1 2023,15:30,-0300,Nova Iguaçu RJ,2-0,0-0,Vitória BA,,2023-03-01T18:30Z
+Round 1,Wed Mar 1 2023,19:00,-0300,Cordino MA,0-2,0-2,Brasil de Pelotas RS,,2023-03-01T22:00Z
+Round 1,Wed Mar 1 2023,19:00,-0300,ASA AL,1-1,1-1,Goiás GO,,2023-03-01T22:00Z
+Round 1,Wed Mar 1 2023,19:00,-0300,Atlético de Alagoinhas BA,0-0,0-0,Atlético Goianiense,,2023-03-01T22:00Z
+Round 1,Wed Mar 1 2023,19:00,-0300,Bahia de Feira BA,1-1,1-0,Red Bull Bragantino,,2023-03-01T22:00Z
+Round 1,Wed Mar 1 2023,19:00,-0300,Tuntum MA,0-5,0-2,ABC RN,,2023-03-01T22:00Z
+Round 1,Wed Mar 1 2023,20:00,-0300,Campinense PB,0-2,0-1,Grêmio Porto Alegre,,2023-03-01T23:00Z
+Round 1,Wed Mar 1 2023,20:00,-0300,União Rondonópolis MT,0-1,0-0,CR Brasil AL,,2023-03-01T23:00Z
+Round 1,Wed Mar 1 2023,20:00,-0300,Athletic MG,1-1,0-0,Brasiliense DF,,2023-03-01T23:00Z
+Round 1,Wed Mar 1 2023,20:00,-0300,Camboriú SC,1-0,1-0,Manaus AM,,2023-03-01T23:00Z
+Round 1,Wed Mar 1 2023,20:00,-0300,São Bernardo FC SP,0-1,0-1,Náutico PE,,2023-03-01T23:00Z
+Round 1,Wed Mar 1 2023,20:00,-0300,Parnahyba PI,0-0,0-0,Botafogo SP,,2023-03-01T23:00Z
+Round 1,Wed Mar 1 2023,21:00,-0300,Princesa do Solimões AM,1-1,0-1,Ituano SP,,2023-03-02T00:00Z
+Round 1,Wed Mar 1 2023,21:00,-0300,Operário de Campo Grande MS,1-0,1-0,Operário Ferroviário PR,,2023-03-02T00:00Z
+Round 1,Wed Mar 1 2023,21:30,-0300,Caldense MG,0-3,0-1,Ceará CE,,2023-03-02T00:30Z
+Round 1,Wed Mar 1 2023,21:30,-0300,Jacuipense BA,1-4,0-2,Bahia BA,,2023-03-02T00:30Z
+Round 1,Wed Mar 1 2023,21:30,-0300,Retrô PE,3-2,1-1,Avaí SC,,2023-03-02T00:30Z
+Round 1,Thu Mar 2 2023,16:30,-0300,Real Ariquemes RO,0-3,0-1,Criciúma SC,,2023-03-02T19:30Z
+Round 1,Thu Mar 2 2023,19:15,-0300,Iguatu CE,1-0,0-0,América RN,,2023-03-02T22:15Z
+Round 1,Thu Mar 2 2023,20:00,-0300,Sergipe SE,1-1,1-0,Botafogo RJ,,2023-03-02T23:00Z
+Round 1,Thu Mar 2 2023,20:00,-0300,Maringá PR,2-1,1-0,Sampaio Corrêa MA,,2023-03-02T23:00Z
+Round 1,Thu Mar 2 2023,16:00,-0300,Águia de Marabá PA,2-1,1-0,Botafogo PB,,2023-03-02T19:00Z
+Round 2,Tue Mar 7 2023,20:00,-0300,Brasil de Pelotas RS,2-0,1-0,Ponte Preta,,2023-03-07T23:00Z
+Round 2,Wed Mar 8 2023,19:00,-0300,Camboriú SC,0-1,0-1,Bahia BA,,2023-03-08T22:00Z
+Round 2,Wed Mar 8 2023,20:00,-0300,Remo PA,2-1,1-0,São Luiz RS,,2023-03-08T23:00Z
+Round 2,Wed Mar 8 2023,21:30,-0300,Tombense MG,1-0,0-0,Retrô PE,,2023-03-09T00:30Z
+Round 2,Thu Mar 9 2023,20:00,-0300,Botafogo SP,3-1,1-0,São Raimundo RR,,2023-03-09T23:00Z
+Round 2,Thu Mar 9 2023,21:30,-0300,Santos FC,3-0,2-0,Iguatu CE,,2023-03-10T00:30Z
+Round 2,Thu Mar 9 2023,19:00,-0300,Náutico PE,2-1,1-0,Vila Nova GO,,2023-03-09T22:00Z
+Round 2,Tue Mar 14 2023,20:00,-0300,Maringá PR,2-0,2-0,Marcílio Dias SC,,2023-03-14T23:00Z
+Round 2,Tue Mar 14 2023,20:00,-0300,Coritiba PR,1-1,0-1,Criciúma SC,6-5,2023-03-14T23:00Z
+Round 2,Tue Mar 14 2023,21:30,-0300,América MG,1-0,1-0,Santa Cruz PE,,2023-03-15T00:30Z
+Round 2,Wed Mar 15 2023,15:30,-0300,Nova Iguaçu RJ,5-2,3-0,Nova Mutum MT,,2023-03-15T18:30Z
+Round 2,Wed Mar 15 2023,19:00,-0300,Ituano SP,4-2,4-2,Ceará CE,4-2,2023-03-15T22:00Z
+Round 2,Wed Mar 15 2023,19:00,-0300,Águia de Marabá PA,7-6,7-6,Goiás GO,7-6,2023-03-15T22:00Z
+Round 2,Wed Mar 15 2023,19:00,-0300,Atlético Goianiense,4-5,4-5,Volta Redonda RJ,4-5,2023-03-15T22:00Z
+Round 2,Wed Mar 15 2023,19:30,-0300,CR Brasil AL,5-0,5-0,Operário de Campo Grande MS,,2023-03-15T22:30Z
+Round 2,Wed Mar 15 2023,20:00,-0300,Botafogo RJ,7-1,3-1,Brasiliense DF,,2023-03-15T23:00Z
+Round 2,Wed Mar 15 2023,21:30,-0300,Ypiranga RS,3-1,1-0,Red Bull Bragantino,,2023-03-16T00:30Z
+Round 2,Thu Mar 16 2023,20:00,-0300,Grêmio Porto Alegre,3-0,1-0,Ferroviário CE,,2023-03-16T23:00Z
+Round 2,Thu Mar 16 2023,21:30,-0300,Vasco da Gama RJ,5-6,5-6,ABC RN,5-6,2023-03-17T00:30Z
+Round 2,Thu Mar 16 2023,19:00,-0300,CSA AL,1-0,0-0,Brusque SC,,2023-03-16T22:00Z
+Round 3,Tue Apr 11 2023,16:30,-0300,Volta Redonda RJ,1-2,0-1,Bahia BA,,2023-04-11T19:30Z
+Round 3,Tue Apr 11 2023,19:00,-0300,Botafogo SP,0-2,0-2,Santos FC,,2023-04-11T22:00Z
+Round 3,Tue Apr 11 2023,20:00,-0300,Internacional,2-1,1-1,CSA AL,,2023-04-11T23:00Z
+Round 3,Tue Apr 11 2023,21:30,-0300,São Paulo FC,0-0,0-0,Ituano SP,,2023-04-12T00:30Z
+Round 3,Tue Apr 11 2023,21:30,-0300,Fortaleza CE,6-1,3-0,Águia de Marabá PA,,2023-04-12T00:30Z
+Round 3,Wed Apr 12 2023,16:30,-0300,Nova Iguaçu RJ,1-2,0-0,América MG,,2023-04-12T19:30Z
+Round 3,Wed Apr 12 2023,19:00,-0300,Coritiba PR,3-3,2-1,Sport Recife PE,,2023-04-12T22:00Z
+Round 3,Wed Apr 12 2023,19:30,-0300,Fluminense RJ,3-0,3-0,Paysandu PA,,2023-04-12T22:30Z
+Round 3,Wed Apr 12 2023,19:30,-0300,CR Brasil AL,1-0,0-0,Athletico Paranaense,,2023-04-12T22:30Z
+Round 3,Wed Apr 12 2023,20:00,-0300,Palmeiras,4-2,2-1,Tombense MG,,2023-04-12T23:00Z
+Round 3,Wed Apr 12 2023,21:30,-0300,Atlético Mineiro,2-1,0-0,Brasil de Pelotas RS,,2023-04-13T00:30Z
+Round 3,Wed Apr 12 2023,21:30,-0300,Ypiranga RS,0-2,0-1,Botafogo RJ,,2023-04-13T00:30Z
+Round 3,Wed Apr 12 2023,21:30,-0300,Remo PA,2-0,1-0,Corinthians SP,,2023-04-13T00:30Z
+Round 3,Thu Apr 13 2023,20:00,-0300,Maringá PR,2-0,1-0,Flamengo RJ,,2023-04-13T23:00Z
+Round 3,Thu Apr 13 2023,21:30,-0300,ABC RN,0-2,0-0,Grêmio Porto Alegre,,2023-04-14T00:30Z
+Round 3,Thu Apr 13 2023,19:00,-0300,Náutico PE,1-0,0-0,Cruzeiro,,2023-04-13T22:00Z
+Round 3,Tue Apr 25 2023,19:00,-0300,Cruzeiro,2-0,0-0,Náutico PE,,2023-04-25T22:00Z
+Round 3,Tue Apr 25 2023,20:00,-0300,Paysandu PA,0-3,0-2,Fluminense RJ,,2023-04-25T23:00Z
+Round 3,Tue Apr 25 2023,21:30,-0300,Ituano SP,0-1,0-0,São Paulo FC,,2023-04-26T00:30Z
+Round 3,Tue Apr 25 2023,21:30,-0300,Athletico Paranaense,2-1,0-1,CR Brasil AL,4-2,2023-04-26T00:30Z
+Round 3,Wed Apr 26 2023,19:00,-0300,Santos FC,1-0,0-0,Botafogo SP,,2023-04-26T22:00Z
+Round 3,Wed Apr 26 2023,19:00,-0300,Sport Recife PE,2-0,1-0,Coritiba PR,,2023-04-26T22:00Z
+Round 3,Wed Apr 26 2023,19:30,-0300,Brasil de Pelotas RS,1-1,1-0,Atlético Mineiro,,2023-04-26T22:30Z
+Round 3,Wed Apr 26 2023,19:30,-0300,Águia de Marabá PA,0-2,0-2,Fortaleza CE,,2023-04-26T22:30Z
+Round 3,Wed Apr 26 2023,20:00,-0300,Tombense MG,1-1,0-1,Palmeiras,,2023-04-26T23:00Z
+Round 3,Wed Apr 26 2023,21:30,-0300,América MG,5-0,0-0,Nova Iguaçu RJ,,2023-04-27T00:30Z
+Round 3,Wed Apr 26 2023,21:30,-0300,Flamengo RJ,8-2,4-1,Maringá PR,,2023-04-27T00:30Z
+Round 3,Wed Apr 26 2023,21:30,-0300,Corinthians SP,2-0,1-0,Remo PA,5-4,2023-04-27T00:30Z
+Round 3,Thu Apr 27 2023,19:30,-0300,Botafogo RJ,2-0,1-0,Ypiranga RS,,2023-04-27T22:30Z
+Round 3,Thu Apr 27 2023,20:00,-0300,CSA AL,2-1,1-0,Internacional,6-7,2023-04-27T23:00Z
+Round 3,Thu Apr 27 2023,21:30,-0300,Grêmio Porto Alegre,1-1,0-1,ABC RN,,2023-04-28T00:30Z
+Round 3,Thu Apr 27 2023,19:00,-0300,Bahia BA,4-0,0-0,Volta Redonda RJ,,2023-04-27T22:00Z
+Round of 16,Tue May 16 2023,21:00,-0300,Fluminense RJ,0-0,0-0,Flamengo RJ,,2023-05-17T00:00Z
+Round of 16,Wed May 17 2023,19:00,-0300,Santos FC,0-0,0-0,Bahia BA,,2023-05-17T22:00Z
+Round of 16,Wed May 17 2023,19:00,-0300,Palmeiras,3-0,2-0,Fortaleza CE,,2023-05-17T22:00Z
+Round of 16,Wed May 17 2023,19:30,-0300,Grêmio Porto Alegre,1-1,0-1,Cruzeiro,,2023-05-17T22:30Z
+Round of 16,Wed May 17 2023,20:00,-0300,Sport Recife PE,0-2,0-0,São Paulo FC,,2023-05-17T23:00Z
+Round of 16,Wed May 17 2023,21:30,-0300,Atlético Mineiro,2-0,0-0,Corinthians SP,,2023-05-18T00:30Z
+Round of 16,Wed May 17 2023,21:30,-0300,América MG,2-0,0-0,Internacional,,2023-05-18T00:30Z
+Round of 16,Wed May 17 2023,21:30,-0300,Athletico Paranaense,3-2,0-2,Botafogo RJ,,2023-05-18T00:30Z
+Round of 16,Wed May 31 2023,19:00,-0300,Bahia BA,1-1,0-0,Santos FC,4-3,2023-05-31T22:00Z
+Round of 16,Wed May 31 2023,19:00,-0300,Fortaleza CE,1-0,0-0,Palmeiras,,2023-05-31T22:00Z
+Round of 16,Wed May 31 2023,20:00,-0300,Cruzeiro,0-1,0-1,Grêmio Porto Alegre,,2023-05-31T23:00Z
+Round of 16,Wed May 31 2023,21:30,-0300,Corinthians SP,2-0,1-0,Atlético Mineiro,3-1,2023-06-01T00:30Z
+Round of 16,Wed May 31 2023,21:30,-0300,Internacional,3-1,3-0,América MG,4-5,2023-06-01T00:30Z
+Round of 16,Wed May 31 2023,21:30,-0300,Botafogo RJ,1-0,1-0,Athletico Paranaense,2-4,2023-06-01T00:30Z
+Round of 16,Thu Jun 1 2023,20:00,-0300,Flamengo RJ,2-0,1-0,Fluminense RJ,,2023-06-01T23:00Z
+Round of 16,Thu Jun 1 2023,19:30,-0300,São Paulo FC,5-3,5-3,Sport Recife PE,5-3,2023-06-01T22:30Z
+Quarterfinals,Tue Jul 4 2023,21:00,-0300,Bahia BA,1-1,0-0,Grêmio Porto Alegre,,2023-07-05T00:00Z
+Quarterfinals,Wed Jul 5 2023,19:30,-0300,São Paulo FC,1-0,0-0,Palmeiras,,2023-07-05T22:30Z
+Quarterfinals,Wed Jul 5 2023,21:30,-0300,América MG,1-0,1-0,Corinthians SP,,2023-07-06T00:30Z
+Quarterfinals,Wed Jul 5 2023,21:30,-0300,Flamengo RJ,2-1,0-1,Athletico Paranaense,,2023-07-06T00:30Z
+Quarterfinals,Wed Jul 12 2023,21:30,-0300,Athletico Paranaense,0-2,0-1,Flamengo RJ,,2023-07-13T00:30Z
+Quarterfinals,Wed Jul 12 2023,19:00,-0300,Grêmio Porto Alegre,1-1,0-1,Bahia BA,4-3,2023-07-12T22:00Z
+Quarterfinals,Thu Jul 13 2023,20:00,-0300,Palmeiras,1-2,1-0,São Paulo FC,,2023-07-13T23:00Z
+Quarterfinals,Sat Jul 15 2023,16:30,-0300,Corinthians SP,3-2,0-0,América MG,3-1,2023-07-15T19:30Z
+Semifinals,Tue Jul 25 2023,21:30,-0300,Corinthians SP,2-1,0-0,São Paulo FC,,2023-07-26T00:30Z
+Semifinals,Wed Jul 26 2023,21:30,-0300,Grêmio Porto Alegre,0-2,0-1,Flamengo RJ,,2023-07-27T00:30Z
+Semifinals,Wed Aug 16 2023,21:30,-0300,Flamengo RJ,1-0,0-0,Grêmio Porto Alegre,,2023-08-17T00:30Z
+Semifinals,Wed Aug 16 2023,19:30,-0300,São Paulo FC,2-0,2-0,Corinthians SP,,2023-08-16T22:30Z
+Final,Sun Sep 17 2023,16:00,-0300,Flamengo RJ,0-1,0-1,São Paulo FC,,2023-09-17T19:00Z
+Final,Sun Sep 24 2023,16:00,-0300,São Paulo FC,1-1,1-1,Flamengo RJ,,2023-09-24T19:00Z
