@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 7 2009,20:00,BST/+0100,Middlesbrough FC,0-0,0-0,Sheffield United,2009-08-07T19:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Cardiff City,4-0,3-0,Scunthorpe United,2009-08-08T14:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Crystal Palace,1-1,0-1,Plymouth Argyle,2009-08-08T14:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Derby County,2-1,1-0,Peterborough United,2009-08-08T14:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Leicester City,2-1,0-1,Swansea City,2009-08-08T14:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Preston North End,2-2,0-0,Bristol City,2009-08-08T14:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Queens Park Rangers,1-1,0-1,Blackpool FC,2009-08-08T14:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Reading FC,0-0,0-0,Nottingham Forest,2009-08-08T14:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Sheffield Wednesday,2-2,2-0,Barnsley FC,2009-08-08T14:00Z
+1,Sat Aug 8 2009,15:00,BST/+0100,Watford FC,1-1,1-1,Doncaster Rovers,2009-08-08T14:00Z
+1,Sat Aug 8 2009,17:30,BST/+0100,West Bromwich Albion,1-1,1-0,Newcastle United,2009-08-08T16:30Z
+1,Sun Aug 9 2009,12:45,BST/+0100,Coventry City,2-1,2-1,Ipswich Town,2009-08-09T11:45Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Barnsley FC,0-2,0-1,Coventry City,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Blackpool FC,1-1,1-1,Cardiff City,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Bristol City,1-0,0-0,Crystal Palace,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Doncaster Rovers,1-1,0-1,Preston North End,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Ipswich Town,0-0,0-0,Leicester City,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Nottingham Forest,0-1,0-0,West Bromwich Albion,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Peterborough United,1-1,0-1,Sheffield Wednesday,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Plymouth Argyle,1-1,0-1,Queens Park Rangers,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Scunthorpe United,3-2,2-1,Derby County,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Sheffield United,2-0,1-0,Watford FC,2009-08-15T14:00Z
+2,Sat Aug 15 2009,15:00,BST/+0100,Swansea City,0-3,0-1,Middlesbrough FC,2009-08-15T14:00Z
+2,Sat Aug 15 2009,17:20,BST/+0100,Newcastle United,3-0,1-0,Reading FC,2009-08-15T16:20Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Barnsley FC,0-3,0-2,Preston North End,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Blackpool FC,0-0,0-0,Derby County,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Bristol City,1-0,0-0,Queens Park Rangers,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Doncaster Rovers,0-0,0-0,Coventry City,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Ipswich Town,1-3,0-0,Crystal Palace,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Nottingham Forest,2-4,1-1,Watford FC,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Peterborough United,2-3,1-3,West Bromwich Albion,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Plymouth Argyle,1-3,0-1,Cardiff City,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Scunthorpe United,0-2,0-1,Middlesbrough FC,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Sheffield United,1-1,0-0,Leicester City,2009-08-18T18:45Z
+3,Tue Aug 18 2009,19:45,BST/+0100,Swansea City,0-0,0-0,Reading FC,2009-08-18T18:45Z
+3,Wed Aug 19 2009,19:45,BST/+0100,Newcastle United,1-0,1-0,Sheffield Wednesday,2009-08-19T18:45Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Coventry City,0-1,0-0,Swansea City,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Crystal Palace,0-2,0-2,Newcastle United,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Derby County,2-1,1-1,Plymouth Argyle,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Leicester City,1-0,0-0,Barnsley FC,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Middlesbrough FC,2-0,1-0,Doncaster Rovers,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Preston North End,2-0,2-0,Peterborough United,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Queens Park Rangers,1-1,1-0,Nottingham Forest,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Reading FC,1-3,1-1,Sheffield United,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Sheffield Wednesday,4-0,3-0,Scunthorpe United,2009-08-22T14:00Z
+4,Sat Aug 22 2009,15:00,BST/+0100,Watford FC,2-2,1-0,Blackpool FC,2009-08-22T14:00Z
+4,Sat Aug 22 2009,17:20,BST/+0100,West Bromwich Albion,2-0,2-0,Ipswich Town,2009-08-22T16:20Z
+4,Sun Aug 23 2009,13:15,BST/+0100,Cardiff City,3-0,2-0,Bristol City,2009-08-23T12:15Z
+5,Sat Aug 29 2009,13:00,BST/+0100,Nottingham Forest,3-2,3-0,Derby County,2009-08-29T12:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Barnsley FC,1-3,1-1,Reading FC,2009-08-29T14:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Blackpool FC,3-0,1-0,Coventry City,2009-08-29T14:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Bristol City,2-1,0-0,Middlesbrough FC,2009-08-29T14:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Doncaster Rovers,2-0,2-0,Cardiff City,2009-08-29T14:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Ipswich Town,1-1,1-1,Preston North End,2009-08-29T14:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Plymouth Argyle,1-3,0-1,Sheffield Wednesday,2009-08-29T14:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Scunthorpe United,0-1,0-1,Queens Park Rangers,2009-08-29T14:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Sheffield United,2-2,0-0,West Bromwich Albion,2009-08-29T14:00Z
+5,Sat Aug 29 2009,15:00,BST/+0100,Swansea City,1-1,0-0,Watford FC,2009-08-29T14:00Z
+5,Mon Aug 31 2009,19:45,BST/+0100,Newcastle United,1-0,0-0,Leicester City,2009-08-31T18:45Z
+5,Mon Aug 31 2009,17:15,BST/+0100,Peterborough United,1-1,0-0,Crystal Palace,2009-08-31T16:15Z
+6,Sat Sep 12 2009,13:00,BST/+0100,Derby County,0-1,0-0,Sheffield United,2009-09-12T12:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Coventry City,1-1,1-0,Bristol City,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Crystal Palace,0-4,0-1,Scunthorpe United,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Leicester City,2-1,1-1,Blackpool FC,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Middlesbrough FC,3-1,1-0,Ipswich Town,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Preston North End,2-0,1-0,Swansea City,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Queens Park Rangers,1-1,1-1,Peterborough United,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Reading FC,0-0,0-0,Doncaster Rovers,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Sheffield Wednesday,1-1,1-1,Nottingham Forest,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,Watford FC,1-0,0-0,Barnsley FC,2009-09-12T14:00Z
+6,Sat Sep 12 2009,15:00,BST/+0100,West Bromwich Albion,3-1,2-1,Plymouth Argyle,2009-09-12T14:00Z
+6,Sun Sep 13 2009,14:05,BST/+0100,Cardiff City,0-1,0-1,Newcastle United,2009-09-13T13:05Z
+7,Tue Sep 15 2009,19:45,BST/+0100,Coventry City,3-2,1-1,Sheffield United,2009-09-15T18:45Z
+7,Tue Sep 15 2009,19:45,BST/+0100,Derby County,2-3,1-1,Barnsley FC,2009-09-15T18:45Z
+7,Tue Sep 15 2009,19:45,BST/+0100,Ipswich Town,1-1,1-0,Nottingham Forest,2009-09-15T18:45Z
+7,Tue Sep 15 2009,19:45,BST/+0100,Leicester City,1-1,0-1,Peterborough United,2009-09-15T18:45Z
+7,Tue Sep 15 2009,19:45,BST/+0100,Plymouth Argyle,0-1,0-1,Watford FC,2009-09-15T18:45Z
+7,Tue Sep 15 2009,19:45,BST/+0100,Scunthorpe United,3-1,2-0,Preston North End,2009-09-15T18:45Z
+7,Tue Sep 15 2009,19:45,BST/+0100,Sheffield Wednesday,1-3,1-1,Middlesbrough FC,2009-09-15T18:45Z
+7,Tue Sep 15 2009,19:45,BST/+0100,Swansea City,0-0,0-0,Bristol City,2009-09-15T18:45Z
+7,Tue Sep 15 2009,19:45,BST/+0100,West Bromwich Albion,3-1,1-1,Doncaster Rovers,2009-09-15T18:45Z
+7,Wed Sep 16 2009,20:00,BST/+0100,Reading FC,0-1,0-0,Cardiff City,2009-09-16T19:00Z
+7,Wed Sep 16 2009,19:45,BST/+0100,Blackpool FC,2-1,1-1,Newcastle United,2009-09-16T18:45Z
+8,Fri Sep 18 2009,19:45,BST/+0100,Sheffield United,3-2,3-0,Sheffield Wednesday,2009-09-18T18:45Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Watford FC,3-3,0-2,Leicester City,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Barnsley FC,0-0,0-0,Swansea City,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Bristol City,1-1,0-0,Scunthorpe United,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Cardiff City,0-2,0-2,Queens Park Rangers,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Crystal Palace,1-0,0-0,Derby County,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Doncaster Rovers,3-3,1-0,Ipswich Town,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Middlesbrough FC,0-5,0-3,West Bromwich Albion,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Newcastle United,3-1,1-0,Plymouth Argyle,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Nottingham Forest,0-1,0-1,Blackpool FC,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Peterborough United,3-2,0-2,Reading FC,2009-09-19T14:00Z
+8,Sat Sep 19 2009,15:00,BST/+0100,Preston North End,3-2,0-1,Coventry City,2009-09-19T14:00Z
+9,Sat Sep 26 2009,17:30,BST/+0100,Ipswich Town,0-4,0-3,Newcastle United,2009-09-26T16:30Z
+9,Sat Sep 26 2009,12:00,BST/+0100,Scunthorpe United,2-2,0-1,Doncaster Rovers,2009-09-26T11:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,Blackpool FC,2-0,2-0,Peterborough United,2009-09-26T14:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,Coventry City,2-2,0-2,Middlesbrough FC,2009-09-26T14:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,Derby County,1-0,0-0,Bristol City,2009-09-26T14:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,Leicester City,1-2,0-1,Preston North End,2009-09-26T14:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,Queens Park Rangers,5-2,3-0,Barnsley FC,2009-09-26T14:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,Reading FC,1-1,1-0,Watford FC,2009-09-26T14:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,Sheffield Wednesday,3-1,1-1,Cardiff City,2009-09-26T14:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,Swansea City,2-1,0-0,Sheffield United,2009-09-26T14:00Z
+9,Sat Sep 26 2009,15:00,BST/+0100,West Bromwich Albion,0-1,0-0,Crystal Palace,2009-09-26T14:00Z
+9,Sun Sep 27 2009,13:15,BST/+0100,Plymouth Argyle,0-1,0-1,Nottingham Forest,2009-09-27T12:15Z
+10,Tue Sep 29 2009,19:45,BST/+0100,Peterborough United,1-2,0-0,Plymouth Argyle,2009-09-29T18:45Z
+10,Tue Sep 29 2009,19:45,BST/+0100,Barnsley FC,3-1,2-0,West Bromwich Albion,2009-09-29T18:45Z
+10,Tue Sep 29 2009,19:45,BST/+0100,Bristol City,2-0,1-0,Blackpool FC,2009-09-29T18:45Z
+10,Tue Sep 29 2009,19:45,BST/+0100,Cardiff City,6-1,2-0,Derby County,2009-09-29T18:45Z
+10,Tue Sep 29 2009,19:45,BST/+0100,Doncaster Rovers,0-0,0-0,Swansea City,2009-09-29T18:45Z
+10,Tue Sep 29 2009,20:00,BST/+0100,Middlesbrough FC,0-1,0-0,Leicester City,2009-09-29T19:00Z
+10,Tue Sep 29 2009,19:45,BST/+0100,Preston North End,1-2,0-2,Reading FC,2009-09-29T18:45Z
+10,Tue Sep 29 2009,19:45,BST/+0100,Sheffield United,3-3,1-2,Ipswich Town,2009-09-29T18:45Z
+10,Tue Sep 29 2009,19:45,BST/+0100,Watford FC,2-3,2-1,Coventry City,2009-09-29T18:45Z
+10,Tue Sep 29 2009,20:00,BST/+0100,Crystal Palace,0-0,0-0,Sheffield Wednesday,2009-09-29T19:00Z
+10,Wed Sep 30 2009,19:45,BST/+0100,Newcastle United,1-1,0-1,Queens Park Rangers,2009-09-30T18:45Z
+10,Wed Sep 30 2009,19:45,BST/+0100,Nottingham Forest,2-0,0-0,Scunthorpe United,2009-09-30T18:45Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Watford FC,0-4,0-2,Cardiff City,2009-10-03T14:00Z
+11,Sat Oct 3 2009,12:30,BST/+0100,Coventry City,1-1,1-0,Leicester City,2009-10-03T11:30Z
+11,Sat Oct 3 2009,12:45,BST/+0100,Preston North End,0-0,0-0,West Bromwich Albion,2009-10-03T11:45Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Barnsley FC,2-1,1-1,Ipswich Town,2009-10-03T14:00Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Crystal Palace,4-1,2-0,Blackpool FC,2009-10-03T14:00Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Derby County,3-0,1-0,Sheffield Wednesday,2009-10-03T14:00Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Newcastle United,0-0,0-0,Bristol City,2009-10-03T14:00Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Peterborough United,1-2,0-0,Nottingham Forest,2009-10-03T14:00Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Plymouth Argyle,2-1,0-0,Scunthorpe United,2009-10-03T14:00Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Reading FC,0-2,0-1,Middlesbrough FC,2009-10-03T14:00Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Sheffield United,1-1,0-1,Doncaster Rovers,2009-10-03T14:00Z
+11,Sat Oct 3 2009,15:00,BST/+0100,Swansea City,2-0,0-0,Queens Park Rangers,2009-10-03T14:00Z
+12,Sat Oct 17 2009,17:20,BST/+0100,Nottingham Forest,1-0,1-0,Newcastle United,2009-10-17T16:20Z
+12,Sat Oct 17 2009,12:00,BST/+0100,Scunthorpe United,3-1,1-0,Sheffield United,2009-10-17T11:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Blackpool FC,2-0,1-0,Plymouth Argyle,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Bristol City,1-1,1-0,Peterborough United,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Cardiff City,1-1,1-1,Crystal Palace,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Doncaster Rovers,0-1,0-0,Barnsley FC,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Ipswich Town,1-1,1-1,Swansea City,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Leicester City,0-0,0-0,Derby County,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Middlesbrough FC,0-1,0-1,Watford FC,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Queens Park Rangers,4-0,1-0,Preston North End,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,Sheffield Wednesday,2-0,2-0,Coventry City,2009-10-17T14:00Z
+12,Sat Oct 17 2009,15:00,BST/+0100,West Bromwich Albion,3-1,1-1,Reading FC,2009-10-17T14:00Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Leicester City,2-0,0-0,Crystal Palace,2009-10-20T18:45Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Blackpool FC,3-0,0-0,Sheffield United,2009-10-20T18:45Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Bristol City,3-1,0-0,Plymouth Argyle,2009-10-20T18:45Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Cardiff City,2-0,1-0,Coventry City,2009-10-20T18:45Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Doncaster Rovers,3-1,2-1,Peterborough United,2009-10-20T18:45Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Ipswich Town,1-1,1-0,Watford FC,2009-10-20T18:45Z
+13,Tue Oct 20 2009,20:00,BST/+0100,West Bromwich Albion,0-1,0-0,Swansea City,2009-10-20T19:00Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Nottingham Forest,1-0,0-0,Barnsley FC,2009-10-20T18:45Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Scunthorpe United,2-1,0-0,Newcastle United,2009-10-20T18:45Z
+13,Tue Oct 20 2009,19:45,BST/+0100,Sheffield Wednesday,1-2,1-1,Preston North End,2009-10-20T18:45Z
+13,Tue Oct 20 2009,20:00,BST/+0100,Middlesbrough FC,2-0,1-0,Derby County,2009-10-20T19:00Z
+13,Tue Oct 20 2009,20:00,BST/+0100,Queens Park Rangers,4-1,2-0,Reading FC,2009-10-20T19:00Z
+14,Fri Oct 23 2009,19:45,BST/+0100,Watford FC,4-1,2-1,Sheffield Wednesday,2009-10-23T18:45Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Peterborough United,3-0,2-0,Scunthorpe United,2009-10-24T14:00Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Barnsley FC,2-3,0-2,Bristol City,2009-10-24T14:00Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Coventry City,0-0,0-0,West Bromwich Albion,2009-10-24T14:00Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Crystal Palace,1-1,1-0,Nottingham Forest,2009-10-24T14:00Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Newcastle United,2-1,0-1,Doncaster Rovers,2009-10-24T14:00Z
+14,Sat Oct 24 2009,17:30,BST/+0100,Derby County,2-4,2-1,Queens Park Rangers,2009-10-24T16:30Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Plymouth Argyle,1-1,1-0,Ipswich Town,2009-10-24T14:00Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Preston North End,2-2,0-1,Middlesbrough FC,2009-10-24T14:00Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Sheffield United,3-4,2-2,Cardiff City,2009-10-24T14:00Z
+14,Sat Oct 24 2009,15:00,BST/+0100,Swansea City,0-0,0-0,Blackpool FC,2009-10-24T14:00Z
+14,Mon Oct 26 2009,20:00,GMT/+0000,Reading FC,0-1,0-1,Leicester City,2009-10-26T20:00Z
+15,Fri Oct 30 2009,19:45,GMT/+0000,Queens Park Rangers,1-2,1-1,Leicester City,2009-10-30T19:45Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,Middlesbrough FC,0-1,0-0,Plymouth Argyle,2009-10-31T15:00Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,Bristol City,1-1,0-0,Sheffield Wednesday,2009-10-31T15:00Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,Coventry City,1-3,0-1,Reading FC,2009-10-31T15:00Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,Doncaster Rovers,3-3,1-1,Blackpool FC,2009-10-31T15:00Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,Ipswich Town,1-0,0-0,Derby County,2009-10-31T15:00Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,West Bromwich Albion,5-0,2-0,Watford FC,2009-10-31T15:00Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,Peterborough United,1-2,1-2,Barnsley FC,2009-10-31T15:00Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,Preston North End,1-1,1-1,Crystal Palace,2009-10-31T15:00Z
+15,Sat Oct 31 2009,15:00,GMT/+0000,Scunthorpe United,0-2,0-1,Swansea City,2009-10-31T15:00Z
+15,Sun Nov 1 2009,17:00,GMT/+0000,Cardiff City,1-1,0-0,Nottingham Forest,2009-11-01T17:00Z
+15,Mon Nov 2 2009,19:45,GMT/+0000,Sheffield United,0-1,0-0,Newcastle United,2009-11-02T19:45Z
+7,Tue Nov 3 2009,20:00,GMT/+0000,Queens Park Rangers,1-1,1-0,Crystal Palace,2009-11-03T20:00Z
+16,Fri Nov 6 2009,19:45,GMT/+0000,Derby County,2-1,0-1,Coventry City,2009-11-06T19:45Z
+16,Sat Nov 7 2009,12:45,GMT/+0000,Swansea City,3-2,2-2,Cardiff City,2009-11-07T12:45Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Blackpool FC,4-1,0-0,Scunthorpe United,2009-11-07T15:00Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Crystal Palace,1-0,0-0,Middlesbrough FC,2009-11-07T15:00Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Leicester City,1-2,0-2,West Bromwich Albion,2009-11-07T15:00Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Newcastle United,3-1,2-0,Peterborough United,2009-11-07T15:00Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Nottingham Forest,1-1,0-0,Bristol City,2009-11-07T15:00Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Plymouth Argyle,2-1,1-1,Doncaster Rovers,2009-11-07T15:00Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Reading FC,1-1,0-1,Ipswich Town,2009-11-07T15:00Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Sheffield Wednesday,1-2,1-1,Queens Park Rangers,2009-11-07T15:00Z
+16,Sat Nov 7 2009,15:00,GMT/+0000,Watford FC,2-0,2-0,Preston North End,2009-11-07T15:00Z
+16,Mon Nov 9 2009,19:45,GMT/+0000,Barnsley FC,2-2,0-0,Sheffield United,2009-11-09T19:45Z
+17,Fri Nov 20 2009,19:45,GMT/+0000,Swansea City,1-0,0-0,Derby County,2009-11-20T19:45Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,Barnsley FC,1-0,0-0,Cardiff City,2009-11-21T15:00Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,Coventry City,1-1,0-1,Crystal Palace,2009-11-21T15:00Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,Doncaster Rovers,2-0,0-0,Queens Park Rangers,2009-11-21T15:00Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,Leicester City,1-0,0-0,Plymouth Argyle,2009-11-21T15:00Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,Middlesbrough FC,1-1,1-0,Nottingham Forest,2009-11-21T15:00Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,Reading FC,2-1,0-0,Blackpool FC,2009-11-21T15:00Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,Sheffield United,1-0,1-0,Peterborough United,2009-11-21T15:00Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,Watford FC,3-0,2-0,Scunthorpe United,2009-11-21T15:00Z
+17,Sat Nov 21 2009,15:00,GMT/+0000,West Bromwich Albion,4-1,2-0,Bristol City,2009-11-21T15:00Z
+17,Sat Nov 21 2009,17:20,GMT/+0000,Ipswich Town,0-0,0-0,Sheffield Wednesday,2009-11-21T17:20Z
+17,Mon Nov 23 2009,19:45,GMT/+0000,Preston North End,0-1,0-0,Newcastle United,2009-11-23T19:45Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Bristol City,2-3,0-2,Sheffield United,2009-11-28T15:00Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Crystal Palace,3-0,2-0,Watford FC,2009-11-28T15:00Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Derby County,2-1,0-0,Reading FC,2009-11-28T15:00Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Newcastle United,3-0,3-0,Swansea City,2009-11-28T15:00Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Nottingham Forest,4-1,1-0,Doncaster Rovers,2009-11-28T15:00Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Peterborough United,2-2,0-1,Middlesbrough FC,2009-11-28T15:00Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Queens Park Rangers,2-2,1-1,Coventry City,2009-11-28T15:00Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Scunthorpe United,1-1,0-1,Leicester City,2009-11-28T15:00Z
+18,Sat Nov 28 2009,15:00,GMT/+0000,Sheffield Wednesday,0-4,0-3,West Bromwich Albion,2009-11-28T15:00Z
+18,Sun Nov 29 2009,15:00,GMT/+0000,Cardiff City,1-2,1-0,Ipswich Town,2009-11-29T15:00Z
+18,Mon Nov 30 2009,20:00,GMT/+0000,Blackpool FC,1-1,1-1,Preston North End,2009-11-30T20:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Sheffield Wednesday,0-2,0-0,Reading FC,2009-12-05T15:00Z
+19,Sat Dec 5 2009,13:00,GMT/+0000,Nottingham Forest,5-1,2-0,Leicester City,2009-12-05T13:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Blackpool FC,1-2,0-0,Barnsley FC,2009-12-05T15:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Bristol City,0-0,0-0,Ipswich Town,2009-12-05T15:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Cardiff City,1-0,0-0,Preston North End,2009-12-05T15:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Crystal Palace,0-3,0-1,Doncaster Rovers,2009-12-05T15:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Derby County,2-2,1-0,West Bromwich Albion,2009-12-05T15:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Newcastle United,2-0,1-0,Watford FC,2009-12-05T15:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Peterborough United,2-2,0-0,Swansea City,2009-12-05T15:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Plymouth Argyle,0-1,0-0,Sheffield United,2009-12-05T15:00Z
+19,Sat Dec 5 2009,15:00,GMT/+0000,Queens Park Rangers,1-5,0-1,Middlesbrough FC,2009-12-05T15:00Z
+19,Sun Dec 6 2009,13:15,GMT/+0000,Scunthorpe United,1-0,1-0,Coventry City,2009-12-06T13:15Z
+20,Mon Dec 7 2009,19:45,GMT/+0000,Watford FC,3-1,1-1,Queens Park Rangers,2009-12-07T19:45Z
+20,Tue Dec 8 2009,19:45,GMT/+0000,Sheffield United,0-0,0-0,Nottingham Forest,2009-12-08T19:45Z
+20,Tue Dec 8 2009,19:45,GMT/+0000,Doncaster Rovers,1-0,0-0,Sheffield Wednesday,2009-12-08T19:45Z
+20,Tue Dec 8 2009,19:45,GMT/+0000,Ipswich Town,0-0,0-0,Peterborough United,2009-12-08T19:45Z
+20,Tue Dec 8 2009,19:45,GMT/+0000,Leicester City,1-3,0-2,Bristol City,2009-12-08T19:45Z
+20,Tue Dec 8 2009,19:45,GMT/+0000,Preston North End,0-0,0-0,Derby County,2009-12-08T19:45Z
+20,Tue Dec 8 2009,20:00,GMT/+0000,Middlesbrough FC,0-3,0-2,Blackpool FC,2009-12-08T20:00Z
+20,Tue Dec 8 2009,19:45,GMT/+0000,Swansea City,1-0,0-0,Plymouth Argyle,2009-12-08T19:45Z
+20,Tue Dec 8 2009,19:45,GMT/+0000,West Bromwich Albion,0-2,0-1,Cardiff City,2009-12-08T19:45Z
+20,Tue Dec 8 2009,20:00,GMT/+0000,Reading FC,2-4,1-3,Crystal Palace,2009-12-08T20:00Z
+20,Wed Dec 9 2009,19:45,GMT/+0000,Coventry City,0-2,0-1,Newcastle United,2009-12-09T19:45Z
+20,Wed Dec 9 2009,19:45,GMT/+0000,Barnsley FC,1-1,0-0,Scunthorpe United,2009-12-09T19:45Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Watford FC,0-1,0-0,Derby County,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Barnsley FC,2-2,0-1,Newcastle United,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Coventry City,3-2,2-0,Peterborough United,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Doncaster Rovers,1-0,1-0,Bristol City,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Ipswich Town,3-1,2-0,Blackpool FC,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Leicester City,3-0,2-0,Sheffield Wednesday,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Preston North End,2-0,2-0,Plymouth Argyle,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Reading FC,1-1,1-0,Scunthorpe United,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Sheffield United,2-0,1-0,Crystal Palace,2009-12-12T15:00Z
+21,Sat Dec 12 2009,15:00,GMT/+0000,Swansea City,0-1,0-1,Nottingham Forest,2009-12-12T15:00Z
+21,Sun Dec 13 2009,13:15,GMT/+0000,Middlesbrough FC,0-1,0-0,Cardiff City,2009-12-13T13:15Z
+21,Mon Dec 14 2009,19:45,GMT/+0000,West Bromwich Albion,2-2,0-0,Queens Park Rangers,2009-12-14T19:45Z
+22,Sat Dec 19 2009,15:00,GMT/+0000,Peterborough United,2-1,1-0,Watford FC,2009-12-19T15:00Z
+22,Sat Dec 19 2009,15:00,GMT/+0000,Bristol City,1-1,1-0,Reading FC,2009-12-19T15:00Z
+22,Sat Dec 19 2009,15:00,GMT/+0000,Crystal Palace,1-1,0-1,Barnsley FC,2009-12-19T15:00Z
+22,Sat Dec 19 2009,15:00,GMT/+0000,Derby County,0-2,0-1,Doncaster Rovers,2009-12-19T15:00Z
+22,Sat Dec 19 2009,15:00,GMT/+0000,Sheffield Wednesday,0-2,0-2,Swansea City,2009-12-19T15:00Z
+22,Sat Dec 19 2009,15:00,GMT/+0000,Plymouth Argyle,0-1,0-0,Coventry City,2009-12-19T15:00Z
+22,Sat Dec 19 2009,15:00,GMT/+0000,Queens Park Rangers,1-1,1-1,Sheffield United,2009-12-19T15:00Z
+22,Sat Dec 19 2009,17:20,GMT/+0000,Nottingham Forest,3-0,2-0,Preston North End,2009-12-19T17:20Z
+22,Sun Dec 20 2009,13:00,GMT/+0000,Newcastle United,2-0,1-0,Middlesbrough FC,2009-12-20T13:00Z
+23,Sat Dec 26 2009,18:00,GMT/+0000,Leicester City,2-1,2-0,Sheffield United,2009-12-26T18:00Z
+23,Sat Dec 26 2009,15:00,GMT/+0000,West Bromwich Albion,2-0,0-0,Peterborough United,2009-12-26T15:00Z
+23,Sat Dec 26 2009,15:00,GMT/+0000,Reading FC,1-1,1-1,Swansea City,2009-12-26T15:00Z
+23,Sat Dec 26 2009,15:00,GMT/+0000,Middlesbrough FC,3-0,2-0,Scunthorpe United,2009-12-26T15:00Z
+23,Sat Dec 26 2009,12:00,GMT/+0000,Watford FC,0-0,0-0,Nottingham Forest,2009-12-26T12:00Z
+23,Sat Dec 26 2009,12:45,GMT/+0000,Sheffield Wednesday,2-2,1-2,Newcastle United,2009-12-26T12:45Z
+23,Sat Dec 26 2009,13:00,GMT/+0000,Cardiff City,0-1,0-0,Plymouth Argyle,2009-12-26T13:00Z
+23,Sat Dec 26 2009,13:00,GMT/+0000,Crystal Palace,3-1,1-1,Ipswich Town,2009-12-26T13:00Z
+23,Sat Dec 26 2009,13:00,GMT/+0000,Queens Park Rangers,2-1,2-0,Bristol City,2009-12-26T13:00Z
+23,Sat Dec 26 2009,15:00,GMT/+0000,Coventry City,1-0,0-0,Doncaster Rovers,2009-12-26T15:00Z
+23,Sat Dec 26 2009,15:00,GMT/+0000,Derby County,0-2,0-1,Blackpool FC,2009-12-26T15:00Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Sheffield United,1-0,0-0,Preston North End,2009-12-28T15:00Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Swansea City,0-0,0-0,Crystal Palace,2009-12-28T15:00Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Scunthorpe United,1-3,0-1,West Bromwich Albion,2009-12-28T15:00Z
+24,Mon Dec 28 2009,17:20,GMT/+0000,Newcastle United,0-0,0-0,Derby County,2009-12-28T17:20Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Plymouth Argyle,4-1,1-0,Reading FC,2009-12-28T15:00Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Barnsley FC,2-1,0-1,Middlesbrough FC,2009-12-28T15:00Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Bristol City,2-2,2-1,Watford FC,2009-12-28T15:00Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Ipswich Town,3-0,1-0,Queens Park Rangers,2009-12-28T15:00Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Nottingham Forest,2-0,1-0,Coventry City,2009-12-28T15:00Z
+24,Mon Dec 28 2009,15:00,GMT/+0000,Peterborough United,4-4,0-4,Cardiff City,2009-12-28T15:00Z
+25,Fri Jan 8 2010,19:45,GMT/+0000,West Bromwich Albion,1-3,0-1,Nottingham Forest,2010-01-08T19:45Z
+25,Sat Jan 9 2010,15:00,GMT/+0000,Cardiff City,1-1,1-0,Blackpool FC,2010-01-09T15:00Z
+25,Sat Jan 9 2010,15:00,GMT/+0000,Coventry City,3-1,2-0,Barnsley FC,2010-01-09T15:00Z
+25,Sat Jan 9 2010,15:00,GMT/+0000,Derby County,1-4,0-2,Scunthorpe United,2010-01-09T15:00Z
+25,Sun Jan 10 2010,15:00,GMT/+0000,Leicester City,1-1,1-1,Ipswich Town,2010-01-10T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Ipswich Town,3-2,1-1,Coventry City,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Plymouth Argyle,0-1,0-1,Crystal Palace,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Scunthorpe United,1-1,1-0,Cardiff City,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Swansea City,1-0,1-0,Leicester City,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Nottingham Forest,2-1,2-0,Reading FC,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Peterborough United,0-3,0-1,Derby County,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Sheffield United,1-0,0-0,Middlesbrough FC,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Doncaster Rovers,2-1,0-0,Watford FC,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Bristol City,4-2,2-1,Preston North End,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Blackpool FC,2-2,1-0,Queens Park Rangers,2010-01-16T15:00Z
+26,Sat Jan 16 2010,15:00,GMT/+0000,Barnsley FC,1-2,1-2,Sheffield Wednesday,2010-01-16T15:00Z
+26,Mon Jan 18 2010,19:45,GMT/+0000,Newcastle United,2-2,1-1,West Bromwich Albion,2010-01-18T19:45Z
+24,Tue Jan 19 2010,19:45,GMT/+0000,Blackpool FC,1-2,0-0,Sheffield Wednesday,2010-01-19T19:45Z
+25,Sat Jan 23 2010,15:00,GMT/+0000,Middlesbrough FC,1-1,0-0,Swansea City,2010-01-23T15:00Z
+25,Sat Jan 23 2010,15:00,GMT/+0000,Sheffield Wednesday,2-1,1-0,Peterborough United,2010-01-23T15:00Z
+27,Sat Jan 23 2010,15:00,GMT/+0000,Blackpool FC,3-2,1-1,Watford FC,2010-01-23T15:00Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Peterborough United,0-1,0-1,Preston North End,2010-01-26T19:45Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Plymouth Argyle,1-0,0-0,Derby County,2010-01-26T19:45Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Nottingham Forest,5-0,3-0,Queens Park Rangers,2010-01-26T19:45Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Swansea City,0-0,0-0,Coventry City,2010-01-26T19:45Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Ipswich Town,1-1,0-0,West Bromwich Albion,2010-01-26T19:45Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Doncaster Rovers,1-4,0-2,Middlesbrough FC,2010-01-26T19:45Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Bristol City,0-6,0-4,Cardiff City,2010-01-26T19:45Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Barnsley FC,1-0,0-0,Leicester City,2010-01-26T19:45Z
+27,Tue Jan 26 2010,19:45,GMT/+0000,Sheffield United,3-0,2-0,Reading FC,2010-01-26T19:45Z
+27,Wed Jan 27 2010,19:45,GMT/+0000,Newcastle United,2-0,1-0,Crystal Palace,2010-01-27T19:45Z
+27,Wed Jan 27 2010,19:45,GMT/+0000,Scunthorpe United,2-0,1-0,Sheffield Wednesday,2010-01-27T19:45Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,Middlesbrough FC,0-0,0-0,Bristol City,2010-01-30T15:00Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,West Bromwich Albion,3-1,2-0,Sheffield United,2010-01-30T15:00Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,Sheffield Wednesday,2-1,2-1,Plymouth Argyle,2010-01-30T15:00Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,Reading FC,1-0,1-0,Barnsley FC,2010-01-30T15:00Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,Queens Park Rangers,0-1,0-0,Scunthorpe United,2010-01-30T15:00Z
+28,Sat Jan 30 2010,13:00,GMT/+0000,Derby County,1-0,0-0,Nottingham Forest,2010-01-30T13:00Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,Preston North End,2-0,0-0,Ipswich Town,2010-01-30T15:00Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,Coventry City,1-1,0-0,Blackpool FC,2010-01-30T15:00Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,Crystal Palace,2-0,1-0,Peterborough United,2010-01-30T15:00Z
+28,Sat Jan 30 2010,17:20,GMT/+0000,Leicester City,0-0,0-0,Newcastle United,2010-01-30T17:20Z
+28,Sat Jan 30 2010,15:00,GMT/+0000,Cardiff City,2-1,1-0,Doncaster Rovers,2010-01-30T15:00Z
+25,Tue Feb 2 2010,19:45,GMT/+0000,Watford FC,3-0,1-0,Sheffield United,2010-02-02T19:45Z
+23,Tue Feb 2 2010,19:45,GMT/+0000,Preston North End,1-4,1-2,Barnsley FC,2010-02-02T19:45Z
+22,Wed Feb 3 2010,19:45,GMT/+0000,Blackpool FC,2-3,1-2,West Bromwich Albion,2010-02-03T19:45Z
+29,Fri Feb 5 2010,19:45,GMT/+0000,Newcastle United,5-1,3-0,Cardiff City,2010-02-05T19:45Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Peterborough United,1-0,1-0,Queens Park Rangers,2010-02-06T15:00Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Plymouth Argyle,0-1,0-0,West Bromwich Albion,2010-02-06T15:00Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Scunthorpe United,1-2,0-0,Crystal Palace,2010-02-06T15:00Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Nottingham Forest,2-1,1-0,Sheffield Wednesday,2010-02-06T15:00Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Ipswich Town,1-1,1-0,Middlesbrough FC,2010-02-06T15:00Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Sheffield United,1-1,0-1,Derby County,2010-02-06T15:00Z
+29,Sat Feb 6 2010,17:20,GMT/+0000,Doncaster Rovers,1-2,0-1,Reading FC,2010-02-06T17:20Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Blackpool FC,1-2,0-1,Leicester City,2010-02-06T15:00Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Bristol City,1-1,0-0,Coventry City,2010-02-06T15:00Z
+29,Sat Feb 6 2010,13:00,GMT/+0000,Swansea City,2-0,1-0,Preston North End,2010-02-06T13:00Z
+29,Sat Feb 6 2010,15:00,GMT/+0000,Barnsley FC,1-0,0-0,Watford FC,2010-02-06T15:00Z
+30,Tue Feb 9 2010,19:45,GMT/+0000,Sheffield Wednesday,2-0,1-0,Blackpool FC,2010-02-09T19:45Z
+30,Tue Feb 9 2010,20:00,GMT/+0000,Crystal Palace,0-1,0-1,Swansea City,2010-02-09T20:00Z
+30,Tue Feb 9 2010,19:45,GMT/+0000,West Bromwich Albion,2-0,1-0,Scunthorpe United,2010-02-09T19:45Z
+30,Tue Feb 9 2010,19:45,GMT/+0000,Watford FC,2-0,2-0,Bristol City,2010-02-09T19:45Z
+30,Tue Feb 9 2010,19:45,GMT/+0000,Preston North End,2-1,1-0,Sheffield United,2010-02-09T19:45Z
+30,Tue Feb 9 2010,19:45,GMT/+0000,Leicester City,0-0,0-0,Doncaster Rovers,2010-02-09T19:45Z
+30,Tue Feb 9 2010,19:45,GMT/+0000,Derby County,3-0,1-0,Newcastle United,2010-02-09T19:45Z
+30,Tue Feb 9 2010,20:00,GMT/+0000,Reading FC,2-1,0-0,Plymouth Argyle,2010-02-09T20:00Z
+30,Tue Feb 9 2010,20:00,GMT/+0000,Queens Park Rangers,1-2,0-2,Ipswich Town,2010-02-09T20:00Z
+30,Tue Feb 9 2010,19:45,GMT/+0000,Cardiff City,2-0,1-0,Peterborough United,2010-02-09T19:45Z
+30,Tue Feb 9 2010,19:45,GMT/+0000,Coventry City,1-0,1-0,Nottingham Forest,2010-02-09T19:45Z
+30,Tue Feb 9 2010,20:00,GMT/+0000,Middlesbrough FC,2-1,2-0,Barnsley FC,2010-02-09T20:00Z
+31,Sat Feb 13 2010,15:00,GMT/+0000,Barnsley FC,1-3,1-0,Plymouth Argyle,2010-02-13T15:00Z
+31,Sat Feb 13 2010,15:00,GMT/+0000,Sheffield United,2-0,0-0,Bristol City,2010-02-13T15:00Z
+31,Sat Feb 13 2010,15:00,GMT/+0000,Coventry City,1-0,1-0,Queens Park Rangers,2010-02-13T15:00Z
+31,Sat Feb 13 2010,15:00,GMT/+0000,Doncaster Rovers,1-0,1-0,Nottingham Forest,2010-02-13T15:00Z
+31,Sat Feb 13 2010,15:00,GMT/+0000,Leicester City,5-1,4-0,Scunthorpe United,2010-02-13T15:00Z
+31,Sat Feb 13 2010,13:00,GMT/+0000,Preston North End,0-0,0-0,Blackpool FC,2010-02-13T13:00Z
+31,Sat Feb 13 2010,12:45,GMT/+0000,Swansea City,1-1,0-0,Newcastle United,2010-02-13T12:45Z
+31,Sat Feb 13 2010,15:00,GMT/+0000,Middlesbrough FC,1-0,1-0,Peterborough United,2010-02-13T15:00Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Cardiff City,1-1,1-1,West Bromwich Albion,2010-02-16T19:45Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Derby County,5-3,1-1,Preston North End,2010-02-16T19:45Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Nottingham Forest,1-0,1-0,Sheffield United,2010-02-16T19:45Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Peterborough United,3-1,0-1,Ipswich Town,2010-02-16T19:45Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Plymouth Argyle,1-1,0-0,Swansea City,2010-02-16T19:45Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Scunthorpe United,2-1,0-0,Barnsley FC,2010-02-16T19:45Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Sheffield Wednesday,0-2,0-1,Doncaster Rovers,2010-02-16T19:45Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Bristol City,1-1,0-0,Leicester City,2010-02-16T19:45Z
+32,Tue Feb 16 2010,19:45,GMT/+0000,Blackpool FC,2-0,1-0,Middlesbrough FC,2010-02-16T19:45Z
+32,Wed Feb 17 2010,19:45,GMT/+0000,Newcastle United,4-1,1-1,Coventry City,2010-02-17T19:45Z
+32,Wed Feb 17 2010,20:00,GMT/+0000,Crystal Palace,1-3,0-1,Reading FC,2010-02-17T20:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Scunthorpe United,2-2,1-0,Watford FC,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Queens Park Rangers,2-1,1-0,Doncaster Rovers,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Plymouth Argyle,1-1,1-1,Leicester City,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Nottingham Forest,1-0,0-0,Middlesbrough FC,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Sheffield Wednesday,0-1,0-1,Ipswich Town,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Derby County,0-1,0-0,Swansea City,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Crystal Palace,0-1,0-0,Coventry City,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Cardiff City,0-2,0-2,Barnsley FC,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Blackpool FC,2-0,1-0,Reading FC,2010-02-20T15:00Z
+33,Sat Feb 20 2010,15:00,GMT/+0000,Newcastle United,3-0,1-0,Preston North End,2010-02-20T15:00Z
+33,Sun Feb 21 2010,14:00,GMT/+0000,Bristol City,2-1,0-1,West Bromwich Albion,2010-02-21T14:00Z
+24,Tue Feb 23 2010,19:45,GMT/+0000,Doncaster Rovers,0-1,0-1,Leicester City,2010-02-23T19:45Z
+22,Tue Feb 23 2010,19:45,GMT/+0000,Scunthorpe United,1-1,0-0,Ipswich Town,2010-02-23T19:45Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Preston North End,3-0,1-0,Cardiff City,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Middlesbrough FC,2-0,2-0,Queens Park Rangers,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,West Bromwich Albion,3-1,0-0,Derby County,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Reading FC,5-0,2-0,Sheffield Wednesday,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Leicester City,3-0,0-0,Nottingham Forest,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Sheffield United,4-3,2-0,Plymouth Argyle,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Ipswich Town,0-0,0-0,Bristol City,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Swansea City,1-0,1-0,Peterborough United,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Watford FC,1-2,0-1,Newcastle United,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Barnsley FC,1-0,0-0,Blackpool FC,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Coventry City,2-1,0-0,Scunthorpe United,2010-02-27T15:00Z
+34,Sat Feb 27 2010,15:00,GMT/+0000,Doncaster Rovers,1-1,1-0,Crystal Palace,2010-02-27T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Blackpool FC,1-0,0-0,Ipswich Town,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Bristol City,2-5,2-4,Doncaster Rovers,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Cardiff City,1-0,1-0,Middlesbrough FC,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Crystal Palace,1-0,1-0,Sheffield United,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Sheffield Wednesday,2-0,1-0,Leicester City,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Queens Park Rangers,3-1,2-1,West Bromwich Albion,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Plymouth Argyle,1-1,0-1,Preston North End,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Peterborough United,0-1,0-1,Coventry City,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Nottingham Forest,1-0,0-0,Swansea City,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Newcastle United,6-1,1-0,Barnsley FC,2010-03-06T15:00Z
+35,Sat Mar 6 2010,15:00,GMT/+0000,Derby County,2-0,1-0,Watford FC,2010-03-06T15:00Z
+33,Tue Mar 9 2010,19:30,GMT/+0000,Peterborough United,1-0,1-0,Sheffield United,2010-03-09T19:30Z
+25,Tue Mar 9 2010,20:00,GMT/+0000,Crystal Palace,0-1,0-0,Bristol City,2010-03-09T20:00Z
+25,Tue Mar 9 2010,20:00,GMT/+0000,Queens Park Rangers,2-0,1-0,Plymouth Argyle,2010-03-09T20:00Z
+28,Tue Mar 9 2010,19:45,GMT/+0000,Watford FC,0-1,0-1,Swansea City,2010-03-09T19:45Z
+31,Tue Mar 9 2010,19:45,GMT/+0000,West Bromwich Albion,1-0,0-0,Sheffield Wednesday,2010-03-09T19:45Z
+31,Tue Mar 9 2010,19:45,GMT/+0000,Ipswich Town,2-0,1-0,Cardiff City,2010-03-09T19:45Z
+25,Tue Mar 9 2010,19:45,GMT/+0000,Preston North End,1-1,1-1,Doncaster Rovers,2010-03-09T19:45Z
+31,Wed Mar 10 2010,20:00,GMT/+0000,Reading FC,4-1,2-1,Derby County,2010-03-10T20:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Watford FC,0-1,0-0,Peterborough United,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Swansea City,0-0,0-0,Sheffield Wednesday,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Sheffield United,1-1,1-0,Queens Park Rangers,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Reading FC,2-0,2-0,Bristol City,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Preston North End,3-2,3-0,Nottingham Forest,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,West Bromwich Albion,3-2,1-1,Blackpool FC,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Barnsley FC,0-0,0-0,Crystal Palace,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Coventry City,1-1,0-1,Plymouth Argyle,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Doncaster Rovers,2-1,1-0,Derby County,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Ipswich Town,1-0,0-0,Scunthorpe United,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Leicester City,1-0,1-0,Cardiff City,2010-03-13T15:00Z
+36,Sat Mar 13 2010,15:00,GMT/+0000,Middlesbrough FC,2-2,1-1,Newcastle United,2010-03-13T15:00Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Swansea City,0-2,0-0,West Bromwich Albion,2010-03-16T19:45Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Watford FC,2-1,1-0,Ipswich Town,2010-03-16T19:45Z
+37,Tue Mar 16 2010,20:00,GMT/+0000,Crystal Palace,0-1,0-0,Leicester City,2010-03-16T20:00Z
+37,Tue Mar 16 2010,20:00,GMT/+0000,Reading FC,1-0,0-0,Queens Park Rangers,2010-03-16T20:00Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Preston North End,2-2,1-0,Sheffield Wednesday,2010-03-16T19:45Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Sheffield United,3-0,2-0,Blackpool FC,2010-03-16T19:45Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Barnsley FC,2-1,1-0,Nottingham Forest,2010-03-16T19:45Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Coventry City,1-2,1-1,Cardiff City,2010-03-16T19:45Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Derby County,2-2,0-1,Middlesbrough FC,2010-03-16T19:45Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Peterborough United,1-2,0-0,Doncaster Rovers,2010-03-16T19:45Z
+37,Tue Mar 16 2010,19:45,GMT/+0000,Plymouth Argyle,3-2,2-0,Bristol City,2010-03-16T19:45Z
+37,Wed Mar 17 2010,19:45,GMT/+0000,Newcastle United,3-0,2-0,Scunthorpe United,2010-03-17T19:45Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,Nottingham Forest,1-0,1-0,Peterborough United,2010-03-20T15:00Z
+38,Sat Mar 20 2010,17:20,GMT/+0000,Bristol City,2-2,2-0,Newcastle United,2010-03-20T17:20Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,Middlesbrough FC,1-1,0-0,Reading FC,2010-03-20T15:00Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Derby County,2010-03-20T15:00Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,Scunthorpe United,2-1,1-1,Plymouth Argyle,2010-03-20T15:00Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,West Bromwich Albion,3-2,3-2,Preston North End,2010-03-20T15:00Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,Blackpool FC,2-2,0-2,Crystal Palace,2010-03-20T15:00Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,Doncaster Rovers,1-1,1-0,Sheffield United,2010-03-20T15:00Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,Ipswich Town,1-0,1-0,Barnsley FC,2010-03-20T15:00Z
+38,Sat Mar 20 2010,15:00,GMT/+0000,Queens Park Rangers,1-1,0-0,Swansea City,2010-03-20T15:00Z
+38,Sun Mar 21 2010,14:00,GMT/+0000,Leicester City,2-2,2-0,Coventry City,2010-03-21T14:00Z
+38,Sun Mar 21 2010,15:00,GMT/+0000,Cardiff City,3-1,1-0,Watford FC,2010-03-21T15:00Z
+39,Tue Mar 23 2010,19:45,GMT/+0000,Ipswich Town,0-2,0-1,Plymouth Argyle,2010-03-23T19:45Z
+39,Tue Mar 23 2010,19:45,GMT/+0000,Nottingham Forest,2-0,1-0,Crystal Palace,2010-03-23T19:45Z
+39,Tue Mar 23 2010,19:45,GMT/+0000,Doncaster Rovers,0-1,0-0,Newcastle United,2010-03-23T19:45Z
+39,Tue Mar 23 2010,19:45,GMT/+0000,Bristol City,5-3,2-2,Barnsley FC,2010-03-23T19:45Z
+39,Tue Mar 23 2010,20:00,GMT/+0000,Queens Park Rangers,1-1,1-0,Derby County,2010-03-23T20:00Z
+39,Tue Mar 23 2010,20:00,GMT/+0000,Middlesbrough FC,2-0,1-0,Preston North End,2010-03-23T20:00Z
+39,Tue Mar 23 2010,19:45,GMT/+0000,Blackpool FC,5-1,2-0,Swansea City,2010-03-23T19:45Z
+39,Tue Mar 23 2010,19:45,GMT/+0000,Scunthorpe United,4-0,3-0,Peterborough United,2010-03-23T19:45Z
+39,Wed Mar 24 2010,19:45,GMT/+0000,West Bromwich Albion,1-0,1-0,Coventry City,2010-03-24T19:45Z
+39,Wed Mar 24 2010,19:45,GMT/+0000,Sheffield Wednesday,2-1,0-0,Watford FC,2010-03-24T19:45Z
+39,Wed Mar 24 2010,19:45,GMT/+0000,Leicester City,1-2,1-1,Reading FC,2010-03-24T19:45Z
+39,Wed Mar 24 2010,19:45,GMT/+0000,Cardiff City,1-1,1-0,Sheffield United,2010-03-24T19:45Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Reading FC,1-1,1-0,West Bromwich Albion,2010-03-27T15:00Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Swansea City,0-0,0-0,Ipswich Town,2010-03-27T15:00Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Watford FC,1-1,1-0,Middlesbrough FC,2010-03-27T15:00Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Peterborough United,0-1,0-0,Bristol City,2010-03-27T15:00Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Derby County,1-0,1-0,Leicester City,2010-03-27T15:00Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Preston North End,2-2,1-0,Queens Park Rangers,2010-03-27T15:00Z
+40,Sat Mar 27 2010,12:45,GMT/+0000,Crystal Palace,1-2,0-1,Cardiff City,2010-03-27T12:45Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Barnsley FC,0-1,0-1,Doncaster Rovers,2010-03-27T15:00Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Coventry City,1-1,0-0,Sheffield Wednesday,2010-03-27T15:00Z
+40,Sat Mar 27 2010,15:00,GMT/+0000,Plymouth Argyle,0-2,0-0,Blackpool FC,2010-03-27T15:00Z
+40,Sun Mar 28 2010,12:15,BST/+0100,Sheffield United,0-1,0-1,Scunthorpe United,2010-03-28T11:15Z
+40,Mon Mar 29 2010,19:45,BST/+0100,Newcastle United,2-0,0-0,Nottingham Forest,2010-03-29T18:45Z
+22,Tue Mar 30 2010,19:45,BST/+0100,Cardiff City,2-1,2-0,Leicester City,2010-03-30T18:45Z
+18,Tue Mar 30 2010,19:45,BST/+0100,Plymouth Argyle,0-0,0-0,Barnsley FC,2010-03-30T18:45Z
+31,Tue Mar 30 2010,19:45,BST/+0100,Watford FC,1-3,0-1,Crystal Palace,2010-03-30T18:45Z
+41,Fri Apr 2 2010,15:00,BST/+0100,Scunthorpe United,2-4,0-1,Blackpool FC,2010-04-02T14:00Z
+41,Fri Apr 2 2010,17:15,BST/+0100,West Bromwich Albion,3-0,2-0,Leicester City,2010-04-02T16:15Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Preston North End,1-1,0-1,Watford FC,2010-04-03T14:00Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Sheffield United,0-0,0-0,Barnsley FC,2010-04-03T14:00Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Queens Park Rangers,1-1,1-0,Sheffield Wednesday,2010-04-03T14:00Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Bristol City,1-1,1-1,Nottingham Forest,2010-04-03T14:00Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Coventry City,0-1,0-1,Derby County,2010-04-03T14:00Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Doncaster Rovers,1-2,0-0,Plymouth Argyle,2010-04-03T14:00Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Ipswich Town,2-1,2-0,Reading FC,2010-04-03T14:00Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Middlesbrough FC,1-1,1-1,Crystal Palace,2010-04-03T14:00Z
+41,Sat Apr 3 2010,15:00,BST/+0100,Peterborough United,2-3,1-1,Newcastle United,2010-04-03T14:00Z
+41,Sat Apr 3 2010,17:20,BST/+0100,Cardiff City,2-1,1-1,Swansea City,2010-04-03T16:20Z
+42,Mon Apr 5 2010,17:15,BST/+0100,Nottingham Forest,0-0,0-0,Cardiff City,2010-04-05T16:15Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Watford FC,1-1,0-0,West Bromwich Albion,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Swansea City,3-0,1-0,Scunthorpe United,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Barnsley FC,2-2,1-1,Peterborough United,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Blackpool FC,2-0,1-0,Doncaster Rovers,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Crystal Palace,3-1,1-1,Preston North End,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Derby County,1-3,0-1,Ipswich Town,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Leicester City,4-0,2-0,Queens Park Rangers,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Plymouth Argyle,0-2,0-1,Middlesbrough FC,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Reading FC,3-0,3-0,Coventry City,2010-04-05T14:00Z
+42,Mon Apr 5 2010,15:00,BST/+0100,Sheffield Wednesday,0-1,0-0,Bristol City,2010-04-05T14:00Z
+42,Mon Apr 5 2010,19:45,BST/+0100,Newcastle United,2-1,1-1,Sheffield United,2010-04-05T18:45Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Watford FC,1-0,0-0,Plymouth Argyle,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Preston North End,3-2,1-0,Scunthorpe United,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Sheffield United,1-0,0-0,Coventry City,2010-04-10T14:00Z
+43,Sat Apr 10 2010,14:00,BST/+0100,Bristol City,1-0,0-0,Swansea City,2010-04-10T13:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Barnsley FC,0-0,0-0,Derby County,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Cardiff City,0-0,0-0,Reading FC,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Crystal Palace,0-2,0-1,Queens Park Rangers,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Doncaster Rovers,2-3,0-2,West Bromwich Albion,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Middlesbrough FC,1-0,1-0,Sheffield Wednesday,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Newcastle United,4-1,2-0,Blackpool FC,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Nottingham Forest,3-0,0-0,Ipswich Town,2010-04-10T14:00Z
+43,Sat Apr 10 2010,15:00,BST/+0100,Peterborough United,1-2,0-1,Leicester City,2010-04-10T14:00Z
+25,Tue Apr 13 2010,20:00,BST/+0100,Reading FC,1-2,0-2,Newcastle United,2010-04-13T19:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Swansea City,3-1,2-1,Barnsley FC,2010-04-17T14:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Leicester City,4-1,2-0,Watford FC,2010-04-17T14:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Blackpool FC,3-1,1-0,Nottingham Forest,2010-04-17T14:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Coventry City,1-1,1-1,Preston North End,2010-04-17T14:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Derby County,1-1,1-0,Crystal Palace,2010-04-17T14:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Ipswich Town,1-1,0-0,Doncaster Rovers,2010-04-17T14:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Scunthorpe United,3-0,1-0,Bristol City,2010-04-17T14:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Queens Park Rangers,0-1,0-0,Cardiff City,2010-04-17T14:00Z
+44,Sat Apr 17 2010,15:00,BST/+0100,Reading FC,6-0,4-0,Peterborough United,2010-04-17T14:00Z
+44,Sat Apr 17 2010,17:15,BST/+0100,West Bromwich Albion,2-0,1-0,Middlesbrough FC,2010-04-17T16:15Z
+44,Sun Apr 18 2010,13:00,BST/+0100,Sheffield Wednesday,1-1,1-0,Sheffield United,2010-04-18T12:00Z
+44,Mon Apr 19 2010,19:45,BST/+0100,Plymouth Argyle,0-2,0-2,Newcastle United,2010-04-19T18:45Z
+35,Tue Apr 20 2010,19:45,BST/+0100,Scunthorpe United,2-2,0-0,Reading FC,2010-04-20T18:45Z
+32,Tue Apr 20 2010,20:00,BST/+0100,Queens Park Rangers,1-0,1-0,Watford FC,2010-04-20T19:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Barnsley FC,0-1,0-1,Queens Park Rangers,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Bristol City,2-1,1-0,Derby County,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Cardiff City,3-2,1-1,Sheffield Wednesday,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Doncaster Rovers,4-3,2-1,Scunthorpe United,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Middlesbrough FC,1-1,0-0,Coventry City,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Newcastle United,2-2,1-1,Ipswich Town,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Nottingham Forest,3-0,2-0,Plymouth Argyle,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Peterborough United,0-1,0-1,Blackpool FC,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Preston North End,0-1,0-0,Leicester City,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Sheffield United,2-0,0-0,Swansea City,2010-04-24T14:00Z
+45,Sat Apr 24 2010,15:00,BST/+0100,Watford FC,3-0,1-0,Reading FC,2010-04-24T14:00Z
+45,Mon Apr 26 2010,20:00,BST/+0100,Crystal Palace,1-1,1-1,West Bromwich Albion,2010-04-26T19:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Blackpool FC,1-1,0-1,Bristol City,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Coventry City,0-4,0-2,Watford FC,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Derby County,2-0,0-0,Cardiff City,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Ipswich Town,0-3,0-1,Sheffield United,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Leicester City,2-0,1-0,Middlesbrough FC,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Plymouth Argyle,1-2,1-0,Peterborough United,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Queens Park Rangers,0-1,0-0,Newcastle United,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Reading FC,4-1,2-0,Preston North End,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Scunthorpe United,2-2,0-2,Nottingham Forest,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Sheffield Wednesday,2-2,1-1,Crystal Palace,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,Swansea City,0-0,0-0,Doncaster Rovers,2010-05-02T12:00Z
+46,Sun May 2 2010,13:00,BST/+0100,West Bromwich Albion,1-1,0-0,Barnsley FC,2010-05-02T12:00Z

@@ -1,463 +1,463 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Sat Sep 12 2020,17:15,CD Leganés,1-0,0-0,UD Las Palmas
-1,Sat Sep 12 2020,17:15,Sporting Gijón,1-0,0-0,UD Logroñés
-1,Sat Sep 12 2020,20:00,Espanyol Barcelona,3-0,2-0,Albacete
-1,Sat Sep 12 2020,15:00,SD Ponferradina,1-2,1-1,CD Castellón
-1,Sun Sep 13 2020,11:00,Real Oviedo,0-0,0-0,FC Cartagena
-1,Sun Sep 13 2020,15:00,RCD Mallorca,0-1,0-0,Rayo Vallecano
-1,Sun Sep 13 2020,17:15,CD Mirandés,0-0,0-0,AD Alcorcón
-1,Sun Sep 13 2020,17:15,CF Fuenlabrada,2-0,0-0,CD Lugo
-1,Sun Sep 13 2020,20:00,CD Tenerife,2-0,1-0,Málaga CF
-2,Sat Sep 19 2020,20:00,Rayo Vallecano,2-1,0-1,CE Sabadell
-2,Sat Sep 19 2020,17:15,CD Castellón,0-1,0-1,Málaga CF
-2,Sat Sep 19 2020,15:00,CD Mirandés,1-1,0-0,Real Oviedo
-2,Sat Sep 19 2020,17:15,AD Alcorcón,2-0,0-0,CD Tenerife
-2,Sun Sep 20 2020,17:15,FC Cartagena,0-1,0-0,Sporting Gijón
-2,Sun Sep 20 2020,11:00,CD Lugo,2-1,0-1,CD Leganés
-2,Sun Sep 20 2020,15:00,Espanyol Barcelona,0-0,0-0,RCD Mallorca
-2,Sun Sep 20 2020,17:15,Albacete,0-2,0-1,SD Ponferradina
-2,Sun Sep 20 2020,19:30,UD Las Palmas,3-3,1-0,CF Fuenlabrada
-3,Sat Sep 26 2020,17:15,Sporting Gijón,2-0,0-0,Girona FC
-3,Sat Sep 26 2020,19:30,CF Fuenlabrada,1-0,0-0,Albacete
-3,Sat Sep 26 2020,17:15,Málaga CF,1-0,1-0,AD Alcorcón
-3,Sat Sep 26 2020,15:00,Real Zaragoza,2-2,1-1,UD Las Palmas
-3,Sat Sep 26 2020,17:15,UD Logroñés,1-1,0-0,CD Castellón
-3,Sun Sep 27 2020,19:30,CD Leganés,3-1,3-0,FC Cartagena
-3,Sun Sep 27 2020,17:15,Real Oviedo,0-2,0-0,Espanyol Barcelona
-3,Sun Sep 27 2020,17:15,CD Tenerife,1-2,1-1,CD Mirandés
-3,Sun Sep 27 2020,17:15,SD Ponferradina,3-0,3-0,Rayo Vallecano
-3,Sun Sep 27 2020,11:00,CD Lugo,0-2,0-2,UD Almería
-3,Sun Sep 27 2020,15:00,RCD Mallorca,1-0,0-0,CE Sabadell
-4,Sat Oct 3 2020,20:00,Rayo Vallecano,4-0,2-0,Málaga CF
-4,Sat Oct 3 2020,17:15,RCD Mallorca,2-0,1-0,CD Tenerife
-4,Sat Oct 3 2020,17:15,Albacete,1-1,0-1,Real Oviedo
-4,Sat Oct 3 2020,15:00,CD Mirandés,0-1,0-0,SD Ponferradina
-4,Sat Oct 3 2020,15:00,AD Alcorcón,0-3,0-0,Real Zaragoza
-4,Sat Oct 3 2020,19:30,UD Las Palmas,2-1,0-0,UD Logroñés
-4,Sun Oct 4 2020,19:30,FC Cartagena,2-1,1-0,CD Lugo
-4,Sun Oct 4 2020,17:15,CD Castellón,2-0,1-0,CD Leganés
-4,Sun Oct 4 2020,15:00,CE Sabadell,0-1,0-0,Espanyol Barcelona
-4,Sun Oct 4 2020,17:15,UD Almería,0-1,0-0,Sporting Gijón
-4,Sun Oct 4 2020,11:00,Girona FC,0-1,0-1,CF Fuenlabrada
-5,Sat Oct 10 2020,15:00,UD Logroñés,1-0,0-0,UD Almería
-5,Sat Oct 10 2020,15:00,Espanyol Barcelona,1-0,0-0,AD Alcorcón
-5,Sat Oct 10 2020,12:00,CE Sabadell,0-2,0-0,CD Mirandés
-5,Sat Oct 10 2020,17:30,CD Tenerife,1-0,0-0,Rayo Vallecano
-5,Sun Oct 11 2020,17:30,SD Ponferradina,0-2,0-0,FC Cartagena
-5,Sun Oct 11 2020,20:00,Real Oviedo,1-0,1-0,Sporting Gijón
-5,Sun Oct 11 2020,17:00,Real Zaragoza,1-0,0-0,Albacete
-5,Sun Oct 11 2020,15:00,Málaga CF,0-0,0-0,UD Las Palmas
-5,Sun Oct 11 2020,11:00,CD Lugo,0-1,0-0,RCD Mallorca
-5,Sun Oct 11 2020,11:00,CF Fuenlabrada,1-1,1-0,CD Castellón
-5,Sun Oct 11 2020,15:00,CD Leganés,0-1,0-1,Girona FC
-6,Sat Oct 17 2020,19:30,CD Castellón,0-1,0-0,CD Lugo
-6,Sat Oct 17 2020,17:15,UD Las Palmas,2-0,1-0,UD Almería
-6,Sat Oct 17 2020,17:15,FC Cartagena,1-1,0-0,CF Fuenlabrada
-6,Sat Oct 17 2020,19:30,UD Logroñés,0-1,0-1,CD Leganés
-6,Sat Oct 17 2020,15:00,Albacete,3-0,1-0,CE Sabadell
-6,Sun Oct 18 2020,19:30,Girona FC,1-0,0-0,Real Oviedo
-6,Sun Oct 18 2020,17:15,Real Zaragoza,1-2,0-2,Málaga CF
-6,Sun Oct 18 2020,17:15,CD Mirandés,0-0,0-0,RCD Mallorca
-6,Sun Oct 18 2020,15:00,Rayo Vallecano,1-0,0-0,Espanyol Barcelona
-6,Sun Oct 18 2020,20:00,Sporting Gijón,1-1,0-0,CD Tenerife
-7,Wed Oct 21 2020,20:30,CF Fuenlabrada,0-0,0-0,UD Logroñés
-7,Wed Oct 21 2020,18:00,SD Ponferradina,1-0,1-0,CD Tenerife
-7,Wed Oct 21 2020,18:00,CD Lugo,3-0,0-0,Girona FC
-7,Wed Oct 21 2020,20:30,UD Almería,1-1,0-1,FC Cartagena
-7,Wed Oct 21 2020,15:30,Espanyol Barcelona,2-0,2-0,CD Mirandés
-7,Wed Oct 21 2020,18:00,UD Las Palmas,2-1,0-0,CD Castellón
-7,Thu Oct 22 2020,18:00,RCD Mallorca,0-0,0-0,Albacete
-7,Thu Oct 22 2020,15:30,CD Leganés,1-0,0-0,Real Zaragoza
-7,Thu Oct 22 2020,20:30,Málaga CF,1-0,1-0,Sporting Gijón
-7,Thu Oct 22 2020,18:00,Real Oviedo,0-0,0-0,Rayo Vallecano
-8,Sat Oct 24 2020,17:15,UD Logroñés,2-3,1-0,CD Lugo
-8,Sat Oct 24 2020,19:30,CD Castellón,0-1,0-1,Girona FC
-8,Sat Oct 24 2020,17:15,FC Cartagena,3-0,2-0,UD Las Palmas
-8,Sat Oct 24 2020,19:30,UD Almería,3-0,1-0,CF Fuenlabrada
-8,Sun Oct 25 2020,15:00,Sporting Gijón,2-1,0-1,SD Ponferradina
-8,Sun Oct 25 2020,17:15,CD Tenerife,0-0,0-0,Espanyol Barcelona
-8,Sun Oct 25 2020,19:30,Albacete,2-1,1-0,Rayo Vallecano
-8,Sun Oct 25 2020,20:00,Real Zaragoza,0-0,0-0,CE Sabadell
-8,Sun Oct 25 2020,19:30,Málaga CF,1-1,1-0,CD Mirandés
-8,Sun Oct 25 2020,17:15,CD Leganés,2-1,0-0,Real Oviedo
-8,Mon Oct 26 2020,17:00,AD Alcorcón,0-2,0-2,RCD Mallorca
-9,Tue Oct 27 2020,18:00,Girona FC,2-1,1-1,FC Cartagena
-9,Wed Oct 28 2020,18:00,Albacete,1-1,1-0,UD Las Palmas
-9,Wed Oct 28 2020,18:00,CD Castellón,1-2,0-1,UD Almería
-9,Wed Oct 28 2020,18:00,Espanyol Barcelona,2-0,1-0,SD Ponferradina
-9,Wed Oct 28 2020,20:30,Real Oviedo,2-3,1-0,UD Logroñés
-9,Thu Oct 29 2020,18:00,CD Mirandés,1-0,0-0,Real Zaragoza
-9,Thu Oct 29 2020,18:00,CD Tenerife,1-1,1-0,CD Lugo
-9,Thu Oct 29 2020,20:30,Rayo Vallecano,2-0,0-0,CF Fuenlabrada
-9,Thu Oct 29 2020,20:30,CE Sabadell,1-0,0-0,CD Leganés
-9,Thu Oct 29 2020,18:00,RCD Mallorca,3-1,1-0,Málaga CF
-9,Thu Oct 29 2020,15:30,AD Alcorcón,1-2,0-0,Sporting Gijón
-10,Sat Oct 31 2020,15:00,FC Cartagena,3-1,3-0,Albacete
-10,Sat Oct 31 2020,17:15,UD Las Palmas,1-2,0-2,Real Oviedo
-10,Sun Nov 1 2020,19:30,CD Lugo,1-0,1-0,Rayo Vallecano
-10,Sun Nov 1 2020,17:15,SD Ponferradina,0-3,0-1,CE Sabadell
-10,Sun Nov 1 2020,17:15,CF Fuenlabrada,1-1,1-0,CD Tenerife
-10,Sun Nov 1 2020,20:00,UD Almería,0-0,0-0,Girona FC
-10,Sun Nov 1 2020,13:00,CD Leganés,1-0,0-0,CD Mirandés
-10,Sun Nov 1 2020,15:00,Real Zaragoza,0-0,0-0,RCD Mallorca
-10,Mon Nov 2 2020,20:00,Málaga CF,0-3,0-1,Espanyol Barcelona
-10,Mon Nov 2 2020,17:15,Sporting Gijón,1-0,1-0,CD Castellón
-10,Mon Nov 2 2020,15:00,UD Logroñés,1-0,1-0,AD Alcorcón
-1,Wed Nov 4 2020,18:00,Real Zaragoza,2-2,0-1,Girona FC
-1,Thu Nov 5 2020,18:00,CE Sabadell,1-2,1-1,UD Almería
-6,Thu Nov 5 2020,18:00,AD Alcorcón,0-1,0-0,SD Ponferradina
-11,Fri Nov 6 2020,20:00,Albacete,0-0,0-0,CD Leganés
-11,Sat Nov 7 2020,20:00,Espanyol Barcelona,2-1,1-1,CD Lugo
-11,Sat Nov 7 2020,15:00,FC Cartagena,0-1,0-0,UD Logroñés
-11,Sat Nov 7 2020,17:15,CD Mirandés,1-0,1-0,Sporting Gijón
-11,Sun Nov 8 2020,19:30,CD Tenerife,1-0,1-0,Real Zaragoza
-11,Sun Nov 8 2020,17:15,Real Oviedo,4-0,1-0,CD Castellón
-11,Sun Nov 8 2020,17:15,RCD Mallorca,3-0,2-0,SD Ponferradina
-11,Sun Nov 8 2020,13:00,CE Sabadell,1-2,1-1,Málaga CF
-11,Sun Nov 8 2020,15:00,AD Alcorcón,0-3,0-1,CF Fuenlabrada
-11,Sun Nov 8 2020,15:00,Rayo Vallecano,0-1,0-0,UD Almería
-11,Mon Nov 9 2020,20:00,Girona FC,1-1,0-1,UD Las Palmas
-12,Fri Nov 13 2020,20:00,Real Zaragoza,1-2,1-1,Real Oviedo
-12,Sat Nov 14 2020,15:15,UD Almería,2-1,2-1,CD Mirandés
-12,Sat Nov 14 2020,17:30,CD Lugo,1-0,0-0,Albacete
-12,Sat Nov 14 2020,13:00,CF Fuenlabrada,1-1,0-1,Espanyol Barcelona
-12,Sat Nov 14 2020,17:30,Girona FC,0-1,0-1,RCD Mallorca
-12,Sun Nov 15 2020,17:30,CD Castellón,2-1,0-0,FC Cartagena
-12,Sun Nov 15 2020,17:30,UD Logroñés,1-0,0-0,CE Sabadell
-12,Sun Nov 15 2020,21:00,UD Las Palmas,1-0,0-0,CD Tenerife
-12,Sun Nov 15 2020,13:00,CD Leganés,1-0,0-0,AD Alcorcón
-12,Sun Nov 15 2020,15:15,SD Ponferradina,1-1,0-1,Málaga CF
-12,Mon Nov 16 2020,20:00,Sporting Gijón,1-1,0-0,Rayo Vallecano
-13,Fri Nov 20 2020,18:00,AD Alcorcón,1-0,0-0,CD Lugo
-13,Fri Nov 20 2020,20:00,Espanyol Barcelona,1-2,1-0,Girona FC
-13,Sat Nov 21 2020,13:00,Málaga CF,1-2,0-1,CD Leganés
-13,Sat Nov 21 2020,19:30,Real Oviedo,1-1,1-0,CF Fuenlabrada
-13,Sat Nov 21 2020,17:15,Rayo Vallecano,2-1,2-0,CD Castellón
-13,Sat Nov 21 2020,15:00,CD Mirandés,4-1,1-0,FC Cartagena
-13,Sun Nov 22 2020,20:00,SD Ponferradina,2-1,0-0,Real Zaragoza
-13,Sun Nov 22 2020,17:15,CD Tenerife,0-1,0-1,UD Logroñés
-13,Sun Nov 22 2020,13:00,CE Sabadell,3-1,2-0,UD Las Palmas
-13,Sun Nov 22 2020,15:00,RCD Mallorca,0-0,0-0,Sporting Gijón
-13,Mon Nov 23 2020,20:00,Albacete,1-2,0-1,UD Almería
-14,Tue Nov 24 2020,20:30,CD Lugo,0-0,0-0,Real Oviedo
-14,Tue Nov 24 2020,18:00,CD Castellón,0-2,0-2,AD Alcorcón
-14,Tue Nov 24 2020,18:00,Girona FC,0-1,0-1,Málaga CF
-14,Wed Nov 25 2020,20:30,FC Cartagena,1-2,0-0,RCD Mallorca
-14,Wed Nov 25 2020,18:00,UD Las Palmas,0-2,0-1,CD Mirandés
-14,Wed Nov 25 2020,18:00,Real Zaragoza,1-2,1-0,Rayo Vallecano
-14,Wed Nov 25 2020,18:00,Sporting Gijón,3-1,1-0,CE Sabadell
-14,Wed Nov 25 2020,20:30,CF Fuenlabrada,1-1,0-0,SD Ponferradina
-14,Thu Nov 26 2020,20:30,UD Almería,2-0,0-0,CD Tenerife
-14,Thu Nov 26 2020,18:00,CD Leganés,2-0,1-0,Espanyol Barcelona
-14,Thu Nov 26 2020,18:00,UD Logroñés,2-0,1-0,Albacete
-15,Fri Nov 27 2020,18:00,AD Alcorcón,1-0,0-0,Girona FC
-15,Fri Nov 27 2020,20:00,Málaga CF,2-2,0-2,CD Lugo
-15,Sat Nov 28 2020,15:00,CE Sabadell,1-2,1-1,CF Fuenlabrada
-15,Sat Nov 28 2020,17:15,Rayo Vallecano,0-0,0-0,FC Cartagena
-15,Sat Nov 28 2020,19:30,CD Mirandés,1-1,1-0,CD Castellón
-15,Sun Nov 29 2020,17:15,SD Ponferradina,3-2,2-2,CD Leganés
-15,Sun Nov 29 2020,20:00,UD Las Palmas,3-2,0-2,Sporting Gijón
-15,Sun Nov 29 2020,17:15,RCD Mallorca,4-0,2-0,UD Logroñés
-15,Sun Nov 29 2020,13:00,Albacete,0-2,0-0,CD Tenerife
-15,Sun Nov 29 2020,15:00,Espanyol Barcelona,2-0,0-0,Real Zaragoza
-15,Mon Nov 30 2020,20:00,Real Oviedo,1-2,0-1,UD Almería
-16,Tue Dec 1 2020,18:00,CF Fuenlabrada,0-2,0-1,Málaga CF
-16,Tue Dec 1 2020,20:30,Girona FC,1-0,1-0,CD Mirandés
-16,Wed Dec 2 2020,20:00,CD Castellón,1-0,0-0,Real Zaragoza
-16,Wed Dec 2 2020,18:00,UD Logroñés,1-2,0-1,SD Ponferradina
-16,Wed Dec 2 2020,20:30,CD Lugo,1-1,1-1,UD Las Palmas
-16,Wed Dec 2 2020,18:00,CD Leganés,1-0,1-0,Rayo Vallecano
-16,Wed Dec 2 2020,18:00,FC Cartagena,1-3,0-0,Espanyol Barcelona
-16,Thu Dec 3 2020,18:00,UD Almería,0-1,0-0,RCD Mallorca
-16,Thu Dec 3 2020,18:00,Real Oviedo,1-1,0-0,AD Alcorcón
-16,Thu Dec 3 2020,20:30,Sporting Gijón,0-0,0-0,Albacete
-16,Thu Dec 3 2020,18:00,CD Tenerife,1-2,1-2,CE Sabadell
-17,Sat Dec 5 2020,19:30,Málaga CF,1-2,1-1,FC Cartagena
-17,Sat Dec 5 2020,17:15,CD Mirandés,0-0,0-0,CD Lugo
-17,Sat Dec 5 2020,15:00,SD Ponferradina,0-0,0-0,UD Las Palmas
-17,Sat Dec 5 2020,13:00,Rayo Vallecano,2-1,2-1,UD Logroñés
-17,Sun Dec 6 2020,20:00,Real Zaragoza,1-0,0-0,CF Fuenlabrada
-17,Sun Dec 6 2020,17:15,Albacete,0-2,0-0,Girona FC
-17,Sun Dec 6 2020,13:00,AD Alcorcón,0-1,0-0,UD Almería
-17,Sun Dec 6 2020,15:00,Espanyol Barcelona,2-0,0-0,Sporting Gijón
-17,Sun Dec 6 2020,19:30,CE Sabadell,0-1,0-0,Real Oviedo
-17,Mon Dec 7 2020,18:00,CD Tenerife,0-0,0-0,CD Leganés
-17,Mon Dec 7 2020,20:00,RCD Mallorca,3-1,2-0,CD Castellón
-7,Wed Dec 9 2020,18:00,CE Sabadell,1-1,0-0,AD Alcorcón
-2,Wed Dec 9 2020,18:00,UD Almería,1-0,0-0,Real Zaragoza
-2,Thu Dec 10 2020,18:00,Girona FC,2-0,0-0,UD Logroñés
-18,Fri Dec 11 2020,20:00,Real Oviedo,4-2,2-1,CD Tenerife
-18,Fri Dec 11 2020,18:00,CD Lugo,1-0,0-0,SD Ponferradina
-18,Sat Dec 12 2020,17:15,CD Castellón,3-0,1-0,Albacete
-18,Sat Dec 12 2020,19:30,CF Fuenlabrada,0-1,0-0,CD Mirandés
-18,Sat Dec 12 2020,15:00,CD Leganés,0-1,0-0,RCD Mallorca
-18,Sun Dec 13 2020,13:00,UD Logroñés,0-3,0-2,Espanyol Barcelona
-18,Sun Dec 13 2020,15:00,UD Almería,3-1,1-1,Málaga CF
-18,Sun Dec 13 2020,17:15,UD Las Palmas,0-0,0-0,AD Alcorcón
-18,Sun Dec 13 2020,19:30,FC Cartagena,1-2,0-0,CE Sabadell
-18,Sun Dec 13 2020,20:00,Sporting Gijón,1-0,0-0,Real Zaragoza
-18,Mon Dec 14 2020,18:00,Girona FC,0-0,0-0,Rayo Vallecano
-19,Fri Dec 18 2020,18:00,SD Ponferradina,1-0,1-0,Real Oviedo
-19,Sat Dec 19 2020,15:00,CE Sabadell,1-1,0-1,CD Castellón
-19,Sat Dec 19 2020,17:15,RCD Mallorca,2-3,1-2,CF Fuenlabrada
-19,Sat Dec 19 2020,20:00,Real Zaragoza,1-0,0-0,CD Lugo
-19,Sun Dec 20 2020,15:00,Espanyol Barcelona,2-1,1-0,UD Almería
-19,Sun Dec 20 2020,17:15,Rayo Vallecano,2-0,0-0,UD Las Palmas
-19,Sun Dec 20 2020,19:30,Málaga CF,0-0,0-0,UD Logroñés
-19,Sun Dec 20 2020,13:00,AD Alcorcón,2-1,2-0,FC Cartagena
-19,Mon Dec 21 2020,18:00,CD Mirandés,0-2,0-2,Albacete
-19,Mon Dec 21 2020,20:00,Sporting Gijón,1-1,0-0,CD Leganés
-19,Mon Dec 21 2020,20:30,CD Tenerife,2-0,2-0,Girona FC
-20,Sat Jan 2 2021,15:00,Rayo Vallecano,2-1,1-0,AD Alcorcón
-20,Sat Jan 2 2021,17:15,UD Logroñés,2-1,1-1,CD Mirandés
-20,Sat Jan 2 2021,19:30,FC Cartagena,1-1,0-0,Real Zaragoza
-20,Sat Jan 2 2021,13:00,CF Fuenlabrada,0-0,0-0,CD Leganés
-20,Sun Jan 3 2021,13:00,CD Castellón,0-1,0-0,CD Tenerife
-20,Sun Jan 3 2021,15:00,UD Las Palmas,1-0,1-0,Espanyol Barcelona
-20,Sun Jan 3 2021,17:15,Albacete,1-1,0-0,Málaga CF
-20,Sun Jan 3 2021,19:30,UD Almería,3-1,3-0,SD Ponferradina
-20,Sun Jan 3 2021,20:00,Real Oviedo,2-2,1-2,RCD Mallorca
-20,Mon Jan 4 2021,17:30,Girona FC,0-0,0-0,CE Sabadell
-20,Mon Jan 4 2021,20:00,CD Lugo,0-0,0-0,Sporting Gijón
-21,Fri Jan 8 2021,20:00,Real Zaragoza,2-0,1-0,UD Logroñés
-21,Sat Jan 9 2021,17:15,Málaga CF,1-1,1-0,Real Oviedo
-21,Sun Jan 10 2021,15:00,RCD Mallorca,0-1,0-1,UD Las Palmas
-21,Sun Jan 10 2021,17:15,CD Tenerife,3-0,1-0,FC Cartagena
-21,Sun Jan 10 2021,20:00,Espanyol Barcelona,2-0,2-0,CD Castellón
-21,Mon Jan 11 2021,19:30,Sporting Gijón,2-1,1-0,CF Fuenlabrada
-21,Mon Jan 11 2021,20:30,CE Sabadell,1-1,1-0,CD Lugo
-21,Mon Jan 11 2021,18:00,SD Ponferradina,1-1,0-1,Girona FC
-21,Tue Jan 19 2021,18:00,CD Mirandés,0-2,0-2,Rayo Vallecano
-22,Fri Jan 22 2021,20:00,Albacete,1-0,1-0,Real Zaragoza
-22,Fri Jan 22 2021,18:00,CF Fuenlabrada,0-0,0-0,AD Alcorcón
-22,Sat Jan 23 2021,19:30,Málaga CF,0-2,0-1,SD Ponferradina
-22,Sat Jan 23 2021,17:15,Girona FC,1-0,1-0,Espanyol Barcelona
-22,Sat Jan 23 2021,15:00,Rayo Vallecano,1-3,1-3,RCD Mallorca
-22,Sat Jan 23 2021,17:15,CD Lugo,2-0,1-0,CD Tenerife
-22,Sun Jan 24 2021,17:15,CD Castellón,2-0,1-0,Sporting Gijón
-22,Sun Jan 24 2021,13:00,UD Almería,2-2,1-0,CE Sabadell
-22,Sun Jan 24 2021,15:00,UD Logroñés,0-0,0-0,Real Oviedo
-22,Sun Jan 24 2021,19:30,UD Las Palmas,2-1,0-0,CD Leganés
-22,Mon Jan 25 2021,20:00,FC Cartagena,0-2,0-2,CD Mirandés
-21,Tue Jan 26 2021,18:00,AD Alcorcón,1-2,1-1,Albacete
-23,Fri Jan 29 2021,20:00,Real Zaragoza,1-0,1-0,SD Ponferradina
-23,Sat Jan 30 2021,17:15,AD Alcorcón,0-1,0-0,Málaga CF
-23,Sat Jan 30 2021,15:00,Real Oviedo,0-1,0-0,Albacete
-23,Sat Jan 30 2021,20:00,UD Almería,3-1,1-0,CD Castellón
-23,Sat Jan 30 2021,19:30,RCD Mallorca,1-0,0-0,Girona FC
-23,Sun Jan 31 2021,13:00,Sporting Gijón,0-0,0-0,FC Cartagena
-23,Sun Jan 31 2021,15:00,Espanyol Barcelona,2-3,2-0,Rayo Vallecano
-23,Sun Jan 31 2021,17:15,CD Mirandés,2-0,1-0,UD Las Palmas
-23,Sun Jan 31 2021,19:30,CD Tenerife,1-1,0-1,CF Fuenlabrada
-23,Mon Feb 1 2021,18:00,CD Leganés,3-2,2-1,CD Lugo
-23,Mon Feb 1 2021,20:00,CE Sabadell,0-0,0-0,UD Logroñés
-24,Fri Feb 5 2021,20:00,Albacete,0-1,0-0,RCD Mallorca
-24,Sat Feb 6 2021,15:00,FC Cartagena,2-0,1-0,Real Oviedo
-24,Sat Feb 6 2021,17:15,UD Logroñés,0-4,0-2,Sporting Gijón
-24,Sat Feb 6 2021,19:30,CF Fuenlabrada,1-1,0-0,UD Almería
-24,Sun Feb 7 2021,17:15,CD Castellón,0-1,0-0,CD Mirandés
-24,Sun Feb 7 2021,13:00,Girona FC,0-2,0-0,CD Leganés
-24,Sun Feb 7 2021,15:00,Málaga CF,1-2,0-2,Real Zaragoza
-24,Sun Feb 7 2021,19:30,UD Las Palmas,0-1,0-0,CE Sabadell
-24,Sun Feb 7 2021,17:15,Rayo Vallecano,0-1,0-0,CD Tenerife
-24,Mon Feb 8 2021,18:00,SD Ponferradina,2-0,1-0,AD Alcorcón
-24,Mon Feb 8 2021,20:00,CD Lugo,1-1,1-0,Espanyol Barcelona
-25,Fri Feb 12 2021,20:00,CE Sabadell,1-1,0-1,Real Zaragoza
-25,Sat Feb 13 2021,15:00,FC Cartagena,2-2,1-1,Rayo Vallecano
-25,Sat Feb 13 2021,17:15,CD Mirandés,3-3,2-1,Girona FC
-25,Sat Feb 13 2021,19:30,CD Tenerife,1-0,0-0,SD Ponferradina
-25,Sun Feb 14 2021,13:00,RCD Mallorca,1-2,0-1,Espanyol Barcelona
-25,Sun Feb 14 2021,17:15,CD Leganés,3-1,2-0,Albacete
-25,Sun Feb 14 2021,15:00,UD Almería,3-1,1-0,UD Las Palmas
-25,Sun Feb 14 2021,17:15,AD Alcorcón,1-0,1-0,UD Logroñés
-25,Sun Feb 14 2021,20:00,Sporting Gijón,1-0,0-0,Málaga CF
-25,Mon Feb 15 2021,20:00,Real Oviedo,3-1,1-1,CD Lugo
-25,Mon Feb 15 2021,18:00,CD Castellón,1-2,1-2,CF Fuenlabrada
-21,Wed Feb 17 2021,18:00,CD Leganés,2-1,0-1,UD Almería
-26,Fri Feb 19 2021,20:00,SD Ponferradina,1-0,0-0,CD Mirandés
-26,Sat Feb 20 2021,17:15,Albacete,0-1,0-1,Sporting Gijón
-26,Sat Feb 20 2021,19:30,UD Las Palmas,2-0,2-0,FC Cartagena
-26,Sat Feb 20 2021,15:00,Espanyol Barcelona,1-0,0-0,CE Sabadell
-26,Sun Feb 21 2021,13:00,CD Leganés,1-0,0-0,CD Tenerife
-26,Sun Feb 21 2021,15:00,RCD Mallorca,2-0,1-0,UD Almería
-26,Sun Feb 21 2021,17:15,Girona FC,2-1,2-0,CD Castellón
-26,Sun Feb 21 2021,19:30,CD Lugo,1-1,0-0,UD Logroñés
-26,Sun Feb 21 2021,20:00,Málaga CF,2-0,2-0,Rayo Vallecano
-26,Mon Feb 22 2021,20:00,Real Zaragoza,0-1,0-0,AD Alcorcón
-26,Mon Feb 22 2021,18:00,CF Fuenlabrada,2-2,0-1,Real Oviedo
-27,Fri Feb 26 2021,20:00,FC Cartagena,1-0,0-0,CD Leganés
-27,Fri Feb 26 2021,18:00,CE Sabadell,0-0,0-0,Albacete
-27,Sat Feb 27 2021,15:00,Rayo Vallecano,1-1,0-0,SD Ponferradina
-27,Sat Feb 27 2021,17:15,UD Almería,4-1,1-1,CD Lugo
-27,Sat Feb 27 2021,19:30,CD Castellón,4-0,1-0,UD Las Palmas
-27,Sat Feb 27 2021,20:00,UD Logroñés,0-1,0-1,RCD Mallorca
-27,Sun Feb 28 2021,15:00,Sporting Gijón,1-1,1-1,Espanyol Barcelona
-27,Sun Feb 28 2021,17:15,CD Tenerife,3-1,0-0,AD Alcorcón
-27,Sun Feb 28 2021,20:00,Real Oviedo,1-0,0-0,Real Zaragoza
-27,Sun Feb 28 2021,13:00,CF Fuenlabrada,1-1,0-1,Girona FC
-27,Mon Mar 1 2021,18:00,CD Mirandés,1-0,0-0,Málaga CF
-28,Fri Mar 5 2021,20:00,Espanyol Barcelona,1-1,1-0,Real Oviedo
-28,Sat Mar 6 2021,17:15,CD Leganés,0-0,0-0,CD Castellón
-28,Sat Mar 6 2021,17:15,UD Las Palmas,1-1,0-1,Rayo Vallecano
-28,Sat Mar 6 2021,19:30,Albacete,1-1,0-0,UD Logroñés
-28,Sat Mar 6 2021,15:00,Real Zaragoza,1-0,1-0,CD Tenerife
-28,Sun Mar 7 2021,13:00,Málaga CF,2-0,0-0,CE Sabadell
-28,Sun Mar 7 2021,15:00,SD Ponferradina,2-2,0-1,Sporting Gijón
-28,Sun Mar 7 2021,17:15,RCD Mallorca,2-1,1-0,FC Cartagena
-28,Sun Mar 7 2021,20:00,Girona FC,0-1,0-0,UD Almería
-28,Mon Mar 8 2021,20:00,CD Lugo,0-0,0-0,CF Fuenlabrada
-28,Mon Mar 8 2021,18:00,AD Alcorcón,4-0,0-0,CD Mirandés
-29,Fri Mar 12 2021,20:00,Rayo Vallecano,3-2,1-2,Real Zaragoza
-29,Fri Mar 12 2021,18:00,FC Cartagena,1-1,1-0,SD Ponferradina
-29,Sat Mar 13 2021,15:00,CF Fuenlabrada,1-2,1-1,UD Las Palmas
-29,Sat Mar 13 2021,17:15,Girona FC,1-1,0-1,CD Lugo
-29,Sat Mar 13 2021,19:30,CD Castellón,2-1,1-0,CE Sabadell
-29,Sat Mar 13 2021,20:00,CD Mirandés,2-2,1-1,Espanyol Barcelona
-29,Sun Mar 14 2021,15:00,Sporting Gijón,2-0,1-0,RCD Mallorca
-29,Sun Mar 14 2021,17:15,CD Tenerife,2-0,0-0,Albacete
-29,Sun Mar 14 2021,19:30,Real Oviedo,1-3,0-1,CD Leganés
-29,Sun Mar 14 2021,13:00,UD Logroñés,0-1,0-1,Málaga CF
-29,Mon Mar 15 2021,18:00,UD Almería,0-0,0-0,AD Alcorcón
-30,Fri Mar 19 2021,20:00,UD Las Palmas,1-2,1-0,Girona FC
-30,Sat Mar 20 2021,17:15,RCD Mallorca,0-0,0-0,Real Oviedo
-30,Sat Mar 20 2021,19:30,CD Leganés,0-2,0-0,CF Fuenlabrada
-30,Sat Mar 20 2021,20:00,Espanyol Barcelona,4-0,3-0,UD Logroñés
-30,Sat Mar 20 2021,15:00,CE Sabadell,1-1,1-0,Sporting Gijón
-30,Sun Mar 21 2021,13:00,SD Ponferradina,2-1,0-1,UD Almería
-30,Sun Mar 21 2021,15:00,Málaga CF,1-1,1-0,CD Tenerife
-30,Sun Mar 21 2021,17:15,CD Lugo,0-0,0-0,CD Castellón
-30,Sun Mar 21 2021,19:30,AD Alcorcón,0-3,0-2,Rayo Vallecano
-30,Mon Mar 22 2021,20:00,Real Zaragoza,1-0,1-0,CD Mirandés
-30,Mon Mar 22 2021,18:00,Albacete,2-0,1-0,FC Cartagena
-31,Fri Mar 26 2021,20:00,CD Castellón,1-3,1-2,Espanyol Barcelona
-31,Fri Mar 26 2021,18:00,Sporting Gijón,0-0,0-0,AD Alcorcón
-31,Sat Mar 27 2021,15:00,Real Oviedo,1-1,1-1,SD Ponferradina
-31,Sat Mar 27 2021,17:15,UD Almería,1-1,0-0,CD Leganés
-31,Sat Mar 27 2021,19:30,FC Cartagena,1-1,1-0,Málaga CF
-31,Sat Mar 27 2021,20:00,UD Logroñés,1-1,1-0,Real Zaragoza
-31,Sun Mar 28 2021,15:00,Girona FC,2-1,0-0,Albacete
-31,Sun Mar 28 2021,20:30,CD Tenerife,1-1,1-1,UD Las Palmas
-31,Sun Mar 28 2021,13:00,CD Lugo,0-1,0-1,CE Sabadell
-31,Mon Mar 29 2021,20:00,CF Fuenlabrada,4-1,3-0,RCD Mallorca
-32,Tue Mar 30 2021,20:30,Rayo Vallecano,0-1,0-1,Sporting Gijón
-32,Tue Mar 30 2021,18:00,AD Alcorcón,1-1,1-0,Real Oviedo
-32,Tue Mar 30 2021,18:30,Málaga CF,0-3,0-2,UD Almería
-32,Tue Mar 30 2021,20:00,SD Ponferradina,2-2,0-1,UD Logroñés
-32,Wed Mar 31 2021,18:00,CE Sabadell,2-2,2-1,Girona FC
-32,Wed Mar 31 2021,18:00,Albacete,0-1,0-0,CD Castellón
-32,Thu Apr 1 2021,16:00,Espanyol Barcelona,4-0,3-0,CF Fuenlabrada
-32,Thu Apr 1 2021,18:00,RCD Mallorca,1-0,1-0,CD Leganés
-32,Thu Apr 1 2021,20:00,UD Las Palmas,6-1,3-1,CD Lugo
-32,Thu Apr 1 2021,20:30,Real Zaragoza,0-0,0-0,FC Cartagena
-33,Fri Apr 2 2021,20:00,UD Almería,0-1,0-0,Rayo Vallecano
-33,Sat Apr 3 2021,13:00,UD Logroñés,1-0,0-0,CD Tenerife
-33,Sat Apr 3 2021,17:15,CD Castellón,1-0,0-0,Real Oviedo
-33,Sat Apr 3 2021,15:00,Girona FC,3-1,1-0,SD Ponferradina
-33,Sun Apr 4 2021,19:30,UD Las Palmas,1-1,0-1,RCD Mallorca
-33,Sun Apr 4 2021,17:15,CD Lugo,0-1,0-0,Málaga CF
-33,Sun Apr 4 2021,13:00,Sporting Gijón,1-2,0-0,CD Mirandés
-33,Sun Apr 4 2021,15:00,Albacete,0-3,0-1,Espanyol Barcelona
-33,Sun Apr 4 2021,17:15,CD Leganés,2-1,2-0,CE Sabadell
-33,Mon Apr 5 2021,20:00,CF Fuenlabrada,0-1,0-0,Real Zaragoza
-33,Mon Apr 5 2021,18:00,FC Cartagena,2-1,2-0,AD Alcorcón
-34,Fri Apr 9 2021,20:00,CD Tenerife,1-0,0-0,Sporting Gijón
-34,Sat Apr 10 2021,15:00,Real Oviedo,0-0,0-0,UD Las Palmas
-34,Sat Apr 10 2021,13:00,SD Ponferradina,0-0,0-0,CF Fuenlabrada
-34,Sat Apr 10 2021,17:15,Rayo Vallecano,2-1,1-1,Girona FC
-34,Sun Apr 11 2021,17:15,CE Sabadell,1-1,1-0,FC Cartagena
-34,Sun Apr 11 2021,20:00,Espanyol Barcelona,2-1,1-0,CD Leganés
-34,Sun Apr 11 2021,13:00,Málaga CF,2-0,1-0,Albacete
-34,Sun Apr 11 2021,15:00,Real Zaragoza,2-1,1-1,UD Almería
-34,Sun Apr 11 2021,17:15,CD Mirandés,0-1,0-0,UD Logroñés
-34,Sun Apr 11 2021,17:15,RCD Mallorca,2-0,1-0,CD Lugo
-34,Mon Apr 12 2021,20:00,AD Alcorcón,2-1,1-1,CD Castellón
-31,Wed Apr 14 2021,18:00,Rayo Vallecano,0-1,0-0,CD Mirandés
-35,Fri Apr 16 2021,18:00,CF Fuenlabrada,2-2,0-1,CE Sabadell
-35,Fri Apr 16 2021,20:00,Girona FC,3-0,1-0,Real Zaragoza
-35,Sat Apr 17 2021,17:15,UD Las Palmas,1-1,0-0,Málaga CF
-35,Sat Apr 17 2021,13:00,CD Lugo,1-3,0-1,AD Alcorcón
-35,Sat Apr 17 2021,15:00,CD Castellón,1-0,1-0,RCD Mallorca
-35,Sat Apr 17 2021,17:15,Sporting Gijón,0-1,0-1,Real Oviedo
-35,Sun Apr 18 2021,13:00,Albacete,1-0,0-0,CD Mirandés
-35,Sun Apr 18 2021,13:00,UD Logroñés,0-0,0-0,Rayo Vallecano
-35,Sun Apr 18 2021,17:15,FC Cartagena,0-0,0-0,CD Tenerife
-35,Mon Apr 19 2021,20:00,UD Almería,1-1,0-0,Espanyol Barcelona
-35,Mon Apr 19 2021,18:00,CD Leganés,1-1,1-0,SD Ponferradina
-32,Wed Apr 21 2021,18:00,CD Mirandés,0-0,0-0,CD Tenerife
-36,Fri Apr 23 2021,20:00,Real Zaragoza,0-0,0-0,Sporting Gijón
-36,Sat Apr 24 2021,15:00,Málaga CF,0-1,0-1,CF Fuenlabrada
-36,Sat Apr 24 2021,15:00,UD Logroñés,0-1,0-0,FC Cartagena
-36,Sat Apr 24 2021,17:15,Espanyol Barcelona,4-0,3-0,UD Las Palmas
-36,Sat Apr 24 2021,19:30,SD Ponferradina,2-0,1-0,CD Lugo
-36,Sun Apr 25 2021,15:00,CD Mirandés,1-1,1-1,UD Almería
-36,Sun Apr 25 2021,17:15,AD Alcorcón,1-2,1-1,CD Leganés
-36,Sun Apr 25 2021,19:30,CD Tenerife,1-1,1-0,CD Castellón
-36,Sun Apr 25 2021,13:00,Real Oviedo,0-1,0-0,Girona FC
-36,Mon Apr 26 2021,18:00,Rayo Vallecano,2-2,1-0,Albacete
-36,Mon Apr 26 2021,20:00,CE Sabadell,1-0,1-0,RCD Mallorca
-37,Fri Apr 30 2021,20:00,CD Lugo,2-2,1-0,Real Zaragoza
-37,Sat May 1 2021,17:15,RCD Mallorca,2-1,1-0,CD Mirandés
-37,Sat May 1 2021,17:15,UD Almería,2-2,2-0,Real Oviedo
-37,Sat May 1 2021,15:00,Girona FC,1-0,1-0,CD Tenerife
-37,Sun May 2 2021,13:00,CF Fuenlabrada,2-1,1-0,FC Cartagena
-37,Sun May 2 2021,15:00,Espanyol Barcelona,3-0,2-0,Málaga CF
-37,Sun May 2 2021,17:15,CD Castellón,0-0,0-0,UD Logroñés
-37,Sun May 2 2021,17:15,CD Leganés,0-0,0-0,Sporting Gijón
-37,Sun May 2 2021,19:30,UD Las Palmas,2-0,1-0,SD Ponferradina
-37,Mon May 3 2021,20:00,Albacete,0-1,0-1,AD Alcorcón
-37,Mon May 3 2021,17:00,CE Sabadell,2-0,0-0,Rayo Vallecano
-38,Fri May 7 2021,20:00,CD Tenerife,0-1,0-0,UD Almería
-38,Sat May 8 2021,17:15,Real Zaragoza,0-0,0-0,Espanyol Barcelona
-38,Sat May 8 2021,17:15,SD Ponferradina,0-1,0-1,Albacete
-38,Sat May 8 2021,19:30,AD Alcorcón,0-0,0-0,UD Las Palmas
-38,Sat May 8 2021,20:00,Málaga CF,1-1,1-1,RCD Mallorca
-38,Sun May 9 2021,15:00,Real Oviedo,2-1,2-1,CE Sabadell
-38,Sun May 9 2021,17:15,FC Cartagena,1-0,0-0,CD Castellón
-38,Sun May 9 2021,17:15,UD Logroñés,1-4,0-2,Girona FC
-38,Sun May 9 2021,13:00,CD Mirandés,2-1,1-1,CF Fuenlabrada
-38,Mon May 10 2021,20:00,Sporting Gijón,1-0,0-0,CD Lugo
-38,Mon May 10 2021,18:00,Rayo Vallecano,1-1,0-1,CD Leganés
-39,Fri May 14 2021,20:00,Espanyol Barcelona,0-2,0-1,FC Cartagena
-39,Sat May 15 2021,17:30,CD Lugo,2-1,0-1,CD Mirandés
-39,Sat May 15 2021,20:00,UD Almería,1-1,1-1,Albacete
-39,Sat May 15 2021,20:00,UD Las Palmas,0-2,0-1,Real Zaragoza
-39,Sat May 15 2021,15:00,CD Castellón,0-2,0-1,SD Ponferradina
-39,Sun May 16 2021,13:00,CE Sabadell,0-2,0-1,CD Tenerife
-39,Sun May 16 2021,15:00,CF Fuenlabrada,1-2,0-2,Rayo Vallecano
-39,Sun May 16 2021,19:45,RCD Mallorca,2-0,1-0,AD Alcorcón
-39,Sun May 16 2021,20:30,CD Leganés,3-0,1-0,UD Logroñés
-39,Mon May 17 2021,20:00,Girona FC,1-0,1-0,Sporting Gijón
-39,Mon May 17 2021,18:00,Real Oviedo,1-0,0-0,Málaga CF
-40,Tue May 18 2021,20:30,Albacete,1-1,1-1,CD Lugo
-40,Tue May 18 2021,20:30,SD Ponferradina,1-4,0-2,Espanyol Barcelona
-40,Tue May 18 2021,18:00,FC Cartagena,3-2,1-1,UD Almería
-40,Wed May 19 2021,18:00,AD Alcorcón,2-0,1-0,CE Sabadell
-40,Wed May 19 2021,18:00,UD Logroñés,1-0,0-0,CF Fuenlabrada
-40,Wed May 19 2021,20:30,CD Mirandés,0-0,0-0,CD Leganés
-40,Wed May 19 2021,20:30,CD Tenerife,0-1,0-1,RCD Mallorca
-40,Thu May 20 2021,18:00,Sporting Gijón,1-0,0-0,UD Las Palmas
-40,Thu May 20 2021,20:30,Rayo Vallecano,4-1,3-1,Real Oviedo
-40,Thu May 20 2021,20:30,Real Zaragoza,3-0,1-0,CD Castellón
-40,Thu May 20 2021,18:00,Málaga CF,0-1,0-0,Girona FC
-41,Sun May 23 2021,17:15,RCD Mallorca,2-1,0-1,Real Zaragoza
-41,Sun May 23 2021,17:15,Espanyol Barcelona,1-1,0-1,CD Tenerife
-41,Mon May 24 2021,17:30,Real Oviedo,1-1,1-0,CD Mirandés
-41,Mon May 24 2021,20:00,CD Castellón,0-2,0-0,Rayo Vallecano
-41,Mon May 24 2021,20:00,CD Leganés,1-0,0-0,Málaga CF
-41,Mon May 24 2021,20:00,CD Lugo,2-1,1-0,FC Cartagena
-41,Mon May 24 2021,20:00,Girona FC,1-0,0-0,AD Alcorcón
-41,Mon May 24 2021,20:00,CF Fuenlabrada,0-0,0-0,Sporting Gijón
-41,Mon May 24 2021,20:00,CE Sabadell,2-0,2-0,SD Ponferradina
-41,Mon May 24 2021,20:00,UD Almería,2-1,2-0,UD Logroñés
-41,Mon May 24 2021,20:00,UD Las Palmas,3-2,2-0,Albacete
-42,Sat May 29 2021,17:30,CD Tenerife,2-2,0-1,Real Oviedo
-42,Sun May 30 2021,17:30,Albacete,1-2,0-1,CF Fuenlabrada
-42,Sun May 30 2021,20:00,AD Alcorcón,1-0,1-0,Espanyol Barcelona
-42,Sun May 30 2021,20:00,CD Mirandés,0-2,0-0,CE Sabadell
-42,Sun May 30 2021,20:00,FC Cartagena,1-1,0-0,Girona FC
-42,Sun May 30 2021,20:00,Málaga CF,3-0,1-0,CD Castellón
-42,Sun May 30 2021,20:00,Rayo Vallecano,0-1,0-1,CD Lugo
-42,Sun May 30 2021,20:00,Real Zaragoza,0-5,0-3,CD Leganés
-42,Sun May 30 2021,20:00,SD Ponferradina,2-2,1-1,RCD Mallorca
-42,Sun May 30 2021,20:00,Sporting Gijón,0-2,0-0,UD Almería
-42,Sun May 30 2021,20:00,UD Logroñés,0-1,0-0,UD Las Palmas
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Sep 12 2020,18:15,CEST/+0200,CD Leganés,1-0,0-0,UD Las Palmas,2020-09-12T16:15Z
+1,Sat Sep 12 2020,18:15,CEST/+0200,Sporting Gijón,1-0,0-0,UD Logroñés,2020-09-12T16:15Z
+1,Sat Sep 12 2020,21:00,CEST/+0200,Espanyol Barcelona,3-0,2-0,Albacete,2020-09-12T19:00Z
+1,Sat Sep 12 2020,16:00,CEST/+0200,SD Ponferradina,1-2,1-1,CD Castellón,2020-09-12T14:00Z
+1,Sun Sep 13 2020,12:00,CEST/+0200,Real Oviedo,0-0,0-0,FC Cartagena,2020-09-13T10:00Z
+1,Sun Sep 13 2020,16:00,CEST/+0200,RCD Mallorca,0-1,0-0,Rayo Vallecano,2020-09-13T14:00Z
+1,Sun Sep 13 2020,18:15,CEST/+0200,CD Mirandés,0-0,0-0,AD Alcorcón,2020-09-13T16:15Z
+1,Sun Sep 13 2020,18:15,CEST/+0200,CF Fuenlabrada,2-0,0-0,CD Lugo,2020-09-13T16:15Z
+1,Sun Sep 13 2020,21:00,CEST/+0200,CD Tenerife,2-0,1-0,Málaga CF,2020-09-13T19:00Z
+2,Sat Sep 19 2020,21:00,CEST/+0200,Rayo Vallecano,2-1,0-1,CE Sabadell,2020-09-19T19:00Z
+2,Sat Sep 19 2020,18:15,CEST/+0200,CD Castellón,0-1,0-1,Málaga CF,2020-09-19T16:15Z
+2,Sat Sep 19 2020,16:00,CEST/+0200,CD Mirandés,1-1,0-0,Real Oviedo,2020-09-19T14:00Z
+2,Sat Sep 19 2020,18:15,CEST/+0200,AD Alcorcón,2-0,0-0,CD Tenerife,2020-09-19T16:15Z
+2,Sun Sep 20 2020,18:15,CEST/+0200,FC Cartagena,0-1,0-0,Sporting Gijón,2020-09-20T16:15Z
+2,Sun Sep 20 2020,12:00,CEST/+0200,CD Lugo,2-1,0-1,CD Leganés,2020-09-20T10:00Z
+2,Sun Sep 20 2020,16:00,CEST/+0200,Espanyol Barcelona,0-0,0-0,RCD Mallorca,2020-09-20T14:00Z
+2,Sun Sep 20 2020,18:15,CEST/+0200,Albacete,0-2,0-1,SD Ponferradina,2020-09-20T16:15Z
+2,Sun Sep 20 2020,20:30,CEST/+0200,UD Las Palmas,3-3,1-0,CF Fuenlabrada,2020-09-20T18:30Z
+3,Sat Sep 26 2020,18:15,CEST/+0200,Sporting Gijón,2-0,0-0,Girona FC,2020-09-26T16:15Z
+3,Sat Sep 26 2020,20:30,CEST/+0200,CF Fuenlabrada,1-0,0-0,Albacete,2020-09-26T18:30Z
+3,Sat Sep 26 2020,18:15,CEST/+0200,Málaga CF,1-0,1-0,AD Alcorcón,2020-09-26T16:15Z
+3,Sat Sep 26 2020,16:00,CEST/+0200,Real Zaragoza,2-2,1-1,UD Las Palmas,2020-09-26T14:00Z
+3,Sat Sep 26 2020,18:15,CEST/+0200,UD Logroñés,1-1,0-0,CD Castellón,2020-09-26T16:15Z
+3,Sun Sep 27 2020,20:30,CEST/+0200,CD Leganés,3-1,3-0,FC Cartagena,2020-09-27T18:30Z
+3,Sun Sep 27 2020,18:15,CEST/+0200,Real Oviedo,0-2,0-0,Espanyol Barcelona,2020-09-27T16:15Z
+3,Sun Sep 27 2020,18:15,CEST/+0200,CD Tenerife,1-2,1-1,CD Mirandés,2020-09-27T16:15Z
+3,Sun Sep 27 2020,18:15,CEST/+0200,SD Ponferradina,3-0,3-0,Rayo Vallecano,2020-09-27T16:15Z
+3,Sun Sep 27 2020,12:00,CEST/+0200,CD Lugo,0-2,0-2,UD Almería,2020-09-27T10:00Z
+3,Sun Sep 27 2020,16:00,CEST/+0200,RCD Mallorca,1-0,0-0,CE Sabadell,2020-09-27T14:00Z
+4,Sat Oct 3 2020,21:00,CEST/+0200,Rayo Vallecano,4-0,2-0,Málaga CF,2020-10-03T19:00Z
+4,Sat Oct 3 2020,18:15,CEST/+0200,RCD Mallorca,2-0,1-0,CD Tenerife,2020-10-03T16:15Z
+4,Sat Oct 3 2020,18:15,CEST/+0200,Albacete,1-1,0-1,Real Oviedo,2020-10-03T16:15Z
+4,Sat Oct 3 2020,16:00,CEST/+0200,CD Mirandés,0-1,0-0,SD Ponferradina,2020-10-03T14:00Z
+4,Sat Oct 3 2020,16:00,CEST/+0200,AD Alcorcón,0-3,0-0,Real Zaragoza,2020-10-03T14:00Z
+4,Sat Oct 3 2020,20:30,CEST/+0200,UD Las Palmas,2-1,0-0,UD Logroñés,2020-10-03T18:30Z
+4,Sun Oct 4 2020,20:30,CEST/+0200,FC Cartagena,2-1,1-0,CD Lugo,2020-10-04T18:30Z
+4,Sun Oct 4 2020,18:15,CEST/+0200,CD Castellón,2-0,1-0,CD Leganés,2020-10-04T16:15Z
+4,Sun Oct 4 2020,16:00,CEST/+0200,CE Sabadell,0-1,0-0,Espanyol Barcelona,2020-10-04T14:00Z
+4,Sun Oct 4 2020,18:15,CEST/+0200,UD Almería,0-1,0-0,Sporting Gijón,2020-10-04T16:15Z
+4,Sun Oct 4 2020,12:00,CEST/+0200,Girona FC,0-1,0-1,CF Fuenlabrada,2020-10-04T10:00Z
+5,Sat Oct 10 2020,16:00,CEST/+0200,UD Logroñés,1-0,0-0,UD Almería,2020-10-10T14:00Z
+5,Sat Oct 10 2020,16:00,CEST/+0200,Espanyol Barcelona,1-0,0-0,AD Alcorcón,2020-10-10T14:00Z
+5,Sat Oct 10 2020,13:00,CEST/+0200,CE Sabadell,0-2,0-0,CD Mirandés,2020-10-10T11:00Z
+5,Sat Oct 10 2020,18:30,CEST/+0200,CD Tenerife,1-0,0-0,Rayo Vallecano,2020-10-10T16:30Z
+5,Sun Oct 11 2020,18:30,CEST/+0200,SD Ponferradina,0-2,0-0,FC Cartagena,2020-10-11T16:30Z
+5,Sun Oct 11 2020,21:00,CEST/+0200,Real Oviedo,1-0,1-0,Sporting Gijón,2020-10-11T19:00Z
+5,Sun Oct 11 2020,18:00,CEST/+0200,Real Zaragoza,1-0,0-0,Albacete,2020-10-11T16:00Z
+5,Sun Oct 11 2020,16:00,CEST/+0200,Málaga CF,0-0,0-0,UD Las Palmas,2020-10-11T14:00Z
+5,Sun Oct 11 2020,12:00,CEST/+0200,CD Lugo,0-1,0-0,RCD Mallorca,2020-10-11T10:00Z
+5,Sun Oct 11 2020,12:00,CEST/+0200,CF Fuenlabrada,1-1,1-0,CD Castellón,2020-10-11T10:00Z
+5,Sun Oct 11 2020,16:00,CEST/+0200,CD Leganés,0-1,0-1,Girona FC,2020-10-11T14:00Z
+6,Sat Oct 17 2020,20:30,CEST/+0200,CD Castellón,0-1,0-0,CD Lugo,2020-10-17T18:30Z
+6,Sat Oct 17 2020,18:15,CEST/+0200,UD Las Palmas,2-0,1-0,UD Almería,2020-10-17T16:15Z
+6,Sat Oct 17 2020,18:15,CEST/+0200,FC Cartagena,1-1,0-0,CF Fuenlabrada,2020-10-17T16:15Z
+6,Sat Oct 17 2020,20:30,CEST/+0200,UD Logroñés,0-1,0-1,CD Leganés,2020-10-17T18:30Z
+6,Sat Oct 17 2020,16:00,CEST/+0200,Albacete,3-0,1-0,CE Sabadell,2020-10-17T14:00Z
+6,Sun Oct 18 2020,20:30,CEST/+0200,Girona FC,1-0,0-0,Real Oviedo,2020-10-18T18:30Z
+6,Sun Oct 18 2020,18:15,CEST/+0200,Real Zaragoza,1-2,0-2,Málaga CF,2020-10-18T16:15Z
+6,Sun Oct 18 2020,18:15,CEST/+0200,CD Mirandés,0-0,0-0,RCD Mallorca,2020-10-18T16:15Z
+6,Sun Oct 18 2020,16:00,CEST/+0200,Rayo Vallecano,1-0,0-0,Espanyol Barcelona,2020-10-18T14:00Z
+6,Sun Oct 18 2020,21:00,CEST/+0200,Sporting Gijón,1-1,0-0,CD Tenerife,2020-10-18T19:00Z
+7,Wed Oct 21 2020,21:30,CEST/+0200,CF Fuenlabrada,0-0,0-0,UD Logroñés,2020-10-21T19:30Z
+7,Wed Oct 21 2020,19:00,CEST/+0200,SD Ponferradina,1-0,1-0,CD Tenerife,2020-10-21T17:00Z
+7,Wed Oct 21 2020,19:00,CEST/+0200,CD Lugo,3-0,0-0,Girona FC,2020-10-21T17:00Z
+7,Wed Oct 21 2020,21:30,CEST/+0200,UD Almería,1-1,0-1,FC Cartagena,2020-10-21T19:30Z
+7,Wed Oct 21 2020,16:30,CEST/+0200,Espanyol Barcelona,2-0,2-0,CD Mirandés,2020-10-21T14:30Z
+7,Wed Oct 21 2020,19:00,CEST/+0200,UD Las Palmas,2-1,0-0,CD Castellón,2020-10-21T17:00Z
+7,Thu Oct 22 2020,19:00,CEST/+0200,RCD Mallorca,0-0,0-0,Albacete,2020-10-22T17:00Z
+7,Thu Oct 22 2020,16:30,CEST/+0200,CD Leganés,1-0,0-0,Real Zaragoza,2020-10-22T14:30Z
+7,Thu Oct 22 2020,21:30,CEST/+0200,Málaga CF,1-0,1-0,Sporting Gijón,2020-10-22T19:30Z
+7,Thu Oct 22 2020,19:00,CEST/+0200,Real Oviedo,0-0,0-0,Rayo Vallecano,2020-10-22T17:00Z
+8,Sat Oct 24 2020,18:15,CEST/+0200,UD Logroñés,2-3,1-0,CD Lugo,2020-10-24T16:15Z
+8,Sat Oct 24 2020,20:30,CEST/+0200,CD Castellón,0-1,0-1,Girona FC,2020-10-24T18:30Z
+8,Sat Oct 24 2020,18:15,CEST/+0200,FC Cartagena,3-0,2-0,UD Las Palmas,2020-10-24T16:15Z
+8,Sat Oct 24 2020,20:30,CEST/+0200,UD Almería,3-0,1-0,CF Fuenlabrada,2020-10-24T18:30Z
+8,Sun Oct 25 2020,16:00,CET/+0100,Sporting Gijón,2-1,0-1,SD Ponferradina,2020-10-25T15:00Z
+8,Sun Oct 25 2020,18:15,CET/+0100,CD Tenerife,0-0,0-0,Espanyol Barcelona,2020-10-25T17:15Z
+8,Sun Oct 25 2020,20:30,CET/+0100,Albacete,2-1,1-0,Rayo Vallecano,2020-10-25T19:30Z
+8,Sun Oct 25 2020,21:00,CET/+0100,Real Zaragoza,0-0,0-0,CE Sabadell,2020-10-25T20:00Z
+8,Sun Oct 25 2020,20:30,CET/+0100,Málaga CF,1-1,1-0,CD Mirandés,2020-10-25T19:30Z
+8,Sun Oct 25 2020,18:15,CET/+0100,CD Leganés,2-1,0-0,Real Oviedo,2020-10-25T17:15Z
+8,Mon Oct 26 2020,18:00,CET/+0100,AD Alcorcón,0-2,0-2,RCD Mallorca,2020-10-26T17:00Z
+9,Tue Oct 27 2020,19:00,CET/+0100,Girona FC,2-1,1-1,FC Cartagena,2020-10-27T18:00Z
+9,Wed Oct 28 2020,19:00,CET/+0100,Albacete,1-1,1-0,UD Las Palmas,2020-10-28T18:00Z
+9,Wed Oct 28 2020,19:00,CET/+0100,CD Castellón,1-2,0-1,UD Almería,2020-10-28T18:00Z
+9,Wed Oct 28 2020,19:00,CET/+0100,Espanyol Barcelona,2-0,1-0,SD Ponferradina,2020-10-28T18:00Z
+9,Wed Oct 28 2020,21:30,CET/+0100,Real Oviedo,2-3,1-0,UD Logroñés,2020-10-28T20:30Z
+9,Thu Oct 29 2020,19:00,CET/+0100,CD Mirandés,1-0,0-0,Real Zaragoza,2020-10-29T18:00Z
+9,Thu Oct 29 2020,19:00,CET/+0100,CD Tenerife,1-1,1-0,CD Lugo,2020-10-29T18:00Z
+9,Thu Oct 29 2020,21:30,CET/+0100,Rayo Vallecano,2-0,0-0,CF Fuenlabrada,2020-10-29T20:30Z
+9,Thu Oct 29 2020,21:30,CET/+0100,CE Sabadell,1-0,0-0,CD Leganés,2020-10-29T20:30Z
+9,Thu Oct 29 2020,19:00,CET/+0100,RCD Mallorca,3-1,1-0,Málaga CF,2020-10-29T18:00Z
+9,Thu Oct 29 2020,16:30,CET/+0100,AD Alcorcón,1-2,0-0,Sporting Gijón,2020-10-29T15:30Z
+10,Sat Oct 31 2020,16:00,CET/+0100,FC Cartagena,3-1,3-0,Albacete,2020-10-31T15:00Z
+10,Sat Oct 31 2020,18:15,CET/+0100,UD Las Palmas,1-2,0-2,Real Oviedo,2020-10-31T17:15Z
+10,Sun Nov 1 2020,20:30,CET/+0100,CD Lugo,1-0,1-0,Rayo Vallecano,2020-11-01T19:30Z
+10,Sun Nov 1 2020,18:15,CET/+0100,SD Ponferradina,0-3,0-1,CE Sabadell,2020-11-01T17:15Z
+10,Sun Nov 1 2020,18:15,CET/+0100,CF Fuenlabrada,1-1,1-0,CD Tenerife,2020-11-01T17:15Z
+10,Sun Nov 1 2020,21:00,CET/+0100,UD Almería,0-0,0-0,Girona FC,2020-11-01T20:00Z
+10,Sun Nov 1 2020,14:00,CET/+0100,CD Leganés,1-0,0-0,CD Mirandés,2020-11-01T13:00Z
+10,Sun Nov 1 2020,16:00,CET/+0100,Real Zaragoza,0-0,0-0,RCD Mallorca,2020-11-01T15:00Z
+10,Mon Nov 2 2020,21:00,CET/+0100,Málaga CF,0-3,0-1,Espanyol Barcelona,2020-11-02T20:00Z
+10,Mon Nov 2 2020,18:15,CET/+0100,Sporting Gijón,1-0,1-0,CD Castellón,2020-11-02T17:15Z
+10,Mon Nov 2 2020,16:00,CET/+0100,UD Logroñés,1-0,1-0,AD Alcorcón,2020-11-02T15:00Z
+1,Wed Nov 4 2020,19:00,CET/+0100,Real Zaragoza,2-2,0-1,Girona FC,2020-11-04T18:00Z
+1,Thu Nov 5 2020,19:00,CET/+0100,CE Sabadell,1-2,1-1,UD Almería,2020-11-05T18:00Z
+6,Thu Nov 5 2020,19:00,CET/+0100,AD Alcorcón,0-1,0-0,SD Ponferradina,2020-11-05T18:00Z
+11,Fri Nov 6 2020,21:00,CET/+0100,Albacete,0-0,0-0,CD Leganés,2020-11-06T20:00Z
+11,Sat Nov 7 2020,21:00,CET/+0100,Espanyol Barcelona,2-1,1-1,CD Lugo,2020-11-07T20:00Z
+11,Sat Nov 7 2020,16:00,CET/+0100,FC Cartagena,0-1,0-0,UD Logroñés,2020-11-07T15:00Z
+11,Sat Nov 7 2020,18:15,CET/+0100,CD Mirandés,1-0,1-0,Sporting Gijón,2020-11-07T17:15Z
+11,Sun Nov 8 2020,20:30,CET/+0100,CD Tenerife,1-0,1-0,Real Zaragoza,2020-11-08T19:30Z
+11,Sun Nov 8 2020,18:15,CET/+0100,Real Oviedo,4-0,1-0,CD Castellón,2020-11-08T17:15Z
+11,Sun Nov 8 2020,18:15,CET/+0100,RCD Mallorca,3-0,2-0,SD Ponferradina,2020-11-08T17:15Z
+11,Sun Nov 8 2020,14:00,CET/+0100,CE Sabadell,1-2,1-1,Málaga CF,2020-11-08T13:00Z
+11,Sun Nov 8 2020,16:00,CET/+0100,AD Alcorcón,0-3,0-1,CF Fuenlabrada,2020-11-08T15:00Z
+11,Sun Nov 8 2020,16:00,CET/+0100,Rayo Vallecano,0-1,0-0,UD Almería,2020-11-08T15:00Z
+11,Mon Nov 9 2020,21:00,CET/+0100,Girona FC,1-1,0-1,UD Las Palmas,2020-11-09T20:00Z
+12,Fri Nov 13 2020,21:00,CET/+0100,Real Zaragoza,1-2,1-1,Real Oviedo,2020-11-13T20:00Z
+12,Sat Nov 14 2020,16:15,CET/+0100,UD Almería,2-1,2-1,CD Mirandés,2020-11-14T15:15Z
+12,Sat Nov 14 2020,18:30,CET/+0100,CD Lugo,1-0,0-0,Albacete,2020-11-14T17:30Z
+12,Sat Nov 14 2020,14:00,CET/+0100,CF Fuenlabrada,1-1,0-1,Espanyol Barcelona,2020-11-14T13:00Z
+12,Sat Nov 14 2020,18:30,CET/+0100,Girona FC,0-1,0-1,RCD Mallorca,2020-11-14T17:30Z
+12,Sun Nov 15 2020,18:30,CET/+0100,CD Castellón,2-1,0-0,FC Cartagena,2020-11-15T17:30Z
+12,Sun Nov 15 2020,18:30,CET/+0100,UD Logroñés,1-0,0-0,CE Sabadell,2020-11-15T17:30Z
+12,Sun Nov 15 2020,22:00,CET/+0100,UD Las Palmas,1-0,0-0,CD Tenerife,2020-11-15T21:00Z
+12,Sun Nov 15 2020,14:00,CET/+0100,CD Leganés,1-0,0-0,AD Alcorcón,2020-11-15T13:00Z
+12,Sun Nov 15 2020,16:15,CET/+0100,SD Ponferradina,1-1,0-1,Málaga CF,2020-11-15T15:15Z
+12,Mon Nov 16 2020,21:00,CET/+0100,Sporting Gijón,1-1,0-0,Rayo Vallecano,2020-11-16T20:00Z
+13,Fri Nov 20 2020,19:00,CET/+0100,AD Alcorcón,1-0,0-0,CD Lugo,2020-11-20T18:00Z
+13,Fri Nov 20 2020,21:00,CET/+0100,Espanyol Barcelona,1-2,1-0,Girona FC,2020-11-20T20:00Z
+13,Sat Nov 21 2020,14:00,CET/+0100,Málaga CF,1-2,0-1,CD Leganés,2020-11-21T13:00Z
+13,Sat Nov 21 2020,20:30,CET/+0100,Real Oviedo,1-1,1-0,CF Fuenlabrada,2020-11-21T19:30Z
+13,Sat Nov 21 2020,18:15,CET/+0100,Rayo Vallecano,2-1,2-0,CD Castellón,2020-11-21T17:15Z
+13,Sat Nov 21 2020,16:00,CET/+0100,CD Mirandés,4-1,1-0,FC Cartagena,2020-11-21T15:00Z
+13,Sun Nov 22 2020,21:00,CET/+0100,SD Ponferradina,2-1,0-0,Real Zaragoza,2020-11-22T20:00Z
+13,Sun Nov 22 2020,18:15,CET/+0100,CD Tenerife,0-1,0-1,UD Logroñés,2020-11-22T17:15Z
+13,Sun Nov 22 2020,14:00,CET/+0100,CE Sabadell,3-1,2-0,UD Las Palmas,2020-11-22T13:00Z
+13,Sun Nov 22 2020,16:00,CET/+0100,RCD Mallorca,0-0,0-0,Sporting Gijón,2020-11-22T15:00Z
+13,Mon Nov 23 2020,21:00,CET/+0100,Albacete,1-2,0-1,UD Almería,2020-11-23T20:00Z
+14,Tue Nov 24 2020,21:30,CET/+0100,CD Lugo,0-0,0-0,Real Oviedo,2020-11-24T20:30Z
+14,Tue Nov 24 2020,19:00,CET/+0100,CD Castellón,0-2,0-2,AD Alcorcón,2020-11-24T18:00Z
+14,Tue Nov 24 2020,19:00,CET/+0100,Girona FC,0-1,0-1,Málaga CF,2020-11-24T18:00Z
+14,Wed Nov 25 2020,21:30,CET/+0100,FC Cartagena,1-2,0-0,RCD Mallorca,2020-11-25T20:30Z
+14,Wed Nov 25 2020,19:00,CET/+0100,UD Las Palmas,0-2,0-1,CD Mirandés,2020-11-25T18:00Z
+14,Wed Nov 25 2020,19:00,CET/+0100,Real Zaragoza,1-2,1-0,Rayo Vallecano,2020-11-25T18:00Z
+14,Wed Nov 25 2020,19:00,CET/+0100,Sporting Gijón,3-1,1-0,CE Sabadell,2020-11-25T18:00Z
+14,Wed Nov 25 2020,21:30,CET/+0100,CF Fuenlabrada,1-1,0-0,SD Ponferradina,2020-11-25T20:30Z
+14,Thu Nov 26 2020,21:30,CET/+0100,UD Almería,2-0,0-0,CD Tenerife,2020-11-26T20:30Z
+14,Thu Nov 26 2020,19:00,CET/+0100,CD Leganés,2-0,1-0,Espanyol Barcelona,2020-11-26T18:00Z
+14,Thu Nov 26 2020,19:00,CET/+0100,UD Logroñés,2-0,1-0,Albacete,2020-11-26T18:00Z
+15,Fri Nov 27 2020,19:00,CET/+0100,AD Alcorcón,1-0,0-0,Girona FC,2020-11-27T18:00Z
+15,Fri Nov 27 2020,21:00,CET/+0100,Málaga CF,2-2,0-2,CD Lugo,2020-11-27T20:00Z
+15,Sat Nov 28 2020,16:00,CET/+0100,CE Sabadell,1-2,1-1,CF Fuenlabrada,2020-11-28T15:00Z
+15,Sat Nov 28 2020,18:15,CET/+0100,Rayo Vallecano,0-0,0-0,FC Cartagena,2020-11-28T17:15Z
+15,Sat Nov 28 2020,20:30,CET/+0100,CD Mirandés,1-1,1-0,CD Castellón,2020-11-28T19:30Z
+15,Sun Nov 29 2020,18:15,CET/+0100,SD Ponferradina,3-2,2-2,CD Leganés,2020-11-29T17:15Z
+15,Sun Nov 29 2020,21:00,CET/+0100,UD Las Palmas,3-2,0-2,Sporting Gijón,2020-11-29T20:00Z
+15,Sun Nov 29 2020,18:15,CET/+0100,RCD Mallorca,4-0,2-0,UD Logroñés,2020-11-29T17:15Z
+15,Sun Nov 29 2020,14:00,CET/+0100,Albacete,0-2,0-0,CD Tenerife,2020-11-29T13:00Z
+15,Sun Nov 29 2020,16:00,CET/+0100,Espanyol Barcelona,2-0,0-0,Real Zaragoza,2020-11-29T15:00Z
+15,Mon Nov 30 2020,21:00,CET/+0100,Real Oviedo,1-2,0-1,UD Almería,2020-11-30T20:00Z
+16,Tue Dec 1 2020,19:00,CET/+0100,CF Fuenlabrada,0-2,0-1,Málaga CF,2020-12-01T18:00Z
+16,Tue Dec 1 2020,21:30,CET/+0100,Girona FC,1-0,1-0,CD Mirandés,2020-12-01T20:30Z
+16,Wed Dec 2 2020,21:00,CET/+0100,CD Castellón,1-0,0-0,Real Zaragoza,2020-12-02T20:00Z
+16,Wed Dec 2 2020,19:00,CET/+0100,UD Logroñés,1-2,0-1,SD Ponferradina,2020-12-02T18:00Z
+16,Wed Dec 2 2020,21:30,CET/+0100,CD Lugo,1-1,1-1,UD Las Palmas,2020-12-02T20:30Z
+16,Wed Dec 2 2020,19:00,CET/+0100,CD Leganés,1-0,1-0,Rayo Vallecano,2020-12-02T18:00Z
+16,Wed Dec 2 2020,19:00,CET/+0100,FC Cartagena,1-3,0-0,Espanyol Barcelona,2020-12-02T18:00Z
+16,Thu Dec 3 2020,19:00,CET/+0100,UD Almería,0-1,0-0,RCD Mallorca,2020-12-03T18:00Z
+16,Thu Dec 3 2020,19:00,CET/+0100,Real Oviedo,1-1,0-0,AD Alcorcón,2020-12-03T18:00Z
+16,Thu Dec 3 2020,21:30,CET/+0100,Sporting Gijón,0-0,0-0,Albacete,2020-12-03T20:30Z
+16,Thu Dec 3 2020,19:00,CET/+0100,CD Tenerife,1-2,1-2,CE Sabadell,2020-12-03T18:00Z
+17,Sat Dec 5 2020,20:30,CET/+0100,Málaga CF,1-2,1-1,FC Cartagena,2020-12-05T19:30Z
+17,Sat Dec 5 2020,18:15,CET/+0100,CD Mirandés,0-0,0-0,CD Lugo,2020-12-05T17:15Z
+17,Sat Dec 5 2020,16:00,CET/+0100,SD Ponferradina,0-0,0-0,UD Las Palmas,2020-12-05T15:00Z
+17,Sat Dec 5 2020,14:00,CET/+0100,Rayo Vallecano,2-1,2-1,UD Logroñés,2020-12-05T13:00Z
+17,Sun Dec 6 2020,21:00,CET/+0100,Real Zaragoza,1-0,0-0,CF Fuenlabrada,2020-12-06T20:00Z
+17,Sun Dec 6 2020,18:15,CET/+0100,Albacete,0-2,0-0,Girona FC,2020-12-06T17:15Z
+17,Sun Dec 6 2020,14:00,CET/+0100,AD Alcorcón,0-1,0-0,UD Almería,2020-12-06T13:00Z
+17,Sun Dec 6 2020,16:00,CET/+0100,Espanyol Barcelona,2-0,0-0,Sporting Gijón,2020-12-06T15:00Z
+17,Sun Dec 6 2020,20:30,CET/+0100,CE Sabadell,0-1,0-0,Real Oviedo,2020-12-06T19:30Z
+17,Mon Dec 7 2020,19:00,CET/+0100,CD Tenerife,0-0,0-0,CD Leganés,2020-12-07T18:00Z
+17,Mon Dec 7 2020,21:00,CET/+0100,RCD Mallorca,3-1,2-0,CD Castellón,2020-12-07T20:00Z
+7,Wed Dec 9 2020,19:00,CET/+0100,CE Sabadell,1-1,0-0,AD Alcorcón,2020-12-09T18:00Z
+2,Wed Dec 9 2020,19:00,CET/+0100,UD Almería,1-0,0-0,Real Zaragoza,2020-12-09T18:00Z
+2,Thu Dec 10 2020,19:00,CET/+0100,Girona FC,2-0,0-0,UD Logroñés,2020-12-10T18:00Z
+18,Fri Dec 11 2020,21:00,CET/+0100,Real Oviedo,4-2,2-1,CD Tenerife,2020-12-11T20:00Z
+18,Fri Dec 11 2020,19:00,CET/+0100,CD Lugo,1-0,0-0,SD Ponferradina,2020-12-11T18:00Z
+18,Sat Dec 12 2020,18:15,CET/+0100,CD Castellón,3-0,1-0,Albacete,2020-12-12T17:15Z
+18,Sat Dec 12 2020,20:30,CET/+0100,CF Fuenlabrada,0-1,0-0,CD Mirandés,2020-12-12T19:30Z
+18,Sat Dec 12 2020,16:00,CET/+0100,CD Leganés,0-1,0-0,RCD Mallorca,2020-12-12T15:00Z
+18,Sun Dec 13 2020,14:00,CET/+0100,UD Logroñés,0-3,0-2,Espanyol Barcelona,2020-12-13T13:00Z
+18,Sun Dec 13 2020,16:00,CET/+0100,UD Almería,3-1,1-1,Málaga CF,2020-12-13T15:00Z
+18,Sun Dec 13 2020,18:15,CET/+0100,UD Las Palmas,0-0,0-0,AD Alcorcón,2020-12-13T17:15Z
+18,Sun Dec 13 2020,20:30,CET/+0100,FC Cartagena,1-2,0-0,CE Sabadell,2020-12-13T19:30Z
+18,Sun Dec 13 2020,21:00,CET/+0100,Sporting Gijón,1-0,0-0,Real Zaragoza,2020-12-13T20:00Z
+18,Mon Dec 14 2020,19:00,CET/+0100,Girona FC,0-0,0-0,Rayo Vallecano,2020-12-14T18:00Z
+19,Fri Dec 18 2020,19:00,CET/+0100,SD Ponferradina,1-0,1-0,Real Oviedo,2020-12-18T18:00Z
+19,Sat Dec 19 2020,16:00,CET/+0100,CE Sabadell,1-1,0-1,CD Castellón,2020-12-19T15:00Z
+19,Sat Dec 19 2020,18:15,CET/+0100,RCD Mallorca,2-3,1-2,CF Fuenlabrada,2020-12-19T17:15Z
+19,Sat Dec 19 2020,21:00,CET/+0100,Real Zaragoza,1-0,0-0,CD Lugo,2020-12-19T20:00Z
+19,Sun Dec 20 2020,16:00,CET/+0100,Espanyol Barcelona,2-1,1-0,UD Almería,2020-12-20T15:00Z
+19,Sun Dec 20 2020,18:15,CET/+0100,Rayo Vallecano,2-0,0-0,UD Las Palmas,2020-12-20T17:15Z
+19,Sun Dec 20 2020,20:30,CET/+0100,Málaga CF,0-0,0-0,UD Logroñés,2020-12-20T19:30Z
+19,Sun Dec 20 2020,14:00,CET/+0100,AD Alcorcón,2-1,2-0,FC Cartagena,2020-12-20T13:00Z
+19,Mon Dec 21 2020,19:00,CET/+0100,CD Mirandés,0-2,0-2,Albacete,2020-12-21T18:00Z
+19,Mon Dec 21 2020,21:00,CET/+0100,Sporting Gijón,1-1,0-0,CD Leganés,2020-12-21T20:00Z
+19,Mon Dec 21 2020,21:30,CET/+0100,CD Tenerife,2-0,2-0,Girona FC,2020-12-21T20:30Z
+20,Sat Jan 2 2021,16:00,CET/+0100,Rayo Vallecano,2-1,1-0,AD Alcorcón,2021-01-02T15:00Z
+20,Sat Jan 2 2021,18:15,CET/+0100,UD Logroñés,2-1,1-1,CD Mirandés,2021-01-02T17:15Z
+20,Sat Jan 2 2021,20:30,CET/+0100,FC Cartagena,1-1,0-0,Real Zaragoza,2021-01-02T19:30Z
+20,Sat Jan 2 2021,14:00,CET/+0100,CF Fuenlabrada,0-0,0-0,CD Leganés,2021-01-02T13:00Z
+20,Sun Jan 3 2021,14:00,CET/+0100,CD Castellón,0-1,0-0,CD Tenerife,2021-01-03T13:00Z
+20,Sun Jan 3 2021,16:00,CET/+0100,UD Las Palmas,1-0,1-0,Espanyol Barcelona,2021-01-03T15:00Z
+20,Sun Jan 3 2021,18:15,CET/+0100,Albacete,1-1,0-0,Málaga CF,2021-01-03T17:15Z
+20,Sun Jan 3 2021,20:30,CET/+0100,UD Almería,3-1,3-0,SD Ponferradina,2021-01-03T19:30Z
+20,Sun Jan 3 2021,21:00,CET/+0100,Real Oviedo,2-2,1-2,RCD Mallorca,2021-01-03T20:00Z
+20,Mon Jan 4 2021,18:30,CET/+0100,Girona FC,0-0,0-0,CE Sabadell,2021-01-04T17:30Z
+20,Mon Jan 4 2021,21:00,CET/+0100,CD Lugo,0-0,0-0,Sporting Gijón,2021-01-04T20:00Z
+21,Fri Jan 8 2021,21:00,CET/+0100,Real Zaragoza,2-0,1-0,UD Logroñés,2021-01-08T20:00Z
+21,Sat Jan 9 2021,18:15,CET/+0100,Málaga CF,1-1,1-0,Real Oviedo,2021-01-09T17:15Z
+21,Sun Jan 10 2021,16:00,CET/+0100,RCD Mallorca,0-1,0-1,UD Las Palmas,2021-01-10T15:00Z
+21,Sun Jan 10 2021,18:15,CET/+0100,CD Tenerife,3-0,1-0,FC Cartagena,2021-01-10T17:15Z
+21,Sun Jan 10 2021,21:00,CET/+0100,Espanyol Barcelona,2-0,2-0,CD Castellón,2021-01-10T20:00Z
+21,Mon Jan 11 2021,20:30,CET/+0100,Sporting Gijón,2-1,1-0,CF Fuenlabrada,2021-01-11T19:30Z
+21,Mon Jan 11 2021,21:30,CET/+0100,CE Sabadell,1-1,1-0,CD Lugo,2021-01-11T20:30Z
+21,Mon Jan 11 2021,19:00,CET/+0100,SD Ponferradina,1-1,0-1,Girona FC,2021-01-11T18:00Z
+21,Tue Jan 19 2021,19:00,CET/+0100,CD Mirandés,0-2,0-2,Rayo Vallecano,2021-01-19T18:00Z
+22,Fri Jan 22 2021,21:00,CET/+0100,Albacete,1-0,1-0,Real Zaragoza,2021-01-22T20:00Z
+22,Fri Jan 22 2021,19:00,CET/+0100,CF Fuenlabrada,0-0,0-0,AD Alcorcón,2021-01-22T18:00Z
+22,Sat Jan 23 2021,20:30,CET/+0100,Málaga CF,0-2,0-1,SD Ponferradina,2021-01-23T19:30Z
+22,Sat Jan 23 2021,18:15,CET/+0100,Girona FC,1-0,1-0,Espanyol Barcelona,2021-01-23T17:15Z
+22,Sat Jan 23 2021,16:00,CET/+0100,Rayo Vallecano,1-3,1-3,RCD Mallorca,2021-01-23T15:00Z
+22,Sat Jan 23 2021,18:15,CET/+0100,CD Lugo,2-0,1-0,CD Tenerife,2021-01-23T17:15Z
+22,Sun Jan 24 2021,18:15,CET/+0100,CD Castellón,2-0,1-0,Sporting Gijón,2021-01-24T17:15Z
+22,Sun Jan 24 2021,14:00,CET/+0100,UD Almería,2-2,1-0,CE Sabadell,2021-01-24T13:00Z
+22,Sun Jan 24 2021,16:00,CET/+0100,UD Logroñés,0-0,0-0,Real Oviedo,2021-01-24T15:00Z
+22,Sun Jan 24 2021,20:30,CET/+0100,UD Las Palmas,2-1,0-0,CD Leganés,2021-01-24T19:30Z
+22,Mon Jan 25 2021,21:00,CET/+0100,FC Cartagena,0-2,0-2,CD Mirandés,2021-01-25T20:00Z
+21,Tue Jan 26 2021,19:00,CET/+0100,AD Alcorcón,1-2,1-1,Albacete,2021-01-26T18:00Z
+23,Fri Jan 29 2021,21:00,CET/+0100,Real Zaragoza,1-0,1-0,SD Ponferradina,2021-01-29T20:00Z
+23,Sat Jan 30 2021,18:15,CET/+0100,AD Alcorcón,0-1,0-0,Málaga CF,2021-01-30T17:15Z
+23,Sat Jan 30 2021,16:00,CET/+0100,Real Oviedo,0-1,0-0,Albacete,2021-01-30T15:00Z
+23,Sat Jan 30 2021,21:00,CET/+0100,UD Almería,3-1,1-0,CD Castellón,2021-01-30T20:00Z
+23,Sat Jan 30 2021,20:30,CET/+0100,RCD Mallorca,1-0,0-0,Girona FC,2021-01-30T19:30Z
+23,Sun Jan 31 2021,14:00,CET/+0100,Sporting Gijón,0-0,0-0,FC Cartagena,2021-01-31T13:00Z
+23,Sun Jan 31 2021,16:00,CET/+0100,Espanyol Barcelona,2-3,2-0,Rayo Vallecano,2021-01-31T15:00Z
+23,Sun Jan 31 2021,18:15,CET/+0100,CD Mirandés,2-0,1-0,UD Las Palmas,2021-01-31T17:15Z
+23,Sun Jan 31 2021,20:30,CET/+0100,CD Tenerife,1-1,0-1,CF Fuenlabrada,2021-01-31T19:30Z
+23,Mon Feb 1 2021,19:00,CET/+0100,CD Leganés,3-2,2-1,CD Lugo,2021-02-01T18:00Z
+23,Mon Feb 1 2021,21:00,CET/+0100,CE Sabadell,0-0,0-0,UD Logroñés,2021-02-01T20:00Z
+24,Fri Feb 5 2021,21:00,CET/+0100,Albacete,0-1,0-0,RCD Mallorca,2021-02-05T20:00Z
+24,Sat Feb 6 2021,16:00,CET/+0100,FC Cartagena,2-0,1-0,Real Oviedo,2021-02-06T15:00Z
+24,Sat Feb 6 2021,18:15,CET/+0100,UD Logroñés,0-4,0-2,Sporting Gijón,2021-02-06T17:15Z
+24,Sat Feb 6 2021,20:30,CET/+0100,CF Fuenlabrada,1-1,0-0,UD Almería,2021-02-06T19:30Z
+24,Sun Feb 7 2021,18:15,CET/+0100,CD Castellón,0-1,0-0,CD Mirandés,2021-02-07T17:15Z
+24,Sun Feb 7 2021,14:00,CET/+0100,Girona FC,0-2,0-0,CD Leganés,2021-02-07T13:00Z
+24,Sun Feb 7 2021,16:00,CET/+0100,Málaga CF,1-2,0-2,Real Zaragoza,2021-02-07T15:00Z
+24,Sun Feb 7 2021,20:30,CET/+0100,UD Las Palmas,0-1,0-0,CE Sabadell,2021-02-07T19:30Z
+24,Sun Feb 7 2021,18:15,CET/+0100,Rayo Vallecano,0-1,0-0,CD Tenerife,2021-02-07T17:15Z
+24,Mon Feb 8 2021,19:00,CET/+0100,SD Ponferradina,2-0,1-0,AD Alcorcón,2021-02-08T18:00Z
+24,Mon Feb 8 2021,21:00,CET/+0100,CD Lugo,1-1,1-0,Espanyol Barcelona,2021-02-08T20:00Z
+25,Fri Feb 12 2021,21:00,CET/+0100,CE Sabadell,1-1,0-1,Real Zaragoza,2021-02-12T20:00Z
+25,Sat Feb 13 2021,16:00,CET/+0100,FC Cartagena,2-2,1-1,Rayo Vallecano,2021-02-13T15:00Z
+25,Sat Feb 13 2021,18:15,CET/+0100,CD Mirandés,3-3,2-1,Girona FC,2021-02-13T17:15Z
+25,Sat Feb 13 2021,20:30,CET/+0100,CD Tenerife,1-0,0-0,SD Ponferradina,2021-02-13T19:30Z
+25,Sun Feb 14 2021,14:00,CET/+0100,RCD Mallorca,1-2,0-1,Espanyol Barcelona,2021-02-14T13:00Z
+25,Sun Feb 14 2021,18:15,CET/+0100,CD Leganés,3-1,2-0,Albacete,2021-02-14T17:15Z
+25,Sun Feb 14 2021,16:00,CET/+0100,UD Almería,3-1,1-0,UD Las Palmas,2021-02-14T15:00Z
+25,Sun Feb 14 2021,18:15,CET/+0100,AD Alcorcón,1-0,1-0,UD Logroñés,2021-02-14T17:15Z
+25,Sun Feb 14 2021,21:00,CET/+0100,Sporting Gijón,1-0,0-0,Málaga CF,2021-02-14T20:00Z
+25,Mon Feb 15 2021,21:00,CET/+0100,Real Oviedo,3-1,1-1,CD Lugo,2021-02-15T20:00Z
+25,Mon Feb 15 2021,19:00,CET/+0100,CD Castellón,1-2,1-2,CF Fuenlabrada,2021-02-15T18:00Z
+21,Wed Feb 17 2021,19:00,CET/+0100,CD Leganés,2-1,0-1,UD Almería,2021-02-17T18:00Z
+26,Fri Feb 19 2021,21:00,CET/+0100,SD Ponferradina,1-0,0-0,CD Mirandés,2021-02-19T20:00Z
+26,Sat Feb 20 2021,18:15,CET/+0100,Albacete,0-1,0-1,Sporting Gijón,2021-02-20T17:15Z
+26,Sat Feb 20 2021,20:30,CET/+0100,UD Las Palmas,2-0,2-0,FC Cartagena,2021-02-20T19:30Z
+26,Sat Feb 20 2021,16:00,CET/+0100,Espanyol Barcelona,1-0,0-0,CE Sabadell,2021-02-20T15:00Z
+26,Sun Feb 21 2021,14:00,CET/+0100,CD Leganés,1-0,0-0,CD Tenerife,2021-02-21T13:00Z
+26,Sun Feb 21 2021,16:00,CET/+0100,RCD Mallorca,2-0,1-0,UD Almería,2021-02-21T15:00Z
+26,Sun Feb 21 2021,18:15,CET/+0100,Girona FC,2-1,2-0,CD Castellón,2021-02-21T17:15Z
+26,Sun Feb 21 2021,20:30,CET/+0100,CD Lugo,1-1,0-0,UD Logroñés,2021-02-21T19:30Z
+26,Sun Feb 21 2021,21:00,CET/+0100,Málaga CF,2-0,2-0,Rayo Vallecano,2021-02-21T20:00Z
+26,Mon Feb 22 2021,21:00,CET/+0100,Real Zaragoza,0-1,0-0,AD Alcorcón,2021-02-22T20:00Z
+26,Mon Feb 22 2021,19:00,CET/+0100,CF Fuenlabrada,2-2,0-1,Real Oviedo,2021-02-22T18:00Z
+27,Fri Feb 26 2021,21:00,CET/+0100,FC Cartagena,1-0,0-0,CD Leganés,2021-02-26T20:00Z
+27,Fri Feb 26 2021,19:00,CET/+0100,CE Sabadell,0-0,0-0,Albacete,2021-02-26T18:00Z
+27,Sat Feb 27 2021,16:00,CET/+0100,Rayo Vallecano,1-1,0-0,SD Ponferradina,2021-02-27T15:00Z
+27,Sat Feb 27 2021,18:15,CET/+0100,UD Almería,4-1,1-1,CD Lugo,2021-02-27T17:15Z
+27,Sat Feb 27 2021,20:30,CET/+0100,CD Castellón,4-0,1-0,UD Las Palmas,2021-02-27T19:30Z
+27,Sat Feb 27 2021,21:00,CET/+0100,UD Logroñés,0-1,0-1,RCD Mallorca,2021-02-27T20:00Z
+27,Sun Feb 28 2021,16:00,CET/+0100,Sporting Gijón,1-1,1-1,Espanyol Barcelona,2021-02-28T15:00Z
+27,Sun Feb 28 2021,18:15,CET/+0100,CD Tenerife,3-1,0-0,AD Alcorcón,2021-02-28T17:15Z
+27,Sun Feb 28 2021,21:00,CET/+0100,Real Oviedo,1-0,0-0,Real Zaragoza,2021-02-28T20:00Z
+27,Sun Feb 28 2021,14:00,CET/+0100,CF Fuenlabrada,1-1,0-1,Girona FC,2021-02-28T13:00Z
+27,Mon Mar 1 2021,19:00,CET/+0100,CD Mirandés,1-0,0-0,Málaga CF,2021-03-01T18:00Z
+28,Fri Mar 5 2021,21:00,CET/+0100,Espanyol Barcelona,1-1,1-0,Real Oviedo,2021-03-05T20:00Z
+28,Sat Mar 6 2021,18:15,CET/+0100,CD Leganés,0-0,0-0,CD Castellón,2021-03-06T17:15Z
+28,Sat Mar 6 2021,18:15,CET/+0100,UD Las Palmas,1-1,0-1,Rayo Vallecano,2021-03-06T17:15Z
+28,Sat Mar 6 2021,20:30,CET/+0100,Albacete,1-1,0-0,UD Logroñés,2021-03-06T19:30Z
+28,Sat Mar 6 2021,16:00,CET/+0100,Real Zaragoza,1-0,1-0,CD Tenerife,2021-03-06T15:00Z
+28,Sun Mar 7 2021,14:00,CET/+0100,Málaga CF,2-0,0-0,CE Sabadell,2021-03-07T13:00Z
+28,Sun Mar 7 2021,16:00,CET/+0100,SD Ponferradina,2-2,0-1,Sporting Gijón,2021-03-07T15:00Z
+28,Sun Mar 7 2021,18:15,CET/+0100,RCD Mallorca,2-1,1-0,FC Cartagena,2021-03-07T17:15Z
+28,Sun Mar 7 2021,21:00,CET/+0100,Girona FC,0-1,0-0,UD Almería,2021-03-07T20:00Z
+28,Mon Mar 8 2021,21:00,CET/+0100,CD Lugo,0-0,0-0,CF Fuenlabrada,2021-03-08T20:00Z
+28,Mon Mar 8 2021,19:00,CET/+0100,AD Alcorcón,4-0,0-0,CD Mirandés,2021-03-08T18:00Z
+29,Fri Mar 12 2021,21:00,CET/+0100,Rayo Vallecano,3-2,1-2,Real Zaragoza,2021-03-12T20:00Z
+29,Fri Mar 12 2021,19:00,CET/+0100,FC Cartagena,1-1,1-0,SD Ponferradina,2021-03-12T18:00Z
+29,Sat Mar 13 2021,16:00,CET/+0100,CF Fuenlabrada,1-2,1-1,UD Las Palmas,2021-03-13T15:00Z
+29,Sat Mar 13 2021,18:15,CET/+0100,Girona FC,1-1,0-1,CD Lugo,2021-03-13T17:15Z
+29,Sat Mar 13 2021,20:30,CET/+0100,CD Castellón,2-1,1-0,CE Sabadell,2021-03-13T19:30Z
+29,Sat Mar 13 2021,21:00,CET/+0100,CD Mirandés,2-2,1-1,Espanyol Barcelona,2021-03-13T20:00Z
+29,Sun Mar 14 2021,16:00,CET/+0100,Sporting Gijón,2-0,1-0,RCD Mallorca,2021-03-14T15:00Z
+29,Sun Mar 14 2021,18:15,CET/+0100,CD Tenerife,2-0,0-0,Albacete,2021-03-14T17:15Z
+29,Sun Mar 14 2021,20:30,CET/+0100,Real Oviedo,1-3,0-1,CD Leganés,2021-03-14T19:30Z
+29,Sun Mar 14 2021,14:00,CET/+0100,UD Logroñés,0-1,0-1,Málaga CF,2021-03-14T13:00Z
+29,Mon Mar 15 2021,19:00,CET/+0100,UD Almería,0-0,0-0,AD Alcorcón,2021-03-15T18:00Z
+30,Fri Mar 19 2021,21:00,CET/+0100,UD Las Palmas,1-2,1-0,Girona FC,2021-03-19T20:00Z
+30,Sat Mar 20 2021,18:15,CET/+0100,RCD Mallorca,0-0,0-0,Real Oviedo,2021-03-20T17:15Z
+30,Sat Mar 20 2021,20:30,CET/+0100,CD Leganés,0-2,0-0,CF Fuenlabrada,2021-03-20T19:30Z
+30,Sat Mar 20 2021,21:00,CET/+0100,Espanyol Barcelona,4-0,3-0,UD Logroñés,2021-03-20T20:00Z
+30,Sat Mar 20 2021,16:00,CET/+0100,CE Sabadell,1-1,1-0,Sporting Gijón,2021-03-20T15:00Z
+30,Sun Mar 21 2021,14:00,CET/+0100,SD Ponferradina,2-1,0-1,UD Almería,2021-03-21T13:00Z
+30,Sun Mar 21 2021,16:00,CET/+0100,Málaga CF,1-1,1-0,CD Tenerife,2021-03-21T15:00Z
+30,Sun Mar 21 2021,18:15,CET/+0100,CD Lugo,0-0,0-0,CD Castellón,2021-03-21T17:15Z
+30,Sun Mar 21 2021,20:30,CET/+0100,AD Alcorcón,0-3,0-2,Rayo Vallecano,2021-03-21T19:30Z
+30,Mon Mar 22 2021,21:00,CET/+0100,Real Zaragoza,1-0,1-0,CD Mirandés,2021-03-22T20:00Z
+30,Mon Mar 22 2021,19:00,CET/+0100,Albacete,2-0,1-0,FC Cartagena,2021-03-22T18:00Z
+31,Fri Mar 26 2021,21:00,CET/+0100,CD Castellón,1-3,1-2,Espanyol Barcelona,2021-03-26T20:00Z
+31,Fri Mar 26 2021,19:00,CET/+0100,Sporting Gijón,0-0,0-0,AD Alcorcón,2021-03-26T18:00Z
+31,Sat Mar 27 2021,16:00,CET/+0100,Real Oviedo,1-1,1-1,SD Ponferradina,2021-03-27T15:00Z
+31,Sat Mar 27 2021,18:15,CET/+0100,UD Almería,1-1,0-0,CD Leganés,2021-03-27T17:15Z
+31,Sat Mar 27 2021,20:30,CET/+0100,FC Cartagena,1-1,1-0,Málaga CF,2021-03-27T19:30Z
+31,Sat Mar 27 2021,21:00,CET/+0100,UD Logroñés,1-1,1-0,Real Zaragoza,2021-03-27T20:00Z
+31,Sun Mar 28 2021,16:00,CEST/+0200,Girona FC,2-1,0-0,Albacete,2021-03-28T14:00Z
+31,Sun Mar 28 2021,21:30,CEST/+0200,CD Tenerife,1-1,1-1,UD Las Palmas,2021-03-28T19:30Z
+31,Sun Mar 28 2021,14:00,CEST/+0200,CD Lugo,0-1,0-1,CE Sabadell,2021-03-28T12:00Z
+31,Mon Mar 29 2021,21:00,CEST/+0200,CF Fuenlabrada,4-1,3-0,RCD Mallorca,2021-03-29T19:00Z
+32,Tue Mar 30 2021,21:30,CEST/+0200,Rayo Vallecano,0-1,0-1,Sporting Gijón,2021-03-30T19:30Z
+32,Tue Mar 30 2021,19:00,CEST/+0200,AD Alcorcón,1-1,1-0,Real Oviedo,2021-03-30T17:00Z
+32,Tue Mar 30 2021,19:30,CEST/+0200,Málaga CF,0-3,0-2,UD Almería,2021-03-30T17:30Z
+32,Tue Mar 30 2021,21:00,CEST/+0200,SD Ponferradina,2-2,0-1,UD Logroñés,2021-03-30T19:00Z
+32,Wed Mar 31 2021,19:00,CEST/+0200,CE Sabadell,2-2,2-1,Girona FC,2021-03-31T17:00Z
+32,Wed Mar 31 2021,19:00,CEST/+0200,Albacete,0-1,0-0,CD Castellón,2021-03-31T17:00Z
+32,Thu Apr 1 2021,17:00,CEST/+0200,Espanyol Barcelona,4-0,3-0,CF Fuenlabrada,2021-04-01T15:00Z
+32,Thu Apr 1 2021,19:00,CEST/+0200,RCD Mallorca,1-0,1-0,CD Leganés,2021-04-01T17:00Z
+32,Thu Apr 1 2021,21:00,CEST/+0200,UD Las Palmas,6-1,3-1,CD Lugo,2021-04-01T19:00Z
+32,Thu Apr 1 2021,21:30,CEST/+0200,Real Zaragoza,0-0,0-0,FC Cartagena,2021-04-01T19:30Z
+33,Fri Apr 2 2021,21:00,CEST/+0200,UD Almería,0-1,0-0,Rayo Vallecano,2021-04-02T19:00Z
+33,Sat Apr 3 2021,14:00,CEST/+0200,UD Logroñés,1-0,0-0,CD Tenerife,2021-04-03T12:00Z
+33,Sat Apr 3 2021,18:15,CEST/+0200,CD Castellón,1-0,0-0,Real Oviedo,2021-04-03T16:15Z
+33,Sat Apr 3 2021,16:00,CEST/+0200,Girona FC,3-1,1-0,SD Ponferradina,2021-04-03T14:00Z
+33,Sun Apr 4 2021,20:30,CEST/+0200,UD Las Palmas,1-1,0-1,RCD Mallorca,2021-04-04T18:30Z
+33,Sun Apr 4 2021,18:15,CEST/+0200,CD Lugo,0-1,0-0,Málaga CF,2021-04-04T16:15Z
+33,Sun Apr 4 2021,14:00,CEST/+0200,Sporting Gijón,1-2,0-0,CD Mirandés,2021-04-04T12:00Z
+33,Sun Apr 4 2021,16:00,CEST/+0200,Albacete,0-3,0-1,Espanyol Barcelona,2021-04-04T14:00Z
+33,Sun Apr 4 2021,18:15,CEST/+0200,CD Leganés,2-1,2-0,CE Sabadell,2021-04-04T16:15Z
+33,Mon Apr 5 2021,21:00,CEST/+0200,CF Fuenlabrada,0-1,0-0,Real Zaragoza,2021-04-05T19:00Z
+33,Mon Apr 5 2021,19:00,CEST/+0200,FC Cartagena,2-1,2-0,AD Alcorcón,2021-04-05T17:00Z
+34,Fri Apr 9 2021,21:00,CEST/+0200,CD Tenerife,1-0,0-0,Sporting Gijón,2021-04-09T19:00Z
+34,Sat Apr 10 2021,16:00,CEST/+0200,Real Oviedo,0-0,0-0,UD Las Palmas,2021-04-10T14:00Z
+34,Sat Apr 10 2021,14:00,CEST/+0200,SD Ponferradina,0-0,0-0,CF Fuenlabrada,2021-04-10T12:00Z
+34,Sat Apr 10 2021,18:15,CEST/+0200,Rayo Vallecano,2-1,1-1,Girona FC,2021-04-10T16:15Z
+34,Sun Apr 11 2021,18:15,CEST/+0200,CE Sabadell,1-1,1-0,FC Cartagena,2021-04-11T16:15Z
+34,Sun Apr 11 2021,21:00,CEST/+0200,Espanyol Barcelona,2-1,1-0,CD Leganés,2021-04-11T19:00Z
+34,Sun Apr 11 2021,14:00,CEST/+0200,Málaga CF,2-0,1-0,Albacete,2021-04-11T12:00Z
+34,Sun Apr 11 2021,16:00,CEST/+0200,Real Zaragoza,2-1,1-1,UD Almería,2021-04-11T14:00Z
+34,Sun Apr 11 2021,18:15,CEST/+0200,CD Mirandés,0-1,0-0,UD Logroñés,2021-04-11T16:15Z
+34,Sun Apr 11 2021,18:15,CEST/+0200,RCD Mallorca,2-0,1-0,CD Lugo,2021-04-11T16:15Z
+34,Mon Apr 12 2021,21:00,CEST/+0200,AD Alcorcón,2-1,1-1,CD Castellón,2021-04-12T19:00Z
+31,Wed Apr 14 2021,19:00,CEST/+0200,Rayo Vallecano,0-1,0-0,CD Mirandés,2021-04-14T17:00Z
+35,Fri Apr 16 2021,19:00,CEST/+0200,CF Fuenlabrada,2-2,0-1,CE Sabadell,2021-04-16T17:00Z
+35,Fri Apr 16 2021,21:00,CEST/+0200,Girona FC,3-0,1-0,Real Zaragoza,2021-04-16T19:00Z
+35,Sat Apr 17 2021,18:15,CEST/+0200,UD Las Palmas,1-1,0-0,Málaga CF,2021-04-17T16:15Z
+35,Sat Apr 17 2021,14:00,CEST/+0200,CD Lugo,1-3,0-1,AD Alcorcón,2021-04-17T12:00Z
+35,Sat Apr 17 2021,16:00,CEST/+0200,CD Castellón,1-0,1-0,RCD Mallorca,2021-04-17T14:00Z
+35,Sat Apr 17 2021,18:15,CEST/+0200,Sporting Gijón,0-1,0-1,Real Oviedo,2021-04-17T16:15Z
+35,Sun Apr 18 2021,14:00,CEST/+0200,Albacete,1-0,0-0,CD Mirandés,2021-04-18T12:00Z
+35,Sun Apr 18 2021,14:00,CEST/+0200,UD Logroñés,0-0,0-0,Rayo Vallecano,2021-04-18T12:00Z
+35,Sun Apr 18 2021,18:15,CEST/+0200,FC Cartagena,0-0,0-0,CD Tenerife,2021-04-18T16:15Z
+35,Mon Apr 19 2021,21:00,CEST/+0200,UD Almería,1-1,0-0,Espanyol Barcelona,2021-04-19T19:00Z
+35,Mon Apr 19 2021,19:00,CEST/+0200,CD Leganés,1-1,1-0,SD Ponferradina,2021-04-19T17:00Z
+32,Wed Apr 21 2021,19:00,CEST/+0200,CD Mirandés,0-0,0-0,CD Tenerife,2021-04-21T17:00Z
+36,Fri Apr 23 2021,21:00,CEST/+0200,Real Zaragoza,0-0,0-0,Sporting Gijón,2021-04-23T19:00Z
+36,Sat Apr 24 2021,16:00,CEST/+0200,Málaga CF,0-1,0-1,CF Fuenlabrada,2021-04-24T14:00Z
+36,Sat Apr 24 2021,16:00,CEST/+0200,UD Logroñés,0-1,0-0,FC Cartagena,2021-04-24T14:00Z
+36,Sat Apr 24 2021,18:15,CEST/+0200,Espanyol Barcelona,4-0,3-0,UD Las Palmas,2021-04-24T16:15Z
+36,Sat Apr 24 2021,20:30,CEST/+0200,SD Ponferradina,2-0,1-0,CD Lugo,2021-04-24T18:30Z
+36,Sun Apr 25 2021,16:00,CEST/+0200,CD Mirandés,1-1,1-1,UD Almería,2021-04-25T14:00Z
+36,Sun Apr 25 2021,18:15,CEST/+0200,AD Alcorcón,1-2,1-1,CD Leganés,2021-04-25T16:15Z
+36,Sun Apr 25 2021,20:30,CEST/+0200,CD Tenerife,1-1,1-0,CD Castellón,2021-04-25T18:30Z
+36,Sun Apr 25 2021,14:00,CEST/+0200,Real Oviedo,0-1,0-0,Girona FC,2021-04-25T12:00Z
+36,Mon Apr 26 2021,19:00,CEST/+0200,Rayo Vallecano,2-2,1-0,Albacete,2021-04-26T17:00Z
+36,Mon Apr 26 2021,21:00,CEST/+0200,CE Sabadell,1-0,1-0,RCD Mallorca,2021-04-26T19:00Z
+37,Fri Apr 30 2021,21:00,CEST/+0200,CD Lugo,2-2,1-0,Real Zaragoza,2021-04-30T19:00Z
+37,Sat May 1 2021,18:15,CEST/+0200,RCD Mallorca,2-1,1-0,CD Mirandés,2021-05-01T16:15Z
+37,Sat May 1 2021,18:15,CEST/+0200,UD Almería,2-2,2-0,Real Oviedo,2021-05-01T16:15Z
+37,Sat May 1 2021,16:00,CEST/+0200,Girona FC,1-0,1-0,CD Tenerife,2021-05-01T14:00Z
+37,Sun May 2 2021,14:00,CEST/+0200,CF Fuenlabrada,2-1,1-0,FC Cartagena,2021-05-02T12:00Z
+37,Sun May 2 2021,16:00,CEST/+0200,Espanyol Barcelona,3-0,2-0,Málaga CF,2021-05-02T14:00Z
+37,Sun May 2 2021,18:15,CEST/+0200,CD Castellón,0-0,0-0,UD Logroñés,2021-05-02T16:15Z
+37,Sun May 2 2021,18:15,CEST/+0200,CD Leganés,0-0,0-0,Sporting Gijón,2021-05-02T16:15Z
+37,Sun May 2 2021,20:30,CEST/+0200,UD Las Palmas,2-0,1-0,SD Ponferradina,2021-05-02T18:30Z
+37,Mon May 3 2021,21:00,CEST/+0200,Albacete,0-1,0-1,AD Alcorcón,2021-05-03T19:00Z
+37,Mon May 3 2021,18:00,CEST/+0200,CE Sabadell,2-0,0-0,Rayo Vallecano,2021-05-03T16:00Z
+38,Fri May 7 2021,21:00,CEST/+0200,CD Tenerife,0-1,0-0,UD Almería,2021-05-07T19:00Z
+38,Sat May 8 2021,18:15,CEST/+0200,Real Zaragoza,0-0,0-0,Espanyol Barcelona,2021-05-08T16:15Z
+38,Sat May 8 2021,18:15,CEST/+0200,SD Ponferradina,0-1,0-1,Albacete,2021-05-08T16:15Z
+38,Sat May 8 2021,20:30,CEST/+0200,AD Alcorcón,0-0,0-0,UD Las Palmas,2021-05-08T18:30Z
+38,Sat May 8 2021,21:00,CEST/+0200,Málaga CF,1-1,1-1,RCD Mallorca,2021-05-08T19:00Z
+38,Sun May 9 2021,16:00,CEST/+0200,Real Oviedo,2-1,2-1,CE Sabadell,2021-05-09T14:00Z
+38,Sun May 9 2021,18:15,CEST/+0200,FC Cartagena,1-0,0-0,CD Castellón,2021-05-09T16:15Z
+38,Sun May 9 2021,18:15,CEST/+0200,UD Logroñés,1-4,0-2,Girona FC,2021-05-09T16:15Z
+38,Sun May 9 2021,14:00,CEST/+0200,CD Mirandés,2-1,1-1,CF Fuenlabrada,2021-05-09T12:00Z
+38,Mon May 10 2021,21:00,CEST/+0200,Sporting Gijón,1-0,0-0,CD Lugo,2021-05-10T19:00Z
+38,Mon May 10 2021,19:00,CEST/+0200,Rayo Vallecano,1-1,0-1,CD Leganés,2021-05-10T17:00Z
+39,Fri May 14 2021,21:00,CEST/+0200,Espanyol Barcelona,0-2,0-1,FC Cartagena,2021-05-14T19:00Z
+39,Sat May 15 2021,18:30,CEST/+0200,CD Lugo,2-1,0-1,CD Mirandés,2021-05-15T16:30Z
+39,Sat May 15 2021,21:00,CEST/+0200,UD Almería,1-1,1-1,Albacete,2021-05-15T19:00Z
+39,Sat May 15 2021,21:00,CEST/+0200,UD Las Palmas,0-2,0-1,Real Zaragoza,2021-05-15T19:00Z
+39,Sat May 15 2021,16:00,CEST/+0200,CD Castellón,0-2,0-1,SD Ponferradina,2021-05-15T14:00Z
+39,Sun May 16 2021,14:00,CEST/+0200,CE Sabadell,0-2,0-1,CD Tenerife,2021-05-16T12:00Z
+39,Sun May 16 2021,16:00,CEST/+0200,CF Fuenlabrada,1-2,0-2,Rayo Vallecano,2021-05-16T14:00Z
+39,Sun May 16 2021,20:45,CEST/+0200,RCD Mallorca,2-0,1-0,AD Alcorcón,2021-05-16T18:45Z
+39,Sun May 16 2021,21:30,CEST/+0200,CD Leganés,3-0,1-0,UD Logroñés,2021-05-16T19:30Z
+39,Mon May 17 2021,21:00,CEST/+0200,Girona FC,1-0,1-0,Sporting Gijón,2021-05-17T19:00Z
+39,Mon May 17 2021,19:00,CEST/+0200,Real Oviedo,1-0,0-0,Málaga CF,2021-05-17T17:00Z
+40,Tue May 18 2021,21:30,CEST/+0200,Albacete,1-1,1-1,CD Lugo,2021-05-18T19:30Z
+40,Tue May 18 2021,21:30,CEST/+0200,SD Ponferradina,1-4,0-2,Espanyol Barcelona,2021-05-18T19:30Z
+40,Tue May 18 2021,19:00,CEST/+0200,FC Cartagena,3-2,1-1,UD Almería,2021-05-18T17:00Z
+40,Wed May 19 2021,19:00,CEST/+0200,AD Alcorcón,2-0,1-0,CE Sabadell,2021-05-19T17:00Z
+40,Wed May 19 2021,19:00,CEST/+0200,UD Logroñés,1-0,0-0,CF Fuenlabrada,2021-05-19T17:00Z
+40,Wed May 19 2021,21:30,CEST/+0200,CD Mirandés,0-0,0-0,CD Leganés,2021-05-19T19:30Z
+40,Wed May 19 2021,21:30,CEST/+0200,CD Tenerife,0-1,0-1,RCD Mallorca,2021-05-19T19:30Z
+40,Thu May 20 2021,19:00,CEST/+0200,Sporting Gijón,1-0,0-0,UD Las Palmas,2021-05-20T17:00Z
+40,Thu May 20 2021,21:30,CEST/+0200,Rayo Vallecano,4-1,3-1,Real Oviedo,2021-05-20T19:30Z
+40,Thu May 20 2021,21:30,CEST/+0200,Real Zaragoza,3-0,1-0,CD Castellón,2021-05-20T19:30Z
+40,Thu May 20 2021,19:00,CEST/+0200,Málaga CF,0-1,0-0,Girona FC,2021-05-20T17:00Z
+41,Sun May 23 2021,18:15,CEST/+0200,RCD Mallorca,2-1,0-1,Real Zaragoza,2021-05-23T16:15Z
+41,Sun May 23 2021,18:15,CEST/+0200,Espanyol Barcelona,1-1,0-1,CD Tenerife,2021-05-23T16:15Z
+41,Mon May 24 2021,18:30,CEST/+0200,Real Oviedo,1-1,1-0,CD Mirandés,2021-05-24T16:30Z
+41,Mon May 24 2021,21:00,CEST/+0200,CD Castellón,0-2,0-0,Rayo Vallecano,2021-05-24T19:00Z
+41,Mon May 24 2021,21:00,CEST/+0200,CD Leganés,1-0,0-0,Málaga CF,2021-05-24T19:00Z
+41,Mon May 24 2021,21:00,CEST/+0200,CD Lugo,2-1,1-0,FC Cartagena,2021-05-24T19:00Z
+41,Mon May 24 2021,21:00,CEST/+0200,Girona FC,1-0,0-0,AD Alcorcón,2021-05-24T19:00Z
+41,Mon May 24 2021,21:00,CEST/+0200,CF Fuenlabrada,0-0,0-0,Sporting Gijón,2021-05-24T19:00Z
+41,Mon May 24 2021,21:00,CEST/+0200,CE Sabadell,2-0,2-0,SD Ponferradina,2021-05-24T19:00Z
+41,Mon May 24 2021,21:00,CEST/+0200,UD Almería,2-1,2-0,UD Logroñés,2021-05-24T19:00Z
+41,Mon May 24 2021,21:00,CEST/+0200,UD Las Palmas,3-2,2-0,Albacete,2021-05-24T19:00Z
+42,Sat May 29 2021,18:30,CEST/+0200,CD Tenerife,2-2,0-1,Real Oviedo,2021-05-29T16:30Z
+42,Sun May 30 2021,18:30,CEST/+0200,Albacete,1-2,0-1,CF Fuenlabrada,2021-05-30T16:30Z
+42,Sun May 30 2021,21:00,CEST/+0200,AD Alcorcón,1-0,1-0,Espanyol Barcelona,2021-05-30T19:00Z
+42,Sun May 30 2021,21:00,CEST/+0200,CD Mirandés,0-2,0-0,CE Sabadell,2021-05-30T19:00Z
+42,Sun May 30 2021,21:00,CEST/+0200,FC Cartagena,1-1,0-0,Girona FC,2021-05-30T19:00Z
+42,Sun May 30 2021,21:00,CEST/+0200,Málaga CF,3-0,1-0,CD Castellón,2021-05-30T19:00Z
+42,Sun May 30 2021,21:00,CEST/+0200,Rayo Vallecano,0-1,0-1,CD Lugo,2021-05-30T19:00Z
+42,Sun May 30 2021,21:00,CEST/+0200,Real Zaragoza,0-5,0-3,CD Leganés,2021-05-30T19:00Z
+42,Sun May 30 2021,21:00,CEST/+0200,SD Ponferradina,2-2,1-1,RCD Mallorca,2021-05-30T19:00Z
+42,Sun May 30 2021,21:00,CEST/+0200,Sporting Gijón,0-2,0-0,UD Almería,2021-05-30T19:00Z
+42,Sun May 30 2021,21:00,CEST/+0200,UD Logroñés,0-1,0-0,UD Las Palmas,2021-05-30T19:00Z

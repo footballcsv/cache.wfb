@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Aug 3 2018,20:00,BST/+0100,Reading FC,1-2,0-0,Derby County,,2018-08-03T19:00Z
+1,Sat Aug 4 2018,15:00,BST/+0100,Birmingham City,2-2,0-0,Norwich City,,2018-08-04T14:00Z
+1,Sat Aug 4 2018,15:00,BST/+0100,Bristol City,1-1,1-0,Nottingham Forest,,2018-08-04T14:00Z
+1,Sat Aug 4 2018,15:00,BST/+0100,Brentford FC,5-1,2-0,Rotherham United,,2018-08-04T14:00Z
+1,Sat Aug 4 2018,15:00,BST/+0100,Millwall FC,2-2,2-0,Middlesbrough FC,,2018-08-04T14:00Z
+1,Sat Aug 4 2018,15:00,BST/+0100,Ipswich Town,2-2,1-2,Blackburn Rovers,,2018-08-04T14:00Z
+1,Sat Aug 4 2018,15:00,BST/+0100,Preston North End,1-0,0-0,Queens Park Rangers,,2018-08-04T14:00Z
+1,Sat Aug 4 2018,15:00,BST/+0100,West Bromwich Albion,1-2,1-1,Bolton Wanderers,,2018-08-04T14:00Z
+1,Sat Aug 4 2018,15:00,BST/+0100,Wigan Athletic,3-2,2-1,Sheffield Wednesday,,2018-08-04T14:00Z
+1,Sat Aug 4 2018,17:30,BST/+0100,Sheffield United,1-2,0-0,Swansea City,,2018-08-04T16:30Z
+1,Sun Aug 5 2018,16:30,BST/+0100,Leeds United,3-1,2-0,Stoke City,,2018-08-05T15:30Z
+1,Mon Aug 6 2018,19:45,BST/+0100,Hull City,1-3,1-1,Aston Villa,,2018-08-06T18:45Z
+4,Tue Aug 7 2018,19:45,BST/+0100,Middlesbrough FC,3-0,3-0,Sheffield United,,2018-08-07T18:45Z
+4,Tue Aug 7 2018,19:45,BST/+0100,Nottingham Forest,1-1,0-0,West Bromwich Albion,,2018-08-07T18:45Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Bolton Wanderers,2-2,0-0,Bristol City,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Middlesbrough FC,1-0,1-0,Birmingham City,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Norwich City,3-4,1-1,West Bromwich Albion,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Nottingham Forest,1-0,0-0,Reading FC,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Blackburn Rovers,0-0,0-0,Millwall FC,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Rotherham United,1-0,0-0,Ipswich Town,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Sheffield Wednesday,1-1,0-1,Hull City,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Stoke City,1-1,1-0,Brentford FC,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Swansea City,1-0,1-0,Preston North End,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,17:30,BST/+0100,Derby County,1-4,1-2,Leeds United,,2018-08-11T16:30Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Aston Villa,3-2,1-1,Wigan Athletic,,2018-08-11T14:00Z
+2,Sat Aug 11 2018,15:00,BST/+0100,Queens Park Rangers,1-2,1-1,Sheffield United,,2018-08-11T14:00Z
+3,Fri Aug 17 2018,19:45,BST/+0100,Birmingham City,0-0,0-0,Swansea City,,2018-08-17T18:45Z
+3,Sat Aug 18 2018,15:00,BST/+0100,Reading FC,0-1,0-0,Bolton Wanderers,,2018-08-18T14:00Z
+3,Sat Aug 18 2018,15:00,BST/+0100,Hull City,0-1,0-1,Blackburn Rovers,,2018-08-18T14:00Z
+3,Sat Aug 18 2018,15:00,BST/+0100,Ipswich Town,1-1,1-1,Aston Villa,,2018-08-18T14:00Z
+3,Sat Aug 18 2018,15:00,BST/+0100,Leeds United,2-0,0-0,Rotherham United,,2018-08-18T14:00Z
+3,Sat Aug 18 2018,15:00,BST/+0100,Sheffield United,2-1,1-1,Norwich City,,2018-08-18T14:00Z
+3,Sat Aug 18 2018,15:00,BST/+0100,West Bromwich Albion,7-1,1-1,Queens Park Rangers,,2018-08-18T14:00Z
+3,Sat Aug 18 2018,15:00,BST/+0100,Wigan Athletic,2-2,2-1,Nottingham Forest,,2018-08-18T14:00Z
+3,Sat Aug 18 2018,17:30,BST/+0100,Preston North End,2-2,2-1,Stoke City,,2018-08-18T16:30Z
+3,Sat Aug 18 2018,15:00,BST/+0100,Millwall FC,2-1,2-0,Derby County,,2018-08-18T14:00Z
+3,Sat Aug 18 2018,15:00,BST/+0100,Bristol City,0-2,0-2,Middlesbrough FC,,2018-08-18T14:00Z
+3,Sun Aug 19 2018,15:00,BST/+0100,Brentford FC,2-0,1-0,Sheffield Wednesday,,2018-08-19T14:00Z
+4,Tue Aug 21 2018,19:45,BST/+0100,Queens Park Rangers,0-3,0-1,Bristol City,,2018-08-21T18:45Z
+4,Tue Aug 21 2018,19:45,BST/+0100,Rotherham United,2-3,1-2,Hull City,,2018-08-21T18:45Z
+4,Tue Aug 21 2018,19:45,BST/+0100,Swansea City,2-2,1-1,Leeds United,,2018-08-21T18:45Z
+4,Tue Aug 21 2018,19:45,BST/+0100,Derby County,2-0,0-0,Ipswich Town,,2018-08-21T18:45Z
+4,Wed Aug 22 2018,19:45,BST/+0100,Aston Villa,2-2,1-1,Brentford FC,,2018-08-22T18:45Z
+4,Wed Aug 22 2018,19:45,BST/+0100,Sheffield Wednesday,2-1,1-0,Millwall FC,,2018-08-22T18:45Z
+4,Wed Aug 22 2018,19:45,BST/+0100,Blackburn Rovers,2-2,0-2,Reading FC,,2018-08-22T18:45Z
+4,Wed Aug 22 2018,19:45,BST/+0100,Norwich City,2-0,0-0,Preston North End,,2018-08-22T18:45Z
+4,Wed Aug 22 2018,20:00,BST/+0100,Bolton Wanderers,1-0,0-0,Birmingham City,,2018-08-22T19:00Z
+4,Wed Aug 22 2018,20:00,BST/+0100,Stoke City,0-3,0-2,Wigan Athletic,,2018-08-22T19:00Z
+5,Fri Aug 24 2018,19:45,BST/+0100,Middlesbrough FC,1-0,0-0,West Bromwich Albion,,2018-08-24T18:45Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Aston Villa,1-1,0-0,Reading FC,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Blackburn Rovers,1-0,0-0,Brentford FC,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Bolton Wanderers,0-3,0-2,Sheffield United,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Derby County,2-0,1-0,Preston North End,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Norwich City,0-3,0-2,Leeds United,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Queens Park Rangers,1-0,1-0,Wigan Athletic,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Sheffield Wednesday,2-1,1-1,Ipswich Town,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Stoke City,2-0,1-0,Hull City,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,15:00,BST/+0100,Swansea City,0-1,0-1,Bristol City,,2018-08-25T14:00Z
+5,Sat Aug 25 2018,17:30,BST/+0100,Nottingham Forest,2-2,0-1,Birmingham City,,2018-08-25T16:30Z
+5,Sun Aug 26 2018,12:30,BST/+0100,Rotherham United,1-0,1-0,Millwall FC,,2018-08-26T11:30Z
+6,Fri Aug 31 2018,19:45,BST/+0100,Leeds United,0-0,0-0,Middlesbrough FC,,2018-08-31T18:45Z
+6,Sat Sep 1 2018,15:00,BST/+0100,Birmingham City,0-0,0-0,Queens Park Rangers,,2018-09-01T14:00Z
+6,Sat Sep 1 2018,15:00,BST/+0100,Brentford FC,2-1,1-0,Nottingham Forest,,2018-09-01T14:00Z
+6,Sat Sep 1 2018,15:00,BST/+0100,Reading FC,1-2,0-1,Sheffield Wednesday,,2018-09-01T14:00Z
+6,Sat Sep 1 2018,15:00,BST/+0100,Hull City,1-2,0-1,Derby County,,2018-09-01T14:00Z
+6,Sat Sep 1 2018,15:00,BST/+0100,Preston North End,2-2,2-2,Bolton Wanderers,,2018-09-01T14:00Z
+6,Sat Sep 1 2018,15:00,BST/+0100,Sheffield United,4-1,3-0,Aston Villa,,2018-09-01T14:00Z
+6,Sat Sep 1 2018,15:00,BST/+0100,West Bromwich Albion,2-1,1-0,Stoke City,,2018-09-01T14:00Z
+6,Sat Sep 1 2018,15:00,BST/+0100,Wigan Athletic,1-0,0-0,Rotherham United,,2018-09-01T14:00Z
+6,Sat Sep 1 2018,17:30,BST/+0100,Millwall FC,1-2,0-0,Swansea City,,2018-09-01T16:30Z
+6,Sun Sep 2 2018,13:30,BST/+0100,Bristol City,4-1,1-1,Blackburn Rovers,,2018-09-02T12:30Z
+6,Sun Sep 2 2018,12:00,BST/+0100,Ipswich Town,1-1,0-0,Norwich City,,2018-09-02T11:00Z
+7,Fri Sep 14 2018,19:45,BST/+0100,Birmingham City,1-1,1-1,West Bromwich Albion,,2018-09-14T18:45Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Bolton Wanderers,1-2,0-1,Queens Park Rangers,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Bristol City,1-0,0-0,Sheffield United,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Brentford FC,2-0,1-0,Wigan Athletic,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Millwall FC,1-1,0-0,Leeds United,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Hull City,2-0,1-0,Ipswich Town,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Norwich City,1-0,0-0,Middlesbrough FC,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Preston North End,2-3,1-1,Reading FC,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Rotherham United,1-0,0-0,Derby County,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Sheffield Wednesday,2-2,1-2,Stoke City,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,15:00,BST/+0100,Swansea City,0-0,0-0,Nottingham Forest,,2018-09-15T14:00Z
+7,Sat Sep 15 2018,17:30,BST/+0100,Blackburn Rovers,1-1,0-0,Aston Villa,,2018-09-15T16:30Z
+8,Tue Sep 18 2018,19:45,BST/+0100,Derby County,0-0,0-0,Blackburn Rovers,,2018-09-18T18:45Z
+8,Tue Sep 18 2018,19:45,BST/+0100,Leeds United,3-0,1-0,Preston North End,,2018-09-18T18:45Z
+8,Tue Sep 18 2018,19:45,BST/+0100,Wigan Athletic,2-1,2-1,Hull City,,2018-09-18T18:45Z
+8,Tue Sep 18 2018,19:45,BST/+0100,Aston Villa,2-0,1-0,Rotherham United,,2018-09-18T18:45Z
+8,Tue Sep 18 2018,19:45,BST/+0100,Ipswich Town,1-1,0-1,Brentford FC,,2018-09-18T18:45Z
+8,Tue Sep 18 2018,20:00,BST/+0100,Stoke City,1-0,0-0,Swansea City,,2018-09-18T19:00Z
+8,Tue Sep 18 2018,20:00,BST/+0100,West Bromwich Albion,4-2,3-0,Bristol City,,2018-09-18T19:00Z
+8,Wed Sep 19 2018,19:45,BST/+0100,Nottingham Forest,2-1,1-0,Sheffield Wednesday,,2018-09-19T18:45Z
+8,Wed Sep 19 2018,19:45,BST/+0100,Queens Park Rangers,2-0,2-0,Millwall FC,,2018-09-19T18:45Z
+8,Wed Sep 19 2018,19:45,BST/+0100,Sheffield United,0-0,0-0,Birmingham City,,2018-09-19T18:45Z
+8,Wed Sep 19 2018,20:00,BST/+0100,Reading FC,1-2,0-1,Norwich City,,2018-09-19T19:00Z
+8,Wed Sep 19 2018,19:45,BST/+0100,Middlesbrough FC,2-0,1-0,Bolton Wanderers,,2018-09-19T18:45Z
+9,Fri Sep 21 2018,19:45,BST/+0100,Wigan Athletic,1-0,0-0,Bristol City,,2018-09-21T18:45Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Aston Villa,1-2,0-0,Sheffield Wednesday,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Derby County,3-1,3-1,Brentford FC,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Middlesbrough FC,0-0,0-0,Swansea City,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Reading FC,3-0,1-0,Hull City,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Ipswich Town,0-0,0-0,Bolton Wanderers,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Leeds United,1-2,0-2,Birmingham City,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Nottingham Forest,1-0,0-0,Rotherham United,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Sheffield United,3-2,1-0,Preston North End,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,Stoke City,2-3,0-2,Blackburn Rovers,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,15:00,BST/+0100,West Bromwich Albion,2-0,0-0,Millwall FC,,2018-09-22T14:00Z
+9,Sat Sep 22 2018,17:30,BST/+0100,Queens Park Rangers,0-1,0-0,Norwich City,,2018-09-22T16:30Z
+10,Fri Sep 28 2018,20:00,BST/+0100,Bristol City,1-1,1-1,Aston Villa,,2018-09-28T19:00Z
+10,Fri Sep 28 2018,19:45,BST/+0100,Sheffield Wednesday,1-1,1-0,Leeds United,,2018-09-28T18:45Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Birmingham City,2-2,0-2,Ipswich Town,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Blackburn Rovers,2-2,0-0,Nottingham Forest,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Bolton Wanderers,1-0,1-0,Derby County,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Brentford FC,2-2,1-1,Reading FC,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Millwall FC,2-3,0-1,Sheffield United,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Hull City,1-1,0-0,Middlesbrough FC,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Norwich City,1-0,0-0,Wigan Athletic,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Preston North End,2-3,0-0,West Bromwich Albion,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,15:00,BST/+0100,Swansea City,3-0,1-0,Queens Park Rangers,,2018-09-29T14:00Z
+10,Sat Sep 29 2018,17:30,BST/+0100,Rotherham United,2-2,0-0,Stoke City,,2018-09-29T16:30Z
+11,Tue Oct 2 2018,19:45,BST/+0100,Aston Villa,3-3,2-0,Preston North End,,2018-10-02T18:45Z
+11,Tue Oct 2 2018,19:45,BST/+0100,Brentford FC,1-1,1-1,Birmingham City,,2018-10-02T18:45Z
+11,Tue Oct 2 2018,19:45,BST/+0100,Ipswich Town,0-2,0-2,Middlesbrough FC,,2018-10-02T18:45Z
+11,Tue Oct 2 2018,19:45,BST/+0100,Wigan Athletic,0-0,0-0,Swansea City,,2018-10-02T18:45Z
+11,Tue Oct 2 2018,19:45,BST/+0100,Hull City,0-1,0-0,Leeds United,,2018-10-02T18:45Z
+11,Tue Oct 2 2018,20:00,BST/+0100,Reading FC,0-1,0-0,Queens Park Rangers,,2018-10-02T19:00Z
+11,Tue Oct 2 2018,20:00,BST/+0100,Stoke City,2-0,1-0,Bolton Wanderers,,2018-10-02T19:00Z
+11,Wed Oct 3 2018,19:45,BST/+0100,Derby County,1-1,0-0,Norwich City,,2018-10-03T18:45Z
+11,Wed Oct 3 2018,19:45,BST/+0100,Nottingham Forest,2-2,1-0,Millwall FC,,2018-10-03T18:45Z
+11,Wed Oct 3 2018,19:45,BST/+0100,Rotherham United,0-0,0-0,Bristol City,,2018-10-03T18:45Z
+11,Wed Oct 3 2018,19:45,BST/+0100,Sheffield Wednesday,2-2,2-0,West Bromwich Albion,,2018-10-03T18:45Z
+11,Wed Oct 3 2018,19:45,BST/+0100,Blackburn Rovers,0-2,0-0,Sheffield United,,2018-10-03T18:45Z
+12,Sat Oct 6 2018,12:30,BST/+0100,Leeds United,1-1,0-0,Brentford FC,,2018-10-06T11:30Z
+12,Sat Oct 6 2018,15:00,BST/+0100,Birmingham City,3-1,2-0,Rotherham United,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,15:00,BST/+0100,Middlesbrough FC,0-2,0-0,Nottingham Forest,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,15:00,BST/+0100,Millwall FC,2-1,1-1,Aston Villa,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,15:00,BST/+0100,Norwich City,0-1,0-1,Stoke City,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,15:00,BST/+0100,Preston North End,4-0,1-0,Wigan Athletic,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,15:00,BST/+0100,Queens Park Rangers,1-1,0-1,Derby County,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,15:00,BST/+0100,Sheffield United,1-0,0-0,Hull City,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,15:00,BST/+0100,Swansea City,2-3,1-2,Ipswich Town,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,15:00,BST/+0100,West Bromwich Albion,4-1,0-1,Reading FC,,2018-10-06T14:00Z
+12,Sat Oct 6 2018,17:30,BST/+0100,Bolton Wanderers,0-1,0-1,Blackburn Rovers,,2018-10-06T16:30Z
+12,Sun Oct 7 2018,13:30,BST/+0100,Bristol City,1-2,0-0,Sheffield Wednesday,,2018-10-07T12:30Z
+13,Fri Oct 19 2018,19:45,BST/+0100,Sheffield Wednesday,1-2,0-0,Middlesbrough FC,,2018-10-19T18:45Z
+13,Sat Oct 20 2018,12:00,BST/+0100,Blackburn Rovers,2-1,1-1,Leeds United,,2018-10-20T11:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Aston Villa,1-0,1-0,Swansea City,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Brentford FC,0-1,0-0,Bristol City,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Reading FC,3-1,2-1,Millwall FC,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Hull City,1-1,0-0,Preston North End,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Ipswich Town,0-2,0-2,Queens Park Rangers,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Nottingham Forest,1-2,1-0,Norwich City,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Rotherham United,1-1,0-0,Bolton Wanderers,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Stoke City,0-1,0-0,Birmingham City,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,15:00,BST/+0100,Wigan Athletic,1-0,0-0,West Bromwich Albion,,2018-10-20T14:00Z
+13,Sat Oct 20 2018,17:30,BST/+0100,Derby County,2-1,1-1,Sheffield United,,2018-10-20T16:30Z
+14,Tue Oct 23 2018,19:45,BST/+0100,Middlesbrough FC,0-0,0-0,Rotherham United,,2018-10-23T18:45Z
+14,Tue Oct 23 2018,19:45,BST/+0100,Millwall FC,2-1,0-1,Wigan Athletic,,2018-10-23T18:45Z
+14,Tue Oct 23 2018,19:45,BST/+0100,Norwich City,2-1,0-1,Aston Villa,,2018-10-23T18:45Z
+14,Tue Oct 23 2018,19:45,BST/+0100,Queens Park Rangers,3-0,1-0,Sheffield Wednesday,,2018-10-23T18:45Z
+14,Tue Oct 23 2018,19:45,BST/+0100,Sheffield United,1-1,0-0,Stoke City,,2018-10-23T18:45Z
+14,Tue Oct 23 2018,19:45,BST/+0100,Swansea City,3-1,0-1,Blackburn Rovers,,2018-10-23T18:45Z
+14,Tue Oct 23 2018,19:45,BST/+0100,Birmingham City,2-1,0-0,Reading FC,,2018-10-23T18:45Z
+14,Wed Oct 24 2018,19:45,BST/+0100,Leeds United,2-0,1-0,Ipswich Town,,2018-10-24T18:45Z
+14,Wed Oct 24 2018,19:45,BST/+0100,Preston North End,4-3,3-1,Brentford FC,,2018-10-24T18:45Z
+14,Wed Oct 24 2018,20:00,BST/+0100,Bolton Wanderers,0-3,0-1,Nottingham Forest,,2018-10-24T19:00Z
+14,Wed Oct 24 2018,20:00,BST/+0100,West Bromwich Albion,1-4,0-2,Derby County,,2018-10-24T19:00Z
+14,Wed Oct 24 2018,19:45,BST/+0100,Bristol City,1-0,0-0,Hull City,,2018-10-24T18:45Z
+15,Fri Oct 26 2018,19:45,BST/+0100,Queens Park Rangers,1-0,1-0,Aston Villa,,2018-10-26T18:45Z
+15,Sat Oct 27 2018,12:30,BST/+0100,Middlesbrough FC,1-1,0-1,Derby County,,2018-10-27T11:30Z
+15,Sat Oct 27 2018,15:00,BST/+0100,Birmingham City,3-1,1-1,Sheffield Wednesday,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,15:00,BST/+0100,Bolton Wanderers,0-1,0-1,Hull City,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,15:00,BST/+0100,Bristol City,0-1,0-1,Stoke City,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,15:00,BST/+0100,Millwall FC,3-0,1-0,Ipswich Town,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,15:00,BST/+0100,Norwich City,1-0,1-0,Brentford FC,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,15:00,BST/+0100,Preston North End,1-1,1-0,Rotherham United,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,15:00,BST/+0100,Sheffield United,4-2,2-1,Wigan Athletic,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,15:00,BST/+0100,Swansea City,2-0,1-0,Reading FC,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,15:00,BST/+0100,West Bromwich Albion,1-1,1-0,Blackburn Rovers,,2018-10-27T14:00Z
+15,Sat Oct 27 2018,17:30,BST/+0100,Leeds United,1-1,0-1,Nottingham Forest,,2018-10-27T16:30Z
+16,Fri Nov 2 2018,19:45,GMT/+0000,Aston Villa,2-0,1-0,Bolton Wanderers,,2018-11-02T19:45Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Blackburn Rovers,1-0,0-0,Queens Park Rangers,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Derby County,3-1,0-1,Birmingham City,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Brentford FC,2-0,0-0,Millwall FC,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Reading FC,3-2,2-2,Bristol City,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Hull City,1-0,1-0,West Bromwich Albion,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Ipswich Town,1-1,1-0,Preston North End,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Nottingham Forest,1-0,0-0,Sheffield United,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Rotherham United,2-1,0-1,Swansea City,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,15:00,GMT/+0000,Sheffield Wednesday,0-4,0-0,Norwich City,,2018-11-03T15:00Z
+16,Sat Nov 3 2018,17:30,GMT/+0000,Stoke City,0-0,0-0,Middlesbrough FC,,2018-11-03T17:30Z
+16,Sun Nov 4 2018,13:30,GMT/+0000,Wigan Athletic,1-2,1-1,Leeds United,,2018-11-04T13:30Z
+17,Fri Nov 9 2018,19:45,GMT/+0000,Sheffield United,0-0,0-0,Sheffield Wednesday,,2018-11-09T19:45Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Birmingham City,3-3,2-0,Hull City,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Blackburn Rovers,1-1,0-0,Rotherham United,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Bolton Wanderers,0-1,0-1,Swansea City,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Bristol City,0-1,0-1,Preston North End,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Derby County,0-3,0-0,Aston Villa,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Middlesbrough FC,2-0,2-0,Wigan Athletic,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Reading FC,2-2,1-2,Ipswich Town,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Norwich City,4-3,0-1,Millwall FC,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Stoke City,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,15:00,GMT/+0000,Queens Park Rangers,3-2,0-1,Brentford FC,,2018-11-10T15:00Z
+17,Sat Nov 10 2018,17:30,GMT/+0000,West Bromwich Albion,4-1,0-0,Leeds United,,2018-11-10T17:30Z
+18,Fri Nov 23 2018,19:45,GMT/+0000,Ipswich Town,1-2,0-1,West Bromwich Albion,,2018-11-23T19:45Z
+18,Sat Nov 24 2018,12:30,GMT/+0000,Rotherham United,2-2,0-1,Sheffield United,,2018-11-24T12:30Z
+18,Sat Nov 24 2018,15:00,GMT/+0000,Millwall FC,1-1,0-1,Bolton Wanderers,,2018-11-24T15:00Z
+18,Sat Nov 24 2018,15:00,GMT/+0000,Hull City,0-2,0-0,Nottingham Forest,,2018-11-24T15:00Z
+18,Sat Nov 24 2018,15:00,GMT/+0000,Leeds United,2-0,0-0,Bristol City,,2018-11-24T15:00Z
+18,Sat Nov 24 2018,15:00,GMT/+0000,Preston North End,4-1,2-0,Blackburn Rovers,,2018-11-24T15:00Z
+18,Sat Nov 24 2018,15:00,GMT/+0000,Sheffield Wednesday,1-2,1-2,Derby County,,2018-11-24T15:00Z
+18,Sat Nov 24 2018,15:00,GMT/+0000,Stoke City,2-2,1-1,Queens Park Rangers,,2018-11-24T15:00Z
+18,Sat Nov 24 2018,15:00,GMT/+0000,Swansea City,1-4,1-3,Norwich City,,2018-11-24T15:00Z
+18,Sat Nov 24 2018,15:00,GMT/+0000,Wigan Athletic,0-0,0-0,Reading FC,,2018-11-24T15:00Z
+18,Sat Nov 24 2018,17:30,GMT/+0000,Brentford FC,1-2,0-0,Middlesbrough FC,,2018-11-24T17:30Z
+18,Sun Nov 25 2018,12:00,GMT/+0000,Aston Villa,4-2,2-1,Birmingham City,,2018-11-25T12:00Z
+19,Tue Nov 27 2018,19:45,GMT/+0000,Brentford FC,2-3,1-2,Sheffield United,,2018-11-27T19:45Z
+19,Tue Nov 27 2018,19:45,GMT/+0000,Hull City,0-0,0-0,Norwich City,,2018-11-27T19:45Z
+19,Tue Nov 27 2018,19:45,GMT/+0000,Leeds United,1-0,0-0,Reading FC,,2018-11-27T19:45Z
+19,Tue Nov 27 2018,19:45,GMT/+0000,Rotherham United,2-2,2-1,Queens Park Rangers,,2018-11-27T19:45Z
+19,Tue Nov 27 2018,19:45,GMT/+0000,Preston North End,1-1,1-0,Middlesbrough FC,,2018-11-27T19:45Z
+19,Tue Nov 27 2018,19:45,GMT/+0000,Sheffield Wednesday,1-0,0-0,Bolton Wanderers,,2018-11-27T19:45Z
+19,Wed Nov 28 2018,19:45,GMT/+0000,Aston Villa,5-5,3-3,Nottingham Forest,,2018-11-28T19:45Z
+19,Wed Nov 28 2018,19:45,GMT/+0000,Ipswich Town,2-3,1-0,Bristol City,,2018-11-28T19:45Z
+19,Wed Nov 28 2018,19:45,GMT/+0000,Swansea City,1-2,1-2,West Bromwich Albion,,2018-11-28T19:45Z
+19,Wed Nov 28 2018,19:45,GMT/+0000,Wigan Athletic,3-1,1-0,Blackburn Rovers,,2018-11-28T19:45Z
+19,Wed Nov 28 2018,20:00,GMT/+0000,Stoke City,2-1,1-0,Derby County,,2018-11-28T20:00Z
+19,Wed Nov 28 2018,19:45,GMT/+0000,Millwall FC,0-2,0-1,Birmingham City,,2018-11-28T19:45Z
+20,Sat Dec 1 2018,12:30,GMT/+0000,Sheffield United,0-1,0-0,Leeds United,,2018-12-01T12:30Z
+20,Sat Dec 1 2018,15:00,GMT/+0000,Birmingham City,3-0,0-0,Preston North End,,2018-12-01T15:00Z
+20,Sat Dec 1 2018,15:00,GMT/+0000,Blackburn Rovers,4-2,1-0,Sheffield Wednesday,,2018-12-01T15:00Z
+20,Sat Dec 1 2018,15:00,GMT/+0000,Bolton Wanderers,1-1,1-1,Wigan Athletic,,2018-12-01T15:00Z
+20,Sat Dec 1 2018,15:00,GMT/+0000,Derby County,2-1,2-0,Swansea City,,2018-12-01T15:00Z
+20,Sat Dec 1 2018,15:00,GMT/+0000,Reading FC,2-2,1-0,Stoke City,,2018-12-01T15:00Z
+20,Sat Dec 1 2018,15:00,GMT/+0000,Norwich City,3-1,0-1,Rotherham United,,2018-12-01T15:00Z
+20,Sat Dec 1 2018,15:00,GMT/+0000,Nottingham Forest,2-0,2-0,Ipswich Town,,2018-12-01T15:00Z
+20,Sat Dec 1 2018,15:00,GMT/+0000,Queens Park Rangers,2-3,1-2,Hull City,,2018-12-01T15:00Z
+20,Sat Dec 1 2018,17:30,GMT/+0000,Middlesbrough FC,0-3,0-1,Aston Villa,,2018-12-01T17:30Z
+20,Sun Dec 2 2018,13:30,GMT/+0000,Bristol City,1-1,0-0,Millwall FC,,2018-12-02T13:30Z
+20,Mon Dec 3 2018,20:00,GMT/+0000,West Bromwich Albion,1-1,0-0,Brentford FC,,2018-12-03T20:00Z
+21,Fri Dec 7 2018,20:00,GMT/+0000,West Bromwich Albion,2-2,1-1,Aston Villa,,2018-12-07T20:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Birmingham City,0-1,0-0,Bristol City,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Brentford FC,2-3,1-3,Swansea City,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Middlesbrough FC,1-1,0-1,Blackburn Rovers,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Millwall FC,2-2,1-1,Hull City,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Leeds United,2-1,1-1,Queens Park Rangers,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Norwich City,3-2,1-0,Bolton Wanderers,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Nottingham Forest,0-1,0-0,Preston North End,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Sheffield Wednesday,2-2,1-0,Rotherham United,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Stoke City,2-0,1-0,Ipswich Town,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,15:00,GMT/+0000,Wigan Athletic,0-1,0-1,Derby County,,2018-12-08T15:00Z
+21,Sat Dec 8 2018,17:30,GMT/+0000,Reading FC,0-2,0-0,Sheffield United,,2018-12-08T17:30Z
+22,Fri Dec 14 2018,19:45,GMT/+0000,Sheffield United,1-2,1-1,West Bromwich Albion,,2018-12-14T19:45Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Aston Villa,2-2,0-0,Stoke City,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Blackburn Rovers,2-2,1-0,Birmingham City,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Bolton Wanderers,0-1,0-0,Leeds United,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Hull City,2-0,2-0,Brentford FC,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Ipswich Town,1-0,0-0,Wigan Athletic,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Preston North End,3-2,2-0,Millwall FC,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Queens Park Rangers,2-1,1-0,Middlesbrough FC,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Rotherham United,1-1,0-1,Reading FC,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,15:00,GMT/+0000,Swansea City,2-1,0-0,Sheffield Wednesday,,2018-12-15T15:00Z
+22,Sat Dec 15 2018,17:30,GMT/+0000,Bristol City,2-2,1-1,Norwich City,,2018-12-15T17:30Z
+22,Mon Dec 17 2018,19:45,GMT/+0000,Derby County,0-0,0-0,Nottingham Forest,,2018-12-17T19:45Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Blackburn Rovers,0-1,0-0,Norwich City,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Derby County,1-1,1-1,Bristol City,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Brentford FC,1-0,0-0,Bolton Wanderers,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Reading FC,0-1,0-0,Middlesbrough FC,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Ipswich Town,1-1,1-0,Sheffield United,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Nottingham Forest,0-1,0-1,Queens Park Rangers,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Rotherham United,0-4,0-3,West Bromwich Albion,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Preston North End,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Stoke City,1-0,0-0,Millwall FC,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,15:00,GMT/+0000,Wigan Athletic,0-3,0-2,Birmingham City,,2018-12-22T15:00Z
+23,Sat Dec 22 2018,17:30,GMT/+0000,Hull City,3-2,0-1,Swansea City,,2018-12-22T17:30Z
+23,Sun Dec 23 2018,13:30,GMT/+0000,Aston Villa,2-3,2-0,Leeds United,,2018-12-23T13:30Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Birmingham City,2-0,1-0,Stoke City,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Bolton Wanderers,2-1,1-1,Rotherham United,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Bristol City,1-1,1-0,Brentford FC,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Middlesbrough FC,0-1,0-1,Sheffield Wednesday,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Millwall FC,1-0,1-0,Reading FC,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Leeds United,3-2,1-0,Blackburn Rovers,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Norwich City,3-3,0-1,Nottingham Forest,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Preston North End,1-2,0-1,Hull City,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Queens Park Rangers,3-0,2-0,Ipswich Town,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Sheffield United,3-1,1-0,Derby County,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,Swansea City,0-1,0-0,Aston Villa,,2018-12-26T15:00Z
+24,Wed Dec 26 2018,15:00,GMT/+0000,West Bromwich Albion,2-0,1-0,Wigan Athletic,,2018-12-26T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Birmingham City,0-0,0-0,Brentford FC,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Bolton Wanderers,0-0,0-0,Stoke City,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Bristol City,1-0,0-0,Rotherham United,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Middlesbrough FC,2-0,1-0,Ipswich Town,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Millwall FC,1-0,1-0,Nottingham Forest,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Leeds United,0-2,0-1,Hull City,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Norwich City,3-4,2-2,Derby County,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Preston North End,1-1,0-1,Aston Villa,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Queens Park Rangers,0-0,0-0,Reading FC,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Sheffield United,3-0,0-0,Blackburn Rovers,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,Swansea City,2-2,0-2,Wigan Athletic,,2018-12-29T15:00Z
+25,Sat Dec 29 2018,15:00,GMT/+0000,West Bromwich Albion,1-1,0-1,Sheffield Wednesday,,2018-12-29T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Aston Villa,2-2,1-1,Queens Park Rangers,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Blackburn Rovers,2-1,0-0,West Bromwich Albion,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Derby County,1-1,1-0,Middlesbrough FC,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Brentford FC,1-1,1-0,Norwich City,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Reading FC,1-4,0-3,Swansea City,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Hull City,6-0,1-0,Bolton Wanderers,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Ipswich Town,2-3,1-0,Millwall FC,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Nottingham Forest,4-2,1-0,Leeds United,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Rotherham United,2-1,1-0,Preston North End,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Sheffield Wednesday,1-1,1-0,Birmingham City,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Stoke City,0-2,0-1,Bristol City,,2019-01-01T15:00Z
+26,Tue Jan 1 2019,15:00,GMT/+0000,Wigan Athletic,0-3,0-1,Sheffield United,,2019-01-01T15:00Z
+27,Fri Jan 11 2019,19:45,GMT/+0000,Leeds United,2-0,1-0,Derby County,,2019-01-11T19:45Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Birmingham City,1-2,0-1,Middlesbrough FC,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Bristol City,2-1,0-0,Bolton Wanderers,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Brentford FC,3-1,2-1,Stoke City,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Reading FC,2-0,1-0,Nottingham Forest,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Hull City,3-0,1-0,Sheffield Wednesday,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Ipswich Town,1-0,1-0,Rotherham United,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Preston North End,1-1,0-0,Swansea City,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Sheffield United,1-0,1-0,Queens Park Rangers,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,West Bromwich Albion,1-1,1-0,Norwich City,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,15:00,GMT/+0000,Wigan Athletic,3-0,1-0,Aston Villa,,2019-01-12T15:00Z
+27,Sat Jan 12 2019,17:30,GMT/+0000,Millwall FC,0-2,0-0,Blackburn Rovers,,2019-01-12T17:30Z
+28,Fri Jan 18 2019,19:45,GMT/+0000,Norwich City,3-1,3-1,Birmingham City,,2019-01-18T19:45Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Aston Villa,2-2,1-2,Hull City,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Blackburn Rovers,2-0,0-0,Ipswich Town,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Derby County,2-1,2-0,Reading FC,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Middlesbrough FC,1-1,0-1,Millwall FC,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Nottingham Forest,0-1,0-0,Bristol City,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Queens Park Rangers,1-4,0-1,Preston North End,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Rotherham United,2-4,1-1,Brentford FC,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Wigan Athletic,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,15:00,GMT/+0000,Stoke City,2-1,0-0,Leeds United,,2019-01-19T15:00Z
+28,Sat Jan 19 2019,17:30,GMT/+0000,Swansea City,1-0,0-0,Sheffield United,,2019-01-19T17:30Z
+28,Mon Jan 21 2019,20:00,GMT/+0000,Bolton Wanderers,0-2,0-1,West Bromwich Albion,,2019-01-21T20:00Z
+29,Sat Jan 26 2019,15:00,GMT/+0000,Aston Villa,2-1,1-0,Ipswich Town,,2019-01-26T15:00Z
+29,Sat Jan 26 2019,15:00,GMT/+0000,Blackburn Rovers,3-0,2-0,Hull City,,2019-01-26T15:00Z
+29,Sat Jan 26 2019,15:00,GMT/+0000,Norwich City,2-2,1-1,Sheffield United,,2019-01-26T15:00Z
+29,Sat Jan 26 2019,15:00,GMT/+0000,Nottingham Forest,3-1,1-1,Wigan Athletic,,2019-01-26T15:00Z
+29,Sat Jan 26 2019,15:00,GMT/+0000,Rotherham United,1-2,1-0,Leeds United,,2019-01-26T15:00Z
+29,Sat Jan 26 2019,15:00,GMT/+0000,Stoke City,0-2,0-1,Preston North End,,2019-01-26T15:00Z
+29,Tue Jan 29 2019,20:00,GMT/+0000,Bolton Wanderers,1-1,0-0,Reading FC,,2019-01-29T20:00Z
+29,Tue Jan 29 2019,19:45,GMT/+0000,Swansea City,3-3,1-1,Birmingham City,,2019-01-29T19:45Z
+30,Fri Feb 1 2019,19:45,GMT/+0000,Preston North End,0-0,0-0,Derby County,,2019-02-01T19:45Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,West Bromwich Albion,2-3,1-1,Middlesbrough FC,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Sheffield United,2-0,0-0,Bolton Wanderers,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Wigan Athletic,2-1,1-0,Queens Park Rangers,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,17:30,GMT/+0000,Leeds United,1-3,0-2,Norwich City,,2019-02-02T17:30Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Birmingham City,2-0,1-0,Nottingham Forest,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Bristol City,2-0,0-0,Swansea City,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Brentford FC,5-2,1-2,Blackburn Rovers,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Millwall FC,0-0,0-0,Rotherham United,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Reading FC,0-0,0-0,Aston Villa,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Hull City,2-0,1-0,Stoke City,,2019-02-02T15:00Z
+30,Sat Feb 2 2019,15:00,GMT/+0000,Ipswich Town,0-1,0-0,Sheffield Wednesday,,2019-02-02T15:00Z
+31,Fri Feb 8 2019,19:45,GMT/+0000,Aston Villa,3-3,0-1,Sheffield United,,2019-02-08T19:45Z
+31,Sat Feb 9 2019,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Reading FC,,2019-02-09T15:00Z
+31,Sat Feb 9 2019,15:00,GMT/+0000,Rotherham United,1-1,1-1,Wigan Athletic,,2019-02-09T15:00Z
+31,Sat Feb 9 2019,15:00,GMT/+0000,Swansea City,1-0,1-0,Millwall FC,,2019-02-09T15:00Z
+31,Sat Feb 9 2019,17:30,GMT/+0000,Stoke City,0-1,0-1,West Bromwich Albion,,2019-02-09T17:30Z
+31,Sat Feb 9 2019,13:00,GMT/+0000,Middlesbrough FC,1-1,0-0,Leeds United,,2019-02-09T13:00Z
+31,Sat Feb 9 2019,15:00,GMT/+0000,Blackburn Rovers,0-1,0-0,Bristol City,,2019-02-09T15:00Z
+31,Sat Feb 9 2019,15:00,GMT/+0000,Bolton Wanderers,1-2,0-1,Preston North End,,2019-02-09T15:00Z
+31,Sat Feb 9 2019,15:00,GMT/+0000,Derby County,2-0,1-0,Hull City,,2019-02-09T15:00Z
+31,Sat Feb 9 2019,15:00,GMT/+0000,Nottingham Forest,2-1,1-0,Brentford FC,,2019-02-09T15:00Z
+31,Sat Feb 9 2019,15:00,GMT/+0000,Queens Park Rangers,3-4,1-4,Birmingham City,,2019-02-09T15:00Z
+31,Sun Feb 10 2019,12:00,GMT/+0000,Norwich City,3-0,1-0,Ipswich Town,,2019-02-10T12:00Z
+32,Tue Feb 12 2019,19:45,GMT/+0000,Bristol City,2-1,0-1,Queens Park Rangers,,2019-02-12T19:45Z
+32,Tue Feb 12 2019,19:45,GMT/+0000,Hull City,2-2,2-0,Rotherham United,,2019-02-12T19:45Z
+32,Tue Feb 12 2019,19:45,GMT/+0000,Millwall FC,0-0,0-0,Sheffield Wednesday,,2019-02-12T19:45Z
+32,Tue Feb 12 2019,19:45,GMT/+0000,Birmingham City,0-1,0-0,Bolton Wanderers,,2019-02-12T19:45Z
+32,Tue Feb 12 2019,20:00,GMT/+0000,West Bromwich Albion,2-2,0-1,Nottingham Forest,,2019-02-12T20:00Z
+32,Wed Feb 13 2019,19:45,GMT/+0000,Sheffield United,1-0,0-0,Middlesbrough FC,,2019-02-13T19:45Z
+32,Wed Feb 13 2019,19:45,GMT/+0000,Leeds United,2-1,2-0,Swansea City,,2019-02-13T19:45Z
+32,Wed Feb 13 2019,19:45,GMT/+0000,Brentford FC,1-0,0-0,Aston Villa,,2019-02-13T19:45Z
+32,Wed Feb 13 2019,19:45,GMT/+0000,Wigan Athletic,0-0,0-0,Stoke City,,2019-02-13T19:45Z
+32,Wed Feb 13 2019,19:45,GMT/+0000,Ipswich Town,1-1,0-1,Derby County,,2019-02-13T19:45Z
+32,Wed Feb 13 2019,19:45,GMT/+0000,Preston North End,3-1,2-0,Norwich City,,2019-02-13T19:45Z
+32,Wed Feb 13 2019,20:00,GMT/+0000,Reading FC,2-1,1-0,Blackburn Rovers,,2019-02-13T20:00Z
+33,Sat Feb 16 2019,15:00,GMT/+0000,Sheffield United,4-0,3-0,Reading FC,,2019-02-16T15:00Z
+33,Sat Feb 16 2019,15:00,GMT/+0000,Ipswich Town,1-1,0-1,Stoke City,,2019-02-16T15:00Z
+33,Sat Feb 16 2019,15:00,GMT/+0000,Preston North End,0-0,0-0,Nottingham Forest,,2019-02-16T15:00Z
+33,Sat Feb 16 2019,15:00,GMT/+0000,Bolton Wanderers,0-4,0-3,Norwich City,,2019-02-16T15:00Z
+33,Sat Feb 16 2019,13:00,GMT/+0000,Rotherham United,2-2,1-1,Sheffield Wednesday,,2019-02-16T13:00Z
+33,Sat Feb 16 2019,15:00,GMT/+0000,Aston Villa,0-2,0-2,West Bromwich Albion,,2019-02-16T15:00Z
+33,Sun Feb 17 2019,13:00,GMT/+0000,Blackburn Rovers,0-1,0-1,Middlesbrough FC,,2019-02-17T13:00Z
+29,Tue Feb 19 2019,19:45,GMT/+0000,Queens Park Rangers,2-3,1-1,West Bromwich Albion,,2019-02-19T19:45Z
+29,Wed Feb 20 2019,19:45,GMT/+0000,Derby County,0-1,0-0,Millwall FC,,2019-02-20T19:45Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Wigan Athletic,1-1,0-1,Ipswich Town,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,17:30,GMT/+0000,West Bromwich Albion,0-1,0-1,Sheffield United,,2019-02-23T17:30Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Stoke City,1-1,1-0,Aston Villa,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Sheffield Wednesday,3-1,3-0,Swansea City,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Norwich City,3-2,1-2,Bristol City,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Leeds United,2-1,1-1,Bolton Wanderers,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Reading FC,1-1,1-0,Rotherham United,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Birmingham City,2-2,1-0,Blackburn Rovers,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Brentford FC,5-1,3-1,Hull City,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Middlesbrough FC,2-0,2-0,Queens Park Rangers,,2019-02-23T15:00Z
+34,Sat Feb 23 2019,15:00,GMT/+0000,Millwall FC,1-3,0-3,Preston North End,,2019-02-23T15:00Z
+34,Mon Feb 25 2019,19:45,GMT/+0000,Nottingham Forest,1-0,1-0,Derby County,,2019-02-25T19:45Z
+33,Tue Feb 26 2019,19:45,GMT/+0000,Queens Park Rangers,1-0,0-0,Leeds United,,2019-02-26T19:45Z
+33,Tue Feb 26 2019,19:45,GMT/+0000,Hull City,2-1,2-1,Millwall FC,,2019-02-26T19:45Z
+29,Tue Feb 26 2019,19:45,GMT/+0000,Sheffield Wednesday,2-0,1-0,Brentford FC,,2019-02-26T19:45Z
+33,Tue Feb 26 2019,19:45,GMT/+0000,Bristol City,1-2,0-1,Birmingham City,,2019-02-26T19:45Z
+35,Fri Mar 1 2019,19:45,GMT/+0000,Leeds United,4-0,2-0,West Bromwich Albion,,2019-03-01T19:45Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Swansea City,2-0,0-0,Bolton Wanderers,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Stoke City,2-0,1-0,Nottingham Forest,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Wigan Athletic,0-0,0-0,Middlesbrough FC,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Aston Villa,4-0,4-0,Derby County,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Brentford FC,3-0,0-0,Queens Park Rangers,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Millwall FC,1-3,1-1,Norwich City,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Hull City,2-0,1-0,Birmingham City,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Ipswich Town,1-2,0-1,Reading FC,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Preston North End,1-1,1-0,Bristol City,,2019-03-02T15:00Z
+35,Sat Mar 2 2019,15:00,GMT/+0000,Rotherham United,3-2,1-0,Blackburn Rovers,,2019-03-02T15:00Z
+35,Mon Mar 4 2019,19:45,GMT/+0000,Sheffield Wednesday,0-0,0-0,Sheffield United,,2019-03-04T19:45Z
+33,Tue Mar 5 2019,19:45,GMT/+0000,Derby County,2-1,0-1,Wigan Athletic,,2019-03-05T19:45Z
+36,Fri Mar 8 2019,19:45,GMT/+0000,Norwich City,1-0,0-0,Swansea City,,2019-03-08T19:45Z
+36,Sat Mar 9 2019,15:00,GMT/+0000,Nottingham Forest,3-0,0-0,Hull City,,2019-03-09T15:00Z
+36,Sat Mar 9 2019,15:00,GMT/+0000,West Bromwich Albion,1-1,1-0,Ipswich Town,,2019-03-09T15:00Z
+36,Sat Mar 9 2019,12:00,GMT/+0000,Blackburn Rovers,0-1,0-1,Preston North End,,2019-03-09T12:00Z
+36,Sat Mar 9 2019,12:15,GMT/+0000,Sheffield United,2-0,1-0,Rotherham United,,2019-03-09T12:15Z
+36,Sat Mar 9 2019,15:00,GMT/+0000,Bolton Wanderers,2-1,0-0,Millwall FC,,2019-03-09T15:00Z
+36,Sat Mar 9 2019,15:00,GMT/+0000,Bristol City,0-1,0-1,Leeds United,,2019-03-09T15:00Z
+36,Sat Mar 9 2019,15:00,GMT/+0000,Derby County,1-1,1-0,Sheffield Wednesday,,2019-03-09T15:00Z
+36,Sat Mar 9 2019,15:00,GMT/+0000,Middlesbrough FC,1-2,1-0,Brentford FC,,2019-03-09T15:00Z
+36,Sat Mar 9 2019,15:00,GMT/+0000,Reading FC,3-2,1-1,Wigan Athletic,,2019-03-09T15:00Z
+36,Sat Mar 9 2019,15:00,GMT/+0000,Queens Park Rangers,0-0,0-0,Stoke City,,2019-03-09T15:00Z
+36,Sun Mar 10 2019,12:00,GMT/+0000,Birmingham City,0-1,0-0,Aston Villa,,2019-03-10T12:00Z
+37,Tue Mar 12 2019,20:00,GMT/+0000,Bolton Wanderers,0-2,0-1,Sheffield Wednesday,,2019-03-12T20:00Z
+37,Tue Mar 12 2019,19:45,GMT/+0000,Blackburn Rovers,3-0,1-0,Wigan Athletic,,2019-03-12T19:45Z
+37,Tue Mar 12 2019,19:45,GMT/+0000,Bristol City,1-1,1-0,Ipswich Town,,2019-03-12T19:45Z
+37,Tue Mar 12 2019,19:45,GMT/+0000,Sheffield United,2-0,1-0,Brentford FC,,2019-03-12T19:45Z
+37,Tue Mar 12 2019,20:00,GMT/+0000,Reading FC,0-3,0-3,Leeds United,,2019-03-12T20:00Z
+37,Wed Mar 13 2019,19:45,GMT/+0000,Queens Park Rangers,1-2,0-0,Rotherham United,,2019-03-13T19:45Z
+37,Wed Mar 13 2019,19:45,GMT/+0000,Norwich City,3-2,2-1,Hull City,,2019-03-13T19:45Z
+37,Wed Mar 13 2019,19:45,GMT/+0000,Birmingham City,0-2,0-2,Millwall FC,,2019-03-13T19:45Z
+37,Wed Mar 13 2019,19:45,GMT/+0000,Nottingham Forest,1-3,1-2,Aston Villa,,2019-03-13T19:45Z
+37,Wed Mar 13 2019,19:45,GMT/+0000,Derby County,0-0,0-0,Stoke City,,2019-03-13T19:45Z
+37,Wed Mar 13 2019,19:45,GMT/+0000,Middlesbrough FC,1-2,1-0,Preston North End,,2019-03-13T19:45Z
+37,Wed Mar 13 2019,20:00,GMT/+0000,West Bromwich Albion,3-0,1-0,Swansea City,,2019-03-13T20:00Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Preston North End,1-0,0-0,Birmingham City,,2019-03-16T15:00Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Wigan Athletic,5-2,1-0,Bolton Wanderers,,2019-03-16T15:00Z
+38,Sat Mar 16 2019,12:30,GMT/+0000,Leeds United,0-1,0-0,Sheffield United,,2019-03-16T12:30Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Aston Villa,3-0,2-0,Middlesbrough FC,,2019-03-16T15:00Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Brentford FC,0-1,0-0,West Bromwich Albion,,2019-03-16T15:00Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Hull City,2-2,2-0,Queens Park Rangers,,2019-03-16T15:00Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Ipswich Town,1-1,1-1,Nottingham Forest,,2019-03-16T15:00Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Stoke City,0-0,0-0,Reading FC,,2019-03-16T15:00Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Rotherham United,1-2,0-1,Norwich City,,2019-03-16T15:00Z
+38,Sat Mar 16 2019,15:00,GMT/+0000,Sheffield Wednesday,4-2,1-0,Blackburn Rovers,,2019-03-16T15:00Z
+39,Fri Mar 29 2019,20:00,GMT/+0000,West Bromwich Albion,3-2,0-1,Birmingham City,,2019-03-29T20:00Z
+39,Sat Mar 30 2019,17:30,GMT/+0000,Middlesbrough FC,0-1,0-0,Norwich City,,2019-03-30T17:30Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Wigan Athletic,0-0,0-0,Brentford FC,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Sheffield United,2-3,1-1,Bristol City,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Reading FC,2-1,2-0,Preston North End,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Aston Villa,2-1,1-0,Blackburn Rovers,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Derby County,6-1,3-0,Rotherham United,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Stoke City,0-0,0-0,Sheffield Wednesday,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Ipswich Town,0-2,0-1,Hull City,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Leeds United,3-2,1-1,Millwall FC,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Nottingham Forest,2-1,0-0,Swansea City,,2019-03-30T15:00Z
+39,Sat Mar 30 2019,15:00,GMT/+0000,Queens Park Rangers,1-2,0-1,Bolton Wanderers,,2019-03-30T15:00Z
+33,Tue Apr 2 2019,19:45,BST/+0100,Swansea City,3-0,2-0,Brentford FC,,2019-04-02T18:45Z
+29,Tue Apr 2 2019,19:45,BST/+0100,Middlesbrough FC,0-1,0-1,Bristol City,,2019-04-02T18:45Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Brentford FC,3-3,2-2,Derby County,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Sheffield Wednesday,1-3,1-1,Aston Villa,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,12:30,BST/+0100,Norwich City,4-0,3-0,Queens Park Rangers,,2019-04-06T11:30Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Birmingham City,1-0,1-0,Leeds United,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Blackburn Rovers,0-1,0-1,Stoke City,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Bolton Wanderers,1-2,0-2,Ipswich Town,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Bristol City,2-2,0-1,Wigan Athletic,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Swansea City,3-1,2-0,Middlesbrough FC,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Millwall FC,2-0,1-0,West Bromwich Albion,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Hull City,3-1,0-1,Reading FC,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Preston North End,0-1,0-1,Sheffield United,,2019-04-06T14:00Z
+40,Sat Apr 6 2019,15:00,BST/+0100,Rotherham United,2-1,1-1,Nottingham Forest,,2019-04-06T14:00Z
+41,Tue Apr 9 2019,19:45,BST/+0100,Swansea City,3-1,2-1,Stoke City,,2019-04-09T18:45Z
+41,Tue Apr 9 2019,20:00,BST/+0100,Bolton Wanderers,0-2,0-2,Middlesbrough FC,,2019-04-09T19:00Z
+41,Tue Apr 9 2019,19:45,BST/+0100,Blackburn Rovers,2-0,0-0,Derby County,,2019-04-09T18:45Z
+41,Tue Apr 9 2019,19:45,BST/+0100,Bristol City,3-2,3-0,West Bromwich Albion,,2019-04-09T18:45Z
+41,Tue Apr 9 2019,19:45,BST/+0100,Preston North End,0-2,0-0,Leeds United,,2019-04-09T18:45Z
+41,Tue Apr 9 2019,19:45,BST/+0100,Sheffield Wednesday,3-0,0-0,Nottingham Forest,,2019-04-09T18:45Z
+41,Wed Apr 10 2019,19:45,BST/+0100,Hull City,2-1,0-1,Wigan Athletic,,2019-04-10T18:45Z
+41,Wed Apr 10 2019,19:45,BST/+0100,Norwich City,2-2,0-1,Reading FC,,2019-04-10T18:45Z
+41,Wed Apr 10 2019,19:45,BST/+0100,Birmingham City,1-1,1-1,Sheffield United,,2019-04-10T18:45Z
+41,Wed Apr 10 2019,19:45,BST/+0100,Brentford FC,2-0,2-0,Ipswich Town,,2019-04-10T18:45Z
+41,Wed Apr 10 2019,19:45,BST/+0100,Millwall FC,0-0,0-0,Queens Park Rangers,,2019-04-10T18:45Z
+41,Wed Apr 10 2019,19:45,BST/+0100,Rotherham United,1-2,1-0,Aston Villa,,2019-04-10T18:45Z
+42,Sat Apr 13 2019,17:30,BST/+0100,Leeds United,1-0,0-0,Sheffield Wednesday,,2019-04-13T16:30Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Stoke City,2-2,2-0,Rotherham United,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Aston Villa,2-1,0-0,Bristol City,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Derby County,4-0,2-0,Bolton Wanderers,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Middlesbrough FC,1-0,1-0,Hull City,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Reading FC,2-1,2-1,Brentford FC,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Ipswich Town,1-1,0-1,Birmingham City,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Nottingham Forest,1-2,0-1,Blackburn Rovers,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Queens Park Rangers,4-0,3-0,Swansea City,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,Sheffield United,1-1,0-0,Millwall FC,,2019-04-13T14:00Z
+42,Sat Apr 13 2019,15:00,BST/+0100,West Bromwich Albion,4-1,3-0,Preston North End,,2019-04-13T14:00Z
+42,Sun Apr 14 2019,12:00,BST/+0100,Wigan Athletic,1-1,1-0,Norwich City,,2019-04-14T11:00Z
+43,Fri Apr 19 2019,15:00,BST/+0100,West Bromwich Albion,3-2,1-0,Hull City,,2019-04-19T14:00Z
+43,Fri Apr 19 2019,15:00,BST/+0100,Queens Park Rangers,1-2,0-1,Blackburn Rovers,,2019-04-19T14:00Z
+43,Fri Apr 19 2019,12:00,BST/+0100,Bristol City,1-1,0-0,Reading FC,,2019-04-19T11:00Z
+43,Fri Apr 19 2019,12:30,BST/+0100,Sheffield United,2-0,0-0,Nottingham Forest,,2019-04-19T11:30Z
+43,Fri Apr 19 2019,13:00,BST/+0100,Millwall FC,1-1,1-1,Brentford FC,,2019-04-19T12:00Z
+43,Fri Apr 19 2019,15:00,BST/+0100,Birmingham City,2-2,2-2,Derby County,,2019-04-19T14:00Z
+43,Fri Apr 19 2019,15:00,BST/+0100,Bolton Wanderers,0-2,0-0,Aston Villa,,2019-04-19T14:00Z
+43,Fri Apr 19 2019,15:00,BST/+0100,Middlesbrough FC,1-0,1-0,Stoke City,,2019-04-19T14:00Z
+43,Fri Apr 19 2019,15:00,BST/+0100,Leeds United,1-2,1-1,Wigan Athletic,,2019-04-19T14:00Z
+43,Fri Apr 19 2019,15:00,BST/+0100,Preston North End,4-0,2-0,Ipswich Town,,2019-04-19T14:00Z
+43,Fri Apr 19 2019,15:00,BST/+0100,Swansea City,4-3,1-2,Rotherham United,,2019-04-19T14:00Z
+43,Fri Apr 19 2019,19:45,BST/+0100,Norwich City,2-2,1-1,Sheffield Wednesday,,2019-04-19T18:45Z
+44,Mon Apr 22 2019,17:15,BST/+0100,Brentford FC,2-0,1-0,Leeds United,,2019-04-22T16:15Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Derby County,2-0,0-0,Queens Park Rangers,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,13:00,BST/+0100,Aston Villa,1-0,1-0,Millwall FC,,2019-04-22T12:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Blackburn Rovers,2-0,1-0,Bolton Wanderers,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Wigan Athletic,2-0,1-0,Preston North End,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Reading FC,0-0,0-0,West Bromwich Albion,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Hull City,0-3,0-3,Sheffield United,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Ipswich Town,0-1,0-0,Swansea City,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Nottingham Forest,3-0,1-0,Middlesbrough FC,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Rotherham United,1-3,1-0,Birmingham City,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Sheffield Wednesday,2-0,2-0,Bristol City,,2019-04-22T14:00Z
+44,Mon Apr 22 2019,15:00,BST/+0100,Stoke City,2-2,0-1,Norwich City,,2019-04-22T14:00Z
+45,Sat Apr 27 2019,15:00,BST/+0100,Preston North End,3-3,2-0,Sheffield Wednesday,,2019-04-27T14:00Z
+45,Sat Apr 27 2019,19:30,BST/+0100,Norwich City,2-1,2-1,Blackburn Rovers,,2019-04-27T18:30Z
+45,Sat Apr 27 2019,,,Bolton Wanderers,0-1 (*),,Brentford FC,awd.,
+45,Sat Apr 27 2019,13:30,BST/+0100,Millwall FC,0-0,0-0,Stoke City,,2019-04-27T12:30Z
+45,Sat Apr 27 2019,15:00,BST/+0100,Birmingham City,1-1,1-1,Wigan Athletic,,2019-04-27T14:00Z
+45,Sat Apr 27 2019,15:00,BST/+0100,Bristol City,0-2,0-1,Derby County,,2019-04-27T14:00Z
+45,Sat Apr 27 2019,15:00,BST/+0100,Middlesbrough FC,2-1,2-1,Reading FC,,2019-04-27T14:00Z
+45,Sat Apr 27 2019,15:00,BST/+0100,West Bromwich Albion,2-1,0-0,Rotherham United,,2019-04-27T14:00Z
+45,Sat Apr 27 2019,15:00,BST/+0100,Queens Park Rangers,0-1,0-0,Nottingham Forest,,2019-04-27T14:00Z
+45,Sat Apr 27 2019,15:00,BST/+0100,Swansea City,2-2,1-0,Hull City,,2019-04-27T14:00Z
+45,Sat Apr 27 2019,17:15,BST/+0100,Sheffield United,2-0,1-0,Ipswich Town,,2019-04-27T16:15Z
+45,Sun Apr 28 2019,12:00,BST/+0100,Leeds United,1-1,0-0,Aston Villa,,2019-04-28T11:00Z
+38,Tue Apr 30 2019,19:45,BST/+0100,Millwall FC,1-2,1-0,Bristol City,,2019-04-30T18:45Z
+38,Wed May 1 2019,19:45,BST/+0100,Swansea City,1-1,0-1,Derby County,,2019-05-01T18:45Z
+46,Sun May 5 2019,12:30,BST/+0100,Aston Villa,1-2,1-1,Norwich City,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Blackburn Rovers,2-2,1-2,Swansea City,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Derby County,3-1,1-0,West Bromwich Albion,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Brentford FC,3-0,1-0,Preston North End,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Reading FC,0-0,0-0,Birmingham City,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Hull City,1-1,0-0,Bristol City,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Ipswich Town,3-2,1-1,Leeds United,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Nottingham Forest,1-0,1-0,Bolton Wanderers,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Rotherham United,1-2,0-2,Middlesbrough FC,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Sheffield Wednesday,1-2,0-1,Queens Park Rangers,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Stoke City,2-2,1-0,Sheffield United,,2019-05-05T11:30Z
+46,Sun May 5 2019,12:30,BST/+0100,Wigan Athletic,1-0,1-0,Millwall FC,,2019-05-05T11:30Z

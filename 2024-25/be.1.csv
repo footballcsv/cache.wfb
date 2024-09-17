@@ -45,14 +45,14 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 6,Sun Sep 1 2024,18:30,CEST/+0200,Union Saint-Gilloise,0-0,0-0,RSC Anderlecht,2024-09-01T16:30Z
 6,Sun Sep 1 2024,13:30,CEST/+0200,Club Brugge KV,3-0,2-0,Cercle Brugge,2024-09-01T11:30Z
 6,Sun Sep 1 2024,16:00,CEST/+0200,KAA Gent,1-1,1-1,Royal Antwerp FC,2024-09-01T14:00Z
-7,Fri Sep 13 2024,20:45,CEST/+0200,FCV Dender EH,,,Standard Liège,2024-09-13T18:45Z
-7,Sat Sep 14 2024,18:15,CEST/+0200,KV Kortrijk,,,Club Brugge KV,2024-09-14T16:15Z
-7,Sat Sep 14 2024,16:00,CEST/+0200,Cercle Brugge,,,KRC Genk,2024-09-14T14:00Z
-7,Sat Sep 14 2024,20:45,CEST/+0200,RSC Anderlecht,,,KVC Westerlo,2024-09-14T18:45Z
-7,Sun Sep 15 2024,19:15,CEST/+0200,KAA Gent,,,KV Mechelen,2024-09-15T17:15Z
-7,Sun Sep 15 2024,16:00,CEST/+0200,Sint-Truidense VV,,,Oud-Heverlee Leuven,2024-09-15T14:00Z
-7,Sun Sep 15 2024,13:30,CEST/+0200,Royal Antwerp FC,,,Union Saint-Gilloise,2024-09-15T11:30Z
-7,Sun Sep 15 2024,18:30,CEST/+0200,Sporting Charleroi,,,K Beerschot VA,2024-09-15T16:30Z
+7,Fri Sep 13 2024,20:45,CEST/+0200,FCV Dender EH,0-2,0-1,Standard Liège,2024-09-13T18:45Z
+7,Sat Sep 14 2024,18:15,CEST/+0200,KV Kortrijk,0-3,0-1,Club Brugge KV,2024-09-14T16:15Z
+7,Sat Sep 14 2024,16:00,CEST/+0200,Cercle Brugge,2-3,2-2,KRC Genk,2024-09-14T14:00Z
+7,Sat Sep 14 2024,20:45,CEST/+0200,RSC Anderlecht,2-2,1-1,KVC Westerlo,2024-09-14T18:45Z
+7,Sun Sep 15 2024,19:15,CEST/+0200,KAA Gent,2-0,2-0,KV Mechelen,2024-09-15T17:15Z
+7,Sun Sep 15 2024,16:00,CEST/+0200,Sint-Truidense VV,2-1,1-0,Oud-Heverlee Leuven,2024-09-15T14:00Z
+7,Sun Sep 15 2024,13:30,CEST/+0200,Royal Antwerp FC,2-0,0-0,Union Saint-Gilloise,2024-09-15T11:30Z
+7,Sun Sep 15 2024,18:30,CEST/+0200,Sporting Charleroi,3-0,1-0,K Beerschot VA,2024-09-15T16:30Z
 5,Tue Sep 17 2024,20:00,CEST/+0200,RSC Anderlecht,,,KRC Genk,2024-09-17T18:00Z
 8,Fri Sep 20 2024,20:45,CEST/+0200,Standard Liège,,,Union Saint-Gilloise,2024-09-20T18:45Z
 8,Sat Sep 21 2024,20:45,CEST/+0200,RSC Anderlecht,,,Sporting Charleroi,2024-09-21T18:45Z

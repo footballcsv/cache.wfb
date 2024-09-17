@@ -1,181 +1,181 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Mon Jul 11 2011,18:30,SCR Altach,1-1,1-1,First Vienna FC
-1,Tue Jul 12 2011,18:30,SKN St. Pölten,0-2,0-0,WAC/St. Andrä
-1,Tue Jul 12 2011,18:30,FC Blau Weiß Linz,2-1,1-1,TSV Hartberg
-1,Tue Jul 12 2011,18:30,SV Grödig,1-2,0-1,Austria Lustenau
-1,Tue Jul 12 2011,18:30,FC Lustenau,1-1,0-1,LASK Linz
-2,Fri Jul 15 2011,18:30,Austria Lustenau,1-0,1-0,FC Blau Weiß Linz
-2,Fri Jul 15 2011,18:30,First Vienna FC,4-2,0-1,FC Lustenau
-2,Fri Jul 15 2011,18:30,LASK Linz,2-0,0-0,SKN St. Pölten
-2,Fri Jul 15 2011,18:30,WAC/St. Andrä,1-0,0-0,SV Grödig
-2,Fri Jul 15 2011,20:30,TSV Hartberg,0-4,0-2,SCR Altach
-3,Mon Jul 18 2011,18:30,FC Blau Weiß Linz,1-1,0-0,LASK Linz
-3,Tue Jul 19 2011,18:30,SV Grödig,2-2,1-1,SKN St. Pölten
-3,Tue Jul 19 2011,18:30,FC Lustenau,2-5,1-3,WAC/St. Andrä
-3,Tue Jul 19 2011,18:30,First Vienna FC,1-0,0-0,TSV Hartberg
-3,Tue Jul 19 2011,18:30,SCR Altach,1-1,1-0,Austria Lustenau
-4,Fri Jul 22 2011,18:30,WAC/St. Andrä,3-2,1-2,FC Blau Weiß Linz
-4,Fri Jul 22 2011,18:30,Austria Lustenau,2-1,0-1,First Vienna FC
-4,Fri Jul 22 2011,18:30,SKN St. Pölten,3-0,1-0,FC Lustenau
-4,Fri Jul 22 2011,18:30,TSV Hartberg,2-4,0-2,SV Grödig
-4,Fri Jul 22 2011,20:30,LASK Linz,0-2,0-1,SCR Altach
-5,Fri Jul 29 2011,18:30,FC Lustenau,1-3,1-1,SV Grödig
-5,Fri Jul 29 2011,18:30,FC Blau Weiß Linz,1-2,0-1,SKN St. Pölten
-5,Fri Jul 29 2011,18:30,SCR Altach,1-2,1-2,WAC/St. Andrä
-5,Fri Jul 29 2011,18:30,TSV Hartberg,2-3,1-2,Austria Lustenau
-5,Fri Jul 29 2011,20:30,First Vienna FC,0-1,0-0,LASK Linz
-6,Mon Aug 1 2011,18:30,WAC/St. Andrä,3-3,2-0,Austria Lustenau
-6,Tue Aug 2 2011,18:30,SV Grödig,4-0,1-0,First Vienna FC
-6,Tue Aug 2 2011,18:30,LASK Linz,4-0,3-0,TSV Hartberg
-6,Tue Aug 2 2011,18:30,FC Lustenau,1-0,1-0,FC Blau Weiß Linz
-6,Tue Aug 2 2011,18:30,SKN St. Pölten,1-2,0-1,SCR Altach
-7,Fri Aug 12 2011,18:30,TSV Hartberg,4-3,3-3,WAC/St. Andrä
-7,Fri Aug 12 2011,18:30,SCR Altach,4-1,3-0,FC Lustenau
-7,Fri Aug 12 2011,18:30,First Vienna FC,3-1,1-1,SKN St. Pölten
-7,Fri Aug 12 2011,18:30,FC Blau Weiß Linz,3-0,2-0,SV Grödig
-7,Fri Aug 12 2011,20:30,Austria Lustenau,1-1,1-1,LASK Linz
-8,Fri Aug 19 2011,18:30,WAC/St. Andrä,2-2,1-0,First Vienna FC
-8,Fri Aug 19 2011,18:30,SV Grödig,0-3,0-3,LASK Linz
-8,Fri Aug 19 2011,18:30,FC Blau Weiß Linz,2-0,0-0,SCR Altach
-8,Fri Aug 19 2011,18:30,SKN St. Pölten,1-0,0-0,TSV Hartberg
-8,Fri Aug 19 2011,20:30,FC Lustenau,3-1,1-0,Austria Lustenau
-9,Mon Aug 22 2011,18:30,LASK Linz,2-3,1-2,WAC/St. Andrä
-9,Tue Aug 23 2011,18:30,Austria Lustenau,1-1,1-0,SKN St. Pölten
-9,Tue Aug 23 2011,18:30,TSV Hartberg,2-0,0-0,FC Lustenau
-9,Tue Aug 23 2011,18:30,SCR Altach,1-2,1-0,SV Grödig
-9,Tue Aug 23 2011,18:30,First Vienna FC,0-0,0-0,FC Blau Weiß Linz
-10,Fri Aug 26 2011,18:30,WAC/St. Andrä,1-1,1-1,SKN St. Pölten
-10,Fri Aug 26 2011,18:30,TSV Hartberg,1-1,1-0,FC Blau Weiß Linz
-10,Fri Aug 26 2011,18:30,LASK Linz,2-1,0-0,FC Lustenau
-10,Fri Aug 26 2011,18:30,Austria Lustenau,0-0,0-0,SV Grödig
-10,Fri Aug 26 2011,20:30,First Vienna FC,0-1,0-0,SCR Altach
-11,Fri Sep 9 2011,18:30,SCR Altach,4-2,0-1,TSV Hartberg
-11,Fri Sep 9 2011,18:30,SKN St. Pölten,2-2,1-2,LASK Linz
-11,Fri Sep 9 2011,18:30,FC Lustenau,4-1,1-0,First Vienna FC
-11,Fri Sep 9 2011,18:30,FC Blau Weiß Linz,2-1,2-1,Austria Lustenau
-11,Fri Sep 9 2011,20:30,SV Grödig,3-3,2-1,WAC/St. Andrä
-12,Fri Sep 16 2011,18:30,TSV Hartberg,2-0,0-0,First Vienna FC
-12,Fri Sep 16 2011,18:30,WAC/St. Andrä,2-0,2-0,FC Lustenau
-12,Fri Sep 16 2011,18:30,LASK Linz,1-1,1-1,FC Blau Weiß Linz
-12,Fri Sep 16 2011,18:30,SKN St. Pölten,2-0,1-0,SV Grödig
-12,Fri Sep 16 2011,20:30,Austria Lustenau,0-5,0-2,SCR Altach
-13,Fri Sep 23 2011,18:30,FC Blau Weiß Linz,2-2,1-0,WAC/St. Andrä
-13,Fri Sep 23 2011,18:30,SV Grödig,2-3,1-2,TSV Hartberg
-13,Fri Sep 23 2011,18:30,FC Lustenau,1-2,1-1,SKN St. Pölten
-13,Fri Sep 23 2011,18:30,First Vienna FC,2-0,1-0,Austria Lustenau
-13,Fri Sep 23 2011,20:30,SCR Altach,2-0,1-0,LASK Linz
-14,Fri Sep 30 2011,18:30,Austria Lustenau,4-0,0-0,TSV Hartberg
-14,Fri Sep 30 2011,18:30,WAC/St. Andrä,2-2,1-1,SCR Altach
-14,Fri Sep 30 2011,18:30,SV Grödig,1-0,0-0,FC Lustenau
-14,Fri Sep 30 2011,18:30,LASK Linz,4-0,1-0,First Vienna FC
-14,Fri Sep 30 2011,20:30,SKN St. Pölten,0-1,0-1,FC Blau Weiß Linz
-15,Fri Oct 14 2011,18:30,FC Blau Weiß Linz,1-6,0-3,FC Lustenau
-15,Fri Oct 14 2011,18:30,Austria Lustenau,1-1,0-1,WAC/St. Andrä
-15,Fri Oct 14 2011,18:30,First Vienna FC,1-1,1-1,SV Grödig
-15,Fri Oct 14 2011,18:30,SCR Altach,1-0,0-0,SKN St. Pölten
-15,Fri Oct 14 2011,20:30,TSV Hartberg,0-2,0-2,LASK Linz
-16,Fri Oct 21 2011,18:30,WAC/St. Andrä,3-0,2-0,TSV Hartberg
-16,Fri Oct 21 2011,18:30,SKN St. Pölten,0-3,0-2,First Vienna FC
-16,Fri Oct 21 2011,18:30,FC Lustenau,2-2,0-1,SCR Altach
-16,Fri Oct 21 2011,18:30,SV Grödig,1-3,1-1,FC Blau Weiß Linz
-16,Fri Oct 21 2011,20:30,LASK Linz,0-3,0-3,Austria Lustenau
-17,Fri Oct 28 2011,18:30,TSV Hartberg,1-1,1-0,SKN St. Pölten
-17,Fri Oct 28 2011,18:30,Austria Lustenau,2-0,2-0,FC Lustenau
-17,Fri Oct 28 2011,18:30,SCR Altach,2-0,1-0,FC Blau Weiß Linz
-17,Fri Oct 28 2011,20:30,First Vienna FC,2-3,0-2,WAC/St. Andrä
-17,Sat Oct 29 2011,16:00,LASK Linz,2-1,1-1,SV Grödig
-18,Fri Nov 4 2011,18:30,FC Blau Weiß Linz,4-1,2-1,First Vienna FC
-18,Fri Nov 4 2011,18:30,FC Lustenau,2-2,1-0,TSV Hartberg
-18,Fri Nov 4 2011,18:30,SV Grödig,2-1,1-0,SCR Altach
-18,Fri Nov 4 2011,18:30,SKN St. Pölten,2-1,0-0,Austria Lustenau
-18,Fri Nov 4 2011,20:30,WAC/St. Andrä,1-1,0-0,LASK Linz
-19,Fri Nov 18 2011,18:30,FC Blau Weiß Linz,1-1,1-0,TSV Hartberg
-19,Fri Nov 18 2011,18:30,SKN St. Pölten,3-2,2-0,WAC/St. Andrä
-19,Fri Nov 18 2011,18:30,FC Lustenau,1-1,0-0,LASK Linz
-19,Fri Nov 18 2011,18:30,SV Grödig,1-2,0-2,Austria Lustenau
-19,Fri Nov 18 2011,20:30,SCR Altach,4-2,2-0,First Vienna FC
-20,Fri Nov 25 2011,18:30,WAC/St. Andrä,3-2,1-0,SV Grödig
-20,Fri Nov 25 2011,18:30,Austria Lustenau,1-3,0-0,FC Blau Weiß Linz
-20,Fri Nov 25 2011,18:30,First Vienna FC,2-3,0-2,FC Lustenau
-20,Fri Nov 25 2011,18:30,TSV Hartberg,0-2,0-1,SCR Altach
-20,Fri Nov 25 2011,20:30,LASK Linz,2-1,0-1,SKN St. Pölten
-21,Mon Nov 28 2011,18:30,FC Blau Weiß Linz,2-2,0-1,LASK Linz
-21,Tue Nov 29 2011,18:30,First Vienna FC,1-2,0-1,TSV Hartberg
-21,Tue Nov 29 2011,18:30,SV Grödig,2-0,1-0,SKN St. Pölten
-21,Tue Nov 29 2011,18:30,FC Lustenau,0-2,0-1,WAC/St. Andrä
-21,Tue Nov 29 2011,18:30,SCR Altach,1-1,1-0,Austria Lustenau
-22,Fri Mar 2 2012,18:30,WAC/St. Andrä,2-0,0-0,FC Blau Weiß Linz
-22,Fri Mar 2 2012,18:30,SKN St. Pölten,3-2,1-1,FC Lustenau
-22,Fri Mar 2 2012,18:30,TSV Hartberg,0-1,0-0,SV Grödig
-22,Fri Mar 2 2012,18:30,Austria Lustenau,0-0,0-0,First Vienna FC
-22,Fri Mar 2 2012,20:30,LASK Linz,3-2,1-1,SCR Altach
-23,Fri Mar 9 2012,18:30,FC Lustenau,0-3,0-0,SV Grödig
-23,Fri Mar 9 2012,18:30,First Vienna FC,1-2,1-0,LASK Linz
-23,Fri Mar 9 2012,18:30,TSV Hartberg,0-2,0-1,Austria Lustenau
-23,Fri Mar 9 2012,18:30,FC Blau Weiß Linz,0-1,0-0,SKN St. Pölten
-23,Fri Mar 9 2012,20:30,SCR Altach,0-0,0-0,WAC/St. Andrä
-24,Fri Mar 16 2012,18:30,LASK Linz,1-1,1-0,TSV Hartberg
-24,Fri Mar 16 2012,18:30,FC Lustenau,2-0,1-0,FC Blau Weiß Linz
-24,Fri Mar 16 2012,18:30,SV Grödig,1-0,1-0,First Vienna FC
-24,Fri Mar 16 2012,18:30,SKN St. Pölten,1-3,1-0,SCR Altach
-24,Fri Mar 16 2012,20:30,WAC/St. Andrä,1-2,0-0,Austria Lustenau
-25,Fri Mar 23 2012,18:30,Austria Lustenau,2-1,0-0,LASK Linz
-25,Fri Mar 23 2012,18:30,SCR Altach,1-1,0-0,FC Lustenau
-25,Fri Mar 23 2012,18:30,FC Blau Weiß Linz,1-1,1-1,SV Grödig
-25,Fri Mar 23 2012,18:30,TSV Hartberg,0-3,0-2,WAC/St. Andrä
-25,Fri Mar 23 2012,20:30,First Vienna FC,0-0,0-0,SKN St. Pölten
-26,Mon Mar 26 2012,18:30,FC Lustenau,1-3,0-1,Austria Lustenau
-26,Tue Mar 27 2012,18:30,SKN St. Pölten,2-0,1-0,TSV Hartberg
-26,Tue Mar 27 2012,18:30,SV Grödig,1-1,0-0,LASK Linz
-26,Tue Mar 27 2012,18:30,WAC/St. Andrä,2-2,1-0,First Vienna FC
-26,Tue Mar 27 2012,18:30,FC Blau Weiß Linz,1-0,1-0,SCR Altach
-27,Fri Mar 30 2012,18:30,First Vienna FC,2-0,1-0,FC Blau Weiß Linz
-27,Fri Mar 30 2012,18:30,LASK Linz,2-1,1-0,WAC/St. Andrä
-27,Fri Mar 30 2012,18:30,Austria Lustenau,1-1,1-1,SKN St. Pölten
-27,Fri Mar 30 2012,18:30,SCR Altach,2-0,0-0,SV Grödig
-27,Fri Mar 30 2012,20:30,TSV Hartberg,0-3,0-0,FC Lustenau
-28,Mon Apr 2 2012,18:30,WAC/St. Andrä,2-0,0-0,SKN St. Pölten
-28,Tue Apr 3 2012,18:30,First Vienna FC,2-0,1-0,SCR Altach
-28,Tue Apr 3 2012,18:30,LASK Linz,1-1,0-0,FC Lustenau
-28,Tue Apr 3 2012,18:30,Austria Lustenau,3-0,1-0,SV Grödig
-28,Tue Apr 3 2012,18:30,TSV Hartberg,2-4,0-0,FC Blau Weiß Linz
-29,Fri Apr 13 2012,18:30,SKN St. Pölten,1-1,1-1,LASK Linz
-29,Fri Apr 13 2012,18:30,FC Lustenau,1-0,0-0,First Vienna FC
-29,Fri Apr 13 2012,18:30,SV Grödig,0-1,0-1,WAC/St. Andrä
-29,Fri Apr 13 2012,20:30,FC Blau Weiß Linz,0-3,0-2,Austria Lustenau
-29,Sat Apr 14 2012,16:00,SCR Altach,1-0,0-0,TSV Hartberg
-30,Mon Apr 16 2012,18:30,LASK Linz,1-2,1-1,FC Blau Weiß Linz
-30,Tue Apr 17 2012,18:30,SKN St. Pölten,1-0,0-0,SV Grödig
-30,Tue Apr 17 2012,18:30,Austria Lustenau,4-1,3-1,SCR Altach
-30,Tue Apr 17 2012,18:30,TSV Hartberg,1-1,0-1,First Vienna FC
-30,Tue Apr 17 2012,18:30,WAC/St. Andrä,2-1,0-0,FC Lustenau
-31,Fri Apr 20 2012,18:30,FC Blau Weiß Linz,2-0,1-0,WAC/St. Andrä
-31,Fri Apr 20 2012,18:30,FC Lustenau,2-2,1-0,SKN St. Pölten
-31,Fri Apr 20 2012,18:30,First Vienna FC,3-1,1-0,Austria Lustenau
-31,Fri Apr 20 2012,18:30,SV Grödig,3-1,1-1,TSV Hartberg
-31,Fri Apr 20 2012,20:30,SCR Altach,0-1,0-0,LASK Linz
-32,Fri Apr 27 2012,18:30,SKN St. Pölten,2-0,1-0,FC Blau Weiß Linz
-32,Fri Apr 27 2012,18:30,Austria Lustenau,2-0,1-0,TSV Hartberg
-32,Fri Apr 27 2012,18:30,SV Grödig,1-1,1-0,FC Lustenau
-32,Fri Apr 27 2012,18:30,LASK Linz,2-1,1-0,First Vienna FC
-32,Fri Apr 27 2012,20:30,WAC/St. Andrä,1-0,0-0,SCR Altach
-33,Fri May 4 2012,18:30,FC Blau Weiß Linz,1-1,1-1,FC Lustenau
-33,Fri May 4 2012,18:30,First Vienna FC,0-0,0-0,SV Grödig
-33,Fri May 4 2012,18:30,SCR Altach,1-0,0-0,SKN St. Pölten
-33,Fri May 4 2012,18:30,TSV Hartberg,1-2,0-1,LASK Linz
-33,Fri May 4 2012,20:30,Austria Lustenau,2-2,1-1,WAC/St. Andrä
-34,Mon May 7 2012,18:30,LASK Linz,2-1,0-0,Austria Lustenau
-34,Tue May 8 2012,18:30,SKN St. Pölten,0-2,0-1,First Vienna FC
-34,Tue May 8 2012,18:30,SV Grödig,1-3,0-3,FC Blau Weiß Linz
-34,Tue May 8 2012,18:30,FC Lustenau,2-2,1-0,SCR Altach
-34,Tue May 8 2012,18:30,WAC/St. Andrä,1-4,1-0,TSV Hartberg
-35,Fri May 11 2012,20:30,TSV Hartberg,0-3,0-2,SKN St. Pölten
-35,Fri May 11 2012,20:30,SCR Altach,4-1,3-0,FC Blau Weiß Linz
-35,Fri May 11 2012,20:30,Austria Lustenau,1-2,0-0,FC Lustenau
-35,Fri May 11 2012,20:30,First Vienna FC,1-3,1-1,WAC/St. Andrä
-35,Fri May 11 2012,20:30,LASK Linz,1-1,1-0,SV Grödig
-36,Fri May 18 2012,20:30,WAC/St. Andrä,1-0,0-0,LASK Linz
-36,Fri May 18 2012,20:30,FC Blau Weiß Linz,2-2,2-0,First Vienna FC
-36,Fri May 18 2012,20:30,SV Grödig,1-2,1-0,SCR Altach
-36,Fri May 18 2012,20:30,FC Lustenau,0-3,0-0,TSV Hartberg
-36,Fri May 18 2012,20:30,SKN St. Pölten,3-1,0-1,Austria Lustenau
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Mon Jul 11 2011,18:30,CEST/+0200,SCR Altach,1-1,1-1,First Vienna FC,2011-07-11T16:30Z
+1,Tue Jul 12 2011,18:30,CEST/+0200,FC Blau Weiß Linz,2-1,1-1,TSV Hartberg,2011-07-12T16:30Z
+1,Tue Jul 12 2011,18:30,CEST/+0200,SV Grödig,1-2,0-1,Austria Lustenau,2011-07-12T16:30Z
+1,Tue Jul 12 2011,18:30,CEST/+0200,FC Lustenau,1-1,0-1,LASK Linz,2011-07-12T16:30Z
+1,Tue Jul 12 2011,18:30,CEST/+0200,SKN St. Pölten,0-2,0-0,WAC/St. Andrä,2011-07-12T16:30Z
+2,Fri Jul 15 2011,18:30,CEST/+0200,Austria Lustenau,1-0,1-0,FC Blau Weiß Linz,2011-07-15T16:30Z
+2,Fri Jul 15 2011,18:30,CEST/+0200,First Vienna FC,4-2,0-1,FC Lustenau,2011-07-15T16:30Z
+2,Fri Jul 15 2011,18:30,CEST/+0200,LASK Linz,2-0,0-0,SKN St. Pölten,2011-07-15T16:30Z
+2,Fri Jul 15 2011,18:30,CEST/+0200,WAC/St. Andrä,1-0,0-0,SV Grödig,2011-07-15T16:30Z
+2,Fri Jul 15 2011,20:30,CEST/+0200,TSV Hartberg,0-4,0-2,SCR Altach,2011-07-15T18:30Z
+3,Mon Jul 18 2011,18:30,CEST/+0200,FC Blau Weiß Linz,1-1,0-0,LASK Linz,2011-07-18T16:30Z
+3,Tue Jul 19 2011,18:30,CEST/+0200,FC Lustenau,2-5,1-3,WAC/St. Andrä,2011-07-19T16:30Z
+3,Tue Jul 19 2011,18:30,CEST/+0200,First Vienna FC,1-0,0-0,TSV Hartberg,2011-07-19T16:30Z
+3,Tue Jul 19 2011,18:30,CEST/+0200,SCR Altach,1-1,1-0,Austria Lustenau,2011-07-19T16:30Z
+3,Tue Jul 19 2011,18:30,CEST/+0200,SV Grödig,2-2,1-1,SKN St. Pölten,2011-07-19T16:30Z
+4,Fri Jul 22 2011,18:30,CEST/+0200,WAC/St. Andrä,3-2,1-2,FC Blau Weiß Linz,2011-07-22T16:30Z
+4,Fri Jul 22 2011,18:30,CEST/+0200,Austria Lustenau,2-1,0-1,First Vienna FC,2011-07-22T16:30Z
+4,Fri Jul 22 2011,18:30,CEST/+0200,SKN St. Pölten,3-0,1-0,FC Lustenau,2011-07-22T16:30Z
+4,Fri Jul 22 2011,18:30,CEST/+0200,TSV Hartberg,2-4,0-2,SV Grödig,2011-07-22T16:30Z
+4,Fri Jul 22 2011,20:30,CEST/+0200,LASK Linz,0-2,0-1,SCR Altach,2011-07-22T18:30Z
+5,Fri Jul 29 2011,18:30,CEST/+0200,FC Lustenau,1-3,1-1,SV Grödig,2011-07-29T16:30Z
+5,Fri Jul 29 2011,18:30,CEST/+0200,FC Blau Weiß Linz,1-2,0-1,SKN St. Pölten,2011-07-29T16:30Z
+5,Fri Jul 29 2011,18:30,CEST/+0200,SCR Altach,1-2,1-2,WAC/St. Andrä,2011-07-29T16:30Z
+5,Fri Jul 29 2011,18:30,CEST/+0200,TSV Hartberg,2-3,1-2,Austria Lustenau,2011-07-29T16:30Z
+5,Fri Jul 29 2011,20:30,CEST/+0200,First Vienna FC,0-1,0-0,LASK Linz,2011-07-29T18:30Z
+6,Mon Aug 1 2011,18:30,CEST/+0200,WAC/St. Andrä,3-3,2-0,Austria Lustenau,2011-08-01T16:30Z
+6,Tue Aug 2 2011,18:30,CEST/+0200,LASK Linz,4-0,3-0,TSV Hartberg,2011-08-02T16:30Z
+6,Tue Aug 2 2011,18:30,CEST/+0200,FC Lustenau,1-0,1-0,FC Blau Weiß Linz,2011-08-02T16:30Z
+6,Tue Aug 2 2011,18:30,CEST/+0200,SKN St. Pölten,1-2,0-1,SCR Altach,2011-08-02T16:30Z
+6,Tue Aug 2 2011,18:30,CEST/+0200,SV Grödig,4-0,1-0,First Vienna FC,2011-08-02T16:30Z
+7,Fri Aug 12 2011,18:30,CEST/+0200,TSV Hartberg,4-3,3-3,WAC/St. Andrä,2011-08-12T16:30Z
+7,Fri Aug 12 2011,18:30,CEST/+0200,SCR Altach,4-1,3-0,FC Lustenau,2011-08-12T16:30Z
+7,Fri Aug 12 2011,18:30,CEST/+0200,First Vienna FC,3-1,1-1,SKN St. Pölten,2011-08-12T16:30Z
+7,Fri Aug 12 2011,18:30,CEST/+0200,FC Blau Weiß Linz,3-0,2-0,SV Grödig,2011-08-12T16:30Z
+7,Fri Aug 12 2011,20:30,CEST/+0200,Austria Lustenau,1-1,1-1,LASK Linz,2011-08-12T18:30Z
+8,Fri Aug 19 2011,18:30,CEST/+0200,WAC/St. Andrä,2-2,1-0,First Vienna FC,2011-08-19T16:30Z
+8,Fri Aug 19 2011,18:30,CEST/+0200,SV Grödig,0-3,0-3,LASK Linz,2011-08-19T16:30Z
+8,Fri Aug 19 2011,18:30,CEST/+0200,FC Blau Weiß Linz,2-0,0-0,SCR Altach,2011-08-19T16:30Z
+8,Fri Aug 19 2011,18:30,CEST/+0200,SKN St. Pölten,1-0,0-0,TSV Hartberg,2011-08-19T16:30Z
+8,Fri Aug 19 2011,20:30,CEST/+0200,FC Lustenau,3-1,1-0,Austria Lustenau,2011-08-19T18:30Z
+9,Mon Aug 22 2011,18:30,CEST/+0200,LASK Linz,2-3,1-2,WAC/St. Andrä,2011-08-22T16:30Z
+9,Tue Aug 23 2011,18:30,CEST/+0200,TSV Hartberg,2-0,0-0,FC Lustenau,2011-08-23T16:30Z
+9,Tue Aug 23 2011,18:30,CEST/+0200,SCR Altach,1-2,1-0,SV Grödig,2011-08-23T16:30Z
+9,Tue Aug 23 2011,18:30,CEST/+0200,First Vienna FC,0-0,0-0,FC Blau Weiß Linz,2011-08-23T16:30Z
+9,Tue Aug 23 2011,18:30,CEST/+0200,Austria Lustenau,1-1,1-0,SKN St. Pölten,2011-08-23T16:30Z
+10,Fri Aug 26 2011,18:30,CEST/+0200,WAC/St. Andrä,1-1,1-1,SKN St. Pölten,2011-08-26T16:30Z
+10,Fri Aug 26 2011,18:30,CEST/+0200,TSV Hartberg,1-1,1-0,FC Blau Weiß Linz,2011-08-26T16:30Z
+10,Fri Aug 26 2011,18:30,CEST/+0200,LASK Linz,2-1,0-0,FC Lustenau,2011-08-26T16:30Z
+10,Fri Aug 26 2011,18:30,CEST/+0200,Austria Lustenau,0-0,0-0,SV Grödig,2011-08-26T16:30Z
+10,Fri Aug 26 2011,20:30,CEST/+0200,First Vienna FC,0-1,0-0,SCR Altach,2011-08-26T18:30Z
+11,Fri Sep 9 2011,18:30,CEST/+0200,SKN St. Pölten,2-2,1-2,LASK Linz,2011-09-09T16:30Z
+11,Fri Sep 9 2011,18:30,CEST/+0200,FC Lustenau,4-1,1-0,First Vienna FC,2011-09-09T16:30Z
+11,Fri Sep 9 2011,18:30,CEST/+0200,FC Blau Weiß Linz,2-1,2-1,Austria Lustenau,2011-09-09T16:30Z
+11,Fri Sep 9 2011,20:30,CEST/+0200,SV Grödig,3-3,2-1,WAC/St. Andrä,2011-09-09T18:30Z
+11,Fri Sep 9 2011,18:30,CEST/+0200,SCR Altach,4-2,0-1,TSV Hartberg,2011-09-09T16:30Z
+12,Fri Sep 16 2011,18:30,CEST/+0200,TSV Hartberg,2-0,0-0,First Vienna FC,2011-09-16T16:30Z
+12,Fri Sep 16 2011,18:30,CEST/+0200,WAC/St. Andrä,2-0,2-0,FC Lustenau,2011-09-16T16:30Z
+12,Fri Sep 16 2011,18:30,CEST/+0200,LASK Linz,1-1,1-1,FC Blau Weiß Linz,2011-09-16T16:30Z
+12,Fri Sep 16 2011,18:30,CEST/+0200,SKN St. Pölten,2-0,1-0,SV Grödig,2011-09-16T16:30Z
+12,Fri Sep 16 2011,20:30,CEST/+0200,Austria Lustenau,0-5,0-2,SCR Altach,2011-09-16T18:30Z
+13,Fri Sep 23 2011,18:30,CEST/+0200,FC Blau Weiß Linz,2-2,1-0,WAC/St. Andrä,2011-09-23T16:30Z
+13,Fri Sep 23 2011,18:30,CEST/+0200,SV Grödig,2-3,1-2,TSV Hartberg,2011-09-23T16:30Z
+13,Fri Sep 23 2011,18:30,CEST/+0200,FC Lustenau,1-2,1-1,SKN St. Pölten,2011-09-23T16:30Z
+13,Fri Sep 23 2011,18:30,CEST/+0200,First Vienna FC,2-0,1-0,Austria Lustenau,2011-09-23T16:30Z
+13,Fri Sep 23 2011,20:30,CEST/+0200,SCR Altach,2-0,1-0,LASK Linz,2011-09-23T18:30Z
+14,Fri Sep 30 2011,18:30,CEST/+0200,WAC/St. Andrä,2-2,1-1,SCR Altach,2011-09-30T16:30Z
+14,Fri Sep 30 2011,18:30,CEST/+0200,SV Grödig,1-0,0-0,FC Lustenau,2011-09-30T16:30Z
+14,Fri Sep 30 2011,18:30,CEST/+0200,LASK Linz,4-0,1-0,First Vienna FC,2011-09-30T16:30Z
+14,Fri Sep 30 2011,20:30,CEST/+0200,SKN St. Pölten,0-1,0-1,FC Blau Weiß Linz,2011-09-30T18:30Z
+14,Fri Sep 30 2011,18:30,CEST/+0200,Austria Lustenau,4-0,0-0,TSV Hartberg,2011-09-30T16:30Z
+15,Fri Oct 14 2011,18:30,CEST/+0200,FC Blau Weiß Linz,1-6,0-3,FC Lustenau,2011-10-14T16:30Z
+15,Fri Oct 14 2011,18:30,CEST/+0200,Austria Lustenau,1-1,0-1,WAC/St. Andrä,2011-10-14T16:30Z
+15,Fri Oct 14 2011,18:30,CEST/+0200,First Vienna FC,1-1,1-1,SV Grödig,2011-10-14T16:30Z
+15,Fri Oct 14 2011,18:30,CEST/+0200,SCR Altach,1-0,0-0,SKN St. Pölten,2011-10-14T16:30Z
+15,Fri Oct 14 2011,20:30,CEST/+0200,TSV Hartberg,0-2,0-2,LASK Linz,2011-10-14T18:30Z
+16,Fri Oct 21 2011,18:30,CEST/+0200,SKN St. Pölten,0-3,0-2,First Vienna FC,2011-10-21T16:30Z
+16,Fri Oct 21 2011,18:30,CEST/+0200,FC Lustenau,2-2,0-1,SCR Altach,2011-10-21T16:30Z
+16,Fri Oct 21 2011,18:30,CEST/+0200,SV Grödig,1-3,1-1,FC Blau Weiß Linz,2011-10-21T16:30Z
+16,Fri Oct 21 2011,20:30,CEST/+0200,LASK Linz,0-3,0-3,Austria Lustenau,2011-10-21T18:30Z
+16,Fri Oct 21 2011,18:30,CEST/+0200,WAC/St. Andrä,3-0,2-0,TSV Hartberg,2011-10-21T16:30Z
+17,Fri Oct 28 2011,18:30,CEST/+0200,TSV Hartberg,1-1,1-0,SKN St. Pölten,2011-10-28T16:30Z
+17,Fri Oct 28 2011,18:30,CEST/+0200,Austria Lustenau,2-0,2-0,FC Lustenau,2011-10-28T16:30Z
+17,Fri Oct 28 2011,18:30,CEST/+0200,SCR Altach,2-0,1-0,FC Blau Weiß Linz,2011-10-28T16:30Z
+17,Fri Oct 28 2011,20:30,CEST/+0200,First Vienna FC,2-3,0-2,WAC/St. Andrä,2011-10-28T18:30Z
+17,Sat Oct 29 2011,16:00,CEST/+0200,LASK Linz,2-1,1-1,SV Grödig,2011-10-29T14:00Z
+18,Fri Nov 4 2011,18:30,CET/+0100,FC Lustenau,2-2,1-0,TSV Hartberg,2011-11-04T17:30Z
+18,Fri Nov 4 2011,18:30,CET/+0100,SV Grödig,2-1,1-0,SCR Altach,2011-11-04T17:30Z
+18,Fri Nov 4 2011,18:30,CET/+0100,SKN St. Pölten,2-1,0-0,Austria Lustenau,2011-11-04T17:30Z
+18,Fri Nov 4 2011,20:30,CET/+0100,WAC/St. Andrä,1-1,0-0,LASK Linz,2011-11-04T19:30Z
+18,Fri Nov 4 2011,18:30,CET/+0100,FC Blau Weiß Linz,4-1,2-1,First Vienna FC,2011-11-04T17:30Z
+19,Fri Nov 18 2011,18:30,CET/+0100,FC Blau Weiß Linz,1-1,1-0,TSV Hartberg,2011-11-18T17:30Z
+19,Fri Nov 18 2011,18:30,CET/+0100,SKN St. Pölten,3-2,2-0,WAC/St. Andrä,2011-11-18T17:30Z
+19,Fri Nov 18 2011,18:30,CET/+0100,FC Lustenau,1-1,0-0,LASK Linz,2011-11-18T17:30Z
+19,Fri Nov 18 2011,18:30,CET/+0100,SV Grödig,1-2,0-2,Austria Lustenau,2011-11-18T17:30Z
+19,Fri Nov 18 2011,20:30,CET/+0100,SCR Altach,4-2,2-0,First Vienna FC,2011-11-18T19:30Z
+20,Fri Nov 25 2011,18:30,CET/+0100,Austria Lustenau,1-3,0-0,FC Blau Weiß Linz,2011-11-25T17:30Z
+20,Fri Nov 25 2011,18:30,CET/+0100,First Vienna FC,2-3,0-2,FC Lustenau,2011-11-25T17:30Z
+20,Fri Nov 25 2011,18:30,CET/+0100,TSV Hartberg,0-2,0-1,SCR Altach,2011-11-25T17:30Z
+20,Fri Nov 25 2011,20:30,CET/+0100,LASK Linz,2-1,0-1,SKN St. Pölten,2011-11-25T19:30Z
+20,Fri Nov 25 2011,18:30,CET/+0100,WAC/St. Andrä,3-2,1-0,SV Grödig,2011-11-25T17:30Z
+21,Mon Nov 28 2011,18:30,CET/+0100,FC Blau Weiß Linz,2-2,0-1,LASK Linz,2011-11-28T17:30Z
+21,Tue Nov 29 2011,18:30,CET/+0100,SV Grödig,2-0,1-0,SKN St. Pölten,2011-11-29T17:30Z
+21,Tue Nov 29 2011,18:30,CET/+0100,FC Lustenau,0-2,0-1,WAC/St. Andrä,2011-11-29T17:30Z
+21,Tue Nov 29 2011,18:30,CET/+0100,SCR Altach,1-1,1-0,Austria Lustenau,2011-11-29T17:30Z
+21,Tue Nov 29 2011,18:30,CET/+0100,First Vienna FC,1-2,0-1,TSV Hartberg,2011-11-29T17:30Z
+22,Fri Mar 2 2012,18:30,CET/+0100,WAC/St. Andrä,2-0,0-0,FC Blau Weiß Linz,2012-03-02T17:30Z
+22,Fri Mar 2 2012,18:30,CET/+0100,SKN St. Pölten,3-2,1-1,FC Lustenau,2012-03-02T17:30Z
+22,Fri Mar 2 2012,18:30,CET/+0100,TSV Hartberg,0-1,0-0,SV Grödig,2012-03-02T17:30Z
+22,Fri Mar 2 2012,18:30,CET/+0100,Austria Lustenau,0-0,0-0,First Vienna FC,2012-03-02T17:30Z
+22,Fri Mar 2 2012,20:30,CET/+0100,LASK Linz,3-2,1-1,SCR Altach,2012-03-02T19:30Z
+23,Fri Mar 9 2012,18:30,CET/+0100,First Vienna FC,1-2,1-0,LASK Linz,2012-03-09T17:30Z
+23,Fri Mar 9 2012,18:30,CET/+0100,TSV Hartberg,0-2,0-1,Austria Lustenau,2012-03-09T17:30Z
+23,Fri Mar 9 2012,18:30,CET/+0100,FC Blau Weiß Linz,0-1,0-0,SKN St. Pölten,2012-03-09T17:30Z
+23,Fri Mar 9 2012,20:30,CET/+0100,SCR Altach,0-0,0-0,WAC/St. Andrä,2012-03-09T19:30Z
+23,Fri Mar 9 2012,18:30,CET/+0100,FC Lustenau,0-3,0-0,SV Grödig,2012-03-09T17:30Z
+24,Fri Mar 16 2012,18:30,CET/+0100,LASK Linz,1-1,1-0,TSV Hartberg,2012-03-16T17:30Z
+24,Fri Mar 16 2012,18:30,CET/+0100,FC Lustenau,2-0,1-0,FC Blau Weiß Linz,2012-03-16T17:30Z
+24,Fri Mar 16 2012,18:30,CET/+0100,SV Grödig,1-0,1-0,First Vienna FC,2012-03-16T17:30Z
+24,Fri Mar 16 2012,18:30,CET/+0100,SKN St. Pölten,1-3,1-0,SCR Altach,2012-03-16T17:30Z
+24,Fri Mar 16 2012,20:30,CET/+0100,WAC/St. Andrä,1-2,0-0,Austria Lustenau,2012-03-16T19:30Z
+25,Fri Mar 23 2012,18:30,CET/+0100,SCR Altach,1-1,0-0,FC Lustenau,2012-03-23T17:30Z
+25,Fri Mar 23 2012,18:30,CET/+0100,FC Blau Weiß Linz,1-1,1-1,SV Grödig,2012-03-23T17:30Z
+25,Fri Mar 23 2012,18:30,CET/+0100,TSV Hartberg,0-3,0-2,WAC/St. Andrä,2012-03-23T17:30Z
+25,Fri Mar 23 2012,20:30,CET/+0100,First Vienna FC,0-0,0-0,SKN St. Pölten,2012-03-23T19:30Z
+25,Fri Mar 23 2012,18:30,CET/+0100,Austria Lustenau,2-1,0-0,LASK Linz,2012-03-23T17:30Z
+26,Mon Mar 26 2012,18:30,CEST/+0200,FC Lustenau,1-3,0-1,Austria Lustenau,2012-03-26T16:30Z
+26,Tue Mar 27 2012,18:30,CEST/+0200,SKN St. Pölten,2-0,1-0,TSV Hartberg,2012-03-27T16:30Z
+26,Tue Mar 27 2012,18:30,CEST/+0200,SV Grödig,1-1,0-0,LASK Linz,2012-03-27T16:30Z
+26,Tue Mar 27 2012,18:30,CEST/+0200,WAC/St. Andrä,2-2,1-0,First Vienna FC,2012-03-27T16:30Z
+26,Tue Mar 27 2012,18:30,CEST/+0200,FC Blau Weiß Linz,1-0,1-0,SCR Altach,2012-03-27T16:30Z
+27,Fri Mar 30 2012,18:30,CEST/+0200,LASK Linz,2-1,1-0,WAC/St. Andrä,2012-03-30T16:30Z
+27,Fri Mar 30 2012,18:30,CEST/+0200,Austria Lustenau,1-1,1-1,SKN St. Pölten,2012-03-30T16:30Z
+27,Fri Mar 30 2012,18:30,CEST/+0200,SCR Altach,2-0,0-0,SV Grödig,2012-03-30T16:30Z
+27,Fri Mar 30 2012,20:30,CEST/+0200,TSV Hartberg,0-3,0-0,FC Lustenau,2012-03-30T18:30Z
+27,Fri Mar 30 2012,18:30,CEST/+0200,First Vienna FC,2-0,1-0,FC Blau Weiß Linz,2012-03-30T16:30Z
+28,Mon Apr 2 2012,18:30,CEST/+0200,WAC/St. Andrä,2-0,0-0,SKN St. Pölten,2012-04-02T16:30Z
+28,Tue Apr 3 2012,18:30,CEST/+0200,First Vienna FC,2-0,1-0,SCR Altach,2012-04-03T16:30Z
+28,Tue Apr 3 2012,18:30,CEST/+0200,LASK Linz,1-1,0-0,FC Lustenau,2012-04-03T16:30Z
+28,Tue Apr 3 2012,18:30,CEST/+0200,Austria Lustenau,3-0,1-0,SV Grödig,2012-04-03T16:30Z
+28,Tue Apr 3 2012,18:30,CEST/+0200,TSV Hartberg,2-4,0-0,FC Blau Weiß Linz,2012-04-03T16:30Z
+29,Fri Apr 13 2012,18:30,CEST/+0200,FC Lustenau,1-0,0-0,First Vienna FC,2012-04-13T16:30Z
+29,Fri Apr 13 2012,18:30,CEST/+0200,SV Grödig,0-1,0-1,WAC/St. Andrä,2012-04-13T16:30Z
+29,Fri Apr 13 2012,20:30,CEST/+0200,FC Blau Weiß Linz,0-3,0-2,Austria Lustenau,2012-04-13T18:30Z
+29,Fri Apr 13 2012,18:30,CEST/+0200,SKN St. Pölten,1-1,1-1,LASK Linz,2012-04-13T16:30Z
+29,Sat Apr 14 2012,16:00,CEST/+0200,SCR Altach,1-0,0-0,TSV Hartberg,2012-04-14T14:00Z
+30,Mon Apr 16 2012,18:30,CEST/+0200,LASK Linz,1-2,1-1,FC Blau Weiß Linz,2012-04-16T16:30Z
+30,Tue Apr 17 2012,18:30,CEST/+0200,Austria Lustenau,4-1,3-1,SCR Altach,2012-04-17T16:30Z
+30,Tue Apr 17 2012,18:30,CEST/+0200,TSV Hartberg,1-1,0-1,First Vienna FC,2012-04-17T16:30Z
+30,Tue Apr 17 2012,18:30,CEST/+0200,WAC/St. Andrä,2-1,0-0,FC Lustenau,2012-04-17T16:30Z
+30,Tue Apr 17 2012,18:30,CEST/+0200,SKN St. Pölten,1-0,0-0,SV Grödig,2012-04-17T16:30Z
+31,Fri Apr 20 2012,18:30,CEST/+0200,FC Blau Weiß Linz,2-0,1-0,WAC/St. Andrä,2012-04-20T16:30Z
+31,Fri Apr 20 2012,18:30,CEST/+0200,FC Lustenau,2-2,1-0,SKN St. Pölten,2012-04-20T16:30Z
+31,Fri Apr 20 2012,18:30,CEST/+0200,First Vienna FC,3-1,1-0,Austria Lustenau,2012-04-20T16:30Z
+31,Fri Apr 20 2012,18:30,CEST/+0200,SV Grödig,3-1,1-1,TSV Hartberg,2012-04-20T16:30Z
+31,Fri Apr 20 2012,20:30,CEST/+0200,SCR Altach,0-1,0-0,LASK Linz,2012-04-20T18:30Z
+32,Fri Apr 27 2012,18:30,CEST/+0200,Austria Lustenau,2-0,1-0,TSV Hartberg,2012-04-27T16:30Z
+32,Fri Apr 27 2012,18:30,CEST/+0200,SV Grödig,1-1,1-0,FC Lustenau,2012-04-27T16:30Z
+32,Fri Apr 27 2012,18:30,CEST/+0200,LASK Linz,2-1,1-0,First Vienna FC,2012-04-27T16:30Z
+32,Fri Apr 27 2012,20:30,CEST/+0200,WAC/St. Andrä,1-0,0-0,SCR Altach,2012-04-27T18:30Z
+32,Fri Apr 27 2012,18:30,CEST/+0200,SKN St. Pölten,2-0,1-0,FC Blau Weiß Linz,2012-04-27T16:30Z
+33,Fri May 4 2012,18:30,CEST/+0200,FC Blau Weiß Linz,1-1,1-1,FC Lustenau,2012-05-04T16:30Z
+33,Fri May 4 2012,18:30,CEST/+0200,First Vienna FC,0-0,0-0,SV Grödig,2012-05-04T16:30Z
+33,Fri May 4 2012,18:30,CEST/+0200,SCR Altach,1-0,0-0,SKN St. Pölten,2012-05-04T16:30Z
+33,Fri May 4 2012,18:30,CEST/+0200,TSV Hartberg,1-2,0-1,LASK Linz,2012-05-04T16:30Z
+33,Fri May 4 2012,20:30,CEST/+0200,Austria Lustenau,2-2,1-1,WAC/St. Andrä,2012-05-04T18:30Z
+34,Mon May 7 2012,18:30,CEST/+0200,LASK Linz,2-1,0-0,Austria Lustenau,2012-05-07T16:30Z
+34,Tue May 8 2012,18:30,CEST/+0200,SV Grödig,1-3,0-3,FC Blau Weiß Linz,2012-05-08T16:30Z
+34,Tue May 8 2012,18:30,CEST/+0200,FC Lustenau,2-2,1-0,SCR Altach,2012-05-08T16:30Z
+34,Tue May 8 2012,18:30,CEST/+0200,WAC/St. Andrä,1-4,1-0,TSV Hartberg,2012-05-08T16:30Z
+34,Tue May 8 2012,18:30,CEST/+0200,SKN St. Pölten,0-2,0-1,First Vienna FC,2012-05-08T16:30Z
+35,Fri May 11 2012,20:30,CEST/+0200,TSV Hartberg,0-3,0-2,SKN St. Pölten,2012-05-11T18:30Z
+35,Fri May 11 2012,20:30,CEST/+0200,SCR Altach,4-1,3-0,FC Blau Weiß Linz,2012-05-11T18:30Z
+35,Fri May 11 2012,20:30,CEST/+0200,Austria Lustenau,1-2,0-0,FC Lustenau,2012-05-11T18:30Z
+35,Fri May 11 2012,20:30,CEST/+0200,First Vienna FC,1-3,1-1,WAC/St. Andrä,2012-05-11T18:30Z
+35,Fri May 11 2012,20:30,CEST/+0200,LASK Linz,1-1,1-0,SV Grödig,2012-05-11T18:30Z
+36,Fri May 18 2012,20:30,CEST/+0200,FC Blau Weiß Linz,2-2,2-0,First Vienna FC,2012-05-18T18:30Z
+36,Fri May 18 2012,20:30,CEST/+0200,SV Grödig,1-2,1-0,SCR Altach,2012-05-18T18:30Z
+36,Fri May 18 2012,20:30,CEST/+0200,FC Lustenau,0-3,0-0,TSV Hartberg,2012-05-18T18:30Z
+36,Fri May 18 2012,20:30,CEST/+0200,SKN St. Pölten,3-1,0-1,Austria Lustenau,2012-05-18T18:30Z
+36,Fri May 18 2012,20:30,CEST/+0200,WAC/St. Andrä,1-0,0-0,LASK Linz,2012-05-18T18:30Z

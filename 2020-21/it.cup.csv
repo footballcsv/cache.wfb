@@ -1,0 +1,80 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,Comments,UTC
+Round 1,Tue Sep 22 2020,20:30,CEST/+0200,Ternana Calcio,1-2,0-2,UC AlbinoLeffe,,,,2020-09-22T18:30Z
+Round 1,Tue Sep 22 2020,14:30,CEST/+0200,FC Südtirol,2-1,2-0,Sassari Latte Dolce,,,,2020-09-22T12:30Z
+Round 1,Wed Sep 23 2020,15:30,CEST/+0200,Piacenza Calcio,1-2,1-2,SSD Città di Teramo,,,,2020-09-23T13:30Z
+Round 1,Wed Sep 23 2020,16:00,CEST/+0200,Carpi FC,1-1,0-1,Casarano,1-3,,,2020-09-23T14:00Z
+Round 1,Wed Sep 23 2020,16:30,CEST/+0200,US Alessandria 1912,3-2,2-1,Sambenedettese,,,,2020-09-23T14:30Z
+Round 1,Wed Sep 23 2020,16:30,CEST/+0200,Novara Calcio,3-1,2-1,Gelbison,,,,2020-09-23T14:30Z
+Round 1,Wed Sep 23 2020,17:00,CEST/+0200,US Pontedera,1-2,0-0,US Arezzo,,,,2020-09-23T15:00Z
+Round 1,Wed Sep 23 2020,17:00,CEST/+0200,Carrarese Calcio,4-0,3-0,GSD Ambrosiana,,,,2020-09-23T15:00Z
+Round 1,Wed Sep 23 2020,17:00,CEST/+0200,AS Livorno,1-2,0-1,Aurora Pro Patria,,,,2020-09-23T15:00Z
+Round 1,Wed Sep 23 2020,17:00,CEST/+0200,US Catanzaro,2-1,2-1,Virtus Francavilla,,,,2020-09-23T15:00Z
+Round 1,Wed Sep 23 2020,17:30,CEST/+0200,SSC Bari,4-0,3-0,ASD Trastevere,,,,2020-09-23T15:30Z
+Round 1,Wed Sep 23 2020,18:00,CEST/+0200,AC Renate,2-1,1-0,US Avellino,,,,2020-09-23T16:00Z
+Round 1,Wed Sep 23 2020,18:00,CEST/+0200,SS Juve Stabia,2-1,1-0,SS Tritium 1908,,,,2020-09-23T16:00Z
+Round 1,Wed Sep 23 2020,18:30,CEST/+0200,Feralpisalò,1-0,1-0,ASD Pineto Calcio,,,,2020-09-23T16:30Z
+Round 1,Wed Sep 23 2020,18:30,CEST/+0200,Potenza,0-2,0-2,US Triestina,,,,2020-09-23T16:30Z
+Round 1,Wed Sep 23 2020,19:00,CEST/+0200,Calcio Padova,2-0,1-0,US Breno,,,,2020-09-23T17:00Z
+Round 1,Wed Sep 23 2020,20:00,CEST/+0200,SS Monopoli 1966,1-0,0-0,Modena FC,,,,2020-09-23T18:00Z
+Round 1,Wed Sep 23 2020,20:45,CEST/+0200,Calcio Catania,1-1,1-0,SN Notaresco,1-2,,,2020-09-23T18:45Z
+Round 2,Tue Sep 29 2020,20:45,CEST/+0200,AC Monza,3-0,1-0,US Triestina,,,,2020-09-29T18:45Z
+Round 2,Wed Sep 30 2020,14:00,CEST/+0200,Reggina 1914,1-0,1-0,SSD Città di Teramo,,,,2020-09-30T12:00Z
+Round 2,Wed Sep 30 2020,15:00,CEST/+0200,US Cremonese,4-0,0-0,US Arezzo,,,,2020-09-30T13:00Z
+Round 2,Wed Sep 30 2020,15:00,CEST/+0200,Cosenza Calcio,0-0,0-0,US Alessandria 1912,0-0,3-1,,2020-09-30T13:00Z
+Round 2,Wed Sep 30 2020,15:00,CEST/+0200,AS Cittadella,3-1,1-0,Novara Calcio,,,,2020-09-30T13:00Z
+Round 2,Wed Sep 30 2020,15:00,CEST/+0200,Frosinone Calcio,1-3,1-3,Calcio Padova,,,,2020-09-30T13:00Z
+Round 2,Wed Sep 30 2020,15:00,CEST/+0200,AC Pisa,2-0,1-0,SS Juve Stabia,,,,2020-09-30T13:00Z
+Round 2,Wed Sep 30 2020,15:30,CEST/+0200,Delfino Pescara,1-1,1-1,SN Notaresco,1-1,8-7,,2020-09-30T13:30Z
+Round 2,Wed Sep 30 2020,16:00,CEST/+0200,Virtus Entella,2-1,2-0,UC AlbinoLeffe,,,,2020-09-30T14:00Z
+Round 2,Wed Sep 30 2020,17:00,CEST/+0200,Empoli FC,2-1,1-0,AC Renate,,,,2020-09-30T15:00Z
+Round 2,Wed Sep 30 2020,17:00,CEST/+0200,Ascoli Calcio,1-4,0-3,AC Perugia Calcio,,,,2020-09-30T15:00Z
+Round 2,Wed Sep 30 2020,17:00,CEST/+0200,L.R. Vicenza Virtus,1-1,1-1,Aurora Pro Patria,3-2,,,2020-09-30T15:00Z
+Round 2,Wed Sep 30 2020,18:00,CEST/+0200,Venezia FC,2-0,0-0,Carrarese Calcio,,,,2020-09-30T16:00Z
+Round 2,Wed Sep 30 2020,18:00,CEST/+0200,AC Reggiana 1919,0-3 (*),,SS Monopoli 1966,,,awd.,2020-09-30T16:00Z
+Round 2,Wed Sep 30 2020,18:00,CEST/+0200,US Lecce,2-0,0-0,Feralpisalò,,,,2020-09-30T16:00Z
+Round 2,Wed Sep 30 2020,18:00,CEST/+0200,Pordenone Calcio,3-0,2-0,Casarano,,,,2020-09-30T16:00Z
+Round 2,Wed Sep 30 2020,18:00,CEST/+0200,US Salernitana 1919,3-0,0-0,FC Südtirol,,,,2020-09-30T16:00Z
+Round 2,Wed Sep 30 2020,18:00,CEST/+0200,Chievo Verona,1-1,1-0,US Catanzaro,1-1,6-7,,2020-09-30T16:00Z
+Round 2,Wed Sep 30 2020,20:00,CEST/+0200,Brescia Calcio,3-0 (*),,Trapani Calcio,,,awd.,2020-09-30T18:00Z
+Round 2,Wed Sep 30 2020,21:00,CEST/+0200,SPAL 2013 Ferrara,0-0,0-0,SSC Bari,0-0,4-2,,2020-09-30T19:00Z
+Round 3,Tue Oct 27 2020,14:00,CET/+0100,Sampdoria,1-0,0-0,US Salernitana 1919,,,,2020-10-27T13:00Z
+Round 3,Tue Oct 27 2020,15:00,CET/+0100,Bologna FC,2-0,0-0,Reggina 1914,,,,2020-10-27T14:00Z
+Round 3,Tue Oct 27 2020,15:00,CET/+0100,Virtus Entella,3-1,1-0,AC Pisa,,,,2020-10-27T14:00Z
+Round 3,Tue Oct 27 2020,18:00,CET/+0100,Pordenone Calcio,0-0,0-0,AC Monza,0-0,1-4,,2020-10-27T17:00Z
+Round 3,Wed Oct 28 2020,14:00,CET/+0100,Torino FC,1-1,1-1,US Lecce,3-1,,,2020-10-28T13:00Z
+Round 3,Wed Oct 28 2020,14:30,CET/+0100,Cagliari Calcio,1-0,0-0,US Cremonese,,,,2020-10-28T13:30Z
+Round 3,Wed Oct 28 2020,15:00,CET/+0100,Cosenza Calcio,2-1,1-0,SS Monopoli 1966,,,,2020-10-28T14:00Z
+Round 3,Wed Oct 28 2020,15:00,CET/+0100,AS Cittadella,0-2,0-0,Spezia Calcio,,,,2020-10-28T14:00Z
+Round 3,Wed Oct 28 2020,16:00,CET/+0100,Benevento Calcio,2-4,0-0,Empoli FC,,,,2020-10-28T15:00Z
+Round 3,Wed Oct 28 2020,16:00,CET/+0100,Brescia Calcio,3-0,2-0,AC Perugia Calcio,,,,2020-10-28T15:00Z
+Round 3,Wed Oct 28 2020,17:00,CET/+0100,Hellas Verona,2-2,1-0,Venezia FC,3-3,3-1,,2020-10-28T16:00Z
+Round 3,Wed Oct 28 2020,17:00,CET/+0100,FC Crotone,0-0,0-0,SPAL 2013 Ferrara,1-1,3-4,,2020-10-28T16:00Z
+Round 3,Wed Oct 28 2020,17:00,CET/+0100,Genoa CFC,2-1,1-0,US Catanzaro,,,,2020-10-28T16:00Z
+Round 3,Wed Oct 28 2020,17:30,CET/+0100,ACF Fiorentina,2-1,2-0,Calcio Padova,,,,2020-10-28T16:30Z
+Round 3,Wed Oct 28 2020,18:00,CET/+0100,Parma Calcio 1913,3-1,2-0,Delfino Pescara,,,,2020-10-28T17:00Z
+Round 3,Wed Oct 28 2020,18:00,CET/+0100,Udinese Calcio,3-1,1-0,L.R. Vicenza Virtus,,,,2020-10-28T17:00Z
+Round 4,Tue Nov 24 2020,14:30,CET/+0100,SPAL 2013 Ferrara,2-0,0-0,AC Monza,,,,2020-11-24T13:30Z
+Round 4,Wed Nov 25 2020,14:30,CET/+0100,Parma Calcio 1913,2-1,2-1,Cosenza Calcio,,,,2020-11-25T13:30Z
+Round 4,Wed Nov 25 2020,17:30,CET/+0100,Cagliari Calcio,2-1,1-0,Hellas Verona,,,,2020-11-25T16:30Z
+Round 4,Wed Nov 25 2020,17:30,CET/+0100,Bologna FC,2-2,2-1,Spezia Calcio,2-4,,,2020-11-25T16:30Z
+Round 4,Wed Nov 25 2020,17:30,CET/+0100,Udinese Calcio,0-0,0-0,ACF Fiorentina,0-1,,,2020-11-25T16:30Z
+Round 4,Wed Nov 25 2020,,,Empoli FC,3-0 (*),,Brescia Calcio,,,awd.,
+Round 4,Thu Nov 26 2020,14:00,CET/+0100,Torino FC,2-0,2-0,Virtus Entella,,,,2020-11-26T13:00Z
+Round 4,Thu Nov 26 2020,17:00,CET/+0100,Sampdoria,1-3,1-0,Genoa CFC,,,,2020-11-26T16:00Z
+Round of 16,Tue Jan 12 2021,20:45,CET/+0100,AC Milan,0-0,0-0,Torino FC,0-0,5-4,,2021-01-12T19:45Z
+Round of 16,Wed Jan 13 2021,17:45,CET/+0100,SSC Napoli,3-2,2-1,Empoli FC,,,,2021-01-13T16:45Z
+Round of 16,Wed Jan 13 2021,20:45,CET/+0100,Juventus,2-2,2-1,Genoa CFC,3-2,,,2021-01-13T19:45Z
+Round of 16,Wed Jan 13 2021,15:00,CET/+0100,ACF Fiorentina,1-1,0-1,Inter,1-2,,,2021-01-13T14:00Z
+Round of 16,Thu Jan 14 2021,21:15,CET/+0100,Atalanta,3-1,1-0,Cagliari Calcio,,,,2021-01-14T20:15Z
+Round of 16,Thu Jan 14 2021,17:30,CET/+0100,Sassuolo Calcio,0-2,0-0,SPAL 2013 Ferrara,,,,2021-01-14T16:30Z
+Round of 16,Tue Jan 19 2021,21:15,CET/+0100,AS Roma,0-3 (*),,Spezia Calcio,,,awd.,2021-01-19T20:15Z
+Round of 16,Thu Jan 21 2021,21:15,CET/+0100,Lazio Roma,2-1,1-0,Parma Calcio 1913,,,,2021-01-21T20:15Z
+Quarterfinals,Tue Jan 26 2021,20:45,CET/+0100,Inter,2-1,0-1,AC Milan,,,,2021-01-26T19:45Z
+Quarterfinals,Wed Jan 27 2021,20:45,CET/+0100,Juventus,4-0,2-0,SPAL 2013 Ferrara,,,,2021-01-27T19:45Z
+Quarterfinals,Wed Jan 27 2021,17:45,CET/+0100,Atalanta,3-2,2-2,Lazio Roma,,,,2021-01-27T16:45Z
+Quarterfinals,Thu Jan 28 2021,21:00,CET/+0100,SSC Napoli,4-2,4-0,Spezia Calcio,,,,2021-01-28T20:00Z
+Semifinals,Tue Feb 2 2021,20:45,CET/+0100,Inter,1-2,1-2,Juventus,,,,2021-02-02T19:45Z
+Semifinals,Wed Feb 3 2021,20:45,CET/+0100,SSC Napoli,0-0,0-0,Atalanta,,,,2021-02-03T19:45Z
+Semifinals,Tue Feb 9 2021,20:45,CET/+0100,Juventus,0-0,0-0,Inter,,,,2021-02-09T19:45Z
+Semifinals,Wed Feb 10 2021,20:45,CET/+0100,Atalanta,3-1,2-0,SSC Napoli,,,,2021-02-10T19:45Z
+Final,Wed May 19 2021,21:00,CEST/+0200,Atalanta,1-2,1-1,Juventus,,,,2021-05-19T19:00Z

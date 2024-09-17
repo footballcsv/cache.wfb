@@ -1,0 +1,163 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Mon Apr 10 2023,14:00,GMT/+0000,KA Akureyri,1-1,0-0,KR Reykjavík,2023-04-10T14:00Z
+,1,Mon Apr 10 2023,14:00,GMT/+0000,Fylkir Reykjavík,1-2,1-0,Keflavík ÍF,2023-04-10T14:00Z
+,1,Mon Apr 10 2023,19:15,GMT/+0000,Valur Reykjavík,2-1,0-1,ÍBV Vestmannaeyjar,2023-04-10T19:15Z
+,1,Mon Apr 10 2023,19:15,GMT/+0000,Fram Reykjavík,2-2,1-1,FH Hafnarfjörður,2023-04-10T19:15Z
+,1,Mon Apr 10 2023,19:15,GMT/+0000,UMF Stjarnan,0-2,0-1,Víkingur Reykjavík,2023-04-10T19:15Z
+,1,Mon Apr 10 2023,20:00,GMT/+0000,Breiðablik,3-4,0-2,HK Kópavogur,2023-04-10T20:00Z
+,2,Sat Apr 15 2023,16:00,GMT/+0000,KA Akureyri,3-0,1-0,ÍBV Vestmannaeyjar,2023-04-15T16:00Z
+,2,Sat Apr 15 2023,16:00,GMT/+0000,FH Hafnarfjörður,1-0,0-0,UMF Stjarnan,2023-04-15T16:00Z
+,2,Sat Apr 15 2023,14:00,GMT/+0000,Keflavík ÍF,0-2,0-0,KR Reykjavík,2023-04-15T14:00Z
+,2,Sun Apr 16 2023,17:00,GMT/+0000,Víkingur Reykjavík,2-0,2-0,Fylkir Reykjavík,2023-04-16T17:00Z
+,2,Sun Apr 16 2023,19:15,GMT/+0000,HK Kópavogur,1-1,0-0,Fram Reykjavík,2023-04-16T19:15Z
+,2,Sun Apr 16 2023,19:15,GMT/+0000,Valur Reykjavík,0-2,0-1,Breiðablik,2023-04-16T19:15Z
+,3,Sun Apr 23 2023,16:00,GMT/+0000,KA Akureyri,0-0,0-0,Keflavík ÍF,2023-04-23T16:00Z
+,3,Sun Apr 23 2023,19:15,GMT/+0000,Fram Reykjavík,1-3,1-1,Valur Reykjavík,2023-04-23T19:15Z
+,3,Sun Apr 23 2023,16:00,GMT/+0000,ÍBV Vestmannaeyjar,2-1,1-1,Breiðablik,2023-04-23T16:00Z
+,3,Mon Apr 24 2023,19:15,GMT/+0000,Fylkir Reykjavík,4-2,2-0,FH Hafnarfjörður,2023-04-24T19:15Z
+,3,Mon Apr 24 2023,19:15,GMT/+0000,UMF Stjarnan,5-4,2-3,HK Kópavogur,2023-04-24T19:15Z
+,3,Mon Apr 24 2023,19:15,GMT/+0000,Víkingur Reykjavík,3-0,1-0,KR Reykjavík,2023-04-24T19:15Z
+,4,Fri Apr 28 2023,20:00,GMT/+0000,Breiðablik,5-4,3-1,Fram Reykjavík,2023-04-28T20:00Z
+,4,Sat Apr 29 2023,14:00,GMT/+0000,FH Hafnarfjörður,3-0,1-0,KR Reykjavík,2023-04-29T14:00Z
+,4,Sat Apr 29 2023,14:00,GMT/+0000,HK Kópavogur,1-0,0-0,Fylkir Reykjavík,2023-04-29T14:00Z
+,4,Sat Apr 29 2023,17:00,GMT/+0000,Keflavík ÍF,1-3,0-0,ÍBV Vestmannaeyjar,2023-04-29T17:00Z
+,4,Sat Apr 29 2023,17:00,GMT/+0000,Víkingur Reykjavík,1-0,0-0,KA Akureyri,2023-04-29T17:00Z
+,4,Sat Apr 29 2023,19:15,GMT/+0000,Valur Reykjavík,3-2,2-0,UMF Stjarnan,2023-04-29T19:15Z
+,5,Wed May 3 2023,18:00,GMT/+0000,KA Akureyri,4-2,1-0,FH Hafnarfjörður,2023-05-03T18:00Z
+,5,Wed May 3 2023,19:15,GMT/+0000,KR Reykjavík,0-1,0-1,HK Kópavogur,2023-05-03T19:15Z
+,5,Wed May 3 2023,20:15,GMT/+0000,Fylkir Reykjavík,1-6,0-4,Valur Reykjavík,2023-05-03T20:15Z
+,5,Wed May 3 2023,18:00,GMT/+0000,Fram Reykjavík,3-1,1-1,ÍBV Vestmannaeyjar,2023-05-03T18:00Z
+,5,Thu May 4 2023,19:15,GMT/+0000,Víkingur Reykjavík,4-1,1-0,Keflavík ÍF,2023-05-04T19:15Z
+,5,Thu May 4 2023,19:15,GMT/+0000,UMF Stjarnan,0-2,0-2,Breiðablik,2023-05-04T19:15Z
+,6,Sun May 7 2023,19:15,GMT/+0000,Valur Reykjavík,5-0,2-0,KR Reykjavík,2023-05-07T19:15Z
+,6,Sun May 7 2023,17:00,GMT/+0000,HK Kópavogur,1-2,1-0,KA Akureyri,2023-05-07T17:00Z
+,6,Mon May 8 2023,18:00,GMT/+0000,ÍBV Vestmannaeyjar,0-1,0-0,Víkingur Reykjavík,2023-05-08T18:00Z
+,6,Mon May 8 2023,19:15,GMT/+0000,FH Hafnarfjörður,2-1,1-0,Keflavík ÍF,2023-05-08T19:15Z
+,6,Mon May 8 2023,19:15,GMT/+0000,Fram Reykjavík,2-1,1-0,UMF Stjarnan,2023-05-08T19:15Z
+,6,Mon May 8 2023,20:15,GMT/+0000,Fylkir Reykjavík,1-2,1-1,Breiðablik,2023-05-08T20:15Z
+,7,Sat May 13 2023,16:00,GMT/+0000,KA Akureyri,0-4,0-3,Valur Reykjavík,2023-05-13T16:00Z
+,7,Sat May 13 2023,16:00,GMT/+0000,KR Reykjavík,0-1,0-0,Breiðablik,2023-05-13T16:00Z
+,7,Sat May 13 2023,14:00,GMT/+0000,UMF Stjarnan,4-0,1-0,ÍBV Vestmannaeyjar,2023-05-13T14:00Z
+,7,Sun May 14 2023,19:15,GMT/+0000,Víkingur Reykjavík,2-0,2-0,FH Hafnarfjörður,2023-05-14T19:15Z
+,7,Sun May 14 2023,19:15,GMT/+0000,Fylkir Reykjavík,3-1,1-1,Fram Reykjavík,2023-05-14T19:15Z
+,7,Sun May 14 2023,17:00,GMT/+0000,Keflavík ÍF,0-2,0-1,HK Kópavogur,2023-05-14T17:00Z
+,8,Sun May 21 2023,17:00,GMT/+0000,Breiðablik,2-0,0-0,KA Akureyri,2023-05-21T17:00Z
+,8,Sun May 21 2023,19:15,GMT/+0000,HK Kópavogur,1-2,0-1,Víkingur Reykjavík,2023-05-21T19:15Z
+,8,Sun May 21 2023,19:15,GMT/+0000,Valur Reykjavík,0-0,0-0,Keflavík ÍF,2023-05-21T19:15Z
+,8,Mon May 22 2023,19:15,GMT/+0000,Fram Reykjavík,1-2,0-2,KR Reykjavík,2023-05-22T19:15Z
+,8,Mon May 22 2023,19:15,GMT/+0000,UMF Stjarnan,2-2,0-0,Fylkir Reykjavík,2023-05-22T19:15Z
+,8,Mon May 22 2023,18:00,GMT/+0000,ÍBV Vestmannaeyjar,2-3,1-1,FH Hafnarfjörður,2023-05-22T18:00Z
+,13,Thu May 25 2023,19:15,GMT/+0000,Breiðablik,1-0,0-0,Valur Reykjavík,2023-05-25T19:15Z
+,15,Thu May 25 2023,18:00,GMT/+0000,KA Akureyri,0-4,0-2,Víkingur Reykjavík,2023-05-25T18:00Z
+,9,Sun May 28 2023,19:15,GMT/+0000,FH Hafnarfjörður,4-3,2-2,HK Kópavogur,2023-05-28T19:15Z
+,9,Sun May 28 2023,19:15,GMT/+0000,KR Reykjavík,1-0,0-0,UMF Stjarnan,2023-05-28T19:15Z
+,9,Sun May 28 2023,17:00,GMT/+0000,Fylkir Reykjavík,2-1,1-1,ÍBV Vestmannaeyjar,2023-05-28T17:00Z
+,9,Mon May 29 2023,19:15,GMT/+0000,Víkingur Reykjavík,2-3,0-0,Valur Reykjavík,2023-05-29T19:15Z
+,9,Mon May 29 2023,19:15,GMT/+0000,Keflavík ÍF,0-0,0-0,Breiðablik,2023-05-29T19:15Z
+,9,Mon May 29 2023,16:00,GMT/+0000,KA Akureyri,4-2,1-1,Fram Reykjavík,2023-05-29T16:00Z
+,10,Thu Jun 1 2023,19:15,GMT/+0000,Fylkir Reykjavík,3-3,2-2,KR Reykjavík,2023-06-01T19:15Z
+,10,Thu Jun 1 2023,18:00,GMT/+0000,ÍBV Vestmannaeyjar,3-0,2-0,HK Kópavogur,2023-06-01T18:00Z
+,10,Fri Jun 2 2023,19:15,GMT/+0000,Valur Reykjavík,1-1,1-1,FH Hafnarfjörður,2023-06-02T19:15Z
+,10,Fri Jun 2 2023,19:15,GMT/+0000,Fram Reykjavík,4-1,1-0,Keflavík ÍF,2023-06-02T19:15Z
+,10,Fri Jun 2 2023,19:15,GMT/+0000,Breiðablik,2-2,0-2,Víkingur Reykjavík,2023-06-02T19:15Z
+,10,Fri Jun 2 2023,18:00,GMT/+0000,UMF Stjarnan,4-0,1-0,KA Akureyri,2023-06-02T18:00Z
+,11,Sat Jun 10 2023,14:00,GMT/+0000,KA Akureyri,2-1,1-0,Fylkir Reykjavík,2023-06-10T14:00Z
+,11,Sat Jun 10 2023,14:00,GMT/+0000,KR Reykjavík,1-1,0-0,ÍBV Vestmannaeyjar,2023-06-10T14:00Z
+,11,Sat Jun 10 2023,15:00,GMT/+0000,FH Hafnarfjörður,2-2,1-2,Breiðablik,2023-06-10T15:00Z
+,11,Sun Jun 11 2023,19:15,GMT/+0000,Víkingur Reykjavík,3-1,3-1,Fram Reykjavík,2023-06-11T19:15Z
+,11,Sun Jun 11 2023,17:00,GMT/+0000,HK Kópavogur,0-5,0-1,Valur Reykjavík,2023-06-11T17:00Z
+,11,Sun Jun 11 2023,19:15,GMT/+0000,Keflavík ÍF,1-1,0-0,UMF Stjarnan,2023-06-11T19:15Z
+,12,Fri Jun 23 2023,19:15,GMT/+0000,Keflavík ÍF,1-1,0-1,Fylkir Reykjavík,2023-06-23T19:15Z
+,12,Fri Jun 23 2023,19:15,GMT/+0000,HK Kópavogur,5-2,2-1,Breiðablik,2023-06-23T19:15Z
+,12,Fri Jun 23 2023,19:15,GMT/+0000,FH Hafnarfjörður,4-0,2-0,Fram Reykjavík,2023-06-23T19:15Z
+,12,Sat Jun 24 2023,17:00,GMT/+0000,KR Reykjavík,2-0,1-0,KA Akureyri,2023-06-24T17:00Z
+,12,Sat Jun 24 2023,14:00,GMT/+0000,ÍBV Vestmannaeyjar,0-3,0-1,Valur Reykjavík,2023-06-24T14:00Z
+,12,Sat Jun 24 2023,19:15,GMT/+0000,Víkingur Reykjavík,2-0,2-0,UMF Stjarnan,2023-06-24T19:15Z
+,13,Wed Jun 28 2023,19:15,GMT/+0000,Fram Reykjavík,3-2,1-0,HK Kópavogur,2023-06-28T19:15Z
+,13,Wed Jun 28 2023,19:15,GMT/+0000,KR Reykjavík,2-0,1-0,Keflavík ÍF,2023-06-28T19:15Z
+,13,Wed Jun 28 2023,17:00,GMT/+0000,ÍBV Vestmannaeyjar,2-0,0-0,KA Akureyri,2023-06-28T17:00Z
+,13,Thu Jun 29 2023,19:15,GMT/+0000,UMF Stjarnan,5-0,3-0,FH Hafnarfjörður,2023-06-29T19:15Z
+,13,Thu Jun 29 2023,19:15,GMT/+0000,Fylkir Reykjavík,1-3,1-1,Víkingur Reykjavík,2023-06-29T19:15Z
+,17,Fri Jul 7 2023,19:15,GMT/+0000,Breiðablik,5-1,1-0,Fylkir Reykjavík,2023-07-07T19:15Z
+,14,Sat Jul 8 2023,17:00,GMT/+0000,Keflavík ÍF,3-3,2-2,Víkingur Reykjavík,2023-07-08T17:00Z
+,14,Sat Jul 8 2023,16:00,GMT/+0000,ÍBV Vestmannaeyjar,1-0,1-0,Fram Reykjavík,2023-07-08T16:00Z
+,14,Wed Jul 12 2023,19:15,GMT/+0000,Valur Reykjavík,2-1,0-0,Fylkir Reykjavík,2023-07-12T19:15Z
+,14,Thu Jul 13 2023,19:15,GMT/+0000,HK Kópavogur,1-1,0-0,KR Reykjavík,2023-07-13T19:15Z
+,15,Fri Jul 14 2023,20:15,GMT/+0000,Fram Reykjavík,0-1,0-1,Breiðablik,2023-07-14T20:15Z
+,15,Sun Jul 16 2023,16:00,GMT/+0000,ÍBV Vestmannaeyjar,1-1,1-0,Keflavík ÍF,2023-07-16T16:00Z
+,15,Mon Jul 17 2023,19:15,GMT/+0000,UMF Stjarnan,2-0,1-0,Valur Reykjavík,2023-07-17T19:15Z
+,15,Tue Jul 18 2023,20:00,GMT/+0000,Fylkir Reykjavík,0-0,0-0,HK Kópavogur,2023-07-18T20:00Z
+,15,Tue Jul 18 2023,20:00,GMT/+0000,KR Reykjavík,1-0,0-0,FH Hafnarfjörður,2023-07-18T20:00Z
+,16,Fri Jul 21 2023,18:00,GMT/+0000,Breiðablik,3-1,3-0,ÍBV Vestmannaeyjar,2023-07-21T18:00Z
+,16,Sun Jul 23 2023,19:15,GMT/+0000,Valur Reykjavík,1-0,1-0,Fram Reykjavík,2023-07-23T19:15Z
+,16,Sun Jul 23 2023,19:15,GMT/+0000,KR Reykjavík,1-2,0-1,Víkingur Reykjavík,2023-07-23T19:15Z
+,16,Sun Jul 23 2023,19:15,GMT/+0000,HK Kópavogur,1-1,1-0,UMF Stjarnan,2023-07-23T19:15Z
+,16,Mon Jul 24 2023,18:00,GMT/+0000,Keflavík ÍF,3-4,1-2,KA Akureyri,2023-07-24T18:00Z
+,16,Mon Jul 24 2023,19:15,GMT/+0000,FH Hafnarfjörður,2-4,1-2,Fylkir Reykjavík,2023-07-24T19:15Z
+,17,Wed Jul 26 2023,19:15,GMT/+0000,UMF Stjarnan,4-0,1-0,Fram Reykjavík,2023-07-26T19:15Z
+,14,Sat Jul 29 2023,18:15,GMT/+0000,Breiðablik,1-1,0-0,UMF Stjarnan,2023-07-29T18:15Z
+,17,Sun Jul 30 2023,16:00,GMT/+0000,KA Akureyri,1-1,1-0,HK Kópavogur,2023-07-30T16:00Z
+,17,Sun Jul 30 2023,17:00,GMT/+0000,Víkingur Reykjavík,6-0,3-0,ÍBV Vestmannaeyjar,2023-07-30T17:00Z
+,17,Mon Jul 31 2023,19:15,GMT/+0000,Keflavík ÍF,2-3,0-2,FH Hafnarfjörður,2023-07-31T19:15Z
+,17,Mon Jul 31 2023,19:15,GMT/+0000,KR Reykjavík,0-4,0-2,Valur Reykjavík,2023-07-31T19:15Z
+,18,Sat Aug 5 2023,14:00,GMT/+0000,ÍBV Vestmannaeyjar,0-2,0-0,UMF Stjarnan,2023-08-05T14:00Z
+,18,Sun Aug 6 2023,14:00,GMT/+0000,Breiðablik,3-4,1-2,KR Reykjavík,2023-08-06T14:00Z
+,18,Mon Aug 7 2023,16:00,GMT/+0000,Valur Reykjavík,4-2,3-0,KA Akureyri,2023-08-07T16:00Z
+,18,Tue Aug 8 2023,19:15,GMT/+0000,FH Hafnarfjörður,1-3,1-2,Víkingur Reykjavík,2023-08-08T19:15Z
+,18,Tue Aug 8 2023,19:15,GMT/+0000,Fram Reykjavík,1-1,1-0,Fylkir Reykjavík,2023-08-08T19:15Z
+,18,Wed Aug 9 2023,19:15,GMT/+0000,HK Kópavogur,3-1,0-1,Keflavík ÍF,2023-08-09T19:15Z
+,19,Sun Aug 13 2023,16:00,GMT/+0000,KA Akureyri,1-1,1-1,Breiðablik,2023-08-13T16:00Z
+,19,Sun Aug 13 2023,17:00,GMT/+0000,FH Hafnarfjörður,2-1,0-1,ÍBV Vestmannaeyjar,2023-08-13T17:00Z
+,19,Sun Aug 13 2023,17:00,GMT/+0000,Keflavík ÍF,1-1,0-0,Valur Reykjavík,2023-08-13T17:00Z
+,19,Sun Aug 13 2023,18:15,GMT/+0000,KR Reykjavík,3-2,2-0,Fram Reykjavík,2023-08-13T18:15Z
+,19,Sun Aug 13 2023,19:15,GMT/+0000,Víkingur Reykjavík,6-1,4-0,HK Kópavogur,2023-08-13T19:15Z
+,19,Mon Aug 14 2023,19:15,GMT/+0000,Fylkir Reykjavík,0-4,0-2,UMF Stjarnan,2023-08-14T19:15Z
+,20,Sun Aug 20 2023,16:15,GMT/+0000,ÍBV Vestmannaeyjar,0-1,0-0,Fylkir Reykjavík,2023-08-20T16:15Z
+,20,Sun Aug 20 2023,19:15,GMT/+0000,Valur Reykjavík,0-4,0-2,Víkingur Reykjavík,2023-08-20T19:15Z
+,20,Sun Aug 20 2023,17:00,GMT/+0000,Fram Reykjavík,2-1,1-0,KA Akureyri,2023-08-20T17:00Z
+,20,Sun Aug 20 2023,18:00,GMT/+0000,Breiðablik,2-1,1-1,Keflavík ÍF,2023-08-20T18:00Z
+,20,Sun Aug 20 2023,19:15,GMT/+0000,HK Kópavogur,2-2,0-1,FH Hafnarfjörður,2023-08-20T19:15Z
+,20,Mon Aug 21 2023,19:15,GMT/+0000,UMF Stjarnan,3-1,2-1,KR Reykjavík,2023-08-21T19:15Z
+,21,Sat Aug 26 2023,17:00,GMT/+0000,FH Hafnarfjörður,3-2,1-2,Valur Reykjavík,2023-08-26T17:00Z
+,21,Sat Aug 26 2023,16:00,GMT/+0000,KA Akureyri,2-1,1-1,UMF Stjarnan,2023-08-26T16:00Z
+,21,Sun Aug 27 2023,17:00,GMT/+0000,KR Reykjavík,2-0,1-0,Fylkir Reykjavík,2023-08-27T17:00Z
+,21,Sun Aug 27 2023,17:00,GMT/+0000,Keflavík ÍF,0-0,0-0,Fram Reykjavík,2023-08-27T17:00Z
+,21,Sun Aug 27 2023,19:15,GMT/+0000,Víkingur Reykjavík,5-3,2-1,Breiðablik,2023-08-27T19:15Z
+,21,Mon Aug 28 2023,18:00,GMT/+0000,HK Kópavogur,2-2,1-0,ÍBV Vestmannaeyjar,2023-08-28T18:00Z
+,14,Wed Aug 30 2023,17:30,GMT/+0000,FH Hafnarfjörður,0-3,0-2,KA Akureyri,2023-08-30T17:30Z
+,22,Sun Sep 3 2023,14:00,GMT/+0000,Breiðablik,0-2,0-0,FH Hafnarfjörður,2023-09-03T14:00Z
+,22,Sun Sep 3 2023,14:00,GMT/+0000,Fram Reykjavík,2-3,1-2,Víkingur Reykjavík,2023-09-03T14:00Z
+,22,Sun Sep 3 2023,14:00,GMT/+0000,Fylkir Reykjavík,1-1,0-1,KA Akureyri,2023-09-03T14:00Z
+,22,Sun Sep 3 2023,14:00,GMT/+0000,ÍBV Vestmannaeyjar,2-2,1-0,KR Reykjavík,2023-09-03T14:00Z
+,22,Sun Sep 3 2023,14:00,GMT/+0000,UMF Stjarnan,3-0,2-0,Keflavík ÍF,2023-09-03T14:00Z
+,22,Sun Sep 3 2023,14:00,GMT/+0000,Valur Reykjavík,4-1,2-0,HK Kópavogur,2023-09-03T14:00Z
+Championship,1,Sun Sep 17 2023,19:15,GMT/+0000,Valur Reykjavík,2-0,1-0,UMF Stjarnan,2023-09-17T19:15Z
+Playoffs - Relegation,1,Sun Sep 17 2023,17:00,GMT/+0000,Fylkir Reykjavík,2-2,1-0,ÍBV Vestmannaeyjar,2023-09-17T17:00Z
+Championship,1,Sun Sep 17 2023,18:00,GMT/+0000,Breiðablik,0-2,0-1,FH Hafnarfjörður,2023-09-17T18:00Z
+Playoffs - Relegation,1,Mon Sep 18 2023,19:15,GMT/+0000,HK Kópavogur,1-1,0-0,Fram Reykjavík,2023-09-18T19:15Z
+Playoffs - Relegation,1,Wed Sep 20 2023,16:15,GMT/+0000,KA Akureyri,4-2,3-1,Keflavík ÍF,2023-09-20T16:15Z
+Championship,1,Wed Sep 20 2023,19:15,GMT/+0000,Víkingur Reykjavík,2-2,2-0,KR Reykjavík,2023-09-20T19:15Z
+Playoffs - Relegation,2,Sat Sep 23 2023,14:00,GMT/+0000,ÍBV Vestmannaeyjar,2-2,0-0,Fram Reykjavík,2023-09-23T14:00Z
+Championship,2,Sun Sep 24 2023,14:00,GMT/+0000,FH Hafnarfjörður,1-3,0-2,UMF Stjarnan,2023-09-24T14:00Z
+Championship,2,Sun Sep 24 2023,14:00,GMT/+0000,KR Reykjavík,2-2,0-1,Valur Reykjavík,2023-09-24T14:00Z
+Playoffs - Relegation,2,Sun Sep 24 2023,17:00,GMT/+0000,Fylkir Reykjavík,2-4,1-2,KA Akureyri,2023-09-24T17:00Z
+Playoffs - Relegation,2,Sun Sep 24 2023,14:00,GMT/+0000,Keflavík ÍF,2-1,2-1,HK Kópavogur,2023-09-24T14:00Z
+Championship,2,Mon Sep 25 2023,19:15,GMT/+0000,Breiðablik,3-1,2-0,Víkingur Reykjavík,2023-09-25T19:15Z
+Playoffs - Relegation,3,Thu Sep 28 2023,19:15,GMT/+0000,HK Kópavogur,2-2,1-1,Fylkir Reykjavík,2023-09-28T19:15Z
+Playoffs - Relegation,3,Thu Sep 28 2023,19:15,GMT/+0000,Fram Reykjavík,3-1,1-0,Keflavík ÍF,2023-09-28T19:15Z
+Championship,3,Thu Sep 28 2023,19:15,GMT/+0000,UMF Stjarnan,2-0,2-0,KR Reykjavík,2023-09-28T19:15Z
+Championship,3,Thu Sep 28 2023,19:15,GMT/+0000,Víkingur Reykjavík,2-1,0-1,FH Hafnarfjörður,2023-09-28T19:15Z
+Championship,3,Thu Sep 28 2023,19:15,GMT/+0000,Valur Reykjavík,4-2,2-1,Breiðablik,2023-09-28T19:15Z
+Playoffs - Relegation,3,Thu Sep 28 2023,16:15,GMT/+0000,KA Akureyri,2-1,1-1,ÍBV Vestmannaeyjar,2023-09-28T16:15Z
+Championship,4,Sun Oct 1 2023,19:15,GMT/+0000,Valur Reykjavík,4-1,1-1,FH Hafnarfjörður,2023-10-01T19:15Z
+Championship,4,Sun Oct 1 2023,14:00,GMT/+0000,KR Reykjavík,4-3,1-3,Breiðablik,2023-10-01T14:00Z
+Playoffs - Relegation,4,Sun Oct 1 2023,17:00,GMT/+0000,HK Kópavogur,0-1,0-1,ÍBV Vestmannaeyjar,2023-10-01T17:00Z
+Playoffs - Relegation,4,Sun Oct 1 2023,14:00,GMT/+0000,Keflavík ÍF,1-3,1-0,Fylkir Reykjavík,2023-10-01T14:00Z
+Playoffs - Relegation,4,Sun Oct 1 2023,17:00,GMT/+0000,Fram Reykjavík,1-0,0-0,KA Akureyri,2023-10-01T17:00Z
+Championship,4,Mon Oct 2 2023,19:15,GMT/+0000,UMF Stjarnan,3-1,2-0,Víkingur Reykjavík,2023-10-02T19:15Z
+Championship,5,Sat Oct 7 2023,14:00,GMT/+0000,Víkingur Reykjavík,5-1,1-1,Valur Reykjavík,2023-10-07T14:00Z
+Championship,5,Sat Oct 7 2023,14:00,GMT/+0000,FH Hafnarfjörður,3-1,1-0,KR Reykjavík,2023-10-07T14:00Z
+Playoffs - Relegation,5,Sat Oct 7 2023,14:00,GMT/+0000,KA Akureyri,1-0,1-0,HK Kópavogur,2023-10-07T14:00Z
+Playoffs - Relegation,5,Sat Oct 7 2023,14:00,GMT/+0000,ÍBV Vestmannaeyjar,1-1,0-0,Keflavík ÍF,2023-10-07T14:00Z
+Playoffs - Relegation,5,Sat Oct 7 2023,14:00,GMT/+0000,Fylkir Reykjavík,5-1,3-1,Fram Reykjavík,2023-10-07T14:00Z
+Championship,5,Sun Oct 8 2023,14:00,GMT/+0000,Breiðablik,0-2,0-1,UMF Stjarnan,2023-10-08T14:00Z

@@ -1,181 +1,181 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Jul 22 2016,18:30,FC Liefering,1-0,1-0,SV Horn
-1,Fri Jul 22 2016,18:30,FC Blau Weiß Linz,0-3,0-1,WSG Wattens
-1,Fri Jul 22 2016,18:30,FC Wacker Innsbruck,2-1,0-1,Floridsdorfer AC
-1,Fri Jul 22 2016,18:30,Kapfenberger SV,3-1,2-1,SC Wiener Neustadt
-1,Fri Jul 22 2016,20:30,Austria Lustenau,1-1,0-0,LASK Linz
-2,Fri Jul 29 2016,18:30,SC Wiener Neustadt,1-4,1-1,FC Liefering
-2,Fri Jul 29 2016,18:30,WSG Wattens,0-0,0-0,Floridsdorfer AC
-2,Fri Jul 29 2016,20:30,LASK Linz,2-1,1-0,FC Blau Weiß Linz
-2,Fri Jul 29 2016,18:30,Kapfenberger SV,1-1,1-1,FC Wacker Innsbruck
-2,Fri Jul 29 2016,18:30,Austria Lustenau,2-1,0-1,SV Horn
-3,Fri Aug 5 2016,18:30,FC Liefering,4-2,1-1,LASK Linz
-3,Fri Aug 5 2016,18:30,FC Blau Weiß Linz,0-1,0-0,SC Wiener Neustadt
-3,Fri Aug 5 2016,20:30,FC Wacker Innsbruck,1-2,1-1,WSG Wattens
-3,Fri Aug 5 2016,18:30,Floridsdorfer AC,1-3,1-0,Austria Lustenau
-3,Fri Aug 5 2016,18:30,SV Horn,1-2,0-0,Kapfenberger SV
-4,Fri Aug 12 2016,18:30,FC Liefering,2-1,1-1,Floridsdorfer AC
-4,Fri Aug 12 2016,18:30,WSG Wattens,0-1,0-0,SC Wiener Neustadt
-4,Fri Aug 12 2016,18:30,Austria Lustenau,1-3,0-0,Kapfenberger SV
-4,Fri Aug 12 2016,18:30,SV Horn,2-1,0-1,FC Blau Weiß Linz
-4,Fri Aug 12 2016,20:30,LASK Linz,1-0,0-0,FC Wacker Innsbruck
-5,Mon Aug 15 2016,18:30,FC Blau Weiß Linz,1-1,1-1,Austria Lustenau
-5,Tue Aug 16 2016,18:30,FC Wacker Innsbruck,1-1,1-0,FC Liefering
-5,Tue Aug 16 2016,18:30,SC Wiener Neustadt,1-2,0-0,LASK Linz
-5,Tue Aug 16 2016,18:30,Kapfenberger SV,3-0,0-0,WSG Wattens
-5,Tue Aug 16 2016,18:30,Floridsdorfer AC,2-1,2-0,SV Horn
-6,Fri Aug 19 2016,18:30,FC Liefering,2-0,0-0,Kapfenberger SV
-6,Fri Aug 19 2016,18:30,LASK Linz,4-0,3-0,WSG Wattens
-6,Fri Aug 19 2016,18:30,FC Wacker Innsbruck,0-1,0-0,Austria Lustenau
-6,Fri Aug 19 2016,18:30,Floridsdorfer AC,2-1,1-1,FC Blau Weiß Linz
-6,Fri Aug 19 2016,20:30,SV Horn,0-1,0-0,SC Wiener Neustadt
-7,Fri Aug 26 2016,18:30,SC Wiener Neustadt,0-3,0-1,Floridsdorfer AC
-7,Fri Aug 26 2016,18:30,FC Blau Weiß Linz,2-2,1-0,FC Wacker Innsbruck
-7,Fri Aug 26 2016,20:30,Kapfenberger SV,1-2,0-1,LASK Linz
-7,Fri Aug 26 2016,18:30,Austria Lustenau,1-1,0-1,FC Liefering
-7,Fri Aug 26 2016,18:30,WSG Wattens,2-2,0-0,SV Horn
-8,Fri Sep 9 2016,18:30,SC Wiener Neustadt,1-4,1-1,Austria Lustenau
-8,Fri Sep 9 2016,18:30,FC Blau Weiß Linz,0-1,0-0,Kapfenberger SV
-8,Fri Sep 9 2016,20:30,Floridsdorfer AC,2-3,0-2,LASK Linz
-8,Fri Sep 9 2016,18:30,SV Horn,2-1,2-1,FC Wacker Innsbruck
-8,Fri Sep 9 2016,18:30,WSG Wattens,1-1,1-0,FC Liefering
-9,Mon Sep 12 2016,18:30,Austria Lustenau,4-0,2-0,WSG Wattens
-9,Tue Sep 13 2016,18:30,FC Liefering,2-0,0-0,FC Blau Weiß Linz
-9,Tue Sep 13 2016,18:30,LASK Linz,1-1,0-1,SV Horn
-9,Tue Sep 13 2016,18:30,FC Wacker Innsbruck,3-2,2-1,SC Wiener Neustadt
-9,Tue Sep 13 2016,18:30,Kapfenberger SV,2-0,0-0,Floridsdorfer AC
-10,Fri Sep 16 2016,18:30,SC Wiener Neustadt,2-0,0-0,Kapfenberger SV
-10,Fri Sep 16 2016,18:30,LASK Linz,3-1,1-1,Austria Lustenau
-10,Fri Sep 16 2016,20:30,SV Horn,2-3,0-1,FC Liefering
-10,Fri Sep 16 2016,18:30,Floridsdorfer AC,3-1,2-0,FC Wacker Innsbruck
-10,Fri Sep 16 2016,18:30,WSG Wattens,0-0,0-0,FC Blau Weiß Linz
-11,Fri Sep 23 2016,18:30,FC Liefering,3-1,0-0,SC Wiener Neustadt
-11,Fri Sep 23 2016,18:30,FC Wacker Innsbruck,1-0,1-0,Kapfenberger SV
-11,Fri Sep 23 2016,18:30,SV Horn,1-3,0-2,Austria Lustenau
-11,Fri Sep 23 2016,18:30,Floridsdorfer AC,1-1,1-1,WSG Wattens
-11,Fri Sep 23 2016,20:30,FC Blau Weiß Linz,2-0,1-0,LASK Linz
-12,Fri Sep 30 2016,18:30,SC Wiener Neustadt,3-2,1-1,FC Blau Weiß Linz
-12,Fri Sep 30 2016,18:30,LASK Linz,3-3,1-2,FC Liefering
-12,Fri Sep 30 2016,20:30,WSG Wattens,2-1,2-1,FC Wacker Innsbruck
-12,Fri Sep 30 2016,18:30,Kapfenberger SV,1-0,1-0,SV Horn
-12,Fri Sep 30 2016,18:30,Austria Lustenau,1-1,0-1,Floridsdorfer AC
-13,Fri Oct 14 2016,18:30,SC Wiener Neustadt,2-1,0-0,WSG Wattens
-13,Fri Oct 14 2016,18:30,FC Blau Weiß Linz,1-0,0-0,SV Horn
-13,Fri Oct 14 2016,20:30,Kapfenberger SV,0-1,0-1,Austria Lustenau
-13,Fri Oct 14 2016,18:30,Floridsdorfer AC,1-5,0-2,FC Liefering
-13,Fri Oct 14 2016,18:30,FC Wacker Innsbruck,2-1,0-0,LASK Linz
-14,Mon Oct 17 2016,18:30,FC Liefering,1-2,1-1,FC Wacker Innsbruck
-14,Tue Oct 18 2016,18:30,LASK Linz,2-2,1-2,SC Wiener Neustadt
-14,Tue Oct 18 2016,18:30,WSG Wattens,3-3,1-0,Kapfenberger SV
-14,Tue Oct 18 2016,18:30,Austria Lustenau,0-0,0-0,FC Blau Weiß Linz
-14,Tue Oct 18 2016,18:30,SV Horn,2-1,2-0,Floridsdorfer AC
-15,Fri Oct 21 2016,18:30,FC Blau Weiß Linz,0-0,0-0,Floridsdorfer AC
-15,Fri Oct 21 2016,18:30,WSG Wattens,3-2,1-0,LASK Linz
-15,Fri Oct 21 2016,20:30,SC Wiener Neustadt,2-1,0-0,SV Horn
-15,Fri Oct 21 2016,18:30,Kapfenberger SV,1-0,0-0,FC Liefering
-15,Fri Oct 21 2016,18:30,Austria Lustenau,2-2,1-1,FC Wacker Innsbruck
-16,Mon Oct 31 2016,18:30,LASK Linz,3-1,1-0,Kapfenberger SV
-16,Tue Nov 1 2016,18:30,FC Liefering,3-5,0-2,Austria Lustenau
-16,Tue Nov 1 2016,18:30,FC Wacker Innsbruck,1-1,1-1,FC Blau Weiß Linz
-16,Tue Nov 1 2016,18:30,SV Horn,2-0,1-0,WSG Wattens
-16,Tue Nov 1 2016,18:30,Floridsdorfer AC,1-1,0-0,SC Wiener Neustadt
-17,Fri Nov 4 2016,18:30,FC Liefering,0-0,0-0,WSG Wattens
-17,Fri Nov 4 2016,18:30,LASK Linz,1-0,1-0,Floridsdorfer AC
-17,Fri Nov 4 2016,18:30,FC Wacker Innsbruck,0-0,0-0,SV Horn
-17,Fri Nov 4 2016,18:30,Austria Lustenau,1-0,0-0,SC Wiener Neustadt
-17,Fri Nov 4 2016,20:30,Kapfenberger SV,2-2,2-1,FC Blau Weiß Linz
-18,Fri Nov 18 2016,18:30,FC Blau Weiß Linz,1-1,0-1,FC Liefering
-18,Fri Nov 18 2016,18:30,WSG Wattens,2-4,2-1,Austria Lustenau
-18,Fri Nov 18 2016,18:30,SV Horn,1-4,0-2,LASK Linz
-18,Fri Nov 18 2016,18:30,Floridsdorfer AC,0-1,0-0,Kapfenberger SV
-18,Fri Nov 18 2016,20:30,SC Wiener Neustadt,2-2,0-0,FC Wacker Innsbruck
-19,Fri Nov 25 2016,20:30,Austria Lustenau,2-4,1-2,LASK Linz
-19,Fri Nov 25 2016,18:30,FC Blau Weiß Linz,0-0,0-0,WSG Wattens
-19,Fri Nov 25 2016,18:30,FC Wacker Innsbruck,2-1,0-1,Floridsdorfer AC
-19,Fri Nov 25 2016,18:30,Kapfenberger SV,0-3,0-1,SC Wiener Neustadt
-19,Fri Nov 25 2016,18:30,FC Liefering,1-1,0-1,SV Horn
-20,Fri Dec 2 2016,18:30,SC Wiener Neustadt,0-1,0-0,FC Liefering
-20,Fri Dec 2 2016,18:30,WSG Wattens,1-0,0-0,Floridsdorfer AC
-20,Fri Dec 2 2016,18:30,Austria Lustenau,2-3,1-1,SV Horn
-20,Fri Dec 2 2016,18:30,Kapfenberger SV,1-3,1-2,FC Wacker Innsbruck
-20,Fri Dec 2 2016,20:30,LASK Linz,4-0,1-0,FC Blau Weiß Linz
-21,Fri Feb 24 2017,18:30,FC Blau Weiß Linz,3-0,1-0,SC Wiener Neustadt
-21,Fri Feb 24 2017,18:30,FC Wacker Innsbruck,0-1,0-1,WSG Wattens
-21,Fri Feb 24 2017,20:30,FC Liefering,0-3,0-2,LASK Linz
-21,Fri Feb 24 2017,18:30,Floridsdorfer AC,1-0,0-0,Austria Lustenau
-21,Fri Feb 24 2017,18:30,SV Horn,2-1,1-0,Kapfenberger SV
-22,Fri Mar 3 2017,18:30,FC Liefering,1-0,0-0,Floridsdorfer AC
-22,Fri Mar 3 2017,18:30,WSG Wattens,3-0,2-0,SC Wiener Neustadt
-22,Fri Mar 3 2017,20:30,LASK Linz,3-1,0-1,FC Wacker Innsbruck
-22,Fri Mar 3 2017,18:30,SV Horn,0-2,0-0,FC Blau Weiß Linz
-22,Fri Mar 3 2017,18:30,Austria Lustenau,0-0,0-0,Kapfenberger SV
-23,Fri Mar 10 2017,18:30,SC Wiener Neustadt,0-2,0-0,LASK Linz
-23,Fri Mar 10 2017,18:30,FC Wacker Innsbruck,0-2,0-0,FC Liefering
-23,Fri Mar 10 2017,18:30,Kapfenberger SV,2-1,1-1,WSG Wattens
-23,Fri Mar 10 2017,18:30,Floridsdorfer AC,0-2,0-0,SV Horn
-23,Fri Mar 10 2017,20:30,FC Blau Weiß Linz,0-0,0-0,Austria Lustenau
-24,Mon Mar 13 2017,18:30,FC Wacker Innsbruck,1-0,1-0,Austria Lustenau
-24,Tue Mar 14 2017,18:30,Floridsdorfer AC,1-2,0-1,FC Blau Weiß Linz
-24,Tue Mar 14 2017,18:30,FC Liefering,1-1,1-1,Kapfenberger SV
-24,Tue Mar 14 2017,18:30,SV Horn,2-0,1-0,SC Wiener Neustadt
-24,Tue Mar 14 2017,18:30,LASK Linz,2-0,1-0,WSG Wattens
-25,Fri Mar 17 2017,18:30,SC Wiener Neustadt,0-3,0-2,Floridsdorfer AC
-25,Fri Mar 17 2017,18:30,FC Blau Weiß Linz,3-1,1-0,FC Wacker Innsbruck
-25,Fri Mar 17 2017,18:30,WSG Wattens,1-1,1-1,SV Horn
-25,Fri Mar 17 2017,18:30,Austria Lustenau,2-0,1-0,FC Liefering
-25,Fri Mar 17 2017,20:30,Kapfenberger SV,2-2,0-2,LASK Linz
-26,Fri Mar 31 2017,18:30,SC Wiener Neustadt,1-1,0-0,Austria Lustenau
-26,Fri Mar 31 2017,18:30,FC Blau Weiß Linz,1-2,0-0,Kapfenberger SV
-26,Fri Mar 31 2017,18:30,WSG Wattens,5-0,2-0,FC Liefering
-26,Fri Mar 31 2017,18:30,Floridsdorfer AC,1-3,0-1,LASK Linz
-26,Fri Mar 31 2017,20:30,SV Horn,1-2,0-1,FC Wacker Innsbruck
-27,Fri Apr 7 2017,18:30,FC Liefering,0-3,0-2,FC Blau Weiß Linz
-27,Fri Apr 7 2017,18:30,LASK Linz,2-1,2-0,SV Horn
-27,Fri Apr 7 2017,18:30,FC Wacker Innsbruck,2-2,2-0,SC Wiener Neustadt
-27,Fri Apr 7 2017,20:30,Austria Lustenau,2-2,1-1,WSG Wattens
-27,Sat Apr 8 2017,16:00,Kapfenberger SV,0-1,0-0,Floridsdorfer AC
-28,Fri Apr 14 2017,18:30,SC Wiener Neustadt,3-1,1-0,Kapfenberger SV
-28,Fri Apr 14 2017,18:30,WSG Wattens,3-3,2-2,FC Blau Weiß Linz
-28,Fri Apr 14 2017,20:30,LASK Linz,2-0,1-0,Austria Lustenau
-28,Fri Apr 14 2017,18:30,Floridsdorfer AC,1-2,0-0,FC Wacker Innsbruck
-28,Fri Apr 14 2017,18:30,SV Horn,0-1,0-0,FC Liefering
-29,Mon Apr 17 2017,18:30,FC Blau Weiß Linz,1-1,1-0,LASK Linz
-29,Tue Apr 18 2017,18:30,SV Horn,1-2,1-2,Austria Lustenau
-29,Tue Apr 18 2017,18:30,FC Wacker Innsbruck,3-3,1-2,Kapfenberger SV
-29,Tue Apr 18 2017,18:30,Floridsdorfer AC,0-2,0-0,WSG Wattens
-30,Fri Apr 21 2017,20:30,WSG Wattens,3-4,0-4,FC Wacker Innsbruck
-30,Fri Apr 21 2017,18:30,SC Wiener Neustadt,0-0,0-0,FC Blau Weiß Linz
-30,Fri Apr 21 2017,18:30,Kapfenberger SV,1-1,1-1,SV Horn
-30,Fri Apr 21 2017,18:30,Austria Lustenau,0-0,0-0,Floridsdorfer AC
-30,Fri Apr 21 2017,18:30,LASK Linz,3-0,1-0,FC Liefering
-29,Tue Apr 25 2017,18:30,FC Liefering,2-1,0-1,SC Wiener Neustadt
-31,Fri Apr 28 2017,20:30,SC Wiener Neustadt,2-0,0-0,WSG Wattens
-31,Fri Apr 28 2017,18:30,FC Blau Weiß Linz,1-4,1-0,SV Horn
-31,Fri Apr 28 2017,18:30,Floridsdorfer AC,0-3,0-2,FC Liefering
-31,Fri Apr 28 2017,18:30,Kapfenberger SV,2-3,0-1,Austria Lustenau
-32,Mon May 1 2017,18:30,SV Horn,0-2,0-2,Floridsdorfer AC
-32,Tue May 2 2017,18:30,FC Liefering,0-3,0-1,FC Wacker Innsbruck
-32,Tue May 2 2017,18:30,WSG Wattens,4-1,2-0,Kapfenberger SV
-32,Tue May 2 2017,18:30,LASK Linz,1-0,0-0,SC Wiener Neustadt
-32,Tue May 2 2017,18:30,Austria Lustenau,1-4,1-0,FC Blau Weiß Linz
-33,Fri May 5 2017,20:30,WSG Wattens,2-0,2-0,LASK Linz
-33,Fri May 5 2017,18:30,Kapfenberger SV,0-3,0-2,FC Liefering
-33,Fri May 5 2017,18:30,FC Blau Weiß Linz,0-0,0-0,Floridsdorfer AC
-33,Fri May 5 2017,18:30,Austria Lustenau,2-1,1-1,FC Wacker Innsbruck
-33,Fri May 5 2017,18:30,SC Wiener Neustadt,3-1,1-0,SV Horn
-31,Mon May 8 2017,18:30,FC Wacker Innsbruck,2-3,2-2,LASK Linz
-34,Fri May 12 2017,18:30,FC Liefering,4-1,3-0,Austria Lustenau
-34,Fri May 12 2017,18:30,LASK Linz,1-1,0-0,Kapfenberger SV
-34,Fri May 12 2017,18:30,FC Wacker Innsbruck,2-1,0-1,FC Blau Weiß Linz
-34,Fri May 12 2017,18:30,SV Horn,2-3,2-1,WSG Wattens
-34,Fri May 12 2017,20:30,Floridsdorfer AC,3-0,2-0,SC Wiener Neustadt
-35,Fri May 19 2017,19:30,FC Liefering,2-3,1-1,WSG Wattens
-35,Fri May 19 2017,19:30,LASK Linz,2-2,1-1,Floridsdorfer AC
-35,Fri May 19 2017,19:30,Kapfenberger SV,3-2,1-1,FC Blau Weiß Linz
-35,Fri May 19 2017,19:30,Austria Lustenau,2-0,1-0,SC Wiener Neustadt
-35,Fri May 19 2017,19:30,FC Wacker Innsbruck,3-0,1-0,SV Horn
-36,Fri May 26 2017,19:30,SC Wiener Neustadt,1-3,1-1,FC Wacker Innsbruck
-36,Fri May 26 2017,19:30,FC Blau Weiß Linz,0-0,0-0,FC Liefering
-36,Fri May 26 2017,19:30,WSG Wattens,2-2,2-2,Austria Lustenau
-36,Fri May 26 2017,19:30,SV Horn,1-2,0-0,LASK Linz
-36,Fri May 26 2017,19:30,Floridsdorfer AC,3-1,2-0,Kapfenberger SV
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 22 2016,18:30,CEST/+0200,FC Blau Weiß Linz,0-3,0-1,WSG Wattens,2016-07-22T16:30Z
+1,Fri Jul 22 2016,18:30,CEST/+0200,FC Wacker Innsbruck,2-1,0-1,Floridsdorfer AC,2016-07-22T16:30Z
+1,Fri Jul 22 2016,18:30,CEST/+0200,Kapfenberger SV 1919,3-1,2-1,1. Wiener Neustädter SC,2016-07-22T16:30Z
+1,Fri Jul 22 2016,20:30,CEST/+0200,Austria Lustenau,1-1,0-0,LASK Linz,2016-07-22T18:30Z
+1,Fri Jul 22 2016,18:30,CEST/+0200,FC Liefering,1-0,1-0,SV Horn,2016-07-22T16:30Z
+2,Fri Jul 29 2016,18:30,CEST/+0200,1. Wiener Neustädter SC,1-4,1-1,FC Liefering,2016-07-29T16:30Z
+2,Fri Jul 29 2016,18:30,CEST/+0200,WSG Wattens,0-0,0-0,Floridsdorfer AC,2016-07-29T16:30Z
+2,Fri Jul 29 2016,18:30,CEST/+0200,Austria Lustenau,2-1,0-1,SV Horn,2016-07-29T16:30Z
+2,Fri Jul 29 2016,18:30,CEST/+0200,Kapfenberger SV 1919,1-1,1-1,FC Wacker Innsbruck,2016-07-29T16:30Z
+2,Fri Jul 29 2016,20:30,CEST/+0200,LASK Linz,2-1,1-0,FC Blau Weiß Linz,2016-07-29T18:30Z
+3,Fri Aug 5 2016,18:30,CEST/+0200,FC Liefering,4-2,1-1,LASK Linz,2016-08-05T16:30Z
+3,Fri Aug 5 2016,18:30,CEST/+0200,FC Blau Weiß Linz,0-1,0-0,1. Wiener Neustädter SC,2016-08-05T16:30Z
+3,Fri Aug 5 2016,18:30,CEST/+0200,SV Horn,1-2,0-0,Kapfenberger SV 1919,2016-08-05T16:30Z
+3,Fri Aug 5 2016,18:30,CEST/+0200,Floridsdorfer AC,1-3,1-0,Austria Lustenau,2016-08-05T16:30Z
+3,Fri Aug 5 2016,20:30,CEST/+0200,FC Wacker Innsbruck,1-2,1-1,WSG Wattens,2016-08-05T18:30Z
+4,Fri Aug 12 2016,18:30,CEST/+0200,WSG Wattens,0-1,0-0,1. Wiener Neustädter SC,2016-08-12T16:30Z
+4,Fri Aug 12 2016,18:30,CEST/+0200,Austria Lustenau,1-3,0-0,Kapfenberger SV 1919,2016-08-12T16:30Z
+4,Fri Aug 12 2016,18:30,CEST/+0200,SV Horn,2-1,0-1,FC Blau Weiß Linz,2016-08-12T16:30Z
+4,Fri Aug 12 2016,20:30,CEST/+0200,LASK Linz,1-0,0-0,FC Wacker Innsbruck,2016-08-12T18:30Z
+4,Fri Aug 12 2016,18:30,CEST/+0200,FC Liefering,2-1,1-1,Floridsdorfer AC,2016-08-12T16:30Z
+5,Mon Aug 15 2016,18:30,CEST/+0200,FC Blau Weiß Linz,1-1,1-1,Austria Lustenau,2016-08-15T16:30Z
+5,Tue Aug 16 2016,18:30,CEST/+0200,1. Wiener Neustädter SC,1-2,0-0,LASK Linz,2016-08-16T16:30Z
+5,Tue Aug 16 2016,18:30,CEST/+0200,FC Wacker Innsbruck,1-1,1-0,FC Liefering,2016-08-16T16:30Z
+5,Tue Aug 16 2016,18:30,CEST/+0200,Kapfenberger SV 1919,3-0,0-0,WSG Wattens,2016-08-16T16:30Z
+5,Tue Aug 16 2016,18:30,CEST/+0200,Floridsdorfer AC,2-1,2-0,SV Horn,2016-08-16T16:30Z
+6,Fri Aug 19 2016,18:30,CEST/+0200,LASK Linz,4-0,3-0,WSG Wattens,2016-08-19T16:30Z
+6,Fri Aug 19 2016,18:30,CEST/+0200,FC Wacker Innsbruck,0-1,0-0,Austria Lustenau,2016-08-19T16:30Z
+6,Fri Aug 19 2016,18:30,CEST/+0200,Floridsdorfer AC,2-1,1-1,FC Blau Weiß Linz,2016-08-19T16:30Z
+6,Fri Aug 19 2016,20:30,CEST/+0200,SV Horn,0-1,0-0,1. Wiener Neustädter SC,2016-08-19T18:30Z
+6,Fri Aug 19 2016,18:30,CEST/+0200,FC Liefering,2-0,0-0,Kapfenberger SV 1919,2016-08-19T16:30Z
+7,Fri Aug 26 2016,18:30,CEST/+0200,1. Wiener Neustädter SC,0-3,0-1,Floridsdorfer AC,2016-08-26T16:30Z
+7,Fri Aug 26 2016,18:30,CEST/+0200,FC Blau Weiß Linz,2-2,1-0,FC Wacker Innsbruck,2016-08-26T16:30Z
+7,Fri Aug 26 2016,18:30,CEST/+0200,WSG Wattens,2-2,0-0,SV Horn,2016-08-26T16:30Z
+7,Fri Aug 26 2016,18:30,CEST/+0200,Austria Lustenau,1-1,0-1,FC Liefering,2016-08-26T16:30Z
+7,Fri Aug 26 2016,20:30,CEST/+0200,Kapfenberger SV 1919,1-2,0-1,LASK Linz,2016-08-26T18:30Z
+8,Fri Sep 9 2016,18:30,CEST/+0200,1. Wiener Neustädter SC,1-4,1-1,Austria Lustenau,2016-09-09T16:30Z
+8,Fri Sep 9 2016,18:30,CEST/+0200,FC Blau Weiß Linz,0-1,0-0,Kapfenberger SV 1919,2016-09-09T16:30Z
+8,Fri Sep 9 2016,18:30,CEST/+0200,WSG Wattens,1-1,1-0,FC Liefering,2016-09-09T16:30Z
+8,Fri Sep 9 2016,18:30,CEST/+0200,SV Horn,2-1,2-1,FC Wacker Innsbruck,2016-09-09T16:30Z
+8,Fri Sep 9 2016,20:30,CEST/+0200,Floridsdorfer AC,2-3,0-2,LASK Linz,2016-09-09T18:30Z
+9,Mon Sep 12 2016,18:30,CEST/+0200,Austria Lustenau,4-0,2-0,WSG Wattens,2016-09-12T16:30Z
+9,Tue Sep 13 2016,18:30,CEST/+0200,LASK Linz,1-1,0-1,SV Horn,2016-09-13T16:30Z
+9,Tue Sep 13 2016,18:30,CEST/+0200,FC Wacker Innsbruck,3-2,2-1,1. Wiener Neustädter SC,2016-09-13T16:30Z
+9,Tue Sep 13 2016,18:30,CEST/+0200,Kapfenberger SV 1919,2-0,0-0,Floridsdorfer AC,2016-09-13T16:30Z
+9,Tue Sep 13 2016,18:30,CEST/+0200,FC Liefering,2-0,0-0,FC Blau Weiß Linz,2016-09-13T16:30Z
+10,Fri Sep 16 2016,18:30,CEST/+0200,1. Wiener Neustädter SC,2-0,0-0,Kapfenberger SV 1919,2016-09-16T16:30Z
+10,Fri Sep 16 2016,18:30,CEST/+0200,LASK Linz,3-1,1-1,Austria Lustenau,2016-09-16T16:30Z
+10,Fri Sep 16 2016,18:30,CEST/+0200,WSG Wattens,0-0,0-0,FC Blau Weiß Linz,2016-09-16T16:30Z
+10,Fri Sep 16 2016,18:30,CEST/+0200,Floridsdorfer AC,3-1,2-0,FC Wacker Innsbruck,2016-09-16T16:30Z
+10,Fri Sep 16 2016,20:30,CEST/+0200,SV Horn,2-3,0-1,FC Liefering,2016-09-16T18:30Z
+11,Fri Sep 23 2016,18:30,CEST/+0200,FC Wacker Innsbruck,1-0,1-0,Kapfenberger SV 1919,2016-09-23T16:30Z
+11,Fri Sep 23 2016,18:30,CEST/+0200,SV Horn,1-3,0-2,Austria Lustenau,2016-09-23T16:30Z
+11,Fri Sep 23 2016,18:30,CEST/+0200,Floridsdorfer AC,1-1,1-1,WSG Wattens,2016-09-23T16:30Z
+11,Fri Sep 23 2016,20:30,CEST/+0200,FC Blau Weiß Linz,2-0,1-0,LASK Linz,2016-09-23T18:30Z
+11,Fri Sep 23 2016,18:30,CEST/+0200,FC Liefering,3-1,0-0,1. Wiener Neustädter SC,2016-09-23T16:30Z
+12,Fri Sep 30 2016,18:30,CEST/+0200,1. Wiener Neustädter SC,3-2,1-1,FC Blau Weiß Linz,2016-09-30T16:30Z
+12,Fri Sep 30 2016,18:30,CEST/+0200,LASK Linz,3-3,1-2,FC Liefering,2016-09-30T16:30Z
+12,Fri Sep 30 2016,18:30,CEST/+0200,Austria Lustenau,1-1,0-1,Floridsdorfer AC,2016-09-30T16:30Z
+12,Fri Sep 30 2016,18:30,CEST/+0200,Kapfenberger SV 1919,1-0,1-0,SV Horn,2016-09-30T16:30Z
+12,Fri Sep 30 2016,20:30,CEST/+0200,WSG Wattens,2-1,2-1,FC Wacker Innsbruck,2016-09-30T18:30Z
+13,Fri Oct 14 2016,18:30,CEST/+0200,1. Wiener Neustädter SC,2-1,0-0,WSG Wattens,2016-10-14T16:30Z
+13,Fri Oct 14 2016,18:30,CEST/+0200,FC Blau Weiß Linz,1-0,0-0,SV Horn,2016-10-14T16:30Z
+13,Fri Oct 14 2016,18:30,CEST/+0200,FC Wacker Innsbruck,2-1,0-0,LASK Linz,2016-10-14T16:30Z
+13,Fri Oct 14 2016,18:30,CEST/+0200,Floridsdorfer AC,1-5,0-2,FC Liefering,2016-10-14T16:30Z
+13,Fri Oct 14 2016,20:30,CEST/+0200,Kapfenberger SV 1919,0-1,0-1,Austria Lustenau,2016-10-14T18:30Z
+14,Mon Oct 17 2016,18:30,CEST/+0200,FC Liefering,1-2,1-1,FC Wacker Innsbruck,2016-10-17T16:30Z
+14,Tue Oct 18 2016,18:30,CEST/+0200,WSG Wattens,3-3,1-0,Kapfenberger SV 1919,2016-10-18T16:30Z
+14,Tue Oct 18 2016,18:30,CEST/+0200,Austria Lustenau,0-0,0-0,FC Blau Weiß Linz,2016-10-18T16:30Z
+14,Tue Oct 18 2016,18:30,CEST/+0200,SV Horn,2-1,2-0,Floridsdorfer AC,2016-10-18T16:30Z
+14,Tue Oct 18 2016,18:30,CEST/+0200,LASK Linz,2-2,1-2,1. Wiener Neustädter SC,2016-10-18T16:30Z
+15,Fri Oct 21 2016,18:30,CEST/+0200,FC Blau Weiß Linz,0-0,0-0,Floridsdorfer AC,2016-10-21T16:30Z
+15,Fri Oct 21 2016,18:30,CEST/+0200,WSG Wattens,3-2,1-0,LASK Linz,2016-10-21T16:30Z
+15,Fri Oct 21 2016,18:30,CEST/+0200,Austria Lustenau,2-2,1-1,FC Wacker Innsbruck,2016-10-21T16:30Z
+15,Fri Oct 21 2016,18:30,CEST/+0200,Kapfenberger SV 1919,1-0,0-0,FC Liefering,2016-10-21T16:30Z
+15,Fri Oct 21 2016,20:30,CEST/+0200,1. Wiener Neustädter SC,2-1,0-0,SV Horn,2016-10-21T18:30Z
+16,Mon Oct 31 2016,18:30,CET/+0100,LASK Linz,3-1,1-0,Kapfenberger SV 1919,2016-10-31T17:30Z
+16,Tue Nov 1 2016,18:30,CET/+0100,FC Wacker Innsbruck,1-1,1-1,FC Blau Weiß Linz,2016-11-01T17:30Z
+16,Tue Nov 1 2016,18:30,CET/+0100,SV Horn,2-0,1-0,WSG Wattens,2016-11-01T17:30Z
+16,Tue Nov 1 2016,18:30,CET/+0100,Floridsdorfer AC,1-1,0-0,1. Wiener Neustädter SC,2016-11-01T17:30Z
+16,Tue Nov 1 2016,18:30,CET/+0100,FC Liefering,3-5,0-2,Austria Lustenau,2016-11-01T17:30Z
+17,Fri Nov 4 2016,18:30,CET/+0100,FC Liefering,0-0,0-0,WSG Wattens,2016-11-04T17:30Z
+17,Fri Nov 4 2016,18:30,CET/+0100,LASK Linz,1-0,1-0,Floridsdorfer AC,2016-11-04T17:30Z
+17,Fri Nov 4 2016,18:30,CET/+0100,FC Wacker Innsbruck,0-0,0-0,SV Horn,2016-11-04T17:30Z
+17,Fri Nov 4 2016,18:30,CET/+0100,Austria Lustenau,1-0,0-0,1. Wiener Neustädter SC,2016-11-04T17:30Z
+17,Fri Nov 4 2016,20:30,CET/+0100,Kapfenberger SV 1919,2-2,2-1,FC Blau Weiß Linz,2016-11-04T19:30Z
+18,Fri Nov 18 2016,18:30,CET/+0100,WSG Wattens,2-4,2-1,Austria Lustenau,2016-11-18T17:30Z
+18,Fri Nov 18 2016,18:30,CET/+0100,SV Horn,1-4,0-2,LASK Linz,2016-11-18T17:30Z
+18,Fri Nov 18 2016,18:30,CET/+0100,Floridsdorfer AC,0-1,0-0,Kapfenberger SV 1919,2016-11-18T17:30Z
+18,Fri Nov 18 2016,20:30,CET/+0100,1. Wiener Neustädter SC,2-2,0-0,FC Wacker Innsbruck,2016-11-18T19:30Z
+18,Fri Nov 18 2016,18:30,CET/+0100,FC Blau Weiß Linz,1-1,0-1,FC Liefering,2016-11-18T17:30Z
+19,Fri Nov 25 2016,18:30,CET/+0100,FC Liefering,1-1,0-1,SV Horn,2016-11-25T17:30Z
+19,Fri Nov 25 2016,18:30,CET/+0100,FC Blau Weiß Linz,0-0,0-0,WSG Wattens,2016-11-25T17:30Z
+19,Fri Nov 25 2016,18:30,CET/+0100,FC Wacker Innsbruck,2-1,0-1,Floridsdorfer AC,2016-11-25T17:30Z
+19,Fri Nov 25 2016,18:30,CET/+0100,Kapfenberger SV 1919,0-3,0-1,1. Wiener Neustädter SC,2016-11-25T17:30Z
+19,Fri Nov 25 2016,20:30,CET/+0100,Austria Lustenau,2-4,1-2,LASK Linz,2016-11-25T19:30Z
+20,Fri Dec 2 2016,18:30,CET/+0100,WSG Wattens,1-0,0-0,Floridsdorfer AC,2016-12-02T17:30Z
+20,Fri Dec 2 2016,18:30,CET/+0100,Austria Lustenau,2-3,1-1,SV Horn,2016-12-02T17:30Z
+20,Fri Dec 2 2016,18:30,CET/+0100,Kapfenberger SV 1919,1-3,1-2,FC Wacker Innsbruck,2016-12-02T17:30Z
+20,Fri Dec 2 2016,20:30,CET/+0100,LASK Linz,4-0,1-0,FC Blau Weiß Linz,2016-12-02T19:30Z
+20,Fri Dec 2 2016,18:30,CET/+0100,1. Wiener Neustädter SC,0-1,0-0,FC Liefering,2016-12-02T17:30Z
+21,Fri Feb 24 2017,18:30,CET/+0100,FC Blau Weiß Linz,3-0,1-0,1. Wiener Neustädter SC,2017-02-24T17:30Z
+21,Fri Feb 24 2017,18:30,CET/+0100,FC Wacker Innsbruck,0-1,0-1,WSG Wattens,2017-02-24T17:30Z
+21,Fri Feb 24 2017,18:30,CET/+0100,SV Horn,2-1,1-0,Kapfenberger SV 1919,2017-02-24T17:30Z
+21,Fri Feb 24 2017,18:30,CET/+0100,Floridsdorfer AC,1-0,0-0,Austria Lustenau,2017-02-24T17:30Z
+21,Fri Feb 24 2017,20:30,CET/+0100,FC Liefering,0-3,0-2,LASK Linz,2017-02-24T19:30Z
+22,Fri Mar 3 2017,18:30,CET/+0100,FC Liefering,1-0,0-0,Floridsdorfer AC,2017-03-03T17:30Z
+22,Fri Mar 3 2017,18:30,CET/+0100,WSG Wattens,3-0,2-0,1. Wiener Neustädter SC,2017-03-03T17:30Z
+22,Fri Mar 3 2017,18:30,CET/+0100,Austria Lustenau,0-0,0-0,Kapfenberger SV 1919,2017-03-03T17:30Z
+22,Fri Mar 3 2017,18:30,CET/+0100,SV Horn,0-2,0-0,FC Blau Weiß Linz,2017-03-03T17:30Z
+22,Fri Mar 3 2017,20:30,CET/+0100,LASK Linz,3-1,0-1,FC Wacker Innsbruck,2017-03-03T19:30Z
+23,Fri Mar 10 2017,18:30,CET/+0100,FC Wacker Innsbruck,0-2,0-0,FC Liefering,2017-03-10T17:30Z
+23,Fri Mar 10 2017,18:30,CET/+0100,Kapfenberger SV 1919,2-1,1-1,WSG Wattens,2017-03-10T17:30Z
+23,Fri Mar 10 2017,18:30,CET/+0100,Floridsdorfer AC,0-2,0-0,SV Horn,2017-03-10T17:30Z
+23,Fri Mar 10 2017,20:30,CET/+0100,FC Blau Weiß Linz,0-0,0-0,Austria Lustenau,2017-03-10T19:30Z
+23,Fri Mar 10 2017,18:30,CET/+0100,1. Wiener Neustädter SC,0-2,0-0,LASK Linz,2017-03-10T17:30Z
+24,Mon Mar 13 2017,18:30,CET/+0100,FC Wacker Innsbruck,1-0,1-0,Austria Lustenau,2017-03-13T17:30Z
+24,Tue Mar 14 2017,18:30,CET/+0100,LASK Linz,2-0,1-0,WSG Wattens,2017-03-14T17:30Z
+24,Tue Mar 14 2017,18:30,CET/+0100,SV Horn,2-0,1-0,1. Wiener Neustädter SC,2017-03-14T17:30Z
+24,Tue Mar 14 2017,18:30,CET/+0100,Floridsdorfer AC,1-2,0-1,FC Blau Weiß Linz,2017-03-14T17:30Z
+24,Tue Mar 14 2017,18:30,CET/+0100,FC Liefering,1-1,1-1,Kapfenberger SV 1919,2017-03-14T17:30Z
+25,Fri Mar 17 2017,18:30,CET/+0100,1. Wiener Neustädter SC,0-3,0-2,Floridsdorfer AC,2017-03-17T17:30Z
+25,Fri Mar 17 2017,18:30,CET/+0100,FC Blau Weiß Linz,3-1,1-0,FC Wacker Innsbruck,2017-03-17T17:30Z
+25,Fri Mar 17 2017,18:30,CET/+0100,WSG Wattens,1-1,1-1,SV Horn,2017-03-17T17:30Z
+25,Fri Mar 17 2017,18:30,CET/+0100,Austria Lustenau,2-0,1-0,FC Liefering,2017-03-17T17:30Z
+25,Fri Mar 17 2017,20:30,CET/+0100,Kapfenberger SV 1919,2-2,0-2,LASK Linz,2017-03-17T19:30Z
+26,Fri Mar 31 2017,18:30,CEST/+0200,1. Wiener Neustädter SC,1-1,0-0,Austria Lustenau,2017-03-31T16:30Z
+26,Fri Mar 31 2017,18:30,CEST/+0200,FC Blau Weiß Linz,1-2,0-0,Kapfenberger SV 1919,2017-03-31T16:30Z
+26,Fri Mar 31 2017,18:30,CEST/+0200,WSG Wattens,5-0,2-0,FC Liefering,2017-03-31T16:30Z
+26,Fri Mar 31 2017,18:30,CEST/+0200,Floridsdorfer AC,1-3,0-1,LASK Linz,2017-03-31T16:30Z
+26,Fri Mar 31 2017,20:30,CEST/+0200,SV Horn,1-2,0-1,FC Wacker Innsbruck,2017-03-31T18:30Z
+27,Fri Apr 7 2017,18:30,CEST/+0200,LASK Linz,2-1,2-0,SV Horn,2017-04-07T16:30Z
+27,Fri Apr 7 2017,18:30,CEST/+0200,FC Wacker Innsbruck,2-2,2-0,1. Wiener Neustädter SC,2017-04-07T16:30Z
+27,Fri Apr 7 2017,20:30,CEST/+0200,Austria Lustenau,2-2,1-1,WSG Wattens,2017-04-07T18:30Z
+27,Fri Apr 7 2017,18:30,CEST/+0200,FC Liefering,0-3,0-2,FC Blau Weiß Linz,2017-04-07T16:30Z
+27,Sat Apr 8 2017,16:00,CEST/+0200,Kapfenberger SV 1919,0-1,0-0,Floridsdorfer AC,2017-04-08T14:00Z
+28,Fri Apr 14 2017,18:30,CEST/+0200,1. Wiener Neustädter SC,3-1,1-0,Kapfenberger SV 1919,2017-04-14T16:30Z
+28,Fri Apr 14 2017,18:30,CEST/+0200,WSG Wattens,3-3,2-2,FC Blau Weiß Linz,2017-04-14T16:30Z
+28,Fri Apr 14 2017,18:30,CEST/+0200,SV Horn,0-1,0-0,FC Liefering,2017-04-14T16:30Z
+28,Fri Apr 14 2017,18:30,CEST/+0200,Floridsdorfer AC,1-2,0-0,FC Wacker Innsbruck,2017-04-14T16:30Z
+28,Fri Apr 14 2017,20:30,CEST/+0200,LASK Linz,2-0,1-0,Austria Lustenau,2017-04-14T18:30Z
+29,Mon Apr 17 2017,18:30,CEST/+0200,FC Blau Weiß Linz,1-1,1-0,LASK Linz,2017-04-17T16:30Z
+29,Tue Apr 18 2017,18:30,CEST/+0200,SV Horn,1-2,1-2,Austria Lustenau,2017-04-18T16:30Z
+29,Tue Apr 18 2017,18:30,CEST/+0200,Floridsdorfer AC,0-2,0-0,WSG Wattens,2017-04-18T16:30Z
+29,Tue Apr 18 2017,18:30,CEST/+0200,FC Wacker Innsbruck,3-3,1-2,Kapfenberger SV 1919,2017-04-18T16:30Z
+30,Fri Apr 21 2017,18:30,CEST/+0200,Kapfenberger SV 1919,1-1,1-1,SV Horn,2017-04-21T16:30Z
+30,Fri Apr 21 2017,18:30,CEST/+0200,1. Wiener Neustädter SC,0-0,0-0,FC Blau Weiß Linz,2017-04-21T16:30Z
+30,Fri Apr 21 2017,18:30,CEST/+0200,LASK Linz,3-0,1-0,FC Liefering,2017-04-21T16:30Z
+30,Fri Apr 21 2017,18:30,CEST/+0200,Austria Lustenau,0-0,0-0,Floridsdorfer AC,2017-04-21T16:30Z
+30,Fri Apr 21 2017,20:30,CEST/+0200,WSG Wattens,3-4,0-4,FC Wacker Innsbruck,2017-04-21T18:30Z
+29,Tue Apr 25 2017,18:30,CEST/+0200,FC Liefering,2-1,0-1,1. Wiener Neustädter SC,2017-04-25T16:30Z
+31,Fri Apr 28 2017,18:30,CEST/+0200,FC Blau Weiß Linz,1-4,1-0,SV Horn,2017-04-28T16:30Z
+31,Fri Apr 28 2017,18:30,CEST/+0200,Kapfenberger SV 1919,2-3,0-1,Austria Lustenau,2017-04-28T16:30Z
+31,Fri Apr 28 2017,18:30,CEST/+0200,Floridsdorfer AC,0-3,0-2,FC Liefering,2017-04-28T16:30Z
+31,Fri Apr 28 2017,20:30,CEST/+0200,1. Wiener Neustädter SC,2-0,0-0,WSG Wattens,2017-04-28T18:30Z
+32,Mon May 1 2017,18:30,CEST/+0200,SV Horn,0-2,0-2,Floridsdorfer AC,2017-05-01T16:30Z
+32,Tue May 2 2017,18:30,CEST/+0200,FC Liefering,0-3,0-1,FC Wacker Innsbruck,2017-05-02T16:30Z
+32,Tue May 2 2017,18:30,CEST/+0200,LASK Linz,1-0,0-0,1. Wiener Neustädter SC,2017-05-02T16:30Z
+32,Tue May 2 2017,18:30,CEST/+0200,WSG Wattens,4-1,2-0,Kapfenberger SV 1919,2017-05-02T16:30Z
+32,Tue May 2 2017,18:30,CEST/+0200,Austria Lustenau,1-4,1-0,FC Blau Weiß Linz,2017-05-02T16:30Z
+33,Fri May 5 2017,20:30,CEST/+0200,WSG Wattens,2-0,2-0,LASK Linz,2017-05-05T18:30Z
+33,Fri May 5 2017,18:30,CEST/+0200,1. Wiener Neustädter SC,3-1,1-0,SV Horn,2017-05-05T16:30Z
+33,Fri May 5 2017,18:30,CEST/+0200,FC Blau Weiß Linz,0-0,0-0,Floridsdorfer AC,2017-05-05T16:30Z
+33,Fri May 5 2017,18:30,CEST/+0200,Austria Lustenau,2-1,1-1,FC Wacker Innsbruck,2017-05-05T16:30Z
+33,Fri May 5 2017,18:30,CEST/+0200,Kapfenberger SV 1919,0-3,0-2,FC Liefering,2017-05-05T16:30Z
+31,Mon May 8 2017,18:30,CEST/+0200,FC Wacker Innsbruck,2-3,2-2,LASK Linz,2017-05-08T16:30Z
+34,Fri May 12 2017,18:30,CEST/+0200,LASK Linz,1-1,0-0,Kapfenberger SV 1919,2017-05-12T16:30Z
+34,Fri May 12 2017,18:30,CEST/+0200,FC Wacker Innsbruck,2-1,0-1,FC Blau Weiß Linz,2017-05-12T16:30Z
+34,Fri May 12 2017,18:30,CEST/+0200,SV Horn,2-3,2-1,WSG Wattens,2017-05-12T16:30Z
+34,Fri May 12 2017,20:30,CEST/+0200,Floridsdorfer AC,3-0,2-0,1. Wiener Neustädter SC,2017-05-12T18:30Z
+34,Fri May 12 2017,18:30,CEST/+0200,FC Liefering,4-1,3-0,Austria Lustenau,2017-05-12T16:30Z
+35,Fri May 19 2017,19:30,CEST/+0200,FC Liefering,2-3,1-1,WSG Wattens,2017-05-19T17:30Z
+35,Fri May 19 2017,19:30,CEST/+0200,LASK Linz,2-2,1-1,Floridsdorfer AC,2017-05-19T17:30Z
+35,Fri May 19 2017,19:30,CEST/+0200,FC Wacker Innsbruck,3-0,1-0,SV Horn,2017-05-19T17:30Z
+35,Fri May 19 2017,19:30,CEST/+0200,Austria Lustenau,2-0,1-0,1. Wiener Neustädter SC,2017-05-19T17:30Z
+35,Fri May 19 2017,19:30,CEST/+0200,Kapfenberger SV 1919,3-2,1-1,FC Blau Weiß Linz,2017-05-19T17:30Z
+36,Fri May 26 2017,19:30,CEST/+0200,FC Blau Weiß Linz,0-0,0-0,FC Liefering,2017-05-26T17:30Z
+36,Fri May 26 2017,19:30,CEST/+0200,WSG Wattens,2-2,2-2,Austria Lustenau,2017-05-26T17:30Z
+36,Fri May 26 2017,19:30,CEST/+0200,SV Horn,1-2,0-0,LASK Linz,2017-05-26T17:30Z
+36,Fri May 26 2017,19:30,CEST/+0200,Floridsdorfer AC,3-1,2-0,Kapfenberger SV 1919,2017-05-26T17:30Z
+36,Fri May 26 2017,19:30,CEST/+0200,1. Wiener Neustädter SC,1-3,1-1,FC Wacker Innsbruck,2017-05-26T17:30Z

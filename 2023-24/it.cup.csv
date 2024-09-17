@@ -1,0 +1,46 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,UTC
+Vorrunde,Sat Aug 5 2023,18:00,CEST/+0200,US Catanzaro,1-0,0-0,Foggia Calcio,,,2023-08-05T16:00Z
+Vorrunde,Sun Aug 6 2023,20:00,CEST/+0200,Feralpisalò,2-1,2-0,L.R. Vicenza,,,2023-08-06T18:00Z
+Vorrunde,Sun Aug 6 2023,20:30,CEST/+0200,Cesena FC,2-2,2-0,Virtus Entella,2-2,6-5,2023-08-06T18:30Z
+Vorrunde,Sun Aug 6 2023,18:00,CEST/+0200,AC Reggiana 1919,6-2,3-2,Delfino Pescara,,,2023-08-06T16:00Z
+Round 1,Fri Aug 11 2023,18:00,CEST/+0200,Udinese Calcio,4-1,1-1,US Catanzaro,,,2023-08-11T16:00Z
+Round 1,Fri Aug 11 2023,21:00,CEST/+0200,Genoa CFC,4-3,2-2,Modena FC,,,2023-08-11T19:00Z
+Round 1,Fri Aug 11 2023,21:15,CEST/+0200,Bologna FC,2-0,1-0,Cesena FC,,,2023-08-11T19:15Z
+Round 1,Fri Aug 11 2023,17:45,CEST/+0200,Frosinone Calcio,1-0,1-0,Pisa SC,,,2023-08-11T15:45Z
+Round 1,Sat Aug 12 2023,17:45,CEST/+0200,Empoli FC,1-2,1-0,AS Cittadella,,,2023-08-12T15:45Z
+Round 1,Sat Aug 12 2023,18:00,CEST/+0200,SSC Bari,0-3,0-2,Parma Calcio 1913,,,2023-08-12T16:00Z
+Round 1,Sat Aug 12 2023,21:00,CEST/+0200,Hellas Verona,3-1,2-1,Ascoli Calcio,,,2023-08-12T19:00Z
+Round 1,Sat Aug 12 2023,21:15,CEST/+0200,Cagliari Calcio,0-0,0-0,Palermo FC,2-1,,2023-08-12T19:15Z
+Round 1,Sun Aug 13 2023,18:00,CEST/+0200,Sassuolo Calcio,2-2,1-1,Cosenza Calcio,5-2,,2023-08-13T16:00Z
+Round 1,Sun Aug 13 2023,21:00,CEST/+0200,US Lecce,1-0,1-0,Como 1907,,,2023-08-13T19:00Z
+Round 1,Sun Aug 13 2023,21:15,CEST/+0200,AC Monza,1-2,1-0,AC Reggiana 1919,,,2023-08-13T19:15Z
+Round 1,Sun Aug 13 2023,17:45,CEST/+0200,US Salernitana 1919,1-0,1-0,Ternana Calcio,,,2023-08-13T15:45Z
+Round 1,Mon Aug 14 2023,18:00,CEST/+0200,Sampdoria,1-1,1-1,FC Südtirol,1-1,7-6,2023-08-14T16:00Z
+Round 1,Mon Aug 14 2023,21:00,CEST/+0200,Spezia Calcio,2-2,1-0,Venezia FC,2-2,4-3,2023-08-14T19:00Z
+Round 1,Mon Aug 14 2023,21:15,CEST/+0200,Torino FC,2-1,1-1,Feralpisalò,,,2023-08-14T19:15Z
+Round 1,Mon Aug 14 2023,17:45,CEST/+0200,US Cremonese,1-1,1-1,FC Crotone,3-1,,2023-08-14T15:45Z
+Round 2,Tue Oct 31 2023,15:00,CET/+0100,US Cremonese,1-1,0-0,AS Cittadella,2-1,,2023-10-31T14:00Z
+Round 2,Tue Oct 31 2023,18:00,CET/+0100,US Salernitana 1919,4-0,2-0,Sampdoria,,,2023-10-31T17:00Z
+Round 2,Tue Oct 31 2023,21:00,CET/+0100,Bologna FC,2-0,1-0,Hellas Verona,,,2023-10-31T20:00Z
+Round 2,Wed Nov 1 2023,18:00,CET/+0100,US Lecce,2-4,0-2,Parma Calcio 1913,,,2023-11-01T17:00Z
+Round 2,Wed Nov 1 2023,21:00,CET/+0100,Udinese Calcio,1-1,0-0,Cagliari Calcio,1-2,,2023-11-01T20:00Z
+Round 2,Wed Nov 1 2023,15:00,CET/+0100,Genoa CFC,1-1,0-1,AC Reggiana 1919,2-1,,2023-11-01T14:00Z
+Round 2,Thu Nov 2 2023,21:00,CET/+0100,Torino FC,1-1,1-1,Frosinone Calcio,1-2,,2023-11-02T20:00Z
+Round 2,Thu Nov 2 2023,18:00,CET/+0100,Sassuolo Calcio,0-0,0-0,Spezia Calcio,0-0,5-4,2023-11-02T17:00Z
+Round of 16,Tue Dec 5 2023,21:00,CET/+0100,Lazio Roma,1-0,1-0,Genoa CFC,,,2023-12-05T20:00Z
+Round of 16,Wed Dec 6 2023,21:00,CET/+0100,ACF Fiorentina,2-2,0-2,Parma Calcio 1913,2-2,4-1,2023-12-06T20:00Z
+Round of 16,Tue Dec 19 2023,21:00,CET/+0100,SSC Napoli,0-4,0-0,Frosinone Calcio,,,2023-12-19T20:00Z
+Round of 16,Wed Dec 20 2023,21:00,CET/+0100,Inter,0-0,0-0,Bologna FC,1-2,,2023-12-20T20:00Z
+Round of 16,Tue Jan 2 2024,21:00,CET/+0100,AC Milan,4-1,2-0,Cagliari Calcio,,,2024-01-02T20:00Z
+Round of 16,Wed Jan 3 2024,18:00,CET/+0100,Atalanta,3-1,1-0,Sassuolo Calcio,,,2024-01-03T17:00Z
+Round of 16,Wed Jan 3 2024,21:00,CET/+0100,AS Roma,2-1,0-1,US Cremonese,,,2024-01-03T20:00Z
+Round of 16,Thu Jan 4 2024,21:00,CET/+0100,Juventus,6-1,2-1,US Salernitana 1919,,,2024-01-04T20:00Z
+Quarterfinals,Tue Jan 9 2024,21:00,CET/+0100,ACF Fiorentina,0-0,0-0,Bologna FC,0-0,5-4,2024-01-09T20:00Z
+Quarterfinals,Wed Jan 10 2024,21:00,CET/+0100,AC Milan,1-2,1-1,Atalanta,,,2024-01-10T20:00Z
+Quarterfinals,Wed Jan 10 2024,18:00,CET/+0100,Lazio Roma,1-0,0-0,AS Roma,,,2024-01-10T17:00Z
+Quarterfinals,Thu Jan 11 2024,21:00,CET/+0100,Juventus,4-0,2-0,Frosinone Calcio,,,2024-01-11T20:00Z
+Semifinals,Tue Apr 2 2024,21:00,CEST/+0200,Juventus,2-0,0-0,Lazio Roma,,,2024-04-02T19:00Z
+Semifinals,Wed Apr 3 2024,21:00,CEST/+0200,ACF Fiorentina,1-0,1-0,Atalanta,,,2024-04-03T19:00Z
+Semifinals,Tue Apr 23 2024,21:00,CEST/+0200,Lazio Roma,2-1,1-0,Juventus,,,2024-04-23T19:00Z
+Semifinals,Wed Apr 24 2024,21:00,CEST/+0200,Atalanta,4-1,1-0,ACF Fiorentina,,,2024-04-24T19:00Z
+Final,Wed May 15 2024,21:00,CEST/+0200,Atalanta,0-1,0-1,Juventus,,,2024-05-15T19:00Z

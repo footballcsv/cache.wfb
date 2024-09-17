@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 6 2011,12:45,BST/+0100,AFC Wimbledon,2-3,1-2,Bristol Rovers,2011-08-06T11:45Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Bradford City,1-2,0-2,Aldershot Town,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Gillingham FC,1-0,1-0,Cheltenham Town,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Macclesfield Town,0-1,0-0,Dagenham & Redbridge,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Morecambe FC,0-1,0-0,Barnet FC,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Northampton Town,0-0,0-0,Accrington Stanley,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Port Vale FC,2-2,1-1,Crawley Town,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Rotherham United,1-0,0-0,Oxford United,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Shrewsbury Town,1-1,0-0,Plymouth Argyle,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Southend United,1-0,1-0,Hereford United,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Swindon Town,3-0,1-0,Crewe Alexandra,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Torquay United,2-2,0-0,Burton Albion,2011-08-06T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Accrington Stanley,1-2,1-1,Southend United,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Aldershot Town,0-1,0-1,Northampton Town,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Barnet FC,1-3,0-2,Port Vale FC,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Bristol Rovers,1-2,0-2,Torquay United,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Burton Albion,1-1,1-0,Shrewsbury Town,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Cheltenham Town,1-0,0-0,Swindon Town,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Crawley Town,2-0,0-0,Macclesfield Town,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Crewe Alexandra,1-2,0-2,Gillingham FC,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Dagenham & Redbridge,0-2,0-1,AFC Wimbledon,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Hereford United,0-3,0-2,Morecambe FC,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Oxford United,1-1,1-0,Bradford City,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Plymouth Argyle,1-4,0-0,Rotherham United,2011-08-13T14:00Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Accrington Stanley,1-0,0-0,Bradford City,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Aldershot Town,0-1,0-1,Torquay United,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Barnet FC,2-2,0-1,Gillingham FC,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Bristol Rovers,2-1,1-0,Northampton Town,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Burton Albion,1-1,1-1,Port Vale FC,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Cheltenham Town,1-2,0-0,Morecambe FC,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Crawley Town,3-0,0-0,Southend United,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Crewe Alexandra,1-2,0-1,Rotherham United,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Dagenham & Redbridge,1-0,0-0,Swindon Town,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Hereford United,0-4,0-0,Macclesfield Town,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Oxford United,2-0,1-0,Shrewsbury Town,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Plymouth Argyle,0-2,0-0,AFC Wimbledon,2011-08-16T18:45Z
+4,Sat Aug 20 2011,15:00,BST/+0100,AFC Wimbledon,1-1,1-1,Hereford United,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Bradford City,0-1,0-1,Dagenham & Redbridge,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Gillingham FC,3-0,0-0,Plymouth Argyle,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Macclesfield Town,0-0,0-0,Bristol Rovers,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Morecambe FC,2-0,1-0,Aldershot Town,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Northampton Town,2-3,1-1,Cheltenham Town,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Port Vale FC,4-1,4-0,Accrington Stanley,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Rotherham United,2-2,0-1,Barnet FC,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Shrewsbury Town,2-0,1-0,Crewe Alexandra,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Southend United,0-1,0-1,Burton Albion,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Torquay United,1-3,0-2,Crawley Town,2011-08-20T14:00Z
+4,Sun Aug 21 2011,13:00,BST/+0100,Swindon Town,1-2,1-2,Oxford United,2011-08-21T12:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Accrington Stanley,2-1,0-1,Burton Albion,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Bradford City,4-2,1-1,Barnet FC,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Bristol Rovers,0-0,0-0,Hereford United,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Cheltenham Town,3-1,3-0,Crawley Town,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Dagenham & Redbridge,1-1,1-0,Torquay United,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Macclesfield Town,4-0,2-0,AFC Wimbledon,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Northampton Town,0-2,0-2,Morecambe FC,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Oxford United,1-1,1-0,Aldershot Town,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Plymouth Argyle,0-1,0-1,Crewe Alexandra,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Port Vale FC,2-3,1-3,Southend United,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Rotherham United,3-0,0-0,Gillingham FC,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Shrewsbury Town,2-1,0-1,Swindon Town,2011-08-27T14:00Z
+6,Sat Sep 3 2011,12:15,BST/+0100,Swindon Town,3-2,1-1,Rotherham United,2011-09-03T11:15Z
+6,Sat Sep 3 2011,15:00,BST/+0100,AFC Wimbledon,3-2,1-0,Port Vale FC,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Aldershot Town,1-0,0-0,Cheltenham Town,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Barnet FC,0-0,0-0,Accrington Stanley,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Burton Albion,2-1,1-0,Plymouth Argyle,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Crawley Town,4-1,2-0,Bristol Rovers,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Crewe Alexandra,3-1,2-0,Oxford United,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Gillingham FC,0-1,0-0,Shrewsbury Town,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Hereford United,1-0,0-0,Dagenham & Redbridge,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Morecambe FC,1-1,0-0,Bradford City,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Southend United,2-2,1-0,Northampton Town,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Torquay United,3-0,0-0,Macclesfield Town,2011-09-03T14:00Z
+7,Sat Sep 10 2011,13:00,BST/+0100,Shrewsbury Town,3-1,1-0,Hereford United,2011-09-10T12:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Aldershot Town,1-1,0-1,AFC Wimbledon,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Bradford City,2-2,0-1,Bristol Rovers,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Cheltenham Town,2-0,1-0,Macclesfield Town,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Crewe Alexandra,3-1,1-0,Barnet FC,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Gillingham FC,1-1,0-0,Accrington Stanley,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Morecambe FC,6-0,2-0,Crawley Town,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Northampton Town,0-0,0-0,Torquay United,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Oxford United,2-2,1-0,Burton Albion,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Plymouth Argyle,0-2,0-1,Port Vale FC,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Rotherham United,3-1,3-1,Dagenham & Redbridge,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Swindon Town,2-0,1-0,Southend United,2011-09-10T14:00Z
+8,Tue Sep 13 2011,19:45,BST/+0100,AFC Wimbledon,0-3,0-1,Northampton Town,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Accrington Stanley,1-1,0-1,Rotherham United,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Barnet FC,2-0,1-0,Plymouth Argyle,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Bristol Rovers,1-0,1-0,Shrewsbury Town,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Burton Albion,1-0,1-0,Crewe Alexandra,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Crawley Town,0-3,0-1,Swindon Town,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Dagenham & Redbridge,0-1,0-1,Oxford United,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Hereford United,0-2,0-1,Aldershot Town,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Macclesfield Town,1-1,1-1,Morecambe FC,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Port Vale FC,3-2,2-1,Bradford City,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Southend United,1-0,0-0,Gillingham FC,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Torquay United,2-2,1-2,Cheltenham Town,2011-09-13T18:45Z
+9,Sat Sep 17 2011,13:00,BST/+0100,Port Vale FC,2-3,1-2,Shrewsbury Town,2011-09-17T12:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,AFC Wimbledon,4-1,2-0,Cheltenham Town,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Accrington Stanley,0-2,0-2,Crewe Alexandra,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Barnet FC,0-2,0-2,Oxford United,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Bristol Rovers,0-1,0-1,Aldershot Town,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Burton Albion,2-0,1-0,Swindon Town,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Crawley Town,3-1,0-1,Bradford City,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Dagenham & Redbridge,1-2,0-0,Morecambe FC,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Hereford United,1-6,0-3,Gillingham FC,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Macclesfield Town,3-1,1-1,Northampton Town,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Southend United,2-0,0-0,Plymouth Argyle,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Torquay United,3-3,2-3,Rotherham United,2011-09-17T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Aldershot Town,0-1,0-0,Crawley Town,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Bradford City,1-2,1-1,AFC Wimbledon,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Cheltenham Town,0-0,0-0,Hereford United,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Crewe Alexandra,1-1,0-0,Port Vale FC,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Gillingham FC,3-1,1-1,Burton Albion,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Morecambe FC,2-3,0-1,Bristol Rovers,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Northampton Town,2-1,1-0,Dagenham & Redbridge,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Oxford United,1-1,1-0,Accrington Stanley,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Plymouth Argyle,2-0,1-0,Macclesfield Town,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Rotherham United,0-4,0-1,Southend United,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Shrewsbury Town,2-0,1-0,Torquay United,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Swindon Town,4-0,3-0,Barnet FC,2011-09-24T14:00Z
+11,Fri Sep 30 2011,19:45,BST/+0100,Macclesfield Town,2-0,0-0,Swindon Town,2011-09-30T18:45Z
+11,Fri Sep 30 2011,19:45,BST/+0100,Southend United,3-0,1-0,Shrewsbury Town,2011-09-30T18:45Z
+11,Sat Oct 1 2011,15:00,BST/+0100,AFC Wimbledon,3-1,3-0,Gillingham FC,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Accrington Stanley,3-2,1-2,Aldershot Town,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Barnet FC,1-2,1-0,Northampton Town,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Bristol Rovers,1-3,0-2,Cheltenham Town,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Burton Albion,2-2,2-2,Bradford City,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Crawley Town,2-0,1-0,Plymouth Argyle,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Dagenham & Redbridge,2-1,0-0,Crewe Alexandra,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Hereford United,0-1,0-1,Oxford United,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Port Vale FC,2-0,2-0,Rotherham United,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Torquay United,1-1,0-0,Morecambe FC,2011-10-01T14:00Z
+12,Sat Oct 8 2011,12:45,BST/+0100,Northampton Town,0-1,0-1,Crawley Town,2011-10-08T11:45Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Aldershot Town,1-2,1-0,Macclesfield Town,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Bradford City,1-0,1-0,Torquay United,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Cheltenham Town,2-1,1-1,Dagenham & Redbridge,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Crewe Alexandra,1-3,0-1,Southend United,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Gillingham FC,1-1,0-1,Port Vale FC,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Morecambe FC,1-2,1-1,AFC Wimbledon,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Oxford United,3-0,1-0,Bristol Rovers,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Plymouth Argyle,2-2,2-0,Accrington Stanley,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Rotherham United,0-1,0-1,Burton Albion,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Shrewsbury Town,3-2,2-0,Barnet FC,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Swindon Town,3-3,2-0,Hereford United,2011-10-08T14:00Z
+13,Fri Oct 14 2011,19:45,BST/+0100,Burton Albion,0-2,0-0,Cheltenham Town,2011-10-14T18:45Z
+13,Fri Oct 14 2011,19:45,BST/+0100,Port Vale FC,3-0,3-0,Northampton Town,2011-10-14T18:45Z
+13,Fri Oct 14 2011,19:45,BST/+0100,Bristol Rovers,5-2,3-1,Rotherham United,2011-10-14T18:45Z
+13,Sat Oct 15 2011,15:00,BST/+0100,AFC Wimbledon,1-3,0-0,Crewe Alexandra,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Accrington Stanley,0-2,0-1,Swindon Town,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Barnet FC,2-1,0-1,Aldershot Town,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Crawley Town,2-1,2-0,Shrewsbury Town,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Dagenham & Redbridge,2-3,0-1,Plymouth Argyle,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Hereford United,2-0,0-0,Bradford City,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Macclesfield Town,1-1,0-0,Oxford United,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Southend United,1-1,0-0,Morecambe FC,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Torquay United,2-5,0-2,Gillingham FC,2011-10-15T14:00Z
+14,Fri Oct 21 2011,19:45,BST/+0100,Accrington Stanley,0-1,0-1,Cheltenham Town,2011-10-21T18:45Z
+14,Sat Oct 22 2011,15:00,BST/+0100,AFC Wimbledon,2-5,2-2,Crawley Town,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Bradford City,2-1,0-0,Northampton Town,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Burton Albion,2-1,2-1,Bristol Rovers,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Crewe Alexandra,0-1,0-1,Macclesfield Town,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Dagenham & Redbridge,2-5,1-4,Aldershot Town,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Gillingham FC,1-0,1-0,Oxford United,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Hereford United,1-0,0-0,Barnet FC,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Plymouth Argyle,0-1,0-0,Swindon Town,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Port Vale FC,0-4,0-2,Morecambe FC,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Rotherham United,1-1,1-1,Shrewsbury Town,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Southend United,4-1,0-0,Torquay United,2011-10-22T14:00Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Barnet FC,0-3,0-2,Southend United,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Bristol Rovers,0-3,0-2,Port Vale FC,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Cheltenham Town,0-1,0-0,Crewe Alexandra,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Crawley Town,3-1,2-1,Dagenham & Redbridge,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Macclesfield Town,1-0,0-0,Bradford City,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Morecambe FC,3-3,3-1,Rotherham United,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Northampton Town,1-3,0-2,Hereford United,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Oxford United,5-1,1-0,Plymouth Argyle,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Shrewsbury Town,1-0,1-0,Accrington Stanley,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Swindon Town,2-0,0-0,Gillingham FC,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Torquay United,4-0,3-0,AFC Wimbledon,2011-10-25T18:45Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Torquay United,2-0,2-0,Hereford United,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Aldershot Town,3-1,1-1,Crewe Alexandra,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Barnet FC,3-6,1-2,Burton Albion,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Bristol Rovers,2-0,0-0,Dagenham & Redbridge,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Cheltenham Town,2-1,0-1,Plymouth Argyle,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Crawley Town,1-1,0-1,Accrington Stanley,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Macclesfield Town,0-2,0-1,Southend United,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Morecambe FC,2-1,1-0,Gillingham FC,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Northampton Town,1-1,1-1,Rotherham United,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Oxford United,2-1,1-0,Port Vale FC,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Shrewsbury Town,0-0,0-0,AFC Wimbledon,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Swindon Town,0-0,0-0,Bradford City,2011-10-29T14:00Z
+15,Tue Nov 1 2011,19:45,GMT/+0000,Aldershot Town,2-0,2-0,Burton Albion,2011-11-01T19:45Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,AFC Wimbledon,1-1,0-1,Barnet FC,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Accrington Stanley,2-1,2-0,Bristol Rovers,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Bradford City,0-1,0-1,Cheltenham Town,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Burton Albion,1-0,1-0,Macclesfield Town,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Crewe Alexandra,0-3,0-1,Torquay United,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Dagenham & Redbridge,0-2,0-1,Shrewsbury Town,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Gillingham FC,4-3,3-1,Northampton Town,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Hereford United,1-1,1-1,Crawley Town,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Plymouth Argyle,1-1,1-0,Morecambe FC,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Port Vale FC,0-2,0-1,Swindon Town,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Rotherham United,2-0,2-0,Aldershot Town,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Southend United,2-1,1-0,Oxford United,2011-11-05T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,AFC Wimbledon,1-1,1-0,Swindon Town,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Aldershot Town,1-2,0-2,Gillingham FC,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Bradford City,2-3,1-1,Rotherham United,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Bristol Rovers,0-2,0-1,Barnet FC,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Cheltenham Town,2-0,0-0,Port Vale FC,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Crawley Town,4-1,3-1,Oxford United,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Dagenham & Redbridge,2-3,1-2,Southend United,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Hereford United,2-3,2-1,Burton Albion,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Macclesfield Town,1-1,1-0,Accrington Stanley,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Morecambe FC,1-2,0-0,Crewe Alexandra,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Northampton Town,2-7,0-3,Shrewsbury Town,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Torquay United,3-1,0-0,Plymouth Argyle,2011-11-19T15:00Z
+19,Fri Nov 25 2011,19:45,GMT/+0000,Port Vale FC,0-0,0-0,Torquay United,2011-11-25T19:45Z
+19,Fri Nov 25 2011,19:45,GMT/+0000,Barnet FC,2-1,2-0,Macclesfield Town,2011-11-25T19:45Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Accrington Stanley,3-0,0-0,Dagenham & Redbridge,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Burton Albion,3-2,2-1,AFC Wimbledon,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Crewe Alexandra,1-0,0-0,Hereford United,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Gillingham FC,0-0,0-0,Bradford City,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Oxford United,1-3,0-1,Cheltenham Town,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Plymouth Argyle,4-1,4-0,Northampton Town,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Rotherham United,1-2,1-0,Crawley Town,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Shrewsbury Town,2-0,1-0,Morecambe FC,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Southend United,1-1,0-0,Bristol Rovers,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Swindon Town,2-0,0-0,Aldershot Town,2011-11-26T15:00Z
+20,Fri Dec 9 2011,19:45,GMT/+0000,Torquay United,1-0,0-0,Barnet FC,2011-12-09T19:45Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,AFC Wimbledon,0-2,0-2,Accrington Stanley,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Aldershot Town,1-0,0-0,Shrewsbury Town,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Bradford City,1-1,0-0,Plymouth Argyle,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Bristol Rovers,1-1,0-1,Swindon Town,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Cheltenham Town,3-0,1-0,Southend United,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Crawley Town,3-0,1-0,Burton Albion,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Dagenham & Redbridge,1-2,1-1,Port Vale FC,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Hereford United,2-3,2-2,Rotherham United,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Macclesfield Town,0-0,0-0,Gillingham FC,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Morecambe FC,0-0,0-0,Oxford United,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Northampton Town,1-1,1-0,Crewe Alexandra,2011-12-10T15:00Z
+21,Fri Dec 16 2011,19:45,GMT/+0000,Southend United,0-1,0-0,Bradford City,2011-12-16T19:45Z
+21,Fri Dec 16 2011,19:45,GMT/+0000,Barnet FC,2-2,1-2,Cheltenham Town,2011-12-16T19:45Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Accrington Stanley,3-1,1-0,Torquay United,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Burton Albion,1-1,0-1,Dagenham & Redbridge,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Crewe Alexandra,1-1,1-1,Crawley Town,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Gillingham FC,4-1,2-0,Bristol Rovers,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Oxford United,2-0,0-0,Northampton Town,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Plymouth Argyle,1-1,0-0,Hereford United,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Port Vale FC,4-0,1-0,Aldershot Town,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Rotherham United,1-0,0-0,AFC Wimbledon,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Shrewsbury Town,1-0,0-0,Macclesfield Town,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Swindon Town,3-0,2-0,Morecambe FC,2011-12-17T15:00Z
+22,Mon Dec 26 2011,12:00,GMT/+0000,Bristol Rovers,2-3,2-0,Plymouth Argyle,2011-12-26T12:00Z
+22,Mon Dec 26 2011,12:15,GMT/+0000,AFC Wimbledon,0-2,0-2,Oxford United,2011-12-26T12:15Z
+22,Mon Dec 26 2011,13:00,GMT/+0000,Dagenham & Redbridge,3-0,2-0,Barnet FC,2011-12-26T13:00Z
+22,Mon Dec 26 2011,13:30,GMT/+0000,Hereford United,1-2,0-0,Port Vale FC,2011-12-26T13:30Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Bradford City,3-0,1-0,Crewe Alexandra,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Cheltenham Town,0-0,0-0,Shrewsbury Town,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Crawley Town,1-2,1-0,Gillingham FC,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Macclesfield Town,0-0,0-0,Rotherham United,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Morecambe FC,1-2,0-1,Accrington Stanley,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Northampton Town,2-3,2-1,Burton Albion,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Torquay United,1-0,1-0,Swindon Town,2011-12-26T15:00Z
+23,Fri Dec 30 2011,20:00,GMT/+0000,Hereford United,1-1,1-0,Accrington Stanley,2011-12-30T20:00Z
+23,Fri Dec 30 2011,19:45,GMT/+0000,Cheltenham Town,1-0,1-0,Rotherham United,2011-12-30T19:45Z
+23,Fri Dec 30 2011,19:45,GMT/+0000,Crawley Town,1-0,1-0,Barnet FC,2011-12-30T19:45Z
+23,Fri Dec 30 2011,19:45,GMT/+0000,Dagenham & Redbridge,2-1,1-1,Gillingham FC,2011-12-30T19:45Z
+23,Sat Dec 31 2011,13:15,GMT/+0000,Macclesfield Town,2-1,1-0,Port Vale FC,2011-12-31T13:15Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Aldershot Town,0-0,0-0,Plymouth Argyle,2011-12-31T13:00Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Morecambe FC,2-2,1-1,Burton Albion,2011-12-31T13:00Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Torquay United,0-0,0-0,Oxford United,2011-12-31T13:00Z
+23,Sat Dec 31 2011,15:00,GMT/+0000,Northampton Town,1-2,1-0,Swindon Town,2011-12-31T15:00Z
+23,Sat Dec 31 2011,15:00,GMT/+0000,AFC Wimbledon,1-4,1-1,Southend United,2011-12-31T15:00Z
+23,Sat Dec 31 2011,15:00,GMT/+0000,Bradford City,3-1,2-0,Shrewsbury Town,2011-12-31T15:00Z
+23,Sat Dec 31 2011,15:00,GMT/+0000,Bristol Rovers,2-5,1-4,Crewe Alexandra,2011-12-31T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Swindon Town,2-0,0-0,AFC Wimbledon,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Accrington Stanley,4-0,2-0,Macclesfield Town,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Barnet FC,2-0,0-0,Bristol Rovers,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Burton Albion,0-2,0-1,Hereford United,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Crewe Alexandra,0-1,0-1,Morecambe FC,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Gillingham FC,1-0,0-0,Aldershot Town,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Oxford United,1-1,0-0,Crawley Town,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Plymouth Argyle,1-2,0-0,Torquay United,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Port Vale FC,1-2,0-0,Cheltenham Town,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Rotherham United,3-0,0-0,Bradford City,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Shrewsbury Town,1-1,1-1,Northampton Town,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Southend United,1-1,1-0,Dagenham & Redbridge,2012-01-02T15:00Z
+25,Fri Jan 6 2012,19:45,GMT/+0000,Burton Albion,0-2,0-1,Accrington Stanley,2012-01-06T19:45Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Aldershot Town,0-3,0-3,Oxford United,2012-01-07T15:00Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Crewe Alexandra,3-2,2-0,Plymouth Argyle,2012-01-07T15:00Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Morecambe FC,1-2,0-1,Northampton Town,2012-01-07T15:00Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Southend United,3-0,2-0,Port Vale FC,2012-01-07T15:00Z
+25,Tue Jan 10 2012,19:45,GMT/+0000,Hereford United,1-2,0-1,Bristol Rovers,2012-01-10T19:45Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Rotherham United,1-2,0-2,Swindon Town,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Shrewsbury Town,2-0,1-0,Gillingham FC,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Port Vale FC,1-2,1-1,AFC Wimbledon,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Plymouth Argyle,2-1,0-0,Burton Albion,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Oxford United,0-1,0-0,Crewe Alexandra,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Northampton Town,2-5,2-1,Southend United,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Macclesfield Town,1-2,0-0,Torquay United,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Accrington Stanley,0-3,0-2,Barnet FC,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Bradford City,2-2,0-0,Morecambe FC,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Bristol Rovers,0-0,0-0,Crawley Town,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Cheltenham Town,2-0,1-0,Aldershot Town,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Dagenham & Redbridge,0-1,0-1,Hereford United,2012-01-14T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Cheltenham Town,0-2,0-0,Bristol Rovers,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Shrewsbury Town,2-1,0-0,Southend United,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Rotherham United,0-1,0-0,Port Vale FC,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Plymouth Argyle,1-1,0-1,Crawley Town,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Oxford United,2-2,1-1,Hereford United,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Northampton Town,1-2,1-0,Barnet FC,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Morecambe FC,1-2,0-1,Torquay United,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Aldershot Town,0-0,0-0,Accrington Stanley,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Bradford City,1-1,1-0,Burton Albion,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Swindon Town,1-0,0-0,Macclesfield Town,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Crewe Alexandra,4-1,1-1,Dagenham & Redbridge,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Gillingham FC,3-4,1-0,AFC Wimbledon,2012-01-21T15:00Z
+25,Tue Jan 24 2012,19:45,GMT/+0000,Torquay United,1-0,1-0,Dagenham & Redbridge,2012-01-24T19:45Z
+25,Tue Jan 24 2012,19:45,GMT/+0000,AFC Wimbledon,2-1,0-0,Macclesfield Town,2012-01-24T19:45Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Port Vale FC,1-0,0-0,Plymouth Argyle,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Macclesfield Town,1-3,1-1,Cheltenham Town,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Dagenham & Redbridge,3-2,0-1,Rotherham United,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Bristol Rovers,2-1,1-0,Bradford City,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Accrington Stanley,4-3,4-1,Gillingham FC,2012-01-28T15:00Z
+28,Sat Jan 28 2012,13:00,GMT/+0000,Hereford United,0-2,0-2,Shrewsbury Town,2012-01-28T13:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,AFC Wimbledon,1-2,1-1,Aldershot Town,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Barnet FC,2-0,1-0,Crewe Alexandra,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Torquay United,1-0,0-0,Northampton Town,2012-01-28T15:00Z
+28,Sun Jan 29 2012,15:00,GMT/+0000,Burton Albion,1-1,1-0,Oxford United,2012-01-29T15:00Z
+28,Tue Jan 31 2012,19:45,GMT/+0000,Southend United,1-4,1-3,Swindon Town,2012-01-31T19:45Z
+29,Sat Feb 4 2012,15:00,GMT/+0000,Plymouth Argyle,2-2,0-2,Southend United,2012-02-04T15:00Z
+25,Tue Feb 7 2012,19:45,GMT/+0000,Crawley Town,4-2,3-1,Cheltenham Town,2012-02-07T19:45Z
+30,Fri Feb 10 2012,19:45,GMT/+0000,Southend United,0-2,0-1,Rotherham United,2012-02-10T19:45Z
+30,Sat Feb 11 2012,15:00,GMT/+0000,Bristol Rovers,2-1,0-0,Morecambe FC,2012-02-11T15:00Z
+30,Sat Feb 11 2012,15:00,GMT/+0000,Torquay United,1-0,0-0,Shrewsbury Town,2012-02-11T15:00Z
+30,Sat Feb 11 2012,15:00,GMT/+0000,Hereford United,1-1,1-0,Cheltenham Town,2012-02-11T15:00Z
+31,Mon Feb 13 2012,19:45,GMT/+0000,Gillingham FC,1-2,0-2,Southend United,2012-02-13T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Aldershot Town,1-0,0-0,Hereford United,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Bradford City,1-1,0-1,Port Vale FC,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Northampton Town,1-0,0-0,AFC Wimbledon,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Cheltenham Town,0-1,0-1,Torquay United,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Plymouth Argyle,0-0,0-0,Barnet FC,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Rotherham United,1-0,1-0,Accrington Stanley,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Shrewsbury Town,1-0,0-0,Bristol Rovers,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Swindon Town,3-0,1-0,Crawley Town,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Crewe Alexandra,3-2,1-0,Burton Albion,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Oxford United,2-1,0-0,Dagenham & Redbridge,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Morecambe FC,1-0,0-0,Macclesfield Town,2012-02-14T19:45Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Port Vale FC,2-1,0-1,Gillingham FC,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Barnet FC,1-2,0-1,Shrewsbury Town,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Bristol Rovers,0-0,0-0,Oxford United,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Burton Albion,1-1,1-0,Rotherham United,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Accrington Stanley,0-4,0-2,Plymouth Argyle,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,AFC Wimbledon,1-1,0-0,Morecambe FC,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Dagenham & Redbridge,0-5,0-3,Cheltenham Town,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Hereford United,1-2,0-1,Swindon Town,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Macclesfield Town,0-1,0-0,Aldershot Town,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Torquay United,1-2,1-2,Bradford City,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Southend United,1-0,0-0,Crewe Alexandra,2012-02-18T15:00Z
+29,Tue Feb 21 2012,19:45,GMT/+0000,Crewe Alexandra,2-0,0-0,Accrington Stanley,2012-02-21T19:45Z
+29,Tue Feb 21 2012,19:45,GMT/+0000,Cheltenham Town,0-0,0-0,AFC Wimbledon,2012-02-21T19:45Z
+25,Tue Feb 21 2012,19:45,GMT/+0000,Gillingham FC,0-0,0-0,Rotherham United,2012-02-21T19:45Z
+29,Tue Feb 21 2012,19:45,GMT/+0000,Oxford United,2-1,1-1,Barnet FC,2012-02-21T19:45Z
+25,Tue Feb 21 2012,19:45,GMT/+0000,Swindon Town,2-1,0-1,Shrewsbury Town,2012-02-21T19:45Z
+22,Tue Feb 21 2012,19:45,GMT/+0000,Aldershot Town,2-0,1-0,Southend United,2012-02-21T19:45Z
+29,Tue Feb 21 2012,19:45,GMT/+0000,Northampton Town,3-2,2-1,Macclesfield Town,2012-02-21T19:45Z
+28,Wed Feb 22 2012,19:45,GMT/+0000,Crawley Town,1-1,0-1,Morecambe FC,2012-02-22T19:45Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Swindon Town,2-0,2-0,Accrington Stanley,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Rotherham United,0-1,0-0,Bristol Rovers,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Plymouth Argyle,0-0,0-0,Dagenham & Redbridge,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Oxford United,1-1,1-1,Macclesfield Town,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Bradford City,1-1,0-0,Hereford United,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Crewe Alexandra,3-3,3-1,AFC Wimbledon,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Cheltenham Town,2-0,1-0,Burton Albion,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Northampton Town,1-2,0-1,Port Vale FC,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Morecambe FC,1-0,0-0,Southend United,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Gillingham FC,2-0,0-0,Torquay United,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Aldershot Town,4-1,3-0,Barnet FC,2012-02-25T15:00Z
+33,Mon Feb 27 2012,19:45,GMT/+0000,Shrewsbury Town,2-1,1-1,Crawley Town,2012-02-27T19:45Z
+29,Tue Feb 28 2012,19:45,GMT/+0000,Gillingham FC,5-4,1-2,Hereford United,2012-02-28T19:45Z
+30,Tue Feb 28 2012,19:45,GMT/+0000,Port Vale FC,1-1,0-0,Crewe Alexandra,2012-02-28T19:45Z
+25,Tue Feb 28 2012,19:45,GMT/+0000,Barnet FC,0-4,0-2,Bradford City,2012-02-28T19:45Z
+29,Tue Feb 28 2012,19:45,GMT/+0000,Morecambe FC,1-2,1-1,Dagenham & Redbridge,2012-02-28T19:45Z
+29,Tue Feb 28 2012,19:45,GMT/+0000,Swindon Town,2-0,0-0,Burton Albion,2012-02-28T19:45Z
+30,Tue Feb 28 2012,19:45,GMT/+0000,Macclesfield Town,1-1,0-0,Plymouth Argyle,2012-02-28T19:45Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Aldershot Town,1-0,1-0,Morecambe FC,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Barnet FC,1-1,1-0,Rotherham United,2012-03-03T15:00Z
+34,Sat Mar 3 2012,12:00,GMT/+0000,Oxford United,2-0,2-0,Swindon Town,2012-03-03T12:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Bristol Rovers,0-0,0-0,Macclesfield Town,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Burton Albion,0-2,0-0,Southend United,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Cheltenham Town,2-2,0-2,Northampton Town,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Crawley Town,0-1,0-0,Torquay United,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Crewe Alexandra,1-1,1-1,Shrewsbury Town,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Dagenham & Redbridge,1-0,0-0,Bradford City,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Hereford United,2-1,2-0,AFC Wimbledon,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Plymouth Argyle,0-1,0-1,Gillingham FC,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Accrington Stanley,2-2,1-1,Port Vale FC,2012-03-03T15:00Z
+35,Mon Mar 5 2012,19:45,GMT/+0000,Southend United,0-0,0-0,Crawley Town,2012-03-05T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,AFC Wimbledon,1-2,1-1,Plymouth Argyle,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Torquay United,1-0,1-0,Aldershot Town,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Swindon Town,4-0,1-0,Dagenham & Redbridge,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Shrewsbury Town,2-2,0-2,Oxford United,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Rotherham United,1-1,0-1,Crewe Alexandra,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Port Vale FC,3-0,1-0,Burton Albion,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Northampton Town,3-2,3-0,Bristol Rovers,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Morecambe FC,3-1,1-1,Cheltenham Town,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Macclesfield Town,2-2,0-2,Hereford United,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Gillingham FC,3-1,0-1,Barnet FC,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Bradford City,1-1,0-0,Accrington Stanley,2012-03-06T19:45Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Port Vale FC,1-2,0-0,Barnet FC,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Swindon Town,1-0,1-0,Cheltenham Town,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Southend United,2-2,0-1,Accrington Stanley,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Shrewsbury Town,1-0,0-0,Burton Albion,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Rotherham United,1-0,0-0,Plymouth Argyle,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Northampton Town,3-1,2-0,Aldershot Town,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Morecambe FC,0-1,0-1,Hereford United,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Macclesfield Town,2-2,0-1,Crawley Town,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Gillingham FC,3-4,0-1,Crewe Alexandra,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Bradford City,2-1,0-0,Oxford United,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,AFC Wimbledon,2-1,0-0,Dagenham & Redbridge,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Torquay United,2-2,0-1,Bristol Rovers,2012-03-10T15:00Z
+30,Tue Mar 13 2012,19:45,GMT/+0000,Dagenham & Redbridge,0-1,0-0,Northampton Town,2012-03-13T19:45Z
+29,Tue Mar 13 2012,19:45,GMT/+0000,Rotherham United,0-1,0-1,Torquay United,2012-03-13T19:45Z
+30,Tue Mar 13 2012,19:45,GMT/+0000,Crawley Town,2-2,1-1,Aldershot Town,2012-03-13T19:45Z
+30,Tue Mar 13 2012,19:45,GMT/+0000,AFC Wimbledon,3-1,1-1,Bradford City,2012-03-13T19:45Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Crawley Town,3-2,1-1,Port Vale FC,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Cheltenham Town,0-3,0-1,Gillingham FC,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Dagenham & Redbridge,2-0,1-0,Macclesfield Town,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Hereford United,2-3,1-2,Southend United,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Oxford United,2-1,1-0,Rotherham United,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Aldershot Town,1-0,0-0,Bradford City,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Crewe Alexandra,2-0,1-0,Swindon Town,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Accrington Stanley,2-1,1-0,Northampton Town,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Burton Albion,1-4,0-2,Torquay United,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Barnet FC,0-2,0-1,Morecambe FC,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Bristol Rovers,1-0,1-0,AFC Wimbledon,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Plymouth Argyle,1-0,1-0,Shrewsbury Town,2012-03-17T15:00Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Port Vale FC,1-0,0-0,Hereford United,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Rotherham United,4-2,1-0,Macclesfield Town,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Shrewsbury Town,2-0,1-0,Cheltenham Town,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Southend United,0-1,0-0,Aldershot Town,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Swindon Town,2-0,1-0,Torquay United,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Plymouth Argyle,1-1,0-1,Bristol Rovers,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Accrington Stanley,1-1,1-0,Morecambe FC,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Oxford United,1-0,0-0,AFC Wimbledon,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Barnet FC,2-2,1-1,Dagenham & Redbridge,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Burton Albion,0-1,0-0,Northampton Town,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Crewe Alexandra,1-0,1-0,Bradford City,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Gillingham FC,0-1,0-0,Crawley Town,2012-03-20T19:45Z
+39,Fri Mar 23 2012,19:45,GMT/+0000,Macclesfield Town,0-0,0-0,Barnet FC,2012-03-23T19:45Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Crawley Town,3-0,1-0,Rotherham United,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Hereford United,0-1,0-0,Crewe Alexandra,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Morecambe FC,0-1,0-0,Shrewsbury Town,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Northampton Town,0-0,0-0,Plymouth Argyle,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Torquay United,2-1,0-1,Port Vale FC,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Cheltenham Town,0-0,0-0,Oxford United,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Dagenham & Redbridge,2-1,0-1,Accrington Stanley,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,AFC Wimbledon,4-0,1-0,Burton Albion,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Bradford City,2-2,0-1,Gillingham FC,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Bristol Rovers,1-0,0-0,Southend United,2012-03-24T15:00Z
+29,Tue Mar 27 2012,19:45,BST/+0100,Aldershot Town,1-0,1-0,Bristol Rovers,2012-03-27T18:45Z
+29,Tue Mar 27 2012,19:45,BST/+0100,Bradford City,1-2,0-0,Crawley Town,2012-03-27T18:45Z
+30,Tue Mar 27 2012,19:45,BST/+0100,Burton Albion,1-0,0-0,Gillingham FC,2012-03-27T18:45Z
+30,Tue Mar 27 2012,19:45,BST/+0100,Accrington Stanley,0-2,0-1,Oxford United,2012-03-27T18:45Z
+40,Fri Mar 30 2012,19:45,BST/+0100,Southend United,4-0,2-0,Cheltenham Town,2012-03-30T18:45Z
+40,Fri Mar 30 2012,20:00,BST/+0100,Barnet FC,0-1,0-0,Torquay United,2012-03-30T19:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Plymouth Argyle,1-0,1-0,Bradford City,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Port Vale FC,0-1,0-0,Dagenham & Redbridge,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Shrewsbury Town,1-1,0-0,Aldershot Town,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Rotherham United,1-0,1-0,Hereford United,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Accrington Stanley,2-1,1-1,AFC Wimbledon,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Burton Albion,0-0,0-0,Crawley Town,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Crewe Alexandra,1-1,1-0,Northampton Town,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Gillingham FC,2-0,0-0,Macclesfield Town,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Oxford United,1-2,1-1,Morecambe FC,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Swindon Town,0-0,0-0,Bristol Rovers,2012-03-31T14:00Z
+30,Tue Apr 3 2012,19:45,BST/+0100,Barnet FC,0-2,0-2,Swindon Town,2012-04-03T18:45Z
+41,Fri Apr 6 2012,15:00,BST/+0100,AFC Wimbledon,1-2,0-1,Rotherham United,2012-04-06T14:00Z
+41,Fri Apr 6 2012,19:45,BST/+0100,Northampton Town,2-1,1-0,Oxford United,2012-04-06T18:45Z
+41,Fri Apr 6 2012,19:45,BST/+0100,Macclesfield Town,1-3,0-1,Shrewsbury Town,2012-04-06T18:45Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Torquay United,1-0,0-0,Accrington Stanley,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Aldershot Town,1-2,0-1,Port Vale FC,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Bradford City,2-0,1-0,Southend United,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Bristol Rovers,2-2,0-0,Gillingham FC,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Cheltenham Town,2-0,0-0,Barnet FC,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Crawley Town,1-1,0-1,Crewe Alexandra,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Dagenham & Redbridge,1-1,0-0,Burton Albion,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Hereford United,1-1,0-1,Plymouth Argyle,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Morecambe FC,0-1,0-0,Swindon Town,2012-04-06T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Southend United,2-0,0-0,AFC Wimbledon,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Swindon Town,1-0,0-0,Northampton Town,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Shrewsbury Town,1-0,1-0,Bradford City,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Accrington Stanley,2-1,0-0,Hereford United,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Barnet FC,1-2,1-0,Crawley Town,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Burton Albion,3-2,2-1,Morecambe FC,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Crewe Alexandra,3-0,2-0,Bristol Rovers,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Gillingham FC,1-2,0-1,Dagenham & Redbridge,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Oxford United,2-2,0-1,Torquay United,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Plymouth Argyle,1-0,1-0,Aldershot Town,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Port Vale FC,1-0,0-0,Macclesfield Town,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Rotherham United,1-0,0-0,Cheltenham Town,2012-04-09T14:00Z
+43,Fri Apr 13 2012,19:45,BST/+0100,Barnet FC,1-1,1-1,Hereford United,2012-04-13T18:45Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Swindon Town,1-0,0-0,Plymouth Argyle,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Torquay United,0-0,0-0,Southend United,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Shrewsbury Town,3-1,1-1,Rotherham United,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Aldershot Town,1-1,0-0,Dagenham & Redbridge,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Bristol Rovers,7-1,1-0,Burton Albion,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Cheltenham Town,4-1,1-0,Accrington Stanley,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Crawley Town,1-1,0-0,AFC Wimbledon,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Macclesfield Town,2-2,1-1,Crewe Alexandra,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Morecambe FC,0-0,0-0,Port Vale FC,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Northampton Town,1-3,0-2,Bradford City,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Oxford United,0-0,0-0,Gillingham FC,2012-04-14T14:00Z
+39,Tue Apr 17 2012,19:45,BST/+0100,Aldershot Town,2-1,1-0,Swindon Town,2012-04-17T18:45Z
+32,Tue Apr 17 2012,19:45,BST/+0100,Crawley Town,3-1,3-0,Northampton Town,2012-04-17T18:45Z
+29,Tue Apr 17 2012,19:45,BST/+0100,Shrewsbury Town,1-0,0-0,Port Vale FC,2012-04-17T18:45Z
+44,Fri Apr 20 2012,19:45,BST/+0100,Southend United,3-0,3-0,Barnet FC,2012-04-20T18:45Z
+44,Sat Apr 21 2012,15:00,BST/+0100,AFC Wimbledon,2-0,0-0,Torquay United,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Accrington Stanley,1-1,0-1,Shrewsbury Town,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Bradford City,1-0,0-0,Macclesfield Town,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Burton Albion,0-4,0-1,Aldershot Town,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Crewe Alexandra,1-0,1-0,Cheltenham Town,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Dagenham & Redbridge,1-1,1-1,Crawley Town,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Gillingham FC,3-1,1-0,Swindon Town,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Hereford United,0-0,0-0,Northampton Town,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Plymouth Argyle,1-1,1-1,Oxford United,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Port Vale FC,1-0,1-0,Bristol Rovers,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Rotherham United,3-2,1-1,Morecambe FC,2012-04-21T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Aldershot Town,2-2,1-2,Rotherham United,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Barnet FC,4-0,1-0,AFC Wimbledon,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Bristol Rovers,5-1,3-1,Accrington Stanley,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Cheltenham Town,3-1,0-1,Bradford City,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Crawley Town,0-3,0-0,Hereford United,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Macclesfield Town,0-2,0-0,Burton Albion,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Morecambe FC,2-2,0-1,Plymouth Argyle,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Northampton Town,1-1,1-0,Gillingham FC,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Oxford United,0-2,0-2,Southend United,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Shrewsbury Town,1-0,1-0,Dagenham & Redbridge,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Swindon Town,5-0,1-0,Port Vale FC,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Torquay United,1-1,0-0,Crewe Alexandra,2012-04-28T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,AFC Wimbledon,3-1,0-0,Shrewsbury Town,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Accrington Stanley,0-1,0-0,Crawley Town,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Bradford City,0-0,0-0,Swindon Town,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Burton Albion,1-2,1-1,Barnet FC,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Crewe Alexandra,2-2,1-2,Aldershot Town,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Dagenham & Redbridge,4-0,1-0,Bristol Rovers,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Gillingham FC,2-0,1-0,Morecambe FC,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Hereford United,3-2,3-0,Torquay United,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Plymouth Argyle,1-2,0-1,Cheltenham Town,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Port Vale FC,3-0,1-0,Oxford United,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Rotherham United,1-1,1-0,Northampton Town,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Southend United,2-0,1-0,Macclesfield Town,2012-05-05T14:00Z

@@ -1,0 +1,307 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 21 2023,20:30,CEST/+0200,Legia Warszawa,3-0,1-0,ŁKS Łódź,2023-07-21T18:30Z
+1,Fri Jul 21 2023,18:00,CEST/+0200,Warta Poznań,0-1,0-1,Pogoń Szczecin,2023-07-21T16:00Z
+1,Sat Jul 22 2023,17:30,CEST/+0200,Raków Częstochowa,3-0,1-0,Jagiellonia Białystok,2023-07-22T15:30Z
+1,Sat Jul 22 2023,20:00,CEST/+0200,Piast Gliwice,1-2,1-0,Lech Poznań,2023-07-22T18:00Z
+1,Sat Jul 22 2023,15:00,CEST/+0200,FKS Stal Mielec,2-2,2-0,KS Cracovia,2023-07-22T13:00Z
+1,Sun Jul 23 2023,15:00,CEST/+0200,Górnik Zabrze,0-2,0-0,Radomiak Radom,2023-07-23T13:00Z
+1,Sun Jul 23 2023,17:30,CEST/+0200,Zagłębie Lubin,2-1,0-1,Ruch Chorzów,2023-07-23T15:30Z
+1,Sun Jul 23 2023,20:00,CEST/+0200,Widzew Łódź,3-2,1-1,Puszcza Niepołomice,2023-07-23T18:00Z
+1,Mon Jul 24 2023,19:00,CEST/+0200,Korona Kielce,1-1,0-0,Śląsk Wrocław,2023-07-24T17:00Z
+2,Fri Jul 28 2023,20:30,CEST/+0200,Ruch Chorzów,2-0,1-0,ŁKS Łódź,2023-07-28T18:30Z
+2,Sat Jul 29 2023,17:30,CEST/+0200,Jagiellonia Białystok,4-1,1-0,Puszcza Niepołomice,2023-07-29T15:30Z
+2,Sat Jul 29 2023,20:00,CEST/+0200,Śląsk Wrocław,1-2,1-0,Zagłębie Lubin,2023-07-29T18:00Z
+2,Sat Jul 29 2023,15:00,CEST/+0200,Warta Poznań,2-0,1-0,Górnik Zabrze,2023-07-29T13:00Z
+2,Sun Jul 30 2023,15:00,CEST/+0200,FKS Stal Mielec,0-0,0-0,Piast Gliwice,2023-07-30T13:00Z
+2,Sun Jul 30 2023,17:30,CEST/+0200,Lech Poznań,2-0,1-0,Radomiak Radom,2023-07-30T15:30Z
+2,Sun Jul 30 2023,20:00,CEST/+0200,Pogoń Szczecin,2-1,0-1,Widzew Łódź,2023-07-30T18:00Z
+3,Fri Aug 4 2023,18:00,CEST/+0200,Jagiellonia Białystok,2-1,0-1,Widzew Łódź,2023-08-04T16:00Z
+3,Fri Aug 4 2023,20:30,CEST/+0200,ŁKS Łódź,2-1,1-0,Korona Kielce,2023-08-04T18:30Z
+3,Sat Aug 5 2023,17:30,CEST/+0200,Górnik Zabrze,0-0,0-0,Piast Gliwice,2023-08-05T15:30Z
+3,Sat Aug 5 2023,15:00,CEST/+0200,Raków Częstochowa,2-2,0-1,Warta Poznań,2023-08-05T13:00Z
+3,Sat Aug 5 2023,20:00,CEST/+0200,Radomiak Radom,0-1,0-1,KS Cracovia,2023-08-05T18:00Z
+3,Sun Aug 6 2023,20:00,CEST/+0200,Legia Warszawa,3-0,2-0,Ruch Chorzów,2023-08-06T18:00Z
+3,Sun Aug 6 2023,17:30,CEST/+0200,Zagłębie Lubin,1-1,1-0,Lech Poznań,2023-08-06T15:30Z
+3,Mon Aug 7 2023,19:00,CEST/+0200,Puszcza Niepołomice,1-0,0-0,FKS Stal Mielec,2023-08-07T17:00Z
+4,Fri Aug 11 2023,18:00,CEST/+0200,KS Cracovia,2-1,2-0,Zagłębie Lubin,2023-08-11T16:00Z
+4,Fri Aug 11 2023,20:30,CEST/+0200,Piast Gliwice,2-1,0-0,Raków Częstochowa,2023-08-11T18:30Z
+4,Sat Aug 12 2023,20:00,CEST/+0200,Widzew Łódź,1-0,1-0,ŁKS Łódź,2023-08-12T18:00Z
+4,Sat Aug 12 2023,15:00,CEST/+0200,FKS Stal Mielec,3-1,1-0,Śląsk Wrocław,2023-08-12T13:00Z
+4,Sat Aug 12 2023,17:30,CEST/+0200,Korona Kielce,0-1,0-0,Górnik Zabrze,2023-08-12T15:30Z
+4,Sun Aug 13 2023,15:00,CEST/+0200,Pogoń Szczecin,0-2,0-2,Radomiak Radom,2023-08-13T13:00Z
+4,Sun Aug 13 2023,17:30,CEST/+0200,Puszcza Niepołomice,1-1,1-1,Legia Warszawa,2023-08-13T15:30Z
+4,Mon Aug 14 2023,19:00,CEST/+0200,Warta Poznań,2-2,2-1,Ruch Chorzów,2023-08-14T17:00Z
+5,Fri Aug 18 2023,18:00,CEST/+0200,Zagłębie Lubin,1-0,0-0,Puszcza Niepołomice,2023-08-18T16:00Z
+5,Fri Aug 18 2023,20:30,CEST/+0200,Górnik Zabrze,1-1,1-0,Widzew Łódź,2023-08-18T18:30Z
+5,Sat Aug 19 2023,17:30,CEST/+0200,Raków Częstochowa,2-0,1-0,FKS Stal Mielec,2023-08-19T15:30Z
+5,Sat Aug 19 2023,15:00,CEST/+0200,Radomiak Radom,3-2,2-1,Warta Poznań,2023-08-19T13:00Z
+5,Sat Aug 19 2023,20:00,CEST/+0200,Ruch Chorzów,0-1,0-0,Jagiellonia Białystok,2023-08-19T18:00Z
+5,Sun Aug 20 2023,15:00,CEST/+0200,ŁKS Łódź,1-0,0-0,Pogoń Szczecin,2023-08-20T13:00Z
+5,Sun Aug 20 2023,17:30,CEST/+0200,Śląsk Wrocław,3-1,1-0,Lech Poznań,2023-08-20T15:30Z
+5,Sun Aug 20 2023,20:00,CEST/+0200,Legia Warszawa,1-0,1-0,Korona Kielce,2023-08-20T18:00Z
+5,Mon Aug 21 2023,19:00,CEST/+0200,KS Cracovia,1-1,1-0,Piast Gliwice,2023-08-21T17:00Z
+6,Fri Aug 25 2023,20:30,CEST/+0200,Widzew Łódź,0-2,0-1,Śląsk Wrocław,2023-08-25T18:30Z
+6,Fri Aug 25 2023,18:00,CEST/+0200,FKS Stal Mielec,2-0,2-0,Radomiak Radom,2023-08-25T16:00Z
+6,Sat Aug 26 2023,15:00,CEST/+0200,Warta Poznań,0-0,0-0,KS Cracovia,2023-08-26T13:00Z
+6,Sat Aug 26 2023,17:30,CEST/+0200,Puszcza Niepołomice,2-1,1-0,ŁKS Łódź,2023-08-26T15:30Z
+6,Sat Aug 26 2023,20:00,CEST/+0200,Piast Gliwice,0-0,0-0,Ruch Chorzów,2023-08-26T18:00Z
+6,Sun Aug 27 2023,17:30,CEST/+0200,Jagiellonia Białystok,4-1,3-1,Górnik Zabrze,2023-08-27T15:30Z
+6,Sun Aug 27 2023,15:00,CEST/+0200,Korona Kielce,2-0,2-0,Zagłębie Lubin,2023-08-27T13:00Z
+3,Wed Aug 30 2023,18:30,CEST/+0200,Pogoń Szczecin,0-2,0-1,Śląsk Wrocław,2023-08-30T16:30Z
+7,Fri Sep 1 2023,20:30,CEST/+0200,Ruch Chorzów,1-1,1-1,FKS Stal Mielec,2023-09-01T18:30Z
+7,Fri Sep 1 2023,18:00,CEST/+0200,ŁKS Łódź,0-2,0-1,Warta Poznań,2023-09-01T16:00Z
+7,Sat Sep 2 2023,15:00,CEST/+0200,Radomiak Radom,1-1,0-0,Piast Gliwice,2023-09-02T13:00Z
+7,Sat Sep 2 2023,17:30,CEST/+0200,KS Cracovia,0-0,0-0,Korona Kielce,2023-09-02T15:30Z
+7,Sat Sep 2 2023,20:00,CEST/+0200,Lech Poznań,1-1,0-1,Górnik Zabrze,2023-09-02T18:00Z
+7,Sun Sep 3 2023,12:30,CEST/+0200,Śląsk Wrocław,2-1,0-0,Jagiellonia Białystok,2023-09-03T10:30Z
+7,Sun Sep 3 2023,17:30,CEST/+0200,Legia Warszawa,3-1,1-1,Widzew Łódź,2023-09-03T15:30Z
+7,Sun Sep 3 2023,15:00,CEST/+0200,Zagłębie Lubin,1-0,0-0,Pogoń Szczecin,2023-09-03T13:00Z
+7,Sun Sep 3 2023,20:00,CEST/+0200,Raków Częstochowa,2-0,2-0,Puszcza Niepołomice,2023-09-03T18:00Z
+8,Fri Sep 15 2023,18:00,CEST/+0200,Puszcza Niepołomice,1-3,1-0,Śląsk Wrocław,2023-09-15T16:00Z
+8,Fri Sep 15 2023,20:30,CEST/+0200,Górnik Zabrze,1-0,0-0,Ruch Chorzów,2023-09-15T18:30Z
+8,Sat Sep 16 2023,15:00,CEST/+0200,Pogoń Szczecin,3-1,1-1,Korona Kielce,2023-09-16T13:00Z
+8,Sat Sep 16 2023,20:00,CEST/+0200,Piast Gliwice,1-1,1-0,Legia Warszawa,2023-09-16T18:00Z
+8,Sat Sep 16 2023,17:30,CEST/+0200,Raków Częstochowa,1-0,1-0,ŁKS Łódź,2023-09-16T15:30Z
+8,Sun Sep 17 2023,12:30,CEST/+0200,Jagiellonia Białystok,3-2,2-2,Radomiak Radom,2023-09-17T10:30Z
+8,Sun Sep 17 2023,17:30,CEST/+0200,Warta Poznań,0-2,0-1,Lech Poznań,2023-09-17T15:30Z
+8,Sun Sep 17 2023,15:00,CEST/+0200,Widzew Łódź,2-0,1-0,KS Cracovia,2023-09-17T13:00Z
+8,Mon Sep 18 2023,19:00,CEST/+0200,FKS Stal Mielec,4-2,2-1,Zagłębie Lubin,2023-09-18T17:00Z
+9,Fri Sep 22 2023,20:30,CEST/+0200,ŁKS Łódź,2-2,1-1,Jagiellonia Białystok,2023-09-22T18:30Z
+9,Fri Sep 22 2023,18:00,CEST/+0200,Korona Kielce,1-1,1-1,Widzew Łódź,2023-09-22T16:00Z
+9,Sat Sep 23 2023,17:30,CEST/+0200,KS Cracovia,1-5,0-2,Pogoń Szczecin,2023-09-23T15:30Z
+9,Sat Sep 23 2023,15:00,CEST/+0200,Śląsk Wrocław,1-0,1-0,Piast Gliwice,2023-09-23T13:00Z
+9,Sat Sep 23 2023,20:00,CEST/+0200,Lech Poznań,2-1,2-1,FKS Stal Mielec,2023-09-23T18:00Z
+9,Sat Sep 23 2023,12:30,CEST/+0200,Radomiak Radom,1-1,0-0,Puszcza Niepołomice,2023-09-23T10:30Z
+9,Sun Sep 24 2023,12:30,CEST/+0200,Zagłębie Lubin,1-0,0-0,Warta Poznań,2023-09-24T10:30Z
+9,Sun Sep 24 2023,15:00,CEST/+0200,Ruch Chorzów,3-5,1-3,Raków Częstochowa,2023-09-24T13:00Z
+9,Sun Sep 24 2023,17:30,CEST/+0200,Legia Warszawa,2-1,1-1,Górnik Zabrze,2023-09-24T15:30Z
+6,Wed Sep 27 2023,20:00,CEST/+0200,Pogoń Szczecin,3-4,1-1,Legia Warszawa,2023-09-27T18:00Z
+6,Thu Sep 28 2023,20:00,CEST/+0200,Lech Poznań,4-1,2-1,Raków Częstochowa,2023-09-28T18:00Z
+10,Fri Sep 29 2023,18:00,CEST/+0200,FKS Stal Mielec,2-3,1-2,Korona Kielce,2023-09-29T16:00Z
+10,Fri Sep 29 2023,20:30,CEST/+0200,Piast Gliwice,3-2,2-0,Widzew Łódź,2023-09-29T18:30Z
+10,Sat Sep 30 2023,20:00,CEST/+0200,Warta Poznań,0-1,0-1,Śląsk Wrocław,2023-09-30T18:00Z
+10,Sat Sep 30 2023,15:00,CEST/+0200,ŁKS Łódź,0-2,0-2,KS Cracovia,2023-09-30T13:00Z
+10,Sat Sep 30 2023,17:30,CEST/+0200,Puszcza Niepołomice,2-2,2-0,Ruch Chorzów,2023-09-30T15:30Z
+10,Sun Oct 1 2023,20:00,CEST/+0200,Jagiellonia Białystok,2-0,2-0,Legia Warszawa,2023-10-01T18:00Z
+10,Sun Oct 1 2023,15:00,CEST/+0200,Raków Częstochowa,3-0,1-0,Radomiak Radom,2023-10-01T13:00Z
+10,Sun Oct 1 2023,17:30,CEST/+0200,Pogoń Szczecin,5-0,3-0,Lech Poznań,2023-10-01T15:30Z
+10,Mon Oct 2 2023,19:00,CEST/+0200,Górnik Zabrze,0-2,0-1,Zagłębie Lubin,2023-10-02T17:00Z
+11,Fri Oct 6 2023,18:00,CEST/+0200,Korona Kielce,1-1,0-0,Warta Poznań,2023-10-06T16:00Z
+11,Fri Oct 6 2023,20:30,CEST/+0200,Lech Poznań,4-1,2-1,Puszcza Niepołomice,2023-10-06T18:30Z
+11,Sat Oct 7 2023,17:30,CEST/+0200,Zagłębie Lubin,1-1,1-0,Piast Gliwice,2023-10-07T15:30Z
+11,Sat Oct 7 2023,20:00,CEST/+0200,Ruch Chorzów,0-3,0-1,Pogoń Szczecin,2023-10-07T18:00Z
+11,Sat Oct 7 2023,12:30,CEST/+0200,Radomiak Radom,3-0,2-0,ŁKS Łódź,2023-10-07T10:30Z
+11,Sat Oct 7 2023,15:00,CEST/+0200,Widzew Łódź,1-0,0-0,FKS Stal Mielec,2023-10-07T13:00Z
+11,Sun Oct 8 2023,17:30,CEST/+0200,Legia Warszawa,1-2,1-1,Raków Częstochowa,2023-10-08T15:30Z
+11,Sun Oct 8 2023,12:30,CEST/+0200,Śląsk Wrocław,1-1,1-0,Górnik Zabrze,2023-10-08T10:30Z
+11,Sun Oct 8 2023,15:00,CEST/+0200,KS Cracovia,2-4,0-2,Jagiellonia Białystok,2023-10-08T13:00Z
+12,Fri Oct 20 2023,20:30,CEST/+0200,Jagiellonia Białystok,3-0,2-0,Zagłębie Lubin,2023-10-20T18:30Z
+12,Fri Oct 20 2023,18:00,CEST/+0200,Piast Gliwice,0-0,0-0,Pogoń Szczecin,2023-10-20T16:00Z
+12,Sat Oct 21 2023,20:00,CEST/+0200,Lech Poznań,3-1,2-0,ŁKS Łódź,2023-10-21T18:00Z
+12,Sat Oct 21 2023,15:00,CEST/+0200,Puszcza Niepołomice,1-1,1-0,KS Cracovia,2023-10-21T13:00Z
+12,Sat Oct 21 2023,17:30,CEST/+0200,Śląsk Wrocław,4-0,0-0,Legia Warszawa,2023-10-21T15:30Z
+12,Sun Oct 22 2023,12:30,CEST/+0200,Radomiak Radom,1-1,0-0,Korona Kielce,2023-10-22T10:30Z
+12,Sun Oct 22 2023,17:30,CEST/+0200,Górnik Zabrze,2-1,2-0,Raków Częstochowa,2023-10-22T15:30Z
+12,Mon Oct 23 2023,19:00,CEST/+0200,FKS Stal Mielec,0-1,0-0,Warta Poznań,2023-10-23T17:00Z
+4,Tue Oct 24 2023,18:00,CEST/+0200,Lech Poznań,3-3,2-0,Jagiellonia Białystok,2023-10-24T16:00Z
+13,Fri Oct 27 2023,20:30,CEST/+0200,ŁKS Łódź,0-5,0-1,Górnik Zabrze,2023-10-27T18:30Z
+13,Fri Oct 27 2023,18:00,CEST/+0200,Korona Kielce,5-3,3-0,Puszcza Niepołomice,2023-10-27T16:00Z
+13,Sat Oct 28 2023,20:00,CEST/+0200,Ruch Chorzów,2-2,1-2,Śląsk Wrocław,2023-10-28T18:00Z
+13,Sat Oct 28 2023,17:30,CEST/+0200,KS Cracovia,1-1,0-1,Lech Poznań,2023-10-28T15:30Z
+13,Sat Oct 28 2023,15:00,CEST/+0200,Pogoń Szczecin,2-1,1-1,Jagiellonia Białystok,2023-10-28T13:00Z
+13,Sat Oct 28 2023,12:30,CEST/+0200,Warta Poznań,1-1,1-1,Piast Gliwice,2023-10-28T10:30Z
+13,Sun Oct 29 2023,15:00,CET/+0100,Legia Warszawa,1-3,0-1,FKS Stal Mielec,2023-10-29T14:00Z
+13,Sun Oct 29 2023,12:30,CET/+0100,Zagłębie Lubin,2-3,0-2,Radomiak Radom,2023-10-29T11:30Z
+13,Sun Oct 29 2023,17:30,CET/+0100,Raków Częstochowa,1-1,0-1,Widzew Łódź,2023-10-29T16:30Z
+14,Fri Nov 3 2023,20:30,CET/+0100,Jagiellonia Białystok,4-0,2-0,FKS Stal Mielec,2023-11-03T19:30Z
+14,Fri Nov 3 2023,18:00,CET/+0100,Piast Gliwice,0-0,0-0,Korona Kielce,2023-11-03T17:00Z
+14,Sat Nov 4 2023,17:30,CET/+0100,Widzew Łódź,0-1,0-1,Warta Poznań,2023-11-04T16:30Z
+14,Sat Nov 4 2023,15:00,CET/+0100,Puszcza Niepołomice,0-2,0-0,Pogoń Szczecin,2023-11-04T14:00Z
+14,Sat Nov 4 2023,20:00,CET/+0100,Lech Poznań,2-0,1-0,Ruch Chorzów,2023-11-04T19:00Z
+14,Sun Nov 5 2023,12:30,CET/+0100,Śląsk Wrocław,2-1,1-0,ŁKS Łódź,2023-11-05T11:30Z
+14,Sun Nov 5 2023,17:30,CET/+0100,Radomiak Radom,0-1,0-1,Legia Warszawa,2023-11-05T16:30Z
+14,Sun Nov 5 2023,15:00,CET/+0100,Raków Częstochowa,5-0,2-0,Zagłębie Lubin,2023-11-05T14:00Z
+14,Mon Nov 6 2023,19:00,CET/+0100,Górnik Zabrze,1-0,0-0,KS Cracovia,2023-11-06T18:00Z
+15,Fri Nov 10 2023,18:00,CET/+0100,Warta Poznań,0-2,0-2,Puszcza Niepołomice,2023-11-10T17:00Z
+15,Fri Nov 10 2023,20:30,CET/+0100,KS Cracovia,0-1,0-1,Śląsk Wrocław,2023-11-10T19:30Z
+15,Sat Nov 11 2023,20:00,CET/+0100,Korona Kielce,2-2,1-0,Jagiellonia Białystok,2023-11-11T19:00Z
+15,Sat Nov 11 2023,15:00,CET/+0100,ŁKS Łódź,3-3,1-3,Piast Gliwice,2023-11-11T14:00Z
+15,Sat Nov 11 2023,17:30,CET/+0100,Zagłębie Lubin,1-1,0-0,Widzew Łódź,2023-11-11T16:30Z
+15,Sun Nov 12 2023,17:30,CET/+0100,Legia Warszawa,0-0,0-0,Lech Poznań,2023-11-12T16:30Z
+15,Sun Nov 12 2023,12:30,CET/+0100,FKS Stal Mielec,2-1,1-1,Górnik Zabrze,2023-11-12T11:30Z
+15,Sun Nov 12 2023,15:00,CET/+0100,Pogoń Szczecin,1-1,0-0,Raków Częstochowa,2023-11-12T14:00Z
+15,Mon Nov 13 2023,19:00,CET/+0100,Ruch Chorzów,0-0,0-0,Radomiak Radom,2023-11-13T18:00Z
+12,Sat Nov 18 2023,17:30,CET/+0100,Widzew Łódź,2-1,0-1,Ruch Chorzów,2023-11-18T16:30Z
+16,Fri Nov 24 2023,18:00,CET/+0100,ŁKS Łódź,0-2,0-1,Zagłębie Lubin,2023-11-24T17:00Z
+16,Fri Nov 24 2023,20:30,CET/+0100,Jagiellonia Białystok,0-0,0-0,Piast Gliwice,2023-11-24T19:30Z
+16,Sat Nov 25 2023,17:30,CET/+0100,Pogoń Szczecin,2-3,2-1,FKS Stal Mielec,2023-11-25T16:30Z
+16,Sat Nov 25 2023,15:00,CET/+0100,Raków Częstochowa,1-1,0-1,KS Cracovia,2023-11-25T14:00Z
+16,Sat Nov 25 2023,20:00,CET/+0100,Legia Warszawa,2-2,1-2,Warta Poznań,2023-11-25T19:00Z
+16,Sun Nov 26 2023,15:00,CET/+0100,Ruch Chorzów,1-1,0-0,Korona Kielce,2023-11-26T14:00Z
+16,Sun Nov 26 2023,17:30,CET/+0100,Lech Poznań,1-3,0-1,Widzew Łódź,2023-11-26T16:30Z
+16,Sun Nov 26 2023,12:30,CET/+0100,Puszcza Niepołomice,2-1,0-1,Górnik Zabrze,2023-11-26T11:30Z
+16,Mon Nov 27 2023,19:00,CET/+0100,Radomiak Radom,0-1,0-0,Śląsk Wrocław,2023-11-27T18:00Z
+17,Fri Dec 1 2023,18:00,CET/+0100,Warta Poznań,1-2,1-1,Jagiellonia Białystok,2023-12-01T17:00Z
+17,Fri Dec 1 2023,20:30,CET/+0100,Górnik Zabrze,1-0,1-0,Pogoń Szczecin,2023-12-01T19:30Z
+17,Sat Dec 2 2023,17:30,CET/+0100,Widzew Łódź,0-3,0-2,Radomiak Radom,2023-12-02T16:30Z
+17,Sat Dec 2 2023,20:00,CET/+0100,Korona Kielce,0-1,0-0,Lech Poznań,2023-12-02T19:00Z
+17,Sun Dec 3 2023,17:30,CET/+0100,Śląsk Wrocław,1-1,0-1,Raków Częstochowa,2023-12-03T16:30Z
+17,Sun Dec 3 2023,15:00,CET/+0100,Zagłębie Lubin,0-3,0-2,Legia Warszawa,2023-12-03T14:00Z
+17,Sun Dec 3 2023,12:30,CET/+0100,KS Cracovia,4-4,1-2,Ruch Chorzów,2023-12-03T11:30Z
+18,Fri Dec 8 2023,18:00,CET/+0100,Ruch Chorzów,2-2,0-1,Zagłębie Lubin,2023-12-08T17:00Z
+18,Fri Dec 8 2023,20:30,CET/+0100,Pogoń Szczecin,3-3,0-1,Warta Poznań,2023-12-08T19:30Z
+18,Sat Dec 9 2023,20:00,CET/+0100,Śląsk Wrocław,0-0,0-0,Korona Kielce,2023-12-09T19:00Z
+18,Sat Dec 9 2023,17:30,CET/+0100,KS Cracovia,2-2,0-0,FKS Stal Mielec,2023-12-09T16:30Z
+18,Sat Dec 9 2023,15:00,CET/+0100,Radomiak Radom,1-1,1-1,Górnik Zabrze,2023-12-09T14:00Z
+18,Sun Dec 10 2023,17:30,CET/+0100,Jagiellonia Białystok,4-2,2-1,Raków Częstochowa,2023-12-10T16:30Z
+18,Sun Dec 10 2023,12:30,CET/+0100,Lech Poznań,0-1,0-0,Piast Gliwice,2023-12-10T11:30Z
+18,Sun Dec 10 2023,15:00,CET/+0100,ŁKS Łódź,1-1,1-0,Legia Warszawa,2023-12-10T14:00Z
+18,Mon Dec 11 2023,19:00,CET/+0100,Puszcza Niepołomice,1-0,0-0,Widzew Łódź,2023-12-11T18:00Z
+19,Fri Dec 15 2023,18:00,CET/+0100,Górnik Zabrze,3-0,1-0,Warta Poznań,2023-12-15T17:00Z
+19,Fri Dec 15 2023,20:30,CET/+0100,Zagłębie Lubin,1-2,0-0,Śląsk Wrocław,2023-12-15T19:30Z
+19,Sat Dec 16 2023,17:30,CET/+0100,Widzew Łódź,1-2,1-1,Pogoń Szczecin,2023-12-16T16:30Z
+19,Sat Dec 16 2023,15:00,CET/+0100,Puszcza Niepołomice,3-3,0-3,Jagiellonia Białystok,2023-12-16T14:00Z
+19,Sat Dec 16 2023,20:00,CET/+0100,Radomiak Radom,2-2,0-1,Lech Poznań,2023-12-16T19:00Z
+19,Sun Dec 17 2023,17:30,CET/+0100,Legia Warszawa,2-0,0-0,KS Cracovia,2023-12-17T16:30Z
+19,Sun Dec 17 2023,15:00,CET/+0100,Raków Częstochowa,1-0,0-0,Korona Kielce,2023-12-17T14:00Z
+19,Sun Dec 17 2023,12:30,CET/+0100,ŁKS Łódź,1-1,1-0,Ruch Chorzów,2023-12-17T11:30Z
+19,Mon Dec 18 2023,19:00,CET/+0100,Piast Gliwice,3-0,0-0,FKS Stal Mielec,2023-12-18T18:00Z
+2,Wed Dec 20 2023,19:00,CET/+0100,KS Cracovia,2-0,1-0,Legia Warszawa,2023-12-20T18:00Z
+20,Fri Feb 9 2024,18:00,CET/+0100,FKS Stal Mielec,2-1,0-1,Puszcza Niepołomice,2024-02-09T17:00Z
+20,Fri Feb 9 2024,20:30,CET/+0100,Ruch Chorzów,0-1,0-0,Legia Warszawa,2024-02-09T19:30Z
+20,Sat Feb 10 2024,20:00,CET/+0100,Lech Poznań,2-0,1-0,Zagłębie Lubin,2024-02-10T19:00Z
+20,Sat Feb 10 2024,15:00,CET/+0100,KS Cracovia,6-0,3-0,Radomiak Radom,2024-02-10T14:00Z
+20,Sat Feb 10 2024,17:30,CET/+0100,Piast Gliwice,1-3,0-1,Górnik Zabrze,2024-02-10T16:30Z
+20,Sun Feb 11 2024,17:30,CET/+0100,Śląsk Wrocław,0-1,0-0,Pogoń Szczecin,2024-02-11T16:30Z
+20,Sun Feb 11 2024,12:30,CET/+0100,Warta Poznań,2-1,2-1,Raków Częstochowa,2024-02-11T11:30Z
+20,Sun Feb 11 2024,15:00,CET/+0100,Widzew Łódź,1-3,1-2,Jagiellonia Białystok,2024-02-11T14:00Z
+20,Mon Feb 12 2024,19:00,CET/+0100,Korona Kielce,2-1,1-1,ŁKS Łódź,2024-02-12T18:00Z
+21,Fri Feb 16 2024,18:00,CET/+0100,Radomiak Radom,0-4,0-3,Pogoń Szczecin,2024-02-16T17:00Z
+21,Fri Feb 16 2024,20:30,CET/+0100,Śląsk Wrocław,0-1,0-1,FKS Stal Mielec,2024-02-16T19:30Z
+21,Sat Feb 17 2024,20:00,CET/+0100,Raków Częstochowa,3-1,0-0,Piast Gliwice,2024-02-17T19:00Z
+21,Sat Feb 17 2024,17:30,CET/+0100,Jagiellonia Białystok,1-2,0-2,Lech Poznań,2024-02-17T16:30Z
+21,Sat Feb 17 2024,15:00,CET/+0100,Ruch Chorzów,0-0,0-0,Warta Poznań,2024-02-17T14:00Z
+21,Sun Feb 18 2024,15:00,CET/+0100,Legia Warszawa,1-1,0-1,Puszcza Niepołomice,2024-02-18T14:00Z
+21,Sun Feb 18 2024,12:30,CET/+0100,Zagłębie Lubin,1-1,1-0,KS Cracovia,2024-02-18T11:30Z
+21,Sun Feb 18 2024,17:30,CET/+0100,ŁKS Łódź,0-2,0-0,Widzew Łódź,2024-02-18T16:30Z
+21,Mon Feb 19 2024,19:00,CET/+0100,Górnik Zabrze,3-1,2-0,Korona Kielce,2024-02-19T18:00Z
+22,Fri Feb 23 2024,18:00,CET/+0100,Piast Gliwice,0-0,0-0,KS Cracovia,2024-02-23T17:00Z
+22,Fri Feb 23 2024,20:30,CET/+0100,Pogoń Szczecin,4-2,1-0,ŁKS Łódź,2024-02-23T19:30Z
+22,Sat Feb 24 2024,20:00,CET/+0100,FKS Stal Mielec,0-0,0-0,Raków Częstochowa,2024-02-24T19:00Z
+22,Sat Feb 24 2024,17:30,CET/+0100,Lech Poznań,0-0,0-0,Śląsk Wrocław,2024-02-24T16:30Z
+22,Sat Feb 24 2024,15:00,CET/+0100,Jagiellonia Białystok,1-1,0-1,Ruch Chorzów,2024-02-24T14:00Z
+22,Sun Feb 25 2024,17:30,CET/+0100,Korona Kielce,3-3,1-2,Legia Warszawa,2024-02-25T16:30Z
+22,Sun Feb 25 2024,12:30,CET/+0100,Puszcza Niepołomice,2-2,1-2,Zagłębie Lubin,2024-02-25T11:30Z
+22,Sun Feb 25 2024,15:00,CET/+0100,Widzew Łódź,3-1,2-0,Górnik Zabrze,2024-02-25T14:00Z
+22,Mon Feb 26 2024,19:00,CET/+0100,Warta Poznań,0-0,0-0,Radomiak Radom,2024-02-26T18:00Z
+17,Wed Feb 28 2024,18:30,CET/+0100,FKS Stal Mielec,1-0,1-0,ŁKS Łódź,2024-02-28T17:30Z
+23,Fri Mar 1 2024,18:00,CET/+0100,KS Cracovia,0-1,0-0,Warta Poznań,2024-03-01T17:00Z
+23,Fri Mar 1 2024,20:30,CET/+0100,Ruch Chorzów,3-0,1-0,Piast Gliwice,2024-03-01T19:30Z
+23,Sat Mar 2 2024,17:30,CET/+0100,Śląsk Wrocław,2-1,0-0,Widzew Łódź,2024-03-02T16:30Z
+23,Sat Mar 2 2024,20:00,CET/+0100,Legia Warszawa,1-1,0-0,Pogoń Szczecin,2024-03-02T19:00Z
+23,Sat Mar 2 2024,15:00,CET/+0100,Górnik Zabrze,2-1,1-0,Jagiellonia Białystok,2024-03-02T14:00Z
+23,Sun Mar 3 2024,15:00,CET/+0100,Zagłębie Lubin,1-0,1-0,Korona Kielce,2024-03-03T14:00Z
+23,Sun Mar 3 2024,12:30,CET/+0100,ŁKS Łódź,3-2,1-1,Puszcza Niepołomice,2024-03-03T11:30Z
+23,Sun Mar 3 2024,17:30,CET/+0100,Raków Częstochowa,4-0,3-0,Lech Poznań,2024-03-03T16:30Z
+23,Mon Mar 4 2024,19:00,CET/+0100,Radomiak Radom,2-1,1-0,FKS Stal Mielec,2024-03-04T18:00Z
+24,Fri Mar 8 2024,18:00,CET/+0100,Piast Gliwice,2-3,1-1,Radomiak Radom,2024-03-08T17:00Z
+24,Fri Mar 8 2024,20:30,CET/+0100,Jagiellonia Białystok,3-1,3-0,Śląsk Wrocław,2024-03-08T19:30Z
+24,Sat Mar 9 2024,17:30,CET/+0100,Puszcza Niepołomice,1-1,0-1,Raków Częstochowa,2024-03-09T16:30Z
+24,Sat Mar 9 2024,20:00,CET/+0100,Górnik Zabrze,0-0,0-0,Lech Poznań,2024-03-09T19:00Z
+24,Sat Mar 9 2024,15:00,CET/+0100,Korona Kielce,1-1,0-1,KS Cracovia,2024-03-09T14:00Z
+24,Sun Mar 10 2024,17:30,CET/+0100,Widzew Łódź,1-0,0-0,Legia Warszawa,2024-03-10T16:30Z
+24,Sun Mar 10 2024,12:30,CET/+0100,FKS Stal Mielec,3-1,2-0,Ruch Chorzów,2024-03-10T11:30Z
+24,Sun Mar 10 2024,15:00,CET/+0100,Pogoń Szczecin,0-2,0-1,Zagłębie Lubin,2024-03-10T14:00Z
+24,Mon Mar 11 2024,19:00,CET/+0100,Warta Poznań,0-1,0-0,ŁKS Łódź,2024-03-11T18:00Z
+17,Tue Mar 12 2024,18:30,CET/+0100,Piast Gliwice,1-0,1-0,Puszcza Niepołomice,2024-03-12T17:30Z
+2,Wed Mar 13 2024,18:30,CET/+0100,Korona Kielce,0-2,0-2,Raków Częstochowa,2024-03-13T17:30Z
+25,Fri Mar 15 2024,20:30,CET/+0100,Lech Poznań,2-0,0-0,Warta Poznań,2024-03-15T19:30Z
+25,Fri Mar 15 2024,18:00,CET/+0100,Zagłębie Lubin,0-0,0-0,FKS Stal Mielec,2024-03-15T17:00Z
+25,Sat Mar 16 2024,12:30,CET/+0100,KS Cracovia,2-2,1-1,Widzew Łódź,2024-03-16T11:30Z
+25,Sat Mar 16 2024,15:00,CET/+0100,Radomiak Radom,0-2,0-1,Jagiellonia Białystok,2024-03-16T14:00Z
+25,Sat Mar 16 2024,17:30,CET/+0100,Ruch Chorzów,1-2,0-1,Górnik Zabrze,2024-03-16T16:30Z
+25,Sat Mar 16 2024,20:00,CET/+0100,Śląsk Wrocław,0-0,0-0,Puszcza Niepołomice,2024-03-16T19:00Z
+25,Sun Mar 17 2024,15:00,CET/+0100,ŁKS Łódź,1-1,0-0,Raków Częstochowa,2024-03-17T14:00Z
+25,Sun Mar 17 2024,17:30,CET/+0100,Legia Warszawa,3-1,2-1,Piast Gliwice,2024-03-17T16:30Z
+25,Sun Mar 17 2024,12:30,CET/+0100,Korona Kielce,2-2,2-0,Pogoń Szczecin,2024-03-17T11:30Z
+26,Sat Mar 30 2024,12:30,CET/+0100,Raków Częstochowa,1-1,1-0,Ruch Chorzów,2024-03-30T11:30Z
+26,Sat Mar 30 2024,15:00,CET/+0100,Jagiellonia Białystok,6-0,2-0,ŁKS Łódź,2024-03-30T14:00Z
+26,Sat Mar 30 2024,17:30,CET/+0100,Piast Gliwice,2-2,0-0,Śląsk Wrocław,2024-03-30T16:30Z
+26,Sat Mar 30 2024,20:00,CET/+0100,Pogoń Szczecin,3-1,2-1,KS Cracovia,2024-03-30T19:00Z
+26,Mon Apr 1 2024,15:00,CEST/+0200,FKS Stal Mielec,0-0,0-0,Lech Poznań,2024-04-01T13:00Z
+26,Mon Apr 1 2024,17:30,CEST/+0200,Widzew Łódź,3-1,1-0,Korona Kielce,2024-04-01T15:30Z
+26,Mon Apr 1 2024,20:00,CEST/+0200,Górnik Zabrze,1-3,0-1,Legia Warszawa,2024-04-01T18:00Z
+26,Mon Apr 1 2024,12:30,CEST/+0200,Puszcza Niepołomice,1-1,1-0,Radomiak Radom,2024-04-01T10:30Z
+26,Tue Apr 2 2024,19:00,CEST/+0200,Warta Poznań,1-1,1-0,Zagłębie Lubin,2024-04-02T17:00Z
+27,Fri Apr 5 2024,20:30,CEST/+0200,Radomiak Radom,2-1,2-0,Raków Częstochowa,2024-04-05T18:30Z
+27,Fri Apr 5 2024,18:00,CEST/+0200,KS Cracovia,2-2,1-0,ŁKS Łódź,2024-04-05T16:00Z
+27,Sat Apr 6 2024,15:00,CEST/+0200,Korona Kielce,1-0,1-0,FKS Stal Mielec,2024-04-06T13:00Z
+27,Sat Apr 6 2024,17:30,CEST/+0200,Ruch Chorzów,0-0,0-0,Puszcza Niepołomice,2024-04-06T15:30Z
+27,Sat Apr 6 2024,20:00,CEST/+0200,Śląsk Wrocław,2-1,1-0,Warta Poznań,2024-04-06T18:00Z
+27,Sun Apr 7 2024,15:00,CEST/+0200,Lech Poznań,1-0,0-0,Pogoń Szczecin,2024-04-07T13:00Z
+27,Sun Apr 7 2024,17:30,CEST/+0200,Legia Warszawa,1-1,1-0,Jagiellonia Białystok,2024-04-07T15:30Z
+27,Sun Apr 7 2024,12:30,CEST/+0200,Widzew Łódź,1-0,0-0,Piast Gliwice,2024-04-07T10:30Z
+27,Mon Apr 8 2024,19:00,CEST/+0200,Zagłębie Lubin,1-2,1-1,Górnik Zabrze,2024-04-08T17:00Z
+28,Fri Apr 12 2024,20:30,CEST/+0200,Pogoń Szczecin,5-0,2-0,Ruch Chorzów,2024-04-12T18:30Z
+28,Fri Apr 12 2024,18:00,CEST/+0200,Warta Poznań,1-0,1-0,Korona Kielce,2024-04-12T16:00Z
+28,Sat Apr 13 2024,15:00,CEST/+0200,FKS Stal Mielec,0-0,0-0,Widzew Łódź,2024-04-13T13:00Z
+28,Sat Apr 13 2024,17:30,CEST/+0200,Puszcza Niepołomice,2-1,2-0,Lech Poznań,2024-04-13T15:30Z
+28,Sat Apr 13 2024,20:00,CEST/+0200,Raków Częstochowa,1-1,0-1,Legia Warszawa,2024-04-13T18:00Z
+28,Sun Apr 14 2024,15:00,CEST/+0200,Jagiellonia Białystok,1-3,1-2,KS Cracovia,2024-04-14T13:00Z
+28,Sun Apr 14 2024,17:30,CEST/+0200,Górnik Zabrze,2-0,1-0,Śląsk Wrocław,2024-04-14T15:30Z
+28,Sun Apr 14 2024,12:30,CEST/+0200,ŁKS Łódź,3-2,1-0,Radomiak Radom,2024-04-14T10:30Z
+28,Mon Apr 15 2024,19:00,CEST/+0200,Piast Gliwice,2-0,2-0,Zagłębie Lubin,2024-04-15T17:00Z
+29,Fri Apr 19 2024,18:00,CEST/+0200,Korona Kielce,4-0,2-0,Radomiak Radom,2024-04-19T16:00Z
+29,Fri Apr 19 2024,20:30,CEST/+0200,Raków Częstochowa,0-1,0-0,Górnik Zabrze,2024-04-19T18:30Z
+29,Sat Apr 20 2024,17:30,CEST/+0200,Ruch Chorzów,2-3,0-1,Widzew Łódź,2024-04-20T15:30Z
+29,Sat Apr 20 2024,20:00,CEST/+0200,Zagłębie Lubin,1-2,0-1,Jagiellonia Białystok,2024-04-20T18:00Z
+29,Sat Apr 20 2024,15:00,CEST/+0200,Pogoń Szczecin,0-2,0-2,Piast Gliwice,2024-04-20T13:00Z
+29,Sun Apr 21 2024,12:30,CEST/+0200,KS Cracovia,0-1,0-1,Puszcza Niepołomice,2024-04-21T10:30Z
+29,Sun Apr 21 2024,15:00,CEST/+0200,ŁKS Łódź,2-3,0-1,Lech Poznań,2024-04-21T13:00Z
+29,Sun Apr 21 2024,17:30,CEST/+0200,Legia Warszawa,0-0,0-0,Śląsk Wrocław,2024-04-21T15:30Z
+29,Mon Apr 22 2024,19:00,CEST/+0200,Warta Poznań,5-2,2-2,FKS Stal Mielec,2024-04-22T17:00Z
+30,Fri Apr 26 2024,20:30,CEST/+0200,Jagiellonia Białystok,2-2,2-1,Pogoń Szczecin,2024-04-26T18:30Z
+30,Fri Apr 26 2024,18:00,CEST/+0200,Piast Gliwice,2-0,1-0,Warta Poznań,2024-04-26T16:00Z
+30,Sat Apr 27 2024,17:30,CEST/+0200,Śląsk Wrocław,2-3,0-2,Ruch Chorzów,2024-04-27T15:30Z
+30,Sat Apr 27 2024,20:00,CEST/+0200,Widzew Łódź,0-1,0-0,Raków Częstochowa,2024-04-27T18:00Z
+30,Sat Apr 27 2024,15:00,CEST/+0200,Górnik Zabrze,4-1,2-0,ŁKS Łódź,2024-04-27T13:00Z
+30,Sun Apr 28 2024,12:30,CEST/+0200,Radomiak Radom,3-4,0-3,Zagłębie Lubin,2024-04-28T10:30Z
+30,Sun Apr 28 2024,15:00,CEST/+0200,FKS Stal Mielec,1-3,1-1,Legia Warszawa,2024-04-28T13:00Z
+30,Sun Apr 28 2024,17:30,CEST/+0200,Lech Poznań,0-0,0-0,KS Cracovia,2024-04-28T15:30Z
+30,Mon Apr 29 2024,19:00,CEST/+0200,Puszcza Niepołomice,1-1,1-0,Korona Kielce,2024-04-29T17:00Z
+31,Fri May 3 2024,20:30,CEST/+0200,Ruch Chorzów,2-1,1-1,Lech Poznań,2024-05-03T18:30Z
+31,Fri May 3 2024,18:00,CEST/+0200,KS Cracovia,5-0,2-0,Górnik Zabrze,2024-05-03T16:00Z
+31,Sat May 4 2024,15:00,CEST/+0200,ŁKS Łódź,1-2,0-0,Śląsk Wrocław,2024-05-04T13:00Z
+31,Sat May 4 2024,17:30,CEST/+0200,Zagłębie Lubin,2-0,1-0,Raków Częstochowa,2024-05-04T15:30Z
+31,Sat May 4 2024,20:00,CEST/+0200,FKS Stal Mielec,3-2,1-1,Jagiellonia Białystok,2024-05-04T18:00Z
+31,Sun May 5 2024,15:00,CEST/+0200,Korona Kielce,1-1,0-1,Piast Gliwice,2024-05-05T13:00Z
+31,Sun May 5 2024,17:30,CEST/+0200,Legia Warszawa,0-3,0-0,Radomiak Radom,2024-05-05T15:30Z
+31,Sun May 5 2024,12:30,CEST/+0200,Warta Poznań,2-1,2-1,Widzew Łódź,2024-05-05T10:30Z
+31,Mon May 6 2024,19:00,CEST/+0200,Pogoń Szczecin,1-0,0-0,Puszcza Niepołomice,2024-05-06T17:00Z
+32,Fri May 10 2024,20:30,CEST/+0200,Śląsk Wrocław,4-0,3-0,KS Cracovia,2024-05-10T18:30Z
+32,Fri May 10 2024,18:00,CEST/+0200,Piast Gliwice,4-0,0-0,ŁKS Łódź,2024-05-10T16:00Z
+32,Sat May 11 2024,17:30,CEST/+0200,Jagiellonia Białystok,3-0,2-0,Korona Kielce,2024-05-11T15:30Z
+32,Sat May 11 2024,20:00,CEST/+0200,Raków Częstochowa,2-1,2-0,Pogoń Szczecin,2024-05-11T18:00Z
+32,Sat May 11 2024,15:00,CEST/+0200,Górnik Zabrze,1-1,0-0,FKS Stal Mielec,2024-05-11T13:00Z
+32,Sun May 12 2024,15:00,CEST/+0200,Widzew Łódź,1-3,0-2,Zagłębie Lubin,2024-05-12T13:00Z
+32,Sun May 12 2024,17:30,CEST/+0200,Lech Poznań,1-2,0-2,Legia Warszawa,2024-05-12T15:30Z
+32,Sun May 12 2024,12:30,CEST/+0200,Puszcza Niepołomice,1-0,0-0,Warta Poznań,2024-05-12T10:30Z
+32,Mon May 13 2024,19:00,CEST/+0200,Radomiak Radom,0-2,0-0,Ruch Chorzów,2024-05-13T17:00Z
+33,Fri May 17 2024,20:30,CEST/+0200,Górnik Zabrze,1-1,1-0,Puszcza Niepołomice,2024-05-17T18:30Z
+33,Fri May 17 2024,18:00,CEST/+0200,FKS Stal Mielec,0-0,0-0,Pogoń Szczecin,2024-05-17T16:00Z
+33,Sat May 18 2024,15:00,CEST/+0200,Korona Kielce,2-0,1-0,Ruch Chorzów,2024-05-18T13:00Z
+33,Sat May 18 2024,17:30,CEST/+0200,Śląsk Wrocław,2-0,1-0,Radomiak Radom,2024-05-18T15:30Z
+33,Sat May 18 2024,20:00,CEST/+0200,Piast Gliwice,1-1,0-0,Jagiellonia Białystok,2024-05-18T18:00Z
+33,Sun May 19 2024,15:00,CEST/+0200,Warta Poznań,0-1,0-1,Legia Warszawa,2024-05-19T13:00Z
+33,Sun May 19 2024,17:30,CEST/+0200,Widzew Łódź,1-1,1-1,Lech Poznań,2024-05-19T15:30Z
+33,Sun May 19 2024,12:30,CEST/+0200,KS Cracovia,2-0,1-0,Raków Częstochowa,2024-05-19T10:30Z
+33,Mon May 20 2024,19:00,CEST/+0200,Zagłębie Lubin,2-1,1-0,ŁKS Łódź,2024-05-20T17:00Z
+34,Sat May 25 2024,17:30,CEST/+0200,Jagiellonia Białystok,3-0,3-0,Warta Poznań,2024-05-25T15:30Z
+34,Sat May 25 2024,17:30,CEST/+0200,Lech Poznań,1-2,1-0,Korona Kielce,2024-05-25T15:30Z
+34,Sat May 25 2024,17:30,CEST/+0200,Legia Warszawa,2-1,2-0,Zagłębie Lubin,2024-05-25T15:30Z
+34,Sat May 25 2024,17:30,CEST/+0200,ŁKS Łódź,3-2,3-0,FKS Stal Mielec,2024-05-25T15:30Z
+34,Sat May 25 2024,17:30,CEST/+0200,Pogoń Szczecin,1-0,0-0,Górnik Zabrze,2024-05-25T15:30Z
+34,Sat May 25 2024,17:30,CEST/+0200,Puszcza Niepołomice,1-0,0-0,Piast Gliwice,2024-05-25T15:30Z
+34,Sat May 25 2024,17:30,CEST/+0200,Radomiak Radom,1-3,1-0,Widzew Łódź,2024-05-25T15:30Z
+34,Sat May 25 2024,17:30,CEST/+0200,Raków Częstochowa,1-2,1-0,Śląsk Wrocław,2024-05-25T15:30Z
+34,Sat May 25 2024,17:30,CEST/+0200,Ruch Chorzów,2-0,1-0,KS Cracovia,2024-05-25T15:30Z

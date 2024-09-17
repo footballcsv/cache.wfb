@@ -41,12 +41,12 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 7,Sun Sep 1 2024,16:00,CEST/+0200,Silkeborg IF,1-3,1-2,FC Midtjylland,2024-09-01T14:00Z
 7,Sun Sep 1 2024,18:00,CEST/+0200,Randers FC,1-0,1-0,Aalborg BK,2024-09-01T16:00Z
 7,Sun Sep 1 2024,14:00,CEST/+0200,SønderjyskE,2-2,2-0,Viborg FF,2024-09-01T12:00Z
-8,Fri Sep 13 2024,19:00,CEST/+0200,Aalborg BK,,,Lyngby BK,2024-09-13T17:00Z
-8,Sat Sep 14 2024,18:00,CEST/+0200,FC Midtjylland,,,FC København,2024-09-14T16:00Z
-8,Sun Sep 15 2024,16:00,CEST/+0200,Vejle BK,,,Viborg FF,2024-09-15T14:00Z
-8,Sun Sep 15 2024,18:00,CEST/+0200,Brøndby IF,,,SønderjyskE,2024-09-15T16:00Z
-8,Sun Sep 15 2024,14:00,CEST/+0200,Aarhus GF,,,Silkeborg IF,2024-09-15T12:00Z
-8,Mon Sep 16 2024,19:00,CEST/+0200,FC Nordsjælland,,,Randers FC,2024-09-16T17:00Z
+8,Fri Sep 13 2024,19:00,CEST/+0200,Aalborg BK,2-1,1-0,Lyngby BK,2024-09-13T17:00Z
+8,Sat Sep 14 2024,18:00,CEST/+0200,FC Midtjylland,2-1,0-1,FC København,2024-09-14T16:00Z
+8,Sun Sep 15 2024,16:00,CEST/+0200,Vejle BK,0-5,0-1,Viborg FF,2024-09-15T14:00Z
+8,Sun Sep 15 2024,18:00,CEST/+0200,Brøndby IF,2-0,1-0,SønderjyskE,2024-09-15T16:00Z
+8,Sun Sep 15 2024,14:00,CEST/+0200,Aarhus GF,1-1,1-1,Silkeborg IF,2024-09-15T12:00Z
+8,Mon Sep 16 2024,19:00,CEST/+0200,FC Nordsjælland,1-1,0-0,Randers FC,2024-09-16T17:00Z
 9,Fri Sep 20 2024,19:00,CEST/+0200,Viborg FF,,,FC Nordsjælland,2024-09-20T17:00Z
 9,Sun Sep 22 2024,14:00,CEST/+0200,SønderjyskE,,,Vejle BK,2024-09-22T12:00Z
 9,Sun Sep 22 2024,14:00,CEST/+0200,Randers FC,,,FC Midtjylland,2024-09-22T12:00Z
@@ -65,42 +65,42 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 11,Sun Oct 6 2024,18:00,CEST/+0200,Brøndby IF,,,FC Midtjylland,2024-10-06T16:00Z
 11,Sun Oct 6 2024,20:00,CEST/+0200,Silkeborg IF,,,FC København,2024-10-06T18:00Z
 11,Sun Oct 6 2024,14:00,CEST/+0200,SønderjyskE,,,FC Nordsjælland,2024-10-06T12:00Z
-12,Sun Oct 20 2024,,,Aarhus GF,,,Brøndby IF,
-12,Sun Oct 20 2024,,,FC København,,,Vejle BK,
-12,Sun Oct 20 2024,,,FC Nordsjælland,,,Silkeborg IF,
-12,Sun Oct 20 2024,,,Lyngby BK,,,Viborg FF,
-12,Sun Oct 20 2024,,,Aalborg BK,,,Randers FC,
-12,Sun Oct 20 2024,,,SønderjyskE,,,FC Midtjylland,
-13,Sun Oct 27 2024,,,FC Midtjylland,,,Aarhus GF,
-13,Sun Oct 27 2024,,,Randers FC,,,FC Nordsjælland,
-13,Sun Oct 27 2024,,,Vejle BK,,,Lyngby BK,
-13,Sun Oct 27 2024,,,Viborg FF,,,SønderjyskE,
-13,Sun Oct 27 2024,,,Silkeborg IF,,,Aalborg BK,
-13,Sun Oct 27 2024,,,Brøndby IF,,,FC København,
-14,Sun Nov 3 2024,,,Aarhus GF,,,Lyngby BK,
-14,Sun Nov 3 2024,,,FC København,,,Silkeborg IF,
-14,Sun Nov 3 2024,,,FC Nordsjælland,,,Viborg FF,
-14,Sun Nov 3 2024,,,Aalborg BK,,,Vejle BK,
-14,Sun Nov 3 2024,,,FC Midtjylland,,,Brøndby IF,
-14,Sun Nov 3 2024,,,SønderjyskE,,,Randers FC,
-15,Sun Nov 10 2024,,,Aarhus GF,,,FC København,
-15,Sun Nov 10 2024,,,Brøndby IF,,,FC Nordsjælland,
-15,Sun Nov 10 2024,,,Viborg FF,,,FC Midtjylland,
-15,Sun Nov 10 2024,,,Silkeborg IF,,,Randers FC,
-15,Sun Nov 10 2024,,,Vejle BK,,,SønderjyskE,
-15,Sun Nov 10 2024,,,Lyngby BK,,,Aalborg BK,
-16,Sun Nov 24 2024,,,FC Midtjylland,,,Silkeborg IF,
-16,Sun Nov 24 2024,,,Randers FC,,,Vejle BK,
-16,Sun Nov 24 2024,,,Aalborg BK,,,Viborg FF,
-16,Sun Nov 24 2024,,,FC Nordsjælland,,,Aarhus GF,
-16,Sun Nov 24 2024,,,SønderjyskE,,,Brøndby IF,
-16,Sun Nov 24 2024,,,FC København,,,Lyngby BK,
-17,Sun Dec 1 2024,,,FC København,,,FC Nordsjælland,
-17,Sun Dec 1 2024,,,Lyngby BK,,,SønderjyskE,
-17,Sun Dec 1 2024,,,Silkeborg IF,,,Aarhus GF,
-17,Sun Dec 1 2024,,,Vejle BK,,,FC Midtjylland,
-17,Sun Dec 1 2024,,,Viborg FF,,,Randers FC,
-17,Sun Dec 1 2024,,,Brøndby IF,,,Aalborg BK,
+12,Fri Oct 18 2024,19:00,CEST/+0200,FC København,,,Vejle BK,2024-10-18T17:00Z
+12,Sun Oct 20 2024,14:00,CEST/+0200,Aalborg BK,,,Randers FC,2024-10-20T12:00Z
+12,Sun Oct 20 2024,16:00,CEST/+0200,FC Nordsjælland,,,Silkeborg IF,2024-10-20T14:00Z
+12,Sun Oct 20 2024,18:00,CEST/+0200,SønderjyskE,,,FC Midtjylland,2024-10-20T16:00Z
+12,Sun Oct 20 2024,14:00,CEST/+0200,Lyngby BK,,,Viborg FF,2024-10-20T12:00Z
+12,Mon Oct 21 2024,19:00,CEST/+0200,Aarhus GF,,,Brøndby IF,2024-10-21T17:00Z
+13,Fri Oct 25 2024,19:00,CEST/+0200,Silkeborg IF,,,Aalborg BK,2024-10-25T17:00Z
+13,Sun Oct 27 2024,12:00,CET/+0100,Brøndby IF,,,FC København,2024-10-27T11:00Z
+13,Sun Oct 27 2024,14:00,CET/+0100,Vejle BK,,,Lyngby BK,2024-10-27T13:00Z
+13,Sun Oct 27 2024,16:00,CET/+0100,Viborg FF,,,SønderjyskE,2024-10-27T15:00Z
+13,Sun Oct 27 2024,18:00,CET/+0100,FC Midtjylland,,,Aarhus GF,2024-10-27T17:00Z
+13,Mon Oct 28 2024,19:00,CET/+0100,Randers FC,,,FC Nordsjælland,2024-10-28T18:00Z
+14,Sat Nov 2 2024,17:00,CET/+0100,SønderjyskE,,,Randers FC,2024-11-02T16:00Z
+14,Sun Nov 3 2024,14:00,CET/+0100,FC Nordsjælland,,,Viborg FF,2024-11-03T13:00Z
+14,Sun Nov 3 2024,14:00,CET/+0100,FC Midtjylland,,,Brøndby IF,2024-11-03T13:00Z
+14,Sun Nov 3 2024,16:00,CET/+0100,Aarhus GF,,,Lyngby BK,2024-11-03T15:00Z
+14,Sun Nov 3 2024,18:00,CET/+0100,Aalborg BK,,,Vejle BK,2024-11-03T17:00Z
+14,Mon Nov 4 2024,19:00,CET/+0100,FC København,,,Silkeborg IF,2024-11-04T18:00Z
+15,Fri Nov 8 2024,19:00,CET/+0100,Vejle BK,,,SønderjyskE,2024-11-08T18:00Z
+15,Sun Nov 10 2024,14:00,CET/+0100,Lyngby BK,,,Aalborg BK,2024-11-10T13:00Z
+15,Sun Nov 10 2024,16:00,CET/+0100,Viborg FF,,,FC Midtjylland,2024-11-10T15:00Z
+15,Sun Nov 10 2024,18:00,CET/+0100,Aarhus GF,,,FC København,2024-11-10T17:00Z
+15,Sun Nov 10 2024,20:00,CET/+0100,Brøndby IF,,,FC Nordsjælland,2024-11-10T19:00Z
+15,Sun Nov 10 2024,14:00,CET/+0100,Silkeborg IF,,,Randers FC,2024-11-10T13:00Z
+16,Fri Nov 22 2024,19:00,CET/+0100,FC Nordsjælland,,,Aarhus GF,2024-11-22T18:00Z
+16,Sun Nov 24 2024,14:00,CET/+0100,Aalborg BK,,,Viborg FF,2024-11-24T13:00Z
+16,Sun Nov 24 2024,16:00,CET/+0100,SønderjyskE,,,Brøndby IF,2024-11-24T15:00Z
+16,Sun Nov 24 2024,18:00,CET/+0100,FC København,,,Lyngby BK,2024-11-24T17:00Z
+16,Sun Nov 24 2024,14:00,CET/+0100,Randers FC,,,Vejle BK,2024-11-24T13:00Z
+16,Mon Nov 25 2024,19:00,CET/+0100,FC Midtjylland,,,Silkeborg IF,2024-11-25T18:00Z
+17,Fri Nov 29 2024,19:00,CET/+0100,Brøndby IF,,,Aalborg BK,2024-11-29T18:00Z
+17,Sun Dec 1 2024,14:00,CET/+0100,Lyngby BK,,,SønderjyskE,2024-12-01T13:00Z
+17,Sun Dec 1 2024,14:00,CET/+0100,Viborg FF,,,Randers FC,2024-12-01T13:00Z
+17,Sun Dec 1 2024,16:00,CET/+0100,Vejle BK,,,FC Midtjylland,2024-12-01T15:00Z
+17,Sun Dec 1 2024,18:00,CET/+0100,Silkeborg IF,,,Aarhus GF,2024-12-01T17:00Z
+17,Mon Dec 2 2024,19:00,CET/+0100,FC København,,,FC Nordsjælland,2024-12-02T18:00Z
 18,Sun Feb 16 2025,,,Brøndby IF,,,Viborg FF,
 18,Sun Feb 16 2025,,,Silkeborg IF,,,Vejle BK,
 18,Sun Feb 16 2025,,,Aalborg BK,,,FC Nordsjælland,
@@ -119,15 +119,15 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 20,Sun Mar 2 2025,,,Randers FC,,,Aarhus GF,
 20,Sun Mar 2 2025,,,SønderjyskE,,,Silkeborg IF,
 20,Sun Mar 2 2025,,,Viborg FF,,,Vejle BK,
-21,Sun Mar 9 2025,,,Aarhus GF,,,Viborg FF,
 21,Sun Mar 9 2025,,,FC København,,,SønderjyskE,
 21,Sun Mar 9 2025,,,FC Nordsjælland,,,Vejle BK,
 21,Sun Mar 9 2025,,,Aalborg BK,,,FC Midtjylland,
 21,Sun Mar 9 2025,,,Randers FC,,,Brøndby IF,
 21,Sun Mar 9 2025,,,Silkeborg IF,,,Lyngby BK,
+21,Sun Mar 9 2025,,,Aarhus GF,,,Viborg FF,
+22,Sun Mar 16 2025,,,Brøndby IF,,,Silkeborg IF,
 22,Sun Mar 16 2025,,,FC Midtjylland,,,Randers FC,
 22,Sun Mar 16 2025,,,Lyngby BK,,,FC Nordsjælland,
 22,Sun Mar 16 2025,,,Vejle BK,,,Aarhus GF,
 22,Sun Mar 16 2025,,,Viborg FF,,,FC København,
 22,Sun Mar 16 2025,,,SønderjyskE,,,Aalborg BK,
-22,Sun Mar 16 2025,,,Brøndby IF,,,Silkeborg IF,

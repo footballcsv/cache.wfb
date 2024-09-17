@@ -1,381 +1,381 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Aug 11 2023,21:00,Burnley FC,0-3,0-2,Manchester City
-1,Sat Aug 12 2023,14:00,Arsenal FC,2-1,2-0,Nottingham Forest
-1,Sat Aug 12 2023,16:00,AFC Bournemouth,1-1,0-0,West Ham United
-1,Sat Aug 12 2023,16:00,Brighton & Hove Albion,4-1,1-0,Luton Town
-1,Sat Aug 12 2023,16:00,Everton FC,0-1,0-0,Fulham FC
-1,Sat Aug 12 2023,16:00,Sheffield United,0-1,0-0,Crystal Palace
-1,Sat Aug 12 2023,18:30,Newcastle United,5-1,2-1,Aston Villa
-1,Sun Aug 13 2023,17:30,Chelsea FC,1-1,1-1,Liverpool FC
-1,Sun Aug 13 2023,15:00,Brentford FC,2-2,2-2,Tottenham Hotspur
-1,Mon Aug 14 2023,21:00,Manchester United,1-0,0-0,Wolverhampton Wanderers
-2,Fri Aug 18 2023,20:45,Nottingham Forest,2-1,1-0,Sheffield United
-2,Sat Aug 19 2023,16:00,Liverpool FC,3-1,2-1,AFC Bournemouth
-2,Sat Aug 19 2023,16:00,Wolverhampton Wanderers,1-4,0-1,Brighton & Hove Albion
-2,Sat Aug 19 2023,18:30,Tottenham Hotspur,2-0,0-0,Manchester United
-2,Sat Aug 19 2023,21:00,Manchester City,1-0,1-0,Newcastle United
-2,Sat Aug 19 2023,16:00,Fulham FC,0-3,0-1,Brentford FC
-2,Sun Aug 20 2023,15:00,Aston Villa,4-0,2-0,Everton FC
-2,Sun Aug 20 2023,17:30,West Ham United,3-1,1-1,Chelsea FC
-2,Mon Aug 21 2023,21:00,Crystal Palace,0-1,0-0,Arsenal FC
-3,Fri Aug 25 2023,21:00,Chelsea FC,3-0,1-0,Luton Town
-3,Sat Aug 26 2023,18:30,Brighton & Hove Albion,1-3,0-1,West Ham United
-3,Sat Aug 26 2023,13:30,AFC Bournemouth,0-2,0-1,Tottenham Hotspur
-3,Sat Aug 26 2023,16:00,Arsenal FC,2-2,0-1,Fulham FC
-3,Sat Aug 26 2023,16:00,Brentford FC,1-1,1-0,Crystal Palace
-3,Sat Aug 26 2023,16:00,Everton FC,0-1,0-0,Wolverhampton Wanderers
-3,Sat Aug 26 2023,16:00,Manchester United,3-2,1-2,Nottingham Forest
-3,Sun Aug 27 2023,15:00,Burnley FC,1-3,0-2,Aston Villa
-3,Sun Aug 27 2023,15:00,Sheffield United,1-2,0-0,Manchester City
-3,Sun Aug 27 2023,17:30,Newcastle United,1-2,1-0,Liverpool FC
-4,Fri Sep 1 2023,21:00,Luton Town,1-2,0-1,West Ham United
-4,Sat Sep 2 2023,18:30,Brighton & Hove Albion,3-1,1-0,Newcastle United
-4,Sat Sep 2 2023,13:30,Sheffield United,2-2,2-1,Everton FC
-4,Sat Sep 2 2023,16:00,Brentford FC,2-2,1-1,AFC Bournemouth
-4,Sat Sep 2 2023,16:00,Burnley FC,2-5,1-2,Tottenham Hotspur
-4,Sat Sep 2 2023,16:00,Chelsea FC,0-1,0-0,Nottingham Forest
-4,Sat Sep 2 2023,16:00,Manchester City,5-1,2-1,Fulham FC
-4,Sun Sep 3 2023,15:00,Crystal Palace,3-2,0-0,Wolverhampton Wanderers
-4,Sun Sep 3 2023,15:00,Liverpool FC,3-0,2-0,Aston Villa
-4,Sun Sep 3 2023,17:30,Arsenal FC,3-1,1-1,Manchester United
-5,Sat Sep 16 2023,18:30,Newcastle United,1-0,0-0,Brentford FC
-5,Sat Sep 16 2023,13:30,Wolverhampton Wanderers,1-3,1-0,Liverpool FC
-5,Sat Sep 16 2023,16:00,Aston Villa,3-1,0-0,Crystal Palace
-5,Sat Sep 16 2023,16:00,Fulham FC,1-0,0-0,Luton Town
-5,Sat Sep 16 2023,16:00,Manchester United,1-3,0-1,Brighton & Hove Albion
-5,Sat Sep 16 2023,16:00,Tottenham Hotspur,2-1,0-0,Sheffield United
-5,Sat Sep 16 2023,16:00,West Ham United,1-3,1-0,Manchester City
-5,Sun Sep 17 2023,17:30,Everton FC,0-1,0-0,Arsenal FC
-5,Sun Sep 17 2023,15:00,AFC Bournemouth,0-0,0-0,Chelsea FC
-5,Mon Sep 18 2023,20:45,Nottingham Forest,1-1,0-1,Burnley FC
-6,Sat Sep 23 2023,16:00,Crystal Palace,0-0,0-0,Fulham FC
-6,Sat Sep 23 2023,16:00,Luton Town,1-1,0-0,Wolverhampton Wanderers
-6,Sat Sep 23 2023,16:00,Manchester City,2-0,2-0,Nottingham Forest
-6,Sat Sep 23 2023,18:30,Brentford FC,1-3,1-1,Everton FC
-6,Sat Sep 23 2023,21:00,Burnley FC,0-1,0-1,Manchester United
-6,Sun Sep 24 2023,17:30,Sheffield United,0-8,0-3,Newcastle United
-6,Sun Sep 24 2023,15:00,Arsenal FC,2-2,1-1,Tottenham Hotspur
-6,Sun Sep 24 2023,15:00,Brighton & Hove Albion,3-1,1-1,AFC Bournemouth
-6,Sun Sep 24 2023,15:00,Chelsea FC,0-1,0-0,Aston Villa
-6,Sun Sep 24 2023,15:00,Liverpool FC,3-1,1-1,West Ham United
-7,Sat Sep 30 2023,16:00,Newcastle United,2-0,1-0,Burnley FC
-7,Sat Sep 30 2023,13:30,Aston Villa,6-1,3-0,Brighton & Hove Albion
-7,Sat Sep 30 2023,16:00,AFC Bournemouth,0-4,0-2,Arsenal FC
-7,Sat Sep 30 2023,16:00,Everton FC,1-2,1-2,Luton Town
-7,Sat Sep 30 2023,16:00,Manchester United,0-1,0-1,Crystal Palace
-7,Sat Sep 30 2023,16:00,Wolverhampton Wanderers,2-1,1-0,Manchester City
-7,Sat Sep 30 2023,16:00,West Ham United,2-0,2-0,Sheffield United
-7,Sat Sep 30 2023,18:30,Tottenham Hotspur,2-1,1-1,Liverpool FC
-7,Sun Oct 1 2023,15:00,Nottingham Forest,1-1,0-0,Brentford FC
-7,Mon Oct 2 2023,21:00,Fulham FC,0-2,0-2,Chelsea FC
-2,Tue Oct 3 2023,20:30,Luton Town,1-2,0-1,Burnley FC
-8,Sat Oct 7 2023,13:30,Luton Town,0-1,0-0,Tottenham Hotspur
-8,Sat Oct 7 2023,16:00,Burnley FC,1-4,1-1,Chelsea FC
-8,Sat Oct 7 2023,16:00,Everton FC,3-0,2-0,AFC Bournemouth
-8,Sat Oct 7 2023,16:00,Fulham FC,3-1,0-0,Sheffield United
-8,Sat Oct 7 2023,16:00,Manchester United,2-1,0-1,Brentford FC
-8,Sat Oct 7 2023,18:30,Crystal Palace,0-0,0-0,Nottingham Forest
-8,Sun Oct 8 2023,15:00,West Ham United,2-2,1-0,Newcastle United
-8,Sun Oct 8 2023,15:00,Wolverhampton Wanderers,1-1,0-0,Aston Villa
-8,Sun Oct 8 2023,17:30,Arsenal FC,1-0,0-0,Manchester City
-8,Sun Oct 8 2023,15:00,Brighton & Hove Albion,2-2,1-2,Liverpool FC
-9,Sat Oct 21 2023,13:30,Liverpool FC,2-0,0-0,Everton FC
-9,Sat Oct 21 2023,16:00,AFC Bournemouth,1-2,1-0,Wolverhampton Wanderers
-9,Sat Oct 21 2023,16:00,Brentford FC,3-0,1-0,Burnley FC
-9,Sat Oct 21 2023,16:00,Manchester City,2-1,2-0,Brighton & Hove Albion
-9,Sat Oct 21 2023,16:00,Newcastle United,4-0,3-0,Crystal Palace
-9,Sat Oct 21 2023,16:00,Nottingham Forest,2-2,0-0,Luton Town
-9,Sat Oct 21 2023,18:30,Chelsea FC,2-2,1-0,Arsenal FC
-9,Sat Oct 21 2023,21:00,Sheffield United,1-2,1-1,Manchester United
-9,Sun Oct 22 2023,17:30,Aston Villa,4-1,1-0,West Ham United
-9,Mon Oct 23 2023,21:00,Tottenham Hotspur,2-0,1-0,Fulham FC
-10,Fri Oct 27 2023,21:00,Crystal Palace,1-2,0-0,Tottenham Hotspur
-10,Sat Oct 28 2023,16:00,AFC Bournemouth,2-1,1-1,Burnley FC
-10,Sat Oct 28 2023,16:00,Arsenal FC,5-0,1-0,Sheffield United
-10,Sat Oct 28 2023,18:30,Wolverhampton Wanderers,2-2,1-2,Newcastle United
-10,Sat Oct 28 2023,13:30,Chelsea FC,0-2,0-0,Brentford FC
-10,Sun Oct 29 2023,14:00,West Ham United,0-1,0-0,Everton FC
-10,Sun Oct 29 2023,15:00,Aston Villa,3-1,1-0,Luton Town
-10,Sun Oct 29 2023,15:00,Brighton & Hove Albion,1-1,1-0,Fulham FC
-10,Sun Oct 29 2023,15:00,Liverpool FC,3-0,2-0,Nottingham Forest
-10,Sun Oct 29 2023,16:30,Manchester United,0-3,0-1,Manchester City
-11,Sat Nov 4 2023,13:30,Fulham FC,0-1,0-0,Manchester United
-11,Sat Nov 4 2023,16:00,Brentford FC,3-2,1-2,West Ham United
-11,Sat Nov 4 2023,16:00,Burnley FC,0-2,0-1,Crystal Palace
-11,Sat Nov 4 2023,16:00,Everton FC,1-1,1-0,Brighton & Hove Albion
-11,Sat Nov 4 2023,16:00,Manchester City,6-1,3-0,AFC Bournemouth
-11,Sat Nov 4 2023,16:00,Sheffield United,2-1,0-0,Wolverhampton Wanderers
-11,Sat Nov 4 2023,18:30,Newcastle United,1-0,0-0,Arsenal FC
-11,Sun Nov 5 2023,17:30,Luton Town,1-1,0-0,Liverpool FC
-11,Sun Nov 5 2023,15:00,Nottingham Forest,2-0,1-0,Aston Villa
-11,Mon Nov 6 2023,21:00,Tottenham Hotspur,1-4,1-1,Chelsea FC
-12,Sat Nov 11 2023,13:30,Wolverhampton Wanderers,2-1,0-1,Tottenham Hotspur
-12,Sat Nov 11 2023,16:00,Arsenal FC,3-1,1-0,Burnley FC
-12,Sat Nov 11 2023,16:00,Crystal Palace,2-3,1-1,Everton FC
-12,Sat Nov 11 2023,16:00,Manchester United,1-0,0-0,Luton Town
-12,Sat Nov 11 2023,18:30,AFC Bournemouth,2-0,0-0,Newcastle United
-12,Sun Nov 12 2023,15:00,Brighton & Hove Albion,1-1,1-0,Sheffield United
-12,Sun Nov 12 2023,15:00,Liverpool FC,3-0,1-0,Brentford FC
-12,Sun Nov 12 2023,15:00,West Ham United,3-2,1-1,Nottingham Forest
-12,Sun Nov 12 2023,17:30,Chelsea FC,4-4,2-2,Manchester City
-12,Sun Nov 12 2023,15:00,Aston Villa,3-1,2-0,Fulham FC
-13,Sat Nov 25 2023,13:30,Manchester City,1-1,1-0,Liverpool FC
-13,Sat Nov 25 2023,16:00,Burnley FC,1-2,0-0,West Ham United
-13,Sat Nov 25 2023,16:00,Luton Town,2-1,0-0,Crystal Palace
-13,Sat Nov 25 2023,16:00,Newcastle United,4-1,1-1,Chelsea FC
-13,Sat Nov 25 2023,16:00,Nottingham Forest,2-3,1-2,Brighton & Hove Albion
-13,Sat Nov 25 2023,16:00,Sheffield United,1-3,0-2,AFC Bournemouth
-13,Sat Nov 25 2023,18:30,Brentford FC,0-1,0-0,Arsenal FC
-13,Sun Nov 26 2023,17:30,Everton FC,0-3,0-1,Manchester United
-13,Sun Nov 26 2023,15:00,Tottenham Hotspur,1-2,1-1,Aston Villa
-13,Mon Nov 27 2023,21:00,Fulham FC,3-2,1-1,Wolverhampton Wanderers
-14,Sat Dec 2 2023,16:00,Arsenal FC,2-1,2-0,Wolverhampton Wanderers
-14,Sat Dec 2 2023,16:00,Brentford FC,3-1,0-0,Luton Town
-14,Sat Dec 2 2023,16:00,Burnley FC,5-0,2-0,Sheffield United
-14,Sat Dec 2 2023,18:30,Nottingham Forest,0-1,0-0,Everton FC
-14,Sat Dec 2 2023,21:00,Newcastle United,1-0,0-0,Manchester United
-14,Sun Dec 3 2023,15:00,Chelsea FC,3-2,2-1,Brighton & Hove Albion
-14,Sun Dec 3 2023,15:00,Liverpool FC,4-3,2-2,Fulham FC
-14,Sun Dec 3 2023,15:00,West Ham United,1-1,1-0,Crystal Palace
-14,Sun Dec 3 2023,17:30,Manchester City,3-3,2-1,Tottenham Hotspur
-14,Sun Dec 3 2023,15:00,AFC Bournemouth,2-2,1-1,Aston Villa
-15,Tue Dec 5 2023,21:15,Luton Town,3-4,1-2,Arsenal FC
-15,Tue Dec 5 2023,20:30,Wolverhampton Wanderers,1-0,1-0,Burnley FC
-15,Wed Dec 6 2023,20:30,Brighton & Hove Albion,2-1,1-1,Brentford FC
-15,Wed Dec 6 2023,20:30,Fulham FC,5-0,2-0,Nottingham Forest
-15,Wed Dec 6 2023,20:30,Sheffield United,0-2,0-1,Liverpool FC
-15,Wed Dec 6 2023,20:30,Crystal Palace,0-2,0-1,AFC Bournemouth
-15,Wed Dec 6 2023,21:15,Aston Villa,1-0,0-0,Manchester City
-15,Wed Dec 6 2023,21:15,Manchester United,2-1,1-1,Chelsea FC
-15,Thu Dec 7 2023,21:15,Tottenham Hotspur,1-2,1-0,West Ham United
-15,Thu Dec 7 2023,20:30,Everton FC,3-0,0-0,Newcastle United
-16,Sat Dec 9 2023,16:00,Brighton & Hove Albion,1-1,0-1,Burnley FC
-16,Sat Dec 9 2023,16:00,Manchester United,0-3,0-1,AFC Bournemouth
-16,Sat Dec 9 2023,16:00,Sheffield United,1-0,1-0,Brentford FC
-16,Sat Dec 9 2023,16:00,Wolverhampton Wanderers,1-1,1-1,Nottingham Forest
-16,Sat Dec 9 2023,18:30,Aston Villa,1-0,1-0,Arsenal FC
-16,Sat Dec 9 2023,13:30,Crystal Palace,1-2,0-0,Liverpool FC
-16,Sun Dec 10 2023,15:00,Everton FC,2-0,0-0,Chelsea FC
-16,Sun Dec 10 2023,15:00,Fulham FC,5-0,3-0,West Ham United
-16,Sun Dec 10 2023,15:00,Luton Town,1-2,1-0,Manchester City
-16,Sun Dec 10 2023,17:30,Tottenham Hotspur,4-1,2-0,Newcastle United
-17,Fri Dec 15 2023,21:00,Nottingham Forest,0-2,0-1,Tottenham Hotspur
-17,Sat Dec 16 2023,16:00,Manchester City,2-2,1-0,Crystal Palace
-17,Sat Dec 16 2023,16:00,Newcastle United,3-0,0-0,Fulham FC
-17,Sat Dec 16 2023,18:30,Burnley FC,0-2,0-2,Everton FC
-17,Sat Dec 16 2023,16:00,Chelsea FC,2-0,0-0,Sheffield United
-17,Sun Dec 17 2023,15:00,Arsenal FC,2-0,0-0,Brighton & Hove Albion
-17,Sun Dec 17 2023,15:00,Brentford FC,1-2,1-0,Aston Villa
-17,Sun Dec 17 2023,15:00,West Ham United,3-0,2-0,Wolverhampton Wanderers
-17,Sun Dec 17 2023,17:30,Liverpool FC,0-0,0-0,Manchester United
-18,Thu Dec 21 2023,21:00,Crystal Palace,1-1,1-0,Brighton & Hove Albion
-18,Fri Dec 22 2023,21:00,Aston Villa,1-1,0-0,Sheffield United
-18,Sat Dec 23 2023,13:30,West Ham United,2-0,0-0,Manchester United
-18,Sat Dec 23 2023,16:00,Fulham FC,0-2,0-0,Burnley FC
-18,Sat Dec 23 2023,16:00,Luton Town,1-0,1-0,Newcastle United
-18,Sat Dec 23 2023,16:00,Nottingham Forest,2-3,0-0,AFC Bournemouth
-18,Sat Dec 23 2023,16:00,Tottenham Hotspur,2-1,2-0,Everton FC
-18,Sat Dec 23 2023,18:30,Liverpool FC,1-1,1-1,Arsenal FC
-18,Sun Dec 24 2023,14:00,Wolverhampton Wanderers,2-1,0-0,Chelsea FC
-19,Tue Dec 26 2023,18:30,Burnley FC,0-2,0-1,Liverpool FC
-19,Tue Dec 26 2023,13:30,Newcastle United,1-3,1-1,Nottingham Forest
-19,Tue Dec 26 2023,16:00,AFC Bournemouth,3-0,1-0,Fulham FC
-19,Tue Dec 26 2023,16:00,Sheffield United,2-3,0-1,Luton Town
-19,Tue Dec 26 2023,21:00,Manchester United,3-2,0-2,Aston Villa
-19,Wed Dec 27 2023,20:30,Chelsea FC,2-1,1-1,Crystal Palace
-19,Wed Dec 27 2023,21:15,Everton FC,1-3,1-0,Manchester City
-19,Wed Dec 27 2023,20:30,Brentford FC,1-4,1-3,Wolverhampton Wanderers
-19,Thu Dec 28 2023,21:15,Arsenal FC,0-2,0-1,West Ham United
-19,Thu Dec 28 2023,20:30,Brighton & Hove Albion,4-2,2-0,Tottenham Hotspur
-20,Sat Dec 30 2023,18:30,Nottingham Forest,2-1,0-0,Manchester United
-20,Sat Dec 30 2023,16:00,Wolverhampton Wanderers,3-0,1-0,Everton FC
-20,Sat Dec 30 2023,13:30,Luton Town,2-3,0-2,Chelsea FC
-20,Sat Dec 30 2023,16:00,Aston Villa,3-2,2-1,Burnley FC
-20,Sat Dec 30 2023,16:00,Crystal Palace,3-1,2-1,Brentford FC
-20,Sat Dec 30 2023,16:00,Manchester City,2-0,1-0,Sheffield United
-20,Sun Dec 31 2023,15:00,Fulham FC,2-1,1-1,Arsenal FC
-20,Sun Dec 31 2023,15:00,Tottenham Hotspur,3-1,1-0,AFC Bournemouth
-20,Mon Jan 1 2024,21:00,Liverpool FC,4-2,0-0,Newcastle United
-20,Tue Jan 2 2024,20:30,West Ham United,0-0,0-0,Brighton & Hove Albion
-21,Fri Jan 12 2024,20:45,Burnley FC,1-1,1-0,Luton Town
-21,Sat Jan 13 2024,13:30,Chelsea FC,1-0,1-0,Fulham FC
-21,Sat Jan 13 2024,18:30,Newcastle United,2-3,2-1,Manchester City
-21,Sun Jan 14 2024,15:00,Everton FC,0-0,0-0,Aston Villa
-21,Sun Jan 14 2024,17:30,Manchester United,2-2,2-1,Tottenham Hotspur
-21,Sat Jan 20 2024,18:30,Brentford FC,3-2,1-1,Nottingham Forest
-21,Sat Jan 20 2024,13:30,Arsenal FC,5-0,2-0,Crystal Palace
-21,Sun Jan 21 2024,15:00,Sheffield United,2-2,1-1,West Ham United
-21,Sun Jan 21 2024,17:30,AFC Bournemouth,0-4,0-0,Liverpool FC
-21,Mon Jan 22 2024,20:45,Brighton & Hove Albion,0-0,0-0,Wolverhampton Wanderers
-22,Tue Jan 30 2024,21:15,Aston Villa,1-3,0-2,Newcastle United
-22,Tue Jan 30 2024,21:00,Crystal Palace,3-2,2-2,Sheffield United
-22,Tue Jan 30 2024,20:30,Nottingham Forest,1-2,0-0,Arsenal FC
-22,Tue Jan 30 2024,20:45,Luton Town,4-0,3-0,Brighton & Hove Albion
-22,Tue Jan 30 2024,20:45,Fulham FC,0-0,0-0,Everton FC
-22,Wed Jan 31 2024,20:30,Tottenham Hotspur,3-2,0-1,Brentford FC
-22,Wed Jan 31 2024,20:30,Manchester City,3-1,2-0,Burnley FC
-22,Wed Jan 31 2024,21:15,Liverpool FC,4-1,2-0,Chelsea FC
-22,Thu Feb 1 2024,21:15,Wolverhampton Wanderers,3-4,0-2,Manchester United
-22,Thu Feb 1 2024,20:30,West Ham United,1-1,0-1,AFC Bournemouth
-23,Sat Feb 3 2024,16:00,Newcastle United,4-4,2-2,Luton Town
-23,Sat Feb 3 2024,16:00,Brighton & Hove Albion,4-1,3-0,Crystal Palace
-23,Sat Feb 3 2024,13:30,Everton FC,2-2,1-2,Tottenham Hotspur
-23,Sat Feb 3 2024,16:00,Burnley FC,2-2,0-2,Fulham FC
-23,Sat Feb 3 2024,18:30,Sheffield United,0-5,0-4,Aston Villa
-23,Sun Feb 4 2024,17:30,Arsenal FC,3-1,1-1,Liverpool FC
-23,Sun Feb 4 2024,15:00,Chelsea FC,2-4,1-2,Wolverhampton Wanderers
-23,Sun Feb 4 2024,15:00,AFC Bournemouth,1-1,1-1,Nottingham Forest
-23,Sun Feb 4 2024,15:00,Manchester United,3-0,1-0,West Ham United
-23,Mon Feb 5 2024,21:00,Brentford FC,1-3,1-1,Manchester City
-24,Sat Feb 10 2024,16:00,Wolverhampton Wanderers,0-2,0-1,Brentford FC
-24,Sat Feb 10 2024,16:00,Liverpool FC,3-1,1-1,Burnley FC
-24,Sat Feb 10 2024,13:30,Manchester City,2-0,0-0,Everton FC
-24,Sat Feb 10 2024,16:00,Fulham FC,3-1,2-0,AFC Bournemouth
-24,Sat Feb 10 2024,18:30,Nottingham Forest,2-3,2-2,Newcastle United
-24,Sat Feb 10 2024,16:00,Luton Town,1-3,0-2,Sheffield United
-24,Sat Feb 10 2024,16:00,Tottenham Hotspur,2-1,0-1,Brighton & Hove Albion
-24,Sun Feb 11 2024,17:30,Aston Villa,1-2,0-1,Manchester United
-24,Sun Feb 11 2024,15:00,West Ham United,0-6,0-4,Arsenal FC
-24,Mon Feb 12 2024,21:00,Crystal Palace,1-3,1-0,Chelsea FC
-25,Sat Feb 17 2024,16:00,Tottenham Hotspur,1-2,0-1,Wolverhampton Wanderers
-25,Sat Feb 17 2024,16:00,Fulham FC,1-2,0-1,Aston Villa
-25,Sat Feb 17 2024,13:30,Brentford FC,1-4,0-1,Liverpool FC
-25,Sat Feb 17 2024,16:00,Burnley FC,0-5,0-2,Arsenal FC
-25,Sat Feb 17 2024,18:30,Manchester City,1-1,0-1,Chelsea FC
-25,Sat Feb 17 2024,16:00,Newcastle United,2-2,0-0,AFC Bournemouth
-25,Sat Feb 17 2024,16:00,Nottingham Forest,2-0,1-0,West Ham United
-25,Sun Feb 18 2024,15:00,Sheffield United,0-5,0-2,Brighton & Hove Albion
-25,Sun Feb 18 2024,17:30,Luton Town,1-2,1-2,Manchester United
-25,Mon Feb 19 2024,21:00,Everton FC,1-1,0-0,Crystal Palace
-18,Tue Feb 20 2024,20:30,Manchester City,1-0,0-0,Brentford FC
-26,Wed Feb 21 2024,20:30,Liverpool FC,4-1,0-1,Luton Town
-26,Sat Feb 24 2024,16:00,Manchester United,1-2,0-0,Fulham FC
-26,Sat Feb 24 2024,16:00,Aston Villa,4-2,3-1,Nottingham Forest
-26,Sat Feb 24 2024,16:00,Brighton & Hove Albion,1-1,0-0,Everton FC
-26,Sat Feb 24 2024,16:00,Crystal Palace,3-0,0-0,Burnley FC
-26,Sat Feb 24 2024,21:00,Arsenal FC,4-1,2-0,Newcastle United
-26,Sat Feb 24 2024,18:30,AFC Bournemouth,0-1,0-1,Manchester City
-26,Sun Feb 25 2024,14:30,Wolverhampton Wanderers,1-0,1-0,Sheffield United
-26,Mon Feb 26 2024,21:00,West Ham United,4-2,2-1,Brentford FC
-27,Sat Mar 2 2024,18:30,Luton Town,2-3,0-2,Aston Villa
-27,Sat Mar 2 2024,16:00,Tottenham Hotspur,3-1,0-0,Crystal Palace
-27,Sat Mar 2 2024,16:00,Brentford FC,2-2,0-1,Chelsea FC
-27,Sat Mar 2 2024,16:00,Everton FC,1-3,0-0,West Ham United
-27,Sat Mar 2 2024,16:00,Fulham FC,3-0,2-0,Brighton & Hove Albion
-27,Sat Mar 2 2024,16:00,Newcastle United,3-0,2-0,Wolverhampton Wanderers
-27,Sat Mar 2 2024,16:00,Nottingham Forest,0-1,0-0,Liverpool FC
-27,Sun Mar 3 2024,16:30,Manchester City,3-1,0-1,Manchester United
-27,Sun Mar 3 2024,14:00,Burnley FC,0-2,0-1,AFC Bournemouth
-27,Mon Mar 4 2024,21:00,Sheffield United,0-6,0-5,Arsenal FC
-28,Sat Mar 9 2024,16:00,Wolverhampton Wanderers,2-1,0-0,Fulham FC
-28,Sat Mar 9 2024,18:30,Arsenal FC,2-1,1-1,Brentford FC
-28,Sat Mar 9 2024,13:30,Manchester United,2-0,2-0,Everton FC
-28,Sat Mar 9 2024,16:00,AFC Bournemouth,2-2,0-1,Sheffield United
-28,Sat Mar 9 2024,16:00,Crystal Palace,1-1,1-0,Luton Town
-28,Sun Mar 10 2024,15:00,West Ham United,2-2,0-2,Burnley FC
-28,Sun Mar 10 2024,14:00,Aston Villa,0-4,0-0,Tottenham Hotspur
-28,Sun Mar 10 2024,15:00,Brighton & Hove Albion,1-0,1-0,Nottingham Forest
-28,Sun Mar 10 2024,16:45,Liverpool FC,1-1,0-1,Manchester City
-28,Mon Mar 11 2024,21:00,Chelsea FC,3-2,1-1,Newcastle United
-17,Wed Mar 13 2024,20:30,AFC Bournemouth,4-3,0-3,Luton Town
-29,Sat Mar 16 2024,16:00,Luton Town,1-1,0-1,Nottingham Forest
-29,Sat Mar 16 2024,16:00,Burnley FC,2-1,1-0,Brentford FC
-29,Sat Mar 16 2024,18:30,Fulham FC,3-0,1-0,Tottenham Hotspur
-29,Sun Mar 17 2024,15:00,West Ham United,1-1,1-0,Aston Villa
-30,Sat Mar 30 2024,21:00,Brentford FC,1-1,0-0,Manchester United
-30,Sat Mar 30 2024,16:00,Tottenham Hotspur,2-1,0-1,Luton Town
-30,Sat Mar 30 2024,16:00,Sheffield United,3-3,0-0,Fulham FC
-30,Sat Mar 30 2024,16:00,Nottingham Forest,1-1,0-1,Crystal Palace
-30,Sat Mar 30 2024,16:00,Chelsea FC,2-2,1-0,Burnley FC
-30,Sat Mar 30 2024,16:00,AFC Bournemouth,2-1,0-0,Everton FC
-30,Sat Mar 30 2024,13:30,Newcastle United,4-3,1-2,West Ham United
-30,Sat Mar 30 2024,18:30,Aston Villa,2-0,1-0,Wolverhampton Wanderers
-30,Sun Mar 31 2024,17:30,Manchester City,0-0,0-0,Arsenal FC
-30,Sun Mar 31 2024,15:00,Liverpool FC,2-1,1-1,Brighton & Hove Albion
-31,Tue Apr 2 2024,20:45,Burnley FC,1-1,1-1,Wolverhampton Wanderers
-31,Tue Apr 2 2024,21:15,West Ham United,1-1,1-1,Tottenham Hotspur
-31,Tue Apr 2 2024,20:45,AFC Bournemouth,1-0,0-0,Crystal Palace
-31,Tue Apr 2 2024,20:30,Newcastle United,1-1,1-0,Everton FC
-31,Tue Apr 2 2024,20:30,Nottingham Forest,3-1,3-0,Fulham FC
-31,Wed Apr 3 2024,21:15,Manchester City,4-1,2-1,Aston Villa
-31,Wed Apr 3 2024,20:30,Brentford FC,0-0,0-0,Brighton & Hove Albion
-31,Wed Apr 3 2024,20:30,Arsenal FC,2-0,2-0,Luton Town
-31,Thu Apr 4 2024,21:15,Chelsea FC,4-3,2-2,Manchester United
-31,Thu Apr 4 2024,20:30,Liverpool FC,3-1,1-0,Sheffield United
-32,Sat Apr 6 2024,13:30,Crystal Palace,2-4,1-1,Manchester City
-32,Sat Apr 6 2024,16:00,Luton Town,2-1,0-0,AFC Bournemouth
-32,Sat Apr 6 2024,16:00,Wolverhampton Wanderers,1-2,1-0,West Ham United
-32,Sat Apr 6 2024,18:30,Brighton & Hove Albion,0-3,0-1,Arsenal FC
-32,Sat Apr 6 2024,16:00,Aston Villa,3-3,1-0,Brentford FC
-32,Sat Apr 6 2024,16:00,Everton FC,1-0,1-0,Burnley FC
-32,Sat Apr 6 2024,16:00,Fulham FC,0-1,0-0,Newcastle United
-32,Sun Apr 7 2024,16:30,Manchester United,2-2,0-1,Liverpool FC
-32,Sun Apr 7 2024,19:00,Tottenham Hotspur,3-1,1-1,Nottingham Forest
-32,Sun Apr 7 2024,18:30,Sheffield United,2-2,1-1,Chelsea FC
-33,Sat Apr 13 2024,18:30,AFC Bournemouth,2-2,2-1,Manchester United
-33,Sat Apr 13 2024,13:30,Newcastle United,4-0,2-0,Tottenham Hotspur
-33,Sat Apr 13 2024,16:00,Brentford FC,2-0,0-0,Sheffield United
-33,Sat Apr 13 2024,16:00,Nottingham Forest,2-2,1-1,Wolverhampton Wanderers
-33,Sat Apr 13 2024,16:00,Manchester City,5-1,1-0,Luton Town
-33,Sat Apr 13 2024,16:00,Burnley FC,1-1,0-0,Brighton & Hove Albion
-33,Sun Apr 14 2024,17:30,Arsenal FC,0-2,0-0,Aston Villa
-33,Sun Apr 14 2024,15:00,West Ham United,0-2,0-1,Fulham FC
-33,Sun Apr 14 2024,15:00,Liverpool FC,0-1,0-1,Crystal Palace
-33,Mon Apr 15 2024,21:00,Chelsea FC,6-0,4-0,Everton FC
-34,Sat Apr 20 2024,16:00,Sheffield United,1-4,0-2,Burnley FC
-34,Sat Apr 20 2024,16:00,Luton Town,1-5,0-2,Brentford FC
-34,Sat Apr 20 2024,20:30,Wolverhampton Wanderers,0-2,0-1,Arsenal FC
-34,Sun Apr 21 2024,17:30,Fulham FC,1-3,1-1,Liverpool FC
-34,Sun Apr 21 2024,16:00,Crystal Palace,5-2,4-1,West Ham United
-34,Sun Apr 21 2024,14:30,Everton FC,2-0,1-0,Nottingham Forest
-34,Sun Apr 21 2024,16:00,Aston Villa,3-1,1-1,AFC Bournemouth
-29,Tue Apr 23 2024,21:00,Arsenal FC,5-0,1-0,Chelsea FC
-29,Wed Apr 24 2024,20:45,Wolverhampton Wanderers,0-1,0-1,AFC Bournemouth
-29,Wed Apr 24 2024,21:00,Crystal Palace,2-0,0-0,Newcastle United
-29,Wed Apr 24 2024,21:00,Everton FC,2-0,1-0,Liverpool FC
-29,Wed Apr 24 2024,21:00,Manchester United,4-2,1-1,Sheffield United
-29,Thu Apr 25 2024,21:00,Brighton & Hove Albion,0-4,0-3,Manchester City
-35,Sat Apr 27 2024,21:00,Aston Villa,2-2,2-0,Chelsea FC
-35,Sat Apr 27 2024,18:30,Everton FC,1-0,0-0,Brentford FC
-35,Sat Apr 27 2024,16:00,Wolverhampton Wanderers,2-1,1-0,Luton Town
-35,Sat Apr 27 2024,16:00,Newcastle United,5-1,1-1,Sheffield United
-35,Sat Apr 27 2024,13:30,West Ham United,2-2,1-0,Liverpool FC
-35,Sat Apr 27 2024,16:00,Fulham FC,1-1,0-0,Crystal Palace
-35,Sat Apr 27 2024,16:00,Manchester United,1-1,0-0,Burnley FC
-35,Sun Apr 28 2024,15:00,AFC Bournemouth,3-0,1-0,Brighton & Hove Albion
-35,Sun Apr 28 2024,15:00,Tottenham Hotspur,2-3,0-3,Arsenal FC
-35,Sun Apr 28 2024,17:30,Nottingham Forest,0-2,0-1,Manchester City
-26,Thu May 2 2024,20:30,Chelsea FC,2-0,1-0,Tottenham Hotspur
-36,Fri May 3 2024,21:00,Luton Town,1-1,1-1,Everton FC
-36,Sat May 4 2024,18:30,Manchester City,5-1,3-0,Wolverhampton Wanderers
-36,Sat May 4 2024,16:00,Burnley FC,1-4,0-3,Newcastle United
-36,Sat May 4 2024,16:00,Sheffield United,1-3,1-1,Nottingham Forest
-36,Sat May 4 2024,13:30,Arsenal FC,3-0,1-0,AFC Bournemouth
-36,Sat May 4 2024,16:00,Brentford FC,0-0,0-0,Fulham FC
-36,Sun May 5 2024,15:00,Chelsea FC,5-0,3-0,West Ham United
-36,Sun May 5 2024,15:00,Brighton & Hove Albion,1-0,0-0,Aston Villa
-36,Sun May 5 2024,17:30,Liverpool FC,4-2,2-0,Tottenham Hotspur
-36,Mon May 6 2024,21:00,Crystal Palace,4-0,2-0,Manchester United
-37,Sat May 11 2024,16:00,Wolverhampton Wanderers,1-3,0-2,Crystal Palace
-37,Sat May 11 2024,18:30,Nottingham Forest,2-3,1-1,Chelsea FC
-37,Sat May 11 2024,16:00,Newcastle United,1-1,1-1,Brighton & Hove Albion
-37,Sat May 11 2024,13:30,Fulham FC,0-4,0-1,Manchester City
-37,Sat May 11 2024,16:00,AFC Bournemouth,1-2,0-0,Brentford FC
-37,Sat May 11 2024,16:00,Everton FC,1-0,1-0,Sheffield United
-37,Sat May 11 2024,16:00,Tottenham Hotspur,2-1,1-1,Burnley FC
-37,Sat May 11 2024,16:00,West Ham United,3-1,0-1,Luton Town
-37,Sun May 12 2024,17:30,Manchester United,0-1,0-1,Arsenal FC
-37,Mon May 13 2024,21:00,Aston Villa,3-3,1-2,Liverpool FC
-34,Tue May 14 2024,21:00,Tottenham Hotspur,0-2,0-0,Manchester City
-34,Wed May 15 2024,21:00,Manchester United,3-2,1-0,Newcastle United
-34,Wed May 15 2024,20:45,Brighton & Hove Albion,1-2,0-1,Chelsea FC
-38,Sun May 19 2024,17:00,Arsenal FC,2-1,1-1,Everton FC
-38,Sun May 19 2024,17:00,Brentford FC,2-4,0-3,Newcastle United
-38,Sun May 19 2024,17:00,Brighton & Hove Albion,0-2,0-0,Manchester United
-38,Sun May 19 2024,17:00,Burnley FC,1-2,0-2,Nottingham Forest
-38,Sun May 19 2024,17:00,Chelsea FC,2-1,1-0,AFC Bournemouth
-38,Sun May 19 2024,17:00,Crystal Palace,5-0,2-0,Aston Villa
-38,Sun May 19 2024,17:00,Liverpool FC,2-0,2-0,Wolverhampton Wanderers
-38,Sun May 19 2024,17:00,Luton Town,2-4,1-2,Fulham FC
-38,Sun May 19 2024,17:00,Manchester City,3-1,2-1,West Ham United
-38,Sun May 19 2024,17:00,Sheffield United,0-3,0-1,Tottenham Hotspur
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 11 2023,20:00,BST/+0100,Burnley FC,0-3,0-2,Manchester City,2023-08-11T19:00Z
+1,Sat Aug 12 2023,13:00,BST/+0100,Arsenal FC,2-1,2-0,Nottingham Forest,2023-08-12T12:00Z
+1,Sat Aug 12 2023,15:00,BST/+0100,AFC Bournemouth,1-1,0-0,West Ham United,2023-08-12T14:00Z
+1,Sat Aug 12 2023,15:00,BST/+0100,Brighton & Hove Albion,4-1,1-0,Luton Town,2023-08-12T14:00Z
+1,Sat Aug 12 2023,15:00,BST/+0100,Everton FC,0-1,0-0,Fulham FC,2023-08-12T14:00Z
+1,Sat Aug 12 2023,15:00,BST/+0100,Sheffield United,0-1,0-0,Crystal Palace,2023-08-12T14:00Z
+1,Sat Aug 12 2023,17:30,BST/+0100,Newcastle United,5-1,2-1,Aston Villa,2023-08-12T16:30Z
+1,Sun Aug 13 2023,16:30,BST/+0100,Chelsea FC,1-1,1-1,Liverpool FC,2023-08-13T15:30Z
+1,Sun Aug 13 2023,14:00,BST/+0100,Brentford FC,2-2,2-2,Tottenham Hotspur,2023-08-13T13:00Z
+1,Mon Aug 14 2023,20:00,BST/+0100,Manchester United,1-0,0-0,Wolverhampton Wanderers,2023-08-14T19:00Z
+2,Fri Aug 18 2023,19:45,BST/+0100,Nottingham Forest,2-1,1-0,Sheffield United,2023-08-18T18:45Z
+2,Sat Aug 19 2023,15:00,BST/+0100,Liverpool FC,3-1,2-1,AFC Bournemouth,2023-08-19T14:00Z
+2,Sat Aug 19 2023,15:00,BST/+0100,Wolverhampton Wanderers,1-4,0-1,Brighton & Hove Albion,2023-08-19T14:00Z
+2,Sat Aug 19 2023,17:30,BST/+0100,Tottenham Hotspur,2-0,0-0,Manchester United,2023-08-19T16:30Z
+2,Sat Aug 19 2023,20:00,BST/+0100,Manchester City,1-0,1-0,Newcastle United,2023-08-19T19:00Z
+2,Sat Aug 19 2023,15:00,BST/+0100,Fulham FC,0-3,0-1,Brentford FC,2023-08-19T14:00Z
+2,Sun Aug 20 2023,14:00,BST/+0100,Aston Villa,4-0,2-0,Everton FC,2023-08-20T13:00Z
+2,Sun Aug 20 2023,16:30,BST/+0100,West Ham United,3-1,1-1,Chelsea FC,2023-08-20T15:30Z
+2,Mon Aug 21 2023,20:00,BST/+0100,Crystal Palace,0-1,0-0,Arsenal FC,2023-08-21T19:00Z
+3,Fri Aug 25 2023,20:00,BST/+0100,Chelsea FC,3-0,1-0,Luton Town,2023-08-25T19:00Z
+3,Sat Aug 26 2023,17:30,BST/+0100,Brighton & Hove Albion,1-3,0-1,West Ham United,2023-08-26T16:30Z
+3,Sat Aug 26 2023,12:30,BST/+0100,AFC Bournemouth,0-2,0-1,Tottenham Hotspur,2023-08-26T11:30Z
+3,Sat Aug 26 2023,15:00,BST/+0100,Arsenal FC,2-2,0-1,Fulham FC,2023-08-26T14:00Z
+3,Sat Aug 26 2023,15:00,BST/+0100,Brentford FC,1-1,1-0,Crystal Palace,2023-08-26T14:00Z
+3,Sat Aug 26 2023,15:00,BST/+0100,Everton FC,0-1,0-0,Wolverhampton Wanderers,2023-08-26T14:00Z
+3,Sat Aug 26 2023,15:00,BST/+0100,Manchester United,3-2,1-2,Nottingham Forest,2023-08-26T14:00Z
+3,Sun Aug 27 2023,14:00,BST/+0100,Burnley FC,1-3,0-2,Aston Villa,2023-08-27T13:00Z
+3,Sun Aug 27 2023,14:00,BST/+0100,Sheffield United,1-2,0-0,Manchester City,2023-08-27T13:00Z
+3,Sun Aug 27 2023,16:30,BST/+0100,Newcastle United,1-2,1-0,Liverpool FC,2023-08-27T15:30Z
+4,Fri Sep 1 2023,20:00,BST/+0100,Luton Town,1-2,0-1,West Ham United,2023-09-01T19:00Z
+4,Sat Sep 2 2023,17:30,BST/+0100,Brighton & Hove Albion,3-1,1-0,Newcastle United,2023-09-02T16:30Z
+4,Sat Sep 2 2023,12:30,BST/+0100,Sheffield United,2-2,2-1,Everton FC,2023-09-02T11:30Z
+4,Sat Sep 2 2023,15:00,BST/+0100,Brentford FC,2-2,1-1,AFC Bournemouth,2023-09-02T14:00Z
+4,Sat Sep 2 2023,15:00,BST/+0100,Burnley FC,2-5,1-2,Tottenham Hotspur,2023-09-02T14:00Z
+4,Sat Sep 2 2023,15:00,BST/+0100,Chelsea FC,0-1,0-0,Nottingham Forest,2023-09-02T14:00Z
+4,Sat Sep 2 2023,15:00,BST/+0100,Manchester City,5-1,2-1,Fulham FC,2023-09-02T14:00Z
+4,Sun Sep 3 2023,14:00,BST/+0100,Crystal Palace,3-2,0-0,Wolverhampton Wanderers,2023-09-03T13:00Z
+4,Sun Sep 3 2023,14:00,BST/+0100,Liverpool FC,3-0,2-0,Aston Villa,2023-09-03T13:00Z
+4,Sun Sep 3 2023,16:30,BST/+0100,Arsenal FC,3-1,1-1,Manchester United,2023-09-03T15:30Z
+5,Sat Sep 16 2023,17:30,BST/+0100,Newcastle United,1-0,0-0,Brentford FC,2023-09-16T16:30Z
+5,Sat Sep 16 2023,12:30,BST/+0100,Wolverhampton Wanderers,1-3,1-0,Liverpool FC,2023-09-16T11:30Z
+5,Sat Sep 16 2023,15:00,BST/+0100,Aston Villa,3-1,0-0,Crystal Palace,2023-09-16T14:00Z
+5,Sat Sep 16 2023,15:00,BST/+0100,Fulham FC,1-0,0-0,Luton Town,2023-09-16T14:00Z
+5,Sat Sep 16 2023,15:00,BST/+0100,Manchester United,1-3,0-1,Brighton & Hove Albion,2023-09-16T14:00Z
+5,Sat Sep 16 2023,15:00,BST/+0100,Tottenham Hotspur,2-1,0-0,Sheffield United,2023-09-16T14:00Z
+5,Sat Sep 16 2023,15:00,BST/+0100,West Ham United,1-3,1-0,Manchester City,2023-09-16T14:00Z
+5,Sun Sep 17 2023,16:30,BST/+0100,Everton FC,0-1,0-0,Arsenal FC,2023-09-17T15:30Z
+5,Sun Sep 17 2023,14:00,BST/+0100,AFC Bournemouth,0-0,0-0,Chelsea FC,2023-09-17T13:00Z
+5,Mon Sep 18 2023,19:45,BST/+0100,Nottingham Forest,1-1,0-1,Burnley FC,2023-09-18T18:45Z
+6,Sat Sep 23 2023,15:00,BST/+0100,Crystal Palace,0-0,0-0,Fulham FC,2023-09-23T14:00Z
+6,Sat Sep 23 2023,15:00,BST/+0100,Luton Town,1-1,0-0,Wolverhampton Wanderers,2023-09-23T14:00Z
+6,Sat Sep 23 2023,15:00,BST/+0100,Manchester City,2-0,2-0,Nottingham Forest,2023-09-23T14:00Z
+6,Sat Sep 23 2023,17:30,BST/+0100,Brentford FC,1-3,1-1,Everton FC,2023-09-23T16:30Z
+6,Sat Sep 23 2023,20:00,BST/+0100,Burnley FC,0-1,0-1,Manchester United,2023-09-23T19:00Z
+6,Sun Sep 24 2023,16:30,BST/+0100,Sheffield United,0-8,0-3,Newcastle United,2023-09-24T15:30Z
+6,Sun Sep 24 2023,14:00,BST/+0100,Arsenal FC,2-2,1-1,Tottenham Hotspur,2023-09-24T13:00Z
+6,Sun Sep 24 2023,14:00,BST/+0100,Brighton & Hove Albion,3-1,1-1,AFC Bournemouth,2023-09-24T13:00Z
+6,Sun Sep 24 2023,14:00,BST/+0100,Chelsea FC,0-1,0-0,Aston Villa,2023-09-24T13:00Z
+6,Sun Sep 24 2023,14:00,BST/+0100,Liverpool FC,3-1,1-1,West Ham United,2023-09-24T13:00Z
+7,Sat Sep 30 2023,15:00,BST/+0100,Newcastle United,2-0,1-0,Burnley FC,2023-09-30T14:00Z
+7,Sat Sep 30 2023,12:30,BST/+0100,Aston Villa,6-1,3-0,Brighton & Hove Albion,2023-09-30T11:30Z
+7,Sat Sep 30 2023,15:00,BST/+0100,AFC Bournemouth,0-4,0-2,Arsenal FC,2023-09-30T14:00Z
+7,Sat Sep 30 2023,15:00,BST/+0100,Everton FC,1-2,1-2,Luton Town,2023-09-30T14:00Z
+7,Sat Sep 30 2023,15:00,BST/+0100,Manchester United,0-1,0-1,Crystal Palace,2023-09-30T14:00Z
+7,Sat Sep 30 2023,15:00,BST/+0100,Wolverhampton Wanderers,2-1,1-0,Manchester City,2023-09-30T14:00Z
+7,Sat Sep 30 2023,15:00,BST/+0100,West Ham United,2-0,2-0,Sheffield United,2023-09-30T14:00Z
+7,Sat Sep 30 2023,17:30,BST/+0100,Tottenham Hotspur,2-1,1-1,Liverpool FC,2023-09-30T16:30Z
+7,Sun Oct 1 2023,14:00,BST/+0100,Nottingham Forest,1-1,0-0,Brentford FC,2023-10-01T13:00Z
+7,Mon Oct 2 2023,20:00,BST/+0100,Fulham FC,0-2,0-2,Chelsea FC,2023-10-02T19:00Z
+2,Tue Oct 3 2023,19:30,BST/+0100,Luton Town,1-2,0-1,Burnley FC,2023-10-03T18:30Z
+8,Sat Oct 7 2023,12:30,BST/+0100,Luton Town,0-1,0-0,Tottenham Hotspur,2023-10-07T11:30Z
+8,Sat Oct 7 2023,15:00,BST/+0100,Burnley FC,1-4,1-1,Chelsea FC,2023-10-07T14:00Z
+8,Sat Oct 7 2023,15:00,BST/+0100,Everton FC,3-0,2-0,AFC Bournemouth,2023-10-07T14:00Z
+8,Sat Oct 7 2023,15:00,BST/+0100,Fulham FC,3-1,0-0,Sheffield United,2023-10-07T14:00Z
+8,Sat Oct 7 2023,15:00,BST/+0100,Manchester United,2-1,0-1,Brentford FC,2023-10-07T14:00Z
+8,Sat Oct 7 2023,17:30,BST/+0100,Crystal Palace,0-0,0-0,Nottingham Forest,2023-10-07T16:30Z
+8,Sun Oct 8 2023,14:00,BST/+0100,West Ham United,2-2,1-0,Newcastle United,2023-10-08T13:00Z
+8,Sun Oct 8 2023,14:00,BST/+0100,Wolverhampton Wanderers,1-1,0-0,Aston Villa,2023-10-08T13:00Z
+8,Sun Oct 8 2023,16:30,BST/+0100,Arsenal FC,1-0,0-0,Manchester City,2023-10-08T15:30Z
+8,Sun Oct 8 2023,14:00,BST/+0100,Brighton & Hove Albion,2-2,1-2,Liverpool FC,2023-10-08T13:00Z
+9,Sat Oct 21 2023,12:30,BST/+0100,Liverpool FC,2-0,0-0,Everton FC,2023-10-21T11:30Z
+9,Sat Oct 21 2023,15:00,BST/+0100,AFC Bournemouth,1-2,1-0,Wolverhampton Wanderers,2023-10-21T14:00Z
+9,Sat Oct 21 2023,15:00,BST/+0100,Brentford FC,3-0,1-0,Burnley FC,2023-10-21T14:00Z
+9,Sat Oct 21 2023,15:00,BST/+0100,Manchester City,2-1,2-0,Brighton & Hove Albion,2023-10-21T14:00Z
+9,Sat Oct 21 2023,15:00,BST/+0100,Newcastle United,4-0,3-0,Crystal Palace,2023-10-21T14:00Z
+9,Sat Oct 21 2023,15:00,BST/+0100,Nottingham Forest,2-2,0-0,Luton Town,2023-10-21T14:00Z
+9,Sat Oct 21 2023,17:30,BST/+0100,Chelsea FC,2-2,1-0,Arsenal FC,2023-10-21T16:30Z
+9,Sat Oct 21 2023,20:00,BST/+0100,Sheffield United,1-2,1-1,Manchester United,2023-10-21T19:00Z
+9,Sun Oct 22 2023,16:30,BST/+0100,Aston Villa,4-1,1-0,West Ham United,2023-10-22T15:30Z
+9,Mon Oct 23 2023,20:00,BST/+0100,Tottenham Hotspur,2-0,1-0,Fulham FC,2023-10-23T19:00Z
+10,Fri Oct 27 2023,20:00,BST/+0100,Crystal Palace,1-2,0-0,Tottenham Hotspur,2023-10-27T19:00Z
+10,Sat Oct 28 2023,15:00,BST/+0100,AFC Bournemouth,2-1,1-1,Burnley FC,2023-10-28T14:00Z
+10,Sat Oct 28 2023,15:00,BST/+0100,Arsenal FC,5-0,1-0,Sheffield United,2023-10-28T14:00Z
+10,Sat Oct 28 2023,17:30,BST/+0100,Wolverhampton Wanderers,2-2,1-2,Newcastle United,2023-10-28T16:30Z
+10,Sat Oct 28 2023,12:30,BST/+0100,Chelsea FC,0-2,0-0,Brentford FC,2023-10-28T11:30Z
+10,Sun Oct 29 2023,13:00,GMT/+0000,West Ham United,0-1,0-0,Everton FC,2023-10-29T13:00Z
+10,Sun Oct 29 2023,14:00,GMT/+0000,Aston Villa,3-1,1-0,Luton Town,2023-10-29T14:00Z
+10,Sun Oct 29 2023,14:00,GMT/+0000,Brighton & Hove Albion,1-1,1-0,Fulham FC,2023-10-29T14:00Z
+10,Sun Oct 29 2023,14:00,GMT/+0000,Liverpool FC,3-0,2-0,Nottingham Forest,2023-10-29T14:00Z
+10,Sun Oct 29 2023,15:30,GMT/+0000,Manchester United,0-3,0-1,Manchester City,2023-10-29T15:30Z
+11,Sat Nov 4 2023,12:30,GMT/+0000,Fulham FC,0-1,0-0,Manchester United,2023-11-04T12:30Z
+11,Sat Nov 4 2023,15:00,GMT/+0000,Brentford FC,3-2,1-2,West Ham United,2023-11-04T15:00Z
+11,Sat Nov 4 2023,15:00,GMT/+0000,Burnley FC,0-2,0-1,Crystal Palace,2023-11-04T15:00Z
+11,Sat Nov 4 2023,15:00,GMT/+0000,Everton FC,1-1,1-0,Brighton & Hove Albion,2023-11-04T15:00Z
+11,Sat Nov 4 2023,15:00,GMT/+0000,Manchester City,6-1,3-0,AFC Bournemouth,2023-11-04T15:00Z
+11,Sat Nov 4 2023,15:00,GMT/+0000,Sheffield United,2-1,0-0,Wolverhampton Wanderers,2023-11-04T15:00Z
+11,Sat Nov 4 2023,17:30,GMT/+0000,Newcastle United,1-0,0-0,Arsenal FC,2023-11-04T17:30Z
+11,Sun Nov 5 2023,16:30,GMT/+0000,Luton Town,1-1,0-0,Liverpool FC,2023-11-05T16:30Z
+11,Sun Nov 5 2023,14:00,GMT/+0000,Nottingham Forest,2-0,1-0,Aston Villa,2023-11-05T14:00Z
+11,Mon Nov 6 2023,20:00,GMT/+0000,Tottenham Hotspur,1-4,1-1,Chelsea FC,2023-11-06T20:00Z
+12,Sat Nov 11 2023,12:30,GMT/+0000,Wolverhampton Wanderers,2-1,0-1,Tottenham Hotspur,2023-11-11T12:30Z
+12,Sat Nov 11 2023,15:00,GMT/+0000,Arsenal FC,3-1,1-0,Burnley FC,2023-11-11T15:00Z
+12,Sat Nov 11 2023,15:00,GMT/+0000,Crystal Palace,2-3,1-1,Everton FC,2023-11-11T15:00Z
+12,Sat Nov 11 2023,15:00,GMT/+0000,Manchester United,1-0,0-0,Luton Town,2023-11-11T15:00Z
+12,Sat Nov 11 2023,17:30,GMT/+0000,AFC Bournemouth,2-0,0-0,Newcastle United,2023-11-11T17:30Z
+12,Sun Nov 12 2023,14:00,GMT/+0000,Brighton & Hove Albion,1-1,1-0,Sheffield United,2023-11-12T14:00Z
+12,Sun Nov 12 2023,14:00,GMT/+0000,Liverpool FC,3-0,1-0,Brentford FC,2023-11-12T14:00Z
+12,Sun Nov 12 2023,14:00,GMT/+0000,West Ham United,3-2,1-1,Nottingham Forest,2023-11-12T14:00Z
+12,Sun Nov 12 2023,16:30,GMT/+0000,Chelsea FC,4-4,2-2,Manchester City,2023-11-12T16:30Z
+12,Sun Nov 12 2023,14:00,GMT/+0000,Aston Villa,3-1,2-0,Fulham FC,2023-11-12T14:00Z
+13,Sat Nov 25 2023,12:30,GMT/+0000,Manchester City,1-1,1-0,Liverpool FC,2023-11-25T12:30Z
+13,Sat Nov 25 2023,15:00,GMT/+0000,Burnley FC,1-2,0-0,West Ham United,2023-11-25T15:00Z
+13,Sat Nov 25 2023,15:00,GMT/+0000,Luton Town,2-1,0-0,Crystal Palace,2023-11-25T15:00Z
+13,Sat Nov 25 2023,15:00,GMT/+0000,Newcastle United,4-1,1-1,Chelsea FC,2023-11-25T15:00Z
+13,Sat Nov 25 2023,15:00,GMT/+0000,Nottingham Forest,2-3,1-2,Brighton & Hove Albion,2023-11-25T15:00Z
+13,Sat Nov 25 2023,15:00,GMT/+0000,Sheffield United,1-3,0-2,AFC Bournemouth,2023-11-25T15:00Z
+13,Sat Nov 25 2023,17:30,GMT/+0000,Brentford FC,0-1,0-0,Arsenal FC,2023-11-25T17:30Z
+13,Sun Nov 26 2023,16:30,GMT/+0000,Everton FC,0-3,0-1,Manchester United,2023-11-26T16:30Z
+13,Sun Nov 26 2023,14:00,GMT/+0000,Tottenham Hotspur,1-2,1-1,Aston Villa,2023-11-26T14:00Z
+13,Mon Nov 27 2023,20:00,GMT/+0000,Fulham FC,3-2,1-1,Wolverhampton Wanderers,2023-11-27T20:00Z
+14,Sat Dec 2 2023,15:00,GMT/+0000,Arsenal FC,2-1,2-0,Wolverhampton Wanderers,2023-12-02T15:00Z
+14,Sat Dec 2 2023,15:00,GMT/+0000,Brentford FC,3-1,0-0,Luton Town,2023-12-02T15:00Z
+14,Sat Dec 2 2023,15:00,GMT/+0000,Burnley FC,5-0,2-0,Sheffield United,2023-12-02T15:00Z
+14,Sat Dec 2 2023,17:30,GMT/+0000,Nottingham Forest,0-1,0-0,Everton FC,2023-12-02T17:30Z
+14,Sat Dec 2 2023,20:00,GMT/+0000,Newcastle United,1-0,0-0,Manchester United,2023-12-02T20:00Z
+14,Sun Dec 3 2023,14:00,GMT/+0000,Chelsea FC,3-2,2-1,Brighton & Hove Albion,2023-12-03T14:00Z
+14,Sun Dec 3 2023,14:00,GMT/+0000,Liverpool FC,4-3,2-2,Fulham FC,2023-12-03T14:00Z
+14,Sun Dec 3 2023,14:00,GMT/+0000,West Ham United,1-1,1-0,Crystal Palace,2023-12-03T14:00Z
+14,Sun Dec 3 2023,16:30,GMT/+0000,Manchester City,3-3,2-1,Tottenham Hotspur,2023-12-03T16:30Z
+14,Sun Dec 3 2023,14:00,GMT/+0000,AFC Bournemouth,2-2,1-1,Aston Villa,2023-12-03T14:00Z
+15,Tue Dec 5 2023,20:15,GMT/+0000,Luton Town,3-4,1-2,Arsenal FC,2023-12-05T20:15Z
+15,Tue Dec 5 2023,19:30,GMT/+0000,Wolverhampton Wanderers,1-0,1-0,Burnley FC,2023-12-05T19:30Z
+15,Wed Dec 6 2023,19:30,GMT/+0000,Brighton & Hove Albion,2-1,1-1,Brentford FC,2023-12-06T19:30Z
+15,Wed Dec 6 2023,19:30,GMT/+0000,Fulham FC,5-0,2-0,Nottingham Forest,2023-12-06T19:30Z
+15,Wed Dec 6 2023,19:30,GMT/+0000,Sheffield United,0-2,0-1,Liverpool FC,2023-12-06T19:30Z
+15,Wed Dec 6 2023,19:30,GMT/+0000,Crystal Palace,0-2,0-1,AFC Bournemouth,2023-12-06T19:30Z
+15,Wed Dec 6 2023,20:15,GMT/+0000,Aston Villa,1-0,0-0,Manchester City,2023-12-06T20:15Z
+15,Wed Dec 6 2023,20:15,GMT/+0000,Manchester United,2-1,1-1,Chelsea FC,2023-12-06T20:15Z
+15,Thu Dec 7 2023,20:15,GMT/+0000,Tottenham Hotspur,1-2,1-0,West Ham United,2023-12-07T20:15Z
+15,Thu Dec 7 2023,19:30,GMT/+0000,Everton FC,3-0,0-0,Newcastle United,2023-12-07T19:30Z
+16,Sat Dec 9 2023,15:00,GMT/+0000,Brighton & Hove Albion,1-1,0-1,Burnley FC,2023-12-09T15:00Z
+16,Sat Dec 9 2023,15:00,GMT/+0000,Manchester United,0-3,0-1,AFC Bournemouth,2023-12-09T15:00Z
+16,Sat Dec 9 2023,15:00,GMT/+0000,Sheffield United,1-0,1-0,Brentford FC,2023-12-09T15:00Z
+16,Sat Dec 9 2023,15:00,GMT/+0000,Wolverhampton Wanderers,1-1,1-1,Nottingham Forest,2023-12-09T15:00Z
+16,Sat Dec 9 2023,17:30,GMT/+0000,Aston Villa,1-0,1-0,Arsenal FC,2023-12-09T17:30Z
+16,Sat Dec 9 2023,12:30,GMT/+0000,Crystal Palace,1-2,0-0,Liverpool FC,2023-12-09T12:30Z
+16,Sun Dec 10 2023,14:00,GMT/+0000,Everton FC,2-0,0-0,Chelsea FC,2023-12-10T14:00Z
+16,Sun Dec 10 2023,14:00,GMT/+0000,Fulham FC,5-0,3-0,West Ham United,2023-12-10T14:00Z
+16,Sun Dec 10 2023,14:00,GMT/+0000,Luton Town,1-2,1-0,Manchester City,2023-12-10T14:00Z
+16,Sun Dec 10 2023,16:30,GMT/+0000,Tottenham Hotspur,4-1,2-0,Newcastle United,2023-12-10T16:30Z
+17,Fri Dec 15 2023,20:00,GMT/+0000,Nottingham Forest,0-2,0-1,Tottenham Hotspur,2023-12-15T20:00Z
+17,Sat Dec 16 2023,15:00,GMT/+0000,Manchester City,2-2,1-0,Crystal Palace,2023-12-16T15:00Z
+17,Sat Dec 16 2023,15:00,GMT/+0000,Newcastle United,3-0,0-0,Fulham FC,2023-12-16T15:00Z
+17,Sat Dec 16 2023,17:30,GMT/+0000,Burnley FC,0-2,0-2,Everton FC,2023-12-16T17:30Z
+17,Sat Dec 16 2023,15:00,GMT/+0000,Chelsea FC,2-0,0-0,Sheffield United,2023-12-16T15:00Z
+17,Sun Dec 17 2023,14:00,GMT/+0000,Arsenal FC,2-0,0-0,Brighton & Hove Albion,2023-12-17T14:00Z
+17,Sun Dec 17 2023,14:00,GMT/+0000,Brentford FC,1-2,1-0,Aston Villa,2023-12-17T14:00Z
+17,Sun Dec 17 2023,14:00,GMT/+0000,West Ham United,3-0,2-0,Wolverhampton Wanderers,2023-12-17T14:00Z
+17,Sun Dec 17 2023,16:30,GMT/+0000,Liverpool FC,0-0,0-0,Manchester United,2023-12-17T16:30Z
+18,Thu Dec 21 2023,20:00,GMT/+0000,Crystal Palace,1-1,1-0,Brighton & Hove Albion,2023-12-21T20:00Z
+18,Fri Dec 22 2023,20:00,GMT/+0000,Aston Villa,1-1,0-0,Sheffield United,2023-12-22T20:00Z
+18,Sat Dec 23 2023,12:30,GMT/+0000,West Ham United,2-0,0-0,Manchester United,2023-12-23T12:30Z
+18,Sat Dec 23 2023,15:00,GMT/+0000,Fulham FC,0-2,0-0,Burnley FC,2023-12-23T15:00Z
+18,Sat Dec 23 2023,15:00,GMT/+0000,Luton Town,1-0,1-0,Newcastle United,2023-12-23T15:00Z
+18,Sat Dec 23 2023,15:00,GMT/+0000,Nottingham Forest,2-3,0-0,AFC Bournemouth,2023-12-23T15:00Z
+18,Sat Dec 23 2023,15:00,GMT/+0000,Tottenham Hotspur,2-1,2-0,Everton FC,2023-12-23T15:00Z
+18,Sat Dec 23 2023,17:30,GMT/+0000,Liverpool FC,1-1,1-1,Arsenal FC,2023-12-23T17:30Z
+18,Sun Dec 24 2023,13:00,GMT/+0000,Wolverhampton Wanderers,2-1,0-0,Chelsea FC,2023-12-24T13:00Z
+19,Tue Dec 26 2023,17:30,GMT/+0000,Burnley FC,0-2,0-1,Liverpool FC,2023-12-26T17:30Z
+19,Tue Dec 26 2023,12:30,GMT/+0000,Newcastle United,1-3,1-1,Nottingham Forest,2023-12-26T12:30Z
+19,Tue Dec 26 2023,15:00,GMT/+0000,AFC Bournemouth,3-0,1-0,Fulham FC,2023-12-26T15:00Z
+19,Tue Dec 26 2023,15:00,GMT/+0000,Sheffield United,2-3,0-1,Luton Town,2023-12-26T15:00Z
+19,Tue Dec 26 2023,20:00,GMT/+0000,Manchester United,3-2,0-2,Aston Villa,2023-12-26T20:00Z
+19,Wed Dec 27 2023,19:30,GMT/+0000,Chelsea FC,2-1,1-1,Crystal Palace,2023-12-27T19:30Z
+19,Wed Dec 27 2023,20:15,GMT/+0000,Everton FC,1-3,1-0,Manchester City,2023-12-27T20:15Z
+19,Wed Dec 27 2023,19:30,GMT/+0000,Brentford FC,1-4,1-3,Wolverhampton Wanderers,2023-12-27T19:30Z
+19,Thu Dec 28 2023,20:15,GMT/+0000,Arsenal FC,0-2,0-1,West Ham United,2023-12-28T20:15Z
+19,Thu Dec 28 2023,19:30,GMT/+0000,Brighton & Hove Albion,4-2,2-0,Tottenham Hotspur,2023-12-28T19:30Z
+20,Sat Dec 30 2023,17:30,GMT/+0000,Nottingham Forest,2-1,0-0,Manchester United,2023-12-30T17:30Z
+20,Sat Dec 30 2023,15:00,GMT/+0000,Wolverhampton Wanderers,3-0,1-0,Everton FC,2023-12-30T15:00Z
+20,Sat Dec 30 2023,12:30,GMT/+0000,Luton Town,2-3,0-2,Chelsea FC,2023-12-30T12:30Z
+20,Sat Dec 30 2023,15:00,GMT/+0000,Aston Villa,3-2,2-1,Burnley FC,2023-12-30T15:00Z
+20,Sat Dec 30 2023,15:00,GMT/+0000,Crystal Palace,3-1,2-1,Brentford FC,2023-12-30T15:00Z
+20,Sat Dec 30 2023,15:00,GMT/+0000,Manchester City,2-0,1-0,Sheffield United,2023-12-30T15:00Z
+20,Sun Dec 31 2023,14:00,GMT/+0000,Fulham FC,2-1,1-1,Arsenal FC,2023-12-31T14:00Z
+20,Sun Dec 31 2023,14:00,GMT/+0000,Tottenham Hotspur,3-1,1-0,AFC Bournemouth,2023-12-31T14:00Z
+20,Mon Jan 1 2024,20:00,GMT/+0000,Liverpool FC,4-2,0-0,Newcastle United,2024-01-01T20:00Z
+20,Tue Jan 2 2024,19:30,GMT/+0000,West Ham United,0-0,0-0,Brighton & Hove Albion,2024-01-02T19:30Z
+21,Fri Jan 12 2024,19:45,GMT/+0000,Burnley FC,1-1,1-0,Luton Town,2024-01-12T19:45Z
+21,Sat Jan 13 2024,12:30,GMT/+0000,Chelsea FC,1-0,1-0,Fulham FC,2024-01-13T12:30Z
+21,Sat Jan 13 2024,17:30,GMT/+0000,Newcastle United,2-3,2-1,Manchester City,2024-01-13T17:30Z
+21,Sun Jan 14 2024,14:00,GMT/+0000,Everton FC,0-0,0-0,Aston Villa,2024-01-14T14:00Z
+21,Sun Jan 14 2024,16:30,GMT/+0000,Manchester United,2-2,2-1,Tottenham Hotspur,2024-01-14T16:30Z
+21,Sat Jan 20 2024,17:30,GMT/+0000,Brentford FC,3-2,1-1,Nottingham Forest,2024-01-20T17:30Z
+21,Sat Jan 20 2024,12:30,GMT/+0000,Arsenal FC,5-0,2-0,Crystal Palace,2024-01-20T12:30Z
+21,Sun Jan 21 2024,14:00,GMT/+0000,Sheffield United,2-2,1-1,West Ham United,2024-01-21T14:00Z
+21,Sun Jan 21 2024,16:30,GMT/+0000,AFC Bournemouth,0-4,0-0,Liverpool FC,2024-01-21T16:30Z
+21,Mon Jan 22 2024,19:45,GMT/+0000,Brighton & Hove Albion,0-0,0-0,Wolverhampton Wanderers,2024-01-22T19:45Z
+22,Tue Jan 30 2024,20:15,GMT/+0000,Aston Villa,1-3,0-2,Newcastle United,2024-01-30T20:15Z
+22,Tue Jan 30 2024,20:00,GMT/+0000,Crystal Palace,3-2,2-2,Sheffield United,2024-01-30T20:00Z
+22,Tue Jan 30 2024,19:30,GMT/+0000,Nottingham Forest,1-2,0-0,Arsenal FC,2024-01-30T19:30Z
+22,Tue Jan 30 2024,19:45,GMT/+0000,Luton Town,4-0,3-0,Brighton & Hove Albion,2024-01-30T19:45Z
+22,Tue Jan 30 2024,19:45,GMT/+0000,Fulham FC,0-0,0-0,Everton FC,2024-01-30T19:45Z
+22,Wed Jan 31 2024,19:30,GMT/+0000,Tottenham Hotspur,3-2,0-1,Brentford FC,2024-01-31T19:30Z
+22,Wed Jan 31 2024,19:30,GMT/+0000,Manchester City,3-1,2-0,Burnley FC,2024-01-31T19:30Z
+22,Wed Jan 31 2024,20:15,GMT/+0000,Liverpool FC,4-1,2-0,Chelsea FC,2024-01-31T20:15Z
+22,Thu Feb 1 2024,20:15,GMT/+0000,Wolverhampton Wanderers,3-4,0-2,Manchester United,2024-02-01T20:15Z
+22,Thu Feb 1 2024,19:30,GMT/+0000,West Ham United,1-1,0-1,AFC Bournemouth,2024-02-01T19:30Z
+23,Sat Feb 3 2024,15:00,GMT/+0000,Newcastle United,4-4,2-2,Luton Town,2024-02-03T15:00Z
+23,Sat Feb 3 2024,15:00,GMT/+0000,Brighton & Hove Albion,4-1,3-0,Crystal Palace,2024-02-03T15:00Z
+23,Sat Feb 3 2024,12:30,GMT/+0000,Everton FC,2-2,1-2,Tottenham Hotspur,2024-02-03T12:30Z
+23,Sat Feb 3 2024,15:00,GMT/+0000,Burnley FC,2-2,0-2,Fulham FC,2024-02-03T15:00Z
+23,Sat Feb 3 2024,17:30,GMT/+0000,Sheffield United,0-5,0-4,Aston Villa,2024-02-03T17:30Z
+23,Sun Feb 4 2024,16:30,GMT/+0000,Arsenal FC,3-1,1-1,Liverpool FC,2024-02-04T16:30Z
+23,Sun Feb 4 2024,14:00,GMT/+0000,Chelsea FC,2-4,1-2,Wolverhampton Wanderers,2024-02-04T14:00Z
+23,Sun Feb 4 2024,14:00,GMT/+0000,AFC Bournemouth,1-1,1-1,Nottingham Forest,2024-02-04T14:00Z
+23,Sun Feb 4 2024,14:00,GMT/+0000,Manchester United,3-0,1-0,West Ham United,2024-02-04T14:00Z
+23,Mon Feb 5 2024,20:00,GMT/+0000,Brentford FC,1-3,1-1,Manchester City,2024-02-05T20:00Z
+24,Sat Feb 10 2024,15:00,GMT/+0000,Wolverhampton Wanderers,0-2,0-1,Brentford FC,2024-02-10T15:00Z
+24,Sat Feb 10 2024,15:00,GMT/+0000,Liverpool FC,3-1,1-1,Burnley FC,2024-02-10T15:00Z
+24,Sat Feb 10 2024,12:30,GMT/+0000,Manchester City,2-0,0-0,Everton FC,2024-02-10T12:30Z
+24,Sat Feb 10 2024,15:00,GMT/+0000,Fulham FC,3-1,2-0,AFC Bournemouth,2024-02-10T15:00Z
+24,Sat Feb 10 2024,17:30,GMT/+0000,Nottingham Forest,2-3,2-2,Newcastle United,2024-02-10T17:30Z
+24,Sat Feb 10 2024,15:00,GMT/+0000,Luton Town,1-3,0-2,Sheffield United,2024-02-10T15:00Z
+24,Sat Feb 10 2024,15:00,GMT/+0000,Tottenham Hotspur,2-1,0-1,Brighton & Hove Albion,2024-02-10T15:00Z
+24,Sun Feb 11 2024,16:30,GMT/+0000,Aston Villa,1-2,0-1,Manchester United,2024-02-11T16:30Z
+24,Sun Feb 11 2024,14:00,GMT/+0000,West Ham United,0-6,0-4,Arsenal FC,2024-02-11T14:00Z
+24,Mon Feb 12 2024,20:00,GMT/+0000,Crystal Palace,1-3,1-0,Chelsea FC,2024-02-12T20:00Z
+25,Sat Feb 17 2024,15:00,GMT/+0000,Tottenham Hotspur,1-2,0-1,Wolverhampton Wanderers,2024-02-17T15:00Z
+25,Sat Feb 17 2024,15:00,GMT/+0000,Fulham FC,1-2,0-1,Aston Villa,2024-02-17T15:00Z
+25,Sat Feb 17 2024,12:30,GMT/+0000,Brentford FC,1-4,0-1,Liverpool FC,2024-02-17T12:30Z
+25,Sat Feb 17 2024,15:00,GMT/+0000,Burnley FC,0-5,0-2,Arsenal FC,2024-02-17T15:00Z
+25,Sat Feb 17 2024,17:30,GMT/+0000,Manchester City,1-1,0-1,Chelsea FC,2024-02-17T17:30Z
+25,Sat Feb 17 2024,15:00,GMT/+0000,Newcastle United,2-2,0-0,AFC Bournemouth,2024-02-17T15:00Z
+25,Sat Feb 17 2024,15:00,GMT/+0000,Nottingham Forest,2-0,1-0,West Ham United,2024-02-17T15:00Z
+25,Sun Feb 18 2024,14:00,GMT/+0000,Sheffield United,0-5,0-2,Brighton & Hove Albion,2024-02-18T14:00Z
+25,Sun Feb 18 2024,16:30,GMT/+0000,Luton Town,1-2,1-2,Manchester United,2024-02-18T16:30Z
+25,Mon Feb 19 2024,20:00,GMT/+0000,Everton FC,1-1,0-0,Crystal Palace,2024-02-19T20:00Z
+18,Tue Feb 20 2024,19:30,GMT/+0000,Manchester City,1-0,0-0,Brentford FC,2024-02-20T19:30Z
+26,Wed Feb 21 2024,19:30,GMT/+0000,Liverpool FC,4-1,0-1,Luton Town,2024-02-21T19:30Z
+26,Sat Feb 24 2024,15:00,GMT/+0000,Manchester United,1-2,0-0,Fulham FC,2024-02-24T15:00Z
+26,Sat Feb 24 2024,15:00,GMT/+0000,Aston Villa,4-2,3-1,Nottingham Forest,2024-02-24T15:00Z
+26,Sat Feb 24 2024,15:00,GMT/+0000,Brighton & Hove Albion,1-1,0-0,Everton FC,2024-02-24T15:00Z
+26,Sat Feb 24 2024,15:00,GMT/+0000,Crystal Palace,3-0,0-0,Burnley FC,2024-02-24T15:00Z
+26,Sat Feb 24 2024,20:00,GMT/+0000,Arsenal FC,4-1,2-0,Newcastle United,2024-02-24T20:00Z
+26,Sat Feb 24 2024,17:30,GMT/+0000,AFC Bournemouth,0-1,0-1,Manchester City,2024-02-24T17:30Z
+26,Sun Feb 25 2024,13:30,GMT/+0000,Wolverhampton Wanderers,1-0,1-0,Sheffield United,2024-02-25T13:30Z
+26,Mon Feb 26 2024,20:00,GMT/+0000,West Ham United,4-2,2-1,Brentford FC,2024-02-26T20:00Z
+27,Sat Mar 2 2024,17:30,GMT/+0000,Luton Town,2-3,0-2,Aston Villa,2024-03-02T17:30Z
+27,Sat Mar 2 2024,15:00,GMT/+0000,Tottenham Hotspur,3-1,0-0,Crystal Palace,2024-03-02T15:00Z
+27,Sat Mar 2 2024,15:00,GMT/+0000,Brentford FC,2-2,0-1,Chelsea FC,2024-03-02T15:00Z
+27,Sat Mar 2 2024,15:00,GMT/+0000,Everton FC,1-3,0-0,West Ham United,2024-03-02T15:00Z
+27,Sat Mar 2 2024,15:00,GMT/+0000,Fulham FC,3-0,2-0,Brighton & Hove Albion,2024-03-02T15:00Z
+27,Sat Mar 2 2024,15:00,GMT/+0000,Newcastle United,3-0,2-0,Wolverhampton Wanderers,2024-03-02T15:00Z
+27,Sat Mar 2 2024,15:00,GMT/+0000,Nottingham Forest,0-1,0-0,Liverpool FC,2024-03-02T15:00Z
+27,Sun Mar 3 2024,15:30,GMT/+0000,Manchester City,3-1,0-1,Manchester United,2024-03-03T15:30Z
+27,Sun Mar 3 2024,13:00,GMT/+0000,Burnley FC,0-2,0-1,AFC Bournemouth,2024-03-03T13:00Z
+27,Mon Mar 4 2024,20:00,GMT/+0000,Sheffield United,0-6,0-5,Arsenal FC,2024-03-04T20:00Z
+28,Sat Mar 9 2024,15:00,GMT/+0000,Wolverhampton Wanderers,2-1,0-0,Fulham FC,2024-03-09T15:00Z
+28,Sat Mar 9 2024,17:30,GMT/+0000,Arsenal FC,2-1,1-1,Brentford FC,2024-03-09T17:30Z
+28,Sat Mar 9 2024,12:30,GMT/+0000,Manchester United,2-0,2-0,Everton FC,2024-03-09T12:30Z
+28,Sat Mar 9 2024,15:00,GMT/+0000,AFC Bournemouth,2-2,0-1,Sheffield United,2024-03-09T15:00Z
+28,Sat Mar 9 2024,15:00,GMT/+0000,Crystal Palace,1-1,1-0,Luton Town,2024-03-09T15:00Z
+28,Sun Mar 10 2024,14:00,GMT/+0000,West Ham United,2-2,0-2,Burnley FC,2024-03-10T14:00Z
+28,Sun Mar 10 2024,13:00,GMT/+0000,Aston Villa,0-4,0-0,Tottenham Hotspur,2024-03-10T13:00Z
+28,Sun Mar 10 2024,14:00,GMT/+0000,Brighton & Hove Albion,1-0,1-0,Nottingham Forest,2024-03-10T14:00Z
+28,Sun Mar 10 2024,15:45,GMT/+0000,Liverpool FC,1-1,0-1,Manchester City,2024-03-10T15:45Z
+28,Mon Mar 11 2024,20:00,GMT/+0000,Chelsea FC,3-2,1-1,Newcastle United,2024-03-11T20:00Z
+17,Wed Mar 13 2024,19:30,GMT/+0000,AFC Bournemouth,4-3,0-3,Luton Town,2024-03-13T19:30Z
+29,Sat Mar 16 2024,15:00,GMT/+0000,Luton Town,1-1,0-1,Nottingham Forest,2024-03-16T15:00Z
+29,Sat Mar 16 2024,15:00,GMT/+0000,Burnley FC,2-1,1-0,Brentford FC,2024-03-16T15:00Z
+29,Sat Mar 16 2024,17:30,GMT/+0000,Fulham FC,3-0,1-0,Tottenham Hotspur,2024-03-16T17:30Z
+29,Sun Mar 17 2024,14:00,GMT/+0000,West Ham United,1-1,1-0,Aston Villa,2024-03-17T14:00Z
+30,Sat Mar 30 2024,20:00,GMT/+0000,Brentford FC,1-1,0-0,Manchester United,2024-03-30T20:00Z
+30,Sat Mar 30 2024,15:00,GMT/+0000,Tottenham Hotspur,2-1,0-1,Luton Town,2024-03-30T15:00Z
+30,Sat Mar 30 2024,15:00,GMT/+0000,Sheffield United,3-3,0-0,Fulham FC,2024-03-30T15:00Z
+30,Sat Mar 30 2024,15:00,GMT/+0000,Nottingham Forest,1-1,0-1,Crystal Palace,2024-03-30T15:00Z
+30,Sat Mar 30 2024,15:00,GMT/+0000,Chelsea FC,2-2,1-0,Burnley FC,2024-03-30T15:00Z
+30,Sat Mar 30 2024,15:00,GMT/+0000,AFC Bournemouth,2-1,0-0,Everton FC,2024-03-30T15:00Z
+30,Sat Mar 30 2024,12:30,GMT/+0000,Newcastle United,4-3,1-2,West Ham United,2024-03-30T12:30Z
+30,Sat Mar 30 2024,17:30,GMT/+0000,Aston Villa,2-0,1-0,Wolverhampton Wanderers,2024-03-30T17:30Z
+30,Sun Mar 31 2024,16:30,BST/+0100,Manchester City,0-0,0-0,Arsenal FC,2024-03-31T15:30Z
+30,Sun Mar 31 2024,14:00,BST/+0100,Liverpool FC,2-1,1-1,Brighton & Hove Albion,2024-03-31T13:00Z
+31,Tue Apr 2 2024,19:45,BST/+0100,Burnley FC,1-1,1-1,Wolverhampton Wanderers,2024-04-02T18:45Z
+31,Tue Apr 2 2024,20:15,BST/+0100,West Ham United,1-1,1-1,Tottenham Hotspur,2024-04-02T19:15Z
+31,Tue Apr 2 2024,19:45,BST/+0100,AFC Bournemouth,1-0,0-0,Crystal Palace,2024-04-02T18:45Z
+31,Tue Apr 2 2024,19:30,BST/+0100,Newcastle United,1-1,1-0,Everton FC,2024-04-02T18:30Z
+31,Tue Apr 2 2024,19:30,BST/+0100,Nottingham Forest,3-1,3-0,Fulham FC,2024-04-02T18:30Z
+31,Wed Apr 3 2024,20:15,BST/+0100,Manchester City,4-1,2-1,Aston Villa,2024-04-03T19:15Z
+31,Wed Apr 3 2024,19:30,BST/+0100,Brentford FC,0-0,0-0,Brighton & Hove Albion,2024-04-03T18:30Z
+31,Wed Apr 3 2024,19:30,BST/+0100,Arsenal FC,2-0,2-0,Luton Town,2024-04-03T18:30Z
+31,Thu Apr 4 2024,20:15,BST/+0100,Chelsea FC,4-3,2-2,Manchester United,2024-04-04T19:15Z
+31,Thu Apr 4 2024,19:30,BST/+0100,Liverpool FC,3-1,1-0,Sheffield United,2024-04-04T18:30Z
+32,Sat Apr 6 2024,12:30,BST/+0100,Crystal Palace,2-4,1-1,Manchester City,2024-04-06T11:30Z
+32,Sat Apr 6 2024,15:00,BST/+0100,Luton Town,2-1,0-0,AFC Bournemouth,2024-04-06T14:00Z
+32,Sat Apr 6 2024,15:00,BST/+0100,Wolverhampton Wanderers,1-2,1-0,West Ham United,2024-04-06T14:00Z
+32,Sat Apr 6 2024,17:30,BST/+0100,Brighton & Hove Albion,0-3,0-1,Arsenal FC,2024-04-06T16:30Z
+32,Sat Apr 6 2024,15:00,BST/+0100,Aston Villa,3-3,1-0,Brentford FC,2024-04-06T14:00Z
+32,Sat Apr 6 2024,15:00,BST/+0100,Everton FC,1-0,1-0,Burnley FC,2024-04-06T14:00Z
+32,Sat Apr 6 2024,15:00,BST/+0100,Fulham FC,0-1,0-0,Newcastle United,2024-04-06T14:00Z
+32,Sun Apr 7 2024,15:30,BST/+0100,Manchester United,2-2,0-1,Liverpool FC,2024-04-07T14:30Z
+32,Sun Apr 7 2024,18:00,BST/+0100,Tottenham Hotspur,3-1,1-1,Nottingham Forest,2024-04-07T17:00Z
+32,Sun Apr 7 2024,17:30,BST/+0100,Sheffield United,2-2,1-1,Chelsea FC,2024-04-07T16:30Z
+33,Sat Apr 13 2024,17:30,BST/+0100,AFC Bournemouth,2-2,2-1,Manchester United,2024-04-13T16:30Z
+33,Sat Apr 13 2024,12:30,BST/+0100,Newcastle United,4-0,2-0,Tottenham Hotspur,2024-04-13T11:30Z
+33,Sat Apr 13 2024,15:00,BST/+0100,Brentford FC,2-0,0-0,Sheffield United,2024-04-13T14:00Z
+33,Sat Apr 13 2024,15:00,BST/+0100,Nottingham Forest,2-2,1-1,Wolverhampton Wanderers,2024-04-13T14:00Z
+33,Sat Apr 13 2024,15:00,BST/+0100,Manchester City,5-1,1-0,Luton Town,2024-04-13T14:00Z
+33,Sat Apr 13 2024,15:00,BST/+0100,Burnley FC,1-1,0-0,Brighton & Hove Albion,2024-04-13T14:00Z
+33,Sun Apr 14 2024,16:30,BST/+0100,Arsenal FC,0-2,0-0,Aston Villa,2024-04-14T15:30Z
+33,Sun Apr 14 2024,14:00,BST/+0100,West Ham United,0-2,0-1,Fulham FC,2024-04-14T13:00Z
+33,Sun Apr 14 2024,14:00,BST/+0100,Liverpool FC,0-1,0-1,Crystal Palace,2024-04-14T13:00Z
+33,Mon Apr 15 2024,20:00,BST/+0100,Chelsea FC,6-0,4-0,Everton FC,2024-04-15T19:00Z
+34,Sat Apr 20 2024,15:00,BST/+0100,Sheffield United,1-4,0-2,Burnley FC,2024-04-20T14:00Z
+34,Sat Apr 20 2024,15:00,BST/+0100,Luton Town,1-5,0-2,Brentford FC,2024-04-20T14:00Z
+34,Sat Apr 20 2024,19:30,BST/+0100,Wolverhampton Wanderers,0-2,0-1,Arsenal FC,2024-04-20T18:30Z
+34,Sun Apr 21 2024,16:30,BST/+0100,Fulham FC,1-3,1-1,Liverpool FC,2024-04-21T15:30Z
+34,Sun Apr 21 2024,15:00,BST/+0100,Crystal Palace,5-2,4-1,West Ham United,2024-04-21T14:00Z
+34,Sun Apr 21 2024,13:30,BST/+0100,Everton FC,2-0,1-0,Nottingham Forest,2024-04-21T12:30Z
+34,Sun Apr 21 2024,15:00,BST/+0100,Aston Villa,3-1,1-1,AFC Bournemouth,2024-04-21T14:00Z
+29,Tue Apr 23 2024,20:00,BST/+0100,Arsenal FC,5-0,1-0,Chelsea FC,2024-04-23T19:00Z
+29,Wed Apr 24 2024,19:45,BST/+0100,Wolverhampton Wanderers,0-1,0-1,AFC Bournemouth,2024-04-24T18:45Z
+29,Wed Apr 24 2024,20:00,BST/+0100,Crystal Palace,2-0,0-0,Newcastle United,2024-04-24T19:00Z
+29,Wed Apr 24 2024,20:00,BST/+0100,Everton FC,2-0,1-0,Liverpool FC,2024-04-24T19:00Z
+29,Wed Apr 24 2024,20:00,BST/+0100,Manchester United,4-2,1-1,Sheffield United,2024-04-24T19:00Z
+29,Thu Apr 25 2024,20:00,BST/+0100,Brighton & Hove Albion,0-4,0-3,Manchester City,2024-04-25T19:00Z
+35,Sat Apr 27 2024,20:00,BST/+0100,Aston Villa,2-2,2-0,Chelsea FC,2024-04-27T19:00Z
+35,Sat Apr 27 2024,17:30,BST/+0100,Everton FC,1-0,0-0,Brentford FC,2024-04-27T16:30Z
+35,Sat Apr 27 2024,15:00,BST/+0100,Wolverhampton Wanderers,2-1,1-0,Luton Town,2024-04-27T14:00Z
+35,Sat Apr 27 2024,15:00,BST/+0100,Newcastle United,5-1,1-1,Sheffield United,2024-04-27T14:00Z
+35,Sat Apr 27 2024,12:30,BST/+0100,West Ham United,2-2,1-0,Liverpool FC,2024-04-27T11:30Z
+35,Sat Apr 27 2024,15:00,BST/+0100,Fulham FC,1-1,0-0,Crystal Palace,2024-04-27T14:00Z
+35,Sat Apr 27 2024,15:00,BST/+0100,Manchester United,1-1,0-0,Burnley FC,2024-04-27T14:00Z
+35,Sun Apr 28 2024,14:00,BST/+0100,AFC Bournemouth,3-0,1-0,Brighton & Hove Albion,2024-04-28T13:00Z
+35,Sun Apr 28 2024,14:00,BST/+0100,Tottenham Hotspur,2-3,0-3,Arsenal FC,2024-04-28T13:00Z
+35,Sun Apr 28 2024,16:30,BST/+0100,Nottingham Forest,0-2,0-1,Manchester City,2024-04-28T15:30Z
+26,Thu May 2 2024,19:30,BST/+0100,Chelsea FC,2-0,1-0,Tottenham Hotspur,2024-05-02T18:30Z
+36,Fri May 3 2024,20:00,BST/+0100,Luton Town,1-1,1-1,Everton FC,2024-05-03T19:00Z
+36,Sat May 4 2024,17:30,BST/+0100,Manchester City,5-1,3-0,Wolverhampton Wanderers,2024-05-04T16:30Z
+36,Sat May 4 2024,15:00,BST/+0100,Burnley FC,1-4,0-3,Newcastle United,2024-05-04T14:00Z
+36,Sat May 4 2024,15:00,BST/+0100,Sheffield United,1-3,1-1,Nottingham Forest,2024-05-04T14:00Z
+36,Sat May 4 2024,12:30,BST/+0100,Arsenal FC,3-0,1-0,AFC Bournemouth,2024-05-04T11:30Z
+36,Sat May 4 2024,15:00,BST/+0100,Brentford FC,0-0,0-0,Fulham FC,2024-05-04T14:00Z
+36,Sun May 5 2024,14:00,BST/+0100,Chelsea FC,5-0,3-0,West Ham United,2024-05-05T13:00Z
+36,Sun May 5 2024,14:00,BST/+0100,Brighton & Hove Albion,1-0,0-0,Aston Villa,2024-05-05T13:00Z
+36,Sun May 5 2024,16:30,BST/+0100,Liverpool FC,4-2,2-0,Tottenham Hotspur,2024-05-05T15:30Z
+36,Mon May 6 2024,20:00,BST/+0100,Crystal Palace,4-0,2-0,Manchester United,2024-05-06T19:00Z
+37,Sat May 11 2024,15:00,BST/+0100,Wolverhampton Wanderers,1-3,0-2,Crystal Palace,2024-05-11T14:00Z
+37,Sat May 11 2024,17:30,BST/+0100,Nottingham Forest,2-3,1-1,Chelsea FC,2024-05-11T16:30Z
+37,Sat May 11 2024,15:00,BST/+0100,Newcastle United,1-1,1-1,Brighton & Hove Albion,2024-05-11T14:00Z
+37,Sat May 11 2024,12:30,BST/+0100,Fulham FC,0-4,0-1,Manchester City,2024-05-11T11:30Z
+37,Sat May 11 2024,15:00,BST/+0100,AFC Bournemouth,1-2,0-0,Brentford FC,2024-05-11T14:00Z
+37,Sat May 11 2024,15:00,BST/+0100,Everton FC,1-0,1-0,Sheffield United,2024-05-11T14:00Z
+37,Sat May 11 2024,15:00,BST/+0100,Tottenham Hotspur,2-1,1-1,Burnley FC,2024-05-11T14:00Z
+37,Sat May 11 2024,15:00,BST/+0100,West Ham United,3-1,0-1,Luton Town,2024-05-11T14:00Z
+37,Sun May 12 2024,16:30,BST/+0100,Manchester United,0-1,0-1,Arsenal FC,2024-05-12T15:30Z
+37,Mon May 13 2024,20:00,BST/+0100,Aston Villa,3-3,1-2,Liverpool FC,2024-05-13T19:00Z
+34,Tue May 14 2024,20:00,BST/+0100,Tottenham Hotspur,0-2,0-0,Manchester City,2024-05-14T19:00Z
+34,Wed May 15 2024,20:00,BST/+0100,Manchester United,3-2,1-0,Newcastle United,2024-05-15T19:00Z
+34,Wed May 15 2024,19:45,BST/+0100,Brighton & Hove Albion,1-2,0-1,Chelsea FC,2024-05-15T18:45Z
+38,Sun May 19 2024,16:00,BST/+0100,Arsenal FC,2-1,1-1,Everton FC,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Brentford FC,2-4,0-3,Newcastle United,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Brighton & Hove Albion,0-2,0-0,Manchester United,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Burnley FC,1-2,0-2,Nottingham Forest,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Chelsea FC,2-1,1-0,AFC Bournemouth,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Crystal Palace,5-0,2-0,Aston Villa,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Liverpool FC,2-0,2-0,Wolverhampton Wanderers,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Luton Town,2-4,1-2,Fulham FC,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Manchester City,3-1,2-1,West Ham United,2024-05-19T15:00Z
+38,Sun May 19 2024,16:00,BST/+0100,Sheffield United,0-3,0-1,Tottenham Hotspur,2024-05-19T15:00Z

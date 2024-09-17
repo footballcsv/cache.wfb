@@ -199,31 +199,31 @@ Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 ,33,Sun Apr 21 2024,16:30,CEST/+0200,FC Luzern,1-1,0-1,FC Basel 1893,2024-04-21T14:30Z
 Championship,34,Sat May 4 2024,18:00,CEST/+0200,Servette FC,2-1,2-0,FC Winterthur,2024-05-04T16:00Z
 Championship,34,Sat May 4 2024,20:30,CEST/+0200,FC Lugano,0-1,0-1,FC St. Gallen,2024-05-04T18:30Z
-Relegation,34,Sat May 4 2024,18:00,CEST/+0200,Grasshopper Club Zürich,3-2,1-1,Stade-Lausanne-Ouchy,2024-05-04T16:00Z
-Relegation,34,Sun May 5 2024,14:15,CEST/+0200,FC Basel 1893,1-1,0-0,FC Luzern,2024-05-05T12:15Z
-Relegation,34,Sun May 5 2024,16:30,CEST/+0200,Yverdon Sport FC,3-1,3-0,FC Lausanne-Sport,2024-05-05T14:30Z
+Playoffs - Relegation,34,Sat May 4 2024,18:00,CEST/+0200,Grasshopper Club Zürich,3-2,1-1,Stade-Lausanne-Ouchy,2024-05-04T16:00Z
+Playoffs - Relegation,34,Sun May 5 2024,14:15,CEST/+0200,FC Basel 1893,1-1,0-0,FC Luzern,2024-05-05T12:15Z
+Playoffs - Relegation,34,Sun May 5 2024,16:30,CEST/+0200,Yverdon Sport FC,3-1,3-0,FC Lausanne-Sport,2024-05-05T14:30Z
 Championship,34,Sun May 5 2024,16:30,CEST/+0200,FC Zürich,0-2,0-1,BSC Young Boys,2024-05-05T14:30Z
-Relegation,35,Fri May 10 2024,20:30,CEST/+0200,FC Lausanne-Sport,0-0,0-0,FC Basel 1893,2024-05-10T18:30Z
-Relegation,35,Fri May 10 2024,20:30,CEST/+0200,FC Luzern,1-1,0-0,Grasshopper Club Zürich,2024-05-10T18:30Z
-Relegation,35,Sat May 11 2024,20:30,CEST/+0200,Stade-Lausanne-Ouchy,3-1,0-0,Yverdon Sport FC,2024-05-11T18:30Z
+Playoffs - Relegation,35,Fri May 10 2024,20:30,CEST/+0200,FC Lausanne-Sport,0-0,0-0,FC Basel 1893,2024-05-10T18:30Z
+Playoffs - Relegation,35,Fri May 10 2024,20:30,CEST/+0200,FC Luzern,1-1,0-0,Grasshopper Club Zürich,2024-05-10T18:30Z
+Playoffs - Relegation,35,Sat May 11 2024,20:30,CEST/+0200,Stade-Lausanne-Ouchy,3-1,0-0,Yverdon Sport FC,2024-05-11T18:30Z
 Championship,35,Sat May 11 2024,20:30,CEST/+0200,BSC Young Boys,0-1,0-1,FC Lugano,2024-05-11T18:30Z
 Championship,35,Sun May 12 2024,16:30,CEST/+0200,FC St. Gallen,1-1,1-1,Servette FC,2024-05-12T14:30Z
 Championship,35,Sun May 12 2024,14:15,CEST/+0200,FC Winterthur,1-3,1-2,FC Zürich,2024-05-12T12:15Z
-Relegation,36,Tue May 14 2024,20:30,CEST/+0200,FC Basel 1893,2-0,0-0,Stade-Lausanne-Ouchy,2024-05-14T18:30Z
-Relegation,36,Tue May 14 2024,20:30,CEST/+0200,Grasshopper Club Zürich,2-0,1-0,Yverdon Sport FC,2024-05-14T18:30Z
+Playoffs - Relegation,36,Tue May 14 2024,20:30,CEST/+0200,FC Basel 1893,2-0,0-0,Stade-Lausanne-Ouchy,2024-05-14T18:30Z
+Playoffs - Relegation,36,Tue May 14 2024,20:30,CEST/+0200,Grasshopper Club Zürich,2-0,1-0,Yverdon Sport FC,2024-05-14T18:30Z
 Championship,36,Wed May 15 2024,20:30,CEST/+0200,FC Zürich,2-1,0-1,Servette FC,2024-05-15T18:30Z
-Relegation,36,Wed May 15 2024,20:30,CEST/+0200,FC Lausanne-Sport,0-2,0-1,FC Luzern,2024-05-15T18:30Z
+Playoffs - Relegation,36,Wed May 15 2024,20:30,CEST/+0200,FC Lausanne-Sport,0-2,0-1,FC Luzern,2024-05-15T18:30Z
 Championship,36,Thu May 16 2024,20:30,CEST/+0200,FC Lugano,4-2,1-1,FC Winterthur,2024-05-16T18:30Z
 Championship,36,Thu May 16 2024,20:30,CEST/+0200,BSC Young Boys,3-1,0-1,FC St. Gallen,2024-05-16T18:30Z
-Relegation,37,Sat May 18 2024,18:00,CEST/+0200,Stade-Lausanne-Ouchy,0-4,0-3,FC Lausanne-Sport,2024-05-18T16:00Z
-Relegation,37,Sat May 18 2024,18:00,CEST/+0200,Yverdon Sport FC,3-1,1-0,FC Luzern,2024-05-18T16:00Z
-Relegation,37,Sat May 18 2024,18:00,CEST/+0200,Grasshopper Club Zürich,0-1,0-0,FC Basel 1893,2024-05-18T16:00Z
+Playoffs - Relegation,37,Sat May 18 2024,18:00,CEST/+0200,Stade-Lausanne-Ouchy,0-4,0-3,FC Lausanne-Sport,2024-05-18T16:00Z
+Playoffs - Relegation,37,Sat May 18 2024,18:00,CEST/+0200,Yverdon Sport FC,3-1,1-0,FC Luzern,2024-05-18T16:00Z
+Playoffs - Relegation,37,Sat May 18 2024,18:00,CEST/+0200,Grasshopper Club Zürich,0-1,0-0,FC Basel 1893,2024-05-18T16:00Z
 Championship,37,Mon May 20 2024,18:00,CEST/+0200,FC Zürich,2-1,1-0,FC Lugano,2024-05-20T16:00Z
 Championship,37,Mon May 20 2024,18:00,CEST/+0200,FC Winterthur,1-3,0-2,FC St. Gallen,2024-05-20T16:00Z
 Championship,37,Mon May 20 2024,18:00,CEST/+0200,Servette FC,0-1,0-0,BSC Young Boys,2024-05-20T16:00Z
-Relegation,38,Tue May 21 2024,20:30,CEST/+0200,FC Lausanne-Sport,0-0,0-0,Grasshopper Club Zürich,2024-05-21T18:30Z
-Relegation,38,Tue May 21 2024,20:30,CEST/+0200,FC Basel 1893,0-0,0-0,Yverdon Sport FC,2024-05-21T18:30Z
-Relegation,38,Tue May 21 2024,20:30,CEST/+0200,FC Luzern,1-2,0-2,Stade-Lausanne-Ouchy,2024-05-21T18:30Z
+Playoffs - Relegation,38,Tue May 21 2024,20:30,CEST/+0200,FC Lausanne-Sport,0-0,0-0,Grasshopper Club Zürich,2024-05-21T18:30Z
+Playoffs - Relegation,38,Tue May 21 2024,20:30,CEST/+0200,FC Basel 1893,0-0,0-0,Yverdon Sport FC,2024-05-21T18:30Z
+Playoffs - Relegation,38,Tue May 21 2024,20:30,CEST/+0200,FC Luzern,1-2,0-2,Stade-Lausanne-Ouchy,2024-05-21T18:30Z
 Championship,38,Sat May 25 2024,20:30,CEST/+0200,FC Lugano,0-2,0-1,Servette FC,2024-05-25T18:30Z
 Championship,38,Sat May 25 2024,20:30,CEST/+0200,FC St. Gallen,1-2,1-2,FC Zürich,2024-05-25T18:30Z
 Championship,38,Sat May 25 2024,20:30,CEST/+0200,BSC Young Boys,3-0,0-0,FC Winterthur,2024-05-25T18:30Z

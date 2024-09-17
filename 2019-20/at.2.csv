@@ -1,241 +1,241 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Jul 26 2019,19:10,SV Ried,1-3,0-0,SK Austria Klagenfurt
-1,Fri Jul 26 2019,19:10,FC Blau Weiß Linz,1-1,0-0,Kapfenberger SV
-1,Fri Jul 26 2019,19:10,FC Liefering,2-3,0-1,SKU Amstetten
-1,Fri Jul 26 2019,19:10,Young Violets,1-5,1-3,SV Horn
-1,Fri Jul 26 2019,19:10,SV Lafnitz,0-0,0-0,FC Juniors OÖ
-1,Fri Jul 26 2019,19:10,Vorwärts Steyr,2-0,0-0,FC Wacker Innsbruck
-1,Fri Jul 26 2019,19:10,FC Dornbirn,1-3,0-1,Austria Lustenau
-1,Sun Jul 28 2019,10:30,Floridsdorfer AC,2-0,1-0,Grazer AK
-2,Fri Aug 2 2019,19:10,Austria Lustenau,1-1,1-0,SV Ried
-2,Fri Aug 2 2019,19:10,Kapfenberger SV,1-2,0-1,SV Lafnitz
-2,Fri Aug 2 2019,19:10,FC Juniors OÖ,3-1,1-1,Vorwärts Steyr
-2,Fri Aug 2 2019,19:10,SKU Amstetten,3-2,0-1,Young Violets
-2,Fri Aug 2 2019,19:10,SV Horn,2-2,1-1,Floridsdorfer AC
-2,Fri Aug 2 2019,20:30,Grazer AK,2-0,2-0,FC Blau Weiß Linz
-2,Sun Aug 4 2019,10:30,FC Wacker Innsbruck,1-0,1-0,FC Dornbirn
-2,Sun Aug 4 2019,17:00,SK Austria Klagenfurt,4-4,1-2,FC Liefering
-3,Fri Aug 9 2019,19:10,FC Juniors OÖ,1-0,0-0,Kapfenberger SV
-3,Fri Aug 9 2019,19:10,Floridsdorfer AC,2-0,1-0,FC Wacker Innsbruck
-3,Fri Aug 9 2019,19:10,Young Violets,0-2,0-1,Austria Lustenau
-3,Fri Aug 9 2019,19:10,SV Lafnitz,2-0,1-0,FC Liefering
-3,Fri Aug 9 2019,19:10,Vorwärts Steyr,0-1,0-0,FC Blau Weiß Linz
-3,Fri Aug 9 2019,19:10,FC Dornbirn,0-0,0-0,SK Austria Klagenfurt
-3,Fri Aug 9 2019,19:10,Grazer AK,0-0,0-0,SV Horn
-3,Sun Aug 11 2019,10:30,SV Ried,4-1,2-0,SKU Amstetten
-4,Fri Aug 16 2019,19:10,FC Wacker Innsbruck,2-1,0-1,FC Juniors OÖ
-4,Fri Aug 16 2019,19:10,Kapfenberger SV,1-2,0-2,SK Austria Klagenfurt
-4,Fri Aug 16 2019,19:10,FC Blau Weiß Linz,4-3,1-1,Young Violets
-4,Fri Aug 16 2019,19:10,SKU Amstetten,0-2,0-2,FC Dornbirn
-4,Fri Aug 16 2019,19:10,FC Liefering,3-2,1-1,SV Horn
-4,Fri Aug 16 2019,19:10,SV Lafnitz,0-1,0-1,SV Ried
-4,Fri Aug 16 2019,19:10,Vorwärts Steyr,1-0,1-0,Floridsdorfer AC
-4,Sun Aug 18 2019,10:30,Austria Lustenau,0-2,0-1,Grazer AK
-5,Fri Aug 23 2019,19:10,FC Wacker Innsbruck,2-1,2-0,SKU Amstetten
-5,Fri Aug 23 2019,19:10,SV Ried,1-2,1-0,Grazer AK
-5,Fri Aug 23 2019,19:10,FC Juniors OÖ,8-5,2-2,Austria Lustenau
-5,Fri Aug 23 2019,19:10,Floridsdorfer AC,0-0,0-0,FC Liefering
-5,Fri Aug 23 2019,19:10,Young Violets,2-3,1-0,SV Lafnitz
-5,Fri Aug 23 2019,19:10,SV Horn,1-4,0-0,Vorwärts Steyr
-5,Sat Aug 24 2019,18:00,FC Dornbirn,6-1,3-0,Kapfenberger SV
-5,Sun Aug 25 2019,10:30,SK Austria Klagenfurt,3-1,1-0,FC Blau Weiß Linz
-6,Fri Aug 30 2019,19:10,Kapfenberger SV,2-3,0-2,SV Ried
-6,Fri Aug 30 2019,19:10,FC Blau Weiß Linz,1-0,0-0,FC Wacker Innsbruck
-6,Fri Aug 30 2019,19:10,SKU Amstetten,2-4,1-2,SV Horn
-6,Fri Aug 30 2019,19:10,FC Liefering,2-1,1-0,Young Violets
-6,Fri Aug 30 2019,19:10,SV Lafnitz,0-3,0-0,SK Austria Klagenfurt
-6,Fri Aug 30 2019,19:10,Grazer AK,2-1,0-0,FC Juniors OÖ
-6,Sat Aug 31 2019,14:30,Vorwärts Steyr,3-2,0-0,FC Dornbirn
-6,Sun Sep 1 2019,10:30,Austria Lustenau,1-2,1-1,Floridsdorfer AC
-7,Fri Sep 13 2019,18:30,SKU Amstetten,2-1,1-0,Vorwärts Steyr
-7,Fri Sep 13 2019,19:10,SK Austria Klagenfurt,3-3,1-1,Austria Lustenau
-7,Fri Sep 13 2019,19:10,Floridsdorfer AC,1-1,0-0,SV Lafnitz
-7,Fri Sep 13 2019,19:10,Young Violets,0-0,0-0,SV Ried
-7,Fri Sep 13 2019,19:10,SV Horn,5-1,3-1,Kapfenberger SV
-7,Sat Sep 14 2019,14:30,FC Wacker Innsbruck,2-0,0-0,Grazer AK
-7,Sat Sep 14 2019,16:00,FC Dornbirn,2-2,2-1,FC Liefering
-7,Sun Sep 15 2019,10:30,FC Juniors OÖ,0-5,0-2,FC Blau Weiß Linz
-8,Fri Sep 20 2019,19:10,SV Ried,3-1,1-1,FC Juniors OÖ
-8,Fri Sep 20 2019,19:10,Austria Lustenau,2-1,2-1,FC Blau Weiß Linz
-8,Fri Sep 20 2019,19:10,Kapfenberger SV,1-1,0-0,SKU Amstetten
-8,Fri Sep 20 2019,19:10,SV Lafnitz,2-3,2-2,SV Horn
-8,Fri Sep 20 2019,19:10,Grazer AK,1-2,1-1,SK Austria Klagenfurt
-8,Sat Sep 21 2019,14:30,FC Liefering,2-2,1-0,FC Wacker Innsbruck
-8,Sat Sep 21 2019,20:00,Floridsdorfer AC,0-3,0-1,FC Dornbirn
-8,Sun Sep 22 2019,10:30,Vorwärts Steyr,0-0,0-0,Young Violets
-9,Fri Sep 27 2019,19:10,Kapfenberger SV,0-2,0-2,FC Liefering
-9,Fri Sep 27 2019,19:10,SKU Amstetten,1-2,1-2,FC Juniors OÖ
-9,Fri Sep 27 2019,19:10,Young Violets,4-1,2-0,Floridsdorfer AC
-9,Fri Sep 27 2019,19:10,SV Horn,2-4,0-2,Austria Lustenau
-9,Sat Sep 28 2019,14:30,FC Wacker Innsbruck,0-3,0-1,SV Lafnitz
-9,Sat Sep 28 2019,14:30,FC Dornbirn,3-1,1-0,Grazer AK
-9,Sun Sep 29 2019,10:30,FC Blau Weiß Linz,2-3,1-0,SV Ried
-9,Sun Sep 29 2019,10:30,SK Austria Klagenfurt,1-1,1-0,Vorwärts Steyr
-10,Fri Oct 4 2019,18:30,FC Juniors OÖ,0-2,0-1,SK Austria Klagenfurt
-10,Fri Oct 4 2019,19:10,FC Wacker Innsbruck,1-2,0-1,Kapfenberger SV
-10,Fri Oct 4 2019,19:10,SV Ried,1-0,0-0,Vorwärts Steyr
-10,Fri Oct 4 2019,19:10,Floridsdorfer AC,0-2,0-0,SKU Amstetten
-10,Fri Oct 4 2019,19:10,SV Horn,2-4,1-2,FC Blau Weiß Linz
-10,Sat Oct 5 2019,14:30,Grazer AK,2-3,0-2,Young Violets
-10,Sat Oct 5 2019,19:00,SV Lafnitz,1-1,0-0,FC Dornbirn
-10,Sun Oct 6 2019,10:30,Austria Lustenau,3-2,2-1,FC Liefering
-11,Fri Oct 18 2019,19:10,FC Blau Weiß Linz,2-3,1-0,Floridsdorfer AC
-11,Fri Oct 18 2019,19:10,SK Austria Klagenfurt,2-0,0-0,SV Horn
-11,Fri Oct 18 2019,19:10,SKU Amstetten,1-1,0-0,SV Lafnitz
-11,Fri Oct 18 2019,19:10,Young Violets,1-2,1-1,FC Wacker Innsbruck
-11,Fri Oct 18 2019,19:10,Vorwärts Steyr,3-1,2-1,Austria Lustenau
-11,Sat Oct 19 2019,14:30,FC Liefering,0-1,0-0,SV Ried
-11,Sat Oct 19 2019,16:00,FC Dornbirn,2-2,1-1,FC Juniors OÖ
-11,Sun Oct 20 2019,10:30,Kapfenberger SV,2-0,0-0,Grazer AK
-12,Fri Oct 25 2019,19:10,FC Wacker Innsbruck,2-3,2-2,SV Ried
-12,Fri Oct 25 2019,19:10,Austria Lustenau,3-2,0-2,Kapfenberger SV
-12,Fri Oct 25 2019,19:10,SKU Amstetten,2-2,2-0,FC Blau Weiß Linz
-12,Fri Oct 25 2019,19:10,SV Lafnitz,1-1,0-0,Vorwärts Steyr
-12,Fri Oct 25 2019,19:10,Grazer AK,1-1,1-0,FC Liefering
-12,Sat Oct 26 2019,14:30,FC Juniors OÖ,2-4,0-2,Young Violets
-12,Sat Oct 26 2019,17:00,SV Horn,1-1,1-0,FC Dornbirn
-12,Sun Oct 27 2019,10:30,Floridsdorfer AC,0-2,0-0,SK Austria Klagenfurt
-13,Fri Nov 1 2019,19:10,SV Ried,3-1,2-0,SV Horn
-13,Fri Nov 1 2019,19:10,Kapfenberger SV,2-1,0-1,Floridsdorfer AC
-13,Fri Nov 1 2019,19:10,FC Blau Weiß Linz,1-5,0-4,SV Lafnitz
-13,Fri Nov 1 2019,19:10,SK Austria Klagenfurt,1-1,0-0,SKU Amstetten
-13,Fri Nov 1 2019,19:10,FC Liefering,0-4,0-1,FC Juniors OÖ
-13,Fri Nov 1 2019,19:10,Vorwärts Steyr,2-2,1-1,Grazer AK
-13,Sat Nov 2 2019,14:30,Young Violets,0-1,0-0,FC Dornbirn
-13,Sun Nov 3 2019,10:30,Austria Lustenau,2-3,0-1,FC Wacker Innsbruck
-14,Fri Nov 8 2019,19:10,Floridsdorfer AC,1-2,1-2,SV Ried
-14,Fri Nov 8 2019,19:10,SKU Amstetten,2-0,1-0,Austria Lustenau
-14,Fri Nov 8 2019,19:10,Young Violets,4-1,1-0,Kapfenberger SV
-14,Fri Nov 8 2019,19:10,SV Horn,1-3,0-1,FC Juniors OÖ
-14,Fri Nov 8 2019,20:15,FC Wacker Innsbruck,2-4,1-2,SK Austria Klagenfurt
-14,Sat Nov 9 2019,14:30,FC Liefering,1-3,0-1,Vorwärts Steyr
-14,Sat Nov 9 2019,14:30,FC Dornbirn,2-2,0-2,FC Blau Weiß Linz
-14,Sun Nov 10 2019,10:30,SV Lafnitz,1-1,0-0,Grazer AK
-15,Fri Nov 22 2019,19:10,Kapfenberger SV,2-1,0-0,Vorwärts Steyr
-15,Fri Nov 22 2019,19:10,FC Blau Weiß Linz,2-4,0-2,FC Liefering
-15,Fri Nov 22 2019,19:10,SK Austria Klagenfurt,2-1,2-0,Young Violets
-15,Fri Nov 22 2019,19:10,SV Horn,0-1,0-1,FC Wacker Innsbruck
-15,Fri Nov 22 2019,19:10,Grazer AK,2-2,1-2,SKU Amstetten
-15,Sat Nov 23 2019,14:30,Austria Lustenau,0-1,0-1,SV Lafnitz
-15,Sat Nov 23 2019,14:30,FC Juniors OÖ,2-2,1-2,Floridsdorfer AC
-15,Sun Nov 24 2019,10:30,SV Ried,4-0,2-0,FC Dornbirn
-16,Fri Nov 29 2019,19:10,SV Lafnitz,0-2,0-0,Austria Lustenau
-16,Fri Nov 29 2019,19:10,Floridsdorfer AC,0-0,0-0,FC Juniors OÖ
-16,Fri Nov 29 2019,19:10,Young Violets,4-1,1-0,SK Austria Klagenfurt
-16,Fri Nov 29 2019,19:10,FC Wacker Innsbruck,1-1,0-1,SV Horn
-16,Fri Nov 29 2019,19:10,SKU Amstetten,3-3,2-2,Grazer AK
-16,Sat Nov 30 2019,14:00,Vorwärts Steyr,2-0,0-0,Kapfenberger SV
-16,Sat Nov 30 2019,14:30,FC Dornbirn,0-5,0-1,SV Ried
-16,Sun Dec 1 2019,10:30,FC Liefering,5-1,2-1,FC Blau Weiß Linz
-17,Fri Feb 21 2020,19:10,SK Austria Klagenfurt,1-1,1-0,SV Ried
-17,Fri Feb 21 2020,19:10,Kapfenberger SV,1-1,0-1,FC Blau Weiß Linz
-17,Fri Feb 21 2020,19:10,SKU Amstetten,1-1,0-0,FC Liefering
-17,Fri Feb 21 2020,19:10,SV Horn,2-2,0-1,Young Violets
-17,Fri Feb 21 2020,19:10,FC Juniors OÖ,1-2,0-1,SV Lafnitz
-17,Fri Feb 21 2020,19:10,Austria Lustenau,4-1,1-0,FC Dornbirn
-17,Sun Feb 23 2020,10:30,Grazer AK,1-2,1-1,Floridsdorfer AC
-17,Sun Feb 23 2020,12:30,FC Wacker Innsbruck,1-1,1-0,Vorwärts Steyr
-18,Fri Feb 28 2020,19:10,SV Ried,1-0,1-0,Austria Lustenau
-18,Fri Feb 28 2020,19:10,Vorwärts Steyr,0-0,0-0,FC Juniors OÖ
-18,Fri Feb 28 2020,19:10,Young Violets,3-0,1-0,SKU Amstetten
-18,Fri Feb 28 2020,19:10,Floridsdorfer AC,3-3,2-0,SV Horn
-18,Sat Feb 29 2020,14:30,SV Lafnitz,0-3,0-1,Kapfenberger SV
-18,Sat Feb 29 2020,15:30,FC Blau Weiß Linz,1-1,0-1,Grazer AK
-18,Sat Feb 29 2020,17:30,FC Liefering,3-1,0-0,SK Austria Klagenfurt
-18,Sun Mar 1 2020,10:30,FC Dornbirn,0-4,0-2,FC Wacker Innsbruck
-19,Fri Mar 6 2020,19:10,FC Blau Weiß Linz,2-0,2-0,Vorwärts Steyr
-19,Fri Mar 6 2020,19:10,SV Horn,4-2,1-1,Grazer AK
-19,Sat Mar 7 2020,14:30,FC Wacker Innsbruck,1-0,1-0,Floridsdorfer AC
-19,Sat Mar 7 2020,14:30,Austria Lustenau,2-3,0-1,Young Violets
-19,Sat Mar 7 2020,14:30,FC Liefering,4-1,1-1,SV Lafnitz
-19,Sat Mar 7 2020,14:30,SK Austria Klagenfurt,1-1,0-1,FC Dornbirn
-19,Sun Mar 8 2020,10:30,SKU Amstetten,1-2,1-1,SV Ried
-19,Tue Mar 10 2020,19:00,Kapfenberger SV,2-2,0-2,FC Juniors OÖ
-20,Fri Jun 5 2020,18:30,Young Violets,3-0,2-0,FC Blau Weiß Linz
-20,Fri Jun 5 2020,18:30,FC Dornbirn,0-4,0-2,SKU Amstetten
-20,Fri Jun 5 2020,18:30,SV Horn,1-1,1-1,FC Liefering
-20,Fri Jun 5 2020,18:30,Floridsdorfer AC,0-0,0-0,Vorwärts Steyr
-20,Fri Jun 5 2020,20:25,SV Ried,3-1,2-0,SV Lafnitz
-20,Sat Jun 6 2020,15:00,FC Juniors OÖ,2-1,2-1,FC Wacker Innsbruck
-20,Sat Jun 6 2020,20:25,Grazer AK,1-1,1-1,Austria Lustenau
-20,Sun Jun 7 2020,10:30,SK Austria Klagenfurt,3-2,0-1,Kapfenberger SV
-21,Wed Jun 10 2020,18:25,SV Lafnitz,0-0,0-0,Young Violets
-21,Wed Jun 10 2020,18:25,Kapfenberger SV,0-1,0-0,FC Dornbirn
-21,Wed Jun 10 2020,18:30,SKU Amstetten,2-3,2-0,FC Wacker Innsbruck
-21,Wed Jun 10 2020,18:30,Grazer AK,4-2,1-1,SV Ried
-21,Wed Jun 10 2020,18:30,Austria Lustenau,2-2,1-1,FC Juniors OÖ
-21,Wed Jun 10 2020,18:30,Vorwärts Steyr,2-2,1-1,SV Horn
-21,Thu Jun 11 2020,10:30,FC Blau Weiß Linz,1-2,0-1,SK Austria Klagenfurt
-21,Thu Jun 11 2020,20:25,FC Liefering,3-0,1-0,Floridsdorfer AC
-22,Sat Jun 13 2020,15:00,FC Dornbirn,0-2,0-0,Vorwärts Steyr
-22,Sat Jun 13 2020,15:00,FC Juniors OÖ,1-0,0-0,Grazer AK
-22,Sat Jun 13 2020,20:25,SV Horn,1-2,1-0,SKU Amstetten
-22,Sun Jun 14 2020,10:30,Floridsdorfer AC,2-1,1-0,Austria Lustenau
-22,Sun Jun 14 2020,10:30,SV Ried,5-0,2-0,Kapfenberger SV
-22,Sun Jun 14 2020,14:30,FC Wacker Innsbruck,2-0,1-0,FC Blau Weiß Linz
-22,Sun Jun 14 2020,15:00,Young Violets,2-0,0-0,FC Liefering
-22,Sun Jun 14 2020,20:25,SK Austria Klagenfurt,2-1,1-1,SV Lafnitz
-23,Fri Jun 19 2020,18:30,Grazer AK,0-1,0-0,FC Wacker Innsbruck
-23,Fri Jun 19 2020,18:30,SV Lafnitz,2-2,1-1,Floridsdorfer AC
-23,Fri Jun 19 2020,18:30,SV Ried,1-3,0-1,Young Violets
-23,Fri Jun 19 2020,18:30,Kapfenberger SV,3-1,1-0,SV Horn
-23,Fri Jun 19 2020,18:30,FC Liefering,5-1,1-0,FC Dornbirn
-23,Fri Jun 19 2020,20:25,Austria Lustenau,0-2,0-2,SK Austria Klagenfurt
-23,Sat Jun 20 2020,20:25,FC Blau Weiß Linz,2-2,0-0,FC Juniors OÖ
-23,Sun Jun 21 2020,10:30,Vorwärts Steyr,2-0,0-0,SKU Amstetten
-24,Tue Jun 23 2020,18:30,FC Juniors OÖ,3-2,1-0,SV Ried
-24,Tue Jun 23 2020,18:30,FC Blau Weiß Linz,2-1,0-0,Austria Lustenau
-24,Tue Jun 23 2020,18:30,FC Dornbirn,1-1,0-0,Floridsdorfer AC
-24,Tue Jun 23 2020,18:30,SV Horn,3-2,0-1,SV Lafnitz
-24,Tue Jun 23 2020,18:30,SK Austria Klagenfurt,1-2,0-1,Grazer AK
-24,Wed Jun 24 2020,18:15,FC Wacker Innsbruck,1-4,1-2,FC Liefering
-24,Wed Jun 24 2020,18:30,SKU Amstetten,2-0,1-0,Kapfenberger SV
-24,Wed Jun 24 2020,18:30,Young Violets,1-4,0-3,Vorwärts Steyr
-25,Fri Jun 26 2020,18:30,Austria Lustenau,1-2,0-2,SV Horn
-25,Fri Jun 26 2020,20:25,SV Ried,1-3,1-1,FC Blau Weiß Linz
-25,Sat Jun 27 2020,15:00,FC Liefering,3-2,2-2,Kapfenberger SV
-25,Sat Jun 27 2020,15:00,FC Juniors OÖ,1-3,1-1,SKU Amstetten
-25,Sat Jun 27 2020,15:00,Floridsdorfer AC,1-1,0-1,Young Violets
-25,Sat Jun 27 2020,15:00,Grazer AK,1-1,1-1,FC Dornbirn
-25,Sat Jun 27 2020,20:25,SV Lafnitz,1-1,0-1,FC Wacker Innsbruck
-25,Sun Jun 28 2020,10:30,Vorwärts Steyr,1-2,1-2,SK Austria Klagenfurt
-26,Fri Jul 3 2020,18:30,Kapfenberger SV,,,FC Wacker Innsbruck
-26,Fri Jul 3 2020,18:30,FC Liefering,,,Austria Lustenau
-26,Fri Jul 3 2020,18:30,FC Blau Weiß Linz,,,SV Horn
-26,Fri Jul 3 2020,20:25,Vorwärts Steyr,,,SV Ried
-26,Sat Jul 4 2020,15:00,FC Dornbirn,,,SV Lafnitz
-26,Sat Jul 4 2020,20:25,SK Austria Klagenfurt,,,FC Juniors OÖ
-26,Sun Jul 5 2020,10:30,Young Violets,,,Grazer AK
-26,Sun Jul 5 2020,20:25,SKU Amstetten,,,Floridsdorfer AC
-27,Fri Jul 10 2020,18:30,Floridsdorfer AC,,,FC Blau Weiß Linz
-27,Fri Jul 10 2020,18:30,SV Lafnitz,,,SKU Amstetten
-27,Fri Jul 10 2020,18:30,FC Wacker Innsbruck,,,Young Violets
-27,Fri Jul 10 2020,20:25,SV Horn,,,SK Austria Klagenfurt
-27,Sat Jul 11 2020,14:30,Austria Lustenau,,,Vorwärts Steyr
-27,Sat Jul 11 2020,15:00,FC Juniors OÖ,,,FC Dornbirn
-27,Sat Jul 11 2020,20:25,Grazer AK,,,Kapfenberger SV
-27,Sun Jul 12 2020,10:30,SV Ried,,,FC Liefering
-28,Fri Jul 17 2020,18:30,Kapfenberger SV,,,Austria Lustenau
-28,Fri Jul 17 2020,18:30,Young Violets,,,FC Juniors OÖ
-28,Fri Jul 17 2020,18:30,FC Blau Weiß Linz,,,SKU Amstetten
-28,Fri Jul 17 2020,20:25,SV Ried,,,FC Wacker Innsbruck
-28,Fri Jul 17 2020,20:25,Vorwärts Steyr,,,SV Lafnitz
-28,Sat Jul 18 2020,15:00,SK Austria Klagenfurt,,,Floridsdorfer AC
-28,Sat Jul 18 2020,20:25,FC Dornbirn,,,SV Horn
-28,Sun Jul 19 2020,10:30,FC Liefering,,,Grazer AK
-29,Fri Jul 24 2020,19:10,SV Horn,,,SV Ried
-29,Fri Jul 24 2020,19:10,FC Wacker Innsbruck,,,Austria Lustenau
-29,Fri Jul 24 2020,19:10,Floridsdorfer AC,,,Kapfenberger SV
-29,Fri Jul 24 2020,19:10,SV Lafnitz,,,FC Blau Weiß Linz
-29,Fri Jul 24 2020,19:10,SKU Amstetten,,,SK Austria Klagenfurt
-29,Fri Jul 24 2020,19:10,FC Juniors OÖ,,,FC Liefering
-29,Fri Jul 24 2020,19:10,FC Dornbirn,,,Young Violets
-29,Fri Jul 24 2020,19:10,Grazer AK,,,Vorwärts Steyr
-30,Fri Jul 31 2020,19:10,SK Austria Klagenfurt,,,FC Wacker Innsbruck
-30,Fri Jul 31 2020,19:10,SV Ried,,,Floridsdorfer AC
-30,Fri Jul 31 2020,19:10,Austria Lustenau,,,SKU Amstetten
-30,Fri Jul 31 2020,19:10,Vorwärts Steyr,,,FC Liefering
-30,Fri Jul 31 2020,19:10,Kapfenberger SV,,,Young Violets
-30,Fri Jul 31 2020,19:10,Grazer AK,,,SV Lafnitz
-30,Fri Jul 31 2020,19:10,FC Juniors OÖ,,,SV Horn
-30,Fri Jul 31 2020,19:10,FC Blau Weiß Linz,,,FC Dornbirn
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 26 2019,19:10,CEST/+0200,FC Blau Weiß Linz,1-1,0-0,Kapfenberger SV 1919,2019-07-26T17:10Z
+1,Fri Jul 26 2019,19:10,CEST/+0200,FC Liefering,2-3,0-1,SKU Amstetten,2019-07-26T17:10Z
+1,Fri Jul 26 2019,19:10,CEST/+0200,Austria Wien II,1-5,1-3,SV Horn,2019-07-26T17:10Z
+1,Fri Jul 26 2019,19:10,CEST/+0200,SV Lafnitz,0-0,0-0,FC Juniors OÖ,2019-07-26T17:10Z
+1,Fri Jul 26 2019,19:10,CEST/+0200,Vorwärts Steyr,2-0,0-0,FC Wacker Innsbruck,2019-07-26T17:10Z
+1,Fri Jul 26 2019,19:10,CEST/+0200,FC Dornbirn,1-3,0-1,Austria Lustenau,2019-07-26T17:10Z
+1,Fri Jul 26 2019,19:10,CEST/+0200,SV Ried,1-3,0-0,SK Austria Klagenfurt,2019-07-26T17:10Z
+1,Sun Jul 28 2019,10:30,CEST/+0200,Floridsdorfer AC,2-0,1-0,Grazer AK,2019-07-28T08:30Z
+2,Fri Aug 2 2019,19:10,CEST/+0200,Austria Lustenau,1-1,1-0,SV Ried,2019-08-02T17:10Z
+2,Fri Aug 2 2019,19:10,CEST/+0200,Kapfenberger SV 1919,1-2,0-1,SV Lafnitz,2019-08-02T17:10Z
+2,Fri Aug 2 2019,19:10,CEST/+0200,FC Juniors OÖ,3-1,1-1,Vorwärts Steyr,2019-08-02T17:10Z
+2,Fri Aug 2 2019,19:10,CEST/+0200,SKU Amstetten,3-2,0-1,Austria Wien II,2019-08-02T17:10Z
+2,Fri Aug 2 2019,19:10,CEST/+0200,SV Horn,2-2,1-1,Floridsdorfer AC,2019-08-02T17:10Z
+2,Fri Aug 2 2019,20:30,CEST/+0200,Grazer AK,2-0,2-0,FC Blau Weiß Linz,2019-08-02T18:30Z
+2,Sun Aug 4 2019,17:00,CEST/+0200,SK Austria Klagenfurt,4-4,1-2,FC Liefering,2019-08-04T15:00Z
+2,Sun Aug 4 2019,10:30,CEST/+0200,FC Wacker Innsbruck,1-0,1-0,FC Dornbirn,2019-08-04T08:30Z
+3,Fri Aug 9 2019,19:10,CEST/+0200,FC Juniors OÖ,1-0,0-0,Kapfenberger SV 1919,2019-08-09T17:10Z
+3,Fri Aug 9 2019,19:10,CEST/+0200,Floridsdorfer AC,2-0,1-0,FC Wacker Innsbruck,2019-08-09T17:10Z
+3,Fri Aug 9 2019,19:10,CEST/+0200,Austria Wien II,0-2,0-1,Austria Lustenau,2019-08-09T17:10Z
+3,Fri Aug 9 2019,19:10,CEST/+0200,SV Lafnitz,2-0,1-0,FC Liefering,2019-08-09T17:10Z
+3,Fri Aug 9 2019,19:10,CEST/+0200,Vorwärts Steyr,0-1,0-0,FC Blau Weiß Linz,2019-08-09T17:10Z
+3,Fri Aug 9 2019,19:10,CEST/+0200,FC Dornbirn,0-0,0-0,SK Austria Klagenfurt,2019-08-09T17:10Z
+3,Fri Aug 9 2019,19:10,CEST/+0200,Grazer AK,0-0,0-0,SV Horn,2019-08-09T17:10Z
+3,Sun Aug 11 2019,10:30,CEST/+0200,SV Ried,4-1,2-0,SKU Amstetten,2019-08-11T08:30Z
+4,Fri Aug 16 2019,19:10,CEST/+0200,FC Wacker Innsbruck,2-1,0-1,FC Juniors OÖ,2019-08-16T17:10Z
+4,Fri Aug 16 2019,19:10,CEST/+0200,Kapfenberger SV 1919,1-2,0-2,SK Austria Klagenfurt,2019-08-16T17:10Z
+4,Fri Aug 16 2019,19:10,CEST/+0200,FC Blau Weiß Linz,4-3,1-1,Austria Wien II,2019-08-16T17:10Z
+4,Fri Aug 16 2019,19:10,CEST/+0200,SKU Amstetten,0-2,0-2,FC Dornbirn,2019-08-16T17:10Z
+4,Fri Aug 16 2019,19:10,CEST/+0200,FC Liefering,3-2,1-1,SV Horn,2019-08-16T17:10Z
+4,Fri Aug 16 2019,19:10,CEST/+0200,SV Lafnitz,0-1,0-1,SV Ried,2019-08-16T17:10Z
+4,Fri Aug 16 2019,19:10,CEST/+0200,Vorwärts Steyr,1-0,1-0,Floridsdorfer AC,2019-08-16T17:10Z
+4,Sun Aug 18 2019,10:30,CEST/+0200,Austria Lustenau,0-2,0-1,Grazer AK,2019-08-18T08:30Z
+5,Fri Aug 23 2019,19:10,CEST/+0200,FC Wacker Innsbruck,2-1,2-0,SKU Amstetten,2019-08-23T17:10Z
+5,Fri Aug 23 2019,19:10,CEST/+0200,SV Ried,1-2,1-0,Grazer AK,2019-08-23T17:10Z
+5,Fri Aug 23 2019,19:10,CEST/+0200,FC Juniors OÖ,8-5,2-2,Austria Lustenau,2019-08-23T17:10Z
+5,Fri Aug 23 2019,19:10,CEST/+0200,Floridsdorfer AC,0-0,0-0,FC Liefering,2019-08-23T17:10Z
+5,Fri Aug 23 2019,19:10,CEST/+0200,Austria Wien II,2-3,1-0,SV Lafnitz,2019-08-23T17:10Z
+5,Fri Aug 23 2019,19:10,CEST/+0200,SV Horn,1-4,0-0,Vorwärts Steyr,2019-08-23T17:10Z
+5,Sat Aug 24 2019,18:00,CEST/+0200,FC Dornbirn,6-1,3-0,Kapfenberger SV 1919,2019-08-24T16:00Z
+5,Sun Aug 25 2019,10:30,CEST/+0200,SK Austria Klagenfurt,3-1,1-0,FC Blau Weiß Linz,2019-08-25T08:30Z
+6,Fri Aug 30 2019,19:10,CEST/+0200,Kapfenberger SV 1919,2-3,0-2,SV Ried,2019-08-30T17:10Z
+6,Fri Aug 30 2019,19:10,CEST/+0200,FC Blau Weiß Linz,1-0,0-0,FC Wacker Innsbruck,2019-08-30T17:10Z
+6,Fri Aug 30 2019,19:10,CEST/+0200,SKU Amstetten,2-4,1-2,SV Horn,2019-08-30T17:10Z
+6,Fri Aug 30 2019,19:10,CEST/+0200,FC Liefering,2-1,1-0,Austria Wien II,2019-08-30T17:10Z
+6,Fri Aug 30 2019,19:10,CEST/+0200,SV Lafnitz,0-3,0-0,SK Austria Klagenfurt,2019-08-30T17:10Z
+6,Fri Aug 30 2019,19:10,CEST/+0200,Grazer AK,2-1,0-0,FC Juniors OÖ,2019-08-30T17:10Z
+6,Sat Aug 31 2019,14:30,CEST/+0200,Vorwärts Steyr,3-2,0-0,FC Dornbirn,2019-08-31T12:30Z
+6,Sun Sep 1 2019,10:30,CEST/+0200,Austria Lustenau,1-2,1-1,Floridsdorfer AC,2019-09-01T08:30Z
+7,Fri Sep 13 2019,18:30,CEST/+0200,SKU Amstetten,2-1,1-0,Vorwärts Steyr,2019-09-13T16:30Z
+7,Fri Sep 13 2019,19:10,CEST/+0200,SK Austria Klagenfurt,3-3,1-1,Austria Lustenau,2019-09-13T17:10Z
+7,Fri Sep 13 2019,19:10,CEST/+0200,Floridsdorfer AC,1-1,0-0,SV Lafnitz,2019-09-13T17:10Z
+7,Fri Sep 13 2019,19:10,CEST/+0200,Austria Wien II,0-0,0-0,SV Ried,2019-09-13T17:10Z
+7,Fri Sep 13 2019,19:10,CEST/+0200,SV Horn,5-1,3-1,Kapfenberger SV 1919,2019-09-13T17:10Z
+7,Sat Sep 14 2019,16:00,CEST/+0200,FC Dornbirn,2-2,2-1,FC Liefering,2019-09-14T14:00Z
+7,Sat Sep 14 2019,14:30,CEST/+0200,FC Wacker Innsbruck,2-0,0-0,Grazer AK,2019-09-14T12:30Z
+7,Sun Sep 15 2019,10:30,CEST/+0200,FC Juniors OÖ,0-5,0-2,FC Blau Weiß Linz,2019-09-15T08:30Z
+8,Fri Sep 20 2019,19:10,CEST/+0200,SV Ried,3-1,1-1,FC Juniors OÖ,2019-09-20T17:10Z
+8,Fri Sep 20 2019,19:10,CEST/+0200,Austria Lustenau,2-1,2-1,FC Blau Weiß Linz,2019-09-20T17:10Z
+8,Fri Sep 20 2019,19:10,CEST/+0200,Kapfenberger SV 1919,1-1,0-0,SKU Amstetten,2019-09-20T17:10Z
+8,Fri Sep 20 2019,19:10,CEST/+0200,SV Lafnitz,2-3,2-2,SV Horn,2019-09-20T17:10Z
+8,Fri Sep 20 2019,19:10,CEST/+0200,Grazer AK,1-2,1-1,SK Austria Klagenfurt,2019-09-20T17:10Z
+8,Sat Sep 21 2019,20:00,CEST/+0200,Floridsdorfer AC,0-3,0-1,FC Dornbirn,2019-09-21T18:00Z
+8,Sat Sep 21 2019,14:30,CEST/+0200,FC Liefering,2-2,1-0,FC Wacker Innsbruck,2019-09-21T12:30Z
+8,Sun Sep 22 2019,10:30,CEST/+0200,Vorwärts Steyr,0-0,0-0,Austria Wien II,2019-09-22T08:30Z
+9,Fri Sep 27 2019,19:10,CEST/+0200,Kapfenberger SV 1919,0-2,0-2,FC Liefering,2019-09-27T17:10Z
+9,Fri Sep 27 2019,19:10,CEST/+0200,SKU Amstetten,1-2,1-2,FC Juniors OÖ,2019-09-27T17:10Z
+9,Fri Sep 27 2019,19:10,CEST/+0200,Austria Wien II,4-1,2-0,Floridsdorfer AC,2019-09-27T17:10Z
+9,Fri Sep 27 2019,19:10,CEST/+0200,SV Horn,2-4,0-2,Austria Lustenau,2019-09-27T17:10Z
+9,Sat Sep 28 2019,14:30,CEST/+0200,FC Dornbirn,3-1,1-0,Grazer AK,2019-09-28T12:30Z
+9,Sat Sep 28 2019,14:30,CEST/+0200,FC Wacker Innsbruck,0-3,0-1,SV Lafnitz,2019-09-28T12:30Z
+9,Sun Sep 29 2019,10:30,CEST/+0200,SK Austria Klagenfurt,1-1,1-0,Vorwärts Steyr,2019-09-29T08:30Z
+9,Sun Sep 29 2019,10:30,CEST/+0200,FC Blau Weiß Linz,2-3,1-0,SV Ried,2019-09-29T08:30Z
+10,Fri Oct 4 2019,18:30,CEST/+0200,FC Juniors OÖ,0-2,0-1,SK Austria Klagenfurt,2019-10-04T16:30Z
+10,Fri Oct 4 2019,19:10,CEST/+0200,FC Wacker Innsbruck,1-2,0-1,Kapfenberger SV 1919,2019-10-04T17:10Z
+10,Fri Oct 4 2019,19:10,CEST/+0200,SV Ried,1-0,0-0,Vorwärts Steyr,2019-10-04T17:10Z
+10,Fri Oct 4 2019,19:10,CEST/+0200,Floridsdorfer AC,0-2,0-0,SKU Amstetten,2019-10-04T17:10Z
+10,Fri Oct 4 2019,19:10,CEST/+0200,SV Horn,2-4,1-2,FC Blau Weiß Linz,2019-10-04T17:10Z
+10,Sat Oct 5 2019,19:00,CEST/+0200,SV Lafnitz,1-1,0-0,FC Dornbirn,2019-10-05T17:00Z
+10,Sat Oct 5 2019,14:30,CEST/+0200,Grazer AK,2-3,0-2,Austria Wien II,2019-10-05T12:30Z
+10,Sun Oct 6 2019,10:30,CEST/+0200,Austria Lustenau,3-2,2-1,FC Liefering,2019-10-06T08:30Z
+11,Fri Oct 18 2019,19:10,CEST/+0200,FC Blau Weiß Linz,2-3,1-0,Floridsdorfer AC,2019-10-18T17:10Z
+11,Fri Oct 18 2019,19:10,CEST/+0200,SK Austria Klagenfurt,2-0,0-0,SV Horn,2019-10-18T17:10Z
+11,Fri Oct 18 2019,19:10,CEST/+0200,SKU Amstetten,1-1,0-0,SV Lafnitz,2019-10-18T17:10Z
+11,Fri Oct 18 2019,19:10,CEST/+0200,Austria Wien II,1-2,1-1,FC Wacker Innsbruck,2019-10-18T17:10Z
+11,Fri Oct 18 2019,19:10,CEST/+0200,Vorwärts Steyr,3-1,2-1,Austria Lustenau,2019-10-18T17:10Z
+11,Sat Oct 19 2019,16:00,CEST/+0200,FC Dornbirn,2-2,1-1,FC Juniors OÖ,2019-10-19T14:00Z
+11,Sat Oct 19 2019,14:30,CEST/+0200,FC Liefering,0-1,0-0,SV Ried,2019-10-19T12:30Z
+11,Sun Oct 20 2019,10:30,CEST/+0200,Kapfenberger SV 1919,2-0,0-0,Grazer AK,2019-10-20T08:30Z
+12,Fri Oct 25 2019,19:10,CEST/+0200,FC Wacker Innsbruck,2-3,2-2,SV Ried,2019-10-25T17:10Z
+12,Fri Oct 25 2019,19:10,CEST/+0200,Austria Lustenau,3-2,0-2,Kapfenberger SV 1919,2019-10-25T17:10Z
+12,Fri Oct 25 2019,19:10,CEST/+0200,SKU Amstetten,2-2,2-0,FC Blau Weiß Linz,2019-10-25T17:10Z
+12,Fri Oct 25 2019,19:10,CEST/+0200,SV Lafnitz,1-1,0-0,Vorwärts Steyr,2019-10-25T17:10Z
+12,Fri Oct 25 2019,19:10,CEST/+0200,Grazer AK,1-1,1-0,FC Liefering,2019-10-25T17:10Z
+12,Sat Oct 26 2019,17:00,CEST/+0200,SV Horn,1-1,1-0,FC Dornbirn,2019-10-26T15:00Z
+12,Sat Oct 26 2019,14:30,CEST/+0200,FC Juniors OÖ,2-4,0-2,Austria Wien II,2019-10-26T12:30Z
+12,Sun Oct 27 2019,10:30,CET/+0100,Floridsdorfer AC,0-2,0-0,SK Austria Klagenfurt,2019-10-27T09:30Z
+13,Fri Nov 1 2019,19:10,CET/+0100,SV Ried,3-1,2-0,SV Horn,2019-11-01T18:10Z
+13,Fri Nov 1 2019,19:10,CET/+0100,Kapfenberger SV 1919,2-1,0-1,Floridsdorfer AC,2019-11-01T18:10Z
+13,Fri Nov 1 2019,19:10,CET/+0100,FC Blau Weiß Linz,1-5,0-4,SV Lafnitz,2019-11-01T18:10Z
+13,Fri Nov 1 2019,19:10,CET/+0100,SK Austria Klagenfurt,1-1,0-0,SKU Amstetten,2019-11-01T18:10Z
+13,Fri Nov 1 2019,19:10,CET/+0100,FC Liefering,0-4,0-1,FC Juniors OÖ,2019-11-01T18:10Z
+13,Fri Nov 1 2019,19:10,CET/+0100,Vorwärts Steyr,2-2,1-1,Grazer AK,2019-11-01T18:10Z
+13,Sat Nov 2 2019,14:30,CET/+0100,Austria Wien II,0-1,0-0,FC Dornbirn,2019-11-02T13:30Z
+13,Sun Nov 3 2019,10:30,CET/+0100,Austria Lustenau,2-3,0-1,FC Wacker Innsbruck,2019-11-03T09:30Z
+14,Fri Nov 8 2019,19:10,CET/+0100,Floridsdorfer AC,1-2,1-2,SV Ried,2019-11-08T18:10Z
+14,Fri Nov 8 2019,19:10,CET/+0100,SKU Amstetten,2-0,1-0,Austria Lustenau,2019-11-08T18:10Z
+14,Fri Nov 8 2019,19:10,CET/+0100,Austria Wien II,4-1,1-0,Kapfenberger SV 1919,2019-11-08T18:10Z
+14,Fri Nov 8 2019,19:10,CET/+0100,SV Horn,1-3,0-1,FC Juniors OÖ,2019-11-08T18:10Z
+14,Fri Nov 8 2019,20:15,CET/+0100,FC Wacker Innsbruck,2-4,1-2,SK Austria Klagenfurt,2019-11-08T19:15Z
+14,Sat Nov 9 2019,14:30,CET/+0100,FC Dornbirn,2-2,0-2,FC Blau Weiß Linz,2019-11-09T13:30Z
+14,Sat Nov 9 2019,14:30,CET/+0100,FC Liefering,1-3,0-1,Vorwärts Steyr,2019-11-09T13:30Z
+14,Sun Nov 10 2019,10:30,CET/+0100,SV Lafnitz,1-1,0-0,Grazer AK,2019-11-10T09:30Z
+15,Fri Nov 22 2019,19:10,CET/+0100,Kapfenberger SV 1919,2-1,0-0,Vorwärts Steyr,2019-11-22T18:10Z
+15,Fri Nov 22 2019,19:10,CET/+0100,FC Blau Weiß Linz,2-4,0-2,FC Liefering,2019-11-22T18:10Z
+15,Fri Nov 22 2019,19:10,CET/+0100,SK Austria Klagenfurt,2-1,2-0,Austria Wien II,2019-11-22T18:10Z
+15,Fri Nov 22 2019,19:10,CET/+0100,SV Horn,0-1,0-1,FC Wacker Innsbruck,2019-11-22T18:10Z
+15,Fri Nov 22 2019,19:10,CET/+0100,Grazer AK,2-2,1-2,SKU Amstetten,2019-11-22T18:10Z
+15,Sat Nov 23 2019,14:30,CET/+0100,FC Juniors OÖ,2-2,1-2,Floridsdorfer AC,2019-11-23T13:30Z
+15,Sat Nov 23 2019,14:30,CET/+0100,Austria Lustenau,0-1,0-1,SV Lafnitz,2019-11-23T13:30Z
+15,Sun Nov 24 2019,10:30,CET/+0100,SV Ried,4-0,2-0,FC Dornbirn,2019-11-24T09:30Z
+16,Fri Nov 29 2019,19:10,CET/+0100,SV Lafnitz,0-2,0-0,Austria Lustenau,2019-11-29T18:10Z
+16,Fri Nov 29 2019,19:10,CET/+0100,Floridsdorfer AC,0-0,0-0,FC Juniors OÖ,2019-11-29T18:10Z
+16,Fri Nov 29 2019,19:10,CET/+0100,Austria Wien II,4-1,1-0,SK Austria Klagenfurt,2019-11-29T18:10Z
+16,Fri Nov 29 2019,19:10,CET/+0100,FC Wacker Innsbruck,1-1,0-1,SV Horn,2019-11-29T18:10Z
+16,Fri Nov 29 2019,19:10,CET/+0100,SKU Amstetten,3-3,2-2,Grazer AK,2019-11-29T18:10Z
+16,Sat Nov 30 2019,14:30,CET/+0100,FC Dornbirn,0-5,0-1,SV Ried,2019-11-30T13:30Z
+16,Sat Nov 30 2019,14:00,CET/+0100,Vorwärts Steyr,2-0,0-0,Kapfenberger SV 1919,2019-11-30T13:00Z
+16,Sun Dec 1 2019,10:30,CET/+0100,FC Liefering,5-1,2-1,FC Blau Weiß Linz,2019-12-01T09:30Z
+17,Fri Feb 21 2020,19:10,CET/+0100,SK Austria Klagenfurt,1-1,1-0,SV Ried,2020-02-21T18:10Z
+17,Fri Feb 21 2020,19:10,CET/+0100,Kapfenberger SV 1919,1-1,0-1,FC Blau Weiß Linz,2020-02-21T18:10Z
+17,Fri Feb 21 2020,19:10,CET/+0100,SKU Amstetten,1-1,0-0,FC Liefering,2020-02-21T18:10Z
+17,Fri Feb 21 2020,19:10,CET/+0100,SV Horn,2-2,0-1,Austria Wien II,2020-02-21T18:10Z
+17,Fri Feb 21 2020,19:10,CET/+0100,FC Juniors OÖ,1-2,0-1,SV Lafnitz,2020-02-21T18:10Z
+17,Fri Feb 21 2020,19:10,CET/+0100,Austria Lustenau,4-1,1-0,FC Dornbirn,2020-02-21T18:10Z
+17,Sun Feb 23 2020,12:30,CET/+0100,FC Wacker Innsbruck,1-1,1-0,Vorwärts Steyr,2020-02-23T11:30Z
+17,Sun Feb 23 2020,10:30,CET/+0100,Grazer AK,1-2,1-1,Floridsdorfer AC,2020-02-23T09:30Z
+18,Fri Feb 28 2020,19:10,CET/+0100,SV Ried,1-0,1-0,Austria Lustenau,2020-02-28T18:10Z
+18,Fri Feb 28 2020,19:10,CET/+0100,Vorwärts Steyr,0-0,0-0,FC Juniors OÖ,2020-02-28T18:10Z
+18,Fri Feb 28 2020,19:10,CET/+0100,Austria Wien II,3-0,1-0,SKU Amstetten,2020-02-28T18:10Z
+18,Fri Feb 28 2020,19:10,CET/+0100,Floridsdorfer AC,3-3,2-0,SV Horn,2020-02-28T18:10Z
+18,Sat Feb 29 2020,15:30,CET/+0100,FC Blau Weiß Linz,1-1,0-1,Grazer AK,2020-02-29T14:30Z
+18,Sat Feb 29 2020,17:30,CET/+0100,FC Liefering,3-1,0-0,SK Austria Klagenfurt,2020-02-29T16:30Z
+18,Sat Feb 29 2020,14:30,CET/+0100,SV Lafnitz,0-3,0-1,Kapfenberger SV 1919,2020-02-29T13:30Z
+18,Sun Mar 1 2020,10:30,CET/+0100,FC Dornbirn,0-4,0-2,FC Wacker Innsbruck,2020-03-01T09:30Z
+19,Fri Mar 6 2020,19:10,CET/+0100,SV Horn,4-2,1-1,Grazer AK,2020-03-06T18:10Z
+19,Fri Mar 6 2020,19:10,CET/+0100,FC Blau Weiß Linz,2-0,2-0,Vorwärts Steyr,2020-03-06T18:10Z
+19,Sat Mar 7 2020,14:30,CET/+0100,FC Wacker Innsbruck,1-0,1-0,Floridsdorfer AC,2020-03-07T13:30Z
+19,Sat Mar 7 2020,14:30,CET/+0100,Austria Lustenau,2-3,0-1,Austria Wien II,2020-03-07T13:30Z
+19,Sat Mar 7 2020,14:30,CET/+0100,FC Liefering,4-1,1-1,SV Lafnitz,2020-03-07T13:30Z
+19,Sat Mar 7 2020,14:30,CET/+0100,SK Austria Klagenfurt,1-1,0-1,FC Dornbirn,2020-03-07T13:30Z
+19,Sun Mar 8 2020,10:30,CET/+0100,SKU Amstetten,1-2,1-1,SV Ried,2020-03-08T09:30Z
+19,Tue Mar 10 2020,19:00,CET/+0100,Kapfenberger SV 1919,2-2,0-2,FC Juniors OÖ,2020-03-10T18:00Z
+20,Fri Jun 5 2020,18:30,CEST/+0200,Austria Wien II,3-0,2-0,FC Blau Weiß Linz,2020-06-05T16:30Z
+20,Fri Jun 5 2020,18:30,CEST/+0200,FC Dornbirn,0-4,0-2,SKU Amstetten,2020-06-05T16:30Z
+20,Fri Jun 5 2020,18:30,CEST/+0200,SV Horn,1-1,1-1,FC Liefering,2020-06-05T16:30Z
+20,Fri Jun 5 2020,18:30,CEST/+0200,Floridsdorfer AC,0-0,0-0,Vorwärts Steyr,2020-06-05T16:30Z
+20,Fri Jun 5 2020,20:25,CEST/+0200,SV Ried,3-1,2-0,SV Lafnitz,2020-06-05T18:25Z
+20,Sat Jun 6 2020,20:25,CEST/+0200,Grazer AK,1-1,1-1,Austria Lustenau,2020-06-06T18:25Z
+20,Sat Jun 6 2020,15:00,CEST/+0200,FC Juniors OÖ,2-1,2-1,FC Wacker Innsbruck,2020-06-06T13:00Z
+20,Sun Jun 7 2020,10:30,CEST/+0200,SK Austria Klagenfurt,3-2,0-1,Kapfenberger SV 1919,2020-06-07T08:30Z
+21,Wed Jun 10 2020,18:25,CEST/+0200,SV Lafnitz,0-0,0-0,Austria Wien II,2020-06-10T16:25Z
+21,Wed Jun 10 2020,18:25,CEST/+0200,Kapfenberger SV 1919,0-1,0-0,FC Dornbirn,2020-06-10T16:25Z
+21,Wed Jun 10 2020,18:30,CEST/+0200,SKU Amstetten,2-3,2-0,FC Wacker Innsbruck,2020-06-10T16:30Z
+21,Wed Jun 10 2020,18:30,CEST/+0200,Grazer AK,4-2,1-1,SV Ried,2020-06-10T16:30Z
+21,Wed Jun 10 2020,18:30,CEST/+0200,Austria Lustenau,2-2,1-1,FC Juniors OÖ,2020-06-10T16:30Z
+21,Wed Jun 10 2020,18:30,CEST/+0200,Vorwärts Steyr,2-2,1-1,SV Horn,2020-06-10T16:30Z
+21,Thu Jun 11 2020,20:25,CEST/+0200,FC Liefering,3-0,1-0,Floridsdorfer AC,2020-06-11T18:25Z
+21,Thu Jun 11 2020,10:30,CEST/+0200,FC Blau Weiß Linz,1-2,0-1,SK Austria Klagenfurt,2020-06-11T08:30Z
+22,Sat Jun 13 2020,15:00,CEST/+0200,FC Dornbirn,0-2,0-0,Vorwärts Steyr,2020-06-13T13:00Z
+22,Sat Jun 13 2020,15:00,CEST/+0200,FC Juniors OÖ,1-0,0-0,Grazer AK,2020-06-13T13:00Z
+22,Sat Jun 13 2020,20:25,CEST/+0200,SV Horn,1-2,1-0,SKU Amstetten,2020-06-13T18:25Z
+22,Sun Jun 14 2020,10:30,CEST/+0200,SV Ried,5-0,2-0,Kapfenberger SV 1919,2020-06-14T08:30Z
+22,Sun Jun 14 2020,14:30,CEST/+0200,FC Wacker Innsbruck,2-0,1-0,FC Blau Weiß Linz,2020-06-14T12:30Z
+22,Sun Jun 14 2020,15:00,CEST/+0200,Austria Wien II,2-0,0-0,FC Liefering,2020-06-14T13:00Z
+22,Sun Jun 14 2020,20:25,CEST/+0200,SK Austria Klagenfurt,2-1,1-1,SV Lafnitz,2020-06-14T18:25Z
+22,Sun Jun 14 2020,10:30,CEST/+0200,Floridsdorfer AC,2-1,1-0,Austria Lustenau,2020-06-14T08:30Z
+23,Fri Jun 19 2020,18:30,CEST/+0200,Grazer AK,0-1,0-0,FC Wacker Innsbruck,2020-06-19T16:30Z
+23,Fri Jun 19 2020,18:30,CEST/+0200,SV Lafnitz,2-2,1-1,Floridsdorfer AC,2020-06-19T16:30Z
+23,Fri Jun 19 2020,18:30,CEST/+0200,SV Ried,1-3,0-1,Austria Wien II,2020-06-19T16:30Z
+23,Fri Jun 19 2020,18:30,CEST/+0200,Kapfenberger SV 1919,3-1,1-0,SV Horn,2020-06-19T16:30Z
+23,Fri Jun 19 2020,18:30,CEST/+0200,FC Liefering,5-1,1-0,FC Dornbirn,2020-06-19T16:30Z
+23,Fri Jun 19 2020,20:25,CEST/+0200,Austria Lustenau,0-2,0-2,SK Austria Klagenfurt,2020-06-19T18:25Z
+23,Sat Jun 20 2020,20:25,CEST/+0200,FC Blau Weiß Linz,2-2,0-0,FC Juniors OÖ,2020-06-20T18:25Z
+23,Sun Jun 21 2020,10:30,CEST/+0200,Vorwärts Steyr,2-0,0-0,SKU Amstetten,2020-06-21T08:30Z
+24,Tue Jun 23 2020,18:30,CEST/+0200,FC Juniors OÖ,3-2,1-0,SV Ried,2020-06-23T16:30Z
+24,Tue Jun 23 2020,18:30,CEST/+0200,FC Blau Weiß Linz,2-1,0-0,Austria Lustenau,2020-06-23T16:30Z
+24,Tue Jun 23 2020,18:30,CEST/+0200,FC Dornbirn,1-1,0-0,Floridsdorfer AC,2020-06-23T16:30Z
+24,Tue Jun 23 2020,18:30,CEST/+0200,SV Horn,3-2,0-1,SV Lafnitz,2020-06-23T16:30Z
+24,Tue Jun 23 2020,18:30,CEST/+0200,SK Austria Klagenfurt,1-2,0-1,Grazer AK,2020-06-23T16:30Z
+24,Wed Jun 24 2020,18:30,CEST/+0200,SKU Amstetten,2-0,1-0,Kapfenberger SV 1919,2020-06-24T16:30Z
+24,Wed Jun 24 2020,18:30,CEST/+0200,Austria Wien II,1-4,0-3,Vorwärts Steyr,2020-06-24T16:30Z
+24,Wed Jun 24 2020,18:15,CEST/+0200,FC Wacker Innsbruck,1-4,1-2,FC Liefering,2020-06-24T16:15Z
+25,Fri Jun 26 2020,20:25,CEST/+0200,SV Ried,1-3,1-1,FC Blau Weiß Linz,2020-06-26T18:25Z
+25,Fri Jun 26 2020,18:30,CEST/+0200,Austria Lustenau,1-2,0-2,SV Horn,2020-06-26T16:30Z
+25,Sat Jun 27 2020,15:00,CEST/+0200,FC Liefering,3-2,2-2,Kapfenberger SV 1919,2020-06-27T13:00Z
+25,Sat Jun 27 2020,15:00,CEST/+0200,FC Juniors OÖ,1-3,1-1,SKU Amstetten,2020-06-27T13:00Z
+25,Sat Jun 27 2020,15:00,CEST/+0200,Floridsdorfer AC,1-1,0-1,Austria Wien II,2020-06-27T13:00Z
+25,Sat Jun 27 2020,15:00,CEST/+0200,Grazer AK,1-1,1-1,FC Dornbirn,2020-06-27T13:00Z
+25,Sat Jun 27 2020,20:25,CEST/+0200,SV Lafnitz,1-1,0-1,FC Wacker Innsbruck,2020-06-27T18:25Z
+25,Sun Jun 28 2020,10:30,CEST/+0200,Vorwärts Steyr,1-2,1-2,SK Austria Klagenfurt,2020-06-28T08:30Z
+26,Fri Jul 3 2020,18:30,CEST/+0200,FC Blau Weiß Linz,1-3,1-1,SV Horn,2020-07-03T16:30Z
+26,Fri Jul 3 2020,20:25,CEST/+0200,Vorwärts Steyr,0-1,0-1,SV Ried,2020-07-03T18:25Z
+26,Fri Jul 3 2020,18:30,CEST/+0200,FC Liefering,4-2,1-1,Austria Lustenau,2020-07-03T16:30Z
+26,Sat Jul 4 2020,20:25,CEST/+0200,SK Austria Klagenfurt,3-0,1-0,FC Juniors OÖ,2020-07-04T18:25Z
+26,Sat Jul 4 2020,15:00,CEST/+0200,FC Dornbirn,0-3,0-3,SV Lafnitz,2020-07-04T13:00Z
+26,Sun Jul 5 2020,10:30,CEST/+0200,Austria Wien II,1-0,0-0,Grazer AK,2020-07-05T08:30Z
+26,Sun Jul 5 2020,20:25,CEST/+0200,SKU Amstetten,1-1,0-0,Floridsdorfer AC,2020-07-05T18:25Z
+27,Fri Jul 10 2020,18:30,CEST/+0200,Floridsdorfer AC,1-2,0-1,FC Blau Weiß Linz,2020-07-10T16:30Z
+27,Fri Jul 10 2020,18:30,CEST/+0200,SV Lafnitz,1-1,0-1,SKU Amstetten,2020-07-10T16:30Z
+27,Fri Jul 10 2020,18:30,CEST/+0200,FC Wacker Innsbruck,0-1,0-0,Austria Wien II,2020-07-10T16:30Z
+27,Sat Jul 11 2020,15:00,CEST/+0200,FC Juniors OÖ,1-2,1-1,FC Dornbirn,2020-07-11T13:00Z
+27,Sat Jul 11 2020,14:30,CEST/+0200,Austria Lustenau,3-1,0-1,Vorwärts Steyr,2020-07-11T12:30Z
+27,Sun Jul 12 2020,10:30,CEST/+0200,SV Ried,2-2,0-1,FC Liefering,2020-07-12T08:30Z
+27,Tue Jul 14 2020,20:25,CEST/+0200,SV Horn,1-3,0-2,SK Austria Klagenfurt,2020-07-14T18:25Z
+26,Tue Jul 14 2020,18:30,CEST/+0200,Kapfenberger SV 1919,2-3,1-1,FC Wacker Innsbruck,2020-07-14T16:30Z
+28,Fri Jul 17 2020,20:25,CEST/+0200,Vorwärts Steyr,1-2,1-2,SV Lafnitz,2020-07-17T18:25Z
+28,Fri Jul 17 2020,18:30,CEST/+0200,Kapfenberger SV 1919,0-6,0-2,Austria Lustenau,2020-07-17T16:30Z
+28,Fri Jul 17 2020,18:30,CEST/+0200,Austria Wien II,8-2,5-1,FC Juniors OÖ,2020-07-17T16:30Z
+28,Fri Jul 17 2020,20:25,CEST/+0200,SV Ried,4-3,1-1,FC Wacker Innsbruck,2020-07-17T18:25Z
+28,Sat Jul 18 2020,15:00,CEST/+0200,SK Austria Klagenfurt,2-0,1-0,Floridsdorfer AC,2020-07-18T13:00Z
+28,Sat Jul 18 2020,20:25,CEST/+0200,FC Dornbirn,5-2,0-2,SV Horn,2020-07-18T18:25Z
+28,Sun Jul 19 2020,10:30,CEST/+0200,FC Liefering,5-2,2-1,Grazer AK,2020-07-19T08:30Z
+28,Tue Jul 21 2020,18:30,CEST/+0200,FC Blau Weiß Linz,1-2,1-0,SKU Amstetten,2020-07-21T16:30Z
+27,Wed Jul 22 2020,20:25,CEST/+0200,Grazer AK,2-0,0-0,Kapfenberger SV 1919,2020-07-22T18:25Z
+29,Fri Jul 24 2020,20:30,CEST/+0200,SV Horn,2-3,1-1,SV Ried,2020-07-24T18:30Z
+29,Fri Jul 24 2020,20:30,CEST/+0200,FC Wacker Innsbruck,1-1,0-0,Austria Lustenau,2020-07-24T18:30Z
+29,Fri Jul 24 2020,20:30,CEST/+0200,SV Lafnitz,1-1,0-0,FC Blau Weiß Linz,2020-07-24T18:30Z
+29,Fri Jul 24 2020,20:30,CEST/+0200,SKU Amstetten,2-1,1-0,SK Austria Klagenfurt,2020-07-24T18:30Z
+29,Fri Jul 24 2020,20:30,CEST/+0200,FC Juniors OÖ,0-5,0-2,FC Liefering,2020-07-24T18:30Z
+29,Fri Jul 24 2020,20:30,CEST/+0200,FC Dornbirn,1-1,1-1,Austria Wien II,2020-07-24T18:30Z
+29,Sat Jul 25 2020,19:00,CEST/+0200,Grazer AK,1-3,1-2,Vorwärts Steyr,2020-07-25T17:00Z
+29,Sat Jul 25 2020,17:00,CEST/+0200,Floridsdorfer AC,2-0,2-0,Kapfenberger SV 1919,2020-07-25T15:00Z
+30,Fri Jul 31 2020,20:30,CEST/+0200,SK Austria Klagenfurt,6-1,1-0,FC Wacker Innsbruck,2020-07-31T18:30Z
+30,Fri Jul 31 2020,20:30,CEST/+0200,SV Ried,9-0,5-0,Floridsdorfer AC,2020-07-31T18:30Z
+30,Fri Jul 31 2020,20:30,CEST/+0200,Austria Lustenau,1-3,1-1,SKU Amstetten,2020-07-31T18:30Z
+30,Fri Jul 31 2020,20:30,CEST/+0200,Vorwärts Steyr,0-3,0-2,FC Liefering,2020-07-31T18:30Z
+30,Fri Jul 31 2020,20:30,CEST/+0200,Kapfenberger SV 1919,0-3,0-1,Austria Wien II,2020-07-31T18:30Z
+30,Fri Jul 31 2020,20:30,CEST/+0200,Grazer AK,2-2,0-2,SV Lafnitz,2020-07-31T18:30Z
+30,Fri Jul 31 2020,20:30,CEST/+0200,FC Juniors OÖ,3-1,1-0,SV Horn,2020-07-31T18:30Z
+30,Fri Jul 31 2020,20:30,CEST/+0200,FC Blau Weiß Linz,4-0,2-0,FC Dornbirn,2020-07-31T18:30Z

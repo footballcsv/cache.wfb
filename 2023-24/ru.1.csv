@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 21 2023,19:00,MSK/+0300,Dinamo Moskva,1-3,0-2,FK Krasnodar,2023-07-21T16:00Z
+1,Sat Jul 22 2023,15:15,MSK/+0300,FK Nizhny Novgorod,0-2,0-0,Zenit St. Petersburg,2023-07-22T12:15Z
+1,Sat Jul 22 2023,17:30,MSK/+0300,Lokomotiv Moskva,2-2,1-1,Rubin Kazan,2023-07-22T14:30Z
+1,Sat Jul 22 2023,20:00,MSK/+0300,Akhmat Grozny,1-2,0-1,Krylia Sovetov,2023-07-22T17:00Z
+1,Sat Jul 22 2023,13:00,MSK/+0300,FK Ural,2-1,1-0,CSKA Moskva,2023-07-22T10:00Z
+1,Sun Jul 23 2023,17:30,MSK/+0300,Spartak Moskva,3-2,1-0,FK Orenburg,2023-07-23T14:30Z
+1,Sun Jul 23 2023,20:00,MSK/+0300,FK Rostov,2-1,1-1,Fakel Voronezh,2023-07-23T17:00Z
+1,Sun Jul 23 2023,20:00,MSK/+0300,FK Sochi,2-0,1-0,Baltika Kaliningrad,2023-07-23T17:00Z
+2,Sat Jul 29 2023,17:30,MSK/+0300,FK Ural,0-0,0-0,FK Nizhny Novgorod,2023-07-29T14:30Z
+2,Sat Jul 29 2023,20:00,MSK/+0300,FK Rostov,1-1,0-1,Zenit St. Petersburg,2023-07-29T17:00Z
+2,Sat Jul 29 2023,15:00,MSK/+0300,Krylia Sovetov,3-3,1-3,Dinamo Moskva,2023-07-29T12:00Z
+2,Sun Jul 30 2023,15:00,MSK/+0300,Rubin Kazan,1-1,1-0,FK Orenburg,2023-07-30T12:00Z
+2,Sun Jul 30 2023,17:30,MSK/+0300,Fakel Voronezh,1-4,1-1,Lokomotiv Moskva,2023-07-30T14:30Z
+2,Sun Jul 30 2023,20:00,MSK/+0300,Akhmat Grozny,2-3,2-2,CSKA Moskva,2023-07-30T17:00Z
+2,Sun Jul 30 2023,20:00,MSK/+0300,FK Krasnodar,2-0,1-0,FK Sochi,2023-07-30T17:00Z
+2,Mon Jul 31 2023,19:30,MSK/+0300,Spartak Moskva,2-1,1-0,Baltika Kaliningrad,2023-07-31T16:30Z
+3,Fri Aug 4 2023,20:00,MSK/+0300,FK Krasnodar,1-0,1-0,FK Nizhny Novgorod,2023-08-04T17:00Z
+3,Sat Aug 5 2023,17:30,MSK/+0300,FK Orenburg,0-2,0-2,FK Ural,2023-08-05T14:30Z
+3,Sat Aug 5 2023,17:30,MSK/+0300,Rubin Kazan,1-4,1-1,Spartak Moskva,2023-08-05T14:30Z
+3,Sat Aug 5 2023,20:00,MSK/+0300,CSKA Moskva,4-1,2-0,Lokomotiv Moskva,2023-08-05T17:00Z
+3,Sat Aug 5 2023,15:00,MSK/+0300,Krylia Sovetov,5-1,3-1,FK Rostov,2023-08-05T12:00Z
+3,Sun Aug 6 2023,17:30,MSK/+0300,Baltika Kaliningrad,2-1,1-1,Fakel Voronezh,2023-08-06T14:30Z
+3,Sun Aug 6 2023,19:00,MSK/+0300,Zenit St. Petersburg,2-3,1-2,Dinamo Moskva,2023-08-06T16:00Z
+3,Sun Aug 6 2023,20:00,MSK/+0300,FK Sochi,1-2,1-2,Akhmat Grozny,2023-08-06T17:00Z
+4,Fri Aug 11 2023,18:00,MSK/+0300,FK Ural,3-2,1-0,Spartak Moskva,2023-08-11T15:00Z
+4,Sat Aug 12 2023,17:30,MSK/+0300,FK Orenburg,0-2,0-0,FK Krasnodar,2023-08-12T14:30Z
+4,Sat Aug 12 2023,20:00,MSK/+0300,FK Rostov,3-0,0-0,Rubin Kazan,2023-08-12T17:00Z
+4,Sat Aug 12 2023,15:00,MSK/+0300,Lokomotiv Moskva,1-1,0-0,Krylia Sovetov,2023-08-12T12:00Z
+4,Sun Aug 13 2023,15:00,MSK/+0300,Dinamo Moskva,2-0,0-0,Baltika Kaliningrad,2023-08-13T12:00Z
+4,Sun Aug 13 2023,17:30,MSK/+0300,Zenit St. Petersburg,2-0,1-0,Fakel Voronezh,2023-08-13T14:30Z
+4,Sun Aug 13 2023,20:00,MSK/+0300,CSKA Moskva,3-1,0-0,FK Sochi,2023-08-13T17:00Z
+4,Mon Aug 14 2023,19:30,MSK/+0300,FK Nizhny Novgorod,2-0,2-0,Akhmat Grozny,2023-08-14T16:30Z
+5,Fri Aug 18 2023,19:30,MSK/+0300,Rubin Kazan,2-1,2-1,Krylia Sovetov,2023-08-18T16:30Z
+5,Sat Aug 19 2023,15:00,MSK/+0300,Dinamo Moskva,2-1,0-1,CSKA Moskva,2023-08-19T12:00Z
+5,Sat Aug 19 2023,17:30,MSK/+0300,Baltika Kaliningrad,0-1,0-0,FK Ural,2023-08-19T14:30Z
+5,Sat Aug 19 2023,19:30,MSK/+0300,FK Krasnodar,1-1,0-0,Lokomotiv Moskva,2023-08-19T16:30Z
+5,Sat Aug 19 2023,20:00,MSK/+0300,FK Sochi,4-0,2-0,FK Rostov,2023-08-19T17:00Z
+5,Sun Aug 20 2023,19:30,MSK/+0300,Spartak Moskva,1-3,0-1,Zenit St. Petersburg,2023-08-20T16:30Z
+5,Sun Aug 20 2023,20:00,MSK/+0300,Akhmat Grozny,4-0,3-0,FK Orenburg,2023-08-20T17:00Z
+5,Sun Aug 20 2023,17:30,MSK/+0300,Fakel Voronezh,2-0,0-0,FK Nizhny Novgorod,2023-08-20T14:30Z
+6,Fri Aug 25 2023,20:00,MSK/+0300,Fakel Voronezh,0-0,0-0,FK Krasnodar,2023-08-25T17:00Z
+6,Fri Aug 25 2023,17:30,MSK/+0300,FK Orenburg,1-1,0-0,CSKA Moskva,2023-08-25T14:30Z
+6,Sat Aug 26 2023,15:00,MSK/+0300,Zenit St. Petersburg,4-0,3-0,FK Ural,2023-08-26T12:00Z
+6,Sat Aug 26 2023,17:30,MSK/+0300,Rubin Kazan,2-2,1-0,Dinamo Moskva,2023-08-26T14:30Z
+6,Sat Aug 26 2023,19:30,MSK/+0300,Spartak Moskva,0-0,0-0,Akhmat Grozny,2023-08-26T16:30Z
+6,Sat Aug 26 2023,20:00,MSK/+0300,FK Nizhny Novgorod,1-0,0-0,FK Rostov,2023-08-26T17:00Z
+6,Sun Aug 27 2023,20:00,MSK/+0300,FK Sochi,0-1,0-0,Lokomotiv Moskva,2023-08-27T17:00Z
+6,Sun Aug 27 2023,17:30,MSK/+0300,Krylia Sovetov,2-1,0-0,Baltika Kaliningrad,2023-08-27T14:30Z
+7,Sat Sep 2 2023,13:00,MSK/+0300,FK Ural,0-1,0-1,Akhmat Grozny,2023-09-02T10:00Z
+7,Sat Sep 2 2023,15:15,MSK/+0300,FK Nizhny Novgorod,2-1,2-0,Rubin Kazan,2023-09-02T12:15Z
+7,Sat Sep 2 2023,17:30,MSK/+0300,Krylia Sovetov,3-0,1-0,Fakel Voronezh,2023-09-02T14:30Z
+7,Sat Sep 2 2023,20:00,MSK/+0300,FK Krasnodar,2-0,1-0,Spartak Moskva,2023-09-02T17:00Z
+7,Sun Sep 3 2023,15:15,MSK/+0300,Lokomotiv Moskva,3-2,3-0,Baltika Kaliningrad,2023-09-03T12:15Z
+7,Sun Sep 3 2023,17:30,MSK/+0300,CSKA Moskva,1-1,1-0,Zenit St. Petersburg,2023-09-03T14:30Z
+7,Sun Sep 3 2023,20:00,MSK/+0300,FK Rostov,1-2,0-2,Dinamo Moskva,2023-09-03T17:00Z
+7,Sun Sep 3 2023,13:00,MSK/+0300,FK Orenburg,3-0,0-0,FK Sochi,2023-09-03T10:00Z
+8,Fri Sep 15 2023,19:00,MSK/+0300,Dinamo Moskva,1-1,1-0,FK Nizhny Novgorod,2023-09-15T16:00Z
+8,Sat Sep 16 2023,14:00,MSK/+0300,CSKA Moskva,2-2,1-2,Krylia Sovetov,2023-09-16T11:00Z
+8,Sat Sep 16 2023,16:30,MSK/+0300,Akhmat Grozny,1-1,1-1,FK Krasnodar,2023-09-16T13:30Z
+8,Sat Sep 16 2023,19:00,MSK/+0300,FK Sochi,0-1,0-0,Spartak Moskva,2023-09-16T16:00Z
+8,Sat Sep 16 2023,21:15,MSK/+0300,Baltika Kaliningrad,2-2,0-2,FK Rostov,2023-09-16T18:15Z
+8,Sun Sep 17 2023,16:30,MSK/+0300,Rubin Kazan,0-3,0-1,Zenit St. Petersburg,2023-09-17T13:30Z
+8,Sun Sep 17 2023,19:00,MSK/+0300,Lokomotiv Moskva,0-2,0-0,FK Orenburg,2023-09-17T16:00Z
+8,Sun Sep 17 2023,14:00,MSK/+0300,FK Ural,0-0,0-0,Fakel Voronezh,2023-09-17T11:00Z
+9,Sat Sep 23 2023,16:30,MSK/+0300,Baltika Kaliningrad,1-0,1-0,Akhmat Grozny,2023-09-23T13:30Z
+9,Sat Sep 23 2023,19:00,MSK/+0300,Spartak Moskva,1-0,1-0,Dinamo Moskva,2023-09-23T16:00Z
+9,Sat Sep 23 2023,14:00,MSK/+0300,Krylia Sovetov,2-1,2-0,FK Sochi,2023-09-23T11:00Z
+9,Sun Sep 24 2023,14:00,MSK/+0300,FK Nizhny Novgorod,3-1,1-1,FK Orenburg,2023-09-24T11:00Z
+9,Sun Sep 24 2023,16:30,MSK/+0300,Zenit St. Petersburg,1-2,1-0,Lokomotiv Moskva,2023-09-24T13:30Z
+9,Sun Sep 24 2023,19:00,MSK/+0300,FK Krasnodar,2-0,0-0,FK Ural,2023-09-24T16:00Z
+9,Sun Sep 24 2023,19:00,MSK/+0300,FK Rostov,3-3,2-1,CSKA Moskva,2023-09-24T16:00Z
+9,Mon Sep 25 2023,19:00,MSK/+0300,Fakel Voronezh,0-1,0-0,Rubin Kazan,2023-09-25T16:00Z
+10,Fri Sep 29 2023,19:00,MSK/+0300,FK Rostov,2-2,1-2,FK Ural,2023-09-29T16:00Z
+10,Sat Sep 30 2023,12:00,MSK/+0300,FK Orenburg,3-1,3-1,Zenit St. Petersburg,2023-09-30T09:00Z
+10,Sat Sep 30 2023,14:15,MSK/+0300,Lokomotiv Moskva,1-0,0-0,FK Nizhny Novgorod,2023-09-30T11:15Z
+10,Sat Sep 30 2023,16:30,MSK/+0300,Rubin Kazan,0-2,0-1,FK Krasnodar,2023-09-30T13:30Z
+10,Sat Sep 30 2023,19:00,MSK/+0300,CSKA Moskva,1-0,1-0,Baltika Kaliningrad,2023-09-30T16:00Z
+10,Sun Oct 1 2023,16:30,MSK/+0300,Krylia Sovetov,4-0,2-0,Spartak Moskva,2023-10-01T13:30Z
+10,Sun Oct 1 2023,19:00,MSK/+0300,Akhmat Grozny,1-1,1-0,Dinamo Moskva,2023-10-01T16:00Z
+10,Sun Oct 1 2023,14:00,MSK/+0300,Fakel Voronezh,2-0,1-0,FK Sochi,2023-10-01T11:00Z
+11,Sat Oct 7 2023,12:00,MSK/+0300,FK Ural,2-2,1-1,Lokomotiv Moskva,2023-10-07T09:00Z
+11,Sat Oct 7 2023,14:00,MSK/+0300,FK Sochi,0-2,0-2,Zenit St. Petersburg,2023-10-07T11:00Z
+11,Sat Oct 7 2023,16:30,MSK/+0300,Baltika Kaliningrad,1-0,1-0,FK Orenburg,2023-10-07T13:30Z
+11,Sat Oct 7 2023,19:00,MSK/+0300,FK Krasnodar,3-2,0-2,FK Rostov,2023-10-07T16:00Z
+11,Sun Oct 8 2023,16:30,MSK/+0300,Dinamo Moskva,0-0,0-0,Fakel Voronezh,2023-10-08T13:30Z
+11,Sun Oct 8 2023,19:00,MSK/+0300,Akhmat Grozny,0-1,0-1,Rubin Kazan,2023-10-08T16:00Z
+11,Sun Oct 8 2023,19:00,MSK/+0300,Spartak Moskva,2-2,1-1,CSKA Moskva,2023-10-08T16:00Z
+11,Sun Oct 8 2023,14:00,MSK/+0300,FK Nizhny Novgorod,2-0,1-0,Krylia Sovetov,2023-10-08T11:00Z
+12,Sat Oct 21 2023,12:00,MSK/+0300,FK Orenburg,1-2,0-1,Fakel Voronezh,2023-10-21T09:00Z
+12,Sat Oct 21 2023,14:00,MSK/+0300,Rubin Kazan,0-0,0-0,CSKA Moskva,2023-10-21T11:00Z
+12,Sat Oct 21 2023,16:30,MSK/+0300,Lokomotiv Moskva,0-0,0-0,Dinamo Moskva,2023-10-21T13:30Z
+12,Sat Oct 21 2023,19:00,MSK/+0300,Baltika Kaliningrad,2-2,2-1,FK Krasnodar,2023-10-21T16:00Z
+12,Sun Oct 22 2023,14:00,MSK/+0300,Spartak Moskva,2-0,1-0,FK Nizhny Novgorod,2023-10-22T11:00Z
+12,Sun Oct 22 2023,16:30,MSK/+0300,Zenit St. Petersburg,3-1,0-0,Krylia Sovetov,2023-10-22T13:30Z
+12,Sun Oct 22 2023,19:00,MSK/+0300,FK Rostov,3-0,2-0,Akhmat Grozny,2023-10-22T16:00Z
+12,Sun Oct 22 2023,12:00,MSK/+0300,FK Ural,1-4,1-3,FK Sochi,2023-10-22T09:00Z
+13,Fri Oct 27 2023,19:00,MSK/+0300,Rubin Kazan,1-0,0-0,Baltika Kaliningrad,2023-10-27T16:00Z
+13,Sat Oct 28 2023,14:00,MSK/+0300,Fakel Voronezh,2-0,0-0,Spartak Moskva,2023-10-28T11:00Z
+13,Sat Oct 28 2023,16:30,MSK/+0300,FK Rostov,1-0,1-0,Lokomotiv Moskva,2023-10-28T13:30Z
+13,Sat Oct 28 2023,16:30,MSK/+0300,Krylia Sovetov,1-1,1-0,FK Orenburg,2023-10-28T13:30Z
+13,Sat Oct 28 2023,19:00,MSK/+0300,Zenit St. Petersburg,2-1,2-1,Akhmat Grozny,2023-10-28T16:00Z
+13,Sun Oct 29 2023,16:30,MSK/+0300,Dinamo Moskva,2-1,1-0,FK Ural,2023-10-29T13:30Z
+13,Sun Oct 29 2023,19:30,MSK/+0300,CSKA Moskva,1-0,1-0,FK Krasnodar,2023-10-29T16:30Z
+13,Sun Oct 29 2023,14:00,MSK/+0300,FK Nizhny Novgorod,1-0,1-0,FK Sochi,2023-10-29T11:00Z
+14,Sat Nov 4 2023,19:00,MSK/+0300,Baltika Kaliningrad,0-2,0-0,Zenit St. Petersburg,2023-11-04T16:00Z
+14,Sat Nov 4 2023,16:30,MSK/+0300,Akhmat Grozny,1-2,1-0,Fakel Voronezh,2023-11-04T13:30Z
+14,Sun Nov 5 2023,14:00,MSK/+0300,FK Krasnodar,2-1,1-0,Krylia Sovetov,2023-11-05T11:00Z
+14,Sun Nov 5 2023,16:30,MSK/+0300,CSKA Moskva,3-2,1-2,FK Nizhny Novgorod,2023-11-05T13:30Z
+14,Sun Nov 5 2023,19:30,MSK/+0300,Lokomotiv Moskva,1-1,0-0,Spartak Moskva,2023-11-05T16:30Z
+14,Mon Nov 6 2023,16:30,MSK/+0300,FK Ural,0-1,0-0,Rubin Kazan,2023-11-06T13:30Z
+14,Mon Nov 6 2023,19:30,MSK/+0300,FK Sochi,3-3,1-3,Dinamo Moskva,2023-11-06T16:30Z
+14,Mon Nov 6 2023,14:00,MSK/+0300,FK Orenburg,1-1,0-0,FK Rostov,2023-11-06T11:00Z
+15,Sat Nov 11 2023,14:00,MSK/+0300,Fakel Voronezh,1-1,0-1,CSKA Moskva,2023-11-11T11:00Z
+15,Sat Nov 11 2023,14:00,MSK/+0300,Krylia Sovetov,3-1,1-0,FK Ural,2023-11-11T11:00Z
+15,Sat Nov 11 2023,16:30,MSK/+0300,Lokomotiv Moskva,2-1,0-0,Akhmat Grozny,2023-11-11T13:30Z
+15,Sat Nov 11 2023,19:30,MSK/+0300,Zenit St. Petersburg,1-1,0-0,FK Krasnodar,2023-11-11T16:30Z
+15,Sun Nov 12 2023,16:30,MSK/+0300,Dinamo Moskva,2-0,0-0,FK Orenburg,2023-11-12T13:30Z
+15,Sun Nov 12 2023,19:00,MSK/+0300,FK Sochi,0-2,0-1,Rubin Kazan,2023-11-12T16:00Z
+15,Sun Nov 12 2023,19:30,MSK/+0300,Spartak Moskva,2-1,2-0,FK Rostov,2023-11-12T16:30Z
+15,Sun Nov 12 2023,14:00,MSK/+0300,FK Nizhny Novgorod,0-0,0-0,Baltika Kaliningrad,2023-11-12T11:00Z
+16,Sat Nov 25 2023,13:00,MSK/+0300,Krylia Sovetov,3-3,1-1,Lokomotiv Moskva,2023-11-25T10:00Z
+16,Sat Nov 25 2023,15:15,MSK/+0300,Zenit St. Petersburg,3-0,1-0,FK Sochi,2023-11-25T12:15Z
+16,Sat Nov 25 2023,17:30,MSK/+0300,CSKA Moskva,2-3,2-1,Dinamo Moskva,2023-11-25T14:30Z
+16,Sat Nov 25 2023,19:45,MSK/+0300,Baltika Kaliningrad,0-2,0-1,Spartak Moskva,2023-11-25T16:45Z
+16,Sun Nov 26 2023,14:00,MSK/+0300,FK Ural,3-1,1-1,FK Krasnodar,2023-11-26T11:00Z
+16,Sun Nov 26 2023,16:30,MSK/+0300,Rubin Kazan,1-0,1-0,Fakel Voronezh,2023-11-26T13:30Z
+16,Sun Nov 26 2023,19:00,MSK/+0300,FK Rostov,1-0,0-0,FK Nizhny Novgorod,2023-11-26T16:00Z
+16,Sun Nov 26 2023,12:00,MSK/+0300,FK Orenburg,1-1,0-0,Akhmat Grozny,2023-11-26T09:00Z
+17,Sat Dec 2 2023,14:00,MSK/+0300,Fakel Voronezh,0-0,0-0,Baltika Kaliningrad,2023-12-02T11:00Z
+17,Sat Dec 2 2023,16:30,MSK/+0300,FK Sochi,0-2,0-0,Krylia Sovetov,2023-12-02T13:30Z
+17,Sat Dec 2 2023,19:30,MSK/+0300,FK Nizhny Novgorod,1-0,0-0,FK Ural,2023-12-02T16:30Z
+17,Sun Dec 3 2023,16:30,MSK/+0300,FK Krasnodar,2-1,1-0,FK Orenburg,2023-12-03T13:30Z
+17,Sun Dec 3 2023,17:00,MSK/+0300,Lokomotiv Moskva,3-1,1-1,Zenit St. Petersburg,2023-12-03T14:00Z
+17,Sun Dec 3 2023,19:00,MSK/+0300,Akhmat Grozny,2-1,1-1,Spartak Moskva,2023-12-03T16:00Z
+17,Sun Dec 3 2023,14:00,MSK/+0300,CSKA Moskva,2-0,1-0,FK Rostov,2023-12-03T11:00Z
+17,Mon Dec 4 2023,19:30,MSK/+0300,Dinamo Moskva,1-0,1-0,Rubin Kazan,2023-12-04T16:30Z
+18,Fri Dec 8 2023,19:00,MSK/+0300,Lokomotiv Moskva,2-0,1-0,FK Ural,2023-12-08T16:00Z
+18,Sat Dec 9 2023,16:30,MSK/+0300,Akhmat Grozny,0-0,0-0,FK Rostov,2023-12-09T13:30Z
+18,Sat Dec 9 2023,19:45,MSK/+0300,Zenit St. Petersburg,1-0,1-0,FK Nizhny Novgorod,2023-12-09T16:45Z
+18,Sat Dec 9 2023,14:00,MSK/+0300,Spartak Moskva,3-0,2-0,Krylia Sovetov,2023-12-09T11:00Z
+18,Sun Dec 10 2023,14:00,MSK/+0300,Fakel Voronezh,1-1,0-1,Dinamo Moskva,2023-12-10T11:00Z
+18,Sun Dec 10 2023,16:30,MSK/+0300,FK Sochi,1-1,1-0,FK Orenburg,2023-12-10T13:30Z
+18,Sun Dec 10 2023,19:45,MSK/+0300,Baltika Kaliningrad,0-1,0-1,Rubin Kazan,2023-12-10T16:45Z
+18,Sun Dec 10 2023,19:45,MSK/+0300,FK Krasnodar,1-0,0-0,CSKA Moskva,2023-12-10T16:45Z
+19,Fri Mar 1 2024,19:00,MSK/+0300,FK Rostov,2-0,1-0,Krylia Sovetov,2024-03-01T16:00Z
+19,Sat Mar 2 2024,16:30,MSK/+0300,FK Krasnodar,1-1,1-0,Rubin Kazan,2024-03-02T13:30Z
+19,Sat Mar 2 2024,19:00,MSK/+0300,Akhmat Grozny,1-0,0-0,FK Ural,2024-03-02T16:00Z
+19,Sat Mar 2 2024,19:30,MSK/+0300,Zenit St. Petersburg,0-0,0-0,Spartak Moskva,2024-03-02T16:30Z
+19,Sat Mar 2 2024,14:00,MSK/+0300,CSKA Moskva,1-1,0-0,FK Orenburg,2024-03-02T11:00Z
+19,Sun Mar 3 2024,14:00,MSK/+0300,FK Nizhny Novgorod,1-1,0-1,Fakel Voronezh,2024-03-03T11:00Z
+19,Sun Mar 3 2024,16:30,MSK/+0300,Dinamo Moskva,2-1,1-0,Lokomotiv Moskva,2024-03-03T13:30Z
+19,Sun Mar 3 2024,19:00,MSK/+0300,Baltika Kaliningrad,0-0,0-0,FK Sochi,2024-03-03T16:00Z
+20,Fri Mar 8 2024,18:30,MSK/+0300,FK Rostov,2-1,1-0,FK Krasnodar,2024-03-08T15:30Z
+20,Fri Mar 8 2024,14:00,MSK/+0300,Krylia Sovetov,0-2,0-1,CSKA Moskva,2024-03-08T11:00Z
+20,Sat Mar 9 2024,16:30,MSK/+0300,Rubin Kazan,0-1,0-1,FK Nizhny Novgorod,2024-03-09T13:30Z
+20,Sat Mar 9 2024,19:00,MSK/+0300,Dinamo Moskva,2-0,1-0,Akhmat Grozny,2024-03-09T16:00Z
+20,Sat Mar 9 2024,14:00,MSK/+0300,FK Ural,1-4,0-1,Zenit St. Petersburg,2024-03-09T11:00Z
+20,Sun Mar 10 2024,14:00,MSK/+0300,FK Orenburg,1-0,0-0,Baltika Kaliningrad,2024-03-10T11:00Z
+20,Sun Mar 10 2024,16:30,MSK/+0300,Lokomotiv Moskva,2-2,2-1,FK Sochi,2024-03-10T13:30Z
+20,Sun Mar 10 2024,19:00,MSK/+0300,Spartak Moskva,0-2,0-1,Fakel Voronezh,2024-03-10T16:00Z
+22,Fri Mar 29 2024,19:30,MSK/+0300,Dinamo Moskva,1-4,0-3,FK Rostov,2024-03-29T16:30Z
+22,Sat Mar 30 2024,17:30,MSK/+0300,Baltika Kaliningrad,2-0,2-0,FK Nizhny Novgorod,2024-03-30T14:30Z
+22,Sat Mar 30 2024,14:00,MSK/+0300,Krylia Sovetov,1-1,1-1,Zenit St. Petersburg,2024-03-30T11:00Z
+22,Sat Mar 30 2024,16:30,MSK/+0300,FK Sochi,2-2,0-1,CSKA Moskva,2024-03-30T13:30Z
+22,Sat Mar 30 2024,19:00,MSK/+0300,Spartak Moskva,0-0,0-0,FK Ural,2024-03-30T16:00Z
+22,Sun Mar 31 2024,16:30,MSK/+0300,Rubin Kazan,2-1,2-0,Akhmat Grozny,2024-03-31T13:30Z
+22,Sun Mar 31 2024,14:00,MSK/+0300,Fakel Voronezh,0-0,0-0,FK Orenburg,2024-03-31T11:00Z
+22,Sun Mar 31 2024,19:30,MSK/+0300,Lokomotiv Moskva,1-1,0-1,FK Krasnodar,2024-03-31T16:30Z
+23,Sat Apr 6 2024,16:30,MSK/+0300,FK Nizhny Novgorod,3-4,2-2,FK Krasnodar,2024-04-06T13:30Z
+23,Sat Apr 6 2024,20:00,MSK/+0300,FK Rostov,2-2,2-2,FK Sochi,2024-04-06T17:00Z
+23,Sat Apr 6 2024,14:00,MSK/+0300,FK Ural,1-2,1-1,Krylia Sovetov,2024-04-06T11:00Z
+23,Sun Apr 7 2024,16:30,MSK/+0300,Zenit St. Petersburg,1-0,1-0,Baltika Kaliningrad,2024-04-07T13:30Z
+23,Sun Apr 7 2024,19:30,MSK/+0300,Dinamo Moskva,1-2,1-0,Spartak Moskva,2024-04-07T16:30Z
+23,Sun Apr 7 2024,14:00,MSK/+0300,CSKA Moskva,4-1,1-0,Fakel Voronezh,2024-04-07T11:00Z
+23,Sun Apr 7 2024,16:30,MSK/+0300,Akhmat Grozny,0-2,0-1,Lokomotiv Moskva,2024-04-07T13:30Z
+23,Mon Apr 8 2024,17:00,MSK/+0300,FK Orenburg,3-0,0-0,Rubin Kazan,2024-04-08T14:00Z
+24,Sat Apr 13 2024,14:00,MSK/+0300,FK Sochi,1-0,0-0,Spartak Moskva,2024-04-13T11:00Z
+24,Sat Apr 13 2024,16:30,MSK/+0300,Akhmat Grozny,1-7,0-5,Baltika Kaliningrad,2024-04-13T13:30Z
+24,Sat Apr 13 2024,17:00,MSK/+0300,FK Krasnodar,1-2,1-0,Zenit St. Petersburg,2024-04-13T14:00Z
+24,Sat Apr 13 2024,19:30,MSK/+0300,Lokomotiv Moskva,3-3,1-0,CSKA Moskva,2024-04-13T16:30Z
+24,Sun Apr 14 2024,16:45,MSK/+0300,Fakel Voronezh,0-1,0-0,FK Rostov,2024-04-14T13:45Z
+24,Sun Apr 14 2024,19:00,MSK/+0300,Krylia Sovetov,2-0,1-0,Rubin Kazan,2024-04-14T16:00Z
+24,Sun Apr 14 2024,14:15,MSK/+0300,FK Ural,2-1,1-1,Dinamo Moskva,2024-04-14T11:15Z
+24,Sun Apr 14 2024,12:00,MSK/+0300,FK Orenburg,3-1,1-1,FK Nizhny Novgorod,2024-04-14T09:00Z
+25,Fri Apr 19 2024,19:00,MSK/+0300,FK Krasnodar,2-0,0-0,Fakel Voronezh,2024-04-19T16:00Z
+25,Sat Apr 20 2024,16:30,MSK/+0300,Baltika Kaliningrad,2-1,0-0,Krylia Sovetov,2024-04-20T13:30Z
+25,Sat Apr 20 2024,19:30,MSK/+0300,CSKA Moskva,1-2,0-0,Akhmat Grozny,2024-04-20T16:30Z
+25,Sat Apr 20 2024,14:00,MSK/+0300,Rubin Kazan,1-1,1-1,Lokomotiv Moskva,2024-04-20T11:00Z
+25,Sun Apr 21 2024,14:00,MSK/+0300,FK Nizhny Novgorod,1-4,0-2,Dinamo Moskva,2024-04-21T11:00Z
+25,Sun Apr 21 2024,16:15,MSK/+0300,Zenit St. Petersburg,1-0,1-0,FK Orenburg,2024-04-21T13:15Z
+25,Sun Apr 21 2024,18:15,MSK/+0300,FK Sochi,2-2,0-0,FK Ural,2024-04-21T15:15Z
+25,Sun Apr 21 2024,20:30,MSK/+0300,FK Rostov,1-5,1-1,Spartak Moskva,2024-04-21T17:30Z
+21,Wed Apr 24 2024,18:15,MSK/+0300,FK Nizhny Novgorod,2-3,1-0,Lokomotiv Moskva,2024-04-24T15:15Z
+21,Wed Apr 24 2024,20:30,MSK/+0300,FK Krasnodar,3-2,1-0,Baltika Kaliningrad,2024-04-24T17:30Z
+21,Wed Apr 24 2024,20:30,MSK/+0300,Zenit St. Petersburg,0-2,0-0,Rubin Kazan,2024-04-24T17:30Z
+21,Wed Apr 24 2024,16:00,MSK/+0300,FK Orenburg,1-2,0-0,Dinamo Moskva,2024-04-24T13:00Z
+21,Thu Apr 25 2024,16:00,MSK/+0300,FK Ural,0-1,0-0,FK Rostov,2024-04-25T13:00Z
+21,Thu Apr 25 2024,20:30,MSK/+0300,CSKA Moskva,0-0,0-0,Spartak Moskva,2024-04-25T17:30Z
+21,Thu Apr 25 2024,18:15,MSK/+0300,Fakel Voronezh,0-1,0-0,Krylia Sovetov,2024-04-25T15:15Z
+21,Thu Apr 25 2024,20:30,MSK/+0300,Akhmat Grozny,1-0,1-0,FK Sochi,2024-04-25T17:30Z
+26,Sun Apr 28 2024,16:15,MSK/+0300,Spartak Moskva,3-2,1-0,Lokomotiv Moskva,2024-04-28T13:15Z
+26,Sun Apr 28 2024,19:15,MSK/+0300,Dinamo Moskva,1-0,0-0,Zenit St. Petersburg,2024-04-28T16:15Z
+26,Sun Apr 28 2024,21:30,MSK/+0300,Baltika Kaliningrad,3-1,0-0,CSKA Moskva,2024-04-28T18:30Z
+26,Sun Apr 28 2024,14:00,MSK/+0300,Akhmat Grozny,5-1,2-1,FK Nizhny Novgorod,2024-04-28T11:00Z
+26,Mon Apr 29 2024,13:00,MSK/+0300,Krylia Sovetov,0-0,0-0,FK Krasnodar,2024-04-29T10:00Z
+26,Mon Apr 29 2024,15:15,MSK/+0300,Rubin Kazan,1-1,1-0,FK Ural,2024-04-29T12:15Z
+26,Mon Apr 29 2024,17:30,MSK/+0300,FK Sochi,0-0,0-0,Fakel Voronezh,2024-04-29T14:30Z
+26,Mon Apr 29 2024,19:45,MSK/+0300,FK Rostov,2-1,0-1,FK Orenburg,2024-04-29T16:45Z
+27,Sat May 4 2024,19:30,MSK/+0300,FK Krasnodar,0-1,0-0,Akhmat Grozny,2024-05-04T16:30Z
+27,Sat May 4 2024,17:00,MSK/+0300,FK Orenburg,2-1,1-0,Krylia Sovetov,2024-05-04T14:00Z
+27,Sun May 5 2024,19:00,MSK/+0300,FK Nizhny Novgorod,0-0,0-0,Spartak Moskva,2024-05-05T16:00Z
+27,Sun May 5 2024,16:30,MSK/+0300,Dinamo Moskva,3-2,0-0,FK Sochi,2024-05-05T13:30Z
+27,Mon May 6 2024,18:00,MSK/+0300,Fakel Voronezh,1-1,0-1,Zenit St. Petersburg,2024-05-06T15:00Z
+27,Mon May 6 2024,20:30,MSK/+0300,Lokomotiv Moskva,1-0,1-0,FK Rostov,2024-05-06T17:30Z
+27,Mon May 6 2024,20:30,MSK/+0300,CSKA Moskva,2-2,1-1,Rubin Kazan,2024-05-06T17:30Z
+27,Mon May 6 2024,15:45,MSK/+0300,FK Ural,2-1,1-1,Baltika Kaliningrad,2024-05-06T12:45Z
+28,Fri May 10 2024,16:00,MSK/+0300,Krylia Sovetov,0-2,0-1,Akhmat Grozny,2024-05-10T13:00Z
+28,Sat May 11 2024,16:30,MSK/+0300,Spartak Moskva,1-0,1-0,FK Krasnodar,2024-05-11T13:30Z
+28,Sat May 11 2024,19:00,MSK/+0300,Zenit St. Petersburg,0-1,0-0,CSKA Moskva,2024-05-11T16:00Z
+28,Sat May 11 2024,21:30,MSK/+0300,Baltika Kaliningrad,2-3,1-1,Dinamo Moskva,2024-05-11T18:30Z
+28,Sat May 11 2024,14:00,MSK/+0300,Rubin Kazan,3-1,2-0,FK Rostov,2024-05-11T11:00Z
+28,Sun May 12 2024,16:30,MSK/+0300,Fakel Voronezh,0-0,0-0,FK Ural,2024-05-12T13:30Z
+28,Sun May 12 2024,19:00,MSK/+0300,FK Sochi,6-1,2-0,FK Nizhny Novgorod,2024-05-12T16:00Z
+28,Sun May 12 2024,14:00,MSK/+0300,FK Orenburg,0-2,0-1,Lokomotiv Moskva,2024-05-12T11:00Z
+29,Sat May 18 2024,14:00,MSK/+0300,Dinamo Moskva,4-1,1-1,Krylia Sovetov,2024-05-18T11:00Z
+29,Sat May 18 2024,16:30,MSK/+0300,Lokomotiv Moskva,2-0,1-0,Fakel Voronezh,2024-05-18T13:30Z
+29,Sat May 18 2024,19:00,MSK/+0300,FK Sochi,2-3,1-1,FK Krasnodar,2024-05-18T16:00Z
+29,Sun May 19 2024,14:15,MSK/+0300,Spartak Moskva,3-1,2-0,Rubin Kazan,2024-05-19T11:15Z
+29,Sun May 19 2024,16:30,MSK/+0300,FK Rostov,2-1,2-1,Baltika Kaliningrad,2024-05-19T13:30Z
+29,Sun May 19 2024,19:00,MSK/+0300,Akhmat Grozny,1-5,1-3,Zenit St. Petersburg,2024-05-19T16:00Z
+29,Sun May 19 2024,12:00,MSK/+0300,FK Ural,3-3,1-1,FK Orenburg,2024-05-19T09:00Z
+29,Mon May 20 2024,20:00,MSK/+0300,FK Nizhny Novgorod,2-6,0-3,CSKA Moskva,2024-05-20T17:00Z
+30,Sat May 25 2024,16:30,MSK/+0300,Baltika Kaliningrad,1-3,0-1,Lokomotiv Moskva,2024-05-25T13:30Z
+30,Sat May 25 2024,16:30,MSK/+0300,Fakel Voronezh,2-0,1-0,Akhmat Grozny,2024-05-25T13:30Z
+30,Sat May 25 2024,16:30,MSK/+0300,FK Krasnodar,1-0,0-0,Dinamo Moskva,2024-05-25T13:30Z
+30,Sat May 25 2024,16:30,MSK/+0300,FK Orenburg,0-0,0-0,Spartak Moskva,2024-05-25T13:30Z
+30,Sat May 25 2024,16:30,MSK/+0300,Krylia Sovetov,1-1,0-0,FK Nizhny Novgorod,2024-05-25T13:30Z
+30,Sat May 25 2024,16:30,MSK/+0300,Rubin Kazan,1-1,1-0,FK Sochi,2024-05-25T13:30Z
+30,Sat May 25 2024,16:30,MSK/+0300,Zenit St. Petersburg,2-1,0-0,FK Rostov,2024-05-25T13:30Z
+30,Sat May 25 2024,16:30,MSK/+0300,CSKA Moskva,2-0,2-0,FK Ural,2024-05-25T13:30Z

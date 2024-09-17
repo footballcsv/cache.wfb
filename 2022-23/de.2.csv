@@ -1,0 +1,307 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 15 2022,20:30,CEST/+0200,1. FC Kaiserslautern,2-1,1-0,Hannover 96,2022-07-15T18:30Z
+1,Sat Jul 16 2022,13:00,CEST/+0200,SpVgg Greuther Fürth,2-2,0-1,Holstein Kiel,2022-07-16T11:00Z
+1,Sat Jul 16 2022,13:00,CEST/+0200,FC St. Pauli,3-2,3-0,1. FC Nürnberg,2022-07-16T11:00Z
+1,Sat Jul 16 2022,13:00,CEST/+0200,SV Sandhausen,2-1,1-0,Arminia Bielefeld,2022-07-16T11:00Z
+1,Sat Jul 16 2022,13:00,CEST/+0200,Jahn Regensburg,2-0,1-0,SV Darmstadt 98,2022-07-16T11:00Z
+1,Sat Jul 16 2022,20:30,CEST/+0200,1. FC Magdeburg,1-2,0-1,Fortuna Düsseldorf,2022-07-16T18:30Z
+1,Sun Jul 17 2022,13:30,CEST/+0200,Hansa Rostock,0-1,0-0,1. FC Heidenheim 1846,2022-07-17T11:30Z
+1,Sun Jul 17 2022,13:30,CEST/+0200,Eintracht Braunschweig,0-2,0-0,Hamburger SV,2022-07-17T11:30Z
+1,Sun Jul 17 2022,13:30,CEST/+0200,SC Paderborn 07,5-0,0-0,Karlsruher SC,2022-07-17T11:30Z
+2,Fri Jul 22 2022,18:30,CEST/+0200,SV Darmstadt 98,2-1,1-1,SV Sandhausen,2022-07-22T16:30Z
+2,Fri Jul 22 2022,18:30,CEST/+0200,Fortuna Düsseldorf,2-1,2-1,SC Paderborn 07,2022-07-22T16:30Z
+2,Sat Jul 23 2022,13:00,CEST/+0200,1. FC Nürnberg,2-0,1-0,SpVgg Greuther Fürth,2022-07-23T11:00Z
+2,Sat Jul 23 2022,13:00,CEST/+0200,Holstein Kiel,2-2,0-1,1. FC Kaiserslautern,2022-07-23T11:00Z
+2,Sat Jul 23 2022,20:30,CEST/+0200,Hannover 96,2-2,1-1,FC St. Pauli,2022-07-23T18:30Z
+2,Sat Jul 23 2022,13:00,CEST/+0200,1. FC Heidenheim 1846,3-0,1-0,Eintracht Braunschweig,2022-07-23T11:00Z
+2,Sun Jul 24 2022,13:30,CEST/+0200,Hamburger SV,0-1,0-0,Hansa Rostock,2022-07-24T11:30Z
+2,Sun Jul 24 2022,13:30,CEST/+0200,Karlsruher SC,2-3,0-3,1. FC Magdeburg,2022-07-24T11:30Z
+2,Sun Jul 24 2022,13:30,CEST/+0200,Arminia Bielefeld,0-3,0-1,Jahn Regensburg,2022-07-24T11:30Z
+3,Fri Aug 5 2022,18:30,CEST/+0200,SpVgg Greuther Fürth,1-1,0-0,Karlsruher SC,2022-08-05T16:30Z
+3,Fri Aug 5 2022,18:30,CEST/+0200,SV Sandhausen,1-0,0-0,Fortuna Düsseldorf,2022-08-05T16:30Z
+3,Sat Aug 6 2022,13:00,CEST/+0200,SC Paderborn 07,4-2,1-2,Hannover 96,2022-08-06T11:00Z
+3,Sat Aug 6 2022,13:00,CEST/+0200,Jahn Regensburg,0-0,0-0,1. FC Nürnberg,2022-08-06T11:00Z
+3,Sat Aug 6 2022,20:30,CEST/+0200,Hansa Rostock,2-1,1-0,Arminia Bielefeld,2022-08-06T18:30Z
+3,Sat Aug 6 2022,13:00,CEST/+0200,Hamburger SV,1-0,1-0,1. FC Heidenheim 1846,2022-08-06T11:00Z
+3,Sun Aug 7 2022,13:30,CEST/+0200,Eintracht Braunschweig,0-1,0-0,SV Darmstadt 98,2022-08-07T11:30Z
+3,Sun Aug 7 2022,13:30,CEST/+0200,1. FC Kaiserslautern,2-1,1-0,FC St. Pauli,2022-08-07T11:30Z
+3,Sun Aug 7 2022,13:30,CEST/+0200,1. FC Magdeburg,1-2,1-1,Holstein Kiel,2022-08-07T11:30Z
+4,Fri Aug 12 2022,18:30,CEST/+0200,1. FC Nürnberg,0-3,0-1,1. FC Heidenheim 1846,2022-08-12T16:30Z
+4,Fri Aug 12 2022,18:30,CEST/+0200,1. FC Kaiserslautern,0-1,0-0,SC Paderborn 07,2022-08-12T16:30Z
+4,Sat Aug 13 2022,13:00,CEST/+0200,Holstein Kiel,3-0,1-0,Eintracht Braunschweig,2022-08-13T11:00Z
+4,Sat Aug 13 2022,13:00,CEST/+0200,Karlsruher SC,3-2,1-1,SV Sandhausen,2022-08-13T11:00Z
+4,Sat Aug 13 2022,20:30,CEST/+0200,SV Darmstadt 98,4-0,2-0,Hansa Rostock,2022-08-13T18:30Z
+4,Sat Aug 13 2022,13:00,CEST/+0200,Arminia Bielefeld,0-2,0-1,Hamburger SV,2022-08-13T11:00Z
+4,Sun Aug 14 2022,13:30,CEST/+0200,Fortuna Düsseldorf,2-2,0-1,SpVgg Greuther Fürth,2022-08-14T11:30Z
+4,Sun Aug 14 2022,13:30,CEST/+0200,Hannover 96,1-0,0-0,Jahn Regensburg,2022-08-14T11:30Z
+4,Sun Aug 14 2022,13:30,CEST/+0200,FC St. Pauli,3-0,2-0,1. FC Magdeburg,2022-08-14T11:30Z
+5,Fri Aug 19 2022,18:30,CEST/+0200,Hamburger SV,1-2,0-2,SV Darmstadt 98,2022-08-19T16:30Z
+5,Fri Aug 19 2022,18:30,CEST/+0200,1. FC Magdeburg,0-4,0-2,Hannover 96,2022-08-19T16:30Z
+5,Sat Aug 20 2022,13:00,CEST/+0200,SV Sandhausen,1-2,1-0,1. FC Nürnberg,2022-08-20T11:00Z
+5,Sat Aug 20 2022,13:00,CEST/+0200,Jahn Regensburg,0-6,0-3,Karlsruher SC,2022-08-20T11:00Z
+5,Sat Aug 20 2022,20:30,CEST/+0200,Eintracht Braunschweig,2-2,0-0,Fortuna Düsseldorf,2022-08-20T18:30Z
+5,Sat Aug 20 2022,13:00,CEST/+0200,SC Paderborn 07,7-2,5-2,Holstein Kiel,2022-08-20T11:00Z
+5,Sun Aug 21 2022,13:30,CEST/+0200,SpVgg Greuther Fürth,1-3,1-0,1. FC Kaiserslautern,2022-08-21T11:30Z
+5,Sun Aug 21 2022,13:30,CEST/+0200,1. FC Heidenheim 1846,1-1,1-1,Arminia Bielefeld,2022-08-21T11:30Z
+5,Sun Aug 21 2022,13:30,CEST/+0200,Hansa Rostock,2-0,2-0,FC St. Pauli,2022-08-21T11:30Z
+6,Fri Aug 26 2022,18:30,CEST/+0200,Fortuna Düsseldorf,4-0,0-0,Jahn Regensburg,2022-08-26T16:30Z
+6,Fri Aug 26 2022,18:30,CEST/+0200,Arminia Bielefeld,4-1,3-0,Eintracht Braunschweig,2022-08-26T16:30Z
+6,Sat Aug 27 2022,13:00,CEST/+0200,SV Darmstadt 98,2-2,1-0,1. FC Heidenheim 1846,2022-08-27T11:00Z
+6,Sat Aug 27 2022,13:00,CEST/+0200,FC St. Pauli,2-2,0-1,SC Paderborn 07,2022-08-27T11:00Z
+6,Sat Aug 27 2022,13:00,CEST/+0200,Karlsruher SC,2-0,2-0,Hansa Rostock,2022-08-27T11:00Z
+6,Sat Aug 27 2022,20:30,CEST/+0200,1. FC Nürnberg,0-2,0-1,Hamburger SV,2022-08-27T18:30Z
+6,Sun Aug 28 2022,13:30,CEST/+0200,Hannover 96,2-1,0-0,SpVgg Greuther Fürth,2022-08-28T11:30Z
+6,Sun Aug 28 2022,13:30,CEST/+0200,1. FC Kaiserslautern,4-4,2-3,1. FC Magdeburg,2022-08-28T11:30Z
+6,Sun Aug 28 2022,13:30,CEST/+0200,Holstein Kiel,1-0,0-0,SV Sandhausen,2022-08-28T11:30Z
+7,Fri Sep 2 2022,18:30,CEST/+0200,Eintracht Braunschweig,4-2,2-2,1. FC Nürnberg,2022-09-02T16:30Z
+7,Fri Sep 2 2022,18:30,CEST/+0200,1. FC Heidenheim 1846,2-1,1-0,Fortuna Düsseldorf,2022-09-02T16:30Z
+7,Sat Sep 3 2022,13:00,CEST/+0200,SpVgg Greuther Fürth,2-2,0-1,FC St. Pauli,2022-09-03T11:00Z
+7,Sat Sep 3 2022,13:00,CEST/+0200,SC Paderborn 07,1-0,0-0,1. FC Magdeburg,2022-09-03T11:00Z
+7,Sat Sep 3 2022,13:00,CEST/+0200,Jahn Regensburg,0-0,0-0,Holstein Kiel,2022-09-03T11:00Z
+7,Sat Sep 3 2022,20:30,CEST/+0200,Hamburger SV,1-0,1-0,Karlsruher SC,2022-09-03T18:30Z
+7,Sun Sep 4 2022,13:30,CEST/+0200,Hansa Rostock,0-1,0-1,Hannover 96,2022-09-04T11:30Z
+7,Sun Sep 4 2022,13:30,CEST/+0200,SV Sandhausen,0-0,0-0,1. FC Kaiserslautern,2022-09-04T11:30Z
+7,Sun Sep 4 2022,13:30,CEST/+0200,SV Darmstadt 98,1-1,1-0,Arminia Bielefeld,2022-09-04T11:30Z
+8,Fri Sep 9 2022,18:30,CEST/+0200,Holstein Kiel,2-3,0-1,Hamburger SV,2022-09-09T16:30Z
+8,Fri Sep 9 2022,18:30,CEST/+0200,1. FC Nürnberg,1-0,0-0,Arminia Bielefeld,2022-09-09T16:30Z
+8,Sat Sep 10 2022,13:00,CEST/+0200,SC Paderborn 07,3-0,1-0,Jahn Regensburg,2022-09-10T11:00Z
+8,Sat Sep 10 2022,13:00,CEST/+0200,Hannover 96,1-1,0-0,Eintracht Braunschweig,2022-09-10T11:00Z
+8,Sat Sep 10 2022,13:00,CEST/+0200,Karlsruher SC,0-0,0-0,1. FC Heidenheim 1846,2022-09-10T11:00Z
+8,Sat Sep 10 2022,20:30,CEST/+0200,Fortuna Düsseldorf,3-1,2-0,Hansa Rostock,2022-09-10T18:30Z
+8,Sun Sep 11 2022,13:30,CEST/+0200,1. FC Magdeburg,2-1,1-1,SpVgg Greuther Fürth,2022-09-11T11:30Z
+8,Sun Sep 11 2022,13:30,CEST/+0200,1. FC Kaiserslautern,3-3,0-1,SV Darmstadt 98,2022-09-11T11:30Z
+8,Sun Sep 11 2022,13:30,CEST/+0200,FC St. Pauli,1-1,1-0,SV Sandhausen,2022-09-11T11:30Z
+9,Fri Sep 16 2022,18:30,CEST/+0200,Eintracht Braunschweig,2-1,1-0,Karlsruher SC,2022-09-16T16:30Z
+9,Fri Sep 16 2022,18:30,CEST/+0200,SV Sandhausen,2-3,0-1,Hannover 96,2022-09-16T16:30Z
+9,Sat Sep 17 2022,13:00,CEST/+0200,Arminia Bielefeld,4-2,2-0,Holstein Kiel,2022-09-17T11:00Z
+9,Sat Sep 17 2022,13:00,CEST/+0200,SV Darmstadt 98,2-0,2-0,1. FC Nürnberg,2022-09-17T11:00Z
+9,Sat Sep 17 2022,13:00,CEST/+0200,Hansa Rostock,3-1,2-0,1. FC Magdeburg,2022-09-17T11:00Z
+9,Sat Sep 17 2022,20:30,CEST/+0200,Hamburger SV,2-0,1-0,Fortuna Düsseldorf,2022-09-17T18:30Z
+9,Sun Sep 18 2022,13:30,CEST/+0200,1. FC Heidenheim 1846,2-2,2-1,1. FC Kaiserslautern,2022-09-18T11:30Z
+9,Sun Sep 18 2022,13:30,CEST/+0200,Jahn Regensburg,2-0,2-0,FC St. Pauli,2022-09-18T11:30Z
+9,Sun Sep 18 2022,13:30,CEST/+0200,SpVgg Greuther Fürth,2-1,1-0,SC Paderborn 07,2022-09-18T11:30Z
+10,Fri Sep 30 2022,18:30,CEST/+0200,SC Paderborn 07,1-2,1-2,SV Darmstadt 98,2022-09-30T16:30Z
+10,Fri Sep 30 2022,18:30,CEST/+0200,Hannover 96,1-2,1-1,Hamburger SV,2022-09-30T16:30Z
+10,Sat Oct 1 2022,13:00,CEST/+0200,Holstein Kiel,1-1,1-0,Hansa Rostock,2022-10-01T11:00Z
+10,Sat Oct 1 2022,13:00,CEST/+0200,Fortuna Düsseldorf,4-1,1-1,Arminia Bielefeld,2022-10-01T11:00Z
+10,Sat Oct 1 2022,20:30,CEST/+0200,FC St. Pauli,0-0,0-0,1. FC Heidenheim 1846,2022-10-01T18:30Z
+10,Sat Oct 1 2022,13:00,CEST/+0200,SpVgg Greuther Fürth,1-1,0-1,SV Sandhausen,2022-10-01T11:00Z
+10,Sun Oct 2 2022,13:30,CEST/+0200,Karlsruher SC,3-0,1-0,1. FC Nürnberg,2022-10-02T11:30Z
+10,Sun Oct 2 2022,13:30,CEST/+0200,1. FC Magdeburg,1-0,0-0,Jahn Regensburg,2022-10-02T11:30Z
+10,Sun Oct 2 2022,13:30,CEST/+0200,1. FC Kaiserslautern,1-1,0-0,Eintracht Braunschweig,2022-10-02T11:30Z
+11,Fri Oct 7 2022,18:30,CEST/+0200,Jahn Regensburg,2-2,1-1,SpVgg Greuther Fürth,2022-10-07T16:30Z
+11,Fri Oct 7 2022,18:30,CEST/+0200,Arminia Bielefeld,1-2,0-1,Karlsruher SC,2022-10-07T16:30Z
+11,Sat Oct 8 2022,13:00,CEST/+0200,Hansa Rostock,0-3,0-1,SC Paderborn 07,2022-10-08T11:00Z
+11,Sat Oct 8 2022,13:00,CEST/+0200,Eintracht Braunschweig,2-1,0-0,FC St. Pauli,2022-10-08T11:00Z
+11,Sat Oct 8 2022,20:30,CEST/+0200,Hamburger SV,1-1,1-0,1. FC Kaiserslautern,2022-10-08T18:30Z
+11,Sat Oct 8 2022,13:00,CEST/+0200,SV Darmstadt 98,1-0,0-0,Fortuna Düsseldorf,2022-10-08T11:00Z
+11,Sun Oct 9 2022,13:30,CEST/+0200,1. FC Heidenheim 1846,2-1,1-0,Hannover 96,2022-10-09T11:30Z
+11,Sun Oct 9 2022,13:30,CEST/+0200,1. FC Nürnberg,2-3,1-0,Holstein Kiel,2022-10-09T11:30Z
+11,Sun Oct 9 2022,13:30,CEST/+0200,SV Sandhausen,1-0,0-0,1. FC Magdeburg,2022-10-09T11:30Z
+12,Fri Oct 14 2022,18:30,CEST/+0200,FC St. Pauli,3-0,0-0,Hamburger SV,2022-10-14T16:30Z
+12,Fri Oct 14 2022,18:30,CEST/+0200,SpVgg Greuther Fürth,2-2,1-0,Hansa Rostock,2022-10-14T16:30Z
+12,Sat Oct 15 2022,13:00,CEST/+0200,Karlsruher SC,1-2,1-0,SV Darmstadt 98,2022-10-15T11:00Z
+12,Sat Oct 15 2022,13:00,CEST/+0200,1. FC Magdeburg,0-2,0-0,Eintracht Braunschweig,2022-10-15T11:00Z
+12,Sat Oct 15 2022,20:30,CEST/+0200,Hannover 96,2-0,1-0,Arminia Bielefeld,2022-10-15T18:30Z
+12,Sat Oct 15 2022,13:00,CEST/+0200,Fortuna Düsseldorf,0-1,0-0,1. FC Nürnberg,2022-10-15T11:00Z
+12,Sun Oct 16 2022,13:30,CEST/+0200,SC Paderborn 07,3-0,1-0,SV Sandhausen,2022-10-16T11:30Z
+12,Sun Oct 16 2022,13:30,CEST/+0200,Holstein Kiel,3-1,1-1,1. FC Heidenheim 1846,2022-10-16T11:30Z
+12,Sun Oct 16 2022,13:30,CEST/+0200,1. FC Kaiserslautern,0-3,0-1,Jahn Regensburg,2022-10-16T11:30Z
+13,Fri Oct 21 2022,18:30,CEST/+0200,Hansa Rostock,0-2,0-0,1. FC Kaiserslautern,2022-10-21T16:30Z
+13,Fri Oct 21 2022,18:30,CEST/+0200,SV Darmstadt 98,1-1,0-1,Holstein Kiel,2022-10-21T16:30Z
+13,Sat Oct 22 2022,13:00,CEST/+0200,Jahn Regensburg,2-1,1-1,SV Sandhausen,2022-10-22T11:00Z
+13,Sat Oct 22 2022,13:00,CEST/+0200,Eintracht Braunschweig,0-0,0-0,SC Paderborn 07,2022-10-22T11:00Z
+13,Sat Oct 22 2022,20:30,CEST/+0200,Arminia Bielefeld,2-0,0-0,FC St. Pauli,2022-10-22T18:30Z
+13,Sat Oct 22 2022,13:00,CEST/+0200,1. FC Nürnberg,0-0,0-0,Hannover 96,2022-10-22T11:00Z
+13,Sun Oct 23 2022,13:30,CEST/+0200,Hamburger SV,2-3,0-1,1. FC Magdeburg,2022-10-23T11:30Z
+13,Sun Oct 23 2022,13:30,CEST/+0200,1. FC Heidenheim 1846,3-1,2-0,SpVgg Greuther Fürth,2022-10-23T11:30Z
+13,Sun Oct 23 2022,13:30,CEST/+0200,Karlsruher SC,0-2,0-2,Fortuna Düsseldorf,2022-10-23T11:30Z
+14,Fri Oct 28 2022,18:30,CEST/+0200,1. FC Magdeburg,1-1,0-1,1. FC Heidenheim 1846,2022-10-28T16:30Z
+14,Fri Oct 28 2022,18:30,CEST/+0200,SpVgg Greuther Fürth,1-0,1-0,Arminia Bielefeld,2022-10-28T16:30Z
+14,Sat Oct 29 2022,13:00,CEST/+0200,Holstein Kiel,1-2,0-1,Fortuna Düsseldorf,2022-10-29T11:00Z
+14,Sat Oct 29 2022,13:00,CEST/+0200,Jahn Regensburg,0-3,0-2,Hansa Rostock,2022-10-29T11:00Z
+14,Sat Oct 29 2022,13:10,CEST/+0200,1. FC Kaiserslautern,0-0,0-0,1. FC Nürnberg,2022-10-29T11:10Z
+14,Sat Oct 29 2022,20:30,CEST/+0200,FC St. Pauli,1-1,0-0,SV Darmstadt 98,2022-10-29T18:30Z
+14,Sun Oct 30 2022,13:30,CET/+0100,Hannover 96,1-0,0-0,Karlsruher SC,2022-10-30T12:30Z
+14,Sun Oct 30 2022,13:30,CET/+0100,SV Sandhausen,2-2,0-0,Eintracht Braunschweig,2022-10-30T12:30Z
+14,Sun Oct 30 2022,13:30,CET/+0100,SC Paderborn 07,2-3,1-2,Hamburger SV,2022-10-30T12:30Z
+15,Fri Nov 4 2022,18:30,CET/+0100,SV Darmstadt 98,1-0,0-0,Hannover 96,2022-11-04T17:30Z
+15,Fri Nov 4 2022,18:30,CET/+0100,Hansa Rostock,0-1,0-1,SV Sandhausen,2022-11-04T17:30Z
+15,Sat Nov 5 2022,13:00,CET/+0100,Fortuna Düsseldorf,1-0,1-0,FC St. Pauli,2022-11-05T12:00Z
+15,Sat Nov 5 2022,13:00,CET/+0100,Karlsruher SC,1-4,0-2,Holstein Kiel,2022-11-05T12:00Z
+15,Sat Nov 5 2022,20:30,CET/+0100,Arminia Bielefeld,2-3,0-0,1. FC Kaiserslautern,2022-11-05T19:30Z
+15,Sat Nov 5 2022,13:00,CET/+0100,1. FC Heidenheim 1846,3-0,1-0,SC Paderborn 07,2022-11-05T12:00Z
+15,Sun Nov 6 2022,13:30,CET/+0100,1. FC Nürnberg,1-2,0-0,1. FC Magdeburg,2022-11-06T12:30Z
+15,Sun Nov 6 2022,13:30,CET/+0100,Eintracht Braunschweig,0-1,0-1,SpVgg Greuther Fürth,2022-11-06T12:30Z
+15,Sun Nov 6 2022,13:30,CET/+0100,Hamburger SV,3-1,1-1,Jahn Regensburg,2022-11-06T12:30Z
+16,Tue Nov 8 2022,18:30,CET/+0100,FC St. Pauli,0-0,0-0,Holstein Kiel,2022-11-08T17:30Z
+16,Tue Nov 8 2022,18:30,CET/+0100,SC Paderborn 07,0-2,0-2,Arminia Bielefeld,2022-11-08T17:30Z
+16,Tue Nov 8 2022,18:30,CET/+0100,Hannover 96,2-0,2-0,Fortuna Düsseldorf,2022-11-08T17:30Z
+16,Tue Nov 8 2022,18:30,CET/+0100,1. FC Kaiserslautern,2-0,1-0,Karlsruher SC,2022-11-08T17:30Z
+16,Wed Nov 9 2022,18:30,CET/+0100,Hansa Rostock,1-1,0-1,1. FC Nürnberg,2022-11-09T17:30Z
+16,Wed Nov 9 2022,18:30,CET/+0100,SV Sandhausen,3-4,0-2,1. FC Heidenheim 1846,2022-11-09T17:30Z
+16,Wed Nov 9 2022,18:30,CET/+0100,Jahn Regensburg,1-1,1-1,Eintracht Braunschweig,2022-11-09T17:30Z
+16,Wed Nov 9 2022,18:30,CET/+0100,SpVgg Greuther Fürth,1-0,1-0,Hamburger SV,2022-11-09T17:30Z
+16,Thu Nov 10 2022,20:30,CET/+0100,1. FC Magdeburg,0-1,0-0,SV Darmstadt 98,2022-11-10T19:30Z
+17,Fri Nov 11 2022,18:30,CET/+0100,Fortuna Düsseldorf,1-2,1-0,1. FC Kaiserslautern,2022-11-11T17:30Z
+17,Fri Nov 11 2022,18:30,CET/+0100,Holstein Kiel,1-1,1-1,Hannover 96,2022-11-11T17:30Z
+17,Sat Nov 12 2022,13:00,CET/+0100,Hamburger SV,4-2,1-0,SV Sandhausen,2022-11-12T12:00Z
+17,Sat Nov 12 2022,13:00,CET/+0100,1. FC Heidenheim 1846,5-4,3-2,Jahn Regensburg,2022-11-12T12:00Z
+17,Sat Nov 12 2022,13:00,CET/+0100,Karlsruher SC,4-4,3-3,FC St. Pauli,2022-11-12T12:00Z
+17,Sat Nov 12 2022,20:30,CET/+0100,Eintracht Braunschweig,0-1,0-0,Hansa Rostock,2022-11-12T19:30Z
+17,Sun Nov 13 2022,13:30,CET/+0100,SV Darmstadt 98,1-1,1-1,SpVgg Greuther Fürth,2022-11-13T12:30Z
+17,Sun Nov 13 2022,13:30,CET/+0100,1. FC Nürnberg,2-1,1-0,SC Paderborn 07,2022-11-13T12:30Z
+17,Sun Nov 13 2022,13:30,CET/+0100,Arminia Bielefeld,3-1,1-0,1. FC Magdeburg,2022-11-13T12:30Z
+18,Fri Jan 27 2023,18:30,CET/+0100,Karlsruher SC,0-1,0-0,SC Paderborn 07,2023-01-27T17:30Z
+18,Fri Jan 27 2023,18:30,CET/+0100,Fortuna Düsseldorf,3-2,2-1,1. FC Magdeburg,2023-01-27T17:30Z
+18,Sat Jan 28 2023,13:00,CET/+0100,1. FC Heidenheim 1846,2-0,0-0,Hansa Rostock,2023-01-28T12:00Z
+18,Sat Jan 28 2023,13:00,CET/+0100,SV Darmstadt 98,2-0,2-0,Jahn Regensburg,2023-01-28T12:00Z
+18,Sat Jan 28 2023,20:30,CET/+0100,Hannover 96,1-3,1-0,1. FC Kaiserslautern,2023-01-28T19:30Z
+18,Sat Jan 28 2023,13:00,CET/+0100,Holstein Kiel,2-1,0-1,SpVgg Greuther Fürth,2023-01-28T12:00Z
+18,Sun Jan 29 2023,13:30,CET/+0100,1. FC Nürnberg,0-1,0-1,FC St. Pauli,2023-01-29T12:30Z
+18,Sun Jan 29 2023,13:30,CET/+0100,Arminia Bielefeld,1-2,1-2,SV Sandhausen,2023-01-29T12:30Z
+18,Sun Jan 29 2023,13:30,CET/+0100,Hamburger SV,4-2,2-1,Eintracht Braunschweig,2023-01-29T12:30Z
+19,Fri Feb 3 2023,18:30,CET/+0100,SC Paderborn 07,4-1,1-0,Fortuna Düsseldorf,2023-02-03T17:30Z
+19,Fri Feb 3 2023,18:30,CET/+0100,SV Sandhausen,0-4,0-2,SV Darmstadt 98,2023-02-03T17:30Z
+19,Sat Feb 4 2023,13:00,CET/+0100,Jahn Regensburg,1-3,1-1,Arminia Bielefeld,2023-02-04T12:00Z
+19,Sat Feb 4 2023,13:00,CET/+0100,Eintracht Braunschweig,2-0,0-0,1. FC Heidenheim 1846,2023-02-04T12:00Z
+19,Sat Feb 4 2023,13:00,CET/+0100,1. FC Kaiserslautern,2-1,1-1,Holstein Kiel,2023-02-04T12:00Z
+19,Sat Feb 4 2023,20:30,CET/+0100,SpVgg Greuther Fürth,1-0,0-0,1. FC Nürnberg,2023-02-04T19:30Z
+19,Sun Feb 5 2023,13:30,CET/+0100,FC St. Pauli,2-0,2-0,Hannover 96,2023-02-05T12:30Z
+19,Sun Feb 5 2023,13:30,CET/+0100,1. FC Magdeburg,1-1,0-1,Karlsruher SC,2023-02-05T12:30Z
+19,Sun Feb 5 2023,13:30,CET/+0100,Hansa Rostock,0-2,0-1,Hamburger SV,2023-02-05T12:30Z
+20,Fri Feb 10 2023,18:30,CET/+0100,Arminia Bielefeld,0-1,0-0,Hansa Rostock,2023-02-10T17:30Z
+20,Fri Feb 10 2023,18:30,CET/+0100,Karlsruher SC,2-1,1-1,SpVgg Greuther Fürth,2023-02-10T17:30Z
+20,Sat Feb 11 2023,13:00,CET/+0100,Hannover 96,3-4,2-2,SC Paderborn 07,2023-02-11T12:00Z
+20,Sat Feb 11 2023,13:00,CET/+0100,1. FC Nürnberg,1-0,0-0,Jahn Regensburg,2023-02-11T12:00Z
+20,Sat Feb 11 2023,13:00,CET/+0100,Holstein Kiel,2-3,1-1,1. FC Magdeburg,2023-02-11T12:00Z
+20,Sat Feb 11 2023,20:30,CET/+0100,1. FC Heidenheim 1846,3-3,3-0,Hamburger SV,2023-02-11T19:30Z
+20,Sun Feb 12 2023,13:30,CET/+0100,SV Darmstadt 98,2-1,0-0,Eintracht Braunschweig,2023-02-12T12:30Z
+20,Sun Feb 12 2023,13:30,CET/+0100,FC St. Pauli,1-0,0-0,1. FC Kaiserslautern,2023-02-12T12:30Z
+20,Sun Feb 12 2023,13:30,CET/+0100,Fortuna Düsseldorf,2-0,0-0,SV Sandhausen,2023-02-12T12:30Z
+21,Fri Feb 17 2023,18:30,CET/+0100,SC Paderborn 07,1-0,0-0,1. FC Kaiserslautern,2023-02-17T17:30Z
+21,Fri Feb 17 2023,18:30,CET/+0100,Eintracht Braunschweig,2-3,0-2,Holstein Kiel,2023-02-17T17:30Z
+21,Sat Feb 18 2023,13:00,CET/+0100,1. FC Magdeburg,1-2,1-0,FC St. Pauli,2023-02-18T12:00Z
+21,Sat Feb 18 2023,13:00,CET/+0100,SpVgg Greuther Fürth,2-1,1-0,Fortuna Düsseldorf,2023-02-18T12:00Z
+21,Sat Feb 18 2023,13:00,CET/+0100,Jahn Regensburg,1-1,1-0,Hannover 96,2023-02-18T12:00Z
+21,Sat Feb 18 2023,20:30,CET/+0100,Hansa Rostock,0-1,0-0,SV Darmstadt 98,2023-02-18T19:30Z
+21,Sun Feb 19 2023,13:30,CET/+0100,1. FC Heidenheim 1846,5-0,3-0,1. FC Nürnberg,2023-02-19T12:30Z
+21,Sun Feb 19 2023,13:30,CET/+0100,SV Sandhausen,0-3,0-1,Karlsruher SC,2023-02-19T12:30Z
+21,Sun Feb 19 2023,13:30,CET/+0100,Hamburger SV,2-1,1-0,Arminia Bielefeld,2023-02-19T12:30Z
+22,Fri Feb 24 2023,18:30,CET/+0100,Fortuna Düsseldorf,3-1,2-0,Eintracht Braunschweig,2023-02-24T17:30Z
+22,Fri Feb 24 2023,18:30,CET/+0100,Karlsruher SC,1-0,1-0,Jahn Regensburg,2023-02-24T17:30Z
+22,Sat Feb 25 2023,13:00,CET/+0100,1. FC Kaiserslautern,3-1,1-0,SpVgg Greuther Fürth,2023-02-25T12:00Z
+22,Sat Feb 25 2023,13:00,CET/+0100,Holstein Kiel,1-1,0-1,SC Paderborn 07,2023-02-25T12:00Z
+22,Sat Feb 25 2023,13:00,CET/+0100,1. FC Nürnberg,1-0,0-0,SV Sandhausen,2023-02-25T12:00Z
+22,Sat Feb 25 2023,20:30,CET/+0100,SV Darmstadt 98,1-1,0-1,Hamburger SV,2023-02-25T19:30Z
+22,Sun Feb 26 2023,13:30,CET/+0100,FC St. Pauli,1-0,1-0,Hansa Rostock,2023-02-26T12:30Z
+22,Sun Feb 26 2023,13:30,CET/+0100,Hannover 96,1-2,0-0,1. FC Magdeburg,2023-02-26T12:30Z
+22,Sun Feb 26 2023,13:30,CET/+0100,Arminia Bielefeld,0-1,0-0,1. FC Heidenheim 1846,2023-02-26T12:30Z
+23,Fri Mar 3 2023,18:30,CET/+0100,1. FC Magdeburg,2-0,1-0,1. FC Kaiserslautern,2023-03-03T17:30Z
+23,Fri Mar 3 2023,18:30,CET/+0100,SC Paderborn 07,1-2,0-2,FC St. Pauli,2023-03-03T17:30Z
+23,Sat Mar 4 2023,13:00,CET/+0100,Hamburger SV,3-0,1-0,1. FC Nürnberg,2023-03-04T12:00Z
+23,Sat Mar 4 2023,13:00,CET/+0100,SV Sandhausen,1-1,0-0,Holstein Kiel,2023-03-04T12:00Z
+23,Sat Mar 4 2023,13:00,CET/+0100,Jahn Regensburg,0-1,0-0,Fortuna Düsseldorf,2023-03-04T12:00Z
+23,Sat Mar 4 2023,20:30,CET/+0100,1. FC Heidenheim 1846,1-0,0-0,SV Darmstadt 98,2023-03-04T19:30Z
+23,Sun Mar 5 2023,13:30,CET/+0100,SpVgg Greuther Fürth,1-1,0-0,Hannover 96,2023-03-05T12:30Z
+23,Sun Mar 5 2023,13:30,CET/+0100,Hansa Rostock,0-2,0-2,Karlsruher SC,2023-03-05T12:30Z
+23,Sun Mar 5 2023,13:30,CET/+0100,Eintracht Braunschweig,3-3,2-3,Arminia Bielefeld,2023-03-05T12:30Z
+24,Fri Mar 10 2023,18:30,CET/+0100,1. FC Nürnberg,2-0,0-0,Eintracht Braunschweig,2023-03-10T17:30Z
+24,Fri Mar 10 2023,18:30,CET/+0100,1. FC Kaiserslautern,2-2,1-1,SV Sandhausen,2023-03-10T17:30Z
+24,Sat Mar 11 2023,13:00,CET/+0100,FC St. Pauli,2-1,1-1,SpVgg Greuther Fürth,2023-03-11T12:00Z
+24,Sat Mar 11 2023,13:00,CET/+0100,Arminia Bielefeld,3-1,0-0,SV Darmstadt 98,2023-03-11T12:00Z
+24,Sat Mar 11 2023,13:00,CET/+0100,1. FC Magdeburg,0-0,0-0,SC Paderborn 07,2023-03-11T12:00Z
+24,Sat Mar 11 2023,20:30,CET/+0100,Fortuna Düsseldorf,1-1,1-1,1. FC Heidenheim 1846,2023-03-11T19:30Z
+24,Sun Mar 12 2023,13:30,CET/+0100,Hannover 96,1-1,0-1,Hansa Rostock,2023-03-12T12:30Z
+24,Sun Mar 12 2023,13:30,CET/+0100,Holstein Kiel,1-2,1-1,Jahn Regensburg,2023-03-12T12:30Z
+24,Sun Mar 12 2023,13:30,CET/+0100,Karlsruher SC,4-2,3-0,Hamburger SV,2023-03-12T12:30Z
+25,Fri Mar 17 2023,18:30,CET/+0100,1. FC Heidenheim 1846,5-2,2-2,Karlsruher SC,2023-03-17T17:30Z
+25,Fri Mar 17 2023,18:30,CET/+0100,Arminia Bielefeld,2-2,2-0,1. FC Nürnberg,2023-03-17T17:30Z
+25,Sat Mar 18 2023,13:00,CET/+0100,Jahn Regensburg,1-0,0-0,SC Paderborn 07,2023-03-18T12:00Z
+25,Sat Mar 18 2023,13:00,CET/+0100,Hamburger SV,0-0,0-0,Holstein Kiel,2023-03-18T12:00Z
+25,Sat Mar 18 2023,13:00,CET/+0100,SpVgg Greuther Fürth,3-0,0-0,1. FC Magdeburg,2023-03-18T12:00Z
+25,Sat Mar 18 2023,20:30,CET/+0100,SV Darmstadt 98,2-0,2-0,1. FC Kaiserslautern,2023-03-18T19:30Z
+25,Sun Mar 19 2023,13:30,CET/+0100,Hansa Rostock,2-5,0-3,Fortuna Düsseldorf,2023-03-19T12:30Z
+25,Sun Mar 19 2023,13:30,CET/+0100,Eintracht Braunschweig,1-0,0-0,Hannover 96,2023-03-19T12:30Z
+25,Sun Mar 19 2023,13:30,CET/+0100,SV Sandhausen,0-5,0-4,FC St. Pauli,2023-03-19T12:30Z
+26,Fri Mar 31 2023,18:30,CEST/+0200,1. FC Nürnberg,0-1,0-1,SV Darmstadt 98,2023-03-31T16:30Z
+26,Fri Mar 31 2023,18:30,CEST/+0200,Fortuna Düsseldorf,2-2,2-1,Hamburger SV,2023-03-31T16:30Z
+26,Sat Apr 1 2023,13:00,CEST/+0200,Hannover 96,3-1,1-1,SV Sandhausen,2023-04-01T11:00Z
+26,Sat Apr 1 2023,13:00,CEST/+0200,FC St. Pauli,1-0,1-0,Jahn Regensburg,2023-04-01T11:00Z
+26,Sat Apr 1 2023,13:00,CEST/+0200,Karlsruher SC,1-1,0-1,Eintracht Braunschweig,2023-04-01T11:00Z
+26,Sat Apr 1 2023,20:30,CEST/+0200,1. FC Kaiserslautern,2-2,0-0,1. FC Heidenheim 1846,2023-04-01T18:30Z
+26,Sun Apr 2 2023,13:30,CEST/+0200,SC Paderborn 07,3-2,1-0,SpVgg Greuther Fürth,2023-04-02T11:30Z
+26,Sun Apr 2 2023,13:30,CEST/+0200,1. FC Magdeburg,3-0,1-0,Hansa Rostock,2023-04-02T11:30Z
+26,Sun Apr 2 2023,13:30,CEST/+0200,Holstein Kiel,2-3,1-2,Arminia Bielefeld,2023-04-02T11:30Z
+27,Sat Apr 8 2023,13:00,CEST/+0200,1. FC Nürnberg,1-1,0-1,Karlsruher SC,2023-04-08T11:00Z
+27,Sat Apr 8 2023,13:00,CEST/+0200,Eintracht Braunschweig,1-0,0-0,1. FC Kaiserslautern,2023-04-08T11:00Z
+27,Sat Apr 8 2023,20:30,CEST/+0200,1. FC Heidenheim 1846,0-1,0-1,FC St. Pauli,2023-04-08T18:30Z
+27,Sat Apr 8 2023,13:00,CEST/+0200,Hamburger SV,6-1,2-0,Hannover 96,2023-04-08T11:00Z
+27,Sun Apr 9 2023,13:30,CEST/+0200,SV Sandhausen,0-2,0-2,SpVgg Greuther Fürth,2023-04-09T11:30Z
+27,Sun Apr 9 2023,13:30,CEST/+0200,SV Darmstadt 98,2-1,1-1,SC Paderborn 07,2023-04-09T11:30Z
+27,Sun Apr 9 2023,13:30,CEST/+0200,Hansa Rostock,2-3,1-2,Holstein Kiel,2023-04-09T11:30Z
+27,Sun Apr 9 2023,13:30,CEST/+0200,Arminia Bielefeld,2-2,1-0,Fortuna Düsseldorf,2023-04-09T11:30Z
+27,Sun Apr 9 2023,13:30,CEST/+0200,Jahn Regensburg,2-2,0-1,1. FC Magdeburg,2023-04-09T11:30Z
+28,Fri Apr 14 2023,18:30,CEST/+0200,SpVgg Greuther Fürth,2-1,0-0,Jahn Regensburg,2023-04-14T16:30Z
+28,Fri Apr 14 2023,18:30,CEST/+0200,Hannover 96,0-3,0-3,1. FC Heidenheim 1846,2023-04-14T16:30Z
+28,Sat Apr 15 2023,13:00,CEST/+0200,SC Paderborn 07,3-0,0-0,Hansa Rostock,2023-04-15T11:00Z
+28,Sat Apr 15 2023,13:00,CEST/+0200,1. FC Magdeburg,1-2,0-1,SV Sandhausen,2023-04-15T11:00Z
+28,Sat Apr 15 2023,20:30,CEST/+0200,1. FC Kaiserslautern,2-0,0-0,Hamburger SV,2023-04-15T18:30Z
+28,Sat Apr 15 2023,13:00,CEST/+0200,Holstein Kiel,2-1,2-0,1. FC Nürnberg,2023-04-15T11:00Z
+28,Sun Apr 16 2023,13:30,CEST/+0200,Karlsruher SC,4-2,0-1,Arminia Bielefeld,2023-04-16T11:30Z
+28,Sun Apr 16 2023,13:30,CEST/+0200,Fortuna Düsseldorf,1-0,0-0,SV Darmstadt 98,2023-04-16T11:30Z
+28,Sun Apr 16 2023,13:30,CEST/+0200,FC St. Pauli,1-2,0-2,Eintracht Braunschweig,2023-04-16T11:30Z
+29,Fri Apr 21 2023,18:30,CEST/+0200,SV Darmstadt 98,2-1,1-1,Karlsruher SC,2023-04-21T16:30Z
+29,Fri Apr 21 2023,18:30,CEST/+0200,Hamburger SV,4-3,1-1,FC St. Pauli,2023-04-21T16:30Z
+29,Sat Apr 22 2023,13:00,CEST/+0200,1. FC Nürnberg,2-0,1-0,Fortuna Düsseldorf,2023-04-22T11:00Z
+29,Sat Apr 22 2023,13:00,CEST/+0200,Arminia Bielefeld,1-3,1-2,Hannover 96,2023-04-22T11:00Z
+29,Sat Apr 22 2023,20:30,CEST/+0200,Eintracht Braunschweig,1-2,0-1,1. FC Magdeburg,2023-04-22T18:30Z
+29,Sat Apr 22 2023,13:00,CEST/+0200,Hansa Rostock,2-0,0-0,SpVgg Greuther Fürth,2023-04-22T11:00Z
+29,Sun Apr 23 2023,13:30,CEST/+0200,SV Sandhausen,2-2,1-2,SC Paderborn 07,2023-04-23T11:30Z
+29,Sun Apr 23 2023,13:30,CEST/+0200,1. FC Heidenheim 1846,3-0,1-0,Holstein Kiel,2023-04-23T11:30Z
+29,Sun Apr 23 2023,13:30,CEST/+0200,Jahn Regensburg,0-0,0-0,1. FC Kaiserslautern,2023-04-23T11:30Z
+30,Fri Apr 28 2023,18:30,CEST/+0200,SC Paderborn 07,5-1,2-0,Eintracht Braunschweig,2023-04-28T16:30Z
+30,Fri Apr 28 2023,18:30,CEST/+0200,SpVgg Greuther Fürth,0-2,0-1,1. FC Heidenheim 1846,2023-04-28T16:30Z
+30,Sat Apr 29 2023,13:00,CEST/+0200,1. FC Magdeburg,3-2,1-1,Hamburger SV,2023-04-29T11:00Z
+30,Sat Apr 29 2023,13:00,CEST/+0200,1. FC Kaiserslautern,0-1,0-1,Hansa Rostock,2023-04-29T11:00Z
+30,Sat Apr 29 2023,20:30,CEST/+0200,Hannover 96,3-0,1-0,1. FC Nürnberg,2023-04-29T18:30Z
+30,Sat Apr 29 2023,13:00,CEST/+0200,FC St. Pauli,2-1,0-0,Arminia Bielefeld,2023-04-29T11:00Z
+30,Sun Apr 30 2023,13:30,CEST/+0200,Holstein Kiel,0-3,0-2,SV Darmstadt 98,2023-04-30T11:30Z
+30,Sun Apr 30 2023,13:30,CEST/+0200,Fortuna Düsseldorf,3-2,1-1,Karlsruher SC,2023-04-30T11:30Z
+30,Sun Apr 30 2023,13:30,CEST/+0200,SV Sandhausen,2-1,1-0,Jahn Regensburg,2023-04-30T11:30Z
+31,Fri May 5 2023,18:30,CEST/+0200,Hamburger SV,2-2,1-1,SC Paderborn 07,2023-05-05T16:30Z
+31,Fri May 5 2023,18:30,CEST/+0200,Arminia Bielefeld,1-1,1-1,SpVgg Greuther Fürth,2023-05-05T16:30Z
+31,Sat May 6 2023,13:00,CEST/+0200,Fortuna Düsseldorf,3-0,3-0,Holstein Kiel,2023-05-06T11:00Z
+31,Sat May 6 2023,13:00,CEST/+0200,Karlsruher SC,2-1,2-1,Hannover 96,2023-05-06T11:00Z
+31,Sat May 6 2023,13:00,CEST/+0200,Hansa Rostock,2-0,1-0,Jahn Regensburg,2023-05-06T11:00Z
+31,Sat May 6 2023,20:30,CEST/+0200,SV Darmstadt 98,0-3,0-1,FC St. Pauli,2023-05-06T18:30Z
+31,Sun May 7 2023,13:30,CEST/+0200,1. FC Heidenheim 1846,0-0,0-0,1. FC Magdeburg,2023-05-07T11:30Z
+31,Sun May 7 2023,13:30,CEST/+0200,1. FC Nürnberg,3-3,2-1,1. FC Kaiserslautern,2023-05-07T11:30Z
+31,Sun May 7 2023,13:30,CEST/+0200,Eintracht Braunschweig,2-1,0-0,SV Sandhausen,2023-05-07T11:30Z
+32,Fri May 12 2023,18:30,CEST/+0200,1. FC Magdeburg,2-2,1-0,1. FC Nürnberg,2023-05-12T16:30Z
+32,Fri May 12 2023,18:30,CEST/+0200,SV Sandhausen,1-2,0-2,Hansa Rostock,2023-05-12T16:30Z
+32,Sat May 13 2023,13:00,CEST/+0200,Holstein Kiel,2-1,1-0,Karlsruher SC,2023-05-13T11:00Z
+32,Sat May 13 2023,13:00,CEST/+0200,SpVgg Greuther Fürth,2-2,1-1,Eintracht Braunschweig,2023-05-13T11:00Z
+32,Sat May 13 2023,20:30,CEST/+0200,FC St. Pauli,0-0,0-0,Fortuna Düsseldorf,2023-05-13T18:30Z
+32,Sat May 13 2023,13:00,CEST/+0200,1. FC Kaiserslautern,1-2,0-1,Arminia Bielefeld,2023-05-13T11:00Z
+32,Sun May 14 2023,13:30,CEST/+0200,Hannover 96,2-1,2-1,SV Darmstadt 98,2023-05-14T11:30Z
+32,Sun May 14 2023,13:30,CEST/+0200,SC Paderborn 07,3-2,1-2,1. FC Heidenheim 1846,2023-05-14T11:30Z
+32,Sun May 14 2023,13:30,CEST/+0200,Jahn Regensburg,1-5,0-4,Hamburger SV,2023-05-14T11:30Z
+33,Fri May 19 2023,18:30,CEST/+0200,Holstein Kiel,3-4,1-1,FC St. Pauli,2023-05-19T16:30Z
+33,Fri May 19 2023,18:30,CEST/+0200,SV Darmstadt 98,1-0,1-0,1. FC Magdeburg,2023-05-19T16:30Z
+33,Sat May 20 2023,13:00,CEST/+0200,1. FC Heidenheim 1846,1-0,0-0,SV Sandhausen,2023-05-20T11:00Z
+33,Sat May 20 2023,13:00,CEST/+0200,Eintracht Braunschweig,1-2,1-1,Jahn Regensburg,2023-05-20T11:00Z
+33,Sat May 20 2023,20:30,CEST/+0200,Hamburger SV,2-1,1-0,SpVgg Greuther Fürth,2023-05-20T18:30Z
+33,Sat May 20 2023,13:00,CEST/+0200,Arminia Bielefeld,2-2,2-1,SC Paderborn 07,2023-05-20T11:00Z
+33,Sun May 21 2023,13:30,CEST/+0200,1. FC Nürnberg,0-0,0-0,Hansa Rostock,2023-05-21T11:30Z
+33,Sun May 21 2023,13:30,CEST/+0200,Karlsruher SC,2-0,0-0,1. FC Kaiserslautern,2023-05-21T11:30Z
+33,Sun May 21 2023,13:30,CEST/+0200,Fortuna Düsseldorf,3-3,1-2,Hannover 96,2023-05-21T11:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,1. FC Magdeburg,4-0,2-0,Arminia Bielefeld,2023-05-28T13:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,SV Sandhausen,0-1,0-1,Hamburger SV,2023-05-28T13:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,SpVgg Greuther Fürth,4-0,0-0,SV Darmstadt 98,2023-05-28T13:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,Jahn Regensburg,2-3,0-0,1. FC Heidenheim 1846,2023-05-28T13:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,SC Paderborn 07,0-1,0-1,1. FC Nürnberg,2023-05-28T13:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,Hannover 96,1-5,0-3,Holstein Kiel,2023-05-28T13:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,1. FC Kaiserslautern,0-3,0-1,Fortuna Düsseldorf,2023-05-28T13:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,FC St. Pauli,1-1,0-1,Karlsruher SC,2023-05-28T13:30Z
+34,Sun May 28 2023,15:30,CEST/+0200,Hansa Rostock,2-1,0-0,Eintracht Braunschweig,2023-05-28T13:30Z

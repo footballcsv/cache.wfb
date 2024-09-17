@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 17 2002,15:00,BST/+0100,Southampton FC,0-0,0-0,Middlesbrough FC,2002-08-17T14:00Z
+1,Sat Aug 17 2002,15:00,BST/+0100,Leeds United,3-0,2-0,Manchester City,2002-08-17T14:00Z
+1,Sat Aug 17 2002,15:00,BST/+0100,Manchester United,1-0,0-0,West Bromwich Albion,2002-08-17T14:00Z
+1,Sat Aug 17 2002,15:00,BST/+0100,Charlton Athletic,2-3,2-1,Chelsea FC,2002-08-17T14:00Z
+1,Sat Aug 17 2002,15:00,BST/+0100,Everton FC,2-2,1-0,Tottenham Hotspur,2002-08-17T14:00Z
+1,Sat Aug 17 2002,15:00,BST/+0100,Fulham FC,4-1,3-1,Bolton Wanderers,2002-08-17T14:00Z
+1,Sat Aug 17 2002,15:00,BST/+0100,Blackburn Rovers,0-0,0-0,Sunderland AFC,2002-08-17T14:00Z
+1,Sun Aug 18 2002,16:05,BST/+0100,Arsenal FC,2-0,2-0,Birmingham City,2002-08-18T15:05Z
+1,Sun Aug 18 2002,14:00,BST/+0100,Aston Villa,0-1,0-0,Liverpool FC,2002-08-18T13:00Z
+1,Mon Aug 19 2002,20:00,BST/+0100,Newcastle United,4-0,0-0,West Ham United,2002-08-19T19:00Z
+2,Fri Aug 23 2002,20:00,BST/+0100,Chelsea FC,2-2,2-1,Manchester United,2002-08-23T19:00Z
+2,Sat Aug 24 2002,12:15,BST/+0100,Manchester City,1-0,1-0,Newcastle United,2002-08-24T11:15Z
+2,Sat Aug 24 2002,15:00,BST/+0100,West Ham United,2-2,1-0,Arsenal FC,2002-08-24T14:00Z
+2,Sat Aug 24 2002,15:00,BST/+0100,Sunderland AFC,0-1,0-1,Everton FC,2002-08-24T14:00Z
+2,Sat Aug 24 2002,15:00,BST/+0100,Tottenham Hotspur,1-0,1-0,Aston Villa,2002-08-24T14:00Z
+2,Sat Aug 24 2002,15:00,BST/+0100,Liverpool FC,3-0,1-0,Southampton FC,2002-08-24T14:00Z
+2,Sat Aug 24 2002,15:00,BST/+0100,Middlesbrough FC,2-2,1-0,Fulham FC,2002-08-24T14:00Z
+2,Sat Aug 24 2002,15:00,BST/+0100,Birmingham City,0-1,0-1,Blackburn Rovers,2002-08-24T14:00Z
+2,Sat Aug 24 2002,15:00,BST/+0100,Bolton Wanderers,1-2,1-1,Charlton Athletic,2002-08-24T14:00Z
+2,Sat Aug 24 2002,17:30,BST/+0100,West Bromwich Albion,1-3,0-1,Leeds United,2002-08-24T16:30Z
+3,Tue Aug 27 2002,19:45,BST/+0100,Charlton Athletic,0-1,0-1,Tottenham Hotspur,2002-08-27T18:45Z
+3,Tue Aug 27 2002,20:00,BST/+0100,Arsenal FC,5-2,3-0,West Bromwich Albion,2002-08-27T19:00Z
+3,Wed Aug 28 2002,19:45,BST/+0100,Southampton FC,1-1,0-0,Chelsea FC,2002-08-28T18:45Z
+3,Wed Aug 28 2002,19:45,BST/+0100,Aston Villa,1-0,0-0,Manchester City,2002-08-28T18:45Z
+3,Wed Aug 28 2002,20:00,BST/+0100,Blackburn Rovers,2-2,1-1,Liverpool FC,2002-08-28T19:00Z
+3,Wed Aug 28 2002,20:00,BST/+0100,Everton FC,1-1,0-0,Birmingham City,2002-08-28T19:00Z
+3,Wed Aug 28 2002,19:45,BST/+0100,Leeds United,0-1,0-0,Sunderland AFC,2002-08-28T18:45Z
+4,Sat Aug 31 2002,15:00,BST/+0100,Middlesbrough FC,1-0,0-0,Blackburn Rovers,2002-08-31T14:00Z
+4,Sat Aug 31 2002,15:00,BST/+0100,Manchester City,3-1,2-1,Everton FC,2002-08-31T14:00Z
+4,Sat Aug 31 2002,15:00,BST/+0100,West Bromwich Albion,1-0,0-0,Fulham FC,2002-08-31T14:00Z
+4,Sat Aug 31 2002,12:00,BST/+0100,Birmingham City,2-1,1-0,Leeds United,2002-08-31T11:00Z
+4,Sat Aug 31 2002,15:00,BST/+0100,West Ham United,0-2,0-2,Charlton Athletic,2002-08-31T14:00Z
+4,Sat Aug 31 2002,15:00,BST/+0100,Sunderland AFC,1-1,0-1,Manchester United,2002-08-31T14:00Z
+4,Sat Aug 31 2002,15:00,BST/+0100,Tottenham Hotspur,2-1,1-1,Southampton FC,2002-08-31T14:00Z
+4,Sun Sep 1 2002,16:05,BST/+0100,Chelsea FC,1-1,1-0,Arsenal FC,2002-09-01T15:05Z
+4,Sun Sep 1 2002,14:00,BST/+0100,Bolton Wanderers,1-0,0-0,Aston Villa,2002-09-01T13:00Z
+4,Mon Sep 2 2002,20:00,BST/+0100,Liverpool FC,2-2,0-0,Newcastle United,2002-09-02T19:00Z
+3,Tue Sep 3 2002,20:00,BST/+0100,Manchester United,1-0,1-0,Middlesbrough FC,2002-09-03T19:00Z
+5,Tue Sep 10 2002,19:45,BST/+0100,Middlesbrough FC,3-0,2-0,Sunderland AFC,2002-09-10T18:45Z
+5,Tue Sep 10 2002,20:00,BST/+0100,Arsenal FC,2-1,2-1,Manchester City,2002-09-10T19:00Z
+5,Wed Sep 11 2002,20:00,BST/+0100,Liverpool FC,2-2,1-0,Birmingham City,2002-09-11T19:00Z
+5,Wed Sep 11 2002,20:00,BST/+0100,Blackburn Rovers,2-3,2-1,Chelsea FC,2002-09-11T19:00Z
+5,Wed Sep 11 2002,19:45,BST/+0100,Aston Villa,2-0,0-0,Charlton Athletic,2002-09-11T18:45Z
+5,Wed Sep 11 2002,19:45,BST/+0100,West Ham United,0-1,0-1,West Bromwich Albion,2002-09-11T18:45Z
+5,Wed Sep 11 2002,19:45,BST/+0100,Southampton FC,1-0,0-0,Everton FC,2002-09-11T18:45Z
+5,Wed Sep 11 2002,19:45,BST/+0100,Fulham FC,3-2,0-2,Tottenham Hotspur,2002-09-11T18:45Z
+5,Wed Sep 11 2002,20:00,BST/+0100,Manchester United,0-1,0-0,Bolton Wanderers,2002-09-11T19:00Z
+5,Wed Sep 11 2002,20:00,BST/+0100,Newcastle United,0-2,0-1,Leeds United,2002-09-11T19:00Z
+6,Sat Sep 14 2002,15:00,BST/+0100,Sunderland AFC,0-3,0-1,Fulham FC,2002-09-14T14:00Z
+6,Sat Sep 14 2002,15:00,BST/+0100,Bolton Wanderers,2-3,0-1,Liverpool FC,2002-09-14T14:00Z
+6,Sat Sep 14 2002,12:00,BST/+0100,Leeds United,1-0,0-0,Manchester United,2002-09-14T11:00Z
+6,Sat Sep 14 2002,15:00,BST/+0100,West Bromwich Albion,1-0,0-0,Southampton FC,2002-09-14T14:00Z
+6,Sat Sep 14 2002,15:00,BST/+0100,Charlton Athletic,0-3,0-1,Arsenal FC,2002-09-14T14:00Z
+6,Sat Sep 14 2002,15:00,BST/+0100,Chelsea FC,3-0,2-0,Newcastle United,2002-09-14T14:00Z
+6,Sat Sep 14 2002,15:00,BST/+0100,Everton FC,2-1,1-1,Middlesbrough FC,2002-09-14T14:00Z
+6,Sun Sep 15 2002,16:05,BST/+0100,Tottenham Hotspur,3-2,0-0,West Ham United,2002-09-15T15:05Z
+6,Sun Sep 15 2002,14:00,BST/+0100,Manchester City,2-2,0-1,Blackburn Rovers,2002-09-15T13:00Z
+6,Mon Sep 16 2002,20:00,BST/+0100,Birmingham City,3-0,1-0,Aston Villa,2002-09-16T19:00Z
+7,Sat Sep 21 2002,15:00,BST/+0100,Liverpool FC,2-0,0-0,West Bromwich Albion,2002-09-21T14:00Z
+7,Sat Sep 21 2002,15:00,BST/+0100,Arsenal FC,2-1,1-0,Bolton Wanderers,2002-09-21T14:00Z
+7,Sat Sep 21 2002,12:15,BST/+0100,Newcastle United,2-0,2-0,Sunderland AFC,2002-09-21T11:15Z
+7,Sat Sep 21 2002,15:00,BST/+0100,West Ham United,0-0,0-0,Manchester City,2002-09-21T14:00Z
+7,Sat Sep 21 2002,15:00,BST/+0100,Middlesbrough FC,1-0,1-0,Birmingham City,2002-09-21T14:00Z
+7,Sat Sep 21 2002,15:00,BST/+0100,Southampton FC,0-0,0-0,Charlton Athletic,2002-09-21T14:00Z
+7,Sat Sep 21 2002,15:00,BST/+0100,Manchester United,1-0,0-0,Tottenham Hotspur,2002-09-21T14:00Z
+7,Sun Sep 22 2002,15:00,BST/+0100,Blackburn Rovers,1-0,1-0,Leeds United,2002-09-22T14:00Z
+7,Sun Sep 22 2002,14:00,BST/+0100,Aston Villa,3-2,1-0,Everton FC,2002-09-22T13:00Z
+7,Mon Sep 23 2002,20:00,BST/+0100,Fulham FC,0-0,0-0,Chelsea FC,2002-09-23T19:00Z
+8,Sat Sep 28 2002,17:30,BST/+0100,Birmingham City,0-2,0-1,Newcastle United,2002-09-28T16:30Z
+8,Sat Sep 28 2002,15:00,BST/+0100,Tottenham Hotspur,0-3,0-1,Middlesbrough FC,2002-09-28T14:00Z
+8,Sat Sep 28 2002,12:00,BST/+0100,Leeds United,1-4,0-2,Arsenal FC,2002-09-28T11:00Z
+8,Sat Sep 28 2002,15:00,BST/+0100,Charlton Athletic,1-3,1-0,Manchester United,2002-09-28T14:00Z
+8,Sat Sep 28 2002,15:00,BST/+0100,Chelsea FC,2-3,1-1,West Ham United,2002-09-28T14:00Z
+8,Sat Sep 28 2002,15:00,BST/+0100,Everton FC,2-0,2-0,Fulham FC,2002-09-28T14:00Z
+8,Sat Sep 28 2002,15:00,BST/+0100,Bolton Wanderers,1-1,0-0,Southampton FC,2002-09-28T14:00Z
+8,Sat Sep 28 2002,15:00,BST/+0100,Manchester City,0-3,0-1,Liverpool FC,2002-09-28T14:00Z
+8,Sat Sep 28 2002,15:00,BST/+0100,Sunderland AFC,1-0,0-0,Aston Villa,2002-09-28T14:00Z
+8,Mon Sep 30 2002,20:00,BST/+0100,West Bromwich Albion,0-2,0-0,Blackburn Rovers,2002-09-30T19:00Z
+9,Sat Oct 5 2002,15:00,BST/+0100,Newcastle United,2-1,1-1,West Bromwich Albion,2002-10-05T14:00Z
+9,Sat Oct 5 2002,15:00,BST/+0100,West Ham United,1-2,1-2,Birmingham City,2002-10-05T14:00Z
+9,Sat Oct 5 2002,15:00,BST/+0100,Middlesbrough FC,2-0,1-0,Bolton Wanderers,2002-10-05T14:00Z
+9,Sat Oct 5 2002,15:00,BST/+0100,Southampton FC,2-0,2-0,Manchester City,2002-10-05T14:00Z
+9,Sun Oct 6 2002,16:05,BST/+0100,Liverpool FC,1-0,0-0,Chelsea FC,2002-10-06T15:05Z
+9,Sun Oct 6 2002,15:00,BST/+0100,Aston Villa,0-0,0-0,Leeds United,2002-10-06T14:00Z
+9,Sun Oct 6 2002,13:00,BST/+0100,Fulham FC,1-0,1-0,Charlton Athletic,2002-10-06T12:00Z
+9,Sun Oct 6 2002,14:00,BST/+0100,Arsenal FC,3-1,3-0,Sunderland AFC,2002-10-06T13:00Z
+9,Sun Oct 6 2002,15:00,BST/+0100,Blackburn Rovers,1-2,0-1,Tottenham Hotspur,2002-10-06T14:00Z
+9,Mon Oct 7 2002,20:00,BST/+0100,Manchester United,3-0,0-0,Everton FC,2002-10-07T19:00Z
+10,Sat Oct 19 2002,15:00,BST/+0100,Fulham FC,1-1,1-0,Manchester United,2002-10-19T14:00Z
+10,Sat Oct 19 2002,15:00,BST/+0100,Blackburn Rovers,5-2,2-1,Newcastle United,2002-10-19T14:00Z
+10,Sat Oct 19 2002,12:00,BST/+0100,Leeds United,0-1,0-0,Liverpool FC,2002-10-19T11:00Z
+10,Sat Oct 19 2002,15:00,BST/+0100,West Bromwich Albion,1-1,0-0,Birmingham City,2002-10-19T14:00Z
+10,Sat Oct 19 2002,15:00,BST/+0100,Manchester City,0-3,0-0,Chelsea FC,2002-10-19T14:00Z
+10,Sat Oct 19 2002,15:00,BST/+0100,Sunderland AFC,0-1,0-1,West Ham United,2002-10-19T14:00Z
+10,Sat Oct 19 2002,15:00,BST/+0100,Everton FC,2-1,1-1,Arsenal FC,2002-10-19T14:00Z
+10,Sun Oct 20 2002,16:05,BST/+0100,Charlton Athletic,1-0,1-0,Middlesbrough FC,2002-10-20T15:05Z
+10,Sun Oct 20 2002,16:05,BST/+0100,Tottenham Hotspur,3-1,0-0,Bolton Wanderers,2002-10-20T15:05Z
+10,Mon Oct 21 2002,20:00,BST/+0100,Aston Villa,0-1,0-0,Southampton FC,2002-10-21T19:00Z
+3,Wed Oct 23 2002,19:45,BST/+0100,Fulham FC,0-1,0-0,West Ham United,2002-10-23T18:45Z
+11,Sat Oct 26 2002,15:00,BST/+0100,Manchester United,1-1,0-1,Aston Villa,2002-10-26T14:00Z
+11,Sat Oct 26 2002,15:00,BST/+0100,Middlesbrough FC,2-2,1-1,Leeds United,2002-10-26T14:00Z
+11,Sat Oct 26 2002,15:00,BST/+0100,Newcastle United,2-1,1-1,Charlton Athletic,2002-10-26T14:00Z
+11,Sat Oct 26 2002,15:00,BST/+0100,Chelsea FC,2-0,1-0,West Bromwich Albion,2002-10-26T14:00Z
+11,Sat Oct 26 2002,15:00,BST/+0100,Liverpool FC,2-1,0-0,Tottenham Hotspur,2002-10-26T14:00Z
+11,Sat Oct 26 2002,15:00,BST/+0100,Birmingham City,0-2,0-1,Manchester City,2002-10-26T14:00Z
+11,Sat Oct 26 2002,15:00,BST/+0100,Arsenal FC,1-2,1-1,Blackburn Rovers,2002-10-26T14:00Z
+11,Sun Oct 27 2002,14:00,GMT/+0000,Southampton FC,4-2,2-2,Fulham FC,2002-10-27T14:00Z
+11,Sun Oct 27 2002,16:05,GMT/+0000,West Ham United,0-1,0-0,Everton FC,2002-10-27T16:05Z
+11,Mon Oct 28 2002,20:00,GMT/+0000,Bolton Wanderers,1-1,0-1,Sunderland AFC,2002-10-28T20:00Z
+12,Sat Nov 2 2002,15:00,GMT/+0000,Birmingham City,3-1,0-0,Bolton Wanderers,2002-11-02T15:00Z
+12,Sat Nov 2 2002,15:00,GMT/+0000,West Bromwich Albion,1-2,0-0,Manchester City,2002-11-02T15:00Z
+12,Sat Nov 2 2002,15:00,GMT/+0000,Manchester United,2-1,1-1,Southampton FC,2002-11-02T15:00Z
+12,Sat Nov 2 2002,15:00,GMT/+0000,Liverpool FC,2-0,1-0,West Ham United,2002-11-02T15:00Z
+12,Sun Nov 3 2002,15:00,GMT/+0000,Blackburn Rovers,0-0,0-0,Aston Villa,2002-11-03T15:00Z
+12,Sun Nov 3 2002,14:00,GMT/+0000,Tottenham Hotspur,0-0,0-0,Chelsea FC,2002-11-03T14:00Z
+12,Sun Nov 3 2002,14:00,GMT/+0000,Fulham FC,0-1,0-1,Arsenal FC,2002-11-03T14:00Z
+12,Sun Nov 3 2002,15:00,GMT/+0000,Leeds United,0-1,0-0,Everton FC,2002-11-03T15:00Z
+12,Sun Nov 3 2002,16:05,GMT/+0000,Charlton Athletic,1-1,0-1,Sunderland AFC,2002-11-03T16:05Z
+12,Mon Nov 4 2002,20:00,GMT/+0000,Newcastle United,2-0,1-0,Middlesbrough FC,2002-11-04T20:00Z
+13,Sat Nov 9 2002,15:00,GMT/+0000,Aston Villa,3-1,1-0,Fulham FC,2002-11-09T15:00Z
+13,Sat Nov 9 2002,12:15,GMT/+0000,Manchester City,3-1,2-1,Manchester United,2002-11-09T12:15Z
+13,Sat Nov 9 2002,15:00,GMT/+0000,Middlesbrough FC,1-0,0-0,Liverpool FC,2002-11-09T15:00Z
+13,Sat Nov 9 2002,15:00,GMT/+0000,Southampton FC,1-1,1-0,Blackburn Rovers,2002-11-09T15:00Z
+13,Sat Nov 9 2002,15:00,GMT/+0000,Chelsea FC,3-0,3-0,Birmingham City,2002-11-09T15:00Z
+13,Sat Nov 9 2002,15:00,GMT/+0000,Everton FC,1-0,1-0,Charlton Athletic,2002-11-09T15:00Z
+13,Sat Nov 9 2002,15:00,GMT/+0000,Arsenal FC,1-0,1-0,Newcastle United,2002-11-09T15:00Z
+13,Sat Nov 9 2002,15:00,GMT/+0000,Bolton Wanderers,1-1,0-1,West Bromwich Albion,2002-11-09T15:00Z
+13,Sun Nov 10 2002,14:00,GMT/+0000,West Ham United,3-4,1-4,Leeds United,2002-11-10T14:00Z
+13,Sun Nov 10 2002,16:05,GMT/+0000,Sunderland AFC,2-0,0-0,Tottenham Hotspur,2002-11-10T16:05Z
+14,Sat Nov 16 2002,15:00,GMT/+0000,Arsenal FC,3-0,1-0,Tottenham Hotspur,2002-11-16T15:00Z
+14,Sat Nov 16 2002,15:00,GMT/+0000,Manchester City,0-1,0-0,Charlton Athletic,2002-11-16T15:00Z
+14,Sat Nov 16 2002,15:00,GMT/+0000,Newcastle United,2-1,1-1,Southampton FC,2002-11-16T15:00Z
+14,Sat Nov 16 2002,15:00,GMT/+0000,West Bromwich Albion,0-0,0-0,Aston Villa,2002-11-16T15:00Z
+14,Sat Nov 16 2002,15:00,GMT/+0000,Chelsea FC,1-0,0-0,Middlesbrough FC,2002-11-16T15:00Z
+14,Sun Nov 17 2002,16:05,GMT/+0000,West Ham United,1-1,0-1,Manchester United,2002-11-17T16:05Z
+14,Sun Nov 17 2002,14:00,GMT/+0000,Liverpool FC,0-0,0-0,Sunderland AFC,2002-11-17T14:00Z
+14,Sun Nov 17 2002,15:00,GMT/+0000,Leeds United,2-4,1-1,Bolton Wanderers,2002-11-17T15:00Z
+14,Sun Nov 17 2002,15:00,GMT/+0000,Birmingham City,0-0,0-0,Fulham FC,2002-11-17T15:00Z
+14,Sun Nov 17 2002,15:00,GMT/+0000,Blackburn Rovers,0-1,0-1,Everton FC,2002-11-17T15:00Z
+15,Sat Nov 23 2002,15:00,GMT/+0000,Southampton FC,3-2,1-1,Arsenal FC,2002-11-23T15:00Z
+15,Sat Nov 23 2002,12:15,GMT/+0000,Manchester United,5-3,3-1,Newcastle United,2002-11-23T12:15Z
+15,Sat Nov 23 2002,15:00,GMT/+0000,Middlesbrough FC,3-1,0-0,Manchester City,2002-11-23T15:00Z
+15,Sat Nov 23 2002,15:00,GMT/+0000,Bolton Wanderers,1-1,0-0,Chelsea FC,2002-11-23T15:00Z
+15,Sat Nov 23 2002,15:00,GMT/+0000,Sunderland AFC,0-1,0-0,Birmingham City,2002-11-23T15:00Z
+15,Sat Nov 23 2002,15:00,GMT/+0000,Everton FC,1-0,1-0,West Bromwich Albion,2002-11-23T15:00Z
+15,Sat Nov 23 2002,15:00,GMT/+0000,Fulham FC,3-2,2-0,Liverpool FC,2002-11-23T15:00Z
+15,Sat Nov 23 2002,15:00,GMT/+0000,Aston Villa,4-1,1-0,West Ham United,2002-11-23T15:00Z
+15,Sun Nov 24 2002,14:00,GMT/+0000,Tottenham Hotspur,2-0,2-0,Leeds United,2002-11-24T14:00Z
+15,Sun Nov 24 2002,16:05,GMT/+0000,Charlton Athletic,3-1,0-0,Blackburn Rovers,2002-11-24T16:05Z
+16,Sat Nov 30 2002,15:00,GMT/+0000,Arsenal FC,3-1,1-0,Aston Villa,2002-11-30T15:00Z
+16,Sat Nov 30 2002,15:00,GMT/+0000,Manchester City,2-0,1-0,Bolton Wanderers,2002-11-30T15:00Z
+16,Sat Nov 30 2002,15:00,GMT/+0000,West Bromwich Albion,1-0,0-0,Middlesbrough FC,2002-11-30T15:00Z
+16,Sat Nov 30 2002,15:00,GMT/+0000,Chelsea FC,3-0,0-0,Sunderland AFC,2002-11-30T15:00Z
+16,Sat Nov 30 2002,15:00,GMT/+0000,Birmingham City,1-1,0-0,Tottenham Hotspur,2002-11-30T15:00Z
+16,Sat Nov 30 2002,15:00,GMT/+0000,Blackburn Rovers,2-1,1-0,Fulham FC,2002-11-30T15:00Z
+16,Sun Dec 1 2002,15:00,GMT/+0000,Leeds United,1-2,1-0,Charlton Athletic,2002-12-01T15:00Z
+16,Sun Dec 1 2002,12:15,GMT/+0000,Liverpool FC,1-2,0-0,Manchester United,2002-12-01T12:15Z
+16,Sun Dec 1 2002,14:15,GMT/+0000,Newcastle United,2-1,0-1,Everton FC,2002-12-01T14:15Z
+16,Mon Dec 2 2002,20:00,GMT/+0000,West Ham United,0-1,0-0,Southampton FC,2002-12-02T20:00Z
+17,Sat Dec 7 2002,15:00,GMT/+0000,Charlton Athletic,2-0,1-0,Liverpool FC,2002-12-07T15:00Z
+17,Sat Dec 7 2002,12:15,GMT/+0000,Manchester United,2-0,1-0,Arsenal FC,2002-12-07T12:15Z
+17,Sat Dec 7 2002,15:00,GMT/+0000,Middlesbrough FC,2-2,0-0,West Ham United,2002-12-07T15:00Z
+17,Sat Dec 7 2002,15:00,GMT/+0000,Southampton FC,2-0,0-0,Birmingham City,2002-12-07T15:00Z
+17,Sat Dec 7 2002,15:00,GMT/+0000,Everton FC,1-3,1-2,Chelsea FC,2002-12-07T15:00Z
+17,Sat Dec 7 2002,15:00,GMT/+0000,Fulham FC,1-0,1-0,Leeds United,2002-12-07T15:00Z
+17,Sat Dec 7 2002,15:00,GMT/+0000,Aston Villa,0-1,0-0,Newcastle United,2002-12-07T15:00Z
+17,Sat Dec 7 2002,15:00,GMT/+0000,Bolton Wanderers,1-1,1-0,Blackburn Rovers,2002-12-07T15:00Z
+17,Sun Dec 8 2002,16:05,GMT/+0000,Tottenham Hotspur,3-1,2-0,West Bromwich Albion,2002-12-08T16:05Z
+17,Mon Dec 9 2002,20:00,GMT/+0000,Sunderland AFC,0-3,0-1,Manchester City,2002-12-09T20:00Z
+18,Sat Dec 14 2002,15:00,GMT/+0000,Everton FC,2-1,2-1,Blackburn Rovers,2002-12-14T15:00Z
+18,Sat Dec 14 2002,12:15,GMT/+0000,Manchester United,3-0,2-0,West Ham United,2002-12-14T12:15Z
+18,Sat Dec 14 2002,15:00,GMT/+0000,Middlesbrough FC,1-1,1-1,Chelsea FC,2002-12-14T15:00Z
+18,Sat Dec 14 2002,15:00,GMT/+0000,Southampton FC,1-1,0-0,Newcastle United,2002-12-14T15:00Z
+18,Sat Dec 14 2002,15:00,GMT/+0000,Aston Villa,2-1,1-1,West Bromwich Albion,2002-12-14T15:00Z
+18,Sat Dec 14 2002,15:00,GMT/+0000,Charlton Athletic,2-2,0-0,Manchester City,2002-12-14T15:00Z
+18,Sun Dec 15 2002,16:05,GMT/+0000,Sunderland AFC,2-1,1-0,Liverpool FC,2002-12-15T16:05Z
+18,Sun Dec 15 2002,14:00,GMT/+0000,Tottenham Hotspur,1-1,1-1,Arsenal FC,2002-12-15T14:00Z
+18,Sun Dec 15 2002,14:00,GMT/+0000,Fulham FC,0-1,0-1,Birmingham City,2002-12-15T14:00Z
+18,Mon Dec 16 2002,20:00,GMT/+0000,Bolton Wanderers,0-3,0-2,Leeds United,2002-12-16T20:00Z
+19,Sat Dec 21 2002,15:00,GMT/+0000,West Bromwich Albion,2-2,2-0,Sunderland AFC,2002-12-21T15:00Z
+19,Sat Dec 21 2002,15:00,GMT/+0000,West Ham United,1-1,1-0,Bolton Wanderers,2002-12-21T15:00Z
+19,Sat Dec 21 2002,15:00,GMT/+0000,Newcastle United,2-0,1-0,Fulham FC,2002-12-21T15:00Z
+19,Sat Dec 21 2002,15:00,GMT/+0000,Chelsea FC,2-0,1-0,Aston Villa,2002-12-21T15:00Z
+19,Sat Dec 21 2002,15:00,GMT/+0000,Leeds United,1-1,0-0,Southampton FC,2002-12-21T15:00Z
+19,Sat Dec 21 2002,15:00,GMT/+0000,Arsenal FC,2-0,1-0,Middlesbrough FC,2002-12-21T15:00Z
+19,Sat Dec 21 2002,15:00,GMT/+0000,Birmingham City,1-1,0-1,Charlton Athletic,2002-12-21T15:00Z
+19,Sun Dec 22 2002,16:05,GMT/+0000,Liverpool FC,0-0,0-0,Everton FC,2002-12-22T16:05Z
+19,Sun Dec 22 2002,14:00,GMT/+0000,Blackburn Rovers,1-0,1-0,Manchester United,2002-12-22T14:00Z
+19,Mon Dec 23 2002,20:00,GMT/+0000,Manchester City,2-3,1-1,Tottenham Hotspur,2002-12-23T20:00Z
+20,Thu Dec 26 2002,16:00,GMT/+0000,Middlesbrough FC,3-1,1-0,Manchester United,2002-12-26T16:00Z
+20,Thu Dec 26 2002,12:00,GMT/+0000,West Ham United,1-1,0-0,Fulham FC,2002-12-26T12:00Z
+20,Thu Dec 26 2002,12:00,GMT/+0000,Tottenham Hotspur,2-2,0-1,Charlton Athletic,2002-12-26T12:00Z
+20,Thu Dec 26 2002,12:00,GMT/+0000,Chelsea FC,0-0,0-0,Southampton FC,2002-12-26T12:00Z
+20,Thu Dec 26 2002,13:00,GMT/+0000,Bolton Wanderers,4-3,3-1,Newcastle United,2002-12-26T13:00Z
+20,Thu Dec 26 2002,14:00,GMT/+0000,West Bromwich Albion,1-2,1-0,Arsenal FC,2002-12-26T14:00Z
+20,Thu Dec 26 2002,15:00,GMT/+0000,Sunderland AFC,1-2,1-0,Leeds United,2002-12-26T15:00Z
+20,Thu Dec 26 2002,15:00,GMT/+0000,Liverpool FC,1-1,1-0,Blackburn Rovers,2002-12-26T15:00Z
+20,Thu Dec 26 2002,15:00,GMT/+0000,Manchester City,3-1,1-1,Aston Villa,2002-12-26T15:00Z
+20,Thu Dec 26 2002,15:00,GMT/+0000,Birmingham City,1-1,1-1,Everton FC,2002-12-26T15:00Z
+21,Sat Dec 28 2002,15:00,GMT/+0000,Everton FC,0-0,0-0,Bolton Wanderers,2002-12-28T15:00Z
+21,Sat Dec 28 2002,15:00,GMT/+0000,Southampton FC,2-1,0-0,Sunderland AFC,2002-12-28T15:00Z
+21,Sat Dec 28 2002,15:00,GMT/+0000,Leeds United,2-0,2-0,Chelsea FC,2002-12-28T15:00Z
+21,Sat Dec 28 2002,15:00,GMT/+0000,Manchester United,2-0,1-0,Birmingham City,2002-12-28T15:00Z
+21,Sat Dec 28 2002,15:00,GMT/+0000,Charlton Athletic,1-0,1-0,West Bromwich Albion,2002-12-28T15:00Z
+21,Sat Dec 28 2002,15:00,GMT/+0000,Aston Villa,1-0,1-0,Middlesbrough FC,2002-12-28T15:00Z
+21,Sat Dec 28 2002,15:00,GMT/+0000,Fulham FC,0-1,0-0,Manchester City,2002-12-28T15:00Z
+21,Sat Dec 28 2002,15:00,GMT/+0000,Blackburn Rovers,2-2,1-1,West Ham United,2002-12-28T15:00Z
+21,Sun Dec 29 2002,14:00,GMT/+0000,Newcastle United,2-1,1-0,Tottenham Hotspur,2002-12-29T14:00Z
+21,Sun Dec 29 2002,16:05,GMT/+0000,Arsenal FC,1-1,0-0,Liverpool FC,2002-12-29T16:05Z
+22,Wed Jan 1 2003,19:45,GMT/+0000,Newcastle United,1-0,1-0,Liverpool FC,2003-01-01T19:45Z
+22,Wed Jan 1 2003,14:00,GMT/+0000,Manchester United,2-1,0-1,Sunderland AFC,2003-01-01T14:00Z
+22,Wed Jan 1 2003,15:00,GMT/+0000,Southampton FC,1-0,0-0,Tottenham Hotspur,2003-01-01T15:00Z
+22,Wed Jan 1 2003,15:00,GMT/+0000,Leeds United,2-0,1-0,Birmingham City,2003-01-01T15:00Z
+22,Wed Jan 1 2003,15:00,GMT/+0000,Everton FC,2-2,1-1,Manchester City,2003-01-01T15:00Z
+22,Wed Jan 1 2003,15:00,GMT/+0000,Arsenal FC,3-2,1-0,Chelsea FC,2003-01-01T15:00Z
+22,Wed Jan 1 2003,15:00,GMT/+0000,Aston Villa,2-0,1-0,Bolton Wanderers,2003-01-01T15:00Z
+22,Wed Jan 1 2003,15:00,GMT/+0000,Blackburn Rovers,1-0,0-0,Middlesbrough FC,2003-01-01T15:00Z
+23,Sat Jan 11 2003,15:00,GMT/+0000,Sunderland AFC,0-0,0-0,Blackburn Rovers,2003-01-11T15:00Z
+23,Sat Jan 11 2003,15:00,GMT/+0000,Chelsea FC,4-1,3-1,Charlton Athletic,2003-01-11T15:00Z
+23,Sat Jan 11 2003,15:00,GMT/+0000,Bolton Wanderers,0-0,0-0,Fulham FC,2003-01-11T15:00Z
+23,Sat Jan 11 2003,15:00,GMT/+0000,West Ham United,2-2,2-1,Newcastle United,2003-01-11T15:00Z
+23,Sat Jan 11 2003,15:00,GMT/+0000,Middlesbrough FC,2-2,0-1,Southampton FC,2003-01-11T15:00Z
+23,Sat Jan 11 2003,15:00,GMT/+0000,West Bromwich Albion,1-3,1-2,Manchester United,2003-01-11T15:00Z
+23,Sat Jan 11 2003,15:00,GMT/+0000,Liverpool FC,1-1,1-0,Aston Villa,2003-01-11T15:00Z
+23,Sat Jan 11 2003,15:00,GMT/+0000,Manchester City,2-1,1-0,Leeds United,2003-01-11T15:00Z
+23,Sun Jan 12 2003,14:00,GMT/+0000,Tottenham Hotspur,4-3,1-1,Everton FC,2003-01-12T14:00Z
+23,Sun Jan 12 2003,16:05,GMT/+0000,Birmingham City,0-4,0-2,Arsenal FC,2003-01-12T16:05Z
+24,Sat Jan 18 2003,17:35,GMT/+0000,Southampton FC,0-1,0-1,Liverpool FC,2003-01-18T17:35Z
+24,Sat Jan 18 2003,15:00,GMT/+0000,Everton FC,2-1,0-1,Sunderland AFC,2003-01-18T15:00Z
+24,Sat Jan 18 2003,15:00,GMT/+0000,Blackburn Rovers,1-1,1-0,Birmingham City,2003-01-18T15:00Z
+24,Sat Jan 18 2003,12:30,GMT/+0000,Manchester United,2-1,1-1,Chelsea FC,2003-01-18T12:30Z
+24,Sat Jan 18 2003,15:00,GMT/+0000,Leeds United,0-0,0-0,West Bromwich Albion,2003-01-18T15:00Z
+24,Sat Jan 18 2003,15:00,GMT/+0000,Newcastle United,2-0,1-0,Manchester City,2003-01-18T15:00Z
+24,Sat Jan 18 2003,15:00,GMT/+0000,Charlton Athletic,1-1,0-0,Bolton Wanderers,2003-01-18T15:00Z
+24,Sat Jan 18 2003,15:00,GMT/+0000,Aston Villa,0-1,0-0,Tottenham Hotspur,2003-01-18T15:00Z
+24,Sun Jan 19 2003,16:05,GMT/+0000,Fulham FC,1-0,1-0,Middlesbrough FC,2003-01-19T16:05Z
+24,Sun Jan 19 2003,14:00,GMT/+0000,Arsenal FC,3-1,1-1,West Ham United,2003-01-19T14:00Z
+22,Wed Jan 22 2003,19:45,GMT/+0000,Charlton Athletic,4-2,2-1,West Ham United,2003-01-22T19:45Z
+3,Wed Jan 22 2003,19:45,GMT/+0000,Newcastle United,1-0,1-0,Bolton Wanderers,2003-01-22T19:45Z
+25,Tue Jan 28 2003,19:45,GMT/+0000,Middlesbrough FC,2-5,2-2,Aston Villa,2003-01-28T19:45Z
+25,Tue Jan 28 2003,20:00,GMT/+0000,Sunderland AFC,0-1,0-0,Southampton FC,2003-01-28T20:00Z
+25,Tue Jan 28 2003,20:00,GMT/+0000,Bolton Wanderers,1-2,0-2,Everton FC,2003-01-28T20:00Z
+25,Tue Jan 28 2003,20:00,GMT/+0000,Chelsea FC,3-2,0-1,Leeds United,2003-01-28T20:00Z
+25,Wed Jan 29 2003,20:00,GMT/+0000,Liverpool FC,2-2,0-1,Arsenal FC,2003-01-29T20:00Z
+25,Wed Jan 29 2003,19:45,GMT/+0000,West Bromwich Albion,0-1,0-0,Charlton Athletic,2003-01-29T19:45Z
+25,Wed Jan 29 2003,19:45,GMT/+0000,West Ham United,2-1,0-1,Blackburn Rovers,2003-01-29T19:45Z
+25,Wed Jan 29 2003,19:45,GMT/+0000,Manchester City,4-1,1-1,Fulham FC,2003-01-29T19:45Z
+25,Wed Jan 29 2003,19:45,GMT/+0000,Tottenham Hotspur,0-1,0-0,Newcastle United,2003-01-29T19:45Z
+26,Sat Feb 1 2003,15:00,GMT/+0000,Bolton Wanderers,4-2,1-1,Birmingham City,2003-02-01T15:00Z
+26,Sat Feb 1 2003,15:00,GMT/+0000,Southampton FC,0-2,0-2,Manchester United,2003-02-01T15:00Z
+26,Sat Feb 1 2003,15:00,GMT/+0000,Sunderland AFC,1-3,0-3,Charlton Athletic,2003-02-01T15:00Z
+26,Sat Feb 1 2003,15:00,GMT/+0000,Chelsea FC,1-1,1-1,Tottenham Hotspur,2003-02-01T15:00Z
+26,Sat Feb 1 2003,15:00,GMT/+0000,Arsenal FC,2-1,1-1,Fulham FC,2003-02-01T15:00Z
+26,Sat Feb 1 2003,15:00,GMT/+0000,Manchester City,1-2,1-1,West Bromwich Albion,2003-02-01T15:00Z
+26,Sat Feb 1 2003,15:00,GMT/+0000,Everton FC,2-0,0-0,Leeds United,2003-02-01T15:00Z
+26,Sun Feb 2 2003,16:05,GMT/+0000,Aston Villa,3-0,2-0,Blackburn Rovers,2003-02-02T16:05Z
+26,Sun Feb 2 2003,14:00,GMT/+0000,West Ham United,0-3,0-2,Liverpool FC,2003-02-02T14:00Z
+25,Tue Feb 4 2003,19:45,GMT/+0000,Birmingham City,0-1,0-0,Manchester United,2003-02-04T19:45Z
+27,Sat Feb 8 2003,15:00,GMT/+0000,Charlton Athletic,2-1,1-0,Everton FC,2003-02-08T15:00Z
+27,Sat Feb 8 2003,15:00,GMT/+0000,Blackburn Rovers,1-0,1-0,Southampton FC,2003-02-08T15:00Z
+27,Sat Feb 8 2003,12:30,GMT/+0000,Liverpool FC,1-1,0-1,Middlesbrough FC,2003-02-08T12:30Z
+27,Sat Feb 8 2003,15:00,GMT/+0000,West Bromwich Albion,1-1,0-1,Bolton Wanderers,2003-02-08T15:00Z
+27,Sat Feb 8 2003,15:00,GMT/+0000,Tottenham Hotspur,4-1,2-1,Sunderland AFC,2003-02-08T15:00Z
+27,Sat Feb 8 2003,15:00,GMT/+0000,Fulham FC,2-1,2-1,Aston Villa,2003-02-08T15:00Z
+27,Sat Feb 8 2003,15:00,GMT/+0000,Leeds United,1-0,1-0,West Ham United,2003-02-08T15:00Z
+27,Sat Feb 8 2003,15:00,GMT/+0000,Birmingham City,1-3,0-1,Chelsea FC,2003-02-08T15:00Z
+27,Sun Feb 9 2003,12:30,GMT/+0000,Manchester United,1-1,1-0,Manchester City,2003-02-09T12:30Z
+27,Sun Feb 9 2003,16:05,GMT/+0000,Newcastle United,1-1,0-1,Arsenal FC,2003-02-09T16:05Z
+22,Wed Feb 19 2003,19:45,GMT/+0000,Fulham FC,3-0,0-0,West Bromwich Albion,2003-02-19T19:45Z
+28,Sat Feb 22 2003,12:00,GMT/+0000,Bolton Wanderers,1-1,0-0,Manchester United,2003-02-22T12:00Z
+28,Sat Feb 22 2003,12:30,GMT/+0000,Everton FC,2-1,0-1,Southampton FC,2003-02-22T12:30Z
+28,Sat Feb 22 2003,15:00,GMT/+0000,Manchester City,1-5,0-4,Arsenal FC,2003-02-22T15:00Z
+28,Sat Feb 22 2003,15:00,GMT/+0000,Charlton Athletic,3-0,0-0,Aston Villa,2003-02-22T15:00Z
+28,Sat Feb 22 2003,15:00,GMT/+0000,Chelsea FC,1-2,0-0,Blackburn Rovers,2003-02-22T15:00Z
+28,Sat Feb 22 2003,15:00,GMT/+0000,Leeds United,0-3,0-1,Newcastle United,2003-02-22T15:00Z
+28,Sat Feb 22 2003,15:00,GMT/+0000,Sunderland AFC,1-3,0-2,Middlesbrough FC,2003-02-22T15:00Z
+28,Sun Feb 23 2003,16:05,GMT/+0000,Birmingham City,2-1,1-0,Liverpool FC,2003-02-23T16:05Z
+28,Sun Feb 23 2003,14:00,GMT/+0000,West Bromwich Albion,1-2,0-1,West Ham United,2003-02-23T14:00Z
+28,Mon Feb 24 2003,20:00,GMT/+0000,Tottenham Hotspur,1-1,1-1,Fulham FC,2003-02-24T20:00Z
+29,Sat Mar 1 2003,12:30,GMT/+0000,Newcastle United,2-1,1-1,Chelsea FC,2003-03-01T12:30Z
+29,Sat Mar 1 2003,15:00,GMT/+0000,West Ham United,2-0,1-0,Tottenham Hotspur,2003-03-01T15:00Z
+29,Sat Mar 1 2003,15:00,GMT/+0000,Middlesbrough FC,1-1,0-1,Everton FC,2003-03-01T15:00Z
+29,Sat Mar 1 2003,15:00,GMT/+0000,Blackburn Rovers,1-0,1-0,Manchester City,2003-03-01T15:00Z
+29,Sat Mar 1 2003,15:00,GMT/+0000,Fulham FC,1-0,0-0,Sunderland AFC,2003-03-01T15:00Z
+29,Sat Mar 1 2003,15:00,GMT/+0000,Southampton FC,1-0,1-0,West Bromwich Albion,2003-03-01T15:00Z
+29,Sun Mar 2 2003,12:00,GMT/+0000,Arsenal FC,2-0,2-0,Charlton Athletic,2003-03-02T12:00Z
+29,Mon Mar 3 2003,20:00,GMT/+0000,Aston Villa,0-2,0-0,Birmingham City,2003-03-03T20:00Z
+26,Wed Mar 5 2003,19:45,GMT/+0000,Middlesbrough FC,1-0,0-0,Newcastle United,2003-03-05T19:45Z
+29,Wed Mar 5 2003,20:00,GMT/+0000,Manchester United,2-1,1-0,Leeds United,2003-03-05T20:00Z
+29,Sat Mar 8 2003,15:00,GMT/+0000,Liverpool FC,2-0,1-0,Bolton Wanderers,2003-03-08T15:00Z
+30,Sat Mar 15 2003,12:30,GMT/+0000,Aston Villa,0-1,0-1,Manchester United,2003-03-15T12:30Z
+30,Sat Mar 15 2003,15:00,GMT/+0000,Sunderland AFC,0-2,0-0,Bolton Wanderers,2003-03-15T15:00Z
+30,Sat Mar 15 2003,15:00,GMT/+0000,Everton FC,0-0,0-0,West Ham United,2003-03-15T15:00Z
+30,Sat Mar 15 2003,15:00,GMT/+0000,Fulham FC,2-2,1-0,Southampton FC,2003-03-15T15:00Z
+30,Sat Mar 15 2003,15:00,GMT/+0000,Leeds United,2-3,1-2,Middlesbrough FC,2003-03-15T15:00Z
+30,Sat Mar 15 2003,15:00,GMT/+0000,Blackburn Rovers,2-0,1-0,Arsenal FC,2003-03-15T15:00Z
+30,Sat Mar 15 2003,15:00,GMT/+0000,Charlton Athletic,0-2,0-1,Newcastle United,2003-03-15T15:00Z
+30,Sun Mar 16 2003,15:00,GMT/+0000,Tottenham Hotspur,2-3,0-0,Liverpool FC,2003-03-16T15:00Z
+30,Sun Mar 16 2003,16:05,GMT/+0000,West Bromwich Albion,0-2,0-1,Chelsea FC,2003-03-16T16:05Z
+30,Sun Mar 16 2003,14:00,GMT/+0000,Manchester City,1-0,0-0,Birmingham City,2003-03-16T14:00Z
+31,Sat Mar 22 2003,12:00,GMT/+0000,Birmingham City,1-0,0-0,West Bromwich Albion,2003-03-22T12:00Z
+31,Sat Mar 22 2003,12:30,GMT/+0000,Manchester United,3-0,1-0,Fulham FC,2003-03-22T12:30Z
+31,Sat Mar 22 2003,15:00,GMT/+0000,West Ham United,2-0,1-0,Sunderland AFC,2003-03-22T15:00Z
+31,Sat Mar 22 2003,15:00,GMT/+0000,Middlesbrough FC,1-1,0-1,Charlton Athletic,2003-03-22T15:00Z
+31,Sat Mar 22 2003,15:00,GMT/+0000,Newcastle United,5-1,1-0,Blackburn Rovers,2003-03-22T15:00Z
+31,Sat Mar 22 2003,15:00,GMT/+0000,Southampton FC,2-2,1-2,Aston Villa,2003-03-22T15:00Z
+31,Sat Mar 22 2003,15:00,GMT/+0000,Chelsea FC,5-0,2-0,Manchester City,2003-03-22T15:00Z
+31,Sun Mar 23 2003,16:05,GMT/+0000,Arsenal FC,2-1,1-0,Everton FC,2003-03-23T16:05Z
+31,Sun Mar 23 2003,14:00,GMT/+0000,Liverpool FC,3-1,2-1,Leeds United,2003-03-23T14:00Z
+31,Mon Mar 24 2003,20:00,GMT/+0000,Bolton Wanderers,1-0,0-0,Tottenham Hotspur,2003-03-24T20:00Z
+32,Sat Apr 5 2003,12:00,BST/+0100,Bolton Wanderers,2-0,1-0,Manchester City,2003-04-05T11:00Z
+32,Sat Apr 5 2003,12:30,BST/+0100,Manchester United,4-0,1-0,Liverpool FC,2003-04-05T11:30Z
+32,Sat Apr 5 2003,15:00,BST/+0100,Tottenham Hotspur,2-1,1-0,Birmingham City,2003-04-05T14:00Z
+32,Sat Apr 5 2003,15:00,BST/+0100,Middlesbrough FC,3-0,1-0,West Bromwich Albion,2003-04-05T14:00Z
+32,Sat Apr 5 2003,15:00,BST/+0100,Southampton FC,1-1,1-0,West Ham United,2003-04-05T14:00Z
+32,Sat Apr 5 2003,15:00,BST/+0100,Sunderland AFC,1-2,1-0,Chelsea FC,2003-04-05T14:00Z
+32,Sat Apr 5 2003,15:00,BST/+0100,Aston Villa,1-1,0-0,Arsenal FC,2003-04-05T14:00Z
+32,Sat Apr 5 2003,15:00,BST/+0100,Charlton Athletic,1-6,1-3,Leeds United,2003-04-05T14:00Z
+32,Sun Apr 6 2003,16:00,BST/+0100,Everton FC,2-1,1-1,Newcastle United,2003-04-06T15:00Z
+32,Mon Apr 7 2003,20:00,BST/+0100,Fulham FC,0-4,0-2,Blackburn Rovers,2003-04-07T19:00Z
+33,Sat Apr 12 2003,12:30,BST/+0100,Newcastle United,2-6,1-4,Manchester United,2003-04-12T11:30Z
+33,Sat Apr 12 2003,15:00,BST/+0100,West Ham United,2-2,1-1,Aston Villa,2003-04-12T14:00Z
+33,Sat Apr 12 2003,15:00,BST/+0100,Manchester City,0-0,0-0,Middlesbrough FC,2003-04-12T14:00Z
+33,Sat Apr 12 2003,15:00,BST/+0100,West Bromwich Albion,1-2,1-2,Everton FC,2003-04-12T14:00Z
+33,Sat Apr 12 2003,15:00,BST/+0100,Chelsea FC,1-0,0-0,Bolton Wanderers,2003-04-12T14:00Z
+33,Sat Apr 12 2003,15:00,BST/+0100,Leeds United,2-2,1-2,Tottenham Hotspur,2003-04-12T14:00Z
+33,Sat Apr 12 2003,15:00,BST/+0100,Liverpool FC,2-0,1-0,Fulham FC,2003-04-12T14:00Z
+33,Sat Apr 12 2003,15:00,BST/+0100,Birmingham City,2-0,1-0,Sunderland AFC,2003-04-12T14:00Z
+33,Sat Apr 12 2003,15:00,BST/+0100,Blackburn Rovers,1-0,1-0,Charlton Athletic,2003-04-12T14:00Z
+35,Wed Apr 16 2003,20:00,BST/+0100,Arsenal FC,2-2,0-1,Manchester United,2003-04-16T19:00Z
+34,Fri Apr 18 2003,15:00,BST/+0100,Tottenham Hotspur,0-2,0-2,Manchester City,2003-04-18T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Middlesbrough FC,0-2,0-0,Arsenal FC,2003-04-19T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Southampton FC,3-2,2-0,Leeds United,2003-04-19T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Sunderland AFC,1-2,0-2,West Bromwich Albion,2003-04-19T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Everton FC,1-2,0-1,Liverpool FC,2003-04-19T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Fulham FC,2-1,0-1,Newcastle United,2003-04-19T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Manchester United,3-1,2-1,Blackburn Rovers,2003-04-19T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Aston Villa,2-1,1-0,Chelsea FC,2003-04-19T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Bolton Wanderers,1-0,1-0,West Ham United,2003-04-19T14:00Z
+34,Sat Apr 19 2003,15:00,BST/+0100,Charlton Athletic,0-2,0-1,Birmingham City,2003-04-19T14:00Z
+35,Mon Apr 21 2003,15:00,BST/+0100,Chelsea FC,4-1,1-0,Everton FC,2003-04-21T14:00Z
+35,Mon Apr 21 2003,15:00,BST/+0100,West Ham United,1-0,0-0,Middlesbrough FC,2003-04-21T14:00Z
+35,Mon Apr 21 2003,15:00,BST/+0100,Manchester City,3-0,2-0,Sunderland AFC,2003-04-21T14:00Z
+35,Mon Apr 21 2003,15:00,BST/+0100,Newcastle United,1-1,1-0,Aston Villa,2003-04-21T14:00Z
+35,Mon Apr 21 2003,15:00,BST/+0100,West Bromwich Albion,2-3,1-1,Tottenham Hotspur,2003-04-21T14:00Z
+35,Mon Apr 21 2003,15:00,BST/+0100,Birmingham City,3-2,0-1,Southampton FC,2003-04-21T14:00Z
+35,Mon Apr 21 2003,15:00,BST/+0100,Liverpool FC,2-1,0-0,Charlton Athletic,2003-04-21T14:00Z
+35,Mon Apr 21 2003,15:00,BST/+0100,Blackburn Rovers,0-0,0-0,Bolton Wanderers,2003-04-21T14:00Z
+35,Tue Apr 22 2003,19:45,BST/+0100,Leeds United,2-0,1-0,Fulham FC,2003-04-22T18:45Z
+36,Sat Apr 26 2003,15:00,BST/+0100,Leeds United,2-3,1-1,Blackburn Rovers,2003-04-26T14:00Z
+36,Sat Apr 26 2003,12:30,BST/+0100,Bolton Wanderers,2-2,0-0,Arsenal FC,2003-04-26T11:30Z
+36,Sat Apr 26 2003,15:00,BST/+0100,West Bromwich Albion,0-6,0-1,Liverpool FC,2003-04-26T14:00Z
+36,Sat Apr 26 2003,15:00,BST/+0100,Sunderland AFC,0-1,0-1,Newcastle United,2003-04-26T14:00Z
+36,Sat Apr 26 2003,15:00,BST/+0100,Chelsea FC,1-1,1-0,Fulham FC,2003-04-26T14:00Z
+36,Sat Apr 26 2003,15:00,BST/+0100,Everton FC,2-1,0-0,Aston Villa,2003-04-26T14:00Z
+36,Sat Apr 26 2003,15:00,BST/+0100,Charlton Athletic,2-1,1-0,Southampton FC,2003-04-26T14:00Z
+36,Sat Apr 26 2003,15:00,BST/+0100,Birmingham City,3-0,2-0,Middlesbrough FC,2003-04-26T14:00Z
+36,Sun Apr 27 2003,14:00,BST/+0100,Manchester City,0-1,0-0,West Ham United,2003-04-27T13:00Z
+36,Sun Apr 27 2003,16:05,BST/+0100,Tottenham Hotspur,0-2,0-0,Manchester United,2003-04-27T15:05Z
+37,Sat May 3 2003,12:30,BST/+0100,Manchester United,4-1,3-1,Charlton Athletic,2003-05-03T11:30Z
+37,Sat May 3 2003,17:35,BST/+0100,Southampton FC,0-0,0-0,Bolton Wanderers,2003-05-03T16:35Z
+37,Sat May 3 2003,15:00,BST/+0100,West Ham United,1-0,0-0,Chelsea FC,2003-05-03T14:00Z
+37,Sat May 3 2003,15:00,BST/+0100,Middlesbrough FC,5-1,3-0,Tottenham Hotspur,2003-05-03T14:00Z
+37,Sat May 3 2003,15:00,BST/+0100,Newcastle United,1-0,1-0,Birmingham City,2003-05-03T14:00Z
+37,Sat May 3 2003,15:00,BST/+0100,Fulham FC,2-0,2-0,Everton FC,2003-05-03T14:00Z
+37,Sat May 3 2003,15:00,BST/+0100,Liverpool FC,1-2,0-0,Manchester City,2003-05-03T14:00Z
+37,Sat May 3 2003,15:00,BST/+0100,Aston Villa,1-0,0-0,Sunderland AFC,2003-05-03T14:00Z
+37,Sat May 3 2003,15:00,BST/+0100,Blackburn Rovers,1-1,1-0,West Bromwich Albion,2003-05-03T14:00Z
+37,Sun May 4 2003,16:05,BST/+0100,Arsenal FC,2-3,1-1,Leeds United,2003-05-04T15:05Z
+33,Wed May 7 2003,19:45,BST/+0100,Arsenal FC,6-1,5-1,Southampton FC,2003-05-07T18:45Z
+38,Sun May 11 2003,15:00,BST/+0100,West Bromwich Albion,2-2,0-1,Newcastle United,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Manchester City,0-1,0-1,Southampton FC,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Sunderland AFC,0-4,0-2,Arsenal FC,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Tottenham Hotspur,0-4,0-2,Blackburn Rovers,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Chelsea FC,2-1,2-1,Liverpool FC,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Everton FC,1-2,1-1,Manchester United,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Leeds United,3-1,1-1,Aston Villa,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Birmingham City,2-2,0-0,West Ham United,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Bolton Wanderers,2-1,2-0,Middlesbrough FC,2003-05-11T14:00Z
+38,Sun May 11 2003,15:00,BST/+0100,Charlton Athletic,0-1,0-1,Fulham FC,2003-05-11T14:00Z

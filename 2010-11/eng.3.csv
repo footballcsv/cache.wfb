@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 7 2010,12:15,BST/+0100,Southampton FC,0-1,0-0,Plymouth Argyle,2010-08-07T11:15Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Carlisle United,2-0,2-0,Brentford FC,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Charlton Athletic,1-0,1-0,AFC Bournemouth,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Exeter City,2-2,1-2,Colchester United,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Notts County,0-3,0-2,Huddersfield Town,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Peterborough United,3-0,0-0,Bristol Rovers,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Rochdale AFC,0-0,0-0,Hartlepool United,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Sheffield Wednesday,2-0,2-0,Dagenham & Redbridge,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Swindon Town,1-2,0-1,Brighton & Hove Albion,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Tranmere Rovers,1-2,0-1,Oldham Athletic,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Walsall FC,1-2,0-1,Milton Keynes Dons,2010-08-07T14:00Z
+1,Sat Aug 7 2010,15:00,BST/+0100,Yeovil Town,2-1,2-1,Leyton Orient,2010-08-07T14:00Z
+2,Fri Aug 13 2010,19:45,BST/+0100,Leyton Orient,1-3,0-1,Charlton Athletic,2010-08-13T18:45Z
+2,Sat Aug 14 2010,15:00,BST/+0100,AFC Bournemouth,5-1,2-0,Peterborough United,2010-08-14T14:00Z
+2,Sat Aug 14 2010,15:00,BST/+0100,Colchester United,1-1,0-0,Sheffield Wednesday,2010-08-14T14:00Z
+2,Sat Aug 14 2010,15:00,BST/+0100,Brentford FC,1-2,1-1,Walsall FC,2010-08-14T14:00Z
+2,Sat Aug 14 2010,15:00,BST/+0100,Bristol Rovers,2-1,1-0,Yeovil Town,2010-08-14T14:00Z
+2,Sat Aug 14 2010,15:00,BST/+0100,Hartlepool United,2-2,2-0,Swindon Town,2010-08-14T14:00Z
+2,Sat Aug 14 2010,15:00,BST/+0100,Brighton & Hove Albion,2-2,0-0,Rochdale AFC,2010-08-14T14:00Z
+2,Sat Aug 14 2010,15:00,BST/+0100,Oldham Athletic,3-0,1-0,Notts County,2010-08-14T14:00Z
+2,Sat Aug 14 2010,15:00,BST/+0100,Plymouth Argyle,1-1,0-0,Carlisle United,2010-08-14T14:00Z
+2,Sat Aug 14 2010,15:00,BST/+0100,Huddersfield Town,0-0,0-0,Tranmere Rovers,2010-08-14T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Tranmere Rovers,0-3,0-2,AFC Bournemouth,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Sheffield Wednesday,1-0,1-0,Brighton & Hove Albion,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Notts County,1-0,0-0,Dagenham & Redbridge,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Exeter City,2-2,1-1,Bristol Rovers,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Rochdale AFC,1-2,0-1,Colchester United,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Peterborough United,4-2,1-2,Huddersfield Town,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Swindon Town,1-1,1-1,Brentford FC,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Walsall FC,2-1,0-1,Plymouth Argyle,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Charlton Athletic,1-1,1-1,Oldham Athletic,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Carlisle United,4-1,2-0,Milton Keynes Dons,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Yeovil Town,0-2,0-1,Hartlepool United,2010-08-21T14:00Z
+3,Sat Aug 21 2010,15:00,BST/+0100,Southampton FC,1-1,1-1,Leyton Orient,2010-08-21T14:00Z
+4,Fri Aug 27 2010,19:45,BST/+0100,Colchester United,1-1,1-0,Carlisle United,2010-08-27T18:45Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Milton Keynes Dons,2-1,0-1,Swindon Town,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Brentford FC,1-3,1-1,Rochdale AFC,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,AFC Bournemouth,3-3,3-1,Notts County,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Bristol Rovers,0-4,0-2,Southampton FC,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Dagenham & Redbridge,2-2,0-0,Tranmere Rovers,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Plymouth Argyle,0-3,0-0,Peterborough United,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Hartlepool United,0-5,0-3,Sheffield Wednesday,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Oldham Athletic,0-0,0-0,Yeovil Town,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Leyton Orient,3-0,1-0,Exeter City,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Brighton & Hove Albion,2-1,0-0,Walsall FC,2010-08-28T14:00Z
+4,Sat Aug 28 2010,15:00,BST/+0100,Huddersfield Town,3-1,2-0,Charlton Athletic,2010-08-28T14:00Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Carlisle United,0-0,0-0,Swindon Town,2010-09-04T14:00Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Southampton FC,0-2,0-1,Rochdale AFC,2010-09-04T14:00Z
+5,Sat Sep 4 2010,12:15,BST/+0100,Milton Keynes Dons,1-0,0-0,Hartlepool United,2010-09-04T11:15Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Huddersfield Town,2-2,1-1,AFC Bournemouth,2010-09-04T14:00Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Notts County,4-0,3-0,Yeovil Town,2010-09-04T14:00Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Oldham Athletic,1-1,1-1,Bristol Rovers,2010-09-04T14:00Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Walsall FC,0-1,0-0,Colchester United,2010-09-04T14:00Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Dagenham & Redbridge,2-0,1-0,Leyton Orient,2010-09-04T14:00Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Tranmere Rovers,1-0,1-0,Peterborough United,2010-09-04T14:00Z
+5,Sat Sep 4 2010,15:00,BST/+0100,Exeter City,1-0,0-0,Charlton Athletic,2010-09-04T14:00Z
+5,Sun Sep 5 2010,12:00,BST/+0100,Brentford FC,1-0,1-0,Sheffield Wednesday,2010-09-05T11:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Bristol Rovers,0-0,0-0,Brentford FC,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Charlton Athletic,1-0,0-0,Notts County,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Brighton & Hove Albion,2-0,0-0,Milton Keynes Dons,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Hartlepool United,2-3,2-1,Exeter City,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Sheffield Wednesday,0-1,0-1,Carlisle United,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Swindon Town,1-0,0-0,Southampton FC,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Colchester United,1-1,1-0,Plymouth Argyle,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Peterborough United,5-2,1-2,Oldham Athletic,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Yeovil Town,3-1,3-0,Tranmere Rovers,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Leyton Orient,1-2,0-1,Huddersfield Town,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,Rochdale AFC,3-2,2-2,Walsall FC,2010-09-11T14:00Z
+6,Sat Sep 11 2010,15:00,BST/+0100,AFC Bournemouth,3-0,2-0,Dagenham & Redbridge,2010-09-11T14:00Z
+2,Wed Sep 15 2010,19:45,BST/+0100,Milton Keynes Dons,2-0,0-0,Southampton FC,2010-09-15T18:45Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Exeter City,2-2,0-1,Peterborough United,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Notts County,3-2,2-1,Leyton Orient,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Milton Keynes Dons,1-1,1-1,Rochdale AFC,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Tranmere Rovers,1-1,0-1,Charlton Athletic,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Carlisle United,0-0,0-0,Brighton & Hove Albion,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Huddersfield Town,4-2,0-2,Yeovil Town,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Southampton FC,0-0,0-0,Colchester United,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Oldham Athletic,2-1,0-1,AFC Bournemouth,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Plymouth Argyle,3-2,1-1,Sheffield Wednesday,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Dagenham & Redbridge,0-3,0-2,Bristol Rovers,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Brentford FC,0-0,0-0,Hartlepool United,2010-09-18T14:00Z
+7,Sat Sep 18 2010,15:00,BST/+0100,Walsall FC,1-2,0-1,Swindon Town,2010-09-18T14:00Z
+2,Tue Sep 21 2010,19:45,BST/+0100,Dagenham & Redbridge,1-1,0-1,Exeter City,2010-09-21T18:45Z
+5,Tue Sep 21 2010,19:45,BST/+0100,Plymouth Argyle,0-2,0-2,Brighton & Hove Albion,2010-09-21T18:45Z
+8,Fri Sep 24 2010,19:45,BST/+0100,Leyton Orient,1-0,1-0,Brentford FC,2010-09-24T18:45Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Brighton & Hove Albion,2-1,1-1,Oldham Athletic,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Colchester United,3-1,3-0,Tranmere Rovers,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Sheffield Wednesday,0-1,0-0,Southampton FC,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Bristol Rovers,2-1,1-0,Notts County,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Hartlepool United,2-1,1-1,Walsall FC,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Charlton Athletic,2-2,1-1,Dagenham & Redbridge,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,AFC Bournemouth,2-0,0-0,Carlisle United,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Swindon Town,1-0,0-0,Huddersfield Town,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Yeovil Town,1-3,0-1,Exeter City,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Rochdale AFC,1-1,0-1,Plymouth Argyle,2010-09-25T14:00Z
+8,Sat Sep 25 2010,15:00,BST/+0100,Peterborough United,2-1,1-1,Milton Keynes Dons,2010-09-25T14:00Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Rochdale AFC,3-0,1-0,Huddersfield Town,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Peterborough United,2-3,1-3,Notts County,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Colchester United,2-2,1-1,Dagenham & Redbridge,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Yeovil Town,1-1,0-0,Southampton FC,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Swindon Town,2-3,1-2,Plymouth Argyle,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,AFC Bournemouth,3-0,2-0,Exeter City,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Sheffield Wednesday,0-0,0-0,Oldham Athletic,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Leyton Orient,0-0,0-0,Walsall FC,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Charlton Athletic,1-0,0-0,Milton Keynes Dons,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Hartlepool United,0-4,0-3,Carlisle United,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Brighton & Hove Albion,1-0,0-0,Brentford FC,2010-09-28T18:45Z
+9,Tue Sep 28 2010,19:45,BST/+0100,Bristol Rovers,0-1,0-1,Tranmere Rovers,2010-09-28T18:45Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Notts County,0-2,0-0,Sheffield Wednesday,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Milton Keynes Dons,1-1,0-1,Colchester United,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Southampton FC,2-0,1-0,AFC Bournemouth,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Huddersfield Town,0-1,0-0,Bristol Rovers,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Tranmere Rovers,1-1,0-1,Brighton & Hove Albion,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Oldham Athletic,1-1,1-0,Leyton Orient,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Dagenham & Redbridge,2-1,0-1,Swindon Town,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Carlisle United,0-1,0-1,Peterborough United,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Walsall FC,0-1,0-0,Yeovil Town,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Exeter City,1-0,0-0,Rochdale AFC,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Brentford FC,2-1,2-0,Charlton Athletic,2010-10-02T14:00Z
+10,Sat Oct 2 2010,15:00,BST/+0100,Plymouth Argyle,0-1,0-0,Hartlepool United,2010-10-02T14:00Z
+11,Sat Oct 9 2010,12:15,BST/+0100,Brighton & Hove Albion,1-1,0-0,AFC Bournemouth,2010-10-09T11:15Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Sheffield Wednesday,1-0,0-0,Leyton Orient,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Southampton FC,2-0,1-0,Tranmere Rovers,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Colchester United,0-3,0-2,Huddersfield Town,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Milton Keynes Dons,2-0,0-0,Dagenham & Redbridge,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Plymouth Argyle,2-2,1-1,Charlton Athletic,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Walsall FC,2-1,2-0,Exeter City,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Rochdale AFC,0-1,0-0,Yeovil Town,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Hartlepool United,2-0,1-0,Peterborough United,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Brentford FC,1-3,1-1,Oldham Athletic,2010-10-09T14:00Z
+11,Sat Oct 9 2010,15:00,BST/+0100,Carlisle United,1-0,0-0,Notts County,2010-10-09T14:00Z
+11,Mon Oct 11 2010,19:45,BST/+0100,Swindon Town,2-1,1-0,Bristol Rovers,2010-10-11T18:45Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Dagenham & Redbridge,1-1,1-0,Walsall FC,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Notts County,2-0,1-0,Plymouth Argyle,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Exeter City,2-1,2-0,Carlisle United,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Tranmere Rovers,0-3,0-1,Brentford FC,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Charlton Athletic,0-4,0-1,Brighton & Hove Albion,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Leyton Orient,1-0,0-0,Hartlepool United,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Bristol Rovers,2-1,1-0,Rochdale AFC,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Peterborough United,5-4,3-3,Swindon Town,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Huddersfield Town,2-0,2-0,Southampton FC,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,AFC Bournemouth,3-2,0-1,Milton Keynes Dons,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Yeovil Town,0-2,0-0,Sheffield Wednesday,2010-10-16T14:00Z
+12,Sat Oct 16 2010,15:00,BST/+0100,Oldham Athletic,0-0,0-0,Colchester United,2010-10-16T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Brighton & Hove Albion,2-0,1-0,Yeovil Town,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Southampton FC,2-1,1-1,Oldham Athletic,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Walsall FC,1-4,0-1,Tranmere Rovers,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Plymouth Argyle,2-1,1-1,Huddersfield Town,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Brentford FC,2-1,1-1,Peterborough United,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Milton Keynes Dons,1-0,0-0,Exeter City,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Swindon Town,2-2,0-0,Leyton Orient,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Sheffield Wednesday,1-1,0-1,AFC Bournemouth,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Colchester United,2-1,0-1,Notts County,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Carlisle United,3-4,0-2,Charlton Athletic,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Rochdale AFC,3-2,2-0,Dagenham & Redbridge,2010-10-23T14:00Z
+13,Sat Oct 23 2010,15:00,BST/+0100,Hartlepool United,2-2,1-0,Bristol Rovers,2010-10-23T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,AFC Bournemouth,1-2,0-1,Colchester United,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Dagenham & Redbridge,1-1,0-0,Hartlepool United,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Peterborough United,0-3,0-2,Brighton & Hove Albion,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Notts County,1-3,1-0,Southampton FC,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Tranmere Rovers,4-2,3-1,Milton Keynes Dons,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Oldham Athletic,4-2,1-1,Plymouth Argyle,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Charlton Athletic,1-0,1-0,Sheffield Wednesday,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Leyton Orient,2-1,0-1,Rochdale AFC,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Huddersfield Town,1-0,1-0,Walsall FC,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Yeovil Town,3-3,1-1,Swindon Town,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Exeter City,2-4,1-1,Brentford FC,2010-10-30T14:00Z
+14,Sat Oct 30 2010,15:00,BST/+0100,Bristol Rovers,1-1,0-0,Carlisle United,2010-10-30T14:00Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Milton Keynes Dons,3-2,1-1,Yeovil Town,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Sheffield Wednesday,0-2,0-2,Huddersfield Town,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Colchester United,3-2,2-2,Leyton Orient,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Swindon Town,0-3,0-1,Charlton Athletic,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Carlisle United,2-0,1-0,Tranmere Rovers,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Brighton & Hove Albion,3-0,2-0,Exeter City,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Southampton FC,4-0,2-0,Dagenham & Redbridge,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Walsall FC,1-3,0-2,Peterborough United,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Plymouth Argyle,3-1,0-0,Bristol Rovers,2010-11-02T19:45Z
+15,Tue Nov 2 2010,19:45,GMT/+0000,Brentford FC,1-1,0-0,AFC Bournemouth,2010-11-02T19:45Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Peterborough United,1-5,0-4,Charlton Athletic,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Carlisle United,3-2,2-0,Southampton FC,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Exeter City,3-1,2-1,Notts County,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Brentford FC,0-2,0-0,Milton Keynes Dons,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,AFC Bournemouth,3-0,1-0,Walsall FC,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Oldham Athletic,1-0,1-0,Huddersfield Town,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Hartlepool United,3-1,1-0,Brighton & Hove Albion,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Yeovil Town,1-3,1-1,Dagenham & Redbridge,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Tranmere Rovers,1-0,0-0,Plymouth Argyle,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Bristol Rovers,0-3,0-2,Leyton Orient,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Swindon Town,2-1,1-1,Colchester United,2010-11-13T15:00Z
+16,Sat Nov 13 2010,15:00,GMT/+0000,Sheffield Wednesday,2-0,0-0,Rochdale AFC,2010-11-13T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Southampton FC,4-1,1-0,Peterborough United,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Huddersfield Town,0-1,0-1,Exeter City,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Leyton Orient,2-2,0-1,AFC Bournemouth,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Brighton & Hove Albion,2-2,0-1,Bristol Rovers,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Charlton Athletic,3-2,2-1,Yeovil Town,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Dagenham & Redbridge,0-1,0-0,Oldham Athletic,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Plymouth Argyle,1-2,1-1,Brentford FC,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Colchester United,3-2,0-1,Hartlepool United,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Milton Keynes Dons,1-4,1-2,Sheffield Wednesday,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Rochdale AFC,3-3,1-1,Swindon Town,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Walsall FC,2-1,1-1,Carlisle United,2010-11-20T15:00Z
+17,Sat Nov 20 2010,15:00,GMT/+0000,Notts County,0-1,0-0,Tranmere Rovers,2010-11-20T15:00Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Tranmere Rovers,0-1,0-0,Hartlepool United,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Charlton Athletic,1-1,0-0,Bristol Rovers,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Peterborough United,2-2,1-1,Leyton Orient,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Oldham Athletic,3-3,3-0,Exeter City,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Huddersfield Town,4-1,2-0,Milton Keynes Dons,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Carlisle United,1-1,1-0,Rochdale AFC,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Sheffield Wednesday,3-0,1-0,Walsall FC,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Southampton FC,0-0,0-0,Brighton & Hove Albion,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Notts County,1-0,0-0,Swindon Town,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,AFC Bournemouth,2-0,2-0,Yeovil Town,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Colchester United,0-2,0-1,Brentford FC,2010-11-23T19:45Z
+18,Tue Nov 23 2010,19:45,GMT/+0000,Plymouth Argyle,2-1,0-1,Dagenham & Redbridge,2010-11-23T19:45Z
+15,Sat Nov 27 2010,15:00,GMT/+0000,Rochdale AFC,1-1,1-1,Oldham Athletic,2010-11-27T15:00Z
+19,Sat Dec 4 2010,15:00,GMT/+0000,Swindon Town,2-1,1-1,Sheffield Wednesday,2010-12-04T15:00Z
+20,Fri Dec 10 2010,19:45,GMT/+0000,Peterborough United,2-1,1-0,Rochdale AFC,2010-12-10T19:45Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,Huddersfield Town,2-1,0-0,Brighton & Hove Albion,2010-12-11T15:00Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,AFC Bournemouth,0-1,0-1,Hartlepool United,2010-12-11T15:00Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,Southampton FC,0-2,0-2,Brentford FC,2010-12-11T15:00Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,Notts County,2-0,0-0,Milton Keynes Dons,2010-12-11T15:00Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,Carlisle United,0-2,0-0,Dagenham & Redbridge,2010-12-11T15:00Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,Sheffield Wednesday,6-2,4-1,Bristol Rovers,2010-12-11T15:00Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,Colchester United,0-0,0-0,Yeovil Town,2010-12-11T15:00Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,Tranmere Rovers,1-2,0-2,Leyton Orient,2010-12-11T15:00Z
+20,Sat Dec 11 2010,15:00,GMT/+0000,Plymouth Argyle,2-0,1-0,Exeter City,2010-12-11T15:00Z
+20,Sun Dec 12 2010,14:00,GMT/+0000,Charlton Athletic,0-1,0-0,Walsall FC,2010-12-12T14:00Z
+21,Sat Dec 18 2010,15:00,GMT/+0000,Exeter City,5-1,1-1,Sheffield Wednesday,2010-12-18T15:00Z
+22,Sun Dec 26 2010,15:00,GMT/+0000,Huddersfield Town,0-1,0-1,Hartlepool United,2010-12-26T15:00Z
+23,Tue Dec 28 2010,15:00,GMT/+0000,Plymouth Argyle,1-1,1-1,Notts County,2010-12-28T15:00Z
+23,Tue Dec 28 2010,15:00,GMT/+0000,Milton Keynes Dons,2-0,1-0,AFC Bournemouth,2010-12-28T15:00Z
+23,Tue Dec 28 2010,15:00,GMT/+0000,Southampton FC,4-1,2-1,Huddersfield Town,2010-12-28T15:00Z
+23,Tue Dec 28 2010,15:15,GMT/+0000,Swindon Town,1-1,0-1,Peterborough United,2010-12-28T15:15Z
+23,Wed Dec 29 2010,19:45,GMT/+0000,Brighton & Hove Albion,1-1,1-1,Charlton Athletic,2010-12-29T19:45Z
+24,Sat Jan 1 2011,13:00,GMT/+0000,Brighton & Hove Albion,5-0,2-0,Leyton Orient,2011-01-01T13:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Rochdale AFC,3-2,2-1,Tranmere Rovers,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Carlisle United,2-2,0-1,Huddersfield Town,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Plymouth Argyle,0-0,0-0,Yeovil Town,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Southampton FC,4-0,1-0,Exeter City,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Milton Keynes Dons,2-0,2-0,Bristol Rovers,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Brentford FC,2-1,1-1,Dagenham & Redbridge,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Colchester United,3-3,2-2,Charlton Athletic,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Swindon Town,1-2,1-1,AFC Bournemouth,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Walsall FC,0-3,0-2,Notts County,2011-01-01T15:00Z
+24,Sat Jan 1 2011,15:00,GMT/+0000,Hartlepool United,4-2,2-1,Oldham Athletic,2011-01-01T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,AFC Bournemouth,3-1,1-0,Brentford FC,2011-01-03T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,Notts County,3-0,1-0,Hartlepool United,2011-01-03T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,Leyton Orient,4-2,1-0,Colchester United,2011-01-03T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,Yeovil Town,1-0,1-0,Milton Keynes Dons,2011-01-03T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,Exeter City,1-2,1-0,Brighton & Hove Albion,2011-01-03T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,Peterborough United,4-1,1-1,Walsall FC,2011-01-03T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,Tranmere Rovers,2-1,1-0,Carlisle United,2011-01-03T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,Oldham Athletic,1-2,0-0,Rochdale AFC,2011-01-03T15:00Z
+25,Mon Jan 3 2011,15:00,GMT/+0000,Dagenham & Redbridge,1-3,0-0,Southampton FC,2011-01-03T15:00Z
+25,Mon Jan 3 2011,17:05,GMT/+0000,Charlton Athletic,2-4,1-1,Swindon Town,2011-01-03T17:05Z
+25,Mon Jan 3 2011,12:15,GMT/+0000,Huddersfield Town,1-0,1-0,Sheffield Wednesday,2011-01-03T12:15Z
+25,Tue Jan 4 2011,19:45,GMT/+0000,Bristol Rovers,2-3,2-0,Plymouth Argyle,2011-01-04T19:45Z
+22,Sat Jan 8 2011,15:00,GMT/+0000,AFC Bournemouth,3-0,2-0,Plymouth Argyle,2011-01-08T15:00Z
+22,Sat Jan 8 2011,15:00,GMT/+0000,Yeovil Town,2-0,1-0,Brentford FC,2011-01-08T15:00Z
+26,Sat Jan 8 2011,15:00,GMT/+0000,Tranmere Rovers,3-3,2-1,Walsall FC,2011-01-08T15:00Z
+26,Sat Jan 8 2011,15:00,GMT/+0000,Dagenham & Redbridge,0-1,0-0,Rochdale AFC,2011-01-08T15:00Z
+20,Sat Jan 8 2011,15:00,GMT/+0000,Oldham Athletic,2-0,1-0,Swindon Town,2011-01-08T15:00Z
+26,Sat Jan 8 2011,15:00,GMT/+0000,Exeter City,1-1,1-0,Milton Keynes Dons,2011-01-08T15:00Z
+26,Tue Jan 11 2011,19:45,GMT/+0000,Oldham Athletic,0-6,0-2,Southampton FC,2011-01-11T19:45Z
+26,Tue Jan 11 2011,19:45,GMT/+0000,Huddersfield Town,3-2,3-2,Plymouth Argyle,2011-01-11T19:45Z
+26,Tue Jan 11 2011,19:45,GMT/+0000,Peterborough United,2-1,1-0,Brentford FC,2011-01-11T19:45Z
+22,Tue Jan 11 2011,19:45,GMT/+0000,Bristol Rovers,2-2,0-1,Walsall FC,2011-01-11T19:45Z
+27,Fri Jan 14 2011,19:45,GMT/+0000,Colchester United,2-1,0-0,AFC Bournemouth,2011-01-14T19:45Z
+27,Fri Jan 14 2011,19:45,GMT/+0000,Brentford FC,1-1,0-1,Exeter City,2011-01-14T19:45Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Southampton FC,0-0,0-0,Notts County,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Hartlepool United,0-1,0-0,Dagenham & Redbridge,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Milton Keynes Dons,2-0,0-0,Tranmere Rovers,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Sheffield Wednesday,2-2,0-2,Charlton Athletic,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Walsall FC,2-4,1-2,Huddersfield Town,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Plymouth Argyle,0-2,0-0,Oldham Athletic,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Carlisle United,4-0,1-0,Bristol Rovers,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Rochdale AFC,1-1,1-0,Leyton Orient,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Swindon Town,0-1,0-0,Yeovil Town,2011-01-15T15:00Z
+27,Sat Jan 15 2011,15:00,GMT/+0000,Brighton & Hove Albion,3-1,2-0,Peterborough United,2011-01-15T15:00Z
+21,Tue Jan 18 2011,19:45,GMT/+0000,Rochdale AFC,0-0,0-0,AFC Bournemouth,2011-01-18T19:45Z
+19,Tue Jan 18 2011,19:45,GMT/+0000,Milton Keynes Dons,1-3,1-2,Plymouth Argyle,2011-01-18T19:45Z
+26,Tue Jan 18 2011,19:45,GMT/+0000,Bristol Rovers,0-0,0-0,Hartlepool United,2011-01-18T19:45Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Notts County,0-1,0-0,Carlisle United,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Oldham Athletic,2-1,1-0,Brentford FC,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Huddersfield Town,0-0,0-0,Colchester United,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Bristol Rovers,3-1,1-0,Swindon Town,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Peterborough United,4-0,0-0,Hartlepool United,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Leyton Orient,4-0,0-0,Sheffield Wednesday,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Exeter City,2-1,1-0,Walsall FC,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,AFC Bournemouth,1-0,0-0,Brighton & Hove Albion,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Charlton Athletic,2-0,0-0,Plymouth Argyle,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Yeovil Town,0-1,0-1,Rochdale AFC,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Tranmere Rovers,2-0,1-0,Southampton FC,2011-01-22T15:00Z
+28,Sat Jan 22 2011,15:00,GMT/+0000,Dagenham & Redbridge,0-1,0-0,Milton Keynes Dons,2011-01-22T15:00Z
+15,Tue Jan 25 2011,19:45,GMT/+0000,Hartlepool United,1-1,1-0,Notts County,2011-01-25T19:45Z
+19,Tue Jan 25 2011,19:45,GMT/+0000,Brighton & Hove Albion,2-0,1-0,Colchester United,2011-01-25T19:45Z
+22,Tue Jan 25 2011,19:45,GMT/+0000,Leyton Orient,2-2,2-1,Milton Keynes Dons,2011-01-25T19:45Z
+19,Tue Jan 25 2011,19:45,GMT/+0000,Walsall FC,1-1,0-1,Oldham Athletic,2011-01-25T19:45Z
+23,Tue Jan 25 2011,19:45,GMT/+0000,Sheffield Wednesday,2-2,1-1,Yeovil Town,2011-01-25T19:45Z
+21,Tue Jan 25 2011,19:45,GMT/+0000,Swindon Town,0-0,0-0,Tranmere Rovers,2011-01-25T19:45Z
+29,Fri Jan 28 2011,19:45,GMT/+0000,Colchester United,2-1,1-1,Peterborough United,2011-01-28T19:45Z
+29,Sat Jan 29 2011,15:00,GMT/+0000,Swindon Town,0-0,0-0,Exeter City,2011-01-29T15:00Z
+29,Sat Jan 29 2011,15:00,GMT/+0000,Walsall FC,6-1,3-0,Bristol Rovers,2011-01-29T15:00Z
+29,Sat Jan 29 2011,15:00,GMT/+0000,Carlisle United,2-2,0-2,Oldham Athletic,2011-01-29T15:00Z
+29,Sat Jan 29 2011,15:00,GMT/+0000,Plymouth Argyle,1-2,0-1,AFC Bournemouth,2011-01-29T15:00Z
+29,Sat Jan 29 2011,15:00,GMT/+0000,Brentford FC,1-2,1-1,Yeovil Town,2011-01-29T15:00Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Oldham Athletic,4-0,1-0,Hartlepool United,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Peterborough United,5-3,2-3,Sheffield Wednesday,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Dagenham & Redbridge,4-1,1-0,Brentford FC,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,AFC Bournemouth,3-2,2-1,Swindon Town,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Charlton Athletic,1-0,0-0,Colchester United,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Tranmere Rovers,1-1,1-0,Rochdale AFC,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Yeovil Town,1-0,0-0,Plymouth Argyle,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Leyton Orient,0-0,0-0,Brighton & Hove Albion,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Exeter City,1-2,1-0,Southampton FC,2011-02-01T19:45Z
+30,Tue Feb 1 2011,19:45,GMT/+0000,Huddersfield Town,2-0,2-0,Carlisle United,2011-02-01T19:45Z
+30,Wed Feb 2 2011,19:45,GMT/+0000,Bristol Rovers,1-2,0-1,Milton Keynes Dons,2011-02-02T19:45Z
+30,Wed Feb 2 2011,19:45,GMT/+0000,Notts County,1-1,0-0,Walsall FC,2011-02-02T19:45Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Yeovil Town,0-1,0-0,Charlton Athletic,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Swindon Town,1-1,0-0,Rochdale AFC,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Hartlepool United,1-0,0-0,Colchester United,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Exeter City,1-4,0-0,Huddersfield Town,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Oldham Athletic,1-1,0-0,Dagenham & Redbridge,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Brentford FC,2-0,1-0,Plymouth Argyle,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Sheffield Wednesday,2-2,0-2,Milton Keynes Dons,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,AFC Bournemouth,1-1,1-0,Leyton Orient,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Bristol Rovers,2-4,1-1,Brighton & Hove Albion,2011-02-05T15:00Z
+31,Sat Feb 5 2011,15:00,GMT/+0000,Carlisle United,1-3,0-1,Walsall FC,2011-02-05T15:00Z
+31,Sat Feb 5 2011,17:20,GMT/+0000,Peterborough United,4-4,2-2,Southampton FC,2011-02-05T17:20Z
+26,Tue Feb 8 2011,19:45,GMT/+0000,Leyton Orient,3-0,3-0,Swindon Town,2011-02-08T19:45Z
+23,Tue Feb 8 2011,19:45,GMT/+0000,Rochdale AFC,3-1,0-0,Bristol Rovers,2011-02-08T19:45Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Rochdale AFC,2-1,2-0,Sheffield Wednesday,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Colchester United,2-1,1-0,Swindon Town,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Notts County,0-2,0-0,Exeter City,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Plymouth Argyle,1-3,0-1,Tranmere Rovers,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Walsall FC,0-1,0-0,AFC Bournemouth,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Leyton Orient,4-1,2-0,Bristol Rovers,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Charlton Athletic,3-2,0-1,Peterborough United,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Dagenham & Redbridge,2-1,1-1,Yeovil Town,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Southampton FC,1-0,1-0,Carlisle United,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Milton Keynes Dons,1-1,0-0,Brentford FC,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Brighton & Hove Albion,4-1,2-0,Hartlepool United,2011-02-12T15:00Z
+32,Sat Feb 12 2011,15:00,GMT/+0000,Huddersfield Town,0-0,0-0,Oldham Athletic,2011-02-12T15:00Z
+23,Tue Feb 15 2011,19:45,GMT/+0000,Walsall FC,1-0,0-0,Dagenham & Redbridge,2011-02-15T19:45Z
+26,Tue Feb 15 2011,19:45,GMT/+0000,Notts County,2-0,2-0,Colchester United,2011-02-15T19:45Z
+21,Tue Feb 15 2011,19:45,GMT/+0000,Hartlepool United,2-1,1-0,Charlton Athletic,2011-02-15T19:45Z
+22,Tue Feb 15 2011,19:45,GMT/+0000,Tranmere Rovers,3-0,0-0,Sheffield Wednesday,2011-02-15T19:45Z
+22,Tue Feb 15 2011,19:45,GMT/+0000,Oldham Athletic,0-1,0-0,Carlisle United,2011-02-15T19:45Z
+29,Tue Feb 15 2011,19:45,GMT/+0000,Milton Keynes Dons,2-3,2-2,Leyton Orient,2011-02-15T19:45Z
+19,Tue Feb 15 2011,19:45,GMT/+0000,Yeovil Town,0-2,0-0,Peterborough United,2011-02-15T19:45Z
+33,Sat Feb 19 2011,15:00,GMT/+0000,Hartlepool United,0-1,0-1,Milton Keynes Dons,2011-02-19T15:00Z
+33,Sat Feb 19 2011,15:00,GMT/+0000,Peterborough United,2-1,0-1,Tranmere Rovers,2011-02-19T15:00Z
+33,Sat Feb 19 2011,15:00,GMT/+0000,Charlton Athletic,1-3,0-0,Exeter City,2011-02-19T15:00Z
+33,Sat Feb 19 2011,15:00,GMT/+0000,Bristol Rovers,1-0,0-0,Oldham Athletic,2011-02-19T15:00Z
+33,Sat Feb 19 2011,15:00,GMT/+0000,AFC Bournemouth,1-1,0-0,Huddersfield Town,2011-02-19T15:00Z
+33,Sat Feb 19 2011,15:00,GMT/+0000,Swindon Town,0-1,0-1,Carlisle United,2011-02-19T15:00Z
+33,Sat Feb 19 2011,15:00,GMT/+0000,Colchester United,2-0,1-0,Walsall FC,2011-02-19T15:00Z
+19,Tue Feb 22 2011,19:45,GMT/+0000,Hartlepool United,0-0,0-0,Southampton FC,2011-02-22T19:45Z
+19,Tue Feb 22 2011,19:45,GMT/+0000,Dagenham & Redbridge,1-1,0-1,Huddersfield Town,2011-02-22T19:45Z
+33,Tue Feb 22 2011,19:45,GMT/+0000,Brighton & Hove Albion,4-0,2-0,Plymouth Argyle,2011-02-22T19:45Z
+26,Tue Feb 22 2011,19:45,GMT/+0000,AFC Bournemouth,0-0,0-0,Sheffield Wednesday,2011-02-22T19:45Z
+23,Tue Feb 22 2011,20:00,GMT/+0000,Brentford FC,2-1,1-0,Tranmere Rovers,2011-02-22T20:00Z
+22,Tue Feb 22 2011,19:45,GMT/+0000,Peterborough United,1-1,1-1,Colchester United,2011-02-22T19:45Z
+23,Tue Feb 22 2011,19:45,GMT/+0000,Carlisle United,2-2,2-2,Exeter City,2011-02-22T19:45Z
+21,Tue Feb 22 2011,19:45,GMT/+0000,Milton Keynes Dons,0-0,0-0,Oldham Athletic,2011-02-22T19:45Z
+34,Fri Feb 25 2011,19:45,GMT/+0000,Notts County,1-0,0-0,Charlton Athletic,2011-02-25T19:45Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Tranmere Rovers,0-1,0-0,Yeovil Town,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Plymouth Argyle,2-1,1-1,Colchester United,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Carlisle United,0-1,0-1,Sheffield Wednesday,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Huddersfield Town,2-2,1-0,Leyton Orient,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Exeter City,1-2,0-2,Hartlepool United,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Milton Keynes Dons,1-0,1-0,Brighton & Hove Albion,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Walsall FC,0-0,0-0,Rochdale AFC,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Brentford FC,1-0,1-0,Bristol Rovers,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Oldham Athletic,0-5,0-0,Peterborough United,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Dagenham & Redbridge,1-2,0-0,AFC Bournemouth,2011-02-26T15:00Z
+34,Sat Feb 26 2011,15:00,GMT/+0000,Southampton FC,4-1,1-0,Swindon Town,2011-02-26T15:00Z
+19,Tue Mar 1 2011,19:45,GMT/+0000,Exeter City,1-1,0-1,Tranmere Rovers,2011-03-01T19:45Z
+19,Tue Mar 1 2011,19:45,GMT/+0000,Brentford FC,1-1,0-1,Notts County,2011-03-01T19:45Z
+26,Tue Mar 1 2011,19:45,GMT/+0000,Charlton Athletic,1-3,1-1,Carlisle United,2011-03-01T19:45Z
+26,Tue Mar 1 2011,19:45,GMT/+0000,Yeovil Town,0-1,0-1,Brighton & Hove Albion,2011-03-01T19:45Z
+21,Tue Mar 1 2011,19:45,GMT/+0000,Bristol Rovers,0-1,0-1,Colchester United,2011-03-01T19:45Z
+29,Tue Mar 1 2011,19:45,GMT/+0000,Hartlepool United,0-1,0-1,Huddersfield Town,2011-03-01T19:45Z
+21,Tue Mar 1 2011,19:45,GMT/+0000,Walsall FC,1-0,0-0,Southampton FC,2011-03-01T19:45Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Bristol Rovers,0-2,0-1,Dagenham & Redbridge,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Leyton Orient,2-0,1-0,Notts County,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Charlton Athletic,1-1,0-1,Tranmere Rovers,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Sheffield Wednesday,2-4,0-2,Plymouth Argyle,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Rochdale AFC,1-4,0-3,Milton Keynes Dons,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Swindon Town,0-0,0-0,Walsall FC,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Yeovil Town,1-1,1-0,Huddersfield Town,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Brighton & Hove Albion,4-3,1-1,Carlisle United,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,AFC Bournemouth,3-0,1-0,Oldham Athletic,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Peterborough United,3-0,1-0,Exeter City,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Hartlepool United,3-0,1-0,Brentford FC,2011-03-05T15:00Z
+35,Sat Mar 5 2011,15:00,GMT/+0000,Colchester United,0-2,0-1,Southampton FC,2011-03-05T15:00Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Oldham Athletic,2-3,2-2,Sheffield Wednesday,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Notts County,0-1,0-0,Peterborough United,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Milton Keynes Dons,2-0,0-0,Charlton Athletic,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Tranmere Rovers,0-1,0-1,Bristol Rovers,2011-03-08T19:45Z
+36,Tue Mar 8 2011,20:00,GMT/+0000,Exeter City,2-0,1-0,AFC Bournemouth,2011-03-08T20:00Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Huddersfield Town,2-1,2-0,Rochdale AFC,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Southampton FC,3-0,1-0,Yeovil Town,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Carlisle United,1-0,0-0,Hartlepool United,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Dagenham & Redbridge,1-0,1-0,Colchester United,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Brentford FC,0-1,0-0,Brighton & Hove Albion,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Plymouth Argyle,1-0,1-0,Swindon Town,2011-03-08T19:45Z
+36,Tue Mar 8 2011,19:45,GMT/+0000,Walsall FC,0-2,0-1,Leyton Orient,2011-03-08T19:45Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,AFC Bournemouth,1-3,1-1,Southampton FC,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Brighton & Hove Albion,2-0,0-0,Tranmere Rovers,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Hartlepool United,2-0,1-0,Plymouth Argyle,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Rochdale AFC,0-1,0-1,Exeter City,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Sheffield Wednesday,0-1,0-1,Notts County,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Leyton Orient,1-0,0-0,Oldham Athletic,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Swindon Town,1-1,1-0,Dagenham & Redbridge,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Colchester United,1-3,1-0,Milton Keynes Dons,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Bristol Rovers,0-1,0-1,Huddersfield Town,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Peterborough United,6-0,3-0,Carlisle United,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Charlton Athletic,0-1,0-0,Brentford FC,2011-03-12T15:00Z
+37,Sat Mar 12 2011,15:00,GMT/+0000,Yeovil Town,1-1,1-1,Walsall FC,2011-03-12T15:00Z
+24,Tue Mar 15 2011,19:45,GMT/+0000,Sheffield Wednesday,1-4,0-3,Peterborough United,2011-03-15T19:45Z
+23,Tue Mar 15 2011,19:45,GMT/+0000,Hartlepool United,0-1,0-1,Leyton Orient,2011-03-15T19:45Z
+40,Tue Mar 15 2011,19:45,GMT/+0000,Carlisle United,1-1,1-0,Plymouth Argyle,2011-03-15T19:45Z
+21,Tue Mar 15 2011,19:45,GMT/+0000,Brentford FC,0-1,0-0,Huddersfield Town,2011-03-15T19:45Z
+29,Tue Mar 15 2011,19:45,GMT/+0000,Rochdale AFC,1-0,0-0,Notts County,2011-03-15T19:45Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Plymouth Argyle,0-1,0-0,Rochdale AFC,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Notts County,0-1,0-0,Bristol Rovers,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Walsall FC,5-2,0-1,Hartlepool United,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Huddersfield Town,0-0,0-0,Swindon Town,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Oldham Athletic,0-1,0-0,Brighton & Hove Albion,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Dagenham & Redbridge,2-1,1-0,Charlton Athletic,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Carlisle United,1-0,1-0,AFC Bournemouth,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Exeter City,2-3,2-1,Yeovil Town,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Brentford FC,2-1,2-0,Leyton Orient,2011-03-19T15:00Z
+38,Sat Mar 19 2011,15:00,GMT/+0000,Tranmere Rovers,1-0,0-0,Colchester United,2011-03-19T15:00Z
+38,Sat Mar 19 2011,17:20,GMT/+0000,Southampton FC,2-0,0-0,Sheffield Wednesday,2011-03-19T17:20Z
+38,Mon Mar 21 2011,19:45,GMT/+0000,Milton Keynes Dons,1-0,0-0,Peterborough United,2011-03-21T19:45Z
+33,Tue Mar 22 2011,19:45,GMT/+0000,Leyton Orient,1-1,0-1,Dagenham & Redbridge,2011-03-22T19:45Z
+22,Tue Mar 22 2011,19:45,GMT/+0000,Charlton Athletic,1-1,0-0,Southampton FC,2011-03-22T19:45Z
+23,Tue Mar 22 2011,19:45,GMT/+0000,Colchester United,1-0,0-0,Oldham Athletic,2011-03-22T19:45Z
+21,Tue Mar 22 2011,19:45,GMT/+0000,Brighton & Hove Albion,1-0,0-0,Notts County,2011-03-22T19:45Z
+39,Fri Mar 25 2011,19:45,GMT/+0000,Milton Keynes Dons,1-1,0-1,Walsall FC,2011-03-25T19:45Z
+39,Fri Mar 25 2011,19:45,GMT/+0000,Bristol Rovers,2-2,1-1,Peterborough United,2011-03-25T19:45Z
+39,Fri Mar 25 2011,19:45,GMT/+0000,Hartlepool United,0-2,0-1,Rochdale AFC,2011-03-25T19:45Z
+39,Fri Mar 25 2011,19:45,GMT/+0000,Brentford FC,2-1,0-0,Carlisle United,2011-03-25T19:45Z
+39,Sat Mar 26 2011,13:00,GMT/+0000,Colchester United,5-1,1-1,Exeter City,2011-03-26T13:00Z
+39,Sat Mar 26 2011,13:00,GMT/+0000,AFC Bournemouth,2-2,1-1,Charlton Athletic,2011-03-26T13:00Z
+39,Sat Mar 26 2011,13:00,GMT/+0000,Dagenham & Redbridge,1-1,0-1,Sheffield Wednesday,2011-03-26T13:00Z
+39,Sat Mar 26 2011,13:00,GMT/+0000,Brighton & Hove Albion,2-1,1-1,Swindon Town,2011-03-26T13:00Z
+39,Sat Mar 26 2011,13:00,GMT/+0000,Leyton Orient,1-5,0-3,Yeovil Town,2011-03-26T13:00Z
+39,Sun Mar 27 2011,16:00,BST/+0100,Huddersfield Town,3-0,1-0,Notts County,2011-03-27T15:00Z
+39,Mon Mar 28 2011,19:45,BST/+0100,Oldham Athletic,0-0,0-0,Tranmere Rovers,2011-03-28T18:45Z
+19,Tue Mar 29 2011,19:45,BST/+0100,Rochdale AFC,2-0,1-0,Charlton Athletic,2011-03-29T18:45Z
+22,Tue Mar 29 2011,19:45,BST/+0100,Dagenham & Redbridge,0-1,0-0,Brighton & Hove Albion,2011-03-29T18:45Z
+33,Tue Mar 29 2011,19:45,BST/+0100,Sheffield Wednesday,1-3,1-2,Brentford FC,2011-03-29T18:45Z
+22,Tue Mar 29 2011,19:45,BST/+0100,Exeter City,1-0,0-0,Swindon Town,2011-03-29T18:45Z
+21,Tue Mar 29 2011,19:45,BST/+0100,Yeovil Town,1-0,0-0,Carlisle United,2011-03-29T18:45Z
+40,Fri Apr 1 2011,19:45,BST/+0100,Peterborough United,3-3,3-1,AFC Bournemouth,2011-04-01T18:45Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Sheffield Wednesday,2-1,1-0,Colchester United,2011-04-02T14:00Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Yeovil Town,0-1,0-0,Bristol Rovers,2011-04-02T14:00Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Rochdale AFC,2-2,1-1,Brighton & Hove Albion,2011-04-02T14:00Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Swindon Town,1-1,0-1,Hartlepool United,2011-04-02T14:00Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Notts County,0-2,0-0,Oldham Athletic,2011-04-02T14:00Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Southampton FC,3-2,0-1,Milton Keynes Dons,2011-04-02T14:00Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Exeter City,2-1,0-0,Dagenham & Redbridge,2011-04-02T14:00Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Tranmere Rovers,0-2,0-1,Huddersfield Town,2011-04-02T14:00Z
+40,Sat Apr 2 2011,15:00,BST/+0100,Charlton Athletic,3-1,0-1,Leyton Orient,2011-04-02T14:00Z
+29,Tue Apr 5 2011,19:45,BST/+0100,Sheffield Wednesday,4-0,3-0,Tranmere Rovers,2011-04-05T18:45Z
+19,Tue Apr 5 2011,19:45,BST/+0100,Bristol Rovers,1-0,1-0,AFC Bournemouth,2011-04-05T18:45Z
+21,Tue Apr 5 2011,19:45,BST/+0100,Dagenham & Redbridge,0-2,0-2,Peterborough United,2011-04-05T18:45Z
+21,Tue Apr 5 2011,19:45,BST/+0100,Leyton Orient,2-0,2-0,Plymouth Argyle,2011-04-05T18:45Z
+22,Tue Apr 5 2011,19:45,BST/+0100,Notts County,1-2,0-2,Rochdale AFC,2011-04-05T18:45Z
+29,Tue Apr 5 2011,19:45,BST/+0100,Southampton FC,2-0,1-0,Charlton Athletic,2011-04-05T18:45Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Huddersfield Town,1-1,0-1,Peterborough United,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Dagenham & Redbridge,3-1,3-0,Notts County,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Oldham Athletic,0-0,0-0,Charlton Athletic,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Milton Keynes Dons,3-2,1-1,Carlisle United,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Brentford FC,0-1,0-0,Swindon Town,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Bristol Rovers,0-2,0-0,Exeter City,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Hartlepool United,3-1,1-1,Yeovil Town,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Colchester United,1-0,0-0,Rochdale AFC,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Brighton & Hove Albion,2-0,1-0,Sheffield Wednesday,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Plymouth Argyle,2-0,0-0,Walsall FC,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,Leyton Orient,0-2,0-1,Southampton FC,2011-04-09T14:00Z
+41,Sat Apr 9 2011,15:00,BST/+0100,AFC Bournemouth,1-2,0-1,Tranmere Rovers,2011-04-09T14:00Z
+33,Tue Apr 12 2011,19:45,BST/+0100,Yeovil Town,2-1,1-0,Notts County,2011-04-12T18:45Z
+33,Tue Apr 12 2011,19:45,BST/+0100,Rochdale AFC,2-0,2-0,Southampton FC,2011-04-12T18:45Z
+19,Tue Apr 12 2011,19:45,BST/+0100,Leyton Orient,0-0,0-0,Carlisle United,2011-04-12T18:45Z
+29,Tue Apr 12 2011,19:45,BST/+0100,Brighton & Hove Albion,4-3,2-1,Dagenham & Redbridge,2011-04-12T18:45Z
+40,Tue Apr 12 2011,19:45,BST/+0100,Walsall FC,3-2,1-1,Brentford FC,2011-04-12T18:45Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Tranmere Rovers,2-0,2-0,Dagenham & Redbridge,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Rochdale AFC,0-1,0-0,Brentford FC,2011-04-16T14:00Z
+42,Sat Apr 16 2011,12:30,BST/+0100,Notts County,0-2,0-0,AFC Bournemouth,2011-04-16T11:30Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Exeter City,2-1,1-1,Leyton Orient,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Walsall FC,1-3,1-1,Brighton & Hove Albion,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Sheffield Wednesday,2-0,1-0,Hartlepool United,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Peterborough United,2-1,0-1,Plymouth Argyle,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Swindon Town,0-1,0-1,Milton Keynes Dons,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Yeovil Town,1-1,0-1,Oldham Athletic,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Southampton FC,1-0,0-0,Bristol Rovers,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Carlisle United,4-1,3-0,Colchester United,2011-04-16T14:00Z
+42,Sat Apr 16 2011,15:00,BST/+0100,Charlton Athletic,0-1,0-0,Huddersfield Town,2011-04-16T14:00Z
+31,Tue Apr 19 2011,19:45,BST/+0100,Tranmere Rovers,0-1,0-1,Notts County,2011-04-19T18:45Z
+43,Fri Apr 22 2011,15:00,BST/+0100,Milton Keynes Dons,1-3,0-2,Huddersfield Town,2011-04-22T14:00Z
+43,Fri Apr 22 2011,15:00,BST/+0100,Dagenham & Redbridge,0-1,0-0,Plymouth Argyle,2011-04-22T14:00Z
+43,Fri Apr 22 2011,15:00,BST/+0100,Exeter City,2-0,2-0,Oldham Athletic,2011-04-22T14:00Z
+43,Fri Apr 22 2011,15:00,BST/+0100,Hartlepool United,1-1,1-0,Tranmere Rovers,2011-04-22T14:00Z
+43,Fri Apr 22 2011,15:00,BST/+0100,Leyton Orient,2-1,0-0,Peterborough United,2011-04-22T14:00Z
+43,Fri Apr 22 2011,15:00,BST/+0100,Brentford FC,1-1,0-1,Colchester United,2011-04-22T14:00Z
+43,Sat Apr 23 2011,15:00,BST/+0100,Walsall FC,1-1,1-1,Sheffield Wednesday,2011-04-23T14:00Z
+43,Sat Apr 23 2011,15:00,BST/+0100,Brighton & Hove Albion,1-2,1-0,Southampton FC,2011-04-23T14:00Z
+43,Sat Apr 23 2011,15:00,BST/+0100,Yeovil Town,2-2,0-0,AFC Bournemouth,2011-04-23T14:00Z
+43,Sat Apr 23 2011,15:00,BST/+0100,Rochdale AFC,2-3,1-1,Carlisle United,2011-04-23T14:00Z
+43,Sat Apr 23 2011,15:00,BST/+0100,Swindon Town,1-2,1-0,Notts County,2011-04-23T14:00Z
+43,Sat Apr 23 2011,15:00,BST/+0100,Bristol Rovers,2-2,0-1,Charlton Athletic,2011-04-23T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,AFC Bournemouth,2-1,0-1,Bristol Rovers,2011-04-25T14:00Z
+44,Mon Apr 25 2011,12:15,BST/+0100,Colchester United,1-1,1-0,Brighton & Hove Albion,2011-04-25T11:15Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Tranmere Rovers,4-0,1-0,Exeter City,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Charlton Athletic,3-1,1-0,Rochdale AFC,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Carlisle United,0-1,0-1,Leyton Orient,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Notts County,1-1,0-0,Brentford FC,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Plymouth Argyle,1-0,1-0,Milton Keynes Dons,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Sheffield Wednesday,3-1,2-1,Swindon Town,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Southampton FC,2-0,0-0,Hartlepool United,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Oldham Athletic,1-1,0-0,Walsall FC,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Peterborough United,2-2,0-1,Yeovil Town,2011-04-25T14:00Z
+44,Mon Apr 25 2011,15:00,BST/+0100,Huddersfield Town,2-1,2-1,Dagenham & Redbridge,2011-04-25T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Walsall FC,2-0,1-0,Charlton Athletic,2011-04-30T14:00Z
+45,Sat Apr 30 2011,12:00,BST/+0100,Exeter City,1-0,0-0,Plymouth Argyle,2011-04-30T11:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Brighton & Hove Albion,2-3,0-1,Huddersfield Town,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Dagenham & Redbridge,3-0,2-0,Carlisle United,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Milton Keynes Dons,2-1,0-0,Notts County,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Brentford FC,0-3,0-2,Southampton FC,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Hartlepool United,2-2,0-2,AFC Bournemouth,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Leyton Orient,0-3,0-2,Tranmere Rovers,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Swindon Town,0-2,0-1,Oldham Athletic,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Bristol Rovers,1-1,1-1,Sheffield Wednesday,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Rochdale AFC,2-2,1-1,Peterborough United,2011-04-30T14:00Z
+45,Sat Apr 30 2011,15:00,BST/+0100,Yeovil Town,4-2,3-1,Colchester United,2011-04-30T14:00Z
+39,Mon May 2 2011,15:00,BST/+0100,Plymouth Argyle,1-3,0-1,Southampton FC,2011-05-02T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Huddersfield Town,4-4,2-1,Brentford FC,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Plymouth Argyle,1-4,0-2,Leyton Orient,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Charlton Athletic,0-0,0-0,Hartlepool United,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Colchester United,2-1,2-0,Bristol Rovers,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,AFC Bournemouth,1-2,1-1,Rochdale AFC,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Peterborough United,5-0,1-0,Dagenham & Redbridge,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Sheffield Wednesday,1-2,1-0,Exeter City,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Carlisle United,0-2,0-1,Yeovil Town,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Notts County,1-1,1-1,Brighton & Hove Albion,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Southampton FC,3-1,2-1,Walsall FC,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Tranmere Rovers,0-2,0-2,Swindon Town,2011-05-07T14:00Z
+46,Sat May 7 2011,15:00,BST/+0100,Oldham Athletic,1-2,1-1,Milton Keynes Dons,2011-05-07T14:00Z

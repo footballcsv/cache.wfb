@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 9 2019,20:00,BST/+0100,Liverpool FC,4-1,4-0,Norwich City,2019-08-09T19:00Z
+1,Sat Aug 10 2019,12:30,BST/+0100,West Ham United,0-5,0-1,Manchester City,2019-08-10T11:30Z
+1,Sat Aug 10 2019,15:00,BST/+0100,AFC Bournemouth,1-1,0-0,Sheffield United,2019-08-10T14:00Z
+1,Sat Aug 10 2019,15:00,BST/+0100,Burnley FC,3-0,0-0,Southampton FC,2019-08-10T14:00Z
+1,Sat Aug 10 2019,15:00,BST/+0100,Crystal Palace,0-0,0-0,Everton FC,2019-08-10T14:00Z
+1,Sat Aug 10 2019,15:00,BST/+0100,Watford FC,0-3,0-1,Brighton & Hove Albion,2019-08-10T14:00Z
+1,Sat Aug 10 2019,17:30,BST/+0100,Tottenham Hotspur,3-1,0-1,Aston Villa,2019-08-10T16:30Z
+1,Sun Aug 11 2019,14:00,BST/+0100,Newcastle United,0-1,0-0,Arsenal FC,2019-08-11T13:00Z
+1,Sun Aug 11 2019,16:30,BST/+0100,Manchester United,4-0,1-0,Chelsea FC,2019-08-11T15:30Z
+1,Sun Aug 11 2019,14:00,BST/+0100,Leicester City,0-0,0-0,Wolverhampton Wanderers,2019-08-11T13:00Z
+2,Sat Aug 17 2019,12:30,BST/+0100,Arsenal FC,2-1,1-1,Burnley FC,2019-08-17T11:30Z
+2,Sat Aug 17 2019,15:00,BST/+0100,Aston Villa,1-2,0-2,AFC Bournemouth,2019-08-17T14:00Z
+2,Sat Aug 17 2019,15:00,BST/+0100,Brighton & Hove Albion,1-1,0-0,West Ham United,2019-08-17T14:00Z
+2,Sat Aug 17 2019,15:00,BST/+0100,Everton FC,1-0,1-0,Watford FC,2019-08-17T14:00Z
+2,Sat Aug 17 2019,15:00,BST/+0100,Norwich City,3-1,1-0,Newcastle United,2019-08-17T14:00Z
+2,Sat Aug 17 2019,15:00,BST/+0100,Southampton FC,1-2,0-1,Liverpool FC,2019-08-17T14:00Z
+2,Sat Aug 17 2019,17:30,BST/+0100,Manchester City,2-2,2-1,Tottenham Hotspur,2019-08-17T16:30Z
+2,Sun Aug 18 2019,16:30,BST/+0100,Chelsea FC,1-1,1-0,Leicester City,2019-08-18T15:30Z
+2,Sun Aug 18 2019,14:00,BST/+0100,Sheffield United,1-0,0-0,Crystal Palace,2019-08-18T13:00Z
+2,Mon Aug 19 2019,20:00,BST/+0100,Wolverhampton Wanderers,1-1,0-1,Manchester United,2019-08-19T19:00Z
+3,Fri Aug 23 2019,20:00,BST/+0100,Aston Villa,2-0,1-0,Everton FC,2019-08-23T19:00Z
+3,Sat Aug 24 2019,12:30,BST/+0100,Norwich City,2-3,2-2,Chelsea FC,2019-08-24T11:30Z
+3,Sat Aug 24 2019,15:00,BST/+0100,Brighton & Hove Albion,0-2,0-0,Southampton FC,2019-08-24T14:00Z
+3,Sat Aug 24 2019,15:00,BST/+0100,Manchester United,1-2,0-1,Crystal Palace,2019-08-24T14:00Z
+3,Sat Aug 24 2019,15:00,BST/+0100,Sheffield United,1-2,0-1,Leicester City,2019-08-24T14:00Z
+3,Sat Aug 24 2019,15:00,BST/+0100,Watford FC,1-3,1-1,West Ham United,2019-08-24T14:00Z
+3,Sat Aug 24 2019,17:30,BST/+0100,Liverpool FC,3-1,1-0,Arsenal FC,2019-08-24T16:30Z
+3,Sun Aug 25 2019,16:30,BST/+0100,Tottenham Hotspur,0-1,0-1,Newcastle United,2019-08-25T15:30Z
+3,Sun Aug 25 2019,16:30,BST/+0100,Wolverhampton Wanderers,1-1,0-1,Burnley FC,2019-08-25T15:30Z
+3,Sun Aug 25 2019,14:00,BST/+0100,AFC Bournemouth,1-3,1-2,Manchester City,2019-08-25T13:00Z
+4,Sat Aug 31 2019,12:30,BST/+0100,Southampton FC,1-1,0-1,Manchester United,2019-08-31T11:30Z
+4,Sat Aug 31 2019,15:00,BST/+0100,Chelsea FC,2-2,2-0,Sheffield United,2019-08-31T14:00Z
+4,Sat Aug 31 2019,15:00,BST/+0100,Crystal Palace,1-0,0-0,Aston Villa,2019-08-31T14:00Z
+4,Sat Aug 31 2019,15:00,BST/+0100,Leicester City,3-1,2-1,AFC Bournemouth,2019-08-31T14:00Z
+4,Sat Aug 31 2019,15:00,BST/+0100,Manchester City,4-0,2-0,Brighton & Hove Albion,2019-08-31T14:00Z
+4,Sat Aug 31 2019,15:00,BST/+0100,Newcastle United,1-1,1-1,Watford FC,2019-08-31T14:00Z
+4,Sat Aug 31 2019,15:00,BST/+0100,West Ham United,2-0,1-0,Norwich City,2019-08-31T14:00Z
+4,Sat Aug 31 2019,17:30,BST/+0100,Burnley FC,0-3,0-2,Liverpool FC,2019-08-31T16:30Z
+4,Sun Sep 1 2019,16:30,BST/+0100,Arsenal FC,2-2,1-2,Tottenham Hotspur,2019-09-01T15:30Z
+4,Sun Sep 1 2019,14:00,BST/+0100,Everton FC,3-2,2-1,Wolverhampton Wanderers,2019-09-01T13:00Z
+5,Sat Sep 14 2019,12:30,BST/+0100,Liverpool FC,3-1,2-1,Newcastle United,2019-09-14T11:30Z
+5,Sat Sep 14 2019,15:00,BST/+0100,Brighton & Hove Albion,1-1,0-0,Burnley FC,2019-09-14T14:00Z
+5,Sat Sep 14 2019,15:00,BST/+0100,Manchester United,1-0,1-0,Leicester City,2019-09-14T14:00Z
+5,Sat Sep 14 2019,15:00,BST/+0100,Sheffield United,0-1,0-0,Southampton FC,2019-09-14T14:00Z
+5,Sat Sep 14 2019,15:00,BST/+0100,Tottenham Hotspur,4-0,4-0,Crystal Palace,2019-09-14T14:00Z
+5,Sat Sep 14 2019,15:00,BST/+0100,Wolverhampton Wanderers,2-5,0-3,Chelsea FC,2019-09-14T14:00Z
+5,Sat Sep 14 2019,17:30,BST/+0100,Norwich City,3-2,2-1,Manchester City,2019-09-14T16:30Z
+5,Sun Sep 15 2019,16:30,BST/+0100,Watford FC,2-2,0-2,Arsenal FC,2019-09-15T15:30Z
+5,Sun Sep 15 2019,14:00,BST/+0100,AFC Bournemouth,3-1,1-1,Everton FC,2019-09-15T13:00Z
+5,Mon Sep 16 2019,20:00,BST/+0100,Aston Villa,0-0,0-0,West Ham United,2019-09-16T19:00Z
+6,Fri Sep 20 2019,20:00,BST/+0100,Southampton FC,1-3,0-2,AFC Bournemouth,2019-09-20T19:00Z
+6,Sat Sep 21 2019,12:30,BST/+0100,Leicester City,2-1,0-1,Tottenham Hotspur,2019-09-21T11:30Z
+6,Sat Sep 21 2019,15:00,BST/+0100,Burnley FC,2-0,2-0,Norwich City,2019-09-21T14:00Z
+6,Sat Sep 21 2019,15:00,BST/+0100,Everton FC,0-2,0-1,Sheffield United,2019-09-21T14:00Z
+6,Sat Sep 21 2019,15:00,BST/+0100,Manchester City,8-0,5-0,Watford FC,2019-09-21T14:00Z
+6,Sat Sep 21 2019,17:30,BST/+0100,Newcastle United,0-0,0-0,Brighton & Hove Albion,2019-09-21T16:30Z
+6,Sun Sep 22 2019,14:00,BST/+0100,Crystal Palace,1-1,0-0,Wolverhampton Wanderers,2019-09-22T13:00Z
+6,Sun Sep 22 2019,14:00,BST/+0100,West Ham United,2-0,1-0,Manchester United,2019-09-22T13:00Z
+6,Sun Sep 22 2019,16:30,BST/+0100,Arsenal FC,3-2,0-1,Aston Villa,2019-09-22T15:30Z
+6,Sun Sep 22 2019,16:30,BST/+0100,Chelsea FC,1-2,0-2,Liverpool FC,2019-09-22T15:30Z
+7,Sat Sep 28 2019,12:30,BST/+0100,Sheffield United,0-1,0-0,Liverpool FC,2019-09-28T11:30Z
+7,Sat Sep 28 2019,15:00,BST/+0100,AFC Bournemouth,2-2,1-1,West Ham United,2019-09-28T14:00Z
+7,Sat Sep 28 2019,15:00,BST/+0100,Aston Villa,2-2,1-0,Burnley FC,2019-09-28T14:00Z
+7,Sat Sep 28 2019,15:00,BST/+0100,Chelsea FC,2-0,0-0,Brighton & Hove Albion,2019-09-28T14:00Z
+7,Sat Sep 28 2019,15:00,BST/+0100,Crystal Palace,2-0,1-0,Norwich City,2019-09-28T14:00Z
+7,Sat Sep 28 2019,15:00,BST/+0100,Tottenham Hotspur,2-1,2-1,Southampton FC,2019-09-28T14:00Z
+7,Sat Sep 28 2019,15:00,BST/+0100,Wolverhampton Wanderers,2-0,1-0,Watford FC,2019-09-28T14:00Z
+7,Sat Sep 28 2019,17:30,BST/+0100,Everton FC,1-3,1-1,Manchester City,2019-09-28T16:30Z
+7,Sun Sep 29 2019,16:30,BST/+0100,Leicester City,5-0,1-0,Newcastle United,2019-09-29T15:30Z
+7,Mon Sep 30 2019,20:00,BST/+0100,Manchester United,1-1,1-0,Arsenal FC,2019-09-30T19:00Z
+8,Sat Oct 5 2019,12:30,BST/+0100,Brighton & Hove Albion,3-0,2-0,Tottenham Hotspur,2019-10-05T11:30Z
+8,Sat Oct 5 2019,15:00,BST/+0100,Burnley FC,1-0,0-0,Everton FC,2019-10-05T14:00Z
+8,Sat Oct 5 2019,15:00,BST/+0100,Liverpool FC,2-1,1-0,Leicester City,2019-10-05T14:00Z
+8,Sat Oct 5 2019,15:00,BST/+0100,Norwich City,1-5,0-2,Aston Villa,2019-10-05T14:00Z
+8,Sat Oct 5 2019,15:00,BST/+0100,Watford FC,0-0,0-0,Sheffield United,2019-10-05T14:00Z
+8,Sat Oct 5 2019,17:30,BST/+0100,West Ham United,1-2,0-0,Crystal Palace,2019-10-05T16:30Z
+8,Sun Oct 6 2019,14:00,BST/+0100,Manchester City,0-2,0-0,Wolverhampton Wanderers,2019-10-06T13:00Z
+8,Sun Oct 6 2019,14:00,BST/+0100,Southampton FC,1-4,1-3,Chelsea FC,2019-10-06T13:00Z
+8,Sun Oct 6 2019,16:30,BST/+0100,Newcastle United,1-0,0-0,Manchester United,2019-10-06T15:30Z
+8,Sun Oct 6 2019,14:00,BST/+0100,Arsenal FC,1-0,1-0,AFC Bournemouth,2019-10-06T13:00Z
+9,Sat Oct 19 2019,12:30,BST/+0100,Everton FC,2-0,1-0,West Ham United,2019-10-19T11:30Z
+9,Sat Oct 19 2019,15:00,BST/+0100,AFC Bournemouth,0-0,0-0,Norwich City,2019-10-19T14:00Z
+9,Sat Oct 19 2019,15:00,BST/+0100,Aston Villa,2-1,1-1,Brighton & Hove Albion,2019-10-19T14:00Z
+9,Sat Oct 19 2019,15:00,BST/+0100,Chelsea FC,1-0,0-0,Newcastle United,2019-10-19T14:00Z
+9,Sat Oct 19 2019,15:00,BST/+0100,Leicester City,2-1,1-1,Burnley FC,2019-10-19T14:00Z
+9,Sat Oct 19 2019,15:00,BST/+0100,Tottenham Hotspur,1-1,0-1,Watford FC,2019-10-19T14:00Z
+9,Sat Oct 19 2019,15:00,BST/+0100,Wolverhampton Wanderers,1-1,0-0,Southampton FC,2019-10-19T14:00Z
+9,Sat Oct 19 2019,17:30,BST/+0100,Crystal Palace,0-2,0-2,Manchester City,2019-10-19T16:30Z
+9,Sun Oct 20 2019,16:30,BST/+0100,Manchester United,1-1,1-0,Liverpool FC,2019-10-20T15:30Z
+9,Mon Oct 21 2019,20:00,BST/+0100,Sheffield United,1-0,1-0,Arsenal FC,2019-10-21T19:00Z
+10,Fri Oct 25 2019,20:00,BST/+0100,Southampton FC,0-9,0-5,Leicester City,2019-10-25T19:00Z
+10,Sat Oct 26 2019,12:30,BST/+0100,Manchester City,3-0,0-0,Aston Villa,2019-10-26T11:30Z
+10,Sat Oct 26 2019,15:00,BST/+0100,Brighton & Hove Albion,3-2,1-1,Everton FC,2019-10-26T14:00Z
+10,Sat Oct 26 2019,15:00,BST/+0100,Watford FC,0-0,0-0,AFC Bournemouth,2019-10-26T14:00Z
+10,Sat Oct 26 2019,15:00,BST/+0100,West Ham United,1-1,1-0,Sheffield United,2019-10-26T14:00Z
+10,Sat Oct 26 2019,17:30,BST/+0100,Burnley FC,2-4,0-2,Chelsea FC,2019-10-26T16:30Z
+10,Sun Oct 27 2019,16:30,GMT/+0000,Arsenal FC,2-2,2-1,Crystal Palace,2019-10-27T16:30Z
+10,Sun Oct 27 2019,16:30,GMT/+0000,Liverpool FC,2-1,0-1,Tottenham Hotspur,2019-10-27T16:30Z
+10,Sun Oct 27 2019,16:30,GMT/+0000,Norwich City,1-3,0-2,Manchester United,2019-10-27T16:30Z
+10,Sun Oct 27 2019,14:00,GMT/+0000,Newcastle United,1-1,1-0,Wolverhampton Wanderers,2019-10-27T14:00Z
+11,Sat Nov 2 2019,12:30,GMT/+0000,AFC Bournemouth,1-0,1-0,Manchester United,2019-11-02T12:30Z
+11,Sat Nov 2 2019,15:00,GMT/+0000,Arsenal FC,1-1,1-0,Wolverhampton Wanderers,2019-11-02T15:00Z
+11,Sat Nov 2 2019,15:00,GMT/+0000,Aston Villa,1-2,1-0,Liverpool FC,2019-11-02T15:00Z
+11,Sat Nov 2 2019,15:00,GMT/+0000,Brighton & Hove Albion,2-0,0-0,Norwich City,2019-11-02T15:00Z
+11,Sat Nov 2 2019,15:00,GMT/+0000,Manchester City,2-1,0-1,Southampton FC,2019-11-02T15:00Z
+11,Sat Nov 2 2019,15:00,GMT/+0000,Sheffield United,3-0,3-0,Burnley FC,2019-11-02T15:00Z
+11,Sat Nov 2 2019,15:00,GMT/+0000,West Ham United,2-3,0-2,Newcastle United,2019-11-02T15:00Z
+11,Sat Nov 2 2019,17:30,GMT/+0000,Watford FC,1-2,0-1,Chelsea FC,2019-11-02T17:30Z
+11,Sun Nov 3 2019,16:30,GMT/+0000,Everton FC,1-1,0-0,Tottenham Hotspur,2019-11-03T16:30Z
+11,Sun Nov 3 2019,14:00,GMT/+0000,Crystal Palace,0-2,0-0,Leicester City,2019-11-03T14:00Z
+12,Fri Nov 8 2019,20:00,GMT/+0000,Norwich City,0-2,0-1,Watford FC,2019-11-08T20:00Z
+12,Sat Nov 9 2019,12:30,GMT/+0000,Chelsea FC,2-0,0-0,Crystal Palace,2019-11-09T12:30Z
+12,Sat Nov 9 2019,15:00,GMT/+0000,Burnley FC,3-0,2-0,West Ham United,2019-11-09T15:00Z
+12,Sat Nov 9 2019,15:00,GMT/+0000,Newcastle United,2-1,1-1,AFC Bournemouth,2019-11-09T15:00Z
+12,Sat Nov 9 2019,15:00,GMT/+0000,Southampton FC,1-2,0-1,Everton FC,2019-11-09T15:00Z
+12,Sat Nov 9 2019,15:00,GMT/+0000,Tottenham Hotspur,1-1,0-0,Sheffield United,2019-11-09T15:00Z
+12,Sat Nov 9 2019,17:30,GMT/+0000,Leicester City,2-0,0-0,Arsenal FC,2019-11-09T17:30Z
+12,Sun Nov 10 2019,14:00,GMT/+0000,Manchester United,3-1,2-0,Brighton & Hove Albion,2019-11-10T14:00Z
+12,Sun Nov 10 2019,14:00,GMT/+0000,Wolverhampton Wanderers,2-1,1-0,Aston Villa,2019-11-10T14:00Z
+12,Sun Nov 10 2019,16:30,GMT/+0000,Liverpool FC,3-1,2-0,Manchester City,2019-11-10T16:30Z
+13,Sat Nov 23 2019,12:30,GMT/+0000,West Ham United,2-3,0-2,Tottenham Hotspur,2019-11-23T12:30Z
+13,Sat Nov 23 2019,15:00,GMT/+0000,AFC Bournemouth,1-2,0-2,Wolverhampton Wanderers,2019-11-23T15:00Z
+13,Sat Nov 23 2019,15:00,GMT/+0000,Arsenal FC,2-2,1-1,Southampton FC,2019-11-23T15:00Z
+13,Sat Nov 23 2019,15:00,GMT/+0000,Brighton & Hove Albion,0-2,0-0,Leicester City,2019-11-23T15:00Z
+13,Sat Nov 23 2019,15:00,GMT/+0000,Crystal Palace,1-2,0-0,Liverpool FC,2019-11-23T15:00Z
+13,Sat Nov 23 2019,15:00,GMT/+0000,Everton FC,0-2,0-0,Norwich City,2019-11-23T15:00Z
+13,Sat Nov 23 2019,15:00,GMT/+0000,Watford FC,0-3,0-0,Burnley FC,2019-11-23T15:00Z
+13,Sat Nov 23 2019,17:30,GMT/+0000,Manchester City,2-1,2-1,Chelsea FC,2019-11-23T17:30Z
+13,Sun Nov 24 2019,16:30,GMT/+0000,Sheffield United,3-3,1-0,Manchester United,2019-11-24T16:30Z
+13,Mon Nov 25 2019,20:00,GMT/+0000,Aston Villa,2-0,2-0,Newcastle United,2019-11-25T20:00Z
+14,Sat Nov 30 2019,12:30,GMT/+0000,Newcastle United,2-2,1-1,Manchester City,2019-11-30T12:30Z
+14,Sat Nov 30 2019,15:00,GMT/+0000,Burnley FC,0-2,0-1,Crystal Palace,2019-11-30T15:00Z
+14,Sat Nov 30 2019,15:00,GMT/+0000,Chelsea FC,0-1,0-0,West Ham United,2019-11-30T15:00Z
+14,Sat Nov 30 2019,15:00,GMT/+0000,Liverpool FC,2-1,2-0,Brighton & Hove Albion,2019-11-30T15:00Z
+14,Sat Nov 30 2019,15:00,GMT/+0000,Tottenham Hotspur,3-2,1-0,AFC Bournemouth,2019-11-30T15:00Z
+14,Sat Nov 30 2019,17:30,GMT/+0000,Southampton FC,2-1,0-1,Watford FC,2019-11-30T17:30Z
+14,Sun Dec 1 2019,14:00,GMT/+0000,Wolverhampton Wanderers,1-1,0-1,Sheffield United,2019-12-01T14:00Z
+14,Sun Dec 1 2019,16:30,GMT/+0000,Leicester City,2-1,0-1,Everton FC,2019-12-01T16:30Z
+14,Sun Dec 1 2019,16:30,GMT/+0000,Manchester United,2-2,1-1,Aston Villa,2019-12-01T16:30Z
+14,Sun Dec 1 2019,14:00,GMT/+0000,Norwich City,2-2,2-1,Arsenal FC,2019-12-01T14:00Z
+15,Tue Dec 3 2019,20:15,GMT/+0000,Burnley FC,1-4,0-1,Manchester City,2019-12-03T20:15Z
+15,Tue Dec 3 2019,19:30,GMT/+0000,Crystal Palace,1-0,0-0,AFC Bournemouth,2019-12-03T19:30Z
+15,Wed Dec 4 2019,19:30,GMT/+0000,Leicester City,2-0,0-0,Watford FC,2019-12-04T19:30Z
+15,Wed Dec 4 2019,19:30,GMT/+0000,Wolverhampton Wanderers,2-0,1-0,West Ham United,2019-12-04T19:30Z
+15,Wed Dec 4 2019,19:30,GMT/+0000,Manchester United,2-1,1-1,Tottenham Hotspur,2019-12-04T19:30Z
+15,Wed Dec 4 2019,19:30,GMT/+0000,Chelsea FC,2-1,1-1,Aston Villa,2019-12-04T19:30Z
+15,Wed Dec 4 2019,19:30,GMT/+0000,Southampton FC,2-1,2-0,Norwich City,2019-12-04T19:30Z
+15,Wed Dec 4 2019,20:15,GMT/+0000,Liverpool FC,5-2,4-2,Everton FC,2019-12-04T20:15Z
+15,Thu Dec 5 2019,20:15,GMT/+0000,Arsenal FC,1-2,0-1,Brighton & Hove Albion,2019-12-05T20:15Z
+15,Thu Dec 5 2019,19:30,GMT/+0000,Sheffield United,0-2,0-1,Newcastle United,2019-12-05T19:30Z
+16,Sat Dec 7 2019,15:00,GMT/+0000,AFC Bournemouth,0-3,0-2,Liverpool FC,2019-12-07T15:00Z
+16,Sat Dec 7 2019,15:00,GMT/+0000,Tottenham Hotspur,5-0,3-0,Burnley FC,2019-12-07T15:00Z
+16,Sat Dec 7 2019,15:00,GMT/+0000,Watford FC,0-0,0-0,Crystal Palace,2019-12-07T15:00Z
+16,Sat Dec 7 2019,17:30,GMT/+0000,Manchester City,1-2,0-2,Manchester United,2019-12-07T17:30Z
+16,Sat Dec 7 2019,12:30,GMT/+0000,Everton FC,3-1,1-0,Chelsea FC,2019-12-07T12:30Z
+16,Sun Dec 8 2019,14:00,GMT/+0000,Aston Villa,1-4,1-2,Leicester City,2019-12-08T14:00Z
+16,Sun Dec 8 2019,14:00,GMT/+0000,Newcastle United,2-1,0-0,Southampton FC,2019-12-08T14:00Z
+16,Sun Dec 8 2019,14:00,GMT/+0000,Norwich City,1-2,1-0,Sheffield United,2019-12-08T14:00Z
+16,Sun Dec 8 2019,16:30,GMT/+0000,Brighton & Hove Albion,2-2,2-2,Wolverhampton Wanderers,2019-12-08T16:30Z
+16,Mon Dec 9 2019,20:00,GMT/+0000,West Ham United,1-3,1-0,Arsenal FC,2019-12-09T20:00Z
+17,Sat Dec 14 2019,12:30,GMT/+0000,Liverpool FC,2-0,1-0,Watford FC,2019-12-14T12:30Z
+17,Sat Dec 14 2019,15:00,GMT/+0000,Burnley FC,1-0,0-0,Newcastle United,2019-12-14T15:00Z
+17,Sat Dec 14 2019,15:00,GMT/+0000,Chelsea FC,0-1,0-0,AFC Bournemouth,2019-12-14T15:00Z
+17,Sat Dec 14 2019,15:00,GMT/+0000,Leicester City,1-1,1-1,Norwich City,2019-12-14T15:00Z
+17,Sat Dec 14 2019,15:00,GMT/+0000,Sheffield United,2-0,0-0,Aston Villa,2019-12-14T15:00Z
+17,Sat Dec 14 2019,17:30,GMT/+0000,Southampton FC,0-1,0-1,West Ham United,2019-12-14T17:30Z
+17,Sun Dec 15 2019,14:00,GMT/+0000,Wolverhampton Wanderers,1-2,0-1,Tottenham Hotspur,2019-12-15T14:00Z
+17,Sun Dec 15 2019,16:30,GMT/+0000,Arsenal FC,0-3,0-3,Manchester City,2019-12-15T16:30Z
+17,Sun Dec 15 2019,14:00,GMT/+0000,Manchester United,1-1,0-1,Everton FC,2019-12-15T14:00Z
+17,Mon Dec 16 2019,19:45,GMT/+0000,Crystal Palace,1-1,0-0,Brighton & Hove Albion,2019-12-16T19:45Z
+18,Sat Dec 21 2019,12:30,GMT/+0000,Everton FC,0-0,0-0,Arsenal FC,2019-12-21T12:30Z
+18,Sat Dec 21 2019,15:00,GMT/+0000,AFC Bournemouth,0-1,0-0,Burnley FC,2019-12-21T15:00Z
+18,Sat Dec 21 2019,15:00,GMT/+0000,Aston Villa,1-3,0-2,Southampton FC,2019-12-21T15:00Z
+18,Sat Dec 21 2019,15:00,GMT/+0000,Brighton & Hove Albion,0-1,0-1,Sheffield United,2019-12-21T15:00Z
+18,Sat Dec 21 2019,15:00,GMT/+0000,Newcastle United,1-0,0-0,Crystal Palace,2019-12-21T15:00Z
+18,Sat Dec 21 2019,15:00,GMT/+0000,Norwich City,1-2,1-0,Wolverhampton Wanderers,2019-12-21T15:00Z
+18,Sat Dec 21 2019,17:30,GMT/+0000,Manchester City,3-1,2-1,Leicester City,2019-12-21T17:30Z
+18,Sun Dec 22 2019,16:30,GMT/+0000,Tottenham Hotspur,0-2,0-2,Chelsea FC,2019-12-22T16:30Z
+18,Sun Dec 22 2019,14:00,GMT/+0000,Watford FC,2-0,0-0,Manchester United,2019-12-22T14:00Z
+19,Thu Dec 26 2019,20:00,GMT/+0000,Leicester City,0-4,0-1,Liverpool FC,2019-12-26T20:00Z
+19,Thu Dec 26 2019,12:30,GMT/+0000,Tottenham Hotspur,2-1,0-1,Brighton & Hove Albion,2019-12-26T12:30Z
+19,Thu Dec 26 2019,15:00,GMT/+0000,AFC Bournemouth,1-1,1-0,Arsenal FC,2019-12-26T15:00Z
+19,Thu Dec 26 2019,15:00,GMT/+0000,Aston Villa,1-0,0-0,Norwich City,2019-12-26T15:00Z
+19,Thu Dec 26 2019,15:00,GMT/+0000,Chelsea FC,0-2,0-1,Southampton FC,2019-12-26T15:00Z
+19,Thu Dec 26 2019,15:00,GMT/+0000,Crystal Palace,2-1,0-0,West Ham United,2019-12-26T15:00Z
+19,Thu Dec 26 2019,15:00,GMT/+0000,Everton FC,1-0,0-0,Burnley FC,2019-12-26T15:00Z
+19,Thu Dec 26 2019,15:00,GMT/+0000,Sheffield United,1-1,1-1,Watford FC,2019-12-26T15:00Z
+19,Thu Dec 26 2019,17:30,GMT/+0000,Manchester United,4-1,3-1,Newcastle United,2019-12-26T17:30Z
+19,Fri Dec 27 2019,19:45,GMT/+0000,Wolverhampton Wanderers,3-2,0-1,Manchester City,2019-12-27T19:45Z
+20,Sat Dec 28 2019,19:45,GMT/+0000,Burnley FC,0-2,0-1,Manchester United,2019-12-28T19:45Z
+20,Sat Dec 28 2019,12:30,GMT/+0000,Brighton & Hove Albion,2-0,1-0,AFC Bournemouth,2019-12-28T12:30Z
+20,Sat Dec 28 2019,15:00,GMT/+0000,Newcastle United,1-2,0-1,Everton FC,2019-12-28T15:00Z
+20,Sat Dec 28 2019,15:00,GMT/+0000,Southampton FC,1-1,0-0,Crystal Palace,2019-12-28T15:00Z
+20,Sat Dec 28 2019,15:00,GMT/+0000,Watford FC,3-0,1-0,Aston Villa,2019-12-28T15:00Z
+20,Sat Dec 28 2019,17:30,GMT/+0000,Norwich City,2-2,1-0,Tottenham Hotspur,2019-12-28T17:30Z
+20,Sat Dec 28 2019,17:30,GMT/+0000,West Ham United,1-2,1-1,Leicester City,2019-12-28T17:30Z
+20,Sun Dec 29 2019,14:00,GMT/+0000,Arsenal FC,1-2,1-0,Chelsea FC,2019-12-29T14:00Z
+20,Sun Dec 29 2019,16:30,GMT/+0000,Liverpool FC,1-0,1-0,Wolverhampton Wanderers,2019-12-29T16:30Z
+20,Sun Dec 29 2019,18:00,GMT/+0000,Manchester City,2-0,0-0,Sheffield United,2019-12-29T18:00Z
+21,Wed Jan 1 2020,17:30,GMT/+0000,Norwich City,1-1,1-0,Crystal Palace,2020-01-01T17:30Z
+21,Wed Jan 1 2020,12:30,GMT/+0000,Brighton & Hove Albion,1-1,0-1,Chelsea FC,2020-01-01T12:30Z
+21,Wed Jan 1 2020,12:30,GMT/+0000,Burnley FC,1-2,0-2,Aston Villa,2020-01-01T12:30Z
+21,Wed Jan 1 2020,15:00,GMT/+0000,Newcastle United,0-3,0-2,Leicester City,2020-01-01T15:00Z
+21,Wed Jan 1 2020,15:00,GMT/+0000,Southampton FC,1-0,1-0,Tottenham Hotspur,2020-01-01T15:00Z
+21,Wed Jan 1 2020,15:00,GMT/+0000,Watford FC,2-1,1-0,Wolverhampton Wanderers,2020-01-01T15:00Z
+21,Wed Jan 1 2020,17:30,GMT/+0000,Manchester City,2-1,0-0,Everton FC,2020-01-01T17:30Z
+21,Wed Jan 1 2020,20:00,GMT/+0000,Arsenal FC,2-0,2-0,Manchester United,2020-01-01T20:00Z
+21,Wed Jan 1 2020,17:30,GMT/+0000,West Ham United,4-0,3-0,AFC Bournemouth,2020-01-01T17:30Z
+21,Thu Jan 2 2020,20:00,GMT/+0000,Liverpool FC,2-0,1-0,Sheffield United,2020-01-02T20:00Z
+22,Fri Jan 10 2020,20:00,GMT/+0000,Sheffield United,1-0,0-0,West Ham United,2020-01-10T20:00Z
+22,Sat Jan 11 2020,17:30,GMT/+0000,Tottenham Hotspur,0-1,0-1,Liverpool FC,2020-01-11T17:30Z
+22,Sat Jan 11 2020,12:30,GMT/+0000,Crystal Palace,1-1,0-1,Arsenal FC,2020-01-11T12:30Z
+22,Sat Jan 11 2020,15:00,GMT/+0000,Chelsea FC,3-0,2-0,Burnley FC,2020-01-11T15:00Z
+22,Sat Jan 11 2020,15:00,GMT/+0000,Everton FC,1-0,1-0,Brighton & Hove Albion,2020-01-11T15:00Z
+22,Sat Jan 11 2020,15:00,GMT/+0000,Leicester City,1-2,1-1,Southampton FC,2020-01-11T15:00Z
+22,Sat Jan 11 2020,15:00,GMT/+0000,Manchester United,4-0,1-0,Norwich City,2020-01-11T15:00Z
+22,Sat Jan 11 2020,15:00,GMT/+0000,Wolverhampton Wanderers,1-1,1-1,Newcastle United,2020-01-11T15:00Z
+22,Sun Jan 12 2020,14:00,GMT/+0000,AFC Bournemouth,0-3,0-1,Watford FC,2020-01-12T14:00Z
+22,Sun Jan 12 2020,16:30,GMT/+0000,Aston Villa,1-6,0-4,Manchester City,2020-01-12T16:30Z
+23,Sat Jan 18 2020,12:30,GMT/+0000,Watford FC,0-0,0-0,Tottenham Hotspur,2020-01-18T12:30Z
+23,Sat Jan 18 2020,15:00,GMT/+0000,Arsenal FC,1-1,1-0,Sheffield United,2020-01-18T15:00Z
+23,Sat Jan 18 2020,15:00,GMT/+0000,Brighton & Hove Albion,1-1,1-0,Aston Villa,2020-01-18T15:00Z
+23,Sat Jan 18 2020,15:00,GMT/+0000,Manchester City,2-2,0-1,Crystal Palace,2020-01-18T15:00Z
+23,Sat Jan 18 2020,15:00,GMT/+0000,Norwich City,1-0,1-0,AFC Bournemouth,2020-01-18T15:00Z
+23,Sat Jan 18 2020,15:00,GMT/+0000,Southampton FC,2-3,2-0,Wolverhampton Wanderers,2020-01-18T15:00Z
+23,Sat Jan 18 2020,15:00,GMT/+0000,West Ham United,1-1,1-1,Everton FC,2020-01-18T15:00Z
+23,Sat Jan 18 2020,17:30,GMT/+0000,Newcastle United,1-0,0-0,Chelsea FC,2020-01-18T17:30Z
+23,Sun Jan 19 2020,16:30,GMT/+0000,Liverpool FC,2-0,1-0,Manchester United,2020-01-19T16:30Z
+23,Sun Jan 19 2020,14:00,GMT/+0000,Burnley FC,2-1,0-1,Leicester City,2020-01-19T14:00Z
+24,Tue Jan 21 2020,19:30,GMT/+0000,AFC Bournemouth,3-1,2-0,Brighton & Hove Albion,2020-01-21T19:30Z
+24,Tue Jan 21 2020,19:30,GMT/+0000,Aston Villa,2-1,0-1,Watford FC,2020-01-21T19:30Z
+24,Tue Jan 21 2020,19:30,GMT/+0000,Everton FC,2-2,1-0,Newcastle United,2020-01-21T19:30Z
+24,Tue Jan 21 2020,19:30,GMT/+0000,Sheffield United,0-1,0-0,Manchester City,2020-01-21T19:30Z
+24,Tue Jan 21 2020,19:30,GMT/+0000,Crystal Palace,0-2,0-1,Southampton FC,2020-01-21T19:30Z
+24,Tue Jan 21 2020,20:15,GMT/+0000,Chelsea FC,2-2,1-0,Arsenal FC,2020-01-21T20:15Z
+24,Wed Jan 22 2020,20:15,GMT/+0000,Manchester United,0-2,0-1,Burnley FC,2020-01-22T20:15Z
+24,Wed Jan 22 2020,19:30,GMT/+0000,Leicester City,4-1,2-0,West Ham United,2020-01-22T19:30Z
+24,Wed Jan 22 2020,19:30,GMT/+0000,Tottenham Hotspur,2-1,1-0,Norwich City,2020-01-22T19:30Z
+24,Thu Jan 23 2020,20:00,GMT/+0000,Wolverhampton Wanderers,1-2,0-1,Liverpool FC,2020-01-23T20:00Z
+18,Wed Jan 29 2020,19:45,GMT/+0000,West Ham United,0-2,0-1,Liverpool FC,2020-01-29T19:45Z
+25,Sat Feb 1 2020,12:30,GMT/+0000,Leicester City,2-2,0-0,Chelsea FC,2020-02-01T12:30Z
+25,Sat Feb 1 2020,15:00,GMT/+0000,AFC Bournemouth,2-1,2-0,Aston Villa,2020-02-01T15:00Z
+25,Sat Feb 1 2020,15:00,GMT/+0000,Crystal Palace,0-1,0-0,Sheffield United,2020-02-01T15:00Z
+25,Sat Feb 1 2020,15:00,GMT/+0000,Liverpool FC,4-0,0-0,Southampton FC,2020-02-01T15:00Z
+25,Sat Feb 1 2020,15:00,GMT/+0000,Newcastle United,0-0,0-0,Norwich City,2020-02-01T15:00Z
+25,Sat Feb 1 2020,15:00,GMT/+0000,Watford FC,2-3,2-2,Everton FC,2020-02-01T15:00Z
+25,Sat Feb 1 2020,15:00,GMT/+0000,West Ham United,3-3,2-0,Brighton & Hove Albion,2020-02-01T15:00Z
+25,Sat Feb 1 2020,17:30,GMT/+0000,Manchester United,0-0,0-0,Wolverhampton Wanderers,2020-02-01T17:30Z
+25,Sun Feb 2 2020,16:30,GMT/+0000,Tottenham Hotspur,2-0,0-0,Manchester City,2020-02-02T16:30Z
+25,Sun Feb 2 2020,14:00,GMT/+0000,Burnley FC,0-0,0-0,Arsenal FC,2020-02-02T14:00Z
+26,Sat Feb 8 2020,17:30,GMT/+0000,Brighton & Hove Albion,1-1,0-1,Watford FC,2020-02-08T17:30Z
+26,Sat Feb 8 2020,12:30,GMT/+0000,Everton FC,3-1,1-0,Crystal Palace,2020-02-08T12:30Z
+26,Sun Feb 9 2020,14:00,GMT/+0000,Sheffield United,2-1,1-1,AFC Bournemouth,2020-02-09T14:00Z
+26,Fri Feb 14 2020,20:00,GMT/+0000,Wolverhampton Wanderers,0-0,0-0,Leicester City,2020-02-14T20:00Z
+26,Sat Feb 15 2020,17:30,GMT/+0000,Norwich City,0-1,0-0,Liverpool FC,2020-02-15T17:30Z
+26,Sat Feb 15 2020,12:30,GMT/+0000,Southampton FC,1-2,1-1,Burnley FC,2020-02-15T12:30Z
+26,Sun Feb 16 2020,14:00,GMT/+0000,Aston Villa,2-3,1-2,Tottenham Hotspur,2020-02-16T14:00Z
+26,Sun Feb 16 2020,16:30,GMT/+0000,Arsenal FC,4-0,0-0,Newcastle United,2020-02-16T16:30Z
+26,Mon Feb 17 2020,20:00,GMT/+0000,Chelsea FC,0-2,0-1,Manchester United,2020-02-17T20:00Z
+26,Wed Feb 19 2020,19:30,GMT/+0000,Manchester City,2-0,1-0,West Ham United,2020-02-19T19:30Z
+27,Sat Feb 22 2020,15:00,GMT/+0000,Burnley FC,3-0,0-0,AFC Bournemouth,2020-02-22T15:00Z
+27,Sat Feb 22 2020,15:00,GMT/+0000,Crystal Palace,1-0,1-0,Newcastle United,2020-02-22T15:00Z
+27,Sat Feb 22 2020,15:00,GMT/+0000,Sheffield United,1-1,1-1,Brighton & Hove Albion,2020-02-22T15:00Z
+27,Sat Feb 22 2020,15:00,GMT/+0000,Southampton FC,2-0,1-0,Aston Villa,2020-02-22T15:00Z
+27,Sat Feb 22 2020,17:30,GMT/+0000,Leicester City,0-1,0-0,Manchester City,2020-02-22T17:30Z
+27,Sat Feb 22 2020,12:30,GMT/+0000,Chelsea FC,2-1,1-0,Tottenham Hotspur,2020-02-22T12:30Z
+27,Sun Feb 23 2020,14:00,GMT/+0000,Manchester United,3-0,1-0,Watford FC,2020-02-23T14:00Z
+27,Sun Feb 23 2020,14:00,GMT/+0000,Wolverhampton Wanderers,3-0,2-0,Norwich City,2020-02-23T14:00Z
+27,Sun Feb 23 2020,16:30,GMT/+0000,Arsenal FC,3-2,2-2,Everton FC,2020-02-23T16:30Z
+27,Mon Feb 24 2020,20:00,GMT/+0000,Liverpool FC,3-2,1-1,West Ham United,2020-02-24T20:00Z
+28,Fri Feb 28 2020,20:00,GMT/+0000,Norwich City,1-0,0-0,Leicester City,2020-02-28T20:00Z
+28,Sat Feb 29 2020,12:30,GMT/+0000,Brighton & Hove Albion,0-1,0-0,Crystal Palace,2020-02-29T12:30Z
+28,Sat Feb 29 2020,15:00,GMT/+0000,AFC Bournemouth,2-2,0-1,Chelsea FC,2020-02-29T15:00Z
+28,Sat Feb 29 2020,15:00,GMT/+0000,Newcastle United,0-0,0-0,Burnley FC,2020-02-29T15:00Z
+28,Sat Feb 29 2020,15:00,GMT/+0000,West Ham United,3-1,2-1,Southampton FC,2020-02-29T15:00Z
+28,Sat Feb 29 2020,17:30,GMT/+0000,Watford FC,3-0,0-0,Liverpool FC,2020-02-29T17:30Z
+28,Sun Mar 1 2020,14:00,GMT/+0000,Tottenham Hotspur,2-3,2-1,Wolverhampton Wanderers,2020-03-01T14:00Z
+28,Sun Mar 1 2020,14:00,GMT/+0000,Everton FC,1-1,1-1,Manchester United,2020-03-01T14:00Z
+29,Sat Mar 7 2020,17:30,GMT/+0000,Burnley FC,1-1,1-0,Tottenham Hotspur,2020-03-07T17:30Z
+29,Sat Mar 7 2020,15:00,GMT/+0000,Wolverhampton Wanderers,0-0,0-0,Brighton & Hove Albion,2020-03-07T15:00Z
+29,Sat Mar 7 2020,12:30,GMT/+0000,Liverpool FC,2-1,2-1,AFC Bournemouth,2020-03-07T12:30Z
+29,Sat Mar 7 2020,15:00,GMT/+0000,Arsenal FC,1-0,0-0,West Ham United,2020-03-07T15:00Z
+29,Sat Mar 7 2020,15:00,GMT/+0000,Crystal Palace,1-0,1-0,Watford FC,2020-03-07T15:00Z
+29,Sat Mar 7 2020,15:00,GMT/+0000,Sheffield United,1-0,1-0,Norwich City,2020-03-07T15:00Z
+29,Sat Mar 7 2020,15:00,GMT/+0000,Southampton FC,0-1,0-0,Newcastle United,2020-03-07T15:00Z
+29,Sun Mar 8 2020,16:30,GMT/+0000,Manchester United,2-0,1-0,Manchester City,2020-03-08T16:30Z
+29,Sun Mar 8 2020,14:00,GMT/+0000,Chelsea FC,4-0,2-0,Everton FC,2020-03-08T14:00Z
+29,Mon Mar 9 2020,20:00,GMT/+0000,Leicester City,4-0,1-0,Aston Villa,2020-03-09T20:00Z
+28,Wed Jun 17 2020,18:00,BST/+0100,Aston Villa,0-0,0-0,Sheffield United,2020-06-17T17:00Z
+28,Wed Jun 17 2020,20:15,BST/+0100,Manchester City,3-0,1-0,Arsenal FC,2020-06-17T19:15Z
+30,Fri Jun 19 2020,18:00,BST/+0100,Norwich City,0-3,0-0,Southampton FC,2020-06-19T17:00Z
+30,Fri Jun 19 2020,20:15,BST/+0100,Tottenham Hotspur,1-1,1-0,Manchester United,2020-06-19T19:15Z
+30,Sat Jun 20 2020,15:00,BST/+0100,Brighton & Hove Albion,2-1,0-0,Arsenal FC,2020-06-20T14:00Z
+30,Sat Jun 20 2020,17:30,BST/+0100,West Ham United,0-2,0-0,Wolverhampton Wanderers,2020-06-20T16:30Z
+30,Sat Jun 20 2020,19:45,BST/+0100,AFC Bournemouth,0-2,0-2,Crystal Palace,2020-06-20T18:45Z
+30,Sat Jun 20 2020,12:30,BST/+0100,Watford FC,1-1,0-0,Leicester City,2020-06-20T11:30Z
+30,Sun Jun 21 2020,14:00,BST/+0100,Newcastle United,3-0,0-0,Sheffield United,2020-06-21T13:00Z
+30,Sun Jun 21 2020,16:15,BST/+0100,Aston Villa,1-2,1-0,Chelsea FC,2020-06-21T15:15Z
+30,Sun Jun 21 2020,19:00,BST/+0100,Everton FC,0-0,0-0,Liverpool FC,2020-06-21T18:00Z
+30,Mon Jun 22 2020,20:00,BST/+0100,Manchester City,5-0,3-0,Burnley FC,2020-06-22T19:00Z
+31,Tue Jun 23 2020,20:15,BST/+0100,Tottenham Hotspur,2-0,0-0,West Ham United,2020-06-23T19:15Z
+31,Tue Jun 23 2020,18:00,BST/+0100,Leicester City,0-0,0-0,Brighton & Hove Albion,2020-06-23T17:00Z
+31,Wed Jun 24 2020,18:00,BST/+0100,Manchester United,3-0,2-0,Sheffield United,2020-06-24T17:00Z
+31,Wed Jun 24 2020,18:00,BST/+0100,Newcastle United,1-1,0-0,Aston Villa,2020-06-24T17:00Z
+31,Wed Jun 24 2020,18:00,BST/+0100,Norwich City,0-1,0-0,Everton FC,2020-06-24T17:00Z
+31,Wed Jun 24 2020,18:00,BST/+0100,Wolverhampton Wanderers,1-0,0-0,AFC Bournemouth,2020-06-24T17:00Z
+31,Wed Jun 24 2020,20:15,BST/+0100,Liverpool FC,4-0,2-0,Crystal Palace,2020-06-24T19:15Z
+31,Thu Jun 25 2020,18:00,BST/+0100,Southampton FC,0-2,0-1,Arsenal FC,2020-06-25T17:00Z
+31,Thu Jun 25 2020,20:15,BST/+0100,Chelsea FC,2-1,1-0,Manchester City,2020-06-25T19:15Z
+31,Thu Jun 25 2020,18:00,BST/+0100,Burnley FC,1-0,0-0,Watford FC,2020-06-25T17:00Z
+32,Sat Jun 27 2020,12:30,BST/+0100,Aston Villa,0-1,0-0,Wolverhampton Wanderers,2020-06-27T11:30Z
+32,Sun Jun 28 2020,16:30,BST/+0100,Watford FC,1-3,0-1,Southampton FC,2020-06-28T15:30Z
+32,Mon Jun 29 2020,20:00,BST/+0100,Crystal Palace,0-1,0-0,Burnley FC,2020-06-29T19:00Z
+32,Tue Jun 30 2020,20:15,BST/+0100,Brighton & Hove Albion,0-3,0-2,Manchester United,2020-06-30T19:15Z
+32,Wed Jul 1 2020,18:00,BST/+0100,AFC Bournemouth,1-4,0-2,Newcastle United,2020-07-01T17:00Z
+32,Wed Jul 1 2020,18:00,BST/+0100,Arsenal FC,4-0,2-0,Norwich City,2020-07-01T17:00Z
+32,Wed Jul 1 2020,18:00,BST/+0100,Everton FC,2-1,2-0,Leicester City,2020-07-01T17:00Z
+32,Wed Jul 1 2020,20:15,BST/+0100,West Ham United,3-2,1-1,Chelsea FC,2020-07-01T19:15Z
+32,Thu Jul 2 2020,20:15,BST/+0100,Manchester City,4-0,3-0,Liverpool FC,2020-07-02T19:15Z
+32,Thu Jul 2 2020,18:00,BST/+0100,Sheffield United,3-1,1-0,Tottenham Hotspur,2020-07-02T17:00Z
+33,Sat Jul 4 2020,12:30,BST/+0100,Norwich City,0-1,0-1,Brighton & Hove Albion,2020-07-04T11:30Z
+33,Sat Jul 4 2020,15:00,BST/+0100,Leicester City,3-0,0-0,Crystal Palace,2020-07-04T14:00Z
+33,Sat Jul 4 2020,15:00,BST/+0100,Manchester United,5-2,3-1,AFC Bournemouth,2020-07-04T14:00Z
+33,Sat Jul 4 2020,17:30,BST/+0100,Wolverhampton Wanderers,0-2,0-1,Arsenal FC,2020-07-04T16:30Z
+33,Sat Jul 4 2020,20:00,BST/+0100,Chelsea FC,3-0,2-0,Watford FC,2020-07-04T19:00Z
+33,Sun Jul 5 2020,14:15,BST/+0100,Newcastle United,2-2,1-1,West Ham United,2020-07-05T13:15Z
+33,Sun Jul 5 2020,16:30,BST/+0100,Liverpool FC,2-0,0-0,Aston Villa,2020-07-05T15:30Z
+33,Sun Jul 5 2020,19:00,BST/+0100,Southampton FC,1-0,1-0,Manchester City,2020-07-05T18:00Z
+33,Sun Jul 5 2020,12:00,BST/+0100,Burnley FC,1-1,1-0,Sheffield United,2020-07-05T11:00Z
+33,Mon Jul 6 2020,20:00,BST/+0100,Tottenham Hotspur,1-0,1-0,Everton FC,2020-07-06T19:00Z
+34,Tue Jul 7 2020,18:00,BST/+0100,Watford FC,2-1,1-1,Norwich City,2020-07-07T17:00Z
+34,Tue Jul 7 2020,20:15,BST/+0100,Arsenal FC,1-1,1-0,Leicester City,2020-07-07T19:15Z
+34,Tue Jul 7 2020,18:00,BST/+0100,Crystal Palace,2-3,1-2,Chelsea FC,2020-07-07T17:00Z
+34,Wed Jul 8 2020,18:00,BST/+0100,Manchester City,5-0,2-0,Newcastle United,2020-07-08T17:00Z
+34,Wed Jul 8 2020,18:00,BST/+0100,Sheffield United,1-0,0-0,Wolverhampton Wanderers,2020-07-08T17:00Z
+34,Wed Jul 8 2020,18:00,BST/+0100,West Ham United,0-1,0-1,Burnley FC,2020-07-08T17:00Z
+34,Wed Jul 8 2020,20:15,BST/+0100,Brighton & Hove Albion,1-3,1-2,Liverpool FC,2020-07-08T19:15Z
+34,Thu Jul 9 2020,18:00,BST/+0100,Everton FC,1-1,1-1,Southampton FC,2020-07-09T17:00Z
+34,Thu Jul 9 2020,20:15,BST/+0100,Aston Villa,0-3,0-2,Manchester United,2020-07-09T19:15Z
+34,Thu Jul 9 2020,18:00,BST/+0100,AFC Bournemouth,0-0,0-0,Tottenham Hotspur,2020-07-09T17:00Z
+35,Sat Jul 11 2020,12:30,BST/+0100,Watford FC,2-1,0-1,Newcastle United,2020-07-11T11:30Z
+35,Sat Jul 11 2020,15:00,BST/+0100,Liverpool FC,1-1,1-0,Burnley FC,2020-07-11T14:00Z
+35,Sat Jul 11 2020,17:30,BST/+0100,Sheffield United,3-0,2-0,Chelsea FC,2020-07-11T16:30Z
+35,Sat Jul 11 2020,20:00,BST/+0100,Brighton & Hove Albion,0-5,0-2,Manchester City,2020-07-11T19:00Z
+35,Sat Jul 11 2020,12:30,BST/+0100,Norwich City,0-4,0-2,West Ham United,2020-07-11T11:30Z
+35,Sun Jul 12 2020,12:00,BST/+0100,Wolverhampton Wanderers,3-0,1-0,Everton FC,2020-07-12T11:00Z
+35,Sun Jul 12 2020,14:15,BST/+0100,Aston Villa,2-0,1-0,Crystal Palace,2020-07-12T13:15Z
+35,Sun Jul 12 2020,16:30,BST/+0100,Tottenham Hotspur,2-1,1-1,Arsenal FC,2020-07-12T15:30Z
+35,Sun Jul 12 2020,19:00,BST/+0100,AFC Bournemouth,4-1,0-1,Leicester City,2020-07-12T18:00Z
+35,Mon Jul 13 2020,20:00,BST/+0100,Manchester United,2-2,2-1,Southampton FC,2020-07-13T19:00Z
+36,Tue Jul 14 2020,20:15,BST/+0100,Chelsea FC,1-0,1-0,Norwich City,2020-07-14T19:15Z
+36,Wed Jul 15 2020,18:00,BST/+0100,Manchester City,2-1,2-0,AFC Bournemouth,2020-07-15T17:00Z
+36,Wed Jul 15 2020,18:00,BST/+0100,Newcastle United,1-3,0-1,Tottenham Hotspur,2020-07-15T17:00Z
+36,Wed Jul 15 2020,20:15,BST/+0100,Arsenal FC,2-1,2-1,Liverpool FC,2020-07-15T19:15Z
+36,Wed Jul 15 2020,18:00,BST/+0100,Burnley FC,1-1,0-0,Wolverhampton Wanderers,2020-07-15T17:00Z
+36,Thu Jul 16 2020,18:00,BST/+0100,Everton FC,1-1,0-0,Aston Villa,2020-07-16T17:00Z
+36,Thu Jul 16 2020,18:00,BST/+0100,Leicester City,2-0,1-0,Sheffield United,2020-07-16T17:00Z
+36,Thu Jul 16 2020,20:15,BST/+0100,Crystal Palace,0-2,0-1,Manchester United,2020-07-16T19:15Z
+36,Thu Jul 16 2020,20:15,BST/+0100,Southampton FC,1-1,0-1,Brighton & Hove Albion,2020-07-16T19:15Z
+36,Fri Jul 17 2020,20:00,BST/+0100,West Ham United,3-1,3-0,Watford FC,2020-07-17T19:00Z
+37,Sat Jul 18 2020,17:30,BST/+0100,Norwich City,0-2,0-1,Burnley FC,2020-07-18T16:30Z
+37,Sun Jul 19 2020,16:00,BST/+0100,Tottenham Hotspur,3-0,3-0,Leicester City,2020-07-19T15:00Z
+37,Sun Jul 19 2020,14:00,BST/+0100,AFC Bournemouth,0-2,0-1,Southampton FC,2020-07-19T13:00Z
+37,Mon Jul 20 2020,18:00,BST/+0100,Brighton & Hove Albion,0-0,0-0,Newcastle United,2020-07-20T17:00Z
+37,Mon Jul 20 2020,18:00,BST/+0100,Sheffield United,0-1,0-0,Everton FC,2020-07-20T17:00Z
+37,Mon Jul 20 2020,20:15,BST/+0100,Wolverhampton Wanderers,2-0,1-0,Crystal Palace,2020-07-20T19:15Z
+37,Tue Jul 21 2020,20:15,BST/+0100,Aston Villa,1-0,1-0,Arsenal FC,2020-07-21T19:15Z
+37,Tue Jul 21 2020,18:00,BST/+0100,Watford FC,0-4,0-2,Manchester City,2020-07-21T17:00Z
+37,Wed Jul 22 2020,18:00,BST/+0100,Manchester United,1-1,0-1,West Ham United,2020-07-22T17:00Z
+37,Wed Jul 22 2020,20:15,BST/+0100,Liverpool FC,5-3,3-1,Chelsea FC,2020-07-22T19:15Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Arsenal FC,3-2,3-1,Watford FC,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Burnley FC,1-2,1-1,Brighton & Hove Albion,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Chelsea FC,2-0,2-0,Wolverhampton Wanderers,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Crystal Palace,1-1,0-1,Tottenham Hotspur,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Everton FC,1-3,1-2,AFC Bournemouth,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Leicester City,0-2,0-0,Manchester United,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Manchester City,5-0,2-0,Norwich City,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Newcastle United,1-3,1-1,Liverpool FC,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,Southampton FC,3-1,0-1,Sheffield United,2020-07-26T15:00Z
+38,Sun Jul 26 2020,16:00,BST/+0100,West Ham United,1-1,0-0,Aston Villa,2020-07-26T15:00Z

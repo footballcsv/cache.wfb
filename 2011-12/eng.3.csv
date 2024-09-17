@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 6 2011,15:00,BST/+0100,Brentford FC,2-0,1-0,Yeovil Town,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Carlisle United,0-3,0-3,Notts County,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Charlton Athletic,3-0,1-0,AFC Bournemouth,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Huddersfield Town,1-1,0-0,Bury FC,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Milton Keynes Dons,2-2,0-1,Hartlepool United,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Oldham Athletic,0-2,0-0,Sheffield United,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Preston North End,2-4,0-1,Colchester United,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Sheffield Wednesday,2-0,1-0,Rochdale AFC,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Stevenage FC,0-0,0-0,Exeter City,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Tranmere Rovers,1-0,0-0,Chesterfield FC,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Walsall FC,1-0,1-0,Leyton Orient,2011-08-06T14:00Z
+1,Sat Aug 6 2011,15:00,BST/+0100,Wycombe Wanderers,1-1,1-1,Scunthorpe United,2011-08-06T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,AFC Bournemouth,2-0,1-0,Sheffield Wednesday,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Bury FC,0-2,0-0,Carlisle United,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Chesterfield FC,1-1,0-1,Stevenage FC,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Colchester United,1-1,1-0,Wycombe Wanderers,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Exeter City,0-2,0-1,Milton Keynes Dons,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Hartlepool United,1-1,1-1,Walsall FC,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Leyton Orient,0-1,0-0,Tranmere Rovers,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Notts County,1-2,0-2,Charlton Athletic,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Rochdale AFC,2-2,1-1,Huddersfield Town,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Scunthorpe United,1-1,0-1,Preston North End,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Sheffield United,2-0,0-0,Brentford FC,2011-08-13T14:00Z
+2,Sat Aug 13 2011,15:00,BST/+0100,Yeovil Town,3-1,0-0,Oldham Athletic,2011-08-13T14:00Z
+3,Tue Aug 16 2011,19:45,BST/+0100,AFC Bournemouth,1-3,0-1,Stevenage FC,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Bury FC,2-1,2-0,Sheffield Wednesday,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Chesterfield FC,0-2,0-1,Preston North End,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Colchester United,0-2,0-2,Charlton Athletic,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Exeter City,1-2,0-2,Brentford FC,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Hartlepool United,0-0,0-0,Huddersfield Town,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Leyton Orient,1-3,1-2,Wycombe Wanderers,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Notts County,3-2,0-1,Tranmere Rovers,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Rochdale AFC,0-0,0-0,Carlisle United,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Scunthorpe United,1-2,0-1,Oldham Athletic,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Sheffield United,3-2,0-0,Walsall FC,2011-08-16T18:45Z
+3,Tue Aug 16 2011,19:45,BST/+0100,Yeovil Town,0-1,0-1,Milton Keynes Dons,2011-08-16T18:45Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Brentford FC,5-0,1-0,Leyton Orient,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Carlisle United,2-1,0-0,AFC Bournemouth,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Charlton Athletic,2-2,1-0,Scunthorpe United,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Huddersfield Town,3-2,1-2,Colchester United,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Milton Keynes Dons,6-2,1-1,Chesterfield FC,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Oldham Athletic,2-0,2-0,Rochdale AFC,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Preston North End,1-0,1-0,Exeter City,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Sheffield Wednesday,2-1,0-1,Notts County,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Stevenage FC,2-2,0-2,Hartlepool United,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Tranmere Rovers,1-1,0-1,Sheffield United,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Walsall FC,1-1,1-1,Yeovil Town,2011-08-20T14:00Z
+4,Sat Aug 20 2011,15:00,BST/+0100,Wycombe Wanderers,0-2,0-1,Bury FC,2011-08-20T14:00Z
+5,Sat Aug 27 2011,13:00,BST/+0100,Yeovil Town,0-1,0-1,Sheffield United,2011-08-27T12:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,AFC Bournemouth,0-2,0-1,Walsall FC,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Brentford FC,0-2,0-1,Tranmere Rovers,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Bury FC,1-2,1-0,Charlton Athletic,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Colchester United,4-1,2-1,Oldham Athletic,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Exeter City,2-1,1-1,Chesterfield FC,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Huddersfield Town,3-0,0-0,Wycombe Wanderers,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Leyton Orient,1-2,0-0,Carlisle United,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Milton Keynes Dons,1-0,0-0,Stevenage FC,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Preston North End,2-0,0-0,Notts County,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Rochdale AFC,1-3,1-1,Hartlepool United,2011-08-27T14:00Z
+5,Sat Aug 27 2011,15:00,BST/+0100,Sheffield Wednesday,3-2,2-0,Scunthorpe United,2011-08-27T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Carlisle United,1-3,0-1,Milton Keynes Dons,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Chesterfield FC,0-0,0-0,Leyton Orient,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Hartlepool United,2-0,1-0,Exeter City,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Notts County,3-1,1-0,AFC Bournemouth,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Oldham Athletic,1-1,1-1,Huddersfield Town,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Scunthorpe United,1-1,1-0,Colchester United,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Sheffield United,4-0,1-0,Bury FC,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Stevenage FC,4-2,3-1,Rochdale AFC,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Tranmere Rovers,0-0,0-0,Yeovil Town,2011-09-03T14:00Z
+6,Sat Sep 3 2011,15:00,BST/+0100,Walsall FC,0-1,0-1,Brentford FC,2011-09-03T14:00Z
+6,Mon Sep 5 2011,19:45,BST/+0100,Charlton Athletic,1-1,1-0,Sheffield Wednesday,2011-09-05T18:45Z
+7,Fri Sep 9 2011,19:45,BST/+0100,Preston North End,4-3,1-1,Yeovil Town,2011-09-09T18:45Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Wycombe Wanderers,0-1,0-1,Brentford FC,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,AFC Bournemouth,0-3,0-1,Chesterfield FC,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Bury FC,2-4,1-3,Rochdale AFC,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Carlisle United,1-2,0-2,Hartlepool United,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Charlton Athletic,2-0,1-0,Exeter City,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Colchester United,1-1,1-0,Leyton Orient,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Huddersfield Town,2-0,1-0,Tranmere Rovers,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Notts County,2-1,1-0,Walsall FC,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Oldham Athletic,1-1,1-1,Stevenage FC,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Scunthorpe United,1-1,1-0,Sheffield United,2011-09-10T14:00Z
+7,Sat Sep 10 2011,15:00,BST/+0100,Sheffield Wednesday,3-1,0-0,Milton Keynes Dons,2011-09-10T14:00Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Rochdale AFC,1-0,0-0,Scunthorpe United,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Brentford FC,1-1,0-0,Colchester United,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Chesterfield FC,1-0,0-0,Bury FC,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Exeter City,1-1,1-1,Notts County,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Leyton Orient,1-3,1-1,AFC Bournemouth,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Yeovil Town,1-0,1-0,Wycombe Wanderers,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Sheffield United,0-3,0-3,Huddersfield Town,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Stevenage FC,5-1,4-0,Sheffield Wednesday,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Tranmere Rovers,1-2,0-2,Carlisle United,2011-09-13T18:45Z
+8,Tue Sep 13 2011,19:45,BST/+0100,Walsall FC,0-1,0-1,Oldham Athletic,2011-09-13T18:45Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Yeovil Town,2-3,2-1,Sheffield Wednesday,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Walsall FC,2-2,1-0,Scunthorpe United,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Tranmere Rovers,2-0,1-0,Wycombe Wanderers,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Brentford FC,1-3,1-2,Preston North End,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Chesterfield FC,4-1,2-1,Carlisle United,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Exeter City,0-2,0-1,AFC Bournemouth,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Hartlepool United,3-0,1-0,Bury FC,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Leyton Orient,1-3,1-0,Oldham Athletic,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Milton Keynes Dons,1-1,0-1,Huddersfield Town,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Rochdale AFC,2-3,0-2,Charlton Athletic,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Sheffield United,3-0,2-0,Colchester United,2011-09-17T14:00Z
+9,Sat Sep 17 2011,15:00,BST/+0100,Stevenage FC,0-2,0-1,Notts County,2011-09-17T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Sheffield Wednesday,3-0,2-0,Exeter City,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Scunthorpe United,2-1,1-1,Yeovil Town,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Preston North End,2-1,1-0,Tranmere Rovers,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,AFC Bournemouth,1-2,1-1,Hartlepool United,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Bury FC,0-0,0-0,Milton Keynes Dons,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Carlisle United,1-0,1-0,Stevenage FC,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Charlton Athletic,3-1,2-0,Chesterfield FC,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Colchester United,1-0,1-0,Walsall FC,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Huddersfield Town,2-2,1-0,Leyton Orient,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Notts County,2-0,1-0,Rochdale AFC,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Oldham Athletic,0-2,0-1,Brentford FC,2011-09-24T14:00Z
+10,Sat Sep 24 2011,15:00,BST/+0100,Wycombe Wanderers,1-0,1-0,Sheffield United,2011-09-24T14:00Z
+8,Tue Sep 27 2011,19:45,BST/+0100,Milton Keynes Dons,1-1,1-0,Charlton Athletic,2011-09-27T18:45Z
+6,Tue Sep 27 2011,19:45,BST/+0100,Wycombe Wanderers,3-4,3-2,Preston North End,2011-09-27T18:45Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Yeovil Town,1-3,1-1,Bury FC,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Brentford FC,0-4,0-1,Huddersfield Town,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Chesterfield FC,0-1,0-1,Colchester United,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Exeter City,2-0,1-0,Oldham Athletic,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Hartlepool United,0-1,0-1,Sheffield Wednesday,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Leyton Orient,2-1,2-1,Preston North End,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Milton Keynes Dons,3-0,1-0,Notts County,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Rochdale AFC,2-1,1-1,Wycombe Wanderers,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Sheffield United,0-2,0-0,Charlton Athletic,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Stevenage FC,1-2,0-1,Scunthorpe United,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Tranmere Rovers,0-0,0-0,AFC Bournemouth,2011-10-01T14:00Z
+11,Sat Oct 1 2011,15:00,BST/+0100,Walsall FC,1-1,1-0,Carlisle United,2011-10-01T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Wycombe Wanderers,1-1,0-0,Walsall FC,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,AFC Bournemouth,1-1,0-1,Rochdale AFC,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Bury FC,2-0,1-0,Exeter City,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Carlisle United,2-2,1-1,Brentford FC,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Charlton Athletic,1-1,0-1,Tranmere Rovers,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Colchester United,2-2,1-1,Yeovil Town,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Huddersfield Town,2-1,1-0,Stevenage FC,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Scunthorpe United,2-3,1-0,Leyton Orient,2011-10-08T14:00Z
+12,Sat Oct 8 2011,15:00,BST/+0100,Sheffield Wednesday,3-1,1-0,Chesterfield FC,2011-10-08T14:00Z
+12,Sun Oct 9 2011,16:30,BST/+0100,Notts County,3-0,1-0,Hartlepool United,2011-10-09T15:30Z
+12,Mon Oct 10 2011,19:45,BST/+0100,Oldham Athletic,2-1,1-0,Milton Keynes Dons,2011-10-10T18:45Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Yeovil Town,0-3,0-0,Carlisle United,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Walsall FC,1-0,1-0,Preston North End,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Brentford FC,0-0,0-0,Scunthorpe United,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Chesterfield FC,1-3,0-2,Notts County,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Exeter City,0-4,0-2,Huddersfield Town,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Hartlepool United,1-3,0-2,Wycombe Wanderers,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Leyton Orient,1-0,1-0,Bury FC,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Milton Keynes Dons,2-2,1-0,AFC Bournemouth,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Rochdale AFC,2-2,1-2,Colchester United,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Stevenage FC,1-0,1-0,Charlton Athletic,2011-10-15T14:00Z
+13,Sat Oct 15 2011,15:00,BST/+0100,Tranmere Rovers,1-0,1-0,Oldham Athletic,2011-10-15T14:00Z
+13,Sun Oct 16 2011,12:00,BST/+0100,Sheffield United,2-2,2-0,Sheffield Wednesday,2011-10-16T11:00Z
+12,Wed Oct 19 2011,19:45,BST/+0100,Preston North End,2-4,1-2,Sheffield United,2011-10-19T18:45Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Huddersfield Town,3-1,2-0,Preston North End,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,AFC Bournemouth,1-2,1-1,Bury FC,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Charlton Athletic,4-0,3-0,Carlisle United,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Chesterfield FC,2-3,1-2,Hartlepool United,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Exeter City,3-1,1-1,Rochdale AFC,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Stevenage FC,0-0,0-0,Yeovil Town,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Leyton Orient,1-1,0-0,Sheffield United,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Milton Keynes Dons,0-0,0-0,Scunthorpe United,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Notts County,1-1,1-0,Brentford FC,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Oldham Athletic,2-0,0-0,Wycombe Wanderers,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Sheffield Wednesday,2-0,0-0,Colchester United,2011-10-22T14:00Z
+14,Sat Oct 22 2011,15:00,BST/+0100,Tranmere Rovers,2-1,0-0,Walsall FC,2011-10-22T14:00Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Hartlepool United,0-2,0-0,Tranmere Rovers,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Brentford FC,0-1,0-0,Stevenage FC,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Bury FC,2-2,1-1,Notts County,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Carlisle United,3-2,0-1,Sheffield Wednesday,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Colchester United,1-1,0-1,AFC Bournemouth,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Wycombe Wanderers,1-2,0-2,Charlton Athletic,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Preston North End,3-3,2-2,Oldham Athletic,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Rochdale AFC,1-1,0-1,Chesterfield FC,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Scunthorpe United,2-2,1-1,Huddersfield Town,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Sheffield United,2-1,1-0,Milton Keynes Dons,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Walsall FC,1-2,1-1,Exeter City,2011-10-25T18:45Z
+15,Tue Oct 25 2011,19:45,BST/+0100,Yeovil Town,2-2,2-1,Leyton Orient,2011-10-25T18:45Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Hartlepool United,0-4,0-2,Charlton Athletic,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Brentford FC,2-1,1-1,Chesterfield FC,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Bury FC,1-2,0-1,Stevenage FC,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Carlisle United,3-3,1-3,Oldham Athletic,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Colchester United,4-2,0-0,Notts County,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Yeovil Town,0-1,0-0,Huddersfield Town,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Preston North End,1-3,1-0,AFC Bournemouth,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Rochdale AFC,0-2,0-1,Leyton Orient,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Scunthorpe United,4-2,2-2,Tranmere Rovers,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Sheffield United,4-4,1-2,Exeter City,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Walsall FC,0-2,0-2,Milton Keynes Dons,2011-10-29T14:00Z
+16,Sat Oct 29 2011,15:00,BST/+0100,Wycombe Wanderers,1-2,1-2,Sheffield Wednesday,2011-10-29T14:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Leyton Orient,1-1,1-0,Hartlepool United,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,AFC Bournemouth,2-0,1-0,Scunthorpe United,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Charlton Athletic,5-2,4-0,Preston North End,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Chesterfield FC,2-2,1-1,Yeovil Town,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Exeter City,0-0,0-0,Carlisle United,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Huddersfield Town,1-1,0-0,Walsall FC,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Tranmere Rovers,0-0,0-0,Colchester United,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Milton Keynes Dons,3-1,3-1,Rochdale AFC,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Notts County,1-1,1-0,Wycombe Wanderers,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Oldham Athletic,0-2,0-2,Bury FC,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Brentford FC,2011-11-05T15:00Z
+17,Sat Nov 5 2011,15:00,GMT/+0000,Stevenage FC,2-1,1-0,Sheffield United,2011-11-05T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Oldham Athletic,5-2,4-1,Chesterfield FC,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Brentford FC,0-1,0-0,Charlton Athletic,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Colchester United,1-5,1-2,Milton Keynes Dons,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Huddersfield Town,2-1,0-0,Notts County,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Leyton Orient,0-0,0-0,Stevenage FC,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Yeovil Town,2-2,1-2,Exeter City,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Preston North End,0-1,0-0,Rochdale AFC,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Scunthorpe United,0-2,0-1,Hartlepool United,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Sheffield United,1-0,1-0,Carlisle United,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Tranmere Rovers,1-2,1-1,Sheffield Wednesday,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Walsall FC,2-4,1-1,Bury FC,2011-11-19T15:00Z
+18,Sat Nov 19 2011,15:00,GMT/+0000,Wycombe Wanderers,0-1,0-1,AFC Bournemouth,2011-11-19T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Hartlepool United,0-1,0-1,Yeovil Town,2011-11-26T15:00Z
+19,Sat Nov 26 2011,13:00,GMT/+0000,Chesterfield FC,0-1,0-0,Sheffield United,2011-11-26T13:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,AFC Bournemouth,0-0,0-0,Oldham Athletic,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Bury FC,1-0,1-0,Preston North End,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Carlisle United,1-0,1-0,Colchester United,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Exeter City,3-0,1-0,Tranmere Rovers,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Stevenage FC,0-0,0-0,Walsall FC,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Milton Keynes Dons,4-3,1-0,Wycombe Wanderers,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Notts County,3-2,1-1,Scunthorpe United,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Rochdale AFC,1-2,0-1,Brentford FC,2011-11-26T15:00Z
+19,Sat Nov 26 2011,15:00,GMT/+0000,Sheffield Wednesday,1-0,1-0,Leyton Orient,2011-11-26T15:00Z
+19,Mon Nov 28 2011,19:45,GMT/+0000,Charlton Athletic,2-0,2-0,Huddersfield Town,2011-11-28T19:45Z
+8,Tue Nov 29 2011,19:45,GMT/+0000,Hartlepool United,0-1,0-1,Preston North End,2011-11-29T19:45Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Brentford FC,2-1,0-0,Hartlepool United,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Colchester United,4-1,3-0,Bury FC,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Huddersfield Town,0-1,0-1,AFC Bournemouth,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Leyton Orient,3-0,0-0,Exeter City,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Oldham Athletic,0-2,0-0,Sheffield Wednesday,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Preston North End,0-0,0-0,Stevenage FC,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Scunthorpe United,1-2,1-0,Carlisle United,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Sheffield United,3-0,1-0,Rochdale AFC,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Tranmere Rovers,0-2,0-1,Milton Keynes Dons,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Walsall FC,1-1,1-1,Charlton Athletic,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Wycombe Wanderers,3-2,1-1,Chesterfield FC,2011-12-10T15:00Z
+20,Sat Dec 10 2011,15:00,GMT/+0000,Yeovil Town,1-0,0-0,Notts County,2011-12-10T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,AFC Bournemouth,0-2,0-1,Sheffield United,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Bury FC,1-1,0-0,Brentford FC,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Carlisle United,2-2,1-2,Wycombe Wanderers,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Charlton Athletic,1-1,0-0,Oldham Athletic,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Chesterfield FC,1-1,0-1,Walsall FC,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Exeter City,0-0,0-0,Scunthorpe United,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Hartlepool United,0-1,0-1,Colchester United,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Notts County,1-2,0-1,Leyton Orient,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Rochdale AFC,0-0,0-0,Yeovil Town,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Sheffield Wednesday,4-4,2-2,Huddersfield Town,2011-12-17T15:00Z
+21,Sat Dec 17 2011,15:00,GMT/+0000,Stevenage FC,2-1,1-0,Tranmere Rovers,2011-12-17T15:00Z
+21,Sat Dec 17 2011,17:20,GMT/+0000,Milton Keynes Dons,0-1,0-1,Preston North End,2011-12-17T17:20Z
+22,Mon Dec 26 2011,13:00,GMT/+0000,Leyton Orient,0-3,0-1,Milton Keynes Dons,2011-12-26T13:00Z
+22,Mon Dec 26 2011,13:30,GMT/+0000,Preston North End,3-3,2-2,Carlisle United,2011-12-26T13:30Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Brentford FC,1-1,0-1,AFC Bournemouth,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Colchester United,1-6,0-2,Stevenage FC,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Huddersfield Town,1-0,1-0,Chesterfield FC,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Oldham Athletic,0-1,0-1,Hartlepool United,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Scunthorpe United,1-3,1-0,Bury FC,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Walsall FC,2-1,0-0,Sheffield Wednesday,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Wycombe Wanderers,3-1,2-1,Exeter City,2011-12-26T15:00Z
+22,Mon Dec 26 2011,15:00,GMT/+0000,Yeovil Town,2-3,1-1,Charlton Athletic,2011-12-26T15:00Z
+22,Tue Dec 27 2011,14:15,GMT/+0000,Sheffield United,2-1,1-1,Notts County,2011-12-27T14:15Z
+23,Fri Dec 30 2011,19:45,GMT/+0000,Huddersfield Town,1-1,1-1,Carlisle United,2011-12-30T19:45Z
+23,Fri Dec 30 2011,19:45,GMT/+0000,Tranmere Rovers,2-0,1-0,Bury FC,2011-12-30T19:45Z
+23,Sat Dec 31 2011,15:00,GMT/+0000,Wycombe Wanderers,0-1,0-0,Stevenage FC,2011-12-31T15:00Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Colchester United,2-0,1-0,Exeter City,2011-12-31T13:00Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Preston North End,0-2,0-2,Sheffield Wednesday,2011-12-31T13:00Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Scunthorpe United,2-2,1-0,Chesterfield FC,2011-12-31T13:00Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Sheffield United,3-1,3-0,Hartlepool United,2011-12-31T13:00Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Walsall FC,0-0,0-0,Rochdale AFC,2011-12-31T13:00Z
+23,Sat Dec 31 2011,13:00,GMT/+0000,Yeovil Town,1-3,0-2,AFC Bournemouth,2011-12-31T13:00Z
+23,Sat Dec 31 2011,15:00,GMT/+0000,Brentford FC,3-3,0-3,Milton Keynes Dons,2011-12-31T15:00Z
+23,Sat Dec 31 2011,15:00,GMT/+0000,Oldham Athletic,3-2,1-2,Notts County,2011-12-31T15:00Z
+23,Sat Dec 31 2011,17:20,GMT/+0000,Leyton Orient,1-0,1-0,Charlton Athletic,2011-12-31T17:20Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Stevenage FC,0-1,0-1,Leyton Orient,2012-01-02T15:00Z
+24,Mon Jan 2 2012,13:00,GMT/+0000,Rochdale AFC,1-1,1-1,Preston North End,2012-01-02T13:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,AFC Bournemouth,2-0,1-0,Wycombe Wanderers,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Bury FC,2-1,2-1,Walsall FC,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Carlisle United,3-2,2-2,Sheffield United,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Charlton Athletic,2-0,1-0,Brentford FC,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Chesterfield FC,1-1,1-1,Oldham Athletic,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Exeter City,1-1,0-1,Yeovil Town,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Hartlepool United,1-2,0-1,Scunthorpe United,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Milton Keynes Dons,1-0,0-0,Colchester United,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Notts County,2-2,0-0,Huddersfield Town,2012-01-02T15:00Z
+24,Mon Jan 2 2012,15:00,GMT/+0000,Sheffield Wednesday,2-1,2-0,Tranmere Rovers,2012-01-02T15:00Z
+25,Fri Jan 6 2012,19:45,GMT/+0000,Wycombe Wanderers,0-6,0-3,Huddersfield Town,2012-01-06T19:45Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Carlisle United,4-1,3-0,Leyton Orient,2012-01-07T15:00Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Chesterfield FC,0-2,0-0,Exeter City,2012-01-07T15:00Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Hartlepool United,2-0,0-0,Rochdale AFC,2012-01-07T15:00Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Tranmere Rovers,2-2,1-2,Brentford FC,2012-01-07T15:00Z
+25,Sat Jan 7 2012,15:00,GMT/+0000,Walsall FC,2-2,2-0,AFC Bournemouth,2012-01-07T15:00Z
+25,Tue Jan 10 2012,19:45,GMT/+0000,Sheffield United,4-0,2-0,Yeovil Town,2012-01-10T19:45Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Exeter City,0-0,0-0,Hartlepool United,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Yeovil Town,2-1,1-1,Tranmere Rovers,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Sheffield Wednesday,0-1,0-1,Charlton Athletic,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Rochdale AFC,1-5,0-1,Stevenage FC,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Preston North End,3-2,1-1,Wycombe Wanderers,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Leyton Orient,1-1,1-0,Chesterfield FC,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,AFC Bournemouth,2-1,1-1,Notts County,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Brentford FC,0-0,0-0,Walsall FC,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Bury FC,0-3,0-0,Sheffield United,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Colchester United,1-1,1-1,Scunthorpe United,2012-01-14T15:00Z
+26,Sat Jan 14 2012,15:00,GMT/+0000,Huddersfield Town,1-0,0-0,Oldham Athletic,2012-01-14T15:00Z
+22,Tue Jan 17 2012,19:45,GMT/+0000,Tranmere Rovers,0-0,0-0,Rochdale AFC,2012-01-17T19:45Z
+27,Sat Jan 21 2012,17:20,GMT/+0000,Huddersfield Town,3-2,2-2,Brentford FC,2012-01-21T17:20Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Scunthorpe United,1-1,0-0,Stevenage FC,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Preston North End,0-2,0-0,Leyton Orient,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Oldham Athletic,0-0,0-0,Exeter City,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Notts County,1-1,0-1,Milton Keynes Dons,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Wycombe Wanderers,3-0,1-0,Rochdale AFC,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,AFC Bournemouth,2-1,2-1,Tranmere Rovers,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Bury FC,3-2,3-1,Yeovil Town,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Carlisle United,1-1,1-0,Walsall FC,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Charlton Athletic,1-0,1-0,Sheffield United,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Colchester United,1-2,1-2,Chesterfield FC,2012-01-21T15:00Z
+27,Sat Jan 21 2012,15:00,GMT/+0000,Sheffield Wednesday,2-2,0-0,Hartlepool United,2012-01-21T15:00Z
+25,Tue Jan 24 2012,19:45,GMT/+0000,Stevenage FC,4-2,1-1,Milton Keynes Dons,2012-01-24T19:45Z
+25,Tue Jan 24 2012,19:45,GMT/+0000,Scunthorpe United,1-3,0-2,Sheffield Wednesday,2012-01-24T19:45Z
+25,Tue Jan 24 2012,19:45,GMT/+0000,Notts County,0-0,0-0,Preston North End,2012-01-24T19:45Z
+28,Fri Jan 27 2012,19:45,GMT/+0000,Chesterfield FC,1-0,0-0,AFC Bournemouth,2012-01-27T19:45Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Yeovil Town,2-1,1-0,Preston North End,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Tranmere Rovers,1-1,0-0,Huddersfield Town,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Rochdale AFC,3-0,2-0,Bury FC,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Brentford FC,5-2,3-0,Wycombe Wanderers,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Exeter City,0-1,0-0,Charlton Athletic,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Hartlepool United,4-0,2-0,Carlisle United,2012-01-28T15:00Z
+28,Sat Jan 28 2012,15:00,GMT/+0000,Leyton Orient,0-1,0-1,Colchester United,2012-01-28T15:00Z
+28,Tue Jan 31 2012,19:45,GMT/+0000,Walsall FC,0-1,0-1,Notts County,2012-01-31T19:45Z
+28,Tue Jan 31 2012,19:45,GMT/+0000,Milton Keynes Dons,1-1,1-1,Sheffield Wednesday,2012-01-31T19:45Z
+25,Tue Jan 31 2012,19:45,GMT/+0000,Charlton Athletic,1-1,0-1,Bury FC,2012-01-31T19:45Z
+29,Sat Feb 4 2012,15:00,GMT/+0000,Carlisle United,2-1,0-1,Chesterfield FC,2012-02-04T15:00Z
+29,Sat Feb 4 2012,15:00,GMT/+0000,Sheffield Wednesday,2-1,0-1,Yeovil Town,2012-02-04T15:00Z
+29,Sat Feb 4 2012,15:00,GMT/+0000,Huddersfield Town,1-1,1-0,Milton Keynes Dons,2012-02-04T15:00Z
+29,Sat Feb 4 2012,15:00,GMT/+0000,Wycombe Wanderers,2-1,2-1,Tranmere Rovers,2012-02-04T15:00Z
+29,Tue Feb 7 2012,19:45,GMT/+0000,AFC Bournemouth,2-0,0-0,Exeter City,2012-02-07T19:45Z
+30,Sat Feb 11 2012,15:00,GMT/+0000,Hartlepool United,0-0,0-0,AFC Bournemouth,2012-02-11T15:00Z
+30,Sat Feb 11 2012,15:00,GMT/+0000,Exeter City,2-1,0-0,Sheffield Wednesday,2012-02-11T15:00Z
+30,Sat Feb 11 2012,15:00,GMT/+0000,Sheffield United,3-0,0-0,Wycombe Wanderers,2012-02-11T15:00Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Colchester United,2-1,0-0,Brentford FC,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,AFC Bournemouth,1-2,1-1,Leyton Orient,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Huddersfield Town,0-1,0-1,Sheffield United,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Notts County,2-1,2-1,Exeter City,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Oldham Athletic,2-1,2-0,Walsall FC,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Preston North End,1-0,0-0,Hartlepool United,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Scunthorpe United,1-0,0-0,Rochdale AFC,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Wycombe Wanderers,2-3,1-0,Yeovil Town,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Charlton Athletic,2-1,2-0,Milton Keynes Dons,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Carlisle United,0-0,0-0,Tranmere Rovers,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Bury FC,1-1,0-1,Chesterfield FC,2012-02-14T19:45Z
+31,Tue Feb 14 2012,19:45,GMT/+0000,Sheffield Wednesday,0-1,0-1,Stevenage FC,2012-02-14T19:45Z
+32,Sat Feb 18 2012,13:00,GMT/+0000,Chesterfield FC,1-0,0-0,Sheffield Wednesday,2012-02-18T13:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Exeter City,3-2,3-1,Bury FC,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Hartlepool United,3-0,1-0,Notts County,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Leyton Orient,1-3,1-0,Scunthorpe United,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Milton Keynes Dons,5-0,1-0,Oldham Athletic,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Sheffield United,2-1,1-1,Preston North End,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Tranmere Rovers,1-1,1-0,Charlton Athletic,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Yeovil Town,3-2,0-1,Colchester United,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Rochdale AFC,1-0,0-0,AFC Bournemouth,2012-02-18T15:00Z
+32,Sat Feb 18 2012,15:00,GMT/+0000,Walsall FC,2-0,0-0,Wycombe Wanderers,2012-02-18T15:00Z
+32,Mon Feb 20 2012,19:45,GMT/+0000,Brentford FC,4-0,3-0,Carlisle United,2012-02-20T19:45Z
+29,Tue Feb 21 2012,19:45,GMT/+0000,Scunthorpe United,0-1,0-1,Walsall FC,2012-02-21T19:45Z
+30,Tue Feb 21 2012,19:45,GMT/+0000,Milton Keynes Dons,2-1,2-1,Bury FC,2012-02-21T19:45Z
+29,Tue Feb 21 2012,19:45,GMT/+0000,Charlton Athletic,1-1,0-0,Rochdale AFC,2012-02-21T19:45Z
+29,Wed Feb 22 2012,19:45,GMT/+0000,Notts County,1-0,0-0,Stevenage FC,2012-02-22T19:45Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Notts County,1-0,0-0,Chesterfield FC,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Huddersfield Town,2-0,1-0,Exeter City,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Colchester United,0-0,0-0,Rochdale AFC,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Preston North End,0-0,0-0,Walsall FC,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Charlton Athletic,2-0,0-0,Stevenage FC,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Carlisle United,3-2,1-0,Yeovil Town,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,AFC Bournemouth,0-1,0-1,Milton Keynes Dons,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Scunthorpe United,0-0,0-0,Brentford FC,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Oldham Athletic,1-0,0-0,Tranmere Rovers,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Wycombe Wanderers,5-0,3-0,Hartlepool United,2012-02-25T15:00Z
+33,Sat Feb 25 2012,15:00,GMT/+0000,Bury FC,1-1,0-1,Leyton Orient,2012-02-25T15:00Z
+33,Sun Feb 26 2012,13:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Sheffield United,2012-02-26T13:00Z
+30,Tue Feb 28 2012,19:45,GMT/+0000,Chesterfield FC,0-4,0-1,Charlton Athletic,2012-02-28T19:45Z
+25,Tue Feb 28 2012,19:45,GMT/+0000,Oldham Athletic,1-1,1-0,Colchester United,2012-02-28T19:45Z
+29,Tue Feb 28 2012,19:45,GMT/+0000,Bury FC,1-2,0-1,Hartlepool United,2012-02-28T19:45Z
+32,Tue Feb 28 2012,19:45,GMT/+0000,Stevenage FC,2-2,0-0,Huddersfield Town,2012-02-28T19:45Z
+30,Tue Feb 28 2012,19:45,GMT/+0000,Rochdale AFC,0-1,0-1,Notts County,2012-02-28T19:45Z
+28,Wed Feb 29 2012,19:45,GMT/+0000,Sheffield United,2-1,0-1,Scunthorpe United,2012-02-29T19:45Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Exeter City,1-1,1-0,Stevenage FC,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Hartlepool United,1-1,1-0,Milton Keynes Dons,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Bury FC,3-3,1-3,Huddersfield Town,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Colchester United,3-0,1-0,Preston North End,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Yeovil Town,2-1,0-1,Brentford FC,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Leyton Orient,1-1,1-0,Walsall FC,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Notts County,2-0,2-0,Carlisle United,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Rochdale AFC,0-0,0-0,Sheffield Wednesday,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Scunthorpe United,4-1,2-0,Wycombe Wanderers,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Sheffield United,2-3,2-0,Oldham Athletic,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,Chesterfield FC,1-0,0-0,Tranmere Rovers,2012-03-03T15:00Z
+34,Sat Mar 3 2012,15:00,GMT/+0000,AFC Bournemouth,0-1,0-0,Charlton Athletic,2012-03-03T15:00Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Brentford FC,2-0,1-0,Exeter City,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Carlisle United,2-1,0-0,Rochdale AFC,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Charlton Athletic,0-2,0-1,Colchester United,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Huddersfield Town,1-0,0-0,Hartlepool United,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Milton Keynes Dons,0-1,0-1,Yeovil Town,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Preston North End,0-0,0-0,Chesterfield FC,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Sheffield Wednesday,4-1,1-0,Bury FC,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Tranmere Rovers,1-1,0-1,Notts County,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Walsall FC,3-2,0-0,Sheffield United,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Wycombe Wanderers,4-2,4-0,Leyton Orient,2012-03-06T19:45Z
+35,Tue Mar 6 2012,19:45,GMT/+0000,Oldham Athletic,1-2,0-0,Scunthorpe United,2012-03-06T19:45Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Preston North End,0-0,0-0,Scunthorpe United,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Walsall FC,0-0,0-0,Hartlepool United,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Tranmere Rovers,2-0,2-0,Leyton Orient,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Stevenage FC,2-2,0-2,Chesterfield FC,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Sheffield Wednesday,3-0,3-0,AFC Bournemouth,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Oldham Athletic,1-2,0-1,Yeovil Town,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Milton Keynes Dons,3-0,2-0,Exeter City,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Huddersfield Town,2-2,1-1,Rochdale AFC,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Charlton Athletic,2-4,0-4,Notts County,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Carlisle United,4-1,1-1,Bury FC,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Brentford FC,0-2,0-1,Sheffield United,2012-03-10T15:00Z
+36,Sat Mar 10 2012,15:00,GMT/+0000,Wycombe Wanderers,0-0,0-0,Colchester United,2012-03-10T15:00Z
+29,Tue Mar 13 2012,19:45,GMT/+0000,Colchester United,1-1,0-1,Sheffield United,2012-03-13T19:45Z
+28,Tue Mar 13 2012,19:45,GMT/+0000,Stevenage FC,1-0,0-0,Oldham Athletic,2012-03-13T19:45Z
+30,Tue Mar 13 2012,19:45,GMT/+0000,Tranmere Rovers,2-1,1-1,Preston North End,2012-03-13T19:45Z
+30,Tue Mar 13 2012,19:45,GMT/+0000,Yeovil Town,2-2,1-0,Scunthorpe United,2012-03-13T19:45Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Leyton Orient,2-0,2-0,Brentford FC,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,AFC Bournemouth,1-1,0-1,Carlisle United,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Scunthorpe United,1-1,1-1,Charlton Athletic,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Sheffield United,1-1,1-0,Tranmere Rovers,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Hartlepool United,0-0,0-0,Stevenage FC,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Rochdale AFC,3-2,1-1,Oldham Athletic,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Notts County,1-2,0-0,Sheffield Wednesday,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Exeter City,1-2,0-1,Preston North End,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Colchester United,1-1,1-0,Huddersfield Town,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Bury FC,1-4,1-2,Wycombe Wanderers,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Chesterfield FC,1-1,1-0,Milton Keynes Dons,2012-03-17T15:00Z
+37,Sat Mar 17 2012,15:00,GMT/+0000,Yeovil Town,2-1,0-1,Walsall FC,2012-03-17T15:00Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Chesterfield FC,0-2,0-2,Huddersfield Town,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Exeter City,1-3,0-0,Wycombe Wanderers,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Hartlepool United,0-1,0-1,Oldham Athletic,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Milton Keynes Dons,4-1,2-1,Leyton Orient,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Notts County,2-5,0-4,Sheffield United,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Rochdale AFC,0-2,0-1,Tranmere Rovers,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Sheffield Wednesday,2-2,0-0,Walsall FC,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Stevenage FC,0-0,0-0,Colchester United,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,AFC Bournemouth,1-0,1-0,Brentford FC,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Bury FC,0-0,0-0,Scunthorpe United,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Carlisle United,0-0,0-0,Preston North End,2012-03-20T19:45Z
+38,Tue Mar 20 2012,19:45,GMT/+0000,Charlton Athletic,3-0,1-0,Yeovil Town,2012-03-20T19:45Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Wycombe Wanderers,1-1,0-0,Milton Keynes Dons,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Yeovil Town,0-1,0-0,Hartlepool United,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Scunthorpe United,0-0,0-0,Notts County,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Walsall FC,1-1,1-0,Stevenage FC,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Preston North End,1-1,0-0,Bury FC,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Oldham Athletic,1-0,0-0,AFC Bournemouth,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Leyton Orient,0-1,0-0,Sheffield Wednesday,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Huddersfield Town,1-0,1-0,Charlton Athletic,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Brentford FC,2-0,1-0,Rochdale AFC,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Colchester United,1-1,0-0,Carlisle United,2012-03-24T15:00Z
+39,Sat Mar 24 2012,15:00,GMT/+0000,Tranmere Rovers,2-0,0-0,Exeter City,2012-03-24T15:00Z
+29,Tue Mar 27 2012,19:45,BST/+0100,Oldham Athletic,0-1,0-0,Leyton Orient,2012-03-27T18:45Z
+29,Tue Mar 27 2012,19:45,BST/+0100,Preston North End,1-3,1-2,Brentford FC,2012-03-27T18:45Z
+30,Tue Mar 27 2012,19:45,BST/+0100,Walsall FC,3-1,2-1,Colchester United,2012-03-27T18:45Z
+26,Tue Mar 27 2012,19:45,BST/+0100,Milton Keynes Dons,1-2,0-0,Carlisle United,2012-03-27T18:45Z
+35,Tue Mar 27 2012,19:45,BST/+0100,Stevenage FC,2-2,2-2,AFC Bournemouth,2012-03-27T18:45Z
+39,Wed Mar 28 2012,19:45,BST/+0100,Sheffield United,4-1,1-1,Chesterfield FC,2012-03-28T18:45Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Notts County,1-0,0-0,Oldham Athletic,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Rochdale AFC,3-3,0-2,Walsall FC,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Exeter City,1-1,0-1,Colchester United,2012-03-31T14:00Z
+40,Sat Mar 31 2012,12:45,BST/+0100,Sheffield Wednesday,2-0,0-0,Preston North End,2012-03-31T11:45Z
+40,Sat Mar 31 2012,15:00,BST/+0100,AFC Bournemouth,0-0,0-0,Yeovil Town,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Bury FC,2-0,0-0,Tranmere Rovers,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Carlisle United,2-1,0-0,Huddersfield Town,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Charlton Athletic,2-0,1-0,Leyton Orient,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Chesterfield FC,1-4,1-1,Scunthorpe United,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Milton Keynes Dons,1-2,0-2,Brentford FC,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Hartlepool United,0-1,0-0,Sheffield United,2012-03-31T14:00Z
+40,Sat Mar 31 2012,15:00,BST/+0100,Stevenage FC,1-1,0-0,Wycombe Wanderers,2012-03-31T14:00Z
+30,Tue Apr 3 2012,19:45,BST/+0100,Leyton Orient,1-3,1-2,Huddersfield Town,2012-04-03T18:45Z
+30,Tue Apr 3 2012,19:45,BST/+0100,Brentford FC,2-0,1-0,Oldham Athletic,2012-04-03T18:45Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Wycombe Wanderers,1-1,0-0,Carlisle United,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Colchester United,1-1,0-1,Hartlepool United,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Leyton Orient,0-3,0-0,Notts County,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Scunthorpe United,1-0,0-0,Exeter City,2012-04-06T14:00Z
+41,Fri Apr 6 2012,15:00,BST/+0100,Tranmere Rovers,3-0,2-0,Stevenage FC,2012-04-06T14:00Z
+41,Sat Apr 7 2012,15:00,BST/+0100,Walsall FC,3-2,2-1,Chesterfield FC,2012-04-07T14:00Z
+41,Sat Apr 7 2012,12:30,BST/+0100,Huddersfield Town,0-2,0-0,Sheffield Wednesday,2012-04-07T11:30Z
+41,Sat Apr 7 2012,15:00,BST/+0100,Brentford FC,3-0,1-0,Bury FC,2012-04-07T14:00Z
+41,Sat Apr 7 2012,15:00,BST/+0100,Oldham Athletic,0-1,0-0,Charlton Athletic,2012-04-07T14:00Z
+41,Sat Apr 7 2012,15:00,BST/+0100,Preston North End,1-1,0-1,Milton Keynes Dons,2012-04-07T14:00Z
+41,Sat Apr 7 2012,15:00,BST/+0100,Sheffield United,2-1,1-0,AFC Bournemouth,2012-04-07T14:00Z
+41,Sat Apr 7 2012,15:00,BST/+0100,Yeovil Town,3-1,2-0,Rochdale AFC,2012-04-07T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Chesterfield FC,4-0,1-0,Wycombe Wanderers,2012-04-09T14:00Z
+42,Mon Apr 9 2012,12:45,BST/+0100,Sheffield Wednesday,3-0,1-0,Oldham Athletic,2012-04-09T11:45Z
+42,Mon Apr 9 2012,15:00,BST/+0100,AFC Bournemouth,2-0,0-0,Huddersfield Town,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Bury FC,4-1,2-0,Colchester United,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Carlisle United,0-0,0-0,Scunthorpe United,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Charlton Athletic,1-0,1-0,Walsall FC,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Stevenage FC,1-1,0-0,Preston North End,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Exeter City,3-0,1-0,Leyton Orient,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Hartlepool United,0-0,0-0,Brentford FC,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Milton Keynes Dons,3-0,2-0,Tranmere Rovers,2012-04-09T14:00Z
+42,Mon Apr 9 2012,15:00,BST/+0100,Notts County,3-1,1-0,Yeovil Town,2012-04-09T14:00Z
+42,Tue Apr 10 2012,19:45,BST/+0100,Rochdale AFC,2-5,1-4,Sheffield United,2012-04-10T18:45Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Hartlepool United,1-2,1-0,Chesterfield FC,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Brentford FC,0-0,0-0,Notts County,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Bury FC,1-0,1-0,AFC Bournemouth,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Carlisle United,0-1,0-0,Charlton Athletic,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Colchester United,1-1,1-0,Sheffield Wednesday,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Wycombe Wanderers,2-2,1-1,Oldham Athletic,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Preston North End,1-0,0-0,Huddersfield Town,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Rochdale AFC,3-2,0-1,Exeter City,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Scunthorpe United,0-3,0-1,Milton Keynes Dons,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Sheffield United,3-1,1-1,Leyton Orient,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Walsall FC,0-1,0-0,Tranmere Rovers,2012-04-14T14:00Z
+43,Sat Apr 14 2012,15:00,BST/+0100,Yeovil Town,0-6,0-2,Stevenage FC,2012-04-14T14:00Z
+30,Tue Apr 17 2012,19:45,BST/+0100,Stevenage FC,1-0,0-0,Carlisle United,2012-04-17T18:45Z
+44,Sat Apr 21 2012,12:30,BST/+0100,Notts County,2-4,0-1,Bury FC,2012-04-21T11:30Z
+44,Sat Apr 21 2012,15:00,BST/+0100,AFC Bournemouth,1-1,1-0,Colchester United,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Charlton Athletic,2-1,1-1,Wycombe Wanderers,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Chesterfield FC,2-1,0-0,Rochdale AFC,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Exeter City,4-2,0-1,Walsall FC,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Huddersfield Town,1-0,0-0,Scunthorpe United,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Leyton Orient,2-2,1-0,Yeovil Town,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Milton Keynes Dons,1-0,1-0,Sheffield United,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Oldham Athletic,1-1,0-0,Preston North End,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Sheffield Wednesday,2-1,1-0,Carlisle United,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Stevenage FC,2-1,0-0,Brentford FC,2012-04-21T14:00Z
+44,Sat Apr 21 2012,15:00,BST/+0100,Tranmere Rovers,1-1,1-0,Hartlepool United,2012-04-21T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Brentford FC,1-2,0-1,Sheffield Wednesday,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Bury FC,0-0,0-0,Oldham Athletic,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Carlisle United,4-1,2-1,Exeter City,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Colchester United,4-2,1-0,Tranmere Rovers,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Hartlepool United,2-1,1-1,Leyton Orient,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Preston North End,2-2,0-2,Charlton Athletic,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Rochdale AFC,1-2,0-1,Milton Keynes Dons,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Scunthorpe United,1-1,0-1,AFC Bournemouth,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Walsall FC,1-1,0-1,Huddersfield Town,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Wycombe Wanderers,3-4,2-2,Notts County,2012-04-28T14:00Z
+45,Sat Apr 28 2012,15:00,BST/+0100,Yeovil Town,3-2,1-1,Chesterfield FC,2012-04-28T14:00Z
+45,Sat Apr 28 2012,17:20,BST/+0100,Sheffield United,2-2,0-1,Stevenage FC,2012-04-28T16:20Z
+46,Sat May 5 2012,15:00,BST/+0100,AFC Bournemouth,1-0,0-0,Preston North End,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Charlton Athletic,3-2,0-1,Hartlepool United,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Chesterfield FC,2-3,0-1,Brentford FC,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Exeter City,2-2,1-1,Sheffield United,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Huddersfield Town,2-0,1-0,Yeovil Town,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Leyton Orient,2-1,2-0,Rochdale AFC,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Milton Keynes Dons,0-1,0-1,Walsall FC,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Notts County,4-1,3-0,Colchester United,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Oldham Athletic,2-1,0-0,Carlisle United,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Sheffield Wednesday,2-0,1-0,Wycombe Wanderers,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Stevenage FC,3-0,1-0,Bury FC,2012-05-05T14:00Z
+46,Sat May 5 2012,15:00,BST/+0100,Tranmere Rovers,1-1,1-0,Scunthorpe United,2012-05-05T14:00Z

@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 19 2000,15:00,BST/+0100,Charlton Athletic,4-0,2-0,Manchester City,2000-08-19T14:00Z
+1,Sat Aug 19 2000,15:00,BST/+0100,Chelsea FC,4-2,1-0,West Ham United,2000-08-19T14:00Z
+1,Sat Aug 19 2000,15:00,BST/+0100,Coventry City,1-3,1-1,Middlesbrough FC,2000-08-19T14:00Z
+1,Sat Aug 19 2000,15:00,BST/+0100,Derby County,2-2,1-2,Southampton FC,2000-08-19T14:00Z
+1,Sat Aug 19 2000,15:00,BST/+0100,Leeds United,2-0,2-0,Everton FC,2000-08-19T14:00Z
+1,Sat Aug 19 2000,15:00,BST/+0100,Leicester City,0-0,0-0,Aston Villa,2000-08-19T14:00Z
+1,Sat Aug 19 2000,15:00,BST/+0100,Liverpool FC,1-0,0-0,Bradford City,2000-08-19T14:00Z
+1,Sat Aug 19 2000,15:00,BST/+0100,Sunderland AFC,1-0,0-0,Arsenal FC,2000-08-19T14:00Z
+1,Sat Aug 19 2000,15:00,BST/+0100,Tottenham Hotspur,3-1,2-1,Ipswich Town,2000-08-19T14:00Z
+1,Sun Aug 20 2000,16:00,BST/+0100,Manchester United,2-0,1-0,Newcastle United,2000-08-20T15:00Z
+2,Mon Aug 21 2000,20:00,BST/+0100,Arsenal FC,2-0,1-0,Liverpool FC,2000-08-21T19:00Z
+2,Tue Aug 22 2000,19:45,BST/+0100,Ipswich Town,1-1,1-1,Manchester United,2000-08-22T18:45Z
+2,Tue Aug 22 2000,19:45,BST/+0100,Middlesbrough FC,1-1,0-1,Tottenham Hotspur,2000-08-22T18:45Z
+2,Tue Aug 22 2000,19:45,BST/+0100,Bradford City,2-0,1-0,Chelsea FC,2000-08-22T18:45Z
+2,Wed Aug 23 2000,16:00,BST/+0100,Everton FC,3-0,0-0,Charlton Athletic,2000-08-23T15:00Z
+2,Wed Aug 23 2000,16:00,BST/+0100,Southampton FC,1-2,0-1,Coventry City,2000-08-23T15:00Z
+2,Wed Aug 23 2000,19:45,BST/+0100,West Ham United,0-1,0-0,Leicester City,2000-08-23T18:45Z
+2,Wed Aug 23 2000,19:45,BST/+0100,Manchester City,4-2,2-0,Sunderland AFC,2000-08-23T18:45Z
+2,Wed Aug 23 2000,19:45,BST/+0100,Newcastle United,3-2,1-1,Derby County,2000-08-23T18:45Z
+3,Sat Aug 26 2000,15:00,BST/+0100,Arsenal FC,5-3,1-2,Charlton Athletic,2000-08-26T14:00Z
+3,Sat Aug 26 2000,15:00,BST/+0100,Bradford City,0-0,0-0,Leicester City,2000-08-26T14:00Z
+3,Sat Aug 26 2000,15:00,BST/+0100,Everton FC,2-2,2-0,Derby County,2000-08-26T14:00Z
+3,Sat Aug 26 2000,15:00,BST/+0100,Ipswich Town,1-0,0-0,Sunderland AFC,2000-08-26T14:00Z
+3,Sat Aug 26 2000,15:00,BST/+0100,Manchester City,1-2,0-2,Coventry City,2000-08-26T14:00Z
+3,Sat Aug 26 2000,15:00,BST/+0100,Middlesbrough FC,1-2,0-2,Leeds United,2000-08-26T14:00Z
+3,Sat Aug 26 2000,15:00,BST/+0100,Newcastle United,2-0,1-0,Tottenham Hotspur,2000-08-26T14:00Z
+3,Sat Aug 26 2000,15:00,BST/+0100,Southampton FC,3-3,0-1,Liverpool FC,2000-08-26T14:00Z
+3,Sat Aug 26 2000,15:00,BST/+0100,West Ham United,2-2,0-1,Manchester United,2000-08-26T14:00Z
+3,Sun Aug 27 2000,16:00,BST/+0100,Aston Villa,1-1,1-1,Chelsea FC,2000-08-27T15:00Z
+4,Tue Sep 5 2000,19:45,BST/+0100,Leeds United,1-2,0-2,Manchester City,2000-09-05T18:45Z
+4,Tue Sep 5 2000,19:45,BST/+0100,Sunderland AFC,1-1,1-1,West Ham United,2000-09-05T18:45Z
+4,Tue Sep 5 2000,19:45,BST/+0100,Tottenham Hotspur,3-2,1-2,Everton FC,2000-09-05T18:45Z
+4,Tue Sep 5 2000,20:00,BST/+0100,Manchester United,6-0,2-0,Bradford City,2000-09-05T19:00Z
+4,Wed Sep 6 2000,19:45,BST/+0100,Coventry City,0-2,0-1,Newcastle United,2000-09-06T18:45Z
+4,Wed Sep 6 2000,20:00,BST/+0100,Charlton Athletic,1-1,0-0,Southampton FC,2000-09-06T19:00Z
+4,Wed Sep 6 2000,19:45,BST/+0100,Derby County,3-3,0-1,Middlesbrough FC,2000-09-06T18:45Z
+4,Wed Sep 6 2000,19:45,BST/+0100,Leicester City,2-1,0-0,Ipswich Town,2000-09-06T18:45Z
+4,Wed Sep 6 2000,20:00,BST/+0100,Liverpool FC,3-1,3-0,Aston Villa,2000-09-06T19:00Z
+4,Wed Sep 6 2000,20:00,BST/+0100,Chelsea FC,2-2,1-0,Arsenal FC,2000-09-06T19:00Z
+5,Sat Sep 9 2000,15:00,BST/+0100,Coventry City,0-0,0-0,Leeds United,2000-09-09T14:00Z
+5,Sat Sep 9 2000,15:00,BST/+0100,Ipswich Town,1-2,0-1,Aston Villa,2000-09-09T14:00Z
+5,Sat Sep 9 2000,15:00,BST/+0100,Leicester City,1-0,0-0,Southampton FC,2000-09-09T14:00Z
+5,Sat Sep 9 2000,15:00,BST/+0100,Liverpool FC,3-2,1-0,Manchester City,2000-09-09T14:00Z
+5,Sat Sep 9 2000,15:00,BST/+0100,Manchester United,3-0,1-0,Sunderland AFC,2000-09-09T14:00Z
+5,Sat Sep 9 2000,15:00,BST/+0100,Middlesbrough FC,1-2,1-0,Everton FC,2000-09-09T14:00Z
+5,Sat Sep 9 2000,15:00,BST/+0100,Newcastle United,0-0,0-0,Chelsea FC,2000-09-09T14:00Z
+5,Sat Sep 9 2000,15:00,BST/+0100,Bradford City,1-1,1-0,Arsenal FC,2000-09-09T14:00Z
+5,Sun Sep 10 2000,16:00,BST/+0100,Derby County,2-2,2-0,Charlton Athletic,2000-09-10T15:00Z
+5,Mon Sep 11 2000,20:00,BST/+0100,Tottenham Hotspur,1-0,0-0,West Ham United,2000-09-11T19:00Z
+6,Sat Sep 16 2000,15:00,BST/+0100,Everton FC,1-3,0-3,Manchester United,2000-09-16T14:00Z
+6,Sat Sep 16 2000,15:00,BST/+0100,Arsenal FC,2-1,1-0,Coventry City,2000-09-16T14:00Z
+6,Sat Sep 16 2000,15:00,BST/+0100,Aston Villa,2-0,1-0,Bradford City,2000-09-16T14:00Z
+6,Sat Sep 16 2000,15:00,BST/+0100,Charlton Athletic,1-0,1-0,Tottenham Hotspur,2000-09-16T14:00Z
+6,Sat Sep 16 2000,15:00,BST/+0100,Southampton FC,2-0,0-0,Newcastle United,2000-09-16T14:00Z
+6,Sat Sep 16 2000,15:00,BST/+0100,Leeds United,1-2,1-1,Ipswich Town,2000-09-16T14:00Z
+6,Sat Sep 16 2000,15:00,BST/+0100,Sunderland AFC,2-1,1-0,Derby County,2000-09-16T14:00Z
+6,Sun Sep 17 2000,16:00,BST/+0100,Manchester City,1-1,0-0,Middlesbrough FC,2000-09-17T15:00Z
+6,Sun Sep 17 2000,15:00,BST/+0100,West Ham United,1-1,0-1,Liverpool FC,2000-09-17T14:00Z
+6,Sun Sep 17 2000,15:00,BST/+0100,Chelsea FC,0-2,0-1,Leicester City,2000-09-17T14:00Z
+7,Sat Sep 23 2000,15:00,BST/+0100,Liverpool FC,1-1,1-1,Sunderland AFC,2000-09-23T14:00Z
+7,Sat Sep 23 2000,11:30,BST/+0100,Manchester United,3-3,3-2,Chelsea FC,2000-09-23T10:30Z
+7,Sat Sep 23 2000,15:00,BST/+0100,Middlesbrough FC,1-1,0-0,Aston Villa,2000-09-23T14:00Z
+7,Sat Sep 23 2000,15:00,BST/+0100,Newcastle United,0-1,0-1,Charlton Athletic,2000-09-23T14:00Z
+7,Sat Sep 23 2000,15:00,BST/+0100,Tottenham Hotspur,0-0,0-0,Manchester City,2000-09-23T14:00Z
+7,Sat Sep 23 2000,15:00,BST/+0100,Bradford City,0-1,0-1,Southampton FC,2000-09-23T14:00Z
+7,Sat Sep 23 2000,15:00,BST/+0100,Coventry City,0-3,0-2,West Ham United,2000-09-23T14:00Z
+7,Sat Sep 23 2000,15:00,BST/+0100,Derby County,1-1,0-1,Leeds United,2000-09-23T14:00Z
+7,Sat Sep 23 2000,15:00,BST/+0100,Ipswich Town,1-1,0-0,Arsenal FC,2000-09-23T14:00Z
+7,Sun Sep 24 2000,16:00,BST/+0100,Leicester City,1-1,1-0,Everton FC,2000-09-24T15:00Z
+8,Sat Sep 30 2000,15:00,BST/+0100,Aston Villa,4-1,2-0,Derby County,2000-09-30T14:00Z
+8,Sat Sep 30 2000,15:00,BST/+0100,Everton FC,0-3,0-1,Ipswich Town,2000-09-30T14:00Z
+8,Sat Sep 30 2000,15:00,BST/+0100,Leeds United,4-3,0-1,Tottenham Hotspur,2000-09-30T14:00Z
+8,Sat Sep 30 2000,15:00,BST/+0100,Manchester City,0-1,0-0,Newcastle United,2000-09-30T14:00Z
+8,Sat Sep 30 2000,15:00,BST/+0100,Southampton FC,1-3,0-2,Middlesbrough FC,2000-09-30T14:00Z
+8,Sat Sep 30 2000,15:00,BST/+0100,Charlton Athletic,2-2,0-1,Coventry City,2000-09-30T14:00Z
+8,Sat Sep 30 2000,15:00,BST/+0100,West Ham United,1-1,1-0,Bradford City,2000-09-30T14:00Z
+8,Sun Oct 1 2000,16:00,BST/+0100,Arsenal FC,1-0,1-0,Manchester United,2000-10-01T15:00Z
+8,Sun Oct 1 2000,15:00,BST/+0100,Sunderland AFC,0-0,0-0,Leicester City,2000-10-01T14:00Z
+8,Sun Oct 1 2000,16:00,BST/+0100,Chelsea FC,3-0,2-0,Liverpool FC,2000-10-01T15:00Z
+9,Sat Oct 14 2000,15:00,BST/+0100,Sunderland AFC,1-0,0-0,Chelsea FC,2000-10-14T14:00Z
+9,Sat Oct 14 2000,15:00,BST/+0100,Everton FC,1-1,0-0,Southampton FC,2000-10-14T14:00Z
+9,Sat Oct 14 2000,15:00,BST/+0100,Ipswich Town,1-1,1-0,West Ham United,2000-10-14T14:00Z
+9,Sat Oct 14 2000,15:00,BST/+0100,Leeds United,3-1,1-0,Charlton Athletic,2000-10-14T14:00Z
+9,Sat Oct 14 2000,15:00,BST/+0100,Leicester City,0-3,0-1,Manchester United,2000-10-14T14:00Z
+9,Sat Oct 14 2000,15:00,BST/+0100,Manchester City,2-0,2-0,Bradford City,2000-10-14T14:00Z
+9,Sat Oct 14 2000,15:00,BST/+0100,Arsenal FC,1-0,0-0,Aston Villa,2000-10-14T14:00Z
+9,Sat Oct 14 2000,15:00,BST/+0100,Coventry City,2-1,2-0,Tottenham Hotspur,2000-10-14T14:00Z
+9,Sun Oct 15 2000,16:00,BST/+0100,Derby County,0-4,0-1,Liverpool FC,2000-10-15T15:00Z
+9,Mon Oct 16 2000,20:00,BST/+0100,Middlesbrough FC,1-3,0-1,Newcastle United,2000-10-16T19:00Z
+10,Sat Oct 21 2000,15:00,BST/+0100,Liverpool FC,1-0,0-0,Leicester City,2000-10-21T14:00Z
+10,Sat Oct 21 2000,11:30,BST/+0100,Manchester United,3-0,1-0,Leeds United,2000-10-21T10:30Z
+10,Sat Oct 21 2000,15:00,BST/+0100,Newcastle United,0-1,0-0,Everton FC,2000-10-21T14:00Z
+10,Sat Oct 21 2000,15:00,BST/+0100,Tottenham Hotspur,3-1,2-1,Derby County,2000-10-21T14:00Z
+10,Sat Oct 21 2000,15:00,BST/+0100,West Ham United,1-2,0-2,Arsenal FC,2000-10-21T14:00Z
+10,Sat Oct 21 2000,15:00,BST/+0100,Bradford City,0-2,0-1,Ipswich Town,2000-10-21T14:00Z
+10,Sat Oct 21 2000,15:00,BST/+0100,Charlton Athletic,1-0,0-0,Middlesbrough FC,2000-10-21T14:00Z
+10,Sat Oct 21 2000,15:00,BST/+0100,Chelsea FC,6-1,2-0,Coventry City,2000-10-21T14:00Z
+10,Sun Oct 22 2000,16:00,BST/+0100,Aston Villa,0-0,0-0,Sunderland AFC,2000-10-22T15:00Z
+10,Mon Oct 23 2000,20:00,BST/+0100,Southampton FC,0-2,0-1,Manchester City,2000-10-23T19:00Z
+11,Sat Oct 28 2000,15:00,BST/+0100,West Ham United,1-0,0-0,Newcastle United,2000-10-28T14:00Z
+11,Sat Oct 28 2000,15:00,BST/+0100,Chelsea FC,3-0,2-0,Tottenham Hotspur,2000-10-28T14:00Z
+11,Sat Oct 28 2000,15:00,BST/+0100,Ipswich Town,2-1,2-0,Middlesbrough FC,2000-10-28T14:00Z
+11,Sat Oct 28 2000,15:00,BST/+0100,Leicester City,2-1,1-1,Derby County,2000-10-28T14:00Z
+11,Sat Oct 28 2000,15:00,BST/+0100,Arsenal FC,5-0,1-0,Manchester City,2000-10-28T14:00Z
+11,Sat Oct 28 2000,15:00,BST/+0100,Aston Villa,2-1,2-0,Charlton Athletic,2000-10-28T14:00Z
+11,Sat Oct 28 2000,15:00,BST/+0100,Manchester United,5-0,2-0,Southampton FC,2000-10-28T14:00Z
+11,Sat Oct 28 2000,15:00,BST/+0100,Sunderland AFC,1-0,0-0,Coventry City,2000-10-28T14:00Z
+11,Sun Oct 29 2000,15:00,GMT/+0000,Liverpool FC,3-1,1-1,Everton FC,2000-10-29T15:00Z
+11,Sun Oct 29 2000,16:00,GMT/+0000,Bradford City,1-1,1-0,Leeds United,2000-10-29T16:00Z
+12,Sat Nov 4 2000,15:00,GMT/+0000,Coventry City,1-2,0-2,Manchester United,2000-11-04T15:00Z
+12,Sat Nov 4 2000,11:30,GMT/+0000,Leeds United,4-3,1-2,Liverpool FC,2000-11-04T11:30Z
+12,Sat Nov 4 2000,15:00,GMT/+0000,Manchester City,0-1,0-0,Leicester City,2000-11-04T15:00Z
+12,Sat Nov 4 2000,15:00,GMT/+0000,Middlesbrough FC,0-1,0-1,Arsenal FC,2000-11-04T15:00Z
+12,Sat Nov 4 2000,15:00,GMT/+0000,Newcastle United,2-1,1-1,Ipswich Town,2000-11-04T15:00Z
+12,Sat Nov 4 2000,15:00,GMT/+0000,Southampton FC,3-2,2-0,Chelsea FC,2000-11-04T15:00Z
+12,Sat Nov 4 2000,15:00,GMT/+0000,Tottenham Hotspur,2-1,1-0,Sunderland AFC,2000-11-04T15:00Z
+12,Sat Nov 4 2000,15:00,GMT/+0000,Charlton Athletic,2-0,2-0,Bradford City,2000-11-04T15:00Z
+12,Sun Nov 5 2000,16:00,GMT/+0000,Everton FC,0-1,0-0,Aston Villa,2000-11-05T16:00Z
+12,Mon Nov 6 2000,20:00,GMT/+0000,Derby County,0-0,0-0,West Ham United,2000-11-06T20:00Z
+13,Sat Nov 11 2000,15:00,GMT/+0000,Leicester City,1-1,0-0,Newcastle United,2000-11-11T15:00Z
+13,Sat Nov 11 2000,15:00,GMT/+0000,Arsenal FC,0-0,0-0,Derby County,2000-11-11T15:00Z
+13,Sat Nov 11 2000,15:00,GMT/+0000,Aston Villa,2-0,1-0,Tottenham Hotspur,2000-11-11T15:00Z
+13,Sat Nov 11 2000,15:00,GMT/+0000,Bradford City,0-1,0-0,Everton FC,2000-11-11T15:00Z
+13,Sat Nov 11 2000,15:00,GMT/+0000,Ipswich Town,2-0,0-0,Charlton Athletic,2000-11-11T15:00Z
+13,Sat Nov 11 2000,15:00,GMT/+0000,Sunderland AFC,2-2,1-1,Southampton FC,2000-11-11T15:00Z
+13,Sat Nov 11 2000,15:00,GMT/+0000,Manchester United,2-1,0-1,Middlesbrough FC,2000-11-11T15:00Z
+13,Sat Nov 11 2000,15:00,GMT/+0000,West Ham United,4-1,0-1,Manchester City,2000-11-11T15:00Z
+13,Sun Nov 12 2000,15:00,GMT/+0000,Liverpool FC,4-1,1-0,Coventry City,2000-11-12T15:00Z
+13,Sun Nov 12 2000,16:00,GMT/+0000,Chelsea FC,1-1,0-0,Leeds United,2000-11-12T16:00Z
+14,Sat Nov 18 2000,15:00,GMT/+0000,Leeds United,0-1,0-1,West Ham United,2000-11-18T15:00Z
+14,Sat Nov 18 2000,11:30,GMT/+0000,Manchester City,0-1,0-1,Manchester United,2000-11-18T11:30Z
+14,Sat Nov 18 2000,15:00,GMT/+0000,Middlesbrough FC,0-3,0-2,Leicester City,2000-11-18T15:00Z
+14,Sat Nov 18 2000,15:00,GMT/+0000,Newcastle United,1-2,1-0,Sunderland AFC,2000-11-18T15:00Z
+14,Sat Nov 18 2000,15:00,GMT/+0000,Southampton FC,2-0,2-0,Aston Villa,2000-11-18T15:00Z
+14,Sat Nov 18 2000,15:00,GMT/+0000,Charlton Athletic,2-0,1-0,Chelsea FC,2000-11-18T15:00Z
+14,Sat Nov 18 2000,15:00,GMT/+0000,Derby County,2-0,0-0,Bradford City,2000-11-18T15:00Z
+14,Sat Nov 18 2000,15:00,GMT/+0000,Everton FC,2-0,0-0,Arsenal FC,2000-11-18T15:00Z
+14,Sun Nov 19 2000,16:00,GMT/+0000,Tottenham Hotspur,2-1,2-1,Liverpool FC,2000-11-19T16:00Z
+14,Mon Nov 20 2000,20:00,GMT/+0000,Coventry City,0-1,0-0,Ipswich Town,2000-11-20T20:00Z
+15,Sat Nov 25 2000,15:00,GMT/+0000,Everton FC,2-1,0-1,Chelsea FC,2000-11-25T15:00Z
+15,Sat Nov 25 2000,15:00,GMT/+0000,Charlton Athletic,0-1,0-0,Sunderland AFC,2000-11-25T15:00Z
+15,Sat Nov 25 2000,15:00,GMT/+0000,Coventry City,1-1,0-1,Aston Villa,2000-11-25T15:00Z
+15,Sat Nov 25 2000,15:00,GMT/+0000,Derby County,0-3,0-0,Manchester United,2000-11-25T15:00Z
+15,Sat Nov 25 2000,15:00,GMT/+0000,Tottenham Hotspur,3-0,2-0,Leicester City,2000-11-25T15:00Z
+15,Sat Nov 25 2000,15:00,GMT/+0000,Manchester City,2-3,0-2,Ipswich Town,2000-11-25T15:00Z
+15,Sat Nov 25 2000,15:00,GMT/+0000,Middlesbrough FC,2-2,0-2,Bradford City,2000-11-25T15:00Z
+15,Sat Nov 25 2000,15:00,GMT/+0000,Southampton FC,2-3,1-2,West Ham United,2000-11-25T15:00Z
+15,Sun Nov 26 2000,15:00,GMT/+0000,Newcastle United,2-1,1-0,Liverpool FC,2000-11-26T15:00Z
+15,Sun Nov 26 2000,16:00,GMT/+0000,Leeds United,1-0,0-0,Arsenal FC,2000-11-26T16:00Z
+16,Sat Dec 2 2000,15:00,GMT/+0000,Ipswich Town,0-1,0-1,Derby County,2000-12-02T15:00Z
+16,Sat Dec 2 2000,15:00,GMT/+0000,Arsenal FC,1-0,0-0,Southampton FC,2000-12-02T15:00Z
+16,Sat Dec 2 2000,15:00,GMT/+0000,Aston Villa,1-1,1-0,Newcastle United,2000-12-02T15:00Z
+16,Sat Dec 2 2000,15:00,GMT/+0000,Bradford City,2-1,0-0,Coventry City,2000-12-02T15:00Z
+16,Sat Dec 2 2000,15:00,GMT/+0000,Manchester United,2-0,1-0,Tottenham Hotspur,2000-12-02T15:00Z
+16,Sat Dec 2 2000,15:00,GMT/+0000,Leicester City,3-1,3-0,Leeds United,2000-12-02T15:00Z
+16,Sat Dec 2 2000,15:00,GMT/+0000,Liverpool FC,3-0,1-0,Charlton Athletic,2000-12-02T15:00Z
+16,Sat Dec 2 2000,15:00,GMT/+0000,West Ham United,1-0,1-0,Middlesbrough FC,2000-12-02T15:00Z
+16,Sun Dec 3 2000,16:00,GMT/+0000,Chelsea FC,2-1,2-0,Manchester City,2000-12-03T16:00Z
+16,Mon Dec 4 2000,20:00,GMT/+0000,Sunderland AFC,2-0,1-0,Everton FC,2000-12-04T20:00Z
+17,Sat Dec 9 2000,15:00,GMT/+0000,Manchester City,5-0,3-0,Everton FC,2000-12-09T15:00Z
+17,Sat Dec 9 2000,15:00,GMT/+0000,Arsenal FC,5-0,2-0,Newcastle United,2000-12-09T15:00Z
+17,Sat Dec 9 2000,15:00,GMT/+0000,Bradford City,3-3,1-2,Tottenham Hotspur,2000-12-09T15:00Z
+17,Sat Dec 9 2000,15:00,GMT/+0000,Charlton Athletic,3-3,1-2,Manchester United,2000-12-09T15:00Z
+17,Sat Dec 9 2000,15:00,GMT/+0000,Chelsea FC,4-1,3-0,Derby County,2000-12-09T15:00Z
+17,Sat Dec 9 2000,15:00,GMT/+0000,West Ham United,1-1,1-1,Aston Villa,2000-12-09T15:00Z
+17,Sat Dec 9 2000,15:00,GMT/+0000,Southampton FC,1-0,1-0,Leeds United,2000-12-09T15:00Z
+17,Sat Dec 9 2000,15:00,GMT/+0000,Sunderland AFC,1-0,0-0,Middlesbrough FC,2000-12-09T15:00Z
+17,Sun Dec 10 2000,15:00,GMT/+0000,Liverpool FC,0-1,0-1,Ipswich Town,2000-12-10T15:00Z
+17,Sun Dec 10 2000,16:00,GMT/+0000,Coventry City,1-0,1-0,Leicester City,2000-12-10T16:00Z
+18,Sat Dec 16 2000,15:00,GMT/+0000,Ipswich Town,3-1,0-1,Southampton FC,2000-12-16T15:00Z
+18,Sat Dec 16 2000,15:00,GMT/+0000,Aston Villa,2-2,0-0,Manchester City,2000-12-16T15:00Z
+18,Sat Dec 16 2000,15:00,GMT/+0000,Derby County,1-0,1-0,Coventry City,2000-12-16T15:00Z
+18,Sat Dec 16 2000,15:00,GMT/+0000,Everton FC,1-1,0-0,West Ham United,2000-12-16T15:00Z
+18,Sat Dec 16 2000,15:00,GMT/+0000,Middlesbrough FC,1-0,0-0,Chelsea FC,2000-12-16T15:00Z
+18,Sat Dec 16 2000,15:00,GMT/+0000,Leeds United,2-0,1-0,Sunderland AFC,2000-12-16T15:00Z
+18,Sat Dec 16 2000,15:00,GMT/+0000,Leicester City,3-1,1-1,Charlton Athletic,2000-12-16T15:00Z
+18,Sat Dec 16 2000,15:00,GMT/+0000,Newcastle United,2-1,1-0,Bradford City,2000-12-16T15:00Z
+18,Sun Dec 17 2000,12:00,GMT/+0000,Manchester United,0-1,0-1,Liverpool FC,2000-12-17T12:00Z
+18,Mon Dec 18 2000,20:00,GMT/+0000,Tottenham Hotspur,1-1,1-0,Arsenal FC,2000-12-18T20:00Z
+19,Fri Dec 22 2000,19:45,GMT/+0000,Coventry City,1-1,1-0,Southampton FC,2000-12-22T19:45Z
+19,Sat Dec 23 2000,15:00,GMT/+0000,Chelsea FC,3-0,1-0,Bradford City,2000-12-23T15:00Z
+19,Sat Dec 23 2000,11:30,GMT/+0000,Liverpool FC,4-0,1-0,Arsenal FC,2000-12-23T11:30Z
+19,Sat Dec 23 2000,15:00,GMT/+0000,Manchester United,2-0,2-0,Ipswich Town,2000-12-23T15:00Z
+19,Sat Dec 23 2000,15:00,GMT/+0000,Sunderland AFC,1-0,1-0,Manchester City,2000-12-23T15:00Z
+19,Sat Dec 23 2000,15:00,GMT/+0000,Tottenham Hotspur,0-0,0-0,Middlesbrough FC,2000-12-23T15:00Z
+19,Sat Dec 23 2000,15:00,GMT/+0000,Derby County,2-0,1-0,Newcastle United,2000-12-23T15:00Z
+19,Sat Dec 23 2000,15:00,GMT/+0000,Leeds United,1-2,0-1,Aston Villa,2000-12-23T15:00Z
+19,Sat Dec 23 2000,15:00,GMT/+0000,Leicester City,2-1,1-1,West Ham United,2000-12-23T15:00Z
+19,Sat Dec 23 2000,15:00,GMT/+0000,Charlton Athletic,1-0,1-0,Everton FC,2000-12-23T15:00Z
+20,Tue Dec 26 2000,15:00,GMT/+0000,Newcastle United,2-1,2-1,Leeds United,2000-12-26T15:00Z
+20,Tue Dec 26 2000,12:00,GMT/+0000,Arsenal FC,6-1,1-0,Leicester City,2000-12-26T12:00Z
+20,Tue Dec 26 2000,12:00,GMT/+0000,West Ham United,5-0,3-0,Charlton Athletic,2000-12-26T12:00Z
+20,Tue Dec 26 2000,13:00,GMT/+0000,Aston Villa,0-1,0-0,Manchester United,2000-12-26T13:00Z
+20,Tue Dec 26 2000,15:00,GMT/+0000,Bradford City,1-4,0-1,Sunderland AFC,2000-12-26T15:00Z
+20,Tue Dec 26 2000,15:00,GMT/+0000,Everton FC,1-2,0-0,Coventry City,2000-12-26T15:00Z
+20,Tue Dec 26 2000,15:00,GMT/+0000,Ipswich Town,2-2,1-2,Chelsea FC,2000-12-26T15:00Z
+20,Tue Dec 26 2000,15:00,GMT/+0000,Manchester City,0-0,0-0,Derby County,2000-12-26T15:00Z
+20,Tue Dec 26 2000,15:00,GMT/+0000,Middlesbrough FC,1-0,1-0,Liverpool FC,2000-12-26T15:00Z
+20,Wed Dec 27 2000,20:00,GMT/+0000,Southampton FC,2-0,2-0,Tottenham Hotspur,2000-12-27T20:00Z
+21,Sat Dec 30 2000,12:00,GMT/+0000,Ipswich Town,3-0,1-0,Tottenham Hotspur,2000-12-30T12:00Z
+21,Sat Dec 30 2000,15:00,GMT/+0000,Manchester City,1-4,0-2,Charlton Athletic,2000-12-30T15:00Z
+21,Sat Dec 30 2000,15:00,GMT/+0000,Middlesbrough FC,1-1,0-1,Coventry City,2000-12-30T15:00Z
+21,Sat Dec 30 2000,15:00,GMT/+0000,Newcastle United,1-1,0-1,Manchester United,2000-12-30T15:00Z
+21,Sat Dec 30 2000,15:00,GMT/+0000,Southampton FC,1-0,0-0,Derby County,2000-12-30T15:00Z
+21,Sat Dec 30 2000,15:00,GMT/+0000,Arsenal FC,2-2,2-0,Sunderland AFC,2000-12-30T15:00Z
+22,Mon Jan 1 2001,20:00,GMT/+0000,Manchester United,3-1,2-0,West Ham United,2001-01-01T20:00Z
+22,Mon Jan 1 2001,15:00,GMT/+0000,Sunderland AFC,4-1,1-1,Ipswich Town,2001-01-01T15:00Z
+22,Mon Jan 1 2001,15:00,GMT/+0000,Liverpool FC,2-1,1-1,Southampton FC,2001-01-01T15:00Z
+22,Mon Jan 1 2001,15:00,GMT/+0000,Leicester City,1-2,1-2,Bradford City,2001-01-01T15:00Z
+22,Mon Jan 1 2001,15:00,GMT/+0000,Leeds United,1-1,0-1,Middlesbrough FC,2001-01-01T15:00Z
+22,Mon Jan 1 2001,15:00,GMT/+0000,Charlton Athletic,1-0,1-0,Arsenal FC,2001-01-01T15:00Z
+22,Mon Jan 1 2001,15:00,GMT/+0000,Chelsea FC,1-0,1-0,Aston Villa,2001-01-01T15:00Z
+22,Mon Jan 1 2001,15:00,GMT/+0000,Coventry City,1-1,0-0,Manchester City,2001-01-01T15:00Z
+22,Mon Jan 1 2001,15:00,GMT/+0000,Derby County,1-0,1-0,Everton FC,2001-01-01T15:00Z
+22,Tue Jan 2 2001,19:45,GMT/+0000,Tottenham Hotspur,4-2,3-1,Newcastle United,2001-01-02T19:45Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,West Ham United,0-2,0-1,Sunderland AFC,2001-01-13T15:00Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,Southampton FC,0-0,0-0,Charlton Athletic,2001-01-13T15:00Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,Newcastle United,3-1,1-0,Coventry City,2001-01-13T15:00Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,Middlesbrough FC,4-0,1-0,Derby County,2001-01-13T15:00Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,Bradford City,0-3,0-0,Manchester United,2001-01-13T15:00Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,Arsenal FC,1-1,1-0,Chelsea FC,2001-01-13T15:00Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,Aston Villa,0-3,0-2,Liverpool FC,2001-01-13T15:00Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,Everton FC,0-0,0-0,Tottenham Hotspur,2001-01-13T15:00Z
+23,Sat Jan 13 2001,15:00,GMT/+0000,Manchester City,0-4,0-1,Leeds United,2001-01-13T15:00Z
+23,Sun Jan 14 2001,16:00,GMT/+0000,Ipswich Town,2-0,0-0,Leicester City,2001-01-14T16:00Z
+24,Sat Jan 20 2001,15:00,GMT/+0000,Manchester United,2-0,0-0,Aston Villa,2001-01-20T15:00Z
+24,Sat Jan 20 2001,15:00,GMT/+0000,Liverpool FC,0-0,0-0,Middlesbrough FC,2001-01-20T15:00Z
+24,Sat Jan 20 2001,15:00,GMT/+0000,Leicester City,0-0,0-0,Arsenal FC,2001-01-20T15:00Z
+24,Sat Jan 20 2001,15:00,GMT/+0000,Leeds United,1-3,1-2,Newcastle United,2001-01-20T15:00Z
+24,Sat Jan 20 2001,15:00,GMT/+0000,Tottenham Hotspur,0-0,0-0,Southampton FC,2001-01-20T15:00Z
+24,Sat Jan 20 2001,15:00,GMT/+0000,Chelsea FC,4-1,1-1,Ipswich Town,2001-01-20T15:00Z
+24,Sat Jan 20 2001,15:00,GMT/+0000,Coventry City,1-3,0-3,Everton FC,2001-01-20T15:00Z
+24,Sat Jan 20 2001,15:00,GMT/+0000,Derby County,1-1,0-0,Manchester City,2001-01-20T15:00Z
+24,Sun Jan 21 2001,16:00,GMT/+0000,Sunderland AFC,0-0,0-0,Bradford City,2001-01-21T16:00Z
+24,Mon Jan 22 2001,20:00,GMT/+0000,Charlton Athletic,1-1,1-0,West Ham United,2001-01-22T20:00Z
+2,Wed Jan 24 2001,19:45,GMT/+0000,Aston Villa,1-2,1-1,Leeds United,2001-01-24T19:45Z
+25,Tue Jan 30 2001,20:00,GMT/+0000,Charlton Athletic,2-1,1-1,Derby County,2001-01-30T20:00Z
+25,Tue Jan 30 2001,19:45,GMT/+0000,Arsenal FC,2-0,2-0,Bradford City,2001-01-30T19:45Z
+25,Wed Jan 31 2001,20:00,GMT/+0000,Everton FC,2-2,0-1,Middlesbrough FC,2001-01-31T20:00Z
+25,Wed Jan 31 2001,19:45,GMT/+0000,Southampton FC,1-0,0-0,Leicester City,2001-01-31T19:45Z
+25,Wed Jan 31 2001,19:45,GMT/+0000,Manchester City,1-1,0-1,Liverpool FC,2001-01-31T19:45Z
+25,Wed Jan 31 2001,19:45,GMT/+0000,Chelsea FC,3-1,1-1,Newcastle United,2001-01-31T19:45Z
+25,Wed Jan 31 2001,19:45,GMT/+0000,Leeds United,1-0,0-0,Coventry City,2001-01-31T19:45Z
+25,Wed Jan 31 2001,19:45,GMT/+0000,Sunderland AFC,0-1,0-0,Manchester United,2001-01-31T19:45Z
+25,Wed Jan 31 2001,19:45,GMT/+0000,West Ham United,0-0,0-0,Tottenham Hotspur,2001-01-31T19:45Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Manchester United,1-0,0-0,Everton FC,2001-02-03T15:00Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Liverpool FC,3-0,2-0,West Ham United,2001-02-03T15:00Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Leicester City,2-1,1-0,Chelsea FC,2001-02-03T15:00Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Tottenham Hotspur,0-0,0-0,Charlton Athletic,2001-02-03T15:00Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Ipswich Town,1-2,0-2,Leeds United,2001-02-03T15:00Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Bradford City,0-3,0-0,Aston Villa,2001-02-03T15:00Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Coventry City,0-1,0-0,Arsenal FC,2001-02-03T15:00Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Derby County,1-0,1-0,Sunderland AFC,2001-02-03T15:00Z
+26,Sat Feb 3 2001,15:00,GMT/+0000,Middlesbrough FC,1-1,0-1,Manchester City,2001-02-03T15:00Z
+21,Wed Feb 7 2001,20:00,GMT/+0000,Everton FC,2-2,1-0,Leeds United,2001-02-07T20:00Z
+27,Sat Feb 10 2001,15:00,GMT/+0000,Sunderland AFC,1-1,0-0,Liverpool FC,2001-02-10T15:00Z
+27,Sat Feb 10 2001,15:00,GMT/+0000,Southampton FC,2-0,0-0,Bradford City,2001-02-10T15:00Z
+27,Sat Feb 10 2001,15:00,GMT/+0000,Manchester City,0-1,0-0,Tottenham Hotspur,2001-02-10T15:00Z
+27,Sat Feb 10 2001,15:00,GMT/+0000,Aston Villa,1-1,1-0,Middlesbrough FC,2001-02-10T15:00Z
+27,Sat Feb 10 2001,15:00,GMT/+0000,Leeds United,0-0,0-0,Derby County,2001-02-10T15:00Z
+27,Sat Feb 10 2001,15:00,GMT/+0000,Arsenal FC,1-0,0-0,Ipswich Town,2001-02-10T15:00Z
+27,Sat Feb 10 2001,15:00,GMT/+0000,Everton FC,2-1,2-0,Leicester City,2001-02-10T15:00Z
+27,Sat Feb 10 2001,15:00,GMT/+0000,Chelsea FC,1-1,1-0,Manchester United,2001-02-10T15:00Z
+27,Sun Feb 11 2001,16:00,GMT/+0000,Charlton Athletic,2-0,2-0,Newcastle United,2001-02-11T16:00Z
+27,Mon Feb 12 2001,20:00,GMT/+0000,West Ham United,1-1,0-0,Coventry City,2001-02-12T20:00Z
+28,Sat Feb 24 2001,15:00,GMT/+0000,Middlesbrough FC,0-1,0-0,Southampton FC,2001-02-24T15:00Z
+28,Sat Feb 24 2001,15:00,GMT/+0000,Leicester City,2-0,1-0,Sunderland AFC,2001-02-24T15:00Z
+28,Sat Feb 24 2001,15:00,GMT/+0000,Coventry City,2-2,1-1,Charlton Athletic,2001-02-24T15:00Z
+28,Sat Feb 24 2001,15:00,GMT/+0000,Newcastle United,0-1,0-0,Manchester City,2001-02-24T15:00Z
+28,Sat Feb 24 2001,15:00,GMT/+0000,Tottenham Hotspur,1-2,1-1,Leeds United,2001-02-24T15:00Z
+28,Sat Feb 24 2001,15:00,GMT/+0000,Bradford City,1-2,0-1,West Ham United,2001-02-24T15:00Z
+28,Sat Feb 24 2001,15:00,GMT/+0000,Derby County,1-0,1-0,Aston Villa,2001-02-24T15:00Z
+28,Sat Feb 24 2001,15:00,GMT/+0000,Ipswich Town,2-0,0-0,Everton FC,2001-02-24T15:00Z
+28,Sun Feb 25 2001,13:00,GMT/+0000,Manchester United,6-1,5-1,Arsenal FC,2001-02-25T13:00Z
+29,Sat Mar 3 2001,15:00,GMT/+0000,Leicester City,2-0,0-0,Liverpool FC,2001-03-03T15:00Z
+29,Sat Mar 3 2001,15:00,GMT/+0000,Derby County,2-1,2-0,Tottenham Hotspur,2001-03-03T15:00Z
+29,Sat Mar 3 2001,15:00,GMT/+0000,Coventry City,0-0,0-0,Chelsea FC,2001-03-03T15:00Z
+29,Sat Mar 3 2001,15:00,GMT/+0000,Everton FC,1-1,0-0,Newcastle United,2001-03-03T15:00Z
+29,Sat Mar 3 2001,15:00,GMT/+0000,Manchester City,0-1,0-0,Southampton FC,2001-03-03T15:00Z
+29,Sat Mar 3 2001,15:00,GMT/+0000,Arsenal FC,3-0,3-0,West Ham United,2001-03-03T15:00Z
+29,Sat Mar 3 2001,11:30,GMT/+0000,Leeds United,1-1,0-0,Manchester United,2001-03-03T11:30Z
+29,Sat Mar 3 2001,15:00,GMT/+0000,Middlesbrough FC,0-0,0-0,Charlton Athletic,2001-03-03T15:00Z
+29,Sun Mar 4 2001,16:00,GMT/+0000,Ipswich Town,3-1,0-1,Bradford City,2001-03-04T16:00Z
+29,Mon Mar 5 2001,20:00,GMT/+0000,Sunderland AFC,1-1,0-0,Aston Villa,2001-03-05T20:00Z
+21,Wed Mar 7 2001,19:45,GMT/+0000,West Ham United,0-2,0-2,Chelsea FC,2001-03-07T19:45Z
+25,Sat Mar 10 2001,15:00,GMT/+0000,Aston Villa,2-1,0-1,Ipswich Town,2001-03-10T15:00Z
+30,Sat Mar 17 2001,15:00,GMT/+0000,West Ham United,0-1,0-0,Ipswich Town,2001-03-17T15:00Z
+30,Sat Mar 17 2001,15:00,GMT/+0000,Tottenham Hotspur,3-0,2-0,Coventry City,2001-03-17T15:00Z
+30,Sat Mar 17 2001,15:00,GMT/+0000,Newcastle United,1-2,0-2,Middlesbrough FC,2001-03-17T15:00Z
+30,Sat Mar 17 2001,15:00,GMT/+0000,Chelsea FC,2-4,2-1,Sunderland AFC,2001-03-17T15:00Z
+30,Sat Mar 17 2001,15:00,GMT/+0000,Bradford City,2-2,0-1,Manchester City,2001-03-17T15:00Z
+30,Sat Mar 17 2001,15:00,GMT/+0000,Charlton Athletic,1-2,1-1,Leeds United,2001-03-17T15:00Z
+30,Sat Mar 17 2001,15:00,GMT/+0000,Manchester United,2-0,0-0,Leicester City,2001-03-17T15:00Z
+30,Sat Mar 17 2001,15:00,GMT/+0000,Southampton FC,1-0,0-0,Everton FC,2001-03-17T15:00Z
+30,Sun Mar 18 2001,15:00,GMT/+0000,Liverpool FC,1-1,0-1,Derby County,2001-03-18T15:00Z
+30,Sun Mar 18 2001,16:00,GMT/+0000,Aston Villa,0-0,0-0,Arsenal FC,2001-03-18T16:00Z
+31,Sat Mar 31 2001,15:00,BST/+0100,Bradford City,2-2,2-1,Newcastle United,2001-03-31T14:00Z
+31,Sat Mar 31 2001,15:00,BST/+0100,Chelsea FC,2-1,1-0,Middlesbrough FC,2001-03-31T14:00Z
+31,Sat Mar 31 2001,15:00,BST/+0100,Coventry City,2-0,1-0,Derby County,2001-03-31T14:00Z
+31,Sat Mar 31 2001,15:00,BST/+0100,Arsenal FC,2-0,0-0,Tottenham Hotspur,2001-03-31T14:00Z
+31,Sat Mar 31 2001,12:00,BST/+0100,Liverpool FC,2-0,2-0,Manchester United,2001-03-31T11:00Z
+31,Sat Mar 31 2001,15:00,BST/+0100,Manchester City,1-3,1-2,Aston Villa,2001-03-31T14:00Z
+31,Sat Mar 31 2001,15:00,BST/+0100,Sunderland AFC,0-2,0-1,Leeds United,2001-03-31T14:00Z
+31,Sat Mar 31 2001,15:00,BST/+0100,West Ham United,0-2,0-1,Everton FC,2001-03-31T14:00Z
+31,Sun Apr 1 2001,16:00,BST/+0100,Charlton Athletic,2-0,1-0,Leicester City,2001-04-01T15:00Z
+31,Mon Apr 2 2001,20:00,BST/+0100,Southampton FC,0-3,0-1,Ipswich Town,2001-04-02T19:00Z
+21,Wed Apr 4 2001,19:45,BST/+0100,Aston Villa,2-1,1-1,Leicester City,2001-04-04T18:45Z
+32,Sat Apr 7 2001,15:00,BST/+0100,Derby County,0-4,0-0,Chelsea FC,2001-04-07T14:00Z
+32,Sat Apr 7 2001,15:00,BST/+0100,Leeds United,2-0,1-0,Southampton FC,2001-04-07T14:00Z
+32,Sat Apr 7 2001,15:00,BST/+0100,Leicester City,1-3,1-2,Coventry City,2001-04-07T14:00Z
+32,Sat Apr 7 2001,15:00,BST/+0100,Aston Villa,2-2,0-0,West Ham United,2001-04-07T14:00Z
+32,Sun Apr 8 2001,15:00,BST/+0100,Everton FC,3-1,2-1,Manchester City,2001-04-08T14:00Z
+32,Mon Apr 9 2001,20:00,BST/+0100,Middlesbrough FC,0-0,0-0,Sunderland AFC,2001-04-09T19:00Z
+32,Tue Apr 10 2001,19:45,BST/+0100,Tottenham Hotspur,2-1,1-1,Bradford City,2001-04-10T18:45Z
+32,Tue Apr 10 2001,20:00,BST/+0100,Manchester United,2-1,1-0,Charlton Athletic,2001-04-10T19:00Z
+32,Tue Apr 10 2001,19:45,BST/+0100,Ipswich Town,1-1,0-0,Liverpool FC,2001-04-10T18:45Z
+34,Wed Apr 11 2001,19:45,BST/+0100,Manchester City,0-4,0-4,Arsenal FC,2001-04-11T18:45Z
+33,Fri Apr 13 2001,11:30,BST/+0100,Liverpool FC,1-2,0-2,Leeds United,2001-04-13T10:30Z
+33,Fri Apr 13 2001,16:00,BST/+0100,Bradford City,2-0,0-0,Charlton Athletic,2001-04-13T15:00Z
+33,Sat Apr 14 2001,15:00,BST/+0100,Arsenal FC,0-3,0-2,Middlesbrough FC,2001-04-14T14:00Z
+33,Sat Apr 14 2001,15:00,BST/+0100,Aston Villa,2-1,1-1,Everton FC,2001-04-14T14:00Z
+33,Sat Apr 14 2001,15:00,BST/+0100,West Ham United,3-1,3-0,Derby County,2001-04-14T14:00Z
+33,Sat Apr 14 2001,12:00,BST/+0100,Manchester United,4-2,2-2,Coventry City,2001-04-14T11:00Z
+33,Sat Apr 14 2001,15:00,BST/+0100,Sunderland AFC,2-3,2-0,Tottenham Hotspur,2001-04-14T14:00Z
+33,Sat Apr 14 2001,15:00,BST/+0100,Chelsea FC,1-0,1-0,Southampton FC,2001-04-14T14:00Z
+33,Sat Apr 14 2001,15:00,BST/+0100,Leicester City,1-2,1-1,Manchester City,2001-04-14T14:00Z
+33,Sat Apr 14 2001,15:00,BST/+0100,Ipswich Town,1-0,0-0,Newcastle United,2001-04-14T14:00Z
+34,Mon Apr 16 2001,15:00,BST/+0100,Coventry City,1-0,1-0,Sunderland AFC,2001-04-16T14:00Z
+34,Mon Apr 16 2001,18:00,BST/+0100,Everton FC,2-3,1-1,Liverpool FC,2001-04-16T17:00Z
+34,Mon Apr 16 2001,15:00,BST/+0100,Derby County,2-0,1-0,Leicester City,2001-04-16T14:00Z
+34,Mon Apr 16 2001,15:00,BST/+0100,Newcastle United,2-1,1-0,West Ham United,2001-04-16T14:00Z
+34,Mon Apr 16 2001,15:00,BST/+0100,Middlesbrough FC,1-2,1-0,Ipswich Town,2001-04-16T14:00Z
+34,Tue Apr 17 2001,19:45,BST/+0100,Tottenham Hotspur,0-3,0-1,Chelsea FC,2001-04-17T18:45Z
+34,Tue Apr 17 2001,20:00,BST/+0100,Charlton Athletic,3-3,2-0,Aston Villa,2001-04-17T19:00Z
+35,Sat Apr 21 2001,15:00,BST/+0100,Arsenal FC,4-1,1-1,Everton FC,2001-04-21T14:00Z
+35,Sat Apr 21 2001,15:00,BST/+0100,Leicester City,0-3,0-1,Middlesbrough FC,2001-04-21T14:00Z
+35,Sat Apr 21 2001,17:15,BST/+0100,Sunderland AFC,1-1,0-0,Newcastle United,2001-04-21T16:15Z
+35,Sat Apr 21 2001,15:00,BST/+0100,Ipswich Town,2-0,1-0,Coventry City,2001-04-21T14:00Z
+35,Sat Apr 21 2001,15:00,BST/+0100,Chelsea FC,0-1,0-1,Charlton Athletic,2001-04-21T14:00Z
+35,Sat Apr 21 2001,15:00,BST/+0100,Bradford City,2-0,1-0,Derby County,2001-04-21T14:00Z
+35,Sat Apr 21 2001,12:00,BST/+0100,Manchester United,1-1,0-0,Manchester City,2001-04-21T11:00Z
+35,Sat Apr 21 2001,15:00,BST/+0100,West Ham United,0-2,0-1,Leeds United,2001-04-21T14:00Z
+35,Sat Apr 21 2001,15:00,BST/+0100,Aston Villa,0-0,0-0,Southampton FC,2001-04-21T14:00Z
+35,Sun Apr 22 2001,15:00,BST/+0100,Liverpool FC,3-1,1-1,Tottenham Hotspur,2001-04-22T14:00Z
+36,Sat Apr 28 2001,15:00,BST/+0100,Middlesbrough FC,0-2,0-1,Manchester United,2001-04-28T14:00Z
+36,Sat Apr 28 2001,15:00,BST/+0100,Everton FC,2-1,0-1,Bradford City,2001-04-28T14:00Z
+36,Sat Apr 28 2001,15:00,BST/+0100,Derby County,1-2,1-1,Arsenal FC,2001-04-28T14:00Z
+36,Sat Apr 28 2001,15:00,BST/+0100,Coventry City,0-2,0-0,Liverpool FC,2001-04-28T14:00Z
+36,Sat Apr 28 2001,15:00,BST/+0100,Tottenham Hotspur,0-0,0-0,Aston Villa,2001-04-28T14:00Z
+36,Sat Apr 28 2001,15:00,BST/+0100,Southampton FC,0-1,0-0,Sunderland AFC,2001-04-28T14:00Z
+36,Sat Apr 28 2001,12:00,BST/+0100,Leeds United,2-0,0-0,Chelsea FC,2001-04-28T11:00Z
+36,Sat Apr 28 2001,15:00,BST/+0100,Manchester City,1-0,1-0,West Ham United,2001-04-28T14:00Z
+36,Sat Apr 28 2001,15:00,BST/+0100,Newcastle United,1-0,0-0,Leicester City,2001-04-28T14:00Z
+36,Mon Apr 30 2001,20:00,BST/+0100,Charlton Athletic,2-1,1-1,Ipswich Town,2001-04-30T19:00Z
+21,Tue May 1 2001,19:45,BST/+0100,Bradford City,0-2,0-0,Liverpool FC,2001-05-01T18:45Z
+26,Tue May 1 2001,20:00,BST/+0100,Newcastle United,1-1,1-0,Southampton FC,2001-05-01T19:00Z
+37,Sat May 5 2001,15:00,BST/+0100,Liverpool FC,3-0,1-0,Newcastle United,2001-05-05T14:00Z
+37,Sat May 5 2001,15:00,BST/+0100,West Ham United,3-0,0-0,Southampton FC,2001-05-05T14:00Z
+37,Sat May 5 2001,15:00,BST/+0100,Sunderland AFC,3-2,2-1,Charlton Athletic,2001-05-05T14:00Z
+37,Sat May 5 2001,15:00,BST/+0100,Manchester United,0-1,0-1,Derby County,2001-05-05T14:00Z
+37,Sat May 5 2001,15:00,BST/+0100,Arsenal FC,2-1,1-0,Leeds United,2001-05-05T14:00Z
+37,Sat May 5 2001,15:00,BST/+0100,Aston Villa,3-2,0-2,Coventry City,2001-05-05T14:00Z
+37,Sat May 5 2001,15:00,BST/+0100,Bradford City,1-1,1-0,Middlesbrough FC,2001-05-05T14:00Z
+37,Sat May 5 2001,15:00,BST/+0100,Chelsea FC,2-1,2-1,Everton FC,2001-05-05T14:00Z
+37,Sat May 5 2001,15:00,BST/+0100,Leicester City,4-2,1-0,Tottenham Hotspur,2001-05-05T14:00Z
+37,Mon May 7 2001,20:00,BST/+0100,Ipswich Town,2-1,0-0,Manchester City,2001-05-07T19:00Z
+28,Tue May 8 2001,20:00,BST/+0100,Liverpool FC,2-2,1-1,Chelsea FC,2001-05-08T19:00Z
+34,Sun May 13 2001,15:00,BST/+0100,Leeds United,6-1,5-1,Bradford City,2001-05-13T14:00Z
+34,Sun May 13 2001,15:00,BST/+0100,Southampton FC,2-1,2-0,Manchester United,2001-05-13T14:00Z
+32,Tue May 15 2001,19:45,BST/+0100,Newcastle United,0-0,0-0,Arsenal FC,2001-05-15T18:45Z
+38,Sat May 19 2001,15:00,BST/+0100,Charlton Athletic,0-4,0-0,Liverpool FC,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Coventry City,0-0,0-0,Bradford City,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Derby County,1-1,1-0,Ipswich Town,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Everton FC,2-2,1-1,Sunderland AFC,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Leeds United,3-1,1-1,Leicester City,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Manchester City,1-2,1-1,Chelsea FC,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Middlesbrough FC,2-1,2-1,West Ham United,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Newcastle United,3-0,2-0,Aston Villa,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Southampton FC,3-2,0-1,Arsenal FC,2001-05-19T14:00Z
+38,Sat May 19 2001,15:00,BST/+0100,Tottenham Hotspur,3-1,1-1,Manchester United,2001-05-19T14:00Z

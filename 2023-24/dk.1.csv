@@ -1,0 +1,194 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Fri Jul 21 2023,19:00,CEST/+0200,FC Midtjylland,1-0,0-0,Hvidovre IF,2023-07-21T17:00Z
+,1,Sat Jul 22 2023,16:00,CEST/+0200,Lyngby BK,1-2,0-1,FC København,2023-07-22T14:00Z
+,1,Sun Jul 23 2023,16:00,CEST/+0200,Odense BK,2-2,2-1,Randers FC,2023-07-23T14:00Z
+,1,Sun Jul 23 2023,18:00,CEST/+0200,Silkeborg IF,1-2,1-1,Brøndby IF,2023-07-23T16:00Z
+,1,Sun Jul 23 2023,14:00,CEST/+0200,Aarhus GF,1-0,1-0,Vejle BK,2023-07-23T12:00Z
+,1,Mon Jul 24 2023,19:00,CEST/+0200,FC Nordsjælland,4-1,2-1,Viborg FF,2023-07-24T17:00Z
+,2,Fri Jul 28 2023,19:00,CEST/+0200,Viborg FF,2-2,1-2,Lyngby BK,2023-07-28T17:00Z
+,2,Sat Jul 29 2023,16:00,CEST/+0200,Vejle BK,2-3,1-2,FC København,2023-07-29T14:00Z
+,2,Sun Jul 30 2023,16:00,CEST/+0200,Randers FC,2-2,2-1,Hvidovre IF,2023-07-30T14:00Z
+,2,Sun Jul 30 2023,18:00,CEST/+0200,Brøndby IF,1-2,0-0,Odense BK,2023-07-30T16:00Z
+,2,Sun Jul 30 2023,14:00,CEST/+0200,FC Midtjylland,2-0,2-0,Silkeborg IF,2023-07-30T12:00Z
+,2,Mon Jul 31 2023,19:00,CEST/+0200,Aarhus GF,1-3,1-1,FC Nordsjælland,2023-07-31T17:00Z
+,3,Fri Aug 4 2023,19:00,CEST/+0200,Silkeborg IF,2-1,0-0,Vejle BK,2023-08-04T17:00Z
+,3,Sat Aug 5 2023,16:00,CEST/+0200,FC København,4-0,3-0,Randers FC,2023-08-05T14:00Z
+,3,Sun Aug 6 2023,16:00,CEST/+0200,Lyngby BK,4-1,2-0,FC Midtjylland,2023-08-06T14:00Z
+,3,Sun Aug 6 2023,18:00,CEST/+0200,FC Nordsjælland,3-1,0-1,Brøndby IF,2023-08-06T16:00Z
+,3,Sun Aug 6 2023,14:00,CEST/+0200,Hvidovre IF,0-2,0-1,Aarhus GF,2023-08-06T12:00Z
+,3,Mon Aug 7 2023,19:00,CEST/+0200,Odense BK,1-2,0-1,Viborg FF,2023-08-07T17:00Z
+,4,Fri Aug 11 2023,19:00,CEST/+0200,FC København,2-1,0-0,Odense BK,2023-08-11T17:00Z
+,4,Sun Aug 13 2023,14:00,CEST/+0200,Vejle BK,1-2,0-0,FC Midtjylland,2023-08-13T12:00Z
+,4,Sun Aug 13 2023,16:00,CEST/+0200,Brøndby IF,3-0,1-0,Lyngby BK,2023-08-13T14:00Z
+,4,Sun Aug 13 2023,18:00,CEST/+0200,Aarhus GF,2-2,1-0,Silkeborg IF,2023-08-13T16:00Z
+,4,Sun Aug 13 2023,14:00,CEST/+0200,Randers FC,0-5,0-1,FC Nordsjælland,2023-08-13T12:00Z
+,4,Mon Aug 14 2023,19:00,CEST/+0200,Viborg FF,0-0,0-0,Hvidovre IF,2023-08-14T17:00Z
+,5,Fri Aug 18 2023,19:00,CEST/+0200,Hvidovre IF,0-2,0-1,FC København,2023-08-18T17:00Z
+,5,Sun Aug 20 2023,16:00,CEST/+0200,Lyngby BK,1-0,0-0,Randers FC,2023-08-20T14:00Z
+,5,Sun Aug 20 2023,18:00,CEST/+0200,FC Midtjylland,0-1,0-0,Brøndby IF,2023-08-20T16:00Z
+,5,Sun Aug 20 2023,20:00,CEST/+0200,Odense BK,1-1,1-1,Aarhus GF,2023-08-20T18:00Z
+,5,Sun Aug 20 2023,14:00,CEST/+0200,Silkeborg IF,2-0,0-0,FC Nordsjælland,2023-08-20T12:00Z
+,5,Mon Aug 21 2023,19:00,CEST/+0200,Viborg FF,2-1,0-0,Vejle BK,2023-08-21T17:00Z
+,6,Fri Aug 25 2023,18:30,CEST/+0200,Randers FC,1-0,1-0,Viborg FF,2023-08-25T16:30Z
+,6,Sat Aug 26 2023,16:00,CEST/+0200,FC København,1-3,1-1,Silkeborg IF,2023-08-26T14:00Z
+,6,Sun Aug 27 2023,16:00,CEST/+0200,Hvidovre IF,1-5,0-1,Odense BK,2023-08-27T14:00Z
+,6,Sun Aug 27 2023,18:00,CEST/+0200,FC Nordsjælland,3-0,1-0,FC Midtjylland,2023-08-27T16:00Z
+,6,Sun Aug 27 2023,14:00,CEST/+0200,Aarhus GF,1-0,1-0,Lyngby BK,2023-08-27T12:00Z
+,6,Mon Aug 28 2023,19:00,CEST/+0200,Vejle BK,0-1,0-0,Brøndby IF,2023-08-28T17:00Z
+,7,Fri Sep 1 2023,19:00,CEST/+0200,Odense BK,1-2,1-1,Vejle BK,2023-09-01T17:00Z
+,7,Sun Sep 3 2023,14:00,CEST/+0200,Silkeborg IF,1-0,0-0,Hvidovre IF,2023-09-03T12:00Z
+,7,Sun Sep 3 2023,16:00,CEST/+0200,Brøndby IF,3-1,3-0,Randers FC,2023-09-03T14:00Z
+,7,Sun Sep 3 2023,18:00,CEST/+0200,FC København,2-0,1-0,Viborg FF,2023-09-03T16:00Z
+,7,Sun Sep 3 2023,20:00,CEST/+0200,FC Midtjylland,1-1,1-0,Aarhus GF,2023-09-03T18:00Z
+,7,Sun Sep 3 2023,14:00,CEST/+0200,Lyngby BK,1-1,1-0,FC Nordsjælland,2023-09-03T12:00Z
+,8,Fri Sep 15 2023,19:00,CEST/+0200,Viborg FF,2-2,0-0,FC Midtjylland,2023-09-15T17:00Z
+,8,Sat Sep 16 2023,16:00,CEST/+0200,FC Nordsjælland,2-2,1-1,FC København,2023-09-16T14:00Z
+,8,Sun Sep 17 2023,16:00,CEST/+0200,Hvidovre IF,0-1,0-0,Lyngby BK,2023-09-17T14:00Z
+,8,Sun Sep 17 2023,18:00,CEST/+0200,Aarhus GF,0-3,0-2,Brøndby IF,2023-09-17T16:00Z
+,8,Sun Sep 17 2023,14:00,CEST/+0200,Vejle BK,1-2,0-0,Randers FC,2023-09-17T12:00Z
+,8,Mon Sep 18 2023,19:00,CEST/+0200,Odense BK,0-3,0-1,Silkeborg IF,2023-09-18T17:00Z
+,9,Fri Sep 22 2023,19:00,CEST/+0200,Lyngby BK,1-1,0-0,Vejle BK,2023-09-22T17:00Z
+,9,Sun Sep 24 2023,14:00,CEST/+0200,Silkeborg IF,2-0,1-0,Viborg FF,2023-09-24T12:00Z
+,9,Sun Sep 24 2023,16:00,CEST/+0200,Randers FC,1-1,1-0,Aarhus GF,2023-09-24T14:00Z
+,9,Sun Sep 24 2023,18:00,CEST/+0200,FC Midtjylland,2-1,0-0,Odense BK,2023-09-24T16:00Z
+,9,Sun Sep 24 2023,14:00,CEST/+0200,Brøndby IF,2-3,1-0,FC København,2023-09-24T12:00Z
+,9,Mon Sep 25 2023,19:00,CEST/+0200,FC Nordsjælland,0-0,0-0,Hvidovre IF,2023-09-25T17:00Z
+,10,Sat Sep 30 2023,15:00,CEST/+0200,FC København,0-2,0-0,FC Midtjylland,2023-09-30T13:00Z
+,10,Sun Oct 1 2023,14:00,CEST/+0200,Vejle BK,0-0,0-0,FC Nordsjælland,2023-10-01T12:00Z
+,10,Sun Oct 1 2023,16:00,CEST/+0200,Hvidovre IF,0-3,0-1,Brøndby IF,2023-10-01T14:00Z
+,10,Sun Oct 1 2023,18:00,CEST/+0200,Viborg FF,2-1,1-0,Aarhus GF,2023-10-01T16:00Z
+,10,Sun Oct 1 2023,14:00,CEST/+0200,Randers FC,1-0,0-0,Silkeborg IF,2023-10-01T12:00Z
+,10,Mon Oct 2 2023,19:00,CEST/+0200,Odense BK,1-2,0-1,Lyngby BK,2023-10-02T17:00Z
+,11,Fri Oct 6 2023,19:00,CEST/+0200,Silkeborg IF,5-0,4-0,Lyngby BK,2023-10-06T17:00Z
+,11,Sun Oct 8 2023,14:00,CEST/+0200,Vejle BK,3-1,2-1,Hvidovre IF,2023-10-08T12:00Z
+,11,Sun Oct 8 2023,16:00,CEST/+0200,Brøndby IF,1-0,0-0,Viborg FF,2023-10-08T14:00Z
+,11,Sun Oct 8 2023,18:00,CEST/+0200,FC Midtjylland,2-2,0-1,Randers FC,2023-10-08T16:00Z
+,11,Sun Oct 8 2023,20:00,CEST/+0200,Aarhus GF,1-1,0-0,FC København,2023-10-08T18:00Z
+,11,Sun Oct 8 2023,14:00,CEST/+0200,FC Nordsjælland,0-1,0-1,Odense BK,2023-10-08T12:00Z
+,12,Fri Oct 20 2023,19:00,CEST/+0200,Hvidovre IF,1-2,1-1,Silkeborg IF,2023-10-20T17:00Z
+,12,Sat Oct 21 2023,17:00,CEST/+0200,FC København,2-1,0-0,Vejle BK,2023-10-21T15:00Z
+,12,Sun Oct 22 2023,16:00,CEST/+0200,Viborg FF,0-2,0-0,FC Nordsjælland,2023-10-22T14:00Z
+,12,Sun Oct 22 2023,18:00,CEST/+0200,Randers FC,2-2,1-1,Brøndby IF,2023-10-22T16:00Z
+,12,Sun Oct 22 2023,14:00,CEST/+0200,Lyngby BK,0-2,0-1,Aarhus GF,2023-10-22T12:00Z
+,12,Mon Oct 23 2023,19:00,CEST/+0200,Odense BK,1-2,1-1,FC Midtjylland,2023-10-23T17:00Z
+,13,Fri Oct 27 2023,19:00,CEST/+0200,FC Midtjylland,2-1,1-1,Lyngby BK,2023-10-27T17:00Z
+,13,Sat Oct 28 2023,17:00,CEST/+0200,FC København,4-0,2-0,Hvidovre IF,2023-10-28T15:00Z
+,13,Sun Oct 29 2023,16:00,CET/+0100,Silkeborg IF,0-0,0-0,Odense BK,2023-10-29T15:00Z
+,13,Sun Oct 29 2023,18:00,CET/+0100,Brøndby IF,2-1,1-1,FC Nordsjælland,2023-10-29T17:00Z
+,13,Sun Oct 29 2023,14:00,CET/+0100,Vejle BK,1-1,1-0,Viborg FF,2023-10-29T13:00Z
+,13,Mon Oct 30 2023,19:00,CET/+0100,Aarhus GF,2-1,1-1,Randers FC,2023-10-30T18:00Z
+,14,Sat Nov 4 2023,16:30,CET/+0100,Lyngby BK,2-2,0-1,Odense BK,2023-11-04T15:30Z
+,14,Sun Nov 5 2023,14:00,CET/+0100,Viborg FF,2-1,2-0,Silkeborg IF,2023-11-05T13:00Z
+,14,Sun Nov 5 2023,16:00,CET/+0100,Randers FC,2-4,1-1,FC København,2023-11-05T15:00Z
+,14,Sun Nov 5 2023,18:00,CET/+0100,Hvidovre IF,1-4,0-3,FC Midtjylland,2023-11-05T17:00Z
+,14,Sun Nov 5 2023,14:00,CET/+0100,FC Nordsjælland,1-0,0-0,Vejle BK,2023-11-05T13:00Z
+,14,Mon Nov 6 2023,19:00,CET/+0100,Brøndby IF,1-1,1-0,Aarhus GF,2023-11-06T18:00Z
+,15,Fri Nov 10 2023,19:00,CET/+0100,Silkeborg IF,1-1,0-1,Randers FC,2023-11-10T18:00Z
+,15,Sun Nov 12 2023,14:00,CET/+0100,Vejle BK,1-0,0-0,Lyngby BK,2023-11-12T13:00Z
+,15,Sun Nov 12 2023,16:00,CET/+0100,FC Midtjylland,2-0,0-0,FC Nordsjælland,2023-11-12T15:00Z
+,15,Sun Nov 12 2023,18:00,CET/+0100,Odense BK,0-2,0-0,Hvidovre IF,2023-11-12T17:00Z
+,15,Sun Nov 12 2023,20:00,CET/+0100,Aarhus GF,2-0,0-0,Viborg FF,2023-11-12T19:00Z
+,15,Sun Nov 12 2023,12:00,CET/+0100,FC København,0-0,0-0,Brøndby IF,2023-11-12T11:00Z
+,16,Fri Nov 24 2023,19:00,CET/+0100,Hvidovre IF,1-1,1-1,Vejle BK,2023-11-24T18:00Z
+,16,Sat Nov 25 2023,19:00,CET/+0100,Viborg FF,2-1,0-1,FC København,2023-11-25T18:00Z
+,16,Sun Nov 26 2023,16:00,CET/+0100,Randers FC,0-1,0-1,Odense BK,2023-11-26T15:00Z
+,16,Sun Nov 26 2023,18:00,CET/+0100,Lyngby BK,3-3,0-2,Brøndby IF,2023-11-26T17:00Z
+,16,Sun Nov 26 2023,14:00,CET/+0100,FC Nordsjælland,0-0,0-0,Aarhus GF,2023-11-26T13:00Z
+,16,Mon Nov 27 2023,19:00,CET/+0100,Silkeborg IF,1-4,1-1,FC Midtjylland,2023-11-27T18:00Z
+,17,Fri Dec 1 2023,19:00,CET/+0100,Randers FC,0-0,0-0,Vejle BK,2023-12-01T18:00Z
+,17,Sun Dec 3 2023,14:00,CET/+0100,Odense BK,1-1,0-1,FC Nordsjælland,2023-12-03T13:00Z
+,17,Sun Dec 3 2023,16:00,CET/+0100,Brøndby IF,4-0,3-0,Hvidovre IF,2023-12-03T15:00Z
+,17,Sun Dec 3 2023,18:00,CET/+0100,FC København,1-2,0-2,Aarhus GF,2023-12-03T17:00Z
+,17,Sun Dec 3 2023,14:00,CET/+0100,Lyngby BK,2-0,1-0,Silkeborg IF,2023-12-03T13:00Z
+,17,Mon Dec 4 2023,19:00,CET/+0100,FC Midtjylland,5-1,2-1,Viborg FF,2023-12-04T18:00Z
+,18,Fri Feb 16 2024,19:00,CET/+0100,Viborg FF,1-2,1-2,Odense BK,2024-02-16T18:00Z
+,18,Sun Feb 18 2024,14:00,CET/+0100,FC Nordsjælland,3-2,1-1,Lyngby BK,2024-02-18T13:00Z
+,18,Sun Feb 18 2024,14:00,CET/+0100,Hvidovre IF,1-3,1-0,Randers FC,2024-02-18T13:00Z
+,18,Sun Feb 18 2024,16:00,CET/+0100,Silkeborg IF,0-3,0-0,FC København,2024-02-18T15:00Z
+,18,Sun Feb 18 2024,18:00,CET/+0100,Brøndby IF,1-0,1-0,FC Midtjylland,2024-02-18T17:00Z
+,18,Mon Feb 19 2024,19:00,CET/+0100,Vejle BK,0-0,0-0,Aarhus GF,2024-02-19T18:00Z
+,19,Fri Feb 23 2024,19:00,CET/+0100,Randers FC,1-0,0-0,Lyngby BK,2024-02-23T18:00Z
+,19,Sun Feb 25 2024,14:00,CET/+0100,Hvidovre IF,2-2,0-0,Viborg FF,2024-02-25T13:00Z
+,19,Sun Feb 25 2024,14:00,CET/+0100,Vejle BK,2-0,1-0,Silkeborg IF,2024-02-25T13:00Z
+,19,Sun Feb 25 2024,16:00,CET/+0100,Odense BK,0-3,0-2,Brøndby IF,2024-02-25T15:00Z
+,19,Sun Feb 25 2024,18:00,CET/+0100,Aarhus GF,2-3,1-1,FC Midtjylland,2024-02-25T17:00Z
+,19,Mon Feb 26 2024,19:00,CET/+0100,FC København,2-0,1-0,FC Nordsjælland,2024-02-26T18:00Z
+,20,Fri Mar 1 2024,19:00,CET/+0100,FC Midtjylland,2-0,1-0,FC København,2024-03-01T18:00Z
+,20,Sun Mar 3 2024,14:00,CET/+0100,Viborg FF,3-0,2-0,Randers FC,2024-03-03T13:00Z
+,20,Sun Mar 3 2024,16:00,CET/+0100,Brøndby IF,1-1,0-0,Vejle BK,2024-03-03T15:00Z
+,20,Sun Mar 3 2024,18:00,CET/+0100,Aarhus GF,1-1,0-0,Odense BK,2024-03-03T17:00Z
+,20,Sun Mar 3 2024,14:00,CET/+0100,Lyngby BK,2-4,2-0,Hvidovre IF,2024-03-03T13:00Z
+,20,Mon Mar 4 2024,19:00,CET/+0100,FC Nordsjælland,3-1,2-1,Silkeborg IF,2024-03-04T18:00Z
+,21,Fri Mar 8 2024,19:00,CET/+0100,Hvidovre IF,1-2,0-1,FC Nordsjælland,2024-03-08T18:00Z
+,21,Sun Mar 10 2024,14:00,CET/+0100,Vejle BK,0-1,0-1,Odense BK,2024-03-10T13:00Z
+,21,Sun Mar 10 2024,16:00,CET/+0100,FC København,4-0,3-0,Lyngby BK,2024-03-10T15:00Z
+,21,Sun Mar 10 2024,18:00,CET/+0100,Viborg FF,1-2,0-1,Brøndby IF,2024-03-10T17:00Z
+,21,Sun Mar 10 2024,14:00,CET/+0100,Silkeborg IF,0-1,0-1,Aarhus GF,2024-03-10T13:00Z
+,21,Mon Mar 11 2024,19:00,CET/+0100,Randers FC,0-1,0-1,FC Midtjylland,2024-03-11T18:00Z
+,22,Sun Mar 17 2024,17:00,CET/+0100,Aarhus GF,1-0,0-0,Hvidovre IF,2024-03-17T16:00Z
+,22,Sun Mar 17 2024,17:00,CET/+0100,Brøndby IF,4-1,2-0,Silkeborg IF,2024-03-17T16:00Z
+,22,Sun Mar 17 2024,17:00,CET/+0100,FC Midtjylland,3-0,0-0,Vejle BK,2024-03-17T16:00Z
+,22,Sun Mar 17 2024,17:00,CET/+0100,FC Nordsjælland,1-1,0-0,Randers FC,2024-03-17T16:00Z
+,22,Sun Mar 17 2024,17:00,CET/+0100,Lyngby BK,2-0,1-0,Viborg FF,2024-03-17T16:00Z
+,22,Sun Mar 17 2024,17:00,CET/+0100,Odense BK,0-2,0-1,FC København,2024-03-17T16:00Z
+Playoffs - Relegation,1,Sun Mar 31 2024,16:00,CEST/+0200,Viborg FF,3-1,1-0,Hvidovre IF,2024-03-31T14:00Z
+Playoffs - Relegation,1,Sun Mar 31 2024,14:00,CEST/+0200,Randers FC,6-2,3-1,Lyngby BK,2024-03-31T12:00Z
+Championship,1,Mon Apr 1 2024,18:00,CEST/+0200,Silkeborg IF,2-2,1-1,Aarhus GF,2024-04-01T16:00Z
+Championship,1,Mon Apr 1 2024,16:00,CEST/+0200,FC Midtjylland,2-3,0-1,FC Nordsjælland,2024-04-01T14:00Z
+Championship,1,Mon Apr 1 2024,14:00,CEST/+0200,FC København,1-2,1-0,Brøndby IF,2024-04-01T12:00Z
+Playoffs - Relegation,1,Tue Apr 2 2024,19:00,CEST/+0200,Odense BK,0-1,0-1,Vejle BK,2024-04-02T17:00Z
+Playoffs - Relegation,2,Fri Apr 5 2024,19:00,CEST/+0200,Lyngby BK,0-0,0-0,Odense BK,2024-04-05T17:00Z
+Championship,2,Sun Apr 7 2024,16:00,CEST/+0200,FC Nordsjælland,2-1,2-0,FC København,2024-04-07T14:00Z
+Playoffs - Relegation,2,Sun Apr 7 2024,14:00,CEST/+0200,Hvidovre IF,1-3,0-2,Randers FC,2024-04-07T12:00Z
+Playoffs - Relegation,2,Sun Apr 7 2024,14:00,CEST/+0200,Vejle BK,1-1,0-0,Viborg FF,2024-04-07T12:00Z
+Championship,2,Sun Apr 7 2024,18:00,CEST/+0200,Aarhus GF,0-1,0-1,FC Midtjylland,2024-04-07T16:00Z
+Championship,2,Mon Apr 8 2024,19:00,CEST/+0200,Brøndby IF,1-1,0-0,Silkeborg IF,2024-04-08T17:00Z
+Playoffs - Relegation,3,Fri Apr 12 2024,19:00,CEST/+0200,Odense BK,1-3,1-1,Viborg FF,2024-04-12T17:00Z
+Playoffs - Relegation,3,Sun Apr 14 2024,14:00,CEST/+0200,Vejle BK,1-2,0-1,Randers FC,2024-04-14T12:00Z
+Playoffs - Relegation,3,Sun Apr 14 2024,14:00,CEST/+0200,Lyngby BK,1-1,0-0,Hvidovre IF,2024-04-14T12:00Z
+Championship,3,Sun Apr 14 2024,18:00,CEST/+0200,FC Midtjylland,2-2,2-1,FC København,2024-04-14T16:00Z
+Championship,3,Sun Apr 14 2024,16:00,CEST/+0200,Aarhus GF,2-2,1-1,Brøndby IF,2024-04-14T14:00Z
+Championship,3,Mon Apr 15 2024,19:00,CEST/+0200,Silkeborg IF,0-1,0-0,FC Nordsjælland,2024-04-15T17:00Z
+Playoffs - Relegation,4,Fri Apr 19 2024,19:00,CEST/+0200,Randers FC,2-2,0-0,Odense BK,2024-04-19T17:00Z
+Championship,4,Sun Apr 21 2024,16:00,CEST/+0200,FC København,2-0,1-0,Silkeborg IF,2024-04-21T14:00Z
+Playoffs - Relegation,4,Sun Apr 21 2024,14:00,CEST/+0200,Viborg FF,2-1,1-1,Lyngby BK,2024-04-21T12:00Z
+Playoffs - Relegation,4,Sun Apr 21 2024,14:00,CEST/+0200,Hvidovre IF,2-1,1-0,Vejle BK,2024-04-21T12:00Z
+Championship,4,Sun Apr 21 2024,18:00,CEST/+0200,Brøndby IF,2-1,2-0,FC Midtjylland,2024-04-21T16:00Z
+Championship,4,Mon Apr 22 2024,19:00,CEST/+0200,FC Nordsjælland,7-2,3-1,Aarhus GF,2024-04-22T17:00Z
+Playoffs - Relegation,5,Fri Apr 26 2024,19:00,CEST/+0200,Lyngby BK,1-1,1-0,Vejle BK,2024-04-26T17:00Z
+Championship,5,Sun Apr 28 2024,16:00,CEST/+0200,FC Nordsjælland,1-1,0-1,Brøndby IF,2024-04-28T14:00Z
+Championship,5,Sun Apr 28 2024,18:00,CEST/+0200,FC København,3-2,0-0,Aarhus GF,2024-04-28T16:00Z
+Playoffs - Relegation,5,Sun Apr 28 2024,14:00,CEST/+0200,Odense BK,1-2,0-1,Hvidovre IF,2024-04-28T12:00Z
+Playoffs - Relegation,5,Sun Apr 28 2024,14:00,CEST/+0200,Viborg FF,0-0,0-0,Randers FC,2024-04-28T12:00Z
+Championship,5,Mon Apr 29 2024,19:00,CEST/+0200,Silkeborg IF,3-0,3-0,FC Midtjylland,2024-04-29T17:00Z
+Championship,6,Fri May 3 2024,19:00,CEST/+0200,Aarhus GF,1-3,0-2,FC Nordsjælland,2024-05-03T17:00Z
+Playoffs - Relegation,6,Sun May 5 2024,14:00,CEST/+0200,Hvidovre IF,0-1,0-0,Viborg FF,2024-05-05T12:00Z
+Playoffs - Relegation,6,Sun May 5 2024,14:00,CEST/+0200,Lyngby BK,2-1,0-0,Randers FC,2024-05-05T12:00Z
+Championship,6,Sun May 5 2024,16:00,CEST/+0200,Silkeborg IF,0-3,0-2,FC København,2024-05-05T14:00Z
+Championship,6,Sun May 5 2024,18:00,CEST/+0200,FC Midtjylland,3-2,2-2,Brøndby IF,2024-05-05T16:00Z
+Playoffs - Relegation,6,Mon May 6 2024,19:00,CEST/+0200,Vejle BK,3-2,1-1,Odense BK,2024-05-06T17:00Z
+Playoffs - Relegation,7,Fri May 10 2024,19:00,CEST/+0200,Odense BK,1-2,1-2,Lyngby BK,2024-05-10T17:00Z
+Playoffs - Relegation,7,Sun May 12 2024,14:00,CEST/+0200,Randers FC,2-2,2-1,Hvidovre IF,2024-05-12T12:00Z
+Championship,7,Sun May 12 2024,20:00,CEST/+0200,FC Nordsjælland,4-1,1-1,Silkeborg IF,2024-05-12T18:00Z
+Championship,7,Sun May 12 2024,18:00,CEST/+0200,FC Midtjylland,2-1,2-1,Aarhus GF,2024-05-12T16:00Z
+Championship,7,Sun May 12 2024,16:00,CEST/+0200,Brøndby IF,1-3,1-1,FC København,2024-05-12T14:00Z
+Playoffs - Relegation,7,Sun May 12 2024,14:00,CEST/+0200,Viborg FF,1-2,1-1,Vejle BK,2024-05-12T12:00Z
+Championship,8,Wed May 15 2024,20:00,CEST/+0200,Brøndby IF,1-0,1-0,FC Nordsjælland,2024-05-15T18:00Z
+Playoffs - Relegation,8,Wed May 15 2024,18:00,CEST/+0200,Randers FC,1-0,1-0,Viborg FF,2024-05-15T16:00Z
+Playoffs - Relegation,8,Wed May 15 2024,18:00,CEST/+0200,Vejle BK,1-0,0-0,Lyngby BK,2024-05-15T16:00Z
+Championship,8,Thu May 16 2024,18:00,CEST/+0200,Aarhus GF,0-1,0-0,Silkeborg IF,2024-05-16T16:00Z
+Championship,8,Thu May 16 2024,20:00,CEST/+0200,FC København,1-2,0-2,FC Midtjylland,2024-05-16T18:00Z
+Playoffs - Relegation,8,Thu May 16 2024,18:00,CEST/+0200,Hvidovre IF,1-2,0-1,Odense BK,2024-05-16T16:00Z
+Playoffs - Relegation,9,Sun May 19 2024,14:00,CEST/+0200,Odense BK,2-0,1-0,Randers FC,2024-05-19T12:00Z
+Championship,9,Mon May 20 2024,18:00,CEST/+0200,FC Nordsjælland,3-3,3-2,FC Midtjylland,2024-05-20T16:00Z
+Playoffs - Relegation,9,Mon May 20 2024,14:00,CEST/+0200,Lyngby BK,3-1,0-1,Viborg FF,2024-05-20T12:00Z
+Playoffs - Relegation,9,Mon May 20 2024,14:00,CEST/+0200,Vejle BK,2-0,2-0,Hvidovre IF,2024-05-20T12:00Z
+Championship,9,Mon May 20 2024,16:00,CEST/+0200,Silkeborg IF,0-2,0-2,Brøndby IF,2024-05-20T14:00Z
+Championship,9,Tue May 21 2024,19:00,CEST/+0200,Aarhus GF,3-2,3-1,FC København,2024-05-21T17:00Z
+Playoffs - Relegation,10,Sat May 25 2024,15:00,CEST/+0200,Viborg FF,2-1,0-1,Odense BK,2024-05-25T13:00Z
+Playoffs - Relegation,10,Sat May 25 2024,15:00,CEST/+0200,Hvidovre IF,0-0,0-0,Lyngby BK,2024-05-25T13:00Z
+Playoffs - Relegation,10,Sat May 25 2024,15:00,CEST/+0200,Randers FC,1-0,0-0,Vejle BK,2024-05-25T13:00Z
+Championship,10,Sun May 26 2024,17:00,CEST/+0200,FC København,1-1,1-0,FC Nordsjælland,2024-05-26T15:00Z
+Championship,10,Sun May 26 2024,17:00,CEST/+0200,Brøndby IF,2-3,1-1,Aarhus GF,2024-05-26T15:00Z
+Championship,10,Sun May 26 2024,17:00,CEST/+0200,FC Midtjylland,3-3,0-2,Silkeborg IF,2024-05-26T15:00Z
+ECL Playoff,Final,Fri May 31 2024,19:00,CEST/+0200,FC København,2-1,1-1,Randers FC,2024-05-31T17:00Z

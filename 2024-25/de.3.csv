@@ -46,9 +46,9 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 5,Sat Sep 14 2024,14:00,CEST/+0200,1. FC Saarbrücken,1-1,1-1,SpVgg Unterhaching,2024-09-14T12:00Z
 5,Sat Sep 14 2024,14:30,CEST/+0200,TSV 1860 München,2-3,1-1,Dynamo Dresden,2024-09-14T12:30Z
 5,Sat Sep 14 2024,16:30,CEST/+0200,VfL Osnabrück,1-1,1-0,Hannover 96 II,2024-09-14T14:30Z
-5,Sun Sep 15 2024,16:30,CEST/+0200,SC Verl,,,Energie Cottbus,2024-09-15T14:30Z
-5,Sun Sep 15 2024,19:30,CEST/+0200,Alemannia Aachen,,,Viktoria Köln,2024-09-15T17:30Z
-5,Sun Sep 15 2024,13:30,CEST/+0200,Erzgebirge Aue,,,Arminia Bielefeld,2024-09-15T11:30Z
+5,Sun Sep 15 2024,16:30,CEST/+0200,SC Verl,0-3,0-1,Energie Cottbus,2024-09-15T14:30Z
+5,Sun Sep 15 2024,19:30,CEST/+0200,Alemannia Aachen,1-0,1-0,Viktoria Köln,2024-09-15T17:30Z
+5,Sun Sep 15 2024,13:30,CEST/+0200,Erzgebirge Aue,1-3,1-0,Arminia Bielefeld,2024-09-15T11:30Z
 6,Fri Sep 20 2024,19:00,CEST/+0200,SpVgg Unterhaching,,,Erzgebirge Aue,2024-09-20T17:00Z
 6,Sat Sep 21 2024,14:00,CEST/+0200,Waldhof Mannheim,,,VfL Osnabrück,2024-09-21T12:00Z
 6,Sat Sep 21 2024,14:00,CEST/+0200,FC Ingolstadt 04,,,Rot-Weiss Essen,2024-09-21T12:00Z

@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 5 2022,20:00,BST/+0100,Crystal Palace,0-2,0-1,Arsenal FC,2022-08-05T19:00Z
+1,Sat Aug 6 2022,15:00,BST/+0100,AFC Bournemouth,2-0,1-0,Aston Villa,2022-08-06T14:00Z
+1,Sat Aug 6 2022,15:00,BST/+0100,Leeds United,2-1,1-1,Wolverhampton Wanderers,2022-08-06T14:00Z
+1,Sat Aug 6 2022,15:00,BST/+0100,Newcastle United,2-0,0-0,Nottingham Forest,2022-08-06T14:00Z
+1,Sat Aug 6 2022,15:00,BST/+0100,Tottenham Hotspur,4-1,2-1,Southampton FC,2022-08-06T14:00Z
+1,Sat Aug 6 2022,17:30,BST/+0100,Everton FC,0-1,0-1,Chelsea FC,2022-08-06T16:30Z
+1,Sat Aug 6 2022,12:30,BST/+0100,Fulham FC,2-2,1-0,Liverpool FC,2022-08-06T11:30Z
+1,Sun Aug 7 2022,14:00,BST/+0100,Leicester City,2-2,1-0,Brentford FC,2022-08-07T13:00Z
+1,Sun Aug 7 2022,14:00,BST/+0100,Manchester United,1-2,0-2,Brighton & Hove Albion,2022-08-07T13:00Z
+1,Sun Aug 7 2022,16:30,BST/+0100,West Ham United,0-2,0-1,Manchester City,2022-08-07T15:30Z
+2,Sat Aug 13 2022,15:00,BST/+0100,Brighton & Hove Albion,0-0,0-0,Newcastle United,2022-08-13T14:00Z
+2,Sat Aug 13 2022,15:00,BST/+0100,Arsenal FC,4-2,2-0,Leicester City,2022-08-13T14:00Z
+2,Sat Aug 13 2022,15:00,BST/+0100,Southampton FC,2-2,0-0,Leeds United,2022-08-13T14:00Z
+2,Sat Aug 13 2022,15:00,BST/+0100,Manchester City,4-0,3-0,AFC Bournemouth,2022-08-13T14:00Z
+2,Sat Aug 13 2022,15:00,BST/+0100,Wolverhampton Wanderers,0-0,0-0,Fulham FC,2022-08-13T14:00Z
+2,Sat Aug 13 2022,17:30,BST/+0100,Brentford FC,4-0,4-0,Manchester United,2022-08-13T16:30Z
+2,Sat Aug 13 2022,12:30,BST/+0100,Aston Villa,2-1,1-0,Everton FC,2022-08-13T11:30Z
+2,Sun Aug 14 2022,14:00,BST/+0100,Nottingham Forest,1-0,1-0,West Ham United,2022-08-14T13:00Z
+2,Sun Aug 14 2022,16:30,BST/+0100,Chelsea FC,2-2,1-0,Tottenham Hotspur,2022-08-14T15:30Z
+2,Mon Aug 15 2022,20:00,BST/+0100,Liverpool FC,1-1,0-1,Crystal Palace,2022-08-15T19:00Z
+3,Sat Aug 20 2022,15:00,BST/+0100,Crystal Palace,3-1,1-1,Aston Villa,2022-08-20T14:00Z
+3,Sat Aug 20 2022,15:00,BST/+0100,Everton FC,1-1,0-0,Nottingham Forest,2022-08-20T14:00Z
+3,Sat Aug 20 2022,15:00,BST/+0100,Fulham FC,3-2,2-1,Brentford FC,2022-08-20T14:00Z
+3,Sat Aug 20 2022,15:00,BST/+0100,Leicester City,1-2,0-0,Southampton FC,2022-08-20T14:00Z
+3,Sat Aug 20 2022,17:30,BST/+0100,AFC Bournemouth,0-3,0-2,Arsenal FC,2022-08-20T16:30Z
+3,Sat Aug 20 2022,12:30,BST/+0100,Tottenham Hotspur,1-0,0-0,Wolverhampton Wanderers,2022-08-20T11:30Z
+3,Sun Aug 21 2022,14:00,BST/+0100,Leeds United,3-0,2-0,Chelsea FC,2022-08-21T13:00Z
+3,Sun Aug 21 2022,14:00,BST/+0100,West Ham United,0-2,0-1,Brighton & Hove Albion,2022-08-21T13:00Z
+3,Sun Aug 21 2022,16:30,BST/+0100,Newcastle United,3-3,2-1,Manchester City,2022-08-21T15:30Z
+3,Mon Aug 22 2022,20:00,BST/+0100,Manchester United,2-1,1-0,Liverpool FC,2022-08-22T19:00Z
+4,Sat Aug 27 2022,15:00,BST/+0100,Brighton & Hove Albion,1-0,0-0,Leeds United,2022-08-27T14:00Z
+4,Sat Aug 27 2022,15:00,BST/+0100,Brentford FC,1-1,0-1,Everton FC,2022-08-27T14:00Z
+4,Sat Aug 27 2022,15:00,BST/+0100,Chelsea FC,2-1,0-0,Leicester City,2022-08-27T14:00Z
+4,Sat Aug 27 2022,15:00,BST/+0100,Liverpool FC,9-0,5-0,AFC Bournemouth,2022-08-27T14:00Z
+4,Sat Aug 27 2022,15:00,BST/+0100,Manchester City,4-2,0-2,Crystal Palace,2022-08-27T14:00Z
+4,Sat Aug 27 2022,17:30,BST/+0100,Arsenal FC,2-1,0-0,Fulham FC,2022-08-27T16:30Z
+4,Sat Aug 27 2022,12:30,BST/+0100,Southampton FC,0-1,0-0,Manchester United,2022-08-27T11:30Z
+4,Sun Aug 28 2022,14:00,BST/+0100,Aston Villa,0-1,0-0,West Ham United,2022-08-28T13:00Z
+4,Sun Aug 28 2022,14:00,BST/+0100,Wolverhampton Wanderers,1-1,1-0,Newcastle United,2022-08-28T13:00Z
+4,Sun Aug 28 2022,16:30,BST/+0100,Nottingham Forest,0-2,0-1,Tottenham Hotspur,2022-08-28T15:30Z
+5,Tue Aug 30 2022,19:30,BST/+0100,Crystal Palace,1-1,0-0,Brentford FC,2022-08-30T18:30Z
+5,Tue Aug 30 2022,19:45,BST/+0100,Southampton FC,2-1,2-1,Chelsea FC,2022-08-30T18:45Z
+5,Tue Aug 30 2022,20:00,BST/+0100,Leeds United,1-1,0-1,Everton FC,2022-08-30T19:00Z
+5,Tue Aug 30 2022,19:30,BST/+0100,Fulham FC,2-1,0-0,Brighton & Hove Albion,2022-08-30T18:30Z
+5,Wed Aug 31 2022,19:30,BST/+0100,AFC Bournemouth,0-0,0-0,Wolverhampton Wanderers,2022-08-31T18:30Z
+5,Wed Aug 31 2022,19:30,BST/+0100,Arsenal FC,2-1,1-0,Aston Villa,2022-08-31T18:30Z
+5,Wed Aug 31 2022,19:30,BST/+0100,Manchester City,6-0,3-0,Nottingham Forest,2022-08-31T18:30Z
+5,Wed Aug 31 2022,19:45,BST/+0100,West Ham United,1-1,0-1,Tottenham Hotspur,2022-08-31T18:45Z
+5,Wed Aug 31 2022,20:00,BST/+0100,Liverpool FC,2-1,0-1,Newcastle United,2022-08-31T19:00Z
+5,Thu Sep 1 2022,20:00,BST/+0100,Leicester City,0-1,0-1,Manchester United,2022-09-01T19:00Z
+6,Sat Sep 3 2022,15:00,BST/+0100,Brentford FC,5-2,2-1,Leeds United,2022-09-03T14:00Z
+6,Sat Sep 3 2022,15:00,BST/+0100,Chelsea FC,2-1,0-0,West Ham United,2022-09-03T14:00Z
+6,Sat Sep 3 2022,15:00,BST/+0100,Newcastle United,0-0,0-0,Crystal Palace,2022-09-03T14:00Z
+6,Sat Sep 3 2022,15:00,BST/+0100,Nottingham Forest,2-3,2-0,AFC Bournemouth,2022-09-03T14:00Z
+6,Sat Sep 3 2022,15:00,BST/+0100,Tottenham Hotspur,2-1,1-0,Fulham FC,2022-09-03T14:00Z
+6,Sat Sep 3 2022,15:00,BST/+0100,Wolverhampton Wanderers,1-0,1-0,Southampton FC,2022-09-03T14:00Z
+6,Sat Sep 3 2022,17:30,BST/+0100,Aston Villa,1-1,0-0,Manchester City,2022-09-03T16:30Z
+6,Sat Sep 3 2022,12:30,BST/+0100,Everton FC,0-0,0-0,Liverpool FC,2022-09-03T11:30Z
+6,Sun Sep 4 2022,14:00,BST/+0100,Brighton & Hove Albion,5-2,2-2,Leicester City,2022-09-04T13:00Z
+6,Sun Sep 4 2022,16:30,BST/+0100,Manchester United,3-1,1-0,Arsenal FC,2022-09-04T15:30Z
+8,Fri Sep 16 2022,20:00,BST/+0100,Aston Villa,1-0,1-0,Southampton FC,2022-09-16T19:00Z
+8,Fri Sep 16 2022,20:00,BST/+0100,Nottingham Forest,2-3,1-0,Fulham FC,2022-09-16T19:00Z
+8,Sat Sep 17 2022,12:30,BST/+0100,Wolverhampton Wanderers,0-3,0-2,Manchester City,2022-09-17T11:30Z
+8,Sat Sep 17 2022,17:30,BST/+0100,Tottenham Hotspur,6-2,2-2,Leicester City,2022-09-17T16:30Z
+8,Sat Sep 17 2022,15:00,BST/+0100,Newcastle United,1-1,0-0,AFC Bournemouth,2022-09-17T14:00Z
+8,Sun Sep 18 2022,12:00,BST/+0100,Brentford FC,0-3,0-2,Arsenal FC,2022-09-18T11:00Z
+8,Sun Sep 18 2022,14:15,BST/+0100,Everton FC,1-0,0-0,West Ham United,2022-09-18T13:15Z
+9,Sat Oct 1 2022,15:00,BST/+0100,AFC Bournemouth,0-0,0-0,Brentford FC,2022-10-01T14:00Z
+9,Sat Oct 1 2022,12:30,BST/+0100,Arsenal FC,3-1,1-1,Tottenham Hotspur,2022-10-01T11:30Z
+9,Sat Oct 1 2022,15:00,BST/+0100,Liverpool FC,3-3,1-2,Brighton & Hove Albion,2022-10-01T14:00Z
+9,Sat Oct 1 2022,15:00,BST/+0100,Southampton FC,1-2,0-0,Everton FC,2022-10-01T14:00Z
+9,Sat Oct 1 2022,17:30,BST/+0100,West Ham United,2-0,1-0,Wolverhampton Wanderers,2022-10-01T16:30Z
+9,Sat Oct 1 2022,15:00,BST/+0100,Crystal Palace,1-2,1-1,Chelsea FC,2022-10-01T14:00Z
+9,Sat Oct 1 2022,15:00,BST/+0100,Fulham FC,1-4,0-3,Newcastle United,2022-10-01T14:00Z
+9,Sun Oct 2 2022,16:30,BST/+0100,Leeds United,0-0,0-0,Aston Villa,2022-10-02T15:30Z
+9,Sun Oct 2 2022,14:00,BST/+0100,Manchester City,6-3,4-0,Manchester United,2022-10-02T13:00Z
+9,Mon Oct 3 2022,20:00,BST/+0100,Leicester City,4-0,3-0,Nottingham Forest,2022-10-03T19:00Z
+10,Sat Oct 8 2022,15:00,BST/+0100,Chelsea FC,3-0,1-0,Wolverhampton Wanderers,2022-10-08T14:00Z
+10,Sat Oct 8 2022,15:00,BST/+0100,Manchester City,4-0,2-0,Southampton FC,2022-10-08T14:00Z
+10,Sat Oct 8 2022,15:00,BST/+0100,Newcastle United,5-1,2-0,Brentford FC,2022-10-08T14:00Z
+10,Sat Oct 8 2022,17:30,BST/+0100,Brighton & Hove Albion,0-1,0-1,Tottenham Hotspur,2022-10-08T16:30Z
+10,Sat Oct 8 2022,15:00,BST/+0100,AFC Bournemouth,2-1,0-1,Leicester City,2022-10-08T14:00Z
+10,Sun Oct 9 2022,14:00,BST/+0100,Crystal Palace,2-1,1-1,Leeds United,2022-10-09T13:00Z
+10,Sun Oct 9 2022,16:30,BST/+0100,Arsenal FC,3-2,2-1,Liverpool FC,2022-10-09T15:30Z
+10,Sun Oct 9 2022,19:00,BST/+0100,Everton FC,1-2,1-2,Manchester United,2022-10-09T18:00Z
+10,Sun Oct 9 2022,14:00,BST/+0100,West Ham United,3-1,1-1,Fulham FC,2022-10-09T13:00Z
+10,Mon Oct 10 2022,20:00,BST/+0100,Nottingham Forest,1-1,1-1,Aston Villa,2022-10-10T19:00Z
+11,Fri Oct 14 2022,20:00,BST/+0100,Brentford FC,2-0,1-0,Brighton & Hove Albion,2022-10-14T19:00Z
+11,Sat Oct 15 2022,12:30,BST/+0100,Leicester City,0-0,0-0,Crystal Palace,2022-10-15T11:30Z
+11,Sat Oct 15 2022,15:00,BST/+0100,Fulham FC,2-2,1-2,AFC Bournemouth,2022-10-15T14:00Z
+11,Sat Oct 15 2022,17:30,BST/+0100,Tottenham Hotspur,2-0,0-0,Everton FC,2022-10-15T16:30Z
+11,Sat Oct 15 2022,15:00,BST/+0100,Wolverhampton Wanderers,1-0,0-0,Nottingham Forest,2022-10-15T14:00Z
+11,Sun Oct 16 2022,16:30,BST/+0100,Liverpool FC,1-0,0-0,Manchester City,2022-10-16T15:30Z
+11,Sun Oct 16 2022,14:00,BST/+0100,Southampton FC,1-1,1-0,West Ham United,2022-10-16T13:00Z
+11,Sun Oct 16 2022,14:00,BST/+0100,Aston Villa,0-2,0-1,Chelsea FC,2022-10-16T13:00Z
+11,Sun Oct 16 2022,14:00,BST/+0100,Leeds United,0-1,0-1,Arsenal FC,2022-10-16T13:00Z
+11,Sun Oct 16 2022,14:00,BST/+0100,Manchester United,0-0,0-0,Newcastle United,2022-10-16T13:00Z
+12,Tue Oct 18 2022,19:30,BST/+0100,Brighton & Hove Albion,0-0,0-0,Nottingham Forest,2022-10-18T18:30Z
+12,Tue Oct 18 2022,20:15,BST/+0100,Crystal Palace,2-1,0-1,Wolverhampton Wanderers,2022-10-18T19:15Z
+12,Wed Oct 19 2022,19:30,BST/+0100,Newcastle United,1-0,1-0,Everton FC,2022-10-19T18:30Z
+12,Wed Oct 19 2022,19:30,BST/+0100,Liverpool FC,1-0,1-0,West Ham United,2022-10-19T18:30Z
+12,Wed Oct 19 2022,20:15,BST/+0100,Manchester United,2-0,0-0,Tottenham Hotspur,2022-10-19T19:15Z
+12,Wed Oct 19 2022,19:30,BST/+0100,Brentford FC,0-0,0-0,Chelsea FC,2022-10-19T18:30Z
+12,Wed Oct 19 2022,19:30,BST/+0100,AFC Bournemouth,0-1,0-1,Southampton FC,2022-10-19T18:30Z
+12,Thu Oct 20 2022,20:15,BST/+0100,Leicester City,2-0,2-0,Leeds United,2022-10-20T19:15Z
+12,Thu Oct 20 2022,19:30,BST/+0100,Fulham FC,3-0,1-0,Aston Villa,2022-10-20T18:30Z
+13,Sat Oct 22 2022,17:30,BST/+0100,Chelsea FC,1-1,0-0,Manchester United,2022-10-22T16:30Z
+13,Sat Oct 22 2022,15:00,BST/+0100,Everton FC,3-0,1-0,Crystal Palace,2022-10-22T14:00Z
+13,Sat Oct 22 2022,15:00,BST/+0100,Manchester City,3-1,2-0,Brighton & Hove Albion,2022-10-22T14:00Z
+13,Sat Oct 22 2022,12:30,BST/+0100,Nottingham Forest,1-0,0-0,Liverpool FC,2022-10-22T11:30Z
+13,Sun Oct 23 2022,14:00,BST/+0100,Southampton FC,1-1,0-1,Arsenal FC,2022-10-23T13:00Z
+13,Sun Oct 23 2022,14:00,BST/+0100,Leeds United,2-3,1-1,Fulham FC,2022-10-23T13:00Z
+13,Sun Oct 23 2022,16:30,BST/+0100,Tottenham Hotspur,1-2,0-2,Newcastle United,2022-10-23T15:30Z
+13,Sun Oct 23 2022,14:00,BST/+0100,Aston Villa,4-0,3-0,Brentford FC,2022-10-23T13:00Z
+13,Sun Oct 23 2022,14:00,BST/+0100,Wolverhampton Wanderers,0-4,0-2,Leicester City,2022-10-23T13:00Z
+13,Mon Oct 24 2022,20:00,BST/+0100,West Ham United,2-0,1-0,AFC Bournemouth,2022-10-24T19:00Z
+14,Sat Oct 29 2022,12:30,BST/+0100,Leicester City,0-1,0-0,Manchester City,2022-10-29T11:30Z
+14,Sat Oct 29 2022,19:45,BST/+0100,Liverpool FC,1-2,1-1,Leeds United,2022-10-29T18:45Z
+14,Sat Oct 29 2022,17:30,BST/+0100,Fulham FC,0-0,0-0,Everton FC,2022-10-29T16:30Z
+14,Sat Oct 29 2022,15:00,BST/+0100,Newcastle United,4-0,1-0,Aston Villa,2022-10-29T14:00Z
+14,Sat Oct 29 2022,15:00,BST/+0100,Brentford FC,1-1,0-0,Wolverhampton Wanderers,2022-10-29T14:00Z
+14,Sat Oct 29 2022,15:00,BST/+0100,AFC Bournemouth,2-3,1-0,Tottenham Hotspur,2022-10-29T14:00Z
+14,Sat Oct 29 2022,15:00,BST/+0100,Brighton & Hove Albion,4-1,3-0,Chelsea FC,2022-10-29T14:00Z
+14,Sat Oct 29 2022,15:00,BST/+0100,Crystal Palace,1-0,1-0,Southampton FC,2022-10-29T14:00Z
+14,Sun Oct 30 2022,14:00,GMT/+0000,Arsenal FC,5-0,1-0,Nottingham Forest,2022-10-30T14:00Z
+14,Sun Oct 30 2022,16:15,GMT/+0000,Manchester United,1-0,1-0,West Ham United,2022-10-30T16:15Z
+15,Sat Nov 5 2022,15:00,GMT/+0000,Nottingham Forest,2-2,1-1,Brentford FC,2022-11-05T15:00Z
+15,Sat Nov 5 2022,15:00,GMT/+0000,Manchester City,2-1,1-1,Fulham FC,2022-11-05T15:00Z
+15,Sat Nov 5 2022,15:00,GMT/+0000,Leeds United,4-3,1-2,AFC Bournemouth,2022-11-05T15:00Z
+15,Sat Nov 5 2022,17:30,GMT/+0000,Everton FC,0-2,0-1,Leicester City,2022-11-05T17:30Z
+15,Sat Nov 5 2022,15:00,GMT/+0000,Wolverhampton Wanderers,2-3,2-2,Brighton & Hove Albion,2022-11-05T15:00Z
+15,Sun Nov 6 2022,12:00,GMT/+0000,Chelsea FC,0-1,0-0,Arsenal FC,2022-11-06T12:00Z
+15,Sun Nov 6 2022,14:00,GMT/+0000,Aston Villa,3-1,2-1,Manchester United,2022-11-06T14:00Z
+15,Sun Nov 6 2022,16:30,GMT/+0000,Tottenham Hotspur,1-2,0-2,Liverpool FC,2022-11-06T16:30Z
+15,Sun Nov 6 2022,14:00,GMT/+0000,West Ham United,1-2,1-1,Crystal Palace,2022-11-06T14:00Z
+15,Sun Nov 6 2022,14:00,GMT/+0000,Southampton FC,1-4,0-1,Newcastle United,2022-11-06T14:00Z
+16,Sat Nov 12 2022,19:45,GMT/+0000,Wolverhampton Wanderers,0-2,0-0,Arsenal FC,2022-11-12T19:45Z
+16,Sat Nov 12 2022,17:30,GMT/+0000,Newcastle United,1-0,0-0,Chelsea FC,2022-11-12T17:30Z
+16,Sat Nov 12 2022,15:00,GMT/+0000,AFC Bournemouth,3-0,2-0,Everton FC,2022-11-12T15:00Z
+16,Sat Nov 12 2022,15:00,GMT/+0000,West Ham United,0-2,0-1,Leicester City,2022-11-12T15:00Z
+16,Sat Nov 12 2022,15:00,GMT/+0000,Liverpool FC,3-1,3-1,Southampton FC,2022-11-12T15:00Z
+16,Sat Nov 12 2022,15:00,GMT/+0000,Nottingham Forest,1-0,0-0,Crystal Palace,2022-11-12T15:00Z
+16,Sat Nov 12 2022,15:00,GMT/+0000,Tottenham Hotspur,4-3,1-2,Leeds United,2022-11-12T15:00Z
+16,Sat Nov 12 2022,12:30,GMT/+0000,Manchester City,1-2,1-1,Brentford FC,2022-11-12T12:30Z
+16,Sun Nov 13 2022,16:30,GMT/+0000,Fulham FC,1-2,0-1,Manchester United,2022-11-13T16:30Z
+16,Sun Nov 13 2022,14:00,GMT/+0000,Brighton & Hove Albion,1-2,1-1,Aston Villa,2022-11-13T14:00Z
+17,Mon Dec 26 2022,15:00,GMT/+0000,Leicester City,0-3,0-3,Newcastle United,2022-12-26T15:00Z
+17,Mon Dec 26 2022,12:30,GMT/+0000,Brentford FC,2-2,1-0,Tottenham Hotspur,2022-12-26T12:30Z
+17,Mon Dec 26 2022,15:00,GMT/+0000,Crystal Palace,0-3,0-1,Fulham FC,2022-12-26T15:00Z
+17,Mon Dec 26 2022,15:00,GMT/+0000,Everton FC,1-2,1-1,Wolverhampton Wanderers,2022-12-26T15:00Z
+17,Mon Dec 26 2022,17:30,GMT/+0000,Aston Villa,1-3,0-2,Liverpool FC,2022-12-26T17:30Z
+17,Mon Dec 26 2022,20:00,GMT/+0000,Arsenal FC,3-1,0-1,West Ham United,2022-12-26T20:00Z
+17,Mon Dec 26 2022,15:00,GMT/+0000,Southampton FC,1-3,0-2,Brighton & Hove Albion,2022-12-26T15:00Z
+17,Tue Dec 27 2022,20:00,GMT/+0000,Manchester United,3-0,2-0,Nottingham Forest,2022-12-27T20:00Z
+17,Tue Dec 27 2022,17:30,GMT/+0000,Chelsea FC,2-0,2-0,AFC Bournemouth,2022-12-27T17:30Z
+17,Wed Dec 28 2022,20:00,GMT/+0000,Leeds United,1-3,0-1,Manchester City,2022-12-28T20:00Z
+18,Fri Dec 30 2022,19:45,GMT/+0000,West Ham United,0-2,0-2,Brentford FC,2022-12-30T19:45Z
+18,Fri Dec 30 2022,20:00,GMT/+0000,Liverpool FC,2-1,2-1,Leicester City,2022-12-30T20:00Z
+18,Sat Dec 31 2022,15:00,GMT/+0000,AFC Bournemouth,0-2,0-2,Crystal Palace,2022-12-31T15:00Z
+18,Sat Dec 31 2022,15:00,GMT/+0000,Fulham FC,2-1,1-0,Southampton FC,2022-12-31T15:00Z
+18,Sat Dec 31 2022,15:00,GMT/+0000,Manchester City,1-1,1-0,Everton FC,2022-12-31T15:00Z
+18,Sat Dec 31 2022,17:30,GMT/+0000,Brighton & Hove Albion,2-4,0-2,Arsenal FC,2022-12-31T17:30Z
+18,Sat Dec 31 2022,15:00,GMT/+0000,Newcastle United,0-0,0-0,Leeds United,2022-12-31T15:00Z
+18,Sat Dec 31 2022,12:30,GMT/+0000,Wolverhampton Wanderers,0-1,0-0,Manchester United,2022-12-31T12:30Z
+18,Sun Jan 1 2023,16:30,GMT/+0000,Nottingham Forest,1-1,0-1,Chelsea FC,2023-01-01T16:30Z
+18,Sun Jan 1 2023,14:00,GMT/+0000,Tottenham Hotspur,0-2,0-0,Aston Villa,2023-01-01T14:00Z
+19,Mon Jan 2 2023,17:30,GMT/+0000,Brentford FC,3-1,2-0,Liverpool FC,2023-01-02T17:30Z
+19,Tue Jan 3 2023,19:45,GMT/+0000,Everton FC,1-4,0-1,Brighton & Hove Albion,2023-01-03T19:45Z
+19,Tue Jan 3 2023,19:45,GMT/+0000,Leicester City,0-1,0-1,Fulham FC,2023-01-03T19:45Z
+19,Tue Jan 3 2023,20:00,GMT/+0000,Manchester United,3-0,1-0,AFC Bournemouth,2023-01-03T20:00Z
+19,Tue Jan 3 2023,19:45,GMT/+0000,Arsenal FC,0-0,0-0,Newcastle United,2023-01-03T19:45Z
+19,Wed Jan 4 2023,20:00,GMT/+0000,Aston Villa,1-1,0-1,Wolverhampton Wanderers,2023-01-04T20:00Z
+19,Wed Jan 4 2023,20:00,GMT/+0000,Crystal Palace,0-4,0-0,Tottenham Hotspur,2023-01-04T20:00Z
+19,Wed Jan 4 2023,19:30,GMT/+0000,Southampton FC,0-1,0-1,Nottingham Forest,2023-01-04T19:30Z
+19,Wed Jan 4 2023,19:45,GMT/+0000,Leeds United,2-2,1-1,West Ham United,2023-01-04T19:45Z
+19,Thu Jan 5 2023,20:00,GMT/+0000,Chelsea FC,0-1,0-0,Manchester City,2023-01-05T20:00Z
+7,Thu Jan 12 2023,20:00,GMT/+0000,Fulham FC,2-1,1-0,Chelsea FC,2023-01-12T20:00Z
+20,Fri Jan 13 2023,20:00,GMT/+0000,Aston Villa,2-1,1-0,Leeds United,2023-01-13T20:00Z
+20,Sat Jan 14 2023,15:00,GMT/+0000,Brighton & Hove Albion,3-0,0-0,Liverpool FC,2023-01-14T15:00Z
+20,Sat Jan 14 2023,15:00,GMT/+0000,Everton FC,1-2,1-0,Southampton FC,2023-01-14T15:00Z
+20,Sat Jan 14 2023,15:00,GMT/+0000,Nottingham Forest,2-0,0-0,Leicester City,2023-01-14T15:00Z
+20,Sat Jan 14 2023,17:30,GMT/+0000,Brentford FC,2-0,1-0,AFC Bournemouth,2023-01-14T17:30Z
+20,Sat Jan 14 2023,15:00,GMT/+0000,Wolverhampton Wanderers,1-0,0-0,West Ham United,2023-01-14T15:00Z
+20,Sat Jan 14 2023,12:30,GMT/+0000,Manchester United,2-1,0-0,Manchester City,2023-01-14T12:30Z
+20,Sun Jan 15 2023,16:30,GMT/+0000,Tottenham Hotspur,0-2,0-2,Arsenal FC,2023-01-15T16:30Z
+20,Sun Jan 15 2023,14:00,GMT/+0000,Newcastle United,1-0,0-0,Fulham FC,2023-01-15T14:00Z
+20,Sun Jan 15 2023,14:00,GMT/+0000,Chelsea FC,1-0,0-0,Crystal Palace,2023-01-15T14:00Z
+7,Wed Jan 18 2023,20:00,GMT/+0000,Crystal Palace,1-1,0-1,Manchester United,2023-01-18T20:00Z
+7,Thu Jan 19 2023,20:00,GMT/+0000,Manchester City,4-2,0-2,Tottenham Hotspur,2023-01-19T20:00Z
+21,Sat Jan 21 2023,15:00,GMT/+0000,AFC Bournemouth,1-1,1-0,Nottingham Forest,2023-01-21T15:00Z
+21,Sat Jan 21 2023,15:00,GMT/+0000,West Ham United,2-0,2-0,Everton FC,2023-01-21T15:00Z
+21,Sat Jan 21 2023,17:30,GMT/+0000,Crystal Palace,0-0,0-0,Newcastle United,2023-01-21T17:30Z
+21,Sat Jan 21 2023,12:30,GMT/+0000,Liverpool FC,0-0,0-0,Chelsea FC,2023-01-21T12:30Z
+21,Sat Jan 21 2023,15:00,GMT/+0000,Leicester City,2-2,1-1,Brighton & Hove Albion,2023-01-21T15:00Z
+21,Sat Jan 21 2023,15:00,GMT/+0000,Southampton FC,0-1,0-0,Aston Villa,2023-01-21T15:00Z
+21,Sun Jan 22 2023,16:30,GMT/+0000,Arsenal FC,3-2,1-1,Manchester United,2023-01-22T16:30Z
+21,Sun Jan 22 2023,14:00,GMT/+0000,Manchester City,3-0,1-0,Wolverhampton Wanderers,2023-01-22T14:00Z
+21,Sun Jan 22 2023,14:00,GMT/+0000,Leeds United,0-0,0-0,Brentford FC,2023-01-22T14:00Z
+21,Mon Jan 23 2023,20:00,GMT/+0000,Fulham FC,0-1,0-1,Tottenham Hotspur,2023-01-23T20:00Z
+22,Fri Feb 3 2023,20:00,GMT/+0000,Chelsea FC,0-0,0-0,Fulham FC,2023-02-03T20:00Z
+22,Sat Feb 4 2023,15:00,GMT/+0000,Brighton & Hove Albion,1-0,0-0,AFC Bournemouth,2023-02-04T15:00Z
+22,Sat Feb 4 2023,15:00,GMT/+0000,Aston Villa,2-4,2-3,Leicester City,2023-02-04T15:00Z
+22,Sat Feb 4 2023,12:30,GMT/+0000,Everton FC,1-0,0-0,Arsenal FC,2023-02-04T12:30Z
+22,Sat Feb 4 2023,15:00,GMT/+0000,Manchester United,2-1,1-0,Crystal Palace,2023-02-04T15:00Z
+22,Sat Feb 4 2023,15:00,GMT/+0000,Brentford FC,3-0,2-0,Southampton FC,2023-02-04T15:00Z
+22,Sat Feb 4 2023,17:30,GMT/+0000,Newcastle United,1-1,1-1,West Ham United,2023-02-04T17:30Z
+22,Sat Feb 4 2023,15:00,GMT/+0000,Wolverhampton Wanderers,3-0,2-0,Liverpool FC,2023-02-04T15:00Z
+22,Sun Feb 5 2023,16:30,GMT/+0000,Tottenham Hotspur,1-0,1-0,Manchester City,2023-02-05T16:30Z
+22,Sun Feb 5 2023,14:00,GMT/+0000,Nottingham Forest,1-0,1-0,Leeds United,2023-02-05T14:00Z
+8,Wed Feb 8 2023,20:00,GMT/+0000,Manchester United,2-2,0-1,Leeds United,2023-02-08T20:00Z
+23,Sat Feb 11 2023,15:00,GMT/+0000,Fulham FC,2-0,1-0,Nottingham Forest,2023-02-11T15:00Z
+23,Sat Feb 11 2023,17:30,GMT/+0000,AFC Bournemouth,1-1,1-1,Newcastle United,2023-02-11T17:30Z
+23,Sat Feb 11 2023,15:00,GMT/+0000,Arsenal FC,1-1,0-0,Brentford FC,2023-02-11T15:00Z
+23,Sat Feb 11 2023,12:30,GMT/+0000,West Ham United,1-1,1-1,Chelsea FC,2023-02-11T12:30Z
+23,Sat Feb 11 2023,15:00,GMT/+0000,Leicester City,4-1,3-1,Tottenham Hotspur,2023-02-11T15:00Z
+23,Sat Feb 11 2023,15:00,GMT/+0000,Southampton FC,1-2,1-0,Wolverhampton Wanderers,2023-02-11T15:00Z
+23,Sat Feb 11 2023,15:00,GMT/+0000,Crystal Palace,1-1,0-0,Brighton & Hove Albion,2023-02-11T15:00Z
+23,Sun Feb 12 2023,16:30,GMT/+0000,Manchester City,3-1,3-0,Aston Villa,2023-02-12T16:30Z
+23,Sun Feb 12 2023,14:00,GMT/+0000,Leeds United,0-2,0-0,Manchester United,2023-02-12T14:00Z
+23,Mon Feb 13 2023,20:00,GMT/+0000,Liverpool FC,2-0,1-0,Everton FC,2023-02-13T20:00Z
+12,Wed Feb 15 2023,19:30,GMT/+0000,Arsenal FC,1-3,1-1,Manchester City,2023-02-15T19:30Z
+24,Sat Feb 18 2023,15:00,GMT/+0000,Nottingham Forest,1-1,0-1,Manchester City,2023-02-18T15:00Z
+24,Sat Feb 18 2023,17:30,GMT/+0000,Newcastle United,0-2,0-2,Liverpool FC,2023-02-18T17:30Z
+24,Sat Feb 18 2023,15:00,GMT/+0000,Wolverhampton Wanderers,0-1,0-0,AFC Bournemouth,2023-02-18T15:00Z
+24,Sat Feb 18 2023,15:00,GMT/+0000,Everton FC,1-0,0-0,Leeds United,2023-02-18T15:00Z
+24,Sat Feb 18 2023,15:00,GMT/+0000,Chelsea FC,0-1,0-1,Southampton FC,2023-02-18T15:00Z
+24,Sat Feb 18 2023,15:00,GMT/+0000,Brentford FC,1-1,0-0,Crystal Palace,2023-02-18T15:00Z
+24,Sat Feb 18 2023,15:00,GMT/+0000,Brighton & Hove Albion,0-1,0-0,Fulham FC,2023-02-18T15:00Z
+24,Sat Feb 18 2023,12:30,GMT/+0000,Aston Villa,2-4,2-1,Arsenal FC,2023-02-18T12:30Z
+24,Sun Feb 19 2023,16:30,GMT/+0000,Tottenham Hotspur,2-0,0-0,West Ham United,2023-02-19T16:30Z
+24,Sun Feb 19 2023,14:00,GMT/+0000,Manchester United,3-0,1-0,Leicester City,2023-02-19T14:00Z
+25,Fri Feb 24 2023,20:00,GMT/+0000,Fulham FC,1-1,0-1,Wolverhampton Wanderers,2023-02-24T20:00Z
+25,Sat Feb 25 2023,15:00,GMT/+0000,Leicester City,0-1,0-0,Arsenal FC,2023-02-25T15:00Z
+25,Sat Feb 25 2023,19:45,GMT/+0000,Crystal Palace,0-0,0-0,Liverpool FC,2023-02-25T19:45Z
+25,Sat Feb 25 2023,15:00,GMT/+0000,Everton FC,0-2,0-0,Aston Villa,2023-02-25T15:00Z
+25,Sat Feb 25 2023,15:00,GMT/+0000,Leeds United,1-0,0-0,Southampton FC,2023-02-25T15:00Z
+25,Sat Feb 25 2023,17:30,GMT/+0000,AFC Bournemouth,1-4,0-3,Manchester City,2023-02-25T17:30Z
+25,Sat Feb 25 2023,15:00,GMT/+0000,West Ham United,4-0,0-0,Nottingham Forest,2023-02-25T15:00Z
+25,Sun Feb 26 2023,13:30,GMT/+0000,Tottenham Hotspur,2-0,0-0,Chelsea FC,2023-02-26T13:30Z
+7,Wed Mar 1 2023,19:45,GMT/+0000,Arsenal FC,4-0,2-0,Everton FC,2023-03-01T19:45Z
+7,Wed Mar 1 2023,20:00,GMT/+0000,Liverpool FC,2-0,0-0,Wolverhampton Wanderers,2023-03-01T20:00Z
+26,Sat Mar 4 2023,15:00,GMT/+0000,Chelsea FC,1-0,0-0,Leeds United,2023-03-04T15:00Z
+26,Sat Mar 4 2023,15:00,GMT/+0000,Aston Villa,1-0,1-0,Crystal Palace,2023-03-04T15:00Z
+26,Sat Mar 4 2023,17:30,GMT/+0000,Southampton FC,1-0,1-0,Leicester City,2023-03-04T17:30Z
+26,Sat Mar 4 2023,15:00,GMT/+0000,Wolverhampton Wanderers,1-0,0-0,Tottenham Hotspur,2023-03-04T15:00Z
+26,Sat Mar 4 2023,12:30,GMT/+0000,Manchester City,2-0,1-0,Newcastle United,2023-03-04T12:30Z
+26,Sat Mar 4 2023,15:00,GMT/+0000,Arsenal FC,3-2,0-1,AFC Bournemouth,2023-03-04T15:00Z
+26,Sat Mar 4 2023,15:00,GMT/+0000,Brighton & Hove Albion,4-0,1-0,West Ham United,2023-03-04T15:00Z
+26,Sun Mar 5 2023,16:30,GMT/+0000,Liverpool FC,7-0,1-0,Manchester United,2023-03-05T16:30Z
+26,Sun Mar 5 2023,14:00,GMT/+0000,Nottingham Forest,2-2,1-2,Everton FC,2023-03-05T14:00Z
+26,Mon Mar 6 2023,20:00,GMT/+0000,Brentford FC,3-2,1-1,Fulham FC,2023-03-06T20:00Z
+27,Sat Mar 11 2023,15:00,GMT/+0000,Everton FC,1-0,1-0,Brentford FC,2023-03-11T15:00Z
+27,Sat Mar 11 2023,12:30,GMT/+0000,AFC Bournemouth,1-0,1-0,Liverpool FC,2023-03-11T12:30Z
+27,Sat Mar 11 2023,15:00,GMT/+0000,Leeds United,2-2,1-1,Brighton & Hove Albion,2023-03-11T15:00Z
+27,Sat Mar 11 2023,17:30,GMT/+0000,Crystal Palace,0-1,0-0,Manchester City,2023-03-11T17:30Z
+27,Sat Mar 11 2023,15:00,GMT/+0000,Tottenham Hotspur,3-1,2-0,Nottingham Forest,2023-03-11T15:00Z
+27,Sat Mar 11 2023,15:00,GMT/+0000,Leicester City,1-3,1-2,Chelsea FC,2023-03-11T15:00Z
+27,Sun Mar 12 2023,14:00,GMT/+0000,Fulham FC,0-3,0-3,Arsenal FC,2023-03-12T14:00Z
+27,Sun Mar 12 2023,14:00,GMT/+0000,Manchester United,0-0,0-0,Southampton FC,2023-03-12T14:00Z
+27,Sun Mar 12 2023,14:00,GMT/+0000,West Ham United,1-1,1-1,Aston Villa,2023-03-12T14:00Z
+27,Sun Mar 12 2023,16:30,GMT/+0000,Newcastle United,2-1,1-0,Wolverhampton Wanderers,2023-03-12T16:30Z
+7,Wed Mar 15 2023,19:30,GMT/+0000,Southampton FC,0-2,0-1,Brentford FC,2023-03-15T19:30Z
+8,Wed Mar 15 2023,19:30,GMT/+0000,Brighton & Hove Albion,1-0,1-0,Crystal Palace,2023-03-15T19:30Z
+28,Fri Mar 17 2023,20:00,GMT/+0000,Nottingham Forest,1-2,1-1,Newcastle United,2023-03-17T20:00Z
+28,Sat Mar 18 2023,15:00,GMT/+0000,Brentford FC,1-1,1-0,Leicester City,2023-03-18T15:00Z
+28,Sat Mar 18 2023,15:00,GMT/+0000,Wolverhampton Wanderers,2-4,0-1,Leeds United,2023-03-18T15:00Z
+28,Sat Mar 18 2023,15:00,GMT/+0000,Southampton FC,3-3,0-1,Tottenham Hotspur,2023-03-18T15:00Z
+28,Sat Mar 18 2023,15:00,GMT/+0000,Aston Villa,3-0,1-0,AFC Bournemouth,2023-03-18T15:00Z
+28,Sat Mar 18 2023,17:30,GMT/+0000,Chelsea FC,2-2,0-0,Everton FC,2023-03-18T17:30Z
+28,Sun Mar 19 2023,14:00,GMT/+0000,Arsenal FC,4-1,2-0,Crystal Palace,2023-03-19T14:00Z
+29,Sat Apr 1 2023,17:30,BST/+0100,Chelsea FC,0-2,0-1,Aston Villa,2023-04-01T16:30Z
+29,Sat Apr 1 2023,15:00,BST/+0100,Crystal Palace,2-1,0-0,Leicester City,2023-04-01T14:00Z
+29,Sat Apr 1 2023,15:00,BST/+0100,Nottingham Forest,1-1,1-0,Wolverhampton Wanderers,2023-04-01T14:00Z
+29,Sat Apr 1 2023,15:00,BST/+0100,Arsenal FC,4-1,1-0,Leeds United,2023-04-01T14:00Z
+29,Sat Apr 1 2023,15:00,BST/+0100,AFC Bournemouth,2-1,0-1,Fulham FC,2023-04-01T14:00Z
+29,Sat Apr 1 2023,15:00,BST/+0100,Brighton & Hove Albion,3-3,2-2,Brentford FC,2023-04-01T14:00Z
+29,Sat Apr 1 2023,12:30,BST/+0100,Manchester City,4-1,1-1,Liverpool FC,2023-04-01T11:30Z
+29,Sun Apr 2 2023,14:00,BST/+0100,West Ham United,1-0,1-0,Southampton FC,2023-04-02T13:00Z
+29,Sun Apr 2 2023,16:30,BST/+0100,Newcastle United,2-0,0-0,Manchester United,2023-04-02T15:30Z
+29,Mon Apr 3 2023,20:00,BST/+0100,Everton FC,1-1,0-0,Tottenham Hotspur,2023-04-03T19:00Z
+7,Tue Apr 4 2023,19:45,BST/+0100,AFC Bournemouth,0-2,0-1,Brighton & Hove Albion,2023-04-04T18:45Z
+7,Tue Apr 4 2023,19:45,BST/+0100,Leeds United,2-1,2-1,Nottingham Forest,2023-04-04T18:45Z
+8,Tue Apr 4 2023,20:00,BST/+0100,Chelsea FC,0-0,0-0,Liverpool FC,2023-04-04T19:00Z
+7,Tue Apr 4 2023,19:45,BST/+0100,Leicester City,1-2,1-1,Aston Villa,2023-04-04T18:45Z
+7,Wed Apr 5 2023,20:00,BST/+0100,West Ham United,1-5,1-2,Newcastle United,2023-04-05T19:00Z
+25,Wed Apr 5 2023,20:00,BST/+0100,Manchester United,1-0,1-0,Brentford FC,2023-04-05T19:00Z
+30,Sat Apr 8 2023,15:00,BST/+0100,Wolverhampton Wanderers,1-0,1-0,Chelsea FC,2023-04-08T14:00Z
+30,Sat Apr 8 2023,17:30,BST/+0100,Southampton FC,1-4,0-1,Manchester City,2023-04-08T16:30Z
+30,Sat Apr 8 2023,15:00,BST/+0100,Tottenham Hotspur,2-1,1-1,Brighton & Hove Albion,2023-04-08T14:00Z
+30,Sat Apr 8 2023,15:00,BST/+0100,Fulham FC,0-1,0-1,West Ham United,2023-04-08T14:00Z
+30,Sat Apr 8 2023,12:30,BST/+0100,Manchester United,2-0,1-0,Everton FC,2023-04-08T11:30Z
+30,Sat Apr 8 2023,15:00,BST/+0100,Aston Villa,2-0,0-0,Nottingham Forest,2023-04-08T14:00Z
+30,Sat Apr 8 2023,15:00,BST/+0100,Brentford FC,1-2,1-0,Newcastle United,2023-04-08T14:00Z
+30,Sat Apr 8 2023,15:00,BST/+0100,Leicester City,0-1,0-1,AFC Bournemouth,2023-04-08T14:00Z
+30,Sun Apr 9 2023,14:00,BST/+0100,Leeds United,1-5,1-1,Crystal Palace,2023-04-09T13:00Z
+30,Sun Apr 9 2023,16:30,BST/+0100,Liverpool FC,2-2,1-2,Arsenal FC,2023-04-09T15:30Z
+31,Sat Apr 15 2023,17:30,BST/+0100,Manchester City,3-1,3-0,Leicester City,2023-04-15T16:30Z
+31,Sat Apr 15 2023,15:00,BST/+0100,Southampton FC,0-2,0-0,Crystal Palace,2023-04-15T14:00Z
+31,Sat Apr 15 2023,15:00,BST/+0100,Wolverhampton Wanderers,2-0,1-0,Brentford FC,2023-04-15T14:00Z
+31,Sat Apr 15 2023,15:00,BST/+0100,Everton FC,1-3,1-1,Fulham FC,2023-04-15T14:00Z
+31,Sat Apr 15 2023,12:30,BST/+0100,Aston Villa,3-0,1-0,Newcastle United,2023-04-15T11:30Z
+31,Sat Apr 15 2023,15:00,BST/+0100,Chelsea FC,1-2,1-1,Brighton & Hove Albion,2023-04-15T14:00Z
+31,Sat Apr 15 2023,15:15,BST/+0100,Tottenham Hotspur,2-3,1-1,AFC Bournemouth,2023-04-15T14:15Z
+31,Sun Apr 16 2023,16:30,BST/+0100,Nottingham Forest,0-2,0-1,Manchester United,2023-04-16T15:30Z
+31,Sun Apr 16 2023,14:00,BST/+0100,West Ham United,2-2,1-2,Arsenal FC,2023-04-16T13:00Z
+31,Mon Apr 17 2023,20:00,BST/+0100,Leeds United,1-6,0-2,Liverpool FC,2023-04-17T19:00Z
+32,Fri Apr 21 2023,20:00,BST/+0100,Arsenal FC,3-3,1-2,Southampton FC,2023-04-21T19:00Z
+32,Sat Apr 22 2023,15:00,BST/+0100,Leicester City,2-1,1-1,Wolverhampton Wanderers,2023-04-22T14:00Z
+32,Sat Apr 22 2023,15:00,BST/+0100,Liverpool FC,3-2,0-0,Nottingham Forest,2023-04-22T14:00Z
+32,Sat Apr 22 2023,15:00,BST/+0100,Crystal Palace,0-0,0-0,Everton FC,2023-04-22T14:00Z
+32,Sat Apr 22 2023,15:00,BST/+0100,Brentford FC,1-1,0-0,Aston Villa,2023-04-22T14:00Z
+32,Sat Apr 22 2023,12:30,BST/+0100,Fulham FC,2-1,0-0,Leeds United,2023-04-22T11:30Z
+32,Sun Apr 23 2023,14:00,BST/+0100,AFC Bournemouth,0-4,0-3,West Ham United,2023-04-23T13:00Z
+32,Sun Apr 23 2023,14:00,BST/+0100,Newcastle United,6-1,5-0,Tottenham Hotspur,2023-04-23T13:00Z
+33,Tue Apr 25 2023,20:00,BST/+0100,Leeds United,1-1,1-0,Leicester City,2023-04-25T19:00Z
+33,Tue Apr 25 2023,19:30,BST/+0100,Wolverhampton Wanderers,2-0,1-0,Crystal Palace,2023-04-25T18:30Z
+33,Tue Apr 25 2023,19:45,BST/+0100,Aston Villa,1-0,1-0,Fulham FC,2023-04-25T18:45Z
+33,Wed Apr 26 2023,19:30,BST/+0100,Nottingham Forest,3-1,1-1,Brighton & Hove Albion,2023-04-26T18:30Z
+33,Wed Apr 26 2023,20:00,BST/+0100,Manchester City,4-1,2-0,Arsenal FC,2023-04-26T19:00Z
+33,Wed Apr 26 2023,19:45,BST/+0100,Chelsea FC,0-2,0-1,Brentford FC,2023-04-26T18:45Z
+33,Wed Apr 26 2023,19:45,BST/+0100,West Ham United,1-2,1-1,Liverpool FC,2023-04-26T18:45Z
+33,Thu Apr 27 2023,20:15,BST/+0100,Tottenham Hotspur,2-2,0-2,Manchester United,2023-04-27T19:15Z
+33,Thu Apr 27 2023,19:45,BST/+0100,Everton FC,1-4,0-1,Newcastle United,2023-04-27T18:45Z
+33,Thu Apr 27 2023,19:45,BST/+0100,Southampton FC,0-1,0-0,AFC Bournemouth,2023-04-27T18:45Z
+34,Sat Apr 29 2023,15:00,BST/+0100,Brighton & Hove Albion,6-0,4-0,Wolverhampton Wanderers,2023-04-29T14:00Z
+34,Sat Apr 29 2023,12:30,BST/+0100,Crystal Palace,4-3,3-2,West Ham United,2023-04-29T11:30Z
+34,Sat Apr 29 2023,15:00,BST/+0100,Brentford FC,2-1,0-1,Nottingham Forest,2023-04-29T14:00Z
+34,Sun Apr 30 2023,14:00,BST/+0100,Manchester United,1-0,1-0,Aston Villa,2023-04-30T13:00Z
+34,Sun Apr 30 2023,14:00,BST/+0100,Fulham FC,1-2,1-2,Manchester City,2023-04-30T13:00Z
+34,Sun Apr 30 2023,14:00,BST/+0100,AFC Bournemouth,4-1,2-1,Leeds United,2023-04-30T13:00Z
+34,Sun Apr 30 2023,14:00,BST/+0100,Newcastle United,3-1,0-1,Southampton FC,2023-04-30T13:00Z
+34,Sun Apr 30 2023,16:30,BST/+0100,Liverpool FC,4-3,3-1,Tottenham Hotspur,2023-04-30T15:30Z
+34,Mon May 1 2023,20:00,BST/+0100,Leicester City,2-2,2-1,Everton FC,2023-05-01T19:00Z
+34,Tue May 2 2023,20:00,BST/+0100,Arsenal FC,3-1,3-0,Chelsea FC,2023-05-02T19:00Z
+28,Wed May 3 2023,20:00,BST/+0100,Liverpool FC,1-0,1-0,Fulham FC,2023-05-03T19:00Z
+28,Wed May 3 2023,20:00,BST/+0100,Manchester City,3-0,0-0,West Ham United,2023-05-03T19:00Z
+28,Thu May 4 2023,20:00,BST/+0100,Brighton & Hove Albion,1-0,0-0,Manchester United,2023-05-04T19:00Z
+35,Sat May 6 2023,15:00,BST/+0100,Tottenham Hotspur,1-0,1-0,Crystal Palace,2023-05-06T14:00Z
+35,Sat May 6 2023,17:30,BST/+0100,Liverpool FC,1-0,1-0,Brentford FC,2023-05-06T16:30Z
+35,Sat May 6 2023,15:00,BST/+0100,AFC Bournemouth,1-3,1-1,Chelsea FC,2023-05-06T14:00Z
+35,Sat May 6 2023,15:00,BST/+0100,Manchester City,2-1,2-0,Leeds United,2023-05-06T14:00Z
+35,Sat May 6 2023,15:00,BST/+0100,Wolverhampton Wanderers,1-0,1-0,Aston Villa,2023-05-06T14:00Z
+35,Sun May 7 2023,16:30,BST/+0100,Newcastle United,0-2,0-1,Arsenal FC,2023-05-07T15:30Z
+35,Sun May 7 2023,19:00,BST/+0100,West Ham United,1-0,1-0,Manchester United,2023-05-07T18:00Z
+35,Mon May 8 2023,17:30,BST/+0100,Brighton & Hove Albion,1-5,0-3,Everton FC,2023-05-08T16:30Z
+35,Mon May 8 2023,15:00,BST/+0100,Fulham FC,5-3,3-0,Leicester City,2023-05-08T14:00Z
+35,Mon May 8 2023,20:00,BST/+0100,Nottingham Forest,4-3,3-1,Southampton FC,2023-05-08T19:00Z
+36,Sat May 13 2023,15:00,BST/+0100,Chelsea FC,2-2,0-1,Nottingham Forest,2023-05-13T14:00Z
+36,Sat May 13 2023,15:00,BST/+0100,Southampton FC,0-2,0-0,Fulham FC,2023-05-13T14:00Z
+36,Sat May 13 2023,15:00,BST/+0100,Crystal Palace,2-0,1-0,AFC Bournemouth,2023-05-13T14:00Z
+36,Sat May 13 2023,12:30,BST/+0100,Leeds United,2-2,1-1,Newcastle United,2023-05-13T11:30Z
+36,Sat May 13 2023,15:00,BST/+0100,Aston Villa,2-1,1-0,Tottenham Hotspur,2023-05-13T14:00Z
+36,Sat May 13 2023,15:00,BST/+0100,Manchester United,2-0,1-0,Wolverhampton Wanderers,2023-05-13T14:00Z
+36,Sun May 14 2023,14:00,BST/+0100,Everton FC,0-3,0-2,Manchester City,2023-05-14T13:00Z
+36,Sun May 14 2023,16:30,BST/+0100,Arsenal FC,0-3,0-0,Brighton & Hove Albion,2023-05-14T15:30Z
+36,Sun May 14 2023,14:00,BST/+0100,Brentford FC,2-0,2-0,West Ham United,2023-05-14T13:00Z
+36,Mon May 15 2023,20:00,BST/+0100,Leicester City,0-3,0-2,Liverpool FC,2023-05-15T19:00Z
+25,Thu May 18 2023,19:30,BST/+0100,Newcastle United,4-1,2-0,Brighton & Hove Albion,2023-05-18T18:30Z
+37,Sat May 20 2023,15:00,BST/+0100,Wolverhampton Wanderers,1-1,1-0,Everton FC,2023-05-20T14:00Z
+37,Sat May 20 2023,17:30,BST/+0100,Nottingham Forest,1-0,1-0,Arsenal FC,2023-05-20T16:30Z
+37,Sat May 20 2023,12:30,BST/+0100,Tottenham Hotspur,1-3,1-0,Brentford FC,2023-05-20T11:30Z
+37,Sat May 20 2023,15:00,BST/+0100,AFC Bournemouth,0-1,0-1,Manchester United,2023-05-20T14:00Z
+37,Sat May 20 2023,15:00,BST/+0100,Fulham FC,2-2,1-1,Crystal Palace,2023-05-20T14:00Z
+37,Sat May 20 2023,15:00,BST/+0100,Liverpool FC,1-1,0-1,Aston Villa,2023-05-20T14:00Z
+37,Sun May 21 2023,16:00,BST/+0100,Manchester City,1-0,1-0,Chelsea FC,2023-05-21T15:00Z
+37,Sun May 21 2023,13:30,BST/+0100,West Ham United,3-1,1-1,Leeds United,2023-05-21T12:30Z
+37,Sun May 21 2023,14:00,BST/+0100,Brighton & Hove Albion,3-1,2-0,Southampton FC,2023-05-21T13:00Z
+37,Mon May 22 2023,20:00,BST/+0100,Newcastle United,0-0,0-0,Leicester City,2023-05-22T19:00Z
+32,Wed May 24 2023,20:00,BST/+0100,Brighton & Hove Albion,1-1,1-1,Manchester City,2023-05-24T19:00Z
+32,Thu May 25 2023,20:00,BST/+0100,Manchester United,4-1,2-0,Chelsea FC,2023-05-25T19:00Z
+38,Sun May 28 2023,16:30,BST/+0100,Aston Villa,2-1,2-1,Brighton & Hove Albion,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Crystal Palace,1-1,0-1,Nottingham Forest,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Arsenal FC,5-0,3-0,Wolverhampton Wanderers,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Brentford FC,1-0,0-0,Manchester City,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Chelsea FC,1-1,1-1,Newcastle United,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Everton FC,1-0,0-0,AFC Bournemouth,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Southampton FC,4-4,2-2,Liverpool FC,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Leeds United,1-4,0-1,Tottenham Hotspur,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Leicester City,2-1,1-0,West Ham United,2023-05-28T15:30Z
+38,Sun May 28 2023,16:30,BST/+0100,Manchester United,2-1,1-1,Fulham FC,2023-05-28T15:30Z

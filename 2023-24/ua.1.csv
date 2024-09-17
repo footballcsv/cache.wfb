@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Jul 28 2023,19:00,EEST/+0300,NK Veres,0-2,0-2,Polissya Zhytomyr,,2023-07-28T16:00Z
+1,Fri Jul 28 2023,17:00,EEST/+0300,FK Obolon,0-0,0-0,Kolos Kovalivka,,2023-07-28T14:00Z
+1,Sat Jul 29 2023,17:00,EEST/+0300,Metalist 1925 Kharkiv,1-2,0-1,Shakhtar Donetsk,,2023-07-29T14:00Z
+1,Sat Jul 29 2023,15:00,EEST/+0300,Rukh Lviv,2-1,0-1,Zorya Lugansk,,2023-07-29T12:00Z
+1,Sun Jul 30 2023,15:00,EEST/+0300,FC LNZ Cherkasy,0-2,0-1,Chernomorets Odessa,,2023-07-30T12:00Z
+1,Sun Jul 30 2023,17:00,EEST/+0300,Dinamo Kiev,4-1,2-1,FC Mynai,,2023-07-30T14:00Z
+1,Sun Jul 30 2023,19:00,EEST/+0300,FK Oleksandriya,1-0,1-0,Kryvbas Kryvyi Rih,,2023-07-30T16:00Z
+2,Wed Aug 2 2023,17:00,EEST/+0300,NK Veres,1-1,0-1,Shakhtar Donetsk,,2023-08-02T14:00Z
+2,Fri Aug 4 2023,17:00,EEST/+0300,FK Obolon,2-4,1-3,Dinamo Kiev,,2023-08-04T14:00Z
+2,Sat Aug 5 2023,15:00,EEST/+0300,FC Mynai,0-3,0-1,FC LNZ Cherkasy,,2023-08-05T12:00Z
+2,Sat Aug 5 2023,20:00,EEST/+0300,FK Oleksandriya,1-0,1-0,Metalist 1925 Kharkiv,,2023-08-05T17:00Z
+2,Sun Aug 6 2023,19:00,EEST/+0300,Rukh Lviv,4-1,1-1,Vorskla Poltava,,2023-08-06T16:00Z
+2,Sun Aug 6 2023,15:00,EEST/+0300,SK Dnipro-1,2-1,0-0,Polissya Zhytomyr,,2023-08-06T12:00Z
+2,Sun Aug 6 2023,17:00,EEST/+0300,Kolos Kovalivka,2-0,0-0,Chernomorets Odessa,,2023-08-06T14:00Z
+2,Sun Aug 6 2023,17:00,EEST/+0300,Zorya Lugansk,1-3,1-1,Kryvbas Kryvyi Rih,,2023-08-06T14:00Z
+3,Sat Aug 12 2023,15:00,EEST/+0300,Chernomorets Odessa,2-0,1-0,FK Obolon,,2023-08-12T12:00Z
+3,Sat Aug 12 2023,17:00,EEST/+0300,Kolos Kovalivka,2-0,1-0,NK Veres,,2023-08-12T14:00Z
+3,Sat Aug 12 2023,17:00,EEST/+0300,Polissya Zhytomyr,0-1,0-0,Rukh Lviv,,2023-08-12T14:00Z
+3,Sun Aug 13 2023,13:00,EEST/+0300,FC Mynai,1-1,0-0,SK Dnipro-1,,2023-08-13T10:00Z
+3,Sun Aug 13 2023,17:00,EEST/+0300,Kryvbas Kryvyi Rih,2-0,1-0,FC LNZ Cherkasy,,2023-08-13T14:00Z
+3,Sun Aug 13 2023,15:00,EEST/+0300,Vorskla Poltava,1-2,0-1,Zorya Lugansk,,2023-08-13T12:00Z
+3,Mon Aug 14 2023,17:00,EEST/+0300,Shakhtar Donetsk,2-1,2-0,FK Oleksandriya,,2023-08-14T14:00Z
+4,Fri Aug 18 2023,19:00,EEST/+0300,Zorya Lugansk,0-0,0-0,FK Oleksandriya,,2023-08-18T16:00Z
+4,Fri Aug 18 2023,17:00,EEST/+0300,FC LNZ Cherkasy,1-2,0-0,Polissya Zhytomyr,,2023-08-18T14:00Z
+4,Sat Aug 19 2023,19:00,EEST/+0300,Rukh Lviv,1-1,0-1,Kolos Kovalivka,,2023-08-19T16:00Z
+4,Sat Aug 19 2023,17:00,EEST/+0300,Metalist 1925 Kharkiv,1-0,0-0,FC Mynai,,2023-08-19T14:00Z
+4,Sat Aug 19 2023,15:00,EEST/+0300,NK Veres,1-2,1-2,Vorskla Poltava,,2023-08-19T12:00Z
+4,Sun Aug 20 2023,17:00,EEST/+0300,Chernomorets Odessa,3-2,1-0,Dinamo Kiev,,2023-08-20T14:00Z
+4,Sun Aug 20 2023,15:00,EEST/+0300,SK Dnipro-1,1-2,1-0,FK Obolon,,2023-08-20T12:00Z
+4,Sun Aug 20 2023,19:00,EEST/+0300,Kryvbas Kryvyi Rih,3-3,2-3,Shakhtar Donetsk,,2023-08-20T16:00Z
+5,Sat Aug 26 2023,15:00,EEST/+0300,FC LNZ Cherkasy,0-1,0-1,Metalist 1925 Kharkiv,,2023-08-26T12:00Z
+5,Sat Aug 26 2023,17:00,EEST/+0300,FK Oleksandriya,0-3,0-0,Polissya Zhytomyr,,2023-08-26T14:00Z
+5,Sun Aug 27 2023,17:00,EEST/+0300,Vorskla Poltava,2-1,2-0,Chernomorets Odessa,,2023-08-27T14:00Z
+5,Sun Aug 27 2023,13:00,EEST/+0300,FC Mynai,1-1,1-1,Zorya Lugansk,,2023-08-27T10:00Z
+5,Sun Aug 27 2023,15:00,EEST/+0300,Kolos Kovalivka,0-2,0-2,Shakhtar Donetsk,,2023-08-27T12:00Z
+5,Mon Aug 28 2023,19:00,EEST/+0300,FK Obolon,0-0,0-0,Kryvbas Kryvyi Rih,,2023-08-28T16:00Z
+6,Fri Sep 1 2023,17:00,EEST/+0300,NK Veres,3-1,2-1,Chernomorets Odessa,,2023-09-01T14:00Z
+6,Sat Sep 2 2023,15:00,EEST/+0300,Polissya Zhytomyr,2-0,0-0,FK Obolon,,2023-09-02T12:00Z
+6,Sat Sep 2 2023,17:00,EEST/+0300,Vorskla Poltava,1-0,1-0,FK Oleksandriya,,2023-09-02T14:00Z
+6,Sat Sep 2 2023,13:00,EEST/+0300,FC Mynai,1-4,0-1,Shakhtar Donetsk,,2023-09-02T10:00Z
+6,Sun Sep 3 2023,17:00,EEST/+0300,Kolos Kovalivka,0-3,0-1,Kryvbas Kryvyi Rih,,2023-09-03T14:00Z
+6,Sun Sep 3 2023,19:00,EEST/+0300,Rukh Lviv,1-1,1-1,Metalist 1925 Kharkiv,,2023-09-03T16:00Z
+6,Sun Sep 3 2023,13:00,EEST/+0300,SK Dnipro-1,0-0,0-0,FC LNZ Cherkasy,,2023-09-03T10:00Z
+7,Fri Sep 15 2023,18:30,EEST/+0300,Metalist 1925 Kharkiv,2-1,2-1,Zorya Lugansk,,2023-09-15T15:30Z
+7,Sat Sep 16 2023,19:00,EEST/+0300,FK Oleksandriya,1-1,0-0,FC Mynai,,2023-09-16T16:00Z
+7,Sat Sep 16 2023,17:00,EEST/+0300,Shakhtar Donetsk,1-0,0-0,FK Obolon,,2023-09-16T14:00Z
+7,Sat Sep 16 2023,15:00,EEST/+0300,Chernomorets Odessa,1-0,1-0,Polissya Zhytomyr,,2023-09-16T12:00Z
+7,Sun Sep 17 2023,17:00,EEST/+0300,Kryvbas Kryvyi Rih,2-1,1-1,NK Veres,,2023-09-17T14:00Z
+7,Sun Sep 17 2023,15:00,EEST/+0300,SK Dnipro-1,1-1,0-0,Kolos Kovalivka,,2023-09-17T12:00Z
+7,Sun Sep 17 2023,13:00,EEST/+0300,FC LNZ Cherkasy,2-1,1-0,Rukh Lviv,,2023-09-17T10:00Z
+7,Mon Sep 18 2023,17:00,EEST/+0300,Dinamo Kiev,2-0,1-0,Vorskla Poltava,,2023-09-18T14:00Z
+8,Fri Sep 22 2023,17:00,EEST/+0300,FK Obolon,0-0,0-0,NK Veres,,2023-09-22T14:00Z
+8,Fri Sep 22 2023,19:00,EEST/+0300,FK Oleksandriya,1-5,0-4,Chernomorets Odessa,,2023-09-22T16:00Z
+8,Sat Sep 23 2023,19:00,EEST/+0300,Rukh Lviv,1-1,0-1,Shakhtar Donetsk,,2023-09-23T16:00Z
+8,Sat Sep 23 2023,17:00,EEST/+0300,Vorskla Poltava,1-4,1-2,Kryvbas Kryvyi Rih,,2023-09-23T14:00Z
+8,Sat Sep 23 2023,15:00,EEST/+0300,Polissya Zhytomyr,2-1,0-1,FC Mynai,,2023-09-23T12:00Z
+8,Sun Sep 24 2023,17:00,EEST/+0300,Metalist 1925 Kharkiv,0-0,0-0,Kolos Kovalivka,,2023-09-24T14:00Z
+8,Sun Sep 24 2023,15:00,EEST/+0300,Zorya Lugansk,0-1,0-1,SK Dnipro-1,,2023-09-24T12:00Z
+8,Sun Sep 24 2023,13:00,EEST/+0300,FC LNZ Cherkasy,2-4,0-1,Dinamo Kiev,,2023-09-24T10:00Z
+9,Sat Sep 30 2023,17:00,EEST/+0300,Shakhtar Donetsk,1-2,0-1,Vorskla Poltava,,2023-09-30T14:00Z
+9,Sat Sep 30 2023,15:00,EEST/+0300,NK Veres,0-0,0-0,FC LNZ Cherkasy,,2023-09-30T12:00Z
+9,Sat Sep 30 2023,19:00,EEST/+0300,Chernomorets Odessa,0-0,0-0,Zorya Lugansk,,2023-09-30T16:00Z
+9,Sun Oct 1 2023,17:00,EEST/+0300,Kolos Kovalivka,0-0,0-0,Polissya Zhytomyr,,2023-10-01T14:00Z
+9,Sun Oct 1 2023,13:00,EEST/+0300,FC Mynai,0-1,0-0,FK Obolon,,2023-10-01T10:00Z
+9,Sun Oct 1 2023,19:00,EEST/+0300,Dinamo Kiev,4-2,2-1,FK Oleksandriya,,2023-10-01T16:00Z
+9,Sun Oct 1 2023,15:00,EEST/+0300,Kryvbas Kryvyi Rih,1-3,1-0,Rukh Lviv,,2023-10-01T12:00Z
+9,Mon Oct 2 2023,17:00,EEST/+0300,SK Dnipro-1,1-0,0-0,Metalist 1925 Kharkiv,,2023-10-02T14:00Z
+10,Fri Oct 6 2023,15:00,EEST/+0300,Polissya Zhytomyr,3-2,1-1,Dinamo Kiev,,2023-10-06T12:00Z
+10,Sat Oct 7 2023,15:00,EEST/+0300,FC LNZ Cherkasy,0-0,0-0,FK Oleksandriya,,2023-10-07T12:00Z
+10,Sat Oct 7 2023,17:00,EEST/+0300,Kolos Kovalivka,0-0,0-0,Vorskla Poltava,,2023-10-07T14:00Z
+10,Sat Oct 7 2023,13:00,EEST/+0300,SK Dnipro-1,2-0,2-0,NK Veres,,2023-10-07T10:00Z
+10,Sun Oct 8 2023,13:00,EEST/+0300,FK Obolon,1-0,1-0,Metalist 1925 Kharkiv,,2023-10-08T10:00Z
+10,Sun Oct 8 2023,15:00,EEST/+0300,Rukh Lviv,0-0,0-0,FC Mynai,,2023-10-08T12:00Z
+10,Sun Oct 8 2023,17:00,EEST/+0300,Kryvbas Kryvyi Rih,1-0,0-0,Chernomorets Odessa,,2023-10-08T14:00Z
+11,Fri Oct 20 2023,19:00,EEST/+0300,Metalist 1925 Kharkiv,1-3,1-2,Kryvbas Kryvyi Rih,,2023-10-20T16:00Z
+11,Fri Oct 20 2023,17:00,EEST/+0300,FK Obolon,2-4,2-2,Zorya Lugansk,,2023-10-20T14:00Z
+11,Sat Oct 21 2023,19:00,EEST/+0300,FK Oleksandriya,0-1,0-1,Kolos Kovalivka,,2023-10-21T16:00Z
+11,Sat Oct 21 2023,17:00,EEST/+0300,Shakhtar Donetsk,3-0,1-0,FC LNZ Cherkasy,,2023-10-21T14:00Z
+11,Sat Oct 21 2023,15:00,EEST/+0300,Chernomorets Odessa,3-0,1-0,FC Mynai,,2023-10-21T12:00Z
+11,Sun Oct 22 2023,17:00,EEST/+0300,Dinamo Kiev,0-1,0-1,SK Dnipro-1,,2023-10-22T14:00Z
+11,Sun Oct 22 2023,13:00,EEST/+0300,NK Veres,2-5,0-2,Rukh Lviv,,2023-10-22T10:00Z
+11,Sun Oct 22 2023,15:00,EEST/+0300,Vorskla Poltava,0-3,0-1,Polissya Zhytomyr,,2023-10-22T12:00Z
+1,Wed Oct 25 2023,16:00,EEST/+0300,Vorskla Poltava,2-3,1-2,SK Dnipro-1,,2023-10-25T13:00Z
+12,Sat Oct 28 2023,15:00,EEST/+0300,Kolos Kovalivka,1-1,0-1,Dinamo Kiev,,2023-10-28T12:00Z
+12,Sat Oct 28 2023,18:00,EEST/+0300,Rukh Lviv,0-0,0-0,FK Oleksandriya,,2023-10-28T15:00Z
+12,Sat Oct 28 2023,13:00,EEST/+0300,Kryvbas Kryvyi Rih,3-0,2-0,SK Dnipro-1,,2023-10-28T10:00Z
+12,Sat Oct 28 2023,16:00,EEST/+0300,Zorya Lugansk,0-1,0-1,Polissya Zhytomyr,,2023-10-28T13:00Z
+12,Sun Oct 29 2023,13:00,EET/+0200,FC LNZ Cherkasy,3-0,1-0,FK Obolon,,2023-10-29T11:00Z
+12,Sun Oct 29 2023,15:00,EET/+0200,Vorskla Poltava,2-2,0-1,Metalist 1925 Kharkiv,,2023-10-29T13:00Z
+12,Sun Oct 29 2023,13:00,EET/+0200,FC Mynai,0-0,0-0,NK Veres,,2023-10-29T11:00Z
+5,Wed Nov 1 2023,18:00,EET/+0200,Rukh Lviv,0-2,0-2,SK Dnipro-1,,2023-11-01T16:00Z
+13,Fri Nov 3 2023,17:00,EET/+0200,Dinamo Kiev,0-1,0-0,Shakhtar Donetsk,,2023-11-03T15:00Z
+13,Sat Nov 4 2023,13:00,EET/+0200,FC LNZ Cherkasy,1-1,1-0,Kolos Kovalivka,,2023-11-04T11:00Z
+13,Sun Nov 5 2023,15:00,EET/+0200,Metalist 1925 Kharkiv,2-1,0-1,Chernomorets Odessa,,2023-11-05T13:00Z
+13,Sun Nov 5 2023,17:00,EET/+0200,NK Veres,2-2,1-1,Zorya Lugansk,,2023-11-05T15:00Z
+13,Sun Nov 5 2023,13:00,EET/+0200,FC Mynai,0-0,0-0,Vorskla Poltava,,2023-11-05T11:00Z
+13,Mon Nov 6 2023,17:00,EET/+0200,SK Dnipro-1,1-0,1-0,FK Oleksandriya,,2023-11-06T15:00Z
+13,Mon Nov 6 2023,19:00,EET/+0200,Rukh Lviv,2-2,1-1,FK Obolon,,2023-11-06T17:00Z
+13,Mon Nov 6 2023,15:00,EET/+0200,Polissya Zhytomyr,1-1,0-1,Kryvbas Kryvyi Rih,,2023-11-06T13:00Z
+14,Fri Nov 10 2023,17:00,EET/+0200,Kolos Kovalivka,2-0,2-0,FC Mynai,,2023-11-10T15:00Z
+14,Sat Nov 11 2023,17:00,EET/+0200,FK Oleksandriya,1-0,0-0,NK Veres,,2023-11-11T15:00Z
+14,Sat Nov 11 2023,15:00,EET/+0200,Polissya Zhytomyr,2-1,0-1,Metalist 1925 Kharkiv,,2023-11-11T13:00Z
+14,Sat Nov 11 2023,13:00,EET/+0200,FK Obolon,0-1,0-0,Vorskla Poltava,,2023-11-11T11:00Z
+14,Sun Nov 12 2023,13:00,EET/+0200,Kryvbas Kryvyi Rih,0-2,0-2,Dinamo Kiev,,2023-11-12T11:00Z
+14,Sun Nov 12 2023,19:00,EET/+0200,Shakhtar Donetsk,1-3,1-1,SK Dnipro-1,,2023-11-12T17:00Z
+14,Sun Nov 12 2023,17:00,EET/+0200,Chernomorets Odessa,2-3,1-1,Rukh Lviv,,2023-11-12T15:00Z
+14,Sun Nov 12 2023,15:00,EET/+0200,Zorya Lugansk,1-2,0-1,FC LNZ Cherkasy,,2023-11-12T13:00Z
+15,Fri Nov 24 2023,19:00,EET/+0200,Shakhtar Donetsk,0-0,0-0,Polissya Zhytomyr,,2023-11-24T17:00Z
+15,Sat Nov 25 2023,13:00,EET/+0200,FC Mynai,0-1,0-0,Kryvbas Kryvyi Rih,,2023-11-25T11:00Z
+15,Sat Nov 25 2023,15:00,EET/+0200,NK Veres,4-3,2-1,Metalist 1925 Kharkiv,,2023-11-25T13:00Z
+15,Sat Nov 25 2023,17:00,EET/+0200,Vorskla Poltava,0-0,0-0,FC LNZ Cherkasy,,2023-11-25T15:00Z
+15,Sun Nov 26 2023,17:00,EET/+0200,Dinamo Kiev,2-0,2-0,Rukh Lviv,,2023-11-26T15:00Z
+15,Mon Nov 27 2023,17:00,EET/+0200,SK Dnipro-1,5-2,1-1,Chernomorets Odessa,,2023-11-27T15:00Z
+16,Fri Dec 1 2023,17:00,EET/+0200,Polissya Zhytomyr,1-1,0-0,NK Veres,,2023-12-01T15:00Z
+16,Sat Dec 2 2023,15:00,EET/+0200,Kryvbas Kryvyi Rih,2-1,0-1,FK Oleksandriya,,2023-12-02T13:00Z
+16,Sat Dec 2 2023,17:00,EET/+0200,SK Dnipro-1,1-2,1-2,Vorskla Poltava,,2023-12-02T15:00Z
+16,Sat Dec 2 2023,13:00,EET/+0200,Kolos Kovalivka,0-0,0-0,FK Obolon,,2023-12-02T11:00Z
+16,Sun Dec 3 2023,15:00,EET/+0200,Chernomorets Odessa,1-3,0-0,FC LNZ Cherkasy,,2023-12-03T13:00Z
+16,Sun Dec 3 2023,17:00,EET/+0200,Shakhtar Donetsk,2-0,0-0,Metalist 1925 Kharkiv,,2023-12-03T15:00Z
+16,Mon Dec 4 2023,13:00,EET/+0200,Zorya Lugansk,0-0,0-0,Rukh Lviv,,2023-12-04T11:00Z
+3,Thu Dec 7 2023,15:00,EET/+0200,Dinamo Kiev,4-2,3-1,Metalist 1925 Kharkiv,,2023-12-07T13:00Z
+17,Fri Dec 8 2023,17:00,EET/+0200,Shakhtar Donetsk,2-0,1-0,NK Veres,,2023-12-08T15:00Z
+17,Fri Dec 8 2023,15:00,EET/+0200,Polissya Zhytomyr,1-1,0-0,SK Dnipro-1,,2023-12-08T13:00Z
+17,Sat Dec 9 2023,15:00,EET/+0200,Kryvbas Kryvyi Rih,2-2,2-1,Zorya Lugansk,,2023-12-09T13:00Z
+17,Sun Dec 10 2023,15:00,EET/+0200,Chernomorets Odessa,1-0,0-0,Kolos Kovalivka,,2023-12-10T13:00Z
+17,Sun Dec 10 2023,13:00,EET/+0200,Vorskla Poltava,1-1,0-1,Rukh Lviv,,2023-12-10T11:00Z
+17,Mon Dec 11 2023,17:00,EET/+0200,Metalist 1925 Kharkiv,0-3,0-0,FK Oleksandriya,,2023-12-11T15:00Z
+17,Mon Dec 11 2023,15:00,EET/+0200,Dinamo Kiev,2-0,0-0,FK Obolon,,2023-12-11T13:00Z
+18,Fri Feb 23 2024,15:30,EET/+0200,FC LNZ Cherkasy,0-3,0-1,Kryvbas Kryvyi Rih,,2024-02-23T13:30Z
+18,Sun Feb 25 2024,15:30,EET/+0200,Metalist 1925 Kharkiv,2-4,1-1,Dinamo Kiev,,2024-02-25T13:30Z
+18,Sun Feb 25 2024,18:00,EET/+0200,Rukh Lviv,1-1,1-1,Polissya Zhytomyr,,2024-02-25T16:00Z
+18,Sun Feb 25 2024,13:00,EET/+0200,NK Veres,0-2,0-0,Kolos Kovalivka,,2024-02-25T11:00Z
+18,Sun Feb 25 2024,13:00,EET/+0200,SK Dnipro-1,1-1,0-1,FC Mynai,,2024-02-25T11:00Z
+18,Mon Feb 26 2024,14:45,EET/+0200,FK Oleksandriya,0-3 (*),,Shakhtar Donetsk,awd.,2024-02-26T12:45Z
+18,Mon Feb 26 2024,13:00,EET/+0200,Zorya Lugansk,1-0,1-0,Vorskla Poltava,,2024-02-26T11:00Z
+18,Mon Feb 26 2024,15:30,EET/+0200,FK Obolon,1-1,0-0,Chernomorets Odessa,,2024-02-26T13:30Z
+19,Fri Mar 1 2024,18:00,EET/+0200,Polissya Zhytomyr,0-1,0-0,FC LNZ Cherkasy,,2024-03-01T16:00Z
+19,Sat Mar 2 2024,15:30,EET/+0200,Dinamo Kiev,1-0,1-0,Chernomorets Odessa,,2024-03-02T13:30Z
+19,Sat Mar 2 2024,13:00,EET/+0200,FC Mynai,2-0,1-0,Metalist 1925 Kharkiv,,2024-03-02T11:00Z
+19,Sat Mar 2 2024,18:00,EET/+0200,Kolos Kovalivka,0-1,0-1,Rukh Lviv,,2024-03-02T16:00Z
+19,Sat Mar 2 2024,15:30,EET/+0200,Vorskla Poltava,2-1,0-1,NK Veres,,2024-03-02T13:30Z
+19,Sun Mar 3 2024,15:30,EET/+0200,FK Oleksandriya,0-0,0-0,Zorya Lugansk,,2024-03-03T13:30Z
+19,Sun Mar 3 2024,13:00,EET/+0200,FK Obolon,0-1,0-1,SK Dnipro-1,,2024-03-03T11:00Z
+19,Sun Mar 3 2024,18:00,EET/+0200,Shakhtar Donetsk,5-2,2-1,Kryvbas Kryvyi Rih,,2024-03-03T16:00Z
+20,Thu Mar 7 2024,18:00,EET/+0200,NK Veres,1-1,0-1,Dinamo Kiev,,2024-03-07T16:00Z
+20,Thu Mar 7 2024,15:30,EET/+0200,Zorya Lugansk,2-0,1-0,FC Mynai,,2024-03-07T13:30Z
+20,Fri Mar 8 2024,15:30,EET/+0200,Metalist 1925 Kharkiv,1-1,0-0,FC LNZ Cherkasy,,2024-03-08T13:30Z
+20,Fri Mar 8 2024,18:00,EET/+0200,Shakhtar Donetsk,3-2,0-1,Kolos Kovalivka,,2024-03-08T16:00Z
+20,Fri Mar 8 2024,13:00,EET/+0200,SK Dnipro-1,0-1,0-1,Rukh Lviv,,2024-03-08T11:00Z
+20,Sat Mar 9 2024,15:30,EET/+0200,Polissya Zhytomyr,1-2,0-1,FK Oleksandriya,,2024-03-09T13:30Z
+20,Sat Mar 9 2024,18:00,EET/+0200,Kryvbas Kryvyi Rih,1-0,0-0,FK Obolon,,2024-03-09T16:00Z
+20,Sat Mar 9 2024,13:00,EET/+0200,Chernomorets Odessa,0-1,0-0,Vorskla Poltava,,2024-03-09T11:00Z
+21,Tue Mar 12 2024,15:30,EET/+0200,Dinamo Kiev,2-0,1-0,Zorya Lugansk,,2024-03-12T13:30Z
+21,Tue Mar 12 2024,18:00,EET/+0200,Shakhtar Donetsk,2-0,2-0,FC Mynai,,2024-03-12T16:00Z
+21,Tue Mar 12 2024,13:00,EET/+0200,FC LNZ Cherkasy,1-1,0-0,SK Dnipro-1,,2024-03-12T11:00Z
+21,Fri Mar 15 2024,18:00,EET/+0200,FK Oleksandriya,1-0,0-0,Vorskla Poltava,,2024-03-15T16:00Z
+21,Sat Mar 16 2024,18:00,EET/+0200,Kryvbas Kryvyi Rih,1-0,0-0,Kolos Kovalivka,,2024-03-16T16:00Z
+21,Sat Mar 16 2024,15:30,EET/+0200,FK Obolon,1-0,1-0,Polissya Zhytomyr,,2024-03-16T13:30Z
+21,Sat Mar 16 2024,13:00,EET/+0200,Metalist 1925 Kharkiv,1-4,0-4,Rukh Lviv,,2024-03-16T11:00Z
+21,Sun Mar 17 2024,15:30,EET/+0200,Chernomorets Odessa,0-1,0-1,NK Veres,,2024-03-17T13:30Z
+17,Sat Mar 23 2024,15:30,EET/+0200,FC LNZ Cherkasy,1-2,0-1,FC Mynai,,2024-03-23T13:30Z
+22,Sat Mar 30 2024,15:30,EET/+0200,Polissya Zhytomyr,1-4,0-0,Chernomorets Odessa,,2024-03-30T13:30Z
+22,Sat Mar 30 2024,18:00,EET/+0200,NK Veres,0-2,0-0,Kryvbas Kryvyi Rih,,2024-03-30T16:00Z
+22,Sat Mar 30 2024,13:00,EET/+0200,FK Obolon,0-3,0-2,Shakhtar Donetsk,,2024-03-30T11:00Z
+22,Sun Mar 31 2024,13:00,EEST/+0300,FC Mynai,2-2,0-0,FK Oleksandriya,,2024-03-31T10:00Z
+22,Sun Mar 31 2024,15:30,EEST/+0300,Zorya Lugansk,2-1,1-0,Metalist 1925 Kharkiv,,2024-03-31T12:30Z
+22,Sun Mar 31 2024,18:00,EEST/+0300,Kolos Kovalivka,0-2,0-1,SK Dnipro-1,,2024-03-31T15:00Z
+22,Sun Mar 31 2024,15:30,EEST/+0300,Vorskla Poltava,1-5,0-2,Dinamo Kiev,,2024-03-31T12:30Z
+22,Mon Apr 1 2024,18:00,EEST/+0300,Rukh Lviv,1-0,0-0,FC LNZ Cherkasy,,2024-04-01T15:00Z
+6,Thu Apr 4 2024,15:30,EEST/+0300,Zorya Lugansk,0-3,0-2,Dinamo Kiev,,2024-04-04T12:30Z
+23,Sat Apr 6 2024,15:30,EEST/+0300,NK Veres,3-0,2-0,FK Obolon,,2024-04-06T12:30Z
+23,Sun Apr 7 2024,18:00,EEST/+0300,Shakhtar Donetsk,3-1,2-1,Rukh Lviv,,2024-04-07T15:00Z
+23,Sun Apr 7 2024,13:00,EEST/+0300,Chernomorets Odessa,3-2,3-1,FK Oleksandriya,,2024-04-07T10:00Z
+23,Sun Apr 7 2024,15:30,EEST/+0300,Kolos Kovalivka,1-1,1-0,Metalist 1925 Kharkiv,,2024-04-07T12:30Z
+23,Mon Apr 8 2024,18:00,EEST/+0300,Kryvbas Kryvyi Rih,1-1,1-1,Vorskla Poltava,,2024-04-08T15:00Z
+23,Mon Apr 8 2024,13:00,EEST/+0300,FC Mynai,2-3,0-2,Polissya Zhytomyr,,2024-04-08T10:00Z
+23,Mon Apr 8 2024,15:30,EEST/+0300,Dinamo Kiev,1-1,1-1,FC LNZ Cherkasy,,2024-04-08T12:30Z
+23,Tue Apr 9 2024,13:00,EEST/+0300,SK Dnipro-1,2-2,0-0,Zorya Lugansk,,2024-04-09T10:00Z
+24,Sat Apr 13 2024,13:00,EEST/+0300,FK Obolon,1-1,0-0,FC Mynai,,2024-04-13T10:00Z
+24,Sat Apr 13 2024,15:30,EEST/+0300,FK Oleksandriya,0-1,0-0,Dinamo Kiev,,2024-04-13T12:30Z
+24,Sat Apr 13 2024,18:00,EEST/+0300,Rukh Lviv,1-1,0-1,Kryvbas Kryvyi Rih,,2024-04-13T15:00Z
+24,Sun Apr 14 2024,13:00,EEST/+0300,Vorskla Poltava,0-1,0-1,Shakhtar Donetsk,,2024-04-14T10:00Z
+24,Sun Apr 14 2024,15:30,EEST/+0300,Zorya Lugansk,1-0,1-0,Chernomorets Odessa,,2024-04-14T12:30Z
+24,Sun Apr 14 2024,18:00,EEST/+0300,Polissya Zhytomyr,1-0,0-0,Kolos Kovalivka,,2024-04-14T15:00Z
+24,Mon Apr 15 2024,18:00,EEST/+0300,Metalist 1925 Kharkiv,1-1,0-1,SK Dnipro-1,,2024-04-15T15:00Z
+24,Mon Apr 15 2024,15:30,EEST/+0300,FC LNZ Cherkasy,1-0,0-0,NK Veres,,2024-04-15T12:30Z
+15,Wed Apr 17 2024,18:00,EEST/+0300,FK Oleksandriya,2-2,0-0,FK Obolon,,2024-04-17T15:00Z
+16,Wed Apr 17 2024,15:30,EEST/+0300,FC Mynai,1-3,0-2,Dinamo Kiev,,2024-04-17T12:30Z
+10,Thu Apr 18 2024,15:30,EEST/+0300,Zorya Lugansk,1-3,0-1,Shakhtar Donetsk,,2024-04-18T12:30Z
+25,Sat Apr 20 2024,18:00,EEST/+0300,Vorskla Poltava,0-2,0-0,Kolos Kovalivka,,2024-04-20T15:00Z
+25,Sat Apr 20 2024,15:30,EEST/+0300,Chernomorets Odessa,1-2,1-0,Kryvbas Kryvyi Rih,,2024-04-20T12:30Z
+25,Sun Apr 21 2024,15:30,EEST/+0300,FK Oleksandriya,1-2,1-1,FC LNZ Cherkasy,,2024-04-21T12:30Z
+25,Sun Apr 21 2024,13:00,EEST/+0300,NK Veres,1-1,1-1,SK Dnipro-1,,2024-04-21T10:00Z
+25,Sun Apr 21 2024,18:00,EEST/+0300,Dinamo Kiev,3-0,1-0,Polissya Zhytomyr,,2024-04-21T15:00Z
+25,Mon Apr 22 2024,18:00,EEST/+0300,Shakhtar Donetsk,2-1,0-0,Zorya Lugansk,,2024-04-22T15:00Z
+25,Mon Apr 22 2024,15:30,EEST/+0300,Metalist 1925 Kharkiv,1-1,0-1,FK Obolon,,2024-04-22T12:30Z
+25,Mon Apr 22 2024,13:00,EEST/+0300,FC Mynai,1-1,0-0,Rukh Lviv,,2024-04-22T10:00Z
+26,Sat Apr 27 2024,18:00,EEST/+0300,Rukh Lviv,3-1,0-1,NK Veres,,2024-04-27T15:00Z
+26,Sat Apr 27 2024,13:00,EEST/+0300,SK Dnipro-1,1-2,1-0,Dinamo Kiev,,2024-04-27T10:00Z
+26,Sat Apr 27 2024,13:00,EEST/+0300,FC Mynai,2-0,1-0,Chernomorets Odessa,,2024-04-27T10:00Z
+26,Sat Apr 27 2024,15:30,EEST/+0300,FC LNZ Cherkasy,0-3,0-1,Shakhtar Donetsk,,2024-04-27T12:30Z
+26,Sun Apr 28 2024,18:00,EEST/+0300,Kryvbas Kryvyi Rih,3-0,3-0,Metalist 1925 Kharkiv,,2024-04-28T15:00Z
+26,Sun Apr 28 2024,13:00,EEST/+0300,Zorya Lugansk,0-0,0-0,FK Obolon,,2024-04-28T10:00Z
+26,Sun Apr 28 2024,15:30,EEST/+0300,Kolos Kovalivka,0-0,0-0,FK Oleksandriya,,2024-04-28T12:30Z
+26,Mon Apr 29 2024,18:00,EEST/+0300,Polissya Zhytomyr,1-0,0-0,Vorskla Poltava,,2024-04-29T15:00Z
+12,Wed May 1 2024,13:00,EEST/+0300,Chernomorets Odessa,1-4,1-3,Shakhtar Donetsk,,2024-05-01T10:00Z
+5,Wed May 1 2024,15:30,EEST/+0300,Dinamo Kiev,3-0,1-0,NK Veres,,2024-05-01T12:30Z
+27,Sat May 4 2024,13:00,EEST/+0300,FK Oleksandriya,2-2,1-1,Rukh Lviv,,2024-05-04T10:00Z
+27,Sat May 4 2024,15:30,EEST/+0300,FK Obolon,1-0,1-0,FC LNZ Cherkasy,,2024-05-04T12:30Z
+27,Sat May 4 2024,18:00,EEST/+0300,Metalist 1925 Kharkiv,3-2,2-1,Vorskla Poltava,,2024-05-04T15:00Z
+27,Sun May 5 2024,18:00,EEST/+0300,Shakhtar Donetsk,3-0,2-0,Chernomorets Odessa,,2024-05-05T15:00Z
+27,Sun May 5 2024,15:30,EEST/+0300,Dinamo Kiev,5-0,0-0,Kolos Kovalivka,,2024-05-05T12:30Z
+27,Sun May 5 2024,13:00,EEST/+0300,Polissya Zhytomyr,1-1,1-0,Zorya Lugansk,,2024-05-05T10:00Z
+27,Mon May 6 2024,13:00,EEST/+0300,SK Dnipro-1,1-0,0-0,Kryvbas Kryvyi Rih,,2024-05-06T10:00Z
+27,Mon May 6 2024,18:00,EEST/+0300,NK Veres,3-1,1-1,FC Mynai,,2024-05-06T15:00Z
+15,Thu May 9 2024,15:30,EEST/+0300,Kolos Kovalivka,0-1,0-1,Zorya Lugansk,,2024-05-09T12:30Z
+28,Sat May 11 2024,15:30,EEST/+0300,FK Obolon,0-0,0-0,Rukh Lviv,,2024-05-11T12:30Z
+28,Sat May 11 2024,18:00,EEST/+0300,Shakhtar Donetsk,1-0,1-0,Dinamo Kiev,,2024-05-11T15:00Z
+28,Sat May 11 2024,13:00,EEST/+0300,Vorskla Poltava,2-3,1-0,FC Mynai,,2024-05-11T10:00Z
+28,Sun May 12 2024,15:30,EEST/+0300,Chernomorets Odessa,3-0,1-0,Metalist 1925 Kharkiv,,2024-05-12T12:30Z
+28,Sun May 12 2024,13:00,EEST/+0300,FK Oleksandriya,1-0,1-0,SK Dnipro-1,,2024-05-12T10:00Z
+28,Mon May 13 2024,13:00,EEST/+0300,Kryvbas Kryvyi Rih,0-1,0-1,Polissya Zhytomyr,,2024-05-13T10:00Z
+28,Mon May 13 2024,16:15,EEST/+0300,Kolos Kovalivka,1-3,1-1,FC LNZ Cherkasy,,2024-05-13T13:15Z
+28,Mon May 13 2024,18:00,EEST/+0300,Zorya Lugansk,1-1,1-0,NK Veres,,2024-05-13T15:00Z
+29,Sat May 18 2024,15:30,EEST/+0300,Dinamo Kiev,3-1,2-1,Kryvbas Kryvyi Rih,,2024-05-18T12:30Z
+29,Sun May 19 2024,15:30,EEST/+0300,FC Mynai,3-2,1-1,Kolos Kovalivka,,2024-05-19T12:30Z
+29,Sun May 19 2024,15:30,EEST/+0300,Metalist 1925 Kharkiv,3-3,1-3,Polissya Zhytomyr,,2024-05-19T12:30Z
+29,Sun May 19 2024,15:30,EEST/+0300,NK Veres,2-2,2-1,FK Oleksandriya,,2024-05-19T12:30Z
+29,Sun May 19 2024,15:30,EEST/+0300,Rukh Lviv,2-0,1-0,Chernomorets Odessa,,2024-05-19T12:30Z
+29,Sun May 19 2024,15:30,EEST/+0300,SK Dnipro-1,1-1,1-1,Shakhtar Donetsk,,2024-05-19T12:30Z
+29,Sun May 19 2024,15:30,EEST/+0300,Vorskla Poltava,3-1,2-0,FK Obolon,,2024-05-19T12:30Z
+29,Sun May 19 2024,13:00,EEST/+0300,FC LNZ Cherkasy,2-1,0-1,Zorya Lugansk,,2024-05-19T10:00Z
+30,Fri May 24 2024,15:30,EEST/+0300,FC LNZ Cherkasy,1-0,1-0,Vorskla Poltava,,2024-05-24T12:30Z
+30,Sat May 25 2024,15:30,EEST/+0300,Metalist 1925 Kharkiv,1-2,0-1,NK Veres,,2024-05-25T12:30Z
+30,Sat May 25 2024,15:30,EEST/+0300,FK Obolon,0-3,0-1,FK Oleksandriya,,2024-05-25T12:30Z
+30,Sat May 25 2024,15:30,EEST/+0300,Rukh Lviv,1-2,0-0,Dinamo Kiev,,2024-05-25T12:30Z
+30,Sat May 25 2024,15:30,EEST/+0300,Zorya Lugansk,0-1,0-0,Kolos Kovalivka,,2024-05-25T12:30Z
+30,Sat May 25 2024,15:30,EEST/+0300,Chernomorets Odessa,0-2,0-1,SK Dnipro-1,,2024-05-25T12:30Z
+30,Sat May 25 2024,15:30,EEST/+0300,Polissya Zhytomyr,2-0,2-0,Shakhtar Donetsk,,2024-05-25T12:30Z
+30,Sat May 25 2024,15:30,EEST/+0300,Kryvbas Kryvyi Rih,3-0,2-0,FC Mynai,,2024-05-25T12:30Z

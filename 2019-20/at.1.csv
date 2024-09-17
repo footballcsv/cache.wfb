@@ -1,0 +1,196 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Fri Jul 26 2019,20:45,CEST/+0200,Rapid Wien,0-2,0-1,RB Salzburg,2019-07-26T18:45Z
+,1,Sat Jul 27 2019,17:00,CEST/+0200,WSG Tirol,3-1,1-0,Austria Wien,2019-07-27T15:00Z
+,1,Sat Jul 27 2019,17:00,CEST/+0200,FC Admira Wacker,0-3,0-1,Wolfsberger AC,2019-07-27T15:00Z
+,1,Sun Jul 28 2019,17:00,CEST/+0200,Sturm Graz,3-0,2-0,SKN St. Pölten,2019-07-28T15:00Z
+,1,Sun Jul 28 2019,17:00,CEST/+0200,LASK,2-0,1-0,SCR Altach,2019-07-28T15:00Z
+,1,Sun Jul 28 2019,17:00,CEST/+0200,SV Mattersburg,2-1,1-0,TSV Hartberg,2019-07-28T15:00Z
+,2,Sat Aug 3 2019,17:00,CEST/+0200,Austria Wien,0-3,0-1,LASK,2019-08-03T15:00Z
+,2,Sat Aug 3 2019,17:00,CEST/+0200,SCR Altach,3-2,2-2,WSG Tirol,2019-08-03T15:00Z
+,2,Sat Aug 3 2019,17:00,CEST/+0200,TSV Hartberg,4-1,2-0,FC Admira Wacker,2019-08-03T15:00Z
+,2,Sun Aug 4 2019,17:00,CEST/+0200,Wolfsberger AC,0-1,0-1,Sturm Graz,2019-08-04T15:00Z
+,2,Sun Aug 4 2019,17:00,CEST/+0200,SKN St. Pölten,2-2,1-1,Rapid Wien,2019-08-04T15:00Z
+,2,Sun Aug 4 2019,17:00,CEST/+0200,RB Salzburg,4-1,3-0,SV Mattersburg,2019-08-04T15:00Z
+,3,Sat Aug 10 2019,17:00,CEST/+0200,RB Salzburg,5-2,2-1,Wolfsberger AC,2019-08-10T15:00Z
+,3,Sat Aug 10 2019,17:00,CEST/+0200,Rapid Wien,2-1,2-1,SCR Altach,2019-08-10T15:00Z
+,3,Sat Aug 10 2019,17:00,CEST/+0200,FC Admira Wacker,0-1,0-1,LASK,2019-08-10T15:00Z
+,3,Sun Aug 11 2019,17:00,CEST/+0200,TSV Hartberg,1-0,0-0,Sturm Graz,2019-08-11T15:00Z
+,3,Sun Aug 11 2019,17:00,CEST/+0200,WSG Tirol,1-1,1-0,SKN St. Pölten,2019-08-11T15:00Z
+,3,Sun Aug 11 2019,17:00,CEST/+0200,SV Mattersburg,1-5,0-2,Austria Wien,2019-08-11T15:00Z
+,4,Sat Aug 17 2019,17:00,CEST/+0200,LASK,1-1,0-1,WSG Tirol,2019-08-17T15:00Z
+,4,Sat Aug 17 2019,17:00,CEST/+0200,Wolfsberger AC,5-0,2-0,SV Mattersburg,2019-08-17T15:00Z
+,4,Sat Aug 17 2019,17:00,CEST/+0200,SKN St. Pölten,0-6,0-2,RB Salzburg,2019-08-17T15:00Z
+,4,Sun Aug 18 2019,17:00,CEST/+0200,Sturm Graz,0-1,0-1,Rapid Wien,2019-08-18T15:00Z
+,4,Sun Aug 18 2019,17:00,CEST/+0200,SCR Altach,3-3,0-3,TSV Hartberg,2019-08-18T15:00Z
+,4,Sun Aug 18 2019,17:00,CEST/+0200,Austria Wien,1-1,1-0,FC Admira Wacker,2019-08-18T15:00Z
+,5,Sat Aug 24 2019,17:00,CEST/+0200,Rapid Wien,1-2,0-1,LASK,2019-08-24T15:00Z
+,5,Sat Aug 24 2019,17:00,CEST/+0200,Wolfsberger AC,5-2,3-1,SCR Altach,2019-08-24T15:00Z
+,5,Sat Aug 24 2019,17:00,CEST/+0200,SV Mattersburg,0-1,0-1,SKN St. Pölten,2019-08-24T15:00Z
+,5,Sun Aug 25 2019,17:00,CEST/+0200,RB Salzburg,5-0,3-0,FC Admira Wacker,2019-08-25T15:00Z
+,5,Sun Aug 25 2019,17:00,CEST/+0200,TSV Hartberg,2-2,1-0,Austria Wien,2019-08-25T15:00Z
+,5,Sun Aug 25 2019,17:00,CEST/+0200,Sturm Graz,2-0,1-0,WSG Tirol,2019-08-25T15:00Z
+,6,Sat Aug 31 2019,17:00,CEST/+0200,LASK,0-1,0-0,Wolfsberger AC,2019-08-31T15:00Z
+,6,Sat Aug 31 2019,17:00,CEST/+0200,FC Admira Wacker,1-3,1-2,SV Mattersburg,2019-08-31T15:00Z
+,6,Sat Aug 31 2019,17:00,CEST/+0200,WSG Tirol,1-5,0-3,RB Salzburg,2019-08-31T15:00Z
+,6,Sun Sep 1 2019,17:00,CEST/+0200,SKN St. Pölten,1-3,0-2,TSV Hartberg,2019-09-01T15:00Z
+,6,Sun Sep 1 2019,17:00,CEST/+0200,SCR Altach,1-2,0-1,Sturm Graz,2019-09-01T15:00Z
+,6,Sun Sep 1 2019,17:00,CEST/+0200,Austria Wien,1-3,1-1,Rapid Wien,2019-09-01T15:00Z
+,7,Sat Sep 14 2019,17:00,CEST/+0200,RB Salzburg,7-2,2-1,TSV Hartberg,2019-09-14T15:00Z
+,7,Sat Sep 14 2019,17:00,CEST/+0200,Sturm Graz,0-2,0-0,LASK,2019-09-14T15:00Z
+,7,Sat Sep 14 2019,17:00,CEST/+0200,SV Mattersburg,0-2,0-1,WSG Tirol,2019-09-14T15:00Z
+,7,Sun Sep 15 2019,14:30,CEST/+0200,SCR Altach,6-0,3-0,SKN St. Pölten,2019-09-15T12:30Z
+,7,Sun Sep 15 2019,17:00,CEST/+0200,Wolfsberger AC,3-0,0-0,Austria Wien,2019-09-15T15:00Z
+,7,Sun Sep 15 2019,14:30,CEST/+0200,Rapid Wien,5-0,1-0,FC Admira Wacker,2019-09-15T12:30Z
+,8,Sat Sep 21 2019,17:00,CEST/+0200,SV Mattersburg,3-3,1-2,Sturm Graz,2019-09-21T15:00Z
+,8,Sat Sep 21 2019,17:00,CEST/+0200,FC Admira Wacker,1-1,1-0,SKN St. Pölten,2019-09-21T15:00Z
+,8,Sat Sep 21 2019,17:00,CEST/+0200,WSG Tirol,0-2,0-0,Rapid Wien,2019-09-21T15:00Z
+,8,Sun Sep 22 2019,14:30,CEST/+0200,TSV Hartberg,0-2,0-0,Wolfsberger AC,2019-09-22T12:30Z
+,8,Sun Sep 22 2019,17:00,CEST/+0200,LASK,2-2,2-1,RB Salzburg,2019-09-22T15:00Z
+,8,Sun Sep 22 2019,14:30,CEST/+0200,Austria Wien,2-0,0-0,SCR Altach,2019-09-22T12:30Z
+,9,Sat Sep 28 2019,17:00,CEST/+0200,RB Salzburg,4-1,2-1,Austria Wien,2019-09-28T15:00Z
+,9,Sat Sep 28 2019,17:00,CEST/+0200,Wolfsberger AC,2-2,0-0,WSG Tirol,2019-09-28T15:00Z
+,9,Sat Sep 28 2019,17:00,CEST/+0200,SKN St. Pölten,0-3,0-2,LASK,2019-09-28T15:00Z
+,9,Sun Sep 29 2019,14:30,CEST/+0200,SCR Altach,0-2,0-0,SV Mattersburg,2019-09-29T12:30Z
+,9,Sun Sep 29 2019,17:00,CEST/+0200,Rapid Wien,3-3,1-1,TSV Hartberg,2019-09-29T15:00Z
+,9,Sun Sep 29 2019,14:30,CEST/+0200,Sturm Graz,4-1,1-0,FC Admira Wacker,2019-09-29T12:30Z
+,10,Sat Oct 5 2019,17:00,CEST/+0200,RB Salzburg,6-0,3-0,SCR Altach,2019-10-05T15:00Z
+,10,Sat Oct 5 2019,17:00,CEST/+0200,SV Mattersburg,2-3,1-1,Rapid Wien,2019-10-05T15:00Z
+,10,Sat Oct 5 2019,17:00,CEST/+0200,FC Admira Wacker,3-1,3-1,WSG Tirol,2019-10-05T15:00Z
+,10,Sun Oct 6 2019,14:30,CEST/+0200,TSV Hartberg,1-2,0-0,LASK,2019-10-06T12:30Z
+,10,Sun Oct 6 2019,17:00,CEST/+0200,Austria Wien,1-0,0-0,Sturm Graz,2019-10-06T15:00Z
+,10,Sun Oct 6 2019,14:30,CEST/+0200,Wolfsberger AC,4-0,2-0,SKN St. Pölten,2019-10-06T12:30Z
+,11,Sat Oct 19 2019,17:00,CEST/+0200,LASK,7-2,3-2,SV Mattersburg,2019-10-19T15:00Z
+,11,Sat Oct 19 2019,17:00,CEST/+0200,Sturm Graz,1-1,1-0,RB Salzburg,2019-10-19T15:00Z
+,11,Sat Oct 19 2019,17:00,CEST/+0200,SCR Altach,1-4,0-3,FC Admira Wacker,2019-10-19T15:00Z
+,11,Sun Oct 20 2019,14:30,CEST/+0200,WSG Tirol,0-1,0-0,TSV Hartberg,2019-10-20T12:30Z
+,11,Sun Oct 20 2019,17:00,CEST/+0200,Rapid Wien,1-1,1-0,Wolfsberger AC,2019-10-20T15:00Z
+,11,Sun Oct 20 2019,14:30,CEST/+0200,SKN St. Pölten,2-2,0-1,Austria Wien,2019-10-20T12:30Z
+,12,Sat Oct 26 2019,17:00,CEST/+0200,Austria Wien,2-3,0-2,WSG Tirol,2019-10-26T15:00Z
+,12,Sat Oct 26 2019,17:00,CEST/+0200,TSV Hartberg,3-1,1-0,SV Mattersburg,2019-10-26T15:00Z
+,12,Sat Oct 26 2019,17:00,CEST/+0200,SKN St. Pölten,0-4,0-0,Sturm Graz,2019-10-26T15:00Z
+,12,Sun Oct 27 2019,14:30,CET/+0100,SCR Altach,0-1,0-1,LASK,2019-10-27T13:30Z
+,12,Sun Oct 27 2019,17:00,CET/+0100,RB Salzburg,3-2,2-1,Rapid Wien,2019-10-27T16:00Z
+,12,Sun Oct 27 2019,14:30,CET/+0100,Wolfsberger AC,2-2,0-1,FC Admira Wacker,2019-10-27T13:30Z
+,13,Sat Nov 2 2019,17:00,CET/+0100,SV Mattersburg,0-3,0-2,RB Salzburg,2019-11-02T16:00Z
+,13,Sat Nov 2 2019,17:00,CET/+0100,Sturm Graz,0-4,0-3,Wolfsberger AC,2019-11-02T16:00Z
+,13,Sat Nov 2 2019,17:00,CET/+0100,Rapid Wien,0-1,0-0,SKN St. Pölten,2019-11-02T16:00Z
+,13,Sun Nov 3 2019,14:30,CET/+0100,FC Admira Wacker,0-1,0-0,TSV Hartberg,2019-11-03T13:30Z
+,13,Sun Nov 3 2019,17:00,CET/+0100,LASK,2-0,1-0,Austria Wien,2019-11-03T16:00Z
+,13,Sun Nov 3 2019,14:30,CET/+0100,WSG Tirol,0-4,0-1,SCR Altach,2019-11-03T13:30Z
+,14,Sat Nov 9 2019,17:00,CET/+0100,SCR Altach,0-3,0-3,Rapid Wien,2019-11-09T16:00Z
+,14,Sat Nov 9 2019,17:00,CET/+0100,Sturm Graz,3-1,0-0,TSV Hartberg,2019-11-09T16:00Z
+,14,Sat Nov 9 2019,17:00,CET/+0100,SKN St. Pölten,5-1,3-1,WSG Tirol,2019-11-09T16:00Z
+,14,Sun Nov 10 2019,14:30,CET/+0100,Austria Wien,2-1,1-0,SV Mattersburg,2019-11-10T13:30Z
+,14,Sun Nov 10 2019,17:00,CET/+0100,Wolfsberger AC,0-3,0-1,RB Salzburg,2019-11-10T16:00Z
+,14,Sun Nov 10 2019,14:30,CET/+0100,LASK,1-0,1-0,FC Admira Wacker,2019-11-10T13:30Z
+,15,Sat Nov 23 2019,17:00,CET/+0100,RB Salzburg,2-2,2-1,SKN St. Pölten,2019-11-23T16:00Z
+,15,Sat Nov 23 2019,17:00,CET/+0100,WSG Tirol,0-2,0-0,LASK,2019-11-23T16:00Z
+,15,Sat Nov 23 2019,17:00,CET/+0100,SV Mattersburg,1-4,0-2,Wolfsberger AC,2019-11-23T16:00Z
+,15,Sun Nov 24 2019,14:30,CET/+0100,TSV Hartberg,2-1,1-1,SCR Altach,2019-11-24T13:30Z
+,15,Sun Nov 24 2019,17:00,CET/+0100,Rapid Wien,1-1,1-0,Sturm Graz,2019-11-24T16:00Z
+,15,Sun Nov 24 2019,14:30,CET/+0100,FC Admira Wacker,0-0,0-0,Austria Wien,2019-11-24T13:30Z
+,16,Sat Nov 30 2019,17:00,CET/+0100,SKN St. Pölten,0-0,0-0,SV Mattersburg,2019-11-30T16:00Z
+,16,Sat Nov 30 2019,17:00,CET/+0100,WSG Tirol,1-5,0-2,Sturm Graz,2019-11-30T16:00Z
+,16,Sat Nov 30 2019,17:00,CET/+0100,Austria Wien,5-0,3-0,TSV Hartberg,2019-11-30T16:00Z
+,16,Sun Dec 1 2019,14:30,CET/+0100,FC Admira Wacker,1-1,1-0,RB Salzburg,2019-12-01T13:30Z
+,16,Sun Dec 1 2019,17:00,CET/+0100,LASK,0-4,0-1,Rapid Wien,2019-12-01T16:00Z
+,16,Sun Dec 1 2019,14:30,CET/+0100,SCR Altach,2-1,2-0,Wolfsberger AC,2019-12-01T13:30Z
+,17,Sat Dec 7 2019,17:00,CET/+0100,Wolfsberger AC,1-3,0-2,LASK,2019-12-07T16:00Z
+,17,Sat Dec 7 2019,17:00,CET/+0100,RB Salzburg,5-1,3-0,WSG Tirol,2019-12-07T16:00Z
+,17,Sat Dec 7 2019,17:00,CET/+0100,TSV Hartberg,3-2,2-0,SKN St. Pölten,2019-12-07T16:00Z
+,17,Sun Dec 8 2019,14:30,CET/+0100,Sturm Graz,1-2,1-0,SCR Altach,2019-12-08T13:30Z
+,17,Sun Dec 8 2019,17:00,CET/+0100,Rapid Wien,2-2,1-2,Austria Wien,2019-12-08T16:00Z
+,17,Sun Dec 8 2019,14:30,CET/+0100,SV Mattersburg,1-2,0-0,FC Admira Wacker,2019-12-08T13:30Z
+,18,Sat Dec 14 2019,17:00,CET/+0100,FC Admira Wacker,0-3,0-2,Rapid Wien,2019-12-14T16:00Z
+,18,Sat Dec 14 2019,17:00,CET/+0100,SKN St. Pölten,0-3,0-0,SCR Altach,2019-12-14T16:00Z
+,18,Sat Dec 14 2019,17:00,CET/+0100,TSV Hartberg,2-2,1-1,RB Salzburg,2019-12-14T16:00Z
+,18,Sun Dec 15 2019,14:30,CET/+0100,Austria Wien,1-1,1-0,Wolfsberger AC,2019-12-15T13:30Z
+,18,Sun Dec 15 2019,14:30,CET/+0100,WSG Tirol,1-3,0-1,SV Mattersburg,2019-12-15T13:30Z
+,18,Sun Dec 15 2019,17:00,CET/+0100,LASK,3-3,2-3,Sturm Graz,2019-12-15T16:00Z
+,19,Fri Feb 14 2020,19:00,CET/+0100,RB Salzburg,2-3,1-2,LASK,2020-02-14T18:00Z
+,19,Sat Feb 15 2020,17:00,CET/+0100,Wolfsberger AC,3-0,0-0,TSV Hartberg,2020-02-15T16:00Z
+,19,Sat Feb 15 2020,17:00,CET/+0100,SCR Altach,2-2,2-1,Austria Wien,2020-02-15T16:00Z
+,19,Sun Feb 16 2020,14:30,CET/+0100,SKN St. Pölten,2-2,0-0,FC Admira Wacker,2020-02-16T13:30Z
+,19,Sun Feb 16 2020,17:00,CET/+0100,Rapid Wien,2-0,2-0,WSG Tirol,2020-02-16T16:00Z
+,19,Sun Feb 16 2020,14:30,CET/+0100,Sturm Graz,1-2,0-2,SV Mattersburg,2020-02-16T13:30Z
+,20,Sat Feb 22 2020,17:00,CET/+0100,WSG Tirol,2-0,2-0,Wolfsberger AC,2020-02-22T16:00Z
+,20,Sat Feb 22 2020,17:00,CET/+0100,FC Admira Wacker,0-2,0-1,Sturm Graz,2020-02-22T16:00Z
+,20,Sat Feb 22 2020,17:00,CET/+0100,SV Mattersburg,0-0,0-0,SCR Altach,2020-02-22T16:00Z
+,20,Sun Feb 23 2020,14:30,CET/+0100,TSV Hartberg,2-2,1-1,Rapid Wien,2020-02-23T13:30Z
+,20,Sun Feb 23 2020,17:00,CET/+0100,Austria Wien,2-2,0-1,RB Salzburg,2020-02-23T16:00Z
+,20,Sun Feb 23 2020,14:30,CET/+0100,LASK,4-1,3-1,SKN St. Pölten,2020-02-23T13:30Z
+,21,Sun Mar 1 2020,17:00,CET/+0100,SKN St. Pölten,0-4,0-1,Wolfsberger AC,2020-03-01T16:00Z
+,21,Sun Mar 1 2020,17:00,CET/+0100,Sturm Graz,1-1,0-0,Austria Wien,2020-03-01T16:00Z
+,21,Sun Mar 1 2020,17:00,CET/+0100,Rapid Wien,3-1,1-1,SV Mattersburg,2020-03-01T16:00Z
+,21,Sun Mar 1 2020,17:00,CET/+0100,WSG Tirol,1-1,0-0,FC Admira Wacker,2020-03-01T16:00Z
+,21,Sun Mar 1 2020,17:00,CET/+0100,LASK,5-1,0-1,TSV Hartberg,2020-03-01T16:00Z
+,21,Mon Mar 2 2020,19:00,CET/+0100,SCR Altach,3-2,1-0,RB Salzburg,2020-03-02T18:00Z
+,22,Sat Mar 7 2020,17:00,CET/+0100,Wolfsberger AC,2-2,1-1,Rapid Wien,2020-03-07T16:00Z
+,22,Sat Mar 7 2020,17:00,CET/+0100,FC Admira Wacker,2-0,0-0,SCR Altach,2020-03-07T16:00Z
+,22,Sat Mar 7 2020,17:00,CET/+0100,TSV Hartberg,0-3,0-0,WSG Tirol,2020-03-07T16:00Z
+,22,Sat Mar 7 2020,17:00,CET/+0100,Austria Wien,0-0,0-0,SKN St. Pölten,2020-03-07T16:00Z
+,22,Sun Mar 8 2020,14:30,CET/+0100,RB Salzburg,2-0,0-0,Sturm Graz,2020-03-08T13:30Z
+,22,Sun Mar 8 2020,14:30,CET/+0100,SV Mattersburg,0-1,0-1,LASK,2020-03-08T13:30Z
+Playoffs - Relegation,23,Tue Jun 2 2020,18:30,CEST/+0200,WSG Tirol,0-5,0-3,SKN St. Pölten,2020-06-02T16:30Z
+Playoffs - Relegation,23,Tue Jun 2 2020,20:30,CEST/+0200,Austria Wien,1-0,0-0,FC Admira Wacker,2020-06-02T18:30Z
+Playoffs - Relegation,23,Tue Jun 2 2020,18:30,CEST/+0200,SV Mattersburg,1-1,1-1,SCR Altach,2020-06-02T16:30Z
+Playoffs - Championship,23,Wed Jun 3 2020,20:30,CEST/+0200,RB Salzburg,2-0,1-0,Rapid Wien,2020-06-03T18:30Z
+Playoffs - Championship,23,Wed Jun 3 2020,18:30,CEST/+0200,LASK,1-2,1-1,TSV Hartberg,2020-06-03T16:30Z
+Playoffs - Championship,23,Wed Jun 3 2020,18:30,CEST/+0200,Sturm Graz,1-2,0-1,Wolfsberger AC,2020-06-03T16:30Z
+Playoffs - Relegation,24,Sat Jun 6 2020,17:00,CEST/+0200,SKN St. Pölten,1-1,0-1,Austria Wien,2020-06-06T15:00Z
+Playoffs - Relegation,24,Sat Jun 6 2020,17:00,CEST/+0200,SCR Altach,1-1,0-0,WSG Tirol,2020-06-06T15:00Z
+Playoffs - Relegation,24,Sat Jun 6 2020,17:00,CEST/+0200,FC Admira Wacker,0-2,0-2,SV Mattersburg,2020-06-06T15:00Z
+Playoffs - Championship,24,Sun Jun 7 2020,19:30,CEST/+0200,Rapid Wien,4-0,2-0,Sturm Graz,2020-06-07T17:30Z
+Playoffs - Championship,24,Sun Jun 7 2020,17:00,CEST/+0200,TSV Hartberg,0-6,0-4,RB Salzburg,2020-06-07T15:00Z
+Playoffs - Championship,24,Sun Jun 7 2020,17:00,CEST/+0200,Wolfsberger AC,3-3,0-1,LASK,2020-06-07T15:00Z
+Playoffs - Relegation,25,Tue Jun 9 2020,18:30,CEST/+0200,WSG Tirol,1-1,1-1,SV Mattersburg,2020-06-09T16:30Z
+Playoffs - Relegation,25,Tue Jun 9 2020,20:30,CEST/+0200,Austria Wien,0-2,0-1,SCR Altach,2020-06-09T18:30Z
+Playoffs - Relegation,25,Tue Jun 9 2020,18:30,CEST/+0200,SKN St. Pölten,0-3,0-1,FC Admira Wacker,2020-06-09T16:30Z
+Playoffs - Championship,25,Wed Jun 10 2020,18:30,CEST/+0200,LASK,0-1,0-0,Rapid Wien,2020-06-10T16:30Z
+Playoffs - Championship,25,Wed Jun 10 2020,20:30,CEST/+0200,Sturm Graz,1-5,1-4,RB Salzburg,2020-06-10T18:30Z
+Playoffs - Championship,25,Wed Jun 10 2020,18:30,CEST/+0200,Wolfsberger AC,2-4,2-1,TSV Hartberg,2020-06-10T16:30Z
+Playoffs - Relegation,26,Sat Jun 13 2020,17:00,CEST/+0200,SCR Altach,2-0,1-0,SKN St. Pölten,2020-06-13T15:00Z
+Playoffs - Relegation,26,Sat Jun 13 2020,17:00,CEST/+0200,SV Mattersburg,1-4,1-2,Austria Wien,2020-06-13T15:00Z
+Playoffs - Relegation,26,Sat Jun 13 2020,17:00,CEST/+0200,FC Admira Wacker,0-3,0-1,WSG Tirol,2020-06-13T15:00Z
+Playoffs - Championship,26,Sun Jun 14 2020,17:00,CEST/+0200,TSV Hartberg,1-2,1-0,Sturm Graz,2020-06-14T15:00Z
+Playoffs - Championship,26,Sun Jun 14 2020,17:00,CEST/+0200,Rapid Wien,2-1,1-0,Wolfsberger AC,2020-06-14T15:00Z
+Playoffs - Championship,26,Sun Jun 14 2020,19:30,CEST/+0200,RB Salzburg,3-1,2-0,LASK,2020-06-14T17:30Z
+Playoffs - Relegation,27,Tue Jun 16 2020,18:30,CEST/+0200,SKN St. Pölten,1-0,1-0,SV Mattersburg,2020-06-16T16:30Z
+Playoffs - Relegation,27,Tue Jun 16 2020,18:30,CEST/+0200,FC Admira Wacker,1-1,1-1,SCR Altach,2020-06-16T16:30Z
+Playoffs - Relegation,27,Tue Jun 16 2020,20:30,CEST/+0200,Austria Wien,1-0,1-0,WSG Tirol,2020-06-16T18:30Z
+Playoffs - Championship,27,Wed Jun 17 2020,18:30,CEST/+0200,TSV Hartberg,0-1,0-1,Rapid Wien,2020-06-17T16:30Z
+Playoffs - Championship,27,Wed Jun 17 2020,20:30,CEST/+0200,LASK,4-0,3-0,Sturm Graz,2020-06-17T18:30Z
+Playoffs - Championship,27,Wed Jun 17 2020,18:30,CEST/+0200,Wolfsberger AC,0-0,0-0,RB Salzburg,2020-06-17T16:30Z
+Playoffs - Relegation,28,Sat Jun 20 2020,17:00,CEST/+0200,SCR Altach,1-1,0-0,FC Admira Wacker,2020-06-20T15:00Z
+Playoffs - Relegation,28,Sat Jun 20 2020,17:00,CEST/+0200,SV Mattersburg,2-0,1-0,SKN St. Pölten,2020-06-20T15:00Z
+Playoffs - Relegation,28,Sat Jun 20 2020,17:00,CEST/+0200,WSG Tirol,1-2,1-1,Austria Wien,2020-06-20T15:00Z
+Playoffs - Championship,28,Sun Jun 21 2020,17:00,CEST/+0200,RB Salzburg,2-2,1-0,Wolfsberger AC,2020-06-21T15:00Z
+Playoffs - Championship,28,Sun Jun 21 2020,17:00,CEST/+0200,Rapid Wien,0-1,0-1,TSV Hartberg,2020-06-21T15:00Z
+Playoffs - Championship,28,Sun Jun 21 2020,19:30,CEST/+0200,Sturm Graz,0-2,0-1,LASK,2020-06-21T17:30Z
+Playoffs - Relegation,29,Tue Jun 23 2020,18:30,CEST/+0200,FC Admira Wacker,0-2,0-1,Austria Wien,2020-06-23T16:30Z
+Playoffs - Relegation,29,Tue Jun 23 2020,20:30,CEST/+0200,SKN St. Pölten,1-1,1-0,WSG Tirol,2020-06-23T18:30Z
+Playoffs - Relegation,29,Tue Jun 23 2020,18:30,CEST/+0200,SCR Altach,1-1,1-1,SV Mattersburg,2020-06-23T16:30Z
+Playoffs - Championship,29,Wed Jun 24 2020,18:30,CEST/+0200,TSV Hartberg,1-5,0-0,LASK,2020-06-24T16:30Z
+Playoffs - Championship,29,Wed Jun 24 2020,20:30,CEST/+0200,Rapid Wien,2-7,1-4,RB Salzburg,2020-06-24T18:30Z
+Playoffs - Championship,29,Wed Jun 24 2020,18:30,CEST/+0200,Wolfsberger AC,2-0,0-0,Sturm Graz,2020-06-24T16:30Z
+Playoffs - Relegation,30,Sat Jun 27 2020,17:00,CEST/+0200,Austria Wien,2-5,2-2,SKN St. Pölten,2020-06-27T15:00Z
+Playoffs - Relegation,30,Sat Jun 27 2020,17:00,CEST/+0200,SV Mattersburg,1-2,1-0,FC Admira Wacker,2020-06-27T15:00Z
+Playoffs - Relegation,30,Sat Jun 27 2020,17:00,CEST/+0200,WSG Tirol,0-1,0-1,SCR Altach,2020-06-27T15:00Z
+Playoffs - Championship,30,Sun Jun 28 2020,19:30,CEST/+0200,Sturm Graz,2-3,2-0,Rapid Wien,2020-06-28T17:30Z
+Playoffs - Championship,30,Sun Jun 28 2020,17:00,CEST/+0200,RB Salzburg,3-0,1-0,TSV Hartberg,2020-06-28T15:00Z
+Playoffs - Championship,30,Sun Jun 28 2020,17:00,CEST/+0200,LASK,0-1,0-0,Wolfsberger AC,2020-06-28T15:00Z
+Playoffs - Relegation,31,Tue Jun 30 2020,20:30,CEST/+0200,SV Mattersburg,4-1,2-0,WSG Tirol,2020-06-30T18:30Z
+Playoffs - Relegation,31,Tue Jun 30 2020,20:30,CEST/+0200,FC Admira Wacker,0-3,0-0,SKN St. Pölten,2020-06-30T18:30Z
+Playoffs - Relegation,31,Tue Jun 30 2020,20:30,CEST/+0200,SCR Altach,1-2,1-0,Austria Wien,2020-06-30T18:30Z
+Playoffs - Championship,31,Wed Jul 1 2020,20:30,CEST/+0200,Rapid Wien,3-1,2-0,LASK,2020-07-01T18:30Z
+Playoffs - Championship,31,Wed Jul 1 2020,20:30,CEST/+0200,RB Salzburg,5-2,1-0,Sturm Graz,2020-07-01T18:30Z
+Playoffs - Championship,31,Thu Jul 2 2020,18:30,CEST/+0200,TSV Hartberg,3-3,1-0,Wolfsberger AC,2020-07-02T16:30Z
+Playoffs - Relegation,32,Sat Jul 4 2020,17:00,CEST/+0200,Austria Wien,1-0,0-0,SV Mattersburg,2020-07-04T15:00Z
+Playoffs - Relegation,32,Sat Jul 4 2020,17:00,CEST/+0200,SKN St. Pölten,2-0,0-0,SCR Altach,2020-07-04T15:00Z
+Playoffs - Relegation,32,Sat Jul 4 2020,17:00,CEST/+0200,WSG Tirol,0-0,0-0,FC Admira Wacker,2020-07-04T15:00Z
+Playoffs - Championship,32,Sun Jul 5 2020,17:00,CEST/+0200,LASK,0-3,0-0,RB Salzburg,2020-07-05T15:00Z
+Playoffs - Championship,32,Sun Jul 5 2020,17:00,CEST/+0200,Wolfsberger AC,3-1,2-0,Rapid Wien,2020-07-05T15:00Z
+Playoffs - Championship,32,Sun Jul 5 2020,17:00,CEST/+0200,Sturm Graz,1-4,1-3,TSV Hartberg,2020-07-05T15:00Z
+Europa League Finals,Semifinals,Wed Jul 8 2020,20:30,CEST/+0200,Austria Wien,1-0,1-0,SCR Altach,2020-07-08T18:30Z
+Europa League Finals,Final,Sat Jul 11 2020,17:00,CEST/+0200,Austria Wien,2-3,0-1,TSV Hartberg,2020-07-11T15:00Z
+Europa League Finals,Final,Wed Jul 15 2020,20:30,CEST/+0200,TSV Hartberg,0-0,0-0,Austria Wien,2020-07-15T18:30Z

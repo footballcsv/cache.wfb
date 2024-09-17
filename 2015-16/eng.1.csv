@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 8 2015,12:45,BST/+0100,Manchester United,1-0,1-0,Tottenham Hotspur,2015-08-08T11:45Z
+1,Sat Aug 8 2015,15:00,BST/+0100,AFC Bournemouth,0-1,0-0,Aston Villa,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Everton FC,2-2,0-1,Watford FC,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Leicester City,4-2,3-0,Sunderland AFC,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Norwich City,1-3,0-1,Crystal Palace,2015-08-08T14:00Z
+1,Sat Aug 8 2015,17:30,BST/+0100,Chelsea FC,2-2,2-1,Swansea City,2015-08-08T16:30Z
+1,Sun Aug 9 2015,13:30,BST/+0100,Newcastle United,2-2,1-1,Southampton FC,2015-08-09T12:30Z
+1,Sun Aug 9 2015,16:00,BST/+0100,Stoke City,0-1,0-0,Liverpool FC,2015-08-09T15:00Z
+1,Sun Aug 9 2015,13:30,BST/+0100,Arsenal FC,0-2,0-1,West Ham United,2015-08-09T12:30Z
+1,Mon Aug 10 2015,20:00,BST/+0100,West Bromwich Albion,0-3,0-2,Manchester City,2015-08-10T19:00Z
+2,Fri Aug 14 2015,19:45,BST/+0100,Aston Villa,0-1,0-1,Manchester United,2015-08-14T18:45Z
+2,Sat Aug 15 2015,12:45,BST/+0100,Southampton FC,0-3,0-2,Everton FC,2015-08-15T11:45Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Sunderland AFC,1-3,0-2,Norwich City,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Swansea City,2-0,1-0,Newcastle United,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Tottenham Hotspur,2-2,2-0,Stoke City,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Watford FC,0-0,0-0,West Bromwich Albion,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,West Ham United,1-2,0-2,Leicester City,2015-08-15T14:00Z
+2,Sun Aug 16 2015,16:00,BST/+0100,Manchester City,3-0,1-0,Chelsea FC,2015-08-16T15:00Z
+2,Sun Aug 16 2015,13:30,BST/+0100,Crystal Palace,1-2,1-1,Arsenal FC,2015-08-16T12:30Z
+2,Mon Aug 17 2015,20:00,BST/+0100,Liverpool FC,1-0,1-0,AFC Bournemouth,2015-08-17T19:00Z
+3,Sat Aug 22 2015,12:45,BST/+0100,Manchester United,0-0,0-0,Newcastle United,2015-08-22T11:45Z
+3,Sat Aug 22 2015,15:00,BST/+0100,Crystal Palace,2-1,0-0,Aston Villa,2015-08-22T14:00Z
+3,Sat Aug 22 2015,15:00,BST/+0100,Leicester City,1-1,0-0,Tottenham Hotspur,2015-08-22T14:00Z
+3,Sat Aug 22 2015,15:00,BST/+0100,Norwich City,1-1,1-1,Stoke City,2015-08-22T14:00Z
+3,Sat Aug 22 2015,15:00,BST/+0100,Sunderland AFC,1-1,0-1,Swansea City,2015-08-22T14:00Z
+3,Sat Aug 22 2015,15:00,BST/+0100,West Ham United,3-4,0-2,AFC Bournemouth,2015-08-22T14:00Z
+3,Sun Aug 23 2015,16:00,BST/+0100,Everton FC,0-2,0-0,Manchester City,2015-08-23T15:00Z
+3,Sun Aug 23 2015,16:00,BST/+0100,Watford FC,0-0,0-0,Southampton FC,2015-08-23T15:00Z
+3,Sun Aug 23 2015,13:30,BST/+0100,West Bromwich Albion,2-3,1-3,Chelsea FC,2015-08-23T12:30Z
+3,Mon Aug 24 2015,20:00,BST/+0100,Arsenal FC,0-0,0-0,Liverpool FC,2015-08-24T19:00Z
+4,Sat Aug 29 2015,12:45,BST/+0100,Newcastle United,0-1,0-0,Arsenal FC,2015-08-29T11:45Z
+4,Sat Aug 29 2015,15:00,BST/+0100,AFC Bournemouth,1-1,1-0,Leicester City,2015-08-29T14:00Z
+4,Sat Aug 29 2015,15:00,BST/+0100,Aston Villa,2-2,2-1,Sunderland AFC,2015-08-29T14:00Z
+4,Sat Aug 29 2015,15:00,BST/+0100,Chelsea FC,1-2,0-0,Crystal Palace,2015-08-29T14:00Z
+4,Sat Aug 29 2015,15:00,BST/+0100,Liverpool FC,0-3,0-2,West Ham United,2015-08-29T14:00Z
+4,Sat Aug 29 2015,15:00,BST/+0100,Manchester City,2-0,0-0,Watford FC,2015-08-29T14:00Z
+4,Sat Aug 29 2015,15:00,BST/+0100,Stoke City,0-1,0-1,West Bromwich Albion,2015-08-29T14:00Z
+4,Sat Aug 29 2015,17:30,BST/+0100,Tottenham Hotspur,0-0,0-0,Everton FC,2015-08-29T16:30Z
+4,Sun Aug 30 2015,16:00,BST/+0100,Swansea City,2-1,0-0,Manchester United,2015-08-30T15:00Z
+4,Sun Aug 30 2015,13:30,BST/+0100,Southampton FC,3-0,1-0,Norwich City,2015-08-30T12:30Z
+5,Sat Sep 12 2015,12:45,BST/+0100,Everton FC,3-1,2-1,Chelsea FC,2015-09-12T11:45Z
+5,Sat Sep 12 2015,15:00,BST/+0100,Arsenal FC,2-0,1-0,Stoke City,2015-09-12T14:00Z
+5,Sat Sep 12 2015,15:00,BST/+0100,Crystal Palace,0-1,0-0,Manchester City,2015-09-12T14:00Z
+5,Sat Sep 12 2015,15:00,BST/+0100,Norwich City,3-1,1-0,AFC Bournemouth,2015-09-12T14:00Z
+5,Sat Sep 12 2015,15:00,BST/+0100,Watford FC,1-0,0-0,Swansea City,2015-09-12T14:00Z
+5,Sat Sep 12 2015,15:00,BST/+0100,West Bromwich Albion,0-0,0-0,Southampton FC,2015-09-12T14:00Z
+5,Sat Sep 12 2015,17:30,BST/+0100,Manchester United,3-1,0-0,Liverpool FC,2015-09-12T16:30Z
+5,Sun Sep 13 2015,16:00,BST/+0100,Leicester City,3-2,0-1,Aston Villa,2015-09-13T15:00Z
+5,Sun Sep 13 2015,13:30,BST/+0100,Sunderland AFC,0-1,0-0,Tottenham Hotspur,2015-09-13T12:30Z
+5,Mon Sep 14 2015,20:00,BST/+0100,West Ham United,2-0,1-0,Newcastle United,2015-09-14T19:00Z
+6,Sat Sep 19 2015,12:45,BST/+0100,Chelsea FC,2-0,0-0,Arsenal FC,2015-09-19T11:45Z
+6,Sat Sep 19 2015,15:00,BST/+0100,AFC Bournemouth,2-0,2-0,Sunderland AFC,2015-09-19T14:00Z
+6,Sat Sep 19 2015,15:00,BST/+0100,Aston Villa,0-1,0-1,West Bromwich Albion,2015-09-19T14:00Z
+6,Sat Sep 19 2015,15:00,BST/+0100,Newcastle United,1-2,0-2,Watford FC,2015-09-19T14:00Z
+6,Sat Sep 19 2015,15:00,BST/+0100,Stoke City,2-2,2-0,Leicester City,2015-09-19T14:00Z
+6,Sat Sep 19 2015,15:00,BST/+0100,Swansea City,0-0,0-0,Everton FC,2015-09-19T14:00Z
+6,Sat Sep 19 2015,17:30,BST/+0100,Manchester City,1-2,1-2,West Ham United,2015-09-19T16:30Z
+6,Sun Sep 20 2015,13:30,BST/+0100,Tottenham Hotspur,1-0,0-0,Crystal Palace,2015-09-20T12:30Z
+6,Sun Sep 20 2015,16:00,BST/+0100,Liverpool FC,1-1,0-0,Norwich City,2015-09-20T15:00Z
+6,Sun Sep 20 2015,16:00,BST/+0100,Southampton FC,2-3,1-1,Manchester United,2015-09-20T15:00Z
+7,Sat Sep 26 2015,15:00,BST/+0100,Leicester City,2-5,1-2,Arsenal FC,2015-09-26T14:00Z
+7,Sat Sep 26 2015,15:00,BST/+0100,Liverpool FC,3-2,1-0,Aston Villa,2015-09-26T14:00Z
+7,Sat Sep 26 2015,15:00,BST/+0100,Manchester United,3-0,1-0,Sunderland AFC,2015-09-26T14:00Z
+7,Sat Sep 26 2015,15:00,BST/+0100,Southampton FC,3-1,1-0,Swansea City,2015-09-26T14:00Z
+7,Sat Sep 26 2015,15:00,BST/+0100,Stoke City,2-1,1-0,AFC Bournemouth,2015-09-26T14:00Z
+7,Sat Sep 26 2015,15:00,BST/+0100,West Ham United,2-2,1-1,Norwich City,2015-09-26T14:00Z
+7,Sat Sep 26 2015,17:30,BST/+0100,Newcastle United,2-2,1-0,Chelsea FC,2015-09-26T16:30Z
+7,Sat Sep 26 2015,12:45,BST/+0100,Tottenham Hotspur,4-1,1-1,Manchester City,2015-09-26T11:45Z
+7,Sun Sep 27 2015,16:00,BST/+0100,Watford FC,0-1,0-0,Crystal Palace,2015-09-27T15:00Z
+7,Mon Sep 28 2015,20:00,BST/+0100,West Bromwich Albion,2-3,1-0,Everton FC,2015-09-28T19:00Z
+8,Sat Oct 3 2015,15:00,BST/+0100,AFC Bournemouth,1-1,1-1,Watford FC,2015-10-03T14:00Z
+8,Sat Oct 3 2015,15:00,BST/+0100,Aston Villa,0-1,0-0,Stoke City,2015-10-03T14:00Z
+8,Sat Oct 3 2015,15:00,BST/+0100,Manchester City,6-1,1-1,Newcastle United,2015-10-03T14:00Z
+8,Sat Oct 3 2015,15:00,BST/+0100,Norwich City,1-2,0-1,Leicester City,2015-10-03T14:00Z
+8,Sat Oct 3 2015,15:00,BST/+0100,Sunderland AFC,2-2,2-1,West Ham United,2015-10-03T14:00Z
+8,Sat Oct 3 2015,17:30,BST/+0100,Chelsea FC,1-3,1-1,Southampton FC,2015-10-03T16:30Z
+8,Sat Oct 3 2015,12:45,BST/+0100,Crystal Palace,2-0,0-0,West Bromwich Albion,2015-10-03T11:45Z
+8,Sun Oct 4 2015,13:30,BST/+0100,Everton FC,1-1,1-1,Liverpool FC,2015-10-04T12:30Z
+8,Sun Oct 4 2015,16:00,BST/+0100,Arsenal FC,3-0,3-0,Manchester United,2015-10-04T15:00Z
+8,Sun Oct 4 2015,16:00,BST/+0100,Swansea City,2-2,2-1,Tottenham Hotspur,2015-10-04T15:00Z
+9,Sat Oct 17 2015,12:45,BST/+0100,Tottenham Hotspur,0-0,0-0,Liverpool FC,2015-10-17T11:45Z
+9,Sat Oct 17 2015,15:00,BST/+0100,Chelsea FC,2-0,1-0,Aston Villa,2015-10-17T14:00Z
+9,Sat Oct 17 2015,15:00,BST/+0100,Crystal Palace,1-3,1-1,West Ham United,2015-10-17T14:00Z
+9,Sat Oct 17 2015,15:00,BST/+0100,Everton FC,0-3,0-2,Manchester United,2015-10-17T14:00Z
+9,Sat Oct 17 2015,15:00,BST/+0100,Manchester City,5-1,4-1,AFC Bournemouth,2015-10-17T14:00Z
+9,Sat Oct 17 2015,15:00,BST/+0100,Southampton FC,2-2,2-0,Leicester City,2015-10-17T14:00Z
+9,Sat Oct 17 2015,15:00,BST/+0100,West Bromwich Albion,1-0,0-0,Sunderland AFC,2015-10-17T14:00Z
+9,Sat Oct 17 2015,17:30,BST/+0100,Watford FC,0-3,0-0,Arsenal FC,2015-10-17T16:30Z
+9,Sun Oct 18 2015,16:00,BST/+0100,Newcastle United,6-2,3-2,Norwich City,2015-10-18T15:00Z
+9,Mon Oct 19 2015,20:00,BST/+0100,Swansea City,0-1,0-1,Stoke City,2015-10-19T19:00Z
+10,Sat Oct 24 2015,15:00,BST/+0100,Aston Villa,1-2,0-0,Swansea City,2015-10-24T14:00Z
+10,Sat Oct 24 2015,15:00,BST/+0100,Leicester City,1-0,0-0,Crystal Palace,2015-10-24T14:00Z
+10,Sat Oct 24 2015,15:00,BST/+0100,Norwich City,0-1,0-0,West Bromwich Albion,2015-10-24T14:00Z
+10,Sat Oct 24 2015,15:00,BST/+0100,Stoke City,0-2,0-1,Watford FC,2015-10-24T14:00Z
+10,Sat Oct 24 2015,15:00,BST/+0100,West Ham United,2-1,1-0,Chelsea FC,2015-10-24T14:00Z
+10,Sat Oct 24 2015,17:30,BST/+0100,Arsenal FC,2-1,2-1,Everton FC,2015-10-24T16:30Z
+10,Sun Oct 25 2015,14:05,GMT/+0000,AFC Bournemouth,1-5,1-3,Tottenham Hotspur,2015-10-25T14:05Z
+10,Sun Oct 25 2015,14:05,GMT/+0000,Manchester United,0-0,0-0,Manchester City,2015-10-25T14:05Z
+10,Sun Oct 25 2015,16:15,GMT/+0000,Liverpool FC,1-1,0-0,Southampton FC,2015-10-25T16:15Z
+10,Sun Oct 25 2015,12:00,GMT/+0000,Sunderland AFC,3-0,1-0,Newcastle United,2015-10-25T12:00Z
+11,Sat Oct 31 2015,12:45,GMT/+0000,Chelsea FC,1-3,1-1,Liverpool FC,2015-10-31T12:45Z
+11,Sat Oct 31 2015,15:00,GMT/+0000,Crystal Palace,0-0,0-0,Manchester United,2015-10-31T15:00Z
+11,Sat Oct 31 2015,15:00,GMT/+0000,Manchester City,2-1,0-0,Norwich City,2015-10-31T15:00Z
+11,Sat Oct 31 2015,15:00,GMT/+0000,Newcastle United,0-0,0-0,Stoke City,2015-10-31T15:00Z
+11,Sat Oct 31 2015,15:00,GMT/+0000,Swansea City,0-3,0-0,Arsenal FC,2015-10-31T15:00Z
+11,Sat Oct 31 2015,15:00,GMT/+0000,Watford FC,2-0,1-0,West Ham United,2015-10-31T15:00Z
+11,Sat Oct 31 2015,15:00,GMT/+0000,West Bromwich Albion,2-3,1-0,Leicester City,2015-10-31T15:00Z
+11,Sun Nov 1 2015,16:00,GMT/+0000,Southampton FC,2-0,2-0,AFC Bournemouth,2015-11-01T16:00Z
+11,Sun Nov 1 2015,13:30,GMT/+0000,Everton FC,6-2,2-1,Sunderland AFC,2015-11-01T13:30Z
+11,Mon Nov 2 2015,20:00,GMT/+0000,Tottenham Hotspur,3-1,2-0,Aston Villa,2015-11-02T20:00Z
+12,Sat Nov 7 2015,12:45,GMT/+0000,AFC Bournemouth,0-1,0-1,Newcastle United,2015-11-07T12:45Z
+12,Sat Nov 7 2015,15:00,GMT/+0000,Leicester City,2-1,0-0,Watford FC,2015-11-07T15:00Z
+12,Sat Nov 7 2015,15:00,GMT/+0000,Manchester United,2-0,0-0,West Bromwich Albion,2015-11-07T15:00Z
+12,Sat Nov 7 2015,15:00,GMT/+0000,Norwich City,1-0,0-0,Swansea City,2015-11-07T15:00Z
+12,Sat Nov 7 2015,15:00,GMT/+0000,Sunderland AFC,0-1,0-0,Southampton FC,2015-11-07T15:00Z
+12,Sat Nov 7 2015,15:00,GMT/+0000,West Ham United,1-1,1-1,Everton FC,2015-11-07T15:00Z
+12,Sat Nov 7 2015,17:30,GMT/+0000,Stoke City,1-0,0-0,Chelsea FC,2015-11-07T17:30Z
+12,Sun Nov 8 2015,13:30,GMT/+0000,Aston Villa,0-0,0-0,Manchester City,2015-11-08T13:30Z
+12,Sun Nov 8 2015,16:00,GMT/+0000,Arsenal FC,1-1,0-1,Tottenham Hotspur,2015-11-08T16:00Z
+12,Sun Nov 8 2015,16:00,GMT/+0000,Liverpool FC,1-2,1-1,Crystal Palace,2015-11-08T16:00Z
+13,Sat Nov 21 2015,12:45,GMT/+0000,Watford FC,1-2,0-1,Manchester United,2015-11-21T12:45Z
+13,Sat Nov 21 2015,15:00,GMT/+0000,Chelsea FC,1-0,0-0,Norwich City,2015-11-21T15:00Z
+13,Sat Nov 21 2015,15:00,GMT/+0000,Everton FC,4-0,3-0,Aston Villa,2015-11-21T15:00Z
+13,Sat Nov 21 2015,15:00,GMT/+0000,Newcastle United,0-3,0-1,Leicester City,2015-11-21T15:00Z
+13,Sat Nov 21 2015,15:00,GMT/+0000,Southampton FC,0-1,0-1,Stoke City,2015-11-21T15:00Z
+13,Sat Nov 21 2015,15:00,GMT/+0000,Swansea City,2-2,2-2,AFC Bournemouth,2015-11-21T15:00Z
+13,Sat Nov 21 2015,15:00,GMT/+0000,West Bromwich Albion,2-1,2-1,Arsenal FC,2015-11-21T15:00Z
+13,Sat Nov 21 2015,17:30,GMT/+0000,Manchester City,1-4,1-3,Liverpool FC,2015-11-21T17:30Z
+13,Sun Nov 22 2015,16:00,GMT/+0000,Tottenham Hotspur,4-1,2-0,West Ham United,2015-11-22T16:00Z
+13,Mon Nov 23 2015,20:00,GMT/+0000,Crystal Palace,0-1,0-0,Sunderland AFC,2015-11-23T20:00Z
+14,Sat Nov 28 2015,15:00,GMT/+0000,AFC Bournemouth,3-3,0-2,Everton FC,2015-11-28T15:00Z
+14,Sat Nov 28 2015,15:00,GMT/+0000,Aston Villa,2-3,1-1,Watford FC,2015-11-28T15:00Z
+14,Sat Nov 28 2015,15:00,GMT/+0000,Crystal Palace,5-1,3-1,Newcastle United,2015-11-28T15:00Z
+14,Sat Nov 28 2015,15:00,GMT/+0000,Manchester City,3-1,2-0,Southampton FC,2015-11-28T15:00Z
+14,Sat Nov 28 2015,15:00,GMT/+0000,Sunderland AFC,2-0,0-0,Stoke City,2015-11-28T15:00Z
+14,Sat Nov 28 2015,17:30,GMT/+0000,Leicester City,1-1,1-1,Manchester United,2015-11-28T17:30Z
+14,Sun Nov 29 2015,14:05,GMT/+0000,West Ham United,1-1,1-0,West Bromwich Albion,2015-11-29T14:05Z
+14,Sun Nov 29 2015,16:15,GMT/+0000,Liverpool FC,1-0,0-0,Swansea City,2015-11-29T16:15Z
+14,Sun Nov 29 2015,16:15,GMT/+0000,Norwich City,1-1,1-1,Arsenal FC,2015-11-29T16:15Z
+14,Sun Nov 29 2015,12:00,GMT/+0000,Tottenham Hotspur,0-0,0-0,Chelsea FC,2015-11-29T12:00Z
+15,Sat Dec 5 2015,12:45,GMT/+0000,Stoke City,2-0,2-0,Manchester City,2015-12-05T12:45Z
+15,Sat Dec 5 2015,15:00,GMT/+0000,Arsenal FC,3-1,1-1,Sunderland AFC,2015-12-05T15:00Z
+15,Sat Dec 5 2015,15:00,GMT/+0000,Manchester United,0-0,0-0,West Ham United,2015-12-05T15:00Z
+15,Sat Dec 5 2015,15:00,GMT/+0000,Southampton FC,1-1,0-1,Aston Villa,2015-12-05T15:00Z
+15,Sat Dec 5 2015,15:00,GMT/+0000,Swansea City,0-3,0-2,Leicester City,2015-12-05T15:00Z
+15,Sat Dec 5 2015,15:00,GMT/+0000,Watford FC,2-0,1-0,Norwich City,2015-12-05T15:00Z
+15,Sat Dec 5 2015,15:00,GMT/+0000,West Bromwich Albion,1-1,1-1,Tottenham Hotspur,2015-12-05T15:00Z
+15,Sat Dec 5 2015,17:30,GMT/+0000,Chelsea FC,0-1,0-0,AFC Bournemouth,2015-12-05T17:30Z
+15,Sun Dec 6 2015,16:00,GMT/+0000,Newcastle United,2-0,0-0,Liverpool FC,2015-12-06T16:00Z
+15,Mon Dec 7 2015,20:00,GMT/+0000,Everton FC,1-1,0-0,Crystal Palace,2015-12-07T20:00Z
+16,Sat Dec 12 2015,15:00,GMT/+0000,Crystal Palace,1-0,1-0,Southampton FC,2015-12-12T15:00Z
+16,Sat Dec 12 2015,15:00,GMT/+0000,Manchester City,2-1,1-0,Swansea City,2015-12-12T15:00Z
+16,Sat Dec 12 2015,15:00,GMT/+0000,Sunderland AFC,0-1,0-1,Watford FC,2015-12-12T15:00Z
+16,Sat Dec 12 2015,15:00,GMT/+0000,West Ham United,0-0,0-0,Stoke City,2015-12-12T15:00Z
+16,Sat Dec 12 2015,17:30,GMT/+0000,AFC Bournemouth,2-1,1-1,Manchester United,2015-12-12T17:30Z
+16,Sat Dec 12 2015,12:45,GMT/+0000,Norwich City,1-1,0-1,Everton FC,2015-12-12T12:45Z
+16,Sun Dec 13 2015,13:30,GMT/+0000,Aston Villa,0-2,0-2,Arsenal FC,2015-12-13T13:30Z
+16,Sun Dec 13 2015,16:00,GMT/+0000,Liverpool FC,2-2,1-1,West Bromwich Albion,2015-12-13T16:00Z
+16,Sun Dec 13 2015,16:00,GMT/+0000,Tottenham Hotspur,1-2,1-0,Newcastle United,2015-12-13T16:00Z
+16,Mon Dec 14 2015,20:00,GMT/+0000,Leicester City,2-1,1-0,Chelsea FC,2015-12-14T20:00Z
+17,Sat Dec 19 2015,15:00,GMT/+0000,Chelsea FC,3-1,2-0,Sunderland AFC,2015-12-19T15:00Z
+17,Sat Dec 19 2015,15:00,GMT/+0000,Everton FC,2-3,1-1,Leicester City,2015-12-19T15:00Z
+17,Sat Dec 19 2015,15:00,GMT/+0000,Manchester United,1-2,0-1,Norwich City,2015-12-19T15:00Z
+17,Sat Dec 19 2015,15:00,GMT/+0000,Southampton FC,0-2,0-2,Tottenham Hotspur,2015-12-19T15:00Z
+17,Sat Dec 19 2015,15:00,GMT/+0000,Stoke City,1-2,0-1,Crystal Palace,2015-12-19T15:00Z
+17,Sat Dec 19 2015,15:00,GMT/+0000,West Bromwich Albion,1-2,0-0,AFC Bournemouth,2015-12-19T15:00Z
+17,Sat Dec 19 2015,17:30,GMT/+0000,Newcastle United,1-1,1-0,Aston Villa,2015-12-19T17:30Z
+17,Sun Dec 20 2015,16:00,GMT/+0000,Swansea City,0-0,0-0,West Ham United,2015-12-20T16:00Z
+17,Sun Dec 20 2015,13:30,GMT/+0000,Watford FC,3-0,2-0,Liverpool FC,2015-12-20T13:30Z
+17,Mon Dec 21 2015,20:00,GMT/+0000,Arsenal FC,2-1,2-0,Manchester City,2015-12-21T20:00Z
+18,Sat Dec 26 2015,12:45,GMT/+0000,Stoke City,2-0,2-0,Manchester United,2015-12-26T12:45Z
+18,Sat Dec 26 2015,15:00,GMT/+0000,AFC Bournemouth,0-0,0-0,Crystal Palace,2015-12-26T15:00Z
+18,Sat Dec 26 2015,15:00,GMT/+0000,Aston Villa,1-1,0-1,West Ham United,2015-12-26T15:00Z
+18,Sat Dec 26 2015,15:00,GMT/+0000,Chelsea FC,2-2,1-1,Watford FC,2015-12-26T15:00Z
+18,Sat Dec 26 2015,15:00,GMT/+0000,Liverpool FC,1-0,0-0,Leicester City,2015-12-26T15:00Z
+18,Sat Dec 26 2015,15:00,GMT/+0000,Manchester City,4-1,3-0,Sunderland AFC,2015-12-26T15:00Z
+18,Sat Dec 26 2015,15:00,GMT/+0000,Swansea City,1-0,1-0,West Bromwich Albion,2015-12-26T15:00Z
+18,Sat Dec 26 2015,15:00,GMT/+0000,Tottenham Hotspur,3-0,2-0,Norwich City,2015-12-26T15:00Z
+18,Sat Dec 26 2015,17:30,GMT/+0000,Newcastle United,0-1,0-0,Everton FC,2015-12-26T17:30Z
+18,Sat Dec 26 2015,19:45,GMT/+0000,Southampton FC,4-0,1-0,Arsenal FC,2015-12-26T19:45Z
+19,Mon Dec 28 2015,15:00,GMT/+0000,Crystal Palace,0-0,0-0,Swansea City,2015-12-28T15:00Z
+19,Mon Dec 28 2015,15:00,GMT/+0000,Everton FC,3-4,1-2,Stoke City,2015-12-28T15:00Z
+19,Mon Dec 28 2015,15:00,GMT/+0000,Norwich City,2-0,1-0,Aston Villa,2015-12-28T15:00Z
+19,Mon Dec 28 2015,15:00,GMT/+0000,Watford FC,1-2,1-1,Tottenham Hotspur,2015-12-28T15:00Z
+19,Mon Dec 28 2015,15:00,GMT/+0000,West Bromwich Albion,1-0,0-0,Newcastle United,2015-12-28T15:00Z
+19,Mon Dec 28 2015,17:30,GMT/+0000,Arsenal FC,2-0,1-0,AFC Bournemouth,2015-12-28T17:30Z
+19,Mon Dec 28 2015,17:30,GMT/+0000,Manchester United,0-0,0-0,Chelsea FC,2015-12-28T17:30Z
+19,Mon Dec 28 2015,17:30,GMT/+0000,West Ham United,2-1,0-1,Southampton FC,2015-12-28T17:30Z
+19,Tue Dec 29 2015,19:45,GMT/+0000,Leicester City,0-0,0-0,Manchester City,2015-12-29T19:45Z
+19,Wed Dec 30 2015,19:45,GMT/+0000,Sunderland AFC,0-1,0-0,Liverpool FC,2015-12-30T19:45Z
+20,Sat Jan 2 2016,12:45,GMT/+0000,West Ham United,2-0,1-0,Liverpool FC,2016-01-02T12:45Z
+20,Sat Jan 2 2016,15:00,GMT/+0000,Arsenal FC,1-0,0-0,Newcastle United,2016-01-02T15:00Z
+20,Sat Jan 2 2016,15:00,GMT/+0000,Leicester City,0-0,0-0,AFC Bournemouth,2016-01-02T15:00Z
+20,Sat Jan 2 2016,15:00,GMT/+0000,Manchester United,2-1,0-0,Swansea City,2016-01-02T15:00Z
+20,Sat Jan 2 2016,15:00,GMT/+0000,Norwich City,1-0,0-0,Southampton FC,2016-01-02T15:00Z
+20,Sat Jan 2 2016,15:00,GMT/+0000,Sunderland AFC,3-1,1-0,Aston Villa,2016-01-02T15:00Z
+20,Sat Jan 2 2016,15:00,GMT/+0000,West Bromwich Albion,2-1,0-0,Stoke City,2016-01-02T15:00Z
+20,Sat Jan 2 2016,17:30,GMT/+0000,Watford FC,1-2,0-0,Manchester City,2016-01-02T17:30Z
+20,Sun Jan 3 2016,16:00,GMT/+0000,Everton FC,1-1,1-1,Tottenham Hotspur,2016-01-03T16:00Z
+20,Sun Jan 3 2016,13:30,GMT/+0000,Crystal Palace,0-3,0-1,Chelsea FC,2016-01-03T13:30Z
+21,Tue Jan 12 2016,19:45,GMT/+0000,Aston Villa,1-0,0-0,Crystal Palace,2016-01-12T19:45Z
+21,Tue Jan 12 2016,19:45,GMT/+0000,Newcastle United,3-3,1-2,Manchester United,2016-01-12T19:45Z
+21,Tue Jan 12 2016,19:45,GMT/+0000,AFC Bournemouth,1-3,1-0,West Ham United,2016-01-12T19:45Z
+21,Wed Jan 13 2016,19:45,GMT/+0000,Swansea City,2-4,2-1,Sunderland AFC,2016-01-13T19:45Z
+21,Wed Jan 13 2016,19:45,GMT/+0000,Chelsea FC,2-2,1-1,West Bromwich Albion,2016-01-13T19:45Z
+21,Wed Jan 13 2016,19:45,GMT/+0000,Manchester City,0-0,0-0,Everton FC,2016-01-13T19:45Z
+21,Wed Jan 13 2016,19:45,GMT/+0000,Southampton FC,2-0,1-0,Watford FC,2016-01-13T19:45Z
+21,Wed Jan 13 2016,19:45,GMT/+0000,Stoke City,3-1,0-0,Norwich City,2016-01-13T19:45Z
+21,Wed Jan 13 2016,20:00,GMT/+0000,Liverpool FC,3-3,2-2,Arsenal FC,2016-01-13T20:00Z
+21,Wed Jan 13 2016,20:00,GMT/+0000,Tottenham Hotspur,0-1,0-0,Leicester City,2016-01-13T20:00Z
+22,Sat Jan 16 2016,12:45,GMT/+0000,Tottenham Hotspur,4-1,1-1,Sunderland AFC,2016-01-16T12:45Z
+22,Sat Jan 16 2016,15:00,GMT/+0000,AFC Bournemouth,3-0,1-0,Norwich City,2016-01-16T15:00Z
+22,Sat Jan 16 2016,15:00,GMT/+0000,Chelsea FC,3-3,0-0,Everton FC,2016-01-16T15:00Z
+22,Sat Jan 16 2016,15:00,GMT/+0000,Manchester City,4-0,2-0,Crystal Palace,2016-01-16T15:00Z
+22,Sat Jan 16 2016,15:00,GMT/+0000,Newcastle United,2-1,2-0,West Ham United,2016-01-16T15:00Z
+22,Sat Jan 16 2016,15:00,GMT/+0000,Southampton FC,3-0,2-0,West Bromwich Albion,2016-01-16T15:00Z
+22,Sat Jan 16 2016,17:30,GMT/+0000,Aston Villa,1-1,0-1,Leicester City,2016-01-16T17:30Z
+22,Sun Jan 17 2016,16:15,GMT/+0000,Stoke City,0-0,0-0,Arsenal FC,2016-01-17T16:15Z
+22,Sun Jan 17 2016,14:05,GMT/+0000,Liverpool FC,0-1,0-0,Manchester United,2016-01-17T14:05Z
+22,Mon Jan 18 2016,20:00,GMT/+0000,Swansea City,1-0,1-0,Watford FC,2016-01-18T20:00Z
+23,Sat Jan 23 2016,12:45,GMT/+0000,Norwich City,4-5,2-1,Liverpool FC,2016-01-23T12:45Z
+23,Sat Jan 23 2016,15:00,GMT/+0000,Crystal Palace,1-3,1-0,Tottenham Hotspur,2016-01-23T15:00Z
+23,Sat Jan 23 2016,15:00,GMT/+0000,Leicester City,3-0,1-0,Stoke City,2016-01-23T15:00Z
+23,Sat Jan 23 2016,15:00,GMT/+0000,Manchester United,0-1,0-0,Southampton FC,2016-01-23T15:00Z
+23,Sat Jan 23 2016,15:00,GMT/+0000,Sunderland AFC,1-1,1-1,AFC Bournemouth,2016-01-23T15:00Z
+23,Sat Jan 23 2016,15:00,GMT/+0000,Watford FC,2-1,0-0,Newcastle United,2016-01-23T15:00Z
+23,Sat Jan 23 2016,15:00,GMT/+0000,West Bromwich Albion,0-0,0-0,Aston Villa,2016-01-23T15:00Z
+23,Sat Jan 23 2016,17:30,GMT/+0000,West Ham United,2-2,1-1,Manchester City,2016-01-23T17:30Z
+23,Sun Jan 24 2016,16:00,GMT/+0000,Arsenal FC,0-1,0-1,Chelsea FC,2016-01-24T16:00Z
+23,Sun Jan 24 2016,13:30,GMT/+0000,Everton FC,1-2,1-2,Swansea City,2016-01-24T13:30Z
+24,Tue Feb 2 2016,19:45,GMT/+0000,Arsenal FC,0-0,0-0,Southampton FC,2016-02-02T19:45Z
+24,Tue Feb 2 2016,19:45,GMT/+0000,Leicester City,2-0,0-0,Liverpool FC,2016-02-02T19:45Z
+24,Tue Feb 2 2016,19:45,GMT/+0000,Norwich City,0-3,0-2,Tottenham Hotspur,2016-02-02T19:45Z
+24,Tue Feb 2 2016,19:45,GMT/+0000,Sunderland AFC,0-1,0-1,Manchester City,2016-02-02T19:45Z
+24,Tue Feb 2 2016,19:45,GMT/+0000,West Ham United,2-0,0-0,Aston Villa,2016-02-02T19:45Z
+24,Tue Feb 2 2016,20:00,GMT/+0000,Crystal Palace,1-2,1-1,AFC Bournemouth,2016-02-02T20:00Z
+24,Tue Feb 2 2016,20:00,GMT/+0000,Manchester United,3-0,2-0,Stoke City,2016-02-02T20:00Z
+24,Tue Feb 2 2016,20:00,GMT/+0000,West Bromwich Albion,1-1,0-0,Swansea City,2016-02-02T20:00Z
+24,Wed Feb 3 2016,19:45,GMT/+0000,Everton FC,3-0,1-0,Newcastle United,2016-02-03T19:45Z
+24,Wed Feb 3 2016,19:45,GMT/+0000,Watford FC,0-0,0-0,Chelsea FC,2016-02-03T19:45Z
+25,Sat Feb 6 2016,12:45,GMT/+0000,Manchester City,1-3,0-1,Leicester City,2016-02-06T12:45Z
+25,Sat Feb 6 2016,15:00,GMT/+0000,Aston Villa,2-0,1-0,Norwich City,2016-02-06T15:00Z
+25,Sat Feb 6 2016,15:00,GMT/+0000,Liverpool FC,2-2,0-0,Sunderland AFC,2016-02-06T15:00Z
+25,Sat Feb 6 2016,15:00,GMT/+0000,Newcastle United,1-0,1-0,West Bromwich Albion,2016-02-06T15:00Z
+25,Sat Feb 6 2016,15:00,GMT/+0000,Stoke City,0-3,0-3,Everton FC,2016-02-06T15:00Z
+25,Sat Feb 6 2016,15:00,GMT/+0000,Swansea City,1-1,1-0,Crystal Palace,2016-02-06T15:00Z
+25,Sat Feb 6 2016,15:00,GMT/+0000,Tottenham Hotspur,1-0,0-0,Watford FC,2016-02-06T15:00Z
+25,Sat Feb 6 2016,17:30,GMT/+0000,Southampton FC,1-0,1-0,West Ham United,2016-02-06T17:30Z
+25,Sun Feb 7 2016,16:00,GMT/+0000,Chelsea FC,1-1,0-0,Manchester United,2016-02-07T16:00Z
+25,Sun Feb 7 2016,13:30,GMT/+0000,AFC Bournemouth,0-2,0-2,Arsenal FC,2016-02-07T13:30Z
+26,Sat Feb 13 2016,12:45,GMT/+0000,Sunderland AFC,2-1,1-1,Manchester United,2016-02-13T12:45Z
+26,Sat Feb 13 2016,15:00,GMT/+0000,AFC Bournemouth,1-3,0-1,Stoke City,2016-02-13T15:00Z
+26,Sat Feb 13 2016,15:00,GMT/+0000,Crystal Palace,1-2,1-1,Watford FC,2016-02-13T15:00Z
+26,Sat Feb 13 2016,15:00,GMT/+0000,Everton FC,0-1,0-1,West Bromwich Albion,2016-02-13T15:00Z
+26,Sat Feb 13 2016,15:00,GMT/+0000,Norwich City,2-2,0-0,West Ham United,2016-02-13T15:00Z
+26,Sat Feb 13 2016,15:00,GMT/+0000,Swansea City,0-1,0-0,Southampton FC,2016-02-13T15:00Z
+26,Sat Feb 13 2016,17:30,GMT/+0000,Chelsea FC,5-1,3-0,Newcastle United,2016-02-13T17:30Z
+26,Sun Feb 14 2016,14:05,GMT/+0000,Aston Villa,0-6,0-2,Liverpool FC,2016-02-14T14:05Z
+26,Sun Feb 14 2016,16:15,GMT/+0000,Manchester City,1-2,0-0,Tottenham Hotspur,2016-02-14T16:15Z
+26,Sun Feb 14 2016,12:00,GMT/+0000,Arsenal FC,2-1,0-1,Leicester City,2016-02-14T12:00Z
+27,Sat Feb 27 2016,12:45,GMT/+0000,West Ham United,1-0,1-0,Sunderland AFC,2016-02-27T12:45Z
+27,Sat Feb 27 2016,15:00,GMT/+0000,Leicester City,1-0,0-0,Norwich City,2016-02-27T15:00Z
+27,Sat Feb 27 2016,15:00,GMT/+0000,Southampton FC,1-2,1-0,Chelsea FC,2016-02-27T15:00Z
+27,Sat Feb 27 2016,15:00,GMT/+0000,Stoke City,2-1,0-0,Aston Villa,2016-02-27T15:00Z
+27,Sat Feb 27 2016,15:00,GMT/+0000,Watford FC,0-0,0-0,AFC Bournemouth,2016-02-27T15:00Z
+27,Sat Feb 27 2016,17:30,GMT/+0000,West Bromwich Albion,3-2,3-0,Crystal Palace,2016-02-27T17:30Z
+27,Sun Feb 28 2016,14:05,GMT/+0000,Tottenham Hotspur,2-1,0-1,Swansea City,2016-02-28T14:05Z
+27,Sun Feb 28 2016,14:05,GMT/+0000,Manchester United,3-2,2-1,Arsenal FC,2016-02-28T14:05Z
+28,Tue Mar 1 2016,19:45,GMT/+0000,Sunderland AFC,2-2,1-0,Crystal Palace,2016-03-01T19:45Z
+28,Tue Mar 1 2016,19:45,GMT/+0000,Norwich City,1-2,0-2,Chelsea FC,2016-03-01T19:45Z
+28,Tue Mar 1 2016,19:45,GMT/+0000,AFC Bournemouth,2-0,1-0,Southampton FC,2016-03-01T19:45Z
+28,Tue Mar 1 2016,19:45,GMT/+0000,Aston Villa,1-3,0-2,Everton FC,2016-03-01T19:45Z
+28,Tue Mar 1 2016,19:45,GMT/+0000,Leicester City,2-2,2-1,West Bromwich Albion,2016-03-01T19:45Z
+28,Wed Mar 2 2016,20:00,GMT/+0000,Liverpool FC,3-0,2-0,Manchester City,2016-03-02T20:00Z
+28,Wed Mar 2 2016,19:45,GMT/+0000,Arsenal FC,1-2,1-1,Swansea City,2016-03-02T19:45Z
+28,Wed Mar 2 2016,19:45,GMT/+0000,West Ham United,1-0,1-0,Tottenham Hotspur,2016-03-02T19:45Z
+28,Wed Mar 2 2016,19:45,GMT/+0000,Stoke City,1-0,0-0,Newcastle United,2016-03-02T19:45Z
+28,Wed Mar 2 2016,20:00,GMT/+0000,Manchester United,1-0,0-0,Watford FC,2016-03-02T20:00Z
+29,Sat Mar 5 2016,17:30,GMT/+0000,Watford FC,0-1,0-0,Leicester City,2016-03-05T17:30Z
+29,Sat Mar 5 2016,15:00,GMT/+0000,Swansea City,1-0,0-0,Norwich City,2016-03-05T15:00Z
+29,Sat Mar 5 2016,12:45,GMT/+0000,Tottenham Hotspur,2-2,0-1,Arsenal FC,2016-03-05T12:45Z
+29,Sat Mar 5 2016,15:00,GMT/+0000,Chelsea FC,1-1,1-0,Stoke City,2016-03-05T15:00Z
+29,Sat Mar 5 2016,15:00,GMT/+0000,Everton FC,2-3,1-0,West Ham United,2016-03-05T15:00Z
+29,Sat Mar 5 2016,15:00,GMT/+0000,Manchester City,4-0,0-0,Aston Villa,2016-03-05T15:00Z
+29,Sat Mar 5 2016,15:00,GMT/+0000,Newcastle United,1-3,0-1,AFC Bournemouth,2016-03-05T15:00Z
+29,Sat Mar 5 2016,15:00,GMT/+0000,Southampton FC,1-1,0-0,Sunderland AFC,2016-03-05T15:00Z
+29,Sun Mar 6 2016,16:00,GMT/+0000,West Bromwich Albion,1-0,0-0,Manchester United,2016-03-06T16:00Z
+29,Sun Mar 6 2016,13:30,GMT/+0000,Crystal Palace,1-2,0-0,Liverpool FC,2016-03-06T13:30Z
+30,Sat Mar 12 2016,15:00,GMT/+0000,AFC Bournemouth,3-2,1-1,Swansea City,2016-03-12T15:00Z
+30,Sat Mar 12 2016,12:45,GMT/+0000,Norwich City,0-0,0-0,Manchester City,2016-03-12T12:45Z
+30,Sat Mar 12 2016,15:00,GMT/+0000,Stoke City,1-2,0-2,Southampton FC,2016-03-12T15:00Z
+30,Sun Mar 13 2016,16:00,GMT/+0000,Aston Villa,0-2,0-1,Tottenham Hotspur,2016-03-13T16:00Z
+30,Mon Mar 14 2016,20:00,GMT/+0000,Leicester City,1-0,1-0,Newcastle United,2016-03-14T20:00Z
+31,Sat Mar 19 2016,12:45,GMT/+0000,Everton FC,0-2,0-2,Arsenal FC,2016-03-19T12:45Z
+31,Sat Mar 19 2016,15:00,GMT/+0000,Crystal Palace,0-1,0-1,Leicester City,2016-03-19T15:00Z
+31,Sat Mar 19 2016,15:00,GMT/+0000,Chelsea FC,2-2,1-1,West Ham United,2016-03-19T15:00Z
+31,Sat Mar 19 2016,17:30,GMT/+0000,Swansea City,1-0,0-0,Aston Villa,2016-03-19T17:30Z
+31,Sat Mar 19 2016,15:00,GMT/+0000,West Bromwich Albion,0-1,0-0,Norwich City,2016-03-19T15:00Z
+31,Sat Mar 19 2016,15:00,GMT/+0000,Watford FC,1-2,0-1,Stoke City,2016-03-19T15:00Z
+31,Sun Mar 20 2016,13:30,GMT/+0000,Southampton FC,3-2,0-2,Liverpool FC,2016-03-20T13:30Z
+31,Sun Mar 20 2016,13:30,GMT/+0000,Newcastle United,1-1,0-1,Sunderland AFC,2016-03-20T13:30Z
+31,Sun Mar 20 2016,16:00,GMT/+0000,Manchester City,0-1,0-1,Manchester United,2016-03-20T16:00Z
+31,Sun Mar 20 2016,16:00,GMT/+0000,Tottenham Hotspur,3-0,2-0,AFC Bournemouth,2016-03-20T16:00Z
+32,Sat Apr 2 2016,15:00,BST/+0100,Stoke City,2-2,1-0,Swansea City,2016-04-02T14:00Z
+32,Sat Apr 2 2016,15:00,BST/+0100,Sunderland AFC,0-0,0-0,West Bromwich Albion,2016-04-02T14:00Z
+32,Sat Apr 2 2016,15:00,BST/+0100,West Ham United,2-2,2-1,Crystal Palace,2016-04-02T14:00Z
+32,Sat Apr 2 2016,17:30,BST/+0100,Liverpool FC,1-1,0-0,Tottenham Hotspur,2016-04-02T16:30Z
+32,Sat Apr 2 2016,15:00,BST/+0100,Arsenal FC,4-0,2-0,Watford FC,2016-04-02T14:00Z
+32,Sat Apr 2 2016,15:00,BST/+0100,AFC Bournemouth,0-4,0-3,Manchester City,2016-04-02T14:00Z
+32,Sat Apr 2 2016,15:00,BST/+0100,Norwich City,3-2,1-0,Newcastle United,2016-04-02T14:00Z
+32,Sat Apr 2 2016,12:45,BST/+0100,Aston Villa,0-4,0-2,Chelsea FC,2016-04-02T11:45Z
+32,Sun Apr 3 2016,16:00,BST/+0100,Manchester United,1-0,0-0,Everton FC,2016-04-03T15:00Z
+32,Sun Apr 3 2016,13:30,BST/+0100,Leicester City,1-0,1-0,Southampton FC,2016-04-03T12:30Z
+33,Sat Apr 9 2016,17:30,BST/+0100,Manchester City,2-1,1-1,West Bromwich Albion,2016-04-09T16:30Z
+33,Sat Apr 9 2016,15:00,BST/+0100,Watford FC,1-1,1-1,Everton FC,2016-04-09T14:00Z
+33,Sat Apr 9 2016,15:00,BST/+0100,Swansea City,1-0,1-0,Chelsea FC,2016-04-09T14:00Z
+33,Sat Apr 9 2016,15:00,BST/+0100,Southampton FC,3-1,2-0,Newcastle United,2016-04-09T14:00Z
+33,Sat Apr 9 2016,15:00,BST/+0100,Aston Villa,1-2,0-1,AFC Bournemouth,2016-04-09T14:00Z
+33,Sat Apr 9 2016,12:45,BST/+0100,West Ham United,3-3,2-2,Arsenal FC,2016-04-09T11:45Z
+33,Sat Apr 9 2016,15:00,BST/+0100,Crystal Palace,1-0,0-0,Norwich City,2016-04-09T14:00Z
+33,Sun Apr 10 2016,16:00,BST/+0100,Liverpool FC,4-1,2-1,Stoke City,2016-04-10T15:00Z
+33,Sun Apr 10 2016,16:30,BST/+0100,Tottenham Hotspur,3-0,0-0,Manchester United,2016-04-10T15:30Z
+33,Sun Apr 10 2016,13:30,BST/+0100,Sunderland AFC,0-2,0-0,Leicester City,2016-04-10T12:30Z
+35,Wed Apr 13 2016,20:00,BST/+0100,Crystal Palace,0-0,0-0,Everton FC,2016-04-13T19:00Z
+34,Sat Apr 16 2016,15:00,BST/+0100,Manchester United,1-0,1-0,Aston Villa,2016-04-16T14:00Z
+34,Sat Apr 16 2016,15:00,BST/+0100,Newcastle United,3-0,1-0,Swansea City,2016-04-16T14:00Z
+34,Sat Apr 16 2016,15:00,BST/+0100,West Bromwich Albion,0-1,0-1,Watford FC,2016-04-16T14:00Z
+34,Sat Apr 16 2016,15:00,BST/+0100,Everton FC,1-1,0-0,Southampton FC,2016-04-16T14:00Z
+34,Sat Apr 16 2016,12:45,BST/+0100,Norwich City,0-3,0-1,Sunderland AFC,2016-04-16T11:45Z
+34,Sat Apr 16 2016,17:30,BST/+0100,Chelsea FC,0-3,0-1,Manchester City,2016-04-16T16:30Z
+34,Sun Apr 17 2016,13:30,BST/+0100,AFC Bournemouth,1-2,0-2,Liverpool FC,2016-04-17T12:30Z
+34,Sun Apr 17 2016,13:30,BST/+0100,Leicester City,2-2,1-0,West Ham United,2016-04-17T12:30Z
+34,Sun Apr 17 2016,16:00,BST/+0100,Arsenal FC,1-1,1-0,Crystal Palace,2016-04-17T15:00Z
+34,Mon Apr 18 2016,20:00,BST/+0100,Stoke City,0-4,0-1,Tottenham Hotspur,2016-04-18T19:00Z
+27,Tue Apr 19 2016,19:45,BST/+0100,Newcastle United,1-1,1-1,Manchester City,2016-04-19T18:45Z
+27,Wed Apr 20 2016,20:00,BST/+0100,Liverpool FC,4-0,2-0,Everton FC,2016-04-20T19:00Z
+30,Wed Apr 20 2016,19:45,BST/+0100,West Ham United,3-1,2-0,Watford FC,2016-04-20T18:45Z
+30,Wed Apr 20 2016,20:00,BST/+0100,Manchester United,2-0,1-0,Crystal Palace,2016-04-20T19:00Z
+30,Thu Apr 21 2016,19:45,BST/+0100,Arsenal FC,2-0,2-0,West Bromwich Albion,2016-04-21T18:45Z
+35,Sat Apr 23 2016,15:00,BST/+0100,Liverpool FC,2-2,2-0,Newcastle United,2016-04-23T14:00Z
+35,Sat Apr 23 2016,12:45,BST/+0100,Manchester City,4-0,2-0,Stoke City,2016-04-23T11:45Z
+35,Sat Apr 23 2016,15:00,BST/+0100,Aston Villa,2-4,1-2,Southampton FC,2016-04-23T14:00Z
+35,Sat Apr 23 2016,15:00,BST/+0100,AFC Bournemouth,1-4,1-2,Chelsea FC,2016-04-23T14:00Z
+35,Sun Apr 24 2016,16:15,BST/+0100,Leicester City,4-0,2-0,Swansea City,2016-04-24T15:15Z
+35,Sun Apr 24 2016,14:05,BST/+0100,Sunderland AFC,0-0,0-0,Arsenal FC,2016-04-24T13:05Z
+35,Mon Apr 25 2016,20:00,BST/+0100,Tottenham Hotspur,1-1,1-0,West Bromwich Albion,2016-04-25T19:00Z
+36,Sat Apr 30 2016,15:00,BST/+0100,Watford FC,3-2,1-1,Aston Villa,2016-04-30T14:00Z
+36,Sat Apr 30 2016,15:00,BST/+0100,West Bromwich Albion,0-3,0-2,West Ham United,2016-04-30T14:00Z
+36,Sat Apr 30 2016,15:00,BST/+0100,Stoke City,1-1,0-0,Sunderland AFC,2016-04-30T14:00Z
+36,Sat Apr 30 2016,15:00,BST/+0100,Newcastle United,1-0,0-0,Crystal Palace,2016-04-30T14:00Z
+36,Sat Apr 30 2016,15:00,BST/+0100,Everton FC,2-1,1-1,AFC Bournemouth,2016-04-30T14:00Z
+36,Sat Apr 30 2016,17:30,BST/+0100,Arsenal FC,1-0,0-0,Norwich City,2016-04-30T16:30Z
+36,Sun May 1 2016,16:30,BST/+0100,Southampton FC,4-2,2-1,Manchester City,2016-05-01T15:30Z
+36,Sun May 1 2016,14:05,BST/+0100,Manchester United,1-1,1-1,Leicester City,2016-05-01T13:05Z
+36,Sun May 1 2016,12:00,BST/+0100,Swansea City,3-1,2-0,Liverpool FC,2016-05-01T11:00Z
+36,Mon May 2 2016,20:00,BST/+0100,Chelsea FC,2-2,0-2,Tottenham Hotspur,2016-05-02T19:00Z
+37,Sat May 7 2016,15:00,BST/+0100,Crystal Palace,2-1,0-1,Stoke City,2016-05-07T14:00Z
+37,Sat May 7 2016,15:00,BST/+0100,Sunderland AFC,3-2,1-2,Chelsea FC,2016-05-07T14:00Z
+37,Sat May 7 2016,15:00,BST/+0100,Aston Villa,0-0,0-0,Newcastle United,2016-05-07T14:00Z
+37,Sat May 7 2016,17:30,BST/+0100,Leicester City,3-1,2-0,Everton FC,2016-05-07T16:30Z
+37,Sat May 7 2016,12:45,BST/+0100,Norwich City,0-1,0-0,Manchester United,2016-05-07T11:45Z
+37,Sat May 7 2016,15:00,BST/+0100,AFC Bournemouth,1-1,0-1,West Bromwich Albion,2016-05-07T14:00Z
+37,Sat May 7 2016,15:00,BST/+0100,West Ham United,1-4,0-2,Swansea City,2016-05-07T14:00Z
+37,Sun May 8 2016,16:00,BST/+0100,Liverpool FC,2-0,1-0,Watford FC,2016-05-08T15:00Z
+37,Sun May 8 2016,16:00,BST/+0100,Manchester City,2-2,1-1,Arsenal FC,2016-05-08T15:00Z
+37,Sun May 8 2016,13:30,BST/+0100,Tottenham Hotspur,1-2,1-1,Southampton FC,2016-05-08T12:30Z
+35,Tue May 10 2016,20:30,BST/+0100,West Ham United,3-2,1-0,Manchester United,2016-05-10T19:30Z
+30,Wed May 11 2016,19:45,BST/+0100,Sunderland AFC,3-0,2-0,Everton FC,2016-05-11T18:45Z
+35,Wed May 11 2016,19:45,BST/+0100,Norwich City,4-2,3-1,Watford FC,2016-05-11T18:45Z
+30,Wed May 11 2016,20:00,BST/+0100,Liverpool FC,1-1,0-1,Chelsea FC,2016-05-11T19:00Z
+38,Sun May 15 2016,15:00,BST/+0100,Arsenal FC,4-0,1-0,Aston Villa,2016-05-15T14:00Z
+38,Sun May 15 2016,15:00,BST/+0100,Chelsea FC,1-1,0-0,Leicester City,2016-05-15T14:00Z
+38,Sun May 15 2016,15:00,BST/+0100,Everton FC,3-0,2-0,Norwich City,2016-05-15T14:00Z
+38,Sun May 15 2016,15:00,BST/+0100,Newcastle United,5-1,2-0,Tottenham Hotspur,2016-05-15T14:00Z
+38,Sun May 15 2016,15:00,BST/+0100,Southampton FC,4-1,1-0,Crystal Palace,2016-05-15T14:00Z
+38,Sun May 15 2016,15:00,BST/+0100,Stoke City,2-1,0-1,West Ham United,2016-05-15T14:00Z
+38,Sun May 15 2016,15:00,BST/+0100,Swansea City,1-1,1-1,Manchester City,2016-05-15T14:00Z
+38,Sun May 15 2016,15:00,BST/+0100,Watford FC,2-2,0-1,Sunderland AFC,2016-05-15T14:00Z
+38,Sun May 15 2016,15:00,BST/+0100,West Bromwich Albion,1-1,1-1,Liverpool FC,2016-05-15T14:00Z
+38,Tue May 17 2016,20:00,BST/+0100,Manchester United,3-1,1-0,AFC Bournemouth,2016-05-17T19:00Z

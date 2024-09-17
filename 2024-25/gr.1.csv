@@ -20,13 +20,13 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 3,Sun Sep 1 2024,20:30,EEST/+0300,Atromitos,1-2,0-1,PAOK Saloniki,2024-09-01T17:30Z
 3,Sun Sep 1 2024,22:00,EEST/+0300,GS Kallithea,2-2,1-1,Panathinaikos,2024-09-01T19:00Z
 3,Sun Sep 1 2024,19:00,EEST/+0300,Levadiakos,0-3,0-1,AEK Athen,2024-09-01T16:00Z
-4,Sat Sep 14 2024,18:00,EEST/+0300,Lamia,,,GS Kallithea,2024-09-14T15:00Z
-4,Sat Sep 14 2024,20:00,EEST/+0300,Asteras Tripolis,,,Atromitos,2024-09-14T17:00Z
-4,Sun Sep 15 2024,18:30,EEST/+0300,Olympiakos Piraeus,,,Panetolikos,2024-09-15T15:30Z
-4,Sun Sep 15 2024,20:30,EEST/+0300,OFI Heraklion,,,Aris Saloniki,2024-09-15T17:30Z
-4,Sun Sep 15 2024,20:30,EEST/+0300,PAOK Saloniki,,,Panathinaikos,2024-09-15T17:30Z
-4,Sun Sep 15 2024,16:30,EEST/+0300,Panserraikos,,,Levadiakos,2024-09-15T13:30Z
-4,Mon Sep 16 2024,20:00,EEST/+0300,AEK Athen,,,Volos NFC,2024-09-16T17:00Z
+4,Sat Sep 14 2024,18:00,EEST/+0300,Lamia,0-0,0-0,GS Kallithea,2024-09-14T15:00Z
+4,Sat Sep 14 2024,20:00,EEST/+0300,Asteras Tripolis,1-2,1-2,Atromitos,2024-09-14T17:00Z
+4,Sun Sep 15 2024,18:30,EEST/+0300,Olympiakos Piraeus,0-0,0-0,Panetolikos,2024-09-15T15:30Z
+4,Sun Sep 15 2024,20:30,EEST/+0300,OFI Heraklion,3-2,1-0,Aris Saloniki,2024-09-15T17:30Z
+4,Sun Sep 15 2024,20:30,EEST/+0300,PAOK Saloniki,0-0,0-0,Panathinaikos,2024-09-15T17:30Z
+4,Sun Sep 15 2024,16:30,EEST/+0300,Panserraikos,2-2,2-0,Levadiakos,2024-09-15T13:30Z
+4,Mon Sep 16 2024,20:00,EEST/+0300,AEK Athen,2-0,1-0,Volos NFC,2024-09-16T17:00Z
 5,Sat Sep 21 2024,20:00,EEST/+0300,Aris Saloniki,,,Olympiakos Piraeus,2024-09-21T17:00Z
 5,Sat Sep 21 2024,20:30,EEST/+0300,Panetolikos,,,Asteras Tripolis,2024-09-21T17:30Z
 5,Sat Sep 21 2024,17:00,EEST/+0300,Volos NFC,,,PAOK Saloniki,2024-09-21T14:00Z

@@ -1,553 +1,553 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Sat Sep 12 2020,15:00,Barrow AFC,1-1,1-0,Stevenage FC
-1,Sat Sep 12 2020,15:00,Bolton Wanderers,0-1,0-0,Forest Green Rovers
-1,Sat Sep 12 2020,15:00,Bradford City,0-0,0-0,Colchester United
-1,Sat Sep 12 2020,15:00,Cambridge United,3-0,2-0,Carlisle United
-1,Sat Sep 12 2020,15:00,Cheltenham Town,1-2,1-0,Morecambe FC
-1,Sat Sep 12 2020,15:00,Walsall FC,1-0,0-0,Grimsby Town
-1,Sat Sep 12 2020,15:00,Mansfield Town,0-0,0-0,Tranmere Rovers
-1,Sat Sep 12 2020,15:00,Oldham Athletic,0-1,0-0,Leyton Orient
-1,Sat Sep 12 2020,15:00,Port Vale FC,2-0,1-0,Crawley Town
-1,Sat Sep 12 2020,15:00,Salford City,2-2,1-2,Exeter City
-1,Sat Sep 12 2020,15:00,Scunthorpe United,1-1,0-1,Newport County
-1,Sat Sep 12 2020,15:00,Southend United,0-4,0-2,Harrogate Town
-2,Sat Sep 19 2020,13:00,Carlisle United,2-0,2-0,Southend United
-2,Sat Sep 19 2020,15:00,Colchester United,2-0,1-0,Bolton Wanderers
-2,Sat Sep 19 2020,15:00,Crawley Town,1-0,1-0,Scunthorpe United
-2,Sat Sep 19 2020,15:00,Exeter City,0-2,0-1,Port Vale FC
-2,Sat Sep 19 2020,15:00,Morecambe FC,0-5,0-3,Cambridge United
-2,Sat Sep 19 2020,15:00,Stevenage FC,3-0,0-0,Oldham Athletic
-2,Sat Sep 19 2020,15:00,Forest Green Rovers,2-2,0-0,Bradford City
-2,Sat Sep 19 2020,15:00,Grimsby Town,0-4,0-1,Salford City
-2,Sat Sep 19 2020,15:00,Harrogate Town,2-2,2-1,Walsall FC
-2,Sat Sep 19 2020,15:00,Leyton Orient,2-2,0-0,Mansfield Town
-2,Sat Sep 19 2020,15:00,Newport County,2-1,1-1,Barrow AFC
-2,Sat Sep 19 2020,15:00,Tranmere Rovers,0-3,0-3,Cheltenham Town
-3,Sat Sep 26 2020,15:00,Barrow AFC,1-1,0-1,Colchester United
-3,Sat Sep 26 2020,15:00,Bolton Wanderers,0-2,0-0,Newport County
-3,Sat Sep 26 2020,15:00,Bradford City,2-1,0-1,Stevenage FC
-3,Sat Sep 26 2020,15:00,Cambridge United,0-0,0-0,Tranmere Rovers
-3,Sat Sep 26 2020,15:00,Mansfield Town,1-2,1-1,Exeter City
-3,Sat Sep 26 2020,15:00,Oldham Athletic,2-3,1-2,Crawley Town
-3,Sat Sep 26 2020,15:00,Port Vale FC,0-0,0-0,Harrogate Town
-3,Sat Sep 26 2020,15:00,Salford City,0-0,0-0,Forest Green Rovers
-3,Sat Sep 26 2020,15:00,Scunthorpe United,1-0,1-0,Carlisle United
-3,Sat Sep 26 2020,15:00,Southend United,1-2,1-0,Morecambe FC
-4,Sat Oct 3 2020,15:00,Tranmere Rovers,2-0,1-0,Scunthorpe United
-4,Sat Oct 3 2020,15:00,Leyton Orient,0-2,0-2,Cheltenham Town
-4,Sat Oct 3 2020,15:00,Carlisle United,1-0,1-0,Barrow AFC
-4,Sat Oct 3 2020,15:00,Colchester United,3-3,2-0,Oldham Athletic
-4,Sat Oct 3 2020,15:00,Crawley Town,1-1,1-0,Southend United
-4,Sat Oct 3 2020,15:00,Exeter City,2-0,2-0,Cambridge United
-4,Sat Oct 3 2020,15:00,Morecambe FC,1-0,0-0,Port Vale FC
-4,Sat Oct 3 2020,15:00,Stevenage FC,0-1,0-1,Salford City
-4,Sat Oct 3 2020,15:00,Forest Green Rovers,1-1,0-1,Walsall FC
-4,Sat Oct 3 2020,15:00,Harrogate Town,1-2,0-1,Bolton Wanderers
-4,Sat Oct 3 2020,15:00,Newport County,2-1,0-0,Mansfield Town
-5,Sat Oct 10 2020,15:00,Scunthorpe United,1-4,1-2,Forest Green Rovers
-5,Sat Oct 10 2020,15:00,Southend United,2-2,1-1,Exeter City
-5,Sat Oct 10 2020,15:00,Salford City,2-2,2-0,Tranmere Rovers
-5,Sat Oct 10 2020,15:00,Barrow AFC,1-1,1-0,Leyton Orient
-5,Sat Oct 10 2020,15:00,Bolton Wanderers,0-0,0-0,Grimsby Town
-5,Sat Oct 10 2020,15:00,Cambridge United,2-1,1-0,Newport County
-5,Sat Oct 10 2020,15:00,Cheltenham Town,2-0,1-0,Crawley Town
-5,Sat Oct 10 2020,15:00,Walsall FC,1-1,0-1,Colchester United
-5,Sat Oct 10 2020,15:00,Mansfield Town,0-0,0-0,Stevenage FC
-5,Sat Oct 10 2020,15:00,Oldham Athletic,2-3,0-1,Morecambe FC
-5,Sat Oct 10 2020,15:00,Port Vale FC,0-1,0-0,Carlisle United
-5,Mon Oct 12 2020,19:45,Bradford City,0-1,0-0,Harrogate Town
-3,Tue Oct 13 2020,19:00,Walsall FC,2-1,1-1,Leyton Orient
-3,Tue Oct 13 2020,19:00,Cheltenham Town,1-3,1-2,Grimsby Town
-6,Sat Oct 17 2020,17:30,Leyton Orient,2-3,1-2,Grimsby Town
-6,Sat Oct 17 2020,15:00,Bolton Wanderers,1-2,1-1,Oldham Athletic
-6,Sat Oct 17 2020,15:00,Carlisle United,3-2,2-1,Colchester United
-6,Sat Oct 17 2020,15:00,Crawley Town,4-0,0-0,Morecambe FC
-6,Sat Oct 17 2020,15:00,Walsall FC,0-0,0-0,Exeter City
-6,Sat Oct 17 2020,15:00,Forest Green Rovers,1-0,1-0,Stevenage FC
-6,Sat Oct 17 2020,15:00,Harrogate Town,1-0,1-0,Barrow AFC
-6,Sat Oct 17 2020,15:00,Mansfield Town,1-3,0-2,Bradford City
-6,Sat Oct 17 2020,15:00,Newport County,1-0,1-0,Tranmere Rovers
-6,Sat Oct 17 2020,15:00,Port Vale FC,1-0,0-0,Salford City
-6,Sat Oct 17 2020,15:00,Scunthorpe United,0-5,0-2,Cambridge United
-6,Sat Oct 17 2020,15:00,Southend United,0-2,0-1,Cheltenham Town
-7,Tue Oct 20 2020,19:45,Salford City,3-0,1-0,Southend United
-7,Tue Oct 20 2020,18:00,Cheltenham Town,1-0,1-0,Scunthorpe United
-7,Tue Oct 20 2020,18:30,Morecambe FC,1-1,1-1,Mansfield Town
-7,Tue Oct 20 2020,19:00,Barrow AFC,3-3,3-2,Bolton Wanderers
-7,Tue Oct 20 2020,19:00,Cambridge United,3-1,1-1,Port Vale FC
-7,Tue Oct 20 2020,19:00,Colchester United,1-0,1-0,Forest Green Rovers
-7,Tue Oct 20 2020,19:00,Exeter City,2-1,0-1,Crawley Town
-7,Tue Oct 20 2020,19:00,Stevenage FC,0-1,0-1,Newport County
-7,Tue Oct 20 2020,19:00,Oldham Athletic,1-1,0-0,Carlisle United
-7,Tue Oct 20 2020,19:00,Tranmere Rovers,0-1,0-0,Leyton Orient
-7,Tue Oct 20 2020,19:45,Bradford City,1-1,0-1,Walsall FC
-7,Tue Oct 20 2020,19:45,Grimsby Town,1-2,1-2,Harrogate Town
-8,Sat Oct 24 2020,15:00,Tranmere Rovers,2-0,1-0,Southend United
-8,Sat Oct 24 2020,13:00,Exeter City,3-1,2-0,Scunthorpe United
-8,Sat Oct 24 2020,15:00,Barrow AFC,2-2,1-1,Walsall FC
-8,Sat Oct 24 2020,15:00,Bradford City,0-3,0-2,Newport County
-8,Sat Oct 24 2020,15:00,Cambridge United,1-1,0-0,Bolton Wanderers
-8,Sat Oct 24 2020,15:00,Cheltenham Town,0-0,0-0,Mansfield Town
-8,Sat Oct 24 2020,15:00,Colchester United,2-1,0-0,Harrogate Town
-8,Sat Oct 24 2020,15:00,Morecambe FC,1-2,1-0,Forest Green Rovers
-8,Sat Oct 24 2020,15:00,Stevenage FC,0-2,0-0,Leyton Orient
-8,Sat Oct 24 2020,15:00,Grimsby Town,1-1,1-0,Carlisle United
-8,Sat Oct 24 2020,15:00,Oldham Athletic,1-2,0-2,Port Vale FC
-8,Sat Oct 24 2020,15:00,Salford City,1-1,0-0,Crawley Town
-9,Tue Oct 27 2020,19:00,Mansfield Town,2-4,1-2,Barrow AFC
-9,Tue Oct 27 2020,18:30,Crawley Town,4-0,3-0,Tranmere Rovers
-9,Tue Oct 27 2020,19:00,Carlisle United,3-1,2-0,Morecambe FC
-9,Tue Oct 27 2020,19:00,Walsall FC,0-2,0-1,Cambridge United
-9,Tue Oct 27 2020,19:00,Forest Green Rovers,1-0,1-0,Grimsby Town
-9,Tue Oct 27 2020,19:00,Harrogate Town,0-0,0-0,Stevenage FC
-9,Tue Oct 27 2020,19:00,Leyton Orient,1-1,1-0,Exeter City
-9,Tue Oct 27 2020,19:00,Bolton Wanderers,1-0,1-0,Bradford City
-9,Tue Oct 27 2020,19:00,Newport County,2-1,0-0,Colchester United
-9,Tue Oct 27 2020,19:00,Port Vale FC,2-1,0-0,Cheltenham Town
-9,Tue Oct 27 2020,19:00,Southend United,1-2,0-0,Oldham Athletic
-10,Sat Oct 31 2020,15:00,Southend United,0-2,0-0,Port Vale FC
-10,Sat Oct 31 2020,15:00,Salford City,2-0,1-0,Oldham Athletic
-10,Sat Oct 31 2020,13:00,Exeter City,1-0,0-0,Carlisle United
-10,Sat Oct 31 2020,15:00,Barrow AFC,1-0,1-0,Bradford City
-10,Sat Oct 31 2020,15:00,Cheltenham Town,2-1,1-0,Forest Green Rovers
-10,Sat Oct 31 2020,15:00,Crawley Town,2-1,1-1,Cambridge United
-10,Sat Oct 31 2020,15:00,Stevenage FC,0-0,0-0,Grimsby Town
-10,Sat Oct 31 2020,15:00,Leyton Orient,4-0,3-0,Bolton Wanderers
-10,Sat Oct 31 2020,15:00,Mansfield Town,1-1,1-0,Walsall FC
-10,Sat Oct 31 2020,15:00,Newport County,2-1,1-1,Harrogate Town
-10,Sat Oct 31 2020,15:00,Tranmere Rovers,0-1,0-0,Morecambe FC
-11,Tue Nov 3 2020,19:00,Grimsby Town,1-0,0-0,Barrow AFC
-11,Tue Nov 3 2020,19:00,Bolton Wanderers,1-1,0-0,Mansfield Town
-11,Tue Nov 3 2020,19:00,Harrogate Town,0-1,0-0,Tranmere Rovers
-11,Tue Nov 3 2020,18:00,Oldham Athletic,2-1,1-1,Cheltenham Town
-11,Tue Nov 3 2020,18:30,Morecambe FC,2-2,2-1,Exeter City
-11,Tue Nov 3 2020,19:00,Bradford City,3-0,3-0,Southend United
-11,Tue Nov 3 2020,19:00,Cambridge United,2-1,1-1,Salford City
-11,Tue Nov 3 2020,19:00,Carlisle United,3-2,1-0,Newport County
-11,Tue Nov 3 2020,19:00,Colchester United,3-1,1-1,Stevenage FC
-11,Tue Nov 3 2020,19:00,Walsall FC,1-0,0-0,Crawley Town
-11,Tue Nov 3 2020,19:00,Forest Green Rovers,2-1,1-1,Leyton Orient
-12,Fri Nov 13 2020,19:45,Bolton Wanderers,2-0,1-0,Salford City
-12,Sat Nov 14 2020,15:00,Oldham Athletic,0-2,0-0,Scunthorpe United
-12,Sat Nov 14 2020,15:00,Forest Green Rovers,1-2,0-2,Mansfield Town
-12,Sat Nov 14 2020,15:00,Port Vale FC,3-4,2-0,Tranmere Rovers
-12,Sat Nov 14 2020,15:00,Harrogate Town,1-1,0-1,Crawley Town
-12,Sat Nov 14 2020,15:00,Bradford City,2-2,2-2,Exeter City
-12,Sat Nov 14 2020,15:00,Cambridge United,1-1,0-0,Barrow AFC
-12,Sat Nov 14 2020,15:00,Carlisle United,1-2,1-2,Cheltenham Town
-12,Sat Nov 14 2020,15:00,Colchester United,2-1,1-0,Leyton Orient
-12,Sat Nov 14 2020,15:00,Morecambe FC,1-1,0-1,Stevenage FC
-12,Sat Nov 14 2020,15:00,Walsall FC,0-1,0-0,Southend United
-11,Tue Nov 17 2020,19:00,Port Vale FC,0-1,0-1,Scunthorpe United
-13,Fri Nov 20 2020,19:00,Mansfield Town,1-1,0-0,Colchester United
-13,Sat Nov 21 2020,15:00,Newport County,1-0,0-0,Port Vale FC
-13,Sat Nov 21 2020,15:00,Leyton Orient,3-0,2-0,Harrogate Town
-13,Sat Nov 21 2020,15:00,Salford City,3-0,3-0,Bradford City
-13,Sat Nov 21 2020,15:00,Scunthorpe United,1-1,0-0,Morecambe FC
-13,Sat Nov 21 2020,13:30,Crawley Town,0-3,0-1,Carlisle United
-13,Sat Nov 21 2020,15:00,Barrow AFC,2-2,0-0,Forest Green Rovers
-13,Sat Nov 21 2020,15:00,Cheltenham Town,3-0,0-0,Walsall FC
-13,Sat Nov 21 2020,15:00,Exeter City,1-2,1-2,Oldham Athletic
-13,Sat Nov 21 2020,15:00,Stevenage FC,1-2,1-2,Bolton Wanderers
-13,Sat Nov 21 2020,15:00,Tranmere Rovers,5-0,4-0,Grimsby Town
-14,Tue Nov 24 2020,19:00,Southend United,0-1,0-0,Forest Green Rovers
-14,Tue Nov 24 2020,19:00,Tranmere Rovers,1-0,0-0,Carlisle United
-14,Tue Nov 24 2020,19:00,Scunthorpe United,0-1,0-0,Bolton Wanderers
-14,Tue Nov 24 2020,19:00,Salford City,2-1,2-0,Morecambe FC
-14,Tue Nov 24 2020,19:00,Newport County,1-1,1-1,Walsall FC
-14,Tue Nov 24 2020,19:00,Barrow AFC,3-4,1-2,Oldham Athletic
-14,Tue Nov 24 2020,19:00,Cheltenham Town,1-1,1-0,Cambridge United
-14,Tue Nov 24 2020,19:00,Crawley Town,1-2,1-1,Grimsby Town
-14,Tue Nov 24 2020,19:00,Exeter City,6-1,1-0,Colchester United
-14,Tue Nov 24 2020,19:00,Stevenage FC,2-1,1-0,Port Vale FC
-14,Tue Nov 24 2020,19:00,Leyton Orient,1-0,0-0,Bradford City
-14,Tue Nov 24 2020,19:00,Mansfield Town,0-1,0-1,Harrogate Town
-15,Sat Nov 28 2020,15:00,Bolton Wanderers,3-0,1-0,Southend United
-15,Sat Nov 28 2020,13:00,Port Vale FC,2-3,1-2,Leyton Orient
-15,Tue Dec 1 2020,19:00,Harrogate Town,2-5,1-2,Scunthorpe United
-15,Tue Dec 1 2020,19:00,Grimsby Town,1-4,1-3,Exeter City
-15,Tue Dec 1 2020,19:00,Bradford City,1-2,1-1,Cheltenham Town
-15,Tue Dec 1 2020,19:00,Oldham Athletic,0-1,0-1,Tranmere Rovers
-15,Tue Dec 1 2020,19:00,Colchester United,1-1,1-1,Crawley Town
-15,Tue Dec 1 2020,18:30,Morecambe FC,1-0,1-0,Barrow AFC
-15,Tue Dec 1 2020,19:00,Forest Green Rovers,1-1,0-1,Newport County
-15,Wed Dec 2 2020,19:00,Walsall FC,1-1,0-0,Stevenage FC
-15,Wed Dec 2 2020,19:00,Carlisle United,2-1,1-0,Salford City
-15,Wed Dec 2 2020,19:45,Cambridge United,0-1,0-0,Mansfield Town
-16,Sat Dec 5 2020,15:00,Newport County,2-1,1-1,Morecambe FC
-16,Sat Dec 5 2020,17:30,Colchester United,2-1,1-1,Grimsby Town
-16,Sat Dec 5 2020,15:00,Tranmere Rovers,1-3,1-1,Walsall FC
-16,Sat Dec 5 2020,15:00,Mansfield Town,3-3,1-0,Crawley Town
-16,Sat Dec 5 2020,15:00,Harrogate Town,0-1,0-0,Forest Green Rovers
-16,Sat Dec 5 2020,13:00,Scunthorpe United,2-0,1-0,Leyton Orient
-16,Sat Dec 5 2020,15:00,Barrow AFC,0-1,0-0,Salford City
-16,Sat Dec 5 2020,15:00,Bolton Wanderers,3-6,1-3,Port Vale FC
-16,Sat Dec 5 2020,15:00,Bradford City,0-1,0-0,Carlisle United
-16,Sat Dec 5 2020,15:00,Cambridge United,1-2,0-0,Oldham Athletic
-16,Sat Dec 5 2020,15:00,Cheltenham Town,5-3,3-1,Exeter City
-16,Sat Dec 5 2020,15:00,Stevenage FC,0-0,0-0,Southend United
-12,Tue Dec 8 2020,19:00,Grimsby Town,0-2,0-2,Newport County
-10,Tue Dec 8 2020,19:00,Scunthorpe United,0-1,0-1,Colchester United
-17,Sat Dec 12 2020,15:00,Salford City,0-0,0-0,Cheltenham Town
-17,Sat Dec 12 2020,15:00,Port Vale FC,1-1,0-0,Colchester United
-17,Sat Dec 12 2020,15:00,Southend United,1-0,0-0,Scunthorpe United
-17,Sat Dec 12 2020,15:00,Carlisle United,4-0,3-0,Stevenage FC
-17,Sat Dec 12 2020,15:00,Crawley Town,4-2,1-1,Barrow AFC
-17,Sat Dec 12 2020,15:00,Exeter City,5-0,3-0,Tranmere Rovers
-17,Sat Dec 12 2020,15:00,Morecambe FC,1-0,0-0,Harrogate Town
-17,Sat Dec 12 2020,15:00,Walsall FC,2-1,1-1,Bolton Wanderers
-17,Sat Dec 12 2020,15:00,Forest Green Rovers,2-0,0-0,Cambridge United
-17,Sat Dec 12 2020,15:00,Grimsby Town,1-1,0-0,Mansfield Town
-17,Sat Dec 12 2020,15:00,Leyton Orient,2-1,0-1,Newport County
-17,Sat Dec 12 2020,15:00,Oldham Athletic,3-1,2-0,Bradford City
-18,Tue Dec 15 2020,19:45,Southend United,3-1,1-1,Grimsby Town
-18,Tue Dec 15 2020,19:45,Crawley Town,1-1,1-1,Bradford City
-18,Tue Dec 15 2020,19:45,Cheltenham Town,0-1,0-0,Bolton Wanderers
-18,Tue Dec 15 2020,18:30,Morecambe FC,2-1,0-1,Leyton Orient
-18,Tue Dec 15 2020,19:00,Carlisle United,1-0,1-0,Mansfield Town
-18,Tue Dec 15 2020,19:00,Oldham Athletic,2-3,0-1,Walsall FC
-18,Tue Dec 15 2020,19:00,Port Vale FC,1-1,1-1,Forest Green Rovers
-18,Tue Dec 15 2020,19:00,Salford City,1-1,1-0,Newport County
-18,Tue Dec 15 2020,19:00,Scunthorpe United,2-1,1-1,Barrow AFC
-18,Tue Dec 15 2020,19:45,Cambridge United,2-1,0-0,Colchester United
-18,Tue Dec 15 2020,19:45,Exeter City,1-2,0-1,Harrogate Town
-19,Sat Dec 19 2020,15:00,Mansfield Town,1-1,0-1,Southend United
-19,Sat Dec 19 2020,15:00,Harrogate Town,0-1,0-1,Salford City
-19,Sat Dec 19 2020,15:00,Leyton Orient,1-2,1-1,Crawley Town
-19,Sat Dec 19 2020,15:00,Grimsby Town,1-0,1-0,Scunthorpe United
-19,Sat Dec 19 2020,15:00,Barrow AFC,3-0,1-0,Cheltenham Town
-19,Sat Dec 19 2020,15:00,Bolton Wanderers,0-3,0-1,Tranmere Rovers
-19,Sat Dec 19 2020,15:00,Bradford City,1-0,1-0,Cambridge United
-19,Sat Dec 19 2020,15:00,Colchester United,1-2,1-1,Morecambe FC
-19,Sat Dec 19 2020,15:00,Walsall FC,4-3,0-2,Port Vale FC
-19,Sat Dec 19 2020,15:00,Forest Green Rovers,1-0,0-0,Carlisle United
-19,Sat Dec 19 2020,15:00,Newport County,2-4,2-1,Oldham Athletic
-4,Tue Dec 22 2020,19:00,Grimsby Town,1-2,0-2,Bradford City
-20,Sat Dec 26 2020,15:00,Cheltenham Town,1-1,1-0,Stevenage FC
-20,Sat Dec 26 2020,15:00,Tranmere Rovers,0-1,0-0,Bradford City
-20,Sat Dec 26 2020,15:00,Salford City,2-0,1-0,Walsall FC
-20,Sat Dec 26 2020,15:00,Port Vale FC,0-2,0-1,Barrow AFC
-20,Sat Dec 26 2020,13:00,Cambridge United,2-1,0-1,Leyton Orient
-20,Sat Dec 26 2020,13:00,Exeter City,1-1,1-1,Forest Green Rovers
-20,Sat Dec 26 2020,13:00,Scunthorpe United,2-3,1-2,Mansfield Town
-20,Sat Dec 26 2020,13:00,Southend United,2-0,2-0,Colchester United
-20,Sat Dec 26 2020,15:00,Carlisle United,3-3,3-1,Bolton Wanderers
-20,Sat Dec 26 2020,15:00,Oldham Athletic,1-2,1-1,Harrogate Town
-20,Sat Dec 26 2020,15:00,Crawley Town,1-1,1-1,Newport County
-20,Sat Dec 26 2020,15:00,Morecambe FC,3-1,0-1,Grimsby Town
-21,Tue Dec 29 2020,19:00,Walsall FC,1-2,0-1,Scunthorpe United
-21,Tue Dec 29 2020,19:45,Barrow AFC,1-1,0-1,Tranmere Rovers
-21,Tue Dec 29 2020,19:00,Leyton Orient,2-0,0-0,Southend United
-21,Tue Dec 29 2020,19:00,Grimsby Town,0-0,0-0,Oldham Athletic
-21,Tue Dec 29 2020,17:00,Stevenage FC,1-0,1-0,Cambridge United
-21,Tue Dec 29 2020,19:00,Bradford City,0-0,0-0,Port Vale FC
-21,Tue Dec 29 2020,19:45,Colchester United,0-0,0-0,Cheltenham Town
-21,Tue Dec 29 2020,19:00,Forest Green Rovers,1-2,0-1,Crawley Town
-22,Sat Jan 2 2021,15:00,Walsall FC,0-2,0-1,Carlisle United
-22,Sat Jan 2 2021,15:00,Mansfield Town,4-0,2-0,Port Vale FC
-22,Sat Jan 2 2021,15:00,Grimsby Town,1-2,0-2,Cambridge United
-22,Sat Jan 2 2021,15:00,Bolton Wanderers,0-1,0-0,Crawley Town
-22,Sat Jan 2 2021,15:00,Leyton Orient,1-0,1-0,Salford City
-22,Sat Jan 2 2021,15:00,Stevenage FC,3-1,2-1,Scunthorpe United
-21,Tue Jan 5 2021,19:00,Mansfield Town,2-1,2-0,Salford City
-23,Sat Jan 9 2021,15:00,Cambridge United,2-1,0-1,Harrogate Town
-23,Sat Jan 9 2021,15:00,Southend United,1-0,1-0,Barrow AFC
-23,Sat Jan 9 2021,15:00,Port Vale FC,3-0,2-0,Grimsby Town
-9,Tue Jan 12 2021,19:00,Scunthorpe United,0-1,0-0,Salford City
-23,Tue Jan 12 2021,19:00,Exeter City,1-1,0-0,Bolton Wanderers
-23,Wed Jan 13 2021,19:45,Oldham Athletic,2-3,1-2,Mansfield Town
-24,Sat Jan 16 2021,15:00,Walsall FC,1-1,1-0,Oldham Athletic
-24,Sat Jan 16 2021,15:00,Bolton Wanderers,1-1,0-0,Cheltenham Town
-24,Sat Jan 16 2021,15:00,Barrow AFC,1-0,0-0,Scunthorpe United
-24,Sat Jan 16 2021,15:00,Grimsby Town,0-0,0-0,Southend United
-24,Sat Jan 16 2021,15:00,Colchester United,1-1,1-1,Cambridge United
-24,Sat Jan 16 2021,15:00,Forest Green Rovers,1-1,1-0,Port Vale FC
-24,Sat Jan 16 2021,15:00,Leyton Orient,2-0,0-0,Morecambe FC
-24,Sat Jan 16 2021,15:00,Stevenage FC,0-0,0-0,Tranmere Rovers
-24,Sat Jan 16 2021,15:00,Newport County,0-0,0-0,Salford City
-13,Tue Jan 19 2021,19:00,Southend United,1-2,1-0,Cambridge United
-24,Tue Jan 19 2021,19:00,Harrogate Town,0-0,0-0,Exeter City
-23,Tue Jan 19 2021,19:00,Cheltenham Town,1-1,1-1,Newport County
-23,Tue Jan 19 2021,19:00,Morecambe FC,1-1,0-1,Walsall FC
-23,Tue Jan 19 2021,19:00,Tranmere Rovers,3-2,1-0,Forest Green Rovers
-25,Fri Jan 22 2021,19:00,Salford City,2-2,1-1,Harrogate Town
-25,Sat Jan 23 2021,13:00,Exeter City,3-1,1-0,Stevenage FC
-25,Sat Jan 23 2021,13:00,Scunthorpe United,3-0,2-0,Grimsby Town
-26,Sat Jan 23 2021,15:00,Leyton Orient,0-1,0-1,Forest Green Rovers
-25,Sat Jan 23 2021,15:00,Cambridge United,0-0,0-0,Bradford City
-25,Sat Jan 23 2021,15:00,Southend United,0-1,0-0,Mansfield Town
-25,Sat Jan 23 2021,15:00,Port Vale FC,1-3,1-1,Walsall FC
-25,Sat Jan 23 2021,15:00,Oldham Athletic,3-2,2-2,Newport County
-25,Sat Jan 23 2021,15:00,Morecambe FC,3-0,1-0,Colchester United
-25,Sat Jan 23 2021,15:00,Tranmere Rovers,2-1,1-0,Bolton Wanderers
-26,Tue Jan 26 2021,19:00,Cheltenham Town,2-0,0-0,Oldham Athletic
-26,Tue Jan 26 2021,19:00,Stevenage FC,0-0,0-0,Colchester United
-26,Tue Jan 26 2021,19:00,Scunthorpe United,2-0,2-0,Port Vale FC
-26,Tue Jan 26 2021,19:00,Southend United,1-3,1-1,Bradford City
-26,Tue Jan 26 2021,19:00,Tranmere Rovers,3-2,1-1,Harrogate Town
-26,Tue Jan 26 2021,18:00,Exeter City,0-2,0-1,Morecambe FC
-27,Fri Jan 29 2021,19:00,Colchester United,0-1,0-1,Scunthorpe United
-27,Sat Jan 30 2021,15:00,Bolton Wanderers,2-0,0-0,Leyton Orient
-27,Sat Jan 30 2021,15:00,Bradford City,2-1,1-1,Barrow AFC
-27,Sat Jan 30 2021,15:00,Cambridge United,3-1,2-1,Crawley Town
-27,Sat Jan 30 2021,15:00,Forest Green Rovers,0-0,0-0,Cheltenham Town
-27,Sat Jan 30 2021,15:00,Grimsby Town,1-2,0-1,Stevenage FC
-27,Sat Jan 30 2021,15:00,Harrogate Town,2-1,1-1,Newport County
-27,Sat Jan 30 2021,15:00,Oldham Athletic,2-1,0-1,Salford City
-27,Sat Jan 30 2021,15:00,Port Vale FC,5-1,4-0,Southend United
-27,Sat Jan 30 2021,15:00,Morecambe FC,0-1,0-0,Tranmere Rovers
-27,Sat Jan 30 2021,13:00,Carlisle United,1-0,1-0,Exeter City
-25,Tue Feb 2 2021,19:00,Crawley Town,0-0,0-0,Leyton Orient
-25,Tue Feb 2 2021,18:00,Carlisle United,1-2,0-0,Forest Green Rovers
-19,Tue Feb 2 2021,19:00,Stevenage FC,0-1,0-1,Exeter City
-28,Sat Feb 6 2021,15:00,Tranmere Rovers,3-1,2-1,Port Vale FC
-28,Sat Feb 6 2021,15:00,Crawley Town,1-3,0-3,Harrogate Town
-28,Sat Feb 6 2021,15:00,Stevenage FC,2-2,1-2,Morecambe FC
-28,Sat Feb 6 2021,15:00,Leyton Orient,0-0,0-0,Colchester United
-28,Sat Feb 6 2021,15:00,Newport County,1-0,0-0,Grimsby Town
-28,Sat Feb 6 2021,15:00,Barrow AFC,0-2,0-1,Cambridge United
-28,Sat Feb 6 2021,13:00,Exeter City,3-2,1-2,Bradford City
-18,Tue Feb 9 2021,19:00,Tranmere Rovers,0-1,0-0,Stevenage FC
-22,Tue Feb 9 2021,19:00,Newport County,0-1,0-0,Southend United
-22,Tue Feb 9 2021,18:00,Harrogate Town,0-1,0-1,Cheltenham Town
-21,Tue Feb 9 2021,19:00,Bolton Wanderers,1-1,1-0,Morecambe FC
-26,Tue Feb 9 2021,17:30,Salford City,4-1,3-0,Cambridge United
-27,Tue Feb 9 2021,18:45,Walsall FC,1-1,1-1,Mansfield Town
-29,Sat Feb 13 2021,15:00,Cambridge United,0-0,0-0,Southend United
-29,Sat Feb 13 2021,15:00,Bolton Wanderers,1-0,1-0,Stevenage FC
-29,Sun Feb 14 2021,15:00,Colchester United,2-2,1-1,Mansfield Town
-21,Tue Feb 16 2021,19:00,Harrogate Town,1-0,1-0,Carlisle United
-21,Tue Feb 16 2021,19:00,Newport County,1-1,0-1,Exeter City
-36,Tue Feb 16 2021,19:00,Salford City,1-0,1-0,Barrow AFC
-23,Tue Feb 16 2021,19:00,Crawley Town,0-1,0-0,Stevenage FC
-22,Tue Feb 16 2021,19:00,Forest Green Rovers,4-3,2-1,Oldham Athletic
-22,Tue Feb 16 2021,19:00,Bradford City,2-1,1-1,Morecambe FC
-29,Tue Feb 16 2021,19:00,Walsall FC,1-2,1-2,Cheltenham Town
-26,Wed Feb 17 2021,17:00,Mansfield Town,2-3,0-0,Bolton Wanderers
-30,Sat Feb 20 2021,15:00,Stevenage FC,1-1,0-1,Walsall FC
-30,Sat Feb 20 2021,15:00,Crawley Town,1-0,0-0,Colchester United
-30,Sat Feb 20 2021,15:00,Mansfield Town,0-3,0-0,Cambridge United
-30,Sat Feb 20 2021,15:00,Salford City,1-1,0-1,Carlisle United
-30,Sat Feb 20 2021,15:00,Scunthorpe United,3-1,2-1,Harrogate Town
-30,Sat Feb 20 2021,15:00,Cheltenham Town,0-2,0-1,Bradford City
-30,Sat Feb 20 2021,15:00,Barrow AFC,1-2,0-1,Morecambe FC
-30,Sat Feb 20 2021,15:00,Leyton Orient,1-1,0-0,Port Vale FC
-30,Sat Feb 20 2021,15:00,Tranmere Rovers,2-2,1-1,Oldham Athletic
-30,Sat Feb 20 2021,15:00,Southend United,0-1,0-0,Bolton Wanderers
-30,Sun Feb 21 2021,13:00,Newport County,0-2,0-1,Forest Green Rovers
-31,Tue Feb 23 2021,19:00,Cambridge United,0-1,0-0,Cheltenham Town
-31,Tue Feb 23 2021,18:30,Morecambe FC,2-1,0-1,Salford City
-31,Tue Feb 23 2021,19:00,Bradford City,1-0,0-0,Leyton Orient
-31,Tue Feb 23 2021,19:00,Bolton Wanderers,2-0,1-0,Scunthorpe United
-31,Tue Feb 23 2021,19:00,Port Vale FC,0-0,0-0,Stevenage FC
-31,Tue Feb 23 2021,19:00,Oldham Athletic,0-1,0-0,Barrow AFC
-31,Tue Feb 23 2021,19:00,Harrogate Town,1-0,0-0,Mansfield Town
-31,Tue Feb 23 2021,19:00,Grimsby Town,2-1,1-1,Crawley Town
-31,Tue Feb 23 2021,19:00,Colchester United,1-2,0-1,Exeter City
-31,Tue Feb 23 2021,19:00,Carlisle United,2-3,2-2,Tranmere Rovers
-31,Wed Feb 24 2021,18:00,Forest Green Rovers,1-3,0-1,Southend United
-31,Wed Feb 24 2021,17:30,Walsall FC,0-1,0-0,Newport County
-32,Sat Feb 27 2021,15:00,Bolton Wanderers,1-0,0-0,Barrow AFC
-32,Sat Feb 27 2021,15:00,Harrogate Town,1-0,0-0,Grimsby Town
-32,Sat Feb 27 2021,17:30,Forest Green Rovers,3-0,2-0,Colchester United
-32,Sat Feb 27 2021,15:00,Southend United,0-0,0-0,Salford City
-32,Sat Feb 27 2021,15:00,Scunthorpe United,0-2,0-2,Cheltenham Town
-32,Sat Feb 27 2021,13:00,Crawley Town,2-0,0-0,Exeter City
-32,Sat Feb 27 2021,15:00,Newport County,0-0,0-0,Stevenage FC
-32,Sat Feb 27 2021,15:00,Mansfield Town,1-0,1-0,Morecambe FC
-32,Sat Feb 27 2021,15:00,Carlisle United,1-3,1-0,Oldham Athletic
-32,Sat Feb 27 2021,15:00,Walsall FC,1-2,0-1,Bradford City
-32,Sat Feb 27 2021,15:00,Leyton Orient,1-3,0-1,Tranmere Rovers
-32,Sat Feb 27 2021,15:00,Port Vale FC,0-1,0-0,Cambridge United
-33,Tue Mar 2 2021,19:00,Tranmere Rovers,1-0,1-0,Newport County
-33,Tue Mar 2 2021,19:00,Oldham Athletic,0-2,0-2,Bolton Wanderers
-33,Tue Mar 2 2021,19:00,Grimsby Town,0-1,0-1,Leyton Orient
-33,Tue Mar 2 2021,19:00,Stevenage FC,3-0,2-0,Forest Green Rovers
-33,Tue Mar 2 2021,19:00,Exeter City,0-0,0-0,Walsall FC
-33,Tue Mar 2 2021,19:00,Colchester United,2-1,0-1,Carlisle United
-33,Tue Mar 2 2021,19:00,Cheltenham Town,1-0,0-0,Southend United
-33,Tue Mar 2 2021,19:00,Cambridge United,0-1,0-0,Scunthorpe United
-33,Tue Mar 2 2021,19:00,Bradford City,1-0,1-0,Mansfield Town
-33,Tue Mar 2 2021,19:00,Barrow AFC,0-1,0-0,Harrogate Town
-33,Tue Mar 2 2021,18:30,Morecambe FC,3-1,1-1,Crawley Town
-33,Tue Mar 2 2021,19:00,Salford City,1-0,1-0,Port Vale FC
-34,Sat Mar 6 2021,15:00,Tranmere Rovers,0-1,0-0,Crawley Town
-34,Sat Mar 6 2021,15:00,Barrow AFC,2-0,0-0,Mansfield Town
-34,Sat Mar 6 2021,15:00,Bradford City,1-1,0-0,Bolton Wanderers
-34,Sat Mar 6 2021,15:00,Cambridge United,1-0,0-0,Walsall FC
-34,Sat Mar 6 2021,15:00,Cheltenham Town,3-2,2-0,Port Vale FC
-34,Sat Mar 6 2021,15:00,Salford City,1-1,1-1,Scunthorpe United
-34,Sat Mar 6 2021,15:00,Colchester United,0-2,0-1,Newport County
-34,Sat Mar 6 2021,15:00,Morecambe FC,3-1,2-0,Carlisle United
-34,Sat Mar 6 2021,15:00,Stevenage FC,1-0,0-0,Harrogate Town
-34,Sat Mar 6 2021,15:00,Grimsby Town,1-2,1-1,Forest Green Rovers
-34,Sat Mar 6 2021,15:00,Oldham Athletic,0-0,0-0,Southend United
-34,Sat Mar 6 2021,13:00,Exeter City,4-0,3-0,Leyton Orient
-35,Tue Mar 9 2021,19:00,Southend United,0-2,0-2,Tranmere Rovers
-35,Tue Mar 9 2021,19:00,Scunthorpe United,0-2,0-1,Exeter City
-35,Tue Mar 9 2021,19:00,Port Vale FC,0-0,0-0,Oldham Athletic
-35,Tue Mar 9 2021,19:00,Newport County,2-1,0-0,Bradford City
-35,Tue Mar 9 2021,19:00,Mansfield Town,3-1,0-0,Cheltenham Town
-35,Tue Mar 9 2021,19:00,Crawley Town,1-0,1-0,Salford City
-35,Tue Mar 9 2021,19:00,Harrogate Town,3-0,2-0,Colchester United
-35,Tue Mar 9 2021,19:00,Forest Green Rovers,2-2,1-1,Morecambe FC
-35,Tue Mar 9 2021,19:00,Carlisle United,1-1,0-1,Grimsby Town
-35,Tue Mar 9 2021,19:00,Bolton Wanderers,2-1,2-0,Cambridge United
-35,Tue Mar 9 2021,19:00,Leyton Orient,0-0,0-0,Stevenage FC
-35,Fri Mar 12 2021,19:00,Walsall FC,0-1,0-0,Barrow AFC
-36,Sat Mar 13 2021,15:00,Carlisle United,3-1,2-0,Bradford City
-36,Sat Mar 13 2021,13:00,Leyton Orient,1-1,1-1,Scunthorpe United
-36,Sat Mar 13 2021,15:00,Morecambe FC,1-3,1-2,Newport County
-36,Sat Mar 13 2021,15:00,Crawley Town,1-0,0-0,Mansfield Town
-36,Sat Mar 13 2021,17:30,Grimsby Town,0-0,0-0,Colchester United
-36,Sat Mar 13 2021,15:00,Forest Green Rovers,2-1,1-0,Harrogate Town
-36,Sat Mar 13 2021,15:00,Oldham Athletic,2-4,2-3,Cambridge United
-36,Sat Mar 13 2021,15:00,Port Vale FC,0-1,0-0,Bolton Wanderers
-36,Sat Mar 13 2021,15:00,Southend United,0-0,0-0,Stevenage FC
-36,Sat Mar 13 2021,15:00,Exeter City,0-1,0-0,Cheltenham Town
-24,Tue Mar 16 2021,19:30,Mansfield Town,1-1,0-0,Carlisle United
-29,Tue Mar 16 2021,19:00,Port Vale FC,2-1,1-0,Newport County
-28,Tue Mar 16 2021,19:00,Scunthorpe United,1-1,0-0,Oldham Athletic
-25,Tue Mar 16 2021,19:00,Cheltenham Town,0-2,0-1,Barrow AFC
-26,Tue Mar 16 2021,19:00,Crawley Town,1-1,0-0,Walsall FC
-23,Tue Mar 16 2021,19:00,Salford City,0-0,0-0,Colchester United
-29,Wed Mar 17 2021,19:00,Grimsby Town,0-0,0-0,Tranmere Rovers
-37,Sat Mar 20 2021,13:00,Newport County,0-1,0-0,Leyton Orient
-37,Sat Mar 20 2021,15:00,Barrow AFC,3-2,2-1,Crawley Town
-37,Sat Mar 20 2021,13:00,Stevenage FC,3-1,1-0,Carlisle United
-37,Sat Mar 20 2021,15:00,Cambridge United,1-0,1-0,Forest Green Rovers
-37,Sat Mar 20 2021,15:00,Bolton Wanderers,2-1,0-1,Walsall FC
-37,Sat Mar 20 2021,15:00,Bradford City,0-0,0-0,Oldham Athletic
-37,Sat Mar 20 2021,15:00,Cheltenham Town,2-0,2-0,Salford City
-37,Sat Mar 20 2021,15:00,Colchester United,0-1,0-1,Port Vale FC
-37,Sat Mar 20 2021,15:00,Harrogate Town,0-1,0-1,Morecambe FC
-37,Sat Mar 20 2021,15:00,Scunthorpe United,1-1,0-0,Southend United
-37,Sat Mar 20 2021,15:00,Tranmere Rovers,2-1,1-1,Exeter City
-37,Sat Mar 20 2021,15:00,Mansfield Town,2-2,1-0,Grimsby Town
-22,Tue Mar 23 2021,19:00,Colchester United,2-2,1-0,Tranmere Rovers
-23,Tue Mar 23 2021,18:30,Carlisle United,0-1,0-0,Leyton Orient
-23,Tue Mar 23 2021,19:00,Scunthorpe United,2-0,1-0,Bradford City
-28,Tue Mar 23 2021,19:00,Southend United,0-0,0-0,Walsall FC
-26,Tue Mar 23 2021,19:00,Barrow AFC,0-1,0-0,Grimsby Town
-28,Tue Mar 23 2021,18:00,Mansfield Town,0-0,0-0,Forest Green Rovers
-29,Tue Mar 23 2021,19:00,Oldham Athletic,2-1,1-0,Exeter City
-38,Sat Mar 27 2021,15:00,Leyton Orient,2-1,2-0,Oldham Athletic
-38,Sat Mar 27 2021,15:00,Tranmere Rovers,1-1,1-0,Mansfield Town
-38,Sat Mar 27 2021,15:00,Stevenage FC,2-1,0-0,Barrow AFC
-38,Sat Mar 27 2021,15:00,Morecambe FC,1-0,1-0,Cheltenham Town
-38,Sat Mar 27 2021,15:00,Harrogate Town,0-1,0-0,Southend United
-38,Sat Mar 27 2021,15:00,Grimsby Town,1-1,1-1,Walsall FC
-38,Sat Mar 27 2021,15:00,Crawley Town,1-3,1-1,Port Vale FC
-38,Sat Mar 27 2021,15:00,Colchester United,1-2,1-1,Bradford City
-38,Sat Mar 27 2021,15:00,Carlisle United,1-2,0-1,Cambridge United
-38,Sat Mar 27 2021,13:00,Exeter City,1-0,1-0,Salford City
-38,Sat Mar 27 2021,12:00,Forest Green Rovers,0-1,0-1,Bolton Wanderers
-29,Tue Mar 30 2021,19:00,Carlisle United,2-0,2-0,Crawley Town
-39,Fri Apr 2 2021,15:00,Port Vale FC,1-0,1-0,Exeter City
-39,Fri Apr 2 2021,15:00,Oldham Athletic,0-1,0-1,Stevenage FC
-39,Fri Apr 2 2021,15:00,Mansfield Town,0-2,0-1,Leyton Orient
-39,Fri Apr 2 2021,15:00,Salford City,1-1,0-1,Grimsby Town
-39,Fri Apr 2 2021,15:00,Cheltenham Town,4-0,3-0,Tranmere Rovers
-39,Fri Apr 2 2021,15:00,Walsall FC,0-0,0-0,Harrogate Town
-39,Fri Apr 2 2021,15:00,Cambridge United,2-1,1-0,Morecambe FC
-39,Fri Apr 2 2021,15:00,Bradford City,4-1,1-0,Forest Green Rovers
-39,Fri Apr 2 2021,15:00,Barrow AFC,2-1,0-1,Newport County
-39,Fri Apr 2 2021,13:00,Scunthorpe United,0-0,0-0,Crawley Town
-39,Fri Apr 2 2021,13:00,Bolton Wanderers,0-0,0-0,Colchester United
-39,Sat Apr 3 2021,13:00,Southend United,0-2,0-1,Carlisle United
-40,Mon Apr 5 2021,15:00,Crawley Town,1-4,0-2,Oldham Athletic
-40,Mon Apr 5 2021,15:00,Exeter City,0-0,0-0,Mansfield Town
-40,Mon Apr 5 2021,15:00,Tranmere Rovers,1-1,1-0,Cambridge United
-40,Mon Apr 5 2021,15:00,Stevenage FC,1-1,1-1,Bradford City
-40,Mon Apr 5 2021,15:00,Forest Green Rovers,0-2,0-1,Salford City
-40,Mon Apr 5 2021,15:00,Newport County,1-0,0-0,Bolton Wanderers
-40,Mon Apr 5 2021,15:00,Grimsby Town,1-1,1-1,Cheltenham Town
-40,Mon Apr 5 2021,15:00,Harrogate Town,0-2,0-0,Port Vale FC
-40,Mon Apr 5 2021,15:00,Leyton Orient,0-0,0-0,Walsall FC
-40,Mon Apr 5 2021,15:00,Colchester United,1-1,1-0,Barrow AFC
-40,Tue Apr 6 2021,18:30,Morecambe FC,1-1,0-1,Southend United
-40,Tue Apr 6 2021,18:30,Carlisle United,2-0,0-0,Scunthorpe United
-41,Fri Apr 9 2021,18:00,Mansfield Town,1-1,0-0,Newport County
-41,Fri Apr 9 2021,19:00,Oldham Athletic,5-2,2-0,Colchester United
-41,Sat Apr 10 2021,15:00,Walsall FC,2-1,1-0,Forest Green Rovers
-41,Sat Apr 10 2021,15:00,Barrow AFC,2-2,2-1,Carlisle United
-41,Sat Apr 10 2021,15:00,Bolton Wanderers,2-1,0-1,Harrogate Town
-41,Sat Apr 10 2021,15:00,Southend United,0-0,0-0,Crawley Town
-41,Sat Apr 10 2021,15:00,Bradford City,1-0,1-0,Grimsby Town
-41,Sat Apr 10 2021,15:00,Cambridge United,1-4,0-2,Exeter City
-41,Sat Apr 10 2021,15:00,Port Vale FC,1-0,1-0,Morecambe FC
-41,Sat Apr 10 2021,15:00,Scunthorpe United,0-0,0-0,Tranmere Rovers
-41,Sat Apr 10 2021,15:00,Salford City,2-1,0-0,Stevenage FC
-41,Sat Apr 10 2021,15:00,Cheltenham Town,1-0,1-0,Leyton Orient
-26,Tue Apr 13 2021,19:00,Newport County,0-0,0-0,Carlisle United
-22,Tue Apr 13 2021,19:00,Barrow AFC,2-1,1-0,Exeter City
-28,Tue Apr 13 2021,19:00,Salford City,0-1,0-1,Bolton Wanderers
-29,Tue Apr 13 2021,18:30,Morecambe FC,4-1,2-0,Scunthorpe United
-29,Tue Apr 13 2021,19:00,Harrogate Town,2-2,0-0,Leyton Orient
-24,Tue Apr 13 2021,19:00,Bradford City,0-2,0-1,Crawley Town
-36,Tue Apr 13 2021,19:00,Walsall FC,1-0,0-0,Tranmere Rovers
-42,Fri Apr 16 2021,18:30,Crawley Town,1-0,0-0,Cheltenham Town
-42,Sat Apr 17 2021,12:30,Leyton Orient,2-0,0-0,Barrow AFC
-42,Sat Apr 17 2021,12:30,Harrogate Town,2-1,1-0,Bradford City
-42,Sat Apr 17 2021,12:30,Grimsby Town,2-1,1-0,Bolton Wanderers
-42,Sat Apr 17 2021,12:30,Tranmere Rovers,0-0,0-0,Salford City
-42,Sat Apr 17 2021,12:30,Newport County,0-1,0-0,Cambridge United
-42,Sat Apr 17 2021,12:30,Carlisle United,0-0,0-0,Port Vale FC
-42,Sat Apr 17 2021,12:30,Exeter City,0-0,0-0,Southend United
-42,Sat Apr 17 2021,12:30,Morecambe FC,4-3,3-1,Oldham Athletic
-42,Sat Apr 17 2021,12:30,Stevenage FC,0-1,0-1,Mansfield Town
-42,Sat Apr 17 2021,12:30,Forest Green Rovers,3-2,1-1,Scunthorpe United
-42,Sat Apr 17 2021,17:30,Colchester United,2-1,2-1,Walsall FC
-43,Tue Apr 20 2021,19:00,Mansfield Town,3-0,1-0,Scunthorpe United
-43,Tue Apr 20 2021,19:00,Stevenage FC,0-1,0-1,Cheltenham Town
-43,Tue Apr 20 2021,19:00,Newport County,2-0,0-0,Crawley Town
-43,Tue Apr 20 2021,19:00,Leyton Orient,2-4,1-1,Cambridge United
-43,Tue Apr 20 2021,19:00,Harrogate Town,0-3,0-1,Oldham Athletic
-43,Tue Apr 20 2021,19:00,Barrow AFC,0-2,0-1,Port Vale FC
-43,Tue Apr 20 2021,19:00,Bradford City,0-1,0-1,Tranmere Rovers
-43,Tue Apr 20 2021,19:00,Colchester United,2-0,2-0,Southend United
-43,Tue Apr 20 2021,19:00,Grimsby Town,0-3,0-2,Morecambe FC
-43,Tue Apr 20 2021,19:00,Walsall FC,0-2,0-1,Salford City
-43,Tue Apr 20 2021,19:00,Forest Green Rovers,0-0,0-0,Exeter City
-43,Tue Apr 20 2021,19:00,Bolton Wanderers,1-0,1-0,Carlisle United
-44,Sat Apr 24 2021,15:00,Salford City,2-0,1-0,Mansfield Town
-44,Sat Apr 24 2021,15:00,Scunthorpe United,0-2,0-2,Walsall FC
-44,Sat Apr 24 2021,15:00,Southend United,2-1,1-1,Leyton Orient
-44,Sat Apr 24 2021,15:00,Port Vale FC,2-1,2-1,Bradford City
-44,Sat Apr 24 2021,15:00,Crawley Town,0-0,0-0,Forest Green Rovers
-44,Sat Apr 24 2021,15:00,Cambridge United,0-1,0-0,Stevenage FC
-44,Sat Apr 24 2021,15:00,Carlisle United,1-1,0-1,Harrogate Town
-44,Sat Apr 24 2021,15:00,Cheltenham Town,1-0,0-0,Colchester United
-44,Sat Apr 24 2021,15:00,Oldham Athletic,1-2,1-1,Grimsby Town
-44,Sat Apr 24 2021,15:00,Exeter City,0-0,0-0,Newport County
-44,Sat Apr 24 2021,15:00,Morecambe FC,0-1,0-1,Bolton Wanderers
-44,Sat Apr 24 2021,15:00,Tranmere Rovers,1-0,0-0,Barrow AFC
-29,Tue Apr 27 2021,19:00,Bradford City,0-1,0-0,Salford City
-29,Tue Apr 27 2021,19:00,Forest Green Rovers,0-2,0-2,Barrow AFC
-30,Tue Apr 27 2021,19:00,Exeter City,3-2,1-1,Grimsby Town
-28,Tue Apr 27 2021,19:00,Cheltenham Town,1-1,0-1,Carlisle United
-38,Tue Apr 27 2021,18:30,Newport County,4-0,3-0,Scunthorpe United
-45,Fri Apr 30 2021,19:00,Harrogate Town,5-4,4-2,Cambridge United
-45,Sat May 1 2021,15:00,Barrow AFC,1-2,1-1,Southend United
-45,Sat May 1 2021,15:00,Bolton Wanderers,1-2,1-0,Exeter City
-45,Sat May 1 2021,15:00,Bradford City,0-0,0-0,Scunthorpe United
-45,Sat May 1 2021,15:00,Colchester United,1-0,0-0,Salford City
-45,Sat May 1 2021,15:00,Stevenage FC,3-3,1-1,Crawley Town
-45,Sat May 1 2021,15:00,Walsall FC,0-2,0-1,Morecambe FC
-45,Sat May 1 2021,15:00,Forest Green Rovers,2-1,0-0,Tranmere Rovers
-45,Sat May 1 2021,15:00,Grimsby Town,1-0,1-0,Port Vale FC
-45,Sat May 1 2021,15:00,Leyton Orient,2-3,2-1,Carlisle United
-45,Sat May 1 2021,15:00,Mansfield Town,4-1,2-0,Oldham Athletic
-45,Sat May 1 2021,15:00,Newport County,1-0,1-0,Cheltenham Town
-46,Sat May 8 2021,15:00,Cambridge United,3-0,1-0,Grimsby Town
-46,Sat May 8 2021,15:00,Carlisle United,0-0,0-0,Walsall FC
-46,Sat May 8 2021,15:00,Cheltenham Town,4-1,3-1,Harrogate Town
-46,Sat May 8 2021,15:00,Crawley Town,1-4,0-2,Bolton Wanderers
-46,Sat May 8 2021,15:00,Exeter City,1-1,1-0,Barrow AFC
-46,Sat May 8 2021,15:00,Morecambe FC,2-0,1-0,Bradford City
-46,Sat May 8 2021,15:00,Oldham Athletic,0-3,0-0,Forest Green Rovers
-46,Sat May 8 2021,15:00,Port Vale FC,0-3,0-2,Mansfield Town
-46,Sat May 8 2021,15:00,Salford City,3-0,1-0,Leyton Orient
-46,Sat May 8 2021,15:00,Scunthorpe United,0-1,0-0,Stevenage FC
-46,Sat May 8 2021,15:00,Southend United,1-1,1-0,Newport County
-46,Sat May 8 2021,15:00,Tranmere Rovers,0-0,0-0,Colchester United
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Sep 12 2020,15:00,BST/+0100,Barrow AFC,1-1,1-0,Stevenage FC,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Bolton Wanderers,0-1,0-0,Forest Green Rovers,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Bradford City,0-0,0-0,Colchester United,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Cambridge United,3-0,2-0,Carlisle United,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Cheltenham Town,1-2,1-0,Morecambe FC,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Walsall FC,1-0,0-0,Grimsby Town,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Mansfield Town,0-0,0-0,Tranmere Rovers,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Oldham Athletic,0-1,0-0,Leyton Orient,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Port Vale FC,2-0,1-0,Crawley Town,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Salford City,2-2,1-2,Exeter City,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Scunthorpe United,1-1,0-1,Newport County,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Southend United,0-4,0-2,Harrogate Town,2020-09-12T14:00Z
+2,Sat Sep 19 2020,13:00,BST/+0100,Carlisle United,2-0,2-0,Southend United,2020-09-19T12:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Colchester United,2-0,1-0,Bolton Wanderers,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Crawley Town,1-0,1-0,Scunthorpe United,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Exeter City,0-2,0-1,Port Vale FC,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Morecambe FC,0-5,0-3,Cambridge United,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Stevenage FC,3-0,0-0,Oldham Athletic,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Forest Green Rovers,2-2,0-0,Bradford City,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Grimsby Town,0-4,0-1,Salford City,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Harrogate Town,2-2,2-1,Walsall FC,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Leyton Orient,2-2,0-0,Mansfield Town,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Newport County,2-1,1-1,Barrow AFC,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Tranmere Rovers,0-3,0-3,Cheltenham Town,2020-09-19T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Barrow AFC,1-1,0-1,Colchester United,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Bolton Wanderers,0-2,0-0,Newport County,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Bradford City,2-1,0-1,Stevenage FC,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Cambridge United,0-0,0-0,Tranmere Rovers,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Mansfield Town,1-2,1-1,Exeter City,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Oldham Athletic,2-3,1-2,Crawley Town,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Port Vale FC,0-0,0-0,Harrogate Town,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Salford City,0-0,0-0,Forest Green Rovers,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Scunthorpe United,1-0,1-0,Carlisle United,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Southend United,1-2,1-0,Morecambe FC,2020-09-26T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Tranmere Rovers,2-0,1-0,Scunthorpe United,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Leyton Orient,0-2,0-2,Cheltenham Town,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Carlisle United,1-0,1-0,Barrow AFC,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Colchester United,3-3,2-0,Oldham Athletic,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Crawley Town,1-1,1-0,Southend United,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Exeter City,2-0,2-0,Cambridge United,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Morecambe FC,1-0,0-0,Port Vale FC,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Stevenage FC,0-1,0-1,Salford City,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Forest Green Rovers,1-1,0-1,Walsall FC,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Harrogate Town,1-2,0-1,Bolton Wanderers,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Newport County,2-1,0-0,Mansfield Town,2020-10-03T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Scunthorpe United,1-4,1-2,Forest Green Rovers,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Southend United,2-2,1-1,Exeter City,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Salford City,2-2,2-0,Tranmere Rovers,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Barrow AFC,1-1,1-0,Leyton Orient,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Bolton Wanderers,0-0,0-0,Grimsby Town,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Cambridge United,2-1,1-0,Newport County,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Cheltenham Town,2-0,1-0,Crawley Town,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Walsall FC,1-1,0-1,Colchester United,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Mansfield Town,0-0,0-0,Stevenage FC,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Oldham Athletic,2-3,0-1,Morecambe FC,2020-10-10T14:00Z
+5,Sat Oct 10 2020,15:00,BST/+0100,Port Vale FC,0-1,0-0,Carlisle United,2020-10-10T14:00Z
+5,Mon Oct 12 2020,19:45,BST/+0100,Bradford City,0-1,0-0,Harrogate Town,2020-10-12T18:45Z
+3,Tue Oct 13 2020,19:00,BST/+0100,Walsall FC,2-1,1-1,Leyton Orient,2020-10-13T18:00Z
+3,Tue Oct 13 2020,19:00,BST/+0100,Cheltenham Town,1-3,1-2,Grimsby Town,2020-10-13T18:00Z
+6,Sat Oct 17 2020,17:30,BST/+0100,Leyton Orient,2-3,1-2,Grimsby Town,2020-10-17T16:30Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Bolton Wanderers,1-2,1-1,Oldham Athletic,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Carlisle United,3-2,2-1,Colchester United,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Crawley Town,4-0,0-0,Morecambe FC,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Walsall FC,0-0,0-0,Exeter City,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Forest Green Rovers,1-0,1-0,Stevenage FC,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Harrogate Town,1-0,1-0,Barrow AFC,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Mansfield Town,1-3,0-2,Bradford City,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Newport County,1-0,1-0,Tranmere Rovers,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Port Vale FC,1-0,0-0,Salford City,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Scunthorpe United,0-5,0-2,Cambridge United,2020-10-17T14:00Z
+6,Sat Oct 17 2020,15:00,BST/+0100,Southend United,0-2,0-1,Cheltenham Town,2020-10-17T14:00Z
+7,Tue Oct 20 2020,19:45,BST/+0100,Salford City,3-0,1-0,Southend United,2020-10-20T18:45Z
+7,Tue Oct 20 2020,18:00,BST/+0100,Cheltenham Town,1-0,1-0,Scunthorpe United,2020-10-20T17:00Z
+7,Tue Oct 20 2020,18:30,BST/+0100,Morecambe FC,1-1,1-1,Mansfield Town,2020-10-20T17:30Z
+7,Tue Oct 20 2020,19:00,BST/+0100,Barrow AFC,3-3,3-2,Bolton Wanderers,2020-10-20T18:00Z
+7,Tue Oct 20 2020,19:00,BST/+0100,Cambridge United,3-1,1-1,Port Vale FC,2020-10-20T18:00Z
+7,Tue Oct 20 2020,19:00,BST/+0100,Colchester United,1-0,1-0,Forest Green Rovers,2020-10-20T18:00Z
+7,Tue Oct 20 2020,19:00,BST/+0100,Exeter City,2-1,0-1,Crawley Town,2020-10-20T18:00Z
+7,Tue Oct 20 2020,19:00,BST/+0100,Stevenage FC,0-1,0-1,Newport County,2020-10-20T18:00Z
+7,Tue Oct 20 2020,19:00,BST/+0100,Oldham Athletic,1-1,0-0,Carlisle United,2020-10-20T18:00Z
+7,Tue Oct 20 2020,19:00,BST/+0100,Tranmere Rovers,0-1,0-0,Leyton Orient,2020-10-20T18:00Z
+7,Tue Oct 20 2020,19:45,BST/+0100,Bradford City,1-1,0-1,Walsall FC,2020-10-20T18:45Z
+7,Tue Oct 20 2020,19:45,BST/+0100,Grimsby Town,1-2,1-2,Harrogate Town,2020-10-20T18:45Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Tranmere Rovers,2-0,1-0,Southend United,2020-10-24T14:00Z
+8,Sat Oct 24 2020,13:00,BST/+0100,Exeter City,3-1,2-0,Scunthorpe United,2020-10-24T12:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Barrow AFC,2-2,1-1,Walsall FC,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Bradford City,0-3,0-2,Newport County,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Cambridge United,1-1,0-0,Bolton Wanderers,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Cheltenham Town,0-0,0-0,Mansfield Town,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Colchester United,2-1,0-0,Harrogate Town,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Morecambe FC,1-2,1-0,Forest Green Rovers,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Stevenage FC,0-2,0-0,Leyton Orient,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Grimsby Town,1-1,1-0,Carlisle United,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Oldham Athletic,1-2,0-2,Port Vale FC,2020-10-24T14:00Z
+8,Sat Oct 24 2020,15:00,BST/+0100,Salford City,1-1,0-0,Crawley Town,2020-10-24T14:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Mansfield Town,2-4,1-2,Barrow AFC,2020-10-27T19:00Z
+9,Tue Oct 27 2020,18:30,GMT/+0000,Crawley Town,4-0,3-0,Tranmere Rovers,2020-10-27T18:30Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Carlisle United,3-1,2-0,Morecambe FC,2020-10-27T19:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Walsall FC,0-2,0-1,Cambridge United,2020-10-27T19:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Forest Green Rovers,1-0,1-0,Grimsby Town,2020-10-27T19:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Harrogate Town,0-0,0-0,Stevenage FC,2020-10-27T19:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Leyton Orient,1-1,1-0,Exeter City,2020-10-27T19:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Bolton Wanderers,1-0,1-0,Bradford City,2020-10-27T19:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Newport County,2-1,0-0,Colchester United,2020-10-27T19:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Port Vale FC,2-1,0-0,Cheltenham Town,2020-10-27T19:00Z
+9,Tue Oct 27 2020,19:00,GMT/+0000,Southend United,1-2,0-0,Oldham Athletic,2020-10-27T19:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Southend United,0-2,0-0,Port Vale FC,2020-10-31T15:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Salford City,2-0,1-0,Oldham Athletic,2020-10-31T15:00Z
+10,Sat Oct 31 2020,13:00,GMT/+0000,Exeter City,1-0,0-0,Carlisle United,2020-10-31T13:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Barrow AFC,1-0,1-0,Bradford City,2020-10-31T15:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Cheltenham Town,2-1,1-0,Forest Green Rovers,2020-10-31T15:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Crawley Town,2-1,1-1,Cambridge United,2020-10-31T15:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Stevenage FC,0-0,0-0,Grimsby Town,2020-10-31T15:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Leyton Orient,4-0,3-0,Bolton Wanderers,2020-10-31T15:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Mansfield Town,1-1,1-0,Walsall FC,2020-10-31T15:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Newport County,2-1,1-1,Harrogate Town,2020-10-31T15:00Z
+10,Sat Oct 31 2020,15:00,GMT/+0000,Tranmere Rovers,0-1,0-0,Morecambe FC,2020-10-31T15:00Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Grimsby Town,1-0,0-0,Barrow AFC,2020-11-03T19:00Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Bolton Wanderers,1-1,0-0,Mansfield Town,2020-11-03T19:00Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Harrogate Town,0-1,0-0,Tranmere Rovers,2020-11-03T19:00Z
+11,Tue Nov 3 2020,18:00,GMT/+0000,Oldham Athletic,2-1,1-1,Cheltenham Town,2020-11-03T18:00Z
+11,Tue Nov 3 2020,18:30,GMT/+0000,Morecambe FC,2-2,2-1,Exeter City,2020-11-03T18:30Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Bradford City,3-0,3-0,Southend United,2020-11-03T19:00Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Cambridge United,2-1,1-1,Salford City,2020-11-03T19:00Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Carlisle United,3-2,1-0,Newport County,2020-11-03T19:00Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Colchester United,3-1,1-1,Stevenage FC,2020-11-03T19:00Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Walsall FC,1-0,0-0,Crawley Town,2020-11-03T19:00Z
+11,Tue Nov 3 2020,19:00,GMT/+0000,Forest Green Rovers,2-1,1-1,Leyton Orient,2020-11-03T19:00Z
+12,Fri Nov 13 2020,19:45,GMT/+0000,Bolton Wanderers,2-0,1-0,Salford City,2020-11-13T19:45Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Oldham Athletic,0-2,0-0,Scunthorpe United,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Forest Green Rovers,1-2,0-2,Mansfield Town,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Port Vale FC,3-4,2-0,Tranmere Rovers,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Harrogate Town,1-1,0-1,Crawley Town,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Bradford City,2-2,2-2,Exeter City,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Cambridge United,1-1,0-0,Barrow AFC,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Carlisle United,1-2,1-2,Cheltenham Town,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Colchester United,2-1,1-0,Leyton Orient,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Morecambe FC,1-1,0-1,Stevenage FC,2020-11-14T15:00Z
+12,Sat Nov 14 2020,15:00,GMT/+0000,Walsall FC,0-1,0-0,Southend United,2020-11-14T15:00Z
+11,Tue Nov 17 2020,19:00,GMT/+0000,Port Vale FC,0-1,0-1,Scunthorpe United,2020-11-17T19:00Z
+13,Fri Nov 20 2020,19:00,GMT/+0000,Mansfield Town,1-1,0-0,Colchester United,2020-11-20T19:00Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Newport County,1-0,0-0,Port Vale FC,2020-11-21T15:00Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Leyton Orient,3-0,2-0,Harrogate Town,2020-11-21T15:00Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Salford City,3-0,3-0,Bradford City,2020-11-21T15:00Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Scunthorpe United,1-1,0-0,Morecambe FC,2020-11-21T15:00Z
+13,Sat Nov 21 2020,13:30,GMT/+0000,Crawley Town,0-3,0-1,Carlisle United,2020-11-21T13:30Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Barrow AFC,2-2,0-0,Forest Green Rovers,2020-11-21T15:00Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Cheltenham Town,3-0,0-0,Walsall FC,2020-11-21T15:00Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Exeter City,1-2,1-2,Oldham Athletic,2020-11-21T15:00Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Stevenage FC,1-2,1-2,Bolton Wanderers,2020-11-21T15:00Z
+13,Sat Nov 21 2020,15:00,GMT/+0000,Tranmere Rovers,5-0,4-0,Grimsby Town,2020-11-21T15:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Southend United,0-1,0-0,Forest Green Rovers,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Tranmere Rovers,1-0,0-0,Carlisle United,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Scunthorpe United,0-1,0-0,Bolton Wanderers,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Salford City,2-1,2-0,Morecambe FC,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Newport County,1-1,1-1,Walsall FC,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Barrow AFC,3-4,1-2,Oldham Athletic,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Cheltenham Town,1-1,1-0,Cambridge United,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Crawley Town,1-2,1-1,Grimsby Town,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Exeter City,6-1,1-0,Colchester United,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Stevenage FC,2-1,1-0,Port Vale FC,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Leyton Orient,1-0,0-0,Bradford City,2020-11-24T19:00Z
+14,Tue Nov 24 2020,19:00,GMT/+0000,Mansfield Town,0-1,0-1,Harrogate Town,2020-11-24T19:00Z
+15,Sat Nov 28 2020,15:00,GMT/+0000,Bolton Wanderers,3-0,1-0,Southend United,2020-11-28T15:00Z
+15,Sat Nov 28 2020,13:00,GMT/+0000,Port Vale FC,2-3,1-2,Leyton Orient,2020-11-28T13:00Z
+15,Tue Dec 1 2020,19:00,GMT/+0000,Harrogate Town,2-5,1-2,Scunthorpe United,2020-12-01T19:00Z
+15,Tue Dec 1 2020,19:00,GMT/+0000,Grimsby Town,1-4,1-3,Exeter City,2020-12-01T19:00Z
+15,Tue Dec 1 2020,19:00,GMT/+0000,Bradford City,1-2,1-1,Cheltenham Town,2020-12-01T19:00Z
+15,Tue Dec 1 2020,19:00,GMT/+0000,Oldham Athletic,0-1,0-1,Tranmere Rovers,2020-12-01T19:00Z
+15,Tue Dec 1 2020,19:00,GMT/+0000,Colchester United,1-1,1-1,Crawley Town,2020-12-01T19:00Z
+15,Tue Dec 1 2020,18:30,GMT/+0000,Morecambe FC,1-0,1-0,Barrow AFC,2020-12-01T18:30Z
+15,Tue Dec 1 2020,19:00,GMT/+0000,Forest Green Rovers,1-1,0-1,Newport County,2020-12-01T19:00Z
+15,Wed Dec 2 2020,19:00,GMT/+0000,Walsall FC,1-1,0-0,Stevenage FC,2020-12-02T19:00Z
+15,Wed Dec 2 2020,19:00,GMT/+0000,Carlisle United,2-1,1-0,Salford City,2020-12-02T19:00Z
+15,Wed Dec 2 2020,19:45,GMT/+0000,Cambridge United,0-1,0-0,Mansfield Town,2020-12-02T19:45Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Newport County,2-1,1-1,Morecambe FC,2020-12-05T15:00Z
+16,Sat Dec 5 2020,17:30,GMT/+0000,Colchester United,2-1,1-1,Grimsby Town,2020-12-05T17:30Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Tranmere Rovers,1-3,1-1,Walsall FC,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Mansfield Town,3-3,1-0,Crawley Town,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Harrogate Town,0-1,0-0,Forest Green Rovers,2020-12-05T15:00Z
+16,Sat Dec 5 2020,13:00,GMT/+0000,Scunthorpe United,2-0,1-0,Leyton Orient,2020-12-05T13:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Barrow AFC,0-1,0-0,Salford City,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Bolton Wanderers,3-6,1-3,Port Vale FC,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Bradford City,0-1,0-0,Carlisle United,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Cambridge United,1-2,0-0,Oldham Athletic,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Cheltenham Town,5-3,3-1,Exeter City,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Stevenage FC,0-0,0-0,Southend United,2020-12-05T15:00Z
+12,Tue Dec 8 2020,19:00,GMT/+0000,Grimsby Town,0-2,0-2,Newport County,2020-12-08T19:00Z
+10,Tue Dec 8 2020,19:00,GMT/+0000,Scunthorpe United,0-1,0-1,Colchester United,2020-12-08T19:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Salford City,0-0,0-0,Cheltenham Town,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Port Vale FC,1-1,0-0,Colchester United,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Southend United,1-0,0-0,Scunthorpe United,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Carlisle United,4-0,3-0,Stevenage FC,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Crawley Town,4-2,1-1,Barrow AFC,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Exeter City,5-0,3-0,Tranmere Rovers,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Morecambe FC,1-0,0-0,Harrogate Town,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Walsall FC,2-1,1-1,Bolton Wanderers,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Forest Green Rovers,2-0,0-0,Cambridge United,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Grimsby Town,1-1,0-0,Mansfield Town,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Leyton Orient,2-1,0-1,Newport County,2020-12-12T15:00Z
+17,Sat Dec 12 2020,15:00,GMT/+0000,Oldham Athletic,3-1,2-0,Bradford City,2020-12-12T15:00Z
+18,Tue Dec 15 2020,19:45,GMT/+0000,Southend United,3-1,1-1,Grimsby Town,2020-12-15T19:45Z
+18,Tue Dec 15 2020,19:45,GMT/+0000,Crawley Town,1-1,1-1,Bradford City,2020-12-15T19:45Z
+18,Tue Dec 15 2020,19:45,GMT/+0000,Cheltenham Town,0-1,0-0,Bolton Wanderers,2020-12-15T19:45Z
+18,Tue Dec 15 2020,18:30,GMT/+0000,Morecambe FC,2-1,0-1,Leyton Orient,2020-12-15T18:30Z
+18,Tue Dec 15 2020,19:00,GMT/+0000,Carlisle United,1-0,1-0,Mansfield Town,2020-12-15T19:00Z
+18,Tue Dec 15 2020,19:00,GMT/+0000,Oldham Athletic,2-3,0-1,Walsall FC,2020-12-15T19:00Z
+18,Tue Dec 15 2020,19:00,GMT/+0000,Port Vale FC,1-1,1-1,Forest Green Rovers,2020-12-15T19:00Z
+18,Tue Dec 15 2020,19:00,GMT/+0000,Salford City,1-1,1-0,Newport County,2020-12-15T19:00Z
+18,Tue Dec 15 2020,19:00,GMT/+0000,Scunthorpe United,2-1,1-1,Barrow AFC,2020-12-15T19:00Z
+18,Tue Dec 15 2020,19:45,GMT/+0000,Cambridge United,2-1,0-0,Colchester United,2020-12-15T19:45Z
+18,Tue Dec 15 2020,19:45,GMT/+0000,Exeter City,1-2,0-1,Harrogate Town,2020-12-15T19:45Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Mansfield Town,1-1,0-1,Southend United,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Harrogate Town,0-1,0-1,Salford City,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Leyton Orient,1-2,1-1,Crawley Town,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Grimsby Town,1-0,1-0,Scunthorpe United,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Barrow AFC,3-0,1-0,Cheltenham Town,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Bolton Wanderers,0-3,0-1,Tranmere Rovers,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Bradford City,1-0,1-0,Cambridge United,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Colchester United,1-2,1-1,Morecambe FC,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Walsall FC,4-3,0-2,Port Vale FC,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Forest Green Rovers,1-0,0-0,Carlisle United,2020-12-19T15:00Z
+19,Sat Dec 19 2020,15:00,GMT/+0000,Newport County,2-4,2-1,Oldham Athletic,2020-12-19T15:00Z
+4,Tue Dec 22 2020,19:00,GMT/+0000,Grimsby Town,1-2,0-2,Bradford City,2020-12-22T19:00Z
+20,Sat Dec 26 2020,15:00,GMT/+0000,Cheltenham Town,1-1,1-0,Stevenage FC,2020-12-26T15:00Z
+20,Sat Dec 26 2020,15:00,GMT/+0000,Tranmere Rovers,0-1,0-0,Bradford City,2020-12-26T15:00Z
+20,Sat Dec 26 2020,15:00,GMT/+0000,Salford City,2-0,1-0,Walsall FC,2020-12-26T15:00Z
+20,Sat Dec 26 2020,15:00,GMT/+0000,Port Vale FC,0-2,0-1,Barrow AFC,2020-12-26T15:00Z
+20,Sat Dec 26 2020,13:00,GMT/+0000,Cambridge United,2-1,0-1,Leyton Orient,2020-12-26T13:00Z
+20,Sat Dec 26 2020,13:00,GMT/+0000,Exeter City,1-1,1-1,Forest Green Rovers,2020-12-26T13:00Z
+20,Sat Dec 26 2020,13:00,GMT/+0000,Scunthorpe United,2-3,1-2,Mansfield Town,2020-12-26T13:00Z
+20,Sat Dec 26 2020,13:00,GMT/+0000,Southend United,2-0,2-0,Colchester United,2020-12-26T13:00Z
+20,Sat Dec 26 2020,15:00,GMT/+0000,Carlisle United,3-3,3-1,Bolton Wanderers,2020-12-26T15:00Z
+20,Sat Dec 26 2020,15:00,GMT/+0000,Oldham Athletic,1-2,1-1,Harrogate Town,2020-12-26T15:00Z
+20,Sat Dec 26 2020,15:00,GMT/+0000,Crawley Town,1-1,1-1,Newport County,2020-12-26T15:00Z
+20,Sat Dec 26 2020,15:00,GMT/+0000,Morecambe FC,3-1,0-1,Grimsby Town,2020-12-26T15:00Z
+21,Tue Dec 29 2020,19:00,GMT/+0000,Walsall FC,1-2,0-1,Scunthorpe United,2020-12-29T19:00Z
+21,Tue Dec 29 2020,19:45,GMT/+0000,Barrow AFC,1-1,0-1,Tranmere Rovers,2020-12-29T19:45Z
+21,Tue Dec 29 2020,19:00,GMT/+0000,Leyton Orient,2-0,0-0,Southend United,2020-12-29T19:00Z
+21,Tue Dec 29 2020,19:00,GMT/+0000,Grimsby Town,0-0,0-0,Oldham Athletic,2020-12-29T19:00Z
+21,Tue Dec 29 2020,17:00,GMT/+0000,Stevenage FC,1-0,1-0,Cambridge United,2020-12-29T17:00Z
+21,Tue Dec 29 2020,19:00,GMT/+0000,Bradford City,0-0,0-0,Port Vale FC,2020-12-29T19:00Z
+21,Tue Dec 29 2020,19:45,GMT/+0000,Colchester United,0-0,0-0,Cheltenham Town,2020-12-29T19:45Z
+21,Tue Dec 29 2020,19:00,GMT/+0000,Forest Green Rovers,1-2,0-1,Crawley Town,2020-12-29T19:00Z
+22,Sat Jan 2 2021,15:00,GMT/+0000,Walsall FC,0-2,0-1,Carlisle United,2021-01-02T15:00Z
+22,Sat Jan 2 2021,15:00,GMT/+0000,Mansfield Town,4-0,2-0,Port Vale FC,2021-01-02T15:00Z
+22,Sat Jan 2 2021,15:00,GMT/+0000,Grimsby Town,1-2,0-2,Cambridge United,2021-01-02T15:00Z
+22,Sat Jan 2 2021,15:00,GMT/+0000,Bolton Wanderers,0-1,0-0,Crawley Town,2021-01-02T15:00Z
+22,Sat Jan 2 2021,15:00,GMT/+0000,Leyton Orient,1-0,1-0,Salford City,2021-01-02T15:00Z
+22,Sat Jan 2 2021,15:00,GMT/+0000,Stevenage FC,3-1,2-1,Scunthorpe United,2021-01-02T15:00Z
+21,Tue Jan 5 2021,19:00,GMT/+0000,Mansfield Town,2-1,2-0,Salford City,2021-01-05T19:00Z
+23,Sat Jan 9 2021,15:00,GMT/+0000,Cambridge United,2-1,0-1,Harrogate Town,2021-01-09T15:00Z
+23,Sat Jan 9 2021,15:00,GMT/+0000,Southend United,1-0,1-0,Barrow AFC,2021-01-09T15:00Z
+23,Sat Jan 9 2021,15:00,GMT/+0000,Port Vale FC,3-0,2-0,Grimsby Town,2021-01-09T15:00Z
+9,Tue Jan 12 2021,19:00,GMT/+0000,Scunthorpe United,0-1,0-0,Salford City,2021-01-12T19:00Z
+23,Tue Jan 12 2021,19:00,GMT/+0000,Exeter City,1-1,0-0,Bolton Wanderers,2021-01-12T19:00Z
+23,Wed Jan 13 2021,19:45,GMT/+0000,Oldham Athletic,2-3,1-2,Mansfield Town,2021-01-13T19:45Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Walsall FC,1-1,1-0,Oldham Athletic,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Bolton Wanderers,1-1,0-0,Cheltenham Town,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Barrow AFC,1-0,0-0,Scunthorpe United,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Grimsby Town,0-0,0-0,Southend United,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Colchester United,1-1,1-1,Cambridge United,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Forest Green Rovers,1-1,1-0,Port Vale FC,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Leyton Orient,2-0,0-0,Morecambe FC,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Stevenage FC,0-0,0-0,Tranmere Rovers,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Newport County,0-0,0-0,Salford City,2021-01-16T15:00Z
+13,Tue Jan 19 2021,19:00,GMT/+0000,Southend United,1-2,1-0,Cambridge United,2021-01-19T19:00Z
+24,Tue Jan 19 2021,19:00,GMT/+0000,Harrogate Town,0-0,0-0,Exeter City,2021-01-19T19:00Z
+23,Tue Jan 19 2021,19:00,GMT/+0000,Cheltenham Town,1-1,1-1,Newport County,2021-01-19T19:00Z
+23,Tue Jan 19 2021,19:00,GMT/+0000,Morecambe FC,1-1,0-1,Walsall FC,2021-01-19T19:00Z
+23,Tue Jan 19 2021,19:00,GMT/+0000,Tranmere Rovers,3-2,1-0,Forest Green Rovers,2021-01-19T19:00Z
+25,Fri Jan 22 2021,19:00,GMT/+0000,Salford City,2-2,1-1,Harrogate Town,2021-01-22T19:00Z
+25,Sat Jan 23 2021,13:00,GMT/+0000,Exeter City,3-1,1-0,Stevenage FC,2021-01-23T13:00Z
+25,Sat Jan 23 2021,13:00,GMT/+0000,Scunthorpe United,3-0,2-0,Grimsby Town,2021-01-23T13:00Z
+26,Sat Jan 23 2021,15:00,GMT/+0000,Leyton Orient,0-1,0-1,Forest Green Rovers,2021-01-23T15:00Z
+25,Sat Jan 23 2021,15:00,GMT/+0000,Cambridge United,0-0,0-0,Bradford City,2021-01-23T15:00Z
+25,Sat Jan 23 2021,15:00,GMT/+0000,Southend United,0-1,0-0,Mansfield Town,2021-01-23T15:00Z
+25,Sat Jan 23 2021,15:00,GMT/+0000,Port Vale FC,1-3,1-1,Walsall FC,2021-01-23T15:00Z
+25,Sat Jan 23 2021,15:00,GMT/+0000,Oldham Athletic,3-2,2-2,Newport County,2021-01-23T15:00Z
+25,Sat Jan 23 2021,15:00,GMT/+0000,Morecambe FC,3-0,1-0,Colchester United,2021-01-23T15:00Z
+25,Sat Jan 23 2021,15:00,GMT/+0000,Tranmere Rovers,2-1,1-0,Bolton Wanderers,2021-01-23T15:00Z
+26,Tue Jan 26 2021,19:00,GMT/+0000,Cheltenham Town,2-0,0-0,Oldham Athletic,2021-01-26T19:00Z
+26,Tue Jan 26 2021,19:00,GMT/+0000,Stevenage FC,0-0,0-0,Colchester United,2021-01-26T19:00Z
+26,Tue Jan 26 2021,19:00,GMT/+0000,Scunthorpe United,2-0,2-0,Port Vale FC,2021-01-26T19:00Z
+26,Tue Jan 26 2021,19:00,GMT/+0000,Southend United,1-3,1-1,Bradford City,2021-01-26T19:00Z
+26,Tue Jan 26 2021,19:00,GMT/+0000,Tranmere Rovers,3-2,1-1,Harrogate Town,2021-01-26T19:00Z
+26,Tue Jan 26 2021,18:00,GMT/+0000,Exeter City,0-2,0-1,Morecambe FC,2021-01-26T18:00Z
+27,Fri Jan 29 2021,19:00,GMT/+0000,Colchester United,0-1,0-1,Scunthorpe United,2021-01-29T19:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Bolton Wanderers,2-0,0-0,Leyton Orient,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Bradford City,2-1,1-1,Barrow AFC,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Cambridge United,3-1,2-1,Crawley Town,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Forest Green Rovers,0-0,0-0,Cheltenham Town,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Grimsby Town,1-2,0-1,Stevenage FC,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Harrogate Town,2-1,1-1,Newport County,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Oldham Athletic,2-1,0-1,Salford City,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Port Vale FC,5-1,4-0,Southend United,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Morecambe FC,0-1,0-0,Tranmere Rovers,2021-01-30T15:00Z
+27,Sat Jan 30 2021,13:00,GMT/+0000,Carlisle United,1-0,1-0,Exeter City,2021-01-30T13:00Z
+25,Tue Feb 2 2021,19:00,GMT/+0000,Crawley Town,0-0,0-0,Leyton Orient,2021-02-02T19:00Z
+25,Tue Feb 2 2021,18:00,GMT/+0000,Carlisle United,1-2,0-0,Forest Green Rovers,2021-02-02T18:00Z
+19,Tue Feb 2 2021,19:00,GMT/+0000,Stevenage FC,0-1,0-1,Exeter City,2021-02-02T19:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Tranmere Rovers,3-1,2-1,Port Vale FC,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Crawley Town,1-3,0-3,Harrogate Town,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Stevenage FC,2-2,1-2,Morecambe FC,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Leyton Orient,0-0,0-0,Colchester United,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Newport County,1-0,0-0,Grimsby Town,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Barrow AFC,0-2,0-1,Cambridge United,2021-02-06T15:00Z
+28,Sat Feb 6 2021,13:00,GMT/+0000,Exeter City,3-2,1-2,Bradford City,2021-02-06T13:00Z
+18,Tue Feb 9 2021,19:00,GMT/+0000,Tranmere Rovers,0-1,0-0,Stevenage FC,2021-02-09T19:00Z
+22,Tue Feb 9 2021,19:00,GMT/+0000,Newport County,0-1,0-0,Southend United,2021-02-09T19:00Z
+22,Tue Feb 9 2021,18:00,GMT/+0000,Harrogate Town,0-1,0-1,Cheltenham Town,2021-02-09T18:00Z
+21,Tue Feb 9 2021,19:00,GMT/+0000,Bolton Wanderers,1-1,1-0,Morecambe FC,2021-02-09T19:00Z
+26,Tue Feb 9 2021,17:30,GMT/+0000,Salford City,4-1,3-0,Cambridge United,2021-02-09T17:30Z
+27,Tue Feb 9 2021,18:45,GMT/+0000,Walsall FC,1-1,1-1,Mansfield Town,2021-02-09T18:45Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Cambridge United,0-0,0-0,Southend United,2021-02-13T15:00Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Bolton Wanderers,1-0,1-0,Stevenage FC,2021-02-13T15:00Z
+29,Sun Feb 14 2021,15:00,GMT/+0000,Colchester United,2-2,1-1,Mansfield Town,2021-02-14T15:00Z
+21,Tue Feb 16 2021,19:00,GMT/+0000,Harrogate Town,1-0,1-0,Carlisle United,2021-02-16T19:00Z
+21,Tue Feb 16 2021,19:00,GMT/+0000,Newport County,1-1,0-1,Exeter City,2021-02-16T19:00Z
+36,Tue Feb 16 2021,19:00,GMT/+0000,Salford City,1-0,1-0,Barrow AFC,2021-02-16T19:00Z
+23,Tue Feb 16 2021,19:00,GMT/+0000,Crawley Town,0-1,0-0,Stevenage FC,2021-02-16T19:00Z
+22,Tue Feb 16 2021,19:00,GMT/+0000,Forest Green Rovers,4-3,2-1,Oldham Athletic,2021-02-16T19:00Z
+22,Tue Feb 16 2021,19:00,GMT/+0000,Bradford City,2-1,1-1,Morecambe FC,2021-02-16T19:00Z
+29,Tue Feb 16 2021,19:00,GMT/+0000,Walsall FC,1-2,1-2,Cheltenham Town,2021-02-16T19:00Z
+26,Wed Feb 17 2021,17:00,GMT/+0000,Mansfield Town,2-3,0-0,Bolton Wanderers,2021-02-17T17:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Stevenage FC,1-1,0-1,Walsall FC,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Crawley Town,1-0,0-0,Colchester United,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Mansfield Town,0-3,0-0,Cambridge United,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Salford City,1-1,0-1,Carlisle United,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Scunthorpe United,3-1,2-1,Harrogate Town,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Cheltenham Town,0-2,0-1,Bradford City,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Barrow AFC,1-2,0-1,Morecambe FC,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Leyton Orient,1-1,0-0,Port Vale FC,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Tranmere Rovers,2-2,1-1,Oldham Athletic,2021-02-20T15:00Z
+30,Sat Feb 20 2021,15:00,GMT/+0000,Southend United,0-1,0-0,Bolton Wanderers,2021-02-20T15:00Z
+30,Sun Feb 21 2021,13:00,GMT/+0000,Newport County,0-2,0-1,Forest Green Rovers,2021-02-21T13:00Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Cambridge United,0-1,0-0,Cheltenham Town,2021-02-23T19:00Z
+31,Tue Feb 23 2021,18:30,GMT/+0000,Morecambe FC,2-1,0-1,Salford City,2021-02-23T18:30Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Bradford City,1-0,0-0,Leyton Orient,2021-02-23T19:00Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Bolton Wanderers,2-0,1-0,Scunthorpe United,2021-02-23T19:00Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Port Vale FC,0-0,0-0,Stevenage FC,2021-02-23T19:00Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Oldham Athletic,0-1,0-0,Barrow AFC,2021-02-23T19:00Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Harrogate Town,1-0,0-0,Mansfield Town,2021-02-23T19:00Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Grimsby Town,2-1,1-1,Crawley Town,2021-02-23T19:00Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Colchester United,1-2,0-1,Exeter City,2021-02-23T19:00Z
+31,Tue Feb 23 2021,19:00,GMT/+0000,Carlisle United,2-3,2-2,Tranmere Rovers,2021-02-23T19:00Z
+31,Wed Feb 24 2021,18:00,GMT/+0000,Forest Green Rovers,1-3,0-1,Southend United,2021-02-24T18:00Z
+31,Wed Feb 24 2021,17:30,GMT/+0000,Walsall FC,0-1,0-0,Newport County,2021-02-24T17:30Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Bolton Wanderers,1-0,0-0,Barrow AFC,2021-02-27T15:00Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Harrogate Town,1-0,0-0,Grimsby Town,2021-02-27T15:00Z
+32,Sat Feb 27 2021,17:30,GMT/+0000,Forest Green Rovers,3-0,2-0,Colchester United,2021-02-27T17:30Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Southend United,0-0,0-0,Salford City,2021-02-27T15:00Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Scunthorpe United,0-2,0-2,Cheltenham Town,2021-02-27T15:00Z
+32,Sat Feb 27 2021,13:00,GMT/+0000,Crawley Town,2-0,0-0,Exeter City,2021-02-27T13:00Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Newport County,0-0,0-0,Stevenage FC,2021-02-27T15:00Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Mansfield Town,1-0,1-0,Morecambe FC,2021-02-27T15:00Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Carlisle United,1-3,1-0,Oldham Athletic,2021-02-27T15:00Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Walsall FC,1-2,0-1,Bradford City,2021-02-27T15:00Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Leyton Orient,1-3,0-1,Tranmere Rovers,2021-02-27T15:00Z
+32,Sat Feb 27 2021,15:00,GMT/+0000,Port Vale FC,0-1,0-0,Cambridge United,2021-02-27T15:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Tranmere Rovers,1-0,1-0,Newport County,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Oldham Athletic,0-2,0-2,Bolton Wanderers,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Grimsby Town,0-1,0-1,Leyton Orient,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Stevenage FC,3-0,2-0,Forest Green Rovers,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Exeter City,0-0,0-0,Walsall FC,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Colchester United,2-1,0-1,Carlisle United,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Cheltenham Town,1-0,0-0,Southend United,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Cambridge United,0-1,0-0,Scunthorpe United,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Bradford City,1-0,1-0,Mansfield Town,2021-03-02T19:00Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Barrow AFC,0-1,0-0,Harrogate Town,2021-03-02T19:00Z
+33,Tue Mar 2 2021,18:30,GMT/+0000,Morecambe FC,3-1,1-1,Crawley Town,2021-03-02T18:30Z
+33,Tue Mar 2 2021,19:00,GMT/+0000,Salford City,1-0,1-0,Port Vale FC,2021-03-02T19:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Tranmere Rovers,0-1,0-0,Crawley Town,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Barrow AFC,2-0,0-0,Mansfield Town,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Bradford City,1-1,0-0,Bolton Wanderers,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Cambridge United,1-0,0-0,Walsall FC,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Cheltenham Town,3-2,2-0,Port Vale FC,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Salford City,1-1,1-1,Scunthorpe United,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Colchester United,0-2,0-1,Newport County,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Morecambe FC,3-1,2-0,Carlisle United,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Stevenage FC,1-0,0-0,Harrogate Town,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Grimsby Town,1-2,1-1,Forest Green Rovers,2021-03-06T15:00Z
+34,Sat Mar 6 2021,15:00,GMT/+0000,Oldham Athletic,0-0,0-0,Southend United,2021-03-06T15:00Z
+34,Sat Mar 6 2021,13:00,GMT/+0000,Exeter City,4-0,3-0,Leyton Orient,2021-03-06T13:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Southend United,0-2,0-2,Tranmere Rovers,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Scunthorpe United,0-2,0-1,Exeter City,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Port Vale FC,0-0,0-0,Oldham Athletic,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Newport County,2-1,0-0,Bradford City,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Mansfield Town,3-1,0-0,Cheltenham Town,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Crawley Town,1-0,1-0,Salford City,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Harrogate Town,3-0,2-0,Colchester United,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Forest Green Rovers,2-2,1-1,Morecambe FC,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Carlisle United,1-1,0-1,Grimsby Town,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Bolton Wanderers,2-1,2-0,Cambridge United,2021-03-09T19:00Z
+35,Tue Mar 9 2021,19:00,GMT/+0000,Leyton Orient,0-0,0-0,Stevenage FC,2021-03-09T19:00Z
+35,Fri Mar 12 2021,19:00,GMT/+0000,Walsall FC,0-1,0-0,Barrow AFC,2021-03-12T19:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Carlisle United,3-1,2-0,Bradford City,2021-03-13T15:00Z
+36,Sat Mar 13 2021,13:00,GMT/+0000,Leyton Orient,1-1,1-1,Scunthorpe United,2021-03-13T13:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Morecambe FC,1-3,1-2,Newport County,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Crawley Town,1-0,0-0,Mansfield Town,2021-03-13T15:00Z
+36,Sat Mar 13 2021,17:30,GMT/+0000,Grimsby Town,0-0,0-0,Colchester United,2021-03-13T17:30Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Forest Green Rovers,2-1,1-0,Harrogate Town,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Oldham Athletic,2-4,2-3,Cambridge United,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Port Vale FC,0-1,0-0,Bolton Wanderers,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Southend United,0-0,0-0,Stevenage FC,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Exeter City,0-1,0-0,Cheltenham Town,2021-03-13T15:00Z
+24,Tue Mar 16 2021,19:30,GMT/+0000,Mansfield Town,1-1,0-0,Carlisle United,2021-03-16T19:30Z
+29,Tue Mar 16 2021,19:00,GMT/+0000,Port Vale FC,2-1,1-0,Newport County,2021-03-16T19:00Z
+28,Tue Mar 16 2021,19:00,GMT/+0000,Scunthorpe United,1-1,0-0,Oldham Athletic,2021-03-16T19:00Z
+25,Tue Mar 16 2021,19:00,GMT/+0000,Cheltenham Town,0-2,0-1,Barrow AFC,2021-03-16T19:00Z
+26,Tue Mar 16 2021,19:00,GMT/+0000,Crawley Town,1-1,0-0,Walsall FC,2021-03-16T19:00Z
+23,Tue Mar 16 2021,19:00,GMT/+0000,Salford City,0-0,0-0,Colchester United,2021-03-16T19:00Z
+29,Wed Mar 17 2021,19:00,GMT/+0000,Grimsby Town,0-0,0-0,Tranmere Rovers,2021-03-17T19:00Z
+37,Sat Mar 20 2021,13:00,GMT/+0000,Newport County,0-1,0-0,Leyton Orient,2021-03-20T13:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Barrow AFC,3-2,2-1,Crawley Town,2021-03-20T15:00Z
+37,Sat Mar 20 2021,13:00,GMT/+0000,Stevenage FC,3-1,1-0,Carlisle United,2021-03-20T13:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Cambridge United,1-0,1-0,Forest Green Rovers,2021-03-20T15:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Bolton Wanderers,2-1,0-1,Walsall FC,2021-03-20T15:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Bradford City,0-0,0-0,Oldham Athletic,2021-03-20T15:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Cheltenham Town,2-0,2-0,Salford City,2021-03-20T15:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Colchester United,0-1,0-1,Port Vale FC,2021-03-20T15:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Harrogate Town,0-1,0-1,Morecambe FC,2021-03-20T15:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Scunthorpe United,1-1,0-0,Southend United,2021-03-20T15:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Tranmere Rovers,2-1,1-1,Exeter City,2021-03-20T15:00Z
+37,Sat Mar 20 2021,15:00,GMT/+0000,Mansfield Town,2-2,1-0,Grimsby Town,2021-03-20T15:00Z
+22,Tue Mar 23 2021,19:00,GMT/+0000,Colchester United,2-2,1-0,Tranmere Rovers,2021-03-23T19:00Z
+23,Tue Mar 23 2021,18:30,GMT/+0000,Carlisle United,0-1,0-0,Leyton Orient,2021-03-23T18:30Z
+23,Tue Mar 23 2021,19:00,GMT/+0000,Scunthorpe United,2-0,1-0,Bradford City,2021-03-23T19:00Z
+28,Tue Mar 23 2021,19:00,GMT/+0000,Southend United,0-0,0-0,Walsall FC,2021-03-23T19:00Z
+26,Tue Mar 23 2021,19:00,GMT/+0000,Barrow AFC,0-1,0-0,Grimsby Town,2021-03-23T19:00Z
+28,Tue Mar 23 2021,18:00,GMT/+0000,Mansfield Town,0-0,0-0,Forest Green Rovers,2021-03-23T18:00Z
+29,Tue Mar 23 2021,19:00,GMT/+0000,Oldham Athletic,2-1,1-0,Exeter City,2021-03-23T19:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Leyton Orient,2-1,2-0,Oldham Athletic,2021-03-27T15:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Tranmere Rovers,1-1,1-0,Mansfield Town,2021-03-27T15:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Stevenage FC,2-1,0-0,Barrow AFC,2021-03-27T15:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Morecambe FC,1-0,1-0,Cheltenham Town,2021-03-27T15:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Harrogate Town,0-1,0-0,Southend United,2021-03-27T15:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Grimsby Town,1-1,1-1,Walsall FC,2021-03-27T15:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Crawley Town,1-3,1-1,Port Vale FC,2021-03-27T15:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Colchester United,1-2,1-1,Bradford City,2021-03-27T15:00Z
+38,Sat Mar 27 2021,15:00,GMT/+0000,Carlisle United,1-2,0-1,Cambridge United,2021-03-27T15:00Z
+38,Sat Mar 27 2021,13:00,GMT/+0000,Exeter City,1-0,1-0,Salford City,2021-03-27T13:00Z
+38,Sat Mar 27 2021,12:00,GMT/+0000,Forest Green Rovers,0-1,0-1,Bolton Wanderers,2021-03-27T12:00Z
+29,Tue Mar 30 2021,19:00,BST/+0100,Carlisle United,2-0,2-0,Crawley Town,2021-03-30T18:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Port Vale FC,1-0,1-0,Exeter City,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Oldham Athletic,0-1,0-1,Stevenage FC,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Mansfield Town,0-2,0-1,Leyton Orient,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Salford City,1-1,0-1,Grimsby Town,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Cheltenham Town,4-0,3-0,Tranmere Rovers,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Walsall FC,0-0,0-0,Harrogate Town,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Cambridge United,2-1,1-0,Morecambe FC,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Bradford City,4-1,1-0,Forest Green Rovers,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Barrow AFC,2-1,0-1,Newport County,2021-04-02T14:00Z
+39,Fri Apr 2 2021,13:00,BST/+0100,Scunthorpe United,0-0,0-0,Crawley Town,2021-04-02T12:00Z
+39,Fri Apr 2 2021,13:00,BST/+0100,Bolton Wanderers,0-0,0-0,Colchester United,2021-04-02T12:00Z
+39,Sat Apr 3 2021,13:00,BST/+0100,Southend United,0-2,0-1,Carlisle United,2021-04-03T12:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Crawley Town,1-4,0-2,Oldham Athletic,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Exeter City,0-0,0-0,Mansfield Town,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Tranmere Rovers,1-1,1-0,Cambridge United,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Stevenage FC,1-1,1-1,Bradford City,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Forest Green Rovers,0-2,0-1,Salford City,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Newport County,1-0,0-0,Bolton Wanderers,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Grimsby Town,1-1,1-1,Cheltenham Town,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Harrogate Town,0-2,0-0,Port Vale FC,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Leyton Orient,0-0,0-0,Walsall FC,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Colchester United,1-1,1-0,Barrow AFC,2021-04-05T14:00Z
+40,Tue Apr 6 2021,18:30,BST/+0100,Morecambe FC,1-1,0-1,Southend United,2021-04-06T17:30Z
+40,Tue Apr 6 2021,18:30,BST/+0100,Carlisle United,2-0,0-0,Scunthorpe United,2021-04-06T17:30Z
+41,Fri Apr 9 2021,18:00,BST/+0100,Mansfield Town,1-1,0-0,Newport County,2021-04-09T17:00Z
+41,Fri Apr 9 2021,19:00,BST/+0100,Oldham Athletic,5-2,2-0,Colchester United,2021-04-09T18:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Walsall FC,2-1,1-0,Forest Green Rovers,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Barrow AFC,2-2,2-1,Carlisle United,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Bolton Wanderers,2-1,0-1,Harrogate Town,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Southend United,0-0,0-0,Crawley Town,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Bradford City,1-0,1-0,Grimsby Town,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Cambridge United,1-4,0-2,Exeter City,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Port Vale FC,1-0,1-0,Morecambe FC,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Scunthorpe United,0-0,0-0,Tranmere Rovers,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Salford City,2-1,0-0,Stevenage FC,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Cheltenham Town,1-0,1-0,Leyton Orient,2021-04-10T14:00Z
+26,Tue Apr 13 2021,19:00,BST/+0100,Newport County,0-0,0-0,Carlisle United,2021-04-13T18:00Z
+22,Tue Apr 13 2021,19:00,BST/+0100,Barrow AFC,2-1,1-0,Exeter City,2021-04-13T18:00Z
+28,Tue Apr 13 2021,19:00,BST/+0100,Salford City,0-1,0-1,Bolton Wanderers,2021-04-13T18:00Z
+29,Tue Apr 13 2021,18:30,BST/+0100,Morecambe FC,4-1,2-0,Scunthorpe United,2021-04-13T17:30Z
+29,Tue Apr 13 2021,19:00,BST/+0100,Harrogate Town,2-2,0-0,Leyton Orient,2021-04-13T18:00Z
+24,Tue Apr 13 2021,19:00,BST/+0100,Bradford City,0-2,0-1,Crawley Town,2021-04-13T18:00Z
+36,Tue Apr 13 2021,19:00,BST/+0100,Walsall FC,1-0,0-0,Tranmere Rovers,2021-04-13T18:00Z
+42,Fri Apr 16 2021,18:30,BST/+0100,Crawley Town,1-0,0-0,Cheltenham Town,2021-04-16T17:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Leyton Orient,2-0,0-0,Barrow AFC,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Harrogate Town,2-1,1-0,Bradford City,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Grimsby Town,2-1,1-0,Bolton Wanderers,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Tranmere Rovers,0-0,0-0,Salford City,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Newport County,0-1,0-0,Cambridge United,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Carlisle United,0-0,0-0,Port Vale FC,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Exeter City,0-0,0-0,Southend United,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Morecambe FC,4-3,3-1,Oldham Athletic,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Stevenage FC,0-1,0-1,Mansfield Town,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Forest Green Rovers,3-2,1-1,Scunthorpe United,2021-04-17T11:30Z
+42,Sat Apr 17 2021,17:30,BST/+0100,Colchester United,2-1,2-1,Walsall FC,2021-04-17T16:30Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Mansfield Town,3-0,1-0,Scunthorpe United,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Stevenage FC,0-1,0-1,Cheltenham Town,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Newport County,2-0,0-0,Crawley Town,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Leyton Orient,2-4,1-1,Cambridge United,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Harrogate Town,0-3,0-1,Oldham Athletic,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Barrow AFC,0-2,0-1,Port Vale FC,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Bradford City,0-1,0-1,Tranmere Rovers,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Colchester United,2-0,2-0,Southend United,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Grimsby Town,0-3,0-2,Morecambe FC,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Walsall FC,0-2,0-1,Salford City,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Forest Green Rovers,0-0,0-0,Exeter City,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Bolton Wanderers,1-0,1-0,Carlisle United,2021-04-20T18:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Salford City,2-0,1-0,Mansfield Town,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Scunthorpe United,0-2,0-2,Walsall FC,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Southend United,2-1,1-1,Leyton Orient,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Port Vale FC,2-1,2-1,Bradford City,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Crawley Town,0-0,0-0,Forest Green Rovers,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Cambridge United,0-1,0-0,Stevenage FC,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Carlisle United,1-1,0-1,Harrogate Town,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Cheltenham Town,1-0,0-0,Colchester United,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Oldham Athletic,1-2,1-1,Grimsby Town,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Exeter City,0-0,0-0,Newport County,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Morecambe FC,0-1,0-1,Bolton Wanderers,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Tranmere Rovers,1-0,0-0,Barrow AFC,2021-04-24T14:00Z
+29,Tue Apr 27 2021,19:00,BST/+0100,Bradford City,0-1,0-0,Salford City,2021-04-27T18:00Z
+29,Tue Apr 27 2021,19:00,BST/+0100,Forest Green Rovers,0-2,0-2,Barrow AFC,2021-04-27T18:00Z
+30,Tue Apr 27 2021,19:00,BST/+0100,Exeter City,3-2,1-1,Grimsby Town,2021-04-27T18:00Z
+28,Tue Apr 27 2021,19:00,BST/+0100,Cheltenham Town,1-1,0-1,Carlisle United,2021-04-27T18:00Z
+38,Tue Apr 27 2021,18:30,BST/+0100,Newport County,4-0,3-0,Scunthorpe United,2021-04-27T17:30Z
+45,Fri Apr 30 2021,19:00,BST/+0100,Harrogate Town,5-4,4-2,Cambridge United,2021-04-30T18:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Barrow AFC,1-2,1-1,Southend United,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Bolton Wanderers,1-2,1-0,Exeter City,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Bradford City,0-0,0-0,Scunthorpe United,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Colchester United,1-0,0-0,Salford City,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Stevenage FC,3-3,1-1,Crawley Town,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Walsall FC,0-2,0-1,Morecambe FC,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Forest Green Rovers,2-1,0-0,Tranmere Rovers,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Grimsby Town,1-0,1-0,Port Vale FC,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Leyton Orient,2-3,2-1,Carlisle United,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Mansfield Town,4-1,2-0,Oldham Athletic,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Newport County,1-0,1-0,Cheltenham Town,2021-05-01T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Cambridge United,3-0,1-0,Grimsby Town,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Carlisle United,0-0,0-0,Walsall FC,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Cheltenham Town,4-1,3-1,Harrogate Town,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Crawley Town,1-4,0-2,Bolton Wanderers,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Exeter City,1-1,1-0,Barrow AFC,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Morecambe FC,2-0,1-0,Bradford City,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Oldham Athletic,0-3,0-0,Forest Green Rovers,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Port Vale FC,0-3,0-2,Mansfield Town,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Salford City,3-0,1-0,Leyton Orient,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Scunthorpe United,0-1,0-0,Stevenage FC,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Southend United,1-1,1-0,Newport County,2021-05-08T14:00Z
+46,Sat May 8 2021,15:00,BST/+0100,Tranmere Rovers,0-0,0-0,Colchester United,2021-05-08T14:00Z

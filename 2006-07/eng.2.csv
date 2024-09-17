@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 5 2006,12:30,BST/+0100,Luton Town,2-0,1-0,Leicester City,2006-08-05T11:30Z
+1,Sat Aug 5 2006,15:00,BST/+0100,Barnsley FC,1-2,1-2,Cardiff City,2006-08-05T14:00Z
+1,Sat Aug 5 2006,15:00,BST/+0100,Birmingham City,2-1,1-0,Colchester United,2006-08-05T14:00Z
+1,Sat Aug 5 2006,15:00,BST/+0100,Burnley FC,2-0,0-0,Queens Park Rangers,2006-08-05T14:00Z
+1,Sat Aug 5 2006,15:00,BST/+0100,Ipswich Town,1-2,1-0,Crystal Palace,2006-08-05T14:00Z
+1,Sat Aug 5 2006,15:00,BST/+0100,Leeds United,1-0,1-0,Norwich City,2006-08-05T14:00Z
+1,Sat Aug 5 2006,15:00,BST/+0100,Plymouth Argyle,1-1,1-0,Wolverhampton Wanderers,2006-08-05T14:00Z
+1,Sat Aug 5 2006,15:00,BST/+0100,Preston North End,0-0,0-0,Sheffield Wednesday,2006-08-05T14:00Z
+1,Sat Aug 5 2006,15:00,BST/+0100,Southend United,1-0,1-0,Stoke City,2006-08-05T14:00Z
+1,Sat Aug 5 2006,15:00,BST/+0100,West Bromwich Albion,2-0,0-0,Hull City,2006-08-05T14:00Z
+1,Sun Aug 6 2006,16:00,BST/+0100,Derby County,2-2,1-0,Southampton FC,2006-08-06T15:00Z
+1,Sun Aug 6 2006,13:30,BST/+0100,Coventry City,2-1,0-0,Sunderland AFC,2006-08-06T12:30Z
+2,Tue Aug 8 2006,19:45,BST/+0100,Cardiff City,1-1,1-1,West Bromwich Albion,2006-08-08T18:45Z
+2,Tue Aug 8 2006,19:45,BST/+0100,Colchester United,0-1,0-1,Plymouth Argyle,2006-08-08T18:45Z
+2,Tue Aug 8 2006,19:45,BST/+0100,Hull City,2-3,2-1,Barnsley FC,2006-08-08T18:45Z
+2,Tue Aug 8 2006,19:45,BST/+0100,Leicester City,0-1,0-1,Burnley FC,2006-08-08T18:45Z
+2,Tue Aug 8 2006,19:45,BST/+0100,Norwich City,2-0,0-0,Preston North End,2006-08-08T18:45Z
+2,Tue Aug 8 2006,19:45,BST/+0100,Sheffield Wednesday,0-1,0-1,Luton Town,2006-08-08T18:45Z
+2,Tue Aug 8 2006,19:45,BST/+0100,Stoke City,2-0,1-0,Derby County,2006-08-08T18:45Z
+2,Tue Aug 8 2006,19:45,BST/+0100,Wolverhampton Wanderers,1-0,1-0,Ipswich Town,2006-08-08T18:45Z
+2,Tue Aug 8 2006,20:00,BST/+0100,Crystal Palace,3-1,0-1,Southend United,2006-08-08T19:00Z
+2,Tue Aug 8 2006,20:00,BST/+0100,Queens Park Rangers,2-2,0-0,Leeds United,2006-08-08T19:00Z
+2,Wed Aug 9 2006,19:45,BST/+0100,Southampton FC,2-0,0-0,Coventry City,2006-08-09T18:45Z
+2,Wed Aug 9 2006,19:45,BST/+0100,Sunderland AFC,0-1,0-1,Birmingham City,2006-08-09T18:45Z
+3,Fri Aug 11 2006,19:45,BST/+0100,Wolverhampton Wanderers,1-3,1-1,Preston North End,2006-08-11T18:45Z
+3,Sat Aug 12 2006,12:30,BST/+0100,Stoke City,0-0,0-0,Birmingham City,2006-08-12T11:30Z
+3,Sat Aug 12 2006,15:00,BST/+0100,Cardiff City,1-0,0-0,Coventry City,2006-08-12T14:00Z
+3,Sat Aug 12 2006,15:00,BST/+0100,Colchester United,1-2,1-0,Barnsley FC,2006-08-12T14:00Z
+3,Sat Aug 12 2006,15:00,BST/+0100,Leicester City,3-1,1-0,Ipswich Town,2006-08-12T14:00Z
+3,Sat Aug 12 2006,15:00,BST/+0100,Norwich City,3-2,0-1,Luton Town,2006-08-12T14:00Z
+3,Sat Aug 12 2006,15:00,BST/+0100,Queens Park Rangers,2-0,2-0,Southend United,2006-08-12T14:00Z
+3,Sat Aug 12 2006,15:00,BST/+0100,Sheffield Wednesday,1-1,0-0,Burnley FC,2006-08-12T14:00Z
+3,Sat Aug 12 2006,15:00,BST/+0100,Southampton FC,0-0,0-0,West Bromwich Albion,2006-08-12T14:00Z
+3,Sat Aug 12 2006,15:00,BST/+0100,Sunderland AFC,2-3,1-2,Plymouth Argyle,2006-08-12T14:00Z
+3,Sat Aug 12 2006,17:30,BST/+0100,Hull City,1-2,1-1,Derby County,2006-08-12T16:30Z
+3,Sun Aug 13 2006,12:00,BST/+0100,Crystal Palace,1-0,0-0,Leeds United,2006-08-13T11:00Z
+4,Fri Aug 18 2006,19:45,BST/+0100,Coventry City,0-0,0-0,Leicester City,2006-08-18T18:45Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Derby County,0-0,0-0,Norwich City,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Barnsley FC,2-2,1-0,Southampton FC,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Plymouth Argyle,1-2,1-0,Sheffield Wednesday,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Southend United,3-1,1-0,Sunderland AFC,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Preston North End,1-1,0-1,Queens Park Rangers,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Burnley FC,0-1,0-1,Wolverhampton Wanderers,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Luton Town,2-2,0-1,Stoke City,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,West Bromwich Albion,2-1,2-0,Colchester United,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Ipswich Town,0-0,0-0,Hull City,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Birmingham City,2-1,1-1,Crystal Palace,2006-08-19T14:00Z
+4,Sat Aug 19 2006,15:00,BST/+0100,Leeds United,0-1,0-0,Cardiff City,2006-08-19T14:00Z
+5,Fri Aug 25 2006,19:45,BST/+0100,Queens Park Rangers,1-3,0-0,Ipswich Town,2006-08-25T18:45Z
+5,Sat Aug 26 2006,13:00,BST/+0100,Cardiff City,2-0,1-0,Birmingham City,2006-08-26T12:00Z
+5,Sat Aug 26 2006,15:00,BST/+0100,Leicester City,1-0,1-0,Southend United,2006-08-26T14:00Z
+5,Sat Aug 26 2006,15:00,BST/+0100,Wolverhampton Wanderers,1-0,0-0,Luton Town,2006-08-26T14:00Z
+5,Sat Aug 26 2006,15:00,BST/+0100,Southampton FC,1-1,1-0,Preston North End,2006-08-26T14:00Z
+5,Sat Aug 26 2006,15:00,BST/+0100,Norwich City,5-1,2-1,Barnsley FC,2006-08-26T14:00Z
+5,Sat Aug 26 2006,15:00,BST/+0100,Stoke City,1-1,1-0,Plymouth Argyle,2006-08-26T14:00Z
+5,Sat Aug 26 2006,15:00,BST/+0100,Colchester United,4-3,2-1,Derby County,2006-08-26T14:00Z
+5,Sat Aug 26 2006,15:00,BST/+0100,Hull City,0-1,0-0,Coventry City,2006-08-26T14:00Z
+5,Sat Aug 26 2006,15:00,BST/+0100,Crystal Palace,2-2,0-1,Burnley FC,2006-08-26T14:00Z
+5,Sun Aug 27 2006,13:15,BST/+0100,Sheffield Wednesday,0-1,0-0,Leeds United,2006-08-27T12:15Z
+5,Mon Aug 28 2006,15:00,BST/+0100,Sunderland AFC,2-0,1-0,West Bromwich Albion,2006-08-28T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Coventry City,3-0,1-0,Norwich City,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Derby County,1-2,1-0,Sunderland AFC,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Barnsley FC,2-2,0-2,Stoke City,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Plymouth Argyle,1-1,1-1,Queens Park Rangers,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Southend United,0-0,0-0,Sheffield Wednesday,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Preston North End,2-1,0-0,Cardiff City,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Burnley FC,1-2,0-1,Colchester United,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Luton Town,2-1,1-0,Crystal Palace,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,West Bromwich Albion,2-0,0-0,Leicester City,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Birmingham City,2-1,1-0,Hull City,2006-09-09T14:00Z
+6,Sat Sep 9 2006,15:00,BST/+0100,Ipswich Town,2-1,0-1,Southampton FC,2006-09-09T14:00Z
+6,Sun Sep 10 2006,13:15,BST/+0100,Leeds United,0-1,0-0,Wolverhampton Wanderers,2006-09-10T12:15Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Ipswich Town,2-1,0-0,Coventry City,2006-09-12T18:45Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Luton Town,1-1,1-1,Colchester United,2006-09-12T18:45Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Burnley FC,4-2,1-2,Barnsley FC,2006-09-12T18:45Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Wolverhampton Wanderers,0-1,0-1,Derby County,2006-09-12T18:45Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Leicester City,0-1,0-0,Hull City,2006-09-12T18:45Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Sheffield Wednesday,1-1,1-1,Stoke City,2006-09-12T18:45Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Preston North End,1-0,0-0,West Bromwich Albion,2006-09-12T18:45Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Southend United,3-3,1-2,Norwich City,2006-09-12T18:45Z
+7,Tue Sep 12 2006,19:45,BST/+0100,Plymouth Argyle,3-3,0-2,Cardiff City,2006-09-12T18:45Z
+7,Tue Sep 12 2006,20:00,BST/+0100,Queens Park Rangers,0-2,0-1,Birmingham City,2006-09-12T19:00Z
+7,Tue Sep 12 2006,20:00,BST/+0100,Crystal Palace,0-2,0-1,Southampton FC,2006-09-12T19:00Z
+7,Wed Sep 13 2006,19:45,BST/+0100,Leeds United,0-3,0-2,Sunderland AFC,2006-09-13T18:45Z
+8,Fri Sep 15 2006,19:45,BST/+0100,Hull City,2-1,2-1,Sheffield Wednesday,2006-09-15T18:45Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Coventry City,1-0,1-0,Leeds United,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Derby County,1-1,1-1,Preston North End,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Barnsley FC,1-0,1-0,Wolverhampton Wanderers,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Cardiff City,4-1,2-1,Luton Town,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Colchester United,2-1,2-0,Queens Park Rangers,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Southampton FC,1-0,0-0,Plymouth Argyle,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Sunderland AFC,1-1,0-0,Leicester City,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Stoke City,0-1,0-1,Burnley FC,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Birmingham City,2-2,0-0,Ipswich Town,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,Norwich City,0-1,0-0,Crystal Palace,2006-09-16T14:00Z
+8,Sat Sep 16 2006,15:00,BST/+0100,West Bromwich Albion,1-1,0-0,Southend United,2006-09-16T14:00Z
+9,Fri Sep 22 2006,19:45,BST/+0100,Preston North End,1-0,1-0,Barnsley FC,2006-09-22T18:45Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Ipswich Town,3-1,1-1,Sunderland AFC,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Luton Town,2-2,2-1,West Bromwich Albion,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Wolverhampton Wanderers,2-0,1-0,Stoke City,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Leeds United,3-2,2-1,Birmingham City,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Leicester City,0-0,0-0,Colchester United,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Sheffield Wednesday,1-2,0-0,Derby County,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Burnley FC,2-3,2-1,Southampton FC,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Plymouth Argyle,3-1,1-0,Norwich City,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Queens Park Rangers,2-0,0-0,Hull City,2006-09-23T14:00Z
+9,Sat Sep 23 2006,15:00,BST/+0100,Crystal Palace,1-0,0-0,Coventry City,2006-09-23T14:00Z
+9,Sun Sep 24 2006,13:15,BST/+0100,Southend United,0-3,0-2,Cardiff City,2006-09-24T12:15Z
+10,Fri Sep 29 2006,19:45,BST/+0100,Colchester United,1-0,1-0,Ipswich Town,2006-09-29T18:45Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Coventry City,0-1,0-0,Plymouth Argyle,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Derby County,3-0,1-0,Southend United,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Barnsley FC,1-2,0-0,Luton Town,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Hull City,1-1,0-0,Crystal Palace,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Cardiff City,4-0,1-0,Wolverhampton Wanderers,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Southampton FC,1-2,1-2,Queens Park Rangers,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Sunderland AFC,1-0,0-0,Sheffield Wednesday,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Stoke City,1-1,1-0,Preston North End,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,Birmingham City,1-1,0-0,Leicester City,2006-09-30T14:00Z
+10,Sat Sep 30 2006,15:00,BST/+0100,West Bromwich Albion,4-2,1-0,Leeds United,2006-09-30T14:00Z
+10,Sun Oct 1 2006,13:15,BST/+0100,Norwich City,1-4,0-2,Burnley FC,2006-10-01T12:15Z
+11,Fri Oct 13 2006,19:45,BST/+0100,Southend United,2-3,1-1,Coventry City,2006-10-13T18:45Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Ipswich Town,1-5,1-2,West Bromwich Albion,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Luton Town,3-2,2-1,Birmingham City,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Wolverhampton Wanderers,1-0,0-0,Colchester United,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Sheffield Wednesday,2-1,1-0,Barnsley FC,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Leicester City,3-2,1-1,Southampton FC,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Leeds United,0-4,0-1,Stoke City,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Burnley FC,2-0,2-0,Hull City,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Preston North End,4-1,3-0,Sunderland AFC,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Queens Park Rangers,3-3,2-1,Norwich City,2006-10-14T14:00Z
+11,Sat Oct 14 2006,15:00,BST/+0100,Crystal Palace,1-2,1-1,Cardiff City,2006-10-14T14:00Z
+11,Sun Oct 15 2006,13:15,BST/+0100,Plymouth Argyle,3-1,1-1,Derby County,2006-10-15T12:15Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Leeds United,1-2,0-1,Leicester City,2006-10-17T18:45Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Hull City,0-0,0-0,Luton Town,2006-10-17T18:45Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Barnsley FC,2-2,1-2,Plymouth Argyle,2006-10-17T18:45Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Cardiff City,1-0,0-0,Southampton FC,2006-10-17T18:45Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Burnley FC,0-0,0-0,Southend United,2006-10-17T18:45Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Wolverhampton Wanderers,1-0,1-0,Coventry City,2006-10-17T18:45Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Stoke City,2-1,0-1,Sunderland AFC,2006-10-17T18:45Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Birmingham City,0-1,0-0,Norwich City,2006-10-17T18:45Z
+12,Tue Oct 17 2006,19:45,BST/+0100,Ipswich Town,2-3,2-0,Preston North End,2006-10-17T18:45Z
+12,Tue Oct 17 2006,20:00,BST/+0100,Crystal Palace,0-2,0-1,West Bromwich Albion,2006-10-17T19:00Z
+12,Tue Oct 17 2006,20:00,BST/+0100,Queens Park Rangers,1-2,1-2,Derby County,2006-10-17T19:00Z
+12,Wed Oct 18 2006,19:45,BST/+0100,Colchester United,4-0,1-0,Sheffield Wednesday,2006-10-18T18:45Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Norwich City,1-0,1-0,Cardiff City,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Luton Town,5-1,1-1,Leeds United,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Southampton FC,1-0,0-0,Stoke City,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Sunderland AFC,2-0,0-0,Barnsley FC,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Leicester City,1-1,1-1,Crystal Palace,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Sheffield Wednesday,3-2,2-0,Queens Park Rangers,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Preston North End,2-1,2-0,Hull City,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Southend United,1-3,0-1,Ipswich Town,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Plymouth Argyle,0-0,0-0,Burnley FC,2006-10-21T14:00Z
+13,Sat Oct 21 2006,15:00,BST/+0100,Derby County,0-1,0-0,Birmingham City,2006-10-21T14:00Z
+13,Sun Oct 22 2006,12:00,BST/+0100,West Bromwich Albion,3-0,2-0,Wolverhampton Wanderers,2006-10-22T11:00Z
+13,Mon Oct 23 2006,20:00,BST/+0100,Coventry City,2-1,1-0,Colchester United,2006-10-23T19:00Z
+14,Fri Oct 27 2006,19:45,BST/+0100,Burnley FC,3-2,1-0,Preston North End,2006-10-27T18:45Z
+14,Sat Oct 28 2006,12:00,BST/+0100,Birmingham City,2-0,1-0,West Bromwich Albion,2006-10-28T11:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Crystal Palace,0-1,0-1,Plymouth Argyle,2006-10-28T14:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Hull City,0-1,0-0,Sunderland AFC,2006-10-28T14:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Queens Park Rangers,1-1,0-1,Leicester City,2006-10-28T14:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Colchester United,2-0,1-0,Southampton FC,2006-10-28T14:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Cardiff City,2-2,0-0,Derby County,2006-10-28T14:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Barnsley FC,0-1,0-0,Coventry City,2006-10-28T14:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Leeds United,2-0,1-0,Southend United,2006-10-28T14:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Wolverhampton Wanderers,2-2,1-1,Sheffield Wednesday,2006-10-28T14:00Z
+14,Sat Oct 28 2006,15:00,BST/+0100,Stoke City,5-0,2-0,Norwich City,2006-10-28T14:00Z
+14,Sun Oct 29 2006,13:15,GMT/+0000,Ipswich Town,5-0,1-0,Luton Town,2006-10-29T13:15Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,West Bromwich Albion,3-3,2-1,Queens Park Rangers,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Norwich City,1-1,0-0,Colchester United,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Luton Town,0-2,0-2,Burnley FC,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Sunderland AFC,1-2,1-2,Cardiff City,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Leicester City,2-1,1-1,Stoke City,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Sheffield Wednesday,3-2,1-1,Crystal Palace,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Preston North End,4-1,2-0,Leeds United,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Plymouth Argyle,1-1,1-1,Ipswich Town,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Southend United,2-3,1-1,Hull City,2006-10-31T19:45Z
+15,Tue Oct 31 2006,19:45,GMT/+0000,Coventry City,0-1,0-1,Birmingham City,2006-10-31T19:45Z
+15,Wed Nov 1 2006,19:45,GMT/+0000,Southampton FC,2-0,1-0,Wolverhampton Wanderers,2006-11-01T19:45Z
+15,Wed Nov 1 2006,19:45,GMT/+0000,Derby County,2-1,0-1,Barnsley FC,2006-11-01T19:45Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Southampton FC,0-0,0-0,Hull City,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Wolverhampton Wanderers,3-1,3-0,Southend United,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Sheffield Wednesday,2-1,1-0,Leicester City,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Norwich City,1-0,0-0,Sunderland AFC,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Derby County,2-1,0-1,West Bromwich Albion,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Queens Park Rangers,4-2,1-2,Crystal Palace,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Barnsley FC,3-2,1-2,Leeds United,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Plymouth Argyle,0-1,0-0,Birmingham City,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Preston North End,3-0,0-0,Luton Town,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Burnley FC,1-0,0-0,Ipswich Town,2006-11-04T15:00Z
+16,Sat Nov 4 2006,15:00,GMT/+0000,Colchester United,3-1,0-0,Cardiff City,2006-11-04T15:00Z
+16,Mon Nov 6 2006,20:00,GMT/+0000,Stoke City,1-0,0-0,Coventry City,2006-11-06T20:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Southend United,0-0,0-0,Preston North End,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Cardiff City,1-0,1-0,Burnley FC,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Hull City,2-0,1-0,Wolverhampton Wanderers,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Coventry City,1-2,1-1,Derby County,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Crystal Palace,0-1,0-1,Stoke City,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Luton Town,2-3,2-1,Queens Park Rangers,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,West Bromwich Albion,0-1,0-0,Norwich City,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Ipswich Town,0-2,0-1,Sheffield Wednesday,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Leicester City,2-2,1-1,Plymouth Argyle,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Leeds United,3-0,1-0,Colchester United,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Sunderland AFC,1-1,0-0,Southampton FC,2006-11-11T15:00Z
+17,Sat Nov 11 2006,15:00,GMT/+0000,Birmingham City,2-0,1-0,Barnsley FC,2006-11-11T15:00Z
+18,Fri Nov 17 2006,19:45,GMT/+0000,Cardiff City,0-1,0-0,Queens Park Rangers,2006-11-17T19:45Z
+18,Sat Nov 18 2006,12:00,GMT/+0000,Birmingham City,1-1,1-0,Wolverhampton Wanderers,2006-11-18T12:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,Leicester City,0-1,0-1,Preston North End,2006-11-18T15:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,Sunderland AFC,3-1,1-0,Colchester United,2006-11-18T15:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,West Bromwich Albion,3-0,3-0,Burnley FC,2006-11-18T15:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,Luton Town,0-2,0-0,Derby County,2006-11-18T15:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,Crystal Palace,2-0,2-0,Barnsley FC,2006-11-18T15:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,Leeds United,0-3,0-1,Southampton FC,2006-11-18T15:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,Hull City,0-2,0-1,Stoke City,2006-11-18T15:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,Coventry City,3-1,1-1,Sheffield Wednesday,2006-11-18T15:00Z
+18,Sat Nov 18 2006,15:00,GMT/+0000,Southend United,1-1,0-1,Plymouth Argyle,2006-11-18T15:00Z
+18,Sun Nov 19 2006,11:30,GMT/+0000,Ipswich Town,3-1,1-1,Norwich City,2006-11-19T11:30Z
+19,Fri Nov 24 2006,20:00,GMT/+0000,Wolverhampton Wanderers,1-1,1-0,Sunderland AFC,2006-11-24T20:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Plymouth Argyle,1-2,1-1,Leeds United,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Colchester United,3-0,0-0,Southend United,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Burnley FC,1-2,1-1,Birmingham City,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Preston North End,0-0,0-0,Crystal Palace,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Barnsley FC,1-0,0-0,Ipswich Town,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Queens Park Rangers,0-1,0-0,Coventry City,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Derby County,1-0,0-0,Leicester City,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Stoke City,1-0,1-0,West Bromwich Albion,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Norwich City,1-1,0-0,Hull City,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Cardiff City,2006-11-25T15:00Z
+19,Sat Nov 25 2006,15:00,GMT/+0000,Southampton FC,2-1,2-0,Luton Town,2006-11-25T15:00Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Wolverhampton Wanderers,1-1,0-0,Crystal Palace,2006-11-28T19:45Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Sheffield Wednesday,3-1,2-0,West Bromwich Albion,2006-11-28T19:45Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Norwich City,3-1,1-1,Leicester City,2006-11-28T19:45Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Stoke City,3-0,0-0,Cardiff City,2006-11-28T19:45Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Burnley FC,2-1,0-0,Leeds United,2006-11-28T19:45Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Barnsley FC,2-0,1-0,Southend United,2006-11-28T19:45Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Preston North End,1-1,1-0,Coventry City,2006-11-28T19:45Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Colchester United,5-1,1-1,Hull City,2006-11-28T19:45Z
+20,Tue Nov 28 2006,19:45,GMT/+0000,Plymouth Argyle,1-0,0-0,Luton Town,2006-11-28T19:45Z
+20,Tue Nov 28 2006,20:00,GMT/+0000,Queens Park Rangers,1-2,0-2,Sunderland AFC,2006-11-28T20:00Z
+20,Wed Nov 29 2006,19:45,GMT/+0000,Southampton FC,4-3,3-0,Birmingham City,2006-11-29T19:45Z
+20,Wed Nov 29 2006,19:45,GMT/+0000,Derby County,2-1,0-1,Ipswich Town,2006-11-29T19:45Z
+21,Sat Dec 2 2006,12:00,GMT/+0000,Leeds United,2-2,2-2,Barnsley FC,2006-12-02T12:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Sunderland AFC,1-0,0-0,Norwich City,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Leicester City,1-4,0-1,Sheffield Wednesday,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Luton Town,2-0,2-0,Preston North End,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Ipswich Town,1-1,0-0,Burnley FC,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,West Bromwich Albion,1-0,0-0,Derby County,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Birmingham City,3-0,3-0,Plymouth Argyle,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Crystal Palace,3-0,2-0,Queens Park Rangers,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Coventry City,0-0,0-0,Stoke City,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Hull City,2-4,2-2,Southampton FC,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Cardiff City,0-0,0-0,Colchester United,2006-12-02T15:00Z
+21,Sat Dec 2 2006,15:00,GMT/+0000,Southend United,0-1,0-0,Wolverhampton Wanderers,2006-12-02T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Southend United,2-1,1-0,Southampton FC,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Cardiff City,2-2,1-0,Ipswich Town,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Plymouth Argyle,1-0,0-0,Hull City,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Coventry City,1-0,1-0,Burnley FC,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Crystal Palace,1-3,0-0,Colchester United,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Leeds United,0-1,0-1,Derby County,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Birmingham City,3-1,2-1,Preston North End,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Stoke City,1-0,1-0,Queens Park Rangers,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Norwich City,1-2,0-0,Sheffield Wednesday,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Sunderland AFC,2-1,1-1,Luton Town,2006-12-09T15:00Z
+22,Sat Dec 9 2006,15:00,GMT/+0000,Wolverhampton Wanderers,1-2,0-1,Leicester City,2006-12-09T15:00Z
+22,Sun Dec 10 2006,13:15,GMT/+0000,Barnsley FC,1-1,1-1,West Bromwich Albion,2006-12-10T13:15Z
+23,Fri Dec 15 2006,19:45,GMT/+0000,Luton Town,0-0,0-0,Southend United,2006-12-15T19:45Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Southampton FC,2-1,1-1,Norwich City,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Sheffield Wednesday,0-3,0-2,Birmingham City,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Leicester City,2-0,1-0,Barnsley FC,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Ipswich Town,1-0,1-0,Leeds United,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,West Bromwich Albion,5-0,3-0,Coventry City,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Derby County,1-0,1-0,Crystal Palace,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Hull City,4-1,3-0,Cardiff City,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Queens Park Rangers,0-1,0-0,Wolverhampton Wanderers,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Colchester United,3-0,2-0,Stoke City,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Preston North End,3-0,2-0,Plymouth Argyle,2006-12-16T15:00Z
+23,Sat Dec 16 2006,15:00,GMT/+0000,Burnley FC,2-2,1-0,Sunderland AFC,2006-12-16T15:00Z
+24,Fri Dec 22 2006,20:00,GMT/+0000,Crystal Palace,1-0,1-0,Sunderland AFC,2006-12-22T20:00Z
+24,Sat Dec 23 2006,12:00,GMT/+0000,Leeds United,0-0,0-0,Hull City,2006-12-23T12:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Preston North End,1-0,1-0,Colchester United,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Plymouth Argyle,2-2,2-2,West Bromwich Albion,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Southend United,0-4,0-2,Birmingham City,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Queens Park Rangers,1-0,1-0,Barnsley FC,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Ipswich Town,0-1,0-0,Stoke City,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Burnley FC,0-0,0-0,Derby County,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Luton Town,3-1,1-0,Coventry City,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Leicester City,0-0,0-0,Cardiff City,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Sheffield Wednesday,3-3,1-2,Southampton FC,2006-12-23T15:00Z
+24,Sat Dec 23 2006,15:00,GMT/+0000,Wolverhampton Wanderers,2-2,1-1,Norwich City,2006-12-23T15:00Z
+25,Tue Dec 26 2006,12:00,GMT/+0000,Southampton FC,1-1,0-0,Crystal Palace,2006-12-26T12:00Z
+25,Tue Dec 26 2006,13:00,GMT/+0000,Cardiff City,2-2,0-1,Plymouth Argyle,2006-12-26T13:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Sunderland AFC,2-0,0-0,Leeds United,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Norwich City,0-0,0-0,Southend United,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Stoke City,1-2,0-1,Sheffield Wednesday,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Birmingham City,2-1,1-1,Queens Park Rangers,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,West Bromwich Albion,4-2,2-1,Preston North End,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Coventry City,1-2,0-0,Ipswich Town,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Derby County,0-2,0-0,Wolverhampton Wanderers,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Hull City,1-2,1-0,Leicester City,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Barnsley FC,1-0,1-0,Burnley FC,2006-12-26T15:00Z
+25,Tue Dec 26 2006,15:00,GMT/+0000,Colchester United,4-1,2-0,Luton Town,2006-12-26T15:00Z
+26,Fri Dec 29 2006,19:45,GMT/+0000,Birmingham City,2-2,1-1,Luton Town,2006-12-29T19:45Z
+26,Sat Dec 30 2006,13:00,GMT/+0000,Barnsley FC,0-3,0-1,Sheffield Wednesday,2006-12-30T13:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Cardiff City,0-0,0-0,Crystal Palace,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Colchester United,2-1,2-0,Wolverhampton Wanderers,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Hull City,2-0,2-0,Burnley FC,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Derby County,1-0,0-0,Plymouth Argyle,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Coventry City,1-1,1-0,Southend United,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,West Bromwich Albion,2-0,0-0,Ipswich Town,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Stoke City,3-1,1-1,Leeds United,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Norwich City,1-0,0-0,Queens Park Rangers,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Sunderland AFC,0-1,0-1,Preston North End,2006-12-30T15:00Z
+26,Sat Dec 30 2006,15:00,GMT/+0000,Southampton FC,2-0,1-0,Leicester City,2006-12-30T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Sheffield Wednesday,1-2,0-1,Hull City,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Wolverhampton Wanderers,2-0,0-0,Barnsley FC,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Leicester City,0-2,0-0,Sunderland AFC,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Luton Town,0-0,0-0,Cardiff City,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Ipswich Town,1-0,0-0,Birmingham City,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Crystal Palace,3-1,3-1,Norwich City,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Leeds United,2-1,1-1,Coventry City,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Queens Park Rangers,1-0,1-0,Colchester United,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Preston North End,1-2,0-0,Derby County,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Southend United,3-1,3-0,West Bromwich Albion,2007-01-01T15:00Z
+27,Mon Jan 1 2007,15:00,GMT/+0000,Plymouth Argyle,1-1,0-1,Southampton FC,2007-01-01T15:00Z
+28,Fri Jan 12 2007,19:45,GMT/+0000,West Bromwich Albion,3-2,1-0,Luton Town,2007-01-12T19:45Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Sunderland AFC,1-0,1-0,Ipswich Town,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Cardiff City,0-1,0-1,Southend United,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Colchester United,1-1,0-1,Leicester City,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Coventry City,2-4,1-4,Crystal Palace,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Barnsley FC,0-1,0-0,Preston North End,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Hull City,2-1,0-1,Queens Park Rangers,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Derby County,1-0,0-0,Sheffield Wednesday,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Norwich City,1-3,1-0,Plymouth Argyle,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Stoke City,1-1,0-0,Wolverhampton Wanderers,2007-01-13T15:00Z
+28,Sat Jan 13 2007,15:00,GMT/+0000,Southampton FC,0-0,0-0,Burnley FC,2007-01-13T15:00Z
+29,Sat Jan 20 2007,15:00,GMT/+0000,Southend United,0-1,0-1,Derby County,2007-01-20T15:00Z
+29,Sat Jan 20 2007,15:00,GMT/+0000,Preston North End,3-2,0-2,Stoke City,2007-01-20T15:00Z
+29,Sat Jan 20 2007,13:00,GMT/+0000,Wolverhampton Wanderers,1-2,0-1,Cardiff City,2007-01-20T13:00Z
+29,Sat Jan 20 2007,15:00,GMT/+0000,Leeds United,2-3,1-3,West Bromwich Albion,2007-01-20T15:00Z
+29,Sat Jan 20 2007,15:00,GMT/+0000,Sheffield Wednesday,2-4,0-2,Sunderland AFC,2007-01-20T15:00Z
+29,Sat Jan 20 2007,15:00,GMT/+0000,Luton Town,0-2,0-1,Barnsley FC,2007-01-20T15:00Z
+29,Sat Jan 20 2007,15:00,GMT/+0000,Ipswich Town,3-2,1-1,Colchester United,2007-01-20T15:00Z
+29,Sat Jan 20 2007,15:00,GMT/+0000,Crystal Palace,1-1,0-0,Hull City,2007-01-20T15:00Z
+29,Sat Jan 20 2007,15:00,GMT/+0000,Queens Park Rangers,0-2,0-0,Southampton FC,2007-01-20T15:00Z
+29,Mon Jan 22 2007,19:45,GMT/+0000,Plymouth Argyle,3-2,2-1,Coventry City,2007-01-22T19:45Z
+27,Tue Jan 23 2007,19:45,GMT/+0000,Burnley FC,0-1,0-1,Stoke City,2007-01-23T19:45Z
+30,Sat Jan 27 2007,15:00,GMT/+0000,Cardiff City,3-2,1-0,Leicester City,2007-01-27T15:00Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Norwich City,0-1,0-0,Wolverhampton Wanderers,2007-01-30T19:45Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Sunderland AFC,0-0,0-0,Crystal Palace,2007-01-30T19:45Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Derby County,1-0,1-0,Burnley FC,2007-01-30T19:45Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Hull City,1-2,1-1,Leeds United,2007-01-30T19:45Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Colchester United,1-0,0-0,Preston North End,2007-01-30T19:45Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Barnsley FC,2-0,1-0,Queens Park Rangers,2007-01-30T19:45Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Coventry City,1-0,0-0,Luton Town,2007-01-30T19:45Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Birmingham City,1-3,1-1,Southend United,2007-01-30T19:45Z
+30,Tue Jan 30 2007,19:45,GMT/+0000,Stoke City,0-0,0-0,Ipswich Town,2007-01-30T19:45Z
+30,Wed Jan 31 2007,19:45,GMT/+0000,Southampton FC,2-1,1-0,Sheffield Wednesday,2007-01-31T19:45Z
+30,Wed Jan 31 2007,19:45,GMT/+0000,West Bromwich Albion,2-1,1-0,Plymouth Argyle,2007-01-31T19:45Z
+31,Fri Feb 2 2007,19:45,GMT/+0000,Cardiff City,2-0,2-0,Barnsley FC,2007-02-02T19:45Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Hull City,0-1,0-0,West Bromwich Albion,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Stoke City,1-1,1-0,Southend United,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Sheffield Wednesday,1-3,1-2,Preston North End,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Colchester United,1-1,0-0,Birmingham City,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Queens Park Rangers,3-1,1-1,Burnley FC,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Sunderland AFC,2-0,1-0,Coventry City,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Southampton FC,0-1,0-0,Derby County,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Crystal Palace,2-0,1-0,Ipswich Town,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Norwich City,2-1,0-1,Leeds United,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Leicester City,1-1,1-1,Luton Town,2007-02-03T15:00Z
+31,Sat Feb 3 2007,15:00,GMT/+0000,Wolverhampton Wanderers,2-2,1-2,Plymouth Argyle,2007-02-03T15:00Z
+32,Fri Feb 9 2007,19:45,GMT/+0000,Southend United,5-0,1-0,Queens Park Rangers,2007-02-09T19:45Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,Preston North End,0-1,0-1,Wolverhampton Wanderers,2007-02-10T15:00Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,Plymouth Argyle,0-2,0-0,Sunderland AFC,2007-02-10T15:00Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,Derby County,2-2,2-1,Hull City,2007-02-10T15:00Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,Coventry City,2-2,1-1,Cardiff City,2007-02-10T15:00Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,Barnsley FC,0-3,0-2,Colchester United,2007-02-10T15:00Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,Leeds United,2-1,1-0,Crystal Palace,2007-02-10T15:00Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,West Bromwich Albion,1-1,1-1,Southampton FC,2007-02-10T15:00Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,Ipswich Town,0-2,0-1,Leicester City,2007-02-10T15:00Z
+32,Sat Feb 10 2007,15:00,GMT/+0000,Burnley FC,1-1,0-0,Sheffield Wednesday,2007-02-10T15:00Z
+32,Sun Feb 11 2007,11:30,GMT/+0000,Birmingham City,1-0,0-0,Stoke City,2007-02-11T11:30Z
+33,Tue Feb 13 2007,19:45,GMT/+0000,Colchester United,1-2,0-0,West Bromwich Albion,2007-02-13T19:45Z
+33,Sat Feb 17 2007,15:00,GMT/+0000,Leicester City,3-0,3-0,Coventry City,2007-02-17T15:00Z
+33,Sat Feb 17 2007,15:00,GMT/+0000,Stoke City,0-0,0-0,Luton Town,2007-02-17T15:00Z
+33,Sat Feb 17 2007,15:00,GMT/+0000,Southampton FC,5-2,1-1,Barnsley FC,2007-02-17T15:00Z
+33,Sat Feb 17 2007,15:00,GMT/+0000,Wolverhampton Wanderers,2-1,2-0,Burnley FC,2007-02-17T15:00Z
+33,Sat Feb 17 2007,15:00,GMT/+0000,Crystal Palace,0-1,0-1,Birmingham City,2007-02-17T15:00Z
+33,Sat Feb 17 2007,15:00,GMT/+0000,Cardiff City,1-0,1-0,Leeds United,2007-02-17T15:00Z
+33,Sat Feb 17 2007,15:00,GMT/+0000,Sunderland AFC,4-0,2-0,Southend United,2007-02-17T15:00Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Coventry City,2-1,2-1,Southampton FC,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Burnley FC,0-1,0-0,Leicester City,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Barnsley FC,3-0,1-0,Hull City,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Ipswich Town,0-1,0-1,Wolverhampton Wanderers,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Birmingham City,1-1,0-1,Sunderland AFC,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Luton Town,3-2,1-1,Sheffield Wednesday,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Leeds United,0-0,0-0,Queens Park Rangers,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Preston North End,2-1,2-0,Norwich City,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,West Bromwich Albion,1-0,0-0,Cardiff City,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Plymouth Argyle,3-0,1-0,Colchester United,2007-02-20T19:45Z
+34,Tue Feb 20 2007,19:45,GMT/+0000,Southend United,0-1,0-0,Crystal Palace,2007-02-20T19:45Z
+34,Wed Feb 21 2007,19:45,GMT/+0000,Derby County,0-2,0-2,Stoke City,2007-02-21T19:45Z
+35,Fri Feb 23 2007,19:45,GMT/+0000,Cardiff City,4-1,1-0,Preston North End,2007-02-23T19:45Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Colchester United,0-0,0-0,Burnley FC,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Norwich City,1-1,0-1,Coventry City,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Leicester City,1-1,1-1,West Bromwich Albion,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Sheffield Wednesday,3-2,2-1,Southend United,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Sunderland AFC,2-1,1-0,Derby County,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Southampton FC,1-0,1-0,Ipswich Town,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Wolverhampton Wanderers,1-0,0-0,Leeds United,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Hull City,2-0,1-0,Birmingham City,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Crystal Palace,2-1,1-0,Luton Town,2007-02-24T15:00Z
+35,Sat Feb 24 2007,15:00,GMT/+0000,Queens Park Rangers,1-1,0-1,Plymouth Argyle,2007-02-24T15:00Z
+35,Mon Feb 26 2007,19:45,GMT/+0000,Stoke City,0-1,0-1,Barnsley FC,2007-02-26T19:45Z
+28,Tue Feb 27 2007,19:45,GMT/+0000,Birmingham City,1-0,1-0,Leeds United,2007-02-27T19:45Z
+32,Tue Feb 27 2007,19:45,GMT/+0000,Luton Town,2-3,1-1,Norwich City,2007-02-27T19:45Z
+36,Fri Mar 2 2007,19:45,GMT/+0000,Derby County,5-1,3-0,Colchester United,2007-03-02T19:45Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,Southend United,2-2,0-1,Leicester City,2007-03-03T15:00Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,West Bromwich Albion,1-2,0-1,Sunderland AFC,2007-03-03T15:00Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,Leeds United,2-3,0-2,Sheffield Wednesday,2007-03-03T15:00Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,Coventry City,2-0,2-0,Hull City,2007-03-03T15:00Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,Plymouth Argyle,1-1,1-0,Stoke City,2007-03-03T15:00Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,Barnsley FC,1-3,1-3,Norwich City,2007-03-03T15:00Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,Luton Town,2-3,2-1,Wolverhampton Wanderers,2007-03-03T15:00Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,Burnley FC,1-1,1-1,Crystal Palace,2007-03-03T15:00Z
+36,Sat Mar 3 2007,15:00,GMT/+0000,Ipswich Town,2-1,1-0,Queens Park Rangers,2007-03-03T15:00Z
+36,Sun Mar 4 2007,11:30,GMT/+0000,Birmingham City,1-0,0-0,Cardiff City,2007-03-04T11:30Z
+36,Mon Mar 5 2007,20:00,GMT/+0000,Preston North End,3-1,1-0,Southampton FC,2007-03-05T20:00Z
+33,Tue Mar 6 2007,19:45,GMT/+0000,Hull City,2-5,1-2,Ipswich Town,2007-03-06T19:45Z
+33,Tue Mar 6 2007,19:45,GMT/+0000,Sheffield Wednesday,1-1,1-0,Plymouth Argyle,2007-03-06T19:45Z
+33,Tue Mar 6 2007,19:45,GMT/+0000,Norwich City,1-2,0-0,Derby County,2007-03-06T19:45Z
+37,Fri Mar 9 2007,19:45,GMT/+0000,Birmingham City,1-0,1-0,Derby County,2007-03-09T19:45Z
+37,Sat Mar 10 2007,15:00,GMT/+0000,Leeds United,1-0,0-0,Luton Town,2007-03-10T15:00Z
+37,Sat Mar 10 2007,15:00,GMT/+0000,Ipswich Town,0-2,0-2,Southend United,2007-03-10T15:00Z
+37,Sat Mar 10 2007,15:00,GMT/+0000,Stoke City,2-1,1-1,Southampton FC,2007-03-10T15:00Z
+37,Sat Mar 10 2007,13:30,GMT/+0000,Barnsley FC,0-2,0-0,Sunderland AFC,2007-03-10T13:30Z
+37,Sat Mar 10 2007,15:00,GMT/+0000,Crystal Palace,2-0,1-0,Leicester City,2007-03-10T15:00Z
+37,Sat Mar 10 2007,15:00,GMT/+0000,Hull City,2-0,1-0,Preston North End,2007-03-10T15:00Z
+37,Sat Mar 10 2007,15:00,GMT/+0000,Queens Park Rangers,1-1,0-0,Sheffield Wednesday,2007-03-10T15:00Z
+37,Sat Mar 10 2007,15:00,GMT/+0000,Cardiff City,1-0,1-0,Norwich City,2007-03-10T15:00Z
+37,Sat Mar 10 2007,15:00,GMT/+0000,Colchester United,0-0,0-0,Coventry City,2007-03-10T15:00Z
+37,Sun Mar 11 2007,12:00,GMT/+0000,Wolverhampton Wanderers,1-0,0-0,West Bromwich Albion,2007-03-11T12:00Z
+38,Tue Mar 13 2007,20:00,GMT/+0000,Sunderland AFC,2-2,1-2,Stoke City,2007-03-13T20:00Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Sheffield Wednesday,2-0,2-0,Colchester United,2007-03-13T19:45Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Southampton FC,2-2,2-0,Cardiff City,2007-03-13T19:45Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Derby County,1-1,0-1,Queens Park Rangers,2007-03-13T19:45Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Leicester City,1-1,1-1,Leeds United,2007-03-13T19:45Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Coventry City,2-1,1-1,Wolverhampton Wanderers,2007-03-13T19:45Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Norwich City,1-0,0-0,Birmingham City,2007-03-13T19:45Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Luton Town,1-2,0-1,Hull City,2007-03-13T19:45Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Preston North End,1-0,1-0,Ipswich Town,2007-03-13T19:45Z
+38,Tue Mar 13 2007,19:45,GMT/+0000,Southend United,1-0,0-0,Burnley FC,2007-03-13T19:45Z
+38,Wed Mar 14 2007,19:45,GMT/+0000,Plymouth Argyle,2-4,2-2,Barnsley FC,2007-03-14T19:45Z
+38,Wed Mar 14 2007,19:45,GMT/+0000,West Bromwich Albion,2-3,1-2,Crystal Palace,2007-03-14T19:45Z
+39,Fri Mar 16 2007,19:45,GMT/+0000,Southampton FC,1-2,1-2,Colchester United,2007-03-16T19:45Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Plymouth Argyle,1-0,0-0,Crystal Palace,2007-03-17T15:00Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Southend United,1-1,1-0,Leeds United,2007-03-17T15:00Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Derby County,3-1,1-1,Cardiff City,2007-03-17T15:00Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Sheffield Wednesday,2-2,1-1,Wolverhampton Wanderers,2007-03-17T15:00Z
+39,Sat Mar 17 2007,13:00,GMT/+0000,Preston North End,2-0,1-0,Burnley FC,2007-03-17T13:00Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Sunderland AFC,2-0,1-0,Hull City,2007-03-17T15:00Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Norwich City,1-0,1-0,Stoke City,2007-03-17T15:00Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Leicester City,1-3,0-0,Queens Park Rangers,2007-03-17T15:00Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Luton Town,0-2,0-1,Ipswich Town,2007-03-17T15:00Z
+39,Sat Mar 17 2007,15:00,GMT/+0000,Coventry City,4-1,3-0,Barnsley FC,2007-03-17T15:00Z
+39,Sun Mar 18 2007,11:30,GMT/+0000,West Bromwich Albion,1-1,0-0,Birmingham City,2007-03-18T11:30Z
+40,Fri Mar 30 2007,19:45,BST/+0100,Leeds United,2-1,0-1,Preston North End,2007-03-30T18:45Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Ipswich Town,3-0,2-0,Plymouth Argyle,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Stoke City,4-2,2-1,Leicester City,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Hull City,4-0,1-0,Southend United,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Wolverhampton Wanderers,0-6,0-3,Southampton FC,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Burnley FC,0-0,0-0,Luton Town,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Colchester United,3-0,0-0,Norwich City,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Cardiff City,0-1,0-0,Sunderland AFC,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Barnsley FC,1-2,0-1,Derby County,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Queens Park Rangers,1-2,0-0,West Bromwich Albion,2007-03-31T14:00Z
+40,Sat Mar 31 2007,15:00,BST/+0100,Crystal Palace,1-2,0-0,Sheffield Wednesday,2007-03-31T14:00Z
+40,Sun Apr 1 2007,14:00,BST/+0100,Birmingham City,3-0,1-0,Coventry City,2007-04-01T13:00Z
+33,Tue Apr 3 2007,19:45,BST/+0100,Queens Park Rangers,1-0,0-0,Preston North End,2007-04-03T18:45Z
+37,Tue Apr 3 2007,19:45,BST/+0100,Burnley FC,4-0,3-0,Plymouth Argyle,2007-04-03T18:45Z
+41,Fri Apr 6 2007,15:00,BST/+0100,Hull City,1-2,0-1,Norwich City,2007-04-06T14:00Z
+41,Fri Apr 6 2007,14:45,BST/+0100,Leicester City,1-1,0-1,Derby County,2007-04-06T13:45Z
+41,Fri Apr 6 2007,12:30,BST/+0100,Southend United,0-3,0-1,Colchester United,2007-04-06T11:30Z
+41,Sat Apr 7 2007,15:00,BST/+0100,Birmingham City,0-1,0-0,Burnley FC,2007-04-07T14:00Z
+41,Sat Apr 7 2007,15:00,BST/+0100,Coventry City,0-1,0-0,Queens Park Rangers,2007-04-07T14:00Z
+41,Sat Apr 7 2007,15:00,BST/+0100,Sunderland AFC,2-1,1-0,Wolverhampton Wanderers,2007-04-07T14:00Z
+41,Sat Apr 7 2007,15:00,BST/+0100,Leeds United,2-1,1-1,Plymouth Argyle,2007-04-07T14:00Z
+41,Sat Apr 7 2007,15:00,BST/+0100,West Bromwich Albion,1-3,0-3,Stoke City,2007-04-07T14:00Z
+41,Sat Apr 7 2007,15:00,BST/+0100,Cardiff City,1-2,1-1,Sheffield Wednesday,2007-04-07T14:00Z
+41,Sat Apr 7 2007,15:00,BST/+0100,Ipswich Town,5-1,2-0,Barnsley FC,2007-04-07T14:00Z
+41,Sat Apr 7 2007,15:00,BST/+0100,Luton Town,0-2,0-2,Southampton FC,2007-04-07T14:00Z
+41,Sat Apr 7 2007,15:00,BST/+0100,Crystal Palace,3-0,2-0,Preston North End,2007-04-07T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Derby County,1-1,0-0,Coventry City,2007-04-09T14:00Z
+42,Mon Apr 9 2007,17:15,BST/+0100,Southampton FC,1-2,0-0,Sunderland AFC,2007-04-09T16:15Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Plymouth Argyle,3-0,1-0,Leicester City,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Preston North End,2-3,0-1,Southend United,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Colchester United,2-1,0-0,Leeds United,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Burnley FC,2-0,1-0,Cardiff City,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Queens Park Rangers,3-2,1-1,Luton Town,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Barnsley FC,1-0,0-0,Birmingham City,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Wolverhampton Wanderers,3-1,2-0,Hull City,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Stoke City,2-1,2-1,Crystal Palace,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Norwich City,1-2,0-0,West Bromwich Albion,2007-04-09T14:00Z
+42,Mon Apr 9 2007,15:00,BST/+0100,Sheffield Wednesday,2-0,0-0,Ipswich Town,2007-04-09T14:00Z
+43,Fri Apr 13 2007,19:45,BST/+0100,West Bromwich Albion,0-1,0-0,Sheffield Wednesday,2007-04-13T18:45Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Cardiff City,1-1,0-1,Stoke City,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Southend United,1-3,0-2,Barnsley FC,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Sunderland AFC,2-1,1-1,Queens Park Rangers,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Leicester City,1-2,1-0,Norwich City,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Leeds United,1-0,1-0,Burnley FC,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Luton Town,1-2,0-2,Plymouth Argyle,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Ipswich Town,2-1,0-1,Derby County,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Birmingham City,2-1,1-0,Southampton FC,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Coventry City,0-4,0-2,Preston North End,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Crystal Palace,2-2,2-2,Wolverhampton Wanderers,2007-04-14T14:00Z
+43,Sat Apr 14 2007,15:00,BST/+0100,Hull City,1-1,1-0,Colchester United,2007-04-14T14:00Z
+29,Tue Apr 17 2007,19:45,BST/+0100,Leicester City,1-2,0-2,Birmingham City,2007-04-17T18:45Z
+29,Tue Apr 17 2007,19:45,BST/+0100,Burnley FC,3-0,1-0,Norwich City,2007-04-17T18:45Z
+44,Fri Apr 20 2007,19:45,BST/+0100,Derby County,1-0,1-0,Luton Town,2007-04-20T18:45Z
+44,Sat Apr 21 2007,15:00,BST/+0100,Plymouth Argyle,2-1,1-1,Southend United,2007-04-21T14:00Z
+44,Sat Apr 21 2007,15:00,BST/+0100,Preston North End,0-1,0-0,Leicester City,2007-04-21T14:00Z
+44,Sat Apr 21 2007,15:00,BST/+0100,Colchester United,3-1,1-0,Sunderland AFC,2007-04-21T14:00Z
+44,Sat Apr 21 2007,15:00,BST/+0100,Queens Park Rangers,1-0,1-0,Cardiff City,2007-04-21T14:00Z
+44,Sat Apr 21 2007,15:00,BST/+0100,Stoke City,1-1,1-0,Hull City,2007-04-21T14:00Z
+44,Sat Apr 21 2007,15:00,BST/+0100,Barnsley FC,2-0,1-0,Crystal Palace,2007-04-21T14:00Z
+44,Sat Apr 21 2007,15:00,BST/+0100,Sheffield Wednesday,2-1,1-1,Coventry City,2007-04-21T14:00Z
+44,Sat Apr 21 2007,15:00,BST/+0100,Southampton FC,1-0,0-0,Leeds United,2007-04-21T14:00Z
+44,Sun Apr 22 2007,12:00,BST/+0100,Wolverhampton Wanderers,2-3,0-0,Birmingham City,2007-04-22T11:00Z
+44,Sun Apr 22 2007,12:00,BST/+0100,Norwich City,1-1,1-0,Ipswich Town,2007-04-22T11:00Z
+44,Mon Apr 23 2007,19:45,BST/+0100,Burnley FC,3-2,1-2,West Bromwich Albion,2007-04-23T18:45Z
+45,Fri Apr 27 2007,19:45,BST/+0100,Sunderland AFC,3-2,1-1,Burnley FC,2007-04-27T18:45Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Wolverhampton Wanderers,2-0,0-0,Queens Park Rangers,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Leeds United,1-1,1-0,Ipswich Town,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Norwich City,0-1,0-1,Southampton FC,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Stoke City,3-1,0-1,Colchester United,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Birmingham City,2-0,0-0,Sheffield Wednesday,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Coventry City,0-1,0-1,West Bromwich Albion,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Barnsley FC,0-1,0-0,Leicester City,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Plymouth Argyle,2-0,0-0,Preston North End,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Cardiff City,0-1,0-0,Hull City,2007-04-28T14:00Z
+45,Sat Apr 28 2007,15:00,BST/+0100,Southend United,1-3,0-2,Luton Town,2007-04-28T14:00Z
+45,Sun Apr 29 2007,13:30,BST/+0100,Crystal Palace,2-0,1-0,Derby County,2007-04-29T12:30Z
+46,Sun May 6 2007,13:00,BST/+0100,Colchester United,0-2,0-1,Crystal Palace,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Preston North End,1-0,0-0,Birmingham City,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Hull City,1-2,0-1,Plymouth Argyle,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Queens Park Rangers,1-1,1-0,Stoke City,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Derby County,2-0,1-0,Leeds United,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,West Bromwich Albion,7-0,4-0,Barnsley FC,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Ipswich Town,3-1,1-1,Cardiff City,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Luton Town,0-5,0-2,Sunderland AFC,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Burnley FC,1-2,0-1,Coventry City,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Leicester City,1-4,1-2,Wolverhampton Wanderers,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Sheffield Wednesday,3-2,2-0,Norwich City,2007-05-06T12:00Z
+46,Sun May 6 2007,13:00,BST/+0100,Southampton FC,4-1,1-1,Southend United,2007-05-06T12:00Z

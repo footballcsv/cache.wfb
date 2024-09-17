@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 7 2004,15:00,BST/+0100,Bristol City,1-1,0-0,Torquay United,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Chesterfield FC,3-1,1-0,Brentford FC,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Doncaster Rovers,2-0,1-0,Blackpool FC,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Hartlepool United,2-1,0-0,Bradford City,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Hull City,1-0,1-0,AFC Bournemouth,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Luton Town,2-1,1-1,Oldham Athletic,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Milton Keynes Dons,1-1,0-1,Barnsley FC,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Peterborough United,1-0,0-0,Tranmere Rovers,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Sheffield Wednesday,0-3,0-0,Colchester United,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Stockport County,2-3,0-1,Huddersfield Town,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Walsall FC,3-2,1-0,Port Vale FC,2004-08-07T14:00Z
+1,Sat Aug 7 2004,15:00,BST/+0100,Wrexham AFC,2-1,1-0,Swindon Town,2004-08-07T14:00Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Barnsley FC,2-1,0-0,Bristol City,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Blackpool FC,1-2,0-1,Sheffield Wednesday,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,AFC Bournemouth,2-2,0-1,Walsall FC,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Bradford City,2-2,1-1,Peterborough United,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Brentford FC,4-3,1-2,Doncaster Rovers,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Colchester United,3-2,3-0,Stockport County,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Huddersfield Town,0-0,0-0,Chesterfield FC,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Oldham Athletic,2-3,0-2,Wrexham AFC,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Port Vale FC,3-2,1-1,Milton Keynes Dons,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Torquay United,0-3,0-2,Hull City,2004-08-10T18:45Z
+2,Tue Aug 10 2004,19:45,BST/+0100,Tranmere Rovers,2-1,1-1,Hartlepool United,2004-08-10T18:45Z
+2,Wed Aug 11 2004,19:45,BST/+0100,Swindon Town,2-3,1-2,Luton Town,2004-08-11T18:45Z
+3,Sat Aug 14 2004,15:00,BST/+0100,AFC Bournemouth,2-2,1-0,Bristol City,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Barnsley FC,3-4,1-3,Luton Town,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Blackpool FC,0-4,0-2,Stockport County,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Bradford City,2-0,2-0,Doncaster Rovers,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Brentford FC,1-0,0-0,Wrexham AFC,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Colchester United,2-1,0-1,Peterborough United,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Oldham Athletic,5-3,2-2,Walsall FC,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Port Vale FC,3-2,1-1,Hull City,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Swindon Town,2-1,1-1,Milton Keynes Dons,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Torquay United,2-4,1-1,Sheffield Wednesday,2004-08-14T14:00Z
+3,Sat Aug 14 2004,15:00,BST/+0100,Tranmere Rovers,1-0,1-0,Chesterfield FC,2004-08-14T14:00Z
+3,Mon Aug 16 2004,20:00,BST/+0100,Huddersfield Town,0-2,0-0,Hartlepool United,2004-08-16T19:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Bristol City,1-2,1-1,Swindon Town,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Chesterfield FC,2-1,1-1,Colchester United,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Doncaster Rovers,0-0,0-0,Tranmere Rovers,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Hartlepool United,1-1,1-0,Blackpool FC,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Hull City,2-0,2-0,Oldham Athletic,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Luton Town,1-0,1-0,Torquay United,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Milton Keynes Dons,1-3,0-1,AFC Bournemouth,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Peterborough United,3-0,1-0,Brentford FC,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Sheffield Wednesday,1-0,1-0,Huddersfield Town,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Stockport County,0-1,0-0,Bradford City,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Walsall FC,2-2,1-1,Barnsley FC,2004-08-21T14:00Z
+4,Sat Aug 21 2004,15:00,BST/+0100,Wrexham AFC,1-1,0-0,Port Vale FC,2004-08-21T14:00Z
+5,Fri Aug 27 2004,19:45,BST/+0100,Tranmere Rovers,4-2,3-2,Sheffield Wednesday,2004-08-27T18:45Z
+5,Sat Aug 28 2004,15:00,BST/+0100,AFC Bournemouth,1-0,1-0,Wrexham AFC,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Barnsley FC,1-2,1-0,Hull City,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Blackpool FC,1-3,1-0,Luton Town,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Bradford City,2-3,1-0,Chesterfield FC,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Brentford FC,3-0,3-0,Stockport County,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Colchester United,4-1,3-1,Doncaster Rovers,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Huddersfield Town,2-1,1-1,Peterborough United,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Oldham Athletic,3-0,2-0,Milton Keynes Dons,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Port Vale FC,3-0,2-0,Bristol City,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Swindon Town,3-0,3-0,Hartlepool United,2004-08-28T14:00Z
+5,Sat Aug 28 2004,15:00,BST/+0100,Torquay United,0-0,0-0,Walsall FC,2004-08-28T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Bristol City,4-1,1-0,Brentford FC,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Doncaster Rovers,2-1,1-0,Huddersfield Town,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Hartlepool United,2-1,1-0,Colchester United,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Luton Town,1-0,0-0,AFC Bournemouth,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Milton Keynes Dons,1-0,1-0,Torquay United,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Peterborough United,0-0,0-0,Blackpool FC,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Sheffield Wednesday,1-1,0-0,Oldham Athletic,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Stockport County,1-1,0-0,Tranmere Rovers,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Walsall FC,3-2,2-2,Swindon Town,2004-08-30T14:00Z
+6,Mon Aug 30 2004,15:00,BST/+0100,Wrexham AFC,2-1,1-0,Barnsley FC,2004-08-30T14:00Z
+6,Tue Aug 31 2004,19:45,BST/+0100,Hull City,0-1,0-0,Bradford City,2004-08-31T18:45Z
+6,Tue Aug 31 2004,19:30,BST/+0100,Chesterfield FC,1-0,0-0,Port Vale FC,2004-08-31T18:30Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Sheffield Wednesday,0-0,0-0,Luton Town,2004-09-04T14:00Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Stockport County,0-2,0-1,Torquay United,2004-09-04T14:00Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Bradford City,0-2,0-1,Port Vale FC,2004-09-04T14:00Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Brentford FC,2-1,1-0,AFC Bournemouth,2004-09-04T14:00Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Chesterfield FC,2-2,1-0,Milton Keynes Dons,2004-09-04T14:00Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Colchester United,0-1,0-1,Swindon Town,2004-09-04T14:00Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Doncaster Rovers,3-1,1-0,Walsall FC,2004-09-04T14:00Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Hartlepool United,1-1,0-1,Barnsley FC,2004-09-04T14:00Z
+7,Sat Sep 4 2004,15:00,BST/+0100,Peterborough United,0-1,0-0,Bristol City,2004-09-04T14:00Z
+7,Sun Sep 5 2004,12:00,BST/+0100,Huddersfield Town,4-0,2-0,Hull City,2004-09-05T11:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Walsall FC,1-1,1-1,Sheffield Wednesday,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Wrexham AFC,1-0,1-0,Bradford City,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,AFC Bournemouth,1-3,0-2,Colchester United,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Barnsley FC,0-0,0-0,Tranmere Rovers,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Bristol City,5-0,3-0,Stockport County,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Hull City,2-1,1-1,Blackpool FC,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Luton Town,1-0,0-0,Chesterfield FC,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Milton Keynes Dons,0-1,0-0,Doncaster Rovers,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Oldham Athletic,3-2,1-0,Hartlepool United,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Port Vale FC,0-3,0-0,Huddersfield Town,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Swindon Town,0-1,0-1,Peterborough United,2004-09-11T14:00Z
+8,Sat Sep 11 2004,15:00,BST/+0100,Torquay United,2-2,1-0,Brentford FC,2004-09-11T14:00Z
+7,Tue Sep 14 2004,19:45,BST/+0100,Tranmere Rovers,2-0,0-0,Oldham Athletic,2004-09-14T18:45Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Stockport County,1-3,0-2,Luton Town,2004-09-18T14:00Z
+9,Sat Sep 18 2004,13:00,BST/+0100,Tranmere Rovers,1-1,0-1,Wrexham AFC,2004-09-18T12:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Blackpool FC,1-1,1-0,Swindon Town,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Bradford City,4-1,2-0,Bristol City,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Brentford FC,1-0,1-0,Port Vale FC,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Chesterfield FC,1-0,1-0,Walsall FC,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Colchester United,0-1,0-1,Milton Keynes Dons,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Doncaster Rovers,1-1,1-1,Oldham Athletic,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Hartlepool United,4-1,1-1,Torquay United,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Huddersfield Town,0-2,0-2,Barnsley FC,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Peterborough United,2-3,1-1,Hull City,2004-09-18T14:00Z
+9,Sat Sep 18 2004,15:00,BST/+0100,Sheffield Wednesday,0-1,0-1,AFC Bournemouth,2004-09-18T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Wrexham AFC,0-3,0-1,Sheffield Wednesday,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,AFC Bournemouth,5-0,4-0,Doncaster Rovers,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Barnsley FC,1-0,0-0,Chesterfield FC,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Bristol City,3-3,1-2,Huddersfield Town,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Hull City,0-0,0-0,Stockport County,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Luton Town,2-1,1-0,Peterborough United,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Milton Keynes Dons,4-2,1-1,Hartlepool United,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Oldham Athletic,1-1,1-0,Colchester United,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Port Vale FC,0-3,0-2,Blackpool FC,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Swindon Town,1-0,0-0,Bradford City,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Torquay United,1-2,0-1,Tranmere Rovers,2004-09-25T14:00Z
+10,Sat Sep 25 2004,15:00,BST/+0100,Walsall FC,0-1,0-1,Brentford FC,2004-09-25T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Bradford City,1-0,0-0,Barnsley FC,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Blackpool FC,3-3,3-2,AFC Bournemouth,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Stockport County,3-3,0-2,Swindon Town,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Brentford FC,2-0,1-0,Oldham Athletic,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Chesterfield FC,2-2,1-0,Bristol City,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Colchester United,2-1,2-0,Port Vale FC,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Doncaster Rovers,0-0,0-0,Wrexham AFC,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Hartlepool United,2-0,1-0,Hull City,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Huddersfield Town,3-1,2-0,Walsall FC,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Peterborough United,1-1,1-1,Torquay United,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Sheffield Wednesday,1-1,0-0,Milton Keynes Dons,2004-10-02T14:00Z
+11,Sat Oct 2 2004,15:00,BST/+0100,Tranmere Rovers,1-1,1-0,Luton Town,2004-10-02T14:00Z
+12,Fri Oct 8 2004,19:45,BST/+0100,Port Vale FC,2-0,2-0,Doncaster Rovers,2004-10-08T18:45Z
+12,Fri Oct 8 2004,19:45,BST/+0100,AFC Bournemouth,2-1,2-0,Stockport County,2004-10-08T18:45Z
+12,Fri Oct 8 2004,19:45,BST/+0100,Luton Town,3-0,1-0,Hartlepool United,2004-10-08T18:45Z
+12,Fri Oct 8 2004,19:45,BST/+0100,Milton Keynes Dons,1-2,1-0,Bradford City,2004-10-08T18:45Z
+12,Sat Oct 9 2004,13:00,BST/+0100,Walsall FC,2-1,0-0,Colchester United,2004-10-09T12:00Z
+12,Sat Oct 9 2004,12:00,BST/+0100,Barnsley FC,0-0,0-0,Brentford FC,2004-10-09T11:00Z
+12,Sat Oct 9 2004,13:00,BST/+0100,Torquay United,2-1,0-1,Huddersfield Town,2004-10-09T12:00Z
+12,Sun Oct 10 2004,12:15,BST/+0100,Hull City,1-0,0-0,Chesterfield FC,2004-10-10T11:15Z
+12,Sun Oct 10 2004,14:00,BST/+0100,Oldham Athletic,1-2,1-1,Blackpool FC,2004-10-10T13:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Tranmere Rovers,4-5,1-1,Bradford City,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Wrexham AFC,1-1,1-0,Walsall FC,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Swindon Town,1-0,1-0,Oldham Athletic,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Stockport County,1-0,0-0,Peterborough United,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,AFC Bournemouth,4-0,3-0,Port Vale FC,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Blackpool FC,1-1,1-0,Colchester United,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Bristol City,3-1,1-0,Hull City,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Doncaster Rovers,2-2,2-1,Torquay United,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Hartlepool United,3-2,2-1,Chesterfield FC,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Luton Town,1-2,0-2,Huddersfield Town,2004-10-16T14:00Z
+13,Sat Oct 16 2004,15:00,BST/+0100,Milton Keynes Dons,0-0,0-0,Brentford FC,2004-10-16T14:00Z
+13,Sun Oct 17 2004,14:00,BST/+0100,Sheffield Wednesday,1-0,1-0,Barnsley FC,2004-10-17T13:00Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Peterborough United,1-1,1-0,Sheffield Wednesday,2004-10-19T18:45Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Oldham Athletic,0-0,0-0,Bristol City,2004-10-19T18:45Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Port Vale FC,1-0,0-0,Swindon Town,2004-10-19T18:45Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Walsall FC,2-0,1-0,Luton Town,2004-10-19T18:45Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Bradford City,2-1,1-0,Blackpool FC,2004-10-19T18:45Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Brentford FC,2-1,1-1,Hartlepool United,2004-10-19T18:45Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Colchester United,1-2,0-0,Wrexham AFC,2004-10-19T18:45Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Huddersfield Town,1-3,1-1,Tranmere Rovers,2004-10-19T18:45Z
+14,Tue Oct 19 2004,19:45,BST/+0100,Torquay United,1-2,0-0,AFC Bournemouth,2004-10-19T18:45Z
+14,Wed Oct 20 2004,19:30,BST/+0100,Chesterfield FC,4-0,2-0,Stockport County,2004-10-20T18:30Z
+14,Wed Oct 20 2004,19:45,BST/+0100,Hull City,3-2,1-1,Milton Keynes Dons,2004-10-20T18:45Z
+14,Wed Oct 20 2004,19:45,BST/+0100,Barnsley FC,1-3,0-1,Doncaster Rovers,2004-10-20T18:45Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Port Vale FC,0-0,0-0,Stockport County,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Walsall FC,1-2,0-0,Bristol City,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Chesterfield FC,0-0,0-0,Doncaster Rovers,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Peterborough United,3-0,2-0,Hartlepool United,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Barnsley FC,2-2,1-1,Swindon Town,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Bradford City,3-1,0-0,Sheffield Wednesday,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Brentford FC,0-3,0-1,Blackpool FC,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Oldham Athletic,1-2,1-0,AFC Bournemouth,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Colchester United,1-2,0-1,Tranmere Rovers,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Huddersfield Town,3-1,3-0,Milton Keynes Dons,2004-10-23T14:00Z
+15,Sat Oct 23 2004,15:00,BST/+0100,Hull City,3-0,3-0,Luton Town,2004-10-23T14:00Z
+12,Tue Oct 26 2004,19:45,BST/+0100,Wrexham AFC,1-1,0-0,Peterborough United,2004-10-26T18:45Z
+12,Wed Oct 27 2004,19:45,BST/+0100,Swindon Town,3-2,0-1,Sheffield Wednesday,2004-10-27T18:45Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Tranmere Rovers,1-0,0-0,Brentford FC,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Stockport County,1-2,1-2,Oldham Athletic,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Swindon Town,3-3,3-1,Torquay United,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,AFC Bournemouth,1-3,0-2,Barnsley FC,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Blackpool FC,1-1,0-1,Huddersfield Town,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Bristol City,0-0,0-0,Colchester United,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Doncaster Rovers,2-1,1-1,Peterborough United,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Hartlepool United,1-0,1-0,Port Vale FC,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Luton Town,4-0,3-0,Bradford City,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Milton Keynes Dons,1-1,1-1,Walsall FC,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Sheffield Wednesday,2-2,2-1,Chesterfield FC,2004-10-30T14:00Z
+16,Sat Oct 30 2004,15:00,BST/+0100,Wrexham AFC,2-2,2-1,Hull City,2004-10-30T14:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Tranmere Rovers,2-1,1-0,Swindon Town,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Torquay United,2-0,1-0,Oldham Athletic,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Stockport County,0-3,0-1,Sheffield Wednesday,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Barnsley FC,1-2,1-0,Port Vale FC,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Bradford City,2-2,1-2,Colchester United,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Bristol City,4-1,3-0,Milton Keynes Dons,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Chesterfield FC,1-0,0-0,Blackpool FC,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Hartlepool United,2-1,0-1,Doncaster Rovers,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Hull City,3-1,3-0,Walsall FC,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Luton Town,5-1,4-0,Wrexham AFC,2004-11-06T15:00Z
+17,Sat Nov 6 2004,15:00,GMT/+0000,Peterborough United,0-1,0-1,AFC Bournemouth,2004-11-06T15:00Z
+17,Sun Nov 7 2004,15:00,GMT/+0000,Huddersfield Town,1-1,0-0,Brentford FC,2004-11-07T15:00Z
+12,Tue Nov 9 2004,19:45,GMT/+0000,Bristol City,4-0,2-0,Tranmere Rovers,2004-11-09T19:45Z
+7,Tue Nov 9 2004,19:45,GMT/+0000,Blackpool FC,2-1,0-1,Wrexham AFC,2004-11-09T19:45Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Wrexham AFC,1-3,0-2,Bristol City,2004-11-20T15:00Z
+18,Sat Nov 20 2004,12:30,GMT/+0000,Milton Keynes Dons,1-4,1-2,Luton Town,2004-11-20T12:30Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,AFC Bournemouth,0-0,0-0,Chesterfield FC,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Blackpool FC,0-1,0-1,Tranmere Rovers,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Brentford FC,1-2,0-1,Bradford City,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Colchester United,0-0,0-0,Huddersfield Town,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Doncaster Rovers,3-1,1-0,Stockport County,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Oldham Athletic,3-2,1-1,Barnsley FC,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Port Vale FC,1-2,0-1,Torquay United,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Sheffield Wednesday,2-0,0-0,Hartlepool United,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Swindon Town,4-2,1-1,Hull City,2004-11-20T15:00Z
+18,Sat Nov 20 2004,15:00,GMT/+0000,Walsall FC,2-1,0-1,Peterborough United,2004-11-20T15:00Z
+15,Tue Nov 23 2004,19:45,GMT/+0000,Torquay United,1-0,1-0,Wrexham AFC,2004-11-23T19:45Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Barnsley FC,1-0,0-0,Blackpool FC,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Bradford City,1-3,1-1,Oldham Athletic,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Bristol City,1-4,0-1,Sheffield Wednesday,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Chesterfield FC,1-0,0-0,Swindon Town,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Hartlepool United,3-2,1-2,AFC Bournemouth,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Huddersfield Town,1-2,1-1,Wrexham AFC,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Hull City,2-0,1-0,Brentford FC,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Luton Town,1-1,0-0,Doncaster Rovers,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Peterborough United,4-0,1-0,Port Vale FC,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Stockport County,0-1,0-1,Walsall FC,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Torquay United,1-3,0-0,Colchester United,2004-11-27T15:00Z
+19,Sat Nov 27 2004,15:00,GMT/+0000,Tranmere Rovers,2-0,0-0,Milton Keynes Dons,2004-11-27T15:00Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,AFC Bournemouth,2-0,2-0,Bradford City,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Wrexham AFC,2-1,1-1,Stockport County,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Blackpool FC,4-0,1-0,Torquay United,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Brentford FC,2-0,1-0,Luton Town,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Colchester United,0-2,0-1,Barnsley FC,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Doncaster Rovers,1-1,1-1,Bristol City,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Milton Keynes Dons,1-1,0-1,Peterborough United,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Oldham Athletic,4-1,2-0,Chesterfield FC,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Port Vale FC,3-1,2-0,Tranmere Rovers,2004-12-07T19:45Z
+20,Tue Dec 7 2004,19:45,GMT/+0000,Walsall FC,2-1,0-1,Hartlepool United,2004-12-07T19:45Z
+20,Wed Dec 8 2004,19:45,GMT/+0000,Swindon Town,1-2,0-2,Huddersfield Town,2004-12-08T19:45Z
+20,Wed Dec 8 2004,19:45,GMT/+0000,Sheffield Wednesday,2-4,1-3,Hull City,2004-12-08T19:45Z
+21,Fri Dec 10 2004,19:45,GMT/+0000,Tranmere Rovers,2-0,1-0,AFC Bournemouth,2004-12-10T19:45Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Blackpool FC,1-1,1-1,Bristol City,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Bradford City,1-1,0-0,Walsall FC,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Colchester United,1-2,0-1,Hull City,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Hartlepool United,3-1,1-1,Stockport County,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Luton Town,1-0,0-0,Port Vale FC,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Milton Keynes Dons,3-0,1-0,Wrexham AFC,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Oldham Athletic,2-1,2-1,Huddersfield Town,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Peterborough United,1-2,0-1,Chesterfield FC,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Sheffield Wednesday,1-2,1-0,Brentford FC,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Swindon Town,1-1,0-1,Doncaster Rovers,2004-12-11T15:00Z
+21,Sat Dec 11 2004,15:00,GMT/+0000,Torquay United,0-1,0-1,Barnsley FC,2004-12-11T15:00Z
+22,Sat Dec 18 2004,12:00,GMT/+0000,Huddersfield Town,0-1,0-1,Bradford City,2004-12-18T12:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,AFC Bournemouth,2-1,0-0,Swindon Town,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Barnsley FC,4-0,1-0,Peterborough United,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Brentford FC,1-0,1-0,Colchester United,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Bristol City,1-2,0-1,Luton Town,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Chesterfield FC,1-1,0-0,Torquay United,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Hull City,6-1,1-0,Tranmere Rovers,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Port Vale FC,3-1,1-1,Oldham Athletic,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Stockport County,3-1,2-0,Milton Keynes Dons,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Walsall FC,3-2,1-1,Blackpool FC,2004-12-18T15:00Z
+22,Sat Dec 18 2004,15:00,GMT/+0000,Wrexham AFC,1-5,1-4,Hartlepool United,2004-12-18T15:00Z
+22,Sun Dec 19 2004,12:00,GMT/+0000,Doncaster Rovers,0-4,0-2,Sheffield Wednesday,2004-12-19T12:00Z
+23,Sun Dec 26 2004,13:00,GMT/+0000,Brentford FC,1-3,1-0,Torquay United,2004-12-26T13:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Blackpool FC,0-2,0-0,Hull City,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Bradford City,1-1,0-0,Wrexham AFC,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Chesterfield FC,0-1,0-0,Luton Town,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Doncaster Rovers,3-0,1-0,Milton Keynes Dons,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Hartlepool United,2-1,2-0,Oldham Athletic,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Huddersfield Town,2-1,2-1,Port Vale FC,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Peterborough United,0-2,0-0,Swindon Town,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Sheffield Wednesday,3-2,1-1,Walsall FC,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Stockport County,1-2,1-1,Bristol City,2004-12-26T15:00Z
+23,Sun Dec 26 2004,15:00,GMT/+0000,Tranmere Rovers,1-1,0-0,Barnsley FC,2004-12-26T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Wrexham AFC,3-1,2-1,Chesterfield FC,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,AFC Bournemouth,2-2,1-1,Huddersfield Town,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Barnsley FC,3-3,2-0,Stockport County,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Bristol City,0-0,0-0,Hartlepool United,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Luton Town,2-2,1-1,Colchester United,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Milton Keynes Dons,3-1,1-0,Blackpool FC,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Oldham Athletic,2-1,0-0,Peterborough United,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Port Vale FC,0-2,0-2,Sheffield Wednesday,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Swindon Town,3-0,1-0,Brentford FC,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Torquay United,0-0,0-0,Bradford City,2004-12-28T15:00Z
+24,Tue Dec 28 2004,15:00,GMT/+0000,Walsall FC,0-2,0-0,Tranmere Rovers,2004-12-28T15:00Z
+24,Wed Dec 29 2004,19:45,GMT/+0000,Hull City,2-1,1-1,Doncaster Rovers,2004-12-29T19:45Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Milton Keynes Dons,1-1,1-0,Chesterfield FC,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,AFC Bournemouth,3-2,2-0,Brentford FC,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Barnsley FC,0-0,0-0,Hartlepool United,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Bristol City,2-0,2-0,Peterborough United,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Hull City,2-1,1-1,Huddersfield Town,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Luton Town,1-1,0-1,Sheffield Wednesday,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Wrexham AFC,1-2,1-0,Blackpool FC,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Oldham Athletic,2-2,1-1,Tranmere Rovers,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Port Vale FC,0-1,0-0,Bradford City,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Swindon Town,0-3,0-2,Colchester United,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Torquay United,1-2,1-0,Stockport County,2005-01-01T15:00Z
+25,Sat Jan 1 2005,15:00,GMT/+0000,Walsall FC,1-1,1-1,Doncaster Rovers,2005-01-01T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Tranmere Rovers,4-1,1-1,Torquay United,2005-01-03T15:00Z
+26,Mon Jan 3 2005,13:00,GMT/+0000,Chesterfield FC,2-2,0-2,Barnsley FC,2005-01-03T13:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Blackpool FC,0-2,0-0,Port Vale FC,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Bradford City,1-2,0-0,Swindon Town,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Brentford FC,1-0,1-0,Walsall FC,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Colchester United,0-0,0-0,Oldham Athletic,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Doncaster Rovers,1-1,0-1,AFC Bournemouth,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Hartlepool United,5-0,1-0,Milton Keynes Dons,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Huddersfield Town,2-2,1-0,Bristol City,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Peterborough United,2-2,0-0,Luton Town,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Sheffield Wednesday,4-0,0-0,Wrexham AFC,2005-01-03T15:00Z
+26,Mon Jan 3 2005,15:00,GMT/+0000,Stockport County,1-3,1-1,Hull City,2005-01-03T15:00Z
+27,Sat Jan 8 2005,15:00,GMT/+0000,Sheffield Wednesday,2-0,1-0,Swindon Town,2005-01-08T15:00Z
+27,Sat Jan 8 2005,15:00,GMT/+0000,Doncaster Rovers,2-0,1-0,Port Vale FC,2005-01-08T15:00Z
+27,Sat Jan 8 2005,15:00,GMT/+0000,Huddersfield Town,1-1,1-0,Torquay United,2005-01-08T15:00Z
+27,Mon Jan 10 2005,19:45,GMT/+0000,Tranmere Rovers,0-1,0-1,Bristol City,2005-01-10T19:45Z
+27,Tue Jan 11 2005,19:45,GMT/+0000,Peterborough United,2-2,2-1,Wrexham AFC,2005-01-11T19:45Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Swindon Town,2-2,2-1,Blackpool FC,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Wrexham AFC,1-5,0-2,Tranmere Rovers,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Walsall FC,3-0,2-0,Chesterfield FC,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Torquay United,1-2,1-0,Hartlepool United,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Port Vale FC,0-1,0-1,Brentford FC,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Oldham Athletic,1-2,0-1,Doncaster Rovers,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Milton Keynes Dons,2-0,2-0,Colchester United,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Luton Town,3-0,1-0,Stockport County,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,AFC Bournemouth,1-1,1-0,Sheffield Wednesday,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Barnsley FC,4-2,3-0,Huddersfield Town,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Bristol City,0-0,0-0,Bradford City,2005-01-15T15:00Z
+28,Sat Jan 15 2005,15:00,GMT/+0000,Hull City,2-2,0-1,Peterborough United,2005-01-15T15:00Z
+29,Fri Jan 21 2005,19:45,GMT/+0000,Sheffield Wednesday,1-0,1-0,Port Vale FC,2005-01-21T19:45Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Colchester United,0-0,0-0,Luton Town,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Doncaster Rovers,1-0,0-0,Hull City,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Hartlepool United,2-1,1-1,Bristol City,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Tranmere Rovers,2-1,1-0,Walsall FC,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Huddersfield Town,3-2,3-1,AFC Bournemouth,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Peterborough United,1-2,1-1,Oldham Athletic,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Stockport County,2-2,1-1,Barnsley FC,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Chesterfield FC,2-4,1-2,Wrexham AFC,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Blackpool FC,1-0,1-0,Milton Keynes Dons,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Bradford City,2-2,2-2,Torquay United,2005-01-22T15:00Z
+29,Sat Jan 22 2005,15:00,GMT/+0000,Brentford FC,2-1,1-1,Swindon Town,2005-01-22T15:00Z
+27,Tue Jan 25 2005,19:45,GMT/+0000,Brentford FC,1-1,0-1,Barnsley FC,2005-01-25T19:45Z
+27,Tue Jan 25 2005,19:45,GMT/+0000,Colchester United,5-0,4-0,Walsall FC,2005-01-25T19:45Z
+30,Fri Jan 28 2005,19:45,GMT/+0000,Bristol City,2-3,0-2,Chesterfield FC,2005-01-28T19:45Z
+30,Sat Jan 29 2005,15:00,GMT/+0000,Walsall FC,4-3,2-3,Huddersfield Town,2005-01-29T15:00Z
+30,Sat Jan 29 2005,15:00,GMT/+0000,Wrexham AFC,0-0,0-0,Doncaster Rovers,2005-01-29T15:00Z
+30,Sat Jan 29 2005,15:00,GMT/+0000,Luton Town,1-1,0-1,Tranmere Rovers,2005-01-29T15:00Z
+30,Sat Jan 29 2005,15:00,GMT/+0000,Milton Keynes Dons,2-2,0-1,Sheffield Wednesday,2005-01-29T15:00Z
+30,Sat Jan 29 2005,15:00,GMT/+0000,Swindon Town,3-0,0-0,Stockport County,2005-01-29T15:00Z
+30,Mon Jan 31 2005,19:45,GMT/+0000,Barnsley FC,2-2,0-2,Bradford City,2005-01-31T19:45Z
+27,Tue Feb 1 2005,19:45,GMT/+0000,Stockport County,2-2,1-1,AFC Bournemouth,2005-02-01T19:45Z
+27,Tue Feb 1 2005,19:30,GMT/+0000,Chesterfield FC,1-1,0-0,Hull City,2005-02-01T19:30Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Colchester United,0-1,0-0,Blackpool FC,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Walsall FC,2-2,2-2,Wrexham AFC,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Torquay United,2-1,2-0,Doncaster Rovers,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Chesterfield FC,0-1,0-0,Hartlepool United,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Port Vale FC,2-1,2-1,AFC Bournemouth,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Brentford FC,1-0,0-0,Milton Keynes Dons,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Peterborough United,2-1,1-0,Stockport County,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Oldham Athletic,1-2,1-0,Swindon Town,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Hull City,1-1,0-0,Bristol City,2005-02-05T15:00Z
+31,Sat Feb 5 2005,12:00,GMT/+0000,Barnsley FC,0-0,0-0,Sheffield Wednesday,2005-02-05T12:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Bradford City,1-1,0-1,Tranmere Rovers,2005-02-05T15:00Z
+31,Sat Feb 5 2005,15:00,GMT/+0000,Huddersfield Town,1-1,0-1,Luton Town,2005-02-05T15:00Z
+27,Tue Feb 8 2005,19:45,GMT/+0000,Bradford City,1-4,0-2,Milton Keynes Dons,2005-02-08T19:45Z
+27,Tue Feb 8 2005,19:45,GMT/+0000,Blackpool FC,2-0,0-0,Oldham Athletic,2005-02-08T19:45Z
+32,Fri Feb 11 2005,19:45,GMT/+0000,Bristol City,0-1,0-0,Walsall FC,2005-02-11T19:45Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,Swindon Town,2-1,1-1,Barnsley FC,2005-02-12T15:00Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,Tranmere Rovers,1-1,1-0,Colchester United,2005-02-12T15:00Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,Luton Town,1-0,0-0,Hull City,2005-02-12T15:00Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,Milton Keynes Dons,2-1,1-1,Huddersfield Town,2005-02-12T15:00Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,Wrexham AFC,1-1,0-1,Torquay United,2005-02-12T15:00Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,Sheffield Wednesday,1-2,0-1,Bradford City,2005-02-12T15:00Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,Stockport County,1-2,0-1,Port Vale FC,2005-02-12T15:00Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,AFC Bournemouth,4-0,1-0,Oldham Athletic,2005-02-12T15:00Z
+32,Sat Feb 12 2005,15:00,GMT/+0000,Doncaster Rovers,0-1,0-0,Chesterfield FC,2005-02-12T15:00Z
+23,Tue Feb 15 2005,19:45,GMT/+0000,Colchester United,3-1,0-0,AFC Bournemouth,2005-02-15T19:45Z
+27,Tue Feb 15 2005,19:45,GMT/+0000,Hartlepool United,2-3,0-1,Luton Town,2005-02-15T19:45Z
+30,Tue Feb 15 2005,19:45,GMT/+0000,Torquay United,2-1,1-0,Peterborough United,2005-02-15T19:45Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Torquay United,2-2,1-1,Swindon Town,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Walsall FC,0-0,0-0,Milton Keynes Dons,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Port Vale FC,0-1,0-1,Hartlepool United,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Peterborough United,0-2,0-0,Doncaster Rovers,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Oldham Athletic,1-2,0-1,Stockport County,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Hull City,2-1,1-0,Wrexham AFC,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Barnsley FC,0-1,0-0,AFC Bournemouth,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Bradford City,0-1,0-1,Luton Town,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Chesterfield FC,1-3,0-1,Sheffield Wednesday,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Colchester United,0-2,0-0,Bristol City,2005-02-19T15:00Z
+33,Sat Feb 19 2005,15:00,GMT/+0000,Huddersfield Town,1-0,1-0,Blackpool FC,2005-02-19T15:00Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Milton Keynes Dons,1-1,0-0,Hull City,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Stockport County,1-2,1-0,Chesterfield FC,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Tranmere Rovers,3-0,2-0,Huddersfield Town,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Wrexham AFC,2-2,0-0,Colchester United,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Doncaster Rovers,4-0,2-0,Barnsley FC,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Bristol City,5-1,3-0,Oldham Athletic,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Luton Town,1-0,0-0,Walsall FC,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,AFC Bournemouth,3-0,1-0,Torquay United,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Blackpool FC,2-1,0-0,Bradford City,2005-02-22T19:45Z
+34,Tue Feb 22 2005,19:45,GMT/+0000,Hartlepool United,3-1,0-0,Brentford FC,2005-02-22T19:45Z
+34,Wed Feb 23 2005,19:45,GMT/+0000,Swindon Town,1-0,1-0,Port Vale FC,2005-02-23T19:45Z
+34,Wed Feb 23 2005,19:45,GMT/+0000,Sheffield Wednesday,2-1,1-1,Peterborough United,2005-02-23T19:45Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Huddersfield Town,2-1,2-0,Oldham Athletic,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Hull City,2-0,2-0,Colchester United,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Wrexham AFC,0-0,0-0,Milton Keynes Dons,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Walsall FC,1-1,0-1,Bradford City,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Stockport County,1-0,1-0,Hartlepool United,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Port Vale FC,3-1,1-1,Luton Town,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Doncaster Rovers,1-1,1-1,Swindon Town,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,AFC Bournemouth,1-1,1-1,Tranmere Rovers,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Barnsley FC,4-1,3-0,Torquay United,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Brentford FC,3-3,1-2,Sheffield Wednesday,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Bristol City,1-1,1-0,Blackpool FC,2005-02-26T15:00Z
+35,Sat Feb 26 2005,15:00,GMT/+0000,Chesterfield FC,1-3,1-2,Peterborough United,2005-02-26T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Torquay United,2-2,1-1,Chesterfield FC,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Tranmere Rovers,1-3,1-1,Hull City,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Swindon Town,0-3,0-1,AFC Bournemouth,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Peterborough United,1-3,0-0,Barnsley FC,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Oldham Athletic,3-0,1-0,Port Vale FC,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Milton Keynes Dons,2-1,1-0,Stockport County,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Luton Town,5-0,3-0,Bristol City,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Blackpool FC,2-0,0-0,Walsall FC,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Bradford City,2-0,1-0,Huddersfield Town,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Colchester United,0-1,0-0,Brentford FC,2005-03-05T15:00Z
+36,Sat Mar 5 2005,15:00,GMT/+0000,Hartlepool United,4-6,2-3,Wrexham AFC,2005-03-05T15:00Z
+36,Sun Mar 6 2005,14:00,GMT/+0000,Sheffield Wednesday,2-0,1-0,Doncaster Rovers,2005-03-06T14:00Z
+30,Tue Mar 8 2005,19:45,GMT/+0000,Port Vale FC,0-0,0-0,Colchester United,2005-03-08T19:45Z
+30,Tue Mar 8 2005,19:45,GMT/+0000,Hull City,1-0,1-0,Hartlepool United,2005-03-08T19:45Z
+30,Tue Mar 8 2005,19:45,GMT/+0000,AFC Bournemouth,2-3,1-2,Blackpool FC,2005-03-08T19:45Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Hartlepool United,0-1,0-0,Tranmere Rovers,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Wrexham AFC,1-0,0-0,Oldham Athletic,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Walsall FC,1-2,1-1,AFC Bournemouth,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Stockport County,1-2,1-1,Colchester United,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Bristol City,0-0,0-0,Barnsley FC,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Chesterfield FC,2-1,0-0,Huddersfield Town,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Doncaster Rovers,0-0,0-0,Brentford FC,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Sheffield Wednesday,3-2,1-0,Blackpool FC,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Hull City,2-0,0-0,Torquay United,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Luton Town,3-1,2-1,Swindon Town,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Milton Keynes Dons,1-1,0-0,Port Vale FC,2005-03-12T15:00Z
+37,Sat Mar 12 2005,15:00,GMT/+0000,Peterborough United,2-2,2-0,Bradford City,2005-03-12T15:00Z
+30,Tue Mar 15 2005,19:45,GMT/+0000,Oldham Athletic,0-2,0-0,Brentford FC,2005-03-15T19:45Z
+38,Fri Mar 18 2005,19:45,GMT/+0000,Tranmere Rovers,5-0,3-0,Peterborough United,2005-03-18T19:45Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Torquay United,0-4,0-3,Bristol City,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Swindon Town,4-2,1-2,Wrexham AFC,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Blackpool FC,1-1,0-1,Doncaster Rovers,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,AFC Bournemouth,0-4,0-2,Hull City,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Barnsley FC,1-1,1-0,Milton Keynes Dons,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Port Vale FC,2-0,0-0,Walsall FC,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Bradford City,1-2,0-1,Hartlepool United,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Brentford FC,2-2,0-1,Chesterfield FC,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Colchester United,1-1,0-0,Sheffield Wednesday,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Huddersfield Town,5-3,1-1,Stockport County,2005-03-19T15:00Z
+38,Sat Mar 19 2005,15:00,GMT/+0000,Oldham Athletic,2-2,1-1,Luton Town,2005-03-19T15:00Z
+32,Tue Mar 22 2005,19:45,GMT/+0000,Blackpool FC,2-1,2-0,Brentford FC,2005-03-22T19:45Z
+39,Thu Mar 24 2005,19:45,GMT/+0000,Doncaster Rovers,1-1,1-1,Bradford City,2005-03-24T19:45Z
+39,Fri Mar 25 2005,19:45,GMT/+0000,Hartlepool United,0-1,0-1,Huddersfield Town,2005-03-25T19:45Z
+39,Fri Mar 25 2005,14:45,GMT/+0000,Luton Town,1-3,0-3,Barnsley FC,2005-03-25T14:45Z
+39,Fri Mar 25 2005,15:00,GMT/+0000,Peterborough United,0-3,0-1,Colchester United,2005-03-25T15:00Z
+39,Fri Mar 25 2005,15:00,GMT/+0000,Milton Keynes Dons,1-1,1-1,Swindon Town,2005-03-25T15:00Z
+39,Sat Mar 26 2005,13:00,GMT/+0000,Hull City,2-2,1-1,Port Vale FC,2005-03-26T13:00Z
+39,Sat Mar 26 2005,13:00,GMT/+0000,Walsall FC,0-1,0-0,Oldham Athletic,2005-03-26T13:00Z
+39,Sat Mar 26 2005,13:00,GMT/+0000,Chesterfield FC,2-2,1-0,Tranmere Rovers,2005-03-26T13:00Z
+39,Sat Mar 26 2005,13:00,GMT/+0000,Sheffield Wednesday,2-2,0-1,Torquay United,2005-03-26T13:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,Blackpool FC,2-2,1-2,Hartlepool United,2005-03-28T14:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,Tranmere Rovers,2-4,2-2,Doncaster Rovers,2005-03-28T14:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,Oldham Athletic,1-0,0-0,Hull City,2005-03-28T14:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,Colchester United,1-0,0-0,Chesterfield FC,2005-03-28T14:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,Brentford FC,0-0,0-0,Peterborough United,2005-03-28T14:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,AFC Bournemouth,0-1,0-0,Milton Keynes Dons,2005-03-28T14:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,Torquay United,1-4,1-2,Luton Town,2005-03-28T14:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,Barnsley FC,3-2,1-0,Walsall FC,2005-03-28T14:00Z
+40,Mon Mar 28 2005,15:00,BST/+0100,Bradford City,3-1,2-1,Stockport County,2005-03-28T14:00Z
+40,Tue Mar 29 2005,19:45,BST/+0100,Huddersfield Town,1-0,1-0,Sheffield Wednesday,2005-03-29T18:45Z
+41,Fri Apr 1 2005,19:45,BST/+0100,Doncaster Rovers,1-1,0-1,Colchester United,2005-04-01T18:45Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Stockport County,1-2,0-0,Brentford FC,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Walsall FC,1-1,0-0,Torquay United,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Wrexham AFC,1-2,0-0,AFC Bournemouth,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Peterborough United,1-2,1-1,Huddersfield Town,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Milton Keynes Dons,1-1,0-1,Oldham Athletic,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Chesterfield FC,0-0,0-0,Bradford City,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Sheffield Wednesday,1-2,1-1,Tranmere Rovers,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Bristol City,2-0,1-0,Port Vale FC,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Luton Town,1-0,1-0,Blackpool FC,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Hartlepool United,3-0,1-0,Swindon Town,2005-04-02T14:00Z
+41,Sat Apr 2 2005,15:00,BST/+0100,Hull City,2-1,1-0,Barnsley FC,2005-04-02T14:00Z
+42,Tue Apr 5 2005,19:45,BST/+0100,Barnsley FC,2-2,1-0,Wrexham AFC,2005-04-05T18:45Z
+32,Tue Apr 5 2005,19:45,BST/+0100,Hartlepool United,2-2,2-0,Peterborough United,2005-04-05T18:45Z
+39,Tue Apr 5 2005,19:45,BST/+0100,Bristol City,0-2,0-0,AFC Bournemouth,2005-04-05T18:45Z
+42,Fri Apr 8 2005,19:45,BST/+0100,Tranmere Rovers,1-0,0-0,Stockport County,2005-04-08T18:45Z
+42,Sat Apr 9 2005,15:00,BST/+0100,Huddersfield Town,3-1,2-1,Doncaster Rovers,2005-04-09T14:00Z
+42,Sat Apr 9 2005,15:00,BST/+0100,Oldham Athletic,1-1,1-0,Sheffield Wednesday,2005-04-09T14:00Z
+42,Sat Apr 9 2005,15:00,BST/+0100,Torquay United,1-0,0-0,Milton Keynes Dons,2005-04-09T14:00Z
+42,Sat Apr 9 2005,15:00,BST/+0100,Swindon Town,1-2,0-1,Walsall FC,2005-04-09T14:00Z
+42,Sat Apr 9 2005,15:00,BST/+0100,Port Vale FC,1-0,0-0,Chesterfield FC,2005-04-09T14:00Z
+42,Sat Apr 9 2005,15:00,BST/+0100,AFC Bournemouth,0-1,0-0,Luton Town,2005-04-09T14:00Z
+42,Sat Apr 9 2005,15:00,BST/+0100,Blackpool FC,0-1,0-1,Peterborough United,2005-04-09T14:00Z
+42,Sat Apr 9 2005,15:00,BST/+0100,Brentford FC,1-0,1-0,Bristol City,2005-04-09T14:00Z
+42,Sat Apr 9 2005,15:00,BST/+0100,Colchester United,1-1,1-0,Hartlepool United,2005-04-09T14:00Z
+42,Sun Apr 10 2005,13:00,BST/+0100,Bradford City,0-2,0-1,Hull City,2005-04-10T12:00Z
+33,Tue Apr 12 2005,19:45,BST/+0100,Brentford FC,1-0,0-0,Tranmere Rovers,2005-04-12T18:45Z
+39,Tue Apr 12 2005,19:45,BST/+0100,Stockport County,0-1,0-1,Blackpool FC,2005-04-12T18:45Z
+40,Wed Apr 13 2005,19:45,BST/+0100,Swindon Town,0-0,0-0,Bristol City,2005-04-13T18:45Z
+43,Fri Apr 15 2005,19:45,BST/+0100,Hartlepool United,3-0,2-0,Sheffield Wednesday,2005-04-15T18:45Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Torquay United,1-0,0-0,Port Vale FC,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Stockport County,2-4,2-1,Doncaster Rovers,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Barnsley FC,2-2,1-1,Oldham Athletic,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Bradford City,4-1,4-0,Brentford FC,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Bristol City,1-0,0-0,Wrexham AFC,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Chesterfield FC,2-3,1-0,AFC Bournemouth,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Huddersfield Town,2-2,1-1,Colchester United,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Hull City,0-0,0-0,Swindon Town,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Luton Town,1-0,1-0,Milton Keynes Dons,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Peterborough United,0-2,0-0,Walsall FC,2005-04-16T14:00Z
+43,Sat Apr 16 2005,15:00,BST/+0100,Tranmere Rovers,0-0,0-0,Blackpool FC,2005-04-16T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Wrexham AFC,1-2,1-0,Luton Town,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Walsall FC,3-0,1-0,Hull City,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,AFC Bournemouth,0-1,0-1,Peterborough United,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Blackpool FC,1-0,1-0,Chesterfield FC,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Brentford FC,0-1,0-1,Huddersfield Town,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Colchester United,0-0,0-0,Bradford City,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Doncaster Rovers,2-0,0-0,Hartlepool United,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Milton Keynes Dons,1-2,1-1,Bristol City,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Oldham Athletic,1-2,1-1,Torquay United,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Port Vale FC,5-0,2-0,Barnsley FC,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Sheffield Wednesday,0-0,0-0,Stockport County,2005-04-23T14:00Z
+44,Sat Apr 23 2005,15:00,BST/+0100,Swindon Town,2-1,0-1,Tranmere Rovers,2005-04-23T14:00Z
+40,Tue Apr 26 2005,19:45,BST/+0100,Port Vale FC,0-2,0-2,Wrexham AFC,2005-04-26T18:45Z
+45,Fri Apr 29 2005,19:45,BST/+0100,Tranmere Rovers,1-0,1-0,Port Vale FC,2005-04-29T18:45Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Torquay United,2-0,1-0,Blackpool FC,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Barnsley FC,1-1,1-0,Colchester United,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Bradford City,4-2,2-0,AFC Bournemouth,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Bristol City,2-2,0-1,Doncaster Rovers,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Chesterfield FC,1-0,0-0,Oldham Athletic,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Hartlepool United,1-3,0-3,Walsall FC,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Huddersfield Town,4-0,0-0,Swindon Town,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Hull City,1-2,0-1,Sheffield Wednesday,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Luton Town,4-2,1-2,Brentford FC,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Peterborough United,0-3,0-2,Milton Keynes Dons,2005-04-30T14:00Z
+45,Sat Apr 30 2005,15:00,BST/+0100,Stockport County,1-4,1-4,Wrexham AFC,2005-04-30T14:00Z
+39,Tue May 3 2005,19:45,BST/+0100,Wrexham AFC,1-2,1-0,Brentford FC,2005-05-03T18:45Z
+46,Sat May 7 2005,15:00,BST/+0100,AFC Bournemouth,2-2,2-1,Hartlepool United,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Blackpool FC,0-2,0-1,Barnsley FC,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Brentford FC,2-1,1-1,Hull City,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Colchester United,2-1,1-0,Torquay United,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Doncaster Rovers,3-3,1-2,Luton Town,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Milton Keynes Dons,2-1,1-0,Tranmere Rovers,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Oldham Athletic,2-1,2-1,Bradford City,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Port Vale FC,1-0,0-0,Peterborough United,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Sheffield Wednesday,2-3,0-2,Bristol City,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Swindon Town,1-1,1-1,Chesterfield FC,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Walsall FC,3-0,0-0,Stockport County,2005-05-07T14:00Z
+46,Sat May 7 2005,15:00,BST/+0100,Wrexham AFC,0-1,0-1,Huddersfield Town,2005-05-07T14:00Z

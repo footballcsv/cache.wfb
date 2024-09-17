@@ -131,33 +131,33 @@ Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 ,22,Sun Sep 1 2024,16:00,EEST/+0300,Ekenäs IF,1-1,0-0,SJK Seinäjoki,2024-09-01T13:00Z
 ,22,Sun Sep 1 2024,16:00,EEST/+0300,IFK Mariehamn,2-1,0-1,AC Oulu,2024-09-01T13:00Z
 ,22,Sun Sep 1 2024,16:00,EEST/+0300,Vaasan PS,1-3,1-1,HJK Helsinki,2024-09-01T13:00Z
-Relegation,1,Fri Sep 13 2024,18:00,EEST/+0300,Inter Turku,,,Ekenäs IF,2024-09-13T15:00Z
-Championship,1,Sat Sep 14 2024,19:00,EEST/+0300,Kuopion PS,,,Vaasan PS,2024-09-14T16:00Z
-Championship,1,Sat Sep 14 2024,17:00,EEST/+0300,Ilves Tampere,,,Haka Valkeakoski,2024-09-14T14:00Z
-Championship,1,Sat Sep 14 2024,15:00,EEST/+0300,HJK Helsinki,,,SJK Seinäjoki,2024-09-14T12:00Z
-Relegation,1,Sat Sep 14 2024,17:00,EEST/+0300,AC Oulu,,,FC Lahti,2024-09-14T14:00Z
-Relegation,1,Sun Sep 15 2024,15:00,EEST/+0300,IF Gnistan,,,IFK Mariehamn,2024-09-15T12:00Z
-Relegation,2,Thu Sep 19 2024,18:00,EEST/+0300,FC Lahti,,,IFK Mariehamn,2024-09-19T15:00Z
+Playoffs - Relegation,1,Fri Sep 13 2024,18:00,EEST/+0300,Inter Turku,1-1,0-0,Ekenäs IF,2024-09-13T15:00Z
+Championship,1,Sat Sep 14 2024,19:00,EEST/+0300,Kuopion PS,3-1,1-0,Vaasan PS,2024-09-14T16:00Z
+Championship,1,Sat Sep 14 2024,17:00,EEST/+0300,Ilves Tampere,3-2,0-1,Haka Valkeakoski,2024-09-14T14:00Z
+Championship,1,Sat Sep 14 2024,15:00,EEST/+0300,HJK Helsinki,2-2,1-1,SJK Seinäjoki,2024-09-14T12:00Z
+Playoffs - Relegation,1,Sat Sep 14 2024,17:00,EEST/+0300,AC Oulu,3-0,0-0,FC Lahti,2024-09-14T14:00Z
+Playoffs - Relegation,1,Sun Sep 15 2024,15:00,EEST/+0300,IF Gnistan,2-1,1-0,IFK Mariehamn,2024-09-15T12:00Z
+Playoffs - Relegation,2,Thu Sep 19 2024,18:00,EEST/+0300,FC Lahti,,,IFK Mariehamn,2024-09-19T15:00Z
 Championship,2,Fri Sep 20 2024,18:00,EEST/+0300,Haka Valkeakoski,,,SJK Seinäjoki,2024-09-20T15:00Z
 Championship,2,Fri Sep 20 2024,20:00,EEST/+0300,Vaasan PS,,,HJK Helsinki,2024-09-20T17:00Z
-Relegation,2,Sun Sep 22 2024,16:00,EEST/+0300,Ekenäs IF,,,IF Gnistan,2024-09-22T13:00Z
-Relegation,2,Tue Sep 24 2024,18:00,EEST/+0300,AC Oulu,,,Inter Turku,2024-09-24T15:00Z
+Playoffs - Relegation,2,Sun Sep 22 2024,16:00,EEST/+0300,Ekenäs IF,,,IF Gnistan,2024-09-22T13:00Z
+Playoffs - Relegation,2,Tue Sep 24 2024,18:00,EEST/+0300,AC Oulu,,,Inter Turku,2024-09-24T15:00Z
 Championship,2,Tue Sep 24 2024,19:00,EEST/+0300,Ilves Tampere,,,Kuopion PS,2024-09-24T16:00Z
-Relegation,3,Fri Sep 27 2024,18:00,EEST/+0300,IF Gnistan,,,AC Oulu,2024-09-27T15:00Z
+Playoffs - Relegation,3,Fri Sep 27 2024,18:00,EEST/+0300,IF Gnistan,,,AC Oulu,2024-09-27T15:00Z
 Championship,3,Sat Sep 28 2024,19:30,EEST/+0300,HJK Helsinki,,,Ilves Tampere,2024-09-28T16:30Z
 Championship,3,Sat Sep 28 2024,14:30,EEST/+0300,SJK Seinäjoki,,,Vaasan PS,2024-09-28T11:30Z
-Relegation,3,Sat Sep 28 2024,17:00,EEST/+0300,IFK Mariehamn,,,Ekenäs IF,2024-09-28T14:00Z
+Playoffs - Relegation,3,Sat Sep 28 2024,17:00,EEST/+0300,IFK Mariehamn,,,Ekenäs IF,2024-09-28T14:00Z
 Championship,3,Sun Sep 29 2024,16:00,EEST/+0300,Kuopion PS,,,Haka Valkeakoski,2024-09-29T13:00Z
-Relegation,3,Mon Sep 30 2024,18:00,EEST/+0300,Inter Turku,,,FC Lahti,2024-09-30T15:00Z
+Playoffs - Relegation,3,Mon Sep 30 2024,18:00,EEST/+0300,Inter Turku,,,FC Lahti,2024-09-30T15:00Z
 Championship,4,Fri Oct 4 2024,18:00,EEST/+0300,Vaasan PS,,,Ilves Tampere,2024-10-04T15:00Z
-Relegation,4,Sat Oct 5 2024,17:00,EEST/+0300,Ekenäs IF,,,AC Oulu,2024-10-05T14:00Z
+Playoffs - Relegation,4,Sat Oct 5 2024,17:00,EEST/+0300,Ekenäs IF,,,AC Oulu,2024-10-05T14:00Z
 Championship,4,Sat Oct 5 2024,17:00,EEST/+0300,SJK Seinäjoki,,,Kuopion PS,2024-10-05T14:00Z
-Relegation,4,Sat Oct 5 2024,14:00,EEST/+0300,IF Gnistan,,,FC Lahti,2024-10-05T11:00Z
+Playoffs - Relegation,4,Sat Oct 5 2024,14:00,EEST/+0300,IF Gnistan,,,FC Lahti,2024-10-05T11:00Z
 Championship,4,Sun Oct 6 2024,18:30,EEST/+0300,HJK Helsinki,,,Haka Valkeakoski,2024-10-06T15:30Z
-Relegation,4,Sun Oct 6 2024,16:30,EEST/+0300,IFK Mariehamn,,,Inter Turku,2024-10-06T13:30Z
+Playoffs - Relegation,4,Sun Oct 6 2024,16:30,EEST/+0300,IFK Mariehamn,,,Inter Turku,2024-10-06T13:30Z
 Championship,5,Sat Oct 19 2024,18:00,EEST/+0300,Ilves Tampere,,,SJK Seinäjoki,2024-10-19T15:00Z
 Championship,5,Sat Oct 19 2024,18:00,EEST/+0300,Kuopion PS,,,HJK Helsinki,2024-10-19T15:00Z
-Relegation,5,Sat Oct 19 2024,14:00,EEST/+0300,Inter Turku,,,IF Gnistan,2024-10-19T11:00Z
-Relegation,5,Sat Oct 19 2024,14:00,EEST/+0300,AC Oulu,,,IFK Mariehamn,2024-10-19T11:00Z
-Relegation,5,Sat Oct 19 2024,14:00,EEST/+0300,FC Lahti,,,Ekenäs IF,2024-10-19T11:00Z
+Playoffs - Relegation,5,Sat Oct 19 2024,14:00,EEST/+0300,Inter Turku,,,IF Gnistan,2024-10-19T11:00Z
+Playoffs - Relegation,5,Sat Oct 19 2024,14:00,EEST/+0300,AC Oulu,,,IFK Mariehamn,2024-10-19T11:00Z
+Playoffs - Relegation,5,Sat Oct 19 2024,14:00,EEST/+0300,FC Lahti,,,Ekenäs IF,2024-10-19T11:00Z
 Championship,5,Sat Oct 19 2024,18:00,EEST/+0300,Haka Valkeakoski,,,Vaasan PS,2024-10-19T15:00Z

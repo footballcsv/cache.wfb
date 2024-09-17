@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 5 2023,18:00,CEST/+0200,FC Schifflange 95,3-3,1-2,Union Titus Pétange,2023-08-05T16:00Z
+1,Sun Aug 6 2023,16:00,CEST/+0200,UN Käerjéng,1-2,0-1,FC Mondercange,2023-08-06T14:00Z
+1,Sun Aug 6 2023,16:00,CEST/+0200,Marisca Mersch,1-2,0-0,Victoria Rosport,2023-08-06T14:00Z
+1,Sun Aug 6 2023,16:00,CEST/+0200,US Mondorf,1-3,1-0,RFCU Luxemburg,2023-08-06T14:00Z
+1,Sun Aug 6 2023,16:00,CEST/+0200,UNA Strassen,1-5,1-2,Swift Hesperange,2023-08-06T14:00Z
+1,Sun Aug 6 2023,18:30,CEST/+0200,Jeunesse Esch,1-3,1-1,Progrès Niedercorn,2023-08-06T16:30Z
+1,Sun Aug 6 2023,19:00,CEST/+0200,FC Differdange 03,5-1,3-1,CS FOLA Esch,2023-08-06T17:00Z
+1,Sun Aug 6 2023,16:00,CEST/+0200,F91 Dudelange,3-1,2-1,FC Wiltz 71,2023-08-06T14:00Z
+2,Sun Aug 13 2023,16:00,CEST/+0200,CS FOLA Esch,3-2,1-0,F91 Dudelange,2023-08-13T14:00Z
+2,Sun Aug 13 2023,16:00,CEST/+0200,FC Mondercange,3-2,1-1,US Mondorf,2023-08-13T14:00Z
+2,Sun Aug 13 2023,16:00,CEST/+0200,RFCU Luxemburg,1-3,0-2,FC Differdange 03,2023-08-13T14:00Z
+2,Sun Aug 13 2023,16:00,CEST/+0200,UNA Strassen,2-1,2-1,UN Käerjéng,2023-08-13T14:00Z
+2,Sun Aug 13 2023,16:00,CEST/+0200,Union Titus Pétange,2-0,1-0,Swift Hesperange,2023-08-13T14:00Z
+2,Sun Aug 13 2023,16:00,CEST/+0200,Victoria Rosport,1-2,0-1,FC Schifflange 95,2023-08-13T14:00Z
+2,Sun Aug 13 2023,16:00,CEST/+0200,FC Wiltz 71,0-1,0-0,Jeunesse Esch,2023-08-13T14:00Z
+2,Sun Aug 13 2023,18:30,CEST/+0200,Progrès Niedercorn,4-3,2-1,Marisca Mersch,2023-08-13T16:30Z
+3,Sun Aug 20 2023,16:00,CEST/+0200,FC Differdange 03,2-0,1-0,FC Mondercange,2023-08-20T14:00Z
+3,Sun Aug 20 2023,16:00,CEST/+0200,Swift Hesperange,3-2,2-1,Victoria Rosport,2023-08-20T14:00Z
+3,Sun Aug 20 2023,16:00,CEST/+0200,Jeunesse Esch,4-1,3-1,CS FOLA Esch,2023-08-20T14:00Z
+3,Sun Aug 20 2023,16:00,CEST/+0200,Marisca Mersch,1-1,1-0,FC Wiltz 71,2023-08-20T14:00Z
+3,Sun Aug 20 2023,16:00,CEST/+0200,US Mondorf,5-3,3-2,UN Käerjéng,2023-08-20T14:00Z
+3,Sun Aug 20 2023,16:00,CEST/+0200,FC Schifflange 95,2-0,0-0,Progrès Niedercorn,2023-08-20T14:00Z
+3,Sun Aug 20 2023,18:30,CEST/+0200,Union Titus Pétange,2-2,2-0,UNA Strassen,2023-08-20T16:30Z
+3,Sun Aug 20 2023,16:00,CEST/+0200,F91 Dudelange,2-0,2-0,RFCU Luxemburg,2023-08-20T14:00Z
+4,Sun Aug 27 2023,16:00,CEST/+0200,CS FOLA Esch,1-2,0-1,Marisca Mersch,2023-08-27T14:00Z
+4,Sun Aug 27 2023,16:00,CEST/+0200,UN Käerjéng,0-1,0-1,FC Differdange 03,2023-08-27T14:00Z
+4,Sun Aug 27 2023,16:00,CEST/+0200,FC Mondercange,1-0,1-0,F91 Dudelange,2023-08-27T14:00Z
+4,Sun Aug 27 2023,16:00,CEST/+0200,RFCU Luxemburg,0-3,0-1,Jeunesse Esch,2023-08-27T14:00Z
+4,Sun Aug 27 2023,16:00,CEST/+0200,UNA Strassen,4-2,0-1,US Mondorf,2023-08-27T14:00Z
+4,Sun Aug 27 2023,16:00,CEST/+0200,Victoria Rosport,3-1,3-0,Union Titus Pétange,2023-08-27T14:00Z
+4,Sun Aug 27 2023,16:00,CEST/+0200,FC Wiltz 71,2-1,0-0,FC Schifflange 95,2023-08-27T14:00Z
+4,Sun Aug 27 2023,18:30,CEST/+0200,Progrès Niedercorn,2-0,0-0,Swift Hesperange,2023-08-27T16:30Z
+5,Sun Sep 3 2023,16:00,CEST/+0200,FC Differdange 03,1-1,0-1,US Mondorf,2023-09-03T14:00Z
+5,Sun Sep 3 2023,16:00,CEST/+0200,Jeunesse Esch,0-1,0-0,FC Mondercange,2023-09-03T14:00Z
+5,Sun Sep 3 2023,16:00,CEST/+0200,Marisca Mersch,2-2,1-1,RFCU Luxemburg,2023-09-03T14:00Z
+5,Sun Sep 3 2023,16:00,CEST/+0200,FC Schifflange 95,3-1,1-0,CS FOLA Esch,2023-09-03T14:00Z
+5,Sun Sep 3 2023,16:00,CEST/+0200,Union Titus Pétange,2-2,2-1,Progrès Niedercorn,2023-09-03T14:00Z
+5,Sun Sep 3 2023,16:00,CEST/+0200,Victoria Rosport,0-3,0-2,UNA Strassen,2023-09-03T14:00Z
+5,Sun Sep 3 2023,18:30,CEST/+0200,Swift Hesperange,1-1,1-0,FC Wiltz 71,2023-09-03T16:30Z
+5,Sun Sep 3 2023,16:00,CEST/+0200,F91 Dudelange,4-1,3-0,UN Käerjéng,2023-09-03T14:00Z
+6,Sun Sep 17 2023,16:00,CEST/+0200,CS FOLA Esch,1-2,0-1,Swift Hesperange,2023-09-17T14:00Z
+6,Sun Sep 17 2023,16:00,CEST/+0200,Progrès Niedercorn,1-1,0-0,Victoria Rosport,2023-09-17T14:00Z
+6,Sun Sep 17 2023,16:00,CEST/+0200,UN Käerjéng,1-1,1-0,Jeunesse Esch,2023-09-17T14:00Z
+6,Sun Sep 17 2023,16:00,CEST/+0200,FC Mondercange,1-2,0-0,Marisca Mersch,2023-09-17T14:00Z
+6,Sun Sep 17 2023,16:00,CEST/+0200,US Mondorf,4-0,3-0,F91 Dudelange,2023-09-17T14:00Z
+6,Sun Sep 17 2023,16:00,CEST/+0200,RFCU Luxemburg,1-0,0-0,FC Schifflange 95,2023-09-17T14:00Z
+6,Sun Sep 17 2023,16:00,CEST/+0200,FC Wiltz 71,2-0,1-0,Union Titus Pétange,2023-09-17T14:00Z
+6,Sun Sep 17 2023,18:30,CEST/+0200,UNA Strassen,2-2,0-0,FC Differdange 03,2023-09-17T16:30Z
+7,Fri Sep 22 2023,20:00,CEST/+0200,Marisca Mersch,2-1,0-1,UN Käerjéng,2023-09-22T18:00Z
+7,Sat Sep 23 2023,18:00,CEST/+0200,Union Titus Pétange,2-1,0-0,CS FOLA Esch,2023-09-23T16:00Z
+7,Sat Sep 23 2023,18:30,CEST/+0200,Progrès Niedercorn,2-0,0-0,UNA Strassen,2023-09-23T16:30Z
+7,Sat Sep 23 2023,19:30,CEST/+0200,Swift Hesperange,2-1,1-1,RFCU Luxemburg,2023-09-23T17:30Z
+7,Sat Sep 23 2023,18:00,CEST/+0200,F91 Dudelange,2-2,1-2,FC Differdange 03,2023-09-23T16:00Z
+7,Sun Sep 24 2023,16:00,CEST/+0200,FC Schifflange 95,2-2,1-1,FC Mondercange,2023-09-24T14:00Z
+7,Sun Sep 24 2023,16:00,CEST/+0200,Victoria Rosport,3-1,2-0,FC Wiltz 71,2023-09-24T14:00Z
+7,Sun Sep 24 2023,16:00,CEST/+0200,Jeunesse Esch,2-2,1-1,US Mondorf,2023-09-24T14:00Z
+8,Wed Sep 27 2023,20:00,CEST/+0200,CS FOLA Esch,0-1,0-0,Victoria Rosport,2023-09-27T18:00Z
+8,Wed Sep 27 2023,20:00,CEST/+0200,FC Differdange 03,3-1,1-1,Jeunesse Esch,2023-09-27T18:00Z
+8,Wed Sep 27 2023,20:00,CEST/+0200,UN Käerjéng,1-0,1-0,FC Schifflange 95,2023-09-27T18:00Z
+8,Wed Sep 27 2023,20:00,CEST/+0200,FC Mondercange,0-6,0-1,Swift Hesperange,2023-09-27T18:00Z
+8,Wed Sep 27 2023,20:00,CEST/+0200,US Mondorf,3-2,0-0,Marisca Mersch,2023-09-27T18:00Z
+8,Wed Sep 27 2023,20:00,CEST/+0200,RFCU Luxemburg,2-0,2-0,Union Titus Pétange,2023-09-27T18:00Z
+8,Wed Sep 27 2023,20:00,CEST/+0200,UNA Strassen,1-1,1-0,F91 Dudelange,2023-09-27T18:00Z
+8,Wed Sep 27 2023,20:00,CEST/+0200,FC Wiltz 71,2-2,0-2,Progrès Niedercorn,2023-09-27T18:00Z
+9,Sun Oct 8 2023,16:00,CEST/+0200,Swift Hesperange,0-0,0-0,UN Käerjéng,2023-10-08T14:00Z
+9,Sun Oct 8 2023,16:00,CEST/+0200,Jeunesse Esch,1-2,1-2,F91 Dudelange,2023-10-08T14:00Z
+9,Sun Oct 8 2023,16:00,CEST/+0200,Marisca Mersch,1-1,1-0,FC Differdange 03,2023-10-08T14:00Z
+9,Sun Oct 8 2023,16:00,CEST/+0200,FC Schifflange 95,0-0,0-0,US Mondorf,2023-10-08T14:00Z
+9,Sun Oct 8 2023,16:00,CEST/+0200,Union Titus Pétange,4-0,3-0,FC Mondercange,2023-10-08T14:00Z
+9,Sun Oct 8 2023,16:00,CEST/+0200,Victoria Rosport,1-0,0-0,RFCU Luxemburg,2023-10-08T14:00Z
+9,Sun Oct 8 2023,16:00,CEST/+0200,FC Wiltz 71,2-1,1-1,UNA Strassen,2023-10-08T14:00Z
+9,Sun Oct 8 2023,18:30,CEST/+0200,Progrès Niedercorn,3-2,2-1,CS FOLA Esch,2023-10-08T16:30Z
+10,Sat Oct 21 2023,18:00,CEST/+0200,FC Differdange 03,5-0,1-0,FC Schifflange 95,2023-10-21T16:00Z
+10,Sun Oct 22 2023,16:00,CEST/+0200,CS FOLA Esch,0-1,0-1,FC Wiltz 71,2023-10-22T14:00Z
+10,Sun Oct 22 2023,16:00,CEST/+0200,F91 Dudelange,1-0,1-0,Marisca Mersch,2023-10-22T14:00Z
+10,Sun Oct 22 2023,16:00,CEST/+0200,FC Mondercange,3-3,2-1,Victoria Rosport,2023-10-22T14:00Z
+10,Sun Oct 22 2023,16:00,CEST/+0200,US Mondorf,0-2,0-0,Swift Hesperange,2023-10-22T14:00Z
+10,Sun Oct 22 2023,16:00,CEST/+0200,RFCU Luxemburg,3-3,1-1,Progrès Niedercorn,2023-10-22T14:00Z
+10,Sun Oct 22 2023,16:00,CEST/+0200,UNA Strassen,1-1,1-0,Jeunesse Esch,2023-10-22T14:00Z
+10,Sun Oct 22 2023,18:30,CEST/+0200,UN Käerjéng,0-1,0-0,Union Titus Pétange,2023-10-22T16:30Z
+11,Sun Nov 5 2023,14:30,CET/+0100,FC Schifflange 95,0-3,0-1,F91 Dudelange,2023-11-05T13:30Z
+11,Sun Nov 5 2023,14:30,CET/+0100,FC Wiltz 71,1-3,0-1,RFCU Luxemburg,2023-11-05T13:30Z
+11,Sun Nov 5 2023,15:30,CET/+0100,Progrès Niedercorn,1-1,1-1,FC Mondercange,2023-11-05T14:30Z
+11,Sun Nov 5 2023,16:00,CET/+0100,CS FOLA Esch,1-1,0-0,UNA Strassen,2023-11-05T15:00Z
+11,Sun Nov 5 2023,16:00,CET/+0100,Swift Hesperange,1-1,1-0,FC Differdange 03,2023-11-05T15:00Z
+11,Sun Nov 5 2023,16:00,CET/+0100,Union Titus Pétange,4-1,2-0,US Mondorf,2023-11-05T15:00Z
+11,Sun Nov 5 2023,16:00,CET/+0100,Victoria Rosport,1-4,1-2,UN Käerjéng,2023-11-05T15:00Z
+12,Sat Nov 11 2023,18:00,CET/+0100,RFCU Luxemburg,0-1,0-0,CS FOLA Esch,2023-11-11T17:00Z
+12,Sun Nov 12 2023,16:00,CET/+0100,UNA Strassen,1-1,0-1,Marisca Mersch,2023-11-12T15:00Z
+12,Sun Nov 12 2023,16:00,CET/+0100,F91 Dudelange,1-0,0-0,Swift Hesperange,2023-11-12T15:00Z
+12,Sun Nov 12 2023,16:00,CET/+0100,FC Differdange 03,2-0,1-0,Union Titus Pétange,2023-11-12T15:00Z
+12,Sun Nov 12 2023,16:00,CET/+0100,Jeunesse Esch,3-3,2-0,FC Schifflange 95,2023-11-12T15:00Z
+12,Sun Nov 12 2023,16:00,CET/+0100,UN Käerjéng,2-0,1-0,Progrès Niedercorn,2023-11-12T15:00Z
+12,Sun Nov 12 2023,16:00,CET/+0100,FC Mondercange,1-3,0-2,FC Wiltz 71,2023-11-12T15:00Z
+13,Sun Nov 26 2023,16:00,CET/+0100,RFCU Luxemburg,2-1,1-0,UNA Strassen,2023-11-26T15:00Z
+13,Sun Nov 26 2023,16:00,CET/+0100,Victoria Rosport,0-1,0-0,FC Differdange 03,2023-11-26T15:00Z
+13,Sun Nov 26 2023,14:30,CET/+0100,FC Schifflange 95,2-1,0-0,Marisca Mersch,2023-11-26T13:30Z
+13,Sun Nov 26 2023,15:30,CET/+0100,Progrès Niedercorn,3-0,1-0,US Mondorf,2023-11-26T14:30Z
+13,Sun Nov 26 2023,16:00,CET/+0100,CS FOLA Esch,2-2,2-2,FC Mondercange,2023-11-26T15:00Z
+13,Sun Nov 26 2023,16:00,CET/+0100,Swift Hesperange,2-0,2-0,Jeunesse Esch,2023-11-26T15:00Z
+13,Sun Nov 26 2023,16:00,CET/+0100,Union Titus Pétange,0-1,0-1,F91 Dudelange,2023-11-26T15:00Z
+13,Sun Nov 26 2023,16:00,CET/+0100,FC Wiltz 71,1-1,1-0,UN Käerjéng,2023-11-26T15:00Z
+12,Wed Nov 29 2023,20:00,CET/+0100,US Mondorf,2-0,0-0,Victoria Rosport,2023-11-29T19:00Z
+11,Wed Nov 29 2023,20:00,CET/+0100,Marisca Mersch,4-1,1-1,Jeunesse Esch,2023-11-29T19:00Z
+14,Sat Dec 2 2023,16:00,CET/+0100,Marisca Mersch,2-2,0-0,Swift Hesperange,2023-12-02T15:00Z
+14,Sat Dec 2 2023,17:00,CET/+0100,FC Mondercange,0-4,0-4,RFCU Luxemburg,2023-12-02T16:00Z
+14,Sat Dec 2 2023,16:00,CET/+0100,Jeunesse Esch,0-0,0-0,Union Titus Pétange,2023-12-02T15:00Z
+14,Sun Dec 3 2023,15:00,CET/+0100,UN Käerjéng,2-1,0-0,CS FOLA Esch,2023-12-03T14:00Z
+14,Sun Dec 3 2023,16:00,CET/+0100,F91 Dudelange,3-0,1-0,Victoria Rosport,2023-12-03T15:00Z
+14,Sun Dec 3 2023,16:00,CET/+0100,FC Differdange 03,3-1,2-1,Progrès Niedercorn,2023-12-03T15:00Z
+14,Sun Dec 3 2023,16:00,CET/+0100,US Mondorf,2-0,0-0,FC Wiltz 71,2023-12-03T15:00Z
+14,Sun Dec 3 2023,16:00,CET/+0100,UNA Strassen,1-0,0-0,FC Schifflange 95,2023-12-03T15:00Z
+15,Sat Dec 9 2023,16:00,CET/+0100,FC Wiltz 71,1-1,0-0,FC Differdange 03,2023-12-09T15:00Z
+15,Sat Dec 9 2023,16:30,CET/+0100,Victoria Rosport,1-0,1-0,Jeunesse Esch,2023-12-09T15:30Z
+15,Sat Dec 9 2023,16:00,CET/+0100,Union Titus Pétange,4-1,2-0,Marisca Mersch,2023-12-09T15:00Z
+15,Sun Dec 10 2023,15:30,CET/+0100,Progrès Niedercorn,1-0,1-0,F91 Dudelange,2023-12-10T14:30Z
+15,Sun Dec 10 2023,16:00,CET/+0100,Swift Hesperange,2-1,0-1,FC Schifflange 95,2023-12-10T15:00Z
+15,Sun Dec 10 2023,16:00,CET/+0100,FC Mondercange,0-0,0-0,UNA Strassen,2023-12-10T15:00Z
+15,Sun Dec 10 2023,16:00,CET/+0100,RFCU Luxemburg,2-1,1-1,UN Käerjéng,2023-12-10T15:00Z
+15,Sun Dec 10 2023,15:00,CET/+0100,CS FOLA Esch,3-2,1-0,US Mondorf,2023-12-10T14:00Z
+16,Sun Feb 11 2024,14:30,CET/+0100,FC Schifflange 95,2-2,2-0,Victoria Rosport,2024-02-11T13:30Z
+16,Sun Feb 11 2024,16:00,CET/+0100,F91 Dudelange,4-0,3-0,CS FOLA Esch,2024-02-11T15:00Z
+16,Sun Feb 11 2024,16:00,CET/+0100,FC Differdange 03,7-0,4-0,RFCU Luxemburg,2024-02-11T15:00Z
+16,Sun Feb 11 2024,16:00,CET/+0100,Swift Hesperange,3-3,1-0,Union Titus Pétange,2024-02-11T15:00Z
+16,Sun Feb 11 2024,16:00,CET/+0100,Jeunesse Esch,5-2,3-0,FC Wiltz 71,2024-02-11T15:00Z
+16,Sun Feb 11 2024,16:00,CET/+0100,UN Käerjéng,0-1,0-1,UNA Strassen,2024-02-11T15:00Z
+16,Sun Feb 11 2024,16:00,CET/+0100,Marisca Mersch,0-3,0-1,Progrès Niedercorn,2024-02-11T15:00Z
+16,Sun Feb 11 2024,16:00,CET/+0100,US Mondorf,2-0,0-0,FC Mondercange,2024-02-11T15:00Z
+17,Sun Feb 18 2024,16:00,CET/+0100,Progrès Niedercorn,4-0,2-0,FC Schifflange 95,2024-02-18T15:00Z
+17,Sun Feb 18 2024,16:00,CET/+0100,UN Käerjéng,2-1,0-1,US Mondorf,2024-02-18T15:00Z
+17,Sun Feb 18 2024,16:00,CET/+0100,FC Mondercange,1-1,0-0,FC Differdange 03,2024-02-18T15:00Z
+17,Sun Feb 18 2024,16:00,CET/+0100,RFCU Luxemburg,0-3,0-1,F91 Dudelange,2024-02-18T15:00Z
+17,Sun Feb 18 2024,16:00,CET/+0100,UNA Strassen,1-0,0-0,Union Titus Pétange,2024-02-18T15:00Z
+17,Sun Feb 18 2024,16:00,CET/+0100,Victoria Rosport,1-3,0-1,Swift Hesperange,2024-02-18T15:00Z
+17,Sun Feb 18 2024,16:00,CET/+0100,FC Wiltz 71,0-1,0-1,Marisca Mersch,2024-02-18T15:00Z
+17,Sun Feb 18 2024,18:30,CET/+0100,CS FOLA Esch,0-1,0-0,Jeunesse Esch,2024-02-18T17:30Z
+18,Sat Feb 24 2024,17:00,CET/+0100,Jeunesse Esch,3-0,0-0,RFCU Luxemburg,2024-02-24T16:00Z
+18,Sun Feb 25 2024,15:00,CET/+0100,FC Schifflange 95,1-1,0-1,FC Wiltz 71,2024-02-25T14:00Z
+18,Sun Feb 25 2024,16:00,CET/+0100,F91 Dudelange,4-2,3-1,FC Mondercange,2024-02-25T15:00Z
+18,Sun Feb 25 2024,16:00,CET/+0100,FC Differdange 03,4-0,1-0,UN Käerjéng,2024-02-25T15:00Z
+18,Sun Feb 25 2024,16:00,CET/+0100,Swift Hesperange,0-0,0-0,Progrès Niedercorn,2024-02-25T15:00Z
+18,Sun Feb 25 2024,16:00,CET/+0100,US Mondorf,1-1,0-1,UNA Strassen,2024-02-25T15:00Z
+18,Sun Feb 25 2024,16:00,CET/+0100,Union Titus Pétange,2-3,1-1,Victoria Rosport,2024-02-25T15:00Z
+19,Sun Mar 3 2024,16:00,CET/+0100,US Mondorf,0-2,0-0,FC Differdange 03,2024-03-03T15:00Z
+19,Sun Mar 3 2024,16:00,CET/+0100,CS FOLA Esch,2-1,1-1,FC Schifflange 95,2024-03-03T15:00Z
+19,Sun Mar 3 2024,16:00,CET/+0100,Progrès Niedercorn,2-1,1-0,Union Titus Pétange,2024-03-03T15:00Z
+19,Sun Mar 3 2024,16:00,CET/+0100,UN Käerjéng,2-2,1-2,F91 Dudelange,2024-03-03T15:00Z
+19,Sun Mar 3 2024,16:00,CET/+0100,FC Mondercange,0-2,0-0,Jeunesse Esch,2024-03-03T15:00Z
+19,Sun Mar 3 2024,16:00,CET/+0100,UNA Strassen,0-0,0-0,Victoria Rosport,2024-03-03T15:00Z
+19,Sun Mar 3 2024,16:00,CET/+0100,RFCU Luxemburg,4-1,2-0,Marisca Mersch,2024-03-03T15:00Z
+19,Sun Mar 3 2024,16:00,CET/+0100,FC Wiltz 71,4-5,2-2,Swift Hesperange,2024-03-03T15:00Z
+18,Wed Mar 6 2024,20:00,CET/+0100,Marisca Mersch,0-1,0-0,CS FOLA Esch,2024-03-06T19:00Z
+20,Sat Mar 9 2024,16:00,CET/+0100,Union Titus Pétange,1-0,0-0,FC Wiltz 71,2024-03-09T15:00Z
+20,Sun Mar 10 2024,15:00,CET/+0100,FC Schifflange 95,4-1,2-1,RFCU Luxemburg,2024-03-10T14:00Z
+20,Sun Mar 10 2024,16:00,CET/+0100,F91 Dudelange,2-1,1-1,US Mondorf,2024-03-10T15:00Z
+20,Sun Mar 10 2024,16:00,CET/+0100,FC Differdange 03,2-0,0-0,UNA Strassen,2024-03-10T15:00Z
+20,Sun Mar 10 2024,16:00,CET/+0100,Swift Hesperange,4-1,1-0,CS FOLA Esch,2024-03-10T15:00Z
+20,Sun Mar 10 2024,16:00,CET/+0100,Jeunesse Esch,3-0,1-0,UN Käerjéng,2024-03-10T15:00Z
+20,Sun Mar 10 2024,16:00,CET/+0100,Marisca Mersch,2-1,1-1,FC Mondercange,2024-03-10T15:00Z
+20,Sun Mar 10 2024,16:00,CET/+0100,Victoria Rosport,3-1,1-0,Progrès Niedercorn,2024-03-10T15:00Z
+21,Sat Mar 16 2024,17:00,CET/+0100,FC Differdange 03,2-0,1-0,F91 Dudelange,2024-03-16T16:00Z
+21,Sun Mar 17 2024,16:00,CET/+0100,UN Käerjéng,1-0,1-0,Marisca Mersch,2024-03-17T15:00Z
+21,Sun Mar 17 2024,16:00,CET/+0100,FC Mondercange,2-1,0-0,FC Schifflange 95,2024-03-17T15:00Z
+21,Sun Mar 17 2024,16:00,CET/+0100,US Mondorf,0-2,0-1,Jeunesse Esch,2024-03-17T15:00Z
+21,Sun Mar 17 2024,16:00,CET/+0100,RFCU Luxemburg,2-5,1-4,Swift Hesperange,2024-03-17T15:00Z
+21,Sun Mar 17 2024,16:00,CET/+0100,UNA Strassen,0-1,0-1,Progrès Niedercorn,2024-03-17T15:00Z
+21,Sun Mar 17 2024,16:00,CET/+0100,FC Wiltz 71,2-2,1-1,Victoria Rosport,2024-03-17T15:00Z
+21,Sun Mar 17 2024,16:00,CET/+0100,CS FOLA Esch,0-3,0-3,Union Titus Pétange,2024-03-17T15:00Z
+22,Sat Mar 30 2024,16:00,CET/+0100,Jeunesse Esch,4-3,1-0,FC Differdange 03,2024-03-30T15:00Z
+22,Sat Mar 30 2024,16:00,CET/+0100,FC Schifflange 95,0-1,0-0,UN Käerjéng,2024-03-30T15:00Z
+22,Sat Mar 30 2024,16:30,CET/+0100,Victoria Rosport,2-3,1-1,CS FOLA Esch,2024-03-30T15:30Z
+22,Sat Mar 30 2024,18:00,CET/+0100,F91 Dudelange,4-3,2-1,UNA Strassen,2024-03-30T17:00Z
+22,Sat Mar 30 2024,18:00,CET/+0100,Swift Hesperange,1-1,0-0,FC Mondercange,2024-03-30T17:00Z
+22,Sat Mar 30 2024,18:00,CET/+0100,Marisca Mersch,1-4,0-3,US Mondorf,2024-03-30T17:00Z
+22,Sat Mar 30 2024,18:00,CET/+0100,Union Titus Pétange,0-3,0-1,RFCU Luxemburg,2024-03-30T17:00Z
+22,Sat Mar 30 2024,18:30,CET/+0100,Progrès Niedercorn,3-0,0-0,FC Wiltz 71,2024-03-30T17:30Z
+23,Sun Apr 7 2024,16:00,CEST/+0200,F91 Dudelange,1-1,0-1,Jeunesse Esch,2024-04-07T14:00Z
+23,Sun Apr 7 2024,16:00,CEST/+0200,FC Differdange 03,2-0,1-0,Marisca Mersch,2024-04-07T14:00Z
+23,Sun Apr 7 2024,16:00,CEST/+0200,UN Käerjéng,1-3,1-2,Swift Hesperange,2024-04-07T14:00Z
+23,Sun Apr 7 2024,16:00,CEST/+0200,FC Mondercange,0-3,0-1,Union Titus Pétange,2024-04-07T14:00Z
+23,Sun Apr 7 2024,16:00,CEST/+0200,US Mondorf,3-3,1-0,FC Schifflange 95,2024-04-07T14:00Z
+23,Sun Apr 7 2024,16:00,CEST/+0200,RFCU Luxemburg,0-3,0-1,Victoria Rosport,2024-04-07T14:00Z
+23,Sun Apr 7 2024,16:00,CEST/+0200,UNA Strassen,1-1,0-0,FC Wiltz 71,2024-04-07T14:00Z
+23,Sun Apr 7 2024,16:00,CEST/+0200,CS FOLA Esch,0-0,0-0,Progrès Niedercorn,2024-04-07T14:00Z
+24,Sun Apr 14 2024,16:00,CEST/+0200,Progrès Niedercorn,2-1,1-0,RFCU Luxemburg,2024-04-14T14:00Z
+24,Sun Apr 14 2024,16:00,CEST/+0200,Swift Hesperange,1-2,0-0,US Mondorf,2024-04-14T14:00Z
+24,Sun Apr 14 2024,16:00,CEST/+0200,Jeunesse Esch,1-2,0-2,UNA Strassen,2024-04-14T14:00Z
+24,Sun Apr 14 2024,16:00,CEST/+0200,Marisca Mersch,3-4,0-1,F91 Dudelange,2024-04-14T14:00Z
+24,Sun Apr 14 2024,16:00,CEST/+0200,FC Schifflange 95,0-4,0-1,FC Differdange 03,2024-04-14T14:00Z
+24,Sun Apr 14 2024,16:00,CEST/+0200,Union Titus Pétange,1-1,0-1,UN Käerjéng,2024-04-14T14:00Z
+24,Sun Apr 14 2024,16:00,CEST/+0200,Victoria Rosport,2-1,2-0,FC Mondercange,2024-04-14T14:00Z
+24,Sun Apr 14 2024,16:00,CEST/+0200,FC Wiltz 71,1-1,1-0,CS FOLA Esch,2024-04-14T14:00Z
+25,Sat Apr 20 2024,18:00,CEST/+0200,Jeunesse Esch,3-1,1-1,Marisca Mersch,2024-04-20T16:00Z
+25,Sat Apr 20 2024,18:00,CEST/+0200,FC Mondercange,2-1,1-0,Progrès Niedercorn,2024-04-20T16:00Z
+25,Sat Apr 20 2024,18:00,CEST/+0200,US Mondorf,2-1,2-0,Union Titus Pétange,2024-04-20T16:00Z
+25,Sat Apr 20 2024,18:00,CEST/+0200,FC Differdange 03,2-0,0-0,Swift Hesperange,2024-04-20T16:00Z
+25,Sun Apr 21 2024,16:00,CEST/+0200,UN Käerjéng,0-0,0-0,Victoria Rosport,2024-04-21T14:00Z
+25,Sun Apr 21 2024,16:00,CEST/+0200,RFCU Luxemburg,2-4,0-3,FC Wiltz 71,2024-04-21T14:00Z
+25,Sun Apr 21 2024,16:00,CEST/+0200,UNA Strassen,3-1,3-1,CS FOLA Esch,2024-04-21T14:00Z
+25,Sun Apr 21 2024,16:00,CEST/+0200,F91 Dudelange,1-0,1-0,FC Schifflange 95,2024-04-21T14:00Z
+26,Sun Apr 28 2024,16:00,CEST/+0200,CS FOLA Esch,1-2,0-1,RFCU Luxemburg,2024-04-28T14:00Z
+26,Sun Apr 28 2024,16:00,CEST/+0200,Marisca Mersch,2-3,1-0,UNA Strassen,2024-04-28T14:00Z
+26,Sun Apr 28 2024,16:00,CEST/+0200,FC Schifflange 95,1-3,1-1,Jeunesse Esch,2024-04-28T14:00Z
+26,Sun Apr 28 2024,16:00,CEST/+0200,Union Titus Pétange,1-4,1-1,FC Differdange 03,2024-04-28T14:00Z
+26,Sun Apr 28 2024,16:00,CEST/+0200,Victoria Rosport,1-1,1-1,US Mondorf,2024-04-28T14:00Z
+26,Sun Apr 28 2024,16:00,CEST/+0200,FC Wiltz 71,2-1,1-0,FC Mondercange,2024-04-28T14:00Z
+26,Sun Apr 28 2024,18:00,CEST/+0200,Swift Hesperange,2-1,1-1,F91 Dudelange,2024-04-28T16:00Z
+26,Sun Apr 28 2024,18:30,CEST/+0200,Progrès Niedercorn,2-0,0-0,UN Käerjéng,2024-04-28T16:30Z
+27,Sun May 5 2024,16:00,CEST/+0200,FC Differdange 03,2-2,0-1,Victoria Rosport,2024-05-05T14:00Z
+27,Sun May 5 2024,16:00,CEST/+0200,Jeunesse Esch,0-2,0-2,Swift Hesperange,2024-05-05T14:00Z
+27,Sun May 5 2024,16:00,CEST/+0200,UN Käerjéng,2-2,1-1,FC Wiltz 71,2024-05-05T14:00Z
+27,Sun May 5 2024,16:00,CEST/+0200,Marisca Mersch,2-0,1-0,FC Schifflange 95,2024-05-05T14:00Z
+27,Sun May 5 2024,16:00,CEST/+0200,FC Mondercange,2-1,0-0,CS FOLA Esch,2024-05-05T14:00Z
+27,Sun May 5 2024,16:00,CEST/+0200,US Mondorf,2-4,0-2,Progrès Niedercorn,2024-05-05T14:00Z
+27,Sun May 5 2024,16:00,CEST/+0200,UNA Strassen,1-1,0-0,RFCU Luxemburg,2024-05-05T14:00Z
+27,Sun May 5 2024,16:00,CEST/+0200,F91 Dudelange,3-0,1-0,Union Titus Pétange,2024-05-05T14:00Z
+28,Sun May 12 2024,16:00,CEST/+0200,Swift Hesperange,3-1,0-0,Marisca Mersch,2024-05-12T14:00Z
+28,Sun May 12 2024,16:00,CEST/+0200,RFCU Luxemburg,1-1,0-1,FC Mondercange,2024-05-12T14:00Z
+28,Sun May 12 2024,16:00,CEST/+0200,Union Titus Pétange,2-1,0-0,Jeunesse Esch,2024-05-12T14:00Z
+28,Sun May 12 2024,16:00,CEST/+0200,Victoria Rosport,1-2,0-1,F91 Dudelange,2024-05-12T14:00Z
+28,Sun May 12 2024,16:00,CEST/+0200,FC Wiltz 71,2-2,0-2,US Mondorf,2024-05-12T14:00Z
+28,Sun May 12 2024,18:00,CEST/+0200,FC Schifflange 95,0-2,0-1,UNA Strassen,2024-05-12T16:00Z
+28,Sun May 12 2024,18:30,CEST/+0200,CS FOLA Esch,1-0,0-0,UN Käerjéng,2024-05-12T16:30Z
+28,Mon May 13 2024,20:00,CEST/+0200,Progrès Niedercorn,0-1,0-0,FC Differdange 03,2024-05-13T18:00Z
+29,Sat May 18 2024,18:00,CEST/+0200,F91 Dudelange,0-2,0-2,Progrès Niedercorn,2024-05-18T16:00Z
+29,Sat May 18 2024,18:00,CEST/+0200,FC Differdange 03,1-1,0-0,FC Wiltz 71,2024-05-18T16:00Z
+29,Sat May 18 2024,18:00,CEST/+0200,Jeunesse Esch,0-2,0-0,Victoria Rosport,2024-05-18T16:00Z
+29,Sat May 18 2024,18:00,CEST/+0200,UN Käerjéng,1-4,1-3,RFCU Luxemburg,2024-05-18T16:00Z
+29,Sat May 18 2024,18:00,CEST/+0200,Marisca Mersch,1-4,1-1,Union Titus Pétange,2024-05-18T16:00Z
+29,Sat May 18 2024,18:00,CEST/+0200,US Mondorf,6-0,3-0,CS FOLA Esch,2024-05-18T16:00Z
+29,Sat May 18 2024,18:00,CEST/+0200,FC Schifflange 95,1-4,1-1,Swift Hesperange,2024-05-18T16:00Z
+29,Sat May 18 2024,18:00,CEST/+0200,UNA Strassen,1-0,1-0,FC Mondercange,2024-05-18T16:00Z
+30,Sun May 26 2024,16:00,CEST/+0200,Progrès Niedercorn,1-3,1-1,Jeunesse Esch,2024-05-26T14:00Z
+30,Sun May 26 2024,16:00,CEST/+0200,Swift Hesperange,2-0,2-0,UNA Strassen,2024-05-26T14:00Z
+30,Sun May 26 2024,16:00,CEST/+0200,FC Mondercange,2-1,2-0,UN Käerjéng,2024-05-26T14:00Z
+30,Sun May 26 2024,16:00,CEST/+0200,RFCU Luxemburg,1-1,1-1,US Mondorf,2024-05-26T14:00Z
+30,Sun May 26 2024,16:00,CEST/+0200,Union Titus Pétange,1-3,0-1,FC Schifflange 95,2024-05-26T14:00Z
+30,Sun May 26 2024,16:00,CEST/+0200,Victoria Rosport,2-0,0-0,Marisca Mersch,2024-05-26T14:00Z
+30,Sun May 26 2024,16:00,CEST/+0200,FC Wiltz 71,2-3,1-0,F91 Dudelange,2024-05-26T14:00Z
+30,Sun May 26 2024,16:00,CEST/+0200,CS FOLA Esch,2-0,2-0,FC Differdange 03,2024-05-26T14:00Z

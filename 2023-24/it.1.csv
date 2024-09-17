@@ -1,381 +1,381 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Sat Aug 19 2023,18:30,Frosinone Calcio,1-3,1-2,SSC Napoli
-1,Sat Aug 19 2023,20:45,Genoa CFC,1-4,0-3,ACF Fiorentina
-1,Sat Aug 19 2023,20:45,Inter,2-0,1-0,AC Monza
-1,Sat Aug 19 2023,18:30,Empoli FC,0-1,0-0,Hellas Verona
-1,Sun Aug 20 2023,18:30,AS Roma,2-2,1-1,US Salernitana 1919
-1,Sun Aug 20 2023,18:30,Sassuolo Calcio,0-2,0-0,Atalanta
-1,Sun Aug 20 2023,20:45,US Lecce,2-1,0-1,Lazio Roma
-1,Sun Aug 20 2023,20:45,Udinese Calcio,0-3,0-3,Juventus
-1,Mon Aug 21 2023,20:45,Bologna FC,0-2,0-2,AC Milan
-1,Mon Aug 21 2023,18:30,Torino FC,0-0,0-0,Cagliari Calcio
-2,Sat Aug 26 2023,18:30,Frosinone Calcio,2-1,2-0,Atalanta
-2,Sat Aug 26 2023,18:30,AC Monza,2-0,1-0,Empoli FC
-2,Sat Aug 26 2023,20:45,Hellas Verona,2-1,2-0,AS Roma
-2,Sat Aug 26 2023,20:45,AC Milan,4-1,3-1,Torino FC
-2,Sun Aug 27 2023,18:30,Juventus,1-1,0-1,Bologna FC
-2,Sun Aug 27 2023,20:45,Lazio Roma,0-1,0-1,Genoa CFC
-2,Sun Aug 27 2023,20:45,SSC Napoli,2-0,1-0,Sassuolo Calcio
-2,Sun Aug 27 2023,18:30,ACF Fiorentina,2-2,2-0,US Lecce
-2,Mon Aug 28 2023,20:45,Cagliari Calcio,0-2,0-2,Inter
-2,Mon Aug 28 2023,18:30,US Salernitana 1919,1-1,0-0,Udinese Calcio
-3,Fri Sep 1 2023,20:45,AS Roma,1-2,0-1,AC Milan
-3,Fri Sep 1 2023,18:30,Sassuolo Calcio,3-1,1-0,Hellas Verona
-3,Sat Sep 2 2023,18:30,Bologna FC,2-1,0-1,Cagliari Calcio
-3,Sat Sep 2 2023,18:30,Udinese Calcio,0-0,0-0,Frosinone Calcio
-3,Sat Sep 2 2023,20:45,Atalanta,3-0,2-0,AC Monza
-3,Sat Sep 2 2023,20:45,SSC Napoli,1-2,1-1,Lazio Roma
-3,Sun Sep 3 2023,18:30,Torino FC,1-0,0-0,Genoa CFC
-3,Sun Sep 3 2023,20:45,Empoli FC,0-2,0-1,Juventus
-3,Sun Sep 3 2023,20:45,US Lecce,2-0,1-0,US Salernitana 1919
-3,Sun Sep 3 2023,18:30,Inter,4-0,1-0,ACF Fiorentina
-4,Sat Sep 16 2023,18:00,Inter,5-1,2-0,AC Milan
-4,Sat Sep 16 2023,20:45,Genoa CFC,2-2,1-0,SSC Napoli
-4,Sat Sep 16 2023,15:00,Juventus,3-1,2-0,Lazio Roma
-4,Sun Sep 17 2023,12:30,Cagliari Calcio,0-0,0-0,Udinese Calcio
-4,Sun Sep 17 2023,15:00,Frosinone Calcio,4-2,1-2,Sassuolo Calcio
-4,Sun Sep 17 2023,15:00,AC Monza,1-1,1-1,US Lecce
-4,Sun Sep 17 2023,18:00,ACF Fiorentina,3-2,2-1,Atalanta
-4,Sun Sep 17 2023,20:45,AS Roma,7-0,3-0,Empoli FC
-4,Mon Sep 18 2023,20:45,Hellas Verona,0-0,0-0,Bologna FC
-4,Mon Sep 18 2023,18:30,US Salernitana 1919,0-3,0-2,Torino FC
-5,Fri Sep 22 2023,20:45,US Lecce,1-0,0-0,Genoa CFC
-5,Fri Sep 22 2023,18:30,US Salernitana 1919,1-1,0-1,Frosinone Calcio
-5,Sat Sep 23 2023,18:00,Sassuolo Calcio,4-2,2-1,Juventus
-5,Sat Sep 23 2023,20:45,Lazio Roma,1-1,1-1,AC Monza
-5,Sat Sep 23 2023,15:00,AC Milan,1-0,1-0,Hellas Verona
-5,Sun Sep 24 2023,12:30,Empoli FC,0-1,0-0,Inter
-5,Sun Sep 24 2023,15:00,Atalanta,2-0,1-0,Cagliari Calcio
-5,Sun Sep 24 2023,15:00,Udinese Calcio,0-2,0-1,ACF Fiorentina
-5,Sun Sep 24 2023,18:00,Bologna FC,0-0,0-0,SSC Napoli
-5,Sun Sep 24 2023,20:45,Torino FC,1-1,0-0,AS Roma
-6,Tue Sep 26 2023,20:45,Juventus,1-0,0-0,US Lecce
-6,Wed Sep 27 2023,18:30,Cagliari Calcio,1-3,1-2,AC Milan
-6,Wed Sep 27 2023,18:30,Empoli FC,1-0,1-0,US Salernitana 1919
-6,Wed Sep 27 2023,18:30,Hellas Verona,0-1,0-1,Atalanta
-6,Wed Sep 27 2023,20:45,Inter,1-2,1-0,Sassuolo Calcio
-6,Wed Sep 27 2023,20:45,Lazio Roma,2-0,0-0,Torino FC
-6,Wed Sep 27 2023,20:45,SSC Napoli,4-1,2-0,Udinese Calcio
-6,Thu Sep 28 2023,18:30,AC Monza,0-0,0-0,Bologna FC
-6,Thu Sep 28 2023,20:45,Genoa CFC,4-1,2-1,AS Roma
-6,Thu Sep 28 2023,18:30,Frosinone Calcio,1-1,0-1,ACF Fiorentina
-7,Sat Sep 30 2023,15:00,US Lecce,0-4,0-1,SSC Napoli
-7,Sat Sep 30 2023,18:00,AC Milan,2-0,0-0,Lazio Roma
-7,Sat Sep 30 2023,20:45,US Salernitana 1919,0-4,0-0,Inter
-7,Sun Oct 1 2023,15:00,Udinese Calcio,2-2,1-2,Genoa CFC
-7,Sun Oct 1 2023,18:00,Atalanta,0-0,0-0,Juventus
-7,Sun Oct 1 2023,20:45,AS Roma,2-0,1-0,Frosinone Calcio
-7,Sun Oct 1 2023,12:30,Bologna FC,3-0,1-0,Empoli FC
-7,Mon Oct 2 2023,18:30,Sassuolo Calcio,0-1,0-0,AC Monza
-7,Mon Oct 2 2023,18:30,Torino FC,0-0,0-0,Hellas Verona
-7,Mon Oct 2 2023,20:45,ACF Fiorentina,3-0,2-0,Cagliari Calcio
-8,Fri Oct 6 2023,20:45,US Lecce,1-1,0-1,Sassuolo Calcio
-8,Fri Oct 6 2023,18:30,Empoli FC,0-0,0-0,Udinese Calcio
-8,Sat Oct 7 2023,15:00,Inter,2-2,2-1,Bologna FC
-8,Sat Oct 7 2023,18:00,Juventus,2-0,0-0,Torino FC
-8,Sat Oct 7 2023,20:45,Genoa CFC,0-1,0-0,AC Milan
-8,Sun Oct 8 2023,15:00,Frosinone Calcio,2-1,1-0,Hellas Verona
-8,Sun Oct 8 2023,15:00,Lazio Roma,3-2,2-1,Atalanta
-8,Sun Oct 8 2023,18:00,Cagliari Calcio,1-4,0-2,AS Roma
-8,Sun Oct 8 2023,20:45,SSC Napoli,1-3,1-1,ACF Fiorentina
-8,Sun Oct 8 2023,12:30,AC Monza,3-0,2-0,US Salernitana 1919
-9,Sat Oct 21 2023,18:00,Torino FC,0-3,0-0,Inter
-9,Sat Oct 21 2023,20:45,Sassuolo Calcio,0-2,0-2,Lazio Roma
-9,Sat Oct 21 2023,15:00,Hellas Verona,1-3,0-2,SSC Napoli
-9,Sun Oct 22 2023,12:30,AS Roma,1-0,0-0,AC Monza
-9,Sun Oct 22 2023,15:00,Bologna FC,2-1,2-0,Frosinone Calcio
-9,Sun Oct 22 2023,15:00,US Salernitana 1919,2-2,0-0,Cagliari Calcio
-9,Sun Oct 22 2023,18:00,Atalanta,2-0,0-0,Genoa CFC
-9,Sun Oct 22 2023,20:45,AC Milan,0-1,0-0,Juventus
-9,Mon Oct 23 2023,20:45,ACF Fiorentina,0-2,0-1,Empoli FC
-9,Mon Oct 23 2023,18:30,Udinese Calcio,1-1,0-0,US Lecce
-10,Fri Oct 27 2023,20:45,Genoa CFC,1-0,1-0,US Salernitana 1919
-10,Sat Oct 28 2023,18:00,US Lecce,0-1,0-1,Torino FC
-10,Sat Oct 28 2023,20:45,Juventus,1-0,0-0,Hellas Verona
-10,Sat Oct 28 2023,15:00,Sassuolo Calcio,1-1,1-1,Bologna FC
-10,Sun Oct 29 2023,12:30,Cagliari Calcio,4-3,0-2,Frosinone Calcio
-10,Sun Oct 29 2023,15:00,AC Monza,1-1,1-0,Udinese Calcio
-10,Sun Oct 29 2023,18:00,Inter,1-0,0-0,AS Roma
-10,Sun Oct 29 2023,20:45,SSC Napoli,2-2,0-2,AC Milan
-10,Mon Oct 30 2023,20:45,Lazio Roma,1-0,0-0,ACF Fiorentina
-10,Mon Oct 30 2023,18:30,Empoli FC,0-3,0-2,Atalanta
-11,Fri Nov 3 2023,20:45,Bologna FC,1-0,0-0,Lazio Roma
-11,Sat Nov 4 2023,15:00,US Salernitana 1919,0-2,0-1,SSC Napoli
-11,Sat Nov 4 2023,18:00,Atalanta,1-2,0-1,Inter
-11,Sat Nov 4 2023,20:45,AC Milan,0-1,0-0,Udinese Calcio
-11,Sun Nov 5 2023,15:00,Cagliari Calcio,2-1,0-0,Genoa CFC
-11,Sun Nov 5 2023,18:00,AS Roma,2-1,0-0,US Lecce
-11,Sun Nov 5 2023,20:45,ACF Fiorentina,0-1,0-1,Juventus
-11,Sun Nov 5 2023,12:30,Hellas Verona,1-3,0-1,AC Monza
-11,Mon Nov 6 2023,18:30,Frosinone Calcio,2-1,0-0,Empoli FC
-11,Mon Nov 6 2023,20:45,Torino FC,2-1,1-1,Sassuolo Calcio
-12,Fri Nov 10 2023,20:45,Genoa CFC,1-0,1-0,Hellas Verona
-12,Fri Nov 10 2023,18:30,Sassuolo Calcio,2-2,1-2,US Salernitana 1919
-12,Sat Nov 11 2023,18:00,Juventus,2-1,0-0,Cagliari Calcio
-12,Sat Nov 11 2023,20:45,AC Monza,1-1,0-0,Torino FC
-12,Sat Nov 11 2023,15:00,US Lecce,2-2,0-2,AC Milan
-12,Sun Nov 12 2023,12:30,SSC Napoli,0-1,0-0,Empoli FC
-12,Sun Nov 12 2023,15:00,ACF Fiorentina,2-1,1-1,Bologna FC
-12,Sun Nov 12 2023,15:00,Udinese Calcio,1-1,1-0,Atalanta
-12,Sun Nov 12 2023,18:00,Lazio Roma,0-0,0-0,AS Roma
-12,Sun Nov 12 2023,20:45,Inter,2-0,1-0,Frosinone Calcio
-13,Sat Nov 25 2023,15:00,US Salernitana 1919,2-1,0-1,Lazio Roma
-13,Sat Nov 25 2023,18:00,Atalanta,1-2,0-1,SSC Napoli
-13,Sat Nov 25 2023,20:45,AC Milan,1-0,1-0,ACF Fiorentina
-13,Sun Nov 26 2023,15:00,Empoli FC,3-4,2-2,Sassuolo Calcio
-13,Sun Nov 26 2023,15:00,Frosinone Calcio,2-1,1-1,Genoa CFC
-13,Sun Nov 26 2023,18:00,AS Roma,3-1,1-0,Udinese Calcio
-13,Sun Nov 26 2023,20:45,Juventus,1-1,1-1,Inter
-13,Sun Nov 26 2023,12:30,Cagliari Calcio,1-1,1-0,AC Monza
-13,Mon Nov 27 2023,20:45,Bologna FC,2-0,0-0,Torino FC
-13,Mon Nov 27 2023,18:30,Hellas Verona,2-2,1-1,US Lecce
-14,Fri Dec 1 2023,20:45,AC Monza,1-2,0-1,Juventus
-14,Sat Dec 2 2023,15:00,Genoa CFC,1-1,1-0,Empoli FC
-14,Sat Dec 2 2023,18:00,Lazio Roma,1-0,1-0,Cagliari Calcio
-14,Sat Dec 2 2023,20:45,AC Milan,3-1,1-0,Frosinone Calcio
-14,Sun Dec 3 2023,15:00,ACF Fiorentina,3-0,2-0,US Salernitana 1919
-14,Sun Dec 3 2023,15:00,Udinese Calcio,3-3,2-1,Hellas Verona
-14,Sun Dec 3 2023,18:00,Sassuolo Calcio,1-2,1-0,AS Roma
-14,Sun Dec 3 2023,20:45,SSC Napoli,0-3,0-1,Inter
-14,Sun Dec 3 2023,12:30,US Lecce,1-1,0-0,Bologna FC
-14,Mon Dec 4 2023,20:45,Torino FC,3-0,1-0,Atalanta
-15,Fri Dec 8 2023,20:45,Juventus,1-0,0-0,SSC Napoli
-15,Sat Dec 9 2023,18:00,Atalanta,3-2,1-1,AC Milan
-15,Sat Dec 9 2023,20:45,Inter,4-0,3-0,Udinese Calcio
-15,Sat Dec 9 2023,15:00,Hellas Verona,1-1,0-1,Lazio Roma
-15,Sun Dec 10 2023,12:30,Frosinone Calcio,0-0,0-0,Torino FC
-15,Sun Dec 10 2023,15:00,AC Monza,1-0,0-0,Genoa CFC
-15,Sun Dec 10 2023,18:00,US Salernitana 1919,1-2,0-2,Bologna FC
-15,Sun Dec 10 2023,20:45,AS Roma,1-1,1-0,ACF Fiorentina
-15,Mon Dec 11 2023,20:45,Cagliari Calcio,2-1,0-1,Sassuolo Calcio
-15,Mon Dec 11 2023,18:30,Empoli FC,1-1,0-0,US Lecce
-16,Fri Dec 15 2023,20:45,Genoa CFC,1-1,0-1,Juventus
-16,Sat Dec 16 2023,18:30,SSC Napoli,2-1,0-0,Cagliari Calcio
-16,Sat Dec 16 2023,20:45,Torino FC,1-0,1-0,Empoli FC
-16,Sat Dec 16 2023,15:00,US Lecce,2-1,1-1,Frosinone Calcio
-16,Sun Dec 17 2023,12:30,AC Milan,3-0,2-0,AC Monza
-16,Sun Dec 17 2023,15:00,ACF Fiorentina,1-0,0-0,Hellas Verona
-16,Sun Dec 17 2023,15:00,Udinese Calcio,2-2,1-0,Sassuolo Calcio
-16,Sun Dec 17 2023,18:00,Bologna FC,2-0,1-0,AS Roma
-16,Sun Dec 17 2023,20:45,Lazio Roma,0-2,0-1,Inter
-16,Mon Dec 18 2023,20:45,Atalanta,4-1,0-1,US Salernitana 1919
-17,Fri Dec 22 2023,18:30,Sassuolo Calcio,1-2,1-0,Genoa CFC
-17,Fri Dec 22 2023,20:45,AC Monza,0-1,0-1,ACF Fiorentina
-17,Fri Dec 22 2023,20:45,US Salernitana 1919,2-2,1-1,AC Milan
-17,Fri Dec 22 2023,18:30,Empoli FC,0-2,0-1,Lazio Roma
-17,Sat Dec 23 2023,12:30,Frosinone Calcio,1-2,0-1,Juventus
-17,Sat Dec 23 2023,15:00,Bologna FC,1-0,0-0,Atalanta
-17,Sat Dec 23 2023,15:00,Torino FC,1-1,0-0,Udinese Calcio
-17,Sat Dec 23 2023,18:00,Hellas Verona,2-0,0-0,Cagliari Calcio
-17,Sat Dec 23 2023,18:00,Inter,2-0,1-0,US Lecce
-17,Sat Dec 23 2023,20:45,AS Roma,2-0,0-0,SSC Napoli
-18,Fri Dec 29 2023,18:30,SSC Napoli,0-0,0-0,AC Monza
-18,Fri Dec 29 2023,20:45,Genoa CFC,1-1,1-1,Inter
-18,Fri Dec 29 2023,20:45,Lazio Roma,3-1,0-0,Frosinone Calcio
-18,Fri Dec 29 2023,18:30,ACF Fiorentina,1-0,0-0,Torino FC
-18,Sat Dec 30 2023,12:30,Atalanta,1-0,0-0,US Lecce
-18,Sat Dec 30 2023,15:00,Cagliari Calcio,0-0,0-0,Empoli FC
-18,Sat Dec 30 2023,15:00,Udinese Calcio,3-0,1-0,Bologna FC
-18,Sat Dec 30 2023,18:00,Hellas Verona,0-1,0-0,US Salernitana 1919
-18,Sat Dec 30 2023,18:00,AC Milan,1-0,0-0,Sassuolo Calcio
-18,Sat Dec 30 2023,20:45,Juventus,1-0,0-0,AS Roma
-19,Fri Jan 5 2024,20:45,Bologna FC,1-1,0-1,Genoa CFC
-19,Sat Jan 6 2024,15:00,Frosinone Calcio,2-3,0-2,AC Monza
-19,Sat Jan 6 2024,18:00,US Lecce,1-1,1-0,Cagliari Calcio
-19,Sat Jan 6 2024,20:45,Sassuolo Calcio,1-0,1-0,ACF Fiorentina
-19,Sat Jan 6 2024,12:30,Inter,2-1,1-0,Hellas Verona
-19,Sun Jan 7 2024,12:30,Empoli FC,0-3,0-2,AC Milan
-19,Sun Jan 7 2024,15:00,Torino FC,3-0,1-0,SSC Napoli
-19,Sun Jan 7 2024,15:00,Udinese Calcio,1-2,0-1,Lazio Roma
-19,Sun Jan 7 2024,18:00,US Salernitana 1919,1-2,1-0,Juventus
-19,Sun Jan 7 2024,20:45,AS Roma,1-1,1-1,Atalanta
-20,Sat Jan 13 2024,15:00,Genoa CFC,0-0,0-0,Torino FC
-20,Sat Jan 13 2024,15:00,SSC Napoli,2-1,1-1,US Salernitana 1919
-20,Sat Jan 13 2024,18:00,Hellas Verona,2-1,1-0,Empoli FC
-20,Sat Jan 13 2024,20:45,AC Monza,1-5,0-2,Inter
-20,Sun Jan 14 2024,15:00,Cagliari Calcio,2-1,1-1,Bologna FC
-20,Sun Jan 14 2024,18:00,ACF Fiorentina,2-2,0-1,Udinese Calcio
-20,Sun Jan 14 2024,20:45,AC Milan,3-1,1-0,AS Roma
-20,Sun Jan 14 2024,12:30,Lazio Roma,1-0,0-0,US Lecce
-20,Mon Jan 15 2024,20:45,Atalanta,5-0,3-0,Frosinone Calcio
-20,Tue Jan 16 2024,20:45,Juventus,3-0,2-0,Sassuolo Calcio
-21,Sat Jan 20 2024,20:45,Udinese Calcio,2-3,1-1,AC Milan
-21,Sat Jan 20 2024,18:00,AS Roma,2-1,2-0,Hellas Verona
-21,Sun Jan 21 2024,12:30,Frosinone Calcio,3-1,0-1,Cagliari Calcio
-21,Sun Jan 21 2024,15:00,Empoli FC,3-0,2-0,AC Monza
-21,Sun Jan 21 2024,18:00,US Salernitana 1919,1-2,1-1,Genoa CFC
-21,Sun Jan 21 2024,20:45,US Lecce,0-3,0-0,Juventus
-22,Fri Jan 26 2024,20:45,Cagliari Calcio,1-2,0-2,Torino FC
-22,Sat Jan 27 2024,15:00,Atalanta,2-0,2-0,Udinese Calcio
-22,Sat Jan 27 2024,18:00,Juventus,1-1,0-0,Empoli FC
-22,Sat Jan 27 2024,20:45,AC Milan,2-2,1-1,Bologna FC
-22,Sun Jan 28 2024,15:00,Hellas Verona,1-1,1-0,Frosinone Calcio
-22,Sun Jan 28 2024,15:00,AC Monza,1-0,1-0,Sassuolo Calcio
-22,Sun Jan 28 2024,18:00,Lazio Roma,0-0,0-0,SSC Napoli
-22,Sun Jan 28 2024,20:45,ACF Fiorentina,0-1,0-1,Inter
-22,Sun Jan 28 2024,12:30,Genoa CFC,2-1,0-1,US Lecce
-22,Mon Jan 29 2024,20:45,US Salernitana 1919,1-2,0-0,AS Roma
-23,Fri Feb 2 2024,20:45,US Lecce,3-2,1-0,ACF Fiorentina
-23,Sat Feb 3 2024,15:00,Empoli FC,0-0,0-0,Genoa CFC
-23,Sat Feb 3 2024,15:00,Udinese Calcio,0-0,0-0,AC Monza
-23,Sat Feb 3 2024,20:45,Bologna FC,4-2,1-2,Sassuolo Calcio
-23,Sat Feb 3 2024,18:00,Frosinone Calcio,2-3,1-1,AC Milan
-23,Sun Feb 4 2024,20:45,Inter,1-0,1-0,Juventus
-23,Sun Feb 4 2024,18:00,Atalanta,3-1,2-0,Lazio Roma
-23,Sun Feb 4 2024,15:00,SSC Napoli,2-1,0-0,Hellas Verona
-23,Sun Feb 4 2024,12:30,Torino FC,0-0,0-0,US Salernitana 1919
-23,Mon Feb 5 2024,20:45,AS Roma,4-0,2-0,Cagliari Calcio
-24,Fri Feb 9 2024,20:45,US Salernitana 1919,1-3,0-1,Empoli FC
-24,Sat Feb 10 2024,15:00,Cagliari Calcio,1-3,0-1,Lazio Roma
-24,Sat Feb 10 2024,18:00,AS Roma,2-4,2-1,Inter
-24,Sat Feb 10 2024,20:45,Sassuolo Calcio,1-1,1-1,Torino FC
-24,Sun Feb 11 2024,20:45,AC Milan,1-0,1-0,SSC Napoli
-24,Sun Feb 11 2024,12:30,ACF Fiorentina,5-1,3-0,Frosinone Calcio
-24,Sun Feb 11 2024,15:00,AC Monza,0-0,0-0,Hellas Verona
-24,Sun Feb 11 2024,18:00,Genoa CFC,1-4,0-1,Atalanta
-24,Sun Feb 11 2024,15:00,Bologna FC,4-0,2-0,US Lecce
-24,Mon Feb 12 2024,20:45,Juventus,0-1,0-1,Udinese Calcio
-21,Wed Feb 14 2024,19:00,Bologna FC,2-0,1-0,ACF Fiorentina
-25,Fri Feb 16 2024,21:00,Inter,4-0,3-0,US Salernitana 1919
-25,Fri Feb 16 2024,19:00,Torino FC,2-0,0-0,US Lecce
-25,Sat Feb 17 2024,20:45,Atalanta,3-0,1-0,Sassuolo Calcio
-25,Sat Feb 17 2024,15:00,SSC Napoli,1-1,0-0,Genoa CFC
-25,Sat Feb 17 2024,18:00,Hellas Verona,2-2,1-1,Juventus
-25,Sun Feb 18 2024,20:45,AC Monza,4-2,2-0,AC Milan
-25,Sun Feb 18 2024,18:00,Frosinone Calcio,0-3,0-1,AS Roma
-25,Sun Feb 18 2024,15:00,Udinese Calcio,1-1,1-1,Cagliari Calcio
-25,Sun Feb 18 2024,12:30,Lazio Roma,1-2,1-1,Bologna FC
-25,Sun Feb 18 2024,15:00,Empoli FC,1-1,0-1,ACF Fiorentina
-21,Thu Feb 22 2024,20:45,Torino FC,0-2,0-0,Lazio Roma
-26,Fri Feb 23 2024,20:45,Bologna FC,2-0,1-0,Hellas Verona
-26,Sat Feb 24 2024,18:00,US Salernitana 1919,0-2,0-0,AC Monza
-26,Sat Feb 24 2024,20:45,Genoa CFC,2-0,2-0,Udinese Calcio
-26,Sat Feb 24 2024,15:00,Sassuolo Calcio,2-3,0-1,Empoli FC
-26,Sun Feb 25 2024,18:00,US Lecce,0-4,0-1,Inter
-26,Sun Feb 25 2024,12:30,Juventus,3-2,2-2,Frosinone Calcio
-26,Sun Feb 25 2024,15:00,Cagliari Calcio,1-1,0-0,SSC Napoli
-26,Sun Feb 25 2024,20:45,AC Milan,1-1,1-1,Atalanta
-26,Mon Feb 26 2024,20:45,ACF Fiorentina,2-1,0-1,Lazio Roma
-26,Mon Feb 26 2024,18:30,AS Roma,3-2,1-1,Torino FC
-21,Wed Feb 28 2024,20:45,Inter,4-0,2-0,Atalanta
-21,Wed Feb 28 2024,18:00,Sassuolo Calcio,1-6,1-3,SSC Napoli
-27,Fri Mar 1 2024,20:45,Lazio Roma,0-1,0-0,AC Milan
-27,Sat Mar 2 2024,18:00,AC Monza,1-4,0-2,AS Roma
-27,Sat Mar 2 2024,20:45,Torino FC,0-0,0-0,ACF Fiorentina
-27,Sat Mar 2 2024,15:00,Udinese Calcio,1-1,1-1,US Salernitana 1919
-27,Sun Mar 3 2024,12:30,Hellas Verona,1-0,0-0,Sassuolo Calcio
-27,Sun Mar 3 2024,15:00,Empoli FC,0-1,0-0,Cagliari Calcio
-27,Sun Mar 3 2024,15:00,Frosinone Calcio,1-1,1-0,US Lecce
-27,Sun Mar 3 2024,18:00,Atalanta,1-2,1-0,Bologna FC
-27,Sun Mar 3 2024,20:45,SSC Napoli,2-1,1-0,Juventus
-27,Mon Mar 4 2024,20:45,Inter,2-1,2-0,Genoa CFC
-28,Fri Mar 8 2024,20:45,SSC Napoli,1-1,0-0,Torino FC
-28,Sat Mar 9 2024,15:00,Cagliari Calcio,4-2,2-0,US Salernitana 1919
-28,Sat Mar 9 2024,15:00,Sassuolo Calcio,1-0,0-0,Frosinone Calcio
-28,Sat Mar 9 2024,18:00,Bologna FC,0-1,0-1,Inter
-28,Sat Mar 9 2024,20:45,Genoa CFC,2-3,0-2,AC Monza
-28,Sun Mar 10 2024,15:00,AC Milan,1-0,1-0,Empoli FC
-28,Sun Mar 10 2024,18:00,Juventus,2-2,0-1,Atalanta
-28,Sun Mar 10 2024,20:45,ACF Fiorentina,2-2,1-0,AS Roma
-28,Sun Mar 10 2024,12:30,US Lecce,0-1,0-1,Hellas Verona
-28,Mon Mar 11 2024,20:45,Lazio Roma,1-2,0-0,Udinese Calcio
-29,Fri Mar 15 2024,20:45,Empoli FC,0-1,0-0,Bologna FC
-29,Sat Mar 16 2024,15:00,Udinese Calcio,0-2,0-1,Torino FC
-29,Sat Mar 16 2024,18:00,US Salernitana 1919,0-1,0-1,US Lecce
-29,Sat Mar 16 2024,20:45,Frosinone Calcio,2-3,1-1,Lazio Roma
-29,Sat Mar 16 2024,15:00,AC Monza,1-0,1-0,Cagliari Calcio
-29,Sun Mar 17 2024,12:30,Juventus,0-0,0-0,Genoa CFC
-29,Sun Mar 17 2024,15:00,Hellas Verona,1-3,0-1,AC Milan
-29,Sun Mar 17 2024,18:00,AS Roma,1-0,0-0,Sassuolo Calcio
-29,Sun Mar 17 2024,20:45,Inter,1-1,1-0,SSC Napoli
-30,Sat Mar 30 2024,12:30,SSC Napoli,0-3,0-2,Atalanta
-30,Sat Mar 30 2024,15:00,Genoa CFC,1-1,1-1,Frosinone Calcio
-30,Sat Mar 30 2024,15:00,Torino FC,1-0,0-0,AC Monza
-30,Sat Mar 30 2024,18:00,Lazio Roma,1-0,0-0,Juventus
-30,Sat Mar 30 2024,20:45,ACF Fiorentina,1-2,0-0,AC Milan
-30,Mon Apr 1 2024,20:45,Inter,2-0,1-0,Empoli FC
-30,Mon Apr 1 2024,12:30,Bologna FC,3-0,2-0,US Salernitana 1919
-30,Mon Apr 1 2024,15:00,Cagliari Calcio,1-1,0-1,Hellas Verona
-30,Mon Apr 1 2024,15:00,Sassuolo Calcio,1-1,1-1,Udinese Calcio
-30,Mon Apr 1 2024,18:00,US Lecce,0-0,0-0,AS Roma
-31,Fri Apr 5 2024,20:45,US Salernitana 1919,2-2,0-2,Sassuolo Calcio
-31,Sat Apr 6 2024,15:00,AC Milan,3-0,2-0,US Lecce
-31,Sat Apr 6 2024,18:00,AS Roma,1-0,1-0,Lazio Roma
-31,Sat Apr 6 2024,20:45,Empoli FC,3-2,1-0,Torino FC
-31,Sun Apr 7 2024,20:45,Juventus,1-0,1-0,ACF Fiorentina
-31,Sun Apr 7 2024,12:30,Frosinone Calcio,0-0,0-0,Bologna FC
-31,Sun Apr 7 2024,15:00,AC Monza,2-4,1-0,SSC Napoli
-31,Sun Apr 7 2024,18:00,Cagliari Calcio,2-1,1-1,Atalanta
-31,Sun Apr 7 2024,18:00,Hellas Verona,1-2,1-1,Genoa CFC
-31,Mon Apr 8 2024,20:45,Udinese Calcio,1-2,1-0,Inter
-32,Fri Apr 12 2024,20:45,Lazio Roma,4-1,3-1,US Salernitana 1919
-32,Sat Apr 13 2024,15:00,US Lecce,1-0,0-0,Empoli FC
-32,Sat Apr 13 2024,20:45,Bologna FC,0-0,0-0,AC Monza
-32,Sat Apr 13 2024,18:00,Torino FC,0-0,0-0,Juventus
-32,Sun Apr 14 2024,12:30,SSC Napoli,2-2,1-0,Frosinone Calcio
-32,Sun Apr 14 2024,15:00,Sassuolo Calcio,3-3,2-1,AC Milan
-32,Sun Apr 14 2024,20:45,Inter,2-2,1-0,Cagliari Calcio
-32,Mon Apr 15 2024,18:30,ACF Fiorentina,1-1,0-1,Genoa CFC
-32,Mon Apr 15 2024,20:45,Atalanta,2-2,2-0,Hellas Verona
-33,Fri Apr 19 2024,18:30,Genoa CFC,0-1,0-0,Lazio Roma
-33,Fri Apr 19 2024,20:45,Cagliari Calcio,2-2,2-0,Juventus
-33,Sat Apr 20 2024,20:45,Hellas Verona,1-0,0-0,Udinese Calcio
-33,Sat Apr 20 2024,18:00,Empoli FC,1-0,1-0,SSC Napoli
-33,Sun Apr 21 2024,18:00,US Salernitana 1919,0-2,0-0,ACF Fiorentina
-33,Sun Apr 21 2024,12:30,Sassuolo Calcio,0-3,0-2,US Lecce
-33,Sun Apr 21 2024,15:00,Torino FC,0-0,0-0,Frosinone Calcio
-33,Sun Apr 21 2024,20:45,AC Monza,1-2,0-1,Atalanta
-33,Mon Apr 22 2024,18:30,AS Roma,1-3,0-2,Bologna FC
-33,Mon Apr 22 2024,20:45,AC Milan,1-2,0-1,Inter
-32,Thu Apr 25 2024,20:00,Udinese Calcio,1-2,1-0,AS Roma
-34,Fri Apr 26 2024,20:45,Frosinone Calcio,3-0,2-0,US Salernitana 1919
-34,Sat Apr 27 2024,15:00,US Lecce,1-1,0-0,AC Monza
-34,Sat Apr 27 2024,18:00,Juventus,0-0,0-0,AC Milan
-34,Sat Apr 27 2024,20:45,Lazio Roma,1-0,0-0,Hellas Verona
-34,Sun Apr 28 2024,12:30,Inter,2-0,0-0,Torino FC
-34,Sun Apr 28 2024,20:45,ACF Fiorentina,5-1,1-0,Sassuolo Calcio
-34,Sun Apr 28 2024,15:00,Bologna FC,1-1,0-1,Udinese Calcio
-34,Sun Apr 28 2024,18:00,Atalanta,2-0,1-0,Empoli FC
-34,Sun Apr 28 2024,18:00,SSC Napoli,2-2,0-0,AS Roma
-34,Mon Apr 29 2024,20:45,Genoa CFC,3-0,2-0,Cagliari Calcio
-35,Fri May 3 2024,20:45,Torino FC,0-0,0-0,Bologna FC
-35,Sat May 4 2024,18:00,AC Monza,2-2,0-1,Lazio Roma
-35,Sat May 4 2024,20:45,Sassuolo Calcio,1-0,1-0,Inter
-35,Sun May 5 2024,15:00,Hellas Verona,2-1,1-1,ACF Fiorentina
-35,Sun May 5 2024,12:30,Cagliari Calcio,1-1,1-0,US Lecce
-35,Sun May 5 2024,15:00,Empoli FC,0-0,0-0,Frosinone Calcio
-35,Sun May 5 2024,20:45,AS Roma,1-1,1-1,Juventus
-35,Sun May 5 2024,18:00,AC Milan,3-3,1-1,Genoa CFC
-35,Mon May 6 2024,18:00,US Salernitana 1919,1-2,1-0,Atalanta
-35,Mon May 6 2024,20:45,Udinese Calcio,1-1,0-0,SSC Napoli
-36,Fri May 10 2024,20:45,Frosinone Calcio,0-5,0-1,Inter
-36,Sat May 11 2024,20:45,AC Milan,5-1,1-0,Cagliari Calcio
-36,Sat May 11 2024,18:00,SSC Napoli,0-2,0-2,Bologna FC
-36,Sun May 12 2024,18:00,Juventus,1-1,0-1,US Salernitana 1919
-36,Sun May 12 2024,12:30,Lazio Roma,2-0,1-0,Empoli FC
-36,Sun May 12 2024,15:00,Genoa CFC,2-1,0-1,Sassuolo Calcio
-36,Sun May 12 2024,15:00,Hellas Verona,1-2,0-0,Torino FC
-36,Sun May 12 2024,20:45,Atalanta,2-1,2-0,AS Roma
-36,Mon May 13 2024,18:30,US Lecce,0-2,0-1,Udinese Calcio
-36,Mon May 13 2024,20:45,ACF Fiorentina,2-1,1-1,AC Monza
-37,Fri May 17 2024,20:45,ACF Fiorentina,2-2,2-1,SSC Napoli
-37,Sat May 18 2024,18:00,US Lecce,0-2,0-0,Atalanta
-37,Sat May 18 2024,20:45,Torino FC,3-1,2-0,AC Milan
-37,Sun May 19 2024,15:00,AC Monza,0-1,0-1,Frosinone Calcio
-37,Sun May 19 2024,12:30,Sassuolo Calcio,0-2,0-0,Cagliari Calcio
-37,Sun May 19 2024,20:45,AS Roma,1-0,0-0,Genoa CFC
-37,Sun May 19 2024,15:00,Udinese Calcio,1-1,0-0,Empoli FC
-37,Sun May 19 2024,18:00,Inter,1-1,0-1,Lazio Roma
-37,Mon May 20 2024,18:30,US Salernitana 1919,1-2,0-2,Hellas Verona
-37,Mon May 20 2024,20:45,Bologna FC,3-3,2-0,Juventus
-38,Thu May 23 2024,20:45,Cagliari Calcio,2-3,0-1,ACF Fiorentina
-38,Fri May 24 2024,20:45,Genoa CFC,2-0,1-0,Bologna FC
-38,Sat May 25 2024,20:45,AC Milan,3-3,2-0,US Salernitana 1919
-38,Sat May 25 2024,18:00,Juventus,2-0,2-0,AC Monza
-38,Sun May 26 2024,20:45,Lazio Roma,1-1,0-0,Sassuolo Calcio
-38,Sun May 26 2024,18:00,Atalanta,3-0,2-0,Torino FC
-38,Sun May 26 2024,18:00,SSC Napoli,0-0,0-0,US Lecce
-38,Sun May 26 2024,20:45,Empoli FC,2-1,1-1,AS Roma
-38,Sun May 26 2024,20:45,Frosinone Calcio,0-1,0-0,Udinese Calcio
-38,Sun May 26 2024,20:45,Hellas Verona,2-2,2-2,Inter
-29,Sun Jun 2 2024,18:00,Atalanta,2-3,2-3,ACF Fiorentina
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 19 2023,18:30,CEST/+0200,Frosinone Calcio,1-3,1-2,SSC Napoli,2023-08-19T16:30Z
+1,Sat Aug 19 2023,20:45,CEST/+0200,Genoa CFC,1-4,0-3,ACF Fiorentina,2023-08-19T18:45Z
+1,Sat Aug 19 2023,20:45,CEST/+0200,Inter,2-0,1-0,AC Monza,2023-08-19T18:45Z
+1,Sat Aug 19 2023,18:30,CEST/+0200,Empoli FC,0-1,0-0,Hellas Verona,2023-08-19T16:30Z
+1,Sun Aug 20 2023,18:30,CEST/+0200,AS Roma,2-2,1-1,US Salernitana 1919,2023-08-20T16:30Z
+1,Sun Aug 20 2023,18:30,CEST/+0200,Sassuolo Calcio,0-2,0-0,Atalanta,2023-08-20T16:30Z
+1,Sun Aug 20 2023,20:45,CEST/+0200,US Lecce,2-1,0-1,Lazio Roma,2023-08-20T18:45Z
+1,Sun Aug 20 2023,20:45,CEST/+0200,Udinese Calcio,0-3,0-3,Juventus,2023-08-20T18:45Z
+1,Mon Aug 21 2023,20:45,CEST/+0200,Bologna FC,0-2,0-2,AC Milan,2023-08-21T18:45Z
+1,Mon Aug 21 2023,18:30,CEST/+0200,Torino FC,0-0,0-0,Cagliari Calcio,2023-08-21T16:30Z
+2,Sat Aug 26 2023,18:30,CEST/+0200,Frosinone Calcio,2-1,2-0,Atalanta,2023-08-26T16:30Z
+2,Sat Aug 26 2023,18:30,CEST/+0200,AC Monza,2-0,1-0,Empoli FC,2023-08-26T16:30Z
+2,Sat Aug 26 2023,20:45,CEST/+0200,Hellas Verona,2-1,2-0,AS Roma,2023-08-26T18:45Z
+2,Sat Aug 26 2023,20:45,CEST/+0200,AC Milan,4-1,3-1,Torino FC,2023-08-26T18:45Z
+2,Sun Aug 27 2023,18:30,CEST/+0200,Juventus,1-1,0-1,Bologna FC,2023-08-27T16:30Z
+2,Sun Aug 27 2023,20:45,CEST/+0200,Lazio Roma,0-1,0-1,Genoa CFC,2023-08-27T18:45Z
+2,Sun Aug 27 2023,20:45,CEST/+0200,SSC Napoli,2-0,1-0,Sassuolo Calcio,2023-08-27T18:45Z
+2,Sun Aug 27 2023,18:30,CEST/+0200,ACF Fiorentina,2-2,2-0,US Lecce,2023-08-27T16:30Z
+2,Mon Aug 28 2023,20:45,CEST/+0200,Cagliari Calcio,0-2,0-2,Inter,2023-08-28T18:45Z
+2,Mon Aug 28 2023,18:30,CEST/+0200,US Salernitana 1919,1-1,0-0,Udinese Calcio,2023-08-28T16:30Z
+3,Fri Sep 1 2023,20:45,CEST/+0200,AS Roma,1-2,0-1,AC Milan,2023-09-01T18:45Z
+3,Fri Sep 1 2023,18:30,CEST/+0200,Sassuolo Calcio,3-1,1-0,Hellas Verona,2023-09-01T16:30Z
+3,Sat Sep 2 2023,18:30,CEST/+0200,Bologna FC,2-1,0-1,Cagliari Calcio,2023-09-02T16:30Z
+3,Sat Sep 2 2023,18:30,CEST/+0200,Udinese Calcio,0-0,0-0,Frosinone Calcio,2023-09-02T16:30Z
+3,Sat Sep 2 2023,20:45,CEST/+0200,Atalanta,3-0,2-0,AC Monza,2023-09-02T18:45Z
+3,Sat Sep 2 2023,20:45,CEST/+0200,SSC Napoli,1-2,1-1,Lazio Roma,2023-09-02T18:45Z
+3,Sun Sep 3 2023,18:30,CEST/+0200,Torino FC,1-0,0-0,Genoa CFC,2023-09-03T16:30Z
+3,Sun Sep 3 2023,20:45,CEST/+0200,Empoli FC,0-2,0-1,Juventus,2023-09-03T18:45Z
+3,Sun Sep 3 2023,20:45,CEST/+0200,US Lecce,2-0,1-0,US Salernitana 1919,2023-09-03T18:45Z
+3,Sun Sep 3 2023,18:30,CEST/+0200,Inter,4-0,1-0,ACF Fiorentina,2023-09-03T16:30Z
+4,Sat Sep 16 2023,18:00,CEST/+0200,Inter,5-1,2-0,AC Milan,2023-09-16T16:00Z
+4,Sat Sep 16 2023,20:45,CEST/+0200,Genoa CFC,2-2,1-0,SSC Napoli,2023-09-16T18:45Z
+4,Sat Sep 16 2023,15:00,CEST/+0200,Juventus,3-1,2-0,Lazio Roma,2023-09-16T13:00Z
+4,Sun Sep 17 2023,12:30,CEST/+0200,Cagliari Calcio,0-0,0-0,Udinese Calcio,2023-09-17T10:30Z
+4,Sun Sep 17 2023,15:00,CEST/+0200,Frosinone Calcio,4-2,1-2,Sassuolo Calcio,2023-09-17T13:00Z
+4,Sun Sep 17 2023,15:00,CEST/+0200,AC Monza,1-1,1-1,US Lecce,2023-09-17T13:00Z
+4,Sun Sep 17 2023,18:00,CEST/+0200,ACF Fiorentina,3-2,2-1,Atalanta,2023-09-17T16:00Z
+4,Sun Sep 17 2023,20:45,CEST/+0200,AS Roma,7-0,3-0,Empoli FC,2023-09-17T18:45Z
+4,Mon Sep 18 2023,20:45,CEST/+0200,Hellas Verona,0-0,0-0,Bologna FC,2023-09-18T18:45Z
+4,Mon Sep 18 2023,18:30,CEST/+0200,US Salernitana 1919,0-3,0-2,Torino FC,2023-09-18T16:30Z
+5,Fri Sep 22 2023,20:45,CEST/+0200,US Lecce,1-0,0-0,Genoa CFC,2023-09-22T18:45Z
+5,Fri Sep 22 2023,18:30,CEST/+0200,US Salernitana 1919,1-1,0-1,Frosinone Calcio,2023-09-22T16:30Z
+5,Sat Sep 23 2023,18:00,CEST/+0200,Sassuolo Calcio,4-2,2-1,Juventus,2023-09-23T16:00Z
+5,Sat Sep 23 2023,20:45,CEST/+0200,Lazio Roma,1-1,1-1,AC Monza,2023-09-23T18:45Z
+5,Sat Sep 23 2023,15:00,CEST/+0200,AC Milan,1-0,1-0,Hellas Verona,2023-09-23T13:00Z
+5,Sun Sep 24 2023,12:30,CEST/+0200,Empoli FC,0-1,0-0,Inter,2023-09-24T10:30Z
+5,Sun Sep 24 2023,15:00,CEST/+0200,Atalanta,2-0,1-0,Cagliari Calcio,2023-09-24T13:00Z
+5,Sun Sep 24 2023,15:00,CEST/+0200,Udinese Calcio,0-2,0-1,ACF Fiorentina,2023-09-24T13:00Z
+5,Sun Sep 24 2023,18:00,CEST/+0200,Bologna FC,0-0,0-0,SSC Napoli,2023-09-24T16:00Z
+5,Sun Sep 24 2023,20:45,CEST/+0200,Torino FC,1-1,0-0,AS Roma,2023-09-24T18:45Z
+6,Tue Sep 26 2023,20:45,CEST/+0200,Juventus,1-0,0-0,US Lecce,2023-09-26T18:45Z
+6,Wed Sep 27 2023,18:30,CEST/+0200,Cagliari Calcio,1-3,1-2,AC Milan,2023-09-27T16:30Z
+6,Wed Sep 27 2023,18:30,CEST/+0200,Empoli FC,1-0,1-0,US Salernitana 1919,2023-09-27T16:30Z
+6,Wed Sep 27 2023,18:30,CEST/+0200,Hellas Verona,0-1,0-1,Atalanta,2023-09-27T16:30Z
+6,Wed Sep 27 2023,20:45,CEST/+0200,Inter,1-2,1-0,Sassuolo Calcio,2023-09-27T18:45Z
+6,Wed Sep 27 2023,20:45,CEST/+0200,Lazio Roma,2-0,0-0,Torino FC,2023-09-27T18:45Z
+6,Wed Sep 27 2023,20:45,CEST/+0200,SSC Napoli,4-1,2-0,Udinese Calcio,2023-09-27T18:45Z
+6,Thu Sep 28 2023,18:30,CEST/+0200,AC Monza,0-0,0-0,Bologna FC,2023-09-28T16:30Z
+6,Thu Sep 28 2023,20:45,CEST/+0200,Genoa CFC,4-1,2-1,AS Roma,2023-09-28T18:45Z
+6,Thu Sep 28 2023,18:30,CEST/+0200,Frosinone Calcio,1-1,0-1,ACF Fiorentina,2023-09-28T16:30Z
+7,Sat Sep 30 2023,15:00,CEST/+0200,US Lecce,0-4,0-1,SSC Napoli,2023-09-30T13:00Z
+7,Sat Sep 30 2023,18:00,CEST/+0200,AC Milan,2-0,0-0,Lazio Roma,2023-09-30T16:00Z
+7,Sat Sep 30 2023,20:45,CEST/+0200,US Salernitana 1919,0-4,0-0,Inter,2023-09-30T18:45Z
+7,Sun Oct 1 2023,15:00,CEST/+0200,Udinese Calcio,2-2,1-2,Genoa CFC,2023-10-01T13:00Z
+7,Sun Oct 1 2023,18:00,CEST/+0200,Atalanta,0-0,0-0,Juventus,2023-10-01T16:00Z
+7,Sun Oct 1 2023,20:45,CEST/+0200,AS Roma,2-0,1-0,Frosinone Calcio,2023-10-01T18:45Z
+7,Sun Oct 1 2023,12:30,CEST/+0200,Bologna FC,3-0,1-0,Empoli FC,2023-10-01T10:30Z
+7,Mon Oct 2 2023,18:30,CEST/+0200,Sassuolo Calcio,0-1,0-0,AC Monza,2023-10-02T16:30Z
+7,Mon Oct 2 2023,18:30,CEST/+0200,Torino FC,0-0,0-0,Hellas Verona,2023-10-02T16:30Z
+7,Mon Oct 2 2023,20:45,CEST/+0200,ACF Fiorentina,3-0,2-0,Cagliari Calcio,2023-10-02T18:45Z
+8,Fri Oct 6 2023,20:45,CEST/+0200,US Lecce,1-1,0-1,Sassuolo Calcio,2023-10-06T18:45Z
+8,Fri Oct 6 2023,18:30,CEST/+0200,Empoli FC,0-0,0-0,Udinese Calcio,2023-10-06T16:30Z
+8,Sat Oct 7 2023,15:00,CEST/+0200,Inter,2-2,2-1,Bologna FC,2023-10-07T13:00Z
+8,Sat Oct 7 2023,18:00,CEST/+0200,Juventus,2-0,0-0,Torino FC,2023-10-07T16:00Z
+8,Sat Oct 7 2023,20:45,CEST/+0200,Genoa CFC,0-1,0-0,AC Milan,2023-10-07T18:45Z
+8,Sun Oct 8 2023,15:00,CEST/+0200,Frosinone Calcio,2-1,1-0,Hellas Verona,2023-10-08T13:00Z
+8,Sun Oct 8 2023,15:00,CEST/+0200,Lazio Roma,3-2,2-1,Atalanta,2023-10-08T13:00Z
+8,Sun Oct 8 2023,18:00,CEST/+0200,Cagliari Calcio,1-4,0-2,AS Roma,2023-10-08T16:00Z
+8,Sun Oct 8 2023,20:45,CEST/+0200,SSC Napoli,1-3,1-1,ACF Fiorentina,2023-10-08T18:45Z
+8,Sun Oct 8 2023,12:30,CEST/+0200,AC Monza,3-0,2-0,US Salernitana 1919,2023-10-08T10:30Z
+9,Sat Oct 21 2023,18:00,CEST/+0200,Torino FC,0-3,0-0,Inter,2023-10-21T16:00Z
+9,Sat Oct 21 2023,20:45,CEST/+0200,Sassuolo Calcio,0-2,0-2,Lazio Roma,2023-10-21T18:45Z
+9,Sat Oct 21 2023,15:00,CEST/+0200,Hellas Verona,1-3,0-2,SSC Napoli,2023-10-21T13:00Z
+9,Sun Oct 22 2023,12:30,CEST/+0200,AS Roma,1-0,0-0,AC Monza,2023-10-22T10:30Z
+9,Sun Oct 22 2023,15:00,CEST/+0200,Bologna FC,2-1,2-0,Frosinone Calcio,2023-10-22T13:00Z
+9,Sun Oct 22 2023,15:00,CEST/+0200,US Salernitana 1919,2-2,0-0,Cagliari Calcio,2023-10-22T13:00Z
+9,Sun Oct 22 2023,18:00,CEST/+0200,Atalanta,2-0,0-0,Genoa CFC,2023-10-22T16:00Z
+9,Sun Oct 22 2023,20:45,CEST/+0200,AC Milan,0-1,0-0,Juventus,2023-10-22T18:45Z
+9,Mon Oct 23 2023,20:45,CEST/+0200,ACF Fiorentina,0-2,0-1,Empoli FC,2023-10-23T18:45Z
+9,Mon Oct 23 2023,18:30,CEST/+0200,Udinese Calcio,1-1,0-0,US Lecce,2023-10-23T16:30Z
+10,Fri Oct 27 2023,20:45,CEST/+0200,Genoa CFC,1-0,1-0,US Salernitana 1919,2023-10-27T18:45Z
+10,Sat Oct 28 2023,18:00,CEST/+0200,US Lecce,0-1,0-1,Torino FC,2023-10-28T16:00Z
+10,Sat Oct 28 2023,20:45,CEST/+0200,Juventus,1-0,0-0,Hellas Verona,2023-10-28T18:45Z
+10,Sat Oct 28 2023,15:00,CEST/+0200,Sassuolo Calcio,1-1,1-1,Bologna FC,2023-10-28T13:00Z
+10,Sun Oct 29 2023,12:30,CET/+0100,Cagliari Calcio,4-3,0-2,Frosinone Calcio,2023-10-29T11:30Z
+10,Sun Oct 29 2023,15:00,CET/+0100,AC Monza,1-1,1-0,Udinese Calcio,2023-10-29T14:00Z
+10,Sun Oct 29 2023,18:00,CET/+0100,Inter,1-0,0-0,AS Roma,2023-10-29T17:00Z
+10,Sun Oct 29 2023,20:45,CET/+0100,SSC Napoli,2-2,0-2,AC Milan,2023-10-29T19:45Z
+10,Mon Oct 30 2023,20:45,CET/+0100,Lazio Roma,1-0,0-0,ACF Fiorentina,2023-10-30T19:45Z
+10,Mon Oct 30 2023,18:30,CET/+0100,Empoli FC,0-3,0-2,Atalanta,2023-10-30T17:30Z
+11,Fri Nov 3 2023,20:45,CET/+0100,Bologna FC,1-0,0-0,Lazio Roma,2023-11-03T19:45Z
+11,Sat Nov 4 2023,15:00,CET/+0100,US Salernitana 1919,0-2,0-1,SSC Napoli,2023-11-04T14:00Z
+11,Sat Nov 4 2023,18:00,CET/+0100,Atalanta,1-2,0-1,Inter,2023-11-04T17:00Z
+11,Sat Nov 4 2023,20:45,CET/+0100,AC Milan,0-1,0-0,Udinese Calcio,2023-11-04T19:45Z
+11,Sun Nov 5 2023,15:00,CET/+0100,Cagliari Calcio,2-1,0-0,Genoa CFC,2023-11-05T14:00Z
+11,Sun Nov 5 2023,18:00,CET/+0100,AS Roma,2-1,0-0,US Lecce,2023-11-05T17:00Z
+11,Sun Nov 5 2023,20:45,CET/+0100,ACF Fiorentina,0-1,0-1,Juventus,2023-11-05T19:45Z
+11,Sun Nov 5 2023,12:30,CET/+0100,Hellas Verona,1-3,0-1,AC Monza,2023-11-05T11:30Z
+11,Mon Nov 6 2023,18:30,CET/+0100,Frosinone Calcio,2-1,0-0,Empoli FC,2023-11-06T17:30Z
+11,Mon Nov 6 2023,20:45,CET/+0100,Torino FC,2-1,1-1,Sassuolo Calcio,2023-11-06T19:45Z
+12,Fri Nov 10 2023,20:45,CET/+0100,Genoa CFC,1-0,1-0,Hellas Verona,2023-11-10T19:45Z
+12,Fri Nov 10 2023,18:30,CET/+0100,Sassuolo Calcio,2-2,1-2,US Salernitana 1919,2023-11-10T17:30Z
+12,Sat Nov 11 2023,18:00,CET/+0100,Juventus,2-1,0-0,Cagliari Calcio,2023-11-11T17:00Z
+12,Sat Nov 11 2023,20:45,CET/+0100,AC Monza,1-1,0-0,Torino FC,2023-11-11T19:45Z
+12,Sat Nov 11 2023,15:00,CET/+0100,US Lecce,2-2,0-2,AC Milan,2023-11-11T14:00Z
+12,Sun Nov 12 2023,12:30,CET/+0100,SSC Napoli,0-1,0-0,Empoli FC,2023-11-12T11:30Z
+12,Sun Nov 12 2023,15:00,CET/+0100,ACF Fiorentina,2-1,1-1,Bologna FC,2023-11-12T14:00Z
+12,Sun Nov 12 2023,15:00,CET/+0100,Udinese Calcio,1-1,1-0,Atalanta,2023-11-12T14:00Z
+12,Sun Nov 12 2023,18:00,CET/+0100,Lazio Roma,0-0,0-0,AS Roma,2023-11-12T17:00Z
+12,Sun Nov 12 2023,20:45,CET/+0100,Inter,2-0,1-0,Frosinone Calcio,2023-11-12T19:45Z
+13,Sat Nov 25 2023,15:00,CET/+0100,US Salernitana 1919,2-1,0-1,Lazio Roma,2023-11-25T14:00Z
+13,Sat Nov 25 2023,18:00,CET/+0100,Atalanta,1-2,0-1,SSC Napoli,2023-11-25T17:00Z
+13,Sat Nov 25 2023,20:45,CET/+0100,AC Milan,1-0,1-0,ACF Fiorentina,2023-11-25T19:45Z
+13,Sun Nov 26 2023,15:00,CET/+0100,Empoli FC,3-4,2-2,Sassuolo Calcio,2023-11-26T14:00Z
+13,Sun Nov 26 2023,15:00,CET/+0100,Frosinone Calcio,2-1,1-1,Genoa CFC,2023-11-26T14:00Z
+13,Sun Nov 26 2023,18:00,CET/+0100,AS Roma,3-1,1-0,Udinese Calcio,2023-11-26T17:00Z
+13,Sun Nov 26 2023,20:45,CET/+0100,Juventus,1-1,1-1,Inter,2023-11-26T19:45Z
+13,Sun Nov 26 2023,12:30,CET/+0100,Cagliari Calcio,1-1,1-0,AC Monza,2023-11-26T11:30Z
+13,Mon Nov 27 2023,20:45,CET/+0100,Bologna FC,2-0,0-0,Torino FC,2023-11-27T19:45Z
+13,Mon Nov 27 2023,18:30,CET/+0100,Hellas Verona,2-2,1-1,US Lecce,2023-11-27T17:30Z
+14,Fri Dec 1 2023,20:45,CET/+0100,AC Monza,1-2,0-1,Juventus,2023-12-01T19:45Z
+14,Sat Dec 2 2023,15:00,CET/+0100,Genoa CFC,1-1,1-0,Empoli FC,2023-12-02T14:00Z
+14,Sat Dec 2 2023,18:00,CET/+0100,Lazio Roma,1-0,1-0,Cagliari Calcio,2023-12-02T17:00Z
+14,Sat Dec 2 2023,20:45,CET/+0100,AC Milan,3-1,1-0,Frosinone Calcio,2023-12-02T19:45Z
+14,Sun Dec 3 2023,15:00,CET/+0100,ACF Fiorentina,3-0,2-0,US Salernitana 1919,2023-12-03T14:00Z
+14,Sun Dec 3 2023,15:00,CET/+0100,Udinese Calcio,3-3,2-1,Hellas Verona,2023-12-03T14:00Z
+14,Sun Dec 3 2023,18:00,CET/+0100,Sassuolo Calcio,1-2,1-0,AS Roma,2023-12-03T17:00Z
+14,Sun Dec 3 2023,20:45,CET/+0100,SSC Napoli,0-3,0-1,Inter,2023-12-03T19:45Z
+14,Sun Dec 3 2023,12:30,CET/+0100,US Lecce,1-1,0-0,Bologna FC,2023-12-03T11:30Z
+14,Mon Dec 4 2023,20:45,CET/+0100,Torino FC,3-0,1-0,Atalanta,2023-12-04T19:45Z
+15,Fri Dec 8 2023,20:45,CET/+0100,Juventus,1-0,0-0,SSC Napoli,2023-12-08T19:45Z
+15,Sat Dec 9 2023,18:00,CET/+0100,Atalanta,3-2,1-1,AC Milan,2023-12-09T17:00Z
+15,Sat Dec 9 2023,20:45,CET/+0100,Inter,4-0,3-0,Udinese Calcio,2023-12-09T19:45Z
+15,Sat Dec 9 2023,15:00,CET/+0100,Hellas Verona,1-1,0-1,Lazio Roma,2023-12-09T14:00Z
+15,Sun Dec 10 2023,12:30,CET/+0100,Frosinone Calcio,0-0,0-0,Torino FC,2023-12-10T11:30Z
+15,Sun Dec 10 2023,15:00,CET/+0100,AC Monza,1-0,0-0,Genoa CFC,2023-12-10T14:00Z
+15,Sun Dec 10 2023,18:00,CET/+0100,US Salernitana 1919,1-2,0-2,Bologna FC,2023-12-10T17:00Z
+15,Sun Dec 10 2023,20:45,CET/+0100,AS Roma,1-1,1-0,ACF Fiorentina,2023-12-10T19:45Z
+15,Mon Dec 11 2023,20:45,CET/+0100,Cagliari Calcio,2-1,0-1,Sassuolo Calcio,2023-12-11T19:45Z
+15,Mon Dec 11 2023,18:30,CET/+0100,Empoli FC,1-1,0-0,US Lecce,2023-12-11T17:30Z
+16,Fri Dec 15 2023,20:45,CET/+0100,Genoa CFC,1-1,0-1,Juventus,2023-12-15T19:45Z
+16,Sat Dec 16 2023,18:30,CET/+0100,SSC Napoli,2-1,0-0,Cagliari Calcio,2023-12-16T17:30Z
+16,Sat Dec 16 2023,20:45,CET/+0100,Torino FC,1-0,1-0,Empoli FC,2023-12-16T19:45Z
+16,Sat Dec 16 2023,15:00,CET/+0100,US Lecce,2-1,1-1,Frosinone Calcio,2023-12-16T14:00Z
+16,Sun Dec 17 2023,12:30,CET/+0100,AC Milan,3-0,2-0,AC Monza,2023-12-17T11:30Z
+16,Sun Dec 17 2023,15:00,CET/+0100,ACF Fiorentina,1-0,0-0,Hellas Verona,2023-12-17T14:00Z
+16,Sun Dec 17 2023,15:00,CET/+0100,Udinese Calcio,2-2,1-0,Sassuolo Calcio,2023-12-17T14:00Z
+16,Sun Dec 17 2023,18:00,CET/+0100,Bologna FC,2-0,1-0,AS Roma,2023-12-17T17:00Z
+16,Sun Dec 17 2023,20:45,CET/+0100,Lazio Roma,0-2,0-1,Inter,2023-12-17T19:45Z
+16,Mon Dec 18 2023,20:45,CET/+0100,Atalanta,4-1,0-1,US Salernitana 1919,2023-12-18T19:45Z
+17,Fri Dec 22 2023,18:30,CET/+0100,Sassuolo Calcio,1-2,1-0,Genoa CFC,2023-12-22T17:30Z
+17,Fri Dec 22 2023,20:45,CET/+0100,AC Monza,0-1,0-1,ACF Fiorentina,2023-12-22T19:45Z
+17,Fri Dec 22 2023,20:45,CET/+0100,US Salernitana 1919,2-2,1-1,AC Milan,2023-12-22T19:45Z
+17,Fri Dec 22 2023,18:30,CET/+0100,Empoli FC,0-2,0-1,Lazio Roma,2023-12-22T17:30Z
+17,Sat Dec 23 2023,12:30,CET/+0100,Frosinone Calcio,1-2,0-1,Juventus,2023-12-23T11:30Z
+17,Sat Dec 23 2023,15:00,CET/+0100,Bologna FC,1-0,0-0,Atalanta,2023-12-23T14:00Z
+17,Sat Dec 23 2023,15:00,CET/+0100,Torino FC,1-1,0-0,Udinese Calcio,2023-12-23T14:00Z
+17,Sat Dec 23 2023,18:00,CET/+0100,Hellas Verona,2-0,0-0,Cagliari Calcio,2023-12-23T17:00Z
+17,Sat Dec 23 2023,18:00,CET/+0100,Inter,2-0,1-0,US Lecce,2023-12-23T17:00Z
+17,Sat Dec 23 2023,20:45,CET/+0100,AS Roma,2-0,0-0,SSC Napoli,2023-12-23T19:45Z
+18,Fri Dec 29 2023,18:30,CET/+0100,SSC Napoli,0-0,0-0,AC Monza,2023-12-29T17:30Z
+18,Fri Dec 29 2023,20:45,CET/+0100,Genoa CFC,1-1,1-1,Inter,2023-12-29T19:45Z
+18,Fri Dec 29 2023,20:45,CET/+0100,Lazio Roma,3-1,0-0,Frosinone Calcio,2023-12-29T19:45Z
+18,Fri Dec 29 2023,18:30,CET/+0100,ACF Fiorentina,1-0,0-0,Torino FC,2023-12-29T17:30Z
+18,Sat Dec 30 2023,12:30,CET/+0100,Atalanta,1-0,0-0,US Lecce,2023-12-30T11:30Z
+18,Sat Dec 30 2023,15:00,CET/+0100,Cagliari Calcio,0-0,0-0,Empoli FC,2023-12-30T14:00Z
+18,Sat Dec 30 2023,15:00,CET/+0100,Udinese Calcio,3-0,1-0,Bologna FC,2023-12-30T14:00Z
+18,Sat Dec 30 2023,18:00,CET/+0100,Hellas Verona,0-1,0-0,US Salernitana 1919,2023-12-30T17:00Z
+18,Sat Dec 30 2023,18:00,CET/+0100,AC Milan,1-0,0-0,Sassuolo Calcio,2023-12-30T17:00Z
+18,Sat Dec 30 2023,20:45,CET/+0100,Juventus,1-0,0-0,AS Roma,2023-12-30T19:45Z
+19,Fri Jan 5 2024,20:45,CET/+0100,Bologna FC,1-1,0-1,Genoa CFC,2024-01-05T19:45Z
+19,Sat Jan 6 2024,15:00,CET/+0100,Frosinone Calcio,2-3,0-2,AC Monza,2024-01-06T14:00Z
+19,Sat Jan 6 2024,18:00,CET/+0100,US Lecce,1-1,1-0,Cagliari Calcio,2024-01-06T17:00Z
+19,Sat Jan 6 2024,20:45,CET/+0100,Sassuolo Calcio,1-0,1-0,ACF Fiorentina,2024-01-06T19:45Z
+19,Sat Jan 6 2024,12:30,CET/+0100,Inter,2-1,1-0,Hellas Verona,2024-01-06T11:30Z
+19,Sun Jan 7 2024,12:30,CET/+0100,Empoli FC,0-3,0-2,AC Milan,2024-01-07T11:30Z
+19,Sun Jan 7 2024,15:00,CET/+0100,Torino FC,3-0,1-0,SSC Napoli,2024-01-07T14:00Z
+19,Sun Jan 7 2024,15:00,CET/+0100,Udinese Calcio,1-2,0-1,Lazio Roma,2024-01-07T14:00Z
+19,Sun Jan 7 2024,18:00,CET/+0100,US Salernitana 1919,1-2,1-0,Juventus,2024-01-07T17:00Z
+19,Sun Jan 7 2024,20:45,CET/+0100,AS Roma,1-1,1-1,Atalanta,2024-01-07T19:45Z
+20,Sat Jan 13 2024,15:00,CET/+0100,Genoa CFC,0-0,0-0,Torino FC,2024-01-13T14:00Z
+20,Sat Jan 13 2024,15:00,CET/+0100,SSC Napoli,2-1,1-1,US Salernitana 1919,2024-01-13T14:00Z
+20,Sat Jan 13 2024,18:00,CET/+0100,Hellas Verona,2-1,1-0,Empoli FC,2024-01-13T17:00Z
+20,Sat Jan 13 2024,20:45,CET/+0100,AC Monza,1-5,0-2,Inter,2024-01-13T19:45Z
+20,Sun Jan 14 2024,15:00,CET/+0100,Cagliari Calcio,2-1,1-1,Bologna FC,2024-01-14T14:00Z
+20,Sun Jan 14 2024,18:00,CET/+0100,ACF Fiorentina,2-2,0-1,Udinese Calcio,2024-01-14T17:00Z
+20,Sun Jan 14 2024,20:45,CET/+0100,AC Milan,3-1,1-0,AS Roma,2024-01-14T19:45Z
+20,Sun Jan 14 2024,12:30,CET/+0100,Lazio Roma,1-0,0-0,US Lecce,2024-01-14T11:30Z
+20,Mon Jan 15 2024,20:45,CET/+0100,Atalanta,5-0,3-0,Frosinone Calcio,2024-01-15T19:45Z
+20,Tue Jan 16 2024,20:45,CET/+0100,Juventus,3-0,2-0,Sassuolo Calcio,2024-01-16T19:45Z
+21,Sat Jan 20 2024,20:45,CET/+0100,Udinese Calcio,2-3,1-1,AC Milan,2024-01-20T19:45Z
+21,Sat Jan 20 2024,18:00,CET/+0100,AS Roma,2-1,2-0,Hellas Verona,2024-01-20T17:00Z
+21,Sun Jan 21 2024,12:30,CET/+0100,Frosinone Calcio,3-1,0-1,Cagliari Calcio,2024-01-21T11:30Z
+21,Sun Jan 21 2024,15:00,CET/+0100,Empoli FC,3-0,2-0,AC Monza,2024-01-21T14:00Z
+21,Sun Jan 21 2024,18:00,CET/+0100,US Salernitana 1919,1-2,1-1,Genoa CFC,2024-01-21T17:00Z
+21,Sun Jan 21 2024,20:45,CET/+0100,US Lecce,0-3,0-0,Juventus,2024-01-21T19:45Z
+22,Fri Jan 26 2024,20:45,CET/+0100,Cagliari Calcio,1-2,0-2,Torino FC,2024-01-26T19:45Z
+22,Sat Jan 27 2024,15:00,CET/+0100,Atalanta,2-0,2-0,Udinese Calcio,2024-01-27T14:00Z
+22,Sat Jan 27 2024,18:00,CET/+0100,Juventus,1-1,0-0,Empoli FC,2024-01-27T17:00Z
+22,Sat Jan 27 2024,20:45,CET/+0100,AC Milan,2-2,1-1,Bologna FC,2024-01-27T19:45Z
+22,Sun Jan 28 2024,15:00,CET/+0100,Hellas Verona,1-1,1-0,Frosinone Calcio,2024-01-28T14:00Z
+22,Sun Jan 28 2024,15:00,CET/+0100,AC Monza,1-0,1-0,Sassuolo Calcio,2024-01-28T14:00Z
+22,Sun Jan 28 2024,18:00,CET/+0100,Lazio Roma,0-0,0-0,SSC Napoli,2024-01-28T17:00Z
+22,Sun Jan 28 2024,20:45,CET/+0100,ACF Fiorentina,0-1,0-1,Inter,2024-01-28T19:45Z
+22,Sun Jan 28 2024,12:30,CET/+0100,Genoa CFC,2-1,0-1,US Lecce,2024-01-28T11:30Z
+22,Mon Jan 29 2024,20:45,CET/+0100,US Salernitana 1919,1-2,0-0,AS Roma,2024-01-29T19:45Z
+23,Fri Feb 2 2024,20:45,CET/+0100,US Lecce,3-2,1-0,ACF Fiorentina,2024-02-02T19:45Z
+23,Sat Feb 3 2024,15:00,CET/+0100,Empoli FC,0-0,0-0,Genoa CFC,2024-02-03T14:00Z
+23,Sat Feb 3 2024,15:00,CET/+0100,Udinese Calcio,0-0,0-0,AC Monza,2024-02-03T14:00Z
+23,Sat Feb 3 2024,20:45,CET/+0100,Bologna FC,4-2,1-2,Sassuolo Calcio,2024-02-03T19:45Z
+23,Sat Feb 3 2024,18:00,CET/+0100,Frosinone Calcio,2-3,1-1,AC Milan,2024-02-03T17:00Z
+23,Sun Feb 4 2024,20:45,CET/+0100,Inter,1-0,1-0,Juventus,2024-02-04T19:45Z
+23,Sun Feb 4 2024,18:00,CET/+0100,Atalanta,3-1,2-0,Lazio Roma,2024-02-04T17:00Z
+23,Sun Feb 4 2024,15:00,CET/+0100,SSC Napoli,2-1,0-0,Hellas Verona,2024-02-04T14:00Z
+23,Sun Feb 4 2024,12:30,CET/+0100,Torino FC,0-0,0-0,US Salernitana 1919,2024-02-04T11:30Z
+23,Mon Feb 5 2024,20:45,CET/+0100,AS Roma,4-0,2-0,Cagliari Calcio,2024-02-05T19:45Z
+24,Fri Feb 9 2024,20:45,CET/+0100,US Salernitana 1919,1-3,0-1,Empoli FC,2024-02-09T19:45Z
+24,Sat Feb 10 2024,15:00,CET/+0100,Cagliari Calcio,1-3,0-1,Lazio Roma,2024-02-10T14:00Z
+24,Sat Feb 10 2024,18:00,CET/+0100,AS Roma,2-4,2-1,Inter,2024-02-10T17:00Z
+24,Sat Feb 10 2024,20:45,CET/+0100,Sassuolo Calcio,1-1,1-1,Torino FC,2024-02-10T19:45Z
+24,Sun Feb 11 2024,20:45,CET/+0100,AC Milan,1-0,1-0,SSC Napoli,2024-02-11T19:45Z
+24,Sun Feb 11 2024,12:30,CET/+0100,ACF Fiorentina,5-1,3-0,Frosinone Calcio,2024-02-11T11:30Z
+24,Sun Feb 11 2024,15:00,CET/+0100,AC Monza,0-0,0-0,Hellas Verona,2024-02-11T14:00Z
+24,Sun Feb 11 2024,18:00,CET/+0100,Genoa CFC,1-4,0-1,Atalanta,2024-02-11T17:00Z
+24,Sun Feb 11 2024,15:00,CET/+0100,Bologna FC,4-0,2-0,US Lecce,2024-02-11T14:00Z
+24,Mon Feb 12 2024,20:45,CET/+0100,Juventus,0-1,0-1,Udinese Calcio,2024-02-12T19:45Z
+21,Wed Feb 14 2024,19:00,CET/+0100,Bologna FC,2-0,1-0,ACF Fiorentina,2024-02-14T18:00Z
+25,Fri Feb 16 2024,21:00,CET/+0100,Inter,4-0,3-0,US Salernitana 1919,2024-02-16T20:00Z
+25,Fri Feb 16 2024,19:00,CET/+0100,Torino FC,2-0,0-0,US Lecce,2024-02-16T18:00Z
+25,Sat Feb 17 2024,20:45,CET/+0100,Atalanta,3-0,1-0,Sassuolo Calcio,2024-02-17T19:45Z
+25,Sat Feb 17 2024,15:00,CET/+0100,SSC Napoli,1-1,0-0,Genoa CFC,2024-02-17T14:00Z
+25,Sat Feb 17 2024,18:00,CET/+0100,Hellas Verona,2-2,1-1,Juventus,2024-02-17T17:00Z
+25,Sun Feb 18 2024,20:45,CET/+0100,AC Monza,4-2,2-0,AC Milan,2024-02-18T19:45Z
+25,Sun Feb 18 2024,18:00,CET/+0100,Frosinone Calcio,0-3,0-1,AS Roma,2024-02-18T17:00Z
+25,Sun Feb 18 2024,15:00,CET/+0100,Udinese Calcio,1-1,1-1,Cagliari Calcio,2024-02-18T14:00Z
+25,Sun Feb 18 2024,12:30,CET/+0100,Lazio Roma,1-2,1-1,Bologna FC,2024-02-18T11:30Z
+25,Sun Feb 18 2024,15:00,CET/+0100,Empoli FC,1-1,0-1,ACF Fiorentina,2024-02-18T14:00Z
+21,Thu Feb 22 2024,20:45,CET/+0100,Torino FC,0-2,0-0,Lazio Roma,2024-02-22T19:45Z
+26,Fri Feb 23 2024,20:45,CET/+0100,Bologna FC,2-0,1-0,Hellas Verona,2024-02-23T19:45Z
+26,Sat Feb 24 2024,18:00,CET/+0100,US Salernitana 1919,0-2,0-0,AC Monza,2024-02-24T17:00Z
+26,Sat Feb 24 2024,20:45,CET/+0100,Genoa CFC,2-0,2-0,Udinese Calcio,2024-02-24T19:45Z
+26,Sat Feb 24 2024,15:00,CET/+0100,Sassuolo Calcio,2-3,0-1,Empoli FC,2024-02-24T14:00Z
+26,Sun Feb 25 2024,18:00,CET/+0100,US Lecce,0-4,0-1,Inter,2024-02-25T17:00Z
+26,Sun Feb 25 2024,12:30,CET/+0100,Juventus,3-2,2-2,Frosinone Calcio,2024-02-25T11:30Z
+26,Sun Feb 25 2024,15:00,CET/+0100,Cagliari Calcio,1-1,0-0,SSC Napoli,2024-02-25T14:00Z
+26,Sun Feb 25 2024,20:45,CET/+0100,AC Milan,1-1,1-1,Atalanta,2024-02-25T19:45Z
+26,Mon Feb 26 2024,20:45,CET/+0100,ACF Fiorentina,2-1,0-1,Lazio Roma,2024-02-26T19:45Z
+26,Mon Feb 26 2024,18:30,CET/+0100,AS Roma,3-2,1-1,Torino FC,2024-02-26T17:30Z
+21,Wed Feb 28 2024,20:45,CET/+0100,Inter,4-0,2-0,Atalanta,2024-02-28T19:45Z
+21,Wed Feb 28 2024,18:00,CET/+0100,Sassuolo Calcio,1-6,1-3,SSC Napoli,2024-02-28T17:00Z
+27,Fri Mar 1 2024,20:45,CET/+0100,Lazio Roma,0-1,0-0,AC Milan,2024-03-01T19:45Z
+27,Sat Mar 2 2024,18:00,CET/+0100,AC Monza,1-4,0-2,AS Roma,2024-03-02T17:00Z
+27,Sat Mar 2 2024,20:45,CET/+0100,Torino FC,0-0,0-0,ACF Fiorentina,2024-03-02T19:45Z
+27,Sat Mar 2 2024,15:00,CET/+0100,Udinese Calcio,1-1,1-1,US Salernitana 1919,2024-03-02T14:00Z
+27,Sun Mar 3 2024,12:30,CET/+0100,Hellas Verona,1-0,0-0,Sassuolo Calcio,2024-03-03T11:30Z
+27,Sun Mar 3 2024,15:00,CET/+0100,Empoli FC,0-1,0-0,Cagliari Calcio,2024-03-03T14:00Z
+27,Sun Mar 3 2024,15:00,CET/+0100,Frosinone Calcio,1-1,1-0,US Lecce,2024-03-03T14:00Z
+27,Sun Mar 3 2024,18:00,CET/+0100,Atalanta,1-2,1-0,Bologna FC,2024-03-03T17:00Z
+27,Sun Mar 3 2024,20:45,CET/+0100,SSC Napoli,2-1,1-0,Juventus,2024-03-03T19:45Z
+27,Mon Mar 4 2024,20:45,CET/+0100,Inter,2-1,2-0,Genoa CFC,2024-03-04T19:45Z
+28,Fri Mar 8 2024,20:45,CET/+0100,SSC Napoli,1-1,0-0,Torino FC,2024-03-08T19:45Z
+28,Sat Mar 9 2024,15:00,CET/+0100,Cagliari Calcio,4-2,2-0,US Salernitana 1919,2024-03-09T14:00Z
+28,Sat Mar 9 2024,15:00,CET/+0100,Sassuolo Calcio,1-0,0-0,Frosinone Calcio,2024-03-09T14:00Z
+28,Sat Mar 9 2024,18:00,CET/+0100,Bologna FC,0-1,0-1,Inter,2024-03-09T17:00Z
+28,Sat Mar 9 2024,20:45,CET/+0100,Genoa CFC,2-3,0-2,AC Monza,2024-03-09T19:45Z
+28,Sun Mar 10 2024,15:00,CET/+0100,AC Milan,1-0,1-0,Empoli FC,2024-03-10T14:00Z
+28,Sun Mar 10 2024,18:00,CET/+0100,Juventus,2-2,0-1,Atalanta,2024-03-10T17:00Z
+28,Sun Mar 10 2024,20:45,CET/+0100,ACF Fiorentina,2-2,1-0,AS Roma,2024-03-10T19:45Z
+28,Sun Mar 10 2024,12:30,CET/+0100,US Lecce,0-1,0-1,Hellas Verona,2024-03-10T11:30Z
+28,Mon Mar 11 2024,20:45,CET/+0100,Lazio Roma,1-2,0-0,Udinese Calcio,2024-03-11T19:45Z
+29,Fri Mar 15 2024,20:45,CET/+0100,Empoli FC,0-1,0-0,Bologna FC,2024-03-15T19:45Z
+29,Sat Mar 16 2024,15:00,CET/+0100,Udinese Calcio,0-2,0-1,Torino FC,2024-03-16T14:00Z
+29,Sat Mar 16 2024,18:00,CET/+0100,US Salernitana 1919,0-1,0-1,US Lecce,2024-03-16T17:00Z
+29,Sat Mar 16 2024,20:45,CET/+0100,Frosinone Calcio,2-3,1-1,Lazio Roma,2024-03-16T19:45Z
+29,Sat Mar 16 2024,15:00,CET/+0100,AC Monza,1-0,1-0,Cagliari Calcio,2024-03-16T14:00Z
+29,Sun Mar 17 2024,12:30,CET/+0100,Juventus,0-0,0-0,Genoa CFC,2024-03-17T11:30Z
+29,Sun Mar 17 2024,15:00,CET/+0100,Hellas Verona,1-3,0-1,AC Milan,2024-03-17T14:00Z
+29,Sun Mar 17 2024,18:00,CET/+0100,AS Roma,1-0,0-0,Sassuolo Calcio,2024-03-17T17:00Z
+29,Sun Mar 17 2024,20:45,CET/+0100,Inter,1-1,1-0,SSC Napoli,2024-03-17T19:45Z
+30,Sat Mar 30 2024,12:30,CET/+0100,SSC Napoli,0-3,0-2,Atalanta,2024-03-30T11:30Z
+30,Sat Mar 30 2024,15:00,CET/+0100,Genoa CFC,1-1,1-1,Frosinone Calcio,2024-03-30T14:00Z
+30,Sat Mar 30 2024,15:00,CET/+0100,Torino FC,1-0,0-0,AC Monza,2024-03-30T14:00Z
+30,Sat Mar 30 2024,18:00,CET/+0100,Lazio Roma,1-0,0-0,Juventus,2024-03-30T17:00Z
+30,Sat Mar 30 2024,20:45,CET/+0100,ACF Fiorentina,1-2,0-0,AC Milan,2024-03-30T19:45Z
+30,Mon Apr 1 2024,20:45,CEST/+0200,Inter,2-0,1-0,Empoli FC,2024-04-01T18:45Z
+30,Mon Apr 1 2024,12:30,CEST/+0200,Bologna FC,3-0,2-0,US Salernitana 1919,2024-04-01T10:30Z
+30,Mon Apr 1 2024,15:00,CEST/+0200,Cagliari Calcio,1-1,0-1,Hellas Verona,2024-04-01T13:00Z
+30,Mon Apr 1 2024,15:00,CEST/+0200,Sassuolo Calcio,1-1,1-1,Udinese Calcio,2024-04-01T13:00Z
+30,Mon Apr 1 2024,18:00,CEST/+0200,US Lecce,0-0,0-0,AS Roma,2024-04-01T16:00Z
+31,Fri Apr 5 2024,20:45,CEST/+0200,US Salernitana 1919,2-2,0-2,Sassuolo Calcio,2024-04-05T18:45Z
+31,Sat Apr 6 2024,15:00,CEST/+0200,AC Milan,3-0,2-0,US Lecce,2024-04-06T13:00Z
+31,Sat Apr 6 2024,18:00,CEST/+0200,AS Roma,1-0,1-0,Lazio Roma,2024-04-06T16:00Z
+31,Sat Apr 6 2024,20:45,CEST/+0200,Empoli FC,3-2,1-0,Torino FC,2024-04-06T18:45Z
+31,Sun Apr 7 2024,20:45,CEST/+0200,Juventus,1-0,1-0,ACF Fiorentina,2024-04-07T18:45Z
+31,Sun Apr 7 2024,12:30,CEST/+0200,Frosinone Calcio,0-0,0-0,Bologna FC,2024-04-07T10:30Z
+31,Sun Apr 7 2024,15:00,CEST/+0200,AC Monza,2-4,1-0,SSC Napoli,2024-04-07T13:00Z
+31,Sun Apr 7 2024,18:00,CEST/+0200,Cagliari Calcio,2-1,1-1,Atalanta,2024-04-07T16:00Z
+31,Sun Apr 7 2024,18:00,CEST/+0200,Hellas Verona,1-2,1-1,Genoa CFC,2024-04-07T16:00Z
+31,Mon Apr 8 2024,20:45,CEST/+0200,Udinese Calcio,1-2,1-0,Inter,2024-04-08T18:45Z
+32,Fri Apr 12 2024,20:45,CEST/+0200,Lazio Roma,4-1,3-1,US Salernitana 1919,2024-04-12T18:45Z
+32,Sat Apr 13 2024,15:00,CEST/+0200,US Lecce,1-0,0-0,Empoli FC,2024-04-13T13:00Z
+32,Sat Apr 13 2024,20:45,CEST/+0200,Bologna FC,0-0,0-0,AC Monza,2024-04-13T18:45Z
+32,Sat Apr 13 2024,18:00,CEST/+0200,Torino FC,0-0,0-0,Juventus,2024-04-13T16:00Z
+32,Sun Apr 14 2024,12:30,CEST/+0200,SSC Napoli,2-2,1-0,Frosinone Calcio,2024-04-14T10:30Z
+32,Sun Apr 14 2024,15:00,CEST/+0200,Sassuolo Calcio,3-3,2-1,AC Milan,2024-04-14T13:00Z
+32,Sun Apr 14 2024,20:45,CEST/+0200,Inter,2-2,1-0,Cagliari Calcio,2024-04-14T18:45Z
+32,Mon Apr 15 2024,18:30,CEST/+0200,ACF Fiorentina,1-1,0-1,Genoa CFC,2024-04-15T16:30Z
+32,Mon Apr 15 2024,20:45,CEST/+0200,Atalanta,2-2,2-0,Hellas Verona,2024-04-15T18:45Z
+33,Fri Apr 19 2024,18:30,CEST/+0200,Genoa CFC,0-1,0-0,Lazio Roma,2024-04-19T16:30Z
+33,Fri Apr 19 2024,20:45,CEST/+0200,Cagliari Calcio,2-2,2-0,Juventus,2024-04-19T18:45Z
+33,Sat Apr 20 2024,20:45,CEST/+0200,Hellas Verona,1-0,0-0,Udinese Calcio,2024-04-20T18:45Z
+33,Sat Apr 20 2024,18:00,CEST/+0200,Empoli FC,1-0,1-0,SSC Napoli,2024-04-20T16:00Z
+33,Sun Apr 21 2024,18:00,CEST/+0200,US Salernitana 1919,0-2,0-0,ACF Fiorentina,2024-04-21T16:00Z
+33,Sun Apr 21 2024,12:30,CEST/+0200,Sassuolo Calcio,0-3,0-2,US Lecce,2024-04-21T10:30Z
+33,Sun Apr 21 2024,15:00,CEST/+0200,Torino FC,0-0,0-0,Frosinone Calcio,2024-04-21T13:00Z
+33,Sun Apr 21 2024,20:45,CEST/+0200,AC Monza,1-2,0-1,Atalanta,2024-04-21T18:45Z
+33,Mon Apr 22 2024,18:30,CEST/+0200,AS Roma,1-3,0-2,Bologna FC,2024-04-22T16:30Z
+33,Mon Apr 22 2024,20:45,CEST/+0200,AC Milan,1-2,0-1,Inter,2024-04-22T18:45Z
+32,Thu Apr 25 2024,20:00,CEST/+0200,Udinese Calcio,1-2,1-0,AS Roma,2024-04-25T18:00Z
+34,Fri Apr 26 2024,20:45,CEST/+0200,Frosinone Calcio,3-0,2-0,US Salernitana 1919,2024-04-26T18:45Z
+34,Sat Apr 27 2024,15:00,CEST/+0200,US Lecce,1-1,0-0,AC Monza,2024-04-27T13:00Z
+34,Sat Apr 27 2024,18:00,CEST/+0200,Juventus,0-0,0-0,AC Milan,2024-04-27T16:00Z
+34,Sat Apr 27 2024,20:45,CEST/+0200,Lazio Roma,1-0,0-0,Hellas Verona,2024-04-27T18:45Z
+34,Sun Apr 28 2024,12:30,CEST/+0200,Inter,2-0,0-0,Torino FC,2024-04-28T10:30Z
+34,Sun Apr 28 2024,20:45,CEST/+0200,ACF Fiorentina,5-1,1-0,Sassuolo Calcio,2024-04-28T18:45Z
+34,Sun Apr 28 2024,15:00,CEST/+0200,Bologna FC,1-1,0-1,Udinese Calcio,2024-04-28T13:00Z
+34,Sun Apr 28 2024,18:00,CEST/+0200,Atalanta,2-0,1-0,Empoli FC,2024-04-28T16:00Z
+34,Sun Apr 28 2024,18:00,CEST/+0200,SSC Napoli,2-2,0-0,AS Roma,2024-04-28T16:00Z
+34,Mon Apr 29 2024,20:45,CEST/+0200,Genoa CFC,3-0,2-0,Cagliari Calcio,2024-04-29T18:45Z
+35,Fri May 3 2024,20:45,CEST/+0200,Torino FC,0-0,0-0,Bologna FC,2024-05-03T18:45Z
+35,Sat May 4 2024,18:00,CEST/+0200,AC Monza,2-2,0-1,Lazio Roma,2024-05-04T16:00Z
+35,Sat May 4 2024,20:45,CEST/+0200,Sassuolo Calcio,1-0,1-0,Inter,2024-05-04T18:45Z
+35,Sun May 5 2024,15:00,CEST/+0200,Hellas Verona,2-1,1-1,ACF Fiorentina,2024-05-05T13:00Z
+35,Sun May 5 2024,12:30,CEST/+0200,Cagliari Calcio,1-1,1-0,US Lecce,2024-05-05T10:30Z
+35,Sun May 5 2024,15:00,CEST/+0200,Empoli FC,0-0,0-0,Frosinone Calcio,2024-05-05T13:00Z
+35,Sun May 5 2024,20:45,CEST/+0200,AS Roma,1-1,1-1,Juventus,2024-05-05T18:45Z
+35,Sun May 5 2024,18:00,CEST/+0200,AC Milan,3-3,1-1,Genoa CFC,2024-05-05T16:00Z
+35,Mon May 6 2024,18:00,CEST/+0200,US Salernitana 1919,1-2,1-0,Atalanta,2024-05-06T16:00Z
+35,Mon May 6 2024,20:45,CEST/+0200,Udinese Calcio,1-1,0-0,SSC Napoli,2024-05-06T18:45Z
+36,Fri May 10 2024,20:45,CEST/+0200,Frosinone Calcio,0-5,0-1,Inter,2024-05-10T18:45Z
+36,Sat May 11 2024,20:45,CEST/+0200,AC Milan,5-1,1-0,Cagliari Calcio,2024-05-11T18:45Z
+36,Sat May 11 2024,18:00,CEST/+0200,SSC Napoli,0-2,0-2,Bologna FC,2024-05-11T16:00Z
+36,Sun May 12 2024,18:00,CEST/+0200,Juventus,1-1,0-1,US Salernitana 1919,2024-05-12T16:00Z
+36,Sun May 12 2024,12:30,CEST/+0200,Lazio Roma,2-0,1-0,Empoli FC,2024-05-12T10:30Z
+36,Sun May 12 2024,15:00,CEST/+0200,Genoa CFC,2-1,0-1,Sassuolo Calcio,2024-05-12T13:00Z
+36,Sun May 12 2024,15:00,CEST/+0200,Hellas Verona,1-2,0-0,Torino FC,2024-05-12T13:00Z
+36,Sun May 12 2024,20:45,CEST/+0200,Atalanta,2-1,2-0,AS Roma,2024-05-12T18:45Z
+36,Mon May 13 2024,18:30,CEST/+0200,US Lecce,0-2,0-1,Udinese Calcio,2024-05-13T16:30Z
+36,Mon May 13 2024,20:45,CEST/+0200,ACF Fiorentina,2-1,1-1,AC Monza,2024-05-13T18:45Z
+37,Fri May 17 2024,20:45,CEST/+0200,ACF Fiorentina,2-2,2-1,SSC Napoli,2024-05-17T18:45Z
+37,Sat May 18 2024,18:00,CEST/+0200,US Lecce,0-2,0-0,Atalanta,2024-05-18T16:00Z
+37,Sat May 18 2024,20:45,CEST/+0200,Torino FC,3-1,2-0,AC Milan,2024-05-18T18:45Z
+37,Sun May 19 2024,15:00,CEST/+0200,AC Monza,0-1,0-1,Frosinone Calcio,2024-05-19T13:00Z
+37,Sun May 19 2024,12:30,CEST/+0200,Sassuolo Calcio,0-2,0-0,Cagliari Calcio,2024-05-19T10:30Z
+37,Sun May 19 2024,20:45,CEST/+0200,AS Roma,1-0,0-0,Genoa CFC,2024-05-19T18:45Z
+37,Sun May 19 2024,15:00,CEST/+0200,Udinese Calcio,1-1,0-0,Empoli FC,2024-05-19T13:00Z
+37,Sun May 19 2024,18:00,CEST/+0200,Inter,1-1,0-1,Lazio Roma,2024-05-19T16:00Z
+37,Mon May 20 2024,18:30,CEST/+0200,US Salernitana 1919,1-2,0-2,Hellas Verona,2024-05-20T16:30Z
+37,Mon May 20 2024,20:45,CEST/+0200,Bologna FC,3-3,2-0,Juventus,2024-05-20T18:45Z
+38,Thu May 23 2024,20:45,CEST/+0200,Cagliari Calcio,2-3,0-1,ACF Fiorentina,2024-05-23T18:45Z
+38,Fri May 24 2024,20:45,CEST/+0200,Genoa CFC,2-0,1-0,Bologna FC,2024-05-24T18:45Z
+38,Sat May 25 2024,20:45,CEST/+0200,AC Milan,3-3,2-0,US Salernitana 1919,2024-05-25T18:45Z
+38,Sat May 25 2024,18:00,CEST/+0200,Juventus,2-0,2-0,AC Monza,2024-05-25T16:00Z
+38,Sun May 26 2024,20:45,CEST/+0200,Lazio Roma,1-1,0-0,Sassuolo Calcio,2024-05-26T18:45Z
+38,Sun May 26 2024,18:00,CEST/+0200,Atalanta,3-0,2-0,Torino FC,2024-05-26T16:00Z
+38,Sun May 26 2024,18:00,CEST/+0200,SSC Napoli,0-0,0-0,US Lecce,2024-05-26T16:00Z
+38,Sun May 26 2024,20:45,CEST/+0200,Empoli FC,2-1,1-1,AS Roma,2024-05-26T18:45Z
+38,Sun May 26 2024,20:45,CEST/+0200,Frosinone Calcio,0-1,0-0,Udinese Calcio,2024-05-26T18:45Z
+38,Sun May 26 2024,20:45,CEST/+0200,Hellas Verona,2-2,2-2,Inter,2024-05-26T18:45Z
+29,Sun Jun 2 2024,18:00,CEST/+0200,Atalanta,2-3,2-3,ACF Fiorentina,2024-06-02T16:00Z

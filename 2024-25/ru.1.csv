@@ -55,14 +55,14 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 7,Sun Sep 1 2024,19:45,MSK/+0300,Lokomotiv Moskva,0-3,0-2,FK Krasnodar,2024-09-01T16:45Z
 7,Sun Sep 1 2024,20:00,MSK/+0300,FK Rostov,4-1,2-0,Fakel Voronezh,2024-09-01T17:00Z
 7,Sun Sep 1 2024,15:00,MSK/+0300,FK Orenburg,2-2,1-0,Dinamo Moskva,2024-09-01T12:00Z
-8,Fri Sep 13 2024,20:15,MSK/+0300,Rubin Kazan,,,Krylia Sovetov,2024-09-13T17:15Z
-8,Sat Sep 14 2024,12:00,MSK/+0300,FK Orenburg,,,Lokomotiv Moskva,2024-09-14T09:00Z
-8,Sat Sep 14 2024,14:15,MSK/+0300,Fakel Voronezh,,,FK Nizhny Novgorod,2024-09-14T11:15Z
-8,Sat Sep 14 2024,16:30,MSK/+0300,CSKA Moskva,,,Zenit St. Petersburg,2024-09-14T13:30Z
-8,Sat Sep 14 2024,19:00,MSK/+0300,FK Krasnodar,,,FK Rostov,2024-09-14T16:00Z
-8,Sun Sep 15 2024,16:30,MSK/+0300,Akron Tolyatti,,,FK Khimki,2024-09-15T13:30Z
-8,Sun Sep 15 2024,19:00,MSK/+0300,FK Dinamo Makhachkala,,,Spartak Moskva,2024-09-15T16:00Z
-8,Sun Sep 15 2024,14:15,MSK/+0300,Dinamo Moskva,,,Akhmat Grozny,2024-09-15T11:15Z
+8,Fri Sep 13 2024,20:15,MSK/+0300,Rubin Kazan,0-2,0-2,Krylia Sovetov,2024-09-13T17:15Z
+8,Sat Sep 14 2024,12:00,MSK/+0300,FK Orenburg,2-4,1-2,Lokomotiv Moskva,2024-09-14T09:00Z
+8,Sat Sep 14 2024,14:15,MSK/+0300,Fakel Voronezh,0-0,0-0,FK Nizhny Novgorod,2024-09-14T11:15Z
+8,Sat Sep 14 2024,16:30,MSK/+0300,CSKA Moskva,0-1,0-1,Zenit St. Petersburg,2024-09-14T13:30Z
+8,Sat Sep 14 2024,19:00,MSK/+0300,FK Krasnodar,2-0,1-0,FK Rostov,2024-09-14T16:00Z
+8,Sun Sep 15 2024,16:30,MSK/+0300,Akron Tolyatti,3-0,2-0,FK Khimki,2024-09-15T13:30Z
+8,Sun Sep 15 2024,19:00,MSK/+0300,FK Dinamo Makhachkala,1-1,1-1,Spartak Moskva,2024-09-15T16:00Z
+8,Sun Sep 15 2024,14:15,MSK/+0300,Dinamo Moskva,4-2,1-0,Akhmat Grozny,2024-09-15T11:15Z
 9,Sat Sep 21 2024,16:30,MSK/+0300,Zenit St. Petersburg,,,Fakel Voronezh,2024-09-21T13:30Z
 9,Sat Sep 21 2024,19:00,MSK/+0300,Rubin Kazan,,,CSKA Moskva,2024-09-21T16:00Z
 9,Sat Sep 21 2024,14:00,MSK/+0300,Akron Tolyatti,,,FK Krasnodar,2024-09-21T11:00Z

@@ -1,553 +1,553 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Sep 11 2020,19:45,Watford FC,1-0,1-0,Middlesbrough FC
-1,Sat Sep 12 2020,12:30,Birmingham City,1-0,1-0,Brentford FC
-1,Sat Sep 12 2020,12:30,Wycombe Wanderers,0-1,0-0,Rotherham United
-1,Sat Sep 12 2020,15:00,AFC Bournemouth,3-2,1-1,Blackburn Rovers
-1,Sat Sep 12 2020,15:00,Bristol City,2-1,1-1,Coventry City
-1,Sat Sep 12 2020,15:00,Cardiff City,0-2,0-2,Sheffield Wednesday
-1,Sat Sep 12 2020,15:00,Derby County,0-2,0-2,Reading FC
-1,Sat Sep 12 2020,15:00,Barnsley FC,0-1,0-0,Luton Town
-1,Sat Sep 12 2020,15:00,Millwall FC,0-0,0-0,Stoke City
-1,Sat Sep 12 2020,15:00,Huddersfield Town,0-1,0-0,Norwich City
-1,Sat Sep 12 2020,15:00,Preston North End,0-1,0-0,Swansea City
-1,Sat Sep 12 2020,15:00,Queens Park Rangers,2-0,0-0,Nottingham Forest
-2,Fri Sep 18 2020,19:45,Coventry City,3-2,1-1,Queens Park Rangers
-2,Sat Sep 19 2020,12:30,Nottingham Forest,0-2,0-2,Cardiff City
-2,Sat Sep 19 2020,15:00,Blackburn Rovers,5-0,3-0,Wycombe Wanderers
-2,Sat Sep 19 2020,15:00,Brentford FC,3-0,0-0,Huddersfield Town
-2,Sat Sep 19 2020,15:00,Middlesbrough FC,1-1,0-1,AFC Bournemouth
-2,Sat Sep 19 2020,15:00,Reading FC,2-0,0-0,Barnsley FC
-2,Sat Sep 19 2020,15:00,Luton Town,2-1,1-0,Derby County
-2,Sat Sep 19 2020,15:00,Norwich City,2-2,1-2,Preston North End
-2,Sat Sep 19 2020,15:00,Rotherham United,0-1,0-0,Millwall FC
-2,Sat Sep 19 2020,15:00,Sheffield Wednesday,0-0,0-0,Watford FC
-2,Sat Sep 19 2020,15:00,Swansea City,0-0,0-0,Birmingham City
-2,Sun Sep 20 2020,14:00,Stoke City,0-2,0-1,Bristol City
-3,Fri Sep 25 2020,19:45,Huddersfield Town,1-0,0-0,Nottingham Forest
-3,Sat Sep 26 2020,12:30,Watford FC,1-0,1-0,Luton Town
-3,Sat Sep 26 2020,12:30,Wycombe Wanderers,0-2,0-2,Swansea City
-3,Sat Sep 26 2020,15:00,Birmingham City,1-1,0-0,Rotherham United
-3,Sat Sep 26 2020,15:00,Cardiff City,1-2,0-0,Reading FC
-3,Sat Sep 26 2020,15:00,Derby County,0-4,0-3,Blackburn Rovers
-3,Sat Sep 26 2020,15:00,Barnsley FC,0-0,0-0,Coventry City
-3,Sat Sep 26 2020,15:00,Millwall FC,1-1,1-1,Brentford FC
-3,Sat Sep 26 2020,15:00,Preston North End,0-1,0-1,Stoke City
-3,Sat Sep 26 2020,15:00,Queens Park Rangers,1-1,1-1,Middlesbrough FC
-3,Sun Sep 27 2020,16:00,AFC Bournemouth,1-0,1-0,Norwich City
-3,Sun Sep 27 2020,13:00,Bristol City,2-0,0-0,Sheffield Wednesday
-4,Fri Oct 2 2020,19:45,Coventry City,1-3,1-1,AFC Bournemouth
-4,Sat Oct 3 2020,12:30,Norwich City,0-1,0-0,Derby County
-4,Sat Oct 3 2020,15:00,Blackburn Rovers,0-0,0-0,Cardiff City
-4,Sat Oct 3 2020,15:00,Middlesbrough FC,2-1,1-0,Barnsley FC
-4,Sat Oct 3 2020,15:00,Reading FC,1-0,1-0,Watford FC
-4,Sat Oct 3 2020,15:00,Luton Town,2-0,0-0,Wycombe Wanderers
-4,Sat Oct 3 2020,15:00,Nottingham Forest,1-2,1-2,Bristol City
-4,Sat Oct 3 2020,15:00,Rotherham United,1-1,1-0,Huddersfield Town
-4,Sat Oct 3 2020,15:00,Sheffield Wednesday,1-1,0-0,Queens Park Rangers
-4,Sat Oct 3 2020,15:00,Swansea City,2-1,0-0,Millwall FC
-4,Sun Oct 4 2020,14:00,Brentford FC,2-4,2-0,Preston North End
-4,Sun Oct 4 2020,15:00,Stoke City,1-1,0-0,Birmingham City
-5,Fri Oct 16 2020,19:45,Derby County,0-1,0-0,Watford FC
-5,Sat Oct 17 2020,15:00,AFC Bournemouth,0-0,0-0,Queens Park Rangers
-5,Sat Oct 17 2020,15:00,Birmingham City,0-1,0-0,Sheffield Wednesday
-5,Sat Oct 17 2020,15:00,Blackburn Rovers,0-1,0-0,Nottingham Forest
-5,Sat Oct 17 2020,15:00,Barnsley FC,2-2,1-0,Bristol City
-5,Sat Oct 17 2020,15:00,Brentford FC,2-0,0-0,Coventry City
-5,Sat Oct 17 2020,15:00,Middlesbrough FC,0-0,0-0,Reading FC
-5,Sat Oct 17 2020,15:00,Luton Town,0-2,0-0,Stoke City
-5,Sat Oct 17 2020,15:00,Rotherham United,1-2,1-0,Norwich City
-5,Sat Oct 17 2020,15:00,Swansea City,1-2,1-1,Huddersfield Town
-5,Sat Oct 17 2020,15:00,Wycombe Wanderers,1-2,1-0,Millwall FC
-5,Sun Oct 18 2020,12:00,Preston North End,0-1,0-0,Cardiff City
-6,Tue Oct 20 2020,19:45,Bristol City,0-1,0-0,Middlesbrough FC
-6,Tue Oct 20 2020,19:45,Coventry City,1-1,1-1,Swansea City
-6,Tue Oct 20 2020,19:45,Millwall FC,2-0,1-0,Luton Town
-6,Tue Oct 20 2020,19:45,Norwich City,1-0,0-0,Birmingham City
-6,Tue Oct 20 2020,19:45,Nottingham Forest,1-1,0-0,Rotherham United
-6,Tue Oct 20 2020,19:45,Huddersfield Town,1-0,0-0,Derby County
-6,Tue Oct 20 2020,20:00,Reading FC,1-0,0-0,Wycombe Wanderers
-6,Wed Oct 21 2020,19:45,Watford FC,3-1,2-1,Blackburn Rovers
-6,Wed Oct 21 2020,19:45,Queens Park Rangers,0-2,0-1,Preston North End
-6,Wed Oct 21 2020,19:45,Sheffield Wednesday,1-2,1-2,Brentford FC
-6,Wed Oct 21 2020,19:45,Stoke City,2-2,1-2,Barnsley FC
-6,Wed Oct 21 2020,19:45,Cardiff City,1-1,0-1,AFC Bournemouth
-7,Fri Oct 23 2020,19:45,Nottingham Forest,1-1,0-1,Derby County
-7,Sat Oct 24 2020,12:30,Watford FC,1-1,1-0,AFC Bournemouth
-7,Sat Oct 24 2020,15:00,Bristol City,1-1,0-0,Swansea City
-7,Sat Oct 24 2020,15:00,Cardiff City,1-1,0-1,Middlesbrough FC
-7,Sat Oct 24 2020,15:00,Coventry City,0-4,0-1,Blackburn Rovers
-7,Sat Oct 24 2020,15:00,Millwall FC,1-1,1-1,Barnsley FC
-7,Sat Oct 24 2020,15:00,Reading FC,3-0,1-0,Rotherham United
-7,Sat Oct 24 2020,15:00,Huddersfield Town,1-2,1-0,Preston North End
-7,Sat Oct 24 2020,15:00,Norwich City,2-1,1-1,Wycombe Wanderers
-7,Sat Oct 24 2020,15:00,Queens Park Rangers,0-0,0-0,Birmingham City
-7,Sat Oct 24 2020,15:00,Sheffield Wednesday,0-1,0-0,Luton Town
-7,Sat Oct 24 2020,15:00,Stoke City,3-2,2-0,Brentford FC
-8,Tue Oct 27 2020,19:45,Blackburn Rovers,2-4,1-3,Reading FC
-8,Tue Oct 27 2020,19:45,Brentford FC,1-1,1-0,Norwich City
-8,Tue Oct 27 2020,19:45,Middlesbrough FC,2-0,0-0,Coventry City
-8,Tue Oct 27 2020,19:45,Swansea City,2-0,1-0,Stoke City
-8,Tue Oct 27 2020,19:45,Wycombe Wanderers,1-1,0-0,Watford FC
-8,Tue Oct 27 2020,19:00,Barnsley FC,3-0,2-0,Queens Park Rangers
-8,Wed Oct 28 2020,19:00,Preston North End,0-2,0-0,Millwall FC
-8,Wed Oct 28 2020,19:45,AFC Bournemouth,1-0,0-0,Bristol City
-8,Wed Oct 28 2020,19:45,Birmingham City,2-1,1-0,Huddersfield Town
-8,Wed Oct 28 2020,19:45,Derby County,1-1,1-0,Cardiff City
-8,Wed Oct 28 2020,19:45,Luton Town,1-1,1-0,Nottingham Forest
-8,Wed Oct 28 2020,19:45,Rotherham United,3-0,3-0,Sheffield Wednesday
-9,Fri Oct 30 2020,19:45,Coventry City,3-2,1-0,Reading FC
-9,Sat Oct 31 2020,12:30,Bristol City,1-3,1-3,Norwich City
-9,Sat Oct 31 2020,15:00,AFC Bournemouth,1-1,0-1,Derby County
-9,Sat Oct 31 2020,15:00,Barnsley FC,1-0,1-0,Watford FC
-9,Sat Oct 31 2020,15:00,Middlesbrough FC,1-0,0-0,Nottingham Forest
-9,Sat Oct 31 2020,15:00,Millwall FC,0-3,0-1,Huddersfield Town
-9,Sat Oct 31 2020,15:00,Luton Town,0-3,0-2,Brentford FC
-9,Sat Oct 31 2020,15:00,Preston North End,1-2,1-1,Birmingham City
-9,Sat Oct 31 2020,15:00,Queens Park Rangers,3-2,2-0,Cardiff City
-9,Sat Oct 31 2020,15:00,Stoke City,1-0,1-0,Rotherham United
-9,Sat Oct 31 2020,15:00,Swansea City,2-0,1-0,Blackburn Rovers
-9,Sat Oct 31 2020,15:00,Wycombe Wanderers,1-0,1-0,Sheffield Wednesday
-10,Tue Nov 3 2020,19:00,Huddersfield Town,1-2,1-0,Bristol City
-10,Tue Nov 3 2020,19:00,Norwich City,0-0,0-0,Millwall FC
-10,Tue Nov 3 2020,19:00,Sheffield Wednesday,1-0,0-0,AFC Bournemouth
-10,Tue Nov 3 2020,19:45,Blackburn Rovers,0-0,0-0,Middlesbrough FC
-10,Tue Nov 3 2020,19:45,Cardiff City,3-0,2-0,Barnsley FC
-10,Tue Nov 3 2020,19:00,Brentford FC,1-1,1-0,Swansea City
-10,Wed Nov 4 2020,19:00,Watford FC,3-2,1-1,Stoke City
-10,Wed Nov 4 2020,19:00,Reading FC,0-3,0-0,Preston North End
-10,Wed Nov 4 2020,19:45,Birmingham City,1-2,1-0,Wycombe Wanderers
-10,Wed Nov 4 2020,19:45,Derby County,0-1,0-0,Queens Park Rangers
-10,Wed Nov 4 2020,19:45,Nottingham Forest,2-1,1-0,Coventry City
-10,Wed Nov 4 2020,19:45,Rotherham United,0-1,0-0,Luton Town
-11,Fri Nov 6 2020,18:00,Cardiff City,0-1,0-1,Bristol City
-11,Sat Nov 7 2020,12:30,Reading FC,0-3,0-2,Stoke City
-11,Sat Nov 7 2020,15:00,Birmingham City,1-3,0-2,AFC Bournemouth
-11,Sat Nov 7 2020,15:00,Blackburn Rovers,3-1,0-0,Queens Park Rangers
-11,Sat Nov 7 2020,15:00,Derby County,0-2,0-1,Barnsley FC
-11,Sat Nov 7 2020,15:00,Brentford FC,0-0,0-0,Middlesbrough FC
-11,Sat Nov 7 2020,15:00,Watford FC,3-2,0-0,Coventry City
-11,Sat Nov 7 2020,15:00,Huddersfield Town,1-1,0-1,Luton Town
-11,Sat Nov 7 2020,15:00,Norwich City,1-0,0-0,Swansea City
-11,Sat Nov 7 2020,15:00,Nottingham Forest,2-0,1-0,Wycombe Wanderers
-11,Sat Nov 7 2020,15:00,Rotherham United,2-1,0-0,Preston North End
-11,Sat Nov 7 2020,15:00,Sheffield Wednesday,0-0,0-0,Millwall FC
-12,Fri Nov 20 2020,19:45,Coventry City,0-0,0-0,Birmingham City
-12,Sat Nov 21 2020,12:30,AFC Bournemouth,4-2,0-2,Reading FC
-12,Sat Nov 21 2020,15:00,Bristol City,1-0,0-0,Derby County
-12,Sat Nov 21 2020,15:00,Barnsley FC,2-0,0-0,Nottingham Forest
-12,Sat Nov 21 2020,15:00,Middlesbrough FC,0-1,0-0,Norwich City
-12,Sat Nov 21 2020,15:00,Millwall FC,1-1,1-0,Cardiff City
-12,Sat Nov 21 2020,15:00,Luton Town,1-1,0-0,Blackburn Rovers
-12,Sat Nov 21 2020,15:00,Preston North End,1-0,0-0,Sheffield Wednesday
-12,Sat Nov 21 2020,15:00,Queens Park Rangers,1-1,0-1,Watford FC
-12,Sat Nov 21 2020,15:00,Stoke City,4-3,3-2,Huddersfield Town
-12,Sat Nov 21 2020,15:00,Swansea City,1-0,1-0,Rotherham United
-12,Sat Nov 21 2020,15:00,Wycombe Wanderers,0-0,0-0,Brentford FC
-13,Tue Nov 24 2020,19:00,Luton Town,1-1,1-1,Birmingham City
-13,Tue Nov 24 2020,19:00,Queens Park Rangers,3-2,3-1,Rotherham United
-13,Tue Nov 24 2020,19:00,Stoke City,2-3,0-2,Norwich City
-13,Tue Nov 24 2020,19:00,Wycombe Wanderers,0-0,0-0,Huddersfield Town
-13,Tue Nov 24 2020,19:45,Barnsley FC,0-1,0-0,Brentford FC
-13,Tue Nov 24 2020,19:45,Preston North End,0-3,0-1,Blackburn Rovers
-13,Tue Nov 24 2020,20:00,AFC Bournemouth,2-0,1-0,Nottingham Forest
-13,Wed Nov 25 2020,19:00,Millwall FC,1-1,1-0,Reading FC
-13,Wed Nov 25 2020,19:45,Bristol City,0-0,0-0,Watford FC
-13,Wed Nov 25 2020,19:45,Coventry City,1-0,0-0,Cardiff City
-13,Wed Nov 25 2020,19:45,Swansea City,1-1,0-1,Sheffield Wednesday
-13,Wed Nov 25 2020,19:00,Middlesbrough FC,3-0,1-0,Derby County
-14,Fri Nov 27 2020,19:45,Brentford FC,2-1,1-1,Queens Park Rangers
-14,Sat Nov 28 2020,12:30,Reading FC,3-1,0-0,Bristol City
-14,Sat Nov 28 2020,15:00,Birmingham City,0-0,0-0,Millwall FC
-14,Sat Nov 28 2020,15:00,Blackburn Rovers,2-1,1-0,Barnsley FC
-14,Sat Nov 28 2020,15:00,Cardiff City,4-0,2-0,Luton Town
-14,Sat Nov 28 2020,15:00,Derby County,1-1,1-0,Wycombe Wanderers
-14,Sat Nov 28 2020,15:00,Watford FC,4-1,1-0,Preston North End
-14,Sat Nov 28 2020,15:00,Huddersfield Town,3-2,2-1,Middlesbrough FC
-14,Sat Nov 28 2020,15:00,Norwich City,1-1,1-0,Coventry City
-14,Sat Nov 28 2020,15:00,Rotherham United,2-2,1-1,AFC Bournemouth
-14,Sat Nov 28 2020,15:00,Sheffield Wednesday,0-0,0-0,Stoke City
-14,Sun Nov 29 2020,12:00,Nottingham Forest,0-1,0-1,Swansea City
-15,Tue Dec 1 2020,19:45,AFC Bournemouth,2-3,0-1,Preston North End
-15,Tue Dec 1 2020,19:45,Birmingham City,1-2,0-0,Barnsley FC
-15,Tue Dec 1 2020,19:45,Derby County,1-1,0-0,Coventry City
-15,Tue Dec 1 2020,19:45,Queens Park Rangers,1-2,1-1,Bristol City
-15,Tue Dec 1 2020,20:00,Rotherham United,0-2,0-0,Brentford FC
-15,Tue Dec 1 2020,19:00,Cardiff City,3-0,1-0,Huddersfield Town
-15,Wed Dec 2 2020,19:00,Middlesbrough FC,2-1,1-0,Swansea City
-15,Wed Dec 2 2020,19:45,Blackburn Rovers,2-1,1-1,Millwall FC
-15,Wed Dec 2 2020,19:45,Luton Town,3-1,2-1,Norwich City
-15,Wed Dec 2 2020,19:45,Nottingham Forest,0-0,0-0,Watford FC
-15,Wed Dec 2 2020,19:45,Sheffield Wednesday,1-1,1-1,Reading FC
-15,Wed Dec 2 2020,19:45,Wycombe Wanderers,0-1,0-0,Stoke City
-16,Fri Dec 4 2020,17:30,Barnsley FC,0-4,0-2,AFC Bournemouth
-16,Sat Dec 5 2020,12:30,Reading FC,2-0,1-0,Nottingham Forest
-16,Sat Dec 5 2020,15:00,Bristol City,0-1,0-0,Birmingham City
-16,Sat Dec 5 2020,15:00,Coventry City,3-1,2-0,Rotherham United
-16,Sat Dec 5 2020,15:00,Brentford FC,2-2,1-1,Blackburn Rovers
-16,Sat Dec 5 2020,15:00,Millwall FC,0-1,0-0,Derby County
-16,Sat Dec 5 2020,15:00,Watford FC,0-1,0-1,Cardiff City
-16,Sat Dec 5 2020,15:00,Huddersfield Town,2-0,2-0,Queens Park Rangers
-16,Sat Dec 5 2020,15:00,Norwich City,2-1,0-0,Sheffield Wednesday
-16,Sat Dec 5 2020,15:00,Preston North End,2-2,1-0,Wycombe Wanderers
-16,Sat Dec 5 2020,15:00,Stoke City,1-0,1-0,Middlesbrough FC
-16,Sat Dec 5 2020,15:00,Swansea City,2-0,1-0,Luton Town
-17,Tue Dec 8 2020,19:45,Coventry City,0-0,0-0,Luton Town
-17,Tue Dec 8 2020,19:45,Millwall FC,1-1,0-0,Queens Park Rangers
-17,Tue Dec 8 2020,19:45,Watford FC,2-0,2-0,Rotherham United
-17,Tue Dec 8 2020,19:45,Huddersfield Town,2-0,2-0,Sheffield Wednesday
-17,Tue Dec 8 2020,19:45,Swansea City,0-0,0-0,AFC Bournemouth
-17,Tue Dec 8 2020,19:45,Stoke City,1-2,1-0,Cardiff City
-17,Wed Dec 9 2020,19:45,Bristol City,1-0,0-0,Blackburn Rovers
-17,Wed Dec 9 2020,19:45,Barnsley FC,2-1,1-0,Wycombe Wanderers
-17,Wed Dec 9 2020,19:45,Brentford FC,0-0,0-0,Derby County
-17,Wed Dec 9 2020,19:45,Norwich City,2-1,1-0,Nottingham Forest
-17,Wed Dec 9 2020,19:45,Reading FC,1-2,0-2,Birmingham City
-17,Wed Dec 9 2020,19:00,Preston North End,3-0,0-0,Middlesbrough FC
-18,Sat Dec 12 2020,12:30,Cardiff City,0-2,0-1,Swansea City
-18,Sat Dec 12 2020,15:00,AFC Bournemouth,5-0,3-0,Huddersfield Town
-18,Sat Dec 12 2020,15:00,Birmingham City,0-1,0-0,Watford FC
-18,Sat Dec 12 2020,15:00,Blackburn Rovers,1-2,0-1,Norwich City
-18,Sat Dec 12 2020,15:00,Derby County,0-0,0-0,Stoke City
-18,Sat Dec 12 2020,15:00,Middlesbrough FC,3-0,3-0,Millwall FC
-18,Sat Dec 12 2020,15:00,Luton Town,3-0,2-0,Preston North End
-18,Sat Dec 12 2020,15:00,Nottingham Forest,1-3,0-1,Brentford FC
-18,Sat Dec 12 2020,15:00,Queens Park Rangers,0-1,0-0,Reading FC
-18,Sat Dec 12 2020,15:00,Rotherham United,2-0,2-0,Bristol City
-18,Sat Dec 12 2020,15:00,Sheffield Wednesday,1-2,1-2,Barnsley FC
-18,Sat Dec 12 2020,15:00,Wycombe Wanderers,1-2,0-2,Coventry City
-19,Tue Dec 15 2020,19:45,AFC Bournemouth,1-0,0-0,Wycombe Wanderers
-19,Tue Dec 15 2020,19:45,Bristol City,0-2,0-1,Millwall FC
-19,Tue Dec 15 2020,19:45,Barnsley FC,2-1,0-1,Preston North End
-19,Tue Dec 15 2020,19:45,Nottingham Forest,2-0,1-0,Sheffield Wednesday
-19,Tue Dec 15 2020,20:00,Watford FC,1-1,0-0,Brentford FC
-19,Tue Dec 15 2020,17:30,Queens Park Rangers,0-0,0-0,Stoke City
-19,Wed Dec 16 2020,17:30,Derby County,2-0,2-0,Swansea City
-19,Wed Dec 16 2020,19:00,Cardiff City,3-2,1-1,Birmingham City
-19,Wed Dec 16 2020,19:00,Middlesbrough FC,1-0,0-0,Luton Town
-19,Wed Dec 16 2020,19:45,Blackburn Rovers,2-1,0-0,Rotherham United
-19,Wed Dec 16 2020,20:00,Coventry City,0-0,0-0,Huddersfield Town
-19,Wed Dec 16 2020,20:00,Reading FC,1-2,1-1,Norwich City
-20,Fri Dec 18 2020,20:00,Preston North End,1-0,1-0,Bristol City
-20,Sat Dec 19 2020,12:30,Norwich City,2-0,1-0,Cardiff City
-20,Sat Dec 19 2020,15:00,Birmingham City,1-4,1-2,Middlesbrough FC
-20,Sat Dec 19 2020,15:00,Brentford FC,3-1,3-0,Reading FC
-20,Sat Dec 19 2020,15:00,Millwall FC,1-1,0-0,Nottingham Forest
-20,Sat Dec 19 2020,15:00,Huddersfield Town,2-0,2-0,Watford FC
-20,Sat Dec 19 2020,15:00,Luton Town,0-0,0-0,AFC Bournemouth
-20,Sat Dec 19 2020,15:00,Sheffield Wednesday,1-0,0-0,Coventry City
-20,Sat Dec 19 2020,15:00,Stoke City,1-0,1-0,Blackburn Rovers
-20,Sat Dec 19 2020,15:00,Swansea City,2-0,1-0,Barnsley FC
-20,Sat Dec 19 2020,15:00,Wycombe Wanderers,1-1,0-1,Queens Park Rangers
-21,Sat Dec 26 2020,19:45,Watford FC,1-0,1-0,Norwich City
-21,Sat Dec 26 2020,15:00,Blackburn Rovers,1-1,0-1,Sheffield Wednesday
-21,Sat Dec 26 2020,15:00,Bristol City,2-1,1-0,Wycombe Wanderers
-21,Sat Dec 26 2020,15:00,Cardiff City,2-3,1-0,Brentford FC
-21,Sat Dec 26 2020,15:00,Coventry City,0-0,0-0,Stoke City
-21,Sat Dec 26 2020,15:00,Derby County,0-1,0-0,Preston North End
-21,Sat Dec 26 2020,15:00,Barnsley FC,2-1,1-1,Huddersfield Town
-21,Sat Dec 26 2020,15:00,Reading FC,2-1,2-0,Luton Town
-21,Sat Dec 26 2020,15:00,Nottingham Forest,0-0,0-0,Birmingham City
-21,Sat Dec 26 2020,15:00,Queens Park Rangers,0-2,0-1,Swansea City
-22,Tue Dec 29 2020,20:00,Stoke City,1-1,1-0,Nottingham Forest
-22,Tue Dec 29 2020,19:45,Rotherham United,1-2,0-2,Barnsley FC
-22,Tue Dec 29 2020,19:45,Preston North End,2-0,1-0,Coventry City
-22,Tue Dec 29 2020,17:30,Birmingham City,0-4,0-3,Derby County
-22,Tue Dec 29 2020,19:00,Sheffield Wednesday,2-1,2-0,Middlesbrough FC
-22,Tue Dec 29 2020,19:45,Huddersfield Town,2-1,0-0,Blackburn Rovers
-22,Tue Dec 29 2020,19:45,Luton Town,2-1,1-0,Bristol City
-22,Tue Dec 29 2020,19:45,Norwich City,1-1,0-0,Queens Park Rangers
-22,Tue Dec 29 2020,19:45,Wycombe Wanderers,2-1,1-0,Cardiff City
-22,Wed Dec 30 2020,20:00,Swansea City,0-0,0-0,Reading FC
-22,Wed Dec 30 2020,17:30,Brentford FC,2-1,1-1,AFC Bournemouth
-23,Fri Jan 1 2021,17:30,Sheffield Wednesday,1-0,0-0,Derby County
-23,Sat Jan 2 2021,15:00,Norwich City,1-0,0-0,Barnsley FC
-23,Sat Jan 2 2021,15:00,Wycombe Wanderers,1-3,1-2,Middlesbrough FC
-23,Sat Jan 2 2021,15:00,Preston North End,0-1,0-0,Nottingham Forest
-23,Sat Jan 2 2021,19:45,Stoke City,0-1,0-0,AFC Bournemouth
-23,Sat Jan 2 2021,15:00,Birmingham City,0-2,0-1,Blackburn Rovers
-23,Sat Jan 2 2021,15:00,Millwall FC,1-2,0-2,Coventry City
-23,Sat Jan 2 2021,15:00,Huddersfield Town,1-2,1-0,Reading FC
-23,Sat Jan 2 2021,15:00,Swansea City,2-1,1-1,Watford FC
-23,Tue Jan 12 2021,19:00,Luton Town,0-2,0-1,Queens Park Rangers
-21,Tue Jan 12 2021,19:45,AFC Bournemouth,1-1,1-0,Millwall FC
-24,Sat Jan 16 2021,15:00,Nottingham Forest,3-1,1-0,Millwall FC
-24,Sat Jan 16 2021,19:45,Barnsley FC,0-2,0-1,Swansea City
-24,Sat Jan 16 2021,15:00,Watford FC,2-0,0-0,Huddersfield Town
-24,Sat Jan 16 2021,15:00,Derby County,0-1,0-0,Rotherham United
-24,Sat Jan 16 2021,15:00,Cardiff City,1-2,0-2,Norwich City
-24,Sat Jan 16 2021,12:30,Middlesbrough FC,0-1,0-1,Birmingham City
-24,Sat Jan 16 2021,15:00,AFC Bournemouth,0-1,0-0,Luton Town
-24,Sat Jan 16 2021,15:00,Blackburn Rovers,1-1,0-1,Stoke City
-24,Sat Jan 16 2021,15:00,Bristol City,2-0,1-0,Preston North End
-25,Tue Jan 19 2021,19:45,Watford FC,1-0,1-0,Barnsley FC
-25,Tue Jan 19 2021,18:00,Derby County,1-0,1-0,AFC Bournemouth
-25,Tue Jan 19 2021,19:45,Rotherham United,3-3,1-1,Stoke City
-25,Tue Jan 19 2021,18:00,Reading FC,3-0,1-0,Coventry City
-25,Wed Jan 20 2021,19:00,Huddersfield Town,0-1,0-1,Millwall FC
-25,Wed Jan 20 2021,19:00,Nottingham Forest,1-2,0-1,Middlesbrough FC
-25,Wed Jan 20 2021,19:00,Brentford FC,1-0,1-0,Luton Town
-25,Wed Jan 20 2021,19:45,Birmingham City,0-1,0-0,Preston North End
-25,Wed Jan 20 2021,18:00,Norwich City,2-0,1-0,Bristol City
-25,Wed Jan 20 2021,19:00,Cardiff City,0-1,0-0,Queens Park Rangers
-26,Fri Jan 22 2021,19:45,Stoke City,1-2,0-0,Watford FC
-26,Sat Jan 23 2021,15:00,Queens Park Rangers,0-1,0-0,Derby County
-26,Sun Jan 24 2021,15:00,Middlesbrough FC,0-1,0-0,Blackburn Rovers
-26,Sun Jan 24 2021,12:30,Preston North End,0-0,0-0,Reading FC
-26,Tue Jan 26 2021,19:00,Bristol City,2-1,2-0,Huddersfield Town
-22,Tue Jan 26 2021,19:00,Millwall FC,0-0,0-0,Watford FC
-26,Wed Jan 27 2021,19:00,Swansea City,1-1,0-0,Brentford FC
-24,Wed Jan 27 2021,19:00,Coventry City,2-0,0-0,Sheffield Wednesday
-21,Wed Jan 27 2021,19:00,Middlesbrough FC,0-3,0-1,Rotherham United
-26,Wed Jan 27 2021,19:00,Barnsley FC,2-2,1-0,Cardiff City
-27,Fri Jan 29 2021,20:00,Reading FC,3-1,3-0,AFC Bournemouth
-27,Sat Jan 30 2021,15:00,Nottingham Forest,0-0,0-0,Barnsley FC
-27,Sat Jan 30 2021,15:00,Rotherham United,1-3,0-2,Swansea City
-27,Sat Jan 30 2021,15:00,Sheffield Wednesday,1-0,1-0,Preston North End
-27,Sat Jan 30 2021,12:30,Norwich City,0-0,0-0,Middlesbrough FC
-27,Sat Jan 30 2021,15:00,Birmingham City,1-1,1-1,Coventry City
-27,Sat Jan 30 2021,15:00,Huddersfield Town,1-1,1-1,Stoke City
-27,Sat Jan 30 2021,15:00,Brentford FC,7-2,2-2,Wycombe Wanderers
-27,Sat Jan 30 2021,15:00,Derby County,1-0,1-0,Bristol City
-27,Sat Jan 30 2021,15:00,Cardiff City,1-1,0-1,Millwall FC
-27,Sat Jan 30 2021,15:00,Blackburn Rovers,1-0,0-0,Luton Town
-27,Mon Feb 1 2021,19:45,Watford FC,1-2,0-0,Queens Park Rangers
-26,Tue Feb 2 2021,19:00,AFC Bournemouth,1-2,0-1,Sheffield Wednesday
-26,Tue Feb 2 2021,18:00,Millwall FC,0-0,0-0,Norwich City
-26,Tue Feb 2 2021,19:00,Coventry City,1-2,1-1,Nottingham Forest
-26,Tue Feb 2 2021,19:00,Wycombe Wanderers,0-0,0-0,Birmingham City
-20,Wed Feb 3 2021,19:00,Rotherham United,3-0,0-0,Derby County
-23,Wed Feb 3 2021,19:45,Brentford FC,3-2,1-1,Bristol City
-28,Fri Feb 5 2021,20:15,Swansea City,2-0,1-0,Norwich City
-28,Sat Feb 6 2021,15:00,Queens Park Rangers,1-0,0-0,Blackburn Rovers
-28,Sat Feb 6 2021,15:00,Wycombe Wanderers,0-3,0-1,Nottingham Forest
-28,Sat Feb 6 2021,15:00,Millwall FC,4-1,1-1,Sheffield Wednesday
-28,Sat Feb 6 2021,15:00,Preston North End,1-2,0-1,Rotherham United
-28,Sat Feb 6 2021,15:00,Stoke City,0-0,0-0,Reading FC
-28,Sat Feb 6 2021,15:00,Middlesbrough FC,1-4,1-1,Brentford FC
-28,Sat Feb 6 2021,12:30,Coventry City,0-0,0-0,Watford FC
-28,Sat Feb 6 2021,15:00,AFC Bournemouth,3-2,1-1,Birmingham City
-28,Sat Feb 6 2021,15:00,Bristol City,0-2,0-2,Cardiff City
-28,Sat Feb 6 2021,15:00,Luton Town,1-1,1-0,Huddersfield Town
-23,Tue Feb 9 2021,19:00,Rotherham United,1-2,0-1,Cardiff City
-25,Tue Feb 9 2021,19:00,Sheffield Wednesday,2-0,1-0,Wycombe Wanderers
-24,Wed Feb 10 2021,19:00,Reading FC,1-3,1-1,Brentford FC
-29,Fri Feb 12 2021,19:45,Blackburn Rovers,1-2,1-2,Preston North End
-29,Sat Feb 13 2021,15:00,Norwich City,4-1,2-0,Stoke City
-29,Sat Feb 13 2021,15:00,Reading FC,1-2,1-0,Millwall FC
-29,Sat Feb 13 2021,15:00,Huddersfield Town,2-3,2-1,Wycombe Wanderers
-29,Sat Feb 13 2021,15:00,Watford FC,6-0,4-0,Bristol City
-29,Sat Feb 13 2021,12:30,Nottingham Forest,0-0,0-0,AFC Bournemouth
-29,Sat Feb 13 2021,15:00,Birmingham City,0-1,0-1,Luton Town
-29,Sat Feb 13 2021,15:00,Cardiff City,3-1,2-0,Coventry City
-29,Sat Feb 13 2021,15:00,Derby County,2-1,2-1,Middlesbrough FC
-29,Sun Feb 14 2021,13:00,Brentford FC,0-2,0-1,Barnsley FC
-30,Tue Feb 16 2021,19:45,Bristol City,0-2,0-2,Reading FC
-30,Tue Feb 16 2021,19:00,Stoke City,1-0,0-0,Sheffield Wednesday
-30,Tue Feb 16 2021,19:45,Wycombe Wanderers,1-2,0-1,Derby County
-30,Tue Feb 16 2021,19:45,Middlesbrough FC,2-1,2-1,Huddersfield Town
-30,Tue Feb 16 2021,19:00,Preston North End,0-1,0-0,Watford FC
-30,Tue Feb 16 2021,20:15,Luton Town,0-2,0-0,Cardiff City
-30,Wed Feb 17 2021,19:00,Swansea City,1-0,0-0,Nottingham Forest
-30,Wed Feb 17 2021,19:45,Barnsley FC,2-1,0-0,Blackburn Rovers
-30,Wed Feb 17 2021,19:00,Queens Park Rangers,2-1,0-1,Brentford FC
-30,Wed Feb 17 2021,20:15,AFC Bournemouth,1-0,1-0,Rotherham United
-30,Wed Feb 17 2021,19:00,Coventry City,0-2,0-2,Norwich City
-30,Wed Feb 17 2021,19:00,Millwall FC,2-0,1-0,Birmingham City
-31,Fri Feb 19 2021,19:45,Watford FC,2-1,2-0,Derby County
-31,Sat Feb 20 2021,15:00,Stoke City,3-0,1-0,Luton Town
-31,Sat Feb 20 2021,15:00,Nottingham Forest,1-0,1-0,Blackburn Rovers
-31,Sat Feb 20 2021,15:00,Queens Park Rangers,2-1,0-0,AFC Bournemouth
-31,Sat Feb 20 2021,15:00,Sheffield Wednesday,0-1,0-0,Birmingham City
-31,Sat Feb 20 2021,15:00,Norwich City,1-0,1-0,Rotherham United
-31,Sat Feb 20 2021,15:00,Huddersfield Town,4-1,1-1,Swansea City
-31,Sat Feb 20 2021,12:30,Coventry City,2-0,1-0,Brentford FC
-31,Sat Feb 20 2021,15:00,Bristol City,0-1,0-0,Barnsley FC
-31,Sat Feb 20 2021,15:00,Cardiff City,4-0,1-0,Preston North End
-31,Sat Feb 20 2021,15:00,Millwall FC,0-0,0-0,Wycombe Wanderers
-31,Sat Feb 20 2021,15:00,Reading FC,0-2,0-2,Middlesbrough FC
-32,Tue Feb 23 2021,19:00,Derby County,2-0,1-0,Huddersfield Town
-32,Tue Feb 23 2021,19:00,Middlesbrough FC,1-3,0-3,Bristol City
-32,Tue Feb 23 2021,19:45,Rotherham United,0-1,0-0,Nottingham Forest
-32,Tue Feb 23 2021,19:45,Wycombe Wanderers,1-0,0-0,Reading FC
-32,Tue Feb 23 2021,19:45,Luton Town,1-1,0-0,Millwall FC
-32,Tue Feb 23 2021,19:00,Birmingham City,1-3,1-1,Norwich City
-32,Wed Feb 24 2021,19:45,Preston North End,0-0,0-0,Queens Park Rangers
-32,Wed Feb 24 2021,19:45,Blackburn Rovers,2-3,1-2,Watford FC
-32,Wed Feb 24 2021,19:45,AFC Bournemouth,1-2,0-2,Cardiff City
-32,Wed Feb 24 2021,19:00,Swansea City,1-0,0-0,Coventry City
-32,Wed Feb 24 2021,19:00,Brentford FC,3-0,1-0,Sheffield Wednesday
-32,Wed Feb 24 2021,19:00,Barnsley FC,2-0,1-0,Stoke City
-33,Fri Feb 26 2021,19:45,Derby County,1-1,0-1,Nottingham Forest
-33,Sat Feb 27 2021,15:00,Luton Town,3-2,0-2,Sheffield Wednesday
-33,Sat Feb 27 2021,15:00,Preston North End,3-0,1-0,Huddersfield Town
-33,Sat Feb 27 2021,15:00,Rotherham United,0-1,0-1,Reading FC
-33,Sat Feb 27 2021,15:00,Swansea City,1-3,0-0,Bristol City
-33,Sat Feb 27 2021,15:00,Blackburn Rovers,1-1,1-0,Coventry City
-33,Sat Feb 27 2021,15:00,Middlesbrough FC,1-1,0-1,Cardiff City
-33,Sat Feb 27 2021,12:30,AFC Bournemouth,1-0,0-0,Watford FC
-33,Sat Feb 27 2021,15:00,Birmingham City,2-1,0-1,Queens Park Rangers
-33,Sat Feb 27 2021,15:00,Brentford FC,2-1,0-1,Stoke City
-33,Sat Feb 27 2021,15:00,Barnsley FC,2-1,1-1,Millwall FC
-33,Sun Feb 28 2021,12:00,Wycombe Wanderers,0-2,0-0,Norwich City
-34,Tue Mar 2 2021,19:00,Huddersfield Town,1-1,0-0,Birmingham City
-34,Tue Mar 2 2021,19:00,Millwall FC,2-1,1-1,Preston North End
-34,Tue Mar 2 2021,20:00,Reading FC,1-0,1-0,Blackburn Rovers
-34,Tue Mar 2 2021,19:00,Coventry City,1-2,1-1,Middlesbrough FC
-34,Tue Mar 2 2021,19:00,Cardiff City,4-0,1-0,Derby County
-34,Tue Mar 2 2021,19:45,Nottingham Forest,0-1,0-0,Luton Town
-34,Wed Mar 3 2021,19:45,Bristol City,1-2,1-1,AFC Bournemouth
-34,Wed Mar 3 2021,19:45,Sheffield Wednesday,1-2,0-1,Rotherham United
-34,Wed Mar 3 2021,20:15,Stoke City,1-2,1-1,Swansea City
-34,Wed Mar 3 2021,19:00,Watford FC,2-0,1-0,Wycombe Wanderers
-34,Wed Mar 3 2021,19:00,Queens Park Rangers,1-3,1-2,Barnsley FC
-34,Wed Mar 3 2021,17:30,Norwich City,1-0,1-0,Brentford FC
-35,Fri Mar 5 2021,19:45,Huddersfield Town,0-0,0-0,Cardiff City
-35,Sat Mar 6 2021,15:00,Reading FC,3-0,1-0,Sheffield Wednesday
-35,Sat Mar 6 2021,15:00,Swansea City,2-1,1-0,Middlesbrough FC
-35,Sat Mar 6 2021,15:00,Stoke City,2-0,0-0,Wycombe Wanderers
-35,Sat Mar 6 2021,15:00,Preston North End,1-1,0-1,AFC Bournemouth
-35,Sat Mar 6 2021,15:00,Norwich City,3-0,2-0,Luton Town
-35,Sat Mar 6 2021,15:00,Millwall FC,0-2,0-1,Blackburn Rovers
-35,Sat Mar 6 2021,12:30,Watford FC,1-0,1-0,Nottingham Forest
-35,Sat Mar 6 2021,15:00,Bristol City,0-2,0-2,Queens Park Rangers
-35,Sat Mar 6 2021,15:00,Coventry City,1-0,1-0,Derby County
-35,Sat Mar 6 2021,15:00,Barnsley FC,1-0,0-0,Birmingham City
-24,Tue Mar 9 2021,19:00,Queens Park Rangers,1-0,1-0,Wycombe Wanderers
-25,Tue Mar 9 2021,18:00,Blackburn Rovers,1-1,1-1,Swansea City
-28,Wed Mar 10 2021,19:00,Barnsley FC,0-0,0-0,Derby County
-36,Fri Mar 12 2021,19:45,Blackburn Rovers,0-1,0-1,Brentford FC
-36,Sat Mar 13 2021,15:00,Nottingham Forest,1-1,0-0,Reading FC
-36,Sat Mar 13 2021,15:00,Middlesbrough FC,3-0,2-0,Stoke City
-36,Sat Mar 13 2021,15:00,Wycombe Wanderers,1-0,1-0,Preston North End
-36,Sat Mar 13 2021,15:00,Queens Park Rangers,0-1,0-0,Huddersfield Town
-36,Sat Mar 13 2021,12:15,Luton Town,0-1,0-1,Swansea City
-36,Sat Mar 13 2021,15:00,AFC Bournemouth,2-3,2-1,Barnsley FC
-36,Sat Mar 13 2021,15:00,Birmingham City,0-3,0-1,Bristol City
-36,Sat Mar 13 2021,15:00,Cardiff City,1-2,1-1,Watford FC
-36,Sat Mar 13 2021,15:00,Derby County,0-1,0-1,Millwall FC
-36,Sun Mar 14 2021,12:15,Sheffield Wednesday,1-2,1-0,Norwich City
-37,Tue Mar 16 2021,19:00,Luton Town,2-0,2-0,Coventry City
-37,Tue Mar 16 2021,19:00,Middlesbrough FC,2-0,1-0,Preston North End
-37,Tue Mar 16 2021,19:00,Rotherham United,1-4,0-3,Watford FC
-37,Tue Mar 16 2021,19:00,Cardiff City,0-0,0-0,Stoke City
-37,Tue Mar 16 2021,19:00,Derby County,2-2,0-2,Brentford FC
-37,Tue Mar 16 2021,19:45,AFC Bournemouth,3-0,2-0,Swansea City
-37,Wed Mar 17 2021,19:45,Blackburn Rovers,0-0,0-0,Bristol City
-37,Wed Mar 17 2021,19:45,Sheffield Wednesday,1-1,1-0,Huddersfield Town
-37,Wed Mar 17 2021,19:45,Birmingham City,2-1,1-1,Reading FC
-37,Wed Mar 17 2021,19:00,Wycombe Wanderers,1-3,0-1,Barnsley FC
-37,Wed Mar 17 2021,19:00,Queens Park Rangers,3-2,0-2,Millwall FC
-37,Wed Mar 17 2021,19:00,Nottingham Forest,0-2,0-2,Norwich City
-38,Sat Mar 20 2021,15:00,Preston North End,0-1,0-0,Luton Town
-38,Sat Mar 20 2021,15:00,Stoke City,1-0,0-0,Derby County
-38,Sat Mar 20 2021,17:30,Swansea City,0-1,0-1,Cardiff City
-38,Sat Mar 20 2021,15:00,Norwich City,1-1,0-0,Blackburn Rovers
-38,Sat Mar 20 2021,15:00,Watford FC,3-0,1-0,Birmingham City
-38,Sat Mar 20 2021,12:30,Brentford FC,1-1,1-0,Nottingham Forest
-38,Sat Mar 20 2021,15:00,Bristol City,0-2,0-1,Rotherham United
-38,Sat Mar 20 2021,15:00,Coventry City,0-0,0-0,Wycombe Wanderers
-38,Sat Mar 20 2021,15:00,Barnsley FC,1-2,0-1,Sheffield Wednesday
-38,Sat Mar 20 2021,15:00,Millwall FC,1-0,1-0,Middlesbrough FC
-38,Sat Mar 20 2021,15:00,Reading FC,1-1,0-1,Queens Park Rangers
-39,Fri Apr 2 2021,17:30,Barnsley FC,1-1,0-1,Reading FC
-39,Fri Apr 2 2021,20:00,Birmingham City,1-0,0-0,Swansea City
-39,Fri Apr 2 2021,15:00,Wycombe Wanderers,1-0,0-0,Blackburn Rovers
-39,Fri Apr 2 2021,15:00,Queens Park Rangers,3-0,2-0,Coventry City
-39,Fri Apr 2 2021,15:00,Preston North End,1-1,0-1,Norwich City
-39,Fri Apr 2 2021,15:00,Watford FC,1-0,1-0,Sheffield Wednesday
-39,Fri Apr 2 2021,15:00,AFC Bournemouth,3-1,1-0,Middlesbrough FC
-39,Fri Apr 2 2021,15:00,Bristol City,0-2,0-1,Stoke City
-39,Fri Apr 2 2021,15:00,Cardiff City,0-1,0-1,Nottingham Forest
-39,Fri Apr 2 2021,15:00,Derby County,2-0,1-0,Luton Town
-39,Fri Apr 2 2021,15:00,Millwall FC,1-0,0-0,Rotherham United
-39,Sat Apr 3 2021,12:30,Huddersfield Town,1-1,1-0,Brentford FC
-40,Mon Apr 5 2021,17:30,Sheffield Wednesday,5-0,3-0,Cardiff City
-40,Mon Apr 5 2021,15:00,Nottingham Forest,3-1,1-0,Queens Park Rangers
-40,Mon Apr 5 2021,15:00,Luton Town,1-2,0-1,Barnsley FC
-40,Mon Apr 5 2021,15:00,Reading FC,3-1,1-0,Derby County
-40,Mon Apr 5 2021,15:00,Swansea City,0-1,0-0,Preston North End
-40,Mon Apr 5 2021,15:00,Stoke City,1-2,1-1,Millwall FC
-40,Mon Apr 5 2021,12:30,Middlesbrough FC,1-1,0-1,Watford FC
-40,Mon Apr 5 2021,15:00,Blackburn Rovers,0-2,0-1,AFC Bournemouth
-40,Mon Apr 5 2021,15:00,Coventry City,3-1,1-0,Bristol City
-40,Mon Apr 5 2021,15:00,Rotherham United,0-3,0-2,Wycombe Wanderers
-40,Tue Apr 6 2021,19:00,Brentford FC,0-0,0-0,Birmingham City
-40,Tue Apr 6 2021,19:45,Norwich City,7-0,5-0,Huddersfield Town
-41,Fri Apr 9 2021,19:45,Watford FC,2-0,2-0,Reading FC
-41,Sat Apr 10 2021,15:00,Barnsley FC,2-0,0-0,Middlesbrough FC
-41,Sat Apr 10 2021,15:00,Wycombe Wanderers,1-3,1-0,Luton Town
-41,Sat Apr 10 2021,15:00,Queens Park Rangers,4-1,1-1,Sheffield Wednesday
-41,Sat Apr 10 2021,15:00,AFC Bournemouth,4-1,2-1,Coventry City
-41,Sat Apr 10 2021,15:00,Preston North End,0-5,0-2,Brentford FC
-41,Sat Apr 10 2021,15:00,Derby County,0-1,0-1,Norwich City
-41,Sat Apr 10 2021,12:30,Millwall FC,0-3,0-1,Swansea City
-41,Sat Apr 10 2021,15:00,Cardiff City,2-2,1-1,Blackburn Rovers
-41,Sat Apr 10 2021,15:00,Birmingham City,2-0,1-0,Stoke City
-41,Sat Apr 10 2021,15:00,Bristol City,0-0,0-0,Nottingham Forest
-41,Sat Apr 10 2021,15:00,Huddersfield Town,0-0,0-0,Rotherham United
-29,Tue Apr 13 2021,18:00,Sheffield Wednesday,0-2,0-1,Swansea City
-38,Tue Apr 13 2021,17:30,Huddersfield Town,1-2,0-2,AFC Bournemouth
-29,Tue Apr 13 2021,19:00,Rotherham United,3-1,0-0,Queens Park Rangers
-36,Thu Apr 15 2021,19:00,Rotherham United,0-1,0-0,Coventry City
-42,Fri Apr 16 2021,18:00,Blackburn Rovers,2-1,1-1,Derby County
-42,Fri Apr 16 2021,18:00,Reading FC,1-1,0-0,Cardiff City
-42,Sat Apr 17 2021,12:30,Stoke City,0-0,0-0,Preston North End
-42,Sat Apr 17 2021,12:30,Swansea City,2-2,0-0,Wycombe Wanderers
-42,Sat Apr 17 2021,12:30,Brentford FC,0-0,0-0,Millwall FC
-42,Sat Apr 17 2021,12:30,Middlesbrough FC,1-2,1-2,Queens Park Rangers
-42,Sat Apr 17 2021,12:30,Luton Town,1-0,0-0,Watford FC
-42,Sat Apr 17 2021,12:30,Nottingham Forest,0-2,0-1,Huddersfield Town
-42,Sat Apr 17 2021,12:30,Sheffield Wednesday,1-1,1-0,Bristol City
-42,Sat Apr 17 2021,20:00,Norwich City,1-3,1-0,AFC Bournemouth
-42,Sun Apr 18 2021,15:00,Coventry City,2-0,1-0,Barnsley FC
-42,Sun Apr 18 2021,12:00,Rotherham United,0-1,0-0,Birmingham City
-43,Tue Apr 20 2021,19:00,Sheffield Wednesday,1-0,1-0,Blackburn Rovers
-43,Tue Apr 20 2021,18:00,Brentford FC,1-1,0-0,Cardiff City
-43,Tue Apr 20 2021,18:00,Norwich City,0-1,0-0,Watford FC
-43,Tue Apr 20 2021,19:00,Preston North End,3-0,1-0,Derby County
-43,Tue Apr 20 2021,19:00,Swansea City,0-1,0-0,Queens Park Rangers
-43,Wed Apr 21 2021,19:45,Huddersfield Town,0-1,0-0,Barnsley FC
-43,Wed Apr 21 2021,18:00,Millwall FC,1-4,0-3,AFC Bournemouth
-43,Wed Apr 21 2021,19:45,Luton Town,0-0,0-0,Reading FC
-43,Wed Apr 21 2021,18:00,Rotherham United,1-2,1-1,Middlesbrough FC
-43,Wed Apr 21 2021,19:00,Wycombe Wanderers,2-1,0-1,Bristol City
-43,Wed Apr 21 2021,19:00,Stoke City,2-3,0-1,Coventry City
-43,Wed Apr 21 2021,19:45,Birmingham City,1-1,0-0,Nottingham Forest
-44,Sat Apr 24 2021,15:00,Nottingham Forest,1-1,0-1,Stoke City
-44,Sat Apr 24 2021,15:00,Queens Park Rangers,1-3,0-1,Norwich City
-44,Sat Apr 24 2021,12:30,AFC Bournemouth,0-1,0-0,Brentford FC
-44,Sat Apr 24 2021,15:00,Blackburn Rovers,5-2,2-1,Huddersfield Town
-44,Sat Apr 24 2021,15:00,Cardiff City,2-1,1-1,Wycombe Wanderers
-44,Sat Apr 24 2021,15:00,Coventry City,0-1,0-0,Preston North End
-44,Sat Apr 24 2021,15:00,Derby County,1-2,1-0,Birmingham City
-44,Sat Apr 24 2021,15:00,Barnsley FC,1-0,1-0,Rotherham United
-44,Sat Apr 24 2021,15:00,Middlesbrough FC,3-1,1-1,Sheffield Wednesday
-44,Sat Apr 24 2021,15:00,Watford FC,1-0,1-0,Millwall FC
-44,Sun Apr 25 2021,12:00,Reading FC,2-2,1-0,Swansea City
-44,Sun Apr 25 2021,13:00,Bristol City,2-3,2-0,Luton Town
-35,Tue Apr 27 2021,19:00,Brentford FC,1-0,1-0,Rotherham United
-45,Sat May 1 2021,15:00,Swansea City,2-1,0-0,Derby County
-45,Sat May 1 2021,12:30,Sheffield Wednesday,0-0,0-0,Nottingham Forest
-45,Sat May 1 2021,15:00,Birmingham City,0-4,0-2,Cardiff City
-45,Sat May 1 2021,15:00,Brentford FC,2-0,0-0,Watford FC
-45,Sat May 1 2021,15:00,Millwall FC,4-1,2-1,Bristol City
-45,Sat May 1 2021,15:00,Huddersfield Town,1-1,0-0,Coventry City
-45,Sat May 1 2021,15:00,Luton Town,1-1,1-1,Middlesbrough FC
-45,Sat May 1 2021,15:00,Norwich City,4-1,1-1,Reading FC
-45,Sat May 1 2021,15:00,Preston North End,2-0,1-0,Barnsley FC
-45,Sat May 1 2021,15:00,Rotherham United,1-1,0-1,Blackburn Rovers
-45,Sat May 1 2021,15:00,Stoke City,0-2,0-1,Queens Park Rangers
-45,Sat May 1 2021,15:00,Wycombe Wanderers,1-0,1-0,AFC Bournemouth
-26,Tue May 4 2021,19:15,Luton Town,0-0,0-0,Rotherham United
-46,Sat May 8 2021,12:30,AFC Bournemouth,0-2,0-1,Stoke City
-46,Sat May 8 2021,12:30,Blackburn Rovers,5-2,2-1,Birmingham City
-46,Sat May 8 2021,12:30,Bristol City,1-3,0-0,Brentford FC
-46,Sat May 8 2021,12:30,Cardiff City,1-1,0-1,Rotherham United
-46,Sat May 8 2021,12:30,Coventry City,6-1,2-0,Millwall FC
-46,Sat May 8 2021,12:30,Derby County,3-3,0-1,Sheffield Wednesday
-46,Sat May 8 2021,12:30,Barnsley FC,2-2,2-1,Norwich City
-46,Sat May 8 2021,12:30,Middlesbrough FC,0-3,0-2,Wycombe Wanderers
-46,Sat May 8 2021,12:30,Reading FC,2-2,2-1,Huddersfield Town
-46,Sat May 8 2021,12:30,Watford FC,2-0,0-0,Swansea City
-46,Sat May 8 2021,12:30,Nottingham Forest,1-2,1-0,Preston North End
-46,Sat May 8 2021,12:30,Queens Park Rangers,3-1,1-1,Luton Town
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Sep 11 2020,19:45,BST/+0100,Watford FC,1-0,1-0,Middlesbrough FC,2020-09-11T18:45Z
+1,Sat Sep 12 2020,12:30,BST/+0100,Birmingham City,1-0,1-0,Brentford FC,2020-09-12T11:30Z
+1,Sat Sep 12 2020,12:30,BST/+0100,Wycombe Wanderers,0-1,0-0,Rotherham United,2020-09-12T11:30Z
+1,Sat Sep 12 2020,15:00,BST/+0100,AFC Bournemouth,3-2,1-1,Blackburn Rovers,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Bristol City,2-1,1-1,Coventry City,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Cardiff City,0-2,0-2,Sheffield Wednesday,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Derby County,0-2,0-2,Reading FC,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Barnsley FC,0-1,0-0,Luton Town,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Millwall FC,0-0,0-0,Stoke City,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Huddersfield Town,0-1,0-0,Norwich City,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Preston North End,0-1,0-0,Swansea City,2020-09-12T14:00Z
+1,Sat Sep 12 2020,15:00,BST/+0100,Queens Park Rangers,2-0,0-0,Nottingham Forest,2020-09-12T14:00Z
+2,Fri Sep 18 2020,19:45,BST/+0100,Coventry City,3-2,1-1,Queens Park Rangers,2020-09-18T18:45Z
+2,Sat Sep 19 2020,12:30,BST/+0100,Nottingham Forest,0-2,0-2,Cardiff City,2020-09-19T11:30Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Blackburn Rovers,5-0,3-0,Wycombe Wanderers,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Brentford FC,3-0,0-0,Huddersfield Town,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Middlesbrough FC,1-1,0-1,AFC Bournemouth,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Reading FC,2-0,0-0,Barnsley FC,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Luton Town,2-1,1-0,Derby County,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Norwich City,2-2,1-2,Preston North End,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Rotherham United,0-1,0-0,Millwall FC,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Sheffield Wednesday,0-0,0-0,Watford FC,2020-09-19T14:00Z
+2,Sat Sep 19 2020,15:00,BST/+0100,Swansea City,0-0,0-0,Birmingham City,2020-09-19T14:00Z
+2,Sun Sep 20 2020,14:00,BST/+0100,Stoke City,0-2,0-1,Bristol City,2020-09-20T13:00Z
+3,Fri Sep 25 2020,19:45,BST/+0100,Huddersfield Town,1-0,0-0,Nottingham Forest,2020-09-25T18:45Z
+3,Sat Sep 26 2020,12:30,BST/+0100,Watford FC,1-0,1-0,Luton Town,2020-09-26T11:30Z
+3,Sat Sep 26 2020,12:30,BST/+0100,Wycombe Wanderers,0-2,0-2,Swansea City,2020-09-26T11:30Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Birmingham City,1-1,0-0,Rotherham United,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Cardiff City,1-2,0-0,Reading FC,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Derby County,0-4,0-3,Blackburn Rovers,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Barnsley FC,0-0,0-0,Coventry City,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Millwall FC,1-1,1-1,Brentford FC,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Preston North End,0-1,0-1,Stoke City,2020-09-26T14:00Z
+3,Sat Sep 26 2020,15:00,BST/+0100,Queens Park Rangers,1-1,1-1,Middlesbrough FC,2020-09-26T14:00Z
+3,Sun Sep 27 2020,16:00,BST/+0100,AFC Bournemouth,1-0,1-0,Norwich City,2020-09-27T15:00Z
+3,Sun Sep 27 2020,13:00,BST/+0100,Bristol City,2-0,0-0,Sheffield Wednesday,2020-09-27T12:00Z
+4,Fri Oct 2 2020,19:45,BST/+0100,Coventry City,1-3,1-1,AFC Bournemouth,2020-10-02T18:45Z
+4,Sat Oct 3 2020,12:30,BST/+0100,Norwich City,0-1,0-0,Derby County,2020-10-03T11:30Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Blackburn Rovers,0-0,0-0,Cardiff City,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Middlesbrough FC,2-1,1-0,Barnsley FC,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Reading FC,1-0,1-0,Watford FC,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Luton Town,2-0,0-0,Wycombe Wanderers,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Nottingham Forest,1-2,1-2,Bristol City,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Rotherham United,1-1,1-0,Huddersfield Town,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Sheffield Wednesday,1-1,0-0,Queens Park Rangers,2020-10-03T14:00Z
+4,Sat Oct 3 2020,15:00,BST/+0100,Swansea City,2-1,0-0,Millwall FC,2020-10-03T14:00Z
+4,Sun Oct 4 2020,14:00,BST/+0100,Brentford FC,2-4,2-0,Preston North End,2020-10-04T13:00Z
+4,Sun Oct 4 2020,15:00,BST/+0100,Stoke City,1-1,0-0,Birmingham City,2020-10-04T14:00Z
+5,Fri Oct 16 2020,19:45,BST/+0100,Derby County,0-1,0-0,Watford FC,2020-10-16T18:45Z
+5,Sat Oct 17 2020,15:00,BST/+0100,AFC Bournemouth,0-0,0-0,Queens Park Rangers,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Birmingham City,0-1,0-0,Sheffield Wednesday,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Blackburn Rovers,0-1,0-0,Nottingham Forest,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Barnsley FC,2-2,1-0,Bristol City,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Brentford FC,2-0,0-0,Coventry City,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Middlesbrough FC,0-0,0-0,Reading FC,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Luton Town,0-2,0-0,Stoke City,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Rotherham United,1-2,1-0,Norwich City,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Swansea City,1-2,1-1,Huddersfield Town,2020-10-17T14:00Z
+5,Sat Oct 17 2020,15:00,BST/+0100,Wycombe Wanderers,1-2,1-0,Millwall FC,2020-10-17T14:00Z
+5,Sun Oct 18 2020,12:00,BST/+0100,Preston North End,0-1,0-0,Cardiff City,2020-10-18T11:00Z
+6,Tue Oct 20 2020,19:45,BST/+0100,Bristol City,0-1,0-0,Middlesbrough FC,2020-10-20T18:45Z
+6,Tue Oct 20 2020,19:45,BST/+0100,Coventry City,1-1,1-1,Swansea City,2020-10-20T18:45Z
+6,Tue Oct 20 2020,19:45,BST/+0100,Millwall FC,2-0,1-0,Luton Town,2020-10-20T18:45Z
+6,Tue Oct 20 2020,19:45,BST/+0100,Norwich City,1-0,0-0,Birmingham City,2020-10-20T18:45Z
+6,Tue Oct 20 2020,19:45,BST/+0100,Nottingham Forest,1-1,0-0,Rotherham United,2020-10-20T18:45Z
+6,Tue Oct 20 2020,19:45,BST/+0100,Huddersfield Town,1-0,0-0,Derby County,2020-10-20T18:45Z
+6,Tue Oct 20 2020,20:00,BST/+0100,Reading FC,1-0,0-0,Wycombe Wanderers,2020-10-20T19:00Z
+6,Wed Oct 21 2020,19:45,BST/+0100,Watford FC,3-1,2-1,Blackburn Rovers,2020-10-21T18:45Z
+6,Wed Oct 21 2020,19:45,BST/+0100,Queens Park Rangers,0-2,0-1,Preston North End,2020-10-21T18:45Z
+6,Wed Oct 21 2020,19:45,BST/+0100,Sheffield Wednesday,1-2,1-2,Brentford FC,2020-10-21T18:45Z
+6,Wed Oct 21 2020,19:45,BST/+0100,Stoke City,2-2,1-2,Barnsley FC,2020-10-21T18:45Z
+6,Wed Oct 21 2020,19:45,BST/+0100,Cardiff City,1-1,0-1,AFC Bournemouth,2020-10-21T18:45Z
+7,Fri Oct 23 2020,19:45,BST/+0100,Nottingham Forest,1-1,0-1,Derby County,2020-10-23T18:45Z
+7,Sat Oct 24 2020,12:30,BST/+0100,Watford FC,1-1,1-0,AFC Bournemouth,2020-10-24T11:30Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Bristol City,1-1,0-0,Swansea City,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Cardiff City,1-1,0-1,Middlesbrough FC,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Coventry City,0-4,0-1,Blackburn Rovers,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Millwall FC,1-1,1-1,Barnsley FC,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Reading FC,3-0,1-0,Rotherham United,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Huddersfield Town,1-2,1-0,Preston North End,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Norwich City,2-1,1-1,Wycombe Wanderers,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Queens Park Rangers,0-0,0-0,Birmingham City,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Sheffield Wednesday,0-1,0-0,Luton Town,2020-10-24T14:00Z
+7,Sat Oct 24 2020,15:00,BST/+0100,Stoke City,3-2,2-0,Brentford FC,2020-10-24T14:00Z
+8,Tue Oct 27 2020,19:45,GMT/+0000,Blackburn Rovers,2-4,1-3,Reading FC,2020-10-27T19:45Z
+8,Tue Oct 27 2020,19:45,GMT/+0000,Brentford FC,1-1,1-0,Norwich City,2020-10-27T19:45Z
+8,Tue Oct 27 2020,19:45,GMT/+0000,Middlesbrough FC,2-0,0-0,Coventry City,2020-10-27T19:45Z
+8,Tue Oct 27 2020,19:45,GMT/+0000,Swansea City,2-0,1-0,Stoke City,2020-10-27T19:45Z
+8,Tue Oct 27 2020,19:45,GMT/+0000,Wycombe Wanderers,1-1,0-0,Watford FC,2020-10-27T19:45Z
+8,Tue Oct 27 2020,19:00,GMT/+0000,Barnsley FC,3-0,2-0,Queens Park Rangers,2020-10-27T19:00Z
+8,Wed Oct 28 2020,19:00,GMT/+0000,Preston North End,0-2,0-0,Millwall FC,2020-10-28T19:00Z
+8,Wed Oct 28 2020,19:45,GMT/+0000,AFC Bournemouth,1-0,0-0,Bristol City,2020-10-28T19:45Z
+8,Wed Oct 28 2020,19:45,GMT/+0000,Birmingham City,2-1,1-0,Huddersfield Town,2020-10-28T19:45Z
+8,Wed Oct 28 2020,19:45,GMT/+0000,Derby County,1-1,1-0,Cardiff City,2020-10-28T19:45Z
+8,Wed Oct 28 2020,19:45,GMT/+0000,Luton Town,1-1,1-0,Nottingham Forest,2020-10-28T19:45Z
+8,Wed Oct 28 2020,19:45,GMT/+0000,Rotherham United,3-0,3-0,Sheffield Wednesday,2020-10-28T19:45Z
+9,Fri Oct 30 2020,19:45,GMT/+0000,Coventry City,3-2,1-0,Reading FC,2020-10-30T19:45Z
+9,Sat Oct 31 2020,12:30,GMT/+0000,Bristol City,1-3,1-3,Norwich City,2020-10-31T12:30Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,AFC Bournemouth,1-1,0-1,Derby County,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Barnsley FC,1-0,1-0,Watford FC,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Middlesbrough FC,1-0,0-0,Nottingham Forest,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Millwall FC,0-3,0-1,Huddersfield Town,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Luton Town,0-3,0-2,Brentford FC,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Preston North End,1-2,1-1,Birmingham City,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Queens Park Rangers,3-2,2-0,Cardiff City,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Stoke City,1-0,1-0,Rotherham United,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Swansea City,2-0,1-0,Blackburn Rovers,2020-10-31T15:00Z
+9,Sat Oct 31 2020,15:00,GMT/+0000,Wycombe Wanderers,1-0,1-0,Sheffield Wednesday,2020-10-31T15:00Z
+10,Tue Nov 3 2020,19:00,GMT/+0000,Huddersfield Town,1-2,1-0,Bristol City,2020-11-03T19:00Z
+10,Tue Nov 3 2020,19:00,GMT/+0000,Norwich City,0-0,0-0,Millwall FC,2020-11-03T19:00Z
+10,Tue Nov 3 2020,19:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,AFC Bournemouth,2020-11-03T19:00Z
+10,Tue Nov 3 2020,19:45,GMT/+0000,Blackburn Rovers,0-0,0-0,Middlesbrough FC,2020-11-03T19:45Z
+10,Tue Nov 3 2020,19:45,GMT/+0000,Cardiff City,3-0,2-0,Barnsley FC,2020-11-03T19:45Z
+10,Tue Nov 3 2020,19:00,GMT/+0000,Brentford FC,1-1,1-0,Swansea City,2020-11-03T19:00Z
+10,Wed Nov 4 2020,19:00,GMT/+0000,Watford FC,3-2,1-1,Stoke City,2020-11-04T19:00Z
+10,Wed Nov 4 2020,19:00,GMT/+0000,Reading FC,0-3,0-0,Preston North End,2020-11-04T19:00Z
+10,Wed Nov 4 2020,19:45,GMT/+0000,Birmingham City,1-2,1-0,Wycombe Wanderers,2020-11-04T19:45Z
+10,Wed Nov 4 2020,19:45,GMT/+0000,Derby County,0-1,0-0,Queens Park Rangers,2020-11-04T19:45Z
+10,Wed Nov 4 2020,19:45,GMT/+0000,Nottingham Forest,2-1,1-0,Coventry City,2020-11-04T19:45Z
+10,Wed Nov 4 2020,19:45,GMT/+0000,Rotherham United,0-1,0-0,Luton Town,2020-11-04T19:45Z
+11,Fri Nov 6 2020,18:00,GMT/+0000,Cardiff City,0-1,0-1,Bristol City,2020-11-06T18:00Z
+11,Sat Nov 7 2020,12:30,GMT/+0000,Reading FC,0-3,0-2,Stoke City,2020-11-07T12:30Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Birmingham City,1-3,0-2,AFC Bournemouth,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Blackburn Rovers,3-1,0-0,Queens Park Rangers,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Derby County,0-2,0-1,Barnsley FC,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Brentford FC,0-0,0-0,Middlesbrough FC,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Watford FC,3-2,0-0,Coventry City,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Huddersfield Town,1-1,0-1,Luton Town,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Norwich City,1-0,0-0,Swansea City,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Nottingham Forest,2-0,1-0,Wycombe Wanderers,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Rotherham United,2-1,0-0,Preston North End,2020-11-07T15:00Z
+11,Sat Nov 7 2020,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Millwall FC,2020-11-07T15:00Z
+12,Fri Nov 20 2020,19:45,GMT/+0000,Coventry City,0-0,0-0,Birmingham City,2020-11-20T19:45Z
+12,Sat Nov 21 2020,12:30,GMT/+0000,AFC Bournemouth,4-2,0-2,Reading FC,2020-11-21T12:30Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Bristol City,1-0,0-0,Derby County,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Barnsley FC,2-0,0-0,Nottingham Forest,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Middlesbrough FC,0-1,0-0,Norwich City,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Millwall FC,1-1,1-0,Cardiff City,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Luton Town,1-1,0-0,Blackburn Rovers,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Preston North End,1-0,0-0,Sheffield Wednesday,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Queens Park Rangers,1-1,0-1,Watford FC,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Stoke City,4-3,3-2,Huddersfield Town,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Swansea City,1-0,1-0,Rotherham United,2020-11-21T15:00Z
+12,Sat Nov 21 2020,15:00,GMT/+0000,Wycombe Wanderers,0-0,0-0,Brentford FC,2020-11-21T15:00Z
+13,Tue Nov 24 2020,19:00,GMT/+0000,Luton Town,1-1,1-1,Birmingham City,2020-11-24T19:00Z
+13,Tue Nov 24 2020,19:00,GMT/+0000,Queens Park Rangers,3-2,3-1,Rotherham United,2020-11-24T19:00Z
+13,Tue Nov 24 2020,19:00,GMT/+0000,Stoke City,2-3,0-2,Norwich City,2020-11-24T19:00Z
+13,Tue Nov 24 2020,19:00,GMT/+0000,Wycombe Wanderers,0-0,0-0,Huddersfield Town,2020-11-24T19:00Z
+13,Tue Nov 24 2020,19:45,GMT/+0000,Barnsley FC,0-1,0-0,Brentford FC,2020-11-24T19:45Z
+13,Tue Nov 24 2020,19:45,GMT/+0000,Preston North End,0-3,0-1,Blackburn Rovers,2020-11-24T19:45Z
+13,Tue Nov 24 2020,20:00,GMT/+0000,AFC Bournemouth,2-0,1-0,Nottingham Forest,2020-11-24T20:00Z
+13,Wed Nov 25 2020,19:00,GMT/+0000,Millwall FC,1-1,1-0,Reading FC,2020-11-25T19:00Z
+13,Wed Nov 25 2020,19:45,GMT/+0000,Bristol City,0-0,0-0,Watford FC,2020-11-25T19:45Z
+13,Wed Nov 25 2020,19:45,GMT/+0000,Coventry City,1-0,0-0,Cardiff City,2020-11-25T19:45Z
+13,Wed Nov 25 2020,19:45,GMT/+0000,Swansea City,1-1,0-1,Sheffield Wednesday,2020-11-25T19:45Z
+13,Wed Nov 25 2020,19:00,GMT/+0000,Middlesbrough FC,3-0,1-0,Derby County,2020-11-25T19:00Z
+14,Fri Nov 27 2020,19:45,GMT/+0000,Brentford FC,2-1,1-1,Queens Park Rangers,2020-11-27T19:45Z
+14,Sat Nov 28 2020,12:30,GMT/+0000,Reading FC,3-1,0-0,Bristol City,2020-11-28T12:30Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Birmingham City,0-0,0-0,Millwall FC,2020-11-28T15:00Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Blackburn Rovers,2-1,1-0,Barnsley FC,2020-11-28T15:00Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Cardiff City,4-0,2-0,Luton Town,2020-11-28T15:00Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Derby County,1-1,1-0,Wycombe Wanderers,2020-11-28T15:00Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Watford FC,4-1,1-0,Preston North End,2020-11-28T15:00Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Huddersfield Town,3-2,2-1,Middlesbrough FC,2020-11-28T15:00Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Norwich City,1-1,1-0,Coventry City,2020-11-28T15:00Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Rotherham United,2-2,1-1,AFC Bournemouth,2020-11-28T15:00Z
+14,Sat Nov 28 2020,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Stoke City,2020-11-28T15:00Z
+14,Sun Nov 29 2020,12:00,GMT/+0000,Nottingham Forest,0-1,0-1,Swansea City,2020-11-29T12:00Z
+15,Tue Dec 1 2020,19:45,GMT/+0000,AFC Bournemouth,2-3,0-1,Preston North End,2020-12-01T19:45Z
+15,Tue Dec 1 2020,19:45,GMT/+0000,Birmingham City,1-2,0-0,Barnsley FC,2020-12-01T19:45Z
+15,Tue Dec 1 2020,19:45,GMT/+0000,Derby County,1-1,0-0,Coventry City,2020-12-01T19:45Z
+15,Tue Dec 1 2020,19:45,GMT/+0000,Queens Park Rangers,1-2,1-1,Bristol City,2020-12-01T19:45Z
+15,Tue Dec 1 2020,20:00,GMT/+0000,Rotherham United,0-2,0-0,Brentford FC,2020-12-01T20:00Z
+15,Tue Dec 1 2020,19:00,GMT/+0000,Cardiff City,3-0,1-0,Huddersfield Town,2020-12-01T19:00Z
+15,Wed Dec 2 2020,19:00,GMT/+0000,Middlesbrough FC,2-1,1-0,Swansea City,2020-12-02T19:00Z
+15,Wed Dec 2 2020,19:45,GMT/+0000,Blackburn Rovers,2-1,1-1,Millwall FC,2020-12-02T19:45Z
+15,Wed Dec 2 2020,19:45,GMT/+0000,Luton Town,3-1,2-1,Norwich City,2020-12-02T19:45Z
+15,Wed Dec 2 2020,19:45,GMT/+0000,Nottingham Forest,0-0,0-0,Watford FC,2020-12-02T19:45Z
+15,Wed Dec 2 2020,19:45,GMT/+0000,Sheffield Wednesday,1-1,1-1,Reading FC,2020-12-02T19:45Z
+15,Wed Dec 2 2020,19:45,GMT/+0000,Wycombe Wanderers,0-1,0-0,Stoke City,2020-12-02T19:45Z
+16,Fri Dec 4 2020,17:30,GMT/+0000,Barnsley FC,0-4,0-2,AFC Bournemouth,2020-12-04T17:30Z
+16,Sat Dec 5 2020,12:30,GMT/+0000,Reading FC,2-0,1-0,Nottingham Forest,2020-12-05T12:30Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Bristol City,0-1,0-0,Birmingham City,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Coventry City,3-1,2-0,Rotherham United,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Brentford FC,2-2,1-1,Blackburn Rovers,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Millwall FC,0-1,0-0,Derby County,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Watford FC,0-1,0-1,Cardiff City,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Huddersfield Town,2-0,2-0,Queens Park Rangers,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Norwich City,2-1,0-0,Sheffield Wednesday,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Preston North End,2-2,1-0,Wycombe Wanderers,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Stoke City,1-0,1-0,Middlesbrough FC,2020-12-05T15:00Z
+16,Sat Dec 5 2020,15:00,GMT/+0000,Swansea City,2-0,1-0,Luton Town,2020-12-05T15:00Z
+17,Tue Dec 8 2020,19:45,GMT/+0000,Coventry City,0-0,0-0,Luton Town,2020-12-08T19:45Z
+17,Tue Dec 8 2020,19:45,GMT/+0000,Millwall FC,1-1,0-0,Queens Park Rangers,2020-12-08T19:45Z
+17,Tue Dec 8 2020,19:45,GMT/+0000,Watford FC,2-0,2-0,Rotherham United,2020-12-08T19:45Z
+17,Tue Dec 8 2020,19:45,GMT/+0000,Huddersfield Town,2-0,2-0,Sheffield Wednesday,2020-12-08T19:45Z
+17,Tue Dec 8 2020,19:45,GMT/+0000,Swansea City,0-0,0-0,AFC Bournemouth,2020-12-08T19:45Z
+17,Tue Dec 8 2020,19:45,GMT/+0000,Stoke City,1-2,1-0,Cardiff City,2020-12-08T19:45Z
+17,Wed Dec 9 2020,19:45,GMT/+0000,Bristol City,1-0,0-0,Blackburn Rovers,2020-12-09T19:45Z
+17,Wed Dec 9 2020,19:45,GMT/+0000,Barnsley FC,2-1,1-0,Wycombe Wanderers,2020-12-09T19:45Z
+17,Wed Dec 9 2020,19:45,GMT/+0000,Brentford FC,0-0,0-0,Derby County,2020-12-09T19:45Z
+17,Wed Dec 9 2020,19:45,GMT/+0000,Norwich City,2-1,1-0,Nottingham Forest,2020-12-09T19:45Z
+17,Wed Dec 9 2020,19:45,GMT/+0000,Reading FC,1-2,0-2,Birmingham City,2020-12-09T19:45Z
+17,Wed Dec 9 2020,19:00,GMT/+0000,Preston North End,3-0,0-0,Middlesbrough FC,2020-12-09T19:00Z
+18,Sat Dec 12 2020,12:30,GMT/+0000,Cardiff City,0-2,0-1,Swansea City,2020-12-12T12:30Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,AFC Bournemouth,5-0,3-0,Huddersfield Town,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Birmingham City,0-1,0-0,Watford FC,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Blackburn Rovers,1-2,0-1,Norwich City,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Derby County,0-0,0-0,Stoke City,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Middlesbrough FC,3-0,3-0,Millwall FC,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Luton Town,3-0,2-0,Preston North End,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Nottingham Forest,1-3,0-1,Brentford FC,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Queens Park Rangers,0-1,0-0,Reading FC,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Rotherham United,2-0,2-0,Bristol City,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Sheffield Wednesday,1-2,1-2,Barnsley FC,2020-12-12T15:00Z
+18,Sat Dec 12 2020,15:00,GMT/+0000,Wycombe Wanderers,1-2,0-2,Coventry City,2020-12-12T15:00Z
+19,Tue Dec 15 2020,19:45,GMT/+0000,AFC Bournemouth,1-0,0-0,Wycombe Wanderers,2020-12-15T19:45Z
+19,Tue Dec 15 2020,19:45,GMT/+0000,Bristol City,0-2,0-1,Millwall FC,2020-12-15T19:45Z
+19,Tue Dec 15 2020,19:45,GMT/+0000,Barnsley FC,2-1,0-1,Preston North End,2020-12-15T19:45Z
+19,Tue Dec 15 2020,19:45,GMT/+0000,Nottingham Forest,2-0,1-0,Sheffield Wednesday,2020-12-15T19:45Z
+19,Tue Dec 15 2020,20:00,GMT/+0000,Watford FC,1-1,0-0,Brentford FC,2020-12-15T20:00Z
+19,Tue Dec 15 2020,17:30,GMT/+0000,Queens Park Rangers,0-0,0-0,Stoke City,2020-12-15T17:30Z
+19,Wed Dec 16 2020,17:30,GMT/+0000,Derby County,2-0,2-0,Swansea City,2020-12-16T17:30Z
+19,Wed Dec 16 2020,19:00,GMT/+0000,Cardiff City,3-2,1-1,Birmingham City,2020-12-16T19:00Z
+19,Wed Dec 16 2020,19:00,GMT/+0000,Middlesbrough FC,1-0,0-0,Luton Town,2020-12-16T19:00Z
+19,Wed Dec 16 2020,19:45,GMT/+0000,Blackburn Rovers,2-1,0-0,Rotherham United,2020-12-16T19:45Z
+19,Wed Dec 16 2020,20:00,GMT/+0000,Coventry City,0-0,0-0,Huddersfield Town,2020-12-16T20:00Z
+19,Wed Dec 16 2020,20:00,GMT/+0000,Reading FC,1-2,1-1,Norwich City,2020-12-16T20:00Z
+20,Fri Dec 18 2020,20:00,GMT/+0000,Preston North End,1-0,1-0,Bristol City,2020-12-18T20:00Z
+20,Sat Dec 19 2020,12:30,GMT/+0000,Norwich City,2-0,1-0,Cardiff City,2020-12-19T12:30Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Birmingham City,1-4,1-2,Middlesbrough FC,2020-12-19T15:00Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Brentford FC,3-1,3-0,Reading FC,2020-12-19T15:00Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Millwall FC,1-1,0-0,Nottingham Forest,2020-12-19T15:00Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Huddersfield Town,2-0,2-0,Watford FC,2020-12-19T15:00Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Luton Town,0-0,0-0,AFC Bournemouth,2020-12-19T15:00Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Coventry City,2020-12-19T15:00Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Stoke City,1-0,1-0,Blackburn Rovers,2020-12-19T15:00Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Swansea City,2-0,1-0,Barnsley FC,2020-12-19T15:00Z
+20,Sat Dec 19 2020,15:00,GMT/+0000,Wycombe Wanderers,1-1,0-1,Queens Park Rangers,2020-12-19T15:00Z
+21,Sat Dec 26 2020,19:45,GMT/+0000,Watford FC,1-0,1-0,Norwich City,2020-12-26T19:45Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Blackburn Rovers,1-1,0-1,Sheffield Wednesday,2020-12-26T15:00Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Bristol City,2-1,1-0,Wycombe Wanderers,2020-12-26T15:00Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Cardiff City,2-3,1-0,Brentford FC,2020-12-26T15:00Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Coventry City,0-0,0-0,Stoke City,2020-12-26T15:00Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Derby County,0-1,0-0,Preston North End,2020-12-26T15:00Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Barnsley FC,2-1,1-1,Huddersfield Town,2020-12-26T15:00Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Reading FC,2-1,2-0,Luton Town,2020-12-26T15:00Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Birmingham City,2020-12-26T15:00Z
+21,Sat Dec 26 2020,15:00,GMT/+0000,Queens Park Rangers,0-2,0-1,Swansea City,2020-12-26T15:00Z
+22,Tue Dec 29 2020,20:00,GMT/+0000,Stoke City,1-1,1-0,Nottingham Forest,2020-12-29T20:00Z
+22,Tue Dec 29 2020,19:45,GMT/+0000,Rotherham United,1-2,0-2,Barnsley FC,2020-12-29T19:45Z
+22,Tue Dec 29 2020,19:45,GMT/+0000,Preston North End,2-0,1-0,Coventry City,2020-12-29T19:45Z
+22,Tue Dec 29 2020,17:30,GMT/+0000,Birmingham City,0-4,0-3,Derby County,2020-12-29T17:30Z
+22,Tue Dec 29 2020,19:00,GMT/+0000,Sheffield Wednesday,2-1,2-0,Middlesbrough FC,2020-12-29T19:00Z
+22,Tue Dec 29 2020,19:45,GMT/+0000,Huddersfield Town,2-1,0-0,Blackburn Rovers,2020-12-29T19:45Z
+22,Tue Dec 29 2020,19:45,GMT/+0000,Luton Town,2-1,1-0,Bristol City,2020-12-29T19:45Z
+22,Tue Dec 29 2020,19:45,GMT/+0000,Norwich City,1-1,0-0,Queens Park Rangers,2020-12-29T19:45Z
+22,Tue Dec 29 2020,19:45,GMT/+0000,Wycombe Wanderers,2-1,1-0,Cardiff City,2020-12-29T19:45Z
+22,Wed Dec 30 2020,20:00,GMT/+0000,Swansea City,0-0,0-0,Reading FC,2020-12-30T20:00Z
+22,Wed Dec 30 2020,17:30,GMT/+0000,Brentford FC,2-1,1-1,AFC Bournemouth,2020-12-30T17:30Z
+23,Fri Jan 1 2021,17:30,GMT/+0000,Sheffield Wednesday,1-0,0-0,Derby County,2021-01-01T17:30Z
+23,Sat Jan 2 2021,15:00,GMT/+0000,Norwich City,1-0,0-0,Barnsley FC,2021-01-02T15:00Z
+23,Sat Jan 2 2021,15:00,GMT/+0000,Wycombe Wanderers,1-3,1-2,Middlesbrough FC,2021-01-02T15:00Z
+23,Sat Jan 2 2021,15:00,GMT/+0000,Preston North End,0-1,0-0,Nottingham Forest,2021-01-02T15:00Z
+23,Sat Jan 2 2021,19:45,GMT/+0000,Stoke City,0-1,0-0,AFC Bournemouth,2021-01-02T19:45Z
+23,Sat Jan 2 2021,15:00,GMT/+0000,Birmingham City,0-2,0-1,Blackburn Rovers,2021-01-02T15:00Z
+23,Sat Jan 2 2021,15:00,GMT/+0000,Millwall FC,1-2,0-2,Coventry City,2021-01-02T15:00Z
+23,Sat Jan 2 2021,15:00,GMT/+0000,Huddersfield Town,1-2,1-0,Reading FC,2021-01-02T15:00Z
+23,Sat Jan 2 2021,15:00,GMT/+0000,Swansea City,2-1,1-1,Watford FC,2021-01-02T15:00Z
+23,Tue Jan 12 2021,19:00,GMT/+0000,Luton Town,0-2,0-1,Queens Park Rangers,2021-01-12T19:00Z
+21,Tue Jan 12 2021,19:45,GMT/+0000,AFC Bournemouth,1-1,1-0,Millwall FC,2021-01-12T19:45Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Nottingham Forest,3-1,1-0,Millwall FC,2021-01-16T15:00Z
+24,Sat Jan 16 2021,19:45,GMT/+0000,Barnsley FC,0-2,0-1,Swansea City,2021-01-16T19:45Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Watford FC,2-0,0-0,Huddersfield Town,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Derby County,0-1,0-0,Rotherham United,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Cardiff City,1-2,0-2,Norwich City,2021-01-16T15:00Z
+24,Sat Jan 16 2021,12:30,GMT/+0000,Middlesbrough FC,0-1,0-1,Birmingham City,2021-01-16T12:30Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,AFC Bournemouth,0-1,0-0,Luton Town,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Blackburn Rovers,1-1,0-1,Stoke City,2021-01-16T15:00Z
+24,Sat Jan 16 2021,15:00,GMT/+0000,Bristol City,2-0,1-0,Preston North End,2021-01-16T15:00Z
+25,Tue Jan 19 2021,19:45,GMT/+0000,Watford FC,1-0,1-0,Barnsley FC,2021-01-19T19:45Z
+25,Tue Jan 19 2021,18:00,GMT/+0000,Derby County,1-0,1-0,AFC Bournemouth,2021-01-19T18:00Z
+25,Tue Jan 19 2021,19:45,GMT/+0000,Rotherham United,3-3,1-1,Stoke City,2021-01-19T19:45Z
+25,Tue Jan 19 2021,18:00,GMT/+0000,Reading FC,3-0,1-0,Coventry City,2021-01-19T18:00Z
+25,Wed Jan 20 2021,19:00,GMT/+0000,Huddersfield Town,0-1,0-1,Millwall FC,2021-01-20T19:00Z
+25,Wed Jan 20 2021,19:00,GMT/+0000,Nottingham Forest,1-2,0-1,Middlesbrough FC,2021-01-20T19:00Z
+25,Wed Jan 20 2021,19:00,GMT/+0000,Brentford FC,1-0,1-0,Luton Town,2021-01-20T19:00Z
+25,Wed Jan 20 2021,19:45,GMT/+0000,Birmingham City,0-1,0-0,Preston North End,2021-01-20T19:45Z
+25,Wed Jan 20 2021,18:00,GMT/+0000,Norwich City,2-0,1-0,Bristol City,2021-01-20T18:00Z
+25,Wed Jan 20 2021,19:00,GMT/+0000,Cardiff City,0-1,0-0,Queens Park Rangers,2021-01-20T19:00Z
+26,Fri Jan 22 2021,19:45,GMT/+0000,Stoke City,1-2,0-0,Watford FC,2021-01-22T19:45Z
+26,Sat Jan 23 2021,15:00,GMT/+0000,Queens Park Rangers,0-1,0-0,Derby County,2021-01-23T15:00Z
+26,Sun Jan 24 2021,15:00,GMT/+0000,Middlesbrough FC,0-1,0-0,Blackburn Rovers,2021-01-24T15:00Z
+26,Sun Jan 24 2021,12:30,GMT/+0000,Preston North End,0-0,0-0,Reading FC,2021-01-24T12:30Z
+26,Tue Jan 26 2021,19:00,GMT/+0000,Bristol City,2-1,2-0,Huddersfield Town,2021-01-26T19:00Z
+22,Tue Jan 26 2021,19:00,GMT/+0000,Millwall FC,0-0,0-0,Watford FC,2021-01-26T19:00Z
+26,Wed Jan 27 2021,19:00,GMT/+0000,Swansea City,1-1,0-0,Brentford FC,2021-01-27T19:00Z
+24,Wed Jan 27 2021,19:00,GMT/+0000,Coventry City,2-0,0-0,Sheffield Wednesday,2021-01-27T19:00Z
+21,Wed Jan 27 2021,19:00,GMT/+0000,Middlesbrough FC,0-3,0-1,Rotherham United,2021-01-27T19:00Z
+26,Wed Jan 27 2021,19:00,GMT/+0000,Barnsley FC,2-2,1-0,Cardiff City,2021-01-27T19:00Z
+27,Fri Jan 29 2021,20:00,GMT/+0000,Reading FC,3-1,3-0,AFC Bournemouth,2021-01-29T20:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Barnsley FC,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Rotherham United,1-3,0-2,Swansea City,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Sheffield Wednesday,1-0,1-0,Preston North End,2021-01-30T15:00Z
+27,Sat Jan 30 2021,12:30,GMT/+0000,Norwich City,0-0,0-0,Middlesbrough FC,2021-01-30T12:30Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Birmingham City,1-1,1-1,Coventry City,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Huddersfield Town,1-1,1-1,Stoke City,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Brentford FC,7-2,2-2,Wycombe Wanderers,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Derby County,1-0,1-0,Bristol City,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Cardiff City,1-1,0-1,Millwall FC,2021-01-30T15:00Z
+27,Sat Jan 30 2021,15:00,GMT/+0000,Blackburn Rovers,1-0,0-0,Luton Town,2021-01-30T15:00Z
+27,Mon Feb 1 2021,19:45,GMT/+0000,Watford FC,1-2,0-0,Queens Park Rangers,2021-02-01T19:45Z
+26,Tue Feb 2 2021,19:00,GMT/+0000,AFC Bournemouth,1-2,0-1,Sheffield Wednesday,2021-02-02T19:00Z
+26,Tue Feb 2 2021,18:00,GMT/+0000,Millwall FC,0-0,0-0,Norwich City,2021-02-02T18:00Z
+26,Tue Feb 2 2021,19:00,GMT/+0000,Coventry City,1-2,1-1,Nottingham Forest,2021-02-02T19:00Z
+26,Tue Feb 2 2021,19:00,GMT/+0000,Wycombe Wanderers,0-0,0-0,Birmingham City,2021-02-02T19:00Z
+20,Wed Feb 3 2021,19:00,GMT/+0000,Rotherham United,3-0,0-0,Derby County,2021-02-03T19:00Z
+23,Wed Feb 3 2021,19:45,GMT/+0000,Brentford FC,3-2,1-1,Bristol City,2021-02-03T19:45Z
+28,Fri Feb 5 2021,20:15,GMT/+0000,Swansea City,2-0,1-0,Norwich City,2021-02-05T20:15Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Queens Park Rangers,1-0,0-0,Blackburn Rovers,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Wycombe Wanderers,0-3,0-1,Nottingham Forest,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Millwall FC,4-1,1-1,Sheffield Wednesday,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Preston North End,1-2,0-1,Rotherham United,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Stoke City,0-0,0-0,Reading FC,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Middlesbrough FC,1-4,1-1,Brentford FC,2021-02-06T15:00Z
+28,Sat Feb 6 2021,12:30,GMT/+0000,Coventry City,0-0,0-0,Watford FC,2021-02-06T12:30Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,AFC Bournemouth,3-2,1-1,Birmingham City,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Bristol City,0-2,0-2,Cardiff City,2021-02-06T15:00Z
+28,Sat Feb 6 2021,15:00,GMT/+0000,Luton Town,1-1,1-0,Huddersfield Town,2021-02-06T15:00Z
+23,Tue Feb 9 2021,19:00,GMT/+0000,Rotherham United,1-2,0-1,Cardiff City,2021-02-09T19:00Z
+25,Tue Feb 9 2021,19:00,GMT/+0000,Sheffield Wednesday,2-0,1-0,Wycombe Wanderers,2021-02-09T19:00Z
+24,Wed Feb 10 2021,19:00,GMT/+0000,Reading FC,1-3,1-1,Brentford FC,2021-02-10T19:00Z
+29,Fri Feb 12 2021,19:45,GMT/+0000,Blackburn Rovers,1-2,1-2,Preston North End,2021-02-12T19:45Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Norwich City,4-1,2-0,Stoke City,2021-02-13T15:00Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Reading FC,1-2,1-0,Millwall FC,2021-02-13T15:00Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Huddersfield Town,2-3,2-1,Wycombe Wanderers,2021-02-13T15:00Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Watford FC,6-0,4-0,Bristol City,2021-02-13T15:00Z
+29,Sat Feb 13 2021,12:30,GMT/+0000,Nottingham Forest,0-0,0-0,AFC Bournemouth,2021-02-13T12:30Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Birmingham City,0-1,0-1,Luton Town,2021-02-13T15:00Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Cardiff City,3-1,2-0,Coventry City,2021-02-13T15:00Z
+29,Sat Feb 13 2021,15:00,GMT/+0000,Derby County,2-1,2-1,Middlesbrough FC,2021-02-13T15:00Z
+29,Sun Feb 14 2021,13:00,GMT/+0000,Brentford FC,0-2,0-1,Barnsley FC,2021-02-14T13:00Z
+30,Tue Feb 16 2021,19:45,GMT/+0000,Bristol City,0-2,0-2,Reading FC,2021-02-16T19:45Z
+30,Tue Feb 16 2021,19:00,GMT/+0000,Stoke City,1-0,0-0,Sheffield Wednesday,2021-02-16T19:00Z
+30,Tue Feb 16 2021,19:45,GMT/+0000,Wycombe Wanderers,1-2,0-1,Derby County,2021-02-16T19:45Z
+30,Tue Feb 16 2021,19:45,GMT/+0000,Middlesbrough FC,2-1,2-1,Huddersfield Town,2021-02-16T19:45Z
+30,Tue Feb 16 2021,19:00,GMT/+0000,Preston North End,0-1,0-0,Watford FC,2021-02-16T19:00Z
+30,Tue Feb 16 2021,20:15,GMT/+0000,Luton Town,0-2,0-0,Cardiff City,2021-02-16T20:15Z
+30,Wed Feb 17 2021,19:00,GMT/+0000,Swansea City,1-0,0-0,Nottingham Forest,2021-02-17T19:00Z
+30,Wed Feb 17 2021,19:45,GMT/+0000,Barnsley FC,2-1,0-0,Blackburn Rovers,2021-02-17T19:45Z
+30,Wed Feb 17 2021,19:00,GMT/+0000,Queens Park Rangers,2-1,0-1,Brentford FC,2021-02-17T19:00Z
+30,Wed Feb 17 2021,20:15,GMT/+0000,AFC Bournemouth,1-0,1-0,Rotherham United,2021-02-17T20:15Z
+30,Wed Feb 17 2021,19:00,GMT/+0000,Coventry City,0-2,0-2,Norwich City,2021-02-17T19:00Z
+30,Wed Feb 17 2021,19:00,GMT/+0000,Millwall FC,2-0,1-0,Birmingham City,2021-02-17T19:00Z
+31,Fri Feb 19 2021,19:45,GMT/+0000,Watford FC,2-1,2-0,Derby County,2021-02-19T19:45Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Stoke City,3-0,1-0,Luton Town,2021-02-20T15:00Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Nottingham Forest,1-0,1-0,Blackburn Rovers,2021-02-20T15:00Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Queens Park Rangers,2-1,0-0,AFC Bournemouth,2021-02-20T15:00Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Sheffield Wednesday,0-1,0-0,Birmingham City,2021-02-20T15:00Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Norwich City,1-0,1-0,Rotherham United,2021-02-20T15:00Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Huddersfield Town,4-1,1-1,Swansea City,2021-02-20T15:00Z
+31,Sat Feb 20 2021,12:30,GMT/+0000,Coventry City,2-0,1-0,Brentford FC,2021-02-20T12:30Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Bristol City,0-1,0-0,Barnsley FC,2021-02-20T15:00Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Cardiff City,4-0,1-0,Preston North End,2021-02-20T15:00Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Millwall FC,0-0,0-0,Wycombe Wanderers,2021-02-20T15:00Z
+31,Sat Feb 20 2021,15:00,GMT/+0000,Reading FC,0-2,0-2,Middlesbrough FC,2021-02-20T15:00Z
+32,Tue Feb 23 2021,19:00,GMT/+0000,Derby County,2-0,1-0,Huddersfield Town,2021-02-23T19:00Z
+32,Tue Feb 23 2021,19:00,GMT/+0000,Middlesbrough FC,1-3,0-3,Bristol City,2021-02-23T19:00Z
+32,Tue Feb 23 2021,19:45,GMT/+0000,Rotherham United,0-1,0-0,Nottingham Forest,2021-02-23T19:45Z
+32,Tue Feb 23 2021,19:45,GMT/+0000,Wycombe Wanderers,1-0,0-0,Reading FC,2021-02-23T19:45Z
+32,Tue Feb 23 2021,19:45,GMT/+0000,Luton Town,1-1,0-0,Millwall FC,2021-02-23T19:45Z
+32,Tue Feb 23 2021,19:00,GMT/+0000,Birmingham City,1-3,1-1,Norwich City,2021-02-23T19:00Z
+32,Wed Feb 24 2021,19:45,GMT/+0000,Preston North End,0-0,0-0,Queens Park Rangers,2021-02-24T19:45Z
+32,Wed Feb 24 2021,19:45,GMT/+0000,Blackburn Rovers,2-3,1-2,Watford FC,2021-02-24T19:45Z
+32,Wed Feb 24 2021,19:45,GMT/+0000,AFC Bournemouth,1-2,0-2,Cardiff City,2021-02-24T19:45Z
+32,Wed Feb 24 2021,19:00,GMT/+0000,Swansea City,1-0,0-0,Coventry City,2021-02-24T19:00Z
+32,Wed Feb 24 2021,19:00,GMT/+0000,Brentford FC,3-0,1-0,Sheffield Wednesday,2021-02-24T19:00Z
+32,Wed Feb 24 2021,19:00,GMT/+0000,Barnsley FC,2-0,1-0,Stoke City,2021-02-24T19:00Z
+33,Fri Feb 26 2021,19:45,GMT/+0000,Derby County,1-1,0-1,Nottingham Forest,2021-02-26T19:45Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Luton Town,3-2,0-2,Sheffield Wednesday,2021-02-27T15:00Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Preston North End,3-0,1-0,Huddersfield Town,2021-02-27T15:00Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Rotherham United,0-1,0-1,Reading FC,2021-02-27T15:00Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Swansea City,1-3,0-0,Bristol City,2021-02-27T15:00Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Blackburn Rovers,1-1,1-0,Coventry City,2021-02-27T15:00Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Middlesbrough FC,1-1,0-1,Cardiff City,2021-02-27T15:00Z
+33,Sat Feb 27 2021,12:30,GMT/+0000,AFC Bournemouth,1-0,0-0,Watford FC,2021-02-27T12:30Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Birmingham City,2-1,0-1,Queens Park Rangers,2021-02-27T15:00Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Brentford FC,2-1,0-1,Stoke City,2021-02-27T15:00Z
+33,Sat Feb 27 2021,15:00,GMT/+0000,Barnsley FC,2-1,1-1,Millwall FC,2021-02-27T15:00Z
+33,Sun Feb 28 2021,12:00,GMT/+0000,Wycombe Wanderers,0-2,0-0,Norwich City,2021-02-28T12:00Z
+34,Tue Mar 2 2021,19:00,GMT/+0000,Huddersfield Town,1-1,0-0,Birmingham City,2021-03-02T19:00Z
+34,Tue Mar 2 2021,19:00,GMT/+0000,Millwall FC,2-1,1-1,Preston North End,2021-03-02T19:00Z
+34,Tue Mar 2 2021,20:00,GMT/+0000,Reading FC,1-0,1-0,Blackburn Rovers,2021-03-02T20:00Z
+34,Tue Mar 2 2021,19:00,GMT/+0000,Coventry City,1-2,1-1,Middlesbrough FC,2021-03-02T19:00Z
+34,Tue Mar 2 2021,19:00,GMT/+0000,Cardiff City,4-0,1-0,Derby County,2021-03-02T19:00Z
+34,Tue Mar 2 2021,19:45,GMT/+0000,Nottingham Forest,0-1,0-0,Luton Town,2021-03-02T19:45Z
+34,Wed Mar 3 2021,19:45,GMT/+0000,Bristol City,1-2,1-1,AFC Bournemouth,2021-03-03T19:45Z
+34,Wed Mar 3 2021,19:45,GMT/+0000,Sheffield Wednesday,1-2,0-1,Rotherham United,2021-03-03T19:45Z
+34,Wed Mar 3 2021,20:15,GMT/+0000,Stoke City,1-2,1-1,Swansea City,2021-03-03T20:15Z
+34,Wed Mar 3 2021,19:00,GMT/+0000,Watford FC,2-0,1-0,Wycombe Wanderers,2021-03-03T19:00Z
+34,Wed Mar 3 2021,19:00,GMT/+0000,Queens Park Rangers,1-3,1-2,Barnsley FC,2021-03-03T19:00Z
+34,Wed Mar 3 2021,17:30,GMT/+0000,Norwich City,1-0,1-0,Brentford FC,2021-03-03T17:30Z
+35,Fri Mar 5 2021,19:45,GMT/+0000,Huddersfield Town,0-0,0-0,Cardiff City,2021-03-05T19:45Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Reading FC,3-0,1-0,Sheffield Wednesday,2021-03-06T15:00Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Swansea City,2-1,1-0,Middlesbrough FC,2021-03-06T15:00Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Stoke City,2-0,0-0,Wycombe Wanderers,2021-03-06T15:00Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Preston North End,1-1,0-1,AFC Bournemouth,2021-03-06T15:00Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Norwich City,3-0,2-0,Luton Town,2021-03-06T15:00Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Millwall FC,0-2,0-1,Blackburn Rovers,2021-03-06T15:00Z
+35,Sat Mar 6 2021,12:30,GMT/+0000,Watford FC,1-0,1-0,Nottingham Forest,2021-03-06T12:30Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Bristol City,0-2,0-2,Queens Park Rangers,2021-03-06T15:00Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Coventry City,1-0,1-0,Derby County,2021-03-06T15:00Z
+35,Sat Mar 6 2021,15:00,GMT/+0000,Barnsley FC,1-0,0-0,Birmingham City,2021-03-06T15:00Z
+24,Tue Mar 9 2021,19:00,GMT/+0000,Queens Park Rangers,1-0,1-0,Wycombe Wanderers,2021-03-09T19:00Z
+25,Tue Mar 9 2021,18:00,GMT/+0000,Blackburn Rovers,1-1,1-1,Swansea City,2021-03-09T18:00Z
+28,Wed Mar 10 2021,19:00,GMT/+0000,Barnsley FC,0-0,0-0,Derby County,2021-03-10T19:00Z
+36,Fri Mar 12 2021,19:45,GMT/+0000,Blackburn Rovers,0-1,0-1,Brentford FC,2021-03-12T19:45Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Nottingham Forest,1-1,0-0,Reading FC,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Middlesbrough FC,3-0,2-0,Stoke City,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Wycombe Wanderers,1-0,1-0,Preston North End,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Queens Park Rangers,0-1,0-0,Huddersfield Town,2021-03-13T15:00Z
+36,Sat Mar 13 2021,12:15,GMT/+0000,Luton Town,0-1,0-1,Swansea City,2021-03-13T12:15Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,AFC Bournemouth,2-3,2-1,Barnsley FC,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Birmingham City,0-3,0-1,Bristol City,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Cardiff City,1-2,1-1,Watford FC,2021-03-13T15:00Z
+36,Sat Mar 13 2021,15:00,GMT/+0000,Derby County,0-1,0-1,Millwall FC,2021-03-13T15:00Z
+36,Sun Mar 14 2021,12:15,GMT/+0000,Sheffield Wednesday,1-2,1-0,Norwich City,2021-03-14T12:15Z
+37,Tue Mar 16 2021,19:00,GMT/+0000,Luton Town,2-0,2-0,Coventry City,2021-03-16T19:00Z
+37,Tue Mar 16 2021,19:00,GMT/+0000,Middlesbrough FC,2-0,1-0,Preston North End,2021-03-16T19:00Z
+37,Tue Mar 16 2021,19:00,GMT/+0000,Rotherham United,1-4,0-3,Watford FC,2021-03-16T19:00Z
+37,Tue Mar 16 2021,19:00,GMT/+0000,Cardiff City,0-0,0-0,Stoke City,2021-03-16T19:00Z
+37,Tue Mar 16 2021,19:00,GMT/+0000,Derby County,2-2,0-2,Brentford FC,2021-03-16T19:00Z
+37,Tue Mar 16 2021,19:45,GMT/+0000,AFC Bournemouth,3-0,2-0,Swansea City,2021-03-16T19:45Z
+37,Wed Mar 17 2021,19:45,GMT/+0000,Blackburn Rovers,0-0,0-0,Bristol City,2021-03-17T19:45Z
+37,Wed Mar 17 2021,19:45,GMT/+0000,Sheffield Wednesday,1-1,1-0,Huddersfield Town,2021-03-17T19:45Z
+37,Wed Mar 17 2021,19:45,GMT/+0000,Birmingham City,2-1,1-1,Reading FC,2021-03-17T19:45Z
+37,Wed Mar 17 2021,19:00,GMT/+0000,Wycombe Wanderers,1-3,0-1,Barnsley FC,2021-03-17T19:00Z
+37,Wed Mar 17 2021,19:00,GMT/+0000,Queens Park Rangers,3-2,0-2,Millwall FC,2021-03-17T19:00Z
+37,Wed Mar 17 2021,19:00,GMT/+0000,Nottingham Forest,0-2,0-2,Norwich City,2021-03-17T19:00Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Preston North End,0-1,0-0,Luton Town,2021-03-20T15:00Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Stoke City,1-0,0-0,Derby County,2021-03-20T15:00Z
+38,Sat Mar 20 2021,17:30,GMT/+0000,Swansea City,0-1,0-1,Cardiff City,2021-03-20T17:30Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Norwich City,1-1,0-0,Blackburn Rovers,2021-03-20T15:00Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Watford FC,3-0,1-0,Birmingham City,2021-03-20T15:00Z
+38,Sat Mar 20 2021,12:30,GMT/+0000,Brentford FC,1-1,1-0,Nottingham Forest,2021-03-20T12:30Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Bristol City,0-2,0-1,Rotherham United,2021-03-20T15:00Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Coventry City,0-0,0-0,Wycombe Wanderers,2021-03-20T15:00Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Barnsley FC,1-2,0-1,Sheffield Wednesday,2021-03-20T15:00Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Millwall FC,1-0,1-0,Middlesbrough FC,2021-03-20T15:00Z
+38,Sat Mar 20 2021,15:00,GMT/+0000,Reading FC,1-1,0-1,Queens Park Rangers,2021-03-20T15:00Z
+39,Fri Apr 2 2021,17:30,BST/+0100,Barnsley FC,1-1,0-1,Reading FC,2021-04-02T16:30Z
+39,Fri Apr 2 2021,20:00,BST/+0100,Birmingham City,1-0,0-0,Swansea City,2021-04-02T19:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Wycombe Wanderers,1-0,0-0,Blackburn Rovers,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Queens Park Rangers,3-0,2-0,Coventry City,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Preston North End,1-1,0-1,Norwich City,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Watford FC,1-0,1-0,Sheffield Wednesday,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,AFC Bournemouth,3-1,1-0,Middlesbrough FC,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Bristol City,0-2,0-1,Stoke City,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Cardiff City,0-1,0-1,Nottingham Forest,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Derby County,2-0,1-0,Luton Town,2021-04-02T14:00Z
+39,Fri Apr 2 2021,15:00,BST/+0100,Millwall FC,1-0,0-0,Rotherham United,2021-04-02T14:00Z
+39,Sat Apr 3 2021,12:30,BST/+0100,Huddersfield Town,1-1,1-0,Brentford FC,2021-04-03T11:30Z
+40,Mon Apr 5 2021,17:30,BST/+0100,Sheffield Wednesday,5-0,3-0,Cardiff City,2021-04-05T16:30Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Nottingham Forest,3-1,1-0,Queens Park Rangers,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Luton Town,1-2,0-1,Barnsley FC,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Reading FC,3-1,1-0,Derby County,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Swansea City,0-1,0-0,Preston North End,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Stoke City,1-2,1-1,Millwall FC,2021-04-05T14:00Z
+40,Mon Apr 5 2021,12:30,BST/+0100,Middlesbrough FC,1-1,0-1,Watford FC,2021-04-05T11:30Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Blackburn Rovers,0-2,0-1,AFC Bournemouth,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Coventry City,3-1,1-0,Bristol City,2021-04-05T14:00Z
+40,Mon Apr 5 2021,15:00,BST/+0100,Rotherham United,0-3,0-2,Wycombe Wanderers,2021-04-05T14:00Z
+40,Tue Apr 6 2021,19:00,BST/+0100,Brentford FC,0-0,0-0,Birmingham City,2021-04-06T18:00Z
+40,Tue Apr 6 2021,19:45,BST/+0100,Norwich City,7-0,5-0,Huddersfield Town,2021-04-06T18:45Z
+41,Fri Apr 9 2021,19:45,BST/+0100,Watford FC,2-0,2-0,Reading FC,2021-04-09T18:45Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Barnsley FC,2-0,0-0,Middlesbrough FC,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Wycombe Wanderers,1-3,1-0,Luton Town,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Queens Park Rangers,4-1,1-1,Sheffield Wednesday,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,AFC Bournemouth,4-1,2-1,Coventry City,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Preston North End,0-5,0-2,Brentford FC,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Derby County,0-1,0-1,Norwich City,2021-04-10T14:00Z
+41,Sat Apr 10 2021,12:30,BST/+0100,Millwall FC,0-3,0-1,Swansea City,2021-04-10T11:30Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Cardiff City,2-2,1-1,Blackburn Rovers,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Birmingham City,2-0,1-0,Stoke City,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Bristol City,0-0,0-0,Nottingham Forest,2021-04-10T14:00Z
+41,Sat Apr 10 2021,15:00,BST/+0100,Huddersfield Town,0-0,0-0,Rotherham United,2021-04-10T14:00Z
+29,Tue Apr 13 2021,18:00,BST/+0100,Sheffield Wednesday,0-2,0-1,Swansea City,2021-04-13T17:00Z
+38,Tue Apr 13 2021,17:30,BST/+0100,Huddersfield Town,1-2,0-2,AFC Bournemouth,2021-04-13T16:30Z
+29,Tue Apr 13 2021,19:00,BST/+0100,Rotherham United,3-1,0-0,Queens Park Rangers,2021-04-13T18:00Z
+36,Thu Apr 15 2021,19:00,BST/+0100,Rotherham United,0-1,0-0,Coventry City,2021-04-15T18:00Z
+42,Fri Apr 16 2021,18:00,BST/+0100,Blackburn Rovers,2-1,1-1,Derby County,2021-04-16T17:00Z
+42,Fri Apr 16 2021,18:00,BST/+0100,Reading FC,1-1,0-0,Cardiff City,2021-04-16T17:00Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Stoke City,0-0,0-0,Preston North End,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Swansea City,2-2,0-0,Wycombe Wanderers,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Brentford FC,0-0,0-0,Millwall FC,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Middlesbrough FC,1-2,1-2,Queens Park Rangers,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Luton Town,1-0,0-0,Watford FC,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Nottingham Forest,0-2,0-1,Huddersfield Town,2021-04-17T11:30Z
+42,Sat Apr 17 2021,12:30,BST/+0100,Sheffield Wednesday,1-1,1-0,Bristol City,2021-04-17T11:30Z
+42,Sat Apr 17 2021,20:00,BST/+0100,Norwich City,1-3,1-0,AFC Bournemouth,2021-04-17T19:00Z
+42,Sun Apr 18 2021,15:00,BST/+0100,Coventry City,2-0,1-0,Barnsley FC,2021-04-18T14:00Z
+42,Sun Apr 18 2021,12:00,BST/+0100,Rotherham United,0-1,0-0,Birmingham City,2021-04-18T11:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Sheffield Wednesday,1-0,1-0,Blackburn Rovers,2021-04-20T18:00Z
+43,Tue Apr 20 2021,18:00,BST/+0100,Brentford FC,1-1,0-0,Cardiff City,2021-04-20T17:00Z
+43,Tue Apr 20 2021,18:00,BST/+0100,Norwich City,0-1,0-0,Watford FC,2021-04-20T17:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Preston North End,3-0,1-0,Derby County,2021-04-20T18:00Z
+43,Tue Apr 20 2021,19:00,BST/+0100,Swansea City,0-1,0-0,Queens Park Rangers,2021-04-20T18:00Z
+43,Wed Apr 21 2021,19:45,BST/+0100,Huddersfield Town,0-1,0-0,Barnsley FC,2021-04-21T18:45Z
+43,Wed Apr 21 2021,18:00,BST/+0100,Millwall FC,1-4,0-3,AFC Bournemouth,2021-04-21T17:00Z
+43,Wed Apr 21 2021,19:45,BST/+0100,Luton Town,0-0,0-0,Reading FC,2021-04-21T18:45Z
+43,Wed Apr 21 2021,18:00,BST/+0100,Rotherham United,1-2,1-1,Middlesbrough FC,2021-04-21T17:00Z
+43,Wed Apr 21 2021,19:00,BST/+0100,Wycombe Wanderers,2-1,0-1,Bristol City,2021-04-21T18:00Z
+43,Wed Apr 21 2021,19:00,BST/+0100,Stoke City,2-3,0-1,Coventry City,2021-04-21T18:00Z
+43,Wed Apr 21 2021,19:45,BST/+0100,Birmingham City,1-1,0-0,Nottingham Forest,2021-04-21T18:45Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Nottingham Forest,1-1,0-1,Stoke City,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Queens Park Rangers,1-3,0-1,Norwich City,2021-04-24T14:00Z
+44,Sat Apr 24 2021,12:30,BST/+0100,AFC Bournemouth,0-1,0-0,Brentford FC,2021-04-24T11:30Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Blackburn Rovers,5-2,2-1,Huddersfield Town,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Cardiff City,2-1,1-1,Wycombe Wanderers,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Coventry City,0-1,0-0,Preston North End,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Derby County,1-2,1-0,Birmingham City,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Barnsley FC,1-0,1-0,Rotherham United,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Middlesbrough FC,3-1,1-1,Sheffield Wednesday,2021-04-24T14:00Z
+44,Sat Apr 24 2021,15:00,BST/+0100,Watford FC,1-0,1-0,Millwall FC,2021-04-24T14:00Z
+44,Sun Apr 25 2021,12:00,BST/+0100,Reading FC,2-2,1-0,Swansea City,2021-04-25T11:00Z
+44,Sun Apr 25 2021,13:00,BST/+0100,Bristol City,2-3,2-0,Luton Town,2021-04-25T12:00Z
+35,Tue Apr 27 2021,19:00,BST/+0100,Brentford FC,1-0,1-0,Rotherham United,2021-04-27T18:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Swansea City,2-1,0-0,Derby County,2021-05-01T14:00Z
+45,Sat May 1 2021,12:30,BST/+0100,Sheffield Wednesday,0-0,0-0,Nottingham Forest,2021-05-01T11:30Z
+45,Sat May 1 2021,15:00,BST/+0100,Birmingham City,0-4,0-2,Cardiff City,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Brentford FC,2-0,0-0,Watford FC,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Millwall FC,4-1,2-1,Bristol City,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Huddersfield Town,1-1,0-0,Coventry City,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Luton Town,1-1,1-1,Middlesbrough FC,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Norwich City,4-1,1-1,Reading FC,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Preston North End,2-0,1-0,Barnsley FC,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Rotherham United,1-1,0-1,Blackburn Rovers,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Stoke City,0-2,0-1,Queens Park Rangers,2021-05-01T14:00Z
+45,Sat May 1 2021,15:00,BST/+0100,Wycombe Wanderers,1-0,1-0,AFC Bournemouth,2021-05-01T14:00Z
+26,Tue May 4 2021,19:15,BST/+0100,Luton Town,0-0,0-0,Rotherham United,2021-05-04T18:15Z
+46,Sat May 8 2021,12:30,BST/+0100,AFC Bournemouth,0-2,0-1,Stoke City,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Blackburn Rovers,5-2,2-1,Birmingham City,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Bristol City,1-3,0-0,Brentford FC,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Cardiff City,1-1,0-1,Rotherham United,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Coventry City,6-1,2-0,Millwall FC,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Derby County,3-3,0-1,Sheffield Wednesday,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Barnsley FC,2-2,2-1,Norwich City,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Middlesbrough FC,0-3,0-2,Wycombe Wanderers,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Reading FC,2-2,2-1,Huddersfield Town,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Watford FC,2-0,0-0,Swansea City,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Nottingham Forest,1-2,1-0,Preston North End,2021-05-08T11:30Z
+46,Sat May 8 2021,12:30,BST/+0100,Queens Park Rangers,3-1,1-1,Luton Town,2021-05-08T11:30Z

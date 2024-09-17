@@ -1,381 +1,381 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Aug 4 2023,19:15,Hallescher FC,2-1,2-0,Rot-Weiss Essen
-1,Sat Aug 5 2023,14:00,Viktoria Köln,3-1,1-1,SC Verl
-1,Sat Aug 5 2023,14:00,VfB Lübeck,0-0,0-0,SV Sandhausen
-1,Sat Aug 5 2023,14:00,TSV 1860 München,2-0,1-0,Waldhof Mannheim
-1,Sat Aug 5 2023,14:00,Preußen Münster,0-0,0-0,Borussia Dortmund II
-1,Sat Aug 5 2023,14:00,Jahn Regensburg,1-1,1-1,SpVgg Unterhaching
-1,Sat Aug 5 2023,16:15,Dynamo Dresden,3-1,2-1,Arminia Bielefeld
-1,Sun Aug 6 2023,16:30,SC Freiburg II,1-1,0-1,MSV Duisburg
-1,Sun Aug 6 2023,19:30,Erzgebirge Aue,1-0,0-0,FC Ingolstadt 04
-1,Sun Aug 6 2023,13:30,SSV Ulm 1846,1-1,1-1,1. FC Saarbrücken
-2,Fri Aug 18 2023,19:00,SV Sandhausen,1-0,1-0,Dynamo Dresden
-2,Sat Aug 19 2023,14:00,1. FC Saarbrücken,1-2,1-1,Viktoria Köln
-2,Sat Aug 19 2023,14:00,FC Ingolstadt 04,4-0,1-0,Hallescher FC
-2,Sat Aug 19 2023,14:00,MSV Duisburg,0-3,0-1,TSV 1860 München
-2,Sat Aug 19 2023,14:00,Arminia Bielefeld,4-0,2-0,Preußen Münster
-2,Sat Aug 19 2023,14:00,SpVgg Unterhaching,3-2,1-2,SSV Ulm 1846
-2,Sat Aug 19 2023,16:30,Waldhof Mannheim,2-2,2-0,VfB Lübeck
-2,Sun Aug 20 2023,16:30,SC Verl,1-2,0-1,Jahn Regensburg
-2,Sun Aug 20 2023,19:30,Rot-Weiss Essen,1-1,1-1,Erzgebirge Aue
-2,Sun Aug 20 2023,13:30,Borussia Dortmund II,1-0,1-0,SC Freiburg II
-3,Tue Aug 22 2023,19:00,Preußen Münster,3-1,0-1,FC Ingolstadt 04
-3,Tue Aug 22 2023,19:00,Dynamo Dresden,2-1,2-0,Waldhof Mannheim
-3,Tue Aug 22 2023,19:00,SSV Ulm 1846,1-0,1-0,Arminia Bielefeld
-3,Tue Aug 22 2023,19:00,Hallescher FC,1-1,1-0,MSV Duisburg
-3,Tue Aug 22 2023,19:00,TSV 1860 München,1-2,1-2,VfB Lübeck
-3,Wed Aug 23 2023,19:00,1. FC Saarbrücken,4-3,1-2,SC Verl
-3,Wed Aug 23 2023,19:00,Erzgebirge Aue,2-1,1-1,SV Sandhausen
-3,Wed Aug 23 2023,19:00,SC Freiburg II,0-0,0-0,SpVgg Unterhaching
-3,Wed Aug 23 2023,19:00,Jahn Regensburg,0-0,0-0,Borussia Dortmund II
-3,Wed Aug 23 2023,19:00,Viktoria Köln,0-0,0-0,Rot-Weiss Essen
-4,Fri Aug 25 2023,19:00,MSV Duisburg,1-1,1-1,SSV Ulm 1846
-4,Sat Aug 26 2023,14:00,FC Ingolstadt 04,2-2,1-1,1. FC Saarbrücken
-4,Sat Aug 26 2023,14:00,SC Verl,3-2,3-2,SC Freiburg II
-4,Sat Aug 26 2023,14:00,Borussia Dortmund II,0-2,0-1,Dynamo Dresden
-4,Sat Aug 26 2023,14:00,SpVgg Unterhaching,2-1,1-0,Viktoria Köln
-4,Sat Aug 26 2023,14:00,VfB Lübeck,1-1,0-0,Erzgebirge Aue
-4,Sat Aug 26 2023,16:30,SV Sandhausen,3-0,2-0,TSV 1860 München
-4,Sun Aug 27 2023,16:30,Waldhof Mannheim,3-2,3-1,Hallescher FC
-4,Sun Aug 27 2023,19:30,Rot-Weiss Essen,1-0,0-0,Preußen Münster
-4,Sun Aug 27 2023,13:30,Arminia Bielefeld,1-1,1-1,Jahn Regensburg
-5,Fri Sep 1 2023,19:00,1. FC Saarbrücken,2-0,1-0,Borussia Dortmund II
-5,Sat Sep 2 2023,14:00,SC Freiburg II,0-2,0-0,Rot-Weiss Essen
-5,Sat Sep 2 2023,14:00,Preußen Münster,1-3,0-1,Waldhof Mannheim
-5,Sat Sep 2 2023,14:00,SC Verl,0-0,0-0,SpVgg Unterhaching
-5,Sat Sep 2 2023,14:00,SSV Ulm 1846,3-0,0-0,VfB Lübeck
-5,Sat Sep 2 2023,14:00,Dynamo Dresden,2-0,0-0,FC Ingolstadt 04
-5,Sat Sep 2 2023,16:30,TSV 1860 München,1-2,0-0,Erzgebirge Aue
-5,Sun Sep 3 2023,16:30,Jahn Regensburg,2-1,1-1,MSV Duisburg
-5,Sun Sep 3 2023,19:30,Viktoria Köln,1-1,0-0,Arminia Bielefeld
-5,Sun Sep 3 2023,13:30,Hallescher FC,4-1,1-1,SV Sandhausen
-6,Fri Sep 15 2023,19:00,MSV Duisburg,2-3,2-1,SC Verl
-6,Sat Sep 16 2023,14:00,Rot-Weiss Essen,0-0,0-0,Jahn Regensburg
-6,Sat Sep 16 2023,14:00,Arminia Bielefeld,0-2,0-1,SC Freiburg II
-6,Sat Sep 16 2023,14:00,VfB Lübeck,0-1,0-0,Dynamo Dresden
-6,Sat Sep 16 2023,14:00,Borussia Dortmund II,2-1,1-1,Viktoria Köln
-6,Sat Sep 16 2023,14:00,SV Sandhausen,0-2,0-1,Preußen Münster
-6,Sat Sep 16 2023,16:30,FC Ingolstadt 04,2-1,0-1,TSV 1860 München
-6,Sun Sep 17 2023,13:30,Erzgebirge Aue,3-1,0-1,Hallescher FC
-6,Sun Sep 17 2023,16:30,Waldhof Mannheim,0-2,0-1,SSV Ulm 1846
-6,Sun Sep 17 2023,19:30,SpVgg Unterhaching,0-0,0-0,1. FC Saarbrücken
-7,Fri Sep 22 2023,19:00,SpVgg Unterhaching,1-2,0-1,Arminia Bielefeld
-7,Sat Sep 23 2023,14:00,SC Verl,2-3,1-1,Borussia Dortmund II
-7,Sat Sep 23 2023,14:00,1. FC Saarbrücken,1-1,0-0,Waldhof Mannheim
-7,Sat Sep 23 2023,14:00,Preußen Münster,1-1,0-0,VfB Lübeck
-7,Sat Sep 23 2023,14:00,Jahn Regensburg,1-2,0-1,SV Sandhausen
-7,Sat Sep 23 2023,16:30,Hallescher FC,0-2,0-1,TSV 1860 München
-7,Sat Sep 23 2023,14:00,Viktoria Köln,2-0,0-0,MSV Duisburg
-7,Sun Sep 24 2023,13:30,SSV Ulm 1846,2-1,1-0,Rot-Weiss Essen
-7,Sun Sep 24 2023,16:30,SC Freiburg II,1-4,0-1,FC Ingolstadt 04
-7,Sun Sep 24 2023,19:30,Dynamo Dresden,2-1,1-0,Erzgebirge Aue
-9,Wed Sep 27 2023,19:00,Borussia Dortmund II,1-0,1-0,MSV Duisburg
-8,Fri Sep 29 2023,19:00,Arminia Bielefeld,2-6,1-1,1. FC Saarbrücken
-8,Sat Sep 30 2023,14:00,FC Ingolstadt 04,4-0,2-0,SSV Ulm 1846
-8,Sat Sep 30 2023,14:00,Waldhof Mannheim,3-1,1-1,SC Freiburg II
-8,Sat Sep 30 2023,14:00,TSV 1860 München,1-0,1-0,SC Verl
-8,Sat Sep 30 2023,14:00,MSV Duisburg,0-0,0-0,Preußen Münster
-8,Sat Sep 30 2023,16:30,VfB Lübeck,2-2,2-0,Hallescher FC
-8,Sat Sep 30 2023,14:00,SV Sandhausen,3-3,0-2,Viktoria Köln
-8,Sun Oct 1 2023,19:30,Erzgebirge Aue,0-1,0-0,Jahn Regensburg
-8,Sun Oct 1 2023,16:30,Borussia Dortmund II,2-2,2-1,SpVgg Unterhaching
-8,Sun Oct 1 2023,13:30,Rot-Weiss Essen,3-1,1-0,Dynamo Dresden
-9,Tue Oct 3 2023,19:00,SC Freiburg II,0-2,0-1,SV Sandhausen
-9,Tue Oct 3 2023,19:00,Viktoria Köln,1-0,1-0,FC Ingolstadt 04
-9,Tue Oct 3 2023,19:00,1. FC Saarbrücken,1-1,0-1,VfB Lübeck
-9,Tue Oct 3 2023,19:00,SC Verl,3-1,2-0,Arminia Bielefeld
-9,Tue Oct 3 2023,19:00,SSV Ulm 1846,1-0,1-0,TSV 1860 München
-9,Wed Oct 4 2023,19:00,Dynamo Dresden,2-1,1-1,Hallescher FC
-9,Wed Oct 4 2023,19:00,Preußen Münster,4-0,2-0,Erzgebirge Aue
-9,Wed Oct 4 2023,19:00,SpVgg Unterhaching,4-0,2-0,Rot-Weiss Essen
-9,Wed Oct 4 2023,19:00,Jahn Regensburg,2-0,1-0,Waldhof Mannheim
-10,Fri Oct 6 2023,19:00,SV Sandhausen,1-2,1-0,SSV Ulm 1846
-10,Sat Oct 7 2023,14:00,MSV Duisburg,1-0,0-0,SpVgg Unterhaching
-10,Sat Oct 7 2023,14:00,Arminia Bielefeld,2-2,1-1,Borussia Dortmund II
-10,Sat Oct 7 2023,14:00,TSV 1860 München,0-0,0-0,Dynamo Dresden
-10,Sat Oct 7 2023,14:00,Rot-Weiss Essen,0-5,0-1,SC Verl
-10,Sat Oct 7 2023,14:00,Waldhof Mannheim,1-1,0-0,Viktoria Köln
-10,Sat Oct 7 2023,16:30,Erzgebirge Aue,2-0,0-0,1. FC Saarbrücken
-10,Sun Oct 8 2023,16:30,Hallescher FC,1-4,0-3,Preußen Münster
-10,Sun Oct 8 2023,19:30,FC Ingolstadt 04,2-4,1-1,Jahn Regensburg
-10,Sun Oct 8 2023,13:30,VfB Lübeck,0-1,0-1,SC Freiburg II
-11,Fri Oct 13 2023,19:00,Borussia Dortmund II,1-2,0-1,Rot-Weiss Essen
-11,Sat Oct 14 2023,14:00,Jahn Regensburg,2-1,2-0,VfB Lübeck
-11,Sat Oct 14 2023,14:00,SpVgg Unterhaching,0-0,0-0,SV Sandhausen
-11,Sat Oct 14 2023,14:00,Viktoria Köln,2-2,0-0,Erzgebirge Aue
-11,Sat Oct 14 2023,14:00,SC Verl,2-2,2-1,FC Ingolstadt 04
-11,Sat Oct 14 2023,16:30,Arminia Bielefeld,3-1,0-1,Waldhof Mannheim
-11,Sun Oct 15 2023,13:30,SSV Ulm 1846,2-3,2-2,Dynamo Dresden
-11,Sun Oct 15 2023,16:30,Preußen Münster,1-1,0-0,TSV 1860 München
-12,Fri Oct 20 2023,19:00,Waldhof Mannheim,1-3,1-2,Borussia Dortmund II
-12,Sat Oct 21 2023,14:00,Dynamo Dresden,1-0,1-0,Preußen Münster
-12,Sat Oct 21 2023,14:00,VfB Lübeck,3-2,2-0,Viktoria Köln
-12,Sat Oct 21 2023,14:00,FC Ingolstadt 04,3-0,0-0,SpVgg Unterhaching
-12,Sat Oct 21 2023,16:30,MSV Duisburg,0-1,0-1,Arminia Bielefeld
-12,Sat Oct 21 2023,14:00,Hallescher FC,1-2,0-0,Jahn Regensburg
-12,Sat Oct 21 2023,14:00,TSV 1860 München,2-0,1-0,SC Freiburg II
-12,Sun Oct 22 2023,19:30,Erzgebirge Aue,1-2,1-0,SSV Ulm 1846
-12,Sun Oct 22 2023,16:30,Rot-Weiss Essen,2-1,2-1,1. FC Saarbrücken
-12,Sun Oct 22 2023,13:30,SV Sandhausen,2-2,1-1,SC Verl
-13,Fri Oct 27 2023,19:00,SpVgg Unterhaching,3-0,1-0,Waldhof Mannheim
-13,Sat Oct 28 2023,14:00,Arminia Bielefeld,4-0,2-0,FC Ingolstadt 04
-13,Sat Oct 28 2023,14:00,Viktoria Köln,2-1,1-1,TSV 1860 München
-13,Sat Oct 28 2023,14:00,SSV Ulm 1846,2-3,1-1,Hallescher FC
-13,Sat Oct 28 2023,16:30,Jahn Regensburg,2-1,0-0,Preußen Münster
-13,Sat Oct 28 2023,14:00,MSV Duisburg,1-2,0-0,Rot-Weiss Essen
-13,Sat Oct 28 2023,14:00,Borussia Dortmund II,1-2,1-2,SV Sandhausen
-13,Sun Oct 29 2023,19:30,SC Freiburg II,0-1,0-1,Erzgebirge Aue
-13,Sun Oct 29 2023,16:30,SC Verl,4-0,1-0,VfB Lübeck
-14,Fri Nov 3 2023,19:00,Erzgebirge Aue,1-2,0-0,SC Verl
-14,Sat Nov 4 2023,16:30,FC Ingolstadt 04,1-1,0-1,Borussia Dortmund II
-14,Sat Nov 4 2023,14:00,Rot-Weiss Essen,2-1,1-0,Arminia Bielefeld
-14,Sat Nov 4 2023,14:00,Dynamo Dresden,2-0,1-0,SC Freiburg II
-14,Sat Nov 4 2023,14:00,SV Sandhausen,2-2,1-1,1. FC Saarbrücken
-14,Sat Nov 4 2023,14:00,VfB Lübeck,2-3,0-3,SpVgg Unterhaching
-14,Sat Nov 4 2023,14:00,TSV 1860 München,0-1,0-0,Jahn Regensburg
-14,Sun Nov 5 2023,16:30,Preußen Münster,3-2,2-0,SSV Ulm 1846
-14,Sun Nov 5 2023,19:30,Hallescher FC,2-1,0-1,Viktoria Köln
-14,Sun Nov 5 2023,13:30,Waldhof Mannheim,0-0,0-0,MSV Duisburg
-15,Fri Nov 10 2023,19:10,Viktoria Köln,1-5,0-3,Dynamo Dresden
-15,Sat Nov 11 2023,14:00,Arminia Bielefeld,1-1,1-0,SV Sandhausen
-15,Sat Nov 11 2023,16:30,Borussia Dortmund II,1-1,0-0,VfB Lübeck
-15,Sat Nov 11 2023,14:00,MSV Duisburg,1-2,0-0,FC Ingolstadt 04
-15,Sat Nov 11 2023,14:00,SpVgg Unterhaching,0-0,0-0,Erzgebirge Aue
-15,Sat Nov 11 2023,14:00,1. FC Saarbrücken,2-3,2-2,TSV 1860 München
-15,Sat Nov 11 2023,14:00,SC Verl,3-2,3-2,Hallescher FC
-15,Sun Nov 12 2023,16:30,Rot-Weiss Essen,2-0,0-0,Waldhof Mannheim
-15,Sun Nov 12 2023,19:30,Jahn Regensburg,2-0,1-0,SSV Ulm 1846
-15,Sun Nov 12 2023,13:30,SC Freiburg II,2-2,0-0,Preußen Münster
-13,Sun Nov 19 2023,13:30,1. FC Saarbrücken,1-0,1-0,Dynamo Dresden
-16,Fri Nov 24 2023,19:00,Waldhof Mannheim,1-2,1-0,SC Verl
-16,Sat Nov 25 2023,14:00,Hallescher FC,0-2,0-2,1. FC Saarbrücken
-16,Sat Nov 25 2023,16:30,SSV Ulm 1846,2-1,1-1,SC Freiburg II
-16,Sat Nov 25 2023,14:00,FC Ingolstadt 04,2-1,2-1,Rot-Weiss Essen
-16,Sat Nov 25 2023,14:00,TSV 1860 München,0-1,0-1,SpVgg Unterhaching
-16,Sat Nov 25 2023,14:00,SV Sandhausen,2-0,2-0,MSV Duisburg
-16,Sat Nov 25 2023,14:00,Erzgebirge Aue,2-0,2-0,Borussia Dortmund II
-16,Sun Nov 26 2023,19:30,Preußen Münster,3-3,2-2,Viktoria Köln
-16,Sun Nov 26 2023,13:30,VfB Lübeck,2-2,0-0,Arminia Bielefeld
-16,Sun Nov 26 2023,16:30,Dynamo Dresden,0-1,0-0,Jahn Regensburg
-11,Tue Nov 28 2023,19:00,SC Freiburg II,1-2,1-1,Hallescher FC
-11,Wed Nov 29 2023,19:00,1. FC Saarbrücken,0-0,0-0,MSV Duisburg
-17,Sat Dec 2 2023,14:00,1. FC Saarbrücken,0-0,0-0,Preußen Münster
-17,Sat Dec 2 2023,14:00,Waldhof Mannheim,1-1,1-0,FC Ingolstadt 04
-17,Sat Dec 2 2023,14:00,Arminia Bielefeld,2-2,1-2,Erzgebirge Aue
-17,Sat Dec 2 2023,14:00,Rot-Weiss Essen,1-2,0-1,SV Sandhausen
-17,Sat Dec 2 2023,14:00,MSV Duisburg,1-0,0-0,VfB Lübeck
-17,Sat Dec 2 2023,16:30,Viktoria Köln,1-3,0-2,SSV Ulm 1846
-17,Sun Dec 3 2023,13:30,SC Verl,1-0,0-0,Dynamo Dresden
-17,Sun Dec 3 2023,16:30,Jahn Regensburg,3-2,2-1,SC Freiburg II
-17,Sun Dec 3 2023,19:30,Borussia Dortmund II,3-0,0-0,TSV 1860 München
-18,Fri Dec 8 2023,19:00,Hallescher FC,2-2,1-1,Arminia Bielefeld
-18,Sat Dec 9 2023,14:00,SSV Ulm 1846,1-1,1-0,Borussia Dortmund II
-18,Sat Dec 9 2023,14:00,SV Sandhausen,3-0,1-0,Waldhof Mannheim
-18,Sat Dec 9 2023,14:00,SC Freiburg II,0-4,0-1,1. FC Saarbrücken
-18,Sat Dec 9 2023,14:00,VfB Lübeck,0-4,0-3,FC Ingolstadt 04
-18,Sat Dec 9 2023,16:30,Erzgebirge Aue,1-1,1-0,MSV Duisburg
-18,Sun Dec 10 2023,19:30,Preußen Münster,3-1,0-0,SC Verl
-18,Sun Dec 10 2023,13:30,Jahn Regensburg,1-1,1-0,Viktoria Köln
-18,Sun Dec 10 2023,16:30,Dynamo Dresden,2-1,1-1,SpVgg Unterhaching
-19,Fri Dec 15 2023,19:00,Rot-Weiss Essen,1-0,1-0,VfB Lübeck
-19,Sat Dec 16 2023,14:00,SC Verl,0-3,0-2,SSV Ulm 1846
-19,Sat Dec 16 2023,16:30,SpVgg Unterhaching,3-2,1-1,Preußen Münster
-19,Sat Dec 16 2023,14:00,1. FC Saarbrücken,2-2,0-0,Jahn Regensburg
-19,Sat Dec 16 2023,14:00,Borussia Dortmund II,2-1,2-0,Hallescher FC
-19,Sat Dec 16 2023,14:00,Waldhof Mannheim,3-0,2-0,Erzgebirge Aue
-19,Sat Dec 16 2023,14:00,FC Ingolstadt 04,4-0,0-0,SV Sandhausen
-19,Sun Dec 17 2023,19:30,Viktoria Köln,2-0,1-0,SC Freiburg II
-19,Sun Dec 17 2023,16:30,Arminia Bielefeld,2-0,2-0,TSV 1860 München
-19,Sun Dec 17 2023,13:30,MSV Duisburg,2-4,1-1,Dynamo Dresden
-20,Tue Dec 19 2023,19:00,SpVgg Unterhaching,1-2,1-0,Jahn Regensburg
-20,Tue Dec 19 2023,19:00,FC Ingolstadt 04,1-1,1-0,Erzgebirge Aue
-20,Tue Dec 19 2023,19:00,SV Sandhausen,1-2,0-2,VfB Lübeck
-20,Tue Dec 19 2023,19:00,1. FC Saarbrücken,2-1,1-0,SSV Ulm 1846
-20,Tue Dec 19 2023,19:00,Rot-Weiss Essen,3-2,0-1,Hallescher FC
-20,Wed Dec 20 2023,19:00,MSV Duisburg,4-2,3-1,SC Freiburg II
-20,Wed Dec 20 2023,19:00,SC Verl,1-1,0-0,Viktoria Köln
-20,Wed Dec 20 2023,19:00,Arminia Bielefeld,0-1,0-0,Dynamo Dresden
-20,Wed Dec 20 2023,19:00,Waldhof Mannheim,1-0,0-0,TSV 1860 München
-21,Fri Jan 19 2024,19:00,Erzgebirge Aue,2-1,0-1,Rot-Weiss Essen
-21,Sat Jan 20 2024,14:00,VfB Lübeck,2-1,0-0,Waldhof Mannheim
-21,Sat Jan 20 2024,16:30,TSV 1860 München,4-1,2-0,MSV Duisburg
-21,Sat Jan 20 2024,14:00,Dynamo Dresden,0-1,0-1,SV Sandhausen
-21,Sat Jan 20 2024,14:00,Jahn Regensburg,1-1,1-1,SC Verl
-21,Sat Jan 20 2024,14:00,Hallescher FC,3-1,3-1,FC Ingolstadt 04
-21,Sun Jan 21 2024,16:30,SSV Ulm 1846,2-0,1-0,SpVgg Unterhaching
-21,Sun Jan 21 2024,13:30,Preußen Münster,2-1,1-1,Arminia Bielefeld
-21,Sun Jan 21 2024,19:30,SC Freiburg II,0-0,0-0,Borussia Dortmund II
-22,Tue Jan 23 2024,19:00,MSV Duisburg,2-3,2-1,Hallescher FC
-22,Tue Jan 23 2024,19:00,SC Verl,0-0,0-0,1. FC Saarbrücken
-22,Tue Jan 23 2024,19:00,Waldhof Mannheim,0-2,0-1,Dynamo Dresden
-22,Tue Jan 23 2024,19:00,Rot-Weiss Essen,3-1,0-0,Viktoria Köln
-22,Tue Jan 23 2024,19:00,VfB Lübeck,1-1,0-0,TSV 1860 München
-22,Wed Jan 24 2024,19:00,FC Ingolstadt 04,1-1,1-1,Preußen Münster
-22,Wed Jan 24 2024,19:00,Borussia Dortmund II,1-0,0-0,Jahn Regensburg
-22,Wed Jan 24 2024,19:00,SpVgg Unterhaching,1-0,1-0,SC Freiburg II
-22,Wed Jan 24 2024,19:00,SV Sandhausen,1-0,1-0,Erzgebirge Aue
-22,Wed Jan 24 2024,19:00,Arminia Bielefeld,0-2,0-1,SSV Ulm 1846
-23,Fri Jan 26 2024,19:00,Hallescher FC,1-4,0-1,Waldhof Mannheim
-23,Sat Jan 27 2024,14:00,Viktoria Köln,2-1,2-0,SpVgg Unterhaching
-23,Sat Jan 27 2024,14:00,SC Freiburg II,0-1,0-1,SC Verl
-23,Sat Jan 27 2024,14:00,SSV Ulm 1846,2-2,1-0,MSV Duisburg
-23,Sat Jan 27 2024,14:00,Jahn Regensburg,2-0,2-0,Arminia Bielefeld
-23,Sat Jan 27 2024,14:00,1. FC Saarbrücken,0-2,0-0,FC Ingolstadt 04
-23,Sat Jan 27 2024,16:30,Erzgebirge Aue,2-0,1-0,VfB Lübeck
-23,Sun Jan 28 2024,16:30,TSV 1860 München,1-1,0-1,SV Sandhausen
-23,Sun Jan 28 2024,19:30,Dynamo Dresden,1-2,0-1,Borussia Dortmund II
-23,Sun Jan 28 2024,13:30,Preußen Münster,2-1,1-1,Rot-Weiss Essen
-24,Fri Feb 2 2024,19:00,Borussia Dortmund II,1-1,1-0,1. FC Saarbrücken
-24,Sat Feb 3 2024,14:00,SpVgg Unterhaching,1-0,0-0,SC Verl
-24,Sat Feb 3 2024,14:00,SV Sandhausen,1-1,1-0,Hallescher FC
-24,Sat Feb 3 2024,16:30,Arminia Bielefeld,0-2,0-1,Viktoria Köln
-24,Sat Feb 3 2024,14:00,VfB Lübeck,1-1,1-0,SSV Ulm 1846
-24,Sat Feb 3 2024,14:00,Erzgebirge Aue,0-0,0-0,TSV 1860 München
-24,Sat Feb 3 2024,14:00,Rot-Weiss Essen,4-3,1-2,SC Freiburg II
-24,Sun Feb 4 2024,16:30,Waldhof Mannheim,2-2,1-1,Preußen Münster
-24,Sun Feb 4 2024,19:30,MSV Duisburg,0-1,0-1,Jahn Regensburg
-24,Sun Feb 4 2024,13:30,FC Ingolstadt 04,2-1,2-0,Dynamo Dresden
-18,Tue Feb 6 2024,19:00,TSV 1860 München,2-0,1-0,Rot-Weiss Essen
-17,Wed Feb 7 2024,19:00,SpVgg Unterhaching,2-0,0-0,Hallescher FC
-25,Fri Feb 9 2024,19:00,Viktoria Köln,1-3,1-2,Borussia Dortmund II
-25,Sat Feb 10 2024,14:15,Dynamo Dresden,7-2,4-1,VfB Lübeck
-25,Sat Feb 10 2024,14:00,SC Verl,1-3,1-1,MSV Duisburg
-25,Sat Feb 10 2024,14:00,Jahn Regensburg,1-3,0-1,Rot-Weiss Essen
-25,Sat Feb 10 2024,16:30,SC Freiburg II,0-3,0-1,Arminia Bielefeld
-25,Sat Feb 10 2024,14:00,SSV Ulm 1846,3-1,1-1,Waldhof Mannheim
-25,Sat Feb 10 2024,14:00,Preußen Münster,1-1,0-1,SV Sandhausen
-25,Sun Feb 11 2024,16:30,TSV 1860 München,3-1,1-0,FC Ingolstadt 04
-25,Sun Feb 11 2024,13:30,Hallescher FC,2-3,2-2,Erzgebirge Aue
-20,Tue Feb 13 2024,19:00,Borussia Dortmund II,2-3,1-1,Preußen Münster
-26,Fri Feb 16 2024,19:00,FC Ingolstadt 04,2-3,2-1,SC Freiburg II
-26,Sat Feb 17 2024,14:00,SV Sandhausen,6-3,3-3,Jahn Regensburg
-26,Sat Feb 17 2024,14:00,Rot-Weiss Essen,0-2,0-0,SSV Ulm 1846
-26,Sat Feb 17 2024,14:00,MSV Duisburg,1-0,1-0,Viktoria Köln
-26,Sat Feb 17 2024,14:00,Borussia Dortmund II,5-2,3-1,SC Verl
-26,Sat Feb 17 2024,14:00,VfB Lübeck,0-3,0-3,Preußen Münster
-26,Sat Feb 17 2024,16:30,Arminia Bielefeld,1-2,0-2,SpVgg Unterhaching
-26,Sun Feb 18 2024,19:30,TSV 1860 München,1-0,1-0,Hallescher FC
-26,Sun Feb 18 2024,13:30,Waldhof Mannheim,0-2,0-2,1. FC Saarbrücken
-26,Sun Feb 18 2024,16:30,Erzgebirge Aue,2-1,1-0,Dynamo Dresden
-21,Wed Feb 21 2024,19:00,Viktoria Köln,2-5,0-1,1. FC Saarbrücken
-27,Fri Feb 23 2024,19:00,Preußen Münster,3-1,0-0,MSV Duisburg
-27,Sat Feb 24 2024,14:00,Jahn Regensburg,0-0,0-0,Erzgebirge Aue
-27,Sat Feb 24 2024,14:00,Viktoria Köln,2-1,0-0,SV Sandhausen
-27,Sat Feb 24 2024,14:00,SSV Ulm 1846,0-0,0-0,FC Ingolstadt 04
-27,Sat Feb 24 2024,16:30,SC Verl,0-1,0-0,TSV 1860 München
-27,Sat Feb 24 2024,14:00,Dynamo Dresden,2-2,1-2,Rot-Weiss Essen
-27,Sat Feb 24 2024,14:00,SpVgg Unterhaching,3-4,1-0,Borussia Dortmund II
-27,Sun Feb 25 2024,19:30,SC Freiburg II,1-0,1-0,Waldhof Mannheim
-27,Sun Feb 25 2024,13:30,Hallescher FC,3-0,2-0,VfB Lübeck
-27,Sun Feb 25 2024,16:30,1. FC Saarbrücken,1-1,0-0,Arminia Bielefeld
-28,Fri Mar 1 2024,19:00,SV Sandhausen,1-0,0-0,SC Freiburg II
-28,Sat Mar 2 2024,14:00,Waldhof Mannheim,3-1,0-1,Jahn Regensburg
-28,Sat Mar 2 2024,14:00,Hallescher FC,1-0,0-0,Dynamo Dresden
-28,Sat Mar 2 2024,14:00,Erzgebirge Aue,2-3,1-2,Preußen Münster
-28,Sat Mar 2 2024,14:00,VfB Lübeck,0-0,0-0,1. FC Saarbrücken
-28,Sat Mar 2 2024,16:30,Rot-Weiss Essen,1-3,1-2,SpVgg Unterhaching
-28,Sat Mar 2 2024,14:00,TSV 1860 München,0-1,0-0,SSV Ulm 1846
-28,Sun Mar 3 2024,19:30,MSV Duisburg,2-1,2-0,Borussia Dortmund II
-28,Sun Mar 3 2024,13:30,FC Ingolstadt 04,1-3,1-0,Viktoria Köln
-28,Sun Mar 3 2024,16:30,Arminia Bielefeld,0-0,0-0,SC Verl
-29,Fri Mar 8 2024,19:00,Dynamo Dresden,2-1,1-1,TSV 1860 München
-29,Sat Mar 9 2024,16:30,Preußen Münster,1-0,0-0,Hallescher FC
-29,Sat Mar 9 2024,14:00,Borussia Dortmund II,0-2,0-2,Arminia Bielefeld
-29,Sat Mar 9 2024,14:00,SC Freiburg II,3-0,1-0,VfB Lübeck
-29,Sat Mar 9 2024,14:00,1. FC Saarbrücken,2-0,2-0,Erzgebirge Aue
-29,Sat Mar 9 2024,14:00,Jahn Regensburg,1-1,0-1,FC Ingolstadt 04
-29,Sat Mar 9 2024,14:00,Viktoria Köln,2-2,1-0,Waldhof Mannheim
-29,Sun Mar 10 2024,13:30,SpVgg Unterhaching,1-0,0-0,MSV Duisburg
-29,Sun Mar 10 2024,16:30,SC Verl,1-1,0-0,Rot-Weiss Essen
-29,Sun Mar 10 2024,19:30,SSV Ulm 1846,2-0,2-0,SV Sandhausen
-30,Fri Mar 15 2024,19:00,Waldhof Mannheim,1-0,1-0,Arminia Bielefeld
-30,Sat Mar 16 2024,16:30,Hallescher FC,2-2,2-1,SC Freiburg II
-30,Sat Mar 16 2024,14:00,VfB Lübeck,1-0,1-0,Jahn Regensburg
-30,Sat Mar 16 2024,14:00,Erzgebirge Aue,2-1,0-1,Viktoria Köln
-30,Sat Mar 16 2024,14:00,Dynamo Dresden,0-0,0-0,SSV Ulm 1846
-30,Sat Mar 16 2024,14:00,TSV 1860 München,1-2,0-1,Preußen Münster
-30,Sat Mar 16 2024,14:00,MSV Duisburg,2-0,1-0,1. FC Saarbrücken
-30,Sun Mar 17 2024,13:30,Rot-Weiss Essen,4-0,1-0,Borussia Dortmund II
-30,Sun Mar 17 2024,16:30,SV Sandhausen,1-0,0-0,SpVgg Unterhaching
-30,Sun Mar 17 2024,19:30,FC Ingolstadt 04,0-1,0-1,SC Verl
-31,Sat Mar 30 2024,14:00,Jahn Regensburg,2-0,1-0,Hallescher FC
-31,Sat Mar 30 2024,14:00,Borussia Dortmund II,1-2,0-0,Waldhof Mannheim
-31,Sat Mar 30 2024,14:00,SpVgg Unterhaching,0-3,0-0,FC Ingolstadt 04
-31,Sat Mar 30 2024,14:00,Preußen Münster,1-0,0-0,Dynamo Dresden
-31,Sat Mar 30 2024,14:00,SSV Ulm 1846,2-2,1-0,Erzgebirge Aue
-31,Sat Mar 30 2024,16:30,SC Freiburg II,1-0,0-0,TSV 1860 München
-31,Sun Mar 31 2024,19:30,Arminia Bielefeld,2-0,2-0,MSV Duisburg
-31,Sun Mar 31 2024,13:30,Viktoria Köln,1-0,0-0,VfB Lübeck
-31,Sun Mar 31 2024,16:30,SC Verl,4-4,1-2,SV Sandhausen
-32,Fri Apr 5 2024,19:00,FC Ingolstadt 04,1-1,0-1,Arminia Bielefeld
-32,Sat Apr 6 2024,15:00,TSV 1860 München,3-1,2-0,Viktoria Köln
-32,Sat Apr 6 2024,14:00,VfB Lübeck,0-0,0-0,SC Verl
-32,Sat Apr 6 2024,14:00,Preußen Münster,1-3,0-3,Jahn Regensburg
-32,Sat Apr 6 2024,14:00,Erzgebirge Aue,2-1,0-0,SC Freiburg II
-32,Sat Apr 6 2024,14:00,SV Sandhausen,3-2,1-0,Borussia Dortmund II
-32,Sat Apr 6 2024,16:30,Waldhof Mannheim,6-1,0-1,SpVgg Unterhaching
-32,Sun Apr 7 2024,19:30,Hallescher FC,0-2,0-1,SSV Ulm 1846
-32,Sun Apr 7 2024,16:30,Rot-Weiss Essen,4-1,1-1,MSV Duisburg
-32,Sun Apr 7 2024,13:30,Dynamo Dresden,1-3,0-1,1. FC Saarbrücken
-25,Wed Apr 10 2024,19:00,1. FC Saarbrücken,2-1,1-1,SpVgg Unterhaching
-33,Fri Apr 12 2024,19:00,MSV Duisburg,1-1,1-0,Waldhof Mannheim
-33,Sat Apr 13 2024,14:00,Viktoria Köln,4-2,0-0,Hallescher FC
-33,Sat Apr 13 2024,14:00,SC Verl,3-1,1-0,Erzgebirge Aue
-33,Sat Apr 13 2024,14:00,SSV Ulm 1846,2-0,1-0,Preußen Münster
-33,Sat Apr 13 2024,14:00,SpVgg Unterhaching,4-1,3-0,VfB Lübeck
-33,Sat Apr 13 2024,14:00,Borussia Dortmund II,1-1,1-0,FC Ingolstadt 04
-33,Sat Apr 13 2024,16:30,1. FC Saarbrücken,4-1,0-1,SV Sandhausen
-33,Sun Apr 14 2024,13:30,Jahn Regensburg,1-1,0-0,TSV 1860 München
-33,Sun Apr 14 2024,16:30,Arminia Bielefeld,1-1,1-0,Rot-Weiss Essen
-33,Sun Apr 14 2024,19:30,SC Freiburg II,1-1,1-1,Dynamo Dresden
-34,Fri Apr 19 2024,19:00,SV Sandhausen,1-2,0-0,Arminia Bielefeld
-34,Sat Apr 20 2024,16:30,FC Ingolstadt 04,2-0,1-0,MSV Duisburg
-34,Sat Apr 20 2024,14:00,Erzgebirge Aue,2-1,1-0,SpVgg Unterhaching
-34,Sat Apr 20 2024,14:00,TSV 1860 München,1-1,0-1,1. FC Saarbrücken
-34,Sat Apr 20 2024,14:00,Dynamo Dresden,0-2,0-0,Viktoria Köln
-34,Sat Apr 20 2024,14:00,Hallescher FC,1-0,1-0,SC Verl
-34,Sat Apr 20 2024,14:00,VfB Lübeck,0-5,0-3,Borussia Dortmund II
-34,Sun Apr 21 2024,13:30,Waldhof Mannheim,0-2,0-1,Rot-Weiss Essen
-34,Sun Apr 21 2024,16:30,Preußen Münster,2-0,1-0,SC Freiburg II
-34,Sun Apr 21 2024,19:30,SSV Ulm 1846,1-0,0-0,Jahn Regensburg
-31,Wed Apr 24 2024,19:00,1. FC Saarbrücken,1-1,0-1,Rot-Weiss Essen
-35,Fri Apr 26 2024,19:00,Arminia Bielefeld,0-0,0-0,VfB Lübeck
-35,Sat Apr 27 2024,14:00,Jahn Regensburg,1-1,0-0,Dynamo Dresden
-35,Sat Apr 27 2024,14:00,MSV Duisburg,3-1,2-0,SV Sandhausen
-35,Sat Apr 27 2024,14:00,Borussia Dortmund II,2-2,1-1,Erzgebirge Aue
-35,Sat Apr 27 2024,14:00,Viktoria Köln,3-5,2-1,Preußen Münster
-35,Sat Apr 27 2024,14:00,1. FC Saarbrücken,0-1,0-0,Hallescher FC
-35,Sat Apr 27 2024,16:30,SC Verl,1-1,0-1,Waldhof Mannheim
-35,Sun Apr 28 2024,16:30,SC Freiburg II,1-2,0-0,SSV Ulm 1846
-35,Sun Apr 28 2024,19:30,SpVgg Unterhaching,2-0,1-0,TSV 1860 München
-35,Sun Apr 28 2024,13:30,Rot-Weiss Essen,4-0,3-0,FC Ingolstadt 04
-36,Fri May 3 2024,19:00,VfB Lübeck,5-3,1-1,MSV Duisburg
-36,Sat May 4 2024,14:00,SC Freiburg II,3-1,1-0,Jahn Regensburg
-36,Sat May 4 2024,14:00,TSV 1860 München,1-2,1-1,Borussia Dortmund II
-36,Sat May 4 2024,14:00,Dynamo Dresden,0-1,0-1,SC Verl
-36,Sat May 4 2024,14:00,Erzgebirge Aue,1-0,0-0,Arminia Bielefeld
-36,Sat May 4 2024,14:00,SSV Ulm 1846,2-0,0-0,Viktoria Köln
-36,Sat May 4 2024,16:30,SV Sandhausen,2-0,0-0,Rot-Weiss Essen
-36,Sun May 5 2024,13:30,Preußen Münster,4-1,3-0,1. FC Saarbrücken
-36,Sun May 5 2024,16:30,Hallescher FC,0-1,0-0,SpVgg Unterhaching
-36,Sun May 5 2024,19:30,FC Ingolstadt 04,1-1,0-0,Waldhof Mannheim
-37,Fri May 10 2024,19:00,Rot-Weiss Essen,0-1,0-1,TSV 1860 München
-37,Sat May 11 2024,14:00,Arminia Bielefeld,0-0,0-0,Hallescher FC
-37,Sat May 11 2024,14:00,Borussia Dortmund II,1-2,0-2,SSV Ulm 1846
-37,Sat May 11 2024,14:00,Viktoria Köln,1-1,1-1,Jahn Regensburg
-37,Sat May 11 2024,14:00,SpVgg Unterhaching,1-2,0-2,Dynamo Dresden
-37,Sat May 11 2024,14:00,FC Ingolstadt 04,6-1,3-1,VfB Lübeck
-37,Sat May 11 2024,16:30,Waldhof Mannheim,4-2,4-0,SV Sandhausen
-37,Sun May 12 2024,16:30,SC Verl,2-0,0-0,Preußen Münster
-37,Sun May 12 2024,19:30,1. FC Saarbrücken,2-1,0-0,SC Freiburg II
-37,Sun May 12 2024,13:30,MSV Duisburg,2-2,0-1,Erzgebirge Aue
-38,Sat May 18 2024,13:30,Jahn Regensburg,0-1,0-1,1. FC Saarbrücken
-38,Sat May 18 2024,13:30,VfB Lübeck,3-3,2-2,Rot-Weiss Essen
-38,Sat May 18 2024,13:30,Hallescher FC,1-1,1-1,Borussia Dortmund II
-38,Sat May 18 2024,13:30,TSV 1860 München,0-2,0-1,Arminia Bielefeld
-38,Sat May 18 2024,13:30,Erzgebirge Aue,2-0,1-0,Waldhof Mannheim
-38,Sat May 18 2024,13:30,Dynamo Dresden,4-0,3-0,MSV Duisburg
-38,Sat May 18 2024,13:30,SV Sandhausen,1-1,1-0,FC Ingolstadt 04
-38,Sat May 18 2024,13:30,Preußen Münster,2-0,2-0,SpVgg Unterhaching
-38,Sat May 18 2024,13:30,SSV Ulm 1846,4-2,1-0,SC Verl
-38,Sat May 18 2024,13:30,SC Freiburg II,1-0,1-0,Viktoria Köln
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 4 2023,19:15,CEST/+0200,Hallescher FC,2-1,2-0,Rot-Weiss Essen,2023-08-04T17:15Z
+1,Sat Aug 5 2023,14:00,CEST/+0200,Viktoria Köln,3-1,1-1,SC Verl,2023-08-05T12:00Z
+1,Sat Aug 5 2023,14:00,CEST/+0200,VfB Lübeck,0-0,0-0,SV Sandhausen,2023-08-05T12:00Z
+1,Sat Aug 5 2023,14:00,CEST/+0200,TSV 1860 München,2-0,1-0,Waldhof Mannheim,2023-08-05T12:00Z
+1,Sat Aug 5 2023,14:00,CEST/+0200,Preußen Münster,0-0,0-0,Borussia Dortmund II,2023-08-05T12:00Z
+1,Sat Aug 5 2023,14:00,CEST/+0200,Jahn Regensburg,1-1,1-1,SpVgg Unterhaching,2023-08-05T12:00Z
+1,Sat Aug 5 2023,16:15,CEST/+0200,Dynamo Dresden,3-1,2-1,Arminia Bielefeld,2023-08-05T14:15Z
+1,Sun Aug 6 2023,16:30,CEST/+0200,SC Freiburg II,1-1,0-1,MSV Duisburg,2023-08-06T14:30Z
+1,Sun Aug 6 2023,19:30,CEST/+0200,Erzgebirge Aue,1-0,0-0,FC Ingolstadt 04,2023-08-06T17:30Z
+1,Sun Aug 6 2023,13:30,CEST/+0200,SSV Ulm 1846,1-1,1-1,1. FC Saarbrücken,2023-08-06T11:30Z
+2,Fri Aug 18 2023,19:00,CEST/+0200,SV Sandhausen,1-0,1-0,Dynamo Dresden,2023-08-18T17:00Z
+2,Sat Aug 19 2023,14:00,CEST/+0200,1. FC Saarbrücken,1-2,1-1,Viktoria Köln,2023-08-19T12:00Z
+2,Sat Aug 19 2023,14:00,CEST/+0200,FC Ingolstadt 04,4-0,1-0,Hallescher FC,2023-08-19T12:00Z
+2,Sat Aug 19 2023,14:00,CEST/+0200,MSV Duisburg,0-3,0-1,TSV 1860 München,2023-08-19T12:00Z
+2,Sat Aug 19 2023,14:00,CEST/+0200,Arminia Bielefeld,4-0,2-0,Preußen Münster,2023-08-19T12:00Z
+2,Sat Aug 19 2023,14:00,CEST/+0200,SpVgg Unterhaching,3-2,1-2,SSV Ulm 1846,2023-08-19T12:00Z
+2,Sat Aug 19 2023,16:30,CEST/+0200,Waldhof Mannheim,2-2,2-0,VfB Lübeck,2023-08-19T14:30Z
+2,Sun Aug 20 2023,16:30,CEST/+0200,SC Verl,1-2,0-1,Jahn Regensburg,2023-08-20T14:30Z
+2,Sun Aug 20 2023,19:30,CEST/+0200,Rot-Weiss Essen,1-1,1-1,Erzgebirge Aue,2023-08-20T17:30Z
+2,Sun Aug 20 2023,13:30,CEST/+0200,Borussia Dortmund II,1-0,1-0,SC Freiburg II,2023-08-20T11:30Z
+3,Tue Aug 22 2023,19:00,CEST/+0200,Preußen Münster,3-1,0-1,FC Ingolstadt 04,2023-08-22T17:00Z
+3,Tue Aug 22 2023,19:00,CEST/+0200,Dynamo Dresden,2-1,2-0,Waldhof Mannheim,2023-08-22T17:00Z
+3,Tue Aug 22 2023,19:00,CEST/+0200,SSV Ulm 1846,1-0,1-0,Arminia Bielefeld,2023-08-22T17:00Z
+3,Tue Aug 22 2023,19:00,CEST/+0200,Hallescher FC,1-1,1-0,MSV Duisburg,2023-08-22T17:00Z
+3,Tue Aug 22 2023,19:00,CEST/+0200,TSV 1860 München,1-2,1-2,VfB Lübeck,2023-08-22T17:00Z
+3,Wed Aug 23 2023,19:00,CEST/+0200,1. FC Saarbrücken,4-3,1-2,SC Verl,2023-08-23T17:00Z
+3,Wed Aug 23 2023,19:00,CEST/+0200,Erzgebirge Aue,2-1,1-1,SV Sandhausen,2023-08-23T17:00Z
+3,Wed Aug 23 2023,19:00,CEST/+0200,SC Freiburg II,0-0,0-0,SpVgg Unterhaching,2023-08-23T17:00Z
+3,Wed Aug 23 2023,19:00,CEST/+0200,Jahn Regensburg,0-0,0-0,Borussia Dortmund II,2023-08-23T17:00Z
+3,Wed Aug 23 2023,19:00,CEST/+0200,Viktoria Köln,0-0,0-0,Rot-Weiss Essen,2023-08-23T17:00Z
+4,Fri Aug 25 2023,19:00,CEST/+0200,MSV Duisburg,1-1,1-1,SSV Ulm 1846,2023-08-25T17:00Z
+4,Sat Aug 26 2023,14:00,CEST/+0200,FC Ingolstadt 04,2-2,1-1,1. FC Saarbrücken,2023-08-26T12:00Z
+4,Sat Aug 26 2023,14:00,CEST/+0200,SC Verl,3-2,3-2,SC Freiburg II,2023-08-26T12:00Z
+4,Sat Aug 26 2023,14:00,CEST/+0200,Borussia Dortmund II,0-2,0-1,Dynamo Dresden,2023-08-26T12:00Z
+4,Sat Aug 26 2023,14:00,CEST/+0200,SpVgg Unterhaching,2-1,1-0,Viktoria Köln,2023-08-26T12:00Z
+4,Sat Aug 26 2023,14:00,CEST/+0200,VfB Lübeck,1-1,0-0,Erzgebirge Aue,2023-08-26T12:00Z
+4,Sat Aug 26 2023,16:30,CEST/+0200,SV Sandhausen,3-0,2-0,TSV 1860 München,2023-08-26T14:30Z
+4,Sun Aug 27 2023,16:30,CEST/+0200,Waldhof Mannheim,3-2,3-1,Hallescher FC,2023-08-27T14:30Z
+4,Sun Aug 27 2023,19:30,CEST/+0200,Rot-Weiss Essen,1-0,0-0,Preußen Münster,2023-08-27T17:30Z
+4,Sun Aug 27 2023,13:30,CEST/+0200,Arminia Bielefeld,1-1,1-1,Jahn Regensburg,2023-08-27T11:30Z
+5,Fri Sep 1 2023,19:00,CEST/+0200,1. FC Saarbrücken,2-0,1-0,Borussia Dortmund II,2023-09-01T17:00Z
+5,Sat Sep 2 2023,14:00,CEST/+0200,SC Freiburg II,0-2,0-0,Rot-Weiss Essen,2023-09-02T12:00Z
+5,Sat Sep 2 2023,14:00,CEST/+0200,Preußen Münster,1-3,0-1,Waldhof Mannheim,2023-09-02T12:00Z
+5,Sat Sep 2 2023,14:00,CEST/+0200,SC Verl,0-0,0-0,SpVgg Unterhaching,2023-09-02T12:00Z
+5,Sat Sep 2 2023,14:00,CEST/+0200,SSV Ulm 1846,3-0,0-0,VfB Lübeck,2023-09-02T12:00Z
+5,Sat Sep 2 2023,14:00,CEST/+0200,Dynamo Dresden,2-0,0-0,FC Ingolstadt 04,2023-09-02T12:00Z
+5,Sat Sep 2 2023,16:30,CEST/+0200,TSV 1860 München,1-2,0-0,Erzgebirge Aue,2023-09-02T14:30Z
+5,Sun Sep 3 2023,16:30,CEST/+0200,Jahn Regensburg,2-1,1-1,MSV Duisburg,2023-09-03T14:30Z
+5,Sun Sep 3 2023,19:30,CEST/+0200,Viktoria Köln,1-1,0-0,Arminia Bielefeld,2023-09-03T17:30Z
+5,Sun Sep 3 2023,13:30,CEST/+0200,Hallescher FC,4-1,1-1,SV Sandhausen,2023-09-03T11:30Z
+6,Fri Sep 15 2023,19:00,CEST/+0200,MSV Duisburg,2-3,2-1,SC Verl,2023-09-15T17:00Z
+6,Sat Sep 16 2023,14:00,CEST/+0200,Rot-Weiss Essen,0-0,0-0,Jahn Regensburg,2023-09-16T12:00Z
+6,Sat Sep 16 2023,14:00,CEST/+0200,Arminia Bielefeld,0-2,0-1,SC Freiburg II,2023-09-16T12:00Z
+6,Sat Sep 16 2023,14:00,CEST/+0200,VfB Lübeck,0-1,0-0,Dynamo Dresden,2023-09-16T12:00Z
+6,Sat Sep 16 2023,14:00,CEST/+0200,Borussia Dortmund II,2-1,1-1,Viktoria Köln,2023-09-16T12:00Z
+6,Sat Sep 16 2023,14:00,CEST/+0200,SV Sandhausen,0-2,0-1,Preußen Münster,2023-09-16T12:00Z
+6,Sat Sep 16 2023,16:30,CEST/+0200,FC Ingolstadt 04,2-1,0-1,TSV 1860 München,2023-09-16T14:30Z
+6,Sun Sep 17 2023,13:30,CEST/+0200,Erzgebirge Aue,3-1,0-1,Hallescher FC,2023-09-17T11:30Z
+6,Sun Sep 17 2023,16:30,CEST/+0200,Waldhof Mannheim,0-2,0-1,SSV Ulm 1846,2023-09-17T14:30Z
+6,Sun Sep 17 2023,19:30,CEST/+0200,SpVgg Unterhaching,0-0,0-0,1. FC Saarbrücken,2023-09-17T17:30Z
+7,Fri Sep 22 2023,19:00,CEST/+0200,SpVgg Unterhaching,1-2,0-1,Arminia Bielefeld,2023-09-22T17:00Z
+7,Sat Sep 23 2023,14:00,CEST/+0200,SC Verl,2-3,1-1,Borussia Dortmund II,2023-09-23T12:00Z
+7,Sat Sep 23 2023,14:00,CEST/+0200,1. FC Saarbrücken,1-1,0-0,Waldhof Mannheim,2023-09-23T12:00Z
+7,Sat Sep 23 2023,14:00,CEST/+0200,Preußen Münster,1-1,0-0,VfB Lübeck,2023-09-23T12:00Z
+7,Sat Sep 23 2023,14:00,CEST/+0200,Jahn Regensburg,1-2,0-1,SV Sandhausen,2023-09-23T12:00Z
+7,Sat Sep 23 2023,16:30,CEST/+0200,Hallescher FC,0-2,0-1,TSV 1860 München,2023-09-23T14:30Z
+7,Sat Sep 23 2023,14:00,CEST/+0200,Viktoria Köln,2-0,0-0,MSV Duisburg,2023-09-23T12:00Z
+7,Sun Sep 24 2023,13:30,CEST/+0200,SSV Ulm 1846,2-1,1-0,Rot-Weiss Essen,2023-09-24T11:30Z
+7,Sun Sep 24 2023,16:30,CEST/+0200,SC Freiburg II,1-4,0-1,FC Ingolstadt 04,2023-09-24T14:30Z
+7,Sun Sep 24 2023,19:30,CEST/+0200,Dynamo Dresden,2-1,1-0,Erzgebirge Aue,2023-09-24T17:30Z
+9,Wed Sep 27 2023,19:00,CEST/+0200,Borussia Dortmund II,1-0,1-0,MSV Duisburg,2023-09-27T17:00Z
+8,Fri Sep 29 2023,19:00,CEST/+0200,Arminia Bielefeld,2-6,1-1,1. FC Saarbrücken,2023-09-29T17:00Z
+8,Sat Sep 30 2023,14:00,CEST/+0200,FC Ingolstadt 04,4-0,2-0,SSV Ulm 1846,2023-09-30T12:00Z
+8,Sat Sep 30 2023,14:00,CEST/+0200,Waldhof Mannheim,3-1,1-1,SC Freiburg II,2023-09-30T12:00Z
+8,Sat Sep 30 2023,14:00,CEST/+0200,TSV 1860 München,1-0,1-0,SC Verl,2023-09-30T12:00Z
+8,Sat Sep 30 2023,14:00,CEST/+0200,MSV Duisburg,0-0,0-0,Preußen Münster,2023-09-30T12:00Z
+8,Sat Sep 30 2023,16:30,CEST/+0200,VfB Lübeck,2-2,2-0,Hallescher FC,2023-09-30T14:30Z
+8,Sat Sep 30 2023,14:00,CEST/+0200,SV Sandhausen,3-3,0-2,Viktoria Köln,2023-09-30T12:00Z
+8,Sun Oct 1 2023,19:30,CEST/+0200,Erzgebirge Aue,0-1,0-0,Jahn Regensburg,2023-10-01T17:30Z
+8,Sun Oct 1 2023,16:30,CEST/+0200,Borussia Dortmund II,2-2,2-1,SpVgg Unterhaching,2023-10-01T14:30Z
+8,Sun Oct 1 2023,13:30,CEST/+0200,Rot-Weiss Essen,3-1,1-0,Dynamo Dresden,2023-10-01T11:30Z
+9,Tue Oct 3 2023,19:00,CEST/+0200,SC Freiburg II,0-2,0-1,SV Sandhausen,2023-10-03T17:00Z
+9,Tue Oct 3 2023,19:00,CEST/+0200,Viktoria Köln,1-0,1-0,FC Ingolstadt 04,2023-10-03T17:00Z
+9,Tue Oct 3 2023,19:00,CEST/+0200,1. FC Saarbrücken,1-1,0-1,VfB Lübeck,2023-10-03T17:00Z
+9,Tue Oct 3 2023,19:00,CEST/+0200,SC Verl,3-1,2-0,Arminia Bielefeld,2023-10-03T17:00Z
+9,Tue Oct 3 2023,19:00,CEST/+0200,SSV Ulm 1846,1-0,1-0,TSV 1860 München,2023-10-03T17:00Z
+9,Wed Oct 4 2023,19:00,CEST/+0200,Dynamo Dresden,2-1,1-1,Hallescher FC,2023-10-04T17:00Z
+9,Wed Oct 4 2023,19:00,CEST/+0200,Preußen Münster,4-0,2-0,Erzgebirge Aue,2023-10-04T17:00Z
+9,Wed Oct 4 2023,19:00,CEST/+0200,SpVgg Unterhaching,4-0,2-0,Rot-Weiss Essen,2023-10-04T17:00Z
+9,Wed Oct 4 2023,19:00,CEST/+0200,Jahn Regensburg,2-0,1-0,Waldhof Mannheim,2023-10-04T17:00Z
+10,Fri Oct 6 2023,19:00,CEST/+0200,SV Sandhausen,1-2,1-0,SSV Ulm 1846,2023-10-06T17:00Z
+10,Sat Oct 7 2023,14:00,CEST/+0200,MSV Duisburg,1-0,0-0,SpVgg Unterhaching,2023-10-07T12:00Z
+10,Sat Oct 7 2023,14:00,CEST/+0200,Arminia Bielefeld,2-2,1-1,Borussia Dortmund II,2023-10-07T12:00Z
+10,Sat Oct 7 2023,14:00,CEST/+0200,TSV 1860 München,0-0,0-0,Dynamo Dresden,2023-10-07T12:00Z
+10,Sat Oct 7 2023,14:00,CEST/+0200,Rot-Weiss Essen,0-5,0-1,SC Verl,2023-10-07T12:00Z
+10,Sat Oct 7 2023,14:00,CEST/+0200,Waldhof Mannheim,1-1,0-0,Viktoria Köln,2023-10-07T12:00Z
+10,Sat Oct 7 2023,16:30,CEST/+0200,Erzgebirge Aue,2-0,0-0,1. FC Saarbrücken,2023-10-07T14:30Z
+10,Sun Oct 8 2023,16:30,CEST/+0200,Hallescher FC,1-4,0-3,Preußen Münster,2023-10-08T14:30Z
+10,Sun Oct 8 2023,19:30,CEST/+0200,FC Ingolstadt 04,2-4,1-1,Jahn Regensburg,2023-10-08T17:30Z
+10,Sun Oct 8 2023,13:30,CEST/+0200,VfB Lübeck,0-1,0-1,SC Freiburg II,2023-10-08T11:30Z
+11,Fri Oct 13 2023,19:00,CEST/+0200,Borussia Dortmund II,1-2,0-1,Rot-Weiss Essen,2023-10-13T17:00Z
+11,Sat Oct 14 2023,14:00,CEST/+0200,Jahn Regensburg,2-1,2-0,VfB Lübeck,2023-10-14T12:00Z
+11,Sat Oct 14 2023,14:00,CEST/+0200,SpVgg Unterhaching,0-0,0-0,SV Sandhausen,2023-10-14T12:00Z
+11,Sat Oct 14 2023,14:00,CEST/+0200,Viktoria Köln,2-2,0-0,Erzgebirge Aue,2023-10-14T12:00Z
+11,Sat Oct 14 2023,14:00,CEST/+0200,SC Verl,2-2,2-1,FC Ingolstadt 04,2023-10-14T12:00Z
+11,Sat Oct 14 2023,16:30,CEST/+0200,Arminia Bielefeld,3-1,0-1,Waldhof Mannheim,2023-10-14T14:30Z
+11,Sun Oct 15 2023,13:30,CEST/+0200,SSV Ulm 1846,2-3,2-2,Dynamo Dresden,2023-10-15T11:30Z
+11,Sun Oct 15 2023,16:30,CEST/+0200,Preußen Münster,1-1,0-0,TSV 1860 München,2023-10-15T14:30Z
+12,Fri Oct 20 2023,19:00,CEST/+0200,Waldhof Mannheim,1-3,1-2,Borussia Dortmund II,2023-10-20T17:00Z
+12,Sat Oct 21 2023,14:00,CEST/+0200,Dynamo Dresden,1-0,1-0,Preußen Münster,2023-10-21T12:00Z
+12,Sat Oct 21 2023,14:00,CEST/+0200,VfB Lübeck,3-2,2-0,Viktoria Köln,2023-10-21T12:00Z
+12,Sat Oct 21 2023,14:00,CEST/+0200,FC Ingolstadt 04,3-0,0-0,SpVgg Unterhaching,2023-10-21T12:00Z
+12,Sat Oct 21 2023,16:30,CEST/+0200,MSV Duisburg,0-1,0-1,Arminia Bielefeld,2023-10-21T14:30Z
+12,Sat Oct 21 2023,14:00,CEST/+0200,Hallescher FC,1-2,0-0,Jahn Regensburg,2023-10-21T12:00Z
+12,Sat Oct 21 2023,14:00,CEST/+0200,TSV 1860 München,2-0,1-0,SC Freiburg II,2023-10-21T12:00Z
+12,Sun Oct 22 2023,19:30,CEST/+0200,Erzgebirge Aue,1-2,1-0,SSV Ulm 1846,2023-10-22T17:30Z
+12,Sun Oct 22 2023,16:30,CEST/+0200,Rot-Weiss Essen,2-1,2-1,1. FC Saarbrücken,2023-10-22T14:30Z
+12,Sun Oct 22 2023,13:30,CEST/+0200,SV Sandhausen,2-2,1-1,SC Verl,2023-10-22T11:30Z
+13,Fri Oct 27 2023,19:00,CEST/+0200,SpVgg Unterhaching,3-0,1-0,Waldhof Mannheim,2023-10-27T17:00Z
+13,Sat Oct 28 2023,14:00,CEST/+0200,Arminia Bielefeld,4-0,2-0,FC Ingolstadt 04,2023-10-28T12:00Z
+13,Sat Oct 28 2023,14:00,CEST/+0200,Viktoria Köln,2-1,1-1,TSV 1860 München,2023-10-28T12:00Z
+13,Sat Oct 28 2023,14:00,CEST/+0200,SSV Ulm 1846,2-3,1-1,Hallescher FC,2023-10-28T12:00Z
+13,Sat Oct 28 2023,16:30,CEST/+0200,Jahn Regensburg,2-1,0-0,Preußen Münster,2023-10-28T14:30Z
+13,Sat Oct 28 2023,14:00,CEST/+0200,MSV Duisburg,1-2,0-0,Rot-Weiss Essen,2023-10-28T12:00Z
+13,Sat Oct 28 2023,14:00,CEST/+0200,Borussia Dortmund II,1-2,1-2,SV Sandhausen,2023-10-28T12:00Z
+13,Sun Oct 29 2023,19:30,CET/+0100,SC Freiburg II,0-1,0-1,Erzgebirge Aue,2023-10-29T18:30Z
+13,Sun Oct 29 2023,16:30,CET/+0100,SC Verl,4-0,1-0,VfB Lübeck,2023-10-29T15:30Z
+14,Fri Nov 3 2023,19:00,CET/+0100,Erzgebirge Aue,1-2,0-0,SC Verl,2023-11-03T18:00Z
+14,Sat Nov 4 2023,16:30,CET/+0100,FC Ingolstadt 04,1-1,0-1,Borussia Dortmund II,2023-11-04T15:30Z
+14,Sat Nov 4 2023,14:00,CET/+0100,Rot-Weiss Essen,2-1,1-0,Arminia Bielefeld,2023-11-04T13:00Z
+14,Sat Nov 4 2023,14:00,CET/+0100,Dynamo Dresden,2-0,1-0,SC Freiburg II,2023-11-04T13:00Z
+14,Sat Nov 4 2023,14:00,CET/+0100,SV Sandhausen,2-2,1-1,1. FC Saarbrücken,2023-11-04T13:00Z
+14,Sat Nov 4 2023,14:00,CET/+0100,VfB Lübeck,2-3,0-3,SpVgg Unterhaching,2023-11-04T13:00Z
+14,Sat Nov 4 2023,14:00,CET/+0100,TSV 1860 München,0-1,0-0,Jahn Regensburg,2023-11-04T13:00Z
+14,Sun Nov 5 2023,16:30,CET/+0100,Preußen Münster,3-2,2-0,SSV Ulm 1846,2023-11-05T15:30Z
+14,Sun Nov 5 2023,19:30,CET/+0100,Hallescher FC,2-1,0-1,Viktoria Köln,2023-11-05T18:30Z
+14,Sun Nov 5 2023,13:30,CET/+0100,Waldhof Mannheim,0-0,0-0,MSV Duisburg,2023-11-05T12:30Z
+15,Fri Nov 10 2023,19:10,CET/+0100,Viktoria Köln,1-5,0-3,Dynamo Dresden,2023-11-10T18:10Z
+15,Sat Nov 11 2023,14:00,CET/+0100,Arminia Bielefeld,1-1,1-0,SV Sandhausen,2023-11-11T13:00Z
+15,Sat Nov 11 2023,16:30,CET/+0100,Borussia Dortmund II,1-1,0-0,VfB Lübeck,2023-11-11T15:30Z
+15,Sat Nov 11 2023,14:00,CET/+0100,MSV Duisburg,1-2,0-0,FC Ingolstadt 04,2023-11-11T13:00Z
+15,Sat Nov 11 2023,14:00,CET/+0100,SpVgg Unterhaching,0-0,0-0,Erzgebirge Aue,2023-11-11T13:00Z
+15,Sat Nov 11 2023,14:00,CET/+0100,1. FC Saarbrücken,2-3,2-2,TSV 1860 München,2023-11-11T13:00Z
+15,Sat Nov 11 2023,14:00,CET/+0100,SC Verl,3-2,3-2,Hallescher FC,2023-11-11T13:00Z
+15,Sun Nov 12 2023,16:30,CET/+0100,Rot-Weiss Essen,2-0,0-0,Waldhof Mannheim,2023-11-12T15:30Z
+15,Sun Nov 12 2023,19:30,CET/+0100,Jahn Regensburg,2-0,1-0,SSV Ulm 1846,2023-11-12T18:30Z
+15,Sun Nov 12 2023,13:30,CET/+0100,SC Freiburg II,2-2,0-0,Preußen Münster,2023-11-12T12:30Z
+13,Sun Nov 19 2023,13:30,CET/+0100,1. FC Saarbrücken,1-0,1-0,Dynamo Dresden,2023-11-19T12:30Z
+16,Fri Nov 24 2023,19:00,CET/+0100,Waldhof Mannheim,1-2,1-0,SC Verl,2023-11-24T18:00Z
+16,Sat Nov 25 2023,14:00,CET/+0100,Hallescher FC,0-2,0-2,1. FC Saarbrücken,2023-11-25T13:00Z
+16,Sat Nov 25 2023,16:30,CET/+0100,SSV Ulm 1846,2-1,1-1,SC Freiburg II,2023-11-25T15:30Z
+16,Sat Nov 25 2023,14:00,CET/+0100,FC Ingolstadt 04,2-1,2-1,Rot-Weiss Essen,2023-11-25T13:00Z
+16,Sat Nov 25 2023,14:00,CET/+0100,TSV 1860 München,0-1,0-1,SpVgg Unterhaching,2023-11-25T13:00Z
+16,Sat Nov 25 2023,14:00,CET/+0100,SV Sandhausen,2-0,2-0,MSV Duisburg,2023-11-25T13:00Z
+16,Sat Nov 25 2023,14:00,CET/+0100,Erzgebirge Aue,2-0,2-0,Borussia Dortmund II,2023-11-25T13:00Z
+16,Sun Nov 26 2023,19:30,CET/+0100,Preußen Münster,3-3,2-2,Viktoria Köln,2023-11-26T18:30Z
+16,Sun Nov 26 2023,13:30,CET/+0100,VfB Lübeck,2-2,0-0,Arminia Bielefeld,2023-11-26T12:30Z
+16,Sun Nov 26 2023,16:30,CET/+0100,Dynamo Dresden,0-1,0-0,Jahn Regensburg,2023-11-26T15:30Z
+11,Tue Nov 28 2023,19:00,CET/+0100,SC Freiburg II,1-2,1-1,Hallescher FC,2023-11-28T18:00Z
+11,Wed Nov 29 2023,19:00,CET/+0100,1. FC Saarbrücken,0-0,0-0,MSV Duisburg,2023-11-29T18:00Z
+17,Sat Dec 2 2023,14:00,CET/+0100,1. FC Saarbrücken,0-0,0-0,Preußen Münster,2023-12-02T13:00Z
+17,Sat Dec 2 2023,14:00,CET/+0100,Waldhof Mannheim,1-1,1-0,FC Ingolstadt 04,2023-12-02T13:00Z
+17,Sat Dec 2 2023,14:00,CET/+0100,Arminia Bielefeld,2-2,1-2,Erzgebirge Aue,2023-12-02T13:00Z
+17,Sat Dec 2 2023,14:00,CET/+0100,Rot-Weiss Essen,1-2,0-1,SV Sandhausen,2023-12-02T13:00Z
+17,Sat Dec 2 2023,14:00,CET/+0100,MSV Duisburg,1-0,0-0,VfB Lübeck,2023-12-02T13:00Z
+17,Sat Dec 2 2023,16:30,CET/+0100,Viktoria Köln,1-3,0-2,SSV Ulm 1846,2023-12-02T15:30Z
+17,Sun Dec 3 2023,13:30,CET/+0100,SC Verl,1-0,0-0,Dynamo Dresden,2023-12-03T12:30Z
+17,Sun Dec 3 2023,16:30,CET/+0100,Jahn Regensburg,3-2,2-1,SC Freiburg II,2023-12-03T15:30Z
+17,Sun Dec 3 2023,19:30,CET/+0100,Borussia Dortmund II,3-0,0-0,TSV 1860 München,2023-12-03T18:30Z
+18,Fri Dec 8 2023,19:00,CET/+0100,Hallescher FC,2-2,1-1,Arminia Bielefeld,2023-12-08T18:00Z
+18,Sat Dec 9 2023,14:00,CET/+0100,SSV Ulm 1846,1-1,1-0,Borussia Dortmund II,2023-12-09T13:00Z
+18,Sat Dec 9 2023,14:00,CET/+0100,SV Sandhausen,3-0,1-0,Waldhof Mannheim,2023-12-09T13:00Z
+18,Sat Dec 9 2023,14:00,CET/+0100,SC Freiburg II,0-4,0-1,1. FC Saarbrücken,2023-12-09T13:00Z
+18,Sat Dec 9 2023,14:00,CET/+0100,VfB Lübeck,0-4,0-3,FC Ingolstadt 04,2023-12-09T13:00Z
+18,Sat Dec 9 2023,16:30,CET/+0100,Erzgebirge Aue,1-1,1-0,MSV Duisburg,2023-12-09T15:30Z
+18,Sun Dec 10 2023,19:30,CET/+0100,Preußen Münster,3-1,0-0,SC Verl,2023-12-10T18:30Z
+18,Sun Dec 10 2023,13:30,CET/+0100,Jahn Regensburg,1-1,1-0,Viktoria Köln,2023-12-10T12:30Z
+18,Sun Dec 10 2023,16:30,CET/+0100,Dynamo Dresden,2-1,1-1,SpVgg Unterhaching,2023-12-10T15:30Z
+19,Fri Dec 15 2023,19:00,CET/+0100,Rot-Weiss Essen,1-0,1-0,VfB Lübeck,2023-12-15T18:00Z
+19,Sat Dec 16 2023,14:00,CET/+0100,SC Verl,0-3,0-2,SSV Ulm 1846,2023-12-16T13:00Z
+19,Sat Dec 16 2023,16:30,CET/+0100,SpVgg Unterhaching,3-2,1-1,Preußen Münster,2023-12-16T15:30Z
+19,Sat Dec 16 2023,14:00,CET/+0100,1. FC Saarbrücken,2-2,0-0,Jahn Regensburg,2023-12-16T13:00Z
+19,Sat Dec 16 2023,14:00,CET/+0100,Borussia Dortmund II,2-1,2-0,Hallescher FC,2023-12-16T13:00Z
+19,Sat Dec 16 2023,14:00,CET/+0100,Waldhof Mannheim,3-0,2-0,Erzgebirge Aue,2023-12-16T13:00Z
+19,Sat Dec 16 2023,14:00,CET/+0100,FC Ingolstadt 04,4-0,0-0,SV Sandhausen,2023-12-16T13:00Z
+19,Sun Dec 17 2023,19:30,CET/+0100,Viktoria Köln,2-0,1-0,SC Freiburg II,2023-12-17T18:30Z
+19,Sun Dec 17 2023,16:30,CET/+0100,Arminia Bielefeld,2-0,2-0,TSV 1860 München,2023-12-17T15:30Z
+19,Sun Dec 17 2023,13:30,CET/+0100,MSV Duisburg,2-4,1-1,Dynamo Dresden,2023-12-17T12:30Z
+20,Tue Dec 19 2023,19:00,CET/+0100,SpVgg Unterhaching,1-2,1-0,Jahn Regensburg,2023-12-19T18:00Z
+20,Tue Dec 19 2023,19:00,CET/+0100,FC Ingolstadt 04,1-1,1-0,Erzgebirge Aue,2023-12-19T18:00Z
+20,Tue Dec 19 2023,19:00,CET/+0100,SV Sandhausen,1-2,0-2,VfB Lübeck,2023-12-19T18:00Z
+20,Tue Dec 19 2023,19:00,CET/+0100,1. FC Saarbrücken,2-1,1-0,SSV Ulm 1846,2023-12-19T18:00Z
+20,Tue Dec 19 2023,19:00,CET/+0100,Rot-Weiss Essen,3-2,0-1,Hallescher FC,2023-12-19T18:00Z
+20,Wed Dec 20 2023,19:00,CET/+0100,MSV Duisburg,4-2,3-1,SC Freiburg II,2023-12-20T18:00Z
+20,Wed Dec 20 2023,19:00,CET/+0100,SC Verl,1-1,0-0,Viktoria Köln,2023-12-20T18:00Z
+20,Wed Dec 20 2023,19:00,CET/+0100,Arminia Bielefeld,0-1,0-0,Dynamo Dresden,2023-12-20T18:00Z
+20,Wed Dec 20 2023,19:00,CET/+0100,Waldhof Mannheim,1-0,0-0,TSV 1860 München,2023-12-20T18:00Z
+21,Fri Jan 19 2024,19:00,CET/+0100,Erzgebirge Aue,2-1,0-1,Rot-Weiss Essen,2024-01-19T18:00Z
+21,Sat Jan 20 2024,14:00,CET/+0100,VfB Lübeck,2-1,0-0,Waldhof Mannheim,2024-01-20T13:00Z
+21,Sat Jan 20 2024,16:30,CET/+0100,TSV 1860 München,4-1,2-0,MSV Duisburg,2024-01-20T15:30Z
+21,Sat Jan 20 2024,14:00,CET/+0100,Dynamo Dresden,0-1,0-1,SV Sandhausen,2024-01-20T13:00Z
+21,Sat Jan 20 2024,14:00,CET/+0100,Jahn Regensburg,1-1,1-1,SC Verl,2024-01-20T13:00Z
+21,Sat Jan 20 2024,14:00,CET/+0100,Hallescher FC,3-1,3-1,FC Ingolstadt 04,2024-01-20T13:00Z
+21,Sun Jan 21 2024,16:30,CET/+0100,SSV Ulm 1846,2-0,1-0,SpVgg Unterhaching,2024-01-21T15:30Z
+21,Sun Jan 21 2024,13:30,CET/+0100,Preußen Münster,2-1,1-1,Arminia Bielefeld,2024-01-21T12:30Z
+21,Sun Jan 21 2024,19:30,CET/+0100,SC Freiburg II,0-0,0-0,Borussia Dortmund II,2024-01-21T18:30Z
+22,Tue Jan 23 2024,19:00,CET/+0100,MSV Duisburg,2-3,2-1,Hallescher FC,2024-01-23T18:00Z
+22,Tue Jan 23 2024,19:00,CET/+0100,SC Verl,0-0,0-0,1. FC Saarbrücken,2024-01-23T18:00Z
+22,Tue Jan 23 2024,19:00,CET/+0100,Waldhof Mannheim,0-2,0-1,Dynamo Dresden,2024-01-23T18:00Z
+22,Tue Jan 23 2024,19:00,CET/+0100,Rot-Weiss Essen,3-1,0-0,Viktoria Köln,2024-01-23T18:00Z
+22,Tue Jan 23 2024,19:00,CET/+0100,VfB Lübeck,1-1,0-0,TSV 1860 München,2024-01-23T18:00Z
+22,Wed Jan 24 2024,19:00,CET/+0100,FC Ingolstadt 04,1-1,1-1,Preußen Münster,2024-01-24T18:00Z
+22,Wed Jan 24 2024,19:00,CET/+0100,Borussia Dortmund II,1-0,0-0,Jahn Regensburg,2024-01-24T18:00Z
+22,Wed Jan 24 2024,19:00,CET/+0100,SpVgg Unterhaching,1-0,1-0,SC Freiburg II,2024-01-24T18:00Z
+22,Wed Jan 24 2024,19:00,CET/+0100,SV Sandhausen,1-0,1-0,Erzgebirge Aue,2024-01-24T18:00Z
+22,Wed Jan 24 2024,19:00,CET/+0100,Arminia Bielefeld,0-2,0-1,SSV Ulm 1846,2024-01-24T18:00Z
+23,Fri Jan 26 2024,19:00,CET/+0100,Hallescher FC,1-4,0-1,Waldhof Mannheim,2024-01-26T18:00Z
+23,Sat Jan 27 2024,14:00,CET/+0100,Viktoria Köln,2-1,2-0,SpVgg Unterhaching,2024-01-27T13:00Z
+23,Sat Jan 27 2024,14:00,CET/+0100,SC Freiburg II,0-1,0-1,SC Verl,2024-01-27T13:00Z
+23,Sat Jan 27 2024,14:00,CET/+0100,SSV Ulm 1846,2-2,1-0,MSV Duisburg,2024-01-27T13:00Z
+23,Sat Jan 27 2024,14:00,CET/+0100,Jahn Regensburg,2-0,2-0,Arminia Bielefeld,2024-01-27T13:00Z
+23,Sat Jan 27 2024,14:00,CET/+0100,1. FC Saarbrücken,0-2,0-0,FC Ingolstadt 04,2024-01-27T13:00Z
+23,Sat Jan 27 2024,16:30,CET/+0100,Erzgebirge Aue,2-0,1-0,VfB Lübeck,2024-01-27T15:30Z
+23,Sun Jan 28 2024,16:30,CET/+0100,TSV 1860 München,1-1,0-1,SV Sandhausen,2024-01-28T15:30Z
+23,Sun Jan 28 2024,19:30,CET/+0100,Dynamo Dresden,1-2,0-1,Borussia Dortmund II,2024-01-28T18:30Z
+23,Sun Jan 28 2024,13:30,CET/+0100,Preußen Münster,2-1,1-1,Rot-Weiss Essen,2024-01-28T12:30Z
+24,Fri Feb 2 2024,19:00,CET/+0100,Borussia Dortmund II,1-1,1-0,1. FC Saarbrücken,2024-02-02T18:00Z
+24,Sat Feb 3 2024,14:00,CET/+0100,SpVgg Unterhaching,1-0,0-0,SC Verl,2024-02-03T13:00Z
+24,Sat Feb 3 2024,14:00,CET/+0100,SV Sandhausen,1-1,1-0,Hallescher FC,2024-02-03T13:00Z
+24,Sat Feb 3 2024,16:30,CET/+0100,Arminia Bielefeld,0-2,0-1,Viktoria Köln,2024-02-03T15:30Z
+24,Sat Feb 3 2024,14:00,CET/+0100,VfB Lübeck,1-1,1-0,SSV Ulm 1846,2024-02-03T13:00Z
+24,Sat Feb 3 2024,14:00,CET/+0100,Erzgebirge Aue,0-0,0-0,TSV 1860 München,2024-02-03T13:00Z
+24,Sat Feb 3 2024,14:00,CET/+0100,Rot-Weiss Essen,4-3,1-2,SC Freiburg II,2024-02-03T13:00Z
+24,Sun Feb 4 2024,16:30,CET/+0100,Waldhof Mannheim,2-2,1-1,Preußen Münster,2024-02-04T15:30Z
+24,Sun Feb 4 2024,19:30,CET/+0100,MSV Duisburg,0-1,0-1,Jahn Regensburg,2024-02-04T18:30Z
+24,Sun Feb 4 2024,13:30,CET/+0100,FC Ingolstadt 04,2-1,2-0,Dynamo Dresden,2024-02-04T12:30Z
+18,Tue Feb 6 2024,19:00,CET/+0100,TSV 1860 München,2-0,1-0,Rot-Weiss Essen,2024-02-06T18:00Z
+17,Wed Feb 7 2024,19:00,CET/+0100,SpVgg Unterhaching,2-0,0-0,Hallescher FC,2024-02-07T18:00Z
+25,Fri Feb 9 2024,19:00,CET/+0100,Viktoria Köln,1-3,1-2,Borussia Dortmund II,2024-02-09T18:00Z
+25,Sat Feb 10 2024,14:15,CET/+0100,Dynamo Dresden,7-2,4-1,VfB Lübeck,2024-02-10T13:15Z
+25,Sat Feb 10 2024,14:00,CET/+0100,SC Verl,1-3,1-1,MSV Duisburg,2024-02-10T13:00Z
+25,Sat Feb 10 2024,14:00,CET/+0100,Jahn Regensburg,1-3,0-1,Rot-Weiss Essen,2024-02-10T13:00Z
+25,Sat Feb 10 2024,16:30,CET/+0100,SC Freiburg II,0-3,0-1,Arminia Bielefeld,2024-02-10T15:30Z
+25,Sat Feb 10 2024,14:00,CET/+0100,SSV Ulm 1846,3-1,1-1,Waldhof Mannheim,2024-02-10T13:00Z
+25,Sat Feb 10 2024,14:00,CET/+0100,Preußen Münster,1-1,0-1,SV Sandhausen,2024-02-10T13:00Z
+25,Sun Feb 11 2024,16:30,CET/+0100,TSV 1860 München,3-1,1-0,FC Ingolstadt 04,2024-02-11T15:30Z
+25,Sun Feb 11 2024,13:30,CET/+0100,Hallescher FC,2-3,2-2,Erzgebirge Aue,2024-02-11T12:30Z
+20,Tue Feb 13 2024,19:00,CET/+0100,Borussia Dortmund II,2-3,1-1,Preußen Münster,2024-02-13T18:00Z
+26,Fri Feb 16 2024,19:00,CET/+0100,FC Ingolstadt 04,2-3,2-1,SC Freiburg II,2024-02-16T18:00Z
+26,Sat Feb 17 2024,14:00,CET/+0100,SV Sandhausen,6-3,3-3,Jahn Regensburg,2024-02-17T13:00Z
+26,Sat Feb 17 2024,14:00,CET/+0100,Rot-Weiss Essen,0-2,0-0,SSV Ulm 1846,2024-02-17T13:00Z
+26,Sat Feb 17 2024,14:00,CET/+0100,MSV Duisburg,1-0,1-0,Viktoria Köln,2024-02-17T13:00Z
+26,Sat Feb 17 2024,14:00,CET/+0100,Borussia Dortmund II,5-2,3-1,SC Verl,2024-02-17T13:00Z
+26,Sat Feb 17 2024,14:00,CET/+0100,VfB Lübeck,0-3,0-3,Preußen Münster,2024-02-17T13:00Z
+26,Sat Feb 17 2024,16:30,CET/+0100,Arminia Bielefeld,1-2,0-2,SpVgg Unterhaching,2024-02-17T15:30Z
+26,Sun Feb 18 2024,19:30,CET/+0100,TSV 1860 München,1-0,1-0,Hallescher FC,2024-02-18T18:30Z
+26,Sun Feb 18 2024,13:30,CET/+0100,Waldhof Mannheim,0-2,0-2,1. FC Saarbrücken,2024-02-18T12:30Z
+26,Sun Feb 18 2024,16:30,CET/+0100,Erzgebirge Aue,2-1,1-0,Dynamo Dresden,2024-02-18T15:30Z
+21,Wed Feb 21 2024,19:00,CET/+0100,Viktoria Köln,2-5,0-1,1. FC Saarbrücken,2024-02-21T18:00Z
+27,Fri Feb 23 2024,19:00,CET/+0100,Preußen Münster,3-1,0-0,MSV Duisburg,2024-02-23T18:00Z
+27,Sat Feb 24 2024,14:00,CET/+0100,Jahn Regensburg,0-0,0-0,Erzgebirge Aue,2024-02-24T13:00Z
+27,Sat Feb 24 2024,14:00,CET/+0100,Viktoria Köln,2-1,0-0,SV Sandhausen,2024-02-24T13:00Z
+27,Sat Feb 24 2024,14:00,CET/+0100,SSV Ulm 1846,0-0,0-0,FC Ingolstadt 04,2024-02-24T13:00Z
+27,Sat Feb 24 2024,16:30,CET/+0100,SC Verl,0-1,0-0,TSV 1860 München,2024-02-24T15:30Z
+27,Sat Feb 24 2024,14:00,CET/+0100,Dynamo Dresden,2-2,1-2,Rot-Weiss Essen,2024-02-24T13:00Z
+27,Sat Feb 24 2024,14:00,CET/+0100,SpVgg Unterhaching,3-4,1-0,Borussia Dortmund II,2024-02-24T13:00Z
+27,Sun Feb 25 2024,19:30,CET/+0100,SC Freiburg II,1-0,1-0,Waldhof Mannheim,2024-02-25T18:30Z
+27,Sun Feb 25 2024,13:30,CET/+0100,Hallescher FC,3-0,2-0,VfB Lübeck,2024-02-25T12:30Z
+27,Sun Feb 25 2024,16:30,CET/+0100,1. FC Saarbrücken,1-1,0-0,Arminia Bielefeld,2024-02-25T15:30Z
+28,Fri Mar 1 2024,19:00,CET/+0100,SV Sandhausen,1-0,0-0,SC Freiburg II,2024-03-01T18:00Z
+28,Sat Mar 2 2024,14:00,CET/+0100,Waldhof Mannheim,3-1,0-1,Jahn Regensburg,2024-03-02T13:00Z
+28,Sat Mar 2 2024,14:00,CET/+0100,Hallescher FC,1-0,0-0,Dynamo Dresden,2024-03-02T13:00Z
+28,Sat Mar 2 2024,14:00,CET/+0100,Erzgebirge Aue,2-3,1-2,Preußen Münster,2024-03-02T13:00Z
+28,Sat Mar 2 2024,14:00,CET/+0100,VfB Lübeck,0-0,0-0,1. FC Saarbrücken,2024-03-02T13:00Z
+28,Sat Mar 2 2024,16:30,CET/+0100,Rot-Weiss Essen,1-3,1-2,SpVgg Unterhaching,2024-03-02T15:30Z
+28,Sat Mar 2 2024,14:00,CET/+0100,TSV 1860 München,0-1,0-0,SSV Ulm 1846,2024-03-02T13:00Z
+28,Sun Mar 3 2024,19:30,CET/+0100,MSV Duisburg,2-1,2-0,Borussia Dortmund II,2024-03-03T18:30Z
+28,Sun Mar 3 2024,13:30,CET/+0100,FC Ingolstadt 04,1-3,1-0,Viktoria Köln,2024-03-03T12:30Z
+28,Sun Mar 3 2024,16:30,CET/+0100,Arminia Bielefeld,0-0,0-0,SC Verl,2024-03-03T15:30Z
+29,Fri Mar 8 2024,19:00,CET/+0100,Dynamo Dresden,2-1,1-1,TSV 1860 München,2024-03-08T18:00Z
+29,Sat Mar 9 2024,16:30,CET/+0100,Preußen Münster,1-0,0-0,Hallescher FC,2024-03-09T15:30Z
+29,Sat Mar 9 2024,14:00,CET/+0100,Borussia Dortmund II,0-2,0-2,Arminia Bielefeld,2024-03-09T13:00Z
+29,Sat Mar 9 2024,14:00,CET/+0100,SC Freiburg II,3-0,1-0,VfB Lübeck,2024-03-09T13:00Z
+29,Sat Mar 9 2024,14:00,CET/+0100,1. FC Saarbrücken,2-0,2-0,Erzgebirge Aue,2024-03-09T13:00Z
+29,Sat Mar 9 2024,14:00,CET/+0100,Jahn Regensburg,1-1,0-1,FC Ingolstadt 04,2024-03-09T13:00Z
+29,Sat Mar 9 2024,14:00,CET/+0100,Viktoria Köln,2-2,1-0,Waldhof Mannheim,2024-03-09T13:00Z
+29,Sun Mar 10 2024,13:30,CET/+0100,SpVgg Unterhaching,1-0,0-0,MSV Duisburg,2024-03-10T12:30Z
+29,Sun Mar 10 2024,16:30,CET/+0100,SC Verl,1-1,0-0,Rot-Weiss Essen,2024-03-10T15:30Z
+29,Sun Mar 10 2024,19:30,CET/+0100,SSV Ulm 1846,2-0,2-0,SV Sandhausen,2024-03-10T18:30Z
+30,Fri Mar 15 2024,19:00,CET/+0100,Waldhof Mannheim,1-0,1-0,Arminia Bielefeld,2024-03-15T18:00Z
+30,Sat Mar 16 2024,16:30,CET/+0100,Hallescher FC,2-2,2-1,SC Freiburg II,2024-03-16T15:30Z
+30,Sat Mar 16 2024,14:00,CET/+0100,VfB Lübeck,1-0,1-0,Jahn Regensburg,2024-03-16T13:00Z
+30,Sat Mar 16 2024,14:00,CET/+0100,Erzgebirge Aue,2-1,0-1,Viktoria Köln,2024-03-16T13:00Z
+30,Sat Mar 16 2024,14:00,CET/+0100,Dynamo Dresden,0-0,0-0,SSV Ulm 1846,2024-03-16T13:00Z
+30,Sat Mar 16 2024,14:00,CET/+0100,TSV 1860 München,1-2,0-1,Preußen Münster,2024-03-16T13:00Z
+30,Sat Mar 16 2024,14:00,CET/+0100,MSV Duisburg,2-0,1-0,1. FC Saarbrücken,2024-03-16T13:00Z
+30,Sun Mar 17 2024,13:30,CET/+0100,Rot-Weiss Essen,4-0,1-0,Borussia Dortmund II,2024-03-17T12:30Z
+30,Sun Mar 17 2024,16:30,CET/+0100,SV Sandhausen,1-0,0-0,SpVgg Unterhaching,2024-03-17T15:30Z
+30,Sun Mar 17 2024,19:30,CET/+0100,FC Ingolstadt 04,0-1,0-1,SC Verl,2024-03-17T18:30Z
+31,Sat Mar 30 2024,14:00,CET/+0100,Jahn Regensburg,2-0,1-0,Hallescher FC,2024-03-30T13:00Z
+31,Sat Mar 30 2024,14:00,CET/+0100,Borussia Dortmund II,1-2,0-0,Waldhof Mannheim,2024-03-30T13:00Z
+31,Sat Mar 30 2024,14:00,CET/+0100,SpVgg Unterhaching,0-3,0-0,FC Ingolstadt 04,2024-03-30T13:00Z
+31,Sat Mar 30 2024,14:00,CET/+0100,Preußen Münster,1-0,0-0,Dynamo Dresden,2024-03-30T13:00Z
+31,Sat Mar 30 2024,14:00,CET/+0100,SSV Ulm 1846,2-2,1-0,Erzgebirge Aue,2024-03-30T13:00Z
+31,Sat Mar 30 2024,16:30,CET/+0100,SC Freiburg II,1-0,0-0,TSV 1860 München,2024-03-30T15:30Z
+31,Sun Mar 31 2024,19:30,CEST/+0200,Arminia Bielefeld,2-0,2-0,MSV Duisburg,2024-03-31T17:30Z
+31,Sun Mar 31 2024,13:30,CEST/+0200,Viktoria Köln,1-0,0-0,VfB Lübeck,2024-03-31T11:30Z
+31,Sun Mar 31 2024,16:30,CEST/+0200,SC Verl,4-4,1-2,SV Sandhausen,2024-03-31T14:30Z
+32,Fri Apr 5 2024,19:00,CEST/+0200,FC Ingolstadt 04,1-1,0-1,Arminia Bielefeld,2024-04-05T17:00Z
+32,Sat Apr 6 2024,15:00,CEST/+0200,TSV 1860 München,3-1,2-0,Viktoria Köln,2024-04-06T13:00Z
+32,Sat Apr 6 2024,14:00,CEST/+0200,VfB Lübeck,0-0,0-0,SC Verl,2024-04-06T12:00Z
+32,Sat Apr 6 2024,14:00,CEST/+0200,Preußen Münster,1-3,0-3,Jahn Regensburg,2024-04-06T12:00Z
+32,Sat Apr 6 2024,14:00,CEST/+0200,Erzgebirge Aue,2-1,0-0,SC Freiburg II,2024-04-06T12:00Z
+32,Sat Apr 6 2024,14:00,CEST/+0200,SV Sandhausen,3-2,1-0,Borussia Dortmund II,2024-04-06T12:00Z
+32,Sat Apr 6 2024,16:30,CEST/+0200,Waldhof Mannheim,6-1,0-1,SpVgg Unterhaching,2024-04-06T14:30Z
+32,Sun Apr 7 2024,19:30,CEST/+0200,Hallescher FC,0-2,0-1,SSV Ulm 1846,2024-04-07T17:30Z
+32,Sun Apr 7 2024,16:30,CEST/+0200,Rot-Weiss Essen,4-1,1-1,MSV Duisburg,2024-04-07T14:30Z
+32,Sun Apr 7 2024,13:30,CEST/+0200,Dynamo Dresden,1-3,0-1,1. FC Saarbrücken,2024-04-07T11:30Z
+25,Wed Apr 10 2024,19:00,CEST/+0200,1. FC Saarbrücken,2-1,1-1,SpVgg Unterhaching,2024-04-10T17:00Z
+33,Fri Apr 12 2024,19:00,CEST/+0200,MSV Duisburg,1-1,1-0,Waldhof Mannheim,2024-04-12T17:00Z
+33,Sat Apr 13 2024,14:00,CEST/+0200,Viktoria Köln,4-2,0-0,Hallescher FC,2024-04-13T12:00Z
+33,Sat Apr 13 2024,14:00,CEST/+0200,SC Verl,3-1,1-0,Erzgebirge Aue,2024-04-13T12:00Z
+33,Sat Apr 13 2024,14:00,CEST/+0200,SSV Ulm 1846,2-0,1-0,Preußen Münster,2024-04-13T12:00Z
+33,Sat Apr 13 2024,14:00,CEST/+0200,SpVgg Unterhaching,4-1,3-0,VfB Lübeck,2024-04-13T12:00Z
+33,Sat Apr 13 2024,14:00,CEST/+0200,Borussia Dortmund II,1-1,1-0,FC Ingolstadt 04,2024-04-13T12:00Z
+33,Sat Apr 13 2024,16:30,CEST/+0200,1. FC Saarbrücken,4-1,0-1,SV Sandhausen,2024-04-13T14:30Z
+33,Sun Apr 14 2024,13:30,CEST/+0200,Jahn Regensburg,1-1,0-0,TSV 1860 München,2024-04-14T11:30Z
+33,Sun Apr 14 2024,16:30,CEST/+0200,Arminia Bielefeld,1-1,1-0,Rot-Weiss Essen,2024-04-14T14:30Z
+33,Sun Apr 14 2024,19:30,CEST/+0200,SC Freiburg II,1-1,1-1,Dynamo Dresden,2024-04-14T17:30Z
+34,Fri Apr 19 2024,19:00,CEST/+0200,SV Sandhausen,1-2,0-0,Arminia Bielefeld,2024-04-19T17:00Z
+34,Sat Apr 20 2024,16:30,CEST/+0200,FC Ingolstadt 04,2-0,1-0,MSV Duisburg,2024-04-20T14:30Z
+34,Sat Apr 20 2024,14:00,CEST/+0200,Erzgebirge Aue,2-1,1-0,SpVgg Unterhaching,2024-04-20T12:00Z
+34,Sat Apr 20 2024,14:00,CEST/+0200,TSV 1860 München,1-1,0-1,1. FC Saarbrücken,2024-04-20T12:00Z
+34,Sat Apr 20 2024,14:00,CEST/+0200,Dynamo Dresden,0-2,0-0,Viktoria Köln,2024-04-20T12:00Z
+34,Sat Apr 20 2024,14:00,CEST/+0200,Hallescher FC,1-0,1-0,SC Verl,2024-04-20T12:00Z
+34,Sat Apr 20 2024,14:00,CEST/+0200,VfB Lübeck,0-5,0-3,Borussia Dortmund II,2024-04-20T12:00Z
+34,Sun Apr 21 2024,13:30,CEST/+0200,Waldhof Mannheim,0-2,0-1,Rot-Weiss Essen,2024-04-21T11:30Z
+34,Sun Apr 21 2024,16:30,CEST/+0200,Preußen Münster,2-0,1-0,SC Freiburg II,2024-04-21T14:30Z
+34,Sun Apr 21 2024,19:30,CEST/+0200,SSV Ulm 1846,1-0,0-0,Jahn Regensburg,2024-04-21T17:30Z
+31,Wed Apr 24 2024,19:00,CEST/+0200,1. FC Saarbrücken,1-1,0-1,Rot-Weiss Essen,2024-04-24T17:00Z
+35,Fri Apr 26 2024,19:00,CEST/+0200,Arminia Bielefeld,0-0,0-0,VfB Lübeck,2024-04-26T17:00Z
+35,Sat Apr 27 2024,14:00,CEST/+0200,Jahn Regensburg,1-1,0-0,Dynamo Dresden,2024-04-27T12:00Z
+35,Sat Apr 27 2024,14:00,CEST/+0200,MSV Duisburg,3-1,2-0,SV Sandhausen,2024-04-27T12:00Z
+35,Sat Apr 27 2024,14:00,CEST/+0200,Borussia Dortmund II,2-2,1-1,Erzgebirge Aue,2024-04-27T12:00Z
+35,Sat Apr 27 2024,14:00,CEST/+0200,Viktoria Köln,3-5,2-1,Preußen Münster,2024-04-27T12:00Z
+35,Sat Apr 27 2024,14:00,CEST/+0200,1. FC Saarbrücken,0-1,0-0,Hallescher FC,2024-04-27T12:00Z
+35,Sat Apr 27 2024,16:30,CEST/+0200,SC Verl,1-1,0-1,Waldhof Mannheim,2024-04-27T14:30Z
+35,Sun Apr 28 2024,16:30,CEST/+0200,SC Freiburg II,1-2,0-0,SSV Ulm 1846,2024-04-28T14:30Z
+35,Sun Apr 28 2024,19:30,CEST/+0200,SpVgg Unterhaching,2-0,1-0,TSV 1860 München,2024-04-28T17:30Z
+35,Sun Apr 28 2024,13:30,CEST/+0200,Rot-Weiss Essen,4-0,3-0,FC Ingolstadt 04,2024-04-28T11:30Z
+36,Fri May 3 2024,19:00,CEST/+0200,VfB Lübeck,5-3,1-1,MSV Duisburg,2024-05-03T17:00Z
+36,Sat May 4 2024,14:00,CEST/+0200,SC Freiburg II,3-1,1-0,Jahn Regensburg,2024-05-04T12:00Z
+36,Sat May 4 2024,14:00,CEST/+0200,TSV 1860 München,1-2,1-1,Borussia Dortmund II,2024-05-04T12:00Z
+36,Sat May 4 2024,14:00,CEST/+0200,Dynamo Dresden,0-1,0-1,SC Verl,2024-05-04T12:00Z
+36,Sat May 4 2024,14:00,CEST/+0200,Erzgebirge Aue,1-0,0-0,Arminia Bielefeld,2024-05-04T12:00Z
+36,Sat May 4 2024,14:00,CEST/+0200,SSV Ulm 1846,2-0,0-0,Viktoria Köln,2024-05-04T12:00Z
+36,Sat May 4 2024,16:30,CEST/+0200,SV Sandhausen,2-0,0-0,Rot-Weiss Essen,2024-05-04T14:30Z
+36,Sun May 5 2024,13:30,CEST/+0200,Preußen Münster,4-1,3-0,1. FC Saarbrücken,2024-05-05T11:30Z
+36,Sun May 5 2024,16:30,CEST/+0200,Hallescher FC,0-1,0-0,SpVgg Unterhaching,2024-05-05T14:30Z
+36,Sun May 5 2024,19:30,CEST/+0200,FC Ingolstadt 04,1-1,0-0,Waldhof Mannheim,2024-05-05T17:30Z
+37,Fri May 10 2024,19:00,CEST/+0200,Rot-Weiss Essen,0-1,0-1,TSV 1860 München,2024-05-10T17:00Z
+37,Sat May 11 2024,14:00,CEST/+0200,Arminia Bielefeld,0-0,0-0,Hallescher FC,2024-05-11T12:00Z
+37,Sat May 11 2024,14:00,CEST/+0200,Borussia Dortmund II,1-2,0-2,SSV Ulm 1846,2024-05-11T12:00Z
+37,Sat May 11 2024,14:00,CEST/+0200,Viktoria Köln,1-1,1-1,Jahn Regensburg,2024-05-11T12:00Z
+37,Sat May 11 2024,14:00,CEST/+0200,SpVgg Unterhaching,1-2,0-2,Dynamo Dresden,2024-05-11T12:00Z
+37,Sat May 11 2024,14:00,CEST/+0200,FC Ingolstadt 04,6-1,3-1,VfB Lübeck,2024-05-11T12:00Z
+37,Sat May 11 2024,16:30,CEST/+0200,Waldhof Mannheim,4-2,4-0,SV Sandhausen,2024-05-11T14:30Z
+37,Sun May 12 2024,16:30,CEST/+0200,SC Verl,2-0,0-0,Preußen Münster,2024-05-12T14:30Z
+37,Sun May 12 2024,19:30,CEST/+0200,1. FC Saarbrücken,2-1,0-0,SC Freiburg II,2024-05-12T17:30Z
+37,Sun May 12 2024,13:30,CEST/+0200,MSV Duisburg,2-2,0-1,Erzgebirge Aue,2024-05-12T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,Jahn Regensburg,0-1,0-1,1. FC Saarbrücken,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,VfB Lübeck,3-3,2-2,Rot-Weiss Essen,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,Hallescher FC,1-1,1-1,Borussia Dortmund II,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,TSV 1860 München,0-2,0-1,Arminia Bielefeld,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,Erzgebirge Aue,2-0,1-0,Waldhof Mannheim,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,Dynamo Dresden,4-0,3-0,MSV Duisburg,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,SV Sandhausen,1-1,1-0,FC Ingolstadt 04,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,Preußen Münster,2-0,2-0,SpVgg Unterhaching,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,SSV Ulm 1846,4-2,1-0,SC Verl,2024-05-18T11:30Z
+38,Sat May 18 2024,13:30,CEST/+0200,SC Freiburg II,1-0,1-0,Viktoria Köln,2024-05-18T11:30Z

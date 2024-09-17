@@ -1,463 +1,463 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Aug 11 2023,21:30,Real Valladolid,2-0,1-0,Sporting Gijón
-1,Fri Aug 11 2023,19:00,SD Amorebieta,1-1,0-1,Levante UD
-1,Sat Aug 12 2023,21:00,Real Zaragoza,2-0,0-0,Villarreal CF B
-1,Sat Aug 12 2023,22:00,Elche CF,0-1,0-0,Racing Ferrol
-1,Sat Aug 12 2023,19:00,Racing Santander,4-0,3-0,SD Eibar
-1,Sun Aug 13 2023,17:00,Burgos CF,1-1,1-1,SD Huesca
-1,Sun Aug 13 2023,19:30,Albacete,1-1,0-1,Espanyol Barcelona
-1,Sun Aug 13 2023,19:30,FC Cartagena,0-1,0-1,CD Eldense
-1,Sun Aug 13 2023,22:00,CD Leganés,0-1,0-1,FC Andorra
-1,Mon Aug 14 2023,21:30,CD Tenerife,1-0,1-0,Real Oviedo
-1,Mon Aug 14 2023,19:00,CD Mirandés,4-0,2-0,AD Alcorcón
-2,Fri Aug 18 2023,21:30,Real Zaragoza,1-0,1-0,Real Valladolid
-2,Fri Aug 18 2023,19:00,FC Andorra,3-2,0-0,FC Cartagena
-2,Sat Aug 19 2023,17:00,SD Eibar,2-1,1-0,Elche CF
-2,Sat Aug 19 2023,19:00,Espanyol Barcelona,2-0,1-0,Racing Santander
-2,Sat Aug 19 2023,19:30,Levante UD,3-2,2-1,Burgos CF
-2,Sat Aug 19 2023,22:00,AD Alcorcón,0-2,0-0,CD Leganés
-2,Sun Aug 20 2023,19:30,Sporting Gijón,3-0,3-0,CD Mirandés
-2,Sun Aug 20 2023,22:00,Albacete,2-2,1-2,SD Amorebieta
-2,Sun Aug 20 2023,17:00,Real Oviedo,1-1,0-1,Racing Ferrol
-2,Mon Aug 21 2023,21:30,SD Huesca,0-2,0-1,CD Tenerife
-2,Mon Aug 21 2023,19:00,Villarreal CF B,3-1,2-1,CD Eldense
-3,Fri Aug 25 2023,21:30,FC Cartagena,0-1,0-1,Levante UD
-3,Sat Aug 26 2023,19:00,CD Tenerife,0-1,0-0,Real Zaragoza
-3,Sat Aug 26 2023,21:30,Elche CF,1-0,1-0,Villarreal CF B
-3,Sat Aug 26 2023,21:30,Real Valladolid,0-2,0-1,AD Alcorcón
-3,Sat Aug 26 2023,17:00,Burgos CF,1-0,1-0,Real Oviedo
-3,Sun Aug 27 2023,17:00,Racing Ferrol,2-0,0-0,Sporting Gijón
-3,Sun Aug 27 2023,19:30,SD Amorebieta,3-0,1-0,FC Andorra
-3,Sun Aug 27 2023,19:30,CD Mirandés,0-1,0-0,Espanyol Barcelona
-3,Sun Aug 27 2023,21:30,CD Leganés,2-0,1-0,Albacete
-3,Mon Aug 28 2023,21:30,Racing Santander,0-0,0-0,SD Huesca
-3,Mon Aug 28 2023,19:00,CD Eldense,2-1,2-0,SD Eibar
-4,Fri Sep 1 2023,21:30,Albacete,2-0,1-0,Real Valladolid
-4,Fri Sep 1 2023,19:30,AD Alcorcón,1-1,0-0,Racing Ferrol
-4,Sat Sep 2 2023,18:30,Levante UD,1-1,0-0,Real Oviedo
-4,Sat Sep 2 2023,21:00,Elche CF,1-1,1-0,Racing Santander
-4,Sat Sep 2 2023,21:00,Villarreal CF B,1-2,1-0,FC Cartagena
-4,Sat Sep 2 2023,16:15,Sporting Gijón,2-1,1-0,Burgos CF
-4,Sun Sep 3 2023,14:00,FC Andorra,0-1,0-0,CD Tenerife
-4,Sun Sep 3 2023,16:15,SD Eibar,0-1,0-1,CD Leganés
-4,Sun Sep 3 2023,18:30,Espanyol Barcelona,3-2,0-2,SD Amorebieta
-4,Sun Sep 3 2023,18:30,Real Zaragoza,2-0,1-0,CD Eldense
-4,Sun Sep 3 2023,18:30,SD Huesca,1-1,0-0,CD Mirandés
-5,Fri Sep 8 2023,21:00,Levante UD,1-4,1-2,Espanyol Barcelona
-5,Sat Sep 9 2023,18:30,Real Oviedo,0-0,0-0,Sporting Gijón
-5,Sat Sep 9 2023,21:00,CD Leganés,2-0,1-0,SD Huesca
-5,Sat Sep 9 2023,21:00,CD Tenerife,2-0,2-0,Albacete
-5,Sat Sep 9 2023,16:15,Burgos CF,1-0,0-0,SD Eibar
-5,Sun Sep 10 2023,16:15,Racing Ferrol,2-2,0-1,Villarreal CF B
-5,Sun Sep 10 2023,16:15,Racing Santander,1-0,1-0,SD Amorebieta
-5,Sun Sep 10 2023,18:30,CD Mirandés,4-3,2-0,FC Andorra
-5,Sun Sep 10 2023,18:30,FC Cartagena,1-3,1-2,Real Zaragoza
-5,Sun Sep 10 2023,21:00,Real Valladolid,1-1,1-0,Elche CF
-5,Mon Sep 11 2023,21:00,CD Eldense,2-2,0-0,AD Alcorcón
-6,Fri Sep 15 2023,21:30,Real Zaragoza,1-1,1-1,Racing Santander
-6,Sat Sep 16 2023,16:15,SD Huesca,2-2,0-2,Villarreal CF B
-6,Sat Sep 16 2023,18:30,AD Alcorcón,0-2,0-1,Levante UD
-6,Sat Sep 16 2023,18:30,Real Valladolid,1-0,0-0,FC Cartagena
-6,Sat Sep 16 2023,21:00,Albacete,2-1,1-0,Burgos CF
-6,Sun Sep 17 2023,16:15,SD Eibar,2-0,1-0,Racing Ferrol
-6,Sun Sep 17 2023,18:30,Espanyol Barcelona,3-3,0-2,CD Eldense
-6,Sun Sep 17 2023,18:30,Elche CF,1-0,1-0,CD Leganés
-6,Sun Sep 17 2023,21:00,Sporting Gijón,2-1,1-1,CD Tenerife
-6,Sun Sep 17 2023,14:00,SD Amorebieta,2-0,2-0,CD Mirandés
-6,Mon Sep 18 2023,21:00,FC Andorra,1-0,0-0,Real Oviedo
-7,Fri Sep 22 2023,21:00,FC Cartagena,1-2,0-1,SD Eibar
-7,Sat Sep 23 2023,16:15,Levante UD,2-0,1-0,CD Eldense
-7,Sat Sep 23 2023,18:30,Burgos CF,4-0,2-0,Elche CF
-7,Sat Sep 23 2023,21:00,AD Alcorcón,0-2,0-2,SD Huesca
-7,Sat Sep 23 2023,21:00,Racing Santander,2-1,2-0,Albacete
-7,Sat Sep 23 2023,14:00,FC Andorra,0-0,0-0,Sporting Gijón
-7,Sun Sep 24 2023,14:00,Villarreal CF B,3-1,1-0,SD Amorebieta
-7,Sun Sep 24 2023,16:15,Real Oviedo,0-1,0-0,Real Valladolid
-7,Sun Sep 24 2023,18:30,CD Mirandés,1-3,1-1,CD Leganés
-7,Mon Sep 25 2023,22:00,CD Tenerife,1-0,1-0,Espanyol Barcelona
-7,Mon Sep 25 2023,21:00,Racing Ferrol,1-0,0-0,Real Zaragoza
-8,Fri Sep 29 2023,21:00,CD Leganés,2-1,1-0,Racing Santander
-8,Sat Sep 30 2023,16:15,SD Eibar,3-0,0-0,CD Tenerife
-8,Sat Sep 30 2023,18:30,Elche CF,0-0,0-0,Levante UD
-8,Sat Sep 30 2023,21:00,Albacete,3-1,2-0,FC Andorra
-8,Sat Sep 30 2023,21:00,Villarreal CF B,2-2,1-2,AD Alcorcón
-8,Sun Oct 1 2023,16:15,Real Zaragoza,0-1,0-0,CD Mirandés
-8,Sun Oct 1 2023,18:30,SD Amorebieta,0-0,0-0,FC Cartagena
-8,Sun Oct 1 2023,18:30,Real Valladolid,3-0,2-0,Burgos CF
-8,Sun Oct 1 2023,21:00,SD Huesca,0-1,0-0,Sporting Gijón
-8,Sun Oct 1 2023,14:00,CD Eldense,1-3,0-3,Real Oviedo
-8,Mon Oct 2 2023,21:00,Espanyol Barcelona,3-0,1-0,Racing Ferrol
-9,Tue Oct 3 2023,19:00,Levante UD,1-1,0-0,Villarreal CF B
-9,Tue Oct 3 2023,21:30,CD Tenerife,2-0,0-0,Racing Santander
-9,Tue Oct 3 2023,19:00,AD Alcorcón,1-2,0-1,Albacete
-9,Wed Oct 4 2023,19:00,CD Eldense,0-1,0-1,Real Valladolid
-9,Wed Oct 4 2023,19:00,Real Oviedo,1-0,0-0,SD Huesca
-9,Wed Oct 4 2023,21:30,Burgos CF,1-0,1-0,CD Leganés
-9,Wed Oct 4 2023,21:30,Sporting Gijón,2-0,2-0,Elche CF
-9,Thu Oct 5 2023,19:00,CD Mirandés,1-3,1-1,SD Eibar
-9,Thu Oct 5 2023,21:30,FC Cartagena,0-2,0-1,Espanyol Barcelona
-9,Thu Oct 5 2023,21:30,Racing Ferrol,1-0,1-0,SD Amorebieta
-9,Thu Oct 5 2023,19:00,FC Andorra,0-1,0-1,Real Zaragoza
-10,Fri Oct 6 2023,21:00,Albacete,0-2,0-1,Levante UD
-10,Sat Oct 7 2023,16:15,SD Huesca,0-1,0-0,CD Eldense
-10,Sat Oct 7 2023,18:30,Racing Santander,3-2,1-1,Sporting Gijón
-10,Sat Oct 7 2023,21:00,CD Leganés,0-0,0-0,Real Oviedo
-10,Sun Oct 8 2023,16:15,Real Valladolid,3-2,0-0,CD Mirandés
-10,Sun Oct 8 2023,18:30,CD Tenerife,2-1,0-0,Burgos CF
-10,Sun Oct 8 2023,18:30,Racing Ferrol,1-1,0-1,FC Cartagena
-10,Sun Oct 8 2023,21:00,Real Zaragoza,0-2,0-1,AD Alcorcón
-10,Sun Oct 8 2023,14:00,SD Amorebieta,1-2,1-1,SD Eibar
-10,Mon Oct 9 2023,19:00,Elche CF,2-1,1-0,FC Andorra
-10,Mon Oct 9 2023,21:00,Villarreal CF B,3-1,2-1,Espanyol Barcelona
-11,Fri Oct 13 2023,21:00,Real Oviedo,3-0,0-0,Albacete
-11,Sat Oct 14 2023,18:30,FC Cartagena,2-3,2-2,Racing Santander
-11,Sat Oct 14 2023,18:30,Sporting Gijón,2-2,0-1,Real Zaragoza
-11,Sat Oct 14 2023,21:00,Espanyol Barcelona,2-0,2-0,Real Valladolid
-11,Sat Oct 14 2023,16:15,CD Mirandés,1-1,1-1,CD Tenerife
-11,Sun Oct 15 2023,14:00,Burgos CF,3-2,0-0,Villarreal CF B
-11,Sun Oct 15 2023,16:15,FC Andorra,2-0,0-0,AD Alcorcón
-11,Sun Oct 15 2023,16:15,CD Eldense,1-1,1-0,Elche CF
-11,Sun Oct 15 2023,18:30,CD Leganés,6-0,2-0,SD Amorebieta
-11,Sun Oct 15 2023,18:30,SD Eibar,1-1,0-1,SD Huesca
-11,Mon Oct 16 2023,21:00,Levante UD,1-0,0-0,Racing Ferrol
-12,Fri Oct 20 2023,21:00,Espanyol Barcelona,0-1,0-0,CD Leganés
-12,Sat Oct 21 2023,16:15,Villarreal CF B,0-3,0-1,CD Mirandés
-12,Sat Oct 21 2023,18:30,CD Tenerife,0-0,0-0,Levante UD
-12,Sat Oct 21 2023,21:00,Real Zaragoza,2-3,2-0,SD Eibar
-12,Sat Oct 21 2023,16:15,SD Amorebieta,0-0,0-0,Real Oviedo
-12,Sun Oct 22 2023,14:00,Racing Ferrol,1-1,0-0,CD Eldense
-12,Sun Oct 22 2023,16:15,SD Huesca,0-1,0-1,Elche CF
-12,Sun Oct 22 2023,18:30,Albacete,1-3,0-1,Sporting Gijón
-12,Sun Oct 22 2023,18:30,Racing Santander,3-0,1-0,Burgos CF
-12,Sun Oct 22 2023,21:00,Real Valladolid,2-0,2-0,FC Andorra
-12,Mon Oct 23 2023,21:00,AD Alcorcón,1-1,1-0,FC Cartagena
-13,Fri Oct 27 2023,21:00,SD Eibar,5-1,2-0,Real Valladolid
-13,Sat Oct 28 2023,18:30,FC Andorra,2-0,0-0,Levante UD
-13,Sat Oct 28 2023,18:30,Sporting Gijón,2-0,1-0,Espanyol Barcelona
-13,Sat Oct 28 2023,21:00,Elche CF,2-1,0-0,CD Tenerife
-13,Sat Oct 28 2023,14:00,CD Eldense,2-0,1-0,SD Amorebieta
-13,Sun Oct 29 2023,14:00,CD Mirandés,2-1,0-0,FC Cartagena
-13,Sun Oct 29 2023,16:15,SD Huesca,0-0,0-0,Albacete
-13,Sun Oct 29 2023,18:30,CD Leganés,1-0,0-0,Villarreal CF B
-13,Sun Oct 29 2023,18:30,Real Oviedo,2-0,1-0,AD Alcorcón
-13,Sun Oct 29 2023,21:00,Racing Santander,1-3,1-2,Racing Ferrol
-13,Mon Oct 30 2023,21:00,Burgos CF,1-1,0-1,Real Zaragoza
-14,Fri Nov 3 2023,21:00,Espanyol Barcelona,2-2,1-1,SD Eibar
-14,Sat Nov 4 2023,16:15,Villarreal CF B,0-3,0-1,Sporting Gijón
-14,Sat Nov 4 2023,18:30,Real Valladolid,2-0,0-0,CD Tenerife
-14,Sat Nov 4 2023,18:30,Levante UD,2-2,1-1,CD Mirandés
-14,Sat Nov 4 2023,21:00,Albacete,1-1,0-0,Elche CF
-14,Sun Nov 5 2023,16:15,SD Amorebieta,0-1,0-0,SD Huesca
-14,Sun Nov 5 2023,18:30,AD Alcorcón,3-1,1-0,Racing Santander
-14,Sun Nov 5 2023,18:30,FC Cartagena,0-3,0-0,CD Leganés
-14,Sun Nov 5 2023,21:00,CD Eldense,2-0,1-0,Burgos CF
-14,Sun Nov 5 2023,14:00,Racing Ferrol,1-0,1-0,FC Andorra
-14,Mon Nov 6 2023,21:00,Real Zaragoza,0-0,0-0,Real Oviedo
-15,Fri Nov 10 2023,20:30,CD Leganés,2-1,0-1,Levante UD
-15,Sat Nov 11 2023,18:30,CD Mirandés,1-2,0-2,Racing Ferrol
-15,Sat Nov 11 2023,18:30,Elche CF,2-0,0-0,Real Zaragoza
-15,Sat Nov 11 2023,21:00,Sporting Gijón,1-1,0-0,SD Amorebieta
-15,Sat Nov 11 2023,16:15,Racing Santander,2-3,0-1,Real Valladolid
-15,Sun Nov 12 2023,14:00,Burgos CF,4-2,0-2,AD Alcorcón
-15,Sun Nov 12 2023,16:15,FC Andorra,1-3,1-1,CD Eldense
-15,Sun Nov 12 2023,18:30,CD Tenerife,0-1,0-1,Villarreal CF B
-15,Sun Nov 12 2023,18:30,SD Huesca,1-1,0-0,Espanyol Barcelona
-15,Sun Nov 12 2023,21:00,SD Eibar,1-1,1-0,Albacete
-15,Mon Nov 13 2023,21:00,Real Oviedo,1-1,0-1,FC Cartagena
-16,Fri Nov 17 2023,21:00,Real Valladolid,1-1,1-0,CD Leganés
-16,Sat Nov 18 2023,16:15,AD Alcorcón,0-0,0-0,Sporting Gijón
-16,Sat Nov 18 2023,18:30,SD Amorebieta,2-0,1-0,CD Tenerife
-16,Sat Nov 18 2023,18:30,Real Zaragoza,0-2,0-1,SD Huesca
-16,Sat Nov 18 2023,21:00,Espanyol Barcelona,2-0,2-0,Elche CF
-16,Sun Nov 19 2023,16:15,CD Eldense,2-2,1-1,CD Mirandés
-16,Sun Nov 19 2023,16:15,Real Oviedo,2-1,0-1,SD Eibar
-16,Sun Nov 19 2023,18:30,FC Cartagena,1-1,1-0,Albacete
-16,Sun Nov 19 2023,18:30,Villarreal CF B,0-0,0-0,FC Andorra
-16,Sun Nov 19 2023,14:00,Racing Ferrol,1-1,0-0,Burgos CF
-16,Mon Nov 20 2023,21:00,Levante UD,2-4,2-1,Racing Santander
-17,Fri Nov 24 2023,21:00,SD Huesca,0-1,0-0,Real Valladolid
-17,Sat Nov 25 2023,16:15,Racing Santander,2-0,1-0,Villarreal CF B
-17,Sat Nov 25 2023,18:30,Albacete,1-0,0-0,Real Zaragoza
-17,Sat Nov 25 2023,21:00,SD Eibar,3-1,1-1,Levante UD
-17,Sat Nov 25 2023,16:15,Burgos CF,0-0,0-0,FC Andorra
-17,Sun Nov 26 2023,14:00,CD Leganés,2-2,2-2,Racing Ferrol
-17,Sun Nov 26 2023,16:15,CD Mirandés,2-1,1-0,Real Oviedo
-17,Sun Nov 26 2023,16:15,Elche CF,2-0,0-0,SD Amorebieta
-17,Sun Nov 26 2023,18:30,CD Tenerife,1-1,0-1,FC Cartagena
-17,Sun Nov 26 2023,21:00,Espanyol Barcelona,2-0,1-0,AD Alcorcón
-17,Mon Nov 27 2023,21:00,Sporting Gijón,2-0,1-0,CD Eldense
-18,Fri Dec 1 2023,20:30,Real Oviedo,2-0,1-0,Espanyol Barcelona
-18,Sat Dec 2 2023,16:15,CD Eldense,0-3,0-1,CD Tenerife
-18,Sat Dec 2 2023,16:15,FC Cartagena,1-0,0-0,Sporting Gijón
-18,Sat Dec 2 2023,18:30,Real Zaragoza,1-0,1-0,CD Leganés
-18,Sat Dec 2 2023,21:00,Levante UD,2-1,2-1,Real Valladolid
-18,Sun Dec 3 2023,16:15,AD Alcorcón,0-2,0-1,Elche CF
-18,Sun Dec 3 2023,18:30,CD Mirandés,0-0,0-0,Racing Santander
-18,Sun Dec 3 2023,18:30,Racing Ferrol,5-4,1-1,Albacete
-18,Sun Dec 3 2023,21:00,SD Amorebieta,0-1,0-1,Burgos CF
-18,Sun Dec 3 2023,14:00,FC Andorra,1-0,0-0,SD Huesca
-18,Mon Dec 4 2023,20:30,Villarreal CF B,1-0,0-0,SD Eibar
-19,Fri Dec 8 2023,21:00,Espanyol Barcelona,1-1,0-0,Real Zaragoza
-19,Fri Dec 8 2023,18:30,Albacete,2-0,0-0,Villarreal CF B
-19,Sat Dec 9 2023,18:30,Sporting Gijón,0-0,0-0,Levante UD
-19,Sat Dec 9 2023,21:00,Burgos CF,0-0,0-0,CD Mirandés
-19,Sat Dec 9 2023,16:15,Real Valladolid,2-1,0-1,SD Amorebieta
-19,Sun Dec 10 2023,14:00,Elche CF,1-2,1-0,FC Cartagena
-19,Sun Dec 10 2023,16:15,Racing Santander,2-2,1-2,Real Oviedo
-19,Sun Dec 10 2023,18:30,CD Leganés,1-1,1-1,CD Eldense
-19,Sun Dec 10 2023,18:30,SD Eibar,2-2,2-1,FC Andorra
-19,Sun Dec 10 2023,21:00,SD Huesca,1-0,1-0,Racing Ferrol
-19,Mon Dec 11 2023,21:00,CD Tenerife,1-0,0-0,AD Alcorcón
-20,Fri Dec 15 2023,20:30,Real Oviedo,3-2,1-2,Elche CF
-20,Sat Dec 16 2023,14:00,CD Eldense,3-3,0-2,Racing Santander
-20,Sat Dec 16 2023,16:15,FC Andorra,1-1,0-0,Espanyol Barcelona
-20,Sat Dec 16 2023,18:30,FC Cartagena,0-3,0-1,Burgos CF
-20,Sat Dec 16 2023,18:30,Sporting Gijón,1-1,0-1,CD Leganés
-20,Sat Dec 16 2023,21:00,CD Mirandés,2-0,1-0,Albacete
-20,Sun Dec 17 2023,16:15,Levante UD,2-1,2-0,SD Huesca
-20,Sun Dec 17 2023,18:30,SD Amorebieta,1-1,1-1,Real Zaragoza
-20,Sun Dec 17 2023,21:00,Racing Ferrol,3-1,1-0,CD Tenerife
-20,Sun Dec 17 2023,14:00,AD Alcorcón,1-0,1-0,SD Eibar
-20,Mon Dec 18 2023,20:30,Villarreal CF B,1-0,1-0,Real Valladolid
-21,Tue Dec 19 2023,19:00,Racing Santander,2-0,1-0,FC Andorra
-21,Tue Dec 19 2023,21:30,Espanyol Barcelona,3-3,1-2,Burgos CF
-21,Tue Dec 19 2023,21:30,Elche CF,0-0,0-0,CD Mirandés
-21,Tue Dec 19 2023,19:00,Albacete,1-1,0-0,CD Eldense
-21,Wed Dec 20 2023,19:00,Real Zaragoza,2-2,2-0,Levante UD
-21,Wed Dec 20 2023,21:30,CD Leganés,1-1,0-0,CD Tenerife
-21,Wed Dec 20 2023,21:30,SD Eibar,1-1,0-1,Sporting Gijón
-21,Thu Dec 21 2023,19:00,SD Huesca,3-0,3-0,FC Cartagena
-21,Thu Dec 21 2023,21:30,SD Amorebieta,1-2,1-1,AD Alcorcón
-21,Thu Dec 21 2023,21:30,Real Valladolid,0-1,0-1,Racing Ferrol
-21,Thu Dec 21 2023,19:00,Villarreal CF B,1-1,1-0,Real Oviedo
-22,Fri Jan 12 2024,20:30,SD Eibar,2-0,1-0,Racing Santander
-22,Sat Jan 13 2024,14:00,AD Alcorcón,0-0,0-0,CD Mirandés
-22,Sat Jan 13 2024,16:15,Levante UD,3-2,2-0,Albacete
-22,Sat Jan 13 2024,18:30,CD Tenerife,0-1,0-1,Elche CF
-22,Sat Jan 13 2024,18:30,Real Oviedo,1-1,1-1,SD Amorebieta
-22,Sat Jan 13 2024,21:00,Burgos CF,1-0,1-0,Real Valladolid
-22,Sat Jan 13 2024,21:00,Racing Ferrol,0-0,0-0,Espanyol Barcelona
-22,Sun Jan 14 2024,16:15,FC Cartagena,4-1,0-1,Villarreal CF B
-22,Sun Jan 14 2024,16:15,Sporting Gijón,0-0,0-0,SD Huesca
-22,Sun Jan 14 2024,14:00,FC Andorra,2-3,0-0,CD Leganés
-22,Mon Jan 15 2024,20:30,CD Eldense,1-1,1-1,Real Zaragoza
-23,Fri Jan 19 2024,20:30,Real Zaragoza,2-0,1-0,FC Andorra
-23,Sat Jan 20 2024,14:00,Albacete,0-1,0-0,AD Alcorcón
-23,Sat Jan 20 2024,16:15,SD Amorebieta,0-2,0-1,CD Eldense
-23,Sat Jan 20 2024,18:30,CD Tenerife,1-2,1-1,Sporting Gijón
-23,Sat Jan 20 2024,18:30,Espanyol Barcelona,2-1,2-1,Villarreal CF B
-23,Sat Jan 20 2024,21:00,Racing Ferrol,1-3,0-0,Real Oviedo
-23,Sun Jan 21 2024,16:15,CD Mirandés,1-1,0-1,Levante UD
-23,Sun Jan 21 2024,18:30,SD Huesca,2-3,0-2,SD Eibar
-23,Sun Jan 21 2024,21:00,Elche CF,0-0,0-0,Real Valladolid
-23,Sun Jan 21 2024,14:00,Racing Santander,0-2,0-1,FC Cartagena
-23,Mon Jan 22 2024,20:30,CD Leganés,2-0,2-0,Burgos CF
-24,Fri Jan 26 2024,20:30,SD Eibar,1-0,0-0,CD Mirandés
-24,Sat Jan 27 2024,16:15,FC Cartagena,1-0,0-0,SD Amorebieta
-24,Sat Jan 27 2024,18:30,Real Oviedo,1-0,0-0,CD Leganés
-24,Sat Jan 27 2024,21:00,Levante UD,0-0,0-0,CD Tenerife
-24,Sat Jan 27 2024,16:15,AD Alcorcón,0-0,0-0,Real Zaragoza
-24,Sun Jan 28 2024,14:00,CD Eldense,3-2,2-2,Espanyol Barcelona
-24,Sun Jan 28 2024,16:15,FC Andorra,0-1,0-0,Elche CF
-24,Sun Jan 28 2024,16:15,Villarreal CF B,1-1,0-1,SD Huesca
-24,Sun Jan 28 2024,18:30,Burgos CF,2-1,1-1,Albacete
-24,Sun Jan 28 2024,21:00,Sporting Gijón,1-2,0-0,Racing Ferrol
-24,Mon Jan 29 2024,20:30,Real Valladolid,3-1,1-0,Racing Santander
-25,Fri Feb 2 2024,20:30,Elche CF,2-0,0-0,Burgos CF
-25,Sat Feb 3 2024,14:00,Albacete,1-1,1-0,FC Cartagena
-25,Sat Feb 3 2024,16:15,CD Mirandés,3-0,1-0,Villarreal CF B
-25,Sat Feb 3 2024,16:15,SD Huesca,1-0,0-0,AD Alcorcón
-25,Sat Feb 3 2024,18:30,CD Leganés,0-0,0-0,Real Valladolid
-25,Sat Feb 3 2024,21:00,CD Tenerife,0-0,0-0,FC Andorra
-25,Sun Feb 4 2024,16:15,SD Amorebieta,0-1,0-1,Racing Santander
-25,Sun Feb 4 2024,16:15,Real Oviedo,1-1,0-1,CD Eldense
-25,Sun Feb 4 2024,18:30,Espanyol Barcelona,2-1,1-0,Levante UD
-25,Sun Feb 4 2024,14:00,Racing Ferrol,1-1,0-0,SD Eibar
-25,Mon Feb 5 2024,20:30,Real Zaragoza,3-0,1-0,Sporting Gijón
-26,Fri Feb 9 2024,20:30,Levante UD,0-0,0-0,CD Leganés
-26,Sat Feb 10 2024,16:15,CD Eldense,0-0,0-0,SD Huesca
-26,Sat Feb 10 2024,18:30,Sporting Gijón,1-0,1-0,Real Oviedo
-26,Sat Feb 10 2024,21:00,Racing Santander,2-0,2-0,Espanyol Barcelona
-26,Sat Feb 10 2024,16:15,SD Amorebieta,1-0,0-0,Elche CF
-26,Sun Feb 11 2024,14:00,Villarreal CF B,1-0,0-0,CD Tenerife
-26,Sun Feb 11 2024,16:15,AD Alcorcón,1-0,1-0,FC Andorra
-26,Sun Feb 11 2024,16:15,FC Cartagena,1-0,1-0,CD Mirandés
-26,Sun Feb 11 2024,18:30,SD Eibar,1-0,1-0,Real Zaragoza
-26,Sun Feb 11 2024,21:00,Burgos CF,2-0,2-0,Racing Ferrol
-26,Mon Feb 12 2024,20:30,Real Valladolid,0-0,0-0,Albacete
-27,Fri Feb 16 2024,20:30,Real Zaragoza,1-2,0-1,FC Cartagena
-27,Sat Feb 17 2024,16:15,FC Andorra,1-1,0-0,Villarreal CF B
-27,Sat Feb 17 2024,16:15,Real Oviedo,5-0,3-0,Burgos CF
-27,Sat Feb 17 2024,18:30,Sporting Gijón,1-1,0-1,Real Valladolid
-27,Sat Feb 17 2024,21:00,Espanyol Barcelona,3-0,1-0,CD Mirandés
-27,Sun Feb 18 2024,16:15,CD Leganés,3-0,1-0,AD Alcorcón
-27,Sun Feb 18 2024,16:15,Racing Ferrol,0-0,0-0,Levante UD
-27,Sun Feb 18 2024,18:30,SD Huesca,0-0,0-0,SD Amorebieta
-27,Sun Feb 18 2024,21:00,Elche CF,0-0,0-0,SD Eibar
-27,Sun Feb 18 2024,14:00,Albacete,2-0,0-0,Racing Santander
-27,Mon Feb 19 2024,20:30,CD Tenerife,1-0,1-0,CD Eldense
-28,Fri Feb 23 2024,20:30,Real Valladolid,3-0,1-0,Real Oviedo
-28,Sat Feb 24 2024,18:30,Villarreal CF B,0-0,0-0,Real Zaragoza
-28,Sat Feb 24 2024,18:30,SD Eibar,2-3,1-0,Espanyol Barcelona
-28,Sat Feb 24 2024,16:15,Racing Santander,2-1,1-1,CD Leganés
-28,Sun Feb 25 2024,14:00,CD Eldense,2-0,2-0,Racing Ferrol
-28,Sun Feb 25 2024,16:15,AD Alcorcón,1-1,0-0,CD Tenerife
-28,Sun Feb 25 2024,16:15,Burgos CF,1-0,1-0,Sporting Gijón
-28,Sun Feb 25 2024,18:30,FC Cartagena,0-1,0-0,Elche CF
-28,Sun Feb 25 2024,21:00,SD Amorebieta,1-1,0-1,Albacete
-28,Mon Feb 26 2024,20:30,CD Mirandés,0-3,0-0,SD Huesca
-29,Fri Mar 1 2024,20:30,Sporting Gijón,2-1,1-1,Albacete
-29,Sat Mar 2 2024,21:00,Burgos CF,3-0,1-0,FC Cartagena
-29,Sat Mar 2 2024,14:00,CD Eldense,2-0,1-0,Villarreal CF B
-29,Sat Mar 2 2024,16:15,Espanyol Barcelona,0-0,0-0,SD Huesca
-29,Sat Mar 2 2024,16:15,Racing Ferrol,2-2,1-1,Racing Santander
-29,Sat Mar 2 2024,18:30,Real Oviedo,3-2,0-1,Levante UD
-29,Sun Mar 3 2024,14:00,FC Andorra,2-1,0-1,Real Valladolid
-29,Sun Mar 3 2024,16:15,CD Tenerife,2-1,2-0,CD Mirandés
-29,Sun Mar 3 2024,18:30,Real Zaragoza,0-1,0-0,SD Amorebieta
-29,Sun Mar 3 2024,21:00,CD Leganés,0-2,0-2,SD Eibar
-29,Mon Mar 4 2024,20:30,Elche CF,3-0,3-0,AD Alcorcón
-30,Fri Mar 8 2024,20:30,SD Huesca,2-0,1-0,FC Andorra
-30,Sat Mar 9 2024,16:15,Albacete,1-2,0-0,Real Oviedo
-30,Sat Mar 9 2024,18:30,CD Mirandés,3-1,1-0,CD Eldense
-30,Sat Mar 9 2024,18:30,Real Valladolid,2-0,1-0,Real Zaragoza
-30,Sat Mar 9 2024,21:00,FC Cartagena,2-1,1-1,Racing Ferrol
-30,Sun Mar 10 2024,14:00,Racing Santander,4-2,0-1,CD Tenerife
-30,Sun Mar 10 2024,18:30,SD Eibar,0-1,0-0,Burgos CF
-30,Sun Mar 10 2024,16:15,Villarreal CF B,0-1,0-1,Elche CF
-30,Sun Mar 10 2024,16:15,Levante UD,1-0,0-0,Sporting Gijón
-30,Sun Mar 10 2024,21:00,AD Alcorcón,1-1,0-0,Espanyol Barcelona
-30,Mon Mar 11 2024,20:30,SD Amorebieta,0-1,0-0,CD Leganés
-28,Wed Mar 13 2024,19:00,Levante UD,0-0,0-0,FC Andorra
-31,Fri Mar 15 2024,20:30,CD Eldense,0-0,0-0,FC Cartagena
-31,Sat Mar 16 2024,14:00,Burgos CF,1-1,1-0,Levante UD
-31,Sat Mar 16 2024,16:15,SD Eibar,2-0,1-0,Villarreal CF B
-31,Sat Mar 16 2024,18:30,CD Tenerife,0-0,0-0,SD Huesca
-31,Sat Mar 16 2024,18:30,Real Oviedo,1-1,0-1,Racing Santander
-31,Sat Mar 16 2024,21:00,Sporting Gijón,1-0,1-0,AD Alcorcón
-31,Sun Mar 17 2024,16:15,Racing Ferrol,2-0,1-0,Real Valladolid
-31,Sun Mar 17 2024,18:30,Elche CF,3-2,1-1,Albacete
-31,Sun Mar 17 2024,18:30,Real Zaragoza,0-1,0-1,Espanyol Barcelona
-31,Sun Mar 17 2024,14:00,CD Leganés,4-0,3-0,CD Mirandés
-31,Mon Mar 18 2024,20:30,FC Andorra,0-1,0-0,SD Amorebieta
-32,Sat Mar 23 2024,18:30,FC Cartagena,1-0,1-0,FC Andorra
-32,Sat Mar 23 2024,18:30,Villarreal CF B,1-2,1-0,CD Leganés
-32,Sat Mar 23 2024,21:00,Espanyol Barcelona,1-1,0-0,CD Tenerife
-32,Sat Mar 23 2024,16:15,AD Alcorcón,1-0,0-0,Real Oviedo
-32,Sun Mar 24 2024,14:00,SD Amorebieta,3-1,2-1,Sporting Gijón
-32,Sun Mar 24 2024,16:15,Real Valladolid,3-1,0-1,SD Eibar
-32,Sun Mar 24 2024,16:15,SD Huesca,3-0,1-0,Burgos CF
-32,Sun Mar 24 2024,18:30,CD Mirandés,0-0,0-0,Real Zaragoza
-32,Sun Mar 24 2024,18:30,Levante UD,3-2,0-1,Elche CF
-32,Sun Mar 24 2024,21:00,Racing Santander,2-1,1-0,CD Eldense
-32,Mon Mar 25 2024,20:30,Albacete,1-1,1-0,Racing Ferrol
-33,Fri Mar 29 2024,20:30,Burgos CF,0-0,0-0,Espanyol Barcelona
-33,Sat Mar 30 2024,14:00,Real Valladolid,0-0,0-0,Levante UD
-33,Sat Mar 30 2024,16:15,FC Andorra,1-0,0-0,CD Mirandés
-33,Sat Mar 30 2024,16:15,CD Leganés,0-0,0-0,FC Cartagena
-33,Sat Mar 30 2024,16:15,SD Eibar,5-1,1-0,CD Eldense
-33,Sat Mar 30 2024,18:30,Albacete,1-1,0-0,SD Huesca
-33,Sat Mar 30 2024,18:30,Sporting Gijón,2-3,1-0,Racing Santander
-33,Sun Mar 31 2024,16:15,Racing Ferrol,1-0,0-0,Elche CF
-33,Sun Mar 31 2024,16:15,Real Zaragoza,3-1,2-1,CD Tenerife
-33,Sun Mar 31 2024,18:30,Real Oviedo,2-1,2-1,Villarreal CF B
-33,Sun Mar 31 2024,14:00,AD Alcorcón,1-1,1-1,SD Amorebieta
-34,Fri Apr 5 2024,20:30,SD Amorebieta,3-1,2-0,Racing Ferrol
-34,Fri Apr 5 2024,20:30,Elche CF,0-2,0-1,Real Oviedo
-34,Sat Apr 6 2024,18:30,Levante UD,2-1,1-1,Real Zaragoza
-34,Sat Apr 6 2024,16:15,CD Eldense,0-2,0-1,FC Andorra
-34,Sun Apr 7 2024,14:00,SD Huesca,0-0,0-0,CD Leganés
-34,Sun Apr 7 2024,16:15,CD Mirandés,1-3,1-1,Sporting Gijón
-34,Sun Apr 7 2024,16:15,Villarreal CF B,2-1,2-0,Burgos CF
-34,Sun Apr 7 2024,18:30,CD Tenerife,2-1,1-1,SD Eibar
-34,Sun Apr 7 2024,18:30,Espanyol Barcelona,2-1,1-1,Albacete
-34,Sun Apr 7 2024,21:00,FC Cartagena,0-2,0-2,Real Valladolid
-34,Mon Apr 8 2024,20:30,Racing Santander,0-1,0-0,AD Alcorcón
-35,Fri Apr 12 2024,20:30,CD Leganés,0-0,0-0,Espanyol Barcelona
-35,Sat Apr 13 2024,18:30,Real Valladolid,1-0,0-0,CD Eldense
-35,Sat Apr 13 2024,21:00,Levante UD,1-2,0-0,SD Amorebieta
-35,Sat Apr 13 2024,16:15,Sporting Gijón,1-0,1-0,FC Cartagena
-35,Sun Apr 14 2024,14:00,Real Oviedo,1-1,1-0,CD Mirandés
-35,Sun Apr 14 2024,16:15,Albacete,1-0,0-0,CD Tenerife
-35,Sun Apr 14 2024,16:15,FC Andorra,0-2,0-0,SD Eibar
-35,Sun Apr 14 2024,18:30,Burgos CF,2-1,1-1,Racing Santander
-35,Sun Apr 14 2024,18:30,Real Zaragoza,1-1,0-0,Elche CF
-35,Sun Apr 14 2024,21:00,Racing Ferrol,2-1,0-1,SD Huesca
-35,Mon Apr 15 2024,20:30,AD Alcorcón,1-0,0-0,Villarreal CF B
-36,Fri Apr 19 2024,20:30,CD Tenerife,0-0,0-0,CD Leganés
-36,Sat Apr 20 2024,14:00,SD Amorebieta,0-3,0-0,Real Valladolid
-36,Sat Apr 20 2024,16:15,Villarreal CF B,1-0,0-0,Racing Ferrol
-36,Sat Apr 20 2024,16:15,Racing Santander,0-0,0-0,Levante UD
-36,Sat Apr 20 2024,18:30,Elche CF,2-1,2-0,Sporting Gijón
-36,Sat Apr 20 2024,21:00,SD Huesca,1-2,1-2,Real Zaragoza
-36,Sun Apr 21 2024,16:15,CD Eldense,0-1,0-0,Albacete
-36,Sun Apr 21 2024,16:15,SD Eibar,2-0,1-0,AD Alcorcón
-36,Sun Apr 21 2024,18:30,CD Mirandés,2-1,0-0,Burgos CF
-36,Sun Apr 21 2024,14:00,Espanyol Barcelona,1-1,0-1,FC Andorra
-36,Mon Apr 22 2024,20:30,FC Cartagena,2-0,0-0,Real Oviedo
-37,Fri Apr 26 2024,20:30,FC Andorra,1-1,1-0,Racing Santander
-37,Sat Apr 27 2024,16:15,CD Leganés,1-1,0-0,Real Zaragoza
-37,Sat Apr 27 2024,18:30,Elche CF,2-2,1-1,Espanyol Barcelona
-37,Sat Apr 27 2024,16:15,Burgos CF,2-2,1-0,SD Amorebieta
-37,Sun Apr 28 2024,14:00,Sporting Gijón,0-3,0-2,Villarreal CF B
-37,Sun Apr 28 2024,16:15,AD Alcorcón,0-0,0-0,CD Eldense
-37,Sun Apr 28 2024,16:15,Real Oviedo,0-1,0-1,CD Tenerife
-37,Sun Apr 28 2024,18:30,Real Valladolid,1-0,1-0,SD Huesca
-37,Sun Apr 28 2024,18:30,Levante UD,0-1,0-0,FC Cartagena
-37,Sun Apr 28 2024,21:00,Albacete,2-1,1-1,SD Eibar
-37,Mon Apr 29 2024,20:30,Racing Ferrol,0-2,0-1,CD Mirandés
-38,Fri May 3 2024,20:30,Villarreal CF B,0-3,0-2,Levante UD
-38,Sat May 4 2024,16:15,SD Huesca,0-2,0-0,Real Oviedo
-38,Sat May 4 2024,18:30,Racing Santander,3-1,1-0,Elche CF
-38,Sat May 4 2024,21:00,FC Cartagena,1-0,1-0,AD Alcorcón
-38,Sat May 4 2024,14:00,CD Mirandés,0-1,0-1,Real Valladolid
-38,Sun May 5 2024,14:00,SD Eibar,5-0,2-0,SD Amorebieta
-38,Sun May 5 2024,16:15,FC Andorra,0-1,0-0,Albacete
-38,Sun May 5 2024,16:15,Espanyol Barcelona,0-0,0-0,Sporting Gijón
-38,Sun May 5 2024,18:30,CD Eldense,1-2,1-0,CD Leganés
-38,Sun May 5 2024,18:30,Real Zaragoza,1-3,1-1,Burgos CF
-38,Sun May 5 2024,21:00,CD Tenerife,2-0,0-0,Racing Ferrol
-39,Fri May 10 2024,20:30,Burgos CF,1-2,1-2,CD Eldense
-39,Sat May 11 2024,16:15,Racing Ferrol,2-1,0-0,AD Alcorcón
-39,Sat May 11 2024,16:15,Sporting Gijón,5-2,2-1,FC Andorra
-39,Sat May 11 2024,18:30,Real Valladolid,0-0,0-0,Espanyol Barcelona
-39,Sat May 11 2024,21:00,Levante UD,2-2,1-1,SD Eibar
-39,Sat May 11 2024,14:00,Racing Santander,1-0,1-0,CD Mirandés
-39,Sun May 12 2024,14:00,SD Amorebieta,2-0,0-0,Villarreal CF B
-39,Sun May 12 2024,16:15,Real Oviedo,1-0,0-0,Real Zaragoza
-39,Sun May 12 2024,18:30,Albacete,1-0,1-0,CD Leganés
-39,Sun May 12 2024,18:30,FC Cartagena,2-0,2-0,CD Tenerife
-39,Sun May 12 2024,21:00,Elche CF,0-3,0-2,SD Huesca
-40,Fri May 17 2024,20:30,CD Mirandés,1-1,0-0,Elche CF
-40,Sat May 18 2024,14:00,FC Andorra,1-0,0-0,Burgos CF
-40,Sat May 18 2024,16:15,CD Leganés,2-1,1-0,Sporting Gijón
-40,Sat May 18 2024,16:15,SD Huesca,0-3,0-1,Racing Santander
-40,Sat May 18 2024,21:00,CD Tenerife,0-1,0-0,SD Amorebieta
-40,Sat May 18 2024,21:00,CD Eldense,0-0,0-0,Levante UD
-40,Sun May 19 2024,16:15,AD Alcorcón,1-1,1-0,Real Valladolid
-40,Sun May 19 2024,21:00,Real Zaragoza,2-2,1-0,Racing Ferrol
-40,Sun May 19 2024,14:00,SD Eibar,1-0,1-0,FC Cartagena
-40,Mon May 20 2024,20:30,Villarreal CF B,2-2,1-2,Albacete
-40,Mon May 20 2024,20:30,Espanyol Barcelona,2-1,1-1,Real Oviedo
-41,Sun May 26 2024,18:30,Albacete,2-2,1-0,CD Mirandés
-41,Sun May 26 2024,18:30,SD Amorebieta,0-0,0-0,Espanyol Barcelona
-41,Sun May 26 2024,18:30,Burgos CF,1-1,0-1,CD Tenerife
-41,Sun May 26 2024,18:30,FC Cartagena,0-2,0-1,SD Huesca
-41,Sun May 26 2024,18:30,Elche CF,1-2,0-0,CD Eldense
-41,Sun May 26 2024,18:30,Racing Ferrol,2-2,1-1,CD Leganés
-41,Sun May 26 2024,18:30,Racing Santander,0-2,0-1,Real Zaragoza
-41,Sun May 26 2024,18:30,Real Oviedo,3-0,0-0,FC Andorra
-41,Sun May 26 2024,18:30,Real Valladolid,3-2,0-0,Villarreal CF B
-41,Sun May 26 2024,18:30,Sporting Gijón,1-0,0-0,SD Eibar
-41,Sun May 26 2024,18:30,Levante UD,2-2,0-0,AD Alcorcón
-42,Sun Jun 2 2024,16:15,AD Alcorcón,1-1,0-0,Burgos CF
-42,Sun Jun 2 2024,16:15,FC Andorra,1-0,0-0,Racing Ferrol
-42,Sun Jun 2 2024,16:15,SD Huesca,0-0,0-0,Levante UD
-42,Sun Jun 2 2024,18:30,CD Leganés,2-0,2-0,Elche CF
-42,Sun Jun 2 2024,18:30,CD Mirandés,1-0,0-0,SD Amorebieta
-42,Sun Jun 2 2024,18:30,CD Tenerife,2-1,0-0,Real Valladolid
-42,Sun Jun 2 2024,18:30,CD Eldense,0-1,0-0,Sporting Gijón
-42,Sun Jun 2 2024,18:30,Espanyol Barcelona,3-0,0-0,FC Cartagena
-42,Sun Jun 2 2024,18:30,Villarreal CF B,1-0,0-0,Racing Santander
-42,Sun Jun 2 2024,18:30,SD Eibar,4-3,2-1,Real Oviedo
-42,Sun Jun 2 2024,21:00,Real Zaragoza,1-1,0-0,Albacete
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 11 2023,21:30,CEST/+0200,Real Valladolid,2-0,1-0,Sporting Gijón,2023-08-11T19:30Z
+1,Fri Aug 11 2023,19:00,CEST/+0200,SD Amorebieta,1-1,0-1,Levante UD,2023-08-11T17:00Z
+1,Sat Aug 12 2023,21:00,CEST/+0200,Real Zaragoza,2-0,0-0,Villarreal CF B,2023-08-12T19:00Z
+1,Sat Aug 12 2023,22:00,CEST/+0200,Elche CF,0-1,0-0,Racing Ferrol,2023-08-12T20:00Z
+1,Sat Aug 12 2023,19:00,CEST/+0200,Racing Santander,4-0,3-0,SD Eibar,2023-08-12T17:00Z
+1,Sun Aug 13 2023,17:00,CEST/+0200,Burgos CF,1-1,1-1,SD Huesca,2023-08-13T15:00Z
+1,Sun Aug 13 2023,19:30,CEST/+0200,Albacete,1-1,0-1,Espanyol Barcelona,2023-08-13T17:30Z
+1,Sun Aug 13 2023,19:30,CEST/+0200,FC Cartagena,0-1,0-1,CD Eldense,2023-08-13T17:30Z
+1,Sun Aug 13 2023,22:00,CEST/+0200,CD Leganés,0-1,0-1,FC Andorra,2023-08-13T20:00Z
+1,Mon Aug 14 2023,21:30,CEST/+0200,CD Tenerife,1-0,1-0,Real Oviedo,2023-08-14T19:30Z
+1,Mon Aug 14 2023,19:00,CEST/+0200,CD Mirandés,4-0,2-0,AD Alcorcón,2023-08-14T17:00Z
+2,Fri Aug 18 2023,21:30,CEST/+0200,Real Zaragoza,1-0,1-0,Real Valladolid,2023-08-18T19:30Z
+2,Fri Aug 18 2023,19:00,CEST/+0200,FC Andorra,3-2,0-0,FC Cartagena,2023-08-18T17:00Z
+2,Sat Aug 19 2023,17:00,CEST/+0200,SD Eibar,2-1,1-0,Elche CF,2023-08-19T15:00Z
+2,Sat Aug 19 2023,19:00,CEST/+0200,Espanyol Barcelona,2-0,1-0,Racing Santander,2023-08-19T17:00Z
+2,Sat Aug 19 2023,19:30,CEST/+0200,Levante UD,3-2,2-1,Burgos CF,2023-08-19T17:30Z
+2,Sat Aug 19 2023,22:00,CEST/+0200,AD Alcorcón,0-2,0-0,CD Leganés,2023-08-19T20:00Z
+2,Sun Aug 20 2023,19:30,CEST/+0200,Sporting Gijón,3-0,3-0,CD Mirandés,2023-08-20T17:30Z
+2,Sun Aug 20 2023,22:00,CEST/+0200,Albacete,2-2,1-2,SD Amorebieta,2023-08-20T20:00Z
+2,Sun Aug 20 2023,17:00,CEST/+0200,Real Oviedo,1-1,0-1,Racing Ferrol,2023-08-20T15:00Z
+2,Mon Aug 21 2023,21:30,CEST/+0200,SD Huesca,0-2,0-1,CD Tenerife,2023-08-21T19:30Z
+2,Mon Aug 21 2023,19:00,CEST/+0200,Villarreal CF B,3-1,2-1,CD Eldense,2023-08-21T17:00Z
+3,Fri Aug 25 2023,21:30,CEST/+0200,FC Cartagena,0-1,0-1,Levante UD,2023-08-25T19:30Z
+3,Sat Aug 26 2023,19:00,CEST/+0200,CD Tenerife,0-1,0-0,Real Zaragoza,2023-08-26T17:00Z
+3,Sat Aug 26 2023,21:30,CEST/+0200,Elche CF,1-0,1-0,Villarreal CF B,2023-08-26T19:30Z
+3,Sat Aug 26 2023,21:30,CEST/+0200,Real Valladolid,0-2,0-1,AD Alcorcón,2023-08-26T19:30Z
+3,Sat Aug 26 2023,17:00,CEST/+0200,Burgos CF,1-0,1-0,Real Oviedo,2023-08-26T15:00Z
+3,Sun Aug 27 2023,17:00,CEST/+0200,Racing Ferrol,2-0,0-0,Sporting Gijón,2023-08-27T15:00Z
+3,Sun Aug 27 2023,19:30,CEST/+0200,SD Amorebieta,3-0,1-0,FC Andorra,2023-08-27T17:30Z
+3,Sun Aug 27 2023,19:30,CEST/+0200,CD Mirandés,0-1,0-0,Espanyol Barcelona,2023-08-27T17:30Z
+3,Sun Aug 27 2023,21:30,CEST/+0200,CD Leganés,2-0,1-0,Albacete,2023-08-27T19:30Z
+3,Mon Aug 28 2023,21:30,CEST/+0200,Racing Santander,0-0,0-0,SD Huesca,2023-08-28T19:30Z
+3,Mon Aug 28 2023,19:00,CEST/+0200,CD Eldense,2-1,2-0,SD Eibar,2023-08-28T17:00Z
+4,Fri Sep 1 2023,21:30,CEST/+0200,Albacete,2-0,1-0,Real Valladolid,2023-09-01T19:30Z
+4,Fri Sep 1 2023,19:30,CEST/+0200,AD Alcorcón,1-1,0-0,Racing Ferrol,2023-09-01T17:30Z
+4,Sat Sep 2 2023,18:30,CEST/+0200,Levante UD,1-1,0-0,Real Oviedo,2023-09-02T16:30Z
+4,Sat Sep 2 2023,21:00,CEST/+0200,Elche CF,1-1,1-0,Racing Santander,2023-09-02T19:00Z
+4,Sat Sep 2 2023,21:00,CEST/+0200,Villarreal CF B,1-2,1-0,FC Cartagena,2023-09-02T19:00Z
+4,Sat Sep 2 2023,16:15,CEST/+0200,Sporting Gijón,2-1,1-0,Burgos CF,2023-09-02T14:15Z
+4,Sun Sep 3 2023,14:00,CEST/+0200,FC Andorra,0-1,0-0,CD Tenerife,2023-09-03T12:00Z
+4,Sun Sep 3 2023,16:15,CEST/+0200,SD Eibar,0-1,0-1,CD Leganés,2023-09-03T14:15Z
+4,Sun Sep 3 2023,18:30,CEST/+0200,Espanyol Barcelona,3-2,0-2,SD Amorebieta,2023-09-03T16:30Z
+4,Sun Sep 3 2023,18:30,CEST/+0200,Real Zaragoza,2-0,1-0,CD Eldense,2023-09-03T16:30Z
+4,Sun Sep 3 2023,18:30,CEST/+0200,SD Huesca,1-1,0-0,CD Mirandés,2023-09-03T16:30Z
+5,Fri Sep 8 2023,21:00,CEST/+0200,Levante UD,1-4,1-2,Espanyol Barcelona,2023-09-08T19:00Z
+5,Sat Sep 9 2023,18:30,CEST/+0200,Real Oviedo,0-0,0-0,Sporting Gijón,2023-09-09T16:30Z
+5,Sat Sep 9 2023,21:00,CEST/+0200,CD Leganés,2-0,1-0,SD Huesca,2023-09-09T19:00Z
+5,Sat Sep 9 2023,21:00,CEST/+0200,CD Tenerife,2-0,2-0,Albacete,2023-09-09T19:00Z
+5,Sat Sep 9 2023,16:15,CEST/+0200,Burgos CF,1-0,0-0,SD Eibar,2023-09-09T14:15Z
+5,Sun Sep 10 2023,16:15,CEST/+0200,Racing Ferrol,2-2,0-1,Villarreal CF B,2023-09-10T14:15Z
+5,Sun Sep 10 2023,16:15,CEST/+0200,Racing Santander,1-0,1-0,SD Amorebieta,2023-09-10T14:15Z
+5,Sun Sep 10 2023,18:30,CEST/+0200,CD Mirandés,4-3,2-0,FC Andorra,2023-09-10T16:30Z
+5,Sun Sep 10 2023,18:30,CEST/+0200,FC Cartagena,1-3,1-2,Real Zaragoza,2023-09-10T16:30Z
+5,Sun Sep 10 2023,21:00,CEST/+0200,Real Valladolid,1-1,1-0,Elche CF,2023-09-10T19:00Z
+5,Mon Sep 11 2023,21:00,CEST/+0200,CD Eldense,2-2,0-0,AD Alcorcón,2023-09-11T19:00Z
+6,Fri Sep 15 2023,21:30,CEST/+0200,Real Zaragoza,1-1,1-1,Racing Santander,2023-09-15T19:30Z
+6,Sat Sep 16 2023,16:15,CEST/+0200,SD Huesca,2-2,0-2,Villarreal CF B,2023-09-16T14:15Z
+6,Sat Sep 16 2023,18:30,CEST/+0200,AD Alcorcón,0-2,0-1,Levante UD,2023-09-16T16:30Z
+6,Sat Sep 16 2023,18:30,CEST/+0200,Real Valladolid,1-0,0-0,FC Cartagena,2023-09-16T16:30Z
+6,Sat Sep 16 2023,21:00,CEST/+0200,Albacete,2-1,1-0,Burgos CF,2023-09-16T19:00Z
+6,Sun Sep 17 2023,16:15,CEST/+0200,SD Eibar,2-0,1-0,Racing Ferrol,2023-09-17T14:15Z
+6,Sun Sep 17 2023,18:30,CEST/+0200,Espanyol Barcelona,3-3,0-2,CD Eldense,2023-09-17T16:30Z
+6,Sun Sep 17 2023,18:30,CEST/+0200,Elche CF,1-0,1-0,CD Leganés,2023-09-17T16:30Z
+6,Sun Sep 17 2023,21:00,CEST/+0200,Sporting Gijón,2-1,1-1,CD Tenerife,2023-09-17T19:00Z
+6,Sun Sep 17 2023,14:00,CEST/+0200,SD Amorebieta,2-0,2-0,CD Mirandés,2023-09-17T12:00Z
+6,Mon Sep 18 2023,21:00,CEST/+0200,FC Andorra,1-0,0-0,Real Oviedo,2023-09-18T19:00Z
+7,Fri Sep 22 2023,21:00,CEST/+0200,FC Cartagena,1-2,0-1,SD Eibar,2023-09-22T19:00Z
+7,Sat Sep 23 2023,16:15,CEST/+0200,Levante UD,2-0,1-0,CD Eldense,2023-09-23T14:15Z
+7,Sat Sep 23 2023,18:30,CEST/+0200,Burgos CF,4-0,2-0,Elche CF,2023-09-23T16:30Z
+7,Sat Sep 23 2023,21:00,CEST/+0200,AD Alcorcón,0-2,0-2,SD Huesca,2023-09-23T19:00Z
+7,Sat Sep 23 2023,21:00,CEST/+0200,Racing Santander,2-1,2-0,Albacete,2023-09-23T19:00Z
+7,Sat Sep 23 2023,14:00,CEST/+0200,FC Andorra,0-0,0-0,Sporting Gijón,2023-09-23T12:00Z
+7,Sun Sep 24 2023,14:00,CEST/+0200,Villarreal CF B,3-1,1-0,SD Amorebieta,2023-09-24T12:00Z
+7,Sun Sep 24 2023,16:15,CEST/+0200,Real Oviedo,0-1,0-0,Real Valladolid,2023-09-24T14:15Z
+7,Sun Sep 24 2023,18:30,CEST/+0200,CD Mirandés,1-3,1-1,CD Leganés,2023-09-24T16:30Z
+7,Mon Sep 25 2023,22:00,CEST/+0200,CD Tenerife,1-0,1-0,Espanyol Barcelona,2023-09-25T20:00Z
+7,Mon Sep 25 2023,21:00,CEST/+0200,Racing Ferrol,1-0,0-0,Real Zaragoza,2023-09-25T19:00Z
+8,Fri Sep 29 2023,21:00,CEST/+0200,CD Leganés,2-1,1-0,Racing Santander,2023-09-29T19:00Z
+8,Sat Sep 30 2023,16:15,CEST/+0200,SD Eibar,3-0,0-0,CD Tenerife,2023-09-30T14:15Z
+8,Sat Sep 30 2023,18:30,CEST/+0200,Elche CF,0-0,0-0,Levante UD,2023-09-30T16:30Z
+8,Sat Sep 30 2023,21:00,CEST/+0200,Albacete,3-1,2-0,FC Andorra,2023-09-30T19:00Z
+8,Sat Sep 30 2023,21:00,CEST/+0200,Villarreal CF B,2-2,1-2,AD Alcorcón,2023-09-30T19:00Z
+8,Sun Oct 1 2023,16:15,CEST/+0200,Real Zaragoza,0-1,0-0,CD Mirandés,2023-10-01T14:15Z
+8,Sun Oct 1 2023,18:30,CEST/+0200,SD Amorebieta,0-0,0-0,FC Cartagena,2023-10-01T16:30Z
+8,Sun Oct 1 2023,18:30,CEST/+0200,Real Valladolid,3-0,2-0,Burgos CF,2023-10-01T16:30Z
+8,Sun Oct 1 2023,21:00,CEST/+0200,SD Huesca,0-1,0-0,Sporting Gijón,2023-10-01T19:00Z
+8,Sun Oct 1 2023,14:00,CEST/+0200,CD Eldense,1-3,0-3,Real Oviedo,2023-10-01T12:00Z
+8,Mon Oct 2 2023,21:00,CEST/+0200,Espanyol Barcelona,3-0,1-0,Racing Ferrol,2023-10-02T19:00Z
+9,Tue Oct 3 2023,19:00,CEST/+0200,Levante UD,1-1,0-0,Villarreal CF B,2023-10-03T17:00Z
+9,Tue Oct 3 2023,21:30,CEST/+0200,CD Tenerife,2-0,0-0,Racing Santander,2023-10-03T19:30Z
+9,Tue Oct 3 2023,19:00,CEST/+0200,AD Alcorcón,1-2,0-1,Albacete,2023-10-03T17:00Z
+9,Wed Oct 4 2023,19:00,CEST/+0200,CD Eldense,0-1,0-1,Real Valladolid,2023-10-04T17:00Z
+9,Wed Oct 4 2023,19:00,CEST/+0200,Real Oviedo,1-0,0-0,SD Huesca,2023-10-04T17:00Z
+9,Wed Oct 4 2023,21:30,CEST/+0200,Burgos CF,1-0,1-0,CD Leganés,2023-10-04T19:30Z
+9,Wed Oct 4 2023,21:30,CEST/+0200,Sporting Gijón,2-0,2-0,Elche CF,2023-10-04T19:30Z
+9,Thu Oct 5 2023,19:00,CEST/+0200,CD Mirandés,1-3,1-1,SD Eibar,2023-10-05T17:00Z
+9,Thu Oct 5 2023,21:30,CEST/+0200,FC Cartagena,0-2,0-1,Espanyol Barcelona,2023-10-05T19:30Z
+9,Thu Oct 5 2023,21:30,CEST/+0200,Racing Ferrol,1-0,1-0,SD Amorebieta,2023-10-05T19:30Z
+9,Thu Oct 5 2023,19:00,CEST/+0200,FC Andorra,0-1,0-1,Real Zaragoza,2023-10-05T17:00Z
+10,Fri Oct 6 2023,21:00,CEST/+0200,Albacete,0-2,0-1,Levante UD,2023-10-06T19:00Z
+10,Sat Oct 7 2023,16:15,CEST/+0200,SD Huesca,0-1,0-0,CD Eldense,2023-10-07T14:15Z
+10,Sat Oct 7 2023,18:30,CEST/+0200,Racing Santander,3-2,1-1,Sporting Gijón,2023-10-07T16:30Z
+10,Sat Oct 7 2023,21:00,CEST/+0200,CD Leganés,0-0,0-0,Real Oviedo,2023-10-07T19:00Z
+10,Sun Oct 8 2023,16:15,CEST/+0200,Real Valladolid,3-2,0-0,CD Mirandés,2023-10-08T14:15Z
+10,Sun Oct 8 2023,18:30,CEST/+0200,CD Tenerife,2-1,0-0,Burgos CF,2023-10-08T16:30Z
+10,Sun Oct 8 2023,18:30,CEST/+0200,Racing Ferrol,1-1,0-1,FC Cartagena,2023-10-08T16:30Z
+10,Sun Oct 8 2023,21:00,CEST/+0200,Real Zaragoza,0-2,0-1,AD Alcorcón,2023-10-08T19:00Z
+10,Sun Oct 8 2023,14:00,CEST/+0200,SD Amorebieta,1-2,1-1,SD Eibar,2023-10-08T12:00Z
+10,Mon Oct 9 2023,19:00,CEST/+0200,Elche CF,2-1,1-0,FC Andorra,2023-10-09T17:00Z
+10,Mon Oct 9 2023,21:00,CEST/+0200,Villarreal CF B,3-1,2-1,Espanyol Barcelona,2023-10-09T19:00Z
+11,Fri Oct 13 2023,21:00,CEST/+0200,Real Oviedo,3-0,0-0,Albacete,2023-10-13T19:00Z
+11,Sat Oct 14 2023,18:30,CEST/+0200,FC Cartagena,2-3,2-2,Racing Santander,2023-10-14T16:30Z
+11,Sat Oct 14 2023,18:30,CEST/+0200,Sporting Gijón,2-2,0-1,Real Zaragoza,2023-10-14T16:30Z
+11,Sat Oct 14 2023,21:00,CEST/+0200,Espanyol Barcelona,2-0,2-0,Real Valladolid,2023-10-14T19:00Z
+11,Sat Oct 14 2023,16:15,CEST/+0200,CD Mirandés,1-1,1-1,CD Tenerife,2023-10-14T14:15Z
+11,Sun Oct 15 2023,14:00,CEST/+0200,Burgos CF,3-2,0-0,Villarreal CF B,2023-10-15T12:00Z
+11,Sun Oct 15 2023,16:15,CEST/+0200,FC Andorra,2-0,0-0,AD Alcorcón,2023-10-15T14:15Z
+11,Sun Oct 15 2023,16:15,CEST/+0200,CD Eldense,1-1,1-0,Elche CF,2023-10-15T14:15Z
+11,Sun Oct 15 2023,18:30,CEST/+0200,CD Leganés,6-0,2-0,SD Amorebieta,2023-10-15T16:30Z
+11,Sun Oct 15 2023,18:30,CEST/+0200,SD Eibar,1-1,0-1,SD Huesca,2023-10-15T16:30Z
+11,Mon Oct 16 2023,21:00,CEST/+0200,Levante UD,1-0,0-0,Racing Ferrol,2023-10-16T19:00Z
+12,Fri Oct 20 2023,21:00,CEST/+0200,Espanyol Barcelona,0-1,0-0,CD Leganés,2023-10-20T19:00Z
+12,Sat Oct 21 2023,16:15,CEST/+0200,Villarreal CF B,0-3,0-1,CD Mirandés,2023-10-21T14:15Z
+12,Sat Oct 21 2023,18:30,CEST/+0200,CD Tenerife,0-0,0-0,Levante UD,2023-10-21T16:30Z
+12,Sat Oct 21 2023,21:00,CEST/+0200,Real Zaragoza,2-3,2-0,SD Eibar,2023-10-21T19:00Z
+12,Sat Oct 21 2023,16:15,CEST/+0200,SD Amorebieta,0-0,0-0,Real Oviedo,2023-10-21T14:15Z
+12,Sun Oct 22 2023,14:00,CEST/+0200,Racing Ferrol,1-1,0-0,CD Eldense,2023-10-22T12:00Z
+12,Sun Oct 22 2023,16:15,CEST/+0200,SD Huesca,0-1,0-1,Elche CF,2023-10-22T14:15Z
+12,Sun Oct 22 2023,18:30,CEST/+0200,Albacete,1-3,0-1,Sporting Gijón,2023-10-22T16:30Z
+12,Sun Oct 22 2023,18:30,CEST/+0200,Racing Santander,3-0,1-0,Burgos CF,2023-10-22T16:30Z
+12,Sun Oct 22 2023,21:00,CEST/+0200,Real Valladolid,2-0,2-0,FC Andorra,2023-10-22T19:00Z
+12,Mon Oct 23 2023,21:00,CEST/+0200,AD Alcorcón,1-1,1-0,FC Cartagena,2023-10-23T19:00Z
+13,Fri Oct 27 2023,21:00,CEST/+0200,SD Eibar,5-1,2-0,Real Valladolid,2023-10-27T19:00Z
+13,Sat Oct 28 2023,18:30,CEST/+0200,FC Andorra,2-0,0-0,Levante UD,2023-10-28T16:30Z
+13,Sat Oct 28 2023,18:30,CEST/+0200,Sporting Gijón,2-0,1-0,Espanyol Barcelona,2023-10-28T16:30Z
+13,Sat Oct 28 2023,21:00,CEST/+0200,Elche CF,2-1,0-0,CD Tenerife,2023-10-28T19:00Z
+13,Sat Oct 28 2023,14:00,CEST/+0200,CD Eldense,2-0,1-0,SD Amorebieta,2023-10-28T12:00Z
+13,Sun Oct 29 2023,14:00,CET/+0100,CD Mirandés,2-1,0-0,FC Cartagena,2023-10-29T13:00Z
+13,Sun Oct 29 2023,16:15,CET/+0100,SD Huesca,0-0,0-0,Albacete,2023-10-29T15:15Z
+13,Sun Oct 29 2023,18:30,CET/+0100,CD Leganés,1-0,0-0,Villarreal CF B,2023-10-29T17:30Z
+13,Sun Oct 29 2023,18:30,CET/+0100,Real Oviedo,2-0,1-0,AD Alcorcón,2023-10-29T17:30Z
+13,Sun Oct 29 2023,21:00,CET/+0100,Racing Santander,1-3,1-2,Racing Ferrol,2023-10-29T20:00Z
+13,Mon Oct 30 2023,21:00,CET/+0100,Burgos CF,1-1,0-1,Real Zaragoza,2023-10-30T20:00Z
+14,Fri Nov 3 2023,21:00,CET/+0100,Espanyol Barcelona,2-2,1-1,SD Eibar,2023-11-03T20:00Z
+14,Sat Nov 4 2023,16:15,CET/+0100,Villarreal CF B,0-3,0-1,Sporting Gijón,2023-11-04T15:15Z
+14,Sat Nov 4 2023,18:30,CET/+0100,Real Valladolid,2-0,0-0,CD Tenerife,2023-11-04T17:30Z
+14,Sat Nov 4 2023,18:30,CET/+0100,Levante UD,2-2,1-1,CD Mirandés,2023-11-04T17:30Z
+14,Sat Nov 4 2023,21:00,CET/+0100,Albacete,1-1,0-0,Elche CF,2023-11-04T20:00Z
+14,Sun Nov 5 2023,16:15,CET/+0100,SD Amorebieta,0-1,0-0,SD Huesca,2023-11-05T15:15Z
+14,Sun Nov 5 2023,18:30,CET/+0100,AD Alcorcón,3-1,1-0,Racing Santander,2023-11-05T17:30Z
+14,Sun Nov 5 2023,18:30,CET/+0100,FC Cartagena,0-3,0-0,CD Leganés,2023-11-05T17:30Z
+14,Sun Nov 5 2023,21:00,CET/+0100,CD Eldense,2-0,1-0,Burgos CF,2023-11-05T20:00Z
+14,Sun Nov 5 2023,14:00,CET/+0100,Racing Ferrol,1-0,1-0,FC Andorra,2023-11-05T13:00Z
+14,Mon Nov 6 2023,21:00,CET/+0100,Real Zaragoza,0-0,0-0,Real Oviedo,2023-11-06T20:00Z
+15,Fri Nov 10 2023,20:30,CET/+0100,CD Leganés,2-1,0-1,Levante UD,2023-11-10T19:30Z
+15,Sat Nov 11 2023,18:30,CET/+0100,CD Mirandés,1-2,0-2,Racing Ferrol,2023-11-11T17:30Z
+15,Sat Nov 11 2023,18:30,CET/+0100,Elche CF,2-0,0-0,Real Zaragoza,2023-11-11T17:30Z
+15,Sat Nov 11 2023,21:00,CET/+0100,Sporting Gijón,1-1,0-0,SD Amorebieta,2023-11-11T20:00Z
+15,Sat Nov 11 2023,16:15,CET/+0100,Racing Santander,2-3,0-1,Real Valladolid,2023-11-11T15:15Z
+15,Sun Nov 12 2023,14:00,CET/+0100,Burgos CF,4-2,0-2,AD Alcorcón,2023-11-12T13:00Z
+15,Sun Nov 12 2023,16:15,CET/+0100,FC Andorra,1-3,1-1,CD Eldense,2023-11-12T15:15Z
+15,Sun Nov 12 2023,18:30,CET/+0100,CD Tenerife,0-1,0-1,Villarreal CF B,2023-11-12T17:30Z
+15,Sun Nov 12 2023,18:30,CET/+0100,SD Huesca,1-1,0-0,Espanyol Barcelona,2023-11-12T17:30Z
+15,Sun Nov 12 2023,21:00,CET/+0100,SD Eibar,1-1,1-0,Albacete,2023-11-12T20:00Z
+15,Mon Nov 13 2023,21:00,CET/+0100,Real Oviedo,1-1,0-1,FC Cartagena,2023-11-13T20:00Z
+16,Fri Nov 17 2023,21:00,CET/+0100,Real Valladolid,1-1,1-0,CD Leganés,2023-11-17T20:00Z
+16,Sat Nov 18 2023,16:15,CET/+0100,AD Alcorcón,0-0,0-0,Sporting Gijón,2023-11-18T15:15Z
+16,Sat Nov 18 2023,18:30,CET/+0100,SD Amorebieta,2-0,1-0,CD Tenerife,2023-11-18T17:30Z
+16,Sat Nov 18 2023,18:30,CET/+0100,Real Zaragoza,0-2,0-1,SD Huesca,2023-11-18T17:30Z
+16,Sat Nov 18 2023,21:00,CET/+0100,Espanyol Barcelona,2-0,2-0,Elche CF,2023-11-18T20:00Z
+16,Sun Nov 19 2023,16:15,CET/+0100,CD Eldense,2-2,1-1,CD Mirandés,2023-11-19T15:15Z
+16,Sun Nov 19 2023,16:15,CET/+0100,Real Oviedo,2-1,0-1,SD Eibar,2023-11-19T15:15Z
+16,Sun Nov 19 2023,18:30,CET/+0100,FC Cartagena,1-1,1-0,Albacete,2023-11-19T17:30Z
+16,Sun Nov 19 2023,18:30,CET/+0100,Villarreal CF B,0-0,0-0,FC Andorra,2023-11-19T17:30Z
+16,Sun Nov 19 2023,14:00,CET/+0100,Racing Ferrol,1-1,0-0,Burgos CF,2023-11-19T13:00Z
+16,Mon Nov 20 2023,21:00,CET/+0100,Levante UD,2-4,2-1,Racing Santander,2023-11-20T20:00Z
+17,Fri Nov 24 2023,21:00,CET/+0100,SD Huesca,0-1,0-0,Real Valladolid,2023-11-24T20:00Z
+17,Sat Nov 25 2023,16:15,CET/+0100,Racing Santander,2-0,1-0,Villarreal CF B,2023-11-25T15:15Z
+17,Sat Nov 25 2023,18:30,CET/+0100,Albacete,1-0,0-0,Real Zaragoza,2023-11-25T17:30Z
+17,Sat Nov 25 2023,21:00,CET/+0100,SD Eibar,3-1,1-1,Levante UD,2023-11-25T20:00Z
+17,Sat Nov 25 2023,16:15,CET/+0100,Burgos CF,0-0,0-0,FC Andorra,2023-11-25T15:15Z
+17,Sun Nov 26 2023,14:00,CET/+0100,CD Leganés,2-2,2-2,Racing Ferrol,2023-11-26T13:00Z
+17,Sun Nov 26 2023,16:15,CET/+0100,CD Mirandés,2-1,1-0,Real Oviedo,2023-11-26T15:15Z
+17,Sun Nov 26 2023,16:15,CET/+0100,Elche CF,2-0,0-0,SD Amorebieta,2023-11-26T15:15Z
+17,Sun Nov 26 2023,18:30,CET/+0100,CD Tenerife,1-1,0-1,FC Cartagena,2023-11-26T17:30Z
+17,Sun Nov 26 2023,21:00,CET/+0100,Espanyol Barcelona,2-0,1-0,AD Alcorcón,2023-11-26T20:00Z
+17,Mon Nov 27 2023,21:00,CET/+0100,Sporting Gijón,2-0,1-0,CD Eldense,2023-11-27T20:00Z
+18,Fri Dec 1 2023,20:30,CET/+0100,Real Oviedo,2-0,1-0,Espanyol Barcelona,2023-12-01T19:30Z
+18,Sat Dec 2 2023,16:15,CET/+0100,CD Eldense,0-3,0-1,CD Tenerife,2023-12-02T15:15Z
+18,Sat Dec 2 2023,16:15,CET/+0100,FC Cartagena,1-0,0-0,Sporting Gijón,2023-12-02T15:15Z
+18,Sat Dec 2 2023,18:30,CET/+0100,Real Zaragoza,1-0,1-0,CD Leganés,2023-12-02T17:30Z
+18,Sat Dec 2 2023,21:00,CET/+0100,Levante UD,2-1,2-1,Real Valladolid,2023-12-02T20:00Z
+18,Sun Dec 3 2023,16:15,CET/+0100,AD Alcorcón,0-2,0-1,Elche CF,2023-12-03T15:15Z
+18,Sun Dec 3 2023,18:30,CET/+0100,CD Mirandés,0-0,0-0,Racing Santander,2023-12-03T17:30Z
+18,Sun Dec 3 2023,18:30,CET/+0100,Racing Ferrol,5-4,1-1,Albacete,2023-12-03T17:30Z
+18,Sun Dec 3 2023,21:00,CET/+0100,SD Amorebieta,0-1,0-1,Burgos CF,2023-12-03T20:00Z
+18,Sun Dec 3 2023,14:00,CET/+0100,FC Andorra,1-0,0-0,SD Huesca,2023-12-03T13:00Z
+18,Mon Dec 4 2023,20:30,CET/+0100,Villarreal CF B,1-0,0-0,SD Eibar,2023-12-04T19:30Z
+19,Fri Dec 8 2023,21:00,CET/+0100,Espanyol Barcelona,1-1,0-0,Real Zaragoza,2023-12-08T20:00Z
+19,Fri Dec 8 2023,18:30,CET/+0100,Albacete,2-0,0-0,Villarreal CF B,2023-12-08T17:30Z
+19,Sat Dec 9 2023,18:30,CET/+0100,Sporting Gijón,0-0,0-0,Levante UD,2023-12-09T17:30Z
+19,Sat Dec 9 2023,21:00,CET/+0100,Burgos CF,0-0,0-0,CD Mirandés,2023-12-09T20:00Z
+19,Sat Dec 9 2023,16:15,CET/+0100,Real Valladolid,2-1,0-1,SD Amorebieta,2023-12-09T15:15Z
+19,Sun Dec 10 2023,14:00,CET/+0100,Elche CF,1-2,1-0,FC Cartagena,2023-12-10T13:00Z
+19,Sun Dec 10 2023,16:15,CET/+0100,Racing Santander,2-2,1-2,Real Oviedo,2023-12-10T15:15Z
+19,Sun Dec 10 2023,18:30,CET/+0100,CD Leganés,1-1,1-1,CD Eldense,2023-12-10T17:30Z
+19,Sun Dec 10 2023,18:30,CET/+0100,SD Eibar,2-2,2-1,FC Andorra,2023-12-10T17:30Z
+19,Sun Dec 10 2023,21:00,CET/+0100,SD Huesca,1-0,1-0,Racing Ferrol,2023-12-10T20:00Z
+19,Mon Dec 11 2023,21:00,CET/+0100,CD Tenerife,1-0,0-0,AD Alcorcón,2023-12-11T20:00Z
+20,Fri Dec 15 2023,20:30,CET/+0100,Real Oviedo,3-2,1-2,Elche CF,2023-12-15T19:30Z
+20,Sat Dec 16 2023,14:00,CET/+0100,CD Eldense,3-3,0-2,Racing Santander,2023-12-16T13:00Z
+20,Sat Dec 16 2023,16:15,CET/+0100,FC Andorra,1-1,0-0,Espanyol Barcelona,2023-12-16T15:15Z
+20,Sat Dec 16 2023,18:30,CET/+0100,FC Cartagena,0-3,0-1,Burgos CF,2023-12-16T17:30Z
+20,Sat Dec 16 2023,18:30,CET/+0100,Sporting Gijón,1-1,0-1,CD Leganés,2023-12-16T17:30Z
+20,Sat Dec 16 2023,21:00,CET/+0100,CD Mirandés,2-0,1-0,Albacete,2023-12-16T20:00Z
+20,Sun Dec 17 2023,16:15,CET/+0100,Levante UD,2-1,2-0,SD Huesca,2023-12-17T15:15Z
+20,Sun Dec 17 2023,18:30,CET/+0100,SD Amorebieta,1-1,1-1,Real Zaragoza,2023-12-17T17:30Z
+20,Sun Dec 17 2023,21:00,CET/+0100,Racing Ferrol,3-1,1-0,CD Tenerife,2023-12-17T20:00Z
+20,Sun Dec 17 2023,14:00,CET/+0100,AD Alcorcón,1-0,1-0,SD Eibar,2023-12-17T13:00Z
+20,Mon Dec 18 2023,20:30,CET/+0100,Villarreal CF B,1-0,1-0,Real Valladolid,2023-12-18T19:30Z
+21,Tue Dec 19 2023,19:00,CET/+0100,Racing Santander,2-0,1-0,FC Andorra,2023-12-19T18:00Z
+21,Tue Dec 19 2023,21:30,CET/+0100,Espanyol Barcelona,3-3,1-2,Burgos CF,2023-12-19T20:30Z
+21,Tue Dec 19 2023,21:30,CET/+0100,Elche CF,0-0,0-0,CD Mirandés,2023-12-19T20:30Z
+21,Tue Dec 19 2023,19:00,CET/+0100,Albacete,1-1,0-0,CD Eldense,2023-12-19T18:00Z
+21,Wed Dec 20 2023,19:00,CET/+0100,Real Zaragoza,2-2,2-0,Levante UD,2023-12-20T18:00Z
+21,Wed Dec 20 2023,21:30,CET/+0100,CD Leganés,1-1,0-0,CD Tenerife,2023-12-20T20:30Z
+21,Wed Dec 20 2023,21:30,CET/+0100,SD Eibar,1-1,0-1,Sporting Gijón,2023-12-20T20:30Z
+21,Thu Dec 21 2023,19:00,CET/+0100,SD Huesca,3-0,3-0,FC Cartagena,2023-12-21T18:00Z
+21,Thu Dec 21 2023,21:30,CET/+0100,SD Amorebieta,1-2,1-1,AD Alcorcón,2023-12-21T20:30Z
+21,Thu Dec 21 2023,21:30,CET/+0100,Real Valladolid,0-1,0-1,Racing Ferrol,2023-12-21T20:30Z
+21,Thu Dec 21 2023,19:00,CET/+0100,Villarreal CF B,1-1,1-0,Real Oviedo,2023-12-21T18:00Z
+22,Fri Jan 12 2024,20:30,CET/+0100,SD Eibar,2-0,1-0,Racing Santander,2024-01-12T19:30Z
+22,Sat Jan 13 2024,14:00,CET/+0100,AD Alcorcón,0-0,0-0,CD Mirandés,2024-01-13T13:00Z
+22,Sat Jan 13 2024,16:15,CET/+0100,Levante UD,3-2,2-0,Albacete,2024-01-13T15:15Z
+22,Sat Jan 13 2024,18:30,CET/+0100,CD Tenerife,0-1,0-1,Elche CF,2024-01-13T17:30Z
+22,Sat Jan 13 2024,18:30,CET/+0100,Real Oviedo,1-1,1-1,SD Amorebieta,2024-01-13T17:30Z
+22,Sat Jan 13 2024,21:00,CET/+0100,Burgos CF,1-0,1-0,Real Valladolid,2024-01-13T20:00Z
+22,Sat Jan 13 2024,21:00,CET/+0100,Racing Ferrol,0-0,0-0,Espanyol Barcelona,2024-01-13T20:00Z
+22,Sun Jan 14 2024,16:15,CET/+0100,FC Cartagena,4-1,0-1,Villarreal CF B,2024-01-14T15:15Z
+22,Sun Jan 14 2024,16:15,CET/+0100,Sporting Gijón,0-0,0-0,SD Huesca,2024-01-14T15:15Z
+22,Sun Jan 14 2024,14:00,CET/+0100,FC Andorra,2-3,0-0,CD Leganés,2024-01-14T13:00Z
+22,Mon Jan 15 2024,20:30,CET/+0100,CD Eldense,1-1,1-1,Real Zaragoza,2024-01-15T19:30Z
+23,Fri Jan 19 2024,20:30,CET/+0100,Real Zaragoza,2-0,1-0,FC Andorra,2024-01-19T19:30Z
+23,Sat Jan 20 2024,14:00,CET/+0100,Albacete,0-1,0-0,AD Alcorcón,2024-01-20T13:00Z
+23,Sat Jan 20 2024,16:15,CET/+0100,SD Amorebieta,0-2,0-1,CD Eldense,2024-01-20T15:15Z
+23,Sat Jan 20 2024,18:30,CET/+0100,CD Tenerife,1-2,1-1,Sporting Gijón,2024-01-20T17:30Z
+23,Sat Jan 20 2024,18:30,CET/+0100,Espanyol Barcelona,2-1,2-1,Villarreal CF B,2024-01-20T17:30Z
+23,Sat Jan 20 2024,21:00,CET/+0100,Racing Ferrol,1-3,0-0,Real Oviedo,2024-01-20T20:00Z
+23,Sun Jan 21 2024,16:15,CET/+0100,CD Mirandés,1-1,0-1,Levante UD,2024-01-21T15:15Z
+23,Sun Jan 21 2024,18:30,CET/+0100,SD Huesca,2-3,0-2,SD Eibar,2024-01-21T17:30Z
+23,Sun Jan 21 2024,21:00,CET/+0100,Elche CF,0-0,0-0,Real Valladolid,2024-01-21T20:00Z
+23,Sun Jan 21 2024,14:00,CET/+0100,Racing Santander,0-2,0-1,FC Cartagena,2024-01-21T13:00Z
+23,Mon Jan 22 2024,20:30,CET/+0100,CD Leganés,2-0,2-0,Burgos CF,2024-01-22T19:30Z
+24,Fri Jan 26 2024,20:30,CET/+0100,SD Eibar,1-0,0-0,CD Mirandés,2024-01-26T19:30Z
+24,Sat Jan 27 2024,16:15,CET/+0100,FC Cartagena,1-0,0-0,SD Amorebieta,2024-01-27T15:15Z
+24,Sat Jan 27 2024,18:30,CET/+0100,Real Oviedo,1-0,0-0,CD Leganés,2024-01-27T17:30Z
+24,Sat Jan 27 2024,21:00,CET/+0100,Levante UD,0-0,0-0,CD Tenerife,2024-01-27T20:00Z
+24,Sat Jan 27 2024,16:15,CET/+0100,AD Alcorcón,0-0,0-0,Real Zaragoza,2024-01-27T15:15Z
+24,Sun Jan 28 2024,14:00,CET/+0100,CD Eldense,3-2,2-2,Espanyol Barcelona,2024-01-28T13:00Z
+24,Sun Jan 28 2024,16:15,CET/+0100,FC Andorra,0-1,0-0,Elche CF,2024-01-28T15:15Z
+24,Sun Jan 28 2024,16:15,CET/+0100,Villarreal CF B,1-1,0-1,SD Huesca,2024-01-28T15:15Z
+24,Sun Jan 28 2024,18:30,CET/+0100,Burgos CF,2-1,1-1,Albacete,2024-01-28T17:30Z
+24,Sun Jan 28 2024,21:00,CET/+0100,Sporting Gijón,1-2,0-0,Racing Ferrol,2024-01-28T20:00Z
+24,Mon Jan 29 2024,20:30,CET/+0100,Real Valladolid,3-1,1-0,Racing Santander,2024-01-29T19:30Z
+25,Fri Feb 2 2024,20:30,CET/+0100,Elche CF,2-0,0-0,Burgos CF,2024-02-02T19:30Z
+25,Sat Feb 3 2024,14:00,CET/+0100,Albacete,1-1,1-0,FC Cartagena,2024-02-03T13:00Z
+25,Sat Feb 3 2024,16:15,CET/+0100,CD Mirandés,3-0,1-0,Villarreal CF B,2024-02-03T15:15Z
+25,Sat Feb 3 2024,16:15,CET/+0100,SD Huesca,1-0,0-0,AD Alcorcón,2024-02-03T15:15Z
+25,Sat Feb 3 2024,18:30,CET/+0100,CD Leganés,0-0,0-0,Real Valladolid,2024-02-03T17:30Z
+25,Sat Feb 3 2024,21:00,CET/+0100,CD Tenerife,0-0,0-0,FC Andorra,2024-02-03T20:00Z
+25,Sun Feb 4 2024,16:15,CET/+0100,SD Amorebieta,0-1,0-1,Racing Santander,2024-02-04T15:15Z
+25,Sun Feb 4 2024,16:15,CET/+0100,Real Oviedo,1-1,0-1,CD Eldense,2024-02-04T15:15Z
+25,Sun Feb 4 2024,18:30,CET/+0100,Espanyol Barcelona,2-1,1-0,Levante UD,2024-02-04T17:30Z
+25,Sun Feb 4 2024,14:00,CET/+0100,Racing Ferrol,1-1,0-0,SD Eibar,2024-02-04T13:00Z
+25,Mon Feb 5 2024,20:30,CET/+0100,Real Zaragoza,3-0,1-0,Sporting Gijón,2024-02-05T19:30Z
+26,Fri Feb 9 2024,20:30,CET/+0100,Levante UD,0-0,0-0,CD Leganés,2024-02-09T19:30Z
+26,Sat Feb 10 2024,16:15,CET/+0100,CD Eldense,0-0,0-0,SD Huesca,2024-02-10T15:15Z
+26,Sat Feb 10 2024,18:30,CET/+0100,Sporting Gijón,1-0,1-0,Real Oviedo,2024-02-10T17:30Z
+26,Sat Feb 10 2024,21:00,CET/+0100,Racing Santander,2-0,2-0,Espanyol Barcelona,2024-02-10T20:00Z
+26,Sat Feb 10 2024,16:15,CET/+0100,SD Amorebieta,1-0,0-0,Elche CF,2024-02-10T15:15Z
+26,Sun Feb 11 2024,14:00,CET/+0100,Villarreal CF B,1-0,0-0,CD Tenerife,2024-02-11T13:00Z
+26,Sun Feb 11 2024,16:15,CET/+0100,AD Alcorcón,1-0,1-0,FC Andorra,2024-02-11T15:15Z
+26,Sun Feb 11 2024,16:15,CET/+0100,FC Cartagena,1-0,1-0,CD Mirandés,2024-02-11T15:15Z
+26,Sun Feb 11 2024,18:30,CET/+0100,SD Eibar,1-0,1-0,Real Zaragoza,2024-02-11T17:30Z
+26,Sun Feb 11 2024,21:00,CET/+0100,Burgos CF,2-0,2-0,Racing Ferrol,2024-02-11T20:00Z
+26,Mon Feb 12 2024,20:30,CET/+0100,Real Valladolid,0-0,0-0,Albacete,2024-02-12T19:30Z
+27,Fri Feb 16 2024,20:30,CET/+0100,Real Zaragoza,1-2,0-1,FC Cartagena,2024-02-16T19:30Z
+27,Sat Feb 17 2024,16:15,CET/+0100,FC Andorra,1-1,0-0,Villarreal CF B,2024-02-17T15:15Z
+27,Sat Feb 17 2024,16:15,CET/+0100,Real Oviedo,5-0,3-0,Burgos CF,2024-02-17T15:15Z
+27,Sat Feb 17 2024,18:30,CET/+0100,Sporting Gijón,1-1,0-1,Real Valladolid,2024-02-17T17:30Z
+27,Sat Feb 17 2024,21:00,CET/+0100,Espanyol Barcelona,3-0,1-0,CD Mirandés,2024-02-17T20:00Z
+27,Sun Feb 18 2024,16:15,CET/+0100,CD Leganés,3-0,1-0,AD Alcorcón,2024-02-18T15:15Z
+27,Sun Feb 18 2024,16:15,CET/+0100,Racing Ferrol,0-0,0-0,Levante UD,2024-02-18T15:15Z
+27,Sun Feb 18 2024,18:30,CET/+0100,SD Huesca,0-0,0-0,SD Amorebieta,2024-02-18T17:30Z
+27,Sun Feb 18 2024,21:00,CET/+0100,Elche CF,0-0,0-0,SD Eibar,2024-02-18T20:00Z
+27,Sun Feb 18 2024,14:00,CET/+0100,Albacete,2-0,0-0,Racing Santander,2024-02-18T13:00Z
+27,Mon Feb 19 2024,20:30,CET/+0100,CD Tenerife,1-0,1-0,CD Eldense,2024-02-19T19:30Z
+28,Fri Feb 23 2024,20:30,CET/+0100,Real Valladolid,3-0,1-0,Real Oviedo,2024-02-23T19:30Z
+28,Sat Feb 24 2024,18:30,CET/+0100,Villarreal CF B,0-0,0-0,Real Zaragoza,2024-02-24T17:30Z
+28,Sat Feb 24 2024,18:30,CET/+0100,SD Eibar,2-3,1-0,Espanyol Barcelona,2024-02-24T17:30Z
+28,Sat Feb 24 2024,16:15,CET/+0100,Racing Santander,2-1,1-1,CD Leganés,2024-02-24T15:15Z
+28,Sun Feb 25 2024,14:00,CET/+0100,CD Eldense,2-0,2-0,Racing Ferrol,2024-02-25T13:00Z
+28,Sun Feb 25 2024,16:15,CET/+0100,AD Alcorcón,1-1,0-0,CD Tenerife,2024-02-25T15:15Z
+28,Sun Feb 25 2024,16:15,CET/+0100,Burgos CF,1-0,1-0,Sporting Gijón,2024-02-25T15:15Z
+28,Sun Feb 25 2024,18:30,CET/+0100,FC Cartagena,0-1,0-0,Elche CF,2024-02-25T17:30Z
+28,Sun Feb 25 2024,21:00,CET/+0100,SD Amorebieta,1-1,0-1,Albacete,2024-02-25T20:00Z
+28,Mon Feb 26 2024,20:30,CET/+0100,CD Mirandés,0-3,0-0,SD Huesca,2024-02-26T19:30Z
+29,Fri Mar 1 2024,20:30,CET/+0100,Sporting Gijón,2-1,1-1,Albacete,2024-03-01T19:30Z
+29,Sat Mar 2 2024,21:00,CET/+0100,Burgos CF,3-0,1-0,FC Cartagena,2024-03-02T20:00Z
+29,Sat Mar 2 2024,14:00,CET/+0100,CD Eldense,2-0,1-0,Villarreal CF B,2024-03-02T13:00Z
+29,Sat Mar 2 2024,16:15,CET/+0100,Espanyol Barcelona,0-0,0-0,SD Huesca,2024-03-02T15:15Z
+29,Sat Mar 2 2024,16:15,CET/+0100,Racing Ferrol,2-2,1-1,Racing Santander,2024-03-02T15:15Z
+29,Sat Mar 2 2024,18:30,CET/+0100,Real Oviedo,3-2,0-1,Levante UD,2024-03-02T17:30Z
+29,Sun Mar 3 2024,14:00,CET/+0100,FC Andorra,2-1,0-1,Real Valladolid,2024-03-03T13:00Z
+29,Sun Mar 3 2024,16:15,CET/+0100,CD Tenerife,2-1,2-0,CD Mirandés,2024-03-03T15:15Z
+29,Sun Mar 3 2024,18:30,CET/+0100,Real Zaragoza,0-1,0-0,SD Amorebieta,2024-03-03T17:30Z
+29,Sun Mar 3 2024,21:00,CET/+0100,CD Leganés,0-2,0-2,SD Eibar,2024-03-03T20:00Z
+29,Mon Mar 4 2024,20:30,CET/+0100,Elche CF,3-0,3-0,AD Alcorcón,2024-03-04T19:30Z
+30,Fri Mar 8 2024,20:30,CET/+0100,SD Huesca,2-0,1-0,FC Andorra,2024-03-08T19:30Z
+30,Sat Mar 9 2024,16:15,CET/+0100,Albacete,1-2,0-0,Real Oviedo,2024-03-09T15:15Z
+30,Sat Mar 9 2024,18:30,CET/+0100,CD Mirandés,3-1,1-0,CD Eldense,2024-03-09T17:30Z
+30,Sat Mar 9 2024,18:30,CET/+0100,Real Valladolid,2-0,1-0,Real Zaragoza,2024-03-09T17:30Z
+30,Sat Mar 9 2024,21:00,CET/+0100,FC Cartagena,2-1,1-1,Racing Ferrol,2024-03-09T20:00Z
+30,Sun Mar 10 2024,14:00,CET/+0100,Racing Santander,4-2,0-1,CD Tenerife,2024-03-10T13:00Z
+30,Sun Mar 10 2024,18:30,CET/+0100,SD Eibar,0-1,0-0,Burgos CF,2024-03-10T17:30Z
+30,Sun Mar 10 2024,16:15,CET/+0100,Villarreal CF B,0-1,0-1,Elche CF,2024-03-10T15:15Z
+30,Sun Mar 10 2024,16:15,CET/+0100,Levante UD,1-0,0-0,Sporting Gijón,2024-03-10T15:15Z
+30,Sun Mar 10 2024,21:00,CET/+0100,AD Alcorcón,1-1,0-0,Espanyol Barcelona,2024-03-10T20:00Z
+30,Mon Mar 11 2024,20:30,CET/+0100,SD Amorebieta,0-1,0-0,CD Leganés,2024-03-11T19:30Z
+28,Wed Mar 13 2024,19:00,CET/+0100,Levante UD,0-0,0-0,FC Andorra,2024-03-13T18:00Z
+31,Fri Mar 15 2024,20:30,CET/+0100,CD Eldense,0-0,0-0,FC Cartagena,2024-03-15T19:30Z
+31,Sat Mar 16 2024,14:00,CET/+0100,Burgos CF,1-1,1-0,Levante UD,2024-03-16T13:00Z
+31,Sat Mar 16 2024,16:15,CET/+0100,SD Eibar,2-0,1-0,Villarreal CF B,2024-03-16T15:15Z
+31,Sat Mar 16 2024,18:30,CET/+0100,CD Tenerife,0-0,0-0,SD Huesca,2024-03-16T17:30Z
+31,Sat Mar 16 2024,18:30,CET/+0100,Real Oviedo,1-1,0-1,Racing Santander,2024-03-16T17:30Z
+31,Sat Mar 16 2024,21:00,CET/+0100,Sporting Gijón,1-0,1-0,AD Alcorcón,2024-03-16T20:00Z
+31,Sun Mar 17 2024,16:15,CET/+0100,Racing Ferrol,2-0,1-0,Real Valladolid,2024-03-17T15:15Z
+31,Sun Mar 17 2024,18:30,CET/+0100,Elche CF,3-2,1-1,Albacete,2024-03-17T17:30Z
+31,Sun Mar 17 2024,18:30,CET/+0100,Real Zaragoza,0-1,0-1,Espanyol Barcelona,2024-03-17T17:30Z
+31,Sun Mar 17 2024,14:00,CET/+0100,CD Leganés,4-0,3-0,CD Mirandés,2024-03-17T13:00Z
+31,Mon Mar 18 2024,20:30,CET/+0100,FC Andorra,0-1,0-0,SD Amorebieta,2024-03-18T19:30Z
+32,Sat Mar 23 2024,18:30,CET/+0100,FC Cartagena,1-0,1-0,FC Andorra,2024-03-23T17:30Z
+32,Sat Mar 23 2024,18:30,CET/+0100,Villarreal CF B,1-2,1-0,CD Leganés,2024-03-23T17:30Z
+32,Sat Mar 23 2024,21:00,CET/+0100,Espanyol Barcelona,1-1,0-0,CD Tenerife,2024-03-23T20:00Z
+32,Sat Mar 23 2024,16:15,CET/+0100,AD Alcorcón,1-0,0-0,Real Oviedo,2024-03-23T15:15Z
+32,Sun Mar 24 2024,14:00,CET/+0100,SD Amorebieta,3-1,2-1,Sporting Gijón,2024-03-24T13:00Z
+32,Sun Mar 24 2024,16:15,CET/+0100,Real Valladolid,3-1,0-1,SD Eibar,2024-03-24T15:15Z
+32,Sun Mar 24 2024,16:15,CET/+0100,SD Huesca,3-0,1-0,Burgos CF,2024-03-24T15:15Z
+32,Sun Mar 24 2024,18:30,CET/+0100,CD Mirandés,0-0,0-0,Real Zaragoza,2024-03-24T17:30Z
+32,Sun Mar 24 2024,18:30,CET/+0100,Levante UD,3-2,0-1,Elche CF,2024-03-24T17:30Z
+32,Sun Mar 24 2024,21:00,CET/+0100,Racing Santander,2-1,1-0,CD Eldense,2024-03-24T20:00Z
+32,Mon Mar 25 2024,20:30,CET/+0100,Albacete,1-1,1-0,Racing Ferrol,2024-03-25T19:30Z
+33,Fri Mar 29 2024,20:30,CET/+0100,Burgos CF,0-0,0-0,Espanyol Barcelona,2024-03-29T19:30Z
+33,Sat Mar 30 2024,14:00,CET/+0100,Real Valladolid,0-0,0-0,Levante UD,2024-03-30T13:00Z
+33,Sat Mar 30 2024,16:15,CET/+0100,FC Andorra,1-0,0-0,CD Mirandés,2024-03-30T15:15Z
+33,Sat Mar 30 2024,16:15,CET/+0100,CD Leganés,0-0,0-0,FC Cartagena,2024-03-30T15:15Z
+33,Sat Mar 30 2024,16:15,CET/+0100,SD Eibar,5-1,1-0,CD Eldense,2024-03-30T15:15Z
+33,Sat Mar 30 2024,18:30,CET/+0100,Albacete,1-1,0-0,SD Huesca,2024-03-30T17:30Z
+33,Sat Mar 30 2024,18:30,CET/+0100,Sporting Gijón,2-3,1-0,Racing Santander,2024-03-30T17:30Z
+33,Sun Mar 31 2024,16:15,CEST/+0200,Racing Ferrol,1-0,0-0,Elche CF,2024-03-31T14:15Z
+33,Sun Mar 31 2024,16:15,CEST/+0200,Real Zaragoza,3-1,2-1,CD Tenerife,2024-03-31T14:15Z
+33,Sun Mar 31 2024,18:30,CEST/+0200,Real Oviedo,2-1,2-1,Villarreal CF B,2024-03-31T16:30Z
+33,Sun Mar 31 2024,14:00,CEST/+0200,AD Alcorcón,1-1,1-1,SD Amorebieta,2024-03-31T12:00Z
+34,Fri Apr 5 2024,20:30,CEST/+0200,SD Amorebieta,3-1,2-0,Racing Ferrol,2024-04-05T18:30Z
+34,Fri Apr 5 2024,20:30,CEST/+0200,Elche CF,0-2,0-1,Real Oviedo,2024-04-05T18:30Z
+34,Sat Apr 6 2024,18:30,CEST/+0200,Levante UD,2-1,1-1,Real Zaragoza,2024-04-06T16:30Z
+34,Sat Apr 6 2024,16:15,CEST/+0200,CD Eldense,0-2,0-1,FC Andorra,2024-04-06T14:15Z
+34,Sun Apr 7 2024,14:00,CEST/+0200,SD Huesca,0-0,0-0,CD Leganés,2024-04-07T12:00Z
+34,Sun Apr 7 2024,16:15,CEST/+0200,CD Mirandés,1-3,1-1,Sporting Gijón,2024-04-07T14:15Z
+34,Sun Apr 7 2024,16:15,CEST/+0200,Villarreal CF B,2-1,2-0,Burgos CF,2024-04-07T14:15Z
+34,Sun Apr 7 2024,18:30,CEST/+0200,CD Tenerife,2-1,1-1,SD Eibar,2024-04-07T16:30Z
+34,Sun Apr 7 2024,18:30,CEST/+0200,Espanyol Barcelona,2-1,1-1,Albacete,2024-04-07T16:30Z
+34,Sun Apr 7 2024,21:00,CEST/+0200,FC Cartagena,0-2,0-2,Real Valladolid,2024-04-07T19:00Z
+34,Mon Apr 8 2024,20:30,CEST/+0200,Racing Santander,0-1,0-0,AD Alcorcón,2024-04-08T18:30Z
+35,Fri Apr 12 2024,20:30,CEST/+0200,CD Leganés,0-0,0-0,Espanyol Barcelona,2024-04-12T18:30Z
+35,Sat Apr 13 2024,18:30,CEST/+0200,Real Valladolid,1-0,0-0,CD Eldense,2024-04-13T16:30Z
+35,Sat Apr 13 2024,21:00,CEST/+0200,Levante UD,1-2,0-0,SD Amorebieta,2024-04-13T19:00Z
+35,Sat Apr 13 2024,16:15,CEST/+0200,Sporting Gijón,1-0,1-0,FC Cartagena,2024-04-13T14:15Z
+35,Sun Apr 14 2024,14:00,CEST/+0200,Real Oviedo,1-1,1-0,CD Mirandés,2024-04-14T12:00Z
+35,Sun Apr 14 2024,16:15,CEST/+0200,Albacete,1-0,0-0,CD Tenerife,2024-04-14T14:15Z
+35,Sun Apr 14 2024,16:15,CEST/+0200,FC Andorra,0-2,0-0,SD Eibar,2024-04-14T14:15Z
+35,Sun Apr 14 2024,18:30,CEST/+0200,Burgos CF,2-1,1-1,Racing Santander,2024-04-14T16:30Z
+35,Sun Apr 14 2024,18:30,CEST/+0200,Real Zaragoza,1-1,0-0,Elche CF,2024-04-14T16:30Z
+35,Sun Apr 14 2024,21:00,CEST/+0200,Racing Ferrol,2-1,0-1,SD Huesca,2024-04-14T19:00Z
+35,Mon Apr 15 2024,20:30,CEST/+0200,AD Alcorcón,1-0,0-0,Villarreal CF B,2024-04-15T18:30Z
+36,Fri Apr 19 2024,20:30,CEST/+0200,CD Tenerife,0-0,0-0,CD Leganés,2024-04-19T18:30Z
+36,Sat Apr 20 2024,14:00,CEST/+0200,SD Amorebieta,0-3,0-0,Real Valladolid,2024-04-20T12:00Z
+36,Sat Apr 20 2024,16:15,CEST/+0200,Villarreal CF B,1-0,0-0,Racing Ferrol,2024-04-20T14:15Z
+36,Sat Apr 20 2024,16:15,CEST/+0200,Racing Santander,0-0,0-0,Levante UD,2024-04-20T14:15Z
+36,Sat Apr 20 2024,18:30,CEST/+0200,Elche CF,2-1,2-0,Sporting Gijón,2024-04-20T16:30Z
+36,Sat Apr 20 2024,21:00,CEST/+0200,SD Huesca,1-2,1-2,Real Zaragoza,2024-04-20T19:00Z
+36,Sun Apr 21 2024,16:15,CEST/+0200,CD Eldense,0-1,0-0,Albacete,2024-04-21T14:15Z
+36,Sun Apr 21 2024,16:15,CEST/+0200,SD Eibar,2-0,1-0,AD Alcorcón,2024-04-21T14:15Z
+36,Sun Apr 21 2024,18:30,CEST/+0200,CD Mirandés,2-1,0-0,Burgos CF,2024-04-21T16:30Z
+36,Sun Apr 21 2024,14:00,CEST/+0200,Espanyol Barcelona,1-1,0-1,FC Andorra,2024-04-21T12:00Z
+36,Mon Apr 22 2024,20:30,CEST/+0200,FC Cartagena,2-0,0-0,Real Oviedo,2024-04-22T18:30Z
+37,Fri Apr 26 2024,20:30,CEST/+0200,FC Andorra,1-1,1-0,Racing Santander,2024-04-26T18:30Z
+37,Sat Apr 27 2024,16:15,CEST/+0200,CD Leganés,1-1,0-0,Real Zaragoza,2024-04-27T14:15Z
+37,Sat Apr 27 2024,18:30,CEST/+0200,Elche CF,2-2,1-1,Espanyol Barcelona,2024-04-27T16:30Z
+37,Sat Apr 27 2024,16:15,CEST/+0200,Burgos CF,2-2,1-0,SD Amorebieta,2024-04-27T14:15Z
+37,Sun Apr 28 2024,14:00,CEST/+0200,Sporting Gijón,0-3,0-2,Villarreal CF B,2024-04-28T12:00Z
+37,Sun Apr 28 2024,16:15,CEST/+0200,AD Alcorcón,0-0,0-0,CD Eldense,2024-04-28T14:15Z
+37,Sun Apr 28 2024,16:15,CEST/+0200,Real Oviedo,0-1,0-1,CD Tenerife,2024-04-28T14:15Z
+37,Sun Apr 28 2024,18:30,CEST/+0200,Real Valladolid,1-0,1-0,SD Huesca,2024-04-28T16:30Z
+37,Sun Apr 28 2024,18:30,CEST/+0200,Levante UD,0-1,0-0,FC Cartagena,2024-04-28T16:30Z
+37,Sun Apr 28 2024,21:00,CEST/+0200,Albacete,2-1,1-1,SD Eibar,2024-04-28T19:00Z
+37,Mon Apr 29 2024,20:30,CEST/+0200,Racing Ferrol,0-2,0-1,CD Mirandés,2024-04-29T18:30Z
+38,Fri May 3 2024,20:30,CEST/+0200,Villarreal CF B,0-3,0-2,Levante UD,2024-05-03T18:30Z
+38,Sat May 4 2024,16:15,CEST/+0200,SD Huesca,0-2,0-0,Real Oviedo,2024-05-04T14:15Z
+38,Sat May 4 2024,18:30,CEST/+0200,Racing Santander,3-1,1-0,Elche CF,2024-05-04T16:30Z
+38,Sat May 4 2024,21:00,CEST/+0200,FC Cartagena,1-0,1-0,AD Alcorcón,2024-05-04T19:00Z
+38,Sat May 4 2024,14:00,CEST/+0200,CD Mirandés,0-1,0-1,Real Valladolid,2024-05-04T12:00Z
+38,Sun May 5 2024,14:00,CEST/+0200,SD Eibar,5-0,2-0,SD Amorebieta,2024-05-05T12:00Z
+38,Sun May 5 2024,16:15,CEST/+0200,FC Andorra,0-1,0-0,Albacete,2024-05-05T14:15Z
+38,Sun May 5 2024,16:15,CEST/+0200,Espanyol Barcelona,0-0,0-0,Sporting Gijón,2024-05-05T14:15Z
+38,Sun May 5 2024,18:30,CEST/+0200,CD Eldense,1-2,1-0,CD Leganés,2024-05-05T16:30Z
+38,Sun May 5 2024,18:30,CEST/+0200,Real Zaragoza,1-3,1-1,Burgos CF,2024-05-05T16:30Z
+38,Sun May 5 2024,21:00,CEST/+0200,CD Tenerife,2-0,0-0,Racing Ferrol,2024-05-05T19:00Z
+39,Fri May 10 2024,20:30,CEST/+0200,Burgos CF,1-2,1-2,CD Eldense,2024-05-10T18:30Z
+39,Sat May 11 2024,16:15,CEST/+0200,Racing Ferrol,2-1,0-0,AD Alcorcón,2024-05-11T14:15Z
+39,Sat May 11 2024,16:15,CEST/+0200,Sporting Gijón,5-2,2-1,FC Andorra,2024-05-11T14:15Z
+39,Sat May 11 2024,18:30,CEST/+0200,Real Valladolid,0-0,0-0,Espanyol Barcelona,2024-05-11T16:30Z
+39,Sat May 11 2024,21:00,CEST/+0200,Levante UD,2-2,1-1,SD Eibar,2024-05-11T19:00Z
+39,Sat May 11 2024,14:00,CEST/+0200,Racing Santander,1-0,1-0,CD Mirandés,2024-05-11T12:00Z
+39,Sun May 12 2024,14:00,CEST/+0200,SD Amorebieta,2-0,0-0,Villarreal CF B,2024-05-12T12:00Z
+39,Sun May 12 2024,16:15,CEST/+0200,Real Oviedo,1-0,0-0,Real Zaragoza,2024-05-12T14:15Z
+39,Sun May 12 2024,18:30,CEST/+0200,Albacete,1-0,1-0,CD Leganés,2024-05-12T16:30Z
+39,Sun May 12 2024,18:30,CEST/+0200,FC Cartagena,2-0,2-0,CD Tenerife,2024-05-12T16:30Z
+39,Sun May 12 2024,21:00,CEST/+0200,Elche CF,0-3,0-2,SD Huesca,2024-05-12T19:00Z
+40,Fri May 17 2024,20:30,CEST/+0200,CD Mirandés,1-1,0-0,Elche CF,2024-05-17T18:30Z
+40,Sat May 18 2024,14:00,CEST/+0200,FC Andorra,1-0,0-0,Burgos CF,2024-05-18T12:00Z
+40,Sat May 18 2024,16:15,CEST/+0200,CD Leganés,2-1,1-0,Sporting Gijón,2024-05-18T14:15Z
+40,Sat May 18 2024,16:15,CEST/+0200,SD Huesca,0-3,0-1,Racing Santander,2024-05-18T14:15Z
+40,Sat May 18 2024,21:00,CEST/+0200,CD Tenerife,0-1,0-0,SD Amorebieta,2024-05-18T19:00Z
+40,Sat May 18 2024,21:00,CEST/+0200,CD Eldense,0-0,0-0,Levante UD,2024-05-18T19:00Z
+40,Sun May 19 2024,16:15,CEST/+0200,AD Alcorcón,1-1,1-0,Real Valladolid,2024-05-19T14:15Z
+40,Sun May 19 2024,21:00,CEST/+0200,Real Zaragoza,2-2,1-0,Racing Ferrol,2024-05-19T19:00Z
+40,Sun May 19 2024,14:00,CEST/+0200,SD Eibar,1-0,1-0,FC Cartagena,2024-05-19T12:00Z
+40,Mon May 20 2024,20:30,CEST/+0200,Villarreal CF B,2-2,1-2,Albacete,2024-05-20T18:30Z
+40,Mon May 20 2024,20:30,CEST/+0200,Espanyol Barcelona,2-1,1-1,Real Oviedo,2024-05-20T18:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Albacete,2-2,1-0,CD Mirandés,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,SD Amorebieta,0-0,0-0,Espanyol Barcelona,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Burgos CF,1-1,0-1,CD Tenerife,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,FC Cartagena,0-2,0-1,SD Huesca,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Elche CF,1-2,0-0,CD Eldense,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Racing Ferrol,2-2,1-1,CD Leganés,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Racing Santander,0-2,0-1,Real Zaragoza,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Real Oviedo,3-0,0-0,FC Andorra,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Real Valladolid,3-2,0-0,Villarreal CF B,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Sporting Gijón,1-0,0-0,SD Eibar,2024-05-26T16:30Z
+41,Sun May 26 2024,18:30,CEST/+0200,Levante UD,2-2,0-0,AD Alcorcón,2024-05-26T16:30Z
+42,Sun Jun 2 2024,16:15,CEST/+0200,AD Alcorcón,1-1,0-0,Burgos CF,2024-06-02T14:15Z
+42,Sun Jun 2 2024,16:15,CEST/+0200,FC Andorra,1-0,0-0,Racing Ferrol,2024-06-02T14:15Z
+42,Sun Jun 2 2024,16:15,CEST/+0200,SD Huesca,0-0,0-0,Levante UD,2024-06-02T14:15Z
+42,Sun Jun 2 2024,18:30,CEST/+0200,CD Leganés,2-0,2-0,Elche CF,2024-06-02T16:30Z
+42,Sun Jun 2 2024,18:30,CEST/+0200,CD Mirandés,1-0,0-0,SD Amorebieta,2024-06-02T16:30Z
+42,Sun Jun 2 2024,18:30,CEST/+0200,CD Tenerife,2-1,0-0,Real Valladolid,2024-06-02T16:30Z
+42,Sun Jun 2 2024,18:30,CEST/+0200,CD Eldense,0-1,0-0,Sporting Gijón,2024-06-02T16:30Z
+42,Sun Jun 2 2024,18:30,CEST/+0200,Espanyol Barcelona,3-0,0-0,FC Cartagena,2024-06-02T16:30Z
+42,Sun Jun 2 2024,18:30,CEST/+0200,Villarreal CF B,1-0,0-0,Racing Santander,2024-06-02T16:30Z
+42,Sun Jun 2 2024,18:30,CEST/+0200,SD Eibar,4-3,2-1,Real Oviedo,2024-06-02T16:30Z
+42,Sun Jun 2 2024,21:00,CEST/+0200,Real Zaragoza,1-1,0-0,Albacete,2024-06-02T19:00Z

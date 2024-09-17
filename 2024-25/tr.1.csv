@@ -1,157 +1,157 @@
 Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
-1,Fri Aug 9 2024,21:00,+03/+0300,Galatasaray,2-1,0-0,Hatayspor,2024-08-09T18:00Z
-1,Sat Aug 10 2024,21:45,+03/+0300,Antalyaspor,0-0,0-0,Göztepe,2024-08-10T18:45Z
-1,Sat Aug 10 2024,21:45,+03/+0300,Fenerbahçe,1-0,1-0,Adana Demirspor,2024-08-10T18:45Z
-1,Sat Aug 10 2024,19:15,+03/+0300,Kasımpaşa SK,2-3,0-1,Konyaspor,2024-08-10T16:15Z
-1,Sun Aug 11 2024,19:15,+03/+0300,Sivasspor,0-0,0-0,Trabzonspor,2024-08-11T16:15Z
-1,Sun Aug 11 2024,21:45,+03/+0300,Alanyaspor,1-1,0-0,Eyüpspor,2024-08-11T18:45Z
-1,Sun Aug 11 2024,21:45,+03/+0300,Samsunspor,0-2,0-2,Beşiktaş,2024-08-11T18:45Z
-1,Mon Aug 12 2024,21:00,+03/+0300,Bodrum FK,0-1,0-0,Gaziantep FK,2024-08-12T18:00Z
-1,Mon Aug 12 2024,21:00,+03/+0300,Çaykur Rizespor,1-1,1-1,İstanbul Başakşehir,2024-08-12T18:00Z
-2,Fri Aug 16 2024,21:00,+03/+0300,Konyaspor,1-2,1-1,Galatasaray,2024-08-16T18:00Z
-2,Sat Aug 17 2024,21:45,+03/+0300,Göztepe,2-2,0-2,Fenerbahçe,2024-08-17T18:45Z
-2,Sat Aug 17 2024,21:45,+03/+0300,Adana Demirspor,1-2,0-1,Çaykur Rizespor,2024-08-17T18:45Z
-2,Sat Aug 17 2024,19:15,+03/+0300,Kayserispor,1-2,1-1,Sivasspor,2024-08-17T16:15Z
-2,Sun Aug 18 2024,19:15,+03/+0300,İstanbul Başakşehir,4-2,1-2,Alanyaspor,2024-08-18T16:15Z
-2,Sun Aug 18 2024,21:45,+03/+0300,Gaziantep FK,0-1,0-1,Samsunspor,2024-08-18T18:45Z
-2,Sun Aug 18 2024,21:45,+03/+0300,Beşiktaş,4-2,2-1,Antalyaspor,2024-08-18T18:45Z
-2,Mon Aug 19 2024,21:00,+03/+0300,Hatayspor,1-1,1-0,Kasımpaşa SK,2024-08-19T18:00Z
-2,Mon Aug 19 2024,21:00,+03/+0300,Eyüpspor,4-1,0-1,Bodrum FK,2024-08-19T18:00Z
-3,Fri Aug 23 2024,21:00,+03/+0300,Alanyaspor,1-1,0-1,Göztepe,2024-08-23T18:00Z
-3,Sat Aug 24 2024,19:15,+03/+0300,Sivasspor,0-1,0-1,Eyüpspor,2024-08-24T16:15Z
-3,Sat Aug 24 2024,21:45,+03/+0300,Bodrum FK,3-1,2-1,Konyaspor,2024-08-24T18:45Z
-3,Sun Aug 25 2024,21:45,+03/+0300,Antalyaspor,3-2,0-2,Hatayspor,2024-08-25T18:45Z
-3,Sun Aug 25 2024,21:45,+03/+0300,Çaykur Rizespor,0-5,0-1,Fenerbahçe,2024-08-25T18:45Z
-3,Sun Aug 25 2024,19:15,+03/+0300,Kasımpaşa SK,2-2,1-0,Adana Demirspor,2024-08-25T16:15Z
-4,Fri Aug 30 2024,21:00,+03/+0300,Fenerbahçe,3-0,1-0,Alanyaspor,2024-08-30T18:00Z
-4,Sat Aug 31 2024,19:15,+03/+0300,Konyaspor,0-0,0-0,Kayserispor,2024-08-31T16:15Z
-4,Sat Aug 31 2024,21:45,+03/+0300,Göztepe,2-0,2-0,Bodrum FK,2024-08-31T18:45Z
-4,Sat Aug 31 2024,21:45,+03/+0300,Adana Demirspor,1-5,0-4,Galatasaray,2024-08-31T18:45Z
-4,Sat Aug 31 2024,19:15,+03/+0300,Çaykur Rizespor,0-1,0-1,Kasımpaşa SK,2024-08-31T16:15Z
-4,Sun Sep 1 2024,21:45,+03/+0300,Beşiktaş,2-0,1-0,Sivasspor,2024-09-01T18:45Z
-4,Sun Sep 1 2024,19:15,+03/+0300,Eyüpspor,0-0,0-0,Trabzonspor,2024-09-01T16:15Z
-4,Sun Sep 1 2024,19:15,+03/+0300,İstanbul Başakşehir,5-2,1-2,Antalyaspor,2024-09-01T16:15Z
-4,Sun Sep 1 2024,21:45,+03/+0300,Hatayspor,0-3,0-1,Samsunspor,2024-09-01T18:45Z
-5,Sat Sep 14 2024,20:00,+03/+0300,Bodrum FK,,,İstanbul Başakşehir,2024-09-14T17:00Z
-5,Sat Sep 14 2024,17:00,+03/+0300,Samsunspor,,,Konyaspor,2024-09-14T14:00Z
-5,Sat Sep 14 2024,20:00,+03/+0300,Galatasaray,,,Çaykur Rizespor,2024-09-14T17:00Z
-5,Sat Sep 14 2024,17:00,+03/+0300,Sivasspor,,,Gaziantep FK,2024-09-14T14:00Z
-5,Sun Sep 15 2024,20:00,+03/+0300,Alanyaspor,,,Hatayspor,2024-09-15T17:00Z
-5,Sun Sep 15 2024,17:00,+03/+0300,Kayserispor,,,Eyüpspor,2024-09-15T14:00Z
-5,Sun Sep 15 2024,20:00,+03/+0300,Trabzonspor,,,Beşiktaş,2024-09-15T17:00Z
-5,Sun Sep 15 2024,17:00,+03/+0300,Kasımpaşa SK,,,Fenerbahçe,2024-09-15T14:00Z
-5,Mon Sep 16 2024,20:00,+03/+0300,Antalyaspor,,,Adana Demirspor,2024-09-16T17:00Z
-3,Tue Sep 17 2024,20:00,+03/+0300,Galatasaray,,,Gaziantep FK,2024-09-17T17:00Z
-3,Wed Sep 18 2024,20:00,+03/+0300,Samsunspor,,,İstanbul Başakşehir,2024-09-18T17:00Z
-3,Thu Sep 19 2024,20:00,+03/+0300,Trabzonspor,,,Kayserispor,2024-09-19T17:00Z
-6,Fri Sep 20 2024,20:00,+03/+0300,Hatayspor,,,Bodrum FK,2024-09-20T17:00Z
-6,Sat Sep 21 2024,17:00,+03/+0300,Konyaspor,,,Sivasspor,2024-09-21T14:00Z
-6,Sat Sep 21 2024,20:00,+03/+0300,Fenerbahçe,,,Galatasaray,2024-09-21T17:00Z
-6,Sun Sep 22 2024,17:00,+03/+0300,Kasımpaşa SK,,,Antalyaspor,2024-09-22T14:00Z
-6,Sun Sep 22 2024,20:00,+03/+0300,Adana Demirspor,,,Alanyaspor,2024-09-22T17:00Z
-6,Sun Sep 22 2024,20:00,+03/+0300,Beşiktaş,,,Eyüpspor,2024-09-22T17:00Z
-6,Sun Sep 22 2024,17:00,+03/+0300,Çaykur Rizespor,,,Samsunspor,2024-09-22T14:00Z
-6,Mon Sep 23 2024,20:00,+03/+0300,Göztepe,,,Kayserispor,2024-09-23T17:00Z
-6,Mon Sep 23 2024,20:00,+03/+0300,Gaziantep FK,,,Trabzonspor,2024-09-23T17:00Z
-7,Sun Sep 29 2024,,,Sivasspor,,,İstanbul Başakşehir,
-7,Sun Sep 29 2024,,,Alanyaspor,,,Çaykur Rizespor,
-7,Sun Sep 29 2024,,,Kayserispor,,,Beşiktaş,
-7,Sun Sep 29 2024,,,Antalyaspor,,,Fenerbahçe,
-7,Sun Sep 29 2024,,,Samsunspor,,,Göztepe,
-7,Sun Sep 29 2024,,,Trabzonspor,,,Konyaspor,
-7,Sun Sep 29 2024,,,Galatasaray,,,Kasımpaşa SK,
-7,Sun Sep 29 2024,,,Eyüpspor,,,Gaziantep FK,
-7,Sun Sep 29 2024,,,Bodrum FK,,,Adana Demirspor,
-8,Sun Oct 6 2024,,,Göztepe,,,Sivasspor,
-8,Sun Oct 6 2024,,,Gaziantep FK,,,Beşiktaş,
-8,Sun Oct 6 2024,,,Galatasaray,,,Alanyaspor,
-8,Sun Oct 6 2024,,,İstanbul Başakşehir,,,Kayserispor,
-8,Sun Oct 6 2024,,,Çaykur Rizespor,,,Antalyaspor,
-8,Sun Oct 6 2024,,,Adana Demirspor,,,Samsunspor,
-8,Sun Oct 6 2024,,,Konyaspor,,,Eyüpspor,
-8,Sun Oct 6 2024,,,Kasımpaşa SK,,,Bodrum FK,
-8,Sun Oct 6 2024,,,Hatayspor,,,Trabzonspor,
-9,Sun Oct 20 2024,,,Beşiktaş,,,Konyaspor,
-9,Sun Oct 20 2024,,,Sivasspor,,,Hatayspor,
-9,Sun Oct 20 2024,,,Alanyaspor,,,Kasımpaşa SK,
-9,Sun Oct 20 2024,,,Antalyaspor,,,Galatasaray,
-9,Sun Oct 20 2024,,,Kayserispor,,,Gaziantep FK,
-9,Sun Oct 20 2024,,,Samsunspor,,,Fenerbahçe,
-9,Sun Oct 20 2024,,,Trabzonspor,,,İstanbul Başakşehir,
-9,Sun Oct 20 2024,,,Eyüpspor,,,Göztepe,
-9,Sun Oct 20 2024,,,Bodrum FK,,,Çaykur Rizespor,
-10,Sun Oct 27 2024,,,Göztepe,,,Trabzonspor,
-10,Sun Oct 27 2024,,,Gaziantep FK,,,Konyaspor,
-10,Sun Oct 27 2024,,,Galatasaray,,,Beşiktaş,
-10,Sun Oct 27 2024,,,İstanbul Başakşehir,,,Eyüpspor,
-10,Sun Oct 27 2024,,,Adana Demirspor,,,Sivasspor,
-10,Sun Oct 27 2024,,,Alanyaspor,,,Antalyaspor,
-10,Sun Oct 27 2024,,,Kasımpaşa SK,,,Samsunspor,
-10,Sun Oct 27 2024,,,Hatayspor,,,Kayserispor,
-10,Sun Oct 27 2024,,,Fenerbahçe,,,Bodrum FK,
-11,Sun Nov 3 2024,,,Beşiktaş,,,Kasımpaşa SK,
-11,Sun Nov 3 2024,,,Sivasspor,,,Çaykur Rizespor,
-11,Sun Nov 3 2024,,,Kayserispor,,,Adana Demirspor,
-11,Sun Nov 3 2024,,,Konyaspor,,,İstanbul Başakşehir,
-11,Sun Nov 3 2024,,,Trabzonspor,,,Fenerbahçe,
-11,Sun Nov 3 2024,,,Samsunspor,,,Antalyaspor,
-11,Sun Nov 3 2024,,,Eyüpspor,,,Hatayspor,
-11,Sun Nov 3 2024,,,Gaziantep FK,,,Göztepe,
-11,Sun Nov 3 2024,,,Bodrum FK,,,Alanyaspor,
-12,Sun Nov 10 2024,,,Göztepe,,,Konyaspor,
-12,Sun Nov 10 2024,,,Galatasaray,,,Samsunspor,
-12,Sun Nov 10 2024,,,İstanbul Başakşehir,,,Beşiktaş,
-12,Sun Nov 10 2024,,,Çaykur Rizespor,,,Trabzonspor,
-12,Sun Nov 10 2024,,,Adana Demirspor,,,Eyüpspor,
-12,Sun Nov 10 2024,,,Antalyaspor,,,Bodrum FK,
-12,Sun Nov 10 2024,,,Kasımpaşa SK,,,Kayserispor,
-12,Sun Nov 10 2024,,,Hatayspor,,,Gaziantep FK,
-12,Sun Nov 10 2024,,,Fenerbahçe,,,Sivasspor,
-13,Sun Nov 24 2024,,,Beşiktaş,,,Göztepe,
-13,Sun Nov 24 2024,,,Sivasspor,,,Kasımpaşa SK,
-13,Sun Nov 24 2024,,,Kayserispor,,,Fenerbahçe,
-13,Sun Nov 24 2024,,,Konyaspor,,,Hatayspor,
-13,Sun Nov 24 2024,,,Samsunspor,,,Alanyaspor,
-13,Sun Nov 24 2024,,,Trabzonspor,,,Adana Demirspor,
-13,Sun Nov 24 2024,,,Eyüpspor,,,Çaykur Rizespor,
-13,Sun Nov 24 2024,,,Bodrum FK,,,Galatasaray,
-13,Sun Nov 24 2024,,,Gaziantep FK,,,İstanbul Başakşehir,
-14,Sun Dec 1 2024,,,Galatasaray,,,Eyüpspor,
-14,Sun Dec 1 2024,,,İstanbul Başakşehir,,,Göztepe,
-14,Sun Dec 1 2024,,,Çaykur Rizespor,,,Kayserispor,
-14,Sun Dec 1 2024,,,Samsunspor,,,Bodrum FK,
-14,Sun Dec 1 2024,,,Adana Demirspor,,,Konyaspor,
-14,Sun Dec 1 2024,,,Antalyaspor,,,Sivasspor,
-14,Sun Dec 1 2024,,,Alanyaspor,,,Trabzonspor,
-14,Sun Dec 1 2024,,,Hatayspor,,,Beşiktaş,
-14,Sun Dec 1 2024,,,Fenerbahçe,,,Gaziantep FK,
-15,Sun Dec 8 2024,,,Beşiktaş,,,Fenerbahçe,
-15,Sun Dec 8 2024,,,Sivasspor,,,Galatasaray,
-15,Sun Dec 8 2024,,,Kayserispor,,,Alanyaspor,
-15,Sun Dec 8 2024,,,Konyaspor,,,Antalyaspor,
-15,Sun Dec 8 2024,,,Trabzonspor,,,Kasımpaşa SK,
-15,Sun Dec 8 2024,,,Eyüpspor,,,Samsunspor,
-15,Sun Dec 8 2024,,,İstanbul Başakşehir,,,Hatayspor,
-15,Sun Dec 8 2024,,,Gaziantep FK,,,Çaykur Rizespor,
-15,Sun Dec 8 2024,,,Göztepe,,,Adana Demirspor,
-16,Sun Dec 15 2024,,,Bodrum FK,,,Sivasspor,
-16,Sun Dec 15 2024,,,Çaykur Rizespor,,,Konyaspor,
-16,Sun Dec 15 2024,,,Galatasaray,,,Trabzonspor,
-16,Sun Dec 15 2024,,,Adana Demirspor,,,Beşiktaş,
-16,Sun Dec 15 2024,,,Antalyaspor,,,Kayserispor,
-16,Sun Dec 15 2024,,,Alanyaspor,,,Gaziantep FK,
-16,Sun Dec 15 2024,,,Kasımpaşa SK,,,Eyüpspor,
-16,Sun Dec 15 2024,,,Hatayspor,,,Göztepe,
-16,Sun Dec 15 2024,,,Fenerbahçe,,,İstanbul Başakşehir,
-17,Sun Dec 22 2024,,,Beşiktaş,,,Alanyaspor,
-17,Sun Dec 22 2024,,,Hatayspor,,,Adana Demirspor,
-17,Sun Dec 22 2024,,,Sivasspor,,,Samsunspor,
-17,Sun Dec 22 2024,,,Kayserispor,,,Galatasaray,
-17,Sun Dec 22 2024,,,Trabzonspor,,,Bodrum FK,
-17,Sun Dec 22 2024,,,Eyüpspor,,,Fenerbahçe,
-17,Sun Dec 22 2024,,,İstanbul Başakşehir,,,Kasımpaşa SK,
-17,Sun Dec 22 2024,,,Gaziantep FK,,,Antalyaspor,
-17,Sun Dec 22 2024,,,Göztepe,,,Çaykur Rizespor,
+1,Fri Aug 9 2024,21:00,+0300,Galatasaray,2-1,0-0,Hatayspor,2024-08-09T18:00Z
+1,Sat Aug 10 2024,21:45,+0300,Antalyaspor,0-0,0-0,Göztepe,2024-08-10T18:45Z
+1,Sat Aug 10 2024,21:45,+0300,Fenerbahçe,1-0,1-0,Adana Demirspor,2024-08-10T18:45Z
+1,Sat Aug 10 2024,19:15,+0300,Kasımpaşa SK,2-3,0-1,Konyaspor,2024-08-10T16:15Z
+1,Sun Aug 11 2024,19:15,+0300,Sivasspor,0-0,0-0,Trabzonspor,2024-08-11T16:15Z
+1,Sun Aug 11 2024,21:45,+0300,Alanyaspor,1-1,0-0,Eyüpspor,2024-08-11T18:45Z
+1,Sun Aug 11 2024,21:45,+0300,Samsunspor,0-2,0-2,Beşiktaş,2024-08-11T18:45Z
+1,Mon Aug 12 2024,21:00,+0300,Bodrum FK,0-1,0-0,Gaziantep FK,2024-08-12T18:00Z
+1,Mon Aug 12 2024,21:00,+0300,Çaykur Rizespor,1-1,1-1,İstanbul Başakşehir,2024-08-12T18:00Z
+2,Fri Aug 16 2024,21:00,+0300,Konyaspor,1-2,1-1,Galatasaray,2024-08-16T18:00Z
+2,Sat Aug 17 2024,21:45,+0300,Göztepe,2-2,0-2,Fenerbahçe,2024-08-17T18:45Z
+2,Sat Aug 17 2024,21:45,+0300,Adana Demirspor,1-2,0-1,Çaykur Rizespor,2024-08-17T18:45Z
+2,Sat Aug 17 2024,19:15,+0300,Kayserispor,1-2,1-1,Sivasspor,2024-08-17T16:15Z
+2,Sun Aug 18 2024,19:15,+0300,İstanbul Başakşehir,4-2,1-2,Alanyaspor,2024-08-18T16:15Z
+2,Sun Aug 18 2024,21:45,+0300,Gaziantep FK,0-1,0-1,Samsunspor,2024-08-18T18:45Z
+2,Sun Aug 18 2024,21:45,+0300,Beşiktaş,4-2,2-1,Antalyaspor,2024-08-18T18:45Z
+2,Mon Aug 19 2024,21:00,+0300,Hatayspor,1-1,1-0,Kasımpaşa SK,2024-08-19T18:00Z
+2,Mon Aug 19 2024,21:00,+0300,Eyüpspor,4-1,0-1,Bodrum FK,2024-08-19T18:00Z
+3,Fri Aug 23 2024,21:00,+0300,Alanyaspor,1-1,0-1,Göztepe,2024-08-23T18:00Z
+3,Sat Aug 24 2024,19:15,+0300,Sivasspor,0-1,0-1,Eyüpspor,2024-08-24T16:15Z
+3,Sat Aug 24 2024,21:45,+0300,Bodrum FK,3-1,2-1,Konyaspor,2024-08-24T18:45Z
+3,Sun Aug 25 2024,21:45,+0300,Antalyaspor,3-2,0-2,Hatayspor,2024-08-25T18:45Z
+3,Sun Aug 25 2024,21:45,+0300,Çaykur Rizespor,0-5,0-1,Fenerbahçe,2024-08-25T18:45Z
+3,Sun Aug 25 2024,19:15,+0300,Kasımpaşa SK,2-2,1-0,Adana Demirspor,2024-08-25T16:15Z
+4,Fri Aug 30 2024,21:00,+0300,Fenerbahçe,3-0,1-0,Alanyaspor,2024-08-30T18:00Z
+4,Sat Aug 31 2024,19:15,+0300,Konyaspor,0-0,0-0,Kayserispor,2024-08-31T16:15Z
+4,Sat Aug 31 2024,21:45,+0300,Göztepe,2-0,2-0,Bodrum FK,2024-08-31T18:45Z
+4,Sat Aug 31 2024,21:45,+0300,Adana Demirspor,1-5,0-4,Galatasaray,2024-08-31T18:45Z
+4,Sat Aug 31 2024,19:15,+0300,Çaykur Rizespor,0-1,0-1,Kasımpaşa SK,2024-08-31T16:15Z
+4,Sun Sep 1 2024,21:45,+0300,Beşiktaş,2-0,1-0,Sivasspor,2024-09-01T18:45Z
+4,Sun Sep 1 2024,19:15,+0300,Eyüpspor,0-0,0-0,Trabzonspor,2024-09-01T16:15Z
+4,Sun Sep 1 2024,19:15,+0300,İstanbul Başakşehir,5-2,1-2,Antalyaspor,2024-09-01T16:15Z
+4,Sun Sep 1 2024,21:45,+0300,Hatayspor,0-3,0-1,Samsunspor,2024-09-01T18:45Z
+5,Sat Sep 14 2024,20:00,+0300,Bodrum FK,0-1,0-0,İstanbul Başakşehir,2024-09-14T17:00Z
+5,Sat Sep 14 2024,17:00,+0300,Samsunspor,0-1,0-1,Konyaspor,2024-09-14T14:00Z
+5,Sat Sep 14 2024,20:00,+0300,Galatasaray,5-0,2-0,Çaykur Rizespor,2024-09-14T17:00Z
+5,Sat Sep 14 2024,17:00,+0300,Sivasspor,3-2,1-1,Gaziantep FK,2024-09-14T14:00Z
+5,Sun Sep 15 2024,20:00,+0300,Alanyaspor,0-0,0-0,Hatayspor,2024-09-15T17:00Z
+5,Sun Sep 15 2024,17:00,+0300,Kayserispor,2-2,0-2,Eyüpspor,2024-09-15T14:00Z
+5,Sun Sep 15 2024,20:00,+0300,Trabzonspor,1-1,1-1,Beşiktaş,2024-09-15T17:00Z
+5,Sun Sep 15 2024,17:00,+0300,Kasımpaşa SK,0-2,0-2,Fenerbahçe,2024-09-15T14:00Z
+5,Mon Sep 16 2024,20:00,+0300,Antalyaspor,2-1,0-0,Adana Demirspor,2024-09-16T17:00Z
+3,Tue Sep 17 2024,20:00,+0300,Galatasaray,,,Gaziantep FK,2024-09-17T17:00Z
+3,Wed Sep 18 2024,20:00,+0300,Samsunspor,,,İstanbul Başakşehir,2024-09-18T17:00Z
+3,Thu Sep 19 2024,20:00,+0300,Trabzonspor,,,Kayserispor,2024-09-19T17:00Z
+6,Fri Sep 20 2024,20:00,+0300,Hatayspor,,,Bodrum FK,2024-09-20T17:00Z
+6,Sat Sep 21 2024,17:00,+0300,Konyaspor,,,Sivasspor,2024-09-21T14:00Z
+6,Sat Sep 21 2024,20:00,+0300,Fenerbahçe,,,Galatasaray,2024-09-21T17:00Z
+6,Sun Sep 22 2024,17:00,+0300,Kasımpaşa SK,,,Antalyaspor,2024-09-22T14:00Z
+6,Sun Sep 22 2024,20:00,+0300,Adana Demirspor,,,Alanyaspor,2024-09-22T17:00Z
+6,Sun Sep 22 2024,20:00,+0300,Beşiktaş,,,Eyüpspor,2024-09-22T17:00Z
+6,Sun Sep 22 2024,17:00,+0300,Çaykur Rizespor,,,Samsunspor,2024-09-22T14:00Z
+6,Mon Sep 23 2024,20:00,+0300,Gaziantep FK,,,Trabzonspor,2024-09-23T17:00Z
+6,Mon Sep 23 2024,20:00,+0300,Göztepe,,,Kayserispor,2024-09-23T17:00Z
+7,Fri Sep 27 2024,20:00,+0300,Sivasspor,,,İstanbul Başakşehir,2024-09-27T17:00Z
+7,Sat Sep 28 2024,19:00,+0300,Alanyaspor,,,Çaykur Rizespor,2024-09-28T16:00Z
+7,Sat Sep 28 2024,19:00,+0300,Galatasaray,,,Kasımpaşa SK,2024-09-28T16:00Z
+7,Sat Sep 28 2024,16:00,+0300,Samsunspor,,,Göztepe,2024-09-28T13:00Z
+7,Sun Sep 29 2024,16:00,+0300,Trabzonspor,,,Konyaspor,2024-09-29T13:00Z
+7,Sun Sep 29 2024,16:00,+0300,Eyüpspor,,,Gaziantep FK,2024-09-29T13:00Z
+7,Sun Sep 29 2024,19:00,+0300,Antalyaspor,,,Fenerbahçe,2024-09-29T16:00Z
+7,Sun Sep 29 2024,19:00,+0300,Bodrum FK,,,Adana Demirspor,2024-09-29T16:00Z
+7,Mon Sep 30 2024,20:00,+0300,Kayserispor,,,Beşiktaş,2024-09-30T17:00Z
+8,Fri Oct 4 2024,20:00,+0300,Çaykur Rizespor,,,Antalyaspor,2024-10-04T17:00Z
+8,Sat Oct 5 2024,16:00,+0300,Göztepe,,,Sivasspor,2024-10-05T13:00Z
+8,Sat Oct 5 2024,19:00,+0300,İstanbul Başakşehir,,,Kayserispor,2024-10-05T16:00Z
+8,Sat Oct 5 2024,19:00,+0300,Hatayspor,,,Trabzonspor,2024-10-05T16:00Z
+8,Sat Oct 5 2024,13:30,+0300,Kasımpaşa SK,,,Bodrum FK,2024-10-05T10:30Z
+8,Sun Oct 6 2024,16:00,+0300,Adana Demirspor,,,Samsunspor,2024-10-06T13:00Z
+8,Sun Oct 6 2024,19:00,+0300,Gaziantep FK,,,Beşiktaş,2024-10-06T16:00Z
+8,Sun Oct 6 2024,19:00,+0300,Galatasaray,,,Alanyaspor,2024-10-06T16:00Z
+8,Sun Oct 6 2024,13:30,+0300,Konyaspor,,,Eyüpspor,2024-10-06T10:30Z
+9,Sat Oct 19 2024,13:30,+0300,Kayserispor,,,Gaziantep FK,2024-10-19T10:30Z
+9,Sat Oct 19 2024,16:00,+0300,Trabzonspor,,,İstanbul Başakşehir,2024-10-19T13:00Z
+9,Sat Oct 19 2024,19:00,+0300,Antalyaspor,,,Galatasaray,2024-10-19T16:00Z
+9,Sat Oct 19 2024,19:00,+0300,Eyüpspor,,,Göztepe,2024-10-19T16:00Z
+9,Sun Oct 20 2024,16:00,+0300,Beşiktaş,,,Konyaspor,2024-10-20T13:00Z
+9,Sun Oct 20 2024,19:00,+0300,Alanyaspor,,,Kasımpaşa SK,2024-10-20T16:00Z
+9,Sun Oct 20 2024,19:00,+0300,Samsunspor,,,Fenerbahçe,2024-10-20T16:00Z
+9,Sun Oct 20 2024,13:30,+0300,Sivasspor,,,Hatayspor,2024-10-20T10:30Z
+9,Mon Oct 21 2024,20:00,+0300,Bodrum FK,,,Çaykur Rizespor,2024-10-21T17:00Z
+10,Fri Oct 25 2024,20:00,+0300,Adana Demirspor,,,Sivasspor,2024-10-25T17:00Z
+10,Sat Oct 26 2024,16:00,+0300,Kasımpaşa SK,,,Samsunspor,2024-10-26T13:00Z
+10,Sat Oct 26 2024,19:00,+0300,Göztepe,,,Trabzonspor,2024-10-26T16:00Z
+10,Sat Oct 26 2024,13:30,+0300,Hatayspor,,,Kayserispor,2024-10-26T10:30Z
+10,Sun Oct 27 2024,13:30,+0300,Gaziantep FK,,,Konyaspor,2024-10-27T10:30Z
+10,Sun Oct 27 2024,16:00,+0300,Alanyaspor,,,Antalyaspor,2024-10-27T13:00Z
+10,Sun Oct 27 2024,19:00,+0300,Fenerbahçe,,,Bodrum FK,2024-10-27T16:00Z
+10,Mon Oct 28 2024,20:00,+0300,Galatasaray,,,Beşiktaş,2024-10-28T17:00Z
+10,Mon Oct 28 2024,17:00,+0300,İstanbul Başakşehir,,,Eyüpspor,2024-10-28T14:00Z
+11,Fri Nov 1 2024,20:00,+0300,Gaziantep FK,,,Göztepe,2024-11-01T17:00Z
+11,Sat Nov 2 2024,16:00,+0300,Kayserispor,,,Adana Demirspor,2024-11-02T13:00Z
+11,Sat Nov 2 2024,19:00,+0300,Beşiktaş,,,Kasımpaşa SK,2024-11-02T16:00Z
+11,Sat Nov 2 2024,13:30,+0300,Sivasspor,,,Çaykur Rizespor,2024-11-02T10:30Z
+11,Sun Nov 3 2024,13:30,+0300,Konyaspor,,,İstanbul Başakşehir,2024-11-03T10:30Z
+11,Sun Nov 3 2024,16:00,+0300,Eyüpspor,,,Hatayspor,2024-11-03T13:00Z
+11,Sun Nov 3 2024,16:00,+0300,Bodrum FK,,,Alanyaspor,2024-11-03T13:00Z
+11,Sun Nov 3 2024,19:00,+0300,Trabzonspor,,,Fenerbahçe,2024-11-03T16:00Z
+11,Mon Nov 4 2024,20:00,+0300,Samsunspor,,,Antalyaspor,2024-11-04T17:00Z
+12,Fri Nov 8 2024,20:00,+0300,Kasımpaşa SK,,,Kayserispor,2024-11-08T17:00Z
+12,Sat Nov 9 2024,16:00,+0300,Hatayspor,,,Gaziantep FK,2024-11-09T13:00Z
+12,Sat Nov 9 2024,19:00,+0300,Çaykur Rizespor,,,Trabzonspor,2024-11-09T16:00Z
+12,Sat Nov 9 2024,19:00,+0300,Adana Demirspor,,,Eyüpspor,2024-11-09T16:00Z
+12,Sat Nov 9 2024,13:30,+0300,Antalyaspor,,,Bodrum FK,2024-11-09T10:30Z
+12,Sun Nov 10 2024,13:30,+0300,Göztepe,,,Konyaspor,2024-11-10T10:30Z
+12,Sun Nov 10 2024,16:00,+0300,Galatasaray,,,Samsunspor,2024-11-10T13:00Z
+12,Sun Nov 10 2024,19:00,+0300,İstanbul Başakşehir,,,Beşiktaş,2024-11-10T16:00Z
+12,Sun Nov 10 2024,19:00,+0300,Fenerbahçe,,,Sivasspor,2024-11-10T16:00Z
+13,Sat Nov 23 2024,16:00,+0300,Kayserispor,,,Fenerbahçe,2024-11-23T13:00Z
+13,Sat Nov 23 2024,16:00,+0300,Gaziantep FK,,,İstanbul Başakşehir,2024-11-23T13:00Z
+13,Sat Nov 23 2024,20:00,+0300,Bodrum FK,,,Galatasaray,2024-11-23T17:00Z
+13,Sat Nov 23 2024,13:30,+0300,Eyüpspor,,,Çaykur Rizespor,2024-11-23T10:30Z
+13,Sun Nov 24 2024,13:30,+0300,Sivasspor,,,Kasımpaşa SK,2024-11-24T10:30Z
+13,Sun Nov 24 2024,16:00,+0300,Konyaspor,,,Hatayspor,2024-11-24T13:00Z
+13,Sun Nov 24 2024,16:00,+0300,Samsunspor,,,Alanyaspor,2024-11-24T13:00Z
+13,Sun Nov 24 2024,19:00,+0300,Beşiktaş,,,Göztepe,2024-11-24T16:00Z
+13,Mon Nov 25 2024,20:00,+0300,Trabzonspor,,,Adana Demirspor,2024-11-25T17:00Z
+14,Fri Nov 29 2024,20:00,+0300,Antalyaspor,,,Sivasspor,2024-11-29T17:00Z
+14,Sat Nov 30 2024,16:00,+0300,Adana Demirspor,,,Konyaspor,2024-11-30T13:00Z
+14,Sat Nov 30 2024,19:00,+0300,İstanbul Başakşehir,,,Göztepe,2024-11-30T16:00Z
+14,Sat Nov 30 2024,19:00,+0300,Alanyaspor,,,Trabzonspor,2024-11-30T16:00Z
+14,Sat Nov 30 2024,13:30,+0300,Samsunspor,,,Bodrum FK,2024-11-30T10:30Z
+14,Sun Dec 1 2024,16:00,+0300,Çaykur Rizespor,,,Kayserispor,2024-12-01T13:00Z
+14,Sun Dec 1 2024,19:00,+0300,Galatasaray,,,Eyüpspor,2024-12-01T16:00Z
+14,Mon Dec 2 2024,20:00,+0300,Fenerbahçe,,,Gaziantep FK,2024-12-02T17:00Z
+14,Mon Dec 2 2024,20:00,+0300,Hatayspor,,,Beşiktaş,2024-12-02T17:00Z
+15,Fri Dec 6 2024,20:00,+0300,Trabzonspor,,,Kasımpaşa SK,2024-12-06T17:00Z
+15,Sat Dec 7 2024,13:30,+0300,Konyaspor,,,Antalyaspor,2024-12-07T10:30Z
+15,Sat Dec 7 2024,16:00,+0300,Göztepe,,,Adana Demirspor,2024-12-07T13:00Z
+15,Sat Dec 7 2024,19:00,+0300,Beşiktaş,,,Fenerbahçe,2024-12-07T16:00Z
+15,Sun Dec 8 2024,16:00,+0300,Sivasspor,,,Galatasaray,2024-12-08T13:00Z
+15,Sun Dec 8 2024,16:00,+0300,Kayserispor,,,Alanyaspor,2024-12-08T13:00Z
+15,Sun Dec 8 2024,19:00,+0300,İstanbul Başakşehir,,,Hatayspor,2024-12-08T16:00Z
+15,Sun Dec 8 2024,13:30,+0300,Eyüpspor,,,Samsunspor,2024-12-08T10:30Z
+15,Mon Dec 9 2024,20:00,+0300,Gaziantep FK,,,Çaykur Rizespor,2024-12-09T17:00Z
+16,Fri Dec 13 2024,20:00,+0300,Kasımpaşa SK,,,Eyüpspor,2024-12-13T17:00Z
+16,Fri Dec 13 2024,20:00,+0300,Bodrum FK,,,Sivasspor,2024-12-13T17:00Z
+16,Sat Dec 14 2024,16:00,+0300,Çaykur Rizespor,,,Konyaspor,2024-12-14T13:00Z
+16,Sat Dec 14 2024,19:00,+0300,Alanyaspor,,,Gaziantep FK,2024-12-14T16:00Z
+16,Sun Dec 15 2024,16:00,+0300,Antalyaspor,,,Kayserispor,2024-12-15T13:00Z
+16,Sun Dec 15 2024,19:00,+0300,Fenerbahçe,,,İstanbul Başakşehir,2024-12-15T16:00Z
+16,Sun Dec 15 2024,13:30,+0300,Hatayspor,,,Göztepe,2024-12-15T10:30Z
+16,Mon Dec 16 2024,21:00,+0300,Galatasaray,,,Trabzonspor,2024-12-16T18:00Z
+16,Mon Dec 16 2024,19:00,+0300,Adana Demirspor,,,Beşiktaş,2024-12-16T16:00Z
+17,Fri Dec 20 2024,20:00,+0300,Eyüpspor,,,Fenerbahçe,2024-12-20T17:00Z
+17,Sat Dec 21 2024,19:00,+0300,Beşiktaş,,,Alanyaspor,2024-12-21T16:00Z
+17,Sat Dec 21 2024,16:00,+0300,Sivasspor,,,Samsunspor,2024-12-21T13:00Z
+17,Sun Dec 22 2024,13:30,+0300,Gaziantep FK,,,Antalyaspor,2024-12-22T10:30Z
+17,Sun Dec 22 2024,16:00,+0300,Kayserispor,,,Galatasaray,2024-12-22T13:00Z
+17,Sun Dec 22 2024,16:00,+0300,Göztepe,,,Çaykur Rizespor,2024-12-22T13:00Z
+17,Sun Dec 22 2024,19:00,+0300,Trabzonspor,,,Bodrum FK,2024-12-22T16:00Z
+17,Mon Dec 23 2024,20:00,+0300,İstanbul Başakşehir,,,Kasımpaşa SK,2024-12-23T17:00Z
+17,Mon Dec 23 2024,20:00,+0300,Hatayspor,,,Adana Demirspor,2024-12-23T17:00Z
 18,Sun Jan 5 2025,,,Bodrum FK,,,Kayserispor,
 18,Sun Jan 5 2025,,,Galatasaray,,,Göztepe,
 18,Sun Jan 5 2025,,,Çaykur Rizespor,,,Beşiktaş,

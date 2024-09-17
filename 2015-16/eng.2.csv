@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 7 2015,19:45,BST/+0100,Brighton & Hove Albion,1-0,0-0,Nottingham Forest,2015-08-07T18:45Z
+1,Sat Aug 8 2015,12:00,BST/+0100,Cardiff City,1-1,0-0,Fulham FC,2015-08-08T11:00Z
+1,Sat Aug 8 2015,12:30,BST/+0100,Leeds United,1-1,0-0,Burnley FC,2015-08-08T11:30Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Birmingham City,2-1,1-0,Reading FC,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Blackburn Rovers,1-2,1-2,Wolverhampton Wanderers,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Bolton Wanderers,0-0,0-0,Derby County,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Brentford FC,2-2,0-1,Ipswich Town,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Charlton Athletic,2-0,0-0,Queens Park Rangers,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Hull City,2-0,1-0,Huddersfield Town,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Rotherham United,1-4,1-3,Milton Keynes Dons,2015-08-08T14:00Z
+1,Sat Aug 8 2015,15:00,BST/+0100,Sheffield Wednesday,2-0,0-0,Bristol City,2015-08-08T14:00Z
+1,Sun Aug 9 2015,12:00,BST/+0100,Preston North End,0-0,0-0,Middlesbrough FC,2015-08-09T11:00Z
+2,Sat Aug 15 2015,12:30,BST/+0100,Burnley FC,2-2,0-1,Birmingham City,2015-08-15T11:30Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Bristol City,2-4,2-2,Brentford FC,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Derby County,1-1,0-0,Charlton Athletic,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Fulham FC,1-2,1-1,Brighton & Hove Albion,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Huddersfield Town,1-1,1-0,Blackburn Rovers,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Ipswich Town,2-1,1-1,Sheffield Wednesday,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Milton Keynes Dons,0-1,0-1,Preston North End,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Nottingham Forest,2-1,1-1,Rotherham United,2015-08-15T14:00Z
+2,Sat Aug 15 2015,15:00,BST/+0100,Middlesbrough FC,3-0,3-0,Bolton Wanderers,2015-08-15T14:00Z
+2,Sat Aug 15 2015,17:15,BST/+0100,Queens Park Rangers,2-2,1-0,Cardiff City,2015-08-15T16:15Z
+2,Sun Aug 16 2015,15:00,BST/+0100,Reading FC,0-0,0-0,Leeds United,2015-08-16T14:00Z
+2,Sun Aug 16 2015,12:00,BST/+0100,Wolverhampton Wanderers,1-1,0-1,Hull City,2015-08-16T11:00Z
+3,Tue Aug 18 2015,19:45,BST/+0100,Blackburn Rovers,1-1,0-1,Cardiff City,2015-08-18T18:45Z
+3,Tue Aug 18 2015,19:45,BST/+0100,Derby County,1-1,0-1,Middlesbrough FC,2015-08-18T18:45Z
+3,Tue Aug 18 2015,19:45,BST/+0100,Huddersfield Town,1-1,0-1,Brighton & Hove Albion,2015-08-18T18:45Z
+3,Tue Aug 18 2015,19:45,BST/+0100,Ipswich Town,2-0,0-0,Burnley FC,2015-08-18T18:45Z
+3,Tue Aug 18 2015,19:45,BST/+0100,Milton Keynes Dons,1-0,0-0,Bolton Wanderers,2015-08-18T18:45Z
+3,Tue Aug 18 2015,19:45,BST/+0100,Nottingham Forest,0-0,0-0,Charlton Athletic,2015-08-18T18:45Z
+3,Tue Aug 18 2015,19:45,BST/+0100,Rotherham United,0-0,0-0,Preston North End,2015-08-18T18:45Z
+3,Wed Aug 19 2015,19:45,BST/+0100,Hull City,2-1,1-0,Fulham FC,2015-08-19T18:45Z
+3,Wed Aug 19 2015,19:45,BST/+0100,Sheffield Wednesday,1-1,0-0,Reading FC,2015-08-19T18:45Z
+3,Wed Aug 19 2015,19:45,BST/+0100,Wolverhampton Wanderers,2-3,2-1,Queens Park Rangers,2015-08-19T18:45Z
+3,Wed Aug 19 2015,19:45,BST/+0100,Bristol City,2-2,0-1,Leeds United,2015-08-19T18:45Z
+4,Fri Aug 21 2015,19:45,BST/+0100,Birmingham City,1-1,1-0,Derby County,2015-08-21T18:45Z
+4,Sat Aug 22 2015,17:15,BST/+0100,Cardiff City,2-0,1-0,Wolverhampton Wanderers,2015-08-22T16:15Z
+4,Sat Aug 22 2015,12:30,BST/+0100,Leeds United,1-1,0-1,Sheffield Wednesday,2015-08-22T11:30Z
+4,Sat Aug 22 2015,15:00,BST/+0100,Bolton Wanderers,1-1,0-0,Nottingham Forest,2015-08-22T14:00Z
+4,Sat Aug 22 2015,15:00,BST/+0100,Burnley FC,1-0,1-0,Brentford FC,2015-08-22T14:00Z
+4,Sat Aug 22 2015,15:00,BST/+0100,Charlton Athletic,2-1,0-0,Hull City,2015-08-22T14:00Z
+4,Sat Aug 22 2015,15:00,BST/+0100,Fulham FC,1-1,0-0,Huddersfield Town,2015-08-22T14:00Z
+4,Sat Aug 22 2015,15:00,BST/+0100,Middlesbrough FC,0-1,0-1,Bristol City,2015-08-22T14:00Z
+4,Sat Aug 22 2015,15:00,BST/+0100,Preston North End,1-2,1-1,Ipswich Town,2015-08-22T14:00Z
+4,Sat Aug 22 2015,15:00,BST/+0100,Queens Park Rangers,4-2,1-0,Rotherham United,2015-08-22T14:00Z
+4,Sat Aug 22 2015,15:00,BST/+0100,Reading FC,0-0,0-0,Milton Keynes Dons,2015-08-22T14:00Z
+4,Sat Aug 22 2015,15:15,BST/+0100,Brighton & Hove Albion,1-0,1-0,Blackburn Rovers,2015-08-22T14:15Z
+5,Fri Aug 28 2015,19:45,BST/+0100,Blackburn Rovers,0-0,0-0,Bolton Wanderers,2015-08-28T18:45Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Ipswich Town,2-3,0-2,Brighton & Hove Albion,2015-08-29T14:00Z
+5,Sat Aug 29 2015,12:05,BST/+0100,Derby County,1-2,0-1,Leeds United,2015-08-29T11:05Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Brentford FC,1-3,0-2,Reading FC,2015-08-29T14:00Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Bristol City,1-2,0-2,Burnley FC,2015-08-29T14:00Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Huddersfield Town,0-1,0-0,Queens Park Rangers,2015-08-29T14:00Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Hull City,2-0,1-0,Preston North End,2015-08-29T14:00Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Sheffield Wednesday,1-3,0-1,Middlesbrough FC,2015-08-29T14:00Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Milton Keynes Dons,0-2,0-0,Birmingham City,2015-08-29T14:00Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Nottingham Forest,1-2,0-1,Cardiff City,2015-08-29T14:00Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Rotherham United,1-3,0-2,Fulham FC,2015-08-29T14:00Z
+5,Sat Aug 29 2015,15:00,BST/+0100,Wolverhampton Wanderers,2-1,0-0,Charlton Athletic,2015-08-29T14:00Z
+6,Fri Sep 11 2015,20:00,BST/+0100,Reading FC,5-1,2-1,Ipswich Town,2015-09-11T19:00Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Preston North End,1-2,0-2,Derby County,2015-09-12T14:00Z
+6,Sat Sep 12 2015,12:30,BST/+0100,Queens Park Rangers,1-2,0-0,Nottingham Forest,2015-09-12T11:30Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Birmingham City,4-2,3-1,Bristol City,2015-09-12T14:00Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Bolton Wanderers,2-1,2-0,Wolverhampton Wanderers,2015-09-12T14:00Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Brighton & Hove Albion,1-0,1-0,Hull City,2015-09-12T14:00Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Burnley FC,3-1,1-1,Sheffield Wednesday,2015-09-12T14:00Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Cardiff City,2-0,0-0,Huddersfield Town,2015-09-12T14:00Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Charlton Athletic,1-1,0-1,Rotherham United,2015-09-12T14:00Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Leeds United,1-1,0-1,Brentford FC,2015-09-12T14:00Z
+6,Sat Sep 12 2015,15:00,BST/+0100,Middlesbrough FC,2-0,0-0,Milton Keynes Dons,2015-09-12T14:00Z
+6,Sun Sep 13 2015,12:00,BST/+0100,Fulham FC,2-1,2-0,Blackburn Rovers,2015-09-13T11:00Z
+7,Tue Sep 15 2015,19:45,BST/+0100,Charlton Athletic,1-2,1-2,Huddersfield Town,2015-09-15T18:45Z
+7,Tue Sep 15 2015,19:45,BST/+0100,Birmingham City,0-1,0-0,Nottingham Forest,2015-09-15T18:45Z
+7,Tue Sep 15 2015,19:45,BST/+0100,Brighton & Hove Albion,2-1,1-0,Rotherham United,2015-09-15T18:45Z
+7,Tue Sep 15 2015,19:45,BST/+0100,Burnley FC,2-1,1-1,Milton Keynes Dons,2015-09-15T18:45Z
+7,Tue Sep 15 2015,19:45,BST/+0100,Cardiff City,0-2,0-1,Hull City,2015-09-15T18:45Z
+7,Tue Sep 15 2015,20:00,BST/+0100,Reading FC,0-1,0-0,Derby County,2015-09-15T19:00Z
+7,Tue Sep 15 2015,19:45,BST/+0100,Leeds United,0-1,0-1,Ipswich Town,2015-09-15T18:45Z
+7,Tue Sep 15 2015,19:45,BST/+0100,Middlesbrough FC,3-1,1-0,Brentford FC,2015-09-15T18:45Z
+7,Tue Sep 15 2015,19:45,BST/+0100,Preston North End,1-1,0-0,Bristol City,2015-09-15T18:45Z
+7,Tue Sep 15 2015,20:00,BST/+0100,Bolton Wanderers,0-0,0-0,Sheffield Wednesday,2015-09-15T19:00Z
+7,Wed Sep 16 2015,19:45,BST/+0100,Queens Park Rangers,2-2,0-1,Blackburn Rovers,2015-09-16T18:45Z
+8,Fri Sep 18 2015,19:45,BST/+0100,Ipswich Town,1-1,1-1,Birmingham City,2015-09-18T18:45Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Wolverhampton Wanderers,0-0,0-0,Brighton & Hove Albion,2015-09-19T14:00Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Huddersfield Town,4-1,1-1,Bolton Wanderers,2015-09-19T14:00Z
+8,Sat Sep 19 2015,12:30,BST/+0100,Nottingham Forest,1-2,1-2,Middlesbrough FC,2015-09-19T11:30Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Blackburn Rovers,3-0,1-0,Charlton Athletic,2015-09-19T14:00Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Brentford FC,2-1,0-1,Preston North End,2015-09-19T14:00Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Bristol City,0-2,0-2,Reading FC,2015-09-19T14:00Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Sheffield Wednesday,3-2,2-1,Fulham FC,2015-09-19T14:00Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Hull City,1-1,1-1,Queens Park Rangers,2015-09-19T14:00Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Milton Keynes Dons,1-2,0-2,Leeds United,2015-09-19T14:00Z
+8,Sat Sep 19 2015,15:00,BST/+0100,Rotherham United,2-1,1-1,Cardiff City,2015-09-19T14:00Z
+8,Mon Sep 21 2015,19:45,BST/+0100,Derby County,0-0,0-0,Burnley FC,2015-09-21T18:45Z
+9,Thu Sep 24 2015,19:45,BST/+0100,Huddersfield Town,1-1,0-1,Nottingham Forest,2015-09-24T18:45Z
+9,Fri Sep 25 2015,19:45,BST/+0100,Fulham FC,4-0,3-0,Queens Park Rangers,2015-09-25T18:45Z
+9,Sat Sep 26 2015,15:00,BST/+0100,Preston North End,1-1,1-0,Wolverhampton Wanderers,2015-09-26T14:00Z
+9,Sat Sep 26 2015,15:00,BST/+0100,Brentford FC,1-2,0-1,Sheffield Wednesday,2015-09-26T14:00Z
+9,Sat Sep 26 2015,12:30,BST/+0100,Milton Keynes Dons,1-3,0-0,Derby County,2015-09-26T11:30Z
+9,Sat Sep 26 2015,15:00,BST/+0100,Birmingham City,0-2,0-1,Rotherham United,2015-09-26T14:00Z
+9,Sat Sep 26 2015,15:00,BST/+0100,Bolton Wanderers,2-2,1-2,Brighton & Hove Albion,2015-09-26T14:00Z
+9,Sat Sep 26 2015,15:00,BST/+0100,Ipswich Town,2-2,0-0,Bristol City,2015-09-26T14:00Z
+9,Sat Sep 26 2015,15:00,BST/+0100,Burnley FC,1-2,0-2,Reading FC,2015-09-26T14:00Z
+9,Sat Sep 26 2015,15:00,BST/+0100,Cardiff City,2-1,0-0,Charlton Athletic,2015-09-26T14:00Z
+9,Sat Sep 26 2015,15:00,BST/+0100,Hull City,1-1,0-0,Blackburn Rovers,2015-09-26T14:00Z
+9,Sun Sep 27 2015,13:15,BST/+0100,Middlesbrough FC,3-0,2-0,Leeds United,2015-09-27T12:15Z
+7,Tue Sep 29 2015,19:45,BST/+0100,Fulham FC,0-3,0-0,Wolverhampton Wanderers,2015-09-29T18:45Z
+3,Tue Sep 29 2015,19:45,BST/+0100,Brentford FC,0-2,0-0,Birmingham City,2015-09-29T18:45Z
+10,Fri Oct 2 2015,19:45,BST/+0100,Rotherham United,1-2,0-1,Burnley FC,2015-10-02T18:45Z
+10,Sat Oct 3 2015,12:30,BST/+0100,Wolverhampton Wanderers,3-0,1-0,Huddersfield Town,2015-10-03T11:30Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Blackburn Rovers,2-0,2-0,Ipswich Town,2015-10-03T14:00Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Brighton & Hove Albion,1-1,1-1,Cardiff City,2015-10-03T14:00Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Bristol City,1-1,1-0,Milton Keynes Dons,2015-10-03T14:00Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Derby County,2-0,2-0,Brentford FC,2015-10-03T14:00Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Leeds United,0-2,0-1,Birmingham City,2015-10-03T14:00Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Nottingham Forest,0-1,0-1,Hull City,2015-10-03T14:00Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Queens Park Rangers,4-3,2-2,Bolton Wanderers,2015-10-03T14:00Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Reading FC,2-0,1-0,Middlesbrough FC,2015-10-03T14:00Z
+10,Sat Oct 3 2015,15:00,BST/+0100,Sheffield Wednesday,3-1,1-0,Preston North End,2015-10-03T14:00Z
+10,Sun Oct 4 2015,12:00,BST/+0100,Charlton Athletic,2-2,0-1,Fulham FC,2015-10-04T11:00Z
+11,Fri Oct 16 2015,19:45,BST/+0100,Bristol City,2-0,2-0,Nottingham Forest,2015-10-16T18:45Z
+11,Sat Oct 17 2015,12:30,BST/+0100,Sheffield Wednesday,1-1,1-0,Hull City,2015-10-17T11:30Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Birmingham City,2-1,1-1,Queens Park Rangers,2015-10-17T14:00Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Brentford FC,2-1,1-0,Rotherham United,2015-10-17T14:00Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Burnley FC,2-0,0-0,Bolton Wanderers,2015-10-17T14:00Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Ipswich Town,0-0,0-0,Huddersfield Town,2015-10-17T14:00Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Leeds United,1-2,1-1,Brighton & Hove Albion,2015-10-17T14:00Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Milton Keynes Dons,3-0,1-0,Blackburn Rovers,2015-10-17T14:00Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Middlesbrough FC,0-0,0-0,Fulham FC,2015-10-17T14:00Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Preston North End,0-0,0-0,Cardiff City,2015-10-17T14:00Z
+11,Sat Oct 17 2015,15:00,BST/+0100,Reading FC,1-0,0-0,Charlton Athletic,2015-10-17T14:00Z
+11,Sun Oct 18 2015,13:15,BST/+0100,Derby County,4-2,3-1,Wolverhampton Wanderers,2015-10-18T12:15Z
+12,Tue Oct 20 2015,19:45,BST/+0100,Brighton & Hove Albion,2-1,0-1,Bristol City,2015-10-20T18:45Z
+12,Tue Oct 20 2015,19:45,BST/+0100,Cardiff City,1-0,0-0,Middlesbrough FC,2015-10-20T18:45Z
+12,Tue Oct 20 2015,19:45,BST/+0100,Charlton Athletic,0-3,0-2,Preston North End,2015-10-20T18:45Z
+12,Tue Oct 20 2015,19:45,BST/+0100,Huddersfield Town,2-0,0-0,Milton Keynes Dons,2015-10-20T18:45Z
+12,Tue Oct 20 2015,19:45,BST/+0100,Hull City,3-0,2-0,Ipswich Town,2015-10-20T18:45Z
+12,Tue Oct 20 2015,19:45,BST/+0100,Nottingham Forest,1-1,0-0,Burnley FC,2015-10-20T18:45Z
+12,Tue Oct 20 2015,19:45,BST/+0100,Queens Park Rangers,0-0,0-0,Sheffield Wednesday,2015-10-20T18:45Z
+12,Tue Oct 20 2015,19:45,BST/+0100,Rotherham United,1-1,0-1,Reading FC,2015-10-20T18:45Z
+12,Tue Oct 20 2015,20:00,BST/+0100,Bolton Wanderers,0-1,0-1,Birmingham City,2015-10-20T19:00Z
+12,Wed Oct 21 2015,19:45,BST/+0100,Fulham FC,1-1,1-0,Leeds United,2015-10-21T18:45Z
+12,Wed Oct 21 2015,19:45,BST/+0100,Wolverhampton Wanderers,0-2,0-1,Brentford FC,2015-10-21T18:45Z
+12,Wed Oct 21 2015,19:45,BST/+0100,Blackburn Rovers,0-0,0-0,Derby County,2015-10-21T18:45Z
+13,Fri Oct 23 2015,19:45,BST/+0100,Rotherham United,1-2,0-0,Sheffield Wednesday,2015-10-23T18:45Z
+13,Sat Oct 24 2015,12:30,BST/+0100,Blackburn Rovers,0-1,0-0,Burnley FC,2015-10-24T11:30Z
+13,Sat Oct 24 2015,13:30,BST/+0100,Fulham FC,4-2,0-1,Reading FC,2015-10-24T12:30Z
+13,Sat Oct 24 2015,15:00,BST/+0100,Bolton Wanderers,1-1,1-0,Leeds United,2015-10-24T14:00Z
+13,Sat Oct 24 2015,15:00,BST/+0100,Brighton & Hove Albion,0-0,0-0,Preston North End,2015-10-24T14:00Z
+13,Sat Oct 24 2015,15:00,BST/+0100,Charlton Athletic,0-3,0-1,Brentford FC,2015-10-24T14:00Z
+13,Sat Oct 24 2015,15:00,BST/+0100,Huddersfield Town,1-2,1-1,Derby County,2015-10-24T14:00Z
+13,Sat Oct 24 2015,15:00,BST/+0100,Hull City,2-0,2-0,Birmingham City,2015-10-24T14:00Z
+13,Sat Oct 24 2015,15:00,BST/+0100,Nottingham Forest,1-1,0-0,Ipswich Town,2015-10-24T14:00Z
+13,Sat Oct 24 2015,15:00,BST/+0100,Queens Park Rangers,3-0,0-0,Milton Keynes Dons,2015-10-24T14:00Z
+13,Sat Oct 24 2015,15:00,BST/+0100,Wolverhampton Wanderers,1-3,1-0,Middlesbrough FC,2015-10-24T14:00Z
+13,Mon Oct 26 2015,19:45,GMT/+0000,Cardiff City,0-0,0-0,Bristol City,2015-10-26T19:45Z
+14,Thu Oct 29 2015,19:45,GMT/+0000,Leeds United,0-2,0-2,Blackburn Rovers,2015-10-29T19:45Z
+14,Fri Oct 30 2015,19:45,GMT/+0000,Brentford FC,1-0,0-0,Queens Park Rangers,2015-10-30T19:45Z
+14,Sat Oct 31 2015,12:30,GMT/+0000,Birmingham City,0-2,0-1,Wolverhampton Wanderers,2015-10-31T12:30Z
+14,Sat Oct 31 2015,15:00,GMT/+0000,Bristol City,1-4,0-4,Fulham FC,2015-10-31T15:00Z
+14,Sat Oct 31 2015,15:00,GMT/+0000,Burnley FC,2-1,2-0,Huddersfield Town,2015-10-31T15:00Z
+14,Sat Oct 31 2015,15:00,GMT/+0000,Derby County,3-0,2-0,Rotherham United,2015-10-31T15:00Z
+14,Sat Oct 31 2015,15:00,GMT/+0000,Ipswich Town,0-0,0-0,Cardiff City,2015-10-31T15:00Z
+14,Sat Oct 31 2015,15:00,GMT/+0000,Milton Keynes Dons,0-2,0-1,Hull City,2015-10-31T15:00Z
+14,Sat Oct 31 2015,15:00,GMT/+0000,Middlesbrough FC,3-0,0-0,Charlton Athletic,2015-10-31T15:00Z
+14,Sat Oct 31 2015,15:00,GMT/+0000,Reading FC,1-1,0-0,Brighton & Hove Albion,2015-10-31T15:00Z
+14,Sat Oct 31 2015,15:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Nottingham Forest,2015-10-31T15:00Z
+14,Sat Oct 31 2015,18:00,GMT/+0000,Preston North End,0-0,0-0,Bolton Wanderers,2015-10-31T18:00Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Birmingham City,0-0,0-0,Blackburn Rovers,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Brentford FC,0-2,0-0,Hull City,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Bristol City,1-0,1-0,Wolverhampton Wanderers,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Burnley FC,3-1,2-0,Fulham FC,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Derby County,1-0,0-0,Queens Park Rangers,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Ipswich Town,2-0,1-0,Bolton Wanderers,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Leeds United,1-0,0-0,Cardiff City,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Milton Keynes Dons,1-0,1-0,Charlton Athletic,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Middlesbrough FC,1-0,1-0,Rotherham United,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Preston North End,1-0,1-0,Nottingham Forest,2015-11-03T19:45Z
+15,Tue Nov 3 2015,19:45,GMT/+0000,Sheffield Wednesday,0-0,0-0,Brighton & Hove Albion,2015-11-03T19:45Z
+15,Tue Nov 3 2015,20:00,GMT/+0000,Reading FC,2-2,1-2,Huddersfield Town,2015-11-03T20:00Z
+16,Fri Nov 6 2015,19:30,GMT/+0000,Nottingham Forest,1-0,1-0,Derby County,2015-11-06T19:30Z
+16,Sat Nov 7 2015,12:30,GMT/+0000,Huddersfield Town,0-3,0-2,Leeds United,2015-11-07T12:30Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Blackburn Rovers,1-1,1-1,Brentford FC,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Bolton Wanderers,0-0,0-0,Bristol City,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Brighton & Hove Albion,2-1,2-1,Milton Keynes Dons,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Cardiff City,2-0,1-0,Reading FC,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Charlton Athletic,3-1,2-0,Sheffield Wednesday,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Fulham FC,2-5,0-3,Birmingham City,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Hull City,3-0,1-0,Middlesbrough FC,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Queens Park Rangers,0-0,0-0,Preston North End,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Rotherham United,2-5,0-3,Ipswich Town,2015-11-07T15:00Z
+16,Sat Nov 7 2015,15:00,GMT/+0000,Wolverhampton Wanderers,0-0,0-0,Burnley FC,2015-11-07T15:00Z
+17,Fri Nov 20 2015,19:45,GMT/+0000,Middlesbrough FC,1-0,0-0,Queens Park Rangers,2015-11-20T19:45Z
+17,Sat Nov 21 2015,12:30,GMT/+0000,Bristol City,1-1,1-0,Hull City,2015-11-21T12:30Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Birmingham City,0-1,0-0,Charlton Athletic,2015-11-21T15:00Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Brentford FC,2-1,0-0,Nottingham Forest,2015-11-21T15:00Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Derby County,2-0,0-0,Cardiff City,2015-11-21T15:00Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Ipswich Town,2-2,1-1,Wolverhampton Wanderers,2015-11-21T15:00Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Leeds United,0-1,0-0,Rotherham United,2015-11-21T15:00Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Milton Keynes Dons,1-1,1-1,Fulham FC,2015-11-21T15:00Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Preston North End,1-2,0-1,Blackburn Rovers,2015-11-21T15:00Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Reading FC,2-1,2-0,Bolton Wanderers,2015-11-21T15:00Z
+17,Sat Nov 21 2015,15:00,GMT/+0000,Sheffield Wednesday,3-1,0-0,Huddersfield Town,2015-11-21T15:00Z
+17,Sun Nov 22 2015,13:15,GMT/+0000,Burnley FC,1-1,1-1,Brighton & Hove Albion,2015-11-22T13:15Z
+18,Fri Nov 27 2015,19:45,GMT/+0000,Hull City,0-2,0-2,Derby County,2015-11-27T19:45Z
+18,Sat Nov 28 2015,12:30,GMT/+0000,Charlton Athletic,0-3,0-2,Ipswich Town,2015-11-28T12:30Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Blackburn Rovers,2-2,2-1,Sheffield Wednesday,2015-11-28T15:00Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Brighton & Hove Albion,2-1,1-1,Birmingham City,2015-11-28T15:00Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Cardiff City,2-2,1-0,Burnley FC,2015-11-28T15:00Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Fulham FC,1-1,0-1,Preston North End,2015-11-28T15:00Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Huddersfield Town,0-2,0-1,Middlesbrough FC,2015-11-28T15:00Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Nottingham Forest,3-1,2-1,Reading FC,2015-11-28T15:00Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Queens Park Rangers,1-0,0-0,Leeds United,2015-11-28T15:00Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Rotherham United,3-0,2-0,Bristol City,2015-11-28T15:00Z
+18,Sat Nov 28 2015,15:00,GMT/+0000,Wolverhampton Wanderers,0-0,0-0,Milton Keynes Dons,2015-11-28T15:00Z
+18,Mon Nov 30 2015,19:45,GMT/+0000,Bolton Wanderers,1-1,0-1,Brentford FC,2015-11-30T19:45Z
+19,Thu Dec 3 2015,20:00,GMT/+0000,Reading FC,0-1,0-0,Queens Park Rangers,2015-12-03T20:00Z
+19,Fri Dec 4 2015,19:45,GMT/+0000,Ipswich Town,0-2,0-0,Middlesbrough FC,2015-12-04T19:45Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Birmingham City,0-2,0-1,Huddersfield Town,2015-12-05T15:00Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Bolton Wanderers,2-3,1-1,Cardiff City,2015-12-05T15:00Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Brentford FC,2-0,1-0,Milton Keynes Dons,2015-12-05T15:00Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Brighton & Hove Albion,3-2,0-2,Charlton Athletic,2015-12-05T15:00Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Bristol City,0-2,0-0,Blackburn Rovers,2015-12-05T15:00Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Burnley FC,0-2,0-0,Preston North End,2015-12-05T15:00Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Leeds United,2-1,2-0,Hull City,2015-12-05T15:00Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Nottingham Forest,3-0,1-0,Fulham FC,2015-12-05T15:00Z
+19,Sat Dec 5 2015,15:00,GMT/+0000,Rotherham United,1-2,1-2,Wolverhampton Wanderers,2015-12-05T15:00Z
+19,Sun Dec 6 2015,13:15,GMT/+0000,Sheffield Wednesday,0-0,0-0,Derby County,2015-12-06T13:15Z
+20,Fri Dec 11 2015,19:45,GMT/+0000,Blackburn Rovers,1-0,1-0,Rotherham United,2015-12-11T19:45Z
+20,Fri Dec 11 2015,19:45,GMT/+0000,Wolverhampton Wanderers,1-1,1-0,Nottingham Forest,2015-12-11T19:45Z
+20,Sat Dec 12 2015,12:30,GMT/+0000,Milton Keynes Dons,0-1,0-1,Ipswich Town,2015-12-12T12:30Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Cardiff City,2-2,2-0,Sheffield Wednesday,2015-12-12T15:00Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Charlton Athletic,0-0,0-0,Leeds United,2015-12-12T15:00Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Derby County,2-2,1-1,Brighton & Hove Albion,2015-12-12T15:00Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Fulham FC,2-2,1-1,Brentford FC,2015-12-12T15:00Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Huddersfield Town,1-2,0-2,Bristol City,2015-12-12T15:00Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Hull City,1-0,1-0,Bolton Wanderers,2015-12-12T15:00Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Preston North End,1-0,0-0,Reading FC,2015-12-12T15:00Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Queens Park Rangers,0-0,0-0,Burnley FC,2015-12-12T15:00Z
+20,Sat Dec 12 2015,15:00,GMT/+0000,Middlesbrough FC,0-0,0-0,Birmingham City,2015-12-12T15:00Z
+21,Mon Dec 14 2015,19:45,GMT/+0000,Blackburn Rovers,0-0,0-0,Nottingham Forest,2015-12-14T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Cardiff City,3-2,2-0,Brentford FC,2015-12-15T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Charlton Athletic,2-2,2-2,Bolton Wanderers,2015-12-15T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Derby County,4-0,1-0,Bristol City,2015-12-15T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Fulham FC,1-2,1-1,Ipswich Town,2015-12-15T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Huddersfield Town,2-0,1-0,Rotherham United,2015-12-15T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Milton Keynes Dons,2-1,1-0,Sheffield Wednesday,2015-12-15T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Middlesbrough FC,1-0,0-0,Burnley FC,2015-12-15T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Preston North End,1-1,1-0,Birmingham City,2015-12-15T19:45Z
+21,Tue Dec 15 2015,19:45,GMT/+0000,Queens Park Rangers,2-2,0-0,Brighton & Hove Albion,2015-12-15T19:45Z
+21,Wed Dec 16 2015,19:45,GMT/+0000,Hull City,2-1,0-1,Reading FC,2015-12-16T19:45Z
+21,Thu Dec 17 2015,19:45,GMT/+0000,Wolverhampton Wanderers,2-3,0-1,Leeds United,2015-12-17T19:45Z
+22,Fri Dec 18 2015,19:45,GMT/+0000,Birmingham City,1-0,1-0,Cardiff City,2015-12-18T19:45Z
+22,Sat Dec 19 2015,12:30,GMT/+0000,Brighton & Hove Albion,0-3,0-2,Middlesbrough FC,2015-12-19T12:30Z
+22,Sat Dec 19 2015,15:00,GMT/+0000,Bolton Wanderers,2-2,0-1,Fulham FC,2015-12-19T15:00Z
+22,Sat Dec 19 2015,15:00,GMT/+0000,Brentford FC,4-2,3-0,Huddersfield Town,2015-12-19T15:00Z
+22,Sat Dec 19 2015,15:00,GMT/+0000,Bristol City,1-1,0-0,Queens Park Rangers,2015-12-19T15:00Z
+22,Sat Dec 19 2015,15:00,GMT/+0000,Burnley FC,4-0,1-0,Charlton Athletic,2015-12-19T15:00Z
+22,Sat Dec 19 2015,15:00,GMT/+0000,Ipswich Town,0-1,0-1,Derby County,2015-12-19T15:00Z
+22,Sat Dec 19 2015,15:00,GMT/+0000,Nottingham Forest,2-1,2-0,Milton Keynes Dons,2015-12-19T15:00Z
+22,Sat Dec 19 2015,15:00,GMT/+0000,Rotherham United,2-0,1-0,Hull City,2015-12-19T15:00Z
+22,Sun Dec 20 2015,14:00,GMT/+0000,Sheffield Wednesday,4-1,2-1,Wolverhampton Wanderers,2015-12-20T14:00Z
+22,Sun Dec 20 2015,15:00,GMT/+0000,Leeds United,1-0,0-0,Preston North End,2015-12-20T15:00Z
+22,Sun Dec 20 2015,15:00,GMT/+0000,Reading FC,1-0,1-0,Blackburn Rovers,2015-12-20T15:00Z
+23,Sat Dec 26 2015,13:00,GMT/+0000,Brentford FC,0-0,0-0,Brighton & Hove Albion,2015-12-26T13:00Z
+23,Sat Dec 26 2015,15:00,GMT/+0000,Bristol City,1-1,1-0,Charlton Athletic,2015-12-26T15:00Z
+23,Sat Dec 26 2015,15:00,GMT/+0000,Derby County,2-0,0-0,Fulham FC,2015-12-26T15:00Z
+23,Sat Dec 26 2015,15:00,GMT/+0000,Huddersfield Town,3-1,1-0,Preston North End,2015-12-26T15:00Z
+23,Sat Dec 26 2015,15:00,GMT/+0000,Hull City,3-0,0-0,Burnley FC,2015-12-26T15:00Z
+23,Sat Dec 26 2015,15:00,GMT/+0000,Ipswich Town,2-1,0-1,Queens Park Rangers,2015-12-26T15:00Z
+23,Sat Dec 26 2015,15:00,GMT/+0000,Milton Keynes Dons,2-1,0-0,Cardiff City,2015-12-26T15:00Z
+23,Sat Dec 26 2015,15:00,GMT/+0000,Rotherham United,4-0,0-0,Bolton Wanderers,2015-12-26T15:00Z
+23,Sat Dec 26 2015,15:00,GMT/+0000,Sheffield Wednesday,3-0,2-0,Birmingham City,2015-12-26T15:00Z
+23,Sat Dec 26 2015,17:15,GMT/+0000,Wolverhampton Wanderers,1-0,1-0,Reading FC,2015-12-26T17:15Z
+23,Sun Dec 27 2015,16:30,GMT/+0000,Nottingham Forest,1-1,1-0,Leeds United,2015-12-27T16:30Z
+24,Mon Dec 28 2015,17:15,GMT/+0000,Middlesbrough FC,1-0,1-0,Sheffield Wednesday,2015-12-28T17:15Z
+24,Mon Dec 28 2015,12:45,GMT/+0000,Bolton Wanderers,1-0,0-0,Blackburn Rovers,2015-12-28T12:45Z
+24,Mon Dec 28 2015,15:00,GMT/+0000,Reading FC,1-2,0-1,Brentford FC,2015-12-28T15:00Z
+24,Mon Dec 28 2015,15:00,GMT/+0000,Burnley FC,4-0,2-0,Bristol City,2015-12-28T15:00Z
+24,Mon Dec 28 2015,15:00,GMT/+0000,Queens Park Rangers,1-1,0-0,Huddersfield Town,2015-12-28T15:00Z
+24,Mon Dec 28 2015,15:00,GMT/+0000,Preston North End,1-0,0-0,Hull City,2015-12-28T15:00Z
+24,Mon Dec 28 2015,15:00,GMT/+0000,Birmingham City,1-0,0-0,Milton Keynes Dons,2015-12-28T15:00Z
+24,Mon Dec 28 2015,15:00,GMT/+0000,Charlton Athletic,0-2,0-0,Wolverhampton Wanderers,2015-12-28T15:00Z
+24,Tue Dec 29 2015,19:45,GMT/+0000,Leeds United,2-2,1-1,Derby County,2015-12-29T19:45Z
+24,Tue Dec 29 2015,19:45,GMT/+0000,Brighton & Hove Albion,0-1,0-1,Ipswich Town,2015-12-29T19:45Z
+24,Tue Dec 29 2015,19:45,GMT/+0000,Cardiff City,1-1,1-1,Nottingham Forest,2015-12-29T19:45Z
+24,Tue Dec 29 2015,19:45,GMT/+0000,Fulham FC,4-1,2-1,Rotherham United,2015-12-29T19:45Z
+25,Fri Jan 1 2016,15:00,GMT/+0000,Brighton & Hove Albion,0-1,0-1,Wolverhampton Wanderers,2016-01-01T15:00Z
+25,Fri Jan 1 2016,17:15,GMT/+0000,Queens Park Rangers,1-2,0-0,Hull City,2016-01-01T17:15Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Bolton Wanderers,0-2,0-0,Huddersfield Town,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Cardiff City,1-0,0-0,Blackburn Rovers,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Birmingham City,2-1,0-0,Brentford FC,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Middlesbrough FC,2-0,0-0,Derby County,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Burnley FC,0-0,0-0,Ipswich Town,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Charlton Athletic,1-1,0-1,Nottingham Forest,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Preston North End,2-1,0-1,Rotherham United,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Reading FC,1-0,0-0,Bristol City,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Leeds United,1-1,1-0,Milton Keynes Dons,2016-01-02T15:00Z
+25,Sat Jan 2 2016,15:00,GMT/+0000,Fulham FC,0-1,0-1,Sheffield Wednesday,2016-01-02T15:00Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Huddersfield Town,5-0,2-0,Charlton Athletic,2016-01-12T19:45Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Nottingham Forest,1-1,1-1,Birmingham City,2016-01-12T19:45Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Rotherham United,2-0,1-0,Brighton & Hove Albion,2016-01-12T19:45Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Milton Keynes Dons,0-5,0-1,Burnley FC,2016-01-12T19:45Z
+26,Tue Jan 12 2016,20:00,GMT/+0000,Wolverhampton Wanderers,3-2,2-1,Fulham FC,2016-01-12T20:00Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Ipswich Town,2-1,0-1,Leeds United,2016-01-12T19:45Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Brentford FC,0-1,0-0,Middlesbrough FC,2016-01-12T19:45Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Bristol City,1-2,0-0,Preston North End,2016-01-12T19:45Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Blackburn Rovers,1-1,0-1,Queens Park Rangers,2016-01-12T19:45Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Sheffield Wednesday,3-2,1-1,Bolton Wanderers,2016-01-12T19:45Z
+26,Tue Jan 12 2016,19:45,GMT/+0000,Derby County,1-1,1-1,Reading FC,2016-01-12T19:45Z
+26,Wed Jan 13 2016,19:45,GMT/+0000,Hull City,2-0,1-0,Cardiff City,2016-01-13T19:45Z
+27,Fri Jan 15 2016,19:45,GMT/+0000,Brentford FC,1-3,0-3,Burnley FC,2016-01-15T19:45Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Hull City,6-0,4-0,Charlton Athletic,2016-01-16T15:00Z
+27,Sat Jan 16 2016,12:30,GMT/+0000,Sheffield Wednesday,2-0,0-0,Leeds United,2016-01-16T12:30Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Derby County,0-3,0-0,Birmingham City,2016-01-16T15:00Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Nottingham Forest,3-0,2-0,Bolton Wanderers,2016-01-16T15:00Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Blackburn Rovers,0-1,0-1,Brighton & Hove Albion,2016-01-16T15:00Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Wolverhampton Wanderers,1-3,1-2,Cardiff City,2016-01-16T15:00Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Milton Keynes Dons,1-0,0-0,Reading FC,2016-01-16T15:00Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Huddersfield Town,1-1,1-1,Fulham FC,2016-01-16T15:00Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Bristol City,1-0,0-0,Middlesbrough FC,2016-01-16T15:00Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Ipswich Town,1-1,1-1,Preston North End,2016-01-16T15:00Z
+27,Sat Jan 16 2016,15:00,GMT/+0000,Rotherham United,0-3,0-0,Queens Park Rangers,2016-01-16T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Fulham FC,0-1,0-0,Hull City,2016-01-23T15:00Z
+28,Sat Jan 23 2016,12:30,GMT/+0000,Queens Park Rangers,1-1,1-0,Wolverhampton Wanderers,2016-01-23T12:30Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Leeds United,1-0,0-0,Bristol City,2016-01-23T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Brighton & Hove Albion,2-1,1-1,Huddersfield Town,2016-01-23T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Cardiff City,2-2,1-1,Rotherham United,2016-01-23T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Bolton Wanderers,3-1,2-0,Milton Keynes Dons,2016-01-23T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Reading FC,1-1,0-1,Sheffield Wednesday,2016-01-23T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Charlton Athletic,1-1,1-1,Blackburn Rovers,2016-01-23T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Preston North End,1-3,1-2,Brentford FC,2016-01-23T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Birmingham City,3-0,1-0,Ipswich Town,2016-01-23T15:00Z
+28,Sat Jan 23 2016,15:00,GMT/+0000,Middlesbrough FC,0-1,0-0,Nottingham Forest,2016-01-23T15:00Z
+28,Mon Jan 25 2016,19:45,GMT/+0000,Burnley FC,4-1,1-1,Derby County,2016-01-25T19:45Z
+29,Tue Jan 26 2016,19:45,GMT/+0000,Brentford FC,1-1,1-0,Leeds United,2016-01-26T19:45Z
+29,Tue Jan 26 2016,19:45,GMT/+0000,Nottingham Forest,0-0,0-0,Queens Park Rangers,2016-01-26T19:45Z
+29,Sat Jan 30 2016,15:00,GMT/+0000,Bristol City,0-0,0-0,Birmingham City,2016-01-30T15:00Z
+29,Sat Jan 30 2016,15:00,GMT/+0000,Huddersfield Town,2-3,1-1,Cardiff City,2016-01-30T15:00Z
+29,Sat Jan 30 2016,15:00,GMT/+0000,Rotherham United,1-4,1-2,Charlton Athletic,2016-01-30T15:00Z
+29,Tue Feb 2 2016,19:45,GMT/+0000,Derby County,0-0,0-0,Preston North End,2016-02-02T19:45Z
+29,Tue Feb 2 2016,19:45,GMT/+0000,Wolverhampton Wanderers,2-2,1-0,Bolton Wanderers,2016-02-02T19:45Z
+29,Tue Feb 2 2016,19:45,GMT/+0000,Sheffield Wednesday,1-1,0-1,Burnley FC,2016-02-02T19:45Z
+29,Tue Feb 2 2016,19:45,GMT/+0000,Ipswich Town,2-1,0-0,Reading FC,2016-02-02T19:45Z
+30,Fri Feb 5 2016,19:45,GMT/+0000,Brighton & Hove Albion,3-0,2-0,Brentford FC,2016-02-05T19:45Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Leeds United,0-1,0-0,Nottingham Forest,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Cardiff City,0-0,0-0,Milton Keynes Dons,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Birmingham City,1-2,1-0,Sheffield Wednesday,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Bolton Wanderers,2-1,1-1,Rotherham United,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Middlesbrough FC,1-1,0-0,Blackburn Rovers,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Charlton Athletic,0-1,0-1,Bristol City,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Fulham FC,1-1,1-1,Derby County,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Preston North End,2-1,0-0,Huddersfield Town,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Burnley FC,1-0,0-0,Hull City,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Queens Park Rangers,1-0,0-0,Ipswich Town,2016-02-06T15:00Z
+30,Sat Feb 6 2016,15:00,GMT/+0000,Reading FC,0-0,0-0,Wolverhampton Wanderers,2016-02-06T15:00Z
+29,Tue Feb 9 2016,19:45,GMT/+0000,Milton Keynes Dons,1-1,1-0,Middlesbrough FC,2016-02-09T19:45Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Wolverhampton Wanderers,1-2,0-1,Preston North End,2016-02-13T15:00Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Derby County,0-1,0-0,Milton Keynes Dons,2016-02-13T15:00Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Bristol City,2-1,2-0,Ipswich Town,2016-02-13T15:00Z
+31,Sat Feb 13 2016,12:30,GMT/+0000,Queens Park Rangers,1-3,0-3,Fulham FC,2016-02-13T12:30Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Rotherham United,0-0,0-0,Birmingham City,2016-02-13T15:00Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Brighton & Hove Albion,3-2,2-1,Bolton Wanderers,2016-02-13T15:00Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Sheffield Wednesday,4-0,3-0,Brentford FC,2016-02-13T15:00Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Reading FC,0-0,0-0,Burnley FC,2016-02-13T15:00Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Charlton Athletic,0-0,0-0,Cardiff City,2016-02-13T15:00Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Nottingham Forest,0-2,0-1,Huddersfield Town,2016-02-13T15:00Z
+31,Sat Feb 13 2016,15:00,GMT/+0000,Blackburn Rovers,0-2,0-0,Hull City,2016-02-13T15:00Z
+31,Mon Feb 15 2016,19:45,GMT/+0000,Leeds United,0-0,0-0,Middlesbrough FC,2016-02-15T19:45Z
+29,Tue Feb 16 2016,19:45,GMT/+0000,Hull City,0-0,0-0,Brighton & Hove Albion,2016-02-16T19:45Z
+29,Tue Feb 16 2016,19:45,GMT/+0000,Blackburn Rovers,3-0,1-0,Fulham FC,2016-02-16T19:45Z
+32,Sat Feb 20 2016,15:00,GMT/+0000,Brentford FC,1-3,0-0,Derby County,2016-02-20T15:00Z
+32,Sat Feb 20 2016,12:30,GMT/+0000,Cardiff City,4-1,3-0,Brighton & Hove Albion,2016-02-20T12:30Z
+32,Sat Feb 20 2016,15:00,GMT/+0000,Milton Keynes Dons,0-2,0-1,Bristol City,2016-02-20T15:00Z
+32,Sat Feb 20 2016,15:00,GMT/+0000,Fulham FC,3-0,1-0,Charlton Athletic,2016-02-20T15:00Z
+32,Sat Feb 20 2016,15:00,GMT/+0000,Huddersfield Town,1-0,0-0,Wolverhampton Wanderers,2016-02-20T15:00Z
+32,Sat Feb 20 2016,15:00,GMT/+0000,Bolton Wanderers,1-1,0-0,Queens Park Rangers,2016-02-20T15:00Z
+32,Sat Feb 20 2016,15:00,GMT/+0000,Burnley FC,2-0,1-0,Rotherham United,2016-02-20T15:00Z
+32,Sat Feb 20 2016,15:00,GMT/+0000,Preston North End,1-0,0-0,Sheffield Wednesday,2016-02-20T15:00Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Leeds United,1-1,1-1,Fulham FC,2016-02-23T19:45Z
+33,Tue Feb 23 2016,20:00,GMT/+0000,Reading FC,1-0,0-0,Rotherham United,2016-02-23T20:00Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Birmingham City,1-0,1-0,Bolton Wanderers,2016-02-23T19:45Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Brentford FC,3-0,1-0,Wolverhampton Wanderers,2016-02-23T19:45Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Sheffield Wednesday,1-1,0-0,Queens Park Rangers,2016-02-23T19:45Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Bristol City,0-4,0-2,Brighton & Hove Albion,2016-02-23T19:45Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Middlesbrough FC,3-1,1-1,Cardiff City,2016-02-23T19:45Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Preston North End,2-1,1-1,Charlton Athletic,2016-02-23T19:45Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Burnley FC,1-0,0-0,Nottingham Forest,2016-02-23T19:45Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Milton Keynes Dons,1-1,1-0,Huddersfield Town,2016-02-23T19:45Z
+33,Tue Feb 23 2016,19:45,GMT/+0000,Ipswich Town,0-1,0-0,Hull City,2016-02-23T19:45Z
+33,Wed Feb 24 2016,19:45,GMT/+0000,Derby County,1-0,1-0,Blackburn Rovers,2016-02-24T19:45Z
+34,Fri Feb 26 2016,19:45,GMT/+0000,Hull City,0-0,0-0,Sheffield Wednesday,2016-02-26T19:45Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Charlton Athletic,3-4,1-3,Reading FC,2016-02-27T15:00Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Huddersfield Town,0-1,0-1,Ipswich Town,2016-02-27T15:00Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Cardiff City,2-1,1-0,Preston North End,2016-02-27T15:00Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Fulham FC,0-2,0-2,Middlesbrough FC,2016-02-27T15:00Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Blackburn Rovers,3-2,0-1,Milton Keynes Dons,2016-02-27T15:00Z
+34,Sat Feb 27 2016,12:30,GMT/+0000,Wolverhampton Wanderers,2-1,1-1,Derby County,2016-02-27T12:30Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Queens Park Rangers,2-0,2-0,Birmingham City,2016-02-27T15:00Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Rotherham United,2-1,1-1,Brentford FC,2016-02-27T15:00Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Nottingham Forest,1-2,1-1,Bristol City,2016-02-27T15:00Z
+34,Sat Feb 27 2016,15:00,GMT/+0000,Bolton Wanderers,1-2,0-0,Burnley FC,2016-02-27T15:00Z
+34,Mon Feb 29 2016,19:45,GMT/+0000,Brighton & Hove Albion,4-0,4-0,Leeds United,2016-02-29T19:45Z
+23,Tue Mar 1 2016,19:45,GMT/+0000,Blackburn Rovers,2-1,0-0,Middlesbrough FC,2016-03-01T19:45Z
+35,Thu Mar 3 2016,19:45,GMT/+0000,Birmingham City,1-0,1-0,Hull City,2016-03-03T19:45Z
+35,Fri Mar 4 2016,19:45,GMT/+0000,Middlesbrough FC,2-1,1-0,Wolverhampton Wanderers,2016-03-04T19:45Z
+35,Sat Mar 5 2016,15:00,GMT/+0000,Sheffield Wednesday,0-1,0-1,Rotherham United,2016-03-05T15:00Z
+35,Sat Mar 5 2016,15:00,GMT/+0000,Milton Keynes Dons,2-0,0-0,Queens Park Rangers,2016-03-05T15:00Z
+35,Sat Mar 5 2016,15:00,GMT/+0000,Ipswich Town,1-0,0-0,Nottingham Forest,2016-03-05T15:00Z
+35,Sat Mar 5 2016,15:00,GMT/+0000,Derby County,2-0,1-0,Huddersfield Town,2016-03-05T15:00Z
+35,Sat Mar 5 2016,12:00,GMT/+0000,Bristol City,0-2,0-1,Cardiff City,2016-03-05T12:00Z
+35,Sat Mar 5 2016,12:30,GMT/+0000,Burnley FC,1-0,1-0,Blackburn Rovers,2016-03-05T12:30Z
+35,Sat Mar 5 2016,15:00,GMT/+0000,Leeds United,2-1,1-0,Bolton Wanderers,2016-03-05T15:00Z
+35,Sat Mar 5 2016,15:00,GMT/+0000,Preston North End,0-0,0-0,Brighton & Hove Albion,2016-03-05T15:00Z
+35,Sat Mar 5 2016,15:00,GMT/+0000,Brentford FC,1-2,1-1,Charlton Athletic,2016-03-05T15:00Z
+35,Sat Mar 5 2016,15:00,GMT/+0000,Reading FC,2-2,2-1,Fulham FC,2016-03-05T15:00Z
+36,Tue Mar 8 2016,20:00,GMT/+0000,Brighton & Hove Albion,0-0,0-0,Sheffield Wednesday,2016-03-08T20:00Z
+36,Tue Mar 8 2016,20:00,GMT/+0000,Bolton Wanderers,2-2,0-1,Ipswich Town,2016-03-08T20:00Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Huddersfield Town,3-1,0-0,Reading FC,2016-03-08T19:45Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Nottingham Forest,1-0,1-0,Preston North End,2016-03-08T19:45Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Blackburn Rovers,2-0,2-0,Birmingham City,2016-03-08T19:45Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Wolverhampton Wanderers,2-1,0-0,Bristol City,2016-03-08T19:45Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Fulham FC,2-3,2-1,Burnley FC,2016-03-08T19:45Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Queens Park Rangers,2-0,1-0,Derby County,2016-03-08T19:45Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Cardiff City,0-2,0-1,Leeds United,2016-03-08T19:45Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Charlton Athletic,0-0,0-0,Milton Keynes Dons,2016-03-08T19:45Z
+36,Tue Mar 8 2016,19:45,GMT/+0000,Rotherham United,1-0,0-0,Middlesbrough FC,2016-03-08T19:45Z
+37,Sat Mar 12 2016,15:00,GMT/+0000,Fulham FC,1-2,1-0,Bristol City,2016-03-12T15:00Z
+37,Sat Mar 12 2016,15:00,GMT/+0000,Nottingham Forest,0-3,0-1,Sheffield Wednesday,2016-03-12T15:00Z
+37,Sat Mar 12 2016,15:00,GMT/+0000,Bolton Wanderers,1-2,1-0,Preston North End,2016-03-12T15:00Z
+37,Sat Mar 12 2016,15:00,GMT/+0000,Hull City,1-1,0-0,Milton Keynes Dons,2016-03-12T15:00Z
+37,Sat Mar 12 2016,15:00,GMT/+0000,Rotherham United,3-3,0-0,Derby County,2016-03-12T15:00Z
+37,Sat Mar 12 2016,12:30,GMT/+0000,Blackburn Rovers,1-2,0-1,Leeds United,2016-03-12T12:30Z
+37,Sat Mar 12 2016,15:00,GMT/+0000,Queens Park Rangers,3-0,1-0,Brentford FC,2016-03-12T15:00Z
+37,Sat Mar 12 2016,15:00,GMT/+0000,Huddersfield Town,1-3,1-3,Burnley FC,2016-03-12T15:00Z
+37,Sat Mar 12 2016,15:00,GMT/+0000,Cardiff City,1-0,1-0,Ipswich Town,2016-03-12T15:00Z
+37,Sun Mar 13 2016,15:30,GMT/+0000,Charlton Athletic,2-0,0-0,Middlesbrough FC,2016-03-13T15:30Z
+37,Sun Mar 13 2016,13:15,GMT/+0000,Wolverhampton Wanderers,0-0,0-0,Birmingham City,2016-03-13T13:15Z
+37,Tue Mar 15 2016,19:45,GMT/+0000,Brighton & Hove Albion,1-0,1-0,Reading FC,2016-03-15T19:45Z
+32,Tue Mar 15 2016,19:45,GMT/+0000,Hull City,1-1,0-1,Nottingham Forest,2016-03-15T19:45Z
+32,Tue Mar 15 2016,19:45,GMT/+0000,Ipswich Town,2-0,0-0,Blackburn Rovers,2016-03-15T19:45Z
+38,Fri Mar 18 2016,19:45,GMT/+0000,Middlesbrough FC,1-0,0-0,Hull City,2016-03-18T19:45Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Burnley FC,1-1,0-0,Wolverhampton Wanderers,2016-03-19T15:00Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Preston North End,1-1,0-1,Queens Park Rangers,2016-03-19T15:00Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Ipswich Town,0-1,0-1,Rotherham United,2016-03-19T15:00Z
+38,Sat Mar 19 2016,12:30,GMT/+0000,Derby County,1-0,0-0,Nottingham Forest,2016-03-19T12:30Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Brentford FC,0-1,0-0,Blackburn Rovers,2016-03-19T15:00Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Bristol City,6-0,2-0,Bolton Wanderers,2016-03-19T15:00Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Milton Keynes Dons,1-2,0-0,Brighton & Hove Albion,2016-03-19T15:00Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Reading FC,1-1,1-0,Cardiff City,2016-03-19T15:00Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Sheffield Wednesday,3-0,0-0,Charlton Athletic,2016-03-19T15:00Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Birmingham City,1-1,0-1,Fulham FC,2016-03-19T15:00Z
+38,Sat Mar 19 2016,15:00,GMT/+0000,Leeds United,1-4,1-1,Huddersfield Town,2016-03-19T15:00Z
+39,Fri Apr 1 2016,19:45,BST/+0100,Queens Park Rangers,2-3,1-1,Middlesbrough FC,2016-04-01T18:45Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Rotherham United,2-1,1-0,Leeds United,2016-04-02T14:00Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Fulham FC,2-1,0-0,Milton Keynes Dons,2016-04-02T14:00Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Bolton Wanderers,0-1,0-0,Reading FC,2016-04-02T14:00Z
+39,Sat Apr 2 2016,12:30,BST/+0100,Brighton & Hove Albion,2-2,2-1,Burnley FC,2016-04-02T11:30Z
+39,Sat Apr 2 2016,12:30,BST/+0100,Blackburn Rovers,1-2,1-2,Preston North End,2016-04-02T11:30Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Charlton Athletic,2-1,1-1,Birmingham City,2016-04-02T14:00Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Nottingham Forest,0-3,0-0,Brentford FC,2016-04-02T14:00Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Hull City,4-0,2-0,Bristol City,2016-04-02T14:00Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Cardiff City,2-1,1-0,Derby County,2016-04-02T14:00Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Wolverhampton Wanderers,0-0,0-0,Ipswich Town,2016-04-02T14:00Z
+39,Sat Apr 2 2016,15:00,BST/+0100,Huddersfield Town,0-1,0-0,Sheffield Wednesday,2016-04-02T14:00Z
+40,Tue Apr 5 2016,20:00,BST/+0100,Reading FC,2-1,0-1,Nottingham Forest,2016-04-05T19:00Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Milton Keynes Dons,1-2,1-0,Wolverhampton Wanderers,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Bristol City,1-1,0-1,Rotherham United,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Sheffield Wednesday,2-1,0-0,Blackburn Rovers,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Brentford FC,3-1,3-0,Bolton Wanderers,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Birmingham City,1-2,1-1,Brighton & Hove Albion,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Burnley FC,0-0,0-0,Cardiff City,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Ipswich Town,0-0,0-0,Charlton Athletic,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Preston North End,1-2,0-1,Fulham FC,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Middlesbrough FC,3-0,2-0,Huddersfield Town,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Derby County,4-0,2-0,Hull City,2016-04-05T18:45Z
+40,Tue Apr 5 2016,19:45,BST/+0100,Leeds United,1-1,0-0,Queens Park Rangers,2016-04-05T18:45Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Middlesbrough FC,1-0,1-0,Preston North End,2016-04-09T14:00Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Ipswich Town,1-3,0-1,Brentford FC,2016-04-09T14:00Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Milton Keynes Dons,0-4,0-2,Rotherham United,2016-04-09T14:00Z
+41,Sat Apr 9 2016,12:30,BST/+0100,Burnley FC,1-0,1-0,Leeds United,2016-04-09T11:30Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Reading FC,0-2,0-2,Birmingham City,2016-04-09T14:00Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Wolverhampton Wanderers,0-0,0-0,Blackburn Rovers,2016-04-09T14:00Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Derby County,4-1,2-0,Bolton Wanderers,2016-04-09T14:00Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Huddersfield Town,2-2,1-0,Hull City,2016-04-09T14:00Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Fulham FC,2-1,0-1,Cardiff City,2016-04-09T14:00Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Queens Park Rangers,2-1,1-0,Charlton Athletic,2016-04-09T14:00Z
+41,Sat Apr 9 2016,15:00,BST/+0100,Bristol City,4-1,3-0,Sheffield Wednesday,2016-04-09T14:00Z
+41,Mon Apr 11 2016,19:45,BST/+0100,Nottingham Forest,1-2,0-1,Brighton & Hove Albion,2016-04-11T18:45Z
+32,Tue Apr 12 2016,19:45,BST/+0100,Birmingham City,1-2,0-1,Leeds United,2016-04-12T18:45Z
+32,Tue Apr 12 2016,19:45,BST/+0100,Middlesbrough FC,2-1,1-0,Reading FC,2016-04-12T18:45Z
+42,Fri Apr 15 2016,19:45,BST/+0100,Brighton & Hove Albion,5-0,2-0,Fulham FC,2016-04-15T18:45Z
+42,Fri Apr 15 2016,19:45,BST/+0100,Hull City,2-1,1-1,Wolverhampton Wanderers,2016-04-15T18:45Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Charlton Athletic,0-1,0-0,Derby County,2016-04-16T14:00Z
+42,Sat Apr 16 2016,12:30,BST/+0100,Bolton Wanderers,1-2,0-0,Middlesbrough FC,2016-04-16T11:30Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Brentford FC,1-1,0-1,Bristol City,2016-04-16T14:00Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Birmingham City,1-2,0-1,Burnley FC,2016-04-16T14:00Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Leeds United,3-2,0-1,Reading FC,2016-04-16T14:00Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Blackburn Rovers,0-2,0-1,Huddersfield Town,2016-04-16T14:00Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Sheffield Wednesday,1-1,1-0,Ipswich Town,2016-04-16T14:00Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Preston North End,1-1,1-0,Milton Keynes Dons,2016-04-16T14:00Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Rotherham United,0-0,0-0,Nottingham Forest,2016-04-16T14:00Z
+42,Sat Apr 16 2016,15:00,BST/+0100,Cardiff City,0-0,0-0,Queens Park Rangers,2016-04-16T14:00Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Sheffield Wednesday,0-0,0-0,Milton Keynes Dons,2016-04-19T18:45Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Nottingham Forest,1-1,1-1,Blackburn Rovers,2016-04-19T18:45Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Brentford FC,2-1,0-0,Cardiff City,2016-04-19T18:45Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Bristol City,2-3,2-1,Derby County,2016-04-19T18:45Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Ipswich Town,1-1,0-0,Fulham FC,2016-04-19T18:45Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Rotherham United,1-1,1-1,Huddersfield Town,2016-04-19T18:45Z
+43,Tue Apr 19 2016,20:00,BST/+0100,Reading FC,1-2,1-1,Hull City,2016-04-19T19:00Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Burnley FC,1-1,0-0,Middlesbrough FC,2016-04-19T18:45Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Birmingham City,2-2,1-0,Preston North End,2016-04-19T18:45Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Brighton & Hove Albion,4-0,1-0,Queens Park Rangers,2016-04-19T18:45Z
+43,Tue Apr 19 2016,19:45,BST/+0100,Leeds United,2-1,0-0,Wolverhampton Wanderers,2016-04-19T18:45Z
+43,Tue Apr 19 2016,20:00,BST/+0100,Bolton Wanderers,0-0,0-0,Charlton Athletic,2016-04-19T19:00Z
+44,Fri Apr 22 2016,19:45,BST/+0100,Preston North End,0-1,0-1,Burnley FC,2016-04-22T18:45Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Charlton Athletic,1-3,0-1,Brighton & Hove Albion,2016-04-23T14:00Z
+44,Sat Apr 23 2016,12:30,BST/+0100,Derby County,1-1,0-0,Sheffield Wednesday,2016-04-23T11:30Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Huddersfield Town,1-1,0-0,Birmingham City,2016-04-23T14:00Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Cardiff City,2-1,0-1,Bolton Wanderers,2016-04-23T14:00Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Milton Keynes Dons,1-4,1-1,Brentford FC,2016-04-23T14:00Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Queens Park Rangers,1-1,1-1,Reading FC,2016-04-23T14:00Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Blackburn Rovers,2-2,1-0,Bristol City,2016-04-23T14:00Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Middlesbrough FC,0-0,0-0,Ipswich Town,2016-04-23T14:00Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Hull City,2-2,2-1,Leeds United,2016-04-23T14:00Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Fulham FC,1-3,0-2,Nottingham Forest,2016-04-23T14:00Z
+44,Sat Apr 23 2016,15:00,BST/+0100,Wolverhampton Wanderers,0-0,0-0,Rotherham United,2016-04-23T14:00Z
+36,Tue Apr 26 2016,19:45,BST/+0100,Hull City,2-0,2-0,Brentford FC,2016-04-26T18:45Z
+45,Fri Apr 29 2016,19:45,BST/+0100,Birmingham City,2-2,1-1,Middlesbrough FC,2016-04-29T18:45Z
+45,Sat Apr 30 2016,12:30,BST/+0100,Bolton Wanderers,1-0,0-0,Hull City,2016-04-30T11:30Z
+45,Sat Apr 30 2016,15:00,BST/+0100,Rotherham United,0-1,0-1,Blackburn Rovers,2016-04-30T14:00Z
+45,Sat Apr 30 2016,15:00,BST/+0100,Sheffield Wednesday,3-0,0-0,Cardiff City,2016-04-30T14:00Z
+45,Sat Apr 30 2016,15:00,BST/+0100,Leeds United,1-2,0-1,Charlton Athletic,2016-04-30T14:00Z
+45,Sat Apr 30 2016,15:00,BST/+0100,Brentford FC,3-0,3-0,Fulham FC,2016-04-30T14:00Z
+45,Sat Apr 30 2016,15:00,BST/+0100,Bristol City,4-0,1-0,Huddersfield Town,2016-04-30T14:00Z
+45,Sat Apr 30 2016,15:00,BST/+0100,Ipswich Town,3-2,1-1,Milton Keynes Dons,2016-04-30T14:00Z
+45,Sat Apr 30 2016,15:00,BST/+0100,Reading FC,1-2,0-0,Preston North End,2016-04-30T14:00Z
+45,Sat Apr 30 2016,15:00,BST/+0100,Nottingham Forest,1-1,0-0,Wolverhampton Wanderers,2016-04-30T14:00Z
+45,Mon May 2 2016,16:45,BST/+0100,Burnley FC,1-0,0-0,Queens Park Rangers,2016-05-02T15:45Z
+45,Mon May 2 2016,14:30,BST/+0100,Brighton & Hove Albion,1-1,0-0,Derby County,2016-05-02T13:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Cardiff City,1-1,1-1,Birmingham City,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Fulham FC,1-0,0-0,Bolton Wanderers,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Huddersfield Town,1-5,0-1,Brentford FC,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Middlesbrough FC,1-1,1-0,Brighton & Hove Albion,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Queens Park Rangers,1-0,0-0,Bristol City,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Charlton Athletic,0-3,0-1,Burnley FC,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Derby County,0-1,0-1,Ipswich Town,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Preston North End,1-1,0-0,Leeds United,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Milton Keynes Dons,1-2,1-1,Nottingham Forest,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Blackburn Rovers,3-1,2-1,Reading FC,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Hull City,5-1,4-1,Rotherham United,2016-05-07T11:30Z
+46,Sat May 7 2016,12:30,BST/+0100,Wolverhampton Wanderers,2-1,2-0,Sheffield Wednesday,2016-05-07T11:30Z

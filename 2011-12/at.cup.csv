@@ -1,64 +1,64 @@
-Round,Date,Time,Team 1,FT,HT,Team 2,ET,P
-1. Runde,Fri Aug 5 2011,18:00,Young Violets,4-0,2-0,First Vienna FC,,
-1. Runde,Fri Aug 5 2011,18:00,Rapid Wien II,1-0,0-0,SC Wiener Neustadt,,
-1. Runde,Fri Aug 5 2011,18:30,FC Dornbirn,4-0,1-0,SV Stegersbach,,
-1. Runde,Fri Aug 5 2011,19:00,ASC Götzendorf,3-2,2-1,SKN St. Pölten,,
-1. Runde,Fri Aug 5 2011,19:00,ATSV Wolfsberg,1-2,1-0,WAC/St. Andrä,,
-1. Runde,Fri Aug 5 2011,19:00,Post SV Wien,0-3,0-2,Kapfenberger SV,,
-1. Runde,Fri Aug 5 2011,19:00,Sturm Graz II,2-2,0-1,LASK Linz,2-5,
-1. Runde,Fri Aug 5 2011,19:00,DSV Leoben,2-3,0-2,FC Lustenau,,
-1. Runde,Fri Aug 5 2011,19:00,SC Kundl,0-3,0-0,TSV Hartberg,,
-1. Runde,Fri Aug 5 2011,19:00,ASKÖ Donau Linz,0-3,0-0,SV Grödig,,
-1. Runde,Fri Aug 5 2011,19:00,USV Allerheiligen,1-0,0-0,Union Vöcklamarkt,,
-1. Runde,Fri Aug 5 2011,19:30,Wiener Sportklub,1-2,0-0,ASK Bad Vöslau,,
-1. Runde,Fri Aug 5 2011,20:00,SKU Amstetten,4-1,3-0,SC Schwaz,,
-1. Runde,Sat Aug 6 2011,16:00,WSG Wattens,1-1,1-0,SV St. Margarethen,2-2,3-5
-1. Runde,Sat Aug 6 2011,17:00,FC Hellas Kagran,0-4,0-2,FC Wacker Innsbruck,,
-1. Runde,Sat Aug 6 2011,17:00,Union Innsbruck,3-2,1-1,SV Grieskirchen,,
-1. Runde,Sat Aug 6 2011,17:00,SC/ESV Parndorf,3-0,1-0,Austria Salzburg,,
-1. Runde,Sat Aug 6 2011,17:00,SAK Klagenfurt,3-1,2-1,SC Sollenau,,
-1. Runde,Sat Aug 6 2011,17:00,SC Weiz,5-1,0-1,TSV Neumarkt,,
-1. Runde,Sat Aug 6 2011,17:30,SC Bregenz,0-2,0-1,Austria Lustenau,,
-1. Runde,Sat Aug 6 2011,18:00,Vorwärts Steyr,1-6,0-3,FC Admira Wacker,,
-1. Runde,Sat Aug 6 2011,18:00,Union St. Florian,2-0,0-0,SCR Altach,,
-1. Runde,Sat Aug 6 2011,18:00,Kapfenberger SV II,1-3,0-2,SV Mattersburg,,
-1. Runde,Sat Aug 6 2011,18:00,RB Salzburg II,5-0,1-0,SC Brunn am Gebirge,,
-1. Runde,Sat Aug 6 2011,18:00,SV Grödig II,0-4,0-2,Sturm Graz,,
-1. Runde,Sat Aug 6 2011,19:00,ASKÖ Stinatz,1-3,1-1,FC Blau Weiß Linz,,
-1. Runde,Sat Aug 6 2011,19:00,FC Juniors OÖ,0-7,0-3,Rapid Wien,,
-1. Runde,Sun Aug 7 2011,10:30,SVG Reichenau,0-0,0-0,SK Austria Klagenfurt,0-0,4-1
-1. Runde,Sun Aug 7 2011,17:00,ASK Baumgarten,0-3,0-2,RB Salzburg,,
-1. Runde,Sun Aug 7 2011,18:00,FC Admira Wacker II,1-3,1-1,Austria Wien,,
-1. Runde,Sun Aug 7 2011,18:00,FC Gratkorn,0-3,0-2,SV Ried,,
-1. Runde,Sun Aug 7 2011,19:00,Villacher SV,4-2,2-1,SC Retz,,
-2. Runde,Tue Sep 20 2011,16:30,Union Innsbruck,0-7,0-3,Austria Lustenau,,
-2. Runde,Tue Sep 20 2011,18:30,Rapid Wien II,4-2,2-0,WAC/St. Andrä,,
-2. Runde,Tue Sep 20 2011,18:30,FC Dornbirn,0-2,0-1,SV Grödig,,
-2. Runde,Tue Sep 20 2011,19:00,Union St. Florian,0-2,0-1,FC Blau Weiß Linz,,
-2. Runde,Tue Sep 20 2011,19:00,SC/ESV Parndorf,0-1,0-0,FC Admira Wacker,,
-2. Runde,Tue Sep 20 2011,19:00,Young Violets,0-5,0-2,LASK Linz,,
-2. Runde,Tue Sep 20 2011,19:30,ASC Götzendorf,2-3,1-1,SV Ried,,
-2. Runde,Tue Sep 20 2011,19:30,Villacher SV,1-1,0-1,TSV Hartberg,1-2,
-2. Runde,Tue Sep 20 2011,19:30,SKU Amstetten,2-2,1-1,FC Lustenau,2-4,
-2. Runde,Wed Sep 21 2011,16:00,ASK Bad Vöslau,1-4,0-3,Rapid Wien,,
-2. Runde,Wed Sep 21 2011,16:15,SAK Klagenfurt,0-4,0-1,RB Salzburg,,
-2. Runde,Wed Sep 21 2011,16:30,SVG Reichenau,1-1,1-0,Kapfenberger SV,2-1,
-2. Runde,Wed Sep 21 2011,19:00,SC Weiz,0-4,0-1,Sturm Graz,,
-2. Runde,Wed Sep 21 2011,19:00,RB Salzburg II,1-1,1-0,SV Mattersburg,1-1,5-4
-2. Runde,Wed Sep 21 2011,19:00,USV Allerheiligen,1-3,1-1,Austria Wien,,
-2. Runde,Wed Sep 21 2011,19:30,SV St. Margarethen,0-3,0-0,FC Wacker Innsbruck,,
-Achtelfinale,Tue Oct 25 2011,18:30,Austria Lustenau,4-1,2-1,FC Lustenau,,
-Achtelfinale,Tue Oct 25 2011,19:00,FC Wacker Innsbruck,0-1,0-1,SV Grödig,,
-Achtelfinale,Tue Oct 25 2011,19:00,RB Salzburg II,3-1,2-1,FC Blau Weiß Linz,,
-Achtelfinale,Tue Oct 25 2011,19:00,Rapid Wien II,0-2,0-0,TSV Hartberg,,
-Achtelfinale,Wed Oct 26 2011,10:30,SVG Reichenau,0-2,0-0,Austria Wien,,
-Achtelfinale,Wed Oct 26 2011,16:00,Rapid Wien,1-1,1-1,SV Ried,1-2,
-Achtelfinale,Wed Oct 26 2011,16:00,RB Salzburg,2-1,0-0,LASK Linz,,
-Achtelfinale,Wed Oct 26 2011,18:00,Sturm Graz,3-1,2-1,FC Admira Wacker,,
-Viertelfinale,Tue Apr 10 2012,18:00,SV Grödig,2-3,2-1,SV Ried,,
-Viertelfinale,Wed Apr 11 2012,18:00,Austria Lustenau,1-2,0-2,Austria Wien,,
-Viertelfinale,Wed Apr 11 2012,19:00,Sturm Graz,2-2,1-2,TSV Hartberg,2-4,
-Viertelfinale,Wed Apr 11 2012,19:00,RB Salzburg,4-1,1-1,RB Salzburg II,,
-Halbfinale,Tue May 1 2012,18:00,TSV Hartberg,0-1,0-0,RB Salzburg,,
-Halbfinale,Wed May 2 2012,20:30,SV Ried,2-0,1-0,Austria Wien,,
-Finale,Sun May 20 2012,16:00,RB Salzburg,3-0,2-0,SV Ried,,
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,P,UTC
+Round 1,Fri Aug 5 2011,18:00,CEST/+0200,Austria Wien II,4-0,2-0,First Vienna FC,,,2011-08-05T16:00Z
+Round 1,Fri Aug 5 2011,18:00,CEST/+0200,Rapid Wien II,1-0,0-0,1. Wiener Neustädter SC,,,2011-08-05T16:00Z
+Round 1,Fri Aug 5 2011,18:30,CEST/+0200,FC Dornbirn,4-0,1-0,SV Stegersbach,,,2011-08-05T16:30Z
+Round 1,Fri Aug 5 2011,19:00,CEST/+0200,ASC Götzendorf,3-2,2-1,SKN St. Pölten,,,2011-08-05T17:00Z
+Round 1,Fri Aug 5 2011,19:00,CEST/+0200,ATSV Wolfsberg,1-2,1-0,WAC/St. Andrä,,,2011-08-05T17:00Z
+Round 1,Fri Aug 5 2011,19:00,CEST/+0200,Post SV Wien,0-3,0-2,Kapfenberger SV 1919,,,2011-08-05T17:00Z
+Round 1,Fri Aug 5 2011,19:00,CEST/+0200,Sturm Graz II,2-2,0-1,LASK Linz,2-5,,2011-08-05T17:00Z
+Round 1,Fri Aug 5 2011,19:00,CEST/+0200,DSV Leoben,2-3,0-2,FC Lustenau,,,2011-08-05T17:00Z
+Round 1,Fri Aug 5 2011,19:00,CEST/+0200,SC Kundl,0-3,0-0,TSV Hartberg,,,2011-08-05T17:00Z
+Round 1,Fri Aug 5 2011,19:00,CEST/+0200,ASKÖ Donau Linz,0-3,0-0,SV Grödig,,,2011-08-05T17:00Z
+Round 1,Fri Aug 5 2011,19:00,CEST/+0200,USV Allerheiligen,1-0,0-0,Union Vöcklamarkt,,,2011-08-05T17:00Z
+Round 1,Fri Aug 5 2011,19:30,CEST/+0200,Wiener Sportklub,1-2,0-0,ASK Bad Vöslau,,,2011-08-05T17:30Z
+Round 1,Fri Aug 5 2011,20:00,CEST/+0200,SKU Amstetten,4-1,3-0,SC Schwaz,,,2011-08-05T18:00Z
+Round 1,Sat Aug 6 2011,16:00,CEST/+0200,WSG Wattens,1-1,1-0,SV St. Margarethen,2-2,3-5,2011-08-06T14:00Z
+Round 1,Sat Aug 6 2011,17:00,CEST/+0200,FC Hellas Kagran,0-4,0-2,FC Wacker Innsbruck,,,2011-08-06T15:00Z
+Round 1,Sat Aug 6 2011,17:00,CEST/+0200,Union Innsbruck,3-2,1-1,SV Grieskirchen,,,2011-08-06T15:00Z
+Round 1,Sat Aug 6 2011,17:00,CEST/+0200,SC/ESV Parndorf,3-0,1-0,Austria Salzburg,,,2011-08-06T15:00Z
+Round 1,Sat Aug 6 2011,17:00,CEST/+0200,SAK Klagenfurt,3-1,2-1,SC Sollenau,,,2011-08-06T15:00Z
+Round 1,Sat Aug 6 2011,17:00,CEST/+0200,SC Weiz,5-1,0-1,TSV Neumarkt,,,2011-08-06T15:00Z
+Round 1,Sat Aug 6 2011,17:30,CEST/+0200,SC Bregenz,0-2,0-1,Austria Lustenau,,,2011-08-06T15:30Z
+Round 1,Sat Aug 6 2011,18:00,CEST/+0200,Vorwärts Steyr,1-6,0-3,FC Trenkwalder Admira,,,2011-08-06T16:00Z
+Round 1,Sat Aug 6 2011,18:00,CEST/+0200,Union St. Florian,2-0,0-0,SCR Altach,,,2011-08-06T16:00Z
+Round 1,Sat Aug 6 2011,18:00,CEST/+0200,Kapfenberger SV 1919 II,1-3,0-2,SV Mattersburg,,,2011-08-06T16:00Z
+Round 1,Sat Aug 6 2011,18:00,CEST/+0200,RB Salzburg II,5-0,1-0,SC Brunn am Gebirge,,,2011-08-06T16:00Z
+Round 1,Sat Aug 6 2011,18:00,CEST/+0200,SV Grödig II,0-4,0-2,Sturm Graz,,,2011-08-06T16:00Z
+Round 1,Sat Aug 6 2011,19:00,CEST/+0200,ASKÖ Stinatz,1-3,1-1,FC Blau Weiß Linz,,,2011-08-06T17:00Z
+Round 1,Sat Aug 6 2011,19:00,CEST/+0200,FC Juniors OÖ,0-7,0-3,Rapid Wien,,,2011-08-06T17:00Z
+Round 1,Sun Aug 7 2011,10:30,CEST/+0200,SVG Reichenau,0-0,0-0,SK Austria Klagenfurt,0-0,4-1,2011-08-07T08:30Z
+Round 1,Sun Aug 7 2011,17:00,CEST/+0200,ASK Baumgarten,0-3,0-2,RB Salzburg,,,2011-08-07T15:00Z
+Round 1,Sun Aug 7 2011,18:00,CEST/+0200,FC Trenkwalder Admira II,1-3,1-1,Austria Wien,,,2011-08-07T16:00Z
+Round 1,Sun Aug 7 2011,18:00,CEST/+0200,FC Gratkorn,0-3,0-2,SV Ried,,,2011-08-07T16:00Z
+Round 1,Sun Aug 7 2011,19:00,CEST/+0200,Villacher SV,4-2,2-1,SC Retz,,,2011-08-07T17:00Z
+Round 2,Tue Sep 20 2011,16:30,CEST/+0200,Union Innsbruck,0-7,0-3,Austria Lustenau,,,2011-09-20T14:30Z
+Round 2,Tue Sep 20 2011,18:30,CEST/+0200,Rapid Wien II,4-2,2-0,WAC/St. Andrä,,,2011-09-20T16:30Z
+Round 2,Tue Sep 20 2011,18:30,CEST/+0200,FC Dornbirn,0-2,0-1,SV Grödig,,,2011-09-20T16:30Z
+Round 2,Tue Sep 20 2011,19:00,CEST/+0200,Union St. Florian,0-2,0-1,FC Blau Weiß Linz,,,2011-09-20T17:00Z
+Round 2,Tue Sep 20 2011,19:00,CEST/+0200,SC/ESV Parndorf,0-1,0-0,FC Trenkwalder Admira,,,2011-09-20T17:00Z
+Round 2,Tue Sep 20 2011,19:00,CEST/+0200,Austria Wien II,0-5,0-2,LASK Linz,,,2011-09-20T17:00Z
+Round 2,Tue Sep 20 2011,19:30,CEST/+0200,ASC Götzendorf,2-3,1-1,SV Ried,,,2011-09-20T17:30Z
+Round 2,Tue Sep 20 2011,19:30,CEST/+0200,Villacher SV,1-1,0-1,TSV Hartberg,1-2,,2011-09-20T17:30Z
+Round 2,Tue Sep 20 2011,19:30,CEST/+0200,SKU Amstetten,2-2,1-1,FC Lustenau,2-4,,2011-09-20T17:30Z
+Round 2,Wed Sep 21 2011,16:00,CEST/+0200,ASK Bad Vöslau,1-4,0-3,Rapid Wien,,,2011-09-21T14:00Z
+Round 2,Wed Sep 21 2011,16:15,CEST/+0200,SAK Klagenfurt,0-4,0-1,RB Salzburg,,,2011-09-21T14:15Z
+Round 2,Wed Sep 21 2011,16:30,CEST/+0200,SVG Reichenau,1-1,1-0,Kapfenberger SV 1919,2-1,,2011-09-21T14:30Z
+Round 2,Wed Sep 21 2011,19:00,CEST/+0200,SC Weiz,0-4,0-1,Sturm Graz,,,2011-09-21T17:00Z
+Round 2,Wed Sep 21 2011,19:00,CEST/+0200,RB Salzburg II,1-1,1-0,SV Mattersburg,1-1,5-4,2011-09-21T17:00Z
+Round 2,Wed Sep 21 2011,19:00,CEST/+0200,USV Allerheiligen,1-3,1-1,Austria Wien,,,2011-09-21T17:00Z
+Round 2,Wed Sep 21 2011,19:30,CEST/+0200,SV St. Margarethen,0-3,0-0,FC Wacker Innsbruck,,,2011-09-21T17:30Z
+Round of 16,Tue Oct 25 2011,19:00,CEST/+0200,FC Wacker Innsbruck,0-1,0-1,SV Grödig,,,2011-10-25T17:00Z
+Round of 16,Tue Oct 25 2011,19:00,CEST/+0200,RB Salzburg II,3-1,2-1,FC Blau Weiß Linz,,,2011-10-25T17:00Z
+Round of 16,Tue Oct 25 2011,19:00,CEST/+0200,Rapid Wien II,0-2,0-0,TSV Hartberg,,,2011-10-25T17:00Z
+Round of 16,Tue Oct 25 2011,18:30,CEST/+0200,Austria Lustenau,4-1,2-1,FC Lustenau,,,2011-10-25T16:30Z
+Round of 16,Wed Oct 26 2011,10:30,CEST/+0200,SVG Reichenau,0-2,0-0,Austria Wien,,,2011-10-26T08:30Z
+Round of 16,Wed Oct 26 2011,16:00,CEST/+0200,Rapid Wien,1-1,1-1,SV Ried,1-2,,2011-10-26T14:00Z
+Round of 16,Wed Oct 26 2011,16:00,CEST/+0200,RB Salzburg,2-1,0-0,LASK Linz,,,2011-10-26T14:00Z
+Round of 16,Wed Oct 26 2011,18:00,CEST/+0200,Sturm Graz,3-1,2-1,FC Trenkwalder Admira,,,2011-10-26T16:00Z
+Quarterfinals,Tue Apr 10 2012,18:00,CEST/+0200,SV Grödig,2-3,2-1,SV Ried,,,2012-04-10T16:00Z
+Quarterfinals,Wed Apr 11 2012,19:00,CEST/+0200,Sturm Graz,2-2,1-2,TSV Hartberg,2-4,,2012-04-11T17:00Z
+Quarterfinals,Wed Apr 11 2012,19:00,CEST/+0200,RB Salzburg,4-1,1-1,RB Salzburg II,,,2012-04-11T17:00Z
+Quarterfinals,Wed Apr 11 2012,18:00,CEST/+0200,Austria Lustenau,1-2,0-2,Austria Wien,,,2012-04-11T16:00Z
+Semifinals,Tue May 1 2012,18:00,CEST/+0200,TSV Hartberg,0-1,0-0,RB Salzburg,,,2012-05-01T16:00Z
+Semifinals,Wed May 2 2012,20:30,CEST/+0200,SV Ried,2-0,1-0,Austria Wien,,,2012-05-02T18:30Z
+Final,Sun May 20 2012,16:00,CEST/+0200,RB Salzburg,3-0,2-0,SV Ried,,,2012-05-20T14:00Z

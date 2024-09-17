@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 9 2008,12:00,BST/+0100,Scunthorpe United,1-2,0-0,Leeds United,2008-08-09T11:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Bristol Rovers,2-3,1-2,Carlisle United,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Crewe Alexandra,1-2,0-1,Brighton & Hove Albion,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Hartlepool United,4-2,2-0,Colchester United,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Huddersfield Town,1-1,1-1,Stockport County,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Leicester City,2-0,1-0,Milton Keynes Dons,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Leyton Orient,2-1,2-1,Hereford United,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Northampton Town,4-2,1-1,Cheltenham Town,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Oldham Athletic,4-3,1-2,Millwall FC,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Southend United,1-0,0-0,Peterborough United,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Swindon Town,3-1,2-0,Tranmere Rovers,2008-08-09T14:00Z
+1,Sat Aug 9 2008,15:00,BST/+0100,Yeovil Town,1-1,1-0,Walsall FC,2008-08-09T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Brighton & Hove Albion,1-1,1-0,Bristol Rovers,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Carlisle United,4-2,2-1,Crewe Alexandra,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Cheltenham Town,2-0,0-0,Swindon Town,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Colchester United,0-0,0-0,Huddersfield Town,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Hereford United,1-2,0-2,Yeovil Town,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Leeds United,0-2,0-0,Oldham Athletic,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Millwall FC,1-1,0-1,Southend United,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Milton Keynes Dons,1-0,0-0,Northampton Town,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Peterborough United,3-0,1-0,Leyton Orient,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Stockport County,0-0,0-0,Leicester City,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Tranmere Rovers,1-0,1-0,Hartlepool United,2008-08-16T14:00Z
+2,Sat Aug 16 2008,15:00,BST/+0100,Walsall FC,2-1,1-1,Scunthorpe United,2008-08-16T14:00Z
+3,Fri Aug 22 2008,19:45,BST/+0100,Southend United,0-2,0-0,Brighton & Hove Albion,2008-08-22T18:45Z
+3,Sat Aug 23 2008,13:00,BST/+0100,Yeovil Town,1-1,0-1,Leeds United,2008-08-23T12:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Bristol Rovers,6-1,3-0,Hereford United,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Crewe Alexandra,2-1,2-0,Walsall FC,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Hartlepool United,0-1,0-0,Stockport County,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Huddersfield Town,1-3,0-2,Milton Keynes Dons,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Leicester City,3-1,1-0,Tranmere Rovers,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Leyton Orient,0-0,0-0,Carlisle United,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Northampton Town,0-0,0-0,Millwall FC,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Oldham Athletic,4-0,1-0,Cheltenham Town,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Scunthorpe United,1-0,1-0,Peterborough United,2008-08-23T14:00Z
+3,Sat Aug 23 2008,15:00,BST/+0100,Swindon Town,1-3,0-2,Colchester United,2008-08-23T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Brighton & Hove Albion,0-0,0-0,Leyton Orient,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Carlisle United,4-1,1-1,Yeovil Town,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Cheltenham Town,0-4,0-1,Leicester City,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Colchester United,2-2,1-0,Oldham Athletic,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Hereford United,2-0,0-0,Crewe Alexandra,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Leeds United,2-2,1-2,Bristol Rovers,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Millwall FC,2-1,1-1,Huddersfield Town,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Milton Keynes Dons,1-2,0-0,Swindon Town,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Peterborough United,1-2,0-0,Hartlepool United,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Stockport County,0-3,0-1,Scunthorpe United,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Tranmere Rovers,4-1,3-1,Northampton Town,2008-08-30T14:00Z
+4,Sat Aug 30 2008,15:00,BST/+0100,Walsall FC,5-2,1-1,Southend United,2008-08-30T14:00Z
+5,Fri Sep 5 2008,19:45,BST/+0100,Hereford United,1-1,0-1,Swindon Town,2008-09-05T18:45Z
+5,Sat Sep 6 2008,12:15,BST/+0100,Peterborough United,5-4,2-1,Bristol Rovers,2008-09-06T11:15Z
+5,Sat Sep 6 2008,15:00,BST/+0100,Brighton & Hove Albion,1-4,0-2,Scunthorpe United,2008-09-06T14:00Z
+5,Sat Sep 6 2008,15:00,BST/+0100,Carlisle United,2-1,0-1,Southend United,2008-09-06T14:00Z
+5,Sat Sep 6 2008,15:00,BST/+0100,Cheltenham Town,1-2,1-0,Huddersfield Town,2008-09-06T14:00Z
+5,Sat Sep 6 2008,15:00,BST/+0100,Leeds United,5-2,2-0,Crewe Alexandra,2008-09-06T14:00Z
+5,Sat Sep 6 2008,15:00,BST/+0100,Millwall FC,2-0,2-0,Hartlepool United,2008-09-06T14:00Z
+5,Sat Sep 6 2008,15:00,BST/+0100,Milton Keynes Dons,3-0,1-0,Yeovil Town,2008-09-06T14:00Z
+5,Sat Sep 6 2008,15:00,BST/+0100,Tranmere Rovers,0-1,0-1,Oldham Athletic,2008-09-06T14:00Z
+5,Sat Sep 6 2008,15:00,BST/+0100,Walsall FC,0-2,0-0,Leyton Orient,2008-09-06T14:00Z
+6,Fri Sep 12 2008,19:45,BST/+0100,Hartlepool United,4-1,1-0,Cheltenham Town,2008-09-12T18:45Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Swindon Town,1-3,1-1,Leeds United,2008-09-13T14:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Yeovil Town,1-1,0-0,Brighton & Hove Albion,2008-09-13T14:00Z
+6,Sat Sep 13 2008,13:00,BST/+0100,Leicester City,0-1,0-1,Millwall FC,2008-09-13T12:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Bristol Rovers,1-3,0-2,Walsall FC,2008-09-13T14:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Crewe Alexandra,2-0,0-0,Colchester United,2008-09-13T14:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Huddersfield Town,1-2,1-1,Tranmere Rovers,2008-09-13T14:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Leyton Orient,0-3,0-2,Stockport County,2008-09-13T14:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Northampton Town,1-1,1-1,Peterborough United,2008-09-13T14:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Oldham Athletic,2-0,1-0,Milton Keynes Dons,2008-09-13T14:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Scunthorpe United,2-1,0-0,Carlisle United,2008-09-13T14:00Z
+6,Sat Sep 13 2008,15:00,BST/+0100,Southend United,1-0,1-0,Hereford United,2008-09-13T14:00Z
+5,Tue Sep 16 2008,19:45,BST/+0100,Stockport County,1-1,0-1,Northampton Town,2008-09-16T18:45Z
+14,Tue Sep 16 2008,19:45,BST/+0100,Cheltenham Town,2-1,2-0,Bristol Rovers,2008-09-16T18:45Z
+7,Sat Sep 20 2008,12:15,BST/+0100,Carlisle United,0-2,0-1,Leeds United,2008-09-20T11:15Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Brighton & Hove Albion,0-1,0-1,Walsall FC,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Colchester United,0-3,0-1,Milton Keynes Dons,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Crewe Alexandra,3-4,2-2,Southend United,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Hartlepool United,3-3,0-2,Oldham Athletic,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Hereford United,1-2,1-0,Scunthorpe United,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Huddersfield Town,3-2,1-1,Northampton Town,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Leyton Orient,1-3,1-1,Leicester City,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Millwall FC,2-0,0-0,Cheltenham Town,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Peterborough United,2-2,1-2,Tranmere Rovers,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Stockport County,1-1,1-0,Swindon Town,2008-09-20T14:00Z
+7,Sat Sep 20 2008,15:00,BST/+0100,Yeovil Town,2-2,2-1,Bristol Rovers,2008-09-20T14:00Z
+8,Fri Sep 26 2008,19:45,BST/+0100,Tranmere Rovers,3-4,1-3,Colchester United,2008-09-26T18:45Z
+8,Fri Sep 26 2008,19:45,BST/+0100,Southend United,3-0,2-0,Leyton Orient,2008-09-26T18:45Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Bristol Rovers,0-0,0-0,Crewe Alexandra,2008-09-27T14:00Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Cheltenham Town,2-2,1-0,Stockport County,2008-09-27T14:00Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Leeds United,1-0,0-0,Hereford United,2008-09-27T14:00Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Leicester City,1-0,1-0,Hartlepool United,2008-09-27T14:00Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Milton Keynes Dons,1-2,0-0,Peterborough United,2008-09-27T14:00Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Northampton Town,2-2,0-1,Brighton & Hove Albion,2008-09-27T14:00Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Oldham Athletic,1-1,0-1,Huddersfield Town,2008-09-27T14:00Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Scunthorpe United,2-0,1-0,Yeovil Town,2008-09-27T14:00Z
+8,Sat Sep 27 2008,15:00,BST/+0100,Walsall FC,2-1,1-0,Carlisle United,2008-09-27T14:00Z
+8,Sun Sep 28 2008,14:00,BST/+0100,Swindon Town,1-2,0-1,Millwall FC,2008-09-28T13:00Z
+5,Tue Sep 30 2008,19:45,BST/+0100,Colchester United,0-1,0-0,Leicester City,2008-09-30T18:45Z
+9,Fri Oct 3 2008,19:45,BST/+0100,Hartlepool United,3-3,0-2,Swindon Town,2008-10-03T18:45Z
+9,Fri Oct 3 2008,19:45,BST/+0100,Stockport County,3-1,0-1,Oldham Athletic,2008-10-03T18:45Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Carlisle United,1-2,0-1,Tranmere Rovers,2008-10-04T14:00Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Colchester United,0-1,0-0,Bristol Rovers,2008-10-04T14:00Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Brighton & Hove Albion,3-3,2-2,Cheltenham Town,2008-10-04T14:00Z
+9,Sat Oct 4 2008,12:00,BST/+0100,Peterborough United,2-0,0-0,Leeds United,2008-10-04T11:00Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Hereford United,0-0,0-0,Walsall FC,2008-10-04T14:00Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Huddersfield Town,2-3,0-0,Leicester City,2008-10-04T14:00Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Leyton Orient,2-2,0-2,Scunthorpe United,2008-10-04T14:00Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Millwall FC,0-4,0-2,Milton Keynes Dons,2008-10-04T14:00Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Yeovil Town,1-2,0-1,Southend United,2008-10-04T14:00Z
+9,Sat Oct 4 2008,15:00,BST/+0100,Crewe Alexandra,1-3,0-1,Northampton Town,2008-10-04T14:00Z
+10,Fri Oct 10 2008,19:45,BST/+0100,Northampton Town,1-0,1-0,Hartlepool United,2008-10-10T18:45Z
+10,Sat Oct 11 2008,15:00,BST/+0100,Bristol Rovers,2-1,0-0,Leyton Orient,2008-10-11T14:00Z
+10,Sat Oct 11 2008,15:00,BST/+0100,Cheltenham Town,4-3,1-2,Colchester United,2008-10-11T14:00Z
+10,Sat Oct 11 2008,15:00,BST/+0100,Leeds United,3-1,2-0,Brighton & Hove Albion,2008-10-11T14:00Z
+10,Sat Oct 11 2008,15:00,BST/+0100,Scunthorpe United,3-0,1-0,Crewe Alexandra,2008-10-11T14:00Z
+10,Sat Oct 11 2008,15:00,BST/+0100,Southend United,1-1,1-0,Stockport County,2008-10-11T14:00Z
+10,Sat Oct 11 2008,15:00,BST/+0100,Swindon Town,1-3,0-2,Huddersfield Town,2008-10-11T14:00Z
+10,Sat Oct 11 2008,15:00,BST/+0100,Tranmere Rovers,1-3,0-2,Millwall FC,2008-10-11T14:00Z
+10,Sat Oct 11 2008,15:00,BST/+0100,Walsall FC,1-2,0-2,Peterborough United,2008-10-11T14:00Z
+10,Sat Oct 11 2008,12:15,BST/+0100,Milton Keynes Dons,3-1,1-1,Carlisle United,2008-10-11T11:15Z
+10,Sun Oct 12 2008,14:00,BST/+0100,Oldham Athletic,4-0,3-0,Hereford United,2008-10-12T13:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Brighton & Hove Albion,0-0,0-0,Hereford United,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Carlisle United,3-3,1-1,Peterborough United,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Cheltenham Town,1-2,0-1,Scunthorpe United,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Crewe Alexandra,2-2,2-1,Milton Keynes Dons,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Huddersfield Town,1-1,1-0,Bristol Rovers,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Leyton Orient,0-1,0-1,Tranmere Rovers,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Millwall FC,3-1,1-1,Leeds United,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Northampton Town,3-0,2-0,Yeovil Town,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Oldham Athletic,1-1,0-0,Leicester City,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Southend United,2-1,1-0,Swindon Town,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Stockport County,1-2,1-1,Colchester United,2008-10-18T14:00Z
+11,Sat Oct 18 2008,15:00,BST/+0100,Walsall FC,2-3,2-0,Hartlepool United,2008-10-18T14:00Z
+12,Tue Oct 21 2008,19:30,BST/+0100,Scunthorpe United,1-1,0-0,Southend United,2008-10-21T18:30Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Bristol Rovers,2-0,2-0,Oldham Athletic,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Colchester United,1-2,1-2,Millwall FC,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Hartlepool United,5-3,2-3,Huddersfield Town,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Hereford United,1-0,0-0,Carlisle United,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Leeds United,2-1,2-1,Leyton Orient,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Leicester City,2-2,1-1,Walsall FC,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Milton Keynes Dons,1-2,1-0,Stockport County,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Peterborough United,0-0,0-0,Brighton & Hove Albion,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Swindon Town,2-1,0-0,Northampton Town,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Tranmere Rovers,2-0,0-0,Cheltenham Town,2008-10-21T18:45Z
+12,Tue Oct 21 2008,19:45,BST/+0100,Yeovil Town,3-2,1-0,Crewe Alexandra,2008-10-21T18:45Z
+13,Fri Oct 24 2008,19:45,BST/+0100,Tranmere Rovers,2-0,0-0,Crewe Alexandra,2008-10-24T18:45Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Bristol Rovers,4-2,3-0,Southend United,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Colchester United,5-0,3-0,Carlisle United,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Hartlepool United,1-0,1-0,Brighton & Hove Albion,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Hereford United,0-1,0-0,Stockport County,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Leeds United,3-0,0-0,Walsall FC,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Leicester City,0-0,0-0,Northampton Town,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Milton Keynes Dons,3-1,1-1,Cheltenham Town,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Peterborough United,4-0,2-0,Huddersfield Town,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Scunthorpe United,3-2,2-0,Millwall FC,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Swindon Town,2-0,2-0,Oldham Athletic,2008-10-25T14:00Z
+13,Sat Oct 25 2008,15:00,BST/+0100,Yeovil Town,0-0,0-0,Leyton Orient,2008-10-25T14:00Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Leyton Orient,1-2,0-2,Milton Keynes Dons,2008-10-28T19:45Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Brighton & Hove Albion,3-2,0-2,Leicester City,2008-10-28T19:45Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Carlisle United,0-1,0-1,Hartlepool United,2008-10-28T19:45Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Crewe Alexandra,1-1,0-1,Peterborough United,2008-10-28T19:45Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Huddersfield Town,0-0,0-0,Yeovil Town,2008-10-28T19:45Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Stockport County,0-0,0-0,Tranmere Rovers,2008-10-28T19:45Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Millwall FC,1-0,0-0,Hereford United,2008-10-28T19:45Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Oldham Athletic,3-0,1-0,Scunthorpe United,2008-10-28T19:45Z
+14,Tue Oct 28 2008,19:45,GMT/+0000,Southend United,1-0,1-0,Leeds United,2008-10-28T19:45Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Walsall FC,3-1,2-0,Northampton Town,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Stockport County,3-0,1-0,Carlisle United,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Scunthorpe United,3-3,1-1,Swindon Town,2008-11-01T15:00Z
+15,Sat Nov 1 2008,13:00,GMT/+0000,Southend United,3-3,2-1,Colchester United,2008-11-01T13:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Brighton & Hove Albion,4-1,1-0,Millwall FC,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Cheltenham Town,0-1,0-1,Leeds United,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Huddersfield Town,3-2,2-1,Crewe Alexandra,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Leicester City,2-1,0-0,Bristol Rovers,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Leyton Orient,1-0,0-0,Hartlepool United,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Milton Keynes Dons,1-0,0-0,Tranmere Rovers,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Oldham Athletic,0-2,0-0,Yeovil Town,2008-11-01T15:00Z
+15,Sat Nov 1 2008,15:00,GMT/+0000,Peterborough United,2-0,1-0,Hereford United,2008-11-01T15:00Z
+10,Tue Nov 11 2008,19:45,GMT/+0000,Leicester City,1-0,1-0,Yeovil Town,2008-11-11T19:45Z
+16,Fri Nov 14 2008,19:45,GMT/+0000,Bristol Rovers,1-2,0-1,Scunthorpe United,2008-11-14T19:45Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Swindon Town,2-2,0-0,Leicester City,2008-11-15T15:00Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Tranmere Rovers,2-2,2-2,Southend United,2008-11-15T15:00Z
+16,Sat Nov 15 2008,12:15,GMT/+0000,Leeds United,1-2,1-0,Huddersfield Town,2008-11-15T12:15Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Carlisle United,3-1,2-0,Brighton & Hove Albion,2008-11-15T15:00Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Colchester United,0-2,0-1,Walsall FC,2008-11-15T15:00Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Crewe Alexandra,0-2,0-0,Leyton Orient,2008-11-15T15:00Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Hartlepool United,1-3,0-2,Milton Keynes Dons,2008-11-15T15:00Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Hereford United,3-0,2-0,Cheltenham Town,2008-11-15T15:00Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Millwall FC,1-0,0-0,Stockport County,2008-11-15T15:00Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Northampton Town,0-1,0-0,Oldham Athletic,2008-11-15T15:00Z
+16,Sat Nov 15 2008,15:00,GMT/+0000,Yeovil Town,0-1,0-1,Peterborough United,2008-11-15T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Yeovil Town,1-0,1-0,Tranmere Rovers,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Walsall FC,0-3,0-1,Milton Keynes Dons,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Brighton & Hove Albion,0-1,0-0,Huddersfield Town,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Bristol Rovers,2-2,1-0,Swindon Town,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Carlisle United,1-0,0-0,Cheltenham Town,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Crewe Alexandra,0-3,0-0,Stockport County,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Hereford United,0-2,0-0,Northampton Town,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Leeds United,4-1,1-1,Hartlepool United,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Leyton Orient,0-0,0-0,Millwall FC,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Peterborough United,2-1,1-0,Colchester United,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Scunthorpe United,1-2,1-1,Leicester City,2008-11-22T15:00Z
+17,Sat Nov 22 2008,15:00,GMT/+0000,Southend United,1-2,0-0,Oldham Athletic,2008-11-22T15:00Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Swindon Town,2-2,1-1,Peterborough United,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Tranmere Rovers,2-0,1-0,Scunthorpe United,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Cheltenham Town,0-0,0-0,Southend United,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Colchester United,1-0,0-0,Yeovil Town,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Hartlepool United,1-1,1-1,Bristol Rovers,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Huddersfield Town,0-1,0-1,Leyton Orient,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Leicester City,2-1,1-1,Crewe Alexandra,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Millwall FC,1-0,0-0,Carlisle United,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Milton Keynes Dons,3-0,0-0,Hereford United,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Northampton Town,2-1,1-0,Leeds United,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Oldham Athletic,3-2,2-2,Walsall FC,2008-11-25T19:45Z
+18,Tue Nov 25 2008,19:45,GMT/+0000,Stockport County,2-0,1-0,Brighton & Hove Albion,2008-11-25T19:45Z
+14,Sat Nov 29 2008,15:00,GMT/+0000,Northampton Town,1-2,0-2,Colchester United,2008-11-29T15:00Z
+14,Sat Nov 29 2008,15:00,GMT/+0000,Walsall FC,2-1,1-0,Swindon Town,2008-11-29T15:00Z
+19,Sat Dec 6 2008,14:30,GMT/+0000,Leicester City,3-0,1-0,Southend United,2008-12-06T14:30Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Cheltenham Town,1-0,0-0,Crewe Alexandra,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Colchester United,1-2,0-2,Hereford United,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Hartlepool United,0-0,0-0,Yeovil Town,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Huddersfield Town,2-1,1-0,Walsall FC,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Millwall FC,3-2,2-1,Bristol Rovers,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Milton Keynes Dons,0-2,0-0,Scunthorpe United,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Northampton Town,1-1,1-1,Leyton Orient,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Oldham Athletic,1-1,1-1,Brighton & Hove Albion,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Stockport County,1-3,0-1,Peterborough United,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Swindon Town,1-1,0-0,Carlisle United,2008-12-06T15:00Z
+19,Sat Dec 6 2008,15:00,GMT/+0000,Tranmere Rovers,2-1,1-1,Leeds United,2008-12-06T15:00Z
+20,Fri Dec 12 2008,19:45,GMT/+0000,Brighton & Hove Albion,2-4,1-1,Milton Keynes Dons,2008-12-12T19:45Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Bristol Rovers,2-0,1-0,Tranmere Rovers,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Carlisle United,1-2,1-0,Leicester City,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Crewe Alexandra,1-0,1-0,Swindon Town,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Hereford United,1-1,1-0,Hartlepool United,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Leeds United,1-2,1-1,Colchester United,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Leyton Orient,1-2,1-1,Cheltenham Town,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Peterborough United,2-2,2-1,Oldham Athletic,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Scunthorpe United,4-4,3-1,Northampton Town,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Southend United,0-1,0-0,Huddersfield Town,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Walsall FC,1-2,1-1,Millwall FC,2008-12-13T15:00Z
+20,Sat Dec 13 2008,15:00,GMT/+0000,Yeovil Town,2-4,2-3,Stockport County,2008-12-13T15:00Z
+21,Fri Dec 19 2008,19:45,GMT/+0000,Hartlepool United,3-0,2-0,Southend United,2008-12-19T19:45Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Cheltenham Town,0-0,0-0,Walsall FC,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Colchester United,0-0,0-0,Scunthorpe United,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Huddersfield Town,2-0,0-0,Hereford United,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Leicester City,4-0,2-0,Peterborough United,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Millwall FC,0-0,0-0,Crewe Alexandra,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Milton Keynes Dons,3-1,2-0,Leeds United,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Northampton Town,1-0,0-0,Carlisle United,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Oldham Athletic,1-1,1-0,Leyton Orient,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Stockport County,3-1,2-1,Bristol Rovers,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Swindon Town,2-3,1-2,Yeovil Town,2008-12-20T15:00Z
+21,Sat Dec 20 2008,15:00,GMT/+0000,Tranmere Rovers,1-0,0-0,Brighton & Hove Albion,2008-12-20T15:00Z
+22,Fri Dec 26 2008,12:00,GMT/+0000,Peterborough United,1-0,1-0,Millwall FC,2008-12-26T12:00Z
+22,Fri Dec 26 2008,13:00,GMT/+0000,Bristol Rovers,1-2,1-1,Milton Keynes Dons,2008-12-26T13:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Brighton & Hove Albion,1-2,1-1,Colchester United,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Carlisle United,3-0,1-0,Huddersfield Town,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Crewe Alexandra,0-3,0-0,Oldham Athletic,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Hereford United,2-2,1-1,Tranmere Rovers,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Leeds United,1-1,0-1,Leicester City,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Leyton Orient,1-2,0-1,Swindon Town,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Scunthorpe United,3-0,1-0,Hartlepool United,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Southend United,1-0,0-0,Northampton Town,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Walsall FC,1-0,0-0,Stockport County,2008-12-26T15:00Z
+22,Fri Dec 26 2008,15:00,GMT/+0000,Yeovil Town,1-1,0-1,Cheltenham Town,2008-12-26T15:00Z
+23,Sun Dec 28 2008,12:00,GMT/+0000,Stockport County,1-3,1-1,Leeds United,2008-12-28T12:00Z
+23,Sun Dec 28 2008,13:00,GMT/+0000,Oldham Athletic,0-0,0-0,Carlisle United,2008-12-28T13:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Cheltenham Town,3-6,0-1,Peterborough United,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Colchester United,1-0,1-0,Leyton Orient,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Hartlepool United,1-4,0-1,Crewe Alexandra,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Huddersfield Town,2-0,0-0,Scunthorpe United,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Leicester City,2-1,1-0,Hereford United,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Millwall FC,1-1,1-1,Yeovil Town,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Milton Keynes Dons,2-0,1-0,Southend United,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Northampton Town,0-0,0-0,Bristol Rovers,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Swindon Town,0-2,0-1,Brighton & Hove Albion,2008-12-28T15:00Z
+23,Sun Dec 28 2008,15:00,GMT/+0000,Tranmere Rovers,2-1,1-0,Walsall FC,2008-12-28T15:00Z
+24,Sat Jan 3 2009,15:00,GMT/+0000,Huddersfield Town,1-1,0-1,Oldham Athletic,2009-01-03T15:00Z
+25,Sat Jan 10 2009,15:00,GMT/+0000,Leicester City,3-0,2-0,Leyton Orient,2009-01-10T15:00Z
+25,Sat Jan 10 2009,15:00,GMT/+0000,Northampton Town,1-1,0-0,Huddersfield Town,2009-01-10T15:00Z
+25,Sat Jan 10 2009,15:00,GMT/+0000,Leeds United,0-2,0-2,Carlisle United,2009-01-10T15:00Z
+25,Mon Jan 12 2009,19:45,GMT/+0000,Milton Keynes Dons,1-1,0-1,Colchester United,2009-01-12T19:45Z
+25,Mon Jan 12 2009,19:45,GMT/+0000,Oldham Athletic,2-1,1-0,Hartlepool United,2009-01-12T19:45Z
+25,Tue Jan 13 2009,19:45,GMT/+0000,Swindon Town,1-1,0-0,Stockport County,2009-01-13T19:45Z
+24,Tue Jan 13 2009,19:45,GMT/+0000,Yeovil Town,1-2,0-2,Scunthorpe United,2009-01-13T19:45Z
+26,Fri Jan 16 2009,19:45,GMT/+0000,Hartlepool United,2-0,1-0,Northampton Town,2009-01-16T19:45Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Colchester United,3-1,0-0,Cheltenham Town,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Crewe Alexandra,3-2,0-1,Scunthorpe United,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Brighton & Hove Albion,0-2,0-0,Leeds United,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Hereford United,5-0,4-0,Oldham Athletic,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Huddersfield Town,2-1,0-0,Swindon Town,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Leyton Orient,1-2,0-0,Bristol Rovers,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Millwall FC,1-0,0-0,Tranmere Rovers,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Peterborough United,1-0,1-0,Walsall FC,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Stockport County,3-1,2-0,Southend United,2009-01-17T15:00Z
+26,Sat Jan 17 2009,15:00,GMT/+0000,Carlisle United,3-2,0-2,Milton Keynes Dons,2009-01-17T15:00Z
+26,Mon Jan 19 2009,19:45,GMT/+0000,Yeovil Town,0-2,0-0,Leicester City,2009-01-19T19:45Z
+24,Tue Jan 20 2009,19:45,GMT/+0000,Peterborough United,0-0,0-0,Milton Keynes Dons,2009-01-20T19:45Z
+24,Tue Jan 20 2009,19:45,GMT/+0000,Leyton Orient,1-1,1-0,Southend United,2009-01-20T19:45Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Oldham Athletic,3-1,2-1,Stockport County,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Leeds United,3-1,0-0,Peterborough United,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Bristol Rovers,0-0,0-0,Colchester United,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Scunthorpe United,2-1,1-0,Leyton Orient,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Leicester City,4-2,1-1,Huddersfield Town,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Northampton Town,5-1,2-1,Crewe Alexandra,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Cheltenham Town,2-2,1-0,Brighton & Hove Albion,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Tranmere Rovers,4-1,0-0,Carlisle United,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Walsall FC,1-1,1-0,Hereford United,2009-01-24T15:00Z
+27,Sat Jan 24 2009,15:00,GMT/+0000,Southend United,0-1,0-1,Yeovil Town,2009-01-24T15:00Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Peterborough United,4-2,0-1,Crewe Alexandra,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:30,GMT/+0000,Scunthorpe United,2-0,2-0,Oldham Athletic,2009-01-27T19:30Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Bristol Rovers,3-2,1-1,Cheltenham Town,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Colchester United,2-1,0-1,Northampton Town,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Hartlepool United,2-2,0-2,Carlisle United,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Milton Keynes Dons,1-2,1-1,Leyton Orient,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Hereford United,0-2,0-0,Millwall FC,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Tranmere Rovers,2-1,0-0,Stockport County,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Yeovil Town,1-0,1-0,Huddersfield Town,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Leeds United,2-0,2-0,Southend United,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Leicester City,0-0,0-0,Brighton & Hove Albion,2009-01-27T19:45Z
+28,Tue Jan 27 2009,19:45,GMT/+0000,Swindon Town,3-2,2-0,Walsall FC,2009-01-27T19:45Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Walsall FC,1-0,1-0,Leeds United,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Stockport County,4-1,2-1,Hereford United,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Southend United,1-0,0-0,Bristol Rovers,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Oldham Athletic,0-0,0-0,Swindon Town,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Northampton Town,1-2,1-1,Leicester City,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Millwall FC,1-2,0-0,Scunthorpe United,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Leyton Orient,0-1,0-0,Yeovil Town,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Huddersfield Town,1-0,1-0,Peterborough United,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Crewe Alexandra,2-1,0-1,Tranmere Rovers,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Brighton & Hove Albion,2-1,0-1,Hartlepool United,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Carlisle United,0-2,0-1,Colchester United,2009-01-31T15:00Z
+29,Sat Jan 31 2009,15:00,GMT/+0000,Cheltenham Town,3-5,0-3,Milton Keynes Dons,2009-01-31T15:00Z
+30,Tue Feb 3 2009,19:45,GMT/+0000,Walsall FC,1-4,0-2,Leicester City,2009-02-03T19:45Z
+30,Tue Feb 3 2009,19:45,GMT/+0000,Stockport County,0-1,0-1,Milton Keynes Dons,2009-02-03T19:45Z
+30,Tue Feb 3 2009,19:45,GMT/+0000,Huddersfield Town,1-1,1-1,Hartlepool United,2009-02-03T19:45Z
+31,Sat Feb 7 2009,17:20,GMT/+0000,Leicester City,0-0,0-0,Oldham Athletic,2009-02-07T17:20Z
+31,Sat Feb 7 2009,15:00,GMT/+0000,Hartlepool United,2-2,1-1,Walsall FC,2009-02-07T15:00Z
+31,Sat Feb 7 2009,15:00,GMT/+0000,Tranmere Rovers,0-0,0-0,Leyton Orient,2009-02-07T15:00Z
+31,Mon Feb 9 2009,19:45,GMT/+0000,Leeds United,2-0,1-0,Millwall FC,2009-02-09T19:45Z
+24,Tue Feb 10 2009,19:45,GMT/+0000,Carlisle United,1-1,1-0,Walsall FC,2009-02-10T19:45Z
+24,Tue Feb 10 2009,19:45,GMT/+0000,Colchester United,0-1,0-0,Tranmere Rovers,2009-02-10T19:45Z
+30,Tue Feb 10 2009,19:45,GMT/+0000,Brighton & Hove Albion,2-4,2-2,Peterborough United,2009-02-10T19:45Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Scunthorpe United,0-2,0-2,Bristol Rovers,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Southend United,2-1,1-0,Tranmere Rovers,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Stockport County,2-2,0-1,Millwall FC,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Peterborough United,1-3,0-2,Yeovil Town,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Leyton Orient,1-0,1-0,Crewe Alexandra,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Milton Keynes Dons,3-1,1-1,Hartlepool United,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Leicester City,1-1,0-1,Swindon Town,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Cheltenham Town,2-3,1-1,Hereford United,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Brighton & Hove Albion,0-2,0-2,Carlisle United,2009-02-14T15:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Oldham Athletic,2-1,1-0,Northampton Town,2009-02-14T15:00Z
+32,Sat Feb 14 2009,12:00,GMT/+0000,Huddersfield Town,1-0,1-0,Leeds United,2009-02-14T12:00Z
+32,Sat Feb 14 2009,15:00,GMT/+0000,Walsall FC,2-0,2-0,Colchester United,2009-02-14T15:00Z
+24,Tue Feb 17 2009,19:45,GMT/+0000,Stockport County,1-0,1-0,Cheltenham Town,2009-02-17T19:45Z
+24,Tue Feb 17 2009,19:45,GMT/+0000,Hartlepool United,2-2,1-1,Leicester City,2009-02-17T19:45Z
+24,Tue Feb 17 2009,19:45,GMT/+0000,Hereford United,2-0,1-0,Leeds United,2009-02-17T19:45Z
+25,Tue Feb 17 2009,19:45,GMT/+0000,Southend United,0-1,0-1,Crewe Alexandra,2009-02-17T19:45Z
+25,Tue Feb 17 2009,19:45,GMT/+0000,Bristol Rovers,3-0,2-0,Yeovil Town,2009-02-17T19:45Z
+25,Tue Feb 17 2009,19:45,GMT/+0000,Tranmere Rovers,1-1,1-1,Peterborough United,2009-02-17T19:45Z
+24,Tue Feb 17 2009,19:45,GMT/+0000,Millwall FC,1-1,0-1,Swindon Town,2009-02-17T19:45Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Northampton Town,0-2,0-0,Walsall FC,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Colchester United,0-1,0-1,Southend United,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Crewe Alexandra,3-1,1-1,Huddersfield Town,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Tranmere Rovers,1-1,0-0,Milton Keynes Dons,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Yeovil Town,2-2,2-2,Oldham Athletic,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Bristol Rovers,0-1,0-1,Leicester City,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Swindon Town,4-2,0-2,Scunthorpe United,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Hartlepool United,0-1,0-0,Leyton Orient,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Hereford United,0-1,0-1,Peterborough United,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Leeds United,2-0,0-0,Cheltenham Town,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Millwall FC,0-1,0-0,Brighton & Hove Albion,2009-02-21T15:00Z
+33,Sat Feb 21 2009,15:00,GMT/+0000,Carlisle United,1-2,0-1,Stockport County,2009-02-21T15:00Z
+30,Tue Feb 24 2009,19:45,GMT/+0000,Southend United,2-0,0-0,Scunthorpe United,2009-02-24T19:45Z
+25,Tue Feb 24 2009,19:45,GMT/+0000,Cheltenham Town,1-3,1-0,Millwall FC,2009-02-24T19:45Z
+24,Tue Feb 24 2009,19:45,GMT/+0000,Brighton & Hove Albion,1-1,0-1,Northampton Town,2009-02-24T19:45Z
+30,Tue Feb 24 2009,19:45,GMT/+0000,Crewe Alexandra,2-0,1-0,Yeovil Town,2009-02-24T19:45Z
+30,Tue Feb 24 2009,19:45,GMT/+0000,Oldham Athletic,0-2,0-0,Bristol Rovers,2009-02-24T19:45Z
+27,Tue Feb 24 2009,19:45,GMT/+0000,Swindon Town,0-1,0-0,Hartlepool United,2009-02-24T19:45Z
+31,Tue Feb 24 2009,19:45,GMT/+0000,Peterborough United,1-0,0-0,Carlisle United,2009-02-24T19:45Z
+31,Tue Feb 24 2009,19:45,GMT/+0000,Colchester United,1-0,1-0,Stockport County,2009-02-24T19:45Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Brighton & Hove Albion,0-4,0-1,Crewe Alexandra,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Walsall FC,2-0,0-0,Yeovil Town,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Millwall FC,2-3,0-2,Oldham Athletic,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Leeds United,3-2,2-1,Scunthorpe United,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Stockport County,1-1,0-1,Huddersfield Town,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Peterborough United,1-2,1-1,Southend United,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Cheltenham Town,0-1,0-1,Northampton Town,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Milton Keynes Dons,2-2,1-1,Leicester City,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Colchester United,1-1,1-0,Hartlepool United,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Hereford United,2-1,2-1,Leyton Orient,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Carlisle United,1-1,1-1,Bristol Rovers,2009-02-28T15:00Z
+34,Sat Feb 28 2009,15:00,GMT/+0000,Tranmere Rovers,1-0,0-0,Swindon Town,2009-02-28T15:00Z
+35,Mon Mar 2 2009,19:45,GMT/+0000,Oldham Athletic,1-1,0-0,Leeds United,2009-03-02T19:45Z
+35,Tue Mar 3 2009,19:30,GMT/+0000,Scunthorpe United,1-1,0-0,Walsall FC,2009-03-03T19:30Z
+35,Tue Mar 3 2009,19:45,GMT/+0000,Crewe Alexandra,1-2,1-1,Carlisle United,2009-03-03T19:45Z
+35,Tue Mar 3 2009,19:45,GMT/+0000,Hartlepool United,2-1,0-0,Tranmere Rovers,2009-03-03T19:45Z
+35,Tue Mar 3 2009,19:45,GMT/+0000,Huddersfield Town,2-2,0-1,Colchester United,2009-03-03T19:45Z
+35,Tue Mar 3 2009,19:45,GMT/+0000,Swindon Town,2-2,1-1,Cheltenham Town,2009-03-03T19:45Z
+35,Tue Mar 3 2009,19:45,GMT/+0000,Southend United,0-1,0-1,Millwall FC,2009-03-03T19:45Z
+35,Tue Mar 3 2009,19:45,GMT/+0000,Leyton Orient,2-3,1-3,Peterborough United,2009-03-03T19:45Z
+35,Tue Mar 3 2009,19:45,GMT/+0000,Leicester City,1-1,1-1,Stockport County,2009-03-03T19:45Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Yeovil Town,1-1,1-0,Carlisle United,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Hartlepool United,1-2,1-1,Peterborough United,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Crewe Alexandra,2-1,0-0,Hereford United,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Bristol Rovers,2-2,1-1,Leeds United,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Leicester City,4-0,2-0,Cheltenham Town,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Leyton Orient,2-1,1-1,Brighton & Hove Albion,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Northampton Town,1-1,0-1,Tranmere Rovers,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Oldham Athletic,0-1,0-1,Colchester United,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Scunthorpe United,2-1,2-1,Stockport County,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Southend United,2-0,0-0,Walsall FC,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Swindon Town,1-1,1-1,Milton Keynes Dons,2009-03-07T15:00Z
+36,Sat Mar 7 2009,15:00,GMT/+0000,Huddersfield Town,1-2,0-0,Millwall FC,2009-03-07T15:00Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Brighton & Hove Albion,1-3,1-1,Southend United,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Carlisle United,1-3,0-2,Leyton Orient,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Colchester United,3-2,2-1,Swindon Town,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Leeds United,4-0,2-0,Yeovil Town,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Millwall FC,1-0,1-0,Northampton Town,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Milton Keynes Dons,1-1,0-0,Huddersfield Town,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Peterborough United,2-1,0-1,Scunthorpe United,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Stockport County,2-1,0-0,Hartlepool United,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Walsall FC,1-1,0-0,Crewe Alexandra,2009-03-10T19:45Z
+37,Tue Mar 10 2009,19:45,GMT/+0000,Hereford United,0-3,0-2,Bristol Rovers,2009-03-10T19:45Z
+37,Wed Mar 11 2009,19:45,GMT/+0000,Tranmere Rovers,2-0,0-0,Leicester City,2009-03-11T19:45Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Peterborough United,1-0,1-0,Northampton Town,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Milton Keynes Dons,6-2,2-2,Oldham Athletic,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Millwall FC,0-1,0-1,Leicester City,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Leeds United,1-0,0-0,Swindon Town,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Hereford United,0-1,0-0,Southend United,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Colchester United,0-1,0-0,Crewe Alexandra,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Cheltenham Town,2-0,1-0,Hartlepool United,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Carlisle United,1-1,1-0,Scunthorpe United,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Brighton & Hove Albion,5-0,2-0,Yeovil Town,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Tranmere Rovers,3-1,1-1,Huddersfield Town,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Stockport County,0-1,0-0,Leyton Orient,2009-03-14T15:00Z
+38,Sat Mar 14 2009,15:00,GMT/+0000,Walsall FC,0-5,0-3,Bristol Rovers,2009-03-14T15:00Z
+31,Tue Mar 17 2009,19:45,GMT/+0000,Swindon Town,3-0,2-0,Southend United,2009-03-17T19:45Z
+25,Tue Mar 17 2009,19:30,GMT/+0000,Scunthorpe United,3-0,2-0,Hereford United,2009-03-17T19:30Z
+25,Tue Mar 17 2009,19:45,GMT/+0000,Walsall FC,3-0,3-0,Brighton & Hove Albion,2009-03-17T19:45Z
+27,Tue Mar 17 2009,19:45,GMT/+0000,Milton Keynes Dons,0-1,0-1,Millwall FC,2009-03-17T19:45Z
+30,Tue Mar 17 2009,19:45,GMT/+0000,Cheltenham Town,1-0,1-0,Tranmere Rovers,2009-03-17T19:45Z
+24,Tue Mar 17 2009,19:45,GMT/+0000,Crewe Alexandra,1-1,0-0,Bristol Rovers,2009-03-17T19:45Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Leicester City,1-1,0-1,Colchester United,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Hartlepool United,2-3,2-0,Millwall FC,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Yeovil Town,0-0,0-0,Milton Keynes Dons,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Swindon Town,3-0,1-0,Hereford United,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Bristol Rovers,0-1,0-0,Peterborough United,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Scunthorpe United,2-0,1-0,Brighton & Hove Albion,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Crewe Alexandra,2-3,0-3,Leeds United,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Oldham Athletic,0-2,0-0,Tranmere Rovers,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Northampton Town,4-0,2-0,Stockport County,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Leyton Orient,0-1,0-1,Walsall FC,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Southend United,3-0,1-0,Carlisle United,2009-03-21T15:00Z
+39,Sat Mar 21 2009,15:00,GMT/+0000,Huddersfield Town,2-2,1-2,Cheltenham Town,2009-03-21T15:00Z
+31,Tue Mar 24 2009,19:45,GMT/+0000,Milton Keynes Dons,2-2,2-0,Crewe Alexandra,2009-03-24T19:45Z
+30,Tue Mar 24 2009,19:45,GMT/+0000,Northampton Town,3-4,1-3,Swindon Town,2009-03-24T19:45Z
+30,Tue Mar 24 2009,19:45,GMT/+0000,Carlisle United,1-2,1-2,Hereford United,2009-03-24T19:45Z
+37,Tue Mar 24 2009,19:45,GMT/+0000,Cheltenham Town,1-1,1-0,Oldham Athletic,2009-03-24T19:45Z
+40,Fri Mar 27 2009,19:45,GMT/+0000,Southend United,3-2,3-1,Hartlepool United,2009-03-27T19:45Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Bristol Rovers,2-0,2-0,Stockport County,2009-03-28T15:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Carlisle United,1-1,1-1,Northampton Town,2009-03-28T15:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Crewe Alexandra,0-1,0-0,Millwall FC,2009-03-28T15:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Hereford United,0-1,0-0,Huddersfield Town,2009-03-28T15:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Leeds United,2-0,1-0,Milton Keynes Dons,2009-03-28T15:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Leyton Orient,2-1,0-1,Oldham Athletic,2009-03-28T15:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Walsall FC,1-1,0-1,Cheltenham Town,2009-03-28T15:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Yeovil Town,1-0,1-0,Swindon Town,2009-03-28T15:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Scunthorpe United,3-0,1-0,Colchester United,2009-03-28T15:00Z
+40,Sat Mar 28 2009,12:00,GMT/+0000,Peterborough United,2-0,1-0,Leicester City,2009-03-28T12:00Z
+40,Sat Mar 28 2009,15:00,GMT/+0000,Brighton & Hove Albion,0-0,0-0,Tranmere Rovers,2009-03-28T15:00Z
+31,Tue Mar 31 2009,19:45,BST/+0100,Bristol Rovers,1-2,0-0,Huddersfield Town,2009-03-31T18:45Z
+30,Tue Mar 31 2009,19:45,BST/+0100,Millwall FC,0-1,0-0,Colchester United,2009-03-31T18:45Z
+31,Tue Mar 31 2009,19:45,BST/+0100,Yeovil Town,1-0,0-0,Northampton Town,2009-03-31T18:45Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Milton Keynes Dons,2-0,2-0,Brighton & Hove Albion,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Stockport County,0-0,0-0,Yeovil Town,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Millwall FC,3-1,2-1,Walsall FC,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Swindon Town,0-0,0-0,Crewe Alexandra,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Oldham Athletic,1-2,1-1,Peterborough United,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Leicester City,2-2,0-1,Carlisle United,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Cheltenham Town,0-1,0-1,Leyton Orient,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Colchester United,0-1,0-1,Leeds United,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Hartlepool United,4-2,2-2,Hereford United,2009-04-04T14:00Z
+41,Sat Apr 4 2009,15:00,BST/+0100,Huddersfield Town,0-1,0-0,Southend United,2009-04-04T14:00Z
+41,Sun Apr 5 2009,15:00,BST/+0100,Tranmere Rovers,2-0,1-0,Bristol Rovers,2009-04-05T14:00Z
+30,Tue Apr 7 2009,19:45,BST/+0100,Leyton Orient,2-2,0-1,Leeds United,2009-04-07T18:45Z
+31,Tue Apr 7 2009,19:45,BST/+0100,Hereford United,1-2,0-1,Brighton & Hove Albion,2009-04-07T18:45Z
+42,Fri Apr 10 2009,15:00,BST/+0100,Carlisle United,1-1,1-0,Oldham Athletic,2009-04-10T14:00Z
+42,Fri Apr 10 2009,15:00,BST/+0100,Bristol Rovers,1-0,0-0,Northampton Town,2009-04-10T14:00Z
+42,Fri Apr 10 2009,15:00,BST/+0100,Peterborough United,1-1,1-0,Cheltenham Town,2009-04-10T14:00Z
+42,Fri Apr 10 2009,15:00,BST/+0100,Yeovil Town,2-0,1-0,Millwall FC,2009-04-10T14:00Z
+42,Fri Apr 10 2009,19:45,BST/+0100,Scunthorpe United,1-2,1-1,Huddersfield Town,2009-04-10T18:45Z
+42,Fri Apr 10 2009,13:00,BST/+0100,Southend United,0-2,0-0,Milton Keynes Dons,2009-04-10T12:00Z
+42,Sat Apr 11 2009,15:00,BST/+0100,Leeds United,1-0,1-0,Stockport County,2009-04-11T14:00Z
+42,Sat Apr 11 2009,15:00,BST/+0100,Hereford United,1-3,1-1,Leicester City,2009-04-11T14:00Z
+42,Sat Apr 11 2009,15:00,BST/+0100,Crewe Alexandra,0-0,0-0,Hartlepool United,2009-04-11T14:00Z
+42,Sat Apr 11 2009,15:00,BST/+0100,Brighton & Hove Albion,2-3,1-0,Swindon Town,2009-04-11T14:00Z
+42,Sat Apr 11 2009,15:00,BST/+0100,Leyton Orient,2-1,1-1,Colchester United,2009-04-11T14:00Z
+42,Sat Apr 11 2009,15:00,BST/+0100,Walsall FC,0-1,0-0,Tranmere Rovers,2009-04-11T14:00Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Cheltenham Town,1-0,0-0,Yeovil Town,2009-04-13T14:00Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Tranmere Rovers,2-1,2-0,Hereford United,2009-04-13T14:00Z
+43,Mon Apr 13 2009,19:45,BST/+0100,Millwall FC,2-0,1-0,Peterborough United,2009-04-13T18:45Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Swindon Town,0-1,0-1,Leyton Orient,2009-04-13T14:00Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Stockport County,1-2,0-1,Walsall FC,2009-04-13T14:00Z
+43,Mon Apr 13 2009,12:15,BST/+0100,Leicester City,1-0,0-0,Leeds United,2009-04-13T11:15Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Oldham Athletic,1-1,1-0,Crewe Alexandra,2009-04-13T14:00Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Colchester United,0-1,0-0,Brighton & Hove Albion,2009-04-13T14:00Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Hartlepool United,2-3,1-1,Scunthorpe United,2009-04-13T14:00Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Huddersfield Town,1-0,0-0,Carlisle United,2009-04-13T14:00Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Milton Keynes Dons,2-1,1-0,Bristol Rovers,2009-04-13T14:00Z
+43,Mon Apr 13 2009,15:00,BST/+0100,Northampton Town,2-3,0-1,Southend United,2009-04-13T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Hereford United,0-2,0-2,Colchester United,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Walsall FC,2-3,2-2,Huddersfield Town,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Southend United,0-2,0-0,Leicester City,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Scunthorpe United,0-1,0-1,Milton Keynes Dons,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Peterborough United,1-0,1-0,Stockport County,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Brighton & Hove Albion,3-1,2-0,Oldham Athletic,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Bristol Rovers,4-2,4-1,Millwall FC,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Carlisle United,1-1,1-0,Swindon Town,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Crewe Alexandra,1-2,1-0,Cheltenham Town,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Leyton Orient,1-3,1-0,Northampton Town,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Leeds United,3-1,2-1,Tranmere Rovers,2009-04-18T14:00Z
+44,Sat Apr 18 2009,15:00,BST/+0100,Yeovil Town,2-3,1-2,Hartlepool United,2009-04-18T14:00Z
+35,Tue Apr 21 2009,19:45,BST/+0100,Bristol Rovers,1-2,1-1,Brighton & Hove Albion,2009-04-21T18:45Z
+41,Tue Apr 21 2009,19:45,BST/+0100,Northampton Town,3-3,1-1,Scunthorpe United,2009-04-21T18:45Z
+35,Tue Apr 21 2009,19:45,BST/+0100,Yeovil Town,2-2,0-1,Hereford United,2009-04-21T18:45Z
+45,Fri Apr 24 2009,19:45,BST/+0100,Leicester City,2-2,1-0,Scunthorpe United,2009-04-24T18:45Z
+45,Fri Apr 24 2009,19:45,BST/+0100,Stockport County,4-3,1-1,Crewe Alexandra,2009-04-24T18:45Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Tranmere Rovers,1-1,0-0,Yeovil Town,2009-04-25T14:00Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Oldham Athletic,1-1,0-0,Southend United,2009-04-25T14:00Z
+45,Sat Apr 25 2009,12:00,BST/+0100,Swindon Town,2-1,1-1,Bristol Rovers,2009-04-25T11:00Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Cheltenham Town,1-1,0-1,Carlisle United,2009-04-25T14:00Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Colchester United,0-1,0-1,Peterborough United,2009-04-25T14:00Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Hartlepool United,0-1,0-0,Leeds United,2009-04-25T14:00Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Huddersfield Town,2-2,1-1,Brighton & Hove Albion,2009-04-25T14:00Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Millwall FC,2-1,0-0,Leyton Orient,2009-04-25T14:00Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Milton Keynes Dons,0-1,0-0,Walsall FC,2009-04-25T14:00Z
+45,Sat Apr 25 2009,15:00,BST/+0100,Northampton Town,2-1,1-0,Hereford United,2009-04-25T14:00Z
+35,Tue Apr 28 2009,19:45,BST/+0100,Northampton Town,0-1,0-1,Milton Keynes Dons,2009-04-28T18:45Z
+31,Tue Apr 28 2009,19:30,BST/+0100,Scunthorpe United,3-0,2-0,Cheltenham Town,2009-04-28T18:30Z
+46,Sat May 2 2009,15:00,BST/+0100,Brighton & Hove Albion,1-0,0-0,Stockport County,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Bristol Rovers,4-1,2-1,Hartlepool United,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Carlisle United,2-0,1-0,Millwall FC,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Crewe Alexandra,0-3,0-0,Leicester City,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Hereford United,0-1,0-0,Milton Keynes Dons,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Leeds United,3-0,1-0,Northampton Town,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Leyton Orient,1-1,0-1,Huddersfield Town,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Peterborough United,2-2,1-2,Swindon Town,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Scunthorpe United,1-1,0-1,Tranmere Rovers,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Southend United,2-0,0-0,Cheltenham Town,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Walsall FC,1-2,1-1,Oldham Athletic,2009-05-02T14:00Z
+46,Sat May 2 2009,15:00,BST/+0100,Yeovil Town,0-2,0-2,Colchester United,2009-05-02T14:00Z

@@ -1,0 +1,193 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Fri Jul 28 2023,20:30,CEST/+0200,Dukla Banská Bystrica,1-4,1-2,FK Železiarne Podbrezová,2023-07-28T18:30Z
+,1,Sat Jul 29 2023,18:00,CEST/+0200,MFK Zemplín Michalovce,0-0,0-0,FC DAC 1904,2023-07-29T16:00Z
+,1,Sat Jul 29 2023,20:30,CEST/+0200,FC Košice,0-0,0-0,Slovan Bratislava,2023-07-29T18:30Z
+,1,Sat Jul 29 2023,18:00,CEST/+0200,MFK Skalica,2-0,0-0,Zlaté Moravce,2023-07-29T16:00Z
+,1,Sun Jul 30 2023,18:00,CEST/+0200,MŠK Žilina,3-1,1-0,MFK Ružomberok,2023-07-30T16:00Z
+,1,Sun Jul 30 2023,18:00,CEST/+0200,Spartak Trnava,1-2,0-1,AS Trenčín,2023-07-30T16:00Z
+,2,Fri Aug 4 2023,20:30,CEST/+0200,MFK Ružomberok,2-1,0-1,MFK Skalica,2023-08-04T18:30Z
+,2,Sat Aug 5 2023,18:00,CEST/+0200,AS Trenčín,2-0,1-0,MFK Zemplín Michalovce,2023-08-05T16:00Z
+,2,Sat Aug 5 2023,18:00,CEST/+0200,FC DAC 1904,5-2,3-0,FC Košice,2023-08-05T16:00Z
+,2,Sat Aug 5 2023,18:00,CEST/+0200,Slovan Bratislava,2-2,1-1,Dukla Banská Bystrica,2023-08-05T16:00Z
+,2,Sun Aug 6 2023,18:00,CEST/+0200,Zlaté Moravce,1-1,0-0,Spartak Trnava,2023-08-06T16:00Z
+,2,Sun Aug 6 2023,20:30,CEST/+0200,FK Železiarne Podbrezová,2-0,0-0,MŠK Žilina,2023-08-06T18:30Z
+,3,Fri Aug 11 2023,20:30,CEST/+0200,MFK Zemplín Michalovce,0-3,0-2,Dukla Banská Bystrica,2023-08-11T18:30Z
+,3,Sat Aug 12 2023,18:00,CEST/+0200,FK Železiarne Podbrezová,1-0,1-0,Zlaté Moravce,2023-08-12T16:00Z
+,3,Sat Aug 12 2023,18:00,CEST/+0200,MFK Skalica,1-2,0-2,Slovan Bratislava,2023-08-12T16:00Z
+,3,Sat Aug 12 2023,18:00,CEST/+0200,MŠK Žilina,5-2,3-0,AS Trenčín,2023-08-12T16:00Z
+,3,Sat Aug 12 2023,18:00,CEST/+0200,MFK Ružomberok,1-1,1-0,FC DAC 1904,2023-08-12T16:00Z
+,4,Fri Aug 18 2023,20:30,CEST/+0200,Dukla Banská Bystrica,2-1,1-1,MFK Skalica,2023-08-18T18:30Z
+,4,Sat Aug 19 2023,18:00,CEST/+0200,AS Trenčín,4-1,4-0,MFK Ružomberok,2023-08-19T16:00Z
+,4,Sat Aug 19 2023,18:00,CEST/+0200,FC Košice,0-3,0-2,MŠK Žilina,2023-08-19T16:00Z
+,4,Sun Aug 20 2023,20:30,CEST/+0200,Zlaté Moravce,0-2,0-1,FC DAC 1904,2023-08-20T18:30Z
+,4,Sun Aug 20 2023,18:00,CEST/+0200,Spartak Trnava,2-0,1-0,FK Železiarne Podbrezová,2023-08-20T16:00Z
+,5,Fri Aug 25 2023,20:30,CEST/+0200,MFK Zemplín Michalovce,0-2,0-2,FC Košice,2023-08-25T18:30Z
+,5,Sat Aug 26 2023,18:00,CEST/+0200,MŠK Žilina,3-2,1-2,Zlaté Moravce,2023-08-26T16:00Z
+,5,Sat Aug 26 2023,18:00,CEST/+0200,FC DAC 1904,1-2,0-0,Dukla Banská Bystrica,2023-08-26T16:00Z
+,5,Sat Aug 26 2023,18:00,CEST/+0200,FK Železiarne Podbrezová,2-2,1-1,AS Trenčín,2023-08-26T16:00Z
+,5,Sun Aug 27 2023,20:30,CEST/+0200,MFK Skalica,0-0,0-0,Spartak Trnava,2023-08-27T18:30Z
+,6,Fri Sep 1 2023,17:30,CEST/+0200,Dukla Banská Bystrica,1-1,1-0,MFK Ružomberok,2023-09-01T15:30Z
+,6,Sat Sep 2 2023,18:00,CEST/+0200,AS Trenčín,1-0,0-0,FC DAC 1904,2023-09-02T16:00Z
+,6,Sat Sep 2 2023,18:00,CEST/+0200,MFK Skalica,2-1,0-1,MFK Zemplín Michalovce,2023-09-02T16:00Z
+,6,Sat Sep 2 2023,15:30,CEST/+0200,FC Košice,1-0,1-0,Zlaté Moravce,2023-09-02T13:30Z
+,6,Sun Sep 3 2023,18:00,CEST/+0200,Slovan Bratislava,3-2,1-0,FK Železiarne Podbrezová,2023-09-03T16:00Z
+,6,Sun Sep 3 2023,17:30,CEST/+0200,Spartak Trnava,0-2,0-0,MŠK Žilina,2023-09-03T15:30Z
+,7,Fri Sep 15 2023,17:30,CEST/+0200,FK Železiarne Podbrezová,1-0,0-0,MFK Skalica,2023-09-15T15:30Z
+,7,Sat Sep 16 2023,18:00,CEST/+0200,MFK Ružomberok,1-0,1-0,FC Košice,2023-09-16T16:00Z
+,7,Sat Sep 16 2023,18:00,CEST/+0200,MFK Zemplín Michalovce,3-4,1-4,Spartak Trnava,2023-09-16T16:00Z
+,7,Sat Sep 16 2023,18:00,CEST/+0200,MŠK Žilina,1-4,0-3,Dukla Banská Bystrica,2023-09-16T16:00Z
+,7,Sun Sep 17 2023,18:00,CEST/+0200,Zlaté Moravce,1-2,0-1,AS Trenčín,2023-09-17T16:00Z
+,7,Sun Sep 17 2023,17:30,CEST/+0200,FC DAC 1904,3-1,2-0,Slovan Bratislava,2023-09-17T15:30Z
+,8,Fri Sep 22 2023,17:30,CEST/+0200,FC Košice,0-3,0-2,AS Trenčín,2023-09-22T15:30Z
+,8,Sat Sep 23 2023,18:00,CEST/+0200,MFK Zemplín Michalovce,1-5,1-2,FK Železiarne Podbrezová,2023-09-23T16:00Z
+,8,Sat Sep 23 2023,18:00,CEST/+0200,Dukla Banská Bystrica,1-1,0-1,Zlaté Moravce,2023-09-23T16:00Z
+,8,Sat Sep 23 2023,18:00,CEST/+0200,MFK Skalica,0-1,0-1,FC DAC 1904,2023-09-23T16:00Z
+,8,Sun Sep 24 2023,17:30,CEST/+0200,Slovan Bratislava,2-0,1-0,MŠK Žilina,2023-09-24T15:30Z
+,8,Sun Sep 24 2023,18:00,CEST/+0200,Spartak Trnava,2-2,1-0,MFK Ružomberok,2023-09-24T16:00Z
+,3,Wed Sep 27 2023,20:30,CEST/+0200,Spartak Trnava,3-0,1-0,FC Košice,2023-09-27T18:30Z
+,5,Wed Sep 27 2023,18:00,CEST/+0200,MFK Ružomberok,1-2,0-0,Slovan Bratislava,2023-09-27T16:00Z
+,9,Fri Sep 29 2023,17:30,CEST/+0200,MŠK Žilina,5-3,2-0,MFK Skalica,2023-09-29T15:30Z
+,9,Sat Sep 30 2023,18:00,CEST/+0200,AS Trenčín,1-0,0-0,Dukla Banská Bystrica,2023-09-30T16:00Z
+,9,Sat Sep 30 2023,18:00,CEST/+0200,MFK Ružomberok,0-0,0-0,MFK Zemplín Michalovce,2023-09-30T16:00Z
+,9,Sun Oct 1 2023,18:00,CEST/+0200,Zlaté Moravce,0-3,0-1,Slovan Bratislava,2023-10-01T16:00Z
+,9,Sun Oct 1 2023,17:30,CEST/+0200,FK Železiarne Podbrezová,5-3,2-1,FC Košice,2023-10-01T15:30Z
+,9,Sun Oct 1 2023,18:00,CEST/+0200,FC DAC 1904,0-1,0-0,Spartak Trnava,2023-10-01T16:00Z
+,10,Fri Oct 6 2023,17:30,CEST/+0200,MFK Ružomberok,2-0,1-0,Zlaté Moravce,2023-10-06T15:30Z
+,10,Sat Oct 7 2023,18:00,CEST/+0200,MFK Skalica,1-0,1-0,FC Košice,2023-10-07T16:00Z
+,10,Sat Oct 7 2023,18:00,CEST/+0200,MFK Zemplín Michalovce,1-1,0-0,MŠK Žilina,2023-10-07T16:00Z
+,10,Sun Oct 8 2023,18:00,CEST/+0200,Slovan Bratislava,2-0,1-0,AS Trenčín,2023-10-08T16:00Z
+,10,Sun Oct 8 2023,17:30,CEST/+0200,FC DAC 1904,3-2,1-0,FK Železiarne Podbrezová,2023-10-08T15:30Z
+,10,Sun Oct 8 2023,18:00,CEST/+0200,Dukla Banská Bystrica,1-2,0-1,Spartak Trnava,2023-10-08T16:00Z
+,11,Fri Oct 20 2023,17:30,CEST/+0200,Zlaté Moravce,2-2,1-0,MFK Zemplín Michalovce,2023-10-20T15:30Z
+,11,Sat Oct 21 2023,18:00,CEST/+0200,AS Trenčín,0-0,0-0,MFK Skalica,2023-10-21T16:00Z
+,11,Sat Oct 21 2023,18:00,CEST/+0200,FK Železiarne Podbrezová,5-0,4-0,MFK Ružomberok,2023-10-21T16:00Z
+,11,Sat Oct 21 2023,18:00,CEST/+0200,FC Košice,2-4,2-1,Dukla Banská Bystrica,2023-10-21T16:00Z
+,11,Sat Oct 21 2023,18:00,CEST/+0200,MŠK Žilina,5-1,3-1,FC DAC 1904,2023-10-21T16:00Z
+,11,Sun Oct 22 2023,17:30,CEST/+0200,Spartak Trnava,1-2,0-0,Slovan Bratislava,2023-10-22T15:30Z
+,12,Fri Oct 27 2023,17:30,CEST/+0200,FK Železiarne Podbrezová,2-2,1-2,Dukla Banská Bystrica,2023-10-27T15:30Z
+,12,Sat Oct 28 2023,18:00,CEST/+0200,Zlaté Moravce,0-1,0-0,MFK Skalica,2023-10-28T16:00Z
+,12,Sat Oct 28 2023,16:30,CEST/+0200,FC DAC 1904,2-1,1-1,MFK Zemplín Michalovce,2023-10-28T14:30Z
+,12,Sat Oct 28 2023,18:00,CEST/+0200,MFK Ružomberok,0-2,0-1,MŠK Žilina,2023-10-28T16:00Z
+,12,Sun Oct 29 2023,18:00,CET/+0100,Slovan Bratislava,4-0,3-0,FC Košice,2023-10-29T17:00Z
+,12,Sun Oct 29 2023,17:30,CET/+0100,AS Trenčín,2-3,1-1,Spartak Trnava,2023-10-29T16:30Z
+,4,Wed Nov 1 2023,15:00,CET/+0100,Slovan Bratislava,5-1,4-1,MFK Zemplín Michalovce,2023-11-01T14:00Z
+,13,Fri Nov 3 2023,17:30,CET/+0100,FC Košice,0-3,0-2,FC DAC 1904,2023-11-03T16:30Z
+,13,Sat Nov 4 2023,15:00,CET/+0100,MFK Skalica,1-0,1-0,MFK Ružomberok,2023-11-04T14:00Z
+,13,Sat Nov 4 2023,15:00,CET/+0100,MFK Zemplín Michalovce,0-0,0-0,AS Trenčín,2023-11-04T14:00Z
+,13,Sat Nov 4 2023,15:00,CET/+0100,Spartak Trnava,1-0,1-0,Zlaté Moravce,2023-11-04T14:00Z
+,13,Sat Nov 4 2023,15:00,CET/+0100,Dukla Banská Bystrica,1-4,1-1,Slovan Bratislava,2023-11-04T14:00Z
+,13,Sun Nov 5 2023,17:30,CET/+0100,MŠK Žilina,2-1,2-0,FK Železiarne Podbrezová,2023-11-05T16:30Z
+,14,Fri Nov 10 2023,17:30,CET/+0100,AS Trenčín,0-0,0-0,MŠK Žilina,2023-11-10T16:30Z
+,14,Sat Nov 11 2023,15:00,CET/+0100,FC DAC 1904,1-1,0-0,MFK Ružomberok,2023-11-11T14:00Z
+,14,Sat Nov 11 2023,15:00,CET/+0100,Zlaté Moravce,0-2,0-0,FK Železiarne Podbrezová,2023-11-11T14:00Z
+,14,Sat Nov 11 2023,15:00,CET/+0100,Dukla Banská Bystrica,3-1,2-0,MFK Zemplín Michalovce,2023-11-11T14:00Z
+,14,Sun Nov 12 2023,17:30,CET/+0100,FC Košice,0-2,0-0,Spartak Trnava,2023-11-12T16:30Z
+,14,Sun Nov 12 2023,15:00,CET/+0100,Slovan Bratislava,1-0,0-0,MFK Skalica,2023-11-12T14:00Z
+,15,Fri Nov 24 2023,17:30,CET/+0100,MFK Ružomberok,1-0,1-0,AS Trenčín,2023-11-24T16:30Z
+,15,Sat Nov 25 2023,15:00,CET/+0100,MFK Skalica,0-3,0-2,Dukla Banská Bystrica,2023-11-25T14:00Z
+,15,Sat Nov 25 2023,15:00,CET/+0100,MFK Zemplín Michalovce,0-2,0-2,Slovan Bratislava,2023-11-25T14:00Z
+,15,Sat Nov 25 2023,15:00,CET/+0100,MŠK Žilina,1-0,0-0,FC Košice,2023-11-25T14:00Z
+,15,Sat Nov 25 2023,15:00,CET/+0100,FC DAC 1904,3-0,2-0,Zlaté Moravce,2023-11-25T14:00Z
+,15,Sun Nov 26 2023,17:30,CET/+0100,FK Železiarne Podbrezová,1-2,1-0,Spartak Trnava,2023-11-26T16:30Z
+,16,Fri Dec 1 2023,17:30,CET/+0100,FC Košice,2-1,1-0,MFK Zemplín Michalovce,2023-12-01T16:30Z
+,16,Sat Dec 2 2023,15:00,CET/+0100,Dukla Banská Bystrica,0-0,0-0,FC DAC 1904,2023-12-02T14:00Z
+,16,Sat Dec 2 2023,15:00,CET/+0100,Zlaté Moravce,1-2,0-2,MŠK Žilina,2023-12-02T14:00Z
+,16,Sat Dec 2 2023,15:00,CET/+0100,AS Trenčín,1-2,0-2,FK Železiarne Podbrezová,2023-12-02T14:00Z
+,16,Sun Dec 3 2023,17:30,CET/+0100,Slovan Bratislava,2-2,1-2,MFK Ružomberok,2023-12-03T16:30Z
+,16,Sun Dec 3 2023,15:00,CET/+0100,Spartak Trnava,2-0,0-0,MFK Skalica,2023-12-03T14:00Z
+,17,Fri Dec 8 2023,17:30,CET/+0100,MŠK Žilina,1-0,1-0,Spartak Trnava,2023-12-08T16:30Z
+,17,Sat Dec 9 2023,15:00,CET/+0100,MFK Zemplín Michalovce,1-1,1-1,MFK Skalica,2023-12-09T14:00Z
+,17,Sat Dec 9 2023,15:00,CET/+0100,Zlaté Moravce,1-1,1-1,FC Košice,2023-12-09T14:00Z
+,17,Sat Dec 9 2023,15:00,CET/+0100,FK Železiarne Podbrezová,0-6,0-4,Slovan Bratislava,2023-12-09T14:00Z
+,17,Sun Dec 10 2023,17:30,CET/+0100,FC DAC 1904,0-0,0-0,AS Trenčín,2023-12-10T16:30Z
+,17,Sun Dec 10 2023,15:00,CET/+0100,MFK Ružomberok,2-1,0-1,Dukla Banská Bystrica,2023-12-10T14:00Z
+,18,Fri Dec 15 2023,17:30,CET/+0100,MFK Skalica,3-0,2-0,FK Železiarne Podbrezová,2023-12-15T16:30Z
+,18,Sat Dec 16 2023,15:00,CET/+0100,AS Trenčín,4-1,2-0,Zlaté Moravce,2023-12-16T14:00Z
+,18,Sat Dec 16 2023,15:00,CET/+0100,Dukla Banská Bystrica,3-1,0-0,MŠK Žilina,2023-12-16T14:00Z
+,18,Sat Dec 16 2023,15:00,CET/+0100,FC Košice,2-2,0-1,MFK Ružomberok,2023-12-16T14:00Z
+,18,Sun Dec 17 2023,17:30,CET/+0100,Slovan Bratislava,2-1,1-1,FC DAC 1904,2023-12-17T16:30Z
+,18,Sun Dec 17 2023,15:00,CET/+0100,Spartak Trnava,1-0,1-0,MFK Zemplín Michalovce,2023-12-17T14:00Z
+,19,Fri Feb 9 2024,17:30,CET/+0100,MŠK Žilina,0-4,0-2,Slovan Bratislava,2024-02-09T16:30Z
+,19,Sat Feb 10 2024,15:00,CET/+0100,FC DAC 1904,1-0,0-0,MFK Skalica,2024-02-10T14:00Z
+,19,Sat Feb 10 2024,15:00,CET/+0100,FK Železiarne Podbrezová,2-1,1-0,MFK Zemplín Michalovce,2024-02-10T14:00Z
+,19,Sat Feb 10 2024,15:00,CET/+0100,MFK Ružomberok,1-0,1-0,Spartak Trnava,2024-02-10T14:00Z
+,19,Sat Feb 10 2024,15:00,CET/+0100,Zlaté Moravce,0-2,0-0,Dukla Banská Bystrica,2024-02-10T14:00Z
+,19,Sun Feb 11 2024,17:30,CET/+0100,AS Trenčín,4-1,2-0,FC Košice,2024-02-11T16:30Z
+,20,Fri Feb 16 2024,17:30,CET/+0100,Dukla Banská Bystrica,1-1,0-0,AS Trenčín,2024-02-16T16:30Z
+,20,Sat Feb 17 2024,15:00,CET/+0100,MFK Skalica,1-1,1-1,MŠK Žilina,2024-02-17T14:00Z
+,20,Sat Feb 17 2024,15:00,CET/+0100,MFK Zemplín Michalovce,0-1,0-1,MFK Ružomberok,2024-02-17T14:00Z
+,20,Sat Feb 17 2024,15:00,CET/+0100,FC Košice,0-0,0-0,FK Železiarne Podbrezová,2024-02-17T14:00Z
+,20,Sun Feb 18 2024,15:00,CET/+0100,Slovan Bratislava,4-1,2-0,Zlaté Moravce,2024-02-18T14:00Z
+,20,Sun Feb 18 2024,17:30,CET/+0100,Spartak Trnava,1-2,0-1,FC DAC 1904,2024-02-18T16:30Z
+,21,Fri Feb 23 2024,17:30,CET/+0100,FC Košice,2-1,2-1,MFK Skalica,2024-02-23T16:30Z
+,21,Sat Feb 24 2024,15:00,CET/+0100,Spartak Trnava,2-0,2-0,Dukla Banská Bystrica,2024-02-24T14:00Z
+,21,Sat Feb 24 2024,15:00,CET/+0100,Zlaté Moravce,2-4,2-2,MFK Ružomberok,2024-02-24T14:00Z
+,21,Sat Feb 24 2024,15:00,CET/+0100,MŠK Žilina,1-1,0-1,MFK Zemplín Michalovce,2024-02-24T14:00Z
+,21,Sun Feb 25 2024,17:30,CET/+0100,FK Železiarne Podbrezová,0-0,0-0,FC DAC 1904,2024-02-25T16:30Z
+,21,Sun Feb 25 2024,15:00,CET/+0100,AS Trenčín,0-2,0-0,Slovan Bratislava,2024-02-25T14:00Z
+,22,Sat Mar 2 2024,17:00,CET/+0100,Dukla Banská Bystrica,1-1,1-0,FC Košice,2024-03-02T16:00Z
+,22,Sat Mar 2 2024,17:00,CET/+0100,FC DAC 1904,1-1,0-1,MŠK Žilina,2024-03-02T16:00Z
+,22,Sat Mar 2 2024,17:00,CET/+0100,MFK Ružomberok,2-1,1-0,FK Železiarne Podbrezová,2024-03-02T16:00Z
+,22,Sat Mar 2 2024,17:00,CET/+0100,MFK Skalica,0-0,0-0,AS Trenčín,2024-03-02T16:00Z
+,22,Sat Mar 2 2024,17:00,CET/+0100,MFK Zemplín Michalovce,4-1,1-1,Zlaté Moravce,2024-03-02T16:00Z
+,22,Sat Mar 2 2024,17:00,CET/+0100,Slovan Bratislava,2-0,1-0,Spartak Trnava,2024-03-02T16:00Z
+Championship,1,Fri Mar 8 2024,17:30,CET/+0100,MFK Ružomberok,0-1,0-1,Slovan Bratislava,2024-03-08T16:30Z
+Championship,1,Sat Mar 9 2024,17:30,CET/+0100,MŠK Žilina,3-2,3-0,FK Železiarne Podbrezová,2024-03-09T16:30Z
+Playoffs - Relegation,1,Sat Mar 9 2024,15:00,CET/+0100,MFK Skalica,1-2,0-1,Dukla Banská Bystrica,2024-03-09T14:00Z
+Playoffs - Relegation,1,Sat Mar 9 2024,15:00,CET/+0100,FC Košice,0-0,0-0,AS Trenčín,2024-03-09T14:00Z
+Playoffs - Relegation,1,Sat Mar 9 2024,15:00,CET/+0100,Zlaté Moravce,0-2,0-0,MFK Zemplín Michalovce,2024-03-09T14:00Z
+Championship,1,Sun Mar 10 2024,17:30,CET/+0100,Spartak Trnava,3-0,1-0,FC DAC 1904,2024-03-10T16:30Z
+Playoffs - Relegation,2,Fri Mar 15 2024,17:30,CET/+0100,MFK Zemplín Michalovce,1-0,1-0,FC Košice,2024-03-15T16:30Z
+Playoffs - Relegation,2,Sat Mar 16 2024,15:00,CET/+0100,Dukla Banská Bystrica,0-0,0-0,Zlaté Moravce,2024-03-16T14:00Z
+Playoffs - Relegation,2,Sat Mar 16 2024,15:00,CET/+0100,AS Trenčín,1-3,1-3,MFK Skalica,2024-03-16T14:00Z
+Championship,2,Sat Mar 16 2024,17:30,CET/+0100,FC DAC 1904,2-1,0-0,MŠK Žilina,2024-03-16T16:30Z
+Championship,2,Sat Mar 16 2024,15:00,CET/+0100,FK Železiarne Podbrezová,0-2,0-0,MFK Ružomberok,2024-03-16T14:00Z
+Championship,2,Sun Mar 17 2024,17:30,CET/+0100,Slovan Bratislava,0-2,0-1,Spartak Trnava,2024-03-17T16:30Z
+Championship,3,Fri Mar 29 2024,17:30,CET/+0100,MFK Ružomberok,1-1,0-1,FC DAC 1904,2024-03-29T16:30Z
+Championship,3,Sat Mar 30 2024,17:30,CET/+0100,Slovan Bratislava,2-1,1-1,FK Železiarne Podbrezová,2024-03-30T16:30Z
+Playoffs - Relegation,3,Sat Mar 30 2024,15:00,CET/+0100,Zlaté Moravce,1-2,0-1,FC Košice,2024-03-30T14:00Z
+Playoffs - Relegation,3,Sat Mar 30 2024,15:00,CET/+0100,Dukla Banská Bystrica,4-2,2-1,AS Trenčín,2024-03-30T14:00Z
+Playoffs - Relegation,3,Sat Mar 30 2024,15:00,CET/+0100,MFK Skalica,0-0,0-0,MFK Zemplín Michalovce,2024-03-30T14:00Z
+Championship,3,Sun Mar 31 2024,17:30,CEST/+0200,Spartak Trnava,1-0,1-0,MŠK Žilina,2024-03-31T15:30Z
+Championship,4,Fri Apr 5 2024,17:30,CEST/+0200,MŠK Žilina,0-3,0-1,Slovan Bratislava,2024-04-05T15:30Z
+Playoffs - Relegation,4,Sat Apr 6 2024,18:00,CEST/+0200,MFK Skalica,4-1,2-1,Zlaté Moravce,2024-04-06T16:00Z
+Championship,4,Sat Apr 6 2024,15:00,CEST/+0200,MFK Ružomberok,2-1,0-0,Spartak Trnava,2024-04-06T13:00Z
+Playoffs - Relegation,4,Sat Apr 6 2024,18:00,CEST/+0200,FC Košice,0-1,0-0,Dukla Banská Bystrica,2024-04-06T16:00Z
+Playoffs - Relegation,4,Sat Apr 6 2024,18:00,CEST/+0200,MFK Zemplín Michalovce,0-0,0-0,AS Trenčín,2024-04-06T16:00Z
+Championship,4,Sun Apr 7 2024,17:30,CEST/+0200,FC DAC 1904,3-1,3-1,FK Železiarne Podbrezová,2024-04-07T15:30Z
+Championship,5,Fri Apr 12 2024,17:30,CEST/+0200,MŠK Žilina,0-0,0-0,MFK Ružomberok,2024-04-12T15:30Z
+Playoffs - Relegation,5,Sat Apr 13 2024,18:00,CEST/+0200,AS Trenčín,4-0,2-0,Zlaté Moravce,2024-04-13T16:00Z
+Championship,5,Sat Apr 13 2024,15:30,CEST/+0200,Slovan Bratislava,0-0,0-0,FC DAC 1904,2024-04-13T13:30Z
+Playoffs - Relegation,5,Sat Apr 13 2024,18:00,CEST/+0200,FC Košice,1-2,0-1,MFK Skalica,2024-04-13T16:00Z
+Playoffs - Relegation,5,Sat Apr 13 2024,18:00,CEST/+0200,Dukla Banská Bystrica,0-1,0-0,MFK Zemplín Michalovce,2024-04-13T16:00Z
+Championship,5,Sun Apr 14 2024,17:30,CEST/+0200,FK Železiarne Podbrezová,0-2,0-1,Spartak Trnava,2024-04-14T15:30Z
+Playoffs - Relegation,6,Fri Apr 19 2024,17:30,CEST/+0200,AS Trenčín,1-2,0-0,FC Košice,2024-04-19T15:30Z
+Playoffs - Relegation,6,Sat Apr 20 2024,18:00,CEST/+0200,MFK Zemplín Michalovce,1-3,1-1,MFK Skalica,2024-04-20T16:00Z
+Playoffs - Relegation,6,Sat Apr 20 2024,18:00,CEST/+0200,Zlaté Moravce,0-1,0-0,Dukla Banská Bystrica,2024-04-20T16:00Z
+Championship,6,Sat Apr 20 2024,15:30,CEST/+0200,FK Železiarne Podbrezová,1-2,0-1,MŠK Žilina,2024-04-20T13:30Z
+Championship,6,Sat Apr 20 2024,18:00,CEST/+0200,FC DAC 1904,0-0,0-0,MFK Ružomberok,2024-04-20T16:00Z
+Championship,6,Sun Apr 21 2024,17:30,CEST/+0200,Spartak Trnava,1-2,1-0,Slovan Bratislava,2024-04-21T15:30Z
+Playoffs - Relegation,7,Fri Apr 26 2024,17:30,CEST/+0200,MFK Zemplín Michalovce,2-0,0-0,Dukla Banská Bystrica,2024-04-26T15:30Z
+Championship,7,Sat Apr 27 2024,15:30,CEST/+0200,MŠK Žilina,2-0,1-0,Spartak Trnava,2024-04-27T13:30Z
+Playoffs - Relegation,7,Sat Apr 27 2024,18:00,CEST/+0200,MFK Skalica,0-4,0-3,AS Trenčín,2024-04-27T16:00Z
+Playoffs - Relegation,7,Sat Apr 27 2024,18:00,CEST/+0200,FC Košice,0-2,0-1,Zlaté Moravce,2024-04-27T16:00Z
+Championship,7,Sat Apr 27 2024,18:00,CEST/+0200,MFK Ružomberok,3-2,2-1,FK Železiarne Podbrezová,2024-04-27T16:00Z
+Championship,7,Sun Apr 28 2024,17:30,CEST/+0200,FC DAC 1904,5-3,3-0,Slovan Bratislava,2024-04-28T15:30Z
+Playoffs - Relegation,8,Fri May 3 2024,17:30,CEST/+0200,Dukla Banská Bystrica,2-1,1-1,FC Košice,2024-05-03T15:30Z
+Playoffs - Relegation,8,Sat May 4 2024,18:00,CEST/+0200,Zlaté Moravce,1-0,1-0,MFK Skalica,2024-05-04T16:00Z
+Championship,8,Sat May 4 2024,18:00,CEST/+0200,Slovan Bratislava,2-3,1-2,MŠK Žilina,2024-05-04T16:00Z
+Championship,8,Sat May 4 2024,15:30,CEST/+0200,Spartak Trnava,1-0,1-0,MFK Ružomberok,2024-05-04T13:30Z
+Playoffs - Relegation,8,Sat May 4 2024,18:00,CEST/+0200,AS Trenčín,1-0,1-0,MFK Zemplín Michalovce,2024-05-04T16:00Z
+Championship,8,Sun May 5 2024,17:30,CEST/+0200,FK Železiarne Podbrezová,0-3,0-0,FC DAC 1904,2024-05-05T15:30Z
+Championship,9,Sat May 11 2024,15:30,CEST/+0200,FK Železiarne Podbrezová,2-1,1-0,Slovan Bratislava,2024-05-11T13:30Z
+Championship,9,Sat May 11 2024,17:30,CEST/+0200,MFK Ružomberok,1-1,1-0,MŠK Žilina,2024-05-11T15:30Z
+Playoffs - Relegation,9,Sat May 11 2024,18:00,CEST/+0200,AS Trenčín,2-0,1-0,Dukla Banská Bystrica,2024-05-11T16:00Z
+Playoffs - Relegation,9,Sat May 11 2024,18:00,CEST/+0200,MFK Skalica,1-0,1-0,FC Košice,2024-05-11T16:00Z
+Playoffs - Relegation,9,Sat May 11 2024,18:00,CEST/+0200,MFK Zemplín Michalovce,3-0,2-0,Zlaté Moravce,2024-05-11T16:00Z
+Championship,9,Sun May 12 2024,17:30,CEST/+0200,FC DAC 1904,1-0,0-0,Spartak Trnava,2024-05-12T15:30Z
+Championship,10,Sat May 18 2024,17:00,CEST/+0200,Spartak Trnava,5-0,1-0,FK Železiarne Podbrezová,2024-05-18T15:00Z
+Championship,10,Sat May 18 2024,17:00,CEST/+0200,Slovan Bratislava,5-1,3-1,MFK Ružomberok,2024-05-18T15:00Z
+Playoffs - Relegation,10,Sat May 18 2024,17:00,CEST/+0200,Zlaté Moravce,2-2,1-0,AS Trenčín,2024-05-18T15:00Z
+Playoffs - Relegation,10,Sat May 18 2024,17:00,CEST/+0200,Dukla Banská Bystrica,2-2,1-0,MFK Skalica,2024-05-18T15:00Z
+Playoffs - Relegation,10,Sat May 18 2024,17:00,CEST/+0200,FC Košice,2-0,1-0,MFK Zemplín Michalovce,2024-05-18T15:00Z
+Championship,10,Sat May 18 2024,17:00,CEST/+0200,MŠK Žilina,2-3,1-0,FC DAC 1904,2024-05-18T15:00Z

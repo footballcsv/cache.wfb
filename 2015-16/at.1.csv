@@ -1,181 +1,181 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Sat Jul 25 2015,16:00,SV Mattersburg,2-1,1-0,RB Salzburg
-1,Sat Jul 25 2015,18:30,Sturm Graz,1-1,0-1,FC Admira Wacker
-1,Sat Jul 25 2015,18:30,Rapid Wien,3-0,0-0,SV Ried
-1,Sat Jul 25 2015,18:30,SV Grödig,2-1,0-1,SCR Altach
-1,Sun Jul 26 2015,16:30,Wolfsberger AC,0-2,0-1,Austria Wien
-2,Sat Aug 1 2015,16:00,RB Salzburg,1-2,0-2,Rapid Wien
-2,Sat Aug 1 2015,18:30,FC Admira Wacker,2-1,1-0,SV Mattersburg
-2,Sun Aug 2 2015,16:30,SV Ried,0-0,0-0,Wolfsberger AC
-2,Sun Aug 2 2015,16:30,Austria Wien,3-1,1-1,SCR Altach
-2,Sun Aug 2 2015,19:00,Sturm Graz,1-1,0-1,SV Grödig
-3,Sat Aug 8 2015,16:00,SV Grödig,2-2,0-0,Austria Wien
-3,Sat Aug 8 2015,18:30,SV Mattersburg,4-1,3-1,SV Ried
-3,Sat Aug 8 2015,18:30,FC Admira Wacker,2-2,2-2,RB Salzburg
-3,Sun Aug 9 2015,16:30,SCR Altach,0-1,0-0,Sturm Graz
-3,Sun Aug 9 2015,19:00,Rapid Wien,2-1,0-1,Wolfsberger AC
-4,Tue Aug 11 2015,18:30,SV Ried,1-4,0-4,RB Salzburg
-4,Wed Aug 12 2015,20:30,Wolfsberger AC,0-2,0-2,Sturm Graz
-4,Wed Aug 12 2015,20:30,SCR Altach,3-1,2-0,SV Mattersburg
-4,Wed Aug 12 2015,20:30,SV Grödig,2-3,1-1,FC Admira Wacker
-4,Wed Aug 12 2015,20:30,Austria Wien,2-5,1-3,Rapid Wien
-5,Sat Aug 15 2015,16:00,Austria Wien,5-1,3-1,SV Mattersburg
-5,Sat Aug 15 2015,18:30,FC Admira Wacker,3-1,2-0,SV Ried
-5,Sat Aug 15 2015,18:30,Wolfsberger AC,3-2,3-2,SV Grödig
-5,Sat Aug 15 2015,18:30,RB Salzburg,2-0,1-0,SCR Altach
-5,Sun Aug 16 2015,16:30,Sturm Graz,2-2,2-0,Rapid Wien
-6,Sat Aug 22 2015,16:00,Rapid Wien,3-0,0-0,SV Grödig
-6,Sat Aug 22 2015,18:30,SV Ried,1-0,0-0,Sturm Graz
-6,Sat Aug 22 2015,18:30,SV Mattersburg,1-0,0-0,Wolfsberger AC
-6,Sun Aug 23 2015,16:30,RB Salzburg,2-2,1-1,Austria Wien
-6,Sun Aug 23 2015,19:00,SCR Altach,1-2,0-1,FC Admira Wacker
-7,Sat Aug 29 2015,16:00,FC Admira Wacker,0-1,0-0,Austria Wien
-7,Sat Aug 29 2015,18:30,Rapid Wien,2-4,0-1,SV Mattersburg
-7,Sat Aug 29 2015,18:30,SV Grödig,4-1,2-1,SV Ried
-7,Sun Aug 30 2015,16:30,Sturm Graz,2-3,0-1,RB Salzburg
-7,Sun Aug 30 2015,19:00,Wolfsberger AC,0-2,0-2,SCR Altach
-8,Sat Sep 12 2015,16:00,SCR Altach,2-0,0-0,Rapid Wien
-8,Sat Sep 12 2015,18:30,RB Salzburg,4-2,1-2,SV Grödig
-8,Sat Sep 12 2015,18:30,Austria Wien,1-1,1-0,SV Ried
-8,Sat Sep 12 2015,18:30,FC Admira Wacker,1-0,1-0,Wolfsberger AC
-8,Sun Sep 13 2015,16:30,SV Mattersburg,2-0,0-0,Sturm Graz
-9,Sat Sep 19 2015,16:00,Sturm Graz,2-0,0-0,Austria Wien
-9,Sat Sep 19 2015,18:30,Wolfsberger AC,1-1,1-0,RB Salzburg
-9,Sat Sep 19 2015,18:30,SV Ried,2-0,1-0,SCR Altach
-9,Sat Sep 19 2015,18:30,SV Grödig,1-1,1-1,SV Mattersburg
-9,Sun Sep 20 2015,16:30,Rapid Wien,2-0,1-0,FC Admira Wacker
-10,Sat Sep 26 2015,16:00,SV Ried,0-1,0-0,Rapid Wien
-10,Sat Sep 26 2015,18:30,RB Salzburg,4-2,1-2,SV Mattersburg
-10,Sat Sep 26 2015,18:30,SCR Altach,1-0,0-0,SV Grödig
-10,Sat Sep 26 2015,18:30,Austria Wien,1-0,0-0,Wolfsberger AC
-10,Sun Sep 27 2015,16:30,FC Admira Wacker,0-1,0-0,Sturm Graz
-11,Sat Oct 3 2015,16:00,SV Grödig,3-0,0-0,Sturm Graz
-11,Sat Oct 3 2015,18:30,Wolfsberger AC,1-1,1-1,SV Ried
-11,Sat Oct 3 2015,18:30,SV Mattersburg,0-4,0-1,FC Admira Wacker
-11,Sat Oct 3 2015,18:30,SCR Altach,1-2,1-1,Austria Wien
-11,Sun Oct 4 2015,16:30,Rapid Wien,1-2,1-1,RB Salzburg
-12,Sat Oct 17 2015,16:00,RB Salzburg,8-0,2-0,FC Admira Wacker
-12,Sat Oct 17 2015,18:30,Austria Wien,2-1,2-0,SV Grödig
-12,Sat Oct 17 2015,18:30,SV Ried,0-1,0-0,SV Mattersburg
-12,Sat Oct 17 2015,18:30,Sturm Graz,3-1,2-0,SCR Altach
-12,Sun Oct 18 2015,16:30,Wolfsberger AC,2-1,1-0,Rapid Wien
-13,Sat Oct 24 2015,16:00,SV Mattersburg,2-1,1-1,SCR Altach
-13,Sat Oct 24 2015,18:30,RB Salzburg,2-1,2-1,SV Ried
-13,Sat Oct 24 2015,18:30,Sturm Graz,2-0,0-0,Wolfsberger AC
-13,Sat Oct 24 2015,18:30,FC Admira Wacker,0-0,0-0,SV Grödig
-13,Sun Oct 25 2015,16:30,Rapid Wien,1-2,0-0,Austria Wien
-14,Sat Oct 31 2015,16:00,Rapid Wien,2-1,1-0,Sturm Graz
-14,Sat Oct 31 2015,18:30,SV Ried,1-1,0-0,FC Admira Wacker
-14,Sat Oct 31 2015,18:30,SV Grödig,1-0,0-0,Wolfsberger AC
-14,Sat Oct 31 2015,18:30,SCR Altach,1-0,0-0,RB Salzburg
-14,Sun Nov 1 2015,16:30,SV Mattersburg,1-2,0-0,Austria Wien
-15,Sat Nov 7 2015,16:00,Austria Wien,1-1,0-1,RB Salzburg
-15,Sat Nov 7 2015,18:30,FC Admira Wacker,1-1,0-1,SCR Altach
-15,Sat Nov 7 2015,18:30,Sturm Graz,3-2,2-2,SV Ried
-15,Sat Nov 7 2015,18:30,Wolfsberger AC,2-1,1-0,SV Mattersburg
-15,Sun Nov 8 2015,16:30,SV Grödig,2-1,1-0,Rapid Wien
-16,Sat Nov 21 2015,16:00,Austria Wien,1-1,0-0,FC Admira Wacker
-16,Sat Nov 21 2015,18:30,SV Mattersburg,1-6,0-5,Rapid Wien
-16,Sat Nov 21 2015,18:30,SCR Altach,2-1,1-0,Wolfsberger AC
-16,Sat Nov 21 2015,18:30,SV Ried,1-0,0-0,SV Grödig
-16,Sun Nov 22 2015,16:30,RB Salzburg,3-1,1-0,Sturm Graz
-17,Sat Nov 28 2015,16:00,Sturm Graz,0-0,0-0,SV Mattersburg
-17,Sat Nov 28 2015,18:30,SV Grödig,1-1,0-1,RB Salzburg
-17,Sat Nov 28 2015,18:30,Wolfsberger AC,4-0,2-0,FC Admira Wacker
-17,Sun Nov 29 2015,16:30,SV Ried,4-2,3-2,Austria Wien
-17,Sun Nov 29 2015,19:00,Rapid Wien,3-1,2-0,SCR Altach
-18,Tue Dec 1 2015,19:00,RB Salzburg,1-1,0-1,Wolfsberger AC
-18,Wed Dec 2 2015,18:30,FC Admira Wacker,2-1,0-1,Rapid Wien
-18,Wed Dec 2 2015,18:30,SCR Altach,1-3,0-2,SV Ried
-18,Wed Dec 2 2015,18:30,SV Mattersburg,0-2,0-1,SV Grödig
-18,Wed Dec 2 2015,20:30,Austria Wien,2-1,1-1,Sturm Graz
-19,Sat Dec 5 2015,16:00,Wolfsberger AC,2-0,1-0,Austria Wien
-19,Sat Dec 5 2015,18:30,Rapid Wien,2-1,1-1,SV Ried
-19,Sat Dec 5 2015,18:30,Sturm Graz,1-1,1-0,FC Admira Wacker
-19,Sat Dec 5 2015,18:30,SV Grödig,0-3,0-2,SCR Altach
-19,Sun Dec 6 2015,16:30,SV Mattersburg,0-0,0-0,RB Salzburg
-20,Sat Dec 12 2015,16:00,Austria Wien,1-2,1-0,SCR Altach
-20,Sat Dec 12 2015,18:30,Sturm Graz,2-0,1-0,SV Grödig
-20,Sat Dec 12 2015,18:30,SV Ried,1-0,1-0,Wolfsberger AC
-20,Sat Dec 12 2015,18:30,FC Admira Wacker,1-1,1-1,SV Mattersburg
-20,Sun Dec 13 2015,16:30,RB Salzburg,2-0,1-0,Rapid Wien
-21,Sat Feb 6 2016,16:00,SCR Altach,2-2,2-1,Sturm Graz
-21,Sat Feb 6 2016,18:30,Rapid Wien,3-0,0-0,Wolfsberger AC
-21,Sat Feb 6 2016,18:30,SV Grödig,0-1,0-1,Austria Wien
-21,Sat Feb 6 2016,18:30,SV Mattersburg,3-3,1-2,SV Ried
-21,Sun Feb 7 2016,16:30,FC Admira Wacker,1-2,0-0,RB Salzburg
-22,Sat Feb 13 2016,16:00,SV Ried,1-0,0-0,RB Salzburg
-22,Sat Feb 13 2016,18:30,SCR Altach,1-2,0-0,SV Mattersburg
-22,Sat Feb 13 2016,18:30,Wolfsberger AC,0-0,0-0,Sturm Graz
-22,Sat Feb 13 2016,18:30,SV Grödig,2-2,0-1,FC Admira Wacker
-22,Sun Feb 14 2016,16:30,Austria Wien,0-3,0-2,Rapid Wien
-23,Sat Feb 20 2016,16:00,Austria Wien,2-2,2-1,SV Mattersburg
-23,Sat Feb 20 2016,18:30,RB Salzburg,2-0,0-0,SCR Altach
-23,Sat Feb 20 2016,18:30,Wolfsberger AC,2-0,0-0,SV Grödig
-23,Sat Feb 20 2016,18:30,FC Admira Wacker,0-0,0-0,SV Ried
-23,Sun Feb 21 2016,16:30,Sturm Graz,0-2,0-1,Rapid Wien
-24,Sat Feb 27 2016,16:00,SV Ried,0-1,0-0,Sturm Graz
-24,Sat Feb 27 2016,18:30,SCR Altach,1-2,1-0,FC Admira Wacker
-24,Sat Feb 27 2016,18:30,SV Mattersburg,1-1,0-1,Wolfsberger AC
-24,Sun Feb 28 2016,14:00,Rapid Wien,3-2,1-1,SV Grödig
-24,Sun Feb 28 2016,16:30,RB Salzburg,4-1,3-1,Austria Wien
-25,Tue Mar 1 2016,19:00,Wolfsberger AC,1-0,1-0,SCR Altach
-25,Wed Mar 2 2016,18:30,Rapid Wien,3-0,2-0,SV Mattersburg
-25,Wed Mar 2 2016,18:30,SV Grödig,2-2,0-0,SV Ried
-25,Wed Mar 2 2016,18:30,FC Admira Wacker,0-3,0-1,Austria Wien
-25,Wed Mar 2 2016,20:30,Sturm Graz,0-0,0-0,RB Salzburg
-26,Sat Mar 5 2016,16:00,RB Salzburg,3-0,1-0,SV Grödig
-26,Sat Mar 5 2016,18:30,Austria Wien,3-1,0-1,SV Ried
-26,Sat Mar 5 2016,18:30,FC Admira Wacker,0-2,0-2,Wolfsberger AC
-26,Sat Mar 5 2016,18:30,SV Mattersburg,1-0,1-0,Sturm Graz
-26,Sun Mar 6 2016,16:30,SCR Altach,0-0,0-0,Rapid Wien
-27,Sat Mar 12 2016,16:00,Wolfsberger AC,1-1,0-1,RB Salzburg
-27,Sat Mar 12 2016,18:30,Rapid Wien,0-4,0-2,FC Admira Wacker
-27,Sat Mar 12 2016,18:30,SV Ried,0-2,0-2,SCR Altach
-27,Sat Mar 12 2016,18:30,SV Grödig,0-1,0-1,SV Mattersburg
-27,Sun Mar 13 2016,16:30,Sturm Graz,1-1,0-0,Austria Wien
-28,Sat Mar 19 2016,16:00,Austria Wien,0-0,0-0,Wolfsberger AC
-28,Sat Mar 19 2016,18:30,FC Admira Wacker,1-0,0-0,Sturm Graz
-28,Sat Mar 19 2016,18:30,SCR Altach,1-0,0-0,SV Grödig
-28,Sat Mar 19 2016,18:30,RB Salzburg,2-1,2-0,SV Mattersburg
-28,Sun Mar 20 2016,16:30,SV Ried,1-0,0-0,Rapid Wien
-29,Sat Apr 2 2016,16:00,SV Grödig,1-3,0-0,Sturm Graz
-29,Sat Apr 2 2016,18:30,Wolfsberger AC,1-0,0-0,SV Ried
-29,Sat Apr 2 2016,18:30,SCR Altach,2-0,1-0,Austria Wien
-29,Sat Apr 2 2016,18:30,SV Mattersburg,0-3,0-0,FC Admira Wacker
-29,Sun Apr 3 2016,15:00,Rapid Wien,1-1,0-0,RB Salzburg
-30,Sat Apr 9 2016,16:00,Sturm Graz,4-1,2-1,SCR Altach
-30,Sat Apr 9 2016,18:30,Wolfsberger AC,2-2,0-2,Rapid Wien
-30,Sat Apr 9 2016,18:30,Austria Wien,0-2,0-0,SV Grödig
-30,Sat Apr 9 2016,18:30,SV Ried,1-0,0-0,SV Mattersburg
-30,Sun Apr 10 2016,16:30,RB Salzburg,1-0,0-0,FC Admira Wacker
-31,Sat Apr 16 2016,16:00,RB Salzburg,2-1,1-0,SV Ried
-31,Sat Apr 16 2016,18:30,SV Mattersburg,0-0,0-0,SCR Altach
-31,Sat Apr 16 2016,18:30,Sturm Graz,1-0,0-0,Wolfsberger AC
-31,Sat Apr 16 2016,18:30,FC Admira Wacker,1-1,0-0,SV Grödig
-31,Sun Apr 17 2016,16:30,Rapid Wien,1-0,0-0,Austria Wien
-32,Sat Apr 23 2016,16:00,SV Mattersburg,0-9,0-3,Austria Wien
-32,Sat Apr 23 2016,18:30,SCR Altach,1-3,1-2,RB Salzburg
-32,Sat Apr 23 2016,18:30,SV Grödig,0-1,0-0,Wolfsberger AC
-32,Sat Apr 23 2016,18:30,SV Ried,1-0,0-0,FC Admira Wacker
-32,Sun Apr 24 2016,16:30,Rapid Wien,2-0,1-0,Sturm Graz
-33,Sat Apr 30 2016,16:00,SV Grödig,2-0,1-0,Rapid Wien
-33,Sat Apr 30 2016,18:30,FC Admira Wacker,2-1,1-0,SCR Altach
-33,Sat Apr 30 2016,18:30,Sturm Graz,0-0,0-0,SV Ried
-33,Sat Apr 30 2016,18:30,Wolfsberger AC,2-0,2-0,SV Mattersburg
-33,Sun May 1 2016,16:30,Austria Wien,0-2,0-1,RB Salzburg
-34,Sat May 7 2016,16:00,Austria Wien,3-1,2-0,FC Admira Wacker
-34,Sat May 7 2016,18:30,RB Salzburg,1-1,1-0,Sturm Graz
-34,Sat May 7 2016,18:30,SCR Altach,1-1,0-0,Wolfsberger AC
-34,Sat May 7 2016,18:30,SV Ried,2-0,1-0,SV Grödig
-34,Sun May 8 2016,16:30,SV Mattersburg,0-2,0-1,Rapid Wien
-35,Wed May 11 2016,20:30,SV Grödig,1-2,1-1,RB Salzburg
-35,Wed May 11 2016,20:30,Rapid Wien,1-1,0-1,SCR Altach
-35,Wed May 11 2016,20:30,SV Ried,0-5,0-2,Austria Wien
-35,Wed May 11 2016,20:30,Wolfsberger AC,1-2,0-0,FC Admira Wacker
-35,Wed May 11 2016,20:30,Sturm Graz,1-1,0-0,SV Mattersburg
-36,Sun May 15 2016,17:30,FC Admira Wacker,1-3,0-1,Rapid Wien
-36,Sun May 15 2016,17:30,Austria Wien,3-0,0-0,Sturm Graz
-36,Sun May 15 2016,17:30,RB Salzburg,1-0,0-0,Wolfsberger AC
-36,Sun May 15 2016,17:30,SCR Altach,0-0,0-0,SV Ried
-36,Sun May 15 2016,17:30,SV Mattersburg,2-3,0-1,SV Grödig
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Jul 25 2015,18:30,CEST/+0200,Sturm Graz,1-1,0-1,FC Admira Wacker,2015-07-25T16:30Z
+1,Sat Jul 25 2015,18:30,CEST/+0200,Rapid Wien,3-0,0-0,SV Ried,2015-07-25T16:30Z
+1,Sat Jul 25 2015,18:30,CEST/+0200,SV Grödig,2-1,0-1,SCR Altach,2015-07-25T16:30Z
+1,Sat Jul 25 2015,16:00,CEST/+0200,SV Mattersburg,2-1,1-0,RB Salzburg,2015-07-25T14:00Z
+1,Sun Jul 26 2015,16:30,CEST/+0200,Wolfsberger AC,0-2,0-1,Austria Wien,2015-07-26T14:30Z
+2,Sat Aug 1 2015,16:00,CEST/+0200,RB Salzburg,1-2,0-2,Rapid Wien,2015-08-01T14:00Z
+2,Sat Aug 1 2015,18:30,CEST/+0200,FC Admira Wacker,2-1,1-0,SV Mattersburg,2015-08-01T16:30Z
+2,Sun Aug 2 2015,16:30,CEST/+0200,Austria Wien,3-1,1-1,SCR Altach,2015-08-02T14:30Z
+2,Sun Aug 2 2015,19:00,CEST/+0200,Sturm Graz,1-1,0-1,SV Grödig,2015-08-02T17:00Z
+2,Sun Aug 2 2015,16:30,CEST/+0200,SV Ried,0-0,0-0,Wolfsberger AC,2015-08-02T14:30Z
+3,Sat Aug 8 2015,16:00,CEST/+0200,SV Grödig,2-2,0-0,Austria Wien,2015-08-08T14:00Z
+3,Sat Aug 8 2015,18:30,CEST/+0200,SV Mattersburg,4-1,3-1,SV Ried,2015-08-08T16:30Z
+3,Sat Aug 8 2015,18:30,CEST/+0200,FC Admira Wacker,2-2,2-2,RB Salzburg,2015-08-08T16:30Z
+3,Sun Aug 9 2015,19:00,CEST/+0200,Rapid Wien,2-1,0-1,Wolfsberger AC,2015-08-09T17:00Z
+3,Sun Aug 9 2015,16:30,CEST/+0200,SCR Altach,0-1,0-0,Sturm Graz,2015-08-09T14:30Z
+4,Tue Aug 11 2015,18:30,CEST/+0200,SV Ried,1-4,0-4,RB Salzburg,2015-08-11T16:30Z
+4,Wed Aug 12 2015,20:30,CEST/+0200,SCR Altach,3-1,2-0,SV Mattersburg,2015-08-12T18:30Z
+4,Wed Aug 12 2015,20:30,CEST/+0200,SV Grödig,2-3,1-1,FC Admira Wacker,2015-08-12T18:30Z
+4,Wed Aug 12 2015,20:30,CEST/+0200,Austria Wien,2-5,1-3,Rapid Wien,2015-08-12T18:30Z
+4,Wed Aug 12 2015,20:30,CEST/+0200,Wolfsberger AC,0-2,0-2,Sturm Graz,2015-08-12T18:30Z
+5,Sat Aug 15 2015,16:00,CEST/+0200,Austria Wien,5-1,3-1,SV Mattersburg,2015-08-15T14:00Z
+5,Sat Aug 15 2015,18:30,CEST/+0200,FC Admira Wacker,3-1,2-0,SV Ried,2015-08-15T16:30Z
+5,Sat Aug 15 2015,18:30,CEST/+0200,Wolfsberger AC,3-2,3-2,SV Grödig,2015-08-15T16:30Z
+5,Sat Aug 15 2015,18:30,CEST/+0200,RB Salzburg,2-0,1-0,SCR Altach,2015-08-15T16:30Z
+5,Sun Aug 16 2015,16:30,CEST/+0200,Sturm Graz,2-2,2-0,Rapid Wien,2015-08-16T14:30Z
+6,Sat Aug 22 2015,18:30,CEST/+0200,SV Ried,1-0,0-0,Sturm Graz,2015-08-22T16:30Z
+6,Sat Aug 22 2015,18:30,CEST/+0200,SV Mattersburg,1-0,0-0,Wolfsberger AC,2015-08-22T16:30Z
+6,Sat Aug 22 2015,16:00,CEST/+0200,Rapid Wien,3-0,0-0,SV Grödig,2015-08-22T14:00Z
+6,Sun Aug 23 2015,16:30,CEST/+0200,RB Salzburg,2-2,1-1,Austria Wien,2015-08-23T14:30Z
+6,Sun Aug 23 2015,19:00,CEST/+0200,SCR Altach,1-2,0-1,FC Admira Wacker,2015-08-23T17:00Z
+7,Sat Aug 29 2015,18:30,CEST/+0200,Rapid Wien,2-4,0-1,SV Mattersburg,2015-08-29T16:30Z
+7,Sat Aug 29 2015,18:30,CEST/+0200,SV Grödig,4-1,2-1,SV Ried,2015-08-29T16:30Z
+7,Sat Aug 29 2015,16:00,CEST/+0200,FC Admira Wacker,0-1,0-0,Austria Wien,2015-08-29T14:00Z
+7,Sun Aug 30 2015,16:30,CEST/+0200,Sturm Graz,2-3,0-1,RB Salzburg,2015-08-30T14:30Z
+7,Sun Aug 30 2015,19:00,CEST/+0200,Wolfsberger AC,0-2,0-2,SCR Altach,2015-08-30T17:00Z
+8,Sat Sep 12 2015,18:30,CEST/+0200,RB Salzburg,4-2,1-2,SV Grödig,2015-09-12T16:30Z
+8,Sat Sep 12 2015,18:30,CEST/+0200,Austria Wien,1-1,1-0,SV Ried,2015-09-12T16:30Z
+8,Sat Sep 12 2015,18:30,CEST/+0200,FC Admira Wacker,1-0,1-0,Wolfsberger AC,2015-09-12T16:30Z
+8,Sat Sep 12 2015,16:00,CEST/+0200,SCR Altach,2-0,0-0,Rapid Wien,2015-09-12T14:00Z
+8,Sun Sep 13 2015,16:30,CEST/+0200,SV Mattersburg,2-0,0-0,Sturm Graz,2015-09-13T14:30Z
+9,Sat Sep 19 2015,16:00,CEST/+0200,Sturm Graz,2-0,0-0,Austria Wien,2015-09-19T14:00Z
+9,Sat Sep 19 2015,18:30,CEST/+0200,Wolfsberger AC,1-1,1-0,RB Salzburg,2015-09-19T16:30Z
+9,Sat Sep 19 2015,18:30,CEST/+0200,SV Ried,2-0,1-0,SCR Altach,2015-09-19T16:30Z
+9,Sat Sep 19 2015,18:30,CEST/+0200,SV Grödig,1-1,1-1,SV Mattersburg,2015-09-19T16:30Z
+9,Sun Sep 20 2015,16:30,CEST/+0200,Rapid Wien,2-0,1-0,FC Admira Wacker,2015-09-20T14:30Z
+10,Sat Sep 26 2015,16:00,CEST/+0200,SV Ried,0-1,0-0,Rapid Wien,2015-09-26T14:00Z
+10,Sat Sep 26 2015,18:30,CEST/+0200,RB Salzburg,4-2,1-2,SV Mattersburg,2015-09-26T16:30Z
+10,Sat Sep 26 2015,18:30,CEST/+0200,SCR Altach,1-0,0-0,SV Grödig,2015-09-26T16:30Z
+10,Sat Sep 26 2015,18:30,CEST/+0200,Austria Wien,1-0,0-0,Wolfsberger AC,2015-09-26T16:30Z
+10,Sun Sep 27 2015,16:30,CEST/+0200,FC Admira Wacker,0-1,0-0,Sturm Graz,2015-09-27T14:30Z
+11,Sat Oct 3 2015,18:30,CEST/+0200,Wolfsberger AC,1-1,1-1,SV Ried,2015-10-03T16:30Z
+11,Sat Oct 3 2015,18:30,CEST/+0200,SV Mattersburg,0-4,0-1,FC Admira Wacker,2015-10-03T16:30Z
+11,Sat Oct 3 2015,18:30,CEST/+0200,SCR Altach,1-2,1-1,Austria Wien,2015-10-03T16:30Z
+11,Sat Oct 3 2015,16:00,CEST/+0200,SV Grödig,3-0,0-0,Sturm Graz,2015-10-03T14:00Z
+11,Sun Oct 4 2015,16:30,CEST/+0200,Rapid Wien,1-2,1-1,RB Salzburg,2015-10-04T14:30Z
+12,Sat Oct 17 2015,18:30,CEST/+0200,Austria Wien,2-1,2-0,SV Grödig,2015-10-17T16:30Z
+12,Sat Oct 17 2015,18:30,CEST/+0200,SV Ried,0-1,0-0,SV Mattersburg,2015-10-17T16:30Z
+12,Sat Oct 17 2015,18:30,CEST/+0200,Sturm Graz,3-1,2-0,SCR Altach,2015-10-17T16:30Z
+12,Sat Oct 17 2015,16:00,CEST/+0200,RB Salzburg,8-0,2-0,FC Admira Wacker,2015-10-17T14:00Z
+12,Sun Oct 18 2015,16:30,CEST/+0200,Wolfsberger AC,2-1,1-0,Rapid Wien,2015-10-18T14:30Z
+13,Sat Oct 24 2015,18:30,CEST/+0200,RB Salzburg,2-1,2-1,SV Ried,2015-10-24T16:30Z
+13,Sat Oct 24 2015,18:30,CEST/+0200,Sturm Graz,2-0,0-0,Wolfsberger AC,2015-10-24T16:30Z
+13,Sat Oct 24 2015,18:30,CEST/+0200,FC Admira Wacker,0-0,0-0,SV Grödig,2015-10-24T16:30Z
+13,Sat Oct 24 2015,16:00,CEST/+0200,SV Mattersburg,2-1,1-1,SCR Altach,2015-10-24T14:00Z
+13,Sun Oct 25 2015,16:30,CET/+0100,Rapid Wien,1-2,0-0,Austria Wien,2015-10-25T15:30Z
+14,Sat Oct 31 2015,18:30,CET/+0100,SV Ried,1-1,0-0,FC Admira Wacker,2015-10-31T17:30Z
+14,Sat Oct 31 2015,18:30,CET/+0100,SV Grödig,1-0,0-0,Wolfsberger AC,2015-10-31T17:30Z
+14,Sat Oct 31 2015,18:30,CET/+0100,SCR Altach,1-0,0-0,RB Salzburg,2015-10-31T17:30Z
+14,Sat Oct 31 2015,16:00,CET/+0100,Rapid Wien,2-1,1-0,Sturm Graz,2015-10-31T15:00Z
+14,Sun Nov 1 2015,16:30,CET/+0100,SV Mattersburg,1-2,0-0,Austria Wien,2015-11-01T15:30Z
+15,Sat Nov 7 2015,18:30,CET/+0100,FC Admira Wacker,1-1,0-1,SCR Altach,2015-11-07T17:30Z
+15,Sat Nov 7 2015,18:30,CET/+0100,Sturm Graz,3-2,2-2,SV Ried,2015-11-07T17:30Z
+15,Sat Nov 7 2015,18:30,CET/+0100,Wolfsberger AC,2-1,1-0,SV Mattersburg,2015-11-07T17:30Z
+15,Sat Nov 7 2015,16:00,CET/+0100,Austria Wien,1-1,0-1,RB Salzburg,2015-11-07T15:00Z
+15,Sun Nov 8 2015,16:30,CET/+0100,SV Grödig,2-1,1-0,Rapid Wien,2015-11-08T15:30Z
+16,Sat Nov 21 2015,16:00,CET/+0100,Austria Wien,1-1,0-0,FC Admira Wacker,2015-11-21T15:00Z
+16,Sat Nov 21 2015,18:30,CET/+0100,SV Mattersburg,1-6,0-5,Rapid Wien,2015-11-21T17:30Z
+16,Sat Nov 21 2015,18:30,CET/+0100,SCR Altach,2-1,1-0,Wolfsberger AC,2015-11-21T17:30Z
+16,Sat Nov 21 2015,18:30,CET/+0100,SV Ried,1-0,0-0,SV Grödig,2015-11-21T17:30Z
+16,Sun Nov 22 2015,16:30,CET/+0100,RB Salzburg,3-1,1-0,Sturm Graz,2015-11-22T15:30Z
+17,Sat Nov 28 2015,16:00,CET/+0100,Sturm Graz,0-0,0-0,SV Mattersburg,2015-11-28T15:00Z
+17,Sat Nov 28 2015,18:30,CET/+0100,SV Grödig,1-1,0-1,RB Salzburg,2015-11-28T17:30Z
+17,Sat Nov 28 2015,18:30,CET/+0100,Wolfsberger AC,4-0,2-0,FC Admira Wacker,2015-11-28T17:30Z
+17,Sun Nov 29 2015,19:00,CET/+0100,Rapid Wien,3-1,2-0,SCR Altach,2015-11-29T18:00Z
+17,Sun Nov 29 2015,16:30,CET/+0100,SV Ried,4-2,3-2,Austria Wien,2015-11-29T15:30Z
+18,Tue Dec 1 2015,19:00,CET/+0100,RB Salzburg,1-1,0-1,Wolfsberger AC,2015-12-01T18:00Z
+18,Wed Dec 2 2015,18:30,CET/+0100,SCR Altach,1-3,0-2,SV Ried,2015-12-02T17:30Z
+18,Wed Dec 2 2015,18:30,CET/+0100,SV Mattersburg,0-2,0-1,SV Grödig,2015-12-02T17:30Z
+18,Wed Dec 2 2015,20:30,CET/+0100,Austria Wien,2-1,1-1,Sturm Graz,2015-12-02T19:30Z
+18,Wed Dec 2 2015,18:30,CET/+0100,FC Admira Wacker,2-1,0-1,Rapid Wien,2015-12-02T17:30Z
+19,Sat Dec 5 2015,16:00,CET/+0100,Wolfsberger AC,2-0,1-0,Austria Wien,2015-12-05T15:00Z
+19,Sat Dec 5 2015,18:30,CET/+0100,Rapid Wien,2-1,1-1,SV Ried,2015-12-05T17:30Z
+19,Sat Dec 5 2015,18:30,CET/+0100,Sturm Graz,1-1,1-0,FC Admira Wacker,2015-12-05T17:30Z
+19,Sat Dec 5 2015,18:30,CET/+0100,SV Grödig,0-3,0-2,SCR Altach,2015-12-05T17:30Z
+19,Sun Dec 6 2015,16:30,CET/+0100,SV Mattersburg,0-0,0-0,RB Salzburg,2015-12-06T15:30Z
+20,Sat Dec 12 2015,18:30,CET/+0100,Sturm Graz,2-0,1-0,SV Grödig,2015-12-12T17:30Z
+20,Sat Dec 12 2015,18:30,CET/+0100,SV Ried,1-0,1-0,Wolfsberger AC,2015-12-12T17:30Z
+20,Sat Dec 12 2015,18:30,CET/+0100,FC Admira Wacker,1-1,1-1,SV Mattersburg,2015-12-12T17:30Z
+20,Sat Dec 12 2015,16:00,CET/+0100,Austria Wien,1-2,1-0,SCR Altach,2015-12-12T15:00Z
+20,Sun Dec 13 2015,16:30,CET/+0100,RB Salzburg,2-0,1-0,Rapid Wien,2015-12-13T15:30Z
+21,Sat Feb 6 2016,18:30,CET/+0100,Rapid Wien,3-0,0-0,Wolfsberger AC,2016-02-06T17:30Z
+21,Sat Feb 6 2016,18:30,CET/+0100,SV Grödig,0-1,0-1,Austria Wien,2016-02-06T17:30Z
+21,Sat Feb 6 2016,18:30,CET/+0100,SV Mattersburg,3-3,1-2,SV Ried,2016-02-06T17:30Z
+21,Sat Feb 6 2016,16:00,CET/+0100,SCR Altach,2-2,2-1,Sturm Graz,2016-02-06T15:00Z
+21,Sun Feb 7 2016,16:30,CET/+0100,FC Admira Wacker,1-2,0-0,RB Salzburg,2016-02-07T15:30Z
+22,Sat Feb 13 2016,18:30,CET/+0100,SCR Altach,1-2,0-0,SV Mattersburg,2016-02-13T17:30Z
+22,Sat Feb 13 2016,18:30,CET/+0100,Wolfsberger AC,0-0,0-0,Sturm Graz,2016-02-13T17:30Z
+22,Sat Feb 13 2016,18:30,CET/+0100,SV Grödig,2-2,0-1,FC Admira Wacker,2016-02-13T17:30Z
+22,Sat Feb 13 2016,16:00,CET/+0100,SV Ried,1-0,0-0,RB Salzburg,2016-02-13T15:00Z
+22,Sun Feb 14 2016,16:30,CET/+0100,Austria Wien,0-3,0-2,Rapid Wien,2016-02-14T15:30Z
+23,Sat Feb 20 2016,18:30,CET/+0100,RB Salzburg,2-0,0-0,SCR Altach,2016-02-20T17:30Z
+23,Sat Feb 20 2016,18:30,CET/+0100,Wolfsberger AC,2-0,0-0,SV Grödig,2016-02-20T17:30Z
+23,Sat Feb 20 2016,18:30,CET/+0100,FC Admira Wacker,0-0,0-0,SV Ried,2016-02-20T17:30Z
+23,Sat Feb 20 2016,16:00,CET/+0100,Austria Wien,2-2,2-1,SV Mattersburg,2016-02-20T15:00Z
+23,Sun Feb 21 2016,16:30,CET/+0100,Sturm Graz,0-2,0-1,Rapid Wien,2016-02-21T15:30Z
+24,Sat Feb 27 2016,18:30,CET/+0100,SCR Altach,1-2,1-0,FC Admira Wacker,2016-02-27T17:30Z
+24,Sat Feb 27 2016,18:30,CET/+0100,SV Mattersburg,1-1,0-1,Wolfsberger AC,2016-02-27T17:30Z
+24,Sat Feb 27 2016,16:00,CET/+0100,SV Ried,0-1,0-0,Sturm Graz,2016-02-27T15:00Z
+24,Sun Feb 28 2016,16:30,CET/+0100,RB Salzburg,4-1,3-1,Austria Wien,2016-02-28T15:30Z
+24,Sun Feb 28 2016,14:00,CET/+0100,Rapid Wien,3-2,1-1,SV Grödig,2016-02-28T13:00Z
+25,Tue Mar 1 2016,19:00,CET/+0100,Wolfsberger AC,1-0,1-0,SCR Altach,2016-03-01T18:00Z
+25,Wed Mar 2 2016,18:30,CET/+0100,SV Grödig,2-2,0-0,SV Ried,2016-03-02T17:30Z
+25,Wed Mar 2 2016,18:30,CET/+0100,FC Admira Wacker,0-3,0-1,Austria Wien,2016-03-02T17:30Z
+25,Wed Mar 2 2016,20:30,CET/+0100,Sturm Graz,0-0,0-0,RB Salzburg,2016-03-02T19:30Z
+25,Wed Mar 2 2016,18:30,CET/+0100,Rapid Wien,3-0,2-0,SV Mattersburg,2016-03-02T17:30Z
+26,Sat Mar 5 2016,16:00,CET/+0100,RB Salzburg,3-0,1-0,SV Grödig,2016-03-05T15:00Z
+26,Sat Mar 5 2016,18:30,CET/+0100,Austria Wien,3-1,0-1,SV Ried,2016-03-05T17:30Z
+26,Sat Mar 5 2016,18:30,CET/+0100,FC Admira Wacker,0-2,0-2,Wolfsberger AC,2016-03-05T17:30Z
+26,Sat Mar 5 2016,18:30,CET/+0100,SV Mattersburg,1-0,1-0,Sturm Graz,2016-03-05T17:30Z
+26,Sun Mar 6 2016,16:30,CET/+0100,SCR Altach,0-0,0-0,Rapid Wien,2016-03-06T15:30Z
+27,Sat Mar 12 2016,18:30,CET/+0100,Rapid Wien,0-4,0-2,FC Admira Wacker,2016-03-12T17:30Z
+27,Sat Mar 12 2016,18:30,CET/+0100,SV Ried,0-2,0-2,SCR Altach,2016-03-12T17:30Z
+27,Sat Mar 12 2016,18:30,CET/+0100,SV Grödig,0-1,0-1,SV Mattersburg,2016-03-12T17:30Z
+27,Sat Mar 12 2016,16:00,CET/+0100,Wolfsberger AC,1-1,0-1,RB Salzburg,2016-03-12T15:00Z
+27,Sun Mar 13 2016,16:30,CET/+0100,Sturm Graz,1-1,0-0,Austria Wien,2016-03-13T15:30Z
+28,Sat Mar 19 2016,16:00,CET/+0100,Austria Wien,0-0,0-0,Wolfsberger AC,2016-03-19T15:00Z
+28,Sat Mar 19 2016,18:30,CET/+0100,FC Admira Wacker,1-0,0-0,Sturm Graz,2016-03-19T17:30Z
+28,Sat Mar 19 2016,18:30,CET/+0100,SCR Altach,1-0,0-0,SV Grödig,2016-03-19T17:30Z
+28,Sat Mar 19 2016,18:30,CET/+0100,RB Salzburg,2-1,2-0,SV Mattersburg,2016-03-19T17:30Z
+28,Sun Mar 20 2016,16:30,CET/+0100,SV Ried,1-0,0-0,Rapid Wien,2016-03-20T15:30Z
+29,Sat Apr 2 2016,18:30,CEST/+0200,Wolfsberger AC,1-0,0-0,SV Ried,2016-04-02T16:30Z
+29,Sat Apr 2 2016,18:30,CEST/+0200,SCR Altach,2-0,1-0,Austria Wien,2016-04-02T16:30Z
+29,Sat Apr 2 2016,18:30,CEST/+0200,SV Mattersburg,0-3,0-0,FC Admira Wacker,2016-04-02T16:30Z
+29,Sat Apr 2 2016,16:00,CEST/+0200,SV Grödig,1-3,0-0,Sturm Graz,2016-04-02T14:00Z
+29,Sun Apr 3 2016,15:00,CEST/+0200,Rapid Wien,1-1,0-0,RB Salzburg,2016-04-03T13:00Z
+30,Sat Apr 9 2016,18:30,CEST/+0200,Wolfsberger AC,2-2,0-2,Rapid Wien,2016-04-09T16:30Z
+30,Sat Apr 9 2016,18:30,CEST/+0200,Austria Wien,0-2,0-0,SV Grödig,2016-04-09T16:30Z
+30,Sat Apr 9 2016,18:30,CEST/+0200,SV Ried,1-0,0-0,SV Mattersburg,2016-04-09T16:30Z
+30,Sat Apr 9 2016,16:00,CEST/+0200,Sturm Graz,4-1,2-1,SCR Altach,2016-04-09T14:00Z
+30,Sun Apr 10 2016,16:30,CEST/+0200,RB Salzburg,1-0,0-0,FC Admira Wacker,2016-04-10T14:30Z
+31,Sat Apr 16 2016,18:30,CEST/+0200,SV Mattersburg,0-0,0-0,SCR Altach,2016-04-16T16:30Z
+31,Sat Apr 16 2016,18:30,CEST/+0200,Sturm Graz,1-0,0-0,Wolfsberger AC,2016-04-16T16:30Z
+31,Sat Apr 16 2016,18:30,CEST/+0200,FC Admira Wacker,1-1,0-0,SV Grödig,2016-04-16T16:30Z
+31,Sat Apr 16 2016,16:00,CEST/+0200,RB Salzburg,2-1,1-0,SV Ried,2016-04-16T14:00Z
+31,Sun Apr 17 2016,16:30,CEST/+0200,Rapid Wien,1-0,0-0,Austria Wien,2016-04-17T14:30Z
+32,Sat Apr 23 2016,18:30,CEST/+0200,SCR Altach,1-3,1-2,RB Salzburg,2016-04-23T16:30Z
+32,Sat Apr 23 2016,18:30,CEST/+0200,SV Grödig,0-1,0-0,Wolfsberger AC,2016-04-23T16:30Z
+32,Sat Apr 23 2016,18:30,CEST/+0200,SV Ried,1-0,0-0,FC Admira Wacker,2016-04-23T16:30Z
+32,Sat Apr 23 2016,16:00,CEST/+0200,SV Mattersburg,0-9,0-3,Austria Wien,2016-04-23T14:00Z
+32,Sun Apr 24 2016,16:30,CEST/+0200,Rapid Wien,2-0,1-0,Sturm Graz,2016-04-24T14:30Z
+33,Sat Apr 30 2016,18:30,CEST/+0200,FC Admira Wacker,2-1,1-0,SCR Altach,2016-04-30T16:30Z
+33,Sat Apr 30 2016,18:30,CEST/+0200,Sturm Graz,0-0,0-0,SV Ried,2016-04-30T16:30Z
+33,Sat Apr 30 2016,18:30,CEST/+0200,Wolfsberger AC,2-0,2-0,SV Mattersburg,2016-04-30T16:30Z
+33,Sat Apr 30 2016,16:00,CEST/+0200,SV Grödig,2-0,1-0,Rapid Wien,2016-04-30T14:00Z
+33,Sun May 1 2016,16:30,CEST/+0200,Austria Wien,0-2,0-1,RB Salzburg,2016-05-01T14:30Z
+34,Sat May 7 2016,16:00,CEST/+0200,Austria Wien,3-1,2-0,FC Admira Wacker,2016-05-07T14:00Z
+34,Sat May 7 2016,18:30,CEST/+0200,RB Salzburg,1-1,1-0,Sturm Graz,2016-05-07T16:30Z
+34,Sat May 7 2016,18:30,CEST/+0200,SCR Altach,1-1,0-0,Wolfsberger AC,2016-05-07T16:30Z
+34,Sat May 7 2016,18:30,CEST/+0200,SV Ried,2-0,1-0,SV Grödig,2016-05-07T16:30Z
+34,Sun May 8 2016,16:30,CEST/+0200,SV Mattersburg,0-2,0-1,Rapid Wien,2016-05-08T14:30Z
+35,Wed May 11 2016,20:30,CEST/+0200,SV Grödig,1-2,1-1,RB Salzburg,2016-05-11T18:30Z
+35,Wed May 11 2016,20:30,CEST/+0200,Rapid Wien,1-1,0-1,SCR Altach,2016-05-11T18:30Z
+35,Wed May 11 2016,20:30,CEST/+0200,SV Ried,0-5,0-2,Austria Wien,2016-05-11T18:30Z
+35,Wed May 11 2016,20:30,CEST/+0200,Wolfsberger AC,1-2,0-0,FC Admira Wacker,2016-05-11T18:30Z
+35,Wed May 11 2016,20:30,CEST/+0200,Sturm Graz,1-1,0-0,SV Mattersburg,2016-05-11T18:30Z
+36,Sun May 15 2016,17:30,CEST/+0200,Austria Wien,3-0,0-0,Sturm Graz,2016-05-15T15:30Z
+36,Sun May 15 2016,17:30,CEST/+0200,RB Salzburg,1-0,0-0,Wolfsberger AC,2016-05-15T15:30Z
+36,Sun May 15 2016,17:30,CEST/+0200,SCR Altach,0-0,0-0,SV Ried,2016-05-15T15:30Z
+36,Sun May 15 2016,17:30,CEST/+0200,SV Mattersburg,2-3,0-1,SV Grödig,2016-05-15T15:30Z
+36,Sun May 15 2016,17:30,CEST/+0200,FC Admira Wacker,1-3,0-1,Rapid Wien,2016-05-15T15:30Z

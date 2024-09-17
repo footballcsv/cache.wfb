@@ -1,181 +1,181 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Jul 18 2014,18:30,SV Mattersburg,2-0,1-0,FC Wacker Innsbruck
-1,Fri Jul 18 2014,18:30,LASK Linz,2-1,2-1,Kapfenberger SV
-1,Fri Jul 18 2014,18:30,Austria Lustenau,0-0,0-0,Floridsdorfer AC
-1,Fri Jul 18 2014,18:30,TSV Hartberg,0-3,0-2,FC Liefering
-1,Mon Jul 21 2014,19:30,SKN St. Pölten,3-0,1-0,SV Horn
-2,Fri Jul 25 2014,18:30,FC Wacker Innsbruck,1-2,1-0,Austria Lustenau
-2,Fri Jul 25 2014,18:30,FC Liefering,1-1,0-0,Floridsdorfer AC
-2,Fri Jul 25 2014,18:30,LASK Linz,0-0,0-0,TSV Hartberg
-2,Fri Jul 25 2014,18:30,SV Horn,0-0,0-0,SV Mattersburg
-2,Mon Jul 28 2014,19:30,Kapfenberger SV,2-2,1-0,SKN St. Pölten
-3,Fri Aug 1 2014,20:30,TSV Hartberg,0-4,0-2,SV Mattersburg
-3,Fri Aug 1 2014,18:30,Kapfenberger SV,0-0,0-0,FC Wacker Innsbruck
-3,Fri Aug 1 2014,18:30,Floridsdorfer AC,2-1,0-0,SV Horn
-3,Fri Aug 1 2014,18:30,FC Liefering,2-0,0-0,Austria Lustenau
-4,Mon Aug 4 2014,18:30,SV Mattersburg,4-0,1-0,SKN St. Pölten
-4,Tue Aug 5 2014,18:30,FC Wacker Innsbruck,0-1,0-0,FC Liefering
-4,Tue Aug 5 2014,18:30,SV Horn,3-0,2-0,TSV Hartberg
-4,Tue Aug 5 2014,18:30,Austria Lustenau,1-2,1-0,LASK Linz
-4,Tue Aug 5 2014,18:30,Floridsdorfer AC,2-2,0-1,Kapfenberger SV
-5,Fri Aug 8 2014,20:30,FC Wacker Innsbruck,2-1,0-1,Floridsdorfer AC
-5,Fri Aug 8 2014,18:30,Austria Lustenau,5-0,2-0,TSV Hartberg
-5,Fri Aug 8 2014,18:30,Kapfenberger SV,0-0,0-0,SV Horn
-5,Fri Aug 8 2014,18:30,LASK Linz,1-0,0-0,SV Mattersburg
-3,Mon Aug 11 2014,19:30,SKN St. Pölten,1-0,1-0,LASK Linz
-6,Fri Aug 15 2014,20:30,SV Horn,0-2,0-1,LASK Linz
-6,Fri Aug 15 2014,18:30,SV Mattersburg,2-0,1-0,Austria Lustenau
-6,Fri Aug 15 2014,18:30,FC Liefering,3-2,1-1,Kapfenberger SV
-6,Fri Aug 15 2014,18:30,TSV Hartberg,0-3,0-2,FC Wacker Innsbruck
-6,Fri Aug 15 2014,18:30,Floridsdorfer AC,0-1,0-1,SKN St. Pölten
-5,Mon Aug 18 2014,19:30,SKN St. Pölten,2-3,2-1,FC Liefering
-7,Fri Aug 22 2014,18:30,SV Mattersburg,2-0,0-0,Floridsdorfer AC
-7,Fri Aug 22 2014,18:30,Austria Lustenau,0-1,0-0,SV Horn
-7,Fri Aug 22 2014,18:30,TSV Hartberg,1-3,1-1,Kapfenberger SV
-7,Fri Aug 22 2014,18:30,LASK Linz,2-0,0-0,FC Liefering
-7,Fri Aug 22 2014,20:30,SKN St. Pölten,0-1,0-0,FC Wacker Innsbruck
-8,Fri Aug 29 2014,18:30,SKN St. Pölten,1-1,1-0,Austria Lustenau
-8,Fri Aug 29 2014,18:30,Kapfenberger SV,2-2,0-0,SV Mattersburg
-8,Fri Aug 29 2014,18:30,FC Liefering,4-1,1-0,SV Horn
-8,Fri Aug 29 2014,18:30,Floridsdorfer AC,3-2,2-1,TSV Hartberg
-8,Fri Aug 29 2014,20:30,FC Wacker Innsbruck,1-0,0-0,LASK Linz
-9,Fri Sep 12 2014,18:30,SV Mattersburg,3-6,3-2,FC Liefering
-9,Fri Sep 12 2014,18:30,Austria Lustenau,1-3,0-2,Kapfenberger SV
-9,Fri Sep 12 2014,18:30,SV Horn,0-3,0-1,FC Wacker Innsbruck
-9,Fri Sep 12 2014,18:30,TSV Hartberg,1-0,0-0,SKN St. Pölten
-9,Fri Sep 12 2014,20:30,LASK Linz,5-1,1-0,Floridsdorfer AC
-10,Mon Sep 15 2014,18:30,Floridsdorfer AC,3-3,1-1,Austria Lustenau
-10,Tue Sep 16 2014,18:30,FC Liefering,0-3,0-1,TSV Hartberg
-10,Tue Sep 16 2014,18:30,FC Wacker Innsbruck,1-1,0-0,SV Mattersburg
-10,Tue Sep 16 2014,18:30,Kapfenberger SV,1-1,0-0,LASK Linz
-10,Tue Sep 16 2014,18:30,SV Horn,1-0,0-0,SKN St. Pölten
-11,Fri Sep 19 2014,18:30,SKN St. Pölten,1-0,0-0,Kapfenberger SV
-11,Fri Sep 19 2014,18:30,Austria Lustenau,1-1,1-0,FC Wacker Innsbruck
-11,Fri Sep 19 2014,18:30,TSV Hartberg,2-2,0-1,LASK Linz
-11,Fri Sep 19 2014,18:30,Floridsdorfer AC,2-2,2-1,FC Liefering
-11,Fri Sep 19 2014,20:30,SV Mattersburg,2-0,1-0,SV Horn
-12,Fri Sep 26 2014,18:30,FC Wacker Innsbruck,0-3,0-2,Kapfenberger SV
-12,Fri Sep 26 2014,18:30,SV Mattersburg,1-0,0-0,TSV Hartberg
-12,Fri Sep 26 2014,20:30,LASK Linz,2-1,2-1,SKN St. Pölten
-12,Fri Sep 26 2014,18:30,SV Horn,0-2,0-0,Floridsdorfer AC
-12,Fri Sep 26 2014,18:30,Austria Lustenau,5-2,1-1,FC Liefering
-13,Fri Oct 3 2014,18:30,SKN St. Pölten,0-2,0-1,SV Mattersburg
-13,Fri Oct 3 2014,18:30,Kapfenberger SV,0-0,0-0,Floridsdorfer AC
-13,Fri Oct 3 2014,20:30,TSV Hartberg,3-1,1-0,SV Horn
-13,Fri Oct 3 2014,18:30,LASK Linz,3-1,2-1,Austria Lustenau
-13,Fri Oct 3 2014,18:30,FC Liefering,4-1,2-0,FC Wacker Innsbruck
-14,Fri Oct 17 2014,18:30,SV Horn,4-1,1-0,Kapfenberger SV
-14,Fri Oct 17 2014,18:30,FC Liefering,1-2,0-1,SKN St. Pölten
-14,Fri Oct 17 2014,18:30,TSV Hartberg,0-1,0-0,Austria Lustenau
-14,Fri Oct 17 2014,18:30,Floridsdorfer AC,2-0,0-0,FC Wacker Innsbruck
-14,Fri Oct 17 2014,20:30,SV Mattersburg,0-1,0-0,LASK Linz
-15,Mon Oct 20 2014,18:30,FC Wacker Innsbruck,0-2,0-1,TSV Hartberg
-15,Tue Oct 21 2014,18:30,LASK Linz,2-0,0-0,SV Horn
-15,Tue Oct 21 2014,18:30,SKN St. Pölten,1-1,0-0,Floridsdorfer AC
-15,Tue Oct 21 2014,18:30,Kapfenberger SV,0-1,0-1,FC Liefering
-15,Tue Oct 21 2014,18:30,Austria Lustenau,3-3,1-1,SV Mattersburg
-16,Fri Oct 24 2014,18:30,FC Wacker Innsbruck,0-1,0-0,SKN St. Pölten
-16,Fri Oct 24 2014,18:30,SV Horn,1-0,0-0,Austria Lustenau
-16,Fri Oct 24 2014,18:30,Kapfenberger SV,1-0,0-0,TSV Hartberg
-16,Fri Oct 24 2014,18:30,Floridsdorfer AC,2-2,1-1,SV Mattersburg
-16,Fri Oct 24 2014,20:30,FC Liefering,1-0,0-0,LASK Linz
-17,Mon Nov 3 2014,18:30,LASK Linz,4-1,0-1,FC Wacker Innsbruck
-17,Tue Nov 4 2014,18:30,Austria Lustenau,2-1,1-1,SKN St. Pölten
-17,Tue Nov 4 2014,18:30,SV Mattersburg,4-2,2-0,Kapfenberger SV
-17,Tue Nov 4 2014,18:30,SV Horn,2-1,2-1,FC Liefering
-17,Tue Nov 4 2014,18:30,TSV Hartberg,1-1,0-0,Floridsdorfer AC
-18,Fri Nov 7 2014,18:30,FC Wacker Innsbruck,2-0,2-0,SV Horn
-18,Fri Nov 7 2014,18:30,SKN St. Pölten,1-0,0-0,TSV Hartberg
-18,Fri Nov 7 2014,18:30,Kapfenberger SV,1-1,0-0,Austria Lustenau
-18,Fri Nov 7 2014,18:30,Floridsdorfer AC,0-0,0-0,LASK Linz
-18,Fri Nov 7 2014,20:30,FC Liefering,3-1,1-0,SV Mattersburg
-19,Fri Nov 21 2014,20:30,SV Horn,1-0,0-0,SKN St. Pölten
-19,Fri Nov 21 2014,18:30,Austria Lustenau,0-3,0-1,Floridsdorfer AC
-19,Fri Nov 21 2014,18:30,TSV Hartberg,3-1,2-1,FC Liefering
-19,Fri Nov 21 2014,18:30,LASK Linz,0-0,0-0,Kapfenberger SV
-19,Fri Nov 21 2014,18:30,SV Mattersburg,3-1,2-0,FC Wacker Innsbruck
-20,Fri Nov 28 2014,18:30,FC Wacker Innsbruck,1-2,1-0,Austria Lustenau
-20,Fri Nov 28 2014,18:30,SKN St. Pölten,2-2,1-1,Kapfenberger SV
-20,Fri Nov 28 2014,18:30,SV Horn,0-1,0-1,SV Mattersburg
-20,Fri Nov 28 2014,18:30,FC Liefering,3-1,0-1,Floridsdorfer AC
-20,Fri Nov 28 2014,20:30,TSV Hartberg,2-2,1-1,LASK Linz
-21,Fri Feb 27 2015,18:30,SV Mattersburg,2-0,2-0,TSV Hartberg
-21,Fri Feb 27 2015,18:30,Austria Lustenau,2-4,1-2,FC Liefering
-21,Fri Feb 27 2015,20:30,LASK Linz,0-0,0-0,SKN St. Pölten
-21,Fri Feb 27 2015,18:30,Floridsdorfer AC,2-5,1-1,SV Horn
-21,Fri Feb 27 2015,18:30,Kapfenberger SV,3-0,2-0,FC Wacker Innsbruck
-22,Fri Mar 6 2015,18:30,FC Wacker Innsbruck,0-3,0-1,FC Liefering
-22,Fri Mar 6 2015,18:30,Kapfenberger SV,2-1,2-1,Floridsdorfer AC
-22,Fri Mar 6 2015,20:30,SKN St. Pölten,1-2,1-1,SV Mattersburg
-22,Fri Mar 6 2015,18:30,LASK Linz,3-2,2-1,Austria Lustenau
-22,Fri Mar 6 2015,18:30,TSV Hartberg,1-1,0-1,SV Horn
-23,Fri Mar 13 2015,18:30,Austria Lustenau,0-4,0-3,TSV Hartberg
-23,Fri Mar 13 2015,18:30,SV Horn,1-1,1-1,Kapfenberger SV
-23,Fri Mar 13 2015,18:30,FC Liefering,1-1,0-0,SKN St. Pölten
-23,Fri Mar 13 2015,18:30,Floridsdorfer AC,0-0,0-0,FC Wacker Innsbruck
-23,Fri Mar 13 2015,20:30,SV Mattersburg,3-0,2-0,LASK Linz
-24,Mon Mar 16 2015,18:30,FC Wacker Innsbruck,1-1,1-1,TSV Hartberg
-24,Tue Mar 17 2015,18:30,LASK Linz,1-1,0-0,SV Horn
-24,Tue Mar 17 2015,18:30,Austria Lustenau,3-1,1-0,SV Mattersburg
-24,Tue Mar 17 2015,18:30,Floridsdorfer AC,1-0,1-0,SKN St. Pölten
-24,Tue Mar 17 2015,18:30,Kapfenberger SV,3-2,3-1,FC Liefering
-25,Fri Mar 20 2015,18:30,SV Mattersburg,1-1,0-1,Floridsdorfer AC
-25,Fri Mar 20 2015,18:30,SKN St. Pölten,0-0,0-0,FC Wacker Innsbruck
-25,Fri Mar 20 2015,18:30,FC Liefering,3-1,2-1,LASK Linz
-25,Fri Mar 20 2015,18:30,TSV Hartberg,2-2,0-1,Kapfenberger SV
-25,Fri Mar 20 2015,20:30,SV Horn,0-0,0-0,Austria Lustenau
-26,Fri Apr 3 2015,18:30,FC Wacker Innsbruck,2-0,2-0,LASK Linz
-26,Fri Apr 3 2015,18:30,SKN St. Pölten,1-0,0-0,Austria Lustenau
-26,Fri Apr 3 2015,18:30,FC Liefering,3-1,1-0,SV Horn
-26,Fri Apr 3 2015,18:30,Floridsdorfer AC,1-3,1-1,TSV Hartberg
-26,Fri Apr 3 2015,20:30,Kapfenberger SV,1-2,0-1,SV Mattersburg
-27,Fri Apr 10 2015,18:30,SV Mattersburg,0-2,0-2,FC Liefering
-27,Fri Apr 10 2015,18:30,Austria Lustenau,3-2,0-1,Kapfenberger SV
-27,Fri Apr 10 2015,18:30,SV Horn,0-1,0-0,FC Wacker Innsbruck
-27,Fri Apr 10 2015,18:30,TSV Hartberg,2-3,1-0,SKN St. Pölten
-27,Fri Apr 10 2015,20:30,LASK Linz,0-2,0-0,Floridsdorfer AC
-28,Fri Apr 17 2015,18:30,SKN St. Pölten,2-2,1-1,SV Horn
-28,Fri Apr 17 2015,18:30,Kapfenberger SV,1-0,0-0,LASK Linz
-28,Fri Apr 17 2015,20:30,FC Wacker Innsbruck,1-0,0-0,SV Mattersburg
-28,Fri Apr 17 2015,18:30,Floridsdorfer AC,0-1,0-0,Austria Lustenau
-28,Fri Apr 17 2015,18:30,FC Liefering,4-1,2-0,TSV Hartberg
-29,Mon Apr 20 2015,18:30,Austria Lustenau,0-1,0-1,FC Wacker Innsbruck
-29,Tue Apr 21 2015,18:30,SV Mattersburg,1-0,0-0,SV Horn
-29,Tue Apr 21 2015,18:30,Kapfenberger SV,0-0,0-0,SKN St. Pölten
-29,Tue Apr 21 2015,18:30,Floridsdorfer AC,0-1,0-1,FC Liefering
-29,Tue Apr 21 2015,18:30,LASK Linz,0-1,0-0,TSV Hartberg
-30,Fri Apr 24 2015,18:30,FC Wacker Innsbruck,0-1,0-1,Kapfenberger SV
-30,Fri Apr 24 2015,18:30,SV Horn,3-1,1-0,Floridsdorfer AC
-30,Fri Apr 24 2015,20:30,SKN St. Pölten,0-1,0-1,LASK Linz
-30,Fri Apr 24 2015,18:30,TSV Hartberg,2-4,2-2,SV Mattersburg
-30,Fri Apr 24 2015,18:30,FC Liefering,0-4,0-2,Austria Lustenau
-31,Fri May 1 2015,20:30,FC Liefering,1-1,0-1,FC Wacker Innsbruck
-31,Fri May 1 2015,18:30,Austria Lustenau,1-2,0-2,LASK Linz
-31,Fri May 1 2015,18:30,SV Horn,0-1,0-1,TSV Hartberg
-31,Fri May 1 2015,18:30,Floridsdorfer AC,1-0,1-0,Kapfenberger SV
-31,Fri May 1 2015,18:30,SV Mattersburg,4-0,1-0,SKN St. Pölten
-32,Fri May 8 2015,18:30,FC Wacker Innsbruck,0-0,0-0,Floridsdorfer AC
-32,Fri May 8 2015,18:30,SKN St. Pölten,1-0,0-0,FC Liefering
-32,Fri May 8 2015,18:30,Kapfenberger SV,3-2,3-2,SV Horn
-32,Fri May 8 2015,18:30,TSV Hartberg,1-3,0-1,Austria Lustenau
-32,Fri May 8 2015,20:30,LASK Linz,2-2,1-0,SV Mattersburg
-33,Mon May 11 2015,18:30,TSV Hartberg,2-2,0-1,FC Wacker Innsbruck
-33,Tue May 12 2015,18:30,SV Mattersburg,1-1,1-0,Austria Lustenau
-33,Tue May 12 2015,18:30,SKN St. Pölten,3-1,1-1,Floridsdorfer AC
-33,Tue May 12 2015,18:30,SV Horn,2-0,2-0,LASK Linz
-33,Tue May 12 2015,18:30,FC Liefering,1-4,1-2,Kapfenberger SV
-34,Fri May 15 2015,18:30,FC Wacker Innsbruck,0-0,0-0,SKN St. Pölten
-34,Fri May 15 2015,18:30,Austria Lustenau,0-0,0-0,SV Horn
-34,Fri May 15 2015,20:30,Floridsdorfer AC,0-1,0-1,SV Mattersburg
-34,Fri May 15 2015,18:30,LASK Linz,1-1,1-1,FC Liefering
-34,Fri May 15 2015,18:30,Kapfenberger SV,0-1,0-1,TSV Hartberg
-35,Fri May 22 2015,19:30,LASK Linz,3-1,0-1,FC Wacker Innsbruck
-35,Fri May 22 2015,19:30,Austria Lustenau,0-2,0-1,SKN St. Pölten
-35,Fri May 22 2015,19:30,SV Horn,0-2,0-1,FC Liefering
-35,Fri May 22 2015,19:30,TSV Hartberg,1-2,1-0,Floridsdorfer AC
-35,Fri May 22 2015,19:30,SV Mattersburg,2-0,1-0,Kapfenberger SV
-36,Fri May 29 2015,19:30,FC Wacker Innsbruck,3-0,2-0,SV Horn
-36,Fri May 29 2015,19:30,SKN St. Pölten,5-3,2-1,TSV Hartberg
-36,Fri May 29 2015,19:30,Kapfenberger SV,3-0,1-0,Austria Lustenau
-36,Fri May 29 2015,19:30,FC Liefering,0-4,0-3,SV Mattersburg
-36,Fri May 29 2015,19:30,Floridsdorfer AC,0-0,0-0,LASK Linz
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Jul 18 2014,18:30,CEST/+0200,LASK Linz,2-1,2-1,Kapfenberger SV 1919,2014-07-18T16:30Z
+1,Fri Jul 18 2014,18:30,CEST/+0200,Austria Lustenau,0-0,0-0,Floridsdorfer AC,2014-07-18T16:30Z
+1,Fri Jul 18 2014,18:30,CEST/+0200,TSV Hartberg,0-3,0-2,FC Liefering,2014-07-18T16:30Z
+1,Fri Jul 18 2014,18:30,CEST/+0200,SV Mattersburg,2-0,1-0,FC Wacker Innsbruck,2014-07-18T16:30Z
+1,Mon Jul 21 2014,19:30,CEST/+0200,SKN St. Pölten,3-0,1-0,SV Horn,2014-07-21T17:30Z
+2,Fri Jul 25 2014,18:30,CEST/+0200,FC Wacker Innsbruck,1-2,1-0,Austria Lustenau,2014-07-25T16:30Z
+2,Fri Jul 25 2014,18:30,CEST/+0200,SV Horn,0-0,0-0,SV Mattersburg,2014-07-25T16:30Z
+2,Fri Jul 25 2014,18:30,CEST/+0200,LASK Linz,0-0,0-0,TSV Hartberg,2014-07-25T16:30Z
+2,Fri Jul 25 2014,18:30,CEST/+0200,FC Liefering,1-1,0-0,Floridsdorfer AC,2014-07-25T16:30Z
+2,Mon Jul 28 2014,19:30,CEST/+0200,Kapfenberger SV 1919,2-2,1-0,SKN St. Pölten,2014-07-28T17:30Z
+3,Fri Aug 1 2014,18:30,CEST/+0200,Kapfenberger SV 1919,0-0,0-0,FC Wacker Innsbruck,2014-08-01T16:30Z
+3,Fri Aug 1 2014,18:30,CEST/+0200,FC Liefering,2-0,0-0,Austria Lustenau,2014-08-01T16:30Z
+3,Fri Aug 1 2014,18:30,CEST/+0200,Floridsdorfer AC,2-1,0-0,SV Horn,2014-08-01T16:30Z
+3,Fri Aug 1 2014,20:30,CEST/+0200,TSV Hartberg,0-4,0-2,SV Mattersburg,2014-08-01T18:30Z
+4,Mon Aug 4 2014,18:30,CEST/+0200,SV Mattersburg,4-0,1-0,SKN St. Pölten,2014-08-04T16:30Z
+4,Tue Aug 5 2014,18:30,CEST/+0200,FC Wacker Innsbruck,0-1,0-0,FC Liefering,2014-08-05T16:30Z
+4,Tue Aug 5 2014,18:30,CEST/+0200,Austria Lustenau,1-2,1-0,LASK Linz,2014-08-05T16:30Z
+4,Tue Aug 5 2014,18:30,CEST/+0200,SV Horn,3-0,2-0,TSV Hartberg,2014-08-05T16:30Z
+4,Tue Aug 5 2014,18:30,CEST/+0200,Floridsdorfer AC,2-2,0-1,Kapfenberger SV 1919,2014-08-05T16:30Z
+5,Fri Aug 8 2014,20:30,CEST/+0200,FC Wacker Innsbruck,2-1,0-1,Floridsdorfer AC,2014-08-08T18:30Z
+5,Fri Aug 8 2014,18:30,CEST/+0200,Austria Lustenau,5-0,2-0,TSV Hartberg,2014-08-08T16:30Z
+5,Fri Aug 8 2014,18:30,CEST/+0200,Kapfenberger SV 1919,0-0,0-0,SV Horn,2014-08-08T16:30Z
+5,Fri Aug 8 2014,18:30,CEST/+0200,LASK Linz,1-0,0-0,SV Mattersburg,2014-08-08T16:30Z
+3,Mon Aug 11 2014,19:30,CEST/+0200,SKN St. Pölten,1-0,1-0,LASK Linz,2014-08-11T17:30Z
+6,Fri Aug 15 2014,18:30,CEST/+0200,SV Mattersburg,2-0,1-0,Austria Lustenau,2014-08-15T16:30Z
+6,Fri Aug 15 2014,18:30,CEST/+0200,FC Liefering,3-2,1-1,Kapfenberger SV 1919,2014-08-15T16:30Z
+6,Fri Aug 15 2014,18:30,CEST/+0200,TSV Hartberg,0-3,0-2,FC Wacker Innsbruck,2014-08-15T16:30Z
+6,Fri Aug 15 2014,18:30,CEST/+0200,Floridsdorfer AC,0-1,0-1,SKN St. Pölten,2014-08-15T16:30Z
+6,Fri Aug 15 2014,20:30,CEST/+0200,SV Horn,0-2,0-1,LASK Linz,2014-08-15T18:30Z
+5,Mon Aug 18 2014,19:30,CEST/+0200,SKN St. Pölten,2-3,2-1,FC Liefering,2014-08-18T17:30Z
+7,Fri Aug 22 2014,18:30,CEST/+0200,SV Mattersburg,2-0,0-0,Floridsdorfer AC,2014-08-22T16:30Z
+7,Fri Aug 22 2014,18:30,CEST/+0200,Austria Lustenau,0-1,0-0,SV Horn,2014-08-22T16:30Z
+7,Fri Aug 22 2014,18:30,CEST/+0200,TSV Hartberg,1-3,1-1,Kapfenberger SV 1919,2014-08-22T16:30Z
+7,Fri Aug 22 2014,18:30,CEST/+0200,LASK Linz,2-0,0-0,FC Liefering,2014-08-22T16:30Z
+7,Fri Aug 22 2014,20:30,CEST/+0200,SKN St. Pölten,0-1,0-0,FC Wacker Innsbruck,2014-08-22T18:30Z
+8,Fri Aug 29 2014,18:30,CEST/+0200,Kapfenberger SV 1919,2-2,0-0,SV Mattersburg,2014-08-29T16:30Z
+8,Fri Aug 29 2014,18:30,CEST/+0200,FC Liefering,4-1,1-0,SV Horn,2014-08-29T16:30Z
+8,Fri Aug 29 2014,18:30,CEST/+0200,Floridsdorfer AC,3-2,2-1,TSV Hartberg,2014-08-29T16:30Z
+8,Fri Aug 29 2014,20:30,CEST/+0200,FC Wacker Innsbruck,1-0,0-0,LASK Linz,2014-08-29T18:30Z
+8,Fri Aug 29 2014,18:30,CEST/+0200,SKN St. Pölten,1-1,1-0,Austria Lustenau,2014-08-29T16:30Z
+9,Fri Sep 12 2014,18:30,CEST/+0200,SV Mattersburg,3-6,3-2,FC Liefering,2014-09-12T16:30Z
+9,Fri Sep 12 2014,18:30,CEST/+0200,Austria Lustenau,1-3,0-2,Kapfenberger SV 1919,2014-09-12T16:30Z
+9,Fri Sep 12 2014,18:30,CEST/+0200,SV Horn,0-3,0-1,FC Wacker Innsbruck,2014-09-12T16:30Z
+9,Fri Sep 12 2014,18:30,CEST/+0200,TSV Hartberg,1-0,0-0,SKN St. Pölten,2014-09-12T16:30Z
+9,Fri Sep 12 2014,20:30,CEST/+0200,LASK Linz,5-1,1-0,Floridsdorfer AC,2014-09-12T18:30Z
+10,Mon Sep 15 2014,18:30,CEST/+0200,Floridsdorfer AC,3-3,1-1,Austria Lustenau,2014-09-15T16:30Z
+10,Tue Sep 16 2014,18:30,CEST/+0200,SV Horn,1-0,0-0,SKN St. Pölten,2014-09-16T16:30Z
+10,Tue Sep 16 2014,18:30,CEST/+0200,Kapfenberger SV 1919,1-1,0-0,LASK Linz,2014-09-16T16:30Z
+10,Tue Sep 16 2014,18:30,CEST/+0200,FC Liefering,0-3,0-1,TSV Hartberg,2014-09-16T16:30Z
+10,Tue Sep 16 2014,18:30,CEST/+0200,FC Wacker Innsbruck,1-1,0-0,SV Mattersburg,2014-09-16T16:30Z
+11,Fri Sep 19 2014,18:30,CEST/+0200,SKN St. Pölten,1-0,0-0,Kapfenberger SV 1919,2014-09-19T16:30Z
+11,Fri Sep 19 2014,18:30,CEST/+0200,Austria Lustenau,1-1,1-0,FC Wacker Innsbruck,2014-09-19T16:30Z
+11,Fri Sep 19 2014,18:30,CEST/+0200,TSV Hartberg,2-2,0-1,LASK Linz,2014-09-19T16:30Z
+11,Fri Sep 19 2014,18:30,CEST/+0200,Floridsdorfer AC,2-2,2-1,FC Liefering,2014-09-19T16:30Z
+11,Fri Sep 19 2014,20:30,CEST/+0200,SV Mattersburg,2-0,1-0,SV Horn,2014-09-19T18:30Z
+12,Fri Sep 26 2014,18:30,CEST/+0200,FC Wacker Innsbruck,0-3,0-2,Kapfenberger SV 1919,2014-09-26T16:30Z
+12,Fri Sep 26 2014,18:30,CEST/+0200,SV Mattersburg,1-0,0-0,TSV Hartberg,2014-09-26T16:30Z
+12,Fri Sep 26 2014,18:30,CEST/+0200,Austria Lustenau,5-2,1-1,FC Liefering,2014-09-26T16:30Z
+12,Fri Sep 26 2014,18:30,CEST/+0200,SV Horn,0-2,0-0,Floridsdorfer AC,2014-09-26T16:30Z
+12,Fri Sep 26 2014,20:30,CEST/+0200,LASK Linz,2-1,2-1,SKN St. Pölten,2014-09-26T18:30Z
+13,Fri Oct 3 2014,18:30,CEST/+0200,Kapfenberger SV 1919,0-0,0-0,Floridsdorfer AC,2014-10-03T16:30Z
+13,Fri Oct 3 2014,18:30,CEST/+0200,FC Liefering,4-1,2-0,FC Wacker Innsbruck,2014-10-03T16:30Z
+13,Fri Oct 3 2014,18:30,CEST/+0200,LASK Linz,3-1,2-1,Austria Lustenau,2014-10-03T16:30Z
+13,Fri Oct 3 2014,20:30,CEST/+0200,TSV Hartberg,3-1,1-0,SV Horn,2014-10-03T18:30Z
+13,Fri Oct 3 2014,18:30,CEST/+0200,SKN St. Pölten,0-2,0-1,SV Mattersburg,2014-10-03T16:30Z
+14,Fri Oct 17 2014,18:30,CEST/+0200,SV Horn,4-1,1-0,Kapfenberger SV 1919,2014-10-17T16:30Z
+14,Fri Oct 17 2014,18:30,CEST/+0200,FC Liefering,1-2,0-1,SKN St. Pölten,2014-10-17T16:30Z
+14,Fri Oct 17 2014,18:30,CEST/+0200,TSV Hartberg,0-1,0-0,Austria Lustenau,2014-10-17T16:30Z
+14,Fri Oct 17 2014,18:30,CEST/+0200,Floridsdorfer AC,2-0,0-0,FC Wacker Innsbruck,2014-10-17T16:30Z
+14,Fri Oct 17 2014,20:30,CEST/+0200,SV Mattersburg,0-1,0-0,LASK Linz,2014-10-17T18:30Z
+15,Mon Oct 20 2014,18:30,CEST/+0200,FC Wacker Innsbruck,0-2,0-1,TSV Hartberg,2014-10-20T16:30Z
+15,Tue Oct 21 2014,18:30,CEST/+0200,Austria Lustenau,3-3,1-1,SV Mattersburg,2014-10-21T16:30Z
+15,Tue Oct 21 2014,18:30,CEST/+0200,Kapfenberger SV 1919,0-1,0-1,FC Liefering,2014-10-21T16:30Z
+15,Tue Oct 21 2014,18:30,CEST/+0200,LASK Linz,2-0,0-0,SV Horn,2014-10-21T16:30Z
+15,Tue Oct 21 2014,18:30,CEST/+0200,SKN St. Pölten,1-1,0-0,Floridsdorfer AC,2014-10-21T16:30Z
+16,Fri Oct 24 2014,18:30,CEST/+0200,FC Wacker Innsbruck,0-1,0-0,SKN St. Pölten,2014-10-24T16:30Z
+16,Fri Oct 24 2014,18:30,CEST/+0200,SV Horn,1-0,0-0,Austria Lustenau,2014-10-24T16:30Z
+16,Fri Oct 24 2014,18:30,CEST/+0200,Kapfenberger SV 1919,1-0,0-0,TSV Hartberg,2014-10-24T16:30Z
+16,Fri Oct 24 2014,18:30,CEST/+0200,Floridsdorfer AC,2-2,1-1,SV Mattersburg,2014-10-24T16:30Z
+16,Fri Oct 24 2014,20:30,CEST/+0200,FC Liefering,1-0,0-0,LASK Linz,2014-10-24T18:30Z
+17,Mon Nov 3 2014,18:30,CET/+0100,LASK Linz,4-1,0-1,FC Wacker Innsbruck,2014-11-03T17:30Z
+17,Tue Nov 4 2014,18:30,CET/+0100,Austria Lustenau,2-1,1-1,SKN St. Pölten,2014-11-04T17:30Z
+17,Tue Nov 4 2014,18:30,CET/+0100,SV Horn,2-1,2-1,FC Liefering,2014-11-04T17:30Z
+17,Tue Nov 4 2014,18:30,CET/+0100,TSV Hartberg,1-1,0-0,Floridsdorfer AC,2014-11-04T17:30Z
+17,Tue Nov 4 2014,18:30,CET/+0100,SV Mattersburg,4-2,2-0,Kapfenberger SV 1919,2014-11-04T17:30Z
+18,Fri Nov 7 2014,18:30,CET/+0100,FC Wacker Innsbruck,2-0,2-0,SV Horn,2014-11-07T17:30Z
+18,Fri Nov 7 2014,18:30,CET/+0100,SKN St. Pölten,1-0,0-0,TSV Hartberg,2014-11-07T17:30Z
+18,Fri Nov 7 2014,18:30,CET/+0100,Kapfenberger SV 1919,1-1,0-0,Austria Lustenau,2014-11-07T17:30Z
+18,Fri Nov 7 2014,18:30,CET/+0100,Floridsdorfer AC,0-0,0-0,LASK Linz,2014-11-07T17:30Z
+18,Fri Nov 7 2014,20:30,CET/+0100,FC Liefering,3-1,1-0,SV Mattersburg,2014-11-07T19:30Z
+19,Fri Nov 21 2014,18:30,CET/+0100,SV Mattersburg,3-1,2-0,FC Wacker Innsbruck,2014-11-21T17:30Z
+19,Fri Nov 21 2014,18:30,CET/+0100,Austria Lustenau,0-3,0-1,Floridsdorfer AC,2014-11-21T17:30Z
+19,Fri Nov 21 2014,18:30,CET/+0100,TSV Hartberg,3-1,2-1,FC Liefering,2014-11-21T17:30Z
+19,Fri Nov 21 2014,18:30,CET/+0100,LASK Linz,0-0,0-0,Kapfenberger SV 1919,2014-11-21T17:30Z
+19,Fri Nov 21 2014,20:30,CET/+0100,SV Horn,1-0,0-0,SKN St. Pölten,2014-11-21T19:30Z
+20,Fri Nov 28 2014,18:30,CET/+0100,SKN St. Pölten,2-2,1-1,Kapfenberger SV 1919,2014-11-28T17:30Z
+20,Fri Nov 28 2014,18:30,CET/+0100,SV Horn,0-1,0-1,SV Mattersburg,2014-11-28T17:30Z
+20,Fri Nov 28 2014,18:30,CET/+0100,FC Liefering,3-1,0-1,Floridsdorfer AC,2014-11-28T17:30Z
+20,Fri Nov 28 2014,20:30,CET/+0100,TSV Hartberg,2-2,1-1,LASK Linz,2014-11-28T19:30Z
+20,Fri Nov 28 2014,18:30,CET/+0100,FC Wacker Innsbruck,1-2,1-0,Austria Lustenau,2014-11-28T17:30Z
+21,Fri Feb 27 2015,18:30,CET/+0100,SV Mattersburg,2-0,2-0,TSV Hartberg,2015-02-27T17:30Z
+21,Fri Feb 27 2015,18:30,CET/+0100,Austria Lustenau,2-4,1-2,FC Liefering,2015-02-27T17:30Z
+21,Fri Feb 27 2015,18:30,CET/+0100,Kapfenberger SV 1919,3-0,2-0,FC Wacker Innsbruck,2015-02-27T17:30Z
+21,Fri Feb 27 2015,18:30,CET/+0100,Floridsdorfer AC,2-5,1-1,SV Horn,2015-02-27T17:30Z
+21,Fri Feb 27 2015,20:30,CET/+0100,LASK Linz,0-0,0-0,SKN St. Pölten,2015-02-27T19:30Z
+22,Fri Mar 6 2015,18:30,CET/+0100,FC Wacker Innsbruck,0-3,0-1,FC Liefering,2015-03-06T17:30Z
+22,Fri Mar 6 2015,18:30,CET/+0100,Kapfenberger SV 1919,2-1,2-1,Floridsdorfer AC,2015-03-06T17:30Z
+22,Fri Mar 6 2015,18:30,CET/+0100,TSV Hartberg,1-1,0-1,SV Horn,2015-03-06T17:30Z
+22,Fri Mar 6 2015,18:30,CET/+0100,LASK Linz,3-2,2-1,Austria Lustenau,2015-03-06T17:30Z
+22,Fri Mar 6 2015,20:30,CET/+0100,SKN St. Pölten,1-2,1-1,SV Mattersburg,2015-03-06T19:30Z
+23,Fri Mar 13 2015,18:30,CET/+0100,SV Horn,1-1,1-1,Kapfenberger SV 1919,2015-03-13T17:30Z
+23,Fri Mar 13 2015,18:30,CET/+0100,FC Liefering,1-1,0-0,SKN St. Pölten,2015-03-13T17:30Z
+23,Fri Mar 13 2015,18:30,CET/+0100,Floridsdorfer AC,0-0,0-0,FC Wacker Innsbruck,2015-03-13T17:30Z
+23,Fri Mar 13 2015,20:30,CET/+0100,SV Mattersburg,3-0,2-0,LASK Linz,2015-03-13T19:30Z
+23,Fri Mar 13 2015,18:30,CET/+0100,Austria Lustenau,0-4,0-3,TSV Hartberg,2015-03-13T17:30Z
+24,Mon Mar 16 2015,18:30,CET/+0100,FC Wacker Innsbruck,1-1,1-1,TSV Hartberg,2015-03-16T17:30Z
+24,Tue Mar 17 2015,18:30,CET/+0100,Kapfenberger SV 1919,3-2,3-1,FC Liefering,2015-03-17T17:30Z
+24,Tue Mar 17 2015,18:30,CET/+0100,Floridsdorfer AC,1-0,1-0,SKN St. Pölten,2015-03-17T17:30Z
+24,Tue Mar 17 2015,18:30,CET/+0100,LASK Linz,1-1,0-0,SV Horn,2015-03-17T17:30Z
+24,Tue Mar 17 2015,18:30,CET/+0100,Austria Lustenau,3-1,1-0,SV Mattersburg,2015-03-17T17:30Z
+25,Fri Mar 20 2015,18:30,CET/+0100,SV Mattersburg,1-1,0-1,Floridsdorfer AC,2015-03-20T17:30Z
+25,Fri Mar 20 2015,18:30,CET/+0100,SKN St. Pölten,0-0,0-0,FC Wacker Innsbruck,2015-03-20T17:30Z
+25,Fri Mar 20 2015,18:30,CET/+0100,FC Liefering,3-1,2-1,LASK Linz,2015-03-20T17:30Z
+25,Fri Mar 20 2015,18:30,CET/+0100,TSV Hartberg,2-2,0-1,Kapfenberger SV 1919,2015-03-20T17:30Z
+25,Fri Mar 20 2015,20:30,CET/+0100,SV Horn,0-0,0-0,Austria Lustenau,2015-03-20T19:30Z
+26,Fri Apr 3 2015,18:30,CEST/+0200,FC Wacker Innsbruck,2-0,2-0,LASK Linz,2015-04-03T16:30Z
+26,Fri Apr 3 2015,18:30,CEST/+0200,SKN St. Pölten,1-0,0-0,Austria Lustenau,2015-04-03T16:30Z
+26,Fri Apr 3 2015,18:30,CEST/+0200,FC Liefering,3-1,1-0,SV Horn,2015-04-03T16:30Z
+26,Fri Apr 3 2015,18:30,CEST/+0200,Floridsdorfer AC,1-3,1-1,TSV Hartberg,2015-04-03T16:30Z
+26,Fri Apr 3 2015,20:30,CEST/+0200,Kapfenberger SV 1919,1-2,0-1,SV Mattersburg,2015-04-03T18:30Z
+27,Fri Apr 10 2015,18:30,CEST/+0200,Austria Lustenau,3-2,0-1,Kapfenberger SV 1919,2015-04-10T16:30Z
+27,Fri Apr 10 2015,18:30,CEST/+0200,SV Horn,0-1,0-0,FC Wacker Innsbruck,2015-04-10T16:30Z
+27,Fri Apr 10 2015,18:30,CEST/+0200,TSV Hartberg,2-3,1-0,SKN St. Pölten,2015-04-10T16:30Z
+27,Fri Apr 10 2015,20:30,CEST/+0200,LASK Linz,0-2,0-0,Floridsdorfer AC,2015-04-10T18:30Z
+27,Fri Apr 10 2015,18:30,CEST/+0200,SV Mattersburg,0-2,0-2,FC Liefering,2015-04-10T16:30Z
+28,Fri Apr 17 2015,18:30,CEST/+0200,SKN St. Pölten,2-2,1-1,SV Horn,2015-04-17T16:30Z
+28,Fri Apr 17 2015,18:30,CEST/+0200,Kapfenberger SV 1919,1-0,0-0,LASK Linz,2015-04-17T16:30Z
+28,Fri Apr 17 2015,18:30,CEST/+0200,FC Liefering,4-1,2-0,TSV Hartberg,2015-04-17T16:30Z
+28,Fri Apr 17 2015,18:30,CEST/+0200,Floridsdorfer AC,0-1,0-0,Austria Lustenau,2015-04-17T16:30Z
+28,Fri Apr 17 2015,20:30,CEST/+0200,FC Wacker Innsbruck,1-0,0-0,SV Mattersburg,2015-04-17T18:30Z
+29,Mon Apr 20 2015,18:30,CEST/+0200,Austria Lustenau,0-1,0-1,FC Wacker Innsbruck,2015-04-20T16:30Z
+29,Tue Apr 21 2015,18:30,CEST/+0200,Kapfenberger SV 1919,0-0,0-0,SKN St. Pölten,2015-04-21T16:30Z
+29,Tue Apr 21 2015,18:30,CEST/+0200,Floridsdorfer AC,0-1,0-1,FC Liefering,2015-04-21T16:30Z
+29,Tue Apr 21 2015,18:30,CEST/+0200,LASK Linz,0-1,0-0,TSV Hartberg,2015-04-21T16:30Z
+29,Tue Apr 21 2015,18:30,CEST/+0200,SV Mattersburg,1-0,0-0,SV Horn,2015-04-21T16:30Z
+30,Fri Apr 24 2015,18:30,CEST/+0200,FC Wacker Innsbruck,0-1,0-1,Kapfenberger SV 1919,2015-04-24T16:30Z
+30,Fri Apr 24 2015,18:30,CEST/+0200,SV Horn,3-1,1-0,Floridsdorfer AC,2015-04-24T16:30Z
+30,Fri Apr 24 2015,18:30,CEST/+0200,FC Liefering,0-4,0-2,Austria Lustenau,2015-04-24T16:30Z
+30,Fri Apr 24 2015,18:30,CEST/+0200,TSV Hartberg,2-4,2-2,SV Mattersburg,2015-04-24T16:30Z
+30,Fri Apr 24 2015,20:30,CEST/+0200,SKN St. Pölten,0-1,0-1,LASK Linz,2015-04-24T18:30Z
+31,Fri May 1 2015,18:30,CEST/+0200,SV Mattersburg,4-0,1-0,SKN St. Pölten,2015-05-01T16:30Z
+31,Fri May 1 2015,18:30,CEST/+0200,Austria Lustenau,1-2,0-2,LASK Linz,2015-05-01T16:30Z
+31,Fri May 1 2015,18:30,CEST/+0200,SV Horn,0-1,0-1,TSV Hartberg,2015-05-01T16:30Z
+31,Fri May 1 2015,18:30,CEST/+0200,Floridsdorfer AC,1-0,1-0,Kapfenberger SV 1919,2015-05-01T16:30Z
+31,Fri May 1 2015,20:30,CEST/+0200,FC Liefering,1-1,0-1,FC Wacker Innsbruck,2015-05-01T18:30Z
+32,Fri May 8 2015,18:30,CEST/+0200,SKN St. Pölten,1-0,0-0,FC Liefering,2015-05-08T16:30Z
+32,Fri May 8 2015,18:30,CEST/+0200,Kapfenberger SV 1919,3-2,3-2,SV Horn,2015-05-08T16:30Z
+32,Fri May 8 2015,18:30,CEST/+0200,TSV Hartberg,1-3,0-1,Austria Lustenau,2015-05-08T16:30Z
+32,Fri May 8 2015,20:30,CEST/+0200,LASK Linz,2-2,1-0,SV Mattersburg,2015-05-08T18:30Z
+32,Fri May 8 2015,18:30,CEST/+0200,FC Wacker Innsbruck,0-0,0-0,Floridsdorfer AC,2015-05-08T16:30Z
+33,Mon May 11 2015,18:30,CEST/+0200,TSV Hartberg,2-2,0-1,FC Wacker Innsbruck,2015-05-11T16:30Z
+33,Tue May 12 2015,18:30,CEST/+0200,SKN St. Pölten,3-1,1-1,Floridsdorfer AC,2015-05-12T16:30Z
+33,Tue May 12 2015,18:30,CEST/+0200,SV Horn,2-0,2-0,LASK Linz,2015-05-12T16:30Z
+33,Tue May 12 2015,18:30,CEST/+0200,FC Liefering,1-4,1-2,Kapfenberger SV 1919,2015-05-12T16:30Z
+33,Tue May 12 2015,18:30,CEST/+0200,SV Mattersburg,1-1,1-0,Austria Lustenau,2015-05-12T16:30Z
+34,Fri May 15 2015,18:30,CEST/+0200,FC Wacker Innsbruck,0-0,0-0,SKN St. Pölten,2015-05-15T16:30Z
+34,Fri May 15 2015,18:30,CEST/+0200,Austria Lustenau,0-0,0-0,SV Horn,2015-05-15T16:30Z
+34,Fri May 15 2015,18:30,CEST/+0200,Kapfenberger SV 1919,0-1,0-1,TSV Hartberg,2015-05-15T16:30Z
+34,Fri May 15 2015,18:30,CEST/+0200,LASK Linz,1-1,1-1,FC Liefering,2015-05-15T16:30Z
+34,Fri May 15 2015,20:30,CEST/+0200,Floridsdorfer AC,0-1,0-1,SV Mattersburg,2015-05-15T18:30Z
+35,Fri May 22 2015,19:30,CEST/+0200,SV Mattersburg,2-0,1-0,Kapfenberger SV 1919,2015-05-22T17:30Z
+35,Fri May 22 2015,19:30,CEST/+0200,Austria Lustenau,0-2,0-1,SKN St. Pölten,2015-05-22T17:30Z
+35,Fri May 22 2015,19:30,CEST/+0200,SV Horn,0-2,0-1,FC Liefering,2015-05-22T17:30Z
+35,Fri May 22 2015,19:30,CEST/+0200,TSV Hartberg,1-2,1-0,Floridsdorfer AC,2015-05-22T17:30Z
+35,Fri May 22 2015,19:30,CEST/+0200,LASK Linz,3-1,0-1,FC Wacker Innsbruck,2015-05-22T17:30Z
+36,Fri May 29 2015,19:30,CEST/+0200,SKN St. Pölten,5-3,2-1,TSV Hartberg,2015-05-29T17:30Z
+36,Fri May 29 2015,19:30,CEST/+0200,Kapfenberger SV 1919,3-0,1-0,Austria Lustenau,2015-05-29T17:30Z
+36,Fri May 29 2015,19:30,CEST/+0200,FC Liefering,0-4,0-3,SV Mattersburg,2015-05-29T17:30Z
+36,Fri May 29 2015,19:30,CEST/+0200,Floridsdorfer AC,0-0,0-0,LASK Linz,2015-05-29T17:30Z
+36,Fri May 29 2015,19:30,CEST/+0200,FC Wacker Innsbruck,3-0,2-0,SV Horn,2015-05-29T17:30Z

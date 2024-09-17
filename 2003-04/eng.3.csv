@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 9 2003,15:00,BST/+0100,Barnsley FC,1-0,0-0,Colchester United,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Bristol City,5-0,2-0,Notts County,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Luton Town,3-1,0-1,Rushden & Diamonds FC,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Oldham Athletic,1-3,0-2,Brighton & Hove Albion,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Peterborough United,3-4,2-1,Hartlepool United,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Plymouth Argyle,2-2,1-1,Grimsby Town,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Port Vale FC,2-1,0-0,AFC Bournemouth,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Queens Park Rangers,5-0,2-0,Blackpool FC,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Swindon Town,2-3,1-3,Sheffield Wednesday,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Tranmere Rovers,4-1,2-0,Brentford FC,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Wrexham AFC,0-0,0-0,Chesterfield FC,2003-08-09T14:00Z
+1,Sat Aug 9 2003,15:00,BST/+0100,Wycombe Wanderers,1-0,1-0,Stockport County,2003-08-09T14:00Z
+2,Fri Aug 15 2003,19:45,BST/+0100,Colchester United,0-1,0-0,Swindon Town,2003-08-15T18:45Z
+2,Sat Aug 16 2003,15:00,BST/+0100,AFC Bournemouth,2-2,2-1,Barnsley FC,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Blackpool FC,3-2,2-2,Wycombe Wanderers,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Brentford FC,0-3,0-1,Peterborough United,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Chesterfield FC,1-1,1-1,Bristol City,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Grimsby Town,1-2,1-0,Port Vale FC,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Hartlepool United,0-0,0-0,Tranmere Rovers,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Notts County,0-1,0-0,Wrexham AFC,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Rushden & Diamonds FC,2-1,0-0,Plymouth Argyle,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Sheffield Wednesday,2-2,1-1,Oldham Athletic,2003-08-16T14:00Z
+2,Sat Aug 16 2003,15:00,BST/+0100,Stockport County,1-2,0-1,Luton Town,2003-08-16T14:00Z
+2,Mon Aug 18 2003,20:00,BST/+0100,Brighton & Hove Albion,2-1,1-1,Queens Park Rangers,2003-08-18T19:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Barnsley FC,1-0,0-0,Brighton & Hove Albion,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Bristol City,1-1,0-0,Hartlepool United,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Luton Town,1-2,0-1,Grimsby Town,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Oldham Athletic,2-3,1-0,Blackpool FC,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Peterborough United,0-1,0-1,Sheffield Wednesday,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Plymouth Argyle,3-1,3-1,Stockport County,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Port Vale FC,4-3,1-2,Colchester United,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Queens Park Rangers,1-0,0-0,AFC Bournemouth,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Swindon Town,4-0,2-0,Notts County,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Tranmere Rovers,1-2,0-2,Rushden & Diamonds FC,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Wrexham AFC,1-0,1-0,Brentford FC,2003-08-23T14:00Z
+3,Sat Aug 23 2003,15:00,BST/+0100,Wycombe Wanderers,3-3,2-2,Chesterfield FC,2003-08-23T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,AFC Bournemouth,2-2,1-2,Swindon Town,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Blackpool FC,0-2,0-1,Barnsley FC,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Brentford FC,2-1,1-1,Oldham Athletic,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Brighton & Hove Albion,2-0,1-0,Luton Town,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Chesterfield FC,1-1,0-0,Plymouth Argyle,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Grimsby Town,3-1,1-0,Wycombe Wanderers,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Hartlepool United,2-0,1-0,Port Vale FC,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Notts County,0-1,0-1,Peterborough United,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Rushden & Diamonds FC,3-3,1-2,Queens Park Rangers,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Sheffield Wednesday,2-3,1-1,Wrexham AFC,2003-08-25T14:00Z
+4,Mon Aug 25 2003,15:00,BST/+0100,Stockport County,1-1,0-1,Tranmere Rovers,2003-08-25T14:00Z
+4,Tue Aug 26 2003,19:45,BST/+0100,Colchester United,2-1,0-0,Bristol City,2003-08-26T18:45Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Barnsley FC,1-1,0-0,Notts County,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Bristol City,1-0,0-0,Grimsby Town,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Luton Town,3-2,3-1,Hartlepool United,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Oldham Athletic,3-2,1-1,Rushden & Diamonds FC,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Peterborough United,1-2,0-1,Stockport County,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Plymouth Argyle,3-3,1-2,Brighton & Hove Albion,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Port Vale FC,1-0,0-0,Brentford FC,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Queens Park Rangers,3-0,1-0,Chesterfield FC,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Swindon Town,2-2,2-2,Blackpool FC,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Tranmere Rovers,1-1,1-1,Colchester United,2003-08-30T14:00Z
+5,Sat Aug 30 2003,15:00,BST/+0100,Wrexham AFC,0-1,0-1,AFC Bournemouth,2003-08-30T14:00Z
+5,Mon Sep 1 2003,20:00,BST/+0100,Wycombe Wanderers,1-2,1-2,Sheffield Wednesday,2003-09-01T19:00Z
+6,Sat Sep 6 2003,12:05,BST/+0100,AFC Bournemouth,0-0,0-0,Bristol City,2003-09-06T11:05Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Brentford FC,1-3,1-1,Plymouth Argyle,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Brighton & Hove Albion,2-2,1-1,Swindon Town,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Chesterfield FC,0-2,0-1,Barnsley FC,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Colchester United,2-2,1-0,Queens Park Rangers,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Grimsby Town,1-1,0-1,Peterborough United,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Hartlepool United,0-0,0-0,Oldham Athletic,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Notts County,1-1,0-1,Luton Town,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Rushden & Diamonds FC,2-0,1-0,Wycombe Wanderers,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Sheffield Wednesday,2-0,0-0,Tranmere Rovers,2003-09-06T14:00Z
+6,Sat Sep 6 2003,15:00,BST/+0100,Stockport County,2-2,2-0,Port Vale FC,2003-09-06T14:00Z
+7,Fri Sep 12 2003,19:45,BST/+0100,Hartlepool United,8-1,4-0,Grimsby Town,2003-09-12T18:45Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Tranmere Rovers,0-0,0-0,Peterborough United,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Blackpool FC,1-2,1-0,AFC Bournemouth,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Chesterfield FC,0-1,0-0,Notts County,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Colchester United,1-0,0-0,Brighton & Hove Albion,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Oldham Athletic,1-1,0-1,Bristol City,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Plymouth Argyle,2-1,0-0,Luton Town,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Port Vale FC,3-1,1-1,Barnsley FC,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Queens Park Rangers,0-0,0-0,Wycombe Wanderers,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Rushden & Diamonds FC,0-1,0-1,Brentford FC,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Sheffield Wednesday,2-2,2-0,Stockport County,2003-09-13T14:00Z
+7,Sat Sep 13 2003,15:00,BST/+0100,Swindon Town,1-0,0-0,Wrexham AFC,2003-09-13T14:00Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Wycombe Wanderers,1-2,0-2,Colchester United,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,AFC Bournemouth,1-0,0-0,Sheffield Wednesday,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Barnsley FC,1-1,0-0,Oldham Athletic,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Brentford FC,0-0,0-0,Blackpool FC,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Brighton & Hove Albion,1-0,1-0,Chesterfield FC,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Bristol City,2-0,1-0,Tranmere Rovers,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Grimsby Town,1-2,1-0,Swindon Town,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Luton Town,2-0,1-0,Port Vale FC,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Notts County,1-3,1-1,Rushden & Diamonds FC,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Peterborough United,2-2,1-1,Plymouth Argyle,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Stockport County,1-2,1-1,Hartlepool United,2003-09-16T18:45Z
+8,Tue Sep 16 2003,19:45,BST/+0100,Wrexham AFC,0-2,0-1,Queens Park Rangers,2003-09-16T18:45Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Grimsby Town,4-0,1-0,Chesterfield FC,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,AFC Bournemouth,2-1,0-1,Rushden & Diamonds FC,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Barnsley FC,1-1,0-1,Swindon Town,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Brentford FC,2-1,1-1,Hartlepool United,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Brighton & Hove Albion,2-0,1-0,Sheffield Wednesday,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Bristol City,0-1,0-0,Port Vale FC,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Wycombe Wanderers,2-5,0-3,Oldham Athletic,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Luton Town,1-1,0-0,Queens Park Rangers,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Notts County,2-2,1-1,Tranmere Rovers,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Peterborough United,1-2,0-1,Colchester United,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Stockport County,1-3,1-0,Blackpool FC,2003-09-20T14:00Z
+9,Sat Sep 20 2003,15:00,BST/+0100,Wrexham AFC,2-2,2-1,Plymouth Argyle,2003-09-20T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Sheffield Wednesday,0-0,0-0,Grimsby Town,2003-09-27T14:00Z
+10,Sat Sep 27 2003,12:00,BST/+0100,Tranmere Rovers,1-2,1-0,Wrexham AFC,2003-09-27T11:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Blackpool FC,2-1,2-1,Notts County,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Chesterfield FC,1-2,0-0,Brentford FC,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Colchester United,1-0,0-0,AFC Bournemouth,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Hartlepool United,0-0,0-0,Brighton & Hove Albion,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Oldham Athletic,3-0,2-0,Luton Town,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Plymouth Argyle,2-0,1-0,Barnsley FC,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Port Vale FC,1-1,1-0,Wycombe Wanderers,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Queens Park Rangers,1-1,0-0,Bristol City,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Rushden & Diamonds FC,2-2,1-1,Stockport County,2003-09-27T14:00Z
+10,Sat Sep 27 2003,15:00,BST/+0100,Swindon Town,2-0,0-0,Peterborough United,2003-09-27T14:00Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Tranmere Rovers,2-1,1-0,Wycombe Wanderers,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Blackpool FC,0-1,0-0,Grimsby Town,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Chesterfield FC,1-1,1-0,AFC Bournemouth,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Colchester United,1-1,0-1,Brentford FC,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Hartlepool United,2-0,2-0,Wrexham AFC,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Oldham Athletic,2-0,1-0,Stockport County,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Plymouth Argyle,0-1,0-1,Bristol City,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Port Vale FC,3-0,1-0,Peterborough United,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Queens Park Rangers,4-0,0-0,Barnsley FC,2003-09-30T18:45Z
+11,Tue Sep 30 2003,19:45,BST/+0100,Rushden & Diamonds FC,1-3,0-1,Brighton & Hove Albion,2003-09-30T18:45Z
+11,Wed Oct 1 2003,19:45,BST/+0100,Swindon Town,2-2,1-0,Luton Town,2003-10-01T18:45Z
+11,Wed Oct 1 2003,19:45,BST/+0100,Sheffield Wednesday,2-1,1-0,Notts County,2003-10-01T18:45Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Wycombe Wanderers,0-0,0-0,Plymouth Argyle,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,AFC Bournemouth,2-2,0-1,Hartlepool United,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Barnsley FC,2-0,1-0,Rushden & Diamonds FC,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Brentford FC,0-3,0-2,Sheffield Wednesday,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Brighton & Hove Albion,3-0,2-0,Blackpool FC,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Bristol City,2-1,0-1,Swindon Town,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Grimsby Town,0-1,0-0,Queens Park Rangers,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Notts County,3-0,1-0,Colchester United,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Peterborough United,2-2,1-1,Oldham Athletic,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Stockport County,0-0,0-0,Chesterfield FC,2003-10-04T14:00Z
+12,Sat Oct 4 2003,15:00,BST/+0100,Wrexham AFC,2-1,1-1,Port Vale FC,2003-10-04T14:00Z
+12,Mon Oct 6 2003,20:00,BST/+0100,Luton Town,3-1,1-0,Tranmere Rovers,2003-10-06T19:00Z
+13,Fri Oct 10 2003,19:45,BST/+0100,Bristol City,1-1,1-0,Peterborough United,2003-10-10T18:45Z
+13,Fri Oct 10 2003,19:45,BST/+0100,Hartlepool United,1-1,0-0,Sheffield Wednesday,2003-10-10T18:45Z
+13,Sat Oct 11 2003,15:00,BST/+0100,Colchester United,1-1,1-0,Blackpool FC,2003-10-11T14:00Z
+13,Sat Oct 11 2003,12:30,BST/+0100,Oldham Athletic,2-1,0-0,Port Vale FC,2003-10-11T11:30Z
+13,Sat Oct 11 2003,15:00,BST/+0100,Brighton & Hove Albion,3-0,0-0,Grimsby Town,2003-10-11T14:00Z
+13,Sat Oct 11 2003,15:00,BST/+0100,Swindon Town,1-2,1-0,Stockport County,2003-10-11T14:00Z
+13,Sat Oct 11 2003,15:00,BST/+0100,Luton Town,3-1,0-0,Wycombe Wanderers,2003-10-11T14:00Z
+13,Sat Oct 11 2003,15:00,BST/+0100,Notts County,0-1,0-0,AFC Bournemouth,2003-10-11T14:00Z
+13,Sat Oct 11 2003,15:00,BST/+0100,Plymouth Argyle,6-0,3-0,Tranmere Rovers,2003-10-11T14:00Z
+13,Sat Oct 11 2003,15:00,BST/+0100,Rushden & Diamonds FC,2-1,2-1,Chesterfield FC,2003-10-11T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Wycombe Wanderers,1-2,0-2,Barnsley FC,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Wrexham AFC,0-0,0-0,Bristol City,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Tranmere Rovers,2-1,0-1,Oldham Athletic,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,AFC Bournemouth,1-0,1-0,Brighton & Hove Albion,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Blackpool FC,4-0,3-0,Hartlepool United,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Brentford FC,4-2,1-0,Luton Town,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Chesterfield FC,3-0,2-0,Swindon Town,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Grimsby Town,2-0,1-0,Colchester United,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Peterborough United,0-0,0-0,Queens Park Rangers,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Port Vale FC,1-5,0-3,Plymouth Argyle,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Sheffield Wednesday,0-0,0-0,Rushden & Diamonds FC,2003-10-18T14:00Z
+14,Sat Oct 18 2003,15:00,BST/+0100,Stockport County,2-2,0-0,Notts County,2003-10-18T14:00Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Tranmere Rovers,1-0,0-0,Swindon Town,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Stockport County,1-3,0-2,Colchester United,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Chesterfield FC,1-2,0-1,Hartlepool United,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,AFC Bournemouth,6-3,4-2,Luton Town,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Wrexham AFC,4-0,2-0,Oldham Athletic,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Wycombe Wanderers,3-0,1-0,Bristol City,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Blackpool FC,2-3,1-1,Rushden & Diamonds FC,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Brentford FC,4-0,2-0,Brighton & Hove Albion,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Port Vale FC,2-0,2-0,Queens Park Rangers,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Grimsby Town,2-0,1-0,Notts County,2003-10-21T18:45Z
+15,Tue Oct 21 2003,19:45,BST/+0100,Peterborough United,2-3,2-1,Barnsley FC,2003-10-21T18:45Z
+15,Wed Oct 22 2003,19:45,BST/+0100,Sheffield Wednesday,1-3,0-1,Plymouth Argyle,2003-10-22T18:45Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Queens Park Rangers,1-1,0-1,Tranmere Rovers,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Swindon Town,0-0,0-0,Port Vale FC,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Hartlepool United,1-1,1-1,Wycombe Wanderers,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Barnsley FC,0-0,0-0,Grimsby Town,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Brighton & Hove Albion,0-1,0-0,Stockport County,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Bristol City,1-1,0-1,Sheffield Wednesday,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Colchester United,1-0,1-0,Chesterfield FC,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Plymouth Argyle,1-0,1-0,Blackpool FC,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Luton Town,1-1,1-0,Peterborough United,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Notts County,2-0,1-0,Brentford FC,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Oldham Athletic,1-1,1-1,AFC Bournemouth,2003-10-25T14:00Z
+16,Sat Oct 25 2003,15:00,BST/+0100,Rushden & Diamonds FC,2-3,0-2,Wrexham AFC,2003-10-25T14:00Z
+13,Tue Oct 28 2003,19:45,GMT/+0000,Barnsley FC,2-1,1-0,Wrexham AFC,2003-10-28T19:45Z
+17,Fri Oct 31 2003,19:45,GMT/+0000,Wrexham AFC,0-1,0-1,Colchester United,2003-10-31T19:45Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Tranmere Rovers,1-1,1-0,AFC Bournemouth,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Swindon Town,2-0,1-0,Wycombe Wanderers,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Brentford FC,2-1,0-0,Barnsley FC,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Bristol City,1-1,1-1,Luton Town,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Chesterfield FC,1-0,0-0,Port Vale FC,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Notts County,1-0,0-0,Hartlepool United,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Peterborough United,2-2,2-1,Brighton & Hove Albion,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Plymouth Argyle,2-2,1-1,Oldham Athletic,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Rushden & Diamonds FC,3-1,0-1,Grimsby Town,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Sheffield Wednesday,0-1,0-0,Blackpool FC,2003-11-01T15:00Z
+17,Sat Nov 1 2003,15:00,GMT/+0000,Stockport County,1-2,0-2,Queens Park Rangers,2003-11-01T15:00Z
+6,Tue Nov 11 2003,19:45,GMT/+0000,Blackpool FC,0-1,0-0,Wrexham AFC,2003-11-11T19:45Z
+13,Tue Nov 11 2003,19:45,GMT/+0000,Queens Park Rangers,1-0,1-0,Brentford FC,2003-11-11T19:45Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,AFC Bournemouth,1-2,0-2,Peterborough United,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Barnsley FC,2-0,1-0,Tranmere Rovers,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Blackpool FC,1-0,1-0,Chesterfield FC,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Brighton & Hove Albion,1-4,1-3,Bristol City,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Colchester United,3-1,1-0,Sheffield Wednesday,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Grimsby Town,1-1,0-0,Stockport County,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Hartlepool United,2-1,1-0,Rushden & Diamonds FC,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Luton Town,3-2,1-2,Wrexham AFC,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Oldham Athletic,0-1,0-0,Swindon Town,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Port Vale FC,1-0,0-0,Notts County,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Queens Park Rangers,3-0,1-0,Plymouth Argyle,2003-11-15T15:00Z
+18,Sat Nov 15 2003,15:00,GMT/+0000,Wycombe Wanderers,1-2,0-1,Brentford FC,2003-11-15T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Brentford FC,1-3,1-1,Grimsby Town,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Bristol City,2-1,1-0,Barnsley FC,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Chesterfield FC,1-1,1-0,Oldham Athletic,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Notts County,1-2,1-2,Brighton & Hove Albion,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Peterborough United,0-1,0-0,Blackpool FC,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Plymouth Argyle,2-0,1-0,Hartlepool United,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Rushden & Diamonds FC,4-0,2-0,Colchester United,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Luton Town,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Stockport County,3-2,2-0,AFC Bournemouth,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Swindon Town,1-1,1-0,Queens Park Rangers,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Tranmere Rovers,1-0,0-0,Port Vale FC,2003-11-22T15:00Z
+19,Sat Nov 22 2003,15:00,GMT/+0000,Wrexham AFC,0-0,0-0,Wycombe Wanderers,2003-11-22T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,AFC Bournemouth,1-0,0-0,Brentford FC,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Barnsley FC,3-3,1-2,Stockport County,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Blackpool FC,1-0,0-0,Bristol City,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Brighton & Hove Albion,2-0,1-0,Wrexham AFC,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Colchester United,0-2,0-2,Plymouth Argyle,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Grimsby Town,0-1,0-0,Tranmere Rovers,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Hartlepool United,2-0,1-0,Swindon Town,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Luton Town,1-0,1-0,Chesterfield FC,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Oldham Athletic,0-1,0-1,Notts County,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Port Vale FC,1-1,1-1,Rushden & Diamonds FC,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Queens Park Rangers,3-0,1-0,Sheffield Wednesday,2003-11-29T15:00Z
+20,Sat Nov 29 2003,15:00,GMT/+0000,Wycombe Wanderers,1-2,0-1,Peterborough United,2003-11-29T15:00Z
+21,Fri Dec 12 2003,19:45,GMT/+0000,Brighton & Hove Albion,1-1,1-0,Port Vale FC,2003-12-12T19:45Z
+21,Sat Dec 13 2003,13:00,GMT/+0000,Barnsley FC,1-1,1-1,Sheffield Wednesday,2003-12-13T13:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,AFC Bournemouth,0-0,0-0,Grimsby Town,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Blackpool FC,0-1,0-1,Luton Town,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Chesterfield FC,2-2,2-1,Tranmere Rovers,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Colchester United,2-1,0-0,Oldham Athletic,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Notts County,1-1,0-1,Wycombe Wanderers,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Queens Park Rangers,4-1,3-0,Hartlepool United,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Rushden & Diamonds FC,1-1,1-0,Bristol City,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Stockport County,1-1,0-0,Brentford FC,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Swindon Town,2-3,0-1,Plymouth Argyle,2003-12-13T15:00Z
+21,Sat Dec 13 2003,15:00,GMT/+0000,Wrexham AFC,2-0,0-0,Peterborough United,2003-12-13T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Brentford FC,0-2,0-0,Swindon Town,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Bristol City,1-0,0-0,Stockport County,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Hartlepool United,0-0,0-0,Colchester United,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Luton Town,0-1,0-0,Barnsley FC,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Oldham Athletic,2-1,0-1,Queens Park Rangers,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Peterborough United,3-1,0-0,Rushden & Diamonds FC,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Plymouth Argyle,3-0,1-0,Notts County,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Chesterfield FC,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Tranmere Rovers,1-0,0-0,Brighton & Hove Albion,2003-12-20T15:00Z
+22,Sat Dec 20 2003,15:00,GMT/+0000,Wycombe Wanderers,2-0,1-0,AFC Bournemouth,2003-12-20T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Sheffield Wednesday,2-3,2-1,Port Vale FC,2003-12-26T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Rushden & Diamonds FC,2-0,1-0,Swindon Town,2003-12-26T15:00Z
+23,Fri Dec 26 2003,12:00,GMT/+0000,Brentford FC,1-2,0-0,Bristol City,2003-12-26T12:00Z
+23,Fri Dec 26 2003,13:00,GMT/+0000,Brighton & Hove Albion,4-0,2-0,Wycombe Wanderers,2003-12-26T13:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,AFC Bournemouth,0-2,0-2,Plymouth Argyle,2003-12-26T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Blackpool FC,2-1,1-0,Tranmere Rovers,2003-12-26T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Chesterfield FC,2-1,0-1,Peterborough United,2003-12-26T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Colchester United,1-1,1-1,Luton Town,2003-12-26T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Grimsby Town,3-3,1-2,Oldham Athletic,2003-12-26T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Hartlepool United,1-2,1-1,Barnsley FC,2003-12-26T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Notts County,3-3,2-2,Queens Park Rangers,2003-12-26T15:00Z
+23,Fri Dec 26 2003,15:00,GMT/+0000,Stockport County,0-1,0-0,Wrexham AFC,2003-12-26T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Wycombe Wanderers,0-2,0-2,Rushden & Diamonds FC,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Wrexham AFC,4-2,4-2,Blackpool FC,2003-12-28T15:00Z
+24,Sun Dec 28 2003,14:00,GMT/+0000,Barnsley FC,0-1,0-0,Chesterfield FC,2003-12-28T14:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Bristol City,2-0,1-0,AFC Bournemouth,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Luton Town,2-0,1-0,Notts County,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Oldham Athletic,0-2,0-1,Hartlepool United,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Peterborough United,0-0,0-0,Grimsby Town,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Plymouth Argyle,2-0,0-0,Brentford FC,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Port Vale FC,2-2,2-2,Stockport County,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Queens Park Rangers,2-0,1-0,Colchester United,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Swindon Town,2-1,1-0,Brighton & Hove Albion,2003-12-28T15:00Z
+24,Sun Dec 28 2003,15:00,GMT/+0000,Tranmere Rovers,2-2,0-2,Sheffield Wednesday,2003-12-28T15:00Z
+25,Sat Jan 3 2004,15:00,GMT/+0000,Swindon Town,2-1,1-1,AFC Bournemouth,2004-01-03T15:00Z
+25,Sat Jan 3 2004,13:00,GMT/+0000,Wrexham AFC,1-2,0-1,Sheffield Wednesday,2004-01-03T13:00Z
+25,Sat Jan 3 2004,15:00,GMT/+0000,Wycombe Wanderers,4-1,2-1,Grimsby Town,2004-01-03T15:00Z
+25,Sat Jan 3 2004,15:00,GMT/+0000,Queens Park Rangers,1-0,1-0,Rushden & Diamonds FC,2004-01-03T15:00Z
+25,Sat Jan 3 2004,15:00,GMT/+0000,Plymouth Argyle,7-0,6-0,Chesterfield FC,2004-01-03T15:00Z
+25,Sat Jan 3 2004,15:00,GMT/+0000,Oldham Athletic,1-1,0-1,Brentford FC,2004-01-03T15:00Z
+25,Tue Jan 6 2004,19:45,GMT/+0000,Peterborough United,5-2,2-1,Notts County,2004-01-06T19:45Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Brentford FC,2-2,1-1,Tranmere Rovers,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Sheffield Wednesday,1-1,0-0,Swindon Town,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Rushden & Diamonds FC,2-2,1-2,Luton Town,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Notts County,1-2,1-1,Bristol City,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Hartlepool United,1-0,1-0,Peterborough United,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Grimsby Town,0-0,0-0,Plymouth Argyle,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Stockport County,2-0,2-0,Wycombe Wanderers,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,AFC Bournemouth,2-1,0-1,Port Vale FC,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Blackpool FC,0-1,0-1,Queens Park Rangers,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Colchester United,1-1,1-0,Barnsley FC,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Brighton & Hove Albion,0-0,0-0,Oldham Athletic,2004-01-10T15:00Z
+26,Sat Jan 10 2004,15:00,GMT/+0000,Chesterfield FC,2-1,0-0,Wrexham AFC,2004-01-10T15:00Z
+22,Wed Jan 14 2004,19:45,GMT/+0000,Port Vale FC,2-1,2-0,Blackpool FC,2004-01-14T19:45Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Tranmere Rovers,0-0,0-0,Hartlepool United,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Wrexham AFC,0-1,0-1,Notts County,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Wycombe Wanderers,0-3,0-2,Blackpool FC,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Swindon Town,2-0,1-0,Colchester United,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Queens Park Rangers,2-1,2-1,Brighton & Hove Albion,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Oldham Athletic,1-0,1-0,Sheffield Wednesday,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Barnsley FC,1-1,0-1,AFC Bournemouth,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Bristol City,4-0,1-0,Chesterfield FC,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Luton Town,2-2,1-1,Stockport County,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Plymouth Argyle,3-0,0-0,Rushden & Diamonds FC,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Peterborough United,0-0,0-0,Brentford FC,2004-01-17T15:00Z
+27,Sat Jan 17 2004,15:00,GMT/+0000,Port Vale FC,5-1,4-1,Grimsby Town,2004-01-17T15:00Z
+22,Tue Jan 20 2004,19:45,GMT/+0000,Grimsby Town,1-3,0-2,Wrexham AFC,2004-01-20T19:45Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,Notts County,1-2,0-1,Swindon Town,2004-01-24T15:00Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,Hartlepool United,1-2,0-0,Bristol City,2004-01-24T15:00Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,Chesterfield FC,2-2,0-1,Wycombe Wanderers,2004-01-24T15:00Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,Brighton & Hove Albion,1-0,1-0,Barnsley FC,2004-01-24T15:00Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,Brentford FC,0-1,0-0,Wrexham AFC,2004-01-24T15:00Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,AFC Bournemouth,1-0,0-0,Queens Park Rangers,2004-01-24T15:00Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,Sheffield Wednesday,2-0,0-0,Peterborough United,2004-01-24T15:00Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,Stockport County,0-2,0-1,Plymouth Argyle,2004-01-24T15:00Z
+28,Sat Jan 24 2004,15:00,GMT/+0000,Blackpool FC,1-1,1-0,Oldham Athletic,2004-01-24T15:00Z
+25,Tue Jan 27 2004,19:45,GMT/+0000,Tranmere Rovers,3-2,1-1,Stockport County,2004-01-27T19:45Z
+25,Tue Jan 27 2004,19:45,GMT/+0000,Bristol City,1-0,1-0,Colchester United,2004-01-27T19:45Z
+25,Tue Jan 27 2004,19:45,GMT/+0000,Port Vale FC,2-5,1-2,Hartlepool United,2004-01-27T19:45Z
+25,Tue Jan 27 2004,19:45,GMT/+0000,Barnsley FC,3-0,1-0,Blackpool FC,2004-01-27T19:45Z
+29,Fri Jan 30 2004,19:45,GMT/+0000,Sheffield Wednesday,1-1,0-1,Wycombe Wanderers,2004-01-30T19:45Z
+29,Sat Jan 31 2004,15:00,GMT/+0000,Rushden & Diamonds FC,4-1,2-0,Oldham Athletic,2004-01-31T15:00Z
+29,Sat Jan 31 2004,15:00,GMT/+0000,Notts County,1-1,1-0,Barnsley FC,2004-01-31T15:00Z
+29,Sat Jan 31 2004,17:35,GMT/+0000,Brighton & Hove Albion,2-1,2-0,Plymouth Argyle,2004-01-31T17:35Z
+29,Sat Jan 31 2004,15:00,GMT/+0000,Stockport County,2-2,2-2,Peterborough United,2004-01-31T15:00Z
+29,Sat Jan 31 2004,15:00,GMT/+0000,Blackpool FC,2-2,1-0,Swindon Town,2004-01-31T15:00Z
+29,Sat Jan 31 2004,15:00,GMT/+0000,Brentford FC,3-2,1-1,Port Vale FC,2004-01-31T15:00Z
+29,Sat Jan 31 2004,15:00,GMT/+0000,Chesterfield FC,4-2,1-1,Queens Park Rangers,2004-01-31T15:00Z
+29,Sat Jan 31 2004,15:00,GMT/+0000,Colchester United,1-1,0-1,Tranmere Rovers,2004-01-31T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Tranmere Rovers,1-1,0-1,Blackpool FC,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Wrexham AFC,0-0,0-0,Stockport County,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Wycombe Wanderers,1-1,1-1,Brighton & Hove Albion,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Swindon Town,4-2,2-0,Rushden & Diamonds FC,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Queens Park Rangers,3-2,0-0,Notts County,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Port Vale FC,3-0,1-0,Sheffield Wednesday,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Plymouth Argyle,0-0,0-0,AFC Bournemouth,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Barnsley FC,2-2,0-1,Hartlepool United,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Bristol City,3-1,1-0,Brentford FC,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Luton Town,1-0,0-0,Colchester United,2004-02-07T15:00Z
+30,Sat Feb 7 2004,15:00,GMT/+0000,Peterborough United,0-2,0-0,Chesterfield FC,2004-02-07T15:00Z
+30,Sun Feb 8 2004,15:00,GMT/+0000,Oldham Athletic,6-0,5-0,Grimsby Town,2004-02-08T15:00Z
+25,Tue Feb 10 2004,19:45,GMT/+0000,Luton Town,2-0,1-0,Brighton & Hove Albion,2004-02-10T19:45Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Peterborough United,0-1,0-0,Bristol City,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Wycombe Wanderers,0-0,0-0,Luton Town,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Wrexham AFC,1-0,1-0,Barnsley FC,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Port Vale FC,1-0,0-0,Oldham Athletic,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Hartlepool United,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Grimsby Town,2-1,1-1,Brighton & Hove Albion,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,AFC Bournemouth,1-0,0-0,Notts County,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Brentford FC,1-1,0-1,Queens Park Rangers,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Chesterfield FC,2-0,1-0,Rushden & Diamonds FC,2004-02-14T15:00Z
+31,Sat Feb 14 2004,15:00,GMT/+0000,Stockport County,2-4,1-3,Swindon Town,2004-02-14T15:00Z
+29,Tue Feb 17 2004,19:45,GMT/+0000,Grimsby Town,1-2,1-1,Bristol City,2004-02-17T19:45Z
+31,Tue Feb 17 2004,19:45,GMT/+0000,Tranmere Rovers,3-0,2-0,Plymouth Argyle,2004-02-17T19:45Z
+32,Fri Feb 20 2004,19:45,GMT/+0000,Hartlepool United,1-1,0-0,Blackpool FC,2004-02-20T19:45Z
+32,Fri Feb 20 2004,19:45,GMT/+0000,Queens Park Rangers,1-1,0-1,Peterborough United,2004-02-20T19:45Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Oldham Athletic,1-1,0-0,Tranmere Rovers,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Plymouth Argyle,2-1,0-0,Port Vale FC,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Luton Town,4-1,1-0,Brentford FC,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Swindon Town,2-0,1-0,Chesterfield FC,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Rushden & Diamonds FC,1-2,0-1,Sheffield Wednesday,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Notts County,4-1,2-0,Stockport County,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Barnsley FC,0-0,0-0,Wycombe Wanderers,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Brighton & Hove Albion,3-0,3-0,AFC Bournemouth,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Bristol City,1-0,1-0,Wrexham AFC,2004-02-21T15:00Z
+32,Sat Feb 21 2004,15:00,GMT/+0000,Colchester United,2-0,0-0,Grimsby Town,2004-02-21T15:00Z
+28,Tue Feb 24 2004,19:45,GMT/+0000,Rushden & Diamonds FC,2-1,0-0,Tranmere Rovers,2004-02-24T19:45Z
+28,Tue Feb 24 2004,19:45,GMT/+0000,Colchester United,1-4,1-3,Port Vale FC,2004-02-24T19:45Z
+28,Tue Feb 24 2004,19:45,GMT/+0000,Grimsby Town,3-2,0-1,Luton Town,2004-02-24T19:45Z
+29,Tue Feb 24 2004,19:45,GMT/+0000,AFC Bournemouth,6-0,2-0,Wrexham AFC,2004-02-24T19:45Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,Wrexham AFC,1-1,1-1,Rushden & Diamonds FC,2004-02-28T15:00Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,Wycombe Wanderers,3-4,2-3,Hartlepool United,2004-02-28T15:00Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,AFC Bournemouth,1-0,0-0,Oldham Athletic,2004-02-28T15:00Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,Blackpool FC,0-1,0-0,Plymouth Argyle,2004-02-28T15:00Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,Brentford FC,2-3,2-1,Notts County,2004-02-28T15:00Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,Grimsby Town,6-1,4-0,Barnsley FC,2004-02-28T15:00Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,Peterborough United,1-2,0-1,Luton Town,2004-02-28T15:00Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Bristol City,2004-02-28T15:00Z
+33,Sat Feb 28 2004,15:00,GMT/+0000,Stockport County,1-1,1-0,Brighton & Hove Albion,2004-02-28T15:00Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Rushden & Diamonds FC,0-0,0-0,Blackpool FC,2004-03-02T19:45Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Colchester United,2-1,0-0,Stockport County,2004-03-02T19:45Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Queens Park Rangers,3-2,0-1,Port Vale FC,2004-03-02T19:45Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Plymouth Argyle,2-0,1-0,Sheffield Wednesday,2004-03-02T19:45Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Notts County,3-1,2-1,Grimsby Town,2004-03-02T19:45Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Barnsley FC,0-1,0-0,Peterborough United,2004-03-02T19:45Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Brighton & Hove Albion,1-0,0-0,Brentford FC,2004-03-02T19:45Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Bristol City,1-1,0-0,Wycombe Wanderers,2004-03-02T19:45Z
+34,Tue Mar 2 2004,19:45,GMT/+0000,Hartlepool United,2-0,0-0,Chesterfield FC,2004-03-02T19:45Z
+34,Wed Mar 3 2004,19:45,GMT/+0000,Swindon Town,2-0,1-0,Tranmere Rovers,2004-03-03T19:45Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Swindon Town,2-1,1-1,Brentford FC,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Wrexham AFC,3-0,3-0,Grimsby Town,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Notts County,0-0,0-0,Plymouth Argyle,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Colchester United,1-2,1-1,Hartlepool United,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Stockport County,2-0,1-0,Bristol City,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Rushden & Diamonds FC,0-1,0-1,Peterborough United,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Queens Park Rangers,1-1,0-1,Oldham Athletic,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,AFC Bournemouth,1-0,1-0,Wycombe Wanderers,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Barnsley FC,0-0,0-0,Luton Town,2004-03-06T15:00Z
+35,Sat Mar 6 2004,15:00,GMT/+0000,Blackpool FC,2-1,0-1,Port Vale FC,2004-03-06T15:00Z
+35,Sun Mar 7 2004,14:00,GMT/+0000,Chesterfield FC,3-1,1-0,Sheffield Wednesday,2004-03-07T14:00Z
+35,Wed Mar 10 2004,19:45,GMT/+0000,Brighton & Hove Albion,3-0,3-0,Tranmere Rovers,2004-03-10T19:45Z
+36,Fri Mar 12 2004,19:45,GMT/+0000,Bristol City,1-0,1-0,Rushden & Diamonds FC,2004-03-12T19:45Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Port Vale FC,1-1,1-1,Brighton & Hove Albion,2004-03-13T15:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Peterborough United,6-1,2-1,Wrexham AFC,2004-03-13T15:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Oldham Athletic,0-0,0-0,Colchester United,2004-03-13T15:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Luton Town,3-2,1-0,Blackpool FC,2004-03-13T15:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Hartlepool United,1-4,0-0,Queens Park Rangers,2004-03-13T15:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Tranmere Rovers,2-3,0-1,Chesterfield FC,2004-03-13T15:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Plymouth Argyle,2-1,1-0,Swindon Town,2004-03-13T15:00Z
+36,Sat Mar 13 2004,14:00,GMT/+0000,Sheffield Wednesday,2-1,1-0,Barnsley FC,2004-03-13T14:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Brentford FC,0-2,0-0,Stockport County,2004-03-13T15:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Grimsby Town,1-1,1-0,AFC Bournemouth,2004-03-13T15:00Z
+36,Sat Mar 13 2004,15:00,GMT/+0000,Wycombe Wanderers,1-1,0-1,Notts County,2004-03-13T15:00Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Plymouth Argyle,2-0,0-0,Peterborough United,2004-03-16T19:45Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Port Vale FC,1-0,0-0,Luton Town,2004-03-16T19:45Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Colchester United,1-1,1-1,Wycombe Wanderers,2004-03-16T19:45Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Queens Park Rangers,2-0,0-0,Wrexham AFC,2004-03-16T19:45Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Rushden & Diamonds FC,2-1,2-0,Notts County,2004-03-16T19:45Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Oldham Athletic,1-1,0-1,Barnsley FC,2004-03-16T19:45Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Hartlepool United,2-2,1-2,Stockport County,2004-03-16T19:45Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Blackpool FC,1-1,0-1,Brentford FC,2004-03-16T19:45Z
+37,Tue Mar 16 2004,19:45,GMT/+0000,Chesterfield FC,0-2,0-0,Brighton & Hove Albion,2004-03-16T19:45Z
+37,Wed Mar 17 2004,19:45,GMT/+0000,Sheffield Wednesday,0-2,0-2,AFC Bournemouth,2004-03-17T19:45Z
+37,Wed Mar 17 2004,19:45,GMT/+0000,Swindon Town,2-0,2-0,Grimsby Town,2004-03-17T19:45Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Stockport County,1-0,1-0,Sheffield Wednesday,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Wrexham AFC,3-2,1-0,Swindon Town,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Wycombe Wanderers,2-2,2-0,Queens Park Rangers,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:30,GMT/+0000,Brentford FC,3-2,3-0,Rushden & Diamonds FC,2004-03-20T15:30Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Peterborough United,0-0,0-0,Tranmere Rovers,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Notts County,1-1,0-0,Chesterfield FC,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Bristol City,0-2,0-2,Oldham Athletic,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Luton Town,1-1,1-0,Plymouth Argyle,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Barnsley FC,0-0,0-0,Port Vale FC,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Brighton & Hove Albion,2-1,1-0,Colchester United,2004-03-20T15:00Z
+38,Sat Mar 20 2004,15:00,GMT/+0000,Grimsby Town,0-2,0-1,Hartlepool United,2004-03-20T15:00Z
+33,Tue Mar 23 2004,19:45,GMT/+0000,Chesterfield FC,1-2,0-1,Colchester United,2004-03-23T19:45Z
+37,Wed Mar 24 2004,19:45,GMT/+0000,Tranmere Rovers,1-0,0-0,Bristol City,2004-03-24T19:45Z
+38,Wed Mar 24 2004,19:45,GMT/+0000,AFC Bournemouth,1-2,0-1,Blackpool FC,2004-03-24T19:45Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Port Vale FC,2-1,0-0,Bristol City,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Sheffield Wednesday,2-1,1-1,Brighton & Hove Albion,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Swindon Town,1-1,1-1,Barnsley FC,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Tranmere Rovers,4-0,2-0,Notts County,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Rushden & Diamonds FC,0-3,0-1,AFC Bournemouth,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Queens Park Rangers,1-1,1-0,Luton Town,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Blackpool FC,1-1,0-0,Stockport County,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Chesterfield FC,4-4,1-2,Grimsby Town,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Colchester United,0-0,0-0,Peterborough United,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Hartlepool United,1-2,1-2,Brentford FC,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Oldham Athletic,2-3,2-2,Wycombe Wanderers,2004-03-27T15:00Z
+39,Sat Mar 27 2004,15:00,GMT/+0000,Plymouth Argyle,0-0,0-0,Wrexham AFC,2004-03-27T15:00Z
+31,Tue Mar 30 2004,19:45,BST/+0100,Blackpool FC,0-0,0-0,Colchester United,2004-03-30T18:45Z
+33,Tue Mar 30 2004,19:45,BST/+0100,Port Vale FC,3-3,2-0,Swindon Town,2004-03-30T18:45Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Stockport County,2-1,0-0,Rushden & Diamonds FC,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Brentford FC,1-1,0-0,Chesterfield FC,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Peterborough United,4-2,2-1,Swindon Town,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Notts County,4-1,3-0,Blackpool FC,2004-04-03T14:00Z
+40,Sat Apr 3 2004,12:00,BST/+0100,Wrexham AFC,0-1,0-0,Tranmere Rovers,2004-04-03T11:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,AFC Bournemouth,1-1,0-1,Colchester United,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Barnsley FC,1-0,0-0,Plymouth Argyle,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Wycombe Wanderers,2-1,1-1,Port Vale FC,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Brighton & Hove Albion,2-0,0-0,Hartlepool United,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Bristol City,1-0,1-0,Queens Park Rangers,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Grimsby Town,2-0,2-0,Sheffield Wednesday,2004-04-03T14:00Z
+40,Sat Apr 3 2004,15:00,BST/+0100,Luton Town,1-1,1-1,Oldham Athletic,2004-04-03T14:00Z
+33,Tue Apr 6 2004,19:45,BST/+0100,Tranmere Rovers,0-0,0-0,Queens Park Rangers,2004-04-06T18:45Z
+29,Tue Apr 6 2004,19:45,BST/+0100,Hartlepool United,4-3,1-2,Luton Town,2004-04-06T18:45Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Colchester United,4-1,2-0,Notts County,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Tranmere Rovers,1-0,1-0,Luton Town,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Blackpool FC,3-1,1-0,Brighton & Hove Albion,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Chesterfield FC,0-3,0-2,Stockport County,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Swindon Town,1-1,0-1,Bristol City,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Hartlepool United,2-1,1-1,AFC Bournemouth,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Oldham Athletic,1-1,0-1,Peterborough United,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Plymouth Argyle,2-1,1-1,Wycombe Wanderers,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Port Vale FC,1-0,0-0,Wrexham AFC,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Queens Park Rangers,3-0,1-0,Grimsby Town,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Rushden & Diamonds FC,2-3,1-3,Barnsley FC,2004-04-10T14:00Z
+41,Sat Apr 10 2004,15:00,BST/+0100,Sheffield Wednesday,1-1,0-0,Brentford FC,2004-04-10T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Grimsby Town,0-2,0-1,Blackpool FC,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Wrexham AFC,1-2,0-1,Hartlepool United,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,AFC Bournemouth,2-2,0-2,Chesterfield FC,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Barnsley FC,3-3,1-1,Queens Park Rangers,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Brentford FC,3-2,1-0,Colchester United,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Brighton & Hove Albion,0-0,0-0,Rushden & Diamonds FC,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Wycombe Wanderers,1-2,0-2,Tranmere Rovers,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Luton Town,0-3,0-3,Swindon Town,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Notts County,0-0,0-0,Sheffield Wednesday,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Peterborough United,3-1,1-0,Port Vale FC,2004-04-12T14:00Z
+42,Mon Apr 12 2004,15:00,BST/+0100,Stockport County,1-1,1-1,Oldham Athletic,2004-04-12T14:00Z
+42,Tue Apr 13 2004,19:45,BST/+0100,Bristol City,1-0,0-0,Plymouth Argyle,2004-04-13T18:45Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Queens Park Rangers,1-1,1-0,Stockport County,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Wycombe Wanderers,0-3,0-1,Swindon Town,2004-04-17T14:00Z
+43,Sat Apr 17 2004,12:30,BST/+0100,Blackpool FC,4-1,2-1,Sheffield Wednesday,2004-04-17T11:30Z
+43,Sat Apr 17 2004,15:00,BST/+0100,AFC Bournemouth,1-5,0-1,Tranmere Rovers,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Barnsley FC,0-2,0-1,Brentford FC,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Brighton & Hove Albion,1-0,1-0,Peterborough United,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Colchester United,3-1,2-1,Wrexham AFC,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Grimsby Town,1-0,0-0,Rushden & Diamonds FC,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Hartlepool United,4-0,1-0,Notts County,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Luton Town,3-2,1-0,Bristol City,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Oldham Athletic,4-1,3-0,Plymouth Argyle,2004-04-17T14:00Z
+43,Sat Apr 17 2004,15:00,BST/+0100,Port Vale FC,1-1,0-1,Chesterfield FC,2004-04-17T14:00Z
+34,Tue Apr 20 2004,19:45,BST/+0100,Oldham Athletic,1-1,1-1,Wrexham AFC,2004-04-20T18:45Z
+34,Tue Apr 20 2004,19:45,BST/+0100,Luton Town,1-1,1-0,AFC Bournemouth,2004-04-20T18:45Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Brentford FC,1-1,0-0,Wycombe Wanderers,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Bristol City,0-0,0-0,Brighton & Hove Albion,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Chesterfield FC,1-0,1-0,Blackpool FC,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Notts County,1-2,0-2,Port Vale FC,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Peterborough United,0-1,0-0,AFC Bournemouth,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Plymouth Argyle,2-0,0-0,Queens Park Rangers,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Rushden & Diamonds FC,0-2,0-0,Hartlepool United,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Sheffield Wednesday,0-1,0-0,Colchester United,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Stockport County,2-1,2-0,Grimsby Town,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Swindon Town,1-2,0-1,Oldham Athletic,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Tranmere Rovers,2-0,0-0,Barnsley FC,2004-04-24T14:00Z
+44,Sat Apr 24 2004,15:00,BST/+0100,Wrexham AFC,2-1,1-0,Luton Town,2004-04-24T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,AFC Bournemouth,0-0,0-0,Stockport County,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Blackpool FC,1-4,1-2,Peterborough United,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Brighton & Hove Albion,1-0,0-0,Notts County,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Colchester United,2-0,0-0,Rushden & Diamonds FC,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Grimsby Town,1-0,0-0,Brentford FC,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Hartlepool United,1-3,1-2,Plymouth Argyle,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Luton Town,3-2,0-2,Sheffield Wednesday,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Oldham Athletic,2-0,0-0,Chesterfield FC,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Port Vale FC,2-1,1-1,Tranmere Rovers,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Queens Park Rangers,1-0,1-0,Swindon Town,2004-05-01T14:00Z
+45,Sat May 1 2004,15:00,BST/+0100,Wycombe Wanderers,1-1,0-0,Wrexham AFC,2004-05-01T14:00Z
+45,Sun May 2 2004,15:00,BST/+0100,Barnsley FC,0-1,0-1,Bristol City,2004-05-02T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Brentford FC,1-0,0-0,AFC Bournemouth,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Bristol City,2-1,2-0,Blackpool FC,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Chesterfield FC,1-0,0-0,Luton Town,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Notts County,1-1,0-0,Oldham Athletic,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Peterborough United,1-1,0-0,Wycombe Wanderers,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Plymouth Argyle,2-0,1-0,Colchester United,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Rushden & Diamonds FC,0-2,0-1,Port Vale FC,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Sheffield Wednesday,1-3,0-1,Queens Park Rangers,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Stockport County,2-3,0-2,Barnsley FC,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Swindon Town,1-1,1-0,Hartlepool United,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Tranmere Rovers,2-1,0-1,Grimsby Town,2004-05-08T14:00Z
+46,Sat May 8 2004,15:00,BST/+0100,Wrexham AFC,0-2,0-1,Brighton & Hove Albion,2004-05-08T14:00Z

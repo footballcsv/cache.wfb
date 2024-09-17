@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 11 2001,15:00,BST/+0100,Bradford City,4-0,2-0,Barnsley FC,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Gillingham FC,5-0,2-0,Preston North End,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Grimsby Town,1-0,0-0,Crewe Alexandra,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Millwall FC,4-0,2-0,Norwich City,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Nottingham Forest,1-1,1-0,Sheffield United,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Rotherham United,2-3,2-1,Crystal Palace,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Stockport County,0-2,0-1,Coventry City,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Walsall FC,2-1,1-0,West Bromwich Albion,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Wimbledon FC,3-1,1-0,Birmingham City,2001-08-11T14:00Z
+1,Sat Aug 11 2001,15:00,BST/+0100,Wolverhampton Wanderers,2-2,1-2,Portsmouth FC,2001-08-11T14:00Z
+1,Sat Aug 11 2001,18:15,BST/+0100,Manchester City,3-0,0-0,Watford FC,2001-08-11T17:15Z
+1,Sun Aug 12 2001,18:15,BST/+0100,Sheffield Wednesday,0-2,0-0,Burnley FC,2001-08-12T17:15Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Barnsley FC,2-1,1-0,Nottingham Forest,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Burnley FC,3-2,3-1,Wimbledon FC,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Crewe Alexandra,0-2,0-1,Sheffield Wednesday,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Crystal Palace,4-1,0-0,Stockport County,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Norwich City,2-0,0-0,Manchester City,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Portsmouth FC,0-1,0-0,Bradford City,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Preston North End,1-1,0-1,Walsall FC,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Sheffield United,0-0,0-0,Gillingham FC,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,Watford FC,3-2,2-1,Rotherham United,2001-08-18T14:00Z
+2,Sat Aug 18 2001,15:00,BST/+0100,West Bromwich Albion,0-1,0-0,Grimsby Town,2001-08-18T14:00Z
+2,Sun Aug 19 2001,18:15,BST/+0100,Coventry City,0-1,0-1,Wolverhampton Wanderers,2001-08-19T17:15Z
+2,Sun Aug 19 2001,12:00,BST/+0100,Birmingham City,4-0,4-0,Millwall FC,2001-08-19T11:00Z
+3,Thu Aug 23 2001,19:45,BST/+0100,Rotherham United,1-1,1-0,Sheffield United,2001-08-23T18:45Z
+3,Fri Aug 24 2001,19:45,BST/+0100,Bradford City,2-1,0-0,Coventry City,2001-08-24T18:45Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Gillingham FC,3-0,1-0,Barnsley FC,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Grimsby Town,2-2,1-1,Preston North End,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Manchester City,5-2,2-2,Crewe Alexandra,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Millwall FC,0-2,0-0,Burnley FC,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Nottingham Forest,4-2,2-1,Crystal Palace,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Sheffield Wednesday,1-1,1-1,West Bromwich Albion,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Stockport County,0-1,0-0,Portsmouth FC,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Walsall FC,1-2,0-2,Birmingham City,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Wimbledon FC,0-1,0-0,Norwich City,2001-08-25T14:00Z
+3,Sat Aug 25 2001,15:00,BST/+0100,Wolverhampton Wanderers,1-0,1-0,Watford FC,2001-08-25T14:00Z
+4,Mon Aug 27 2001,15:00,BST/+0100,Barnsley FC,1-1,0-1,Rotherham United,2001-08-27T14:00Z
+4,Mon Aug 27 2001,15:00,BST/+0100,Birmingham City,2-1,2-0,Stockport County,2001-08-27T14:00Z
+4,Mon Aug 27 2001,15:00,BST/+0100,Norwich City,2-0,1-0,Sheffield Wednesday,2001-08-27T14:00Z
+4,Mon Aug 27 2001,15:00,BST/+0100,Portsmouth FC,4-2,1-0,Grimsby Town,2001-08-27T14:00Z
+4,Mon Aug 27 2001,15:00,BST/+0100,Preston North End,1-1,0-1,Wimbledon FC,2001-08-27T14:00Z
+4,Mon Aug 27 2001,15:00,BST/+0100,Sheffield United,2-2,0-1,Wolverhampton Wanderers,2001-08-27T14:00Z
+4,Mon Aug 27 2001,15:00,BST/+0100,Watford FC,2-1,0-0,Walsall FC,2001-08-27T14:00Z
+4,Mon Aug 27 2001,15:00,BST/+0100,West Bromwich Albion,1-0,1-0,Gillingham FC,2001-08-27T14:00Z
+4,Mon Aug 27 2001,18:15,BST/+0100,Burnley FC,2-4,1-1,Manchester City,2001-08-27T17:15Z
+4,Mon Aug 27 2001,19:45,BST/+0100,Coventry City,0-0,0-0,Nottingham Forest,2001-08-27T18:45Z
+4,Tue Aug 28 2001,19:45,BST/+0100,Crewe Alexandra,1-0,0-0,Millwall FC,2001-08-28T18:45Z
+5,Sat Sep 1 2001,13:30,BST/+0100,Grimsby Town,1-0,1-0,Barnsley FC,2001-09-01T12:30Z
+5,Sun Sep 2 2001,15:00,BST/+0100,Bradford City,2-3,0-0,Burnley FC,2001-09-02T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Preston North End,1-2,1-0,Wolverhampton Wanderers,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,West Bromwich Albion,4-0,1-0,Manchester City,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Sheffield United,2-2,2-2,Bradford City,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Portsmouth FC,2-1,0-1,Gillingham FC,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Norwich City,1-0,1-0,Nottingham Forest,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Crystal Palace,1-3,1-1,Millwall FC,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Crewe Alexandra,2-1,1-0,Walsall FC,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Coventry City,0-1,0-0,Grimsby Town,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Burnley FC,3-0,0-0,Rotherham United,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Birmingham City,2-0,1-0,Sheffield Wednesday,2001-09-08T14:00Z
+6,Sat Sep 8 2001,15:00,BST/+0100,Barnsley FC,2-2,0-0,Stockport County,2001-09-08T14:00Z
+6,Sun Sep 9 2001,18:15,BST/+0100,Watford FC,3-0,1-0,Wimbledon FC,2001-09-09T17:15Z
+5,Wed Sep 12 2001,19:45,BST/+0100,Wimbledon FC,3-3,1-0,Portsmouth FC,2001-09-12T18:45Z
+7,Fri Sep 14 2001,19:45,BST/+0100,Bradford City,5-1,1-0,Gillingham FC,2001-09-14T18:45Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Preston North End,1-0,1-0,Millwall FC,2001-09-15T14:00Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Rotherham United,1-1,0-0,Norwich City,2001-09-15T14:00Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Sheffield United,0-1,0-0,Coventry City,2001-09-15T14:00Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Portsmouth FC,4-2,2-1,Crystal Palace,2001-09-15T14:00Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Wimbledon FC,1-1,0-1,Sheffield Wednesday,2001-09-15T14:00Z
+7,Sat Sep 15 2001,12:30,BST/+0100,Manchester City,3-0,3-0,Birmingham City,2001-09-15T11:30Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Wolverhampton Wanderers,2-2,0-1,Stockport County,2001-09-15T14:00Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Grimsby Town,0-0,0-0,Nottingham Forest,2001-09-15T14:00Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Watford FC,1-2,0-1,West Bromwich Albion,2001-09-15T14:00Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Burnley FC,5-2,2-0,Walsall FC,2001-09-15T14:00Z
+7,Sat Sep 15 2001,15:00,BST/+0100,Barnsley FC,2-0,0-0,Crewe Alexandra,2001-09-15T14:00Z
+8,Mon Sep 17 2001,19:45,BST/+0100,Nottingham Forest,2-0,2-0,Rotherham United,2001-09-17T18:45Z
+8,Mon Sep 17 2001,19:45,BST/+0100,Sheffield Wednesday,1-1,0-0,Bradford City,2001-09-17T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,Millwall FC,3-1,0-1,Barnsley FC,2001-09-18T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,Norwich City,3-1,2-1,Watford FC,2001-09-18T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,Crystal Palace,5-0,2-0,Grimsby Town,2001-09-18T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,Walsall FC,0-0,0-0,Portsmouth FC,2001-09-18T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,Crewe Alexandra,0-4,0-1,Wimbledon FC,2001-09-18T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,Birmingham City,2-3,2-2,Burnley FC,2001-09-18T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,Stockport County,1-2,0-2,Sheffield United,2001-09-18T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,Gillingham FC,2-3,0-2,Wolverhampton Wanderers,2001-09-18T18:45Z
+8,Tue Sep 18 2001,19:45,BST/+0100,West Bromwich Albion,2-0,1-0,Preston North End,2001-09-18T18:45Z
+8,Wed Sep 19 2001,19:45,BST/+0100,Coventry City,4-3,2-1,Manchester City,2001-09-19T18:45Z
+9,Thu Sep 20 2001,19:45,BST/+0100,Nottingham Forest,1-0,0-0,Bradford City,2001-09-20T18:45Z
+9,Fri Sep 21 2001,19:45,BST/+0100,Walsall FC,0-3,0-3,Wolverhampton Wanderers,2001-09-21T18:45Z
+9,Sat Sep 22 2001,15:00,BST/+0100,Coventry City,2-0,1-0,Portsmouth FC,2001-09-22T14:00Z
+9,Sat Sep 22 2001,15:00,BST/+0100,Crewe Alexandra,1-0,1-0,Watford FC,2001-09-22T14:00Z
+9,Sat Sep 22 2001,15:00,BST/+0100,Crystal Palace,1-0,0-0,Barnsley FC,2001-09-22T14:00Z
+9,Sat Sep 22 2001,15:00,BST/+0100,Gillingham FC,2-1,1-0,Rotherham United,2001-09-22T14:00Z
+9,Sat Sep 22 2001,15:00,BST/+0100,Millwall FC,2-0,1-0,Sheffield United,2001-09-22T14:00Z
+9,Sat Sep 22 2001,15:00,BST/+0100,West Bromwich Albion,0-1,0-0,Wimbledon FC,2001-09-22T14:00Z
+9,Sat Sep 22 2001,15:00,BST/+0100,Norwich City,2-1,1-0,Burnley FC,2001-09-22T14:00Z
+9,Sat Sep 22 2001,15:00,BST/+0100,Sheffield Wednesday,2-6,1-2,Manchester City,2001-09-22T14:00Z
+9,Sat Sep 22 2001,15:00,BST/+0100,Stockport County,3-3,2-1,Grimsby Town,2001-09-22T14:00Z
+9,Sun Sep 23 2001,18:15,BST/+0100,Birmingham City,0-1,0-0,Preston North End,2001-09-23T17:15Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Barnsley FC,1-1,0-0,Coventry City,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Bradford City,2-4,1-1,Stockport County,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Burnley FC,3-3,0-2,Crewe Alexandra,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Grimsby Town,1-2,0-1,Gillingham FC,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Portsmouth FC,1-2,1-1,West Bromwich Albion,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Sheffield United,1-3,0-1,Crystal Palace,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Wimbledon FC,2-2,1-2,Millwall FC,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Wolverhampton Wanderers,1-0,0-0,Nottingham Forest,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Manchester City,3-0,2-0,Walsall FC,2001-09-25T18:45Z
+10,Tue Sep 25 2001,19:45,BST/+0100,Rotherham United,1-1,0-0,Sheffield Wednesday,2001-09-25T18:45Z
+10,Wed Sep 26 2001,20:00,BST/+0100,Watford FC,3-3,2-1,Birmingham City,2001-09-26T19:00Z
+10,Wed Sep 26 2001,19:45,BST/+0100,Preston North End,4-0,4-0,Norwich City,2001-09-26T18:45Z
+11,Fri Sep 28 2001,19:45,BST/+0100,Barnsley FC,1-4,1-2,Portsmouth FC,2001-09-28T18:45Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Sheffield United,2-1,2-0,Norwich City,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Walsall FC,0-0,0-0,Millwall FC,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,West Bromwich Albion,1-0,0-0,Burnley FC,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Nottingham Forest,2-1,2-0,Stockport County,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Manchester City,0-4,0-2,Wimbledon FC,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Gillingham FC,1-2,0-2,Coventry City,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Crystal Palace,4-1,3-1,Sheffield Wednesday,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Rotherham United,0-3,0-2,Wolverhampton Wanderers,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Crewe Alexandra,0-0,0-0,Birmingham City,2001-09-29T14:00Z
+11,Sat Sep 29 2001,15:00,BST/+0100,Bradford City,3-2,2-0,Grimsby Town,2001-09-29T14:00Z
+11,Sun Sep 30 2001,18:15,BST/+0100,Watford FC,1-1,0-1,Preston North End,2001-09-30T17:15Z
+12,Fri Oct 5 2001,19:45,BST/+0100,Grimsby Town,0-2,0-1,Rotherham United,2001-10-05T18:45Z
+12,Sun Oct 7 2001,13:00,BST/+0100,Sheffield Wednesday,0-0,0-0,Sheffield United,2001-10-07T12:00Z
+5,Tue Oct 9 2001,19:45,BST/+0100,Walsall FC,2-0,1-0,Norwich City,2001-10-09T18:45Z
+13,Thu Oct 11 2001,19:45,BST/+0100,West Bromwich Albion,0-2,0-2,Millwall FC,2001-10-11T18:45Z
+13,Fri Oct 12 2001,19:45,BST/+0100,Rotherham United,2-1,1-0,Portsmouth FC,2001-10-12T18:45Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Crewe Alexandra,2-1,1-0,Preston North End,2001-10-13T14:00Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Nottingham Forest,1-0,0-0,Burnley FC,2001-10-13T14:00Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Sheffield United,3-1,2-0,Grimsby Town,2001-10-13T14:00Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Watford FC,3-1,2-1,Sheffield Wednesday,2001-10-13T14:00Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Gillingham FC,0-2,0-0,Norwich City,2001-10-13T14:00Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Manchester City,2-2,0-0,Stockport County,2001-10-13T14:00Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Crystal Palace,4-0,2-0,Wimbledon FC,2001-10-13T14:00Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Barnsley FC,1-3,0-1,Birmingham City,2001-10-13T14:00Z
+13,Sat Oct 13 2001,15:00,BST/+0100,Bradford City,0-3,0-1,Wolverhampton Wanderers,2001-10-13T14:00Z
+13,Sun Oct 14 2001,18:15,BST/+0100,Walsall FC,0-1,0-1,Coventry City,2001-10-14T17:15Z
+5,Tue Oct 16 2001,19:45,BST/+0100,Stockport County,1-2,0-1,West Bromwich Albion,2001-10-16T18:45Z
+5,Tue Oct 16 2001,19:45,BST/+0100,Sheffield Wednesday,1-2,1-0,Preston North End,2001-10-16T18:45Z
+5,Tue Oct 16 2001,19:45,BST/+0100,Manchester City,0-0,0-0,Sheffield United,2001-10-16T18:45Z
+4,Tue Oct 16 2001,20:00,BST/+0100,Crystal Palace,2-0,1-0,Bradford City,2001-10-16T19:00Z
+5,Tue Oct 16 2001,19:45,BST/+0100,Wolverhampton Wanderers,0-1,0-0,Crewe Alexandra,2001-10-16T18:45Z
+5,Wed Oct 17 2001,19:45,BST/+0100,Rotherham United,0-0,0-0,Coventry City,2001-10-17T18:45Z
+5,Wed Oct 17 2001,19:45,BST/+0100,Nottingham Forest,0-0,0-0,Birmingham City,2001-10-17T18:45Z
+14,Fri Oct 19 2001,19:45,BST/+0100,Norwich City,2-0,2-0,West Bromwich Albion,2001-10-19T18:45Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Portsmouth FC,1-0,1-0,Sheffield United,2001-10-20T14:00Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Wolverhampton Wanderers,0-1,0-1,Crystal Palace,2001-10-20T14:00Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Sheffield Wednesday,2-1,0-1,Walsall FC,2001-10-20T14:00Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Birmingham City,4-0,3-0,Bradford City,2001-10-20T14:00Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Burnley FC,3-3,2-1,Barnsley FC,2001-10-20T14:00Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Wimbledon FC,3-1,1-0,Gillingham FC,2001-10-20T14:00Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Millwall FC,3-3,1-0,Nottingham Forest,2001-10-20T14:00Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Grimsby Town,0-3,0-2,Watford FC,2001-10-20T14:00Z
+14,Sat Oct 20 2001,15:00,BST/+0100,Stockport County,0-1,0-1,Rotherham United,2001-10-20T14:00Z
+14,Sun Oct 21 2001,18:15,BST/+0100,Coventry City,1-0,1-0,Crewe Alexandra,2001-10-21T17:15Z
+14,Sun Oct 21 2001,14:15,BST/+0100,Preston North End,2-1,0-1,Manchester City,2001-10-21T13:15Z
+15,Tue Oct 23 2001,19:45,BST/+0100,Birmingham City,2-1,1-0,Gillingham FC,2001-10-23T18:45Z
+15,Tue Oct 23 2001,19:45,BST/+0100,Millwall FC,3-1,1-0,Bradford City,2001-10-23T18:45Z
+15,Tue Oct 23 2001,19:45,BST/+0100,Norwich City,0-0,0-0,Portsmouth FC,2001-10-23T18:45Z
+15,Tue Oct 23 2001,19:45,BST/+0100,Walsall FC,3-2,3-0,Rotherham United,2001-10-23T18:45Z
+15,Tue Oct 23 2001,19:45,BST/+0100,Manchester City,4-0,3-0,Grimsby Town,2001-10-23T18:45Z
+15,Tue Oct 23 2001,20:00,BST/+0100,Watford FC,1-2,0-0,Nottingham Forest,2001-10-23T19:00Z
+15,Tue Oct 23 2001,19:45,BST/+0100,Preston North End,3-0,2-0,Sheffield United,2001-10-23T18:45Z
+15,Tue Oct 23 2001,19:45,BST/+0100,Burnley FC,1-0,1-0,Crystal Palace,2001-10-23T18:45Z
+15,Wed Oct 24 2001,19:45,BST/+0100,Crewe Alexandra,0-0,0-0,Stockport County,2001-10-24T18:45Z
+15,Wed Oct 24 2001,19:45,BST/+0100,Sheffield Wednesday,3-1,1-1,Barnsley FC,2001-10-24T18:45Z
+15,Wed Oct 24 2001,19:45,BST/+0100,Wimbledon FC,0-1,0-0,Coventry City,2001-10-24T18:45Z
+15,Thu Oct 25 2001,19:45,BST/+0100,West Bromwich Albion,1-1,0-1,Wolverhampton Wanderers,2001-10-25T18:45Z
+16,Fri Oct 26 2001,19:45,BST/+0100,Grimsby Town,3-1,2-0,Birmingham City,2001-10-26T18:45Z
+16,Sat Oct 27 2001,15:00,BST/+0100,Portsmouth FC,0-1,0-1,Preston North End,2001-10-27T14:00Z
+16,Sat Oct 27 2001,15:00,BST/+0100,Coventry City,2-0,1-0,Sheffield Wednesday,2001-10-27T14:00Z
+16,Sat Oct 27 2001,15:00,BST/+0100,Rotherham United,3-2,2-2,Wimbledon FC,2001-10-27T14:00Z
+16,Sat Oct 27 2001,15:00,BST/+0100,Bradford City,4-3,2-0,Watford FC,2001-10-27T14:00Z
+16,Sat Oct 27 2001,15:00,BST/+0100,Gillingham FC,2-0,1-0,Walsall FC,2001-10-27T14:00Z
+16,Sat Oct 27 2001,15:00,BST/+0100,Stockport County,0-4,0-3,Millwall FC,2001-10-27T14:00Z
+16,Sat Oct 27 2001,15:00,BST/+0100,Sheffield United,1-0,1-0,Crewe Alexandra,2001-10-27T14:00Z
+16,Sun Oct 28 2001,14:15,GMT/+0000,Crystal Palace,3-2,1-0,Norwich City,2001-10-28T14:15Z
+16,Sun Oct 28 2001,15:00,GMT/+0000,Barnsley FC,3-2,2-1,West Bromwich Albion,2001-10-28T15:00Z
+16,Sun Oct 28 2001,15:00,GMT/+0000,Wolverhampton Wanderers,3-0,3-0,Burnley FC,2001-10-28T15:00Z
+16,Sun Oct 28 2001,18:15,GMT/+0000,Nottingham Forest,1-1,1-1,Manchester City,2001-10-28T18:15Z
+17,Tue Oct 30 2001,19:45,GMT/+0000,Grimsby Town,0-2,0-1,Norwich City,2001-10-30T19:45Z
+17,Tue Oct 30 2001,19:45,GMT/+0000,Portsmouth FC,1-1,1-1,Birmingham City,2001-10-30T19:45Z
+17,Tue Oct 30 2001,19:45,GMT/+0000,Rotherham United,2-2,1-2,Crewe Alexandra,2001-10-30T19:45Z
+17,Tue Oct 30 2001,19:45,GMT/+0000,Sheffield United,0-2,0-0,Watford FC,2001-10-30T19:45Z
+17,Tue Oct 30 2001,19:45,GMT/+0000,Stockport County,0-2,0-1,Walsall FC,2001-10-30T19:45Z
+17,Tue Oct 30 2001,19:45,GMT/+0000,Gillingham FC,2-2,2-1,Burnley FC,2001-10-30T19:45Z
+17,Tue Oct 30 2001,19:45,GMT/+0000,Bradford City,3-3,1-3,Wimbledon FC,2001-10-30T19:45Z
+17,Wed Oct 31 2001,19:45,GMT/+0000,Wolverhampton Wanderers,1-0,0-0,Millwall FC,2001-10-31T19:45Z
+17,Wed Oct 31 2001,19:45,GMT/+0000,Coventry City,2-2,1-1,Preston North End,2001-10-31T19:45Z
+17,Wed Oct 31 2001,19:45,GMT/+0000,Barnsley FC,0-3,0-3,Manchester City,2001-10-31T19:45Z
+17,Wed Oct 31 2001,20:00,GMT/+0000,Crystal Palace,0-1,0-0,West Bromwich Albion,2001-10-31T20:00Z
+17,Wed Oct 31 2001,19:45,GMT/+0000,Nottingham Forest,0-1,0-0,Sheffield Wednesday,2001-10-31T19:45Z
+18,Fri Nov 2 2001,19:45,GMT/+0000,Crewe Alexandra,2-2,1-1,Bradford City,2001-11-02T19:45Z
+18,Sat Nov 3 2001,15:00,GMT/+0000,Preston North End,6-0,3-0,Stockport County,2001-11-03T15:00Z
+18,Sat Nov 3 2001,15:00,GMT/+0000,Norwich City,2-0,2-0,Wolverhampton Wanderers,2001-11-03T15:00Z
+18,Sat Nov 3 2001,15:00,GMT/+0000,Walsall FC,2-2,2-1,Crystal Palace,2001-11-03T15:00Z
+18,Sat Nov 3 2001,15:00,GMT/+0000,Manchester City,4-1,3-0,Gillingham FC,2001-11-03T15:00Z
+18,Sat Nov 3 2001,15:00,GMT/+0000,Sheffield Wednesday,2-3,1-2,Portsmouth FC,2001-11-03T15:00Z
+18,Sat Nov 3 2001,15:00,GMT/+0000,Watford FC,3-0,0-0,Barnsley FC,2001-11-03T15:00Z
+18,Sat Nov 3 2001,15:00,GMT/+0000,Wimbledon FC,2-1,1-0,Grimsby Town,2001-11-03T15:00Z
+18,Sat Nov 3 2001,15:00,GMT/+0000,Millwall FC,3-2,0-0,Coventry City,2001-11-03T15:00Z
+18,Sun Nov 4 2001,18:15,GMT/+0000,Birmingham City,2-2,1-1,Rotherham United,2001-11-04T18:15Z
+18,Sun Nov 4 2001,14:15,GMT/+0000,West Bromwich Albion,1-0,1-0,Nottingham Forest,2001-11-04T14:15Z
+18,Sun Nov 4 2001,14:15,GMT/+0000,Burnley FC,2-0,2-0,Sheffield United,2001-11-04T14:15Z
+12,Wed Nov 7 2001,19:45,GMT/+0000,Birmingham City,0-1,0-1,West Bromwich Albion,2001-11-07T19:45Z
+19,Thu Nov 8 2001,19:45,GMT/+0000,Preston North End,2-2,0-1,Barnsley FC,2001-11-08T19:45Z
+19,Fri Nov 9 2001,19:45,GMT/+0000,Wimbledon FC,1-1,0-0,Sheffield United,2001-11-09T19:45Z
+19,Fri Nov 9 2001,19:45,GMT/+0000,Millwall FC,1-0,1-0,Rotherham United,2001-11-09T19:45Z
+19,Sat Nov 10 2001,15:00,GMT/+0000,Burnley FC,1-1,0-0,Portsmouth FC,2001-11-10T15:00Z
+19,Sat Nov 10 2001,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Grimsby Town,2001-11-10T15:00Z
+19,Sat Nov 10 2001,15:00,GMT/+0000,Crewe Alexandra,0-0,0-0,Gillingham FC,2001-11-10T15:00Z
+19,Sat Nov 10 2001,15:00,GMT/+0000,Norwich City,1-4,0-2,Bradford City,2001-11-10T15:00Z
+19,Sat Nov 10 2001,15:00,GMT/+0000,Watford FC,1-1,0-0,Stockport County,2001-11-10T15:00Z
+19,Sun Nov 11 2001,18:15,GMT/+0000,Walsall FC,2-0,2-0,Nottingham Forest,2001-11-11T18:15Z
+12,Tue Nov 13 2001,19:45,GMT/+0000,Burnley FC,1-0,1-0,Watford FC,2001-11-13T19:45Z
+20,Thu Nov 15 2001,19:45,GMT/+0000,Stockport County,2-1,1-0,Norwich City,2001-11-15T19:45Z
+20,Sat Nov 17 2001,15:00,GMT/+0000,Barnsley FC,1-1,0-0,Wimbledon FC,2001-11-17T15:00Z
+20,Sat Nov 17 2001,15:00,GMT/+0000,Bradford City,2-0,1-0,Walsall FC,2001-11-17T15:00Z
+20,Sat Nov 17 2001,15:00,GMT/+0000,Coventry City,0-2,0-2,Burnley FC,2001-11-17T15:00Z
+20,Sat Nov 17 2001,12:30,GMT/+0000,Portsmouth FC,2-1,0-1,Manchester City,2001-11-17T12:30Z
+20,Sat Nov 17 2001,15:00,GMT/+0000,Sheffield United,4-0,1-0,Birmingham City,2001-11-17T15:00Z
+20,Sat Nov 17 2001,15:00,GMT/+0000,Rotherham United,2-1,1-0,West Bromwich Albion,2001-11-17T15:00Z
+20,Sat Nov 17 2001,15:00,GMT/+0000,Nottingham Forest,1-1,1-1,Preston North End,2001-11-17T15:00Z
+20,Sat Nov 17 2001,15:00,GMT/+0000,Grimsby Town,2-2,0-0,Millwall FC,2001-11-17T15:00Z
+20,Sat Nov 17 2001,15:00,GMT/+0000,Crystal Palace,4-1,4-1,Crewe Alexandra,2001-11-17T15:00Z
+20,Sun Nov 18 2001,18:15,GMT/+0000,Gillingham FC,0-0,0-0,Watford FC,2001-11-18T18:15Z
+20,Sun Nov 18 2001,14:15,GMT/+0000,Wolverhampton Wanderers,0-0,0-0,Sheffield Wednesday,2001-11-18T14:15Z
+12,Tue Nov 20 2001,19:45,GMT/+0000,Norwich City,2-2,1-1,Crewe Alexandra,2001-11-20T19:45Z
+12,Tue Nov 20 2001,19:45,GMT/+0000,Preston North End,1-1,0-1,Bradford City,2001-11-20T19:45Z
+12,Tue Nov 20 2001,19:45,GMT/+0000,Wimbledon FC,2-2,1-1,Walsall FC,2001-11-20T19:45Z
+5,Wed Nov 21 2001,19:45,GMT/+0000,Gillingham FC,3-0,3-0,Crystal Palace,2001-11-21T19:45Z
+21,Fri Nov 23 2001,19:45,GMT/+0000,Burnley FC,1-0,1-0,Grimsby Town,2001-11-23T19:45Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,Wimbledon FC,0-1,0-0,Wolverhampton Wanderers,2001-11-24T15:00Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,West Bromwich Albion,1-0,1-0,Bradford City,2001-11-24T15:00Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,Walsall FC,1-2,1-2,Sheffield United,2001-11-24T15:00Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,Sheffield Wednesday,5-0,1-0,Stockport County,2001-11-24T15:00Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,Preston North End,2-1,0-1,Crystal Palace,2001-11-24T15:00Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,Norwich City,2-1,1-0,Barnsley FC,2001-11-24T15:00Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,Millwall FC,1-2,0-0,Gillingham FC,2001-11-24T15:00Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,Crewe Alexandra,0-3,0-1,Nottingham Forest,2001-11-24T15:00Z
+21,Sat Nov 24 2001,15:00,GMT/+0000,Manchester City,2-1,1-1,Rotherham United,2001-11-24T15:00Z
+21,Sun Nov 25 2001,18:15,GMT/+0000,Watford FC,3-0,2-0,Portsmouth FC,2001-11-25T18:15Z
+21,Sun Nov 25 2001,14:15,GMT/+0000,Birmingham City,2-0,1-0,Coventry City,2001-11-25T14:15Z
+12,Tue Nov 27 2001,19:45,GMT/+0000,Stockport County,0-2,0-1,Gillingham FC,2001-11-27T19:45Z
+12,Tue Nov 27 2001,19:45,GMT/+0000,Wolverhampton Wanderers,4-1,2-1,Barnsley FC,2001-11-27T19:45Z
+12,Wed Nov 28 2001,19:45,GMT/+0000,Coventry City,2-0,0-0,Crystal Palace,2001-11-28T19:45Z
+12,Wed Nov 28 2001,19:45,GMT/+0000,Portsmouth FC,3-2,1-2,Nottingham Forest,2001-11-28T19:45Z
+22,Fri Nov 30 2001,19:45,GMT/+0000,Gillingham FC,1-1,1-0,Birmingham City,2001-11-30T19:45Z
+22,Sat Dec 1 2001,15:00,GMT/+0000,Rotherham United,2-0,1-0,Walsall FC,2001-12-01T15:00Z
+22,Sat Dec 1 2001,15:00,GMT/+0000,Sheffield United,2-2,0-2,Preston North End,2001-12-01T15:00Z
+22,Sat Dec 1 2001,15:00,GMT/+0000,Stockport County,0-1,0-0,Crewe Alexandra,2001-12-01T15:00Z
+22,Sat Dec 1 2001,15:00,GMT/+0000,Bradford City,1-2,0-1,Millwall FC,2001-12-01T15:00Z
+22,Sat Dec 1 2001,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Watford FC,2001-12-01T15:00Z
+22,Sat Dec 1 2001,15:00,GMT/+0000,Grimsby Town,0-2,0-2,Manchester City,2001-12-01T15:00Z
+22,Sat Dec 1 2001,15:00,GMT/+0000,Coventry City,3-1,2-1,Wimbledon FC,2001-12-01T15:00Z
+22,Sat Dec 1 2001,15:00,GMT/+0000,Crystal Palace,1-2,1-1,Burnley FC,2001-12-01T15:00Z
+22,Sun Dec 2 2001,18:15,GMT/+0000,Barnsley FC,3-0,2-0,Sheffield Wednesday,2001-12-02T18:15Z
+22,Sun Dec 2 2001,14:15,GMT/+0000,Portsmouth FC,1-2,1-1,Norwich City,2001-12-02T14:15Z
+22,Sun Dec 2 2001,13:00,GMT/+0000,Wolverhampton Wanderers,0-1,0-0,West Bromwich Albion,2001-12-02T13:00Z
+12,Tue Dec 4 2001,19:45,GMT/+0000,Millwall FC,2-3,1-1,Manchester City,2001-12-04T19:45Z
+23,Fri Dec 7 2001,19:45,GMT/+0000,Grimsby Town,1-1,1-1,Wolverhampton Wanderers,2001-12-07T19:45Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,Portsmouth FC,2-4,1-2,Crewe Alexandra,2001-12-08T15:00Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,West Bromwich Albion,0-1,0-0,Sheffield United,2001-12-08T15:00Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,Stockport County,1-2,1-2,Wimbledon FC,2001-12-08T15:00Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,Sheffield Wednesday,1-1,0-0,Millwall FC,2001-12-08T15:00Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,Barnsley FC,4-1,2-0,Walsall FC,2001-12-08T15:00Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,Birmingham City,4-0,2-0,Norwich City,2001-12-08T15:00Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,Bradford City,3-1,0-0,Rotherham United,2001-12-08T15:00Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,Crystal Palace,2-1,2-0,Manchester City,2001-12-08T15:00Z
+23,Sat Dec 8 2001,15:00,GMT/+0000,Nottingham Forest,2-2,1-1,Gillingham FC,2001-12-08T15:00Z
+23,Sun Dec 9 2001,14:15,GMT/+0000,Coventry City,0-2,0-0,Watford FC,2001-12-09T14:15Z
+23,Sun Dec 9 2001,13:00,GMT/+0000,Preston North End,2-3,2-2,Burnley FC,2001-12-09T13:00Z
+19,Tue Dec 11 2001,19:45,GMT/+0000,Birmingham City,1-0,0-0,Crystal Palace,2001-12-11T19:45Z
+19,Tue Dec 11 2001,19:45,GMT/+0000,Manchester City,1-0,1-0,Wolverhampton Wanderers,2001-12-11T19:45Z
+19,Wed Dec 12 2001,19:45,GMT/+0000,West Bromwich Albion,1-0,0-0,Coventry City,2001-12-12T19:45Z
+24,Thu Dec 13 2001,19:45,GMT/+0000,Millwall FC,1-0,0-0,Portsmouth FC,2001-12-13T19:45Z
+24,Fri Dec 14 2001,19:45,GMT/+0000,Sheffield United,1-1,0-0,Barnsley FC,2001-12-14T19:45Z
+24,Sat Dec 15 2001,15:00,GMT/+0000,Rotherham United,1-0,1-0,Preston North End,2001-12-15T15:00Z
+24,Sat Dec 15 2001,15:00,GMT/+0000,Burnley FC,3-2,1-1,Stockport County,2001-12-15T15:00Z
+24,Sat Dec 15 2001,15:00,GMT/+0000,Crewe Alexandra,1-1,1-1,West Bromwich Albion,2001-12-15T15:00Z
+24,Sat Dec 15 2001,15:00,GMT/+0000,Gillingham FC,2-1,2-1,Sheffield Wednesday,2001-12-15T15:00Z
+24,Sat Dec 15 2001,15:00,GMT/+0000,Norwich City,2-0,1-0,Coventry City,2001-12-15T15:00Z
+24,Sat Dec 15 2001,15:00,GMT/+0000,Walsall FC,4-0,1-0,Grimsby Town,2001-12-15T15:00Z
+24,Sat Dec 15 2001,15:00,GMT/+0000,Watford FC,1-0,1-0,Crystal Palace,2001-12-15T15:00Z
+24,Sun Dec 16 2001,14:15,GMT/+0000,Wimbledon FC,1-0,0-0,Nottingham Forest,2001-12-16T14:15Z
+24,Sun Dec 16 2001,12:00,GMT/+0000,Wolverhampton Wanderers,2-1,1-1,Birmingham City,2001-12-16T12:00Z
+24,Sun Dec 16 2001,14:15,GMT/+0000,Manchester City,3-1,1-1,Bradford City,2001-12-16T14:15Z
+25,Thu Dec 20 2001,19:45,GMT/+0000,Crystal Palace,1-1,1-1,Nottingham Forest,2001-12-20T19:45Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,West Bromwich Albion,1-1,0-0,Sheffield Wednesday,2001-12-22T15:00Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,Barnsley FC,4-1,2-1,Gillingham FC,2001-12-22T15:00Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,Birmingham City,1-0,1-0,Walsall FC,2001-12-22T15:00Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,Burnley FC,0-0,0-0,Millwall FC,2001-12-22T15:00Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,Norwich City,2-1,1-0,Wimbledon FC,2001-12-22T15:00Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,Portsmouth FC,2-0,0-0,Stockport County,2001-12-22T15:00Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,Preston North End,0-0,0-0,Grimsby Town,2001-12-22T15:00Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,Sheffield United,2-2,0-0,Rotherham United,2001-12-22T15:00Z
+25,Sat Dec 22 2001,15:00,GMT/+0000,Watford FC,1-1,1-1,Wolverhampton Wanderers,2001-12-22T15:00Z
+25,Sun Dec 23 2001,18:15,GMT/+0000,Coventry City,4-0,2-0,Bradford City,2001-12-23T18:15Z
+26,Wed Dec 26 2001,15:00,GMT/+0000,Sheffield Wednesday,0-1,0-0,Birmingham City,2001-12-26T15:00Z
+26,Wed Dec 26 2001,17:15,GMT/+0000,Wolverhampton Wanderers,2-3,1-0,Preston North End,2001-12-26T17:15Z
+26,Wed Dec 26 2001,12:00,GMT/+0000,Gillingham FC,2-0,2-0,Portsmouth FC,2001-12-26T12:00Z
+26,Wed Dec 26 2001,12:00,GMT/+0000,Millwall FC,3-0,0-0,Crystal Palace,2001-12-26T12:00Z
+26,Wed Dec 26 2001,13:00,GMT/+0000,Stockport County,1-3,0-1,Barnsley FC,2001-12-26T13:00Z
+26,Wed Dec 26 2001,15:00,GMT/+0000,Bradford City,1-2,0-1,Sheffield United,2001-12-26T15:00Z
+26,Wed Dec 26 2001,15:00,GMT/+0000,Grimsby Town,0-1,0-1,Coventry City,2001-12-26T15:00Z
+26,Wed Dec 26 2001,15:00,GMT/+0000,Manchester City,0-0,0-0,West Bromwich Albion,2001-12-26T15:00Z
+26,Wed Dec 26 2001,15:00,GMT/+0000,Nottingham Forest,2-0,2-0,Norwich City,2001-12-26T15:00Z
+26,Wed Dec 26 2001,15:00,GMT/+0000,Walsall FC,2-1,2-0,Crewe Alexandra,2001-12-26T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Sheffield Wednesday,0-5,0-4,Norwich City,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Wimbledon FC,2-0,0-0,Preston North End,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Walsall FC,0-3,0-2,Watford FC,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Stockport County,0-3,0-1,Birmingham City,2001-12-29T15:00Z
+27,Sat Dec 29 2001,12:00,GMT/+0000,Manchester City,5-1,4-0,Burnley FC,2001-12-29T12:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Bradford City,1-2,1-1,Crystal Palace,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Gillingham FC,2-1,1-0,West Bromwich Albion,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Grimsby Town,3-1,2-1,Portsmouth FC,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Millwall FC,2-0,1-0,Crewe Alexandra,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Nottingham Forest,2-1,0-1,Coventry City,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Rotherham United,1-1,0-0,Barnsley FC,2001-12-29T15:00Z
+27,Sat Dec 29 2001,15:00,GMT/+0000,Wolverhampton Wanderers,1-0,1-0,Sheffield United,2001-12-29T15:00Z
+28,Tue Jan 1 2002,15:00,GMT/+0000,Sheffield United,1-3,0-0,Manchester City,2002-01-01T15:00Z
+28,Tue Jan 1 2002,15:00,GMT/+0000,Watford FC,1-4,0-1,Millwall FC,2002-01-01T15:00Z
+28,Tue Jan 1 2002,15:00,GMT/+0000,Norwich City,1-1,1-0,Walsall FC,2002-01-01T15:00Z
+28,Tue Jan 1 2002,15:00,GMT/+0000,West Bromwich Albion,4-0,2-0,Stockport County,2002-01-01T15:00Z
+28,Tue Jan 1 2002,12:00,GMT/+0000,Birmingham City,1-1,1-1,Nottingham Forest,2002-01-01T12:00Z
+28,Tue Jan 1 2002,15:00,GMT/+0000,Barnsley FC,0-0,0-0,Grimsby Town,2002-01-01T15:00Z
+29,Thu Jan 10 2002,19:45,GMT/+0000,Millwall FC,1-1,0-1,Birmingham City,2002-01-10T19:45Z
+29,Sat Jan 12 2002,15:00,GMT/+0000,Bradford City,3-1,1-1,Portsmouth FC,2002-01-12T15:00Z
+29,Sat Jan 12 2002,15:00,GMT/+0000,Sheffield Wednesday,1-0,1-0,Crewe Alexandra,2002-01-12T15:00Z
+29,Sat Jan 12 2002,15:00,GMT/+0000,Grimsby Town,0-0,0-0,West Bromwich Albion,2002-01-12T15:00Z
+29,Sat Jan 12 2002,15:00,GMT/+0000,Wimbledon FC,0-0,0-0,Burnley FC,2002-01-12T15:00Z
+29,Sat Jan 12 2002,15:00,GMT/+0000,Walsall FC,1-2,0-0,Preston North End,2002-01-12T15:00Z
+29,Sat Jan 12 2002,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Barnsley FC,2002-01-12T15:00Z
+29,Sat Jan 12 2002,15:00,GMT/+0000,Rotherham United,1-1,0-1,Watford FC,2002-01-12T15:00Z
+29,Sat Jan 12 2002,15:00,GMT/+0000,Gillingham FC,0-1,0-0,Sheffield United,2002-01-12T15:00Z
+29,Sun Jan 13 2002,14:15,GMT/+0000,Wolverhampton Wanderers,3-1,0-0,Coventry City,2002-01-13T14:15Z
+29,Sun Jan 13 2002,18:15,GMT/+0000,Stockport County,0-1,0-0,Crystal Palace,2002-01-13T18:15Z
+29,Sun Jan 13 2002,14:15,GMT/+0000,Manchester City,3-1,1-0,Norwich City,2002-01-13T14:15Z
+5,Tue Jan 15 2002,19:45,GMT/+0000,Millwall FC,1-0,1-0,Watford FC,2002-01-15T19:45Z
+28,Wed Jan 16 2002,20:00,GMT/+0000,Crystal Palace,3-1,1-1,Gillingham FC,2002-01-16T20:00Z
+30,Thu Jan 17 2002,19:45,GMT/+0000,Portsmouth FC,2-3,1-1,Wolverhampton Wanderers,2002-01-17T19:45Z
+30,Sat Jan 19 2002,15:00,GMT/+0000,Crewe Alexandra,2-0,2-0,Grimsby Town,2002-01-19T15:00Z
+30,Sat Jan 19 2002,15:00,GMT/+0000,Coventry City,0-0,0-0,Stockport County,2002-01-19T15:00Z
+30,Sat Jan 19 2002,15:00,GMT/+0000,Sheffield United,0-0,0-0,Nottingham Forest,2002-01-19T15:00Z
+30,Sat Jan 19 2002,15:00,GMT/+0000,Burnley FC,1-2,0-1,Sheffield Wednesday,2002-01-19T15:00Z
+30,Sat Jan 19 2002,15:00,GMT/+0000,Birmingham City,0-2,0-0,Wimbledon FC,2002-01-19T15:00Z
+30,Sat Jan 19 2002,15:00,GMT/+0000,Barnsley FC,3-3,2-1,Bradford City,2002-01-19T15:00Z
+30,Sat Jan 19 2002,15:00,GMT/+0000,Crystal Palace,2-0,0-0,Rotherham United,2002-01-19T15:00Z
+30,Sat Jan 19 2002,15:00,GMT/+0000,Preston North End,0-2,0-1,Gillingham FC,2002-01-19T15:00Z
+30,Sun Jan 20 2002,18:15,GMT/+0000,Watford FC,1-2,1-1,Manchester City,2002-01-20T18:15Z
+30,Sun Jan 20 2002,14:15,GMT/+0000,Norwich City,0-0,0-0,Millwall FC,2002-01-20T14:15Z
+30,Sun Jan 20 2002,14:15,GMT/+0000,West Bromwich Albion,1-0,1-0,Walsall FC,2002-01-20T14:15Z
+31,Tue Jan 29 2002,19:45,GMT/+0000,Walsall FC,2-1,1-1,Wimbledon FC,2002-01-29T19:45Z
+31,Tue Jan 29 2002,19:45,GMT/+0000,Gillingham FC,3-3,3-2,Stockport County,2002-01-29T19:45Z
+31,Tue Jan 29 2002,19:45,GMT/+0000,West Bromwich Albion,1-0,1-0,Birmingham City,2002-01-29T19:45Z
+31,Tue Jan 29 2002,20:00,GMT/+0000,Sheffield United,0-0,0-0,Sheffield Wednesday,2002-01-29T20:00Z
+31,Tue Jan 29 2002,19:45,GMT/+0000,Crystal Palace,1-3,0-2,Coventry City,2002-01-29T19:45Z
+31,Tue Jan 29 2002,19:45,GMT/+0000,Barnsley FC,1-0,1-0,Wolverhampton Wanderers,2002-01-29T19:45Z
+31,Tue Jan 29 2002,19:45,GMT/+0000,Rotherham United,1-1,0-1,Grimsby Town,2002-01-29T19:45Z
+31,Tue Jan 29 2002,19:45,GMT/+0000,Crewe Alexandra,1-0,0-0,Norwich City,2002-01-29T19:45Z
+31,Tue Jan 29 2002,19:45,GMT/+0000,Bradford City,0-1,0-0,Preston North End,2002-01-29T19:45Z
+31,Wed Jan 30 2002,19:45,GMT/+0000,Nottingham Forest,0-1,0-0,Portsmouth FC,2002-01-30T19:45Z
+31,Wed Jan 30 2002,19:45,GMT/+0000,Manchester City,2-0,0-0,Millwall FC,2002-01-30T19:45Z
+32,Thu Jan 31 2002,19:45,GMT/+0000,Preston North End,1-1,1-0,Watford FC,2002-01-31T19:45Z
+32,Sat Feb 2 2002,15:00,GMT/+0000,Portsmouth FC,4-4,2-1,Barnsley FC,2002-02-02T15:00Z
+32,Sat Feb 2 2002,15:00,GMT/+0000,Sheffield Wednesday,1-3,1-3,Crystal Palace,2002-02-02T15:00Z
+32,Sat Feb 2 2002,15:00,GMT/+0000,Stockport County,1-3,0-0,Nottingham Forest,2002-02-02T15:00Z
+32,Sat Feb 2 2002,15:00,GMT/+0000,Wolverhampton Wanderers,2-1,0-1,Rotherham United,2002-02-02T15:00Z
+32,Sat Feb 2 2002,15:00,GMT/+0000,Millwall FC,2-2,0-0,Walsall FC,2002-02-02T15:00Z
+32,Sat Feb 2 2002,15:00,GMT/+0000,Coventry City,1-2,0-1,Gillingham FC,2002-02-02T15:00Z
+32,Sat Feb 2 2002,15:00,GMT/+0000,Grimsby Town,0-1,0-0,Bradford City,2002-02-02T15:00Z
+32,Sun Feb 3 2002,18:15,GMT/+0000,Burnley FC,0-2,0-2,West Bromwich Albion,2002-02-03T18:15Z
+32,Sun Feb 3 2002,14:15,GMT/+0000,Wimbledon FC,2-1,1-0,Manchester City,2002-02-03T14:15Z
+32,Sun Feb 3 2002,14:15,GMT/+0000,Norwich City,2-1,0-0,Sheffield United,2002-02-03T14:15Z
+28,Tue Feb 5 2002,19:45,GMT/+0000,Preston North End,4-2,2-1,Sheffield Wednesday,2002-02-05T19:45Z
+28,Wed Feb 6 2002,20:00,GMT/+0000,Coventry City,2-0,0-0,Rotherham United,2002-02-06T20:00Z
+31,Wed Feb 6 2002,20:00,GMT/+0000,Watford FC,1-2,1-0,Burnley FC,2002-02-06T20:00Z
+33,Thu Feb 7 2002,19:45,GMT/+0000,Crystal Palace,0-2,0-1,Wolverhampton Wanderers,2002-02-07T19:45Z
+33,Sat Feb 9 2002,15:00,GMT/+0000,Barnsley FC,1-1,1-1,Burnley FC,2002-02-09T15:00Z
+33,Sat Feb 9 2002,15:00,GMT/+0000,Rotherham United,3-2,1-0,Stockport County,2002-02-09T15:00Z
+33,Sat Feb 9 2002,15:00,GMT/+0000,Sheffield United,4-3,3-2,Portsmouth FC,2002-02-09T15:00Z
+33,Sat Feb 9 2002,15:00,GMT/+0000,Walsall FC,0-3,0-1,Sheffield Wednesday,2002-02-09T15:00Z
+33,Sat Feb 9 2002,11:00,GMT/+0000,Nottingham Forest,1-2,0-2,Millwall FC,2002-02-09T11:00Z
+33,Sat Feb 9 2002,15:00,GMT/+0000,Crewe Alexandra,1-6,1-2,Coventry City,2002-02-09T15:00Z
+33,Sat Feb 9 2002,15:00,GMT/+0000,Gillingham FC,0-0,0-0,Wimbledon FC,2002-02-09T15:00Z
+33,Sun Feb 10 2002,14:15,GMT/+0000,Watford FC,2-0,1-0,Grimsby Town,2002-02-10T14:15Z
+33,Sun Feb 10 2002,14:15,GMT/+0000,Manchester City,3-2,0-0,Preston North End,2002-02-10T14:15Z
+33,Sun Feb 10 2002,14:15,GMT/+0000,West Bromwich Albion,1-0,1-0,Norwich City,2002-02-10T14:15Z
+26,Tue Feb 12 2002,19:45,GMT/+0000,Rotherham United,1-1,1-1,Burnley FC,2002-02-12T19:45Z
+34,Sat Feb 16 2002,15:00,GMT/+0000,Burnley FC,1-1,0-0,Nottingham Forest,2002-02-16T15:00Z
+34,Sat Feb 16 2002,15:00,GMT/+0000,Sheffield Wednesday,2-1,0-1,Watford FC,2002-02-16T15:00Z
+34,Sat Feb 16 2002,15:00,GMT/+0000,Grimsby Town,1-0,0-0,Sheffield United,2002-02-16T15:00Z
+34,Sat Feb 16 2002,15:00,GMT/+0000,Wimbledon FC,1-1,1-0,Crystal Palace,2002-02-16T15:00Z
+34,Sat Feb 16 2002,12:00,GMT/+0000,Wolverhampton Wanderers,3-1,0-1,Bradford City,2002-02-16T12:00Z
+34,Sat Feb 16 2002,15:00,GMT/+0000,Birmingham City,1-0,0-0,Barnsley FC,2002-02-16T15:00Z
+34,Sat Feb 16 2002,15:00,GMT/+0000,Portsmouth FC,0-0,0-0,Rotherham United,2002-02-16T15:00Z
+26,Tue Feb 19 2002,19:45,GMT/+0000,Wimbledon FC,0-0,0-0,Watford FC,2002-02-19T19:45Z
+34,Tue Feb 19 2002,19:45,GMT/+0000,Millwall FC,1-0,1-0,West Bromwich Albion,2002-02-19T19:45Z
+34,Tue Feb 19 2002,19:45,GMT/+0000,Coventry City,2-1,1-1,Walsall FC,2002-02-19T19:45Z
+28,Wed Feb 20 2002,19:45,GMT/+0000,Crewe Alexandra,1-4,0-0,Wolverhampton Wanderers,2002-02-20T19:45Z
+35,Fri Feb 22 2002,19:45,GMT/+0000,Norwich City,3-0,0-0,Preston North End,2002-02-22T19:45Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Sheffield Wednesday,1-2,0-0,Rotherham United,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,West Bromwich Albion,5-0,4-0,Portsmouth FC,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Walsall FC,0-0,0-0,Manchester City,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Millwall FC,0-1,0-1,Wimbledon FC,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Gillingham FC,0-4,0-3,Bradford City,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Crystal Palace,0-1,0-0,Sheffield United,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Stockport County,1-4,1-3,Wolverhampton Wanderers,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Grimsby Town,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Birmingham City,3-2,2-0,Watford FC,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Coventry City,4-0,3-0,Barnsley FC,2002-02-23T15:00Z
+35,Sat Feb 23 2002,15:00,GMT/+0000,Crewe Alexandra,1-2,0-1,Burnley FC,2002-02-23T15:00Z
+36,Tue Feb 26 2002,19:45,GMT/+0000,Wolverhampton Wanderers,3-0,0-0,Walsall FC,2002-02-26T19:45Z
+36,Tue Feb 26 2002,20:00,GMT/+0000,Watford FC,2-1,2-0,Norwich City,2002-02-26T20:00Z
+36,Tue Feb 26 2002,19:45,GMT/+0000,Rotherham United,3-2,1-0,Gillingham FC,2002-02-26T19:45Z
+36,Tue Feb 26 2002,19:45,GMT/+0000,Preston North End,1-0,0-0,West Bromwich Albion,2002-02-26T19:45Z
+36,Tue Feb 26 2002,19:45,GMT/+0000,Portsmouth FC,1-0,0-0,Coventry City,2002-02-26T19:45Z
+36,Tue Feb 26 2002,19:45,GMT/+0000,Grimsby Town,3-1,3-1,Stockport County,2002-02-26T19:45Z
+36,Tue Feb 26 2002,19:45,GMT/+0000,Burnley FC,0-1,0-1,Birmingham City,2002-02-26T19:45Z
+36,Tue Feb 26 2002,19:45,GMT/+0000,Bradford City,2-1,1-0,Nottingham Forest,2002-02-26T19:45Z
+36,Tue Feb 26 2002,19:45,GMT/+0000,Barnsley FC,1-4,1-1,Crystal Palace,2002-02-26T19:45Z
+36,Wed Feb 27 2002,19:45,GMT/+0000,Manchester City,4-0,2-0,Sheffield Wednesday,2002-02-27T19:45Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Portsmouth FC,1-1,0-0,Walsall FC,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Preston North End,1-0,1-0,Birmingham City,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Rotherham United,1-2,0-0,Nottingham Forest,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Sheffield United,3-0,0-0,Stockport County,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Watford FC,0-1,0-0,Crewe Alexandra,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Wolverhampton Wanderers,2-0,2-0,Gillingham FC,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Wimbledon FC,0-1,0-0,West Bromwich Albion,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Grimsby Town,5-2,3-0,Crystal Palace,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Burnley FC,1-1,1-0,Norwich City,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Bradford City,0-2,0-1,Sheffield Wednesday,2002-03-02T15:00Z
+37,Sat Mar 2 2002,15:00,GMT/+0000,Barnsley FC,1-1,0-1,Millwall FC,2002-03-02T15:00Z
+37,Sun Mar 3 2002,13:00,GMT/+0000,Manchester City,4-2,3-1,Coventry City,2002-03-03T13:00Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,Birmingham City,1-2,1-1,Manchester City,2002-03-05T19:45Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,Crewe Alexandra,2-0,1-0,Barnsley FC,2002-03-05T19:45Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,Gillingham FC,2-1,1-1,Grimsby Town,2002-03-05T19:45Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,Millwall FC,2-1,1-0,Preston North End,2002-03-05T19:45Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,Norwich City,0-0,0-0,Rotherham United,2002-03-05T19:45Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,Stockport County,1-0,1-0,Bradford City,2002-03-05T19:45Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,Walsall FC,1-0,0-0,Burnley FC,2002-03-05T19:45Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,West Bromwich Albion,1-1,0-0,Watford FC,2002-03-05T19:45Z
+38,Tue Mar 5 2002,19:45,GMT/+0000,Crystal Palace,0-0,0-0,Portsmouth FC,2002-03-05T19:45Z
+38,Wed Mar 6 2002,19:45,GMT/+0000,Nottingham Forest,2-2,0-1,Wolverhampton Wanderers,2002-03-06T19:45Z
+38,Wed Mar 6 2002,19:45,GMT/+0000,Coventry City,1-0,1-0,Sheffield United,2002-03-06T19:45Z
+38,Wed Mar 6 2002,19:45,GMT/+0000,Sheffield Wednesday,1-2,1-1,Wimbledon FC,2002-03-06T19:45Z
+39,Fri Mar 8 2002,19:45,GMT/+0000,Bradford City,0-2,0-1,Manchester City,2002-03-08T19:45Z
+39,Sat Mar 9 2002,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Wimbledon FC,2002-03-09T15:00Z
+39,Sat Mar 9 2002,15:00,GMT/+0000,Grimsby Town,2-2,1-0,Walsall FC,2002-03-09T15:00Z
+39,Sat Mar 9 2002,15:00,GMT/+0000,Preston North End,2-1,1-0,Rotherham United,2002-03-09T15:00Z
+39,Sat Mar 9 2002,15:00,GMT/+0000,Barnsley FC,1-1,1-1,Sheffield United,2002-03-09T15:00Z
+39,Sat Mar 9 2002,12:00,GMT/+0000,Portsmouth FC,3-0,2-0,Millwall FC,2002-03-09T12:00Z
+39,Sat Mar 9 2002,12:00,GMT/+0000,Birmingham City,2-2,2-2,Wolverhampton Wanderers,2002-03-09T12:00Z
+39,Sat Mar 9 2002,15:00,GMT/+0000,Sheffield Wednesday,0-0,0-0,Gillingham FC,2002-03-09T15:00Z
+39,Sat Mar 9 2002,15:00,GMT/+0000,Stockport County,0-2,0-0,Burnley FC,2002-03-09T15:00Z
+39,Sat Mar 9 2002,15:00,GMT/+0000,Crystal Palace,0-2,0-1,Watford FC,2002-03-09T15:00Z
+39,Sat Mar 9 2002,15:00,GMT/+0000,Coventry City,2-1,0-1,Norwich City,2002-03-09T15:00Z
+25,Tue Mar 12 2002,19:45,GMT/+0000,Crewe Alexandra,1-3,0-2,Manchester City,2002-03-12T19:45Z
+33,Tue Mar 12 2002,19:45,GMT/+0000,Bradford City,1-3,1-2,Birmingham City,2002-03-12T19:45Z
+28,Tue Mar 12 2002,19:45,GMT/+0000,Portsmouth FC,1-2,1-0,Wimbledon FC,2002-03-12T19:45Z
+40,Fri Mar 15 2002,19:45,GMT/+0000,Norwich City,0-1,0-1,Birmingham City,2002-03-15T19:45Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Rotherham United,1-1,0-0,Bradford City,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Wolverhampton Wanderers,0-1,0-0,Grimsby Town,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Sheffield United,0-3,0-1,West Bromwich Albion,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Manchester City,1-0,1-0,Crystal Palace,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Walsall FC,2-1,0-1,Barnsley FC,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Wimbledon FC,3-1,1-0,Stockport County,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Gillingham FC,3-1,0-1,Nottingham Forest,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Millwall FC,1-2,0-0,Sheffield Wednesday,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Crewe Alexandra,1-1,1-1,Portsmouth FC,2002-03-16T15:00Z
+40,Sat Mar 16 2002,15:00,GMT/+0000,Watford FC,3-0,2-0,Coventry City,2002-03-16T15:00Z
+40,Sun Mar 17 2002,18:15,GMT/+0000,Burnley FC,2-1,2-0,Preston North End,2002-03-17T18:15Z
+34,Tue Mar 19 2002,19:45,GMT/+0000,Norwich City,2-1,0-1,Gillingham FC,2002-03-19T19:45Z
+36,Tue Mar 19 2002,19:45,GMT/+0000,Sheffield United,3-2,0-1,Millwall FC,2002-03-19T19:45Z
+34,Tue Mar 19 2002,19:45,GMT/+0000,Stockport County,2-1,0-1,Manchester City,2002-03-19T19:45Z
+34,Wed Mar 20 2002,19:45,GMT/+0000,Preston North End,2-2,2-1,Crewe Alexandra,2002-03-20T19:45Z
+28,Wed Mar 20 2002,19:45,GMT/+0000,Burnley FC,1-1,1-0,Bradford City,2002-03-20T19:45Z
+41,Fri Mar 22 2002,19:45,GMT/+0000,Nottingham Forest,0-1,0-0,West Bromwich Albion,2002-03-22T19:45Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Wolverhampton Wanderers,0-0,0-0,Norwich City,2002-03-23T15:00Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Stockport County,0-2,0-1,Preston North End,2002-03-23T15:00Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Sheffield United,3-0,1-0,Burnley FC,2002-03-23T15:00Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Barnsley FC,2-0,1-0,Watford FC,2002-03-23T15:00Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Bradford City,2-0,1-0,Crewe Alexandra,2002-03-23T15:00Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Crystal Palace,2-0,0-0,Walsall FC,2002-03-23T15:00Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Grimsby Town,6-2,2-2,Wimbledon FC,2002-03-23T15:00Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Portsmouth FC,0-0,0-0,Sheffield Wednesday,2002-03-23T15:00Z
+41,Sat Mar 23 2002,15:00,GMT/+0000,Rotherham United,1-1,1-0,Manchester City,2002-03-23T15:00Z
+41,Sun Mar 24 2002,14:15,GMT/+0000,Gillingham FC,1-0,0-0,Millwall FC,2002-03-24T14:15Z
+41,Sun Mar 24 2002,14:15,GMT/+0000,Coventry City,1-1,0-0,Birmingham City,2002-03-24T14:15Z
+39,Tue Mar 26 2002,19:45,GMT/+0000,West Bromwich Albion,4-1,2-1,Crewe Alexandra,2002-03-26T19:45Z
+42,Fri Mar 29 2002,15:15,GMT/+0000,Watford FC,0-0,0-0,Bradford City,2002-03-29T15:15Z
+42,Fri Mar 29 2002,19:45,GMT/+0000,Sheffield Wednesday,2-1,1-1,Coventry City,2002-03-29T19:45Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,West Bromwich Albion,3-1,1-0,Barnsley FC,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Wimbledon FC,1-0,1-0,Rotherham United,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Birmingham City,4-0,2-0,Grimsby Town,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Burnley FC,2-3,0-3,Wolverhampton Wanderers,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Crewe Alexandra,2-2,2-1,Sheffield United,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Manchester City,3-0,2-0,Nottingham Forest,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Millwall FC,3-0,1-0,Stockport County,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Norwich City,2-1,2-0,Crystal Palace,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Preston North End,2-0,0-0,Portsmouth FC,2002-03-30T15:00Z
+42,Sat Mar 30 2002,15:00,GMT/+0000,Walsall FC,1-1,1-0,Gillingham FC,2002-03-30T15:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Gillingham FC,1-0,1-0,Crewe Alexandra,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Sheffield United,0-1,0-1,Wimbledon FC,2002-04-01T14:00Z
+43,Mon Apr 1 2002,13:00,BST/+0100,Wolverhampton Wanderers,0-2,0-1,Manchester City,2002-04-01T12:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Barnsley FC,2-1,1-0,Preston North End,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Bradford City,0-1,0-0,Norwich City,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Coventry City,0-1,0-1,West Bromwich Albion,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Crystal Palace,0-0,0-0,Birmingham City,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Stockport County,2-1,1-0,Watford FC,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Grimsby Town,0-0,0-0,Sheffield Wednesday,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Nottingham Forest,2-3,1-2,Walsall FC,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Portsmouth FC,1-1,0-1,Burnley FC,2002-04-01T14:00Z
+43,Mon Apr 1 2002,15:00,BST/+0100,Rotherham United,0-0,0-0,Millwall FC,2002-04-01T14:00Z
+36,Thu Apr 4 2002,19:45,BST/+0100,Wimbledon FC,2-0,0-0,Crewe Alexandra,2002-04-04T18:45Z
+44,Fri Apr 5 2002,19:45,BST/+0100,Millwall FC,1-0,0-0,Wolverhampton Wanderers,2002-04-05T18:45Z
+44,Sat Apr 6 2002,15:00,BST/+0100,Wimbledon FC,1-2,0-1,Bradford City,2002-04-06T14:00Z
+44,Sat Apr 6 2002,13:00,BST/+0100,Manchester City,5-1,2-1,Barnsley FC,2002-04-06T12:00Z
+44,Sat Apr 6 2002,15:00,BST/+0100,Burnley FC,2-0,0-0,Gillingham FC,2002-04-06T14:00Z
+44,Sat Apr 6 2002,15:00,BST/+0100,Norwich City,1-1,1-0,Grimsby Town,2002-04-06T14:00Z
+44,Sat Apr 6 2002,15:00,BST/+0100,Preston North End,4-0,2-0,Coventry City,2002-04-06T14:00Z
+44,Sat Apr 6 2002,15:00,BST/+0100,Sheffield Wednesday,0-2,0-1,Nottingham Forest,2002-04-06T14:00Z
+44,Sat Apr 6 2002,15:00,BST/+0100,Walsall FC,1-0,0-0,Stockport County,2002-04-06T14:00Z
+44,Sat Apr 6 2002,15:00,BST/+0100,Watford FC,0-3,0-2,Sheffield United,2002-04-06T14:00Z
+44,Sun Apr 7 2002,13:00,BST/+0100,West Bromwich Albion,1-1,1-0,Rotherham United,2002-04-07T12:00Z
+44,Sun Apr 7 2002,14:15,BST/+0100,Birmingham City,1-1,1-0,Portsmouth FC,2002-04-07T13:15Z
+44,Sun Apr 7 2002,14:15,BST/+0100,Crewe Alexandra,0-0,0-0,Crystal Palace,2002-04-07T13:15Z
+32,Wed Apr 10 2002,19:45,BST/+0100,Birmingham City,3-1,2-0,Crewe Alexandra,2002-04-10T18:45Z
+45,Fri Apr 12 2002,19:45,BST/+0100,Coventry City,0-1,0-1,Millwall FC,2002-04-12T18:45Z
+45,Sat Apr 13 2002,13:00,BST/+0100,Gillingham FC,1-3,1-2,Manchester City,2002-04-13T12:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Barnsley FC,0-2,0-1,Norwich City,2002-04-13T14:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Bradford City,0-1,0-0,West Bromwich Albion,2002-04-13T14:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Crystal Palace,2-0,0-0,Preston North End,2002-04-13T14:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Grimsby Town,3-1,3-0,Burnley FC,2002-04-13T14:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Nottingham Forest,2-2,0-0,Crewe Alexandra,2002-04-13T14:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Portsmouth FC,0-1,0-0,Watford FC,2002-04-13T14:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Rotherham United,2-2,1-1,Birmingham City,2002-04-13T14:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Sheffield United,0-1,0-1,Walsall FC,2002-04-13T14:00Z
+45,Sat Apr 13 2002,15:00,BST/+0100,Stockport County,3-1,1-1,Sheffield Wednesday,2002-04-13T14:00Z
+45,Sun Apr 14 2002,13:00,BST/+0100,Wolverhampton Wanderers,1-0,1-0,Wimbledon FC,2002-04-14T12:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Birmingham City,2-0,0-0,Sheffield United,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Burnley FC,1-0,0-0,Coventry City,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Crewe Alexandra,2-0,2-0,Rotherham United,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Manchester City,3-1,2-0,Portsmouth FC,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Millwall FC,3-1,3-1,Grimsby Town,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Norwich City,2-0,1-0,Stockport County,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Preston North End,2-1,0-1,Nottingham Forest,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Sheffield Wednesday,2-2,1-1,Wolverhampton Wanderers,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Walsall FC,2-2,2-0,Bradford City,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Watford FC,2-3,1-1,Gillingham FC,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,West Bromwich Albion,2-0,1-0,Crystal Palace,2002-04-21T13:00Z
+46,Sun Apr 21 2002,14:00,BST/+0100,Wimbledon FC,0-1,0-1,Barnsley FC,2002-04-21T13:00Z

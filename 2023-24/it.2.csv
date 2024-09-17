@@ -1,381 +1,391 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Aug 18 2023,20:30,SSC Bari,0-0,0-0,Palermo FC
-1,Sat Aug 19 2023,20:30,Ternana Calcio,1-2,0-1,Sampdoria
-1,Sat Aug 19 2023,20:30,US Cremonese,0-0,0-0,US Catanzaro
-1,Sat Aug 19 2023,20:30,Cosenza Calcio,3-0,1-0,Ascoli Calcio
-1,Sun Aug 20 2023,18:00,FC Südtirol,3-3,1-2,Spezia Calcio
-1,Sun Aug 20 2023,20:30,AS Cittadella,1-0,1-0,AC Reggiana 1919
-1,Sun Aug 20 2023,20:30,Venezia FC,3-0,2-0,Calcio Como
-1,Sun Aug 20 2023,20:30,Parma Calcio 1913,2-0,1-0,FeralpiSalò
-2,Fri Aug 25 2023,20:30,Sampdoria,0-2,0-1,AC Pisa
-2,Sat Aug 26 2023,20:30,Modena FC,1-0,0-0,Ascoli Calcio
-2,Sat Aug 26 2023,20:30,US Cremonese,0-1,0-1,SSC Bari
-2,Sat Aug 26 2023,18:00,Venezia FC,1-1,0-1,Cosenza Calcio
-2,Sat Aug 26 2023,20:30,FeralpiSalò,0-2,0-1,FC Südtirol
-2,Sat Aug 26 2023,20:30,Calcio Como,2-2,1-0,AC Reggiana 1919
-2,Sat Aug 26 2023,20:30,Parma Calcio 1913,2-0,1-0,AS Cittadella
-2,Sun Aug 27 2023,20:30,US Catanzaro,2-1,1-1,Ternana Calcio
-3,Tue Aug 29 2023,20:30,AC Pisa,1-2,0-1,Parma Calcio 1913
-3,Tue Aug 29 2023,20:30,AC Reggiana 1919,1-3,0-1,Palermo FC
-3,Tue Aug 29 2023,20:30,Cosenza Calcio,1-2,1-1,Modena FC
-3,Tue Aug 29 2023,20:30,Ascoli Calcio,3-0,2-0,FeralpiSalò
-3,Wed Aug 30 2023,20:30,Ternana Calcio,0-1,0-0,US Cremonese
-3,Wed Aug 30 2023,20:30,SSC Bari,1-1,1-0,AS Cittadella
-3,Wed Aug 30 2023,20:30,Sampdoria,1-2,0-0,Venezia FC
-3,Wed Aug 30 2023,20:30,US Catanzaro,3-0,0-0,Spezia Calcio
-4,Sat Sep 2 2023,18:30,FC Südtirol,3-1,0-1,Ascoli Calcio
-4,Sat Sep 2 2023,18:30,Palermo FC,3-0,1-0,FeralpiSalò
-4,Sat Sep 2 2023,18:30,Parma Calcio 1913,0-0,0-0,AC Reggiana 1919
-4,Sat Sep 2 2023,18:30,Modena FC,2-0,1-0,AC Pisa
-4,Sun Sep 3 2023,18:30,Calcio Lecco 1912,3-4,0-1,US Catanzaro
-4,Sun Sep 3 2023,16:15,Brescia Calcio,1-0,0-0,Cosenza Calcio
-4,Sun Sep 3 2023,18:30,Ternana Calcio,0-0,0-0,SSC Bari
-4,Sun Sep 3 2023,18:30,US Cremonese,1-1,1-0,Sampdoria
-4,Sun Sep 3 2023,20:45,AS Cittadella,0-0,0-0,Venezia FC
-4,Sun Sep 3 2023,18:30,Spezia Calcio,0-1,0-1,Calcio Como
-5,Fri Sep 15 2023,20:30,Venezia FC,1-0,0-0,Spezia Calcio
-5,Sat Sep 16 2023,14:00,Ascoli Calcio,0-1,0-0,Palermo FC
-5,Sat Sep 16 2023,16:15,AC Reggiana 1919,2-2,2-0,US Cremonese
-5,Sat Sep 16 2023,14:00,Calcio Lecco 1912,0-2,0-1,Brescia Calcio
-5,Sat Sep 16 2023,14:00,AC Pisa,1-1,1-0,SSC Bari
-5,Sat Sep 16 2023,14:00,Cosenza Calcio,2-2,1-0,FC Südtirol
-5,Sat Sep 16 2023,14:00,FeralpiSalò,1-1,1-1,Modena FC
-5,Sun Sep 17 2023,16:15,US Catanzaro,0-5,0-3,Parma Calcio 1913
-5,Sun Sep 17 2023,16:15,Calcio Como,2-1,0-0,Ternana Calcio
-5,Mon Sep 18 2023,20:30,Sampdoria,1-2,1-0,AS Cittadella
-6,Fri Sep 22 2023,20:30,Palermo FC,0-1,0-0,Cosenza Calcio
-6,Sat Sep 23 2023,14:00,Brescia Calcio,0-0,0-0,Venezia FC
-6,Sat Sep 23 2023,14:00,US Cremonese,2-2,1-1,Ascoli Calcio
-6,Sat Sep 23 2023,16:15,Spezia Calcio,1-2,0-0,AC Reggiana 1919
-6,Sat Sep 23 2023,14:00,Modena FC,0-0,0-0,Calcio Lecco 1912
-6,Sat Sep 23 2023,14:00,Ternana Calcio,1-1,1-0,FC Südtirol
-6,Sat Sep 23 2023,14:00,FeralpiSalò,0-1,0-0,AC Pisa
-6,Sun Sep 24 2023,16:15,AS Cittadella,0-3,0-2,Calcio Como
-6,Sun Sep 24 2023,16:15,Parma Calcio 1913,1-1,0-1,Sampdoria
-6,Sun Sep 24 2023,16:15,SSC Bari,2-2,1-2,US Catanzaro
-7,Tue Sep 26 2023,20:30,Ascoli Calcio,2-0,1-0,Ternana Calcio
-7,Tue Sep 26 2023,20:30,FC Südtirol,0-0,0-0,Modena FC
-7,Tue Sep 26 2023,20:30,Venezia FC,1-3,1-1,Palermo FC
-7,Tue Sep 26 2023,20:30,AC Reggiana 1919,0-0,0-0,AC Pisa
-7,Tue Sep 26 2023,20:30,Spezia Calcio,0-0,0-0,Brescia Calcio
-7,Tue Sep 26 2023,18:15,Cosenza Calcio,1-2,0-0,US Cremonese
-7,Tue Sep 26 2023,18:15,Calcio Lecco 1912,1-2,0-0,FeralpiSalò
-7,Wed Sep 27 2023,20:30,Calcio Como,1-0,0-0,Sampdoria
-7,Wed Sep 27 2023,20:30,US Catanzaro,1-1,1-1,AS Cittadella
-7,Wed Sep 27 2023,20:30,Parma Calcio 1913,2-1,1-0,SSC Bari
-8,Sat Sep 30 2023,14:00,FeralpiSalò,1-2,0-2,Spezia Calcio
-8,Sat Sep 30 2023,14:00,Modena FC,1-3,0-0,Venezia FC
-8,Sat Sep 30 2023,14:00,AC Pisa,1-2,0-1,Cosenza Calcio
-8,Sat Sep 30 2023,16:15,Ternana Calcio,3-0,2-0,AC Reggiana 1919
-8,Sat Sep 30 2023,14:00,Brescia Calcio,1-1,0-1,Ascoli Calcio
-8,Sun Oct 1 2023,18:30,US Cremonese,1-2,0-0,Parma Calcio 1913
-8,Sun Oct 1 2023,16:15,SSC Bari,1-1,0-0,Calcio Como
-8,Sun Oct 1 2023,16:15,Sampdoria,1-2,1-2,US Catanzaro
-8,Sun Oct 1 2023,16:15,Palermo FC,2-1,0-1,FC Südtirol
-8,Sun Oct 1 2023,16:15,AS Cittadella,2-1,0-1,Calcio Lecco 1912
-9,Fri Oct 6 2023,20:30,Brescia Calcio,1-1,0-1,FeralpiSalò
-9,Sat Oct 7 2023,16:15,AS Cittadella,2-2,2-1,Ternana Calcio
-9,Sat Oct 7 2023,16:15,Venezia FC,3-2,0-0,Parma Calcio 1913
-9,Sat Oct 7 2023,14:00,FC Südtirol,0-1,0-1,US Catanzaro
-9,Sat Oct 7 2023,14:00,Modena FC,0-2,0-0,Palermo FC
-9,Sat Oct 7 2023,14:00,Cosenza Calcio,3-0,2-0,Calcio Lecco 1912
-9,Sat Oct 7 2023,16:15,Ascoli Calcio,1-1,1-0,Sampdoria
-9,Sat Oct 7 2023,14:00,AC Reggiana 1919,1-1,1-1,SSC Bari
-9,Sun Oct 8 2023,16:15,Calcio Como,1-3,0-2,US Cremonese
-9,Sun Oct 8 2023,16:15,Spezia Calcio,0-0,0-0,AC Pisa
-10,Fri Oct 20 2023,20:30,Parma Calcio 1913,2-1,1-0,Calcio Como
-10,Sat Oct 21 2023,14:00,Ternana Calcio,0-1,0-0,Brescia Calcio
-10,Sat Oct 21 2023,14:00,US Cremonese,0-1,0-0,FC Südtirol
-10,Sat Oct 21 2023,14:00,SSC Bari,1-1,0-0,Modena FC
-10,Sat Oct 21 2023,14:00,AC Pisa,2-1,1-0,AS Cittadella
-10,Sat Oct 21 2023,14:00,Calcio Lecco 1912,0-2,0-1,Ascoli Calcio
-10,Sat Oct 21 2023,16:15,US Catanzaro,3-0,0-0,FeralpiSalò
-10,Sun Oct 22 2023,16:15,Sampdoria,2-0,0-0,Cosenza Calcio
-10,Sun Oct 22 2023,18:30,AC Reggiana 1919,1-0,0-0,Venezia FC
-10,Mon Oct 23 2023,20:30,Palermo FC,2-2,0-1,Spezia Calcio
-1,Tue Oct 24 2023,18:30,Brescia Calcio,0-1,0-0,Modena FC
-1,Tue Oct 24 2023,18:30,AC Pisa,1-2,0-1,Calcio Lecco 1912
-11,Fri Oct 27 2023,20:30,AS Cittadella,1-2,0-0,US Cremonese
-11,Sat Oct 28 2023,14:00,FeralpiSalò,0-3,0-2,AC Reggiana 1919
-11,Sat Oct 28 2023,14:00,Spezia Calcio,0-0,0-0,Cosenza Calcio
-11,Sat Oct 28 2023,14:00,FC Südtirol,3-1,0-0,Sampdoria
-11,Sat Oct 28 2023,14:00,Calcio Como,1-0,1-0,US Catanzaro
-11,Sat Oct 28 2023,16:15,Ascoli Calcio,1-3,1-2,Parma Calcio 1913
-11,Sun Oct 29 2023,16:15,Palermo FC,1-2,0-2,Calcio Lecco 1912
-11,Sun Oct 29 2023,16:15,Venezia FC,2-1,1-1,AC Pisa
-11,Sun Oct 29 2023,16:15,Modena FC,2-1,1-0,Ternana Calcio
-11,Sun Oct 29 2023,16:15,Brescia Calcio,1-2,1-0,SSC Bari
-12,Sat Nov 4 2023,14:00,US Catanzaro,1-2,1-1,Modena FC
-12,Sat Nov 4 2023,16:15,Sampdoria,1-0,1-0,Palermo FC
-12,Sat Nov 4 2023,14:00,AS Cittadella,3-2,2-1,Brescia Calcio
-12,Sat Nov 4 2023,14:00,Ternana Calcio,0-1,0-0,Venezia FC
-12,Sat Nov 4 2023,14:00,Cosenza Calcio,1-1,1-0,FeralpiSalò
-12,Sat Nov 4 2023,14:00,AC Pisa,1-1,0-1,Calcio Como
-12,Sat Nov 4 2023,14:00,SSC Bari,1-0,0-0,Ascoli Calcio
-12,Sun Nov 5 2023,16:15,US Cremonese,3-0,2-0,Spezia Calcio
-12,Sun Nov 5 2023,16:15,AC Reggiana 1919,1-1,1-0,Calcio Lecco 1912
-12,Sun Nov 5 2023,16:15,Parma Calcio 1913,2-0,1-0,FC Südtirol
-2,Wed Nov 8 2023,18:30,Palermo FC,1-0,1-0,Brescia Calcio
-2,Wed Nov 8 2023,18:30,Calcio Lecco 1912,0-0,0-0,Spezia Calcio
-13,Fri Nov 10 2023,20:30,Venezia FC,2-1,2-1,US Catanzaro
-13,Sat Nov 11 2023,14:00,FC Südtirol,1-2,0-1,AC Pisa
-13,Sat Nov 11 2023,16:15,Modena FC,0-2,0-1,Sampdoria
-13,Sat Nov 11 2023,14:00,FeralpiSalò,3-3,0-1,SSC Bari
-13,Sat Nov 11 2023,14:00,Ascoli Calcio,0-1,0-1,Calcio Como
-13,Sat Nov 11 2023,14:00,Cosenza Calcio,2-0,1-0,AC Reggiana 1919
-13,Sun Nov 12 2023,16:15,Brescia Calcio,0-3,0-2,US Cremonese
-13,Sun Nov 12 2023,16:15,Calcio Lecco 1912,3-2,2-1,Parma Calcio 1913
-13,Sun Nov 12 2023,16:15,Palermo FC,0-1,0-0,AS Cittadella
-13,Sun Nov 12 2023,16:15,Spezia Calcio,2-2,1-1,Ternana Calcio
-14,Fri Nov 24 2023,20:30,Sampdoria,2-1,1-1,Spezia Calcio
-14,Sat Nov 25 2023,14:00,US Cremonese,1-0,1-0,Calcio Lecco 1912
-14,Sat Nov 25 2023,14:00,AS Cittadella,2-1,1-0,FC Südtirol
-14,Sat Nov 25 2023,16:15,AC Pisa,1-1,1-1,Brescia Calcio
-14,Sat Nov 25 2023,14:00,Calcio Como,2-1,1-0,FeralpiSalò
-14,Sat Nov 25 2023,14:00,Parma Calcio 1913,1-1,0-0,Modena FC
-14,Sat Nov 25 2023,14:00,AC Reggiana 1919,1-1,0-1,Ascoli Calcio
-14,Sat Nov 25 2023,14:00,SSC Bari,0-3,0-1,Venezia FC
-14,Sun Nov 26 2023,16:15,Ternana Calcio,1-1,0-1,Palermo FC
-14,Sun Nov 26 2023,16:15,US Catanzaro,2-0,1-0,Cosenza Calcio
-3,Tue Nov 28 2023,18:30,FC Südtirol,1-1,1-0,Brescia Calcio
-3,Tue Nov 28 2023,18:30,Calcio Como,0-0,0-0,Calcio Lecco 1912
-15,Fri Dec 1 2023,20:30,Palermo FC,1-2,0-1,US Catanzaro
-15,Sat Dec 2 2023,14:00,FeralpiSalò,0-1,0-1,AS Cittadella
-15,Sat Dec 2 2023,14:00,Cosenza Calcio,1-3,0-0,Ternana Calcio
-15,Sat Dec 2 2023,14:00,Modena FC,2-1,1-0,AC Reggiana 1919
-15,Sat Dec 2 2023,14:00,Venezia FC,3-1,2-0,Ascoli Calcio
-15,Sat Dec 2 2023,14:00,AC Pisa,0-0,0-0,US Cremonese
-15,Sat Dec 2 2023,16:15,Spezia Calcio,0-1,0-0,Parma Calcio 1913
-15,Sun Dec 3 2023,16:15,FC Südtirol,0-1,0-0,Calcio Como
-15,Sun Dec 3 2023,16:15,Brescia Calcio,3-1,3-0,Sampdoria
-15,Sun Dec 3 2023,16:15,Calcio Lecco 1912,1-0,0-0,SSC Bari
-16,Sat Dec 9 2023,14:00,AS Cittadella,2-0,2-0,Cosenza Calcio
-16,Sat Dec 9 2023,14:00,Ascoli Calcio,1-2,0-1,Spezia Calcio
-16,Sat Dec 9 2023,14:00,Sampdoria,2-0,1-0,Calcio Lecco 1912
-16,Sat Dec 9 2023,14:00,SSC Bari,2-1,1-1,FC Südtirol
-16,Sat Dec 9 2023,14:00,Ternana Calcio,2-1,1-0,FeralpiSalò
-16,Sat Dec 9 2023,14:00,US Cremonese,1-0,0-0,Venezia FC
-16,Sat Dec 9 2023,16:15,US Catanzaro,2-0,0-0,AC Pisa
-16,Sun Dec 10 2023,16:15,Parma Calcio 1913,3-3,0-2,Palermo FC
-16,Sun Dec 10 2023,16:15,AC Reggiana 1919,1-1,0-0,Brescia Calcio
-16,Sun Dec 10 2023,16:15,Calcio Como,2-1,1-0,Modena FC
-17,Fri Dec 15 2023,20:30,Spezia Calcio,1-0,0-0,SSC Bari
-17,Sat Dec 16 2023,14:00,FeralpiSalò,1-0,1-0,US Cremonese
-17,Sat Dec 16 2023,14:00,Modena FC,1-1,1-1,AS Cittadella
-17,Sat Dec 16 2023,14:00,Venezia FC,2-3,2-1,FC Südtirol
-17,Sat Dec 16 2023,14:00,AC Reggiana 1919,1-2,0-1,Sampdoria
-17,Sat Dec 16 2023,14:00,Brescia Calcio,2-0,0-0,Calcio Como
-17,Sat Dec 16 2023,16:15,Ascoli Calcio,1-0,1-0,US Catanzaro
-17,Sat Dec 16 2023,16:15,Cosenza Calcio,0-0,0-0,Parma Calcio 1913
-17,Sat Dec 16 2023,16:15,Palermo FC,3-2,2-0,AC Pisa
-17,Sun Dec 17 2023,16:15,Calcio Lecco 1912,2-3,2-0,Ternana Calcio
-18,Sat Dec 23 2023,14:00,AS Cittadella,4-1,1-0,Spezia Calcio
-18,Sat Dec 23 2023,14:00,Calcio Como,3-3,0-1,Palermo FC
-18,Sat Dec 23 2023,14:00,Venezia FC,2-2,0-1,Calcio Lecco 1912
-18,Sat Dec 23 2023,14:00,Parma Calcio 1913,3-1,1-1,Ternana Calcio
-18,Sat Dec 23 2023,14:00,US Cremonese,4-0,4-0,Modena FC
-18,Sat Dec 23 2023,15:00,US Catanzaro,2-3,2-0,Brescia Calcio
-18,Sat Dec 23 2023,16:15,FC Südtirol,2-3,1-1,AC Reggiana 1919
-18,Sat Dec 23 2023,16:15,AC Pisa,1-0,1-0,Ascoli Calcio
-18,Sat Dec 23 2023,16:15,Sampdoria,2-3,1-2,FeralpiSalò
-18,Sat Dec 23 2023,16:15,SSC Bari,0-0,0-0,Cosenza Calcio
-19,Tue Dec 26 2023,12:30,AC Reggiana 1919,1-0,1-0,US Catanzaro
-19,Tue Dec 26 2023,15:00,FeralpiSalò,2-2,1-1,Venezia FC
-19,Tue Dec 26 2023,15:00,Ascoli Calcio,0-0,0-0,AS Cittadella
-19,Tue Dec 26 2023,15:00,Calcio Lecco 1912,2-1,0-0,FC Südtirol
-19,Tue Dec 26 2023,15:00,Cosenza Calcio,1-2,1-1,Calcio Como
-19,Tue Dec 26 2023,15:00,Spezia Calcio,1-1,0-0,Modena FC
-19,Tue Dec 26 2023,15:00,Ternana Calcio,1-1,0-1,AC Pisa
-19,Tue Dec 26 2023,15:00,Brescia Calcio,0-2,0-2,Parma Calcio 1913
-19,Tue Dec 26 2023,18:00,Palermo FC,3-2,1-2,US Cremonese
-19,Tue Dec 26 2023,20:30,Sampdoria,1-1,0-0,SSC Bari
-20,Fri Jan 12 2024,20:30,US Catanzaro,5-3,1-2,Calcio Lecco 1912
-20,Sat Jan 13 2024,14:00,AS Cittadella,2-0,1-0,Palermo FC
-20,Sat Jan 13 2024,14:00,Calcio Como,4-0,2-0,Spezia Calcio
-20,Sat Jan 13 2024,14:00,FC Südtirol,1-0,0-0,FeralpiSalò
-20,Sat Jan 13 2024,14:00,SSC Bari,3-1,2-0,Ternana Calcio
-20,Sat Jan 13 2024,14:00,Modena FC,1-2,0-2,Brescia Calcio
-20,Sat Jan 13 2024,16:15,AC Pisa,2-2,1-2,AC Reggiana 1919
-20,Sun Jan 14 2024,16:15,Parma Calcio 1913,1-1,0-0,Ascoli Calcio
-20,Sun Jan 14 2024,16:15,US Cremonese,1-0,0-0,Cosenza Calcio
-20,Sun Jan 14 2024,16:15,Venezia FC,5-3,2-1,Sampdoria
-21,Fri Jan 19 2024,20:30,Sampdoria,0-3,0-2,Parma Calcio 1913
-21,Sat Jan 20 2024,14:00,FeralpiSalò,3-0,1-0,US Catanzaro
-21,Sat Jan 20 2024,14:00,AC Reggiana 1919,2-2,1-2,Calcio Como
-21,Sat Jan 20 2024,14:00,Spezia Calcio,0-1,0-0,US Cremonese
-21,Sat Jan 20 2024,14:00,Ternana Calcio,3-1,1-1,AS Cittadella
-21,Sat Jan 20 2024,14:00,Brescia Calcio,1-1,0-0,FC Südtirol
-21,Sat Jan 20 2024,16:15,Calcio Lecco 1912,1-3,0-1,AC Pisa
-21,Sat Jan 20 2024,16:15,Cosenza Calcio,4-2,3-1,Venezia FC
-21,Sat Jan 20 2024,16:15,Palermo FC,4-2,2-1,Modena FC
-21,Sun Jan 21 2024,16:15,Ascoli Calcio,2-2,0-2,SSC Bari
-22,Fri Jan 26 2024,20:30,US Catanzaro,1-1,1-0,Palermo FC
-22,Sat Jan 27 2024,14:00,Calcio Como,0-2,0-0,Ascoli Calcio
-22,Sat Jan 27 2024,14:00,Modena FC,3-0,2-0,Parma Calcio 1913
-22,Sat Jan 27 2024,14:00,FC Südtirol,0-1,0-0,Cosenza Calcio
-22,Sat Jan 27 2024,14:00,Venezia FC,1-0,0-0,Ternana Calcio
-22,Sat Jan 27 2024,14:00,US Cremonese,1-0,1-0,Brescia Calcio
-22,Sat Jan 27 2024,16:15,FeralpiSalò,5-1,1-0,Calcio Lecco 1912
-22,Sat Jan 27 2024,16:15,AC Pisa,2-3,1-3,Spezia Calcio
-22,Sat Jan 27 2024,16:15,SSC Bari,0-2,0-1,AC Reggiana 1919
-22,Sun Jan 28 2024,16:15,AS Cittadella,1-2,0-0,Sampdoria
-23,Fri Feb 2 2024,20:30,Palermo FC,3-0,1-0,SSC Bari
-23,Sat Feb 3 2024,14:00,Cosenza Calcio,1-1,0-0,AC Pisa
-23,Sat Feb 3 2024,14:00,Parma Calcio 1913,2-1,1-1,Venezia FC
-23,Sat Feb 3 2024,14:00,AC Reggiana 1919,1-1,0-0,FeralpiSalò
-23,Sat Feb 3 2024,14:00,Spezia Calcio,1-1,1-1,US Catanzaro
-23,Sat Feb 3 2024,14:00,Brescia Calcio,2-0,0-0,AS Cittadella
-23,Sat Feb 3 2024,16:15,Calcio Lecco 1912,0-1,0-0,US Cremonese
-23,Sat Feb 3 2024,16:15,Sampdoria,2-2,2-0,Modena FC
-23,Sat Feb 3 2024,16:15,Ternana Calcio,0-1,0-1,Calcio Como
-23,Sun Feb 4 2024,16:15,Ascoli Calcio,1-2,0-1,FC Südtirol
-24,Fri Feb 9 2024,20:30,Calcio Como,1-0,1-0,Brescia Calcio
-24,Sat Feb 10 2024,14:00,FeralpiSalò,1-2,0-0,Palermo FC
-24,Sat Feb 10 2024,14:00,AS Cittadella,1-2,1-2,Parma Calcio 1913
-24,Sat Feb 10 2024,14:00,Modena FC,1-1,1-1,Cosenza Calcio
-24,Sat Feb 10 2024,14:00,FC Südtirol,0-3,0-1,Venezia FC
-24,Sat Feb 10 2024,14:00,US Cremonese,1-1,0-0,AC Reggiana 1919
-24,Sat Feb 10 2024,16:15,AC Pisa,2-0,0-0,Sampdoria
-24,Sat Feb 10 2024,16:15,SSC Bari,3-1,1-0,Calcio Lecco 1912
-24,Sat Feb 10 2024,16:15,US Catanzaro,3-2,1-2,Ascoli Calcio
-24,Sun Feb 11 2024,16:15,Ternana Calcio,1-1,0-0,Spezia Calcio
-25,Fri Feb 16 2024,20:30,Ascoli Calcio,0-0,0-0,US Cremonese
-25,Sat Feb 17 2024,14:00,Calcio Lecco 1912,1-3,0-2,Cosenza Calcio
-25,Sat Feb 17 2024,14:00,Parma Calcio 1913,3-2,1-1,AC Pisa
-25,Sat Feb 17 2024,14:00,AC Reggiana 1919,0-2,0-1,Ternana Calcio
-25,Sat Feb 17 2024,14:00,Spezia Calcio,4-2,2-1,AS Cittadella
-25,Sat Feb 17 2024,14:00,SSC Bari,1-0,0-0,FeralpiSalò
-25,Sat Feb 17 2024,16:15,Palermo FC,3-0,1-0,Calcio Como
-25,Sat Feb 17 2024,16:15,US Catanzaro,2-2,1-1,FC Südtirol
-25,Sat Feb 17 2024,16:15,Sampdoria,1-1,0-0,Brescia Calcio
-25,Sun Feb 18 2024,16:15,Venezia FC,2-2,1-0,Modena FC
-26,Fri Feb 23 2024,20:30,Cosenza Calcio,1-2,0-2,Sampdoria
-26,Sat Feb 24 2024,14:00,FeralpiSalò,0-1,0-1,Ascoli Calcio
-26,Sat Feb 24 2024,14:00,AS Cittadella,1-2,1-1,US Catanzaro
-26,Sat Feb 24 2024,14:00,FC Südtirol,1-0,0-0,SSC Bari
-26,Sat Feb 24 2024,14:00,US Cremonese,2-2,0-2,Palermo FC
-26,Sat Feb 24 2024,14:00,Brescia Calcio,0-0,0-0,AC Reggiana 1919
-26,Sat Feb 24 2024,16:15,Calcio Como,1-1,1-1,Parma Calcio 1913
-26,Sat Feb 24 2024,16:15,AC Pisa,1-2,0-0,Venezia FC
-26,Sat Feb 24 2024,16:15,Ternana Calcio,0-0,0-0,Calcio Lecco 1912
-26,Sun Feb 25 2024,16:15,Modena FC,0-0,0-0,Spezia Calcio
-27,Tue Feb 27 2024,18:15,AC Reggiana 1919,1-1,0-0,FC Südtirol
-27,Tue Feb 27 2024,18:15,Ascoli Calcio,1-1,1-1,Brescia Calcio
-27,Tue Feb 27 2024,20:30,Calcio Lecco 1912,0-3,0-2,Calcio Como
-27,Tue Feb 27 2024,20:30,Palermo FC,2-3,1-1,Ternana Calcio
-27,Tue Feb 27 2024,20:30,Parma Calcio 1913,1-1,1-1,Cosenza Calcio
-27,Tue Feb 27 2024,20:30,Sampdoria,1-2,1-1,US Cremonese
-27,Tue Feb 27 2024,20:30,US Catanzaro,2-0,1-0,SSC Bari
-27,Wed Feb 28 2024,20:30,AC Pisa,2-2,1-0,Modena FC
-27,Wed Feb 28 2024,20:30,Spezia Calcio,0-2,0-1,FeralpiSalò
-27,Wed Feb 28 2024,20:30,Venezia FC,2-0,1-0,AS Cittadella
-28,Sat Mar 2 2024,14:00,Ternana Calcio,1-3,0-2,Parma Calcio 1913
-28,Sat Mar 2 2024,14:00,Brescia Calcio,4-2,4-2,Palermo FC
-28,Sat Mar 2 2024,14:00,FC Südtirol,1-0,0-0,Calcio Lecco 1912
-28,Sun Mar 3 2024,16:15,FeralpiSalò,1-3,0-2,Sampdoria
-28,Sun Mar 3 2024,16:15,AS Cittadella,0-1,0-0,AC Pisa
-28,Sun Mar 3 2024,16:15,Ascoli Calcio,0-0,0-0,AC Reggiana 1919
-28,Sun Mar 3 2024,16:15,Calcio Como,2-1,1-1,Venezia FC
-28,Sun Mar 3 2024,16:15,Cosenza Calcio,0-2,0-1,US Catanzaro
-28,Sun Mar 3 2024,16:15,SSC Bari,1-1,0-0,Spezia Calcio
-28,Sun Mar 3 2024,18:30,Modena FC,0-1,0-0,US Cremonese
-29,Fri Mar 8 2024,20:30,Parma Calcio 1913,2-1,0-1,Brescia Calcio
-29,Sat Mar 9 2024,14:00,Cosenza Calcio,0-0,0-0,AS Cittadella
-29,Sat Mar 9 2024,14:00,Modena FC,2-3,1-2,FeralpiSalò
-29,Sat Mar 9 2024,14:00,Spezia Calcio,2-1,1-1,FC Südtirol
-29,Sat Mar 9 2024,16:15,AC Pisa,1-0,0-0,Ternana Calcio
-29,Sat Mar 9 2024,16:15,US Catanzaro,0-1,0-1,AC Reggiana 1919
-29,Sat Mar 9 2024,16:15,US Cremonese,2-1,1-0,Calcio Como
-29,Sun Mar 10 2024,16:15,Venezia FC,3-1,2-1,SSC Bari
-29,Sun Mar 10 2024,16:15,Calcio Lecco 1912,0-1,0-1,Palermo FC
-29,Mon Mar 11 2024,20:30,Sampdoria,2-1,0-1,Ascoli Calcio
-30,Fri Mar 15 2024,20:30,Palermo FC,0-3,0-2,Venezia FC
-30,Sat Mar 16 2024,14:00,FeralpiSalò,1-2,0-1,Parma Calcio 1913
-30,Sat Mar 16 2024,14:00,Calcio Como,3-1,2-0,AC Pisa
-30,Sat Mar 16 2024,14:00,FC Südtirol,3-0,1-0,US Cremonese
-30,Sat Mar 16 2024,14:00,Ternana Calcio,1-0,0-0,Cosenza Calcio
-30,Sat Mar 16 2024,14:00,Brescia Calcio,1-1,0-1,US Catanzaro
-30,Sat Mar 16 2024,16:15,AS Cittadella,1-1,1-1,Modena FC
-30,Sat Mar 16 2024,16:15,AC Reggiana 1919,0-0,0-0,Spezia Calcio
-30,Sat Mar 16 2024,16:15,SSC Bari,0-1,0-0,Sampdoria
-30,Sun Mar 17 2024,16:15,Ascoli Calcio,4-1,2-1,Calcio Lecco 1912
-31,Mon Apr 1 2024,12:30,Modena FC,1-1,0-0,SSC Bari
-31,Mon Apr 1 2024,15:00,Calcio Lecco 1912,1-1,1-1,AS Cittadella
-31,Mon Apr 1 2024,15:00,Calcio Como,2-0,1-0,FC Südtirol
-31,Mon Apr 1 2024,15:00,Venezia FC,2-3,2-1,AC Reggiana 1919
-31,Mon Apr 1 2024,15:00,Parma Calcio 1913,0-2,0-2,US Catanzaro
-31,Mon Apr 1 2024,15:00,AC Pisa,4-3,0-2,Palermo FC
-31,Mon Apr 1 2024,15:00,Spezia Calcio,2-1,1-1,Ascoli Calcio
-31,Mon Apr 1 2024,15:00,Cosenza Calcio,1-2,1-1,Brescia Calcio
-31,Mon Apr 1 2024,18:00,US Cremonese,0-1,0-0,FeralpiSalò
-31,Mon Apr 1 2024,20:30,Sampdoria,4-1,1-0,Ternana Calcio
-32,Fri Apr 5 2024,20:30,SSC Bari,1-2,0-1,US Cremonese
-32,Sat Apr 6 2024,14:00,FeralpiSalò,2-2,1-1,Cosenza Calcio
-32,Sat Apr 6 2024,14:00,FC Südtirol,0-0,0-0,Parma Calcio 1913
-32,Sat Apr 6 2024,14:00,Spezia Calcio,1-1,1-1,Calcio Lecco 1912
-32,Sat Apr 6 2024,14:00,Ternana Calcio,0-0,0-0,Modena FC
-32,Sat Apr 6 2024,14:00,Brescia Calcio,3-1,1-0,AC Pisa
-32,Sat Apr 6 2024,16:15,Palermo FC,2-2,2-1,Sampdoria
-32,Sat Apr 6 2024,16:15,AC Reggiana 1919,0-2,0-0,AS Cittadella
-32,Sat Apr 6 2024,16:15,US Catanzaro,1-2,1-0,Calcio Como
-32,Sun Apr 7 2024,16:15,Ascoli Calcio,0-0,0-0,Venezia FC
-33,Fri Apr 12 2024,20:30,Modena FC,1-3,1-2,US Catanzaro
-33,Sat Apr 13 2024,14:00,AS Cittadella,0-0,0-0,Ascoli Calcio
-33,Sat Apr 13 2024,14:00,Calcio Como,2-1,1-0,SSC Bari
-33,Sat Apr 13 2024,14:00,AC Pisa,3-1,2-0,FeralpiSalò
-33,Sat Apr 13 2024,14:00,Sampdoria,0-1,0-0,FC Südtirol
-33,Sat Apr 13 2024,14:00,US Cremonese,1-2,1-1,Ternana Calcio
-33,Sat Apr 13 2024,16:15,Calcio Lecco 1912,1-0,0-0,AC Reggiana 1919
-33,Sat Apr 13 2024,16:15,Cosenza Calcio,1-1,0-1,Palermo FC
-33,Sat Apr 13 2024,16:15,Parma Calcio 1913,2-0,1-0,Spezia Calcio
-33,Sun Apr 14 2024,16:15,Venezia FC,2-0,1-0,Brescia Calcio
-34,Fri Apr 19 2024,20:30,AC Reggiana 1919,0-4,0-2,Cosenza Calcio
-34,Fri Apr 19 2024,20:30,Palermo FC,0-0,0-0,Parma Calcio 1913
-34,Sat Apr 20 2024,14:00,FeralpiSalò,2-5,2-3,Calcio Como
-34,Sat Apr 20 2024,14:00,Ascoli Calcio,0-0,0-0,Modena FC
-34,Sat Apr 20 2024,14:00,SSC Bari,1-1,0-1,AC Pisa
-34,Sat Apr 20 2024,14:00,Brescia Calcio,0-0,0-0,Ternana Calcio
-34,Sat Apr 20 2024,16:15,Calcio Lecco 1912,1-2,1-0,Venezia FC
-34,Sat Apr 20 2024,16:15,FC Südtirol,0-0,0-0,AS Cittadella
-34,Sat Apr 20 2024,16:15,Spezia Calcio,0-0,0-0,Sampdoria
-34,Sat Apr 20 2024,16:15,US Catanzaro,0-0,0-0,US Cremonese
-35,Fri Apr 26 2024,20:30,AC Pisa,2-2,0-1,US Catanzaro
-35,Fri Apr 26 2024,20:30,Venezia FC,2-1,0-1,US Cremonese
-35,Sat Apr 27 2024,14:00,Modena FC,1-0,0-0,FC Südtirol
-35,Sat Apr 27 2024,14:00,Parma Calcio 1913,4-0,3-0,Calcio Lecco 1912
-35,Sat Apr 27 2024,14:00,Ternana Calcio,0-1,0-0,Ascoli Calcio
-35,Sat Apr 27 2024,14:00,Brescia Calcio,0-0,0-0,Spezia Calcio
-35,Sat Apr 27 2024,16:15,AS Cittadella,1-1,1-0,FeralpiSalò
-35,Sat Apr 27 2024,16:15,Cosenza Calcio,4-1,2-1,SSC Bari
-35,Sat Apr 27 2024,16:15,Palermo FC,1-2,1-0,AC Reggiana 1919
-35,Sat Apr 27 2024,16:15,Sampdoria,1-1,0-0,Calcio Como
-36,Wed May 1 2024,12:30,US Cremonese,2-1,1-0,AC Pisa
-36,Wed May 1 2024,15:00,Ascoli Calcio,0-1,0-1,Cosenza Calcio
-36,Wed May 1 2024,15:00,Calcio Como,2-1,0-0,AS Cittadella
-36,Wed May 1 2024,15:00,FC Südtirol,4-3,1-2,Ternana Calcio
-36,Wed May 1 2024,15:00,Spezia Calcio,1-0,1-0,Palermo FC
-36,Wed May 1 2024,15:00,US Catanzaro,3-2,1-1,Venezia FC
-36,Wed May 1 2024,18:00,Calcio Lecco 1912,0-1,0-0,Sampdoria
-36,Wed May 1 2024,18:00,AC Reggiana 1919,1-0,0-0,Modena FC
-36,Wed May 1 2024,18:00,SSC Bari,1-1,0-0,Parma Calcio 1913
-36,Wed May 1 2024,18:00,FeralpiSalò,2-2,2-2,Brescia Calcio
-37,Sun May 5 2024,15:00,AS Cittadella,1-1,1-1,SSC Bari
-37,Sun May 5 2024,15:00,Cosenza Calcio,2-2,1-1,Spezia Calcio
-37,Sun May 5 2024,15:00,Modena FC,0-0,0-0,Calcio Como
-37,Sun May 5 2024,15:00,Venezia FC,2-1,0-0,FeralpiSalò
-37,Sun May 5 2024,15:00,Palermo FC,2-2,2-1,Ascoli Calcio
-37,Sun May 5 2024,15:00,Parma Calcio 1913,1-1,0-1,US Cremonese
-37,Sun May 5 2024,15:00,AC Pisa,2-2,1-0,FC Südtirol
-37,Sun May 5 2024,15:00,Sampdoria,1-0,1-0,AC Reggiana 1919
-37,Sun May 5 2024,15:00,Ternana Calcio,1-0,0-0,US Catanzaro
-37,Sun May 5 2024,15:00,Brescia Calcio,4-1,2-0,Calcio Lecco 1912
-38,Fri May 10 2024,20:30,FeralpiSalò,0-1,0-1,Ternana Calcio
-38,Fri May 10 2024,20:30,Ascoli Calcio,2-1,1-0,AC Pisa
-38,Fri May 10 2024,20:30,Calcio Lecco 1912,2-3,1-3,Modena FC
-38,Fri May 10 2024,20:30,Calcio Como,1-1,0-1,Cosenza Calcio
-38,Fri May 10 2024,20:30,FC Südtirol,0-1,0-0,Palermo FC
-38,Fri May 10 2024,20:30,AC Reggiana 1919,1-1,1-0,Parma Calcio 1913
-38,Fri May 10 2024,20:30,Spezia Calcio,2-1,0-1,Venezia FC
-38,Fri May 10 2024,20:30,US Catanzaro,1-3,1-1,Sampdoria
-38,Fri May 10 2024,20:30,US Cremonese,3-0,2-0,AS Cittadella
-38,Fri May 10 2024,20:30,SSC Bari,2-0,1-0,Brescia Calcio
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,UTC
+,1,Fri Aug 18 2023,20:30,CEST/+0200,SSC Bari,0-0,0-0,Palermo FC,,2023-08-18T18:30Z
+,1,Sat Aug 19 2023,20:30,CEST/+0200,Ternana Calcio,1-2,0-1,Sampdoria,,2023-08-19T18:30Z
+,1,Sat Aug 19 2023,20:30,CEST/+0200,US Cremonese,0-0,0-0,US Catanzaro,,2023-08-19T18:30Z
+,1,Sat Aug 19 2023,20:30,CEST/+0200,Cosenza Calcio,3-0,1-0,Ascoli Calcio,,2023-08-19T18:30Z
+,1,Sun Aug 20 2023,18:00,CEST/+0200,FC Südtirol,3-3,1-2,Spezia Calcio,,2023-08-20T16:00Z
+,1,Sun Aug 20 2023,20:30,CEST/+0200,AS Cittadella,1-0,1-0,AC Reggiana 1919,,2023-08-20T18:30Z
+,1,Sun Aug 20 2023,20:30,CEST/+0200,Venezia FC,3-0,2-0,Como 1907,,2023-08-20T18:30Z
+,1,Sun Aug 20 2023,20:30,CEST/+0200,Parma Calcio 1913,2-0,1-0,Feralpisalò,,2023-08-20T18:30Z
+,2,Fri Aug 25 2023,20:30,CEST/+0200,Sampdoria,0-2,0-1,Pisa SC,,2023-08-25T18:30Z
+,2,Sat Aug 26 2023,20:30,CEST/+0200,Modena FC,1-0,0-0,Ascoli Calcio,,2023-08-26T18:30Z
+,2,Sat Aug 26 2023,20:30,CEST/+0200,US Cremonese,0-1,0-1,SSC Bari,,2023-08-26T18:30Z
+,2,Sat Aug 26 2023,18:00,CEST/+0200,Venezia FC,1-1,0-1,Cosenza Calcio,,2023-08-26T16:00Z
+,2,Sat Aug 26 2023,20:30,CEST/+0200,Feralpisalò,0-2,0-1,FC Südtirol,,2023-08-26T18:30Z
+,2,Sat Aug 26 2023,20:30,CEST/+0200,Como 1907,2-2,1-0,AC Reggiana 1919,,2023-08-26T18:30Z
+,2,Sat Aug 26 2023,20:30,CEST/+0200,Parma Calcio 1913,2-0,1-0,AS Cittadella,,2023-08-26T18:30Z
+,2,Sun Aug 27 2023,20:30,CEST/+0200,US Catanzaro,2-1,1-1,Ternana Calcio,,2023-08-27T18:30Z
+,3,Tue Aug 29 2023,20:30,CEST/+0200,Pisa SC,1-2,0-1,Parma Calcio 1913,,2023-08-29T18:30Z
+,3,Tue Aug 29 2023,20:30,CEST/+0200,AC Reggiana 1919,1-3,0-1,Palermo FC,,2023-08-29T18:30Z
+,3,Tue Aug 29 2023,20:30,CEST/+0200,Cosenza Calcio,1-2,1-1,Modena FC,,2023-08-29T18:30Z
+,3,Tue Aug 29 2023,20:30,CEST/+0200,Ascoli Calcio,3-0,2-0,Feralpisalò,,2023-08-29T18:30Z
+,3,Wed Aug 30 2023,20:30,CEST/+0200,Ternana Calcio,0-1,0-0,US Cremonese,,2023-08-30T18:30Z
+,3,Wed Aug 30 2023,20:30,CEST/+0200,SSC Bari,1-1,1-0,AS Cittadella,,2023-08-30T18:30Z
+,3,Wed Aug 30 2023,20:30,CEST/+0200,Sampdoria,1-2,0-0,Venezia FC,,2023-08-30T18:30Z
+,3,Wed Aug 30 2023,20:30,CEST/+0200,US Catanzaro,3-0,0-0,Spezia Calcio,,2023-08-30T18:30Z
+,4,Sat Sep 2 2023,18:30,CEST/+0200,FC Südtirol,3-1,0-1,Ascoli Calcio,,2023-09-02T16:30Z
+,4,Sat Sep 2 2023,18:30,CEST/+0200,Palermo FC,3-0,1-0,Feralpisalò,,2023-09-02T16:30Z
+,4,Sat Sep 2 2023,18:30,CEST/+0200,Parma Calcio 1913,0-0,0-0,AC Reggiana 1919,,2023-09-02T16:30Z
+,4,Sat Sep 2 2023,18:30,CEST/+0200,Modena FC,2-0,1-0,Pisa SC,,2023-09-02T16:30Z
+,4,Sun Sep 3 2023,18:30,CEST/+0200,Calcio Lecco 1912,3-4,0-1,US Catanzaro,,2023-09-03T16:30Z
+,4,Sun Sep 3 2023,16:15,CEST/+0200,Brescia Calcio,1-0,0-0,Cosenza Calcio,,2023-09-03T14:15Z
+,4,Sun Sep 3 2023,18:30,CEST/+0200,Ternana Calcio,0-0,0-0,SSC Bari,,2023-09-03T16:30Z
+,4,Sun Sep 3 2023,18:30,CEST/+0200,US Cremonese,1-1,1-0,Sampdoria,,2023-09-03T16:30Z
+,4,Sun Sep 3 2023,20:45,CEST/+0200,AS Cittadella,0-0,0-0,Venezia FC,,2023-09-03T18:45Z
+,4,Sun Sep 3 2023,18:30,CEST/+0200,Spezia Calcio,0-1,0-1,Como 1907,,2023-09-03T16:30Z
+,5,Fri Sep 15 2023,20:30,CEST/+0200,Venezia FC,1-0,0-0,Spezia Calcio,,2023-09-15T18:30Z
+,5,Sat Sep 16 2023,14:00,CEST/+0200,Ascoli Calcio,0-1,0-0,Palermo FC,,2023-09-16T12:00Z
+,5,Sat Sep 16 2023,16:15,CEST/+0200,AC Reggiana 1919,2-2,2-0,US Cremonese,,2023-09-16T14:15Z
+,5,Sat Sep 16 2023,14:00,CEST/+0200,Calcio Lecco 1912,0-2,0-1,Brescia Calcio,,2023-09-16T12:00Z
+,5,Sat Sep 16 2023,14:00,CEST/+0200,Pisa SC,1-1,1-0,SSC Bari,,2023-09-16T12:00Z
+,5,Sat Sep 16 2023,14:00,CEST/+0200,Cosenza Calcio,2-2,1-0,FC Südtirol,,2023-09-16T12:00Z
+,5,Sat Sep 16 2023,14:00,CEST/+0200,Feralpisalò,1-1,1-1,Modena FC,,2023-09-16T12:00Z
+,5,Sun Sep 17 2023,16:15,CEST/+0200,US Catanzaro,0-5,0-3,Parma Calcio 1913,,2023-09-17T14:15Z
+,5,Sun Sep 17 2023,16:15,CEST/+0200,Como 1907,2-1,0-0,Ternana Calcio,,2023-09-17T14:15Z
+,5,Mon Sep 18 2023,20:30,CEST/+0200,Sampdoria,1-2,1-0,AS Cittadella,,2023-09-18T18:30Z
+,6,Fri Sep 22 2023,20:30,CEST/+0200,Palermo FC,0-1,0-0,Cosenza Calcio,,2023-09-22T18:30Z
+,6,Sat Sep 23 2023,14:00,CEST/+0200,Brescia Calcio,0-0,0-0,Venezia FC,,2023-09-23T12:00Z
+,6,Sat Sep 23 2023,14:00,CEST/+0200,US Cremonese,2-2,1-1,Ascoli Calcio,,2023-09-23T12:00Z
+,6,Sat Sep 23 2023,16:15,CEST/+0200,Spezia Calcio,1-2,0-0,AC Reggiana 1919,,2023-09-23T14:15Z
+,6,Sat Sep 23 2023,14:00,CEST/+0200,Modena FC,0-0,0-0,Calcio Lecco 1912,,2023-09-23T12:00Z
+,6,Sat Sep 23 2023,14:00,CEST/+0200,Ternana Calcio,1-1,1-0,FC Südtirol,,2023-09-23T12:00Z
+,6,Sat Sep 23 2023,14:00,CEST/+0200,Feralpisalò,0-1,0-0,Pisa SC,,2023-09-23T12:00Z
+,6,Sun Sep 24 2023,16:15,CEST/+0200,AS Cittadella,0-3,0-2,Como 1907,,2023-09-24T14:15Z
+,6,Sun Sep 24 2023,16:15,CEST/+0200,Parma Calcio 1913,1-1,0-1,Sampdoria,,2023-09-24T14:15Z
+,6,Sun Sep 24 2023,16:15,CEST/+0200,SSC Bari,2-2,1-2,US Catanzaro,,2023-09-24T14:15Z
+,7,Tue Sep 26 2023,20:30,CEST/+0200,Ascoli Calcio,2-0,1-0,Ternana Calcio,,2023-09-26T18:30Z
+,7,Tue Sep 26 2023,20:30,CEST/+0200,FC Südtirol,0-0,0-0,Modena FC,,2023-09-26T18:30Z
+,7,Tue Sep 26 2023,20:30,CEST/+0200,Venezia FC,1-3,1-1,Palermo FC,,2023-09-26T18:30Z
+,7,Tue Sep 26 2023,20:30,CEST/+0200,AC Reggiana 1919,0-0,0-0,Pisa SC,,2023-09-26T18:30Z
+,7,Tue Sep 26 2023,20:30,CEST/+0200,Spezia Calcio,0-0,0-0,Brescia Calcio,,2023-09-26T18:30Z
+,7,Tue Sep 26 2023,18:15,CEST/+0200,Cosenza Calcio,1-2,0-0,US Cremonese,,2023-09-26T16:15Z
+,7,Tue Sep 26 2023,18:15,CEST/+0200,Calcio Lecco 1912,1-2,0-0,Feralpisalò,,2023-09-26T16:15Z
+,7,Wed Sep 27 2023,20:30,CEST/+0200,Como 1907,1-0,0-0,Sampdoria,,2023-09-27T18:30Z
+,7,Wed Sep 27 2023,20:30,CEST/+0200,US Catanzaro,1-1,1-1,AS Cittadella,,2023-09-27T18:30Z
+,7,Wed Sep 27 2023,20:30,CEST/+0200,Parma Calcio 1913,2-1,1-0,SSC Bari,,2023-09-27T18:30Z
+,8,Sat Sep 30 2023,14:00,CEST/+0200,Feralpisalò,1-2,0-2,Spezia Calcio,,2023-09-30T12:00Z
+,8,Sat Sep 30 2023,14:00,CEST/+0200,Modena FC,1-3,0-0,Venezia FC,,2023-09-30T12:00Z
+,8,Sat Sep 30 2023,14:00,CEST/+0200,Pisa SC,1-2,0-1,Cosenza Calcio,,2023-09-30T12:00Z
+,8,Sat Sep 30 2023,16:15,CEST/+0200,Ternana Calcio,3-0,2-0,AC Reggiana 1919,,2023-09-30T14:15Z
+,8,Sat Sep 30 2023,14:00,CEST/+0200,Brescia Calcio,1-1,0-1,Ascoli Calcio,,2023-09-30T12:00Z
+,8,Sun Oct 1 2023,18:30,CEST/+0200,US Cremonese,1-2,0-0,Parma Calcio 1913,,2023-10-01T16:30Z
+,8,Sun Oct 1 2023,16:15,CEST/+0200,SSC Bari,1-1,0-0,Como 1907,,2023-10-01T14:15Z
+,8,Sun Oct 1 2023,16:15,CEST/+0200,Sampdoria,1-2,1-2,US Catanzaro,,2023-10-01T14:15Z
+,8,Sun Oct 1 2023,16:15,CEST/+0200,Palermo FC,2-1,0-1,FC Südtirol,,2023-10-01T14:15Z
+,8,Sun Oct 1 2023,16:15,CEST/+0200,AS Cittadella,2-1,0-1,Calcio Lecco 1912,,2023-10-01T14:15Z
+,9,Fri Oct 6 2023,20:30,CEST/+0200,Brescia Calcio,1-1,0-1,Feralpisalò,,2023-10-06T18:30Z
+,9,Sat Oct 7 2023,16:15,CEST/+0200,AS Cittadella,2-2,2-1,Ternana Calcio,,2023-10-07T14:15Z
+,9,Sat Oct 7 2023,16:15,CEST/+0200,Venezia FC,3-2,0-0,Parma Calcio 1913,,2023-10-07T14:15Z
+,9,Sat Oct 7 2023,14:00,CEST/+0200,FC Südtirol,0-1,0-1,US Catanzaro,,2023-10-07T12:00Z
+,9,Sat Oct 7 2023,14:00,CEST/+0200,Modena FC,0-2,0-0,Palermo FC,,2023-10-07T12:00Z
+,9,Sat Oct 7 2023,14:00,CEST/+0200,Cosenza Calcio,3-0,2-0,Calcio Lecco 1912,,2023-10-07T12:00Z
+,9,Sat Oct 7 2023,16:15,CEST/+0200,Ascoli Calcio,1-1,1-0,Sampdoria,,2023-10-07T14:15Z
+,9,Sat Oct 7 2023,14:00,CEST/+0200,AC Reggiana 1919,1-1,1-1,SSC Bari,,2023-10-07T12:00Z
+,9,Sun Oct 8 2023,16:15,CEST/+0200,Como 1907,1-3,0-2,US Cremonese,,2023-10-08T14:15Z
+,9,Sun Oct 8 2023,16:15,CEST/+0200,Spezia Calcio,0-0,0-0,Pisa SC,,2023-10-08T14:15Z
+,10,Fri Oct 20 2023,20:30,CEST/+0200,Parma Calcio 1913,2-1,1-0,Como 1907,,2023-10-20T18:30Z
+,10,Sat Oct 21 2023,14:00,CEST/+0200,Ternana Calcio,0-1,0-0,Brescia Calcio,,2023-10-21T12:00Z
+,10,Sat Oct 21 2023,14:00,CEST/+0200,US Cremonese,0-1,0-0,FC Südtirol,,2023-10-21T12:00Z
+,10,Sat Oct 21 2023,14:00,CEST/+0200,SSC Bari,1-1,0-0,Modena FC,,2023-10-21T12:00Z
+,10,Sat Oct 21 2023,14:00,CEST/+0200,Pisa SC,2-1,1-0,AS Cittadella,,2023-10-21T12:00Z
+,10,Sat Oct 21 2023,14:00,CEST/+0200,Calcio Lecco 1912,0-2,0-1,Ascoli Calcio,,2023-10-21T12:00Z
+,10,Sat Oct 21 2023,16:15,CEST/+0200,US Catanzaro,3-0,0-0,Feralpisalò,,2023-10-21T14:15Z
+,10,Sun Oct 22 2023,16:15,CEST/+0200,Sampdoria,2-0,0-0,Cosenza Calcio,,2023-10-22T14:15Z
+,10,Sun Oct 22 2023,18:30,CEST/+0200,AC Reggiana 1919,1-0,0-0,Venezia FC,,2023-10-22T16:30Z
+,10,Mon Oct 23 2023,20:30,CEST/+0200,Palermo FC,2-2,0-1,Spezia Calcio,,2023-10-23T18:30Z
+,1,Tue Oct 24 2023,18:30,CEST/+0200,Brescia Calcio,0-1,0-0,Modena FC,,2023-10-24T16:30Z
+,1,Tue Oct 24 2023,18:30,CEST/+0200,Pisa SC,1-2,0-1,Calcio Lecco 1912,,2023-10-24T16:30Z
+,11,Fri Oct 27 2023,20:30,CEST/+0200,AS Cittadella,1-2,0-0,US Cremonese,,2023-10-27T18:30Z
+,11,Sat Oct 28 2023,14:00,CEST/+0200,Feralpisalò,0-3,0-2,AC Reggiana 1919,,2023-10-28T12:00Z
+,11,Sat Oct 28 2023,14:00,CEST/+0200,Spezia Calcio,0-0,0-0,Cosenza Calcio,,2023-10-28T12:00Z
+,11,Sat Oct 28 2023,14:00,CEST/+0200,FC Südtirol,3-1,0-0,Sampdoria,,2023-10-28T12:00Z
+,11,Sat Oct 28 2023,14:00,CEST/+0200,Como 1907,1-0,1-0,US Catanzaro,,2023-10-28T12:00Z
+,11,Sat Oct 28 2023,16:15,CEST/+0200,Ascoli Calcio,1-3,1-2,Parma Calcio 1913,,2023-10-28T14:15Z
+,11,Sun Oct 29 2023,16:15,CET/+0100,Palermo FC,1-2,0-2,Calcio Lecco 1912,,2023-10-29T15:15Z
+,11,Sun Oct 29 2023,16:15,CET/+0100,Venezia FC,2-1,1-1,Pisa SC,,2023-10-29T15:15Z
+,11,Sun Oct 29 2023,16:15,CET/+0100,Modena FC,2-1,1-0,Ternana Calcio,,2023-10-29T15:15Z
+,11,Sun Oct 29 2023,16:15,CET/+0100,Brescia Calcio,1-2,1-0,SSC Bari,,2023-10-29T15:15Z
+,12,Sat Nov 4 2023,14:00,CET/+0100,US Catanzaro,1-2,1-1,Modena FC,,2023-11-04T13:00Z
+,12,Sat Nov 4 2023,14:00,CET/+0100,AS Cittadella,3-2,2-1,Brescia Calcio,,2023-11-04T13:00Z
+,12,Sat Nov 4 2023,16:15,CET/+0100,Sampdoria,1-0,1-0,Palermo FC,,2023-11-04T15:15Z
+,12,Sat Nov 4 2023,14:00,CET/+0100,Ternana Calcio,0-1,0-0,Venezia FC,,2023-11-04T13:00Z
+,12,Sat Nov 4 2023,14:00,CET/+0100,Cosenza Calcio,1-1,1-0,Feralpisalò,,2023-11-04T13:00Z
+,12,Sat Nov 4 2023,14:00,CET/+0100,Pisa SC,1-1,0-1,Como 1907,,2023-11-04T13:00Z
+,12,Sat Nov 4 2023,14:00,CET/+0100,SSC Bari,1-0,0-0,Ascoli Calcio,,2023-11-04T13:00Z
+,12,Sun Nov 5 2023,16:15,CET/+0100,Parma Calcio 1913,2-0,1-0,FC Südtirol,,2023-11-05T15:15Z
+,12,Sun Nov 5 2023,16:15,CET/+0100,AC Reggiana 1919,1-1,1-0,Calcio Lecco 1912,,2023-11-05T15:15Z
+,12,Sun Nov 5 2023,16:15,CET/+0100,US Cremonese,3-0,2-0,Spezia Calcio,,2023-11-05T15:15Z
+,2,Wed Nov 8 2023,18:30,CET/+0100,Calcio Lecco 1912,0-0,0-0,Spezia Calcio,,2023-11-08T17:30Z
+,2,Wed Nov 8 2023,18:30,CET/+0100,Palermo FC,1-0,1-0,Brescia Calcio,,2023-11-08T17:30Z
+,13,Fri Nov 10 2023,20:30,CET/+0100,Venezia FC,2-1,2-1,US Catanzaro,,2023-11-10T19:30Z
+,13,Sat Nov 11 2023,14:00,CET/+0100,FC Südtirol,1-2,0-1,Pisa SC,,2023-11-11T13:00Z
+,13,Sat Nov 11 2023,14:00,CET/+0100,Feralpisalò,3-3,0-1,SSC Bari,,2023-11-11T13:00Z
+,13,Sat Nov 11 2023,14:00,CET/+0100,Ascoli Calcio,0-1,0-1,Como 1907,,2023-11-11T13:00Z
+,13,Sat Nov 11 2023,14:00,CET/+0100,Cosenza Calcio,2-0,1-0,AC Reggiana 1919,,2023-11-11T13:00Z
+,13,Sat Nov 11 2023,16:15,CET/+0100,Modena FC,0-2,0-1,Sampdoria,,2023-11-11T15:15Z
+,13,Sun Nov 12 2023,16:15,CET/+0100,Brescia Calcio,0-3,0-2,US Cremonese,,2023-11-12T15:15Z
+,13,Sun Nov 12 2023,16:15,CET/+0100,Spezia Calcio,2-2,1-1,Ternana Calcio,,2023-11-12T15:15Z
+,13,Sun Nov 12 2023,16:15,CET/+0100,Calcio Lecco 1912,3-2,2-1,Parma Calcio 1913,,2023-11-12T15:15Z
+,13,Sun Nov 12 2023,16:15,CET/+0100,Palermo FC,0-1,0-0,AS Cittadella,,2023-11-12T15:15Z
+,14,Fri Nov 24 2023,20:30,CET/+0100,Sampdoria,2-1,1-1,Spezia Calcio,,2023-11-24T19:30Z
+,14,Sat Nov 25 2023,14:00,CET/+0100,US Cremonese,1-0,1-0,Calcio Lecco 1912,,2023-11-25T13:00Z
+,14,Sat Nov 25 2023,14:00,CET/+0100,AC Reggiana 1919,1-1,0-1,Ascoli Calcio,,2023-11-25T13:00Z
+,14,Sat Nov 25 2023,14:00,CET/+0100,AS Cittadella,2-1,1-0,FC Südtirol,,2023-11-25T13:00Z
+,14,Sat Nov 25 2023,14:00,CET/+0100,Como 1907,2-1,1-0,Feralpisalò,,2023-11-25T13:00Z
+,14,Sat Nov 25 2023,14:00,CET/+0100,Parma Calcio 1913,1-1,0-0,Modena FC,,2023-11-25T13:00Z
+,14,Sat Nov 25 2023,14:00,CET/+0100,SSC Bari,0-3,0-1,Venezia FC,,2023-11-25T13:00Z
+,14,Sat Nov 25 2023,16:15,CET/+0100,Pisa SC,1-1,1-1,Brescia Calcio,,2023-11-25T15:15Z
+,14,Sun Nov 26 2023,16:15,CET/+0100,Ternana Calcio,1-1,0-1,Palermo FC,,2023-11-26T15:15Z
+,14,Sun Nov 26 2023,16:15,CET/+0100,US Catanzaro,2-0,1-0,Cosenza Calcio,,2023-11-26T15:15Z
+,3,Tue Nov 28 2023,18:30,CET/+0100,FC Südtirol,1-1,1-0,Brescia Calcio,,2023-11-28T17:30Z
+,3,Tue Nov 28 2023,18:30,CET/+0100,Como 1907,0-0,0-0,Calcio Lecco 1912,,2023-11-28T17:30Z
+,15,Fri Dec 1 2023,20:30,CET/+0100,Palermo FC,1-2,0-1,US Catanzaro,,2023-12-01T19:30Z
+,15,Sat Dec 2 2023,14:00,CET/+0100,Feralpisalò,0-1,0-1,AS Cittadella,,2023-12-02T13:00Z
+,15,Sat Dec 2 2023,14:00,CET/+0100,Cosenza Calcio,1-3,0-0,Ternana Calcio,,2023-12-02T13:00Z
+,15,Sat Dec 2 2023,14:00,CET/+0100,Modena FC,2-1,1-0,AC Reggiana 1919,,2023-12-02T13:00Z
+,15,Sat Dec 2 2023,14:00,CET/+0100,Venezia FC,3-1,2-0,Ascoli Calcio,,2023-12-02T13:00Z
+,15,Sat Dec 2 2023,14:00,CET/+0100,Pisa SC,0-0,0-0,US Cremonese,,2023-12-02T13:00Z
+,15,Sat Dec 2 2023,16:15,CET/+0100,Spezia Calcio,0-1,0-0,Parma Calcio 1913,,2023-12-02T15:15Z
+,15,Sun Dec 3 2023,16:15,CET/+0100,FC Südtirol,0-1,0-0,Como 1907,,2023-12-03T15:15Z
+,15,Sun Dec 3 2023,16:15,CET/+0100,Brescia Calcio,3-1,3-0,Sampdoria,,2023-12-03T15:15Z
+,15,Sun Dec 3 2023,16:15,CET/+0100,Calcio Lecco 1912,1-0,0-0,SSC Bari,,2023-12-03T15:15Z
+,16,Sat Dec 9 2023,14:00,CET/+0100,AS Cittadella,2-0,2-0,Cosenza Calcio,,2023-12-09T13:00Z
+,16,Sat Dec 9 2023,14:00,CET/+0100,Ascoli Calcio,1-2,0-1,Spezia Calcio,,2023-12-09T13:00Z
+,16,Sat Dec 9 2023,14:00,CET/+0100,Sampdoria,2-0,1-0,Calcio Lecco 1912,,2023-12-09T13:00Z
+,16,Sat Dec 9 2023,14:00,CET/+0100,SSC Bari,2-1,1-1,FC Südtirol,,2023-12-09T13:00Z
+,16,Sat Dec 9 2023,14:00,CET/+0100,Ternana Calcio,2-1,1-0,Feralpisalò,,2023-12-09T13:00Z
+,16,Sat Dec 9 2023,14:00,CET/+0100,US Cremonese,1-0,0-0,Venezia FC,,2023-12-09T13:00Z
+,16,Sat Dec 9 2023,16:15,CET/+0100,US Catanzaro,2-0,0-0,Pisa SC,,2023-12-09T15:15Z
+,16,Sun Dec 10 2023,16:15,CET/+0100,Como 1907,2-1,1-0,Modena FC,,2023-12-10T15:15Z
+,16,Sun Dec 10 2023,16:15,CET/+0100,Parma Calcio 1913,3-3,0-2,Palermo FC,,2023-12-10T15:15Z
+,16,Sun Dec 10 2023,16:15,CET/+0100,AC Reggiana 1919,1-1,0-0,Brescia Calcio,,2023-12-10T15:15Z
+,17,Fri Dec 15 2023,20:30,CET/+0100,Spezia Calcio,1-0,0-0,SSC Bari,,2023-12-15T19:30Z
+,17,Sat Dec 16 2023,14:00,CET/+0100,Feralpisalò,1-0,1-0,US Cremonese,,2023-12-16T13:00Z
+,17,Sat Dec 16 2023,14:00,CET/+0100,Modena FC,1-1,1-1,AS Cittadella,,2023-12-16T13:00Z
+,17,Sat Dec 16 2023,14:00,CET/+0100,Venezia FC,2-3,2-1,FC Südtirol,,2023-12-16T13:00Z
+,17,Sat Dec 16 2023,14:00,CET/+0100,AC Reggiana 1919,1-2,0-1,Sampdoria,,2023-12-16T13:00Z
+,17,Sat Dec 16 2023,14:00,CET/+0100,Brescia Calcio,2-0,0-0,Como 1907,,2023-12-16T13:00Z
+,17,Sat Dec 16 2023,16:15,CET/+0100,Ascoli Calcio,1-0,1-0,US Catanzaro,,2023-12-16T15:15Z
+,17,Sat Dec 16 2023,16:15,CET/+0100,Cosenza Calcio,0-0,0-0,Parma Calcio 1913,,2023-12-16T15:15Z
+,17,Sat Dec 16 2023,16:15,CET/+0100,Palermo FC,3-2,2-0,Pisa SC,,2023-12-16T15:15Z
+,17,Sun Dec 17 2023,16:15,CET/+0100,Calcio Lecco 1912,2-3,2-0,Ternana Calcio,,2023-12-17T15:15Z
+,18,Sat Dec 23 2023,14:00,CET/+0100,AS Cittadella,4-1,1-0,Spezia Calcio,,2023-12-23T13:00Z
+,18,Sat Dec 23 2023,14:00,CET/+0100,Como 1907,3-3,0-1,Palermo FC,,2023-12-23T13:00Z
+,18,Sat Dec 23 2023,14:00,CET/+0100,Venezia FC,2-2,0-1,Calcio Lecco 1912,,2023-12-23T13:00Z
+,18,Sat Dec 23 2023,14:00,CET/+0100,Parma Calcio 1913,3-1,1-1,Ternana Calcio,,2023-12-23T13:00Z
+,18,Sat Dec 23 2023,14:00,CET/+0100,US Cremonese,4-0,4-0,Modena FC,,2023-12-23T13:00Z
+,18,Sat Dec 23 2023,15:00,CET/+0100,US Catanzaro,2-3,2-0,Brescia Calcio,,2023-12-23T14:00Z
+,18,Sat Dec 23 2023,16:15,CET/+0100,FC Südtirol,2-3,1-1,AC Reggiana 1919,,2023-12-23T15:15Z
+,18,Sat Dec 23 2023,16:15,CET/+0100,Pisa SC,1-0,1-0,Ascoli Calcio,,2023-12-23T15:15Z
+,18,Sat Dec 23 2023,16:15,CET/+0100,Sampdoria,2-3,1-2,Feralpisalò,,2023-12-23T15:15Z
+,18,Sat Dec 23 2023,16:15,CET/+0100,SSC Bari,0-0,0-0,Cosenza Calcio,,2023-12-23T15:15Z
+,19,Tue Dec 26 2023,12:30,CET/+0100,AC Reggiana 1919,1-0,1-0,US Catanzaro,,2023-12-26T11:30Z
+,19,Tue Dec 26 2023,15:00,CET/+0100,Feralpisalò,2-2,1-1,Venezia FC,,2023-12-26T14:00Z
+,19,Tue Dec 26 2023,15:00,CET/+0100,Ascoli Calcio,0-0,0-0,AS Cittadella,,2023-12-26T14:00Z
+,19,Tue Dec 26 2023,15:00,CET/+0100,Calcio Lecco 1912,2-1,0-0,FC Südtirol,,2023-12-26T14:00Z
+,19,Tue Dec 26 2023,15:00,CET/+0100,Cosenza Calcio,1-2,1-1,Como 1907,,2023-12-26T14:00Z
+,19,Tue Dec 26 2023,15:00,CET/+0100,Spezia Calcio,1-1,0-0,Modena FC,,2023-12-26T14:00Z
+,19,Tue Dec 26 2023,15:00,CET/+0100,Ternana Calcio,1-1,0-1,Pisa SC,,2023-12-26T14:00Z
+,19,Tue Dec 26 2023,15:00,CET/+0100,Brescia Calcio,0-2,0-2,Parma Calcio 1913,,2023-12-26T14:00Z
+,19,Tue Dec 26 2023,18:00,CET/+0100,Palermo FC,3-2,1-2,US Cremonese,,2023-12-26T17:00Z
+,19,Tue Dec 26 2023,20:30,CET/+0100,Sampdoria,1-1,0-0,SSC Bari,,2023-12-26T19:30Z
+,20,Fri Jan 12 2024,20:30,CET/+0100,US Catanzaro,5-3,1-2,Calcio Lecco 1912,,2024-01-12T19:30Z
+,20,Sat Jan 13 2024,14:00,CET/+0100,AS Cittadella,2-0,1-0,Palermo FC,,2024-01-13T13:00Z
+,20,Sat Jan 13 2024,14:00,CET/+0100,Como 1907,4-0,2-0,Spezia Calcio,,2024-01-13T13:00Z
+,20,Sat Jan 13 2024,14:00,CET/+0100,FC Südtirol,1-0,0-0,Feralpisalò,,2024-01-13T13:00Z
+,20,Sat Jan 13 2024,14:00,CET/+0100,SSC Bari,3-1,2-0,Ternana Calcio,,2024-01-13T13:00Z
+,20,Sat Jan 13 2024,14:00,CET/+0100,Modena FC,1-2,0-2,Brescia Calcio,,2024-01-13T13:00Z
+,20,Sat Jan 13 2024,16:15,CET/+0100,Pisa SC,2-2,1-2,AC Reggiana 1919,,2024-01-13T15:15Z
+,20,Sun Jan 14 2024,16:15,CET/+0100,Parma Calcio 1913,1-1,0-0,Ascoli Calcio,,2024-01-14T15:15Z
+,20,Sun Jan 14 2024,16:15,CET/+0100,US Cremonese,1-0,0-0,Cosenza Calcio,,2024-01-14T15:15Z
+,20,Sun Jan 14 2024,16:15,CET/+0100,Venezia FC,5-3,2-1,Sampdoria,,2024-01-14T15:15Z
+,21,Fri Jan 19 2024,20:30,CET/+0100,Sampdoria,0-3,0-2,Parma Calcio 1913,,2024-01-19T19:30Z
+,21,Sat Jan 20 2024,14:00,CET/+0100,Feralpisalò,3-0,1-0,US Catanzaro,,2024-01-20T13:00Z
+,21,Sat Jan 20 2024,14:00,CET/+0100,AC Reggiana 1919,2-2,1-2,Como 1907,,2024-01-20T13:00Z
+,21,Sat Jan 20 2024,14:00,CET/+0100,Spezia Calcio,0-1,0-0,US Cremonese,,2024-01-20T13:00Z
+,21,Sat Jan 20 2024,14:00,CET/+0100,Ternana Calcio,3-1,1-1,AS Cittadella,,2024-01-20T13:00Z
+,21,Sat Jan 20 2024,14:00,CET/+0100,Brescia Calcio,1-1,0-0,FC Südtirol,,2024-01-20T13:00Z
+,21,Sat Jan 20 2024,16:15,CET/+0100,Calcio Lecco 1912,1-3,0-1,Pisa SC,,2024-01-20T15:15Z
+,21,Sat Jan 20 2024,16:15,CET/+0100,Cosenza Calcio,4-2,3-1,Venezia FC,,2024-01-20T15:15Z
+,21,Sat Jan 20 2024,16:15,CET/+0100,Palermo FC,4-2,2-1,Modena FC,,2024-01-20T15:15Z
+,21,Sun Jan 21 2024,16:15,CET/+0100,Ascoli Calcio,2-2,0-2,SSC Bari,,2024-01-21T15:15Z
+,22,Fri Jan 26 2024,20:30,CET/+0100,US Catanzaro,1-1,1-0,Palermo FC,,2024-01-26T19:30Z
+,22,Sat Jan 27 2024,14:00,CET/+0100,Como 1907,0-2,0-0,Ascoli Calcio,,2024-01-27T13:00Z
+,22,Sat Jan 27 2024,14:00,CET/+0100,Modena FC,3-0,2-0,Parma Calcio 1913,,2024-01-27T13:00Z
+,22,Sat Jan 27 2024,14:00,CET/+0100,FC Südtirol,0-1,0-0,Cosenza Calcio,,2024-01-27T13:00Z
+,22,Sat Jan 27 2024,14:00,CET/+0100,Venezia FC,1-0,0-0,Ternana Calcio,,2024-01-27T13:00Z
+,22,Sat Jan 27 2024,14:00,CET/+0100,US Cremonese,1-0,1-0,Brescia Calcio,,2024-01-27T13:00Z
+,22,Sat Jan 27 2024,16:15,CET/+0100,Feralpisalò,5-1,1-0,Calcio Lecco 1912,,2024-01-27T15:15Z
+,22,Sat Jan 27 2024,16:15,CET/+0100,Pisa SC,2-3,1-3,Spezia Calcio,,2024-01-27T15:15Z
+,22,Sat Jan 27 2024,16:15,CET/+0100,SSC Bari,0-2,0-1,AC Reggiana 1919,,2024-01-27T15:15Z
+,22,Sun Jan 28 2024,16:15,CET/+0100,AS Cittadella,1-2,0-0,Sampdoria,,2024-01-28T15:15Z
+,23,Fri Feb 2 2024,20:30,CET/+0100,Palermo FC,3-0,1-0,SSC Bari,,2024-02-02T19:30Z
+,23,Sat Feb 3 2024,14:00,CET/+0100,Cosenza Calcio,1-1,0-0,Pisa SC,,2024-02-03T13:00Z
+,23,Sat Feb 3 2024,14:00,CET/+0100,Parma Calcio 1913,2-1,1-1,Venezia FC,,2024-02-03T13:00Z
+,23,Sat Feb 3 2024,14:00,CET/+0100,AC Reggiana 1919,1-1,0-0,Feralpisalò,,2024-02-03T13:00Z
+,23,Sat Feb 3 2024,14:00,CET/+0100,Spezia Calcio,1-1,1-1,US Catanzaro,,2024-02-03T13:00Z
+,23,Sat Feb 3 2024,14:00,CET/+0100,Brescia Calcio,2-0,0-0,AS Cittadella,,2024-02-03T13:00Z
+,23,Sat Feb 3 2024,16:15,CET/+0100,Calcio Lecco 1912,0-1,0-0,US Cremonese,,2024-02-03T15:15Z
+,23,Sat Feb 3 2024,16:15,CET/+0100,Sampdoria,2-2,2-0,Modena FC,,2024-02-03T15:15Z
+,23,Sat Feb 3 2024,16:15,CET/+0100,Ternana Calcio,0-1,0-1,Como 1907,,2024-02-03T15:15Z
+,23,Sun Feb 4 2024,16:15,CET/+0100,Ascoli Calcio,1-2,0-1,FC Südtirol,,2024-02-04T15:15Z
+,24,Fri Feb 9 2024,20:30,CET/+0100,Como 1907,1-0,1-0,Brescia Calcio,,2024-02-09T19:30Z
+,24,Sat Feb 10 2024,14:00,CET/+0100,Feralpisalò,1-2,0-0,Palermo FC,,2024-02-10T13:00Z
+,24,Sat Feb 10 2024,14:00,CET/+0100,AS Cittadella,1-2,1-2,Parma Calcio 1913,,2024-02-10T13:00Z
+,24,Sat Feb 10 2024,14:00,CET/+0100,Modena FC,1-1,1-1,Cosenza Calcio,,2024-02-10T13:00Z
+,24,Sat Feb 10 2024,14:00,CET/+0100,FC Südtirol,0-3,0-1,Venezia FC,,2024-02-10T13:00Z
+,24,Sat Feb 10 2024,14:00,CET/+0100,US Cremonese,1-1,0-0,AC Reggiana 1919,,2024-02-10T13:00Z
+,24,Sat Feb 10 2024,16:15,CET/+0100,Pisa SC,2-0,0-0,Sampdoria,,2024-02-10T15:15Z
+,24,Sat Feb 10 2024,16:15,CET/+0100,SSC Bari,3-1,1-0,Calcio Lecco 1912,,2024-02-10T15:15Z
+,24,Sat Feb 10 2024,16:15,CET/+0100,US Catanzaro,3-2,1-2,Ascoli Calcio,,2024-02-10T15:15Z
+,24,Sun Feb 11 2024,16:15,CET/+0100,Ternana Calcio,1-1,0-0,Spezia Calcio,,2024-02-11T15:15Z
+,25,Fri Feb 16 2024,20:30,CET/+0100,Ascoli Calcio,0-0,0-0,US Cremonese,,2024-02-16T19:30Z
+,25,Sat Feb 17 2024,14:00,CET/+0100,Calcio Lecco 1912,1-3,0-2,Cosenza Calcio,,2024-02-17T13:00Z
+,25,Sat Feb 17 2024,14:00,CET/+0100,Parma Calcio 1913,3-2,1-1,Pisa SC,,2024-02-17T13:00Z
+,25,Sat Feb 17 2024,14:00,CET/+0100,AC Reggiana 1919,0-2,0-1,Ternana Calcio,,2024-02-17T13:00Z
+,25,Sat Feb 17 2024,14:00,CET/+0100,Spezia Calcio,4-2,2-1,AS Cittadella,,2024-02-17T13:00Z
+,25,Sat Feb 17 2024,14:00,CET/+0100,SSC Bari,1-0,0-0,Feralpisalò,,2024-02-17T13:00Z
+,25,Sat Feb 17 2024,16:15,CET/+0100,Palermo FC,3-0,1-0,Como 1907,,2024-02-17T15:15Z
+,25,Sat Feb 17 2024,16:15,CET/+0100,US Catanzaro,2-2,1-1,FC Südtirol,,2024-02-17T15:15Z
+,25,Sat Feb 17 2024,16:15,CET/+0100,Sampdoria,1-1,0-0,Brescia Calcio,,2024-02-17T15:15Z
+,25,Sun Feb 18 2024,16:15,CET/+0100,Venezia FC,2-2,1-0,Modena FC,,2024-02-18T15:15Z
+,26,Fri Feb 23 2024,20:30,CET/+0100,Cosenza Calcio,1-2,0-2,Sampdoria,,2024-02-23T19:30Z
+,26,Sat Feb 24 2024,14:00,CET/+0100,Feralpisalò,0-1,0-1,Ascoli Calcio,,2024-02-24T13:00Z
+,26,Sat Feb 24 2024,14:00,CET/+0100,AS Cittadella,1-2,1-1,US Catanzaro,,2024-02-24T13:00Z
+,26,Sat Feb 24 2024,14:00,CET/+0100,FC Südtirol,1-0,0-0,SSC Bari,,2024-02-24T13:00Z
+,26,Sat Feb 24 2024,14:00,CET/+0100,US Cremonese,2-2,0-2,Palermo FC,,2024-02-24T13:00Z
+,26,Sat Feb 24 2024,14:00,CET/+0100,Brescia Calcio,0-0,0-0,AC Reggiana 1919,,2024-02-24T13:00Z
+,26,Sat Feb 24 2024,16:15,CET/+0100,Como 1907,1-1,1-1,Parma Calcio 1913,,2024-02-24T15:15Z
+,26,Sat Feb 24 2024,16:15,CET/+0100,Pisa SC,1-2,0-0,Venezia FC,,2024-02-24T15:15Z
+,26,Sat Feb 24 2024,16:15,CET/+0100,Ternana Calcio,0-0,0-0,Calcio Lecco 1912,,2024-02-24T15:15Z
+,26,Sun Feb 25 2024,16:15,CET/+0100,Modena FC,0-0,0-0,Spezia Calcio,,2024-02-25T15:15Z
+,27,Tue Feb 27 2024,18:15,CET/+0100,AC Reggiana 1919,1-1,0-0,FC Südtirol,,2024-02-27T17:15Z
+,27,Tue Feb 27 2024,18:15,CET/+0100,Ascoli Calcio,1-1,1-1,Brescia Calcio,,2024-02-27T17:15Z
+,27,Tue Feb 27 2024,20:30,CET/+0100,Calcio Lecco 1912,0-3,0-2,Como 1907,,2024-02-27T19:30Z
+,27,Tue Feb 27 2024,20:30,CET/+0100,Palermo FC,2-3,1-1,Ternana Calcio,,2024-02-27T19:30Z
+,27,Tue Feb 27 2024,20:30,CET/+0100,Parma Calcio 1913,1-1,1-1,Cosenza Calcio,,2024-02-27T19:30Z
+,27,Tue Feb 27 2024,20:30,CET/+0100,Sampdoria,1-2,1-1,US Cremonese,,2024-02-27T19:30Z
+,27,Tue Feb 27 2024,20:30,CET/+0100,US Catanzaro,2-0,1-0,SSC Bari,,2024-02-27T19:30Z
+,27,Wed Feb 28 2024,20:30,CET/+0100,Pisa SC,2-2,1-0,Modena FC,,2024-02-28T19:30Z
+,27,Wed Feb 28 2024,20:30,CET/+0100,Spezia Calcio,0-2,0-1,Feralpisalò,,2024-02-28T19:30Z
+,27,Wed Feb 28 2024,20:30,CET/+0100,Venezia FC,2-0,1-0,AS Cittadella,,2024-02-28T19:30Z
+,28,Sat Mar 2 2024,14:00,CET/+0100,FC Südtirol,1-0,0-0,Calcio Lecco 1912,,2024-03-02T13:00Z
+,28,Sat Mar 2 2024,14:00,CET/+0100,Ternana Calcio,1-3,0-2,Parma Calcio 1913,,2024-03-02T13:00Z
+,28,Sat Mar 2 2024,14:00,CET/+0100,Brescia Calcio,4-2,4-2,Palermo FC,,2024-03-02T13:00Z
+,28,Sun Mar 3 2024,16:15,CET/+0100,AS Cittadella,0-1,0-0,Pisa SC,,2024-03-03T15:15Z
+,28,Sun Mar 3 2024,16:15,CET/+0100,Ascoli Calcio,0-0,0-0,AC Reggiana 1919,,2024-03-03T15:15Z
+,28,Sun Mar 3 2024,16:15,CET/+0100,Como 1907,2-1,1-1,Venezia FC,,2024-03-03T15:15Z
+,28,Sun Mar 3 2024,16:15,CET/+0100,Cosenza Calcio,0-2,0-1,US Catanzaro,,2024-03-03T15:15Z
+,28,Sun Mar 3 2024,16:15,CET/+0100,SSC Bari,1-1,0-0,Spezia Calcio,,2024-03-03T15:15Z
+,28,Sun Mar 3 2024,18:30,CET/+0100,Modena FC,0-1,0-0,US Cremonese,,2024-03-03T17:30Z
+,28,Sun Mar 3 2024,16:15,CET/+0100,Feralpisalò,1-3,0-2,Sampdoria,,2024-03-03T15:15Z
+,29,Fri Mar 8 2024,20:30,CET/+0100,Parma Calcio 1913,2-1,0-1,Brescia Calcio,,2024-03-08T19:30Z
+,29,Sat Mar 9 2024,14:00,CET/+0100,Cosenza Calcio,0-0,0-0,AS Cittadella,,2024-03-09T13:00Z
+,29,Sat Mar 9 2024,14:00,CET/+0100,Modena FC,2-3,1-2,Feralpisalò,,2024-03-09T13:00Z
+,29,Sat Mar 9 2024,14:00,CET/+0100,Spezia Calcio,2-1,1-1,FC Südtirol,,2024-03-09T13:00Z
+,29,Sat Mar 9 2024,16:15,CET/+0100,Pisa SC,1-0,0-0,Ternana Calcio,,2024-03-09T15:15Z
+,29,Sat Mar 9 2024,16:15,CET/+0100,US Catanzaro,0-1,0-1,AC Reggiana 1919,,2024-03-09T15:15Z
+,29,Sat Mar 9 2024,16:15,CET/+0100,US Cremonese,2-1,1-0,Como 1907,,2024-03-09T15:15Z
+,29,Sun Mar 10 2024,16:15,CET/+0100,Venezia FC,3-1,2-1,SSC Bari,,2024-03-10T15:15Z
+,29,Sun Mar 10 2024,16:15,CET/+0100,Calcio Lecco 1912,0-1,0-1,Palermo FC,,2024-03-10T15:15Z
+,29,Mon Mar 11 2024,20:30,CET/+0100,Sampdoria,2-1,0-1,Ascoli Calcio,,2024-03-11T19:30Z
+,30,Fri Mar 15 2024,20:30,CET/+0100,Palermo FC,0-3,0-2,Venezia FC,,2024-03-15T19:30Z
+,30,Sat Mar 16 2024,14:00,CET/+0100,Feralpisalò,1-2,0-1,Parma Calcio 1913,,2024-03-16T13:00Z
+,30,Sat Mar 16 2024,14:00,CET/+0100,Como 1907,3-1,2-0,Pisa SC,,2024-03-16T13:00Z
+,30,Sat Mar 16 2024,14:00,CET/+0100,FC Südtirol,3-0,1-0,US Cremonese,,2024-03-16T13:00Z
+,30,Sat Mar 16 2024,14:00,CET/+0100,Ternana Calcio,1-0,0-0,Cosenza Calcio,,2024-03-16T13:00Z
+,30,Sat Mar 16 2024,14:00,CET/+0100,Brescia Calcio,1-1,0-1,US Catanzaro,,2024-03-16T13:00Z
+,30,Sat Mar 16 2024,16:15,CET/+0100,AS Cittadella,1-1,1-1,Modena FC,,2024-03-16T15:15Z
+,30,Sat Mar 16 2024,16:15,CET/+0100,AC Reggiana 1919,0-0,0-0,Spezia Calcio,,2024-03-16T15:15Z
+,30,Sat Mar 16 2024,16:15,CET/+0100,SSC Bari,0-1,0-0,Sampdoria,,2024-03-16T15:15Z
+,30,Sun Mar 17 2024,16:15,CET/+0100,Ascoli Calcio,4-1,2-1,Calcio Lecco 1912,,2024-03-17T15:15Z
+,31,Mon Apr 1 2024,12:30,CEST/+0200,Modena FC,1-1,0-0,SSC Bari,,2024-04-01T10:30Z
+,31,Mon Apr 1 2024,15:00,CEST/+0200,Calcio Lecco 1912,1-1,1-1,AS Cittadella,,2024-04-01T13:00Z
+,31,Mon Apr 1 2024,15:00,CEST/+0200,Como 1907,2-0,1-0,FC Südtirol,,2024-04-01T13:00Z
+,31,Mon Apr 1 2024,15:00,CEST/+0200,Venezia FC,2-3,2-1,AC Reggiana 1919,,2024-04-01T13:00Z
+,31,Mon Apr 1 2024,15:00,CEST/+0200,Parma Calcio 1913,0-2,0-2,US Catanzaro,,2024-04-01T13:00Z
+,31,Mon Apr 1 2024,15:00,CEST/+0200,Pisa SC,4-3,0-2,Palermo FC,,2024-04-01T13:00Z
+,31,Mon Apr 1 2024,15:00,CEST/+0200,Spezia Calcio,2-1,1-1,Ascoli Calcio,,2024-04-01T13:00Z
+,31,Mon Apr 1 2024,15:00,CEST/+0200,Cosenza Calcio,1-2,1-1,Brescia Calcio,,2024-04-01T13:00Z
+,31,Mon Apr 1 2024,18:00,CEST/+0200,US Cremonese,0-1,0-0,Feralpisalò,,2024-04-01T16:00Z
+,31,Mon Apr 1 2024,20:30,CEST/+0200,Sampdoria,4-1,1-0,Ternana Calcio,,2024-04-01T18:30Z
+,32,Fri Apr 5 2024,20:30,CEST/+0200,SSC Bari,1-2,0-1,US Cremonese,,2024-04-05T18:30Z
+,32,Sat Apr 6 2024,14:00,CEST/+0200,Feralpisalò,2-2,1-1,Cosenza Calcio,,2024-04-06T12:00Z
+,32,Sat Apr 6 2024,14:00,CEST/+0200,FC Südtirol,0-0,0-0,Parma Calcio 1913,,2024-04-06T12:00Z
+,32,Sat Apr 6 2024,14:00,CEST/+0200,Spezia Calcio,1-1,1-1,Calcio Lecco 1912,,2024-04-06T12:00Z
+,32,Sat Apr 6 2024,14:00,CEST/+0200,Ternana Calcio,0-0,0-0,Modena FC,,2024-04-06T12:00Z
+,32,Sat Apr 6 2024,14:00,CEST/+0200,Brescia Calcio,3-1,1-0,Pisa SC,,2024-04-06T12:00Z
+,32,Sat Apr 6 2024,16:15,CEST/+0200,Palermo FC,2-2,2-1,Sampdoria,,2024-04-06T14:15Z
+,32,Sat Apr 6 2024,16:15,CEST/+0200,AC Reggiana 1919,0-2,0-0,AS Cittadella,,2024-04-06T14:15Z
+,32,Sat Apr 6 2024,16:15,CEST/+0200,US Catanzaro,1-2,1-0,Como 1907,,2024-04-06T14:15Z
+,32,Sun Apr 7 2024,16:15,CEST/+0200,Ascoli Calcio,0-0,0-0,Venezia FC,,2024-04-07T14:15Z
+,33,Fri Apr 12 2024,20:30,CEST/+0200,Modena FC,1-3,1-2,US Catanzaro,,2024-04-12T18:30Z
+,33,Sat Apr 13 2024,14:00,CEST/+0200,AS Cittadella,0-0,0-0,Ascoli Calcio,,2024-04-13T12:00Z
+,33,Sat Apr 13 2024,14:00,CEST/+0200,Como 1907,2-1,1-0,SSC Bari,,2024-04-13T12:00Z
+,33,Sat Apr 13 2024,14:00,CEST/+0200,Pisa SC,3-1,2-0,Feralpisalò,,2024-04-13T12:00Z
+,33,Sat Apr 13 2024,14:00,CEST/+0200,Sampdoria,0-1,0-0,FC Südtirol,,2024-04-13T12:00Z
+,33,Sat Apr 13 2024,14:00,CEST/+0200,US Cremonese,1-2,1-1,Ternana Calcio,,2024-04-13T12:00Z
+,33,Sat Apr 13 2024,16:15,CEST/+0200,Calcio Lecco 1912,1-0,0-0,AC Reggiana 1919,,2024-04-13T14:15Z
+,33,Sat Apr 13 2024,16:15,CEST/+0200,Cosenza Calcio,1-1,0-1,Palermo FC,,2024-04-13T14:15Z
+,33,Sat Apr 13 2024,16:15,CEST/+0200,Parma Calcio 1913,2-0,1-0,Spezia Calcio,,2024-04-13T14:15Z
+,33,Sun Apr 14 2024,16:15,CEST/+0200,Venezia FC,2-0,1-0,Brescia Calcio,,2024-04-14T14:15Z
+,34,Fri Apr 19 2024,20:30,CEST/+0200,Palermo FC,0-0,0-0,Parma Calcio 1913,,2024-04-19T18:30Z
+,34,Fri Apr 19 2024,20:30,CEST/+0200,AC Reggiana 1919,0-4,0-2,Cosenza Calcio,,2024-04-19T18:30Z
+,34,Sat Apr 20 2024,14:00,CEST/+0200,Feralpisalò,2-5,2-3,Como 1907,,2024-04-20T12:00Z
+,34,Sat Apr 20 2024,14:00,CEST/+0200,Ascoli Calcio,0-0,0-0,Modena FC,,2024-04-20T12:00Z
+,34,Sat Apr 20 2024,14:00,CEST/+0200,SSC Bari,1-1,0-1,Pisa SC,,2024-04-20T12:00Z
+,34,Sat Apr 20 2024,14:00,CEST/+0200,Brescia Calcio,0-0,0-0,Ternana Calcio,,2024-04-20T12:00Z
+,34,Sat Apr 20 2024,16:15,CEST/+0200,Calcio Lecco 1912,1-2,1-0,Venezia FC,,2024-04-20T14:15Z
+,34,Sat Apr 20 2024,16:15,CEST/+0200,FC Südtirol,0-0,0-0,AS Cittadella,,2024-04-20T14:15Z
+,34,Sat Apr 20 2024,16:15,CEST/+0200,Spezia Calcio,0-0,0-0,Sampdoria,,2024-04-20T14:15Z
+,34,Sat Apr 20 2024,16:15,CEST/+0200,US Catanzaro,0-0,0-0,US Cremonese,,2024-04-20T14:15Z
+,35,Fri Apr 26 2024,20:30,CEST/+0200,Pisa SC,2-2,0-1,US Catanzaro,,2024-04-26T18:30Z
+,35,Fri Apr 26 2024,20:30,CEST/+0200,Venezia FC,2-1,0-1,US Cremonese,,2024-04-26T18:30Z
+,35,Sat Apr 27 2024,14:00,CEST/+0200,Modena FC,1-0,0-0,FC Südtirol,,2024-04-27T12:00Z
+,35,Sat Apr 27 2024,14:00,CEST/+0200,Parma Calcio 1913,4-0,3-0,Calcio Lecco 1912,,2024-04-27T12:00Z
+,35,Sat Apr 27 2024,14:00,CEST/+0200,Ternana Calcio,0-1,0-0,Ascoli Calcio,,2024-04-27T12:00Z
+,35,Sat Apr 27 2024,14:00,CEST/+0200,Brescia Calcio,0-0,0-0,Spezia Calcio,,2024-04-27T12:00Z
+,35,Sat Apr 27 2024,16:15,CEST/+0200,AS Cittadella,1-1,1-0,Feralpisalò,,2024-04-27T14:15Z
+,35,Sat Apr 27 2024,16:15,CEST/+0200,Cosenza Calcio,4-1,2-1,SSC Bari,,2024-04-27T14:15Z
+,35,Sat Apr 27 2024,16:15,CEST/+0200,Palermo FC,1-2,1-0,AC Reggiana 1919,,2024-04-27T14:15Z
+,35,Sat Apr 27 2024,16:15,CEST/+0200,Sampdoria,1-1,0-0,Como 1907,,2024-04-27T14:15Z
+,36,Wed May 1 2024,12:30,CEST/+0200,US Cremonese,2-1,1-0,Pisa SC,,2024-05-01T10:30Z
+,36,Wed May 1 2024,15:00,CEST/+0200,Ascoli Calcio,0-1,0-1,Cosenza Calcio,,2024-05-01T13:00Z
+,36,Wed May 1 2024,15:00,CEST/+0200,Como 1907,2-1,0-0,AS Cittadella,,2024-05-01T13:00Z
+,36,Wed May 1 2024,15:00,CEST/+0200,FC Südtirol,4-3,1-2,Ternana Calcio,,2024-05-01T13:00Z
+,36,Wed May 1 2024,15:00,CEST/+0200,Spezia Calcio,1-0,1-0,Palermo FC,,2024-05-01T13:00Z
+,36,Wed May 1 2024,15:00,CEST/+0200,US Catanzaro,3-2,1-1,Venezia FC,,2024-05-01T13:00Z
+,36,Wed May 1 2024,18:00,CEST/+0200,Calcio Lecco 1912,0-1,0-0,Sampdoria,,2024-05-01T16:00Z
+,36,Wed May 1 2024,18:00,CEST/+0200,AC Reggiana 1919,1-0,0-0,Modena FC,,2024-05-01T16:00Z
+,36,Wed May 1 2024,18:00,CEST/+0200,SSC Bari,1-1,0-0,Parma Calcio 1913,,2024-05-01T16:00Z
+,36,Wed May 1 2024,18:00,CEST/+0200,Feralpisalò,2-2,2-2,Brescia Calcio,,2024-05-01T16:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,AS Cittadella,1-1,1-1,SSC Bari,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Cosenza Calcio,2-2,1-1,Spezia Calcio,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Modena FC,0-0,0-0,Como 1907,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Venezia FC,2-1,0-0,Feralpisalò,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Palermo FC,2-2,2-1,Ascoli Calcio,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Parma Calcio 1913,1-1,0-1,US Cremonese,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Pisa SC,2-2,1-0,FC Südtirol,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Sampdoria,1-0,1-0,AC Reggiana 1919,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Ternana Calcio,1-0,0-0,US Catanzaro,,2024-05-05T13:00Z
+,37,Sun May 5 2024,15:00,CEST/+0200,Brescia Calcio,4-1,2-0,Calcio Lecco 1912,,2024-05-05T13:00Z
+,38,Fri May 10 2024,20:30,CEST/+0200,Feralpisalò,0-1,0-1,Ternana Calcio,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,Ascoli Calcio,2-1,1-0,Pisa SC,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,Calcio Lecco 1912,2-3,1-3,Modena FC,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,Como 1907,1-1,0-1,Cosenza Calcio,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,FC Südtirol,0-1,0-0,Palermo FC,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,AC Reggiana 1919,1-1,1-0,Parma Calcio 1913,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,Spezia Calcio,2-1,0-1,Venezia FC,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,US Catanzaro,1-3,1-1,Sampdoria,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,US Cremonese,3-0,2-0,AS Cittadella,,2024-05-10T18:30Z
+,38,Fri May 10 2024,20:30,CEST/+0200,SSC Bari,2-0,1-0,Brescia Calcio,,2024-05-10T18:30Z
+Playout,Final,Thu May 16 2024,20:30,CEST/+0200,SSC Bari,1-1,0-0,Ternana Calcio,,2024-05-16T18:30Z
+Playoff,Round 1,Fri May 17 2024,20:30,CEST/+0200,Palermo FC,2-0,1-0,Sampdoria,,2024-05-17T18:30Z
+Playoff,Round 1,Sat May 18 2024,20:30,CEST/+0200,US Catanzaro,2-2,1-1,Brescia Calcio,4-2,2024-05-18T18:30Z
+Playoff,Semifinals,Mon May 20 2024,20:30,CEST/+0200,Palermo FC,0-1,0-0,Venezia FC,,2024-05-20T18:30Z
+Playoff,Semifinals,Tue May 21 2024,20:30,CEST/+0200,US Catanzaro,2-2,0-1,US Cremonese,,2024-05-21T18:30Z
+Playout,Final,Thu May 23 2024,20:30,CEST/+0200,Ternana Calcio,0-3,0-1,SSC Bari,,2024-05-23T18:30Z
+Playoff,Semifinals,Fri May 24 2024,20:30,CEST/+0200,Venezia FC,2-1,2-0,Palermo FC,,2024-05-24T18:30Z
+Playoff,Semifinals,Sat May 25 2024,20:30,CEST/+0200,US Cremonese,4-1,3-0,US Catanzaro,,2024-05-25T18:30Z
+Playoff,Final,Thu May 30 2024,20:30,CEST/+0200,US Cremonese,0-0,0-0,Venezia FC,,2024-05-30T18:30Z
+Playoff,Final,Sun Jun 2 2024,20:30,CEST/+0200,Venezia FC,1-0,1-0,US Cremonese,,2024-06-02T18:30Z

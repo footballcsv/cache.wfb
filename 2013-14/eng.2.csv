@@ -1,0 +1,553 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Aug 3 2013,12:15,BST/+0100,Burnley FC,1-1,1-1,Bolton Wanderers,2013-08-03T11:15Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Reading FC,2-1,1-1,Ipswich Town,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Birmingham City,0-1,0-1,Watford FC,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,AFC Bournemouth,2-1,1-0,Charlton Athletic,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Queens Park Rangers,2-1,2-1,Sheffield Wednesday,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Leeds United,2-1,1-1,Brighton & Hove Albion,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Middlesbrough FC,1-2,1-0,Leicester City,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Millwall FC,0-1,0-0,Yeovil Town,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Barnsley FC,0-4,0-1,Wigan Athletic,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Doncaster Rovers,1-3,0-1,Blackpool FC,2013-08-03T14:00Z
+1,Sat Aug 3 2013,15:00,BST/+0100,Nottingham Forest,1-0,0-0,Huddersfield Town,2013-08-03T14:00Z
+1,Sun Aug 4 2013,16:00,BST/+0100,Derby County,1-1,1-0,Blackburn Rovers,2013-08-04T15:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Yeovil Town,0-1,0-0,Birmingham City,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Sheffield Wednesday,1-2,0-2,Burnley FC,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Brighton & Hove Albion,1-2,1-1,Derby County,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Charlton Athletic,0-1,0-0,Middlesbrough FC,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Blackpool FC,1-0,0-0,Barnsley FC,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Bolton Wanderers,1-1,1-0,Reading FC,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Watford FC,6-1,1-1,AFC Bournemouth,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Huddersfield Town,1-1,1-1,Queens Park Rangers,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Blackburn Rovers,0-1,0-0,Nottingham Forest,2013-08-10T14:00Z
+2,Sat Aug 10 2013,15:00,BST/+0100,Ipswich Town,3-0,0-0,Millwall FC,2013-08-10T14:00Z
+2,Sun Aug 11 2013,16:30,BST/+0100,Leicester City,0-0,0-0,Leeds United,2013-08-11T15:30Z
+3,Fri Aug 16 2013,19:45,BST/+0100,Doncaster Rovers,2-0,1-0,Blackburn Rovers,2013-08-16T18:45Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Millwall FC,0-1,0-0,Huddersfield Town,2013-08-17T14:00Z
+3,Sat Aug 17 2013,12:15,BST/+0100,Leeds United,1-1,0-1,Sheffield Wednesday,2013-08-17T11:15Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Derby County,0-1,0-1,Leicester City,2013-08-17T14:00Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Queens Park Rangers,1-0,0-0,Ipswich Town,2013-08-17T14:00Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Barnsley FC,2-2,1-0,Charlton Athletic,2013-08-17T14:00Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Nottingham Forest,3-0,1-0,Bolton Wanderers,2013-08-17T14:00Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Burnley FC,2-0,0-0,Yeovil Town,2013-08-17T14:00Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Birmingham City,0-1,0-0,Brighton & Hove Albion,2013-08-17T14:00Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Middlesbrough FC,1-1,0-0,Blackpool FC,2013-08-17T14:00Z
+3,Sat Aug 17 2013,15:00,BST/+0100,AFC Bournemouth,1-0,1-0,Wigan Athletic,2013-08-17T14:00Z
+3,Sat Aug 17 2013,15:00,BST/+0100,Reading FC,3-3,2-0,Watford FC,2013-08-17T14:00Z
+2,Tue Aug 20 2013,19:45,BST/+0100,Wigan Athletic,2-2,0-2,Doncaster Rovers,2013-08-20T18:45Z
+4,Sat Aug 24 2013,12:15,BST/+0100,Bolton Wanderers,0-1,0-0,Queens Park Rangers,2013-08-24T11:15Z
+4,Sat Aug 24 2013,15:00,BST/+0100,Huddersfield Town,5-1,3-0,AFC Bournemouth,2013-08-24T14:00Z
+4,Sat Aug 24 2013,15:00,BST/+0100,Yeovil Town,0-3,0-2,Derby County,2013-08-24T14:00Z
+4,Sat Aug 24 2013,15:00,BST/+0100,Blackburn Rovers,5-2,4-1,Barnsley FC,2013-08-24T14:00Z
+4,Sat Aug 24 2013,15:00,BST/+0100,Ipswich Town,1-2,1-1,Leeds United,2013-08-24T14:00Z
+4,Sat Aug 24 2013,15:00,BST/+0100,Brighton & Hove Albion,2-0,1-0,Burnley FC,2013-08-24T14:00Z
+4,Sat Aug 24 2013,15:00,BST/+0100,Leicester City,3-2,0-1,Birmingham City,2013-08-24T14:00Z
+4,Sat Aug 24 2013,15:00,BST/+0100,Blackpool FC,1-0,0-0,Reading FC,2013-08-24T14:00Z
+4,Sat Aug 24 2013,15:00,BST/+0100,Sheffield Wednesday,2-2,2-1,Millwall FC,2013-08-24T14:00Z
+4,Sun Aug 25 2013,15:00,BST/+0100,Wigan Athletic,2-2,1-1,Middlesbrough FC,2013-08-25T14:00Z
+4,Sun Aug 25 2013,13:15,BST/+0100,Watford FC,1-1,0-1,Nottingham Forest,2013-08-25T12:15Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Blackpool FC,1-0,0-0,Watford FC,2013-08-31T14:00Z
+5,Sat Aug 31 2013,12:15,BST/+0100,Leeds United,0-1,0-0,Queens Park Rangers,2013-08-31T11:15Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Birmingham City,1-1,0-1,Ipswich Town,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Doncaster Rovers,0-1,0-1,AFC Bournemouth,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Charlton Athletic,2-1,1-0,Leicester City,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Blackburn Rovers,4-1,2-1,Bolton Wanderers,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Middlesbrough FC,1-1,0-1,Sheffield Wednesday,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Brighton & Hove Albion,1-1,0-0,Millwall FC,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Barnsley FC,2-1,2-0,Huddersfield Town,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Yeovil Town,0-1,0-0,Reading FC,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Derby County,0-3,0-2,Burnley FC,2013-08-31T14:00Z
+5,Sat Aug 31 2013,15:00,BST/+0100,Wigan Athletic,2-1,2-1,Nottingham Forest,2013-08-31T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Watford FC,1-1,0-0,Charlton Athletic,2013-09-14T14:00Z
+6,Sat Sep 14 2013,12:15,BST/+0100,Burnley FC,1-1,0-0,Blackburn Rovers,2013-09-14T11:15Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Bolton Wanderers,0-1,0-1,Leeds United,2013-09-14T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Ipswich Town,3-1,1-1,Middlesbrough FC,2013-09-14T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,AFC Bournemouth,1-2,1-1,Blackpool FC,2013-09-14T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Leicester City,2-0,1-0,Wigan Athletic,2013-09-14T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Nottingham Forest,3-2,2-1,Barnsley FC,2013-09-14T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Sheffield Wednesday,1-1,1-0,Yeovil Town,2013-09-14T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Millwall FC,1-5,0-2,Derby County,2013-09-14T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Queens Park Rangers,1-0,0-0,Birmingham City,2013-09-14T14:00Z
+6,Sat Sep 14 2013,15:00,BST/+0100,Huddersfield Town,0-0,0-0,Doncaster Rovers,2013-09-14T14:00Z
+6,Sun Sep 15 2013,13:15,BST/+0100,Reading FC,0-0,0-0,Brighton & Hove Albion,2013-09-15T12:15Z
+7,Tue Sep 17 2013,19:45,BST/+0100,Burnley FC,3-0,1-0,Birmingham City,2013-09-17T18:45Z
+7,Tue Sep 17 2013,19:45,BST/+0100,Huddersfield Town,2-1,1-0,Charlton Athletic,2013-09-17T18:45Z
+7,Tue Sep 17 2013,19:45,BST/+0100,Nottingham Forest,2-2,0-1,Middlesbrough FC,2013-09-17T18:45Z
+7,Tue Sep 17 2013,19:45,BST/+0100,Ipswich Town,2-1,0-1,Yeovil Town,2013-09-17T18:45Z
+7,Tue Sep 17 2013,19:45,BST/+0100,Millwall FC,3-1,1-1,Blackpool FC,2013-09-17T18:45Z
+7,Tue Sep 17 2013,19:45,BST/+0100,Leicester City,2-1,2-0,Blackburn Rovers,2013-09-17T18:45Z
+7,Tue Sep 17 2013,19:45,BST/+0100,Watford FC,2-1,1-1,Doncaster Rovers,2013-09-17T18:45Z
+7,Tue Sep 17 2013,19:45,BST/+0100,AFC Bournemouth,1-0,0-0,Barnsley FC,2013-09-17T18:45Z
+7,Tue Sep 17 2013,20:00,BST/+0100,Bolton Wanderers,2-2,2-2,Derby County,2013-09-17T19:00Z
+7,Wed Sep 18 2013,20:00,BST/+0100,Reading FC,1-0,0-0,Leeds United,2013-09-18T19:00Z
+7,Wed Sep 18 2013,19:45,BST/+0100,Queens Park Rangers,0-0,0-0,Brighton & Hove Albion,2013-09-18T18:45Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Yeovil Town,0-1,0-0,Queens Park Rangers,2013-09-21T14:00Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Barnsley FC,1-5,1-3,Watford FC,2013-09-21T14:00Z
+8,Sat Sep 21 2013,12:15,BST/+0100,Charlton Athletic,0-1,0-1,Millwall FC,2013-09-21T11:15Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Blackburn Rovers,0-0,0-0,Huddersfield Town,2013-09-21T14:00Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Blackpool FC,2-2,1-0,Leicester City,2013-09-21T14:00Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Middlesbrough FC,3-3,2-2,AFC Bournemouth,2013-09-21T14:00Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Birmingham City,4-1,3-0,Sheffield Wednesday,2013-09-21T14:00Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Derby County,1-3,0-0,Reading FC,2013-09-21T14:00Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Doncaster Rovers,2-2,1-1,Nottingham Forest,2013-09-21T14:00Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Brighton & Hove Albion,3-1,0-1,Bolton Wanderers,2013-09-21T14:00Z
+8,Sat Sep 21 2013,15:00,BST/+0100,Leeds United,1-2,0-2,Burnley FC,2013-09-21T14:00Z
+8,Sun Sep 22 2013,15:00,BST/+0100,Wigan Athletic,2-0,1-0,Ipswich Town,2013-09-22T14:00Z
+9,Fri Sep 27 2013,19:45,BST/+0100,Huddersfield Town,1-1,0-1,Blackpool FC,2013-09-27T18:45Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Queens Park Rangers,2-0,2-0,Middlesbrough FC,2013-09-28T14:00Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Reading FC,2-0,1-0,Birmingham City,2013-09-28T14:00Z
+9,Sat Sep 28 2013,12:15,BST/+0100,Nottingham Forest,1-0,1-0,Derby County,2013-09-28T11:15Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Watford FC,1-0,0-0,Wigan Athletic,2013-09-28T14:00Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Bolton Wanderers,1-1,0-0,Yeovil Town,2013-09-28T14:00Z
+9,Sat Sep 28 2013,15:00,BST/+0100,AFC Bournemouth,1-3,0-3,Blackburn Rovers,2013-09-28T14:00Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Burnley FC,3-0,1-0,Charlton Athletic,2013-09-28T14:00Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Ipswich Town,2-0,2-0,Brighton & Hove Albion,2013-09-28T14:00Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Millwall FC,2-0,0-0,Leeds United,2013-09-28T14:00Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Leicester City,2-1,0-0,Barnsley FC,2013-09-28T14:00Z
+9,Sat Sep 28 2013,15:00,BST/+0100,Sheffield Wednesday,0-1,0-0,Doncaster Rovers,2013-09-28T14:00Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Doncaster Rovers,0-2,0-1,Burnley FC,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Blackburn Rovers,1-0,0-0,Watford FC,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Yeovil Town,1-2,0-0,Leicester City,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Charlton Athletic,1-1,0-1,Nottingham Forest,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Leeds United,2-1,0-0,AFC Bournemouth,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Barnsley FC,1-1,0-0,Reading FC,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Middlesbrough FC,1-1,0-0,Huddersfield Town,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Birmingham City,4-0,2-0,Millwall FC,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Brighton & Hove Albion,1-1,0-1,Sheffield Wednesday,2013-10-01T18:45Z
+10,Tue Oct 1 2013,19:45,BST/+0100,Derby County,4-4,1-4,Ipswich Town,2013-10-01T18:45Z
+10,Tue Oct 1 2013,20:00,BST/+0100,Blackpool FC,0-0,0-0,Bolton Wanderers,2013-10-01T19:00Z
+11,Sat Oct 5 2013,15:00,BST/+0100,Middlesbrough FC,4-1,2-1,Yeovil Town,2013-10-05T14:00Z
+11,Sat Oct 5 2013,17:30,BST/+0100,Brighton & Hove Albion,1-3,1-0,Nottingham Forest,2013-10-05T16:30Z
+11,Sat Oct 5 2013,15:00,BST/+0100,Sheffield Wednesday,1-1,1-1,Ipswich Town,2013-10-05T14:00Z
+11,Sat Oct 5 2013,12:15,BST/+0100,Birmingham City,1-2,0-1,Bolton Wanderers,2013-10-05T11:15Z
+11,Sat Oct 5 2013,15:00,BST/+0100,Queens Park Rangers,2-0,0-0,Barnsley FC,2013-10-05T14:00Z
+11,Sat Oct 5 2013,15:00,BST/+0100,Burnley FC,2-1,1-0,Reading FC,2013-10-05T14:00Z
+11,Sat Oct 5 2013,15:00,BST/+0100,Huddersfield Town,1-2,1-2,Watford FC,2013-10-05T14:00Z
+11,Sat Oct 5 2013,15:00,BST/+0100,Doncaster Rovers,1-0,1-0,Leicester City,2013-10-05T14:00Z
+11,Sat Oct 5 2013,15:00,BST/+0100,Derby County,3-1,2-1,Leeds United,2013-10-05T14:00Z
+11,Sat Oct 5 2013,15:00,BST/+0100,Charlton Athletic,0-0,0-0,Blackpool FC,2013-10-05T14:00Z
+11,Sat Oct 5 2013,15:00,BST/+0100,AFC Bournemouth,5-2,1-2,Millwall FC,2013-10-05T14:00Z
+11,Sun Oct 6 2013,15:00,BST/+0100,Wigan Athletic,2-1,0-1,Blackburn Rovers,2013-10-06T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Ipswich Town,0-1,0-0,Burnley FC,2013-10-19T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Millwall FC,2-2,0-1,Queens Park Rangers,2013-10-19T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Yeovil Town,0-0,0-0,Brighton & Hove Albion,2013-10-19T14:00Z
+12,Sat Oct 19 2013,12:15,BST/+0100,Blackpool FC,1-0,1-0,Wigan Athletic,2013-10-19T11:15Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Reading FC,4-1,2-1,Doncaster Rovers,2013-10-19T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Nottingham Forest,1-1,1-0,AFC Bournemouth,2013-10-19T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Bolton Wanderers,1-1,1-0,Sheffield Wednesday,2013-10-19T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Watford FC,2-3,1-2,Derby County,2013-10-19T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Blackburn Rovers,0-1,0-1,Charlton Athletic,2013-10-19T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Barnsley FC,3-2,3-0,Middlesbrough FC,2013-10-19T14:00Z
+12,Sat Oct 19 2013,15:00,BST/+0100,Leicester City,2-1,2-0,Huddersfield Town,2013-10-19T14:00Z
+12,Sun Oct 20 2013,13:15,BST/+0100,Leeds United,4-0,3-0,Birmingham City,2013-10-20T12:15Z
+13,Fri Oct 25 2013,19:45,BST/+0100,Middlesbrough FC,4-0,2-0,Doncaster Rovers,2013-10-25T18:45Z
+13,Sat Oct 26 2013,15:00,BST/+0100,Yeovil Town,3-1,3-1,Nottingham Forest,2013-10-26T14:00Z
+13,Sat Oct 26 2013,15:00,BST/+0100,Reading FC,1-1,1-0,Millwall FC,2013-10-26T14:00Z
+13,Sat Oct 26 2013,15:00,BST/+0100,Blackpool FC,2-2,2-1,Blackburn Rovers,2013-10-26T14:00Z
+13,Sat Oct 26 2013,12:15,BST/+0100,Barnsley FC,1-1,1-0,Sheffield Wednesday,2013-10-26T11:15Z
+13,Sat Oct 26 2013,12:30,BST/+0100,Huddersfield Town,3-2,1-1,Leeds United,2013-10-26T11:30Z
+13,Sat Oct 26 2013,15:00,BST/+0100,Leicester City,2-1,1-1,AFC Bournemouth,2013-10-26T14:00Z
+13,Sat Oct 26 2013,15:00,BST/+0100,Bolton Wanderers,1-1,0-0,Ipswich Town,2013-10-26T14:00Z
+13,Sat Oct 26 2013,15:00,BST/+0100,Derby County,1-1,1-0,Birmingham City,2013-10-26T14:00Z
+13,Sat Oct 26 2013,15:00,BST/+0100,Burnley FC,2-0,0-0,Queens Park Rangers,2013-10-26T14:00Z
+13,Sun Oct 27 2013,15:00,GMT/+0000,Charlton Athletic,0-0,0-0,Wigan Athletic,2013-10-27T15:00Z
+13,Mon Oct 28 2013,19:45,GMT/+0000,Brighton & Hove Albion,1-1,0-1,Watford FC,2013-10-28T19:45Z
+10,Wed Oct 30 2013,19:45,GMT/+0000,Wigan Athletic,0-0,0-0,Queens Park Rangers,2013-10-30T19:45Z
+14,Fri Nov 1 2013,19:45,GMT/+0000,Ipswich Town,1-1,1-0,Barnsley FC,2013-11-01T19:45Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Millwall FC,2-2,2-1,Burnley FC,2013-11-02T15:00Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Blackburn Rovers,1-0,0-0,Middlesbrough FC,2013-11-02T15:00Z
+14,Sat Nov 2 2013,12:15,GMT/+0000,Watford FC,0-3,0-1,Leicester City,2013-11-02T12:15Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Birmingham City,0-1,0-0,Charlton Athletic,2013-11-02T15:00Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Doncaster Rovers,1-3,0-1,Brighton & Hove Albion,2013-11-02T15:00Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Sheffield Wednesday,5-2,3-1,Reading FC,2013-11-02T15:00Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Nottingham Forest,0-1,0-0,Blackpool FC,2013-11-02T15:00Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Queens Park Rangers,2-1,1-1,Derby County,2013-11-02T15:00Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Leeds United,2-0,0-0,Yeovil Town,2013-11-02T15:00Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,AFC Bournemouth,0-2,0-1,Bolton Wanderers,2013-11-02T15:00Z
+14,Sat Nov 2 2013,15:00,GMT/+0000,Wigan Athletic,2-1,1-1,Huddersfield Town,2013-11-02T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Barnsley FC,0-0,0-0,Doncaster Rovers,2013-11-09T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Bolton Wanderers,3-1,2-1,Millwall FC,2013-11-09T15:00Z
+15,Sat Nov 9 2013,12:15,GMT/+0000,Reading FC,1-1,0-0,Queens Park Rangers,2013-11-09T12:15Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Leicester City,0-2,0-2,Nottingham Forest,2013-11-09T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Middlesbrough FC,2-2,1-1,Watford FC,2013-11-09T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Derby County,3-0,1-0,Sheffield Wednesday,2013-11-09T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Huddersfield Town,1-3,1-1,Birmingham City,2013-11-09T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Brighton & Hove Albion,3-0,1-0,Blackburn Rovers,2013-11-09T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Charlton Athletic,2-4,1-1,Leeds United,2013-11-09T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Blackpool FC,2-3,1-0,Ipswich Town,2013-11-09T15:00Z
+15,Sat Nov 9 2013,15:00,GMT/+0000,Burnley FC,1-1,0-0,AFC Bournemouth,2013-11-09T15:00Z
+15,Sun Nov 10 2013,15:00,GMT/+0000,Yeovil Town,0-1,0-0,Wigan Athletic,2013-11-10T15:00Z
+16,Fri Nov 22 2013,19:45,GMT/+0000,Doncaster Rovers,2-1,1-1,Yeovil Town,2013-11-22T19:45Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Nottingham Forest,1-1,1-1,Burnley FC,2013-11-23T15:00Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Birmingham City,1-1,1-1,Blackpool FC,2013-11-23T15:00Z
+16,Sat Nov 23 2013,12:15,GMT/+0000,Sheffield Wednesday,1-2,0-1,Huddersfield Town,2013-11-23T12:15Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Millwall FC,1-0,0-0,Barnsley FC,2013-11-23T15:00Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Blackburn Rovers,0-0,0-0,Reading FC,2013-11-23T15:00Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Ipswich Town,1-2,1-0,Leicester City,2013-11-23T15:00Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,AFC Bournemouth,0-1,0-0,Derby County,2013-11-23T15:00Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Queens Park Rangers,1-0,1-0,Charlton Athletic,2013-11-23T15:00Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Watford FC,0-1,0-1,Bolton Wanderers,2013-11-23T15:00Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Leeds United,2-1,1-0,Middlesbrough FC,2013-11-23T15:00Z
+16,Sat Nov 23 2013,15:00,GMT/+0000,Wigan Athletic,0-1,0-0,Brighton & Hove Albion,2013-11-23T15:00Z
+4,Tue Nov 26 2013,19:45,GMT/+0000,Charlton Athletic,2-0,1-0,Doncaster Rovers,2013-11-26T19:45Z
+17,Fri Nov 29 2013,19:45,GMT/+0000,Nottingham Forest,2-3,1-2,Reading FC,2013-11-29T19:45Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Charlton Athletic,0-1,0-1,Ipswich Town,2013-11-30T15:00Z
+17,Sat Nov 30 2013,12:15,GMT/+0000,AFC Bournemouth,1-1,1-0,Brighton & Hove Albion,2013-11-30T12:15Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Blackburn Rovers,1-0,1-0,Leeds United,2013-11-30T15:00Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Huddersfield Town,2-1,0-0,Burnley FC,2013-11-30T15:00Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Middlesbrough FC,1-0,0-0,Bolton Wanderers,2013-11-30T15:00Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Leicester City,3-0,1-0,Millwall FC,2013-11-30T15:00Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Doncaster Rovers,2-1,0-1,Queens Park Rangers,2013-11-30T15:00Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Watford FC,0-3,0-1,Yeovil Town,2013-11-30T15:00Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Barnsley FC,0-3,0-3,Birmingham City,2013-11-30T15:00Z
+17,Sat Nov 30 2013,15:00,GMT/+0000,Blackpool FC,2-0,1-0,Sheffield Wednesday,2013-11-30T15:00Z
+17,Sun Dec 1 2013,15:00,GMT/+0000,Wigan Athletic,1-3,0-3,Derby County,2013-12-01T15:00Z
+18,Tue Dec 3 2013,20:00,GMT/+0000,Reading FC,1-0,1-0,Charlton Athletic,2013-12-03T20:00Z
+18,Tue Dec 3 2013,19:45,GMT/+0000,Sheffield Wednesday,2-1,2-1,Leicester City,2013-12-03T19:45Z
+18,Tue Dec 3 2013,19:45,GMT/+0000,Brighton & Hove Albion,1-2,0-1,Barnsley FC,2013-12-03T19:45Z
+18,Tue Dec 3 2013,19:45,GMT/+0000,Ipswich Town,3-1,1-1,Blackburn Rovers,2013-12-03T19:45Z
+18,Tue Dec 3 2013,19:45,GMT/+0000,Birmingham City,1-1,1-0,Doncaster Rovers,2013-12-03T19:45Z
+18,Tue Dec 3 2013,19:45,GMT/+0000,Queens Park Rangers,3-0,1-0,AFC Bournemouth,2013-12-03T19:45Z
+18,Tue Dec 3 2013,19:45,GMT/+0000,Millwall FC,2-2,1-1,Nottingham Forest,2013-12-03T19:45Z
+18,Tue Dec 3 2013,19:45,GMT/+0000,Yeovil Town,1-0,1-0,Blackpool FC,2013-12-03T19:45Z
+18,Tue Dec 3 2013,19:45,GMT/+0000,Burnley FC,0-0,0-0,Watford FC,2013-12-03T19:45Z
+18,Tue Dec 3 2013,20:00,GMT/+0000,Bolton Wanderers,0-1,0-0,Huddersfield Town,2013-12-03T20:00Z
+18,Wed Dec 4 2013,19:45,GMT/+0000,Derby County,2-1,1-0,Middlesbrough FC,2013-12-04T19:45Z
+18,Wed Dec 4 2013,19:45,GMT/+0000,Leeds United,2-0,1-0,Wigan Athletic,2013-12-04T19:45Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Millwall FC,2-1,1-0,Wigan Athletic,2013-12-07T15:00Z
+19,Sat Dec 7 2013,12:15,GMT/+0000,Derby County,5-1,0-1,Blackpool FC,2013-12-07T12:15Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Brighton & Hove Albion,3-1,2-0,Leicester City,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Birmingham City,2-2,0-1,Middlesbrough FC,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Bolton Wanderers,3-0,2-0,Doncaster Rovers,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Leeds United,3-3,0-2,Watford FC,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Reading FC,1-2,0-2,AFC Bournemouth,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Ipswich Town,2-1,0-1,Huddersfield Town,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Yeovil Town,2-2,0-2,Charlton Athletic,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Burnley FC,1-0,0-0,Barnsley FC,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Sheffield Wednesday,0-1,0-0,Nottingham Forest,2013-12-07T15:00Z
+19,Sat Dec 7 2013,15:00,GMT/+0000,Queens Park Rangers,0-0,0-0,Blackburn Rovers,2013-12-07T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Huddersfield Town,0-1,0-1,Reading FC,2013-12-14T15:00Z
+20,Sat Dec 14 2013,12:15,GMT/+0000,Leicester City,1-1,1-0,Burnley FC,2013-12-14T12:15Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Charlton Athletic,0-2,0-1,Derby County,2013-12-14T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Blackburn Rovers,3-2,1-1,Millwall FC,2013-12-14T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,AFC Bournemouth,0-2,0-2,Birmingham City,2013-12-14T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Barnsley FC,1-1,1-1,Yeovil Town,2013-12-14T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Middlesbrough FC,0-1,0-0,Brighton & Hove Albion,2013-12-14T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Watford FC,0-1,0-1,Sheffield Wednesday,2013-12-14T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Ipswich Town,2013-12-14T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Blackpool FC,0-2,0-0,Queens Park Rangers,2013-12-14T15:00Z
+20,Sat Dec 14 2013,15:00,GMT/+0000,Doncaster Rovers,0-3,0-1,Leeds United,2013-12-14T15:00Z
+20,Sun Dec 15 2013,15:00,GMT/+0000,Wigan Athletic,3-2,2-0,Bolton Wanderers,2013-12-15T15:00Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Leeds United,0-0,0-0,Barnsley FC,2013-12-21T15:00Z
+21,Sat Dec 21 2013,12:15,GMT/+0000,Queens Park Rangers,0-1,0-1,Leicester City,2013-12-21T12:15Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Derby County,3-1,1-0,Doncaster Rovers,2013-12-21T15:00Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Sheffield Wednesday,1-2,0-2,AFC Bournemouth,2013-12-21T15:00Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Brighton & Hove Albion,0-0,0-0,Huddersfield Town,2013-12-21T15:00Z
+21,Sat Dec 21 2013,17:30,GMT/+0000,Millwall FC,0-2,0-0,Middlesbrough FC,2013-12-21T17:30Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Birmingham City,0-0,0-0,Nottingham Forest,2013-12-21T15:00Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Yeovil Town,0-1,0-0,Blackburn Rovers,2013-12-21T15:00Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Bolton Wanderers,1-1,1-1,Charlton Athletic,2013-12-21T15:00Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Burnley FC,2-1,1-1,Blackpool FC,2013-12-21T15:00Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Reading FC,1-2,0-2,Wigan Athletic,2013-12-21T15:00Z
+21,Sat Dec 21 2013,15:00,GMT/+0000,Ipswich Town,1-1,0-0,Watford FC,2013-12-21T15:00Z
+22,Thu Dec 26 2013,15:00,GMT/+0000,Barnsley FC,0-1,0-0,Bolton Wanderers,2013-12-26T15:00Z
+22,Thu Dec 26 2013,12:30,GMT/+0000,Charlton Athletic,3-2,1-1,Brighton & Hove Albion,2013-12-26T12:30Z
+22,Thu Dec 26 2013,13:00,GMT/+0000,Watford FC,4-0,2-0,Millwall FC,2013-12-26T13:00Z
+22,Thu Dec 26 2013,15:00,GMT/+0000,Leicester City,1-0,1-0,Reading FC,2013-12-26T15:00Z
+22,Thu Dec 26 2013,15:00,GMT/+0000,Middlesbrough FC,1-0,1-0,Burnley FC,2013-12-26T15:00Z
+22,Thu Dec 26 2013,15:00,GMT/+0000,Blackburn Rovers,0-0,0-0,Sheffield Wednesday,2013-12-26T15:00Z
+22,Thu Dec 26 2013,19:30,GMT/+0000,Nottingham Forest,2-0,1-0,Queens Park Rangers,2013-12-26T19:30Z
+22,Thu Dec 26 2013,15:00,GMT/+0000,AFC Bournemouth,3-0,0-0,Yeovil Town,2013-12-26T15:00Z
+22,Thu Dec 26 2013,15:00,GMT/+0000,Huddersfield Town,1-1,0-1,Derby County,2013-12-26T15:00Z
+22,Thu Dec 26 2013,15:00,GMT/+0000,Wigan Athletic,0-0,0-0,Birmingham City,2013-12-26T15:00Z
+22,Thu Dec 26 2013,15:00,GMT/+0000,Doncaster Rovers,0-3,0-2,Ipswich Town,2013-12-26T15:00Z
+22,Thu Dec 26 2013,17:15,GMT/+0000,Blackpool FC,1-1,0-1,Leeds United,2013-12-26T17:15Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Huddersfield Town,5-1,3-1,Yeovil Town,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Leicester City,5-3,3-3,Bolton Wanderers,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Barnsley FC,1-2,0-1,Derby County,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,AFC Bournemouth,1-1,0-0,Ipswich Town,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Nottingham Forest,2-1,1-0,Leeds United,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Charlton Athletic,1-1,0-0,Sheffield Wednesday,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Middlesbrough FC,3-0,2-0,Reading FC,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Doncaster Rovers,0-0,0-0,Millwall FC,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Watford FC,0-0,0-0,Queens Park Rangers,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Blackburn Rovers,2-3,0-3,Birmingham City,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Wigan Athletic,0-0,0-0,Burnley FC,2013-12-29T15:00Z
+23,Sun Dec 29 2013,15:00,GMT/+0000,Blackpool FC,0-1,0-1,Brighton & Hove Albion,2013-12-29T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Leeds United,1-2,0-2,Blackburn Rovers,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Ipswich Town,1-1,1-0,Charlton Athletic,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Sheffield Wednesday,2-0,0-0,Blackpool FC,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Birmingham City,1-1,1-0,Barnsley FC,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Derby County,0-1,0-0,Wigan Athletic,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Burnley FC,3-2,2-1,Huddersfield Town,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Queens Park Rangers,2-1,0-1,Doncaster Rovers,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Millwall FC,1-3,0-1,Leicester City,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Brighton & Hove Albion,1-1,0-1,AFC Bournemouth,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Reading FC,1-1,0-1,Nottingham Forest,2014-01-01T15:00Z
+24,Wed Jan 1 2014,15:00,GMT/+0000,Bolton Wanderers,2-2,1-2,Middlesbrough FC,2014-01-01T15:00Z
+25,Fri Jan 10 2014,19:45,GMT/+0000,Leicester City,4-1,1-0,Derby County,2014-01-10T19:45Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Ipswich Town,1-3,0-0,Queens Park Rangers,2014-01-11T15:00Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Watford FC,0-1,0-1,Reading FC,2014-01-11T15:00Z
+25,Sat Jan 11 2014,12:15,GMT/+0000,Sheffield Wednesday,6-0,2-0,Leeds United,2014-01-11T12:15Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Yeovil Town,1-2,0-1,Burnley FC,2014-01-11T15:00Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Bolton Wanderers,1-1,0-0,Nottingham Forest,2014-01-11T15:00Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Wigan Athletic,3-0,1-0,AFC Bournemouth,2014-01-11T15:00Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Brighton & Hove Albion,1-0,0-0,Birmingham City,2014-01-11T15:00Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Blackpool FC,0-2,0-0,Middlesbrough FC,2014-01-11T15:00Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Huddersfield Town,1-0,0-0,Millwall FC,2014-01-11T15:00Z
+25,Sat Jan 11 2014,15:00,GMT/+0000,Blackburn Rovers,1-0,1-0,Doncaster Rovers,2014-01-11T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Birmingham City,0-2,0-2,Yeovil Town,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Reading FC,7-1,4-0,Bolton Wanderers,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Middlesbrough FC,1-0,1-0,Charlton Athletic,2014-01-18T15:00Z
+26,Sat Jan 18 2014,12:15,GMT/+0000,Leeds United,0-1,0-0,Leicester City,2014-01-18T12:15Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Burnley FC,1-1,1-1,Sheffield Wednesday,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Millwall FC,1-0,1-0,Ipswich Town,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Nottingham Forest,4-1,2-1,Blackburn Rovers,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Derby County,1-0,0-0,Brighton & Hove Albion,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Barnsley FC,2-0,1-0,Blackpool FC,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Queens Park Rangers,2-1,0-0,Huddersfield Town,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,Doncaster Rovers,3-0,1-0,Wigan Athletic,2014-01-18T15:00Z
+26,Sat Jan 18 2014,15:00,GMT/+0000,AFC Bournemouth,1-1,0-1,Watford FC,2014-01-18T15:00Z
+27,Sat Jan 25 2014,15:00,GMT/+0000,Blackburn Rovers,1-1,0-0,Derby County,2014-01-25T15:00Z
+27,Sat Jan 25 2014,15:00,GMT/+0000,Blackpool FC,1-1,0-0,Doncaster Rovers,2014-01-25T15:00Z
+27,Sat Jan 25 2014,15:00,GMT/+0000,Ipswich Town,2-0,0-0,Reading FC,2014-01-25T15:00Z
+27,Sat Jan 25 2014,15:00,GMT/+0000,Leicester City,2-0,0-0,Middlesbrough FC,2014-01-25T15:00Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Leeds United,1-1,0-0,Ipswich Town,2014-01-28T19:45Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Birmingham City,1-2,0-1,Leicester City,2014-01-28T19:45Z
+28,Tue Jan 28 2014,20:00,GMT/+0000,Reading FC,5-1,2-0,Blackpool FC,2014-01-28T20:00Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Middlesbrough FC,0-0,0-0,Wigan Athletic,2014-01-28T19:45Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Millwall FC,1-1,0-0,Sheffield Wednesday,2014-01-28T19:45Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Doncaster Rovers,3-0,2-0,Charlton Athletic,2014-01-28T19:45Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Burnley FC,0-0,0-0,Brighton & Hove Albion,2014-01-28T19:45Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Queens Park Rangers,2-1,1-0,Bolton Wanderers,2014-01-28T19:45Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Barnsley FC,2-2,1-2,Blackburn Rovers,2014-01-28T19:45Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,AFC Bournemouth,2-1,0-0,Huddersfield Town,2014-01-28T19:45Z
+28,Tue Jan 28 2014,19:45,GMT/+0000,Derby County,3-2,0-2,Yeovil Town,2014-01-28T19:45Z
+28,Thu Jan 30 2014,19:45,GMT/+0000,Nottingham Forest,4-2,0-1,Watford FC,2014-01-30T19:45Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,Millwall FC,0-3,0-1,Reading FC,2014-02-01T15:00Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,Ipswich Town,1-0,0-0,Bolton Wanderers,2014-02-01T15:00Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,Wigan Athletic,2-1,0-1,Charlton Athletic,2014-02-01T15:00Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,Blackburn Rovers,2-0,1-0,Blackpool FC,2014-02-01T15:00Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,Doncaster Rovers,0-0,0-0,Middlesbrough FC,2014-02-01T15:00Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,AFC Bournemouth,0-1,0-0,Leicester City,2014-02-01T15:00Z
+29,Sat Feb 1 2014,12:15,GMT/+0000,Queens Park Rangers,3-3,2-1,Burnley FC,2014-02-01T12:15Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Barnsley FC,2014-02-01T15:00Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,Leeds United,5-1,1-1,Huddersfield Town,2014-02-01T15:00Z
+29,Sat Feb 1 2014,15:00,GMT/+0000,Birmingham City,3-3,0-0,Derby County,2014-02-01T15:00Z
+29,Sun Feb 2 2014,15:00,GMT/+0000,Nottingham Forest,3-1,2-1,Yeovil Town,2014-02-02T15:00Z
+29,Sun Feb 2 2014,15:00,GMT/+0000,Watford FC,2-0,1-0,Brighton & Hove Albion,2014-02-02T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Reading FC,0-2,0-1,Sheffield Wednesday,2014-02-08T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Brighton & Hove Albion,1-0,0-0,Doncaster Rovers,2014-02-08T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Middlesbrough FC,0-0,0-0,Blackburn Rovers,2014-02-08T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Burnley FC,3-1,2-1,Millwall FC,2014-02-08T15:00Z
+30,Sat Feb 8 2014,12:15,GMT/+0000,Yeovil Town,1-2,1-0,Leeds United,2014-02-08T12:15Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Bolton Wanderers,2-2,2-1,AFC Bournemouth,2014-02-08T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Barnsley FC,2-2,1-0,Ipswich Town,2014-02-08T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Leicester City,2-2,1-2,Watford FC,2014-02-08T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Charlton Athletic,0-2,0-1,Birmingham City,2014-02-08T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Huddersfield Town,1-0,0-0,Wigan Athletic,2014-02-08T15:00Z
+30,Sat Feb 8 2014,15:00,GMT/+0000,Blackpool FC,1-1,0-1,Nottingham Forest,2014-02-08T15:00Z
+30,Mon Feb 10 2014,19:45,GMT/+0000,Derby County,1-0,1-0,Queens Park Rangers,2014-02-10T19:45Z
+27,Tue Feb 11 2014,19:45,GMT/+0000,Watford FC,1-0,1-0,Birmingham City,2014-02-11T19:45Z
+27,Tue Feb 11 2014,19:45,GMT/+0000,Brighton & Hove Albion,1-0,0-0,Leeds United,2014-02-11T19:45Z
+27,Tue Feb 11 2014,19:45,GMT/+0000,Huddersfield Town,0-3,0-0,Nottingham Forest,2014-02-11T19:45Z
+7,Tue Feb 11 2014,19:45,GMT/+0000,Sheffield Wednesday,0-3,0-2,Wigan Athletic,2014-02-11T19:45Z
+27,Tue Feb 11 2014,20:00,GMT/+0000,Bolton Wanderers,0-1,0-0,Burnley FC,2014-02-11T20:00Z
+27,Tue Feb 11 2014,19:45,GMT/+0000,Yeovil Town,1-1,0-0,Millwall FC,2014-02-11T19:45Z
+31,Sat Feb 15 2014,15:00,GMT/+0000,Ipswich Town,0-0,0-0,Blackpool FC,2014-02-15T15:00Z
+31,Sat Feb 15 2014,15:00,GMT/+0000,Millwall FC,1-1,0-1,Bolton Wanderers,2014-02-15T15:00Z
+31,Sat Feb 15 2014,15:00,GMT/+0000,AFC Bournemouth,1-1,0-0,Burnley FC,2014-02-15T15:00Z
+31,Sat Feb 15 2014,15:00,GMT/+0000,Doncaster Rovers,2-2,1-1,Barnsley FC,2014-02-15T15:00Z
+31,Sat Feb 15 2014,15:00,GMT/+0000,Birmingham City,1-2,0-1,Huddersfield Town,2014-02-15T15:00Z
+31,Sat Feb 15 2014,15:00,GMT/+0000,Watford FC,1-0,0-0,Middlesbrough FC,2014-02-15T15:00Z
+31,Sun Feb 16 2014,15:30,GMT/+0000,Queens Park Rangers,1-3,1-1,Reading FC,2014-02-16T15:30Z
+27,Tue Feb 18 2014,19:45,GMT/+0000,Wigan Athletic,2-0,2-0,Barnsley FC,2014-02-18T19:45Z
+31,Tue Feb 18 2014,19:45,GMT/+0000,Sheffield Wednesday,0-1,0-0,Derby County,2014-02-18T19:45Z
+24,Tue Feb 18 2014,19:45,GMT/+0000,Yeovil Town,0-0,0-0,Watford FC,2014-02-18T19:45Z
+31,Wed Feb 19 2014,19:45,GMT/+0000,Nottingham Forest,2-2,2-1,Leicester City,2014-02-19T19:45Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Huddersfield Town,0-2,0-1,Sheffield Wednesday,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Blackpool FC,1-2,1-0,Birmingham City,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Charlton Athletic,1-0,0-0,Queens Park Rangers,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Barnsley FC,1-0,1-0,Millwall FC,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Yeovil Town,1-0,0-0,Doncaster Rovers,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Reading FC,0-1,0-1,Blackburn Rovers,2014-02-22T15:00Z
+32,Sat Feb 22 2014,12:15,GMT/+0000,Middlesbrough FC,0-0,0-0,Leeds United,2014-02-22T12:15Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Burnley FC,3-1,3-0,Nottingham Forest,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Bolton Wanderers,2-0,2-0,Watford FC,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Derby County,1-0,0-0,AFC Bournemouth,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Leicester City,3-0,2-0,Ipswich Town,2014-02-22T15:00Z
+32,Sat Feb 22 2014,15:00,GMT/+0000,Brighton & Hove Albion,1-2,0-1,Wigan Athletic,2014-02-22T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Bolton Wanderers,4-0,2-0,Blackburn Rovers,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Leicester City,3-0,1-0,Charlton Athletic,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Ipswich Town,1-0,1-0,Birmingham City,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Sheffield Wednesday,1-0,0-0,Middlesbrough FC,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Huddersfield Town,5-0,2-0,Barnsley FC,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,AFC Bournemouth,5-0,2-0,Doncaster Rovers,2014-03-01T15:00Z
+33,Sat Mar 1 2014,12:15,GMT/+0000,Queens Park Rangers,1-1,1-1,Leeds United,2014-03-01T12:15Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Reading FC,1-1,0-1,Yeovil Town,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Watford FC,4-0,3-0,Blackpool FC,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Nottingham Forest,1-4,0-1,Wigan Athletic,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Burnley FC,2-0,1-0,Derby County,2014-03-01T15:00Z
+33,Sat Mar 1 2014,15:00,GMT/+0000,Millwall FC,0-1,0-1,Brighton & Hove Albion,2014-03-01T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Yeovil Town,2-0,1-0,Sheffield Wednesday,2014-03-08T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Birmingham City,0-2,0-1,Queens Park Rangers,2014-03-08T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Barnsley FC,1-0,0-0,Nottingham Forest,2014-03-08T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Derby County,0-1,0-0,Millwall FC,2014-03-08T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Blackpool FC,0-1,0-0,AFC Bournemouth,2014-03-08T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Doncaster Rovers,2-0,1-0,Huddersfield Town,2014-03-08T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Leeds United,1-5,0-1,Bolton Wanderers,2014-03-08T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Middlesbrough FC,2-0,2-0,Ipswich Town,2014-03-08T15:00Z
+34,Sat Mar 8 2014,15:00,GMT/+0000,Brighton & Hove Albion,1-1,1-0,Reading FC,2014-03-08T15:00Z
+34,Sun Mar 9 2014,12:30,GMT/+0000,Blackburn Rovers,1-2,1-0,Burnley FC,2014-03-09T12:30Z
+35,Tue Mar 11 2014,19:45,GMT/+0000,Yeovil Town,0-1,0-1,Ipswich Town,2014-03-11T19:45Z
+35,Tue Mar 11 2014,19:45,GMT/+0000,Middlesbrough FC,1-1,0-0,Nottingham Forest,2014-03-11T19:45Z
+35,Tue Mar 11 2014,19:45,GMT/+0000,Brighton & Hove Albion,2-0,0-0,Queens Park Rangers,2014-03-11T19:45Z
+35,Tue Mar 11 2014,20:15,GMT/+0000,Leeds United,2-4,0-0,Reading FC,2014-03-11T20:15Z
+35,Tue Mar 11 2014,20:00,GMT/+0000,Blackpool FC,1-0,0-0,Millwall FC,2014-03-11T20:00Z
+35,Tue Mar 11 2014,19:45,GMT/+0000,Doncaster Rovers,2-1,0-0,Watford FC,2014-03-11T19:45Z
+35,Tue Mar 11 2014,19:45,GMT/+0000,Derby County,0-0,0-0,Bolton Wanderers,2014-03-11T19:45Z
+35,Tue Mar 11 2014,19:45,GMT/+0000,Barnsley FC,0-3,0-0,Leicester City,2014-03-11T19:45Z
+35,Wed Mar 12 2014,19:45,GMT/+0000,Birmingham City,3-3,0-1,Burnley FC,2014-03-12T19:45Z
+35,Wed Mar 12 2014,19:45,GMT/+0000,Wigan Athletic,1-0,0-0,Sheffield Wednesday,2014-03-12T19:45Z
+35,Wed Mar 12 2014,19:45,GMT/+0000,Charlton Athletic,0-0,0-0,Huddersfield Town,2014-03-12T19:45Z
+35,Wed Mar 12 2014,19:45,GMT/+0000,Blackburn Rovers,0-1,0-0,AFC Bournemouth,2014-03-12T19:45Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Ipswich Town,1-3,1-2,Wigan Athletic,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Queens Park Rangers,3-0,1-0,Yeovil Town,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Sheffield Wednesday,4-1,2-0,Birmingham City,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Leicester City,3-1,0-1,Blackpool FC,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Watford FC,3-0,2-0,Barnsley FC,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Nottingham Forest,0-0,0-0,Doncaster Rovers,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Huddersfield Town,2-4,1-1,Blackburn Rovers,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,AFC Bournemouth,0-0,0-0,Middlesbrough FC,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Burnley FC,2-1,1-1,Leeds United,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Reading FC,0-0,0-0,Derby County,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Millwall FC,0-0,0-0,Charlton Athletic,2014-03-15T15:00Z
+36,Sat Mar 15 2014,15:00,GMT/+0000,Bolton Wanderers,0-2,0-1,Brighton & Hove Albion,2014-03-15T15:00Z
+27,Tue Mar 18 2014,19:45,GMT/+0000,Charlton Athletic,1-0,0-0,AFC Bournemouth,2014-03-18T19:45Z
+31,Tue Mar 18 2014,19:45,GMT/+0000,Wigan Athletic,3-3,0-0,Yeovil Town,2014-03-18T19:45Z
+27,Tue Mar 18 2014,19:45,GMT/+0000,Sheffield Wednesday,3-0,1-0,Queens Park Rangers,2014-03-18T19:45Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Blackburn Rovers,1-1,1-1,Leicester City,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Doncaster Rovers,1-0,1-0,Sheffield Wednesday,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Birmingham City,1-2,1-1,Reading FC,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Yeovil Town,2-2,2-0,Bolton Wanderers,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Leeds United,2-1,2-0,Millwall FC,2014-03-22T15:00Z
+37,Sat Mar 22 2014,12:15,GMT/+0000,Derby County,5-0,3-0,Nottingham Forest,2014-03-22T12:15Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Middlesbrough FC,1-3,1-1,Queens Park Rangers,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Wigan Athletic,2-1,1-1,Watford FC,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Charlton Athletic,0-3,0-1,Burnley FC,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Blackpool FC,1-0,1-0,Huddersfield Town,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Barnsley FC,0-1,0-0,AFC Bournemouth,2014-03-22T15:00Z
+37,Sat Mar 22 2014,15:00,GMT/+0000,Brighton & Hove Albion,0-2,0-0,Ipswich Town,2014-03-22T15:00Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Leicester City,1-1,0-1,Yeovil Town,2014-03-25T19:45Z
+38,Tue Mar 25 2014,20:00,GMT/+0000,Reading FC,1-3,1-1,Barnsley FC,2014-03-25T20:00Z
+38,Tue Mar 25 2014,20:00,GMT/+0000,Bolton Wanderers,1-0,1-0,Blackpool FC,2014-03-25T20:00Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Millwall FC,2-3,1-2,Birmingham City,2014-03-25T19:45Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Queens Park Rangers,1-0,1-0,Wigan Athletic,2014-03-25T19:45Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Sheffield Wednesday,1-0,0-0,Brighton & Hove Albion,2014-03-25T19:45Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Ipswich Town,2-1,0-1,Derby County,2014-03-25T19:45Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Burnley FC,2-0,0-0,Doncaster Rovers,2014-03-25T19:45Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Nottingham Forest,0-1,0-0,Charlton Athletic,2014-03-25T19:45Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Huddersfield Town,2-2,2-1,Middlesbrough FC,2014-03-25T19:45Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,Watford FC,3-3,1-1,Blackburn Rovers,2014-03-25T19:45Z
+38,Tue Mar 25 2014,19:45,GMT/+0000,AFC Bournemouth,4-1,3-0,Leeds United,2014-03-25T19:45Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Birmingham City,2-4,0-3,AFC Bournemouth,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Ipswich Town,1-1,0-1,Nottingham Forest,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Bolton Wanderers,1-1,1-0,Wigan Athletic,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Queens Park Rangers,1-1,0-1,Blackpool FC,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Millwall FC,2-2,0-0,Blackburn Rovers,2014-03-29T15:00Z
+39,Sat Mar 29 2014,12:15,GMT/+0000,Burnley FC,0-2,0-1,Leicester City,2014-03-29T12:15Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Leeds United,1-2,0-2,Doncaster Rovers,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Brighton & Hove Albion,0-2,0-0,Middlesbrough FC,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Yeovil Town,1-4,0-0,Barnsley FC,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Sheffield Wednesday,1-4,0-2,Watford FC,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Reading FC,1-1,1-1,Huddersfield Town,2014-03-29T15:00Z
+39,Sat Mar 29 2014,15:00,GMT/+0000,Derby County,3-0,2-0,Charlton Athletic,2014-03-29T15:00Z
+31,Tue Apr 1 2014,19:45,BST/+0100,Leeds United,0-1,0-0,Charlton Athletic,2014-04-01T18:45Z
+31,Tue Apr 1 2014,19:45,BST/+0100,Blackburn Rovers,3-3,2-1,Brighton & Hove Albion,2014-04-01T18:45Z
+34,Tue Apr 1 2014,19:45,BST/+0100,Wigan Athletic,2-2,1-1,Leicester City,2014-04-01T18:45Z
+40,Fri Apr 4 2014,19:45,BST/+0100,Leicester City,2-1,1-1,Sheffield Wednesday,2014-04-04T18:45Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Watford FC,1-1,1-0,Burnley FC,2014-04-05T14:00Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Charlton Athletic,0-1,0-0,Reading FC,2014-04-05T14:00Z
+40,Sat Apr 5 2014,12:15,BST/+0100,Wigan Athletic,1-0,1-0,Leeds United,2014-04-05T11:15Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Doncaster Rovers,1-3,1-0,Birmingham City,2014-04-05T14:00Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Huddersfield Town,0-1,0-0,Bolton Wanderers,2014-04-05T14:00Z
+40,Sat Apr 5 2014,15:00,BST/+0100,AFC Bournemouth,2-1,1-0,Queens Park Rangers,2014-04-05T14:00Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Nottingham Forest,1-2,0-2,Millwall FC,2014-04-05T14:00Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Barnsley FC,0-0,0-0,Brighton & Hove Albion,2014-04-05T14:00Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Blackburn Rovers,2-0,0-0,Ipswich Town,2014-04-05T14:00Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Blackpool FC,1-2,0-1,Yeovil Town,2014-04-05T14:00Z
+40,Sat Apr 5 2014,15:00,BST/+0100,Middlesbrough FC,1-0,0-0,Derby County,2014-04-05T14:00Z
+41,Tue Apr 8 2014,20:00,BST/+0100,Blackpool FC,1-3,1-3,Derby County,2014-04-08T19:00Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Wigan Athletic,0-1,0-1,Millwall FC,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Middlesbrough FC,3-1,2-1,Birmingham City,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Leicester City,1-4,0-2,Brighton & Hove Albion,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Watford FC,3-0,2-0,Leeds United,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Nottingham Forest,3-3,1-2,Sheffield Wednesday,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Blackburn Rovers,2-0,1-0,Queens Park Rangers,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,AFC Bournemouth,3-1,3-0,Reading FC,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Huddersfield Town,0-2,0-2,Ipswich Town,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Charlton Athletic,3-2,1-1,Yeovil Town,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Barnsley FC,0-1,0-1,Burnley FC,2014-04-08T18:45Z
+41,Tue Apr 8 2014,19:45,BST/+0100,Doncaster Rovers,1-2,1-2,Bolton Wanderers,2014-04-08T18:45Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Millwall FC,2-2,0-1,Watford FC,2014-04-12T14:07Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Derby County,3-1,1-1,Huddersfield Town,2014-04-12T14:07Z
+42,Sat Apr 12 2014,12:22,BST/+0100,Queens Park Rangers,5-2,2-1,Nottingham Forest,2014-04-12T11:22Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Brighton & Hove Albion,3-0,2-0,Charlton Athletic,2014-04-12T14:07Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Burnley FC,0-1,0-0,Middlesbrough FC,2014-04-12T14:07Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Sheffield Wednesday,3-3,1-3,Blackburn Rovers,2014-04-12T14:07Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Ipswich Town,2-1,0-0,Doncaster Rovers,2014-04-12T14:07Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Yeovil Town,1-1,1-0,AFC Bournemouth,2014-04-12T14:07Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Bolton Wanderers,1-0,1-0,Barnsley FC,2014-04-12T14:07Z
+42,Sat Apr 12 2014,15:07,BST/+0100,Leeds United,2-0,1-0,Blackpool FC,2014-04-12T14:07Z
+42,Mon Apr 14 2014,20:07,BST/+0100,Reading FC,1-1,1-1,Leicester City,2014-04-14T19:07Z
+25,Tue Apr 15 2014,19:45,BST/+0100,Charlton Athletic,1-2,0-1,Barnsley FC,2014-04-15T18:45Z
+43,Fri Apr 18 2014,17:15,BST/+0100,Blackpool FC,0-1,0-0,Burnley FC,2014-04-18T16:15Z
+43,Fri Apr 18 2014,15:00,BST/+0100,Charlton Athletic,0-0,0-0,Bolton Wanderers,2014-04-18T14:00Z
+43,Fri Apr 18 2014,15:00,BST/+0100,Huddersfield Town,1-1,1-0,Brighton & Hove Albion,2014-04-18T14:00Z
+43,Fri Apr 18 2014,15:00,BST/+0100,Blackburn Rovers,0-0,0-0,Yeovil Town,2014-04-18T14:00Z
+43,Fri Apr 18 2014,15:00,BST/+0100,AFC Bournemouth,2-4,1-2,Sheffield Wednesday,2014-04-18T14:00Z
+43,Fri Apr 18 2014,15:00,BST/+0100,Wigan Athletic,3-0,2-0,Reading FC,2014-04-18T14:00Z
+43,Fri Apr 18 2014,19:30,BST/+0100,Doncaster Rovers,0-2,0-1,Derby County,2014-04-18T18:30Z
+43,Sat Apr 19 2014,15:00,BST/+0100,Barnsley FC,0-1,0-1,Leeds United,2014-04-19T14:00Z
+43,Sat Apr 19 2014,15:00,BST/+0100,Middlesbrough FC,1-2,0-2,Millwall FC,2014-04-19T14:00Z
+43,Sat Apr 19 2014,12:15,BST/+0100,Leicester City,1-0,0-0,Queens Park Rangers,2014-04-19T11:15Z
+43,Sat Apr 19 2014,15:00,BST/+0100,Watford FC,3-1,1-0,Ipswich Town,2014-04-19T14:00Z
+43,Sat Apr 19 2014,15:00,BST/+0100,Nottingham Forest,1-0,1-0,Birmingham City,2014-04-19T14:00Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Brighton & Hove Albion,1-1,0-0,Blackpool FC,2014-04-21T14:00Z
+44,Mon Apr 21 2014,17:15,BST/+0100,Leeds United,0-2,0-2,Nottingham Forest,2014-04-21T16:15Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Yeovil Town,1-2,0-0,Huddersfield Town,2014-04-21T14:00Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Sheffield Wednesday,2-3,2-2,Charlton Athletic,2014-04-21T14:00Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Derby County,2-1,2-0,Barnsley FC,2014-04-21T14:00Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Ipswich Town,2-2,1-1,AFC Bournemouth,2014-04-21T14:00Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Birmingham City,2-4,0-4,Blackburn Rovers,2014-04-21T14:00Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Queens Park Rangers,2-1,0-0,Watford FC,2014-04-21T14:00Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Burnley FC,2-0,2-0,Wigan Athletic,2014-04-21T14:00Z
+44,Mon Apr 21 2014,15:00,BST/+0100,Millwall FC,0-0,0-0,Doncaster Rovers,2014-04-21T14:00Z
+44,Tue Apr 22 2014,20:00,BST/+0100,Bolton Wanderers,0-1,0-0,Leicester City,2014-04-22T19:00Z
+44,Tue Apr 22 2014,20:00,BST/+0100,Reading FC,2-0,2-0,Middlesbrough FC,2014-04-22T19:00Z
+45,Fri Apr 25 2014,19:45,BST/+0100,Brighton & Hove Albion,2-0,0-0,Yeovil Town,2014-04-25T18:45Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Derby County,4-2,1-1,Watford FC,2014-04-26T14:00Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Birmingham City,1-3,0-0,Leeds United,2014-04-26T14:00Z
+45,Sat Apr 26 2014,12:15,BST/+0100,Burnley FC,1-0,0-0,Ipswich Town,2014-04-26T11:15Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Sheffield Wednesday,1-3,1-3,Bolton Wanderers,2014-04-26T14:00Z
+45,Sat Apr 26 2014,15:00,BST/+0100,AFC Bournemouth,4-1,1-0,Nottingham Forest,2014-04-26T14:00Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Doncaster Rovers,1-3,1-0,Reading FC,2014-04-26T14:00Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Charlton Athletic,1-3,0-1,Blackburn Rovers,2014-04-26T14:00Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Huddersfield Town,0-2,0-1,Leicester City,2014-04-26T14:00Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Queens Park Rangers,1-1,0-0,Millwall FC,2014-04-26T14:00Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Middlesbrough FC,3-1,0-0,Barnsley FC,2014-04-26T14:00Z
+45,Sat Apr 26 2014,15:00,BST/+0100,Wigan Athletic,0-2,0-0,Blackpool FC,2014-04-26T14:00Z
+34,Tue Apr 29 2014,19:45,BST/+0100,Charlton Athletic,3-1,1-0,Watford FC,2014-04-29T18:45Z
+42,Tue Apr 29 2014,19:45,BST/+0100,Birmingham City,0-1,0-1,Wigan Athletic,2014-04-29T18:45Z
+46,Sat May 3 2014,12:15,BST/+0100,Nottingham Forest,1-2,1-0,Brighton & Hove Albion,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Bolton Wanderers,2-2,0-0,Birmingham City,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Reading FC,2-2,1-2,Burnley FC,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Blackburn Rovers,4-3,3-1,Wigan Athletic,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Watford FC,1-4,0-0,Huddersfield Town,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Leeds United,1-1,0-1,Derby County,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Leicester City,1-0,0-0,Doncaster Rovers,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Barnsley FC,2-3,0-2,Queens Park Rangers,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Ipswich Town,2-1,1-0,Sheffield Wednesday,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Yeovil Town,1-4,1-3,Middlesbrough FC,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Blackpool FC,0-3,0-0,Charlton Athletic,2014-05-03T11:15Z
+46,Sat May 3 2014,12:15,BST/+0100,Millwall FC,1-0,1-0,AFC Bournemouth,2014-05-03T11:15Z
