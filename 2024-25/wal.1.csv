@@ -1,0 +1,133 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 9 2024,19:45,BST/+0100,Newtown AFC,4-1,0-1,Aberystwyth Town,2024-08-09T18:45Z
+1,Sat Aug 10 2024,14:30,BST/+0100,Flint Town United,1-2,1-1,Cardiff Metropolitan,2024-08-10T13:30Z
+1,Sat Aug 10 2024,14:30,BST/+0100,Barry Town United,1-1,1-0,Bala Town,2024-08-10T13:30Z
+1,Sun Aug 11 2024,17:10,BST/+0100,Briton Ferry Llansawel AFC,0-2,0-2,Penybont FC,2024-08-11T16:10Z
+1,Sun Aug 11 2024,14:30,BST/+0100,Connah's Quay Nomads,0-1,0-0,Haverfordwest County,2024-08-11T13:30Z
+2,Fri Aug 16 2024,20:00,BST/+0100,Aberystwyth Town,1-1,0-0,Connah's Quay Nomads,2024-08-16T19:00Z
+2,Fri Aug 16 2024,19:45,BST/+0100,Bala Town,2-0,1-0,Briton Ferry Llansawel AFC,2024-08-16T18:45Z
+2,Fri Aug 16 2024,19:45,BST/+0100,Cardiff Metropolitan,1-1,1-0,Barry Town United,2024-08-16T18:45Z
+2,Fri Aug 16 2024,19:45,BST/+0100,Flint Town United,1-4,0-2,The New Saints,2024-08-16T18:45Z
+2,Fri Aug 16 2024,19:45,BST/+0100,Penybont FC,0-0,0-0,Newtown AFC,2024-08-16T18:45Z
+2,Sat Aug 17 2024,17:15,BST/+0100,Caernarfon Town,1-2,0-0,Haverfordwest County,2024-08-17T16:15Z
+3,Fri Aug 23 2024,20:00,BST/+0100,Aberystwyth Town,1-0,1-0,Barry Town United,2024-08-23T19:00Z
+3,Fri Aug 23 2024,19:45,BST/+0100,Bala Town,2-0,1-0,Flint Town United,2024-08-23T18:45Z
+3,Fri Aug 23 2024,19:45,BST/+0100,Briton Ferry Llansawel AFC,1-5,0-2,Cardiff Metropolitan,2024-08-23T18:45Z
+3,Fri Aug 23 2024,19:45,BST/+0100,Haverfordwest County,0-0,0-0,Penybont FC,2024-08-23T18:45Z
+3,Fri Aug 23 2024,19:45,BST/+0100,Newtown AFC,0-4,0-1,Caernarfon Town,2024-08-23T18:45Z
+4,Mon Aug 26 2024,14:30,BST/+0100,Barry Town United,1-2,1-1,Newtown AFC,2024-08-26T13:30Z
+4,Mon Aug 26 2024,14:30,BST/+0100,Penybont FC,5-1,2-1,Aberystwyth Town,2024-08-26T13:30Z
+4,Mon Aug 26 2024,14:30,BST/+0100,Caernarfon Town,0-0,0-0,Bala Town,2024-08-26T13:30Z
+4,Mon Aug 26 2024,14:30,BST/+0100,Cardiff Metropolitan,0-0,0-0,Haverfordwest County,2024-08-26T13:30Z
+4,Mon Aug 26 2024,14:30,BST/+0100,Flint Town United,0-1,0-0,Connah's Quay Nomads,2024-08-26T13:30Z
+5,Fri Aug 30 2024,19:45,BST/+0100,Haverfordwest County,3-0,1-0,Newtown AFC,2024-08-30T18:45Z
+5,Sat Aug 31 2024,14:30,BST/+0100,Barry Town United,3-2,0-2,Flint Town United,2024-08-31T13:30Z
+5,Sat Aug 31 2024,14:30,BST/+0100,Caernarfon Town,1-2,1-2,Cardiff Metropolitan,2024-08-31T13:30Z
+5,Sat Aug 31 2024,14:30,BST/+0100,Briton Ferry Llansawel AFC,1-5,1-1,Connah's Quay Nomads,2024-08-31T13:30Z
+5,Sat Aug 31 2024,14:30,BST/+0100,Bala Town,1-2,1-0,Penybont FC,2024-08-31T13:30Z
+5,Tue Sep 3 2024,19:45,BST/+0100,The New Saints,2-0,0-0,Aberystwyth Town,2024-09-03T18:45Z
+6,Sat Sep 7 2024,14:30,BST/+0100,Penybont FC,2-0,1-0,Caernarfon Town,2024-09-07T13:30Z
+6,Sat Sep 7 2024,14:30,BST/+0100,Newtown AFC,1-0,0-0,Briton Ferry Llansawel AFC,2024-09-07T13:30Z
+6,Sat Sep 7 2024,17:15,BST/+0100,Aberystwyth Town,0-2,0-1,Flint Town United,2024-09-07T16:15Z
+6,Sat Sep 7 2024,14:30,BST/+0100,Bala Town,0-1,0-1,Cardiff Metropolitan,2024-09-07T13:30Z
+6,Sat Sep 7 2024,14:30,BST/+0100,Connah's Quay Nomads,1-2,1-0,Barry Town United,2024-09-07T13:30Z
+6,Sat Sep 7 2024,14:30,BST/+0100,Haverfordwest County,0-1,0-1,The New Saints,2024-09-07T13:30Z
+7,Fri Sep 13 2024,19:45,BST/+0100,Bala Town,3-0,3-0,Aberystwyth Town,2024-09-13T18:45Z
+7,Fri Sep 13 2024,19:45,BST/+0100,Newtown AFC,2-1,1-0,Cardiff Metropolitan,2024-09-13T18:45Z
+7,Sat Sep 14 2024,14:30,BST/+0100,Caernarfon Town,3-2,2-1,Briton Ferry Llansawel AFC,2024-09-14T13:30Z
+7,Sat Sep 14 2024,14:30,BST/+0100,Flint Town United,1-0,0-0,Haverfordwest County,2024-09-14T13:30Z
+7,Sat Sep 14 2024,14:30,BST/+0100,The New Saints,4-0,1-0,Barry Town United,2024-09-14T13:30Z
+7,Sun Sep 15 2024,14:30,BST/+0100,Connah's Quay Nomads,0-1,0-0,Penybont FC,2024-09-15T13:30Z
+8,Fri Sep 20 2024,19:45,BST/+0100,Bala Town,2-2,1-2,Newtown AFC,2024-09-20T18:45Z
+8,Fri Sep 20 2024,19:45,BST/+0100,Penybont FC,2-1,1-1,The New Saints,2024-09-20T18:45Z
+8,Fri Sep 20 2024,20:00,BST/+0100,Aberystwyth Town,0-3,0-0,Haverfordwest County,2024-09-20T19:00Z
+8,Sat Sep 21 2024,14:30,BST/+0100,Cardiff Metropolitan,2-1,1-1,Connah's Quay Nomads,2024-09-21T13:30Z
+8,Sat Sep 21 2024,14:30,BST/+0100,Briton Ferry Llansawel AFC,1-1,0-0,Flint Town United,2024-09-21T13:30Z
+8,Sat Sep 21 2024,14:30,BST/+0100,Barry Town United,1-1,1-1,Caernarfon Town,2024-09-21T13:30Z
+9,Tue Sep 24 2024,20:00,BST/+0100,Aberystwyth Town,,,Cardiff Metropolitan,2024-09-24T19:00Z
+9,Tue Sep 24 2024,19:45,BST/+0100,Haverfordwest County,,,Barry Town United,2024-09-24T18:45Z
+9,Tue Sep 24 2024,19:45,BST/+0100,The New Saints,,,Bala Town,2024-09-24T18:45Z
+9,Tue Sep 24 2024,19:45,BST/+0100,Connah's Quay Nomads,,,Newtown AFC,2024-09-24T18:45Z
+9,Tue Sep 24 2024,19:45,BST/+0100,Penybont FC,,,Briton Ferry Llansawel AFC,2024-09-24T18:45Z
+9,Wed Sep 25 2024,19:45,BST/+0100,Flint Town United,,,Caernarfon Town,2024-09-25T18:45Z
+10,Fri Sep 27 2024,19:45,BST/+0100,Barry Town United,,,Aberystwyth Town,2024-09-27T18:45Z
+10,Fri Sep 27 2024,19:45,BST/+0100,Newtown AFC,,,The New Saints,2024-09-27T18:45Z
+10,Fri Sep 27 2024,19:45,BST/+0100,Haverfordwest County,,,Cardiff Metropolitan,2024-09-27T18:45Z
+10,Sat Sep 28 2024,14:30,BST/+0100,Flint Town United,,,Penybont FC,2024-09-28T13:30Z
+10,Sat Sep 28 2024,14:30,BST/+0100,Briton Ferry Llansawel AFC,,,Bala Town,2024-09-28T13:30Z
+10,Sat Sep 28 2024,17:15,BST/+0100,Caernarfon Town,,,Connah's Quay Nomads,2024-09-28T16:15Z
+11,Fri Oct 4 2024,19:45,BST/+0100,Newtown AFC,,,Flint Town United,2024-10-04T18:45Z
+11,Fri Oct 4 2024,19:45,BST/+0100,Penybont FC,,,Barry Town United,2024-10-04T18:45Z
+11,Fri Oct 4 2024,19:45,BST/+0100,Connah's Quay Nomads,,,Aberystwyth Town,2024-10-04T18:45Z
+11,Fri Oct 4 2024,19:45,BST/+0100,Bala Town,,,Haverfordwest County,2024-10-04T18:45Z
+11,Sat Oct 5 2024,14:30,BST/+0100,Cardiff Metropolitan,,,Caernarfon Town,2024-10-05T13:30Z
+11,Sun Oct 6 2024,14:30,BST/+0100,Briton Ferry Llansawel AFC,,,The New Saints,2024-10-06T13:30Z
+1,Wed Oct 9 2024,19:45,BST/+0100,The New Saints,,,Caernarfon Town,2024-10-09T18:45Z
+12,Sat Oct 12 2024,14:30,BST/+0100,Haverfordwest County,,,Connah's Quay Nomads,2024-10-12T13:30Z
+12,Sat Oct 12 2024,14:30,BST/+0100,The New Saints,,,Cardiff Metropolitan,2024-10-12T13:30Z
+12,Sat Oct 12 2024,14:30,BST/+0100,Aberystwyth Town,,,Penybont FC,2024-10-12T13:30Z
+12,Sat Oct 12 2024,14:30,BST/+0100,Barry Town United,,,Briton Ferry Llansawel AFC,2024-10-12T13:30Z
+12,Sat Oct 12 2024,14:30,BST/+0100,Caernarfon Town,,,Newtown AFC,2024-10-12T13:30Z
+12,Sat Oct 12 2024,14:30,BST/+0100,Flint Town United,,,Bala Town,2024-10-12T13:30Z
+13,Tue Oct 15 2024,19:45,BST/+0100,Newtown AFC,,,Barry Town United,2024-10-15T18:45Z
+13,Tue Oct 15 2024,19:45,BST/+0100,The New Saints,,,Flint Town United,2024-10-15T18:45Z
+13,Tue Oct 15 2024,19:45,BST/+0100,Bala Town,,,Connah's Quay Nomads,2024-10-15T18:45Z
+13,Tue Oct 15 2024,19:45,BST/+0100,Briton Ferry Llansawel AFC,,,Haverfordwest County,2024-10-15T18:45Z
+13,Tue Oct 15 2024,19:45,BST/+0100,Caernarfon Town,,,Aberystwyth Town,2024-10-15T18:45Z
+13,Tue Oct 15 2024,19:45,BST/+0100,Cardiff Metropolitan,,,Penybont FC,2024-10-15T18:45Z
+14,Fri Oct 25 2024,19:45,BST/+0100,Aberystwyth Town,,,The New Saints,2024-10-25T18:45Z
+14,Fri Oct 25 2024,19:45,BST/+0100,Cardiff Metropolitan,,,Newtown AFC,2024-10-25T18:45Z
+14,Sat Oct 26 2024,14:30,BST/+0100,Penybont FC,,,Bala Town,2024-10-26T13:30Z
+14,Sat Oct 26 2024,14:30,BST/+0100,Flint Town United,,,Barry Town United,2024-10-26T13:30Z
+14,Sat Oct 26 2024,14:30,BST/+0100,Haverfordwest County,,,Caernarfon Town,2024-10-26T13:30Z
+14,Sun Oct 27 2024,14:30,GMT/+0000,Connah's Quay Nomads,,,Briton Ferry Llansawel AFC,2024-10-27T14:30Z
+3,Wed Oct 30 2024,19:45,GMT/+0000,Connah's Quay Nomads,,,The New Saints,2024-10-30T19:45Z
+15,Fri Nov 1 2024,19:45,GMT/+0000,Briton Ferry Llansawel AFC,,,Aberystwyth Town,2024-11-01T19:45Z
+15,Sat Nov 2 2024,14:30,GMT/+0000,Newtown AFC,,,Bala Town,2024-11-02T14:30Z
+15,Sat Nov 2 2024,14:30,GMT/+0000,Barry Town United,,,The New Saints,2024-11-02T14:30Z
+15,Sat Nov 2 2024,14:30,GMT/+0000,Caernarfon Town,,,Penybont FC,2024-11-02T14:30Z
+15,Sat Nov 2 2024,14:30,GMT/+0000,Connah's Quay Nomads,,,Cardiff Metropolitan,2024-11-02T14:30Z
+15,Sat Nov 2 2024,14:30,GMT/+0000,Haverfordwest County,,,Flint Town United,2024-11-02T14:30Z
+16,Fri Nov 8 2024,19:45,GMT/+0000,Aberystwyth Town,,,Newtown AFC,2024-11-08T19:45Z
+16,Sat Nov 9 2024,14:30,GMT/+0000,Barry Town United,,,Connah's Quay Nomads,2024-11-09T14:30Z
+16,Sat Nov 9 2024,14:30,GMT/+0000,Cardiff Metropolitan,,,Bala Town,2024-11-09T14:30Z
+16,Sat Nov 9 2024,14:30,GMT/+0000,Penybont FC,,,Flint Town United,2024-11-09T14:30Z
+16,Sat Nov 9 2024,14:30,GMT/+0000,Briton Ferry Llansawel AFC,,,Caernarfon Town,2024-11-09T14:30Z
+16,Sat Nov 9 2024,14:30,GMT/+0000,The New Saints,,,Haverfordwest County,2024-11-09T14:30Z
+17,Sat Nov 23 2024,14:30,GMT/+0000,The New Saints,,,Penybont FC,2024-11-23T14:30Z
+17,Sat Nov 23 2024,14:30,GMT/+0000,Caernarfon Town,,,Barry Town United,2024-11-23T14:30Z
+17,Sat Nov 23 2024,14:30,GMT/+0000,Cardiff Metropolitan,,,Aberystwyth Town,2024-11-23T14:30Z
+17,Sat Nov 23 2024,14:30,GMT/+0000,Flint Town United,,,Briton Ferry Llansawel AFC,2024-11-23T14:30Z
+17,Sat Nov 23 2024,14:30,GMT/+0000,Haverfordwest County,,,Bala Town,2024-11-23T14:30Z
+17,Sat Nov 23 2024,14:30,GMT/+0000,Newtown AFC,,,Connah's Quay Nomads,2024-11-23T14:30Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Bala Town,,,The New Saints,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Barry Town United,,,Cardiff Metropolitan,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Briton Ferry Llansawel AFC,,,Newtown AFC,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Penybont FC,,,Haverfordwest County,2024-12-03T19:45Z
+18,Tue Dec 3 2024,19:45,GMT/+0000,Connah's Quay Nomads,,,Caernarfon Town,2024-12-03T19:45Z
+18,Wed Dec 4 2024,19:45,GMT/+0000,Flint Town United,,,Aberystwyth Town,2024-12-04T19:45Z
+19,Fri Dec 6 2024,19:45,GMT/+0000,Haverfordwest County,,,Briton Ferry Llansawel AFC,2024-12-06T19:45Z
+19,Fri Dec 6 2024,19:45,GMT/+0000,The New Saints,,,Newtown AFC,2024-12-06T19:45Z
+19,Sat Dec 7 2024,14:30,GMT/+0000,Penybont FC,,,Connah's Quay Nomads,2024-12-07T14:30Z
+19,Sat Dec 7 2024,14:30,GMT/+0000,Aberystwyth Town,,,Caernarfon Town,2024-12-07T14:30Z
+19,Sat Dec 7 2024,14:30,GMT/+0000,Bala Town,,,Barry Town United,2024-12-07T14:30Z
+19,Sat Dec 7 2024,14:30,GMT/+0000,Cardiff Metropolitan,,,Flint Town United,2024-12-07T14:30Z
+4,Sun Dec 22 2024,14:30,GMT/+0000,The New Saints,,,Briton Ferry Llansawel AFC,2024-12-22T14:30Z
+20,Thu Dec 26 2024,12:30,GMT/+0000,Cardiff Metropolitan,,,Briton Ferry Llansawel AFC,2024-12-26T12:30Z
+20,Thu Dec 26 2024,14:30,GMT/+0000,Aberystwyth Town,,,Bala Town,2024-12-26T14:30Z
+20,Thu Dec 26 2024,14:30,GMT/+0000,Caernarfon Town,,,The New Saints,2024-12-26T14:30Z
+20,Thu Dec 26 2024,14:30,GMT/+0000,Connah's Quay Nomads,,,Flint Town United,2024-12-26T14:30Z
+20,Thu Dec 26 2024,14:30,GMT/+0000,Newtown AFC,,,Haverfordwest County,2024-12-26T14:30Z
+20,Thu Dec 26 2024,12:30,GMT/+0000,Barry Town United,,,Penybont FC,2024-12-26T12:30Z
+21,Tue Dec 31 2024,19:45,GMT/+0000,The New Saints,,,Connah's Quay Nomads,2024-12-31T19:45Z
+21,Tue Dec 31 2024,12:30,GMT/+0000,Bala Town,,,Caernarfon Town,2024-12-31T12:30Z
+21,Wed Jan 1 2025,14:30,GMT/+0000,Briton Ferry Llansawel AFC,,,Barry Town United,2025-01-01T14:30Z
+21,Wed Jan 1 2025,14:30,GMT/+0000,Flint Town United,,,Newtown AFC,2025-01-01T14:30Z
+21,Wed Jan 1 2025,14:30,GMT/+0000,Haverfordwest County,,,Aberystwyth Town,2025-01-01T14:30Z
+21,Wed Jan 1 2025,14:30,GMT/+0000,Penybont FC,,,Cardiff Metropolitan,2025-01-01T14:30Z
+22,Sat Jan 11 2025,14:30,GMT/+0000,Barry Town United,,,Haverfordwest County,2025-01-11T14:30Z
+22,Sat Jan 11 2025,14:30,GMT/+0000,Caernarfon Town,,,Flint Town United,2025-01-11T14:30Z
+22,Sat Jan 11 2025,14:30,GMT/+0000,Cardiff Metropolitan,,,The New Saints,2025-01-11T14:30Z
+22,Sat Jan 11 2025,14:30,GMT/+0000,Connah's Quay Nomads,,,Bala Town,2025-01-11T14:30Z
+22,Sat Jan 11 2025,14:30,GMT/+0000,Newtown AFC,,,Penybont FC,2025-01-11T14:30Z
+22,Sat Jan 11 2025,14:30,GMT/+0000,Aberystwyth Town,,,Briton Ferry Llansawel AFC,2025-01-11T14:30Z

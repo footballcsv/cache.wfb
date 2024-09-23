@@ -47,14 +47,14 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 6,Sun Sep 15 2024,16:00,CEST/+0200,F91 Dudelange,2-4,1-1,RFCU Luxemburg,2024-09-15T14:00Z
 6,Sun Sep 15 2024,18:30,CEST/+0200,Progrès Niedercorn,5-1,3-0,FC Rodange 91,2024-09-15T16:30Z
 6,Sun Sep 15 2024,18:30,CEST/+0200,CS FOLA Esch,0-1,0-1,UNA Strassen,2024-09-15T16:30Z
-7,Sat Sep 21 2024,17:00,CEST/+0200,UNA Strassen,,,F91 Dudelange,2024-09-21T15:00Z
-7,Sat Sep 21 2024,17:00,CEST/+0200,FC Rodange 91,,,Union Titus Pétange,2024-09-21T15:00Z
-7,Sat Sep 21 2024,18:00,CEST/+0200,RFCU Luxemburg,,,US Mondorf,2024-09-21T16:00Z
-7,Sat Sep 21 2024,20:00,CEST/+0200,FC Wiltz 71,,,Progrès Niedercorn,2024-09-21T18:00Z
-7,Sat Sep 21 2024,17:00,CEST/+0200,CS FOLA Esch,,,US Hostert,2024-09-21T15:00Z
-7,Sun Sep 22 2024,16:00,CEST/+0200,Victoria Rosport,,,FC Mondercange,2024-09-22T14:00Z
-7,Sun Sep 22 2024,18:30,CEST/+0200,SC Bettembourg,,,Jeunesse Esch,2024-09-22T16:30Z
-7,Sun Sep 22 2024,16:00,CEST/+0200,FC Differdange 03,,,Swift Hesperange,2024-09-22T14:00Z
+7,Sat Sep 21 2024,17:00,CEST/+0200,UNA Strassen,0-1,0-0,F91 Dudelange,2024-09-21T15:00Z
+7,Sat Sep 21 2024,17:00,CEST/+0200,FC Rodange 91,0-0,0-0,Union Titus Pétange,2024-09-21T15:00Z
+7,Sat Sep 21 2024,18:00,CEST/+0200,RFCU Luxemburg,3-0,1-0,US Mondorf,2024-09-21T16:00Z
+7,Sat Sep 21 2024,20:00,CEST/+0200,FC Wiltz 71,1-2,1-1,Progrès Niedercorn,2024-09-21T18:00Z
+7,Sat Sep 21 2024,17:00,CEST/+0200,CS FOLA Esch,0-4,0-1,US Hostert,2024-09-21T15:00Z
+7,Sun Sep 22 2024,16:00,CEST/+0200,Victoria Rosport,2-0,1-0,FC Mondercange,2024-09-22T14:00Z
+7,Sun Sep 22 2024,18:30,CEST/+0200,SC Bettembourg,1-2,0-1,Jeunesse Esch,2024-09-22T16:30Z
+7,Sun Sep 22 2024,16:00,CEST/+0200,FC Differdange 03,0-0,0-0,Swift Hesperange,2024-09-22T14:00Z
 8,Wed Sep 25 2024,20:00,CEST/+0200,US Hostert,,,SC Bettembourg,2024-09-25T18:00Z
 8,Wed Sep 25 2024,20:00,CEST/+0200,Jeunesse Esch,,,Victoria Rosport,2024-09-25T18:00Z
 8,Wed Sep 25 2024,20:00,CEST/+0200,FC Mondercange,,,FC Differdange 03,2024-09-25T18:00Z
@@ -63,12 +63,12 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 8,Wed Sep 25 2024,20:00,CEST/+0200,Progrès Niedercorn,,,RFCU Luxemburg,2024-09-25T18:00Z
 8,Wed Sep 25 2024,20:00,CEST/+0200,US Mondorf,,,UNA Strassen,2024-09-25T18:00Z
 8,Wed Sep 25 2024,20:00,CEST/+0200,F91 Dudelange,,,CS FOLA Esch,2024-09-25T18:00Z
-9,Sat Sep 28 2024,17:00,CEST/+0200,FC Differdange 03,,,Jeunesse Esch,2024-09-28T15:00Z
 9,Sun Sep 29 2024,16:00,CEST/+0200,CS FOLA Esch,,,US Mondorf,2024-09-29T14:00Z
 9,Sun Sep 29 2024,16:00,CEST/+0200,UNA Strassen,,,Progrès Niedercorn,2024-09-29T14:00Z
 9,Sun Sep 29 2024,16:00,CEST/+0200,FC Wiltz 71,,,Swift Hesperange,2024-09-29T14:00Z
 9,Sun Sep 29 2024,16:00,CEST/+0200,FC Rodange 91,,,FC Mondercange,2024-09-29T14:00Z
 9,Sun Sep 29 2024,16:00,CEST/+0200,Victoria Rosport,,,SC Bettembourg,2024-09-29T14:00Z
+9,Sun Sep 29 2024,17:00,CEST/+0200,FC Differdange 03,,,Jeunesse Esch,2024-09-29T15:00Z
 9,Sun Sep 29 2024,18:30,CEST/+0200,RFCU Luxemburg,,,Union Titus Pétange,2024-09-29T16:30Z
 9,Sun Sep 29 2024,16:00,CEST/+0200,F91 Dudelange,,,US Hostert,2024-09-29T14:00Z
 10,Sun Oct 20 2024,,,US Hostert,,,Victoria Rosport,

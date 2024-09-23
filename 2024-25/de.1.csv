@@ -26,15 +26,15 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 3,Sat Sep 14 2024,15:30,CEST/+0200,RB Leipzig,0-0,0-0,1. FC Union Berlin,2024-09-14T13:30Z
 3,Sun Sep 15 2024,17:30,CEST/+0200,1. FSV Mainz 05,1-2,1-1,Werder Bremen,2024-09-15T15:30Z
 3,Sun Sep 15 2024,15:30,CEST/+0200,FC Augsburg,3-1,0-0,FC St. Pauli,2024-09-15T13:30Z
-4,Fri Sep 20 2024,20:30,CEST/+0200,FC Augsburg,,,1. FSV Mainz 05,2024-09-20T18:30Z
-4,Sat Sep 21 2024,15:30,CEST/+0200,Werder Bremen,,,Bayern München,2024-09-21T13:30Z
-4,Sat Sep 21 2024,15:30,CEST/+0200,1. FC Union Berlin,,,1899 Hoffenheim,2024-09-21T13:30Z
-4,Sat Sep 21 2024,15:30,CEST/+0200,VfL Bochum,,,Holstein Kiel,2024-09-21T13:30Z
-4,Sat Sep 21 2024,18:30,CEST/+0200,Eintracht Frankfurt,,,Bor. Mönchengladbach,2024-09-21T16:30Z
-4,Sat Sep 21 2024,15:30,CEST/+0200,1. FC Heidenheim 1846,,,SC Freiburg,2024-09-21T13:30Z
-4,Sun Sep 22 2024,17:30,CEST/+0200,VfB Stuttgart,,,Borussia Dortmund,2024-09-22T15:30Z
-4,Sun Sep 22 2024,19:30,CEST/+0200,FC St. Pauli,,,RB Leipzig,2024-09-22T17:30Z
-4,Sun Sep 22 2024,15:30,CEST/+0200,Bayer Leverkusen,,,VfL Wolfsburg,2024-09-22T13:30Z
+4,Fri Sep 20 2024,20:30,CEST/+0200,FC Augsburg,2-3,1-2,1. FSV Mainz 05,2024-09-20T18:30Z
+4,Sat Sep 21 2024,15:30,CEST/+0200,Werder Bremen,0-5,0-2,Bayern München,2024-09-21T13:30Z
+4,Sat Sep 21 2024,15:30,CEST/+0200,1. FC Union Berlin,2-1,2-0,1899 Hoffenheim,2024-09-21T13:30Z
+4,Sat Sep 21 2024,15:30,CEST/+0200,VfL Bochum,2-2,2-1,Holstein Kiel,2024-09-21T13:30Z
+4,Sat Sep 21 2024,18:30,CEST/+0200,Eintracht Frankfurt,2-0,1-0,Bor. Mönchengladbach,2024-09-21T16:30Z
+4,Sat Sep 21 2024,15:30,CEST/+0200,1. FC Heidenheim 1846,0-3,0-0,SC Freiburg,2024-09-21T13:30Z
+4,Sun Sep 22 2024,17:30,CEST/+0200,VfB Stuttgart,5-1,2-0,Borussia Dortmund,2024-09-22T15:30Z
+4,Sun Sep 22 2024,19:30,CEST/+0200,FC St. Pauli,0-0,0-0,RB Leipzig,2024-09-22T17:30Z
+4,Sun Sep 22 2024,15:30,CEST/+0200,Bayer Leverkusen,4-3,2-3,VfL Wolfsburg,2024-09-22T13:30Z
 5,Fri Sep 27 2024,20:30,CEST/+0200,Borussia Dortmund,,,VfL Bochum,2024-09-27T18:30Z
 5,Sat Sep 28 2024,15:30,CEST/+0200,RB Leipzig,,,FC Augsburg,2024-09-28T13:30Z
 5,Sat Sep 28 2024,15:30,CEST/+0200,SC Freiburg,,,FC St. Pauli,2024-09-28T13:30Z

@@ -1,0 +1,199 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sat Jul 29 2023,20:30,CEST/+0200,Velež Mostar,5-0,3-0,Zvijezda 09 Bijeljina,2023-07-29T18:30Z
+1,Sun Jul 30 2023,20:30,CEST/+0200,FK Sarajevo,1-2,1-1,Sloga Doboj,2023-07-30T18:30Z
+1,Sun Jul 30 2023,17:00,CEST/+0200,NK GOŠK Gabela,1-4,1-1,FK Tuzla City,2023-07-30T15:00Z
+2,Fri Aug 4 2023,21:00,CEST/+0200,HŠK Posušje,1-2,0-1,Široki Brijeg,2023-08-04T19:00Z
+2,Sat Aug 5 2023,17:00,CEST/+0200,Zvijezda 09 Bijeljina,3-4,1-3,Igman Konjic,2023-08-05T15:00Z
+2,Sun Aug 6 2023,21:00,CEST/+0200,Velež Mostar,0-0,0-0,NK GOŠK Gabela,2023-08-06T19:00Z
+3,Fri Aug 11 2023,21:00,CEST/+0200,FK Sarajevo,3-0,1-0,HŠK Posušje,2023-08-11T19:00Z
+3,Sat Aug 12 2023,17:00,CEST/+0200,Igman Konjic,1-0,0-0,Sloga Doboj,2023-08-12T15:00Z
+3,Sat Aug 12 2023,17:00,CEST/+0200,NK GOŠK Gabela,2-0,1-0,Zvijezda 09 Bijeljina,2023-08-12T15:00Z
+3,Sat Aug 12 2023,20:45,CEST/+0200,Željezničar Sarajevo,2-0,0-0,Borac Banja Luka,2023-08-12T18:45Z
+3,Sun Aug 13 2023,21:00,CEST/+0200,Široki Brijeg,1-0,1-0,FK Tuzla City,2023-08-13T19:00Z
+4,Sat Aug 19 2023,17:00,CEST/+0200,Zvijezda 09 Bijeljina,1-0,0-0,Sloga Doboj,2023-08-19T15:00Z
+4,Sat Aug 19 2023,20:45,CEST/+0200,HŠK Posušje,1-0,1-0,Željezničar Sarajevo,2023-08-19T18:45Z
+4,Sun Aug 20 2023,20:00,CEST/+0200,Zrinjski Mostar,3-1,2-1,NK GOŠK Gabela,2023-08-20T18:00Z
+4,Sun Aug 20 2023,21:30,CEST/+0200,Velež Mostar,1-1,0-1,Široki Brijeg,2023-08-20T19:30Z
+4,Sun Aug 20 2023,19:30,CEST/+0200,Borac Banja Luka,4-1,2-1,Igman Konjic,2023-08-20T17:30Z
+4,Mon Aug 21 2023,17:00,CEST/+0200,FK Tuzla City,1-2,0-2,FK Sarajevo,2023-08-21T15:00Z
+5,Fri Aug 25 2023,20:00,CEST/+0200,Borac Banja Luka,5-0,1-0,Sloga Doboj,2023-08-25T18:00Z
+5,Sat Aug 26 2023,17:00,CEST/+0200,Igman Konjic,2-1,2-0,HŠK Posušje,2023-08-26T15:00Z
+5,Sat Aug 26 2023,20:45,CEST/+0200,Željezničar Sarajevo,3-1,1-0,FK Tuzla City,2023-08-26T18:45Z
+5,Sun Aug 27 2023,19:30,CEST/+0200,Široki Brijeg,2-0,1-0,NK GOŠK Gabela,2023-08-27T17:30Z
+5,Sun Aug 27 2023,19:45,CEST/+0200,Zrinjski Mostar,5-3,3-2,Zvijezda 09 Bijeljina,2023-08-27T17:45Z
+5,Mon Aug 28 2023,21:00,CEST/+0200,FK Sarajevo,1-0,0-0,Velež Mostar,2023-08-28T19:00Z
+1,Wed Aug 30 2023,18:30,CEST/+0200,Željezničar Sarajevo,1-0,0-0,Igman Konjic,2023-08-30T16:30Z
+6,Fri Sep 1 2023,19:00,CEST/+0200,Borac Banja Luka,4-2,1-2,Zvijezda 09 Bijeljina,2023-09-01T17:00Z
+6,Sat Sep 2 2023,19:30,CEST/+0200,HŠK Posušje,4-0,2-0,Sloga Doboj,2023-09-02T17:30Z
+6,Sat Sep 2 2023,20:45,CEST/+0200,NK GOŠK Gabela,2-2,1-0,FK Sarajevo,2023-09-02T18:45Z
+6,Sun Sep 3 2023,19:45,CEST/+0200,FK Tuzla City,3-1,1-1,Igman Konjic,2023-09-03T17:45Z
+6,Sun Sep 3 2023,19:45,CEST/+0200,Velež Mostar,1-0,0-0,Željezničar Sarajevo,2023-09-03T17:45Z
+1,Wed Sep 13 2023,18:30,CEST/+0200,Zrinjski Mostar,0-1,0-1,HŠK Posušje,2023-09-13T16:30Z
+7,Fri Sep 15 2023,16:00,CEST/+0200,Sloga Doboj,2-1,1-1,FK Tuzla City,2023-09-15T14:00Z
+7,Fri Sep 15 2023,18:30,CEST/+0200,Željezničar Sarajevo,2-3,1-0,NK GOŠK Gabela,2023-09-15T16:30Z
+7,Sat Sep 16 2023,16:00,CEST/+0200,Igman Konjic,2-4,2-2,Velež Mostar,2023-09-16T14:00Z
+7,Sat Sep 16 2023,20:45,CEST/+0200,FK Sarajevo,1-0,0-0,Zrinjski Mostar,2023-09-16T18:45Z
+7,Sun Sep 17 2023,19:45,CEST/+0200,Široki Brijeg,2-1,2-0,Zvijezda 09 Bijeljina,2023-09-17T17:45Z
+7,Sun Sep 17 2023,19:45,CEST/+0200,Borac Banja Luka,1-0,0-0,HŠK Posušje,2023-09-17T17:45Z
+2,Wed Sep 20 2023,15:00,CEST/+0200,Sloga Doboj,3-0,1-0,Željezničar Sarajevo,2023-09-20T13:00Z
+8,Fri Sep 22 2023,20:00,CEST/+0200,Široki Brijeg,1-0,0-0,FK Sarajevo,2023-09-22T18:00Z
+8,Sat Sep 23 2023,20:45,CEST/+0200,Velež Mostar,4-2,2-1,Sloga Doboj,2023-09-23T18:45Z
+8,Sat Sep 23 2023,18:30,CEST/+0200,NK GOŠK Gabela,4-0,1-0,Igman Konjic,2023-09-23T16:30Z
+8,Sat Sep 23 2023,16:00,CEST/+0200,FK Tuzla City,1-2,0-2,Borac Banja Luka,2023-09-23T14:00Z
+8,Sun Sep 24 2023,19:45,CEST/+0200,Zrinjski Mostar,2-1,0-1,Željezničar Sarajevo,2023-09-24T17:45Z
+8,Sun Sep 24 2023,16:00,CEST/+0200,Zvijezda 09 Bijeljina,0-2,0-0,HŠK Posušje,2023-09-24T14:00Z
+2,Wed Sep 27 2023,15:00,CEST/+0200,FK Tuzla City,2-4,0-1,Zrinjski Mostar,2023-09-27T13:00Z
+1,Wed Sep 27 2023,18:30,CEST/+0200,Široki Brijeg,0-2,0-2,Borac Banja Luka,2023-09-27T16:30Z
+9,Sat Sep 30 2023,18:30,CEST/+0200,HŠK Posušje,1-1,1-0,FK Tuzla City,2023-09-30T16:30Z
+9,Sat Sep 30 2023,20:45,CEST/+0200,FK Sarajevo,2-0,2-0,Zvijezda 09 Bijeljina,2023-09-30T18:45Z
+9,Sun Oct 1 2023,20:45,CEST/+0200,Borac Banja Luka,2-0,0-0,Velež Mostar,2023-10-01T18:45Z
+9,Sun Oct 1 2023,15:00,CEST/+0200,Igman Konjic,0-2,0-2,Zrinjski Mostar,2023-10-01T13:00Z
+9,Sun Oct 1 2023,15:00,CEST/+0200,Sloga Doboj,3-2,0-0,NK GOŠK Gabela,2023-10-01T13:00Z
+9,Mon Oct 2 2023,18:00,CEST/+0200,Željezničar Sarajevo,2-1,1-0,Široki Brijeg,2023-10-02T16:00Z
+10,Fri Oct 6 2023,18:00,CEST/+0200,Velež Mostar,2-1,0-0,HŠK Posušje,2023-10-06T16:00Z
+10,Sat Oct 7 2023,15:00,CEST/+0200,Zvijezda 09 Bijeljina,1-1,0-0,FK Tuzla City,2023-10-07T13:00Z
+10,Sun Oct 8 2023,20:30,CEST/+0200,FK Sarajevo,3-0,2-0,Željezničar Sarajevo,2023-10-08T18:30Z
+10,Sun Oct 8 2023,15:00,CEST/+0200,NK GOŠK Gabela,0-3,0-2,Borac Banja Luka,2023-10-08T13:00Z
+10,Sun Oct 8 2023,18:00,CEST/+0200,Široki Brijeg,2-0,1-0,Igman Konjic,2023-10-08T16:00Z
+10,Mon Oct 9 2023,18:00,CEST/+0200,Zrinjski Mostar,2-0,1-0,Sloga Doboj,2023-10-09T16:00Z
+3,Wed Oct 18 2023,16:30,CEST/+0200,Zrinjski Mostar,3-0,3-0,Velež Mostar,2023-10-18T14:30Z
+2,Wed Oct 18 2023,19:00,CEST/+0200,Borac Banja Luka,1-1,0-0,FK Sarajevo,2023-10-18T17:00Z
+11,Sat Oct 21 2023,13:30,CEST/+0200,Sloga Doboj,1-0,0-0,Široki Brijeg,2023-10-21T11:30Z
+11,Sat Oct 21 2023,18:30,CEST/+0200,HŠK Posušje,0-0,0-0,NK GOŠK Gabela,2023-10-21T16:30Z
+11,Sat Oct 21 2023,20:45,CEST/+0200,Željezničar Sarajevo,1-0,0-0,Zvijezda 09 Bijeljina,2023-10-21T18:45Z
+11,Sun Oct 22 2023,13:00,CEST/+0200,Igman Konjic,1-2,1-1,FK Sarajevo,2023-10-22T11:00Z
+11,Sun Oct 22 2023,19:45,CEST/+0200,Borac Banja Luka,0-0,0-0,Zrinjski Mostar,2023-10-22T17:45Z
+11,Mon Oct 23 2023,14:30,CEST/+0200,FK Tuzla City,1-1,1-0,Velež Mostar,2023-10-23T12:30Z
+12,Fri Oct 27 2023,14:00,CEST/+0200,Igman Konjic,2-0,0-0,Željezničar Sarajevo,2023-10-27T12:00Z
+12,Sat Oct 28 2023,13:30,CEST/+0200,Sloga Doboj,3-0,1-0,FK Sarajevo,2023-10-28T11:30Z
+12,Sat Oct 28 2023,16:00,CEST/+0200,Borac Banja Luka,1-0,1-0,Široki Brijeg,2023-10-28T14:00Z
+12,Sun Oct 29 2023,14:00,CET/+0100,Zvijezda 09 Bijeljina,0-0,0-0,Velež Mostar,2023-10-29T13:00Z
+12,Sun Oct 29 2023,18:40,CET/+0100,HŠK Posušje,2-2,2-2,Zrinjski Mostar,2023-10-29T17:40Z
+12,Mon Oct 30 2023,14:00,CET/+0100,FK Tuzla City,2-2,1-0,NK GOŠK Gabela,2023-10-30T13:00Z
+13,Fri Nov 3 2023,18:00,CET/+0100,NK GOŠK Gabela,0-4,0-1,Velež Mostar,2023-11-03T17:00Z
+13,Sat Nov 4 2023,13:00,CET/+0100,Igman Konjic,3-1,2-1,Zvijezda 09 Bijeljina,2023-11-04T12:00Z
+13,Sat Nov 4 2023,16:00,CET/+0100,Željezničar Sarajevo,1-0,0-0,Sloga Doboj,2023-11-04T15:00Z
+13,Sun Nov 5 2023,13:00,CET/+0100,Široki Brijeg,1-1,0-1,HŠK Posušje,2023-11-05T12:00Z
+13,Sun Nov 5 2023,13:00,CET/+0100,Zrinjski Mostar,3-1,1-0,FK Tuzla City,2023-11-05T12:00Z
+13,Sun Nov 5 2023,19:45,CET/+0100,FK Sarajevo,1-1,0-1,Borac Banja Luka,2023-11-05T18:45Z
+14,Sat Nov 11 2023,13:00,CET/+0100,Sloga Doboj,4-1,1-0,Igman Konjic,2023-11-11T12:00Z
+14,Sat Nov 11 2023,20:45,CET/+0100,HŠK Posušje,0-1,0-1,FK Sarajevo,2023-11-11T19:45Z
+14,Sun Nov 12 2023,15:15,CET/+0100,Borac Banja Luka,3-2,2-1,Željezničar Sarajevo,2023-11-12T14:15Z
+14,Sun Nov 12 2023,13:00,CET/+0100,Zvijezda 09 Bijeljina,1-2,0-1,NK GOŠK Gabela,2023-11-12T12:00Z
+14,Mon Nov 13 2023,18:00,CET/+0100,Velež Mostar,3-0,1-0,Zrinjski Mostar,2023-11-13T17:00Z
+6,Wed Nov 22 2023,18:00,CET/+0100,Zrinjski Mostar,3-1,3-1,Široki Brijeg,2023-11-22T17:00Z
+15,Fri Nov 24 2023,18:00,CET/+0100,FK Sarajevo,6-2,4-1,FK Tuzla City,2023-11-24T17:00Z
+15,Sat Nov 25 2023,13:00,CET/+0100,Igman Konjic,0-1,0-1,Borac Banja Luka,2023-11-25T12:00Z
+15,Sun Nov 26 2023,13:00,CET/+0100,Sloga Doboj,1-0,0-0,Zvijezda 09 Bijeljina,2023-11-26T12:00Z
+15,Sun Nov 26 2023,13:00,CET/+0100,Željezničar Sarajevo,1-1,0-1,HŠK Posušje,2023-11-26T12:00Z
+15,Sun Nov 26 2023,15:00,CET/+0100,NK GOŠK Gabela,1-5,0-2,Zrinjski Mostar,2023-11-26T14:00Z
+15,Sun Nov 26 2023,19:45,CET/+0100,Široki Brijeg,2-2,1-0,Velež Mostar,2023-11-26T18:45Z
+16,Fri Dec 1 2023,18:00,CET/+0100,Velež Mostar,1-0,0-0,FK Sarajevo,2023-12-01T17:00Z
+16,Sat Dec 2 2023,13:30,CET/+0100,FK Tuzla City,3-0,3-0,Željezničar Sarajevo,2023-12-02T12:30Z
+16,Sat Dec 2 2023,16:00,CET/+0100,Sloga Doboj,0-4,0-4,Borac Banja Luka,2023-12-02T15:00Z
+16,Sun Dec 3 2023,13:00,CET/+0100,HŠK Posušje,4-1,3-0,Igman Konjic,2023-12-03T12:00Z
+16,Sun Dec 3 2023,19:45,CET/+0100,NK GOŠK Gabela,0-0,0-0,Široki Brijeg,2023-12-03T18:45Z
+16,Mon Dec 4 2023,13:00,CET/+0100,Zvijezda 09 Bijeljina,2-1,0-0,Zrinjski Mostar,2023-12-04T12:00Z
+14,Wed Dec 6 2023,13:00,CET/+0100,FK Tuzla City,2-0,0-0,Široki Brijeg,2023-12-06T12:00Z
+17,Fri Dec 8 2023,18:00,CET/+0100,Željezničar Sarajevo,0-1,0-0,Velež Mostar,2023-12-08T17:00Z
+17,Sat Dec 9 2023,13:00,CET/+0100,Zvijezda 09 Bijeljina,1-2,0-1,Borac Banja Luka,2023-12-09T12:00Z
+17,Sat Dec 9 2023,13:00,CET/+0100,Sloga Doboj,1-0,0-0,HŠK Posušje,2023-12-09T12:00Z
+17,Sat Dec 9 2023,16:00,CET/+0100,FK Sarajevo,3-0,0-0,NK GOŠK Gabela,2023-12-09T15:00Z
+17,Sun Dec 10 2023,15:15,CET/+0100,Široki Brijeg,0-2,0-1,Zrinjski Mostar,2023-12-10T14:15Z
+17,Sun Dec 10 2023,13:00,CET/+0100,Igman Konjic,2-0,2-0,FK Tuzla City,2023-12-10T12:00Z
+18,Fri Dec 15 2023,18:00,CET/+0100,HŠK Posušje,0-2,0-1,Borac Banja Luka,2023-12-15T17:00Z
+18,Sat Dec 16 2023,13:00,CET/+0100,FK Tuzla City,3-0,2-0,Sloga Doboj,2023-12-16T12:00Z
+18,Sat Dec 16 2023,16:00,CET/+0100,NK GOŠK Gabela,1-0,0-0,Željezničar Sarajevo,2023-12-16T15:00Z
+18,Sun Dec 17 2023,15:00,CET/+0100,Velež Mostar,1-1,0-1,Igman Konjic,2023-12-17T14:00Z
+18,Sun Dec 17 2023,13:00,CET/+0100,Zvijezda 09 Bijeljina,3-0,2-0,Široki Brijeg,2023-12-17T12:00Z
+18,Mon Dec 18 2023,18:00,CET/+0100,Zrinjski Mostar,2-0,2-0,FK Sarajevo,2023-12-18T17:00Z
+19,Fri Feb 16 2024,18:00,CET/+0100,Sloga Doboj,0-0,0-0,Velež Mostar,2024-02-16T17:00Z
+19,Sat Feb 17 2024,13:00,CET/+0100,Igman Konjic,1-2,0-1,NK GOŠK Gabela,2024-02-17T12:00Z
+19,Sat Feb 17 2024,13:00,CET/+0100,HŠK Posušje,2-0,1-0,Zvijezda 09 Bijeljina,2024-02-17T12:00Z
+19,Sat Feb 17 2024,16:00,CET/+0100,Željezničar Sarajevo,0-0,0-0,Zrinjski Mostar,2024-02-17T15:00Z
+19,Sun Feb 18 2024,17:30,CET/+0100,Borac Banja Luka,2-1,1-0,FK Tuzla City,2024-02-18T16:30Z
+19,Sun Feb 18 2024,13:00,CET/+0100,FK Sarajevo,1-3,0-0,Široki Brijeg,2024-02-18T12:00Z
+20,Fri Feb 23 2024,18:00,CET/+0100,NK GOŠK Gabela,2-4,1-3,Sloga Doboj,2024-02-23T17:00Z
+20,Sat Feb 24 2024,16:00,CET/+0100,Velež Mostar,0-0,0-0,Borac Banja Luka,2024-02-24T15:00Z
+20,Sat Feb 24 2024,13:00,CET/+0100,Zvijezda 09 Bijeljina,1-0,0-0,FK Sarajevo,2024-02-24T12:00Z
+20,Sun Feb 25 2024,13:00,CET/+0100,FK Tuzla City,0-1,0-0,HŠK Posušje,2024-02-25T12:00Z
+20,Sun Feb 25 2024,15:00,CET/+0100,Zrinjski Mostar,5-0,4-0,Igman Konjic,2024-02-25T14:00Z
+20,Mon Feb 26 2024,13:00,CET/+0100,Široki Brijeg,2-0,0-0,Željezničar Sarajevo,2024-02-26T12:00Z
+21,Sat Mar 2 2024,13:00,CET/+0100,Igman Konjic,1-0,0-0,Široki Brijeg,2024-03-02T12:00Z
+21,Sat Mar 2 2024,16:00,CET/+0100,Sloga Doboj,1-1,0-0,Zrinjski Mostar,2024-03-02T15:00Z
+21,Sat Mar 2 2024,13:00,CET/+0100,FK Tuzla City,2-0,1-0,Zvijezda 09 Bijeljina,2024-03-02T12:00Z
+21,Sun Mar 3 2024,14:00,CET/+0100,HŠK Posušje,1-0,1-0,Velež Mostar,2024-03-03T13:00Z
+21,Sun Mar 3 2024,18:45,CET/+0100,Željezničar Sarajevo,3-0,1-0,FK Sarajevo,2024-03-03T17:45Z
+21,Mon Mar 4 2024,17:45,CET/+0100,Borac Banja Luka,3-0,1-0,NK GOŠK Gabela,2024-03-04T16:45Z
+22,Sat Mar 9 2024,16:00,CET/+0100,NK GOŠK Gabela,1-1,1-0,HŠK Posušje,2024-03-09T15:00Z
+22,Sat Mar 9 2024,18:30,CET/+0100,FK Sarajevo,2-2,0-0,Igman Konjic,2024-03-09T17:30Z
+22,Sat Mar 9 2024,13:00,CET/+0100,Široki Brijeg,0-1,0-0,Sloga Doboj,2024-03-09T12:00Z
+22,Sun Mar 10 2024,14:00,CET/+0100,Zvijezda 09 Bijeljina,2-1,1-1,Željezničar Sarajevo,2024-03-10T13:00Z
+22,Sun Mar 10 2024,19:00,CET/+0100,Zrinjski Mostar,0-1,0-1,Borac Banja Luka,2024-03-10T18:00Z
+22,Mon Mar 11 2024,18:00,CET/+0100,Velež Mostar,1-1,1-1,FK Tuzla City,2024-03-11T17:00Z
+23,Sat Mar 16 2024,16:00,CET/+0100,Zrinjski Mostar,2-0,0-0,Željezničar Sarajevo,2024-03-16T15:00Z
+23,Sat Mar 16 2024,20:45,CET/+0100,FK Sarajevo,4-0,2-0,NK GOŠK Gabela,2024-03-16T19:45Z
+23,Sat Mar 16 2024,13:30,CET/+0100,Sloga Doboj,3-1,2-0,FK Tuzla City,2024-03-16T12:30Z
+23,Sun Mar 17 2024,14:00,CET/+0100,HŠK Posušje,1-0,1-0,Široki Brijeg,2024-03-17T13:00Z
+23,Sun Mar 17 2024,18:00,CET/+0100,Borac Banja Luka,3-1,1-0,Zvijezda 09 Bijeljina,2024-03-17T17:00Z
+23,Sun Mar 17 2024,20:00,CET/+0100,Velež Mostar,2-0,2-0,Igman Konjic,2024-03-17T19:00Z
+24,Fri Mar 29 2024,16:00,CET/+0100,FK Tuzla City,1-5,0-2,FK Sarajevo,2024-03-29T15:00Z
+24,Fri Mar 29 2024,20:00,CET/+0100,Željezničar Sarajevo,0-1,0-0,Velež Mostar,2024-03-29T19:00Z
+24,Fri Mar 29 2024,14:00,CET/+0100,Igman Konjic,2-0,2-0,Sloga Doboj,2024-03-29T13:00Z
+24,Sat Mar 30 2024,13:30,CET/+0100,Zvijezda 09 Bijeljina,2-3,1-1,Široki Brijeg,2024-03-30T12:30Z
+24,Sat Mar 30 2024,16:00,CET/+0100,Borac Banja Luka,1-2,0-1,Zrinjski Mostar,2024-03-30T15:00Z
+24,Sat Mar 30 2024,20:45,CET/+0100,NK GOŠK Gabela,0-1,0-0,HŠK Posušje,2024-03-30T19:45Z
+25,Sat Apr 6 2024,20:45,CEST/+0200,FK Sarajevo,3-2,3-1,Igman Konjic,2024-04-06T18:45Z
+25,Sat Apr 6 2024,13:30,CEST/+0200,HŠK Posušje,1-1,0-1,FK Tuzla City,2024-04-06T11:30Z
+25,Sun Apr 7 2024,20:45,CEST/+0200,Velež Mostar,1-1,0-1,Borac Banja Luka,2024-04-07T18:45Z
+25,Sun Apr 7 2024,14:00,CEST/+0200,Sloga Doboj,0-3,0-0,Željezničar Sarajevo,2024-04-07T12:00Z
+25,Mon Apr 8 2024,15:30,CEST/+0200,Široki Brijeg,2-2,1-0,NK GOŠK Gabela,2024-04-08T13:30Z
+25,Mon Apr 8 2024,18:00,CEST/+0200,Zrinjski Mostar,4-0,3-0,Zvijezda 09 Bijeljina,2024-04-08T16:00Z
+26,Fri Apr 12 2024,20:30,CEST/+0200,Borac Banja Luka,1-0,1-0,Sloga Doboj,2024-04-12T18:30Z
+26,Fri Apr 12 2024,15:30,CEST/+0200,FK Tuzla City,3-1,1-1,Široki Brijeg,2024-04-12T13:30Z
+26,Sat Apr 13 2024,16:00,CEST/+0200,Zrinjski Mostar,1-0,1-0,Velež Mostar,2024-04-13T14:00Z
+26,Sat Apr 13 2024,13:30,CEST/+0200,Zvijezda 09 Bijeljina,1-2,1-2,NK GOŠK Gabela,2024-04-13T11:30Z
+26,Sun Apr 14 2024,20:00,CEST/+0200,Željezničar Sarajevo,0-0,0-0,FK Sarajevo,2024-04-14T18:00Z
+26,Sun Apr 14 2024,13:00,CEST/+0200,Igman Konjic,1-1,1-0,HŠK Posušje,2024-04-14T11:00Z
+27,Fri Apr 19 2024,16:00,CEST/+0200,NK GOŠK Gabela,1-0,0-0,FK Tuzla City,2024-04-19T14:00Z
+27,Fri Apr 19 2024,18:00,CEST/+0200,HŠK Posušje,1-0,1-0,Željezničar Sarajevo,2024-04-19T16:00Z
+27,Fri Apr 19 2024,20:00,CEST/+0200,Velež Mostar,3-1,1-0,Zvijezda 09 Bijeljina,2024-04-19T18:00Z
+27,Sat Apr 20 2024,16:00,CEST/+0200,Sloga Doboj,0-2,0-0,Zrinjski Mostar,2024-04-20T14:00Z
+27,Sat Apr 20 2024,20:45,CEST/+0200,FK Sarajevo,1-1,0-1,Borac Banja Luka,2024-04-20T18:45Z
+27,Sat Apr 20 2024,13:30,CEST/+0200,Široki Brijeg,4-1,1-1,Igman Konjic,2024-04-20T11:30Z
+28,Tue Apr 23 2024,16:00,CEST/+0200,Igman Konjic,0-0,0-0,NK GOŠK Gabela,2024-04-23T14:00Z
+28,Tue Apr 23 2024,18:00,CEST/+0200,Velež Mostar,1-0,1-0,Sloga Doboj,2024-04-23T16:00Z
+28,Tue Apr 23 2024,20:30,CEST/+0200,Željezničar Sarajevo,1-0,0-0,Široki Brijeg,2024-04-23T18:30Z
+28,Wed Apr 24 2024,18:00,CEST/+0200,Borac Banja Luka,1-0,1-0,HŠK Posušje,2024-04-24T16:00Z
+28,Wed Apr 24 2024,20:30,CEST/+0200,Zrinjski Mostar,4-3,3-1,FK Sarajevo,2024-04-24T18:30Z
+28,Wed Apr 24 2024,16:00,CEST/+0200,Zvijezda 09 Bijeljina,3-2,1-1,FK Tuzla City,2024-04-24T14:00Z
+29,Sat Apr 27 2024,13:30,CEST/+0200,Sloga Doboj,2-0,0-0,Zvijezda 09 Bijeljina,2024-04-27T11:30Z
+29,Sat Apr 27 2024,16:00,CEST/+0200,NK GOŠK Gabela,1-2,1-1,Željezničar Sarajevo,2024-04-27T14:00Z
+29,Sun Apr 28 2024,17:00,CEST/+0200,HŠK Posušje,0-1,0-1,Zrinjski Mostar,2024-04-28T15:00Z
+29,Sun Apr 28 2024,20:45,CEST/+0200,FK Sarajevo,3-0,1-0,Velež Mostar,2024-04-28T18:45Z
+29,Sun Apr 28 2024,13:00,CEST/+0200,Široki Brijeg,1-2,0-1,Borac Banja Luka,2024-04-28T11:00Z
+29,Mon Apr 29 2024,16:30,CEST/+0200,FK Tuzla City,1-2,1-0,Igman Konjic,2024-04-29T14:30Z
+30,Fri May 3 2024,18:00,CEST/+0200,Željezničar Sarajevo,2-0,1-0,FK Tuzla City,2024-05-03T16:00Z
+30,Fri May 3 2024,18:00,CEST/+0200,Velež Mostar,2-0,1-0,HŠK Posušje,2024-05-03T16:00Z
+30,Fri May 3 2024,20:30,CEST/+0200,Zrinjski Mostar,3-0,2-0,Široki Brijeg,2024-05-03T18:30Z
+30,Sat May 4 2024,16:00,CEST/+0200,Sloga Doboj,0-1,0-0,FK Sarajevo,2024-05-04T14:00Z
+30,Sat May 4 2024,20:45,CEST/+0200,Borac Banja Luka,3-1,1-0,NK GOŠK Gabela,2024-05-04T18:45Z
+30,Sat May 4 2024,13:30,CEST/+0200,Zvijezda 09 Bijeljina,2-2,2-1,Igman Konjic,2024-05-04T11:30Z
+31,Fri May 10 2024,20:00,CEST/+0200,FK Sarajevo,2-1,0-1,Zvijezda 09 Bijeljina,2024-05-10T18:00Z
+31,Sat May 11 2024,16:00,CEST/+0200,Široki Brijeg,0-1,0-1,Velež Mostar,2024-05-11T14:00Z
+31,Sun May 12 2024,19:30,CEST/+0200,HŠK Posušje,2-1,0-0,Sloga Doboj,2024-05-12T17:30Z
+31,Sun May 12 2024,15:30,CEST/+0200,Igman Konjic,0-0,0-0,Željezničar Sarajevo,2024-05-12T13:30Z
+31,Mon May 13 2024,21:00,CEST/+0200,NK GOŠK Gabela,1-4,0-0,Zrinjski Mostar,2024-05-13T19:00Z
+31,Mon May 13 2024,17:00,CEST/+0200,FK Tuzla City,2-6,1-4,Borac Banja Luka,2024-05-13T15:00Z
+32,Mon May 20 2024,17:00,CEST/+0200,FK Sarajevo,1-1,0-0,HŠK Posušje,2024-05-20T15:00Z
+32,Mon May 20 2024,17:00,CEST/+0200,Borac Banja Luka,4-3,1-2,Igman Konjic,2024-05-20T15:00Z
+32,Mon May 20 2024,17:00,CEST/+0200,Sloga Doboj,2-3,2-2,Široki Brijeg,2024-05-20T15:00Z
+32,Mon May 20 2024,17:00,CEST/+0200,Zrinjski Mostar,4-0,2-0,FK Tuzla City,2024-05-20T15:00Z
+32,Mon May 20 2024,17:00,CEST/+0200,Velež Mostar,3-3,1-1,NK GOŠK Gabela,2024-05-20T15:00Z
+32,Mon May 20 2024,17:00,CEST/+0200,Zvijezda 09 Bijeljina,0-5,0-1,Željezničar Sarajevo,2024-05-20T15:00Z
+33,Fri May 24 2024,17:00,CEST/+0200,FK Tuzla City,1-5,0-2,Velež Mostar,2024-05-24T15:00Z
+33,Sun May 26 2024,16:00,CEST/+0200,Igman Konjic,1-4,1-2,Zrinjski Mostar,2024-05-26T14:00Z
+33,Sun May 26 2024,17:00,CEST/+0200,Široki Brijeg,2-2,2-1,FK Sarajevo,2024-05-26T15:00Z
+33,Sun May 26 2024,17:00,CEST/+0200,HŠK Posušje,2-0,2-0,Zvijezda 09 Bijeljina,2024-05-26T15:00Z
+33,Sun May 26 2024,17:00,CEST/+0200,Željezničar Sarajevo,2-1,2-0,Borac Banja Luka,2024-05-26T15:00Z
+33,Sun May 26 2024,15:00,CEST/+0200,NK GOŠK Gabela,1-1,0-0,Sloga Doboj,2024-05-26T13:00Z

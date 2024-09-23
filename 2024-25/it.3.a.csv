@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 23 2024,20:45,CEST/+0200,Feralpisalò,0-0,0-0,Novara Calcio,2024-08-23T18:45Z
+1,Sat Aug 24 2024,18:00,CEST/+0200,Atalanta II,1-2,0-1,ASC Alcione,2024-08-24T16:00Z
+1,Sat Aug 24 2024,18:00,CEST/+0200,US Triestina,3-0,0-0,Arzignano Valchiampo,2024-08-24T16:00Z
+1,Sat Aug 24 2024,18:00,CEST/+0200,UC AlbinoLeffe,2-3,1-1,Caldiero Terme,2024-08-24T16:00Z
+1,Sun Aug 25 2024,18:00,CEST/+0200,Calcio Lecco 1912,1-0,0-0,Clodiense SSD,2024-08-25T16:00Z
+1,Sun Aug 25 2024,18:00,CEST/+0200,Aurora Pro Patria,0-1,0-0,AC Renate,2024-08-25T16:00Z
+1,Sun Aug 25 2024,18:00,CEST/+0200,Virtus Verona,0-1,0-1,FC Lumezzane,2024-08-25T16:00Z
+1,Sun Aug 25 2024,20:45,CEST/+0200,L.R. Vicenza,2-2,1-1,Giana Erminio,2024-08-25T18:45Z
+1,Mon Aug 26 2024,20:45,CEST/+0200,Pro Vercelli,1-0,0-0,US Pergolettese,2024-08-26T18:45Z
+1,Mon Aug 26 2024,20:45,CEST/+0200,Calcio Padova,3-0,0-0,Trento Calcio 1921,2024-08-26T18:45Z
+2,Fri Aug 30 2024,20:45,CEST/+0200,ASC Alcione,0-0,0-0,Virtus Verona,2024-08-30T18:45Z
+2,Sat Aug 31 2024,18:00,CEST/+0200,AC Renate,1-0,0-0,Feralpisalò,2024-08-31T16:00Z
+2,Sat Aug 31 2024,20:45,CEST/+0200,Clodiense SSD,1-0,1-0,US Triestina,2024-08-31T18:45Z
+2,Sat Aug 31 2024,18:00,CEST/+0200,Giana Erminio,1-1,0-1,Aurora Pro Patria,2024-08-31T16:00Z
+2,Sun Sep 1 2024,18:00,CEST/+0200,Caldiero Terme,0-2,0-1,Calcio Padova,2024-09-01T16:00Z
+2,Sun Sep 1 2024,18:00,CEST/+0200,FC Lumezzane,0-2,0-1,Pro Vercelli,2024-09-01T16:00Z
+2,Sun Sep 1 2024,18:00,CEST/+0200,Novara Calcio,0-3,0-1,Atalanta II,2024-09-01T16:00Z
+2,Sun Sep 1 2024,18:00,CEST/+0200,US Pergolettese,0-1,0-1,L.R. Vicenza,2024-09-01T16:00Z
+2,Sun Sep 1 2024,18:00,CEST/+0200,Trento Calcio 1921,1-1,0-1,Calcio Lecco 1912,2024-09-01T16:00Z
+2,Mon Sep 2 2024,20:45,CEST/+0200,Arzignano Valchiampo,1-1,0-0,UC AlbinoLeffe,2024-09-02T18:45Z
+3,Sat Sep 7 2024,16:15,CEST/+0200,Aurora Pro Patria,0-0,0-0,Feralpisalò,2024-09-07T14:15Z
+3,Sat Sep 7 2024,18:30,CEST/+0200,ASC Alcione,0-1,0-1,AC Renate,2024-09-07T16:30Z
+3,Sat Sep 7 2024,18:30,CEST/+0200,Atalanta II,1-1,1-0,Trento Calcio 1921,2024-09-07T16:30Z
+3,Sat Sep 7 2024,18:30,CEST/+0200,Calcio Lecco 1912,1-1,1-0,FC Lumezzane,2024-09-07T16:30Z
+3,Sat Sep 7 2024,18:30,CEST/+0200,US Pergolettese,2-2,2-2,Clodiense SSD,2024-09-07T16:30Z
+3,Sat Sep 7 2024,18:30,CEST/+0200,Virtus Verona,1-0,0-0,Novara Calcio,2024-09-07T16:30Z
+3,Sat Sep 7 2024,20:45,CEST/+0200,UC AlbinoLeffe,1-1,0-1,L.R. Vicenza,2024-09-07T18:45Z
+3,Sun Sep 8 2024,18:30,CEST/+0200,US Triestina,0-1,0-1,Caldiero Terme,2024-09-08T16:30Z
+3,Sun Sep 8 2024,20:45,CEST/+0200,Arzignano Valchiampo,1-4,0-1,Calcio Padova,2024-09-08T18:45Z
+3,Sun Sep 8 2024,18:30,CEST/+0200,Pro Vercelli,0-1,0-0,Giana Erminio,2024-09-08T16:30Z
+4,Fri Sep 13 2024,20:45,CEST/+0200,Feralpisalò,1-0,0-0,Virtus Verona,2024-09-13T18:45Z
+4,Fri Sep 13 2024,20:45,CEST/+0200,AC Renate,1-0,1-0,Giana Erminio,2024-09-13T18:45Z
+4,Fri Sep 13 2024,20:45,CEST/+0200,UC AlbinoLeffe,3-0,1-0,US Pergolettese,2024-09-13T18:45Z
+4,Sat Sep 14 2024,20:45,CEST/+0200,Calcio Padova,1-0,1-0,ASC Alcione,2024-09-14T18:45Z
+4,Sun Sep 15 2024,18:30,CEST/+0200,Caldiero Terme,4-1,2-0,Pro Vercelli,2024-09-15T16:30Z
+4,Sun Sep 15 2024,18:30,CEST/+0200,L.R. Vicenza,2-0,1-0,Aurora Pro Patria,2024-09-15T16:30Z
+4,Sun Sep 15 2024,18:30,CEST/+0200,Trento Calcio 1921,3-2,1-1,Arzignano Valchiampo,2024-09-15T16:30Z
+4,Sun Sep 15 2024,18:30,CEST/+0200,Clodiense SSD,1-1,0-1,FC Lumezzane,2024-09-15T16:30Z
+4,Sun Sep 15 2024,20:45,CEST/+0200,US Triestina,1-5,1-2,Atalanta II,2024-09-15T18:45Z
+4,Mon Sep 16 2024,20:45,CEST/+0200,Novara Calcio,0-0,0-0,Calcio Lecco 1912,2024-09-16T18:45Z
+5,Fri Sep 20 2024,20:45,CEST/+0200,Pro Vercelli,1-3,1-1,Calcio Padova,2024-09-20T18:45Z
+5,Fri Sep 20 2024,20:45,CEST/+0200,Virtus Verona,1-2,1-0,AC Renate,2024-09-20T18:45Z
+5,Fri Sep 20 2024,20:45,CEST/+0200,Giana Erminio,0-2,0-2,UC AlbinoLeffe,2024-09-20T18:45Z
+5,Sat Sep 21 2024,18:30,CEST/+0200,ASC Alcione,1-2,0-0,L.R. Vicenza,2024-09-21T16:30Z
+5,Sat Sep 21 2024,18:30,CEST/+0200,Arzignano Valchiampo,1-0,0-0,Clodiense SSD,2024-09-21T16:30Z
+5,Sat Sep 21 2024,18:30,CEST/+0200,Calcio Lecco 1912,2-1,1-1,US Triestina,2024-09-21T16:30Z
+5,Sat Sep 21 2024,18:30,CEST/+0200,US Pergolettese,2-2,0-2,Feralpisalò,2024-09-21T16:30Z
+5,Sun Sep 22 2024,18:30,CEST/+0200,Trento Calcio 1921,,,Caldiero Terme,2024-09-22T16:30Z
+5,Sun Sep 22 2024,18:30,CEST/+0200,FC Lumezzane,,,Atalanta II,2024-09-22T16:30Z
+6,Tue Sep 24 2024,18:30,CEST/+0200,UC AlbinoLeffe,,,Aurora Pro Patria,2024-09-24T16:30Z
+6,Tue Sep 24 2024,20:45,CEST/+0200,L.R. Vicenza,,,AC Renate,2024-09-24T18:45Z
+6,Tue Sep 24 2024,20:45,CEST/+0200,Novara Calcio,,,Pro Vercelli,2024-09-24T18:45Z
+6,Tue Sep 24 2024,20:45,CEST/+0200,Calcio Padova,,,Virtus Verona,2024-09-24T18:45Z
+6,Wed Sep 25 2024,20:30,CEST/+0200,Feralpisalò,,,Giana Erminio,2024-09-25T18:30Z
+6,Wed Sep 25 2024,18:30,CEST/+0200,Atalanta II,,,US Pergolettese,2024-09-25T16:30Z
+6,Wed Sep 25 2024,18:30,CEST/+0200,Caldiero Terme,,,ASC Alcione,2024-09-25T16:30Z
+6,Wed Sep 25 2024,18:30,CEST/+0200,Calcio Lecco 1912,,,Arzignano Valchiampo,2024-09-25T16:30Z
+6,Thu Sep 26 2024,18:30,CEST/+0200,Clodiense SSD,,,Trento Calcio 1921,2024-09-26T16:30Z
+6,Thu Sep 26 2024,20:45,CEST/+0200,US Triestina,,,FC Lumezzane,2024-09-26T18:45Z
+7,Sat Sep 28 2024,18:30,CEST/+0200,Aurora Pro Patria,,,Calcio Padova,2024-09-28T16:30Z
+7,Sat Sep 28 2024,20:45,CEST/+0200,ASC Alcione,,,Novara Calcio,2024-09-28T18:45Z
+7,Sat Sep 28 2024,20:45,CEST/+0200,AC Renate,,,UC AlbinoLeffe,2024-09-28T18:45Z
+7,Sat Sep 28 2024,20:45,CEST/+0200,Pro Vercelli,,,Calcio Lecco 1912,2024-09-28T18:45Z
+7,Sat Sep 28 2024,20:45,CEST/+0200,L.R. Vicenza,,,Feralpisalò,2024-09-28T18:45Z
+7,Sun Sep 29 2024,20:45,CEST/+0200,Virtus Verona,,,Atalanta II,2024-09-29T18:45Z
+7,Sun Sep 29 2024,12:30,CEST/+0200,Trento Calcio 1921,,,US Triestina,2024-09-29T10:30Z
+7,Sun Sep 29 2024,20:45,CEST/+0200,Giana Erminio,,,Clodiense SSD,2024-09-29T18:45Z
+7,Mon Sep 30 2024,20:45,CEST/+0200,US Pergolettese,,,Caldiero Terme,2024-09-30T18:45Z
+7,Mon Sep 30 2024,20:45,CEST/+0200,FC Lumezzane,,,Arzignano Valchiampo,2024-09-30T18:45Z
+5,Tue Oct 1 2024,18:30,CEST/+0200,Aurora Pro Patria,,,Novara Calcio,2024-10-01T16:30Z
+8,Sun Oct 6 2024,,,Arzignano Valchiampo,,,ASC Alcione,
+8,Sun Oct 6 2024,,,Atalanta II,,,Giana Erminio,
+8,Sun Oct 6 2024,,,Caldiero Terme,,,Virtus Verona,
+8,Sun Oct 6 2024,,,Calcio Lecco 1912,,,AC Renate,
+8,Sun Oct 6 2024,,,FC Lumezzane,,,Trento Calcio 1921,
+8,Sun Oct 6 2024,,,Novara Calcio,,,US Pergolettese,
+8,Sun Oct 6 2024,,,Calcio Padova,,,L.R. Vicenza,
+8,Sun Oct 6 2024,,,US Triestina,,,Pro Vercelli,
+8,Sun Oct 6 2024,,,Clodiense SSD,,,Aurora Pro Patria,
+8,Mon Oct 7 2024,20:30,CEST/+0200,Feralpisalò,,,UC AlbinoLeffe,2024-10-07T18:30Z
+9,Fri Oct 11 2024,20:30,CEST/+0200,AC Renate,,,Novara Calcio,2024-10-11T18:30Z
+9,Sat Oct 12 2024,15:00,CEST/+0200,ASC Alcione,,,US Triestina,2024-10-12T13:00Z
+9,Sat Oct 12 2024,15:00,CEST/+0200,Virtus Verona,,,Arzignano Valchiampo,2024-10-12T13:00Z
+9,Sat Oct 12 2024,17:30,CEST/+0200,UC AlbinoLeffe,,,Atalanta II,2024-10-12T15:30Z
+9,Sat Oct 12 2024,17:30,CEST/+0200,Giana Erminio,,,Calcio Padova,2024-10-12T15:30Z
+9,Sat Oct 12 2024,17:30,CEST/+0200,Aurora Pro Patria,,,Calcio Lecco 1912,2024-10-12T15:30Z
+9,Sun Oct 13 2024,15:00,CEST/+0200,L.R. Vicenza,,,FC Lumezzane,2024-10-13T13:00Z
+9,Sun Oct 13 2024,15:00,CEST/+0200,US Pergolettese,,,Trento Calcio 1921,2024-10-13T13:00Z
+9,Sun Oct 13 2024,15:00,CEST/+0200,Pro Vercelli,,,Clodiense SSD,2024-10-13T13:00Z
+9,Sun Oct 13 2024,12:30,CEST/+0200,Feralpisalò,,,Caldiero Terme,2024-10-13T10:30Z
+10,Sun Oct 20 2024,,,Arzignano Valchiampo,,,L.R. Vicenza,
+10,Sun Oct 20 2024,,,Atalanta II,,,AC Renate,
+10,Sun Oct 20 2024,,,Caldiero Terme,,,Aurora Pro Patria,
+10,Sun Oct 20 2024,,,Calcio Lecco 1912,,,US Pergolettese,
+10,Sun Oct 20 2024,,,FC Lumezzane,,,Giana Erminio,
+10,Sun Oct 20 2024,,,Novara Calcio,,,UC AlbinoLeffe,
+10,Sun Oct 20 2024,,,Calcio Padova,,,Feralpisalò,
+10,Sun Oct 20 2024,,,Trento Calcio 1921,,,Pro Vercelli,
+10,Sun Oct 20 2024,,,US Triestina,,,Virtus Verona,
+10,Sun Oct 20 2024,,,Clodiense SSD,,,ASC Alcione,
+11,Sun Oct 27 2024,,,UC AlbinoLeffe,,,Calcio Padova,
+11,Sun Oct 27 2024,,,ASC Alcione,,,FC Lumezzane,
+11,Sun Oct 27 2024,,,Feralpisalò,,,Calcio Lecco 1912,
+11,Sun Oct 27 2024,,,Giana Erminio,,,Novara Calcio,
+11,Sun Oct 27 2024,,,L.R. Vicenza,,,Atalanta II,
+11,Sun Oct 27 2024,,,US Pergolettese,,,US Triestina,
+11,Sun Oct 27 2024,,,Aurora Pro Patria,,,Trento Calcio 1921,
+11,Sun Oct 27 2024,,,Pro Vercelli,,,Arzignano Valchiampo,
+11,Sun Oct 27 2024,,,AC Renate,,,Caldiero Terme,
+11,Sun Oct 27 2024,,,Virtus Verona,,,Clodiense SSD,
+12,Wed Oct 30 2024,,,Arzignano Valchiampo,,,Aurora Pro Patria,
+12,Wed Oct 30 2024,,,Atalanta II,,,Pro Vercelli,
+12,Wed Oct 30 2024,,,Caldiero Terme,,,Giana Erminio,
+12,Wed Oct 30 2024,,,Calcio Lecco 1912,,,ASC Alcione,
+12,Wed Oct 30 2024,,,FC Lumezzane,,,US Pergolettese,
+12,Wed Oct 30 2024,,,Novara Calcio,,,L.R. Vicenza,
+12,Wed Oct 30 2024,,,Calcio Padova,,,AC Renate,
+12,Wed Oct 30 2024,,,Trento Calcio 1921,,,Virtus Verona,
+12,Wed Oct 30 2024,,,US Triestina,,,UC AlbinoLeffe,
+12,Wed Oct 30 2024,,,Clodiense SSD,,,Feralpisalò,
+13,Sun Nov 3 2024,,,UC AlbinoLeffe,,,Clodiense SSD,
+13,Sun Nov 3 2024,,,ASC Alcione,,,Trento Calcio 1921,
+13,Sun Nov 3 2024,,,Feralpisalò,,,Atalanta II,
+13,Sun Nov 3 2024,,,Giana Erminio,,,Arzignano Valchiampo,
+13,Sun Nov 3 2024,,,L.R. Vicenza,,,Calcio Lecco 1912,
+13,Sun Nov 3 2024,,,Novara Calcio,,,Caldiero Terme,
+13,Sun Nov 3 2024,,,US Pergolettese,,,Calcio Padova,
+13,Sun Nov 3 2024,,,Aurora Pro Patria,,,US Triestina,
+13,Sun Nov 3 2024,,,AC Renate,,,FC Lumezzane,
+13,Sun Nov 3 2024,,,Virtus Verona,,,Pro Vercelli,
+14,Sun Nov 10 2024,,,Arzignano Valchiampo,,,US Pergolettese,
+14,Sun Nov 10 2024,,,Atalanta II,,,Aurora Pro Patria,
+14,Sun Nov 10 2024,,,Caldiero Terme,,,L.R. Vicenza,
+14,Sun Nov 10 2024,,,Calcio Lecco 1912,,,Virtus Verona,
+14,Sun Nov 10 2024,,,FC Lumezzane,,,UC AlbinoLeffe,
+14,Sun Nov 10 2024,,,Calcio Padova,,,Novara Calcio,
+14,Sun Nov 10 2024,,,Pro Vercelli,,,ASC Alcione,
+14,Sun Nov 10 2024,,,Trento Calcio 1921,,,Feralpisalò,
+14,Sun Nov 10 2024,,,US Triestina,,,Giana Erminio,
+14,Sun Nov 10 2024,,,Clodiense SSD,,,AC Renate,
+15,Sun Nov 17 2024,,,UC AlbinoLeffe,,,Trento Calcio 1921,
+15,Sun Nov 17 2024,,,Caldiero Terme,,,FC Lumezzane,
+15,Sun Nov 17 2024,,,Feralpisalò,,,US Triestina,
+15,Sun Nov 17 2024,,,Giana Erminio,,,Calcio Lecco 1912,
+15,Sun Nov 17 2024,,,L.R. Vicenza,,,Pro Vercelli,
+15,Sun Nov 17 2024,,,Novara Calcio,,,Clodiense SSD,
+15,Sun Nov 17 2024,,,Calcio Padova,,,Atalanta II,
+15,Sun Nov 17 2024,,,US Pergolettese,,,ASC Alcione,
+15,Sun Nov 17 2024,,,Aurora Pro Patria,,,Virtus Verona,
+15,Sun Nov 17 2024,,,AC Renate,,,Arzignano Valchiampo,
+16,Sun Nov 24 2024,,,ASC Alcione,,,Aurora Pro Patria,
+16,Sun Nov 24 2024,,,Arzignano Valchiampo,,,Novara Calcio,
+16,Sun Nov 24 2024,,,Atalanta II,,,Caldiero Terme,
+16,Sun Nov 24 2024,,,Calcio Lecco 1912,,,Calcio Padova,
+16,Sun Nov 24 2024,,,FC Lumezzane,,,Feralpisalò,
+16,Sun Nov 24 2024,,,Pro Vercelli,,,UC AlbinoLeffe,
+16,Sun Nov 24 2024,,,Trento Calcio 1921,,,Giana Erminio,
+16,Sun Nov 24 2024,,,US Triestina,,,AC Renate,
+16,Sun Nov 24 2024,,,Clodiense SSD,,,L.R. Vicenza,
+16,Sun Nov 24 2024,,,Virtus Verona,,,US Pergolettese,
+17,Sun Dec 1 2024,,,UC AlbinoLeffe,,,Calcio Lecco 1912,
+17,Sun Dec 1 2024,,,Atalanta II,,,Clodiense SSD,
+17,Sun Dec 1 2024,,,Caldiero Terme,,,Arzignano Valchiampo,
+17,Sun Dec 1 2024,,,Feralpisalò,,,ASC Alcione,
+17,Sun Dec 1 2024,,,Giana Erminio,,,US Pergolettese,
+17,Sun Dec 1 2024,,,L.R. Vicenza,,,Virtus Verona,
+17,Sun Dec 1 2024,,,Novara Calcio,,,FC Lumezzane,
+17,Sun Dec 1 2024,,,Calcio Padova,,,US Triestina,
+17,Sun Dec 1 2024,,,Aurora Pro Patria,,,Pro Vercelli,
+17,Sun Dec 1 2024,,,AC Renate,,,Trento Calcio 1921,
+18,Sun Dec 8 2024,,,ASC Alcione,,,UC AlbinoLeffe,
+18,Sun Dec 8 2024,,,Arzignano Valchiampo,,,Atalanta II,
+18,Sun Dec 8 2024,,,Calcio Lecco 1912,,,Caldiero Terme,
+18,Sun Dec 8 2024,,,FC Lumezzane,,,Aurora Pro Patria,
+18,Sun Dec 8 2024,,,US Pergolettese,,,AC Renate,
+18,Sun Dec 8 2024,,,Pro Vercelli,,,Feralpisalò,
+18,Sun Dec 8 2024,,,Trento Calcio 1921,,,Novara Calcio,
+18,Sun Dec 8 2024,,,US Triestina,,,L.R. Vicenza,
+18,Sun Dec 8 2024,,,Clodiense SSD,,,Calcio Padova,
+18,Sun Dec 8 2024,,,Virtus Verona,,,Giana Erminio,
+19,Sun Dec 15 2024,,,UC AlbinoLeffe,,,Virtus Verona,
+19,Sun Dec 15 2024,,,Atalanta II,,,Calcio Lecco 1912,
+19,Sun Dec 15 2024,,,Caldiero Terme,,,Clodiense SSD,
+19,Sun Dec 15 2024,,,Feralpisalò,,,Arzignano Valchiampo,
+19,Sun Dec 15 2024,,,Giana Erminio,,,ASC Alcione,
+19,Sun Dec 15 2024,,,L.R. Vicenza,,,Trento Calcio 1921,
+19,Sun Dec 15 2024,,,Novara Calcio,,,US Triestina,
+19,Sun Dec 15 2024,,,Calcio Padova,,,FC Lumezzane,
+19,Sun Dec 15 2024,,,Aurora Pro Patria,,,US Pergolettese,
+19,Sun Dec 15 2024,,,AC Renate,,,Pro Vercelli,
+20,Sun Dec 22 2024,,,Caldiero Terme,,,UC AlbinoLeffe,
+20,Sun Dec 22 2024,,,ASC Alcione,,,Atalanta II,
+20,Sun Dec 22 2024,,,Novara Calcio,,,Feralpisalò,
+20,Sun Dec 22 2024,,,Giana Erminio,,,L.R. Vicenza,
+20,Sun Dec 22 2024,,,Clodiense SSD,,,Calcio Lecco 1912,
+20,Sun Dec 22 2024,,,Trento Calcio 1921,,,Calcio Padova,
+20,Sun Dec 22 2024,,,AC Renate,,,Aurora Pro Patria,
+20,Sun Dec 22 2024,,,US Pergolettese,,,Pro Vercelli,
+20,Sun Dec 22 2024,,,Arzignano Valchiampo,,,US Triestina,
+20,Sun Dec 22 2024,,,FC Lumezzane,,,Virtus Verona,
+21,Sun Jan 5 2025,,,Virtus Verona,,,ASC Alcione,
+21,Sun Jan 5 2025,,,UC AlbinoLeffe,,,Arzignano Valchiampo,
+21,Sun Jan 5 2025,,,Calcio Padova,,,Caldiero Terme,
+21,Sun Jan 5 2025,,,Aurora Pro Patria,,,Giana Erminio,
+21,Sun Jan 5 2025,,,Pro Vercelli,,,FC Lumezzane,
+21,Sun Jan 5 2025,,,Atalanta II,,,Novara Calcio,
+21,Sun Jan 5 2025,,,L.R. Vicenza,,,US Pergolettese,
+21,Sun Jan 5 2025,,,Feralpisalò,,,AC Renate,
+21,Sun Jan 5 2025,,,Calcio Lecco 1912,,,Trento Calcio 1921,
+21,Sun Jan 5 2025,,,US Triestina,,,Clodiense SSD,
+22,Sun Jan 12 2025,,,L.R. Vicenza,,,UC AlbinoLeffe,
+22,Sun Jan 12 2025,,,AC Renate,,,ASC Alcione,
+22,Sun Jan 12 2025,,,Calcio Padova,,,Arzignano Valchiampo,
+22,Sun Jan 12 2025,,,Trento Calcio 1921,,,Atalanta II,
+22,Sun Jan 12 2025,,,FC Lumezzane,,,Calcio Lecco 1912,
+22,Sun Jan 12 2025,,,Clodiense SSD,,,US Pergolettese,
+22,Sun Jan 12 2025,,,Feralpisalò,,,Aurora Pro Patria,
+22,Sun Jan 12 2025,,,Giana Erminio,,,Pro Vercelli,
+22,Sun Jan 12 2025,,,Caldiero Terme,,,US Triestina,
+22,Sun Jan 12 2025,,,Novara Calcio,,,Virtus Verona,
+23,Sun Jan 19 2025,,,US Pergolettese,,,UC AlbinoLeffe,
+23,Sun Jan 19 2025,,,Pro Vercelli,,,Caldiero Terme,
+23,Sun Jan 19 2025,,,Virtus Verona,,,Feralpisalò,
+23,Sun Jan 19 2025,,,Aurora Pro Patria,,,L.R. Vicenza,
+23,Sun Jan 19 2025,,,Calcio Lecco 1912,,,Novara Calcio,
+23,Sun Jan 19 2025,,,ASC Alcione,,,Calcio Padova,
+23,Sun Jan 19 2025,,,Giana Erminio,,,AC Renate,
+23,Sun Jan 19 2025,,,Arzignano Valchiampo,,,Trento Calcio 1921,
+23,Sun Jan 19 2025,,,Atalanta II,,,US Triestina,
+23,Sun Jan 19 2025,,,FC Lumezzane,,,Clodiense SSD,
+24,Sun Jan 26 2025,,,L.R. Vicenza,,,ASC Alcione,
+24,Sun Jan 26 2025,,,Clodiense SSD,,,Arzignano Valchiampo,
+24,Sun Jan 26 2025,,,UC AlbinoLeffe,,,Giana Erminio,
+24,Sun Jan 26 2025,,,US Triestina,,,Calcio Lecco 1912,
+24,Sun Jan 26 2025,,,Atalanta II,,,FC Lumezzane,
+24,Sun Jan 26 2025,,,Feralpisalò,,,US Pergolettese,
+24,Sun Jan 26 2025,,,Novara Calcio,,,Aurora Pro Patria,
+24,Sun Jan 26 2025,,,Calcio Padova,,,Pro Vercelli,
+24,Sun Jan 26 2025,,,Caldiero Terme,,,Trento Calcio 1921,
+24,Sun Jan 26 2025,,,AC Renate,,,Virtus Verona,
+25,Sun Feb 2 2025,,,Aurora Pro Patria,,,UC AlbinoLeffe,
+25,Sun Feb 2 2025,,,US Pergolettese,,,Atalanta II,
+25,Sun Feb 2 2025,,,ASC Alcione,,,Caldiero Terme,
+25,Sun Feb 2 2025,,,Giana Erminio,,,Feralpisalò,
+25,Sun Feb 2 2025,,,AC Renate,,,L.R. Vicenza,
+25,Sun Feb 2 2025,,,Arzignano Valchiampo,,,Calcio Lecco 1912,
+25,Sun Feb 2 2025,,,Pro Vercelli,,,Novara Calcio,
+25,Sun Feb 2 2025,,,Virtus Verona,,,Calcio Padova,
+25,Sun Feb 2 2025,,,FC Lumezzane,,,US Triestina,
+25,Sun Feb 2 2025,,,Trento Calcio 1921,,,Clodiense SSD,
+26,Sun Feb 9 2025,,,Novara Calcio,,,ASC Alcione,
+26,Sun Feb 9 2025,,,Clodiense SSD,,,Giana Erminio,
+26,Sun Feb 9 2025,,,Feralpisalò,,,L.R. Vicenza,
+26,Sun Feb 9 2025,,,Arzignano Valchiampo,,,FC Lumezzane,
+26,Sun Feb 9 2025,,,Caldiero Terme,,,US Pergolettese,
+26,Sun Feb 9 2025,,,Calcio Padova,,,Aurora Pro Patria,
+26,Sun Feb 9 2025,,,Calcio Lecco 1912,,,Pro Vercelli,
+26,Sun Feb 9 2025,,,UC AlbinoLeffe,,,AC Renate,
+26,Sun Feb 9 2025,,,US Triestina,,,Trento Calcio 1921,
+26,Sun Feb 9 2025,,,Atalanta II,,,Virtus Verona,
+27,Sun Feb 16 2025,,,ASC Alcione,,,Arzignano Valchiampo,
+27,Sun Feb 16 2025,,,Giana Erminio,,,Atalanta II,
+27,Sun Feb 16 2025,,,Virtus Verona,,,Caldiero Terme,
+27,Sun Feb 16 2025,,,UC AlbinoLeffe,,,Feralpisalò,
+27,Sun Feb 16 2025,,,AC Renate,,,Calcio Lecco 1912,
+27,Sun Feb 16 2025,,,Trento Calcio 1921,,,FC Lumezzane,
+27,Sun Feb 16 2025,,,US Pergolettese,,,Novara Calcio,
+27,Sun Feb 16 2025,,,L.R. Vicenza,,,Calcio Padova,
+27,Sun Feb 16 2025,,,Pro Vercelli,,,US Triestina,
+27,Sun Feb 16 2025,,,Aurora Pro Patria,,,Clodiense SSD,
+28,Sun Feb 23 2025,,,Atalanta II,,,UC AlbinoLeffe,
+28,Sun Feb 23 2025,,,US Triestina,,,ASC Alcione,
+28,Sun Feb 23 2025,,,Caldiero Terme,,,Feralpisalò,
+28,Sun Feb 23 2025,,,Calcio Padova,,,Giana Erminio,
+28,Sun Feb 23 2025,,,FC Lumezzane,,,L.R. Vicenza,
+28,Sun Feb 23 2025,,,Trento Calcio 1921,,,US Pergolettese,
+28,Sun Feb 23 2025,,,Calcio Lecco 1912,,,Aurora Pro Patria,
+28,Sun Feb 23 2025,,,Clodiense SSD,,,Pro Vercelli,
+28,Sun Feb 23 2025,,,Novara Calcio,,,AC Renate,
+28,Sun Feb 23 2025,,,Arzignano Valchiampo,,,Virtus Verona,
+29,Sun Mar 2 2025,,,L.R. Vicenza,,,Arzignano Valchiampo,
+29,Sun Mar 2 2025,,,AC Renate,,,Atalanta II,
+29,Sun Mar 2 2025,,,Aurora Pro Patria,,,Caldiero Terme,
+29,Sun Mar 2 2025,,,US Pergolettese,,,Calcio Lecco 1912,
+29,Sun Mar 2 2025,,,Giana Erminio,,,FC Lumezzane,
+29,Sun Mar 2 2025,,,UC AlbinoLeffe,,,Novara Calcio,
+29,Sun Mar 2 2025,,,Feralpisalò,,,Calcio Padova,
+29,Sun Mar 2 2025,,,Pro Vercelli,,,Trento Calcio 1921,
+29,Sun Mar 2 2025,,,Virtus Verona,,,US Triestina,
+29,Sun Mar 2 2025,,,ASC Alcione,,,Clodiense SSD,
+30,Sun Mar 9 2025,,,Calcio Padova,,,UC AlbinoLeffe,
+30,Sun Mar 9 2025,,,FC Lumezzane,,,ASC Alcione,
+30,Sun Mar 9 2025,,,Calcio Lecco 1912,,,Feralpisalò,
+30,Sun Mar 9 2025,,,Novara Calcio,,,Giana Erminio,
+30,Sun Mar 9 2025,,,Atalanta II,,,L.R. Vicenza,
+30,Sun Mar 9 2025,,,US Triestina,,,US Pergolettese,
+30,Sun Mar 9 2025,,,Trento Calcio 1921,,,Aurora Pro Patria,
+30,Sun Mar 9 2025,,,Arzignano Valchiampo,,,Pro Vercelli,
+30,Sun Mar 9 2025,,,Caldiero Terme,,,AC Renate,
+30,Sun Mar 9 2025,,,Clodiense SSD,,,Virtus Verona,
+31,Wed Mar 12 2025,,,Aurora Pro Patria,,,Arzignano Valchiampo,
+31,Wed Mar 12 2025,,,Pro Vercelli,,,Atalanta II,
+31,Wed Mar 12 2025,,,Giana Erminio,,,Caldiero Terme,
+31,Wed Mar 12 2025,,,ASC Alcione,,,Calcio Lecco 1912,
+31,Wed Mar 12 2025,,,US Pergolettese,,,FC Lumezzane,
+31,Wed Mar 12 2025,,,L.R. Vicenza,,,Novara Calcio,
+31,Wed Mar 12 2025,,,AC Renate,,,Calcio Padova,
+31,Wed Mar 12 2025,,,Virtus Verona,,,Trento Calcio 1921,
+31,Wed Mar 12 2025,,,UC AlbinoLeffe,,,US Triestina,
+31,Wed Mar 12 2025,,,Feralpisalò,,,Clodiense SSD,
+32,Sun Mar 16 2025,,,Clodiense SSD,,,UC AlbinoLeffe,
+32,Sun Mar 16 2025,,,Trento Calcio 1921,,,ASC Alcione,
+32,Sun Mar 16 2025,,,Atalanta II,,,Feralpisalò,
+32,Sun Mar 16 2025,,,Arzignano Valchiampo,,,Giana Erminio,
+32,Sun Mar 16 2025,,,Calcio Lecco 1912,,,L.R. Vicenza,
+32,Sun Mar 16 2025,,,Caldiero Terme,,,Novara Calcio,
+32,Sun Mar 16 2025,,,Calcio Padova,,,US Pergolettese,
+32,Sun Mar 16 2025,,,US Triestina,,,Aurora Pro Patria,
+32,Sun Mar 16 2025,,,FC Lumezzane,,,AC Renate,
+32,Sun Mar 16 2025,,,Pro Vercelli,,,Virtus Verona,
+33,Sun Mar 23 2025,,,US Pergolettese,,,Arzignano Valchiampo,
+33,Sun Mar 23 2025,,,Aurora Pro Patria,,,Atalanta II,
+33,Sun Mar 23 2025,,,L.R. Vicenza,,,Caldiero Terme,
+33,Sun Mar 23 2025,,,Virtus Verona,,,Calcio Lecco 1912,
+33,Sun Mar 23 2025,,,UC AlbinoLeffe,,,FC Lumezzane,
+33,Sun Mar 23 2025,,,Novara Calcio,,,Calcio Padova,
+33,Sun Mar 23 2025,,,ASC Alcione,,,Pro Vercelli,
+33,Sun Mar 23 2025,,,Feralpisalò,,,Trento Calcio 1921,
+33,Sun Mar 23 2025,,,Giana Erminio,,,US Triestina,
+33,Sun Mar 23 2025,,,AC Renate,,,Clodiense SSD,
+34,Sun Mar 30 2025,,,Trento Calcio 1921,,,UC AlbinoLeffe,
+34,Sun Mar 30 2025,,,FC Lumezzane,,,Caldiero Terme,
+34,Sun Mar 30 2025,,,US Triestina,,,Feralpisalò,
+34,Sun Mar 30 2025,,,Calcio Lecco 1912,,,Giana Erminio,
+34,Sun Mar 30 2025,,,Pro Vercelli,,,L.R. Vicenza,
+34,Sun Mar 30 2025,,,Clodiense SSD,,,Novara Calcio,
+34,Sun Mar 30 2025,,,Atalanta II,,,Calcio Padova,
+34,Sun Mar 30 2025,,,ASC Alcione,,,US Pergolettese,
+34,Sun Mar 30 2025,,,Virtus Verona,,,Aurora Pro Patria,
+34,Sun Mar 30 2025,,,Arzignano Valchiampo,,,AC Renate,
+35,Sun Apr 6 2025,,,Aurora Pro Patria,,,ASC Alcione,
+35,Sun Apr 6 2025,,,Novara Calcio,,,Arzignano Valchiampo,
+35,Sun Apr 6 2025,,,Caldiero Terme,,,Atalanta II,
+35,Sun Apr 6 2025,,,Calcio Padova,,,Calcio Lecco 1912,
+35,Sun Apr 6 2025,,,Feralpisalò,,,FC Lumezzane,
+35,Sun Apr 6 2025,,,UC AlbinoLeffe,,,Pro Vercelli,
+35,Sun Apr 6 2025,,,Giana Erminio,,,Trento Calcio 1921,
+35,Sun Apr 6 2025,,,AC Renate,,,US Triestina,
+35,Sun Apr 6 2025,,,L.R. Vicenza,,,Clodiense SSD,
+35,Sun Apr 6 2025,,,US Pergolettese,,,Virtus Verona,
+36,Sun Apr 13 2025,,,Calcio Lecco 1912,,,UC AlbinoLeffe,
+36,Sun Apr 13 2025,,,Clodiense SSD,,,Atalanta II,
+36,Sun Apr 13 2025,,,Arzignano Valchiampo,,,Caldiero Terme,
+36,Sun Apr 13 2025,,,ASC Alcione,,,Feralpisalò,
+36,Sun Apr 13 2025,,,US Pergolettese,,,Giana Erminio,
+36,Sun Apr 13 2025,,,Virtus Verona,,,L.R. Vicenza,
+36,Sun Apr 13 2025,,,FC Lumezzane,,,Novara Calcio,
+36,Sun Apr 13 2025,,,US Triestina,,,Calcio Padova,
+36,Sun Apr 13 2025,,,Pro Vercelli,,,Aurora Pro Patria,
+36,Sun Apr 13 2025,,,Trento Calcio 1921,,,AC Renate,
+37,Sat Apr 19 2025,,,UC AlbinoLeffe,,,ASC Alcione,
+37,Sat Apr 19 2025,,,Atalanta II,,,Arzignano Valchiampo,
+37,Sat Apr 19 2025,,,Caldiero Terme,,,Calcio Lecco 1912,
+37,Sat Apr 19 2025,,,Aurora Pro Patria,,,FC Lumezzane,
+37,Sat Apr 19 2025,,,AC Renate,,,US Pergolettese,
+37,Sat Apr 19 2025,,,Feralpisalò,,,Pro Vercelli,
+37,Sat Apr 19 2025,,,Novara Calcio,,,Trento Calcio 1921,
+37,Sat Apr 19 2025,,,L.R. Vicenza,,,US Triestina,
+37,Sat Apr 19 2025,,,Calcio Padova,,,Clodiense SSD,
+37,Sat Apr 19 2025,,,Giana Erminio,,,Virtus Verona,
+38,Sun Apr 27 2025,,,Virtus Verona,,,UC AlbinoLeffe,
+38,Sun Apr 27 2025,,,Calcio Lecco 1912,,,Atalanta II,
+38,Sun Apr 27 2025,,,Clodiense SSD,,,Caldiero Terme,
+38,Sun Apr 27 2025,,,Arzignano Valchiampo,,,Feralpisalò,
+38,Sun Apr 27 2025,,,ASC Alcione,,,Giana Erminio,
+38,Sun Apr 27 2025,,,Trento Calcio 1921,,,L.R. Vicenza,
+38,Sun Apr 27 2025,,,US Triestina,,,Novara Calcio,
+38,Sun Apr 27 2025,,,FC Lumezzane,,,Calcio Padova,
+38,Sun Apr 27 2025,,,US Pergolettese,,,Aurora Pro Patria,
+38,Sun Apr 27 2025,,,Pro Vercelli,,,AC Renate,

@@ -47,58 +47,58 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 5,Sun Sep 15 2024,14:00,CEST/+0200,RC Celta,3-1,2-0,Real Valladolid,2024-09-15T12:00Z
 5,Sun Sep 15 2024,16:15,CEST/+0200,Girona FC,1-4,0-2,FC Barcelona,2024-09-15T14:15Z
 5,Sun Sep 15 2024,18:30,CEST/+0200,UD Las Palmas,2-3,0-2,Athletic Bilbao,2024-09-15T16:30Z
-5,Mon Sep 16 2024,21:00,CEST/+0200,Rayo Vallecano,,,CA Osasuna,2024-09-16T19:00Z
-7,Tue Sep 17 2024,19:00,CEST/+0200,RCD Mallorca,,,Real Sociedad,2024-09-17T17:00Z
-3,Wed Sep 18 2024,19:00,CEST/+0200,Real Betis,,,Getafe CF,2024-09-18T17:00Z
-7,Thu Sep 19 2024,19:00,CEST/+0200,CD Leganés,,,Athletic Bilbao,2024-09-19T17:00Z
-6,Fri Sep 20 2024,21:00,CEST/+0200,CD Alavés,,,Sevilla FC,2024-09-20T19:00Z
-6,Sat Sep 21 2024,18:30,CEST/+0200,Valencia CF,,,Girona FC,2024-09-21T16:30Z
-6,Sat Sep 21 2024,16:15,CEST/+0200,CA Osasuna,,,UD Las Palmas,2024-09-21T14:15Z
-6,Sat Sep 21 2024,14:00,CEST/+0200,Real Valladolid,,,Real Sociedad,2024-09-21T12:00Z
-6,Sat Sep 21 2024,21:00,CEST/+0200,Real Madrid,,,Espanyol Barcelona,2024-09-21T19:00Z
-6,Sun Sep 22 2024,21:00,CEST/+0200,Rayo Vallecano,,,Atlético Madrid,2024-09-22T19:00Z
-6,Sun Sep 22 2024,14:00,CEST/+0200,Getafe CF,,,CD Leganés,2024-09-22T12:00Z
-6,Sun Sep 22 2024,16:15,CEST/+0200,Athletic Bilbao,,,RC Celta,2024-09-22T14:15Z
-6,Sun Sep 22 2024,18:30,CEST/+0200,Villarreal CF,,,FC Barcelona,2024-09-22T16:30Z
+5,Mon Sep 16 2024,21:00,CEST/+0200,Rayo Vallecano,3-1,0-1,CA Osasuna,2024-09-16T19:00Z
+7,Tue Sep 17 2024,19:00,CEST/+0200,RCD Mallorca,1-0,1-0,Real Sociedad,2024-09-17T17:00Z
+3,Wed Sep 18 2024,19:00,CEST/+0200,Real Betis,2-1,0-0,Getafe CF,2024-09-18T17:00Z
+7,Thu Sep 19 2024,19:00,CEST/+0200,CD Leganés,0-2,0-0,Athletic Bilbao,2024-09-19T17:00Z
+6,Fri Sep 20 2024,21:00,CEST/+0200,CD Alavés,2-1,1-0,Sevilla FC,2024-09-20T19:00Z
+6,Sat Sep 21 2024,21:00,CEST/+0200,Real Madrid,4-1,0-0,Espanyol Barcelona,2024-09-21T19:00Z
+6,Sat Sep 21 2024,14:00,CEST/+0200,Real Valladolid,0-0,0-0,Real Sociedad,2024-09-21T12:00Z
+6,Sat Sep 21 2024,18:30,CEST/+0200,Valencia CF,2-0,0-0,Girona FC,2024-09-21T16:30Z
+6,Sat Sep 21 2024,16:15,CEST/+0200,CA Osasuna,2-1,1-1,UD Las Palmas,2024-09-21T14:15Z
+6,Sun Sep 22 2024,21:00,CEST/+0200,Rayo Vallecano,1-1,1-0,Atlético Madrid,2024-09-22T19:00Z
+6,Sun Sep 22 2024,18:30,CEST/+0200,Villarreal CF,1-5,1-2,FC Barcelona,2024-09-22T16:30Z
+6,Sun Sep 22 2024,16:15,CEST/+0200,Athletic Bilbao,3-1,2-1,RC Celta,2024-09-22T14:15Z
+6,Sun Sep 22 2024,14:00,CEST/+0200,Getafe CF,1-1,0-0,CD Leganés,2024-09-22T12:00Z
 6,Mon Sep 23 2024,21:00,CEST/+0200,Real Betis,,,RCD Mallorca,2024-09-23T19:00Z
 7,Tue Sep 24 2024,19:00,CEST/+0200,Valencia CF,,,CA Osasuna,2024-09-24T17:00Z
 7,Tue Sep 24 2024,21:00,CEST/+0200,Real Madrid,,,CD Alavés,2024-09-24T19:00Z
 7,Tue Sep 24 2024,19:00,CEST/+0200,Sevilla FC,,,Real Valladolid,2024-09-24T17:00Z
-7,Wed Sep 25 2024,21:00,CEST/+0200,FC Barcelona,,,Getafe CF,2024-09-25T19:00Z
 7,Wed Sep 25 2024,19:00,CEST/+0200,Girona FC,,,Rayo Vallecano,2024-09-25T17:00Z
-7,Thu Sep 26 2024,19:00,CEST/+0200,UD Las Palmas,,,Real Betis,2024-09-26T17:00Z
+7,Wed Sep 25 2024,21:00,CEST/+0200,FC Barcelona,,,Getafe CF,2024-09-25T19:00Z
 7,Thu Sep 26 2024,19:00,CEST/+0200,Espanyol Barcelona,,,Villarreal CF,2024-09-26T17:00Z
 7,Thu Sep 26 2024,21:00,CEST/+0200,RC Celta,,,Atlético Madrid,2024-09-26T19:00Z
+7,Thu Sep 26 2024,19:00,CEST/+0200,UD Las Palmas,,,Real Betis,2024-09-26T17:00Z
 8,Fri Sep 27 2024,21:00,CEST/+0200,Real Valladolid,,,RCD Mallorca,2024-09-27T19:00Z
+8,Sat Sep 28 2024,14:00,CEST/+0200,Getafe CF,,,CD Alavés,2024-09-28T12:00Z
 8,Sat Sep 28 2024,16:15,CEST/+0200,Rayo Vallecano,,,CD Leganés,2024-09-28T14:15Z
 8,Sat Sep 28 2024,18:30,CEST/+0200,Real Sociedad,,,Valencia CF,2024-09-28T16:30Z
 8,Sat Sep 28 2024,21:00,CEST/+0200,CA Osasuna,,,FC Barcelona,2024-09-28T19:00Z
-8,Sat Sep 28 2024,14:00,CEST/+0200,Getafe CF,,,CD Alavés,2024-09-28T12:00Z
-8,Sun Sep 29 2024,14:00,CEST/+0200,RC Celta,,,Girona FC,2024-09-29T12:00Z
 8,Sun Sep 29 2024,16:15,CEST/+0200,Athletic Bilbao,,,Sevilla FC,2024-09-29T14:15Z
 8,Sun Sep 29 2024,18:30,CEST/+0200,Real Betis,,,Espanyol Barcelona,2024-09-29T16:30Z
 8,Sun Sep 29 2024,21:00,CEST/+0200,Atlético Madrid,,,Real Madrid,2024-09-29T19:00Z
+8,Sun Sep 29 2024,14:00,CEST/+0200,RC Celta,,,Girona FC,2024-09-29T12:00Z
 8,Mon Sep 30 2024,21:00,CEST/+0200,Villarreal CF,,,UD Las Palmas,2024-09-30T19:00Z
-9,Sun Oct 6 2024,,,CD Leganés,,,Valencia CF,
-9,Sun Oct 6 2024,,,CD Alavés,,,FC Barcelona,
-9,Sun Oct 6 2024,,,Getafe CF,,,CA Osasuna,
-9,Sun Oct 6 2024,,,Girona FC,,,Athletic Bilbao,
-9,Sun Oct 6 2024,,,Sevilla FC,,,Real Betis,
-9,Sun Oct 6 2024,,,Real Madrid,,,Villarreal CF,
-9,Sun Oct 6 2024,,,Real Sociedad,,,Atlético Madrid,
-9,Sun Oct 6 2024,,,Real Valladolid,,,Rayo Vallecano,
-9,Sun Oct 6 2024,,,UD Las Palmas,,,RC Celta,
-9,Sun Oct 6 2024,,,Espanyol Barcelona,,,RCD Mallorca,
-10,Sun Oct 20 2024,,,Atlético Madrid,,,CD Leganés,
-10,Sun Oct 20 2024,,,CA Osasuna,,,Real Betis,
-10,Sun Oct 20 2024,,,RC Celta,,,Real Madrid,
-10,Sun Oct 20 2024,,,CD Alavés,,,Real Valladolid,
-10,Sun Oct 20 2024,,,FC Barcelona,,,Sevilla FC,
-10,Sun Oct 20 2024,,,Girona FC,,,Real Sociedad,
-10,Sun Oct 20 2024,,,Valencia CF,,,UD Las Palmas,
-10,Sun Oct 20 2024,,,Villarreal CF,,,Getafe CF,
-10,Sun Oct 20 2024,,,RCD Mallorca,,,Rayo Vallecano,
-10,Sun Oct 20 2024,,,Athletic Bilbao,,,Espanyol Barcelona,
+9,Fri Oct 4 2024,21:00,CEST/+0200,CD Leganés,,,Valencia CF,2024-10-04T19:00Z
+9,Sat Oct 5 2024,14:00,CEST/+0200,Espanyol Barcelona,,,RCD Mallorca,2024-10-05T12:00Z
+9,Sat Oct 5 2024,16:15,CEST/+0200,Getafe CF,,,CA Osasuna,2024-10-05T14:15Z
+9,Sat Oct 5 2024,18:30,CEST/+0200,Real Valladolid,,,Rayo Vallecano,2024-10-05T16:30Z
+9,Sat Oct 5 2024,18:30,CEST/+0200,UD Las Palmas,,,RC Celta,2024-10-05T16:30Z
+9,Sat Oct 5 2024,21:00,CEST/+0200,Real Madrid,,,Villarreal CF,2024-10-05T19:00Z
+9,Sun Oct 6 2024,16:15,CEST/+0200,CD Alavés,,,FC Barcelona,2024-10-06T14:15Z
+9,Sun Oct 6 2024,18:30,CEST/+0200,Sevilla FC,,,Real Betis,2024-10-06T16:30Z
+9,Sun Oct 6 2024,21:00,CEST/+0200,Real Sociedad,,,Atlético Madrid,2024-10-06T19:00Z
+9,Sun Oct 6 2024,14:00,CEST/+0200,Girona FC,,,Athletic Bilbao,2024-10-06T12:00Z
+10,Fri Oct 18 2024,21:00,CEST/+0200,CD Alavés,,,Real Valladolid,2024-10-18T19:00Z
+10,Sat Oct 19 2024,16:15,CEST/+0200,CA Osasuna,,,Real Betis,2024-10-19T14:15Z
+10,Sat Oct 19 2024,18:30,CEST/+0200,Girona FC,,,Real Sociedad,2024-10-19T16:30Z
+10,Sat Oct 19 2024,21:00,CEST/+0200,RC Celta,,,Real Madrid,2024-10-19T19:00Z
+10,Sat Oct 19 2024,14:00,CEST/+0200,Athletic Bilbao,,,Espanyol Barcelona,2024-10-19T12:00Z
+10,Sun Oct 20 2024,14:00,CEST/+0200,RCD Mallorca,,,Rayo Vallecano,2024-10-20T12:00Z
+10,Sun Oct 20 2024,16:15,CEST/+0200,Atlético Madrid,,,CD Leganés,2024-10-20T14:15Z
+10,Sun Oct 20 2024,18:30,CEST/+0200,Villarreal CF,,,Getafe CF,2024-10-20T16:30Z
+10,Sun Oct 20 2024,21:00,CEST/+0200,FC Barcelona,,,Sevilla FC,2024-10-20T19:00Z
+10,Mon Oct 21 2024,21:00,CEST/+0200,Valencia CF,,,UD Las Palmas,2024-10-21T19:00Z
 11,Sun Oct 27 2024,,,Real Betis,,,Atlético Madrid,
 11,Sun Oct 27 2024,,,CD Leganés,,,RC Celta,
 11,Sun Oct 27 2024,,,Getafe CF,,,Valencia CF,

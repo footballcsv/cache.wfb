@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 23 2024,20:45,CEST/+0200,Juventus II,3-4,1-3,Audace Cerignola,2024-08-23T18:45Z
+1,Fri Aug 23 2024,20:45,CEST/+0200,Latina Calcio,1-1,0-0,Casertana FC,2024-08-23T18:45Z
+1,Fri Aug 23 2024,20:45,CEST/+0200,Giugliano,1-0,1-0,Taranto FC,2024-08-23T18:45Z
+1,Sat Aug 24 2024,18:00,CEST/+0200,Sorrento Calcio,0-0,0-0,Calcio Catania,2024-08-24T16:00Z
+1,Sun Aug 25 2024,18:00,CEST/+0200,AZ Picerno,4-1,0-0,US Avellino,2024-08-25T16:00Z
+1,Sun Aug 25 2024,20:45,CEST/+0200,ACR Messina,2-2,0-1,Potenza,2024-08-25T18:45Z
+1,Sun Aug 25 2024,20:45,CEST/+0200,FC Turris,0-2,0-2,SS Monopoli 1966,2024-08-25T18:45Z
+1,Mon Aug 26 2024,20:45,CEST/+0200,Benevento Calcio,2-1,0-1,Cavese,2024-08-26T18:45Z
+1,Mon Aug 26 2024,20:45,CEST/+0200,Foggia Calcio,2-2,1-1,Trapani Calcio,2024-08-26T18:45Z
+1,Mon Aug 26 2024,20:30,CEST/+0200,FC Crotone,2-0,2-0,Team Altamura,2024-08-26T18:30Z
+2,Fri Aug 30 2024,20:45,CEST/+0200,Audace Cerignola,2-0,1-0,ACR Messina,2024-08-30T18:45Z
+2,Fri Aug 30 2024,20:45,CEST/+0200,Casertana FC,2-3,2-2,Juventus II,2024-08-30T18:45Z
+2,Fri Aug 30 2024,20:45,CEST/+0200,Taranto FC,1-1,1-0,Latina Calcio,2024-08-30T18:45Z
+2,Sat Aug 31 2024,20:45,CEST/+0200,SS Monopoli 1966,0-1,0-1,Sorrento Calcio,2024-08-31T18:45Z
+2,Sun Sep 1 2024,20:45,CEST/+0200,Trapani Calcio,0-3,0-1,AZ Picerno,2024-09-01T18:45Z
+2,Sun Sep 1 2024,18:00,CEST/+0200,Potenza,2-0,1-0,FC Turris,2024-09-01T16:00Z
+2,Mon Sep 2 2024,20:45,CEST/+0200,Cavese,2-1,1-1,FC Crotone,2024-09-02T18:45Z
+2,Mon Sep 2 2024,20:45,CEST/+0200,Team Altamura,0-2,0-1,Foggia Calcio,2024-09-02T18:45Z
+2,Mon Sep 2 2024,21:15,CEST/+0200,Calcio Catania,1-0,1-0,Benevento Calcio,2024-09-02T19:15Z
+2,Mon Sep 2 2024,20:45,CEST/+0200,US Avellino,1-1,0-1,Giugliano,2024-09-02T18:45Z
+3,Sat Sep 7 2024,18:30,CEST/+0200,AZ Picerno,0-0,0-0,Casertana FC,2024-09-07T16:30Z
+3,Sat Sep 7 2024,18:30,CEST/+0200,Juventus II,1-3,0-1,Calcio Catania,2024-09-07T16:30Z
+3,Sat Sep 7 2024,20:45,CEST/+0200,ACR Messina,4-1,1-1,Taranto FC,2024-09-07T18:45Z
+3,Sat Sep 7 2024,20:45,CEST/+0200,FC Crotone,1-2,1-1,Trapani Calcio,2024-09-07T18:45Z
+3,Sat Sep 7 2024,20:45,CEST/+0200,FC Turris,2-0,1-0,Latina Calcio,2024-09-07T18:45Z
+3,Sun Sep 8 2024,20:45,CEST/+0200,US Avellino,0-0,0-0,Audace Cerignola,2024-09-08T18:45Z
+3,Sun Sep 8 2024,20:45,CEST/+0200,Benevento Calcio,4-1,3-1,Potenza,2024-09-08T18:45Z
+3,Sun Sep 8 2024,20:45,CEST/+0200,Foggia Calcio,1-4,1-2,SS Monopoli 1966,2024-09-08T18:45Z
+3,Sun Sep 8 2024,20:45,CEST/+0200,Giugliano,0-0,0-0,Cavese,2024-09-08T18:45Z
+3,Sun Sep 8 2024,18:30,CEST/+0200,Sorrento Calcio,2-1,1-0,Team Altamura,2024-09-08T16:30Z
+4,Fri Sep 13 2024,20:45,CEST/+0200,Taranto FC,0-0,0-0,Trapani Calcio,2024-09-13T18:45Z
+4,Fri Sep 13 2024,20:45,CEST/+0200,Potenza,1-0,0-0,Sorrento Calcio,2024-09-13T18:45Z
+4,Sat Sep 14 2024,18:30,CEST/+0200,FC Crotone,2-0,1-0,ACR Messina,2024-09-14T16:30Z
+4,Sat Sep 14 2024,18:30,CEST/+0200,SS Monopoli 1966,0-0,0-0,Juventus II,2024-09-14T16:30Z
+4,Sat Sep 14 2024,20:45,CEST/+0200,Casertana FC,0-0,0-0,FC Turris,2024-09-14T18:45Z
+4,Sat Sep 14 2024,20:45,CEST/+0200,Calcio Catania,0-0,0-0,AZ Picerno,2024-09-14T18:45Z
+4,Sun Sep 15 2024,20:45,CEST/+0200,Cavese,1-1,0-0,US Avellino,2024-09-15T18:45Z
+4,Sun Sep 15 2024,20:45,CEST/+0200,Team Altamura,0-2,0-0,Benevento Calcio,2024-09-15T18:45Z
+4,Sun Sep 15 2024,20:45,CEST/+0200,Audace Cerignola,3-1,0-1,Giugliano,2024-09-15T18:45Z
+4,Mon Sep 16 2024,20:30,CEST/+0200,Latina Calcio,0-0,0-0,Foggia Calcio,2024-09-16T18:30Z
+5,Fri Sep 20 2024,20:45,CEST/+0200,ACR Messina,2-2,2-0,Casertana FC,2024-09-20T18:45Z
+5,Sat Sep 21 2024,20:45,CEST/+0200,US Avellino,0-1,0-1,Latina Calcio,2024-09-21T18:45Z
+5,Sat Sep 21 2024,20:45,CEST/+0200,Cavese,0-1,0-1,SS Monopoli 1966,2024-09-21T18:45Z
+5,Sat Sep 21 2024,20:45,CEST/+0200,Taranto FC,1-2,1-0,Team Altamura,2024-09-21T18:45Z
+5,Sat Sep 21 2024,18:30,CEST/+0200,Sorrento Calcio,0-0,0-0,FC Turris,2024-09-21T16:30Z
+5,Sun Sep 22 2024,16:15,CEST/+0200,Trapani Calcio,,,Juventus II,2024-09-22T14:15Z
+5,Sun Sep 22 2024,18:30,CEST/+0200,Giugliano,,,Calcio Catania,2024-09-22T16:30Z
+5,Sun Sep 22 2024,20:45,CEST/+0200,Audace Cerignola,,,Potenza,2024-09-22T18:45Z
+5,Sun Sep 22 2024,20:45,CEST/+0200,AZ Picerno,,,FC Crotone,2024-09-22T18:45Z
+5,Sun Sep 22 2024,20:45,CEST/+0200,Benevento Calcio,,,Foggia Calcio,2024-09-22T18:45Z
+6,Tue Sep 24 2024,20:45,CEST/+0200,Team Altamura,,,Cavese,2024-09-24T18:45Z
+6,Tue Sep 24 2024,20:45,CEST/+0200,FC Turris,,,US Avellino,2024-09-24T18:45Z
+6,Tue Sep 24 2024,20:45,CEST/+0200,Casertana FC,,,Taranto FC,2024-09-24T18:45Z
+6,Wed Sep 25 2024,18:30,CEST/+0200,Potenza,,,Trapani Calcio,2024-09-25T16:30Z
+6,Wed Sep 25 2024,20:45,CEST/+0200,Calcio Catania,,,Audace Cerignola,2024-09-25T18:45Z
+6,Wed Sep 25 2024,20:45,CEST/+0200,FC Crotone,,,Sorrento Calcio,2024-09-25T18:45Z
+6,Wed Sep 25 2024,20:45,CEST/+0200,Foggia Calcio,,,Giugliano,2024-09-25T18:45Z
+6,Wed Sep 25 2024,20:45,CEST/+0200,Latina Calcio,,,ACR Messina,2024-09-25T18:45Z
+6,Thu Sep 26 2024,20:45,CEST/+0200,SS Monopoli 1966,,,Benevento Calcio,2024-09-26T18:45Z
+6,Thu Sep 26 2024,18:30,CEST/+0200,Juventus II,,,AZ Picerno,2024-09-26T16:30Z
+7,Sat Sep 28 2024,18:30,CEST/+0200,Taranto FC,,,Sorrento Calcio,2024-09-28T16:30Z
+7,Sun Sep 29 2024,18:30,CEST/+0200,Audace Cerignola,,,Casertana FC,2024-09-29T16:30Z
+7,Sun Sep 29 2024,18:30,CEST/+0200,Cavese,,,Latina Calcio,2024-09-29T16:30Z
+7,Sun Sep 29 2024,18:30,CEST/+0200,Trapani Calcio,,,FC Turris,2024-09-29T16:30Z
+7,Sun Sep 29 2024,20:45,CEST/+0200,US Avellino,,,Foggia Calcio,2024-09-29T18:45Z
+7,Sun Sep 29 2024,20:45,CEST/+0200,Calcio Catania,,,SS Monopoli 1966,2024-09-29T18:45Z
+7,Sun Sep 29 2024,20:45,CEST/+0200,Giugliano,,,Team Altamura,2024-09-29T18:45Z
+7,Sun Sep 29 2024,20:45,CEST/+0200,Potenza,,,FC Crotone,2024-09-29T18:45Z
+7,Mon Sep 30 2024,20:45,CEST/+0200,Benevento Calcio,,,Juventus II,2024-09-30T18:45Z
+7,Mon Sep 30 2024,20:30,CEST/+0200,AZ Picerno,,,ACR Messina,2024-09-30T18:30Z
+8,Sun Oct 6 2024,,,ACR Messina,,,Benevento Calcio,
+8,Sun Oct 6 2024,,,AZ Picerno,,,Cavese,
+8,Sun Oct 6 2024,,,Casertana FC,,,Calcio Catania,
+8,Sun Oct 6 2024,,,Foggia Calcio,,,Taranto FC,
+8,Sun Oct 6 2024,,,Juventus II,,,Potenza,
+8,Sun Oct 6 2024,,,Latina Calcio,,,Giugliano,
+8,Sun Oct 6 2024,,,Sorrento Calcio,,,Trapani Calcio,
+8,Sun Oct 6 2024,,,Team Altamura,,,SS Monopoli 1966,
+8,Sun Oct 6 2024,,,FC Turris,,,Audace Cerignola,
+8,Mon Oct 7 2024,20:30,CEST/+0200,FC Crotone,,,US Avellino,2024-10-07T18:30Z
+9,Fri Oct 11 2024,20:30,CEST/+0200,Trapani Calcio,,,ACR Messina,2024-10-11T18:30Z
+9,Fri Oct 11 2024,20:30,CEST/+0200,Cavese,,,FC Turris,2024-10-11T18:30Z
+9,Sat Oct 12 2024,15:00,CEST/+0200,Giugliano,,,Juventus II,2024-10-12T13:00Z
+9,Sat Oct 12 2024,15:00,CEST/+0200,SS Monopoli 1966,,,FC Crotone,2024-10-12T13:00Z
+9,Sat Oct 12 2024,17:30,CEST/+0200,Calcio Catania,,,Team Altamura,2024-10-12T15:30Z
+9,Sun Oct 13 2024,15:00,CEST/+0200,Benevento Calcio,,,Latina Calcio,2024-10-13T13:00Z
+9,Sun Oct 13 2024,17:30,CEST/+0200,Taranto FC,,,AZ Picerno,2024-10-13T15:30Z
+9,Sun Oct 13 2024,19:30,CEST/+0200,US Avellino,,,Casertana FC,2024-10-13T17:30Z
+9,Sun Oct 13 2024,19:45,CEST/+0200,Potenza,,,Foggia Calcio,2024-10-13T17:45Z
+9,Sun Oct 13 2024,,,Audace Cerignola,,,Sorrento Calcio,
+10,Sun Oct 20 2024,,,ACR Messina,,,SS Monopoli 1966,
+10,Sun Oct 20 2024,,,AZ Picerno,,,Potenza,
+10,Sun Oct 20 2024,,,Casertana FC,,,Cavese,
+10,Sun Oct 20 2024,,,FC Crotone,,,Taranto FC,
+10,Sun Oct 20 2024,,,Foggia Calcio,,,Calcio Catania,
+10,Sun Oct 20 2024,,,Juventus II,,,US Avellino,
+10,Sun Oct 20 2024,,,Latina Calcio,,,Team Altamura,
+10,Sun Oct 20 2024,,,Sorrento Calcio,,,Benevento Calcio,
+10,Sun Oct 20 2024,,,Trapani Calcio,,,Audace Cerignola,
+10,Sun Oct 20 2024,,,FC Turris,,,Giugliano,
+11,Sun Oct 27 2024,,,Audace Cerignola,,,AZ Picerno,
+11,Sun Oct 27 2024,,,US Avellino,,,ACR Messina,
+11,Sun Oct 27 2024,,,Benevento Calcio,,,Casertana FC,
+11,Sun Oct 27 2024,,,Calcio Catania,,,Latina Calcio,
+11,Sun Oct 27 2024,,,Cavese,,,Potenza,
+11,Sun Oct 27 2024,,,Giugliano,,,FC Crotone,
+11,Sun Oct 27 2024,,,SS Monopoli 1966,,,Trapani Calcio,
+11,Sun Oct 27 2024,,,Sorrento Calcio,,,Foggia Calcio,
+11,Sun Oct 27 2024,,,Taranto FC,,,FC Turris,
+11,Sun Oct 27 2024,,,Team Altamura,,,Juventus II,
+12,Wed Oct 30 2024,,,ACR Messina,,,Cavese,
+12,Wed Oct 30 2024,,,AZ Picerno,,,Giugliano,
+12,Wed Oct 30 2024,,,Casertana FC,,,Team Altamura,
+12,Wed Oct 30 2024,,,FC Crotone,,,Benevento Calcio,
+12,Wed Oct 30 2024,,,Foggia Calcio,,,Audace Cerignola,
+12,Wed Oct 30 2024,,,Juventus II,,,Sorrento Calcio,
+12,Wed Oct 30 2024,,,Latina Calcio,,,SS Monopoli 1966,
+12,Wed Oct 30 2024,,,Potenza,,,Taranto FC,
+12,Wed Oct 30 2024,,,Trapani Calcio,,,US Avellino,
+12,Wed Oct 30 2024,,,FC Turris,,,Calcio Catania,
+13,Sun Nov 3 2024,,,Audace Cerignola,,,FC Crotone,
+13,Sun Nov 3 2024,,,US Avellino,,,Taranto FC,
+13,Sun Nov 3 2024,,,Benevento Calcio,,,FC Turris,
+13,Sun Nov 3 2024,,,Calcio Catania,,,ACR Messina,
+13,Sun Nov 3 2024,,,Cavese,,,Foggia Calcio,
+13,Sun Nov 3 2024,,,Giugliano,,,Trapani Calcio,
+13,Sun Nov 3 2024,,,Juventus II,,,Latina Calcio,
+13,Sun Nov 3 2024,,,SS Monopoli 1966,,,AZ Picerno,
+13,Sun Nov 3 2024,,,Sorrento Calcio,,,Casertana FC,
+13,Sun Nov 3 2024,,,Team Altamura,,,Potenza,
+14,Sun Nov 10 2024,,,ACR Messina,,,Giugliano,
+14,Sun Nov 10 2024,,,AZ Picerno,,,Benevento Calcio,
+14,Sun Nov 10 2024,,,Casertana FC,,,SS Monopoli 1966,
+14,Sun Nov 10 2024,,,FC Crotone,,,Calcio Catania,
+14,Sun Nov 10 2024,,,Foggia Calcio,,,Juventus II,
+14,Sun Nov 10 2024,,,Latina Calcio,,,Sorrento Calcio,
+14,Sun Nov 10 2024,,,Potenza,,,US Avellino,
+14,Sun Nov 10 2024,,,Taranto FC,,,Audace Cerignola,
+14,Sun Nov 10 2024,,,Trapani Calcio,,,Cavese,
+14,Sun Nov 10 2024,,,FC Turris,,,Team Altamura,
+15,Sun Nov 17 2024,,,Benevento Calcio,,,US Avellino,
+15,Sun Nov 17 2024,,,Calcio Catania,,,Trapani Calcio,
+15,Sun Nov 17 2024,,,Cavese,,,Taranto FC,
+15,Sun Nov 17 2024,,,Foggia Calcio,,,Casertana FC,
+15,Sun Nov 17 2024,,,Giugliano,,,Potenza,
+15,Sun Nov 17 2024,,,Juventus II,,,FC Turris,
+15,Sun Nov 17 2024,,,Latina Calcio,,,FC Crotone,
+15,Sun Nov 17 2024,,,SS Monopoli 1966,,,Audace Cerignola,
+15,Sun Nov 17 2024,,,Sorrento Calcio,,,AZ Picerno,
+15,Sun Nov 17 2024,,,Team Altamura,,,ACR Messina,
+16,Sun Nov 24 2024,,,ACR Messina,,,Sorrento Calcio,
+16,Sun Nov 24 2024,,,Audace Cerignola,,,Cavese,
+16,Sun Nov 24 2024,,,US Avellino,,,Calcio Catania,
+16,Sun Nov 24 2024,,,AZ Picerno,,,Team Altamura,
+16,Sun Nov 24 2024,,,Casertana FC,,,Giugliano,
+16,Sun Nov 24 2024,,,FC Crotone,,,Juventus II,
+16,Sun Nov 24 2024,,,Potenza,,,SS Monopoli 1966,
+16,Sun Nov 24 2024,,,Taranto FC,,,Benevento Calcio,
+16,Sun Nov 24 2024,,,Trapani Calcio,,,Latina Calcio,
+16,Sun Nov 24 2024,,,FC Turris,,,Foggia Calcio,
+17,Sun Dec 1 2024,,,Benevento Calcio,,,Audace Cerignola,
+17,Sun Dec 1 2024,,,Casertana FC,,,Potenza,
+17,Sun Dec 1 2024,,,Calcio Catania,,,Cavese,
+17,Sun Dec 1 2024,,,Foggia Calcio,,,FC Crotone,
+17,Sun Dec 1 2024,,,Juventus II,,,Taranto FC,
+17,Sun Dec 1 2024,,,Latina Calcio,,,AZ Picerno,
+17,Sun Dec 1 2024,,,SS Monopoli 1966,,,US Avellino,
+17,Sun Dec 1 2024,,,Sorrento Calcio,,,Giugliano,
+17,Sun Dec 1 2024,,,Team Altamura,,,Trapani Calcio,
+17,Sun Dec 1 2024,,,FC Turris,,,ACR Messina,
+18,Sun Dec 8 2024,,,ACR Messina,,,Foggia Calcio,
+18,Sun Dec 8 2024,,,Audace Cerignola,,,Team Altamura,
+18,Sun Dec 8 2024,,,US Avellino,,,Sorrento Calcio,
+18,Sun Dec 8 2024,,,AZ Picerno,,,FC Turris,
+18,Sun Dec 8 2024,,,Cavese,,,Juventus II,
+18,Sun Dec 8 2024,,,FC Crotone,,,Casertana FC,
+18,Sun Dec 8 2024,,,Giugliano,,,SS Monopoli 1966,
+18,Sun Dec 8 2024,,,Potenza,,,Latina Calcio,
+18,Sun Dec 8 2024,,,Taranto FC,,,Calcio Catania,
+18,Sun Dec 8 2024,,,Trapani Calcio,,,Benevento Calcio,
+19,Sun Dec 15 2024,,,Benevento Calcio,,,Giugliano,
+19,Sun Dec 15 2024,,,Casertana FC,,,Trapani Calcio,
+19,Sun Dec 15 2024,,,Calcio Catania,,,Potenza,
+19,Sun Dec 15 2024,,,Foggia Calcio,,,AZ Picerno,
+19,Sun Dec 15 2024,,,Juventus II,,,ACR Messina,
+19,Sun Dec 15 2024,,,Latina Calcio,,,Audace Cerignola,
+19,Sun Dec 15 2024,,,SS Monopoli 1966,,,Taranto FC,
+19,Sun Dec 15 2024,,,Sorrento Calcio,,,Cavese,
+19,Sun Dec 15 2024,,,Team Altamura,,,US Avellino,
+19,Sun Dec 15 2024,,,FC Turris,,,FC Crotone,
+20,Sun Dec 22 2024,,,Potenza,,,ACR Messina,
+20,Sun Dec 22 2024,,,US Avellino,,,AZ Picerno,
+20,Sun Dec 22 2024,,,Cavese,,,Benevento Calcio,
+20,Sun Dec 22 2024,,,Team Altamura,,,FC Crotone,
+20,Sun Dec 22 2024,,,Trapani Calcio,,,Foggia Calcio,
+20,Sun Dec 22 2024,,,Taranto FC,,,Giugliano,
+20,Sun Dec 22 2024,,,Audace Cerignola,,,Juventus II,
+20,Sun Dec 22 2024,,,Casertana FC,,,Latina Calcio,
+20,Sun Dec 22 2024,,,Calcio Catania,,,Sorrento Calcio,
+20,Sun Dec 22 2024,,,SS Monopoli 1966,,,FC Turris,
+21,Sun Jan 5 2025,,,ACR Messina,,,Audace Cerignola,
+21,Sun Jan 5 2025,,,Giugliano,,,US Avellino,
+21,Sun Jan 5 2025,,,Juventus II,,,Casertana FC,
+21,Sun Jan 5 2025,,,Benevento Calcio,,,Calcio Catania,
+21,Sun Jan 5 2025,,,FC Crotone,,,Cavese,
+21,Sun Jan 5 2025,,,Sorrento Calcio,,,SS Monopoli 1966,
+21,Sun Jan 5 2025,,,FC Turris,,,Potenza,
+21,Sun Jan 5 2025,,,Latina Calcio,,,Taranto FC,
+21,Sun Jan 5 2025,,,Foggia Calcio,,,Team Altamura,
+21,Sun Jan 5 2025,,,AZ Picerno,,,Trapani Calcio,
+22,Sun Jan 12 2025,,,Taranto FC,,,ACR Messina,
+22,Sun Jan 12 2025,,,Audace Cerignola,,,US Avellino,
+22,Sun Jan 12 2025,,,Casertana FC,,,AZ Picerno,
+22,Sun Jan 12 2025,,,Potenza,,,Benevento Calcio,
+22,Sun Jan 12 2025,,,Trapani Calcio,,,FC Crotone,
+22,Sun Jan 12 2025,,,SS Monopoli 1966,,,Foggia Calcio,
+22,Sun Jan 12 2025,,,Cavese,,,Giugliano,
+22,Sun Jan 12 2025,,,Calcio Catania,,,Juventus II,
+22,Sun Jan 12 2025,,,Team Altamura,,,Sorrento Calcio,
+22,Sun Jan 12 2025,,,Latina Calcio,,,FC Turris,
+23,Sun Jan 19 2025,,,Giugliano,,,Audace Cerignola,
+23,Sun Jan 19 2025,,,FC Turris,,,Casertana FC,
+23,Sun Jan 19 2025,,,AZ Picerno,,,Calcio Catania,
+23,Sun Jan 19 2025,,,US Avellino,,,Cavese,
+23,Sun Jan 19 2025,,,ACR Messina,,,FC Crotone,
+23,Sun Jan 19 2025,,,Foggia Calcio,,,Latina Calcio,
+23,Sun Jan 19 2025,,,Juventus II,,,SS Monopoli 1966,
+23,Sun Jan 19 2025,,,Sorrento Calcio,,,Potenza,
+23,Sun Jan 19 2025,,,Trapani Calcio,,,Taranto FC,
+23,Sun Jan 19 2025,,,Benevento Calcio,,,Team Altamura,
+24,Sun Jan 26 2025,,,Casertana FC,,,ACR Messina,
+24,Sun Jan 26 2025,,,Potenza,,,Audace Cerignola,
+24,Sun Jan 26 2025,,,Latina Calcio,,,US Avellino,
+24,Sun Jan 26 2025,,,FC Crotone,,,AZ Picerno,
+24,Sun Jan 26 2025,,,Foggia Calcio,,,Benevento Calcio,
+24,Sun Jan 26 2025,,,SS Monopoli 1966,,,Cavese,
+24,Sun Jan 26 2025,,,Calcio Catania,,,Giugliano,
+24,Sun Jan 26 2025,,,FC Turris,,,Sorrento Calcio,
+24,Sun Jan 26 2025,,,Team Altamura,,,Taranto FC,
+24,Sun Jan 26 2025,,,Juventus II,,,Trapani Calcio,
+25,Sun Feb 2 2025,,,Taranto FC,,,Casertana FC,
+25,Sun Feb 2 2025,,,Audace Cerignola,,,Calcio Catania,
+25,Sun Feb 2 2025,,,Sorrento Calcio,,,FC Crotone,
+25,Sun Feb 2 2025,,,Giugliano,,,Foggia Calcio,
+25,Sun Feb 2 2025,,,AZ Picerno,,,Juventus II,
+25,Sun Feb 2 2025,,,ACR Messina,,,Latina Calcio,
+25,Sun Feb 2 2025,,,Benevento Calcio,,,SS Monopoli 1966,
+25,Sun Feb 2 2025,,,Trapani Calcio,,,Potenza,
+25,Sun Feb 2 2025,,,Cavese,,,Team Altamura,
+25,Sun Feb 2 2025,,,US Avellino,,,FC Turris,
+26,Sun Feb 9 2025,,,Casertana FC,,,Audace Cerignola,
+26,Sun Feb 9 2025,,,Foggia Calcio,,,US Avellino,
+26,Sun Feb 9 2025,,,ACR Messina,,,AZ Picerno,
+26,Sun Feb 9 2025,,,Juventus II,,,Benevento Calcio,
+26,Sun Feb 9 2025,,,SS Monopoli 1966,,,Calcio Catania,
+26,Sun Feb 9 2025,,,Latina Calcio,,,Cavese,
+26,Sun Feb 9 2025,,,Team Altamura,,,Giugliano,
+26,Sun Feb 9 2025,,,FC Crotone,,,Potenza,
+26,Sun Feb 9 2025,,,Sorrento Calcio,,,Taranto FC,
+26,Sun Feb 9 2025,,,FC Turris,,,Trapani Calcio,
+27,Sun Feb 16 2025,,,Benevento Calcio,,,ACR Messina,
+27,Sun Feb 16 2025,,,Cavese,,,AZ Picerno,
+27,Sun Feb 16 2025,,,Calcio Catania,,,Casertana FC,
+27,Sun Feb 16 2025,,,US Avellino,,,FC Crotone,
+27,Sun Feb 16 2025,,,Taranto FC,,,Foggia Calcio,
+27,Sun Feb 16 2025,,,Potenza,,,Juventus II,
+27,Sun Feb 16 2025,,,Giugliano,,,Latina Calcio,
+27,Sun Feb 16 2025,,,Trapani Calcio,,,Sorrento Calcio,
+27,Sun Feb 16 2025,,,SS Monopoli 1966,,,Team Altamura,
+27,Sun Feb 16 2025,,,Audace Cerignola,,,FC Turris,
+28,Sun Feb 23 2025,,,Sorrento Calcio,,,Audace Cerignola,
+28,Sun Feb 23 2025,,,Casertana FC,,,US Avellino,
+28,Sun Feb 23 2025,,,Latina Calcio,,,Benevento Calcio,
+28,Sun Feb 23 2025,,,Team Altamura,,,Calcio Catania,
+28,Sun Feb 23 2025,,,FC Turris,,,Cavese,
+28,Sun Feb 23 2025,,,Juventus II,,,Giugliano,
+28,Sun Feb 23 2025,,,FC Crotone,,,SS Monopoli 1966,
+28,Sun Feb 23 2025,,,Foggia Calcio,,,Potenza,
+28,Sun Feb 23 2025,,,AZ Picerno,,,Taranto FC,
+28,Sun Feb 23 2025,,,ACR Messina,,,Trapani Calcio,
+29,Sun Mar 2 2025,,,SS Monopoli 1966,,,ACR Messina,
+29,Sun Mar 2 2025,,,Potenza,,,AZ Picerno,
+29,Sun Mar 2 2025,,,Cavese,,,Casertana FC,
+29,Sun Mar 2 2025,,,Taranto FC,,,FC Crotone,
+29,Sun Mar 2 2025,,,Calcio Catania,,,Foggia Calcio,
+29,Sun Mar 2 2025,,,US Avellino,,,Juventus II,
+29,Sun Mar 2 2025,,,Team Altamura,,,Latina Calcio,
+29,Sun Mar 2 2025,,,Benevento Calcio,,,Sorrento Calcio,
+29,Sun Mar 2 2025,,,Audace Cerignola,,,Trapani Calcio,
+29,Sun Mar 2 2025,,,Giugliano,,,FC Turris,
+30,Sun Mar 9 2025,,,AZ Picerno,,,Audace Cerignola,
+30,Sun Mar 9 2025,,,ACR Messina,,,US Avellino,
+30,Sun Mar 9 2025,,,Casertana FC,,,Benevento Calcio,
+30,Sun Mar 9 2025,,,Latina Calcio,,,Calcio Catania,
+30,Sun Mar 9 2025,,,Potenza,,,Cavese,
+30,Sun Mar 9 2025,,,FC Crotone,,,Giugliano,
+30,Sun Mar 9 2025,,,Trapani Calcio,,,SS Monopoli 1966,
+30,Sun Mar 9 2025,,,Foggia Calcio,,,Sorrento Calcio,
+30,Sun Mar 9 2025,,,FC Turris,,,Taranto FC,
+30,Sun Mar 9 2025,,,Juventus II,,,Team Altamura,
+31,Wed Mar 12 2025,,,Cavese,,,ACR Messina,
+31,Wed Mar 12 2025,,,Giugliano,,,AZ Picerno,
+31,Wed Mar 12 2025,,,Team Altamura,,,Casertana FC,
+31,Wed Mar 12 2025,,,Benevento Calcio,,,FC Crotone,
+31,Wed Mar 12 2025,,,Audace Cerignola,,,Foggia Calcio,
+31,Wed Mar 12 2025,,,Sorrento Calcio,,,Juventus II,
+31,Wed Mar 12 2025,,,SS Monopoli 1966,,,Latina Calcio,
+31,Wed Mar 12 2025,,,Taranto FC,,,Potenza,
+31,Wed Mar 12 2025,,,US Avellino,,,Trapani Calcio,
+31,Wed Mar 12 2025,,,Calcio Catania,,,FC Turris,
+32,Sun Mar 16 2025,,,FC Crotone,,,Audace Cerignola,
+32,Sun Mar 16 2025,,,Taranto FC,,,US Avellino,
+32,Sun Mar 16 2025,,,FC Turris,,,Benevento Calcio,
+32,Sun Mar 16 2025,,,ACR Messina,,,Calcio Catania,
+32,Sun Mar 16 2025,,,Foggia Calcio,,,Cavese,
+32,Sun Mar 16 2025,,,Trapani Calcio,,,Giugliano,
+32,Sun Mar 16 2025,,,Latina Calcio,,,Juventus II,
+32,Sun Mar 16 2025,,,AZ Picerno,,,SS Monopoli 1966,
+32,Sun Mar 16 2025,,,Casertana FC,,,Sorrento Calcio,
+32,Sun Mar 16 2025,,,Potenza,,,Team Altamura,
+33,Sun Mar 23 2025,,,Giugliano,,,ACR Messina,
+33,Sun Mar 23 2025,,,Benevento Calcio,,,AZ Picerno,
+33,Sun Mar 23 2025,,,SS Monopoli 1966,,,Casertana FC,
+33,Sun Mar 23 2025,,,Calcio Catania,,,FC Crotone,
+33,Sun Mar 23 2025,,,Juventus II,,,Foggia Calcio,
+33,Sun Mar 23 2025,,,Sorrento Calcio,,,Latina Calcio,
+33,Sun Mar 23 2025,,,US Avellino,,,Potenza,
+33,Sun Mar 23 2025,,,Audace Cerignola,,,Taranto FC,
+33,Sun Mar 23 2025,,,Cavese,,,Trapani Calcio,
+33,Sun Mar 23 2025,,,Team Altamura,,,FC Turris,
+34,Sun Mar 30 2025,,,US Avellino,,,Benevento Calcio,
+34,Sun Mar 30 2025,,,Trapani Calcio,,,Calcio Catania,
+34,Sun Mar 30 2025,,,Taranto FC,,,Cavese,
+34,Sun Mar 30 2025,,,Casertana FC,,,Foggia Calcio,
+34,Sun Mar 30 2025,,,Potenza,,,Giugliano,
+34,Sun Mar 30 2025,,,FC Turris,,,Juventus II,
+34,Sun Mar 30 2025,,,FC Crotone,,,Latina Calcio,
+34,Sun Mar 30 2025,,,Audace Cerignola,,,SS Monopoli 1966,
+34,Sun Mar 30 2025,,,AZ Picerno,,,Sorrento Calcio,
+34,Sun Mar 30 2025,,,ACR Messina,,,Team Altamura,
+35,Sun Apr 6 2025,,,Sorrento Calcio,,,ACR Messina,
+35,Sun Apr 6 2025,,,Cavese,,,Audace Cerignola,
+35,Sun Apr 6 2025,,,Calcio Catania,,,US Avellino,
+35,Sun Apr 6 2025,,,Team Altamura,,,AZ Picerno,
+35,Sun Apr 6 2025,,,Giugliano,,,Casertana FC,
+35,Sun Apr 6 2025,,,Juventus II,,,FC Crotone,
+35,Sun Apr 6 2025,,,SS Monopoli 1966,,,Potenza,
+35,Sun Apr 6 2025,,,Benevento Calcio,,,Taranto FC,
+35,Sun Apr 6 2025,,,Latina Calcio,,,Trapani Calcio,
+35,Sun Apr 6 2025,,,Foggia Calcio,,,FC Turris,
+36,Sun Apr 13 2025,,,Audace Cerignola,,,Benevento Calcio,
+36,Sun Apr 13 2025,,,Potenza,,,Casertana FC,
+36,Sun Apr 13 2025,,,Cavese,,,Calcio Catania,
+36,Sun Apr 13 2025,,,FC Crotone,,,Foggia Calcio,
+36,Sun Apr 13 2025,,,Taranto FC,,,Juventus II,
+36,Sun Apr 13 2025,,,AZ Picerno,,,Latina Calcio,
+36,Sun Apr 13 2025,,,US Avellino,,,SS Monopoli 1966,
+36,Sun Apr 13 2025,,,Giugliano,,,Sorrento Calcio,
+36,Sun Apr 13 2025,,,Trapani Calcio,,,Team Altamura,
+36,Sun Apr 13 2025,,,ACR Messina,,,FC Turris,
+37,Sat Apr 19 2025,,,Foggia Calcio,,,ACR Messina,
+37,Sat Apr 19 2025,,,Team Altamura,,,Audace Cerignola,
+37,Sat Apr 19 2025,,,Sorrento Calcio,,,US Avellino,
+37,Sat Apr 19 2025,,,FC Turris,,,AZ Picerno,
+37,Sat Apr 19 2025,,,Juventus II,,,Cavese,
+37,Sat Apr 19 2025,,,Casertana FC,,,FC Crotone,
+37,Sat Apr 19 2025,,,SS Monopoli 1966,,,Giugliano,
+37,Sat Apr 19 2025,,,Latina Calcio,,,Potenza,
+37,Sat Apr 19 2025,,,Calcio Catania,,,Taranto FC,
+37,Sat Apr 19 2025,,,Benevento Calcio,,,Trapani Calcio,
+38,Sun Apr 27 2025,,,Giugliano,,,Benevento Calcio,
+38,Sun Apr 27 2025,,,Trapani Calcio,,,Casertana FC,
+38,Sun Apr 27 2025,,,Potenza,,,Calcio Catania,
+38,Sun Apr 27 2025,,,AZ Picerno,,,Foggia Calcio,
+38,Sun Apr 27 2025,,,ACR Messina,,,Juventus II,
+38,Sun Apr 27 2025,,,Audace Cerignola,,,Latina Calcio,
+38,Sun Apr 27 2025,,,Taranto FC,,,SS Monopoli 1966,
+38,Sun Apr 27 2025,,,Cavese,,,Sorrento Calcio,
+38,Sun Apr 27 2025,,,US Avellino,,,Team Altamura,
+38,Sun Apr 27 2025,,,FC Crotone,,,FC Turris,

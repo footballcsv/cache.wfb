@@ -1,0 +1,181 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sun Aug 18 2024,20:00,CEST/+0200,FC Dinamo City,0-2,0-0,Egnatia Rrogozhine,2024-08-18T18:00Z
+1,Sun Aug 18 2024,20:00,CEST/+0200,KF Teuta Durrës,2-1,1-1,KF Bylis Ballsh,2024-08-18T18:00Z
+1,Mon Aug 19 2024,20:00,CEST/+0200,FK Partizani,0-1,0-1,FK Vllaznia,2024-08-19T18:00Z
+1,Mon Aug 19 2024,20:00,CEST/+0200,KF Skënderbeu,1-1,1-0,AF Elbasani,2024-08-19T18:00Z
+1,Mon Aug 19 2024,17:00,CEST/+0200,KF Laçi,0-0,0-0,KF Tiranë,2024-08-19T15:00Z
+2,Sun Aug 25 2024,17:00,CEST/+0200,Egnatia Rrogozhine,2-1,1-0,KF Laçi,2024-08-25T15:00Z
+2,Sun Aug 25 2024,20:00,CEST/+0200,FK Partizani,2-1,1-0,KF Skënderbeu,2024-08-25T18:00Z
+2,Sun Aug 25 2024,20:00,CEST/+0200,FK Vllaznia,2-2,0-1,KF Tiranë,2024-08-25T18:00Z
+2,Mon Aug 26 2024,20:00,CEST/+0200,AF Elbasani,3-0,1-0,KF Teuta Durrës,2024-08-26T18:00Z
+2,Mon Aug 26 2024,17:00,CEST/+0200,KF Bylis Ballsh,1-0,0-0,FC Dinamo City,2024-08-26T15:00Z
+3,Sat Aug 31 2024,17:00,CEST/+0200,KF Laçi,0-0,0-0,KF Bylis Ballsh,2024-08-31T15:00Z
+3,Sat Aug 31 2024,20:00,CEST/+0200,KF Skënderbeu,1-0,0-0,FK Vllaznia,2024-08-31T18:00Z
+3,Sat Aug 31 2024,20:00,CEST/+0200,KF Teuta Durrës,0-2,0-0,FK Partizani,2024-08-31T18:00Z
+3,Sun Sep 1 2024,20:00,CEST/+0200,KF Tiranë,1-1,0-1,Egnatia Rrogozhine,2024-09-01T18:00Z
+3,Sun Sep 1 2024,20:00,CEST/+0200,FC Dinamo City,2-1,0-0,AF Elbasani,2024-09-01T18:00Z
+4,Wed Sep 11 2024,16:00,CEST/+0200,KF Bylis Ballsh,2-2,1-0,KF Tiranë,2024-09-11T14:00Z
+4,Wed Sep 11 2024,19:00,CEST/+0200,KF Skënderbeu,2-3,1-1,KF Teuta Durrës,2024-09-11T17:00Z
+4,Wed Sep 11 2024,19:00,CEST/+0200,FK Vllaznia,3-1,2-1,Egnatia Rrogozhine,2024-09-11T17:00Z
+4,Thu Sep 12 2024,19:00,CEST/+0200,AF Elbasani,1-0,0-0,KF Laçi,2024-09-12T17:00Z
+4,Thu Sep 12 2024,19:00,CEST/+0200,FK Partizani,2-2,1-1,FC Dinamo City,2024-09-12T17:00Z
+5,Sun Sep 15 2024,19:00,CEST/+0200,KF Teuta Durrës,1-2,0-1,FK Vllaznia,2024-09-15T17:00Z
+5,Sun Sep 15 2024,16:00,CEST/+0200,Egnatia Rrogozhine,4-0,2-0,KF Bylis Ballsh,2024-09-15T14:00Z
+5,Mon Sep 16 2024,16:00,CEST/+0200,KF Laçi,1-1,0-0,FK Partizani,2024-09-16T14:00Z
+5,Mon Sep 16 2024,19:00,CEST/+0200,FC Dinamo City,2-1,1-0,KF Skënderbeu,2024-09-16T17:00Z
+5,Mon Sep 16 2024,19:00,CEST/+0200,KF Tiranë,1-1,1-1,AF Elbasani,2024-09-16T17:00Z
+6,Sat Sep 21 2024,20:00,CEST/+0200,FK Partizani,0-0,0-0,KF Tiranë,2024-09-21T18:00Z
+6,Sat Sep 21 2024,17:00,CEST/+0200,KF Skënderbeu,2-1,1-0,KF Laçi,2024-09-21T15:00Z
+6,Sun Sep 22 2024,20:00,CEST/+0200,KF Teuta Durrës,1-1,0-1,FC Dinamo City,2024-09-22T18:00Z
+6,Sun Sep 22 2024,20:00,CEST/+0200,AF Elbasani,0-0,0-0,Egnatia Rrogozhine,2024-09-22T18:00Z
+6,Sun Sep 22 2024,17:00,CEST/+0200,FK Vllaznia,2-0,0-0,KF Bylis Ballsh,2024-09-22T15:00Z
+7,Fri Sep 27 2024,16:00,CEST/+0200,Egnatia Rrogozhine,,,FK Partizani,2024-09-27T14:00Z
+7,Sat Sep 28 2024,19:00,CEST/+0200,FC Dinamo City,,,FK Vllaznia,2024-09-28T17:00Z
+7,Sat Sep 28 2024,16:00,CEST/+0200,KF Laçi,,,KF Teuta Durrës,2024-09-28T14:00Z
+7,Sun Sep 29 2024,19:00,CEST/+0200,KF Tiranë,,,KF Skënderbeu,2024-09-29T17:00Z
+7,Sun Sep 29 2024,16:00,CEST/+0200,KF Bylis Ballsh,,,AF Elbasani,2024-09-29T14:00Z
+8,Fri Oct 4 2024,19:00,CEST/+0200,FC Dinamo City,,,KF Laçi,2024-10-04T17:00Z
+8,Sat Oct 5 2024,,,FK Vllaznia,,,AF Elbasani,
+8,Sat Oct 5 2024,19:00,CEST/+0200,FK Partizani,,,KF Bylis Ballsh,2024-10-05T17:00Z
+8,Sat Oct 5 2024,19:00,CEST/+0200,KF Skënderbeu,,,Egnatia Rrogozhine,2024-10-05T17:00Z
+8,Sat Oct 5 2024,,,KF Teuta Durrës,,,KF Tiranë,
+9,Sat Oct 19 2024,,,KF Laçi,,,FK Vllaznia,
+9,Sat Oct 19 2024,,,KF Tiranë,,,FC Dinamo City,
+9,Sat Oct 19 2024,,,Egnatia Rrogozhine,,,KF Teuta Durrës,
+9,Sat Oct 19 2024,,,KF Bylis Ballsh,,,KF Skënderbeu,
+9,Sat Oct 19 2024,,,AF Elbasani,,,FK Partizani,
+10,Sat Oct 26 2024,,,FK Vllaznia,,,FK Partizani,
+10,Sat Oct 26 2024,,,AF Elbasani,,,KF Skënderbeu,
+10,Sat Oct 26 2024,,,KF Bylis Ballsh,,,KF Teuta Durrës,
+10,Sat Oct 26 2024,,,Egnatia Rrogozhine,,,FC Dinamo City,
+10,Sat Oct 26 2024,,,KF Tiranë,,,KF Laçi,
+11,Wed Oct 30 2024,,,KF Laçi,,,Egnatia Rrogozhine,
+11,Wed Oct 30 2024,,,FC Dinamo City,,,KF Bylis Ballsh,
+11,Wed Oct 30 2024,,,KF Teuta Durrës,,,AF Elbasani,
+11,Wed Oct 30 2024,,,KF Tiranë,,,FK Vllaznia,
+11,Wed Oct 30 2024,,,KF Skënderbeu,,,FK Partizani,
+12,Sun Nov 3 2024,,,FK Vllaznia,,,KF Skënderbeu,
+12,Sun Nov 3 2024,,,FK Partizani,,,KF Teuta Durrës,
+12,Sun Nov 3 2024,,,AF Elbasani,,,FC Dinamo City,
+12,Sun Nov 3 2024,,,KF Bylis Ballsh,,,KF Laçi,
+12,Sun Nov 3 2024,,,Egnatia Rrogozhine,,,KF Tiranë,
+13,Sat Nov 9 2024,,,FC Dinamo City,,,FK Partizani,
+13,Sat Nov 9 2024,,,KF Teuta Durrës,,,KF Skënderbeu,
+13,Sat Nov 9 2024,,,KF Tiranë,,,KF Bylis Ballsh,
+13,Sat Nov 9 2024,,,KF Laçi,,,AF Elbasani,
+13,Sat Nov 9 2024,,,Egnatia Rrogozhine,,,FK Vllaznia,
+14,Sat Nov 23 2024,,,KF Skënderbeu,,,FC Dinamo City,
+14,Sat Nov 23 2024,,,FK Partizani,,,KF Laçi,
+14,Sat Nov 23 2024,,,AF Elbasani,,,KF Tiranë,
+14,Sat Nov 23 2024,,,KF Bylis Ballsh,,,Egnatia Rrogozhine,
+14,Sat Nov 23 2024,,,FK Vllaznia,,,KF Teuta Durrës,
+15,Sat Nov 30 2024,,,KF Tiranë,,,FK Partizani,
+15,Sat Nov 30 2024,,,KF Laçi,,,KF Skënderbeu,
+15,Sat Nov 30 2024,,,FC Dinamo City,,,KF Teuta Durrës,
+15,Sat Nov 30 2024,,,Egnatia Rrogozhine,,,AF Elbasani,
+15,Sat Nov 30 2024,,,KF Bylis Ballsh,,,FK Vllaznia,
+16,Wed Dec 4 2024,,,KF Teuta Durrës,,,KF Laçi,
+16,Wed Dec 4 2024,,,KF Skënderbeu,,,KF Tiranë,
+16,Wed Dec 4 2024,,,FK Partizani,,,Egnatia Rrogozhine,
+16,Wed Dec 4 2024,,,AF Elbasani,,,KF Bylis Ballsh,
+16,Wed Dec 4 2024,,,FK Vllaznia,,,FC Dinamo City,
+17,Sun Dec 8 2024,,,KF Bylis Ballsh,,,FK Partizani,
+17,Sun Dec 8 2024,,,Egnatia Rrogozhine,,,KF Skënderbeu,
+17,Sun Dec 8 2024,,,KF Tiranë,,,KF Teuta Durrës,
+17,Sun Dec 8 2024,,,KF Laçi,,,FC Dinamo City,
+17,Sun Dec 8 2024,,,AF Elbasani,,,FK Vllaznia,
+18,Sat Dec 14 2024,,,FC Dinamo City,,,KF Tiranë,
+18,Sat Dec 14 2024,,,KF Teuta Durrës,,,Egnatia Rrogozhine,
+18,Sat Dec 14 2024,,,KF Skënderbeu,,,KF Bylis Ballsh,
+18,Sat Dec 14 2024,,,FK Partizani,,,AF Elbasani,
+18,Sat Dec 14 2024,,,FK Vllaznia,,,KF Laçi,
+19,Sat Dec 21 2024,,,FK Partizani,,,FK Vllaznia,
+19,Sat Dec 21 2024,,,KF Skënderbeu,,,AF Elbasani,
+19,Sat Dec 21 2024,,,KF Teuta Durrës,,,KF Bylis Ballsh,
+19,Sat Dec 21 2024,,,FC Dinamo City,,,Egnatia Rrogozhine,
+19,Sat Dec 21 2024,,,KF Laçi,,,KF Tiranë,
+20,Sat Jan 11 2025,,,Egnatia Rrogozhine,,,KF Laçi,
+20,Sat Jan 11 2025,,,KF Bylis Ballsh,,,FC Dinamo City,
+20,Sat Jan 11 2025,,,AF Elbasani,,,KF Teuta Durrës,
+20,Sat Jan 11 2025,,,FK Vllaznia,,,KF Tiranë,
+20,Sat Jan 11 2025,,,FK Partizani,,,KF Skënderbeu,
+21,Sun Jan 19 2025,,,KF Skënderbeu,,,FK Vllaznia,
+21,Sun Jan 19 2025,,,KF Teuta Durrës,,,FK Partizani,
+21,Sun Jan 19 2025,,,FC Dinamo City,,,AF Elbasani,
+21,Sun Jan 19 2025,,,KF Laçi,,,KF Bylis Ballsh,
+21,Sun Jan 19 2025,,,KF Tiranë,,,Egnatia Rrogozhine,
+22,Tue Jan 21 2025,,,FK Partizani,,,FC Dinamo City,
+22,Tue Jan 21 2025,,,KF Skënderbeu,,,KF Teuta Durrës,
+22,Tue Jan 21 2025,,,KF Bylis Ballsh,,,KF Tiranë,
+22,Tue Jan 21 2025,,,AF Elbasani,,,KF Laçi,
+22,Tue Jan 21 2025,,,FK Vllaznia,,,Egnatia Rrogozhine,
+23,Sat Feb 1 2025,,,FC Dinamo City,,,KF Skënderbeu,
+23,Sat Feb 1 2025,,,KF Laçi,,,FK Partizani,
+23,Sat Feb 1 2025,,,KF Tiranë,,,AF Elbasani,
+23,Sat Feb 1 2025,,,Egnatia Rrogozhine,,,KF Bylis Ballsh,
+23,Sat Feb 1 2025,,,KF Teuta Durrës,,,FK Vllaznia,
+24,Sun Feb 9 2025,,,FK Partizani,,,KF Tiranë,
+24,Sun Feb 9 2025,,,KF Skënderbeu,,,KF Laçi,
+24,Sun Feb 9 2025,,,KF Teuta Durrës,,,FC Dinamo City,
+24,Sun Feb 9 2025,,,AF Elbasani,,,Egnatia Rrogozhine,
+24,Sun Feb 9 2025,,,FK Vllaznia,,,KF Bylis Ballsh,
+25,Sat Feb 15 2025,,,KF Laçi,,,KF Teuta Durrës,
+25,Sat Feb 15 2025,,,KF Tiranë,,,KF Skënderbeu,
+25,Sat Feb 15 2025,,,Egnatia Rrogozhine,,,FK Partizani,
+25,Sat Feb 15 2025,,,KF Bylis Ballsh,,,AF Elbasani,
+25,Sat Feb 15 2025,,,FC Dinamo City,,,FK Vllaznia,
+26,Sat Feb 22 2025,,,FK Partizani,,,KF Bylis Ballsh,
+26,Sat Feb 22 2025,,,KF Skënderbeu,,,Egnatia Rrogozhine,
+26,Sat Feb 22 2025,,,KF Teuta Durrës,,,KF Tiranë,
+26,Sat Feb 22 2025,,,FC Dinamo City,,,KF Laçi,
+26,Sat Feb 22 2025,,,FK Vllaznia,,,AF Elbasani,
+27,Sun Mar 2 2025,,,KF Tiranë,,,FC Dinamo City,
+27,Sun Mar 2 2025,,,Egnatia Rrogozhine,,,KF Teuta Durrës,
+27,Sun Mar 2 2025,,,KF Bylis Ballsh,,,KF Skënderbeu,
+27,Sun Mar 2 2025,,,AF Elbasani,,,FK Partizani,
+27,Sun Mar 2 2025,,,KF Laçi,,,FK Vllaznia,
+28,Wed Mar 5 2025,,,FK Vllaznia,,,FK Partizani,
+28,Wed Mar 5 2025,,,AF Elbasani,,,KF Skënderbeu,
+28,Wed Mar 5 2025,,,KF Bylis Ballsh,,,KF Teuta Durrës,
+28,Wed Mar 5 2025,,,Egnatia Rrogozhine,,,FC Dinamo City,
+28,Wed Mar 5 2025,,,KF Tiranë,,,KF Laçi,
+29,Sun Mar 9 2025,,,KF Laçi,,,Egnatia Rrogozhine,
+29,Sun Mar 9 2025,,,FC Dinamo City,,,KF Bylis Ballsh,
+29,Sun Mar 9 2025,,,KF Teuta Durrës,,,AF Elbasani,
+29,Sun Mar 9 2025,,,KF Tiranë,,,FK Vllaznia,
+29,Sun Mar 9 2025,,,KF Skënderbeu,,,FK Partizani,
+30,Sat Mar 15 2025,,,FK Vllaznia,,,KF Skënderbeu,
+30,Sat Mar 15 2025,,,FK Partizani,,,KF Teuta Durrës,
+30,Sat Mar 15 2025,,,AF Elbasani,,,FC Dinamo City,
+30,Sat Mar 15 2025,,,KF Bylis Ballsh,,,KF Laçi,
+30,Sat Mar 15 2025,,,Egnatia Rrogozhine,,,KF Tiranë,
+31,Sun Mar 30 2025,,,FC Dinamo City,,,FK Partizani,
+31,Sun Mar 30 2025,,,KF Teuta Durrës,,,KF Skënderbeu,
+31,Sun Mar 30 2025,,,KF Tiranë,,,KF Bylis Ballsh,
+31,Sun Mar 30 2025,,,KF Laçi,,,AF Elbasani,
+31,Sun Mar 30 2025,,,Egnatia Rrogozhine,,,FK Vllaznia,
+32,Sun Apr 6 2025,,,KF Skënderbeu,,,FC Dinamo City,
+32,Sun Apr 6 2025,,,FK Partizani,,,KF Laçi,
+32,Sun Apr 6 2025,,,AF Elbasani,,,KF Tiranë,
+32,Sun Apr 6 2025,,,KF Bylis Ballsh,,,Egnatia Rrogozhine,
+32,Sun Apr 6 2025,,,FK Vllaznia,,,KF Teuta Durrës,
+33,Sat Apr 12 2025,,,KF Tiranë,,,FK Partizani,
+33,Sat Apr 12 2025,,,KF Laçi,,,KF Skënderbeu,
+33,Sat Apr 12 2025,,,FC Dinamo City,,,KF Teuta Durrës,
+33,Sat Apr 12 2025,,,Egnatia Rrogozhine,,,AF Elbasani,
+33,Sat Apr 12 2025,,,KF Bylis Ballsh,,,FK Vllaznia,
+34,Sat Apr 19 2025,,,KF Teuta Durrës,,,KF Laçi,
+34,Sat Apr 19 2025,,,KF Skënderbeu,,,KF Tiranë,
+34,Sat Apr 19 2025,,,FK Partizani,,,Egnatia Rrogozhine,
+34,Sat Apr 19 2025,,,AF Elbasani,,,KF Bylis Ballsh,
+34,Sat Apr 19 2025,,,FK Vllaznia,,,FC Dinamo City,
+35,Sun Apr 27 2025,,,KF Bylis Ballsh,,,FK Partizani,
+35,Sun Apr 27 2025,,,Egnatia Rrogozhine,,,KF Skënderbeu,
+35,Sun Apr 27 2025,,,KF Tiranë,,,KF Teuta Durrës,
+35,Sun Apr 27 2025,,,KF Laçi,,,FC Dinamo City,
+35,Sun Apr 27 2025,,,AF Elbasani,,,FK Vllaznia,
+36,Thu May 1 2025,,,FC Dinamo City,,,KF Tiranë,
+36,Thu May 1 2025,,,KF Teuta Durrës,,,Egnatia Rrogozhine,
+36,Thu May 1 2025,,,KF Skënderbeu,,,KF Bylis Ballsh,
+36,Thu May 1 2025,,,FK Partizani,,,AF Elbasani,
+36,Thu May 1 2025,,,FK Vllaznia,,,KF Laçi,

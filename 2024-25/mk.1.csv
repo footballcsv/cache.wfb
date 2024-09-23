@@ -1,0 +1,133 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Sun Aug 11 2024,17:00,CEST/+0200,KF Besa Dobërdoll,1-3,1-2,KF Shkëndija 79,2024-08-11T15:00Z
+1,Sun Aug 11 2024,17:00,CEST/+0200,FK Rabotnički,1-0,1-0,Sileks Kratovo,2024-08-11T15:00Z
+1,Sun Aug 11 2024,17:00,CEST/+0200,FK Pelister,1-1,1-1,KF Gostivari,2024-08-11T15:00Z
+1,Sun Aug 11 2024,17:00,CEST/+0200,KF Shkupi,3-3,1-1,FK Voska Sport,2024-08-11T15:00Z
+1,Sun Aug 11 2024,20:00,CEST/+0200,FK AP Brera Strumica,3-1,1-1,Vardar Skopje,2024-08-11T18:00Z
+1,Sun Aug 11 2024,17:00,CEST/+0200,FC Struga,1-0,0-0,GFK Tikvesh,2024-08-11T15:00Z
+2,Sun Aug 18 2024,17:00,CEST/+0200,GFK Tikvesh,2-1,1-0,FK Voska Sport,2024-08-18T15:00Z
+2,Sun Aug 18 2024,17:00,CEST/+0200,KF Gostivari,2-0,2-0,KF Shkupi,2024-08-18T15:00Z
+2,Sun Aug 18 2024,17:00,CEST/+0200,Sileks Kratovo,4-0,2-0,FK AP Brera Strumica,2024-08-18T15:00Z
+2,Sun Aug 18 2024,17:00,CEST/+0200,KF Shkëndija 79,1-1,1-0,FK Rabotnički,2024-08-18T15:00Z
+2,Sun Aug 18 2024,17:00,CEST/+0200,FC Struga,1-0,0-0,KF Besa Dobërdoll,2024-08-18T15:00Z
+2,Sun Aug 18 2024,20:00,CEST/+0200,Vardar Skopje,1-0,0-0,FK Pelister,2024-08-18T18:00Z
+3,Sun Aug 25 2024,16:00,CEST/+0200,KF Besa Dobërdoll,1-0,0-0,GFK Tikvesh,2024-08-25T14:00Z
+3,Sun Aug 25 2024,16:00,CEST/+0200,FK Rabotnički,2-0,2-0,FC Struga,2024-08-25T14:00Z
+3,Sun Aug 25 2024,16:00,CEST/+0200,FK Pelister,1-0,0-0,Sileks Kratovo,2024-08-25T14:00Z
+3,Sun Aug 25 2024,16:00,CEST/+0200,KF Shkupi,3-0,1-0,Vardar Skopje,2024-08-25T14:00Z
+3,Sun Aug 25 2024,16:00,CEST/+0200,FK Voska Sport,0-2,0-1,KF Gostivari,2024-08-25T14:00Z
+3,Sun Aug 25 2024,20:00,CEST/+0200,FK AP Brera Strumica,0-2,0-0,KF Shkëndija 79,2024-08-25T18:00Z
+4,Sat Aug 31 2024,16:00,CEST/+0200,Vardar Skopje,1-3,0-0,FK Voska Sport,2024-08-31T14:00Z
+4,Sat Aug 31 2024,16:00,CEST/+0200,Sileks Kratovo,2-1,1-0,KF Shkupi,2024-08-31T14:00Z
+4,Sat Aug 31 2024,16:00,CEST/+0200,KF Shkëndija 79,2-0,0-0,FK Pelister,2024-08-31T14:00Z
+4,Sat Aug 31 2024,16:00,CEST/+0200,FC Struga,2-0,0-0,FK AP Brera Strumica,2024-08-31T14:00Z
+4,Sat Aug 31 2024,16:00,CEST/+0200,KF Besa Dobërdoll,0-0,0-0,FK Rabotnički,2024-08-31T14:00Z
+4,Sat Aug 31 2024,16:00,CEST/+0200,GFK Tikvesh,0-0,0-0,KF Gostivari,2024-08-31T14:00Z
+5,Sun Sep 15 2024,15:00,CEST/+0200,FK Rabotnički,3-1,1-0,GFK Tikvesh,2024-09-15T13:00Z
+5,Sun Sep 15 2024,15:00,CEST/+0200,FK AP Brera Strumica,3-2,0-0,KF Besa Dobërdoll,2024-09-15T13:00Z
+5,Sun Sep 15 2024,15:00,CEST/+0200,FK Pelister,1-1,1-1,FC Struga,2024-09-15T13:00Z
+5,Sun Sep 15 2024,15:00,CEST/+0200,KF Shkupi,1-1,1-0,KF Shkëndija 79,2024-09-15T13:00Z
+5,Sun Sep 15 2024,15:00,CEST/+0200,FK Voska Sport,0-3,0-0,Sileks Kratovo,2024-09-15T13:00Z
+5,Sun Sep 15 2024,15:00,CEST/+0200,KF Gostivari,1-1,1-0,Vardar Skopje,2024-09-15T13:00Z
+6,Sun Sep 22 2024,15:00,CEST/+0200,GFK Tikvesh,0-1,0-0,Vardar Skopje,2024-09-22T13:00Z
+6,Sun Sep 22 2024,15:00,CEST/+0200,Sileks Kratovo,1-2,0-1,KF Gostivari,2024-09-22T13:00Z
+6,Sun Sep 22 2024,15:00,CEST/+0200,KF Shkëndija 79,5-1,4-0,FK Voska Sport,2024-09-22T13:00Z
+6,Sun Sep 22 2024,15:00,CEST/+0200,FC Struga,0-3,0-1,KF Shkupi,2024-09-22T13:00Z
+6,Sun Sep 22 2024,15:00,CEST/+0200,KF Besa Dobërdoll,2-3,0-2,FK Pelister,2024-09-22T13:00Z
+6,Sun Sep 22 2024,15:00,CEST/+0200,FK Rabotnički,1-1,0-1,FK AP Brera Strumica,2024-09-22T13:00Z
+7,Wed Sep 25 2024,15:00,CEST/+0200,FK Pelister,,,FK Rabotnički,2024-09-25T13:00Z
+7,Wed Sep 25 2024,15:00,CEST/+0200,KF Shkupi,,,KF Besa Dobërdoll,2024-09-25T13:00Z
+7,Wed Sep 25 2024,15:00,CEST/+0200,FK Voska Sport,,,FC Struga,2024-09-25T13:00Z
+7,Wed Sep 25 2024,15:00,CEST/+0200,KF Gostivari,,,KF Shkëndija 79,2024-09-25T13:00Z
+7,Wed Sep 25 2024,15:00,CEST/+0200,Vardar Skopje,,,Sileks Kratovo,2024-09-25T13:00Z
+7,Wed Sep 25 2024,15:00,CEST/+0200,FK AP Brera Strumica,,,GFK Tikvesh,2024-09-25T13:00Z
+8,Sun Sep 29 2024,14:00,CEST/+0200,GFK Tikvesh,,,Sileks Kratovo,2024-09-29T12:00Z
+8,Sun Sep 29 2024,14:00,CEST/+0200,KF Shkëndija 79,,,Vardar Skopje,2024-09-29T12:00Z
+8,Sun Sep 29 2024,14:00,CEST/+0200,FC Struga,,,KF Gostivari,2024-09-29T12:00Z
+8,Sun Sep 29 2024,14:00,CEST/+0200,KF Besa Dobërdoll,,,FK Voska Sport,2024-09-29T12:00Z
+8,Sun Sep 29 2024,14:00,CEST/+0200,FK Rabotnički,,,KF Shkupi,2024-09-29T12:00Z
+8,Sun Sep 29 2024,14:00,CEST/+0200,FK AP Brera Strumica,,,FK Pelister,2024-09-29T12:00Z
+9,Sat Oct 5 2024,14:00,CEST/+0200,FK Pelister,,,GFK Tikvesh,2024-10-05T12:00Z
+9,Sat Oct 5 2024,14:00,CEST/+0200,KF Shkupi,,,FK AP Brera Strumica,2024-10-05T12:00Z
+9,Sat Oct 5 2024,14:00,CEST/+0200,FK Voska Sport,,,FK Rabotnički,2024-10-05T12:00Z
+9,Sat Oct 5 2024,14:00,CEST/+0200,KF Gostivari,,,KF Besa Dobërdoll,2024-10-05T12:00Z
+9,Sat Oct 5 2024,14:00,CEST/+0200,Vardar Skopje,,,FC Struga,2024-10-05T12:00Z
+9,Sat Oct 5 2024,14:00,CEST/+0200,Sileks Kratovo,,,KF Shkëndija 79,2024-10-05T12:00Z
+10,Sun Oct 20 2024,14:00,CEST/+0200,FC Struga,,,Sileks Kratovo,2024-10-20T12:00Z
+10,Sun Oct 20 2024,14:00,CEST/+0200,KF Besa Dobërdoll,,,Vardar Skopje,2024-10-20T12:00Z
+10,Sun Oct 20 2024,14:00,CEST/+0200,FK Rabotnički,,,KF Gostivari,2024-10-20T12:00Z
+10,Sun Oct 20 2024,14:00,CEST/+0200,FK AP Brera Strumica,,,FK Voska Sport,2024-10-20T12:00Z
+10,Sun Oct 20 2024,14:00,CEST/+0200,FK Pelister,,,KF Shkupi,2024-10-20T12:00Z
+10,Sun Oct 20 2024,14:00,CEST/+0200,GFK Tikvesh,,,KF Shkëndija 79,2024-10-20T12:00Z
+11,Sun Oct 27 2024,14:00,CET/+0100,KF Shkupi,,,GFK Tikvesh,2024-10-27T13:00Z
+11,Sun Oct 27 2024,14:00,CET/+0100,FK Voska Sport,,,FK Pelister,2024-10-27T13:00Z
+11,Sun Oct 27 2024,14:00,CET/+0100,KF Gostivari,,,FK AP Brera Strumica,2024-10-27T13:00Z
+11,Sun Oct 27 2024,14:00,CET/+0100,Vardar Skopje,,,FK Rabotnički,2024-10-27T13:00Z
+11,Sun Oct 27 2024,14:00,CET/+0100,Sileks Kratovo,,,KF Besa Dobërdoll,2024-10-27T13:00Z
+11,Sun Oct 27 2024,14:00,CET/+0100,KF Shkëndija 79,,,FC Struga,2024-10-27T13:00Z
+12,Wed Oct 30 2024,13:00,CET/+0100,GFK Tikvesh,,,FC Struga,2024-10-30T12:00Z
+12,Wed Oct 30 2024,13:00,CET/+0100,KF Shkëndija 79,,,KF Besa Dobërdoll,2024-10-30T12:00Z
+12,Wed Oct 30 2024,13:00,CET/+0100,Sileks Kratovo,,,FK Rabotnički,2024-10-30T12:00Z
+12,Wed Oct 30 2024,13:00,CET/+0100,Vardar Skopje,,,FK AP Brera Strumica,2024-10-30T12:00Z
+12,Wed Oct 30 2024,13:00,CET/+0100,KF Gostivari,,,FK Pelister,2024-10-30T12:00Z
+12,Wed Oct 30 2024,13:00,CET/+0100,FK Voska Sport,,,KF Shkupi,2024-10-30T12:00Z
+13,Sun Nov 3 2024,13:00,CET/+0100,KF Shkupi,,,KF Gostivari,2024-11-03T12:00Z
+13,Sun Nov 3 2024,13:00,CET/+0100,FK Pelister,,,Vardar Skopje,2024-11-03T12:00Z
+13,Sun Nov 3 2024,13:00,CET/+0100,FK AP Brera Strumica,,,Sileks Kratovo,2024-11-03T12:00Z
+13,Sun Nov 3 2024,13:00,CET/+0100,FK Rabotnički,,,KF Shkëndija 79,2024-11-03T12:00Z
+13,Sun Nov 3 2024,13:00,CET/+0100,KF Besa Dobërdoll,,,FC Struga,2024-11-03T12:00Z
+13,Sun Nov 3 2024,13:00,CET/+0100,FK Voska Sport,,,GFK Tikvesh,2024-11-03T12:00Z
+14,Sat Nov 9 2024,13:00,CET/+0100,GFK Tikvesh,,,KF Besa Dobërdoll,2024-11-09T12:00Z
+14,Sat Nov 9 2024,13:00,CET/+0100,FC Struga,,,FK Rabotnički,2024-11-09T12:00Z
+14,Sat Nov 9 2024,13:00,CET/+0100,KF Shkëndija 79,,,FK AP Brera Strumica,2024-11-09T12:00Z
+14,Sat Nov 9 2024,13:00,CET/+0100,Sileks Kratovo,,,FK Pelister,2024-11-09T12:00Z
+14,Sat Nov 9 2024,13:00,CET/+0100,Vardar Skopje,,,KF Shkupi,2024-11-09T12:00Z
+14,Sat Nov 9 2024,13:00,CET/+0100,KF Gostivari,,,FK Voska Sport,2024-11-09T12:00Z
+15,Sun Nov 24 2024,13:00,CET/+0100,KF Gostivari,,,GFK Tikvesh,2024-11-24T12:00Z
+15,Sun Nov 24 2024,13:00,CET/+0100,FK Voska Sport,,,Vardar Skopje,2024-11-24T12:00Z
+15,Sun Nov 24 2024,13:00,CET/+0100,KF Shkupi,,,Sileks Kratovo,2024-11-24T12:00Z
+15,Sun Nov 24 2024,13:00,CET/+0100,FK Pelister,,,KF Shkëndija 79,2024-11-24T12:00Z
+15,Sun Nov 24 2024,13:00,CET/+0100,FK AP Brera Strumica,,,FC Struga,2024-11-24T12:00Z
+15,Sun Nov 24 2024,13:00,CET/+0100,FK Rabotnički,,,KF Besa Dobërdoll,2024-11-24T12:00Z
+16,Wed Nov 27 2024,13:00,CET/+0100,KF Besa Dobërdoll,,,FK AP Brera Strumica,2024-11-27T12:00Z
+16,Wed Nov 27 2024,13:00,CET/+0100,FC Struga,,,FK Pelister,2024-11-27T12:00Z
+16,Wed Nov 27 2024,13:00,CET/+0100,KF Shkëndija 79,,,KF Shkupi,2024-11-27T12:00Z
+16,Wed Nov 27 2024,13:00,CET/+0100,Sileks Kratovo,,,FK Voska Sport,2024-11-27T12:00Z
+16,Wed Nov 27 2024,13:00,CET/+0100,Vardar Skopje,,,KF Gostivari,2024-11-27T12:00Z
+16,Wed Nov 27 2024,13:00,CET/+0100,GFK Tikvesh,,,FK Rabotnički,2024-11-27T12:00Z
+17,Sun Dec 1 2024,13:00,CET/+0100,Vardar Skopje,,,GFK Tikvesh,2024-12-01T12:00Z
+17,Sun Dec 1 2024,13:00,CET/+0100,KF Gostivari,,,Sileks Kratovo,2024-12-01T12:00Z
+17,Sun Dec 1 2024,13:00,CET/+0100,FK Voska Sport,,,KF Shkëndija 79,2024-12-01T12:00Z
+17,Sun Dec 1 2024,13:00,CET/+0100,KF Shkupi,,,FC Struga,2024-12-01T12:00Z
+17,Sun Dec 1 2024,13:00,CET/+0100,FK Pelister,,,KF Besa Dobërdoll,2024-12-01T12:00Z
+17,Sun Dec 1 2024,13:00,CET/+0100,FK AP Brera Strumica,,,FK Rabotnički,2024-12-01T12:00Z
+18,Sun Dec 8 2024,13:00,CET/+0100,GFK Tikvesh,,,FK AP Brera Strumica,2024-12-08T12:00Z
+18,Sun Dec 8 2024,13:00,CET/+0100,FK Rabotnički,,,FK Pelister,2024-12-08T12:00Z
+18,Sun Dec 8 2024,13:00,CET/+0100,KF Besa Dobërdoll,,,KF Shkupi,2024-12-08T12:00Z
+18,Sun Dec 8 2024,13:00,CET/+0100,FC Struga,,,FK Voska Sport,2024-12-08T12:00Z
+18,Sun Dec 8 2024,13:00,CET/+0100,KF Shkëndija 79,,,KF Gostivari,2024-12-08T12:00Z
+18,Sun Dec 8 2024,13:00,CET/+0100,Sileks Kratovo,,,Vardar Skopje,2024-12-08T12:00Z
+19,Sun Feb 16 2025,14:00,CET/+0100,Vardar Skopje,,,KF Shkëndija 79,2025-02-16T13:00Z
+19,Sun Feb 16 2025,14:00,CET/+0100,KF Gostivari,,,FC Struga,2025-02-16T13:00Z
+19,Sun Feb 16 2025,14:00,CET/+0100,FK Voska Sport,,,KF Besa Dobërdoll,2025-02-16T13:00Z
+19,Sun Feb 16 2025,14:00,CET/+0100,KF Shkupi,,,FK Rabotnički,2025-02-16T13:00Z
+19,Sun Feb 16 2025,14:00,CET/+0100,FK Pelister,,,FK AP Brera Strumica,2025-02-16T13:00Z
+19,Sun Feb 16 2025,14:00,CET/+0100,Sileks Kratovo,,,GFK Tikvesh,2025-02-16T13:00Z
+20,Sun Feb 23 2025,14:00,CET/+0100,GFK Tikvesh,,,FK Pelister,2025-02-23T13:00Z
+20,Sun Feb 23 2025,14:00,CET/+0100,FK AP Brera Strumica,,,KF Shkupi,2025-02-23T13:00Z
+20,Sun Feb 23 2025,14:00,CET/+0100,FK Rabotnički,,,FK Voska Sport,2025-02-23T13:00Z
+20,Sun Feb 23 2025,14:00,CET/+0100,KF Besa Dobërdoll,,,KF Gostivari,2025-02-23T13:00Z
+20,Sun Feb 23 2025,14:00,CET/+0100,FC Struga,,,Vardar Skopje,2025-02-23T13:00Z
+20,Sun Feb 23 2025,14:00,CET/+0100,KF Shkëndija 79,,,Sileks Kratovo,2025-02-23T13:00Z
+21,Sun Mar 2 2025,14:00,CET/+0100,KF Shkëndija 79,,,GFK Tikvesh,2025-03-02T13:00Z
+21,Sun Mar 2 2025,14:00,CET/+0100,Sileks Kratovo,,,FC Struga,2025-03-02T13:00Z
+21,Sun Mar 2 2025,14:00,CET/+0100,Vardar Skopje,,,KF Besa Dobërdoll,2025-03-02T13:00Z
+21,Sun Mar 2 2025,14:00,CET/+0100,KF Gostivari,,,FK Rabotnički,2025-03-02T13:00Z
+21,Sun Mar 2 2025,14:00,CET/+0100,FK Voska Sport,,,FK AP Brera Strumica,2025-03-02T13:00Z
+21,Sun Mar 2 2025,14:00,CET/+0100,KF Shkupi,,,FK Pelister,2025-03-02T13:00Z
+22,Wed Mar 5 2025,14:00,CET/+0100,FK Pelister,,,FK Voska Sport,2025-03-05T13:00Z
+22,Wed Mar 5 2025,14:00,CET/+0100,FK AP Brera Strumica,,,KF Gostivari,2025-03-05T13:00Z
+22,Wed Mar 5 2025,14:00,CET/+0100,FK Rabotnički,,,Vardar Skopje,2025-03-05T13:00Z
+22,Wed Mar 5 2025,14:00,CET/+0100,KF Besa Dobërdoll,,,Sileks Kratovo,2025-03-05T13:00Z
+22,Wed Mar 5 2025,14:00,CET/+0100,FC Struga,,,KF Shkëndija 79,2025-03-05T13:00Z
+22,Wed Mar 5 2025,14:00,CET/+0100,GFK Tikvesh,,,KF Shkupi,2025-03-05T13:00Z

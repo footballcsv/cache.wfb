@@ -70,15 +70,15 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
 8,Sun Sep 15 2024,12:15,CEST/+0200,Piast Gliwice,1-1,0-0,Puszcza Niepołomice,,2024-09-15T10:15Z
 8,Sun Sep 15 2024,14:45,CEST/+0200,Korona Kielce,2-0,2-0,Zagłębie Lubin,,2024-09-15T12:45Z
 8,Mon Sep 16 2024,,,Śląsk Wrocław,,,FKS Stal Mielec,postponed,
-9,Fri Sep 20 2024,20:30,CEST/+0200,Pogoń Szczecin,,,Legia Warszawa,,2024-09-20T18:30Z
-9,Fri Sep 20 2024,18:00,CEST/+0200,Radomiak Radom,,,Korona Kielce,,2024-09-20T16:00Z
-9,Sat Sep 21 2024,20:15,CEST/+0200,Górnik Zabrze,,,GKS Katowice,,2024-09-21T18:15Z
-9,Sat Sep 21 2024,12:15,CEST/+0200,Puszcza Niepołomice,,,KS Cracovia,,2024-09-21T10:15Z
-9,Sat Sep 21 2024,14:45,CEST/+0200,Jagiellonia Białystok,,,Lechia Gdańsk,,2024-09-21T12:45Z
-9,Sat Sep 21 2024,17:30,CEST/+0200,Widzew Łódź,,,Piast Gliwice,,2024-09-21T15:30Z
-9,Sun Sep 22 2024,12:15,CEST/+0200,FKS Stal Mielec,,,Motor Lublin,,2024-09-22T10:15Z
-9,Sun Sep 22 2024,14:45,CEST/+0200,Raków Częstochowa,,,Zagłębie Lubin,,2024-09-22T12:45Z
-9,Sun Sep 22 2024,17:30,CEST/+0200,Lech Poznań,,,Śląsk Wrocław,,2024-09-22T15:30Z
+9,Fri Sep 20 2024,20:30,CEST/+0200,Pogoń Szczecin,1-0,0-0,Legia Warszawa,,2024-09-20T18:30Z
+9,Fri Sep 20 2024,18:00,CEST/+0200,Radomiak Radom,4-0,2-0,Korona Kielce,,2024-09-20T16:00Z
+9,Sat Sep 21 2024,20:15,CEST/+0200,Górnik Zabrze,3-0,1-0,GKS Katowice,,2024-09-21T18:15Z
+9,Sat Sep 21 2024,12:15,CEST/+0200,Puszcza Niepołomice,1-2,1-1,KS Cracovia,,2024-09-21T10:15Z
+9,Sat Sep 21 2024,14:45,CEST/+0200,Jagiellonia Białystok,3-2,1-1,Lechia Gdańsk,,2024-09-21T12:45Z
+9,Sat Sep 21 2024,17:30,CEST/+0200,Widzew Łódź,1-0,1-0,Piast Gliwice,,2024-09-21T15:30Z
+9,Sun Sep 22 2024,12:15,CEST/+0200,FKS Stal Mielec,1-0,0-0,Motor Lublin,,2024-09-22T10:15Z
+9,Sun Sep 22 2024,14:45,CEST/+0200,Raków Częstochowa,5-1,1-1,Zagłębie Lubin,,2024-09-22T12:45Z
+9,Sun Sep 22 2024,17:30,CEST/+0200,Lech Poznań,1-0,0-0,Śląsk Wrocław,,2024-09-22T15:30Z
 4,Wed Sep 25 2024,19:00,CEST/+0200,Motor Lublin,,,Jagiellonia Białystok,,2024-09-25T17:00Z
 10,Fri Sep 27 2024,20:30,CEST/+0200,Lechia Gdańsk,,,Widzew Łódź,,2024-09-27T18:30Z
 10,Fri Sep 27 2024,18:00,CEST/+0200,GKS Katowice,,,Pogoń Szczecin,,2024-09-27T16:00Z

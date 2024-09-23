@@ -46,13 +46,13 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
 6,Sun Sep 15 2024,13:00,EEST/+0300,Vorskla Poltava,0-0,0-0,Rukh Lviv,,2024-09-15T10:00Z
 6,Sun Sep 15 2024,18:00,EEST/+0300,Polissya Zhytomyr,2-1,0-1,NK Veres,,2024-09-15T15:00Z
 6,Mon Sep 16 2024,18:00,EEST/+0300,Kolos Kovalivka,1-1,1-0,FC LNZ Cherkasy,,2024-09-16T15:00Z
-4,Wed Sep 18 2024,18:00,EEST/+0300,Dinamo Kiev,,,Vorskla Poltava,,2024-09-18T15:00Z
-7,Sat Sep 21 2024,15:30,EEST/+0300,FK Oleksandriya,,,Livyi Bereh,,2024-09-21T12:30Z
-7,Sat Sep 21 2024,18:00,EEST/+0300,Dinamo Kiev,,,Rukh Lviv,,2024-09-21T15:00Z
-7,Sat Sep 21 2024,13:00,EEST/+0300,Chernomorets Odessa,,,Karpaty Lviv,,2024-09-21T10:00Z
-7,Sun Sep 22 2024,15:30,EEST/+0300,Kryvbas Kryvyi Rih,,,Vorskla Poltava,,2024-09-22T12:30Z
-7,Sun Sep 22 2024,18:00,EEST/+0300,Polissya Zhytomyr,,,FC LNZ Cherkasy,,2024-09-22T15:00Z
-7,Sun Sep 22 2024,13:00,EEST/+0300,Inhulets Petrove,,,NK Veres,,2024-09-22T10:00Z
+4,Wed Sep 18 2024,18:00,EEST/+0300,Dinamo Kiev,3-1,2-0,Vorskla Poltava,,2024-09-18T15:00Z
+7,Sat Sep 21 2024,15:30,EEST/+0300,FK Oleksandriya,2-0,0-0,Livyi Bereh,,2024-09-21T12:30Z
+7,Sat Sep 21 2024,18:00,EEST/+0300,Dinamo Kiev,0-0,0-0,Rukh Lviv,,2024-09-21T15:00Z
+7,Sat Sep 21 2024,13:00,EEST/+0300,Chernomorets Odessa,0-1,0-0,Karpaty Lviv,,2024-09-21T10:00Z
+7,Sun Sep 22 2024,15:30,EEST/+0300,Kryvbas Kryvyi Rih,1-1,1-1,Vorskla Poltava,,2024-09-22T12:30Z
+7,Sun Sep 22 2024,18:00,EEST/+0300,Polissya Zhytomyr,1-1,0-1,FC LNZ Cherkasy,,2024-09-22T15:00Z
+7,Sun Sep 22 2024,13:00,EEST/+0300,NK Veres,2-2,0-2,Inhulets Petrove,,2024-09-22T10:00Z
 7,Mon Sep 23 2024,15:30,EEST/+0300,Kolos Kovalivka,,,Zorya Lugansk,,2024-09-23T12:30Z
 7,Mon Sep 23 2024,18:00,EEST/+0300,Shakhtar Donetsk,,,FK Obolon,,2024-09-23T15:00Z
 8,Fri Sep 27 2024,18:00,EEST/+0300,NK Veres,,,Shakhtar Donetsk,,2024-09-27T15:00Z
@@ -63,14 +63,14 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
 8,Sun Sep 29 2024,15:30,EEST/+0300,Rukh Lviv,,,Kolos Kovalivka,,2024-09-29T12:30Z
 8,Sun Sep 29 2024,18:00,EEST/+0300,Livyi Bereh,,,Dinamo Kiev,,2024-09-29T15:00Z
 8,Mon Sep 30 2024,18:00,EEST/+0300,Zorya Lugansk,,,Vorskla Poltava,,2024-09-30T15:00Z
-9,Sat Oct 5 2024,,,Dinamo Kiev,,,Kryvbas Kryvyi Rih,,
-9,Sat Oct 5 2024,,,Shakhtar Donetsk,,,FC LNZ Cherkasy,,
-9,Sat Oct 5 2024,,,Vorskla Poltava,,,Polissya Zhytomyr,,
-9,Sat Oct 5 2024,,,Kolos Kovalivka,,,Livyi Bereh,,
-9,Sat Oct 5 2024,,,NK Veres,,,Zorya Lugansk,,
-9,Sat Oct 5 2024,,,FK Oleksandriya,,,Rukh Lviv,,
-9,Sat Oct 5 2024,,,Inhulets Petrove,,,Karpaty Lviv,,
-9,Sat Oct 5 2024,,,Chernomorets Odessa,,,FK Obolon,,
+9,Fri Oct 4 2024,18:00,EEST/+0300,Inhulets Petrove,,,Karpaty Lviv,,2024-10-04T15:00Z
+9,Fri Oct 4 2024,15:30,EEST/+0300,Chernomorets Odessa,,,FK Obolon,,2024-10-04T12:30Z
+9,Sat Oct 5 2024,13:00,EEST/+0300,NK Veres,,,Zorya Lugansk,,2024-10-05T10:00Z
+9,Sat Oct 5 2024,15:30,EEST/+0300,FK Oleksandriya,,,Rukh Lviv,,2024-10-05T12:30Z
+9,Sat Oct 5 2024,18:00,EEST/+0300,Kolos Kovalivka,,,Livyi Bereh,,2024-10-05T15:00Z
+9,Sun Oct 6 2024,15:30,EEST/+0300,Shakhtar Donetsk,,,FC LNZ Cherkasy,,2024-10-06T12:30Z
+9,Sun Oct 6 2024,18:00,EEST/+0300,Dinamo Kiev,,,Kryvbas Kryvyi Rih,,2024-10-06T15:00Z
+9,Sun Oct 6 2024,13:00,EEST/+0300,Vorskla Poltava,,,Polissya Zhytomyr,,2024-10-06T10:00Z
 10,Sat Oct 19 2024,,,Zorya Lugansk,,,Kryvbas Kryvyi Rih,,
 10,Sat Oct 19 2024,,,Kolos Kovalivka,,,Shakhtar Donetsk,,
 10,Sat Oct 19 2024,,,Rukh Lviv,,,Karpaty Lviv,,
@@ -174,7 +174,7 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
 22,Sat Mar 29 2025,,,FC LNZ Cherkasy,,,Polissya Zhytomyr,,
 22,Sat Mar 29 2025,,,Vorskla Poltava,,,Kryvbas Kryvyi Rih,,
 22,Sat Mar 29 2025,,,Zorya Lugansk,,,Kolos Kovalivka,,
-22,Sat Mar 29 2025,,,NK Veres,,,Inhulets Petrove,,
+22,Sat Mar 29 2025,,,Inhulets Petrove,,,NK Veres,,
 23,Sat Apr 5 2025,,,Vorskla Poltava,,,Zorya Lugansk,,
 23,Sat Apr 5 2025,,,FK Oleksandriya,,,Kryvbas Kryvyi Rih,,
 23,Sat Apr 5 2025,,,Shakhtar Donetsk,,,NK Veres,,

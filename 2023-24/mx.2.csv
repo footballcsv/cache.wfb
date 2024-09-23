@@ -104,9 +104,9 @@ Apertura,15,Wed Nov 1 2023,17:05,CST/-0600,Coyotes de Tlaxcala,0-1,0-0,Correcami
 Apertura,15,Thu Nov 2 2023,19:05,CST/-0600,Tapatío,0-1,0-1,Dorados de Sinaloa,,,2023-11-03T01:05Z
 Apertura,15,Thu Nov 2 2023,21:05,CST/-0600,Atlético Morelia,1-0,1-0,Tepatitlán,,,2023-11-03T03:05Z
 Apertura,15,Thu Nov 2 2023,17:05,CST/-0600,Club Celaya,0-0,0-0,Leones Negros,,,2023-11-02T23:05Z
-Apertura Playoffs,Qual. 1. Runde,Thu Nov 9 2023,19:05,CST/-0600,Atlético Morelia,1-1,0-0,Venados FC,,4-3,2023-11-10T01:05Z
-Apertura Playoffs,Qual. 1. Runde,Thu Nov 9 2023,21:05,CST/-0600,Correcaminos UAT,0-1,0-0,Atlético La Paz,,,2023-11-10T03:05Z
-Apertura Playoffs,Qual. 2. Runde,Sun Nov 12 2023,17:05,CST/-0600,Venados FC,1-0,1-0,Atlético La Paz,,,2023-11-12T23:05Z
+Apertura Playoffs,Play-in round 1,Thu Nov 9 2023,19:05,CST/-0600,Atlético Morelia,1-1,0-0,Venados FC,,4-3,2023-11-10T01:05Z
+Apertura Playoffs,Play-in round 1,Thu Nov 9 2023,21:05,CST/-0600,Correcaminos UAT,0-1,0-0,Atlético La Paz,,,2023-11-10T03:05Z
+Apertura Playoffs,Play-in round 2,Sun Nov 12 2023,17:05,CST/-0600,Venados FC,1-0,1-0,Atlético La Paz,,,2023-11-12T23:05Z
 Apertura Playoffs,Quarterfinals,Wed Nov 15 2023,21:05,CST/-0600,Cimarrones de Sonora,2-0,1-0,Atlante,,,2023-11-16T03:05Z
 Apertura Playoffs,Quarterfinals,Wed Nov 15 2023,19:05,CST/-0600,Atlético Morelia,2-1,2-1,Leones Negros,,,2023-11-16T01:05Z
 Apertura Playoffs,Quarterfinals,Thu Nov 16 2023,21:05,CST/-0600,Venados FC,1-0,0-0,Cancún FC,,,2023-11-17T03:05Z
@@ -226,9 +226,9 @@ Clausura,15,Wed Apr 10 2024,19:05,CST/-0600,Coyotes de Tlaxcala,0-2,0-0,Mineros 
 Clausura,15,Thu Apr 11 2024,19:05,CST/-0600,Atlante,4-0,3-0,Correcaminos UAT,,,2024-04-12T01:05Z
 Clausura,15,Thu Apr 11 2024,21:05,CST/-0600,Club Celaya,1-2,0-1,Tapatío,,,2024-04-12T03:05Z
 Clausura,15,Sat Apr 13 2024,17:05,CST/-0600,Alebrijes de Oaxaca,3-3,1-2,Atlético Morelia,,,2024-04-13T23:05Z
-Clausura Playoffs,Qual. 1. Runde,Wed Apr 17 2024,21:00,CST/-0600,Atlético La Paz,2-3,0-3,Mineros de Zacatecas,,,2024-04-18T03:00Z
-Clausura Playoffs,Qual. 1. Runde,Wed Apr 17 2024,19:00,CST/-0600,Alebrijes de Oaxaca,1-1,0-0,Cimarrones de Sonora,,6-5,2024-04-18T01:00Z
-Clausura Playoffs,Qual. 2. Runde,Sat Apr 20 2024,21:00,CST/-0600,Atlético La Paz,3-2,0-2,Alebrijes de Oaxaca,,,2024-04-21T03:00Z
+Clausura Playoffs,Play-in round 1,Wed Apr 17 2024,21:00,CST/-0600,Atlético La Paz,2-3,0-3,Mineros de Zacatecas,,,2024-04-18T03:00Z
+Clausura Playoffs,Play-in round 1,Wed Apr 17 2024,19:00,CST/-0600,Alebrijes de Oaxaca,1-1,0-0,Cimarrones de Sonora,,6-5,2024-04-18T01:00Z
+Clausura Playoffs,Play-in round 2,Sat Apr 20 2024,21:00,CST/-0600,Atlético La Paz,3-2,0-2,Alebrijes de Oaxaca,,,2024-04-21T03:00Z
 Clausura Playoffs,Quarterfinals,Wed Apr 24 2024,19:00,CST/-0600,Club Celaya,4-3,0-2,Tapatío,,,2024-04-25T01:00Z
 Clausura Playoffs,Quarterfinals,Wed Apr 24 2024,21:05,CST/-0600,Atlético La Paz,3-1,1-0,Venados FC,,,2024-04-25T03:05Z
 Clausura Playoffs,Quarterfinals,Thu Apr 25 2024,19:05,CST/-0600,Cancún FC,0-1,0-0,Atlante,,,2024-04-26T01:05Z

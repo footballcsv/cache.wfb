@@ -1,0 +1,183 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Sat Aug 24 2024,19:00,IDT/+0300,Bnei Sachnin FC,2-0,2-0,Maccabi Petach-Tikva,,2024-08-24T16:00Z
+1,Sat Aug 24 2024,20:00,IDT/+0300,Maccabi Haifa,4-0,1-0,Ironi Tiberias,,2024-08-24T17:00Z
+1,Sat Aug 24 2024,20:00,IDT/+0300,Hapoel Hadera,0-0,0-0,Hapoel Haifa,,2024-08-24T17:00Z
+1,Sat Aug 24 2024,19:00,IDT/+0300,Maccabi Bnei Raina,4-3,4-1,Maccabi Netanya,,2024-08-24T16:00Z
+1,Sun Aug 25 2024,20:15,IDT/+0300,Beitar Jerusalem,3-2,1-0,FC Ashdod,,2024-08-25T17:15Z
+1,Mon Aug 26 2024,20:00,IDT/+0300,Ironi Kiryat Shmona,0-1,0-0,Hapoel Be'er Sheva,,2024-08-26T17:00Z
+2,Sat Aug 31 2024,20:30,IDT/+0300,Maccabi Netanya,0-2,0-1,Maccabi Haifa,,2024-08-31T17:30Z
+2,Sat Aug 31 2024,19:00,IDT/+0300,Hapoel Haifa,1-3,1-0,Maccabi Bnei Raina,,2024-08-31T16:00Z
+2,Sat Aug 31 2024,19:00,IDT/+0300,FC Ashdod,2-1,2-1,Ironi Kiryat Shmona,,2024-08-31T16:00Z
+2,Sat Aug 31 2024,20:00,IDT/+0300,Hapoel Jerusalem,1-1,0-1,Hapoel Hadera,,2024-08-31T17:00Z
+2,Sat Aug 31 2024,20:00,IDT/+0300,Ironi Tiberias,1-0,0-0,Beitar Jerusalem,,2024-08-31T17:00Z
+2,Sun Sep 1 2024,20:00,IDT/+0300,Hapoel Be'er Sheva,(*),,Bnei Sachnin FC,abandoned,2024-09-01T17:00Z
+2,Sun Sep 1 2024,20:15,IDT/+0300,Maccabi Petach-Tikva,0-3,0-2,Maccabi Tel Aviv,,2024-09-01T17:15Z
+3,Sat Sep 14 2024,20:00,IDT/+0300,Maccabi Bnei Raina,2-2,0-1,Maccabi Haifa,,2024-09-14T17:00Z
+3,Sat Sep 14 2024,19:30,IDT/+0300,Bnei Sachnin FC,2-2,1-0,FC Ashdod,,2024-09-14T16:30Z
+3,Sat Sep 14 2024,19:30,IDT/+0300,Hapoel Haifa,4-0,3-0,Hapoel Jerusalem,,2024-09-14T16:30Z
+3,Sat Sep 14 2024,20:30,IDT/+0300,Maccabi Tel Aviv,1-0,1-0,Hapoel Be'er Sheva,,2024-09-14T17:30Z
+3,Sat Sep 14 2024,20:00,IDT/+0300,Ironi Kiryat Shmona,2-0,1-0,Ironi Tiberias,,2024-09-14T17:00Z
+3,Sun Sep 15 2024,20:15,IDT/+0300,Beitar Jerusalem,2-0,1-0,Maccabi Netanya,,2024-09-15T17:15Z
+3,Mon Sep 16 2024,20:00,IDT/+0300,Hapoel Hadera,0-1,0-1,Maccabi Petach-Tikva,,2024-09-16T17:00Z
+1,Wed Sep 18 2024,17:30,IDT/+0300,Maccabi Tel Aviv,2-1,1-0,Hapoel Jerusalem,,2024-09-18T14:30Z
+4,Sat Sep 21 2024,19:30,IDT/+0300,Hapoel Jerusalem,0-1,0-1,Maccabi Bnei Raina,,2024-09-21T16:30Z
+4,Sat Sep 21 2024,19:30,IDT/+0300,Ironi Tiberias,1-0,0-0,Bnei Sachnin FC,,2024-09-21T16:30Z
+4,Sat Sep 21 2024,20:00,IDT/+0300,Maccabi Petach-Tikva,0-0,0-0,Hapoel Haifa,,2024-09-21T17:00Z
+4,Sat Sep 21 2024,20:00,IDT/+0300,Maccabi Netanya,2-0,1-0,Ironi Kiryat Shmona,,2024-09-21T17:00Z
+4,Sat Sep 21 2024,20:30,IDT/+0300,Hapoel Be'er Sheva,2-1,0-1,Hapoel Hadera,,2024-09-21T17:30Z
+4,Sun Sep 22 2024,20:15,IDT/+0300,FC Ashdod,0-2,0-2,Maccabi Tel Aviv,,2024-09-22T17:15Z
+4,Mon Sep 23 2024,20:30,IDT/+0300,Maccabi Haifa,,,Beitar Jerusalem,,2024-09-23T17:30Z
+5,Sat Sep 28 2024,19:30,IDT/+0300,Hapoel Hadera,,,FC Ashdod,,2024-09-28T16:30Z
+5,Sat Sep 28 2024,20:00,IDT/+0300,Maccabi Bnei Raina,,,Beitar Jerusalem,,2024-09-28T17:00Z
+5,Sat Sep 28 2024,20:00,IDT/+0300,Hapoel Jerusalem,,,Maccabi Petach-Tikva,,2024-09-28T17:00Z
+5,Sat Sep 28 2024,19:15,IDT/+0300,Ironi Kiryat Shmona,,,Maccabi Haifa,,2024-09-28T16:15Z
+5,Sun Sep 29 2024,20:30,IDT/+0300,Maccabi Tel Aviv,,,Ironi Tiberias,,2024-09-29T17:30Z
+5,Sun Sep 29 2024,20:00,IDT/+0300,Hapoel Haifa,,,Hapoel Be'er Sheva,,2024-09-29T17:00Z
+5,Mon Sep 30 2024,20:00,IDT/+0300,Bnei Sachnin FC,,,Maccabi Netanya,,2024-09-30T17:00Z
+6,Sat Oct 5 2024,19:30,IDT/+0300,Maccabi Haifa,,,Bnei Sachnin FC,,2024-10-05T16:30Z
+6,Sat Oct 5 2024,19:45,IDT/+0300,Maccabi Petach-Tikva,,,Maccabi Bnei Raina,,2024-10-05T16:45Z
+6,Sat Oct 5 2024,20:00,IDT/+0300,Ironi Tiberias,,,Hapoel Hadera,,2024-10-05T17:00Z
+6,Sat Oct 5 2024,20:00,IDT/+0300,Beitar Jerusalem,,,Ironi Kiryat Shmona,,2024-10-05T17:00Z
+6,Sat Oct 5 2024,19:00,IDT/+0300,FC Ashdod,,,Hapoel Haifa,,2024-10-05T16:00Z
+6,Sun Oct 6 2024,20:30,IDT/+0300,Maccabi Netanya,,,Maccabi Tel Aviv,,2024-10-06T17:30Z
+6,Sun Oct 6 2024,20:15,IDT/+0300,Hapoel Be'er Sheva,,,Hapoel Jerusalem,,2024-10-06T17:15Z
+7,Sat Oct 19 2024,,,Maccabi Bnei Raina,,,Ironi Kiryat Shmona,,
+7,Sat Oct 19 2024,,,Bnei Sachnin FC,,,Beitar Jerusalem,,
+7,Sat Oct 19 2024,,,Maccabi Tel Aviv,,,Maccabi Haifa,,
+7,Sat Oct 19 2024,,,Hapoel Hadera,,,Maccabi Netanya,,
+7,Sat Oct 19 2024,,,Hapoel Haifa,,,Ironi Tiberias,,
+7,Sat Oct 19 2024,,,Hapoel Jerusalem,,,FC Ashdod,,
+7,Sat Oct 19 2024,,,Maccabi Petach-Tikva,,,Hapoel Be'er Sheva,,
+8,Sat Oct 26 2024,,,FC Ashdod,,,Maccabi Petach-Tikva,,
+8,Sat Oct 26 2024,,,Ironi Tiberias,,,Hapoel Jerusalem,,
+8,Sat Oct 26 2024,,,Maccabi Netanya,,,Hapoel Haifa,,
+8,Sat Oct 26 2024,,,Maccabi Haifa,,,Hapoel Hadera,,
+8,Sat Oct 26 2024,,,Beitar Jerusalem,,,Maccabi Tel Aviv,,
+8,Sat Oct 26 2024,,,Ironi Kiryat Shmona,,,Bnei Sachnin FC,,
+8,Sat Oct 26 2024,,,Hapoel Be'er Sheva,,,Maccabi Bnei Raina,,
+9,Sat Nov 2 2024,,,Maccabi Bnei Raina,,,Bnei Sachnin FC,,
+9,Sat Nov 2 2024,,,Maccabi Tel Aviv,,,Ironi Kiryat Shmona,,
+9,Sat Nov 2 2024,,,Hapoel Hadera,,,Beitar Jerusalem,,
+9,Sat Nov 2 2024,,,Hapoel Haifa,,,Maccabi Haifa,,
+9,Sat Nov 2 2024,,,Hapoel Jerusalem,,,Maccabi Netanya,,
+9,Sat Nov 2 2024,,,Maccabi Petach-Tikva,,,Ironi Tiberias,,
+9,Sat Nov 2 2024,,,Hapoel Be'er Sheva,,,FC Ashdod,,
+10,Sat Nov 9 2024,,,Ironi Tiberias,,,Hapoel Be'er Sheva,,
+10,Sat Nov 9 2024,,,Maccabi Netanya,,,Maccabi Petach-Tikva,,
+10,Sat Nov 9 2024,,,Maccabi Haifa,,,Hapoel Jerusalem,,
+10,Sat Nov 9 2024,,,Beitar Jerusalem,,,Hapoel Haifa,,
+10,Sat Nov 9 2024,,,Ironi Kiryat Shmona,,,Hapoel Hadera,,
+10,Sat Nov 9 2024,,,Bnei Sachnin FC,,,Maccabi Tel Aviv,,
+10,Sat Nov 9 2024,,,FC Ashdod,,,Maccabi Bnei Raina,,
+11,Sat Nov 30 2024,,,Maccabi Bnei Raina,,,Maccabi Tel Aviv,,
+11,Sat Nov 30 2024,,,Hapoel Hadera,,,Bnei Sachnin FC,,
+11,Sat Nov 30 2024,,,Hapoel Haifa,,,Ironi Kiryat Shmona,,
+11,Sat Nov 30 2024,,,Hapoel Jerusalem,,,Beitar Jerusalem,,
+11,Sat Nov 30 2024,,,Maccabi Petach-Tikva,,,Maccabi Haifa,,
+11,Sat Nov 30 2024,,,Hapoel Be'er Sheva,,,Maccabi Netanya,,
+11,Sat Nov 30 2024,,,FC Ashdod,,,Ironi Tiberias,,
+12,Tue Dec 3 2024,,,Maccabi Netanya,,,FC Ashdod,,
+12,Tue Dec 3 2024,,,Maccabi Haifa,,,Hapoel Be'er Sheva,,
+12,Tue Dec 3 2024,,,Beitar Jerusalem,,,Maccabi Petach-Tikva,,
+12,Tue Dec 3 2024,,,Ironi Kiryat Shmona,,,Hapoel Jerusalem,,
+12,Tue Dec 3 2024,,,Bnei Sachnin FC,,,Hapoel Haifa,,
+12,Tue Dec 3 2024,,,Maccabi Tel Aviv,,,Hapoel Hadera,,
+12,Tue Dec 3 2024,,,Maccabi Bnei Raina,,,Ironi Tiberias,,
+13,Sat Dec 7 2024,,,Hapoel Hadera,,,Maccabi Bnei Raina,,
+13,Sat Dec 7 2024,,,Hapoel Haifa,,,Maccabi Tel Aviv,,
+13,Sat Dec 7 2024,,,Hapoel Jerusalem,,,Bnei Sachnin FC,,
+13,Sat Dec 7 2024,,,Maccabi Petach-Tikva,,,Ironi Kiryat Shmona,,
+13,Sat Dec 7 2024,,,Hapoel Be'er Sheva,,,Beitar Jerusalem,,
+13,Sat Dec 7 2024,,,FC Ashdod,,,Maccabi Haifa,,
+13,Sat Dec 7 2024,,,Ironi Tiberias,,,Maccabi Netanya,,
+14,Sat Dec 14 2024,,,Maccabi Netanya,,,Maccabi Bnei Raina,,
+14,Sat Dec 14 2024,,,Ironi Tiberias,,,Maccabi Haifa,,
+14,Sat Dec 14 2024,,,FC Ashdod,,,Beitar Jerusalem,,
+14,Sat Dec 14 2024,,,Hapoel Be'er Sheva,,,Ironi Kiryat Shmona,,
+14,Sat Dec 14 2024,,,Maccabi Petach-Tikva,,,Bnei Sachnin FC,,
+14,Sat Dec 14 2024,,,Hapoel Jerusalem,,,Maccabi Tel Aviv,,
+14,Sat Dec 14 2024,,,Hapoel Haifa,,,Hapoel Hadera,,
+15,Sat Dec 21 2024,,,Hapoel Hadera,,,Hapoel Jerusalem,,
+15,Sat Dec 21 2024,,,Maccabi Tel Aviv,,,Maccabi Petach-Tikva,,
+15,Sat Dec 21 2024,,,Bnei Sachnin FC,,,Hapoel Be'er Sheva,,
+15,Sat Dec 21 2024,,,Ironi Kiryat Shmona,,,FC Ashdod,,
+15,Sat Dec 21 2024,,,Beitar Jerusalem,,,Ironi Tiberias,,
+15,Sat Dec 21 2024,,,Maccabi Haifa,,,Maccabi Netanya,,
+15,Sat Dec 21 2024,,,Maccabi Bnei Raina,,,Hapoel Haifa,,
+16,Tue Dec 31 2024,,,Maccabi Haifa,,,Maccabi Bnei Raina,,
+16,Tue Dec 31 2024,,,Maccabi Netanya,,,Beitar Jerusalem,,
+16,Tue Dec 31 2024,,,Ironi Tiberias,,,Ironi Kiryat Shmona,,
+16,Tue Dec 31 2024,,,FC Ashdod,,,Bnei Sachnin FC,,
+16,Tue Dec 31 2024,,,Hapoel Be'er Sheva,,,Maccabi Tel Aviv,,
+16,Tue Dec 31 2024,,,Maccabi Petach-Tikva,,,Hapoel Hadera,,
+16,Tue Dec 31 2024,,,Hapoel Jerusalem,,,Hapoel Haifa,,
+17,Sat Jan 4 2025,,,Hapoel Haifa,,,Maccabi Petach-Tikva,,
+17,Sat Jan 4 2025,,,Hapoel Hadera,,,Hapoel Be'er Sheva,,
+17,Sat Jan 4 2025,,,Maccabi Tel Aviv,,,FC Ashdod,,
+17,Sat Jan 4 2025,,,Bnei Sachnin FC,,,Ironi Tiberias,,
+17,Sat Jan 4 2025,,,Ironi Kiryat Shmona,,,Maccabi Netanya,,
+17,Sat Jan 4 2025,,,Beitar Jerusalem,,,Maccabi Haifa,,
+17,Sat Jan 4 2025,,,Maccabi Bnei Raina,,,Hapoel Jerusalem,,
+18,Sat Jan 11 2025,,,Beitar Jerusalem,,,Maccabi Bnei Raina,,
+18,Sat Jan 11 2025,,,Maccabi Haifa,,,Ironi Kiryat Shmona,,
+18,Sat Jan 11 2025,,,Maccabi Netanya,,,Bnei Sachnin FC,,
+18,Sat Jan 11 2025,,,Ironi Tiberias,,,Maccabi Tel Aviv,,
+18,Sat Jan 11 2025,,,FC Ashdod,,,Hapoel Hadera,,
+18,Sat Jan 11 2025,,,Hapoel Be'er Sheva,,,Hapoel Haifa,,
+18,Sat Jan 11 2025,,,Maccabi Petach-Tikva,,,Hapoel Jerusalem,,
+19,Sat Jan 18 2025,,,Hapoel Jerusalem,,,Hapoel Be'er Sheva,,
+19,Sat Jan 18 2025,,,Hapoel Haifa,,,FC Ashdod,,
+19,Sat Jan 18 2025,,,Hapoel Hadera,,,Ironi Tiberias,,
+19,Sat Jan 18 2025,,,Maccabi Tel Aviv,,,Maccabi Netanya,,
+19,Sat Jan 18 2025,,,Bnei Sachnin FC,,,Maccabi Haifa,,
+19,Sat Jan 18 2025,,,Ironi Kiryat Shmona,,,Beitar Jerusalem,,
+19,Sat Jan 18 2025,,,Maccabi Bnei Raina,,,Maccabi Petach-Tikva,,
+20,Sat Jan 25 2025,,,Ironi Kiryat Shmona,,,Maccabi Bnei Raina,,
+20,Sat Jan 25 2025,,,Beitar Jerusalem,,,Bnei Sachnin FC,,
+20,Sat Jan 25 2025,,,Maccabi Haifa,,,Maccabi Tel Aviv,,
+20,Sat Jan 25 2025,,,Maccabi Netanya,,,Hapoel Hadera,,
+20,Sat Jan 25 2025,,,Ironi Tiberias,,,Hapoel Haifa,,
+20,Sat Jan 25 2025,,,FC Ashdod,,,Hapoel Jerusalem,,
+20,Sat Jan 25 2025,,,Hapoel Be'er Sheva,,,Maccabi Petach-Tikva,,
+21,Sat Feb 1 2025,,,Maccabi Bnei Raina,,,Hapoel Be'er Sheva,,
+21,Sat Feb 1 2025,,,Maccabi Petach-Tikva,,,FC Ashdod,,
+21,Sat Feb 1 2025,,,Hapoel Jerusalem,,,Ironi Tiberias,,
+21,Sat Feb 1 2025,,,Hapoel Haifa,,,Maccabi Netanya,,
+21,Sat Feb 1 2025,,,Hapoel Hadera,,,Maccabi Haifa,,
+21,Sat Feb 1 2025,,,Maccabi Tel Aviv,,,Beitar Jerusalem,,
+21,Sat Feb 1 2025,,,Bnei Sachnin FC,,,Ironi Kiryat Shmona,,
+22,Sat Feb 8 2025,,,Ironi Kiryat Shmona,,,Maccabi Tel Aviv,,
+22,Sat Feb 8 2025,,,Beitar Jerusalem,,,Hapoel Hadera,,
+22,Sat Feb 8 2025,,,Maccabi Haifa,,,Hapoel Haifa,,
+22,Sat Feb 8 2025,,,Maccabi Netanya,,,Hapoel Jerusalem,,
+22,Sat Feb 8 2025,,,Ironi Tiberias,,,Maccabi Petach-Tikva,,
+22,Sat Feb 8 2025,,,FC Ashdod,,,Hapoel Be'er Sheva,,
+22,Sat Feb 8 2025,,,Bnei Sachnin FC,,,Maccabi Bnei Raina,,
+23,Sat Feb 15 2025,,,Maccabi Bnei Raina,,,FC Ashdod,,
+23,Sat Feb 15 2025,,,Hapoel Be'er Sheva,,,Ironi Tiberias,,
+23,Sat Feb 15 2025,,,Maccabi Petach-Tikva,,,Maccabi Netanya,,
+23,Sat Feb 15 2025,,,Hapoel Jerusalem,,,Maccabi Haifa,,
+23,Sat Feb 15 2025,,,Hapoel Haifa,,,Beitar Jerusalem,,
+23,Sat Feb 15 2025,,,Hapoel Hadera,,,Ironi Kiryat Shmona,,
+23,Sat Feb 15 2025,,,Maccabi Tel Aviv,,,Bnei Sachnin FC,,
+24,Sat Feb 22 2025,,,Maccabi Tel Aviv,,,Maccabi Bnei Raina,,
+24,Sat Feb 22 2025,,,Bnei Sachnin FC,,,Hapoel Hadera,,
+24,Sat Feb 22 2025,,,Ironi Kiryat Shmona,,,Hapoel Haifa,,
+24,Sat Feb 22 2025,,,Beitar Jerusalem,,,Hapoel Jerusalem,,
+24,Sat Feb 22 2025,,,Maccabi Haifa,,,Maccabi Petach-Tikva,,
+24,Sat Feb 22 2025,,,Maccabi Netanya,,,Hapoel Be'er Sheva,,
+24,Sat Feb 22 2025,,,Ironi Tiberias,,,FC Ashdod,,
+25,Sat Mar 1 2025,,,FC Ashdod,,,Maccabi Netanya,,
+25,Sat Mar 1 2025,,,Hapoel Be'er Sheva,,,Maccabi Haifa,,
+25,Sat Mar 1 2025,,,Maccabi Petach-Tikva,,,Beitar Jerusalem,,
+25,Sat Mar 1 2025,,,Hapoel Jerusalem,,,Ironi Kiryat Shmona,,
+25,Sat Mar 1 2025,,,Hapoel Haifa,,,Bnei Sachnin FC,,
+25,Sat Mar 1 2025,,,Hapoel Hadera,,,Maccabi Tel Aviv,,
+25,Sat Mar 1 2025,,,Ironi Tiberias,,,Maccabi Bnei Raina,,
+26,Sat Mar 8 2025,,,Maccabi Bnei Raina,,,Hapoel Hadera,,
+26,Sat Mar 8 2025,,,Maccabi Tel Aviv,,,Hapoel Haifa,,
+26,Sat Mar 8 2025,,,Bnei Sachnin FC,,,Hapoel Jerusalem,,
+26,Sat Mar 8 2025,,,Ironi Kiryat Shmona,,,Maccabi Petach-Tikva,,
+26,Sat Mar 8 2025,,,Beitar Jerusalem,,,Hapoel Be'er Sheva,,
+26,Sat Mar 8 2025,,,Maccabi Haifa,,,FC Ashdod,,
+26,Sat Mar 8 2025,,,Maccabi Netanya,,,Ironi Tiberias,,

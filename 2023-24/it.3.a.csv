@@ -1,0 +1,383 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Sun Sep 3 2023,16:15,CEST/+0200,Aurora Pro Patria,1-2,0-1,Giana Erminio,2023-09-03T14:15Z
+,1,Sun Sep 3 2023,16:15,CEST/+0200,FC Legnago Salus,4-0,3-0,Arzignano Valchiampo,2023-09-03T14:15Z
+,1,Sun Sep 3 2023,16:15,CEST/+0200,Atalanta II,2-3,1-1,Virtus Verona,2023-09-03T14:15Z
+,1,Mon Sep 4 2023,20:45,CEST/+0200,Mantova 1911 SSD,1-1,1-0,Calcio Padova,2023-09-04T18:45Z
+,1,Mon Sep 4 2023,20:45,CEST/+0200,Pro Vercelli,4-1,2-1,FC Lumezzane,2023-09-04T18:45Z
+,1,Mon Sep 4 2023,20:45,CEST/+0200,L.R. Vicenza,0-0,0-0,UC AlbinoLeffe,2023-09-04T18:45Z
+,1,Mon Sep 4 2023,20:45,CEST/+0200,US Alessandria 1912,0-0,0-0,Novara Calcio,2023-09-04T18:45Z
+,1,Mon Sep 4 2023,20:45,CEST/+0200,US Fiorenzuola,0-1,0-0,AC Renate,2023-09-04T18:45Z
+,1,Mon Sep 4 2023,20:45,CEST/+0200,US Pergolettese,5-2,4-0,AC Pro Sesto,2023-09-04T18:45Z
+,1,Mon Sep 4 2023,20:45,CEST/+0200,US Triestina,0-1,0-0,Trento Calcio 1921,2023-09-04T18:45Z
+,2,Sun Sep 10 2023,16:15,CEST/+0200,FC Lumezzane,1-0,0-0,US Pergolettese,2023-09-10T14:15Z
+,2,Sun Sep 10 2023,16:15,CEST/+0200,Giana Erminio,1-5,0-3,L.R. Vicenza,2023-09-10T14:15Z
+,2,Sun Sep 10 2023,16:15,CEST/+0200,Virtus Verona,2-1,1-0,US Alessandria 1912,2023-09-10T14:15Z
+,2,Sun Sep 10 2023,18:30,CEST/+0200,AC Renate,1-1,0-0,Pro Vercelli,2023-09-10T16:30Z
+,2,Sun Sep 10 2023,18:30,CEST/+0200,Arzignano Valchiampo,0-2,0-1,Mantova 1911 SSD,2023-09-10T16:30Z
+,2,Sun Sep 10 2023,18:30,CEST/+0200,Novara Calcio,1-2,0-2,Aurora Pro Patria,2023-09-10T16:30Z
+,2,Sun Sep 10 2023,18:30,CEST/+0200,AC Pro Sesto,3-1,1-1,US Fiorenzuola,2023-09-10T16:30Z
+,2,Sun Sep 10 2023,18:30,CEST/+0200,Trento Calcio 1921,0-0,0-0,Atalanta II,2023-09-10T16:30Z
+,2,Sun Sep 10 2023,18:30,CEST/+0200,UC AlbinoLeffe,1-2,0-0,US Triestina,2023-09-10T16:30Z
+,2,Sun Sep 10 2023,20:45,CEST/+0200,Calcio Padova,2-0,1-0,FC Legnago Salus,2023-09-10T18:45Z
+,3,Fri Sep 15 2023,20:45,CEST/+0200,Atalanta II,3-2,2-1,Giana Erminio,2023-09-15T18:45Z
+,3,Sat Sep 16 2023,18:30,CEST/+0200,US Pergolettese,0-0,0-0,AC Renate,2023-09-16T16:30Z
+,3,Sat Sep 16 2023,20:45,CEST/+0200,US Triestina,2-0,1-0,Pro Vercelli,2023-09-16T18:45Z
+,3,Sat Sep 16 2023,18:30,CEST/+0200,Mantova 1911 SSD,2-0,0-0,AC Pro Sesto,2023-09-16T16:30Z
+,3,Sun Sep 17 2023,16:15,CEST/+0200,Aurora Pro Patria,1-1,0-0,Arzignano Valchiampo,2023-09-17T14:15Z
+,3,Sun Sep 17 2023,18:30,CEST/+0200,FC Legnago Salus,1-4,0-0,Virtus Verona,2023-09-17T16:30Z
+,3,Sun Sep 17 2023,18:30,CEST/+0200,L.R. Vicenza,1-0,0-0,FC Lumezzane,2023-09-17T16:30Z
+,3,Sun Sep 17 2023,18:30,CEST/+0200,Novara Calcio,0-3,0-1,Trento Calcio 1921,2023-09-17T16:30Z
+,3,Sun Sep 17 2023,18:30,CEST/+0200,US Alessandria 1912,1-2,1-1,Calcio Padova,2023-09-17T16:30Z
+,3,Sun Sep 17 2023,18:30,CEST/+0200,US Fiorenzuola,2-1,1-1,UC AlbinoLeffe,2023-09-17T16:30Z
+,4,Tue Sep 19 2023,18:30,CEST/+0200,US Pergolettese,2-1,1-0,US Triestina,2023-09-19T16:30Z
+,4,Wed Sep 20 2023,18:30,CEST/+0200,FC Lumezzane,2-0,1-0,US Fiorenzuola,2023-09-20T16:30Z
+,4,Wed Sep 20 2023,18:30,CEST/+0200,Arzignano Valchiampo,1-0,1-0,US Alessandria 1912,2023-09-20T16:30Z
+,4,Wed Sep 20 2023,18:30,CEST/+0200,Pro Vercelli,0-0,0-0,AC Pro Sesto,2023-09-20T16:30Z
+,4,Wed Sep 20 2023,18:30,CEST/+0200,Trento Calcio 1921,1-1,0-1,FC Legnago Salus,2023-09-20T16:30Z
+,4,Wed Sep 20 2023,18:30,CEST/+0200,UC AlbinoLeffe,3-1,2-0,Aurora Pro Patria,2023-09-20T16:30Z
+,4,Wed Sep 20 2023,20:45,CEST/+0200,AC Renate,1-0,1-0,Atalanta II,2023-09-20T18:45Z
+,4,Wed Sep 20 2023,20:45,CEST/+0200,Giana Erminio,0-2,0-0,Mantova 1911 SSD,2023-09-20T18:45Z
+,4,Wed Sep 20 2023,20:45,CEST/+0200,Calcio Padova,2-0,2-0,Novara Calcio,2023-09-20T18:45Z
+,4,Wed Sep 20 2023,20:45,CEST/+0200,Virtus Verona,1-1,0-0,L.R. Vicenza,2023-09-20T18:45Z
+,5,Sun Sep 24 2023,14:00,CEST/+0200,Aurora Pro Patria,0-3,0-3,US Triestina,2023-09-24T12:00Z
+,5,Sun Sep 24 2023,14:00,CEST/+0200,Novara Calcio,1-1,0-0,Giana Erminio,2023-09-24T12:00Z
+,5,Sun Sep 24 2023,14:00,CEST/+0200,US Alessandria 1912,0-3,0-1,FC Lumezzane,2023-09-24T12:00Z
+,5,Sun Sep 24 2023,14:00,CEST/+0200,US Fiorenzuola,2-1,2-1,Trento Calcio 1921,2023-09-24T12:00Z
+,5,Sun Sep 24 2023,16:15,CEST/+0200,L.R. Vicenza,1-0,0-0,US Pergolettese,2023-09-24T14:15Z
+,5,Sun Sep 24 2023,18:30,CEST/+0200,Mantova 1911 SSD,3-1,1-1,UC AlbinoLeffe,2023-09-24T16:30Z
+,5,Sun Sep 24 2023,18:30,CEST/+0200,Calcio Padova,2-0,0-0,Virtus Verona,2023-09-24T16:30Z
+,5,Sun Sep 24 2023,18:30,CEST/+0200,FC Legnago Salus,1-0,1-0,AC Renate,2023-09-24T16:30Z
+,5,Sun Sep 24 2023,18:30,CEST/+0200,AC Pro Sesto,0-1,0-0,Arzignano Valchiampo,2023-09-24T16:30Z
+,5,Sun Sep 24 2023,20:45,CEST/+0200,Atalanta II,2-0,2-0,Pro Vercelli,2023-09-24T18:45Z
+,6,Fri Sep 29 2023,20:45,CEST/+0200,US Pergolettese,0-1,0-1,Aurora Pro Patria,2023-09-29T18:45Z
+,6,Fri Sep 29 2023,20:45,CEST/+0200,US Triestina,4-1,2-0,Mantova 1911 SSD,2023-09-29T18:45Z
+,6,Fri Sep 29 2023,20:45,CEST/+0200,Virtus Verona,1-1,1-1,Novara Calcio,2023-09-29T18:45Z
+,6,Fri Sep 29 2023,20:45,CEST/+0200,US Alessandria 1912,0-2,0-1,AC Pro Sesto,2023-09-29T18:45Z
+,6,Sat Sep 30 2023,16:15,CEST/+0200,UC AlbinoLeffe,0-1,0-1,FC Legnago Salus,2023-09-30T14:15Z
+,6,Sat Sep 30 2023,18:30,CEST/+0200,Giana Erminio,0-1,0-0,Arzignano Valchiampo,2023-09-30T16:30Z
+,6,Sat Sep 30 2023,18:30,CEST/+0200,Pro Vercelli,4-1,4-0,US Fiorenzuola,2023-09-30T16:30Z
+,6,Sat Sep 30 2023,18:30,CEST/+0200,Trento Calcio 1921,0-3,0-2,Calcio Padova,2023-09-30T16:30Z
+,6,Sat Sep 30 2023,20:45,CEST/+0200,L.R. Vicenza,3-0,1-0,Atalanta II,2023-09-30T18:45Z
+,6,Sun Oct 1 2023,18:30,CEST/+0200,FC Lumezzane,2-3,1-1,AC Renate,2023-10-01T16:30Z
+,7,Fri Oct 6 2023,20:45,CEST/+0200,Mantova 1911 SSD,2-0,1-0,US Alessandria 1912,2023-10-06T18:45Z
+,7,Sat Oct 7 2023,16:15,CEST/+0200,AC Renate,1-1,1-0,US Triestina,2023-10-07T14:15Z
+,7,Sat Oct 7 2023,16:15,CEST/+0200,FC Legnago Salus,1-2,0-1,Giana Erminio,2023-10-07T14:15Z
+,7,Sat Oct 7 2023,16:15,CEST/+0200,AC Pro Sesto,0-0,0-0,Novara Calcio,2023-10-07T14:15Z
+,7,Sat Oct 7 2023,18:30,CEST/+0200,Arzignano Valchiampo,0-1,0-0,Virtus Verona,2023-10-07T16:30Z
+,7,Sat Oct 7 2023,18:30,CEST/+0200,Atalanta II,1-1,0-0,UC AlbinoLeffe,2023-10-07T16:30Z
+,7,Sat Oct 7 2023,18:30,CEST/+0200,Calcio Padova,1-1,0-0,Aurora Pro Patria,2023-10-07T16:30Z
+,7,Sat Oct 7 2023,18:30,CEST/+0200,Trento Calcio 1921,0-0,0-0,FC Lumezzane,2023-10-07T16:30Z
+,7,Sun Oct 8 2023,20:45,CEST/+0200,US Fiorenzuola,0-2,0-2,US Pergolettese,2023-10-08T18:45Z
+,7,Mon Oct 9 2023,20:30,CEST/+0200,Pro Vercelli,1-0,1-0,L.R. Vicenza,2023-10-09T18:30Z
+,8,Fri Oct 13 2023,20:45,CEST/+0200,Novara Calcio,0-1,0-1,Arzignano Valchiampo,2023-10-13T18:45Z
+,8,Fri Oct 13 2023,20:45,CEST/+0200,UC AlbinoLeffe,1-0,0-0,Virtus Verona,2023-10-13T18:45Z
+,8,Fri Oct 13 2023,20:45,CEST/+0200,US Fiorenzuola,0-4,0-2,FC Legnago Salus,2023-10-13T18:45Z
+,8,Sat Oct 14 2023,14:00,CEST/+0200,US Pergolettese,2-0,1-0,Trento Calcio 1921,2023-10-14T12:00Z
+,8,Sat Oct 14 2023,14:00,CEST/+0200,US Triestina,2-1,0-0,FC Lumezzane,2023-10-14T12:00Z
+,8,Sat Oct 14 2023,16:15,CEST/+0200,AC Pro Sesto,1-1,0-1,Calcio Padova,2023-10-14T14:15Z
+,8,Sat Oct 14 2023,14:00,CEST/+0200,Aurora Pro Patria,0-0,0-0,Mantova 1911 SSD,2023-10-14T12:00Z
+,8,Sun Oct 15 2023,16:15,CEST/+0200,L.R. Vicenza,1-2,0-0,AC Renate,2023-10-15T14:15Z
+,8,Sun Oct 15 2023,14:00,CEST/+0200,Giana Erminio,2-3,1-1,Pro Vercelli,2023-10-15T12:00Z
+,9,Fri Oct 20 2023,20:45,CEST/+0200,Virtus Verona,1-0,0-0,US Fiorenzuola,2023-10-20T18:45Z
+,9,Fri Oct 20 2023,20:45,CEST/+0200,Atalanta II,1-0,0-0,FC Legnago Salus,2023-10-20T18:45Z
+,9,Fri Oct 20 2023,20:45,CEST/+0200,Trento Calcio 1921,3-1,0-0,AC Pro Sesto,2023-10-20T18:45Z
+,9,Fri Oct 20 2023,20:45,CEST/+0200,US Triestina,0-0,0-0,L.R. Vicenza,2023-10-20T18:45Z
+,9,Sat Oct 21 2023,16:15,CEST/+0200,FC Lumezzane,1-3,0-2,Giana Erminio,2023-10-21T14:15Z
+,9,Sat Oct 21 2023,16:15,CEST/+0200,AC Renate,1-2,1-0,Aurora Pro Patria,2023-10-21T14:15Z
+,9,Sat Oct 21 2023,16:15,CEST/+0200,Pro Vercelli,1-0,0-0,US Pergolettese,2023-10-21T14:15Z
+,9,Sat Oct 21 2023,18:30,CEST/+0200,Mantova 1911 SSD,2-1,0-0,Novara Calcio,2023-10-21T16:30Z
+,9,Sat Oct 21 2023,20:45,CEST/+0200,Arzignano Valchiampo,1-2,0-0,Calcio Padova,2023-10-21T18:45Z
+,9,Sat Oct 21 2023,20:45,CEST/+0200,UC AlbinoLeffe,0-0,0-0,US Alessandria 1912,2023-10-21T18:45Z
+,10,Tue Oct 24 2023,20:45,CEST/+0200,US Fiorenzuola,3-1,1-0,L.R. Vicenza,2023-10-24T18:45Z
+,10,Tue Oct 24 2023,18:30,CEST/+0200,Arzignano Valchiampo,2-0,1-0,FC Lumezzane,2023-10-24T16:30Z
+,10,Tue Oct 24 2023,18:30,CEST/+0200,Giana Erminio,0-0,0-0,UC AlbinoLeffe,2023-10-24T16:30Z
+,10,Tue Oct 24 2023,18:30,CEST/+0200,Aurora Pro Patria,0-2,0-1,Trento Calcio 1921,2023-10-24T16:30Z
+,10,Tue Oct 24 2023,18:30,CEST/+0200,FC Legnago Salus,1-3,0-2,US Triestina,2023-10-24T16:30Z
+,10,Tue Oct 24 2023,18:30,CEST/+0200,AC Pro Sesto,0-1,0-1,Virtus Verona,2023-10-24T16:30Z
+,10,Tue Oct 24 2023,18:30,CEST/+0200,US Alessandria 1912,3-0,1-0,US Pergolettese,2023-10-24T16:30Z
+,10,Tue Oct 24 2023,20:30,CEST/+0200,Novara Calcio,2-3,1-0,Atalanta II,2023-10-24T18:30Z
+,10,Tue Oct 24 2023,20:45,CEST/+0200,Mantova 1911 SSD,1-0,0-0,Pro Vercelli,2023-10-24T18:45Z
+,10,Tue Oct 24 2023,20:45,CEST/+0200,Calcio Padova,0-0,0-0,AC Renate,2023-10-24T18:45Z
+,11,Sat Oct 28 2023,18:30,CEST/+0200,Giana Erminio,1-1,0-1,AC Pro Sesto,2023-10-28T16:30Z
+,11,Sat Oct 28 2023,16:15,CEST/+0200,Pro Vercelli,2-1,1-1,Aurora Pro Patria,2023-10-28T14:15Z
+,11,Sat Oct 28 2023,16:15,CEST/+0200,UC AlbinoLeffe,1-0,1-0,Arzignano Valchiampo,2023-10-28T14:15Z
+,11,Sat Oct 28 2023,16:15,CEST/+0200,Virtus Verona,0-2,0-0,Mantova 1911 SSD,2023-10-28T14:15Z
+,11,Sat Oct 28 2023,18:30,CEST/+0200,AC Renate,2-2,2-0,Novara Calcio,2023-10-28T16:30Z
+,11,Sat Oct 28 2023,20:45,CEST/+0200,FC Lumezzane,1-2,1-0,Atalanta II,2023-10-28T18:45Z
+,11,Sat Oct 28 2023,18:30,CEST/+0200,Trento Calcio 1921,1-1,1-0,US Alessandria 1912,2023-10-28T16:30Z
+,11,Sat Oct 28 2023,18:30,CEST/+0200,US Pergolettese,3-2,1-0,FC Legnago Salus,2023-10-28T16:30Z
+,11,Sat Oct 28 2023,18:30,CEST/+0200,US Triestina,2-1,0-0,US Fiorenzuola,2023-10-28T16:30Z
+,11,Sun Oct 29 2023,14:00,CET/+0100,L.R. Vicenza,1-1,1-0,Calcio Padova,2023-10-29T13:00Z
+,8,Tue Oct 31 2023,20:45,CET/+0100,US Alessandria 1912,2-0,1-0,Atalanta II,2023-10-31T19:45Z
+,12,Fri Nov 3 2023,20:45,CET/+0100,Aurora Pro Patria,0-2,0-2,FC Lumezzane,2023-11-03T19:45Z
+,12,Fri Nov 3 2023,20:45,CET/+0100,AC Pro Sesto,1-1,1-1,AC Renate,2023-11-03T19:45Z
+,12,Fri Nov 3 2023,20:45,CET/+0100,Virtus Verona,4-0,3-0,Trento Calcio 1921,2023-11-03T19:45Z
+,12,Fri Nov 3 2023,20:45,CET/+0100,Arzignano Valchiampo,0-1,0-0,L.R. Vicenza,2023-11-03T19:45Z
+,12,Sat Nov 4 2023,16:15,CET/+0100,FC Legnago Salus,1-1,0-1,Pro Vercelli,2023-11-04T15:15Z
+,12,Sat Nov 4 2023,16:15,CET/+0100,US Alessandria 1912,0-3,0-2,US Triestina,2023-11-04T15:15Z
+,12,Sat Nov 4 2023,18:30,CET/+0100,Calcio Padova,3-1,1-0,Giana Erminio,2023-11-04T17:30Z
+,12,Sat Nov 4 2023,18:30,CET/+0100,Novara Calcio,0-3,0-2,UC AlbinoLeffe,2023-11-04T17:30Z
+,12,Sun Nov 5 2023,20:45,CET/+0100,Atalanta II,1-0,0-0,US Fiorenzuola,2023-11-05T19:45Z
+,12,Sun Nov 5 2023,16:15,CET/+0100,Mantova 1911 SSD,4-1,2-1,US Pergolettese,2023-11-05T15:15Z
+,13,Sat Nov 11 2023,16:15,CET/+0100,FC Lumezzane,0-0,0-0,FC Legnago Salus,2023-11-11T15:15Z
+,13,Sat Nov 11 2023,16:15,CET/+0100,US Fiorenzuola,2-3,1-3,Mantova 1911 SSD,2023-11-11T15:15Z
+,13,Sat Nov 11 2023,16:15,CET/+0100,US Triestina,0-0,0-0,AC Pro Sesto,2023-11-11T15:15Z
+,13,Sat Nov 11 2023,18:30,CET/+0100,Giana Erminio,4-0,3-0,Virtus Verona,2023-11-11T17:30Z
+,13,Sat Nov 11 2023,18:30,CET/+0100,L.R. Vicenza,3-1,2-0,Aurora Pro Patria,2023-11-11T17:30Z
+,13,Sat Nov 11 2023,18:30,CET/+0100,Trento Calcio 1921,1-0,1-0,Arzignano Valchiampo,2023-11-11T17:30Z
+,13,Sat Nov 11 2023,18:30,CET/+0100,US Pergolettese,0-3,0-1,Atalanta II,2023-11-11T17:30Z
+,13,Sat Nov 11 2023,20:45,CET/+0100,UC AlbinoLeffe,0-1,0-1,Calcio Padova,2023-11-11T19:45Z
+,13,Sun Nov 12 2023,20:45,CET/+0100,AC Renate,0-2,0-2,US Alessandria 1912,2023-11-12T19:45Z
+,13,Mon Nov 13 2023,20:45,CET/+0100,Pro Vercelli,3-3,2-1,Novara Calcio,2023-11-13T19:45Z
+,14,Sat Nov 18 2023,14:00,CET/+0100,Arzignano Valchiampo,1-1,1-0,AC Renate,2023-11-18T13:00Z
+,14,Sat Nov 18 2023,14:00,CET/+0100,Aurora Pro Patria,1-1,0-1,US Fiorenzuola,2023-11-18T13:00Z
+,14,Sat Nov 18 2023,14:00,CET/+0100,FC Legnago Salus,1-0,0-0,L.R. Vicenza,2023-11-18T13:00Z
+,14,Sat Nov 18 2023,14:00,CET/+0100,US Alessandria 1912,1-2,1-0,Giana Erminio,2023-11-18T13:00Z
+,14,Sat Nov 18 2023,14:00,CET/+0100,Virtus Verona,0-2,0-1,FC Lumezzane,2023-11-18T13:00Z
+,14,Sat Nov 18 2023,16:15,CET/+0100,AC Pro Sesto,2-0,2-0,UC AlbinoLeffe,2023-11-18T15:15Z
+,14,Sun Nov 19 2023,14:00,CET/+0100,Calcio Padova,3-2,2-1,Pro Vercelli,2023-11-19T13:00Z
+,14,Sun Nov 19 2023,14:00,CET/+0100,Novara Calcio,2-1,0-1,US Pergolettese,2023-11-19T13:00Z
+,14,Sun Nov 19 2023,14:00,CET/+0100,Mantova 1911 SSD,0-1,0-0,Trento Calcio 1921,2023-11-19T13:00Z
+,15,Fri Nov 24 2023,20:45,CET/+0100,Atalanta II,0-2,0-1,Mantova 1911 SSD,2023-11-24T19:45Z
+,15,Fri Nov 24 2023,20:45,CET/+0100,Trento Calcio 1921,1-2,0-1,UC AlbinoLeffe,2023-11-24T19:45Z
+,15,Sat Nov 25 2023,20:45,CET/+0100,L.R. Vicenza,2-0,1-0,AC Pro Sesto,2023-11-25T19:45Z
+,15,Sat Nov 25 2023,18:30,CET/+0100,AC Renate,1-1,1-0,Virtus Verona,2023-11-25T17:30Z
+,15,Sat Nov 25 2023,18:30,CET/+0100,Pro Vercelli,2-0,1-0,US Alessandria 1912,2023-11-25T17:30Z
+,15,Sat Nov 25 2023,18:30,CET/+0100,US Triestina,4-1,2-1,Arzignano Valchiampo,2023-11-25T17:30Z
+,15,Sat Nov 25 2023,20:45,CET/+0100,FC Legnago Salus,1-1,0-0,Aurora Pro Patria,2023-11-25T19:45Z
+,15,Sun Nov 26 2023,14:00,CET/+0100,FC Lumezzane,1-1,0-0,Novara Calcio,2023-11-26T13:00Z
+,15,Sun Nov 26 2023,14:00,CET/+0100,US Fiorenzuola,1-2,0-1,Giana Erminio,2023-11-26T13:00Z
+,15,Mon Nov 27 2023,20:45,CET/+0100,US Pergolettese,1-1,0-0,Calcio Padova,2023-11-27T19:45Z
+,16,Sat Dec 2 2023,18:30,CET/+0100,Aurora Pro Patria,1-0,0-0,Atalanta II,2023-12-02T17:30Z
+,16,Sat Dec 2 2023,18:30,CET/+0100,Virtus Verona,0-2,0-0,US Triestina,2023-12-02T17:30Z
+,16,Sun Dec 3 2023,18:30,CET/+0100,Calcio Padova,1-1,1-1,FC Lumezzane,2023-12-03T17:30Z
+,16,Sun Dec 3 2023,14:00,CET/+0100,Novara Calcio,2-2,1-0,L.R. Vicenza,2023-12-03T13:00Z
+,16,Sun Dec 3 2023,16:15,CET/+0100,US Alessandria 1912,0-1,0-1,US Fiorenzuola,2023-12-03T15:15Z
+,16,Sun Dec 3 2023,18:30,CET/+0100,Mantova 1911 SSD,4-1,1-1,AC Renate,2023-12-03T17:30Z
+,16,Sun Dec 3 2023,18:30,CET/+0100,Arzignano Valchiampo,2-0,1-0,US Pergolettese,2023-12-03T17:30Z
+,16,Sun Dec 3 2023,18:30,CET/+0100,Giana Erminio,2-1,1-1,Trento Calcio 1921,2023-12-03T17:30Z
+,16,Sun Dec 3 2023,18:30,CET/+0100,UC AlbinoLeffe,0-1,0-0,Pro Vercelli,2023-12-03T17:30Z
+,16,Sun Dec 3 2023,20:45,CET/+0100,AC Pro Sesto,0-1,0-1,FC Legnago Salus,2023-12-03T19:45Z
+,14,Tue Dec 5 2023,16:15,CET/+0100,Atalanta II,2-1,2-0,US Triestina,2023-12-05T15:15Z
+,17,Fri Dec 8 2023,14:00,CET/+0100,AC Renate,0-2,0-1,UC AlbinoLeffe,2023-12-08T13:00Z
+,17,Fri Dec 8 2023,14:00,CET/+0100,Aurora Pro Patria,1-1,1-0,US Alessandria 1912,2023-12-08T13:00Z
+,17,Fri Dec 8 2023,14:00,CET/+0100,FC Legnago Salus,1-1,0-1,Novara Calcio,2023-12-08T13:00Z
+,17,Fri Dec 8 2023,14:00,CET/+0100,Pro Vercelli,2-0,0-0,Trento Calcio 1921,2023-12-08T13:00Z
+,17,Fri Dec 8 2023,17:00,CET/+0100,L.R. Vicenza,0-2,0-2,Mantova 1911 SSD,2023-12-08T16:00Z
+,17,Fri Dec 8 2023,17:00,CET/+0100,US Fiorenzuola,0-0,0-0,Arzignano Valchiampo,2023-12-08T16:00Z
+,17,Fri Dec 8 2023,17:00,CET/+0100,US Pergolettese,2-1,0-0,Virtus Verona,2023-12-08T16:00Z
+,17,Fri Dec 8 2023,14:00,CET/+0100,FC Lumezzane,1-0,1-0,AC Pro Sesto,2023-12-08T13:00Z
+,17,Sat Dec 9 2023,16:15,CET/+0100,Atalanta II,0-1,0-1,Calcio Padova,2023-12-09T15:15Z
+,17,Sat Dec 9 2023,18:30,CET/+0100,US Triestina,2-1,0-0,Giana Erminio,2023-12-09T17:30Z
+,18,Sat Dec 16 2023,18:30,CET/+0100,Giana Erminio,2-1,1-0,AC Renate,2023-12-16T17:30Z
+,18,Sat Dec 16 2023,18:30,CET/+0100,AC Pro Sesto,0-1,0-0,Atalanta II,2023-12-16T17:30Z
+,18,Sat Dec 16 2023,18:30,CET/+0100,UC AlbinoLeffe,1-0,1-0,US Pergolettese,2023-12-16T17:30Z
+,18,Sat Dec 16 2023,18:30,CET/+0100,Mantova 1911 SSD,1-0,0-0,FC Lumezzane,2023-12-16T17:30Z
+,18,Sun Dec 17 2023,14:00,CET/+0100,Novara Calcio,2-3,1-1,US Triestina,2023-12-17T13:00Z
+,18,Sun Dec 17 2023,14:00,CET/+0100,Trento Calcio 1921,4-1,3-1,L.R. Vicenza,2023-12-17T13:00Z
+,18,Sun Dec 17 2023,16:15,CET/+0100,US Alessandria 1912,0-0,0-0,FC Legnago Salus,2023-12-17T15:15Z
+,18,Sun Dec 17 2023,18:30,CET/+0100,Arzignano Valchiampo,3-1,2-1,Pro Vercelli,2023-12-17T17:30Z
+,18,Sun Dec 17 2023,20:45,CET/+0100,Calcio Padova,3-0,2-0,US Fiorenzuola,2023-12-17T19:45Z
+,18,Sun Dec 17 2023,20:45,CET/+0100,Virtus Verona,2-0,0-0,Aurora Pro Patria,2023-12-17T19:45Z
+,19,Fri Dec 22 2023,16:15,CET/+0100,Pro Vercelli,0-0,0-0,Virtus Verona,2023-12-22T15:15Z
+,19,Fri Dec 22 2023,18:30,CET/+0100,Atalanta II,0-0,0-0,Arzignano Valchiampo,2023-12-22T17:30Z
+,19,Fri Dec 22 2023,18:30,CET/+0100,FC Legnago Salus,1-2,0-1,Mantova 1911 SSD,2023-12-22T17:30Z
+,19,Fri Dec 22 2023,18:30,CET/+0100,US Fiorenzuola,1-2,0-1,Novara Calcio,2023-12-22T17:30Z
+,19,Fri Dec 22 2023,20:45,CET/+0100,L.R. Vicenza,1-0,0-0,US Alessandria 1912,2023-12-22T19:45Z
+,19,Fri Dec 22 2023,20:45,CET/+0100,US Triestina,0-1,0-0,Calcio Padova,2023-12-22T19:45Z
+,19,Sat Dec 23 2023,14:00,CET/+0100,Aurora Pro Patria,0-0,0-0,AC Pro Sesto,2023-12-23T13:00Z
+,19,Sat Dec 23 2023,18:30,CET/+0100,AC Renate,1-0,1-0,Trento Calcio 1921,2023-12-23T17:30Z
+,19,Sat Dec 23 2023,18:30,CET/+0100,US Pergolettese,0-1,0-1,Giana Erminio,2023-12-23T17:30Z
+,19,Sat Dec 23 2023,14:00,CET/+0100,FC Lumezzane,3-1,1-0,UC AlbinoLeffe,2023-12-23T13:00Z
+,20,Sat Jan 6 2024,14:00,CET/+0100,Giana Erminio,1-2,0-1,Aurora Pro Patria,2024-01-06T13:00Z
+,20,Sat Jan 6 2024,14:00,CET/+0100,Novara Calcio,1-0,0-0,US Alessandria 1912,2024-01-06T13:00Z
+,20,Sat Jan 6 2024,14:00,CET/+0100,UC AlbinoLeffe,0-0,0-0,L.R. Vicenza,2024-01-06T13:00Z
+,20,Sat Jan 6 2024,14:00,CET/+0100,Virtus Verona,0-1,0-0,Atalanta II,2024-01-06T13:00Z
+,20,Sun Jan 7 2024,14:00,CET/+0100,Arzignano Valchiampo,1-1,1-0,FC Legnago Salus,2024-01-07T13:00Z
+,20,Sun Jan 7 2024,14:00,CET/+0100,Trento Calcio 1921,0-1,0-0,US Triestina,2024-01-07T13:00Z
+,20,Sun Jan 7 2024,16:15,CET/+0100,AC Pro Sesto,0-2,0-1,US Pergolettese,2024-01-07T15:15Z
+,20,Sun Jan 7 2024,14:00,CET/+0100,AC Renate,3-1,1-1,US Fiorenzuola,2024-01-07T13:00Z
+,20,Mon Jan 8 2024,20:45,CET/+0100,FC Lumezzane,0-3,0-2,Pro Vercelli,2024-01-08T19:45Z
+,20,Mon Jan 8 2024,20:30,CET/+0100,Calcio Padova,0-5,0-1,Mantova 1911 SSD,2024-01-08T19:30Z
+,21,Sat Jan 13 2024,16:15,CET/+0100,Pro Vercelli,0-1,0-0,AC Renate,2024-01-13T15:15Z
+,21,Sat Jan 13 2024,18:30,CET/+0100,Atalanta II,1-0,0-0,Trento Calcio 1921,2024-01-13T17:30Z
+,21,Sat Jan 13 2024,18:30,CET/+0100,Aurora Pro Patria,3-0,1-0,Novara Calcio,2024-01-13T17:30Z
+,21,Sat Jan 13 2024,18:30,CET/+0100,US Fiorenzuola,0-0,0-0,AC Pro Sesto,2024-01-13T17:30Z
+,21,Sat Jan 13 2024,18:30,CET/+0100,US Triestina,2-3,2-1,UC AlbinoLeffe,2024-01-13T17:30Z
+,21,Sun Jan 14 2024,18:30,CET/+0100,Mantova 1911 SSD,1-1,1-0,Arzignano Valchiampo,2024-01-14T17:30Z
+,21,Sun Jan 14 2024,18:30,CET/+0100,FC Legnago Salus,0-0,0-0,Calcio Padova,2024-01-14T17:30Z
+,21,Sun Jan 14 2024,18:30,CET/+0100,L.R. Vicenza,3-1,2-1,Giana Erminio,2024-01-14T17:30Z
+,21,Sun Jan 14 2024,18:30,CET/+0100,US Pergolettese,0-1,0-0,FC Lumezzane,2024-01-14T17:30Z
+,21,Sun Jan 14 2024,14:00,CET/+0100,US Alessandria 1912,0-1,0-0,Virtus Verona,2024-01-14T13:00Z
+,22,Sat Jan 20 2024,16:15,CET/+0100,FC Lumezzane,2-1,2-1,L.R. Vicenza,2024-01-20T15:15Z
+,22,Sat Jan 20 2024,18:30,CET/+0100,AC Renate,1-5,1-2,US Pergolettese,2024-01-20T17:30Z
+,22,Sat Jan 20 2024,18:30,CET/+0100,Giana Erminio,0-0,0-0,Atalanta II,2024-01-20T17:30Z
+,22,Sat Jan 20 2024,18:30,CET/+0100,Calcio Padova,1-0,1-0,US Alessandria 1912,2024-01-20T17:30Z
+,22,Sat Jan 20 2024,18:30,CET/+0100,Pro Vercelli,1-2,1-1,US Triestina,2024-01-20T17:30Z
+,22,Sun Jan 21 2024,14:00,CET/+0100,Arzignano Valchiampo,0-1,0-0,Aurora Pro Patria,2024-01-21T13:00Z
+,22,Sun Jan 21 2024,14:00,CET/+0100,Trento Calcio 1921,1-1,0-1,Novara Calcio,2024-01-21T13:00Z
+,22,Sun Jan 21 2024,18:30,CET/+0100,AC Pro Sesto,0-2,0-0,Mantova 1911 SSD,2024-01-21T17:30Z
+,22,Sun Jan 21 2024,18:30,CET/+0100,UC AlbinoLeffe,1-2,0-1,US Fiorenzuola,2024-01-21T17:30Z
+,22,Sun Jan 21 2024,18:30,CET/+0100,Virtus Verona,1-1,1-1,FC Legnago Salus,2024-01-21T17:30Z
+,23,Fri Jan 26 2024,20:45,CET/+0100,Mantova 1911 SSD,2-0,1-0,Giana Erminio,2024-01-26T19:45Z
+,23,Sat Jan 27 2024,16:15,CET/+0100,US Alessandria 1912,0-0,0-0,Arzignano Valchiampo,2024-01-27T15:15Z
+,23,Sat Jan 27 2024,18:30,CET/+0100,US Fiorenzuola,1-1,1-1,FC Lumezzane,2024-01-27T17:30Z
+,23,Sat Jan 27 2024,16:15,CET/+0100,Aurora Pro Patria,0-0,0-0,UC AlbinoLeffe,2024-01-27T15:15Z
+,23,Sun Jan 28 2024,14:00,CET/+0100,FC Legnago Salus,0-0,0-0,Trento Calcio 1921,2024-01-28T13:00Z
+,23,Sun Jan 28 2024,14:00,CET/+0100,Novara Calcio,0-3,0-2,Calcio Padova,2024-01-28T13:00Z
+,23,Sun Jan 28 2024,14:00,CET/+0100,US Triestina,1-1,0-0,US Pergolettese,2024-01-28T13:00Z
+,23,Sun Jan 28 2024,18:30,CET/+0100,L.R. Vicenza,0-0,0-0,Virtus Verona,2024-01-28T17:30Z
+,23,Sun Jan 28 2024,18:30,CET/+0100,AC Pro Sesto,0-0,0-0,Pro Vercelli,2024-01-28T17:30Z
+,24,Sat Feb 3 2024,18:30,CET/+0100,US Pergolettese,0-2,0-1,L.R. Vicenza,2024-02-03T17:30Z
+,24,Sat Feb 3 2024,18:30,CET/+0100,AC Renate,0-1,0-0,FC Legnago Salus,2024-02-03T17:30Z
+,24,Sat Feb 3 2024,18:30,CET/+0100,Arzignano Valchiampo,1-1,0-0,AC Pro Sesto,2024-02-03T17:30Z
+,24,Sat Feb 3 2024,18:30,CET/+0100,Giana Erminio,0-1,0-1,Novara Calcio,2024-02-03T17:30Z
+,24,Sun Feb 4 2024,14:00,CET/+0100,Pro Vercelli,1-1,0-0,Atalanta II,2024-02-04T13:00Z
+,24,Sun Feb 4 2024,14:00,CET/+0100,US Triestina,1-2,0-1,Aurora Pro Patria,2024-02-04T13:00Z
+,24,Sun Feb 4 2024,16:15,CET/+0100,FC Lumezzane,2-1,2-0,US Alessandria 1912,2024-02-04T15:15Z
+,24,Sun Feb 4 2024,18:30,CET/+0100,UC AlbinoLeffe,2-1,0-0,Mantova 1911 SSD,2024-02-04T17:30Z
+,24,Sun Feb 4 2024,20:45,CET/+0100,Virtus Verona,1-1,0-0,Calcio Padova,2024-02-04T19:45Z
+,24,Mon Feb 5 2024,20:30,CET/+0100,Trento Calcio 1921,0-2,0-0,US Fiorenzuola,2024-02-05T19:30Z
+,25,Fri Feb 9 2024,20:45,CET/+0100,Mantova 1911 SSD,2-1,2-0,US Triestina,2024-02-09T19:45Z
+,25,Sat Feb 10 2024,20:45,CET/+0100,FC Legnago Salus,2-1,2-0,UC AlbinoLeffe,2024-02-10T19:45Z
+,25,Sat Feb 10 2024,16:15,CET/+0100,Aurora Pro Patria,2-0,0-0,US Pergolettese,2024-02-10T15:15Z
+,25,Sat Feb 10 2024,18:30,CET/+0100,Arzignano Valchiampo,3-0,1-0,Giana Erminio,2024-02-10T17:30Z
+,25,Sat Feb 10 2024,18:30,CET/+0100,Atalanta II,1-2,0-1,L.R. Vicenza,2024-02-10T17:30Z
+,25,Sat Feb 10 2024,18:30,CET/+0100,Calcio Padova,1-1,1-0,Trento Calcio 1921,2024-02-10T17:30Z
+,25,Sat Feb 10 2024,18:30,CET/+0100,Novara Calcio,1-0,0-0,Virtus Verona,2024-02-10T17:30Z
+,25,Sat Feb 10 2024,18:30,CET/+0100,US Fiorenzuola,3-3,1-1,Pro Vercelli,2024-02-10T17:30Z
+,25,Sat Feb 10 2024,20:45,CET/+0100,AC Renate,0-1,0-0,FC Lumezzane,2024-02-10T19:45Z
+,26,Tue Feb 13 2024,20:45,CET/+0100,US Alessandria 1912,0-1,0-1,Mantova 1911 SSD,2024-02-13T19:45Z
+,26,Tue Feb 13 2024,20:45,CET/+0100,US Triestina,1-3,1-1,AC Renate,2024-02-13T19:45Z
+,26,Tue Feb 13 2024,18:30,CET/+0100,FC Lumezzane,0-2,0-0,Trento Calcio 1921,2024-02-13T17:30Z
+,26,Tue Feb 13 2024,18:30,CET/+0100,Giana Erminio,1-2,0-2,FC Legnago Salus,2024-02-13T17:30Z
+,26,Tue Feb 13 2024,18:30,CET/+0100,Aurora Pro Patria,0-2,0-1,Calcio Padova,2024-02-13T17:30Z
+,26,Tue Feb 13 2024,18:30,CET/+0100,Novara Calcio,1-0,0-0,AC Pro Sesto,2024-02-13T17:30Z
+,26,Tue Feb 13 2024,18:30,CET/+0100,UC AlbinoLeffe,0-1,0-0,Atalanta II,2024-02-13T17:30Z
+,26,Tue Feb 13 2024,18:30,CET/+0100,Virtus Verona,1-0,1-0,Arzignano Valchiampo,2024-02-13T17:30Z
+,26,Tue Feb 13 2024,20:30,CET/+0100,L.R. Vicenza,2-0,2-0,Pro Vercelli,2024-02-13T19:30Z
+,26,Wed Feb 14 2024,18:30,CET/+0100,US Pergolettese,1-2,1-2,US Fiorenzuola,2024-02-14T17:30Z
+,27,Sat Feb 17 2024,18:30,CET/+0100,Calcio Padova,1-0,0-0,AC Pro Sesto,2024-02-17T17:30Z
+,27,Sat Feb 17 2024,16:15,CET/+0100,AC Renate,0-2,0-1,L.R. Vicenza,2024-02-17T15:15Z
+,27,Sat Feb 17 2024,16:15,CET/+0100,Arzignano Valchiampo,0-0,0-0,Novara Calcio,2024-02-17T15:15Z
+,27,Sat Feb 17 2024,16:15,CET/+0100,Virtus Verona,1-1,0-0,UC AlbinoLeffe,2024-02-17T15:15Z
+,27,Sat Feb 17 2024,18:30,CET/+0100,Mantova 1911 SSD,3-1,2-0,Aurora Pro Patria,2024-02-17T17:30Z
+,27,Sat Feb 17 2024,18:30,CET/+0100,Pro Vercelli,0-3,0-0,Giana Erminio,2024-02-17T17:30Z
+,27,Sun Feb 18 2024,18:30,CET/+0100,Trento Calcio 1921,1-3,0-1,US Pergolettese,2024-02-18T17:30Z
+,27,Sun Feb 18 2024,18:30,CET/+0100,Atalanta II,2-0,1-0,US Alessandria 1912,2024-02-18T17:30Z
+,27,Sun Feb 18 2024,14:00,CET/+0100,FC Lumezzane,3-0,1-0,US Triestina,2024-02-18T13:00Z
+,27,Mon Feb 19 2024,20:45,CET/+0100,FC Legnago Salus,2-1,1-1,US Fiorenzuola,2024-02-19T19:45Z
+,23,Wed Feb 21 2024,14:00,CET/+0100,Atalanta II,2-2,1-0,AC Renate,2024-02-21T13:00Z
+,25,Wed Feb 21 2024,18:30,CET/+0100,AC Pro Sesto,1-2,0-1,US Alessandria 1912,2024-02-21T17:30Z
+,28,Fri Feb 23 2024,20:45,CET/+0100,Giana Erminio,2-1,0-1,FC Lumezzane,2024-02-23T19:45Z
+,28,Sat Feb 24 2024,18:30,CET/+0100,Calcio Padova,4-0,2-0,Arzignano Valchiampo,2024-02-24T17:30Z
+,28,Sat Feb 24 2024,18:30,CET/+0100,AC Pro Sesto,0-1,0-0,Trento Calcio 1921,2024-02-24T17:30Z
+,28,Sat Feb 24 2024,18:30,CET/+0100,US Alessandria 1912,0-1,0-1,UC AlbinoLeffe,2024-02-24T17:30Z
+,28,Sat Feb 24 2024,18:30,CET/+0100,US Pergolettese,3-0,0-0,Pro Vercelli,2024-02-24T17:30Z
+,28,Sun Feb 25 2024,16:00,CET/+0100,L.R. Vicenza,2-0,1-0,US Triestina,2024-02-25T15:00Z
+,28,Sun Feb 25 2024,16:15,CET/+0100,Novara Calcio,1-1,1-0,Mantova 1911 SSD,2024-02-25T15:15Z
+,28,Sun Feb 25 2024,18:30,CET/+0100,US Fiorenzuola,1-1,1-0,Virtus Verona,2024-02-25T17:30Z
+,28,Sun Feb 25 2024,14:00,CET/+0100,Aurora Pro Patria,1-3,1-1,AC Renate,2024-02-25T13:00Z
+,28,Mon Feb 26 2024,20:45,CET/+0100,FC Legnago Salus,1-1,1-0,Atalanta II,2024-02-26T19:45Z
+,29,Fri Mar 1 2024,20:45,CET/+0100,Trento Calcio 1921,0-0,0-0,Aurora Pro Patria,2024-03-01T19:45Z
+,29,Fri Mar 1 2024,20:45,CET/+0100,UC AlbinoLeffe,0-0,0-0,Giana Erminio,2024-03-01T19:45Z
+,29,Fri Mar 1 2024,20:45,CET/+0100,US Pergolettese,0-1,0-0,US Alessandria 1912,2024-03-01T19:45Z
+,29,Fri Mar 1 2024,20:45,CET/+0100,Virtus Verona,0-2,0-0,AC Pro Sesto,2024-03-01T19:45Z
+,29,Fri Mar 1 2024,20:45,CET/+0100,FC Lumezzane,2-2,0-0,Arzignano Valchiampo,2024-03-01T19:45Z
+,29,Sat Mar 2 2024,18:30,CET/+0100,Pro Vercelli,1-1,1-1,Mantova 1911 SSD,2024-03-02T17:30Z
+,29,Sat Mar 2 2024,18:30,CET/+0100,US Triestina,2-2,0-1,FC Legnago Salus,2024-03-02T17:30Z
+,29,Sat Mar 2 2024,18:30,CET/+0100,Atalanta II,0-0,0-0,Novara Calcio,2024-03-02T17:30Z
+,29,Sun Mar 3 2024,14:00,CET/+0100,AC Renate,0-1,0-0,Calcio Padova,2024-03-03T13:00Z
+,30,Tue Mar 5 2024,18:30,CET/+0100,Arzignano Valchiampo,0-0,0-0,UC AlbinoLeffe,2024-03-05T17:30Z
+,30,Tue Mar 5 2024,18:30,CET/+0100,Atalanta II,1-0,1-0,FC Lumezzane,2024-03-05T17:30Z
+,30,Tue Mar 5 2024,18:30,CET/+0100,Aurora Pro Patria,2-1,1-0,Pro Vercelli,2024-03-05T17:30Z
+,30,Tue Mar 5 2024,18:30,CET/+0100,FC Legnago Salus,2-1,1-0,US Pergolettese,2024-03-05T17:30Z
+,30,Tue Mar 5 2024,18:30,CET/+0100,AC Pro Sesto,0-0,0-0,Giana Erminio,2024-03-05T17:30Z
+,30,Tue Mar 5 2024,18:30,CET/+0100,US Alessandria 1912,0-1,0-0,Trento Calcio 1921,2024-03-05T17:30Z
+,30,Tue Mar 5 2024,20:45,CET/+0100,Mantova 1911 SSD,4-0,1-0,Virtus Verona,2024-03-05T19:45Z
+,30,Wed Mar 6 2024,20:45,CET/+0100,Calcio Padova,1-1,0-0,L.R. Vicenza,2024-03-06T19:45Z
+,30,Wed Mar 6 2024,18:30,CET/+0100,Novara Calcio,1-1,0-0,AC Renate,2024-03-06T17:30Z
+,30,Wed Mar 6 2024,18:30,CET/+0100,US Fiorenzuola,0-3,0-2,US Triestina,2024-03-06T17:30Z
+,31,Sat Mar 9 2024,16:15,CET/+0100,Trento Calcio 1921,2-1,1-0,Virtus Verona,2024-03-09T15:15Z
+,31,Sat Mar 9 2024,16:15,CET/+0100,US Pergolettese,0-4,0-1,Mantova 1911 SSD,2024-03-09T15:15Z
+,31,Sat Mar 9 2024,18:30,CET/+0100,FC Lumezzane,0-2,0-0,Aurora Pro Patria,2024-03-09T17:30Z
+,31,Sat Mar 9 2024,18:30,CET/+0100,Pro Vercelli,1-3,0-1,FC Legnago Salus,2024-03-09T17:30Z
+,31,Sun Mar 10 2024,16:15,CET/+0100,Giana Erminio,2-0,1-0,Calcio Padova,2024-03-10T15:15Z
+,31,Sun Mar 10 2024,20:45,CET/+0100,L.R. Vicenza,1-0,1-0,Arzignano Valchiampo,2024-03-10T19:45Z
+,31,Sun Mar 10 2024,18:30,CET/+0100,UC AlbinoLeffe,0-0,0-0,Novara Calcio,2024-03-10T17:30Z
+,31,Mon Mar 11 2024,20:45,CET/+0100,AC Renate,0-1,0-0,AC Pro Sesto,2024-03-11T19:45Z
+,31,Mon Mar 11 2024,20:45,CET/+0100,US Fiorenzuola,2-1,0-1,Atalanta II,2024-03-11T19:45Z
+,32,Fri Mar 15 2024,20:45,CET/+0100,Calcio Padova,0-0,0-0,UC AlbinoLeffe,2024-03-15T19:45Z
+,32,Sat Mar 16 2024,20:45,CET/+0100,Novara Calcio,2-2,2-1,Pro Vercelli,2024-03-16T19:45Z
+,32,Sat Mar 16 2024,16:15,CET/+0100,Mantova 1911 SSD,2-0,2-0,US Fiorenzuola,2024-03-16T15:15Z
+,32,Sat Mar 16 2024,16:15,CET/+0100,Atalanta II,0-2,0-1,US Pergolettese,2024-03-16T15:15Z
+,32,Sat Mar 16 2024,16:15,CET/+0100,FC Legnago Salus,2-1,0-0,FC Lumezzane,2024-03-16T15:15Z
+,32,Sat Mar 16 2024,18:30,CET/+0100,Virtus Verona,0-0,0-0,Giana Erminio,2024-03-16T17:30Z
+,32,Sat Mar 16 2024,18:30,CET/+0100,Aurora Pro Patria,0-1,0-0,L.R. Vicenza,2024-03-16T17:30Z
+,32,Sun Mar 17 2024,18:30,CET/+0100,US Alessandria 1912,0-1,0-0,AC Renate,2024-03-17T17:30Z
+,32,Sun Mar 17 2024,14:00,CET/+0100,AC Pro Sesto,0-1,0-1,US Triestina,2024-03-17T13:00Z
+,32,Sun Mar 17 2024,18:30,CET/+0100,Arzignano Valchiampo,0-0,0-0,Trento Calcio 1921,2024-03-17T17:30Z
+,29,Tue Mar 19 2024,19:30,CET/+0100,L.R. Vicenza,1-1,0-0,US Fiorenzuola,2024-03-19T18:30Z
+,33,Sat Mar 23 2024,17:30,CET/+0100,L.R. Vicenza,1-1,0-0,FC Legnago Salus,2024-03-23T16:30Z
+,33,Sat Mar 23 2024,14:00,CET/+0100,FC Lumezzane,3-1,1-1,Virtus Verona,2024-03-23T13:00Z
+,33,Sat Mar 23 2024,14:00,CET/+0100,Giana Erminio,3-0,2-0,US Alessandria 1912,2024-03-23T13:00Z
+,33,Sat Mar 23 2024,14:00,CET/+0100,Trento Calcio 1921,1-1,0-1,Mantova 1911 SSD,2024-03-23T13:00Z
+,33,Sat Mar 23 2024,14:00,CET/+0100,UC AlbinoLeffe,1-1,1-1,AC Pro Sesto,2024-03-23T13:00Z
+,33,Sat Mar 23 2024,14:00,CET/+0100,US Fiorenzuola,3-1,0-1,Aurora Pro Patria,2024-03-23T13:00Z
+,33,Sun Mar 24 2024,14:00,CET/+0100,Pro Vercelli,2-0,0-0,Calcio Padova,2024-03-24T13:00Z
+,33,Sun Mar 24 2024,14:00,CET/+0100,US Pergolettese,1-1,1-0,Novara Calcio,2024-03-24T13:00Z
+,33,Sun Mar 24 2024,16:15,CET/+0100,AC Renate,0-3,0-1,Arzignano Valchiampo,2024-03-24T15:15Z
+,31,Tue Mar 26 2024,16:15,CET/+0100,US Triestina,3-1,1-0,US Alessandria 1912,2024-03-26T15:15Z
+,34,Thu Mar 28 2024,20:45,CET/+0100,Calcio Padova,2-1,1-1,US Pergolettese,2024-03-28T19:45Z
+,34,Sat Mar 30 2024,20:45,CET/+0100,US Alessandria 1912,1-1,0-1,Pro Vercelli,2024-03-30T19:45Z
+,34,Sat Mar 30 2024,14:00,CET/+0100,UC AlbinoLeffe,2-2,0-1,Trento Calcio 1921,2024-03-30T13:00Z
+,34,Sat Mar 30 2024,16:15,CET/+0100,Arzignano Valchiampo,1-2,1-1,US Triestina,2024-03-30T15:15Z
+,34,Sat Mar 30 2024,16:15,CET/+0100,Novara Calcio,1-1,1-0,FC Lumezzane,2024-03-30T15:15Z
+,34,Sat Mar 30 2024,18:30,CET/+0100,Mantova 1911 SSD,1-1,0-1,Atalanta II,2024-03-30T17:30Z
+,34,Sat Mar 30 2024,18:30,CET/+0100,Giana Erminio,2-0,2-0,US Fiorenzuola,2024-03-30T17:30Z
+,34,Sat Mar 30 2024,18:30,CET/+0100,Aurora Pro Patria,1-1,0-0,FC Legnago Salus,2024-03-30T17:30Z
+,34,Sat Mar 30 2024,18:30,CET/+0100,Virtus Verona,0-0,0-0,AC Renate,2024-03-30T17:30Z
+,33,Wed Apr 3 2024,16:15,CEST/+0200,US Triestina,1-1,0-0,Atalanta II,2024-04-03T14:15Z
+,35,Sat Apr 6 2024,18:30,CEST/+0200,US Fiorenzuola,2-0,0-0,US Alessandria 1912,2024-04-06T16:30Z
+,35,Sat Apr 6 2024,16:15,CEST/+0200,Pro Vercelli,3-1,1-1,UC AlbinoLeffe,2024-04-06T14:15Z
+,35,Sat Apr 6 2024,16:15,CEST/+0200,Trento Calcio 1921,0-0,0-0,Giana Erminio,2024-04-06T14:15Z
+,35,Sat Apr 6 2024,18:30,CEST/+0200,FC Legnago Salus,2-2,2-1,AC Pro Sesto,2024-04-06T16:30Z
+,35,Sun Apr 7 2024,18:30,CEST/+0200,FC Lumezzane,1-1,0-1,Calcio Padova,2024-04-07T16:30Z
+,35,Sun Apr 7 2024,18:30,CEST/+0200,L.R. Vicenza,2-1,1-0,Novara Calcio,2024-04-07T16:30Z
+,35,Sun Apr 7 2024,18:30,CEST/+0200,US Pergolettese,1-1,0-1,Arzignano Valchiampo,2024-04-07T16:30Z
+,35,Sun Apr 7 2024,20:45,CEST/+0200,Atalanta II,4-1,3-1,Aurora Pro Patria,2024-04-07T18:45Z
+,35,Sun Apr 7 2024,20:45,CEST/+0200,US Triestina,0-1,0-0,Virtus Verona,2024-04-07T18:45Z
+,35,Mon Apr 8 2024,20:45,CEST/+0200,AC Renate,2-0,1-0,Mantova 1911 SSD,2024-04-08T18:45Z
+,34,Wed Apr 10 2024,18:00,CEST/+0200,AC Pro Sesto,1-1,1-0,L.R. Vicenza,2024-04-10T16:00Z
+,36,Fri Apr 12 2024,20:45,CEST/+0200,Arzignano Valchiampo,3-0,0-0,US Fiorenzuola,2024-04-12T18:45Z
+,36,Sat Apr 13 2024,16:15,CEST/+0200,UC AlbinoLeffe,0-0,0-0,AC Renate,2024-04-13T14:15Z
+,36,Sat Apr 13 2024,18:30,CEST/+0200,Novara Calcio,2-0,1-0,FC Legnago Salus,2024-04-13T16:30Z
+,36,Sat Apr 13 2024,18:30,CEST/+0200,AC Pro Sesto,2-1,1-0,FC Lumezzane,2024-04-13T16:30Z
+,36,Sat Apr 13 2024,18:30,CEST/+0200,Trento Calcio 1921,1-0,0-0,Pro Vercelli,2024-04-13T16:30Z
+,36,Sat Apr 13 2024,18:30,CEST/+0200,US Alessandria 1912,1-2,1-2,Aurora Pro Patria,2024-04-13T16:30Z
+,36,Sat Apr 13 2024,20:45,CEST/+0200,Calcio Padova,2-0,2-0,Atalanta II,2024-04-13T18:45Z
+,36,Sat Apr 13 2024,20:45,CEST/+0200,Virtus Verona,1-2,0-1,US Pergolettese,2024-04-13T18:45Z
+,36,Sun Apr 14 2024,18:30,CEST/+0200,Mantova 1911 SSD,1-2,0-2,L.R. Vicenza,2024-04-14T16:30Z
+,36,Sun Apr 14 2024,14:00,CEST/+0200,Giana Erminio,0-1,0-0,US Triestina,2024-04-14T12:00Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,FC Lumezzane,4-3,1-1,Mantova 1911 SSD,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,AC Renate,0-2,0-0,Giana Erminio,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,Atalanta II,3-0,2-0,AC Pro Sesto,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,Aurora Pro Patria,1-3,0-2,Virtus Verona,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,FC Legnago Salus,0-0,0-0,US Alessandria 1912,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,Pro Vercelli,2-0,2-0,Arzignano Valchiampo,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,L.R. Vicenza,2-0,2-0,Trento Calcio 1921,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,US Fiorenzuola,1-1,1-0,Calcio Padova,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,US Pergolettese,1-1,0-1,UC AlbinoLeffe,2024-04-20T16:30Z
+,37,Sat Apr 20 2024,18:30,CEST/+0200,US Triestina,2-2,1-1,Novara Calcio,2024-04-20T16:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,Mantova 1911 SSD,1-1,0-1,FC Legnago Salus,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,Arzignano Valchiampo,1-1,1-1,Atalanta II,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,Giana Erminio,0-1,0-0,US Pergolettese,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,Calcio Padova,3-2,1-1,US Triestina,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,Novara Calcio,2-0,2-0,US Fiorenzuola,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,AC Pro Sesto,1-0,0-0,Aurora Pro Patria,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,Trento Calcio 1921,1-0,0-0,AC Renate,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,UC AlbinoLeffe,2-3,0-2,FC Lumezzane,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,US Alessandria 1912,1-2,1-0,L.R. Vicenza,2024-04-28T14:30Z
+,38,Sun Apr 28 2024,16:30,CEST/+0200,Virtus Verona,0-1,0-1,Pro Vercelli,2024-04-28T14:30Z
+Playout,Final,Sun May 12 2024,18:00,CEST/+0200,US Fiorenzuola,1-3,0-3,Novara Calcio,2024-05-12T16:00Z
+Playout,Final,Sun May 19 2024,18:00,CEST/+0200,Novara Calcio,2-1,1-0,US Fiorenzuola,2024-05-19T16:00Z

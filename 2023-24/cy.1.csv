@@ -1,0 +1,269 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+,1,Fri Aug 18 2023,20:00,EEST/+0300,Paphos FC,3-0,1-0,Karmiotissa Polemidion,,2023-08-18T17:00Z
+,1,Sat Aug 19 2023,20:00,EEST/+0300,Apollon Limassol,1-1,1-1,Othellos Athienou,,2023-08-19T17:00Z
+,1,Sat Aug 19 2023,20:00,EEST/+0300,Anorthosis Famagusta,3-1,0-0,Ethnikos Achna,,2023-08-19T17:00Z
+,1,Sun Aug 20 2023,20:00,EEST/+0300,AE Zakakiou,0-2,0-0,APOEL Nikosia,,2023-08-20T17:00Z
+,1,Mon Aug 21 2023,20:00,EEST/+0300,Doxa Katokopias,0-1,0-1,AEL Limassol,,2023-08-21T17:00Z
+,1,Mon Aug 21 2023,20:00,EEST/+0300,Omonia Nikosia,4-0,1-0,Nea Salamina,,2023-08-21T17:00Z
+,1,Mon Aug 21 2023,20:00,EEST/+0300,Aris Limassol,2-0,1-0,AEK Larnaca,,2023-08-21T17:00Z
+,2,Sat Aug 26 2023,20:00,EEST/+0300,Karmiotissa Polemidion,3-3,1-1,Omonia Nikosia,,2023-08-26T17:00Z
+,2,Sat Aug 26 2023,20:00,EEST/+0300,Othellos Athienou,0-2,0-1,Anorthosis Famagusta,,2023-08-26T17:00Z
+,2,Sun Aug 27 2023,20:00,EEST/+0300,Nea Salamina,1-1,0-1,Apollon Limassol,,2023-08-27T17:00Z
+,2,Sun Aug 27 2023,20:00,EEST/+0300,AEL Limassol,4-3,1-2,AE Zakakiou,,2023-08-27T17:00Z
+,2,Mon Aug 28 2023,20:00,EEST/+0300,Aris Limassol,2-1,0-0,Doxa Katokopias,,2023-08-28T17:00Z
+,2,Mon Aug 28 2023,20:00,EEST/+0300,AEK Larnaca,5-5,4-4,Ethnikos Achna,,2023-08-28T17:00Z
+,3,Fri Sep 1 2023,20:00,EEST/+0300,Anorthosis Famagusta,2-2,1-0,Nea Salamina,,2023-09-01T17:00Z
+,3,Sat Sep 2 2023,20:00,EEST/+0300,Paphos FC,3-1,0-1,AEL Limassol,,2023-09-02T17:00Z
+,3,Sat Sep 2 2023,20:00,EEST/+0300,Ethnikos Achna,1-1,1-0,Othellos Athienou,,2023-09-02T17:00Z
+,3,Sat Sep 2 2023,20:00,EEST/+0300,Doxa Katokopias,0-2,0-1,AEK Larnaca,,2023-09-02T17:00Z
+,3,Sun Sep 3 2023,20:00,EEST/+0300,Apollon Limassol,1-0,1-0,Karmiotissa Polemidion,,2023-09-03T17:00Z
+,3,Sun Sep 3 2023,20:00,EEST/+0300,AE Zakakiou,0-5,0-3,Aris Limassol,,2023-09-03T17:00Z
+,3,Sun Sep 3 2023,21:00,EEST/+0300,Omonia Nikosia,2-1,2-1,APOEL Nikosia,,2023-09-03T18:00Z
+,4,Sat Sep 16 2023,19:00,EEST/+0300,AEK Larnaca,3-2,3-1,Othellos Athienou,,2023-09-16T16:00Z
+,4,Sat Sep 16 2023,19:00,EEST/+0300,Doxa Katokopias,1-3,0-2,AE Zakakiou,,2023-09-16T16:00Z
+,4,Sat Sep 16 2023,20:00,EEST/+0300,AEL Limassol,0-0,0-0,Omonia Nikosia,,2023-09-16T17:00Z
+,4,Sun Sep 17 2023,18:00,EEST/+0300,Karmiotissa Polemidion,1-3,0-1,Anorthosis Famagusta,,2023-09-17T15:00Z
+,4,Sun Sep 17 2023,20:30,EEST/+0300,APOEL Nikosia,1-1,1-1,Apollon Limassol,,2023-09-17T17:30Z
+,4,Sun Sep 17 2023,19:00,EEST/+0300,Aris Limassol,1-1,0-0,Paphos FC,,2023-09-17T16:00Z
+,5,Fri Sep 22 2023,19:00,EEST/+0300,AE Zakakiou,3-1,1-1,AEK Larnaca,,2023-09-22T16:00Z
+,5,Sat Sep 23 2023,19:00,EEST/+0300,Ethnikos Achna,3-0,1-0,Karmiotissa Polemidion,,2023-09-23T16:00Z
+,5,Sat Sep 23 2023,20:30,EEST/+0300,Anorthosis Famagusta,1-1,1-1,APOEL Nikosia,,2023-09-23T17:30Z
+,5,Sat Sep 23 2023,18:00,EEST/+0300,Paphos FC,4-0,3-0,Doxa Katokopias,,2023-09-23T15:00Z
+,5,Sun Sep 24 2023,19:00,EEST/+0300,Othellos Athienou,2-3,1-2,Nea Salamina,,2023-09-24T16:00Z
+,5,Sun Sep 24 2023,19:00,EEST/+0300,Apollon Limassol,2-0,0-0,AEL Limassol,,2023-09-24T16:00Z
+,5,Mon Sep 25 2023,19:00,EEST/+0300,Omonia Nikosia,2-2,1-1,Aris Limassol,,2023-09-25T16:00Z
+,2,Wed Sep 27 2023,19:00,EEST/+0300,APOEL Nikosia,1-0,0-0,Paphos FC,,2023-09-27T16:00Z
+,6,Sat Sep 30 2023,18:00,EEST/+0300,AEK Larnaca,1-1,1-1,Nea Salamina,,2023-09-30T15:00Z
+,6,Sat Sep 30 2023,19:00,EEST/+0300,Aris Limassol,0-1,0-1,Apollon Limassol,,2023-09-30T16:00Z
+,6,Sat Sep 30 2023,19:00,EEST/+0300,Karmiotissa Polemidion,0-0,0-0,Othellos Athienou,,2023-09-30T16:00Z
+,6,Sun Oct 1 2023,19:00,EEST/+0300,Doxa Katokopias,1-3,1-0,Omonia Nikosia,,2023-10-01T16:00Z
+,6,Sun Oct 1 2023,19:00,EEST/+0300,AEL Limassol,1-3,0-2,Anorthosis Famagusta,,2023-10-01T16:00Z
+,6,Mon Oct 2 2023,19:00,EEST/+0300,APOEL Nikosia,5-1,2-1,Ethnikos Achna,,2023-10-02T16:00Z
+,6,Mon Oct 2 2023,19:00,EEST/+0300,AE Zakakiou,1-4,1-3,Paphos FC,,2023-10-02T16:00Z
+,7,Fri Oct 6 2023,19:00,EEST/+0300,Nea Salamina,2-0,0-0,Karmiotissa Polemidion,,2023-10-06T16:00Z
+,7,Sat Oct 7 2023,19:00,EEST/+0300,Othellos Athienou,0-1,0-0,APOEL Nikosia,,2023-10-07T16:00Z
+,7,Sat Oct 7 2023,19:00,EEST/+0300,Omonia Nikosia,3-3,1-1,AE Zakakiou,,2023-10-07T16:00Z
+,7,Sat Oct 7 2023,19:00,EEST/+0300,Paphos FC,0-0,0-0,AEK Larnaca,,2023-10-07T16:00Z
+,7,Sun Oct 8 2023,19:00,EEST/+0300,Apollon Limassol,4-0,1-0,Doxa Katokopias,,2023-10-08T16:00Z
+,7,Sun Oct 8 2023,19:00,EEST/+0300,Ethnikos Achna,1-0,1-0,AEL Limassol,,2023-10-08T16:00Z
+,7,Sun Oct 8 2023,19:00,EEST/+0300,Anorthosis Famagusta,2-3,1-2,Aris Limassol,,2023-10-08T16:00Z
+,8,Sat Oct 21 2023,19:00,EEST/+0300,AEK Larnaca,5-0,2-0,Karmiotissa Polemidion,,2023-10-21T16:00Z
+,8,Sat Oct 21 2023,19:00,EEST/+0300,APOEL Nikosia,1-0,1-0,Nea Salamina,,2023-10-21T16:00Z
+,8,Sat Oct 21 2023,19:00,EEST/+0300,Aris Limassol,2-0,2-0,Ethnikos Achna,,2023-10-21T16:00Z
+,8,Sun Oct 22 2023,17:00,EEST/+0300,AEL Limassol,2-1,1-0,Othellos Athienou,,2023-10-22T14:00Z
+,8,Sun Oct 22 2023,19:00,EEST/+0300,Doxa Katokopias,0-2,0-2,Anorthosis Famagusta,,2023-10-22T16:00Z
+,8,Sun Oct 22 2023,19:00,EEST/+0300,AE Zakakiou,0-5,0-1,Apollon Limassol,,2023-10-22T16:00Z
+,8,Mon Oct 23 2023,19:00,EEST/+0300,Paphos FC,0-2,0-2,Omonia Nikosia,,2023-10-23T16:00Z
+,4,Wed Oct 25 2023,19:00,EEST/+0300,Nea Salamina,4-0,2-0,Ethnikos Achna,,2023-10-25T16:00Z
+,9,Sat Oct 28 2023,19:00,EEST/+0300,Karmiotissa Polemidion,1-2,0-1,APOEL Nikosia,,2023-10-28T16:00Z
+,9,Sat Oct 28 2023,19:00,EEST/+0300,Nea Salamina,2-1,1-0,AEL Limassol,,2023-10-28T16:00Z
+,9,Sat Oct 28 2023,18:00,EEST/+0300,Ethnikos Achna,2-0,1-0,Doxa Katokopias,,2023-10-28T15:00Z
+,9,Sun Oct 29 2023,19:00,EET/+0200,Anorthosis Famagusta,1-1,0-0,AE Zakakiou,,2023-10-29T17:00Z
+,9,Sun Oct 29 2023,19:00,EET/+0200,Apollon Limassol,0-3,0-2,Paphos FC,,2023-10-29T17:00Z
+,9,Sun Oct 29 2023,18:00,EET/+0200,Omonia Nikosia,0-0,0-0,AEK Larnaca,,2023-10-29T16:00Z
+,9,Mon Oct 30 2023,19:00,EET/+0200,Othellos Athienou,0-1,0-1,Aris Limassol,,2023-10-30T17:00Z
+,10,Fri Nov 3 2023,19:00,EET/+0200,AE Zakakiou,1-1,0-0,Ethnikos Achna,,2023-11-03T17:00Z
+,10,Sat Nov 4 2023,18:00,EET/+0200,Doxa Katokopias,0-2,0-0,Othellos Athienou,,2023-11-04T16:00Z
+,10,Sat Nov 4 2023,19:00,EET/+0200,Aris Limassol,2-1,0-0,Nea Salamina,,2023-11-04T17:00Z
+,10,Sat Nov 4 2023,19:00,EET/+0200,Omonia Nikosia,2-0,1-0,Apollon Limassol,,2023-11-04T17:00Z
+,10,Sun Nov 5 2023,18:00,EET/+0200,Paphos FC,1-0,1-0,Anorthosis Famagusta,,2023-11-05T16:00Z
+,10,Sun Nov 5 2023,19:00,EET/+0200,AEL Limassol,2-1,2-0,Karmiotissa Polemidion,,2023-11-05T17:00Z
+,10,Sun Nov 5 2023,18:00,EET/+0200,AEK Larnaca,0-3,0-1,APOEL Nikosia,,2023-11-05T16:00Z
+,11,Fri Nov 10 2023,20:00,EET/+0200,Anorthosis Famagusta,2-0,0-0,Omonia Nikosia,,2023-11-10T18:00Z
+,11,Sat Nov 11 2023,19:00,EET/+0200,Ethnikos Achna,1-4,1-2,Paphos FC,,2023-11-11T17:00Z
+,11,Sat Nov 11 2023,19:00,EET/+0200,APOEL Nikosia,1-0,1-0,AEL Limassol,,2023-11-11T17:00Z
+,11,Sat Nov 11 2023,18:00,EET/+0200,Nea Salamina,2-0,0-0,Doxa Katokopias,,2023-11-11T16:00Z
+,11,Sun Nov 12 2023,17:00,EET/+0200,Othellos Athienou,2-1,0-1,AE Zakakiou,,2023-11-12T15:00Z
+,11,Sun Nov 12 2023,19:00,EET/+0200,Apollon Limassol,0-1,0-1,AEK Larnaca,,2023-11-12T17:00Z
+,11,Sun Nov 12 2023,19:00,EET/+0200,Karmiotissa Polemidion,4-1,0-0,Aris Limassol,,2023-11-12T17:00Z
+,12,Sat Nov 25 2023,19:00,EET/+0200,Paphos FC,3-0,0-0,Othellos Athienou,,2023-11-25T17:00Z
+,12,Sat Nov 25 2023,19:00,EET/+0200,Aris Limassol,1-0,0-0,APOEL Nikosia,,2023-11-25T17:00Z
+,12,Sun Nov 26 2023,18:00,EET/+0200,AE Zakakiou,2-2,1-1,Nea Salamina,,2023-11-26T16:00Z
+,12,Sun Nov 26 2023,19:00,EET/+0200,Apollon Limassol,0-1,0-0,Anorthosis Famagusta,,2023-11-26T17:00Z
+,12,Sun Nov 26 2023,18:00,EET/+0200,Omonia Nikosia,4-1,2-1,Ethnikos Achna,,2023-11-26T16:00Z
+,12,Mon Nov 27 2023,19:00,EET/+0200,AEK Larnaca,3-0,1-0,AEL Limassol,,2023-11-27T17:00Z
+,12,Mon Nov 27 2023,19:00,EET/+0200,Doxa Katokopias,2-2,2-2,Karmiotissa Polemidion,,2023-11-27T17:00Z
+,13,Fri Dec 1 2023,19:00,EET/+0200,Othellos Athienou,1-2,1-1,Omonia Nikosia,,2023-12-01T17:00Z
+,13,Sat Dec 2 2023,19:00,EET/+0200,Anorthosis Famagusta,0-0,0-0,AEK Larnaca,,2023-12-02T17:00Z
+,13,Sat Dec 2 2023,19:00,EET/+0200,Ethnikos Achna,2-2,1-1,Apollon Limassol,,2023-12-02T17:00Z
+,13,Sun Dec 3 2023,19:00,EET/+0200,APOEL Nikosia,5-0,1-0,Doxa Katokopias,,2023-12-03T17:00Z
+,13,Sun Dec 3 2023,19:00,EET/+0200,Nea Salamina,0-2,0-0,Paphos FC,,2023-12-03T17:00Z
+,13,Sun Dec 3 2023,16:30,EET/+0200,Karmiotissa Polemidion,1-1,1-0,AE Zakakiou,,2023-12-03T14:30Z
+,13,Mon Dec 4 2023,19:00,EET/+0200,AEL Limassol,0-4,0-2,Aris Limassol,,2023-12-04T17:00Z
+,14,Fri Dec 8 2023,19:00,EET/+0200,Othellos Athienou,0-3,0-1,Apollon Limassol,,2023-12-08T17:00Z
+,14,Sat Dec 9 2023,19:00,EET/+0200,AEL Limassol,2-0,1-0,Doxa Katokopias,,2023-12-09T17:00Z
+,14,Sat Dec 9 2023,19:00,EET/+0200,APOEL Nikosia,3-1,1-1,AE Zakakiou,,2023-12-09T17:00Z
+,14,Sat Dec 9 2023,17:00,EET/+0200,AEK Larnaca,2-1,0-1,Aris Limassol,,2023-12-09T15:00Z
+,14,Sun Dec 10 2023,18:00,EET/+0200,Karmiotissa Polemidion,2-1,2-0,Paphos FC,,2023-12-10T16:00Z
+,14,Sun Dec 10 2023,19:00,EET/+0200,Nea Salamina,0-2,0-0,Omonia Nikosia,,2023-12-10T17:00Z
+,14,Sun Dec 10 2023,17:00,EET/+0200,Ethnikos Achna,0-1,0-0,Anorthosis Famagusta,,2023-12-10T15:00Z
+,15,Sat Dec 16 2023,18:00,EET/+0200,Ethnikos Achna,0-3,0-1,AEK Larnaca,,2023-12-16T16:00Z
+,15,Sat Dec 16 2023,18:00,EET/+0200,Omonia Nikosia,2-1,1-1,Karmiotissa Polemidion,,2023-12-16T16:00Z
+,15,Sat Dec 16 2023,19:00,EET/+0200,Anorthosis Famagusta,2-1,0-1,Othellos Athienou,,2023-12-16T17:00Z
+,15,Sun Dec 17 2023,18:00,EET/+0200,Paphos FC,0-1,0-0,APOEL Nikosia,,2023-12-17T16:00Z
+,15,Sun Dec 17 2023,19:00,EET/+0200,Apollon Limassol,0-2,0-2,Nea Salamina,,2023-12-17T17:00Z
+,15,Sun Dec 17 2023,17:00,EET/+0200,AE Zakakiou,1-4,1-2,AEL Limassol,,2023-12-17T15:00Z
+,15,Mon Dec 18 2023,19:00,EET/+0200,Doxa Katokopias,2-0,2-0,Aris Limassol,,2023-12-18T17:00Z
+,16,Thu Dec 21 2023,19:00,EET/+0200,Othellos Athienou,2-1,1-1,Ethnikos Achna,,2023-12-21T17:00Z
+,16,Fri Dec 22 2023,19:00,EET/+0200,AEK Larnaca,2-1,0-1,Doxa Katokopias,,2023-12-22T17:00Z
+,16,Fri Dec 22 2023,19:00,EET/+0200,Aris Limassol,1-0,1-0,AE Zakakiou,,2023-12-22T17:00Z
+,16,Fri Dec 22 2023,19:00,EET/+0200,Karmiotissa Polemidion,3-4,1-2,Apollon Limassol,,2023-12-22T17:00Z
+,16,Sat Dec 23 2023,17:00,EET/+0200,APOEL Nikosia,3-0,1-0,Omonia Nikosia,,2023-12-23T15:00Z
+,16,Sat Dec 23 2023,19:00,EET/+0200,Nea Salamina,0-3,0-1,Anorthosis Famagusta,,2023-12-23T17:00Z
+,16,Sat Dec 23 2023,17:00,EET/+0200,AEL Limassol,1-2,0-1,Paphos FC,,2023-12-23T15:00Z
+,17,Tue Jan 2 2024,19:00,EET/+0200,Anorthosis Famagusta,1-0,1-0,Karmiotissa Polemidion,,2024-01-02T17:00Z
+,17,Tue Jan 2 2024,19:00,EET/+0200,Omonia Nikosia,3-1,2-0,AEL Limassol,,2024-01-02T17:00Z
+,17,Tue Jan 2 2024,17:00,EET/+0200,Apollon Limassol,2-2,2-0,APOEL Nikosia,,2024-01-02T15:00Z
+,17,Wed Jan 3 2024,19:00,EET/+0200,Ethnikos Achna,2-3,1-2,Nea Salamina,,2024-01-03T17:00Z
+,17,Wed Jan 3 2024,19:00,EET/+0200,Othellos Athienou,0-0,0-0,AEK Larnaca,,2024-01-03T17:00Z
+,17,Wed Jan 3 2024,19:00,EET/+0200,Paphos FC,1-0,0-0,Aris Limassol,,2024-01-03T17:00Z
+,17,Thu Jan 4 2024,19:00,EET/+0200,AE Zakakiou,1-1,1-0,Doxa Katokopias,,2024-01-04T17:00Z
+,18,Sat Jan 6 2024,19:00,EET/+0200,AEL Limassol,1-3,1-2,Apollon Limassol,,2024-01-06T17:00Z
+,18,Sat Jan 6 2024,17:00,EET/+0200,APOEL Nikosia,1-0,0-0,Anorthosis Famagusta,,2024-01-06T15:00Z
+,18,Sun Jan 7 2024,17:00,EET/+0200,Nea Salamina,3-2,1-0,Othellos Athienou,,2024-01-07T15:00Z
+,18,Sun Jan 7 2024,19:00,EET/+0200,Aris Limassol,2-0,2-0,Omonia Nikosia,,2024-01-07T17:00Z
+,18,Sun Jan 7 2024,17:00,EET/+0200,Karmiotissa Polemidion,1-1,0-0,Ethnikos Achna,,2024-01-07T15:00Z
+,18,Mon Jan 8 2024,19:00,EET/+0200,AEK Larnaca,2-0,1-0,AE Zakakiou,,2024-01-08T17:00Z
+,18,Mon Jan 8 2024,19:00,EET/+0200,Doxa Katokopias,1-0,0-0,Paphos FC,,2024-01-08T17:00Z
+,19,Fri Jan 12 2024,19:00,EET/+0200,Nea Salamina,0-1,0-0,AEK Larnaca,,2024-01-12T17:00Z
+,19,Fri Jan 12 2024,19:00,EET/+0200,Ethnikos Achna,2-1,0-0,APOEL Nikosia,,2024-01-12T17:00Z
+,19,Sat Jan 13 2024,18:00,EET/+0200,Omonia Nikosia,5-1,4-1,Doxa Katokopias,,2024-01-13T16:00Z
+,19,Sat Jan 13 2024,19:00,EET/+0200,Anorthosis Famagusta,1-0,0-0,AEL Limassol,,2024-01-13T17:00Z
+,19,Sat Jan 13 2024,17:00,EET/+0200,Othellos Athienou,0-3,0-3,Karmiotissa Polemidion,,2024-01-13T15:00Z
+,19,Sun Jan 14 2024,19:00,EET/+0200,Apollon Limassol,0-1,0-1,Aris Limassol,,2024-01-14T17:00Z
+,19,Sun Jan 14 2024,16:00,EET/+0200,Paphos FC,4-0,1-0,AE Zakakiou,,2024-01-14T14:00Z
+,20,Sat Jan 20 2024,17:00,EET/+0200,Doxa Katokopias,0-3,0-2,Apollon Limassol,,2024-01-20T15:00Z
+,20,Sat Jan 20 2024,19:00,EET/+0200,AEL Limassol,1-1,1-1,Ethnikos Achna,,2024-01-20T17:00Z
+,20,Sun Jan 21 2024,19:00,EET/+0200,Karmiotissa Polemidion,0-1,0-0,Nea Salamina,,2024-01-21T17:00Z
+,20,Sun Jan 21 2024,19:00,EET/+0200,AE Zakakiou,0-0,0-0,Omonia Nikosia,,2024-01-21T17:00Z
+,20,Sun Jan 21 2024,16:00,EET/+0200,APOEL Nikosia,6-0,4-0,Othellos Athienou,,2024-01-21T14:00Z
+,20,Mon Jan 22 2024,19:00,EET/+0200,Aris Limassol,2-1,1-0,Anorthosis Famagusta,,2024-01-22T17:00Z
+,20,Mon Jan 22 2024,19:00,EET/+0200,AEK Larnaca,1-0,0-0,Paphos FC,,2024-01-22T17:00Z
+,21,Fri Jan 26 2024,19:00,EET/+0200,Karmiotissa Polemidion,1-3,1-1,AEK Larnaca,,2024-01-26T17:00Z
+,21,Fri Jan 26 2024,19:00,EET/+0200,Nea Salamina,0-4,0-2,APOEL Nikosia,,2024-01-26T17:00Z
+,21,Sat Jan 27 2024,18:00,EET/+0200,Anorthosis Famagusta,0-2,0-1,Doxa Katokopias,,2024-01-27T16:00Z
+,21,Sat Jan 27 2024,19:00,EET/+0200,Apollon Limassol,0-0,0-0,AE Zakakiou,,2024-01-27T17:00Z
+,21,Sat Jan 27 2024,17:00,EET/+0200,Omonia Nikosia,1-2,1-1,Paphos FC,,2024-01-27T15:00Z
+,21,Sun Jan 28 2024,19:00,EET/+0200,Ethnikos Achna,2-6,0-2,Aris Limassol,,2024-01-28T17:00Z
+,21,Sun Jan 28 2024,,,Othellos Athienou,0-3 (*),,AEL Limassol,awd.,
+,22,Wed Jan 31 2024,19:00,EET/+0200,AEK Larnaca,2-1,1-1,Omonia Nikosia,,2024-01-31T17:00Z
+,22,Wed Jan 31 2024,19:00,EET/+0200,Aris Limassol,4-0,0-0,Othellos Athienou,,2024-01-31T17:00Z
+,22,Wed Jan 31 2024,19:00,EET/+0200,Paphos FC,1-1,0-1,Apollon Limassol,,2024-01-31T17:00Z
+,22,Thu Feb 1 2024,19:00,EET/+0200,AEL Limassol,3-1,3-1,Nea Salamina,,2024-02-01T17:00Z
+,22,Thu Feb 1 2024,19:00,EET/+0200,Doxa Katokopias,0-2,0-2,Ethnikos Achna,,2024-02-01T17:00Z
+,22,Thu Feb 1 2024,16:00,EET/+0200,APOEL Nikosia,4-1,1-1,Karmiotissa Polemidion,,2024-02-01T14:00Z
+,23,Sun Feb 4 2024,16:00,EET/+0200,Anorthosis Famagusta,2-2,1-1,Paphos FC,,2024-02-04T14:00Z
+,23,Sun Feb 4 2024,19:00,EET/+0200,Apollon Limassol,1-2,0-1,Omonia Nikosia,,2024-02-04T17:00Z
+,23,Mon Feb 5 2024,19:00,EET/+0200,Othellos Athienou,0-0,0-0,Doxa Katokopias,,2024-02-05T17:00Z
+,23,Mon Feb 5 2024,19:00,EET/+0200,Ethnikos Achna,4-1,2-1,AE Zakakiou,,2024-02-05T17:00Z
+,23,Mon Feb 5 2024,19:00,EET/+0200,APOEL Nikosia,2-2,1-0,AEK Larnaca,,2024-02-05T17:00Z
+,23,Tue Feb 6 2024,19:00,EET/+0200,Karmiotissa Polemidion,1-3,1-2,AEL Limassol,,2024-02-06T17:00Z
+,23,Tue Feb 6 2024,19:00,EET/+0200,Nea Salamina,0-3,0-0,Aris Limassol,,2024-02-06T17:00Z
+,24,Fri Feb 9 2024,19:00,EET/+0200,Omonia Nikosia,3-1,0-1,Anorthosis Famagusta,,2024-02-09T17:00Z
+,24,Fri Feb 9 2024,19:00,EET/+0200,AE Zakakiou,3-3,2-1,Othellos Athienou,,2024-02-09T17:00Z
+,24,Sat Feb 10 2024,19:00,EET/+0200,AEK Larnaca,1-2,1-2,Apollon Limassol,,2024-02-10T17:00Z
+,24,Sat Feb 10 2024,17:00,EET/+0200,Paphos FC,4-3,2-2,Ethnikos Achna,,2024-02-10T15:00Z
+,24,Sat Feb 10 2024,18:00,EET/+0200,Aris Limassol,3-0,0-0,Karmiotissa Polemidion,,2024-02-10T16:00Z
+,24,Sun Feb 11 2024,17:00,EET/+0200,Doxa Katokopias,0-3,0-3,Nea Salamina,,2024-02-11T15:00Z
+,24,Sun Feb 11 2024,19:00,EET/+0200,AEL Limassol,1-1,0-1,APOEL Nikosia,,2024-02-11T17:00Z
+,25,Tue Feb 13 2024,19:00,EET/+0200,Othellos Athienou,0-3,0-1,Paphos FC,,2024-02-13T17:00Z
+,25,Wed Feb 14 2024,19:00,EET/+0200,Ethnikos Achna,2-2,0-2,Omonia Nikosia,,2024-02-14T17:00Z
+,25,Wed Feb 14 2024,19:00,EET/+0200,AEL Limassol,2-3,0-1,AEK Larnaca,,2024-02-14T17:00Z
+,25,Wed Feb 14 2024,19:00,EET/+0200,Anorthosis Famagusta,2-0,1-0,Apollon Limassol,,2024-02-14T17:00Z
+,25,Thu Feb 15 2024,19:00,EET/+0200,Nea Salamina,1-1,0-0,AE Zakakiou,,2024-02-15T17:00Z
+,25,Thu Feb 15 2024,17:00,EET/+0200,Karmiotissa Polemidion,3-1,0-0,Doxa Katokopias,,2024-02-15T15:00Z
+,25,Thu Feb 15 2024,20:00,EET/+0200,APOEL Nikosia,1-0,1-0,Aris Limassol,,2024-02-15T18:00Z
+,26,Sat Feb 17 2024,16:30,EET/+0200,Omonia Nikosia,1-0,0-0,Othellos Athienou,,2024-02-17T14:30Z
+,26,Sat Feb 17 2024,19:00,EET/+0200,AEK Larnaca,1-0,0-0,Anorthosis Famagusta,,2024-02-17T17:00Z
+,26,Sat Feb 17 2024,19:00,EET/+0200,Apollon Limassol,0-0,0-0,Ethnikos Achna,,2024-02-17T17:00Z
+,26,Sun Feb 18 2024,19:00,EET/+0200,Doxa Katokopias,0-1,0-0,APOEL Nikosia,,2024-02-18T17:00Z
+,26,Sun Feb 18 2024,16:00,EET/+0200,AE Zakakiou,1-2,1-0,Karmiotissa Polemidion,,2024-02-18T14:00Z
+,26,Sun Feb 18 2024,19:00,EET/+0200,Aris Limassol,4-0,4-0,AEL Limassol,,2024-02-18T17:00Z
+,26,Mon Feb 19 2024,19:00,EET/+0200,Paphos FC,0-0,0-0,Nea Salamina,,2024-02-19T17:00Z
+,22,Wed Feb 21 2024,19:00,EET/+0200,AE Zakakiou,0-2,0-2,Anorthosis Famagusta,,2024-02-21T17:00Z
+Playoffs - Relegation,1,Sat Feb 24 2024,19:00,EET/+0200,Nea Salamina,1-1,0-0,Othellos Athienou,,2024-02-24T17:00Z
+Playoffs - Relegation,1,Sat Feb 24 2024,18:00,EET/+0200,AEL Limassol,2-1,0-1,AE Zakakiou,,2024-02-24T16:00Z
+Playoffs - Relegation,1,Sat Feb 24 2024,16:30,EET/+0200,Ethnikos Achna,2-1,1-1,Karmiotissa Polemidion,,2024-02-24T14:30Z
+Championship,1,Sun Feb 25 2024,19:00,EET/+0200,Paphos FC,0-1,0-1,AEK Larnaca,,2024-02-25T17:00Z
+Championship,1,Sun Feb 25 2024,19:00,EET/+0200,Aris Limassol,1-2,1-2,Omonia Nikosia,,2024-02-25T17:00Z
+Championship,1,Sun Feb 25 2024,16:00,EET/+0200,Anorthosis Famagusta,0-0,0-0,APOEL Nikosia,,2024-02-25T14:00Z
+Playoffs - Relegation,1,Mon Feb 26 2024,19:00,EET/+0200,Apollon Limassol,0-1,0-0,Doxa Katokopias,,2024-02-26T17:00Z
+Playoffs - Relegation,2,Sat Mar 2 2024,19:00,EET/+0200,Othellos Athienou,1-1,1-1,AEL Limassol,,2024-03-02T17:00Z
+Playoffs - Relegation,2,Sat Mar 2 2024,18:00,EET/+0200,Doxa Katokopias,1-4,1-0,Karmiotissa Polemidion,,2024-03-02T16:00Z
+Championship,2,Sun Mar 3 2024,17:00,EET/+0200,APOEL Nikosia,1-0,1-0,Paphos FC,,2024-03-03T15:00Z
+Playoffs - Relegation,2,Sun Mar 3 2024,19:00,EET/+0200,AE Zakakiou,0-1,0-0,Ethnikos Achna,,2024-03-03T17:00Z
+Championship,2,Mon Mar 4 2024,18:00,EET/+0200,AEK Larnaca,1-1,1-0,Aris Limassol,,2024-03-04T16:00Z
+Championship,2,Mon Mar 4 2024,20:30,EET/+0200,Omonia Nikosia,2-1,1-0,Anorthosis Famagusta,,2024-03-04T18:30Z
+Playoffs - Relegation,2,Mon Mar 4 2024,19:00,EET/+0200,Apollon Limassol,2-0,1-0,Nea Salamina,,2024-03-04T17:00Z
+Playoffs - Relegation,3,Wed Mar 6 2024,19:00,EET/+0200,Karmiotissa Polemidion,0-0,0-0,AE Zakakiou,,2024-03-06T17:00Z
+Playoffs - Relegation,3,Wed Mar 6 2024,19:00,EET/+0200,Ethnikos Achna,2-1,1-1,Othellos Athienou,,2024-03-06T17:00Z
+Playoffs - Relegation,3,Thu Mar 7 2024,19:00,EET/+0200,Nea Salamina,0-1,0-0,Doxa Katokopias,,2024-03-07T17:00Z
+Playoffs - Relegation,3,Fri Mar 8 2024,19:00,EET/+0200,AEL Limassol,2-1,0-1,Apollon Limassol,,2024-03-08T17:00Z
+Championship,3,Sat Mar 9 2024,17:00,EET/+0200,Omonia Nikosia,0-1,0-0,AEK Larnaca,,2024-03-09T15:00Z
+Championship,3,Sun Mar 10 2024,17:00,EET/+0200,Anorthosis Famagusta,2-3,0-1,Paphos FC,,2024-03-10T15:00Z
+Playoffs - Relegation,4,Sun Mar 10 2024,18:00,EET/+0200,Othellos Athienou,1-2,0-1,Karmiotissa Polemidion,,2024-03-10T16:00Z
+Championship,3,Sun Mar 10 2024,19:00,EET/+0200,Aris Limassol,2-1,2-0,APOEL Nikosia,,2024-03-10T17:00Z
+Playoffs - Relegation,4,Mon Mar 11 2024,19:30,EET/+0200,Nea Salamina,1-1,1-0,AEL Limassol,,2024-03-11T17:30Z
+Playoffs - Relegation,4,Mon Mar 11 2024,19:00,EET/+0200,Apollon Limassol,2-2,2-2,Ethnikos Achna,,2024-03-11T17:00Z
+Playoffs - Relegation,4,Mon Mar 11 2024,17:00,EET/+0200,Doxa Katokopias,2-1,1-1,AE Zakakiou,,2024-03-11T15:00Z
+Playoffs - Relegation,5,Fri Mar 15 2024,19:00,EET/+0200,Karmiotissa Polemidion,0-0,0-0,Apollon Limassol,,2024-03-15T17:00Z
+Playoffs - Relegation,5,Fri Mar 15 2024,19:00,EET/+0200,AEL Limassol,0-0,0-0,Doxa Katokopias,,2024-03-15T17:00Z
+Championship,4,Sat Mar 16 2024,16:00,EET/+0200,APOEL Nikosia,0-1,0-1,Omonia Nikosia,,2024-03-16T14:00Z
+Playoffs - Relegation,5,Sat Mar 16 2024,19:00,EET/+0200,AE Zakakiou,0-4,0-3,Othellos Athienou,,2024-03-16T17:00Z
+Championship,4,Sat Mar 16 2024,19:00,EET/+0200,Paphos FC,1-0,0-0,Aris Limassol,,2024-03-16T17:00Z
+Playoffs - Relegation,5,Sun Mar 17 2024,17:00,EET/+0200,Ethnikos Achna,2-0,1-0,Nea Salamina,,2024-03-17T15:00Z
+Championship,4,Sun Mar 17 2024,17:00,EET/+0200,Anorthosis Famagusta,0-1,0-0,AEK Larnaca,,2024-03-17T15:00Z
+Playoffs - Relegation,6,Fri Mar 29 2024,19:00,EET/+0200,Apollon Limassol,1-0,0-0,AE Zakakiou,,2024-03-29T17:00Z
+Playoffs - Relegation,6,Fri Mar 29 2024,19:00,EET/+0200,Doxa Katokopias,0-1,0-1,Othellos Athienou,,2024-03-29T17:00Z
+Playoffs - Relegation,6,Sat Mar 30 2024,19:00,EET/+0200,Nea Salamina,0-2,0-1,Karmiotissa Polemidion,,2024-03-30T17:00Z
+Playoffs - Relegation,6,Sat Mar 30 2024,19:00,EET/+0200,AEL Limassol,1-1,0-0,Ethnikos Achna,,2024-03-30T17:00Z
+Championship,5,Sun Mar 31 2024,19:30,EEST/+0300,Omonia Nikosia,1-1,1-0,Paphos FC,,2024-03-31T16:30Z
+Championship,5,Sun Mar 31 2024,19:00,EEST/+0300,Aris Limassol,1-1,0-1,Anorthosis Famagusta,,2024-03-31T16:00Z
+Championship,5,Sun Mar 31 2024,17:00,EEST/+0300,AEK Larnaca,1-2,1-0,APOEL Nikosia,,2024-03-31T14:00Z
+Playoffs - Relegation,7,Wed Apr 3 2024,19:00,EEST/+0300,Karmiotissa Polemidion,0-0,0-0,AEL Limassol,,2024-04-03T16:00Z
+Playoffs - Relegation,7,Wed Apr 3 2024,17:00,EEST/+0300,Ethnikos Achna,1-2,1-1,Doxa Katokopias,,2024-04-03T14:00Z
+Playoffs - Relegation,7,Wed Apr 3 2024,19:00,EEST/+0300,Othellos Athienou,0-1,0-1,Apollon Limassol,,2024-04-03T16:00Z
+Playoffs - Relegation,7,Thu Apr 4 2024,19:00,EEST/+0300,AE Zakakiou,0-3,0-1,Nea Salamina,,2024-04-04T16:00Z
+Championship,6,Sat Apr 6 2024,19:30,EEST/+0300,AEK Larnaca,3-0,3-0,Paphos FC,,2024-04-06T16:30Z
+Championship,6,Sat Apr 6 2024,17:00,EEST/+0300,Omonia Nikosia,3-0,0-0,Aris Limassol,,2024-04-06T14:00Z
+Playoffs - Relegation,8,Sat Apr 6 2024,18:00,EEST/+0300,Doxa Katokopias,0-2,0-1,Apollon Limassol,,2024-04-06T15:00Z
+Championship,6,Sun Apr 7 2024,17:00,EEST/+0300,APOEL Nikosia,0-2,0-1,Anorthosis Famagusta,,2024-04-07T14:00Z
+Playoffs - Relegation,8,Sun Apr 7 2024,19:30,EEST/+0300,Karmiotissa Polemidion,1-4,1-0,Ethnikos Achna,,2024-04-07T16:30Z
+Playoffs - Relegation,8,Sun Apr 7 2024,19:00,EEST/+0300,Othellos Athienou,2-3,1-2,Nea Salamina,,2024-04-07T16:00Z
+Playoffs - Relegation,8,Mon Apr 8 2024,19:00,EEST/+0300,AE Zakakiou,1-5,0-3,AEL Limassol,,2024-04-08T16:00Z
+Playoffs - Relegation,9,Fri Apr 12 2024,19:00,EEST/+0300,AEL Limassol,3-2,3-0,Othellos Athienou,,2024-04-12T16:00Z
+Playoffs - Relegation,9,Sat Apr 13 2024,18:00,EEST/+0300,Karmiotissa Polemidion,2-1,1-0,Doxa Katokopias,,2024-04-13T15:00Z
+Playoffs - Relegation,9,Sat Apr 13 2024,17:00,EEST/+0300,Nea Salamina,0-2,0-1,Apollon Limassol,,2024-04-13T14:00Z
+Playoffs - Relegation,9,Sat Apr 13 2024,19:00,EEST/+0300,Ethnikos Achna,6-2,2-1,AE Zakakiou,,2024-04-13T16:00Z
+Championship,7,Sun Apr 14 2024,19:00,EEST/+0300,Aris Limassol,0-1,0-0,AEK Larnaca,,2024-04-14T16:00Z
+Championship,7,Sun Apr 14 2024,17:00,EEST/+0300,Paphos FC,0-2,0-0,APOEL Nikosia,,2024-04-14T14:00Z
+Championship,7,Sun Apr 14 2024,19:30,EEST/+0300,Anorthosis Famagusta,0-2,0-0,Omonia Nikosia,,2024-04-14T16:30Z
+Playoffs - Relegation,10,Fri Apr 19 2024,19:00,EEST/+0300,Othellos Athienou,2-1,2-0,Ethnikos Achna,,2024-04-19T16:00Z
+Playoffs - Relegation,10,Fri Apr 19 2024,19:00,EEST/+0300,Doxa Katokopias,1-0,0-0,Nea Salamina,,2024-04-19T16:00Z
+Playoffs - Relegation,10,Sat Apr 20 2024,19:00,EEST/+0300,AE Zakakiou,2-5,2-1,Karmiotissa Polemidion,,2024-04-20T16:00Z
+Playoffs - Relegation,10,Sat Apr 20 2024,19:30,EEST/+0300,Apollon Limassol,4-1,3-0,AEL Limassol,,2024-04-20T16:30Z
+Championship,8,Sun Apr 21 2024,17:00,EEST/+0300,Paphos FC,5-1,4-1,Anorthosis Famagusta,,2024-04-21T14:00Z
+Championship,8,Sun Apr 21 2024,19:00,EEST/+0300,AEK Larnaca,2-0,0-0,Omonia Nikosia,,2024-04-21T16:00Z
+Championship,8,Sun Apr 21 2024,19:30,EEST/+0300,APOEL Nikosia,2-0,2-0,Aris Limassol,,2024-04-21T16:30Z
+Playoffs - Relegation,11,Tue Apr 23 2024,19:00,EEST/+0300,AE Zakakiou,2-3,1-0,Doxa Katokopias,,2024-04-23T16:00Z
+Playoffs - Relegation,11,Tue Apr 23 2024,17:00,EEST/+0300,Ethnikos Achna,3-3,2-0,Apollon Limassol,,2024-04-23T14:00Z
+Playoffs - Relegation,11,Wed Apr 24 2024,18:00,EEST/+0300,Karmiotissa Polemidion,6-6,1-4,Othellos Athienou,,2024-04-24T15:00Z
+Playoffs - Relegation,11,Wed Apr 24 2024,19:00,EEST/+0300,AEL Limassol,5-4,2-0,Nea Salamina,,2024-04-24T16:00Z
+Playoffs - Relegation,12,Sat Apr 27 2024,19:00,EEST/+0300,Nea Salamina,2-1,0-1,Ethnikos Achna,,2024-04-27T16:00Z
+Championship,9,Sun Apr 28 2024,19:00,EEST/+0300,AEK Larnaca,1-1,1-0,Anorthosis Famagusta,,2024-04-28T16:00Z
+Championship,9,Sun Apr 28 2024,19:00,EEST/+0300,Aris Limassol,1-1,1-1,Paphos FC,,2024-04-28T16:00Z
+Championship,9,Sun Apr 28 2024,19:00,EEST/+0300,Omonia Nikosia,1-0,0-0,APOEL Nikosia,,2024-04-28T16:00Z
+Playoffs - Relegation,12,Mon Apr 29 2024,19:30,EEST/+0300,Doxa Katokopias,2-2,0-0,AEL Limassol,,2024-04-29T16:30Z
+Playoffs - Relegation,12,Mon Apr 29 2024,19:30,EEST/+0300,Apollon Limassol,0-0,0-0,Karmiotissa Polemidion,,2024-04-29T16:30Z
+Playoffs - Relegation,12,Mon Apr 29 2024,17:00,EEST/+0300,Othellos Athienou,3-1,1-1,AE Zakakiou,,2024-04-29T14:00Z
+Playoffs - Relegation,13,Tue May 7 2024,19:00,EEST/+0300,Ethnikos Achna,2-0,1-0,AEL Limassol,,2024-05-07T16:00Z
+Playoffs - Relegation,13,Tue May 7 2024,19:00,EEST/+0300,Othellos Athienou,3-0,2-0,Doxa Katokopias,,2024-05-07T16:00Z
+Playoffs - Relegation,13,Tue May 7 2024,19:00,EEST/+0300,Karmiotissa Polemidion,1-3,1-2,Nea Salamina,,2024-05-07T16:00Z
+Playoffs - Relegation,13,Wed May 8 2024,18:00,EEST/+0300,AE Zakakiou,1-5,1-3,Apollon Limassol,,2024-05-08T15:00Z
+Playoffs - Relegation,14,Fri May 10 2024,19:00,EEST/+0300,AEL Limassol,4-3,2-1,Karmiotissa Polemidion,,2024-05-10T16:00Z
+Playoffs - Relegation,14,Fri May 10 2024,17:00,EEST/+0300,Doxa Katokopias,6-3,2-1,Ethnikos Achna,,2024-05-10T14:00Z
+Championship,10,Sat May 11 2024,19:00,EEST/+0300,APOEL Nikosia,1-1,1-1,AEK Larnaca,,2024-05-11T16:00Z
+Championship,10,Sat May 11 2024,19:00,EEST/+0300,Anorthosis Famagusta,0-4,0-2,Aris Limassol,,2024-05-11T16:00Z
+Championship,10,Sat May 11 2024,19:00,EEST/+0300,Paphos FC,1-1,0-1,Omonia Nikosia,,2024-05-11T16:00Z
+Playoffs - Relegation,14,Sun May 12 2024,19:00,EEST/+0300,Apollon Limassol,4-1,1-0,Othellos Athienou,,2024-05-12T16:00Z
+Playoffs - Relegation,14,Sun May 12 2024,17:00,EEST/+0300,Nea Salamina,1-1,1-0,AE Zakakiou,,2024-05-12T14:00Z

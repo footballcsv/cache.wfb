@@ -1,307 +1,307 @@
-Round,Date,Time,Team 1,FT,HT,Team 2
-1,Fri Aug 11 2023,21:00,OGC Nice,1-1,1-0,Lille OSC
-1,Sat Aug 12 2023,21:00,Paris Saint-Germain,0-0,0-0,FC Lorient
-1,Sat Aug 12 2023,17:00,Olympique Marseille,2-1,1-1,Stade Reims
-1,Sun Aug 13 2023,13:00,Stade Brestois,3-2,1-2,RC Lens
-1,Sun Aug 13 2023,15:00,Clermont Foot 63,2-4,1-2,AS Monaco
-1,Sun Aug 13 2023,15:00,FC Nantes,1-2,1-0,Toulouse FC
-1,Sun Aug 13 2023,15:00,Montpellier HSC,2-2,0-1,Havre AC
-1,Sun Aug 13 2023,17:05,Stade Rennais,5-1,1-1,FC Metz
-1,Sun Aug 13 2023,20:45,RC Strasbourg,2-1,0-0,Olympique Lyon
-2,Fri Aug 18 2023,21:00,FC Metz,2-2,0-1,Olympique Marseille
-2,Sat Aug 19 2023,21:00,Toulouse FC,1-1,0-0,Paris Saint-Germain
-2,Sat Aug 19 2023,19:00,Olympique Lyon,1-4,0-2,Montpellier HSC
-2,Sun Aug 20 2023,15:00,Havre AC,1-2,0-1,Stade Brestois
-2,Sun Aug 20 2023,15:00,FC Lorient,1-1,0-0,OGC Nice
-2,Sun Aug 20 2023,15:00,Stade Reims,2-0,1-0,Clermont Foot 63
-2,Sun Aug 20 2023,19:00,AS Monaco,3-0,2-0,RC Strasbourg
-2,Sun Aug 20 2023,20:45,RC Lens,1-1,1-0,Stade Rennais
-2,Sun Aug 20 2023,13:00,Lille OSC,2-0,0-0,FC Nantes
-3,Fri Aug 25 2023,21:00,FC Nantes,3-3,2-1,AS Monaco
-3,Sat Aug 26 2023,21:00,Paris Saint-Germain,3-1,1-0,RC Lens
-3,Sat Aug 26 2023,19:00,Olympique Marseille,2-0,1-0,Stade Brestois
-3,Sun Aug 27 2023,13:00,Stade Rennais,2-2,2-1,Havre AC
-3,Sun Aug 27 2023,15:00,Clermont Foot 63,0-1,0-0,FC Metz
-3,Sun Aug 27 2023,15:00,Montpellier HSC,1-3,1-2,Stade Reims
-3,Sun Aug 27 2023,15:00,RC Strasbourg,2-0,0-0,Toulouse FC
-3,Sun Aug 27 2023,17:05,FC Lorient,4-1,2-0,Lille OSC
-3,Sun Aug 27 2023,20:45,OGC Nice,0-0,0-0,Olympique Lyon
-4,Fri Sep 1 2023,21:00,FC Nantes,1-1,1-1,Olympique Marseille
-4,Sat Sep 2 2023,17:00,Stade Brestois,0-0,0-0,Stade Rennais
-4,Sat Sep 2 2023,21:00,AS Monaco,3-0,2-0,RC Lens
-4,Sun Sep 3 2023,15:00,Havre AC,3-0,0-0,FC Lorient
-4,Sun Sep 3 2023,15:00,FC Metz,2-2,1-1,Stade Reims
-4,Sun Sep 3 2023,15:00,Lille OSC,1-0,1-0,Montpellier HSC
-4,Sun Sep 3 2023,17:05,OGC Nice,2-0,1-0,RC Strasbourg
-4,Sun Sep 3 2023,20:45,Olympique Lyon,1-4,0-4,Paris Saint-Germain
-4,Sun Sep 3 2023,13:00,Toulouse FC,2-2,2-1,Clermont Foot 63
-5,Fri Sep 15 2023,21:00,Paris Saint-Germain,2-3,1-1,OGC Nice
-5,Sat Sep 16 2023,17:00,Stade Rennais,2-2,0-1,Lille OSC
-5,Sat Sep 16 2023,21:00,RC Lens,0-1,0-1,FC Metz
-5,Sun Sep 17 2023,13:00,FC Lorient,2-2,1-1,AS Monaco
-5,Sun Sep 17 2023,15:00,Clermont Foot 63,0-1,0-0,FC Nantes
-5,Sun Sep 17 2023,15:00,RC Strasbourg,2-2,0-2,Montpellier HSC
-5,Sun Sep 17 2023,15:00,Stade Reims,1-2,1-0,Stade Brestois
-5,Sun Sep 17 2023,17:05,Olympique Marseille,0-0,0-0,Toulouse FC
-5,Sun Sep 17 2023,20:45,Olympique Lyon,0-0,0-0,Havre AC
-6,Fri Sep 22 2023,21:00,AS Monaco,0-1,0-0,OGC Nice
-6,Sat Sep 23 2023,21:00,Stade Brestois,1-0,0-0,Olympique Lyon
-6,Sat Sep 23 2023,17:00,FC Nantes,5-3,1-1,FC Lorient
-6,Sun Sep 24 2023,13:00,FC Metz,0-1,0-0,RC Strasbourg
-6,Sun Sep 24 2023,15:00,Havre AC,2-1,2-1,Clermont Foot 63
-6,Sun Sep 24 2023,15:00,RC Lens,2-1,1-1,Toulouse FC
-6,Sun Sep 24 2023,17:05,Montpellier HSC,0-0,0-0,Stade Rennais
-6,Sun Sep 24 2023,20:45,Paris Saint-Germain,4-0,2-0,Olympique Marseille
-6,Tue Sep 26 2023,21:00,Lille OSC,1-2,0-2,Stade Reims
-7,Fri Sep 29 2023,21:00,RC Strasbourg,0-1,0-1,RC Lens
-7,Sat Sep 30 2023,21:00,AS Monaco,3-2,2-2,Olympique Marseille
-7,Sat Sep 30 2023,17:00,Clermont Foot 63,0-0,0-0,Paris Saint-Germain
-7,Sun Oct 1 2023,13:00,Stade Reims,2-0,1-0,Olympique Lyon
-7,Sun Oct 1 2023,15:00,Havre AC,0-2,0-1,Lille OSC
-7,Sun Oct 1 2023,15:00,Toulouse FC,3-0,2-0,FC Metz
-7,Sun Oct 1 2023,15:00,OGC Nice,0-0,0-0,Stade Brestois
-7,Sun Oct 1 2023,17:05,FC Lorient,0-3,0-1,Montpellier HSC
-7,Sun Oct 1 2023,20:45,Stade Rennais,3-1,1-1,FC Nantes
-8,Fri Oct 6 2023,21:00,RC Strasbourg,1-2,0-0,FC Nantes
-8,Sat Oct 7 2023,21:00,Stade Reims,1-3,0-1,AS Monaco
-8,Sat Oct 7 2023,17:00,FC Metz,0-1,0-1,OGC Nice
-8,Sun Oct 8 2023,13:00,Olympique Marseille,3-0,2-0,Havre AC
-8,Sun Oct 8 2023,15:00,Olympique Lyon,3-3,3-1,FC Lorient
-8,Sun Oct 8 2023,15:00,Stade Brestois,1-1,0-1,Toulouse FC
-8,Sun Oct 8 2023,17:05,RC Lens,1-1,0-1,Lille OSC
-8,Sun Oct 8 2023,21:00,Stade Rennais,1-3,0-2,Paris Saint-Germain
-9,Fri Oct 20 2023,21:00,Havre AC,0-0,0-0,RC Lens
-9,Sat Oct 21 2023,17:00,Paris Saint-Germain,3-0,2-0,RC Strasbourg
-9,Sat Oct 21 2023,21:00,OGC Nice,1-0,0-0,Olympique Marseille
-9,Sun Oct 22 2023,20:45,Olympique Lyon,1-2,0-2,Clermont Foot 63
-9,Sun Oct 22 2023,13:00,FC Lorient,2-1,2-1,Stade Rennais
-9,Sun Oct 22 2023,15:00,FC Nantes,2-0,1-0,Montpellier HSC
-9,Sun Oct 22 2023,15:00,Toulouse FC,1-1,0-0,Stade Reims
-9,Sun Oct 22 2023,15:00,Lille OSC,1-0,1-0,Stade Brestois
-9,Sun Oct 22 2023,17:05,AS Monaco,2-1,1-1,FC Metz
-10,Fri Oct 27 2023,21:00,Clermont Foot 63,0-1,0-0,OGC Nice
-10,Sat Oct 28 2023,17:00,Stade Reims,1-0,0-0,FC Lorient
-10,Sat Oct 28 2023,21:00,RC Lens,4-0,1-0,FC Nantes
-10,Sun Oct 29 2023,15:00,Montpellier HSC,3-0,1-0,Toulouse FC
-10,Sun Oct 29 2023,13:00,Stade Brestois,2-3,1-2,Paris Saint-Germain
-10,Sun Oct 29 2023,15:00,FC Metz,0-0,0-0,Havre AC
-10,Sun Oct 29 2023,17:05,Stade Rennais,1-1,1-0,RC Strasbourg
-10,Sun Oct 29 2023,15:00,Lille OSC,2-0,2-0,AS Monaco
-11,Fri Nov 3 2023,21:00,Paris Saint-Germain,3-0,1-0,Montpellier HSC
-11,Sat Nov 4 2023,17:00,FC Lorient,0-0,0-0,RC Lens
-11,Sat Nov 4 2023,21:00,Olympique Marseille,0-0,0-0,Lille OSC
-11,Sun Nov 5 2023,17:05,AS Monaco,2-0,1-0,Stade Brestois
-11,Sun Nov 5 2023,20:45,OGC Nice,2-0,1-0,Stade Rennais
-11,Sun Nov 5 2023,13:00,Olympique Lyon,1-1,0-0,FC Metz
-11,Sun Nov 5 2023,15:00,FC Nantes,0-1,0-0,Stade Reims
-11,Sun Nov 5 2023,15:00,Toulouse FC,1-2,0-0,Havre AC
-11,Sun Nov 5 2023,15:00,RC Strasbourg,0-0,0-0,Clermont Foot 63
-12,Fri Nov 10 2023,21:00,Montpellier HSC,0-0,0-0,OGC Nice
-12,Sat Nov 11 2023,17:00,Stade Reims,0-3,0-1,Paris Saint-Germain
-12,Sat Nov 11 2023,21:00,Havre AC,0-0,0-0,AS Monaco
-12,Sun Nov 12 2023,20:45,RC Lens,1-0,0-0,Olympique Marseille
-12,Sun Nov 12 2023,15:00,Lille OSC,1-1,1-0,Toulouse FC
-12,Sun Nov 12 2023,15:00,Clermont Foot 63,1-0,0-0,FC Lorient
-12,Sun Nov 12 2023,15:00,FC Metz,3-1,2-1,FC Nantes
-12,Sun Nov 12 2023,17:05,Stade Rennais,0-1,0-0,Olympique Lyon
-13,Fri Nov 24 2023,21:00,Paris Saint-Germain,5-2,2-1,AS Monaco
-13,Sat Nov 25 2023,17:00,Clermont Foot 63,0-3,0-1,RC Lens
-13,Sat Nov 25 2023,21:00,RC Strasbourg,1-1,1-1,Olympique Marseille
-13,Sun Nov 26 2023,15:00,FC Nantes,0-0,0-0,Havre AC
-13,Sun Nov 26 2023,20:45,Olympique Lyon,0-2,0-2,Lille OSC
-13,Sun Nov 26 2023,17:05,Stade Rennais,3-1,1-1,Stade Reims
-13,Sun Nov 26 2023,13:00,OGC Nice,1-0,0-0,Toulouse FC
-13,Sun Nov 26 2023,15:00,FC Lorient,2-3,2-1,FC Metz
-13,Sun Nov 26 2023,15:00,Montpellier HSC,1-3,0-1,Stade Brestois
-8,Wed Nov 29 2023,19:00,Montpellier HSC,1-1,0-1,Clermont Foot 63
-14,Fri Dec 1 2023,21:00,Stade Reims,2-1,2-0,RC Strasbourg
-14,Sat Dec 2 2023,17:00,RC Lens,3-2,1-1,Olympique Lyon
-14,Sat Dec 2 2023,21:00,FC Nantes,1-0,1-0,OGC Nice
-14,Sun Dec 3 2023,17:05,Lille OSC,2-0,2-0,FC Metz
-14,Sun Dec 3 2023,15:00,Toulouse FC,1-1,0-0,FC Lorient
-14,Sun Dec 3 2023,13:00,Havre AC,0-2,0-1,Paris Saint-Germain
-14,Sun Dec 3 2023,15:00,AS Monaco,2-0,1-0,Montpellier HSC
-14,Sun Dec 3 2023,15:00,Stade Brestois,3-0,2-0,Clermont Foot 63
-14,Sun Dec 3 2023,20:45,Olympique Marseille,2-0,1-0,Stade Rennais
-10,Wed Dec 6 2023,21:00,Olympique Marseille,3-0,2-0,Olympique Lyon
-12,Thu Dec 7 2023,20:30,Stade Brestois,1-1,1-0,RC Strasbourg
-15,Fri Dec 8 2023,21:00,Montpellier HSC,0-0,0-0,RC Lens
-15,Sat Dec 9 2023,21:00,Paris Saint-Germain,2-1,1-0,FC Nantes
-15,Sat Dec 9 2023,17:00,Stade Rennais,1-2,0-0,AS Monaco
-15,Sun Dec 10 2023,13:00,OGC Nice,2-1,0-0,Stade Reims
-15,Sun Dec 10 2023,15:00,Clermont Foot 63,0-0,0-0,Lille OSC
-15,Sun Dec 10 2023,15:00,FC Metz,0-1,0-0,Stade Brestois
-15,Sun Dec 10 2023,15:00,RC Strasbourg,2-1,1-0,Havre AC
-15,Sun Dec 10 2023,17:05,Olympique Lyon,3-0,2-0,Toulouse FC
-15,Sun Dec 10 2023,20:45,FC Lorient,2-4,1-4,Olympique Marseille
-16,Fri Dec 15 2023,21:00,AS Monaco,0-1,0-0,Olympique Lyon
-16,Sat Dec 16 2023,21:00,RC Lens,2-0,1-0,Stade Reims
-16,Sat Dec 16 2023,17:00,Havre AC,3-1,2-0,OGC Nice
-16,Sun Dec 17 2023,13:00,FC Nantes,0-2,0-0,Stade Brestois
-16,Sun Dec 17 2023,15:00,FC Lorient,1-2,0-1,RC Strasbourg
-16,Sun Dec 17 2023,15:00,FC Metz,0-1,0-1,Montpellier HSC
-16,Sun Dec 17 2023,15:00,Toulouse FC,0-0,0-0,Stade Rennais
-16,Sun Dec 17 2023,17:05,Olympique Marseille,2-1,2-0,Clermont Foot 63
-16,Sun Dec 17 2023,20:45,Lille OSC,1-1,0-0,Paris Saint-Germain
-17,Wed Dec 20 2023,21:00,Clermont Foot 63,1-3,1-0,Stade Rennais
-17,Wed Dec 20 2023,21:00,Toulouse FC,1-2,1-2,AS Monaco
-17,Wed Dec 20 2023,21:00,Montpellier HSC,1-1,1-0,Olympique Marseille
-17,Wed Dec 20 2023,21:00,OGC Nice,2-0,0-0,RC Lens
-17,Wed Dec 20 2023,21:00,Olympique Lyon,1-0,0-0,FC Nantes
-17,Wed Dec 20 2023,21:00,Paris Saint-Germain,3-1,0-0,FC Metz
-17,Wed Dec 20 2023,21:00,RC Strasbourg,2-1,1-1,Lille OSC
-17,Wed Dec 20 2023,21:00,Stade Brestois,4-0,4-0,FC Lorient
-17,Wed Dec 20 2023,21:00,Stade Reims,1-0,1-0,Havre AC
-18,Fri Jan 12 2024,21:00,Olympique Marseille,1-1,1-0,RC Strasbourg
-18,Sat Jan 13 2024,21:00,Stade Rennais,2-0,1-0,OGC Nice
-18,Sat Jan 13 2024,17:00,AS Monaco,1-3,0-1,Stade Reims
-18,Sun Jan 14 2024,13:00,Lille OSC,3-0,1-0,FC Lorient
-18,Sun Jan 14 2024,15:00,FC Metz,0-1,0-1,Toulouse FC
-18,Sun Jan 14 2024,15:00,FC Nantes,1-2,0-1,Clermont Foot 63
-18,Sun Jan 14 2024,15:00,Stade Brestois,2-0,0-0,Montpellier HSC
-18,Sun Jan 14 2024,17:05,Havre AC,3-1,1-0,Olympique Lyon
-18,Sun Jan 14 2024,20:45,RC Lens,0-2,0-1,Paris Saint-Germain
-19,Fri Jan 26 2024,21:00,Olympique Lyon,2-3,0-3,Stade Rennais
-19,Sat Jan 27 2024,17:00,OGC Nice,1-0,0-0,FC Metz
-19,Sat Jan 27 2024,21:00,Olympique Marseille,2-2,1-2,AS Monaco
-19,Sun Jan 28 2024,15:00,Clermont Foot 63,1-1,0-1,RC Strasbourg
-19,Sun Jan 28 2024,15:00,FC Lorient,3-3,1-1,Havre AC
-19,Sun Jan 28 2024,15:00,Stade Reims,0-0,0-0,FC Nantes
-19,Sun Jan 28 2024,17:05,Toulouse FC,0-2,0-1,RC Lens
-19,Sun Jan 28 2024,20:45,Paris Saint-Germain,2-2,2-0,Stade Brestois
-19,Sun Jan 28 2024,13:00,Montpellier HSC,0-0,0-0,Lille OSC
-20,Fri Feb 2 2024,21:00,RC Strasbourg,1-2,0-1,Paris Saint-Germain
-20,Sat Feb 3 2024,17:00,Stade Rennais,2-1,1-0,Montpellier HSC
-20,Sat Feb 3 2024,21:00,FC Nantes,0-1,0-0,RC Lens
-20,Sun Feb 4 2024,15:00,FC Metz,1-2,1-1,FC Lorient
-20,Sun Feb 4 2024,15:00,Lille OSC,4-0,4-0,Clermont Foot 63
-20,Sun Feb 4 2024,15:00,Stade Reims,2-3,0-3,Toulouse FC
-20,Sun Feb 4 2024,17:05,Stade Brestois,0-0,0-0,OGC Nice
-20,Sun Feb 4 2024,20:45,Olympique Lyon,1-0,1-0,Olympique Marseille
-20,Sun Feb 4 2024,13:00,AS Monaco,1-1,0-0,Havre AC
-21,Fri Feb 9 2024,21:00,Olympique Marseille,1-1,0-0,FC Metz
-21,Sat Feb 10 2024,17:00,RC Lens,3-1,2-1,RC Strasbourg
-21,Sat Feb 10 2024,21:00,Paris Saint-Germain,3-1,2-1,Lille OSC
-21,Sun Feb 11 2024,15:00,Clermont Foot 63,1-1,0-0,Stade Brestois
-21,Sun Feb 11 2024,15:00,FC Lorient,2-0,0-0,Stade Reims
-21,Sun Feb 11 2024,15:00,Toulouse FC,1-2,0-1,FC Nantes
-21,Sun Feb 11 2024,17:05,Montpellier HSC,1-2,1-0,Olympique Lyon
-21,Sun Feb 11 2024,20:45,OGC Nice,2-3,1-1,AS Monaco
-21,Sun Feb 11 2024,13:00,Havre AC,0-1,0-0,Stade Rennais
-22,Fri Feb 16 2024,21:00,Olympique Lyon,1-0,1-0,OGC Nice
-22,Sat Feb 17 2024,17:00,Lille OSC,3-0,2-0,Havre AC
-22,Sat Feb 17 2024,21:00,FC Nantes,0-2,0-0,Paris Saint-Germain
-22,Sun Feb 18 2024,13:00,RC Strasbourg,1-3,0-2,FC Lorient
-22,Sun Feb 18 2024,15:00,AS Monaco,1-2,0-1,Toulouse FC
-22,Sun Feb 18 2024,15:00,Montpellier HSC,3-0,1-0,FC Metz
-22,Sun Feb 18 2024,15:00,Stade Rennais,3-1,1-0,Clermont Foot 63
-22,Sun Feb 18 2024,17:05,Stade Reims,1-1,1-1,RC Lens
-22,Sun Feb 18 2024,20:45,Stade Brestois,1-0,0-0,Olympique Marseille
-23,Fri Feb 23 2024,21:00,FC Metz,1-2,1-1,Olympique Lyon
-23,Sat Feb 24 2024,21:00,RC Strasbourg,0-3,0-2,Stade Brestois
-23,Sat Feb 24 2024,17:00,FC Lorient,0-1,0-0,FC Nantes
-23,Sun Feb 25 2024,13:00,RC Lens,2-3,1-2,AS Monaco
-23,Sun Feb 25 2024,15:00,Havre AC,1-2,0-0,Stade Reims
-23,Sun Feb 25 2024,15:00,Toulouse FC,3-1,0-1,Lille OSC
-23,Sun Feb 25 2024,15:00,OGC Nice,0-0,0-0,Clermont Foot 63
-23,Sun Feb 25 2024,17:05,Paris Saint-Germain,1-1,0-1,Stade Rennais
-23,Sun Feb 25 2024,20:45,Olympique Marseille,4-1,2-1,Montpellier HSC
-24,Fri Mar 1 2024,21:00,AS Monaco,0-0,0-0,Paris Saint-Germain
-24,Sat Mar 2 2024,21:00,Clermont Foot 63,1-5,0-1,Olympique Marseille
-24,Sat Mar 2 2024,17:00,Stade Reims,0-1,0-0,Lille OSC
-24,Sun Mar 3 2024,13:00,Toulouse FC,2-1,0-1,OGC Nice
-24,Sun Mar 3 2024,15:00,FC Nantes,0-2,0-0,FC Metz
-24,Sun Mar 3 2024,15:00,Montpellier HSC,2-2,0-0,RC Strasbourg
-24,Sun Mar 3 2024,15:00,Stade Brestois,1-0,1-0,Havre AC
-24,Sun Mar 3 2024,17:05,Stade Rennais,1-2,0-0,FC Lorient
-24,Sun Mar 3 2024,20:45,Olympique Lyon,0-3,0-1,RC Lens
-25,Fri Mar 8 2024,21:00,OGC Nice,1-2,1-2,Montpellier HSC
-25,Sat Mar 9 2024,21:00,RC Lens,1-0,1-0,Stade Brestois
-25,Sat Mar 9 2024,17:00,FC Lorient,0-2,0-0,Olympique Lyon
-25,Sun Mar 10 2024,13:00,Paris Saint-Germain,2-2,2-2,Stade Reims
-25,Sun Mar 10 2024,15:00,Havre AC,1-0,0-0,Toulouse FC
-25,Sun Mar 10 2024,15:00,FC Metz,1-0,1-0,Clermont Foot 63
-25,Sun Mar 10 2024,15:00,RC Strasbourg,0-1,0-0,AS Monaco
-25,Sun Mar 10 2024,17:00,Lille OSC,2-2,0-2,Stade Rennais
-25,Sun Mar 10 2024,20:45,Olympique Marseille,2-0,1-0,FC Nantes
-26,Fri Mar 15 2024,21:00,Toulouse FC,2-3,0-1,Olympique Lyon
-26,Sat Mar 16 2024,21:00,RC Lens,1-3,0-1,OGC Nice
-26,Sat Mar 16 2024,17:00,FC Nantes,1-3,1-1,RC Strasbourg
-26,Sun Mar 17 2024,13:00,Stade Brestois,1-1,0-0,Lille OSC
-26,Sun Mar 17 2024,15:00,AS Monaco,2-2,1-1,FC Lorient
-26,Sun Mar 17 2024,15:00,Clermont Foot 63,2-1,2-1,Havre AC
-26,Sun Mar 17 2024,15:00,Stade Reims,2-1,1-1,FC Metz
-26,Sun Mar 17 2024,17:05,Stade Rennais,2-0,1-0,Olympique Marseille
-26,Sun Mar 17 2024,20:45,Montpellier HSC,2-6,2-2,Paris Saint-Germain
-27,Fri Mar 29 2024,21:00,Lille OSC,2-1,1-0,RC Lens
-27,Sat Mar 30 2024,21:00,Olympique Lyon,1-1,0-0,Stade Reims
-27,Sat Mar 30 2024,17:00,FC Metz,2-5,0-3,AS Monaco
-27,Sun Mar 31 2024,13:00,FC Lorient,0-1,0-0,Stade Brestois
-27,Sun Mar 31 2024,15:00,Havre AC,0-2,0-0,Montpellier HSC
-27,Sun Mar 31 2024,15:00,Clermont Foot 63,0-3,0-1,Toulouse FC
-27,Sun Mar 31 2024,15:00,OGC Nice,1-2,0-1,FC Nantes
-27,Sun Mar 31 2024,17:05,RC Strasbourg,2-0,0-0,Stade Rennais
-27,Sun Mar 31 2024,20:45,Olympique Marseille,0-2,0-0,Paris Saint-Germain
-28,Fri Apr 5 2024,21:00,Lille OSC,3-1,0-0,Olympique Marseille
-28,Sat Apr 6 2024,21:00,Paris Saint-Germain,1-1,0-1,Clermont Foot 63
-28,Sat Apr 6 2024,17:00,RC Lens,1-1,0-0,Havre AC
-28,Sun Apr 7 2024,15:00,Toulouse FC,0-0,0-0,RC Strasbourg
-28,Sun Apr 7 2024,15:00,Montpellier HSC,2-0,0-0,FC Lorient
-28,Sun Apr 7 2024,15:00,Stade Reims,0-0,0-0,OGC Nice
-28,Sun Apr 7 2024,17:05,AS Monaco,1-0,1-0,Stade Rennais
-28,Sun Apr 7 2024,20:45,FC Nantes,1-3,1-0,Olympique Lyon
-28,Sun Apr 7 2024,13:00,Stade Brestois,4-3,3-1,FC Metz
-29,Fri Apr 12 2024,21:00,FC Metz,2-1,2-1,RC Lens
-29,Sat Apr 13 2024,21:00,Stade Rennais,1-2,1-2,Toulouse FC
-29,Sat Apr 13 2024,17:00,RC Strasbourg,3-1,1-1,Stade Reims
-29,Sun Apr 14 2024,15:00,Clermont Foot 63,1-1,1-0,Montpellier HSC
-29,Sun Apr 14 2024,20:45,Olympique Lyon,4-3,1-0,Stade Brestois
-29,Sun Apr 14 2024,13:00,Havre AC,0-1,0-0,FC Nantes
-30,Fri Apr 19 2024,21:00,OGC Nice,3-0,1-0,FC Lorient
-30,Sat Apr 20 2024,17:00,FC Nantes,0-3,0-0,Stade Rennais
-30,Sat Apr 20 2024,21:00,RC Lens,1-0,1-0,Clermont Foot 63
-30,Sun Apr 21 2024,17:05,Stade Brestois,0-2,0-1,AS Monaco
-30,Sun Apr 21 2024,19:15,Toulouse FC,2-2,1-1,Olympique Marseille
-30,Sun Apr 21 2024,15:00,Havre AC,0-1,0-0,FC Metz
-30,Sun Apr 21 2024,21:00,Paris Saint-Germain,4-1,4-1,Olympique Lyon
-30,Sun Apr 21 2024,15:00,Lille OSC,1-0,1-0,RC Strasbourg
-30,Sun Apr 21 2024,15:00,Stade Reims,1-2,0-1,Montpellier HSC
-29,Wed Apr 24 2024,21:00,Olympique Marseille,2-2,1-1,OGC Nice
-29,Wed Apr 24 2024,21:00,AS Monaco,1-0,0-0,Lille OSC
-29,Wed Apr 24 2024,19:00,FC Lorient,1-4,0-2,Paris Saint-Germain
-31,Fri Apr 26 2024,21:00,Montpellier HSC,1-1,1-1,FC Nantes
-31,Sat Apr 27 2024,21:00,Paris Saint-Germain,3-3,1-2,Havre AC
-31,Sun Apr 28 2024,13:00,FC Metz,1-2,1-2,Lille OSC
-31,Sun Apr 28 2024,15:00,Clermont Foot 63,4-1,1-1,Stade Reims
-31,Sun Apr 28 2024,15:00,FC Lorient,1-2,1-0,Toulouse FC
-31,Sun Apr 28 2024,15:00,RC Strasbourg,1-3,1-1,OGC Nice
-31,Sun Apr 28 2024,17:05,Stade Rennais,4-5,2-1,Stade Brestois
-31,Sun Apr 28 2024,19:00,Olympique Lyon,3-2,2-1,AS Monaco
-31,Sun Apr 28 2024,21:00,Olympique Marseille,2-1,1-0,RC Lens
-32,Fri May 3 2024,21:00,RC Lens,2-0,0-0,FC Lorient
-32,Fri May 3 2024,19:00,Toulouse FC,1-2,1-1,Montpellier HSC
-32,Sat May 4 2024,17:00,AS Monaco,4-1,2-1,Clermont Foot 63
-32,Sat May 4 2024,19:00,FC Metz,2-3,2-1,Stade Rennais
-32,Sat May 4 2024,21:00,Stade Brestois,0-0,0-0,FC Nantes
-32,Sat May 4 2024,15:00,Havre AC,3-1,1-0,RC Strasbourg
-32,Mon May 6 2024,21:00,Lille OSC,3-4,2-0,Olympique Lyon
-33,Fri May 10 2024,21:00,Stade Brestois,1-1,1-1,Stade Reims
-33,Fri May 10 2024,21:00,OGC Nice,1-0,1-0,Havre AC
-33,Sun May 12 2024,21:00,Montpellier HSC,0-2,0-0,AS Monaco
-33,Sun May 12 2024,21:00,RC Strasbourg,2-1,0-0,FC Metz
-33,Sun May 12 2024,21:00,Clermont Foot 63,0-1,0-0,Olympique Lyon
-33,Sun May 12 2024,21:00,FC Nantes,1-2,0-2,Lille OSC
-33,Sun May 12 2024,21:00,Stade Rennais,1-1,0-0,RC Lens
-33,Sun May 12 2024,21:00,Olympique Marseille,3-1,2-1,FC Lorient
-33,Sun May 12 2024,21:00,Paris Saint-Germain,1-3,1-1,Toulouse FC
-32,Wed May 15 2024,21:00,Stade Reims,1-0,1-0,Olympique Marseille
-32,Wed May 15 2024,21:00,OGC Nice,1-2,1-2,Paris Saint-Germain
-34,Sun May 19 2024,21:00,Havre AC,1-2,0-0,Olympique Marseille
-34,Sun May 19 2024,21:00,AS Monaco,4-0,3-0,FC Nantes
-34,Sun May 19 2024,21:00,FC Lorient,5-0,2-0,Clermont Foot 63
-34,Sun May 19 2024,21:00,FC Metz,0-2,0-2,Paris Saint-Germain
-34,Sun May 19 2024,21:00,Toulouse FC,0-3,0-0,Stade Brestois
-34,Sun May 19 2024,21:00,Olympique Lyon,2-1,1-0,RC Strasbourg
-34,Sun May 19 2024,21:00,Lille OSC,2-2,0-1,OGC Nice
-34,Sun May 19 2024,21:00,RC Lens,2-2,2-0,Montpellier HSC
-34,Sun May 19 2024,21:00,Stade Reims,2-1,0-0,Stade Rennais
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 11 2023,21:00,CEST/+0200,OGC Nice,1-1,1-0,Lille OSC,2023-08-11T19:00Z
+1,Sat Aug 12 2023,21:00,CEST/+0200,Paris Saint-Germain,0-0,0-0,FC Lorient,2023-08-12T19:00Z
+1,Sat Aug 12 2023,17:00,CEST/+0200,Olympique Marseille,2-1,1-1,Stade de Reims,2023-08-12T15:00Z
+1,Sun Aug 13 2023,13:00,CEST/+0200,Stade Brestois 29,3-2,1-2,RC Lens,2023-08-13T11:00Z
+1,Sun Aug 13 2023,15:00,CEST/+0200,Clermont Foot 63,2-4,1-2,AS Monaco,2023-08-13T13:00Z
+1,Sun Aug 13 2023,15:00,CEST/+0200,FC Nantes,1-2,1-0,Toulouse FC,2023-08-13T13:00Z
+1,Sun Aug 13 2023,15:00,CEST/+0200,Montpellier HSC,2-2,0-1,Havre AC,2023-08-13T13:00Z
+1,Sun Aug 13 2023,17:05,CEST/+0200,Stade Rennais,5-1,1-1,FC Metz,2023-08-13T15:05Z
+1,Sun Aug 13 2023,20:45,CEST/+0200,RC Strasbourg,2-1,0-0,Olympique Lyonnais,2023-08-13T18:45Z
+2,Fri Aug 18 2023,21:00,CEST/+0200,FC Metz,2-2,0-1,Olympique Marseille,2023-08-18T19:00Z
+2,Sat Aug 19 2023,21:00,CEST/+0200,Toulouse FC,1-1,0-0,Paris Saint-Germain,2023-08-19T19:00Z
+2,Sat Aug 19 2023,19:00,CEST/+0200,Olympique Lyonnais,1-4,0-2,Montpellier HSC,2023-08-19T17:00Z
+2,Sun Aug 20 2023,15:00,CEST/+0200,Havre AC,1-2,0-1,Stade Brestois 29,2023-08-20T13:00Z
+2,Sun Aug 20 2023,15:00,CEST/+0200,FC Lorient,1-1,0-0,OGC Nice,2023-08-20T13:00Z
+2,Sun Aug 20 2023,15:00,CEST/+0200,Stade de Reims,2-0,1-0,Clermont Foot 63,2023-08-20T13:00Z
+2,Sun Aug 20 2023,19:00,CEST/+0200,AS Monaco,3-0,2-0,RC Strasbourg,2023-08-20T17:00Z
+2,Sun Aug 20 2023,20:45,CEST/+0200,RC Lens,1-1,1-0,Stade Rennais,2023-08-20T18:45Z
+2,Sun Aug 20 2023,13:00,CEST/+0200,Lille OSC,2-0,0-0,FC Nantes,2023-08-20T11:00Z
+3,Fri Aug 25 2023,21:00,CEST/+0200,FC Nantes,3-3,2-1,AS Monaco,2023-08-25T19:00Z
+3,Sat Aug 26 2023,21:00,CEST/+0200,Paris Saint-Germain,3-1,1-0,RC Lens,2023-08-26T19:00Z
+3,Sat Aug 26 2023,19:00,CEST/+0200,Olympique Marseille,2-0,1-0,Stade Brestois 29,2023-08-26T17:00Z
+3,Sun Aug 27 2023,13:00,CEST/+0200,Stade Rennais,2-2,2-1,Havre AC,2023-08-27T11:00Z
+3,Sun Aug 27 2023,15:00,CEST/+0200,Clermont Foot 63,0-1,0-0,FC Metz,2023-08-27T13:00Z
+3,Sun Aug 27 2023,15:00,CEST/+0200,Montpellier HSC,1-3,1-2,Stade de Reims,2023-08-27T13:00Z
+3,Sun Aug 27 2023,15:00,CEST/+0200,RC Strasbourg,2-0,0-0,Toulouse FC,2023-08-27T13:00Z
+3,Sun Aug 27 2023,17:05,CEST/+0200,FC Lorient,4-1,2-0,Lille OSC,2023-08-27T15:05Z
+3,Sun Aug 27 2023,20:45,CEST/+0200,OGC Nice,0-0,0-0,Olympique Lyonnais,2023-08-27T18:45Z
+4,Fri Sep 1 2023,21:00,CEST/+0200,FC Nantes,1-1,1-1,Olympique Marseille,2023-09-01T19:00Z
+4,Sat Sep 2 2023,17:00,CEST/+0200,Stade Brestois 29,0-0,0-0,Stade Rennais,2023-09-02T15:00Z
+4,Sat Sep 2 2023,21:00,CEST/+0200,AS Monaco,3-0,2-0,RC Lens,2023-09-02T19:00Z
+4,Sun Sep 3 2023,15:00,CEST/+0200,Havre AC,3-0,0-0,FC Lorient,2023-09-03T13:00Z
+4,Sun Sep 3 2023,15:00,CEST/+0200,FC Metz,2-2,1-1,Stade de Reims,2023-09-03T13:00Z
+4,Sun Sep 3 2023,15:00,CEST/+0200,Lille OSC,1-0,1-0,Montpellier HSC,2023-09-03T13:00Z
+4,Sun Sep 3 2023,17:05,CEST/+0200,OGC Nice,2-0,1-0,RC Strasbourg,2023-09-03T15:05Z
+4,Sun Sep 3 2023,20:45,CEST/+0200,Olympique Lyonnais,1-4,0-4,Paris Saint-Germain,2023-09-03T18:45Z
+4,Sun Sep 3 2023,13:00,CEST/+0200,Toulouse FC,2-2,2-1,Clermont Foot 63,2023-09-03T11:00Z
+5,Fri Sep 15 2023,21:00,CEST/+0200,Paris Saint-Germain,2-3,1-1,OGC Nice,2023-09-15T19:00Z
+5,Sat Sep 16 2023,17:00,CEST/+0200,Stade Rennais,2-2,0-1,Lille OSC,2023-09-16T15:00Z
+5,Sat Sep 16 2023,21:00,CEST/+0200,RC Lens,0-1,0-1,FC Metz,2023-09-16T19:00Z
+5,Sun Sep 17 2023,13:00,CEST/+0200,FC Lorient,2-2,1-1,AS Monaco,2023-09-17T11:00Z
+5,Sun Sep 17 2023,15:00,CEST/+0200,Clermont Foot 63,0-1,0-0,FC Nantes,2023-09-17T13:00Z
+5,Sun Sep 17 2023,15:00,CEST/+0200,RC Strasbourg,2-2,0-2,Montpellier HSC,2023-09-17T13:00Z
+5,Sun Sep 17 2023,15:00,CEST/+0200,Stade de Reims,1-2,1-0,Stade Brestois 29,2023-09-17T13:00Z
+5,Sun Sep 17 2023,17:05,CEST/+0200,Olympique Marseille,0-0,0-0,Toulouse FC,2023-09-17T15:05Z
+5,Sun Sep 17 2023,20:45,CEST/+0200,Olympique Lyonnais,0-0,0-0,Havre AC,2023-09-17T18:45Z
+6,Fri Sep 22 2023,21:00,CEST/+0200,AS Monaco,0-1,0-0,OGC Nice,2023-09-22T19:00Z
+6,Sat Sep 23 2023,21:00,CEST/+0200,Stade Brestois 29,1-0,0-0,Olympique Lyonnais,2023-09-23T19:00Z
+6,Sat Sep 23 2023,17:00,CEST/+0200,FC Nantes,5-3,1-1,FC Lorient,2023-09-23T15:00Z
+6,Sun Sep 24 2023,13:00,CEST/+0200,FC Metz,0-1,0-0,RC Strasbourg,2023-09-24T11:00Z
+6,Sun Sep 24 2023,15:00,CEST/+0200,Havre AC,2-1,2-1,Clermont Foot 63,2023-09-24T13:00Z
+6,Sun Sep 24 2023,15:00,CEST/+0200,RC Lens,2-1,1-1,Toulouse FC,2023-09-24T13:00Z
+6,Sun Sep 24 2023,17:05,CEST/+0200,Montpellier HSC,0-0,0-0,Stade Rennais,2023-09-24T15:05Z
+6,Sun Sep 24 2023,20:45,CEST/+0200,Paris Saint-Germain,4-0,2-0,Olympique Marseille,2023-09-24T18:45Z
+6,Tue Sep 26 2023,21:00,CEST/+0200,Lille OSC,1-2,0-2,Stade de Reims,2023-09-26T19:00Z
+7,Fri Sep 29 2023,21:00,CEST/+0200,RC Strasbourg,0-1,0-1,RC Lens,2023-09-29T19:00Z
+7,Sat Sep 30 2023,21:00,CEST/+0200,AS Monaco,3-2,2-2,Olympique Marseille,2023-09-30T19:00Z
+7,Sat Sep 30 2023,17:00,CEST/+0200,Clermont Foot 63,0-0,0-0,Paris Saint-Germain,2023-09-30T15:00Z
+7,Sun Oct 1 2023,13:00,CEST/+0200,Stade de Reims,2-0,1-0,Olympique Lyonnais,2023-10-01T11:00Z
+7,Sun Oct 1 2023,15:00,CEST/+0200,Havre AC,0-2,0-1,Lille OSC,2023-10-01T13:00Z
+7,Sun Oct 1 2023,15:00,CEST/+0200,Toulouse FC,3-0,2-0,FC Metz,2023-10-01T13:00Z
+7,Sun Oct 1 2023,15:00,CEST/+0200,OGC Nice,0-0,0-0,Stade Brestois 29,2023-10-01T13:00Z
+7,Sun Oct 1 2023,17:05,CEST/+0200,FC Lorient,0-3,0-1,Montpellier HSC,2023-10-01T15:05Z
+7,Sun Oct 1 2023,20:45,CEST/+0200,Stade Rennais,3-1,1-1,FC Nantes,2023-10-01T18:45Z
+8,Fri Oct 6 2023,21:00,CEST/+0200,RC Strasbourg,1-2,0-0,FC Nantes,2023-10-06T19:00Z
+8,Sat Oct 7 2023,21:00,CEST/+0200,Stade de Reims,1-3,0-1,AS Monaco,2023-10-07T19:00Z
+8,Sat Oct 7 2023,17:00,CEST/+0200,FC Metz,0-1,0-1,OGC Nice,2023-10-07T15:00Z
+8,Sun Oct 8 2023,13:00,CEST/+0200,Olympique Marseille,3-0,2-0,Havre AC,2023-10-08T11:00Z
+8,Sun Oct 8 2023,15:00,CEST/+0200,Olympique Lyonnais,3-3,3-1,FC Lorient,2023-10-08T13:00Z
+8,Sun Oct 8 2023,15:00,CEST/+0200,Stade Brestois 29,1-1,0-1,Toulouse FC,2023-10-08T13:00Z
+8,Sun Oct 8 2023,17:05,CEST/+0200,RC Lens,1-1,0-1,Lille OSC,2023-10-08T15:05Z
+8,Sun Oct 8 2023,21:00,CEST/+0200,Stade Rennais,1-3,0-2,Paris Saint-Germain,2023-10-08T19:00Z
+9,Fri Oct 20 2023,21:00,CEST/+0200,Havre AC,0-0,0-0,RC Lens,2023-10-20T19:00Z
+9,Sat Oct 21 2023,17:00,CEST/+0200,Paris Saint-Germain,3-0,2-0,RC Strasbourg,2023-10-21T15:00Z
+9,Sat Oct 21 2023,21:00,CEST/+0200,OGC Nice,1-0,0-0,Olympique Marseille,2023-10-21T19:00Z
+9,Sun Oct 22 2023,20:45,CEST/+0200,Olympique Lyonnais,1-2,0-2,Clermont Foot 63,2023-10-22T18:45Z
+9,Sun Oct 22 2023,13:00,CEST/+0200,FC Lorient,2-1,2-1,Stade Rennais,2023-10-22T11:00Z
+9,Sun Oct 22 2023,15:00,CEST/+0200,FC Nantes,2-0,1-0,Montpellier HSC,2023-10-22T13:00Z
+9,Sun Oct 22 2023,15:00,CEST/+0200,Toulouse FC,1-1,0-0,Stade de Reims,2023-10-22T13:00Z
+9,Sun Oct 22 2023,15:00,CEST/+0200,Lille OSC,1-0,1-0,Stade Brestois 29,2023-10-22T13:00Z
+9,Sun Oct 22 2023,17:05,CEST/+0200,AS Monaco,2-1,1-1,FC Metz,2023-10-22T15:05Z
+10,Fri Oct 27 2023,21:00,CEST/+0200,Clermont Foot 63,0-1,0-0,OGC Nice,2023-10-27T19:00Z
+10,Sat Oct 28 2023,17:00,CEST/+0200,Stade de Reims,1-0,0-0,FC Lorient,2023-10-28T15:00Z
+10,Sat Oct 28 2023,21:00,CEST/+0200,RC Lens,4-0,1-0,FC Nantes,2023-10-28T19:00Z
+10,Sun Oct 29 2023,15:00,CET/+0100,Montpellier HSC,3-0,1-0,Toulouse FC,2023-10-29T14:00Z
+10,Sun Oct 29 2023,13:00,CET/+0100,Stade Brestois 29,2-3,1-2,Paris Saint-Germain,2023-10-29T12:00Z
+10,Sun Oct 29 2023,15:00,CET/+0100,FC Metz,0-0,0-0,Havre AC,2023-10-29T14:00Z
+10,Sun Oct 29 2023,17:05,CET/+0100,Stade Rennais,1-1,1-0,RC Strasbourg,2023-10-29T16:05Z
+10,Sun Oct 29 2023,15:00,CET/+0100,Lille OSC,2-0,2-0,AS Monaco,2023-10-29T14:00Z
+11,Fri Nov 3 2023,21:00,CET/+0100,Paris Saint-Germain,3-0,1-0,Montpellier HSC,2023-11-03T20:00Z
+11,Sat Nov 4 2023,17:00,CET/+0100,FC Lorient,0-0,0-0,RC Lens,2023-11-04T16:00Z
+11,Sat Nov 4 2023,21:00,CET/+0100,Olympique Marseille,0-0,0-0,Lille OSC,2023-11-04T20:00Z
+11,Sun Nov 5 2023,17:05,CET/+0100,AS Monaco,2-0,1-0,Stade Brestois 29,2023-11-05T16:05Z
+11,Sun Nov 5 2023,20:45,CET/+0100,OGC Nice,2-0,1-0,Stade Rennais,2023-11-05T19:45Z
+11,Sun Nov 5 2023,13:00,CET/+0100,Olympique Lyonnais,1-1,0-0,FC Metz,2023-11-05T12:00Z
+11,Sun Nov 5 2023,15:00,CET/+0100,FC Nantes,0-1,0-0,Stade de Reims,2023-11-05T14:00Z
+11,Sun Nov 5 2023,15:00,CET/+0100,Toulouse FC,1-2,0-0,Havre AC,2023-11-05T14:00Z
+11,Sun Nov 5 2023,15:00,CET/+0100,RC Strasbourg,0-0,0-0,Clermont Foot 63,2023-11-05T14:00Z
+12,Fri Nov 10 2023,21:00,CET/+0100,Montpellier HSC,0-0,0-0,OGC Nice,2023-11-10T20:00Z
+12,Sat Nov 11 2023,17:00,CET/+0100,Stade de Reims,0-3,0-1,Paris Saint-Germain,2023-11-11T16:00Z
+12,Sat Nov 11 2023,21:00,CET/+0100,Havre AC,0-0,0-0,AS Monaco,2023-11-11T20:00Z
+12,Sun Nov 12 2023,20:45,CET/+0100,RC Lens,1-0,0-0,Olympique Marseille,2023-11-12T19:45Z
+12,Sun Nov 12 2023,15:00,CET/+0100,Lille OSC,1-1,1-0,Toulouse FC,2023-11-12T14:00Z
+12,Sun Nov 12 2023,15:00,CET/+0100,Clermont Foot 63,1-0,0-0,FC Lorient,2023-11-12T14:00Z
+12,Sun Nov 12 2023,15:00,CET/+0100,FC Metz,3-1,2-1,FC Nantes,2023-11-12T14:00Z
+12,Sun Nov 12 2023,17:05,CET/+0100,Stade Rennais,0-1,0-0,Olympique Lyonnais,2023-11-12T16:05Z
+13,Fri Nov 24 2023,21:00,CET/+0100,Paris Saint-Germain,5-2,2-1,AS Monaco,2023-11-24T20:00Z
+13,Sat Nov 25 2023,17:00,CET/+0100,Clermont Foot 63,0-3,0-1,RC Lens,2023-11-25T16:00Z
+13,Sat Nov 25 2023,21:00,CET/+0100,RC Strasbourg,1-1,1-1,Olympique Marseille,2023-11-25T20:00Z
+13,Sun Nov 26 2023,15:00,CET/+0100,FC Nantes,0-0,0-0,Havre AC,2023-11-26T14:00Z
+13,Sun Nov 26 2023,20:45,CET/+0100,Olympique Lyonnais,0-2,0-2,Lille OSC,2023-11-26T19:45Z
+13,Sun Nov 26 2023,17:05,CET/+0100,Stade Rennais,3-1,1-1,Stade de Reims,2023-11-26T16:05Z
+13,Sun Nov 26 2023,13:00,CET/+0100,OGC Nice,1-0,0-0,Toulouse FC,2023-11-26T12:00Z
+13,Sun Nov 26 2023,15:00,CET/+0100,FC Lorient,2-3,2-1,FC Metz,2023-11-26T14:00Z
+13,Sun Nov 26 2023,15:00,CET/+0100,Montpellier HSC,1-3,0-1,Stade Brestois 29,2023-11-26T14:00Z
+8,Wed Nov 29 2023,19:00,CET/+0100,Montpellier HSC,1-1,0-1,Clermont Foot 63,2023-11-29T18:00Z
+14,Fri Dec 1 2023,21:00,CET/+0100,Stade de Reims,2-1,2-0,RC Strasbourg,2023-12-01T20:00Z
+14,Sat Dec 2 2023,17:00,CET/+0100,RC Lens,3-2,1-1,Olympique Lyonnais,2023-12-02T16:00Z
+14,Sat Dec 2 2023,21:00,CET/+0100,FC Nantes,1-0,1-0,OGC Nice,2023-12-02T20:00Z
+14,Sun Dec 3 2023,17:05,CET/+0100,Lille OSC,2-0,2-0,FC Metz,2023-12-03T16:05Z
+14,Sun Dec 3 2023,15:00,CET/+0100,Toulouse FC,1-1,0-0,FC Lorient,2023-12-03T14:00Z
+14,Sun Dec 3 2023,13:00,CET/+0100,Havre AC,0-2,0-1,Paris Saint-Germain,2023-12-03T12:00Z
+14,Sun Dec 3 2023,15:00,CET/+0100,AS Monaco,2-0,1-0,Montpellier HSC,2023-12-03T14:00Z
+14,Sun Dec 3 2023,15:00,CET/+0100,Stade Brestois 29,3-0,2-0,Clermont Foot 63,2023-12-03T14:00Z
+14,Sun Dec 3 2023,20:45,CET/+0100,Olympique Marseille,2-0,1-0,Stade Rennais,2023-12-03T19:45Z
+10,Wed Dec 6 2023,21:00,CET/+0100,Olympique Marseille,3-0,2-0,Olympique Lyonnais,2023-12-06T20:00Z
+12,Thu Dec 7 2023,20:30,CET/+0100,Stade Brestois 29,1-1,1-0,RC Strasbourg,2023-12-07T19:30Z
+15,Fri Dec 8 2023,21:00,CET/+0100,Montpellier HSC,0-0,0-0,RC Lens,2023-12-08T20:00Z
+15,Sat Dec 9 2023,21:00,CET/+0100,Paris Saint-Germain,2-1,1-0,FC Nantes,2023-12-09T20:00Z
+15,Sat Dec 9 2023,17:00,CET/+0100,Stade Rennais,1-2,0-0,AS Monaco,2023-12-09T16:00Z
+15,Sun Dec 10 2023,13:00,CET/+0100,OGC Nice,2-1,0-0,Stade de Reims,2023-12-10T12:00Z
+15,Sun Dec 10 2023,15:00,CET/+0100,Clermont Foot 63,0-0,0-0,Lille OSC,2023-12-10T14:00Z
+15,Sun Dec 10 2023,15:00,CET/+0100,FC Metz,0-1,0-0,Stade Brestois 29,2023-12-10T14:00Z
+15,Sun Dec 10 2023,15:00,CET/+0100,RC Strasbourg,2-1,1-0,Havre AC,2023-12-10T14:00Z
+15,Sun Dec 10 2023,17:05,CET/+0100,Olympique Lyonnais,3-0,2-0,Toulouse FC,2023-12-10T16:05Z
+15,Sun Dec 10 2023,20:45,CET/+0100,FC Lorient,2-4,1-4,Olympique Marseille,2023-12-10T19:45Z
+16,Fri Dec 15 2023,21:00,CET/+0100,AS Monaco,0-1,0-0,Olympique Lyonnais,2023-12-15T20:00Z
+16,Sat Dec 16 2023,21:00,CET/+0100,RC Lens,2-0,1-0,Stade de Reims,2023-12-16T20:00Z
+16,Sat Dec 16 2023,17:00,CET/+0100,Havre AC,3-1,2-0,OGC Nice,2023-12-16T16:00Z
+16,Sun Dec 17 2023,13:00,CET/+0100,FC Nantes,0-2,0-0,Stade Brestois 29,2023-12-17T12:00Z
+16,Sun Dec 17 2023,15:00,CET/+0100,FC Lorient,1-2,0-1,RC Strasbourg,2023-12-17T14:00Z
+16,Sun Dec 17 2023,15:00,CET/+0100,FC Metz,0-1,0-1,Montpellier HSC,2023-12-17T14:00Z
+16,Sun Dec 17 2023,15:00,CET/+0100,Toulouse FC,0-0,0-0,Stade Rennais,2023-12-17T14:00Z
+16,Sun Dec 17 2023,17:05,CET/+0100,Olympique Marseille,2-1,2-0,Clermont Foot 63,2023-12-17T16:05Z
+16,Sun Dec 17 2023,20:45,CET/+0100,Lille OSC,1-1,0-0,Paris Saint-Germain,2023-12-17T19:45Z
+17,Wed Dec 20 2023,21:00,CET/+0100,Clermont Foot 63,1-3,1-0,Stade Rennais,2023-12-20T20:00Z
+17,Wed Dec 20 2023,21:00,CET/+0100,Toulouse FC,1-2,1-2,AS Monaco,2023-12-20T20:00Z
+17,Wed Dec 20 2023,21:00,CET/+0100,Montpellier HSC,1-1,1-0,Olympique Marseille,2023-12-20T20:00Z
+17,Wed Dec 20 2023,21:00,CET/+0100,OGC Nice,2-0,0-0,RC Lens,2023-12-20T20:00Z
+17,Wed Dec 20 2023,21:00,CET/+0100,Olympique Lyonnais,1-0,0-0,FC Nantes,2023-12-20T20:00Z
+17,Wed Dec 20 2023,21:00,CET/+0100,Paris Saint-Germain,3-1,0-0,FC Metz,2023-12-20T20:00Z
+17,Wed Dec 20 2023,21:00,CET/+0100,RC Strasbourg,2-1,1-1,Lille OSC,2023-12-20T20:00Z
+17,Wed Dec 20 2023,21:00,CET/+0100,Stade Brestois 29,4-0,4-0,FC Lorient,2023-12-20T20:00Z
+17,Wed Dec 20 2023,21:00,CET/+0100,Stade de Reims,1-0,1-0,Havre AC,2023-12-20T20:00Z
+18,Fri Jan 12 2024,21:00,CET/+0100,Olympique Marseille,1-1,1-0,RC Strasbourg,2024-01-12T20:00Z
+18,Sat Jan 13 2024,21:00,CET/+0100,Stade Rennais,2-0,1-0,OGC Nice,2024-01-13T20:00Z
+18,Sat Jan 13 2024,17:00,CET/+0100,AS Monaco,1-3,0-1,Stade de Reims,2024-01-13T16:00Z
+18,Sun Jan 14 2024,13:00,CET/+0100,Lille OSC,3-0,1-0,FC Lorient,2024-01-14T12:00Z
+18,Sun Jan 14 2024,15:00,CET/+0100,FC Metz,0-1,0-1,Toulouse FC,2024-01-14T14:00Z
+18,Sun Jan 14 2024,15:00,CET/+0100,FC Nantes,1-2,0-1,Clermont Foot 63,2024-01-14T14:00Z
+18,Sun Jan 14 2024,15:00,CET/+0100,Stade Brestois 29,2-0,0-0,Montpellier HSC,2024-01-14T14:00Z
+18,Sun Jan 14 2024,17:05,CET/+0100,Havre AC,3-1,1-0,Olympique Lyonnais,2024-01-14T16:05Z
+18,Sun Jan 14 2024,20:45,CET/+0100,RC Lens,0-2,0-1,Paris Saint-Germain,2024-01-14T19:45Z
+19,Fri Jan 26 2024,21:00,CET/+0100,Olympique Lyonnais,2-3,0-3,Stade Rennais,2024-01-26T20:00Z
+19,Sat Jan 27 2024,17:00,CET/+0100,OGC Nice,1-0,0-0,FC Metz,2024-01-27T16:00Z
+19,Sat Jan 27 2024,21:00,CET/+0100,Olympique Marseille,2-2,1-2,AS Monaco,2024-01-27T20:00Z
+19,Sun Jan 28 2024,15:00,CET/+0100,Clermont Foot 63,1-1,0-1,RC Strasbourg,2024-01-28T14:00Z
+19,Sun Jan 28 2024,15:00,CET/+0100,FC Lorient,3-3,1-1,Havre AC,2024-01-28T14:00Z
+19,Sun Jan 28 2024,15:00,CET/+0100,Stade de Reims,0-0,0-0,FC Nantes,2024-01-28T14:00Z
+19,Sun Jan 28 2024,17:05,CET/+0100,Toulouse FC,0-2,0-1,RC Lens,2024-01-28T16:05Z
+19,Sun Jan 28 2024,20:45,CET/+0100,Paris Saint-Germain,2-2,2-0,Stade Brestois 29,2024-01-28T19:45Z
+19,Sun Jan 28 2024,13:00,CET/+0100,Montpellier HSC,0-0,0-0,Lille OSC,2024-01-28T12:00Z
+20,Fri Feb 2 2024,21:00,CET/+0100,RC Strasbourg,1-2,0-1,Paris Saint-Germain,2024-02-02T20:00Z
+20,Sat Feb 3 2024,17:00,CET/+0100,Stade Rennais,2-1,1-0,Montpellier HSC,2024-02-03T16:00Z
+20,Sat Feb 3 2024,21:00,CET/+0100,FC Nantes,0-1,0-0,RC Lens,2024-02-03T20:00Z
+20,Sun Feb 4 2024,15:00,CET/+0100,FC Metz,1-2,1-1,FC Lorient,2024-02-04T14:00Z
+20,Sun Feb 4 2024,15:00,CET/+0100,Lille OSC,4-0,4-0,Clermont Foot 63,2024-02-04T14:00Z
+20,Sun Feb 4 2024,15:00,CET/+0100,Stade de Reims,2-3,0-3,Toulouse FC,2024-02-04T14:00Z
+20,Sun Feb 4 2024,17:05,CET/+0100,Stade Brestois 29,0-0,0-0,OGC Nice,2024-02-04T16:05Z
+20,Sun Feb 4 2024,20:45,CET/+0100,Olympique Lyonnais,1-0,1-0,Olympique Marseille,2024-02-04T19:45Z
+20,Sun Feb 4 2024,13:00,CET/+0100,AS Monaco,1-1,0-0,Havre AC,2024-02-04T12:00Z
+21,Fri Feb 9 2024,21:00,CET/+0100,Olympique Marseille,1-1,0-0,FC Metz,2024-02-09T20:00Z
+21,Sat Feb 10 2024,17:00,CET/+0100,RC Lens,3-1,2-1,RC Strasbourg,2024-02-10T16:00Z
+21,Sat Feb 10 2024,21:00,CET/+0100,Paris Saint-Germain,3-1,2-1,Lille OSC,2024-02-10T20:00Z
+21,Sun Feb 11 2024,15:00,CET/+0100,Clermont Foot 63,1-1,0-0,Stade Brestois 29,2024-02-11T14:00Z
+21,Sun Feb 11 2024,15:00,CET/+0100,FC Lorient,2-0,0-0,Stade de Reims,2024-02-11T14:00Z
+21,Sun Feb 11 2024,15:00,CET/+0100,Toulouse FC,1-2,0-1,FC Nantes,2024-02-11T14:00Z
+21,Sun Feb 11 2024,17:05,CET/+0100,Montpellier HSC,1-2,1-0,Olympique Lyonnais,2024-02-11T16:05Z
+21,Sun Feb 11 2024,20:45,CET/+0100,OGC Nice,2-3,1-1,AS Monaco,2024-02-11T19:45Z
+21,Sun Feb 11 2024,13:00,CET/+0100,Havre AC,0-1,0-0,Stade Rennais,2024-02-11T12:00Z
+22,Fri Feb 16 2024,21:00,CET/+0100,Olympique Lyonnais,1-0,1-0,OGC Nice,2024-02-16T20:00Z
+22,Sat Feb 17 2024,17:00,CET/+0100,Lille OSC,3-0,2-0,Havre AC,2024-02-17T16:00Z
+22,Sat Feb 17 2024,21:00,CET/+0100,FC Nantes,0-2,0-0,Paris Saint-Germain,2024-02-17T20:00Z
+22,Sun Feb 18 2024,13:00,CET/+0100,RC Strasbourg,1-3,0-2,FC Lorient,2024-02-18T12:00Z
+22,Sun Feb 18 2024,15:00,CET/+0100,AS Monaco,1-2,0-1,Toulouse FC,2024-02-18T14:00Z
+22,Sun Feb 18 2024,15:00,CET/+0100,Montpellier HSC,3-0,1-0,FC Metz,2024-02-18T14:00Z
+22,Sun Feb 18 2024,15:00,CET/+0100,Stade Rennais,3-1,1-0,Clermont Foot 63,2024-02-18T14:00Z
+22,Sun Feb 18 2024,17:05,CET/+0100,Stade de Reims,1-1,1-1,RC Lens,2024-02-18T16:05Z
+22,Sun Feb 18 2024,20:45,CET/+0100,Stade Brestois 29,1-0,0-0,Olympique Marseille,2024-02-18T19:45Z
+23,Fri Feb 23 2024,21:00,CET/+0100,FC Metz,1-2,1-1,Olympique Lyonnais,2024-02-23T20:00Z
+23,Sat Feb 24 2024,21:00,CET/+0100,RC Strasbourg,0-3,0-2,Stade Brestois 29,2024-02-24T20:00Z
+23,Sat Feb 24 2024,17:00,CET/+0100,FC Lorient,0-1,0-0,FC Nantes,2024-02-24T16:00Z
+23,Sun Feb 25 2024,13:00,CET/+0100,RC Lens,2-3,1-2,AS Monaco,2024-02-25T12:00Z
+23,Sun Feb 25 2024,15:00,CET/+0100,Havre AC,1-2,0-0,Stade de Reims,2024-02-25T14:00Z
+23,Sun Feb 25 2024,15:00,CET/+0100,Toulouse FC,3-1,0-1,Lille OSC,2024-02-25T14:00Z
+23,Sun Feb 25 2024,15:00,CET/+0100,OGC Nice,0-0,0-0,Clermont Foot 63,2024-02-25T14:00Z
+23,Sun Feb 25 2024,17:05,CET/+0100,Paris Saint-Germain,1-1,0-1,Stade Rennais,2024-02-25T16:05Z
+23,Sun Feb 25 2024,20:45,CET/+0100,Olympique Marseille,4-1,2-1,Montpellier HSC,2024-02-25T19:45Z
+24,Fri Mar 1 2024,21:00,CET/+0100,AS Monaco,0-0,0-0,Paris Saint-Germain,2024-03-01T20:00Z
+24,Sat Mar 2 2024,21:00,CET/+0100,Clermont Foot 63,1-5,0-1,Olympique Marseille,2024-03-02T20:00Z
+24,Sat Mar 2 2024,17:00,CET/+0100,Stade de Reims,0-1,0-0,Lille OSC,2024-03-02T16:00Z
+24,Sun Mar 3 2024,13:00,CET/+0100,Toulouse FC,2-1,0-1,OGC Nice,2024-03-03T12:00Z
+24,Sun Mar 3 2024,15:00,CET/+0100,FC Nantes,0-2,0-0,FC Metz,2024-03-03T14:00Z
+24,Sun Mar 3 2024,15:00,CET/+0100,Montpellier HSC,2-2,0-0,RC Strasbourg,2024-03-03T14:00Z
+24,Sun Mar 3 2024,15:00,CET/+0100,Stade Brestois 29,1-0,1-0,Havre AC,2024-03-03T14:00Z
+24,Sun Mar 3 2024,17:05,CET/+0100,Stade Rennais,1-2,0-0,FC Lorient,2024-03-03T16:05Z
+24,Sun Mar 3 2024,20:45,CET/+0100,Olympique Lyonnais,0-3,0-1,RC Lens,2024-03-03T19:45Z
+25,Fri Mar 8 2024,21:00,CET/+0100,OGC Nice,1-2,1-2,Montpellier HSC,2024-03-08T20:00Z
+25,Sat Mar 9 2024,21:00,CET/+0100,RC Lens,1-0,1-0,Stade Brestois 29,2024-03-09T20:00Z
+25,Sat Mar 9 2024,17:00,CET/+0100,FC Lorient,0-2,0-0,Olympique Lyonnais,2024-03-09T16:00Z
+25,Sun Mar 10 2024,13:00,CET/+0100,Paris Saint-Germain,2-2,2-2,Stade de Reims,2024-03-10T12:00Z
+25,Sun Mar 10 2024,15:00,CET/+0100,Havre AC,1-0,0-0,Toulouse FC,2024-03-10T14:00Z
+25,Sun Mar 10 2024,15:00,CET/+0100,FC Metz,1-0,1-0,Clermont Foot 63,2024-03-10T14:00Z
+25,Sun Mar 10 2024,15:00,CET/+0100,RC Strasbourg,0-1,0-0,AS Monaco,2024-03-10T14:00Z
+25,Sun Mar 10 2024,17:00,CET/+0100,Lille OSC,2-2,0-2,Stade Rennais,2024-03-10T16:00Z
+25,Sun Mar 10 2024,20:45,CET/+0100,Olympique Marseille,2-0,1-0,FC Nantes,2024-03-10T19:45Z
+26,Fri Mar 15 2024,21:00,CET/+0100,Toulouse FC,2-3,0-1,Olympique Lyonnais,2024-03-15T20:00Z
+26,Sat Mar 16 2024,21:00,CET/+0100,RC Lens,1-3,0-1,OGC Nice,2024-03-16T20:00Z
+26,Sat Mar 16 2024,17:00,CET/+0100,FC Nantes,1-3,1-1,RC Strasbourg,2024-03-16T16:00Z
+26,Sun Mar 17 2024,13:00,CET/+0100,Stade Brestois 29,1-1,0-0,Lille OSC,2024-03-17T12:00Z
+26,Sun Mar 17 2024,15:00,CET/+0100,AS Monaco,2-2,1-1,FC Lorient,2024-03-17T14:00Z
+26,Sun Mar 17 2024,15:00,CET/+0100,Clermont Foot 63,2-1,2-1,Havre AC,2024-03-17T14:00Z
+26,Sun Mar 17 2024,15:00,CET/+0100,Stade de Reims,2-1,1-1,FC Metz,2024-03-17T14:00Z
+26,Sun Mar 17 2024,17:05,CET/+0100,Stade Rennais,2-0,1-0,Olympique Marseille,2024-03-17T16:05Z
+26,Sun Mar 17 2024,20:45,CET/+0100,Montpellier HSC,2-6,2-2,Paris Saint-Germain,2024-03-17T19:45Z
+27,Fri Mar 29 2024,21:00,CET/+0100,Lille OSC,2-1,1-0,RC Lens,2024-03-29T20:00Z
+27,Sat Mar 30 2024,21:00,CET/+0100,Olympique Lyonnais,1-1,0-0,Stade de Reims,2024-03-30T20:00Z
+27,Sat Mar 30 2024,17:00,CET/+0100,FC Metz,2-5,0-3,AS Monaco,2024-03-30T16:00Z
+27,Sun Mar 31 2024,13:00,CEST/+0200,FC Lorient,0-1,0-0,Stade Brestois 29,2024-03-31T11:00Z
+27,Sun Mar 31 2024,15:00,CEST/+0200,Havre AC,0-2,0-0,Montpellier HSC,2024-03-31T13:00Z
+27,Sun Mar 31 2024,15:00,CEST/+0200,Clermont Foot 63,0-3,0-1,Toulouse FC,2024-03-31T13:00Z
+27,Sun Mar 31 2024,15:00,CEST/+0200,OGC Nice,1-2,0-1,FC Nantes,2024-03-31T13:00Z
+27,Sun Mar 31 2024,17:05,CEST/+0200,RC Strasbourg,2-0,0-0,Stade Rennais,2024-03-31T15:05Z
+27,Sun Mar 31 2024,20:45,CEST/+0200,Olympique Marseille,0-2,0-0,Paris Saint-Germain,2024-03-31T18:45Z
+28,Fri Apr 5 2024,21:00,CEST/+0200,Lille OSC,3-1,0-0,Olympique Marseille,2024-04-05T19:00Z
+28,Sat Apr 6 2024,21:00,CEST/+0200,Paris Saint-Germain,1-1,0-1,Clermont Foot 63,2024-04-06T19:00Z
+28,Sat Apr 6 2024,17:00,CEST/+0200,RC Lens,1-1,0-0,Havre AC,2024-04-06T15:00Z
+28,Sun Apr 7 2024,15:00,CEST/+0200,Toulouse FC,0-0,0-0,RC Strasbourg,2024-04-07T13:00Z
+28,Sun Apr 7 2024,15:00,CEST/+0200,Montpellier HSC,2-0,0-0,FC Lorient,2024-04-07T13:00Z
+28,Sun Apr 7 2024,15:00,CEST/+0200,Stade de Reims,0-0,0-0,OGC Nice,2024-04-07T13:00Z
+28,Sun Apr 7 2024,17:05,CEST/+0200,AS Monaco,1-0,1-0,Stade Rennais,2024-04-07T15:05Z
+28,Sun Apr 7 2024,20:45,CEST/+0200,FC Nantes,1-3,1-0,Olympique Lyonnais,2024-04-07T18:45Z
+28,Sun Apr 7 2024,13:00,CEST/+0200,Stade Brestois 29,4-3,3-1,FC Metz,2024-04-07T11:00Z
+29,Fri Apr 12 2024,21:00,CEST/+0200,FC Metz,2-1,2-1,RC Lens,2024-04-12T19:00Z
+29,Sat Apr 13 2024,21:00,CEST/+0200,Stade Rennais,1-2,1-2,Toulouse FC,2024-04-13T19:00Z
+29,Sat Apr 13 2024,17:00,CEST/+0200,RC Strasbourg,3-1,1-1,Stade de Reims,2024-04-13T15:00Z
+29,Sun Apr 14 2024,15:00,CEST/+0200,Clermont Foot 63,1-1,1-0,Montpellier HSC,2024-04-14T13:00Z
+29,Sun Apr 14 2024,20:45,CEST/+0200,Olympique Lyonnais,4-3,1-0,Stade Brestois 29,2024-04-14T18:45Z
+29,Sun Apr 14 2024,13:00,CEST/+0200,Havre AC,0-1,0-0,FC Nantes,2024-04-14T11:00Z
+30,Fri Apr 19 2024,21:00,CEST/+0200,OGC Nice,3-0,1-0,FC Lorient,2024-04-19T19:00Z
+30,Sat Apr 20 2024,17:00,CEST/+0200,FC Nantes,0-3,0-0,Stade Rennais,2024-04-20T15:00Z
+30,Sat Apr 20 2024,21:00,CEST/+0200,RC Lens,1-0,1-0,Clermont Foot 63,2024-04-20T19:00Z
+30,Sun Apr 21 2024,17:05,CEST/+0200,Stade Brestois 29,0-2,0-1,AS Monaco,2024-04-21T15:05Z
+30,Sun Apr 21 2024,19:15,CEST/+0200,Toulouse FC,2-2,1-1,Olympique Marseille,2024-04-21T17:15Z
+30,Sun Apr 21 2024,15:00,CEST/+0200,Havre AC,0-1,0-0,FC Metz,2024-04-21T13:00Z
+30,Sun Apr 21 2024,21:00,CEST/+0200,Paris Saint-Germain,4-1,4-1,Olympique Lyonnais,2024-04-21T19:00Z
+30,Sun Apr 21 2024,15:00,CEST/+0200,Lille OSC,1-0,1-0,RC Strasbourg,2024-04-21T13:00Z
+30,Sun Apr 21 2024,15:00,CEST/+0200,Stade de Reims,1-2,0-1,Montpellier HSC,2024-04-21T13:00Z
+29,Wed Apr 24 2024,21:00,CEST/+0200,Olympique Marseille,2-2,1-1,OGC Nice,2024-04-24T19:00Z
+29,Wed Apr 24 2024,21:00,CEST/+0200,AS Monaco,1-0,0-0,Lille OSC,2024-04-24T19:00Z
+29,Wed Apr 24 2024,19:00,CEST/+0200,FC Lorient,1-4,0-2,Paris Saint-Germain,2024-04-24T17:00Z
+31,Fri Apr 26 2024,21:00,CEST/+0200,Montpellier HSC,1-1,1-1,FC Nantes,2024-04-26T19:00Z
+31,Sat Apr 27 2024,21:00,CEST/+0200,Paris Saint-Germain,3-3,1-2,Havre AC,2024-04-27T19:00Z
+31,Sun Apr 28 2024,13:00,CEST/+0200,FC Metz,1-2,1-2,Lille OSC,2024-04-28T11:00Z
+31,Sun Apr 28 2024,15:00,CEST/+0200,Clermont Foot 63,4-1,1-1,Stade de Reims,2024-04-28T13:00Z
+31,Sun Apr 28 2024,15:00,CEST/+0200,FC Lorient,1-2,1-0,Toulouse FC,2024-04-28T13:00Z
+31,Sun Apr 28 2024,15:00,CEST/+0200,RC Strasbourg,1-3,1-1,OGC Nice,2024-04-28T13:00Z
+31,Sun Apr 28 2024,17:05,CEST/+0200,Stade Rennais,4-5,2-1,Stade Brestois 29,2024-04-28T15:05Z
+31,Sun Apr 28 2024,19:00,CEST/+0200,Olympique Lyonnais,3-2,2-1,AS Monaco,2024-04-28T17:00Z
+31,Sun Apr 28 2024,21:00,CEST/+0200,Olympique Marseille,2-1,1-0,RC Lens,2024-04-28T19:00Z
+32,Fri May 3 2024,21:00,CEST/+0200,RC Lens,2-0,0-0,FC Lorient,2024-05-03T19:00Z
+32,Fri May 3 2024,19:00,CEST/+0200,Toulouse FC,1-2,1-1,Montpellier HSC,2024-05-03T17:00Z
+32,Sat May 4 2024,17:00,CEST/+0200,AS Monaco,4-1,2-1,Clermont Foot 63,2024-05-04T15:00Z
+32,Sat May 4 2024,19:00,CEST/+0200,FC Metz,2-3,2-1,Stade Rennais,2024-05-04T17:00Z
+32,Sat May 4 2024,21:00,CEST/+0200,Stade Brestois 29,0-0,0-0,FC Nantes,2024-05-04T19:00Z
+32,Sat May 4 2024,15:00,CEST/+0200,Havre AC,3-1,1-0,RC Strasbourg,2024-05-04T13:00Z
+32,Mon May 6 2024,21:00,CEST/+0200,Lille OSC,3-4,2-0,Olympique Lyonnais,2024-05-06T19:00Z
+33,Fri May 10 2024,21:00,CEST/+0200,Stade Brestois 29,1-1,1-1,Stade de Reims,2024-05-10T19:00Z
+33,Fri May 10 2024,21:00,CEST/+0200,OGC Nice,1-0,1-0,Havre AC,2024-05-10T19:00Z
+33,Sun May 12 2024,21:00,CEST/+0200,Montpellier HSC,0-2,0-0,AS Monaco,2024-05-12T19:00Z
+33,Sun May 12 2024,21:00,CEST/+0200,RC Strasbourg,2-1,0-0,FC Metz,2024-05-12T19:00Z
+33,Sun May 12 2024,21:00,CEST/+0200,Clermont Foot 63,0-1,0-0,Olympique Lyonnais,2024-05-12T19:00Z
+33,Sun May 12 2024,21:00,CEST/+0200,FC Nantes,1-2,0-2,Lille OSC,2024-05-12T19:00Z
+33,Sun May 12 2024,21:00,CEST/+0200,Stade Rennais,1-1,0-0,RC Lens,2024-05-12T19:00Z
+33,Sun May 12 2024,21:00,CEST/+0200,Olympique Marseille,3-1,2-1,FC Lorient,2024-05-12T19:00Z
+33,Sun May 12 2024,21:00,CEST/+0200,Paris Saint-Germain,1-3,1-1,Toulouse FC,2024-05-12T19:00Z
+32,Wed May 15 2024,21:00,CEST/+0200,Stade de Reims,1-0,1-0,Olympique Marseille,2024-05-15T19:00Z
+32,Wed May 15 2024,21:00,CEST/+0200,OGC Nice,1-2,1-2,Paris Saint-Germain,2024-05-15T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,Havre AC,1-2,0-0,Olympique Marseille,2024-05-19T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,AS Monaco,4-0,3-0,FC Nantes,2024-05-19T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,FC Lorient,5-0,2-0,Clermont Foot 63,2024-05-19T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,FC Metz,0-2,0-2,Paris Saint-Germain,2024-05-19T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,Toulouse FC,0-3,0-0,Stade Brestois 29,2024-05-19T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,Olympique Lyonnais,2-1,1-0,RC Strasbourg,2024-05-19T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,Lille OSC,2-2,0-1,OGC Nice,2024-05-19T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,RC Lens,2-2,2-0,Montpellier HSC,2024-05-19T19:00Z
+34,Sun May 19 2024,21:00,CEST/+0200,Stade de Reims,2-1,0-0,Stade Rennais,2024-05-19T19:00Z

@@ -1,0 +1,381 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+1,Fri Aug 23 2024,20:45,CEST/+0200,ASD Pineto Calcio,0-0,0-0,Lucchese,2024-08-23T18:45Z
+1,Fri Aug 23 2024,20:45,CEST/+0200,Ternana Calcio,1-2,0-1,Delfino Pescara,2024-08-23T18:45Z
+1,Fri Aug 23 2024,20:00,CEST/+0200,SPAL 2013 Ferrara,2-2,0-1,Ascoli Calcio,2024-08-23T18:00Z
+1,Sat Aug 24 2024,18:00,CEST/+0200,US Pianese,3-3,3-1,AC Perugia Calcio,2024-08-24T16:00Z
+1,Sat Aug 24 2024,18:00,CEST/+0200,FC Legnago Salus,2-3,2-1,US Pontedera,2024-08-24T16:00Z
+1,Sun Aug 25 2024,18:00,CEST/+0200,AS Gubbio,1-0,0-0,USD Sestri Levante,2024-08-25T16:00Z
+1,Sun Aug 25 2024,20:45,CEST/+0200,US Arezzo,1-0,0-0,Campobasso,2024-08-25T18:45Z
+1,Sun Aug 25 2024,20:45,CEST/+0200,Virtus Entella,1-0,0-0,AC Milan II,2024-08-25T18:45Z
+1,Mon Aug 26 2024,20:45,CEST/+0200,SEF Torres 1903,3-0,1-0,Vis Pesaro,2024-08-26T18:45Z
+1,Mon Aug 26 2024,20:45,CEST/+0200,AC Carpi,2-2,0-1,AC Rimini,2024-08-26T18:45Z
+2,Fri Aug 30 2024,20:45,CEST/+0200,Lucchese,0-1,0-0,AS Gubbio,2024-08-30T18:45Z
+2,Fri Aug 30 2024,20:45,CEST/+0200,AC Perugia Calcio,3-0,1-0,SPAL 2013 Ferrara,2024-08-30T18:45Z
+2,Fri Aug 30 2024,20:45,CEST/+0200,US Pontedera,1-2,0-0,Ternana Calcio,2024-08-30T18:45Z
+2,Sat Aug 31 2024,20:45,CEST/+0200,AC Rimini,1-2,1-1,Virtus Entella,2024-08-31T18:45Z
+2,Sat Aug 31 2024,20:45,CEST/+0200,USD Sestri Levante,0-0,0-0,ASD Pineto Calcio,2024-08-31T18:45Z
+2,Sat Aug 31 2024,18:00,CEST/+0200,Campobasso,2-0,0-0,FC Legnago Salus,2024-08-31T16:00Z
+2,Sun Sep 1 2024,20:45,CEST/+0200,Delfino Pescara,2-2,0-1,SEF Torres 1903,2024-09-01T18:45Z
+2,Sun Sep 1 2024,18:00,CEST/+0200,AC Milan II,1-1,0-1,AC Carpi,2024-09-01T16:00Z
+2,Mon Sep 2 2024,20:45,CEST/+0200,Vis Pesaro,3-0,2-0,US Arezzo,2024-09-02T18:45Z
+2,Mon Sep 2 2024,20:45,CEST/+0200,Ascoli Calcio,1-0,1-0,US Pianese,2024-09-02T18:45Z
+3,Sat Sep 7 2024,20:45,CEST/+0200,AS Gubbio,0-0,0-0,Ternana Calcio,2024-09-07T18:45Z
+3,Sat Sep 7 2024,20:45,CEST/+0200,ASD Pineto Calcio,3-1,1-0,US Arezzo,2024-09-07T18:45Z
+3,Sat Sep 7 2024,20:45,CEST/+0200,AC Rimini,0-1,0-0,Delfino Pescara,2024-09-07T18:45Z
+3,Sun Sep 8 2024,16:15,CEST/+0200,US Pianese,2-0,2-0,Campobasso,2024-09-08T14:15Z
+3,Sun Sep 8 2024,18:30,CEST/+0200,AC Carpi,2-0,0-0,AC Perugia Calcio,2024-09-08T16:30Z
+3,Sun Sep 8 2024,18:30,CEST/+0200,FC Legnago Salus,0-1,0-0,Vis Pesaro,2024-09-08T16:30Z
+3,Sun Sep 8 2024,18:30,CEST/+0200,US Pontedera,4-1,2-1,USD Sestri Levante,2024-09-08T16:30Z
+3,Sun Sep 8 2024,18:30,CEST/+0200,SPAL 2013 Ferrara,2-3,1-3,Lucchese,2024-09-08T16:30Z
+3,Mon Sep 9 2024,16:30,CEST/+0200,Virtus Entella,2-1,0-0,Ascoli Calcio,2024-09-09T14:30Z
+4,Fri Sep 13 2024,20:45,CEST/+0200,US Arezzo,1-0,0-0,FC Legnago Salus,2024-09-13T18:45Z
+4,Fri Sep 13 2024,20:45,CEST/+0200,Virtus Entella,1-1,1-1,AC Carpi,2024-09-13T18:45Z
+4,Sat Sep 14 2024,20:45,CEST/+0200,USD Sestri Levante,1-3,1-2,SPAL 2013 Ferrara,2024-09-14T18:45Z
+4,Sat Sep 14 2024,18:30,CEST/+0200,AC Milan II,0-2,0-2,Ascoli Calcio,2024-09-14T16:30Z
+4,Sat Sep 14 2024,18:30,CEST/+0200,Vis Pesaro,2-0,0-0,US Pontedera,2024-09-14T16:30Z
+4,Sat Sep 14 2024,20:45,CEST/+0200,Campobasso,0-1,0-0,SEF Torres 1903,2024-09-14T18:45Z
+4,Sun Sep 15 2024,20:45,CEST/+0200,AC Perugia Calcio,1-1,0-0,AS Gubbio,2024-09-15T18:45Z
+4,Sun Sep 15 2024,20:45,CEST/+0200,Ternana Calcio,3-0,2-0,ASD Pineto Calcio,2024-09-15T18:45Z
+4,Mon Sep 16 2024,20:45,CEST/+0200,Lucchese,2-2,0-1,AC Rimini,2024-09-16T18:45Z
+4,Mon Sep 16 2024,20:45,CEST/+0200,Delfino Pescara,2-1,0-1,US Pianese,2024-09-16T18:45Z
+3,Wed Sep 18 2024,20:45,CEST/+0200,SEF Torres 1903,0-0,0-0,AC Milan II,2024-09-18T18:45Z
+5,Fri Sep 20 2024,20:45,CEST/+0200,AS Gubbio,0-0,0-0,Campobasso,2024-09-20T18:45Z
+5,Fri Sep 20 2024,20:45,CEST/+0200,Vis Pesaro,0-2,0-1,Ternana Calcio,2024-09-20T18:45Z
+5,Sat Sep 21 2024,20:45,CEST/+0200,US Pontedera,0-1,0-0,US Arezzo,2024-09-21T18:45Z
+5,Sat Sep 21 2024,20:45,CEST/+0200,SEF Torres 1903,1-1,0-1,ASD Pineto Calcio,2024-09-21T18:45Z
+5,Sat Sep 21 2024,16:15,CEST/+0200,FC Legnago Salus,0-3,0-1,USD Sestri Levante,2024-09-21T14:15Z
+5,Sun Sep 22 2024,18:30,CEST/+0200,Ascoli Calcio,,,Lucchese,2024-09-22T16:30Z
+5,Sun Sep 22 2024,18:30,CEST/+0200,US Pianese,,,Virtus Entella,2024-09-22T16:30Z
+5,Mon Sep 23 2024,20:45,CEST/+0200,AC Rimini,,,AC Milan II,2024-09-23T18:45Z
+5,Mon Sep 23 2024,20:45,CEST/+0200,SPAL 2013 Ferrara,,,AC Carpi,2024-09-23T18:45Z
+5,Mon Sep 23 2024,20:30,CEST/+0200,Delfino Pescara,,,AC Perugia Calcio,2024-09-23T18:30Z
+6,Tue Sep 24 2024,20:45,CEST/+0200,USD Sestri Levante,,,SEF Torres 1903,2024-09-24T18:45Z
+6,Tue Sep 24 2024,20:45,CEST/+0200,US Arezzo,,,AS Gubbio,2024-09-24T18:45Z
+6,Wed Sep 25 2024,18:30,CEST/+0200,Ternana Calcio,,,FC Legnago Salus,2024-09-25T16:30Z
+6,Wed Sep 25 2024,18:30,CEST/+0200,Lucchese,,,US Pianese,2024-09-25T16:30Z
+6,Thu Sep 26 2024,18:30,CEST/+0200,AC Carpi,,,Ascoli Calcio,2024-09-26T16:30Z
+6,Thu Sep 26 2024,18:30,CEST/+0200,AC Milan II,,,SPAL 2013 Ferrara,2024-09-26T16:30Z
+6,Thu Sep 26 2024,18:30,CEST/+0200,ASD Pineto Calcio,,,US Pontedera,2024-09-26T16:30Z
+6,Thu Sep 26 2024,20:45,CEST/+0200,Campobasso,,,Vis Pesaro,2024-09-26T18:45Z
+6,Thu Sep 26 2024,20:45,CEST/+0200,AC Perugia Calcio,,,AC Rimini,2024-09-26T18:45Z
+6,Thu Sep 26 2024,20:45,CEST/+0200,Virtus Entella,,,Delfino Pescara,2024-09-26T18:45Z
+7,Sat Sep 28 2024,20:45,CEST/+0200,AS Gubbio,,,SEF Torres 1903,2024-09-28T18:45Z
+7,Sun Sep 29 2024,14:00,CEST/+0200,FC Legnago Salus,,,ASD Pineto Calcio,2024-09-29T12:00Z
+7,Sun Sep 29 2024,16:15,CEST/+0200,Ascoli Calcio,,,AC Rimini,2024-09-29T14:15Z
+7,Sun Sep 29 2024,16:15,CEST/+0200,US Pianese,,,USD Sestri Levante,2024-09-29T14:15Z
+7,Sun Sep 29 2024,18:30,CEST/+0200,US Pontedera,,,Campobasso,2024-09-29T16:30Z
+7,Sun Sep 29 2024,18:30,CEST/+0200,SPAL 2013 Ferrara,,,Virtus Entella,2024-09-29T16:30Z
+7,Sun Sep 29 2024,14:00,CEST/+0200,US Arezzo,,,Ternana Calcio,2024-09-29T12:00Z
+7,Mon Sep 30 2024,20:45,CEST/+0200,Lucchese,,,AC Milan II,2024-09-30T18:45Z
+7,Mon Sep 30 2024,20:45,CEST/+0200,Delfino Pescara,,,AC Carpi,2024-09-30T18:45Z
+7,Mon Sep 30 2024,20:45,CEST/+0200,Vis Pesaro,,,AC Perugia Calcio,2024-09-30T18:45Z
+8,Sun Oct 6 2024,,,Ascoli Calcio,,,Delfino Pescara,
+8,Sun Oct 6 2024,,,AC Carpi,,,US Pontedera,
+8,Sun Oct 6 2024,,,AC Milan II,,,US Pianese,
+8,Sun Oct 6 2024,,,AC Perugia Calcio,,,Lucchese,
+8,Sun Oct 6 2024,,,ASD Pineto Calcio,,,AS Gubbio,
+8,Sun Oct 6 2024,,,AC Rimini,,,SPAL 2013 Ferrara,
+8,Sun Oct 6 2024,,,USD Sestri Levante,,,Vis Pesaro,
+8,Sun Oct 6 2024,,,SEF Torres 1903,,,US Arezzo,
+8,Sun Oct 6 2024,,,Virtus Entella,,,FC Legnago Salus,
+8,Mon Oct 7 2024,20:30,CEST/+0200,Ternana Calcio,,,Campobasso,2024-10-07T18:30Z
+9,Fri Oct 11 2024,20:30,CEST/+0200,Lucchese,,,USD Sestri Levante,2024-10-11T18:30Z
+9,Sat Oct 12 2024,15:00,CEST/+0200,US Pontedera,,,SEF Torres 1903,2024-10-12T13:00Z
+9,Sat Oct 12 2024,17:30,CEST/+0200,AC Perugia Calcio,,,Virtus Entella,2024-10-12T15:30Z
+9,Sat Oct 12 2024,15:00,CEST/+0200,Delfino Pescara,,,AC Milan II,2024-10-12T13:00Z
+9,Sun Oct 13 2024,15:00,CEST/+0200,Campobasso,,,SPAL 2013 Ferrara,2024-10-13T13:00Z
+9,Sun Oct 13 2024,15:00,CEST/+0200,FC Legnago Salus,,,AS Gubbio,2024-10-13T13:00Z
+9,Sun Oct 13 2024,17:30,CEST/+0200,US Arezzo,,,AC Rimini,2024-10-13T15:30Z
+9,Sun Oct 13 2024,17:30,CEST/+0200,US Pianese,,,AC Carpi,2024-10-13T15:30Z
+9,Sun Oct 13 2024,17:30,CEST/+0200,Vis Pesaro,,,ASD Pineto Calcio,2024-10-13T15:30Z
+9,Sun Oct 13 2024,20:45,CEST/+0200,Ternana Calcio,,,Ascoli Calcio,2024-10-13T18:45Z
+10,Sun Oct 20 2024,,,Ascoli Calcio,,,AC Perugia Calcio,
+10,Sun Oct 20 2024,,,AC Carpi,,,Lucchese,
+10,Sun Oct 20 2024,,,AS Gubbio,,,US Pontedera,
+10,Sun Oct 20 2024,,,AC Milan II,,,FC Legnago Salus,
+10,Sun Oct 20 2024,,,ASD Pineto Calcio,,,Campobasso,
+10,Sun Oct 20 2024,,,AC Rimini,,,US Pianese,
+10,Sun Oct 20 2024,,,USD Sestri Levante,,,US Arezzo,
+10,Sun Oct 20 2024,,,SPAL 2013 Ferrara,,,Delfino Pescara,
+10,Sun Oct 20 2024,,,SEF Torres 1903,,,Ternana Calcio,
+10,Sun Oct 20 2024,,,Virtus Entella,,,Vis Pesaro,
+11,Sun Oct 27 2024,,,US Arezzo,,,SPAL 2013 Ferrara,
+11,Sun Oct 27 2024,,,Campobasso,,,USD Sestri Levante,
+11,Sun Oct 27 2024,,,FC Legnago Salus,,,SEF Torres 1903,
+11,Sun Oct 27 2024,,,Lucchese,,,Delfino Pescara,
+11,Sun Oct 27 2024,,,AC Perugia Calcio,,,AC Milan II,
+11,Sun Oct 27 2024,,,US Pianese,,,AS Gubbio,
+11,Sun Oct 27 2024,,,ASD Pineto Calcio,,,Ascoli Calcio,
+11,Sun Oct 27 2024,,,US Pontedera,,,Virtus Entella,
+11,Sun Oct 27 2024,,,Ternana Calcio,,,AC Rimini,
+11,Sun Oct 27 2024,,,Vis Pesaro,,,AC Carpi,
+12,Wed Oct 30 2024,,,Ascoli Calcio,,,Campobasso,
+12,Wed Oct 30 2024,,,AC Carpi,,,US Arezzo,
+12,Wed Oct 30 2024,,,AS Gubbio,,,Vis Pesaro,
+12,Wed Oct 30 2024,,,AC Milan II,,,ASD Pineto Calcio,
+12,Wed Oct 30 2024,,,Delfino Pescara,,,US Pontedera,
+12,Wed Oct 30 2024,,,AC Rimini,,,FC Legnago Salus,
+12,Wed Oct 30 2024,,,USD Sestri Levante,,,Ternana Calcio,
+12,Wed Oct 30 2024,,,SPAL 2013 Ferrara,,,US Pianese,
+12,Wed Oct 30 2024,,,SEF Torres 1903,,,AC Perugia Calcio,
+12,Wed Oct 30 2024,,,Virtus Entella,,,Lucchese,
+13,Sun Nov 3 2024,,,US Arezzo,,,Ascoli Calcio,
+13,Sun Nov 3 2024,,,Campobasso,,,Lucchese,
+13,Sun Nov 3 2024,,,AS Gubbio,,,AC Rimini,
+13,Sun Nov 3 2024,,,FC Legnago Salus,,,AC Perugia Calcio,
+13,Sun Nov 3 2024,,,ASD Pineto Calcio,,,AC Carpi,
+13,Sun Nov 3 2024,,,US Pontedera,,,AC Milan II,
+13,Sun Nov 3 2024,,,USD Sestri Levante,,,Virtus Entella,
+13,Sun Nov 3 2024,,,Ternana Calcio,,,SPAL 2013 Ferrara,
+13,Sun Nov 3 2024,,,SEF Torres 1903,,,US Pianese,
+13,Sun Nov 3 2024,,,Vis Pesaro,,,Delfino Pescara,
+14,Sun Nov 10 2024,,,Ascoli Calcio,,,US Pontedera,
+14,Sun Nov 10 2024,,,AC Carpi,,,Campobasso,
+14,Sun Nov 10 2024,,,Lucchese,,,FC Legnago Salus,
+14,Sun Nov 10 2024,,,AC Milan II,,,US Arezzo,
+14,Sun Nov 10 2024,,,AC Perugia Calcio,,,Ternana Calcio,
+14,Sun Nov 10 2024,,,Delfino Pescara,,,USD Sestri Levante,
+14,Sun Nov 10 2024,,,US Pianese,,,Vis Pesaro,
+14,Sun Nov 10 2024,,,AC Rimini,,,SEF Torres 1903,
+14,Sun Nov 10 2024,,,SPAL 2013 Ferrara,,,ASD Pineto Calcio,
+14,Sun Nov 10 2024,,,Virtus Entella,,,AS Gubbio,
+15,Sun Nov 17 2024,,,US Arezzo,,,Delfino Pescara,
+15,Sun Nov 17 2024,,,Campobasso,,,AC Milan II,
+15,Sun Nov 17 2024,,,AS Gubbio,,,AC Carpi,
+15,Sun Nov 17 2024,,,FC Legnago Salus,,,SPAL 2013 Ferrara,
+15,Sun Nov 17 2024,,,ASD Pineto Calcio,,,AC Perugia Calcio,
+15,Sun Nov 17 2024,,,US Pontedera,,,US Pianese,
+15,Sun Nov 17 2024,,,USD Sestri Levante,,,AC Rimini,
+15,Sun Nov 17 2024,,,Ternana Calcio,,,Lucchese,
+15,Sun Nov 17 2024,,,SEF Torres 1903,,,Virtus Entella,
+15,Sun Nov 17 2024,,,Vis Pesaro,,,Ascoli Calcio,
+16,Sun Nov 24 2024,,,Ascoli Calcio,,,AS Gubbio,
+16,Sun Nov 24 2024,,,AC Carpi,,,Ternana Calcio,
+16,Sun Nov 24 2024,,,Lucchese,,,US Pontedera,
+16,Sun Nov 24 2024,,,AC Milan II,,,USD Sestri Levante,
+16,Sun Nov 24 2024,,,AC Perugia Calcio,,,US Arezzo,
+16,Sun Nov 24 2024,,,Delfino Pescara,,,ASD Pineto Calcio,
+16,Sun Nov 24 2024,,,US Pianese,,,FC Legnago Salus,
+16,Sun Nov 24 2024,,,AC Rimini,,,Vis Pesaro,
+16,Sun Nov 24 2024,,,SPAL 2013 Ferrara,,,SEF Torres 1903,
+16,Sun Nov 24 2024,,,Virtus Entella,,,Campobasso,
+17,Sun Dec 1 2024,,,US Arezzo,,,Virtus Entella,
+17,Sun Dec 1 2024,,,Campobasso,,,AC Rimini,
+17,Sun Dec 1 2024,,,AS Gubbio,,,Delfino Pescara,
+17,Sun Dec 1 2024,,,FC Legnago Salus,,,AC Carpi,
+17,Sun Dec 1 2024,,,ASD Pineto Calcio,,,US Pianese,
+17,Sun Dec 1 2024,,,US Pontedera,,,SPAL 2013 Ferrara,
+17,Sun Dec 1 2024,,,USD Sestri Levante,,,AC Perugia Calcio,
+17,Sun Dec 1 2024,,,Ternana Calcio,,,AC Milan II,
+17,Sun Dec 1 2024,,,SEF Torres 1903,,,Ascoli Calcio,
+17,Sun Dec 1 2024,,,Vis Pesaro,,,Lucchese,
+18,Sun Dec 8 2024,,,Ascoli Calcio,,,USD Sestri Levante,
+18,Sun Dec 8 2024,,,AC Carpi,,,SEF Torres 1903,
+18,Sun Dec 8 2024,,,Lucchese,,,US Arezzo,
+18,Sun Dec 8 2024,,,AC Milan II,,,AS Gubbio,
+18,Sun Dec 8 2024,,,AC Perugia Calcio,,,Campobasso,
+18,Sun Dec 8 2024,,,Delfino Pescara,,,FC Legnago Salus,
+18,Sun Dec 8 2024,,,US Pianese,,,Ternana Calcio,
+18,Sun Dec 8 2024,,,AC Rimini,,,US Pontedera,
+18,Sun Dec 8 2024,,,SPAL 2013 Ferrara,,,Vis Pesaro,
+18,Sun Dec 8 2024,,,Virtus Entella,,,ASD Pineto Calcio,
+19,Sun Dec 15 2024,,,US Arezzo,,,US Pianese,
+19,Sun Dec 15 2024,,,Campobasso,,,Delfino Pescara,
+19,Sun Dec 15 2024,,,AS Gubbio,,,SPAL 2013 Ferrara,
+19,Sun Dec 15 2024,,,FC Legnago Salus,,,Ascoli Calcio,
+19,Sun Dec 15 2024,,,ASD Pineto Calcio,,,AC Rimini,
+19,Sun Dec 15 2024,,,US Pontedera,,,AC Perugia Calcio,
+19,Sun Dec 15 2024,,,USD Sestri Levante,,,AC Carpi,
+19,Sun Dec 15 2024,,,Ternana Calcio,,,Virtus Entella,
+19,Sun Dec 15 2024,,,SEF Torres 1903,,,Lucchese,
+19,Sun Dec 15 2024,,,Vis Pesaro,,,AC Milan II,
+20,Sun Dec 22 2024,,,Campobasso,,,US Arezzo,
+20,Sun Dec 22 2024,,,AC Rimini,,,AC Carpi,
+20,Sun Dec 22 2024,,,USD Sestri Levante,,,AS Gubbio,
+20,Sun Dec 22 2024,,,US Pontedera,,,FC Legnago Salus,
+20,Sun Dec 22 2024,,,AC Perugia Calcio,,,US Pianese,
+20,Sun Dec 22 2024,,,Lucchese,,,ASD Pineto Calcio,
+20,Sun Dec 22 2024,,,Ascoli Calcio,,,SPAL 2013 Ferrara,
+20,Sun Dec 22 2024,,,Delfino Pescara,,,Ternana Calcio,
+20,Sun Dec 22 2024,,,Vis Pesaro,,,SEF Torres 1903,
+20,Sun Dec 22 2024,,,AC Milan II,,,Virtus Entella,
+21,Sun Jan 5 2025,,,US Pianese,,,Ascoli Calcio,
+21,Sun Jan 5 2025,,,FC Legnago Salus,,,Campobasso,
+21,Sun Jan 5 2025,,,AS Gubbio,,,Lucchese,
+21,Sun Jan 5 2025,,,AC Carpi,,,AC Milan II,
+21,Sun Jan 5 2025,,,SPAL 2013 Ferrara,,,AC Perugia Calcio,
+21,Sun Jan 5 2025,,,SEF Torres 1903,,,Delfino Pescara,
+21,Sun Jan 5 2025,,,Ternana Calcio,,,US Pontedera,
+21,Sun Jan 5 2025,,,Virtus Entella,,,AC Rimini,
+21,Sun Jan 5 2025,,,ASD Pineto Calcio,,,USD Sestri Levante,
+21,Sun Jan 5 2025,,,US Arezzo,,,Vis Pesaro,
+22,Sun Jan 12 2025,,,AC Perugia Calcio,,,AC Carpi,
+22,Sun Jan 12 2025,,,Ternana Calcio,,,AS Gubbio,
+22,Sun Jan 12 2025,,,Vis Pesaro,,,FC Legnago Salus,
+22,Sun Jan 12 2025,,,Campobasso,,,US Pianese,
+22,Sun Jan 12 2025,,,US Arezzo,,,ASD Pineto Calcio,
+22,Sun Jan 12 2025,,,USD Sestri Levante,,,US Pontedera,
+22,Sun Jan 12 2025,,,Delfino Pescara,,,AC Rimini,
+22,Sun Jan 12 2025,,,Lucchese,,,SPAL 2013 Ferrara,
+22,Sun Jan 12 2025,,,AC Milan II,,,SEF Torres 1903,
+22,Sun Jan 12 2025,,,Ascoli Calcio,,,Virtus Entella,
+23,Sun Jan 19 2025,,,FC Legnago Salus,,,US Arezzo,
+23,Sun Jan 19 2025,,,SEF Torres 1903,,,Campobasso,
+23,Sun Jan 19 2025,,,AC Rimini,,,Lucchese,
+23,Sun Jan 19 2025,,,Ascoli Calcio,,,AC Milan II,
+23,Sun Jan 19 2025,,,AS Gubbio,,,AC Perugia Calcio,
+23,Sun Jan 19 2025,,,US Pianese,,,Delfino Pescara,
+23,Sun Jan 19 2025,,,SPAL 2013 Ferrara,,,USD Sestri Levante,
+23,Sun Jan 19 2025,,,ASD Pineto Calcio,,,Ternana Calcio,
+23,Sun Jan 19 2025,,,AC Carpi,,,Virtus Entella,
+23,Sun Jan 19 2025,,,US Pontedera,,,Vis Pesaro,
+24,Sun Jan 26 2025,,,Lucchese,,,Ascoli Calcio,
+24,Sun Jan 26 2025,,,Campobasso,,,AS Gubbio,
+24,Sun Jan 26 2025,,,USD Sestri Levante,,,FC Legnago Salus,
+24,Sun Jan 26 2025,,,AC Perugia Calcio,,,Delfino Pescara,
+24,Sun Jan 26 2025,,,Virtus Entella,,,US Pianese,
+24,Sun Jan 26 2025,,,US Arezzo,,,US Pontedera,
+24,Sun Jan 26 2025,,,AC Milan II,,,AC Rimini,
+24,Sun Jan 26 2025,,,AC Carpi,,,SPAL 2013 Ferrara,
+24,Sun Jan 26 2025,,,ASD Pineto Calcio,,,SEF Torres 1903,
+24,Sun Jan 26 2025,,,Ternana Calcio,,,Vis Pesaro,
+25,Sun Feb 2 2025,,,AS Gubbio,,,US Arezzo,
+25,Sun Feb 2 2025,,,Vis Pesaro,,,Campobasso,
+25,Sun Feb 2 2025,,,Ascoli Calcio,,,AC Carpi,
+25,Sun Feb 2 2025,,,US Pianese,,,Lucchese,
+25,Sun Feb 2 2025,,,SPAL 2013 Ferrara,,,AC Milan II,
+25,Sun Feb 2 2025,,,AC Rimini,,,AC Perugia Calcio,
+25,Sun Feb 2 2025,,,US Pontedera,,,ASD Pineto Calcio,
+25,Sun Feb 2 2025,,,SEF Torres 1903,,,USD Sestri Levante,
+25,Sun Feb 2 2025,,,FC Legnago Salus,,,Ternana Calcio,
+25,Sun Feb 2 2025,,,Delfino Pescara,,,Virtus Entella,
+26,Sun Feb 9 2025,,,Ternana Calcio,,,US Arezzo,
+26,Sun Feb 9 2025,,,AC Rimini,,,Ascoli Calcio,
+26,Sun Feb 9 2025,,,SEF Torres 1903,,,AS Gubbio,
+26,Sun Feb 9 2025,,,ASD Pineto Calcio,,,FC Legnago Salus,
+26,Sun Feb 9 2025,,,AC Milan II,,,Lucchese,
+26,Sun Feb 9 2025,,,AC Carpi,,,Delfino Pescara,
+26,Sun Feb 9 2025,,,USD Sestri Levante,,,US Pianese,
+26,Sun Feb 9 2025,,,Campobasso,,,US Pontedera,
+26,Sun Feb 9 2025,,,Virtus Entella,,,SPAL 2013 Ferrara,
+26,Sun Feb 9 2025,,,AC Perugia Calcio,,,Vis Pesaro,
+27,Sun Feb 16 2025,,,Delfino Pescara,,,Ascoli Calcio,
+27,Sun Feb 16 2025,,,US Pontedera,,,AC Carpi,
+27,Sun Feb 16 2025,,,US Pianese,,,AC Milan II,
+27,Sun Feb 16 2025,,,Lucchese,,,AC Perugia Calcio,
+27,Sun Feb 16 2025,,,AS Gubbio,,,ASD Pineto Calcio,
+27,Sun Feb 16 2025,,,SPAL 2013 Ferrara,,,AC Rimini,
+27,Sun Feb 16 2025,,,Vis Pesaro,,,USD Sestri Levante,
+27,Sun Feb 16 2025,,,Campobasso,,,Ternana Calcio,
+27,Sun Feb 16 2025,,,US Arezzo,,,SEF Torres 1903,
+27,Sun Feb 16 2025,,,FC Legnago Salus,,,Virtus Entella,
+28,Sun Feb 23 2025,,,AC Rimini,,,US Arezzo,
+28,Sun Feb 23 2025,,,SPAL 2013 Ferrara,,,Campobasso,
+28,Sun Feb 23 2025,,,AS Gubbio,,,FC Legnago Salus,
+28,Sun Feb 23 2025,,,USD Sestri Levante,,,Lucchese,
+28,Sun Feb 23 2025,,,Virtus Entella,,,AC Perugia Calcio,
+28,Sun Feb 23 2025,,,AC Milan II,,,Delfino Pescara,
+28,Sun Feb 23 2025,,,AC Carpi,,,US Pianese,
+28,Sun Feb 23 2025,,,SEF Torres 1903,,,US Pontedera,
+28,Sun Feb 23 2025,,,Ascoli Calcio,,,Ternana Calcio,
+28,Sun Feb 23 2025,,,ASD Pineto Calcio,,,Vis Pesaro,
+29,Sun Mar 2 2025,,,AC Perugia Calcio,,,Ascoli Calcio,
+29,Sun Mar 2 2025,,,Lucchese,,,AC Carpi,
+29,Sun Mar 2 2025,,,US Pontedera,,,AS Gubbio,
+29,Sun Mar 2 2025,,,FC Legnago Salus,,,AC Milan II,
+29,Sun Mar 2 2025,,,Campobasso,,,ASD Pineto Calcio,
+29,Sun Mar 2 2025,,,US Pianese,,,AC Rimini,
+29,Sun Mar 2 2025,,,US Arezzo,,,USD Sestri Levante,
+29,Sun Mar 2 2025,,,Delfino Pescara,,,SPAL 2013 Ferrara,
+29,Sun Mar 2 2025,,,Ternana Calcio,,,SEF Torres 1903,
+29,Sun Mar 2 2025,,,Vis Pesaro,,,Virtus Entella,
+30,Sun Mar 9 2025,,,SPAL 2013 Ferrara,,,US Arezzo,
+30,Sun Mar 9 2025,,,USD Sestri Levante,,,Campobasso,
+30,Sun Mar 9 2025,,,SEF Torres 1903,,,FC Legnago Salus,
+30,Sun Mar 9 2025,,,Delfino Pescara,,,Lucchese,
+30,Sun Mar 9 2025,,,AC Milan II,,,AC Perugia Calcio,
+30,Sun Mar 9 2025,,,AS Gubbio,,,US Pianese,
+30,Sun Mar 9 2025,,,Ascoli Calcio,,,ASD Pineto Calcio,
+30,Sun Mar 9 2025,,,Virtus Entella,,,US Pontedera,
+30,Sun Mar 9 2025,,,AC Rimini,,,Ternana Calcio,
+30,Sun Mar 9 2025,,,AC Carpi,,,Vis Pesaro,
+31,Wed Mar 12 2025,,,Campobasso,,,Ascoli Calcio,
+31,Wed Mar 12 2025,,,US Arezzo,,,AC Carpi,
+31,Wed Mar 12 2025,,,Vis Pesaro,,,AS Gubbio,
+31,Wed Mar 12 2025,,,ASD Pineto Calcio,,,AC Milan II,
+31,Wed Mar 12 2025,,,US Pontedera,,,Delfino Pescara,
+31,Wed Mar 12 2025,,,FC Legnago Salus,,,AC Rimini,
+31,Wed Mar 12 2025,,,Ternana Calcio,,,USD Sestri Levante,
+31,Wed Mar 12 2025,,,US Pianese,,,SPAL 2013 Ferrara,
+31,Wed Mar 12 2025,,,AC Perugia Calcio,,,SEF Torres 1903,
+31,Wed Mar 12 2025,,,Lucchese,,,Virtus Entella,
+32,Sun Mar 16 2025,,,Ascoli Calcio,,,US Arezzo,
+32,Sun Mar 16 2025,,,Lucchese,,,Campobasso,
+32,Sun Mar 16 2025,,,AC Rimini,,,AS Gubbio,
+32,Sun Mar 16 2025,,,AC Perugia Calcio,,,FC Legnago Salus,
+32,Sun Mar 16 2025,,,AC Carpi,,,ASD Pineto Calcio,
+32,Sun Mar 16 2025,,,AC Milan II,,,US Pontedera,
+32,Sun Mar 16 2025,,,Virtus Entella,,,USD Sestri Levante,
+32,Sun Mar 16 2025,,,SPAL 2013 Ferrara,,,Ternana Calcio,
+32,Sun Mar 16 2025,,,US Pianese,,,SEF Torres 1903,
+32,Sun Mar 16 2025,,,Delfino Pescara,,,Vis Pesaro,
+33,Sun Mar 23 2025,,,US Pontedera,,,Ascoli Calcio,
+33,Sun Mar 23 2025,,,Campobasso,,,AC Carpi,
+33,Sun Mar 23 2025,,,FC Legnago Salus,,,Lucchese,
+33,Sun Mar 23 2025,,,US Arezzo,,,AC Milan II,
+33,Sun Mar 23 2025,,,Ternana Calcio,,,AC Perugia Calcio,
+33,Sun Mar 23 2025,,,USD Sestri Levante,,,Delfino Pescara,
+33,Sun Mar 23 2025,,,Vis Pesaro,,,US Pianese,
+33,Sun Mar 23 2025,,,SEF Torres 1903,,,AC Rimini,
+33,Sun Mar 23 2025,,,ASD Pineto Calcio,,,SPAL 2013 Ferrara,
+33,Sun Mar 23 2025,,,AS Gubbio,,,Virtus Entella,
+34,Sun Mar 30 2025,,,Delfino Pescara,,,US Arezzo,
+34,Sun Mar 30 2025,,,AC Milan II,,,Campobasso,
+34,Sun Mar 30 2025,,,AC Carpi,,,AS Gubbio,
+34,Sun Mar 30 2025,,,SPAL 2013 Ferrara,,,FC Legnago Salus,
+34,Sun Mar 30 2025,,,AC Perugia Calcio,,,ASD Pineto Calcio,
+34,Sun Mar 30 2025,,,US Pianese,,,US Pontedera,
+34,Sun Mar 30 2025,,,AC Rimini,,,USD Sestri Levante,
+34,Sun Mar 30 2025,,,Lucchese,,,Ternana Calcio,
+34,Sun Mar 30 2025,,,Virtus Entella,,,SEF Torres 1903,
+34,Sun Mar 30 2025,,,Ascoli Calcio,,,Vis Pesaro,
+35,Sun Apr 6 2025,,,AS Gubbio,,,Ascoli Calcio,
+35,Sun Apr 6 2025,,,Ternana Calcio,,,AC Carpi,
+35,Sun Apr 6 2025,,,US Pontedera,,,Lucchese,
+35,Sun Apr 6 2025,,,USD Sestri Levante,,,AC Milan II,
+35,Sun Apr 6 2025,,,US Arezzo,,,AC Perugia Calcio,
+35,Sun Apr 6 2025,,,ASD Pineto Calcio,,,Delfino Pescara,
+35,Sun Apr 6 2025,,,FC Legnago Salus,,,US Pianese,
+35,Sun Apr 6 2025,,,Vis Pesaro,,,AC Rimini,
+35,Sun Apr 6 2025,,,SEF Torres 1903,,,SPAL 2013 Ferrara,
+35,Sun Apr 6 2025,,,Campobasso,,,Virtus Entella,
+36,Sun Apr 13 2025,,,Virtus Entella,,,US Arezzo,
+36,Sun Apr 13 2025,,,AC Rimini,,,Campobasso,
+36,Sun Apr 13 2025,,,Delfino Pescara,,,AS Gubbio,
+36,Sun Apr 13 2025,,,AC Carpi,,,FC Legnago Salus,
+36,Sun Apr 13 2025,,,US Pianese,,,ASD Pineto Calcio,
+36,Sun Apr 13 2025,,,SPAL 2013 Ferrara,,,US Pontedera,
+36,Sun Apr 13 2025,,,AC Perugia Calcio,,,USD Sestri Levante,
+36,Sun Apr 13 2025,,,AC Milan II,,,Ternana Calcio,
+36,Sun Apr 13 2025,,,Ascoli Calcio,,,SEF Torres 1903,
+36,Sun Apr 13 2025,,,Lucchese,,,Vis Pesaro,
+37,Sat Apr 19 2025,,,USD Sestri Levante,,,Ascoli Calcio,
+37,Sat Apr 19 2025,,,SEF Torres 1903,,,AC Carpi,
+37,Sat Apr 19 2025,,,US Arezzo,,,Lucchese,
+37,Sat Apr 19 2025,,,AS Gubbio,,,AC Milan II,
+37,Sat Apr 19 2025,,,Campobasso,,,AC Perugia Calcio,
+37,Sat Apr 19 2025,,,FC Legnago Salus,,,Delfino Pescara,
+37,Sat Apr 19 2025,,,Ternana Calcio,,,US Pianese,
+37,Sat Apr 19 2025,,,US Pontedera,,,AC Rimini,
+37,Sat Apr 19 2025,,,Vis Pesaro,,,SPAL 2013 Ferrara,
+37,Sat Apr 19 2025,,,ASD Pineto Calcio,,,Virtus Entella,
+38,Sun Apr 27 2025,,,US Pianese,,,US Arezzo,
+38,Sun Apr 27 2025,,,Delfino Pescara,,,Campobasso,
+38,Sun Apr 27 2025,,,SPAL 2013 Ferrara,,,AS Gubbio,
+38,Sun Apr 27 2025,,,Ascoli Calcio,,,FC Legnago Salus,
+38,Sun Apr 27 2025,,,AC Rimini,,,ASD Pineto Calcio,
+38,Sun Apr 27 2025,,,AC Perugia Calcio,,,US Pontedera,
+38,Sun Apr 27 2025,,,AC Carpi,,,USD Sestri Levante,
+38,Sun Apr 27 2025,,,Virtus Entella,,,Ternana Calcio,
+38,Sun Apr 27 2025,,,Lucchese,,,SEF Torres 1903,
+38,Sun Apr 27 2025,,,AC Milan II,,,Vis Pesaro,

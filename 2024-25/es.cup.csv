@@ -1,11 +1,11 @@
-Round,Date,Team 1,FT,Team 2
-Vorrunde,Wed Oct 9 2024,Astur CF,,EDF Logroño
-Vorrunde,Wed Oct 9 2024,CD Villamuriel,,CD Aurrerá de Vitoria
-Vorrunde,Wed Oct 9 2024,San Tirso SD,,Selaya FC
-Vorrunde,Wed Oct 9 2024,CD Baztán,,Ontiñena CF
-Vorrunde,Wed Oct 9 2024,UE Vic,,CF Sporting Mahonés
-Vorrunde,Wed Oct 9 2024,UD San Pedro,,Ceuta 6 de Junio
-Vorrunde,Wed Oct 9 2024,EF Dolorense,,Manises CF
-Vorrunde,Wed Oct 9 2024,Chiclana CF,,Melilla CD
-Vorrunde,Wed Oct 9 2024,CD Sonseca,,Parla Escuela
-Vorrunde,Wed Oct 9 2024,CD Gévora,,Playas de Sotavento
+Round,Date,Time,Timezone,Team 1,FT,Team 2,UTC
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,Astur CF,,EDF Logroño,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,CD Villamuriel,,CD Aurrerá de Vitoria,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,San Tirso SD,,Selaya FC,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,CD Baztán,,Ontiñena CF,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,UE Vic,,CF Sporting Mahonés,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,UD San Pedro,,Ceuta 6 de Junio,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,EF Dolorense,,Manises CF,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,Chiclana CF,,Melilla CD,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,CD Sonseca,,Parla Escuela,2024-10-09T19:00Z
+Preliminary round,Wed Oct 9 2024,21:00,CEST/+0200,CD Gévora,,Playas de Sotavento,2024-10-09T19:00Z

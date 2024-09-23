@@ -1,0 +1,211 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Mar 17 2023,18:00,+0300,FK Minsk,2-0,1-0,FK Slaviya Mozyr,,2023-03-17T15:00Z
+1,Sat Mar 18 2023,16:00,+0300,FK Gomel,0-2,0-1,BATE Borisov,,2023-03-18T13:00Z
+1,Sat Mar 18 2023,18:00,+0300,Dinamo Minsk,3-0,1-0,FK Isloch Minsk,,2023-03-18T15:00Z
+1,Sat Mar 18 2023,20:00,+0300,Dinamo Brest,0-1,0-0,Torpedo-BelAZ Zhodino,,2023-03-18T17:00Z
+1,Sat Mar 18 2023,14:00,+0300,Shakhter Soligorsk,2-1,1-1,Naftan Novopolotsk,,2023-03-18T11:00Z
+1,Sun Mar 19 2023,14:00,+0300,Energetik-BGU Minsk,1-0,1-0,FK Slutsk,,2023-03-19T11:00Z
+1,Sun Mar 19 2023,16:00,+0300,FK Smorgon,1-0,0-0,Belshina Bobruisk,,2023-03-19T13:00Z
+2,Sat Apr 1 2023,16:00,+0300,Torpedo-BelAZ Zhodino,2-1,1-0,FK Smorgon,,2023-04-01T13:00Z
+2,Sat Apr 1 2023,18:00,+0300,FK Isloch Minsk,3-0,1-0,Dinamo Brest,,2023-04-01T15:00Z
+2,Sat Apr 1 2023,14:00,+0300,Naftan Novopolotsk,1-1,1-0,FK Gomel,,2023-04-01T11:00Z
+2,Sun Apr 2 2023,14:00,+0300,FK Slutsk,1-1,0-1,FK Minsk,,2023-04-02T11:00Z
+2,Sun Apr 2 2023,16:00,+0300,Neman Grodno,0-1,0-0,Shakhter Soligorsk,,2023-04-02T13:00Z
+2,Sun Apr 2 2023,18:00,+0300,FK Slaviya Mozyr,0-2,0-1,Dinamo Minsk,,2023-04-02T15:00Z
+2,Sun Apr 2 2023,20:00,+0300,BATE Borisov,1-1,0-1,Energetik-BGU Minsk,,2023-04-02T17:00Z
+3,Fri Apr 7 2023,17:30,+0300,FK Smorgon,0-4,0-3,FK Isloch Minsk,,2023-04-07T14:30Z
+3,Sat Apr 8 2023,17:00,+0300,Belshina Bobruisk,0-0,0-0,Torpedo-BelAZ Zhodino,,2023-04-08T14:00Z
+3,Sat Apr 8 2023,19:00,+0300,Dinamo Minsk,3-1,0-0,FK Slutsk,,2023-04-08T16:00Z
+3,Sat Apr 8 2023,15:00,+0300,FK Minsk,2-2,0-1,BATE Borisov,,2023-04-08T12:00Z
+3,Sun Apr 9 2023,14:00,+0300,Dinamo Brest,0-1,0-1,FK Slaviya Mozyr,,2023-04-09T11:00Z
+3,Sun Apr 9 2023,15:45,+0300,Energetik-BGU Minsk,0-1,0-0,Naftan Novopolotsk,,2023-04-09T12:45Z
+3,Sun Apr 9 2023,17:30,+0300,FK Gomel,3-3,1-2,Neman Grodno,,2023-04-09T14:30Z
+4,Fri Apr 14 2023,17:00,+0300,FK Isloch Minsk,2-0,1-0,Belshina Bobruisk,,2023-04-14T14:00Z
+4,Fri Apr 14 2023,19:00,+0300,FK Slaviya Mozyr,4-1,1-0,FK Smorgon,,2023-04-14T16:00Z
+4,Fri Apr 14 2023,15:00,+0300,Naftan Novopolotsk,0-0,0-0,FK Minsk,,2023-04-14T12:00Z
+4,Sat Apr 15 2023,14:00,+0300,FK Slutsk,2-0,1-0,Dinamo Brest,,2023-04-15T11:00Z
+4,Sat Apr 15 2023,16:00,+0300,Shakhter Soligorsk,1-1,1-0,FK Gomel,,2023-04-15T13:00Z
+4,Sat Apr 15 2023,18:00,+0300,BATE Borisov,1-3,0-0,Dinamo Minsk,,2023-04-15T15:00Z
+4,Sat Apr 15 2023,20:00,+0300,Neman Grodno,2-0,0-0,Energetik-BGU Minsk,,2023-04-15T17:00Z
+5,Fri Apr 21 2023,17:30,+0300,FK Smorgon,3-2,1-1,FK Slutsk,,2023-04-21T14:30Z
+5,Sat Apr 22 2023,17:00,+0300,Belshina Bobruisk,1-1,0-0,FK Slaviya Mozyr,,2023-04-22T14:00Z
+5,Sat Apr 22 2023,19:00,+0300,Dinamo Minsk,3-1,1-0,Naftan Novopolotsk,,2023-04-22T16:00Z
+5,Sat Apr 22 2023,14:00,+0300,Torpedo-BelAZ Zhodino,2-1,1-1,FK Isloch Minsk,,2023-04-22T11:00Z
+5,Sun Apr 23 2023,14:00,+0300,FK Minsk,0-1,0-0,Neman Grodno,,2023-04-23T11:00Z
+5,Sun Apr 23 2023,17:00,+0300,Energetik-BGU Minsk,1-4,0-2,Shakhter Soligorsk,,2023-04-23T14:00Z
+5,Sun Apr 23 2023,19:00,+0300,Dinamo Brest,1-2,1-0,BATE Borisov,,2023-04-23T16:00Z
+6,Fri Apr 28 2023,17:30,+0300,FK Slutsk,2-1,1-0,Belshina Bobruisk,,2023-04-28T14:30Z
+6,Sat Apr 29 2023,17:00,+0300,FK Slaviya Mozyr,0-1,0-1,Torpedo-BelAZ Zhodino,,2023-04-29T14:00Z
+6,Sat Apr 29 2023,19:00,+0300,BATE Borisov,2-0,2-0,FK Smorgon,,2023-04-29T16:00Z
+6,Sat Apr 29 2023,14:00,+0300,Neman Grodno,1-0,0-0,Dinamo Minsk,,2023-04-29T11:00Z
+6,Sun Apr 30 2023,14:00,+0300,FK Gomel,1-0,1-0,Energetik-BGU Minsk,,2023-04-30T11:00Z
+6,Sun Apr 30 2023,16:00,+0300,Naftan Novopolotsk,0-3,0-1,Dinamo Brest,,2023-04-30T13:00Z
+6,Sun Apr 30 2023,18:30,+0300,Shakhter Soligorsk,1-0,1-0,FK Minsk,,2023-04-30T15:30Z
+7,Fri May 5 2023,20:00,+0300,Torpedo-BelAZ Zhodino,1-1,0-1,FK Slutsk,,2023-05-05T17:00Z
+7,Fri May 5 2023,18:00,+0300,FK Isloch Minsk,0-1,0-1,FK Slaviya Mozyr,,2023-05-05T15:00Z
+7,Sat May 6 2023,16:00,+0300,Belshina Bobruisk,0-3,0-2,BATE Borisov,,2023-05-06T13:00Z
+7,Sat May 6 2023,18:00,+0300,FK Minsk,2-2,2-0,FK Gomel,,2023-05-06T15:00Z
+7,Sat May 6 2023,14:00,+0300,Dinamo Brest,1-3,1-3,Neman Grodno,,2023-05-06T11:00Z
+7,Sun May 7 2023,18:00,+0300,FK Smorgon,1-0,0-0,Naftan Novopolotsk,,2023-05-07T15:00Z
+7,Sun May 7 2023,16:00,+0300,Dinamo Minsk,1-0,1-0,Shakhter Soligorsk,,2023-05-07T13:00Z
+8,Fri May 12 2023,18:00,+0300,FK Slutsk,1-1,0-0,FK Isloch Minsk,,2023-05-12T15:00Z
+8,Sat May 13 2023,17:00,+0300,Energetik-BGU Minsk,1-0,0-0,FK Minsk,,2023-05-13T14:00Z
+8,Sat May 13 2023,19:00,+0300,FK Gomel,0-4,0-2,Dinamo Minsk,,2023-05-13T16:00Z
+8,Sat May 13 2023,21:00,+0300,Shakhter Soligorsk,2-0,1-0,Dinamo Brest,,2023-05-13T18:00Z
+8,Sun May 14 2023,16:00,+0300,Neman Grodno,3-1,1-0,FK Smorgon,,2023-05-14T13:00Z
+8,Sun May 14 2023,18:00,+0300,BATE Borisov,1-2,1-1,Torpedo-BelAZ Zhodino,,2023-05-14T15:00Z
+8,Sun May 14 2023,14:00,+0300,Naftan Novopolotsk,0-1,0-0,Belshina Bobruisk,,2023-05-14T11:00Z
+9,Fri May 19 2023,19:10,+0300,FK Slaviya Mozyr,1-0,1-0,FK Slutsk,,2023-05-19T16:10Z
+9,Sat May 20 2023,15:00,+0300,Belshina Bobruisk,0-2,0-0,Neman Grodno,,2023-05-20T12:00Z
+9,Sat May 20 2023,17:00,+0300,FK Isloch Minsk,1-1,0-0,BATE Borisov,,2023-05-20T14:00Z
+9,Sat May 20 2023,19:00,+0300,Torpedo-BelAZ Zhodino,5-0,1-0,Naftan Novopolotsk,,2023-05-20T16:00Z
+9,Sun May 21 2023,17:00,+0300,Dinamo Brest,3-3,2-2,FK Gomel,,2023-05-21T14:00Z
+9,Sun May 21 2023,19:00,+0300,Dinamo Minsk,2-0,0-0,Energetik-BGU Minsk,,2023-05-21T16:00Z
+9,Sun May 21 2023,15:00,+0300,FK Smorgon,1-3,1-2,Shakhter Soligorsk,,2023-05-21T12:00Z
+10,Wed May 24 2023,20:00,+0300,BATE Borisov,1-1,1-0,FK Slaviya Mozyr,,2023-05-24T17:00Z
+10,Wed May 24 2023,18:00,+0300,Neman Grodno,0-0,0-0,Torpedo-BelAZ Zhodino,,2023-05-24T15:00Z
+10,Fri May 26 2023,18:00,+0300,FK Gomel,2-0,0-0,FK Smorgon,,2023-05-26T15:00Z
+10,Fri May 26 2023,20:00,+0300,Shakhter Soligorsk,7-3,4-2,Belshina Bobruisk,,2023-05-26T17:00Z
+10,Sat May 27 2023,18:00,+0300,Energetik-BGU Minsk,1-0,0-0,Dinamo Brest,,2023-05-27T15:00Z
+10,Sat May 27 2023,20:00,+0300,FK Minsk,1-1,0-0,Dinamo Minsk,,2023-05-27T17:00Z
+10,Sat May 27 2023,16:00,+0300,Naftan Novopolotsk,0-1,0-0,FK Isloch Minsk,,2023-05-27T13:00Z
+11,Fri Jun 2 2023,20:30,+0300,Dinamo Brest,1-0,1-0,FK Minsk,,2023-06-02T17:30Z
+11,Fri Jun 2 2023,18:20,+0300,FK Slaviya Mozyr,1-0,0-0,Naftan Novopolotsk,,2023-06-02T15:20Z
+11,Sat Jun 3 2023,15:00,+0300,FK Gomel,2-0,2-0,Belshina Bobruisk,,2023-06-03T12:00Z
+11,Sat Jun 3 2023,18:00,+0300,FK Smorgon,1-0,1-0,Energetik-BGU Minsk,,2023-06-03T15:00Z
+11,Sat Jun 3 2023,20:00,+0300,Torpedo-BelAZ Zhodino,1-1,0-1,Shakhter Soligorsk,,2023-06-03T17:00Z
+11,Sun Jun 4 2023,18:00,+0300,FK Slutsk,1-0,1-0,BATE Borisov,,2023-06-04T15:00Z
+11,Sun Jun 4 2023,16:00,+0300,FK Isloch Minsk,0-3,0-1,Neman Grodno,,2023-06-04T13:00Z
+12,Fri Jun 9 2023,20:00,+0300,Dinamo Minsk,4-1,2-0,Dinamo Brest,,2023-06-09T17:00Z
+12,Fri Jun 9 2023,18:00,+0300,Shakhter Soligorsk,3-0,2-0,FK Isloch Minsk,,2023-06-09T15:00Z
+12,Sat Jun 10 2023,16:00,+0300,FK Slutsk,3-1,2-1,Naftan Novopolotsk,,2023-06-10T13:00Z
+12,Sat Jun 10 2023,18:00,+0300,FK Minsk,2-1,2-0,FK Smorgon,,2023-06-10T15:00Z
+12,Sat Jun 10 2023,20:00,+0300,Neman Grodno,1-0,0-0,FK Slaviya Mozyr,,2023-06-10T17:00Z
+12,Sun Jun 11 2023,19:30,+0300,FK Gomel,0-3,0-0,Torpedo-BelAZ Zhodino,,2023-06-11T16:30Z
+12,Sun Jun 11 2023,17:30,+0300,Energetik-BGU Minsk,0-0,0-0,Belshina Bobruisk,,2023-06-11T14:30Z
+13,Fri Jun 23 2023,20:00,+0300,Torpedo-BelAZ Zhodino,1-1,0-0,Energetik-BGU Minsk,,2023-06-23T17:00Z
+13,Sat Jun 24 2023,16:00,+0300,FK Slutsk,0-2,0-1,Neman Grodno,,2023-06-24T13:00Z
+13,Sat Jun 24 2023,18:00,+0300,FK Isloch Minsk,3-1,1-0,FK Gomel,,2023-06-24T15:00Z
+13,Sat Jun 24 2023,20:00,+0300,FK Slaviya Mozyr,3-1,2-0,Shakhter Soligorsk,,2023-06-24T17:00Z
+13,Sun Jun 25 2023,19:00,+0300,FK Smorgon,3-1,2-1,Dinamo Minsk,,2023-06-25T16:00Z
+13,Sun Jun 25 2023,21:00,+0300,BATE Borisov,1-2,1-1,Naftan Novopolotsk,,2023-06-25T18:00Z
+13,Sun Jun 25 2023,17:00,+0300,Belshina Bobruisk,1-2,1-2,FK Minsk,,2023-06-25T14:00Z
+14,Fri Jun 30 2023,20:00,+0300,Shakhter Soligorsk,1-0,1-0,FK Slutsk,,2023-06-30T17:00Z
+14,Fri Jun 30 2023,18:00,+0300,Energetik-BGU Minsk,0-1,0-0,FK Isloch Minsk,,2023-06-30T15:00Z
+14,Sat Jul 1 2023,16:50,+0300,FK Minsk,1-0,0-0,Torpedo-BelAZ Zhodino,,2023-07-01T13:50Z
+14,Sat Jul 1 2023,18:30,+0300,Dinamo Minsk,7-2,4-1,Belshina Bobruisk,,2023-07-01T15:30Z
+14,Sat Jul 1 2023,20:30,+0300,Neman Grodno,0-1,0-1,BATE Borisov,,2023-07-01T17:30Z
+14,Sun Jul 2 2023,20:30,+0300,FK Gomel,3-2,2-1,FK Slaviya Mozyr,,2023-07-02T17:30Z
+14,Sun Jul 2 2023,18:30,+0300,Dinamo Brest,2-1,1-1,FK Smorgon,,2023-07-02T15:30Z
+15,Thu Jul 6 2023,20:30,+0300,BATE Borisov,2-0,1-0,Shakhter Soligorsk,,2023-07-06T17:30Z
+15,Thu Jul 6 2023,18:30,+0300,Torpedo-BelAZ Zhodino,0-0,0-0,Dinamo Minsk,,2023-07-06T15:30Z
+15,Fri Jul 7 2023,18:30,+0300,Naftan Novopolotsk,0-3,0-1,Neman Grodno,,2023-07-07T15:30Z
+15,Fri Jul 7 2023,20:30,+0300,FK Slaviya Mozyr,0-0,0-0,Energetik-BGU Minsk,,2023-07-07T17:30Z
+15,Sat Jul 8 2023,17:00,+0300,Belshina Bobruisk,1-0,1-0,Dinamo Brest,,2023-07-08T14:00Z
+15,Sat Jul 8 2023,19:00,+0300,FK Slutsk,3-1,1-0,FK Gomel,,2023-07-08T16:00Z
+15,Sat Jul 8 2023,15:00,+0300,FK Isloch Minsk,0-0,0-0,FK Minsk,,2023-07-08T12:00Z
+16,Fri Aug 4 2023,16:00,+0300,Naftan Novopolotsk,1-1,0-1,Shakhter Soligorsk,,2023-08-04T13:00Z
+16,Fri Aug 4 2023,20:00,+0300,FK Slaviya Mozyr,1-0,0-0,FK Minsk,,2023-08-04T17:00Z
+16,Sat Aug 5 2023,18:00,+0300,FK Slutsk,1-1,0-1,Energetik-BGU Minsk,,2023-08-05T15:00Z
+16,Sat Aug 5 2023,16:00,+0300,Belshina Bobruisk,2-0,0-0,FK Smorgon,,2023-08-05T13:00Z
+16,Sun Aug 6 2023,18:00,+0300,Torpedo-BelAZ Zhodino,1-2,0-2,Dinamo Brest,,2023-08-06T15:00Z
+16,Sun Aug 6 2023,16:00,+0300,FK Isloch Minsk,2-3,0-1,Dinamo Minsk,,2023-08-06T13:00Z
+17,Fri Aug 11 2023,19:00,+0300,FK Minsk,0-1,0-0,FK Slutsk,,2023-08-11T16:00Z
+17,Sat Aug 12 2023,18:00,+0300,FK Gomel,3-2,1-1,Naftan Novopolotsk,,2023-08-12T15:00Z
+17,Sat Aug 12 2023,20:00,+0300,Dinamo Brest,0-1,0-0,FK Isloch Minsk,,2023-08-12T17:00Z
+17,Sun Aug 13 2023,18:00,+0300,Dinamo Minsk,2-2,1-1,FK Slaviya Mozyr,,2023-08-13T15:00Z
+17,Sun Aug 13 2023,16:00,+0300,FK Smorgon,1-1,0-1,Torpedo-BelAZ Zhodino,,2023-08-13T13:00Z
+18,Fri Aug 18 2023,17:30,+0300,Naftan Novopolotsk,4-0,2-0,Energetik-BGU Minsk,,2023-08-18T14:30Z
+18,Sat Aug 19 2023,18:00,+0300,Torpedo-BelAZ Zhodino,1-1,1-0,Belshina Bobruisk,,2023-08-19T15:00Z
+18,Sat Aug 19 2023,16:00,+0300,FK Isloch Minsk,1-0,0-0,FK Smorgon,,2023-08-19T13:00Z
+18,Sun Aug 20 2023,15:30,+0300,FK Slaviya Mozyr,0-1,0-1,Dinamo Brest,,2023-08-20T12:30Z
+18,Sun Aug 20 2023,17:30,+0300,FK Slutsk,1-2,0-1,Dinamo Minsk,,2023-08-20T14:30Z
+18,Tue Aug 22 2023,20:00,+0300,Neman Grodno,2-2,0-1,FK Gomel,,2023-08-22T17:00Z
+19,Fri Aug 25 2023,20:00,+0300,FK Minsk,1-0,0-0,Naftan Novopolotsk,,2023-08-25T17:00Z
+19,Sat Aug 26 2023,15:00,+0300,Belshina Bobruisk,0-2,0-1,FK Isloch Minsk,,2023-08-26T12:00Z
+19,Sat Aug 26 2023,19:00,+0300,Dinamo Brest,2-1,1-0,FK Slutsk,,2023-08-26T16:00Z
+19,Sat Aug 26 2023,17:00,+0300,FK Smorgon,0-2,0-1,FK Slaviya Mozyr,,2023-08-26T14:00Z
+19,Sun Aug 27 2023,15:00,+0300,FK Gomel,3-2,2-0,Shakhter Soligorsk,,2023-08-27T12:00Z
+19,Sun Aug 27 2023,17:00,+0300,Energetik-BGU Minsk,1-3,1-2,Neman Grodno,,2023-08-27T14:00Z
+20,Fri Sep 1 2023,17:00,+0300,FK Isloch Minsk,1-2,1-2,Torpedo-BelAZ Zhodino,,2023-09-01T14:00Z
+20,Sat Sep 2 2023,19:00,+0300,FK Slaviya Mozyr,4-1,2-0,Belshina Bobruisk,,2023-09-02T16:00Z
+20,Sat Sep 2 2023,17:00,+0300,Naftan Novopolotsk,0-3,0-2,Dinamo Minsk,,2023-09-02T14:00Z
+20,Sat Sep 2 2023,15:00,+0300,Neman Grodno,3-0,3-0,FK Minsk,,2023-09-02T12:00Z
+20,Sun Sep 3 2023,17:00,+0300,FK Slutsk,3-3,1-1,FK Smorgon,,2023-09-03T14:00Z
+20,Sun Sep 3 2023,19:00,+0300,BATE Borisov,4-0,2-0,Dinamo Brest,,2023-09-03T16:00Z
+20,Sun Sep 3 2023,15:00,+0300,Shakhter Soligorsk,3-2,1-0,Energetik-BGU Minsk,,2023-09-03T12:00Z
+21,Fri Sep 15 2023,20:30,+0300,Torpedo-BelAZ Zhodino,2-2,1-1,FK Slaviya Mozyr,,2023-09-15T17:30Z
+21,Sat Sep 16 2023,18:00,+0300,Energetik-BGU Minsk,1-2,0-0,FK Gomel,,2023-09-16T15:00Z
+21,Sat Sep 16 2023,16:00,+0300,Dinamo Brest,2-2,1-1,Naftan Novopolotsk,,2023-09-16T13:00Z
+21,Sat Sep 16 2023,14:00,+0300,Belshina Bobruisk,1-1,0-1,FK Slutsk,,2023-09-16T11:00Z
+21,Sun Sep 17 2023,18:30,+0300,Dinamo Minsk,2-1,1-0,Neman Grodno,,2023-09-17T15:30Z
+21,Sun Sep 17 2023,14:30,+0300,FK Smorgon,1-2,1-1,BATE Borisov,,2023-09-17T11:30Z
+21,Sun Sep 17 2023,16:30,+0300,FK Minsk,0-0,0-0,Shakhter Soligorsk,,2023-09-17T13:30Z
+22,Fri Sep 22 2023,17:30,+0300,FK Gomel,2-0,1-0,FK Minsk,,2023-09-22T14:30Z
+22,Fri Sep 22 2023,19:30,+0300,BATE Borisov,2-1,2-1,Belshina Bobruisk,,2023-09-22T16:30Z
+22,Sat Sep 23 2023,21:00,+0300,Shakhter Soligorsk,0-4,0-2,Dinamo Minsk,,2023-09-23T18:00Z
+22,Sat Sep 23 2023,16:00,+0300,FK Slutsk,0-0,0-0,Torpedo-BelAZ Zhodino,,2023-09-23T13:00Z
+22,Sat Sep 23 2023,18:00,+0300,Neman Grodno,3-1,0-1,Dinamo Brest,,2023-09-23T15:00Z
+22,Sun Sep 24 2023,16:00,+0300,Naftan Novopolotsk,3-0 (*),,FK Smorgon,awd.,2023-09-24T13:00Z
+22,Sun Sep 24 2023,19:30,+0300,FK Slaviya Mozyr,2-1,0-0,FK Isloch Minsk,,2023-09-24T16:30Z
+16,Tue Sep 26 2023,19:00,+0300,BATE Borisov,1-2,0-1,FK Gomel,,2023-09-26T16:00Z
+17,Wed Sep 27 2023,19:45,+0300,Shakhter Soligorsk,2-5,1-2,Neman Grodno,,2023-09-27T16:45Z
+23,Fri Sep 29 2023,18:00,+0300,FK Minsk,1-1,1-1,Energetik-BGU Minsk,,2023-09-29T15:00Z
+23,Sat Sep 30 2023,18:00,+0300,Torpedo-BelAZ Zhodino,1-1,1-1,BATE Borisov,,2023-09-30T15:00Z
+23,Sat Sep 30 2023,16:00,+0300,Belshina Bobruisk,0-3,0-1,Naftan Novopolotsk,,2023-09-30T13:00Z
+23,Sat Sep 30 2023,20:00,+0300,Dinamo Minsk,2-1,2-0,FK Gomel,,2023-09-30T17:00Z
+23,Sun Oct 1 2023,18:30,+0300,Dinamo Brest,3-3,2-2,Shakhter Soligorsk,,2023-10-01T15:30Z
+23,Sun Oct 1 2023,14:00,+0300,FK Isloch Minsk,0-0,0-0,FK Slutsk,,2023-10-01T11:00Z
+23,Sun Oct 1 2023,16:00,+0300,FK Smorgon,1-3,1-2,Neman Grodno,,2023-10-01T13:00Z
+17,Tue Oct 3 2023,19:00,+0300,Energetik-BGU Minsk,1-0,1-0,BATE Borisov,,2023-10-03T16:00Z
+24,Fri Oct 6 2023,16:00,+0300,FK Slutsk,1-0,0-0,FK Slaviya Mozyr,,2023-10-06T13:00Z
+24,Fri Oct 6 2023,19:00,+0300,Shakhter Soligorsk,2-0,0-0,FK Smorgon,,2023-10-06T16:00Z
+24,Sat Oct 7 2023,20:00,+0300,BATE Borisov,1-2,1-0,FK Isloch Minsk,,2023-10-07T17:00Z
+24,Sat Oct 7 2023,18:00,+0300,Neman Grodno,3-1,2-1,Belshina Bobruisk,,2023-10-07T15:00Z
+24,Sat Oct 7 2023,16:00,+0300,Energetik-BGU Minsk,1-4,1-1,Dinamo Minsk,,2023-10-07T13:00Z
+24,Sun Oct 8 2023,16:30,+0300,FK Gomel,1-4,0-3,Dinamo Brest,,2023-10-08T13:30Z
+24,Sun Oct 8 2023,14:30,+0300,Naftan Novopolotsk,0-1,0-1,Torpedo-BelAZ Zhodino,,2023-10-08T11:30Z
+25,Fri Oct 20 2023,19:00,+0300,Torpedo-BelAZ Zhodino,1-1,0-0,Neman Grodno,,2023-10-20T16:00Z
+25,Sat Oct 21 2023,20:30,+0300,FK Slaviya Mozyr,0-2,0-0,BATE Borisov,,2023-10-21T17:30Z
+25,Sat Oct 21 2023,18:30,+0300,Dinamo Minsk,1-0,1-0,FK Minsk,,2023-10-21T15:30Z
+25,Sat Oct 21 2023,15:00,+0300,FK Isloch Minsk,5-1,1-0,Naftan Novopolotsk,,2023-10-21T12:00Z
+25,Sun Oct 22 2023,15:00,+0300,Belshina Bobruisk,1-4,0-2,Shakhter Soligorsk,,2023-10-22T12:00Z
+25,Sun Oct 22 2023,13:00,+0300,FK Smorgon,0-3,0-0,FK Gomel,,2023-10-22T10:00Z
+25,Sun Oct 22 2023,19:30,+0300,Dinamo Brest,0-2,0-2,Energetik-BGU Minsk,,2023-10-22T16:30Z
+18,Wed Oct 25 2023,19:00,+0300,BATE Borisov,1-2,0-1,FK Minsk,,2023-10-25T16:00Z
+26,Fri Oct 27 2023,19:00,+0300,Energetik-BGU Minsk,2-4,1-1,FK Smorgon,,2023-10-27T16:00Z
+26,Sat Oct 28 2023,20:30,+0300,Neman Grodno,0-0,0-0,FK Isloch Minsk,,2023-10-28T17:30Z
+26,Sat Oct 28 2023,14:00,+0300,Naftan Novopolotsk,2-2,1-2,FK Slaviya Mozyr,,2023-10-28T11:00Z
+26,Sat Oct 28 2023,18:30,+0300,Shakhter Soligorsk,0-1,0-0,Torpedo-BelAZ Zhodino,,2023-10-28T15:30Z
+26,Sun Oct 29 2023,18:30,+0300,BATE Borisov,4-3,2-2,FK Slutsk,,2023-10-29T15:30Z
+26,Sun Oct 29 2023,14:00,+0300,Belshina Bobruisk,0-2,0-1,FK Gomel,,2023-10-29T11:00Z
+26,Sun Oct 29 2023,16:30,+0300,FK Minsk,0-1,0-1,Dinamo Brest,,2023-10-29T13:30Z
+19,Thu Nov 2 2023,18:45,+0300,Dinamo Minsk,0-1,0-0,BATE Borisov,,2023-11-02T15:45Z
+27,Sat Nov 4 2023,13:00,+0300,Naftan Novopolotsk,2-1,1-1,FK Slutsk,,2023-11-04T10:00Z
+27,Sat Nov 4 2023,15:00,+0300,FK Isloch Minsk,2-1,0-1,Shakhter Soligorsk,,2023-11-04T12:00Z
+27,Sat Nov 4 2023,17:30,+0300,Torpedo-BelAZ Zhodino,0-0,0-0,FK Gomel,,2023-11-04T14:30Z
+27,Sun Nov 5 2023,15:00,+0300,FK Smorgon,0-0,0-0,FK Minsk,,2023-11-05T12:00Z
+27,Sun Nov 5 2023,17:30,+0300,FK Slaviya Mozyr,0-2,0-0,Neman Grodno,,2023-11-05T14:30Z
+27,Sun Nov 5 2023,13:00,+0300,Belshina Bobruisk,0-1,0-0,Energetik-BGU Minsk,,2023-11-05T10:00Z
+27,Mon Nov 6 2023,16:00,+0300,Dinamo Brest,1-3,0-1,Dinamo Minsk,,2023-11-06T13:00Z
+28,Fri Nov 10 2023,17:00,+0300,Shakhter Soligorsk,0-1,0-1,FK Slaviya Mozyr,,2023-11-10T14:00Z
+28,Fri Nov 10 2023,19:00,+0300,FK Gomel,0-2,0-0,FK Isloch Minsk,,2023-11-10T16:00Z
+28,Sat Nov 11 2023,19:30,+0300,Neman Grodno,2-0,1-0,FK Slutsk,,2023-11-11T16:30Z
+28,Sat Nov 11 2023,17:30,+0300,Dinamo Minsk,7-0,4-0,FK Smorgon,,2023-11-11T14:30Z
+28,Sun Nov 12 2023,15:00,+0300,Energetik-BGU Minsk,1-2,0-2,Torpedo-BelAZ Zhodino,,2023-11-12T12:00Z
+28,Sun Nov 12 2023,17:00,+0300,FK Minsk,2-1,1-1,Belshina Bobruisk,,2023-11-12T14:00Z
+28,Sun Nov 12 2023,13:00,+0300,Naftan Novopolotsk,0-7,0-5,BATE Borisov,,2023-11-12T10:00Z
+29,Sat Nov 25 2023,13:00,+0300,FK Isloch Minsk,3-2,1-2,Energetik-BGU Minsk,,2023-11-25T10:00Z
+29,Sat Nov 25 2023,14:45,+0300,FK Slutsk,3-2,1-1,Shakhter Soligorsk,,2023-11-25T11:45Z
+29,Sat Nov 25 2023,17:00,+0300,Torpedo-BelAZ Zhodino,1-0,0-0,FK Minsk,,2023-11-25T14:00Z
+29,Sat Nov 25 2023,19:00,+0300,FK Slaviya Mozyr,0-0,0-0,FK Gomel,,2023-11-25T16:00Z
+29,Sun Nov 26 2023,14:45,+0300,FK Smorgon,3-1,0-1,Dinamo Brest,,2023-11-26T11:45Z
+29,Sun Nov 26 2023,17:00,+0300,BATE Borisov,3-2,1-1,Neman Grodno,,2023-11-26T14:00Z
+29,Sun Nov 26 2023,13:00,+0300,Belshina Bobruisk,0-4,0-1,Dinamo Minsk,,2023-11-26T10:00Z
+30,Sat Dec 2 2023,14:00,+0300,Dinamo Minsk,1-0,1-0,Torpedo-BelAZ Zhodino,,2023-12-02T11:00Z
+30,Sat Dec 2 2023,14:00,+0300,Dinamo Brest,3-2,1-1,Belshina Bobruisk,,2023-12-02T11:00Z
+30,Sat Dec 2 2023,14:00,+0300,Energetik-BGU Minsk,3-1,0-1,FK Slaviya Mozyr,,2023-12-02T11:00Z
+30,Sat Dec 2 2023,14:00,+0300,FK Minsk,2-1,2-0,FK Isloch Minsk,,2023-12-02T11:00Z
+30,Sat Dec 2 2023,14:00,+0300,Neman Grodno,6-1,1-0,Naftan Novopolotsk,,2023-12-02T11:00Z
+30,Sat Dec 2 2023,14:00,+0300,FK Gomel,4-5,1-2,FK Slutsk,,2023-12-02T11:00Z
+30,Sat Dec 2 2023,14:00,+0300,Shakhter Soligorsk,3-0,1-0,BATE Borisov,,2023-12-02T11:00Z

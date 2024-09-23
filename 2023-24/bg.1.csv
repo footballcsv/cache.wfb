@@ -1,0 +1,284 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
+,1,Fri Jul 14 2023,21:00,EEST/+0300,FK Krumovgrad,3-1,2-1,PFC Ludogorets Razgrad,2023-07-14T18:00Z
+,1,Fri Jul 14 2023,18:45,EEST/+0300,Pirin Blagoevgrad,1-2,1-1,PFC Beroe,2023-07-14T15:45Z
+,1,Sat Jul 15 2023,21:00,EEST/+0300,Arda Kardzhali,3-3,0-1,Cherno More Varna,2023-07-15T18:00Z
+,1,Sat Jul 15 2023,18:45,EEST/+0300,Levski Sofia,1-2,1-1,CSKA 1948 Sofia,2023-07-15T15:45Z
+,1,Sun Jul 16 2023,21:00,EEST/+0300,Hebar Pazardzhik,0-0,0-0,CSKA Sofia,2023-07-16T18:00Z
+,1,Sun Jul 16 2023,18:30,EEST/+0300,Lokomotiv Plovdiv,1-1,0-1,Botev Plovdiv,2023-07-16T15:30Z
+,1,Mon Jul 17 2023,18:30,EEST/+0300,Lokomotiv Sofia,1-0,0-0,Botev Vratsa,2023-07-17T15:30Z
+,1,Mon Jul 17 2023,20:45,EEST/+0300,Etar Veliko Tarnovo,0-1,0-1,Slavia Sofia,2023-07-17T17:45Z
+,2,Fri Jul 21 2023,21:15,EEST/+0300,CSKA Sofia,1-0,1-0,FK Krumovgrad,2023-07-21T18:15Z
+,2,Fri Jul 21 2023,19:00,EEST/+0300,CSKA 1948 Sofia,3-0,2-0,Pirin Blagoevgrad,2023-07-21T16:00Z
+,2,Sat Jul 22 2023,21:30,EEST/+0300,PFC Ludogorets Razgrad,5-0,1-0,Etar Veliko Tarnovo,2023-07-22T18:30Z
+,2,Sat Jul 22 2023,19:15,EEST/+0300,Botev Plovdiv,1-3,0-0,Levski Sofia,2023-07-22T16:15Z
+,2,Sun Jul 23 2023,21:15,EEST/+0300,Lokomotiv Sofia,2-4,1-1,Lokomotiv Plovdiv,2023-07-23T18:15Z
+,2,Sun Jul 23 2023,19:00,EEST/+0300,Cherno More Varna,1-0,1-0,Hebar Pazardzhik,2023-07-23T16:00Z
+,2,Mon Jul 24 2023,19:00,EEST/+0300,Botev Vratsa,2-0,0-0,Slavia Sofia,2023-07-24T16:00Z
+,2,Mon Jul 24 2023,21:15,EEST/+0300,PFC Beroe,1-0,1-0,Arda Kardzhali,2023-07-24T18:15Z
+,3,Fri Jul 28 2023,21:15,EEST/+0300,FK Krumovgrad,1-3,1-1,Cherno More Varna,2023-07-28T18:15Z
+,3,Sat Jul 29 2023,21:15,EEST/+0300,Pirin Blagoevgrad,0-0,0-0,Botev Plovdiv,2023-07-29T18:15Z
+,3,Sat Jul 29 2023,19:00,EEST/+0300,Hebar Pazardzhik,1-0,0-0,PFC Beroe,2023-07-29T16:00Z
+,3,Sun Jul 30 2023,21:15,EEST/+0300,Levski Sofia,6-0,2-0,Lokomotiv Sofia,2023-07-30T18:15Z
+,3,Mon Jul 31 2023,21:15,EEST/+0300,Lokomotiv Plovdiv,4-0,2-0,Botev Vratsa,2023-07-31T18:15Z
+,4,Fri Aug 4 2023,21:15,EEST/+0300,Botev Plovdiv,0-2,0-2,Arda Kardzhali,2023-08-04T18:15Z
+,4,Fri Aug 4 2023,19:00,EEST/+0300,Cherno More Varna,2-1,0-0,Etar Veliko Tarnovo,2023-08-04T16:00Z
+,4,Sat Aug 5 2023,21:15,EEST/+0300,Lokomotiv Sofia,2-0,1-0,Pirin Blagoevgrad,2023-08-05T18:15Z
+,4,Sat Aug 5 2023,19:00,EEST/+0300,Botev Vratsa,0-5,0-1,PFC Ludogorets Razgrad,2023-08-05T16:00Z
+,4,Sun Aug 6 2023,21:15,EEST/+0300,Lokomotiv Plovdiv,2-1,2-1,Levski Sofia,2023-08-06T18:15Z
+,4,Sun Aug 6 2023,18:45,EEST/+0300,CSKA Sofia,1-1,0-0,Slavia Sofia,2023-08-06T15:45Z
+,4,Mon Aug 7 2023,21:15,EEST/+0300,PFC Beroe,2-0,2-0,FK Krumovgrad,2023-08-07T18:15Z
+,4,Mon Aug 7 2023,19:00,EEST/+0300,CSKA 1948 Sofia,1-1,0-0,Hebar Pazardzhik,2023-08-07T16:00Z
+,5,Fri Aug 11 2023,21:15,EEST/+0300,Pirin Blagoevgrad,0-1,0-0,Lokomotiv Plovdiv,2023-08-11T18:15Z
+,5,Fri Aug 11 2023,19:00,EEST/+0300,Arda Kardzhali,1-0,1-0,Lokomotiv Sofia,2023-08-11T16:00Z
+,5,Sat Aug 12 2023,21:15,EEST/+0300,Slavia Sofia,1-5,1-2,Cherno More Varna,2023-08-12T18:15Z
+,5,Sat Aug 12 2023,19:00,EEST/+0300,Hebar Pazardzhik,1-0,0-0,Botev Plovdiv,2023-08-12T16:00Z
+,5,Sun Aug 13 2023,21:15,EEST/+0300,PFC Ludogorets Razgrad,3-0,2-0,CSKA Sofia,2023-08-13T18:15Z
+,5,Sun Aug 13 2023,18:45,EEST/+0300,Levski Sofia,1-0,0-0,Botev Vratsa,2023-08-13T15:45Z
+,5,Mon Aug 14 2023,21:15,EEST/+0300,FK Krumovgrad,1-0,0-0,CSKA 1948 Sofia,2023-08-14T18:15Z
+,5,Mon Aug 14 2023,19:00,EEST/+0300,Etar Veliko Tarnovo,2-2,1-1,PFC Beroe,2023-08-14T16:00Z
+,6,Fri Aug 18 2023,21:15,EEST/+0300,Lokomotiv Plovdiv,1-0,0-0,Arda Kardzhali,2023-08-18T18:15Z
+,6,Fri Aug 18 2023,19:00,EEST/+0300,Lokomotiv Sofia,0-1,0-1,Hebar Pazardzhik,2023-08-18T16:00Z
+,6,Sat Aug 19 2023,21:15,EEST/+0300,Botev Vratsa,0-2,0-1,CSKA Sofia,2023-08-19T18:15Z
+,6,Sat Aug 19 2023,19:00,EEST/+0300,PFC Beroe,3-0,3-0,Slavia Sofia,2023-08-19T16:00Z
+,6,Sun Aug 20 2023,19:00,EEST/+0300,Botev Plovdiv,1-2,1-0,FK Krumovgrad,2023-08-20T16:00Z
+,6,Sun Aug 20 2023,21:15,EEST/+0300,Cherno More Varna,1-0,0-0,PFC Ludogorets Razgrad,2023-08-20T18:15Z
+,6,Mon Aug 21 2023,20:30,EEST/+0300,CSKA 1948 Sofia,1-0,1-0,Etar Veliko Tarnovo,2023-08-21T17:30Z
+,7,Fri Aug 25 2023,21:15,EEST/+0300,Hebar Pazardzhik,3-4,3-4,Lokomotiv Plovdiv,2023-08-25T18:15Z
+,7,Fri Aug 25 2023,19:00,EEST/+0300,Pirin Blagoevgrad,0-1,0-0,Botev Vratsa,2023-08-25T16:00Z
+,7,Sat Aug 26 2023,21:15,EEST/+0300,CSKA Sofia,1-1,1-0,Cherno More Varna,2023-08-26T18:15Z
+,7,Sat Aug 26 2023,19:00,EEST/+0300,FK Krumovgrad,2-0,1-0,Lokomotiv Sofia,2023-08-26T16:00Z
+,7,Sun Aug 27 2023,21:15,EEST/+0300,PFC Ludogorets Razgrad,5-0,2-0,PFC Beroe,2023-08-27T18:15Z
+,7,Sun Aug 27 2023,19:00,EEST/+0300,Etar Veliko Tarnovo,1-2,0-0,Botev Plovdiv,2023-08-27T16:00Z
+,7,Mon Aug 28 2023,20:30,EEST/+0300,Slavia Sofia,0-2,0-2,CSKA 1948 Sofia,2023-08-28T17:30Z
+,8,Fri Sep 1 2023,19:15,EEST/+0300,Botev Vratsa,0-1,0-0,Cherno More Varna,2023-09-01T16:15Z
+,8,Fri Sep 1 2023,21:30,EEST/+0300,Botev Plovdiv,3-1,3-0,Slavia Sofia,2023-09-01T18:30Z
+,8,Fri Sep 1 2023,17:00,EEST/+0300,Pirin Blagoevgrad,0-2,0-1,Arda Kardzhali,2023-09-01T14:00Z
+,8,Sat Sep 2 2023,21:15,EEST/+0300,PFC Beroe,0-3,0-2,CSKA Sofia,2023-09-02T18:15Z
+,8,Sat Sep 2 2023,19:00,EEST/+0300,Lokomotiv Sofia,1-3,1-2,Etar Veliko Tarnovo,2023-09-02T16:00Z
+,8,Sun Sep 3 2023,21:15,EEST/+0300,Levski Sofia,1-0,0-0,Hebar Pazardzhik,2023-09-03T18:15Z
+,8,Sun Sep 3 2023,19:00,EEST/+0300,Lokomotiv Plovdiv,4-0,2-0,FK Krumovgrad,2023-09-03T16:00Z
+,6,Thu Sep 14 2023,20:30,EEST/+0300,Levski Sofia,2-0,0-0,Pirin Blagoevgrad,2023-09-14T17:30Z
+,9,Fri Sep 15 2023,17:30,EEST/+0300,Arda Kardzhali,4-0,2-0,Botev Vratsa,2023-09-15T14:30Z
+,9,Fri Sep 15 2023,20:00,EEST/+0300,Cherno More Varna,2-0,1-0,PFC Beroe,2023-09-15T17:00Z
+,9,Sat Sep 16 2023,17:30,EEST/+0300,Slavia Sofia,1-2,0-1,Lokomotiv Sofia,2023-09-16T14:30Z
+,9,Sat Sep 16 2023,20:00,EEST/+0300,PFC Ludogorets Razgrad,2-2,1-0,Botev Plovdiv,2023-09-16T17:00Z
+,9,Sun Sep 17 2023,20:15,EEST/+0300,CSKA Sofia,2-0,0-0,CSKA 1948 Sofia,2023-09-17T17:15Z
+,9,Sun Sep 17 2023,17:45,EEST/+0300,Etar Veliko Tarnovo,0-1,0-1,Lokomotiv Plovdiv,2023-09-17T14:45Z
+,9,Mon Sep 18 2023,17:30,EEST/+0300,Hebar Pazardzhik,1-2,0-0,Pirin Blagoevgrad,2023-09-18T14:30Z
+,9,Mon Sep 18 2023,20:00,EEST/+0300,FK Krumovgrad,2-2,1-2,Levski Sofia,2023-09-18T17:00Z
+,10,Fri Sep 22 2023,20:00,EEST/+0300,Botev Plovdiv,1-2,0-1,CSKA Sofia,2023-09-22T17:00Z
+,10,Fri Sep 22 2023,15:00,EEST/+0300,Botev Vratsa,1-0,0-0,PFC Beroe,2023-09-22T12:00Z
+,10,Fri Sep 22 2023,17:30,EEST/+0300,CSKA 1948 Sofia,1-1,0-1,Cherno More Varna,2023-09-22T14:30Z
+,10,Sat Sep 23 2023,15:00,EEST/+0300,Arda Kardzhali,3-1,1-0,Hebar Pazardzhik,2023-09-23T12:00Z
+,10,Sat Sep 23 2023,17:30,EEST/+0300,Lokomotiv Plovdiv,2-0,0-0,Slavia Sofia,2023-09-23T14:30Z
+,10,Sat Sep 23 2023,20:00,EEST/+0300,Levski Sofia,1-0,0-0,Etar Veliko Tarnovo,2023-09-23T17:00Z
+,10,Sun Sep 24 2023,20:30,EEST/+0300,Lokomotiv Sofia,1-3,1-0,PFC Ludogorets Razgrad,2023-09-24T17:30Z
+,10,Sun Sep 24 2023,18:00,EEST/+0300,Pirin Blagoevgrad,1-0,1-0,FK Krumovgrad,2023-09-24T15:00Z
+,11,Tue Sep 26 2023,19:30,EEST/+0300,Cherno More Varna,1-0,1-0,Botev Plovdiv,2023-09-26T16:30Z
+,11,Tue Sep 26 2023,17:00,EEST/+0300,PFC Beroe,0-0,0-0,CSKA 1948 Sofia,2023-09-26T14:00Z
+,11,Wed Sep 27 2023,18:00,EEST/+0300,Slavia Sofia,0-2,0-1,Levski Sofia,2023-09-27T15:00Z
+,11,Wed Sep 27 2023,15:30,EEST/+0300,Hebar Pazardzhik,1-1,1-0,Botev Vratsa,2023-09-27T12:30Z
+,11,Wed Sep 27 2023,20:30,EEST/+0300,PFC Ludogorets Razgrad,1-1,1-0,Lokomotiv Plovdiv,2023-09-27T17:30Z
+,11,Thu Sep 28 2023,18:00,EEST/+0300,FK Krumovgrad,1-3,0-3,Arda Kardzhali,2023-09-28T15:00Z
+,11,Thu Sep 28 2023,20:30,EEST/+0300,CSKA Sofia,2-0,2-0,Lokomotiv Sofia,2023-09-28T17:30Z
+,11,Thu Sep 28 2023,15:30,EEST/+0300,Etar Veliko Tarnovo,0-2,0-2,Pirin Blagoevgrad,2023-09-28T12:30Z
+,12,Sat Sep 30 2023,20:00,EEST/+0300,Botev Plovdiv,4-1,1-0,PFC Beroe,2023-09-30T17:00Z
+,12,Sat Sep 30 2023,17:30,EEST/+0300,Botev Vratsa,1-2,1-1,CSKA 1948 Sofia,2023-09-30T14:30Z
+,12,Sun Oct 1 2023,20:30,EEST/+0300,Levski Sofia,0-1,0-1,PFC Ludogorets Razgrad,2023-10-01T17:30Z
+,12,Sun Oct 1 2023,15:15,EEST/+0300,Arda Kardzhali,3-0,1-0,Etar Veliko Tarnovo,2023-10-01T12:15Z
+,12,Sun Oct 1 2023,17:45,EEST/+0300,Lokomotiv Sofia,0-0,0-0,Cherno More Varna,2023-10-01T14:45Z
+,12,Mon Oct 2 2023,17:30,EEST/+0300,Pirin Blagoevgrad,1-1,0-1,Slavia Sofia,2023-10-02T14:30Z
+,12,Mon Oct 2 2023,20:00,EEST/+0300,Lokomotiv Plovdiv,0-2,0-2,CSKA Sofia,2023-10-02T17:00Z
+,12,Mon Oct 2 2023,15:00,EEST/+0300,Hebar Pazardzhik,0-0,0-0,FK Krumovgrad,2023-10-02T12:00Z
+,13,Fri Oct 6 2023,20:00,EEST/+0300,PFC Beroe,0-1,0-0,Lokomotiv Sofia,2023-10-06T17:00Z
+,13,Fri Oct 6 2023,17:30,EEST/+0300,FK Krumovgrad,1-0,1-0,Botev Vratsa,2023-10-06T14:30Z
+,13,Sat Oct 7 2023,14:45,EEST/+0300,CSKA Sofia,1-1,0-1,Levski Sofia,2023-10-07T11:45Z
+,13,Sat Oct 7 2023,17:45,EEST/+0300,Slavia Sofia,1-0,1-0,Arda Kardzhali,2023-10-07T14:45Z
+,13,Sat Oct 7 2023,20:15,EEST/+0300,Cherno More Varna,2-2,1-2,Lokomotiv Plovdiv,2023-10-07T17:15Z
+,13,Sun Oct 8 2023,17:45,EEST/+0300,CSKA 1948 Sofia,1-0,0-0,Botev Plovdiv,2023-10-08T14:45Z
+,13,Sun Oct 8 2023,20:15,EEST/+0300,PFC Ludogorets Razgrad,4-0,1-0,Pirin Blagoevgrad,2023-10-08T17:15Z
+,13,Sun Oct 8 2023,15:15,EEST/+0300,Etar Veliko Tarnovo,2-5,2-2,Hebar Pazardzhik,2023-10-08T12:15Z
+,14,Fri Oct 20 2023,19:15,EEST/+0300,Lokomotiv Plovdiv,1-2,0-2,PFC Beroe,2023-10-20T16:15Z
+,14,Fri Oct 20 2023,16:45,EEST/+0300,FK Krumovgrad,0-0,0-0,Etar Veliko Tarnovo,2023-10-20T13:45Z
+,14,Sat Oct 21 2023,14:00,EEST/+0300,Botev Vratsa,3-5,1-2,Botev Plovdiv,2023-10-21T11:00Z
+,14,Sat Oct 21 2023,16:30,EEST/+0300,Lokomotiv Sofia,0-0,0-0,CSKA 1948 Sofia,2023-10-21T13:30Z
+,14,Sat Oct 21 2023,19:00,EEST/+0300,Pirin Blagoevgrad,1-2,1-0,CSKA Sofia,2023-10-21T16:00Z
+,14,Sun Oct 22 2023,16:30,EEST/+0300,Levski Sofia,1-0,0-0,Cherno More Varna,2023-10-22T13:30Z
+,14,Sun Oct 22 2023,14:00,EEST/+0300,Hebar Pazardzhik,1-0,0-0,Slavia Sofia,2023-10-22T11:00Z
+,14,Sun Oct 22 2023,19:00,EEST/+0300,Arda Kardzhali,0-0,0-0,PFC Ludogorets Razgrad,2023-10-22T16:00Z
+,15,Wed Oct 25 2023,17:30,EEST/+0300,Etar Veliko Tarnovo,2-1,1-1,Botev Vratsa,2023-10-25T14:30Z
+,15,Thu Oct 26 2023,12:30,EEST/+0300,Botev Plovdiv,6-0,3-0,Lokomotiv Sofia,2023-10-26T09:30Z
+,15,Thu Oct 26 2023,15:00,EEST/+0300,Cherno More Varna,2-1,1-1,Pirin Blagoevgrad,2023-10-26T12:00Z
+,15,Thu Oct 26 2023,17:30,EEST/+0300,CSKA 1948 Sofia,1-1,1-1,Lokomotiv Plovdiv,2023-10-26T14:30Z
+,15,Fri Oct 27 2023,19:00,EEST/+0300,PFC Beroe,2-1,1-1,Levski Sofia,2023-10-27T16:00Z
+,15,Fri Oct 27 2023,16:30,EEST/+0300,CSKA Sofia,0-0,0-0,Arda Kardzhali,2023-10-27T13:30Z
+,15,Fri Oct 27 2023,14:00,EEST/+0300,Slavia Sofia,2-0,1-0,FK Krumovgrad,2023-10-27T11:00Z
+,15,Sun Oct 29 2023,18:15,EET/+0200,PFC Ludogorets Razgrad,3-1,2-0,Hebar Pazardzhik,2023-10-29T16:15Z
+,3,Wed Nov 1 2023,17:00,EET/+0200,Etar Veliko Tarnovo,0-1,0-0,CSKA Sofia,2023-11-01T15:00Z
+,7,Wed Nov 1 2023,19:30,EET/+0200,Arda Kardzhali,0-0,0-0,Levski Sofia,2023-11-01T17:30Z
+,3,Thu Nov 2 2023,18:00,EET/+0200,Slavia Sofia,0-2,0-0,PFC Ludogorets Razgrad,2023-11-02T16:00Z
+,16,Fri Nov 3 2023,19:30,EET/+0200,Botev Plovdiv,0-0,0-0,Lokomotiv Plovdiv,2023-11-03T17:30Z
+,16,Fri Nov 3 2023,17:00,EET/+0200,PFC Beroe,0-0,0-0,Pirin Blagoevgrad,2023-11-03T15:00Z
+,16,Sun Nov 5 2023,15:30,EET/+0200,PFC Ludogorets Razgrad,1-0,1-0,FK Krumovgrad,2023-11-05T13:30Z
+,16,Mon Nov 6 2023,15:30,EET/+0200,Slavia Sofia,1-0,1-0,Etar Veliko Tarnovo,2023-11-06T13:30Z
+,16,Mon Nov 6 2023,13:00,EET/+0200,Botev Vratsa,0-2,0-1,Lokomotiv Sofia,2023-11-06T11:00Z
+,16,Mon Nov 6 2023,18:00,EET/+0200,CSKA Sofia,3-0,1-0,Hebar Pazardzhik,2023-11-06T16:00Z
+,16,Tue Nov 7 2023,15:00,EET/+0200,Cherno More Varna,1-0,0-0,Arda Kardzhali,2023-11-07T13:00Z
+,16,Tue Nov 7 2023,17:30,EET/+0200,CSKA 1948 Sofia,1-0,0-0,Levski Sofia,2023-11-07T15:30Z
+,17,Fri Nov 10 2023,15:00,EET/+0200,Slavia Sofia,1-0,1-0,Botev Vratsa,2023-11-10T13:00Z
+,17,Fri Nov 10 2023,17:30,EET/+0200,Lokomotiv Plovdiv,2-1,1-1,Lokomotiv Sofia,2023-11-10T15:30Z
+,17,Sat Nov 11 2023,15:15,EET/+0200,Pirin Blagoevgrad,2-1,0-0,CSKA 1948 Sofia,2023-11-11T13:15Z
+,17,Sat Nov 11 2023,12:45,EET/+0200,Hebar Pazardzhik,1-1,0-0,Cherno More Varna,2023-11-11T10:45Z
+,17,Sat Nov 11 2023,17:45,EET/+0200,Arda Kardzhali,1-0,0-0,PFC Beroe,2023-11-11T15:45Z
+,17,Sun Nov 12 2023,15:30,EET/+0200,Levski Sofia,1-1,1-0,Botev Plovdiv,2023-11-12T13:30Z
+,17,Sun Nov 12 2023,13:00,EET/+0200,FK Krumovgrad,1-4,1-1,CSKA Sofia,2023-11-12T11:00Z
+,17,Sun Nov 12 2023,18:00,EET/+0200,Etar Veliko Tarnovo,0-4,0-4,PFC Ludogorets Razgrad,2023-11-12T16:00Z
+,18,Fri Nov 24 2023,17:30,EET/+0200,PFC Beroe,2-1,1-0,Hebar Pazardzhik,2023-11-24T15:30Z
+,18,Sat Nov 25 2023,17:30,EET/+0200,CSKA Sofia,2-0,0-0,Etar Veliko Tarnovo,2023-11-25T15:30Z
+,18,Sat Nov 25 2023,15:00,EET/+0200,Botev Plovdiv,3-1,1-1,Pirin Blagoevgrad,2023-11-25T13:00Z
+,18,Sat Nov 25 2023,12:30,EET/+0200,Botev Vratsa,2-0,1-0,Lokomotiv Plovdiv,2023-11-25T10:30Z
+,18,Sun Nov 26 2023,17:45,EET/+0200,Cherno More Varna,3-2,2-0,FK Krumovgrad,2023-11-26T15:45Z
+,18,Mon Nov 27 2023,17:30,EET/+0200,Lokomotiv Sofia,2-2,0-1,Levski Sofia,2023-11-27T15:30Z
+,3,Mon Nov 27 2023,12:45,EET/+0200,Arda Kardzhali,0-3,0-2,CSKA 1948 Sofia,2023-11-27T10:45Z
+,18,Mon Nov 27 2023,15:15,EET/+0200,PFC Ludogorets Razgrad,2-3,1-1,Slavia Sofia,2023-11-27T13:15Z
+,19,Fri Dec 1 2023,15:00,EET/+0200,Arda Kardzhali,0-2,0-0,Botev Plovdiv,2023-12-01T13:00Z
+,19,Fri Dec 1 2023,17:30,EET/+0200,Slavia Sofia,1-1,0-0,CSKA Sofia,2023-12-01T15:30Z
+,19,Sat Dec 2 2023,15:00,EET/+0200,Etar Veliko Tarnovo,1-2,0-0,Cherno More Varna,2023-12-02T13:00Z
+,19,Sat Dec 2 2023,12:30,EET/+0200,Hebar Pazardzhik,1-3,0-1,CSKA 1948 Sofia,2023-12-02T10:30Z
+,19,Sat Dec 2 2023,17:30,EET/+0200,Levski Sofia,3-0,2-0,Lokomotiv Plovdiv,2023-12-02T15:30Z
+,19,Sun Dec 3 2023,15:15,EET/+0200,PFC Ludogorets Razgrad,5-0,1-0,Botev Vratsa,2023-12-03T13:15Z
+,19,Sun Dec 3 2023,17:45,EET/+0200,FK Krumovgrad,1-0,1-0,PFC Beroe,2023-12-03T15:45Z
+,19,Sun Dec 3 2023,12:45,EET/+0200,Pirin Blagoevgrad,1-1,1-0,Lokomotiv Sofia,2023-12-03T10:45Z
+,20,Sat Dec 9 2023,15:00,EET/+0200,Cherno More Varna,3-0,1-0,Slavia Sofia,2023-12-09T13:00Z
+,20,Sat Dec 9 2023,12:30,EET/+0200,Lokomotiv Sofia,0-1,0-0,Arda Kardzhali,2023-12-09T10:30Z
+,20,Sat Dec 9 2023,17:30,EET/+0200,Botev Vratsa,0-1,0-1,Levski Sofia,2023-12-09T15:30Z
+,20,Sun Dec 10 2023,15:00,EET/+0200,Botev Plovdiv,1-0,0-0,Hebar Pazardzhik,2023-12-10T13:00Z
+,20,Sun Dec 10 2023,12:30,EET/+0200,CSKA 1948 Sofia,0-3,0-1,FK Krumovgrad,2023-12-10T10:30Z
+,20,Sun Dec 10 2023,17:45,EET/+0200,CSKA Sofia,0-1,0-0,PFC Ludogorets Razgrad,2023-12-10T15:45Z
+,20,Mon Dec 11 2023,17:30,EET/+0200,PFC Beroe,0-0,0-0,Etar Veliko Tarnovo,2023-12-11T15:30Z
+,20,Mon Dec 11 2023,15:00,EET/+0200,Lokomotiv Plovdiv,3-0,0-0,Pirin Blagoevgrad,2023-12-11T13:00Z
+,18,Thu Dec 14 2023,17:30,EET/+0200,CSKA 1948 Sofia,1-0,1-0,Arda Kardzhali,2023-12-14T15:30Z
+,21,Fri Feb 16 2024,17:30,EET/+0200,Hebar Pazardzhik,0-1,0-1,Lokomotiv Sofia,2024-02-16T15:30Z
+,21,Sat Feb 17 2024,14:30,EET/+0200,Slavia Sofia,3-0,2-0,PFC Beroe,2024-02-17T12:30Z
+,21,Sat Feb 17 2024,12:00,EET/+0200,FK Krumovgrad,2-1,1-1,Botev Plovdiv,2024-02-17T10:00Z
+,21,Sat Feb 17 2024,17:00,EET/+0200,Pirin Blagoevgrad,1-2,1-2,Levski Sofia,2024-02-17T15:00Z
+,21,Sun Feb 18 2024,12:45,EET/+0200,Etar Veliko Tarnovo,1-1,0-0,CSKA 1948 Sofia,2024-02-18T10:45Z
+,21,Sun Feb 18 2024,15:15,EET/+0200,Arda Kardzhali,1-2,1-1,Lokomotiv Plovdiv,2024-02-18T13:15Z
+,21,Sun Feb 18 2024,17:45,EET/+0200,CSKA Sofia,3-0,2-0,Botev Vratsa,2024-02-18T15:45Z
+,21,Mon Feb 19 2024,16:00,EET/+0200,PFC Ludogorets Razgrad,3-1,3-1,Cherno More Varna,2024-02-19T14:00Z
+,22,Fri Feb 23 2024,17:30,EET/+0200,Botev Plovdiv,2-0,0-0,Etar Veliko Tarnovo,2024-02-23T15:30Z
+,22,Fri Feb 23 2024,15:00,EET/+0200,Botev Vratsa,1-2,0-1,Pirin Blagoevgrad,2024-02-23T13:00Z
+,22,Sat Feb 24 2024,12:45,EET/+0200,Lokomotiv Plovdiv,1-2,1-0,Hebar Pazardzhik,2024-02-24T10:45Z
+,22,Sat Feb 24 2024,15:15,EET/+0200,Cherno More Varna,1-0,0-0,CSKA Sofia,2024-02-24T13:15Z
+,22,Sat Feb 24 2024,17:45,EET/+0200,Levski Sofia,4-0,3-0,Arda Kardzhali,2024-02-24T15:45Z
+,22,Sun Feb 25 2024,16:45,EET/+0200,CSKA 1948 Sofia,1-1,0-1,Slavia Sofia,2024-02-25T14:45Z
+,22,Sun Feb 25 2024,14:30,EET/+0200,Lokomotiv Sofia,0-2,0-1,FK Krumovgrad,2024-02-25T12:30Z
+,22,Mon Feb 26 2024,17:30,EET/+0200,PFC Beroe,0-2,0-1,PFC Ludogorets Razgrad,2024-02-26T15:30Z
+,23,Fri Mar 1 2024,17:30,EET/+0200,Cherno More Varna,2-1,1-0,Botev Vratsa,2024-03-01T15:30Z
+,23,Sat Mar 2 2024,12:45,EET/+0200,Etar Veliko Tarnovo,1-2,0-0,Lokomotiv Sofia,2024-03-02T10:45Z
+,23,Sat Mar 2 2024,15:15,EET/+0200,FK Krumovgrad,3-1,0-0,Lokomotiv Plovdiv,2024-03-02T13:15Z
+,23,Sat Mar 2 2024,17:45,EET/+0200,Slavia Sofia,2-2,1-0,Botev Plovdiv,2024-03-02T15:45Z
+,23,Sun Mar 3 2024,14:30,EET/+0200,CSKA Sofia,3-0,2-0,PFC Beroe,2024-03-03T12:30Z
+,23,Sun Mar 3 2024,17:00,EET/+0200,PFC Ludogorets Razgrad,2-0,1-0,CSKA 1948 Sofia,2024-03-03T15:00Z
+,23,Mon Mar 4 2024,17:30,EET/+0200,Hebar Pazardzhik,0-1,0-0,Levski Sofia,2024-03-04T15:30Z
+,23,Mon Mar 4 2024,15:00,EET/+0200,Arda Kardzhali,0-0,0-0,Pirin Blagoevgrad,2024-03-04T13:00Z
+,24,Fri Mar 8 2024,18:30,EET/+0200,Lokomotiv Plovdiv,3-0,0-0,Etar Veliko Tarnovo,2024-03-08T16:30Z
+,24,Sat Mar 9 2024,12:30,EET/+0200,Lokomotiv Sofia,1-2,1-0,Slavia Sofia,2024-03-09T10:30Z
+,24,Sat Mar 9 2024,15:00,EET/+0200,CSKA 1948 Sofia,1-2,1-0,CSKA Sofia,2024-03-09T13:00Z
+,24,Sat Mar 9 2024,17:30,EET/+0200,PFC Beroe,2-0,2-0,Cherno More Varna,2024-03-09T15:30Z
+,24,Sun Mar 10 2024,12:45,EET/+0200,Botev Vratsa,1-2,0-0,Arda Kardzhali,2024-03-10T10:45Z
+,24,Sun Mar 10 2024,17:45,EET/+0200,Botev Plovdiv,0-2,0-2,PFC Ludogorets Razgrad,2024-03-10T15:45Z
+,24,Sun Mar 10 2024,15:15,EET/+0200,Levski Sofia,0-0,0-0,FK Krumovgrad,2024-03-10T13:15Z
+,24,Mon Mar 11 2024,17:30,EET/+0200,Pirin Blagoevgrad,1-1,1-0,Hebar Pazardzhik,2024-03-11T15:30Z
+,25,Fri Mar 15 2024,18:45,EET/+0200,Cherno More Varna,2-1,1-1,CSKA 1948 Sofia,2024-03-15T16:45Z
+,25,Fri Mar 15 2024,16:15,EET/+0200,PFC Beroe,2-2,1-0,Botev Vratsa,2024-03-15T14:15Z
+,25,Sat Mar 16 2024,17:45,EET/+0200,PFC Ludogorets Razgrad,6-0,3-0,Lokomotiv Sofia,2024-03-16T15:45Z
+,25,Sat Mar 16 2024,12:45,EET/+0200,Slavia Sofia,1-2,0-1,Lokomotiv Plovdiv,2024-03-16T10:45Z
+,25,Sat Mar 16 2024,15:15,EET/+0200,Etar Veliko Tarnovo,0-3,0-0,Levski Sofia,2024-03-16T13:15Z
+,25,Sun Mar 17 2024,12:45,EET/+0200,FK Krumovgrad,2-2,2-1,Pirin Blagoevgrad,2024-03-17T10:45Z
+,25,Sun Mar 17 2024,15:15,EET/+0200,Hebar Pazardzhik,1-0,0-0,Arda Kardzhali,2024-03-17T13:15Z
+,25,Sun Mar 17 2024,17:45,EET/+0200,CSKA Sofia,4-0,3-0,Botev Plovdiv,2024-03-17T15:45Z
+,26,Fri Mar 29 2024,19:00,EET/+0200,Levski Sofia,2-0,1-0,Slavia Sofia,2024-03-29T17:00Z
+,26,Fri Mar 29 2024,14:00,EET/+0200,Pirin Blagoevgrad,2-1,1-1,Etar Veliko Tarnovo,2024-03-29T12:00Z
+,26,Fri Mar 29 2024,16:30,EET/+0200,Arda Kardzhali,1-1,1-1,FK Krumovgrad,2024-03-29T14:30Z
+,26,Sat Mar 30 2024,14:00,EET/+0200,Botev Vratsa,3-2,1-0,Hebar Pazardzhik,2024-03-30T12:00Z
+,26,Sat Mar 30 2024,16:30,EET/+0200,Lokomotiv Plovdiv,1-2,1-1,PFC Ludogorets Razgrad,2024-03-30T14:30Z
+,26,Sat Mar 30 2024,19:00,EET/+0200,Lokomotiv Sofia,0-1,0-1,CSKA Sofia,2024-03-30T17:00Z
+,26,Sun Mar 31 2024,19:00,EEST/+0300,CSKA 1948 Sofia,0-1,0-0,PFC Beroe,2024-03-31T16:00Z
+,26,Sun Mar 31 2024,16:30,EEST/+0300,Botev Plovdiv,0-0,0-0,Cherno More Varna,2024-03-31T13:30Z
+,27,Tue Apr 2 2024,19:30,EEST/+0300,Slavia Sofia,0-0,0-0,Pirin Blagoevgrad,2024-04-02T16:30Z
+,27,Tue Apr 2 2024,17:00,EEST/+0300,Etar Veliko Tarnovo,2-1,1-0,Arda Kardzhali,2024-04-02T14:00Z
+,27,Wed Apr 3 2024,19:30,EEST/+0300,PFC Ludogorets Razgrad,5-1,1-1,Levski Sofia,2024-04-03T16:30Z
+,27,Wed Apr 3 2024,14:30,EEST/+0300,FK Krumovgrad,3-2,2-0,Hebar Pazardzhik,2024-04-03T11:30Z
+,27,Wed Apr 3 2024,17:00,EEST/+0300,CSKA Sofia,1-2,0-0,Lokomotiv Plovdiv,2024-04-03T14:00Z
+,27,Thu Apr 4 2024,14:30,EEST/+0300,CSKA 1948 Sofia,0-0,0-0,Botev Vratsa,2024-04-04T11:30Z
+,27,Thu Apr 4 2024,17:00,EEST/+0300,PFC Beroe,0-3,0-2,Botev Plovdiv,2024-04-04T14:00Z
+,27,Thu Apr 4 2024,19:30,EEST/+0300,Cherno More Varna,3-0,3-0,Lokomotiv Sofia,2024-04-04T16:30Z
+,28,Sat Apr 6 2024,17:45,EEST/+0300,Hebar Pazardzhik,3-0,1-0,Etar Veliko Tarnovo,2024-04-06T14:45Z
+,28,Sat Apr 6 2024,20:15,EEST/+0300,Arda Kardzhali,2-1,2-1,Slavia Sofia,2024-04-06T17:15Z
+,28,Sun Apr 7 2024,14:45,EEST/+0300,Levski Sofia,0-2,0-0,CSKA Sofia,2024-04-07T11:45Z
+,28,Sun Apr 7 2024,20:15,EEST/+0300,Pirin Blagoevgrad,0-2,0-0,PFC Ludogorets Razgrad,2024-04-07T17:15Z
+,28,Sun Apr 7 2024,17:45,EEST/+0300,Botev Plovdiv,0-0,0-0,CSKA 1948 Sofia,2024-04-07T14:45Z
+,28,Mon Apr 8 2024,17:00,EEST/+0300,Botev Vratsa,0-0,0-0,FK Krumovgrad,2024-04-08T14:00Z
+,28,Mon Apr 8 2024,19:30,EEST/+0300,Lokomotiv Plovdiv,1-0,1-0,Cherno More Varna,2024-04-08T16:30Z
+,28,Tue Apr 9 2024,18:30,EEST/+0300,Lokomotiv Sofia,1-0,1-0,PFC Beroe,2024-04-09T15:30Z
+,8,Thu Apr 11 2024,18:45,EEST/+0300,CSKA 1948 Sofia,0-1,0-0,PFC Ludogorets Razgrad,2024-04-11T15:45Z
+,29,Fri Apr 12 2024,20:15,EEST/+0300,CSKA Sofia,1-2,1-1,Pirin Blagoevgrad,2024-04-12T17:15Z
+,29,Fri Apr 12 2024,17:45,EEST/+0300,Botev Plovdiv,2-0,1-0,Botev Vratsa,2024-04-12T14:45Z
+,29,Sat Apr 13 2024,20:15,EEST/+0300,Cherno More Varna,3-1,1-0,Levski Sofia,2024-04-13T17:15Z
+,29,Sat Apr 13 2024,17:45,EEST/+0300,Slavia Sofia,3-1,1-0,Hebar Pazardzhik,2024-04-13T14:45Z
+,29,Sun Apr 14 2024,17:00,EEST/+0300,Etar Veliko Tarnovo,0-0,0-0,FK Krumovgrad,2024-04-14T14:00Z
+,29,Sun Apr 14 2024,19:30,EEST/+0300,PFC Beroe,2-2,1-1,Lokomotiv Plovdiv,2024-04-14T16:30Z
+,29,Mon Apr 15 2024,20:00,EEST/+0300,PFC Ludogorets Razgrad,2-0,2-0,Arda Kardzhali,2024-04-15T17:00Z
+,29,Mon Apr 15 2024,17:30,EEST/+0300,CSKA 1948 Sofia,2-1,1-1,Lokomotiv Sofia,2024-04-15T14:30Z
+,30,Fri Apr 19 2024,20:00,EEST/+0300,FK Krumovgrad,2-0,2-0,Slavia Sofia,2024-04-19T17:00Z
+,30,Fri Apr 19 2024,17:30,EEST/+0300,Botev Vratsa,2-0,1-0,Etar Veliko Tarnovo,2024-04-19T14:30Z
+,30,Sat Apr 20 2024,15:15,EEST/+0300,Pirin Blagoevgrad,0-0,0-0,Cherno More Varna,2024-04-20T12:15Z
+,30,Sat Apr 20 2024,17:45,EEST/+0300,Hebar Pazardzhik,0-3,0-2,PFC Ludogorets Razgrad,2024-04-20T14:45Z
+,30,Sat Apr 20 2024,20:15,EEST/+0300,Levski Sofia,1-0,0-0,PFC Beroe,2024-04-20T17:15Z
+,30,Sun Apr 21 2024,17:45,EEST/+0300,Lokomotiv Sofia,0-4,0-2,Botev Plovdiv,2024-04-21T14:45Z
+,30,Sun Apr 21 2024,20:15,EEST/+0300,Arda Kardzhali,2-3,2-1,CSKA Sofia,2024-04-21T17:15Z
+,30,Sun Apr 21 2024,15:15,EEST/+0300,Lokomotiv Plovdiv,1-1,0-0,CSKA 1948 Sofia,2024-04-21T12:15Z
+Playoffs - Relegation,1,Fri Apr 26 2024,20:00,EEST/+0300,Pirin Blagoevgrad,1-2,1-1,Botev Vratsa,2024-04-26T17:00Z
+Conference League,1,Sat Apr 27 2024,19:00,EEST/+0300,Botev Plovdiv,0-1,0-1,Slavia Sofia,2024-04-27T16:00Z
+Championship,1,Sat Apr 27 2024,16:15,EEST/+0300,CSKA Sofia,3-1,3-0,Levski Sofia,2024-04-27T13:15Z
+Championship,1,Sun Apr 28 2024,20:15,EEST/+0300,Cherno More Varna,1-0,1-0,Lokomotiv Plovdiv,2024-04-28T17:15Z
+Championship,1,Sun Apr 28 2024,17:45,EEST/+0300,PFC Ludogorets Razgrad,3-3,0-2,FK Krumovgrad,2024-04-28T14:45Z
+Playoffs - Relegation,1,Sun Apr 28 2024,15:15,EEST/+0300,Hebar Pazardzhik,0-2,0-1,Lokomotiv Sofia,2024-04-28T12:15Z
+Conference League,1,Mon Apr 29 2024,17:45,EEST/+0300,CSKA 1948 Sofia,1-1,0-1,Arda Kardzhali,2024-04-29T14:45Z
+Playoffs - Relegation,1,Mon Apr 29 2024,20:15,EEST/+0300,PFC Beroe,3-0,2-0,Etar Veliko Tarnovo,2024-04-29T17:15Z
+Conference League,2,Mon May 6 2024,17:45,EEST/+0300,Slavia Sofia,0-0,0-0,Arda Kardzhali,2024-05-06T14:45Z
+Conference League,2,Mon May 6 2024,20:15,EEST/+0300,Botev Plovdiv,0-0,0-0,CSKA 1948 Sofia,2024-05-06T17:15Z
+Conference League,3,Fri May 10 2024,16:45,EEST/+0300,CSKA 1948 Sofia,0-2,0-1,Slavia Sofia,2024-05-10T13:45Z
+Championship,2,Fri May 10 2024,19:15,EEST/+0300,FK Krumovgrad,4-1,3-0,Lokomotiv Plovdiv,2024-05-10T16:15Z
+Conference League,3,Sat May 11 2024,17:00,EEST/+0300,Arda Kardzhali,2-1,0-1,Botev Plovdiv,2024-05-11T14:00Z
+Championship,2,Sat May 11 2024,19:30,EEST/+0300,PFC Ludogorets Razgrad,3-1,1-1,CSKA Sofia,2024-05-11T16:30Z
+Playoffs - Relegation,2,Sun May 12 2024,17:00,EEST/+0300,PFC Beroe,2-0,2-0,Pirin Blagoevgrad,2024-05-12T14:00Z
+Championship,2,Sun May 12 2024,19:30,EEST/+0300,Levski Sofia,0-0,0-0,Cherno More Varna,2024-05-12T16:30Z
+Playoffs - Relegation,2,Mon May 13 2024,17:45,EEST/+0300,Etar Veliko Tarnovo,1-1,1-0,Lokomotiv Sofia,2024-05-13T14:45Z
+Playoffs - Relegation,2,Mon May 13 2024,20:15,EEST/+0300,Botev Vratsa,1-0,1-0,Hebar Pazardzhik,2024-05-13T17:15Z
+Playoffs - Relegation,3,Fri May 17 2024,15:15,EEST/+0300,Pirin Blagoevgrad,2-2,1-0,Etar Veliko Tarnovo,2024-05-17T12:15Z
+Playoffs - Relegation,3,Fri May 17 2024,17:45,EEST/+0300,Lokomotiv Sofia,1-1,1-1,Botev Vratsa,2024-05-17T14:45Z
+Playoffs - Relegation,3,Fri May 17 2024,20:15,EEST/+0300,Hebar Pazardzhik,0-1,0-0,PFC Beroe,2024-05-17T17:15Z
+Championship,3,Sat May 18 2024,20:15,EEST/+0300,Lokomotiv Plovdiv,1-2,1-2,Levski Sofia,2024-05-18T17:15Z
+Championship,3,Sat May 18 2024,17:45,EEST/+0300,CSKA Sofia,2-2,1-1,FK Krumovgrad,2024-05-18T14:45Z
+Championship,3,Sun May 19 2024,20:30,EEST/+0300,Cherno More Varna,4-0,1-0,PFC Ludogorets Razgrad,2024-05-19T17:30Z
+Conference League,4,Mon May 20 2024,20:15,EEST/+0300,Slavia Sofia,3-1,2-1,Botev Plovdiv,2024-05-20T17:15Z
+Conference League,4,Mon May 20 2024,17:45,EEST/+0300,Arda Kardzhali,0-0,0-0,CSKA 1948 Sofia,2024-05-20T14:45Z
+Playoffs - Relegation,4,Tue May 21 2024,16:30,EEST/+0300,Etar Veliko Tarnovo,1-1,1-1,Botev Vratsa,2024-05-21T13:30Z
+Playoffs - Relegation,4,Tue May 21 2024,18:45,EEST/+0300,PFC Beroe,0-3,0-2,Lokomotiv Sofia,2024-05-21T15:45Z
+Playoffs - Relegation,4,Tue May 21 2024,21:00,EEST/+0300,Pirin Blagoevgrad,0-0,0-0,Hebar Pazardzhik,2024-05-21T18:00Z
+Championship,4,Wed May 22 2024,18:30,EEST/+0300,PFC Ludogorets Razgrad,3-0,3-0,Lokomotiv Plovdiv,2024-05-22T15:30Z
+Championship,4,Wed May 22 2024,16:00,EEST/+0300,FK Krumovgrad,0-1,0-0,Levski Sofia,2024-05-22T13:00Z
+Conference League,5,Thu May 23 2024,15:15,EEST/+0300,Arda Kardzhali,3-1,1-1,Slavia Sofia,2024-05-23T12:15Z
+Conference League,5,Thu May 23 2024,17:45,EEST/+0300,CSKA 1948 Sofia,2-1,0-0,Botev Plovdiv,2024-05-23T14:45Z
+Championship,4,Thu May 23 2024,20:15,EEST/+0300,CSKA Sofia,0-1,0-0,Cherno More Varna,2024-05-23T17:15Z
+Playoffs - Relegation,5,Sat May 25 2024,20:30,EEST/+0300,Hebar Pazardzhik,3-1,0-1,Etar Veliko Tarnovo,2024-05-25T17:30Z
+Playoffs - Relegation,5,Sat May 25 2024,20:30,EEST/+0300,Botev Vratsa,1-0,1-0,PFC Beroe,2024-05-25T17:30Z
+Playoffs - Relegation,5,Sat May 25 2024,20:30,EEST/+0300,Lokomotiv Sofia,1-0,0-0,Pirin Blagoevgrad,2024-05-25T17:30Z
+Championship,5,Sun May 26 2024,18:00,EEST/+0300,Levski Sofia,1-0,0-0,PFC Ludogorets Razgrad,2024-05-26T15:00Z
+Championship,5,Sun May 26 2024,20:30,EEST/+0300,Lokomotiv Plovdiv,1-0,1-0,CSKA Sofia,2024-05-26T17:30Z
+Championship,5,Sun May 26 2024,18:30,EEST/+0300,Cherno More Varna,3-1,1-1,FK Krumovgrad,2024-05-26T15:30Z
+Conference League,6,Mon May 27 2024,20:00,EEST/+0300,Slavia Sofia,0-2,0-1,CSKA 1948 Sofia,2024-05-27T17:00Z
+Conference League,6,Mon May 27 2024,20:00,EEST/+0300,Botev Plovdiv,0-1,0-1,Arda Kardzhali,2024-05-27T17:00Z
+ECL Playoff,Final,Fri May 31 2024,20:00,EEST/+0300,CSKA Sofia,0-2,0-1,CSKA 1948 Sofia,2024-05-31T17:00Z

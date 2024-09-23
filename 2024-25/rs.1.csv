@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Jul 19 2024,21:00,CEST/+0200,FK Napredak,0-1,0-0,Partizan,,2024-07-19T19:00Z
+1,Fri Jul 19 2024,19:00,CEST/+0200,FK Radnički 1923,2-3,1-3,Železničar Pančevo,,2024-07-19T17:00Z
+1,Sat Jul 20 2024,20:00,CEST/+0200,Mladost Lučani,1-2,0-0,OFK Beograd,,2024-07-20T18:00Z
+1,Sat Jul 20 2024,20:00,CEST/+0200,FK Čukarički,2-0,2-0,Radnički Niš,,2024-07-20T18:00Z
+1,Sat Jul 20 2024,20:00,CEST/+0200,Crvena Zvezda,4-0,2-0,Jedinstvo Ub,,2024-07-20T18:00Z
+1,Sun Jul 21 2024,17:30,CEST/+0200,FK Novi Pazar,3-2,2-0,Spartak Subotica,,2024-07-21T15:30Z
+1,Sun Jul 21 2024,19:30,CEST/+0200,Tekstilac Odžaci,1-3,0-1,Vojvodina,,2024-07-21T17:30Z
+1,Sun Jul 21 2024,19:30,CEST/+0200,TSC Bačka Topola,1-0,0-0,IMT Beograd,,2024-07-21T17:30Z
+2,Sat Jul 27 2024,20:00,CEST/+0200,Železničar Pančevo,1-1,1-0,FK Napredak,,2024-07-27T18:00Z
+2,Sat Jul 27 2024,20:00,CEST/+0200,Crvena Zvezda,2-2,0-2,Mladost Lučani,,2024-07-27T18:00Z
+2,Sat Jul 27 2024,20:00,CEST/+0200,Jedinstvo Ub,0-4,0-2,Partizan,,2024-07-27T18:00Z
+2,Sun Jul 28 2024,21:00,CEST/+0200,Radnički Niš,1-0,0-0,TSC Bačka Topola,,2024-07-28T19:00Z
+2,Sun Jul 28 2024,21:00,CEST/+0200,Spartak Subotica,1-1,0-1,FK Čukarički,,2024-07-28T19:00Z
+2,Sun Jul 28 2024,,,Vojvodina,,,FK Novi Pazar,postponed,
+2,Mon Jul 29 2024,20:00,CEST/+0200,OFK Beograd,1-0,1-0,Tekstilac Odžaci,,2024-07-29T18:00Z
+3,Fri Aug 2 2024,20:00,CEST/+0200,FK Napredak,1-1,0-0,IMT Beograd,,2024-08-02T18:00Z
+3,Sat Aug 3 2024,17:30,CEST/+0200,FK Novi Pazar,0-0,0-0,OFK Beograd,,2024-08-03T15:30Z
+3,Sat Aug 3 2024,20:00,CEST/+0200,Mladost Lučani,2-1,0-1,Jedinstvo Ub,,2024-08-03T18:00Z
+3,Sat Aug 3 2024,20:00,CEST/+0200,Tekstilac Odžaci,0-4,0-0,Crvena Zvezda,,2024-08-03T18:00Z
+3,Sun Aug 4 2024,20:00,CEST/+0200,Partizan,2-0,2-0,Železničar Pančevo,,2024-08-04T18:00Z
+3,Sun Aug 4 2024,17:30,CEST/+0200,TSC Bačka Topola,0-0,0-0,Spartak Subotica,,2024-08-04T15:30Z
+3,Sun Aug 4 2024,20:00,CEST/+0200,FK Čukarički,3-1,3-1,Vojvodina,,2024-08-04T18:00Z
+3,Sun Aug 4 2024,21:00,CEST/+0200,FK Radnički 1923,4-0,2-0,Radnički Niš,,2024-08-04T19:00Z
+4,Fri Aug 9 2024,18:00,CEST/+0200,OFK Beograd,1-2,0-1,FK Čukarički,,2024-08-09T16:00Z
+4,Fri Aug 9 2024,20:00,CEST/+0200,Radnički Niš,3-1,2-1,FK Napredak,,2024-08-09T18:00Z
+4,Sat Aug 10 2024,20:00,CEST/+0200,Mladost Lučani,1-2,0-1,Tekstilac Odžaci,,2024-08-10T18:00Z
+4,Sat Aug 10 2024,20:00,CEST/+0200,Spartak Subotica,1-0,1-0,FK Radnički 1923,,2024-08-10T18:00Z
+4,Sat Aug 10 2024,20:00,CEST/+0200,Crvena Zvezda,4-1,1-0,FK Novi Pazar,,2024-08-10T18:00Z
+4,Sun Aug 11 2024,20:00,CEST/+0200,Vojvodina,1-3,0-2,TSC Bačka Topola,,2024-08-11T18:00Z
+4,Sun Aug 11 2024,18:00,CEST/+0200,Jedinstvo Ub,0-1,0-1,Železničar Pančevo,,2024-08-11T16:00Z
+4,Sun Aug 11 2024,20:00,CEST/+0200,IMT Beograd,0-0,0-0,Partizan,,2024-08-11T18:00Z
+5,Thu Aug 15 2024,20:00,CEST/+0200,FK Čukarički,1-4,0-2,Crvena Zvezda,,2024-08-15T18:00Z
+5,Fri Aug 16 2024,18:55,CEST/+0200,TSC Bačka Topola,0-1,0-1,OFK Beograd,,2024-08-16T16:55Z
+5,Sat Aug 17 2024,17:30,CEST/+0200,FK Novi Pazar,0-1,0-1,Mladost Lučani,,2024-08-17T15:30Z
+5,Sat Aug 17 2024,19:30,CEST/+0200,Tekstilac Odžaci,1-1,1-0,Jedinstvo Ub,,2024-08-17T17:30Z
+5,Sat Aug 17 2024,19:30,CEST/+0200,FK Napredak,2-0,1-0,Spartak Subotica,,2024-08-17T17:30Z
+5,Sun Aug 18 2024,,,Partizan,,,Radnički Niš,postponed,
+5,Sun Aug 18 2024,19:30,CEST/+0200,Železničar Pančevo,2-1,1-1,IMT Beograd,,2024-08-18T17:30Z
+5,Mon Aug 19 2024,19:00,CEST/+0200,FK Radnički 1923,2-2,1-2,Vojvodina,,2024-08-19T17:00Z
+6,Fri Aug 23 2024,21:00,CEST/+0200,Mladost Lučani,3-1,2-0,FK Čukarički,,2024-08-23T19:00Z
+6,Sat Aug 24 2024,21:00,CEST/+0200,Jedinstvo Ub,2-3,1-3,IMT Beograd,,2024-08-24T19:00Z
+6,Sat Aug 24 2024,,,Crvena Zvezda,,,TSC Bačka Topola,postponed,
+6,Sat Aug 24 2024,19:00,CEST/+0200,Radnički Niš,2-1,1-1,Železničar Pančevo,,2024-08-24T17:00Z
+6,Sat Aug 24 2024,19:00,CEST/+0200,Tekstilac Odžaci,2-1,1-0,FK Novi Pazar,,2024-08-24T17:00Z
+6,Sun Aug 25 2024,,,Spartak Subotica,,,Partizan,postponed,
+6,Sun Aug 25 2024,19:30,CEST/+0200,Vojvodina,1-2,0-0,FK Napredak,,2024-08-25T17:30Z
+6,Sun Aug 25 2024,19:00,CEST/+0200,OFK Beograd,3-5,2-3,FK Radnički 1923,,2024-08-25T17:00Z
+7,Fri Aug 30 2024,18:30,CEST/+0200,IMT Beograd,3-1,1-0,Radnički Niš,,2024-08-30T16:30Z
+7,Fri Aug 30 2024,20:30,CEST/+0200,FK Čukarički,3-0,2-0,Tekstilac Odžaci,,2024-08-30T18:30Z
+7,Sat Aug 31 2024,20:30,CEST/+0200,Železničar Pančevo,2-0,1-0,Spartak Subotica,,2024-08-31T18:30Z
+7,Sat Aug 31 2024,17:00,CEST/+0200,FK Novi Pazar,3-1,1-1,Jedinstvo Ub,,2024-08-31T15:00Z
+7,Sat Aug 31 2024,20:30,CEST/+0200,FK Napredak,1-3,1-0,OFK Beograd,,2024-08-31T18:30Z
+7,Sun Sep 1 2024,19:00,CEST/+0200,TSC Bačka Topola,1-2,1-2,Mladost Lučani,,2024-09-01T17:00Z
+7,Sun Sep 1 2024,19:00,CEST/+0200,FK Radnički 1923,0-1,0-0,Crvena Zvezda,,2024-09-01T17:00Z
+7,Sun Sep 1 2024,21:05,CEST/+0200,Partizan,0-0,0-0,Vojvodina,,2024-09-01T19:05Z
+8,Fri Sep 13 2024,19:00,CEST/+0200,Spartak Subotica,2-0,1-0,IMT Beograd,,2024-09-13T17:00Z
+8,Sat Sep 14 2024,20:00,CEST/+0200,Mladost Lučani,2-1,0-1,FK Radnički 1923,,2024-09-14T18:00Z
+8,Sat Sep 14 2024,18:00,CEST/+0200,Vojvodina,2-0,2-0,Železničar Pančevo,,2024-09-14T16:00Z
+8,Sat Sep 14 2024,20:00,CEST/+0200,Crvena Zvezda,2-0,1-0,FK Napredak,,2024-09-14T18:00Z
+8,Sun Sep 15 2024,19:00,CEST/+0200,Tekstilac Odžaci,2-1,0-0,TSC Bačka Topola,,2024-09-15T17:00Z
+8,Sun Sep 15 2024,17:00,CEST/+0200,FK Novi Pazar,2-2,2-1,FK Čukarički,,2024-09-15T15:00Z
+8,Sun Sep 15 2024,19:00,CEST/+0200,OFK Beograd,3-2,1-2,Partizan,,2024-09-15T17:00Z
+8,Mon Sep 16 2024,20:00,CEST/+0200,Jedinstvo Ub,0-2,0-0,Radnički Niš,,2024-09-16T18:00Z
+2,Wed Sep 18 2024,18:00,CEST/+0200,IMT Beograd,0-4,0-2,FK Radnički 1923,,2024-09-18T16:00Z
+9,Sat Sep 21 2024,18:00,CEST/+0200,TSC Bačka Topola,5-2,0-0,FK Novi Pazar,,2024-09-21T16:00Z
+9,Sat Sep 21 2024,20:00,CEST/+0200,FK Napredak,1-2,1-2,Mladost Lučani,,2024-09-21T18:00Z
+9,Sat Sep 21 2024,18:00,CEST/+0200,FK Čukarički,2-1,0-1,Jedinstvo Ub,,2024-09-21T16:00Z
+9,Sun Sep 22 2024,19:00,CEST/+0200,IMT Beograd,0-3,0-0,Vojvodina,,2024-09-22T17:00Z
+9,Sun Sep 22 2024,19:00,CEST/+0200,Radnički Niš,3-2,2-0,Spartak Subotica,,2024-09-22T17:00Z
+9,Sun Sep 22 2024,20:00,CEST/+0200,Železničar Pančevo,0-1,0-1,OFK Beograd,,2024-09-22T18:00Z
+9,Mon Sep 23 2024,19:00,CEST/+0200,Partizan,,,Crvena Zvezda,,2024-09-23T17:00Z
+9,Mon Sep 23 2024,17:00,CEST/+0200,FK Radnički 1923,,,Tekstilac Odžaci,,2024-09-23T15:00Z
+10,Fri Sep 27 2024,19:00,CEST/+0200,Crvena Zvezda,,,Železničar Pančevo,,2024-09-27T17:00Z
+10,Sat Sep 28 2024,17:00,CEST/+0200,OFK Beograd,,,IMT Beograd,,2024-09-28T15:00Z
+10,Sat Sep 28 2024,18:00,CEST/+0200,FK Novi Pazar,,,FK Radnički 1923,,2024-09-28T16:00Z
+10,Sat Sep 28 2024,18:00,CEST/+0200,FK Čukarički,,,TSC Bačka Topola,,2024-09-28T16:00Z
+10,Sat Sep 28 2024,20:00,CEST/+0200,Vojvodina,,,Radnički Niš,,2024-09-28T18:00Z
+10,Sun Sep 29 2024,17:00,CEST/+0200,Mladost Lučani,,,Partizan,,2024-09-29T15:00Z
+10,Sun Sep 29 2024,19:00,CEST/+0200,Jedinstvo Ub,,,Spartak Subotica,,2024-09-29T17:00Z
+10,Sun Sep 29 2024,15:00,CEST/+0200,Tekstilac Odžaci,,,FK Napredak,,2024-09-29T13:00Z
+11,Sat Oct 5 2024,,,TSC Bačka Topola,,,Jedinstvo Ub,,
+11,Sat Oct 5 2024,,,FK Radnički 1923,,,FK Čukarički,,
+11,Sat Oct 5 2024,,,FK Napredak,,,FK Novi Pazar,,
+11,Sat Oct 5 2024,,,Partizan,,,Tekstilac Odžaci,,
+11,Sat Oct 5 2024,,,Železničar Pančevo,,,Mladost Lučani,,
+11,Sat Oct 5 2024,,,IMT Beograd,,,Crvena Zvezda,,
+11,Sat Oct 5 2024,,,Radnički Niš,,,OFK Beograd,,
+11,Sat Oct 5 2024,,,Spartak Subotica,,,Vojvodina,,
+12,Sat Oct 19 2024,,,Jedinstvo Ub,,,Vojvodina,,
+12,Sat Oct 19 2024,,,OFK Beograd,,,Spartak Subotica,,
+12,Sat Oct 19 2024,,,Crvena Zvezda,,,Radnički Niš,,
+12,Sat Oct 19 2024,,,Mladost Lučani,,,IMT Beograd,,
+12,Sat Oct 19 2024,,,Tekstilac Odžaci,,,Železničar Pančevo,,
+12,Sat Oct 19 2024,,,FK Novi Pazar,,,Partizan,,
+12,Sat Oct 19 2024,,,FK Čukarički,,,FK Napredak,,
+12,Sat Oct 19 2024,,,TSC Bačka Topola,,,FK Radnički 1923,,
+13,Sat Oct 26 2024,,,FK Napredak,,,TSC Bačka Topola,,
+13,Sat Oct 26 2024,,,Partizan,,,FK Čukarički,,
+13,Sat Oct 26 2024,,,Železničar Pančevo,,,FK Novi Pazar,,
+13,Sat Oct 26 2024,,,IMT Beograd,,,Tekstilac Odžaci,,
+13,Sat Oct 26 2024,,,Radnički Niš,,,Mladost Lučani,,
+13,Sat Oct 26 2024,,,Spartak Subotica,,,Crvena Zvezda,,
+13,Sat Oct 26 2024,,,Vojvodina,,,OFK Beograd,,
+13,Sat Oct 26 2024,,,FK Radnički 1923,,,Jedinstvo Ub,,
+14,Sat Nov 2 2024,,,Jedinstvo Ub,,,OFK Beograd,,
+14,Sat Nov 2 2024,,,Crvena Zvezda,,,Vojvodina,,
+14,Sat Nov 2 2024,,,Mladost Lučani,,,Spartak Subotica,,
+14,Sat Nov 2 2024,,,Tekstilac Odžaci,,,Radnički Niš,,
+14,Sat Nov 2 2024,,,FK Novi Pazar,,,IMT Beograd,,
+14,Sat Nov 2 2024,,,FK Čukarički,,,Železničar Pančevo,,
+14,Sat Nov 2 2024,,,TSC Bačka Topola,,,Partizan,,
+14,Sat Nov 2 2024,,,FK Radnički 1923,,,FK Napredak,,
+15,Sat Nov 9 2024,,,Partizan,,,FK Radnički 1923,,
+15,Sat Nov 9 2024,,,Železničar Pančevo,,,TSC Bačka Topola,,
+15,Sat Nov 9 2024,,,IMT Beograd,,,FK Čukarički,,
+15,Sat Nov 9 2024,,,Radnički Niš,,,FK Novi Pazar,,
+15,Sat Nov 9 2024,,,Spartak Subotica,,,Tekstilac Odžaci,,
+15,Sat Nov 9 2024,,,Vojvodina,,,Mladost Lučani,,
+15,Sat Nov 9 2024,,,OFK Beograd,,,Crvena Zvezda,,
+15,Sat Nov 9 2024,,,FK Napredak,,,Jedinstvo Ub,,
+16,Sat Nov 23 2024,,,Jedinstvo Ub,,,Crvena Zvezda,,
+16,Sat Nov 23 2024,,,OFK Beograd,,,Mladost Lučani,,
+16,Sat Nov 23 2024,,,Vojvodina,,,Tekstilac Odžaci,,
+16,Sat Nov 23 2024,,,Spartak Subotica,,,FK Novi Pazar,,
+16,Sat Nov 23 2024,,,Radnički Niš,,,FK Čukarički,,
+16,Sat Nov 23 2024,,,IMT Beograd,,,TSC Bačka Topola,,
+16,Sat Nov 23 2024,,,Železničar Pančevo,,,FK Radnički 1923,,
+16,Sat Nov 23 2024,,,Partizan,,,FK Napredak,,
+17,Sat Nov 30 2024,,,FK Napredak,,,Železničar Pančevo,,
+17,Sat Nov 30 2024,,,FK Radnički 1923,,,IMT Beograd,,
+17,Sat Nov 30 2024,,,TSC Bačka Topola,,,Radnički Niš,,
+17,Sat Nov 30 2024,,,FK Čukarički,,,Spartak Subotica,,
+17,Sat Nov 30 2024,,,FK Novi Pazar,,,Vojvodina,,
+17,Sat Nov 30 2024,,,Tekstilac Odžaci,,,OFK Beograd,,
+17,Sat Nov 30 2024,,,Mladost Lučani,,,Crvena Zvezda,,
+17,Sat Nov 30 2024,,,Partizan,,,Jedinstvo Ub,,
+18,Sat Dec 7 2024,,,Jedinstvo Ub,,,Mladost Lučani,,
+18,Sat Dec 7 2024,,,Crvena Zvezda,,,Tekstilac Odžaci,,
+18,Sat Dec 7 2024,,,OFK Beograd,,,FK Novi Pazar,,
+18,Sat Dec 7 2024,,,Vojvodina,,,FK Čukarički,,
+18,Sat Dec 7 2024,,,Spartak Subotica,,,TSC Bačka Topola,,
+18,Sat Dec 7 2024,,,Radnički Niš,,,FK Radnički 1923,,
+18,Sat Dec 7 2024,,,IMT Beograd,,,FK Napredak,,
+18,Sat Dec 7 2024,,,Železničar Pančevo,,,Partizan,,
+19,Sat Dec 14 2024,,,Partizan,,,IMT Beograd,,
+19,Sat Dec 14 2024,,,FK Napredak,,,Radnički Niš,,
+19,Sat Dec 14 2024,,,FK Radnički 1923,,,Spartak Subotica,,
+19,Sat Dec 14 2024,,,TSC Bačka Topola,,,Vojvodina,,
+19,Sat Dec 14 2024,,,FK Čukarički,,,OFK Beograd,,
+19,Sat Dec 14 2024,,,FK Novi Pazar,,,Crvena Zvezda,,
+19,Sat Dec 14 2024,,,Tekstilac Odžaci,,,Mladost Lučani,,
+19,Sat Dec 14 2024,,,Železničar Pančevo,,,Jedinstvo Ub,,
+20,Sat Dec 21 2024,,,Jedinstvo Ub,,,Tekstilac Odžaci,,
+20,Sat Dec 21 2024,,,Mladost Lučani,,,FK Novi Pazar,,
+20,Sat Dec 21 2024,,,Crvena Zvezda,,,FK Čukarički,,
+20,Sat Dec 21 2024,,,OFK Beograd,,,TSC Bačka Topola,,
+20,Sat Dec 21 2024,,,Vojvodina,,,FK Radnički 1923,,
+20,Sat Dec 21 2024,,,Spartak Subotica,,,FK Napredak,,
+20,Sat Dec 21 2024,,,Radnički Niš,,,Partizan,,
+20,Sat Dec 21 2024,,,IMT Beograd,,,Železničar Pančevo,,
+21,Sat Feb 1 2025,,,Železničar Pančevo,,,Radnički Niš,,
+21,Sat Feb 1 2025,,,Partizan,,,Spartak Subotica,,
+21,Sat Feb 1 2025,,,FK Napredak,,,Vojvodina,,
+21,Sat Feb 1 2025,,,FK Radnički 1923,,,OFK Beograd,,
+21,Sat Feb 1 2025,,,TSC Bačka Topola,,,Crvena Zvezda,,
+21,Sat Feb 1 2025,,,FK Čukarički,,,Mladost Lučani,,
+21,Sat Feb 1 2025,,,FK Novi Pazar,,,Tekstilac Odžaci,,
+21,Sat Feb 1 2025,,,IMT Beograd,,,Jedinstvo Ub,,
+22,Sat Feb 8 2025,,,Jedinstvo Ub,,,FK Novi Pazar,,
+22,Sat Feb 8 2025,,,Tekstilac Odžaci,,,FK Čukarički,,
+22,Sat Feb 8 2025,,,Mladost Lučani,,,TSC Bačka Topola,,
+22,Sat Feb 8 2025,,,Crvena Zvezda,,,FK Radnički 1923,,
+22,Sat Feb 8 2025,,,OFK Beograd,,,FK Napredak,,
+22,Sat Feb 8 2025,,,Vojvodina,,,Partizan,,
+22,Sat Feb 8 2025,,,Spartak Subotica,,,Železničar Pančevo,,
+22,Sat Feb 8 2025,,,Radnički Niš,,,IMT Beograd,,
+23,Sat Feb 15 2025,,,IMT Beograd,,,Spartak Subotica,,
+23,Sat Feb 15 2025,,,Železničar Pančevo,,,Vojvodina,,
+23,Sat Feb 15 2025,,,Partizan,,,OFK Beograd,,
+23,Sat Feb 15 2025,,,FK Napredak,,,Crvena Zvezda,,
+23,Sat Feb 15 2025,,,FK Radnički 1923,,,Mladost Lučani,,
+23,Sat Feb 15 2025,,,TSC Bačka Topola,,,Tekstilac Odžaci,,
+23,Sat Feb 15 2025,,,FK Čukarički,,,FK Novi Pazar,,
+23,Sat Feb 15 2025,,,Radnički Niš,,,Jedinstvo Ub,,
+24,Sat Feb 22 2025,,,Jedinstvo Ub,,,FK Čukarički,,
+24,Sat Feb 22 2025,,,FK Novi Pazar,,,TSC Bačka Topola,,
+24,Sat Feb 22 2025,,,Tekstilac Odžaci,,,FK Radnički 1923,,
+24,Sat Feb 22 2025,,,Mladost Lučani,,,FK Napredak,,
+24,Sat Feb 22 2025,,,Crvena Zvezda,,,Partizan,,
+24,Sat Feb 22 2025,,,OFK Beograd,,,Železničar Pančevo,,
+24,Sat Feb 22 2025,,,Vojvodina,,,IMT Beograd,,
+24,Sat Feb 22 2025,,,Spartak Subotica,,,Radnički Niš,,
+25,Wed Feb 26 2025,,,Radnički Niš,,,Vojvodina,,
+25,Wed Feb 26 2025,,,IMT Beograd,,,OFK Beograd,,
+25,Wed Feb 26 2025,,,Železničar Pančevo,,,Crvena Zvezda,,
+25,Wed Feb 26 2025,,,Partizan,,,Mladost Lučani,,
+25,Wed Feb 26 2025,,,FK Napredak,,,Tekstilac Odžaci,,
+25,Wed Feb 26 2025,,,FK Radnički 1923,,,FK Novi Pazar,,
+25,Wed Feb 26 2025,,,TSC Bačka Topola,,,FK Čukarički,,
+25,Wed Feb 26 2025,,,Spartak Subotica,,,Jedinstvo Ub,,
+26,Sun Mar 2 2025,,,Jedinstvo Ub,,,TSC Bačka Topola,,
+26,Sun Mar 2 2025,,,FK Čukarički,,,FK Radnički 1923,,
+26,Sun Mar 2 2025,,,FK Novi Pazar,,,FK Napredak,,
+26,Sun Mar 2 2025,,,Tekstilac Odžaci,,,Partizan,,
+26,Sun Mar 2 2025,,,Mladost Lučani,,,Železničar Pančevo,,
+26,Sun Mar 2 2025,,,Crvena Zvezda,,,IMT Beograd,,
+26,Sun Mar 2 2025,,,OFK Beograd,,,Radnički Niš,,
+26,Sun Mar 2 2025,,,Vojvodina,,,Spartak Subotica,,
+27,Sat Mar 8 2025,,,Spartak Subotica,,,OFK Beograd,,
+27,Sat Mar 8 2025,,,Radnički Niš,,,Crvena Zvezda,,
+27,Sat Mar 8 2025,,,IMT Beograd,,,Mladost Lučani,,
+27,Sat Mar 8 2025,,,Železničar Pančevo,,,Tekstilac Odžaci,,
+27,Sat Mar 8 2025,,,Partizan,,,FK Novi Pazar,,
+27,Sat Mar 8 2025,,,FK Napredak,,,FK Čukarički,,
+27,Sat Mar 8 2025,,,FK Radnički 1923,,,TSC Bačka Topola,,
+27,Sat Mar 8 2025,,,Vojvodina,,,Jedinstvo Ub,,
+28,Sat Mar 15 2025,,,Jedinstvo Ub,,,FK Radnički 1923,,
+28,Sat Mar 15 2025,,,TSC Bačka Topola,,,FK Napredak,,
+28,Sat Mar 15 2025,,,FK Čukarički,,,Partizan,,
+28,Sat Mar 15 2025,,,FK Novi Pazar,,,Železničar Pančevo,,
+28,Sat Mar 15 2025,,,Tekstilac Odžaci,,,IMT Beograd,,
+28,Sat Mar 15 2025,,,Mladost Lučani,,,Radnički Niš,,
+28,Sat Mar 15 2025,,,Crvena Zvezda,,,Spartak Subotica,,
+28,Sat Mar 15 2025,,,OFK Beograd,,,Vojvodina,,
+29,Sat Mar 29 2025,,,Vojvodina,,,Crvena Zvezda,,
+29,Sat Mar 29 2025,,,Spartak Subotica,,,Mladost Lučani,,
+29,Sat Mar 29 2025,,,Radnički Niš,,,Tekstilac Odžaci,,
+29,Sat Mar 29 2025,,,IMT Beograd,,,FK Novi Pazar,,
+29,Sat Mar 29 2025,,,Železničar Pančevo,,,FK Čukarički,,
+29,Sat Mar 29 2025,,,Partizan,,,TSC Bačka Topola,,
+29,Sat Mar 29 2025,,,FK Napredak,,,FK Radnički 1923,,
+29,Sat Mar 29 2025,,,OFK Beograd,,,Jedinstvo Ub,,
+30,Sat Apr 5 2025,,,Jedinstvo Ub,,,FK Napredak,,
+30,Sat Apr 5 2025,,,FK Radnički 1923,,,Partizan,,
+30,Sat Apr 5 2025,,,TSC Bačka Topola,,,Železničar Pančevo,,
+30,Sat Apr 5 2025,,,FK Čukarički,,,IMT Beograd,,
+30,Sat Apr 5 2025,,,FK Novi Pazar,,,Radnički Niš,,
+30,Sat Apr 5 2025,,,Tekstilac Odžaci,,,Spartak Subotica,,
+30,Sat Apr 5 2025,,,Mladost Lučani,,,Vojvodina,,
+30,Sat Apr 5 2025,,,Crvena Zvezda,,,OFK Beograd,,

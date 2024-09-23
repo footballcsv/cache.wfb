@@ -30,20 +30,20 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 4,Sat Sep 14 2024,19:00,CEST/+0200,AJ Auxerre,0-3,0-2,AS Monaco,2024-09-14T17:00Z
 4,Sat Sep 14 2024,21:00,CEST/+0200,Paris Saint-Germain,3-1,1-1,Stade Brestois 29,2024-09-14T19:00Z
 4,Sat Sep 14 2024,17:00,CEST/+0200,Olympique Marseille,2-0,1-0,OGC Nice,2024-09-14T15:00Z
-4,Sun Sep 15 2024,17:00,CEST/+0200,FC Nantes,,,Stade de Reims,2024-09-15T15:00Z
-4,Sun Sep 15 2024,17:00,CEST/+0200,Toulouse FC,,,Havre AC,2024-09-15T15:00Z
-4,Sun Sep 15 2024,17:00,CEST/+0200,RC Strasbourg,,,Angers SCO,2024-09-15T15:00Z
-4,Sun Sep 15 2024,20:45,CEST/+0200,RC Lens,,,Olympique Lyonnais,2024-09-15T18:45Z
-4,Sun Sep 15 2024,15:00,CEST/+0200,Stade Rennais,,,Montpellier HSC,2024-09-15T13:00Z
-5,Fri Sep 20 2024,20:45,CEST/+0200,OGC Nice,,,AS Saint-Étienne,2024-09-20T18:45Z
-5,Sat Sep 21 2024,19:00,CEST/+0200,Stade Rennais,,,RC Lens,2024-09-21T17:00Z
-5,Sat Sep 21 2024,21:00,CEST/+0200,Stade de Reims,,,Paris Saint-Germain,2024-09-21T19:00Z
-5,Sat Sep 21 2024,17:00,CEST/+0200,Lille OSC,,,RC Strasbourg,2024-09-21T15:00Z
-5,Sun Sep 22 2024,17:00,CEST/+0200,Stade Brestois 29,,,Toulouse FC,2024-09-22T15:00Z
-5,Sun Sep 22 2024,17:00,CEST/+0200,Angers SCO,,,FC Nantes,2024-09-22T15:00Z
-5,Sun Sep 22 2024,17:00,CEST/+0200,Montpellier HSC,,,AJ Auxerre,2024-09-22T15:00Z
-5,Sun Sep 22 2024,20:45,CEST/+0200,Olympique Lyonnais,,,Olympique Marseille,2024-09-22T18:45Z
-5,Sun Sep 22 2024,15:00,CEST/+0200,AS Monaco,,,Havre AC,2024-09-22T13:00Z
+4,Sun Sep 15 2024,17:00,CEST/+0200,FC Nantes,1-2,1-1,Stade de Reims,2024-09-15T15:00Z
+4,Sun Sep 15 2024,17:00,CEST/+0200,Toulouse FC,2-0,0-0,Havre AC,2024-09-15T15:00Z
+4,Sun Sep 15 2024,17:00,CEST/+0200,RC Strasbourg,1-1,1-0,Angers SCO,2024-09-15T15:00Z
+4,Sun Sep 15 2024,20:45,CEST/+0200,RC Lens,0-0,0-0,Olympique Lyonnais,2024-09-15T18:45Z
+4,Sun Sep 15 2024,15:00,CEST/+0200,Stade Rennais,3-0,2-0,Montpellier HSC,2024-09-15T13:00Z
+5,Fri Sep 20 2024,20:45,CEST/+0200,OGC Nice,8-0,6-0,AS Saint-Étienne,2024-09-20T18:45Z
+5,Sat Sep 21 2024,19:00,CEST/+0200,Stade Rennais,1-1,1-0,RC Lens,2024-09-21T17:00Z
+5,Sat Sep 21 2024,21:00,CEST/+0200,Stade de Reims,1-1,1-0,Paris Saint-Germain,2024-09-21T19:00Z
+5,Sat Sep 21 2024,17:00,CEST/+0200,Lille OSC,3-3,2-2,RC Strasbourg,2024-09-21T15:00Z
+5,Sun Sep 22 2024,17:00,CEST/+0200,Stade Brestois 29,2-0,1-0,Toulouse FC,2024-09-22T15:00Z
+5,Sun Sep 22 2024,17:00,CEST/+0200,Angers SCO,1-1,1-1,FC Nantes,2024-09-22T15:00Z
+5,Sun Sep 22 2024,17:00,CEST/+0200,Montpellier HSC,3-2,0-1,AJ Auxerre,2024-09-22T15:00Z
+5,Sun Sep 22 2024,20:45,CEST/+0200,Olympique Lyonnais,2-3,0-0,Olympique Marseille,2024-09-22T18:45Z
+5,Sun Sep 22 2024,15:00,CEST/+0200,AS Monaco,3-1,1-1,Havre AC,2024-09-22T13:00Z
 6,Fri Sep 27 2024,19:00,CEST/+0200,AJ Auxerre,,,Stade Brestois 29,2024-09-27T17:00Z
 6,Fri Sep 27 2024,21:00,CEST/+0200,Paris Saint-Germain,,,Stade Rennais,2024-09-27T19:00Z
 6,Sat Sep 28 2024,19:00,CEST/+0200,Havre AC,,,Lille OSC,2024-09-28T17:00Z

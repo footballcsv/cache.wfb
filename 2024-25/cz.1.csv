@@ -53,16 +53,16 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 7,Sun Sep 1 2024,14:30,CEST/+0200,Sigma Olomouc,2-2,1-1,Baník Ostrava,2024-09-01T12:30Z
 7,Sun Sep 1 2024,14:30,CEST/+0200,MFK Karviná,0-0,0-0,FK Dukla Praha,2024-09-01T12:30Z
 7,Sun Sep 1 2024,17:00,CEST/+0200,Slavia Praha,2-0,1-0,FK Pardubice,2024-09-01T15:00Z
-6,Tue Sep 17 2024,17:00,CEST/+0200,Viktoria Plzeň,,,Sigma Olomouc,2024-09-17T15:00Z
-6,Tue Sep 17 2024,19:30,CEST/+0200,FK Mladá Boleslav,,,Slavia Praha,2024-09-17T17:30Z
-9,Sat Sep 21 2024,19:00,CEST/+0200,Slavia Praha,,,Viktoria Plzeň,2024-09-21T17:00Z
-9,Sat Sep 21 2024,16:00,CEST/+0200,MFK Karviná,,,FK Jablonec,2024-09-21T14:00Z
-9,Sat Sep 21 2024,16:00,CEST/+0200,FK Teplice,,,Baník Ostrava,2024-09-21T14:00Z
-9,Sat Sep 21 2024,13:30,CEST/+0200,FC Hradec Králové,,,1. FC Slovácko,2024-09-21T11:30Z
-9,Sun Sep 22 2024,15:30,CEST/+0200,Sigma Olomouc,,,FK Dukla Praha,2024-09-22T13:30Z
-9,Sun Sep 22 2024,15:30,CEST/+0200,Dynamo České Budějovice,,,AC Sparta Praha,2024-09-22T13:30Z
-9,Sun Sep 22 2024,18:30,CEST/+0200,Slovan Liberec,,,Bohemians Praha 1905,2024-09-22T16:30Z
-9,Sun Sep 22 2024,13:00,CEST/+0200,FK Mladá Boleslav,,,FK Pardubice,2024-09-22T11:00Z
+6,Tue Sep 17 2024,17:00,CEST/+0200,Viktoria Plzeň,2-1,1-0,Sigma Olomouc,2024-09-17T15:00Z
+6,Tue Sep 17 2024,19:30,CEST/+0200,FK Mladá Boleslav,0-2,0-2,Slavia Praha,2024-09-17T17:30Z
+9,Sat Sep 21 2024,19:00,CEST/+0200,Slavia Praha,3-0,3-0,Viktoria Plzeň,2024-09-21T17:00Z
+9,Sat Sep 21 2024,16:00,CEST/+0200,MFK Karviná,1-0,1-0,FK Jablonec,2024-09-21T14:00Z
+9,Sat Sep 21 2024,16:00,CEST/+0200,FK Teplice,2-3,1-1,Baník Ostrava,2024-09-21T14:00Z
+9,Sat Sep 21 2024,13:30,CEST/+0200,FC Hradec Králové,3-0,1-0,1. FC Slovácko,2024-09-21T11:30Z
+9,Sun Sep 22 2024,15:30,CEST/+0200,Sigma Olomouc,2-1,1-0,FK Dukla Praha,2024-09-22T13:30Z
+9,Sun Sep 22 2024,15:30,CEST/+0200,Dynamo České Budějovice,0-2,0-1,AC Sparta Praha,2024-09-22T13:30Z
+9,Sun Sep 22 2024,18:30,CEST/+0200,Slovan Liberec,2-2,2-1,Bohemians Praha 1905,2024-09-22T16:30Z
+9,Sun Sep 22 2024,13:00,CEST/+0200,FK Mladá Boleslav,2-2,1-1,FK Pardubice,2024-09-22T11:00Z
 10,Fri Sep 27 2024,19:30,CEST/+0200,AC Sparta Praha,,,Sigma Olomouc,2024-09-27T17:30Z
 10,Sat Sep 28 2024,19:00,CEST/+0200,FK Jablonec,,,FC Hradec Králové,2024-09-28T17:00Z
 10,Sat Sep 28 2024,13:30,CEST/+0200,FK Dukla Praha,,,Slovan Liberec,2024-09-28T11:30Z
@@ -127,14 +127,14 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 17,Sun Dec 1 2024,15:30,CET/+0100,FK Mladá Boleslav,,,FC Hradec Králové,2024-12-01T14:30Z
 17,Sun Dec 1 2024,13:00,CET/+0100,Slavia Praha,,,Slovan Liberec,2024-12-01T12:00Z
 17,Sun Dec 1 2024,15:30,CET/+0100,FK Pardubice,,,Dynamo České Budějovice,2024-12-01T14:30Z
-8,Wed Dec 4 2024,,,Baník Ostrava,,,Slavia Praha,
-8,Wed Dec 4 2024,,,FK Jablonec,,,Dynamo České Budějovice,
-8,Wed Dec 4 2024,,,Bohemians Praha 1905,,,FC Hradec Králové,
-8,Wed Dec 4 2024,,,Viktoria Plzeň,,,FK Teplice,
-8,Wed Dec 4 2024,,,FK Pardubice,,,Sigma Olomouc,
-8,Wed Dec 4 2024,,,AC Sparta Praha,,,MFK Karviná,
-8,Wed Dec 4 2024,,,FK Dukla Praha,,,1. FC Slovácko,
-8,Wed Dec 4 2024,,,FK Mladá Boleslav,,,Slovan Liberec,
+8,Wed Dec 4 2024,17:00,CET/+0100,Baník Ostrava,,,Slavia Praha,2024-12-04T16:00Z
+8,Wed Dec 4 2024,17:00,CET/+0100,FK Jablonec,,,Dynamo České Budějovice,2024-12-04T16:00Z
+8,Wed Dec 4 2024,17:00,CET/+0100,Bohemians Praha 1905,,,FC Hradec Králové,2024-12-04T16:00Z
+8,Wed Dec 4 2024,17:00,CET/+0100,Viktoria Plzeň,,,FK Teplice,2024-12-04T16:00Z
+8,Wed Dec 4 2024,17:00,CET/+0100,FK Pardubice,,,Sigma Olomouc,2024-12-04T16:00Z
+8,Wed Dec 4 2024,17:00,CET/+0100,AC Sparta Praha,,,MFK Karviná,2024-12-04T16:00Z
+8,Wed Dec 4 2024,17:00,CET/+0100,FK Dukla Praha,,,1. FC Slovácko,2024-12-04T16:00Z
+8,Wed Dec 4 2024,17:00,CET/+0100,FK Mladá Boleslav,,,Slovan Liberec,2024-12-04T16:00Z
 18,Thu Dec 5 2024,19:30,CET/+0100,AC Sparta Praha,,,Bohemians Praha 1905,2024-12-05T18:30Z
 18,Sat Dec 7 2024,16:00,CET/+0100,Dynamo České Budějovice,,,FK Mladá Boleslav,2024-12-07T15:00Z
 18,Sat Dec 7 2024,16:00,CET/+0100,MFK Karviná,,,Viktoria Plzeň,2024-12-07T15:00Z

@@ -1,0 +1,183 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Aug 23 2024,20:00,EEST/+0300,Omonia Aradippou,0-0,0-0,Anorthosis Famagusta,,2024-08-23T17:00Z
+1,Sat Aug 24 2024,20:00,EEST/+0300,Karmiotissa Polemidion,1-3,0-1,Aris Limassol,,2024-08-24T17:00Z
+1,Sat Aug 24 2024,19:00,EEST/+0300,Omonia 29is Maiou,2-4,1-3,AEL Limassol,,2024-08-24T16:00Z
+1,Sun Aug 25 2024,20:00,EEST/+0300,Omonia Nikosia,3-0,1-0,Ethnikos Achna,,2024-08-25T17:00Z
+1,Sun Aug 25 2024,20:00,EEST/+0300,Apollon Limassol,1-2,1-0,AEK Larnaca,,2024-08-25T17:00Z
+2,Fri Aug 30 2024,20:00,EEST/+0300,Aris Limassol,1-0,0-0,Omonia 29is Maiou,,2024-08-30T17:00Z
+2,Sat Aug 31 2024,20:00,EEST/+0300,Anorthosis Famagusta,1-2,0-1,Apollon Limassol,,2024-08-31T17:00Z
+2,Sat Aug 31 2024,20:00,EEST/+0300,AEL Limassol,1-0,0-0,Omonia Aradippou,,2024-08-31T17:00Z
+2,Sat Aug 31 2024,20:00,EEST/+0300,Enosis Neon Paralimni,0-1,0-0,Karmiotissa Polemidion,,2024-08-31T17:00Z
+2,Sun Sep 1 2024,20:00,EEST/+0300,APOEL Nikosia,1-3,0-2,Ethnikos Achna,,2024-09-01T17:00Z
+2,Sun Sep 1 2024,18:30,EEST/+0300,AEK Larnaca,0-2,0-1,Paphos FC,,2024-09-01T15:30Z
+2,Sun Sep 1 2024,20:30,EEST/+0300,Nea Salamina,2-3,2-1,Omonia Nikosia,,2024-09-01T17:30Z
+3,Sat Sep 14 2024,19:00,EEST/+0300,Ethnikos Achna,2-3,0-1,Nea Salamina,,2024-09-14T16:00Z
+3,Sat Sep 14 2024,19:00,EEST/+0300,Paphos FC,3-1,1-0,Anorthosis Famagusta,,2024-09-14T16:00Z
+3,Sat Sep 14 2024,19:00,EEST/+0300,Karmiotissa Polemidion,0-3,0-0,APOEL Nikosia,,2024-09-14T16:00Z
+3,Sun Sep 15 2024,20:30,EEST/+0300,Omonia Aradippou,0-3,0-1,Aris Limassol,,2024-09-15T17:30Z
+3,Sun Sep 15 2024,,,Apollon Limassol,,,AEL Limassol,postponed,
+3,Sun Sep 15 2024,18:00,EEST/+0300,Omonia 29is Maiou,0-1,0-0,Enosis Neon Paralimni,,2024-09-15T15:00Z
+3,Mon Sep 16 2024,19:00,EEST/+0300,Omonia Nikosia,1-0,1-0,AEK Larnaca,,2024-09-16T16:00Z
+1,Wed Sep 18 2024,19:00,EEST/+0300,Paphos FC,4-0,3-0,Nea Salamina,,2024-09-18T16:00Z
+1,Wed Sep 18 2024,19:00,EEST/+0300,Enosis Neon Paralimni,0-4,0-2,APOEL Nikosia,,2024-09-18T16:00Z
+4,Fri Sep 20 2024,19:00,EEST/+0300,Karmiotissa Polemidion,1-1,0-0,Omonia 29is Maiou,,2024-09-20T16:00Z
+4,Sat Sep 21 2024,19:00,EEST/+0300,Aris Limassol,0-0,0-0,Apollon Limassol,,2024-09-21T16:00Z
+4,Sat Sep 21 2024,19:00,EEST/+0300,Anorthosis Famagusta,1-0,1-0,Omonia Nikosia,,2024-09-21T16:00Z
+4,Sun Sep 22 2024,19:00,EEST/+0300,AEL Limassol,1-3,1-0,Paphos FC,,2024-09-22T16:00Z
+4,Sun Sep 22 2024,19:00,EEST/+0300,APOEL Nikosia,3-1,2-0,Nea Salamina,,2024-09-22T16:00Z
+4,Sun Sep 22 2024,19:00,EEST/+0300,AEK Larnaca,2-2,0-1,Ethnikos Achna,,2024-09-22T16:00Z
+4,Mon Sep 23 2024,19:00,EEST/+0300,Enosis Neon Paralimni,,,Omonia Aradippou,,2024-09-23T16:00Z
+5,Fri Sep 27 2024,19:00,EEST/+0300,Nea Salamina,,,AEK Larnaca,,2024-09-27T16:00Z
+5,Fri Sep 27 2024,19:00,EEST/+0300,Omonia Nikosia,,,AEL Limassol,,2024-09-27T16:00Z
+5,Sat Sep 28 2024,,,Omonia 29is Maiou,,,APOEL Nikosia,,
+5,Sat Sep 28 2024,,,Apollon Limassol,,,Enosis Neon Paralimni,,
+5,Sat Sep 28 2024,,,Paphos FC,,,Aris Limassol,,
+5,Sat Sep 28 2024,19:00,EEST/+0300,Omonia Aradippou,,,Karmiotissa Polemidion,,2024-09-28T16:00Z
+5,Sat Sep 28 2024,19:00,EEST/+0300,Ethnikos Achna,,,Anorthosis Famagusta,,2024-09-28T16:00Z
+6,Fri Oct 4 2024,19:00,EEST/+0300,Karmiotissa Polemidion,,,Apollon Limassol,,2024-10-04T16:00Z
+6,Sat Oct 5 2024,19:00,EEST/+0300,Anorthosis Famagusta,,,Nea Salamina,,2024-10-05T16:00Z
+6,Sat Oct 5 2024,19:00,EEST/+0300,AEL Limassol,,,Ethnikos Achna,,2024-10-05T16:00Z
+6,Sat Oct 5 2024,18:00,EEST/+0300,Omonia 29is Maiou,,,Omonia Aradippou,,2024-10-05T15:00Z
+6,Sun Oct 6 2024,19:00,EEST/+0300,Aris Limassol,,,Omonia Nikosia,,2024-10-06T16:00Z
+6,Sun Oct 6 2024,20:00,EEST/+0300,APOEL Nikosia,,,AEK Larnaca,,2024-10-06T17:00Z
+6,Sun Oct 6 2024,19:00,EEST/+0300,Enosis Neon Paralimni,,,Paphos FC,,2024-10-06T16:00Z
+7,Sat Oct 19 2024,,,Omonia Aradippou,,,APOEL Nikosia,,
+7,Sat Oct 19 2024,,,Apollon Limassol,,,Omonia 29is Maiou,,
+7,Sat Oct 19 2024,,,Paphos FC,,,Karmiotissa Polemidion,,
+7,Sat Oct 19 2024,,,Omonia Nikosia,,,Enosis Neon Paralimni,,
+7,Sat Oct 19 2024,,,Ethnikos Achna,,,Aris Limassol,,
+7,Sat Oct 19 2024,,,Nea Salamina,,,AEL Limassol,,
+7,Sat Oct 19 2024,,,AEK Larnaca,,,Anorthosis Famagusta,,
+8,Sat Oct 26 2024,,,Karmiotissa Polemidion,,,Omonia Nikosia,,
+8,Sat Oct 26 2024,,,Omonia 29is Maiou,,,Paphos FC,,
+8,Sat Oct 26 2024,,,Omonia Aradippou,,,Apollon Limassol,,
+8,Sat Oct 26 2024,,,AEL Limassol,,,AEK Larnaca,,
+8,Sat Oct 26 2024,,,Aris Limassol,,,Nea Salamina,,
+8,Sat Oct 26 2024,,,APOEL Nikosia,,,Anorthosis Famagusta,,
+8,Sat Oct 26 2024,,,Enosis Neon Paralimni,,,Ethnikos Achna,,
+9,Sat Nov 2 2024,,,Apollon Limassol,,,APOEL Nikosia,,
+9,Sat Nov 2 2024,,,Paphos FC,,,Omonia Aradippou,,
+9,Sat Nov 2 2024,,,Omonia Nikosia,,,Omonia 29is Maiou,,
+9,Sat Nov 2 2024,,,Ethnikos Achna,,,Karmiotissa Polemidion,,
+9,Sat Nov 2 2024,,,Nea Salamina,,,Enosis Neon Paralimni,,
+9,Sat Nov 2 2024,,,AEK Larnaca,,,Aris Limassol,,
+9,Sat Nov 2 2024,,,Anorthosis Famagusta,,,AEL Limassol,,
+10,Sat Nov 9 2024,,,Karmiotissa Polemidion,,,Nea Salamina,,
+10,Sat Nov 9 2024,,,Omonia 29is Maiou,,,Ethnikos Achna,,
+10,Sat Nov 9 2024,,,Omonia Aradippou,,,Omonia Nikosia,,
+10,Sat Nov 9 2024,,,Apollon Limassol,,,Paphos FC,,
+10,Sat Nov 9 2024,,,Aris Limassol,,,Anorthosis Famagusta,,
+10,Sat Nov 9 2024,,,APOEL Nikosia,,,AEL Limassol,,
+10,Sat Nov 9 2024,,,Enosis Neon Paralimni,,,AEK Larnaca,,
+11,Sat Nov 23 2024,,,Paphos FC,,,APOEL Nikosia,,
+11,Sat Nov 23 2024,,,Omonia Nikosia,,,Apollon Limassol,,
+11,Sat Nov 23 2024,,,Ethnikos Achna,,,Omonia Aradippou,,
+11,Sat Nov 23 2024,,,Nea Salamina,,,Omonia 29is Maiou,,
+11,Sat Nov 23 2024,,,AEK Larnaca,,,Karmiotissa Polemidion,,
+11,Sat Nov 23 2024,,,Anorthosis Famagusta,,,Enosis Neon Paralimni,,
+11,Sat Nov 23 2024,,,AEL Limassol,,,Aris Limassol,,
+12,Sat Nov 30 2024,,,Karmiotissa Polemidion,,,Anorthosis Famagusta,,
+12,Sat Nov 30 2024,,,Omonia 29is Maiou,,,AEK Larnaca,,
+12,Sat Nov 30 2024,,,Omonia Aradippou,,,Nea Salamina,,
+12,Sat Nov 30 2024,,,Apollon Limassol,,,Ethnikos Achna,,
+12,Sat Nov 30 2024,,,Paphos FC,,,Omonia Nikosia,,
+12,Sat Nov 30 2024,,,APOEL Nikosia,,,Aris Limassol,,
+12,Sat Nov 30 2024,,,Enosis Neon Paralimni,,,AEL Limassol,,
+13,Sat Dec 7 2024,,,Omonia Nikosia,,,APOEL Nikosia,,
+13,Sat Dec 7 2024,,,Ethnikos Achna,,,Paphos FC,,
+13,Sat Dec 7 2024,,,Nea Salamina,,,Apollon Limassol,,
+13,Sat Dec 7 2024,,,AEK Larnaca,,,Omonia Aradippou,,
+13,Sat Dec 7 2024,,,Anorthosis Famagusta,,,Omonia 29is Maiou,,
+13,Sat Dec 7 2024,,,AEL Limassol,,,Karmiotissa Polemidion,,
+13,Sat Dec 7 2024,,,Aris Limassol,,,Enosis Neon Paralimni,,
+14,Sat Dec 14 2024,,,APOEL Nikosia,,,Enosis Neon Paralimni,,
+14,Sat Dec 14 2024,,,Aris Limassol,,,Karmiotissa Polemidion,,
+14,Sat Dec 14 2024,,,AEL Limassol,,,Omonia 29is Maiou,,
+14,Sat Dec 14 2024,,,Anorthosis Famagusta,,,Omonia Aradippou,,
+14,Sat Dec 14 2024,,,AEK Larnaca,,,Apollon Limassol,,
+14,Sat Dec 14 2024,,,Nea Salamina,,,Paphos FC,,
+14,Sat Dec 14 2024,,,Ethnikos Achna,,,Omonia Nikosia,,
+15,Sat Dec 21 2024,,,Omonia Nikosia,,,Nea Salamina,,
+15,Sat Dec 21 2024,,,Paphos FC,,,AEK Larnaca,,
+15,Sat Dec 21 2024,,,Apollon Limassol,,,Anorthosis Famagusta,,
+15,Sat Dec 21 2024,,,Omonia Aradippou,,,AEL Limassol,,
+15,Sat Dec 21 2024,,,Omonia 29is Maiou,,,Aris Limassol,,
+15,Sat Dec 21 2024,,,Ethnikos Achna,,,APOEL Nikosia,,
+15,Sat Dec 21 2024,,,Karmiotissa Polemidion,,,Enosis Neon Paralimni,,
+16,Sat Jan 4 2025,,,APOEL Nikosia,,,Karmiotissa Polemidion,,
+16,Sat Jan 4 2025,,,Enosis Neon Paralimni,,,Omonia 29is Maiou,,
+16,Sat Jan 4 2025,,,Aris Limassol,,,Omonia Aradippou,,
+16,Sat Jan 4 2025,,,AEL Limassol,,,Apollon Limassol,,
+16,Sat Jan 4 2025,,,Anorthosis Famagusta,,,Paphos FC,,
+16,Sat Jan 4 2025,,,AEK Larnaca,,,Omonia Nikosia,,
+16,Sat Jan 4 2025,,,Nea Salamina,,,Ethnikos Achna,,
+17,Wed Jan 8 2025,,,Omonia 29is Maiou,,,Karmiotissa Polemidion,,
+17,Wed Jan 8 2025,,,Ethnikos Achna,,,AEK Larnaca,,
+17,Wed Jan 8 2025,,,Omonia Nikosia,,,Anorthosis Famagusta,,
+17,Wed Jan 8 2025,,,Paphos FC,,,AEL Limassol,,
+17,Wed Jan 8 2025,,,Apollon Limassol,,,Aris Limassol,,
+17,Wed Jan 8 2025,,,Nea Salamina,,,APOEL Nikosia,,
+17,Wed Jan 8 2025,,,Omonia Aradippou,,,Enosis Neon Paralimni,,
+18,Sat Jan 11 2025,,,APOEL Nikosia,,,Omonia 29is Maiou,,
+18,Sat Jan 11 2025,,,Karmiotissa Polemidion,,,Omonia Aradippou,,
+18,Sat Jan 11 2025,,,Enosis Neon Paralimni,,,Apollon Limassol,,
+18,Sat Jan 11 2025,,,Aris Limassol,,,Paphos FC,,
+18,Sat Jan 11 2025,,,AEL Limassol,,,Omonia Nikosia,,
+18,Sat Jan 11 2025,,,Anorthosis Famagusta,,,Ethnikos Achna,,
+18,Sat Jan 11 2025,,,AEK Larnaca,,,Nea Salamina,,
+19,Sat Jan 18 2025,,,Apollon Limassol,,,Karmiotissa Polemidion,,
+19,Sat Jan 18 2025,,,Omonia Aradippou,,,Omonia 29is Maiou,,
+19,Sat Jan 18 2025,,,Nea Salamina,,,Anorthosis Famagusta,,
+19,Sat Jan 18 2025,,,Ethnikos Achna,,,AEL Limassol,,
+19,Sat Jan 18 2025,,,Omonia Nikosia,,,Aris Limassol,,
+19,Sat Jan 18 2025,,,AEK Larnaca,,,APOEL Nikosia,,
+19,Sat Jan 18 2025,,,Paphos FC,,,Enosis Neon Paralimni,,
+20,Sat Jan 25 2025,,,APOEL Nikosia,,,Omonia Aradippou,,
+20,Sat Jan 25 2025,,,Omonia 29is Maiou,,,Apollon Limassol,,
+20,Sat Jan 25 2025,,,Karmiotissa Polemidion,,,Paphos FC,,
+20,Sat Jan 25 2025,,,Enosis Neon Paralimni,,,Omonia Nikosia,,
+20,Sat Jan 25 2025,,,Aris Limassol,,,Ethnikos Achna,,
+20,Sat Jan 25 2025,,,AEL Limassol,,,Nea Salamina,,
+20,Sat Jan 25 2025,,,Anorthosis Famagusta,,,AEK Larnaca,,
+21,Sat Feb 1 2025,,,Ethnikos Achna,,,Enosis Neon Paralimni,,
+21,Sat Feb 1 2025,,,Omonia Nikosia,,,Karmiotissa Polemidion,,
+21,Sat Feb 1 2025,,,Paphos FC,,,Omonia 29is Maiou,,
+21,Sat Feb 1 2025,,,Apollon Limassol,,,Omonia Aradippou,,
+21,Sat Feb 1 2025,,,AEK Larnaca,,,AEL Limassol,,
+21,Sat Feb 1 2025,,,Nea Salamina,,,Aris Limassol,,
+21,Sat Feb 1 2025,,,Anorthosis Famagusta,,,APOEL Nikosia,,
+22,Sat Feb 8 2025,,,Omonia Aradippou,,,Paphos FC,,
+22,Sat Feb 8 2025,,,Omonia 29is Maiou,,,Omonia Nikosia,,
+22,Sat Feb 8 2025,,,Karmiotissa Polemidion,,,Ethnikos Achna,,
+22,Sat Feb 8 2025,,,Enosis Neon Paralimni,,,Nea Salamina,,
+22,Sat Feb 8 2025,,,Aris Limassol,,,AEK Larnaca,,
+22,Sat Feb 8 2025,,,AEL Limassol,,,Anorthosis Famagusta,,
+22,Sat Feb 8 2025,,,APOEL Nikosia,,,Apollon Limassol,,
+23,Wed Feb 12 2025,,,AEK Larnaca,,,Enosis Neon Paralimni,,
+23,Wed Feb 12 2025,,,Nea Salamina,,,Karmiotissa Polemidion,,
+23,Wed Feb 12 2025,,,Ethnikos Achna,,,Omonia 29is Maiou,,
+23,Wed Feb 12 2025,,,Omonia Nikosia,,,Omonia Aradippou,,
+23,Wed Feb 12 2025,,,Paphos FC,,,Apollon Limassol,,
+23,Wed Feb 12 2025,,,Anorthosis Famagusta,,,Aris Limassol,,
+23,Wed Feb 12 2025,,,AEL Limassol,,,APOEL Nikosia,,
+24,Sat Feb 15 2025,,,APOEL Nikosia,,,Paphos FC,,
+24,Sat Feb 15 2025,,,Apollon Limassol,,,Omonia Nikosia,,
+24,Sat Feb 15 2025,,,Omonia Aradippou,,,Ethnikos Achna,,
+24,Sat Feb 15 2025,,,Omonia 29is Maiou,,,Nea Salamina,,
+24,Sat Feb 15 2025,,,Karmiotissa Polemidion,,,AEK Larnaca,,
+24,Sat Feb 15 2025,,,Enosis Neon Paralimni,,,Anorthosis Famagusta,,
+24,Sat Feb 15 2025,,,Aris Limassol,,,AEL Limassol,,
+25,Sat Feb 22 2025,,,Anorthosis Famagusta,,,Karmiotissa Polemidion,,
+25,Sat Feb 22 2025,,,AEK Larnaca,,,Omonia 29is Maiou,,
+25,Sat Feb 22 2025,,,Nea Salamina,,,Omonia Aradippou,,
+25,Sat Feb 22 2025,,,Ethnikos Achna,,,Apollon Limassol,,
+25,Sat Feb 22 2025,,,Omonia Nikosia,,,Paphos FC,,
+25,Sat Feb 22 2025,,,Aris Limassol,,,APOEL Nikosia,,
+25,Sat Feb 22 2025,,,AEL Limassol,,,Enosis Neon Paralimni,,
+26,Sat Mar 1 2025,,,APOEL Nikosia,,,Omonia Nikosia,,
+26,Sat Mar 1 2025,,,Paphos FC,,,Ethnikos Achna,,
+26,Sat Mar 1 2025,,,Apollon Limassol,,,Nea Salamina,,
+26,Sat Mar 1 2025,,,Omonia Aradippou,,,AEK Larnaca,,
+26,Sat Mar 1 2025,,,Omonia 29is Maiou,,,Anorthosis Famagusta,,
+26,Sat Mar 1 2025,,,Karmiotissa Polemidion,,,AEL Limassol,,
+26,Sat Mar 1 2025,,,Enosis Neon Paralimni,,,Aris Limassol,,

@@ -41,16 +41,16 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 5,Sun Sep 15 2024,20:00,+0300,Trabzonspor,1-1,1-1,Beşiktaş,2024-09-15T17:00Z
 5,Sun Sep 15 2024,17:00,+0300,Kasımpaşa SK,0-2,0-2,Fenerbahçe,2024-09-15T14:00Z
 5,Mon Sep 16 2024,20:00,+0300,Antalyaspor,2-1,0-0,Adana Demirspor,2024-09-16T17:00Z
-3,Tue Sep 17 2024,20:00,+0300,Galatasaray,,,Gaziantep FK,2024-09-17T17:00Z
-3,Wed Sep 18 2024,20:00,+0300,Samsunspor,,,İstanbul Başakşehir,2024-09-18T17:00Z
-3,Thu Sep 19 2024,20:00,+0300,Trabzonspor,,,Kayserispor,2024-09-19T17:00Z
-6,Fri Sep 20 2024,20:00,+0300,Hatayspor,,,Bodrum FK,2024-09-20T17:00Z
-6,Sat Sep 21 2024,17:00,+0300,Konyaspor,,,Sivasspor,2024-09-21T14:00Z
-6,Sat Sep 21 2024,20:00,+0300,Fenerbahçe,,,Galatasaray,2024-09-21T17:00Z
-6,Sun Sep 22 2024,17:00,+0300,Kasımpaşa SK,,,Antalyaspor,2024-09-22T14:00Z
-6,Sun Sep 22 2024,20:00,+0300,Adana Demirspor,,,Alanyaspor,2024-09-22T17:00Z
-6,Sun Sep 22 2024,20:00,+0300,Beşiktaş,,,Eyüpspor,2024-09-22T17:00Z
-6,Sun Sep 22 2024,17:00,+0300,Çaykur Rizespor,,,Samsunspor,2024-09-22T14:00Z
+3,Tue Sep 17 2024,20:00,+0300,Galatasaray,3-1,2-0,Gaziantep FK,2024-09-17T17:00Z
+3,Wed Sep 18 2024,20:00,+0300,Samsunspor,2-0,0-0,İstanbul Başakşehir,2024-09-18T17:00Z
+3,Thu Sep 19 2024,20:00,+0300,Trabzonspor,2-2,0-1,Kayserispor,2024-09-19T17:00Z
+6,Fri Sep 20 2024,20:00,+0300,Hatayspor,0-1,0-1,Bodrum FK,2024-09-20T17:00Z
+6,Sat Sep 21 2024,17:00,+0300,Konyaspor,0-0,0-0,Sivasspor,2024-09-21T14:00Z
+6,Sat Sep 21 2024,20:00,+0300,Fenerbahçe,1-3,0-2,Galatasaray,2024-09-21T17:00Z
+6,Sun Sep 22 2024,17:00,+0300,Kasımpaşa SK,0-0,0-0,Antalyaspor,2024-09-22T14:00Z
+6,Sun Sep 22 2024,20:00,+0300,Adana Demirspor,0-2,0-2,Alanyaspor,2024-09-22T17:00Z
+6,Sun Sep 22 2024,20:00,+0300,Beşiktaş,2-1,1-0,Eyüpspor,2024-09-22T17:00Z
+6,Sun Sep 22 2024,17:00,+0300,Çaykur Rizespor,0-1,0-0,Samsunspor,2024-09-22T14:00Z
 6,Mon Sep 23 2024,20:00,+0300,Gaziantep FK,,,Trabzonspor,2024-09-23T17:00Z
 6,Mon Sep 23 2024,20:00,+0300,Göztepe,,,Kayserispor,2024-09-23T17:00Z
 7,Fri Sep 27 2024,20:00,+0300,Sivasspor,,,İstanbul Başakşehir,2024-09-27T17:00Z

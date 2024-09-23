@@ -1,0 +1,136 @@
+Round,Date,Time,Timezone,Team 1,FT,Team 2,Comments,UTC
+1,Sat Sep 14 2024,20:30,CEST/+0200,FC Pas de la Casa,1-2,FC Ordino,,2024-09-14T18:30Z
+1,Sun Sep 15 2024,11:00,CEST/+0200,UE Santa Coloma,0-1,FC Santa Coloma,,2024-09-15T09:00Z
+1,Sun Sep 15 2024,13:30,CEST/+0200,Inter Club d'Escaldes,6-1,FS La Massana,,2024-09-15T11:30Z
+1,Sun Sep 15 2024,16:00,CEST/+0200,FC Rànger's,4-0,CF Esperança d'Andorra,,2024-09-15T14:00Z
+1,Sun Sep 15 2024,,,Penya Encarnada,,Atlétic Escaldes,postponed,
+2,Sat Sep 21 2024,20:30,CEST/+0200,FC Santa Coloma,1-1,FC Rànger's,,2024-09-21T18:30Z
+2,Sun Sep 22 2024,11:00,CEST/+0200,CF Esperança d'Andorra,0-3,Inter Club d'Escaldes,,2024-09-22T09:00Z
+2,Sun Sep 22 2024,13:30,CEST/+0200,Atlétic Escaldes,3-2,FC Pas de la Casa,,2024-09-22T11:30Z
+2,Sun Sep 22 2024,16:00,CEST/+0200,FS La Massana,1-3,Penya Encarnada,,2024-09-22T14:00Z
+2,Sun Sep 22 2024,18:30,CEST/+0200,FC Ordino,0-2,UE Santa Coloma,,2024-09-22T16:30Z
+3,Sat Sep 28 2024,20:30,CEST/+0200,FC Pas de la Casa,,UE Santa Coloma,,2024-09-28T18:30Z
+3,Sun Sep 29 2024,13:30,CEST/+0200,Penya Encarnada,,CF Esperança d'Andorra,,2024-09-29T11:30Z
+3,Sun Sep 29 2024,16:00,CEST/+0200,Inter Club d'Escaldes,,FC Santa Coloma,,2024-09-29T14:00Z
+3,Sun Sep 29 2024,18:30,CEST/+0200,Atlétic Escaldes,,FS La Massana,,2024-09-29T16:30Z
+3,Sun Sep 29 2024,11:00,CEST/+0200,FC Rànger's,,FC Ordino,,2024-09-29T09:00Z
+4,Sat Oct 5 2024,20:30,CEST/+0200,CF Esperança d'Andorra,,Atlétic Escaldes,,2024-10-05T18:30Z
+4,Sun Oct 6 2024,16:00,CEST/+0200,FC Ordino,,Inter Club d'Escaldes,,2024-10-06T14:00Z
+4,Sun Oct 6 2024,18:30,CEST/+0200,FC Santa Coloma,,Penya Encarnada,,2024-10-06T16:30Z
+4,Sun Oct 6 2024,23:00,CEST/+0200,FS La Massana,,FC Pas de la Casa,,2024-10-06T21:00Z
+4,Sun Oct 6 2024,13:30,CEST/+0200,UE Santa Coloma,,FC Rànger's,,2024-10-06T11:30Z
+5,Sat Oct 19 2024,20:30,CEST/+0200,FS La Massana,,CF Esperança d'Andorra,,2024-10-19T18:30Z
+5,Sun Oct 20 2024,13:30,CEST/+0200,Penya Encarnada,,FC Ordino,,2024-10-20T11:30Z
+5,Sun Oct 20 2024,16:00,CEST/+0200,Inter Club d'Escaldes,,UE Santa Coloma,,2024-10-20T14:00Z
+5,Sun Oct 20 2024,18:30,CEST/+0200,FC Pas de la Casa,,FC Rànger's,,2024-10-20T16:30Z
+5,Sun Oct 20 2024,23:00,CEST/+0200,Atlétic Escaldes,,FC Santa Coloma,,2024-10-20T21:00Z
+6,Sat Oct 26 2024,20:30,CEST/+0200,FC Ordino,,Atlétic Escaldes,,2024-10-26T18:30Z
+6,Sun Oct 27 2024,16:00,CET/+0100,CF Esperança d'Andorra,,FC Pas de la Casa,,2024-10-27T15:00Z
+6,Sun Oct 27 2024,18:30,CET/+0100,FC Rànger's,,Inter Club d'Escaldes,,2024-10-27T17:30Z
+6,Sun Oct 27 2024,23:00,CET/+0100,UE Santa Coloma,,Penya Encarnada,,2024-10-27T22:00Z
+6,Sun Oct 27 2024,13:30,CET/+0100,FC Santa Coloma,,FS La Massana,,2024-10-27T12:30Z
+7,Sun Nov 3 2024,,,CF Esperança d'Andorra,,FC Santa Coloma,,
+7,Sun Nov 3 2024,,,FS La Massana,,FC Ordino,,
+7,Sun Nov 3 2024,,,Atlétic Escaldes,,UE Santa Coloma,,
+7,Sun Nov 3 2024,,,Penya Encarnada,,FC Rànger's,,
+7,Sun Nov 3 2024,,,FC Pas de la Casa,,Inter Club d'Escaldes,,
+8,Sun Nov 10 2024,,,FC Ordino,,CF Esperança d'Andorra,,
+8,Sun Nov 10 2024,,,UE Santa Coloma,,FS La Massana,,
+8,Sun Nov 10 2024,,,FC Rànger's,,Atlétic Escaldes,,
+8,Sun Nov 10 2024,,,Inter Club d'Escaldes,,Penya Encarnada,,
+8,Sun Nov 10 2024,,,FC Pas de la Casa,,FC Santa Coloma,,
+9,Sun Nov 24 2024,,,FC Santa Coloma,,FC Ordino,,
+9,Sun Nov 24 2024,,,CF Esperança d'Andorra,,UE Santa Coloma,,
+9,Sun Nov 24 2024,,,FS La Massana,,FC Rànger's,,
+9,Sun Nov 24 2024,,,Atlétic Escaldes,,Inter Club d'Escaldes,,
+9,Sun Nov 24 2024,,,Penya Encarnada,,FC Pas de la Casa,,
+10,Sun Dec 1 2024,,,Atlétic Escaldes,,FC Santa Coloma,,
+10,Sun Dec 1 2024,,,Inter Club d'Escaldes,,FC Rànger's,,
+10,Sun Dec 1 2024,,,UE Santa Coloma,,Penya Encarnada,,
+10,Sun Dec 1 2024,,,FC Pas de la Casa,,CF Esperança d'Andorra,,
+10,Sun Dec 1 2024,,,FC Ordino,,FS La Massana,,
+11,Sun Dec 8 2024,,,FS La Massana,,CF Esperança d'Andorra,,
+11,Sun Dec 8 2024,,,FC Ordino,,FC Santa Coloma,,
+11,Sun Dec 8 2024,,,Inter Club d'Escaldes,,Atlétic Escaldes,,
+11,Sun Dec 8 2024,,,Penya Encarnada,,FC Rànger's,,
+11,Sun Dec 8 2024,,,FC Pas de la Casa,,UE Santa Coloma,,
+12,Sun Dec 15 2024,,,Inter Club d'Escaldes,,FC Ordino,,
+12,Sun Dec 15 2024,,,Atlétic Escaldes,,Penya Encarnada,,
+12,Sun Dec 15 2024,,,FC Rànger's,,FC Pas de la Casa,,
+12,Sun Dec 15 2024,,,UE Santa Coloma,,CF Esperança d'Andorra,,
+12,Sun Dec 15 2024,,,FS La Massana,,FC Santa Coloma,,
+13,Sun Jan 19 2025,,,FC Santa Coloma,,CF Esperança d'Andorra,,
+13,Sun Jan 19 2025,,,Inter Club d'Escaldes,,FS La Massana,,
+13,Sun Jan 19 2025,,,FC Ordino,,Penya Encarnada,,
+13,Sun Jan 19 2025,,,FC Pas de la Casa,,Atlétic Escaldes,,
+13,Sun Jan 19 2025,,,UE Santa Coloma,,FC Rànger's,,
+14,Sun Jan 26 2025,,,FC Santa Coloma,,Inter Club d'Escaldes,,
+14,Sun Jan 26 2025,,,FS La Massana,,Penya Encarnada,,
+14,Sun Jan 26 2025,,,FC Ordino,,FC Pas de la Casa,,
+14,Sun Jan 26 2025,,,UE Santa Coloma,,Atlétic Escaldes,,
+14,Sun Jan 26 2025,,,CF Esperança d'Andorra,,FC Rànger's,,
+15,Sun Feb 2 2025,,,Penya Encarnada,,FC Santa Coloma,,
+15,Sun Feb 2 2025,,,FC Pas de la Casa,,FS La Massana,,
+15,Sun Feb 2 2025,,,UE Santa Coloma,,FC Ordino,,
+15,Sun Feb 2 2025,,,Atlétic Escaldes,,FC Rànger's,,
+15,Sun Feb 2 2025,,,Inter Club d'Escaldes,,CF Esperança d'Andorra,,
+16,Sun Feb 9 2025,,,Penya Encarnada,,Inter Club d'Escaldes,,
+16,Sun Feb 9 2025,,,FC Santa Coloma,,FC Pas de la Casa,,
+16,Sun Feb 9 2025,,,FS La Massana,,UE Santa Coloma,,
+16,Sun Feb 9 2025,,,FC Ordino,,FC Rànger's,,
+16,Sun Feb 9 2025,,,CF Esperança d'Andorra,,Atlétic Escaldes,,
+17,Sun Feb 16 2025,,,FC Pas de la Casa,,Inter Club d'Escaldes,,
+17,Sun Feb 16 2025,,,FC Santa Coloma,,UE Santa Coloma,,
+17,Sun Feb 16 2025,,,FC Rànger's,,FS La Massana,,
+17,Sun Feb 16 2025,,,Atlétic Escaldes,,FC Ordino,,
+17,Sun Feb 16 2025,,,CF Esperança d'Andorra,,Penya Encarnada,,
+18,Sun Feb 23 2025,,,Penya Encarnada,,FC Pas de la Casa,,
+18,Sun Feb 23 2025,,,Inter Club d'Escaldes,,UE Santa Coloma,,
+18,Sun Feb 23 2025,,,FC Rànger's,,FC Santa Coloma,,
+18,Sun Feb 23 2025,,,FS La Massana,,Atlétic Escaldes,,
+18,Sun Feb 23 2025,,,CF Esperança d'Andorra,,FC Ordino,,
+19,Sun Mar 2 2025,,,UE Santa Coloma,,FC Pas de la Casa,,
+19,Sun Mar 2 2025,,,Atlétic Escaldes,,FC Ordino,,
+19,Sun Mar 2 2025,,,FS La Massana,,Inter Club d'Escaldes,,
+19,Sun Mar 2 2025,,,FC Rànger's,,Penya Encarnada,,
+19,Sun Mar 2 2025,,,FC Santa Coloma,,CF Esperança d'Andorra,,
+20,Sun Mar 9 2025,,,CF Esperança d'Andorra,,FC Rànger's,,
+20,Sun Mar 9 2025,,,FC Pas de la Casa,,FC Santa Coloma,,
+20,Sun Mar 9 2025,,,FC Ordino,,UE Santa Coloma,,
+20,Sun Mar 9 2025,,,Inter Club d'Escaldes,,Atlétic Escaldes,,
+20,Sun Mar 9 2025,,,Penya Encarnada,,FS La Massana,,
+21,Sun Mar 30 2025,,,CF Esperança d'Andorra,,FC Pas de la Casa,,
+21,Sun Mar 30 2025,,,FC Santa Coloma,,FC Ordino,,
+21,Sun Mar 30 2025,,,UE Santa Coloma,,Inter Club d'Escaldes,,
+21,Sun Mar 30 2025,,,Atlétic Escaldes,,Penya Encarnada,,
+21,Sun Mar 30 2025,,,FC Rànger's,,FS La Massana,,
+22,Sun Apr 6 2025,,,FC Ordino,,CF Esperança d'Andorra,,
+22,Sun Apr 6 2025,,,Inter Club d'Escaldes,,FC Santa Coloma,,
+22,Sun Apr 6 2025,,,Penya Encarnada,,UE Santa Coloma,,
+22,Sun Apr 6 2025,,,FS La Massana,,Atlétic Escaldes,,
+22,Sun Apr 6 2025,,,FC Pas de la Casa,,FC Rànger's,,
+23,Sun Apr 13 2025,,,FC Pas de la Casa,,FC Ordino,,
+23,Sun Apr 13 2025,,,CF Esperança d'Andorra,,Inter Club d'Escaldes,,
+23,Sun Apr 13 2025,,,FC Santa Coloma,,Penya Encarnada,,
+23,Sun Apr 13 2025,,,UE Santa Coloma,,FS La Massana,,
+23,Sun Apr 13 2025,,,FC Rànger's,,Atlétic Escaldes,,
+24,Sun Apr 27 2025,,,Inter Club d'Escaldes,,FC Pas de la Casa,,
+24,Sun Apr 27 2025,,,Penya Encarnada,,CF Esperança d'Andorra,,
+24,Sun Apr 27 2025,,,FS La Massana,,FC Santa Coloma,,
+24,Sun Apr 27 2025,,,Atlétic Escaldes,,UE Santa Coloma,,
+24,Sun Apr 27 2025,,,FC Ordino,,FC Rànger's,,
+25,Sun May 4 2025,,,FC Ordino,,Inter Club d'Escaldes,,
+25,Sun May 4 2025,,,FC Pas de la Casa,,Penya Encarnada,,
+25,Sun May 4 2025,,,CF Esperança d'Andorra,,FS La Massana,,
+25,Sun May 4 2025,,,FC Santa Coloma,,Atlétic Escaldes,,
+25,Sun May 4 2025,,,FC Rànger's,,UE Santa Coloma,,
+26,Sun May 11 2025,,,Penya Encarnada,,FC Ordino,,
+26,Sun May 11 2025,,,FS La Massana,,FC Pas de la Casa,,
+26,Sun May 11 2025,,,Atlétic Escaldes,,CF Esperança d'Andorra,,
+26,Sun May 11 2025,,,UE Santa Coloma,,FC Santa Coloma,,
+26,Sun May 11 2025,,,FC Rànger's,,Inter Club d'Escaldes,,
+27,Sun May 18 2025,,,Inter Club d'Escaldes,,Penya Encarnada,,
+27,Sun May 18 2025,,,FC Ordino,,FS La Massana,,
+27,Sun May 18 2025,,,FC Pas de la Casa,,Atlétic Escaldes,,
+27,Sun May 18 2025,,,CF Esperança d'Andorra,,UE Santa Coloma,,
+27,Sun May 18 2025,,,FC Santa Coloma,,FC Rànger's,,

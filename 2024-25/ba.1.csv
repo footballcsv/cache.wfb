@@ -1,0 +1,133 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Sat Aug 3 2024,21:00,CEST/+0200,Željezničar Sarajevo,0-1,0-1,Široki Brijeg,,2024-08-03T19:00Z
+1,Sat Aug 3 2024,18:45,CEST/+0200,NK GOŠK Gabela,0-1,0-0,Radnik Bijeljina,,2024-08-03T16:45Z
+1,Sun Aug 4 2024,21:00,CEST/+0200,FK Sarajevo,3-1,1-1,Sloboda Tuzla,,2024-08-04T19:00Z
+1,Sun Aug 4 2024,17:30,CEST/+0200,HŠK Posušje,1-0,0-0,Igman Konjic,,2024-08-04T15:30Z
+2,Sat Aug 10 2024,21:00,CEST/+0200,Velež Mostar,1-2,0-0,Željezničar Sarajevo,,2024-08-10T19:00Z
+2,Sat Aug 10 2024,18:45,CEST/+0200,Sloboda Tuzla,0-2,0-1,HŠK Posušje,,2024-08-10T16:45Z
+2,Sat Aug 10 2024,,,Igman Konjic,,,Borac Banja Luka,postponed,
+2,Sun Aug 11 2024,21:00,CEST/+0200,NK GOŠK Gabela,1-4,1-1,Zrinjski Mostar,,2024-08-11T19:00Z
+2,Sun Aug 11 2024,18:45,CEST/+0200,Radnik Bijeljina,1-1,0-1,Široki Brijeg,,2024-08-11T16:45Z
+2,Mon Aug 12 2024,17:30,CEST/+0200,Sloga Doboj,1-3,1-3,FK Sarajevo,,2024-08-12T15:30Z
+3,Sat Aug 17 2024,17:30,CEST/+0200,HŠK Posušje,1-1,1-1,Sloga Doboj,,2024-08-17T15:30Z
+3,Sat Aug 17 2024,21:00,CEST/+0200,Željezničar Sarajevo,3-1,2-0,Igman Konjic,,2024-08-17T19:00Z
+3,Sun Aug 18 2024,21:00,CEST/+0200,Borac Banja Luka,2-0,1-0,Sloboda Tuzla,,2024-08-18T19:00Z
+3,Sun Aug 18 2024,18:45,CEST/+0200,Široki Brijeg,0-2,0-1,Velež Mostar,,2024-08-18T16:45Z
+3,Mon Aug 19 2024,,,Zrinjski Mostar,,,Radnik Bijeljina,postponed,
+3,Mon Aug 19 2024,21:00,CEST/+0200,FK Sarajevo,3-1,2-0,NK GOŠK Gabela,,2024-08-19T19:00Z
+4,Fri Aug 23 2024,17:30,CEST/+0200,Igman Konjic,0-3,0-1,Široki Brijeg,,2024-08-23T15:30Z
+4,Sat Aug 24 2024,21:00,CEST/+0200,Sloboda Tuzla,0-1,0-0,Željezničar Sarajevo,,2024-08-24T19:00Z
+4,Sat Aug 24 2024,,,Sloga Doboj,,,Borac Banja Luka,postponed,
+4,Sat Aug 24 2024,,,Zrinjski Mostar,,,FK Sarajevo,postponed,
+4,Sat Aug 24 2024,18:45,CEST/+0200,Radnik Bijeljina,4-3,2-2,Velež Mostar,,2024-08-24T16:45Z
+4,Mon Aug 26 2024,21:00,CEST/+0200,NK GOŠK Gabela,0-1,0-1,HŠK Posušje,,2024-08-26T19:00Z
+5,Fri Aug 30 2024,21:00,CEST/+0200,FK Sarajevo,2-0,1-0,Radnik Bijeljina,,2024-08-30T19:00Z
+5,Sat Aug 31 2024,21:00,CEST/+0200,Velež Mostar,1-1,1-1,Igman Konjic,,2024-08-31T19:00Z
+5,Sun Sep 1 2024,18:45,CEST/+0200,Željezničar Sarajevo,1-1,0-1,Sloga Doboj,,2024-09-01T16:45Z
+5,Sun Sep 1 2024,21:00,CEST/+0200,Široki Brijeg,1-1,0-1,Sloboda Tuzla,,2024-09-01T19:00Z
+5,Mon Sep 2 2024,21:00,CEST/+0200,Borac Banja Luka,3-0,0-0,NK GOŠK Gabela,,2024-09-02T19:00Z
+5,Tue Sep 3 2024,21:00,CEST/+0200,Zrinjski Mostar,1-0,0-0,HŠK Posušje,,2024-09-03T19:00Z
+1,Wed Sep 11 2024,20:15,CEST/+0200,Zrinjski Mostar,3-1,0-0,Sloga Doboj,,2024-09-11T18:15Z
+1,Wed Sep 11 2024,,,Borac Banja Luka,,,Velež Mostar,postponed,
+6,Fri Sep 13 2024,18:00,CEST/+0200,Radnik Bijeljina,0-1,0-0,Igman Konjic,,2024-09-13T16:00Z
+6,Sat Sep 14 2024,20:45,CEST/+0200,FK Sarajevo,2-2,1-0,HŠK Posušje,,2024-09-14T18:45Z
+6,Sat Sep 14 2024,16:00,CEST/+0200,Sloboda Tuzla,1-1,0-1,Velež Mostar,,2024-09-14T14:00Z
+6,Sun Sep 15 2024,15:00,CEST/+0200,Sloga Doboj,1-0,1-0,Široki Brijeg,,2024-09-15T13:00Z
+6,Sun Sep 15 2024,19:45,CEST/+0200,Zrinjski Mostar,1-1,1-0,Borac Banja Luka,,2024-09-15T17:45Z
+6,Mon Sep 16 2024,18:00,CEST/+0200,NK GOŠK Gabela,0-3,0-0,Željezničar Sarajevo,,2024-09-16T16:00Z
+7,Fri Sep 20 2024,18:00,CEST/+0200,Velež Mostar,0-0,0-0,Sloga Doboj,,2024-09-20T16:00Z
+7,Fri Sep 20 2024,20:15,CEST/+0200,Široki Brijeg,2-2,2-0,NK GOŠK Gabela,,2024-09-20T18:15Z
+7,Fri Sep 20 2024,16:00,CEST/+0200,Igman Konjic,1-0,0-0,Sloboda Tuzla,,2024-09-20T14:00Z
+7,Sat Sep 21 2024,16:00,CEST/+0200,Borac Banja Luka,0-1,0-1,FK Sarajevo,,2024-09-21T14:00Z
+7,Sat Sep 21 2024,18:30,CEST/+0200,HŠK Posušje,3-1,1-0,Radnik Bijeljina,,2024-09-21T16:30Z
+7,Sat Sep 21 2024,20:45,CEST/+0200,Željezničar Sarajevo,0-2,0-0,Zrinjski Mostar,,2024-09-21T18:45Z
+8,Tue Sep 24 2024,18:15,CEST/+0200,NK GOŠK Gabela,,,Velež Mostar,,2024-09-24T16:15Z
+8,Tue Sep 24 2024,20:30,CEST/+0200,Zrinjski Mostar,,,Široki Brijeg,,2024-09-24T18:30Z
+8,Tue Sep 24 2024,16:00,CEST/+0200,Radnik Bijeljina,,,Sloboda Tuzla,,2024-09-24T14:00Z
+8,Wed Sep 25 2024,18:00,CEST/+0200,HŠK Posušje,,,Borac Banja Luka,,2024-09-25T16:00Z
+8,Wed Sep 25 2024,20:30,CEST/+0200,FK Sarajevo,,,Željezničar Sarajevo,,2024-09-25T18:30Z
+8,Wed Sep 25 2024,16:00,CEST/+0200,Sloga Doboj,,,Igman Konjic,,2024-09-25T14:00Z
+9,Sat Sep 28 2024,,,Borac Banja Luka,,,Radnik Bijeljina,,
+9,Sat Sep 28 2024,,,Željezničar Sarajevo,,,HŠK Posušje,,
+9,Sat Sep 28 2024,,,Široki Brijeg,,,FK Sarajevo,,
+9,Sat Sep 28 2024,,,Velež Mostar,,,Zrinjski Mostar,,
+9,Sat Sep 28 2024,,,Igman Konjic,,,NK GOŠK Gabela,,
+9,Sat Sep 28 2024,,,Sloboda Tuzla,,,Sloga Doboj,,
+10,Sat Oct 5 2024,,,NK GOŠK Gabela,,,Sloboda Tuzla,,
+10,Sat Oct 5 2024,,,Zrinjski Mostar,,,Igman Konjic,,
+10,Sat Oct 5 2024,,,FK Sarajevo,,,Velež Mostar,,
+10,Sat Oct 5 2024,,,HŠK Posušje,,,Široki Brijeg,,
+10,Sat Oct 5 2024,,,Borac Banja Luka,,,Željezničar Sarajevo,,
+10,Sat Oct 5 2024,,,Radnik Bijeljina,,,Sloga Doboj,,
+11,Sat Oct 19 2024,,,Željezničar Sarajevo,,,Radnik Bijeljina,,
+11,Sat Oct 19 2024,,,Široki Brijeg,,,Borac Banja Luka,,
+11,Sat Oct 19 2024,,,Velež Mostar,,,HŠK Posušje,,
+11,Sat Oct 19 2024,,,Igman Konjic,,,FK Sarajevo,,
+11,Sat Oct 19 2024,,,Sloboda Tuzla,,,Zrinjski Mostar,,
+11,Sat Oct 19 2024,,,Sloga Doboj,,,NK GOŠK Gabela,,
+12,Sat Oct 26 2024,,,Radnik Bijeljina,,,NK GOŠK Gabela,,
+12,Sat Oct 26 2024,,,Sloga Doboj,,,Zrinjski Mostar,,
+12,Sat Oct 26 2024,,,Sloboda Tuzla,,,FK Sarajevo,,
+12,Sat Oct 26 2024,,,Igman Konjic,,,HŠK Posušje,,
+12,Sat Oct 26 2024,,,Velež Mostar,,,Borac Banja Luka,,
+12,Sat Oct 26 2024,,,Široki Brijeg,,,Željezničar Sarajevo,,
+13,Sat Nov 2 2024,,,Željezničar Sarajevo,,,Velež Mostar,,
+13,Sat Nov 2 2024,,,Borac Banja Luka,,,Igman Konjic,,
+13,Sat Nov 2 2024,,,HŠK Posušje,,,Sloboda Tuzla,,
+13,Sat Nov 2 2024,,,FK Sarajevo,,,Sloga Doboj,,
+13,Sat Nov 2 2024,,,Zrinjski Mostar,,,NK GOŠK Gabela,,
+13,Sat Nov 2 2024,,,Široki Brijeg,,,Radnik Bijeljina,,
+14,Sat Nov 9 2024,,,Radnik Bijeljina,,,Zrinjski Mostar,,
+14,Sat Nov 9 2024,,,NK GOŠK Gabela,,,FK Sarajevo,,
+14,Sat Nov 9 2024,,,Sloga Doboj,,,HŠK Posušje,,
+14,Sat Nov 9 2024,,,Sloboda Tuzla,,,Borac Banja Luka,,
+14,Sat Nov 9 2024,,,Igman Konjic,,,Željezničar Sarajevo,,
+14,Sat Nov 9 2024,,,Velež Mostar,,,Široki Brijeg,,
+15,Sat Nov 23 2024,,,Velež Mostar,,,Radnik Bijeljina,,
+15,Sat Nov 23 2024,,,Široki Brijeg,,,Igman Konjic,,
+15,Sat Nov 23 2024,,,Željezničar Sarajevo,,,Sloboda Tuzla,,
+15,Sat Nov 23 2024,,,Borac Banja Luka,,,Sloga Doboj,,
+15,Sat Nov 23 2024,,,HŠK Posušje,,,NK GOŠK Gabela,,
+15,Sat Nov 23 2024,,,FK Sarajevo,,,Zrinjski Mostar,,
+16,Sat Nov 30 2024,,,HŠK Posušje,,,Zrinjski Mostar,,
+16,Sat Nov 30 2024,,,NK GOŠK Gabela,,,Borac Banja Luka,,
+16,Sat Nov 30 2024,,,Sloga Doboj,,,Željezničar Sarajevo,,
+16,Sat Nov 30 2024,,,Sloboda Tuzla,,,Široki Brijeg,,
+16,Sat Nov 30 2024,,,Igman Konjic,,,Velež Mostar,,
+16,Sat Nov 30 2024,,,Radnik Bijeljina,,,FK Sarajevo,,
+17,Sat Dec 7 2024,,,Igman Konjic,,,Radnik Bijeljina,,
+17,Sat Dec 7 2024,,,Velež Mostar,,,Sloboda Tuzla,,
+17,Sat Dec 7 2024,,,Široki Brijeg,,,Sloga Doboj,,
+17,Sat Dec 7 2024,,,Željezničar Sarajevo,,,NK GOŠK Gabela,,
+17,Sat Dec 7 2024,,,Borac Banja Luka,,,Zrinjski Mostar,,
+17,Sat Dec 7 2024,,,HŠK Posušje,,,FK Sarajevo,,
+18,Sat Dec 14 2024,,,Radnik Bijeljina,,,HŠK Posušje,,
+18,Sat Dec 14 2024,,,FK Sarajevo,,,Borac Banja Luka,,
+18,Sat Dec 14 2024,,,Zrinjski Mostar,,,Željezničar Sarajevo,,
+18,Sat Dec 14 2024,,,NK GOŠK Gabela,,,Široki Brijeg,,
+18,Sat Dec 14 2024,,,Sloga Doboj,,,Velež Mostar,,
+18,Sat Dec 14 2024,,,Sloboda Tuzla,,,Igman Konjic,,
+19,Sat Feb 15 2025,,,Igman Konjic,,,Sloga Doboj,,
+19,Sat Feb 15 2025,,,Velež Mostar,,,NK GOŠK Gabela,,
+19,Sat Feb 15 2025,,,Široki Brijeg,,,Zrinjski Mostar,,
+19,Sat Feb 15 2025,,,Željezničar Sarajevo,,,FK Sarajevo,,
+19,Sat Feb 15 2025,,,Borac Banja Luka,,,HŠK Posušje,,
+19,Sat Feb 15 2025,,,Sloboda Tuzla,,,Radnik Bijeljina,,
+20,Sat Feb 22 2025,,,Radnik Bijeljina,,,Borac Banja Luka,,
+20,Sat Feb 22 2025,,,HŠK Posušje,,,Željezničar Sarajevo,,
+20,Sat Feb 22 2025,,,FK Sarajevo,,,Široki Brijeg,,
+20,Sat Feb 22 2025,,,Zrinjski Mostar,,,Velež Mostar,,
+20,Sat Feb 22 2025,,,NK GOŠK Gabela,,,Igman Konjic,,
+20,Sat Feb 22 2025,,,Sloga Doboj,,,Sloboda Tuzla,,
+21,Sat Mar 1 2025,,,Sloga Doboj,,,Radnik Bijeljina,,
+21,Sat Mar 1 2025,,,Sloboda Tuzla,,,NK GOŠK Gabela,,
+21,Sat Mar 1 2025,,,Igman Konjic,,,Zrinjski Mostar,,
+21,Sat Mar 1 2025,,,Velež Mostar,,,FK Sarajevo,,
+21,Sat Mar 1 2025,,,Široki Brijeg,,,HŠK Posušje,,
+21,Sat Mar 1 2025,,,Željezničar Sarajevo,,,Borac Banja Luka,,
+22,Sat Mar 8 2025,,,Borac Banja Luka,,,Široki Brijeg,,
+22,Sat Mar 8 2025,,,HŠK Posušje,,,Velež Mostar,,
+22,Sat Mar 8 2025,,,FK Sarajevo,,,Igman Konjic,,
+22,Sat Mar 8 2025,,,Zrinjski Mostar,,,Sloboda Tuzla,,
+22,Sat Mar 8 2025,,,NK GOŠK Gabela,,,Sloga Doboj,,
+22,Sat Mar 8 2025,,,Radnik Bijeljina,,,Željezničar Sarajevo,,

@@ -1,0 +1,241 @@
+Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,Comments,UTC
+1,Fri Jul 19 2024,21:15,EEST/+0300,FK Krumovgrad,1-0,1-0,Slavia Sofia,,2024-07-19T18:15Z
+1,Fri Jul 19 2024,18:45,EEST/+0300,Cherno More Varna,0-0,0-0,CSKA 1948 Sofia,,2024-07-19T15:45Z
+1,Sat Jul 20 2024,21:15,EEST/+0300,Lokomotiv Sofia,1-6,1-4,Levski Sofia,,2024-07-20T18:15Z
+1,Sat Jul 20 2024,19:00,EEST/+0300,Lokomotiv Plovdiv,1-0,1-0,Arda Kardzhali,,2024-07-20T16:00Z
+1,Sun Jul 21 2024,19:00,EEST/+0300,Botev Vratsa,1-3,0-0,Botev Plovdiv,,2024-07-21T16:00Z
+1,Sun Jul 21 2024,21:15,EEST/+0300,PFC Ludogorets Razgrad,1-0,0-0,CSKA Sofia,,2024-07-21T18:15Z
+1,Mon Jul 22 2024,21:15,EEST/+0300,Septemvri Sofia,0-1,0-0,PFC Beroe,,2024-07-22T18:15Z
+1,Mon Jul 22 2024,19:00,EEST/+0300,Hebar Pazardzhik,0-2,0-1,Spartak Varna,,2024-07-22T16:00Z
+2,Fri Jul 26 2024,21:15,EEST/+0300,Levski Sofia,4-0,1-0,Botev Vratsa,,2024-07-26T18:15Z
+2,Fri Jul 26 2024,19:00,EEST/+0300,Arda Kardzhali,1-0,1-0,FK Krumovgrad,,2024-07-26T16:00Z
+2,Sat Jul 27 2024,19:00,EEST/+0300,CSKA Sofia,3-1,2-0,Hebar Pazardzhik,,2024-07-27T16:00Z
+2,Sun Jul 28 2024,19:00,EEST/+0300,CSKA 1948 Sofia,2-2,2-1,Spartak Varna,,2024-07-28T16:00Z
+2,Sun Jul 28 2024,21:15,EEST/+0300,Botev Plovdiv,2-2,1-0,Lokomotiv Plovdiv,,2024-07-28T18:15Z
+2,Mon Jul 29 2024,21:15,EEST/+0300,Cherno More Varna,2-0,0-0,Septemvri Sofia,,2024-07-29T18:15Z
+2,Mon Jul 29 2024,19:00,EEST/+0300,PFC Beroe,0-0,0-0,Lokomotiv Sofia,,2024-07-29T16:00Z
+3,Fri Aug 2 2024,19:00,EEST/+0300,Hebar Pazardzhik,1-1,0-1,Slavia Sofia,,2024-08-02T16:00Z
+3,Fri Aug 2 2024,21:15,EEST/+0300,Lokomotiv Plovdiv,0-2,0-1,Levski Sofia,,2024-08-02T18:15Z
+3,Sat Aug 3 2024,21:15,EEST/+0300,PFC Ludogorets Razgrad,5-1,2-0,Arda Kardzhali,,2024-08-03T18:15Z
+3,Sat Aug 3 2024,19:00,EEST/+0300,Spartak Varna,3-0,2-0,CSKA Sofia,,2024-08-03T16:00Z
+3,Sun Aug 4 2024,19:00,EEST/+0300,Lokomotiv Sofia,2-1,0-0,Cherno More Varna,,2024-08-04T16:00Z
+3,Sun Aug 4 2024,21:15,EEST/+0300,FK Krumovgrad,0-1,0-0,Botev Plovdiv,,2024-08-04T18:15Z
+3,Mon Aug 5 2024,21:15,EEST/+0300,Botev Vratsa,1-2,1-1,PFC Beroe,,2024-08-05T18:15Z
+4,Fri Aug 9 2024,21:15,EEST/+0300,Arda Kardzhali,2-1,1-0,Hebar Pazardzhik,,2024-08-09T18:15Z
+4,Fri Aug 9 2024,19:00,EEST/+0300,Slavia Sofia,3-1,2-1,Spartak Varna,,2024-08-09T16:00Z
+4,Sat Aug 10 2024,19:00,EEST/+0300,PFC Beroe,0-2,0-0,Lokomotiv Plovdiv,,2024-08-10T16:00Z
+4,Sat Aug 10 2024,21:15,EEST/+0300,Levski Sofia,3-0,1-0,FK Krumovgrad,,2024-08-10T18:15Z
+4,Sun Aug 11 2024,,,CSKA 1948 Sofia,,,CSKA Sofia,postponed,
+4,Sun Aug 11 2024,,,Botev Plovdiv,,,PFC Ludogorets Razgrad,postponed,
+4,Mon Aug 12 2024,19:00,EEST/+0300,Septemvri Sofia,0-1,0-1,Lokomotiv Sofia,,2024-08-12T16:00Z
+4,Mon Aug 12 2024,21:15,EEST/+0300,Cherno More Varna,2-1,1-1,Botev Vratsa,,2024-08-12T18:15Z
+5,Fri Aug 16 2024,19:00,EEST/+0300,Spartak Varna,1-0,1-0,Arda Kardzhali,,2024-08-16T16:00Z
+5,Fri Aug 16 2024,21:15,EEST/+0300,FK Krumovgrad,0-1,0-0,PFC Beroe,,2024-08-16T18:15Z
+5,Sat Aug 17 2024,21:15,EEST/+0300,PFC Ludogorets Razgrad,1-0,0-0,Levski Sofia,,2024-08-17T18:15Z
+5,Sat Aug 17 2024,19:00,EEST/+0300,CSKA Sofia,0-1,0-1,Slavia Sofia,,2024-08-17T16:00Z
+5,Sun Aug 18 2024,21:15,EEST/+0300,Hebar Pazardzhik,0-1,0-0,Botev Plovdiv,,2024-08-18T18:15Z
+5,Sun Aug 18 2024,19:00,EEST/+0300,Lokomotiv Sofia,0-0,0-0,CSKA 1948 Sofia,,2024-08-18T16:00Z
+5,Mon Aug 19 2024,19:00,EEST/+0300,Botev Vratsa,2-0,2-0,Septemvri Sofia,,2024-08-19T16:00Z
+5,Mon Aug 19 2024,21:15,EEST/+0300,Lokomotiv Plovdiv,1-2,0-0,Cherno More Varna,,2024-08-19T18:15Z
+6,Fri Aug 23 2024,19:00,EEST/+0300,Lokomotiv Sofia,0-1,0-1,Botev Vratsa,,2024-08-23T16:00Z
+6,Fri Aug 23 2024,21:15,EEST/+0300,Levski Sofia,1-0,1-0,Hebar Pazardzhik,,2024-08-23T18:15Z
+6,Sat Aug 24 2024,19:00,EEST/+0300,Arda Kardzhali,2-1,1-0,CSKA Sofia,,2024-08-24T16:00Z
+6,Sat Aug 24 2024,21:15,EEST/+0300,Botev Plovdiv,0-1,0-0,Spartak Varna,,2024-08-24T18:15Z
+6,Sun Aug 25 2024,21:15,EEST/+0300,PFC Beroe,0-1,0-0,PFC Ludogorets Razgrad,,2024-08-25T18:15Z
+6,Sun Aug 25 2024,19:00,EEST/+0300,CSKA 1948 Sofia,2-0,1-0,Slavia Sofia,,2024-08-25T16:00Z
+6,Mon Aug 26 2024,21:15,EEST/+0300,Cherno More Varna,3-0,1-0,FK Krumovgrad,,2024-08-26T18:15Z
+6,Mon Aug 26 2024,19:00,EEST/+0300,Septemvri Sofia,2-3,1-0,Lokomotiv Plovdiv,,2024-08-26T16:00Z
+7,Fri Aug 30 2024,19:15,EEST/+0300,Botev Vratsa,0-3,0-2,CSKA 1948 Sofia,,2024-08-30T16:15Z
+7,Fri Aug 30 2024,21:30,EEST/+0300,CSKA Sofia,0-1,0-0,Botev Plovdiv,,2024-08-30T18:30Z
+7,Fri Aug 30 2024,17:00,EEST/+0300,Slavia Sofia,1-1,0-1,Arda Kardzhali,,2024-08-30T14:00Z
+7,Sat Aug 31 2024,19:00,EEST/+0300,Spartak Varna,0-0,0-0,Levski Sofia,,2024-08-31T16:00Z
+7,Sat Aug 31 2024,21:15,EEST/+0300,FK Krumovgrad,2-0,1-0,Septemvri Sofia,,2024-08-31T18:15Z
+7,Sun Sep 1 2024,19:15,EEST/+0300,Hebar Pazardzhik,3-1,1-0,PFC Beroe,,2024-09-01T16:15Z
+7,Sun Sep 1 2024,17:00,EEST/+0300,Lokomotiv Plovdiv,1-1,0-1,Lokomotiv Sofia,,2024-09-01T14:00Z
+7,Sun Sep 1 2024,21:30,EEST/+0300,PFC Ludogorets Razgrad,0-0,0-0,Cherno More Varna,,2024-09-01T18:30Z
+12,Fri Sep 13 2024,17:00,EEST/+0300,Lokomotiv Plovdiv,3-3,2-1,Hebar Pazardzhik,,2024-09-13T14:00Z
+12,Fri Sep 13 2024,19:30,EEST/+0300,Botev Vratsa,1-1,0-0,Spartak Varna,,2024-09-13T16:30Z
+12,Sat Sep 14 2024,20:00,EEST/+0300,PFC Beroe,0-1,0-1,Botev Plovdiv,,2024-09-14T17:00Z
+12,Sat Sep 14 2024,17:30,EEST/+0300,Septemvri Sofia,3-2,1-0,Slavia Sofia,,2024-09-14T14:30Z
+12,Sun Sep 15 2024,17:00,EEST/+0300,Cherno More Varna,1-1,0-1,Arda Kardzhali,,2024-09-15T14:00Z
+12,Sun Sep 15 2024,19:15,EEST/+0300,CSKA 1948 Sofia,2-4,1-2,Levski Sofia,,2024-09-15T16:15Z
+12,Sun Sep 15 2024,21:30,EEST/+0300,FK Krumovgrad,0-3,0-1,PFC Ludogorets Razgrad,,2024-09-15T18:30Z
+12,Mon Sep 16 2024,19:45,EEST/+0300,Lokomotiv Sofia,0-3,0-2,CSKA Sofia,,2024-09-16T16:45Z
+2,Wed Sep 18 2024,17:30,EEST/+0300,Slavia Sofia,0-1,0-1,PFC Ludogorets Razgrad,,2024-09-18T14:30Z
+9,Thu Sep 19 2024,17:00,EEST/+0300,Lokomotiv Plovdiv,0-2,0-0,CSKA 1948 Sofia,,2024-09-19T14:00Z
+9,Fri Sep 20 2024,17:00,EEST/+0300,Hebar Pazardzhik,1-2,1-1,Septemvri Sofia,,2024-09-20T14:00Z
+9,Sat Sep 21 2024,20:00,EEST/+0300,PFC Ludogorets Razgrad,2-0,1-0,Lokomotiv Sofia,,2024-09-21T17:00Z
+9,Sat Sep 21 2024,17:30,EEST/+0300,CSKA Sofia,1-0,1-0,PFC Beroe,,2024-09-21T14:30Z
+9,Sun Sep 22 2024,17:30,EEST/+0300,Slavia Sofia,0-1,0-1,Levski Sofia,,2024-09-22T14:30Z
+9,Sun Sep 22 2024,20:00,EEST/+0300,Spartak Varna,0-2,0-1,Cherno More Varna,,2024-09-22T17:00Z
+9,Mon Sep 23 2024,17:30,EEST/+0300,FK Krumovgrad,,,Botev Vratsa,,2024-09-23T14:30Z
+9,Mon Sep 23 2024,20:00,EEST/+0300,Arda Kardzhali,,,Botev Plovdiv,,2024-09-23T17:00Z
+3,Wed Sep 25 2024,17:30,EEST/+0300,Septemvri Sofia,,,CSKA 1948 Sofia,,2024-09-25T14:30Z
+10,Fri Sep 27 2024,20:00,EEST/+0300,PFC Beroe,,,Slavia Sofia,,2024-09-27T17:00Z
+10,Fri Sep 27 2024,17:30,EEST/+0300,Lokomotiv Sofia,,,Hebar Pazardzhik,,2024-09-27T14:30Z
+10,Sat Sep 28 2024,20:00,EEST/+0300,Cherno More Varna,,,CSKA Sofia,,2024-09-28T17:00Z
+10,Sat Sep 28 2024,17:00,EEST/+0300,Lokomotiv Plovdiv,,,FK Krumovgrad,,2024-09-28T14:00Z
+10,Sun Sep 29 2024,16:15,EEST/+0300,CSKA 1948 Sofia,,,Botev Plovdiv,,2024-09-29T13:15Z
+10,Sun Sep 29 2024,18:45,EEST/+0300,Levski Sofia,,,Arda Kardzhali,,2024-09-29T15:45Z
+10,Sun Sep 29 2024,21:15,EEST/+0300,Botev Vratsa,,,PFC Ludogorets Razgrad,,2024-09-29T18:15Z
+10,Mon Sep 30 2024,20:00,EEST/+0300,Septemvri Sofia,,,Spartak Varna,,2024-09-30T17:00Z
+11,Fri Oct 4 2024,17:30,EEST/+0300,Arda Kardzhali,,,PFC Beroe,,2024-10-04T14:30Z
+11,Fri Oct 4 2024,20:00,EEST/+0300,Slavia Sofia,,,Cherno More Varna,,2024-10-04T17:00Z
+11,Fri Oct 4 2024,15:00,EEST/+0300,FK Krumovgrad,,,CSKA 1948 Sofia,,2024-10-04T12:00Z
+11,Sat Oct 5 2024,17:30,EEST/+0300,CSKA Sofia,,,Septemvri Sofia,,2024-10-05T14:30Z
+11,Sat Oct 5 2024,20:00,EEST/+0300,Botev Plovdiv,,,Levski Sofia,,2024-10-05T17:00Z
+11,Sun Oct 6 2024,17:30,EEST/+0300,Spartak Varna,,,Lokomotiv Sofia,,2024-10-06T14:30Z
+11,Sun Oct 6 2024,20:00,EEST/+0300,PFC Ludogorets Razgrad,,,Lokomotiv Plovdiv,,2024-10-06T17:00Z
+11,Sun Oct 6 2024,15:00,EEST/+0300,Hebar Pazardzhik,,,Botev Vratsa,,2024-10-06T12:00Z
+8,Sat Oct 19 2024,,,Lokomotiv Sofia,,,FK Krumovgrad,,
+8,Sat Oct 19 2024,,,Septemvri Sofia,,,PFC Ludogorets Razgrad,,
+8,Sat Oct 19 2024,,,Cherno More Varna,,,Hebar Pazardzhik,,
+8,Sat Oct 19 2024,,,PFC Beroe,,,Spartak Varna,,
+8,Sat Oct 19 2024,,,Levski Sofia,,,CSKA Sofia,,
+8,Sat Oct 19 2024,,,Botev Plovdiv,,,Slavia Sofia,,
+8,Sat Oct 19 2024,,,CSKA 1948 Sofia,,,Arda Kardzhali,,
+8,Sat Oct 19 2024,,,Botev Vratsa,,,Lokomotiv Plovdiv,,
+13,Sat Oct 26 2024,,,Hebar Pazardzhik,,,FK Krumovgrad,,
+13,Sat Oct 26 2024,,,Spartak Varna,,,Lokomotiv Plovdiv,,
+13,Sat Oct 26 2024,,,CSKA Sofia,,,Botev Vratsa,,
+13,Sat Oct 26 2024,,,Slavia Sofia,,,Lokomotiv Sofia,,
+13,Sat Oct 26 2024,,,Arda Kardzhali,,,Septemvri Sofia,,
+13,Sat Oct 26 2024,,,Botev Plovdiv,,,Cherno More Varna,,
+13,Sat Oct 26 2024,,,Levski Sofia,,,PFC Beroe,,
+13,Sat Oct 26 2024,,,PFC Ludogorets Razgrad,,,CSKA 1948 Sofia,,
+14,Sat Nov 2 2024,,,CSKA 1948 Sofia,,,PFC Beroe,,
+14,Sat Nov 2 2024,,,Cherno More Varna,,,Levski Sofia,,
+14,Sat Nov 2 2024,,,Septemvri Sofia,,,Botev Plovdiv,,
+14,Sat Nov 2 2024,,,Lokomotiv Sofia,,,Arda Kardzhali,,
+14,Sat Nov 2 2024,,,Botev Vratsa,,,Slavia Sofia,,
+14,Sat Nov 2 2024,,,Lokomotiv Plovdiv,,,CSKA Sofia,,
+14,Sat Nov 2 2024,,,FK Krumovgrad,,,Spartak Varna,,
+14,Sat Nov 2 2024,,,PFC Ludogorets Razgrad,,,Hebar Pazardzhik,,
+15,Sat Nov 9 2024,,,Spartak Varna,,,PFC Ludogorets Razgrad,,
+15,Sat Nov 9 2024,,,CSKA Sofia,,,FK Krumovgrad,,
+15,Sat Nov 9 2024,,,Slavia Sofia,,,Lokomotiv Plovdiv,,
+15,Sat Nov 9 2024,,,Arda Kardzhali,,,Botev Vratsa,,
+15,Sat Nov 9 2024,,,Botev Plovdiv,,,Lokomotiv Sofia,,
+15,Sat Nov 9 2024,,,Levski Sofia,,,Septemvri Sofia,,
+15,Sat Nov 9 2024,,,PFC Beroe,,,Cherno More Varna,,
+15,Sat Nov 9 2024,,,Hebar Pazardzhik,,,CSKA 1948 Sofia,,
+16,Sat Nov 23 2024,,,CSKA 1948 Sofia,,,Cherno More Varna,,
+16,Sat Nov 23 2024,,,PFC Beroe,,,Septemvri Sofia,,
+16,Sat Nov 23 2024,,,Levski Sofia,,,Lokomotiv Sofia,,
+16,Sat Nov 23 2024,,,Botev Plovdiv,,,Botev Vratsa,,
+16,Sat Nov 23 2024,,,Arda Kardzhali,,,Lokomotiv Plovdiv,,
+16,Sat Nov 23 2024,,,Slavia Sofia,,,FK Krumovgrad,,
+16,Sat Nov 23 2024,,,CSKA Sofia,,,PFC Ludogorets Razgrad,,
+16,Sat Nov 23 2024,,,Spartak Varna,,,Hebar Pazardzhik,,
+17,Sat Nov 30 2024,,,Hebar Pazardzhik,,,CSKA Sofia,,
+17,Sat Nov 30 2024,,,PFC Ludogorets Razgrad,,,Slavia Sofia,,
+17,Sat Nov 30 2024,,,FK Krumovgrad,,,Arda Kardzhali,,
+17,Sat Nov 30 2024,,,Lokomotiv Plovdiv,,,Botev Plovdiv,,
+17,Sat Nov 30 2024,,,Botev Vratsa,,,Levski Sofia,,
+17,Sat Nov 30 2024,,,Lokomotiv Sofia,,,PFC Beroe,,
+17,Sat Nov 30 2024,,,Septemvri Sofia,,,Cherno More Varna,,
+17,Sat Nov 30 2024,,,Spartak Varna,,,CSKA 1948 Sofia,,
+18,Wed Dec 4 2024,,,CSKA 1948 Sofia,,,Septemvri Sofia,,
+18,Wed Dec 4 2024,,,Cherno More Varna,,,Lokomotiv Sofia,,
+18,Wed Dec 4 2024,,,PFC Beroe,,,Botev Vratsa,,
+18,Wed Dec 4 2024,,,Levski Sofia,,,Lokomotiv Plovdiv,,
+18,Wed Dec 4 2024,,,Botev Plovdiv,,,FK Krumovgrad,,
+18,Wed Dec 4 2024,,,Arda Kardzhali,,,PFC Ludogorets Razgrad,,
+18,Wed Dec 4 2024,,,Slavia Sofia,,,Hebar Pazardzhik,,
+18,Wed Dec 4 2024,,,CSKA Sofia,,,Spartak Varna,,
+19,Sat Dec 7 2024,,,Spartak Varna,,,Slavia Sofia,,
+19,Sat Dec 7 2024,,,Hebar Pazardzhik,,,Arda Kardzhali,,
+19,Sat Dec 7 2024,,,PFC Ludogorets Razgrad,,,Botev Plovdiv,,
+19,Sat Dec 7 2024,,,FK Krumovgrad,,,Levski Sofia,,
+19,Sat Dec 7 2024,,,Lokomotiv Plovdiv,,,PFC Beroe,,
+19,Sat Dec 7 2024,,,Botev Vratsa,,,Cherno More Varna,,
+19,Sat Dec 7 2024,,,Lokomotiv Sofia,,,Septemvri Sofia,,
+19,Sat Dec 7 2024,,,CSKA Sofia,,,CSKA 1948 Sofia,,
+20,Sat Feb 8 2025,,,CSKA 1948 Sofia,,,Lokomotiv Sofia,,
+20,Sat Feb 8 2025,,,Septemvri Sofia,,,Botev Vratsa,,
+20,Sat Feb 8 2025,,,Cherno More Varna,,,Lokomotiv Plovdiv,,
+20,Sat Feb 8 2025,,,PFC Beroe,,,FK Krumovgrad,,
+20,Sat Feb 8 2025,,,Levski Sofia,,,PFC Ludogorets Razgrad,,
+20,Sat Feb 8 2025,,,Botev Plovdiv,,,Hebar Pazardzhik,,
+20,Sat Feb 8 2025,,,Arda Kardzhali,,,Spartak Varna,,
+20,Sat Feb 8 2025,,,Slavia Sofia,,,CSKA Sofia,,
+21,Sat Feb 15 2025,,,CSKA Sofia,,,Arda Kardzhali,,
+21,Sat Feb 15 2025,,,Spartak Varna,,,Botev Plovdiv,,
+21,Sat Feb 15 2025,,,Hebar Pazardzhik,,,Levski Sofia,,
+21,Sat Feb 15 2025,,,PFC Ludogorets Razgrad,,,PFC Beroe,,
+21,Sat Feb 15 2025,,,FK Krumovgrad,,,Cherno More Varna,,
+21,Sat Feb 15 2025,,,Lokomotiv Plovdiv,,,Septemvri Sofia,,
+21,Sat Feb 15 2025,,,Botev Vratsa,,,Lokomotiv Sofia,,
+21,Sat Feb 15 2025,,,Slavia Sofia,,,CSKA 1948 Sofia,,
+22,Sat Feb 22 2025,,,CSKA 1948 Sofia,,,Botev Vratsa,,
+22,Sat Feb 22 2025,,,Lokomotiv Sofia,,,Lokomotiv Plovdiv,,
+22,Sat Feb 22 2025,,,Septemvri Sofia,,,FK Krumovgrad,,
+22,Sat Feb 22 2025,,,Cherno More Varna,,,PFC Ludogorets Razgrad,,
+22,Sat Feb 22 2025,,,PFC Beroe,,,Hebar Pazardzhik,,
+22,Sat Feb 22 2025,,,Levski Sofia,,,Spartak Varna,,
+22,Sat Feb 22 2025,,,Botev Plovdiv,,,CSKA Sofia,,
+22,Sat Feb 22 2025,,,Arda Kardzhali,,,Slavia Sofia,,
+23,Sat Mar 1 2025,,,Slavia Sofia,,,Botev Plovdiv,,
+23,Sat Mar 1 2025,,,CSKA Sofia,,,Levski Sofia,,
+23,Sat Mar 1 2025,,,Spartak Varna,,,PFC Beroe,,
+23,Sat Mar 1 2025,,,Hebar Pazardzhik,,,Cherno More Varna,,
+23,Sat Mar 1 2025,,,PFC Ludogorets Razgrad,,,Septemvri Sofia,,
+23,Sat Mar 1 2025,,,FK Krumovgrad,,,Lokomotiv Sofia,,
+23,Sat Mar 1 2025,,,Lokomotiv Plovdiv,,,Botev Vratsa,,
+23,Sat Mar 1 2025,,,Arda Kardzhali,,,CSKA 1948 Sofia,,
+24,Sat Mar 8 2025,,,CSKA 1948 Sofia,,,Lokomotiv Plovdiv,,
+24,Sat Mar 8 2025,,,Botev Vratsa,,,FK Krumovgrad,,
+24,Sat Mar 8 2025,,,Lokomotiv Sofia,,,PFC Ludogorets Razgrad,,
+24,Sat Mar 8 2025,,,Septemvri Sofia,,,Hebar Pazardzhik,,
+24,Sat Mar 8 2025,,,Cherno More Varna,,,Spartak Varna,,
+24,Sat Mar 8 2025,,,PFC Beroe,,,CSKA Sofia,,
+24,Sat Mar 8 2025,,,Levski Sofia,,,Slavia Sofia,,
+24,Sat Mar 8 2025,,,Botev Plovdiv,,,Arda Kardzhali,,
+25,Sat Mar 15 2025,,,Arda Kardzhali,,,Levski Sofia,,
+25,Sat Mar 15 2025,,,Slavia Sofia,,,PFC Beroe,,
+25,Sat Mar 15 2025,,,CSKA Sofia,,,Cherno More Varna,,
+25,Sat Mar 15 2025,,,Spartak Varna,,,Septemvri Sofia,,
+25,Sat Mar 15 2025,,,Hebar Pazardzhik,,,Lokomotiv Sofia,,
+25,Sat Mar 15 2025,,,PFC Ludogorets Razgrad,,,Botev Vratsa,,
+25,Sat Mar 15 2025,,,FK Krumovgrad,,,Lokomotiv Plovdiv,,
+25,Sat Mar 15 2025,,,Botev Plovdiv,,,CSKA 1948 Sofia,,
+26,Sat Mar 29 2025,,,CSKA 1948 Sofia,,,FK Krumovgrad,,
+26,Sat Mar 29 2025,,,Lokomotiv Plovdiv,,,PFC Ludogorets Razgrad,,
+26,Sat Mar 29 2025,,,Botev Vratsa,,,Hebar Pazardzhik,,
+26,Sat Mar 29 2025,,,Lokomotiv Sofia,,,Spartak Varna,,
+26,Sat Mar 29 2025,,,Septemvri Sofia,,,CSKA Sofia,,
+26,Sat Mar 29 2025,,,Cherno More Varna,,,Slavia Sofia,,
+26,Sat Mar 29 2025,,,PFC Beroe,,,Arda Kardzhali,,
+26,Sat Mar 29 2025,,,Levski Sofia,,,Botev Plovdiv,,
+27,Wed Apr 2 2025,,,Botev Plovdiv,,,PFC Beroe,,
+27,Wed Apr 2 2025,,,Arda Kardzhali,,,Cherno More Varna,,
+27,Wed Apr 2 2025,,,Slavia Sofia,,,Septemvri Sofia,,
+27,Wed Apr 2 2025,,,CSKA Sofia,,,Lokomotiv Sofia,,
+27,Wed Apr 2 2025,,,Spartak Varna,,,Botev Vratsa,,
+27,Wed Apr 2 2025,,,Hebar Pazardzhik,,,Lokomotiv Plovdiv,,
+27,Wed Apr 2 2025,,,PFC Ludogorets Razgrad,,,FK Krumovgrad,,
+27,Wed Apr 2 2025,,,Levski Sofia,,,CSKA 1948 Sofia,,
+28,Sat Apr 5 2025,,,CSKA 1948 Sofia,,,PFC Ludogorets Razgrad,,
+28,Sat Apr 5 2025,,,FK Krumovgrad,,,Hebar Pazardzhik,,
+28,Sat Apr 5 2025,,,Lokomotiv Plovdiv,,,Spartak Varna,,
+28,Sat Apr 5 2025,,,Botev Vratsa,,,CSKA Sofia,,
+28,Sat Apr 5 2025,,,Lokomotiv Sofia,,,Slavia Sofia,,
+28,Sat Apr 5 2025,,,Septemvri Sofia,,,Arda Kardzhali,,
+28,Sat Apr 5 2025,,,Cherno More Varna,,,Botev Plovdiv,,
+28,Sat Apr 5 2025,,,PFC Beroe,,,Levski Sofia,,
+29,Sat Apr 12 2025,,,Levski Sofia,,,Cherno More Varna,,
+29,Sat Apr 12 2025,,,Botev Plovdiv,,,Septemvri Sofia,,
+29,Sat Apr 12 2025,,,Arda Kardzhali,,,Lokomotiv Sofia,,
+29,Sat Apr 12 2025,,,Slavia Sofia,,,Botev Vratsa,,
+29,Sat Apr 12 2025,,,CSKA Sofia,,,Lokomotiv Plovdiv,,
+29,Sat Apr 12 2025,,,Spartak Varna,,,FK Krumovgrad,,
+29,Sat Apr 12 2025,,,Hebar Pazardzhik,,,PFC Ludogorets Razgrad,,
+29,Sat Apr 12 2025,,,PFC Beroe,,,CSKA 1948 Sofia,,
+30,Fri Apr 18 2025,,,CSKA 1948 Sofia,,,Hebar Pazardzhik,,
+30,Fri Apr 18 2025,,,PFC Ludogorets Razgrad,,,Spartak Varna,,
+30,Fri Apr 18 2025,,,FK Krumovgrad,,,CSKA Sofia,,
+30,Fri Apr 18 2025,,,Lokomotiv Plovdiv,,,Slavia Sofia,,
+30,Fri Apr 18 2025,,,Botev Vratsa,,,Arda Kardzhali,,
+30,Fri Apr 18 2025,,,Lokomotiv Sofia,,,Botev Plovdiv,,
+30,Fri Apr 18 2025,,,Septemvri Sofia,,,Levski Sofia,,
+30,Fri Apr 18 2025,,,Cherno More Varna,,,PFC Beroe,,

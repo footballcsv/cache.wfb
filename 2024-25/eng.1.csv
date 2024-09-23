@@ -37,18 +37,18 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 4,Sat Sep 14 2024,15:00,BST/+0100,Manchester City,2-1,2-1,Brentford FC,2024-09-14T14:00Z
 4,Sat Sep 14 2024,17:30,BST/+0100,Aston Villa,3-2,1-2,Everton FC,2024-09-14T16:30Z
 4,Sat Sep 14 2024,20:00,BST/+0100,AFC Bournemouth,0-1,0-0,Chelsea FC,2024-09-14T19:00Z
-4,Sun Sep 15 2024,16:30,BST/+0100,Wolverhampton Wanderers,,,Newcastle United,2024-09-15T15:30Z
-4,Sun Sep 15 2024,14:00,BST/+0100,Tottenham Hotspur,,,Arsenal FC,2024-09-15T13:00Z
-5,Sat Sep 21 2024,12:30,BST/+0100,West Ham United,,,Chelsea FC,2024-09-21T11:30Z
-5,Sat Sep 21 2024,15:00,BST/+0100,Aston Villa,,,Wolverhampton Wanderers,2024-09-21T14:00Z
-5,Sat Sep 21 2024,15:00,BST/+0100,Fulham FC,,,Newcastle United,2024-09-21T14:00Z
-5,Sat Sep 21 2024,15:00,BST/+0100,Leicester City,,,Everton FC,2024-09-21T14:00Z
-5,Sat Sep 21 2024,15:00,BST/+0100,Liverpool FC,,,AFC Bournemouth,2024-09-21T14:00Z
-5,Sat Sep 21 2024,15:00,BST/+0100,Southampton FC,,,Ipswich Town,2024-09-21T14:00Z
-5,Sat Sep 21 2024,15:00,BST/+0100,Tottenham Hotspur,,,Brentford FC,2024-09-21T14:00Z
-5,Sat Sep 21 2024,17:30,BST/+0100,Crystal Palace,,,Manchester United,2024-09-21T16:30Z
-5,Sun Sep 22 2024,16:30,BST/+0100,Manchester City,,,Arsenal FC,2024-09-22T15:30Z
-5,Sun Sep 22 2024,14:00,BST/+0100,Brighton & Hove Albion,,,Nottingham Forest,2024-09-22T13:00Z
+4,Sun Sep 15 2024,16:30,BST/+0100,Wolverhampton Wanderers,1-2,1-0,Newcastle United,2024-09-15T15:30Z
+4,Sun Sep 15 2024,14:00,BST/+0100,Tottenham Hotspur,0-1,0-0,Arsenal FC,2024-09-15T13:00Z
+5,Sat Sep 21 2024,12:30,BST/+0100,West Ham United,0-3,0-2,Chelsea FC,2024-09-21T11:30Z
+5,Sat Sep 21 2024,15:00,BST/+0100,Aston Villa,3-1,0-1,Wolverhampton Wanderers,2024-09-21T14:00Z
+5,Sat Sep 21 2024,15:00,BST/+0100,Fulham FC,3-1,2-0,Newcastle United,2024-09-21T14:00Z
+5,Sat Sep 21 2024,15:00,BST/+0100,Leicester City,1-1,0-1,Everton FC,2024-09-21T14:00Z
+5,Sat Sep 21 2024,15:00,BST/+0100,Liverpool FC,3-0,3-0,AFC Bournemouth,2024-09-21T14:00Z
+5,Sat Sep 21 2024,15:00,BST/+0100,Southampton FC,1-1,1-0,Ipswich Town,2024-09-21T14:00Z
+5,Sat Sep 21 2024,15:00,BST/+0100,Tottenham Hotspur,3-1,2-1,Brentford FC,2024-09-21T14:00Z
+5,Sat Sep 21 2024,17:30,BST/+0100,Crystal Palace,0-0,0-0,Manchester United,2024-09-21T16:30Z
+5,Sun Sep 22 2024,16:30,BST/+0100,Manchester City,2-2,1-2,Arsenal FC,2024-09-22T15:30Z
+5,Sun Sep 22 2024,14:00,BST/+0100,Brighton & Hove Albion,2-2,2-1,Nottingham Forest,2024-09-22T13:00Z
 6,Sat Sep 28 2024,12:30,BST/+0100,Newcastle United,,,Manchester City,2024-09-28T11:30Z
 6,Sat Sep 28 2024,15:00,BST/+0100,Arsenal FC,,,Leicester City,2024-09-28T14:00Z
 6,Sat Sep 28 2024,15:00,BST/+0100,Brentford FC,,,West Ham United,2024-09-28T14:00Z
@@ -89,56 +89,56 @@ Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,UTC
 9,Sun Oct 27 2024,14:00,GMT/+0000,West Ham United,,,Manchester United,2024-10-27T14:00Z
 9,Sun Oct 27 2024,16:30,GMT/+0000,Arsenal FC,,,Liverpool FC,2024-10-27T16:30Z
 9,Sun Oct 27 2024,14:00,GMT/+0000,Chelsea FC,,,Newcastle United,2024-10-27T14:00Z
-10,Sat Nov 2 2024,,,AFC Bournemouth,,,Manchester City,
-10,Sat Nov 2 2024,,,Fulham FC,,,Brentford FC,
-10,Sat Nov 2 2024,,,Ipswich Town,,,Leicester City,
-10,Sat Nov 2 2024,,,Liverpool FC,,,Brighton & Hove Albion,
-10,Sat Nov 2 2024,,,Manchester United,,,Chelsea FC,
-10,Sat Nov 2 2024,,,Newcastle United,,,Arsenal FC,
-10,Sat Nov 2 2024,,,Nottingham Forest,,,West Ham United,
-10,Sat Nov 2 2024,,,Southampton FC,,,Everton FC,
-10,Sat Nov 2 2024,,,Tottenham Hotspur,,,Aston Villa,
-10,Sat Nov 2 2024,,,Wolverhampton Wanderers,,,Crystal Palace,
-11,Sat Nov 9 2024,,,Brentford FC,,,AFC Bournemouth,
-11,Sat Nov 9 2024,,,Brighton & Hove Albion,,,Manchester City,
-11,Sat Nov 9 2024,,,Chelsea FC,,,Arsenal FC,
-11,Sat Nov 9 2024,,,Crystal Palace,,,Fulham FC,
-11,Sat Nov 9 2024,,,Liverpool FC,,,Aston Villa,
-11,Sat Nov 9 2024,,,Manchester United,,,Leicester City,
-11,Sat Nov 9 2024,,,Nottingham Forest,,,Newcastle United,
-11,Sat Nov 9 2024,,,Tottenham Hotspur,,,Ipswich Town,
-11,Sat Nov 9 2024,,,West Ham United,,,Everton FC,
-11,Sat Nov 9 2024,,,Wolverhampton Wanderers,,,Southampton FC,
-12,Sat Nov 23 2024,,,AFC Bournemouth,,,Brighton & Hove Albion,
-12,Sat Nov 23 2024,,,Arsenal FC,,,Nottingham Forest,
-12,Sat Nov 23 2024,,,Aston Villa,,,Crystal Palace,
-12,Sat Nov 23 2024,,,Everton FC,,,Brentford FC,
-12,Sat Nov 23 2024,,,Fulham FC,,,Wolverhampton Wanderers,
-12,Sat Nov 23 2024,,,Ipswich Town,,,Manchester United,
-12,Sat Nov 23 2024,,,Leicester City,,,Chelsea FC,
-12,Sat Nov 23 2024,,,Manchester City,,,Tottenham Hotspur,
-12,Sat Nov 23 2024,,,Newcastle United,,,West Ham United,
-12,Sat Nov 23 2024,,,Southampton FC,,,Liverpool FC,
-13,Sat Nov 30 2024,,,Brentford FC,,,Leicester City,
-13,Sat Nov 30 2024,,,Brighton & Hove Albion,,,Southampton FC,
-13,Sat Nov 30 2024,,,Chelsea FC,,,Aston Villa,
-13,Sat Nov 30 2024,,,Crystal Palace,,,Newcastle United,
-13,Sat Nov 30 2024,,,Liverpool FC,,,Manchester City,
-13,Sat Nov 30 2024,,,Manchester United,,,Everton FC,
-13,Sat Nov 30 2024,,,Nottingham Forest,,,Ipswich Town,
-13,Sat Nov 30 2024,,,Tottenham Hotspur,,,Fulham FC,
-13,Sat Nov 30 2024,,,West Ham United,,,Arsenal FC,
-13,Sat Nov 30 2024,,,Wolverhampton Wanderers,,,AFC Bournemouth,
-14,Tue Dec 3 2024,,,AFC Bournemouth,,,Tottenham Hotspur,
-14,Tue Dec 3 2024,,,Arsenal FC,,,Manchester United,
-14,Tue Dec 3 2024,,,Aston Villa,,,Brentford FC,
-14,Tue Dec 3 2024,,,Everton FC,,,Wolverhampton Wanderers,
-14,Tue Dec 3 2024,,,Fulham FC,,,Brighton & Hove Albion,
-14,Tue Dec 3 2024,,,Ipswich Town,,,Crystal Palace,
-14,Tue Dec 3 2024,,,Leicester City,,,West Ham United,
-14,Wed Dec 4 2024,,,Newcastle United,,,Liverpool FC,
-14,Wed Dec 4 2024,,,Southampton FC,,,Chelsea FC,
-14,Wed Dec 4 2024,,,Manchester City,,,Nottingham Forest,
+10,Sat Nov 2 2024,12:30,GMT/+0000,Newcastle United,,,Arsenal FC,2024-11-02T12:30Z
+10,Sat Nov 2 2024,15:00,GMT/+0000,AFC Bournemouth,,,Manchester City,2024-11-02T15:00Z
+10,Sat Nov 2 2024,15:00,GMT/+0000,Ipswich Town,,,Leicester City,2024-11-02T15:00Z
+10,Sat Nov 2 2024,15:00,GMT/+0000,Liverpool FC,,,Brighton & Hove Albion,2024-11-02T15:00Z
+10,Sat Nov 2 2024,15:00,GMT/+0000,Nottingham Forest,,,West Ham United,2024-11-02T15:00Z
+10,Sat Nov 2 2024,15:00,GMT/+0000,Southampton FC,,,Everton FC,2024-11-02T15:00Z
+10,Sat Nov 2 2024,17:30,GMT/+0000,Wolverhampton Wanderers,,,Crystal Palace,2024-11-02T17:30Z
+10,Sun Nov 3 2024,16:30,GMT/+0000,Manchester United,,,Chelsea FC,2024-11-03T16:30Z
+10,Sun Nov 3 2024,14:00,GMT/+0000,Tottenham Hotspur,,,Aston Villa,2024-11-03T14:00Z
+10,Mon Nov 4 2024,20:00,GMT/+0000,Fulham FC,,,Brentford FC,2024-11-04T20:00Z
+11,Sat Nov 9 2024,15:00,GMT/+0000,Brentford FC,,,AFC Bournemouth,2024-11-09T15:00Z
+11,Sat Nov 9 2024,15:00,GMT/+0000,Crystal Palace,,,Fulham FC,2024-11-09T15:00Z
+11,Sat Nov 9 2024,15:00,GMT/+0000,West Ham United,,,Everton FC,2024-11-09T15:00Z
+11,Sat Nov 9 2024,15:00,GMT/+0000,Wolverhampton Wanderers,,,Southampton FC,2024-11-09T15:00Z
+11,Sat Nov 9 2024,17:30,GMT/+0000,Brighton & Hove Albion,,,Manchester City,2024-11-09T17:30Z
+11,Sat Nov 9 2024,20:00,GMT/+0000,Liverpool FC,,,Aston Villa,2024-11-09T20:00Z
+11,Sun Nov 10 2024,14:00,GMT/+0000,Manchester United,,,Leicester City,2024-11-10T14:00Z
+11,Sun Nov 10 2024,14:00,GMT/+0000,Nottingham Forest,,,Newcastle United,2024-11-10T14:00Z
+11,Sun Nov 10 2024,14:00,GMT/+0000,Tottenham Hotspur,,,Ipswich Town,2024-11-10T14:00Z
+11,Sun Nov 10 2024,16:30,GMT/+0000,Chelsea FC,,,Arsenal FC,2024-11-10T16:30Z
+12,Sat Nov 23 2024,15:00,GMT/+0000,AFC Bournemouth,,,Brighton & Hove Albion,2024-11-23T15:00Z
+12,Sat Nov 23 2024,15:00,GMT/+0000,Arsenal FC,,,Nottingham Forest,2024-11-23T15:00Z
+12,Sat Nov 23 2024,15:00,GMT/+0000,Aston Villa,,,Crystal Palace,2024-11-23T15:00Z
+12,Sat Nov 23 2024,15:00,GMT/+0000,Everton FC,,,Brentford FC,2024-11-23T15:00Z
+12,Sat Nov 23 2024,15:00,GMT/+0000,Fulham FC,,,Wolverhampton Wanderers,2024-11-23T15:00Z
+12,Sat Nov 23 2024,17:30,GMT/+0000,Manchester City,,,Tottenham Hotspur,2024-11-23T17:30Z
+12,Sat Nov 23 2024,12:30,GMT/+0000,Leicester City,,,Chelsea FC,2024-11-23T12:30Z
+12,Sun Nov 24 2024,14:00,GMT/+0000,Southampton FC,,,Liverpool FC,2024-11-24T14:00Z
+12,Sun Nov 24 2024,16:30,GMT/+0000,Ipswich Town,,,Manchester United,2024-11-24T16:30Z
+12,Mon Nov 25 2024,20:00,GMT/+0000,Newcastle United,,,West Ham United,2024-11-25T20:00Z
+13,Fri Nov 29 2024,20:00,GMT/+0000,Brighton & Hove Albion,,,Southampton FC,2024-11-29T20:00Z
+13,Sat Nov 30 2024,15:00,GMT/+0000,Crystal Palace,,,Newcastle United,2024-11-30T15:00Z
+13,Sat Nov 30 2024,15:00,GMT/+0000,Nottingham Forest,,,Ipswich Town,2024-11-30T15:00Z
+13,Sat Nov 30 2024,15:00,GMT/+0000,Wolverhampton Wanderers,,,AFC Bournemouth,2024-11-30T15:00Z
+13,Sat Nov 30 2024,17:30,GMT/+0000,West Ham United,,,Arsenal FC,2024-11-30T17:30Z
+13,Sat Nov 30 2024,15:00,GMT/+0000,Brentford FC,,,Leicester City,2024-11-30T15:00Z
+13,Sun Dec 1 2024,13:30,GMT/+0000,Chelsea FC,,,Aston Villa,2024-12-01T13:30Z
+13,Sun Dec 1 2024,13:30,GMT/+0000,Manchester United,,,Everton FC,2024-12-01T13:30Z
+13,Sun Dec 1 2024,13:30,GMT/+0000,Tottenham Hotspur,,,Fulham FC,2024-12-01T13:30Z
+13,Sun Dec 1 2024,16:00,GMT/+0000,Liverpool FC,,,Manchester City,2024-12-01T16:00Z
+14,Tue Dec 3 2024,19:45,GMT/+0000,AFC Bournemouth,,,Tottenham Hotspur,2024-12-03T19:45Z
+14,Tue Dec 3 2024,19:45,GMT/+0000,Arsenal FC,,,Manchester United,2024-12-03T19:45Z
+14,Tue Dec 3 2024,19:45,GMT/+0000,Aston Villa,,,Brentford FC,2024-12-03T19:45Z
+14,Tue Dec 3 2024,19:45,GMT/+0000,Everton FC,,,Wolverhampton Wanderers,2024-12-03T19:45Z
+14,Tue Dec 3 2024,19:45,GMT/+0000,Fulham FC,,,Brighton & Hove Albion,2024-12-03T19:45Z
+14,Tue Dec 3 2024,19:45,GMT/+0000,Ipswich Town,,,Crystal Palace,2024-12-03T19:45Z
+14,Tue Dec 3 2024,19:45,GMT/+0000,Leicester City,,,West Ham United,2024-12-03T19:45Z
+14,Wed Dec 4 2024,19:45,GMT/+0000,Newcastle United,,,Liverpool FC,2024-12-04T19:45Z
+14,Wed Dec 4 2024,19:45,GMT/+0000,Southampton FC,,,Chelsea FC,2024-12-04T19:45Z
+14,Wed Dec 4 2024,19:45,GMT/+0000,Manchester City,,,Nottingham Forest,2024-12-04T19:45Z
 15,Sat Dec 7 2024,,,Aston Villa,,,Southampton FC,
 15,Sat Dec 7 2024,,,Brentford FC,,,Newcastle United,
 15,Sat Dec 7 2024,,,Crystal Palace,,,Manchester City,

@@ -1,0 +1,257 @@
+Stage,Round,Date,Time,Timezone,Team 1,FT,HT,Team 2,ET,UTC
+,1,Fri Sep 15 2023,21:15,CEST/+0200,SS Cosmos,4-1,2-1,FC Domagnano,,2023-09-15T19:15Z
+,1,Fri Sep 15 2023,21:15,CEST/+0200,AC Juvenes/Dogana,1-1,0-0,SP Tre Penne,,2023-09-15T19:15Z
+,1,Fri Sep 15 2023,21:15,CEST/+0200,SS Pennarossa,0-1,0-0,FC Fiorentino,,2023-09-15T19:15Z
+,1,Sat Sep 16 2023,15:00,CEST/+0200,SS Murata,5-0,1-0,SC Faetano,,2023-09-16T13:00Z
+,1,Sat Sep 16 2023,15:00,CEST/+0200,SP Cailungo,0-2,0-1,SS Folgore/Falciano,,2023-09-16T13:00Z
+,1,Sat Sep 16 2023,15:00,CEST/+0200,SP Tre Fiori,0-1,0-0,SS Virtus,,2023-09-16T13:00Z
+,1,Sun Sep 17 2023,15:00,CEST/+0200,SP La Fiorita,3-1,1-0,AC Libertas,,2023-09-17T13:00Z
+,1,Sun Sep 17 2023,15:00,CEST/+0200,SS San Giovanni,3-1,1-0,San Marino Academy,,2023-09-17T13:00Z
+,2,Fri Sep 22 2023,21:15,CEST/+0200,SS Virtus,1-0,1-0,SS Pennarossa,,2023-09-22T19:15Z
+,2,Sat Sep 23 2023,15:00,CEST/+0200,AC Libertas,1-4,1-3,SS Murata,,2023-09-23T13:00Z
+,2,Sat Sep 23 2023,15:00,CEST/+0200,SS San Giovanni,0-1,0-0,SP Tre Fiori,,2023-09-23T13:00Z
+,2,Sat Sep 23 2023,15:00,CEST/+0200,SS Folgore/Falciano,0-0,0-0,SS Cosmos,,2023-09-23T13:00Z
+,2,Sat Sep 23 2023,15:00,CEST/+0200,FC Fiorentino,0-1,0-0,SP Cailungo,,2023-09-23T13:00Z
+,2,Sun Sep 24 2023,15:00,CEST/+0200,SC Faetano,1-4,0-2,SP La Fiorita,,2023-09-24T13:00Z
+,2,Sun Sep 24 2023,15:00,CEST/+0200,SP Tre Penne,3-1,1-1,San Marino Academy,,2023-09-24T13:00Z
+,2,Sun Sep 24 2023,15:00,CEST/+0200,FC Domagnano,0-3,0-1,AC Juvenes/Dogana,,2023-09-24T13:00Z
+,3,Sat Sep 30 2023,15:00,CEST/+0200,SC Faetano,1-2,1-1,AC Libertas,,2023-09-30T13:00Z
+,3,Sat Sep 30 2023,15:00,CEST/+0200,AC Juvenes/Dogana,1-2,1-0,SS Virtus,,2023-09-30T13:00Z
+,3,Sat Sep 30 2023,15:00,CEST/+0200,SP Tre Fiori,1-0,1-0,FC Fiorentino,,2023-09-30T13:00Z
+,3,Sat Sep 30 2023,15:00,CEST/+0200,SS Cosmos,0-0,0-0,SS San Giovanni,,2023-09-30T13:00Z
+,3,Sun Oct 1 2023,15:00,CEST/+0200,San Marino Academy,4-0,1-0,SS Pennarossa,,2023-10-01T13:00Z
+,3,Sun Oct 1 2023,15:00,CEST/+0200,SP La Fiorita,1-0,1-0,SS Folgore/Falciano,,2023-10-01T13:00Z
+,3,Sun Oct 1 2023,18:15,CEST/+0200,SS Murata,1-0,0-0,FC Domagnano,,2023-10-01T16:15Z
+,3,Sun Oct 1 2023,15:00,CEST/+0200,SP Cailungo,1-4,1-2,SP Tre Penne,,2023-10-01T13:00Z
+,4,Tue Oct 3 2023,21:15,CEST/+0200,SS Virtus,2-1,1-1,AC Libertas,,2023-10-03T19:15Z
+,4,Tue Oct 3 2023,21:15,CEST/+0200,FC Fiorentino,3-3,1-2,SS Cosmos,,2023-10-03T19:15Z
+,4,Wed Oct 4 2023,21:15,CEST/+0200,AC Juvenes/Dogana,0-1,0-0,SP La Fiorita,,2023-10-04T19:15Z
+,4,Wed Oct 4 2023,21:15,CEST/+0200,SS Pennarossa,0-3,0-2,SP Tre Fiori,,2023-10-04T19:15Z
+,4,Wed Oct 4 2023,21:15,CEST/+0200,SS San Giovanni,0-1,0-0,SS Murata,,2023-10-04T19:15Z
+,4,Wed Oct 4 2023,21:15,CEST/+0200,SP Tre Penne,6-1,1-1,SC Faetano,,2023-10-04T19:15Z
+,4,Wed Oct 4 2023,21:15,CEST/+0200,SS Folgore/Falciano,1-1,0-1,FC Domagnano,,2023-10-04T19:15Z
+,4,Thu Oct 5 2023,21:15,CEST/+0200,San Marino Academy,0-1,0-1,SP Cailungo,,2023-10-05T19:15Z
+,5,Fri Oct 6 2023,21:15,CEST/+0200,SS Virtus,4-0,4-0,FC Fiorentino,,2023-10-06T19:15Z
+,5,Sat Oct 7 2023,15:00,CEST/+0200,SP Tre Penne,5-0,3-0,SS San Giovanni,,2023-10-07T13:00Z
+,5,Sat Oct 7 2023,18:15,CEST/+0200,SS Pennarossa,1-2,0-0,AC Juvenes/Dogana,,2023-10-07T16:15Z
+,5,Sat Oct 7 2023,15:00,CEST/+0200,SP Tre Fiori,3-1,1-1,SS Folgore/Falciano,,2023-10-07T13:00Z
+,5,Sun Oct 8 2023,15:00,CEST/+0200,FC Domagnano,3-4,1-2,SC Faetano,,2023-10-08T13:00Z
+,5,Sun Oct 8 2023,15:00,CEST/+0200,AC Libertas,2-2,0-1,San Marino Academy,,2023-10-08T13:00Z
+,5,Sun Oct 8 2023,18:15,CEST/+0200,SP La Fiorita,2-1,0-1,SS Murata,,2023-10-08T16:15Z
+,5,Sun Oct 8 2023,15:00,CEST/+0200,SP Cailungo,0-3,0-1,SS Cosmos,,2023-10-08T13:00Z
+,6,Fri Oct 20 2023,21:15,CEST/+0200,SS Murata,3-0,3-0,SP Cailungo,,2023-10-20T19:15Z
+,6,Fri Oct 20 2023,21:15,CEST/+0200,SS Folgore/Falciano,2-1,1-0,SS San Giovanni,,2023-10-20T19:15Z
+,6,Sat Oct 21 2023,15:00,CEST/+0200,FC Fiorentino,0-1,0-0,AC Juvenes/Dogana,,2023-10-21T13:00Z
+,6,Sat Oct 21 2023,15:00,CEST/+0200,SS Cosmos,1-1,0-0,SP La Fiorita,,2023-10-21T13:00Z
+,6,Sat Oct 21 2023,18:15,CEST/+0200,SP Tre Penne,3-2,2-2,SS Pennarossa,,2023-10-21T16:15Z
+,6,Sat Oct 21 2023,15:00,CEST/+0200,FC Domagnano,1-0,0-0,AC Libertas,,2023-10-21T13:00Z
+,6,Sun Oct 22 2023,15:00,CEST/+0200,San Marino Academy,0-3,0-1,SS Virtus,,2023-10-22T13:00Z
+,6,Sun Oct 22 2023,15:00,CEST/+0200,SC Faetano,3-3,2-3,SP Tre Fiori,,2023-10-22T13:00Z
+,7,Sat Oct 28 2023,15:00,CEST/+0200,AC Juvenes/Dogana,2-2,2-0,San Marino Academy,,2023-10-28T13:00Z
+,7,Sat Oct 28 2023,15:00,CEST/+0200,SS Pennarossa,1-2,1-2,FC Domagnano,,2023-10-28T13:00Z
+,7,Sat Oct 28 2023,15:00,CEST/+0200,SS San Giovanni,2-0,2-0,FC Fiorentino,,2023-10-28T13:00Z
+,7,Sat Oct 28 2023,15:00,CEST/+0200,SS Virtus,2-1,1-0,SP La Fiorita,,2023-10-28T13:00Z
+,7,Sat Oct 28 2023,18:15,CEST/+0200,AC Libertas,2-2,2-2,SS Folgore/Falciano,,2023-10-28T16:15Z
+,7,Sun Oct 29 2023,15:00,CET/+0100,SP Tre Fiori,5-0,4-0,SS Cosmos,,2023-10-29T14:00Z
+,7,Sun Oct 29 2023,15:00,CET/+0100,SP Tre Penne,3-0,2-0,SS Murata,,2023-10-29T14:00Z
+,7,Sun Oct 29 2023,15:00,CET/+0100,SP Cailungo,4-1,2-0,SC Faetano,,2023-10-29T14:00Z
+,8,Sat Nov 4 2023,15:00,CET/+0100,SC Faetano,4-1,3-0,SS Folgore/Falciano,,2023-11-04T14:00Z
+,8,Sat Nov 4 2023,15:00,CET/+0100,AC Libertas,2-1,0-1,SP Cailungo,,2023-11-04T14:00Z
+,8,Sat Nov 4 2023,15:00,CET/+0100,SS San Giovanni,0-3,0-2,SP La Fiorita,,2023-11-04T14:00Z
+,8,Sat Nov 4 2023,15:00,CET/+0100,SS Cosmos,1-1,1-1,SP Tre Penne,,2023-11-04T14:00Z
+,8,Sat Nov 4 2023,18:15,CET/+0100,FC Domagnano,0-1,0-0,SS Virtus,,2023-11-04T17:15Z
+,8,Sun Nov 5 2023,15:00,CET/+0100,SS Murata,5-0,3-0,SS Pennarossa,,2023-11-05T14:00Z
+,8,Sun Nov 5 2023,15:00,CET/+0100,SP Tre Fiori,5-1,2-0,AC Juvenes/Dogana,,2023-11-05T14:00Z
+,8,Sun Nov 5 2023,15:00,CET/+0100,FC Fiorentino,3-2,2-0,San Marino Academy,,2023-11-05T14:00Z
+,9,Sat Nov 11 2023,15:00,CET/+0100,SP Cailungo,1-1,1-0,FC Domagnano,,2023-11-11T14:00Z
+,9,Sat Nov 11 2023,15:00,CET/+0100,SS Pennarossa,0-3,0-3,SP La Fiorita,,2023-11-11T14:00Z
+,9,Sat Nov 11 2023,15:00,CET/+0100,SS Folgore/Falciano,0-2,0-2,SS Murata,,2023-11-11T14:00Z
+,9,Sat Nov 11 2023,18:15,CET/+0100,San Marino Academy,1-2,0-2,SP Tre Fiori,,2023-11-11T17:15Z
+,9,Sat Nov 11 2023,18:15,CET/+0100,SP Tre Penne,6-0,2-0,FC Fiorentino,,2023-11-11T17:15Z
+,9,Sun Nov 12 2023,15:00,CET/+0100,AC Libertas,1-1,1-0,SS San Giovanni,,2023-11-12T14:00Z
+,9,Sun Nov 12 2023,15:00,CET/+0100,SS Virtus,6-1,3-0,SC Faetano,,2023-11-12T14:00Z
+,9,Sun Nov 12 2023,15:00,CET/+0100,AC Juvenes/Dogana,0-4,0-2,SS Cosmos,,2023-11-12T14:00Z
+,10,Sat Nov 25 2023,15:00,CET/+0100,FC Domagnano,0-0,0-0,SP Tre Penne,,2023-11-25T14:00Z
+,10,Sat Nov 25 2023,15:00,CET/+0100,SS Murata,4-1,3-0,AC Juvenes/Dogana,,2023-11-25T14:00Z
+,10,Sat Nov 25 2023,15:00,CET/+0100,SP La Fiorita,1-0,0-0,SP Tre Fiori,,2023-11-25T14:00Z
+,10,Sat Nov 25 2023,18:15,CET/+0100,SS San Giovanni,0-2,0-1,SC Faetano,,2023-11-25T17:15Z
+,10,Sat Nov 25 2023,18:15,CET/+0100,SS Cosmos,4-0,2-0,San Marino Academy,,2023-11-25T17:15Z
+,10,Sun Nov 26 2023,15:00,CET/+0100,SP Cailungo,0-0,0-0,SS Pennarossa,,2023-11-26T14:00Z
+,10,Sun Nov 26 2023,15:00,CET/+0100,AC Libertas,0-1,0-0,FC Fiorentino,,2023-11-26T14:00Z
+,10,Sun Nov 26 2023,15:00,CET/+0100,SS Folgore/Falciano,0-2,0-1,SS Virtus,,2023-11-26T14:00Z
+,11,Sat Dec 2 2023,15:00,CET/+0100,SS Pennarossa,1-5,1-4,SS Cosmos,,2023-12-02T14:00Z
+,11,Sat Dec 2 2023,15:00,CET/+0100,San Marino Academy,2-0,1-0,SC Faetano,,2023-12-02T14:00Z
+,11,Sat Dec 2 2023,15:00,CET/+0100,SP Tre Penne,2-1,0-0,AC Libertas,,2023-12-02T14:00Z
+,11,Sat Dec 2 2023,15:00,CET/+0100,SS Virtus,2-0,1-0,SS Murata,,2023-12-02T14:00Z
+,11,Sat Dec 2 2023,18:15,CET/+0100,SP Tre Fiori,2-1,0-0,SP Cailungo,,2023-12-02T17:15Z
+,11,Sun Dec 3 2023,15:00,CET/+0100,FC Fiorentino,1-3,0-2,SP La Fiorita,,2023-12-03T14:00Z
+,11,Sun Dec 3 2023,15:00,CET/+0100,AC Juvenes/Dogana,0-1,0-0,SS Folgore/Falciano,,2023-12-03T14:00Z
+,11,Sun Dec 3 2023,15:00,CET/+0100,FC Domagnano,0-2,0-1,SS San Giovanni,,2023-12-03T14:00Z
+,12,Sat Dec 9 2023,15:00,CET/+0100,FC Domagnano,2-2,0-1,FC Fiorentino,,2023-12-09T14:00Z
+,12,Sat Dec 9 2023,15:00,CET/+0100,SS Cosmos,3-0,1-0,SS Virtus,,2023-12-09T14:00Z
+,12,Sat Dec 9 2023,15:00,CET/+0100,SS Folgore/Falciano,0-2,0-0,SP Tre Penne,,2023-12-09T14:00Z
+,12,Sat Dec 9 2023,18:15,CET/+0100,SS San Giovanni,5-0,3-0,SP Cailungo,,2023-12-09T17:15Z
+,12,Sat Dec 9 2023,18:15,CET/+0100,SP La Fiorita,3-1,1-0,San Marino Academy,,2023-12-09T17:15Z
+,12,Sun Dec 10 2023,15:00,CET/+0100,SS Murata,0-0,0-0,SP Tre Fiori,,2023-12-10T14:00Z
+,12,Sun Dec 10 2023,18:15,CET/+0100,SC Faetano,2-0,0-0,SS Pennarossa,,2023-12-10T17:15Z
+,12,Sun Dec 10 2023,15:00,CET/+0100,AC Libertas,1-0,0-0,AC Juvenes/Dogana,,2023-12-10T14:00Z
+,13,Sat Dec 16 2023,15:00,CET/+0100,AC Juvenes/Dogana,3-1,1-1,SC Faetano,,2023-12-16T14:00Z
+,13,Sat Dec 16 2023,15:00,CET/+0100,SS Pennarossa,0-3,0-3,SS San Giovanni,,2023-12-16T14:00Z
+,13,Sat Dec 16 2023,15:00,CET/+0100,San Marino Academy,1-3,1-0,FC Domagnano,,2023-12-16T14:00Z
+,13,Sat Dec 16 2023,15:00,CET/+0100,SS Cosmos,2-1,1-0,SS Murata,,2023-12-16T14:00Z
+,13,Sat Dec 16 2023,18:15,CET/+0100,SP Tre Fiori,2-1,2-0,AC Libertas,,2023-12-16T17:15Z
+,13,Sun Dec 17 2023,15:00,CET/+0100,SP Tre Penne,1-2,1-1,SP La Fiorita,,2023-12-17T14:00Z
+,13,Sun Dec 17 2023,15:00,CET/+0100,SS Virtus,3-0,3-0,SP Cailungo,,2023-12-17T14:00Z
+,13,Sun Dec 17 2023,15:00,CET/+0100,FC Fiorentino,1-2,1-2,SS Folgore/Falciano,,2023-12-17T14:00Z
+,14,Sat Jan 6 2024,15:00,CET/+0100,SP Cailungo,0-1,0-0,AC Juvenes/Dogana,,2024-01-06T14:00Z
+,14,Sat Jan 6 2024,15:00,CET/+0100,FC Domagnano,1-6,1-6,SP La Fiorita,,2024-01-06T14:00Z
+,14,Sat Jan 6 2024,15:00,CET/+0100,SS Murata,2-0,1-0,San Marino Academy,,2024-01-06T14:00Z
+,14,Sat Jan 6 2024,15:00,CET/+0100,SP Tre Penne,0-3,0-2,SP Tre Fiori,,2024-01-06T14:00Z
+,14,Sat Jan 6 2024,18:15,CET/+0100,SC Faetano,0-1,0-0,FC Fiorentino,,2024-01-06T17:15Z
+,14,Sun Jan 7 2024,15:00,CET/+0100,SS San Giovanni,1-2,1-0,SS Virtus,,2024-01-07T14:00Z
+,14,Sun Jan 7 2024,15:00,CET/+0100,SS Folgore/Falciano,8-0,2-0,SS Pennarossa,,2024-01-07T14:00Z
+,14,Sun Jan 7 2024,15:00,CET/+0100,AC Libertas,1-3,1-2,SS Cosmos,,2024-01-07T14:00Z
+,15,Sat Jan 13 2024,15:00,CET/+0100,FC Fiorentino,2-1,2-1,SS Murata,,2024-01-13T14:00Z
+,15,Sat Jan 13 2024,15:00,CET/+0100,SS Pennarossa,1-4,0-3,AC Libertas,,2024-01-13T14:00Z
+,15,Sat Jan 13 2024,15:00,CET/+0100,San Marino Academy,0-4,0-2,SS Folgore/Falciano,,2024-01-13T14:00Z
+,15,Sat Jan 13 2024,15:00,CET/+0100,SS Cosmos,7-1,4-1,SC Faetano,,2024-01-13T14:00Z
+,15,Sat Jan 13 2024,18:15,CET/+0100,SS San Giovanni,2-3,1-1,AC Juvenes/Dogana,,2024-01-13T17:15Z
+,15,Sat Jan 13 2024,18:15,CET/+0100,SP La Fiorita,7-0,3-0,SP Cailungo,,2024-01-13T17:15Z
+,15,Sun Jan 14 2024,15:00,CET/+0100,SS Virtus,1-2,1-1,SP Tre Penne,,2024-01-14T14:00Z
+,15,Sun Jan 14 2024,15:00,CET/+0100,SP Tre Fiori,2-2,0-0,FC Domagnano,,2024-01-14T14:00Z
+,16,Sat Jan 20 2024,15:00,CET/+0100,SC Faetano,0-0,0-0,SS Murata,,2024-01-20T14:00Z
+,16,Sat Jan 20 2024,15:00,CET/+0100,AC Libertas,0-3,0-1,SP La Fiorita,,2024-01-20T14:00Z
+,16,Sat Jan 20 2024,15:00,CET/+0100,SP Tre Penne,2-3,2-1,AC Juvenes/Dogana,,2024-01-20T14:00Z
+,16,Sat Jan 20 2024,15:00,CET/+0100,SS Virtus,1-0,0-0,SP Tre Fiori,,2024-01-20T14:00Z
+,16,Sat Jan 20 2024,18:15,CET/+0100,FC Domagnano,1-3,1-1,SS Cosmos,,2024-01-20T17:15Z
+,16,Sat Jan 20 2024,18:15,CET/+0100,SS Folgore/Falciano,3-0,1-0,SP Cailungo,,2024-01-20T17:15Z
+,16,Sun Jan 21 2024,15:00,CET/+0100,San Marino Academy,0-5,0-4,SS San Giovanni,,2024-01-21T14:00Z
+,16,Sun Jan 21 2024,15:00,CET/+0100,FC Fiorentino,4-0,4-0,SS Pennarossa,,2024-01-21T14:00Z
+,17,Tue Jan 23 2024,21:15,CET/+0100,AC Juvenes/Dogana,1-0,0-0,FC Domagnano,,2024-01-23T20:15Z
+,17,Tue Jan 23 2024,21:15,CET/+0100,SS Murata,1-0,1-0,AC Libertas,,2024-01-23T20:15Z
+,17,Tue Jan 23 2024,21:15,CET/+0100,SP La Fiorita,2-1,1-1,SC Faetano,,2024-01-23T20:15Z
+,17,Tue Jan 23 2024,21:15,CET/+0100,SS Cosmos,2-1,0-1,SS Folgore/Falciano,,2024-01-23T20:15Z
+,17,Wed Jan 24 2024,21:15,CET/+0100,SS Pennarossa,1-4,1-1,SS Virtus,,2024-01-24T20:15Z
+,17,Wed Jan 24 2024,21:15,CET/+0100,San Marino Academy,1-5,0-3,SP Tre Penne,,2024-01-24T20:15Z
+,17,Wed Jan 24 2024,21:15,CET/+0100,SP Tre Fiori,3-1,1-1,SS San Giovanni,,2024-01-24T20:15Z
+,17,Wed Jan 24 2024,21:15,CET/+0100,SP Cailungo,0-3,0-2,FC Fiorentino,,2024-01-24T20:15Z
+,18,Sat Jan 27 2024,15:00,CET/+0100,FC Fiorentino,2-1,1-1,SP Tre Fiori,,2024-01-27T14:00Z
+,18,Sat Jan 27 2024,15:00,CET/+0100,AC Libertas,1-3,0-1,SC Faetano,,2024-01-27T14:00Z
+,18,Sat Jan 27 2024,15:00,CET/+0100,SP Tre Penne,4-0,2-0,SP Cailungo,,2024-01-27T14:00Z
+,18,Sat Jan 27 2024,15:00,CET/+0100,SS Folgore/Falciano,1-0,0-0,SP La Fiorita,,2024-01-27T14:00Z
+,18,Sat Jan 27 2024,18:15,CET/+0100,FC Domagnano,0-1,0-0,SS Murata,,2024-01-27T17:15Z
+,18,Sun Jan 28 2024,15:00,CET/+0100,SS San Giovanni,0-3,0-1,SS Cosmos,,2024-01-28T14:00Z
+,18,Sun Jan 28 2024,15:00,CET/+0100,SS Virtus,2-1,1-0,AC Juvenes/Dogana,,2024-01-28T14:00Z
+,18,Sun Jan 28 2024,15:00,CET/+0100,SS Pennarossa,0-1,0-1,San Marino Academy,,2024-01-28T14:00Z
+,19,Sat Feb 3 2024,15:00,CET/+0100,SP Cailungo,1-2,0-1,San Marino Academy,,2024-02-03T14:00Z
+,19,Sat Feb 3 2024,15:00,CET/+0100,FC Domagnano,1-0,0-0,SS Folgore/Falciano,,2024-02-03T14:00Z
+,19,Sat Feb 3 2024,15:00,CET/+0100,SS Murata,0-1,0-0,SS San Giovanni,,2024-02-03T14:00Z
+,19,Sat Feb 3 2024,15:00,CET/+0100,SP Tre Fiori,3-0,1-0,SS Pennarossa,,2024-02-03T14:00Z
+,19,Sat Feb 3 2024,18:15,CET/+0100,AC Libertas,0-2,0-1,SS Virtus,,2024-02-03T17:15Z
+,19,Sun Feb 4 2024,15:00,CET/+0100,SP La Fiorita,4-0,3-0,AC Juvenes/Dogana,,2024-02-04T14:00Z
+,19,Sun Feb 4 2024,15:00,CET/+0100,SS Cosmos,4-2,3-2,FC Fiorentino,,2024-02-04T14:00Z
+,19,Sun Feb 4 2024,15:00,CET/+0100,SC Faetano,1-3,0-0,SP Tre Penne,,2024-02-04T14:00Z
+,20,Sat Feb 10 2024,15:00,CET/+0100,FC Fiorentino,3-1,1-0,SS Virtus,,2024-02-10T14:00Z
+,20,Sat Feb 10 2024,15:00,CET/+0100,SS Murata,1-2,0-1,SP La Fiorita,,2024-02-10T14:00Z
+,20,Sat Feb 10 2024,15:00,CET/+0100,SS San Giovanni,1-3,0-2,SP Tre Penne,,2024-02-10T14:00Z
+,20,Sat Feb 10 2024,15:00,CET/+0100,SS Cosmos,9-0,4-0,SP Cailungo,,2024-02-10T14:00Z
+,20,Sat Feb 10 2024,18:15,CET/+0100,San Marino Academy,1-1,1-0,AC Libertas,,2024-02-10T17:15Z
+,20,Sun Feb 11 2024,15:00,CET/+0100,AC Juvenes/Dogana,3-1,1-1,SS Pennarossa,,2024-02-11T14:00Z
+,20,Sun Feb 11 2024,15:00,CET/+0100,SS Folgore/Falciano,0-1,0-0,SP Tre Fiori,,2024-02-11T14:00Z
+,20,Sun Feb 11 2024,15:00,CET/+0100,SC Faetano,0-1,0-0,FC Domagnano,,2024-02-11T14:00Z
+,21,Sat Feb 17 2024,15:00,CET/+0100,AC Libertas,0-2,0-0,FC Domagnano,,2024-02-17T14:00Z
+,21,Sat Feb 17 2024,15:00,CET/+0100,SS Pennarossa,0-5,0-1,SP Tre Penne,,2024-02-17T14:00Z
+,21,Sat Feb 17 2024,15:00,CET/+0100,SP Tre Fiori,4-2,3-0,SC Faetano,,2024-02-17T14:00Z
+,21,Sat Feb 17 2024,15:00,CET/+0100,SS Virtus,3-2,2-2,San Marino Academy,,2024-02-17T14:00Z
+,21,Sat Feb 17 2024,18:15,CET/+0100,SS San Giovanni,2-1,1-1,SS Folgore/Falciano,,2024-02-17T17:15Z
+,21,Sat Feb 17 2024,18:15,CET/+0100,SP La Fiorita,1-0,1-0,SS Cosmos,,2024-02-17T17:15Z
+,21,Sun Feb 18 2024,15:00,CET/+0100,AC Juvenes/Dogana,1-1,0-0,FC Fiorentino,,2024-02-18T14:00Z
+,21,Sun Feb 18 2024,15:00,CET/+0100,SP Cailungo,1-3,0-2,SS Murata,,2024-02-18T14:00Z
+,22,Tue Feb 20 2024,21:15,CET/+0100,FC Domagnano,0-0,0-0,SS Pennarossa,,2024-02-20T20:15Z
+,22,Tue Feb 20 2024,21:15,CET/+0100,SP La Fiorita,0-1,0-0,SS Virtus,,2024-02-20T20:15Z
+,22,Tue Feb 20 2024,21:15,CET/+0100,SS Cosmos,1-1,1-1,SP Tre Fiori,,2024-02-20T20:15Z
+,22,Tue Feb 20 2024,21:15,CET/+0100,SS Folgore/Falciano,1-1,0-0,AC Libertas,,2024-02-20T20:15Z
+,22,Wed Feb 21 2024,21:15,CET/+0100,FC Fiorentino,1-1,0-1,SS San Giovanni,,2024-02-21T20:15Z
+,22,Wed Feb 21 2024,21:15,CET/+0100,SS Murata,0-2,0-0,SP Tre Penne,,2024-02-21T20:15Z
+,22,Wed Feb 21 2024,21:15,CET/+0100,San Marino Academy,1-2,0-1,AC Juvenes/Dogana,,2024-02-21T20:15Z
+,22,Wed Feb 21 2024,21:15,CET/+0100,SC Faetano,2-0,2-0,SP Cailungo,,2024-02-21T20:15Z
+,23,Sat Feb 24 2024,15:00,CET/+0100,SP Cailungo,0-1,0-1,AC Libertas,,2024-02-24T14:00Z
+,23,Sat Feb 24 2024,15:00,CET/+0100,SS Pennarossa,0-3,0-0,SS Murata,,2024-02-24T14:00Z
+,23,Sat Feb 24 2024,15:00,CET/+0100,San Marino Academy,2-0,0-0,FC Fiorentino,,2024-02-24T14:00Z
+,23,Sat Feb 24 2024,15:00,CET/+0100,SS Virtus,0-0,0-0,FC Domagnano,,2024-02-24T14:00Z
+,23,Sat Feb 24 2024,18:15,CET/+0100,SS Folgore/Falciano,4-1,1-1,SC Faetano,,2024-02-24T17:15Z
+,23,Sun Feb 25 2024,15:00,CET/+0100,SP La Fiorita,2-1,2-0,SS San Giovanni,,2024-02-25T14:00Z
+,23,Sun Feb 25 2024,15:00,CET/+0100,SP Tre Penne,1-0,0-0,SS Cosmos,,2024-02-25T14:00Z
+,23,Sun Feb 25 2024,15:00,CET/+0100,AC Juvenes/Dogana,2-1,0-1,SP Tre Fiori,,2024-02-25T14:00Z
+,24,Sat Mar 2 2024,15:00,CET/+0100,FC Domagnano,3-0,0-0,SP Cailungo,,2024-03-02T14:00Z
+,24,Sat Mar 2 2024,15:00,CET/+0100,SC Faetano,2-3,1-3,SS Virtus,,2024-03-02T14:00Z
+,24,Sat Mar 2 2024,15:00,CET/+0100,SP La Fiorita,3-0,1-0,SS Pennarossa,,2024-03-02T14:00Z
+,24,Sat Mar 2 2024,15:00,CET/+0100,SP Tre Fiori,1-3,0-0,San Marino Academy,,2024-03-02T14:00Z
+,24,Sat Mar 2 2024,18:15,CET/+0100,FC Fiorentino,0-4,0-2,SP Tre Penne,,2024-03-02T17:15Z
+,24,Sat Mar 2 2024,18:15,CET/+0100,SS Cosmos,2-1,1-0,AC Juvenes/Dogana,,2024-03-02T17:15Z
+,24,Sun Mar 3 2024,15:00,CET/+0100,SS San Giovanni,2-1,0-0,AC Libertas,,2024-03-03T14:00Z
+,24,Sun Mar 3 2024,15:00,CET/+0100,SS Murata,1-0,0-0,SS Folgore/Falciano,,2024-03-03T14:00Z
+,25,Sat Mar 9 2024,15:00,CET/+0100,SC Faetano,1-2,1-1,SS San Giovanni,,2024-03-09T14:00Z
+,25,Sat Mar 9 2024,15:00,CET/+0100,FC Fiorentino,4-3,2-1,AC Libertas,,2024-03-09T14:00Z
+,25,Sat Mar 9 2024,15:00,CET/+0100,AC Juvenes/Dogana,2-4,1-4,SS Murata,,2024-03-09T14:00Z
+,25,Sat Mar 9 2024,15:00,CET/+0100,San Marino Academy,0-5,0-1,SS Cosmos,,2024-03-09T14:00Z
+,25,Sat Mar 9 2024,18:15,CET/+0100,SS Pennarossa,0-2,0-2,SP Cailungo,,2024-03-09T17:15Z
+,25,Sun Mar 10 2024,15:00,CET/+0100,SP Tre Penne,0-2,0-0,FC Domagnano,,2024-03-10T14:00Z
+,25,Sun Mar 10 2024,15:00,CET/+0100,SS Virtus,2-0,1-0,SS Folgore/Falciano,,2024-03-10T14:00Z
+,25,Sun Mar 10 2024,15:00,CET/+0100,SP Tre Fiori,1-1,0-0,SP La Fiorita,,2024-03-10T14:00Z
+,26,Tue Mar 12 2024,21:15,CET/+0100,SS Cosmos,6-2,4-0,SS Pennarossa,,2024-03-12T20:15Z
+,26,Tue Mar 12 2024,21:15,CET/+0100,SC Faetano,3-1,1-1,San Marino Academy,,2024-03-12T20:15Z
+,26,Wed Mar 13 2024,21:15,CET/+0100,SP Cailungo,1-3,0-2,SP Tre Fiori,,2024-03-13T20:15Z
+,26,Wed Mar 13 2024,21:15,CET/+0100,AC Libertas,1-3,0-0,SP Tre Penne,,2024-03-13T20:15Z
+,26,Wed Mar 13 2024,21:15,CET/+0100,SS Murata,0-1,0-0,SS Virtus,,2024-03-13T20:15Z
+,26,Wed Mar 13 2024,21:15,CET/+0100,SP La Fiorita,2-0,1-0,FC Fiorentino,,2024-03-13T20:15Z
+,26,Wed Mar 13 2024,21:15,CET/+0100,SS Folgore/Falciano,1-0,0-0,AC Juvenes/Dogana,,2024-03-13T20:15Z
+,26,Thu Mar 14 2024,21:15,CET/+0100,SS San Giovanni,3-1,2-0,FC Domagnano,,2024-03-14T20:15Z
+,27,Sat Mar 16 2024,15:00,CET/+0100,San Marino Academy,0-3,0-1,SP La Fiorita,,2024-03-16T14:00Z
+,27,Sat Mar 16 2024,15:00,CET/+0100,SP Tre Fiori,0-1,0-1,SS Murata,,2024-03-16T14:00Z
+,27,Sat Mar 16 2024,15:00,CET/+0100,SP Tre Penne,2-1,1-0,SS Folgore/Falciano,,2024-03-16T14:00Z
+,27,Sat Mar 16 2024,15:00,CET/+0100,SS Virtus,1-0,1-0,SS Cosmos,,2024-03-16T14:00Z
+,27,Sat Mar 16 2024,18:15,CET/+0100,AC Juvenes/Dogana,4-1,2-1,AC Libertas,,2024-03-16T17:15Z
+,27,Sun Mar 17 2024,15:00,CET/+0100,FC Fiorentino,2-0,2-0,FC Domagnano,,2024-03-17T14:00Z
+,27,Sun Mar 17 2024,15:00,CET/+0100,SS Pennarossa,4-3,1-2,SC Faetano,,2024-03-17T14:00Z
+,27,Sun Mar 17 2024,15:00,CET/+0100,SP Cailungo,0-4,0-1,SS San Giovanni,,2024-03-17T14:00Z
+,28,Sat Apr 6 2024,15:00,CEST/+0200,FC Domagnano,2-0,1-0,San Marino Academy,,2024-04-06T13:00Z
+,28,Sat Apr 6 2024,15:00,CEST/+0200,SC Faetano,0-3,0-1,AC Juvenes/Dogana,,2024-04-06T13:00Z
+,28,Sat Apr 6 2024,15:00,CEST/+0200,SS Murata,1-0,0-0,SS Cosmos,,2024-04-06T13:00Z
+,28,Sat Apr 6 2024,15:00,CEST/+0200,SS San Giovanni,9-0,3-0,SS Pennarossa,,2024-04-06T13:00Z
+,28,Sat Apr 6 2024,18:15,CEST/+0200,SS Folgore/Falciano,2-2,1-1,FC Fiorentino,,2024-04-06T16:15Z
+,28,Sun Apr 7 2024,15:00,CEST/+0200,AC Libertas,1-2,1-0,SP Tre Fiori,,2024-04-07T13:00Z
+,28,Sun Apr 7 2024,15:00,CEST/+0200,SP La Fiorita,3-2,2-1,SP Tre Penne,,2024-04-07T13:00Z
+,28,Sun Apr 7 2024,15:00,CEST/+0200,SP Cailungo,0-3,0-1,SS Virtus,,2024-04-07T13:00Z
+,29,Sat Apr 13 2024,15:00,CEST/+0200,SS Pennarossa,2-4,1-1,SS Folgore/Falciano,,2024-04-13T13:00Z
+,29,Sat Apr 13 2024,15:00,CEST/+0200,San Marino Academy,0-7,0-5,SS Murata,,2024-04-13T13:00Z
+,29,Sat Apr 13 2024,15:00,CEST/+0200,SP Tre Fiori,2-1,1-1,SP Tre Penne,,2024-04-13T13:00Z
+,29,Sat Apr 13 2024,15:00,CEST/+0200,SS Cosmos,0-1,0-1,AC Libertas,,2024-04-13T13:00Z
+,29,Sun Apr 14 2024,15:00,CEST/+0200,AC Juvenes/Dogana,1-0,1-0,SP Cailungo,,2024-04-14T13:00Z
+,29,Sun Apr 14 2024,15:00,CEST/+0200,SP La Fiorita,2-0,1-0,FC Domagnano,,2024-04-14T13:00Z
+,29,Sun Apr 14 2024,15:00,CEST/+0200,SS Virtus,4-1,2-1,SS San Giovanni,,2024-04-14T13:00Z
+,29,Sun Apr 14 2024,15:00,CEST/+0200,FC Fiorentino,1-3,0-2,SC Faetano,,2024-04-14T13:00Z
+,30,Sat Apr 20 2024,15:00,CEST/+0200,SP Cailungo,0-2,0-1,SP La Fiorita,,2024-04-20T13:00Z
+,30,Sat Apr 20 2024,15:00,CEST/+0200,FC Domagnano,1-1,0-0,SP Tre Fiori,,2024-04-20T13:00Z
+,30,Sat Apr 20 2024,15:00,CEST/+0200,SC Faetano,0-3,0-1,SS Cosmos,,2024-04-20T13:00Z
+,30,Sat Apr 20 2024,15:00,CEST/+0200,SS Murata,3-0,1-0,FC Fiorentino,,2024-04-20T13:00Z
+,30,Sat Apr 20 2024,15:00,CEST/+0200,SP Tre Penne,0-1,0-0,SS Virtus,,2024-04-20T13:00Z
+,30,Sun Apr 21 2024,15:00,CEST/+0200,AC Libertas,0-2,0-1,SS Pennarossa,,2024-04-21T13:00Z
+,30,Sun Apr 21 2024,18:15,CEST/+0200,SS Folgore/Falciano,1-1,0-1,San Marino Academy,,2024-04-21T16:15Z
+,30,Sun Apr 21 2024,15:00,CEST/+0200,AC Juvenes/Dogana,1-2,0-0,SS San Giovanni,,2024-04-21T13:00Z
+ECL Playoffs,Round 1,Wed Apr 24 2024,20:45,CEST/+0200,SS Folgore/Falciano,2-0,1-0,FC Fiorentino,,2024-04-24T18:45Z
+ECL Playoffs,Round 1,Wed Apr 24 2024,20:45,CEST/+0200,AC Juvenes/Dogana,3-2,1-2,FC Domagnano,,2024-04-24T18:45Z
+ECL Playoffs,Quarterfinals,Sat Apr 27 2024,15:00,CEST/+0200,SP Tre Fiori,0-0,0-0,SS Murata,,2024-04-27T13:00Z
+ECL Playoffs,Quarterfinals,Sat Apr 27 2024,18:15,CEST/+0200,SS Cosmos,1-2,1-1,SS San Giovanni,,2024-04-27T16:15Z
+ECL Playoffs,Quarterfinals,Sun Apr 28 2024,17:30,CEST/+0200,SP Tre Penne,3-0,2-0,AC Juvenes/Dogana,,2024-04-28T15:30Z
+ECL Playoffs,Quarterfinals,Sun Apr 28 2024,15:00,CEST/+0200,SP La Fiorita,1-0,1-0,SS Folgore/Falciano,,2024-04-28T13:00Z
+ECL Playoffs,Quarterfinals,Tue Apr 30 2024,20:45,CEST/+0200,SS San Giovanni,0-3,0-0,SS Cosmos,,2024-04-30T18:45Z
+ECL Playoffs,Quarterfinals,Tue Apr 30 2024,20:45,CEST/+0200,SS Murata,2-1,1-1,SP Tre Fiori,,2024-04-30T18:45Z
+ECL Playoffs,Quarterfinals,Wed May 1 2024,20:45,CEST/+0200,AC Juvenes/Dogana,4-2,1-1,SP Tre Penne,,2024-05-01T18:45Z
+ECL Playoffs,Quarterfinals,Wed May 1 2024,20:45,CEST/+0200,SS Folgore/Falciano,0-0,0-0,SP La Fiorita,,2024-05-01T18:45Z
+ECL Playoffs,Semifinals,Sat May 4 2024,15:00,CEST/+0200,SP La Fiorita,1-3,0-2,SS Murata,,2024-05-04T13:00Z
+ECL Playoffs,Semifinals,Sat May 4 2024,17:30,CEST/+0200,SS Cosmos,1-1,1-0,SP Tre Penne,,2024-05-04T15:30Z
+ECL Playoffs,Semifinals,Sat May 11 2024,17:30,CEST/+0200,SS Murata,0-1,0-1,SP La Fiorita,,2024-05-11T15:30Z
+ECL Playoffs,Semifinals,Sat May 11 2024,15:00,CEST/+0200,SP Tre Penne,0-0,0-0,SS Cosmos,,2024-05-11T13:00Z
+ECL Playoffs,Spiel um Platz 3,Fri May 17 2024,20:45,CEST/+0200,SP La Fiorita,2-0,0-0,SS Cosmos,,2024-05-17T18:45Z
+ECL Playoffs,Final,Sat May 18 2024,20:45,CEST/+0200,SS Murata,1-1,1-0,SP Tre Penne,2-3,2024-05-18T18:45Z
